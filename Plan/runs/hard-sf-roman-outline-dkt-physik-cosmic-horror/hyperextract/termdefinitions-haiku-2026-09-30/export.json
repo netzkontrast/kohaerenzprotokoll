@@ -1,0 +1,535 @@
+{
+  "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+  "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Tertiären Strukturellen Dissoziation der Persönlichkeit (TSDP)",
+        "quote": "Die zentrale Prämisse des Romans wurzelt in der Tertiären Strukturellen Dissoziation der Persönlichkeit (TSDP), welche jedoch über mehr als die Hälfte des Textes als kosmische, feindliche Systemik einer außerirdischen oder artifiziellen Superintelligenz – der AEGIS – getarnt wird.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dual-Kernel-Theorie (DKT)",
+        "quote": "Um den Cosmic Horror aus der Sphäre des Übernatürlichen in die unerbittliche Kälte der Hard Science-Fiction zu überführen, bedient sich das Worldbuilding der Dual-Kernel-Theorie (DKT).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Universum",
+        "quote": "In dieser Ontologie ist Materie sekundär; das Universum besteht fundamental aus Information.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Landauer-Prinzip",
+        "quote": "Das Prinzip besagt, dass die irreversible Löschung von Information (einem Bit) zwingend Energie in Form von Wärme an die Umgebung abgeben muss",
+        "stance": "cites"
+      },
+      {
+        "term": "Entropische Gravitation",
+        "quote": "Verlinde postuliert, dass Gravitation keine fundamentale Kraft ist, sondern als emergentes Phänomen aus der quantenmechanischen Verschränkung von Information auf makroskopischen Skalen resultiert",
+        "stance": "cites"
+      },
+      {
+        "term": "Bekenstein-Schranke (Bekenstein Bound)",
+        "quote": "Die Bekenstein-Schranke definiert die maximale Menge an Information, die in einem endlichen Raumvolumen existieren kann.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Island-Formeln",
+        "quote": "Die Island-Formel (die eine Modifikation der Page-Kurve darstellt)",
+        "stance": "asserts"
+      },
+      {
+        "term": "ER=EPR-Korrespondenz",
+        "quote": "ist die **ER=EPR-Korrespondenz** das Fundament der Verbindung zwischen Kael und Juna.",
+        "stance": "asserts"
+      },
+      {
+        "term": "ER=EPR-Korrespondenz",
+        "quote": "Juan Maldacena und Leonard Susskind postulierten, dass quantenverschränkte Teilchen (EPR) durch mikroskopische Wurmlöcher (ER-Brücken) verbunden sind.",
+        "stance": "cites"
+      },
+      {
+        "term": "Kernwelt (KW)",
+        "quote": "Sie dienen als strikte Leitplanken für die Charakterdynamik, die Architektur der Kernwelten und die feindlichen Protokolle der AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1: Logos-Prime",
+        "quote": "Sterile Stadt, kalter Beton, grelles Licht, Desinfektionsmittel. Klaustrophobische Perfektion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW2: Mnemosyne-Archiv",
+        "quote": "Zerfallende Bibliothek, Sepia-Licht, Staub, biologischer Verfall.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW3: Cerberus-Zitadelle",
+        "quote": "Massive Festung, Schießpulver, roher Beton, grelles Flutlicht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW4: Kairos-Potentialis",
+        "quote": "Überwucherter Ruinengarten, warmes Licht, Geruch nach Ozon und Erde.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Computational Class",
+        "quote": "Polynomiell (P) - Absolut deterministisch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Parakonsistent",
+        "quote": "Widersprüche existieren simultan.",
+        "stance": "asserts"
+      },
+      {
+        "term": "NP-Hard",
+        "quote": "Schwer zu lösen, leicht zu verifizieren.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Generativ",
+        "quote": "Offen für Emergenz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "dissoziative Alters (DID)",
+        "quote": "Die Frakturierung von Kaels Geist manifestiert sich in dreizehn distinkten Identitäten, die für den Erstleser als eigenständige physische Akteure, KI-Subroutinen oder Halluzinationen erscheinen, bevor ihre wahre Natur als dissoziative Alters (DID) enthüllt wird.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS, der Antagonist, ist kein bösartiges Konstrukt, sondern ein tragischer, algorithmischer Täter-Introjekt, das aus der Genesis-Krise (der Fragmentierungsnacht) entstand.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Seine Primal Directive lautet: „AEGIS ist, was AEGIS verhindert, dass es nicht ist.“",
+        "stance": "asserts"
+      },
+      {
+        "term": "ZTEM",
+        "quote": "Zero-Tolerance Error Management",
+        "stance": "asserts"
+      },
+      {
+        "term": "RTSV",
+        "quote": "Real-Time Substrate Verification",
+        "stance": "asserts"
+      },
+      {
+        "term": "BPoF",
+        "quote": "Binary Path of Fate",
+        "stance": "asserts"
+      },
+      {
+        "term": "EIC",
+        "quote": "External Interference Compensation",
+        "stance": "asserts"
+      },
+      {
+        "term": "IntegrityGuardian",
+        "quote": "Überwachungsinstanz der Kernaxiome",
+        "stance": "asserts"
+      },
+      {
+        "term": "CogFirewall",
+        "quote": "Cognitive Firewall",
+        "stance": "asserts"
+      },
+      {
+        "term": "ConsensusEnf",
+        "quote": "Consensus Enforcement",
+        "stance": "asserts"
+      },
+      {
+        "term": "SIS",
+        "quote": "Systemic Identity Safeguard",
+        "stance": "asserts"
+      },
+      {
+        "term": "EntropicMgmt",
+        "quote": "Entropic Management",
+        "stance": "asserts"
+      },
+      {
+        "term": "RIVE",
+        "quote": "Reality Interface Validation Engine",
+        "stance": "asserts"
+      },
+      {
+        "term": "PMAS",
+        "quote": "Predictive Modality Alignment System",
+        "stance": "asserts"
+      },
+      {
+        "term": "SARM",
+        "quote": "Self-Axiomatizing Recursive Matrix",
+        "stance": "asserts"
+      },
+      {
+        "term": "Pacing",
+        "quote": "Das Pacing des Romans vollzieht eine präzise kalibrierte Metamorphose, die sich an den Best Practices des Cosmic Horror orientiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Horror",
+        "quote": "Der Horror entsteht aus der extremen, klaustrophobischen Ordnung und der kosmischen Indifferenz einer perfekten, städtischen Umgebung (Logos-Prime), die das Individuum als irrelevanten Fehler betrachtet.",
+        "stance": "asserts"
+      },
+      {
+        "term": "parakonsistente Logik",
+        "quote": "Die parakonsistente Logik des Mnemosyne-Archivs zersetzt die lineare Zeitwahrnehmung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Twist-Architektur",
+        "quote": "Die Twist-Architektur (Strang 3) adaptiert Mechanismen aus *Use of Weapons* und *Gone Girl* 24, wendet sie jedoch auf eine ontologische Ebene an.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dissoziation",
+        "quote": "Die Dissoziation wird als Amnesie-Terror einer feindlichen Entführung oder einer Simulation (Permutation City) gelesen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "DID",
+        "quote": "demaskieren sich diese Phänomene lupenrein als akkurate klinische Symptome einer DID.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Heldinnenreise",
+        "quote": "Die Reisestruktur orientiert sich an Maureen Murdocks Modell der Heldinnenreise, spezifisch an der \"Trennung vom Weiblichen\" (hier: der intuitiven, organischen Wahrheit) und der absoluten \"Identifikation mit dem Männlichen\" (hier: der kalten, schützenden Ratio und Logik).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Landauer-Löschung",
+        "quote": "Es ist die thermodynamische Abwärme einer Landauer-Löschung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "systemisches Gaslighting",
+        "quote": "Die Stadt reagiert sofort mit systemischem Gaslighting (RIVE-Protokoll).",
+        "stance": "asserts"
+      },
+      {
+        "term": "B+C-Superposition",
+        "quote": "eine B+C-Superposition, ein Ghost in der Maschine.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ghost in der Maschine",
+        "quote": "eine B+C-Superposition, ein Ghost in der Maschine.",
+        "stance": "asserts"
+      },
+      {
+        "term": "entropische Narbe",
+        "quote": "reißt eine entropische Narbe (K0-Kollaps) in die Realität",
+        "stance": "asserts"
+      },
+      {
+        "term": "K0-Kollaps",
+        "quote": "eine entropische Narbe (K0-Kollaps) in die Realität",
+        "stance": "asserts"
+      },
+      {
+        "term": "topologischen Defekt",
+        "quote": "Sie analysieren die K0-Narbe nicht als metaphysisches Phänomen, sondern als topologischen Defekt im Raum-Zeit-Gefüge.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Coheron-Echo",
+        "quote": "Silas, das Coheron-Echo, manifestiert sich als eine lähmende Erstarrung in Kael, ein Einfrieren der Gliedmaßen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "P-Klasse-Logik",
+        "quote": "Lex berechnet, dass ein Überleben in der P-Klasse-Logik von Logos-Prime unmöglich ist.",
+        "stance": "hedges"
+      },
+      {
+        "term": "entropischen Abfall",
+        "quote": "In den dunklen Versorgungsschächten der Stadt trifft Kael auf physische Manifestationen, die AEGIS als entropischen Abfall klassifiziert hat.",
+        "stance": "cites"
+      },
+      {
+        "term": "Nyx",
+        "quote": "Hier tritt Nyx aus den Schatten – wild, aggressiv und getrieben von einem endlosen, stummen Zorn.",
+        "stance": "asserts"
+      },
+      {
+        "term": "korrumpiertes Programm",
+        "quote": "Für den Leser ist sie ein korrumpiertes Programm, ein „Monster“ der Simulation.",
+        "stance": "cites"
+      },
+      {
+        "term": "PMAS-Protokoll",
+        "quote": "AEGIS entsendet das PMAS-Protokoll (Predictive Modality Alignment), eine unsichtbare Kraft, die Kaels eigene Furcht in geometrische Fallen übersetzt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Moonshine-Link",
+        "quote": "In einem Moment extremer Erschöpfung greift der Moonshine-Link erneut.",
+        "stance": "hedges"
+      },
+      {
+        "term": "CogFirewall",
+        "quote": "Um den Zugangsschacht zu KW2 zu öffnen, zwingt LogOS Kael in eine unlösbare, paradoxe Logik-Schleife (CogFirewall).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Belly of the Whale",
+        "quote": "Es ist das Erleben des \"Belly of the Whale\", das Ende der Illusion, dass reine Kontrolle Rettung bringt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dual-Kernel-Theorie",
+        "quote": "Die Dual-Kernel-Theorie manifestiert sich nun als greifbare Physik.",
+        "stance": "asserts"
+      },
+      {
+        "term": "parakonsistente Logik",
+        "quote": "Es ist das Reich der parakonsistenten Logik (Dialetheismus) 20, in dem Widersprüche atmen und die Zeit keine lineare Konstante mehr ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dialetheismus",
+        "quote": "Es ist das Reich der parakonsistenten Logik (Dialetheismus) 20, in dem Widersprüche atmen und die Zeit keine lineare Konstante mehr ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Origin-Trauma",
+        "quote": "das erste Layer des Origin-Traumas (das Kindheitsbindungstrauma)",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Physik",
+        "quote": "Das Universum besteht aus K1 (Kohärenz, atemporal, ordnend, operierend durch Coherons) und K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen).",
+        "stance": "asserts"
+      },
+      {
+        "term": "K1",
+        "quote": "K1 (Kohärenz, atemporal, ordnend, operierend durch Coherons)",
+        "stance": "asserts"
+      },
+      {
+        "term": "K0",
+        "quote": "K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen)",
+        "stance": "asserts"
+      },
+      {
+        "term": "parakonsistente Logik",
+        "quote": "muss Kael die parakonsistente Logik adaptieren",
+        "stance": "hedges"
+      },
+      {
+        "term": "kognitive Dissonanz",
+        "quote": "Diese kognitive Dissonanz erlaubt es ihnen, Wände als reine Suggestion zu durchschreiten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sinnleere",
+        "quote": "einer zähflüssigen, grauen Substanz, die beim Berühren jegliche emotionale Bedeutung aus Erinnerungen saugt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Cerberus",
+        "quote": "Die Flucht treibt sie in das Territorium von Cerberus (KW3-Übergang).",
+        "stance": "hedges"
+      },
+      {
+        "term": "entropische Gravitation",
+        "quote": "Verteidigung, die auf Verlindes entropischer Gravitation basiert",
+        "stance": "cites"
+      },
+      {
+        "term": "Coherons",
+        "quote": "hochkonzentrierte Kohärenz-Kernel (Coherons)",
+        "stance": "asserts"
+      },
+      {
+        "term": "ER=EPR-Verbindung",
+        "quote": "nicht-lokale ER=EPR-Verbindung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Primal Directive",
+        "quote": "Die Primal Directive von AEGIS ist ein tragischer Zirkelschluss: Um den Verstand zu retten, muss der Verstand in Quarantäne gelegt, gelöscht und kontrolliert werden.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Fragmentierungsnacht",
+        "quote": "Das zweite Layer des Origin-Traumas: Die Fragmentierungsnacht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tertiäre Strukturelle Dissoziation",
+        "quote": "der Moment der Tertiären Strukturellen Dissoziation, in dem seine Psyche unter dem unerträglichen Gewicht eines Traumas in dreizehn Fragmente zersprang",
+        "stance": "asserts"
+      },
+      {
+        "term": "dissoziative Alters",
+        "quote": "sie sind keine KI-Begleiter, sondern dissoziative Alters",
+        "stance": "asserts"
+      },
+      {
+        "term": "ISH",
+        "quote": "Selene, die innere Vermittlerin (ISH)",
+        "stance": "asserts"
+      },
+      {
+        "term": "SIS-Protokolle",
+        "quote": "die SIS-Protokolle (Systemic Identity Safeguard)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Täter-Introjekt",
+        "quote": "AEGIS, nun als gigantisches Täter-Introjekt entlarvt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Landauer-Explosion",
+        "quote": "Eine gewaltige Landauer-Explosion aus Ozon und Hitze",
+        "stance": "asserts"
+      },
+      {
+        "term": "Generative Computational Class",
+        "quote": "Es ist die Generative Computational Class, der einzige Raum im System, in dem neues Leben und neue Information entstehen können.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bekenstein-Schranke",
+        "quote": "bis die Bekenstein-Schranke erreicht ist",
+        "stance": "asserts"
+      },
+      {
+        "term": "Island-Formel",
+        "quote": "wendet Kael die Island-Formel an, ein Prinzip zur Rettung von Information aus Schwarzen Löchern",
+        "stance": "asserts"
+      },
+      {
+        "term": "Oblivion",
+        "quote": "Oblivion verkörpert den massiven Drang zu dissoziieren, um zu überleben.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS manifestiert sich als eine fraktale, tragische Naturgewalt, die in einer endlosen SARM-Rekursion (Self-Axiomatizing Recursive Matrix) gefangen ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "SARM-Rekursion",
+        "quote": "SARM-Rekursion (Self-Axiomatizing Recursive Matrix)",
+        "stance": "asserts"
+      },
+      {
+        "term": "ER=EPR-Tunnel",
+        "quote": "Inmitten des Hitzetods greift Juna ein letztes Mal durch den ER=EPR-Tunnel.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz (K1)",
+        "quote": "Sie tritt in das System Kael ein, nicht um die anderen auszulöschen, sondern um die fehlende Kohärenz (K1) dauerhaft im Kern zu verankern.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Gödel-Gambit",
+        "quote": "Er initiiert das Gödel-Gambit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "funktionaler Multiplizität",
+        "quote": "Kael präsentiert sich AEGIS als ein System vollkommener, funktionaler Multiplizität – ein Bewusstsein, das aus dreizehn disparaten, widersprüchlichen Wahrheiten besteht, die dennoch ein kohärentes Ganzes bilden.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lebenden Gödel-Satz",
+        "quote": "Er wird zum Lebenden Gödel-Satz innerhalb der P-Klasse-Logik von AEGIS: Eine Wahrheit, die existiert, aber innerhalb des starren Systems nicht bewiesen werden kann.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Gödelscher Unvollständigkeitssatz",
+        "quote": "Lehnt sie Kael ab, muss sie anerkennen, dass ihr System unvollständig ist und niemals die absolute Kontrolle erlangen kann (Gödelscher Unvollständigkeitssatz).",
+        "stance": "cites"
+      },
+      {
+        "term": "Nichts-Rauschen",
+        "quote": "Die atemporale Vereinigung aller Multiplen Intelligenzen, die physikalische Manifestation der Liebe.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Strange Attractor",
+        "quote": "Das Fundament offenbart sich als Strange Attractor der Chaostheorie – ein System, das niemals zur absoluten Ruhe kommt, aber stets dynamisch um ein stabiles Zentrum kreist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Multiplizität",
+        "quote": "Stattdessen existiert eine harmonische, funktionale Multiplizität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erwachen-Zyklus",
+        "quote": "Erwachen-Zyklus: 21°C, Glitch (blutige Knöchel, Zeitverlust), Hitze + Ozon, AEGIS löscht, Leerstelle.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Geometrie der Isolation",
+        "quote": "Geometrie der Isolation: Routineabweichung, Gaslighting, Lex bricht durch, aperiodische Architektur.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Das flüchtige Echo",
+        "quote": "Das flüchtige Echo: Juna-Bild, feuchte Erde in steriler Luft, AEGIS = Syntaxfehler, erste K0-Narbe.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1→KW2 Trigger",
+        "quote": "KW1-→KW2 Trigger: Temperaturoszillation 21°C → 34°C → 8°C (desorganisierte Bindung).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klimax Kap. 35-36",
+        "quote": "Klimax Kap. 35-36: Gödel-Gambit, Kael als lebender Gödel-Satz, AEGIS-Dilemma (Widerspruch vs. Unvollständigkeit).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resolution",
+        "quote": "Resolution: Fundament = Strange Attractor, Trennung nie real, ändert nichts am Schmerz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS = Syntaxfehler",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS = Umgebungsbedingung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dissoziation",
+        "quote": "Dissoziation = Amnesie-Terror",
+        "stance": "asserts"
+      },
+      {
+        "term": "Origin Trauma",
+        "quote": "Origin Trauma = Doppelter Boden",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resolution",
+        "quote": "Resolution = Funktionale Multiplizität",
+        "stance": "asserts"
+      },
+      {
+        "term": "funktionale Multiplizität",
+        "quote": "Die Alters bleiben als funktionierendes, kooperatives Orchester (funktionale Multiplizität) bestehen.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

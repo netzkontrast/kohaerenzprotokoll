@@ -1,0 +1,12 @@
+{
+  "document": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "template": "TermContrasts.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 36,
+  "failed_calls": 2,
+  "seconds": 200.7,
+  "input_tokens": 196052,
+  "output_tokens": 14700,
+  "cost_usd": 0.4655,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
+}

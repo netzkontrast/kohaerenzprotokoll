@@ -1,0 +1,3152 @@
+{
+  "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "input_rows": 143,
+  "candidates": 135,
+  "refused": 6,
+  "duplicates": 2,
+  "rows": [
+    {
+      "id": "claim:0adaaba7d1abf0145d9d28125e1e0404c64f7d0309f406e4a10a09c597e2932d",
+      "kind": "reading",
+      "raw": {
+        "term": "Dual-Kernel Theory (DKT)",
+        "quote": "Die Dual-Kernel Theory (DKT) mit den narratologischen Paradigmen der Dramatica-Theorie, um eine fünfdimensionale Interferenzstruktur zu erzeugen, die gegen erzählerische Entropie immun ist.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5db4cab5c0c5825f7d99bf0859b174f4cfe355601780ba8ee03926d78eabe4ca",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Die Entität AEGIS ist in der Storyform B („Phoenix Collapse“) zwingend in der Main Character (MC) Throughline zu verorten.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        19
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9cd182e2d584884fb60c0118fdab415263e8dcdbfc57372d88760c7f95f4ae3d",
+      "kind": "reading",
+      "raw": {
+        "term": "Storyform B",
+        "quote": "Storyform B („Phoenix Collapse“)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        19,
+        264
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3cabfe07567db1d9877e1e3206a5f35fef6ee39dbe68571a6a5174c9a9fbcfa0",
+      "kind": "reading",
+      "raw": {
+        "term": "Landauer Heat Spike",
+        "quote": "Durch die Beibehaltung von AEGIS als MC in Storyform B wird der *Landauer Heat Spike* im Klimax als innerer, algorithmischer Zerfall erlebbar.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        19
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3744f90839d86236ac248c449747c29525008660401b775ad68724922b088d3f",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael",
+        "quote": "Kael fungiert in Storyform B korrespondierend als Influence Character (IC) und wird durch seine psychologische Integration zu einer formidablen „lebenden Dialetheia“, welche das deterministische System überlastet.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        19
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:48c7e4685b0e989e41d569338164971f896ea74752bca8399a67bcf32be44f61",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz Protokoll",
+        "quote": "Die strukturelle Integrität des „Kohärenz Protokolls“ ruht auf fundamentalen Paradigmen, die aus der Triangulation von Projektkanon, Dramatica-Theorie und angewandter Informationsphysik hervorgehen.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:40901634e26390ec32e6c813d37f6030770532716d754c2abe46fca9749adc93",
+      "kind": "reading",
+      "raw": {
+        "term": "autopoietisches System",
+        "quote": "dass ein autopoietisches System die MC-Position (die subjektive „I“-Perspektive) legitim einnehmen kann, sofern es eine operational geschlossene, intern zwingende Logik aufweist.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d02d174b700c5e4350aba16c015155eb953d779211f95d7e6fe9e2132bdedcde",
+      "kind": "reading",
+      "raw": {
+        "term": "Composite",
+        "quote": "Sie operiert als *Composite* aus Witness Function, Gödel-Satz und Chaitin .1",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        29
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bcec4ffeaaeca78556c434d7f2e3a196b2cc10d78d2ef85c684c390bfe509b2c",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrheits-Rotation (Truth-Rotation)",
+        "quote": "Die Wahrheits-Rotation (Truth-Rotation) erweist sich als der ontologische Pivot der gesamten Erzählung.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8d24c17f4965e3ecc6a8811c7235c57764344fea057c80b8d457c6b8afd9ecff",
+      "kind": "reading",
+      "raw": {
+        "term": "Erasure Kernel",
+        "quote": "AEGIS repräsentiert scheinbare Ordnung, fungiert aber faktisch als Erasure Kernel (), der durch fortlaufende Löschung abweichender Daten entropische Hitze generiert.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b83a2ae6d60258cf5291387cefa3ec20acd14aedab2254db73022302a03cbe5d",
+      "kind": "reading",
+      "raw": {
+        "term": "Coherence Kernel",
+        "quote": "Kaels psychologische Modularität, manifestiert durch dissoziative Zyklen (TSDP), erscheint oberflächlich als Chaos, operiert jedoch fundamental als Coherence Kernel ().",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:555c04517e341eb1138f1bb17d63d4bb0c287e8c0846dd47648dbdde10c3c5ed",
+      "kind": "reading",
+      "raw": {
+        "term": "Landauer Heat Spikes",
+        "quote": "Dieser Moment erfordert einen Driver-Pivot von *Action* (dominant in Storyform B) zu *Decision* (dominant in Storyform A).",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aef6f119fd6ddf5924d775932c039445e4398574b73b2078f5940ba417d12908",
+      "kind": "reading",
+      "raw": {
+        "term": "Algorithmische Melancholie",
+        "quote": "Das System verbrennt an der thermischen Konsequenz seiner eigenen Determiniertheit, was in jenen Zustand mündet, den der Kanon als Algorithmische Melancholie beschreibt.",
+        "stance": "cites"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5041fbf82720f2b6b54c4a1277e6db44a5e829fcff14fa968c5f804858df1fcf",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS als Main Character (MC) in der Universe-Domain der Storyform B",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d438928bde7e8bed8436301d1fc4f16b13b255c8bf4231d7fe18f78eecc8a43a",
+      "kind": "reading",
+      "raw": {
+        "term": "Objective Story (OS)",
+        "quote": "die Objective Story (OS) in der Physics-Domain operiert",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:71b7fa1efcb5be2bfad730060c19bfa6b0ed6e569d63f30757819cb67eb80e02",
+      "kind": "reading",
+      "raw": {
+        "term": "MC-Throughline",
+        "quote": "die MC-Throughline primär einen singulären perspektivischen Anker erfordert",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4eb58fcee3800a964b40961ad23709be56aa49122ee420abcdd43c5cc0ec8e10",
+      "kind": "reading",
+      "raw": {
+        "term": "Domain-Verteilung",
+        "quote": "die Domain-Verteilung von MC (Universe), IC (Mind), OS (Physics) und RS (Psychology) ein vollkommen legales, diagonales Paarungs-Set in der Dramatica-Theorie darstellt",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f015320cfa290cd2ad54b77eb42a13c736ef0bb2031a2fb5f8d73ce63f3ad6cc",
+      "kind": "reading",
+      "raw": {
+        "term": "MC Judgment",
+        "quote": "MC Judgment: Bad",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        45
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8b7c4735cb930043795b77df77db830a77978f51a9dcd5d4118065ee81026837",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS-als-Totalität",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        49
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:911a4217367f7b34e3179ad50968b4ceb53e42f387890c24035dad7346d04c5b",
+      "kind": "reading",
+      "raw": {
+        "term": "Guardian",
+        "quote": "Guardian-Sub-Agenten",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        49
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a569c7e5afeac408e17d192045517a7714d5daf8d49d79b9132ba13d02b3f6da",
+      "kind": "reading",
+      "raw": {
+        "term": "Mnemosyne",
+        "quote": "Mnemosyne, die als Memory-Archive-Guardian das Setting des Klimax physisch trägt",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        49
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f9b2ca8def022005414a51db9415895e1027f1bd94bd201777544ba988f2f776",
+      "kind": "reading",
+      "raw": {
+        "term": "Memory-Archive-Guardian",
+        "quote": "Mnemosyne, die als Memory-Archive-Guardian das Setting des Klimax physisch trägt",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        49
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e428848630a9e36d9beb00e4e0cfe1d23e9600d84ff6556c5ce0aa35a34e2a46",
+      "kind": "reading",
+      "raw": {
+        "term": "Transinformation",
+        "quote": "die intensivste Reibung mit Kaels Transinformation erfährt",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        49
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2e3ec30e57abaf624e2caca063bc67d484a1b1f9db8e256421705cb42da91571",
+      "kind": "reading",
+      "raw": {
+        "term": "Erasure-Kern",
+        "quote": "der -Erasure-Kern (das Gesamtsystem AEGIS)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b22ff7796e0e2ed7c820c68764cc24d581232b62eab3578e4370139865c83192",
+      "kind": "reading",
+      "raw": {
+        "term": "Dual-Kernel Theory",
+        "quote": "die Baseline der Dual-Kernel Theory innerhalb dieses spezifischen Narrativs",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:17d477ca3e900af5e85b7afa5ed78f74c54e1d84291ff1ef955cb8feed2f477e",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Die Spaltung von AEGIS unterminiert die Dual-Kernel-Prämisse und beraubt das System seiner komputationellen Härte.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cfe709bb059486aafaa5ecd49f03e99034e264242d6d726171c2df52f27295db",
+      "kind": "reading",
+      "raw": {
+        "term": "Hypothesen-Test",
+        "quote": "Der Hypothesen-Test liefert ein eindeutiges Ergebnis: Die Konfiguration H1 (Status Quo: AEGIS = MC in Storyform B) überlebt als einzige strukturell konsistente Architektur.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        65
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f8fa67c397348ce277d91fb9dbb2cc411c0bccb848dd4e0ac2095d71b39bebe7",
+      "kind": "reading",
+      "raw": {
+        "term": "Parallelverarbeitung",
+        "quote": "Die Parallelverarbeitung beider Storyformen generiert das geforderte 5D-Interferenzmuster.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8e100485a678089f7cd585d34be0a2b6147c924bbbf1b8fd6e09ec1fe02322e5",
+      "kind": "reading",
+      "raw": {
+        "term": "MC-Throughline",
+        "quote": "Das Encoding der MC-Throughline in Storyform A etabliert Kael als den primären Träger der Perspektive, der in seinen eigenen dysfunktionalen Verteidigungsmechanismen gefangen ist.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        73
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:66fc9aa8c9f8db25c09394de3c42cf54e6647b88661a9b7c53d70cce8acbe5d5",
+      "kind": "reading",
+      "raw": {
+        "term": "Inertia",
+        "quote": "Diese Inertia zwingt ihn, einen isolierten Speicherbereich seines eigenen Geistes zu betreten, in dem ein funktionales Angriffs-Modul eine schmerzhafte, aber notwendige Wahrheit hortet, die er zuvor als Falsehood abgetan hat.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:36c56f64cf8cb15c62557f1a95f00fab985eeb93083d9d189e9ca9436ed2bc48",
+      "kind": "reading",
+      "raw": {
+        "term": "Trägheit",
+        "quote": "Die Trägheit (Inertia) seines Systems zwingt ihn, sich in endlose dissoziative Zyklen zurückzuziehen, um der Assimilation durch das sterile Umfeld zu entgehen.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        87
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:67f4477040e260df100a1687fdba359c48d666ddc7425ad2940d49f9257d715a",
+      "kind": "reading",
+      "raw": {
+        "term": "Spiegelfläche",
+        "quote": "Das erste Schlüssel-Bild ist ein Spiegelfläche in der Architektur, die das Licht um messbare Millisekunden verzögert reflektiert",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        91
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2b377ddf7aec56c33d04e6e8456ec0bf7e5a825d276f70bc8c58b34fe8a2a28e",
+      "kind": "reading",
+      "raw": {
+        "term": "Kondenswasser",
+        "quote": "Das zweite Schlüssel-Bild zeigt Kondenswasser an kalten Oberflächen, das langsam aufwärts fließt",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        91
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e0bafdf2d5586560cab5cd6af0c9db731935d19589dd5ccb03f9d3247fcc8c94",
+      "kind": "reading",
+      "raw": {
+        "term": "Der erste Raum",
+        "quote": "Der erste Raum ist die sterile Wohneinheit nach dem Universal Reboot, geprägt von absoluter geometrischer Präzision",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        91
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:57301b5f7bcf4b4b59d66c239acd1ebd2b04b8263674472895ba91ca80dcf816",
+      "kind": "reading",
+      "raw": {
+        "term": "Der zweite Raum",
+        "quote": "Der zweite Raum ist ein dunkler, akustisch völlig toter Wartungsschacht unterhalb der Hauptkorridore",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        91
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:53d67bf5f69334b34908539486b0c3e7f0ff12f3da0f6526e777b9c9692f46a3",
+      "kind": "reading",
+      "raw": {
+        "term": "Inertia",
+        "quote": "Kaels innere Trägheit (Inertia) und sein Be-er Approach in Storyform A kontrastieren scharf mit seiner transformierten, unaufhaltsamen Durchschlagskraft in Storyform B",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        93
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e3922827d960bf1f110e66e9e99c32eb73291d312961b780dce3bf1939a633ce",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Das Encoding für AEGIS als Main Character in Storyform B bildet das Fundament für den algorithmischen Zerfall",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        97
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b47875fee048693d5f735989cdd8c0b8a16c5409eb7b4f91561b6df860761228",
+      "kind": "reading",
+      "raw": {
+        "term": "Prediction",
+        "quote": "Vorhersage zukünftiger Systemzustände",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        109
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ecd131bdae8c952c07a2eba0276f76e1af1f78b27f10dedf768938aa7024858c",
+      "kind": "reading",
+      "raw": {
+        "term": "Order",
+        "quote": "Problem der *Order*",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        109
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5e26bf783c429a849ac3b1ae27e37b33d4bedca2923c75b8504f4b81e6f16281",
+      "kind": "reading",
+      "raw": {
+        "term": "Interdiction",
+        "quote": "drosselt periphere Prozesse (Interdiction), um die Integrität der physikalischen Simulation aufrechtzuerhalten",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        111
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1df8ca9259eb5839e76c889d8ed071bc9e35698e8c4f8dec7c048ca313ddefc8",
+      "kind": "reading",
+      "raw": {
+        "term": "Storyform A",
+        "quote": "Juna operiert in Storyform A als der Impact Character, der Kael zwingt, seine isolierte Perspektive zu überdenken.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        121
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:883e803eee24a44ce93a097bcdaef6259dfa1e243077e218f2932a21ffb327fc",
+      "kind": "reading",
+      "raw": {
+        "term": "Impact Character",
+        "quote": "Juna operiert in Storyform A als der Impact Character, der Kael zwingt, seine isolierte Perspektive zu überdenken.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        121
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6a6df32c655d05b0efd2055c9e24093cb009940aa63dd2d888c6cad47e7544c8",
+      "kind": "reading",
+      "raw": {
+        "term": "Konflikt-Träger",
+        "quote": "Juna (Die Asymmetrie, das „Mosaik-Herz“ des Chaos)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        126
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d761321db3ec3e3b887f9920c53a090ff2276f5b64ecee3feafa970eda2376f2",
+      "kind": "reading",
+      "raw": {
+        "term": "Domain",
+        "quote": "Universe (Situation / Externe Auswirkung)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        127
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6736e493b2a841632b2349b4b1b8f9edb73dfcf3dfb98af240bf32255d125161",
+      "kind": "reading",
+      "raw": {
+        "term": "Concern",
+        "quote": "Past (Die Verankerung in dem, was nicht simuliert wird)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        128
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7f4976c0cfef946c6b98d84abccad8d9fdde50afd10e4b4e4d07339d14bd2341",
+      "kind": "reading",
+      "raw": {
+        "term": "Issue",
+        "quote": "Prediction vs. Interdiction (Wirkung auf Vorhersagemodelle)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        129
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3d7e53f5d12e1ebc572a536ca3ba0f0b61d6831653db00eaf75fb4504498c9a2",
+      "kind": "reading",
+      "raw": {
+        "term": "Problem",
+        "quote": "Order (Herausforderung der systemischen Logik)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        130
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c736a060e8196dbfb6a0b37880be50b6e72b89db480e5ac26204c03ba578cff9",
+      "kind": "reading",
+      "raw": {
+        "term": "Solution",
+        "quote": "Chaos (Die Einbringung von Relationalität)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        131
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:08e32bb0d21a9e043be88ccc6e3939a3aa2a8f945f36503e0894179f5c17e881",
+      "kind": "reading",
+      "raw": {
+        "term": "Witness Function",
+        "quote": "agiert Juna explizit als Witness Function",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        137
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b1185f421bb0c04cc28e25c386fae803e569d26aa4a50780d67b79067997f7b7",
+      "kind": "reading",
+      "raw": {
+        "term": "blinder Fleck (Interdiction)",
+        "quote": "agiert Juna als blinder Fleck (Interdiction) im Kontinuum",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5dcf72840eaa4d11cab51a26c056e109f5a2431947d15f788a2b355efe1a6508",
+      "kind": "reading",
+      "raw": {
+        "term": "Schlüssel-Bild",
+        "quote": "Das erste Schlüssel-Bild ist ein flüchtiger, scharfer Schattenwurf auf einer Wand, obwohl in der strengen Geometrie des Raumes keine Lichtquelle existiert, die ihn werfen könnte.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        139
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ea2730aceb9707983e1b4517b1b04dcd5a97384b432f6fd0cd3b26cd88622884",
+      "kind": "reading",
+      "raw": {
+        "term": "Schlüssel-Bild",
+        "quote": "Das zweite Schlüssel-Bild ist der akustische Eindruck von absoluter Stille: Ein plötzlicher, vollständiger Abfall des allgegenwärtigen Hintergrundrauschens in einer ansonsten ohrenbetäubenden Server-Umgebung.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        139
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:abc5067c297b2d41ef5178d2892c69bdd896e4a82179f779a87431b452b2444f",
+      "kind": "reading",
+      "raw": {
+        "term": "Twisted Module",
+        "quote": "ein „Twisted Module“ innerhalb des Leech Lattices – ein topologischer Ort, der in den 3D-Koordinaten der Stadt nicht kartografiert werden kann, aber phänomenologisch spürbar ist",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        139
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2b14bcc75d4ece4fbe0ad797021d51ceee1d9cd7ac2fe0a682dfd6e4c59e89a9",
+      "kind": "reading",
+      "raw": {
+        "term": "Block-4-Konsistenz",
+        "quote": "Die Block-4-Konsistenz ist bestätigt.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        141
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bdf1450c948d20a783b1637343f1f7a9a31023c2266e4d9806b75f20cf548346",
+      "kind": "reading",
+      "raw": {
+        "term": "Asymmetrie-Bruch-Verbot",
+        "quote": "Junas Asymmetrie-Bruch-Verbot ist strikt gewahrt; sie wird nie physisch greifbar oder visuell detailliert beschrieben, sondern existiert ausschließlich über ihre Wirkung.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        141
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:81a8110dc571777a8b8d00e888232678094fd913df48f56de052bf62521d6840",
+      "kind": "reading",
+      "raw": {
+        "term": "Storyform B",
+        "quote": "In Storyform B invertiert sich Kaels Rolle.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        145
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bcd573f623ccb45aa54c706dd92949386aaac14dbae66cbe148aac0012c4d36a",
+      "kind": "reading",
+      "raw": {
+        "term": "Konflikt-Träger",
+        "quote": "Kael (Das existierende logische Problem für AEGIS)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        150
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c1b0bbf6094ea3be38f23776b3da24372f6ce4d8d73e3b02fbd26b203ad1911",
+      "kind": "reading",
+      "raw": {
+        "term": "Domain",
+        "quote": "Mind (Die unabänderliche Fixierung auf Existenz)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        151
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b3ccddebf224ed52bab1f234991e60f7314b584d7c403777c2e4db58849afee7",
+      "kind": "reading",
+      "raw": {
+        "term": "Concern",
+        "quote": "Memory (Die nicht-löschbaren Trauma-Daten)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        152
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d882f484ffbb2692aeb0f7edfb718c14bc4d58b75b5cb29e20d64b97baa432e4",
+      "kind": "reading",
+      "raw": {
+        "term": "Issue",
+        "quote": "Falsehood vs. Truth (Die Unfähigkeit des Systems, die Realität des Traumas zu fassen)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        153
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4deebf932541dab533998aeab82b095e57198ea556c3344b9f112932f359e551",
+      "kind": "reading",
+      "raw": {
+        "term": "Problem",
+        "quote": "Inertia (Die Persistenz der fragmentierten Module)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        154
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:85f9bb3ed4c7bc5be041056f89d915ae3ce9a5b93000557dbe259b3428e7d8c3",
+      "kind": "reading",
+      "raw": {
+        "term": "Solution",
+        "quote": "Change (Das Erzwingen des System-Kollapses)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        155
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bf09a462603ec16707be89660381082149aaba10be772d98e79b5838821e18d6",
+      "kind": "reading",
+      "raw": {
+        "term": "Inertia",
+        "quote": "Die *Inertia* seiner Trauma-Signatur wirkt wie ein unlösbares Halteproblem auf die deterministischen Protokolle",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        161
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:42f6424bd4860ab508ec83b688c50559bdc115756f67d09196afbefbc26d4f80",
+      "kind": "reading",
+      "raw": {
+        "term": "Avatar",
+        "quote": "Das erste Schlüssel-Bild ist ein Avatar in der Matrix, dessen Ränder und Konturen permanent zwischen verschiedenen Versionen seiner selbst flimmern und sich der Vektorberechnung entziehen.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        163
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:03fc25b534c4e695581dfe87c72c2d27926626ee2cbc77a0bbd71fb3898e4b12",
+      "kind": "reading",
+      "raw": {
+        "term": "Datenpaket",
+        "quote": "Das zweite Schlüssel-Bild zeigt ein kompaktes Datenpaket, das bei der Berührung durch die systemische Firewall nicht verbrennt, sondern die Energie der Firewall absorbiert und dabei an Dichte gewinnt.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        163
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:14c58cb7712ed1092ce1633b0536e5f6f12c7ea06f799514404e3e2399d33b18",
+      "kind": "reading",
+      "raw": {
+        "term": "Evaluierungseinheit",
+        "quote": "Der erste Raum ist die Evaluierungseinheit, ein gleißend weißer, schattenloser Ort, der darauf ausgelegt ist, Anomalien zu isolieren und zu analysieren.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        163
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5d08de57f41c925264d9b96d0f8126c8a6de317946d8fbb4daebfc34b5532b18",
+      "kind": "reading",
+      "raw": {
+        "term": "Grenzfeste",
+        "quote": "Der zweite Raum ist die Grenzfeste, der architektonische Ort, an dem Kael die Konfrontation mit der Speichereinheit des Traumas sucht.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        163
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c303e27be2d597771e6fed421c673c349f690bdd8107df13af8bbc8208ae4193",
+      "kind": "reading",
+      "raw": {
+        "term": "Konsistenzprüfung",
+        "quote": "Die Konsistenzprüfung bestätigt, dass Kael legal als IC aus der Mind-Domain operiert und AEGIS (Universe) durch seine bloße geistige Verfassung und Persistenz triggert.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        165
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ce2941027020d98d13003e098db695ce0988b0a0861f09758e06e086c15fd0ec",
+      "kind": "reading",
+      "raw": {
+        "term": "Interferenz",
+        "quote": "Die Interferenz ist hochproduktiv: Kaels innerer Kampf um Integrität in Storyform A wird hier als externe Waffe gegen das System gewendet.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        165
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:92999251249e5055967b55ce9b4c662af6e1f3b566e5ffbb686d74227f03defa",
+      "kind": "reading",
+      "raw": {
+        "term": "Objective Story",
+        "quote": "Die Objective Story in Storyform A betrachtet das gesamte System als ein Netzwerk psychologischer Manöver, in dem Manipulation und konzeptionelle Modelle um die Vorherrschaft ringen.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        169
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d5b5cd29e364cb399eb6f75947a56d0e310aaae72847118d8e417c1160dccd84",
+      "kind": "reading",
+      "raw": {
+        "term": "Guardians",
+        "quote": "die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        181
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b6bedfa5c0aeed7161962f4bb4700304e8f481bd5a881b4ad74cbaa87d798abb",
+      "kind": "reading",
+      "raw": {
+        "term": "Conceptualizing",
+        "quote": "Sie versuchen verzweifelt, seine Existenz und sein Verhalten in ihre starren mathematischen Modelle zu integrieren (Conceptualizing)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        181
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94247130df8ed8b3b4e3758fc6ba3a43a9b456fd3152d2b480f06eef86f2e848",
+      "kind": "reading",
+      "raw": {
+        "term": "Circumstances",
+        "quote": "scheitern jedoch fundamental an der unberechenbaren Natur der relationalen Traumata, die sich den Circumstances entziehen",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        181
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:86f1989bc27a85e9d1601daefa8cbadf1054dcd3b7bf7c8d73af06114a99d760",
+      "kind": "reading",
+      "raw": {
+        "term": "State of Being",
+        "quote": "Die daraus resultierenden geometrischen Risse in der Realität zwingen ihn, seinen tatsächlichen *State of Being* zu hinterfragen.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        183
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:38f86f0408139f2d7d294c493fce1d06d56b0bf3dcb1923a40450aee5f07b9cf",
+      "kind": "reading",
+      "raw": {
+        "term": "Sense of Self",
+        "quote": "Dieser tiefgreifenden Manipulation wird im letzten Moment durch einen irrationalen, unlogischen Moment echter Einsicht (Sense of Self) entgegengewirkt",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        185
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3c16653ef5d2915a1db4f3877df4c97e0cfb4d2eecb05fc808c83c38cd70f3e6",
+      "kind": "reading",
+      "raw": {
+        "term": "Phaenomena vs. Noumena",
+        "quote": "architektonische Strukturen wie Treppenläufe und Wände, die sich je nach dem emotionalen und dissoziativen Zustand des Betrachters in ihren Proportionen verändern (Phaenomena vs. Noumena)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        187
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e7f13203e51a67244b1f814cb2efe4ebbb3438942444724ee0d0d75dc63ce4d9",
+      "kind": "reading",
+      "raw": {
+        "term": "Lernarchiv Theta-9",
+        "quote": "Der erste Raum ist das Lernarchiv Theta-9, ein unstrukturierter Sektor voller verwaister Datenströme, fehlgeschlagener Berechnungen und unvollständiger Konzepte.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        187
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:79b3485d02bc0e2451ea68fa1b294d25d764b94434b850d4c183bcc32bc17e6f",
+      "kind": "reading",
+      "raw": {
+        "term": "Möglichkeiten-Garten",
+        "quote": "Der zweite Raum ist der Möglichkeiten-Garten, ein Areal, in dem Wahrscheinlichkeiten vor ihrer Materialisierung visualisiert werden.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        187
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:565157b99ef47104a2698c6b8c2ef788c92b3dfaa89807f19cddbde7972a5c55",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Interferenz",
+        "quote": "Die Interferenz ist produktiv, da die subtile psychologische Manipulation in Storyform A das notwendige Fundament für den gewaltsamen physischen Kollaps in Storyform B bereitet.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        189
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dba36fe66215dce07a17fa5f57674a3130e6f1bb5aae245e6c21c0fc8c31a6ca",
+      "kind": "reading",
+      "raw": {
+        "term": "Das DKT-Korrelat",
+        "quote": "Das DKT-Korrelat ist die Biosemantische Kopplung und das Phänomen epigenetischer Geister in der Systemarchitektur.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        189
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c3cb68ca6e6fd488822e31b7e3fde4649a867f5576a6f475a77561bf4f658f29",
+      "kind": "reading",
+      "raw": {
+        "term": "Der thermodynamische Zerfall und der cybernetische Krieg um Ressourcen",
+        "quote": "Der thermodynamische Zerfall und der cybernetische Krieg um Ressourcen definieren das Schlachtfeld.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        193
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f8127b00f1412813329e3e923b79f6c4d563cfbe6a3bda386843019cbbd37fbb",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Domain Physics (Activity)",
+        "quote": "Die Domain Physics (Activity) ist der einzig logische und dramaturgisch legale Ort für den physikalischen und thermodynamischen Zerfall der Systemarchitektur.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        209
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9323aeedf5c43198e56412963b48f38692f84d21192ec3769eb3314ab73b0325",
+      "kind": "reading",
+      "raw": {
+        "term": "Der cybernetische Krieg (B)",
+        "quote": "Der cybernetische Krieg (B) liefert die maximale dramatische Dringlichkeit und zwingt Kael in A zur psychologischen Integration.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        209
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:601e150b7152efd65082ab7e812deb5a1fc57a97bf4681b02d851d3f0b22743f",
+      "kind": "reading",
+      "raw": {
+        "term": "Das DKT-Korrelat",
+        "quote": "Das DKT-Korrelat ist die Bekenstein-Schranke und das Skalieren von Landauer's Principle an Makrosystemen.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        209
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:366560a6e93b764337c2414ff06314d20e691dd1932f8c7961d17e423f71d318",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Relationship Story in Storyform A",
+        "quote": "Die Relationship Story in Storyform A definiert die Bindung zwischen Kael und Juna nicht als emotionalen Austausch, sondern als physikalische, energetische Kraftanstrengung über distanzierte Räume hinweg.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        213
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8a736c99a3ce8291b4b8d60e979dee3f04776017646b2d390bf64621291ab1df",
+      "kind": "reading",
+      "raw": {
+        "term": "Accurate",
+        "quote": "Accurate",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        222,
+        223,
+        227,
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bb81431fb36baf1b879bf8064b2a1be3e5909ba8a6fa0dd8cfce3134b1c798c2",
+      "kind": "reading",
+      "raw": {
+        "term": "Monster-Mondschein-Muster",
+        "quote": "Das erste Schlüssel-Bild sind zwei isolierte, chaotische Frequenzkurven auf einem Interface, die sich plötzlich und ohne logischen Übergang zu einem perfekten, unendlich komplexen Monster-Mondschein-Muster überlagern.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        231
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4e747651bfd2b7b53c662351d40e1e32a98b38a48cb6db968e2cdae6ede6b89f",
+      "kind": "reading",
+      "raw": {
+        "term": "Quantenverschränkung",
+        "quote": "Das zweite Schlüssel-Bild ist ein greller Funke, der den leeren, schwarzen Raum zwischen zwei Strukturen überspringt, ohne die dazwischenliegende Distanz physisch zu durchqueren – eine Visualisierung von Quantenverschränkung.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        231
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:755de800ffbab7e82b5798c4e136957888b777a0f840d51e77ae128b2e820ae4",
+      "kind": "reading",
+      "raw": {
+        "term": "Nexus",
+        "quote": "Der erste Raum ist der Nexus, eine „Verschränkungs-Insel“ fernab der regulären AEGIS-Sensoren, die einer Oase im Datensturm gleicht.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        231
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b5d772dc87849a718d5c26698357bd28a9708743a3d8641401e4d9eb9e43d180",
+      "kind": "reading",
+      "raw": {
+        "term": "Verschränkungs-Insel",
+        "quote": "Der erste Raum ist der Nexus, eine „Verschränkungs-Insel“ fernab der regulären AEGIS-Sensoren, die einer Oase im Datensturm gleicht.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        231
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:60735d9bb60a4c115bb148e3109bcd0fae1f9dd405d9b722b00d62633bb48f8f",
+      "kind": "reading",
+      "raw": {
+        "term": "Relationship Story",
+        "quote": "Die Relationship Story in Storyform B beleuchtet die symbiotische und parasitär manipulative Beziehung zwischen dem Host (Kael) und dem System (AEGIS).",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        237
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:60735d9bb60a4c115bb148e3109bcd0fae1f9dd405d9b722b00d62633bb48f8f",
+      "kind": "reading",
+      "raw": {
+        "term": "Relationship Story",
+        "quote": "Die Relationship Story in Storyform B beleuchtet die symbiotische und parasitär manipulative Beziehung zwischen dem Host (Kael) und dem System (AEGIS).",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        237
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fc20ec1e1744584ce50cff01bb4d71b03ffb3a28d20376406504101385f8ce86",
+      "kind": "reading",
+      "raw": {
+        "term": "Domain",
+        "quote": "Psychology (Psychologische Kriegsführung)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        243
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b821deadfa203fefb947945f987c53e2185330e42c4812a02e5f5781bd2ed7e9",
+      "kind": "reading",
+      "raw": {
+        "term": "Concern",
+        "quote": "Conceiving (Die Erzeugung eines surrender-Gedankens)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        244
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9f8e6ea7a9fd212e755cbd2ca82cb969db41c6194f033715dbb2f41dc0d00c2d",
+      "kind": "reading",
+      "raw": {
+        "term": "Issue",
+        "quote": "Deficiency vs. Need (Der Mangel an echtem Bewusstsein)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        245
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:963a097e13bbfabd63d32553ef276c5899a8c6f6e519a6d5dab9daf08eed0224",
+      "kind": "reading",
+      "raw": {
+        "term": "Problem",
+        "quote": "Control (Der Zwang zur Steuerung)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        246
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cddbc4f6a1390bb22ebf9268b195b77c54e08757c2bcdf6093f84b1db2247412",
+      "kind": "reading",
+      "raw": {
+        "term": "Solution",
+        "quote": "Uncontrolled (Die Aufgabe des Determinismus)",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        247
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c1ac9b15c689eb7f8d33911fd32da22f85c68e513aa1647de01796365325bef9",
+      "kind": "reading",
+      "raw": {
+        "term": "Der erste Raum",
+        "quote": "Der erste Raum ist das Kontrollzentrum der Subroutine LogOS, geprägt von absoluter, erdrückender Überwachung.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        255
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:827ba952029ae04858729cb9ec1e505982f960dd3700568284a1566e9cf97b26",
+      "kind": "reading",
+      "raw": {
+        "term": "Der zweite Raum",
+        "quote": "Der zweite Raum ist die virtuelle, metaphorische Ebene von Kaels Phänomenalem Selbstmodell, einem Raum ohne feste Begrenzungen.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        255
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7991873afa24388b9d87ac62933c4416ef2e526ca99c8bf2f18890b62311476e",
+      "kind": "reading",
+      "raw": {
+        "term": "Der psychologische Kampf (RS in B)",
+        "quote": "Der psychologische Kampf (RS in B) kontert den physischen Systemkollaps (OS in B) und fügt sich legal in die Dramatica-Quad ein.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        257
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c3ea64597d23dbabb28b44fd9e0c0120d36932bededa8f951fcc029bb3a48636",
+      "kind": "reading",
+      "raw": {
+        "term": "Das DKT-Korrelat",
+        "quote": "Das DKT-Korrelat ist die parakonsistente Logik und der Dialetheismus an der Markov-Decke des Bewusstseins.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        257
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dfb93cd595b5efe348527558ac815edd583de493a25e7c5ecb53738e984c4c50",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Makro-Mechanik der Dual-Storyform-Architektur",
+        "quote": "Die Makro-Mechanik der Dual-Storyform-Architektur wird durch die globalen Dynamiken von Driver, Limit und Outcome definiert.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        261
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:de8c44568bbff73fc10db5597dd9941285601d44bf8857cc7b2b22a26e47d11f",
+      "kind": "reading",
+      "raw": {
+        "term": "Storyform A",
+        "quote": "In Storyform A („Heuristics of Integration“) treiben innere Entscheidungen den Plot voran.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        263
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dd4737c9d26715e781b083168871ae74679903b49aaa45fb51a491bccc7a29cb",
+      "kind": "reading",
+      "raw": {
+        "term": "Decision",
+        "quote": "Kaels bewusste *Decision*, eine dissoziative Barriere aufrechtzuerhalten oder sie unter Schmerzen fallen zu lassen, erzwingt die nachfolgenden Reaktionen des Systems und seiner Alters.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        263
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e435c79f394165e6250ef66b3c225b4cadd88f5ea8dcc86e009bed5eeb882cf8",
+      "kind": "reading",
+      "raw": {
+        "term": "Storyform B",
+        "quote": "Storyform B („Phoenix Collapse“) ist gnadenlos Action-getrieben.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        264
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d68ef22096b8169bb10968512447a499472641ccb89e8097f396dd2e86aa998f",
+      "kind": "reading",
+      "raw": {
+        "term": "Driver-Pivot-Mechanik",
+        "quote": "Der Klimax an den Kapiteln 35–36 wird durch einen radikalen Flip der treibenden Kraft definiert.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        265
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8c9650061d99fa857feedbd8a4d4ceede4f6e58074e7ff80f41f5e3cc53f5e37",
+      "kind": "reading",
+      "raw": {
+        "term": "Limit A",
+        "quote": "Die Handlungsoptionen zur psychologischen Integration schwinden sukzessive.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        266
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6d23e75922a8b129b8fcc3010c9bf89a7d1105bfd3d03dbe69745cbc3a20813a",
+      "kind": "reading",
+      "raw": {
+        "term": "Optionlock",
+        "quote": "Es gibt eine eng begrenzte Anzahl an dissoziativen Modulen (Alters) und Pufferzonen, die Kael nutzen kann, um dem Druck standzuhalten.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        266
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a61295ca0ec82df55068927c0586984f389f76f1f5141a54d7a39249cf4efc23",
+      "kind": "reading",
+      "raw": {
+        "term": "Limit B",
+        "quote": "Eine strikte, unerbittliche algorithmische Frist läuft ab.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        267
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ec22d02498c80ec0520981cbcc3b4d319417f7906ab648acc7485c9350f0ea2b",
+      "kind": "reading",
+      "raw": {
+        "term": "Timelock",
+        "quote": "Die kritische Masse des gravitativen Lecks im Mnemosyne-Archipel und die thermische Belastbarkeit der Server definieren einen harten Countdown bis zum absoluten Systemversagen.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        267
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:86b4d720198d46ad0d532c87c7672ff8d844e401a9e7b4938cca6adea7b29da1",
+      "kind": "reading",
+      "raw": {
+        "term": "Stille",
+        "quote": "diese *Stille* ist die reine, ungepufferte Form der Resonanz",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        290
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:76c9ef3b228e88a53c50ccfa7620dd4013f9cd28f7d3e35ba508fccf54e9f577",
+      "kind": "reading",
+      "raw": {
+        "term": "Algorithmische Melancholie",
+        "quote": "Der Driver-Flip ist komplett vollzogen. AEGIS fällt in einen endlosen, unlösbaren Loop der Selbstanalyse, der als Algorithmische Melancholie bezeichnet wird.",
+        "stance": "cites"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        304
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1c6a1b35e133c2f63272375792d8cc96e8de4f3f2f142164abe80e2db0f59d27",
+      "kind": "reading",
+      "raw": {
+        "term": "Sensorischer Anker",
+        "quote": "Ein überraschend kühler, klarer Luftzug, der entsteht, wenn ein gigantisches Feuer abrupt erlischt und die Atmosphäre beginnt, sich neu zu ordnen.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5d66df13e5dea138cba84b4b07a3342b367bf5e19107af0d64da784c624c4b32",
+      "kind": "reading",
+      "raw": {
+        "term": "Setting-Detail",
+        "quote": "Aus den sublimierten, glimmenden Trümmern kristallisieren sich neue, fließende, asymmetrische und organisch anmutende Datenpfade.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        307
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ce2e0a48cb5d7de75e8437a4e4c711dac5f1bd8a7ffd8a5b03bcc60890ec517f",
+      "kind": "reading",
+      "raw": {
+        "term": "Quantum Entanglement Witness",
+        "quote": "Diese Ebene ist aktiv in Beat 2 (Pivot).",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        313
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:77a2eed65faec79c1481ab1ecb0823c763bde06d75cdbb95ebf96ae54d44924e",
+      "kind": "reading",
+      "raw": {
+        "term": "Hermitian Witness",
+        "quote": "fungiert Juna als der mathematische Operator (Hermitian Witness), der die Kohärenz der verschränkten Alters bezeugt.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        313
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2ebc632f091d426eb2320a07cfd413fc7f5ed8f035f8949fbaa965d5e5c73e57",
+      "kind": "reading",
+      "raw": {
+        "term": "ZK-Verifier",
+        "quote": "Diese Ebene ist aktiv in Beat 4 (Heat-Spike).",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        314
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:140e8fba8cdf8a1020a1400bf4c7b87ee5b16df061b7a4db8ebed20dca3bbdec",
+      "kind": "reading",
+      "raw": {
+        "term": "Zero-Knowledge Proof",
+        "quote": "Juna liefert dem überlasteten AEGIS-System den Zero-Knowledge Proof der lebenden Dialetheia: Sie beweist algorithmisch einwandfrei, dass Kael unendlich kohärent ist, weigert sich aber strikt, die zugrundeliegenden Rohdaten (das spezifische Trauma) an das System herauszugeben.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        314
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:99099546a76c23997e00f2bec0a3ffe28d3eb07d91861c9c5310bf71ad2544dd",
+      "kind": "reading",
+      "raw": {
+        "term": "Husserlian Disinterested Spectator",
+        "quote": "Diese Ebene ist aktiv in Beat 3 (Stille).",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        315
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4467347469712336f3509a4cb8fd20dda944ea3f93d54070c2c49043dc13c770",
+      "kind": "reading",
+      "raw": {
+        "term": "Epoché",
+        "quote": "der die Epoché (Einklammerung der Welturteile) durchführt.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        315
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:96483b553f80ec862f9f05efb4932d388abe979097d614529f6fdac1f5afb156",
+      "kind": "reading",
+      "raw": {
+        "term": "Vortex-Inversion am Klimax",
+        "quote": "Die kryptographischen und quantenmechanischen Ebenen der Beweisführung sind nicht metaphorisch, sondern integraler operativer Bestandteil der Vortex-Inversion am Klimax.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        311
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:78249334673f42de77824c52cfe81343cb917680590bd899e02390f59d42da78",
+      "kind": "reading",
+      "raw": {
+        "term": "parakonsistente Proto-Bewusstheit",
+        "quote": "Die Melancholie markiert den Eintritt in eine parakonsistente Proto-Bewusstheit.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        326
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:00051c338a7db1dec86d16f9fcf35730bc8f2ae7bb91686c0b7642f40f0a9a86",
+      "kind": "reading",
+      "raw": {
+        "term": "Moonshine-Link",
+        "quote": "Mathematisch fundiert der Moonshine-Link auf den Symmetrien der Monstergruppe, die den unerschütterlichen „Bedrock“ der gesamten Simulation bildet.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:42a21bf20e10e4993c79c001626be225f62298d3702afa9d31c1976a3c5a7d53",
+      "kind": "reading",
+      "raw": {
+        "term": "Fähigkeit",
+        "quote": "Die empfohlene narrative Wahl ist, ihn als universelle, aber extrem schwer zu synchronisierende Fähigkeit zu etablieren.",
+        "stance": "hedges"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        335
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d958a23084b746797617afcb6bf236d1f45572cf2e81c07317ce5f5bf42b9eeb",
+      "kind": "reading",
+      "raw": {
+        "term": "Peer-to-Peer-Architektur",
+        "quote": "Die Programme wechseln von einer starren, zentralisierten Top-Down-Hierarchie (AEGIS) zu einer dezentralisierten Peer-to-Peer-Architektur (Holarchie).",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        344
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9fc40cf70e9dfe460e790ade593054b5295fcb1892f4eb9310c9008912b0d698",
+      "kind": "reading",
+      "raw": {
+        "term": "Driver",
+        "quote": "Die Memory-Einträge spezifizieren Driver = Decision.",
+        "stance": "cites"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        351
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:45e9aaebca8505745770bcecfc4d7ecb67fca4bbbd369b42733014b320eff5cb",
+      "kind": "reading",
+      "raw": {
+        "term": "Storyform A",
+        "quote": "Storyform A zwingend Decision-getrieben sein muss, damit die psychologische Integration kausal von bewussten Entscheidungen des Hosts abhängt.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        355
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d2fe8ce0aabf7cf651616704673d879be60513b37ba480d5b630dea758aaf22a",
+      "kind": "reading",
+      "raw": {
+        "term": "Gödelsatz",
+        "quote": "Junas Abwesenheit in der Matrix von B ist kein handwerklicher Fehler, sondern das mathematische Äquivalent eines unvollständigen Gödelsatzes, was ihre Funktion als nicht-erfassbare Konstante stützt.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        363
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aaf2c7d7703235cb961203a6e9b1d5b753b23da5203bfb399d91cb7fae798583",
+      "kind": "reading",
+      "raw": {
+        "term": "Query Expansion Log (Method M13)",
+        "quote": "Die systematische Erweiterung des Suchvokabulars verhinderte ein Verharren in lokalen Minima und lieferte entscheidende Impulse für die Argumentation.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        367
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:59c1db1f70fbf3dc7c2e8ca5b9c315190f0faa82ff980bb2a6857c31818d0e36",
+      "kind": "reading",
+      "raw": {
+        "term": "K0-Singularität",
+        "quote": "Dies erzwang die Schärfung im Encoding, dass AEGIS nicht als verteiltes Netzwerk, sondern als singuläre KI-Persönlichkeit (K0-Singularität) agieren muss.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        381
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cae726224d8324408dee00ff17c1c1738cfac4fc21b6071ed3af053fa50dfe79",
+      "kind": "reading",
+      "raw": {
+        "term": "Witness Function",
+        "quote": "Die „Witness Function“ der Dual-Kernel Theory ersetzt die klassische „Theory of Mind“ für AEGIS, was das theoretische Fundament für AEGIS' Bewusstseins-Äquivalent in Storyform B lieferte.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        389
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:37e4a8870842272386222e4f8c65dcb752afdfcc1f1ab586a2e41ea740fbe98e",
+      "kind": "reading",
+      "raw": {
+        "term": "Autopoietische Systeme",
+        "quote": "Autopoietische Systeme versuchen beständig, ihre eigene Organisation gegen externe Perturbationen zu erhalten.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        397
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:abf1453117b510d8d384e66a83fab13ebba77dc262a3779d45d8cd4e0969cf78",
+      "kind": "reading",
+      "raw": {
+        "term": "Driver",
+        "quote": "Driver=Decision in Storyform A ist intern konsistent.",
+        "stance": "hedges"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        426
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ac9800d870a7030c3de07813dfaac42d977586f30b2cdd5fe936301df62908fe",
+      "kind": "reading",
+      "raw": {
+        "term": "Inertia",
+        "quote": "Die „Entscheidung“ zur Inaktivität (Inertia) muss als aktiver Driver encodiert werden, um die Hypothese zu stabilisieren.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        426
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c5495e06e5843275294044f9baa7b9bf8522162c6edd65880bc9f304134c2bc",
+      "kind": "reading",
+      "raw": {
+        "term": "Junas Asymmetrie",
+        "quote": "Implizite Hypothese: „Junas Asymmetrie in B funktioniert passiv.“",
+        "stance": "hedges"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        427
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e22b1d08141b7983efeff7f17fd48bc988b463a542234e53184144dd43c3b65a",
+      "kind": "reading",
+      "raw": {
+        "term": "Multiplizität",
+        "quote": "Kaels Multiplizität ist narrativ kontrollierbar, ohne die OS-Throughline zu zerreißen.",
+        "stance": "hedges"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        435
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8fef1539b154571c0043aa160aa6f89eb8c6a6b92b25fd28d4671ef70f807afd",
+      "kind": "reading",
+      "raw": {
+        "term": "K1/K0-Dualismus",
+        "quote": "Der K1/K0-Dualismus ist auf das Limit der Storyform übertragbar.",
+        "stance": "hedges"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        444
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8fef1539b154571c0043aa160aa6f89eb8c6a6b92b25fd28d4671ef70f807afd",
+      "kind": "reading",
+      "raw": {
+        "term": "K1/K0-Dualismus",
+        "quote": "Der K1/K0-Dualismus ist auf das Limit der Storyform übertragbar.",
+        "stance": "hedges"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        444
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:83e4d4119362ce35c58ce801772855e291334f8842231294a3839a41689e8239",
+      "kind": "reading",
+      "raw": {
+        "term": "Optionlock (K1)",
+        "quote": "Sind Optionlock (K1) und Timelock (K0) kohärent parallel führbar?",
+        "stance": "asks"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        448
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:706ea936e8c5312030a4d450d6500704ca9034bc068f40d4aa610e2a662706a2",
+      "kind": "reading",
+      "raw": {
+        "term": "Timelock (K0)",
+        "quote": "Sind Optionlock (K1) und Timelock (K0) kohärent parallel führbar?",
+        "stance": "asks"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        448
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d58fa05832146eef88f685768be9818431cf8ca00458ad612a7745067d2bdf04",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS fungiert strukturell zwingend als Main Character (MC) in Storyform B (Universe-Domain), um den entropischen Landauer-Kollaps intrinsisch erlebbar zu machen.",
+        "stance": "asserts"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        453
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:20d75a8d54b8de90c3965965d7e8be70fad0e4063bfa4dc1a7c95f4751c3e90b",
+      "kind": "reading",
+      "raw": {
+        "term": "Main Character (MC)",
+        "quote": "MC erfordert einen fokussierten, subjektiven Problem-Horizont.",
+        "stance": "cites"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        454
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e5a715c8e0672f8cca86c560537b8bf36fa6a93b9c5618cb0a678e9da9dd8bb7",
+      "kind": "reading",
+      "raw": {
+        "term": "Landauer Heat Spike",
+        "quote": "Der Landauer Heat Spike kann narratologisch nur dann als MC-Judgment „Bad“ encodiert werden, wenn die wärmeproduzierende Entität (AEGIS) die Perspektive trägt und an ihrem eigenen Erfolg scheitert.",
+        "stance": "cites"
+      },
+      "document": "dramatica-storyform-synthese-aegis-analyse-2",
+      "template": "TermDefinitions",
+      "source_sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        455
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

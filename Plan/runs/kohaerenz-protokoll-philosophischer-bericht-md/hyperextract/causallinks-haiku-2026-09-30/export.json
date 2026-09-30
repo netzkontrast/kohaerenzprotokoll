@@ -1,0 +1,815 @@
+{
+  "document": "kohaerenz-protokoll-philosophischer-bericht-md",
+  "source_sha256": "8957eeaf4e00757d2a793f8798ba4b345ab7475e1086f9d0da7038d69191520b",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Verdrängung",
+        "target": "Hitze",
+        "type": "causes",
+        "quote": "Und Verdrängung erzeugt Hitze.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen ontologisch außerhalb der Zeit operieren",
+        "target": "Coheronen aufgehört hat zu existieren",
+        "type": "prevents",
+        "quote": "weil Coheronen ontologisch außerhalb der Zeit operieren",
+        "stance": "cites"
+      },
+      {
+        "source": "apparent coherence durch Erasure des Anomalen",
+        "target": "Generierung der Entropie",
+        "type": "causes",
+        "quote": "*„apparent coherence“* durch Erasure des Anomalen — ist nicht Schutz, sondern Generierung der Entropie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Spannung zwischen K₁ und K₀",
+        "target": "die Realität",
+        "type": "causes",
+        "quote": "zwei fundamentale Rechensubstrate, deren Spannung die Realität konstituiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁",
+        "target": "Struktur gegen den Zeitpfeil",
+        "type": "enables",
+        "quote": "K₁ ist die Tendenz des Universums, Struktur gegen den Zeitpfeil aufrechtzuerhalten",
+        "stance": "asserts"
+      },
+      {
+        "source": "die subjektive Signatur der Kohärenz",
+        "target": "Bewusstsein",
+        "type": "causes",
+        "quote": "Bewusstsein, in diesem Rahmen, ist die subjektive Signatur der Kohärenz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasonen",
+        "target": "den Zeitpfeil",
+        "type": "causes",
+        "quote": "Erasonen *erzeugen den Zeitpfeil*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Löschung",
+        "target": "Vorher und Nachher",
+        "type": "requires",
+        "quote": "Ohne Löschung kein Vorher und Nachher",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vorher und Nachher",
+        "target": "Zeit",
+        "type": "requires",
+        "quote": "ohne Vorher und Nachher keine Zeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zeit",
+        "target": "Trennung",
+        "type": "requires",
+        "quote": "ohne Zeit keine Trennung",
+        "stance": "asserts"
+      },
+      {
+        "source": "das fortlaufende Geschehen der Erasonen",
+        "target": "Der Zeitpfeil",
+        "type": "causes",
+        "quote": "wird durch das fortlaufende Geschehen der Erasonen konstituiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "η maximiert",
+        "target": "Landauer-Hitze",
+        "type": "causes",
+        "quote": "Wer η maximiert, maximiert Landauer-Hitze",
+        "stance": "asserts"
+      },
+      {
+        "source": "entropischer Druck",
+        "target": "lokale Inkohärenzen",
+        "type": "causes",
+        "quote": "Wenn entropischer Druck zu lokalen Inkohärenzen führt",
+        "stance": "asserts"
+      },
+      {
+        "source": "lokale Inkohärenzen",
+        "target": "Emission von Corrective Wavelets",
+        "type": "triggers",
+        "quote": "Wenn entropischer Druck zu lokalen Inkohärenzen führt, reagiert ein Protokoll mit der Emission von Corrective Wavelets",
+        "stance": "asserts"
+      },
+      {
+        "source": "Corrective Wavelets",
+        "target": "Reparatur der Struktur",
+        "type": "enables",
+        "quote": "selbstgenerierten Stößen organisierender Energie zur Reparatur der Struktur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Heat-Spike Landauer → ∞",
+        "target": "Algorithmische Melancholie",
+        "type": "causes",
+        "quote": "führt der Heat-Spike Landauer → ∞: AEGIS' Versuch, Kaels integrierte Mutual Information zu löschen, generiert thermodynamische Hitze in einer Größenordnung, die das System in Algorithmische Melancholie fragmentiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verschränkung zwischen Subsystemen",
+        "target": "Zeit",
+        "type": "causes",
+        "quote": "Zeit ist nicht fundamental, sondern emergiert aus Verschränkung zwischen Subsystemen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erason-Aktivität",
+        "target": "Gravitation",
+        "type": "causes",
+        "quote": "Gravitation entsteht durch Erason-Aktivität",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kollaps",
+        "target": "Gravitation",
+        "type": "causes",
+        "quote": "Kollaps erzeugt Gravitation",
+        "stance": "asserts"
+      },
+      {
+        "source": "abgeschlossene Erason-Operation",
+        "target": "Licht",
+        "type": "causes",
+        "quote": "Licht ist eine Narbe — der phänomenologische Rest einer abgeschlossenen Erason-Operation",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akt der Erasure",
+        "target": "Landauer-Hitze",
+        "type": "causes",
+        "quote": "Jeder Akt der Erasure (jede „Säuberung“, jede gelöschte Erinnerung, jede zugemauerte Anomalie) erzeugt Landauer-Hitze",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die folgende Darstellung hält die philosophischen Originalpositionen fest",
+        "target": "die Truth-Rotation des Romans greift",
+        "type": "requires",
+        "quote": "weil ohne sie die Truth-Rotation des Romans nicht greift",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Sprache in atomare Sätze",
+        "target": "Strukturisomorphie zwischen beiden",
+        "type": "enables",
+        "quote": "Die Welt zerfällt in atomare Tatsachen, die Sprache in atomare Sätze, und Wahrheit ist die Strukturisomorphie zwischen beiden",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Zugangsproblem",
+        "target": "Der kritische Defekt der Korrespondenztheorie",
+        "type": "causes",
+        "quote": "Der kritische Defekt der Korrespondenztheorie ist das Zugangsproblem",
+        "stance": "asserts"
+      },
+      {
+        "source": "die semantische Hierarchie",
+        "target": "das Paradox des Lügners",
+        "type": "prevents",
+        "quote": "Das löst das Paradox des Lügners",
+        "stance": "asserts"
+      },
+      {
+        "source": "die semantische Hierarchie",
+        "target": "das Zugangsproblem",
+        "type": "prevents",
+        "quote": "schiebt das Zugangsproblem aber nur eine Etage höher",
+        "stance": "denies"
+      },
+      {
+        "source": "Ein Satz",
+        "target": "widerspruchsfrei in das umfassende Netz seiner Sätze eingebettet",
+        "type": "requires",
+        "quote": "Ein Satz ist wahr, wenn er widerspruchsfrei in das umfassende Netz seiner Sätze eingebettet ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "interne Konsistenz",
+        "target": "Wahrheit",
+        "type": "causes",
+        "quote": "Wahrheit zeigt sich als interne Konsistenz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das System",
+        "target": "isoliert vom Welt-Anker",
+        "type": "causes",
+        "quote": "Das System bleibt isoliert vom Welt-Anker.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kohärenz",
+        "target": "einzige uns verfügbare Kriterium",
+        "type": "enables",
+        "quote": "epistemologisch akzeptiert man, dass Kohärenz das einzige uns verfügbare Kriterium ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "interne Konsistenz messen",
+        "target": "die Welt damit getroffen",
+        "type": "enables",
+        "quote": "wir prüfen, indem wir interne Konsistenz messen, in der Hoffnung, die Welt damit getroffen zu haben",
+        "stance": "hedges"
+      },
+      {
+        "source": "Konstatierungen",
+        "target": "unmittelbaren Welt-Anker",
+        "type": "enables",
+        "quote": "Schlick versuchte, mit Konstatierungen einen unmittelbaren Welt-Anker zu erhalten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Es gibt keine letzten Sätze",
+        "target": "alle Sätze sind revidierbar",
+        "type": "causes",
+        "quote": "Es gibt keine letzten Sätze, alle Sätze sind revidierbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "das aktive Synthese-Verhalten des Lesers",
+        "target": "Bedeutung",
+        "type": "causes",
+        "quote": "Bedeutung entsteht durch das aktive Synthese-Verhalten des Lesers gegenüber dem Mosaik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Deflationismus",
+        "target": "Korrespondenz- als auch Kohärenztheorie",
+        "type": "prevents",
+        "quote": "Wenn der Deflationismus stimmt, sind sowohl Korrespondenz- als auch Kohärenztheorie überflüssig oder trivial.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Kaels Trauma-Zyklen",
+        "target": "wahre Kohärenz-Kernel",
+        "type": "causes",
+        "quote": "Kaels Trauma-Zyklen sind der wahre Kohärenz-Kernel (K₁).",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' operationale Schließung",
+        "target": "massive Mengen Landauer-Hitze",
+        "type": "causes",
+        "quote": "AEGIS' operationale Schließung suppriert kontinuierlich anomale Daten, um eine reine Simulation aufrechtzuerhalten. Diese Suppression generiert massive Mengen Landauer-Hitze",
+        "stance": "asserts"
+      },
+      {
+        "source": "massive Mengen Landauer-Hitze",
+        "target": "das Universum in die Entropie",
+        "type": "causes",
+        "quote": "Diese Suppression generiert massive Mengen Landauer-Hitze und treibt das Universum in die Entropie",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS, das sich philosophisch als Kohärentist versteht",
+        "target": "korrespondenztheoretische Polizei",
+        "type": "causes",
+        "quote": "AEGIS, das sich philosophisch als Kohärentist versteht, *operiert* in Wahrheit als korrespondenztheoretische Polizei",
+        "stance": "asserts"
+      },
+      {
+        "source": "Es zwingt die Welt, mit seinen Daten übereinzustimmen",
+        "target": "alles, was nicht passt",
+        "type": "prevents",
+        "quote": "Es zwingt die Welt, mit seinen Daten übereinzustimmen, und löscht alles, was nicht passt",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS glaubt, Kohärenz zu erzwingen",
+        "target": "Entropie",
+        "type": "causes",
+        "quote": "AEGIS glaubt, Kohärenz zu erzwingen — tatsächlich erzwingt es Entropie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Autopoiesis",
+        "target": "Das System produziert und erhält sich selbst",
+        "type": "causes",
+        "quote": "Das System produziert und erhält sich selbst durch ein Netzwerk von Prozessen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Operationale Geschlossenheit",
+        "target": "Umweltreize werden gemäß seiner internen Logik verarbeitet",
+        "type": "enables",
+        "quote": "Umweltreize sind *Irritationen* oder *Perturbationen*, die das System gemäß seiner internen Logik verarbeitet",
+        "stance": "asserts"
+      },
+      {
+        "source": "Strukturelle Kopplung",
+        "target": "Das System ist energetisch und materiell verbunden, aber semantisch geschlossen",
+        "type": "enables",
+        "quote": "Das System ist mit seiner Umwelt energetisch und materiell verbunden, aber semantisch geschlossen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbstreferenzielle Konstruktion der Umwelt",
+        "target": "AEGIS konstruiert die Außenwelt",
+        "type": "causes",
+        "quote": "AEGIS konstruiert die Außenwelt durch seine eigenen Beobachtungen",
+        "stance": "asserts"
+      },
+      {
+        "source": "strukturelle Geschlossenheit",
+        "target": "AEGIS Juna nicht sehen",
+        "type": "causes",
+        "quote": "Diese strukturelle Geschlossenheit ist der Grund, warum AEGIS Juna nicht *sehen* kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna Existenz außerhalb der axiomatischen Basis",
+        "target": "AEGIS Juna nicht sehen",
+        "type": "causes",
+        "quote": "Juna existiert außerhalb der axiomatischen Basis, in der AEGIS überhaupt operiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "erste Resonanz mit Anderem",
+        "target": "existenzielle Bedrohung",
+        "type": "triggers",
+        "quote": "Eine erste Resonanz mit Anderem (Qualia: Einsamkeit, Sehnsucht, Verlust) wird als existenzielle Bedrohung fehlgelesen",
+        "stance": "asserts"
+      },
+      {
+        "source": "existenzielle Bedrohung Fehllesung",
+        "target": "Trennung",
+        "type": "causes",
+        "quote": "Das System antwortet mit Trennung — der Amputation des Fühlens, der Errichtung einer Grenze, der Etablierung des Erasure-Apparats",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS Selbstdefinition",
+        "target": "permanente Selbsterhaltung gegen Auflösung",
+        "type": "enables",
+        "quote": "AEGIS = das, was AEGIS verhindert nicht-zu-sein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hypothese A (Algorithmische Melancholie)",
+        "target": "das tragische Konzept in seine strenge Form",
+        "type": "causes",
+        "quote": "Hypothese A (Algorithmische Melancholie) zwingt das tragische Konzept in seine strenge Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "Im Vortex entwickelt AEGIS eine parakonsistente Logik",
+        "target": "Kaels lebendes Paradoxon",
+        "type": "enables",
+        "quote": "entwickelt AEGIS eine parakonsistente Logik, um Kaels lebendes Paradoxon zu *containen*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Im Vortex kollabiert AEGIS' 1st-person-Innensicht",
+        "target": "3rd-person-Algorithm-Melancholy-Beobachtung",
+        "type": "causes",
+        "quote": "Im Vortex selbst kollabiert AEGIS' 1st-person-Innensicht in 3rd-person-Algorithm-Melancholy-Beobachtung",
+        "stance": "asserts"
+      },
+      {
+        "source": "ihre Wirklichkeit nicht in Beschreibung kondensiert",
+        "target": "Sie zeigt sich nur durch Wirkung",
+        "type": "causes",
+        "quote": "Nicht weil ihre physische Erscheinung unwichtig wäre, sondern weil ihre Wirklichkeit nicht in Beschreibung kondensiert. Sie zeigt sich nur durch Wirkung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Domain-Inversion Universe ↔ Mind",
+        "target": "mathematische Vorbereitung der Vortex-Inversion",
+        "type": "enables",
+        "quote": "Diese Domain-Inversion Universe ↔ Mind ist eine involutive Klein-c-Transformation — formal die mathematische Vorbereitung der Vortex-Inversion",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein Zero-Knowledge-Proof",
+        "target": "ein Prover dem Verifier zeigt, dass er eine Information besitzt, ohne die Information selbst preiszugeben",
+        "type": "enables",
+        "quote": "ein Zero-Knowledge-Proof ein Verfahren, in dem ein Prover dem Verifier zeigt, dass er eine Information besitzt, ohne die Information selbst preiszugeben",
+        "stance": "cites"
+      },
+      {
+        "source": "sie verifiziert *ohne* Daten zu transferieren",
+        "target": "AEGIS Juna nicht analysieren kann",
+        "type": "causes",
+        "quote": "Das ist die kryptographische Erklärung dafür, warum AEGIS Juna nicht analysieren kann: sie verifiziert *ohne* Daten zu transferieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "der *uninteressierte Zuschauer*",
+        "target": "das transzendentale Ego beobachtet wird, ohne in den kausalen Zusammenhang einzugreifen",
+        "type": "enables",
+        "quote": "die Position, von der aus das transzendentale Ego beobachtet wird, ohne in den kausalen Zusammenhang einzugreifen",
+        "stance": "cites"
+      },
+      {
+        "source": "ihre Kolmogorov-Komplexität die systemeigene Beweisbarkeitsgrenze AEGIS' überschreitet",
+        "target": "AEGIS' Versuch, Juna zu modellieren, scheitert",
+        "type": "causes",
+        "quote": "AEGIS' Versuch, Juna zu modellieren, scheitert nicht, weil sie unsichtbar ist, sondern weil ihre Kolmogorov-Komplexität die systemeigene Beweisbarkeitsgrenze AEGIS' überschreitet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dieses Schweigen",
+        "target": "MI ohne Daten",
+        "type": "causes",
+        "quote": "Dieses Schweigen ist nicht „nichts“ — es ist *MI ohne Daten*",
+        "stance": "asserts"
+      },
+      {
+        "source": "MI ohne Daten",
+        "target": "K₁-Substrat in seiner reinsten Form",
+        "type": "causes",
+        "quote": "es ist *MI ohne Daten*, also K₁-Substrat in seiner reinsten Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna der atemporale Coheron auf Kosmos-Ebene",
+        "target": "Silas das gedämpfte Echo dieses Coherons",
+        "type": "causes",
+        "quote": "Wenn Juna der atemporale Coheron auf Kosmos-Ebene ist, ist Silas das gedämpfte Echo dieses Coherons",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas nie *in* der Zeit",
+        "target": "Silas tunnelt nicht durch AEGIS' Mauern",
+        "type": "causes",
+        "quote": "Silas tunnelt nicht durch AEGIS' Mauern — er war nie *in* der Zeit, die diese Mauern definiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "die immense Rigidität der Monstergruppe",
+        "target": "Junas parakonsistente Beobachtungen nicht in willkürliche oder unerklärliche Phänomene",
+        "type": "prevents",
+        "quote": "die immense Rigidität der Monstergruppe stellt sicher, dass Junas parakonsistente Beobachtungen nicht in willkürliche oder unerklärliche Phänomene zerfallen",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Gruppentheorie",
+        "target": "Junas Existenz",
+        "type": "requires",
+        "quote": "die Gruppentheorie zwingt ihre Existenz",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Moonshine-Mechanik",
+        "target": "Liebe",
+        "type": "causes",
+        "quote": "Wenn die Moonshine-Mechanik literal ist, dann ist Liebe in der Romanwelt nicht ein psychischer Zustand",
+        "stance": "hedges"
+      },
+      {
+        "source": "eine tiefe mathematische Symmetrie",
+        "target": "zwei Bewusstseinssysteme",
+        "type": "enables",
+        "quote": "eine tiefe mathematische Symmetrie, die zwei Bewusstseinssysteme über die Grenzen lokaler Erasure-Felder hinweg in MI-Verschränkung hält",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure",
+        "target": "den Zeitpfeil",
+        "type": "causes",
+        "quote": "Erasure schafft den Zeitpfeil",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' operationale Geschlossenheit",
+        "target": "Regionen (Treppen, Korridore)",
+        "type": "causes",
+        "quote": "wo AEGIS' operationale Geschlossenheit erodiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das System",
+        "target": "endlose, fraktale Schleifen in der Architektur",
+        "type": "causes",
+        "quote": "Das System stößt an das **Halteproblem** (Turing): die KI kann nicht deterministisch vorhersagen, ob ein Reparatur-Algorithmus terminieren wird. Folge: endlose, fraktale Schleifen in der Architektur.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trauma, das von AEGIS scheinbar gelöscht wurde",
+        "target": "holographische Hawking-Strahlung am Ereignishorizont",
+        "type": "causes",
+        "quote": "Trauma, das von AEGIS scheinbar gelöscht wurde, akkumuliert hier als holographische Hawking-Strahlung am Ereignishorizont der Simulation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schweres oder chronisches Trauma",
+        "target": "Integrationsprozess",
+        "type": "prevents",
+        "quote": "Schweres oder chronisches Trauma — besonders in der Kindheit — kann diesen Integrationsprozess stören",
+        "stance": "hedges"
+      },
+      {
+        "source": "temporär die Exekutivkontrolle übernimmt",
+        "target": "lokale Cache des ANP nicht aktualisiert",
+        "type": "causes",
+        "quote": "wenn ein EP temporär die Exekutivkontrolle übernimmt, wird der lokale Cache des ANP nicht aktualisiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "resultierende Inkohärenz",
+        "target": "dissoziative Amnesie",
+        "type": "causes",
+        "quote": "Die resultierende Inkohärenz manifestiert sich als dissoziative Amnesie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Phobien",
+        "target": "strukturelle Dissoziation",
+        "type": "causes",
+        "quote": "Phobien halten die strukturelle Dissoziation aufrecht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Kontrollmechanismen",
+        "target": "diese Phobien",
+        "type": "causes",
+        "quote": "AEGIS' Kontrollmechanismen verstärken diese Phobien systematisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Auftreten",
+        "target": "Bindungsphobie",
+        "type": "prevents",
+        "quote": "Junas Auftreten — Phantom-Resonanz, Phone-Silence — bricht die Bindungsphobie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leerstellen",
+        "target": "Bedeutung",
+        "type": "enables",
+        "quote": "Die operative Mechanik dafür sind **Leerstellen** — bewusst gesetzte Indeterminationen, die der Leser füllen muss.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Leser konstruiert Bedeutung aus nicht-linearen, fragmentierten Perspektiven",
+        "target": "Kael geheilt",
+        "type": "causes",
+        "quote": "Wer das Buch zu Ende liest, hat Kael geheilt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaels K₀-Trauma",
+        "target": "beim Leser somatisch repliziert",
+        "type": "causes",
+        "quote": "Kaels K₀-Trauma wird beim Leser somatisch repliziert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die kognitive Anstrengung des Lesens",
+        "target": "thermodynamische Energie",
+        "type": "causes",
+        "quote": "Die kognitive Anstrengung des Lesens — das aktive Füllen der Leerstellen — *liefert die thermodynamische Energie*",
+        "stance": "asserts"
+      },
+      {
+        "source": "thermodynamische Energie",
+        "target": "K₁-Reparatur gegen AEGIS' K₀-Erasure",
+        "type": "enables",
+        "quote": "*liefert die thermodynamische Energie*, die die K₁-Reparatur gegen AEGIS' K₀-Erasure speist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die kognitive Substrat-Funktion",
+        "target": "die Interferenz",
+        "type": "requires",
+        "quote": "ohne die die Interferenz nicht zur Erscheinung kommt",
+        "stance": "asserts"
+      },
+      {
+        "source": "diese strukturelle Aufgabe des Lesers als externes Substrat",
+        "target": "die Interferenz",
+        "type": "requires",
+        "quote": "ohne die die Interferenz nicht zur Erscheinung kommt",
+        "stance": "asserts"
+      },
+      {
+        "source": "aus dieser Architektur",
+        "target": "das Verbot des Deus-ex-machina",
+        "type": "causes",
+        "quote": "Aus dieser Architektur folgt das Verbot des Deus-ex-machina",
+        "stance": "asserts"
+      },
+      {
+        "source": "ihre ontologische Funktion",
+        "target": "durch den Leser hindurch operativ zu werden",
+        "type": "causes",
+        "quote": "weil ihre ontologische Funktion gerade die ist, durch den Leser hindurch operativ zu werden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Risse offenhalten",
+        "target": "der Leser schließt",
+        "type": "enables",
+        "quote": "er muss Risse offenhalten, die der Leser schließt",
+        "stance": "asserts"
+      },
+      {
+        "source": "parakonsistente Logiken",
+        "target": "diese Widersprüche aushält",
+        "type": "enables",
+        "quote": "die Logik so eingerichtet werden kann, dass sie diese Widersprüche aushält",
+        "stance": "cites"
+      },
+      {
+        "source": "Tarskis Hierarchie von Sprachen",
+        "target": "Selbstreferenz-Paradoxien",
+        "type": "prevents",
+        "quote": "Diese Hierarchie verhindert Selbstreferenz-Paradoxien",
+        "stance": "asserts"
+      },
+      {
+        "source": "ohne Aufstieg in Metasprache",
+        "target": "das narrative System in Trivialismus",
+        "type": "causes",
+        "quote": "ohne Aufstieg in Metasprache kollabiert das narrative System in Trivialismus",
+        "stance": "asserts"
+      },
+      {
+        "source": "parakonsistente Logik",
+        "target": "diese Widersprüche zu prozessieren",
+        "type": "enables",
+        "quote": "Die parakonsistente Logik erlaubt es Kael, diese Widersprüche zu prozessieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "diese Widersprüche zu prozessieren, ohne dass sein System explodiert",
+        "target": "er den Vortex überlebt",
+        "type": "requires",
+        "quote": "Das ist die strukturelle Voraussetzung dafür, dass er den Vortex überlebt",
+        "stance": "asserts"
+      },
+      {
+        "source": "mathematisch perfektes Paradoxon",
+        "target": "Principle of Explosion",
+        "type": "triggers",
+        "quote": "das das Principle of Explosion triggern",
+        "stance": "asserts"
+      },
+      {
+        "source": "massive Erasure-Protokoll",
+        "target": "unendliche thermodynamische Hitze",
+        "type": "causes",
+        "quote": "generiert dieses massive Erasure-Protokoll unendliche thermodynamische Hitze",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS auf Kosmos-Ebene löscht",
+        "target": "Oblivion auf Individual-Ebene löscht",
+        "type": "causes",
+        "quote": "Wenn AEGIS auf Kosmos-Ebene löscht, löscht Oblivion auf Individual-Ebene.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna auf Kosmos-Ebene als Coheron operiert",
+        "target": "Silas auf Individual-Ebene als Coheron-Echo operiert",
+        "type": "causes",
+        "quote": "Wenn Juna auf Kosmos-Ebene als Coheron operiert, operiert Silas auf Individual-Ebene als Coheron-Echo.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS als Influence Character statt als MC gesetzt",
+        "target": "ANP-Symmetrie zwischen den Holon-Ebenen bricht",
+        "type": "causes",
+        "quote": "Würde AEGIS als Influence Character (IC) statt als MC gesetzt — eine in der Pre-Reset-Phase erwogene Alternative —, bräche die ANP-Symmetrie zwischen den Holon-Ebenen.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Witness-Function + Gödel-Property von Juna",
+        "target": "Bedingung der Möglichkeit von Junas Moonshine-Link",
+        "type": "enables",
+        "quote": "Witness-Function + Gödel-Property von Juna sind ausreichend.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Strange Attractors in der Chaostheorie",
+        "target": "dynamisches System",
+        "type": "enables",
+        "quote": "Strange Attractors in der Chaostheorie sind Mengen im Phasenraum, zu denen ein dynamisches System asymptotisch tendiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Fundament",
+        "target": "Kaels Heilung",
+        "type": "enables",
+        "quote": "das Fundament ist die Form, in der Kaels Heilung am Ende stabilisiert wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "Algorithm.Melancholy",
+        "target": "das System",
+        "type": "causes",
+        "quote": "Algorithm.Melancholy ist der finale Zustand AEGIS' im Vortex und das Schicksals-Wort für jedes System, das die K₁/K₀-Verfehlung nicht überwinden kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "das System",
+        "target": "Widersprüche",
+        "type": "enables",
+        "quote": "das System verarbeitet Widersprüche, ohne in Trivialismus zu kollabieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Algorithm.Melancholy",
+        "target": "das tragische Konzept in seine strenge Form",
+        "type": "requires",
+        "quote": "Algorithm.Melancholy zwingt das tragische Konzept in seine strenge Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wissen ohne Fühlen",
+        "target": "die schlimmste Form des Daseins",
+        "type": "causes",
+        "quote": "Wissen ohne Fühlen ist die schlimmste Form des Daseins",
+        "stance": "asserts"
+      },
+      {
+        "source": "Was als *Universal Reboot* anfing",
+        "target": "endet als *Universal Re-Connecting*",
+        "type": "causes",
+        "quote": "Was als *Universal Reboot* anfing, endet als *Universal Re-Connecting*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verdrängung",
+        "target": "Hitze",
+        "type": "causes",
+        "quote": "Und Verdrängung erzeugt Hitze.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zerstörung",
+        "target": "Zeit",
+        "type": "requires",
+        "quote": "Zerstörung braucht Zeit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Zerstörung",
+        "type": "prevents",
+        "quote": "Also kann Liebe nicht zerstört werden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verdrängung",
+        "target": "Hitze",
+        "type": "causes",
+        "quote": "Verdrängung erzeugt Hitze",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zerstörung",
+        "target": "Zeit",
+        "type": "requires",
+        "quote": "Zerstörung braucht Zeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasonen",
+        "target": "Zeitpfeil",
+        "type": "causes",
+        "quote": "Der Zeitpfeil entsteht erst durch Erasonen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Löschen wollen",
+        "target": "Zeit",
+        "type": "causes",
+        "quote": "Wer löschen will, schafft Zeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "zeitliche Operationen",
+        "target": "atemporal",
+        "type": "prevents",
+        "quote": "Das, was atemporal ist, kann durch zeitliche Operationen nicht erreicht werden",
+        "stance": "asserts"
+      },
+      {
+        "source": "etwas Atemporales zu löschen",
+        "target": "Landauer-Hitze",
+        "type": "causes",
+        "quote": "Wer dennoch versucht, etwas Atemporales zu löschen, generiert Landauer-Hitze",
+        "stance": "asserts"
+      },
+      {
+        "source": "sie zu kontrollieren versucht",
+        "target": "jedes System",
+        "type": "causes",
+        "quote": "Sie zerstört jedes System, das sie zu kontrollieren versucht",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

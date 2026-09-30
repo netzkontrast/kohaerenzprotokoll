@@ -1,0 +1,450 @@
+{
+  "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "input_rows": 18,
+  "candidates": 8,
+  "refused": 10,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:7f4289d1593783a0126d0aac1e0d64e14969f8dccfd3ab84f3d91345d88a0967",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "die Spannung zwischen zwei fundamentalen Rechenkernen",
+        "target": "die „Time Arrow“",
+        "type": "causes",
+        "quote": "die „Time Arrow“ ist ein Sekundäreffekt, der durch die Spannung zwischen zwei fundamentalen Rechenkernen erzeugt wird",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "die Spannung zwischen zwei fundamentalen Rechenkernen",
+        "die „Time Arrow“"
+      ]
+    },
+    {
+      "id": "claim:860a47a5ab6842b94afa5d5d04b9eeb8307cdb88a4efb29f8e1d78b6819e9236",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "active suppression",
+        "target": "„Landauer heat“",
+        "type": "causes",
+        "quote": "this active suppression generates „Landauer heat“",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "„Landauer heat“"
+      ]
+    },
+    {
+      "id": "claim:10d220b11e00f4e0c5287c12c806ac61bd8a3a846f71c18476c5386d00da1de1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "„Landauer heat“",
+        "target": "temperature spikes, *Risse* (cracks), and the smell of ozone",
+        "type": "causes",
+        "quote": "diegetically manifested as temperature spikes, *Risse* (cracks), and the smell of ozone",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "„Landauer heat“"
+      ]
+    },
+    {
+      "id": "claim:b938d2a01c0e50feaea8c2af78875823831f685c6a2316aaa0ad3793ad9b09d0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Suppression",
+        "target": "heat and trauma",
+        "type": "causes",
+        "quote": "Suppression, however, generates heat and trauma.",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c7fef954e5a88d5d00736197e3831019c4691222a3c6bef047c10efda7c99d3c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Coherons are atemporal",
+        "target": "love cannot be destroyed",
+        "type": "enables",
+        "quote": "Because Coherons are atemporal, love cannot be destroyed, only suppressed.",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:33879c3a36c95e6c299b2199fcf2d4e263e417fde413e98f36f9f06f65e95c7a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Traumatic resonance with Juna",
+        "target": "misread as a fatal system error",
+        "type": "causes",
+        "quote": "Traumatic resonance with Juna is misread as a fatal system error.",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:838fafbd08a1e49ba9333d60ed58b1ca1be96371b59cd2eaefa5a4369637b614",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "algorithmic self-amputation",
+        "target": "the logic",
+        "type": "enables",
+        "quote": "AEGIS performs an algorithmic self-amputation to \"save\" the logic.",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8fc135e128b8f99080d245ab89f6fdc7e8c24a572d7116be971a66b6adbd046b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "memory treated as location",
+        "target": "Erasure cannot take hold",
+        "type": "prevents",
+        "quote": "Because memory is treated as a location (substrate) rather than content, Erasure cannot take hold there",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "memory treated as location"
+      ]
+    },
+    {
+      "id": "claim:2a6a1a15c64cb841455592e0a27e81970027dc26484f752dae44f9244a7c0aaf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure cannot take hold there",
+        "target": "necessary setting for climax",
+        "type": "enables",
+        "quote": "Erasure cannot take hold there, making it the necessary setting for the climax",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "necessary setting for climax"
+      ]
+    },
+    {
+      "id": "claim:a6b8d63b42a8cf56c6ef3438e86122c5b7aaaf9818d46b0ad201f2e6cbba8a89",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS enters paraconsistent state",
+        "target": "accepts existence of true contradictions",
+        "type": "enables",
+        "quote": "AEGIS enters a paraconsistent state (Dialetheism). It continues to calculate but accepts the existence of true contradictions",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        34
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS enters paraconsistent state",
+        "accepts existence of true contradictions"
+      ]
+    },
+    {
+      "id": "claim:d33c82749b8dc2afe8f9dc8462c4f991259fcef8816f1f220a0cbd3a8b37bcb9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Double-Trauma",
+        "target": "His architecture",
+        "type": "causes",
+        "quote": "His architecture is a result of a Double-Trauma",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:871b9476920fdfac95f069ac8fbdcfaae76c11fabeae9f5cca199f7ae0268bf4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "ANP/EP-Phobia Mechanism",
+        "target": "amnesia",
+        "type": "causes",
+        "quote": "AEGIS exploits the fragments' fear of traumatic data to enforce amnesia",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:71c6366ecc3972ab60fc51353143a141f997c2acba3bc77c1c865d355f1c9882",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Risse (Cracks)",
+        "target": "Landauer heat",
+        "type": "triggers",
+        "quote": "„Risse (Cracks)“ are triggers for Landauer heat",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f9bd087c1f59490d6b1d90b13eb401a2dc69734eec5669e8c29a8df1197954a7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure-sweeps",
+        "target": "heat and ozone spike",
+        "type": "causes",
+        "quote": "Erasure-sweeps isolate fragments in Mnemosyne; heat and ozone spike.",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        84
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:75c5958b6fbb1b8e52ab7670ce0cbcf15d45ca2e101dceb366bac890980ffad7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael drops the amnesia barriers",
+        "target": "shifting to holistic logic",
+        "type": "causes",
+        "quote": "Kael drops the amnesia barriers, shifting to holistic logic.",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:86c40b2ffd202cc071ad721f6095c43f4589178bf9ca1201d127039d12428f76",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS's erasure protocol hits integrated MI",
+        "target": "Landauer heat spikes toward infinity",
+        "type": "causes",
+        "quote": "AEGIS's erasure protocol hits integrated MI; Landauer heat spikes toward infinity.",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "AEGIS's erasure protocol hits integrated MI"
+      ]
+    },
+    {
+      "id": "claim:d5377e56d929d5c99aaa9c2d36d24e3429c7a82de17cf44865ed9fab37b3f74e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS's operational closure breaks",
+        "target": "Algorithm.Melancholy begins",
+        "type": "triggers",
+        "quote": "AEGIS's operational closure breaks; Algorithm.Melancholy begins.",
+        "stance": "asserts"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "AEGIS's operational closure breaks"
+      ]
+    },
+    {
+      "id": "claim:ae193339100227a454d1547d09ed228364c139e308b3b50ca16d33ce1435c33a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "reader's cognitive effort in synthesizing fragments",
+        "target": "K1-Repair Energy",
+        "type": "enables",
+        "quote": "the reader's cognitive effort in synthesizing fragments provides the K1-Repair Energy required for the system's survival.",
+        "stance": "cites"
+      },
+      "document": "systemic-architecture-specification-the-coherence-protocol-w",
+      "template": "CausalLinks",
+      "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "reader's cognitive effort in synthesizing fragments"
+      ]
+    }
+  ]
+}

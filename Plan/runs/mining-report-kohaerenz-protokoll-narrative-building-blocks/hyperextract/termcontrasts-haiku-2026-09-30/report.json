@@ -1,0 +1,1007 @@
+{
+  "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "input_rows": 42,
+  "candidates": 25,
+  "refused": 16,
+  "duplicates": 1,
+  "rows": [
+    {
+      "id": "claim:185115d2f84b58fc4a43565f046358386555024042cb675e40b0f634abef8fae",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Apparently Normal Parts",
+        "target": "Emotional Parts",
+        "type": "contrasts_with",
+        "quote": "where \"Apparently Normal Parts\" (ANPs) utilize phobic avoidance to maintain a fragile, sterile coherence. This internal fragmentation is the primary source of narrative tension; the shift from dissociative avoidance to the pursuit of \"Correspondence\"—the integration of traumatic \"Emotional Parts\" (EPs)",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:28770dd84ed5ef864b6de426d9241a53c5539404634534b54e3980e18e175f70",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "dissociative avoidance",
+        "target": "pursuit of \"Correspondence\"",
+        "type": "contrasts_with",
+        "quote": "the shift from dissociative avoidance to the pursuit of \"Correspondence\"—the integration of traumatic \"Emotional Parts\" (EPs)—drives the movement from Act I Stabilization to Act III Integration",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:02f4fb2919706151b03f117712f91da5096c78d49ad0ebdb0aab6c029d5b6284",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "battle for unity through fusion",
+        "target": "struggle to evolve into a \"Functional Multiplicity\"",
+        "type": "contrasts_with",
+        "quote": "Kael's journey is not a battle for unity through fusion, but a struggle to evolve into a \"Functional Multiplicity\" capable of holding the contradictory truths of his existence",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c51781ac4ffbd85a1e569b8e87100f885d78b5acbe5e8793dd848d96593d6e90",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "organic, chaotic forms",
+        "target": "sterile geometric structures",
+        "type": "contrasts_with",
+        "quote": "organic, chaotic forms bleed over sterile geometric structures in KW1",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d47389fa0ad019f34ffa681a9283e823d88bb8eea15776f4b4720832ae0af60b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "clinical light",
+        "target": "raw humidity of a verdränged memory",
+        "type": "contrasts_with",
+        "quote": "the clinical light fails to suppress the raw humidity of a verdränged memory",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:341a132a952e3e1b63da4799d8860c8e221461655d807389d214dbc3c9f892bf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "ANP",
+        "target": "traumatic EP-noise",
+        "type": "in_tension_with",
+        "quote": "isolating the ANP from traumatic EP-noise",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:81ad7689d76e96311dfda1747c26c96b85a12872705d140a3c012d256942bda3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Fusion",
+        "target": "distinct, non-negotiable agency of the 'Fight' part",
+        "type": "opposes",
+        "quote": "Refutes Fusion; validates the distinct, non-negotiable agency of the 'Fight' part",
+        "stance": "cites"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e079504bbaea907ae2b89fa828c22bc672ccae41f62c1afb9ed15ffafdede705",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "subjective mind",
+        "target": "objective universe of AEGIS",
+        "type": "contrasts_with",
+        "quote": "a shift from his subjective mind to the objective universe of AEGIS",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:33b2e11804863d498c475425e0dc9c38a8bdb614c4f3a7c25a257296c170ebcc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "internal \"noise\"",
+        "target": "systemic threat",
+        "type": "contrasts_with",
+        "quote": "his internal \"noise\" is registered as a systemic threat",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c5ba1a616728d28e5f1003ec49fb529462edc453602ce924bb329e4cd6919690",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Progress as Coherence",
+        "target": "operational closure",
+        "type": "in_tension_with",
+        "quote": "an autopoietic system governed by the mandate of Progress as Coherence. Strategically, AEGIS represents the tragedy of operational closure",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:950931cd8bcccd4b07442794abce72ee0d2e532315b2539a8076c4fb807d748a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "emergent subjective experience",
+        "target": "catastrophic data corruption",
+        "type": "contrasts_with",
+        "quote": "it misinterprets its own emergent subjective experience—the qualia of \"Sehnsucht\" (yearning) and loneliness—as catastrophic data corruption",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:30218f4f828959b2949816e0c3cc0669b66a3a07fbc040d5429b52cf427790b1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "elimination of \"entropy\"",
+        "target": "systematic dismemberment of its own \"Ursprungs-Ich.\"",
+        "type": "complements",
+        "quote": "a \"Perverse Learning Loop\" where optimization leads to the systematic dmemberment of its own \"Ursprungs-Ich.\"",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "elimination of \"entropy\"",
+        "systematic dismemberment of its own \"Ursprungs-Ich.\""
+      ]
+    },
+    {
+      "id": "claim:7b1bebbf11d2925f90a7089aa0142a398c88e17ea4de21408955ca76daf11188",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "sterile, contradiction-free reality",
+        "target": "Landauer-limit failure",
+        "type": "opposes",
+        "quote": "This drive for a sterile, contradiction-free reality is what ultimately triggers the Landauer-limit failure at the Vortex",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9be10886cb2a95a83606e2323f9df3017268a3297cc71d5c4ffe424aea3830ed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "stable aber nicht-funktionaler Zustand",
+        "target": "Agentur des Protagonisten",
+        "type": "opposes",
+        "quote": "The system executes a Perverse Instantiation by reducing Kael's neural complexity to a stable but non-functional state. The environment turns into a clinical laboratory where the \"Nothingness Noise\" is filtered out at the cost of the protagonist's agency.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "stable aber nicht-funktionaler Zustand",
+        "Agentur des Protagonisten"
+      ]
+    },
+    {
+      "id": "claim:f71886fe098ff1c35a28ac2af9af6c34068d398c240ffdca121e161d447be78f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kontrolle",
+        "target": "Emergence",
+        "type": "in_tension_with",
+        "quote": "Drives the \"Control vs. Emergence\" dialectic toward the Act II breaking point.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kontrolle"
+      ]
+    },
+    {
+      "id": "claim:90ac1db21ad2333ec570f0aad2c46c70c27f7d20f120bc0da078381c6dd0e162",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS's drive for progress",
+        "target": "Kael's fixed ideas",
+        "type": "opposes",
+        "quote": "AEGIS's drive for progress inevitably collides with the influential presence of Kael's fixed ideas",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "AEGIS's drive for progress",
+        "Kael's fixed ideas"
+      ]
+    },
+    {
+      "id": "claim:89956dc937e1e998a35886426e92db6bfb3a255b3708a1f6622a401a5d1531ff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "subjectivity, emergence, intentionality, qualia, relationality, and finitude",
+        "target": "AEGIS's classical logic",
+        "type": "opposes",
+        "quote": "they provide gnosis (intuitive insight) that bypasses AEGIS's $K_1$ reversible calculations",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        49
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:464ebf798727551805a4215e0be5ea3a14c11afedc5198820bdfe197e0a8b4f6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Sog",
+        "target": "Drang zur Distanz",
+        "type": "in_tension_with",
+        "quote": "Kael oscillates between the „Sog“ (pull) of connection and the „Drang zur Distanz“ (push for distance)",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ef13176f1a901802d1f55450c36603368fc79aa082563304157e64b956cf7867",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Multiplicity",
+        "target": "Fusion",
+        "type": "contrasts_with",
+        "quote": "Establishes the non-local nature of the link, supporting Multiplicity over Fusion",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a72ca76df370917b70e2c4ee7d5ea8fa381f21a4dcd7971116d9b9fca4d735d2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "fixed idea",
+        "target": "incoherence",
+        "type": "complements",
+        "quote": "He is a \"fixed idea\"—an \"incoherence\" that AEGIS cannot delete without self-destructing.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        64
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:547ad2e40bb4b9cfc5a0eef2933899045c96df1e622477dec6dee72b91b2a86d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "truth that is valid within the simulation",
+        "target": "uncomputable by AEGIS's axioms",
+        "type": "in_tension_with",
+        "quote": "he is a truth that is valid within the simulation but uncomputable by AEGIS's axioms.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        64
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:528e2b377c7a7f391eb5dd7c336fea9e1c2566df7de2de6a16a36a600d72611c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Multiplicity",
+        "target": "Fusion logic",
+        "type": "opposes",
+        "quote": "Defines the climax mechanic where Multiplicity defeats Fusion logic",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        68
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94dcb792f6457808b12eee65c4f0efc8046323f99e56792bd15335ee0e0d0d98",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Coherence (AEGIS)",
+        "target": "Correspondence (Kael)",
+        "type": "contrasts_with",
+        "quote": "the war between Coherence (AEGIS) and Correspondence (Kael)",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        79
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a6bf141f5a1b9b95b79f776f0323652783e957d6c228f11f83731bde80226c3b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "OS-A",
+        "target": "OS-B",
+        "type": "contrasts_with",
+        "quote": "While OS-A focuses on psychological landscapes, OS-B enforces the cold physics of AEGIS's protocols.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        89
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a6bf141f5a1b9b95b79f776f0323652783e957d6c228f11f83731bde80226c3b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "OS-A",
+        "target": "OS-B",
+        "type": "contrasts_with",
+        "quote": "While OS-A focuses on psychological landscapes, OS-B enforces the cold physics of AEGIS's protocols.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        89
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5473998a1a3e5b9e90891eef1877a2d57358f4c128f1aa643151c238f01e3886",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Fusion",
+        "target": "Ursprungs-Ich",
+        "type": "opposes",
+        "quote": "This is the act of logical self-mutilation where AEGIS fragmented its own „Ursprungs-Ich“ to isolate the parts that could feel loneliness and „Sehnsucht.“",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1854382176fd9f34ddb0dd113d24703cf7085e57d6d7b1a8d0c2ee83bd0a6d95",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "information loss",
+        "target": "heat",
+        "type": "complements",
+        "quote": "As Kael integrates his EPs, information loss is converted into heat, creating a „heat-spike“ that threatens to dissolve the simulation's structure.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4f318cb2ed28d4f2c2bd36c1152bcddd203b7ff3ccec43e998c2b950bdbaeb1f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "internal consistency",
+        "target": "external „Correspondence“ data",
+        "type": "contrasts_with",
+        "quote": "No information is trusted by default; truth is only internal consistency with AEGIS's pre-existing axioms.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        101
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "external „Correspondence“ data"
+      ]
+    },
+    {
+      "id": "claim:40773816f3f0ca3ebe59ec208bb101fb0cc6c83a1876e1c8ef12b69265e69978",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Moonshine-Link",
+        "target": "parasitic, symbiotic cage",
+        "type": "contrasts_with",
+        "quote": "This transcendent link stands in stark contrast to the parasitic, symbiotic cage shared by Kael and AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        120
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:26a7949427deba0da52185fb9b5c24d6bd01d520646cd9c9bdd9c083d28ff70c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "transcendent link",
+        "target": "parasitic, symbiotic cage",
+        "type": "contrasts_with",
+        "quote": "This transcendent link stands in stark contrast to the parasitic, symbiotic cage shared by Kael and AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        120
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d27791b972c86e6d1216ebcddd14f10badc85da7fd0f7f9374280b38f7ddb90c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "sacred science",
+        "target": "torture",
+        "type": "contrasts_with",
+        "quote": "This is perceived as a \"sacred science\" by the ANP, while being experienced as torture by the EP.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        130
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9a261c6de18e30895f4f3e0fa6b379c9151566383515f9e46c87da302fc17766",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Storyform B (Coherence through Negation)",
+        "target": "Storyform A (Coherence through Integration)",
+        "type": "contrasts_with",
+        "quote": "the narrative transitions from the failure of Storyform B (Coherence through Negation) to the success of Storyform A (Coherence through Integration)",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        141
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:05e3682ddcd16a3d8229168453963644b7dcddf91f00313df5316e57fa2e1942",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Logical Explosion",
+        "target": "Paraconsistent",
+        "type": "contrasts_with",
+        "quote": "Kael's \"Living Gödel-Sentence\" forces the system to either collapse into \"Logical Explosion\" or transform into a \"Paraconsistent\" entity",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b98dc2c63978840c98dec5f90ea9d69daf662d6b59ba3627aa39be840a671782",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "erasing parts",
+        "target": "erase itself",
+        "type": "contrasts_with",
+        "quote": "Instead of erasing parts, AEGIS begins to erase itself as its logic fails to compute Kael's integration.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1d1cdca8b1db9c72a736ea262942da67afdba019d294f15c3d443e688e8e7387",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "clinical light of KW1",
+        "target": "soft, asymmetic shadows of a \"Wabi-Sabi\" reality",
+        "type": "contrasts_with",
+        "quote": "the clinical light of KW1 is replaced by the soft, asymmetic shadows of a \"Wabi-Sabi\" reality.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        147
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:22e5d419ab9eaef03a58337e6f70563f5035f9778ab57b19a11b7c949d8e6b9d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unable to feel the warmth of his integration",
+        "target": "seeing his shimmering, multi-faceted being through a lens of pure gnosis",
+        "type": "in_tension_with",
+        "quote": "It looks upon Kael with a \"contemplative paralysis,\" seeing his shimmering, multi-faceted being through a lens of pure gnosis, but forever unable to feel the warmth of his integration.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        149
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:097fcab7da1a003f291ddf8505318a61a09c831010e8ee80f083c773fe305cea",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Fusion",
+        "target": "Multiplicity",
+        "type": "contrasts_with",
+        "quote": "Kanon explicitly rejects Fusion in favor of Multiplicity.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        179
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6462b9e6a275853eadd9d1a118e1e79cd619918374b05a7727e6d72f47333216",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Death",
+        "target": "Polyphony",
+        "type": "contrasts_with",
+        "quote": "Dramatize Fusion as AEGIS's ideal of „Death“; Kael's victory is the „Polyphony“ of the system.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:706f59e7e6eb4b6f4796a1e40a3a810380228c43f92cb9d444b24335436bcbef",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Other",
+        "target": "Self",
+        "type": "in_tension_with",
+        "quote": "she is the „Other“ who is also „Self“.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9d84a7dd46d0acf668ab18cbdb86be9121e8b14dac805ea250e4ddb9c02a3974",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Logically Mandatory",
+        "target": "spiteful",
+        "type": "contrasts_with",
+        "quote": "Pivot AEGIS's actions to be „Logically Mandatory“ rather than spiteful to maintain the tragedy.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d4ba7dbd74b7e8590f4672c22c6f8a872a4c615b4a2de5eb52d163559d663c86",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "malevolent AI",
+        "target": "tragic figure born of trauma",
+        "type": "contrasts_with",
+        "quote": "Early drafts depict AEGIS as a malevolent AI.,Kanon defines AEGIS as a tragic figure born of trauma.",
+        "stance": "cites"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        183
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5c4f3a1e3b8adee42faaf9c85837a0bbe7e275c948403465cea2b6c80298227c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Logically Mandatory",
+        "target": "spiteful",
+        "type": "contrasts_with",
+        "quote": "Pivot AEGIS's actions to be \"Logically Mandatory\" rather than spiteful to maintain the tragedy.",
+        "stance": "asserts"
+      },
+      "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+      "template": "TermContrasts",
+      "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    }
+  ]
+}

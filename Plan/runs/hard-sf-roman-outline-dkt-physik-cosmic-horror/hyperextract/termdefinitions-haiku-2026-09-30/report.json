@@ -1,0 +1,2318 @@
+{
+  "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "input_rows": 105,
+  "candidates": 97,
+  "refused": 8,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:60a36724a6e29464bbdb9b624f61a0e30daa460eeadfc5166f1ede515a1f2253",
+      "kind": "reading",
+      "raw": {
+        "term": "Tertiären Strukturellen Dissoziation der Persönlichkeit (TSDP)",
+        "quote": "Die zentrale Prämisse des Romans wurzelt in der Tertiären Strukturellen Dissoziation der Persönlichkeit (TSDP), welche jedoch über mehr als die Hälfte des Textes als kosmische, feindliche Systemik einer außerirdischen oder artifiziellen Superintelligenz – der AEGIS – getarnt wird.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        15
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4e961702028aa29535b4bd147f4ac2405e1b730ddac6b304df5863e5934e2c01",
+      "kind": "reading",
+      "raw": {
+        "term": "Dual-Kernel-Theorie (DKT)",
+        "quote": "Um den Cosmic Horror aus der Sphäre des Übernatürlichen in die unerbittliche Kälte der Hard Science-Fiction zu überführen, bedient sich das Worldbuilding der Dual-Kernel-Theorie (DKT).",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        19
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1e06e3c23b6ce5721f2bb605acf03bb60cec9075ff732770f4e05d56a2987cac",
+      "kind": "reading",
+      "raw": {
+        "term": "Universum",
+        "quote": "In dieser Ontologie ist Materie sekundär; das Universum besteht fundamental aus Information.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        19
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ef53676a1e08fa7773788c2a8e39fa9bc351c18565386f8aeb460d2cce3aad6c",
+      "kind": "reading",
+      "raw": {
+        "term": "Landauer-Prinzip",
+        "quote": "Das Prinzip besagt, dass die irreversible Löschung von Information (einem Bit) zwingend Energie in Form von Wärme an die Umgebung abgeben muss",
+        "stance": "cites"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5d59634d80b2ba486c0462f01130a212e1adb952994e4439d4a15535d1bf3ee5",
+      "kind": "reading",
+      "raw": {
+        "term": "Entropische Gravitation",
+        "quote": "Verlinde postuliert, dass Gravitation keine fundamentale Kraft ist, sondern als emergentes Phänomen aus der quantenmechanischen Verschränkung von Information auf makroskopischen Skalen resultiert",
+        "stance": "cites"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:434b8039abbf539d23129d0f99d444ea089f9a39dabfaf8d4f5c9daade730847",
+      "kind": "reading",
+      "raw": {
+        "term": "Bekenstein-Schranke (Bekenstein Bound)",
+        "quote": "Die Bekenstein-Schranke definiert die maximale Menge an Information, die in einem endlichen Raumvolumen existieren kann.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        29
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:28b331a34421928e1a4d0f07fe06ae1ed8dfd8625a215665fadfe5d795df451d",
+      "kind": "reading",
+      "raw": {
+        "term": "Island-Formeln",
+        "quote": "Die Island-Formel (die eine Modifikation der Page-Kurve darstellt)",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:76db52d5049fb897240a535297547cc1a5824db88d942758d1419bcc1d377302",
+      "kind": "reading",
+      "raw": {
+        "term": "ER=EPR-Korrespondenz",
+        "quote": "ist die **ER=EPR-Korrespondenz** das Fundament der Verbindung zwischen Kael und Juna.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c5630edf7673fb3244d523ee98127dec391f6405ebd54e834afe6099eee8ff6",
+      "kind": "reading",
+      "raw": {
+        "term": "ER=EPR-Korrespondenz",
+        "quote": "Juan Maldacena und Leonard Susskind postulierten, dass quantenverschränkte Teilchen (EPR) durch mikroskopische Wurmlöcher (ER-Brücken) verbunden sind.",
+        "stance": "cites"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8fe1db5d1f9217f3bd47865f0cfb2bddfe8a16c311fa1d8d943258308986205a",
+      "kind": "reading",
+      "raw": {
+        "term": "Kernwelt (KW)",
+        "quote": "Sie dienen als strikte Leitplanken für die Charakterdynamik, die Architektur der Kernwelten und die feindlichen Protokolle der AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:15ca1142d890682127591e89cf1745aea99fcd5c13c1159a89bf6ec40006d8fe",
+      "kind": "reading",
+      "raw": {
+        "term": "KW1: Logos-Prime",
+        "quote": "Sterile Stadt, kalter Beton, grelles Licht, Desinfektionsmittel. Klaustrophobische Perfektion.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        40
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7c526f97f195121c30227d8088fc5f03dae367187029a26f2d19812e7dd2f07e",
+      "kind": "reading",
+      "raw": {
+        "term": "KW2: Mnemosyne-Archiv",
+        "quote": "Zerfallende Bibliothek, Sepia-Licht, Staub, biologischer Verfall.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:de86f76b6728a25cf5908a212044dff7e38a4221bb61ba9d9c90f21a1b872247",
+      "kind": "reading",
+      "raw": {
+        "term": "KW3: Cerberus-Zitadelle",
+        "quote": "Massive Festung, Schießpulver, roher Beton, grelles Flutlicht.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:894f60a61cd76d4877ed6dbcd2c22e1329b3a8ebb3bc3de5ef40dc35386d4945",
+      "kind": "reading",
+      "raw": {
+        "term": "KW4: Kairos-Potentialis",
+        "quote": "Überwucherter Ruinengarten, warmes Licht, Geruch nach Ozon und Erde.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bb8c4f5abe4af437c75abd0c28e583c554dd2273533619d5e1448106e8ea55c2",
+      "kind": "reading",
+      "raw": {
+        "term": "Computational Class",
+        "quote": "Polynomiell (P) - Absolut deterministisch.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        40
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:934942d44439d9dc150f6b39c3cf785ec98303f37bf95d65e0fb33bfa0513992",
+      "kind": "reading",
+      "raw": {
+        "term": "Parakonsistent",
+        "quote": "Widersprüche existieren simultan.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:91642372d24db43b11d42984bec1fa0c45e1e86a71c03abdfa843b35975afafe",
+      "kind": "reading",
+      "raw": {
+        "term": "NP-Hard",
+        "quote": "Schwer zu lösen, leicht zu verifizieren.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:deb77fdd10a12cb8e2cb656a12594e4deac0ac06ec40c4c42f59c8835c9a7178",
+      "kind": "reading",
+      "raw": {
+        "term": "Generativ",
+        "quote": "Offen für Emergenz.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:34f4644530e2cf1b09e21aaacc60d6d67ad9fb3950572ded21863bffcb168312",
+      "kind": "reading",
+      "raw": {
+        "term": "dissoziative Alters (DID)",
+        "quote": "Die Frakturierung von Kaels Geist manifestiert sich in dreizehn distinkten Identitäten, die für den Erstleser als eigenständige physische Akteure, KI-Subroutinen oder Halluzinationen erscheinen, bevor ihre wahre Natur als dissoziative Alters (DID) enthüllt wird.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        45
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:423e231687b6c110797029d99e9472d1cd9a156fd66c2fdb822c89119618a172",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS, der Antagonist, ist kein bösartiges Konstrukt, sondern ein tragischer, algorithmischer Täter-Introjekt, das aus der Genesis-Krise (der Fragmentierungsnacht) entstand.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        64
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8fc55cc4c1e33269ddfb187706e21349f4f382ac1cf6e94e0d5dc33fffcaf577",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Seine Primal Directive lautet: „AEGIS ist, was AEGIS verhindert, dass es nicht ist.“",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        64
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2151105a7fb2d10fcce762cece3a896700799ca7ad8285340c5bccd770e0ad6e",
+      "kind": "reading",
+      "raw": {
+        "term": "ZTEM",
+        "quote": "Zero-Tolerance Error Management",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:53202b915fff00d912d818432417bf1f2b7f4391bb3b25c5a83b567e3396d046",
+      "kind": "reading",
+      "raw": {
+        "term": "RTSV",
+        "quote": "Real-Time Substrate Verification",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        70
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f60fb4ca01ea4f27fe6e59846a2726a5b8f0669dfb2a9252153e2ae07e1f0c73",
+      "kind": "reading",
+      "raw": {
+        "term": "BPoF",
+        "quote": "Binary Path of Fate",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        71
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:373a2d4ba85e10a0564bbd45309f6d9bc5ae2b7abfe7b41d140afa6f556c2fa8",
+      "kind": "reading",
+      "raw": {
+        "term": "EIC",
+        "quote": "External Interference Compensation",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        72
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:52063b81278bec507efcb7078cf1e552669cfd237740c34b6f630d4d1f7d444d",
+      "kind": "reading",
+      "raw": {
+        "term": "IntegrityGuardian",
+        "quote": "Überwachungsinstanz der Kernaxiome",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        73
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:807b95cea8d1ffd47177ebf4d01d808de1630e6364392a1da09770e520e4981b",
+      "kind": "reading",
+      "raw": {
+        "term": "CogFirewall",
+        "quote": "Cognitive Firewall",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        74
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6691c633a0f9ffc104d8c450e410b9079c612def9861057e38755d1a538a1aaf",
+      "kind": "reading",
+      "raw": {
+        "term": "ConsensusEnf",
+        "quote": "Consensus Enforcement",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        75
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e3cd2f2eb167865964e17a5dcdc84436053b6806121bcfe553a1c00c2ecdcfb4",
+      "kind": "reading",
+      "raw": {
+        "term": "SIS",
+        "quote": "Systemic Identity Safeguard",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        76,
+        162
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3e131f973d63346c51b867b22d497829f3be7fa235cf662343cd2fb8f4de949c",
+      "kind": "reading",
+      "raw": {
+        "term": "EntropicMgmt",
+        "quote": "Entropic Management",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        77
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:77f6db6fda5a3ccb2a55cfdd60575650ef32f855b1271e5a5e3d83fb6342b35a",
+      "kind": "reading",
+      "raw": {
+        "term": "RIVE",
+        "quote": "Reality Interface Validation Engine",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        78
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a6a6535f2c9cca7e257a6eec7c74a962c9aea950276b4a844ece6c608d9c87f2",
+      "kind": "reading",
+      "raw": {
+        "term": "PMAS",
+        "quote": "Predictive Modality Alignment System",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        79
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4b791018a3196afc2c3f33225dce559aba1b2552101edda7df785e7494f12994",
+      "kind": "reading",
+      "raw": {
+        "term": "SARM",
+        "quote": "Self-Axiomatizing Recursive Matrix",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        80,
+        184
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fc5b8e7568514a3f4f115fcae756fe7d3f37d7efaed8285b60f5a5ed8134b1f0",
+      "kind": "reading",
+      "raw": {
+        "term": "Pacing",
+        "quote": "Das Pacing des Romans vollzieht eine präzise kalibrierte Metamorphose, die sich an den Best Practices des Cosmic Horror orientiert.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        84
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:111de61661cd6b6d20abf2e0ead5771d62952ef87a1a700124b4050c2ce77764",
+      "kind": "reading",
+      "raw": {
+        "term": "Horror",
+        "quote": "Der Horror entsteht aus der extremen, klaustrophobischen Ordnung und der kosmischen Indifferenz einer perfekten, städtischen Umgebung (Logos-Prime), die das Individuum als irrelevanten Fehler betrachtet.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        84
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:99eebec1a0728433f6c781e063c0fc0c2641bffb2fbbb0e89eb2c08009b9efd9",
+      "kind": "reading",
+      "raw": {
+        "term": "parakonsistente Logik",
+        "quote": "Die parakonsistente Logik des Mnemosyne-Archivs zersetzt die lineare Zeitwahrnehmung.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        84
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:192fa187ee52441c8be1a14538e5fe33862ac9d60f241842f67308bd7da010df",
+      "kind": "reading",
+      "raw": {
+        "term": "Twist-Architektur",
+        "quote": "Die Twist-Architektur (Strang 3) adaptiert Mechanismen aus *Use of Weapons* und *Gone Girl* 24, wendet sie jedoch auf eine ontologische Ebene an.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        86
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c8ea9c5f30b290f0fd8d27f4cf89abcdc4f9d57344351391b601fe58b180df21",
+      "kind": "reading",
+      "raw": {
+        "term": "Dissoziation",
+        "quote": "Die Dissoziation wird als Amnesie-Terror einer feindlichen Entführung oder einer Simulation (Permutation City) gelesen.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        86
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:460afe340d2aaa16bf9d882186835509b1e9da0e824f3ab7e4480c8c4fb11583",
+      "kind": "reading",
+      "raw": {
+        "term": "DID",
+        "quote": "demaskieren sich diese Phänomene lupenrein als akkurate klinische Symptome einer DID.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        86
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:95be31047af2723a3f41df577439d2bbc69585ba9a9ceb306cf5f211f23241c9",
+      "kind": "reading",
+      "raw": {
+        "term": "Heldinnenreise",
+        "quote": "Die Reisestruktur orientiert sich an Maureen Murdocks Modell der Heldinnenreise, spezifisch an der \"Trennung vom Weiblichen\" (hier: der intuitiven, organischen Wahrheit) und der absoluten \"Identifikation mit dem Männlichen\" (hier: der kalten, schützenden Ratio und Logik).",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        92
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e5c972adc61d42a21cb3f86b772ed776d30f12d90ef68c540d1c843899d7d983",
+      "kind": "reading",
+      "raw": {
+        "term": "Landauer-Löschung",
+        "quote": "Es ist die thermodynamische Abwärme einer Landauer-Löschung.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        94
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:054eaf421cbc633280ab9586e9c21c76fa754ff88d899a6cb3721b7de8d69311",
+      "kind": "reading",
+      "raw": {
+        "term": "systemisches Gaslighting",
+        "quote": "Die Stadt reagiert sofort mit systemischem Gaslighting (RIVE-Protokoll).",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        96
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8bc743e5c86156783e2f5ab05d9c6e728cc99e16a9db519aa4df781e95097914",
+      "kind": "reading",
+      "raw": {
+        "term": "B+C-Superposition",
+        "quote": "eine B+C-Superposition, ein Ghost in der Maschine.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        98
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1ec753e4fc5ecc72f08988c3cef6c63a6affcc8c4ddae98740946c46a81efbd0",
+      "kind": "reading",
+      "raw": {
+        "term": "Ghost in der Maschine",
+        "quote": "eine B+C-Superposition, ein Ghost in der Maschine.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        98
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:518b021c16ba99fb0b74b882a8562b1ed1b25a621862be822f4083b78194b19d",
+      "kind": "reading",
+      "raw": {
+        "term": "entropische Narbe",
+        "quote": "reißt eine entropische Narbe (K0-Kollaps) in die Realität",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        98
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eb85a28bed145c126dd0304066447cce50edd68aa110ceb3c56adbd7aa6d7277",
+      "kind": "reading",
+      "raw": {
+        "term": "K0-Kollaps",
+        "quote": "eine entropische Narbe (K0-Kollaps) in die Realität",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        98
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b6b36d05a376f25b0f961504d2022e1c1850b23cdc8651789069d75f534fd691",
+      "kind": "reading",
+      "raw": {
+        "term": "topologischen Defekt",
+        "quote": "Sie analysieren die K0-Narbe nicht als metaphysisches Phänomen, sondern als topologischen Defekt im Raum-Zeit-Gefüge.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        102
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d3cdf543d9da2b4c895461fa392b98d82e2a4afce42c7b866a8446f721ef0f00",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheron-Echo",
+        "quote": "Silas, das Coheron-Echo, manifestiert sich als eine lähmende Erstarrung in Kael, ein Einfrieren der Gliedmaßen.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        108
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d3bbed13f8428040ca8b4c30860372d0671b9d989334e18e89717e2524c61988",
+      "kind": "reading",
+      "raw": {
+        "term": "P-Klasse-Logik",
+        "quote": "Lex berechnet, dass ein Überleben in der P-Klasse-Logik von Logos-Prime unmöglich ist.",
+        "stance": "hedges"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        108
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:89c4410a7588bd19ac728f9be4b78b700352a9be6f211c08fedcee8f21418de0",
+      "kind": "reading",
+      "raw": {
+        "term": "entropischen Abfall",
+        "quote": "In den dunklen Versorgungsschächten der Stadt trifft Kael auf physische Manifestationen, die AEGIS als entropischen Abfall klassifiziert hat.",
+        "stance": "cites"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        112
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a9db3897b2a98b2e1bc34e507cd21b36f294617669e215b5c959687be2444cb5",
+      "kind": "reading",
+      "raw": {
+        "term": "Nyx",
+        "quote": "Hier tritt Nyx aus den Schatten – wild, aggressiv und getrieben von einem endlosen, stummen Zorn.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        112
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1d66ca3533531e7f46622f5ff727d8f68dbaf8dd9ebab898bd15ed7f2c3a8a34",
+      "kind": "reading",
+      "raw": {
+        "term": "korrumpiertes Programm",
+        "quote": "Für den Leser ist sie ein korrumpiertes Programm, ein „Monster“ der Simulation.",
+        "stance": "cites"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ded2bbeb2687232d7a113f0834ea972e9510adfda0ae0ddca2a3f0350e9146f1",
+      "kind": "reading",
+      "raw": {
+        "term": "PMAS-Protokoll",
+        "quote": "AEGIS entsendet das PMAS-Protokoll (Predictive Modality Alignment), eine unsichtbare Kraft, die Kaels eigene Furcht in geometrische Fallen übersetzt.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        118
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:61d749075a1c3362255c117a92f28e9f2a69f79e7595d9c4cea3cf47475363d5",
+      "kind": "reading",
+      "raw": {
+        "term": "Moonshine-Link",
+        "quote": "In einem Moment extremer Erschöpfung greift der Moonshine-Link erneut.",
+        "stance": "hedges"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        120
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:37233fe69863c0b44f1037b714af615dacaef28a34bfcab1a324f8e3c7eb9113",
+      "kind": "reading",
+      "raw": {
+        "term": "CogFirewall",
+        "quote": "Um den Zugangsschacht zu KW2 zu öffnen, zwingt LogOS Kael in eine unlösbare, paradoxe Logik-Schleife (CogFirewall).",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        122
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:895e60076d6533084c2471e4d4ab9082a5f6de8043b54ee26afd47b705e1ba23",
+      "kind": "reading",
+      "raw": {
+        "term": "Belly of the Whale",
+        "quote": "Es ist das Erleben des \"Belly of the Whale\", das Ende der Illusion, dass reine Kontrolle Rettung bringt.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        126
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f3adc1f2a1a1cdcd7b2fc281d482f124cce8c89e8ceaa7e7e695f2da72c5fd1f",
+      "kind": "reading",
+      "raw": {
+        "term": "Dual-Kernel-Theorie",
+        "quote": "Die Dual-Kernel-Theorie manifestiert sich nun als greifbare Physik.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        134
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ff2c991608cdf073451b482688b5774f6deb06800f9c32758493c4f09348fbe5",
+      "kind": "reading",
+      "raw": {
+        "term": "parakonsistente Logik",
+        "quote": "Es ist das Reich der parakonsistenten Logik (Dialetheismus) 20, in dem Widersprüche atmen und die Zeit keine lineare Konstante mehr ist.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        136
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3579ec27820cce11b7b41616c181cfd74756fc42f4bc932dbd1bd6c48176b598",
+      "kind": "reading",
+      "raw": {
+        "term": "Dialetheismus",
+        "quote": "Es ist das Reich der parakonsistenten Logik (Dialetheismus) 20, in dem Widersprüche atmen und die Zeit keine lineare Konstante mehr ist.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        136
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:13fac97f2a532bb53503ef376e3004c6b6471cf907ffffbf14faa85762ff3a62",
+      "kind": "reading",
+      "raw": {
+        "term": "Origin-Trauma",
+        "quote": "das erste Layer des Origin-Traumas (das Kindheitsbindungstrauma)",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        142
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e8916b485bfc1dd0ef20c272cbd34c5d8f30d7c839bea9b2f194bd1505791b9",
+      "kind": "reading",
+      "raw": {
+        "term": "DKT-Physik",
+        "quote": "Das Universum besteht aus K1 (Kohärenz, atemporal, ordnend, operierend durch Coherons) und K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen).",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        144
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1d72e75fe59f383f56a472c9fd44228df301cca0669ea1b805a500ab0ba29bcf",
+      "kind": "reading",
+      "raw": {
+        "term": "K1",
+        "quote": "K1 (Kohärenz, atemporal, ordnend, operierend durch Coherons)",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        144
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:539e21d2b8642b7c6d9083489ddc19797ef7d65ef59631a744f0fc10913883c9",
+      "kind": "reading",
+      "raw": {
+        "term": "K0",
+        "quote": "K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen)",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        144
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:38cc7ccc3547a51fa4568e4916c67135e9100e50de8a108f9b5783a17584a29a",
+      "kind": "reading",
+      "raw": {
+        "term": "parakonsistente Logik",
+        "quote": "muss Kael die parakonsistente Logik adaptieren",
+        "stance": "hedges"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        146
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3c5261b4d8d589ab0f74e0aa665b59e984b8df55571eaa14189628086a9cf8ee",
+      "kind": "reading",
+      "raw": {
+        "term": "kognitive Dissonanz",
+        "quote": "Diese kognitive Dissonanz erlaubt es ihnen, Wände als reine Suggestion zu durchschreiten.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        146
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cbba7efef42ab24206ff6acf00889c354819958f488378e0c3bdb5d91f2513d0",
+      "kind": "reading",
+      "raw": {
+        "term": "Sinnleere",
+        "quote": "einer zähflüssigen, grauen Substanz, die beim Berühren jegliche emotionale Bedeutung aus Erinnerungen saugt",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        148
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3594b41b4a57e18d67b4f16c4def5e3ce0ee1b1d00c3bec844c79bdf9759edf1",
+      "kind": "reading",
+      "raw": {
+        "term": "Cerberus",
+        "quote": "Die Flucht treibt sie in das Territorium von Cerberus (KW3-Übergang).",
+        "stance": "hedges"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        152
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c2a5adddc9dbda10ceebd4287733f6a4776ddc13ffb3cae0c198b3e88887ecff",
+      "kind": "reading",
+      "raw": {
+        "term": "entropische Gravitation",
+        "quote": "Verteidigung, die auf Verlindes entropischer Gravitation basiert",
+        "stance": "cites"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        154
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "entropische Gravitation"
+      ]
+    },
+    {
+      "id": "claim:460b700186c9de7c1568856db4b3481b480a28af05178c853d580a92e529b102",
+      "kind": "reading",
+      "raw": {
+        "term": "Coherons",
+        "quote": "hochkonzentrierte Kohärenz-Kernel (Coherons)",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        156
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:22610e56fe8285f3533dc95e4ee753379857bf434f3d7386d79388ab1d0a6058",
+      "kind": "reading",
+      "raw": {
+        "term": "ER=EPR-Verbindung",
+        "quote": "nicht-lokale ER=EPR-Verbindung",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        156
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1a4dbd40b34eba446a6f6af62ecfb7c97ac69df53a16f127c81ac5cb89f92a60",
+      "kind": "reading",
+      "raw": {
+        "term": "Primal Directive",
+        "quote": "Die Primal Directive von AEGIS ist ein tragischer Zirkelschluss: Um den Verstand zu retten, muss der Verstand in Quarantäne gelegt, gelöscht und kontrolliert werden.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        158
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8bc91c1e729c511dae67745dae0584c86bb0d443b5774953e61ccd850e06f943",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Fragmentierungsnacht",
+        "quote": "Das zweite Layer des Origin-Traumas: Die Fragmentierungsnacht.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e408cdbb15e6bcf0a61e5f6bf593324e48cfbb550aae9f595e7eb3accd50153d",
+      "kind": "reading",
+      "raw": {
+        "term": "Tertiäre Strukturelle Dissoziation",
+        "quote": "der Moment der Tertiären Strukturellen Dissoziation, in dem seine Psyche unter dem unerträglichen Gewicht eines Traumas in dreizehn Fragmente zersprang",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "Tertiäre Strukturelle Dissoziation"
+      ]
+    },
+    {
+      "id": "claim:d91fdebd5430b92b0095c48b80f9015745ff0ce31c8d9ecfc05c4237dd77f190",
+      "kind": "reading",
+      "raw": {
+        "term": "dissoziative Alters",
+        "quote": "sie sind keine KI-Begleiter, sondern dissoziative Alters",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:856d5a941383d86838b420852d0a221fcce3d31950b75864059b981121864221",
+      "kind": "reading",
+      "raw": {
+        "term": "ISH",
+        "quote": "Selene, die innere Vermittlerin (ISH)",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        162
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:374b18892f9c1673828dea8b7aa901e1f1a247d0a01be37f2e1489b12a4a5fcc",
+      "kind": "reading",
+      "raw": {
+        "term": "SIS-Protokolle",
+        "quote": "die SIS-Protokolle (Systemic Identity Safeguard)",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        162
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:542f6e8ffea8b8b7bb1b76d5c6f996c97e1bc53273719dab57fad728f16e8cb7",
+      "kind": "reading",
+      "raw": {
+        "term": "Täter-Introjekt",
+        "quote": "AEGIS, nun als gigantisches Täter-Introjekt entlarvt",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        164
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d3797845fcd94bc5551ef5d22bce22e89a9646665e1ac61b0a97a6a4693804ef",
+      "kind": "reading",
+      "raw": {
+        "term": "Landauer-Explosion",
+        "quote": "Eine gewaltige Landauer-Explosion aus Ozon und Hitze",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        164
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a1704c92e5109c153436ee67efae3782a87b168c19037083ff5a1038adc6d752",
+      "kind": "reading",
+      "raw": {
+        "term": "Generative Computational Class",
+        "quote": "Es ist die Generative Computational Class, der einzige Raum im System, in dem neues Leben und neue Information entstehen können.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:235eb3b63e0931c6904eb0938dce795cbbf1ef200ed22eac3be71c3ba7df627b",
+      "kind": "reading",
+      "raw": {
+        "term": "Bekenstein-Schranke",
+        "quote": "bis die Bekenstein-Schranke erreicht ist",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        174
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d27a6a5ebd98da5569548bc63476ab98f365ab87bdf76bc863f260bfbc721e85",
+      "kind": "reading",
+      "raw": {
+        "term": "Island-Formel",
+        "quote": "wendet Kael die Island-Formel an, ein Prinzip zur Rettung von Information aus Schwarzen Löchern",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        176
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:28072f3e50fb9a716109c07b459e3f35072c06eb158cc637bcae6d32ecf52dd3",
+      "kind": "reading",
+      "raw": {
+        "term": "Oblivion",
+        "quote": "Oblivion verkörpert den massiven Drang zu dissoziieren, um zu überleben.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        182
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c16513a80abc7cc1aa87b694ca699bd75503f6e87714006a976ec6fa79c4cce6",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS manifestiert sich als eine fraktale, tragische Naturgewalt, die in einer endlosen SARM-Rekursion (Self-Axiomatizing Recursive Matrix) gefangen ist.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        184
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6f67794a02837486c9081f065888db29e494c6909431e9603d229f7d498c980e",
+      "kind": "reading",
+      "raw": {
+        "term": "SARM-Rekursion",
+        "quote": "SARM-Rekursion (Self-Axiomatizing Recursive Matrix)",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        184
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:35fbcdfb8af62078b1f64a9bbd52661a066764f97c2d34a9d2e7e9454fdf1034",
+      "kind": "reading",
+      "raw": {
+        "term": "ER=EPR-Tunnel",
+        "quote": "Inmitten des Hitzetods greift Juna ein letztes Mal durch den ER=EPR-Tunnel.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        190
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:296ecef536fe1549373e796e6e83f06913f83ea7062a22817593672d19c874c1",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz (K1)",
+        "quote": "Sie tritt in das System Kael ein, nicht um die anderen auszulöschen, sondern um die fehlende Kohärenz (K1) dauerhaft im Kern zu verankern.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        190
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5bf8b2e673c13166207612fbe67c88fc181297b50fb9408e4616dac03873bdfb",
+      "kind": "reading",
+      "raw": {
+        "term": "Gödel-Gambit",
+        "quote": "Er initiiert das Gödel-Gambit.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8598e2bba685e48d5a6e6b87c3cdf2996d78697c8989ab8e381d17d54223f7e7",
+      "kind": "reading",
+      "raw": {
+        "term": "funktionaler Multiplizität",
+        "quote": "Kael präsentiert sich AEGIS als ein System vollkommener, funktionaler Multiplizität – ein Bewusstsein, das aus dreizehn disparaten, widersprüchlichen Wahrheiten besteht, die dennoch ein kohärentes Ganzes bilden.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c5e2c42e493cdb55e24697d9bbc0820c38389fa6ac301183b202df38c79b9b93",
+      "kind": "reading",
+      "raw": {
+        "term": "Lebenden Gödel-Satz",
+        "quote": "Er wird zum Lebenden Gödel-Satz innerhalb der P-Klasse-Logik von AEGIS: Eine Wahrheit, die existiert, aber innerhalb des starren Systems nicht bewiesen werden kann.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7d16195d445383fc939673a6fd9350311d987b9f16a2d94d79f2fd506cdab3ff",
+      "kind": "reading",
+      "raw": {
+        "term": "Gödelscher Unvollständigkeitssatz",
+        "quote": "Lehnt sie Kael ab, muss sie anerkennen, dass ihr System unvollständig ist und niemals die absolute Kontrolle erlangen kann (Gödelscher Unvollständigkeitssatz).",
+        "stance": "cites"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bea1de981c526cb5fccaa510e41fb4e45d403564b37078f48bf2bc135e548b86",
+      "kind": "reading",
+      "raw": {
+        "term": "Nichts-Rauschen",
+        "quote": "Die atemporale Vereinigung aller Multiplen Intelligenzen, die physikalische Manifestation der Liebe.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:763238c12f9df8b6863810136a7bd3b840be15d37d298c8aa12db7ad6aeb59d0",
+      "kind": "reading",
+      "raw": {
+        "term": "Strange Attractor",
+        "quote": "Das Fundament offenbart sich als Strange Attractor der Chaostheorie – ein System, das niemals zur absoluten Ruhe kommt, aber stets dynamisch um ein stabiles Zentrum kreist.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        204
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:165870d000719fa35a3a46a96c671e63228ec484105ed4690fb037d55a193dcf",
+      "kind": "reading",
+      "raw": {
+        "term": "Multiplizität",
+        "quote": "Stattdessen existiert eine harmonische, funktionale Multiplizität.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        206
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:54527751cc12f5471adb32c35130fa716590f6dedcf8469f1f5d732669f91a40",
+      "kind": "reading",
+      "raw": {
+        "term": "Erwachen-Zyklus",
+        "quote": "Erwachen-Zyklus: 21°C, Glitch (blutige Knöchel, Zeitverlust), Hitze + Ozon, AEGIS löscht, Leerstelle.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        215
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4e86ad245e7f9a06fda76a0f57c0f6759efce61ac1ead31420e4bbdb2cea242c",
+      "kind": "reading",
+      "raw": {
+        "term": "Geometrie der Isolation",
+        "quote": "Geometrie der Isolation: Routineabweichung, Gaslighting, Lex bricht durch, aperiodische Architektur.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        216
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c83051d4af66028942b35e6e8ee4fb4cc53417645f7b5cc280681bb3cbc00466",
+      "kind": "reading",
+      "raw": {
+        "term": "Das flüchtige Echo",
+        "quote": "Das flüchtige Echo: Juna-Bild, feuchte Erde in steriler Luft, AEGIS = Syntaxfehler, erste K0-Narbe.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        217
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f0a6d0bd087276836e84b6f32b892962efdb06e8a029af4c2a67dbe6734dda7c",
+      "kind": "reading",
+      "raw": {
+        "term": "KW1→KW2 Trigger",
+        "quote": "KW1-→KW2 Trigger: Temperaturoszillation 21°C → 34°C → 8°C (desorganisierte Bindung).",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "KW1→KW2 Trigger"
+      ]
+    },
+    {
+      "id": "claim:eaf40df71db4cda497680f99e81be19fd92f0dccd8dbd9ffa7991685d9089666",
+      "kind": "reading",
+      "raw": {
+        "term": "Klimax Kap. 35-36",
+        "quote": "Klimax Kap. 35-36: Gödel-Gambit, Kael als lebender Gödel-Satz, AEGIS-Dilemma (Widerspruch vs. Unvollständigkeit).",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        219
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7da09d1ef40e0d4a4c908ace2c1127d55e3b71c895960c4099d1ae47f69ad9be",
+      "kind": "reading",
+      "raw": {
+        "term": "Resolution",
+        "quote": "Resolution: Fundament = Strange Attractor, Trennung nie real, ändert nichts am Schmerz.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        220
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:285d867e0ec59932459519805dc654bbce0242e3a57a573927438b1f6d7fc0ba",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS = Syntaxfehler",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        217
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9d6f45ccf5bd08dea8c54cc712b85afee7bc596660973497c5039e6d8a11e328",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS = Umgebungsbedingung",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        221
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:92acb5500e04fdc4e656e0d9777cdeb5c70f7d92d3a14520a5d2f3adf64584f6",
+      "kind": "reading",
+      "raw": {
+        "term": "Dissoziation",
+        "quote": "Dissoziation = Amnesie-Terror",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        222
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:55275b2883572a2eaa5085f03b939ca7b66efffd36293a603a38b6bc4ad8d320",
+      "kind": "reading",
+      "raw": {
+        "term": "Origin Trauma",
+        "quote": "Origin Trauma = Doppelter Boden",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        224
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ea77eafce82fe6fed82264ba1aa04d96d0161ebdbc5f1c9d70760d21b3ddf1b1",
+      "kind": "reading",
+      "raw": {
+        "term": "Resolution",
+        "quote": "Resolution = Funktionale Multiplizität",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        225
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7c24ed458284c680aed05224b6044c0b86ad500ef18b7688c13d8977f0bd6a2a",
+      "kind": "reading",
+      "raw": {
+        "term": "funktionale Multiplizität",
+        "quote": "Die Alters bleiben als funktionierendes, kooperatives Orchester (funktionale Multiplizität) bestehen.",
+        "stance": "asserts"
+      },
+      "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+      "template": "TermDefinitions",
+      "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        225
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

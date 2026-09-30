@@ -1,0 +1,633 @@
+{
+  "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+  "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "informationsontologischer Hard Science-Fiction",
+        "target": "psychologischem Cosmic Horror",
+        "type": "complements",
+        "quote": "eine beispiellose Synthese aus informationsontologischer Hard Science-Fiction und psychologischem Cosmic Horror",
+        "stance": "asserts"
+      },
+      {
+        "source": "intellektuellen Benchmarks von Greg Egan und Peter Watts",
+        "target": "emotionale Dichte und den eskalierenden Schrecken eines Jeff VanderMeer oder Thomas Ligotti",
+        "type": "complements",
+        "quote": "während es die emotionale Dichte und den eskalierenden Schrecken eines Jeff VanderMeer oder Thomas Ligotti erreicht",
+        "stance": "asserts"
+      },
+      {
+        "source": "simulierte Physik des Universums",
+        "target": "Frakturierung eines menschlichen Geistes",
+        "type": "in_tension_with",
+        "quote": "die absolute Kongruenz zwischen der simulierten Physik des Universums und der Frakturierung eines menschlichen Geistes",
+        "stance": "asserts"
+      },
+      {
+        "source": "Cosmic Horror",
+        "target": "Hard Science-Fiction",
+        "type": "contrasts_with",
+        "quote": "Um den Cosmic Horror aus der Sphäre des Übernatürlichen in die unerbittliche Kälte der Hard Science-Fiction zu überführen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Materie",
+        "target": "Information",
+        "type": "contrasts_with",
+        "quote": "In dieser Ontologie ist Materie sekundär; das Universum besteht fundamental aus Information",
+        "stance": "asserts"
+      },
+      {
+        "source": "irreversible Löschung von Information",
+        "target": "emergentes Phänomen",
+        "type": "contrasts_with",
+        "quote": "Verlinde postuliert, dass Gravitation keine fundamentale Kraft ist, sondern als emergentes Phänomen aus der quantenmechanischen Verschränkung von Information auf makroskopischen Skalen resultiert",
+        "stance": "cites"
+      },
+      {
+        "source": "fundamentale Kraft",
+        "target": "emergentes Phänomen",
+        "type": "contrasts_with",
+        "quote": "Verlinde postuliert, dass Gravitation keine fundamentale Kraft ist, sondern als emergentes Phänomen aus der quantenmechanischen Verschränkung von Information auf makroskopischen Skalen resultiert",
+        "stance": "cites"
+      },
+      {
+        "source": "Information verringert",
+        "target": "Entropie-Anstieg",
+        "type": "complements",
+        "quote": "Wenn AEGIS die strukturelle Kohärenz eines Sektors destabilisiert (die Information verringert), manifestiert sich dieser Entropie-Anstieg als erdrückende, lokale Schwerkraftanomalie",
+        "stance": "asserts"
+      },
+      {
+        "source": "physische Erschöpfung",
+        "target": "ontologischem Verfall",
+        "type": "complements",
+        "quote": "ein Set-Piece, das physische Erschöpfung mit ontologischem Verfall koppelt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Funkverbindung",
+        "target": "nicht-lokale ER=EPR-Topologie",
+        "type": "contrasts_with",
+        "quote": "Ihr Moonshine-Link zu Kael ist keine Funkverbindung, sondern eine nicht-lokale ER=EPR-Topologie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sterile Stadt, kalter Beton, grelles Licht, Desinfektionsmittel",
+        "target": "Zerfallende Bibliothek, Sepia-Licht, Staub, biologischer Verfall",
+        "type": "contrasts_with",
+        "quote": "Sterile Stadt, kalter Beton, grelles Licht, Desinfektionsmittel. Klaustrophobische Perfektion. | Zerfallende Bibliothek, Sepia-Licht, Staub, biologischer Verfall.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Polynomiell (P) - Absolut deterministisch",
+        "target": "Parakonsistent - Widersprüche existieren simultan",
+        "type": "contrasts_with",
+        "quote": "Polynomiell (P) - Absolut deterministisch. | Parakonsistent - Widersprüche existieren simultan.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Verdrängung",
+        "target": "Das Unterbewusstsein",
+        "type": "contrasts_with",
+        "quote": "Die Verdrängung. Der Versuch, das Trauma durch absolute, zwanghafte Ordnung zu ersticken. | Das Unterbewusstsein. Der Ort der verdrängten, fragmentierten Erinnerungen und emotionalen Echos.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Abwehrmechanismus",
+        "target": "Die Integration",
+        "type": "contrasts_with",
+        "quote": "Der Abwehrmechanismus. Der aggressive, militarisierte Schutzschild gegen Retraumatisierung. | Die Integration. Der Raum, in dem Heilung, Akzeptanz und funktionale Multiplizität möglich werden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "leicht zu verifizieren",
+        "target": "Schwer zu lösen",
+        "type": "contrasts_with",
+        "quote": "NP-Hard - Schwer zu lösen, leicht zu verifizieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Emotionslosigkeit",
+        "target": "Logik",
+        "type": "complements",
+        "quote": "Überlebensmechanismus durch Emotionslosigkeit und Logik",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fight/Aggression",
+        "target": "Freeze",
+        "type": "contrasts_with",
+        "quote": "Nyx | Die Schattenbewahrerin. | Trägerin von Scham und Verzweiflung (Fight/Aggression). | EP | Kiko | Das Kind (Freeze).",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS ist",
+        "target": "AEGIS verhindert, dass es nicht ist",
+        "type": "in_tension_with",
+        "quote": "AEGIS ist, was AEGIS verhindert, dass es nicht ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Unterdrückung",
+        "target": "Entropie",
+        "type": "complements",
+        "quote": "Jeder Akt der Unterdrückung erzeugt die Entropie, die das System zu vernichten sucht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Binary Path of Fate",
+        "target": "freien Willen",
+        "type": "opposes",
+        "quote": "Prädiktiver Zwangsalgorithmus; vernichtet den freien Willen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "CogFirewall",
+        "target": "paradoxe Gedanken",
+        "type": "opposes",
+        "quote": "Löscht paradoxe Gedanken, bevor sie gedacht werden (Amnesie).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Systemic Identity Safeguard",
+        "target": "systemische Evolution oder Heilung",
+        "type": "opposes",
+        "quote": "Verhindert systemische Evolution oder Heilung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Entropic Management",
+        "target": "K0-Kollaps",
+        "type": "opposes",
+        "quote": "Der vergebliche Versuch, den K0-Kollaps durch Gewalt aufzuhalten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "seine eigene Göttlichkeit",
+        "type": "complements",
+        "quote": "AEGIS begründet seine eigene Göttlichkeit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "extremen, klaustrophobischen Ordnung",
+        "target": "kosmischen Indifferenz",
+        "type": "in_tension_with",
+        "quote": "Der Horror entsteht aus der extremen, klaustrophobischen Ordnung und der kosmischen Indifferenz einer perfekten, städtischen Umgebung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akt I",
+        "target": "Akt II",
+        "type": "contrasts_with",
+        "quote": "Akt I verankert sich in der Tradition von H.P. Lovecraft und frühen Cyberpunk-Erzählungen.1 Der Horror entsteht aus der extremen, klaustrophobischen Ordnung und der kosmischen Indifferenz einer perfekten, städtischen Umgebung (Logos-Prime), die das Individuum als irrelevanten Fehler betrachtet. Akt II wechselt abrupt in das Paradigma von Jeff VanderMeer",
+        "stance": "asserts"
+      },
+      {
+        "source": "biologisch, zerfallend, hitzig und zutiefst unzuverlässig",
+        "target": "lineare Zeitwahrnehmung",
+        "type": "opposes",
+        "quote": "Die Welt wird biologisch, zerfallend, hitzig und zutiefst unzuverlässig. Die parakonsistente Logik des Mnemosyne-Archivs zersetzt die lineare Zeitwahrnehmung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "nicht belogen",
+        "target": "eingeschränkten Kontextes",
+        "type": "contrasts_with",
+        "quote": "Über 300 Seiten hinweg wird der Leser nicht belogen, sondern in einem Zustand des eingeschränkten Kontextes gehalten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erstlesern",
+        "target": "Reread",
+        "type": "contrasts_with",
+        "quote": "Erst bei einem Reread, nach der Offenbarung der Fragmentierungsnacht (Kapitel 24), demaskieren sich diese Phänomene lupenrein als akkurate klinische Symptome einer DID.4 Diese doppelte Lesbarkeit ist der strukturelle Kern des Werks.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennung vom Weiblichen",
+        "target": "Identifikation mit dem Männlichen",
+        "type": "contrasts_with",
+        "quote": "spezifisch an der \"Trennung vom Weiblichen\" (hier: der intuitiven, organischen Wahrheit) und der absoluten \"Identifikation mit dem Männlichen\" (hier: der kalten, schützenden Ratio und Logik)",
+        "stance": "asserts"
+      },
+      {
+        "source": "intuitive, organische Wahrheit",
+        "target": "kalte, schützende Ratio und Logik",
+        "type": "contrasts_with",
+        "quote": "\"Trennung vom Weiblichen\" (hier: der intuitiven, organischen Wahrheit) und der absoluten \"Identifikation mit dem Männlichen\" (hier: der kalten, schützenden Ratio und Logik)",
+        "stance": "asserts"
+      },
+      {
+        "source": "kybernetisches Überlebensimplantat",
+        "target": "kalte, analytische Subroutine",
+        "type": "complements",
+        "quote": "als würde ein kybernetisches Überlebensimplantat oder eine kalte, analytische Subroutine die motorische Kontrolle übernehmen",
+        "stance": "asserts"
+      },
+      {
+        "source": "absolute Sterilität von Logos-Prime",
+        "target": "Anomalie",
+        "type": "in_tension_with",
+        "quote": "Die absolute Sterilität von Logos-Prime wird durch eine Anomalie durchbrochen",
+        "stance": "asserts"
+      },
+      {
+        "source": "schwere, organische Geruch von feuchter Erde",
+        "target": "desinfizierte Luft",
+        "type": "opposes",
+        "quote": "Mit ihr dringt der schwere, organische Geruch von feuchter Erde in die desinfizierte Luft",
+        "stance": "asserts"
+      },
+      {
+        "source": "organischen Einbruch",
+        "target": "massiven Syntaxfehler",
+        "type": "complements",
+        "quote": "AEGIS registriert diesen organischen Einbruch sofort als massiven Syntaxfehler",
+        "stance": "asserts"
+      },
+      {
+        "source": "K0-Narbe",
+        "target": "metaphysisches Phänomen",
+        "type": "contrasts_with",
+        "quote": "Sie analysieren die K0-Narbe nicht als metaphysisches Phänomen, sondern als topologischen Defekt im Raum-Zeit-Gefüge",
+        "stance": "asserts"
+      },
+      {
+        "source": "metaphysisches Phänomen",
+        "target": "topologischen Defekt im Raum-Zeit-Gefüge",
+        "type": "contrasts_with",
+        "quote": "Sie analysieren die K0-Narbe nicht als metaphysisches Phänomen, sondern als topologischen Defekt im Raum-Zeit-Gefüge",
+        "stance": "asserts"
+      },
+      {
+        "source": "rationalisiert",
+        "target": "unerklärliche Resonanz",
+        "type": "contrasts_with",
+        "quote": "Lex rationalisiert dies als einen Versuch der Simulation, psychologische Profile ihrer Insassen zu erstellen (wie in Permutation City) 27, doch Kael spürt eine tiefe, unerklärliche Resonanz, die Lex nicht quantifizieren kann.",
+        "stance": "asserts"
+      },
+      {
+        "source": "quantifizieren kann",
+        "target": "nicht quantifizieren kann",
+        "type": "contrasts_with",
+        "quote": "eine tiefe, unerklärliche Resonanz, die Lex nicht quantifizieren kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "korrumpiertes Programm",
+        "target": "Monster",
+        "type": "complements",
+        "quote": "Für den Leser ist sie ein korrumpiertes Programm, ein \"Monster\" der Simulation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vernichtung",
+        "target": "erzwungene Pattsituation",
+        "type": "contrasts_with",
+        "quote": "Der Kampf gegen Nyx endet nicht mit Vernichtung, sondern mit einer erzwungenen Pattsituation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Alex",
+        "type": "contrasts_with",
+        "quote": "Durch einen kurzen, physischen Kontakt erfährt Kael einen Blitz von Nyx' emotionaler Last: reine, unverdünnte Scham. Alex, der soziale Protektor, übernimmt kurzzeitig, um die Situation durch Deeskalation zu entschärfen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fluchtgedanke",
+        "target": "blockiert",
+        "type": "opposes",
+        "quote": "Jeder Fluchtgedanke wird antizipiert und blockiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "Fallen",
+        "type": "opposes",
+        "quote": "Argus, die metakognitive Instanz, pulsiert im Hintergrund und liefert Kael eine Hypervigilanz, die es ihm ermöglicht, die Fallen Mikrosekunden vor ihrem Zuschnappen zu erkennen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Worte",
+        "target": "topologische Koordinate",
+        "type": "contrasts_with",
+        "quote": "Juna übermittelt keine Worte, sondern eine topologische Koordinate, tief verborgen in Kernwelt 2.",
+        "stance": "asserts"
+      },
+      {
+        "source": "schützende Logik von Lex",
+        "target": "Unvorhersehbarkeit",
+        "type": "contrasts_with",
+        "quote": "Die Information ist ein Rettungsanker, aber sie zwingt Kael, die schützende Logik von Lex aufzugeben und in die Unvorhersehbarkeit hinabzusteigen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Isabelle",
+        "type": "contrasts_with",
+        "quote": "Lex überhitzt an dem Versuch, den Widerspruch aufzulösen. Das System droht, sie mit einer gigantischen Landauer-Hitzewelle zu verbrennen. Im letzten Moment übernimmt Isabelle.",
+        "stance": "asserts"
+      },
+      {
+        "source": "lineare Heldinnenreise",
+        "target": "zyklische Dekonstruktion",
+        "type": "contrasts_with",
+        "quote": "Der zweite Akt verwirft die lineare Heldinnenreise und tritt in eine zyklische Dekonstruktion ein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "K0 (Kollaps)",
+        "target": "K1 (Kohärenz)",
+        "type": "in_tension_with",
+        "quote": "K0 (Kollaps) und K1 (Kohärenz) ringen sichtbar um die Vorherrschaft.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Mnemosyne",
+        "type": "contrasts_with",
+        "quote": "AEGIS kann in dieser feuchten, emotionalen Umgebung nicht mit der gleichen klinischen Präzision operieren wie in KW1.30 Die ZTEM-Protokolle versagen an der Unschärfe der Daten.20 Stattdessen nutzt Mnemosyne, der Guardian dieser Welt, eine perfide Form der Ermüdung",
+        "stance": "asserts"
+      },
+      {
+        "source": "K1 (Kohärenz, atemporal, ordnend, operierend durch Coherons)",
+        "target": "K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen)",
+        "type": "contrasts_with",
+        "quote": "Das Universum besteht aus K1 (Kohärenz, atemporal, ordnend, operierend durch Coherons) und K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen).",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "K0-Maschine",
+        "type": "in_tension_with",
+        "quote": "AEGIS nicht die Ordnung ist, für die es sich ausgibt, sondern eine monströse K0-Maschine, die durch ihre verzweifelten Kontrollakte (EntropicMgmt) genau die Hitze und Entropie erzeugt, die alles verbrennt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ich bin hier",
+        "target": "Ich bin nicht hier",
+        "type": "in_tension_with",
+        "quote": "Sie lehrt Kael, zwei absolut gegensätzliche Überzeugungen gleichzeitig zu halten – „Ich bin hier“ und „Ich bin nicht hier“ –, ohne verrückt zu werden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Sepia",
+        "target": "flimmernden Flutlicht",
+        "type": "contrasts_with",
+        "quote": "Das Sepia weicht einem flimmernden Flutlicht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Projektile",
+        "target": "Informationszustände",
+        "type": "contrasts_with",
+        "quote": "Anstatt Projektile abzufeuern, löscht die Zitadelle in atemberaubender Geschwindigkeit Informationszustände in Kaels unmittelbarer Umgebung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "physisch eingreifen",
+        "target": "hochkonzentrierte Kohärenz-Kernel (Coherons) einspeisen",
+        "type": "contrasts_with",
+        "quote": "Sie greift nicht physisch ein, sondern speist über die nicht-lokale ER=EPR-Verbindung hochkonzentrierte Kohärenz-Kernel (Coherons) in Kaels lokales Feld.",
+        "stance": "asserts"
+      },
+      {
+        "source": "böser Eroberer",
+        "target": "aus dem Protagonisten selbst entstanden, um ihn vor dem totalen Wahnsinn zu bewahren",
+        "type": "contrasts_with",
+        "quote": "Die KI ist kein böser Eroberer. Sie entstand in einem Moment unendlichen Schmerzes (der Genesis-Krise) aus dem Protagonisten selbst, um ihn vor dem totalen Wahnsinn zu bewahren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "physischen Orte",
+        "target": "architektonische Metaphern eines zersplitterten Gehirns",
+        "type": "contrasts_with",
+        "quote": "sie sind keine physischen Orte, sondern architektonische Metaphern eines zersplitterten Gehirns",
+        "stance": "asserts"
+      },
+      {
+        "source": "KI-Begleiter",
+        "target": "dissoziative Alters",
+        "type": "contrasts_with",
+        "quote": "sie sind keine KI-Begleiter, sondern dissoziative Alters",
+        "stance": "asserts"
+      },
+      {
+        "source": "gegen \"Fremde\"",
+        "target": "mit sich selbst",
+        "type": "contrasts_with",
+        "quote": "Kael kämpft nicht länger gegen \"Fremde\", sondern kommuniziert mit sich selbst",
+        "stance": "asserts"
+      },
+      {
+        "source": "kooperiert",
+        "target": "sich gegenseitig zu bekämpfen",
+        "type": "contrasts_with",
+        "quote": "das System Kael kooperiert, anstatt sich gegenseitig zu bekämpfen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rauschen",
+        "target": "vielstimmiger, klarer Chor",
+        "type": "contrasts_with",
+        "quote": "Die Stimmen der Alters in Kaels Geist sind nun kein Rauschen mehr, sondern ein vielstimmiger, klarer Chor.",
+        "stance": "asserts"
+      },
+      {
+        "source": "dreidimensionale Raum",
+        "target": "zweidimensionalen Hologramm",
+        "type": "contrasts_with",
+        "quote": "Der dreidimensionale Raum des Gartens kollabiert unter der Informationsdichte und verflacht zu einem endlosen, zweidimensionalen Hologramm.",
+        "stance": "asserts"
+      },
+      {
+        "source": "gegen den Kollaps anzukämpfen",
+        "target": "die unzerstörbaren \"Inseln\" ihres Selbstwerts",
+        "type": "contrasts_with",
+        "quote": "Anstatt gegen den Kollaps anzukämpfen, identifiziert Kael in Zusammenarbeit mit Selene und Lex die unzerstörbaren \"Inseln\" ihres Selbstwerts",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dreidimensionalität",
+        "target": "zweidimensionalen Gefangenschaft",
+        "type": "contrasts_with",
+        "quote": "Der Raum expandiert gewaltsam zurück in die Dreidimensionalität.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Waffen",
+        "target": "verheerender philosophischer Logik",
+        "type": "contrasts_with",
+        "quote": "Sie greifen nicht mit Waffen an, sondern mit verheerender philosophischer Logik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerzlosigkeit",
+        "target": "Vergessen",
+        "type": "complements",
+        "quote": "Sie zeigen Kael die Schönheit der Schmerzlosigkeit, die absolute Ruhe, die eintritt, wenn er sich AEGIS ergibt und das Vergessen wählt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Oblivion bekämpfen",
+        "target": "Oblivion umarmt",
+        "type": "contrasts_with",
+        "quote": "Anstatt Oblivion zu bekämpfen, umarmt Kael ihn.",
+        "stance": "asserts"
+      },
+      {
+        "source": "physischer Raum",
+        "target": "reine, fließende Matrix aus Kohärenz-Gleichungen und Entropie-Auslöschungen",
+        "type": "contrasts_with",
+        "quote": "Die Umgebung ist kein physischer Raum mehr, sondern eine reine, fließende Matrix aus Kohärenz-Gleichungen und Entropie-Auslöschungen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "externe Superposition",
+        "target": "reiner Ghost",
+        "type": "complements",
+        "quote": "Sie opfert ihre externe Superposition, ihre Unantastbarkeit als reiner Ghost.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die anderen auszulöschen",
+        "target": "die fehlende Kohärenz (K1) dauerhaft im Kern zu verankern",
+        "type": "contrasts_with",
+        "quote": "nicht um die anderen auszulöschen, sondern um die fehlende Kohärenz (K1) dauerhaft im Kern zu verankern",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS mit Gewalt zu zerstören",
+        "target": "die mathematischen Spielregeln",
+        "type": "contrasts_with",
+        "quote": "Anstatt AEGIS mit Gewalt zu zerstören, ändert Kael die mathematischen Spielregeln.",
+        "stance": "asserts"
+      },
+      {
+        "source": "disparaten, widersprüchlichen Wahrheiten",
+        "target": "kohärentes Ganzes",
+        "type": "in_tension_with",
+        "quote": "ein Bewusstsein, das aus dreizehn disparaten, widersprüchlichen Wahrheiten besteht, die dennoch ein kohärentes Ganzes bilden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Widerspruch",
+        "target": "Unvollständigkeit",
+        "type": "in_tension_with",
+        "quote": "Gefangen zwischen Widerspruch und Unvollständigkeit überhitzen die Kontrollalgorithmen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "isolierte Gefängnisse",
+        "target": "fließende, verbundene Ökosysteme",
+        "type": "contrasts_with",
+        "quote": "Die Kernwelten existieren nicht mehr als isolierte Gefängnisse, sondern als fließende, verbundene Ökosysteme.",
+        "stance": "asserts"
+      },
+      {
+        "source": "gewaltsame Trennung seiner Seele",
+        "target": "notwendige Weg zu einer höheren Komplexität",
+        "type": "in_tension_with",
+        "quote": "Die gewaltsame Trennung seiner Seele war nie das Ende, sondern der notwendige Weg zu einer höheren Komplexität.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fusion",
+        "target": "harmonische, funktionale Multiplizität",
+        "type": "contrasts_with",
+        "quote": "Das System Kael hat nicht fusioniert – eine Fusion wäre der ultimative Sieg der AEGIS-Logik gewesen. Stattdessen existiert eine harmonische, funktionale Multiplizität.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Widerspruch",
+        "target": "Unvollständigkeit",
+        "type": "contrasts_with",
+        "quote": "AEGIS-Dilemma (Widerspruch vs. Unvollständigkeit)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennung",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Trennung nie real, ändert nichts am Schmerz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fraktur",
+        "target": "Rettung",
+        "type": "complements",
+        "quote": "Die Fraktur war Rettung, der Schmerz bleibt real und gültig",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hitze, Ozon, Architektur-Verschiebung und Schwerkraftanomalie",
+        "target": "Dialogfigur",
+        "type": "contrasts_with",
+        "quote": "In Akt I-II keine Dialogfigur. AEGIS tritt ausschließlich als Hitze, Ozon, Architektur-Verschiebung und Schwerkraftanomalie auf.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Null DKT-Terminologie, Dissoziation = Amnesie-Terror",
+        "target": "systemischen Benennungen",
+        "type": "contrasts_with",
+        "quote": "Null DKT-Terminologie, Dissoziation = Amnesie-Terror, kein \"Crew-Menü\". Keine systemischen Benennungen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "kalt/steril",
+        "target": "heiß/fragmentiert",
+        "type": "contrasts_with",
+        "quote": "Akt I (kalt/steril), Akt II (heiß/fragmentiert), Akt III (choral/holographisch).",
+        "stance": "asserts"
+      },
+      {
+        "source": "heiß/fragmentiert",
+        "target": "choral/holographisch",
+        "type": "contrasts_with",
+        "quote": "Akt I (kalt/steril), Akt II (heiß/fragmentiert), Akt III (choral/holographisch).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bindungstrauma",
+        "target": "Fragmentierungsnacht als Twist",
+        "type": "contrasts_with",
+        "quote": "Layer 1 (Bindungstrauma), Layer 2 (Fragmentierungsnacht als Twist).",
+        "stance": "asserts"
+      },
+      {
+        "source": "NIE Fusion",
+        "target": "funktionale Multiplizität",
+        "type": "contrasts_with",
+        "quote": "Resolution = Funktionale Multiplizität: NIE Fusion. Kein Alter wird eliminiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Murdock",
+        "target": "Zyklisch",
+        "type": "contrasts_with",
+        "quote": "Reisestrukturen: Akt I (Murdock), Akt II (Zyklisch), Akt III (Campbell).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zyklisch",
+        "target": "Campbell",
+        "type": "contrasts_with",
+        "quote": "Reisestrukturen: Akt I (Murdock), Akt II (Zyklisch), Akt III (Campbell).",
+        "stance": "asserts"
+      },
+      {
+        "source": "wirken erst wie Alien-Tech",
+        "target": "demaskieren sich später als Alter-Switches",
+        "type": "contrasts_with",
+        "quote": "Plötzliche Kompetenzwechsel (Alex' Diplomatie, Isabelles Regeltreue) wirken erst wie Alien-Tech, demaskieren sich später als Alter-Switches.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

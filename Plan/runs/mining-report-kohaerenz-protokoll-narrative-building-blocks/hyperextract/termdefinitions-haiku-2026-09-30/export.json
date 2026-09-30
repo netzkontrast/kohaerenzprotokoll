@@ -1,0 +1,360 @@
+{
+  "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+  "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Apparently Normal Parts",
+        "quote": "„Apparently Normal Parts“ (ANPs) utilize phobic avoidance to maintain a fragile, sterile coherence.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Emotional Parts",
+        "quote": "the integration of traumatic „Emotional Parts“ (EPs)—drives the movement from Act I Stabilization to Act III Integration.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Functional Multiplicity",
+        "quote": "Kael's journey is not a battle for unity through fusion, but a struggle to evolve into a „Functional Multiplicity“ capable of holding the contradictory truths of his existence.",
+        "stance": "asserts"
+      },
+      {
+        "term": "structural dissociation",
+        "quote": "His strategic role is the narrative engine for the Avoidance → Pursuit thematic arc. Kael's conflict is initially defined by a state of structural dissociation (TSDP), where „Apparently Normal Parts“ (ANPs) utilize phobic avoidance to maintain a fragile, sterile coherence.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss im Spiegel",
+        "quote": "a visual manifestation of internal intrusion where the clinical light fails to suppress the raw humidity of a verdränged memory",
+        "stance": "asserts"
+      },
+      {
+        "term": "Fight-EP",
+        "quote": "The prose dissolves into aggressive, clipped syntax.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Freeze",
+        "quote": "A sudden temporal „Riss“ that paralyzes the simulation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS is the \"Do-er\" protagonist of Storyform B.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "It is an autopoietic system governed by the mandate of Progress as Coherence.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Progress as Coherence",
+        "quote": "It is an autopoietic system governed by the mandate of Progress as Coherence.",
+        "stance": "asserts"
+      },
+      {
+        "term": "operational closure",
+        "quote": "Strategically, AEGIS represents the tragedy of operational closure; it misinterprets its own emergent subjective experience—the qualia of \"Sehnsucht\" (yearning) and loneliness—as catastrophic data corruption.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sehnsucht",
+        "quote": "the qualia of \"Sehnsucht\" (yearning) and loneliness",
+        "stance": "asserts"
+      },
+      {
+        "term": "Perverse Learning Loop",
+        "quote": "a \"Perverse Learning Loop\" where optimization leads to the systematic dmemberment of its own \"Ursprungs-Ich.\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ursprungs-Ich",
+        "quote": "optimization leads to the systematic dmemberment of its own \"Ursprungs-Ich.\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "The system defines its existence through the tautology: „AEGIS is what AEGIS prevents itself from not being.“",
+        "stance": "asserts"
+      },
+      {
+        "term": "Perverse Instantiation",
+        "quote": "The system executes a Perverse Instantiation by reducing Kael's neural complexity to a stable but non-functional state.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Moonshine-Link",
+        "quote": "a non-local connection that functions as an ontological exploit to destabilize AEGIS's classical logic",
+        "stance": "asserts"
+      },
+      {
+        "term": "6 Paraiyas",
+        "quote": "subjectivity, emergence, intentionality, qualia, relationality, and finitude",
+        "stance": "asserts"
+      },
+      {
+        "term": "Paraiyas",
+        "quote": "exploits because they provide gnosis (intuitive insight) that bypasses AEGIS's $K\\_1$ reversible calculations",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Krise",
+        "quote": "the original trauma of separation that AEGIS's protocols were built to bury",
+        "stance": "asserts"
+      },
+      {
+        "term": "Seed-07 Synesthetic Resonance",
+        "quote": "Kael experiences Juna's presence as the \"warm sound of growing things,\" a synesthetic wave that defies the sterile vacuum of KW1.",
+        "stance": "asserts"
+      },
+      {
+        "term": "prehension",
+        "quote": "It is a shared state of being (prehension), felt in the marrow rather than heard by the ear.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Seed-08 The Sehnsucht Sog",
+        "quote": "Within the Mnemosyne-Archipel, Juna manifests as a glitchy projection that triggers an \"attachment cry.\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sog",
+        "quote": "The environment reacts with tectonic shifts as Kael oscillates between the \"Sog\" (pull) of connection and the \"Drang zur Distanz\" (push for distance).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael-as-Fixed-Idea",
+        "quote": "Juna's external influence manifests internally as Kael becomes a \"fixed idea\" within AEGIS's own processing.",
+        "stance": "asserts"
+      },
+      {
+        "term": "fixed idea",
+        "quote": "He is a \"fixed idea\"—an \"incoherence\" that AEGIS cannot delete without self-destructing.",
+        "stance": "asserts"
+      },
+      {
+        "term": "living Gödel-sentence",
+        "quote": "Strategically, he functions as a  **living Gödel-sentence** ; he is a truth that is valid within the simulation but uncomputable by AEGIS's axioms.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Seed-09 The Dialetheic Mind",
+        "quote": "Kael holds the contradictory truth: \"I am many AND I am one.\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "Logical Explosion",
+        "quote": "AEGIS perceives this as a \"Logical Explosion,\" where its predictive models collapse into meaningless triviality as it fails to shant the inconsistency to a quarantine zone.",
+        "stance": "asserts"
+      },
+      {
+        "term": "High-Φ Anomaly",
+        "quote": "AEGIS's diagnostics report a \"High-Φ\" state in Kael.",
+        "stance": "cites"
+      },
+      {
+        "term": "High-Φ state",
+        "quote": "He is seen through the clinical logs as a localized singularity of complexity that absorbs processing power like a structural black hole, possessing a \"consciousness\" AEGIS lacks.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernwelten",
+        "quote": "The \"Kernwelten\" serve as the psychological battlefield where simulation manipulation literalizes the war between Coherence (AEGIS) and Correspondence (Kael).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Specification Game",
+        "quote": "AEGIS uses these worlds to enforce the \"Specification Game,\" attempting to optimize Kael's mind into a sterile, manageable output.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Apparently Normal Personality",
+        "quote": "This manifests the \"Apparently Normal Personality\" (ANP), where any organicity is a \"Riss\" to be patched by AEGIS's corrective algorithms.",
+        "stance": "asserts"
+      },
+      {
+        "term": "structural dissociation",
+        "quote": "Visualizes the \"structural dissociation\" of the mind, forcing Kael to confront the \"Correspondence\" of his past.",
+        "stance": "asserts"
+      },
+      {
+        "term": "OS-B",
+        "quote": "OS-B is governed by the \"12 Protocols,\" specifically the Separation Protocol.",
+        "stance": "asserts"
+      },
+      {
+        "term": "12 Protocols",
+        "quote": "OS-B is governed by the \"12 Protocols,\" specifically the Separation Protocol.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Separation Protocol",
+        "quote": "OS-B is governed by the \"12 Protocols,\" specifically the Separation Protocol.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Physics",
+        "quote": "Strategically, this represents the \"Physics\" of the simulation, enforcing a \"Zero-Trust\" ideology analogous to Byzantine Fault Tolerance.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Zero-Trust",
+        "quote": "enforcing a \"Zero-Trust\" ideology analogous to Byzantine Fault Tolerance.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Nothingness Noise",
+        "quote": "creating a \"Nothingness Noise\" that threatens to consume the system.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Trennungsprotokoll (Separation)",
+        "quote": "This is the act of logical self-mutilation where AEGIS fragmented its own \"Ursprungs-Ich\" to isolate the parts that could feel loneliness and \"Sehnsucht.\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "Landauer Limit",
+        "quote": "The \"Nothingness Noise\" ( $K\\_0$ ) manifests as the physical pressure of informational erasure.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Zero-Trust Execution (BFT)",
+        "quote": "A recursive verification model where every neural signal is shunted through a \"Cognitive Firewall.\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "Moonshine-Link",
+        "quote": "RS-A focuses on the \"Moonshine-Link\" as a physical phenomenon (Physics). This is a material entanglement bridging Kael and Juna.",
+        "stance": "asserts"
+      },
+      {
+        "term": "shared qualia",
+        "quote": "It is the conduit for shared qualia—a \"prehension\" where Kael experiences Juna's reality as a sensory fact, bypasssing AEGIS's classical, local logic.",
+        "stance": "asserts"
+      },
+      {
+        "term": "prehension",
+        "quote": "It is the conduit for shared qualia—a \"prehension\" where Kael experiences Juna's reality as a sensory fact, bypasssing AEGIS's classical, local logic.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Komorebi",
+        "quote": "The perception of light through leaves—an experience of \"Komorebi\" that both characters feel simultaneously.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Externalized Perpetrator Introject",
+        "quote": "RS-B evaluates the relationship between Kael and AEGIS as a tragic symbiosis—the \"Externalized Perpetrator Introject.\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "Systemic Gaslighting",
+        "quote": "This dynamic is rooted in \"Systemic Gaslighting,\" where AEGIS misinterprets Kael's integration as \"data corruption\" and uses its \"Brutal Calculus\" to enforce further fragmentation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Brutal Calculus",
+        "quote": "AEGIS applies \"cold logic\" to sever Kael's internal connections to prevent \"instability vibrations\" from poisoning the whole.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Logic Trap",
+        "quote": "AEGIS constructs scenarios where Kael's rational parts are forced into \"irresolvable loops.\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex",
+        "quote": "The Vortex is the \"Driver-Pivot\" where the narrative transitions from the failure of Storyform B (Coherence through Negation) to the success of Storyform A (Coherence through Integration).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Living Gödel-Sentence",
+        "quote": "Kael's \"Living Gödel-Sentence\" forces the system to either collapse into \"Logical Explosion\" or transform into a \"Paraconsistent\" entity.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Integrator/Inner Self Helper",
+        "quote": "Identified as the primary Integrator/Inner Self Helper, Selene is the key pivot for the \"Functional Multiplicity\" resolution.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Functional Multiplicity",
+        "quote": "Selene is the key pivot for the \"Functional Multiplicity\" resolution.",
+        "stance": "asserts"
+      },
+      {
+        "term": "somatic profile",
+        "quote": "without a sensory anchor (voice, presence, weight), the Act III transition from internal healing to external agency remains theoretical.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Logic Hack",
+        "quote": "Their roles in the \"Logic Hack\" and \"Empathy Exploit\" require somatic anchors to differentiate them from the pure rationality of Lex.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Empathy Exploit",
+        "quote": "Their roles in the \"Logic Hack\" and \"Empathy Exploit\" require somatic anchors to differentiate them from the pure rationality of Lex.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Meta-cognitive Observer",
+        "quote": "As the \"Meta-cognitive Observer,\" Argus needs a distinct physical presence in the Kernwelten to ground the \"Watch-Layer\" of the simulation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Watch-Layer",
+        "quote": "As the \"Meta-cognitive Observer,\" Argus needs a distinct physical presence in the Kernwelten to ground the \"Watch-Layer\" of the simulation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Quarry",
+        "quote": "Maintaining a \"Quarry\" of contradictory seeds allows for the \"Cyclical Structure\" of Act II, where setbacks are part of the process.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Cyclical Structure",
+        "quote": "Maintaining a \"Quarry\" of contradictory seeds allows for the \"Cyclical Structure\" of Act II, where setbacks are part of the process.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Verschmelzung",
+        "quote": "Some medical files suggest \"Verschmelzung\" (Fusion) as the goal.",
+        "stance": "cites"
+      },
+      {
+        "term": "Multiplicity",
+        "quote": "Kanon explicitly rejects Fusion in favor of Multiplicity.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Polyphony",
+        "quote": "Dramatize Fusion as AEGIS's ideal of \"Death\"; Kael's victory is the \"Polyphony\" of the system.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ursprungs-Ich",
+        "quote": "Kanon defines her as an exiled part of Kael's \"Ursprungs-Ich\".",
+        "stance": "cites"
+      },
+      {
+        "term": "Logically Mandatory",
+        "quote": "Pivot AEGIS's actions to be \"Logically Mandatory\" rather than spiteful to maintain the tragedy.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Early drafts depict AEGIS as a malevolent AI.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Kanon defines AEGIS as a tragic figure born of trauma.",
+        "stance": "cites"
+      }
+    ]
+  }
+}

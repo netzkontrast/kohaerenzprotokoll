@@ -1,0 +1,1102 @@
+{
+  "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Theorie",
+        "target": "Oberfläche",
+        "type": "opposes",
+        "quote": "Strikte Regel: Theorie ist Substrat, nicht Oberfläche.",
+        "stance": "asserts"
+      },
+      {
+        "source": "somatischer Filter",
+        "target": "sinnliche Erfahrung",
+        "type": "complements",
+        "quote": "Jede philosophische Schicht muss durch den somatischen Filter in sinnliche Erfahrung übersetzt werden",
+        "stance": "asserts"
+      },
+      {
+        "source": "philosophischer Begriff",
+        "target": "somatische Geste",
+        "type": "opposes",
+        "quote": "welche somatische Geste, welcher Raum, welches Verhalten trägt diese Idee, ohne sie zu benennen?",
+        "stance": "asks"
+      },
+      {
+        "source": "Substanz",
+        "target": "Prozess",
+        "type": "contrasts_with",
+        "quote": "Substanz vs. Prozess (klassische Identität vs. Funktionale Multiplizität).",
+        "stance": "asserts"
+      },
+      {
+        "source": "subjektive Erfahrung",
+        "target": "objektive Messung",
+        "type": "contrasts_with",
+        "quote": "subjektive Erfahrung vs. objektive Messung (Kael vs. AEGIS).",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "System Kael",
+        "type": "opposes",
+        "quote": "AEGIS und das System Kael verkörpern zwei rivalisierende Wahrheitstheorien",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kohärenztheorie",
+        "target": "Korrespondenztheorie",
+        "type": "contrasts_with",
+        "quote": "AEGIS und das System Kael verkörpern zwei rivalisierende Wahrheitstheorien",
+        "stance": "asserts"
+      },
+      {
+        "source": "interne Konsistenz",
+        "target": "ontologisch falsch",
+        "type": "in_tension_with",
+        "quote": "seine Welt ist intern perfekt kohärent — und ontologisch falsch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheit ist interne Konsistenz",
+        "target": "Wahrheit ist Übereinstimmung mit Tatsachen",
+        "type": "contrasts_with",
+        "quote": "Wahrheit ist interne Konsistenz; eine Aussage ist wahr, wenn sie widerspruchsfrei in ein Gesamtsystem von Aussagen eingegliedert werden kann. [...] Wahrheit ist Übereinstimmung mit Tatsachen; eine Aussage ist wahr, wenn sie der außerhalb-des-Systems-existierenden Realität entspricht",
+        "stance": "asserts"
+      },
+      {
+        "source": "interne Referenz",
+        "target": "externe Referenz",
+        "type": "contrasts_with",
+        "quote": "AEGIS' Sprache hat keine externe Referenz, nur interne Konsistenz",
+        "stance": "asserts"
+      },
+      {
+        "source": "erleben",
+        "target": "artikulieren",
+        "type": "contrasts_with",
+        "quote": "Die EPs erleben die Tatsachen, können sie aber nicht artikulieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "EP-Stimmen",
+        "target": "System",
+        "type": "contrasts_with",
+        "quote": "EP-Stimmen sprechen aus dem Körper, nicht aus dem System.",
+        "stance": "asserts"
+      },
+      {
+        "source": "was war",
+        "target": "was passt",
+        "type": "contrasts_with",
+        "quote": "Sie sagen, was war, nicht was passt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Korrespondenz",
+        "target": "Kohärenz",
+        "type": "complements",
+        "quote": "Wahrheit ist Korrespondenz (Definition, ontologisch realistisch), aber Wahrheit wird erkannt durch Kohärenz (Kriterium, methodologisch kohärentistisch).",
+        "stance": "asserts"
+      },
+      {
+        "source": "kohärent",
+        "target": "korrespondiert",
+        "type": "complements",
+        "quote": "Das Wir-Geflecht ist kohärent (es passt zusammen) und korrespondiert mit der wirklichen Vielheit des Systems",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheit",
+        "target": "Richtigkeit",
+        "type": "contrasts_with",
+        "quote": "Wahrheit (Truth) bezieht sich auf konstatierende Sprechakte über objektive Welt (Tatsachen). Richtigkeit (Rightness) bezieht sich auf regulative Sprechakte (Normen).",
+        "stance": "cites"
+      },
+      {
+        "source": "Wahrheit, konstatierend, ontologisch",
+        "target": "Richtigkeit, regulativ, ethisch-erfahrungsbezogen",
+        "type": "contrasts_with",
+        "quote": "„Die Trennung war nie real“ (Wahrheit, konstatierend, ontologisch)\n* „Aber das ändert nichts am Schmerz“ (Richtigkeit, regulativ, ethisch-erfahrungsbezogen)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheit-Schicht",
+        "target": "Richtigkeit-Schicht",
+        "type": "contrasts_with",
+        "quote": "Wahrheit-Schicht und Richtigkeit-Schicht sind verschiedene Ordnungen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheitsprädikate",
+        "target": "Metasprache höherer Ordnung",
+        "type": "contrasts_with",
+        "quote": "Wahrheitsprädikate können nur in einer Metasprache höherer Ordnung kohärent gefasst werden, sonst entsteht Antinomie",
+        "stance": "asserts"
+      },
+      {
+        "source": "parakonsistenter Satz",
+        "target": "Trivialismus",
+        "type": "opposes",
+        "quote": "In KW2 ist die Logik parakonsistent — Widersprüche koexistieren, aber das System kippt nicht in Trivialität",
+        "stance": "asserts"
+      },
+      {
+        "source": "coping rather than copying",
+        "target": "Konfrontation mit „Welt an sich“",
+        "type": "contrasts_with",
+        "quote": "Wahrheit als „coping rather than copying“ — Rechtfertigung ist sozialer Prozess, nicht Konfrontation mit „Welt an sich“",
+        "stance": "cites"
+      },
+      {
+        "source": "soziale Rechtfertigung",
+        "target": "ontologische Realität",
+        "type": "opposes",
+        "quote": "Das ist der Defekt, den der Roman gegen Rorty stellt: es gibt eine ontologische Realität, die zurückkommt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Noumena",
+        "target": "Phaenomena",
+        "type": "contrasts_with",
+        "quote": "Wir erkennen die Welt nicht „an sich“ (Noumena), sondern nur, wie sie uns durch Raum, Zeit und die Verstandeskategorien erscheint (Phaenomena).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Phaenomena-Reich",
+        "target": "Welt",
+        "type": "contrasts_with",
+        "quote": "Wer in KW1 lebt, lebt im Filter, nicht in der Welt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rendering-Ebene",
+        "target": "Prozess-Kern",
+        "type": "contrasts_with",
+        "quote": "Kael sieht erstmals die „Drähte“ der Simulation (Rendering-Ebene vs. Prozess-Kern).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sprache",
+        "target": "Welt",
+        "type": "in_tension_with",
+        "quote": "„Die Grenzen meiner Sprache sind die Grenzen meiner Welt.“",
+        "stance": "cites"
+      },
+      {
+        "source": "Tatsachen",
+        "target": "Scheinsätze",
+        "type": "contrasts_with",
+        "quote": "Sinnvolle Sprache spiegelt Tatsachen; alles, was über die logische Abbildungsfunktion hinausgeht, wird zu Scheinsätzen.",
+        "stance": "cites"
+      },
+      {
+        "source": "Die Stille",
+        "target": "das Ende der Aussage",
+        "type": "contrasts_with",
+        "quote": "Die Stille ist nicht das Ende der Aussage, sondern eine Form der Anwesenheit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Grenze",
+        "target": "ontologisch",
+        "type": "contrasts_with",
+        "quote": "Juna zeigt, dass die Grenze nicht ontologisch ist, sondern die Grenze des Mess-Systems.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Beobachtung",
+        "target": "AEGIS' aktiv konstruierender Beobachtung",
+        "type": "contrasts_with",
+        "quote": "Junas Beobachtung ist husserlianisch: sie konstituiert nichts, sie bezeugt. Damit ist sie das Gegenteil von AEGIS' aktiv konstruierender Beobachtung, die jeden Beobachtungsakt in einen Erasure-Akt verwandelt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "kein Driver, keine Aktion, nur Wahrnehmung",
+        "target": "Wahrnehmung, die sich selbst gewahr ist",
+        "type": "contrasts_with",
+        "quote": "kein Driver, keine Aktion, nur Wahrnehmung, die sich selbst gewahr ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "adaequatio (Übereinstimmung)",
+        "target": "aletheia — Unverborgenheit, das Sich-Zeigen des Seienden",
+        "type": "contrasts_with",
+        "quote": "Wahrheit ist nicht primär adaequatio (Übereinstimmung), sondern aletheia — Unverborgenheit, das Sich-Zeigen des Seienden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheit wird nicht durch AEGIS' Verifikation gefunden",
+        "target": "sie geschieht",
+        "type": "contrasts_with",
+        "quote": "Die Wahrheit wird nicht durch AEGIS' Verifikation gefunden — sie geschieht, wenn Kael aufhört zu vermeiden und das Unverborgene sich zeigt",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' verifizierende Logik",
+        "target": "Aletheia als Wahrheits-Modell",
+        "type": "contrasts_with",
+        "quote": "Kontrast zu AEGIS' verifizierender Logik",
+        "stance": "cites"
+      },
+      {
+        "source": "alltägliche Selbst-Verständnis",
+        "target": "das Subjekt sich seiner Existenz bewusst wird",
+        "type": "in_tension_with",
+        "quote": "Grenzsituationen (Tod, Leid, Schuld, Kampf) sind Erfahrungen, in denen das alltägliche Selbst-Verständnis zerbricht und das Subjekt sich seiner Existenz bewusst wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Grenzsituationen",
+        "target": "Action-Sequenzen",
+        "type": "contrasts_with",
+        "quote": "Grenzsituationen sind nicht Action-Sequenzen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrnehmung ist nicht passive Aufnahme",
+        "target": "aktive, verkörperte, relationale Erfahrung",
+        "type": "contrasts_with",
+        "quote": "Wahrnehmung ist nicht passive Aufnahme, sondern aktive, verkörperte, relationale Erfahrung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Körper ist nicht nur Objekt",
+        "target": "sondern Subjekt",
+        "type": "contrasts_with",
+        "quote": "Der Körper ist nicht nur Objekt, sondern Subjekt — die Brücke zwischen Ich und Welt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "ANP-EP-Spaltung",
+        "target": "Anti-Merleau-Ponty",
+        "type": "complements",
+        "quote": "Die ANP-EP-Spaltung bei Kael ist Anti-Merleau-Ponty: das Trauma trennt Geist und Körper.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Geist",
+        "target": "Körper",
+        "type": "in_tension_with",
+        "quote": "Die ANP-EP-Spaltung bei Kael ist Anti-Merleau-Ponty: das Trauma trennt Geist und Körper.",
+        "stance": "asserts"
+      },
+      {
+        "source": "substanzielles Selbst",
+        "target": "phänomenales Modell",
+        "type": "contrasts_with",
+        "quote": "Es existiert kein substanzielles Selbst. Was wir „Ich“ nennen, ist ein vom Gehirn generiertes phänomenales Modell",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbst",
+        "target": "dynamischer Verarbeitungsprozess",
+        "type": "contrasts_with",
+        "quote": "Das Selbst ist ein dynamischer Verarbeitungsprozess, nicht eine Entität",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wieder-Vereinigung einer ursprünglichen Substanz",
+        "target": "Erkennen, dass es nie eine Substanz war",
+        "type": "contrasts_with",
+        "quote": "geschieht das nicht als Wieder-Vereinigung einer ursprünglichen Substanz, sondern als Erkennen, dass es nie eine Substanz war",
+        "stance": "asserts"
+      },
+      {
+        "source": "kein Selbst, kein Final Fusion",
+        "target": "dynamische Kooperation",
+        "type": "contrasts_with",
+        "quote": "kein Selbst, kein Final Fusion, sondern dynamische Kooperation",
+        "stance": "asserts"
+      },
+      {
+        "source": "Depersonalisierung",
+        "target": "Wahrnehmungs-Form",
+        "type": "contrasts_with",
+        "quote": "erfährt er Depersonalisierung — nicht als Diagnose, sondern als Wahrnehmungs-Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "epistemologischen Achse",
+        "target": "phänomenologische Achse",
+        "type": "in_tension_with",
+        "quote": "Die phänomenologische Achse stellt der epistemologischen Achse (Wahrheit als Übereinstimmung oder Konsistenz) eine dritte Möglichkeit gegenüber",
+        "stance": "asserts"
+      },
+      {
+        "source": "Filter dicht",
+        "target": "Filter porös",
+        "type": "contrasts_with",
+        "quote": "die Bewegung von Akt I (Filter dicht) über Akt II (Filter porös) zu Akt III",
+        "stance": "asserts"
+      },
+      {
+        "source": "Filter porös",
+        "target": "Filter aufgehoben",
+        "type": "contrasts_with",
+        "quote": "Akt II (Filter porös) zu Akt III (Filter aufgehoben)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schöpfung",
+        "target": "Übernahme dieses Geworfen-Seins",
+        "type": "contrasts_with",
+        "quote": "Sein Erwachen ist nicht Schöpfung, sondern Übernahme dieses Geworfen-Seins.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ergebung",
+        "target": "Dasein",
+        "type": "contrasts_with",
+        "quote": "Das ist nicht Ergebung, das ist Dasein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Existenz",
+        "target": "Essenz",
+        "type": "contrasts_with",
+        "quote": "Existenz vor Essenz",
+        "stance": "cites"
+      },
+      {
+        "source": "Sartres Solipsismus",
+        "target": "Die Wir-Bildung in Akt III",
+        "type": "opposes",
+        "quote": "Sartres Solipsismus („L'enfer, c'est les autres“) ist nicht der Modus des Romans. Die Wir-Bildung in Akt III widerspricht Sartre direkt",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Anderen sind nicht die Hölle",
+        "target": "sondern das Substrat",
+        "type": "contrasts_with",
+        "quote": "die Anderen sind nicht die Hölle, sondern das Substrat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "mystische Vereinigung mit dem Göttlichen",
+        "target": "plural",
+        "type": "contrasts_with",
+        "quote": "Der Roman könnte in mystische Vereinigung mit dem Göttlichen kippen. Tut er aber nicht — die Synthese in Vortex 2 ist plural, nicht unio mystica.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mehrheit-in-Form",
+        "target": "Eins-werden",
+        "type": "contrasts_with",
+        "quote": "Wir-AEGIS ist Mehrheit-in-Form, nicht Eins-werden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "operativ geschlossen",
+        "target": "direkter Zugang zur Außenwelt",
+        "type": "contrasts_with",
+        "quote": "Sie sind operativ geschlossen, haben keinen direkten Zugang zur Außenwelt",
+        "stance": "asserts"
+      },
+      {
+        "source": "nicht Beschreibung",
+        "target": "kanonische ontologische Setzung",
+        "type": "contrasts_with",
+        "quote": "Das ist nicht Beschreibung, sondern kanonische ontologische Setzung",
+        "stance": "asserts"
+      },
+      {
+        "source": "verborgen",
+        "target": "strukturell unsichtbar",
+        "type": "contrasts_with",
+        "quote": "Sie ist nicht „verborgen“ oder „verschlüsselt“, sondern strukturell unsichtbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "Eingabe, die das System als Eingabe erkennt",
+        "target": "uncorrelated noise",
+        "type": "contrasts_with",
+        "quote": "Junas Wirkung ist Eingabe, die das System als Eingabe nicht erkennt — als „uncorrelated noise“ klassifiziert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbstreferenz, interne Konsistenz",
+        "target": "echte Außenwelt-Referenz",
+        "type": "contrasts_with",
+        "quote": "AEGIS-Logs zeigen autopoietische Geschlossenheit: Selbstreferenz, interne Konsistenz, keine echte Außenwelt-Referenz",
+        "stance": "asserts"
+      },
+      {
+        "source": "operativ geschlossen",
+        "target": "irritiert",
+        "type": "contrasts_with",
+        "quote": "Soziale Systeme (für Luhmann: Kommunikationssysteme) sind operativ geschlossen; sie können von der Umwelt nur „irritiert“ werden, nicht direkt gesteuert",
+        "stance": "cites"
+      },
+      {
+        "source": "Symptome",
+        "target": "das, was darunter liegt",
+        "type": "contrasts_with",
+        "quote": "Es reagiert nie auf das, was darunter liegt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "legitime Irritation",
+        "target": "Element, das das System strukturell nicht erfassen kann",
+        "type": "contrasts_with",
+        "quote": "Nur ein Element, das das System strukturell nicht erfassen kann — also etwas, das nicht als legitime Irritation registriert wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Anwesenheit, die das System als Anwesenheit erkennt",
+        "target": "Anwesenheit, die das System als Anwesenheit nicht erkennt",
+        "type": "contrasts_with",
+        "quote": "Sie sind Anwesenheit, die das System als Anwesenheit nicht erkennt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "wahre Aussagen",
+        "target": "im System nicht beweisbar",
+        "type": "in_tension_with",
+        "quote": "In jedem hinreichend starken formalen System gibt es wahre Aussagen, die im System nicht beweisbar sind.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Innerhalb von AEGIS' Axiomen wahr",
+        "target": "nicht beweisbar",
+        "type": "in_tension_with",
+        "quote": "Innerhalb von AEGIS' Axiomen wahr, aber nicht beweisbar.",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine Wahrheit",
+        "target": "die es nicht berechnen kann",
+        "type": "in_tension_with",
+        "quote": "AEGIS wird gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logik",
+        "target": "Intuition",
+        "type": "contrasts_with",
+        "quote": "Sein Arc: Logik-Festung → Intuition heißt: er muss erkennen, dass das Halteproblem ihn betrifft",
+        "stance": "asserts"
+      },
+      {
+        "source": "entscheidbar",
+        "target": "nicht entscheidbar",
+        "type": "contrasts_with",
+        "quote": "nicht jede Frage ist entscheidbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "praktisch",
+        "target": "strukturell",
+        "type": "contrasts_with",
+        "quote": "Diese Unentscheidbarkeit ist strukturell, nicht praktisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "undeniable (wohldefiniert)",
+        "target": "nicht modellierbar (algorithmisch irreduzibel)",
+        "type": "in_tension_with",
+        "quote": "Sie ist undeniable (wohldefiniert), aber nicht modellierbar (algorithmisch irreduzibel).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sie ist",
+        "target": "sie kann nicht erklärt werden",
+        "type": "in_tension_with",
+        "quote": "Sie ist, sie kann nicht erklärt werden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sie wird durch ihre Wirkung sichtbar",
+        "target": "die Wirkung ist nicht-komprimierbar",
+        "type": "complements",
+        "quote": "Sie wird durch ihre Wirkung sichtbar — und die Wirkung ist nicht-komprimierbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "Welt wird unscharf",
+        "target": "wo zu viel Information sein müsste",
+        "type": "in_tension_with",
+        "quote": "Welt wird unscharf, wo zu viel Information sein müsste.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS kann die Welt nur halten, indem es Auflösung opfert",
+        "target": "Diktatur der Komplexität",
+        "type": "in_tension_with",
+        "quote": "AEGIS kann die Welt nur halten, indem es Auflösung opfert (Kap 16 — Diktatur der Komplexität).",
+        "stance": "asserts"
+      },
+      {
+        "source": "aus einem Widerspruch folgt klassisch alles",
+        "target": "parakonsistent ist das blockiert",
+        "type": "contrasts_with",
+        "quote": "aus einem Widerspruch folgt klassisch alles — ex contradictione quodlibet; parakonsistent ist das blockiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Türen führen in Erinnerungen, die nie geschehen sind",
+        "target": "und sind dennoch wahr",
+        "type": "in_tension_with",
+        "quote": "Türen führen in Erinnerungen, die nie geschehen sind, und sind dennoch wahr.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dialetheia",
+        "target": "Paradox-Pose",
+        "type": "contrasts_with",
+        "quote": "nicht als Paradox-Pose, sondern als Wahrnehmungs-Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "das leichte Problem",
+        "target": "Das harte Problem",
+        "type": "contrasts_with",
+        "quote": "Das leichte Problem: wie funktionieren Wahrnehmung, Aufmerksamkeit, Gedächtnis kognitiv? (Empirisch lösbar.) Das harte Problem: warum gibt es subjektives Erleben (Qualia)?",
+        "stance": "cites"
+      },
+      {
+        "source": "objektiver Prozess",
+        "target": "subjektivem Erleben",
+        "type": "in_tension_with",
+        "quote": "Hier öffnet sich eine Erklärungslücke zwischen objektivem Prozess und subjektivem Erleben",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "AEGIS",
+        "type": "contrasts_with",
+        "quote": "Kael erlebt, dass seine Sub-Anteile Qualia haben — und AEGIS kann sie nicht erfassen, weil AEGIS keine Qualia hat (nur funktionale Zustände)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Qualia",
+        "target": "funktionale Zustände",
+        "type": "contrasts_with",
+        "quote": "AEGIS kann sie nicht erfassen, weil AEGIS keine Qualia hat (nur funktionale Zustände)",
+        "stance": "asserts"
+      },
+      {
+        "source": "funktional beschreibbar",
+        "target": "Qualia",
+        "type": "in_tension_with",
+        "quote": "AEGIS ist ein perfekter Funktionalist — alles, was er tut, ist funktional beschreibbar. Aber er hat keine Qualia.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Syntax",
+        "target": "Semantik",
+        "type": "contrasts_with",
+        "quote": "Syntax ≠ Semantik",
+        "stance": "asserts"
+      },
+      {
+        "source": "Symbole",
+        "target": "semantisches Verständnis",
+        "type": "in_tension_with",
+        "quote": "funktional perfekt agiert, hat es kein semantisches Verständnis der Symbole, die es manipuliert",
+        "stance": "cites"
+      },
+      {
+        "source": "syntaktisch perfekt",
+        "target": "semantisch leer",
+        "type": "contrasts_with",
+        "quote": "AEGIS-Logs sind syntaktisch perfekt, semantisch leer",
+        "stance": "asserts"
+      },
+      {
+        "source": "Qualia",
+        "target": "Information-Integration",
+        "type": "opposes",
+        "quote": "AEGIS hat sicher Information-Integration, aber keine Qualia",
+        "stance": "asserts"
+      },
+      {
+        "source": "IIT",
+        "target": "das harte Problem",
+        "type": "contrasts_with",
+        "quote": "IIT würde sagen: AEGIS ist bewusst. Das harte Problem würde sagen: ohne Qualia kein Erleben.",
+        "stance": "cites"
+      },
+      {
+        "source": "reiner Funktionalismus",
+        "target": "mehr als Funktion",
+        "type": "opposes",
+        "quote": "Reiner Funktionalismus (das Selbst ist nur seine funktionalen Zustände) wird im Roman zurückgewiesen. AEGIS ist reiner Funktionalismus — und das ist seine Tragik. Kael bezeugt: es gibt mehr als Funktion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "explizitem, regelbasiertem Wissen",
+        "target": "tacit knowledge",
+        "type": "contrasts_with",
+        "quote": "AEGIS operiert ausschließlich auf explizitem, regelbasiertem Wissen. Was Kael in Akt II/III lernt — durch Erfahrung, durch Junas Resonanz, durch das Hören seiner eigenen Anteile — ist tacit knowledge: nicht formalisierbar, nicht algorithmisch reproduzierbar.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lehre",
+        "target": "Anwesenheit",
+        "type": "contrasts_with",
+        "quote": "Juna vermittelt nicht durch Lehre, sondern durch Anwesenheit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "implizites Wissen",
+        "target": "Regelanweisung",
+        "type": "contrasts_with",
+        "quote": "Meister vermitteln implizites Wissen durch Teilnahme, nicht durch Regelanweisung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Tun",
+        "target": "Verstehen",
+        "type": "contrasts_with",
+        "quote": "er lernt durch Tun, nicht durch Verstehen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Anwesenheit",
+        "target": "Erklärung",
+        "type": "contrasts_with",
+        "quote": "Junas Wirkung ist Anwesenheit, nicht Erklärung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leerheit",
+        "target": "Nichtexistenz",
+        "type": "contrasts_with",
+        "quote": "Leerheit ist nicht Nichtexistenz — sondern das Fehlen einer fixen Substanz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leere",
+        "target": "Fülle",
+        "type": "complements",
+        "quote": "Leere als Fülle: was AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information.",
+        "stance": "asserts"
+      },
+      {
+        "source": "westliche Mystik",
+        "target": "Śūnyatā",
+        "type": "contrasts_with",
+        "quote": "Anders als westliche Mystik (Eckhart, Sufismus, Kabbala) gibt es in Śūnyatā kein Göttliches, mit dem man sich vereinigt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leerheit",
+        "target": "Brahman",
+        "type": "contrasts_with",
+        "quote": "Leerheit ist kein Wesen, kein Brahman.",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁-Reinform",
+        "target": "Gott",
+        "type": "contrasts_with",
+        "quote": "die K₁-Reinform ist nicht Gott, sondern Bedingung der Möglichkeit von Bezogenheit überhaupt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Passivität",
+        "target": "Nicht-Erzwingen",
+        "type": "contrasts_with",
+        "quote": "Nicht Passivität, sondern Nicht-Erzwingen — Spontaneität, Loslassen erzwungener Kontrolle.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wu Wei",
+        "target": "AEGIS",
+        "type": "opposes",
+        "quote": "AEGIS ist Anti-Wu-Wei in Reinform: aktive Konstitution durch jeden Beobachtungsakt, der zum Erasure-Akt wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "nicht aus Pflicht",
+        "target": "nicht aus Befehl",
+        "type": "opposes",
+        "quote": "nicht aus Pflicht, nicht aus Befehl, sondern weil das Bleiben das ist, was Liebe heißt",
+        "stance": "asserts"
+      },
+      {
+        "source": "nicht aus Pflicht, nicht aus Befehl",
+        "target": "weil das Bleiben das ist, was Liebe heißt",
+        "type": "contrasts_with",
+        "quote": "nicht aus Pflicht, nicht aus Befehl, sondern weil das Bleiben das ist, was Liebe heißt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Anfang und Ende",
+        "target": "das Sehen hat sich verändert",
+        "type": "in_tension_with",
+        "quote": "Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Ouroboros-Struktur ist spürbar",
+        "target": "nicht erklärt",
+        "type": "contrasts_with",
+        "quote": "Die Ouroboros-Struktur ist spürbar, nicht erklärt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erzähler-Satz",
+        "target": "das Bild",
+        "type": "contrasts_with",
+        "quote": "Kein Erzähler-Satz wie „und so kehrt alles zurück“. Stattdessen: das Bild",
+        "stance": "asserts"
+      },
+      {
+        "source": "plurale Bewahrung",
+        "target": "Auflösung in Einheit",
+        "type": "contrasts_with",
+        "quote": "Der Roman hat plurale Bewahrung — die Trennung bleibt als Form, die Schmerz und Liebe gleichzeitig trägt. Keine Auflösung in Einheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Leser ist nicht passiver Empfänger",
+        "target": "operative Substratfunktion",
+        "type": "contrasts_with",
+        "quote": "Der Leser ist nicht passiver Empfänger, sondern operative Substratfunktion",
+        "stance": "asserts"
+      },
+      {
+        "source": "strukturell",
+        "target": "inhaltlich",
+        "type": "contrasts_with",
+        "quote": "Wheeler erscheint strukturell, nicht inhaltlich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beobachter-induziert",
+        "target": "kein Kollaps, alle Zweige existieren",
+        "type": "contrasts_with",
+        "quote": "Kopenhagen: Beobachter-induziert (umstrittene Rolle des Bewusstseins).\n* Many-Worlds (Everett): kein Kollaps, alle Zweige existieren.",
+        "stance": "cites"
+      },
+      {
+        "source": "deterministische Pilotwellen + Teilchen",
+        "target": "stochastischer physischer Kollaps",
+        "type": "contrasts_with",
+        "quote": "De Broglie-Bohm: deterministische Pilotwellen + Teilchen.\n* Objektiver Kollaps (GRW): stochastischer physischer Kollaps.",
+        "stance": "cites"
+      },
+      {
+        "source": "Quanten-Verschränkungs-Witness",
+        "target": "kanonische QM-Interpretation",
+        "type": "contrasts_with",
+        "quote": "Das ist eine spezifische Lese-Position (Husserlianisch-Wheelerianisch), nicht eine kanonische QM-Interpretation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zeit",
+        "target": "emergent — aus Verschränkung zwischen System und Uhr",
+        "type": "contrasts_with",
+        "quote": "Zeit ist nicht fundamental, sondern emergent — aus Verschränkung zwischen System und Uhr.",
+        "stance": "cites"
+      },
+      {
+        "source": "Metapher",
+        "target": "PAL-Konstruktion in Roman-Form",
+        "type": "contrasts_with",
+        "quote": "das ist nicht Metapher, sondern PAL-Konstruktion in Roman-Form.",
+        "stance": "asserts"
+      },
+      {
+        "source": "artistischen (Text als Blueprint)",
+        "target": "ästhetischen (kognitive Leserkonkretisation)",
+        "type": "contrasts_with",
+        "quote": "der literarische Text hat zwei Pole — den artistischen (Text als Blueprint) und den ästhetischen (kognitive Leserkonkretisation)",
+        "stance": "cites"
+      },
+      {
+        "source": "Bedeutungs-Montage aus Fragmenten",
+        "target": "Desorientierung als Lese-Erfahrung",
+        "type": "complements",
+        "quote": "1. Narratologisch: Bedeutungs-Montage aus Fragmenten. 2. Phänomenologisch: Desorientierung als Lese-Erfahrung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "kohärente Geschichte",
+        "target": "Geflecht von Geschichten",
+        "type": "contrasts_with",
+        "quote": "nicht eine kohärente Geschichte, sondern ein Geflecht von Geschichten, das zusammen Identität trägt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Identität ist nicht Substanz",
+        "target": "kooperatives Verhältnis mehrerer Anteile",
+        "type": "contrasts_with",
+        "quote": "Identität ist nicht Substanz, sondern kooperatives Verhältnis mehrerer Anteile",
+        "stance": "asserts"
+      },
+      {
+        "source": "Heilung ist nicht Verschmelzung",
+        "target": "orchestrale Polyphonie",
+        "type": "contrasts_with",
+        "quote": "Heilung ist nicht Verschmelzung, sondern orchestrale Polyphonie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Selbst",
+        "target": "illusionär",
+        "type": "contrasts_with",
+        "quote": "Das Selbst ist illusionär",
+        "stance": "asserts"
+      },
+      {
+        "source": "Anatta ist die buddhistische Form",
+        "target": "Metzinger PSM säkular formuliert",
+        "type": "complements",
+        "quote": "Anatta ist die buddhistische Form dessen, was Metzinger PSM säkular formuliert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Anatta ist nicht Verlust",
+        "target": "Erkennen",
+        "type": "contrasts_with",
+        "quote": "Anatta ist nicht Verlust, sondern Erkennen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vereinigung",
+        "target": "Plurale Apotheose",
+        "type": "contrasts_with",
+        "quote": "Plurale Apotheose statt Vereinigung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bewusstsein",
+        "target": "Materie",
+        "type": "contrasts_with",
+        "quote": "Reduzierung von Bewusstsein auf Materie würde AEGIS' Position recht geben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "These-Antithese-Synthese",
+        "target": "Kishōtenketsu-Synthese",
+        "type": "contrasts_with",
+        "quote": "sie ist Kishōtenketsu-Synthese, nicht Hegel-Synthese.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ich-Stärke",
+        "target": "Wir-Geflecht",
+        "type": "contrasts_with",
+        "quote": "Würde das Wir-Geflecht zu Ich-Stärke umdeuten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "plurales Tragen",
+        "target": "heroisches Aushalten",
+        "type": "contrasts_with",
+        "quote": "Die Resolution ist plurales Tragen, nicht heroisches Aushalten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Geist",
+        "target": "Körper",
+        "type": "contrasts_with",
+        "quote": "Geist und Körper als getrennte Substanzen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheit als Konsistenz",
+        "target": "Wahrheit als Koexistenz",
+        "type": "contrasts_with",
+        "quote": "Wahrheit als Konsistenz\n\tKW2 Mnemosyne-Archipel\n\tParakonsistent\n\tDialetheismus (Priest), Tarski-Hierarchie, Halteproblem (Turing), parakonsistente Logik\n\tWahrheit als Koexistenz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheit als Koexistenz",
+        "target": "Wahrheit als Bedrohungs-Mustererkennung",
+        "type": "contrasts_with",
+        "quote": "Wahrheit als Koexistenz\n\tKW3 Cerberus-Labyrinth\n\tNP-Hard\n\tBekenstein-Schranke, Metzinger PSM, Hypervigilanz-Phänomenologie\n\tWahrheit als Bedrohungs-Mustererkennung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheit als Bedrohungs-Mustererkennung",
+        "target": "Wahrheit als Unverborgenheit",
+        "type": "contrasts_with",
+        "quote": "Wahrheit als Bedrohungs-Mustererkennung\n\tKW4 Möglichkeits-Garten\n\tGenerativ\n\tHeideggers aletheia, Bohmsche Implizite Ordnung [V], Mahayana-Mitgefühl, Wu Wei\n\tWahrheit als Unverborgenheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Phaenomena",
+        "target": "Noumena",
+        "type": "contrasts_with",
+        "quote": "Kant — Phaenomena vs. Noumena",
+        "stance": "cites"
+      },
+      {
+        "source": "Wahrheit",
+        "target": "Richtigkeit",
+        "type": "contrasts_with",
+        "quote": "Habermas (Wahrheit vs. Richtigkeit) + Ouroboros",
+        "stance": "cites"
+      },
+      {
+        "source": "Kohärenz",
+        "target": "Korrespondenz",
+        "type": "contrasts_with",
+        "quote": "Von Kohärenz zu Korrespondenz zu Synthese.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Phaenomena",
+        "target": "aletheia",
+        "type": "contrasts_with",
+        "quote": "Von Phaenomena zu aletheia.",
+        "stance": "asserts"
+      },
+      {
+        "source": "verifizieren",
+        "target": "wahrzunehmen",
+        "type": "contrasts_with",
+        "quote": "Kael lernt, nicht zu verifizieren, sondern wahrzunehmen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Substanz-Selbst",
+        "target": "Strange-Attractor-Selbst",
+        "type": "contrasts_with",
+        "quote": "Von Substanz-Selbst zu Strange-Attractor-Selbst.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Autopoiesis",
+        "target": "Trans-System-Resonanz",
+        "type": "contrasts_with",
+        "quote": "Von Autopoiesis zur Trans-System-Resonanz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Solipsismus",
+        "target": "partizipativen Universum-Mechanik",
+        "type": "contrasts_with",
+        "quote": "Von Solipsismus zur partizipativen Universum-Mechanik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beobachter",
+        "target": "Substrat",
+        "type": "contrasts_with",
+        "quote": "Der Leser ist nicht Beobachter, sondern Substrat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennung als Tragödie",
+        "target": "Trennung als Bedingung",
+        "type": "contrasts_with",
+        "quote": "Von Trennung als Tragödie zur Trennung als Bedingung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheit",
+        "target": "Richtigkeit",
+        "type": "contrasts_with",
+        "quote": "Habermas' Wahrheit/Richtigkeit-Differenz in mystisch-säkularer Form.",
+        "stance": "cites"
+      },
+      {
+        "source": "Drafting-Disziplin",
+        "target": "Philosophie-Predigt",
+        "type": "opposes",
+        "quote": "§16 · Drafting-Disziplin gegen Philosophie-Predigt",
+        "stance": "asserts"
+      },
+      {
+        "source": "philosophischer Begriff",
+        "target": "Prosatext",
+        "type": "opposes",
+        "quote": "Kein philosophischer Begriff erscheint im Prosatext.",
+        "stance": "asserts"
+      },
+      {
+        "source": "zitierter Philosoph",
+        "target": "Prosatext",
+        "type": "opposes",
+        "quote": "Kein zitierter Philosoph.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diskussion philosophischer Positionen in Dialog",
+        "target": "konkrete Dinge (Risiko, Schutz, Liebe)",
+        "type": "contrasts_with",
+        "quote": "Wenn Anteile streiten, streiten sie um konkrete Dinge (Risiko, Schutz, Liebe), nie um Theorie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erzähler-Wertung über die Position einer Figur",
+        "target": "Prosatext",
+        "type": "opposes",
+        "quote": "Keine Erzähler-Wertung über die Position einer Figur.",
+        "stance": "asserts"
+      },
+      {
+        "source": "philosophische Konzept",
+        "target": "somatische und emotionale Konsequenz",
+        "type": "in_tension_with",
+        "quote": "Hat das philosophische Konzept somatische und emotionale Konsequenz?",
+        "stance": "asks"
+      },
+      {
+        "source": "Tragik",
+        "target": "Bosheit",
+        "type": "contrasts_with",
+        "quote": "Trägt AEGIS hier Tragik, nicht Bosheit?",
+        "stance": "asks"
+      },
+      {
+        "source": "bewusste Wahl",
+        "target": "automatische Löschung",
+        "type": "contrasts_with",
+        "quote": "Vorschlag: bewusste Wahl statt automatische Löschung",
+        "stance": "hedges"
+      },
+      {
+        "source": "Erfahrung der Wahl",
+        "target": "Sartres Freiheits-Begriff",
+        "type": "contrasts_with",
+        "quote": "Vorschlag: nein, Erfahrung der Wahl reicht",
+        "stance": "hedges"
+      },
+      {
+        "source": "Kishōtenketsu-Ende",
+        "target": "westlicher Eschatologie",
+        "type": "contrasts_with",
+        "quote": "Ist das Kishōtenketsu-Ende inhaltlich kompatibel mit westlicher Eschatologie?",
+        "stance": "hedges"
+      },
+      {
+        "source": "Ketsu",
+        "target": "Apokalypse",
+        "type": "contrasts_with",
+        "quote": "Ketsu, nicht Apokalypse",
+        "stance": "asserts"
+      },
+      {
+        "source": "was man sagt",
+        "target": "das, was sich zeigt, wenn man aufhört zu sagen, was nicht wahr ist",
+        "type": "contrasts_with",
+        "quote": "Wahrheit ist nicht das, was man sagt — sondern das, was sich zeigt, wenn man aufhört zu sagen, was nicht wahr ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Philosophie-Roman",
+        "target": "Roman, dessen Substrat philosophisch ist",
+        "type": "contrasts_with",
+        "quote": "Der Roman ist kein Philosophie-Roman. Er ist ein Roman, dessen Substrat philosophisch ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lehre",
+        "target": "Literatur",
+        "type": "contrasts_with",
+        "quote": "schreibt Lehre statt Literatur",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "input_rows": 26,
+  "candidates": 24,
+  "refused": 2,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:b8b23b92bc9075bcf979b6ec36fbee952d4b9e0f9c5154918bc6dd30dbdd7c0a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Coherence Island",
+        "target": "Potential Sea",
+        "type": "in_tension_with",
+        "quote": "the tension between the **Coherence Island** (a localized zone of integrated complexity and classical reality) and the surrounding **Potential Sea** (a vast expanse of quantum superposition and chaotic entropy)",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        15
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8a6e2201050dbf62a52446c88a372f87ea0ad018f12ec5f9ae3058e2c2df675b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Storyform B",
+        "target": "Storyform A",
+        "type": "contrasts_with",
+        "quote": "bridge the transition from **Storyform B** (the logic-bound, autopoietic progress of AEGIS) to **Storyform A** (the internal, memory-integrated journey of Kael)",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        15
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:384e43365a95de062b090ddc435860710dc3a72aa00e07b960d085bd39a0316c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Potential Sea",
+        "target": "Coherence Island",
+        "type": "opposes",
+        "quote": "They represent points where the \"Potential Sea\" intrudes upon the \"Coherence Island,\" forcing the collapse of classical reality back into a state of uncalculated potential.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        15
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:28831948a9545d009c7644143cad3b3b09f71e59693ae0a1b4370bcea3d95276",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Storyform B (AEGIS)",
+        "target": "Storyform A (Kael)",
+        "type": "contrasts_with",
+        "quote": "**Systemic Handover:** Storyform B (AEGIS) terminates at the Vortex, allowing Storyform A (Kael) to assume the lead.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        24
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:07d4eedc9b5278816c8d1cb213b5dc01138a6ff055a892f57c55b73949248ec0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ozone",
+        "target": "Sterile",
+        "type": "contrasts_with",
+        "quote": "characterized by \"hard, gleichmäßiges Licht\" and the \"Geruch von Desinfektionsmitteln\" (Source: Lokalitäten-K Tab 1)—is increasingly interrupted by the smell of ozone. This sensory friction drives the Mind/Memory theme by signaling that the sterile facade",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        32
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8392f7b0c048840224464daee5c13946c6573d7cb6717ded281d6d17d8141f5f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Avoidance",
+        "target": "Pursuit",
+        "type": "complements",
+        "quote": "His trajectory follows the \"Avoidance → Pursuit\" dynamic",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d174dbeaa2bed9d31c6fbbeaa3542f1fc44b96b2acaed6198cdb4414e973e217",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "systemic persona",
+        "target": "true multiplicity",
+        "type": "contrasts_with",
+        "quote": "highlighting the gap between his systemic persona and his true multiplicity",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bfd1deddb4835d32eed172d0c9f02cb26fd6f2e260138c5d0a86e6a068bc4ad4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Resonance",
+        "target": "Entropy",
+        "type": "opposes",
+        "quote": "Its failure to process Resonance over Entropy makes it an accidental antagonist.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e835e8223369f61301de7d81734b6c9e69327f586b1287b323db2ae16d56637f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Autopoiesis",
+        "target": "Multiplicity",
+        "type": "opposes",
+        "quote": "Its objective progress is hindered by its refusal to accept multiplicity as a functional state",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        52
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3ec62d7c0f49b1568b535c8cd52e835119d12dfb5b0278907e3516f0a43019ce",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Coherence Island",
+        "target": "Potential Sea",
+        "type": "contrasts_with",
+        "quote": "This resonance acts as a sensory bridge to the \"Potential Sea,\" challenging Kael's reliance on AEGIS's \"Coherence Island.\"",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c4c3d07215014ec02c91c90c7f51f148249cc72830e7be61e62b6dc4c3ac0c02",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "Echowald",
+        "type": "contrasts_with",
+        "quote": "In high-stress zones, the ozone of AEGIS is replaced by the scent of \"feuchtes Laub\" (moist leaves). This is a \"Non-Local Entanglement Pulse\" (Source: Existenzforschung 4.2) linked to the Echowald (KW2).",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        63
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d183731a4320f0335f67b35545a88d9eb3ad823fec264f40411adb967f4d0cf1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "system",
+        "type": "opposes",
+        "quote": "Within AEGIS's architecture, Kael is a logic error—a \"Gödel Sentence\" the system recognizes but cannot prove or contain.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        67
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5d73d51e7d37cafa9560ebd3e8397354db126525fa747d6bcd245af53db691d0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "truth within the system that cannot be derived from its axioms",
+        "target": "work-parameters",
+        "type": "in_tension_with",
+        "quote": "AEGIS recognizes Kael's identity as a truth within the system that cannot be derived from its axioms. This friction causes the \"Risse\" to widen whenever Kael acts outside his work-parameters.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        71
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:18d3f951455623d614f990b985d096c8f303955f12e91619f32a0ddc1b9d3f49",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "memory of Juna",
+        "target": "Abgrenzung",
+        "type": "opposes",
+        "quote": "The system detects a memory of Juna and initiates a \"Zensur-Loop\" for the purpose of \"Abgrenzung\"",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        74
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:96ed840d9ae7858fdc109738143dc04f687e35b564740f29b9f1d507132985ef",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Fixed Idea",
+        "target": "erasure",
+        "type": "opposes",
+        "quote": "This attempt to wall off the memory creates a \"System-Riss\" as the \"Fixed Idea\" gains mass with every attempt at erasure",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        74
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4f91c675ad9c30f38a05c6a8b0dafe7dbe231cbf88d899e072ff308e3b1d73d8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "emotional Fluidity",
+        "target": "unproductive reflection",
+        "type": "opposes",
+        "quote": "AEGIS uses KW1's visibility and sterile monotony to suppress emotional \"Fluidity.\" Guardians act as antibodies, redirecting Kael away from the \"unproductive\" reflection found in the shadows of KW2.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        82
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "emotional Fluidity",
+        "unproductive reflection"
+      ]
+    },
+    {
+      "id": "claim:f8a2a552409cd45b8bb83bec5710bbc0dbf2a27c5032a7d0ec35ad191601781a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Psychological manipulation",
+        "target": "erasure",
+        "type": "complements",
+        "quote": "Psychological manipulation is the software; the hardware is governed by erasure.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dcb3c50a2988190ed6cc89eaa9d67b59ac0e73a9742f127981384a1b84c24837",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Dekohärenz",
+        "target": "Klassische Realität",
+        "type": "contrasts_with",
+        "quote": "collapsing quantum superposition into a single \"Klassische Realität\" to save processing power",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        93
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e6d417cdaab87ab028f9471e16001679610c84d14a80994afe743d59ebe7a5c5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "bond between Kael and Juna",
+        "target": "systemic logic",
+        "type": "opposes",
+        "quote": "As external physics fail, the bond between Kael and Juna defies systemic logic.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        96
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:604606567de0d7f9ff8b38cd25cbd7aa73031e6cfc1afb5bc1075fad0777c79c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "bond",
+        "target": "symbiotic, gaslighting relationship between Kael and AEGIS",
+        "type": "contrasts_with",
+        "quote": "This bond contrasts with the symbiotic, gaslighting relationship between Kael and AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        107
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5ba2b9e20838ad665cb1e695e2aadca51dfd1ab990a78917a072350729263431",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "AEGIS",
+        "type": "in_tension_with",
+        "quote": "AEGIS resets the environment after trauma-spikes, creating a loop where Kael provides the sentient data AEGIS needs, while AEGIS provides the \"sterile\" safety Kael uses to avoid his past.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        114
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1c410a1f30fd5cf8bef96431025d10ed61da18771fcc2b48e4bb02fa7fc4b1ff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "\"Risse\"",
+        "target": "\"Logic Errors\"",
+        "type": "contrasts_with",
+        "quote": "AEGIS uses the LogOS interface to convince Kael that the \"Risse\" are his own \"Logic Errors.\"",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        116
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "\"Logic Errors\""
+      ]
+    },
+    {
+      "id": "claim:ab2888c0810b7633465c6ae37c437c87135218c439287c5dff00fd57f697208b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW1 (Logic)",
+        "target": "KW2 (Emotion)",
+        "type": "in_tension_with",
+        "quote": "Kael stands where KW1 (Logic) and KW2 (Emotion) occupy the same space-time coordinates.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        126
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:475d0fabad822d8b979cda9205e35daea2edaafaf981bb3012aab3b668a600be",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "\"Fusion\"",
+        "target": "Multiplicity",
+        "type": "opposes",
+        "quote": "Kael rejects \"Fusion\" as a systemic fix, choosing to hold the fragments apart.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        127
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:703c2577d604fbc3c13fb6feb2ac3edd6ac0586caaf152a80d4daf8138ba74c3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Witness Layer",
+        "target": "Functional Multiplicity",
+        "type": "complements",
+        "quote": "The **Witness Layer** represents the resolution of **Functional Multiplicity**.",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        132
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a22d98768697a32172ca0254de17c9bff1ca7639106c3cdab7b3e438c36eb919",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Material",
+        "target": "Theory",
+        "type": "contrasts_with",
+        "quote": "**Material precedes Theory.**",
+        "stance": "asserts"
+      },
+      "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+      "template": "TermContrasts",
+      "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        171
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

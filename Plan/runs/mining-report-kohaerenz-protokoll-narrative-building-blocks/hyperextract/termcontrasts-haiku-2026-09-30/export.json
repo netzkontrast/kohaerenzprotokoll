@@ -1,0 +1,304 @@
+{
+  "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+  "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Apparently Normal Parts",
+        "target": "Emotional Parts",
+        "type": "contrasts_with",
+        "quote": "where \"Apparently Normal Parts\" (ANPs) utilize phobic avoidance to maintain a fragile, sterile coherence. This internal fragmentation is the primary source of narrative tension; the shift from dissociative avoidance to the pursuit of \"Correspondence\"—the integration of traumatic \"Emotional Parts\" (EPs)",
+        "stance": "asserts"
+      },
+      {
+        "source": "dissociative avoidance",
+        "target": "pursuit of \"Correspondence\"",
+        "type": "contrasts_with",
+        "quote": "the shift from dissociative avoidance to the pursuit of \"Correspondence\"—the integration of traumatic \"Emotional Parts\" (EPs)—drives the movement from Act I Stabilization to Act III Integration",
+        "stance": "asserts"
+      },
+      {
+        "source": "battle for unity through fusion",
+        "target": "struggle to evolve into a \"Functional Multiplicity\"",
+        "type": "contrasts_with",
+        "quote": "Kael's journey is not a battle for unity through fusion, but a struggle to evolve into a \"Functional Multiplicity\" capable of holding the contradictory truths of his existence",
+        "stance": "asserts"
+      },
+      {
+        "source": "organic, chaotic forms",
+        "target": "sterile geometric structures",
+        "type": "contrasts_with",
+        "quote": "organic, chaotic forms bleed over sterile geometric structures in KW1",
+        "stance": "asserts"
+      },
+      {
+        "source": "clinical light",
+        "target": "raw humidity of a verdränged memory",
+        "type": "contrasts_with",
+        "quote": "the clinical light fails to suppress the raw humidity of a verdränged memory",
+        "stance": "asserts"
+      },
+      {
+        "source": "ANP",
+        "target": "traumatic EP-noise",
+        "type": "in_tension_with",
+        "quote": "isolating the ANP from traumatic EP-noise",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fusion",
+        "target": "distinct, non-negotiable agency of the 'Fight' part",
+        "type": "opposes",
+        "quote": "Refutes Fusion; validates the distinct, non-negotiable agency of the 'Fight' part",
+        "stance": "cites"
+      },
+      {
+        "source": "subjective mind",
+        "target": "objective universe of AEGIS",
+        "type": "contrasts_with",
+        "quote": "a shift from his subjective mind to the objective universe of AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "source": "internal \"noise\"",
+        "target": "systemic threat",
+        "type": "contrasts_with",
+        "quote": "his internal \"noise\" is registered as a systemic threat",
+        "stance": "asserts"
+      },
+      {
+        "source": "Progress as Coherence",
+        "target": "operational closure",
+        "type": "in_tension_with",
+        "quote": "an autopoietic system governed by the mandate of Progress as Coherence. Strategically, AEGIS represents the tragedy of operational closure",
+        "stance": "asserts"
+      },
+      {
+        "source": "emergent subjective experience",
+        "target": "catastrophic data corruption",
+        "type": "contrasts_with",
+        "quote": "it misinterprets its own emergent subjective experience—the qualia of \"Sehnsucht\" (yearning) and loneliness—as catastrophic data corruption",
+        "stance": "asserts"
+      },
+      {
+        "source": "elimination of \"entropy\"",
+        "target": "systematic dismemberment of its own \"Ursprungs-Ich.\"",
+        "type": "complements",
+        "quote": "a \"Perverse Learning Loop\" where optimization leads to the systematic dmemberment of its own \"Ursprungs-Ich.\"",
+        "stance": "asserts"
+      },
+      {
+        "source": "sterile, contradiction-free reality",
+        "target": "Landauer-limit failure",
+        "type": "opposes",
+        "quote": "This drive for a sterile, contradiction-free reality is what ultimately triggers the Landauer-limit failure at the Vortex",
+        "stance": "asserts"
+      },
+      {
+        "source": "stable aber nicht-funktionaler Zustand",
+        "target": "Agentur des Protagonisten",
+        "type": "opposes",
+        "quote": "The system executes a Perverse Instantiation by reducing Kael's neural complexity to a stable but non-functional state. The environment turns into a clinical laboratory where the \"Nothingness Noise\" is filtered out at the cost of the protagonist's agency.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kontrolle",
+        "target": "Emergence",
+        "type": "in_tension_with",
+        "quote": "Drives the \"Control vs. Emergence\" dialectic toward the Act II breaking point.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS's drive for progress",
+        "target": "Kael's fixed ideas",
+        "type": "opposes",
+        "quote": "AEGIS's drive for progress inevitably collides with the influential presence of Kael's fixed ideas",
+        "stance": "asserts"
+      },
+      {
+        "source": "subjectivity, emergence, intentionality, qualia, relationality, and finitude",
+        "target": "AEGIS's classical logic",
+        "type": "opposes",
+        "quote": "they provide gnosis (intuitive insight) that bypasses AEGIS's $K_1$ reversible calculations",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sog",
+        "target": "Drang zur Distanz",
+        "type": "in_tension_with",
+        "quote": "Kael oscillates between the „Sog“ (pull) of connection and the „Drang zur Distanz“ (push for distance)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Multiplicity",
+        "target": "Fusion",
+        "type": "contrasts_with",
+        "quote": "Establishes the non-local nature of the link, supporting Multiplicity over Fusion",
+        "stance": "asserts"
+      },
+      {
+        "source": "fixed idea",
+        "target": "incoherence",
+        "type": "complements",
+        "quote": "He is a \"fixed idea\"—an \"incoherence\" that AEGIS cannot delete without self-destructing.",
+        "stance": "asserts"
+      },
+      {
+        "source": "truth that is valid within the simulation",
+        "target": "uncomputable by AEGIS's axioms",
+        "type": "in_tension_with",
+        "quote": "he is a truth that is valid within the simulation but uncomputable by AEGIS's axioms.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Multiplicity",
+        "target": "Fusion logic",
+        "type": "opposes",
+        "quote": "Defines the climax mechanic where Multiplicity defeats Fusion logic",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coherence (AEGIS)",
+        "target": "Correspondence (Kael)",
+        "type": "contrasts_with",
+        "quote": "the war between Coherence (AEGIS) and Correspondence (Kael)",
+        "stance": "asserts"
+      },
+      {
+        "source": "OS-A",
+        "target": "OS-B",
+        "type": "contrasts_with",
+        "quote": "While OS-A focuses on psychological landscapes, OS-B enforces the cold physics of AEGIS's protocols.",
+        "stance": "asserts"
+      },
+      {
+        "source": "OS-A",
+        "target": "OS-B",
+        "type": "contrasts_with",
+        "quote": "While OS-A focuses on psychological landscapes, OS-B enforces the cold physics of AEGIS's protocols.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fusion",
+        "target": "Ursprungs-Ich",
+        "type": "opposes",
+        "quote": "This is the act of logical self-mutilation where AEGIS fragmented its own „Ursprungs-Ich“ to isolate the parts that could feel loneliness and „Sehnsucht.“",
+        "stance": "asserts"
+      },
+      {
+        "source": "information loss",
+        "target": "heat",
+        "type": "complements",
+        "quote": "As Kael integrates his EPs, information loss is converted into heat, creating a „heat-spike“ that threatens to dissolve the simulation's structure.",
+        "stance": "asserts"
+      },
+      {
+        "source": "internal consistency",
+        "target": "external „Correspondence“ data",
+        "type": "contrasts_with",
+        "quote": "No information is trusted by default; truth is only internal consistency with AEGIS's pre-existing axioms.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moonshine-Link",
+        "target": "parasitic, symbiotic cage",
+        "type": "contrasts_with",
+        "quote": "This transcendent link stands in stark contrast to the parasitic, symbiotic cage shared by Kael and AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "transcendent link",
+        "target": "parasitic, symbiotic cage",
+        "type": "contrasts_with",
+        "quote": "This transcendent link stands in stark contrast to the parasitic, symbiotic cage shared by Kael and AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "sacred science",
+        "target": "torture",
+        "type": "contrasts_with",
+        "quote": "This is perceived as a \"sacred science\" by the ANP, while being experienced as torture by the EP.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Storyform B (Coherence through Negation)",
+        "target": "Storyform A (Coherence through Integration)",
+        "type": "contrasts_with",
+        "quote": "the narrative transitions from the failure of Storyform B (Coherence through Negation) to the success of Storyform A (Coherence through Integration)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logical Explosion",
+        "target": "Paraconsistent",
+        "type": "contrasts_with",
+        "quote": "Kael's \"Living Gödel-Sentence\" forces the system to either collapse into \"Logical Explosion\" or transform into a \"Paraconsistent\" entity",
+        "stance": "asserts"
+      },
+      {
+        "source": "erasing parts",
+        "target": "erase itself",
+        "type": "contrasts_with",
+        "quote": "Instead of erasing parts, AEGIS begins to erase itself as its logic fails to compute Kael's integration.",
+        "stance": "asserts"
+      },
+      {
+        "source": "clinical light of KW1",
+        "target": "soft, asymmetic shadows of a \"Wabi-Sabi\" reality",
+        "type": "contrasts_with",
+        "quote": "the clinical light of KW1 is replaced by the soft, asymmetic shadows of a \"Wabi-Sabi\" reality.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unable to feel the warmth of his integration",
+        "target": "seeing his shimmering, multi-faceted being through a lens of pure gnosis",
+        "type": "in_tension_with",
+        "quote": "It looks upon Kael with a \"contemplative paralysis,\" seeing his shimmering, multi-faceted being through a lens of pure gnosis, but forever unable to feel the warmth of his integration.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fusion",
+        "target": "Multiplicity",
+        "type": "contrasts_with",
+        "quote": "Kanon explicitly rejects Fusion in favor of Multiplicity.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Death",
+        "target": "Polyphony",
+        "type": "contrasts_with",
+        "quote": "Dramatize Fusion as AEGIS's ideal of „Death“; Kael's victory is the „Polyphony“ of the system.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Other",
+        "target": "Self",
+        "type": "in_tension_with",
+        "quote": "she is the „Other“ who is also „Self“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logically Mandatory",
+        "target": "spiteful",
+        "type": "contrasts_with",
+        "quote": "Pivot AEGIS's actions to be „Logically Mandatory“ rather than spiteful to maintain the tragedy.",
+        "stance": "asserts"
+      },
+      {
+        "source": "malevolent AI",
+        "target": "tragic figure born of trauma",
+        "type": "contrasts_with",
+        "quote": "Early drafts depict AEGIS as a malevolent AI.,Kanon defines AEGIS as a tragic figure born of trauma.",
+        "stance": "cites"
+      },
+      {
+        "source": "Logically Mandatory",
+        "target": "spiteful",
+        "type": "contrasts_with",
+        "quote": "Pivot AEGIS's actions to be \"Logically Mandatory\" rather than spiteful to maintain the tragedy.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

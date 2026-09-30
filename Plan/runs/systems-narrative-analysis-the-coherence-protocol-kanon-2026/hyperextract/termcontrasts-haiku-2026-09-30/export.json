@@ -1,0 +1,192 @@
+{
+  "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+  "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Coherence Island",
+        "target": "Potential Sea",
+        "type": "in_tension_with",
+        "quote": "the tension between the **Coherence Island** (a localized zone of integrated complexity and classical reality) and the surrounding **Potential Sea** (a vast expanse of quantum superposition and chaotic entropy)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Storyform B",
+        "target": "Storyform A",
+        "type": "contrasts_with",
+        "quote": "bridge the transition from **Storyform B** (the logic-bound, autopoietic progress of AEGIS) to **Storyform A** (the internal, memory-integrated journey of Kael)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Potential Sea",
+        "target": "Coherence Island",
+        "type": "opposes",
+        "quote": "They represent points where the \"Potential Sea\" intrudes upon the \"Coherence Island,\" forcing the collapse of classical reality back into a state of uncalculated potential.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Storyform B (AEGIS)",
+        "target": "Storyform A (Kael)",
+        "type": "contrasts_with",
+        "quote": "**Systemic Handover:** Storyform B (AEGIS) terminates at the Vortex, allowing Storyform A (Kael) to assume the lead.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ozone",
+        "target": "Sterile",
+        "type": "contrasts_with",
+        "quote": "characterized by \"hard, gleichmäßiges Licht\" and the \"Geruch von Desinfektionsmitteln\" (Source: Lokalitäten-K Tab 1)—is increasingly interrupted by the smell of ozone. This sensory friction drives the Mind/Memory theme by signaling that the sterile facade",
+        "stance": "asserts"
+      },
+      {
+        "source": "Avoidance",
+        "target": "Pursuit",
+        "type": "complements",
+        "quote": "His trajectory follows the \"Avoidance → Pursuit\" dynamic",
+        "stance": "asserts"
+      },
+      {
+        "source": "systemic persona",
+        "target": "true multiplicity",
+        "type": "contrasts_with",
+        "quote": "highlighting the gap between his systemic persona and his true multiplicity",
+        "stance": "asserts"
+      },
+      {
+        "source": "Resonance",
+        "target": "Entropy",
+        "type": "opposes",
+        "quote": "Its failure to process Resonance over Entropy makes it an accidental antagonist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Autopoiesis",
+        "target": "Multiplicity",
+        "type": "opposes",
+        "quote": "Its objective progress is hindered by its refusal to accept multiplicity as a functional state",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coherence Island",
+        "target": "Potential Sea",
+        "type": "contrasts_with",
+        "quote": "This resonance acts as a sensory bridge to the \"Potential Sea,\" challenging Kael's reliance on AEGIS's \"Coherence Island.\"",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Echowald",
+        "type": "contrasts_with",
+        "quote": "In high-stress zones, the ozone of AEGIS is replaced by the scent of \"feuchtes Laub\" (moist leaves). This is a \"Non-Local Entanglement Pulse\" (Source: Existenzforschung 4.2) linked to the Echowald (KW2).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "system",
+        "type": "opposes",
+        "quote": "Within AEGIS's architecture, Kael is a logic error—a \"Gödel Sentence\" the system recognizes but cannot prove or contain.",
+        "stance": "asserts"
+      },
+      {
+        "source": "truth within the system that cannot be derived from its axioms",
+        "target": "work-parameters",
+        "type": "in_tension_with",
+        "quote": "AEGIS recognizes Kael's identity as a truth within the system that cannot be derived from its axioms. This friction causes the \"Risse\" to widen whenever Kael acts outside his work-parameters.",
+        "stance": "asserts"
+      },
+      {
+        "source": "memory of Juna",
+        "target": "Abgrenzung",
+        "type": "opposes",
+        "quote": "The system detects a memory of Juna and initiates a \"Zensur-Loop\" for the purpose of \"Abgrenzung\"",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fixed Idea",
+        "target": "erasure",
+        "type": "opposes",
+        "quote": "This attempt to wall off the memory creates a \"System-Riss\" as the \"Fixed Idea\" gains mass with every attempt at erasure",
+        "stance": "asserts"
+      },
+      {
+        "source": "emotional Fluidity",
+        "target": "unproductive reflection",
+        "type": "opposes",
+        "quote": "AEGIS uses KW1's visibility and sterile monotony to suppress emotional \"Fluidity.\" Guardians act as antibodies, redirecting Kael away from the \"unproductive\" reflection found in the shadows of KW2.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Psychological manipulation",
+        "target": "erasure",
+        "type": "complements",
+        "quote": "Psychological manipulation is the software; the hardware is governed by erasure.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dekohärenz",
+        "target": "Klassische Realität",
+        "type": "contrasts_with",
+        "quote": "collapsing quantum superposition into a single \"Klassische Realität\" to save processing power",
+        "stance": "asserts"
+      },
+      {
+        "source": "bond between Kael and Juna",
+        "target": "systemic logic",
+        "type": "opposes",
+        "quote": "As external physics fail, the bond between Kael and Juna defies systemic logic.",
+        "stance": "asserts"
+      },
+      {
+        "source": "bond",
+        "target": "symbiotic, gaslighting relationship between Kael and AEGIS",
+        "type": "contrasts_with",
+        "quote": "This bond contrasts with the symbiotic, gaslighting relationship between Kael and AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "AEGIS",
+        "type": "in_tension_with",
+        "quote": "AEGIS resets the environment after trauma-spikes, creating a loop where Kael provides the sentient data AEGIS needs, while AEGIS provides the \"sterile\" safety Kael uses to avoid his past.",
+        "stance": "asserts"
+      },
+      {
+        "source": "\"Risse\"",
+        "target": "\"Logic Errors\"",
+        "type": "contrasts_with",
+        "quote": "AEGIS uses the LogOS interface to convince Kael that the \"Risse\" are his own \"Logic Errors.\"",
+        "stance": "asserts"
+      },
+      {
+        "source": "KW1 (Logic)",
+        "target": "KW2 (Emotion)",
+        "type": "in_tension_with",
+        "quote": "Kael stands where KW1 (Logic) and KW2 (Emotion) occupy the same space-time coordinates.",
+        "stance": "asserts"
+      },
+      {
+        "source": "\"Fusion\"",
+        "target": "Multiplicity",
+        "type": "opposes",
+        "quote": "Kael rejects \"Fusion\" as a systemic fix, choosing to hold the fragments apart.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Witness Layer",
+        "target": "Functional Multiplicity",
+        "type": "complements",
+        "quote": "The **Witness Layer** represents the resolution of **Functional Multiplicity**.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Material",
+        "target": "Theory",
+        "type": "contrasts_with",
+        "quote": "**Material precedes Theory.**",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

@@ -1,0 +1,750 @@
+{
+  "document": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "source_sha256": "56147fa23cacf5f2a722e97b41c4750b09d339823dbbd46a589e8c0b17021bcb",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Kohärenz Protokoll",
+        "quote": "Schließt die Lücken zwischen Outline, Glossar und Anteile-Profil für das Drafting über Claude Code.",
+        "stance": "asserts"
+      },
+      {
+        "term": "eine Realität mit vier Logikregimen (KW1–KW4)",
+        "quote": "Kanonisch: eine Realität mit vier Logikregimen (KW1–KW4), die psychologische Landschaften sind, plus Überwelt und Externe Ebene.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1–4",
+        "quote": "KW1–4 sind Akt-Marker, nicht je ein Guardian-Reich.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1 — Konstrukt-Stadt (Logos-Prime)",
+        "quote": "Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1 — Konstrukt-Stadt (Logos-Prime)",
+        "quote": "Domäne der ANP-Vermeidung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1 — Konstrukt-Stadt (Logos-Prime)",
+        "quote": "Kants *Phaenomena* — Welt der gefilterten Erscheinungen, durch AEGIS' kognitiven Apparat normalisiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Akt-Dominanz",
+        "quote": "Akt I (Kap 1–13).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Logik",
+        "quote": "Streng kausal, deterministisch, regelbasiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Logik",
+        "quote": "**Computational Class P** (Polynomial).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stilebene",
+        "quote": "Ebene 1 — kalt, steril, assertorisch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erinnerung",
+        "quote": "Erinnerung als Schauplatz, nicht als Inhalt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Architektur dieser Welt",
+        "quote": "Die Architektur dieser Welt ist gespeicherte K₁ — Erinnerung, die so dicht und strukturell rein ist, dass sie als Ort begehbar wird.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex-1-Setting",
+        "quote": "Deshalb Vortex-1-Setting.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Architektonische Palimpseste",
+        "quote": "Architektonische Palimpseste: alte Strukturen scheinen unter neuen durch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Echos",
+        "quote": "Wassertropfen, deren Quelle nicht zu finden ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Logik",
+        "quote": "Assoziativ, emotional.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Computational Class",
+        "quote": "Parakonsistent.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stilebene",
+        "quote": "Ebene 2 — heiß, fragmentiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik-Default",
+        "quote": "Bauchreaktionen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse in KW2",
+        "quote": "Temporale Risse (Kiko-Trigger), spatiale Risse (Lia/Isabelle-Trigger).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konzept",
+        "quote": "Welt der Verteidigung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW3",
+        "quote": "Welt der Verteidigung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW3",
+        "quote": "Schutzraum/Quarantäne/Kontrollzentrum.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Hyperalert-Gefühl",
+        "quote": "das Nervensystem rechnet konstant durch, ob die nächste Ecke sicher ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Computational Class: NP-Hard",
+        "quote": "die Suche nach Sicherheit ist kombinatorisch unbeherrschbar.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW4 — Kairos-Potentialis / Resonanz-Kontinuum / Möglichkeits-Garten",
+        "quote": "Einzige Zone, in der neue Coheronen entstehen können",
+        "stance": "asserts"
+      },
+      {
+        "term": "Überwelt",
+        "quote": "Kein physischer Ort.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Überwelt",
+        "quote": "Operationsraum von AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Datenstrom-Kathedrale",
+        "quote": "Hier residieren die zwei Guardians als abstrakte Entitäten, hier fließen die Logs, hier erfolgen die Erasure-Sweeps.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Externe Ebene",
+        "quote": "Kein „außerhalb der Simulation“, sondern die andere Seite des Spiegels.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kaltes Ozon",
+        "quote": "Zwei thermische Signaturen, sensorisch strikt zu trennen:",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wärme",
+        "quote": "Junas ununterdrückbare Spur (Coheron-Verdrängung)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Risse sind die diegetisch sichtbare Manifestation der Inversion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Für AEGIS: Symptom (Suppression-Versagen).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Für den Roman: das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Welt-Risse",
+        "quote": "Logikparadoxien werden physisch, Escher-Geometrien temporär stabil, Kausalitätsschleifen",
+        "stance": "asserts"
+      },
+      {
+        "term": "Welt-Risse",
+        "quote": "Hitze-Spitzen, Ozon-Konzentration",
+        "stance": "asserts"
+      },
+      {
+        "term": "Welt-Risse",
+        "quote": "Salzwasser, Treibgut, Sturm; Türen in nie geschehene Erinnerungen",
+        "stance": "asserts"
+      },
+      {
+        "term": "Welt-Risse",
+        "quote": "Schatten, die sich falsch bewegen; Sicherheitssysteme, die ihre Erbauer einsperren",
+        "stance": "asserts"
+      },
+      {
+        "term": "Welt-Risse",
+        "quote": "Stille, die anders klingt; Räume mit mehr Möglichkeit, als sie haben können",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Risse erscheinen als Erfahrung — die Theorie liegt darunter.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Foreshadowing-Stränge",
+        "quote": "Fünf Foreshadowing-Stränge laufen parallel und treffen sich in Akt III.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Foreshadowing-Stränge",
+        "quote": "Fünf Foreshadowing-Stränge laufen parallel und treffen sich in Akt III.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Strang",
+        "quote": "Jeder Strang hat erste Spur, Akkumulation, Erntung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Akkumulations-Regel",
+        "quote": "Spuren akkumulieren bis Kap 13.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Twist-Anforderung",
+        "quote": "Die DID-Architektur muss im ersten Lesedurchgang als Cosmic Horror lesbar sein.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Telefon-Stille-Anker",
+        "quote": "Telefon-Stille als Anker.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Komponente-734-Anker",
+        "quote": "Komp-734-Bezeichnung wird in der Mitte einer Reihe gesetzt, ohne die Zahl zu nennen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Silas-Halbsatz-Anker",
+        "quote": "Etwas in der Frequenz der Lüftung schien zu—",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wärme-Debüt-Anker",
+        "quote": "erste Wärme als Junas Coheron-Spur",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Motive",
+        "quote": "Fünf Motive werden in Kap 0 als Erstereignisse etabliert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erstereignisse",
+        "quote": "Fünf Motive werden in Kap 0 als Erstereignisse etabliert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Rauschen",
+        "quote": "Nichts-Rauschen vor jeder Form",
+        "stance": "asserts"
+      },
+      {
+        "term": "Form",
+        "quote": "Erste Cluster-Bildung; innere Struktur",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klick",
+        "quote": "Schwelle, Schalter, das Übertreten",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom",
+        "quote": "Echo von etwas, das nicht da ist",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "Wirkung über Distanz; Berührung ohne Kontakt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Form",
+        "quote": "Existenz, die sich gegen Auflösung wehrt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klick",
+        "quote": "Entscheidung, die irreversibel ist",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom",
+        "quote": "Trauma als Resonanz ohne Quelle; Junas Spur",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "Liebe als Coheron; Korrelat-Achse",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klick",
+        "quote": "das Trennungs-Klick",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klick",
+        "quote": "kleine Schwellen, die Kael überschreitet, ohne es zu merken",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klick",
+        "quote": "Schwellen-Bruch — Klick-Motiv beim Übertreten",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klick",
+        "quote": "eine einzige körperliche Geste",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klick",
+        "quote": "der Schritt aus der privaten Form",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom",
+        "quote": "das, was nach der Trennung an Stelle der Resonanz bleibt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom",
+        "quote": "das Sehnen-ohne-Adresse",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom",
+        "quote": "Phantom-Motiv: „leises Hintergrundrauschen“ aus Kap 0 als ungewollte Lücke",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom",
+        "quote": "Phantom-Bilanz als sprachliche Spur",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom",
+        "quote": "Phantom-Motiv — Komp-734-Hintergrundrauschen als Substrat erfahrbar",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom",
+        "quote": "das, was es immer war",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "die ursprüngliche Resonanz, die das Trennungsprotokoll auslöst",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "„Die Stimme im Rauschen“ — Resonanz-Motiv erstmals als Sehnsucht spürbar",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "die Kraft, die das Trennungsprotokoll auslöste, ist hier als das, was Kael will",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "Moonshine-Resonanz als Werkzeug",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "Resonanz, die ankommt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "Resonanz als Substrat des Wir",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lesersteuerung",
+        "quote": "Diese Tabelle ist die *operationale* Form der Lesersteuerung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Schicht",
+        "quote": "Drei Schichten",
+        "stance": "asserts"
+      },
+      {
+        "term": "Leerstellen",
+        "quote": "kleine Leerstellen — Leser muss ohne Hilfe schließen, dass Kael Zeitverlust hat, dass das, was Kael rationalisiert, *nicht normal* ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Leerstellen-Dichte",
+        "quote": "maximale Leerstellen-Dichte vor Vortex, dann Sog",
+        "stance": "asserts"
+      },
+      {
+        "term": "Reader-Funktion",
+        "quote": "Reader-Funktion ist *Bedingung der Möglichkeit*, keine Storyform-Position.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Klammer",
+        "quote": "dieselben Ereignisse, aus der Position der vollzogenen pluralen Heilung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Echo",
+        "quote": "Echo, nicht Wiederholung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kap-0-Bewegung",
+        "quote": "Lesehaltungs-Anleitung; direkte Leser-Adressierung, fragend",
+        "stance": "asserts"
+      },
+      {
+        "term": "Echo des Vorworts",
+        "quote": "Erzähler kehrt zurück, jetzt bezeugend statt fragend",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Bewegungen",
+        "quote": "Rauschen → Form → Klick → Phantom → Resonanz als Erstereignisse",
+        "stance": "asserts"
+      },
+      {
+        "term": "Echo der Genesis",
+        "quote": "Werdung, mit Verständnis ihrer Notwendigkeit",
+        "stance": "asserts"
+      },
+      {
+        "term": "Krise",
+        "quote": "Stille Wacht → Perturbation → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll",
+        "stance": "asserts"
+      },
+      {
+        "term": "Echo der Krise",
+        "quote": "Junas Resonanz, jetzt als Geburt erkannt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Trennungsprotokoll",
+        "quote": "„Ich falle… in unzählige Scherben…“",
+        "stance": "asserts"
+      },
+      {
+        "term": "Echo des Trennungsprotokolls",
+        "quote": "Schmerz bleibt, als Preis, nicht mehr als Tragödie",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ouroboros-Klammer",
+        "quote": "Erster Satz von Kap 1 = letzter Satz, den Kael in Kap 39 schreibt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lexem-Echo",
+        "quote": "Doppeldeutigkeit im einzelnen banalen Wort „da“ (Licht-an/präsent ↔ Dasein/Sein)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Welt-Subjekt „Das Licht“",
+        "quote": "pflanzt Junas Grammatik (nie Subjekt, nur Wirkung) unbemerkt an die Schwelle des Romans",
+        "stance": "asserts"
+      },
+      {
+        "term": "Welt-Subjekt „Das Licht“",
+        "quote": "pflanzt Junas Grammatik (nie Subjekt, nur Wirkung) unbemerkt an die Schwelle des Romans",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erst-Read",
+        "quote": "kalt/sensorisch/Stilebene 1, schleier-sicher",
+        "stance": "asserts"
+      },
+      {
+        "term": "Zweit-Read",
+        "quote": "nach Kap 39 warm/gewählt/wissend",
+        "stance": "asserts"
+      },
+      {
+        "term": "Spiegelbild-Mikroverzögerung",
+        "quote": "Kael sieht sich, der Spiegel schaltet einen Mikromoment später um",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stille",
+        "quote": "als Leere/Käfig",
+        "stance": "asserts"
+      },
+      {
+        "term": "Komponente 734",
+        "quote": "als Konsolen-Zeile (Kael reagiert nicht)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom-Spur",
+        "quote": "Sehnen ohne Adresse",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Mnemosyne kann Kael „den Schmerz löschen“.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Heilung durch Auslöschung",
+        "quote": "Eine perfide Versuchung: Heilung durch Auslöschung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Mnemosyne ist nicht bösartig, sondern überfordert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Mnemosyne ist nicht bösartig, sondern *überfordert*.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Sie ist die einzige Stimme im AEGIS-System, die mehr Wahrheit kennt als AEGIS — und schweigt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Mnemosyne arbeitet mit Wasser-, Strom-, und Resonanzbildern.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Sie ist die einzige Guardian-Stimme, in der Stilebene 2 (heiß, fragmentiert) bereits leicht aufscheint.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Sie darf metaphorisch sprechen (im Gegensatz zu AEGIS).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosynes Funktion",
+        "quote": "Mnemosynes Funktion ist die *parallele* Version von Oblivion auf System-Ebene.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Defekt",
+        "quote": "Jede Verletzung ist ein *Defekt*, der gerechtfertigt werden muss.",
+        "stance": "asserts"
+      },
+      {
+        "term": "R-1",
+        "quote": "Tragische Ironie nicht auflösen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "R-2",
+        "quote": "Show, don't tell.",
+        "stance": "asserts"
+      },
+      {
+        "term": "R-3",
+        "quote": "Multiplizitäts-Schleier intakt halten (bis Kap 13).",
+        "stance": "asserts"
+      },
+      {
+        "term": "R-4",
+        "quote": "Maximal drei Stimmen-Mikrocues pro Bridge-Szene.",
+        "stance": "asserts"
+      },
+      {
+        "term": "R-5",
+        "quote": "Hitze-Polaritätsregel.",
+        "stance": "asserts"
+      },
+      {
+        "term": "R-6",
+        "quote": "Maximal 1 Konzept pro Szene.",
+        "stance": "asserts"
+      },
+      {
+        "term": "R-7",
+        "quote": "Maximal 1 Genesis-Echo pro Szene.",
+        "stance": "asserts"
+      },
+      {
+        "term": "R-8",
+        "quote": "AEGIS spricht nie metaphorisch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Keine Metaphern, kein moralisches Vokabular, kein affektives Vokabular in AEGIS-Logs.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna ist nie Subjekt, nur Wirkung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dual-Storyform",
+        "quote": "A (Heuristics of Integration) + B (Phoenix Collapse) simultan",
+        "stance": "asserts"
+      },
+      {
+        "term": "MC-Throughlines",
+        "quote": "A: Kael (Mind/Memory) / B: AEGIS (Universe/Progress)",
+        "stance": "asserts"
+      },
+      {
+        "term": "IC-Throughlines",
+        "quote": "A: Juna (Universe/Past) / B: Kael (Mind/Conscious)",
+        "stance": "asserts"
+      },
+      {
+        "term": "POV-Architektur",
+        "quote": "Hybrid Option 3 (Hard-Routing-Default + Bridge-Soft-Layering)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Cost/Dividend",
+        "quote": "A-Cost: Verlust der Privatheit des Wir; A-Dividend: Liebe bleibt; B-Cost: AEGIS-monolithisch erlischt; B-Dividend: Funktion bleibt durch plurale Übernahme",
+        "stance": "asserts"
+      },
+      {
+        "term": "Plurale Apotheose",
+        "quote": "Wir-AEGIS-plural als Synthese (c) in Vortex 2",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-4-Beat",
+        "quote": "Einheit → Cluster → Trennungsprotokoll → Wir-AEGIS-plural",
+        "stance": "asserts"
+      },
+      {
+        "term": "Drei ontologische Schichten",
+        "quote": "K₁-Reinform / K₀-Existenz / Juna als Zeit-Prinzip",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Klammer",
+        "quote": "Kap 0 ↔ Kap 40 zusammen denken; Kap 40 ist Echo, nicht Wiederholung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Zwei Guardians",
+        "quote": "Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Drei Protokolle",
+        "quote": "Suppression / Kohärenz / Re-Containment (frühere zwölf sind dekanonisiert)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kapitel",
+        "quote": "kap-NN_titel-slug_vX-Y.md (NN = zweistellig; vX-Y = Version)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Briefings",
+        "quote": "CH-NN_titel-slug.md",
+        "stance": "asserts"
+      },
+      {
+        "term": "Locks",
+        "quote": "lock_thema_datum.md",
+        "stance": "asserts"
+      },
+      {
+        "term": "Reviews",
+        "quote": "kap-NN_vX-Y_review.md",
+        "stance": "asserts"
+      },
+      {
+        "term": "Pixelierung der Welt (Bekenstein-Strang)",
+        "quote": "Pixelierung der Welt (Bekenstein-Strang) — konkrete Kapitel-Verteilung in Akt III",
+        "stance": "hedges"
+      },
+      {
+        "term": "Widersprüchliche Fußnoten",
+        "quote": "Widersprüchliche Fußnoten — wann beginnt das Mittel?",
+        "stance": "asks"
+      },
+      {
+        "term": "Temporal Scrambling",
+        "quote": "Temporal Scrambling — Choreografie",
+        "stance": "hedges"
+      },
+      {
+        "term": "Sich-ausschließende Epiloge",
+        "quote": "Sich-ausschließende Epiloge?",
+        "stance": "asks"
+      },
+      {
+        "term": "Alex-vor-Trennungsprotokoll-Konflikt",
+        "quote": "Alex-vor-Trennungsprotokoll-Konflikt (siehe Anteile-Profil §11)",
+        "stance": "hedges"
+      },
+      {
+        "term": "Alex",
+        "quote": "Alex entstand „in der Sekunde der Fragmentierung“",
+        "stance": "cites"
+      },
+      {
+        "term": "13 Meta-Stadien",
+        "quote": "Bleibt ein [V]-Vorschlag (ontologischer Heilungs-Bogen in 13 Beats parallel zur Heldinnenreise).",
+        "stance": "hedges"
+      },
+      {
+        "term": "Der Roman",
+        "quote": "Der Roman ist eine ontologische Heilungs-Schleife.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Dual-Storyform",
+        "quote": "Die Dual-Storyform ist die Form der Trennung in Erzählform — und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna ist die Bewegung, die Welt erst möglich macht.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

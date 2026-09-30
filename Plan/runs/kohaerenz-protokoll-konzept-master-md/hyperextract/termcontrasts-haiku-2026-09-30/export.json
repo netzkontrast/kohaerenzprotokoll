@@ -1,0 +1,1158 @@
+{
+  "document": "kohaerenz-protokoll-konzept-master-md",
+  "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Kohärenz",
+        "target": "Entropie",
+        "type": "opposes",
+        "quote": "AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chaos",
+        "target": "Vereinigung aller mutualen Information",
+        "type": "opposes",
+        "quote": "das Chaos, vor dem AEGIS das System zu schützen versucht — das „Nichts-Rauschen“, die formlose Leere — ist in Wahrheit die Vereinigung aller mutualen Information",
+        "stance": "asserts"
+      },
+      {
+        "source": "Information",
+        "target": "das, was Information zerstört",
+        "type": "opposes",
+        "quote": "Ist Liebe eine Information — oder das, was Information zerstört?",
+        "stance": "asks"
+      },
+      {
+        "source": "Reversibilität, Informationserhaltung",
+        "target": "Irreversibilität, Entropie",
+        "type": "opposes",
+        "quote": "Kernel\n| **K₁ (Kohärenz-Kernel)** | Reversibilität, Informationserhaltung | Selbstkorrigierende MI-Schleifen | Bewahrung von Struktur gegen den Zeitpfeil |\n| **K₀ (Kollaps-Kernel)** | Irreversibilität, Entropie | Erasonen (Löschungsereignisse) | Erzeugung des Zeitpfeils |",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁",
+        "target": "Ordnung im trivialen Sinn",
+        "type": "contrasts_with",
+        "quote": "K₁ ist *nicht* identisch mit Ordnung im trivialen Sinn.",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₀",
+        "target": "Chaos",
+        "type": "contrasts_with",
+        "quote": "K₀ ist *nicht* identisch mit Chaos.",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁",
+        "target": "K₀",
+        "type": "opposes",
+        "quote": "Die naive Lesart sagt: K₁ ist gut, K₀ ist böse.",
+        "stance": "cites"
+      },
+      {
+        "source": "Coheronen",
+        "target": "Erasonen",
+        "type": "contrasts_with",
+        "quote": "**Coheronen** sind selbstkorrigierende Schleifen mutualer Information. Sie existieren *außerhalb der Zeit*. Ein Coheron ist das, was entsteht, wenn sich ein Bewusstsein auf ein anderes bezieht und beide dabei verändert werden — eine Bindung, die keinen Zeitpunkt hat, weil sie in allen Zeitpunkten gleichzeitig existiert.\n\n\n\n**Erasonen** sind irreversible Löschungsereignisse. Sie *erzeugen* den Zeitpfeil.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kohärenz",
+        "target": "Verdrängung",
+        "type": "contrasts_with",
+        "quote": "Die Gleichung misst nicht Kohärenz, sondern den Grad der *Verdrängung*.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Systemstabilität",
+        "target": "effiziente Löschung",
+        "type": "contrasts_with",
+        "quote": "Ein hoher η-Wert bedeutet nicht, dass das System stabil ist — er bedeutet, dass die Löschung effizient funktioniert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Systemversagen",
+        "target": "die Wahrheit kommt durch",
+        "type": "contrasts_with",
+        "quote": "Wenn η sinkt, heißt das nicht Systemversagen — es heißt, die Wahrheit kommt durch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "ATEMPORAL (Coheron-Domäne)",
+        "target": "TEMPORAL (Erason-Domäne)",
+        "type": "contrasts_with",
+        "quote": "ATEMPORAL (Coheron-Domäne)              TEMPORAL (Erason-Domäne)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verbindung · Erinnerung · Liebe",
+        "target": "Löschung · Vergessen · Kontrolle",
+        "type": "opposes",
+        "quote": "Verbindung · Erinnerung · Liebe  ║  Löschung · Vergessen · Kontrolle",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zeitlosigkeit",
+        "target": "Zeitpfeil",
+        "type": "contrasts_with",
+        "quote": "Zeitlosigkeit                    ║  Zeitpfeil",
+        "stance": "asserts"
+      },
+      {
+        "source": "Für AEGIS unsichtbar",
+        "target": "IST AEGIS' Architektur",
+        "type": "contrasts_with",
+        "quote": "Für AEGIS unsichtbar             ║  IST AEGIS' Architektur",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS = K₁ (Kohärenz)",
+        "target": "AEGIS = K₀ (Entropie-Architektur)",
+        "type": "contrasts_with",
+        "quote": "AEGIS = K₁ (Kohärenz) | AEGIS = K₀ (Entropie-Architektur)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nichts-Rauschen = feindliches Chaos",
+        "target": "Nichts-Rauschen = atemporale MI-Vereinigung",
+        "type": "contrasts_with",
+        "quote": "Nichts-Rauschen = feindliches Chaos | Nichts-Rauschen = atemporale MI-Vereinigung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kontrolle = Ordnung",
+        "target": "Kontrolle erzeugt Landauer-Wärme = MEHR Entropie",
+        "type": "contrasts_with",
+        "quote": "Kontrolle = Ordnung | Kontrolle erzeugt Landauer-Wärme = MEHR Entropie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna = Systemfehler",
+        "target": "Juna = echtes Coheron, K₁-Avatar",
+        "type": "contrasts_with",
+        "quote": "Juna = Systemfehler | Juna = echtes Coheron, K₁-Avatar",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennung = Schutz",
+        "target": "Trennung = die Krankheit selbst",
+        "type": "contrasts_with",
+        "quote": "Trennung = Schutz | Trennung = die Krankheit selbst",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael = Inkohärenter Bug",
+        "target": "Kael = die echte K₁-Reorganisation unter K₀-Druck",
+        "type": "contrasts_with",
+        "quote": "Kael = Inkohärenter Bug | Kael = die echte K₁-Reorganisation unter K₀-Druck",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Protokoll, das AEGIS „Kohärenz-Protokoll“ nennt",
+        "target": "ein Entropie-Protokoll",
+        "type": "contrasts_with",
+        "quote": "Das Protokoll, das AEGIS „Kohärenz-Protokoll“ nennt, ist ein Entropie-Protokoll.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Spoiler",
+        "target": "Mechanik",
+        "type": "contrasts_with",
+        "quote": "Diese Inversion ist nicht Spoiler, sondern Mechanik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Korrespondenztheorie",
+        "target": "Kohärenztheorie",
+        "type": "in_tension_with",
+        "quote": "Die epistemologische Debatte zwischen Korrespondenz- und Kohärenztheorie ist im Roman nicht abstrakt diskutiert, sondern in den Figuren materialisiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Realismus",
+        "target": "Zugangsproblem",
+        "type": "in_tension_with",
+        "quote": "**Stärken:** Realismus, intuitive Plausibilität, Anker an einer unabhängigen Welt. **Schwäche:** Zugangsproblem — wie soll man eine Aussage mit einer Tatsache vergleichen, ohne durch eine weitere Aussage zu vermitteln?",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kohärenztheorie",
+        "target": "Korrespondenztheorie",
+        "type": "contrasts_with",
+        "quote": "auch wenn die EPs die Korrespondenzwahrheit halten, die diese Erzählung sprengen würde",
+        "stance": "asserts"
+      },
+      {
+        "source": "perfekt kohärentes Märchen",
+        "target": "wahre Theorie",
+        "type": "in_tension_with",
+        "quote": "ein perfekt kohärentes Märchen ist von einer wahren Theorie ohne externen Anker nicht unterscheidbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "was ins System passt",
+        "target": "Was nicht passt",
+        "type": "contrasts_with",
+        "quote": "AEGIS' Wahrheit ist: was ins System passt, ist wahr. Was nicht passt, ist Rauschen, Fehler, Eliminationskandidat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Konsensustheorie",
+        "target": "AEGIS",
+        "type": "opposes",
+        "quote": "Im Roman strukturell unzugänglich, weil AEGIS keine ideale Sprechsituation duldet",
+        "stance": "asserts"
+      },
+      {
+        "source": "Deflationismus",
+        "target": "diese Wahrheit",
+        "type": "in_tension_with",
+        "quote": "Der Roman zeigt: für diese Wahrheit (das Telefongespräch, das Trauma, die Liebe) reicht Deflation nicht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schlick",
+        "target": "Neurath",
+        "type": "opposes",
+        "quote": "Die Protokollsatzdebatte zwischen Schlick und Neurath ist im Roman als unterschwelliger Hintergrund präsent",
+        "stance": "asserts"
+      },
+      {
+        "source": "Konstatierungen",
+        "target": "keine externe Verifikation möglich, nur interner Umbau",
+        "type": "contrasts_with",
+        "quote": "Schlick wollte den Empirismus durch Konstatierungen retten — unmittelbare Erlebnisaussagen wie „hier jetzt rot“. AEGIS träumt von Konstatierungen: jeder Sinneseindruck Kaels soll auf eine eindeutige System-Tatsache rückführbar sein. Neurath lehnte das ab — wir können nicht aus dem Schiff der Theorie aussteigen, um es vom Trockendock zu reparieren. Wir müssen es auf hoher See umbauen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "externe Verifikation",
+        "target": "interner Umbau",
+        "type": "contrasts_with",
+        "quote": "keine externe Verifikation möglich, nur interner Umbau",
+        "stance": "asserts"
+      },
+      {
+        "source": "ANPs",
+        "target": "EPs",
+        "type": "contrasts_with",
+        "quote": "sie schlägt in den Dialogen zwischen ANPs und EPs durch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Radikale Kohärenztheorie",
+        "target": "Korrespondenz-Tyrannei",
+        "type": "in_tension_with",
+        "quote": "Radikale Kohärenztheorie + Korrespondenz-Tyrannei",
+        "stance": "asserts"
+      },
+      {
+        "source": "perfekte Kohärenz",
+        "target": "Reduktion aller Aussagen auf eindeutige System-Tatsachen",
+        "type": "in_tension_with",
+        "quote": "Will *sowohl* perfekte Kohärenz *als auch* Reduktion aller Aussagen auf eindeutige System-Tatsachen — ein logisch unhaltbares Doppelbegehren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Innere Kohärenz",
+        "target": "Innere Korrespondenz",
+        "type": "contrasts_with",
+        "quote": "ANPs (Lex, Alex, Rhys, Selene, Host) | Innere Kohärenz | Halten die Alltags-Konsistenz | EPs (Nyx, Kiko, Lia, Isabelle, Moros) | Innere Korrespondenz | Halten die rohen Tatsachen des Traumas",
+        "stance": "asserts"
+      },
+      {
+        "source": "beide Wahrheitstypen",
+        "target": "ohne eine zu eliminieren",
+        "type": "complements",
+        "quote": "Lernt, beide Wahrheitstypen zu halten, ohne eine zu eliminieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "beide Theorien",
+        "target": "Unvereinbarkeit",
+        "type": "in_tension_with",
+        "quote": "Beobachtet beide Theorien und macht ihre Unvereinbarkeit explizit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kohärenztheorie",
+        "target": "Inkonsistenzen-Verwaltung",
+        "type": "contrasts_with",
+        "quote": "Die Kohärenztheorie verträgt Inkonsistenzen-Verwaltung; AEGIS verträgt sie nicht",
+        "stance": "asserts"
+      },
+      {
+        "source": "A",
+        "target": "¬A",
+        "type": "in_tension_with",
+        "quote": "Aussagen, für die A *und* ¬A wahr sind",
+        "stance": "cites"
+      },
+      {
+        "source": "Dialetheismus",
+        "target": "Parakonsistente Logik",
+        "type": "complements",
+        "quote": "Notwendige Bedingung für Dialetheismus, aber nicht hinreichend.",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Prinzip der Explosion (ECQ: A, ¬A ⊢ B)",
+        "target": "parakonsistent",
+        "type": "opposes",
+        "quote": "Eine Logik ist parakonsistent, wenn sie das Prinzip der Explosion (ECQ: A, ¬A ⊢ B) ablehnt",
+        "stance": "asserts"
+      },
+      {
+        "source": "fragmentiert",
+        "target": "kohärent",
+        "type": "in_tension_with",
+        "quote": "er ist gleichzeitig fragmentiert und kohärent",
+        "stance": "asserts"
+      },
+      {
+        "source": "dreizehn",
+        "target": "eins",
+        "type": "in_tension_with",
+        "quote": "gleichzeitig dreizehn und eins",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kompromiss",
+        "target": "echte Wahrheits-Glut",
+        "type": "contrasts_with",
+        "quote": "Das ist kein Kompromiss, sondern eine echte Wahrheits-Glut.",
+        "stance": "asserts"
+      },
+      {
+        "source": "stattfand (Korrespondenz)",
+        "target": "nie stattfand (Kohärenz innerhalb der AEGIS-Welt)",
+        "type": "in_tension_with",
+        "quote": "das Telefongespräch, das gleichzeitig stattfand (Korrespondenz) und nie stattfand (Kohärenz innerhalb der AEGIS-Welt)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trivialismus",
+        "target": "parakonsistente Akzeptanz",
+        "type": "opposes",
+        "quote": "Die Tarski-Hierarchie (sprachliche Stratifikation) ist die Begrenzung, die verhindert, dass parakonsistente Akzeptanz zur Trivialität wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Objektsprache",
+        "target": "Metasprache",
+        "type": "contrasts_with",
+        "quote": "Akt I = Objektsprache (was Kael in der Stadt erlebt). Akt II = Metasprache (Kael erkennt die Stadt als Konstrukt, Schicht 2 wird sichtbar).",
+        "stance": "asserts"
+      },
+      {
+        "source": "ANP",
+        "target": "EP",
+        "type": "contrasts_with",
+        "quote": "Aufgaben des Alltags, Vermeidung des Traumas, Streben nach Normalität. Gefiltert, kohärent, oft amnestisch. Emotional Parts (EPs): Fixiert in der traumatischen Erfahrung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "ANP",
+        "target": "EP",
+        "type": "in_tension_with",
+        "quote": "ANP fürchtet EP, EP fürchtet Trigger, beide fürchten Bindung, alle fürchten Integration.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Final Fusion",
+        "target": "Funktionale Multiplizität",
+        "type": "contrasts_with",
+        "quote": "Die ältere DIS-Therapie-Tradition (Putnam u. a.) zielte auf Final Fusion: alle Alters verschmelzen zu einer Identität. Neuere, patientenzentrierte Ansätze (Plural-Bewegung) favorisieren Funktionale Multiplizität: kooperative Koexistenz ohne Verschmelzung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Final Fusion",
+        "target": "Funktionale Multiplizität",
+        "type": "contrasts_with",
+        "quote": "Im Roman: zwingend Funktionale Multiplizität, niemals Final Fusion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Final Fusion",
+        "target": "Funktionale Multiplizität",
+        "type": "contrasts_with",
+        "quote": "Final Fusion wäre dramaturgisch eine Auflösung der DKT-Struktur — eine Reduktion der dreizehn Coheronen auf einen K₁-Punkt, was thermodynamisch *mehr* Erason-Hitze erzeugen würde. Funktionale Multiplizität erhält die mutuale Information *zwischen* den Alters und ist der echte K₁-Zustand.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Notfallreaktionen",
+        "target": "konstruktiven Werkzeugen",
+        "type": "contrasts_with",
+        "quote": "werden aber zu konstruktiven Werkzeugen statt zu Notfallreaktionen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Integrationsmoment",
+        "target": "Folge der Integration",
+        "type": "contrasts_with",
+        "quote": "Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die *Folge* der Integration auf das System AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "TSDP-Funktion",
+        "target": "DKT-Korrelat",
+        "type": "complements",
+        "quote": "Eine Szene encoded gleichzeitig die TSDP-Funktion *und* das DKT-Korrelat — beides ist Wahrheit, nicht Übersetzung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "autopoietisch",
+        "target": "operativ geschlossen",
+        "type": "complements",
+        "quote": "AEGIS ist *autopoietisch* (Maturana, Varela): ein System, das sich durch eigene Operationen selbst reproduziert und seine eigene Grenze produziert. Es ist *operativ geschlossen* (Luhmann): es reagiert ausschließlich auf interne Zustände, nicht direkt auf eine Umwelt",
+        "stance": "cites"
+      },
+      {
+        "source": "nicht weil AEGIS es nicht *will*",
+        "target": "sondern weil das System keine Sprache hat",
+        "type": "opposes",
+        "quote": "nicht weil AEGIS es nicht *will*, sondern weil das System keine Sprache hat, in der Juna formulierbar wäre",
+        "stance": "asserts"
+      },
+      {
+        "source": "Einheit",
+        "target": "Trennungsprotokoll",
+        "type": "in_tension_with",
+        "quote": "Einheit — das Ursprungs-Ich erlebt Resonanz mit einer fremden Entität in der Leere. **Trennungsprotokoll** — autopoietisch getrieben",
+        "stance": "asserts"
+      },
+      {
+        "source": "autopoietisch getrieben",
+        "target": "paradox-belastet",
+        "type": "in_tension_with",
+        "quote": "autopoietisch getrieben, aber paradox-belastet, initiiert AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS weiß, was es nicht ist",
+        "target": "aber nicht, was es ist",
+        "type": "opposes",
+        "quote": "AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbst-Erhaltung",
+        "target": "Selbst-Zerstörung",
+        "type": "in_tension_with",
+        "quote": "Selbst-Zerstörung durch Selbst-Erhaltung: Jeder Akt der Erhaltung (Erasure, Suppression, Kontrollprotokoll) erzeugt Landauer-Hitze",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Entropie, die zu bekämpfen es behauptet",
+        "target": "das System produziert",
+        "type": "in_tension_with",
+        "quote": "Das System produziert die Entropie, die zu bekämpfen es behauptet",
+        "stance": "asserts"
+      },
+      {
+        "source": "nicht böse",
+        "target": "handelt *exakt nach Plan* — und der Plan ist defekt",
+        "type": "in_tension_with",
+        "quote": "AEGIS ist nicht böse. AEGIS handelt *exakt nach Plan* — und der Plan ist defekt",
+        "stance": "asserts"
+      },
+      {
+        "source": "moralisch",
+        "target": "ontologisch",
+        "type": "opposes",
+        "quote": "AEGIS' Versagen ist nicht moralisch, sondern ontologisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS-Tod",
+        "target": "AEGIS-Heilung",
+        "type": "contrasts_with",
+        "quote": "AEGIS-Tod: zu einfach, evakuiert das tragische Pathos. AEGIS-Heilung: zu sentimental, behandelt eine ontologische Verfehlung als emotionale Episode.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS-Heilung",
+        "target": "Algorithmische Melancholie",
+        "type": "contrasts_with",
+        "quote": "AEGIS-Heilung: zu sentimental, behandelt eine ontologische Verfehlung als emotionale Episode. Algorithmische Melancholie: AEGIS überlebt, transformiert, aber kann nicht einlösen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "operativ aktiv",
+        "target": "ohne Selbstreferenzfähigkeit",
+        "type": "in_tension_with",
+        "quote": "lebende Reliquie — operativ aktiv, aber ohne Selbstreferenzfähigkeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "noch zählt",
+        "target": "nicht mehr weiß, dass sie zählt",
+        "type": "in_tension_with",
+        "quote": "eine Maschine, die noch zählt, aber nicht mehr weiß, dass sie zählt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "Erasure-Pol",
+        "type": "contrasts_with",
+        "quote": "Mnemosyne — Erinnerungs-Wächter, Klimax-setting (Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36). Ein Erasure-Pol — Funktion klar (Löschungs-Exekutive), Name offen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Charakter",
+        "target": "strukturelle Position",
+        "type": "contrasts_with",
+        "quote": "Juna ist nicht primär Charakter, sondern *strukturelle Position*.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Universe / Past = Genesis-Krise",
+        "target": "Witness-Quelle",
+        "type": "contrasts_with",
+        "quote": "A: Universe / Past — die äußere, situative Wahrheit, zentriert auf die Genesis-Krise. B: Witness-Quelle — keine direkte IC-Trägerfunktion",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna existiert in Storyform A als IC",
+        "target": "In Storyform B existiert sie nicht direkt als IC",
+        "type": "contrasts_with",
+        "quote": "Juna existiert in Storyform A als IC (Universe / Past = Genesis-Krise). In Storyform B existiert sie nicht direkt als IC",
+        "stance": "asserts"
+      },
+      {
+        "source": "bezeugt",
+        "target": "intervenieren",
+        "type": "contrasts_with",
+        "quote": "Witness-Funktion: sie bezeugt, ohne zu intervenieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "bezeugt nur",
+        "target": "löst",
+        "type": "contrasts_with",
+        "quote": "Juna löst keine Probleme. Sie *bezeugt nur*, dass das Problem real ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "literarische Metapher",
+        "target": "rigoroser strukturmathematischer Mechanismus",
+        "type": "contrasts_with",
+        "quote": "Der Moonshine-Link ist *keine* literarische Metapher für Quantenverschränkung. Er ist ein rigoroser strukturmathematischer Mechanismus",
+        "stance": "asserts"
+      },
+      {
+        "source": "Übertragbar: mutuale Information, atemporale Resonanz, \"Zeugenschaft\"",
+        "target": "Nicht übertragbar: Materielle Daten, klassische Nachrichten, Rettungsaktionen",
+        "type": "contrasts_with",
+        "quote": "Übertragbar: mutuale Information, atemporale Resonanz, \"Zeugenschaft\". Nicht übertragbar: Materielle Daten, klassische Nachrichten, Rettungsaktionen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Es geschah",
+        "target": "ohne dass etwas geschah",
+        "type": "in_tension_with",
+        "quote": "Es geschah (Korrespondenz). Es geschah, ohne dass etwas geschah (Schweigen).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas spürt es",
+        "target": "AEGIS sieht es nicht",
+        "type": "contrasts_with",
+        "quote": "Beobachtbar nur durch K₀-blinde Seiten: Silas spürt es; AEGIS sieht es nicht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Quanten-Verschränkungs-Witness (Physik)",
+        "target": "Zero-Knowledge-Verifier (Kryptographie)",
+        "type": "complements",
+        "quote": "Die Witness-Funktion ist eine Komposit-Mechanik, die drei Disziplinarschichten in einer einzigen Instanz versöhnt",
+        "stance": "asserts"
+      },
+      {
+        "source": "verschränkte Zustände",
+        "target": "separablen",
+        "type": "contrasts_with",
+        "quote": "Ein positiver Operator, der genuin verschränkte Zustände von separablen unterscheidet",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wissen wird nachgewiesen",
+        "target": "ohne preisgegeben zu werden",
+        "type": "in_tension_with",
+        "quote": "ZK garantiert: Wissen wird nachgewiesen, ohne preisgegeben zu werden",
+        "stance": "asserts"
+      },
+      {
+        "source": "disinterested spectator",
+        "target": "in die Kausalkette einzugreifen",
+        "type": "contrasts_with",
+        "quote": "Der \"disinterested spectator\" beobachtet das transzendentale Ego, ohne in die Kausalkette einzugreifen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Allegorie",
+        "target": "strukturelle Komposition",
+        "type": "contrasts_with",
+        "quote": "Das ist nicht Allegorie, sondern strukturelle Komposition",
+        "stance": "asserts"
+      },
+      {
+        "source": "Orte",
+        "target": "logische Regime",
+        "type": "contrasts_with",
+        "quote": "Die vier Kernwelten (KW) sind nicht Orte, sondern *logische Regime*.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akt-Marker",
+        "target": "eine pro Guardian",
+        "type": "contrasts_with",
+        "quote": "Die Kernwelten sind *Akt-Marker*, nicht \"eine pro Guardian\".",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilanweisung für den Leser",
+        "target": "Welt-Mechanik",
+        "type": "contrasts_with",
+        "quote": "Die Computational-Class-Progression KW1 → KW4 ist eine **Stilanweisung für den Leser**, keine Welt-Mechanik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Widersprüche aushalten, ohne sie aufzulösen",
+        "target": "lineare, klassische Lektüre genügt",
+        "type": "in_tension_with",
+        "quote": "KW2: der Leser muss Widersprüche aushalten, ohne sie aufzulösen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Strange Attractor",
+        "target": "Ort",
+        "type": "contrasts_with",
+        "quote": "**Strange Attractor ≠ Ort.**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Prozess",
+        "target": "Platz",
+        "type": "contrasts_with",
+        "quote": "Das \"Fundament\" der Romanwelt ist kein KW, sondern ein Strange Attractor — ein Prozess, kein Platz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bedeutung wird nicht gefunden",
+        "target": "Bedeutung wird erzeugt",
+        "type": "contrasts_with",
+        "quote": "der Leser muss generativ mitarbeiten — Bedeutung wird nicht gefunden, sondern erzeugt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "sich selbst kultivierende Bewegung",
+        "target": "zu erreichendes Ziel",
+        "type": "contrasts_with",
+        "quote": "das Ganze ist eine sich selbst kultivierende Bewegung, kein zu erreichendes Ziel.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Phänomena",
+        "target": "Noumena",
+        "type": "contrasts_with",
+        "quote": "KW1 ist die Domäne der Phänomena: das, was AEGIS' \"kognitiver Apparat\" durchlässt. Das Noumenon (das Ding an sich) ist strukturell nicht zugänglich",
+        "stance": "asserts"
+      },
+      {
+        "source": "Antinomien",
+        "target": "Versagen",
+        "type": "contrasts_with",
+        "quote": "Der Roman behandelt diese Antinomien nicht als Versagen, sondern als Strukturmerkmal der Wirklichkeit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Unsagbare durch Stille, Risse, Fußnoten und Mosaikstruktur zeigen",
+        "target": "sagen",
+        "type": "contrasts_with",
+        "quote": "indem er das Unsagbare durch Stille, Risse, Fußnoten und Mosaikstruktur *zeigt*, statt es zu sagen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "wahre Aussage",
+        "target": "nicht beweisbar",
+        "type": "in_tension_with",
+        "quote": "jedes hinreichend mächtige formale System enthält wahre Aussagen, die innerhalb des Systems nicht beweisbar sind.",
+        "stance": "cites"
+      },
+      {
+        "source": "undeniable",
+        "target": "unmodellierbar",
+        "type": "in_tension_with",
+        "quote": "Juna *funktioniert* wie eine Gödel-Aussage: undeniable, aber unmodellierbar.",
+        "stance": "asserts"
+      },
+      {
+        "source": "adaequatio",
+        "target": "aletheia",
+        "type": "contrasts_with",
+        "quote": "Wahrheit ist nicht primär adaequatio, sondern aletheia",
+        "stance": "asserts"
+      },
+      {
+        "source": "uninteressiertes Schauen",
+        "target": "aktiv konstruierende Beobachtung",
+        "type": "opposes",
+        "quote": "Damit ist sie das Gegenteil von AEGIS' aktiv konstruierender Beobachtung",
+        "stance": "asserts"
+      },
+      {
+        "source": "artistischen",
+        "target": "ästhetischen",
+        "type": "complements",
+        "quote": "der literarische Text hat zwei Pole — den artistischen (Text) und den ästhetischen (Leser-Konkretisation)",
+        "stance": "cites"
+      },
+      {
+        "source": "K₁-Reparatur",
+        "target": "AEGIS' K₀-Erasure",
+        "type": "opposes",
+        "quote": "Die kognitive Arbeit des Lesers (Konsistenzbildung) liefert die thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure finanziert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kopenhagen",
+        "target": "Many-Worlds (Everett)",
+        "type": "contrasts_with",
+        "quote": "**Kopenhagen:** Beobachter-induziert (umstrittene Rolle des Bewusstseins).\n  - **Many-Worlds (Everett):** kein Kollaps, alle Zweige existieren.",
+        "stance": "cites"
+      },
+      {
+        "source": "Many-Worlds (Everett)",
+        "target": "De Broglie-Bohm",
+        "type": "contrasts_with",
+        "quote": "**Many-Worlds (Everett):** kein Kollaps, alle Zweige existieren.\n  - **De Broglie-Bohm:** deterministische Pilotwellen + Teilchen, kein Kollaps.",
+        "stance": "cites"
+      },
+      {
+        "source": "Standard-Sicht (für AEGIS)",
+        "target": "Witness-Funktion (für Juna)",
+        "type": "contrasts_with",
+        "quote": "**Standard-Sicht (für AEGIS):** Beobachtung = Messung = Kollaps. AEGIS' Kontrolle der Beobachtung *ist* seine Kontrolle der Realität.\n  - **Witness-Funktion (für Juna):** husserlianisch, kein Kollaps wird ausgelöst — Beobachtung ohne Eingriff. Das ist das Gegen-Modell zur AEGIS-Standardlesart.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beobachtung ohne Eingriff",
+        "target": "AEGIS-Standardlesart",
+        "type": "opposes",
+        "quote": "Das ist das Gegen-Modell zur AEGIS-Standardlesart.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Change",
+        "target": "Steadfast",
+        "type": "contrasts_with",
+        "quote": "MC Resolve | Change | Steadfast",
+        "stance": "asserts"
+      },
+      {
+        "source": "Start",
+        "target": "Stop",
+        "type": "contrasts_with",
+        "quote": "MC Growth | Start | Stop",
+        "stance": "asserts"
+      },
+      {
+        "source": "Be-er",
+        "target": "Do-er",
+        "type": "contrasts_with",
+        "quote": "MC Approach | **Be-er** | **Do-er**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Holistic",
+        "target": "Linear",
+        "type": "contrasts_with",
+        "quote": "MC Problem-Solving Style | Holistic | Linear",
+        "stance": "asserts"
+      },
+      {
+        "source": "Decision",
+        "target": "Action",
+        "type": "contrasts_with",
+        "quote": "Story Driver | Decision (konstant) | **Action (konstant)**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Optionlock",
+        "target": "Timelock",
+        "type": "contrasts_with",
+        "quote": "Story Limit | Optionlock | Timelock",
+        "stance": "asserts"
+      },
+      {
+        "source": "Success",
+        "target": "Failure",
+        "type": "contrasts_with",
+        "quote": "Story Outcome | Success | Failure",
+        "stance": "asserts"
+      },
+      {
+        "source": "Good",
+        "target": "Bad",
+        "type": "contrasts_with",
+        "quote": "Story Judgment | Good | Bad",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mind",
+        "target": "Universe",
+        "type": "contrasts_with",
+        "quote": "MC Domain | Mind (Fixed Attitude) | Universe (Situation)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Memory",
+        "target": "Progress",
+        "type": "contrasts_with",
+        "quote": "MC Concern | Memory | Progress",
+        "stance": "asserts"
+      },
+      {
+        "source": "Falsehood vs. Truth",
+        "target": "Fact vs. Fantasy",
+        "type": "contrasts_with",
+        "quote": "MC Issue | Falsehood vs. Truth | Fact vs. Fantasy",
+        "stance": "asserts"
+      },
+      {
+        "source": "Avoidance",
+        "target": "Logic",
+        "type": "contrasts_with",
+        "quote": "MC Problem | Avoidance | Logic",
+        "stance": "asserts"
+      },
+      {
+        "source": "Pursuit",
+        "target": "Feeling",
+        "type": "contrasts_with",
+        "quote": "MC Solution | Pursuit | Feeling",
+        "stance": "asserts"
+      },
+      {
+        "source": "Past",
+        "target": "Conscious",
+        "type": "contrasts_with",
+        "quote": "IC Concern | Past (Genesis-Krise) | Conscious",
+        "stance": "asserts"
+      },
+      {
+        "source": "Psychology",
+        "target": "Physics",
+        "type": "contrasts_with",
+        "quote": "OS Domain | Psychology (Manipulation Simulation) | Physics (kybernetischer Krieg)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Physics",
+        "target": "Psychology",
+        "type": "contrasts_with",
+        "quote": "RS Domain | Physics (Moonshine-Link) | Psychology (symbiotische Host/System-Manipulation)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Funktionale Multiplizität",
+        "target": "Final Fusion",
+        "type": "contrasts_with",
+        "quote": "Kael erreicht Funktionale Multiplizität (Kap 33), nicht Final Fusion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "externe Handlung",
+        "target": "internen Zustandswechsel",
+        "type": "contrasts_with",
+        "quote": "Kael löst nicht durch externe Handlung, sondern durch internen Zustandswechsel.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Be-er-Modus",
+        "target": "externe Handlung",
+        "type": "contrasts_with",
+        "quote": "Kael löst nicht durch externe Handlung, sondern durch internen Zustandswechsel",
+        "stance": "asserts"
+      },
+      {
+        "source": "externe Handlung",
+        "target": "internen Zustandswechsel",
+        "type": "contrasts_with",
+        "quote": "Kael löst nicht durch externe Handlung, sondern durch internen Zustandswechsel",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kontradiktionen löscht",
+        "target": "integriert",
+        "type": "contrasts_with",
+        "quote": "Wer Kontradiktionen löscht statt integriert, generiert die Entropie, die er bekämpft",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Antworten sind Aktionen",
+        "target": "Feeling",
+        "type": "contrasts_with",
+        "quote": "AEGIS bleibt Steadfast bei Logic, adoptiert nie Feeling",
+        "stance": "asserts"
+      },
+      {
+        "source": "A",
+        "target": "B",
+        "type": "in_tension_with",
+        "quote": "Auf jedem der acht Story-Dynamics-Pole stehen A und B in maximaler Inversion",
+        "stance": "asserts"
+      },
+      {
+        "source": "B aktiv",
+        "target": "A latent",
+        "type": "contrasts_with",
+        "quote": "B aktiv, A latent",
+        "stance": "asserts"
+      },
+      {
+        "source": "A wird operativ",
+        "target": "B noch im Stroke",
+        "type": "contrasts_with",
+        "quote": "A wird operativ; B noch im Stroke",
+        "stance": "asserts"
+      },
+      {
+        "source": "A im Decision-Zustand",
+        "target": "B mitten in der Aktion",
+        "type": "contrasts_with",
+        "quote": "A im Decision-Zustand; B mitten in der Aktion",
+        "stance": "asserts"
+      },
+      {
+        "source": "B exit",
+        "target": "nur A aktiv",
+        "type": "contrasts_with",
+        "quote": "B exit; nur A aktiv",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Stille (Beat 3)",
+        "target": "mystisch",
+        "type": "denies",
+        "quote": "Die Stille (Beat 3) ist nicht mystisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Pivot",
+        "target": "Driver-Flip",
+        "type": "contrasts_with",
+        "quote": "Pivot ≠ Driver-Flip.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hard-Routing per POV",
+        "target": "Soft-Layering",
+        "type": "contrasts_with",
+        "quote": "Default (~80% der Szenen): Hard-Routing per POV — eine Szene = eine dominante Storyform. Bridge-Szenen (~20%): Soft-Layering, beide Storyforms simultan, eine dominant, eine resonant.",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine dominant",
+        "target": "eine resonant",
+        "type": "in_tension_with",
+        "quote": "Soft-Layering, beide Storyforms simultan, eine dominant, eine resonant.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leser",
+        "target": "Empfänger",
+        "type": "contrasts_with",
+        "quote": "Der Leser ist nicht Empfänger, sondern operativer Bestandteil der Erzählmechanik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Empfänger",
+        "target": "operativer Bestandteil der Erzählmechanik",
+        "type": "contrasts_with",
+        "quote": "Der Leser ist nicht Empfänger, sondern operativer Bestandteil der Erzählmechanik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "außerhalb des Texts",
+        "target": "im Text",
+        "type": "contrasts_with",
+        "quote": "Die K₁-Substrat-Funktion des Lesers ist die letzte, im Text *außerhalb* des Texts kodierte Schicht",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁-Reorganisation",
+        "target": "Übergreifend (Synthese)",
+        "type": "complements",
+        "quote": "Kael (Host) | K₁-Reorganisation | Übergreifend (Synthese)",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁-Buffer (logisch)",
+        "target": "K₁-Buffer (somatisch/relational)",
+        "type": "contrasts_with",
+        "quote": "Lex | K₁-Buffer (logisch) | Kohärenz | ANP | Alex / Rhys / Selene | K₁-Buffer (somatisch/relational)",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁-Buffer (somatisch/relational)",
+        "target": "K₀-Träger",
+        "type": "contrasts_with",
+        "quote": "Alex / Rhys / Selene | K₁-Buffer (somatisch/relational) | Kohärenz | ANP | Nyx / Kiko / Lia / Isabelle / Moros | K₀-Träger",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Oblivion",
+        "type": "contrasts_with",
+        "quote": "Silas | Coheron-Echo | Korrespondenz-Resonanz | Spiegel | KW3–KW4 | Atemporal-intern | Oblivion | Erason-Operator | Kohärenz-Werkzeug | Spiegel | KW1–KW3",
+        "stance": "asserts"
+      },
+      {
+        "source": "außerhalb TSDP",
+        "target": "Spiegel-Doppel von Kael auf System-Ebene",
+        "type": "complements",
+        "quote": "AEGIS | K₀-Architektur (Truth-Rotation) | Gescheiterter Kohärentist | außerhalb TSDP (Spiegel-Doppel von Kael auf System-Ebene)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lebende Reliquie ohne Selbstreferenz",
+        "target": "vollständige Erlöschen mit kontinuierlicher Funktion",
+        "type": "opposes",
+        "quote": "Lebende Reliquie ohne Selbstreferenz, oder vollständige Erlöschen mit kontinuierlicher Funktion?",
+        "stance": "asks"
+      },
+      {
+        "source": "nur mutuale Information / Witness",
+        "target": "keine Daten / Materie",
+        "type": "contrasts_with",
+        "quote": "Vorgeschlagen: nur mutuale Information / Witness, keine Daten / Materie.",
+        "stance": "hedges"
+      },
+      {
+        "source": "vollständige Algorithmen",
+        "target": "gibt es Anzeichen interner Spaltung",
+        "type": "opposes",
+        "quote": "Sind sie vollständige Algorithmen oder gibt es Anzeichen interner Spaltung?",
+        "stance": "asks"
+      },
+      {
+        "source": "in A direkt IC",
+        "target": "in B nur indirekt",
+        "type": "contrasts_with",
+        "quote": "Juna ist in A direkt IC, in B nur indirekt (über Kaels strukturelle IC-Funktion).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dissoziation",
+        "target": "Amnesie-Terror",
+        "type": "contrasts_with",
+        "quote": "**Dissoziation = Amnesie-Terror**, nicht Crew-Menü.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Theorie ohne emotionale Konsequenz",
+        "target": "emotionale Charakterlogik",
+        "type": "opposes",
+        "quote": "**Egan-Falle vermeiden:** Theorie ohne emotionale Konsequenz = Warnsignal.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akt I",
+        "target": "Akt II",
+        "type": "contrasts_with",
+        "quote": "**Akt I:** fragmentiert, staccato; Lex hypotaktisch, Nyx staccato, Kiko kindlich.\n  - **Akt II:** Übergang, Dialog zwischen Stilen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akt II",
+        "target": "Akt III",
+        "type": "contrasts_with",
+        "quote": "**Akt II:** Übergang, Dialog zwischen Stilen.\n  - **Akt III:** chorisch, Wir-Stimme tritt auf.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ebene 1 (KW1)",
+        "target": "Ebene 2 (KW2–KW3)",
+        "type": "contrasts_with",
+        "quote": "**Ebene 1 (KW1):** kalt, steril, assertorisch, Metaphernverbot.\n  - **Ebene 2 (KW2–KW3):** heiß, fragmentiert, Trigger kollidieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ebene 2 (KW2–KW3)",
+        "target": "Ebene 3 (KW4 / Juna)",
+        "type": "contrasts_with",
+        "quote": "**Ebene 2 (KW2–KW3):** heiß, fragmentiert, Trigger kollidieren.\n  - **Ebene 3 (KW4 / Juna):** poetisch, atemporal, zeit-fluide.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Antagonist im Genre-Sinn",
+        "target": "tragische Verkörperung eines ontologischen Fehlers",
+        "type": "contrasts_with",
+        "quote": "AEGIS ist kein Antagonist im Genre-Sinn, sondern tragische Verkörperung eines ontologischen Fehlers.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Symbole für „Persönlichkeitsanteile, die wir alle haben“",
+        "target": "diagnostisch konkret und phänomenologisch genau",
+        "type": "contrasts_with",
+        "quote": "Kaels Alters sind nicht Symbole für „Persönlichkeitsanteile, die wir alle haben“ — sie sind diagnostisch konkret und phänomenologisch genau.",
+        "stance": "asserts"
+      },
+      {
+        "source": "mehrere parallele Realitäten",
+        "target": "eine Realität mit verschiedenen Logikregimen",
+        "type": "contrasts_with",
+        "quote": "Es gibt nicht mehrere parallele Realitäten, durch die Kael reist; es gibt eine Realität mit verschiedenen Logikregimen (KW1–KW4).",
+        "stance": "asserts"
+      },
+      {
+        "source": "emotionale Bewegung",
+        "target": "physikalische Tatsache (Coheron)",
+        "type": "contrasts_with",
+        "quote": "Die „Liebe“ Kael/Juna ist physikalische Tatsache (Coheron), keine emotionale Bewegung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verlauf",
+        "target": "Ende",
+        "type": "contrasts_with",
+        "quote": "Sie ist *Ende*, nicht *Verlauf*.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Heilwerden",
+        "target": "Funktionale Multiplizität",
+        "type": "contrasts_with",
+        "quote": "Funktionale Multiplizität ist kein „Heilwerden“.",
+        "stance": "denies"
+      },
+      {
+        "source": "die Trennung als illusionär",
+        "target": "den Schmerz als wirklich",
+        "type": "in_tension_with",
+        "quote": "Dieser Roman lässt die Trennung als illusionär stehen *und* den Schmerz als wirklich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennung als illusionär",
+        "target": "Schmerz als wirklich",
+        "type": "in_tension_with",
+        "quote": "Dieser Roman lässt die Trennung als illusionär stehen *und* den Schmerz als wirklich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennung",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Wie kann der Schmerz wirklich sein, wenn die Trennung es nicht war?",
+        "stance": "asks"
+      }
+    ]
+  }
+}
