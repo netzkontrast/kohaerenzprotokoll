@@ -437,7 +437,7 @@ corpus text goes to a third party — the readers stay Claude.
 | 1 | `scripts/runlog.py` — phases, readers' usage, the review's corrections; `state.py` measures `runs.*` |
 | 2 | the per-document history in `Plan/runs/reading-log.md`, the install detail in `.agents/skills/tools/references/install.md`; CLAUDE.md 112,437 → about 57k characters, NOW.md 133,693 → about 79k |
 | 3 | `read.py --count` and count marks checked by `quotes.py` (1,139 unmarked absence phrases, a backlog); `lint_readings.py`; `wiki_index.py --check` / `--fix-frontmatter` (16 pages re-derived); `account.py order` fails a reconciliation with no census |
-| 4 | `digest.py`, `readings.py`, `.claude/agents/wiki-reader.md`; the pilot on documents 48–50 met its bar — F1 0.89, 0 unresolved (`Plan/runs/pilot-48-50/`) |
+| 4 | `digest.py`, `readings.py`, `.claude/agents/wiki-reader.md`; the pilot on documents 48–50 met two of its four bars — F1 0.89 and 0 unresolved — and not the other two: 11 unchecked quotations on 7 pages, and no review to count corrections against (`Plan/runs/pilot-48-50/`; this row said „met its bar“ until the review of 2026-09-30). `readings.py` now refuses an uncited quotation, a link to no page, a wrong date or heading, and writes only what its checks passed |
 | 5 | practice, now in the `ingest` and `tools` skills: batches by page group, reader files, the run log |
 | — | the raw qmd answers beside their run (chapter pages 3.18 → 1.25 MB); `install.sh --session` at session start |
 
