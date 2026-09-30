@@ -10,7 +10,9 @@ standing of what `ask` writes. This module builds and reads `Plan/derived/ask.db
   `READ` the documents their reading headings name; the decision sheets as
   `Sheet` nodes that `DEPEND_ON` what their head's `hängt_ab_von` names;
 - **the proposal graph** — verified entity lists as `Entity` nodes with
-  `P_NAMED_IN` edges (a model chose the name, code placed the line). Every
+  `P_NAMED_IN` edges (a model chose the name, code placed the line); `P_BM25`
+  edges from a page or a line to a line that shares its words and writes none of
+  its names (`bm25rel.py`), each with the verdict a reader gave it. Every
   proposal relation type starts with `P_`, and no query for stated facts names one;
 - **full text** — `lines`: every non-empty line of every landed document;
   `quotes`: every verified quotation on a term page. FTS5, `bm25()` ranking,
@@ -259,6 +261,15 @@ def collect() -> dict:
             nodes[key] = val
     edges += [e for e in mech["edges"] if e[0] in nodes and e[1] in nodes]
 
+    # the BM25 relation (bm25rel.py): a line that shares a name's words and writes none
+    # of its surfaces — found by code, judged by a reader, never a count or a merge
+    import bm25rel
+    for r in bm25rel.relations():
+        if r["source"] in nodes and r["target"] in nodes:
+            edges.append((r["source"], r["target"], {
+                "id": r["id"], "query": r["query"], "score": r["score"], "rank": r["rank"],
+                "method": r.get("method", "bm25"), "verdict": r["verdict"]}, "P_BM25"))
+
     quotes = [(ev["doc"], ev["line"], ev["quote"], page)
               for page, evs in g.get("evidence", {}).items()
               for ev in evs if ev.get("status") == "verified" and ev.get("doc")]
@@ -345,7 +356,7 @@ INPUTS = ("Sources/manifest.jsonl", "Sources/duplicates.jsonl", "Sources/drive/*
           "Plan/weichen/*.md", "Plan/entities/**/*", "scripts/askdb.py", "scripts/askextract.py",
           "scripts/graph.py", "scripts/kg.py", "scripts/quotes.py", "scripts/subject.py",
           "scripts/wiki_index.py", "scripts/capture.py", "scripts/read.py", "scripts/entities.py",
-          "scripts/graphrag.py")
+          "scripts/graphrag.py", "scripts/bm25rel.py", "Plan/runs/bm25/*.jsonl")
 
 
 def inputs(root=ROOT):
