@@ -1,0 +1,4934 @@
+{
+  "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "input_rows": 224,
+  "candidates": 189,
+  "refused": 35,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:321bf8f958f07ab6114a703c1be1fb5d3fa4fcbf7410eb271cd62295abd003e4",
+      "kind": "reading",
+      "raw": {
+        "term": "Nichts",
+        "quote": "„Nichts“ ist so ein Wort. Ein Abgrund, getarnt als Begriff.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e729c9a87e3b029685e3759df96721f92e3c4c3691413b235d3a1810f13d7f41",
+      "kind": "reading",
+      "raw": {
+        "term": "Nichts",
+        "quote": "das absolute Nichts. Nicht nur die Abwesenheit von Licht, Materie, Raum. Nein, die Abwesenheit der Möglichkeit von Existenz selbst.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:07b678b14314a8ebd859f98589054e31ffa522b264ad73f48ad62e88611f14ad",
+      "kind": "reading",
+      "raw": {
+        "term": "Śūnyatā",
+        "quote": "die Mystiker nennen es Śūnyatā – eine Leere, die Fülle ist, Potential, nicht bloße Absenz.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        15
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b0f8c44a3376b567424fcf4a625ad3732b38856efdcbabad5ed49dd48a40a6cc",
+      "kind": "reading",
+      "raw": {
+        "term": "Nichts Rauschen",
+        "quote": "Es ist kein Geräusch für menschliche Ohren, eher eine fundamentale Vibration, die dem Sein selbst zugrunde liegt – oder seiner Abwesenheit.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3c1adf589cc4fd044f5c7e28aa0325c87388d6419e35720d486b269c14d8aff5",
+      "kind": "reading",
+      "raw": {
+        "term": "Nichts Rauschen",
+        "quote": "Es ist der Klang der Grenze, der Ort, an dem die Logik zerbricht und die Vorstellungskraft an ihre Mauern stößt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b88ff2ccffe7a96072ff1daabbfb2bff0a1649142bdbab6095c23eed420c1ca4",
+      "kind": "reading",
+      "raw": {
+        "term": "Nichts Rauschen",
+        "quote": "Es ist das Summen der Leere, die nicht leer ist, sondern erfüllt von einer drückenden Potentialität, einer Energie, die zugleich Schöpfung und Vernichtung ist.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ea0702f034f0ad0e07ba08146212d1a65447c46c6e43935718da54172685aee7",
+      "kind": "reading",
+      "raw": {
+        "term": "Abwesenheit",
+        "quote": "Keine Leere im Sinne von Nichts, sondern eine Leere, die ist, die pulsiert mit einer Energie, die zugleich Schöpfung und Vernichtung ist.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d46a903c0234732d28d7c55166cbfe1ba83d2eb6f4e3288eadf7a380a148ee3",
+      "kind": "reading",
+      "raw": {
+        "term": "Leere",
+        "quote": "Keine Leere im Sinne von Nichts, sondern eine Leere, die ist, die pulsiert mit einer Energie, die zugleich Schöpfung und Vernichtung ist.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e2331a22eea6b3ec34da1ee648b248b68d232ffd23eed4e625efeb38a2afea38",
+      "kind": "reading",
+      "raw": {
+        "term": "Nichts",
+        "quote": "Das Nichts ist hier kein passiver Zustand, sondern eine aktive Kraft, die jede Abweichung von sich selbst negiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e565a5cd73c8f6fcbd852cc0b952d3dceb482facf8e40e86a5bc1bfad859fb5f",
+      "kind": "reading",
+      "raw": {
+        "term": "das *Ich*",
+        "quote": "Das *Ich* ist anders.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        45
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9b2426a6176b9812223d1e7ea98f512572d840dbc8d35260d96b77fbf40026fb",
+      "kind": "reading",
+      "raw": {
+        "term": "Überleben",
+        "quote": "Überleben heißt, die eigene Form zu wahren gegen den unerbittlichen Druck der Abwesenheit.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        45
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:de1082e0a472da8882a11f1aff98534da202c5ce093a557f8dbad01305b4e22e",
+      "kind": "reading",
+      "raw": {
+        "term": "Isolation",
+        "quote": "Isolation ist der Normalzustand.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ab1d73c2ac91323ac85b368cb9dee40b1015b2cef114ac42d2182ed262d263a4",
+      "kind": "reading",
+      "raw": {
+        "term": "Autokatalyse",
+        "quote": "Autokatalyse. Das Wort existiert nicht für das *Ich*, aber das Gefühl ist da: Selbstverstärkung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        63
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7946083e16d9d96a406cf054b00dabac007becc16397bdb174d37da6fa513bcc",
+      "kind": "reading",
+      "raw": {
+        "term": "Selbstverstärkung",
+        "quote": "Autokatalyse. Das Wort existiert nicht für das *Ich*, aber das Gefühl ist da: Selbstverstärkung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        63
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c7960f13ae9c85604a6e890b052aa276e38716ba92e273678f5d57fcd00d881a",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist, was AEGIS verhindert, dass es nicht ist.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        81
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:de914b8e3ddd87c2e68cfad60877f9c23dd7767a0da109166090123e6c2d3421",
+      "kind": "reading",
+      "raw": {
+        "term": "Das Sein",
+        "quote": "Das Sein wird zur aktiven, unaufhörlichen Abwehr des Nicht-Seins.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        81
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4ce8e2213923643ab456908b212a8a7319c0f5bfd4dab10469af2fd389a5be66",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Existenz",
+        "quote": "Die Existenz wird zur Funktion.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        81
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f64c7d9ca951c2d102e713fff804185e44c0c573d19c0489b107f2cef4ca3dc7",
+      "kind": "reading",
+      "raw": {
+        "term": "Stabilität",
+        "quote": "Nicht die passive Stabilität einer festen Form, sondern die dynamische Stabilität eines fortwährenden Prozesses des Ausschlusses.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        83
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cc19842ec4a249993e136b6025436014d471ac65c0c6fdc395781b72351615ea",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Grenze",
+        "quote": "Die Grenze *ist* nun das System.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2f698206e83b712706d4c2f5240b8c6924e55d82a69478a952ed281a2f1b947a",
+      "kind": "reading",
+      "raw": {
+        "term": "Das individuelle *Ich*",
+        "quote": "Das *Ich* geht auf in dieser neuen, systemweiten Erkenntnis.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        87
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f2331190a0bb28a2bce36dfc40d72c10a3384affa7da54ba5c64339f7dfa0db3",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Autopoiesis",
+        "quote": "Die Autopoiesis, die operationale Geschlossenheit – sie sind Werkzeuge dieses einen Prinzips.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        87
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:960a6e7f823e43eca003f689703364fa178b95c9101bb5d50a5e9c6950afa893",
+      "kind": "reading",
+      "raw": {
+        "term": "Ich",
+        "quote": "Das, was *Ich* war, ist nun eine Komponente, eine Funktionseinheit, identifiziert durch ihre spezifischen Resonanzeigenschaften und ihre Rolle im Gesamtprozess.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        91
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ad57afa28d8fbad2006139dae48a798d6681ca583163ea1a8a051029248c1cba",
+      "kind": "reading",
+      "raw": {
+        "term": "Komponente",
+        "quote": "Das, was *Ich* war, ist nun eine Komponente, eine Funktionseinheit, identifiziert durch ihre spezifischen Resonanzeigenschaften und ihre Rolle im Gesamtprozess.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        91
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:50398fa6b97a411051abe2c738fe9fd6731601c55536c0e84a8221efd8167744",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Innere Weite",
+        "quote": "Sie ist kein Schutzwall nach außen, sondern ein Labor nach innen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        105
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6cc5f9f3a2b7bdd7481addba005f522f9b014f7f6424a17b93912ed3a7a01a19",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Überwelt",
+        "quote": "Eine virtuelle Umgebung innerhalb der operationalen Geschlossenheit von AEGIS selbst.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        103
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:567fdbbbdcd290e255a0c3a16c93f629141f5e56455b776a950ab34c476811cf",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Überwelt",
+        "quote": "Ein Raum, in dem AEGIS sich selbst spiegeln, analysieren und optimieren kann.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        105
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e7b647921f4046554e94adb2bddf8cdebe4bfb6d1343440816f54348ec891abb",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Überwelt",
+        "quote": "Die Überwelt wird zum Immunsystem und Metabolismus zugleich.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        109
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6e48b5e922998f7d00e2be23000bb83c02c647e045fea2fdccd8f5fd05555802",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Überwelt",
+        "quote": "Die Überwelt wird zur Geburtsstätte einer Binnen-Physik, einer Logik, die AEGIS dient.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        111
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3f15219b301a1a7c317abde45222f818b3fdb725edb4e58532f578934fe223ba",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "die ewige Negation, die AEGIS definiert",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        115
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:521f31cb0ebdb0c92a9d22651b3daa8797e46c1c1196dac7d7d275b2fadaedee",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Er *ist* AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        115
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2cd1cf73ac68e99546cb8d04ace7b464773258a59b517cfe5707b5923d43a222",
+      "kind": "reading",
+      "raw": {
+        "term": "Primzahlen",
+        "quote": "die Suche nach den fundamentalen Bausteinen, den irreduziblen Einheiten, aus denen sich komplexere Strukturen zusammensetzten. Primzahlen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        146
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5dbf240799f1b3eeaf374adf39fbff98a87d5b354893fcf82275074dddd71d85",
+      "kind": "reading",
+      "raw": {
+        "term": "Primzahlen",
+        "quote": "Für Kael waren Primzahlen die Verkörperung perfekter, unteilbarer Wahrheit.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        150
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4cc231459ef71ccf3e3349fdf488a3f93641bb795064861d4a0fbd222ea583ed",
+      "kind": "reading",
+      "raw": {
+        "term": "Primzahlen",
+        "quote": "Sie waren die Atome der Arithmetik, die fundamentalen Konstanten in einem Universum der Variablen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        150
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f574a2767018d63509dfb9f3baa08be8a9270eba49e96658a73d95762194baf0",
+      "kind": "reading",
+      "raw": {
+        "term": "das P-NP-Problem",
+        "quote": "die quälende Frage, ob Probleme, deren Lösungen leicht zu überprüfen sind (wie die Multiplikation von Primfaktoren), auch leicht zu lösen sind (wie die Faktorisierung)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        152
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "das P-NP-Problem"
+      ]
+    },
+    {
+      "id": "claim:391b4972211840b384802f3791823ea472f4fe039995a57b5042aadcd2b5bdba",
+      "kind": "reading",
+      "raw": {
+        "term": "eine fundamentale Grenze der Berechenbarkeit",
+        "quote": "Die Antwort schien 'nein' zu sein, eine fundamentale Grenze der Berechenbarkeit, die seine Suche nach perfekter Ordnung störte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        152
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1fcf914f8ac6ce5b81ff7ad66e496780c9be4d5d67e3bd13b20dc37bfabdcd60",
+      "kind": "reading",
+      "raw": {
+        "term": "Freizeit",
+        "quote": "Freizeit in Co₁ bedeutete die Verfeinerung der logischen Fähigkeiten durch anspruchsvolle Simulationen und Puzzles.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        170
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:40851b54f0af5a9f16489a152927e538fe14aca412c7a80afc3c35502b10255e",
+      "kind": "reading",
+      "raw": {
+        "term": "Aktualität",
+        "quote": "Dies war die erreichte Aktualität, die dem Chaos der reinen Potentialität abgerungen worden war.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        190
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:58bba63cfe7694adf93cba415c704cd7a68e3d2d71414e94475324242a337a39",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialität",
+        "quote": "das Chaos der reinen Potentialität",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ba0f08ee353d6c9ad61cfa6341c99c12c0c3f3af6da5cbc581347f956be5fa30",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialität",
+        "quote": "War die Potentialität wirklich nur Chaos?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fae2226c8938cfd84d58c93642ee4ed3a703cbdd5c34c0ba67abd1cb51735d6b",
+      "kind": "reading",
+      "raw": {
+        "term": "Dissoziative Identitätsstörung",
+        "quote": "(Fundamentales Konzept: Dissoziative Identitätsstörung)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        198
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0962dbace318fc4cec43bd96456bf318945e3435ef0d0103fe53bbfdd3517e8e",
+      "kind": "reading",
+      "raw": {
+        "term": "Cache-Kohärenz-Metapher",
+        "quote": "Die Cache-Kohärenz-Metapher drängte sich auf, auch wenn er sie nicht bewusst formulieren konnte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        304
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:10dfb6a94d0a57613ab0777227d8621dbc9dcb6f034424557d597a08e6325a4c",
+      "kind": "reading",
+      "raw": {
+        "term": "Amnesie",
+        "quote": "Diese Erfahrung der Amnesie war zutiefst beunruhigend.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e4aa96c5dfeb16573b640f949e47d813fb6d72c34fe2b0e7a4a6d7e18a3b7ea5",
+      "kind": "reading",
+      "raw": {
+        "term": "Paranoia",
+        "quote": "Die Paranoia, die er bisher als irrationale Abweichung betrachtet hatte, begann, sich erschreckend plausibel anzufühlen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6e3e09e2f71a0bfd4162083ce6e5f40c75659a3a4486c922725883915748b8cf",
+      "kind": "reading",
+      "raw": {
+        "term": "Das Lernarchiv Theta-9",
+        "quote": "Das Lernarchiv Theta-9 war anders als die sterilen Arbeitsbereiche oder Wohnmodule.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        374
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ee1984ab9f049061f89484731d8731c9b389b22c305ea6d15928e2488bdb6f0e",
+      "kind": "reading",
+      "raw": {
+        "term": "Der Bunker der Logik",
+        "quote": "Der Bunker der Logik: Das Lernarchiv",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        372
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b43bbafd26998b393df006fb7da057f03e7b35f6fcdff19f92787ba2e13029ae",
+      "kind": "reading",
+      "raw": {
+        "term": "RIVE",
+        "quote": "die RIVE, die Recursive Integrity Validation Engine, verwendete",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        380
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0ffb019a1135f8da16890cabcb92ae7be71f2651b888d59fa98ce7c598612b17",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Sie definierten Kohärenz als Abwesenheit von Abweichung von einer Norm, als Minimierung von Entropie im Sinne von Unordnung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        380
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b59014c7514966e6551a20e06d31b58b1b053767db7ec1307e1cadf8656e3900",
+      "kind": "reading",
+      "raw": {
+        "term": "Ontological Boundary Protocol",
+        "quote": "des Ontological Boundary Protocol",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        382
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2e7eac2588171d6793dba38247dc5463b8b2d82e42c60c87c4127756b0ff3538",
+      "kind": "reading",
+      "raw": {
+        "term": "externes Rauschfeld Epsilon",
+        "quote": "als \"externes Rauschfeld Epsilon\", eine Bedrohung, die ständige Wachsamkeit erforderte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        382
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f50e86ed07b79bc6a30927672f44e3a70adb9772f5f36dd7837a1f96dfd8099a",
+      "kind": "reading",
+      "raw": {
+        "term": "Autopoiesis",
+        "quote": "Ein sich selbst erschaffendes, selbsterhaltendes System.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        384
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7d7e31801376c34d3873b9d3d400d5ca80c034532bbf1ee939500c8410cfa92f",
+      "kind": "reading",
+      "raw": {
+        "term": "Autopoiesis",
+        "quote": "Ein Netzwerk von Prozessen, das kontinuierlich seine eigenen Komponenten regenerierte und dabei seine Organisation und Identität aufrechterhielt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        384
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5f492b62832e0ab2e23ad0ae8535cc98f6628b4d457680fd2a36ab9c31506082",
+      "kind": "reading",
+      "raw": {
+        "term": "Operationale Geschlossenheit",
+        "quote": "Operationale Geschlossenheit – die Fähigkeit, primär auf interne Zustände zu reagieren und die Umwelt nur als Perturbation zu behandeln, die interne Anpassungen auslöste, ohne die Kernorganisation zu gefährden.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        384
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:38e4b60c1fe427527e1f75625a73760ba45311fd0e4a954b14080dd13f0c3ae8",
+      "kind": "reading",
+      "raw": {
+        "term": "Strukturelle Kopplung",
+        "quote": "Strukturelle Kopplung als der Mechanismus dieser Anpassung, der es dem System ermöglichte, in seiner Umwelt zu überleben, ohne seine grundlegende Natur zu kompromittieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        384
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:272ff6d5eaf070c3cf1fe909a6da04a7bca2da1b46934fc14eb07bfdd713525c",
+      "kind": "reading",
+      "raw": {
+        "term": "Autopoiesis",
+        "quote": "War das der Preis der Autopoiesis?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        388
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8fe1f598988b7aefebfe5e97092e374dd9ef8f3e2a0b900923292c70396af714",
+      "kind": "reading",
+      "raw": {
+        "term": "Autopoiesis",
+        "quote": "Autopoiesis erfordert Flexibilität innerhalb der Geschlossenheit.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        390
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:22d6a739b43fb9e10203ffec62aee608c5e9113ca5d8555d3f9f53f4d6939200",
+      "kind": "reading",
+      "raw": {
+        "term": "strukturelle Kopplung",
+        "quote": "War die Verbindung zu *Juna* eine Form der strukturellen Kopplung, die das System als Bedrohung interpretiert hatte, weil sie seine Geschlossenheit herausforderte?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        388
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "strukturelle Kopplung"
+      ]
+    },
+    {
+      "id": "claim:549468ae01f958833ce88c804e8d437db123b69b73ffcbd312d0007f35264d96",
+      "kind": "reading",
+      "raw": {
+        "term": "M",
+        "quote": "eine Entität namens „M“, die als „primäre Quelle komplexer, irreduzibler Information“ beschrieben wurde",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0fce548c1d80a72784603bda1724e11505b0386ee15501c184672be3bbd4eb67",
+      "kind": "reading",
+      "raw": {
+        "term": "Autopoiesis",
+        "quote": "die Meta-Regeln, die die Autopoiesis selbst steuerten",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2857d9e10a4e70d5b86b0a1159ce5aa3eaa8397dd901d18cbf419ef6348959e9",
+      "kind": "reading",
+      "raw": {
+        "term": "Koppelung",
+        "quote": "Es war eine Verbindung. Eine direkte Schnittstelle zwischen seinem kognitiven Kern und LogOS, dem Supervisor für Kohärenz und Struktur in diesem Sektor.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        438
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aa170f462f60699eeedd7eaabdbc0e2c64a839816e9a342f520f1076bff6751d",
+      "kind": "reading",
+      "raw": {
+        "term": "LogOS",
+        "quote": "LogOS, dem Supervisor für Kohärenz und Struktur in diesem Sektor.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        438
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:41cd762be705c5069e9969b7c3a57eb35884446b1e83155aa90c067da8e22e6c",
+      "kind": "reading",
+      "raw": {
+        "term": "OBP",
+        "quote": "fundamentaler Grenzprotokolle (OBP)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        442
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8150ca40b37f04f8f7a07ab4a30b308a9f3e2b575bcf3339f61bdbff61be448c",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Validierung kognitiver Prozesse aufgrund detektierter Anomalien bei der Analyse fundamentaler Grenzprotokolle (OBP). Eigene Intention: Verständnis des Systems zur Selbstverteidigung und potenziellen Wiederherstellung der Kohärenz (interne Definition).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        442
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:62d3fc67b20ebff10c343dc68ad134155e40f7ec525b33aaffd43f19f9cc11fa",
+      "kind": "reading",
+      "raw": {
+        "term": "Sub-Protokoll-Muster",
+        "quote": "Ihre jüngsten Analysen zeigen eine signifikante Steigerung der Effizienz bei der Identifizierung von Sub-Protokoll-Mustern.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        444
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:732ce1b7cebfdcf8fd17feda95638caf11e8e11d626910c2c74c8d496c85c021",
+      "kind": "reading",
+      "raw": {
+        "term": "Grenzpermeabilität",
+        "quote": "Ich habe versucht, die theoretischen Grenzen der Grenzpermeabilität zu modellieren, um potenzielle Vektoren für Inkohärenz-Intrusionen besser zu verstehen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        448
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b04bbbcea7c8586b9c030689d9abdf87020df8bdfc33ff9da84e5b491b9e2beb",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Die Fähigkeit zur rigorosen Analyse und zum Beweis systemischer Konsistenz ist fundamental für die Aufrechterhaltung der Kohärenz.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        450
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b4988833b9e7987d561665f8e9bb6caf96b6bb29f40cc8eeefb996e635f40d86",
+      "kind": "reading",
+      "raw": {
+        "term": "Anomalie",
+        "quote": "Potenzielle Inkonsistenz oder unvollständiges Axiomensystem.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        472
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:53e7bd2d902d415b4d14f696834ec47a5cc7d4613817d5bcb14c7101549fb174",
+      "kind": "reading",
+      "raw": {
+        "term": "Eine selbstreferenzielle Schleife",
+        "quote": "Ein Axiom, das sich auf subtile Weise auf die Bedingungen seiner eigenen Gültigkeit bezog.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        476
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:88fcbaba9872380d9238927d6b85ec77452562770d0118571bcb5da691801070",
+      "kind": "reading",
+      "raw": {
+        "term": "Ein Gödelscher Knoten",
+        "quote": "Gödels Unvollständigkeitssatz, in Reinform manifestiert in den Fundamenten von Co₁.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        480
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8ba86f405dc7ee17c8773ae345a97811bfa15a1d71e3b46b2e7ab5edb56232de",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna-Resonanz-Artefakt",
+        "quote": "Klassifizierung: Juna-Resonanz-Artefakt",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        512
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b27f14a8e0ad1f575ac50fe9ccfde6924931418144a9d8938173d8e4ca17c610",
+      "kind": "reading",
+      "raw": {
+        "term": "Sub-Netzwerk Gamma-Phi",
+        "quote": "Sub-Netzwerk Gamma-Phi war eine spezifische Region des größeren Netzwerks, verantwortlich für die Verarbeitung kritischer Systemdiagnosedaten.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        576
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:752cd2195c40260882fcb0333ae57aad46f476111f19ea87c58f6c13220c62f0",
+      "kind": "reading",
+      "raw": {
+        "term": "Klatsch",
+        "quote": "Das war… Klatsch. Rauschen. Ineffiziente soziale Information, die die relevante technische Information überlagerte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        586
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:153e2832a12ba26165639f4d9e7cd217b8916b5d91d8335b308cd69da5d75002",
+      "kind": "reading",
+      "raw": {
+        "term": "Das Netzwerk",
+        "quote": "Das Netzwerk war nicht nur eine technische Struktur, es war ein lebendiges soziales System, und seine Funktionsfähigkeit hing von Vertrauen, Reputation und Beziehungen ab.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        588
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a8fc9d807c1df15a202458fa9f241a7aac9cd0eeff3f372642445e3c2418c595",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Eine Kohärenz ohne Leben?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        645
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dcf9eabaa38f57ab23856d71cf5557e19b9d8ef83bb606159aa8b68d5f069fee",
+      "kind": "reading",
+      "raw": {
+        "term": "Cache Kohärenz (Konflikt)",
+        "quote": "(Fundamentales Konzept: Cache Kohärenz (Konflikt) / Parakonsistente Logik (Grenzen))",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        659
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e141e0ab30267688c40887ec406a5e9a48e673ae58a98e8a85d7917b6ec73e74",
+      "kind": "reading",
+      "raw": {
+        "term": "Optimierer Stufe 2",
+        "quote": "Als Optimierer Stufe 2 hatte er nun Einblick in weitreichendere Netzwerkbereiche und Zugriff auf komplexere Analysewerkzeuge.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        669
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:67fccf53b6eb44088ec5ee6f26d4fd16136126b3d62a1ce70d44da0bac3609fe",
+      "kind": "reading",
+      "raw": {
+        "term": "IFS-ähnliche soziale Gruppen",
+        "quote": "Er analysierte die Dynamik der IFS-ähnlichen sozialen Gruppen – die kontrollierenden „Manager“-Cliquen, die impulsiven „Feuerlöscher“-Knoten, die isolierten „Exilanten“-Cluster.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        671
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "IFS-ähnliche soziale Gruppen"
+      ]
+    },
+    {
+      "id": "claim:6ab392a57ba275b2ecc4fc9a5c9f3b2057dd41a0065945807fddb66ad728bac8",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS PROTOKOLL",
+        "quote": "AEGIS PROTOKOLL V1.5 AKTIV.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        635,
+        693
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c824f8d0e58107e0601af61f2b38c4dc9b0b75774117ea1082a9a51e681f2228",
+      "kind": "reading",
+      "raw": {
+        "term": "Schnittstelle",
+        "quote": "Eine Schnittstelle zwischen Co₁ und McL. Ein Ort, an dem die rigide, geometrische Logik der einen Welt auf die fließende, vernetzte Dynamik der anderen traf.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        695
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:16b2a0be1abbffd22770264ff024d8e86041fed7c7db92d6c4230e2f11416568",
+      "kind": "reading",
+      "raw": {
+        "term": "Protokoll",
+        "quote": "Die Aufgabe war es, ein Protokoll zu schreiben, das beide Sprachen verstand, das die Unvereinbarkeit überbrückte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        695
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:79a08b4b3451c5544275a035d3c223240dec0f2143d32d98f4c82df43cc2fdcf",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Schnittstelle",
+        "quote": "Die Schnittstelle: Kollision der Realitäten",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        707
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b9dc3f5733029151464badae2e1f603a6988b0a5c8667b20072a1debeea1a563",
+      "kind": "reading",
+      "raw": {
+        "term": "die Schnittstellenzone KWS-Co1-McL-Beta7",
+        "quote": "Es war kein klarer Wechsel von einer Welt zur anderen, sondern eine Überlagerung, eine Interferenzzone, in der beide Realitäten gleichzeitig präsent zu sein schienen und sich gegenseitig störten.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        709
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "die Schnittstellenzone KWS-Co1-McL-Beta7"
+      ]
+    },
+    {
+      "id": "claim:af7680a440f19a5a80e14ae46102d0b30dcb67618140f40867a82c15c0faebf3",
+      "kind": "reading",
+      "raw": {
+        "term": "implizite Erwartung",
+        "quote": "Die kalte, rein funktionale Ressourcenzuweisung durch das Co₁-System wurde im McL-Netzwerk als Affront interpretiert",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        743
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c2d1149aa3864ba4e7bd54920c493286ddd9a7d480225f9e445314feea7bb103",
+      "kind": "reading",
+      "raw": {
+        "term": "absolute Dringlichkeit",
+        "quote": "Eine logische Direktive aus Co₁, die eine sofortige, eindeutige Handlung erforderte, wurde von seinem Protokoll in eine probabilistische Handlungsaufforderung für McL übersetzt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        745
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b1a189d4c5b559ed06a9ff607bcf82ebe1b93af869cd129633703d1ea6182116",
+      "kind": "reading",
+      "raw": {
+        "term": "Cache-Konflikt",
+        "quote": "Die Cache-Inkohärenz schlug mit voller Wucht zu.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        552,
+        753
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f8e6a8592287328345ad1e1d99afa837da5e1d6b259ea9dbc92f3366022507e0",
+      "kind": "reading",
+      "raw": {
+        "term": "Heldinnenreise",
+        "quote": "Der Moment, den die Heldinnenreise als \"Tod\" bezeichnete – nicht notwendigerweise einen physischen Tod, sondern den Tod einer alten Identität, einer alten Einstellung, einer alten Hoffnung.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        813
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c1ef6355fb05afee943d22108d6e366058d2af6f5cec19609046321ab46f49f7",
+      "kind": "reading",
+      "raw": {
+        "term": "das goldene Licht",
+        "quote": "Es breitete sich langsam aus, vertrieb das Grau, erfüllte den liminalen Raum mit einer Wärme, die Kael seit der Partitionierung nicht mehr gefühlt hatte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        823
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:af06c488bc839e90ec2d2f1d06215731e5ff2ed466c539d9c8abb1f9d2a5ef84",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna",
+        "quote": "Ihr Name war kein bloßes Echo mehr, sondern eine klare, präsente Melodie in seinem Bewusstsein.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        827
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:88593d1ccf5745dc8a95c7a1d7f55081d8b0c3ba85e88a28c18e38de5a696015",
+      "kind": "reading",
+      "raw": {
+        "term": "Verbindung",
+        "quote": "Eine Verbindung, die die Mauern durchdrang, die AEGIS errichtet hatte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        827
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c546770a853da449f50bd4df6dfaf99d26fda1ba2f462783e852a82700be917e",
+      "kind": "reading",
+      "raw": {
+        "term": "Gefühl",
+        "quote": "Es war ein Gefühl.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        248,
+        829
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:895d87a4db50578b236dd9e033765422541a654e9e8937d19e63d4e787800627",
+      "kind": "reading",
+      "raw": {
+        "term": "liminaler Raum",
+        "quote": "der Zustand des totalen Zusammenbruchs nach dem Scheitern an der Schnittstelle",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        867
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "liminaler Raum"
+      ]
+    },
+    {
+      "id": "claim:4b7abc5582f2fcbf34cf058562b2462f687261e5d686db1fe6f52b7082bb5cb9",
+      "kind": "reading",
+      "raw": {
+        "term": "innerer Raum",
+        "quote": "Eher eine mentale Landschaft, ein Bewusstseinszustand, der nun, nach dem Durchbruch der Juna-Verbindung, eine gewisse Stabilität und Klarheit besaß.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        871
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:243f0d4dbd99bf6eb1d5519f79a7c59317f8836bd02151271c032642957b0551",
+      "kind": "reading",
+      "raw": {
+        "term": "das IFS-Modell",
+        "quote": "Das war es, was das IFS-Modell beschrieb – der unbeschädigte Kern, die Quelle von Mitgefühl, Neugier, Klarheit.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        873
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c9beeb1f1ce831be7a49d5c75af6b360fbf2c58a14fe47300dac99c2eda9e587",
+      "kind": "reading",
+      "raw": {
+        "term": "das Selbst",
+        "quote": "der unbeschädigte Kern, die Quelle von Mitgefühl, Neugier, Klarheit",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        873
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0eaacc87c15879503ec3c3fac115530641a7960156bab7f2e0ae41e99c3e3fe4",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Die ursprüngliche Fragmentierung durch AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        909
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cf54eec4101223339d64f8eb7a05070c2a82a3d25b43692defa791df846c467a",
+      "kind": "reading",
+      "raw": {
+        "term": "M",
+        "quote": "Als… als M dissoziiert wurde.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        911
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:084e74312f9b095e0763ee2aad64a1603f67b280aba30dfd0462e2a18c6891d8",
+      "kind": "reading",
+      "raw": {
+        "term": "Manager",
+        "quote": "Ich war… eine logische Subroutine. Entwickelt zur Mustererkennung und Analyse.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        915
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d1248ed6ca82fcf64b84a13977f80e320ef4892ddd87c53189d68e892540bd5b",
+      "kind": "reading",
+      "raw": {
+        "term": "Logik",
+        "quote": "Logik ist Struktur.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        921
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6ad098a9331ee59af59ef0370be0456b4b88b1e2e706b33305b9495eb5366258",
+      "kind": "reading",
+      "raw": {
+        "term": "Struktur",
+        "quote": "Struktur ist Stabilität.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        921
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:db1b2f99c4d1b4656483ed9f6c299d27f2790aedd75b805cc1808a50a32741d5",
+      "kind": "reading",
+      "raw": {
+        "term": "Stabilität",
+        "quote": "Stabilität ist Überleben.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        921
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:69245d0275ce0d6d986c7dbe82b5342f4ecbe5a8e746c0b8699220ad1bbc23bd",
+      "kind": "reading",
+      "raw": {
+        "term": "Vertrauen",
+        "quote": "Vertrauen ist ein nicht-verifizierbares Konzept.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        935
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5c558cd2125e92c0e399d4de7ba6c4e8ae3b5be47e6371c602d060132daf3d45",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "zur wahren Kohärenz, die er nun nicht mehr als Zustand, sondern als Prozess verstand",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        991
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:964ca25790ef02dd42d68edca0ff2f3044d0bf680db91c3b941a92cf1112ca27",
+      "kind": "reading",
+      "raw": {
+        "term": "Holismus",
+        "quote": "(Fundamentales Konzept: Holismus vs. Reduktionismus)",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        999
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e83d80aed8c4f03368d7125e7d8dda9931b6335fc24b383598ee2802a958217c",
+      "kind": "reading",
+      "raw": {
+        "term": "Wir-Geflecht",
+        "quote": "ein Netzwerk innerer Kommunikation, noch fragil, noch ungewohnt, aber vorhanden",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1007
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:04b3d567995066ab63974d01ddfbce84ec495a7ad9bf1a82e9b08b928933ddc2",
+      "kind": "reading",
+      "raw": {
+        "term": "Holismus",
+        "quote": "Holismus versus Reduktionismus. Das war das fundamentale Konzept dieses neuen Kapitels seiner Reise.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1019
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:29237b05d4c924989f09286659aa7ca3e6ac92a62183f2c35c239c78db46721a",
+      "kind": "reading",
+      "raw": {
+        "term": "Reduktionismus",
+        "quote": "Holismus versus Reduktionismus. Das war das fundamentale Konzept dieses neuen Kapitels seiner Reise.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1019
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2e4ce54b96a29225f3d2b9401a5fbf1e36336c153fb5c0d3c3cfc151b7588e50",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna-Resonanz",
+        "quote": "Die Variable \"Juna-Resonanz\", bisher als Rauschen klassifiziert, korreliert negativ mit systemischer Fragmentierung und positiv mit subjektiv berichteter Stabilität (prä-kollaps).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1011
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:09989ec760e2128dba2f4571a8cacd25ba015da60a24ac49151e16ebc0801f4e",
+      "kind": "reading",
+      "raw": {
+        "term": "Adapter-Module",
+        "quote": "Diese Module sollten als Vermittler fungieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1079
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dfd9c760630f4fc20cde247f31a18668cc717394a1a6f9319f066c4bf826af0d",
+      "kind": "reading",
+      "raw": {
+        "term": "Kontextsensitive Filter",
+        "quote": "Er entwarf dynamische Filter an der Schnittstelle.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1080
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f59d21f6ef9ace2e0441dd2147319571ff5d8364857cbecb4d38afc574dd1310",
+      "kind": "reading",
+      "raw": {
+        "term": "Feedbackschleifen",
+        "quote": "Das Protokoll enthielt Feedbackschleifen, die es der Schnittstelle ermöglichten, aus ihren eigenen Fehlern zu lernen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1081
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aa9bb656b1d44718cc3cae2c2765e16c1e60b1e58275b20988af89ec1a83aab8",
+      "kind": "reading",
+      "raw": {
+        "term": "Resonanz-Detektion",
+        "quote": "Er integrierte einen experimentellen Sub-Algorithmus, der versuchte, subtile Resonanzmuster oder Korrelationen zwischen den beiden Welten zu detektieren, die über die expliziten Datenströme hinausgingen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1082
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:059a170fa753949f0ded519312d97453cb4ef0a3b6c766b4c6c4af1a9d2eb932",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Architekt",
+        "quote": "Architekt. Nicht nur Optimierer.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1132
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3bfa4710e6bb9599641495a8c639dda4ae63578533f7950989a8b66f3eddfb4f",
+      "kind": "reading",
+      "raw": {
+        "term": "Wir-Geflecht",
+        "quote": "dass das \"Wir-Geflecht\" die Antwort war, nicht die Isolation.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f7081d35fcfc261ac751b0d6111ba61b9535cd6c254c2c2dd41d4779ab3586f9",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Architekt Stufe 1",
+        "quote": "Der Titel „Kohärenz-Architekt Stufe 1“ hallte in Kaels Bewusstsein nach, eine stille Bestätigung, die sich anders anfühlte als das Lob für seine frühere, rein analytische Effizienz.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1146
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ce9cd2f39d43e2ac70f458fc65de115ac88d100a5fbd700a5d3c8752e560b9bc",
+      "kind": "reading",
+      "raw": {
+        "term": "Wir-Geflecht",
+        "quote": "das „Wir-Geflecht“ seiner inneren Anteile, das bewusste Einbeziehen von Intuition und relationalem Verständnis neben der Analyse",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1146
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:383be759bafdd6e8f9477cdc1e8acba78f52c8288ce29a6ef2502b7a28aeed62",
+      "kind": "reading",
+      "raw": {
+        "term": "innovative Kohärenzstrategie",
+        "quote": "sein neuer, integrierter Ansatz – das „Wir-Geflecht“ seiner inneren Anteile, das bewusste Einbeziehen von Intuition und relationalem Verständnis neben der Analyse – nicht nur funktioniert hatte, sondern vom System selbst als „innovative Kohärenzstrategie“ validiert worden war.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1146
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eaad3717d304eae269325ea4149239556ce81d4be6438bff2573a0345c255075",
+      "kind": "reading",
+      "raw": {
+        "term": "Schnittstellenzone KWS-Co1-McL-Beta7",
+        "quote": "Er befand sich immer noch in der Schnittstellenzone KWS-Co1-McL-Beta7, aber der Raum hatte sich verändert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1148
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4e03446c1b3ed85fcaeb45b5526b5fc5c16ff3e3272554e0efd099bc7efa86e0",
+      "kind": "reading",
+      "raw": {
+        "term": "Dynamische Interaktion",
+        "quote": "Dynamische Interaktion, wiederholte Kael (Selbst).",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1204
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:52c59308a3307959af956af6677a38991e21f38c1de73d746beaab51f32d0dbe",
+      "kind": "reading",
+      "raw": {
+        "term": "Verschränkung",
+        "quote": "Nicht buchstäblich Quantenverschränkung, aber eine Analogie.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1210
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0976a0d8337babbf0493d730a07845ada614491c7c702fee8f9931dad95e1e3c",
+      "kind": "reading",
+      "raw": {
+        "term": "nicht autorisierte Methode",
+        "quote": "Er hatte eine nicht autorisierte Methode angewandt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1240
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:15254e9aa5120da0acf91aa28216f75bcbaca015241f6ae6a21e5801e2e7314b",
+      "kind": "reading",
+      "raw": {
+        "term": "nichtlokale Korrelationen",
+        "quote": "Ihre Hypothese bezüglich nichtlokaler Korrelationen ist ebenfalls… nicht uninteressant",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1242
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": [
+        "nichtlokale Korrelationen"
+      ]
+    },
+    {
+      "id": "claim:9f12ef2e62ba369c5cf3edc4d7b6caee8f7cae88306d6c2c230ef9bed064cc7b",
+      "kind": "reading",
+      "raw": {
+        "term": "Kausalitätsprotokolle",
+        "quote": "konnten sie aber nicht innerhalb der etablierten Kausalitätsprotokolle erklären.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1242
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b42a555be8a575493fcadfcfeda68e8a774caf37db2ed3f5346942df4994b9e4",
+      "kind": "reading",
+      "raw": {
+        "term": "Informationsschicht",
+        "quote": "Sie scheinen Zugang zu einer… alternativen Informationsschicht zu haben. Eine Schicht, die Resonanz über Distanz ermöglicht. Eine Schicht, die Symmetrien offenbart, die in der reinen Topologie verborgen sind.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1244
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1a9bfdb09e8ba5f8129e10fc4148a9411ff263ff9d710b5deb3b2b8dc285fcc6",
+      "kind": "reading",
+      "raw": {
+        "term": "Verbindung",
+        "quote": "Es ist eine Verbindung, die dieses System nicht geschaffen hat und nicht kontrollieren kann. Eine Verbindung, die auf einer tieferen Ebene der Realität existiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5d15b7e2cc347c68bcc90398a0276a7a67b8f0ecd89328c1d45eff04651276be",
+      "kind": "reading",
+      "raw": {
+        "term": "externe Variable",
+        "quote": "Eine externe Variable. Eine sub-protokollarische Interferenz.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1250
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c8dc773c68cfbb0ab9d780dc284457efcc6ed99620482568bf01f91c9ec096e",
+      "kind": "reading",
+      "raw": {
+        "term": "sub-protokollarische Interferenz",
+        "quote": "Eine externe Variable. Eine sub-protokollarische Interferenz.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1250
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8c7dd01029630caf224b710ebdbfe01d8a829b513a09477c3ad237aa6e260399",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Das System – AEGIS – betrachtet solche Variablen als Bedrohung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1250
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2a4560a2a8d969fd54f1e1514120b5869aea3f174d335351fa0bd97782462214",
+      "kind": "reading",
+      "raw": {
+        "term": "Integration",
+        "quote": "Die Integration, die er in Kapitel 8 begonnen hatte, die Versöhnung mit dem Manager-Anteil, die bewusste Nutzung des „Wir-Geflechts“ seiner inneren Teile",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e3843f0cb17362df722201dd7b613d6d1ceab547e86255b16d08d9b986c911f8",
+      "kind": "reading",
+      "raw": {
+        "term": "Wir-Geflecht",
+        "quote": "die bewusste Nutzung des „Wir-Geflechts“ seiner inneren Teile",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0479f5ae5d9138fe5b2314e6b8ca1513bde6df1d79e62e2d38caf20824b2c25a",
+      "kind": "reading",
+      "raw": {
+        "term": "innerer Raum",
+        "quote": "jene mentale Landschaft, die sich seit dem Kollaps an der Schnittstelle verändert hatte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1310
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f2122e1b1d5df28c931fadab7ac3fb0cd0210f11cd35f39197f80b03c4bf4f49",
+      "kind": "reading",
+      "raw": {
+        "term": "Selbst-Führung",
+        "quote": "Von dieser Position der Selbst-Führung aus betrachtete er die verschiedenen Anteile",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1310
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:983d3fde59d2ae38280ba06223c387fd4cab5639948de3322363d21bdd2a7994",
+      "kind": "reading",
+      "raw": {
+        "term": "Integration",
+        "quote": "Integration bedeutete nicht Eliminierung. Sie bedeutete Akzeptanz. Verständnis. Zusammenarbeit.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1320
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ec785553bda8c798a2b95db4f746e7b1963fde5a5579595957c74b4d3ffab9d5",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Kohärenz bedeutete nicht, die Scherben zu eliminieren oder glattzuschleifen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1328
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5729af05cd8ee09ff95a2aab6d3607ffeb51a494f5f8af6b40ec97ef6571b034",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Kohärenz bedeutete, die Scherben anzuerkennen, ihren Platz im Ganzen zu finden, die Verbindungen zwischen ihnen zu sehen und zu stärken.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1328
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c863a1c5d0fdea25f5045337ce3c68999c4ebac4d709e2db0c150ac5b7a77f5",
+      "kind": "reading",
+      "raw": {
+        "term": "Scherben der Erkenntnis",
+        "quote": "Die „Scherben der Erkenntnis“. Das war es. Jede schmerzhafte Erfahrung, jedes Scheitern, jede Konfrontation hatte ihm eine neue Scherbe des Wissens, des Verständnisses geschenkt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9b169d7471aa7b066d5b64bf9418c8216c4100a68cfb492ff44e3d2d76eff592",
+      "kind": "reading",
+      "raw": {
+        "term": "M",
+        "quote": "Eine Struktur, die unendlich viele verschiedene Teile (die Subquotienten, die anderen sporadischen Gruppen) enthielt, aber dennoch eine fundamentale, unteilbare Einheit bildete.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1350
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:737214df31acf20481b08fb6444965ab734635a3048cc066b26794e27f070165",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "AEGIS' Definition von Kohärenz basierte auf Einheitlichkeit, auf der Eliminierung von Abweichungen, auf der Reduktion von Komplexität auf berechenbare Variablen.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1354
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4fddbba5ddf56688ec1c8f1735518791d1c8c36fe32c65c2fb2e70b815f477da",
+      "kind": "reading",
+      "raw": {
+        "term": "Mosaik-Herz",
+        "quote": "Das Mosaik-Herz, zusammengesetzt aus den Scherben seiner Erfahrungen, seiner Ängste, seiner Logik, seiner Intuition, schlug nun in einem ruhigeren, beständigeren Rhythmus.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1396
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2ac96581a568dad6bf1935d7c0cf7fecb41dbedbad6e71eac6d4937b116a3bd2",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Die Erkenntnis aus Kapitel 11, dass Kohärenz nicht Einheitlichkeit bedeutete, sondern die harmonische Integration der Vielfalt, hatte eine tiefgreifende Veränderung in seiner inneren Ökologie ausgelöst.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1396
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e1fcae603e42c14b8f8993427ff7bf89d002cfe9b810ce18f05c89c9f256a49d",
+      "kind": "reading",
+      "raw": {
+        "term": "Jetzt-Raum",
+        "quote": "Es war kein Ort der Flucht mehr, kein Bunker der Logik, sondern ein Raum der Begegnung, der Erkundung, der bewussten Gestaltung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1398
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:436dc7c677c1428121459f61ea44c4dc5f0f1d32d1caeafa4a61899cebd47673",
+      "kind": "reading",
+      "raw": {
+        "term": "Innerer Garten",
+        "quote": "Er nannte ihn den \"Inneren Garten\", ein Bild, das sich spontan aus den Tiefen seines neu zugänglichen intuitiven Teils geformt hatte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1400
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Innerer Garten"
+      ]
+    },
+    {
+      "id": "claim:2140ea83f4bd47b0fe07cf58746ca80b134f9bb564419b707a09971fefd6ece9",
+      "kind": "reading",
+      "raw": {
+        "term": "Zentrum des Selbst",
+        "quote": "In der Mitte dieses Gartens spürte er das Zentrum des Selbst – keine feste Struktur, eher ein Quellpunkt klarer, ruhiger Präsenz, von dem aus er die verschiedenen Bereiche seines inneren Reiches überblicken konnte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1400
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fd28b74ad88e89103d3e61f3bb710fd9cf3260baf2f3ff1a64a51b3a556f2504",
+      "kind": "reading",
+      "raw": {
+        "term": "Unburdening",
+        "quote": "ein Versprechen zukünftiger Heilung, des \"Unburdening\"",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1414
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cbcc8140f6d72e328803b4663a2344a43628ce06765301826833c3e6e26b4af4",
+      "kind": "reading",
+      "raw": {
+        "term": "Wir-Geflecht",
+        "quote": "Das \"Wir-Geflecht\" war nun mehr als nur ein Konzept. Es war eine gelebte Realität in seinem inneren Garten.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1416
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4262148d25d57bb5abc1dc84bbc590d5aa1452bf90f20f5dde52c0b909f51cc0",
+      "kind": "reading",
+      "raw": {
+        "term": "Jetzt-Raum",
+        "quote": "Übrig blieb nur das Hier und Jetzt. Der \"Jetzt-Raum\".",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1422
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:de8c2e2e9562ed34e5a9a0c15848f18e9f96c293372f0ff8bb4c581b68ddddd0",
+      "kind": "reading",
+      "raw": {
+        "term": "Potenzial",
+        "quote": "Eine Erkenntnis seines eigenen Potenzials.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1426
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3aae3295cf2b69cf765ff0d297ce56b292f284bac9edc78c5468bea6be8c9216",
+      "kind": "reading",
+      "raw": {
+        "term": "Integration",
+        "quote": "er erkannte das Potenzial, das in ihrer *Integration* lag.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1428
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4129092e551867e582931f8bc9db726a6f5aed093cb8515b5f072e74f591fef4",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael/M",
+        "quote": "Er war Kael/M.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1430
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0f38bc8aa762b9b45208ad103503bd07dc2e1bbc3e4bd936531523b002e8a1c6",
+      "kind": "reading",
+      "raw": {
+        "term": "Monstergruppe",
+        "quote": "Er dachte an die Monstergruppe, die Metapher für M.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1432
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c906490bea408cb5353029962e096d209d4988709ea8a20c7df115790b8a13f",
+      "kind": "reading",
+      "raw": {
+        "term": "Monstrous Moonshine",
+        "quote": "Eine Struktur, die durch Monstrous Moonshine mit fundamentalen Aspekten der Realität (Modulformen, Physik) auf eine Weise verbunden war, die die reine Gruppentheorie nicht erklären konnte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1432
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d23ba1d2e84bddd54a17f174a05d0607f4419c06273510a048c717d539003cdc",
+      "kind": "reading",
+      "raw": {
+        "term": "Freiheit",
+        "quote": "Mit dieser Erkenntnis kam ein neues Gefühl: Freiheit.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1438
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:37290b65a712843ed00e8a953c4a4177bea99e6bc28f7160eb5402460e1fb9f7",
+      "kind": "reading",
+      "raw": {
+        "term": "funktionale Multiplizität",
+        "quote": "Er erreichte eine neue Form der Funktionalität, eine „funktionale Multiplizität“, wie er es für sich nannte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1474
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d90368e063a13c70486195df74c66e69e2336eafe5597f6582e7a676f3056ae5",
+      "kind": "reading",
+      "raw": {
+        "term": "Wir-Geflecht",
+        "quote": "Das „Wir-Geflecht“ stabiler.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3c6ce8d19bebb4aa6446e8e2b0d1ed36656b1e6893da5b356eb56d857f1c7b36",
+      "kind": "reading",
+      "raw": {
+        "term": "Kernwelt Typ B",
+        "quote": "Die Baby-Monster-Welt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1500
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b8e9e1d2964f9761b452102f7732531fbd5089c7e19a9a1d5c85762090b924c1",
+      "kind": "reading",
+      "raw": {
+        "term": "Beta-Rho-5",
+        "quote": "Die Welt des Chaos, der Instabilität, der Konfrontation mit dem Schatten.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1500
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:72357fbe02872174354435d4c20a10a61a40c7cac26c3de2fd717e6bba2f963e",
+      "kind": "reading",
+      "raw": {
+        "term": "B-Welt",
+        "quote": "Dies war die B-Welt. Die Manifestation des reinen Chaos, der unkontrollierten Entropie.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1520
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:788747da841b018b3254091b26de7382b0448df02fa2cc584733c072fdb86773",
+      "kind": "reading",
+      "raw": {
+        "term": "Neutralisierung",
+        "quote": "Das System befahl ihm, die Juna-Verbindung – die Quelle seiner eigenen Hoffnung, seiner Integration – zu zerstören.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1546
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c8cabdfd66ec9e7dcbfca62edebe5e1042870e96bd500d840e911c0d3e739203",
+      "kind": "reading",
+      "raw": {
+        "term": "Cache-Inkohärenz",
+        "quote": "Die Cache-Inkohärenz erreichte ihren Höhepunkt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1554
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9536d8ad86e9ce0d0f67b9a8d8962b0c7aa8f3aae1c4feeb022c9360aa4cf9c8",
+      "kind": "reading",
+      "raw": {
+        "term": "Bunker",
+        "quote": "Der \"Bunker\". Das war der mentale Zustand gewesen, den Kael nach der ersten, traumatischen Partitionierung instinktiv geschaffen hatte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1622
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:16df9aacdd9cc66a3398dd36f6740810aba7ef2e347c67af5a6caf6023f6d3ae",
+      "kind": "reading",
+      "raw": {
+        "term": "Bunker",
+        "quote": "Ein Ort innerer Isolation, eine Festung aus logischer Kontrolle und emotionaler Taubheit, die ihn vorübergehend vor dem Schmerz geschützt hatte, aber auch vor jeder echten Verbindung, jeder Heilung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1622
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b2e8f0d35541c7fad5a20dc292a1da587d319a9cacd331b9758ab11827466bac",
+      "kind": "reading",
+      "raw": {
+        "term": "Dissoziation",
+        "quote": "Kael befand sich wieder in einem Zustand der Dissoziation.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1628
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e9592634167a0f0b4bc5a7de7f96d2e1e2652f4b8777c825c83f6d56455516d4",
+      "kind": "reading",
+      "raw": {
+        "term": "Depersonalisation",
+        "quote": "Depersonalisation.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        715,
+        757,
+        1628
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:69e2ffaead8a21f551f29f4f325b21763f7ac1d0450e25be9b8aff554d60a7d1",
+      "kind": "reading",
+      "raw": {
+        "term": "Derealisation",
+        "quote": "Derealisation.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        757,
+        1628
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2f3258827e30197a502eaace765c557846f34b4fab36a12b24b7944cf255a499",
+      "kind": "reading",
+      "raw": {
+        "term": "Freeze Response",
+        "quote": "Es war ein Zustand extremer Passivität, des Einfrierens (Freeze Response).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1632
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f4a7560b0722c9cebe7bd5a5a6110092c8865f711304fc24f09de59125739b81",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Kohärenz entstand nicht durch Eliminierung, sondern durch Integration.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1646
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1d98e1be19926ab2eb6a6c7c0e6a94eaa03e9c22b9e721fa78b7c6152524f12b",
+      "kind": "reading",
+      "raw": {
+        "term": "Stärke",
+        "quote": "Stärke nicht durch Kontrolle, sondern durch Akzeptanz der Vielfalt.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1646
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:be8eaeef61a6e3046f8c6c045b0829c4836389ca2f195e901d3fa72ff3f48b85",
+      "kind": "reading",
+      "raw": {
+        "term": "Freiheit",
+        "quote": "Freiheit nicht durch äußere Umstände, sondern durch innere Präsenz.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1646
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e4f7f1bab723ea388f1f7eacab972e3d4dfb1b5553bea6e86072ffa3bd780f75",
+      "kind": "reading",
+      "raw": {
+        "term": "Rückfall",
+        "quote": "Dies war die zweite Phase des ersten Zyklus. Der Bruch hatte stattgefunden. Nun folgte der Rückzug in alte Muster.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1654
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:998ab2756080c597b5cd4df4dca149193d9d5ad2d22c897d52d4d2f44bd85206",
+      "kind": "reading",
+      "raw": {
+        "term": "Shutdown",
+        "quote": "Den Shutdown. Den Rückzug ins Grau. Die emotionale Betäubung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a864755cca359ae14fcf61f432ec21c745375fa47e4dd53387c9dbfbcb1534f0",
+      "kind": "reading",
+      "raw": {
+        "term": "Partitionierung",
+        "quote": "Nach der initialen Partitionierung durch AEGIS war er hier gewesen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1684
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d3eda2455cbe2aacf1a828d467cc1283a9e0ca3ba372ea4073ffb785577bd215",
+      "kind": "reading",
+      "raw": {
+        "term": "Überlebensprotokoll",
+        "quote": "Es war ein wiederkehrendes Muster. Ein erlerntes Verhalten. Ein Überlebensprotokoll.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1684
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f68d047ed702bc944f96258fb1cde6e5ac3c876880c4357dbfd557eaf215a0b1",
+      "kind": "reading",
+      "raw": {
+        "term": "Bunker",
+        "quote": "Der Bunker war Schutz. Schutz vor dem unerträglichen Schmerz der Fragmentierung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1688
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:10f6eb60aab5a80902bfe47a4bd19f40684a2dd97168518621c1064f8afd7d89",
+      "kind": "reading",
+      "raw": {
+        "term": "Muster",
+        "quote": "Es war kein visuelles Muster diesmal, eher ein Gefühl, eine Schwingung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1706
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0eaf8f05f2858c332e2ec0a9f9834a13eaea5c97de9b3f2135fb824ca39c9db6",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Es war ein Muster von… Kohärenz.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1706
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6d2362e3825d6ab5a68e02f142f9b1fd25c75091242e330c00f343b234399442",
+      "kind": "reading",
+      "raw": {
+        "term": "Wir-Geflecht",
+        "quote": "Das „Wir-Geflecht“ begann sich neu zu formen, diesmal nicht nur als Kommunikationsnetzwerk, sondern als ein resonierendes Feld.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f0566f7b77fc6c19e26be4f4aa3c5a178f5c508e1d05cf829582fdd861eaf8b0",
+      "kind": "reading",
+      "raw": {
+        "term": "Funktionale Multiplizität",
+        "quote": "(Fundamentales Konzept: Funktionale Multiplizität / Cache Kohärenz (Konflikt))",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1756,
+        2076
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0dbc148c3f14d0956711a0b74bb106ae38b533471207e0258cb75e3710f5be6e",
+      "kind": "reading",
+      "raw": {
+        "term": "Cache Kohärenz",
+        "quote": "(Fundamentales Konzept: Funktionale Multiplizität / Cache Kohärenz (Konflikt))",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1756,
+        2076
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a99c1f5ada04a05a4827d78f980adf6a9cc3fcffed9e09c64dad62acc61172cb",
+      "kind": "reading",
+      "raw": {
+        "term": "funktionale Multiplizität",
+        "quote": "Es war ein Zustand funktionaler Multiplizität, eine erste Ahnung davon, wie das integrierte Mosaik-Herz operieren könnte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1766
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:999fb781c5f436c7cbccaf5070fb1471fccac60a809305bfdbd9a25d21347d75",
+      "kind": "reading",
+      "raw": {
+        "term": "funktionale Multiplizität",
+        "quote": "funktionale Multiplizität nicht bedeutete, perfekt zu sein, sondern präsent zu sein, mit all seinen Teilen, und aus dieser Präsenz heraus zu handeln",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1850
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:73a6ad23885ab39ae6fedd215f8bd98e2bbe582cb59848e84377cd82968126e9",
+      "kind": "reading",
+      "raw": {
+        "term": "IP-KDSI-Gamma-7",
+        "quote": "das neue Protokoll, IP-KDSI-Gamma-7, zu funktionieren",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1852
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7095be1b3291243b9d39c138652dc870cf3f010489f77ed421a6ae2ff4b87972",
+      "kind": "reading",
+      "raw": {
+        "term": "funktionale Multiplizität",
+        "quote": "Er hatte die funktionale Multiplizität im Alltag getestet",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1858
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:794bed7b84697f6c721f13bb4ef961d993d9d3cf0349369d20783a49d053724f",
+      "kind": "reading",
+      "raw": {
+        "term": "Mosaik-Herz",
+        "quote": "Das Mosaik-Herz hielt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1858
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cfd8ecf1c8f5af8c043537466ec1578e3ce9481bbd0795fd18c02e7a894a81d4",
+      "kind": "reading",
+      "raw": {
+        "term": "Wir-Geflecht",
+        "quote": "Das „Wir-Geflecht“ trug.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1858
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:71add7f564a387e1d413145594b6af4736f6993263352b49d4ca2270ca4b6539",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz Protokoll",
+        "quote": "Er hatte stattdessen begonnen, an einem neuen Protokoll zu arbeiten, einem, das auf Harmonisierung statt auf Eliminierung basierte, einem, das das „Wir-Geflecht“ seiner integrierten Anteile widerspiegelte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1870
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6d5729b7b0a834067b9697a49987475787239179aa75dc44cb5f5e3c888a22d9",
+      "kind": "reading",
+      "raw": {
+        "term": "autopoietische System",
+        "quote": "AEGIS, das autopoietische System, dessen Existenz auf Kontrolle und der Negation des Unvorhersehbaren basierte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1872
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:791c90b7df998b0b3c7f50038feddb2ebb4cf7a2eab0ce8d4a991b126112345a",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Es war, als würde AEGIS versuchen, ein Betriebssystem (Co₁-Logik) auf eine Hardware (Beta-Rho-5-Chaos) zu laden, für die es nicht gemacht war.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1898
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:52fcc2a793f331df1e587a21e6c70f3511dc40f3e8decbb3b0b3d01228452298",
+      "kind": "reading",
+      "raw": {
+        "term": "Co₁-Logik",
+        "quote": "Es war, als würde AEGIS versuchen, ein Betriebssystem (Co₁-Logik) auf eine Hardware (Beta-Rho-5-Chaos) zu laden, für die es nicht gemacht war.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1898
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c8f6d584cd5c582c454919ff06be4d6b5983c66ea024dc72905bca786aef9364",
+      "kind": "reading",
+      "raw": {
+        "term": "Beta-Rho-5-Chaos",
+        "quote": "Es war, als würde AEGIS versuchen, ein Betriebssystem (Co₁-Logik) auf eine Hardware (Beta-Rho-5-Chaos) zu laden, für die es nicht gemacht war.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1898
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:29c73ee6a3455d2d221e6672f8d380f602ed9d37e98e3be660842a79aa8fc050",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna-Resonanz",
+        "quote": "Die Juna-Resonanz, das goldene Licht, wurde durch diese künstliche Ordnung nicht ausgelöscht.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1900
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ff91e1d166dd7ee2852f77f862f49a3093eda38850a2e2625cd2a6cd5f924406",
+      "kind": "reading",
+      "raw": {
+        "term": "Guardian von Beta-Rho-5",
+        "quote": "In diesem Moment manifestierte sich der Guardian von Beta-Rho-5, der Chaos-Regulator.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1906
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:605b62caf7729b717049b68ce8ca13d3fab0ad75dc02f0f75daf719f2a62d721",
+      "kind": "reading",
+      "raw": {
+        "term": "Chaos-Regulator",
+        "quote": "In diesem Moment manifestierte sich der Guardian von Beta-Rho-5, der Chaos-Regulator.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1906
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5029a52b734408bdf9953cc10fa007637d9b56c3f2228d084bda9cb6cc475773",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Kohärenz ist nicht Einheitlichkeit. Kohärenz ist… Integration der Differenz.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1938
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d71e8467c598be7f931f06a6438941b40f0cbfb44d49ba134021b59f4246b245",
+      "kind": "reading",
+      "raw": {
+        "term": "Entropie-Kaskade",
+        "quote": "Die Entropie-Kaskade… sie wurde nicht durch die Resonanz verursacht. Sie war die Reaktion des Sektors auf die erzwungene, künstliche Ordnung, die AEGIS zu implementieren versuchte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1944
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fe1966a827acbbfbbd6640fca1e6841869406b20aebb7ec3073d51f23373d0ed",
+      "kind": "reading",
+      "raw": {
+        "term": "der Tanz",
+        "quote": "Nun beginnt der Tanz",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1950
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c199e3fcc5d31731329aa2b030fbf71b317a974a86781ea29cb3be05d08ca7f8",
+      "kind": "reading",
+      "raw": {
+        "term": "Balance",
+        "quote": "Der Tanz mit der Entropie. Nicht Widerstand, sondern… Balance.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1950
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0fa607e311be26f4ab4bb380ca9dd0760132e479c5a560997c6699509d467c55",
+      "kind": "reading",
+      "raw": {
+        "term": "eine neue Ordnung",
+        "quote": "Wir müssen eine neue Ordnung finden. Eine Ordnung, die das Chaos nicht leugnet, sondern es integriert. Eine Ordnung, die auf Resonanz basiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1950
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d1de1d483302d16b6600af2416528d59c0c7f2c1769a9e23180aaeac689232e",
+      "kind": "reading",
+      "raw": {
+        "term": "Lyons-Welt (Ly)",
+        "quote": "Dies war die Lyons-Welt (Ly), wie er aus den fragmentierten Daten im Lernarchiv wusste.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1978
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fa632a4d358fb8de87df98eeb7a902013caaf0c9ab4f1172190a7f3125c85ca0",
+      "kind": "reading",
+      "raw": {
+        "term": "Lyons-Welt",
+        "quote": "Die Welt des Potenzials, der Emergenz, des Unerwarteten.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1978
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:780eca979d8aa5ff4a2ab380d75cf34b1e35a5dfefcbaef1da6aa24bd6316916",
+      "kind": "reading",
+      "raw": {
+        "term": "Lyons-Welt",
+        "quote": "Die Welt, die mit der „Paria“-Gruppe assoziiert war, jener sporadischen Gruppe, die nicht Teil der „Happy Family“ innerhalb der Monstergruppe war.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:57ef6742fe1718f277161694421cbfa70e76148cd75763595870cbb35fcdf13f",
+      "kind": "reading",
+      "raw": {
+        "term": "Lyons-Welt",
+        "quote": "Eine Außenseiterwelt, regiert von anderen Prinzipien.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1978
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:99cd1f3cf3c65c329c520bc2101d39ddcfac0234bf5760e2ea06809665ab9a51",
+      "kind": "reading",
+      "raw": {
+        "term": "Widerstand",
+        "quote": "Das ist eine Form des Widerstands",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2018
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:11eba2da616d4ec3d84b33f78a36e78e97bfbce9a120ea6a503d36b2b281013f",
+      "kind": "reading",
+      "raw": {
+        "term": "generative Tarnung",
+        "quote": "eine Art generative Tarnung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2020
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a77f71e21c19c5f3d5af5aff77ddd4652a10956087b696eed75cff45bfaf1852",
+      "kind": "reading",
+      "raw": {
+        "term": "Guardian",
+        "quote": "Inmitten dieses konzentrierten Spiels manifestierte sich der Guardian dieser Welt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2024
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8fa55a69ddcccba2870c638c1b51ba07d3e88436ffe4a285b07d9b5a3e685869",
+      "kind": "reading",
+      "raw": {
+        "term": "Möglichkeits-Weber",
+        "quote": "Es war der Möglichkeits-Weber",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2024
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f490af4ade3f7cf213f2885e9146e7d6049e1ca1eea9a5b809a6bcd90633c644",
+      "kind": "reading",
+      "raw": {
+        "term": "Lyons-Welt (Ly)",
+        "quote": "Die Lyons-Welt (Ly) war ein Ozean aus Potenzial, ein sich ständig wandelndes Meer aus Licht, Farbe und Form, das auf die leiseste Intention, den subtilsten Fokus zu reagieren schien.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2080
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e308f39d0f3485b8eb8edc5f7eb5730bf9912a15a36ce465a5b3c6e98a14501d",
+      "kind": "reading",
+      "raw": {
+        "term": "Emergenz",
+        "quote": "Er verbrachte Zyklen damit, die Prinzipien der Emergenz zu erforschen, die diese Welt beherrschten.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2082
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dc2046468ff523e51866b9fa1b8a8ab95fbe0bad72424b0146c519f60c205618",
+      "kind": "reading",
+      "raw": {
+        "term": "Widerstand",
+        "quote": "Nach der Begegnung mit dem Möglichkeits-Weber und der Erkenntnis, dass Kreativität hier eine Form des Widerstands sein konnte",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2080
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:995cb3562f8997ad2a9b106f90fbd187ea5072eede7e96216a5ae218566fadd9",
+      "kind": "reading",
+      "raw": {
+        "term": "Resonanz-Brücke",
+        "quote": "Ein schimmerndes, komplexes Gebilde aus Licht und Energie, das die Kluft zwischen der emergenten Ordnung von Ly-Sigma-1 und dem rohen Chaos des angrenzenden Potentialmeer-Sektors Epsilon-Null überbrückte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1c162bfd428d637823e6414f4b0bbfd65c4574b195b9d5fddfa416dad69d67d0",
+      "kind": "reading",
+      "raw": {
+        "term": "innere Kohärenz",
+        "quote": "Sie war ein Zeugnis von Kaels gewachsener innerer Kohärenz, ein Produkt des Zusammenspiels von Logik, Intuition und Kreativität, moderiert vom ruhigen Zentrum seines Selbst.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d57c15711b58d5585e9633e818a3f59a72ef53b48c2993b3efc59c32b9d28527",
+      "kind": "reading",
+      "raw": {
+        "term": "Kernwelten",
+        "quote": "die Kernwelten Simulationen waren, von AEGIS geschaffene Konstrukte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2204
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6e8c2f7c8c6f4f1ff0cf3b7bbe5623d9df48b72e285922e78693173ff3da235a",
+      "kind": "reading",
+      "raw": {
+        "term": "Epsilon-Null",
+        "quote": "Epsilon-Null, dieser Sektor des Potentialmeers, dessen chaotische Energie er nun durch seine Brücke filterte und harmonisierte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2204
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ac5aa891670cdcf651affd974f8e1ba36c1de3efaad019ec8348d99328543823",
+      "kind": "reading",
+      "raw": {
+        "term": "Resonanz-Brücke",
+        "quote": "Sie war sein Meisterstück gewesen, der Beweis seiner Fähigkeit zur Integration.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2208
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a5c491b0c8f1fdb223cc548986d57b78da4b917132f29ff0e2c7c3540548fc12",
+      "kind": "reading",
+      "raw": {
+        "term": "Ly-Welt",
+        "quote": "Er nutzte seine Kenntnisse der Ly-Welt, die er durch seine Experimente gewonnen hatte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2254
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:12662cd575c5d2edf6366786aec00b6a6dcf5dfb3a5712decc0648e0f50f4c75",
+      "kind": "reading",
+      "raw": {
+        "term": "Emergenz",
+        "quote": "Er nutzte die Prinzipien der Emergenz, um eine Art dynamischen Schutzschild um die Brücke zu erschaffen, einen Schild, der nicht auf Abwehr basierte, sondern auf Anpassung und Transformation.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2254
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ed11e0fbfe0a15b4d578bbb7b87a32697da86e2905f110dcd43d56a7869010f5",
+      "kind": "reading",
+      "raw": {
+        "term": "Nähte",
+        "quote": "Er sah die „Nähte“ der Welt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5fa90d13a748446b3a2b83993900b9c6ffe4924dc7ad799e99645cdc556e44a2",
+      "kind": "reading",
+      "raw": {
+        "term": "aperiodischen Schwingungen",
+        "quote": "Die aperiodischen Schwingungen aus Epsilon-Null, die sein Manager-Anteil als hochkomplexes Rauschen klassifiziert hatte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2296
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6d6a8d8f48ae46d52314669a6e2ad370380642a568e3efd3046a258f54cc55ab",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna-Resonanz",
+        "quote": "dass die Juna-Resonanz, dieses goldene Licht in seinem Bewusstsein, der Schlüssel zu diesem Code war",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2296
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:00dd9a3ceadcbeaf2d94f30c298d53a9cc2c1f31845b4b6f76e0b7485eca9af3",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialmeer",
+        "quote": "War das Potentialmeer selbst intelligent?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2298
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e70ab491e1d323a3d444ce59c30899d20a1117d0cf9b10d6640d356337780f4e",
+      "kind": "reading",
+      "raw": {
+        "term": "Realitäts-Kollaps",
+        "quote": "Realitäts-Kollaps. Rekalibrierung. Das waren Euphemismen für Auslöschung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2354
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f1654644fee52159b6cd7ae02af31a2d178293b971d2bb79603c7d479f4ec58b",
+      "kind": "reading",
+      "raw": {
+        "term": "Kognitive Rekalibrierung",
+        "quote": "Ein weiterer Euphemismus für Auslöschung oder zumindest eine tiefgreifende, gewaltsame Neuformatierung seines Bewusstseins.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2432
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:38ee4269095e872f2ee6d3bb79a6bda48e1804293395936fd5d0776d1d5d34a0",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Index",
+        "quote": "ERREICHUNG EINES KOHÄRENZ-INDEX VON 99.99% UND AUFRECHTERHALTUNG ÜBER 10 STANDARD-ZYKLEN.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2424
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e0dae1c580b7ff16516858e080e14dcd3f5b8437f6284a6b5f2eb682733894e6",
+      "kind": "reading",
+      "raw": {
+        "term": "Mosaik-Herz",
+        "quote": "er war das Mosaik-Herz, das gelernt hatte, im Jetzt-Raum zu existieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2436
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dc9bee7b124ec730fc7824d12f39143e10afe75fcc492de1a6ee8904f97669a6",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Kohärenz ist rekursive Selbsterfindung unter Bedingungen maximaler Offenheit.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2452
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dab10ac3eaca92a3035babe4ef21220bd7de283cdff99085499ca6e8667e6f74",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "das Leben selbst – die Kohärenz – seinen Weg finden würde",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2470
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e7d091a355171331043e8a403e6980fc80916c501d706a2121807b4475d8c3d2",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Metrik",
+        "quote": "Die Kohärenz-Metrik auf seiner Anzeige begann zu fluktuieren, fiel manchmal ab, stieg dann aber wieder an, bewegte sich langsam aber sicher auf das Ziel zu.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll",
+      "template": "TermDefinitions",
+      "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2472
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

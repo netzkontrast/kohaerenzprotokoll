@@ -1,0 +1,3540 @@
+{
+  "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "input_rows": 147,
+  "candidates": 121,
+  "refused": 26,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:1ca54cc7ce493dac719dae5b28d9751824da30669e8f0ad2a4488406d9a94ff9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "westlich-konflikt-getrieben",
+        "target": "Kishōtenketsu (japanische Vier-Bewegung-Erzählweise)",
+        "type": "contrasts_with",
+        "quote": "Klassisches japanisches Erzählmodell, **nicht** westlich-konflikt-getrieben",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kishōtenketsu (japanische Vier-Bewegung-Erzählweise)"
+      ]
+    },
+    {
+      "id": "claim:fac38bddd703881a8af79ccb35ccb8ac9f5e36908bb2943ca3a7f692b0b060b2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Aufbau ohne kausalen Konflikt",
+        "target": "Wendung erzeugt nachträgliche Bedeutung statt sie auszulösen",
+        "type": "contrasts_with",
+        "quote": "Aufbau ohne kausalen Konflikt, die Wendung erzeugt nachträgliche Bedeutung statt sie auszulösen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:31aebe3f3e6aae9a0861b876d3d17ab2e36b054ebb73a6a876d427708a1cd7b2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Vortex 1",
+        "target": "Vortex 2",
+        "type": "contrasts_with",
+        "quote": "Vortex 1 ist operativ (orthodoxer Dramatica-Klimax), Vortex 2 ist ontologisch (post-Dramatica-Synthese)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e5d280ca517c622b6bfb606601d5ee97763b6c61c352249c5376abb0e9f8dc9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "nachträglich",
+        "target": "kausal",
+        "type": "contrasts_with",
+        "quote": "Es erlaubt der Erzählung, ihre wahre Bedeutung *nachträglich* zu erzeugen, statt sie kausal abzuleiten.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        36
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:93705d5f66c1404ebf0ff47bbf477274c8e51ee9e0671e1a0d1bad691287ccd3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Konsequenz",
+        "target": "Verstehens-Form",
+        "type": "contrasts_with",
+        "quote": "Kap 40 ist nicht die Konsequenz von Kap 39, sondern die *Verstehens-Form* aller vorherigen Beats.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        36
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7ab90277a0f87d4472147528e8217722cb08aafebd1a4add0f2fab38f067c1b2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Synthese",
+        "target": "Ursache-Wirkung-Kette",
+        "type": "contrasts_with",
+        "quote": "Das ist post-westliche Architektur — Bedeutung als Synthese, nicht als Ursache-Wirkung-Kette.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        36
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:54049b5f980c70f922d56481c90b25b07c4eaebd3e03340da1398ffa5702e464",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Falsehood-vs-Truth",
+        "target": "Fact-vs-Fantasy",
+        "type": "contrasts_with",
+        "quote": "Issue: Falsehood-vs-Truth · Problem: Avoidance → Solution: Pursuit\n  - Driver: Decision (konstant) · Limit: Optionlock · Outcome: Success · Judgment: Good with high Cost\n  - IC: Juna (Universe/Past) · OS: Psychology (Manipulation der Simulation) · RS: Physics (Moonshine-Link)\n\n\n\n**Storyform B —** ***Phoenix Collapse*** **(AEGIS-MC):**\n\n\n\n  - Resolve: Steadfast · Growth: Stop · Approach: Do-er · Style: Linear\n  - Domain MC: Universe · Concern: Progress · Issue: Fact-vs-Fantasy",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b18f887a6a11a11812924ea5141cfa825bf739c56343d953e2a45e2222b6d172",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Logic",
+        "target": "Feeling",
+        "type": "contrasts_with",
+        "quote": "Problem: Logic → Solution: Feeling (nie adoptiert)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ff8a844b15e83311e247f73f1eef46b27a8c4e092988b51ed9cfa7f9350ed2d7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "nur B aktiv",
+        "target": "A als Phantom-Latenz",
+        "type": "contrasts_with",
+        "quote": "nur B aktiv, A als Phantom-Latenz",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        77,
+        213
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:93e91e136fafef149fc663200615300670e3fd80113f9546060e5db70d129154",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A dominant",
+        "target": "B latent",
+        "type": "contrasts_with",
+        "quote": "A dominant, B latent",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        78,
+        191,
+        249,
+        297,
+        345
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a68b36737aa40d813124a223c446692225cda377c4de2325ea9794111f9960f9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A‖B in echter Polyphonie",
+        "target": "A dominant, B latent",
+        "type": "contrasts_with",
+        "quote": "A dominant, B latent",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        78,
+        191,
+        249,
+        297,
+        345
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7e913d8a718106452278494e2effc276ae5ba28765c328382afe235aae1bbbd1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "linear-introspektiv",
+        "target": "rekursiv-eskalierend",
+        "type": "contrasts_with",
+        "quote": "Heldinnenreise innen 1–13 linear-introspektiv",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:27061692245fe63c0795e1accf2da67050ed7dd4173e59f791e978c4d3f0bd59",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "linear-aufsteigend mit eingebettetem Vortex",
+        "target": "rekursiv-eskalierend",
+        "type": "contrasts_with",
+        "quote": "Zyklischer Modus 14–26 rekursiv-eskalierend",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d67ce32aed77ef500bbb2e477df708ad09c42bf98df2fd8ae39c205b4f16e224",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Heldinnenreise innen",
+        "target": "Heldenreise außen + Doppel-Vortex",
+        "type": "contrasts_with",
+        "quote": "Heldinnenreise innen 1–13",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:64291a1f183c0df00bb1b849a7e548b6ad45bd78bd6b2689279753ac96f8894a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Modus-Grenzen",
+        "target": "Storyform-Grenzen",
+        "type": "contrasts_with",
+        "quote": "Die Modus-Grenzen (13/14, 26/27) sind **keine** Storyform-Grenzen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        103
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:774e63e2b81a3181bb25db6e8c6187eadbd9cdb37caa56dd6a18c6aff0e31c48",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Modus-Wechsel",
+        "target": "Storyform-Wendung (B → A)",
+        "type": "contrasts_with",
+        "quote": "Die echte Storyform-Wendung (B → A) liegt bei 35/36 — also *mitten in* Modus 3.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        103
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a29e5764c4fe3a279150bd8fc9f599b37393dfaecc1d951a905afaa1eca999b7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ten (転) im Doppel-Vortex",
+        "target": "Modus-Wechsel",
+        "type": "contrasts_with",
+        "quote": "Die zentrale Erzählform-Wendung ist Ten (転) im Doppel-Vortex, nicht im Modus-Wechsel.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        103
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:414eee2d5e14a24d3f58af1fd182333f6d990c8c6a72a41fc916892b21faab4c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1. Person",
+        "target": "3. Person",
+        "type": "contrasts_with",
+        "quote": "Spricht in 1. Person in Storyform B (Innensicht), erscheint in 3. Person in Storyform A (Außensicht aus Kaels Perspektive).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        117
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "3. Person"
+      ]
+    },
+    {
+      "id": "claim:6444da6a097d0e5835d003f0dc0219405f23ac15f0720027e1a7518e6571f196",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1st-person-Innensicht",
+        "target": "3rd-person-Algorithmic-Melancholy-Beobachtung",
+        "type": "contrasts_with",
+        "quote": "Im Vortex 1 kollabiert die 1st-person-Innensicht in 3rd-person-Algorithmic-Melancholy-Beobachtung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        117
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:84a3c55d3711204850d6bb9b1bbb48d5fdb52c2d20bf9809cfe041f1ad7cde43",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Mensch",
+        "target": "System",
+        "type": "contrasts_with",
+        "quote": "Nicht ein Mensch — ein System aus dreizehn Fragmenten.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        125
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:418c7b2d1864e3d0b3026d3a7d318be9d89b405081d71f09c263df8159c2f4de",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Going on with normal life",
+        "target": "Bug, der nicht gefixt werden kann",
+        "type": "in_tension_with",
+        "quote": "Host-ANP: Going on with normal life, Amnesie, Knöchel die manchmal bluten ohne dass er weiß warum. In A: MC. In B: IC (lebende Paradoxie, der „Bug, der nicht gefixt werden kann“).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:587e1bfabf637bf2fb296067cf49d0b96343a0f922650f87e460cc08339a14f8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "kalte Logik",
+        "target": "Intuition",
+        "type": "in_tension_with",
+        "quote": "kalte Logik → Intuition",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        133
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bd7f64b7dafbde2e2b68d8b55a10622cff682687fa551dd88a84b59c1c37179c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "defensive Kontrolle",
+        "target": "Wachstum zulassen",
+        "type": "in_tension_with",
+        "quote": "defensive Kontrolle → Wachstum zulassen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        134
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:13b5c5d15b0c006a6b6a212c3123cc45a05005ca0f8cc3e9d6427f36abd62bc0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Anker (Akt I)",
+        "target": "Kudzu (Akt II)",
+        "type": "in_tension_with",
+        "quote": "Anker (Akt I) → Kudzu (Akt II) → Akzeptanz (Akt III)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        135
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a1087e333e66407ef5fbb36a17847bcb21f838ccd1f2eec41ba6d4baeb845041",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Guardian",
+        "target": "Mediator",
+        "type": "in_tension_with",
+        "quote": "Guardian → Mediator",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        136
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1cdebeb48fcecd8ddb667f65439456dd84d1b61cb42f82011ab1c9eff0298ec6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kampf, Aggression, Verteidigung",
+        "target": "konstruktive Schutzhaltung",
+        "type": "in_tension_with",
+        "quote": "aggressive Reaktivität → konstruktive Schutzhaltung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        143
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d2c2975518babfbf11f7701018ac8661761a942044b421bf8c82e20339cae644",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Misstrauen",
+        "target": "systemisches Vertrauen",
+        "type": "in_tension_with",
+        "quote": "Misstrauen → systemisches Vertrauen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        144
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9ec86586d4b386b6eb9d3ca0d99ab9f5e469cb474c9f97a3454f48bf162421ee",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Superposition",
+        "target": "Sicherheit finden",
+        "type": "in_tension_with",
+        "quote": "Superposition → Sicherheit finden",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        145
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e5daad2312d63d4fa8bcfac7f0cf8328bc8536d81f7351682a25ad39770706e2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Waffe",
+        "target": "echte Vulnerabilität",
+        "type": "in_tension_with",
+        "quote": "Waffe → echte Vulnerabilität",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        146
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f10e8b8567d991edc4ebe5cc44277b3b91b3b2df18a5068058f640b462523f04",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Aufgeben",
+        "target": "Drachenkampf",
+        "type": "in_tension_with",
+        "quote": "Aufgeben → Drachenkampf",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        147
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6d4766d634870c3a15bb9f4de1d4f388b7be9725ead95f90bac2b9cc27d4bdfe",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Spiegel-Alter",
+        "target": "weder ANP noch EP",
+        "type": "contrasts_with",
+        "quote": "Spiegel-Alter (weder ANP noch EP)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        155,
+        156
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:56f1133981b6ef65a409eb4aef366ccc3e830c7e8b77bf901a3fd665b86857de",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schauplatz",
+        "target": "Inhalt",
+        "type": "contrasts_with",
+        "quote": "weil Erinnerung dort Schauplatz statt Inhalt ist",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8bbc887c1c31923927c99b5e0d960b050693a5a000ebf4d98d0430547ea3c3ff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "kalt/steril",
+        "target": "heiß/fragmentiert",
+        "type": "contrasts_with",
+        "quote": "1: kalt/steril | 2: heiß/fragmentiert",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8e6b61e2511082ce27df274122f20409befe888375a48c043576e870699f6be4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Rationalisierung, ANP-Domäne",
+        "target": "Trauma-Erinnerung, EP-Domäne",
+        "type": "contrasts_with",
+        "quote": "Rationalisierung, ANP-Domäne | Trauma-Erinnerung, EP-Domäne",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3105376da135a07c67149a122fde92a894cad0ac63391374699bffe1752330d0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Hypervigilanz, Verteidigung",
+        "target": "Integration, Generativ",
+        "type": "contrasts_with",
+        "quote": "Hypervigilanz, Verteidigung | Integration, Generativ",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7408a5cab5042189c324715218692768a09fd0308703798adee4fec1204b9bee",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Simulation",
+        "target": "Basisrealität — Köln 2026",
+        "type": "contrasts_with",
+        "quote": "Existiert jenseits der Simulation",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        179
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e95c144e4f0df860181e2c735c460ea50dd8c9c5576801d99b01c21cf2345734",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Basisrealität",
+        "target": "Simulation",
+        "type": "contrasts_with",
+        "quote": "Existiert jenseits der Simulation.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        179
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fa2b34f90784903b8f3349423e05c5f153d0fbc5023cdd5b42fe4e384e6440cc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "außerhalb",
+        "target": "linear-introspektiv",
+        "type": "contrasts_with",
+        "quote": "Genesis-Prolog | Ki (Anfang) | 0 | außerhalb | spezifisch | nur B aktiv | Heldinnenreise innen | Ki (Vertiefung) | 1–13 | linear-introspektiv",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:818857e0d1942111ad77da891655a136746d92530bd3dc1eb7c1881e77871b05",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "rekursiv-eskalierend",
+        "target": "linear-aufsteigend",
+        "type": "contrasts_with",
+        "quote": "Zyklischer Modus | Shō | 14–26 | rekursiv-eskalierend | ~25 % | A‖B in Polyphonie | Heldenreise außen Phase A | Ten beginnt | 27–34 | linear-aufsteigend",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3007bbb9da4346b9190fa5b2c1f5c414c92a239c1fe10bd2e3b1e3347dbfa38f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "vortex-still",
+        "target": "chorisch-klar",
+        "type": "contrasts_with",
+        "quote": "Vortex 1 (operativ) | Ten (Höhepunkt 1) | 35–36 | vortex-still | 100 % | Soft-Layering, B erlischt monolithisch | Trügerischer Sieg | Ten (Pause) | 37 | chorisch-klar",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ec589476283b2ca9f3db6b7047717180842d410eb7d5341af4466a0569d3fd2f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A",
+        "target": "B",
+        "type": "in_tension_with",
+        "quote": "A dominant, B latent",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        78,
+        191,
+        249,
+        297,
+        345
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:93e387b9acc99559005327c34af8f21b343fbdb5196415a06c043080ba5c417a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A",
+        "target": "B",
+        "type": "in_tension_with",
+        "quote": "A‖B in Polyphonie",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        192,
+        1322
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b154d6003f375cc87e36167b681a892cf01e87a48aed541a3882b365a0eae773",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A",
+        "target": "B",
+        "type": "in_tension_with",
+        "quote": "A‖B eskalierend",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        193
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ffa5abebab353ab6ab04871bb8793e284701626141f77e2cd8f62708d5ff4f4d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Fühlen",
+        "target": "Denken",
+        "type": "contrasts_with",
+        "quote": "philosophische Einladung zum Fühlen statt Denken",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6af5632abcca955f121a5ff3d2b6638daf10ca3349bfd9da580ab452292927c4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ordnung",
+        "target": "Käfig",
+        "type": "in_tension_with",
+        "quote": "Illusion der perfekten Welt — Ordnung als Käfig",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        249
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:349d41871b948bff4203c4e7aa291d32e183dfba2bbda73d69bc15da12430381",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz und Liebe als denselben Pulsschlag, in seiner ursprünglichen ungetrennten Form",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        241
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aae34e0619df0031c04bbd7fd6c5ccdc50c05f8e9164993e4d6d9cb82417e934",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A dominant",
+        "target": "B latent",
+        "type": "contrasts_with",
+        "quote": "Storyform: A dominant, B latent als Umgebung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        249
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:48656e974bc7081bd346aa9264957a29c94cdc468daa8d9c691048f1d48b7002",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz als Kälte",
+        "target": "Liebe als das, was Kael nicht benennen kann",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als Kälte; Liebe als das, was Kael nicht benennen kann.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        265
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:156d27092b5cbfb0a798346f45b56d38cd41c19f019cddaf0adbf61a78503aab",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "andere Syntax",
+        "target": "andere Logik",
+        "type": "complements",
+        "quote": "Lex-Einbruch beginnt — andere Syntax, andere Logik bricht in Kaels Stimme ein",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        281
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3b72802f450facf26385cba877230c378a4efac79b870854f2a86f55139b604f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz als plötzliche Asynchronität",
+        "target": "Liebe als das, was Kael ahnt zu vermissen",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als plötzliche Asynchronität; Liebe als das, was Kael ahnt zu vermissen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        289
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:95fc827b8b768bbb08318915de6963b53b74991fdc5bac16756a60d7c6599676",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Logik",
+        "target": "Kontrolle",
+        "type": "complements",
+        "quote": "Kael (Lex-dominant) versucht Stärke in AEGIS' Methoden zu finden — Logik, Kontrolle.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        305
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2e448d6b34bc45300aac15a347c90e7f6a9fc964ecad2d3b5df3f71a217a5f33",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Verleugnung",
+        "type": "in_tension_with",
+        "quote": "Liebe als Verleugnung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        313
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9c4a19312f95d0adc6a5324dcf50af16e0fa93fdf5d134e0cf7c5b852f006e4c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Material des Bunkers",
+        "type": "complements",
+        "quote": "Schmerz als Material des Bunkers",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        313
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:443828af57132c9700cc8a2a2c5f1824ca31a2a07f1b66af055b2e48b15fa9bb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Scham",
+        "type": "complements",
+        "quote": "Schmerz als Scham",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        337
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:93dab1d805a5f3129065afe575294bdca2091e247243dfb3ec53be00ad73c992",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "das, was Lex nicht zulassen kann",
+        "type": "opposes",
+        "quote": "Liebe als das, was Lex nicht zulassen kann",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        337
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1c65f5861c6976ee02e47131644636be3fa9506f01bce10e53bf8241c52967fe",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "trügerische Stabilität",
+        "target": "Erinnerungslosigkeit",
+        "type": "in_tension_with",
+        "quote": "trügerische Stabilität als Erinnerungs-Substitut",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        349
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:748782e4863bf9a382ee65bc5c460ccd7c5b9cdf060f67763f5d5964cb289d82",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "spiegelglatter Erfolg",
+        "target": "innere Stille der Reinform",
+        "type": "in_tension_with",
+        "quote": "das Auge des Sturms = die innere Stille der Reinform, hier missverstanden als Erfolg",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        361
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fee61893ace6ee2dbed12232de385a43f41f1b4bb94331c34ae3bde5bda95034",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als das, was kurz aufflackert und sofort weichen muss; Schmerz als das, was hinter der Performance liegt",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        361
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d5e94b663c09f3751c6cd2603f9698e04bcb8480fded07dae1c13c7081fca0a9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "einseitiger Ansatz",
+        "target": "komplexes Problem",
+        "type": "opposes",
+        "quote": "Kaels einseitiger Logik-Ansatz scheitert an einem komplexen Problem",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        377
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "komplexes Problem"
+      ]
+    },
+    {
+      "id": "claim:b2557a3c383ae5873d1a985480c81fd4ab52d707bff55272b87c1b21aef15a19",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "complements",
+        "quote": "Schmerz als Konflikt zwischen Alters; Liebe als das, was die Stimmen verbindet ohne dass sie es merken",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        385
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f499c7de7716e86c23d3a340ca77fc50537007462aaf3e20836d41c3c170d852",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "warme Resonanz",
+        "target": "eisiger Welt",
+        "type": "in_tension_with",
+        "quote": "Erste warme Resonanz in eisiger Welt",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        401
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e378ba4678b314ecf82777922583d93a5f901ac34b5d4388b837b9ea1fde18e5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Junas Resonanz, die in Kap 0 als Bedrohung wahrgenommen wurde",
+        "target": "Sehnsucht",
+        "type": "contrasts_with",
+        "quote": "Junas Resonanz, die in Kap 0 als Bedrohung wahrgenommen wurde, kehrt hier als Sehnsucht wieder",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        409
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:653e3b1cd203b71cd6319bfbd17cf4d5b2dd888f20946d6351405492338351f3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als das, was zum ersten Mal nicht abgewehrt wird; Schmerz als das, was die Sehnsucht erzeugt",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        409
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:434866286c6665489f4b910b33e018b7bbd4db341bfbfcfd3e2f9543dab268a0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Mitgefühl; Schmerz als das, was geheilt sein will",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        433
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c8c4beee020b9969ee09ff63167db7d35b6f6e559c9ddaa5a4c50d8e750ab85f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Logik",
+        "target": "Intuition",
+        "type": "complements",
+        "quote": "Logik und Intuition verbinden sich",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        445
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:577f957e1ca0d878606265facb92c732bb7b571b8efd517e6168936ccadeb1ae",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als das, was zwischen den Stimmen klingt; Schmerz als der Bruch, der die Stimmen erst hörbar gemacht hat.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        457
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1dcf9862cdda2c947c9be47886e2489398e774337c519a3e926778e7a6437e7d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Kanal; Schmerz als das, was die Verbindung trotzdem schmerzhaft macht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        481
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cd1b8696cdb9c537a9c7b5138da552e66a3a66621f7f31667bc8e23c6c4a35c8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Vielfalt",
+        "target": "Fehler",
+        "type": "contrasts_with",
+        "quote": "Kael akzeptiert seine innere Vielfalt als Stärke, nicht als Fehler.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        497
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:07ba70662f11046d6f780f95a667d120673b8941e851feaa2f7af036b8a06068",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Stille",
+        "target": "Leere",
+        "type": "contrasts_with",
+        "quote": "Stille als positive Substanz, nicht als Leere.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        521
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d8659ca0e30135faaa7800d2dec33aedbf71bc75c1188177db3be944905970e5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe als Präsenz",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Präsenz; Schmerz als das, was nicht stören kann, weil die Präsenz trägt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        529
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2abd9322f5267bde9cc1494676b3287a6a900ffdbe1cbff3060e323849822f6c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "linear",
+        "target": "zyklisch",
+        "type": "contrasts_with",
+        "quote": "Modus-Wechsel (linear → zyklisch)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        557
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:61a8a5d2761437e3af1d14f554482e5159cd62001689fd7c517ac54a5d7e8973",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "ruhig-stabil",
+        "target": "erschütternd aber nicht vernichtend",
+        "type": "contrasts_with",
+        "quote": "Tonalität: Kap 13 ruhig-stabil, Kap 14 erschütternd aber nicht vernichtend",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        557
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:576dbb2df86f90739df9239756e18760c41d2638573b56333268e1d287cbe475",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz als Wiederkehr",
+        "target": "Liebe als der Anker, der jetzt halten muss",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als Wiederkehr; Liebe als der Anker, der jetzt halten muss",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        581
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e3f615ce2567293227e44bd5ce86e9204b247be0c5306ea5e131786e1896c620",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz als Rückkehr in den Körper; Liebe als das, was Kael verteidigen will.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        605
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f7c964fb28f307b91aabf327a1a12abd17ef40efcf0031f0d6a2fc68ace9de42",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Flucht in Betäubung",
+        "target": "Stabilisierung",
+        "type": "contrasts_with",
+        "quote": "AEGIS interpretiert den Rückfall fälschlich als Stabilisierung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        621
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:187aa504009adec5b097c3a9e96de05833aac4148e72f5ffea66461b46c493ea",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz als Betäubung; Liebe als das, was hinter der Betäubung wartet.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        629
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0381a9ba1dbf81188a7b37dadc48e1ae50f76405e10c4a592f7fc65e3ced4a69",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "aktiv anschauen",
+        "target": "fliehen",
+        "type": "contrasts_with",
+        "quote": "aktiv anschauen statt fliehen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        641
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f55e582f3327e27e947395335c3ddc1eb28bcd3cd73b0a572d24bf0e81056705",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Mut zum Ansehen; Schmerz als Material.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        653
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:baa9d2b25a8e004a36a6113ca11cf86f9b192a449cc7b10c87b7e836671ed05b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "fremde Daten",
+        "target": "seine eigene Erinnerung",
+        "type": "contrasts_with",
+        "quote": "er erlebt sie als fremde Daten, nicht als seine eigene Erinnerung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        669
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9bb9587d7d488135881c1dab9b89b97112ba4a49e485d4bc9bf9923e64be85b1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "direkter Flashback",
+        "target": "Genesis-Echo",
+        "type": "contrasts_with",
+        "quote": "Genesis-Echo: direkter Flashback (markiert)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        677
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fe9695c5877ae7134f14484dccb5f65befe1eb3ff0747cc2e07f3df15080dbd5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz fragmentiert",
+        "target": "Liebe als Echo durch die Bruchlinie",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz fragmentiert; Liebe als Echo durch die Bruchlinie",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        677
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b28ccbcabe5f740cba2beda5a2d8ce9ff858df578c1ceced669087bea1e16404",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Systemlüge wird klarer benannt",
+        "target": "Avoidance als Falsehood erkennbar",
+        "type": "complements",
+        "quote": "MC-Issue — Systemlüge wird klarer benannt; Avoidance als Falsehood erkennbar",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        689
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2bc9190fd49df7de83b6bca700e9d83f67fca5c090a02ea311b6b4018f8768fa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kreatives Wir-Handeln",
+        "target": "reflexhaftes Reagieren",
+        "type": "contrasts_with",
+        "quote": "Kreatives Wir-Handeln statt reflexhaftes Reagieren.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        717
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9e0a3532a35876f3d17e90c369b35ea9eb425c644c58b63e5c3ecca4f4eb8670",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Erfindung; Schmerz als Treibstoff der Erfindung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        725
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c515aa0fe9e6b5e8a777d3ec6872275b61e546e4dd94eec68dc79cb7a608e0ff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz als Substanz",
+        "target": "Liebe als das, wonach er greift",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als Substanz; Liebe als das, wonach er greift.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        749
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5542c78b45ea58a5cb15b582718b84107c7024333bea66e51324ba493be9ca24",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selbst-Schöpfung",
+        "target": "Reparatur",
+        "type": "contrasts_with",
+        "quote": "Selbst-Schöpfung statt Reparatur.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        789
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6cf3527bdaa0bf4b00711e10917f8a33b4742655f52af7e589648302d6359389",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz als Fremdsein im eigenen System",
+        "target": "Liebe als Anker",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als Fremdsein im eigenen System; Liebe als Anker.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        773
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b9f0734e4b295bfbfe7f7148059e51abcd3a6d3325348ac4ee04afeecd50a682",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Existenzielle Korrektur",
+        "target": "reaktive",
+        "type": "contrasts_with",
+        "quote": "Existenzielle Korrektur, nicht mehr nur reaktive.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        789
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d37bcb6b4ca9670b4474bab63eacf8a64d8259a11776ad2d8a1c5433c3066a5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe als Aktion",
+        "target": "Schmerz als Material der Schöpfung",
+        "type": "complements",
+        "quote": "Liebe als Aktion; Schmerz als Material der Schöpfung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        797
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9da17bdae734b79d51eb57677afefed75d51034361f61d7d328ebe1d0c4af8e5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe als Stille",
+        "target": "Schmerz als Lärm der Störung",
+        "type": "complements",
+        "quote": "Liebe als Stille; Schmerz als Lärm der Störung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        821
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c0c7b946e65cad345db3811e7f3c41aff0b7861d4186238ade5e3d6e8f58702b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Klarheit, die noch nicht Tat ist",
+        "target": "Tat",
+        "type": "contrasts_with",
+        "quote": "Klarheit, die noch nicht Tat ist.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        837,
+        845
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f786727d834466efa7eb577b2a718b113e7874af23a8b94fa5281ba0ff21591c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "aktiv werden",
+        "target": "nicht reaktiv",
+        "type": "contrasts_with",
+        "quote": "Decision: aktiv werden, nicht reaktiv.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        861
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e9a79b32509f48ecca24b0b3757aef7b1b51e781de1a26c0ef3f62effae079d4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "zyklisch",
+        "target": "linear-aufsteigend",
+        "type": "contrasts_with",
+        "quote": "Modus-Wechsel (zyklisch → linear-aufsteigend)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        873
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fd224010568d3bb3bb3287c3d1b6045cf30e2a14c8b336055139178664850c5c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe als Entschluss-Substrat",
+        "target": "Schmerz als Begleitung",
+        "type": "complements",
+        "quote": "Liebe als Entschluss-Substrat; Schmerz als Begleitung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        845
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f52dcc8e52a41acb94cc2e4090789af6318b21c2b0d98b3acddd1c6124e68894",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe als Antrieb",
+        "target": "Schmerz als Wissen, dass es jetzt schwerer wird",
+        "type": "complements",
+        "quote": "Liebe als Antrieb; Schmerz als Wissen, dass es jetzt schwerer wird.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        869
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c8a497289557fde1708b3f7e5f035254d6a71d5cab2f4fa335017952e2ea7762",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael agiert mit klarer Absicht",
+        "target": "nicht mehr reaktiv",
+        "type": "contrasts_with",
+        "quote": "Kael agiert mit klarer Absicht, nicht mehr reaktiv.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        889
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:64590f84fe05983fb1a6879d6012fa5dc0cf9370031cc24e76dd7296593fe6e6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "neue Form",
+        "target": "gewählt statt entstanden",
+        "type": "contrasts_with",
+        "quote": "neue Form, gewählt statt entstanden.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        897
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:522ce69a85f7abb781d12e69e8b80ea42ba3d0c7e6f263eb816feb946aa5ccc3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Klarheit; Schmerz als das, was zurückbleibt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        897
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bc4005f0b63c8256783c1541af5002cad019e67bbc27b5099b283331bda9e0cc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz als Dringlichkeit; Liebe als das, was Kael verteidigen will.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        921
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b31d2ecd52c7286d4d92f36550ffdf7e49aed1070650c9267235aa1314f4c044",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als kindliche Angst; Liebe als das, was die Angst hält.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        945
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:95f652ad67069cc26902c0812923e1f0d2812d32eaf0a686386e313d319c5e9b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Liebe als Kanal; Schmerz als das, was die Liebe trotzdem nicht löscht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        969
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bc7aff4b697d19a1620099ef7670733bffa30b74f8df230ab236448ffa798db4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "MC-Concern Memory als Waffe",
+        "target": "operative Eingabe in AEGIS' System",
+        "type": "complements",
+        "quote": "MC-Concern Memory als Waffe — Erinnerung wird operative Eingabe in AEGIS' System",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        981
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8c4574e6c7805efc1da19669e9b2968d9aa14c9fa0c7c182759fa6b9d866d75f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "AEGIS",
+        "type": "opposes",
+        "quote": "Kael beginnt aktiv, AEGIS' Kernsystem anzugreifen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        985
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:97154705e0bccb305b92cab15d75eb67a04c1f9efee0b66194caf6886e77d12c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Liebe als Mut; Schmerz als das, was beim Übertritt zurückbleibt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        993
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e4b2745dd42ed7cb6ad9f52d9b5e61c106c8712c6e58131509c92771381a142e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Falsehood",
+        "target": "Truth",
+        "type": "opposes",
+        "quote": "MC-Issue Falsehood-vs-Truth — Wahrheits-Test gegen logische Fallen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1005
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ac23e2e1a4187601b28f2fe8115f0ea21b0f4dee55553474583bc5a59fd047e2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme",
+        "type": "opposes",
+        "quote": "Kael muss AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme überwinden.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1009
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bbcbd7a7b3c194028724ac7778a332c2d949ec11014fa2b547eb62ed94c50ad0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz als Verlockung der Avoidance; Liebe als das, was nicht weggeht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1017
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3026b51f389c260eab03c0a43da5161173c1f3af2781a79ead33b475e501801c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Wagnis; Schmerz als Tiefe.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1041
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:587e4b13ef9d58ca9488453a1a0c4bf6c83f95d8437344dbe453a6c6f4b2438f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "MC-Concern Memory",
+        "target": "OS-S3 (B)",
+        "type": "contrasts_with",
+        "quote": "A: MC-Concern Memory — nahe an der Quelle. B: OS-S3 (B) — parakonsistente Logik als Architektur",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fb096d18175b21193170659f74c1b0ceb6637d2f0085d46b207e6534b839b2d1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael (Wir)",
+        "target": "AEGIS (Makro-Log)",
+        "type": "contrasts_with",
+        "quote": "POV: Kael (Wir) vs. AEGIS (Makro-Log)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1049
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4831da04336d0df2a9b3efe97074a68f4c48c9e3f78f8a541c772be66085f5ca",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "MC-Concern dominant",
+        "target": "AEGIS-Datenlast",
+        "type": "contrasts_with",
+        "quote": "A: MC-Concern dominant; Pursuit als Stand; Wir-Geflecht artikuliert sich als Selbstdefinition B: OS-S3 (B) — AEGIS-Datenlast",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1053
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1a35de69703fad169d7cbc8873b97355f10d74ca13beed396948d305790b8483",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS' negativ definierte (verhindernde)",
+        "target": "Kaels positiv definierte (bezeugende)",
+        "type": "contrasts_with",
+        "quote": "Zwei Arten der Kohärenz prallen aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv definierte (bezeugende).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1057
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:175f707d58303c044f0e957c12d270c08ad2aad04d566e603907b07aa5cdc5ff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Orkan",
+        "target": "Sphäre",
+        "type": "opposes",
+        "quote": "Zwei Arten der Kohärenz prallen aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv definierte (bezeugende). Orkan vs. Sphäre.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1057
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1873fefb1cdc6ca3bcb6c498caecdb6990f640a2487841aef2ab6eec960b8425",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Orkan",
+        "target": "Sphäre",
+        "type": "opposes",
+        "quote": "Orkan vs. Sphäre, kollidierende Tonalitäten",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1065
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:11b5cd0690b91b85d75027e1c7b7bae5637a1028cd9d0b81dfddde6b7e4e64b4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "MC-Solution Pursuit",
+        "target": "AEGIS-Solution Feeling",
+        "type": "contrasts_with",
+        "quote": "A: MC-Solution Pursuit *vollzogen* — Decision aktiviert **B:** AEGIS-Solution Feeling *nicht adoptiert* — Failure manifest",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1077
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ff7280fd17ce6aea1fb15c49f4518bfc31cab6cc41da957e01f6e5b7e451caa9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "complements",
+        "quote": "Schmerz als das Glühen der Paradoxie; Liebe als das, was Kael trägt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1095
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d488b9b7bd5ac8e9650d0c1c1c275532a0a20f74909091c23449503efe4b6fb4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A",
+        "target": "B",
+        "type": "opposes",
+        "quote": "A: Resolve=Change vollzogen (operativ) B: erlischt monolithisch; Algorithmische Melancholie",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1107
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7e3145dc7c892c01634f7f3aa1bbc07728a1fc31620b119dac5eb978ac7d91e5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "B's operative Closure",
+        "target": "A bleibt allein",
+        "type": "opposes",
+        "quote": "B's operative Closure zerbricht. A bleibt allein.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1116
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8c87828cf43b5f7591300e898097bb4c1678c3f81f64dad26d688976dd5cea87",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "erlöschend",
+        "target": "melancholisch",
+        "type": "complements",
+        "quote": "AEGIS (erlöschend, melancholisch)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1124
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:87b6d723629ff03fe457c2c0111993d34426a7fa2c83a9064feadcf01a722e90",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Oblivion",
+        "target": "AEGIS",
+        "type": "opposes",
+        "quote": "Oblivion (übernimmt AEGIS' Funktion in Kaels Innensystem — als Wachheit, die entscheidet statt automatisch löscht)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1124
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:96ed4745907ff66938b2ce2eacfa93293b78f1aac835b64d50137438135751f7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "entscheidet",
+        "target": "automatisch löscht",
+        "type": "contrasts_with",
+        "quote": "Oblivion (übernimmt AEGIS' Funktion in Kaels Innensystem — als Wachheit, die entscheidet statt automatisch löscht)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1124
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:889327130ab007e6a129312257ed19a78ab1173a3417b31bcfcbc12baa89644d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz als das, was AEGIS nie verstand; Liebe als das, was Kael trägt — und dem AEGIS gerade sterbend erlaubt zu bleiben",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1128
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5dbcdd84fc2df91412bcc8d804eebe65789e188e02c04c2e60e444eb17881c16",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe als kultivierte Ordnung",
+        "target": "Schmerz als das, was leise am Rand wartet",
+        "type": "in_tension_with",
+        "quote": "Liebe als kultivierte Ordnung; Schmerz als das, was leise am Rand wartet",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1152
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6c39f6e6ffc42bfd0d715efea859b0733ce79684f3ee9b8a94fd8d6489649b67",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Bedrohung",
+        "target": "Ruf",
+        "type": "contrasts_with",
+        "quote": "Junas Resonanz, die in Kap 0 als Bedrohung erfahrbar war, kehrt hier als Ruf wieder.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ed756f23f32fb2d01cc4482d5a0441025a82a7fbb1bb03f98fb14a538959e5d9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Strukturelle Stille",
+        "target": "Vortex-1-Beat-3",
+        "type": "contrasts_with",
+        "quote": "Strukturelle Stille — anders als Vortex-1-Beat-3, hier: Ankunft einer Konstanten.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1174
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:db851d3f1d6a44fd4de134dd10c822969225bfdfa6403fb236646a09462d88cf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Bedrohung",
+        "target": "Geburt",
+        "type": "contrasts_with",
+        "quote": "Was als Bedrohung erfahrbar war, wird als Geburt erkennbar.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1184
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fe71e4f3126236121d82446ff3c0e76ec79bb92f92a482b075f2d24e1956d5d5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Outcome=Success / Good with high Cost",
+        "target": "Outcome=Failure / Bad with Dividend",
+        "type": "contrasts_with",
+        "quote": "**A:** Outcome=Success / Good with high Cost — Cost vollzogen: Verlust der Privatheit des Wir **B:** Outcome=Failure / Bad with Dividend — Dividend vollzogen: Funktion bleibt durch plurale Übernahme",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d6195f3b53200451734b0168c67becff4495ee0a05f150ec17a1c87635027778",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wir-AEGIS-monolithisch",
+        "target": "AEGIS-plural",
+        "type": "contrasts_with",
+        "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1206
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Wir-AEGIS-monolithisch"
+      ]
+    },
+    {
+      "id": "claim:9130a5e689c24c92a627427273fdc7e5ba4d6196cd723158b5608f2b9f86679d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "private Form",
+        "target": "kosmisch, plural, bewahrend",
+        "type": "contrasts_with",
+        "quote": "Wir-Geflecht löst sich aus seiner privaten Form. Wir wird kosmisch, plural, bewahrend.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "private Form"
+      ]
+    },
+    {
+      "id": "claim:99b9670ad2f97f7206ccc158dd5501439e46904e45645aad4b2906e2dc2c6024",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz und Liebe als denselben Pulsschlag",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        241,
+        1220
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e022173f1464b756172d7d620124c2423d7d285b69072b8519d0141493d6358a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "existenziell",
+        "target": "oberflächlich",
+        "type": "contrasts_with",
+        "quote": "Zyklus 3 Destabilisierung — qualitativ anders als Z1/Z2, existenziell statt oberflächlich.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1323
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:12cb33c47f72a73efca57a94d8cecb0004fbf01a8df6676605acaf9f912b62dc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "linear",
+        "target": "zyklisch",
+        "type": "contrasts_with",
+        "quote": "linear → zyklisch · Bruch des Gleichgewichts · Beide Storyforms laufen weiter",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1331
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5350fb4fef065ae9103eddf64190564350fba5096bea0ec7a702deff8a25957d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "zyklisch",
+        "target": "linear-aufsteigend",
+        "type": "contrasts_with",
+        "quote": "zyklisch → linear-aufsteigend · Entschlossenheit statt Triumphalismus",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1332
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:26279a9e0a99eee05deb1349bcde6ceccc815b0f9216a925ec37191f7a199cbb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Entschlossenheit",
+        "target": "Triumphalismus",
+        "type": "contrasts_with",
+        "quote": "Entschlossenheit statt Triumphalismus",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1332
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d0029b7ea6fb2ce1525bd2acb9ff58642b30a7d6bd872975aa668aa63b8f1d51",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Modus-Wechsel",
+        "target": "Storyform-Wechsel",
+        "type": "contrasts_with",
+        "quote": "Modus-Wechsel (kein Storyform-Wechsel)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1331,
+        1332
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:78fe536abfa7181076e13d1700cd3c7afdd41ab3c9e3ce72b899736771092ddd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "B erlischt monolithisch",
+        "target": "nur-A-Schein bricht auf in Synthese",
+        "type": "contrasts_with",
+        "quote": "B erlischt monolithisch · Algorithmische Melancholie",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1334
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5972cc61da478400843342877050bd54a2d073ebbe454b07dc8ba7c1be9c0a71",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Bedeutung entsteht nachträglich",
+        "target": "nicht kausal",
+        "type": "contrasts_with",
+        "quote": "Bedeutung entsteht *nachträglich*, nicht kausal.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1340
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b583c8c622ec2a03820b4e5966310a39c1cbfec863819fe8fc43dce6622291f0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ten (die Wendung)",
+        "target": "die Lösung des Konflikts",
+        "type": "contrasts_with",
+        "quote": "Ten (die Wendung) ist nicht die Lösung des Konflikts — sie ist die Erkennung dessen, was immer schon der Fall war.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1340
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:01d0e130029d3b96af0908bacb7c09e45618fb43026194c5f9b6047db15618ff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Vortex 1 (orthodox)",
+        "target": "Vortex 2 (post-orthodox, Synthese)",
+        "type": "contrasts_with",
+        "quote": "Zwei vollständige Storyforms in echter Klein-c-Inversion, die im Vortex 1 (orthodox) und Vortex 2 (post-orthodox, Synthese) zusammenkommen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1341
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:041701f966229145ed356d3db7237181d0f87bc4e47918ec9ba98709ecc7b6d0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Linear-introspektiv (innere Reise)",
+        "target": "linear-aufsteigend mit Doppel-Vortex (äußere Konfrontation + ontologische Synthese)",
+        "type": "contrasts_with",
+        "quote": "Linear-introspektiv (innere Reise) → rekursiv-eskalierend (zyklische Verarbeitung) → linear-aufsteigend mit Doppel-Vortex (äußere Konfrontation + ontologische Synthese).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1342
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f7216e177feec5ddf69a71978c48bf26a3c4625f20e3156139ecdf462907af91",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Form der Bewegung",
+        "target": "Form der Wendung",
+        "type": "contrasts_with",
+        "quote": "Die Modi sind die *Form der Bewegung*, nicht die Form der Wendung — die Wendung sitzt im Vortex 2.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1342
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:27cf25302b5b4e5831f2a04f5a78bb08728a32784fa17965a17cf43e4ea787ae",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael-Wir",
+        "target": "AEGIS",
+        "type": "contrasts_with",
+        "quote": "Kael-Wir vs. AEGIS, Mnemosyne-Setting, Oblivion-Innen-Spiegelung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1355
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a5555ecf4b2c3b8f1ef023ada638aa9ad8fa43b589625bb784f97425e87d15d7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ketsu",
+        "target": "Konsequenz von Ten",
+        "type": "opposes",
+        "quote": "Ketsu ist nicht die Konsequenz von Ten, sondern die *Verstehens-Form* aller vorherigen Beats.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1383
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:66bf2c3eeb155b722eb2521b359a5111c49affb4a8fcf987a81868a1d44906b1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Vortex 1",
+        "target": "Vortex 2",
+        "type": "contrasts_with",
+        "quote": "Vortex 1 ist orthodoxer Dramatica-Klimax (B erlischt). Vortex 2 ist post-Dramatica-Synthese (c entsteht).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1384
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e677162385c316e9feaef14672407b1ccb5d1c3780c15716d127fddaa8661b6c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "plurale Apotheose",
+        "target": "Klein-c-Schema",
+        "type": "opposes",
+        "quote": "Die plurale Apotheose ist nicht innerhalb des Klein-c-Schemas beschreibbar — sie ist seine Überschreitung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1384
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cfbc84d819054d1d09c85882aa44a2b743fc29df9517c332458a9a1792c5826d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Welt",
+        "type": "opposes",
+        "quote": "Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1385
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:98d4017b6e65b9c1b2f64c4a18c74e581cccc032c142850179c742ffb2460ee2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "physisch beschrieben",
+        "target": "durch Wirkung wahrnehmbar",
+        "type": "contrasts_with",
+        "quote": "Sie wird niemals physisch beschrieben — nur durch Wirkung wahrnehmbar.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "TermContrasts",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1385
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

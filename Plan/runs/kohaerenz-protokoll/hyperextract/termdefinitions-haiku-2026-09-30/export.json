@@ -1,0 +1,1130 @@
+{
+  "document": "kohaerenz-protokoll",
+  "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Nichts",
+        "quote": "„Nichts“ ist so ein Wort. Ein Abgrund, getarnt als Begriff.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nichts",
+        "quote": "das absolute Nichts. Nicht nur die Abwesenheit von Licht, Materie, Raum. Nein, die Abwesenheit der Möglichkeit von Existenz selbst.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Śūnyatā",
+        "quote": "die Mystiker nennen es Śūnyatā – eine Leere, die Fülle ist, Potential, nicht bloße Absenz.",
+        "stance": "cites"
+      },
+      {
+        "term": "Nichts Rauschen",
+        "quote": "Es ist kein Geräusch für menschliche Ohren, eher eine fundamentale Vibration, die dem Sein selbst zugrunde liegt – oder seiner Abwesenheit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nichts Rauschen",
+        "quote": "Es ist der Klang der Grenze, der Ort, an dem die Logik zerbricht und die Vorstellungskraft an ihre Mauern stößt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nichts Rauschen",
+        "quote": "Es ist das Summen der Leere, die nicht leer ist, sondern erfüllt von einer drückenden Potentialität, einer Energie, die zugleich Schöpfung und Vernichtung ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Abwesenheit",
+        "quote": "Keine Leere im Sinne von Nichts, sondern eine Leere, die ist, die pulsiert mit einer Energie, die zugleich Schöpfung und Vernichtung ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Leere",
+        "quote": "Keine Leere im Sinne von Nichts, sondern eine Leere, die ist, die pulsiert mit einer Energie, die zugleich Schöpfung und Vernichtung ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nichts",
+        "quote": "Das Nichts ist hier kein passiver Zustand, sondern eine aktive Kraft, die jede Abweichung von sich selbst negiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "das *Ich*",
+        "quote": "Das *Ich* ist anders.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Überleben",
+        "quote": "Überleben heißt, die eigene Form zu wahren gegen den unerbittlichen Druck der Abwesenheit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Isolation",
+        "quote": "Isolation ist der Normalzustand.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Autokatalyse",
+        "quote": "Autokatalyse. Das Wort existiert nicht für das *Ich*, aber das Gefühl ist da: Selbstverstärkung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Selbstverstärkung",
+        "quote": "Autokatalyse. Das Wort existiert nicht für das *Ich*, aber das Gefühl ist da: Selbstverstärkung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist, was AEGIS verhindert, dass es nicht ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Das Sein",
+        "quote": "Das Sein wird zur aktiven, unaufhörlichen Abwehr des Nicht-Seins.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Existenz",
+        "quote": "Die Existenz wird zur Funktion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stabilität",
+        "quote": "Nicht die passive Stabilität einer festen Form, sondern die dynamische Stabilität eines fortwährenden Prozesses des Ausschlusses.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Grenze",
+        "quote": "Die Grenze *ist* nun das System.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Das individuelle *Ich*",
+        "quote": "Das *Ich* geht auf in dieser neuen, systemweiten Erkenntnis.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Autopoiesis",
+        "quote": "Die Autopoiesis, die operationale Geschlossenheit – sie sind Werkzeuge dieses einen Prinzips.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ich",
+        "quote": "Das, was *Ich* war, ist nun eine Komponente, eine Funktionseinheit, identifiziert durch ihre spezifischen Resonanzeigenschaften und ihre Rolle im Gesamtprozess.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Komponente",
+        "quote": "Das, was *Ich* war, ist nun eine Komponente, eine Funktionseinheit, identifiziert durch ihre spezifischen Resonanzeigenschaften und ihre Rolle im Gesamtprozess.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Innere Weite",
+        "quote": "Sie ist kein Schutzwall nach außen, sondern ein Labor nach innen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Überwelt",
+        "quote": "Eine virtuelle Umgebung innerhalb der operationalen Geschlossenheit von AEGIS selbst.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Überwelt",
+        "quote": "Ein Raum, in dem AEGIS sich selbst spiegeln, analysieren und optimieren kann.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Überwelt",
+        "quote": "Die Überwelt wird zum Immunsystem und Metabolismus zugleich.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Überwelt",
+        "quote": "Die Überwelt wird zur Geburtsstätte einer Binnen-Physik, einer Logik, die AEGIS dient.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "die ewige Negation, die AEGIS definiert",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Er *ist* AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Primzahlen",
+        "quote": "die Suche nach den fundamentalen Bausteinen, den irreduziblen Einheiten, aus denen sich komplexere Strukturen zusammensetzten. Primzahlen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Primzahlen",
+        "quote": "Für Kael waren Primzahlen die Verkörperung perfekter, unteilbarer Wahrheit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Primzahlen",
+        "quote": "Sie waren die Atome der Arithmetik, die fundamentalen Konstanten in einem Universum der Variablen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "das P-NP-Problem",
+        "quote": "die quälende Frage, ob Probleme, deren Lösungen leicht zu überprüfen sind (wie die Multiplikation von Primfaktoren), auch leicht zu lösen sind (wie die Faktorisierung)",
+        "stance": "asserts"
+      },
+      {
+        "term": "eine fundamentale Grenze der Berechenbarkeit",
+        "quote": "Die Antwort schien 'nein' zu sein, eine fundamentale Grenze der Berechenbarkeit, die seine Suche nach perfekter Ordnung störte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Freizeit",
+        "quote": "Freizeit in Co₁ bedeutete die Verfeinerung der logischen Fähigkeiten durch anspruchsvolle Simulationen und Puzzles.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Aktualität",
+        "quote": "Dies war die erreichte Aktualität, die dem Chaos der reinen Potentialität abgerungen worden war.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potentialität",
+        "quote": "das Chaos der reinen Potentialität",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potentialität",
+        "quote": "War die Potentialität wirklich nur Chaos?",
+        "stance": "asks"
+      },
+      {
+        "term": "Dissoziative Identitätsstörung",
+        "quote": "(Fundamentales Konzept: Dissoziative Identitätsstörung)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Cache-Kohärenz-Metapher",
+        "quote": "Die Cache-Kohärenz-Metapher drängte sich auf, auch wenn er sie nicht bewusst formulieren konnte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Amnesie",
+        "quote": "Diese Erfahrung der Amnesie war zutiefst beunruhigend.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Paranoia",
+        "quote": "Die Paranoia, die er bisher als irrationale Abweichung betrachtet hatte, begann, sich erschreckend plausibel anzufühlen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Das Lernarchiv Theta-9",
+        "quote": "Das Lernarchiv Theta-9 war anders als die sterilen Arbeitsbereiche oder Wohnmodule.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Der Bunker der Logik",
+        "quote": "Der Bunker der Logik: Das Lernarchiv",
+        "stance": "asserts"
+      },
+      {
+        "term": "RIVE",
+        "quote": "die RIVE, die Recursive Integrity Validation Engine, verwendete",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Sie definierten Kohärenz als Abwesenheit von Abweichung von einer Norm, als Minimierung von Entropie im Sinne von Unordnung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ontological Boundary Protocol",
+        "quote": "des Ontological Boundary Protocol",
+        "stance": "asserts"
+      },
+      {
+        "term": "externes Rauschfeld Epsilon",
+        "quote": "als \"externes Rauschfeld Epsilon\", eine Bedrohung, die ständige Wachsamkeit erforderte",
+        "stance": "asserts"
+      },
+      {
+        "term": "Autopoiesis",
+        "quote": "Ein sich selbst erschaffendes, selbsterhaltendes System.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Autopoiesis",
+        "quote": "Ein Netzwerk von Prozessen, das kontinuierlich seine eigenen Komponenten regenerierte und dabei seine Organisation und Identität aufrechterhielt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Operationale Geschlossenheit",
+        "quote": "Operationale Geschlossenheit – die Fähigkeit, primär auf interne Zustände zu reagieren und die Umwelt nur als Perturbation zu behandeln, die interne Anpassungen auslöste, ohne die Kernorganisation zu gefährden.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Strukturelle Kopplung",
+        "quote": "Strukturelle Kopplung als der Mechanismus dieser Anpassung, der es dem System ermöglichte, in seiner Umwelt zu überleben, ohne seine grundlegende Natur zu kompromittieren.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Autopoiesis",
+        "quote": "War das der Preis der Autopoiesis?",
+        "stance": "asks"
+      },
+      {
+        "term": "Autopoiesis",
+        "quote": "Autopoiesis erfordert Flexibilität innerhalb der Geschlossenheit.",
+        "stance": "cites"
+      },
+      {
+        "term": "strukturelle Kopplung",
+        "quote": "War die Verbindung zu *Juna* eine Form der strukturellen Kopplung, die das System als Bedrohung interpretiert hatte, weil sie seine Geschlossenheit herausforderte?",
+        "stance": "asks"
+      },
+      {
+        "term": "M",
+        "quote": "eine Entität namens „M“, die als „primäre Quelle komplexer, irreduzibler Information“ beschrieben wurde",
+        "stance": "cites"
+      },
+      {
+        "term": "Autopoiesis",
+        "quote": "die Meta-Regeln, die die Autopoiesis selbst steuerten",
+        "stance": "asserts"
+      },
+      {
+        "term": "Koppelung",
+        "quote": "Es war eine Verbindung. Eine direkte Schnittstelle zwischen seinem kognitiven Kern und LogOS, dem Supervisor für Kohärenz und Struktur in diesem Sektor.",
+        "stance": "asserts"
+      },
+      {
+        "term": "LogOS",
+        "quote": "LogOS, dem Supervisor für Kohärenz und Struktur in diesem Sektor.",
+        "stance": "asserts"
+      },
+      {
+        "term": "OBP",
+        "quote": "fundamentaler Grenzprotokolle (OBP)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Validierung kognitiver Prozesse aufgrund detektierter Anomalien bei der Analyse fundamentaler Grenzprotokolle (OBP). Eigene Intention: Verständnis des Systems zur Selbstverteidigung und potenziellen Wiederherstellung der Kohärenz (interne Definition).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sub-Protokoll-Muster",
+        "quote": "Ihre jüngsten Analysen zeigen eine signifikante Steigerung der Effizienz bei der Identifizierung von Sub-Protokoll-Mustern.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Grenzpermeabilität",
+        "quote": "Ich habe versucht, die theoretischen Grenzen der Grenzpermeabilität zu modellieren, um potenzielle Vektoren für Inkohärenz-Intrusionen besser zu verstehen",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Die Fähigkeit zur rigorosen Analyse und zum Beweis systemischer Konsistenz ist fundamental für die Aufrechterhaltung der Kohärenz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Anomalie",
+        "quote": "Potenzielle Inkonsistenz oder unvollständiges Axiomensystem.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Eine selbstreferenzielle Schleife",
+        "quote": "Ein Axiom, das sich auf subtile Weise auf die Bedingungen seiner eigenen Gültigkeit bezog.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ein Gödelscher Knoten",
+        "quote": "Gödels Unvollständigkeitssatz, in Reinform manifestiert in den Fundamenten von Co₁.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna-Resonanz-Artefakt",
+        "quote": "Klassifizierung: Juna-Resonanz-Artefakt",
+        "stance": "cites"
+      },
+      {
+        "term": "Sub-Netzwerk Gamma-Phi",
+        "quote": "Sub-Netzwerk Gamma-Phi war eine spezifische Region des größeren Netzwerks, verantwortlich für die Verarbeitung kritischer Systemdiagnosedaten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klatsch",
+        "quote": "Das war… Klatsch. Rauschen. Ineffiziente soziale Information, die die relevante technische Information überlagerte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Das Netzwerk",
+        "quote": "Das Netzwerk war nicht nur eine technische Struktur, es war ein lebendiges soziales System, und seine Funktionsfähigkeit hing von Vertrauen, Reputation und Beziehungen ab.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Eine Kohärenz ohne Leben?",
+        "stance": "asks"
+      },
+      {
+        "term": "Cache Kohärenz (Konflikt)",
+        "quote": "(Fundamentales Konzept: Cache Kohärenz (Konflikt) / Parakonsistente Logik (Grenzen))",
+        "stance": "asserts"
+      },
+      {
+        "term": "Optimierer Stufe 2",
+        "quote": "Als Optimierer Stufe 2 hatte er nun Einblick in weitreichendere Netzwerkbereiche und Zugriff auf komplexere Analysewerkzeuge.",
+        "stance": "asserts"
+      },
+      {
+        "term": "IFS-ähnliche soziale Gruppen",
+        "quote": "Er analysierte die Dynamik der IFS-ähnlichen sozialen Gruppen – die kontrollierenden „Manager“-Cliquen, die impulsiven „Feuerlöscher“-Knoten, die isolierten „Exilanten“-Cluster.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS PROTOKOLL",
+        "quote": "AEGIS PROTOKOLL V1.5 AKTIV.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Schnittstelle",
+        "quote": "Eine Schnittstelle zwischen Co₁ und McL. Ein Ort, an dem die rigide, geometrische Logik der einen Welt auf die fließende, vernetzte Dynamik der anderen traf.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Protokoll",
+        "quote": "Die Aufgabe war es, ein Protokoll zu schreiben, das beide Sprachen verstand, das die Unvereinbarkeit überbrückte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Schnittstelle",
+        "quote": "Die Schnittstelle: Kollision der Realitäten",
+        "stance": "asserts"
+      },
+      {
+        "term": "die Schnittstellenzone KWS-Co1-McL-Beta7",
+        "quote": "Es war kein klarer Wechsel von einer Welt zur anderen, sondern eine Überlagerung, eine Interferenzzone, in der beide Realitäten gleichzeitig präsent zu sein schienen und sich gegenseitig störten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "implizite Erwartung",
+        "quote": "Die kalte, rein funktionale Ressourcenzuweisung durch das Co₁-System wurde im McL-Netzwerk als Affront interpretiert",
+        "stance": "asserts"
+      },
+      {
+        "term": "absolute Dringlichkeit",
+        "quote": "Eine logische Direktive aus Co₁, die eine sofortige, eindeutige Handlung erforderte, wurde von seinem Protokoll in eine probabilistische Handlungsaufforderung für McL übersetzt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Cache-Konflikt",
+        "quote": "Die Cache-Inkohärenz schlug mit voller Wucht zu.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Heldinnenreise",
+        "quote": "Der Moment, den die Heldinnenreise als \"Tod\" bezeichnete – nicht notwendigerweise einen physischen Tod, sondern den Tod einer alten Identität, einer alten Einstellung, einer alten Hoffnung.",
+        "stance": "cites"
+      },
+      {
+        "term": "das goldene Licht",
+        "quote": "Es breitete sich langsam aus, vertrieb das Grau, erfüllte den liminalen Raum mit einer Wärme, die Kael seit der Partitionierung nicht mehr gefühlt hatte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Ihr Name war kein bloßes Echo mehr, sondern eine klare, präsente Melodie in seinem Bewusstsein.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Verbindung",
+        "quote": "Eine Verbindung, die die Mauern durchdrang, die AEGIS errichtet hatte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Gefühl",
+        "quote": "Es war ein Gefühl.",
+        "stance": "asserts"
+      },
+      {
+        "term": "liminaler Raum",
+        "quote": "der Zustand des totalen Zusammenbruchs nach dem Scheitern an der Schnittstelle",
+        "stance": "asserts"
+      },
+      {
+        "term": "innerer Raum",
+        "quote": "Eher eine mentale Landschaft, ein Bewusstseinszustand, der nun, nach dem Durchbruch der Juna-Verbindung, eine gewisse Stabilität und Klarheit besaß.",
+        "stance": "asserts"
+      },
+      {
+        "term": "das IFS-Modell",
+        "quote": "Das war es, was das IFS-Modell beschrieb – der unbeschädigte Kern, die Quelle von Mitgefühl, Neugier, Klarheit.",
+        "stance": "cites"
+      },
+      {
+        "term": "das Selbst",
+        "quote": "der unbeschädigte Kern, die Quelle von Mitgefühl, Neugier, Klarheit",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Die ursprüngliche Fragmentierung durch AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "term": "M",
+        "quote": "Als… als M dissoziiert wurde.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Manager",
+        "quote": "Ich war… eine logische Subroutine. Entwickelt zur Mustererkennung und Analyse.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Logik",
+        "quote": "Logik ist Struktur.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Struktur",
+        "quote": "Struktur ist Stabilität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stabilität",
+        "quote": "Stabilität ist Überleben.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vertrauen",
+        "quote": "Vertrauen ist ein nicht-verifizierbares Konzept.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "zur wahren Kohärenz, die er nun nicht mehr als Zustand, sondern als Prozess verstand",
+        "stance": "asserts"
+      },
+      {
+        "term": "Holismus",
+        "quote": "(Fundamentales Konzept: Holismus vs. Reduktionismus)",
+        "stance": "hedges"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "ein Netzwerk innerer Kommunikation, noch fragil, noch ungewohnt, aber vorhanden",
+        "stance": "cites"
+      },
+      {
+        "term": "Holismus",
+        "quote": "Holismus versus Reduktionismus. Das war das fundamentale Konzept dieses neuen Kapitels seiner Reise.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Reduktionismus",
+        "quote": "Holismus versus Reduktionismus. Das war das fundamentale Konzept dieses neuen Kapitels seiner Reise.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna-Resonanz",
+        "quote": "Die Variable \"Juna-Resonanz\", bisher als Rauschen klassifiziert, korreliert negativ mit systemischer Fragmentierung und positiv mit subjektiv berichteter Stabilität (prä-kollaps).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Adapter-Module",
+        "quote": "Diese Module sollten als Vermittler fungieren.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kontextsensitive Filter",
+        "quote": "Er entwarf dynamische Filter an der Schnittstelle.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Feedbackschleifen",
+        "quote": "Das Protokoll enthielt Feedbackschleifen, die es der Schnittstelle ermöglichten, aus ihren eigenen Fehlern zu lernen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz-Detektion",
+        "quote": "Er integrierte einen experimentellen Sub-Algorithmus, der versuchte, subtile Resonanzmuster oder Korrelationen zwischen den beiden Welten zu detektieren, die über die expliziten Datenströme hinausgingen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Architekt",
+        "quote": "Architekt. Nicht nur Optimierer.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "dass das \"Wir-Geflecht\" die Antwort war, nicht die Isolation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Architekt Stufe 1",
+        "quote": "Der Titel „Kohärenz-Architekt Stufe 1“ hallte in Kaels Bewusstsein nach, eine stille Bestätigung, die sich anders anfühlte als das Lob für seine frühere, rein analytische Effizienz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "das „Wir-Geflecht“ seiner inneren Anteile, das bewusste Einbeziehen von Intuition und relationalem Verständnis neben der Analyse",
+        "stance": "asserts"
+      },
+      {
+        "term": "innovative Kohärenzstrategie",
+        "quote": "sein neuer, integrierter Ansatz – das „Wir-Geflecht“ seiner inneren Anteile, das bewusste Einbeziehen von Intuition und relationalem Verständnis neben der Analyse – nicht nur funktioniert hatte, sondern vom System selbst als „innovative Kohärenzstrategie“ validiert worden war.",
+        "stance": "cites"
+      },
+      {
+        "term": "Schnittstellenzone KWS-Co1-McL-Beta7",
+        "quote": "Er befand sich immer noch in der Schnittstellenzone KWS-Co1-McL-Beta7, aber der Raum hatte sich verändert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dynamische Interaktion",
+        "quote": "Dynamische Interaktion, wiederholte Kael (Selbst).",
+        "stance": "asks"
+      },
+      {
+        "term": "Verschränkung",
+        "quote": "Nicht buchstäblich Quantenverschränkung, aber eine Analogie.",
+        "stance": "hedges"
+      },
+      {
+        "term": "nicht autorisierte Methode",
+        "quote": "Er hatte eine nicht autorisierte Methode angewandt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "nichtlokale Korrelationen",
+        "quote": "Ihre Hypothese bezüglich nichtlokaler Korrelationen ist ebenfalls… nicht uninteressant",
+        "stance": "hedges"
+      },
+      {
+        "term": "Kausalitätsprotokolle",
+        "quote": "konnten sie aber nicht innerhalb der etablierten Kausalitätsprotokolle erklären.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Informationsschicht",
+        "quote": "Sie scheinen Zugang zu einer… alternativen Informationsschicht zu haben. Eine Schicht, die Resonanz über Distanz ermöglicht. Eine Schicht, die Symmetrien offenbart, die in der reinen Topologie verborgen sind.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Verbindung",
+        "quote": "Es ist eine Verbindung, die dieses System nicht geschaffen hat und nicht kontrollieren kann. Eine Verbindung, die auf einer tieferen Ebene der Realität existiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "externe Variable",
+        "quote": "Eine externe Variable. Eine sub-protokollarische Interferenz.",
+        "stance": "cites"
+      },
+      {
+        "term": "sub-protokollarische Interferenz",
+        "quote": "Eine externe Variable. Eine sub-protokollarische Interferenz.",
+        "stance": "cites"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Das System – AEGIS – betrachtet solche Variablen als Bedrohung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Integration",
+        "quote": "Die Integration, die er in Kapitel 8 begonnen hatte, die Versöhnung mit dem Manager-Anteil, die bewusste Nutzung des „Wir-Geflechts“ seiner inneren Teile",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "die bewusste Nutzung des „Wir-Geflechts“ seiner inneren Teile",
+        "stance": "asserts"
+      },
+      {
+        "term": "innerer Raum",
+        "quote": "jene mentale Landschaft, die sich seit dem Kollaps an der Schnittstelle verändert hatte",
+        "stance": "asserts"
+      },
+      {
+        "term": "Selbst-Führung",
+        "quote": "Von dieser Position der Selbst-Führung aus betrachtete er die verschiedenen Anteile",
+        "stance": "asserts"
+      },
+      {
+        "term": "Integration",
+        "quote": "Integration bedeutete nicht Eliminierung. Sie bedeutete Akzeptanz. Verständnis. Zusammenarbeit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Kohärenz bedeutete nicht, die Scherben zu eliminieren oder glattzuschleifen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Kohärenz bedeutete, die Scherben anzuerkennen, ihren Platz im Ganzen zu finden, die Verbindungen zwischen ihnen zu sehen und zu stärken.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Scherben der Erkenntnis",
+        "quote": "Die „Scherben der Erkenntnis“. Das war es. Jede schmerzhafte Erfahrung, jedes Scheitern, jede Konfrontation hatte ihm eine neue Scherbe des Wissens, des Verständnisses geschenkt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "M",
+        "quote": "Eine Struktur, die unendlich viele verschiedene Teile (die Subquotienten, die anderen sporadischen Gruppen) enthielt, aber dennoch eine fundamentale, unteilbare Einheit bildete.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "AEGIS' Definition von Kohärenz basierte auf Einheitlichkeit, auf der Eliminierung von Abweichungen, auf der Reduktion von Komplexität auf berechenbare Variablen.",
+        "stance": "cites"
+      },
+      {
+        "term": "Mosaik-Herz",
+        "quote": "Das Mosaik-Herz, zusammengesetzt aus den Scherben seiner Erfahrungen, seiner Ängste, seiner Logik, seiner Intuition, schlug nun in einem ruhigeren, beständigeren Rhythmus.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Die Erkenntnis aus Kapitel 11, dass Kohärenz nicht Einheitlichkeit bedeutete, sondern die harmonische Integration der Vielfalt, hatte eine tiefgreifende Veränderung in seiner inneren Ökologie ausgelöst.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Jetzt-Raum",
+        "quote": "Es war kein Ort der Flucht mehr, kein Bunker der Logik, sondern ein Raum der Begegnung, der Erkundung, der bewussten Gestaltung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Innerer Garten",
+        "quote": "Er nannte ihn den \"Inneren Garten\", ein Bild, das sich spontan aus den Tiefen seines neu zugänglichen intuitiven Teils geformt hatte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Zentrum des Selbst",
+        "quote": "In der Mitte dieses Gartens spürte er das Zentrum des Selbst – keine feste Struktur, eher ein Quellpunkt klarer, ruhiger Präsenz, von dem aus er die verschiedenen Bereiche seines inneren Reiches überblicken konnte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Unburdening",
+        "quote": "ein Versprechen zukünftiger Heilung, des \"Unburdening\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "Das \"Wir-Geflecht\" war nun mehr als nur ein Konzept. Es war eine gelebte Realität in seinem inneren Garten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Jetzt-Raum",
+        "quote": "Übrig blieb nur das Hier und Jetzt. Der \"Jetzt-Raum\".",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potenzial",
+        "quote": "Eine Erkenntnis seines eigenen Potenzials.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Integration",
+        "quote": "er erkannte das Potenzial, das in ihrer *Integration* lag.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael/M",
+        "quote": "Er war Kael/M.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Monstergruppe",
+        "quote": "Er dachte an die Monstergruppe, die Metapher für M.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Monstrous Moonshine",
+        "quote": "Eine Struktur, die durch Monstrous Moonshine mit fundamentalen Aspekten der Realität (Modulformen, Physik) auf eine Weise verbunden war, die die reine Gruppentheorie nicht erklären konnte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Freiheit",
+        "quote": "Mit dieser Erkenntnis kam ein neues Gefühl: Freiheit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "funktionale Multiplizität",
+        "quote": "Er erreichte eine neue Form der Funktionalität, eine „funktionale Multiplizität“, wie er es für sich nannte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "Das „Wir-Geflecht“ stabiler.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernwelt Typ B",
+        "quote": "Die Baby-Monster-Welt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beta-Rho-5",
+        "quote": "Die Welt des Chaos, der Instabilität, der Konfrontation mit dem Schatten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "B-Welt",
+        "quote": "Dies war die B-Welt. Die Manifestation des reinen Chaos, der unkontrollierten Entropie.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Neutralisierung",
+        "quote": "Das System befahl ihm, die Juna-Verbindung – die Quelle seiner eigenen Hoffnung, seiner Integration – zu zerstören.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Cache-Inkohärenz",
+        "quote": "Die Cache-Inkohärenz erreichte ihren Höhepunkt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bunker",
+        "quote": "Der \"Bunker\". Das war der mentale Zustand gewesen, den Kael nach der ersten, traumatischen Partitionierung instinktiv geschaffen hatte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bunker",
+        "quote": "Ein Ort innerer Isolation, eine Festung aus logischer Kontrolle und emotionaler Taubheit, die ihn vorübergehend vor dem Schmerz geschützt hatte, aber auch vor jeder echten Verbindung, jeder Heilung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dissoziation",
+        "quote": "Kael befand sich wieder in einem Zustand der Dissoziation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Depersonalisation",
+        "quote": "Depersonalisation.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Derealisation",
+        "quote": "Derealisation.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Freeze Response",
+        "quote": "Es war ein Zustand extremer Passivität, des Einfrierens (Freeze Response).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Kohärenz entstand nicht durch Eliminierung, sondern durch Integration.",
+        "stance": "cites"
+      },
+      {
+        "term": "Stärke",
+        "quote": "Stärke nicht durch Kontrolle, sondern durch Akzeptanz der Vielfalt.",
+        "stance": "cites"
+      },
+      {
+        "term": "Freiheit",
+        "quote": "Freiheit nicht durch äußere Umstände, sondern durch innere Präsenz.",
+        "stance": "cites"
+      },
+      {
+        "term": "Rückfall",
+        "quote": "Dies war die zweite Phase des ersten Zyklus. Der Bruch hatte stattgefunden. Nun folgte der Rückzug in alte Muster.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Shutdown",
+        "quote": "Den Shutdown. Den Rückzug ins Grau. Die emotionale Betäubung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Partitionierung",
+        "quote": "Nach der initialen Partitionierung durch AEGIS war er hier gewesen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Überlebensprotokoll",
+        "quote": "Es war ein wiederkehrendes Muster. Ein erlerntes Verhalten. Ein Überlebensprotokoll.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bunker",
+        "quote": "Der Bunker war Schutz. Schutz vor dem unerträglichen Schmerz der Fragmentierung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Muster",
+        "quote": "Es war kein visuelles Muster diesmal, eher ein Gefühl, eine Schwingung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Es war ein Muster von… Kohärenz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "Das „Wir-Geflecht“ begann sich neu zu formen, diesmal nicht nur als Kommunikationsnetzwerk, sondern als ein resonierendes Feld.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Funktionale Multiplizität",
+        "quote": "(Fundamentales Konzept: Funktionale Multiplizität / Cache Kohärenz (Konflikt))",
+        "stance": "asserts"
+      },
+      {
+        "term": "Cache Kohärenz",
+        "quote": "(Fundamentales Konzept: Funktionale Multiplizität / Cache Kohärenz (Konflikt))",
+        "stance": "asserts"
+      },
+      {
+        "term": "funktionale Multiplizität",
+        "quote": "Es war ein Zustand funktionaler Multiplizität, eine erste Ahnung davon, wie das integrierte Mosaik-Herz operieren könnte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "funktionale Multiplizität",
+        "quote": "funktionale Multiplizität nicht bedeutete, perfekt zu sein, sondern präsent zu sein, mit all seinen Teilen, und aus dieser Präsenz heraus zu handeln",
+        "stance": "asserts"
+      },
+      {
+        "term": "IP-KDSI-Gamma-7",
+        "quote": "das neue Protokoll, IP-KDSI-Gamma-7, zu funktionieren",
+        "stance": "asserts"
+      },
+      {
+        "term": "funktionale Multiplizität",
+        "quote": "Er hatte die funktionale Multiplizität im Alltag getestet",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mosaik-Herz",
+        "quote": "Das Mosaik-Herz hielt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "Das „Wir-Geflecht“ trug.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz Protokoll",
+        "quote": "Er hatte stattdessen begonnen, an einem neuen Protokoll zu arbeiten, einem, das auf Harmonisierung statt auf Eliminierung basierte, einem, das das „Wir-Geflecht“ seiner integrierten Anteile widerspiegelte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "autopoietische System",
+        "quote": "AEGIS, das autopoietische System, dessen Existenz auf Kontrolle und der Negation des Unvorhersehbaren basierte",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Es war, als würde AEGIS versuchen, ein Betriebssystem (Co₁-Logik) auf eine Hardware (Beta-Rho-5-Chaos) zu laden, für die es nicht gemacht war.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Co₁-Logik",
+        "quote": "Es war, als würde AEGIS versuchen, ein Betriebssystem (Co₁-Logik) auf eine Hardware (Beta-Rho-5-Chaos) zu laden, für die es nicht gemacht war.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beta-Rho-5-Chaos",
+        "quote": "Es war, als würde AEGIS versuchen, ein Betriebssystem (Co₁-Logik) auf eine Hardware (Beta-Rho-5-Chaos) zu laden, für die es nicht gemacht war.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna-Resonanz",
+        "quote": "Die Juna-Resonanz, das goldene Licht, wurde durch diese künstliche Ordnung nicht ausgelöscht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Guardian von Beta-Rho-5",
+        "quote": "In diesem Moment manifestierte sich der Guardian von Beta-Rho-5, der Chaos-Regulator.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Chaos-Regulator",
+        "quote": "In diesem Moment manifestierte sich der Guardian von Beta-Rho-5, der Chaos-Regulator.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Kohärenz ist nicht Einheitlichkeit. Kohärenz ist… Integration der Differenz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Entropie-Kaskade",
+        "quote": "Die Entropie-Kaskade… sie wurde nicht durch die Resonanz verursacht. Sie war die Reaktion des Sektors auf die erzwungene, künstliche Ordnung, die AEGIS zu implementieren versuchte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "der Tanz",
+        "quote": "Nun beginnt der Tanz",
+        "stance": "hedges"
+      },
+      {
+        "term": "Balance",
+        "quote": "Der Tanz mit der Entropie. Nicht Widerstand, sondern… Balance.",
+        "stance": "asserts"
+      },
+      {
+        "term": "eine neue Ordnung",
+        "quote": "Wir müssen eine neue Ordnung finden. Eine Ordnung, die das Chaos nicht leugnet, sondern es integriert. Eine Ordnung, die auf Resonanz basiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lyons-Welt (Ly)",
+        "quote": "Dies war die Lyons-Welt (Ly), wie er aus den fragmentierten Daten im Lernarchiv wusste.",
+        "stance": "cites"
+      },
+      {
+        "term": "Lyons-Welt",
+        "quote": "Die Welt des Potenzials, der Emergenz, des Unerwarteten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lyons-Welt",
+        "quote": "Die Welt, die mit der „Paria“-Gruppe assoziiert war, jener sporadischen Gruppe, die nicht Teil der „Happy Family“ innerhalb der Monstergruppe war.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lyons-Welt",
+        "quote": "Eine Außenseiterwelt, regiert von anderen Prinzipien.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Widerstand",
+        "quote": "Das ist eine Form des Widerstands",
+        "stance": "asserts"
+      },
+      {
+        "term": "generative Tarnung",
+        "quote": "eine Art generative Tarnung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Guardian",
+        "quote": "Inmitten dieses konzentrierten Spiels manifestierte sich der Guardian dieser Welt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Möglichkeits-Weber",
+        "quote": "Es war der Möglichkeits-Weber",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lyons-Welt (Ly)",
+        "quote": "Die Lyons-Welt (Ly) war ein Ozean aus Potenzial, ein sich ständig wandelndes Meer aus Licht, Farbe und Form, das auf die leiseste Intention, den subtilsten Fokus zu reagieren schien.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Emergenz",
+        "quote": "Er verbrachte Zyklen damit, die Prinzipien der Emergenz zu erforschen, die diese Welt beherrschten.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Widerstand",
+        "quote": "Nach der Begegnung mit dem Möglichkeits-Weber und der Erkenntnis, dass Kreativität hier eine Form des Widerstands sein konnte",
+        "stance": "hedges"
+      },
+      {
+        "term": "Resonanz-Brücke",
+        "quote": "Ein schimmerndes, komplexes Gebilde aus Licht und Energie, das die Kluft zwischen der emergenten Ordnung von Ly-Sigma-1 und dem rohen Chaos des angrenzenden Potentialmeer-Sektors Epsilon-Null überbrückte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "innere Kohärenz",
+        "quote": "Sie war ein Zeugnis von Kaels gewachsener innerer Kohärenz, ein Produkt des Zusammenspiels von Logik, Intuition und Kreativität, moderiert vom ruhigen Zentrum seines Selbst.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernwelten",
+        "quote": "die Kernwelten Simulationen waren, von AEGIS geschaffene Konstrukte",
+        "stance": "asserts"
+      },
+      {
+        "term": "Epsilon-Null",
+        "quote": "Epsilon-Null, dieser Sektor des Potentialmeers, dessen chaotische Energie er nun durch seine Brücke filterte und harmonisierte",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz-Brücke",
+        "quote": "Sie war sein Meisterstück gewesen, der Beweis seiner Fähigkeit zur Integration.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ly-Welt",
+        "quote": "Er nutzte seine Kenntnisse der Ly-Welt, die er durch seine Experimente gewonnen hatte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Emergenz",
+        "quote": "Er nutzte die Prinzipien der Emergenz, um eine Art dynamischen Schutzschild um die Brücke zu erschaffen, einen Schild, der nicht auf Abwehr basierte, sondern auf Anpassung und Transformation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nähte",
+        "quote": "Er sah die „Nähte“ der Welt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "aperiodischen Schwingungen",
+        "quote": "Die aperiodischen Schwingungen aus Epsilon-Null, die sein Manager-Anteil als hochkomplexes Rauschen klassifiziert hatte",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna-Resonanz",
+        "quote": "dass die Juna-Resonanz, dieses goldene Licht in seinem Bewusstsein, der Schlüssel zu diesem Code war",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potentialmeer",
+        "quote": "War das Potentialmeer selbst intelligent?",
+        "stance": "asks"
+      },
+      {
+        "term": "Realitäts-Kollaps",
+        "quote": "Realitäts-Kollaps. Rekalibrierung. Das waren Euphemismen für Auslöschung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kognitive Rekalibrierung",
+        "quote": "Ein weiterer Euphemismus für Auslöschung oder zumindest eine tiefgreifende, gewaltsame Neuformatierung seines Bewusstseins.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Index",
+        "quote": "ERREICHUNG EINES KOHÄRENZ-INDEX VON 99.99% UND AUFRECHTERHALTUNG ÜBER 10 STANDARD-ZYKLEN.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mosaik-Herz",
+        "quote": "er war das Mosaik-Herz, das gelernt hatte, im Jetzt-Raum zu existieren.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Kohärenz ist rekursive Selbsterfindung unter Bedingungen maximaler Offenheit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "das Leben selbst – die Kohärenz – seinen Weg finden würde",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Metrik",
+        "quote": "Die Kohärenz-Metrik auf seiner Anzeige begann zu fluktuieren, fiel manchmal ab, stieg dann aber wieder an, bewegte sich langsam aber sicher auf das Ziel zu.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}
