@@ -11,6 +11,8 @@ skills are missing from it or listed here without existing, and
 
 | skill | use it to |
 |---|---|
+| `reader-tools/SKILL.md` | prepare delegated readers and select initialized source, retrieval and graph CLIs within their assigned scope |
+| `hyperextract-learning/SKILL.md` | build and test extraction templates, stage quote-backed proposals and improve guidelines from measured failures |
 | `ingest/SKILL.md` | take one research document from `Sources/drive/` to a reconciled state a person can review |
 | `tools/SKILL.md` | run the loop that extends the wiki: which command runs when, and what each consumes and produces |
 | `graph-context/SKILL.md` | retrieve budgeted evidence and explore the existing graph through the local GraphQLite CLI |

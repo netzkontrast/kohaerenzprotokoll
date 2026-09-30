@@ -36,3 +36,5 @@ Read `references/cli.md` for command details and limits. Validate changes with:
 .venv-graphqlite/bin/python scripts/kg_selftest.py
 python3 scripts/check_skills.py
 ```
+
+Both graph CLIs share `Plan/derived/ask.db` (schema 2). Initialization builds it once. `:Core` is an alias on typed nodes, not a duplicated graph. Core traversals must filter `r.core = true`; raw corpus queries should name their intended relation types. Old databases require rebuilding; no authored data is migrated.

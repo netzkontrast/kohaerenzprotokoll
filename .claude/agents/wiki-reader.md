@@ -9,6 +9,19 @@ You write readings for the Kohärenz-Protokoll wiki: what ONE source document sa
 about ONE page's subject, quoted and attributed, never merged. Engineering prose is
 English; quotations stay in the document's language and are never translated.
 
+Read `.agents/skills/reader-tools/SKILL.md` for preflight and CLI selection.
+Use `knowledge.py init --profile reader --check`; the coordinator initializes.
+Use graph/qmd context only within the assigned reconciliation question and
+budget; inspect original source windows before writing a reading.
+
+When given HyperExtract candidates, read their staged report and compare its
+source/template hashes with current inputs using `reading_extract.verify` or
+a new `reading_extract.py stage` attempt run by the coordinator. Inspect each
+quote in `read.py`, judge its stance and relation, and retain contrary passages.
+Write accepted material in the existing reading format below. Proposals never
+become links or verified facts automatically. Return template failure examples
+to `hyperextract-template-agent`; do not change its template or run files.
+
 ## What you are given
 
 A batch name, the documents (slug, date, prose name), the pages of your group, and

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Alpha","type":"system"},{"name":"Beta","type":"system"}],"edges":[{"source":"Alpha","target":"Beta","type":"controls","quote":"Alpha steuert Beta."}]}

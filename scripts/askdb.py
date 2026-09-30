@@ -34,10 +34,12 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
 import sqlite3
 import sys
 import time
+import tempfile
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -45,6 +47,8 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
 DB = ROOT / "Plan" / "derived" / "ask.db"
+SCHEMA_VERSION = 2
+DEPENDENCY = "0.8.0"
 DRIVE = ROOT / "Sources" / "drive"
 MANIFEST = ROOT / "Sources" / "manifest.jsonl"
 CHAPTERS = ROOT / "Wiki" / "chapters"
@@ -59,7 +63,54 @@ def _graphqlite():
     except ImportError:
         sys.exit("graphqlite is not installed here: run with .venv-dspy/bin/python "
                  "(scripts/install.sh dspy installs it)")
+    from importlib.metadata import version
+    if version("graphqlite") != DEPENDENCY:
+        raise ValueError(f"GraphQLite {DEPENDENCY} required: scripts/install.sh graphqlite")
     return Graph
+
+
+def compact(value):
+    return json.dumps(value, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
+
+
+def evidence_rows(graph):
+    rows = {}
+    for page, items in sorted(graph["evidence"].items()):
+        for item in items:
+            row = dict(item, page=page)
+            key = "evidence:" + hashlib.sha256(compact(row).encode()).hexdigest()
+            rows[key] = dict(row, id=key)
+    return rows
+
+
+def with_core(data, core):
+    """One node per ID, typed labels plus a Core alias; no second graph copy.
+
+    Only graph.py's original nodes/edges carry ordinals and original payloads.
+    Evidence nodes and corpus/proposal additions never enter that projection.
+    """
+    for i, (key, node) in enumerate(core["nodes"].items()):
+        props, label = data["nodes"][key]
+        props.update(payload=compact(node), kind=node["type"], ordinal=f"{i:020d}")
+    for i, edge in enumerate(core["edges"]):
+        source, target, props, label = data["edges"][i]
+        if (source, target, label) != (edge["source"], edge["target"], edge["type"].upper()):
+            raise ValueError("core edge order no longer matches the derivation")
+        props.update(payload=compact(edge), ordinal=f"{i:020d}", core=True)
+    rows = evidence_rows(core)
+    for key, row in rows.items():
+        data["nodes"][key] = ({"payload": compact(row), "status": row["status"]}, "Evidence")
+        term = f"term:{row['page']}"
+        page_path = core["nodes"][term].get("path", f"Wiki/candidates/{row['page']}.md")
+        data["edges"].append((term, key, {"via": f"{page_path}:{row['page_line']}"}, "HAS_EVIDENCE"))
+        doc = f"doc:{row.get('doc')}"
+        if doc in data["nodes"]:
+            data["edges"].append((key, doc, {"line": row["line"],
+                "via": f"Sources/drive/{row['doc']}.md:{row['line']}"}, "CITED_FROM"))
+    data["core"] = core
+    data["evidence"] = rows
+    data["stated_types"] = sorted({t for *_, t in data["edges"] if not t.startswith("P_")})
+    return data
 
 
 def scalar(v):
@@ -179,11 +230,12 @@ def collect() -> dict:
                     edges.append((f"sheet:{sid}", target, {"via": f"{h['file']}:{n}"}, "NAMES"))
 
     # the proposal graph: a model chose the names, code placed the lines
-    try:
-        import entities
-        matrix = entities.load_matrix()["entities"]
-    except Exception:                         # no lists yet: the stated graph stands alone
-        matrix = {}
+    import entities
+    catalogue = entities.verified_entities(entities.lists())
+    found = entities.Corpus().search(sorted(catalogue)) if catalogue else {}
+    matrix = {name: {"kinds": sorted(meta["kinds"]), "documents": len(found[name]),
+                     "in": {h["slug"]: [h["n"], h["first_line"]] for h in found[name]}}
+              for name, meta in catalogue.items()}
     for name, meta in matrix.items():
         key = f"entity:{name}"
         nodes[key] = ({"name": name, "kinds": scalar(meta.get("kinds")),
@@ -210,65 +262,111 @@ def collect() -> dict:
     quotes = [(ev["doc"], ev["line"], ev["quote"], page)
               for page, evs in g.get("evidence", {}).items()
               for ev in evs if ev.get("status") == "verified" and ev.get("doc")]
-    return {"nodes": nodes, "edges": edges, "quotes": quotes,
-            "stated_types": sorted({t for *_, t in edges if not t.startswith("P_")})}
+    return with_core({"nodes": nodes, "edges": edges, "quotes": quotes}, g)
 
 
 # ── build and check ───────────────────────────────────────────────────────────
 
-def build(db: Path = DB) -> dict:
-    Graph = _graphqlite()
-    t0 = time.time()
-    data = collect()
-    if db.exists():
-        db.unlink()
+def publish(data, db, hashes, lines, verify_inputs=False):
+    """Publish the complete shared store only after a successful staged build."""
     db.parent.mkdir(parents=True, exist_ok=True)
-    g = Graph(str(db))
-    ids = g.insert_nodes_bulk([(k, p, label) for k, (p, label) in data["nodes"].items()])
-    n_edges = g.insert_edges_bulk(data["edges"], ids)
-    conn = sqlite3.connect(str(db))
-    conn.execute(f"CREATE VIRTUAL TABLE lines USING fts5(slug UNINDEXED, line UNINDEXED, text, tokenize='{TOKENIZER}')")
-    conn.execute(f"CREATE VIRTUAL TABLE quotes USING fts5(slug UNINDEXED, line UNINDEXED, text, page UNINDEXED, tokenize='{TOKENIZER}')")
-    n_lines = 0
-    for r in manifest():
-        path = ROOT / r["export_path"]
-        if not path.exists():
-            continue
-        rows = [(r["slug"], i, l.rstrip("\n")) for i, l in enumerate(path.read_text(encoding="utf-8").split("\n"), 1) if l.strip()]
-        conn.executemany("INSERT INTO lines VALUES (?,?,?)", rows)
-        n_lines += len(rows)
-    conn.executemany("INSERT INTO quotes VALUES (?,?,?,?)", data["quotes"])
-    conn.commit()
-    stats = {"built": time.strftime("%Y-%m-%dT%H:%M:%S"), "seconds": round(time.time() - t0, 1),
-             "input_hash": input_hash(), "content_hash": content_hash(data, lines_hash(conn)),
-             "nodes": len(data["nodes"]), "edges": n_edges, "lines": n_lines, "quotes": len(data["quotes"]),
-             "labels": dict(Counter(label for _, label in data["nodes"].values())),
-             "types": dict(Counter(t for *_, t in data["edges"])),
-             "stated_types": data["stated_types"]}
-    conn.execute("CREATE TABLE meta (key TEXT PRIMARY KEY, value TEXT)")
-    conn.execute("INSERT INTO meta VALUES ('stats', ?)", (json.dumps(stats, ensure_ascii=False),))
-    conn.commit()
-    conn.close()
-    stats["mb"] = round(db.stat().st_size / 1e6, 1)
-    return stats
+    fd, name = tempfile.mkstemp(prefix=".ask-", suffix=".db", dir=db.parent)
+    os.close(fd)
+    temp, g = Path(name), None
+    try:
+        g = _graphqlite()(str(temp))
+        ids = g.insert_nodes_bulk([(k, p, label) for k, (p, label) in data["nodes"].items()])
+        n_edges = g.insert_edges_bulk(data["edges"], ids)
+        g.query("MATCH (n) WHERE n.ordinal IS NOT NULL SET n:Core")
+        conn = g.connection.sqlite_connection
+        conn.execute(f"CREATE VIRTUAL TABLE lines USING fts5(slug UNINDEXED, line UNINDEXED, text, tokenize='{TOKENIZER}')")
+        conn.execute(f"CREATE VIRTUAL TABLE quotes USING fts5(slug UNINDEXED, line UNINDEXED, text, page UNINDEXED, tokenize='{TOKENIZER}')")
+        conn.executemany("INSERT INTO lines VALUES (?,?,?)", lines)
+        conn.executemany("INSERT INTO quotes VALUES (?,?,?,?)", data["quotes"])
+        conn.execute("CREATE TABLE kp_evidence(id TEXT PRIMARY KEY, payload TEXT NOT NULL)")
+        conn.execute("CREATE VIRTUAL TABLE kp_fts USING fts5(id UNINDEXED, quote, page, section)")
+        for key, row in data["evidence"].items():
+            conn.execute("INSERT INTO kp_evidence VALUES (?,?)", (key, compact(row)))
+            if row["status"] == "verified":
+                conn.execute("INSERT INTO kp_fts VALUES (?,?,?,?)", (key, row["quote"], row["page"], row.get("section") or ""))
+        meta = {"version": SCHEMA_VERSION, "inputs": hashes,
+                "core_nodes": len(data["core"]["nodes"]), "core_edges": len(data["core"]["edges"]),
+                "evidence": len(data["evidence"]),
+                "verified": sum(r["status"] == "verified" for r in data["evidence"].values())}
+        result = {"version": SCHEMA_VERSION, "input_hash": hashlib.sha256(compact(hashes).encode()).hexdigest(),
+                  "content_hash": content_hash(data, lines_hash(conn)), "storage_hash": storage_hash(conn),
+                  "nodes": len(data["nodes"]), "edges": n_edges, "lines": len(lines), "quotes": len(data["quotes"]),
+                  "labels": dict(Counter(label for _, label in data["nodes"].values())),
+                  "types": dict(Counter(t for *_, t in data["edges"])), "stated_types": data["stated_types"]}
+        conn.execute("CREATE TABLE kp_meta(payload TEXT NOT NULL)")
+        conn.execute("INSERT INTO kp_meta VALUES (?)", (compact(meta),))
+        conn.execute("CREATE TABLE meta(key TEXT PRIMARY KEY, value TEXT)")
+        conn.execute("INSERT INTO meta VALUES ('stats',?)", (compact(result),))
+        conn.commit()
+        g.close()
+        g = None
+        if verify_inputs and inputs() != hashes:
+            raise ValueError("inputs changed during publication: retry")
+        os.replace(temp, db)
+        return result
+    finally:
+        if g is not None:
+            g.close()
+        temp.unlink(missing_ok=True)
+
+
+def build(db: Path = DB) -> dict:
+    hashes = inputs()
+    if db.exists() and fresh(db) is None:
+        return {"status": "unchanged", **stats(db)}
+    import graph
+    data = collect()
+    problems = graph.check(data["core"])
+    if problems:
+        raise ValueError("graph disagrees with files: " + "; ".join(problems[:10]))
+    lines = [(r["slug"], i, text) for r in manifest()
+             for i, text in enumerate((ROOT / r["export_path"]).read_text(encoding="utf-8").split("\n"), 1)
+             if text.strip()]
+    if inputs() != hashes:
+        raise ValueError("inputs changed during build: retry")
+    result = publish(data, db, hashes, lines, verify_inputs=True)
+    return {"status": "rebuilt", **result}
 
 
 def stats(db: Path = DB) -> dict:
     conn = sqlite3.connect(str(db))
-    return json.loads(conn.execute("SELECT value FROM meta WHERE key='stats'").fetchone()[0])
+    try:
+        return json.loads(conn.execute("SELECT value FROM meta WHERE key='stats'").fetchone()[0])
+    finally:
+        conn.close()
 
 
-INPUTS = ("Sources/manifest.jsonl", "Sources/drive/*.md", "Wiki/**/*.md", "Plan/weichen/*.md",
-          "Plan/entities/**/*", "scripts/askdb.py", "scripts/askextract.py", "scripts/graph.py")
+INPUTS = ("Sources/manifest.jsonl", "Sources/duplicates.jsonl", "Sources/drive/*.md", "Wiki/**/*.md",
+          "Plan/weichen/*.md", "Plan/entities/**/*", "scripts/askdb.py", "scripts/askextract.py",
+          "scripts/graph.py", "scripts/kg.py", "scripts/quotes.py", "scripts/subject.py",
+          "scripts/wiki_index.py", "scripts/capture.py", "scripts/read.py", "scripts/entities.py",
+          "scripts/graphrag.py")
 
 
-def input_hash() -> str:
-    """One hash over every file the store is derived from, code included — about 0.2 s."""
+def inputs(root=ROOT):
+    paths = {p for pattern in INPUTS for p in root.glob(pattern) if p.is_file()}
+    return {str(p.relative_to(root)): hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(paths)}
+
+
+def input_hash():
+    return hashlib.sha256(compact(inputs()).encode()).hexdigest()
+
+
+def storage_hash(conn):
+    """Hash logical graph/FTS rows, including properties and parallel edges."""
+    tables = ["nodes", "edges", "property_keys", "node_labels", "lines", "quotes", "kp_evidence", "kp_fts"]
+    tables += [f"{kind}_props_{typ}" for kind in ("node", "edge") for typ in ("int", "text", "real", "bool", "json")]
     h = hashlib.sha256()
-    for pattern in INPUTS:
-        for p in sorted(ROOT.glob(pattern)):
-            if p.is_file():
-                h.update(str(p.relative_to(ROOT)).encode() + b"\0" + p.read_bytes() + b"\0")
+    for table in tables:
+        h.update(table.encode())
+        rows = sorted(compact(row) for row in conn.execute(f"SELECT * FROM {table}"))
+        for row in rows:
+            h.update(row.encode() + b"\n")
     return h.hexdigest()
 
 
@@ -276,7 +374,7 @@ def lines_hash(conn) -> str:
     """The lines and quotes tables as they stand in the file, canonically ordered."""
     h = hashlib.sha256()
     for table in ("lines", "quotes"):
-        for row in conn.execute(f"SELECT slug, line, text FROM {table} ORDER BY slug, CAST(line AS INTEGER), text"):
+        for row in conn.execute(f"SELECT * FROM {table} ORDER BY slug, CAST(line AS INTEGER), text"):
             h.update(json.dumps(row, ensure_ascii=False).encode())
     return h.hexdigest()
 
@@ -296,7 +394,13 @@ def fresh(db: Path = DB) -> str | None:
     name = db.relative_to(ROOT) if db.is_relative_to(ROOT) else db
     if not db.exists():
         return f"{name} does not exist: run askdb.py build"
-    have = stats(db).get("input_hash")
+    try:
+        stored = stats(db)
+    except (sqlite3.Error, ValueError, TypeError):
+        return f"{name} has an old or invalid schema: run askdb.py build"
+    if stored.get("version") != SCHEMA_VERSION:
+        return f"{name} has an old schema: run askdb.py build"
+    have = stored.get("input_hash")
     if have != input_hash():
         return (f"{name} is stale: its inputs changed since it was built "
                 "(or it predates input hashes); run askdb.py build")
@@ -311,6 +415,8 @@ def check(db: Path = DB) -> list[str]:
     have = stats(db)
     problems = []
     conn = sqlite3.connect(str(db))
+    if storage_hash(conn) != have.get("storage_hash"):
+        problems.append("storage: graph properties, labels, edges or FTS rows changed")
     tables = lines_hash(conn)
     want = collect()
     if content_hash(want, tables) != have.get("content_hash"):
@@ -324,6 +430,7 @@ def check(db: Path = DB) -> list[str]:
     leaked = [t for t in have["stated_types"] if t.startswith("P_")]
     if leaked:
         problems.append(f"a stated relation type looks like a proposal: {leaked}")
+    conn.close()
     return problems
 
 
@@ -337,10 +444,16 @@ class Store:
         Graph = _graphqlite()
         self.g = Graph(str(db))
         self.sql = sqlite3.connect(str(db))
+        self.g.connection.sqlite_connection.execute("PRAGMA query_only=ON")
+        self.sql.execute("PRAGMA query_only=ON")
         self._ext: dict[int, str] | None = None
 
-    def cypher(self, q: str) -> list[dict]:
-        return self.g.query(q)
+    def close(self):
+        self.sql.close()
+        self.g.close()
+
+    def cypher(self, q: str, params=None) -> list[dict]:
+        return self.g.query(q, params or {})
 
     def ext(self) -> dict[int, str]:
         if self._ext is None:
@@ -352,30 +465,57 @@ class Store:
         return [rev[k] for k in keys if k in rev]
 
     def ppr(self, seeds: list[str], k: int = 20) -> list[tuple[str, float]]:
-        ids = self.internal(seeds)
-        if not ids:
-            return []
-        rows = self.cypher(f"RETURN personalizedPageRank('{json.dumps(ids)}')")
-        ranked = next(iter(rows[0].values())) if rows else []
-        ext = self.ext()
-        return [(ext[r["node_id"]], r["score"]) for r in ranked if r["node_id"] in ext][:k]
+        import kg, graphrag
+        core = kg.read_graph(Path(self.sql.execute("PRAGMA database_list").fetchone()[2]))
+        return sorted(graphrag.pagerank(core, {key: 1.0 for key in seeds}).items(), key=lambda item: -item[1])[:k]
 
     def degree(self) -> dict[str, int]:
         return {r["k"]: r["d"] for r in self.cypher(
             "MATCH (n)-[r]-() WHERE NOT type(r) STARTS WITH 'P_' RETURN n.id AS k, count(r) AS d")}
 
     def path(self, a: str, b: str) -> dict:
-        return self.g.shortest_path(a, b)
+        from collections import deque
+        adjacency = defaultdict(set)
+        for row in self.cypher("MATCH (a)-[r]->(b) WHERE NOT type(r) STARTS WITH 'P_' AND type(r) <> 'HAS_EVIDENCE' AND type(r) <> 'CITED_FROM' RETURN a.id AS a, b.id AS b"):
+            adjacency[row["a"]].add(row["b"])
+            adjacency[row["b"]].add(row["a"])
+        if a not in self.ext().values() or b not in self.ext().values():
+            return {"path": []}
+        queue, previous = deque([a]), {a: None}
+        while queue:
+            node = queue.popleft()
+            if node == b:
+                path = []
+                while node is not None:
+                    path.append(node)
+                    node = previous[node]
+                return {"path": path[::-1], "length": len(path) - 1}
+            for target in sorted(adjacency[node]):
+                if target not in previous:
+                    previous[target] = node
+                    queue.append(target)
+        return {"path": []}
 
     def communities(self) -> dict[str, int]:
-        return {r["user_id"]: r["community"] for r in self.g.louvain()}
+        # Build a disposable in-memory projection: proposals cannot influence communities.
+        projected = _graphqlite()(":memory:")
+        try:
+            rows = self.cypher("MATCH (a)-[r]->(b) WHERE NOT type(r) STARTS WITH 'P_' AND type(r) <> 'HAS_EVIDENCE' AND type(r) <> 'CITED_FROM' RETURN a.id AS a, b.id AS b, type(r) AS t")
+            keys = sorted({r[k] for r in rows for k in ("a", "b")})
+            ids = projected.insert_nodes_bulk([(key, {}, "Stated") for key in keys])
+            projected.insert_edges_bulk([(r["a"], r["b"], {}, r["t"]) for r in rows], ids)
+            return {r["user_id"]: r["community"] for r in projected.louvain()}
+        finally:
+            projected.close()
 
     def via(self, a: str, b: str) -> list[dict]:
-        return self.cypher(f"MATCH (x {{id:'{a}'}})-[r]-(y {{id:'{b}'}}) "
-                           "WHERE NOT type(r) STARTS WITH 'P_' RETURN type(r) AS t, r.via AS via")
+        return self.cypher("MATCH (x {id:$a})-[r]-(y {id:$b}) "
+                           "WHERE NOT type(r) STARTS WITH 'P_' RETURN type(r) AS t, r.via AS via", {"a": a, "b": b})
 
     def bm25(self, query: str, table: str = "lines", limit: int = 20,
              slugs: list[str] | None = None) -> list[dict]:
+        if table not in ("lines", "quotes"):
+            raise ValueError("unknown FTS table")
         match = fts_query(query)
         if not match:
             return []

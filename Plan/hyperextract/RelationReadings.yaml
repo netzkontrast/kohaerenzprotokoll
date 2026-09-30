@@ -1,0 +1,43 @@
+# provisional — source-specific relation readings, 2026-09-30; synthetic tests only
+# derived from: StatedRelations and TermReadings; the former drops hedges and questions
+# may not: resolve conflicts, write wiki links, merge sources, or establish a verified fact
+# retire when: two reviewed pilots find no useful proposals beyond TermReadings
+language: en
+name: RelationReadings
+type: list
+tags: [relations, readings, quotes, german]
+description: 'Separate passages about a relation, preserving assertion, denial, uncertainty and questions.'
+output:
+  description: 'One source-specific relation reading per passage; no deduplication by endpoints.'
+  fields:
+    - name: source
+      type: str
+      description: 'Subject surface exactly as the document writes it; never translate or merge aliases.'
+      required: true
+    - name: target
+      type: str
+      description: 'Object surface exactly as the document writes it.'
+      required: true
+    - name: type
+      type: str
+      description: 'Concise English predicate, preserving negation such as does_not_control.'
+      required: true
+    - name: quote
+      type: str
+      description: 'Exact contiguous words from ONE source line supporting this reading; no ellipsis or joined lines.'
+      required: true
+    - name: stance
+      type: str
+      description: 'asserts, denies, hedges, asks, or cites; a proposal label for a reader to check.'
+      required: true
+guideline:
+  target: 'Read only the supplied document and retain its distinct relation passages for review.'
+  rules:
+    - 'Keep contrary passages separately, including passages with the same endpoints.'
+    - 'A qualified possibility, denial or question is worth recording; do not turn it into an assertion.'
+    - 'Never infer a relationship from proximity, prior documents or background knowledge.'
+    - 'An outside-work comparison remains attributed to that comparison, not a fact about the novel world.'
+    - 'Prefer a shorter verbatim fragment on one line when a sentence crosses an export line break.'
+    - 'When the words do not support a relationship, omit the record rather than fabricate evidence.'
+display:
+  label: '{type}: {stance}'

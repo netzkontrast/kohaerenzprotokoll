@@ -4,7 +4,7 @@ Install: scripts/install.sh graphqlite
 Run: .venv-graphqlite/bin/python scripts/kg.py --help
 
 The database is a disposable projection of graph.py, never an authoring layer.
-Indexing writes only Plan/derived/graphqlite.db. Reads refuse missing or stale
+Indexing writes only Plan/derived/ask.db. Reads refuse missing or stale
 indexes. No model, network, MCP server or conflict inference is involved.
 Personalized PageRank and MMR remain graphrag.py's implementation; GraphQLite's
 global PageRank is not an equivalent replacement. Context size is capped in
@@ -15,17 +15,15 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
-import os
 from pathlib import Path
 import sqlite3
 import sys
-import tempfile
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
-VERSION = 1
+VERSION = 2
 DEPENDENCY = "0.8.0"
-DATABASE = ROOT / "Plan/derived/graphqlite.db"
+DATABASE = ROOT / "Plan/derived/ask.db"
 
 
 class Refused(Exception):
@@ -51,14 +49,8 @@ def inputs(root=ROOT):
     This scans bytes, not LLM context. On change, rebuild the entire projection;
     unchanged inputs are a no-op. Partial per-file graph updates are not built.
     """
-    paths = set()
-    for directory in ("Wiki/candidates", "Wiki/conflicts", "Wiki/questions", "Sources/drive"):
-        paths.update((root / directory).glob("*.md"))
-    paths.update(root / "Sources" / name for name in ("manifest.jsonl", "duplicates.jsonl"))
-    for name in ("kg.py", "graph.py", "quotes.py", "subject.py", "wiki_index.py", "capture.py", "read.py"):
-        paths.add(root / "scripts" / name)
-    return {str(p.relative_to(root)): hashlib.sha256(p.read_bytes()).hexdigest()
-            for p in sorted(paths) if p.is_file()}
+    import askdb
+    return askdb.inputs(root)
 
 
 def engine(path):
@@ -99,75 +91,22 @@ def freshness(db, root=ROOT):
 
 
 def publish(graph, db, hashes):
-    """Bulk-build beside the old index and atomically replace it on success.
-
-    Bulk insert preserves READS and CITES between the same node pair; upserting
-    by source/target would collapse those distinct relationships.
-    """
-    db.parent.mkdir(parents=True, exist_ok=True)
-    fd, filename = tempfile.mkstemp(prefix=".graphqlite-", suffix=".db", dir=db.parent)
-    os.close(fd)
-    temp = Path(filename)
-    g = None
-    try:
-        g = engine(str(temp))
-        rows = evidence_rows(graph)
-        nodes = [(key, {"payload": compact(value), "kind": value["type"], "ordinal": f"{i:020d}"}, "Core")
-                 for i, (key, value) in enumerate(graph["nodes"].items())]
-        # 0.8.0 orders returned numeric properties lexically (0, 1, 10, 100).
-        # A padded ordinal retains graph.py's iteration order for PPR ties.
-        edges = [(e["source"], e["target"], {"payload": compact(e), "via": e["via"], "ordinal": f"{i:020d}"}, e["type"].upper())
-                 for i, e in enumerate(graph["edges"])]
-        for key, row in rows.items():
-            nodes.append((key, {"payload": compact(row), "status": row["status"]}, "Evidence"))
-            page_path = graph["nodes"][f"term:{row['page']}"].get("path", f"Wiki/candidates/{row['page']}.md")
-            edges.append((f"term:{row['page']}", key, {"via": f"{page_path}:{row['page_line']}"}, "HAS_EVIDENCE"))
-            if row.get("doc") and f"doc:{row['doc']}" in graph["nodes"]:
-                edges.append((key, f"doc:{row['doc']}", {"line": row["line"],
-                              "via": f"Sources/drive/{row['doc']}.md:{row['line']}"}, "CITED_FROM"))
-        g.insert_graph_bulk(nodes, edges)
-        conn = g.connection.sqlite_connection
-        conn.execute("CREATE TABLE kp_meta(payload TEXT NOT NULL)")
-        conn.execute("INSERT INTO kp_meta VALUES (?)", (compact({"version": VERSION, "inputs": hashes,
-            "core_nodes": len(graph["nodes"]), "core_edges": len(graph["edges"]),
-            "evidence": len(rows), "verified": sum(r["status"] == "verified" for r in rows.values())}),))
-        conn.execute("CREATE TABLE kp_evidence(id TEXT PRIMARY KEY, payload TEXT NOT NULL)")
-        conn.execute("CREATE VIRTUAL TABLE kp_fts USING fts5(id UNINDEXED, quote, page, section)")
-        for key, row in rows.items():
-            conn.execute("INSERT INTO kp_evidence VALUES (?, ?)", (key, compact(row)))
-            if row["status"] == "verified":
-                conn.execute("INSERT INTO kp_fts VALUES (?, ?, ?, ?)",
-                             (key, row["quote"], row["page"], row.get("section") or ""))
-        conn.commit()
-        g.close()
-        g = None
-        os.replace(temp, db)
-    finally:
-        if g is not None:
-            g.close()
-        temp.unlink(missing_ok=True)
+    import askdb
+    nodes = {k: ({name: askdb.scalar(value) for name, value in n.items() if name != "id"}, n["type"].capitalize())
+             for k, n in graph["nodes"].items()}
+    edges = [(e["source"], e["target"], {"via": e["via"]}, e["type"].upper()) for e in graph["edges"]]
+    data = askdb.with_core({"nodes": nodes, "edges": edges, "quotes": []}, graph)
+    askdb.publish(data, db, hashes, [])
     return metadata(db)
 
 
 def index(db=DATABASE):
-    import graph as kg
-    hashes = inputs()
-    if db.exists():
-        try:
-            old = metadata(db)
-            if old.get("version") == VERSION and old.get("inputs") == hashes:
-                return {"status": "unchanged", **{k: v for k, v in old.items() if k != "inputs"}}
-        except Refused:
-            pass
-    graph = kg.build()
-    problems = kg.check(graph)
-    if problems:
-        raise Refused("graph disagrees with files: " + "; ".join(problems[:10]))
-    if inputs() != hashes:
-        raise Refused("inputs changed during build: retry index")
-    result = publish(graph, db, hashes)
-    # Readers recheck freshness, so an edit during publication is never served.
-    return {"status": "rebuilt", **{k: v for k, v in result.items() if k != "inputs"}}
+    import askdb
+    try:
+        result = askdb.build(db)
+    except ValueError as exc:
+        raise Refused(str(exc)) from exc
+    return {**result, **{k: v for k, v in metadata(db).items() if k != "inputs"}}
 
 
 def read_graph(db):
@@ -176,7 +115,7 @@ def read_graph(db):
     try:
         nodes = [payload(r["payload"]) for r in g.query("MATCH (n:Core) RETURN n.payload AS payload ORDER BY n.ordinal")]
         edges = [payload(r["payload"]) for r in g.query(
-            "MATCH (a:Core)-[r]->(b:Core) RETURN r.payload AS payload ORDER BY r.ordinal")]
+            "MATCH (a:Core)-[r]->(b:Core) WHERE r.core = true RETURN r.payload AS payload ORDER BY r.ordinal")]
         evidence = {}
         for r in g.query("MATCH (n:Evidence) RETURN n.payload AS payload"):
             row = payload(r["payload"])
@@ -216,7 +155,7 @@ def around(db, node, hops, limit):
             nxt = set()
             for key in sorted(frontier):
                 rows = g.query("MATCH (a:Core {id: $id})-[r]-(b:Core) "
-                               "RETURN b.id AS id, r.payload AS payload ORDER BY b.id, r.ordinal LIMIT " + str(limit + 1), {"id": key})
+                               "WHERE r.core = true RETURN b.id AS id, r.payload AS payload ORDER BY b.id, r.ordinal LIMIT " + str(limit + 1), {"id": key})
                 if len(rows) > limit:
                     truncated = True
                 for r in rows[:limit]:
@@ -298,7 +237,7 @@ def positive(value):
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--db", type=Path, default=DATABASE, help="derived index; default Plan/derived/graphqlite.db")
+    parser.add_argument("--db", type=Path, default=DATABASE, help="derived index; default Plan/derived/ask.db")
     commands = parser.add_subparsers(dest="command", required=True)
     commands.add_parser("index", help="rebuild on input change; unchanged input is a no-op")
     commands.add_parser("check", help="fail if absent or stale")
