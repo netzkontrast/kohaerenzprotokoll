@@ -66,6 +66,8 @@ RULES = """## Regeln für diese Antwort
 7. Wenn das Paket die Frage nicht beantwortet, setze `answerable` auf `no` und sage in `gaps`, was fehlt.
 8. `need` darf höchstens drei Einträge haben: ein Begriff oder ein Zeilenbereich eines Dokuments.
 9. Gib nur JSON zurück, im Schema unten, ohne Text davor oder danach.
+10. Dass das Paket etwas nicht zeigt, beweist nicht, dass die Quellen es nicht sagen: Das Paket ist eine Auswahl.
+    Schreibe dann „nicht im Paket", nie „keine Quelle sagt".
 """
 
 SCHEMA = """## Antwortschema (JSON)
