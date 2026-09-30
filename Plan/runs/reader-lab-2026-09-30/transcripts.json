@@ -1800,5 +1800,69 @@
   "role": "document-reader",
   "description": "R3: Haiku reads audit-und-verifizierung",
   "minutes": 7.2
+ },
+ {
+  "slug": "angst-bei-komplexen-traumafolgen",
+  "agent": "aeda26c532c522802",
+  "chars_per_token": 2.59,
+  "context_growth": 110658,
+  "unseen_tokens": 8347,
+  "unseen_share": 0.08,
+  "agent_type": "document-reader",
+  "wrote_chars": 100008,
+  "start": "2026-09-30T13:03:40.387Z",
+  "end": "2026-09-30T13:12:18.702Z",
+  "calls": 50,
+  "tokens": {
+   "input": 404,
+   "cache_write": 137717,
+   "cache_read": 5188355,
+   "output": 84
+  },
+  "cost": 691805.75,
+  "peak_context": 137727,
+  "tools": {
+   "Read": 9,
+   "Bash": 26,
+   "Write": 3,
+   "Edit": 13,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 37,
+   "census.py": 3,
+   "quotes.py": 11
+  },
+  "reads": {
+   "Plan/runs/reader-lab-2026-09-30/card.md": 1,
+   ".agents/skills/reader-tools/references/failures.md": 1,
+   "Plan/briefings/extract.md": 1,
+   "Plan/runs/angst-bei-komplexen-traumafolgen": 1,
+   "Plan/runs/angst-bei-komplexen-traumafolgen/01-profile.txt": 1,
+   "Plan/runs/angst-bei-komplexen-traumafolgen/03-candidates.md": 1,
+   "Plan/runs/angst-bei-komplexen-traumafolgen/census-draft.md": 3
+  },
+  "result_chars": {
+   "Read": 76047,
+   "Bash": 87075,
+   "Write": 627,
+   "Edit": 3547,
+   "SubagentHandback": 61
+  },
+  "errors": 3,
+  "phases": {
+   "setup": {
+    "input": 404,
+    "cache_write": 137717,
+    "cache_read": 5188355,
+    "output": 84,
+    "calls": 50,
+    "cost": 691805.75
+   }
+  },
+  "ended": "Perfect. Now I can provide my final report.  ## Summary  I have completed the reading and extraction for the document \"Angst bei komplexen Traumafolgen\" (slug: ",
+  "role": "document-reader",
+  "description": "R4: Haiku reads angst-bei-komplexen-traumafolgen",
+  "minutes": 8.6
  }
 ]

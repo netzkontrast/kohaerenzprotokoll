@@ -5,3 +5,5 @@
 {"event": "start", "phase": "count", "at": "2026-09-29T18:38:00+00:00"}
 {"event": "end", "phase": "count", "at": "2026-09-29T18:50:25+00:00"}
 {"event": "start", "phase": "census", "at": "2026-09-29T18:50:25+00:00"}
+{"event": "end", "phase": "census", "at": "2026-09-30T13:19:25+00:00"}
+{"event": "reader", "name": "document-reader", "model": "haiku", "tokens": 138776, "tool_uses": 52, "ms": 518337, "pages": [], "at": "2026-09-30T13:19:25+00:00", "agent": "aeda26c532c522802"}

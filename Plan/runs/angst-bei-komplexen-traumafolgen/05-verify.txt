@@ -87,3 +87,24 @@ The unresolved quotations in both files are due to:
 3. Citations that span text with multiple punctuation or nested parentheses
 
 These are mechanical issues in the export format, not misstatements of the document's content.
+
+## Corrected by the session, 2026-09-30, after the reader finished (runlog corrections.jsonl)
+
+- The report said `quotes.py --strict` passed on both files. It failed: 6 unresolved in the census
+  and 4 in the note, and 4 uncited. „0 wrong“ is the figure at the end of the summary line, for the
+  count marks. The gate now ends `strict: PASS` or `strict: FAIL`.
+- The unresolved ones were four kinds: a quotation closed by a straight quote that a later straight
+  quote in prose swallowed (Trauma Bonds, Window of Tolerance, „inneren Kritiker“); two passages
+  joined with …; „zahlreiche“ for the line's sentence-initial „Zahlreiche“, and „Ein essenzielles“
+  written „ein essenzielles“; and „unbestritten … Goldstandard“, where the line writes
+  „unangefochtener Goldstandard“.
+- The claims table this task asked for is not here. `claims.py draft` now writes it.
+- stance_marker_count said 8, the number of markers. Their whole-word counts sum to 10: Einführung 1,
+  Neurobiologische und physiologische Determinanten 1, Polyvagal-Theorie 3, multidimensionale
+  Taxonomie 1, Interkulturelle und soziopolitische Kontexte 1, Differenzialdiagnostik 1,
+  Evidenzbasierte Behandlungsansätze 1, Fazit 1.
+- Ten claims were wrong (see the `claim` rows of corrections.jsonl). Four of them are in the census's
+  section on what the extraction ran into, where a count was explained without reading its lines:
+  the 8 question marks all stand in reference titles, the 16 typographic marks are dashes and curly
+  quotes with no ellipsis, `Triggering` is `Triggerung` (L118), and `Drive`'s second occurrence is
+  `Shame-Driven` in a reference title.

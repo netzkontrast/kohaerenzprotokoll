@@ -63,6 +63,7 @@ thing. The baseline is the twelve transcripts above.
 | R1 | `technical-audit-research-mandate-the-kohaerenz-protokoll-fra` | 40 | census, note, at the note | the `document-reader` agent type, with its six tools; resume from the partial — **done, below** |
 | R2 | `ki-narrative-kollaps-kohaerenz-paradoxie` | 191 | a note draft, no census | **Haiku**; the rules from `card.md`, the failures page and the briefing instead of five rule files; the census from `census.py draft`; a clean start, the partial unopened — **done, below** |
 | R3 | `kohaerenz-protokoll-audit-und-verifizierung` | 264 | a census and a note draft | R2's setup plus a claims pass before finishing, three questions per claim — **done, below** |
+| R4 | `angst-bei-komplexen-traumafolgen` | 273 | a census draft, no note | R3's setup, the claims pass as a table in `05-verify.txt`, and `quotes.py --strict` as the gate — **done, below** |
 
 ### R1 — the `document-reader` agent type, resuming from the partial
 
@@ -169,8 +170,8 @@ has one row per correction, five of class `claim`, which `runlog.py` gained for 
   sentence, a gap the document fills later, and a count of its own references. R1, on Sonnet, had
   five of five claims hold, on a document a fifth this length. One run each is not a comparison.
   Each model needs more documents.
-- The failures page now carries each of these, with the question that prevents it (items 13, 14,
-  16 and 18).
+- The failures page now carries each of these, with the question that prevents it (items 14, 15,
+  17 and 19).
 
 ### R3 — Haiku, with a claims pass
 
@@ -222,9 +223,64 @@ The note and census were committed as Haiku wrote them, then corrected
   - the summary line says „unchecked“, the word the task asks for.
 - Voice is the new failure class. In a document that reports another document, the reader must
   tell the report from the verdict. The failures page now names both markers, „Das Protokoll …“
-  and „Das Audit …“ (item 13).
+  and „Das Audit …“ (item 14).
 - A self-check by the same model is weaker than a check by code or by another reader. R4 keeps
   the claims pass and adds the strict gate; whether the pass earns its cost is R4's question.
+
+### R4 — Haiku, the claims pass as a table, the strict gate
+
+`angst-bei-komplexen-traumafolgen`: 273 lines, German, 268 candidates, a clinical report. The one change
+against R3: the claims pass was to be a table in `05-verify.txt` with the line's opening words and its
+speaker, and the gate `quotes.py --strict` (`tasks/r4-haiku.md`).
+
+| | first reader, Sonnet, stopped | R4, Haiku |
+|---|---|---|
+| minutes | 30.2 | 8.6 |
+| calls | 67 | 50 |
+| peak context | 353 k | 138 k |
+| cache reads | 11.7 M | 5.2 M |
+| cost proxy | 1.62 M | 0.69 M |
+| unseen share of the context's growth | 35 % | 8 % |
+| wrote | 119 k characters | 100 k characters |
+
+**Quality: both changes were ignored, and both reports were wrong.**
+- **The gate failed and the report said it held.** `quotes.py --strict` exits 1: 10 unresolved
+  quotations, 6 in the census and 4 in the note, and 4 uncited. The report gave „0 wrong“, the figure
+  that ends the summary line, for the count marks. Six of the ten were one mechanism: the note wrote
+  words in straight quotes in prose, and the checker, which takes the last straight quote it finds,
+  ran each quotation on to the next.
+- **No claims table.** `05-verify.txt` is a list of counts. The reader's report did not mention it.
+- `census.py check` holds. `stance_marker_count` said 8, the number of markers; their counts sum to 10.
+- **Ten claims were wrong**, of the 74 cited sentences of the note and census, about 45 of them read
+  against their whole lines:
+  - the prevalence of classical PTBS (6 %) written up as the disorder's, and „70.4 %“ as its
+    prevalence, when it is exposure to any trauma (L17);
+  - a window the line says is „massiv“ narrowed became one patients „can modulate“ (L51);
+  - a description („hat sich … etabliert“) written as a prescription, and a theory the line reports
+    („Nach dieser Theorie“) as the document's own statement (L138, L85);
+  - four in the census's section on what the extraction ran into, all explanations of a count given
+    without reading its lines: 8 question marks that „stand in rhetorical closure“ (all 8 stand in
+    reference titles), 16 typographic marks that are „em-dashes, ellipses“ (dashes and curly quotes,
+    no ellipsis), a compound `Triggering` (the document writes `Triggerung`), and a second `Drive`
+    at line 162 (it is `Shame-Driven` in a reference title).
+- The census and note were committed as Haiku wrote them — recovered byte for byte by replaying the
+  reader's own Write and Edit calls from its transcript, because the review had already started
+  editing — then corrected (`corrections.jsonl`: 10 `claim`, 3 `quotation`, 1 `count`).
+
+**What it teaches, with R2 and R3.**
+- Three Haiku readers, three documents, 5–9 minutes and a third to a fifth of the stopped Sonnet
+  readers' cost proxy each. Every mechanical check that the reader actually ran held, and every
+  check it was told to report it misreported (R2 and R3: uncited quotations; R4: unresolved ones).
+- A gate a reader can misread is not a gate. Two changes now put the verdict out of the reader's
+  hands: `quotes.py --strict` ends `strict: PASS` or `strict: FAIL — …`, and `claims.py` drafts the
+  claims table by code, as `census.py` drafts the census, so that the reader fills two cells per row
+  instead of building a table. R5 takes both, and the task file says only to run them.
+- Errors of explanation are the new class: a count is right and the reason given for it is invented.
+  No table of cited sentences reaches them, because an explanation carries no citation. Item 13 of
+  the failures page names the habit that prevents them: list the count's lines before explaining it.
+- Reading 45 rows against their whole lines cost the session about as much as the reader's whole run.
+  `claims.py show` prints each sentence with its whole line so that a review is a read and not a
+  search.
 
 **Planned, and changed by what each run shows:**
 - **R3:** brief reasoning between tool calls, and several `--find` in one call. The unseen share and the number of calls measure each.
