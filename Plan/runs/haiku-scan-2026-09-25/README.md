@@ -73,3 +73,20 @@ Page writers used the scans to find terms the wiki has no page for. The writers
 worked from `PAGES-BRIEF.md` and drew every quotation from the document itself,
 never from a scan. The pages this run created are listed in `CLAUDE.md` under
 *State*, and `NOW.md` records the positions on open records that the scans found.
+
+## What followed the scan
+
+*Moved from `CLAUDE.md` on 2026-09-30, verbatim.*
+
+**The 2026-09-25 scan added eleven pages outside the pipeline.** Following qmd
+searches over the open records, ten unread documents each got a triage scan
+from one Haiku reader (`Plan/runs/haiku-scan-2026-09-25/`). The raw scans cited
+44 of 152 quotations to lines that did not hold them, and they resolve only after
+a second pass. Page writers then quoted the ten scanned documents and the twenty
+read ones directly, never through a scan, to write `vortex`, `goedel-gambit`,
+`ouroboros-struktur`, `komponente-734`, `vermittler-stimme`, `genesis-klammer`,
+`residual-echos`, `chaitin-konstante`, `kishotenketsu`, `tsdp` and
+`thermodynamischer-phaenomenalismus`. Each page ends by saying that the scanned
+documents have no census and no reconciliation; since document 21, the five pages
+that quote it name its reconciliation instead. What the pages found and no record
+holds is in `Plan/questions-for-the-author.md`.
