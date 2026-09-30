@@ -831,9 +831,19 @@ each under its own instruction, and each run is recorded in `Plan/runs/reader-la
 What the first twelve readers cost is measured there from their transcripts.
 
 **Each document is reconciled as it lands**, not all twelve after the last extraction. So
-`account.py order`, which CI runs, is red only between an extraction and its reconciliation. Next are
-documents 52 and 53, the two #110 extracted. Their lookups and the readings brief are in
-`Plan/runs/step6-readings-52-53/`.
+`account.py order`, which CI runs, is red only between an extraction and its reconciliation.
+
+**Step 6 is paused by the author, 2026-09-30:** „stop Reading document - you should Improve the
+Pipeline". Nothing reads a document until the author says so.
+- The readings reader for documents 52 and 53 was stopped before it wrote a file. Their lookups and
+  the readings brief stay in `Plan/runs/step6-readings-52-53/`, and document 54's in
+  `Plan/runs/step6-readings-54/`.
+- Three documents have a census and a note and no reconciliation: 52, 53, and the technical audit
+  R1 extracted. So `pipeline order` stays red, and says why.
+- The work now is the pipeline itself, measured offline on what is already read:
+  - the reconciliation record drafted by code;
+  - the readings brief drafted by code;
+  - the census draft wired into the reader's definition.
 
 **A parallel session builds `ask` (PR #119, decisions 016 and 017), and #120 carries it merged in.**
 Two things from it change this lab:
