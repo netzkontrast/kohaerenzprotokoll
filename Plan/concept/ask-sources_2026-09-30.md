@@ -1,164 +1,200 @@
-# `ask` — asking the source documents a question, without vectors
+# `ask` — asking the source documents a question, without vectors, on GraphQLite
 
-**2026-09-30 · Proposal. Nothing is built.** On the author's request: a way to ask the corpus a question without qmd's vectors — a Sonnet agent given only the context useful for this one question (built from the graph), an excerpt of the skills that apply, and the question; the same package usable by Jules or a free OpenRouter model. Reading done for this note: `scripts/graphrag.py`, `route.py`, `lmrun.py`, `claude_lm.py`, `jules.py`, `quotes.py`, `read.py`, `digest.py`, `entities.py`, `qmd.py`, `lint_readings.py`, `.claude/agents/wiki-reader.md`, decisions 007, 011, 014, 015, and `PRINCIPLES.md`. No source document was read.
+**2026-09-30 · Proposal. Nothing is built but a throwaway spike.** On the author's requests: a way to ask the corpus a question without qmd's vectors — a Sonnet agent given only the context useful for this one question (built from graph knowledge), an excerpt of the skills that apply, and the question; the same package usable by Jules or a free OpenRouter model — and **„Use https://github.com/colliery-io/graphqlite intensivly in your Architecture"**.
 
-## 1. What exists, and the gap
+Reading done for this note: `scripts/graphrag.py`, `graph.py`, `route.py`, `lmrun.py`, `claude_lm.py`, `jules.py`, `quotes.py`, `read.py`, `digest.py`, `entities.py`, `qmd.py`, `lint_readings.py`, `.claude/agents/wiki-reader.md`, decisions 007, 011, 014, 015, 016, `PRINCIPLES.md`, and GraphQLite's README, Python binding README and `examples/llm-graphrag`. No source document was read.
 
-The process diagram in `CLAUDE.md` ends with `ask`. Its retrieval half exists: `graphrag.py ask` seeds by folded surfaces, spreads by PageRank over the typed graph and returns verified quotations, the conflicts and questions that touch them, and the documents the rank reached — never prose. `--answer` lets a model pick evidence **numbers**. What it cannot do:
+## 0. What GraphQLite is, and what the spike measured
 
-- **It only knows reconciled documents.** The graph holds the 51 reconciled ones (`state.py --get documents.reconciled`, measured 2026-09-30). The other 535 of 586 landed documents are reachable only through qmd, entity lists or a count.
-- **It returns quotations from wiki pages,** not the document text around them. A question the wiki has not already quoted an answer to gets nothing.
-- **Its one model step is tied to `lmrun`,** so Claude CLI and free models, but not a session subagent or Jules.
+GraphQLite (MIT, v0.8.0 on PyPI) is an SQLite extension: a property graph inside an ordinary SQLite file, queried in Cypher (openCypher TCK 97.7 % by its own README), with algorithms built in — PageRank and **personalized PageRank**, Louvain, label propagation, betweenness, closeness, degree, Dijkstra and A\*, BFS and DFS, connected components, Jaccard similarity, triangle counts. Because it is SQLite, the same file can hold **FTS5 full-text tables with `bm25()`** — keyword retrieval with no vectors and no qmd.
 
-So the gap is: a **context package** that reaches unread documents, a **backend-neutral** answer contract, and a **verification** that holds any backend to the rules the wiki keeps.
+Spike, 2026-09-30, in a throwaway venv (`graphqlite` 0.8.0, Python 3.12; the dry run into `.venv-dspy` resolves too), scratch files only:
+
+| step | result |
+|---|---|
+| `graph.py --json` loaded as nodes and typed edges, one upsert per row | 181 nodes, 4,418 edges, **26 s** (the batch API is untested and should be faster) |
+| Cypher: conflicts by number of contested pages | correct rows, instant |
+| `personalizedPageRank` seeded on `term:juna`, `term:aegis` | ranked list, **0.17 s** |
+| FTS5 over every non-empty line of the 586 landed documents | **125,620 rows in 2.7 s**; file 53 MB |
+| `Juna AND erscheint`, ranked by `bm25()` | five hits with slug and line in **2 ms**, the outline's Kap-38 line among them |
+
+What the spike did not test: batch upserts, Louvain and paths on this graph, German stemming (FTS5's `unicode61` tokenizer does not stem; inflected forms need a prefix query or a trigram table).
+
+## 1. The gap
+
+The process diagram in `CLAUDE.md` ends with `ask`. `graphrag.py ask` is its retrieval half: seeds by folded surfaces, personalized PageRank over the typed graph, verified quotations out, never prose. What it cannot do:
+
+- **It only knows reconciled documents.** The graph holds the 51 reconciled ones (`state.py --get documents.reconciled`, 2026-09-30). The other 535 of 586 landed documents are reachable only through qmd, entity lists or a count.
+- **It returns quotations already on wiki pages,** not document text around them.
+- **Its one model step is tied to `lmrun`.** Claude CLI and free models work, but not a session subagent or Jules.
+- **Its graph lives in Python dicts rebuilt on every call,** so a question cannot ask the graph anything the code did not anticipate.
 
 ## 2. Principles this must keep
 
 | rule | what it means here |
 |---|---|
-| P13 no merge, P12 quote | an answer is claims, each attributed to one document and carrying its own verbatim quotation |
-| P26 ask for an identifier | the model may write a line number only as a hint; code places or rejects every quotation |
-| P15 reached ≠ answered | `answered`, `refused`, `unparsed`, `unreachable` — never a score in place of a status |
-| P5, P18 | every run keeps its artifacts and replays offline; one attempt measures nothing |
-| P1, P6 | pack building, verification and rendering are code; one encoding of each rule |
-| decision 006 | an answer is a reading of sources, never a decision; it never enters `Wiki/` by itself |
-| decision 007, 014, 011 | Claude is first party. OpenRouter and Jules receive corpus text only under the author's consent, and `route.py` and `jules.py` already refuse otherwise |
+| P13 no merge, P12 quote | an answer is claims, each attributed to one document, each carrying a verbatim quotation |
+| P26 ask for an identifier | a model writes a line number only as a hint; code places or rejects every quotation |
+| P15 | statuses `answered`, `refused`, `unparsed`, `unreachable`, never a score in their place |
+| P25, P9 | the store is **derived**: rebuilt from the files, never edited, never committed |
+| P6 one encoding | where GraphQLite replaces an existing computation (PageRank), both run until the bench shows they agree; then one is retired |
+| P8 | the store is checked against what it was built from, every build |
+| links are never inferred (`CLAUDE.md`) | stated edges and model proposals live apart; no query that feeds the wiki reads a proposal |
+| decisions 006, 007, 011, 014 | an answer decides nothing; Claude is first party; OpenRouter and Jules only under the author's consent, which `route.py` and `jules.py` already enforce |
 
-**An answer has the standing of an entity list**: a model's reading, recorded, verified by code, usable to point at a place, never a count, a page, a link or a merge.
+An answer has the standing of an entity list: a model's reading, recorded and verified by code, usable to point at a place, never a count, a page, a link or a merge.
 
 ## 3. The architecture
 
 ```
-question ──► 1 route (code) ──► 2 pack (code) ──► 3 backend ──► 4 verify (code) ──► 5 record
-             graph · entities ·   rules card ·       claude-cli     place every quote     Plan/runs/ask/<id>/
-             qmd BM25 · counts    graph excerpt ·    session agent  drop unsupported     answer.md rendered
-                                  source windows ·   route (free)   lint comparisons     by code
-                                  skill excerpt ·    jules          status per claim
-                                  schema
+                      ┌──────────────── Plan/derived/ask.db  (one SQLite file, GraphQLite + FTS5) ───────────────┐
+ files ──build──►     │ stated graph: Term·Doc·Conflict·Question·Chapter·Sheet, typed edges with `via` file:line  │
+ (graph.py,           │ proposal graph: Entity·Gloss·Answer (label :Proposal), never mixed into stated queries    │
+  entities, sheets,   │ FTS5: lines(slug,line,text) over 586 documents · quotes(slug,line,text) over 9,022 evidence │
+  Sources/drive)      │ tables: packs · answers · claims · quote_checks · ledger                                   │
+                      └──────────────────────────────────────────────────────────────────────────────────────────┘
+question ─► 1 route (Cypher + algorithms + bm25) ─► 2 pack ─► 3 backend ─► 4 verify ─► 5 record (back into ask.db)
+                                                          ▲                      │
+                                                          └── 6 one expansion round: the model asks, code answers
 ```
 
-### 3.1 Route — which documents and which places (code)
+### 3.1 The store: `Plan/derived/ask.db`
 
-Four finders, each a place to look, none a number (the qmd rule):
+One file, built by `scripts/askdb.py build`, git-ignored like everything under `Plan/derived/`, rebuilt by a new `install.sh` component `askdb` (about 30 s estimated; measured in phase 1).
 
-1. **Graph** — `graphrag.retrieve()`: ranked pages, their verified quotations with document and line, the conflicts and questions touching them, the documents the rank reached.
-2. **Entities** — `entities.py search` on the seed names: unread documents that name them, with the first line.
-3. **qmd BM25** — `qmd.py search`, collection `sources`, `search` only (never `query` or `vsearch`): hits with document and line. The index must be current (`qmd update`, 30 s).
-4. **Counts** — `read.py --count` or `corpus.py` when the question is a count, answered by code before any model.
+**Stated graph** (only what files state; every edge keeps `via`, the file line that states it):
 
-The router merges the four into a ranked list of **(document, line)** anchors. Ranking is plain and printed: graph evidence first, then documents reached by two finders, then one. A question the router answers with a count stops here.
-
-### 3.2 Pack — the only context the model sees (code)
-
-One file, `Plan/runs/ask/<id>/pack.md`, and its manifest `pack.json`. The pack is identical for every backend, so their answers are comparable.
-
-| part | content | from |
+| from | built from | adds over `graph.py` |
 |---|---|---|
-| A. Question | verbatim, plus `kind`: `locate`, `position`, `compare` or `explain` (the asker names it; no classifier) | the caller |
-| B. Rules card | about 30 fixed lines: answer only from the pack, one claim one document, quote verbatim in „…", one quotation one passage, say „nicht im Paket" rather than guess, never compare two documents without quoting both, German quotations stay German | a constant in `ask.py` |
-| C. Graph excerpt | for the top pages, `digest.py`'s lead and `## Where the sources differ`; the records touching them, position table only; the MMR-selected verified quotations with `slug:Lnn` | `graphrag.retrieve`, `digest.py` |
-| D. Source windows | for each anchor, the document lines around it, **numbered as `read.py` numbers them**, ±N lines, windows of one document merged | `read.numbered` |
-| E. Skill excerpt | the one or two skills whose description best overlaps the question, description plus one named section | §3.3 |
-| F. Output schema | the JSON the model must return | a constant |
+| `:Term`, `:Doc`, `:Conflict`, `:Question` and the seven edge types | `graph.py --json`, unchanged | nothing: the same graph, now queryable |
+| `:Chapter` and `(:Chapter)-[:READS]->(:Doc)` | the chapter pages' reading headings | a question about a chapter starts at its page |
+| `(:Doc)-[:DATED]` as a property `date`, `category`, `tier`, `read: bool` | `Sources/manifest.jsonl` | the 535 unread documents exist as nodes |
+| `:Sheet` and `(:Sheet)-[:DEPENDS_ON]->(:Sheet)` | the heads of `Plan/weichen/*.md` (decision 016) | the decision process becomes a graph (§3.7) |
 
-`pack.json` records every part's size, the documents whose text is in D (**`sends_text_of`** — what consent is checked against), the finders that produced each anchor, the budget and the hash of the pack. A budget (characters, default to be measured in phase 1) cuts D from the lowest-ranked anchor up, and the manifest says what was cut.
+**Proposal graph** (label `:Proposal` on every node and relation type prefixed `P_`; no stated query names either):
 
-### 3.3 Skill excerpt (code, provisional)
+| node | built from |
+|---|---|
+| `:Entity:Proposal` and `(:Entity)-[:P_NAMED_IN {line}]->(:Doc)` | verified entity lists (`entities.py matrix`) — the route to unread documents |
+| `:Gloss:Proposal` | `graph.proposals()` glosses (German ↔ English) |
+| `:Answer:Proposal` and `(:Answer)-[:P_CLAIMS {line}]->(:Doc)` | verified answers of this tool (§3.6) |
 
-The asker wants „an excerpt of useful skills for the task". Two parts, both deterministic:
+**Full text**: `lines(slug, line, text)` over every non-empty line of every landed document, and `quotes(slug, line, text, page)` over the 9,022 verified evidence quotations. Both `unicode61 remove_diacritics 2`; a trigram table is added in phase 1 only if the bench shows inflection losing hits.
 
-- **Selection:** fold-token overlap between the question and each `SKILL.md` description — the block `dspy_skills.generate_skills_prompt_block` already renders from the same field (`rlm_ingest.py`). Top one or two, and only above a floor.
-- **Excerpt:** a named section per skill, listed in a small table in `ask.py`. It starts with the three that have a use today: `writing-skills` (what counts as canon), `dramatica-vocabulary` (glossary lines for a named term), `ingest` (quoting rules, already in the rules card, so usually none).
+**Check** (P8): `askdb.py check` compares node and edge counts per type with `graph.py`, lines per document with the files, and fails on any difference.
 
-Provisional under P4: the table grows only when a question needed a skill it lacked. It retires if bench answers do not differ with and without it (measured in phase 3).
+### 3.2 Route — which documents and which lines (code, in the store)
+
+Every finder is a query; the router merges their (document, line) anchors and records which finder produced each.
+
+1. **Seeds**: the question's folded surfaces matched against `:Term.surfaces` (the rule `graphrag.seeds` uses, ported, not changed).
+2. **Spread**: `personalizedPageRank(seeds)` in Cypher. Down-weight by `degreeCentrality`, because the bench showed the hubs (`aegis`, `juna`, `kael`, `alters`) crowding gold pages out of the top eight (`CLAUDE.md`, *The knowledge graph*).
+3. **Neighbourhood**: for a `compare` question, `shortest_path` between the two seed terms. Every hop carries its `via` line, so the pack can show why two terms are connected.
+4. **Community**: Louvain on the stated graph; the pages in a seed's community that no other finder reached fill one slot. This is GraphQLite's own GraphRAG example's step 3.
+5. **Unread documents**: `(:Entity)-[:P_NAMED_IN]->(:Doc {read:false})` for entities matching the seeds.
+6. **Keyword**: `bm25()` over `lines` with the seed surfaces and the question's content words, all 586 documents. This replaces qmd's `search` for `ask`; qmd stays for people.
+7. **Evidence**: `bm25()` over `quotes`, then the MMR with relevance floor `graphrag.select_mmr` already implements.
+8. **Counts**: a counting question goes to `read.py --count` or `corpus.py` and stops before any model.
+
+Anchors are ranked by a printed rule: evidence first, then documents reached by several finders, then by one.
+
+### 3.3 Pack — the only context the model sees (code)
+
+`Plan/runs/ask/<id>/pack.md`, identical for every backend, and `pack.json`:
+
+| part | content | from the store |
+|---|---|---|
+| A. Question | verbatim, and `kind`: `locate`, `position`, `compare`, `explain` (named by the asker) | — |
+| B. Rules card | about 30 fixed lines: answer only from the pack; one claim, one document; quote verbatim in „…"; one quotation, one passage; „nicht im Paket" rather than a guess; no comparison without both quotations | constant |
+| C. Graph excerpt | top pages' lead and `## Where the sources differ` (`digest.py`); records touching them, position table only; the path for `compare`, each hop with its `via` | Cypher + `digest.py` |
+| D. Source windows | ±N lines around each anchor, **numbered as `read.py` numbers them**, windows of a document merged | `lines` table |
+| E. Skill excerpt | one or two skills whose description overlaps the question above a floor; description plus one named section (a small table in `ask.py`, provisional under P4) | `SKILL.md` files |
+| F. Output schema | §3.5 | constant |
+
+`pack.json` records each part's size, **`sends_text_of`** (documents whose text is in D — what consent is checked against), the finder behind each anchor, the budget, what the budget cut, and the pack's hash.
 
 ### 3.4 Backends — one contract, four doors
 
-Each backend takes `pack.md` and returns `answer.json` in the schema below, or a status.
-
 | backend | how | isolation | who may run it |
 |---|---|---|---|
-| **claude-cli** (default) | `lmrun.call` with `make_lm("claude-cli/sonnet")`: `claude -p`, no tools, no MCP, empty working directory | **enforced**: the model sees the pack and nothing else | first party (decision 011); scriptable and parallel |
-| **session** | the session spawns a subagent `.claude/agents/source-asker.md` (Sonnet, `tools: Read`), told to read only `pack.md` and write `answer.json` | by instruction only: `Read` can open other files | first party; for interactive use |
-| **route** | `route.chat` with the pack as prompt, `purpose=ask`, `doc` = the first of `sends_text_of` | none needed — `route.screen` refuses any request holding twelve words of a document outside `consent.json` | **today only packs whose `sends_text_of` lies inside decision 007's two documents**; any wider use needs the author's consent |
-| **jules** | the pack is committed to a branch; `jules.dispatch` with a prompt „read only `Plan/runs/ask/<id>/pack.md`, write `answer.json`, submit"; `jules.verify` and `patch` collect it | none: a Jules session holds the whole repository, corpus included | **only with `--approval` naming an author decision**; decision 014 covered one ingest, not this |
+| **claude-cli** (proposed default) | `lmrun.call` with `make_lm("claude-cli/sonnet")`: `claude -p`, no tools | **enforced**: only the pack | first party (decision 011) |
+| **session** | subagent `.claude/agents/source-asker.md` (Sonnet, `tools: Read`) reads `pack.md`, writes `answer.json` | by instruction | first party |
+| **route** | `route.chat`, `purpose=ask`; `route.screen` refuses any request holding twelve words of a document outside `consent.json` | not needed | today only packs inside decision 007's two documents |
+| **jules** | pack committed to a branch; `jules.dispatch` („read only the pack, write `answer.json`, submit"); `jules.verify`, `patch` | none: the whole repository | only with `--approval` naming an author decision |
 
-Only claude-cli can promise „only this context". The other three are useful for comparison or scale, and their answers pass the same verification.
-
-### 3.5 The answer contract
+### 3.5 Answer contract
 
 ```json
-{
-  "answerable": "yes | partly | no",
-  "claims": [
-    { "doc": "<slug>", "says": "<one sentence, the model's words>",
-      "quotes": [ { "text": "<verbatim>", "line_hint": 123 } ] }
-  ],
+{ "answerable": "yes | partly | no",
+  "claims": [ { "doc": "<slug>", "says": "<one sentence>",
+                "quotes": [ { "text": "<verbatim>", "line_hint": 123 } ] } ],
   "differ": [ "<slug-a> vs <slug-b>: <what differs>" ],
-  "gaps": [ "<what the pack does not hold>" ],
-  "next": [ { "doc": "<slug>", "why": "<one line>" } ]
-}
+  "gaps":   [ "<what the pack does not hold>" ],
+  "need":   [ { "term": "<surface>" } | { "doc": "<slug>", "lines": [a, b] } ],
+  "next":   [ { "doc": "<slug>", "why": "<one line>" } ] }
 ```
 
-A claim is about one document. „Sources differ" is only a line in `differ`, and only when both documents have a verified claim.
+### 3.6 Verify, render, record (code)
 
-### 3.6 Verify and render (code)
+1. A quoted document must be **in the pack**; otherwise `outside-pack`.
+2. `quotes.verdict` at `line_hint`, else `read.locate`: placed, or `unresolved`.
+3. A claim keeps placed quotations only; with none it is `unsupported` and printed apart.
+4. `lint_readings.lint_lines` over `says` and `differ`; a `differ` line survives only if both documents have a supported claim.
+5. `answer.md` is rendered by code, claims grouped by document in date order, every quotation as `„…" ^[slug.md:Lnn]`, so `quotes.py` checks the file like any other.
+6. **Back into the store**: `answers`, `claims`, `quote_checks` rows, and an `:Answer:Proposal` node with `P_CLAIMS` edges to the documents it quoted. A later question can find earlier answers with Cypher (`MATCH (a:Answer)-[:P_CLAIMS]->(d:Doc {slug:$s}) RETURN a`) and the bench can count them. Nothing from this graph enters `Wiki/`.
 
-For every quotation, in order:
+### 3.7 One expansion round
 
-1. The document must be **in the pack**. A quotation of a document the pack did not contain is `outside-pack` — the model knew it from somewhere else, or invented it.
-2. `quotes.verdict` against `line_hint`; if that fails, `read.locate` finds the line. Found once: placed. Found on several lines: the one nearest the hint. Not found: `unresolved`.
-3. A claim keeps only placed quotations. A claim with none is `unsupported` and is printed apart, never mixed with supported ones.
-4. `lint_readings.lint_lines` over `says` and `differ`: a comparison without both documents quoted is flagged.
-5. `differ` lines survive only when both documents have a supported claim.
+The model may name what it lacks in `need`: a term, or a document range. Code answers it from the store (a term becomes seeds for §3.2 steps 1–4, a range becomes a window from `lines`), appends it to the pack as part G, and calls the same backend once more. One round only, so cost stays bounded and every token the model saw is still in the pack file.
 
-`answer.md` is rendered by code: supported claims grouped by document, in the documents' date order, each quotation with `^[slug.md:Lnn]` — so `quotes.py` can check the file like any other. Then `differ`, `gaps`, `next`, the unsupported claims last and labelled, and a footer: backend, model, pack hash, status counts, cost.
+### 3.8 The same store serves the decision process
 
-### 3.7 Record
+Decision 016 made the sheets' heads machine-readable. Loaded as `:Sheet` nodes with `DEPENDS_ON` edges, the cross-read of a round becomes queries instead of prose:
 
-`Plan/runs/ask/<id>/` holds `question.txt`, `pack.md`, `pack.json`, `raw.<backend>.json` (the model's reply as received), `answer.json`, `answer.md`, and one line in `Plan/runs/ask/ledger.jsonl`. `<id>` is date plus a short hash of the question. `ask.py replay <id>` re-renders from the stored raw reply with no model.
+- what a sheet unlocks: `MATCH (s:Sheet)<-[:DEPENDS_ON]-(t) RETURN s.id, collect(t.id)` (the field `/simplify` removed, derived here);
+- cycles: strongly connected components;
+- the order of a round: a topological order over the open key questions;
+- blockers: `MATCH (s:Sheet {status:'offen'})-[:DEPENDS_ON]->(x) WHERE NOT (x:Sheet) OR x.status IS NULL` — W12 and W15 appear because they have no sheet;
+- the sheet's evidence: `ask` questions whose pack is seeded by the sheet's records.
+
+This is the checking script decision 016 deferred until after round 1: when it comes, it is a query file over `ask.db`, not a second parser.
 
 ## 4. How it is judged
 
-**Gold from the records, with the known caveat.** Each conflict and question record lists positions per document with lines. The record's own question becomes the bench question, and the record is **removed from the graph and the pack first**, as `graphrag.py bench` removes it. The caveat is `graphrag`'s: the same hand wrote question and label.
+Gold from the records: each conflict and question record lists positions per document with lines. The record's question is the bench question, and the record's node is **removed from the stated graph first**, as `graphrag.py bench` removes it. Caveat: the same hand wrote question and label.
 
-Measured per run, never folded into one number (P11):
+Measured per run, never folded into one number (P11): **pack recall** (record positions inside the pack's windows, no model), **finder yield** (which of the eight finders produced the anchors that held gold — this decides which finders stay), **placed rate**, **document recall and precision**, **outside-pack rate** (should be 0), **calibration** on cases built to be unanswerable. Every model case runs twice (P18); a second Claude run is the ceiling for other backends (P27). `baseline.py` records the numbers.
 
-- **pack recall** — share of the record's (document, line) positions that fall inside the pack's windows (phase 1, no model);
-- **placed rate** — placed quotations over all quotations;
-- **document recall and precision** — documents with a supported claim against the record's documents;
-- **outside-pack rate** — should be 0;
-- **calibration** — `answerable: no` on questions the pack cannot answer (a few cases built to be unanswerable).
-
-Every model case runs twice (P18). A second Claude run is the ceiling to compare other backends against (P27), and it is the same model family, so it measures stability, not truth. `baseline.py` records the numbers.
+**Parity bench before any replacement** (P6): GraphQLite's `personalizedPageRank` and `graphrag.pagerank` on the 24 bench cases, and FTS5 `bm25()` against qmd `search` on the same queries. GraphQLite's version replaces the existing one only where it is at least as good on the bench; otherwise both stay, named.
 
 ## 5. Implementation plan
 
-Each phase ends with a gate (P22). Nothing in a later phase starts before the gate before it.
-
 | phase | builds | gate |
 |---|---|---|
-| **0. Decide** | the author answers §6 | answers recorded in a decision file |
-| **1. Route and pack** (code only) | `scripts/ask.py route`, `pack`; `selftest` with a fixture corpus; `bench --pack` over the records | pack recall measured on all record cases; budget chosen from it; `selftests.py` holds |
-| **2. Verify and render** (code only) | `ask.py verify`, `render`, `replay`; fixture answers from `lm_fixture` carrying each defect: wrong words, wrong line, outside pack, a claim with no quotation, a comparison without both quotes | each fixture defect named by its own check (the `selftest.py` pattern) |
-| **3. Claude CLI** | `ask.py run --backend claude-cli` through `lmrun.call`; 8 record cases × 2 runs on Sonnet; with and without the skill excerpt | placed rate, recall, outside-pack and cost recorded in `baselines.jsonl`; the author sees two rendered answers before phase 4 |
-| **4. Session agent** | `.claude/agents/source-asker.md` (`tools: Read`); `ask.py collect <id>` reads the answer file it writes | same bench, compared with phase 3 |
-| **5. Free models** | `--backend route` | only after the author's consent covers what a pack sends; P19 language check; compared with phase 3 |
-| **6. Jules** | `--backend jules`, asynchronous: `run` dispatches, `collect` verifies and patches | only with an approval naming an author decision; one case first |
-| **7. Use** | the cross-read before a decision round asks W12 and W15's preparing questions through `ask`; the chapter pages' question lists become bench material | a round prepared with it; its answers checked by the author |
+| **0. Decide** | the author answers §6 | a decision file |
+| **1. Store** | `scripts/askdb.py build`, `check`, `selftest`; `install.sh askdb`; `graphqlite` in `.venv-dspy` (dry run resolves); batch upserts | `check` holds; build time and file size measured; `selftests.py` runs it |
+| **2. Parity** | `askdb.py bench --parity`: PPR vs `graphrag`, bm25 vs qmd, with and without degree down-weighting, Louvain slot on and off | numbers in `baselines.jsonl`; which finder stays is decided by them |
+| **3. Route and pack** | `scripts/ask.py route`, `pack`, `bench --pack` | pack recall on all record cases; budget chosen |
+| **4. Verify and render** | `ask.py verify`, `render`, `replay`, write-back to the store; fixture answers from `lm_fixture` carrying each defect | each defect named by its own check |
+| **5. Claude CLI** | `--backend claude-cli`, 8 cases × 2 runs on Sonnet, with and without the skill excerpt and the expansion round | numbers recorded; the author sees two rendered answers |
+| **6. Session agent** | `.claude/agents/source-asker.md`, `ask.py collect` | same bench |
+| **7. Free models, Jules** | `--backend route`, `--backend jules` | only after §6 answers allow it |
+| **8. Decision process** | the sheet queries of §3.8 as `askdb.py sheets` | used in the next cross-read |
 
-**Reused, not rewritten:** `graphrag.retrieve`, `digest`, `read.numbered` and `read.locate`, `quotes.verdict`, `entities` search, `qmd.search`, `lint_readings.lint_lines`, `lmrun.call` and `make_lm`, `claude_lm`, `route.chat` and its guard, `jules.dispatch`, `verify` and `patch`, `lm_fixture`, `baseline.py`. **New:** `scripts/ask.py` (route, pack, run, verify, render, replay, bench, selftest), `.claude/agents/source-asker.md`, and a line in `selftests.py`.
+**Reused**: `graph.py --json`, `graphrag.seeds` and `select_mmr`, `digest`, `read.numbered` and `locate`, `quotes.verdict`, `entities` matrix, `lint_readings.lint_lines`, `lmrun.call`, `claude_lm`, `route.chat`, `jules.dispatch`/`verify`/`patch`, `lm_fixture`, `baseline.py`. **New**: `scripts/askdb.py`, `scripts/ask.py`, `.claude/agents/source-asker.md`, an `install.sh` component, a `selftests.py` line.
 
 ## 6. Questions for the author
 
-1. **Free models:** may a pack go to OpenRouter's free models (data collection denied), and for which documents: none beyond decision 007, the read 51, or any landed document?
-2. **Jules:** may `ask` dispatch Jules sessions, each holding the whole repository, and with what limit (per question with your yes, or a standing budget)?
-3. **Default backend:** claude-cli with Sonnet, as proposed?
-4. **Where an answer may be used:** only as a place to look (like an entity list), or may a reader quote a verified answer's quotations onto a page, going through the normal reading step?
+1. **Free models:** may a pack go to OpenRouter's free models, and for which documents: none beyond decision 007, the reconciled 51, or any landed document?
+2. **Jules:** may `ask` dispatch Jules sessions, each holding the whole repository, per question with your yes or with a standing budget?
+3. **Default backend:** claude-cli with Sonnet?
+4. **Use of an answer:** only as a place to look, or may a reader carry its placed quotations onto a page through the normal reading step?
+5. **GraphQLite as the graph engine:** only for `ask` and the sheets, or also to replace `graphrag.py`'s own PageRank once the parity bench allows it?
 
 ## 7. What this cannot do
 
-- It finds what the four finders reach. A passage no graph edge, entity, BM25 hit or count points at is not in the pack, and `answerable: no` is then the right answer, not a failure.
-- BM25 on German misses compounds and inflection (`.claude/skills/qmd`); a question in the wrong word form finds less.
-- A verified quotation proves the words stand on the line, not that the claim built on them reads them correctly. The claim is still a model's reading.
-- Only claude-cli enforces the context limit. The session agent and Jules are held to it by instruction.
+- It finds what the finders reach. A passage no edge, entity, keyword or count points at is not in the pack; `answerable: no` is then right.
+- FTS5 does not stem German. A question in another word form finds less until a prefix or trigram query is added.
+- A placed quotation proves the words stand on the line, not that the claim reads them rightly. The claim is still a model's reading.
+- Only claude-cli enforces the context limit; the session agent and Jules keep it by instruction.
+- GraphQLite is v0.8, young, and 2.3 % of the openCypher TCK fails (its README). The store is derived and replaceable; nothing but `ask` and the sheet queries depends on it until the parity bench says more.
