@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie"]
 gathered: "2026-09-24"
 ---
 
@@ -24,6 +24,12 @@ Storyform A (its L126). (Until it was read this said nine sources.) The Ultra-Pl
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — where true K\_1 coherence is placed
 
 One sentence names it. The document places true coherence there and gives a phase: „Die tatsächliche $K\_1$-Kohärenz entsteht erst im "Mosaik-Herz" (Phase III), wenn das System parakonsistente Logik zulässt und die Entropie (das Trauma) nicht löscht, sondern funktional in das Gesamtnetzwerk (Mutual Information) integriert.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L102] It says nothing of a chapter or a place, and does not say which phases precede Phase III.
+
+## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the guiding paradigm of Phase III, a coherence of purpose that refuses to fuse the parts
+
+The Mosaik-Herz stands in the document's closing section, headed „Synthese: Phase III und das Mosaik-Herz als wahre Zielkohärenz“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L162]. The opening sentence of that section has the story flip and the Gambit „kumulieren in der finalen Umstrukturierung der Systemarchitektur, die im 39-Kapitel-Arc als Phase III“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L164] coded, with `Die Existenzielle Fusion` as the phase's name in the line's own marks. The paradigm of that restructuring: „Das Leitparadigma dieser finalen, post-linearen Integration ist das psychologische und strukturelle Konstrukt des“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L166] `Mosaik-Herzens`, in the line's own marks. The arc is named, not a chapter: `Kapitel` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0] stands only inside the compound `39-Kapitel-Arc`.
+
+What it is: „Das Mosaik-Herz repräsentiert eine neuartige Zielkohärenz, die nicht auf Zwang, algorithmischer Glättung und Homogenität beruht“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L168]. It refuses fusion: „Es verwirft die klassische Idee, dass eine zersplitterte Entität (die 11 Subsysteme von Kaels Persönlichkeit) zu einer einzigen, ununterscheidbaren Kernidentität verschmolzen werden muss“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L168]. What it enables instead: „Stattdessen ermöglicht das Mosaik-Herz den Zustand der“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L170] `Funktionalen Multiplizität`, in the line's own marks.
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -53,6 +59,10 @@ Mosaik-Herz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L489],
 in Kap 39" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L505]. Kap 34: „Kael (Wir) konfrontiert AEGIS direkt." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1057]
 „Mosaik-Herz vor Vortex." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1057] A stage of the inner journey in Kap 11 and a
 beat before the [[vortex|Vortex]] in Kap 34; the document does not say whether they are one.
+
+## Where the sources differ
+
+- `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01: the Mosaik-Herz is the guiding paradigm of Phase III, a psychological and structural construct that refuses to fuse the parts into one identity; it places the phase in an arc, not in a chapter (`Kapitel` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0]).
 
 ## Open
 
