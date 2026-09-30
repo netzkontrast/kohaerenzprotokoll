@@ -53,6 +53,11 @@ SUITES = [
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("gold lists", "std", ["scripts/gold.py", "selftest"]),
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
+    ("pipeline order: violations named", "std", ["scripts/account.py", "selftest"]),
+    ("pipeline order, live", "std", ["scripts/account.py", "order", "--summary"]),
+    ("quotes, live", "std", ["scripts/quotes.py"]),
+    ("frontmatter, live", "std", ["scripts/wiki_index.py", "--check"]),
+    ("judgements replay", "std", ["scripts/judgements.py", "--open"]),  # --open: no re-render
     ("jules: approval, tools, verify", "std", ["scripts/jules.py", "selftest"]),
     ("runlog: refusals, summary", "std", ["scripts/runlog.py", "selftest"]),
     ("readings lint: each class and its near-miss", "std", ["scripts/lint_readings.py", "selftest"]),

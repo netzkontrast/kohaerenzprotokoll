@@ -473,8 +473,10 @@ def main(argv: list[str]) -> int:
         print(f"UNRESOLVED  {where}  ^[{problem['ref']}]")
         print(f"            „{problem['quote']}…\"")
         print(f"            {problem['why']}")
-    print("\n" + summary(result, wrap="\n")
-          + "\nA bare ^[Lnn] resolves against the file's own `source:`.")
+    # The summary is the last line, because a runner that shows one line per check
+    # (`selftests.py`, CI) shows the last one.
+    print("\nA bare ^[Lnn] resolves against the file's own `source:`.\n"
+          + summary(result))
     return 1 if result["unresolved"] else 0
 
 
