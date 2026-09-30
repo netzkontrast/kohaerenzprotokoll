@@ -70,6 +70,9 @@ Eingriff bleibt unter Option A erzählbar. Zusatzfrage: **Welche Maßnahme wähl
 AEGIS nach Kaels Gegenwehr anders, und warum?** Ein eigenes Ziel und ein
 anpassungsfähiges Vorgehen brauchen weder Hass noch einen menschlichen Dialog.
 
+Die vorläufigen NCP-Dateien aus PR #115 verwenden `author_structural_pov`;
+deren MC-Wert `i` ist keine Entscheidung für Option C oder für AEGIS-Ich-Prosa.
+
 Noch offen. Antwortformat: W6 A/B/C oder frei; bei B **dritte Person/subjektlos**;
 zusätzlich **AEGIS als MC von B prüfen oder Kael in beiden prüfen**. Keine
 automatische Gleichsetzung mit Bewusstsein. W3 bestimmt Kaels Stimme, W7 den
