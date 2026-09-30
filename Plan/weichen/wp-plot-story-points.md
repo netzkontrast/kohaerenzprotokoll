@@ -1,11 +1,11 @@
 ---
 id: WP
-status: vertagt            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: offen            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W1, W2, W6, C8]
 schaltet_frei: []
 kapitel: "alle"
-frage_art: vertagt        # schlüssel | schalter | standard | vertagt
-auslöser: "zuerst die konkreten Plotfragen K1/K2; Types danach daraus ableiten"
+frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
+auslöser: "zuerst die Alltagsfragen (K1/K2), Types danach als Diagnose — so seit PR #118"
 empfehlung: "erste Zeilen"
 empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
 ---

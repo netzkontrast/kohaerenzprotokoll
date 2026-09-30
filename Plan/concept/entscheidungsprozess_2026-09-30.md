@@ -34,7 +34,7 @@ Zwei der meistgenannten Abhängigkeiten sind also noch nicht vorbereitet: **W12 
 2. **W2 C gegen W8 A.** W2 C begründet sich auch damit, dass es „in der einen Stadt" funktioniert und W8 nicht voraussetzt. W8 empfiehlt A (getrennte Kernwelten, Kael verlässt KW1). Das ist keine Unverträglichkeit, aber die Empfehlung von W8 nimmt einen Vorteil von W2 C zurück.
 3. **Vier Empfehlungen vertagen die Identität.** W4 C (Rahmen nach dem Piloten), W6 B (Vergleichsszene statt Perspektive), W9 („Identität vorerst nicht festlegen") und W10 C („Funktionen zuerst") sind zusammen genommen eine Geschichte ohne festgelegten Rahmen, Sicht, Juna-Identität und Besetzung. Jede Vertagung ist einzeln vernünftig. **Zusammen lassen sie dem Treatment keine Figur und keinen Ort, an dem es sich festmachen könnte.** Wer alle Empfehlungen annimmt, bekommt die Probe, die schon vorliegt: abstrakt.
 4. **W9 verlangt „eine konkrete Verbindung zu Juna, die Kael verlieren kann", W10 C lässt die Besetzung offen.** Der Verlust braucht jemanden, der ihn trägt.
-5. **Mein Blatt WP fragt nach Type-Labels**, die `antwort-pr113` zu Recht als schwächer einstuft als konkrete Fragen („ein Type-Label macht ein Ziel nicht konkret"). Siehe §6.
+5. **Mein Blatt WP fragte zuerst nach Type-Labels**, die `antwort-pr113` zu Recht als schwächer einstuft als konkrete Fragen („ein Type-Label macht ein Ziel nicht konkret"). PR #118 hat das Blatt inzwischen umgestellt: zuerst Alltagsfragen, Types danach als Diagnose. Siehe §6.
 
 ## 3. Welche Fragen wirklich zu klären sind
 
@@ -111,7 +111,7 @@ empfehlung_von: session  # nie "autor", bevor du geantwortet hast
 `antwort-pr113_2026-09-30.md` hat recht an drei Stellen, die ich hier übernehme:
 
 1. **Das Gutachten war eine Stichprobe.** Ich habe das im Gutachten gesagt, die Zusammenfassung (Gleichförmigkeit „sicher für 26–38") ging aber weiter als die gelesene Prosa. Es ist ein Prüfauftrag, kein Urteil über ungelesene Kapitel.
-2. **Null Treffer für „Story Goal" sind eine terminologische Lücke**, noch kein Beweis, dass die Storyform kein Ziel kennt. Das Blatt WP beginnt aber mit Type-Labels. **Ich stelle WP zurück:** zuerst die sieben konkreten Plotfragen aus der Antwort (Was will Kael bis wann? Was verfolgt der Gegner? …), die Types danach daraus abgeleitet. Die meisten dieser Fragen stecken in K1 und K2.
+2. **Null Treffer für „Story Goal" sind eine terminologische Lücke**, noch kein Beweis, dass die Storyform kein Ziel kennt. Das Blatt WP beginnt aber mit Type-Labels. **PR #118 hat WP entsprechend umgestellt** und ich übernehme das: zuerst die konkreten Plotfragen (Was will Kael bis wann? Was verfolgt der Gegner? …), die Types danach daraus als Diagnose. Die meisten dieser Fragen stecken in K1 und K2; WP bleibt als Blatt offen und hängt an deren Antwort. PR #118 stuft außerdem Start/Stop und das Crucial Element zu Recht als **ungeprüfte Hypothesen** ein; ich hatte sie in WP und in der Zusammenfassung als Befund geführt.
 3. **Ein Gegner mit Willen ist ein Kandidat, keine Notwendigkeit.** K1 stellt deshalb die Frage nach einer *Gegenkraft mit einem verfolgten Ziel und einer Reaktion*, nicht nach einer Figur.
 
 ## 7. Offen für dich (Prozessfragen, nicht Weichen)
