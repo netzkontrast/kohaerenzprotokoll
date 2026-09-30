@@ -25,7 +25,9 @@
       "Write(Legacy/**)",
       "Edit(Legacy/**)",
       "Write(Sources/drive/**)",
-      "Edit(Sources/drive/**)"
+      "Edit(Sources/drive/**)",
+      "Write(Sources/ask/**)",
+      "Edit(Sources/ask/**)"
     ]
   },
   "hooks": {

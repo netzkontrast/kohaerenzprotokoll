@@ -1,13 +1,10 @@
 ---
 id: W9
-status: offen            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W7, W12, W15, W5]
-schaltet_frei: [W5, W7, W10]
-kapitel: "0, 3, 12, 22, 26, 33, 34, 38"
 frage_art: standard        # schlüssel | schalter | standard | vertagt
 auslöser: "nach Pilot Kap 1–3"
 empfehlung: "B"
-empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
 ---
 
 # W9 — Wie wird Juna gegenwärtig, ohne Kaels Entscheidung zu ersetzen?

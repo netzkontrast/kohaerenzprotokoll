@@ -1,13 +1,10 @@
 ---
 id: W2
-status: offen            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W1]
-schaltet_frei: [W5, W8, WP]
-kapitel: "alle"
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: ""
 empfehlung: "C mit A"
-empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
 ---
 
 # W2 — Der Motor: was treibt die Handlung als Handlung?
