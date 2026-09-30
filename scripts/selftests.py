@@ -39,6 +39,7 @@ SUITES = [
     ("knowledge init: plans and failures", "std", ["scripts/knowledge.py", "selftest"]),
     ("reading extraction: provenance and placement", "std", ["scripts/reading_extract.py", "selftest"]),
     ("reading extraction: real HE fixture", "he", ["scripts/reading_extract.py", "native-selftest"]),
+    ("HyperExtract through claude -p: offline", "he", ["scripts/he_claude.py", "selftest"]),
     ("quotes, find, fold", "std", ["scripts/selftest.py"]),
     ("entities matcher", "std", ["scripts/entities.py", "selftest"]),
     ("overview: names, pairs, case", "std", ["scripts/overview.py", "selftest"]),

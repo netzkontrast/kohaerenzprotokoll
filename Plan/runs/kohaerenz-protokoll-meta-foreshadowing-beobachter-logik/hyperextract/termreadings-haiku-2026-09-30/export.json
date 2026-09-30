@@ -1,0 +1,55 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Stasis-Lücken",
+        "quote": "die Zeit im Konstrukt nicht linear fließt, sondern \"getaktet\" ist",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stasis-Lücken",
+        "quote": "Kael erlebt Momente, in denen die Welt um ihn herum für eine unbestimmte Dauer einfriert",
+        "stance": "asserts"
+      },
+      {
+        "term": "Große Stille",
+        "quote": "Das passiert immer dann, wenn der Leser im realen Leben unterbrochen wird (das Buch weglegt)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Primäre Beobachtungs-Einheit",
+        "quote": "AEGIS spricht in seinen Statusberichten oft von der \"Primären Beobachtungs-Einheit\" oder dem \"Externen Taktgeber\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz Protokoll",
+        "quote": "Er rechtfertigt seine harten Maßnahmen (das Kohärenz Protokoll) damit, dass die \"Einheit\" sonst das Interesse verlieren und das System abschalten könnte",
+        "stance": "asserts"
+      },
+      {
+        "term": "Rendering-Grenzen",
+        "quote": "Integriere Hinweise auf die Grenzen der Mathematik und Physik als technische Limits des Lesers",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beobachter-Fokus",
+        "quote": "Beobachter-Fokus bei 85%",
+        "stance": "asserts"
+      },
+      {
+        "term": "narrative Spannung",
+        "quote": "Erhöhe narrative Spannung, um System-Abschaltung zu verhindern",
+        "stance": "asserts"
+      },
+      {
+        "term": "System-Abschaltung",
+        "quote": "um System-Abschaltung zu verhindern",
+        "stance": "asserts"
+      }
+    ]
+  }
+}
