@@ -239,6 +239,7 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--db", type=Path, default=DATABASE, help="derived index; default Plan/derived/ask.db")
     commands = parser.add_subparsers(dest="command", required=True)
+    commands.add_parser("export", help="write a human-readable Markdown graph atlas under Graph/; no import or restore")
     commands.add_parser("index", help="rebuild on input change; unchanged input is a no-op")
     commands.add_parser("check", help="fail if absent or stale")
     s = commands.add_parser("search", help="FTS5 over verified evidence")
@@ -259,6 +260,9 @@ def main(argv=None):
             raise Refused("database must be a .db under Plan/derived; this command writes only derived data")
         if args.command == "index":
             output = index(args.db)
+        elif args.command == "export":
+            import graph_export
+            output = graph_export.export(args.db)
         else:
             meta = freshness(args.db)
             if args.command == "check":

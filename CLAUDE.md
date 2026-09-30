@@ -32,9 +32,9 @@ author, work half-done, what failed — and it is the handover between sessions.
 ### A fresh container has none of the derived things
 
 A cloud session starts from a clean clone. Everything git-ignored is absent.
-**`scripts/install.sh` rebuilds all of it but the qmd models**, and
-`.claude/hooks/session-start.sh` runs `scripts/install.sh --session` at every
-cloud session start — `derived`, `tools`, `dspy`, `graphqlite`, `typesafe`,
+**`scripts/install.sh` installs the tools; `knowledge.py init` prepares their indexes.**
+`.claude/hooks/session-start.sh` synchronously runs `python3 scripts/knowledge.py init --profile research` at every
+Claude session start, local or remote — `derived`, `tools`, `dspy`, `graphqlite`, `typesafe`,
 `hyperextract` and `qmd`, what the pipeline and `selftests.py` call (decision 015;
 GraphQLite added for the author's local CLI request); the rest install
 on demand with `scripts/install.sh <name>`. Synchronously, so no step races an
@@ -42,10 +42,14 @@ install, and never blocking the session on a failed component. `scripts/install.
 `--list` names the components, `scripts/install.sh <name>` installs one. The
 first run here took about a minute with uv's cache already warm — a cold
 container also downloads torch for `grawiki`, unmeasured; a second run is 4s.
-The log is `.install.log`.
+The log is `.install.log`. A fresh or stale graph is built from authoritative files; the readable
+`Graph/` atlas is output only and never imported.
+Codex coordinators follow the same startup requirement in `AGENTS.md`; delegated
+workers check capabilities without rebuilding.
 
 | absent at start | rebuild (`scripts/install.sh <name>`) | needed for |
 |---|---|---|
+| `Plan/derived/ask.db` | `python3 scripts/knowledge.py init --profile reader`: keep fresh or rebuild from authoritative files | both graph CLIs |
 | `Plan/derived/` | `derived` — `python3 scripts/derive.py`, about 3s | `corpus.py`'s index path |
 | `.venv-tools`, `.venv-typesafe`, `.venv-dspy`, `.venv-dspytools`, `.venv-grawiki`, `.venv-semantica`, `.venv-mflow` | `tools`, `typesafe`, `dspy`, `dspytools`, `grawiki`, `semantica`, `mflow` | only the step that names each |
 | `jev-decide` | `jev` | the vendored `jev*` skills in API mode |
@@ -493,12 +497,18 @@ questions touching them, and the documents the rank reached — never prose.**
 
 **A disposable GraphQLite projection serves the same graph locally.**
 `scripts/kg.py index` builds `Plan/derived/ask.db`, or does nothing when
-its input hashes match. Changed inputs rebuild it; reads refuse stale snapshots.
+its input hashes match. Changed inputs rebuild it; reads refuse stale database indexes.
 The CLI provides FTS5 search, evidence IDs, bounded Cypher neighbours and
 byte-capped context using the existing personalized PageRank/MMR. No model or
 MCP server is needed. Use the `graph-context` skill for the command order and
 `scripts/install.sh graphqlite` for the pinned interpreter. This is a cache,
 not another authoritative layer; edit the files and re-derive.
+The explicit `.venv-graphqlite/bin/python scripts/kg.py export` command writes
+a human-readable Markdown atlas under `Graph/`: topic pages, source links,
+conflicts, questions and decision dependencies. There is no import or restore;
+the atlas is not an authoring input. Quellzeilen werden nur bei Bedarf für eine
+konkrete Aussage geöffnet und zitiert. Read `Graph/README.md` and
+`Plan/concept/graph-schema-audit_2026-09-30.md` for usage and schema priorities.
 
 ```bash
 python3 scripts/graph.py                       # counts and the check against the files
