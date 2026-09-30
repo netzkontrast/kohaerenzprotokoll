@@ -26,6 +26,7 @@ export NPM_CONFIG_UPDATE_NOTIFIER=false NPM_CONFIG_FUND=false NPM_CONFIG_AUDIT=f
 
 # Pins. Each is also written in CLAUDE.md beside the reason for it.
 DSPY_VERSION="3.3.1"
+GRAPHQLITE_VERSION="0.8.0"
 JEV_TAG="v0.2.0"
 GRAPHIFY_REF="4c735618f3d56fd622c2049771584621c31ba9ff"
 GRAWIKI_REF="920d181b7e82943f3557ce4debaaabfdeb924cde"
@@ -43,6 +44,7 @@ COMPONENTS=(
   "tools|.venv-tools — markitdown, for sources.py land"
   "typesafe|.venv-typesafe — typesafe-sdk, for bilingual.py and jev_entities.py"
   "dspy|.venv-dspy — DSPy $DSPY_VERSION with numpy and Deno, dspy-skills, strictyaml, drg-kg[extract]"
+  "graphqlite|.venv-graphqlite — GraphQLite $GRAPHQLITE_VERSION, local kg.py CLI and offline graph fixtures"
   "dspytools|.venv-dspytools (python 3.12) — dspytools"
   "grawiki|.venv-grawiki (python 3.12) — grawiki[falkordblite,viz], CPU torch"
   "mflow|.venv-mflow (python 3.11) — mflow-ai from netzkontrast/m_flow; nothing calls it"
@@ -73,6 +75,7 @@ present() {
     tools)      .venv-tools/bin/python -c "import markitdown" 2>/dev/null ;;
     typesafe)   .venv-typesafe/bin/python -c "import typesafe_sdk" 2>/dev/null ;;
     dspy)       .venv-dspy/bin/python -c "import dspy, dspy_skills, strictyaml, drg, numpy, deno; assert dspy.__version__ == '$DSPY_VERSION'" 2>/dev/null ;;
+    graphqlite) .venv-graphqlite/bin/python -c "from importlib.metadata import version; from graphqlite import Graph; assert version('graphqlite') == '$GRAPHQLITE_VERSION'; g=Graph(':memory:'); g.close()" 2>/dev/null ;;
     dspytools)  [[ -x .venv-dspytools/bin/dspytools ]] ;;
     grawiki)    .venv-grawiki/bin/python -c "import grawiki, redislite" 2>/dev/null ;;
     mflow)      [[ -x .venv-mflow/bin/mflow ]] ;;
@@ -119,6 +122,10 @@ install_one() {
       need_uv || return 1
       [[ -x .venv-dspytools/bin/python ]] || uv venv -q --python 3.12 .venv-dspytools || return 1
       uv pip install -q --python .venv-dspytools/bin/python git+https://github.com/netzkontrast/dspytools ;;
+    graphqlite)
+      need_uv || return 1
+      [[ -x .venv-graphqlite/bin/python ]] || uv venv -q --python 3.11 .venv-graphqlite || return 1
+      uv pip install -q --python .venv-graphqlite/bin/python "graphqlite==$GRAPHQLITE_VERSION" ;;
     grawiki)
       need_uv || return 1
       [[ -x .venv-grawiki/bin/python ]] || uv venv -q --python 3.12 .venv-grawiki || return 1
@@ -179,7 +186,7 @@ for a in "$@"; do
     --check) CHECK=1 ;;
     # decision 015: a session starts with what the pipeline and selftests.py call;
     # grawiki, dspytools, mflow, semantica, jev, graphify, cgr and omo install on demand
-    --session) WANT+=(derived tools dspy typesafe hyperextract qmd) ;;
+    --session) WANT+=(derived tools dspy graphqlite typesafe hyperextract qmd) ;;
     --list)  for c in "${COMPONENTS[@]}"; do say "${c%%|*}" "${c#*|}"; done; exit 0 ;;
     -h|--help) sed -n '2,9p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;;
     *) WANT+=("$a") ;;

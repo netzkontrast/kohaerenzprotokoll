@@ -46,6 +46,7 @@ graphify-out/
 .venv-grawiki/
 .venv-semantica/
 .venv-mflow/
+.venv-graphqlite/
 
 # code-graph-rag caches written into the working directory
 .cgr-*
