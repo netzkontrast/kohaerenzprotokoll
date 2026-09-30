@@ -46,6 +46,8 @@ folder (`scripts/lmrun.py`, one line per call).
 | `pilot-48-50/` | the readings step of decision 015 on documents 48–50 against a worktree at `3d97d39`: 117 reader files, the applied diff, the comparison with the original run (F1 0.89) and the run log | four `wiki-reader` subagents; `readings.py`, `compare.py` |
 | `quality-sample-2026-09-29/` | a stratified sample of 119 of the 3,603 claims documents 32–51 added, each checked against its lines by three Sonnet auditors and every defect re-checked by the session: 87 OK, 21 minor, 11 defects, all corrected | its `frame.py`; the verdicts by the auditors |
 | `pipeline-2026-09-29/` | where the reading pipeline spent its effort over every read document — page loads, fixed context, yields, two negative results — for `Plan/concept/pipeline-optimization_2026-09-29.md` | its `measure.py`, standard library, reading only |
+| `step6-2026-09-29/` | step 6's sample of decision 015 — two unread documents in each of six categories — and `yield.py`, which joins what each document yielded (reconcile.json, the wiki) with what it cost (transcripts, run logs) and what the review corrected | its `yield.py`, reading only |
+| `reader-lab-2026-09-30/` | the ten documents of step 6 read one at a time, each under its own instruction, on the author's „lernlabor": what each run changed and what it cost. `transcripts.json` keeps the readers' transcripts as numbers, since the transcripts die with the container | its `transcripts.py`; the session |
 | `CONVENTIONS.md` | what every run's JSON must carry | a person |
 
 ## Why `03` matters more than the rest
