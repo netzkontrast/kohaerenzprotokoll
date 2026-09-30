@@ -1,0 +1,42 @@
+{
+ "status": "answered",
+ "answerable": "yes",
+ "claims": [
+  {
+   "doc": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+   "says": "Juna appears directly as a substrate touch (the external layer becomes enterable, a layer shift).",
+   "quotes": [
+    {
+     "text": "Substrat-Berührung | Juna erscheint direkt; die Externe Ebene wird betretbar, nicht als Ortwechsel, sondern als Schicht-Verschiebung",
+     "status": "placed",
+     "line": 727,
+     "why": null
+    }
+   ]
+  }
+ ],
+ "unsupported": [
+  {
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "says": "Juna appears directly in Chapter 38.",
+   "quotes": [
+    {
+     "text": "Juna appears directly",
+     "status": "unresolved",
+     "line": null,
+     "why": "the words stand on no single line"
+    }
+   ]
+  }
+ ],
+ "differ": [],
+ "differ_dropped": [],
+ "gaps": [],
+ "next": [],
+ "need": [],
+ "counts": {
+  "placed": 1,
+  "unresolved": 1,
+  "outside-pack": 0
+ }
+}
