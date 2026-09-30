@@ -27,6 +27,8 @@ files in `scripts/` are missing from it or listed here without existing, and
 
 | file | does | writes |
 |---|---|---|
+| `knowledge.py` | Initializes reader/research/full tool capabilities through the existing installers and independent graph/qmd CLIs; workers use `init --check`, which writes nothing. | existing installers/indexes; only init writes a lock under `Plan/derived/`; no model extraction |
+| `reading_extract.py` | Runs native offline template smoke fixtures and stages HyperExtract passage/relation candidates with source/template hashes, quotation placement and refusals. | `Plan/runs/<slug>/hyperextract/<new-run>/`; no Sources/wiki/database writes |
 | `install.sh` | Installs everything a fresh container lacks — `Plan/derived/`, every venv, the uv tools, qmd's package — one named component at a time; skips what is present. `--check` reports and changes nothing; `--list` names the components. The cloud session-start hook runs it. | the venvs, the tools, `Plan/derived/`, `.install.log` |
 | `setup_qmd.sh` | qmd alone: the package and a shim on the path, then its models, index and embeddings, which `install.sh` leaves out by default. `--package` stops after the shim; `--check` changes nothing. | `.tools-node/`, qmd's index, `/usr/local/bin/qmd` |
 

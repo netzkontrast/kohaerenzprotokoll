@@ -1,0 +1,80 @@
+{
+  "graphqlite": "0.8.0",
+  "scope": "synthetic demonstration only",
+  "queries": [
+    {
+      "id": "01-evidence",
+      "schema": "current-main",
+      "rows": 1,
+      "status": "passed"
+    },
+    {
+      "id": "02-source-impact",
+      "schema": "current-main",
+      "rows": 1,
+      "status": "passed"
+    },
+    {
+      "id": "03-conflicts",
+      "schema": "current-main",
+      "rows": 1,
+      "status": "passed"
+    },
+    {
+      "id": "04-open-questions",
+      "schema": "current-main",
+      "rows": 1,
+      "status": "passed"
+    },
+    {
+      "id": "05-shared-sources",
+      "schema": "current-main",
+      "rows": 1,
+      "status": "passed"
+    },
+    {
+      "id": "06-unread-hits",
+      "schema": "proposed-discovery",
+      "rows": 1,
+      "status": "passed"
+    },
+    {
+      "id": "07-sheet-candidates",
+      "schema": "proposed-discovery",
+      "rows": 2,
+      "status": "passed"
+    },
+    {
+      "id": "08-sheet-prerequisites",
+      "schema": "proposed-discovery",
+      "rows": 1,
+      "status": "passed"
+    },
+    {
+      "id": "09-relation-proposals",
+      "schema": "proposed-extraction",
+      "rows": 1,
+      "status": "passed"
+    },
+    {
+      "id": "10-recorded-tools",
+      "schema": "proposed-operations",
+      "rows": 1,
+      "status": "passed"
+    },
+    {
+      "id": "11-sheet-source-impact",
+      "schema": "proposed-discovery",
+      "rows": 1,
+      "status": "passed"
+    },
+    {
+      "id": "12-run-audit",
+      "schema": "proposed-discovery",
+      "rows": 2,
+      "status": "passed"
+    }
+  ],
+  "parallel_edges": "passed",
+  "parameter_binding": "passed"
+}

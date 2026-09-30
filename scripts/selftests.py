@@ -36,6 +36,9 @@ KINDS = {
 
 # (name, interpreter, arguments). "dspy" means .venv-dspy.
 SUITES = [
+    ("knowledge init: plans and failures", "std", ["scripts/knowledge.py", "selftest"]),
+    ("reading extraction: provenance and placement", "std", ["scripts/reading_extract.py", "selftest"]),
+    ("reading extraction: real HE fixture", "he", ["scripts/reading_extract.py", "native-selftest"]),
     ("quotes, find, fold", "std", ["scripts/selftest.py"]),
     ("entities matcher", "std", ["scripts/entities.py", "selftest"]),
     ("overview: names, pairs, case", "std", ["scripts/overview.py", "selftest"]),
