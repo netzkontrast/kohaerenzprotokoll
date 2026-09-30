@@ -64,6 +64,7 @@ thing. The baseline is the twelve transcripts above.
 | R2 | `ki-narrative-kollaps-kohaerenz-paradoxie` | 191 | a note draft, no census | **Haiku**; the rules from `card.md`, the failures page and the briefing instead of five rule files; the census from `census.py draft`; a clean start, the partial unopened — **done, below** |
 | R3 | `kohaerenz-protokoll-audit-und-verifizierung` | 264 | a census and a note draft | R2's setup plus a claims pass before finishing, three questions per claim — **done, below** |
 | R4 | `angst-bei-komplexen-traumafolgen` | 273 | a census draft, no note | R3's setup, the claims pass as a table in `05-verify.txt`, and `quotes.py --strict` as the gate — **done, below** |
+| R5 | `flow-zustaende-und-dissoziative-identitaet` | 277 | a note and a census draft | the claims table drafted by code (`claims.py`), the gate ending `strict: PASS`/`FAIL`; one resume message when the first report left both failing — **done, below** |
 
 ### R1 — the `document-reader` agent type, resuming from the partial
 
@@ -281,6 +282,57 @@ speaker, and the gate `quotes.py --strict` (`tasks/r4-haiku.md`).
 - Reading 45 rows against their whole lines cost the session about as much as the reader's whole run.
   `claims.py show` prints each sentence with its whole line so that a review is a read and not a
   search.
+
+### R5 — Haiku, the claims table drafted by code, one resume
+
+`flow-zustaende-und-dissoziative-identitaet`: 277 lines, German, 318 candidates. The change against R4:
+`claims.py draft` writes the table, and `quotes.py --strict` ends `strict: PASS` or `strict: FAIL`
+(`tasks/r5-haiku.md`).
+
+| | first reader, Sonnet, stopped | R5, Haiku (both parts) |
+|---|---|---|
+| minutes | 30.4 | 13.6 |
+| calls | 87 | 74 |
+| peak context | 355 k | 140 k |
+| cache reads | 16.3 M | 7.9 M |
+| cost proxy | 2.07 M | 1.13 M |
+| unseen share of the context's growth | 39 % | 14 % |
+| wrote | 106 k characters | 68 k characters |
+
+**Quality.**
+- **The gate line did what it was made for, and the reader stopped anyway.** The first report said
+  `strict: FAIL — 5 unresolved, 5 uncited` for the note; R2 to R4 had reported a pass over failing
+  gates. But it ended there, with the claims table copied and every cell `<fill>`, although the task
+  said to fix and rerun. The cost of the resume message was the second half of the run above: all four
+  gates passed.
+- **The table was filled, and filled the same way 48 times: `document | yes`.** The table's completeness
+  is now checked; its content is not, and cannot be. One row I read against its line was wrong: line 51
+  reports a hypothesis by Arne Dietrich and the note wrote it as the neurobiological basis. It is the
+  one row `claims.py` flags after two fixes to its cues, described below.
+- `stance_marker_count` was a list, and one phrase in it, counted 63, stands nowhere. The census's
+  section on the export was silent where 64 escapes, 57 glued numbers, 26 typographic marks and 10
+  question marks stand; the report said „no unusual export issues“.
+- Of 48 cited sentences, all read against their lines: **2 claims and 1 count wrong**, against 10 of
+  74 for R4. The note names its sources better than R4's did („citing empirical studies with LISREL
+  models“).
+
+**What the review changed in the tool.** `claims.py`'s reporting cues had been read case-insensitively,
+so `so klar` and `nach Beendigung` were cues and 12 of 48 rows were flagged; German capitalises every
+noun, so „nach“ before a capital is no name. With case kept and the nouns cut to those a report calls
+another text, 1 of 48 rows is flagged, and it is the wrong one.
+
+**What it teaches, with R2 to R4.**
+- Four readers, four documents. A Haiku reader completes what a mechanical gate checks completeness of,
+  and no more: R5 filled a table it was told to think about with one answer. The claims table is
+  useful to the reviewer, who reads `claims.py show` against the lines, and worth nothing as the
+  reader's self-check.
+- A resume message naming the failing gates worked once, at about the cost of the reader's own second
+  half. Whether to build it into the pipeline — a coordinator that reruns the gates and resumes the
+  reader until they pass — is a question for the author, since a reader that must be told twice is a
+  cost the tokens table above does not show.
+- The rate of wrong claims on Haiku, by document: 4 of 16 read (R2), 9 of about 30 (R3), 10 of 74 (R4), 2
+  of 48 (R5). The four documents differ in length, category and how much they quote, so this is not a
+  trend; it is the first four points of a measurement.
 
 **Planned, and changed by what each run shows:**
 - **R3:** brief reasoning between tool calls, and several `--find` in one call. The unseen share and the number of calls measure each.

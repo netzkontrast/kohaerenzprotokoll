@@ -55,13 +55,16 @@ FILL = "<fill>"
 HEAD = "| # | where | your sentence, up to its citation | line | its opening words | cues in the line | who says it | holds? |"
 RULE = "|---|---|---|---|---|---|---|---|"
 
-# a line that reports another source: its subject, or its verb
+# a line that reports another source: its subject, or its verb. Case matters here, and an
+# earlier version read it with re.I: `so klar` and `nach Beendigung` came out as cues in R5's
+# note, because German capitalises every noun, so „nach + a capital“ is no name. The nouns are
+# the ones a report calls another text; `Das Konzept` and `Die Analyse` are the document's own.
 REPORTS = re.compile(
-    r"\b(?:Das|Der|Die)\s+(?:Dokument|Protokoll|Audit|Modell|Konzept|Framework|Bericht|Text|Autor|Autoren|"
-    r"Studie|Analyse|Architekturdokument|Manifest|Papier)\b"
-    r"|\b(?:laut|gemäß|zufolge|nach\s+[A-ZÄÖÜ]\w+|so\s+[A-ZÄÖÜ]\w+|wie\s+[A-ZÄÖÜ]\w+\s+(?:sagt|beschreibt))\b"
-    r"|\b(?:argumentiert|postuliert|behauptet|konstatiert|betont|verweist|zitiert|definiert|bezeichnet|nennt)\b",
-    re.I)
+    r"\b(?:Das|Der|Die)\s+(?:Dokument|Protokoll|Audit|Bericht|Studie|Studien|Autor|Autoren|Architekturdokument|Manifest)\b"
+    r"|\b(?:[Ll]aut|[Gg]emäß|zufolge)\b"
+    r"|\b[Nn]ach\s+(?:dieser|jener|der|einer)\s+(?:Theorie|Studie|Lesart|Auffassung|These|Hypothese)\b"
+    r"|\b(?:Untersuchungen|Studien|Studie|Metaanalysen)\b[^.]{0,80}\b(?:zeigen|belegen|deuten|ergaben|legen nahe)\b"
+    r"|\b(?:argumentiert|postuliert|behauptet|konstatiert|betont|verweist|zitiert|definieren|definiert|formuliert)\b")
 OPEN = re.compile(r"\b(?:open|undefined|missing|unnamed|unresolved|nowhere|never|no definition|not defined|absent|"
                   r"leaves? (?:it |this )?(?:open|unsaid|undefined))\b", re.I)
 SPEAKERS = re.compile(r"^(?:document|source:\s*\S.*)$")
@@ -249,6 +252,11 @@ def selftest() -> int:
     cases.append(("a reporting cue is shown", "Das Protokoll" in rows[0]["cues"] and "argumentiert" in rows[0]["cues"]))
     cases.append(("an open claim is flagged for a count", "ASK read.py --count" in rows[3]["cues"]))
     cases.append(("a line with no cue shows none", rows[1]["cues"] == ""))
+    cases.append(("a capitalised noun after nach is no source", not REPORTS.search("nach Beendigung der Aufgabe hält der Affekt an")
+                  and not REPORTS.search("Handlungen werden als so klar erlebt") and not REPORTS.search("Das Konzept des Flow beschreibt")))
+    cases.append(("studies that show something are a cue", bool(REPORTS.search("Empirische Untersuchungen, wie die Anwendung von LISREL-Modellen, belegen, dass Flow"))))
+    cases.append(("a theory the line reports is a cue", bool(REPORTS.search("Nach dieser Theorie operieren gesunde Menschen"))
+                  and bool(REPORTS.search("Diese Theorie postuliert, dass Flow"))))
     cases.append(("the heading is where the row stands", rows[0]["where"] == "note — 1 · Stille"))
     saved = parse_saved(draft_text(rows))
     fails, _ = check_rows(rows, saved)

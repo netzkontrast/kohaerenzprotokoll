@@ -1864,5 +1864,71 @@
   "role": "document-reader",
   "description": "R4: Haiku reads angst-bei-komplexen-traumafolgen",
   "minutes": 8.6
+ },
+ {
+  "slug": "flow-zustaende-und-dissoziative-identitaet",
+  "agent": "acb9d97ddb0b3e277",
+  "chars_per_token": 2.87,
+  "context_growth": 113039,
+  "unseen_tokens": 16112,
+  "unseen_share": 0.14,
+  "agent_type": "document-reader",
+  "wrote_chars": 68434,
+  "start": "2026-09-30T13:24:45.483Z",
+  "end": "2026-09-30T13:38:19.014Z",
+  "calls": 74,
+  "tokens": {
+   "input": 592,
+   "cache_write": 263735,
+   "cache_read": 7941000,
+   "output": 148
+  },
+  "cost": 1125100.75,
+  "peak_context": 140332,
+  "tools": {
+   "Read": 10,
+   "Bash": 44,
+   "Edit": 15,
+   "Write": 2,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 27,
+   "census.py": 4,
+   "quotes.py": 14,
+   "claims.py": 7
+  },
+  "reads": {
+   "Plan/runs/reader-lab-2026-09-30/card.md": 1,
+   ".agents/skills/reader-tools/references/failures.md": 1,
+   "Plan/briefings/extract.md": 1,
+   "Plan/runs/flow-zustaende-und-dissoziative-identitaet/census-draft.md": 3,
+   "/root/.claude/projects/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/tool-results/b4nagukg0.txt": 1,
+   "Sources/terms/flow-zustaende-und-dissoziative-identitaet.md": 1,
+   "Plan/runs/flow-zustaende-und-dissoziative-identitaet/claims-draft.md": 1,
+   "Sources/notes/flow-zustaende-und-dissoziative-identitaet.md": 1
+  },
+  "result_chars": {
+   "Read": 101890,
+   "Bash": 105020,
+   "Edit": 2061,
+   "Write": 377,
+   "SubagentHandback": 61
+  },
+  "errors": 5,
+  "phases": {
+   "setup": {
+    "input": 592,
+    "cache_write": 263735,
+    "cache_read": 7941000,
+    "output": 148,
+    "calls": 74,
+    "cost": 1125100.75
+   }
+  },
+  "ended": "The model's tool call could not be parsed (retry also failed).",
+  "role": "document-reader",
+  "description": "R5: Haiku reads flow-zustaende-und-dissoziative-identitaet",
+  "minutes": 13.6
  }
 ]

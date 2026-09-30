@@ -1,8 +1,8 @@
 ---
 source: Sources/drive/flow-zustaende-und-dissoziative-identitaet.md
 read: "2026-09-30, the whole document (L10 to L277) through read.py with line numbers; document-reader subagent (Haiku)"
-stance_markers: ["Der vorliegende Forschungsbericht analysiert", "Studien zeigen", "Die moderne Forschung zeichnet", "Es bedarf", "Eine effektive Kommunikationsstrategie"]
-stance_marker_count: 1, 63, 1, 1, 1
+stance_markers: ["Der vorliegende Forschungsbericht analysiert", "Studien", "Die moderne Forschung zeichnet", "Es bedarf", "Eine effektive Kommunikationsstrategie"]
+stance_marker_count: 9    # whole-word counts, read.py --count: 1+5+1+1+1; Haiku wrote a list, 1, 63, 1, 1, 1, and `Studien zeigen` stands nowhere
 reads_as: "A systematic research report analyzing flow states and dissociative identity disorder, presenting neurobiological comparisons and therapeutic applications. The document identifies itself as a research report and structures its argument through research findings, clinical mechanisms, and methodological approaches."
 ---
 
@@ -14,7 +14,7 @@ What this document says about the terms that matter in it. Every quotation carri
 
 The document identifies flow as an optimal experience with complete, effortless absorption in an activity, ^[L21] originally formulated by Csikszentmihalyi in the 1970s-1980s. Flow is defined through five characteristics marked with bold headings and footnotes: „Vollständige Konzentration auf die Gegenwart" ^[L29], „Das Verschmelzen von Handlung und Bewusstsein" ^[L30], „Verlust des reflektierenden Selbstbewusstseins" ^[L31], „Verzerrung der Zeitwahrnehmung (Zeitdilatation)" ^[L32], and „Autotelische Erfahrung" ^[L33].
 
-The neurobiological basis is described as transient hypofrontality, a downregulation of prefrontal cortex control. ^[L51] Flow correlates with theta-wave activity over frontal regions combined with alpha-activity over sensory areas. ^[L55] It produces a neurochemical cascade of dopamine, noradrenaline, anandamide, endorphins and serotonin. ^[L57]
+The document offers one explanatory model as dominant: the hypothesis of transient hypofrontality, formulated by Arne Dietrich, on which flow is a temporary downregulation of prefrontal cortex control. ^[L51] Flow correlates with theta-wave activity over frontal regions combined with alpha-activity over sensory areas. ^[L55] It produces a neurochemical cascade of dopamine, noradrenaline, anandamide, endorphins and serotonin. ^[L57]
 
 ## 2 · Dissociative Identity Disorder as fragmentation and survival mechanism
 

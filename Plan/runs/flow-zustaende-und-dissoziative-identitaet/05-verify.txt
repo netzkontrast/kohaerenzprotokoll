@@ -84,3 +84,17 @@ Document structure:
 - Lines 175-207: System communication and organizational metaphor
 - Lines 209-217: Conclusion and future research
 - Lines 219-277: References
+
+## Corrected by the session, 2026-09-30, after the reader finished (runlog corrections.jsonl)
+
+- The first report ended with `quotes.py --strict` at `FAIL — 5 unresolved, 5 uncited` on the note and
+  every cell of `claims.md` still `<fill>`; the reader named the failure and stopped. One resume
+  message naming the two gates got all four to pass.
+- **The claims table was filled `document | yes` in all 48 rows.** No `source:` and no `fixed`. Line 51
+  reports Arne Dietrich's hypothesis (`postuliert`), and the note wrote it as the basis; that row is the
+  one `claims.py check` still cautions about.
+- `stance_marker_count` was a list, `1, 63, 1, 1, 1`. „Studien zeigen“ stands nowhere; „Studien“ stands 5
+  times. The note now says 9.
+- The census's section on what the extraction ran into said nothing of the export: 64 escapes, 57
+  glued reference numbers, 26 typographic marks (18 en-dashes, four pairs of curly quotes) and 10 question
+  marks, two at L145 and eight in the reference list. The report said „no unusual export issues“.
