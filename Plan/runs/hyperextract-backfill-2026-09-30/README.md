@@ -3,7 +3,8 @@
 The author: „Use Haiku agents to Backpoet hyperextract for all allready Read sources“. A source is *read* when it has a census
 in `Sources/terms/`: 58 of the 586 landed. The three contracts the graph laboratory measured — `TermDefinitions`,
 `TermContrasts`, `CausalLinks`, the ones whose lines the `he-lines` finder answers from — had run on twelve of them
-(`Plan/runs/hyperextract-templates-2026-09-30/scaled.sh`). This runs them on the other 46.
+(`Plan/runs/hyperextract-templates-2026-09-30/scaled.sh`), and `CausalLinks` on a thirteenth, in the pilot. This runs the
+rest: 137 runs over 46 documents.
 
 | file | what it is |
 |---|---|
