@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 20
-readings: 20
+sources: 22
+readings: 22
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -36,6 +36,18 @@ is. This document is a brief: it proposes.
 **Recorded as a reading anyway**, because the proposal presupposes the
 definition — you cannot suggest visualising the struggle unless the place is
 where the struggle happens.
+
+## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the simulation as the world AEGIS keeps flawless and that would die of heat; the word Überwelt never written
+
+The document never writes `Überwelt` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0]. It writes `Simulation` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#9] for the constructed world of the story, and these are its sentences that bear on this page's subject. The world AEGIS keeps clean: AEGIS acts „Um die Simulation gemäß seinen klassischen logischen Axiomen“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L73] to keep it `makellos` (the line's own quotation marks), and its directive concerns order „innerhalb der simulierten Kernwelten (KW1 bis KW4)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L61]. The world that dies of heat: „Indem AEGIS eine absolute Rigidität erzwingt, initiiert es gezielt den Wärmetod der narrativen Simulation“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L81]. The whole that would crash: the Gödel-Gambit is used „Um einen katastrophalen Absturz der gesamten Simulation bei einem solchen Kollaps zu verhindern“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L156].
+
+Whether the document's simulation is this page's Überwelt is not settled by these sentences. The compound `Simulationstransparenz`, which the critical reading uses in its account of the canonical assignment, names AEGIS' self-perception and is not read here.
+
+## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — the simulation as the world whose clockwork Kael and Juna disturb and in which the witness stands; the word Überwelt never written
+
+The audit writes `Simulation` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#3] and never `Überwelt` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0]. One use is general and stays an occurrence: „Ein kritisches Problem jeder komplexen Simulation oder künstlichen Intelligenz (wie AEGIS)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L127]. The others are about the world of the story. Kael's and Juna's actions, the audit says, disturb its clockwork: „Sie injizieren Chaitinsche Zufälligkeit in das Uhrwerk der Simulation“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L143]. The witness stands in it: „Die Rolle des Zeugen innerhalb der Simulation, repräsentiert durch die Beobachter-Entität Juna“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L159].
+
+Whether the audit's simulation is this page's Überwelt is not settled by these sentences.
 
 ## Open
 
