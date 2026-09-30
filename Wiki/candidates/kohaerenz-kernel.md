@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Kernel (K₁)
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework"]
 aliases: ["Kohärenz-Kernel"]
 gathered: "2026-09-24"
 ---
@@ -12,6 +12,12 @@ gathered: "2026-09-24"
 # Kohärenz-Kernel (K₁)
 
 **The reversible kernel of the [[dkt|DKT]], carried by [[coheron|Coheronen]].**
+
+## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — AEGIS as K\_1 only by default; true K\_1 in the Mosaik-Herz
+
+The document takes K\_1 as the reading AEGIS carries by default: „Standardmäßig wird AEGIS als der Kohärenz-Kernel ($K\_1$) verstanden, der Ordnung wahrt.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L79] It then says AEGIS is not that. It sets a second K\_1 against it, under the heading „Die wahre Kohärenz ($K\_1$) & Kohärenz-Wahrheit“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L94] and places it: „Die tatsächliche $K\_1$-Kohärenz entsteht erst im "Mosaik-Herz" (Phase III), wenn das System parakonsistente Logik zulässt und die Entropie (das Trauma) nicht löscht, sondern funktional in das Gesamtnetzwerk (Mutual Information) integriert.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L102]
+
+The template's check asks for it: „Erreicht das System wahre K\_1 (Kohärenz/Integration)?“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L145]
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
@@ -114,3 +120,7 @@ Not in date order with the readings above; placed after the last one. The kernel
 Not in date order with the readings above; placed after the last one. `Kohärenz-Kernel` does not stand in it; it writes the kernel as a bare `K1` with a plain digit, and the passages are placed here by J98. **K1 is the logic of preservation, and Juna's trace.** „Kernel-Logik: K1 — Im Epizentrum dieser Storyform steht die Logik der Bewahrung." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L68] „Information wird hier nicht als funktionaler Datensatz, sondern als atemporale, in Mutual-Information-Loops gespeicherte Phänomenologie betrachtet." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L68] „Es ist die Spur von Juna, das Primat der Ersten-Person-Wahrheit, in der Trauma nicht defekt, sondern ein Beweis für die Realität des Erlebens ist." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L68]
 
 **AEGIS only believes itself K1.** „AEGIS *glaubt*, K1 (kohärent) zu sein und strebt nach Perfektion, ist aber in seiner operativen Natur reines K0." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L251] „Da es jeden Widerspruch durch Löschung bereinigt, kann AEGIS die Interferenz nicht halten." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L251]
+
+## Where the sources differ
+
+- `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01: AEGIS is K\_1 only as the default reading; „wahre K\_1 (Kohärenz/Integration)“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L145] arises in the Mosaik-Herz, Phase III (L102).
