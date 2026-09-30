@@ -32,9 +32,9 @@ author, work half-done, what failed — and it is the handover between sessions.
 ### A fresh container has none of the derived things
 
 A cloud session starts from a clean clone. Everything git-ignored is absent.
-**`scripts/install.sh` rebuilds all of it but the qmd models**, and
-`.claude/hooks/session-start.sh` runs `scripts/install.sh --session` at every
-cloud session start — `derived`, `tools`, `dspy`, `graphqlite`, `typesafe`,
+**`scripts/install.sh` installs the tools; `knowledge.py init` prepares their indexes.**
+`.claude/hooks/session-start.sh` synchronously runs `python3 scripts/knowledge.py init --profile research` at every
+Claude session start, local or remote — `derived`, `tools`, `dspy`, `graphqlite`, `typesafe`,
 `hyperextract` and `qmd`, what the pipeline and `selftests.py` call (decision 015;
 GraphQLite added for the author's local CLI request); the rest install
 on demand with `scripts/install.sh <name>`. Synchronously, so no step races an
@@ -42,10 +42,14 @@ install, and never blocking the session on a failed component. `scripts/install.
 `--list` names the components, `scripts/install.sh <name>` installs one. The
 first run here took about a minute with uv's cache already warm — a cold
 container also downloads torch for `grawiki`, unmeasured; a second run is 4s.
-The log is `.install.log`.
+The log is `.install.log`. A fresh or stale graph first attempts the versioned
+`Graph/` snapshot; a mismatch is reported and the graph is rebuilt from sources.
+Codex coordinators follow the same startup requirement in `AGENTS.md`; delegated
+workers check capabilities without rebuilding.
 
 | absent at start | rebuild (`scripts/install.sh <name>`) | needed for |
 |---|---|---|
+| `Plan/derived/ask.db` | `python3 scripts/knowledge.py init --profile reader`: keep fresh, restore matching Graph snapshot, otherwise rebuild | both graph CLIs |
 | `Plan/derived/` | `derived` — `python3 scripts/derive.py`, about 3s | `corpus.py`'s index path |
 | `.venv-tools`, `.venv-typesafe`, `.venv-dspy`, `.venv-dspytools`, `.venv-grawiki`, `.venv-semantica`, `.venv-mflow` | `tools`, `typesafe`, `dspy`, `dspytools`, `grawiki`, `semantica`, `mflow` | only the step that names each |
 | `jev-decide` | `jev` | the vendored `jev*` skills in API mode |
@@ -495,6 +499,12 @@ byte-capped context using the existing personalized PageRank/MMR. No model or
 MCP server is needed. Use the `graph-context` skill for the command order and
 `scripts/install.sh graphqlite` for the pinned interpreter. This is a cache,
 not another authoritative layer; edit the files and re-derive.
+Snapshots are exported explicitly with `.venv-graphqlite/bin/python scripts/kg.py export`
+to `Graph/manifest.json` and compressed logical JSONL. `index` restores a matching
+snapshot automatically; `restore` refuses stale/corrupt snapshots without fallback.
+`Graph/index.md` is bounded navigation, never source text or an authoring input.
+Read `Graph/README.md` for the format and `Plan/concept/graph-schema-audit_2026-09-30.md`
+for measured content, schema tradeoffs and priorities.
 
 ```bash
 python3 scripts/graph.py                       # counts and the check against the files

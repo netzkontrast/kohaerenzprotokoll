@@ -101,12 +101,16 @@ def evidence_of(path: Path, text: str) -> list[dict]:
     out = []
     for match, refs in quotes.pairs(text):
         status, _ = quotes.verdict(refs, default, match.group("quote"))
-        ref = quotes.REF.match(refs[0]) if refs else None
+        # The verdict may have verified a later citation on the same line.
+        # Serve that citation, rather than an unrelated first reference.
+        chosen = next((raw for raw in refs if quotes.resolve(raw, default, match.group("quote")) is None),
+                      refs[0] if refs else None) if status == "verified" else (refs[0] if refs else None)
+        ref = quotes.REF.match(chosen) if chosen else None
         row = quotes.line_of(starts, match.start())
         out.append({"quote": " ".join(quotes.WRAP.sub(" ", match.group("quote")).split()),
                     "page_line": row + 1,
                     "section": sections[row],
-                    "ref": refs[0] if refs else None,
+                    "ref": chosen,
                     "doc": (ref.group("slug") or default) if ref else None,
                     "line": int(ref.group("line")) if ref else None,
                     "status": status})
