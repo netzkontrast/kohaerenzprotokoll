@@ -126,9 +126,11 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**51 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **51
+**53 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **53
 <!--state:documents.with_note--> have a note** in `Sources/notes/`, and **51
-<!--state:documents.reconciled--> are reconciled**. Five are `theorie-physik`,
+<!--state:documents.reconciled--> are reconciled** — the two others are the first
+extractions of step 6's sample, waiting for their reconciliation (see `NOW.md`).
+Of the reconciled, five are `theorie-physik`,
 five `worldbuilding`, one `aegis`, six `storyform`, six `charaktere`, ten
 `kernkonzept`, thirteen `plot-outline`, one `theorie-psychologie`, one `theorie-logik`, one
 `theorie-philosophie` and two `theorie-mathematik` — thirty-three of them from the canon era, and
@@ -157,10 +159,13 @@ From document 52 on the record alone carries it.
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
-**`python3 scripts/account.py order` holds** — `true`
-<!--state:order.holds-->. Every document with a census has a note and a
-reconciliation, each ran against the state the previous one left, and the wiki
-matches what the newest run recorded leaving. It was red from the 2026-09-25 scan
+**`python3 scripts/account.py order` does not hold** — `false`
+<!--state:order.holds-->, and says so with exit status 1. The two step-6 documents
+above have a census and a note and no reconciliation. It holds again when every
+document with a census has a note and a reconciliation, each ran against the
+state the previous one left, and the wiki matches what the newest run recorded
+leaving. **Until 2026-09-30 the check exited 0 either way, and this line said
+`true` over a red state.** The review of PR #110 found both. It was red from the 2026-09-25 scan
 (below) until document 21: the scan's eleven pages were written outside a
 reconciliation, the wiki held 105 pages where the newest run recorded 94, and the
 check named exactly that. It was not loosened to excuse them. Document 21 started
@@ -360,6 +365,16 @@ conflict.
 three above and each tool's own — and prints one line per suite: `held`,
 `FAILED`, or `not run` when the suite's interpreter is absent. A suite that did
 not run has not passed, and the exit status says so.
+
+**And GitHub runs the checks on every push to `main` and on every pull request**
+(`.github/workflows/checks.yml`, since 2026-09-30). Each check is its own step: prose
+numbers, pipeline order, quotations, frontmatter, the judgement replay, chapter pages,
+the Sources overview, and `selftests.py --only std`, the suites the standard library
+runs alone. The dspy, typesafe, GraphQLite and Hyper-Extract suites need their venvs,
+so they run in a session and not on GitHub; `askdb.py`'s and `kg_selftest.py`'s are
+among them. A pull request with a merge conflict is not checked at all: GitHub builds
+no merge commit to run on. The review of #110 is why the workflow exists: it found
+green results claimed for a commit nothing had checked.
 
 ### The wiki links, and a link is not a mention
 

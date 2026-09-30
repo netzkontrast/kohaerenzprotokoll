@@ -559,6 +559,20 @@ including compounds            1
 
 `Synthese` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
 
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Lex, Nyx, Kiko, and Lia'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Lex, Nyx, Kiko, and Lia` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Axis III & IV: Structural Waveforms and Monstrous Symmetry'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Axis III & IV: Structural Waveforms and Monstrous Symmetry` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
 
 ==============================================================================
 C. The verify and mandate families, and the standing the document claims
@@ -864,6 +878,97 @@ whole word, case-insensitive   0
 including compounds            0
 
 `deprecated` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count checked
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`checked` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count check
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`check` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count tested
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`tested` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count proved
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`proved` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count proven
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`proven` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count proof
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`proof` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count German
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`German` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count translation
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`translation` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count translates
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`translates` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count quotation
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`quotation` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count quote
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`quote` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count quotes
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`quotes` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count scare
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`scare` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
 
 
 ==============================================================================

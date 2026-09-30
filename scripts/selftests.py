@@ -56,6 +56,11 @@ SUITES = [
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("gold lists", "std", ["scripts/gold.py", "selftest"]),
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
+    ("pipeline order: violations named", "std", ["scripts/account.py", "selftest"]),
+    ("pipeline order, live", "std", ["scripts/account.py", "order", "--summary"]),
+    ("quotes, live", "std", ["scripts/quotes.py"]),
+    ("frontmatter, live", "std", ["scripts/wiki_index.py", "--check"]),
+    ("judgements replay", "std", ["scripts/judgements.py", "--open"]),  # --open: no re-render
     ("jules: approval, tools, verify", "std", ["scripts/jules.py", "selftest"]),
     ("runlog: refusals, summary", "std", ["scripts/runlog.py", "selftest"]),
     ("readings lint: each class and its near-miss", "std", ["scripts/lint_readings.py", "selftest"]),
@@ -110,13 +115,29 @@ def run(workers: int = 4) -> Iterator[tuple[str, str, str]]:
         yield from pool.map(run_suite, SUITES)
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
+    """`--only std` runs the suites this interpreter can run alone — what CI runs.
+
+    The others are then skipped by request and counted as such, never as held:
+    the exit status covers the suites that ran, and the last line says how many
+    did not.
+    """
+    argv = sys.argv[1:] if argv is None else argv
+    only = argv[argv.index("--only") + 1] if "--only" in argv else None
+    global SUITES
+    chosen = [s for s in SUITES if only is None or s[1] == only]
+    skipped = len(SUITES) - len(chosen)
+    everything, SUITES = SUITES, chosen
     counts: Counter = Counter()
-    for status, name, said in run():
-        print(f"  {status:<9}{name:<26} {said}", flush=True)
-        counts[status] += 1
+    try:
+        for status, name, said in run():
+            print(f"  {status:<9}{name:<26} {said}", flush=True)
+            counts[status] += 1
+    finally:
+        SUITES = everything
     held, failed, unrun = counts["held"], counts["FAILED"], counts["not run"]
-    print(f"\n{held} held, {failed} failed, {unrun} not run, of {len(SUITES)} suites")
+    tail = f", {skipped} skipped by --only {only}" if only else ""
+    print(f"\n{held} held, {failed} failed, {unrun} not run, of {len(chosen)} suites{tail}")
     return 1 if failed or unrun else 0
 
 

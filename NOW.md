@@ -36,6 +36,24 @@ Built on PR netzkontrast/kohaerenzprotokoll#110: step 1 (`runlog.py`), step 2 (h
 install. A quality sample of documents 32–51 found 11 defects in 119 claims, all corrected
 (`Plan/runs/quality-sample-2026-09-29/`). The pilot of step 4 and step 6's sample are under *Handover*.
 
+**The review of #110, 2026-09-30, and what it changed.** It asked for changes after the merge. Five
+findings, each reproduced before it was fixed on #120, the branch that follows #110:
+- `account.py order` exited 0 while it printed `"holds": false`. It exits 1 now, and names a census
+  without a note and a note without a census.
+- `CLAUDE.md` said `true` and 51/51/51 over a red state, with `state.py --prose` failing. The ten
+  stopped readers' fragments were counted as censuses and notes. They now sit in
+  `Plan/runs/<slug>/partial-2026-09-29/`, and the numbers are true again.
+- `readings.py` took a quotation without a citation, a link to no page, a wrong date and a heading
+  naming another document. It only recommended the checks afterwards. Now it refuses all four, and
+  writes only what its checks passed. A later review added a fifth refusal, the plural `## Readings —`
+  heading, which no frontmatter counts.
+- The pilot's table said 0 unchecked quotations. There were 11, and it met two of its four bars.
+- `yield.py` counted no tokens and no corrections.
+
+Every check now runs on GitHub, one step each (`.github/workflows/checks.yml`). **These corrections
+reached `main` as a backport from #120**, the author's choice of 2026-09-30, because #120 stays red
+while step 6 is paused. #120 keeps step 6's reader lab.
+
 **The parked September draft, 2026-09-29:** „The novel in Legacy is Not the quality I
 want". So revising it in place is off the table. Its prose is never a voice reference
 for the book. Whether its ideas come back as research is question B below.
@@ -793,8 +811,14 @@ each of the six categories with one read document or none, read with the new rea
 Slugs are cut here; `python3 scripts/sources.py status` and the manifest have them whole. **Claim before
 reading**: an open pull request whose title or body names the slug under a `Claim` heading, checked for in the
 open pull requests first — two sessions following one handover read documents 16, 17 and 20 twice.
-**Claimed 2026-09-29 by netzkontrast/kohaerenzprotokoll#110, all twelve, and being read** (the author's „Ja").
-Documents: `document-reader` subagents (`.claude/agents/document-reader.md`), one per document.
+**Claimed 2026-09-29 by netzkontrast/kohaerenzprotokoll#110, all twelve; the claim passed to
+netzkontrast/kohaerenzprotokoll#120.** #110 was merged on 2026-09-30 with two of the twelve extracted,
+`ontologische-inversion-von-aegis-kritisches-framework` and `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`.
+The other ten readers ran in parallel and were stopped by the session's usage limit. What they had
+written of a census or note is in `Plan/runs/<slug>/partial-2026-09-29/`, moved out of `Sources/` so
+that no tool counts a fragment as a census. Their candidate lists and counts are complete and gold.
+Step 6 goes on in #120 as a reader lab, one document at a time. The author paused it on 2026-09-30:
+„stop Reading document - you should Improve the Pipeline".
 
 **A qmd search over all 347 unread landed documents ran on 2026-09-26** (`Plan/runs/qmd-scan-2026-09-26/`): one to four short queries per open record, hits only, no reading. It placed all fifteen unread canon-era documents and found two the earlier scan had not: a second Kap 0 draft and a philosophischer Bericht. It also showed the stemmer turning „Mira“ into „miracle“ — six hits, none of them the name.
 
@@ -932,7 +956,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 47 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 59 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
