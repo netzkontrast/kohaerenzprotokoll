@@ -72,8 +72,14 @@ def append(folder: Path, name: str, row: dict) -> dict:
 def phase(folder: Path, what: str, name: str, at: str | None = None) -> dict:
     if name not in PHASES:
         raise Refused(f"no phase {name!r}; phases: {', '.join(PHASES)}")
-    open_ = {e["phase"] for e in events(folder) if e.get("event") == "start"} - \
-            {e["phase"] for e in events(folder) if e.get("event") == "end"}
+    # Open is the last event of the phase, not a set difference of names: until
+    # 2026-09-30 a phase started a second time — a reader resumed after a stop —
+    # counted as closed by its first end, and its second end was refused (R1).
+    last: dict[str, str] = {}
+    for e in events(folder):
+        if e.get("event") in ("start", "end"):
+            last[e["phase"]] = e["event"]
+    open_ = {p for p, what_ in last.items() if what_ == "start"}
     if what == "start" and name in open_:
         raise Refused(f"phase {name!r} is already started and not ended")
     if what == "end" and name not in open_:
@@ -148,6 +154,11 @@ def selftest() -> int:
         assert refuses(phase, f, "start", "lunch"), "an unknown phase"
         cases += 1
         phase(f, "end", "read", "2026-09-29T10:30:00+00:00")
+        # a phase resumed after a stop can be ended again, and both spans count
+        phase(f, "start", "read", "2026-09-30T10:00:00+00:00")
+        phase(f, "end", "read", "2026-09-30T10:10:00+00:00")
+        assert summary(f)["phases"]["read"] == 2400, summary(f)
+        cases += 1
         assert refuses(reader, f, "r1", "sonnet", None, 3, 10, []), "a reader with no usage"
         cases += 1
         reader(f, "r1", "sonnet", 1000, 3, 10, ["aegis"])
@@ -157,7 +168,7 @@ def selftest() -> int:
         cases += 1
         correct(f, "count", "aegis", "`Flight` 0", "`Flight` 0; `flight` 11")
         s = summary(f)
-        assert s["phases"]["read"] == 1800 and s["phases"]["list"] == "not recorded", s
+        assert s["phases"]["read"] == 2400 and s["phases"]["list"] == "not recorded", s
         assert s["tokens"] == 1000 and s["corrections"] == {"count": 1}, s
         cases += 1
         row = reader(f, "r2", "sonnet", 10, 1, 1, [], agent="a0caeac30b491d674")
@@ -166,8 +177,8 @@ def selftest() -> int:
         assert "agent" not in reader(f, "r3", "sonnet", 10, 1, 1, []), "an agent where none was given"
         cases += 1
     print(f"runlog: {cases} of {cases} cases hold (end without start, double start, unknown phase, "
-          "reader without usage, unclassed correction, empty correction, summary, "
-          "a transcript and a document named)")
+          "a phase resumed and ended, reader without usage, unclassed correction, empty correction, "
+          "summary, a transcript and a document named)")
     return 0
 
 
