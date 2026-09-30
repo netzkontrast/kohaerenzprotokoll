@@ -108,6 +108,12 @@ templates have not run; running them needs them copied into the installed
 package's `templates/presets/<domain>/`, where the gallery finds them —
 `tool-review_2026-09-24/hyperextract.md` has the detail.
 
+**Second correction, 2026-09-30: it runs through `scripts/templates.py parse`**,
+which takes the same arguments — replace `he parse` with
+`python3 scripts/templates.py parse` above. Nothing is copied into the installed
+package; the lookup is extended in the process that runs the CLI. To append a
+document to the abstract afterwards, `he feed <ka> <doc> -t Plan/hyperextract/<Name>.yaml`.
+
 `he config` writes `~/.he/config.toml` globally, so the key — which names the
 document for the router's consent check — is set again per document and per
 attempt (P18: two attempts, since `route.py` replays an identical call from its
