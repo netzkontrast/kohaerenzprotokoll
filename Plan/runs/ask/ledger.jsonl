@@ -2,3 +2,4 @@
 {"at": "2026-09-30T10:38:28", "backend": "route", "model": "route/cohere/north-mini-code:free", "status": "answered", "seconds": 35.9, "cost": 0, "id": "2026-09-30-5d414114"}
 {"at": "2026-09-30T10:43:24", "backend": "claude-cli", "model": "claude-cli/sonnet", "status": "answered", "seconds": 35.4, "cost": 0.1378142, "id": "2026-09-30-a1253825"}
 {"at": "2026-09-30T10:43:34", "backend": "claude-cli", "model": "claude-cli/sonnet", "status": "answered", "seconds": 45.3, "cost": 0.1394222, "id": "2026-09-30-00fcbf0d"}
+{"at": "2026-09-30T11:29:17", "backend": "route", "model": null, "status": "unreachable", "seconds": null, "cost": null, "id": "2026-09-30-ed3b1b8b", "attempt": 0}

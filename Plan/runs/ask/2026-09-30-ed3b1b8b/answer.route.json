@@ -1,0 +1,11 @@
+{
+ "status": "unreachable",
+ "claims": [],
+ "unsupported": [],
+ "differ": [],
+ "differ_dropped": [],
+ "gaps": [],
+ "next": [],
+ "need": [],
+ "counts": {}
+}

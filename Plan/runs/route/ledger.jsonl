@@ -783,3 +783,9 @@
 {"at": "2026-09-30T11:28:12+00:00", "kind": "attempt", "purpose": "ask", "doc": null, "key": "a26937071d5808027f6d", "model": "inclusionai/ling-3.0-flash-sante:free", "outcome": "empty", "seconds": 25.1}
 {"at": "2026-09-30T11:28:12+00:00", "kind": "attempt", "purpose": "ask", "doc": null, "key": "a26937071d5808027f6d", "model": "inclusionai/ling-3.0-flash-fin:free", "outcome": "error", "seconds": 0.3}
 {"at": "2026-09-30T11:28:13+00:00", "kind": "attempt", "purpose": "ask", "doc": null, "key": "a26937071d5808027f6d", "model": "nex-agi/nex-n2.5-mini:free", "outcome": "error", "seconds": 0.3}
+{"at": "2026-09-30T11:29:13+00:00", "kind": "attempt", "purpose": "ask", "doc": null, "key": "a26937071d5808027f6d", "model": "dots-studio/dots-3-note-preview:free", "outcome": "empty", "seconds": 60.5}
+{"at": "2026-09-30T11:29:13+00:00", "kind": "attempt", "purpose": "ask", "doc": null, "key": "a26937071d5808027f6d", "model": "nex-agi/nex-n2.5-pro:free", "outcome": "error", "seconds": 0.4}
+{"at": "2026-09-30T11:29:14+00:00", "kind": "attempt", "purpose": "ask", "doc": null, "key": "a26937071d5808027f6d", "model": "google/gemma-4-26b-a4b-it:free", "outcome": "rate-limited", "seconds": 0.4}
+{"at": "2026-09-30T11:29:15+00:00", "kind": "attempt", "purpose": "ask", "doc": null, "key": "a26937071d5808027f6d", "model": "qwen/qwen3.8-27b:free", "outcome": "rate-limited", "seconds": 0.5}
+{"at": "2026-09-30T11:29:17+00:00", "kind": "attempt", "purpose": "ask", "doc": null, "key": "a26937071d5808027f6d", "model": "z-ai/glm-5.2:free", "outcome": "error", "seconds": 0.3}
+{"at": "2026-09-30T11:29:17+00:00", "kind": "chat", "purpose": "ask", "doc": null, "key": "a26937071d5808027f6d", "cached": false, "outcome": "unreached", "why": "nex-agi/nex-n2.5-pro:free: error; google/gemma-4-26b-a4b-it:free: rate-limited; qwen/qwen3.8-27b:free: rate-limited; z-ai/glm-5.2:free: error", "attempts": 20}
