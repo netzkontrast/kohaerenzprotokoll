@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 38
-readings: 38
+sources: 40
+readings: 40
 conflict: C11, C15
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -36,6 +36,18 @@ document; what is new on 2025-04-17 is explaining them by entropy.
 
 **So this reading is a reinterpretation, not an origin.** An earlier source
 defines them some other way, and this page will need that one beside it.
+
+## Reading — `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`, 2026-02-25, the Meta-Foreshadowing plan — Glitch-Momente as hints of the reader
+
+The plan uses the page's surface Glitch and not Risse. It says the twist is prepared by „müssen wir subtile“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L13] „Glitch-Momente“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L13] „und systemische Hinweise einbauen“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L13] It then describes them, under „Stasis-Lücken“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L15]: the world freezing — „Er nimmt wahr, dass Staubkörner in der Luft stehen bleiben oder Geräusche mitten im Wort abbrechen.“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L19] — and, in unwritten regions, „zerfällt die Welt in Textfragmente oder unklare Schemen“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L34] The cause it gives is the reader, not a kernel or heat: „Das passiert immer dann, wenn der Leser im realen Leben unterbrochen wird (das Buch weglegt).“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L20] The plan does not write the word Riss.
+
+## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — cracks read as true contradictions
+
+The audit orders the writer to treat the Risse in the Mnemosyne-Archipel „as true contradictions“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L26]; it defines them: „These are points where two contradictory statements are both true.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L26]
+
+## Where the sources differ
+
+- `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`, 2026-02-25: „Glitch-Momente“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L13] as freezings and decay of the world, caused by the reader's interruptions; the word Riss is not written.
 
 ## Open
 

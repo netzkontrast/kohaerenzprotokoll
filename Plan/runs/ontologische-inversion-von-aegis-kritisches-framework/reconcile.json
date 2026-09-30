@@ -1,0 +1,183 @@
+{
+  "document": "ontologische-inversion-von-aegis-kritisches-framework",
+  "drive_id": "1cNnYAhA9Z16qac1UdpKjr6nW3RnFukh_I8Ta8tPBlDk",
+  "step": "reconcile",
+  "at": "2026-09-30",
+  "by": "hand, after scripts/reconcile.py pre-classification; readings and record entries written by a Sonnet wiki-reader from Plan/runs/step6-readings-52-53/brief.md, placed by readings.py apply, committed per page by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 166,
+    "decisions": 186,
+    "decided_by_lookup": 80,
+    "needs_judgement": 106
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A method document: its own terms (Ontologische Inversion, PICO model, the stress test, the template's checks) are its method's, and its philosophy (Korrespondenz- and Kohärenztheorie, Hegel, Kant's Noumena, Gödel) is borrowed. The novel's world in it — AEGIS, the two kernels, the Mosaik-Herz, Selene, Lex, Moros — has pages. No page is created from a method.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        31,
+        77,
+        79,
+        81,
+        83,
+        87,
+        89,
+        91,
+        100
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "c2-entropie-sense",
+      "lines": [
+        87,
+        89,
+        102
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        19,
+        83,
+        87,
+        89,
+        102
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        121
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        83,
+        94,
+        96,
+        102,
+        112
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        79,
+        94,
+        102,
+        145
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        13,
+        57,
+        81,
+        144
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        44,
+        111,
+        112
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        102
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        122,
+        123
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "c2-entropie-sense"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "rules_applied": [
+    "J9",
+    "J28",
+    "J30",
+    "J39",
+    "J53",
+    "J62",
+    "J70",
+    "J81",
+    "J88",
+    "J95",
+    "J98",
+    "J99",
+    "J105",
+    "J113"
+  ],
+  "not_promoted": [],
+  "found_by_rule_not_by_census": [],
+  "baseline_moved": "documents 52–54, measured together: graphrag bench PageRank recall@8 0.694 → 0.689, only Q5, 0.429 → 0.286; seeds unchanged at 0.531"
+}

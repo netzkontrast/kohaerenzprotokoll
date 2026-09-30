@@ -1,16 +1,20 @@
 ---
 term: Mnemosyne-Server-Architektur
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
 gathered: "2026-09-24"
 ---
 
 # Mnemosyne-Server-Architektur
 
 **The setting of [[vortex|Vortex]] 1 (Kap 35–36), in KW2 — and its image is not decided.**
+
+## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the server core as the climax's setting
+
+The audit says the climax is an ontological rotation „occurring within the server core of the Mnemosyne-Archipel“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L36]. It calls the Archipel the „server substrate“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L6]. It gives no image of the server and no geography.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
