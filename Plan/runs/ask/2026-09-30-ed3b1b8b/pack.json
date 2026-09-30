@@ -1,0 +1,288 @@
+{
+ "id": "2026-09-30-ed3b1b8b",
+ "question": "Was verraten Wärme, Kälte und Ozon? Welche Dokumente, besonders ungelesene, sprechen darüber, und was sagen sie?",
+ "kind": "locate",
+ "built": "2026-09-30T11:23:35",
+ "sends_text_of": [
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+  "dis-diagnose-klinische-ethische-bewertung",
+  "dis-diagnose-klinische-ethische-rechtliche-analyse",
+  "dual-storyform-hintergruende-md",
+  "forschungsprojekt-kohaerenz-protokoll-analyse",
+  "fragen-zu-existenz-agency-und-realitaet",
+  "genesis-mehrstufige-recherche-und-ausformulierung",
+  "genesis-recherche-anleitung-umsetzung",
+  "gravitation-realitaet-simulation-wahrheit-2",
+  "gutachten-grad-der-behinderung-bei-dis",
+  "juna-resilienz-zyklus-konzeptentwicklung",
+  "kap0-v1-annotiert-md",
+  "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat",
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+  "kohaerenz-protokoll-detaillierter-plot-blueprint",
+  "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+  "kohaerenz-protokoll-konzept-master-md",
+  "koharenz-protokoll-kapitel-0-v2-md",
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+  "p-vs-np-und-kohaerenz",
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+  "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "strukturelle-dissoziation-system-kael-analyse"
+ ],
+ "cut_by_budget": [],
+ "budget": 60000,
+ "chars": 25154,
+ "window_chars": 23067,
+ "finders": {
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   "bm25-lines"
+  ],
+  "dis-diagnose-klinische-ethische-bewertung": [
+   "bm25-lines"
+  ],
+  "dis-diagnose-klinische-ethische-rechtliche-analyse": [
+   "bm25-lines"
+  ],
+  "dual-storyform-hintergruende-md": [
+   "bm25-lines"
+  ],
+  "forschungsprojekt-kohaerenz-protokoll-analyse": [
+   "bm25-lines"
+  ],
+  "fragen-zu-existenz-agency-und-realitaet": [
+   "bm25-lines"
+  ],
+  "genesis-mehrstufige-recherche-und-ausformulierung": [
+   "bm25-lines"
+  ],
+  "genesis-recherche-anleitung-umsetzung": [
+   "bm25-lines"
+  ],
+  "gravitation-realitaet-simulation-wahrheit-2": [
+   "bm25-lines"
+  ],
+  "gutachten-grad-der-behinderung-bei-dis": [
+   "bm25-lines"
+  ],
+  "juna-resilienz-zyklus-konzeptentwicklung": [
+   "bm25-lines"
+  ],
+  "kap0-v1-annotiert-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-detaillierter-plot-blueprint": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   "bm25-lines"
+  ],
+  "koharenz-protokoll-kapitel-0-v2-md": [
+   "bm25-lines"
+  ],
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "p-vs-np-und-kohaerenz": [
+   "bm25-lines"
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   "bm25-lines"
+  ],
+  "roman-lokalitaeten-konzept-und-ausarbeitung": [
+   "bm25-lines"
+  ],
+  "strukturelle-dissoziation-system-kael-analyse": [
+   "bm25-lines"
+  ]
+ },
+ "seeds": [],
+ "skills": [],
+ "hash": "eaa3e99d03ec3ac749bdbf0474f096f08cb5985b1ef57c71ddf99b5e348c2792",
+ "shown": {
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   859,
+   1067,
+   1108,
+   1109,
+   1110,
+   1111,
+   1112,
+   1113,
+   1114,
+   1115,
+   1116,
+   1117,
+   1118,
+   1119,
+   1120,
+   1192,
+   1193,
+   1194,
+   1195,
+   1196,
+   1197,
+   1198,
+   1199,
+   1200,
+   1201,
+   1202,
+   1203
+  ],
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   56,
+   135
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   103,
+   104,
+   105,
+   371
+  ],
+  "dis-diagnose-klinische-ethische-bewertung": [
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62
+  ],
+  "dis-diagnose-klinische-ethische-rechtliche-analyse": [
+   331,
+   332,
+   333,
+   334,
+   335,
+   336,
+   337
+  ],
+  "dual-storyform-hintergruende-md": [
+   480,
+   481,
+   482,
+   483,
+   484,
+   485,
+   486,
+   487,
+   488,
+   489
+  ],
+  "forschungsprojekt-kohaerenz-protokoll-analyse": [
+   143
+  ],
+  "fragen-zu-existenz-agency-und-realitaet": [
+   44
+  ],
+  "genesis-mehrstufige-recherche-und-ausformulierung": [
+   365,
+   366,
+   367,
+   368,
+   369
+  ],
+  "genesis-recherche-anleitung-umsetzung": [
+   366,
+   367,
+   368,
+   369
+  ],
+  "gravitation-realitaet-simulation-wahrheit-2": [
+   263
+  ],
+  "gutachten-grad-der-behinderung-bei-dis": [
+   227
+  ],
+  "juna-resilienz-zyklus-konzeptentwicklung": [
+   845,
+   846,
+   847,
+   848
+  ],
+  "kap0-v1-annotiert-md": [
+   997
+  ],
+  "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat": [
+   55
+  ],
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+   913,
+   914,
+   915
+  ],
+  "kohaerenz-protokoll-detaillierter-plot-blueprint": [
+   29,
+   30,
+   31,
+   32
+  ],
+  "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md": [
+   760,
+   761,
+   762,
+   763,
+   764,
+   765,
+   766,
+   767,
+   768,
+   769
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   698
+  ],
+  "koharenz-protokoll-kapitel-0-v2-md": [
+   619
+  ],
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md": [
+   236,
+   237,
+   238,
+   239,
+   240,
+   241,
+   242
+  ],
+  "p-vs-np-und-kohaerenz": [
+   348
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   739
+  ],
+  "roman-lokalitaeten-konzept-und-ausarbeitung": [
+   481,
+   482,
+   483,
+   484,
+   485,
+   486,
+   487,
+   488,
+   489,
+   490
+  ],
+  "strukturelle-dissoziation-system-kael-analyse": [
+   414,
+   415,
+   416,
+   417,
+   418
+  ]
+ }
+}
