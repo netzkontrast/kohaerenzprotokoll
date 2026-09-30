@@ -35,7 +35,8 @@ A cloud session starts from a clean clone. Everything git-ignored is absent.
 **`scripts/install.sh` rebuilds all of it but the qmd models**, and
 `.claude/hooks/session-start.sh` runs `scripts/install.sh --session` at every
 cloud session start — `derived`, `tools`, `dspy`, `typesafe`, `hyperextract` and
-`qmd`, what the pipeline and `selftests.py` call (decision 015); the rest install
+`qmd` and `graphqlite`, what the pipeline and `selftests.py` call (decision 015;
+GraphQLite added for the author's local CLI request); the rest install
 on demand with `scripts/install.sh <name>`. Synchronously, so no step races an
 install, and never blocking the session on a failed component. `scripts/install.sh --check` says what is present,
 `--list` names the components, `scripts/install.sh <name>` installs one. The
@@ -54,6 +55,7 @@ The log is `.install.log`.
 | OpenCode and the oh-my-openagent plugin | `omo` — `~/.config/opencode/opencode.json`, `~/.omo/omo.jsonc`; no provider sign-in | nothing in the pipeline; a second agent harness |
 | qmd package and the `/usr/local/bin/qmd` shim | `qmd` — `scripts/setup_qmd.sh --package` | searching; nothing in the pipeline |
 | qmd's models (~2.1 GB), index and embeddings | `qmd-models` — `scripts/setup_qmd.sh`; **not** run at session start | vector search and `qmd query` |
+| `.venv-graphqlite` | `graphqlite` — pinned Python package `graphqlite==0.8.0` | `scripts/kg.py`, the local graph CLI and its real-extension fixtures |
 | `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev call |
 | `Plan/derived/ui/` | `python3 scripts/ui.py` | the project app's canvas files, to publish |
 
@@ -449,7 +451,7 @@ read after that, made it three.
 
 ### The knowledge graph, and retrieval over it
 
-The wiki is also a typed knowledge graph, derived and never stored:
+The wiki is also a typed knowledge graph, derived from the authoritative files:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **181 <!--state:graph.nodes--> nodes** (terms, documents,
 conflicts, questions) and **4418 <!--state:graph.edges--> edges** (`links`,
@@ -469,6 +471,15 @@ spread by personalized PageRank over the typed edges, select verified quotations
 by MMR with a relevance floor. **It returns quotations, the conflicts and open
 questions touching them, and the documents the rank reached — never prose.**
 `--answer` lets a model choose evidence *numbers*; code prints the quotations.
+
+**A disposable GraphQLite projection serves the same graph locally.**
+`scripts/kg.py index` builds `Plan/derived/graphqlite.db`, or does nothing when
+its input hashes match. Changed inputs rebuild it; reads refuse stale snapshots.
+The CLI provides FTS5 search, evidence IDs, bounded Cypher neighbours and
+byte-capped context using the existing personalized PageRank/MMR. No model or
+MCP server is needed. Use the `graph-context` skill for the command order and
+`scripts/install.sh graphqlite` for the pinned interpreter. This is a cache,
+not another authoritative layer; edit the files and re-derive.
 
 ```bash
 python3 scripts/graph.py                       # counts and the check against the files

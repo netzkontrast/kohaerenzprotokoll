@@ -256,6 +256,21 @@ the path shim (`--package` stops there), the three GGUF models, the SQLite
 index and the embeddings. The configuration itself is committed at
 `.qmd/index.yml`.
 
+## Local graph context
+
+```bash
+scripts/install.sh graphqlite
+.venv-graphqlite/bin/python scripts/kg.py index
+.venv-graphqlite/bin/python scripts/kg.py check
+.venv-graphqlite/bin/python scripts/kg.py context "Wie hängen Guardians und AEGIS zusammen?" --max-bytes 12000
+.venv-graphqlite/bin/python scripts/kg.py search "AEGIS" --limit 10
+.venv-graphqlite/bin/python scripts/kg.py around term:nexus --hops 2 --limit 30
+.venv-graphqlite/bin/python scripts/kg_selftest.py
+```
+
+`index` alone writes the disposable graph database. Other commands refuse stale
+inputs. See `graph-context/references/cli.md` for evidence IDs and coverage limits.
+
 ## Model calls by third-party tools
 
 ```bash

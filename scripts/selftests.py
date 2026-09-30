@@ -26,6 +26,8 @@ ROOT = Path(__file__).resolve().parents[1]
 VENV = ROOT / ".venv-dspy" / "bin" / "python"
 # kind -> (interpreter, or None for this one; what must exist; how to reach it)
 KINDS = {
+    "graphqlite": (ROOT / ".venv-graphqlite/bin/python", ROOT / ".venv-graphqlite/bin/python",
+                   ".venv-graphqlite absent — scripts/install.sh graphqlite"),
     "dspy": (VENV, VENV, ".venv-dspy absent — scripts/install.sh dspy"),
     "typesafe": (ROOT / ".venv-typesafe" / "bin" / "python", ROOT / ".venv-typesafe" / "bin" / "python",
                  ".venv-typesafe absent — scripts/install.sh typesafe"),
@@ -48,6 +50,7 @@ SUITES = [
     ("chapter sources: query, section", "std", ["scripts/chapter_sources.py", "selftest"]),
     ("links: once per page", "std", ["scripts/link.py", "selftest"]),
     ("graph", "std", ["scripts/graph.py", "--selftest"]),
+    ("graphqlite: real extension", "graphqlite", ["scripts/kg_selftest.py"]),
     ("graphrag", "std", ["scripts/graphrag.py", "selftest"]),
     ("ui app", "std", ["scripts/ui.py", "selftest"]),
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
