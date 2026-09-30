@@ -362,7 +362,11 @@ def check_marks(text: str) -> tuple[int, list[dict]]:
     """(marks checked, the wrong ones) in one file's text."""
     marks, wrong = 0, []
     for m in MARK.finditer(unraw(text)):
-        words = ESCAPE.sub(r"\1", m.group("code") or m.group("quote")).strip()
+        # The words as written, the way `read.py --count` counts them. Until 2026-09-30
+        # the export's escapes were stripped here first, so the mark `read.py` pastes for
+        # `K\_1` (8 in the technical audit) was checked as `K_1` (0) and could never
+        # hold (reader lab, R1). No mark in the repository carried an escape then.
+        words = (m.group("code") or m.group("quote")).strip()
         marks += 1
         claimed = int(m.group("n"))
         ref = f"{m.group('slug')}.md:#{m.group('n')}"

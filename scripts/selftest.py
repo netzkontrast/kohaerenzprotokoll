@@ -102,6 +102,10 @@ COUNT_CASES = [
     # found by a document-reader, 2026-09-29: a wrap between the words and the mark
     ("mark on the next line", "`Guardian`\n^[%s.md:#22]" % DOC, None),
     ("a mark with no words before it", "Counted: ^[%s.md:#22]" % DOC, "no code span or quotation"),
+    # found by a document-reader, 2026-09-30: the export writes `K\_1`, `read.py --count`
+    # counts it as written (8), and the check stripped the escape and counted `K_1` (0)
+    ("an escaped export form, counted as written",
+     "`K\\_1` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#8]", None),
 ]
 
 
