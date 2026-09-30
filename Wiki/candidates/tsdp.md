@@ -1,10 +1,10 @@
 ---
 term: TSDP
 status: candidate
-sources: 29
-readings: 28
+sources: 31
+readings: 30
 conflict: none yet
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung"]
 gathered: "2026-09-25"
 ---
 
@@ -45,6 +45,14 @@ An English essay, no hedging. Its opening paragraph gives the model as Kael's wh
 „Die Spaltung verläuft primär durch tief verwurzelte Phobien" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L31]. Its count is eleven: „die elf identifizierten Alters rigoros den vier Kernwelten und deren Guardians zugeordnet" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L33].
 For the opening it draws a consequence: Kael, „der als Anscheinend Normaler Persönlichkeitsanteil (ANP) agiert, darf initial keine Trauer oder Wut spüren." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L25]
 
+## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the theory as the source code of character dynamics, Moros as AEGIS' result and not the splintering's cause, and a topology table
+
+The architecture „nutzt die Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP) als Quellcode für Charakterdynamiken und die Informationstheorie als Basis für die Physik der Welt“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L19]. The canonical reading gives Kael's fragmentation as „(die Gesellschaft des Selbst, aufgeteilt in 11 Anteile durch die TSDP)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L63].
+
+The psychological proof of the critical reading draws on the theory: it shows that the destructive part `Moros`, „der die existentielle Leere, absolute Hoffnungslosigkeit und den totalen System-Shutdown personifiziert“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L85], is „keine Ursache der Zersplitterung“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L85], and that „Moros ist das zwingende psychobiologische Resultat der massiven Unterdrückungsmaschinerie von AEGIS“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L85].
+
+The axis table has a row `Psychologische Topologie (TSDP)`. Its ANP cell sorts the parts as „Manager-Typen (Kael, Lex, Aris)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L132], its EP cell as „Executor-Typen (Nyx, Moros, Kiko, Lyra)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L132]. In the closing synthesis „Die Phobischen Barrieren zwischen ANPs und EPs werden aufgelöst“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L170].
+
 ## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31
 
 A compilation that audits its sources, and finds the model's classification unsettled in one place. In its register of contradictions:
@@ -67,6 +75,14 @@ It holds that with high confidence and asks it: „Es wird mit sehr hoher Konfid
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the theory as the modular defense
 
 Axis II is headed „Psychological Modularity (TSDP)“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L9], and its opening says „The Theory of Structural Dissociation of the Personality (TSDP) provides the modular defense necessary for information-persistence.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L9] Its mandate applies the theory to Kael: „Mandate the use of Janetian action systems to ground Kael’s psychology.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L11] His parts are ones „which function as informational buffers“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L11], and the alters „must be treated as discrete functional modules“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L12].
+
+## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — the theory as the scientific basis of psychological modularity, with named authors, and the dissociative loops as informational firewalls
+
+The audit heads its second axis „Achse II: Psychologische Modularität (TSDP)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L55]. It first states the Protokoll's claim: „postuliert das Protokoll psychologische Modularität als zwingenden, evolutionären Überlebensmechanismus“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L57]. The basis it names is the theory and its authors: „die Theorie der Strukturellen Dissoziation der Persönlichkeit (Theory of Structural Dissociation of the Personality, TSDP), die maßgeblich von den Traumaforschern Onno van der Hart, Ellert R. S. Nijenhuis und Kathy Steele entwickelt wurde“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L61].
+
+What it reports the theory to say: „Die Theorie argumentiert, dass extrem belastende traumatische Ereignisse – insbesondere solche in der frühen Kindheit, die eine massive Bedrohung für die physische oder psychische Integrität darstellen – die integrativen Kapazitäten eines Individuums übersteigen“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L63].
+
+How it maps the theory onto the Protokoll: „Ihre dissoziativen Schleifen und die amnesischen Barrieren zwischen ihnen dienen als informationelle Firewalls“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L81], and „Die TSDP fungiert somit als perfekte Brücke zwischen klinischer Psychologie und Informationstheorie“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L81]. In its table, under the column `Informationeller Status (DKT)`, the ANP is „Puffer-Modul; isoliert von korrosiven Rohdaten, sichert Systemstabilität“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L77] and the EP „Isolierter Datenspeicher; hält den physikalischen Beweis der Transinformation“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L78].
 
 ## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — the theory as the rule that only Kael may be modular
 
@@ -245,6 +261,7 @@ and has both extra categories in its table (L501–L503) without calling the arc
 The Systemic Architecture Specification and the Architecture of Fracture call it tertiary and list both extra categories, as
 `Special`/`Mirror` and `Sonder`/`Spiegel` (their L51, L34), with neither `extended` nor `typical` (`grep -ciw`: 0 each). The
 Editorial Style Dossier sets the Spiegel alters on a vertical axis across the ANP/EP split (its L42).
+- `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01: gives the number of Kael's parts as 11 in its text: „aufgeteilt in 11 Anteile durch die TSDP“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L63] and „die 11 Subsysteme von Kaels Persönlichkeit“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L168].
 
 ## Open
 
