@@ -111,8 +111,20 @@ options and a free-text way:
 It recommends C, with A as the work inside it. All 20 cited quotations resolve (`quotes.py`
 on the file). No document was read.
 
-**Next, if the author says nothing otherwise:** prepare the sheets for W1, W3 and W4 and read no
-new document.
+**Round 1 prepared, 2026-09-30, on the author's “Dann tue das”:**
+`Plan/weichen/w1-theorie.md`, `w3-stimme.md` and `w4-form.md` now stand beside
+`w2-motor.md`. Each records options, gains, costs, a recommendation and its
+dependencies; none is a decision. No new research document was started.
+
+`Plan/concept/treatment-probe_2026-09-30.md` makes the recommendations concrete:
+a conditional causal story, an escalation line and opening movements. Its
+events are marked new, not attributed to the sources or adopted as canon.
+It assumes W1 B, W2 C with A, W3 A and W4 C; alternate answers change the probe.
+The old prose remains parked and no NCP value was changed.
+
+**Next:** the author reviews round 1 and the probe. Record any answers once,
+then prepare the remaining Weichen needed by the treatment. The separate
+process questions A–D above remain open; preparing the probe decides none of them.
 
 **New from the last eight canon-era documents (2026-09-27, documents 32–39, all English, all 2026-05-08):**
 - **The Guardian-world pairing, again, on the canon's date.** The Narrative Building Blocks report makes
