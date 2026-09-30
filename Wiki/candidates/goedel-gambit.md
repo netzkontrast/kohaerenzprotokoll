@@ -1,10 +1,10 @@
 ---
 term: Gödel-Gambit
 status: candidate
-sources: 25
-readings: 23
+sources: 26
+readings: 24
 conflict: none yet
-ingested: ["kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll-konzept-master-md", "aegis-subplots-kapitelweise-system-exploration-docx"]
+ingested: ["kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll-konzept-master-md", "aegis-subplots-kapitelweise-system-exploration-docx", "ki-narrative-kollaps-kohaerenz-paradoxie"]
 gathered: "2026-09-25"
 ---
 
@@ -42,6 +42,14 @@ The Gambit is set in the [[ueberwelt|Überwelt]] (L602).
 And it asks whether the Gambit caused anything (asked, not a reading):
 „Was it the direct cause of AEGIS's transformation?" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L95] Or is it,
 per a footnote it quotes, a symptom „retroactively framed as the cause?" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L95]
+
+## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the Narrative Engine's mathematical weapon in Phase III, with Kael a living dialetheia who injects the value B
+
+The section on the paradoxes has the gambit as the engine's last resort: „Um einen katastrophalen Absturz der gesamten Simulation bei einem solchen Kollaps zu verhindern, bedient sich die Narrative Engine in ihrem finalen Akt (Phase III) einer mathematischen Waffe“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L156], named `Gödel-Gambit` in the line's own marks. The axis table gives it a row: „Die Injektion der funktionalen Multiplizität (A und nicht-A simultan) in das Context Object zwingt die klassische Logik in eine unlösbare Antinomie“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L131].
+
+Who brings the paradox: Kael, who reaches functional multiplicity and, „(er ist Eins und er ist Viele simultan), wird er zu einer lebenden Dialetheie – einem wahren Widerspruch“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L160]. „Er injiziert diesen Wert (B) direkt in das Context Object des System 2 Orchestrators“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L160]. What it does to AEGIS: „AEGIS scheitert an Gödels Erstem Unvollständigkeitssatz: Wenn das System Kael akzeptiert, kollabiert seine klassische Logik; wenn es Kael ablehnt, leugnet es eine offensichtliche empirische Korrespondenz und beweist mathematisch seine eigene Inkomplettheit“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L160]. The passage ends with System 2's collapse: „Das übergriffige System 2 bricht in einer“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L160] `Algorithmischen Melancholie` (in the line's own marks) „zusammen, und die totalitäre, exkludierende Kohärenz ist endgültig dekonstruiert“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L160].
+
+The method's third step, a test of the engine, also injects a paradox into a context object: „Die gezielte experimentelle Injektion eines unlösbaren Paradoxons in das aktive Context Object der Drama-Engine“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L50].
 
 ## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31
 
@@ -245,6 +253,7 @@ and AEGIS, confronted with a logical paradox in a scene seed (its L113), tries t
 Vortex (L297).
 Kael, in the Hard-SF-Outline: „Kael präsentiert sich AEGIS als ein System vollkommener, funktionaler Multiplizität" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192].
 Neither, in the earliest document in the corpus: no `Gambit` and no living Gödel statement (0 each), and the Gödelian limit is AEGIS' own, which Kael meets and reads as his own defeat rather than presents: „Er hatte versagt. Seine Strategie, die Logik des Systems zu meistern, war an ihre Grenzen gestoßen." ^[kohaerenz-protokoll.md:L516]
+- `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01: the Gambit is the Narrative Engine's weapon in Phase III; Kael, a living dialetheia, injects the value B into System 2's context object, AEGIS fails on Gödel's first theorem, and System 2 collapses into Algorithmische Melancholie.
 
 ## Open
 
