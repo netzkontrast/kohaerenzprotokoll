@@ -27,7 +27,9 @@ a file changed after its freeze is not gold, the way a candidate list changed af
 **Scoring** (`score`). A contract's row matches a gold row when both are in the same section and
 each endpoint meets its counterpart by `fold()` or one stands inside the other (a contract writes
 `die Dual-Form` where a reader writes `Dual-Form`). Contrasts are unordered, causes ordered.
-Reported per contract: gold rows, contract rows, **recall** and **precision** on pairs, how many
+Reported per contract: gold rows, contract rows, **recall** and **precision** on pairs, `+half`
+(precision counting a leftover contract row on a leftover gold row's line that meets one of its
+endpoints — the same sentence cut at another length), how many
 matched pairs also agree on the **type**, and on the **line** (±1). A gold list of relations is
 one reading, as a list of terms is (P27): a contract's pair the reader did not write is a place
 to look, not an error — `--unmatched` prints them.
@@ -217,18 +219,26 @@ def match(gold_rows: list[dict], named: list[dict], ordered: bool) -> dict:
         i = (near or hits)[0]
         used.add(i)
         pairs.append((g, named[i]))
+    left_gold = [g for g in gold_rows if all(g is not p[0] for p in pairs)]
+    left_named = [c for i, c in enumerate(named) if i not in used]
+    # Half: a contract row left over that stands on a left-over gold row's line and meets one of
+    # its endpoints — the same sentence cut at another length, not a missed or invented relation.
+    half = sum(any(c["line"] is not None and abs(c["line"] - g["line"]) <= 1
+                   and any(meets(x, y) for x in (g["source"], g["target"]) if x
+                           for y in (c["source"], c["target"]) if y)
+                   for g in left_gold) for c in left_named)
     return {
-        "gold": len(gold_rows), "named": len(named), "matched": len(pairs),
+        "gold": len(gold_rows), "named": len(named), "matched": len(pairs), "half": half,
         "type_agrees": sum(g["type"] == c["type"] for g, c in pairs),
         "line_agrees": sum(c["line"] is not None and abs(c["line"] - g["line"]) <= 1 for g, c in pairs),
-        "unmatched_gold": [g for g in gold_rows if all(g is not p[0] for p in pairs)],
-        "unmatched_named": [c for i, c in enumerate(named) if i not in used],
+        "unmatched_gold": left_gold,
+        "unmatched_named": left_named,
     }
 
 
 def score(unmatched: bool, record: bool) -> int:
     slugs = sorted(p.parent.name for p in RUNS.glob(f"*/{FILE}"))
-    total = {s: {"docs": 0, "gold": 0, "named": 0, "matched": 0, "type_agrees": 0, "line_agrees": 0} for s in TYPES}
+    total = {s: {"docs": 0, "gold": 0, "named": 0, "matched": 0, "half": 0, "type_agrees": 0, "line_agrees": 0} for s in TYPES}
     for slug in slugs:
         ok, why = is_gold(slug)
         if not ok:
@@ -242,7 +252,7 @@ def score(unmatched: bool, record: bool) -> int:
             m = match([r for r in rows if r["section"] == section], named, ORDERED[section])
             t = total[section]
             t["docs"] += 1
-            for k in ("gold", "named", "matched", "type_agrees", "line_agrees"):
+            for k in ("gold", "named", "matched", "half", "type_agrees", "line_agrees"):
                 t[k] += m[k]
             if unmatched:
                 print(f"\n{slug} · {CONTRACT[section]}")
@@ -250,17 +260,18 @@ def score(unmatched: bool, record: bool) -> int:
                     print(f"  gold only      L{g['line']:<4} {g['source']} | {g['type']} | {g['target']}")
                 for c in m["unmatched_named"]:
                     print(f"  contract only  L{c['line']!s:<4} {c['source']} | {c['type']} | {c['target']}")
-    print(f"\n{'contract':<16}{'docs':>5}{'gold':>6}{'rows':>6}{'recall':>8}{'precision':>11}{'type agrees':>13}{'line agrees':>13}")
+    print(f"\n{'contract':<16}{'docs':>5}{'gold':>6}{'rows':>6}{'recall':>8}{'precision':>11}{'+half':>7}{'type agrees':>13}{'line agrees':>13}")
     lines = []
     for section, t in total.items():
         if not t["docs"]:
             continue
         rec = t["matched"] / t["gold"] if t["gold"] else 0.0
         prec = t["matched"] / t["named"] if t["named"] else 0.0
+        ph = (t["matched"] + t["half"]) / t["named"] if t["named"] else 0.0
         ty = t["type_agrees"] / t["matched"] if t["matched"] else 0.0
         li = t["line_agrees"] / t["matched"] if t["matched"] else 0.0
-        print(f"{CONTRACT[section]:<16}{t['docs']:>5}{t['gold']:>6}{t['named']:>6}{rec:>8.1%}{prec:>11.1%}{ty:>13.1%}{li:>13.1%}")
-        lines.append(dict(t, contract=CONTRACT[section], recall=round(rec, 3), precision=round(prec, 3),
+        print(f"{CONTRACT[section]:<16}{t['docs']:>5}{t['gold']:>6}{t['named']:>6}{rec:>8.1%}{prec:>11.1%}{ph:>7.1%}{ty:>13.1%}{li:>13.1%}")
+        lines.append(dict(t, contract=CONTRACT[section], recall=round(rec, 3), precision=round(prec, 3), precision_half=round(ph, 3),
                           type_agrees_share=round(ty, 3), line_agrees_share=round(li, 3)))
     print("\nOne reader's relations are one reading; a contract's pair the reader did not write is a place to look.")
     if record and lines:
@@ -308,6 +319,8 @@ def selftest() -> int:
     case("a cause is ordered", pair_meets(gc, dict(gc, source="Riss", target="Hitze"), ORDERED["causal"]), False)
     m = match([g], [rev, dict(rev)], False)
     case("matching is one to one; the type is counted apart", (m["matched"], m["type_agrees"], len(m["unmatched_named"])), (1, 0, 1))
+    cut = match([gc], [dict(gc, source="Die Durchsetzung der Konsistenz")], True)
+    case("the same line, one endpoint met, is half — not matched", (cut["matched"], cut["half"]), (0, 1))
     far = dict(rev, line=40)
     m2 = match([g], [far, rev], False)
     case("a row on the cited line is preferred", m2["line_agrees"], 1)
