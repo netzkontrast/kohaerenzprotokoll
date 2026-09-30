@@ -240,3 +240,41 @@ The roster: Kael + ANPs Lex, Alex, Rhys, Selene, + Argus (Sonder) + EPs Nyx, Kik
 - **NEW-D Isabelle as defector**: she trades a Kael secret to AEGIS for control over one alter, turning the sourced ambivalence into a plot choice.
 
 **Constraint to state to the author.** The sources make the final confrontation a *Versuchung/Gödel-Gambit*, not a fight (B:L160 „AEGIS wird nicht zerstört. Wird nicht besiegt."; F:L92 „Versuchungs-Dramaturgie statt Boss-Fight"). Pressure therefore has to escalate through *loss and erasure* (Doran, the Gegenregister, evidence, alters going quiet), not through blows.
+
+---
+
+## 10. Fit with W3 A (Ich/Präsens, Kael as main view) and W10 (cast)
+
+Basis: `Plan/weichen/w3-stimme.md` (A is a recommendation; AEGIS POV and other POVs are W6, open; W7 and W10 are listed dependencies) and `Plan/concept/treatment-probe_2026-09-30.md` („es wird kein Doran übernommen"). **Consequence for §6: Doran is shelved as a figure.** It is kept only as an example of a stake; W10 gives each figure its own goal when it is fixed. The behaviours below are sourced where a line is cited and NEW otherwise. The wording is not prose and is no voice reference. Every figure here acts through what Kael can perceive: body, syntax, objects, gaps.
+
+| figure | how it acts on a Ich/Präsens page (no POV of its own) | source / status |
+|---|---|---|
+| Kael | Ich narrator; his tic is counting, and he never names his own feeling (B:L329), so the feeling sits between the lines. Action = the decisions W3 requires (what he did, risked, changed). | sourced (B:L327-329) |
+| Lex | Hypotaktic, qualifier-laden sentences that Kael cannot produce rise into his narration (B:L374). Cold hands, shallow breath (B:L370). A break in that syntax is an event (B:L394). | sourced syntax; scene use NEW |
+| Alex | Kael's body is moved before he decides: imperatives, verb-first, „Kopf runter" (B:L410, B:L429); shoulders pulled in, jaw set (B:L406). Overrides Kael (B:L421). | sourced |
+| Rhys | Soft openers in Kael's speech or notes, „Wir" before „Ich" (B:L445). Fever hands, tight chest (B:L441). | sourced |
+| Selene | Late, calm, long pauses; the narration slows and the hands relax (B:L476, B:L498). She never pushes. | sourced |
+| Argus | Marginal observations in the narration, „Bemerkenswert ist, dass…" (B:L514). Footnote or marginalia is an offered form (B:L514) and would cost a W4 decision. | sourced; form open |
+| Nyx | Staccato fragments without connectors (B:L554); the hand acts before Kael (F:L216). | sourced |
+| Kiko | Short childlike lines, ellipses (B:L590). Kael's body goes down, silent (B:L586); time stalls (temporal Riss). | sourced |
+| Lia | Sentences begun and abandoned inside Kael's speech (B:L626). Sudden grabbing or withdrawal (B:L622). | sourced |
+| Isabelle | Commanding order of events, textures and temperature, „Komm näher. Aber nur, wenn ich es sage." (B:L661). Shows as control of a situation and a cold gloss on skin. | sourced |
+| Moros | The page slows and the sentences repeat; everyone else gets quieter (B:L714, B:L696). | sourced |
+| Silas | Self-correcting sentence in Kael's own narration (B:L734); a surface warmer than it should be (B:L730); the man who walks toward him (F:L80). No first-person speech of his own is needed on the page. | sourced; F1 is `[V]` |
+| Oblivion | Gaps, a missing first word, „Ich habe… — — — Was wollte ich sagen?" (B:L770); things done that Kael did not do (F:L76). Kael never feels him directly (B:L790), so he fits this stance well. | sourced |
+| AEGIS | No Ich and no interior in Kael's chapters: capital-letter console lines, status lines, reclassification (B:L142-144; Kap-1 lock in GOAL.md Anhang A). The console shows what it does, never why. Its POV is W6. | sourced; POV open (C14) |
+| Juna | Never as a subject of the sentence (B:L248). Appears as a phenomenon: dust, a call, hands (B:L235-248). | sourced |
+| Mnemosyne | Seen through the offer and the water/current imagery she brings into Kael's perception (B:L198, B:L202). Her own POV, if any, is W6. | sourced |
+| Erasure-Pol | Only as procedure Kael meets: „Sweep läuft. Sektor 7 leer." (S:L53) as a console or log line. | sourced |
+| Mira | Would be a voice inside the Wir of Kap 40 only (M:L327). Nothing is needed before then. | one source |
+
+### What W10 leaves open (my reading of the two documents; to be confirmed against W10 when it exists)
+
+The probe states W10 is not decided and that person and reaction (W7/W10/W15) are withheld. So the following are open and need a W10 answer before a treatment may use them:
+
+1. **Which alters are on the page at all** (8 or 11 or 13, Q3), and therefore Alex, Lia, Isabelle, Moros, Argus and Mira.
+2. **Each figure's own scene-level goal.** My NEW wants in §§1-7 are only proposals for that step. The sourced drives are in the gaps table (§8).
+3. **The human or Einheit cast outside Kael.** Doran is not taken over. The item the probe's first movement needs (the Gegenstand, the affected person, the reaction) is unassigned. NEW-A, NEW-B and NEW-C of §9 are candidates only.
+4. **Guardian count and pairing** (five decided; Q5 open), and the Erasure-Pol's name.
+5. **Whether any figure but Kael gets a POV** (W6, W3 B/C/D), which includes the AEGIS and Oblivion chapters.
+6. **Juna and Silas's on-page timing** (C7, C11), tied to W7 (Wissensfreigabe): when the reader may learn that Kael is a system (B:L349 puts it at Kap 13).
