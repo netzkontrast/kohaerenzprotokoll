@@ -59,3 +59,11 @@ for every reader.
 refused for good. Twelve rows per contract were labelled, drawn by the hash of the row's id: 21 `ok`, 15 `part`, none `wrong`,
 against 28 `ok`, 6 `part` and 1 `wrong` of the same three contracts' 35 pilot rows. What it cost per megabyte corrected the pilot's
 estimate from $63 to about $190 a contract for the corpus (§4.5 of the note).
+
+## The cue gate against the ungated run
+
+`gate-ab.sh` ran `CausalLinks` once more ungated and once gated (`he_claude.py run --gate`) on three German documents of the
+twelve; `gate-ab.py` compares both with the first ungated run (`gate-ab.md`), `gate-offline.py` asks the same of the cue and its
+neighbours with no model (`gate-offline.txt`). **The gate found 26 % of the lines for 29 % of the cost**, where a repeat of the
+ungated run finds 88 % of its own first run: a thinning, not a filter (§4.6 of the note). The six runs stand in `gate-ab/`, out of
+`Plan/runs/<document>/hyperextract/`, because the store loads every run that stands there and would count a line twice.

@@ -12,7 +12,8 @@ Reading done for this note: the thirteen `writing-skills` and their entry page, 
 4. **The gate that stages a candidate refused right rows, for three reasons the pilot exposed.** Of 263 rows refused only because a slot was not verbatim in the document, 70 named a figure of under four characters (`Lex`, `Nyx`, `Lia`, `KW1`) — `quotes.parts_of` drops fragments that short, so no three-letter name could ever be found — and 68 carried the word the `Utterances` contract itself tells the model to write when a line has no speaker. Both are fixed in the gate; the other 125 are the model's own wording of a clause or an inflection, and now enter the store on their quotation alone (§4.1).
 5. **The contracts move retrieval where they have read the documents that hold the gold, and nowhere else the bench can see.** On the pilot's eight documents (76 of the bench's 1,226 gold lines) the contracts' lines changed document recall by −0.007. After three contracts read twelve more documents (493 gold lines, $11.68), adding their lines to the `ask` pack gives **+0.029 [+0.011, +0.049]** with 40 lines, seven of the 24 cases up and none down, and +0.008 line recall (§5.4, §6) — about what `parallel` contributes (0.034) and less than `graph-evidence` (0.079) or `bm25-lines` (0.129), on documents chosen for holding the gold, so an upper bound. Their page pairs still cannot move the 24 cases (§5.5), and move the 91 link cases by +0.012 to +0.021 (§5.2b).
 6. **The `ask` finders were measured too**: `bm25-lines` (−0.129 without it) and `graph-evidence` (−0.079) earn their place; `entity-unread` is inert on this bench; the co-mention finder as built *lowered* document recall, and limited to ten paragraphs it adds +0.011 (§5.4).
-7. **What to do**: §7 orders it. What needs the author's word first is the co-mention relation in the default walk (§8, question 1), the price of a contract pass — about $190 a contract for the whole corpus, not the $63 this note first said (§4.5) — and the contracts' lines in the default pack (§8, question 4).
+7. **The cue gate saves nothing per line.** A gated `CausalLinks` run on three German documents found 26 % of the lines an ungated run finds for 29 % of the cost, where a repeat of the ungated run finds 88 %: the gate thins the yield in proportion and does not filter it (§4.6). The corpus price stands.
+8. **What to do**: §7 orders it. What needs the author's word first is the co-mention relation in the default walk (§8, question 1), the price of a contract pass — about $190 a contract for the whole corpus, not the $63 this note first said (§4.5) — and the contracts' lines in the default pack (§8, question 4).
 
 ## 1. The question, and what the laboratory said before any contract was designed
 
@@ -168,9 +169,9 @@ Measured over the 71 runs of the pilot and the scaled pass (§6), every call cou
 | mathematics | 19 | 1.1 | $8 |
 | philosophy, audits, genre | 17 + 15 + 2 | 0.6 + 0.4 + 0.1 | $5, $3, $1 |
 
-**This corrects the first version of this section, which said about $63 a contract.** It took „about 4.7 KB of text a call" and $0.0115 a call, and the ledgers do not hold the 4.7 KB: they say 1.6. The sentence contradicted its own example — $0.19 for the 28 KB storyform document is $6.8 a megabyte, which is $180 for the corpus — and was found only when the scaled pass's 957 calls were summed against the 0.53 MB they read. A contract that reads outlines has no use on a physics paper, so the run is *by category*; and `hegraph.gate` keeps only the paragraphs that hold a contract's cue words (with their neighbours), which neither pass used.
+**This corrects the first version of this section, which said about $63 a contract.** It took „about 4.7 KB of text a call" and $0.0115 a call, and the ledgers do not hold the 4.7 KB: they say 1.6. The sentence contradicted its own example — $0.19 for the 28 KB storyform document is $6.8 a megabyte, which is $180 for the corpus — and was found only when the scaled pass's 957 calls were summed against the 0.53 MB they read. A contract that reads outlines has no use on a physics paper, so the run is *by category*; and `hegraph.gate` keeps only the paragraphs that hold a contract's cue words (with their neighbours), which neither pass used and which, measured on `CausalLinks`, cuts the cost and the yield alike (§4.6).
 
-### 4.6 What the cue gate saves
+### 4.6 What the cue gate saves — measured: nothing per line
 
 `hegraph.gate` keeps the paragraphs whose words hold a cue of the contract, with their neighbours, so that a run sends the model less. Mean share of a document sent, over five German documents (a chapter outline, a style guide, a narrative text and two concept documents). An English document is not gated: the cues are German, and the gate would keep a tenth of it and call the rest empty — a selftest holds that.
 
@@ -184,7 +185,15 @@ Measured over the 71 runs of the pilot and the scaled pass (§6), every call cou
 | `Rules` | 70 % | `Anchors` | 48 % |
 | `Precedence` | 62 % | `TermContrasts` | 45 % |
 
-The gate pays for the claim contracts — `StandingClaims`, `Locks`, `Knowledge`, `CausalLinks`, `OpenPoints`, `Attributions` — which read a sentence in a few; it does nothing for `TermDefinitions`, whose cue (`ist`, a colon) stands in every paragraph, or `Quantities`, whose cue is a digit. It is not yet wired into `he_claude.py run`: a gated run must first be shown to find what an ungated one finds.
+The shares said the gate might pay for the claim contracts, and the pilot left it unwired until "a gated run is shown to find what an ungated one finds". **`gate-ab.sh` measured it for `CausalLinks`**, on three German documents of the twelve: each run once more ungated (U2, to see what a repeat does to itself) and once gated (G), $1.42 and 117 calls, against the first ungated run of the scaled pass (U1). The gate sent 26 % of the text (`gate-ab.md`):
+
+| run | rows | lines | recall of U1's lines | of its own lines in U1 | gold lines | calls | cost |
+|---|---|---|---|---|---|---|---|
+| U1, ungated | 267 | 202 | — | — | 47 | 91 | $1.11 |
+| U2, ungated again | 261 | 197 | 88 % | 90 % | 48 | 91 | $1.11 |
+| G, gated | 78 | 59 | **26 %** | 90 % | 16 | 26 | $0.32 |
+
+A repeat reproduces 88 % of the first run, so the gated run's 26 % is the gate's doing and not the model's noise. G loses three lines in four and invents none (90 % of its lines are in U1) — and finds the lines it does find at the price the ungated run does, $0.0054 a line against $0.0055: **the gate is a thinning and not a filter.** It finds 16 of the 47 gold lines U1 found and none U1 had not; the repeat finds 48, eight of them new. Offline against U1's rows (`gate-offline.py`, no model) the cue's own paragraphs are dense — 71 % of them hold a row, against 24 % of all paragraphs — but the two neighbours dilute them: 15 % of the text with no neighbour reaches at most 26 % of the lines, 27 % with one neighbour 37 %, 38 % with two 45 %; a wider cue (`durch`, `indem`, `sodass`, `damit`, …) reaches 53 % of the lines from 41 % of the text and 70 % from 60 %. The model finds causal rows through the theory sections and not through the connectives. **So the gate is not wired into `he_claude.py run`, and for `CausalLinks` it should not be**; `StandingClaims`, `Locks`, `Knowledge`, `OpenPoints` and `Attributions` found nothing or little on the pilot's documents, and their gate is untested. A cheaper pass is a pass over fewer documents, at the same price a line.
 
 ## 5. Retrieval, measured
 
@@ -349,7 +358,7 @@ Three things, each measured in §5. The `he-lines` finder went from −0.007 to 
 4. **Do not run** `Precedence`, `Anchors`, `Rules`, `TermTaxonomy`, `Knowledge` and `AliasPairs` as they are: their records are right about the line and wrong about the relation. Revise, measure again against the same labelled rows, then decide. `AliasPairs` and `Precedence` now carry a cue in code; that is the only change made.
 5. **Keep the empty contracts** (`Locks`, `Quantities`, `Attributions`, `StandingClaims`, `Pitch`) for the documents of their kind — a decision log, a numbers table, a review, a briefing — and gate them by category, so that they cost nothing where they find nothing.
 6. **Let the next pass follow the gold.** `he-lines` added where the contracts had read the gold's documents and nowhere the bench can see elsewhere. The contracts have read 15 of the 55 documents that hold gold (569 of 1,226 lines). The other 40 — 657 lines, 2.4 MB, of which `kohaerenz-protokoll` alone is 0.37 MB — would cost about $17 a contract, $52 for the three; a bench with every gold document read would say what the finder is worth at its ceiling. It is a spend for the author to name (§8, question 2), not a step to take.
-7. **Wire `hegraph.gate` into `he_claude.py run`** only after a gated run is shown to find what an ungated one finds: the claim contracts read a sentence in a third of the text, which at $190 a contract would matter; `TermDefinitions` and `Quantities` gain nothing from it (§4.6).
+7. **Do not wire `hegraph.gate` into `he_claude.py run` for `CausalLinks`**: a gated run found 26 % of the lines an ungated one finds for 29 % of the cost, the same price a line (§4.6). If a contract is to be cheaper it is run on fewer documents (item 6), and a gate for the other claim contracts is to be measured the same way before it is believed.
 
 ## 8. Questions for the author
 

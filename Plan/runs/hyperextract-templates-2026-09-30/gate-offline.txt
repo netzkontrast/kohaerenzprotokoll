@@ -1,0 +1,6 @@
+531 ungated lines in 8 German documents
+1857 paragraphs, 444 hold a row (24%); the current cue's 152 paragraphs (8%): 71% hold a row
+current cue: neighbours 0/1/2 → ['share 15% recall 26%', 'share 27% recall 37%', 'share 38% recall 45%']
+current                                       ['n=0: share 15% recall 26%', 'n=1: share 27% recall 37%']
++ durch, indem, sodass, damit, wodurch        ['n=0: share 41% recall 53%', 'n=1: share 60% recall 70%']
++ the above, + kann, wird, zu                 ['n=0: share 65% recall 78%', 'n=1: share 83% recall 92%']

@@ -1,0 +1,17 @@
+{
+  "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "template": "CausalLinks.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 8,
+  "failed_calls": 0,
+  "seconds": 37.4,
+  "input_tokens": 42401,
+  "output_tokens": 2509,
+  "cost_usd": 0.0973,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku",
+  "gate": {
+    "characters_sent": 12523,
+    "characters_in_document": 52242,
+    "share": 0.24
+  }
+}

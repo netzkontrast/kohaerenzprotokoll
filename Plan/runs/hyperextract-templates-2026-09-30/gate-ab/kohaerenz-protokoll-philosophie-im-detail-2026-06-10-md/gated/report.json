@@ -1,0 +1,590 @@
+{
+  "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "input_rows": 24,
+  "candidates": 20,
+  "refused": 4,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:40d946427a137335ced404174c2242fbdfdc3a9d780ad8515f6d1ceea54ab035",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "das Trennungsprotokoll",
+        "target": "eine Welt",
+        "type": "causes",
+        "quote": "in einer Welt geworfen, die das Trennungsprotokoll erzeugt hat",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6c340bd0835a96aa00815d6539c04fdfc9e3287271642101e62cfb11dccfd659",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "er nichts anderes kennt",
+        "target": "Kael nimmt die Welt, wie sie ist",
+        "type": "causes",
+        "quote": "weil er nichts anderes kennt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        232
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2c84eea7dd46558e25f2c4f8fdfcc697641855d4fcb47f743909a9938c83bd88",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "strukturelle Kopplung mit der Umwelt durch Irritationen",
+        "target": "interne Zustände",
+        "type": "causes",
+        "quote": "strukturelle Kopplung mit der Umwelt durch Irritationen, die im System als interne Zustände prozessiert werden",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        254
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:006f7a27e62c6bbc2f8f4f709b948efddf29fcd2e15b047765afaa9b9a5d14c3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "sein operativer Apparat keine Schnittstelle für sie hat",
+        "target": "AEGIS kann sie nicht prozessieren",
+        "type": "causes",
+        "quote": "weil sein operativer Apparat keine Schnittstelle für sie hat",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        257
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9e3c27d3ba275b66866875ee8af966ad4c087d0c9b8854dd3221dcff9144df47",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure-Sweeps",
+        "target": "strukturelle Kopplung an Umwelt",
+        "type": "enables",
+        "quote": "AEGIS koppelt strukturell an seine Umwelt durch Erasure-Sweeps",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        260
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "strukturelle Kopplung an Umwelt"
+      ]
+    },
+    {
+      "id": "claim:080e19df0c137bdd7463c38ae4cf0feb354885ee82dd1c1c129cbe14f68a3f60",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Autopoiesis",
+        "target": "AEGIS' Tragik",
+        "type": "causes",
+        "quote": "AEGIS' Tragik ist eine Folge seiner Autopoiesis",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        263
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94456bba184234eea2f54e52877425efedba2505b092bb66f98e3bc96de69832",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "keine Außenperspektive auf sich",
+        "target": "sich nicht selbst korrigieren",
+        "type": "prevents",
+        "quote": "es kann sich nicht selbst korrigieren, weil es keine Außenperspektive auf sich hat",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        263
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eb2462c9042263916c57da7aa818678ed693ad77b6220f2b4ecc0fd6a06da218",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selbstreferenz",
+        "target": "Lücken in jedem deduktiven Apparat",
+        "type": "causes",
+        "quote": "Selbstreferenz erzeugt Lücken in jedem deduktiven Apparat",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        287
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7950733dd1b3329de46cbf266d6e35eb0b52fb97114c4f424743c5ad9c89c411",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "die Wahrheit, die Kael verkörpert",
+        "target": "AEGIS kann Kael nicht assimilieren",
+        "type": "prevents",
+        "quote": "AEGIS kann Kael nicht assimilieren, weil die Wahrheit, die Kael verkörpert, im AEGIS-System nicht ausgedrückt werden kann",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        290
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3b0eada99f34a3cb4b0afd698db7f01075c93b916fdf07f7081e44425be06901",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS' operative Closure bricht",
+        "target": "sie nicht schließen kann",
+        "type": "causes",
+        "quote": "AEGIS' operative Closure bricht — weil sie nicht schließen kann",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        299
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f838783ac42326272406c2383191e6dac256af9ece95c221e4c05725b5a9c244",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Diese Unentscheidbarkeit",
+        "target": "die Realitäts-Brüche der Mnemosyne-Archipel",
+        "type": "causes",
+        "quote": "Diese Unentscheidbarkeit erzeugt die Realitäts-Brüche der Mnemosyne-Archipel",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ccdfb05f32e59666708e71aa13d5cff49b09c0360680131b570886631b8834ed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "seine Aufgabe nicht entscheidbar terminiert",
+        "target": "AEGIS kann nicht zur Ruhe kommen",
+        "type": "causes",
+        "quote": "AEGIS kann nicht zur Ruhe kommen, weil seine Aufgabe nicht entscheidbar terminiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        316
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ba44ad49448a38b3ef67e863ee4a8b9ef7dbfce5ad12bca083ea0b53c05536f9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Der Bekenstein-Strang im Foreshadowing-Programm",
+        "target": "Pixelierung der Welt am Detailrand",
+        "type": "causes",
+        "quote": "Der Bekenstein-Strang im Foreshadowing-Programm bringt Pixelierung der Welt am Detailrand als sensorische Spur",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        332
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:47b2657165da04f57fc7c0b546d8b421272cef2fac907272e4777838fd8f54ab",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "zu viel Information sein müsste",
+        "target": "Welt wird unscharf",
+        "type": "causes",
+        "quote": "Welt wird unscharf, wo zu viel Information sein müsste.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        335
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a21d648530e30019813c2265e086a6ed8127b3207e5db214b5bbe95b0f7312dc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "parakonsistente Logiken",
+        "target": "mit Widersprüchen umzugehen, ohne dass das System in Trivialismus kippt",
+        "type": "enables",
+        "quote": "Parakonsistente Logiken erlauben, mit Widersprüchen umzugehen, ohne dass das System in Trivialismus kippt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        337
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "parakonsistente Logiken"
+      ]
+    },
+    {
+      "id": "claim:d0530baa4936cd001146dc4021aad093a8f70b0c98866c41b34d8e1d9a0e3544",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selbstreferenz",
+        "target": "Antinomie",
+        "type": "causes",
+        "quote": "Selbstreferenz erzeugt Antinomie.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        352
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6e248433534ac61ed85ab455ddfcee11b1c841f863920fc48cec88c02b8acc83",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS keine Qualia hat",
+        "target": "AEGIS kann sie nicht erfassen",
+        "type": "causes",
+        "quote": "Kael erlebt, dass seine Sub-Anteile Qualia haben — und AEGIS kann sie nicht erfassen, weil AEGIS keine Qualia hat",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        369
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:53ca1ac13e18271e52281f1e162e6a469cafd932a93fc809f407fa68b04929a1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "ein System (in Searles Gedankenexperiment ein Mensch in einem Zimmer, der chinesische Zeichen nach Regeln verarbeitet) funktional perfekt agiert",
+        "target": "es hat kein semantisches Verständnis der Symbole, die es manipuliert",
+        "type": "prevents",
+        "quote": "Auch wenn ein System (in Searles Gedankenexperiment ein Mensch in einem Zimmer, der chinesische Zeichen nach Regeln verarbeitet) funktional perfekt agiert, hat es kein semantisches Verständnis der Symbole, die es manipuliert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        380
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "es hat kein semantisches Verständnis der Symbole, die es manipuliert"
+      ]
+    },
+    {
+      "id": "claim:b073ee4e6e61b58d83722905bce3db30e693844a832e69a3820d06f94e7016b0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "seine Operationen keine Semantik tragen",
+        "target": "Es kann Juna nicht erfassen",
+        "type": "causes",
+        "quote": "Es kann Juna nicht erfassen, weil seine Operationen keine Semantik tragen — nur Syntax.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        383
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:01fc89f475254f99891e51b5b505cca4ef429c8f84cb912872e2581f4f4f675b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "das Bleiben",
+        "target": "das ist, was Liebe heißt",
+        "type": "causes",
+        "quote": "Das Wir entscheidet, ins Ouroboros zu gehen — nicht aus Pflicht, nicht aus Befehl, sondern weil das Bleiben das ist, was Liebe heißt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        459
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6f16355f4e99365c4d2ea7b59a1c124daff8d266733d6afa09d18c27b2b2c1b5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Die kognitive Arbeit des Lesens",
+        "target": "die thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure speist",
+        "type": "causes",
+        "quote": "Die kognitive Arbeit des Lesens liefert die thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure speist.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        483
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5575485d434f859847f671aa25771d33fb762f63ca3ea7f2454a08f37f7cdbd9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "sein Füllen",
+        "target": "die Welt, die der Roman beschreibt",
+        "type": "causes",
+        "quote": "der Leser füllt die Lücken, und sein Füllen erzeugt die Welt, die der Roman beschreibt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        486
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6962f4dfd34ffd8b45add17ebb4859528a5da96f149c989614c02ee55d6c6999",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Die Identifikation mit den fünf Aggregaten",
+        "target": "die Illusion eines permanenten Ichs",
+        "type": "causes",
+        "quote": "Die Identifikation mit den fünf Aggregaten (Form, Empfindung, Wahrnehmung, mentale Formationen, Bewusstsein) erzeugt die Illusion eines permanenten Ichs.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        578
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b17a6e7416ce2147261a27891ee0c409598267dc90bc5bb0970615335adb53a5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "die Auflösung der ANP/EP-Barrieren in Vortex 1 Beat 2",
+        "target": "Anatta-Moment",
+        "type": "triggers",
+        "quote": "die Auflösung der ANP/EP-Barrieren in Vortex 1 Beat 2 ist Anatta-Moment",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "CausalLinks",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        581
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

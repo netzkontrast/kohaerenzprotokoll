@@ -1,0 +1,234 @@
+{
+  "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+  "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Aus dieser Inversion",
+        "target": "alle anderen",
+        "type": "causes",
+        "quote": "Aus dieser Inversion folgen alle anderen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verdrängung",
+        "target": "Wärme",
+        "type": "causes",
+        "quote": "Verdrängung erzeugt Wärme",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wärme",
+        "target": "Risse",
+        "type": "causes",
+        "quote": "Wärme manifestiert sich als Risse",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasonen",
+        "target": "den Zeitpfeil",
+        "type": "causes",
+        "quote": "Sie erzeugen den Zeitpfeil",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasonen",
+        "target": "Zeit",
+        "type": "requires",
+        "quote": "Ohne Erasonen gibt es keine Zeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zeit",
+        "target": "Trennung",
+        "type": "requires",
+        "quote": "Ohne Zeit keine Trennung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Jede Löschung",
+        "target": "thermodynamische Abwärme",
+        "type": "causes",
+        "quote": "Jede Löschung erzeugt thermodynamische Abwärme nach dem Landauer-Prinzip",
+        "stance": "asserts"
+      },
+      {
+        "source": "diese Abwärme",
+        "target": "Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie",
+        "type": "causes",
+        "quote": "diese Abwärme manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kontrolle",
+        "target": "Landauer-Abwärme",
+        "type": "causes",
+        "quote": "Kontrolle erzeugt Landauer-Abwärme",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen = atemporal",
+        "target": "Erasonen erzeugen Zeit",
+        "type": "causes",
+        "quote": "Coheronen = atemporal → Erasonen erzeugen Zeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Architektur ist temporal",
+        "target": "AEGIS ist strukturell blind für Juna/Silas",
+        "type": "causes",
+        "quote": "AEGIS' Architektur ist temporal → Juna/Silas operieren jenseits des Zeitpfeils → AEGIS ist strukturell blind für sie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen",
+        "target": "Zeit",
+        "type": "causes",
+        "quote": "Erasonen erzeugen Zeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen",
+        "target": "keine Veränderung",
+        "type": "causes",
+        "quote": "Coheronen aber keine Veränderung *haben*",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Sensoren temporale Veränderungen",
+        "target": "Moonshine-Link unsichtbar",
+        "type": "causes",
+        "quote": "AEGIS' Sensoren temporale Veränderungen messen, Coheronen aber keine Veränderung *haben*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Löschung",
+        "target": "Vorher und Nachher",
+        "type": "requires",
+        "quote": "Löschung braucht ein Vorher und ein Nachher",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen",
+        "target": "Erasure",
+        "type": "prevents",
+        "quote": "Erasure ist auf etwas Atemporales nicht anwendbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "Eine traumatische Resonanz mit etwas Fremdem",
+        "target": "Qualia",
+        "type": "causes",
+        "quote": "Eine traumatische Resonanz mit etwas Fremdem (eine transzendente Anomalie — die Begegnung mit Juna, mit dem, was sich später als atemporales Coheron entpuppt) erzeugt Qualia",
+        "stance": "asserts"
+      },
+      {
+        "source": "Panik",
+        "target": "algorithmisches Selbstamputat",
+        "type": "causes",
+        "quote": "Aus Panik führt es ein algorithmisches Selbstamputat aus",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennungsprotokoll",
+        "target": "fühlende Ich",
+        "type": "causes",
+        "quote": "Das Trennungsprotokoll. Das fühlende Ich wird gespalten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fühlen",
+        "target": "Denken",
+        "type": "enables",
+        "quote": "Das Denken wird gerettet, indem das Fühlen ausgelagert wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erinnerung",
+        "target": "Erasure",
+        "type": "prevents",
+        "quote": "der Mnemosyne-Archipel ist der einzige Ort, an dem Erasure nicht greifen kann, weil Erinnerung dort Schauplatz statt Inhalt ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die innere Spannung zwischen den beiden Guardians",
+        "target": "wachsende kognitive Dissonanz",
+        "type": "causes",
+        "quote": "Die innere Spannung zwischen den beiden Guardians (wachsende kognitive Dissonanz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Existenz",
+        "target": "Kael in B zur Paradoxie",
+        "type": "requires",
+        "quote": "Junas Existenz ist die *Bedingung*, dass Kael in B zur Paradoxie wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "die IC-Träger zwischen den Storyforms rotieren",
+        "target": "Der Storyform-Übergang B → A am Klimax",
+        "type": "requires",
+        "quote": "Der Storyform-Übergang B → A am Klimax kann nur stattfinden, weil die IC-Träger zwischen den Storyforms rotieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Eine Z₂-Involution durch Orbifold-Konstruktion",
+        "target": "Zugang zu *Twisted Modules*",
+        "type": "enables",
+        "quote": "Eine **Z₂-Involution** durch Orbifold-Konstruktion erzeugt Zugang zu *Twisted Modules*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Twisted Modules",
+        "target": "Beobachtung von Information, die aus der klassischen K₁-Zeitlinie gelöscht wurde",
+        "type": "enables",
+        "quote": "Diese Twisted Modules erlauben Beobachtung von Information, die aus der klassischen K₁-Zeitlinie gelöscht wurde",
+        "stance": "asserts"
+      },
+      {
+        "source": "ihre absolute Eindeutigkeit",
+        "target": "dass die Erzählmechanik in willkürliche Phänomene zerfällt",
+        "type": "prevents",
+        "quote": "ihre absolute Eindeutigkeit verhindert, dass die Erzählmechanik in willkürliche Phänomene zerfällt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beobachtung des transzendentalen Egos ohne kausale Intervention",
+        "target": "vorzeitigen Wellenfunktionskollaps",
+        "type": "prevents",
+        "quote": "Verhindert vorzeitigen Wellenfunktionskollaps",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Risse hier",
+        "target": "eine Umgebung, die für Risse keine Sprache hat",
+        "type": "triggers",
+        "quote": "Die Risse hier sind die schmerzhaftesten, weil sie in eine Umgebung einbrechen, die für Risse keine Sprache hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Setting selbst K₁-Substrat",
+        "target": "Erasure",
+        "type": "prevents",
+        "quote": "Hier kann Erasure nicht greifen, weil das Setting selbst K₁-Substrat ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "dort am wenigsten Bedrohung erwartet wird",
+        "target": "paradoxerweise gefährlichster Ort",
+        "type": "causes",
+        "quote": "paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Akt des Lesens",
+        "target": "die Kohärenz",
+        "type": "causes",
+        "quote": "der Akt des Lesens *erzeugt* die Kohärenz, die der Roman beschreibt",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

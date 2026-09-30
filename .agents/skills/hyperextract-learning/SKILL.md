@@ -174,7 +174,8 @@ Each rule below is enforced in code, because a prompt rule a Haiku reader ignore
    call and found nothing on documents that hold none. `hegraph report` counts them apart from failures.
 6. **Run by category, and price it from the ledger.** About $7.3 for each megabyte a contract reads, so $190 for the
    whole corpus and $66 for the plot outlines; a contract that reads outlines has no use on a physics paper.
-   `hegraph.gate` keeps only the paragraphs that hold a cue. The first estimate said $63, from „4.7 KB a call"; the
+   `hegraph.gate` keeps only the paragraphs that hold a cue, and on `CausalLinks` it cut the cost and the yield alike
+   (26 % of the lines for 29 % of the cost, `gate-ab.md`): it is a thinning, not a filter. The first estimate said $63, from „4.7 KB a call"; the
    call ledgers say 1.6 KB, and it took the scaled pass's 957 calls to see it. Sum `usage.json` calls against the
    bytes read before quoting a price (`claude_cli.totals` counts failed calls too).
 7. **Label at least ten rows per contract before any number is quoted** — a precision of 79 % on 14 rows is
