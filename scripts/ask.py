@@ -32,6 +32,8 @@ tier `M-ask` — a model's reading of other sources, never the author's word.
     .venv-dspy/bin/python scripts/ask.py run <id> --backend claude-cli [--model sonnet]
     .venv-dspy/bin/python scripts/ask.py run <id> --backend route
     .venv-dspy/bin/python scripts/ask.py run <id> --backend route --attempt 1   # a repeat, beside the first
+    .venv-dspy/bin/python scripts/ask.py session <id>                   # the instruction for a Sonnet subagent
+    .venv-dspy/bin/python scripts/ask.py run <id> --backend session     # after it wrote raw.session.json
     .venv-dspy/bin/python scripts/ask.py verify <id> [--backend B]      # re-verify a stored reply
     .venv-dspy/bin/python scripts/ask.py land <id> [--backend B]
     .venv-dspy/bin/python scripts/ask.py ask "…" [--backend B]          # pack, run, verify, land
@@ -66,13 +68,21 @@ KINDS = ("locate", "position", "compare", "explain")
 RULES = """## Regeln für diese Antwort
 
 1. Antworte nur aus diesem Paket. Was nicht darin steht, gehört in `gaps`, nicht in eine Behauptung.
-2. Eine Behauptung gilt einem Dokument. Sie nennt es mit seinem Slug (`doc`).
-3. Jede Behauptung trägt mindestens ein Zitat: die Wörter der Quelle, buchstäblich, ohne Auslassung,
-   aus einer einzigen Zeile. `line_hint` ist die Zeilennummer, die vor der Zeile im Paket steht.
-4. Zitate bleiben in der Sprache der Quelle. Nichts wird übersetzt. `says`, `differ` und `gaps` schreibst du auf Deutsch.
+2. Eine Behauptung gilt einem Dokument. `doc` ist der Slug aus der Überschrift `### \`slug\`` direkt
+   über der zitierten Zeile — nie ein Dokument, an das die Stelle erinnert.
+3. Jede Behauptung trägt mindestens ein Zitat: die Wörter der Quelle, buchstäblich, aus **einer**
+   Zeile. `line_hint` ist die Zahl hinter `L` vor genau dieser Zeile. Kurz genug, um eindeutig zu
+   sein: etwa 5 bis 25 Wörter.
+   - Kein „…", kein „[...]", keine Auslassung im Zitat. Zwei Stellen sind zwei Zitate.
+   - Aus einer Tabellenzeile zitierst du den Text **einer** Zelle, ohne `|`.
+   - Markdown-Zeichen (`**`, `\\`) darfst du weglassen, Wörter nie.
+4. Zitate bleiben in der Sprache der Quelle. Nichts wird übersetzt; eine Übersetzung ist kein Zitat.
+   `says`, `differ` und `gaps` schreibst du auf Deutsch, auch wenn die Quelle Englisch ist.
 5. Vergleiche zwei Dokumente nur in `differ`, und nur, wenn für beide eine belegte Behauptung steht.
 6. Keine Quelle entscheidet über eine andere. Ein Datum oder der Anspruch, Kanon zu sein, entscheidet nichts.
-7. Wenn das Paket die Frage nicht beantwortet, setze `answerable` auf `no` und sage in `gaps`, was fehlt.
+7. `answerable`: `yes` nur, wenn jeder Teil der Frage belegt ist und die Quellen sich nicht
+   widersprechen; `partly`, wenn Teile fehlen oder Quellen auseinandergehen; `no`, wenn das Paket die
+   Frage nicht trägt — dann sage in `gaps`, was fehlt.
 8. `need` darf höchstens drei Einträge haben: ein Begriff oder ein Zeilenbereich eines Dokuments.
 9. Gib nur JSON zurück, im Schema unten, ohne Text davor oder danach.
 10. Dass das Paket etwas nicht zeigt, beweist nicht, dass die Quellen es nicht sagen: Das Paket ist eine Auswahl.
@@ -146,7 +156,8 @@ def route(question: str, kind: str, store=None, graph: dict | None = None) -> di
     import graphrag
     import askdb
     s = store or askdb.Store()
-    evidence = graphrag.retrieve(question, graph=graph)
+    # glosses let an English question reach its German pages (bench: six of 24 records had no seed)
+    evidence = graphrag.retrieve(question, graph=graph, method="ppr+gloss")
     anchors: list[dict] = []
     for ev in evidence["evidence"]:
         anchors.append({"doc": ev["doc"], "line": ev["line"], "finder": "graph-evidence"})
@@ -336,6 +347,8 @@ def cmd_run(qid: str, backend: str, model: str | None, attempt: int = 0) -> dict
         sys.exit(f"unknown backend {backend!r}")
     if backend in ("session", "jules") and res.get("pack_hash") not in (None, meta["hash"]):
         sys.exit(f"{out.relative_to(ROOT)} answers another pack ({res['pack_hash'][:12]})")
+    if "answer" in res and "text" not in res:   # a session writes the object itself, not a string
+        res["text"] = json.dumps(res.pop("answer"), ensure_ascii=False)
     res.update(backend=backend, attempt=attempt, at=res.get("at") or now(), pack_hash=meta["hash"])
     out.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
     with (RUNS / "ledger.jsonl").open("a", encoding="utf-8") as f:
@@ -344,6 +357,26 @@ def cmd_run(qid: str, backend: str, model: str | None, attempt: int = 0) -> dict
     print(f"{qid} {backend}: {res['status']} {res.get('model', '')} {res.get('seconds', '')}s "
           f"cost {res.get('cost')}")
     return res
+
+
+def session_prompt(qid: str, attempt: int = 0) -> str:
+    """What a Sonnet subagent is told: read the pack, nothing else; write one JSON file."""
+    _, meta = load_pack(qid)
+    d = run_dir(qid)
+    out = d / f"raw.{tag('session', attempt)}.json"
+    return f"""You answer one question from one pack of source lines, and nothing else.
+
+1. Read `{d / 'pack.md'}` with the Read tool — the whole file, in parts if it is long.
+   Read no other file, run no search and no command: the pack is your only source, and code will
+   reject every quotation that does not stand on a line the pack sent.
+2. Answer exactly as the pack's rules (`## Regeln für diese Antwort`) and schema (`## Antwortschema`) say.
+   Quotations are copied character for character from one `Lnn:` line, never joined with „…",
+   never translated; `says` is German.
+3. Write one file with the Write tool, `{out}`, holding this JSON object:
+   {{"status": "answered", "model": "session/sonnet", "pack_hash": "{meta['hash']}",
+    "answer": <your answer, the JSON object the schema describes>}}
+4. Reply with one line: how many claims and quotations you wrote.
+"""
 
 
 # ── verify ────────────────────────────────────────────────────────────────────
@@ -420,6 +453,19 @@ def place(doc_slug: str, quote: str, hint, shown: list[int]) -> tuple[str, int |
     return "unresolved", None, "the words stand on no single line"
 
 
+SPLICE = re.compile(r"\s*(?:…|\.\.\.|\[\.\.\.\]|\[…\]|\s\|\s)\s*")
+
+
+def splice(text: str) -> list[str]:
+    """The pieces of a quotation a model joined with „…" or a table's `|`, each of four words or more;
+    [] when it is not one. Every piece must then stand on a sent line by itself."""
+    parts = [p.strip(" |„“\"") for p in SPLICE.split(text)]
+    parts = [p for p in parts if p]
+    if len(parts) < 2 or any(len(p.split()) < 4 for p in parts):
+        return []
+    return parts
+
+
 def verify(answer: dict | None, shown: dict[str, list[int]]) -> dict:
     """`shown` is the pack's meta["shown"]: every document and the line numbers it sent."""
     empty = {"claims": [], "unsupported": [], "differ": [], "differ_dropped": [], "gaps": [],
@@ -440,6 +486,15 @@ def verify(answer: dict | None, shown: dict[str, list[int]]) -> dict:
                 status, line, why = "outside-pack", None, "the pack held no text of this document"
             else:
                 status, line, why = place(doc, text, q.get("line_hint"), shown[doc])
+            pieces = splice(text) if status == "unresolved" else []
+            placed = [(p, place(doc, p, q.get("line_hint"), shown[doc])) for p in pieces]
+            if placed and all(r[0] == "placed" for _, r in placed):
+                # a splice of true lines: each piece stands on its own line, and is shown as its own quotation
+                for p, (st, ln, _) in placed:
+                    counts["placed"] += 1
+                    checked.append({"text": p, "status": "placed", "line": ln, "why": None, "split_from": text})
+                counts["spliced"] = counts.get("spliced", 0) + 1
+                continue
             counts[status] = counts.get(status, 0) + 1
             checked.append({"text": text, "status": status, "line": line, "why": why})
         good = [q for q in checked if q["status"] == "placed"]
@@ -465,7 +520,7 @@ def score(v: dict, gold: set[tuple[str, int]], shown: dict[str, list[int]]) -> d
     answer or one with no quotation. `fabricated` counts words standing on no line of their
     document; it is a veto, reported beside the score and never averaged into it.
     """
-    c = v.get("counts", {})
+    c = {k: n for k, n in v.get("counts", {}).items() if k != "spliced"}
     total = sum(c.values())
     if v.get("status") != "answered" or not total:
         return {"score": None, "why": v.get("status") if v.get("status") != "answered" else "no quotation",
@@ -509,7 +564,8 @@ def render(qid: str, meta: dict, raw: dict, v: dict) -> str:
         out.append("")
         for q in c["quotes"]:
             if q["status"] == "placed":
-                out.append(f"> „{q['text']}\" ^[{c['doc']}.md:L{q['line']}]")
+                piece = " (Teil eines Zitats, das das Modell mit „…\" zusammengefügt hatte)" if q.get("split_from") else ""
+                out.append(f"> „{q['text']}\" ^[{c['doc']}.md:L{q['line']}]{piece}")
                 out.append("")
     if v["differ"]:
         out += ["## Wo die Quellen auseinandergehen", ""] + [f"- {x}" for x in v["differ"]] + [""]
@@ -672,6 +728,23 @@ def selftest() -> list[str]:
             continue
         if b["status"] != "schema-invalid" or not b.get("why"):
             fails.append(f"schema {bad!r} not named schema-invalid: {b['status']}")
+    # a splice of two true pieces is placed piece by piece; a splice with an invented piece is not
+    near = [(n, t) for n, t in s.window(slug, line + 1, line + 40)
+            if len(re.sub(r"[*_\\|]", "", t).split()) >= 6 and "…" not in t and "|" not in t]
+    if not near:
+        fails.append("no second line near the test line to splice with")
+    else:
+        n2, t2 = near[0]
+        w2 = " ".join(re.sub(r"[*_\\]", "", t2).split()[:6])
+        sp = verify({"answerable": "yes", "claims": [{"doc": slug, "says": "x",
+                     "quotes": [{"text": f"{words} … {w2}", "line_hint": line}]}]}, {slug: [line, n2]})
+        if sp["counts"].get("spliced") != 1 or sp["counts"]["placed"] != 2:
+            fails.append(f"a splice of two true lines was not placed piece by piece: {sp['counts']} ({w2!r})")
+    bad = verify({"answerable": "yes", "claims": [{"doc": slug, "says": "x",
+                  "quotes": [{"text": f"{words} … Juna tanzt auf dem Mond im Kapitel", "line_hint": line}]}]},
+                 {slug: [line]})
+    if bad["claims"] or bad["counts"].get("unresolved") != 1:
+        fails.append(f"a splice with an invented piece was placed: {bad['counts']}")
     # the metric: an answer that is all outside the window scores low, a crash is never 0 or 1
     sc = score(w, {(slug, line)}, {slug: [line + 40, line + 41]})
     if sc["score"] != 0.0 or sc["gold_hit"] is not None:
@@ -762,6 +835,9 @@ def main(argv: list[str]) -> int:
         res = bench(int(opt("--budget", BUDGET)))
         out = RUNS / f"bench-{time.strftime('%Y-%m-%d')}-{res['budget']}.json"
         out.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
+        return 0
+    if cmd == "session":
+        print(session_prompt(positional[0], attempt))
         return 0
     if cmd == "pack":
         cmd_pack(positional[0], opt("--kind", "explain"))

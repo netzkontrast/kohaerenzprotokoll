@@ -1,0 +1,514 @@
+{
+ "id": "2026-09-30-ed3b1b8b.2",
+ "question": "Was verraten Wärme, Kälte und Ozon? Welche Dokumente, besonders ungelesene, sprechen darüber, und was sagen sie?",
+ "kind": "locate",
+ "built": "2026-09-30T12:05:56",
+ "sends_text_of": [
+  "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "kohaerenz-protokoll-konzept-master-md",
+  "forschungsprojekt-kohaerenz-protokoll-analyse",
+  "entropie-aegis",
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+  "integriertes-kohaerenz-protokoll-erstellung",
+  "analyse-des-kohaerenz-protokolls",
+  "kohaerenz-protokoll-philosophischer-bericht-md",
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "interdisziplinaere-recherche-fuer-kohaerenz-protokoll",
+  "kohaerenz-protokoll-themenanalyse-und-anreicheru",
+  "dkt-fundament-kohaerenz-protokoll-md",
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+  "kohaerenz-prozess-grundlagen",
+  "2-kohaerenz-protokoll-konzeptentwicklung",
+  "dis-diagnose-klinische-ethische-bewertung",
+  "dis-diagnose-klinische-ethische-rechtliche-analyse",
+  "dual-storyform-hintergruende-md",
+  "fragen-zu-existenz-agency-und-realitaet",
+  "genesis-mehrstufige-recherche-und-ausformulierung",
+  "genesis-recherche-anleitung-umsetzung",
+  "gravitation-realitaet-simulation-wahrheit-2",
+  "gutachten-grad-der-behinderung-bei-dis",
+  "juna-resilienz-zyklus-konzeptentwicklung",
+  "kap0-v1-annotiert-md",
+  "kapitel-kompendium-gather-2026-05-31-md",
+  "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat",
+  "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+  "kohaerenz-protokoll-detaillierter-plot-blueprint",
+  "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+  "kohaerenz-protokoll-konzeptentwicklung",
+  "koharenz-protokoll-kapitel-0-v2-md",
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+  "p-vs-np-und-kohaerenz",
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+  "strukturelle-dissoziation-system-kael-analyse",
+  "worldbuilding-konzept-kohaerenzprotokoll-md"
+ ],
+ "cut_by_budget": [],
+ "budget": 60000,
+ "chars": 64959,
+ "window_chars": 58333,
+ "finders": {
+  "roman-lokalitaeten-konzept-und-ausarbeitung": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "forschungsprojekt-kohaerenz-protokoll-analyse": [
+   "bm25-lines",
+   "co-mention"
+  ],
+  "entropie-aegis": [
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+   "graph-evidence"
+  ],
+  "integriertes-kohaerenz-protokoll-erstellung": [
+   "co-mention"
+  ],
+  "analyse-des-kohaerenz-protokolls": [
+   "co-mention"
+  ],
+  "kohaerenz-protokoll-philosophischer-bericht-md": [
+   "co-mention"
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "interdisziplinaere-recherche-fuer-kohaerenz-protokoll": [
+   "co-mention"
+  ],
+  "kohaerenz-protokoll-themenanalyse-und-anreicheru": [
+   "co-mention"
+  ],
+  "dkt-fundament-kohaerenz-protokoll-md": [
+   "co-mention"
+  ],
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-prozess-grundlagen": [
+   "co-mention"
+  ],
+  "2-kohaerenz-protokoll-konzeptentwicklung": [
+   "co-mention"
+  ],
+  "dis-diagnose-klinische-ethische-bewertung": [
+   "bm25-lines"
+  ],
+  "dis-diagnose-klinische-ethische-rechtliche-analyse": [
+   "bm25-lines"
+  ],
+  "dual-storyform-hintergruende-md": [
+   "bm25-lines"
+  ],
+  "fragen-zu-existenz-agency-und-realitaet": [
+   "bm25-lines"
+  ],
+  "genesis-mehrstufige-recherche-und-ausformulierung": [
+   "bm25-lines"
+  ],
+  "genesis-recherche-anleitung-umsetzung": [
+   "bm25-lines"
+  ],
+  "gravitation-realitaet-simulation-wahrheit-2": [
+   "bm25-lines"
+  ],
+  "gutachten-grad-der-behinderung-bei-dis": [
+   "bm25-lines"
+  ],
+  "juna-resilienz-zyklus-konzeptentwicklung": [
+   "bm25-lines"
+  ],
+  "kap0-v1-annotiert-md": [
+   "bm25-lines"
+  ],
+  "kapitel-kompendium-gather-2026-05-31-md": [
+   "parallel"
+  ],
+  "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md": [
+   "parallel"
+  ],
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-detaillierter-plot-blueprint": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-konzeptentwicklung": [
+   "co-mention"
+  ],
+  "koharenz-protokoll-kapitel-0-v2-md": [
+   "bm25-lines"
+  ],
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md": [
+   "parallel"
+  ],
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "p-vs-np-und-kohaerenz": [
+   "bm25-lines"
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   "bm25-lines"
+  ],
+  "strukturelle-dissoziation-system-kael-analyse": [
+   "bm25-lines"
+  ],
+  "worldbuilding-konzept-kohaerenzprotokoll-md": [
+   "parallel"
+  ]
+ },
+ "seeds": [
+  "term:entropie"
+ ],
+ "skills": [],
+ "hash": "543d05a162c66f63f4effc89836d1db37d29dd9004c394768011eb013e07fa75",
+ "shown": {
+  "roman-lokalitaeten-konzept-und-ausarbeitung": [
+   37,
+   464,
+   465,
+   466,
+   467,
+   468,
+   469,
+   470,
+   471,
+   472,
+   473,
+   481,
+   482,
+   483,
+   484,
+   485,
+   486,
+   487,
+   488,
+   489,
+   490
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   698
+  ],
+  "forschungsprojekt-kohaerenz-protokoll-analyse": [
+   37,
+   41,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   143
+  ],
+  "entropie-aegis": [
+   29,
+   31
+  ],
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+   25
+  ],
+  "integriertes-kohaerenz-protokoll-erstellung": [
+   39,
+   41,
+   202,
+   204,
+   208,
+   210,
+   343,
+   344,
+   345,
+   346,
+   347,
+   353,
+   359,
+   360,
+   361,
+   362,
+   363,
+   364,
+   365,
+   366,
+   367
+  ],
+  "analyse-des-kohaerenz-protokolls": [
+   24,
+   36,
+   40,
+   52,
+   68,
+   90,
+   287,
+   288,
+   367
+  ],
+  "kohaerenz-protokoll-philosophischer-bericht-md": [
+   49,
+   75,
+   94,
+   134,
+   229,
+   237,
+   262,
+   796
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   859,
+   1067,
+   1108,
+   1109,
+   1110,
+   1111,
+   1112,
+   1113,
+   1114,
+   1115,
+   1116,
+   1117,
+   1118,
+   1119,
+   1120,
+   1192,
+   1193,
+   1194,
+   1195,
+   1196,
+   1197,
+   1198,
+   1199,
+   1200,
+   1201,
+   1202,
+   1203
+  ],
+  "interdisziplinaere-recherche-fuer-kohaerenz-protokoll": [
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   139,
+   140,
+   141,
+   142,
+   143,
+   285,
+   286,
+   287,
+   288
+  ],
+  "kohaerenz-protokoll-themenanalyse-und-anreicheru": [
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   136,
+   137,
+   138,
+   142,
+   143,
+   144
+  ],
+  "dkt-fundament-kohaerenz-protokoll-md": [
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   138,
+   139
+  ],
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   56,
+   135
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   103,
+   104,
+   105,
+   371
+  ],
+  "kohaerenz-prozess-grundlagen": [
+   130,
+   131,
+   132,
+   142
+  ],
+  "2-kohaerenz-protokoll-konzeptentwicklung": [
+   179,
+   180,
+   181,
+   182
+  ],
+  "dis-diagnose-klinische-ethische-bewertung": [
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62
+  ],
+  "dis-diagnose-klinische-ethische-rechtliche-analyse": [
+   331,
+   332,
+   333,
+   334,
+   335,
+   336,
+   337
+  ],
+  "dual-storyform-hintergruende-md": [
+   480,
+   481,
+   482,
+   483,
+   484,
+   485,
+   486,
+   487,
+   488,
+   489
+  ],
+  "fragen-zu-existenz-agency-und-realitaet": [
+   44
+  ],
+  "genesis-mehrstufige-recherche-und-ausformulierung": [
+   365,
+   366,
+   367,
+   368,
+   369
+  ],
+  "genesis-recherche-anleitung-umsetzung": [
+   366,
+   367,
+   368,
+   369
+  ],
+  "gravitation-realitaet-simulation-wahrheit-2": [
+   263
+  ],
+  "gutachten-grad-der-behinderung-bei-dis": [
+   227
+  ],
+  "juna-resilienz-zyklus-konzeptentwicklung": [
+   845,
+   846,
+   847,
+   848
+  ],
+  "kap0-v1-annotiert-md": [
+   997
+  ],
+  "kapitel-kompendium-gather-2026-05-31-md": [
+   25
+  ],
+  "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat": [
+   55
+  ],
+  "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md": [
+   81,
+   82
+  ],
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+   913,
+   914,
+   915
+  ],
+  "kohaerenz-protokoll-detaillierter-plot-blueprint": [
+   29,
+   30,
+   31,
+   32
+  ],
+  "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md": [
+   760,
+   761,
+   762,
+   763,
+   764,
+   765,
+   766,
+   767,
+   768,
+   769
+  ],
+  "kohaerenz-protokoll-konzeptentwicklung": [
+   287,
+   288,
+   289,
+   290,
+   291
+  ],
+  "koharenz-protokoll-kapitel-0-v2-md": [
+   619
+  ],
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md": [
+   138,
+   139,
+   140
+  ],
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md": [
+   236,
+   237,
+   238,
+   239,
+   240,
+   241,
+   242
+  ],
+  "p-vs-np-und-kohaerenz": [
+   348
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   739
+  ],
+  "strukturelle-dissoziation-system-kael-analyse": [
+   414,
+   415,
+   416,
+   417,
+   418
+  ],
+  "worldbuilding-konzept-kohaerenzprotokoll-md": [
+   86
+  ]
+ }
+}

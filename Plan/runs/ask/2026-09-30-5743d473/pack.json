@@ -1,0 +1,234 @@
+{
+ "id": "2026-09-30-5743d473",
+ "question": "Welche Wahrheit darf wann lesbar werden? Welche Dokumente, besonders ungelesene, sprechen darüber, und was sagen sie?",
+ "kind": "locate",
+ "built": "2026-09-30T12:06:16",
+ "sends_text_of": [
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "gravitation-realitaet-simulation-wahrheit-2",
+  "kohaerenz-protokoll-dramatica-synthese-masterkonzept",
+  "kohaerenz-protokoll-konzept-master-md",
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "argus-chronist-der-wandlung",
+  "dis-diagnose-klinische-ethische-bewertung",
+  "dis-diagnose-klinische-ethische-rechtliche-analyse",
+  "forschungsprojekt-kohaerenz-protokoll-analyse",
+  "fragen-zu-existenz-agency-und-realitaet",
+  "gutachten-grad-der-behinderung-bei-dis",
+  "juna-resilienz-zyklus-konzeptentwicklung",
+  "kap0-v1-annotiert-md",
+  "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat",
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+  "koharenz-protokoll-kapitel-0-v2-md",
+  "master-konzept-kohaerenz-protokoll-analyse",
+  "p-vs-np-und-kohaerenz",
+  "projektplanung-fuer-kohaerenz-protokoll",
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+  "textanalyse-existenz-system-und-leid",
+  "wahrheitstheorien-und-identitaet-ein-konflikt"
+ ],
+ "cut_by_budget": [],
+ "budget": 60000,
+ "chars": 18446,
+ "window_chars": 15776,
+ "finders": {
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "gravitation-realitaet-simulation-wahrheit-2": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-dramatica-synthese-masterkonzept": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "argus-chronist-der-wandlung": [
+   "bm25-lines"
+  ],
+  "dis-diagnose-klinische-ethische-bewertung": [
+   "bm25-lines"
+  ],
+  "dis-diagnose-klinische-ethische-rechtliche-analyse": [
+   "bm25-lines"
+  ],
+  "forschungsprojekt-kohaerenz-protokoll-analyse": [
+   "bm25-lines"
+  ],
+  "fragen-zu-existenz-agency-und-realitaet": [
+   "bm25-lines"
+  ],
+  "gutachten-grad-der-behinderung-bei-dis": [
+   "bm25-lines"
+  ],
+  "juna-resilienz-zyklus-konzeptentwicklung": [
+   "bm25-lines"
+  ],
+  "kap0-v1-annotiert-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   "bm25-lines"
+  ],
+  "koharenz-protokoll-kapitel-0-v2-md": [
+   "bm25-lines"
+  ],
+  "master-konzept-kohaerenz-protokoll-analyse": [
+   "bm25-lines"
+  ],
+  "p-vs-np-und-kohaerenz": [
+   "bm25-lines"
+  ],
+  "projektplanung-fuer-kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   "bm25-lines"
+  ],
+  "textanalyse-existenz-system-und-leid": [
+   "bm25-lines"
+  ],
+  "wahrheitstheorien-und-identitaet-ein-konflikt": [
+   "bm25-lines"
+  ]
+ },
+ "seeds": [],
+ "skills": [],
+ "hash": "4e9ef286a5d48a47cc7362d8207fb9f0f51d42fe0e789eeca1cf7a677cd2633d",
+ "shown": {
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   56,
+   135,
+   773,
+   774,
+   775,
+   776,
+   777,
+   778,
+   779,
+   820,
+   821,
+   822
+  ],
+  "gravitation-realitaet-simulation-wahrheit-2": [
+   263,
+   310
+  ],
+  "kohaerenz-protokoll-dramatica-synthese-masterkonzept": [
+   185,
+   186,
+   199,
+   200
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   698,
+   933,
+   934,
+   935,
+   936,
+   937
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   704,
+   1079
+  ],
+  "argus-chronist-der-wandlung": [
+   519,
+   520,
+   521,
+   522,
+   523,
+   524,
+   525
+  ],
+  "dis-diagnose-klinische-ethische-bewertung": [
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62
+  ],
+  "dis-diagnose-klinische-ethische-rechtliche-analyse": [
+   331,
+   332,
+   333,
+   334,
+   335,
+   336,
+   337
+  ],
+  "forschungsprojekt-kohaerenz-protokoll-analyse": [
+   143
+  ],
+  "fragen-zu-existenz-agency-und-realitaet": [
+   44
+  ],
+  "gutachten-grad-der-behinderung-bei-dis": [
+   227
+  ],
+  "juna-resilienz-zyklus-konzeptentwicklung": [
+   646,
+   647,
+   648,
+   649,
+   650,
+   651
+  ],
+  "kap0-v1-annotiert-md": [
+   997
+  ],
+  "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat": [
+   55
+  ],
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md": [
+   1012
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   270
+  ],
+  "koharenz-protokoll-kapitel-0-v2-md": [
+   619
+  ],
+  "master-konzept-kohaerenz-protokoll-analyse": [
+   151,
+   152
+  ],
+  "p-vs-np-und-kohaerenz": [
+   348
+  ],
+  "projektplanung-fuer-kohaerenz-protokoll": [
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   739
+  ],
+  "textanalyse-existenz-system-und-leid": [
+   166
+  ],
+  "wahrheitstheorien-und-identitaet-ein-konflikt": [
+   30
+  ]
+ }
+}
