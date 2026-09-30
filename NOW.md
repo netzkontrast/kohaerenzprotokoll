@@ -583,12 +583,12 @@ Six questions, none waited on:
    or another reader would say whether the figures hold.
 4. **The finders' defaults in `ask.py`:** `he-lines` at 40 lines (+0.029, off now) and the `co-mention` finder's 10 paragraphs (40 → 10 already made):
    another session's finders, one line each, provisional on 24 cases.
-5. **The writing engine's vocabulary.** The Narrative Context Protocol (written in 37 landed documents, counted with `grep -F`), the Collapse Susceptibility
-   Index (7), the Drama-Engine (5), JANUS (3), Story Flip (1) have no page: the wiki's pages are the novel's world, and these belong to the engine the
-   sources also discuss. Should the wiki hold it? Nothing is promoted until the author says.
-6. **Pages the corpus holds together and the wiki does not link.** `Plan/runs/graph-lab-2026-09-30/e2c-links.md` ends with the 40 pairs of highest
+5. **Pages the corpus holds together and the wiki does not link.** `Plan/runs/graph-lab-2026-09-30/e2c-links.md` ends with the 40 pairs of highest
    normalised co-mention that no page links — 25 of them among ten pages of the Alters (`kiko`, `nyx`, `lex`, `rhys`, `alex`, `argus`, `isabelle`, `moros`,
    `lia`, `selene`), which stand together in 70 to 222 documents. A list to read, never a set of links. Does the wiki want any of them?
+6. **The writing engine's vocabulary.** The Narrative Context Protocol (written in 37 landed documents, counted with `grep -F`), the Collapse Susceptibility
+   Index (7), the Drama-Engine (5), JANUS (3), Story Flip (1) have no page: the wiki's pages are the novel's world, and these belong to the engine the
+   sources also discuss. Should the wiki hold it? Nothing is promoted until the author says.
 
 ## Open decisions — these are judgement, not measurement
 
