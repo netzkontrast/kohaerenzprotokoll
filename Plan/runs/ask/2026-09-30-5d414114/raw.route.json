@@ -1,0 +1,10 @@
+{
+ "status": "answered",
+ "text": "{\"answerable\": \"yes\", \"claims\": [{\"doc\": \"kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md\", \"says\": \"Juna appears directly in Chapter 38.\", \"quotes\": [{\"text\": \"Juna appears directly\", \"line_hint\": 593}]}, {\"doc\": \"kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md\", \"says\": \"Juna appears directly as a substrate touch (the external layer becomes enterable, a layer shift).\", \"quotes\": [{\"text\": \"Substrat-Berührung | Juna erscheint direkt; die Externe Ebene wird betretbar, nicht als Ortwechsel, sondern als Schicht-Verschiebung\", \"line_hint\": 727}]}], \"differ\": [], \"gaps\": [], \"need\": [], \"next\": []}",
+ "model": "route/cohere/north-mini-code:free",
+ "seconds": 35.9,
+ "cost": 0,
+ "backend": "route",
+ "at": "2026-09-30T10:38:28",
+ "pack_hash": "44afdcde642ed79256f9f298c69432ce52d8d08c9ef9885b04aeecb76f0fabb7"
+}

@@ -18,6 +18,8 @@ Three guards are code, not prose (P1), and each says what it could not check (P2
   that may be sent. A call declaring any other document is refused, and so is any
   request containing twelve consecutive words of a landed document outside the
   consent. Blind to: paraphrase, translation, and runs shorter than twelve words.
+  A purpose the consent opens to every document (`purposes`, decision 017: `ask`)
+  skips the twelve-word screen and says so in the ledger.
 - **Recorded.** Every answered call is kept under `Plan/runs/route/calls/`, so a
   run replays offline, free and without a key (P5), and every call — answered,
   cached, refused or unreached — is a line in `Plan/runs/route/ledger.jsonl`.
@@ -188,7 +190,16 @@ def guard() -> Guard:
     return _GUARD
 
 
+def purpose_open(purpose: str) -> bool:
+    """A purpose the author opened to every landed document (decision 017: `ask`)."""
+    return consent().get("purposes", {}).get(purpose, {}).get("documents") == "all"
+
+
 def screen(text: str, purpose: str, doc: str | None) -> None:
+    if purpose_open(purpose):
+        ledger(kind="screen", purpose=purpose, doc=doc, outcome="open purpose",
+               why="consent.json purposes: this purpose may send any landed document")
+        return
     slugs = guard().breach(text)
     if slugs:
         ledger(kind="refused", purpose=purpose, doc=doc, outcome="refused",

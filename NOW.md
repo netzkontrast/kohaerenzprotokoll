@@ -870,10 +870,14 @@ Run `python3 scripts/selftests.py` first; it builds nothing and says in one line
 per suite what holds. In a fresh container the DSPy suites report `not run`
 with the command that creates `.venv-dspy`.
 
-**The tool review has run** (`Plan/concept/tool-review_2026-09-24.md`). What it
-leaves as work: the four Hyper-Extract templates, which `he parse` cannot load
-from a path — `templates.py check` stays green over that, because it only
-validates and loads. The three `route.py` defects it found are fixed, and what
+**The tool review has run** (`Plan/concept/tool-review_2026-09-24.md`). The four
+Hyper-Extract templates it could not run, because `he parse` cannot load a template
+from a path, now load: `python3 scripts/templates.py parse` is `he parse` with that
+one lookup extended, and `templates.py check` has a `resolve` check that fails when
+it would not (2026-09-30). Measured offline against a local stand-in for the model,
+all four parse, save, and answer `he search`; none has run on a document, which
+waits on a model under decision 007. Its question 2 — patch the fork or copy the
+templates into the installed package — needed neither. The three `route.py` defects it found are fixed, and what
 was worth porting from the tools is decided — the review's closing section.
 
 In order, and none of it needs a model:

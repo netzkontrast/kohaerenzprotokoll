@@ -266,6 +266,11 @@ Work continues without these answers, per the instruction of 2026-09-24.
    file-path loading be added there, or should `install.sh hyperextract` copy
    `Plan/hyperextract/*.yaml` into the installed presets directory, or should
    the templates wait?
+   *Answered 2026-09-30 by neither:* `python3 scripts/templates.py parse` runs
+   the installed CLI with `Template.get` extended to an existing `.yaml` path,
+   editing neither the fork nor the installed package. The four templates parse,
+   save and answer `he search` against a local stand-in model; none has run on a
+   document.
 3. **Jev as triage for the judgement bucket: widen the consent?** The trial
    is only useful on documents beyond 5 and 6, and each needs its own consent
    row. Should Jev also get more context per pair (more than one line either

@@ -3,6 +3,18 @@
 
     python3 scripts/templates.py check [FILE ...]   # default: Plan/hyperextract/*.yaml
     python3 scripts/templates.py selftest           # every check shown to fail on its defect
+    python3 scripts/templates.py parse <he parse args>  # `he parse`, with `-t <path>.yaml` loadable
+
+`he parse -t Plan/hyperextract/TermCensus.yaml` fails in the installed CLI with
+„Template '…' not found" (Plan/concept/tool-review_2026-09-24/hyperextract.md): the
+CLI resolves `-t` with `Template.get`, which knows only the bundled gallery, although
+`Template.create`, the save step and `he info`/`he search` all handle a file path.
+`parse` runs the same CLI with that one lookup extended — an existing `.yaml` path is
+loaded by Hyper-Extract's own `load_template` — and changes nothing else, so every
+argument is `he parse`'s own and the installed package is not edited. It also saves
+the template beside the data, which `he search` needs to find it again. `he feed` does
+not look there — it reads the template's name from the metadata — so appending needs
+the path once more: `he feed <ka> <doc> -t Plan/hyperextract/<Name>.yaml`.
 
 Hyper-Extract's own validator (`he template validate`, HE-T001..009) checks the
 configuration schema. It passed a template whose field `register` shadows a pydantic
@@ -17,6 +29,9 @@ its own check here. Then the rules that are this project's, not Hyper-Extract's:
 | no-llm-merge | no `llm_*` merge strategy: two readings are never merged into one (P13)   |
 | merge-set    | set and graph templates name their strategy; the default overwrites (keep_incoming) |
 | provisional  | the header says `provisional`, `may not` and `retire when` (CLAUDE.md)     |
+| resolve      | the file loads by path, as `parse` loads it, and its `name` is the file's |
+|              | stem — the Knowledge Abstract records the stem and `he info`/`he search`  |
+|              | find the template again by `<name>.yaml` beside it                        |
 | procedural   | no wiki surface or verified entity name in the text a model is sent — a  |
 |              | template carries procedural knowledge only (Plan/briefings/extract.md)    |
 
@@ -64,6 +79,53 @@ for path in sys.argv[1:]:
 print(json.dumps(out))
 """
 
+# Template.get extended to a file path; everything else is the installed CLI.
+PATCH = r"""
+from pathlib import Path
+from hyperextract.utils.template_engine.parsers import load_template
+from hyperextract.utils.template_engine.template import Template
+_get = Template.get
+def _get_or_load(path):
+    if path.endswith(".yaml") and Path(path).is_file():
+        return load_template(path)
+    return _get(path)
+Template.get = staticmethod(_get_or_load)
+"""
+
+# The stock save step copies a custom template beside the data only when the lookup
+# above *fails*; `he feed`/`he search` find it again by `<name>.yaml` there, so every
+# dump of a path-made abstract copies it.
+PARSE = PATCH + r"""
+import shutil, sys
+_create = Template.create
+def _create_and_keep(source, *a, **k):
+    ka = _create(source, *a, **k)
+    if isinstance(source, str) and source.endswith(".yaml") and Path(source).is_file():
+        _dump = ka.dump
+        def dump(folder, *da, **dk):
+            out = _dump(folder, *da, **dk)
+            shutil.copy(source, Path(folder) / Path(source).name)
+            return out
+        ka.dump = dump
+    return ka
+Template.create = staticmethod(_create_and_keep)
+from hyperextract.cli import app
+sys.argv = ["he", "parse", *sys.argv[1:]]
+sys.exit(app())
+"""
+
+RESOLVE = PATCH + r"""
+import json, sys
+out = {}
+for path in sys.argv[1:]:
+    try:
+        cfg = Template.get(path)
+        out[path] = {"name": cfg.name} if cfg is not None else {"error": "not found"}
+    except Exception as e:
+        out[path] = {"error": f"{type(e).__name__}: {e}"[:300]}
+print(json.dumps(out))
+"""
+
 
 def he_python() -> Path | None:
     he = shutil.which("he")
@@ -71,6 +133,21 @@ def he_python() -> Path | None:
         return None
     py = Path(he).resolve().parent / "python"
     return py if py.exists() else None
+
+
+def resolve_status(path: Path, got: dict | None, stderr: str = "") -> tuple[str, str]:
+    if got is None:
+        return ("not reached", (stderr.strip().splitlines() or ["no output"])[-1][:200])
+    if "error" in got:
+        return ("FAIL", got["error"])
+    if got["name"] != path.stem:
+        return ("FAIL", f"name {got['name']!r} is not the file's stem {path.stem!r}")
+    return ("ok", "")
+
+
+def resolve(paths: list[Path]) -> dict:
+    r = subprocess.run([str(he_python()), "-c", RESOLVE, *map(str, paths)], capture_output=True, text=True)
+    return json.loads(r.stdout.strip().splitlines()[-1])
 
 
 def sent_text(text: str) -> str:
@@ -145,12 +222,20 @@ def check(paths: list[Path]) -> int:
                 results[p]["load"] = ("FAIL", got["error"])
             else:
                 results[p]["load"] = ("FAIL", "; ".join(got["warnings"])) if got["warnings"] else ("ok", "")
+        r = subprocess.run([str(py), "-c", RESOLVE, *map(str, paths)], capture_output=True, text=True)
+        try:
+            resolved = json.loads(r.stdout.strip().splitlines()[-1])
+        except (json.JSONDecodeError, IndexError):
+            resolved = {}
+        for p in paths:
+            results[p]["resolve"] = resolve_status(p, resolved.get(str(p)), r.stderr)
     else:
         for p in paths:
             results[p]["load"] = ("not reached", "no hyperextract interpreter beside `he`")
+            results[p]["resolve"] = ("not reached", "no hyperextract interpreter beside `he`")
     for p in paths:
         results[p].update(project_checks(p.read_text(encoding="utf-8"), names))
-    order = ["validate", "load", "no-line", "no-llm-merge", "merge-set", "provisional", "procedural"]
+    order = ["validate", "load", "resolve", "no-line", "no-llm-merge", "merge-set", "provisional", "procedural"]
     failed = unreached = 0
     for p in paths:
         print(p.relative_to(ROOT) if p.is_relative_to(ROOT) else p)
@@ -200,6 +285,7 @@ DEFECTS = {
     "provisional": GOOD.replace("# retire when: never\n", ""),
     "procedural": GOOD.replace("Copy each term exactly.", "Copy each term exactly, like AEGIS."),
     "validate": GOOD.replace("type: set", "type: sett"),
+    "resolve": GOOD,  # written as resolve.yaml: its name, Fixture, is not the file's stem
 }
 
 
@@ -207,7 +293,7 @@ def selftest() -> int:
     names, _ = known_names()
     bad = 0
     with tempfile.TemporaryDirectory() as tmp:
-        good = Path(tmp) / "Good.yaml"
+        good = Path(tmp) / "Fixture.yaml"
         good.write_text(GOOD, encoding="utf-8")
         baseline = project_checks(GOOD, names)
         ok = all(s == "ok" for s, _ in baseline.values())
@@ -223,16 +309,29 @@ def selftest() -> int:
             ok = not got.get("error") and not got.get("warnings")
             bad += not ok
             print(f"  {'ok ' if ok else 'BAD'} the clean fixture loads without a warning")
+            ok = resolve_status(good, resolve([good])[str(good)])[0] == "ok"
+            bad += not ok
+            print(f"  {'ok ' if ok else 'BAD'} the clean fixture resolves by path, as `parse` loads it")
+            r = subprocess.run([str(he_python()), "-c",
+                                "import sys; from hyperextract.utils.template_engine.template import Template;"
+                                "print(Template.get(sys.argv[1]) is None)", str(good)],
+                               capture_output=True, text=True)
+            ok = r.stdout.strip().endswith("True")
+            bad += not ok
+            print(f"  {'ok ' if ok else 'BAD'} the unpatched CLI lookup still misses a path"
+                  f" (if not, `parse` is no longer needed)")
         for check_name, text in DEFECTS.items():
             path = Path(tmp) / f"{check_name}.yaml"
             path.write_text(text, encoding="utf-8")
-            if check_name in ("validate", "load"):
+            if check_name in ("validate", "load", "resolve"):
                 if not shutil.which("he"):
                     print(f"  --  {check_name}: he not installed, not reached")
                     continue
                 if check_name == "validate":
                     r = subprocess.run(["he", "template", "validate", str(path)], capture_output=True, text=True)
                     failed = r.returncode != 0 or "HE-T" in r.stdout + r.stderr
+                elif check_name == "resolve":
+                    failed = resolve_status(path, resolve([path])[str(path)])[0] == "FAIL"
                 else:
                     r = subprocess.run([str(he_python()), "-c", LOADER, str(path)], capture_output=True, text=True)
                     got = json.loads(r.stdout.strip().splitlines()[-1])[str(path)]
@@ -246,9 +345,15 @@ def selftest() -> int:
 
 
 def main(argv: list[str]) -> int:
-    if not argv or argv[0] not in ("check", "selftest"):
+    if not argv or argv[0] not in ("check", "selftest", "parse"):
         print(__doc__)
         return 2
+    if argv[0] == "parse":
+        py = he_python()
+        if py is None:
+            print("no hyperextract interpreter beside `he` — scripts/install.sh hyperextract", file=sys.stderr)
+            return 2
+        return subprocess.run([str(py), "-c", PARSE, *argv[1:]]).returncode
     if argv[0] == "selftest":
         return selftest()
     paths = [Path(a).resolve() for a in argv[1:]] or sorted(DIR.glob("*.yaml"))

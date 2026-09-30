@@ -67,6 +67,20 @@ review was told to write in), so it is reported rather than done. A future
 session could try it in a throwaway copy of the venv and confirm; it is not a
 claim this review makes.
 
+**Fixed 2026-09-30, in this repository:** `python3 scripts/templates.py parse
+<he parse args>` runs this same CLI with `Template.get` extended so that an
+existing `.yaml` path is loaded by Hyper-Extract's own `load_template` — neither
+the fork nor the installed package is edited. The stock save step copies a
+custom template beside the data only when that lookup fails, so `parse` also
+copies it on every dump, or `he search` cannot find it again. `he feed` reads the
+template's name from the metadata and never looks there; it takes the path once
+more with `-t`. All four templates were run through `parse`, `he search` and
+`he feed -t <path>` against a local stand-in OpenAI endpoint under a scratch
+`HOME` — no corpus text, no model — and each resolved, saved and answered. None
+has run on a document yet; that waits on a model under decision 007.
+`templates.py check` now has a `resolve` check, and `selftest` shows the
+unpatched lookup still missing a path, so the day the fork fixes it says so.
+
 ## Proving the rest of the chain still works
 
 To separate "the CLI cannot find our four templates" from "he parse doesn't

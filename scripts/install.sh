@@ -43,7 +43,7 @@ COMPONENTS=(
   "derived|Plan/derived/ — corpus.py's index path (python3 scripts/derive.py)"
   "tools|.venv-tools — markitdown, for sources.py land"
   "typesafe|.venv-typesafe — typesafe-sdk, for bilingual.py and jev_entities.py"
-  "dspy|.venv-dspy — DSPy $DSPY_VERSION with numpy and Deno, dspy-skills, strictyaml, drg-kg[extract], graphqlite for askdb.py"
+  "dspy|.venv-dspy — DSPy $DSPY_VERSION with numpy and Deno, dspy-skills, strictyaml, drg-kg[extract], graphqlite"
   "graphqlite|.venv-graphqlite — GraphQLite $GRAPHQLITE_VERSION, local kg.py CLI and offline graph fixtures"
   "dspytools|.venv-dspytools (python 3.12) — dspytools"
   "grawiki|.venv-grawiki (python 3.12) — grawiki[falkordblite,viz], CPU torch"
