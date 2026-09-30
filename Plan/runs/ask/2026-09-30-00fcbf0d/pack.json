@@ -1,0 +1,121 @@
+{
+ "id": "2026-09-30-00fcbf0d",
+ "question": "Wie viele Beats hat die Genesis, und ist Kael die Komponente 734 selbst oder ihr Rest nach dem Trennungsprotokoll? Woher kommt AEGIS?",
+ "kind": "position",
+ "built": "2026-09-30T10:42:47",
+ "sends_text_of": [
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+  "kohaerenz-protokoll-konzept-master-md",
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "entropie-aegis",
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+  "koharenz-protokoll-konzept-iteration-genesis-md",
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+  "aegis-genesis-krise-konzeptioneller-rahmen",
+  "dramatica-dual-storyform-status-2026-05-07-md",
+  "kapitel-kompendium-gather-2026-05-31-md",
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+  "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+  "kohaerenz-protokoll-kapitel-outline-generierung-2",
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+  "kontext-outline",
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+  "optimierte-plotline-genesis-der-existenz",
+  "romanprojekt-kohaerenz-protokoll-analyse",
+  "uberarbeitete-optimierte-plotline-genesis-der-existenz",
+  "worldbuilding-konzept-kohaerenzprotokoll-md"
+ ],
+ "cut_by_budget": [],
+ "budget": 60000,
+ "chars": 33478,
+ "window_chars": 25510,
+ "finders": {
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "entropie-aegis": [
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   "bm25-lines"
+  ],
+  "koharenz-protokoll-konzept-iteration-genesis-md": [
+   "bm25-lines"
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   "bm25-lines"
+  ],
+  "aegis-genesis-krise-konzeptioneller-rahmen": [
+   "bm25-lines"
+  ],
+  "dramatica-dual-storyform-status-2026-05-07-md": [
+   "bm25-lines"
+  ],
+  "kapitel-kompendium-gather-2026-05-31-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-kapitel-outline-generierung-2": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md": [
+   "bm25-lines"
+  ],
+  "kontext-outline": [
+   "bm25-lines"
+  ],
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "optimierte-plotline-genesis-der-existenz": [
+   "bm25-lines"
+  ],
+  "romanprojekt-kohaerenz-protokoll-analyse": [
+   "bm25-lines"
+  ],
+  "uberarbeitete-optimierte-plotline-genesis-der-existenz": [
+   "bm25-lines"
+  ],
+  "worldbuilding-konzept-kohaerenzprotokoll-md": [
+   "bm25-lines"
+  ]
+ },
+ "seeds": [
+  "term:trennungsprotokoll",
+  "term:komponente-734",
+  "term:genesis",
+  "term:aegis",
+  "term:kael",
+  "term:aegis-metriken",
+  "term:aegis-teilfunktionen",
+  "term:genesis-klammer",
+  "term:kael-julia-bindung"
+ ],
+ "skills": [
+  "character-card-builder",
+  "reverse-character-cards"
+ ],
+ "hash": "7d1432dfed308312bf202dacc0031568f92f878311b5c65e051d5e39e3c4b3da"
+}
