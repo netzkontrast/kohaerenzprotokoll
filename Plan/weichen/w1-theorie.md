@@ -1,3 +1,15 @@
+---
+id: W1
+status: offen            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+hängt_ab_von: []
+schaltet_frei: [W2, WP, alle]
+kapitel: "alle"
+frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
+auslöser: ""
+empfehlung: "B"
+empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
+---
+
 # W1 — Was soll die Theorie leisten?
 
 **Entscheidungsblatt, 2026-09-30 · Runde 1. Vorschlag, keine Festlegung.**
