@@ -34,8 +34,8 @@ author, work half-done, what failed — and it is the handover between sessions.
 A cloud session starts from a clean clone. Everything git-ignored is absent.
 **`scripts/install.sh` rebuilds all of it but the qmd models**, and
 `.claude/hooks/session-start.sh` runs `scripts/install.sh --session` at every
-cloud session start — `derived`, `tools`, `dspy`, `typesafe`, `hyperextract` and
-`qmd` and `graphqlite`, what the pipeline and `selftests.py` call (decision 015;
+cloud session start — `derived`, `tools`, `dspy`, `graphqlite`, `typesafe`,
+`hyperextract` and `qmd`, what the pipeline and `selftests.py` call (decision 015;
 GraphQLite added for the author's local CLI request); the rest install
 on demand with `scripts/install.sh <name>`. Synchronously, so no step races an
 install, and never blocking the session on a failed component. `scripts/install.sh --check` says what is present,
@@ -366,12 +366,14 @@ three above and each tool's own — and prints one line per suite: `held`,
 `FAILED`, or `not run` when the suite's interpreter is absent. A suite that did
 not run has not passed, and the exit status says so.
 
-**And GitHub runs the checks on every commit** (`.github/workflows/checks.yml`,
-since 2026-09-30). Each check is its own step: prose numbers, pipeline order,
-quotations, frontmatter, the judgement replay, chapter pages, the Sources overview,
-and `selftests.py --only std`, the suites the standard library runs alone. The
-dspy, typesafe and Hyper-Extract suites need their venvs and run only here, with
-`askdb.py`'s among them. The review of #110 is why the workflow exists: it found
+**And GitHub runs the checks on every push to `main` and on every pull request**
+(`.github/workflows/checks.yml`, since 2026-09-30). Each check is its own step: prose
+numbers, pipeline order, quotations, frontmatter, the judgement replay, chapter pages,
+the Sources overview, and `selftests.py --only std`, the suites the standard library
+runs alone. The dspy, typesafe, GraphQLite and Hyper-Extract suites need their venvs,
+so they run in a session and not on GitHub; `askdb.py`'s and `kg_selftest.py`'s are
+among them. A pull request with a merge conflict is not checked at all: GitHub builds
+no merge commit to run on. The review of #110 is why the workflow exists: it found
 green results claimed for a commit nothing had checked.
 
 ### The wiki links, and a link is not a mention

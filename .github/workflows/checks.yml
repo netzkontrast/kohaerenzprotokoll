@@ -1,4 +1,5 @@
-# Every check the repository relies on, run on every commit, each as its own step.
+# Every check the repository relies on, each as its own step: on every push to
+# main and on every pull request (its merge commit, so a conflicted one is not run).
 #
 # Why: the review of PR #110 (2026-09-30) found green results reported for a
 # commit on which nothing had run them — `account.py order` had even exited 0
@@ -6,8 +7,8 @@
 # commit it ran on (P11: one status per check, never one bit for all).
 #
 # Only what the standard library runs: the derived index, the invariants and
-# the standard-library self-tests. The dspy, typesafe and Hyper-Extract suites
-# need their venvs and are skipped by `--only std`, which says how many it
+# the standard-library self-tests. The dspy, typesafe, GraphQLite and Hyper-Extract
+# suites need their venvs and are skipped by `--only std`, which says how many it
 # skipped. Every step runs even when an earlier one failed.
 name: checks
 
