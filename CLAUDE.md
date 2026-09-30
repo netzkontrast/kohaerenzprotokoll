@@ -126,11 +126,11 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**58 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **58
+**54 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **54
 <!--state:documents.with_note--> have a note** in `Sources/notes/`, and **54
 <!--state:documents.reconciled--> are reconciled** — documents 52–54, the first extractions of step 6's
-sample, on 2026-09-30 at the author's word so the order holds again; the four others, read by Haiku in the
-reader lab of 2026-09-30, wait for their reconciliation (see `NOW.md`).
+sample, on 2026-09-30 at the author's word so the order holds again; the four Haiku lab extractions remain staged under
+`Plan/runs/reader-lab-2026-09-30/staged/` until reconciliation (see `NOW.md`).
 Of the reconciled, five are `theorie-physik`,
 five `worldbuilding`, one `aegis`, six `storyform`, six `charaktere`, ten
 `kernkonzept`, thirteen `plot-outline`, one `theorie-psychologie`, two `theorie-logik`, two
@@ -160,10 +160,9 @@ From document 52 on the record alone carries it.
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
-**`python3 scripts/account.py order` does not hold** — `false`
-<!--state:order.holds--> on this branch, and holds on `main`: the four documents
-the Haiku readers extracted in the reader lab of 2026-09-30 have a census and a note
-and no reconciliation. It holds when every document with a census has a note and a
+**`python3 scripts/account.py order` holds** — `true`
+<!--state:order.holds-->: the four Haiku lab extractions are staged outside the
+production census and note directories until they can be reconciled. It holds when every document with a census has a note and a
 reconciliation, each ran against the state the previous one left, and the wiki
 matches what the newest run recorded leaving. When it does not, it says so with
 exit status 1. **Until 2026-09-30 the check exited 0 either way, and this line said

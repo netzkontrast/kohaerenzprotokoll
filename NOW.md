@@ -1271,3 +1271,11 @@ Drafting the novel, until the author has answered the plan's four questions (*Wr
 novel — a plan*, above). The `Legacy/` shelf. Reading the 215 plot outlines landed on
 2026-09-26: they are on disk and searchable, and still deferred with the novel
 as reading material. The one `mp3` is a question above, not a backlog.
+
+## PR #126 CI repair — 2026-09-30
+
+The four Haiku lab extractions (R2–R5) are preserved under
+`Plan/runs/reader-lab-2026-09-30/staged/Sources/{terms,notes}/`. They have not
+been reconciled and are excluded from production ingest counts. Resume from
+these staged artifacts when completing their reconciliation; no wiki reading
+or reconciliation was fabricated to make the order check pass.

@@ -280,7 +280,8 @@ def selftest() -> int:
     saved[2]["holds"], saved[3]["speaker"] = "yes", "the audit"
     fails, _ = check_rows(rows, saved)
     cases.append(("a speaker that is not document or source: fails", any("who says it" in f for f in fails)))
-    real = source_rows("ki-narrative-kollaps-kohaerenz-paradoxie")
+    real = source_rows("ki-narrative-kollaps-kohaerenz-paradoxie",
+                       ROOT / "Plan/runs/reader-lab-2026-09-30/staged")
     cases.append(("a real note yields a row per citation", len(real) >= 15 and all(r["opening"] for r in real if r["line"] > 0)))
     failed = [n for n, ok in cases if not ok]
     print(f"claims: {len(cases) - len(failed)} of {len(cases)} cases hold"

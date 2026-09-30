@@ -348,3 +348,15 @@ Quality is checked the same way each time:
 
 Five claims of each note are read against their lines. That is the check that found
 the 11 defects of the quality sample, which `quotes.py` could not see.
+
+## Staged extractions — CI repair, 2026-09-30
+
+R2–R5 are experiments, not completed ingest runs. Their final census and note
+files are preserved byte-for-byte in `staged/Sources/terms/` and
+`staged/Sources/notes/`. Their run logs, verification and corrections remain
+in `Plan/runs/<slug>/`. This keeps incomplete extractions outside the production
+pipeline without weakening `account.py order` or inventing reconciliation records.
+
+To resume, use the staged files as the reader handoff, follow the ingest skill,
+and complete reconciliation before committing them back to `Sources/`.
+The claims selftest explicitly reads the staged R2 fixture.
