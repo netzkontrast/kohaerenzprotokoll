@@ -1,11 +1,11 @@
 # Initialization and extraction validation — 2026-09-30
 
 Initial base: `1fe8512fae4dd473948bdb2e5c0cf21107ff55ae`, including merged PR #123.\nBranch updated with `35e8131a06d3f5d68228fcdc0a8102132ce21d8f` before handoff; newer wiki-reader citation safeguards and selftests/CI selection were preserved.
-No graph unification, production graph import or model call was performed.
+The initial checks preceded graph unification. See `graph-unification.md` for the subsequent shared-store implementation. No qmd graph import or model call was performed.
 
 | Check | Result | Scope |
 |---|---|---|
-| `knowledge.py selftest` | passed | offline command plans, check-only behavior, missing-state detection despite shell exit 0, separate stores, continuation after failures |
+| `knowledge.py selftest` | passed | offline command plans, check-only behavior, missing-state detection despite shell exit 0, shared store, continuation after failures |
 | `knowledge.py init --profile reader --check` | not ready, as expected | real source manifest and qmd coverage passed; local graph, qmd and default HE installation absent; each reported independently |
 | `reading_extract.py selftest` | 21/21 passed | real temporary source, file-line offsets, source/template hash drift, malformed/empty payloads, absent surfaces, quote invention, joined/ambiguous quotations, duplication, immutable staging runs, path refusal and unreviewed semantics |
 | `reading_extract.py native-selftest` | 4/4 passed | actual HyperExtract factory/feed/schema/merge for TermReadings, StatedRelations, RelationReadings plus malformed-response refusal; fake structured model and fake embeddings |

@@ -68,7 +68,7 @@ counts come from corpus/read commands. Graph results must retain evidence IDs,
 source IDs and `via`/citation locations. Open the original window before using
 a candidate. Report omissions when the byte or result budget cuts coverage.
 
-Keep `kg.py` and `askdb.py` labels distinct. The synthetic Cypher recipes in
+Both CLIs read `Plan/derived/ask.db`. Typed nodes also carry `:Core` when they belong to the wiki graph; use `r.core = true` to restrict relationships to that projection. Proposal relationships (`P_`) and evidence links do not participate in core ranking. The synthetic Cypher recipes in
 `Plan/runs/qmd-discovery-graph-proposal-2026-09-30/` mark current and proposed
 schemas; proposed labels are not available in the production stores.
 

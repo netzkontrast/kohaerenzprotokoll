@@ -6,7 +6,7 @@ No server or provider credentials are required.
 
 | command after `.venv-graphqlite/bin/python scripts/kg.py` | result |
 |---|---|
-| `index` | Build `Plan/derived/graphqlite.db`; report `unchanged` if input hashes match. Rebuild fully after a change. |
+| `index` | Build `Plan/derived/ask.db`; report `unchanged` if input hashes match. Rebuild fully after a change. |
 | `check` | Check input freshness; nonzero on an absent or stale database. |
 | `search "words" --limit 10` | FTS5/BM25 over verified quotations. Literal words, not Cypher or FTS syntax. |
 | `context "question" --max-bytes 12000` | Existing personalized PageRank and MMR; whole quotations, IDs, conflicts and questions; UTF-8 JSON size capped. |
