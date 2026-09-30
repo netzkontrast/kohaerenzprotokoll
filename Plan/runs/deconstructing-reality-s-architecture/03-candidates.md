@@ -1,0 +1,162 @@
+written_by: gold subagent (Sonnet), 2026-09-30, while reading, before any count
+
+List made by reading the whole document once, line 1 to 333, writing each candidate as the text writes it, and asking read.py --find for each multi-word phrase; the subscripted K symbols of the export are blank in the text, so they are not listed.
+
+## figures and systems
+- Kohärenz Protokoll
+- Coherence Protocol
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- System Kael
+- Kael
+- Juna/V
+- Juna
+- Lex
+- Alex
+- Aris
+- Elara
+- Mina
+- Nyx
+- Kiko
+- Moros
+- Lyra
+- Soren
+- Selene
+- Tariq
+- Nova
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Host
+- Society of Self
+- Alters
+
+## places and world
+- Kernwelten
+- Core Worlds
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Überwelt
+- Nichts Rauschen
+- Nothingness Noise
+- Potentialmeer
+- Sea of Potentiality
+- Riss
+- Risse
+- Rift
+- Inner World
+- Psycho-Architectures
+- Trauma-Time
+- Force Fields
+- Firewalls
+
+## physics and mechanics
+- Dual Kernel Theory (DKT)
+- Dual Kernel Theory
+- DKT
+- Dual Kernel
+- Coherence Kernel
+- Collapse Kernel
+- Coherons
+- Wavelets
+- Corrective Wavelets
+- Protocol Ontology
+- Moonshine-Link
+- Non-Local Resonance
+- Isolation Objection
+- Correspondence-Check
+- Operational Closure
+- Ontological Blindness
+- Ontological Horror
+- Ontologically Blind
+- Recursive Self-Verification
+- RCV
+- Noise
+- Rauschen
+- Real
+- The Great Shift
+- Genesis
+- Genesis Crisis
+- Blind Spot
+- Fractal Resonance
+- Systemic Authorship
+- Grand Argument
+- Grand Argument Story
+- Gödel-Gambit
+- Living Gödel Sentence
+- Algorithmic Melancholy
+- Zombie System
+- Open Protocol
+- The Gardener
+- The Gardener’s Mandate
+- True Coherence
+- Functional Multiplicity
+- Dialetheic Mind
+- War of Logics
+- Validation War
+- Perverse Learning Loop
+- Paradox of Misaligned Coherence
+- Cache Coherence
+- Zero-Trust
+- Switch
+
+## psychology terms of the document
+- Externalized Perpetrator Introject
+- Dissociative Barriers
+- Dissociative Phobias
+- Phobic Barrier
+- Trauma Loop
+- Trauma Reinforcement
+- Positive Intent
+- Apparently Normal Parts (ANPs)
+- ANPs
+- ANP
+- Emotional Parts (EPs)
+- EPs
+- EP
+- Internal Self-Helper (ISH)
+- ISH
+- Internal Implosion
+- Polyphonic Prose
+- Dual-Voice Strategy
+- Fragmented Voice
+- The Choric "We"
+- Algorithmic Horror
+- Miasma of Memory
+- Fortress of Fear
+- Fluid Unreliability
+- Synesthesia of Creation
+- Emergent Possibility
+- Environmental Storytelling
+
+## lens
+- Theory of Structural Dissociation of the Personality (TSDP)
+- TSDP
+- Information Theory
+- Dissociative Identity Disorder (DID)
+- Classical Logic
+- Paraconsistent Logic
+- Dialetheism
+- Principle of Explosion
+- Ex Contradictione Quodlibet
+- Trivialism
+- Autopoiesis
+- Qualia
+- Correspondence Theory of Truth
+- Gödel’s Incompleteness Theorems
+- Monstrous Moonshine
+- Monster Group
+- Modular Functions
+- Quantum Entanglement
+- Whiteheadian Prehension
+- Heroine's Journey
+- Technological Thriller
+- Hard Science Fiction
+- isomorphic

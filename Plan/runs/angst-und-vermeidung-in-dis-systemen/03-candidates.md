@@ -1,0 +1,142 @@
+written_by: gold subagent (Sonnet), 2026-09-30, while reading, before any count
+
+List made by reading the whole document once, first line to last, and writing each term as the export writes it; multi-word phrases were checked with read.py --find before listing. The document is a clinical review of phobic avoidance between identity states in dissociative systems (German prose, English clinical terms in brackets); it names no figure or place of any novel's world, so the world-terms are the clinical system vocabulary it defines and the lens section holds the authors and therapies it applies. The document writes English bracket glosses beside its German terms and the surfaces below keep both.
+
+## system and parts
+- dissoziative Identitätsstörung
+- DIS
+- multiple Persönlichkeitsstörung
+- MPD
+- OSDD
+- Alters
+- dissoziative Anteile
+- Identity-States
+- Ego-States
+- ANP
+- ANPs
+- Anscheinend Normalen Persönlichkeitsanteilen
+- EP
+- EPs
+- Emotionalen Persönlichkeitsanteilen
+- Host
+- Innenkinder
+- Täterintrojekte
+- Täterintrojekt
+- Perpetrator Introjects
+- Persecutor Parts
+- innere Verfolger
+- Beschützeranteil
+- Covert DID
+- Kernsystem
+- Mitbewusstsein
+- Co-Consciousness
+- Co-Bewusstsein
+- Switching
+- Switch
+- passiven Beeinflussung
+- Passive Influence
+- Emotional Bleeding
+- Time Loss
+- Amnesie für die Amnesie
+- dissoziative Amnesie
+- Shutdown
+- Front
+
+## theory and phobia hierarchy
+- Theorie der strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- strukturelle Dissoziation
+- primäre strukturelle Dissoziation
+- sekundären strukturellen Dissoziation
+- tertiäre strukturelle Dissoziation
+- Handlungssysteme
+- Action Systems
+- Systeme des täglichen Lebens
+- Verteidigungs- und Abwehrsysteme
+- Cry for help
+- Fight
+- Flight
+- Freeze
+- Appeasement/Submit
+- Hierarchiesystem traumabezogener Phobien
+- Phobie vor traumatischen Erinnerungen
+- Phobie vor mentalen Handlungen
+- Mental Phobia
+- Phobie vor dissoziativen Anteilen
+- Phobie vor Bindung und Bindungsverlust
+- Phobie vor dem normalen Leben und Intimität
+- Phobie vor dem Anderen
+- phobische Vermeidung
+- Fassade der Normalität
+- Schweigegelübde
+- Numbing
+- Realization
+- Synthese
+- Realisation
+- Personifizierung
+- Präsentifizierung
+- positiven dissoziativen Symptomen
+- desorganisierten Bindung
+- soziokognitive Modell
+- Traumamodell
+- Satanic Panic
+
+## interventions
+- Inneren Konferenzraums
+- Inneren Konferenzraum
+- Inneren Teamsitzungen
+- Innere Teamsitzungen
+- Roll Call
+- Lagebericht
+- 6-Schritte-Modell
+- Innere sichere Ort
+- Inner Safe Place
+- Teilen von Ressourcen
+- Schema-Modus-Inventar
+- Vulnerable Child Modes
+- Verletzlicher Kindmodus
+- Punitive Parent Mode
+- Strafender Elternmodus
+- Strafenden Elternmodus
+- Healthy Adult Mode
+- Healthy Adult
+- Imagery Rescripting
+- Unburdening
+- Firefighters
+- Manager
+- Exilanten
+- Selbst
+- Ella
+- Frauke
+- The Mean
+
+## lens
+- Pierre Janet
+- Onno van der Hart
+- Kathy Steele
+- Sigmund Freud
+- Anna Freud
+- Sándor Ferenczi
+- Martin Teicher
+- Aharon Appelfeld
+- Identifikation mit dem Aggressor
+- Sprachverwirrung
+- Confusion of Tongues
+- Schematherapie
+- Internal Family Systems
+- IFS
+- EMDR
+- Konditionierungsprozesse
+- Abwehrmechanismus
+- Verdrängung
+- Verleugnung
+- Flooding
+- Neuroplastizität
+- Titration
+- Corpus callosum
+- Amygdala
+- Insula
+- Resting-State-Aktivität
+- DSM-5
+
+The document names no figure of a novel. Its first-person quotations (the patient who fears sharing a brain, Appelfeld's ghosts of memory) are cited speech, not terms. Verdrängung and Verleugnung appear as Repression and Denial in brackets too.
