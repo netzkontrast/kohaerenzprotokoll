@@ -26,11 +26,13 @@ It is derived and never committed (P25): `build` rebuilds it from the files and
     .venv-dspy/bin/python scripts/askdb.py path term:juna term:aegis
     .venv-dspy/bin/python scripts/askdb.py cypher "MATCH (c:Conflict) RETURN c.id"
     .venv-dspy/bin/python scripts/askdb.py sheets
+    .venv-dspy/bin/python scripts/askdb.py touches <slug>   # document → pages/records → sheets naming them
     .venv-dspy/bin/python scripts/askdb.py selftest
 """
 
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sqlite3
@@ -94,6 +96,36 @@ def sheet_heads() -> dict[str, dict]:
     return heads
 
 
+NAMED = ((re.compile(r"\bWiki/conflicts/c(\d+)-"), "conflict:C{}"),
+         (re.compile(r"\bWiki/questions/q(\d+)-"), "question:Q{}"),
+         (re.compile(r"\b(?<![/\w])C(\d+)\b"), "conflict:C{}"),
+         (re.compile(r"\b(?<![/\w])Q(\d+)\b"), "question:Q{}"),
+         (re.compile(r"\bWiki/candidates/([a-z0-9-]+)\.md"), "term:{}"),
+         (re.compile(r"\[\[([a-z0-9-]+)"), "term:{}"),
+         (re.compile(r"\^\[([a-z0-9-]+)\.md:L\d+"), "doc:{}"))
+
+
+def sheet_names(line: str) -> set[str]:
+    """The node ids one line of a sheet names, written out; never inferred."""
+    return {fmt.format(m.group(1)) for rx, fmt in NAMED for m in rx.finditer(line)}
+
+
+def touches(s: "Store", slug: str) -> dict:
+    """document → the pages and records that read or cite it → the sheets naming those, or it."""
+    doc = f"doc:{slug}"
+    via = s.cypher(f"MATCH (x)-[r]->(d {{id:'{doc}'}}) WHERE type(r) IN ['reads','cites','READS','CITES'] "
+                   "RETURN DISTINCT x.id AS x")
+    around = sorted({r["x"] for r in via if not r["x"].startswith("sheet:")})
+    hits: dict[str, set] = defaultdict(set)
+    for r in s.cypher(f"MATCH (sh:Sheet)-[:NAMES]->(d {{id:'{doc}'}}) RETURN sh.slug AS sh"):
+        hits[r["sh"]].add(doc)
+    for x in around:
+        for r in s.cypher(f"MATCH (sh:Sheet)-[:NAMES]->(n {{id:'{x}'}}) RETURN sh.slug AS sh"):
+            hits[r["sh"]].add(x)
+    return {"doc": slug, "read_or_cited_by": around,
+            "sheets": {k: sorted(v) for k, v in sorted(hits.items())}}
+
+
 def collect() -> dict:
     """Everything the store holds, as plain rows — built from the files only."""
     import graph as kg
@@ -139,6 +171,12 @@ def collect() -> dict:
             if target not in nodes:          # named, but no sheet or record exists
                 nodes[target] = ({"slug": d, "status": "kein Blatt", "file": ""}, "Sheet")
             edges.append((f"sheet:{sid}", target, {"via": h["file"]}, "DEPENDS_ON"))
+    # what each sheet's text names: records, pages, documents — each edge carries its line
+    for sid, h in heads.items():
+        for n, line in enumerate((ROOT / h["file"]).read_text(encoding="utf-8").split("\n"), 1):
+            for target in sheet_names(line):
+                if target in nodes and target != f"sheet:{sid}":
+                    edges.append((f"sheet:{sid}", target, {"via": f"{h['file']}:{n}"}, "NAMES"))
 
     # the proposal graph: a model chose the names, code placed the lines
     try:
@@ -200,7 +238,9 @@ def build(db: Path = DB) -> dict:
         conn.executemany("INSERT INTO lines VALUES (?,?,?)", rows)
         n_lines += len(rows)
     conn.executemany("INSERT INTO quotes VALUES (?,?,?,?)", data["quotes"])
+    conn.commit()
     stats = {"built": time.strftime("%Y-%m-%dT%H:%M:%S"), "seconds": round(time.time() - t0, 1),
+             "input_hash": input_hash(), "content_hash": content_hash(data, lines_hash(conn)),
              "nodes": len(data["nodes"]), "edges": n_edges, "lines": n_lines, "quotes": len(data["quotes"]),
              "labels": dict(Counter(label for _, label in data["nodes"].values())),
              "types": dict(Counter(t for *_, t in data["edges"])),
@@ -218,23 +258,69 @@ def stats(db: Path = DB) -> dict:
     return json.loads(conn.execute("SELECT value FROM meta WHERE key='stats'").fetchone()[0])
 
 
-def check(db: Path = DB) -> list[str]:
-    """What the store says against what the files say now (P8)."""
+INPUTS = ("Sources/manifest.jsonl", "Sources/drive/*.md", "Wiki/**/*.md", "Plan/weichen/*.md",
+          "Plan/entities/**/*", "scripts/askdb.py", "scripts/askextract.py", "scripts/graph.py")
+
+
+def input_hash() -> str:
+    """One hash over every file the store is derived from, code included — about 0.2 s."""
+    h = hashlib.sha256()
+    for pattern in INPUTS:
+        for p in sorted(ROOT.glob(pattern)):
+            if p.is_file():
+                h.update(str(p.relative_to(ROOT)).encode() + b"\0" + p.read_bytes() + b"\0")
+    return h.hexdigest()
+
+
+def lines_hash(conn) -> str:
+    """The lines and quotes tables as they stand in the file, canonically ordered."""
+    h = hashlib.sha256()
+    for table in ("lines", "quotes"):
+        for row in conn.execute(f"SELECT slug, line, text FROM {table} ORDER BY slug, CAST(line AS INTEGER), text"):
+            h.update(json.dumps(row, ensure_ascii=False).encode())
+    return h.hexdigest()
+
+
+def content_hash(data: dict, tables: str) -> str:
+    """The derived nodes and edges, canonically, plus the tables' hash."""
+    h = hashlib.sha256(tables.encode())
+    for k in sorted(data["nodes"]):
+        h.update(json.dumps([k, data["nodes"][k]], ensure_ascii=False, sort_keys=True, default=str).encode())
+    for e in sorted(json.dumps(e, ensure_ascii=False, sort_keys=True, default=str) for e in data["edges"]):
+        h.update(e.encode())
+    return h.hexdigest()
+
+
+def fresh(db: Path = DB) -> str | None:
+    """None when the store was built from the files as they are now, else why not."""
+    name = db.relative_to(ROOT) if db.is_relative_to(ROOT) else db
     if not db.exists():
-        return [f"{db.relative_to(ROOT)} does not exist: run build"]
-    want = collect()
+        return f"{name} does not exist: run askdb.py build"
+    have = stats(db).get("input_hash")
+    if have != input_hash():
+        return (f"{name} is stale: its inputs changed since it was built "
+                "(or it predates input hashes); run askdb.py build")
+    return None
+
+
+def check(db: Path = DB) -> list[str]:
+    """What the store holds against what the files say now (P8): inputs, derived content, tables."""
+    stale = fresh(db)
+    if stale:
+        return [stale]
     have = stats(db)
     problems = []
-    if have["nodes"] != len(want["nodes"]):
-        problems.append(f"nodes: store {have['nodes']}, files {len(want['nodes'])}")
-    if have["edges"] != len(want["edges"]):
-        problems.append(f"edges: store {have['edges']}, files {len(want['edges'])}")
-    if have["quotes"] != len(want["quotes"]):
-        problems.append(f"quotes: store {have['quotes']}, files {len(want['quotes'])}")
-    lines = sum(1 for r in manifest() if (ROOT / r["export_path"]).exists()
-                for l in (ROOT / r["export_path"]).read_text(encoding="utf-8").split("\n") if l.strip())
-    if have["lines"] != lines:
-        problems.append(f"lines: store {have['lines']}, files {lines}")
+    conn = sqlite3.connect(str(db))
+    tables = lines_hash(conn)
+    want = collect()
+    if content_hash(want, tables) != have.get("content_hash"):
+        problems.append("content: the store's lines, quotes or derived graph differ from a fresh derivation")
+    n_nodes = conn.execute("SELECT count(*) FROM nodes").fetchone()[0]
+    n_edges = conn.execute("SELECT count(*) FROM edges").fetchone()[0]
+    if n_nodes != len(want["nodes"]):
+        problems.append(f"nodes: store {n_nodes}, files {len(want['nodes'])}")
+    if n_edges != len(want["edges"]):
+        problems.append(f"edges: store {n_edges}, files {len(want['edges'])}")
     leaked = [t for t in have["stated_types"] if t.startswith("P_")]
     if leaked:
         problems.append(f"a stated relation type looks like a proposal: {leaked}")
@@ -244,9 +330,10 @@ def check(db: Path = DB) -> list[str]:
 # ── reading the store ─────────────────────────────────────────────────────────
 
 class Store:
-    def __init__(self, db: Path = DB):
-        if not db.exists():
-            sys.exit(f"{db.relative_to(ROOT)} does not exist: run askdb.py build")
+    def __init__(self, db: Path = DB, stale_ok: bool = False):
+        why = None if stale_ok and db.exists() else fresh(db)
+        if why:
+            sys.exit(why)
         Graph = _graphqlite()
         self.g = Graph(str(db))
         self.sql = sqlite3.connect(str(db))
@@ -394,6 +481,9 @@ def selftest() -> list[str]:
     import tempfile
     Graph = _graphqlite()
     fails = []
+    named = sheet_names("[C12](../../Wiki/conflicts/c12-genesis-beats.md), Q7, [[vortex]] ^[kontext-outline.md:L26] W12 C8b")
+    if named != {"conflict:C12", "question:Q7", "term:vortex", "doc:kontext-outline"}:
+        fails.append(f"sheet_names: {sorted(named)}")
     probe = fts_query('Juna AND "x" NEAR(')
     if probe != '"Juna" OR "NEAR"':
         fails.append(f"fts_query leaked syntax: {probe!r}")
@@ -413,8 +503,25 @@ def selftest() -> list[str]:
         conn.executemany("INSERT INTO lines VALUES (?,?,?)", [("d1", 1, "Juna erscheint in Kap 38"),
                                                               ("d1", 2, "Kael zählt Platten"),
                                                               ("d2", 7, "Die Kohärenz fällt")])
+        conn.execute("CREATE TABLE meta (key TEXT PRIMARY KEY, value TEXT)")
+        conn.execute("INSERT INTO meta VALUES ('stats', ?)", (json.dumps({"input_hash": "old"}),))
+        conn.execute("CREATE VIRTUAL TABLE quotes USING fts5(slug UNINDEXED, line UNINDEXED, text, page UNINDEXED)")
         conn.commit()
-        s = Store(db)
+        # review finding 4: a store built from other inputs is refused, and a text change is seen
+        if not fresh(db):
+            fails.append("a store whose input hash differs was called fresh")
+        try:
+            Store(db)
+            fails.append("Store() opened a stale store")
+        except SystemExit:
+            pass
+        before = lines_hash(conn)
+        conn.execute("UPDATE lines SET text = 'Kael zählt Kacheln' WHERE text = 'Kael zählt Platten'")
+        if lines_hash(conn) == before:
+            fails.append("the content hash missed a changed line with the same count")
+        conn.execute("UPDATE lines SET text = 'Kael zählt Platten' WHERE text = 'Kael zählt Kacheln'")
+        conn.commit()
+        s = Store(db, stale_ok=True)
         if [r["slug"] for r in s.bm25("Wann erscheint Juna?")] != ["d1"]:
             fails.append("bm25 did not find the one line naming Juna")
         if not s.bm25("Kohaerenz") and not s.bm25("Kohärenz"):
@@ -474,6 +581,8 @@ def main(argv: list[str]) -> int:
             print(json.dumps(r, ensure_ascii=False))
     elif cmd == "sheets":
         print(json.dumps(sheets(s), ensure_ascii=False, indent=1))
+    elif cmd == "touches":
+        print(json.dumps(touches(s, args[0]), ensure_ascii=False, indent=1))
     else:
         print(f"unknown command {cmd!r}")
         return 2

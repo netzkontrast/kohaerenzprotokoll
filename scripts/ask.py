@@ -15,15 +15,23 @@ tier `M-ask` — a model's reading of other sources, never the author's word.
 3. **run**: `claude-cli` (default, `claude -p`, no tools: only the pack),
    `route` (a free OpenRouter model through `route.py`), `session` (a subagent
    reads the pack and writes `raw.session.json`), `jules` (see `jules`).
-4. **verify** (code): every quotation must name a document in the pack and is
-   placed on its line by `quotes.py`'s own comparison, or it is rejected; a claim
-   with no placed quotation is `unsupported`.
-5. **land**: the rendered answer goes to `Sources/ask/<id>.md` with a checksum
-   and a manifest row, once; a second landing of the same id is refused.
+   A pack is immutable: its text must still hash to `pack.json`, a changed pack
+   gets the next id (`<id>.2`), and a run is never overwritten — a repeat is
+   `--attempt N` and gets its own files (P18).
+4. **verify** (code): the reply must hold the schema (else `schema-invalid`,
+   with the reasons); every quotation must stand on a line the pack *sent*
+   (`meta.shown`) by `quotes.py`'s own comparison — the same words elsewhere in
+   the document are `outside-window` — or it is rejected; a claim with no placed
+   quotation is `unsupported`.
+5. **land**: the rendered answer goes to `Sources/ask/<id>-<backend>.md` with a
+   checksum and a manifest row, once; a second landing is refused. `subject.document`
+   resolves a landed answer by its slug, so `quotes.py` and `read.py` cite it like
+   any source, while it stays out of `documents()` and every corpus count.
 
     .venv-dspy/bin/python scripts/ask.py pack "Wann erscheint Juna zuerst direkt?" [--kind locate]
     .venv-dspy/bin/python scripts/ask.py run <id> --backend claude-cli [--model sonnet]
     .venv-dspy/bin/python scripts/ask.py run <id> --backend route
+    .venv-dspy/bin/python scripts/ask.py run <id> --backend route --attempt 1   # a repeat, beside the first
     .venv-dspy/bin/python scripts/ask.py verify <id> [--backend B]      # re-verify a stored reply
     .venv-dspy/bin/python scripts/ask.py land <id> [--backend B]
     .venv-dspy/bin/python scripts/ask.py ask "…" [--backend B]          # pack, run, verify, land
@@ -87,8 +95,28 @@ def now() -> str:
     return time.strftime("%Y-%m-%dT%H:%M:%S")
 
 
-def ask_id(question: str) -> str:
-    return time.strftime("%Y-%m-%d") + "-" + hashlib.sha256(question.encode()).hexdigest()[:8]
+def ask_id(question: str, kind: str = "explain") -> str:
+    key = question if kind == "explain" else f"{kind}\0{question}"  # explain keeps the ids already landed
+    return time.strftime("%Y-%m-%d") + "-" + hashlib.sha256(key.encode()).hexdigest()[:8]
+
+
+def sha(text: str) -> str:
+    return hashlib.sha256(text.encode()).hexdigest()
+
+
+def load_pack(qid: str) -> tuple[str, dict]:
+    """The pack as sent, refused if its text no longer has the hash its meta recorded."""
+    d = run_dir(qid)
+    text = (d / "pack.md").read_text(encoding="utf-8")
+    meta = json.loads((d / "pack.json").read_text(encoding="utf-8"))
+    if sha(text) != meta["hash"]:
+        sys.exit(f"{qid}: pack.md does not hash to pack.json's {meta['hash'][:12]}; a pack is never edited")
+    return text, meta
+
+
+def tag(backend: str, attempt: int) -> str:
+    """A run's file name part: the backend, and the attempt from the second on (P18)."""
+    return backend if attempt == 0 else f"{backend}-a{attempt}"
 
 
 def run_dir(qid: str) -> Path:
@@ -158,14 +186,16 @@ def skills_for(question: str, k: int = 2) -> list[dict]:
 
 
 def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store=None,
-               graph: dict | None = None) -> tuple[str, dict]:
+               graph: dict | None = None, rules: str = RULES, schema: str = SCHEMA) -> tuple[str, dict]:
+    """The pack every backend reads. `rules` and `schema` are parameters so another step (an
+    extraction lab) reuses the same pack, `verify` and `render` rather than a second verifier."""
     import graphrag
     import askdb
     s = store or askdb.Store()
     r = route(question, kind, s, graph)
     parts, sent, cut, used, shown = [], [], [], 0, {}
     parts.append(f"# Frage\n\n{question}\n\nArt der Frage: `{kind}`\n")
-    parts.append(RULES)
+    parts.append(rules)
     parts.append("## Was das Wiki schon weiß (Graph)\n\n" + graphrag.render(r["evidence"]) + "\n")
     if r["path"]:
         lines = [f"- `{h['from']}` → `{h['to']}`: "
@@ -208,9 +238,9 @@ def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store
     if skills:
         parts.append("## Passende Skills (Auszug)\n\n" + "\n".join(
             f"- **{x['skill']}**: {x['description']}" for x in skills) + "\n")
-    parts.append(SCHEMA)
+    parts.append(schema)
     text = "\n".join(parts)
-    meta = {"id": ask_id(question), "question": question, "kind": kind, "built": now(),
+    meta = {"id": ask_id(question, kind), "question": question, "kind": kind, "built": now(),
             "sends_text_of": sent, "cut_by_budget": cut, "budget": budget, "chars": len(text),
             "window_chars": used, "finders": {d["doc"]: sorted(d["finders"]) for d in r["docs"]},
             "seeds": [x["term"] for x in r["evidence"]["seeds"]], "skills": [x["skill"] for x in skills],
@@ -220,8 +250,16 @@ def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store
 
 def cmd_pack(question: str, kind: str) -> str:
     text, meta = build_pack(question, kind)
+    base, n = meta["id"], 1
+    # a pack is immutable: the same text is reused, a different one gets the next free id
+    while (run_dir(meta["id"]) / "pack.json").exists():
+        if json.loads((run_dir(meta["id"]) / "pack.json").read_text(encoding="utf-8"))["hash"] == meta["hash"]:
+            print(f"{meta['id']}: the same pack exists already")
+            return meta["id"]
+        n += 1
+        meta["id"] = f"{base}.{n}"
     d = run_dir(meta["id"])
-    d.mkdir(parents=True, exist_ok=True)
+    d.mkdir(parents=True)
     (d / "question.txt").write_text(question + "\n", encoding="utf-8")
     (d / "pack.md").write_text(text, encoding="utf-8")
     (d / "pack.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -259,26 +297,31 @@ def backend_route(pack: str, prefer: str | None) -> dict:
             "seconds": round(time.time() - started, 1), "cost": 0}
 
 
-def cmd_run(qid: str, backend: str, model: str | None) -> dict:
+def cmd_run(qid: str, backend: str, model: str | None, attempt: int = 0) -> dict:
     d = run_dir(qid)
-    pack = (d / "pack.md").read_text(encoding="utf-8")
+    pack, meta = load_pack(qid)
+    out = d / f"raw.{tag(backend, attempt)}.json"
+    if backend not in ("session", "jules") and out.exists():
+        sys.exit(f"{out.relative_to(ROOT)} exists: a run is never overwritten; pass --attempt {attempt + 1}")
     if backend == "claude-cli":
         res = backend_claude_cli(pack, model or "sonnet")
     elif backend == "route":
         res = backend_route(pack, model)
     elif backend in ("session", "jules"):
-        raw = d / f"raw.{backend}.json"
+        raw = out
         if not raw.exists():
             sys.exit(f"{raw.relative_to(ROOT)} is absent: the {backend} backend writes it; "
                      f"then run `ask.py verify {qid} --backend {backend}`")
         res = json.loads(raw.read_text(encoding="utf-8"))
     else:
         sys.exit(f"unknown backend {backend!r}")
-    res.update(backend=backend, at=now(), pack_hash=json.loads((d / "pack.json").read_text())["hash"])
-    (d / f"raw.{backend}.json").write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
+    if backend in ("session", "jules") and res.get("pack_hash") not in (None, meta["hash"]):
+        sys.exit(f"{out.relative_to(ROOT)} answers another pack ({res['pack_hash'][:12]})")
+    res.update(backend=backend, attempt=attempt, at=res.get("at") or now(), pack_hash=meta["hash"])
+    out.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
     with (RUNS / "ledger.jsonl").open("a", encoding="utf-8") as f:
         f.write(json.dumps({k: res.get(k) for k in ("at", "backend", "model", "status", "seconds", "cost")}
-                           | {"id": qid}, ensure_ascii=False) + "\n")
+                           | {"id": qid, "attempt": attempt}, ensure_ascii=False) + "\n")
     print(f"{qid} {backend}: {res['status']} {res.get('model', '')} {res.get('seconds', '')}s "
           f"cost {res.get('cost')}")
     return res
@@ -297,38 +340,87 @@ def parse(text: str) -> dict | None:
         return None
 
 
-def place(doc_slug: str, quote: str, hint) -> tuple[str, int | None, str | None]:
-    """(`placed` | `unresolved`, line, why) — by quotes.py's own comparison."""
+ANSWERABLE = ("yes", "partly", "no")
+
+
+def schema_errors(answer) -> list[str]:
+    """What makes a parsed answer break the contract SCHEMA states; [] when it holds."""
+    if not isinstance(answer, dict):
+        return ["the answer is not an object"]
+    errs = []
+    if answer.get("answerable") not in ANSWERABLE:
+        errs.append(f"answerable is {answer.get('answerable')!r}, not one of {ANSWERABLE}")
+    claims = answer.get("claims")
+    if not isinstance(claims, list):
+        errs.append("claims is not a list")
+        claims = []
+    for i, c in enumerate(claims):
+        if not isinstance(c, dict):
+            errs.append(f"claims[{i}] is not an object")
+            continue
+        if not isinstance(c.get("doc"), str) or not isinstance(c.get("says"), str):
+            errs.append(f"claims[{i}]: doc and says must be strings")
+        qs = c.get("quotes", [])
+        if not isinstance(qs, list):
+            errs.append(f"claims[{i}].quotes is not a list")
+            continue
+        for j, q in enumerate(qs):
+            if not isinstance(q, dict) or not isinstance(q.get("text"), str):
+                errs.append(f"claims[{i}].quotes[{j}] has no text string")
+            elif q.get("line_hint") is not None and not isinstance(q.get("line_hint"), int):
+                errs.append(f"claims[{i}].quotes[{j}].line_hint is not an integer")
+    for key in ("differ", "gaps"):
+        v = answer.get(key, [])
+        if not isinstance(v, list) or not all(isinstance(x, str) for x in v):
+            errs.append(f"{key} is not a list of strings")
+    for key in ("need", "next"):
+        v = answer.get(key, [])
+        if not isinstance(v, list) or not all(isinstance(x, dict) for x in v):
+            errs.append(f"{key} is not a list of objects")
+    return errs
+
+
+def place(doc_slug: str, quote: str, hint, shown: list[int]) -> tuple[str, int | None, str | None]:
+    """(`placed` | `outside-window` | `unresolved`, line, why) — by quotes.py's own comparison.
+
+    A quotation is placed only on a line the pack sent. The same words elsewhere in the
+    document are `outside-window`: true of the source, but not read from the pack.
+    """
     import read
     from subject import document
-    if isinstance(hint, int) and quotes.verdict([f"{doc_slug}.md:L{hint}"], None, quote)[0] == "verified":
-        return "placed", hint, None
+    sent = sorted(set(shown), key=lambda n: (abs(n - hint) if isinstance(hint, int) else 0, n))
+    for n in sent:
+        if quotes.verdict([f"{doc_slug}.md:L{n}"], None, quote)[0] == "verified":
+            return "placed", n, None
     try:
-        doc = document(doc_slug)
-    except Exception:  # noqa: BLE001
+        lines = read.locate(document(doc_slug), quote)
+    except KeyError:
         return "unresolved", None, "no such document"
-    lines = read.locate(doc, quote)
-    if not lines:
-        return "unresolved", None, "the words stand on no single line"
-    best = min(lines, key=lambda n: abs(n - hint)) if isinstance(hint, int) else lines[0]
-    return "placed", best, None
+    if lines:
+        return "outside-window", None, f"the words stand on L{lines[0]}, which the pack did not send"
+    return "unresolved", None, "the words stand on no single line"
 
 
-def verify(answer: dict | None, in_pack: list[str]) -> dict:
+def verify(answer: dict | None, shown: dict[str, list[int]]) -> dict:
+    """`shown` is the pack's meta["shown"]: every document and the line numbers it sent."""
+    empty = {"claims": [], "unsupported": [], "differ": [], "differ_dropped": [], "gaps": [],
+             "next": [], "need": [], "counts": {}}
     if answer is None:
-        return {"status": "unparsed", "claims": [], "unsupported": [], "differ": [], "gaps": [],
-                "next": [], "need": [], "counts": {}}
-    claims, unsupported, counts = [], [], {"placed": 0, "unresolved": 0, "outside-pack": 0}
+        return {"status": "unparsed"} | empty
+    errs = schema_errors(answer)
+    if errs:
+        return {"status": "schema-invalid", "why": "; ".join(errs[:8])} | empty
+    claims, unsupported, counts = [], [], {"placed": 0, "unresolved": 0, "outside-pack": 0, "outside-window": 0}
     supported_docs = set()
     for c in answer.get("claims", []) or []:
         doc = str(c.get("doc", "")).removesuffix(".md")
         checked = []
         for q in c.get("quotes", []) or []:
             text = str(q.get("text", "")).strip().strip("„“\"")
-            if doc not in in_pack:
+            if doc not in shown:
                 status, line, why = "outside-pack", None, "the pack held no text of this document"
             else:
-                status, line, why = place(doc, text, q.get("line_hint"))
+                status, line, why = place(doc, text, q.get("line_hint"), shown[doc])
             counts[status] = counts.get(status, 0) + 1
             checked.append({"text": text, "status": status, "line": line, "why": why})
         good = [q for q in checked if q["status"] == "placed"]
@@ -358,13 +450,14 @@ def render(qid: str, meta: dict, raw: dict, v: dict) -> str:
            f"backend: {raw.get('backend')}", f"model: {raw.get('model', '')}", f"answered: {raw.get('at')}",
            f"pack: Plan/runs/ask/{qid}/pack.md", f"pack_hash: {meta['hash']}",
            f"placed: {v['counts'].get('placed', 0)}", f"unresolved: {v['counts'].get('unresolved', 0)}",
-           f"outside_pack: {v['counts'].get('outside-pack', 0)}", "---", "",
+           f"outside_pack: {v['counts'].get('outside-pack', 0)}",
+           f"outside_window: {v['counts'].get('outside-window', 0)}", "---", "",
            f"# Antwort: {meta['question']}", "",
            f"**Eine Modell-Lesart der Quellen (Entscheidung 017, Tier `M-ask`), keine Entscheidung.** "
            f"Backend `{raw.get('backend')}`, Modell `{raw.get('model', '')}`; "
            f"beantwortbar laut Modell: `{v.get('answerable')}`. Jedes Zitat unten hat Code auf seine Zeile gesetzt.", ""]
     if v["status"] != "answered":
-        out += [f"Status: **{v['status']}** — {raw.get('why', 'die Antwort war kein lesbares JSON')}", ""]
+        out += [f"Status: **{v['status']}** — {v.get('why') or raw.get('why') or 'die Antwort war kein lesbares JSON'}", ""]
         return "\n".join(out)
     for c in sorted(v["claims"], key=lambda c: (when.get(c["doc"], ""), c["doc"])):
         out.append(f"## `{c['doc']}`, {when.get(c['doc'], 'undatiert')}")
@@ -391,13 +484,22 @@ def render(qid: str, meta: dict, raw: dict, v: dict) -> str:
     return "\n".join(out)
 
 
-def cmd_verify(qid: str, backend: str) -> tuple[str, dict]:
+def load_raw(qid: str, backend: str, attempt: int, meta: dict) -> dict:
+    raw = json.loads((run_dir(qid) / f"raw.{tag(backend, attempt)}.json").read_text(encoding="utf-8"))
+    if raw.get("pack_hash") != meta["hash"]:
+        sys.exit(f"{qid} {tag(backend, attempt)}: the answer names pack {str(raw.get('pack_hash'))[:12]}, "
+                 f"the pack is {meta['hash'][:12]}")
+    return raw
+
+
+def cmd_verify(qid: str, backend: str, attempt: int = 0) -> tuple[str, dict]:
     d = run_dir(qid)
-    meta = json.loads((d / "pack.json").read_text(encoding="utf-8"))
-    raw = json.loads((d / f"raw.{backend}.json").read_text(encoding="utf-8"))
-    v = verify(parse(raw.get("text", "")) if raw.get("status") == "answered" else None, meta["sends_text_of"])
+    _, meta = load_pack(qid)
+    raw = load_raw(qid, backend, attempt, meta)
+    v = verify(parse(raw.get("text", "")) if raw.get("status") == "answered" else None, meta["shown"])
     if raw.get("status") != "answered":
         v["status"] = raw.get("status", "unparsed")
+    backend = tag(backend, attempt)
     text = render(qid, meta, raw, v)
     (d / f"answer.{backend}.json").write_text(json.dumps(v, ensure_ascii=False, indent=1), encoding="utf-8")
     (d / f"answer.{backend}.md").write_text(text, encoding="utf-8")
@@ -408,21 +510,24 @@ def cmd_verify(qid: str, backend: str) -> tuple[str, dict]:
 
 # ── land ──────────────────────────────────────────────────────────────────────
 
-def cmd_land(qid: str, backend: str) -> Path:
+def cmd_land(qid: str, backend: str, attempt: int = 0) -> Path:
     d = run_dir(qid)
+    _, meta = load_pack(qid)
+    raw = load_raw(qid, backend, attempt, meta)
+    backend = tag(backend, attempt)
     text = (d / f"answer.{backend}.md").read_text(encoding="utf-8")
+    if f"pack_hash: {meta['hash']}" not in text:
+        sys.exit(f"answer.{backend}.md was rendered from another pack; run verify again")
     LANDED.mkdir(parents=True, exist_ok=True)
     slug = f"ask-{qid}-{backend}"
     target = LANDED / f"{slug}.md"
     if target.exists():
         sys.exit(f"{target.relative_to(ROOT)} is landed already; an answer is never edited (decision 017)")
     target.write_text(text, encoding="utf-8")
-    meta = json.loads((d / "pack.json").read_text(encoding="utf-8"))
-    raw = json.loads((d / f"raw.{backend}.json").read_text(encoding="utf-8"))
     row = {"slug": slug, "tier": "M-ask", "question": meta["question"], "backend": backend,
            "model": raw.get("model"), "answered": raw.get("at"), "landed": now(),
            "export_path": str(target.relative_to(ROOT)), "pack_hash": meta["hash"],
-           "sha256": hashlib.sha256(text.encode()).hexdigest()}
+           "sha256": sha(text), "attempt": attempt}
     with MANIFEST.open("a", encoding="utf-8") as f:
         f.write(json.dumps(row, ensure_ascii=False) + "\n")
     print(f"landed {target.relative_to(ROOT)}")
@@ -498,7 +603,7 @@ def selftest() -> list[str]:
         {"doc": "nicht-im-paket", "says": "außerhalb", "quotes": [{"text": words, "line_hint": line}]},
         {"doc": slug, "says": "ohne Zitat", "quotes": []}],
         "differ": [f"{slug} vs nicht-im-paket: erfunden"]}
-    v = verify(answer, [slug])
+    v = verify(answer, {slug: [line]})
     if [c["says"] for c in v["claims"]] != ["richtig"]:
         fails.append(f"only the true quotation should stand: {[c['says'] for c in v['claims']]} ({words!r})")
     if v["counts"].get("unresolved") != 1:
@@ -509,6 +614,72 @@ def selftest() -> list[str]:
         fails.append("a comparison with one supported side survived")
     if len(v["unsupported"]) != 3:
         fails.append(f"three claims should be unsupported: {len(v['unsupported'])}")
+    # review finding 3: right words, right document, a line the pack did not send
+    w = verify({"answerable": "yes", "claims": [{"doc": slug, "says": "x", "quotes": [{"text": words, "line_hint": line}]}]},
+               {slug: [line + 40, line + 41]})
+    if w["claims"] or w["counts"].get("outside-window") != 1:
+        fails.append(f"a quotation outside the sent window was accepted: {w['counts']}")
+    # review finding 5: valid JSON, wrong schema — a status, never an exception
+    for bad in ({"claims": "oops"}, {"answerable": "yes", "claims": [{"quotes": "oops"}]}, {}, [],
+                {"answerable": "yes", "claims": [{"doc": slug, "says": "x", "quotes": [{"text": 3}]}]}):
+        try:
+            b = verify(bad, {slug: [line]})
+        except Exception as exc:  # noqa: BLE001
+            fails.append(f"schema {bad!r} raised {type(exc).__name__}")
+            continue
+        if b["status"] != "schema-invalid" or not b.get("why"):
+            fails.append(f"schema {bad!r} not named schema-invalid: {b['status']}")
+    # review finding 2: a pack is immutable, a run is never overwritten
+    import tempfile
+    global RUNS
+    keep = RUNS
+    with tempfile.TemporaryDirectory(dir=ROOT / "Plan" / "derived") as tmp:
+        RUNS = Path(tmp)
+        try:
+            d = run_dir("t")
+            d.mkdir()
+            (d / "pack.md").write_text("paket", encoding="utf-8")
+            (d / "pack.json").write_text(json.dumps({"hash": sha("paket"), "shown": {}}), encoding="utf-8")
+            (d / "raw.jules.json").write_text(json.dumps({"status": "answered", "text": "{}"}), encoding="utf-8")
+            cmd_run("t", "jules", None)
+            if json.loads((d / "raw.jules.json").read_text())["pack_hash"] != sha("paket"):
+                fails.append("a run does not record the pack it answered")
+            (d / "pack.md").write_text("paket, verändert", encoding="utf-8")
+            for step in (lambda: cmd_verify("t", "jules"), lambda: cmd_run("t", "jules", None)):
+                try:
+                    step()
+                    fails.append("an edited pack was accepted")
+                except SystemExit:
+                    pass
+            (d / "pack.md").write_text("paket", encoding="utf-8")
+            (d / "raw.route.json").write_text("{}", encoding="utf-8")
+            try:
+                cmd_run("t", "route", None)
+                fails.append("a second run overwrote the first")
+            except SystemExit:
+                pass
+        finally:
+            RUNS = keep
+    # review finding 1: a landed answer resolves by slug and its quotation verifies
+    import subject
+    with tempfile.TemporaryDirectory(dir=ROOT / "Plan" / "derived") as tmp:
+        body = "---\nid: ask-test\n---\n\nDiese Modellantwort soll zitierbar sein.\n"
+        f = Path(tmp) / "ask-test.md"
+        f.write_text(body, encoding="utf-8")
+        m = Path(tmp) / "manifest.jsonl"
+        m.write_text(json.dumps({"slug": "ask-test", "export_path": str(f.relative_to(ROOT)),
+                                 "sha256": sha(body), "answered": "2026-09-30"}) + "\n", encoding="utf-8")
+        keep_m = subject.ASK_MANIFEST
+        subject.ASK_MANIFEST = m
+        subject.answers.cache_clear()
+        try:
+            if quotes.verdict(["ask-test.md:L5"], None, "Diese Modellantwort soll zitierbar sein.")[0] != "verified":
+                fails.append("a landed answer's quotation does not verify")
+            if any(d.slug == "ask-test" for d in subject.documents()):
+                fails.append("a landed answer entered the corpus")
+        finally:
+            subject.ASK_MANIFEST = keep_m
+            subject.answers.cache_clear()
     return fails
 
 
@@ -522,6 +693,7 @@ def main(argv: list[str]) -> int:
         return rest[rest.index(name) + 1] if name in rest else default
     positional = [a for i, a in enumerate(rest) if not a.startswith("--") and (i == 0 or not rest[i - 1].startswith("--"))]
     backend = opt("--backend", "claude-cli")
+    attempt = int(opt("--attempt", 0))
     if cmd == "selftest":
         fails = selftest()
         for f in fails:
@@ -536,17 +708,17 @@ def main(argv: list[str]) -> int:
     if cmd == "pack":
         cmd_pack(positional[0], opt("--kind", "explain"))
     elif cmd == "run":
-        cmd_run(positional[0], backend, opt("--model"))
+        cmd_run(positional[0], backend, opt("--model"), attempt)
     elif cmd == "verify":
-        cmd_verify(positional[0], backend)
+        cmd_verify(positional[0], backend, attempt)
     elif cmd == "land":
-        cmd_land(positional[0], backend)
+        cmd_land(positional[0], backend, attempt)
     elif cmd == "ask":
         qid = cmd_pack(positional[0], opt("--kind", "explain"))
-        res = cmd_run(qid, backend, opt("--model"))
-        cmd_verify(qid, backend)
-        if res["status"] == "answered":
-            cmd_land(qid, backend)
+        res = cmd_run(qid, backend, opt("--model"), attempt)
+        _, v = cmd_verify(qid, backend, attempt)
+        if v["status"] == "answered":
+            cmd_land(qid, backend, attempt)
     else:
         print(f"unknown command {cmd!r}")
         return 2

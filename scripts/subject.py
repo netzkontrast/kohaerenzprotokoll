@@ -21,6 +21,7 @@ This module holds the substrate they share. `scripts/account.py` is the verb.
 
 from __future__ import annotations
 
+import hashlib
 import json
 from dataclasses import dataclass
 from functools import cached_property, lru_cache
@@ -29,6 +30,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "Sources" / "manifest.jsonl"
 DUPLICATES = ROOT / "Sources" / "duplicates.jsonl"
+ASK_MANIFEST = ROOT / "Sources" / "ask" / "manifest.jsonl"  # decision 017: answers, tier M-ask
 DERIVED = ROOT / "Plan" / "derived"
 PAGES = ROOT / "Wiki" / "candidates"
 CONFLICTS = ROOT / "Wiki" / "conflicts"
@@ -135,9 +137,29 @@ def _by_slug() -> dict[str, Document]:
     return by
 
 
+@lru_cache(maxsize=1)
+def answers() -> dict[str, Document]:
+    """Every landed `ask` answer (decision 017), by slug. Citable like a source, and kept
+    out of documents(): an answer is not part of the corpus any count measures."""
+    out: dict[str, Document] = {}
+    for row in read_jsonl(ASK_MANIFEST) if ASK_MANIFEST.exists() else []:
+        path = ROOT / row["export_path"]
+        text = path.read_text(encoding="utf-8")
+        if hashlib.sha256(text.encode()).hexdigest() != row.get("sha256"):
+            raise ValueError(f"{path} no longer hashes to its manifest row: a landed answer is never edited")
+        body, offset = _split(text)
+        out[row["slug"]] = Document(slug=row["slug"], category="ask", date=(row.get("answered") or "?")[:10],
+                                    format="md", sha256=row["sha256"], path=path, body=body, offset=offset)
+    return out
+
+
 def document(slug: str) -> Document:
     try:
         return _by_slug()[slug]
+    except KeyError:
+        pass
+    try:
+        return answers()[slug]
     except KeyError:
         raise KeyError(f"no landed document with slug {slug!r}") from None
 
