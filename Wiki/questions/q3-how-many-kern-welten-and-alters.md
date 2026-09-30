@@ -357,3 +357,21 @@ On the counts: eight in four reports, eleven in two, in the same file; on the co
 „The alters— Lex, Nyx, Kiko, and Lia —must be treated as discrete functional modules.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L12] (L12); at the climax the four stand again: „When Kael drops the amnesic barriers between Lex, Nyx, Kiko, and Lia, he becomes a mutual-information-dense structure.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L38] (L38). It calls the group „discrete functional modules“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L12], and names no fifth.
 
 Stands as a document that gives four alters, named; it says nothing on the number of Kern-Welten.
+
+## 2026-09-30 — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis
+
+**Eleven parts of System Kael and four simulated Kernwelten, KW1 to KW4 — two counts side by side, and no correspondence stated.**
+
+The canonical reading, as the document reports it, gives Kael's fragmentation as „(die Gesellschaft des Selbst, aufgeteilt in 11 Anteile durch die TSDP)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L63], and the closing synthesis has the Mosaik-Herz refuse to fuse „die 11 Subsysteme von Kaels Persönlichkeit“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L168]. AEGIS' directive concerns order „innerhalb der simulierten Kernwelten (KW1 bis KW4)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L61]; the document writes `Kernwelt` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#1] once, `Kernwelten` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#2] twice and `Kern-Welt` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0] not at all.
+
+Its axis table sorts the parts by type with seven names: the ANPs „Manager-Typen (Kael, Lex, Aris)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L132] and the EPs „Executor-Typen (Nyx, Moros, Kiko, Lyra)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L132], with `Lyra` where the Moonshine-Link passage writes `Lia`. It names worlds only beside part types, never one beside one part: „(Cerberus-Labyrinth) versagen die logischen Abwehrmechanismen der ANPs vollständig“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L132].
+
+Stands as eleven parts, the document's own count, and four worlds; on the correspondence: none stated, a world is where part types act.
+
+## 2026-09-30 — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit
+
+**The audit names four alters, as discrete functional modules, and writes no Kern-Welt.**
+
+„Die im System agierenden Entitäten – Lex, Nyx, Kiko und Lia – fungieren nicht als metaphorisch“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L72] `gebrochene` fragments of a psyche (the line's own marks), „sondern werden strikt als präzise diskrete, funktionale Module behandelt“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L72]. The witness section names the four again, as „Alter-Persönlichkeiten (Lex, Nyx, Kiko, Lia)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L162] that Juna differentiates. No fifth is named. The document writes `Alters` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0], `Kernwelt` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0], `Kernwelten` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0] and `Kern-Welt` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0] not at all.
+
+Stands as a document that gives four alters, named; it says nothing on the number of Kern-Welten or on a correspondence.
