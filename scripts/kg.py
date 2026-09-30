@@ -103,17 +103,7 @@ def publish(graph, db, hashes):
 def index(db=DATABASE):
     import askdb
     try:
-        if not db.exists() or askdb.fresh(db):
-            import graph_snapshot
-            try:
-                return graph_snapshot.restore(db)
-            except (OSError, ValueError, KeyError, sqlite3.Error) as exc:
-                snapshot_reason = str(exc)
-        else:
-            snapshot_reason = None
         result = askdb.build(db)
-        if snapshot_reason:
-            result["snapshot_fallback"] = snapshot_reason
     except ValueError as exc:
         raise Refused(str(exc)) from exc
     return {**result, **{k: v for k, v in metadata(db).items() if k != "inputs"}}
@@ -249,8 +239,7 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--db", type=Path, default=DATABASE, help="derived index; default Plan/derived/ask.db")
     commands = parser.add_subparsers(dest="command", required=True)
-    commands.add_parser("export", help="export a source-checked logical snapshot and Markdown navigation under Graph/")
-    commands.add_parser("restore", help="restore Graph/manifest.json atomically; refuse stale or corrupt snapshots")
+    commands.add_parser("export", help="write a human-readable Markdown graph atlas under Graph/; no import or restore")
     commands.add_parser("index", help="rebuild on input change; unchanged input is a no-op")
     commands.add_parser("check", help="fail if absent or stale")
     s = commands.add_parser("search", help="FTS5 over verified evidence")
@@ -271,11 +260,9 @@ def main(argv=None):
             raise Refused("database must be a .db under Plan/derived; this command writes only derived data")
         if args.command == "index":
             output = index(args.db)
-        elif args.command in ("export", "restore"):
-            import graph_snapshot
-            output = getattr(graph_snapshot, args.command)(args.db)
-            # The CLI reports snapshot identities/counts, not every source hash.
-            output.pop("inputs", None)
+        elif args.command == "export":
+            import graph_export
+            output = graph_export.export(args.db)
         else:
             meta = freshness(args.db)
             if args.command == "check":

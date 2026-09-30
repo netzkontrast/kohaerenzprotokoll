@@ -1,0 +1,113 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "drive_id": "15oVqKg3T2X5onbUf0vtGh6yYcpSnRxLrP99m8SHrliI",
+  "step": "reconcile",
+  "at": "2026-09-30",
+  "by": "hand, after scripts/reconcile.py pre-classification; readings and record entries written by a Sonnet wiki-reader from Plan/runs/step6-readings-52-53/brief.md, placed by readings.py apply, committed per page by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 63,
+    "decisions": 62,
+    "decided_by_lookup": 32,
+    "needs_judgement": 30
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plan for one twist: its terms (Beobachter-Logik, Juna-Spiegelung, Große Stille, Externer Taktgeber) are readings on `kael`, `aegis` and `juna`, and none is defined as a thing of the world. No page is created from a plan's labels.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        27,
+        28,
+        54,
+        58
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        37,
+        39,
+        41,
+        42
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        17,
+        19,
+        20,
+        21,
+        34,
+        42,
+        48,
+        49,
+        53
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "kap-39",
+      "lines": [
+        44,
+        46,
+        48,
+        49
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        13,
+        15,
+        19,
+        20,
+        34
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-52-53/brief.md"
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "rules_applied": [
+    "J9",
+    "J28",
+    "J66",
+    "J70",
+    "J88",
+    "J105",
+    "J113"
+  ],
+  "not_promoted": [],
+  "found_by_rule_not_by_census": [],
+  "baseline_moved": "documents 52–54, measured together: graphrag bench PageRank recall@8 0.694 → 0.689, only Q5, 0.429 → 0.286; seeds unchanged at 0.531"
+}

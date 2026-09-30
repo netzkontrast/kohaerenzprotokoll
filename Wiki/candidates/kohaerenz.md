@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework"]
 gathered: "2026-09-17"
 ---
 
@@ -32,6 +32,14 @@ And the quantity it is measured by:
 
 The word occurs in both earlier sources — once in one, forty-eight times in the
 other — and neither defined it. A term can be everywhere and mean nothing yet.
+
+## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — Kohärenz-Wahrheit against Korrespondenz
+
+The document sets two truth theories against each other and uses the novel's word for one of them. „Die wahre Kohärenz-Wahrheit verlangt, dass Aussagen widerspruchsfrei in ein umfassendes System integriert werden (Hegels "Das Wahre ist das Ganze").“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L96] The coherence it calls true arises only when the system integrates contradiction: „Die tatsächliche $K\_1$-Kohärenz entsteht erst im "Mosaik-Herz" (Phase III), wenn das System parakonsistente Logik zulässt“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L102]
+
+The apparent coherence is the corrupt one: „AEGIS operiert unter dem Deckmantel der Kohärenz, agiert aber faktisch als Maschine der Entropie“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L83]
+
+In the check, the other pole is a narrative one: „Oder ermöglicht er eine narrative Kohärenz (Einbettung des Konflikts in das NCP)?“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L112]
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -175,3 +183,7 @@ The title: „AEGIS glaubt, Kohärenz zu erzwingen — tatsächlich erzwingt es 
 Not in date order with the readings above; placed after the last one. A narrative text — research, not text for the novel (the author, 2026-09-26). Kohärenz is the system's own law from the first status line Kael reads: „Perfektion war das Ziel. Kohärenz war das Gesetz." ^[kohaerenz-protokoll.md:L136], in the same passage as a numeric „Kohärenzindex des Wohnmoduls 100.00%" ^[kohaerenz-protokoll.md:L136]. And Kael turns the same word toward himself, against the system's version of it: „Der Verrat war der Anfang. Die Reise zur Kohärenz – seiner eigenen Kohärenz – hatte begonnen." ^[kohaerenz-protokoll.md:L316]
 
 At the close, integration lets the word settle on the system's law and on Kael's own healing at once, without separating the two: „Er war nicht mehr der Architekt, der einen Bauplan umsetzte, sondern der Gärtner, der die richtigen Bedingungen für Wachstum schuf und darauf vertraute, dass das Leben selbst – die Kohärenz – seinen Weg finden würde." ^[kohaerenz-protokoll.md:L2470] So the document keeps one word for two things the canon-era sources set against each other — AEGIS' forced version and Kael's own — never stating, as the master report and the worldbuilding concept do, that AEGIS only believes itself to hold it.
+
+## Where the sources differ
+
+- `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01: real Kohärenz is integration of contradiction, „Kohärenz-Wahrheit“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L94]; what AEGIS does under the name is Korrespondenz (L83).

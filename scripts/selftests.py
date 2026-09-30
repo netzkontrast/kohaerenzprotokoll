@@ -53,7 +53,7 @@ SUITES = [
     ("chapter sources: query, section", "std", ["scripts/chapter_sources.py", "selftest"]),
     ("links: once per page", "std", ["scripts/link.py", "selftest"]),
     ("graph", "std", ["scripts/graph.py", "--selftest"]),
-    ("graph snapshot: real round-trip", "graphqlite", ["scripts/graph_snapshot_selftest.py"]),
+    ("graph atlas: readable export", "std", ["scripts/graph_export_selftest.py"]),
     ("graphqlite: real extension", "graphqlite", ["scripts/kg_selftest.py"]),
     ("graphrag", "std", ["scripts/graphrag.py", "selftest"]),
     ("ui app", "std", ["scripts/ui.py", "selftest"]),

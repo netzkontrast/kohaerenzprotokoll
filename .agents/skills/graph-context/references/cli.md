@@ -6,7 +6,7 @@ No server or provider credentials are required.
 
 | command after `.venv-graphqlite/bin/python scripts/kg.py` | result |
 |---|---|
-| `index` | Build `Plan/derived/ask.db`; report `unchanged` if input hashes match. Restore a matching Graph snapshot, otherwise rebuild fully after a change. |
+| `index` | Build `Plan/derived/ask.db`; report `unchanged` if input hashes match. Rebuild fully from authoritative files after a change. |
 | `check` | Check input freshness; nonzero on an absent or stale database. |
 | `search "words" --limit 10` | FTS5/BM25 over verified quotations. Literal words, not Cypher or FTS syntax. |
 | `context "question" --max-bytes 12000` | Existing personalized PageRank and MMR; whole quotations, IDs, conflicts and questions; UTF-8 JSON size capped. |
@@ -42,4 +42,4 @@ atomic failure, unchanged-index reuse and byte-budget refusal.
 Not built: per-file partial updates, semantic reranking, impact analysis of
 chapter beats, automatic batch planning or model-token counting.
 
-`export` writes a checked logical JSONL/gzip snapshot under `Graph/` and a bounded Markdown navigation view. `restore` refuses incompatible, stale or corrupt snapshots and leaves the old database intact. `index` falls back to derivation when restoration is unavailable. Source-line text remains in Sources; it is indexed from those exact files during restoration, retrieved and cited only as needed.
+`export` writes a human-readable Markdown atlas under `Graph/`. Topic pages separate Wiki links, source readings, citation references, conflicts and questions. There is no import or restore, and the database builder never reads the atlas. Open and cite source lines only when needed for a concrete statement.

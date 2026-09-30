@@ -345,7 +345,7 @@ INPUTS = ("Sources/manifest.jsonl", "Sources/duplicates.jsonl", "Sources/drive/*
           "Plan/weichen/*.md", "Plan/entities/**/*", "scripts/askdb.py", "scripts/askextract.py",
           "scripts/graph.py", "scripts/kg.py", "scripts/quotes.py", "scripts/subject.py",
           "scripts/wiki_index.py", "scripts/capture.py", "scripts/read.py", "scripts/entities.py",
-          "scripts/graphrag.py", "scripts/graph_snapshot.py")
+          "scripts/graphrag.py")
 
 
 def inputs(root=ROOT):

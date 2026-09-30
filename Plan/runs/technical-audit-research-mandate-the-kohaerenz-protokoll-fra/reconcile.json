@@ -1,0 +1,285 @@
+{
+  "document": "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+  "drive_id": "1GE4s4O0FN5ZcN2p4t7E58ilGilTjWZDbky-XqvPvtdo",
+  "step": "reconcile",
+  "at": "2026-09-30",
+  "by": "hand, after scripts/reconcile.py pre-classification; readings and record entries written by a Sonnet wiki-reader from Plan/runs/step6-readings-54/brief.md, placed by readings.py apply, committed per page by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 211,
+    "decisions": 211,
+    "decided_by_lookup": 122,
+    "needs_judgement": 89
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An audit in English: its physics and mathematics (Landauer, Chaitin, the Leech lattice, VOAs, dialetheism, Tarski) are borrowed, and its mandates are about pages that exist. The Mnemosyne-Archipel goes on `resonanz-landschaft` as KW2's second name (J95), not on the Guardian (J49). No page is created from a mandate.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        7,
+        20,
+        27,
+        38,
+        39
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        12,
+        38
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        9,
+        27
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        3
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        20,
+        21,
+        30,
+        32
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        7,
+        11,
+        12,
+        13,
+        19,
+        28,
+        38
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        12,
+        38
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        3,
+        36,
+        40
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        3,
+        6
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        12,
+        38
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        12,
+        38
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "mnemosyne-server-architektur",
+      "lines": [
+        6,
+        36
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        3,
+        20
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        12,
+        38
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "plot",
+      "lines": [
+        31,
+        36,
+        40
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "q3-how-many-kern-welten-and-alters",
+      "lines": [
+        12,
+        38
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "q8-aegis-after-the-vortex",
+      "lines": [
+        38,
+        39
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        6,
+        9,
+        26,
+        36
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        26
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        13
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        9,
+        11,
+        12
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        36,
+        38
+      ],
+      "attribution": "",
+      "note": "written by a wiki-reader from step6-readings-54/brief.md"
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "q3-how-many-kern-welten-and-alters",
+    "q8-aegis-after-the-vortex"
+  ],
+  "judgements": [],
+  "rules_applied": [
+    "J28",
+    "J30",
+    "J39",
+    "J49",
+    "J53",
+    "J62",
+    "J81",
+    "J95",
+    "J98",
+    "J99",
+    "J100",
+    "J105",
+    "J106"
+  ],
+  "not_promoted": [],
+  "found_by_rule_not_by_census": [],
+  "baseline_moved": "documents 52–54, measured together: graphrag bench PageRank recall@8 0.694 → 0.689, only Q5, 0.429 → 0.286; seeds unchanged at 0.531"
+}

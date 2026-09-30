@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C11
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -47,6 +47,10 @@ by effect, never by identity. See [[partnerin|Partnerin]].
 
 `Mnemosyne` — see [[mnemosyne|Mnemosyne]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
+
+## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the Mnemosyne-Archipel as server substrate and site of the climax
+
+The audit writes the Mnemosyne-Archipel, not the Resonanz-Landschaft by name; the passages below are placed on the page as its second name, and the audit itself does not gloss them together. It is the „server substrate“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L6] to which Landauer's Principle is applied. It is the place of the audit's Axis II claim: „In the high-entropy environment of the Mnemosyne-Archipel“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L9], where „a monolithic consciousness is a liability“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L9]. The Risse are in it: the audit orders them read „as true contradictions“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L26]. The climax is placed there: „occurring within the server core of the Mnemosyne-Archipel“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L36].
 
 ## Open
 

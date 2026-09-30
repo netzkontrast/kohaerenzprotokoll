@@ -116,8 +116,8 @@ collections:
     includeByDefault: false
     context:
       "": >
-        Generated graph navigation and snapshot documentation. A cache view,
-        never an independent source or approved assertion. Follow links to
+        Human-readable graph atlas. A derived reading view,
+        never an independent source, database backup or approved assertion. Follow links to
         Sources/Wiki and retrieve a specific source window only when needed.
 
   all:

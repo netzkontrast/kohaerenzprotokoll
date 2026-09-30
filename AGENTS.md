@@ -10,10 +10,11 @@ executable SessionStart hook. Do not assume the host executes a Codex shell hook
 
 Delegated agents use `python3 scripts/knowledge.py init --profile reader --check`
 (or their research profile), report missing capabilities, and do not rebuild,
-restore or export shared stores. Follow `.agents/skills/reader-tools/SKILL.md`.
+export shared reading views. Follow `.agents/skills/reader-tools/SKILL.md`.
 
-The initializer keeps a fresh graph, restores a matching `Graph/` snapshot, or
-rebuilds from authoritative files. Export is explicit; never edit graph snapshots
-or generated Markdown by hand. Source lines are retrieved and cited only when
+The initializer keeps a fresh graph or rebuilds from authoritative files.
+`kg.py export` writes a human Markdown atlas under `Graph/`. No builder imports
+these pages and there is no restore command. Export is explicit; regenerate
+reading views after editing their authoritative inputs. Source lines are retrieved and cited only when
 needed for the assigned claim. Independent source readers do not load graph or
 wiki context before their extraction is frozen.

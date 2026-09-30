@@ -49,13 +49,12 @@ An offline regression exercises the wrong-first/right-second case.
 | Question/Conflict/Decision | explicit dependencies, recorded options, selected answer only when authored | treating related source passages or co-occurrence as an answered question |
 | Derivation | method/template version, input hashes, run, check results | a generic `learned:true` that obscures counted patterns versus model proposals |
 
-The full current graph is exported/restored **without silently rewriting this
-schema**. That is important: Line traversal, paragraph co-mentions and existing
-query contracts are already used. Span compression is a separate migration:
-keep a compatible virtual/materialized Line view, compare recall, source coverage,
-query answers and cold/warm costs, and then choose physical representation.
-The initial storage improvement removes duplicate source text from the snapshot;
-source lines are indexed from authoritative files during restoration.
+The human-readable export does not rewrite the database schema. Existing Line
+traversal, paragraph co-mentions and query contracts remain available through
+the database. Span compression is a separate migration: keep a compatible
+virtual/materialized Line view, compare query answers and costs, then choose
+physical representation. The atlas omits structural records and source text;
+it cannot recreate the database.
 
 For semantic reasoning, an Assertion node is worth its overhead. Two sources
 may state `AEGIS controls X` and `AEGIS does not control X`, or use different
@@ -100,24 +99,26 @@ current query should claim that these proposed labels are already installed.
 
 Do not add all seven ontologies upfront. Build the first useful query from
 existing records, keep its fixture, measure the gain, then grow the model. The
-current source structure and complete snapshot remain available throughout.
+current database and targeted source access remain available throughout.
 
-## Storage and session handover
+## Human-readable export and session handover
 
-A checked-in Graph directory holds a logical, compressed, content-addressed
-snapshot and a small generated Markdown navigation view. The portable format
-uses external IDs and named typed properties, not SQLite row IDs or executable
-Cypher/SQL. Duplicate edges and labels are preserved. A manifest pins schema,
-GraphQLite, all authoritative source/code hashes, archive and logical checksums,
-and record counts. It is published after its immutable archive.
+The author changed the purpose: Graph is a reading atlas, not a portable backup.
+`kg.py export` now writes topic pages and separate sources/conflicts/questions/
+decisions views. No full source text, evidence payloads, node-property dumps,
+serialized relationships or machine manifest are exported. No restore/import
+command exists and builders never read Graph. Text lines are cited only when a
+specific statement needs evidence. The view does not invent the source's position.
 
-At session startup: install tools → keep a fresh DB, or restore a matching
-snapshot, or rebuild. Restoration requires the exact sources and reconstructs
-source-line FTS from them; the archive is not a source backup. Invalid, stale or
-missing snapshots never suppress source verification. Explicit export publishes
-a new snapshot; merely starting a session does not rewrite committed exports.
-Markdown is an optional reading surface and is never parsed back as truth.
+At session startup: install tools → keep a fresh database or rebuild it from
+Sources/Wiki/Plan. Export remains explicit. A human edits authoritative files,
+then regenerates the atlas; editing an atlas page cannot change a graph fact.
 
-This preserves a given graph efficiently without conflating indexing, extraction,
-review and authority. Binary compression is a transport choice; logical JSONL
-remains inspectable after decompression and can have future versioned adapters.
+For context, the discarded cache prototype measured 41 seconds to rebuild,
+24 seconds to restore and 19 seconds to export, using installed tools and local
+files. That is a modest startup benefit, no token saving, and requires an
+unchanged source/code checkout. It did not justify making the readable atlas a
+binary archive. The final PR removes that prototype and its archives entirely.
+
+The useful knowledge additions remain the source-scoped assertions, reading
+coverage, explicit decisions and template/check lineage prioritized above.

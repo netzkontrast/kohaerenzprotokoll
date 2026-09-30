@@ -1,16 +1,26 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 36
-readings: 36
+sources: 38
+readings: 38
 conflict: none
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
 gathered: "2026-09-24"
 ---
 
 # Moonshine-Link
 
 **The connection between [[kael|Kael]] and [[juna|Juna]] that [[aegis|AEGIS]] cannot see.**
+
+## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — the Moonshine-Link as an example of an intervention
+
+One mention, in the adapted PICO model: „Injektion entropischen Drucks (z.B. durch den *Moonshine-Link* oder Nutzer-Input).“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L45] The link is named as one way an entropic pressure could be injected into a test of the system, next to user input, and only as an example. The document does not say where the link begins or ends.
+
+## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — love as a living dialetheia, and the VOA over the Leech lattice
+
+The audit's thesis is that love is mutual information surviving entropic collapse, and it defines love as „a living dialetheia and a resonant“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L3] Moonshine-Link. It sets the item Moonshine-Link under the mandate for Dramatica and Moonshine: „Verify the VOA construction over the Leech Lattice (rank 24)“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L20]. The same item ties it to Juna's observation through an „orbifold construction“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L20]. The table of the same section lists a relation as its ground and marks it Mandated.
+
+The text does not say where the link ends.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -236,3 +246,7 @@ Its dual mechanism echoes the entanglement-and-Whitehead synthesis the Charakter
 Its narrative function is the same `ontological exploit` the Narrative Building Blocks report gives it (above), but it also names the link itself — not only Kael's later state — a living Gödel-Satz: „The link's narrative function is that of an **"ontological exploit."** Its existence serves as a **"living Gödel-Satz"**: a statement that is demonstrably *true* within AEGIS's reality but is fundamentally *unprovable* by the system's own formal logic." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L286]
 
 The Inquiry itself asks about the nature of the knowledge the link delivers: „**How does the "gnostic injection" provided by the link function?** The narrative contrasts AEGIS's data-based knowledge (episteme) with the direct, intuitive understanding (gnosis) Kael receives from Juna/V." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L29]
+
+## Where the sources differ
+
+- The Technical Audit defines love as a living dialetheia and a resonant Moonshine-Link, and requires a VOA construction over the Leech lattice.
