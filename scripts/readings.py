@@ -412,9 +412,10 @@ def run(batch: str, write: bool, root: Path, folder: Path | None = None) -> int:
     if write:
         for target, text in staged.items():
             target.write_text(text, encoding="utf-8")
+        stems = " ".join(sorted({target.stem for target in staged}))
         print(f"\n{len(staged)} pages written, frontmatter derived, every check above held. "
-              "Next: link.py --apply marks the mentions the prose already makes; "
-              "then one commit per page naming its document.")
+              f"Next: `python3 scripts/link.py --only {stems} --apply` marks the mentions the prose already makes "
+              "in these pages alone; then one commit per page naming its document.")
     else:
         print(f"\n{len(staged)} pages would be written.")
     return 0
