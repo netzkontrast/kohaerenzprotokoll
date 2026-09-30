@@ -1,4 +1,4 @@
-# 015 — Decision sheets are cross-read first and put to the author in rounds
+# 016 — Decision sheets are cross-read first and put to the author in rounds
 
 **Date:** 2026-09-30 · **Decided by:** the author, four answers to `AskUserQuestion`
 (each the session's recommended option) · **Status:** in use

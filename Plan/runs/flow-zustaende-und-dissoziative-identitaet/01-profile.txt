@@ -1,0 +1,14 @@
+# flow-zustaende-und-dissoziative-identitaet
+  lines                278  (frontmatter ends at 9)
+  body words           6477
+  headings             27   bold-only lines 0
+  table rows           16   code fences 0
+  question marks       10
+  backslash escapes    64
+  typographic marks    26   ascii quotes 90
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    57
+  repeated labels      none
+  longest line         1247 chars
+

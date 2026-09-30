@@ -149,6 +149,10 @@ python3 scripts/reconcile.py <slug>              # pre-classify: lookup vs judge
 #   write Plan/runs/<slug>/reconcile.json  (state_before, state_after)
 #   write Wiki/compare/reconcile-NN-<slug>.md
 python3 scripts/judgements.py                    # replay; also re-renders judgements.md
+#   readings by wiki-reader subagents into Plan/runs/<batch>/readings/ (decision 015):
+python3 scripts/readings.py check <batch> && python3 scripts/readings.py apply <batch>
+python3 scripts/wiki_index.py --fix-frontmatter  # ingested/sources/readings derived from the page
+python3 scripts/lint_readings.py --doc <slug>    # what the review used to catch by hand
 ```
 
 **Reconciliation never reads the wiki** — it answers by lookup against

@@ -1,0 +1,303 @@
+written_by: document-reader subagent (Sonnet), 2026-09-29, while reading, before any count
+
+# Candidates — kohaerenz-protokoll-audit-und-verifizierung
+
+Written while reading the whole document once, in four parts (lines 1-70, 71-140, 141-200, 201-264), before any count. Every phrase of two or more words was asked of `read.py --find`, so it stands as the document writes it. A string under four characters is refused by that tool (Lex, Nyx, Lia, VOA, ECQ); those were read on lines 72, 107 and 127 and stand there whole.
+
+The document is an audit written from outside: it takes outside theories, applies each to a fiction it calls the Kohärenz-Protokoll, and reports every verdict as confirmed. Selection follows decision 012. The world section holds what the document names in the fiction, including its own coined compounds; the audit section holds its method, section heads, table column heads and verdict labels; the lens section holds the borrowed concepts it applies to the world. A scholar named as a source is not listed, since a person is neither a figure of the world nor a concept, except where the document makes the name part of the concept's own name (Landauer-Prinzip, Chaitins Omega, Husserlscher Zuschauer). Experiments and critics cited as evidence for a theory are left out for the same reason, and so are titles of cited works.
+
+The export dropped every mathematical symbol and left the hyphen or an empty pair of brackets behind. A compound whose first member is missing is listed as written, with its leading hyphen (`-Kern`), because it counts where the full form does not. Formulas are not listed; nothing of them survives to list. The names of the two kernels are written whole only in a heading and a table, so the bare `-Kern` of the running text is a slot whose symbol is lost. The four alters are named twice, and no line assigns any of them to a part or a module.
+
+## world
+
+- Kael
+- Juna
+- AEGIS
+- KI AEGIS
+- Entität AEGIS
+- Lex
+- Nyx
+- Kiko
+- Lia
+- Alter-Persönlichkeiten
+- funktionale Module
+- Beobachterin
+- Beobachter-Entität
+- Zeuge
+- Zeugen
+- Zeugenfunktion
+- Zeugenfunktion (Witness Function)
+- Witness Function
+- Kohärenz-Protokoll
+- Kohärenz-Protokoll Framework
+- Protokoll
+- Framework
+- Narrative
+- narrative Architektur
+- narrative Engine
+- Hard Science-Fiction
+- Kohärenz
+- Kohärenz-Kern
+- Löschungs-Kern
+- Kollaps-Kern
+- Kernel-Domäne
+- Server-Kern
+- -Kern
+- -Kerns
+- -Kohärenz
+- -Vektor
+- -Kollapswelle
+- -Knotenpunkt
+- -Symmetrie
+- -Verschränkung
+- -Reparaturenergie
+- Löschung
+- Auslöschung
+- Informationslöschung
+- Informationsauslöschung
+- Löschungsfeld
+- Löschungsdirektive
+- Löschungswelle
+- Löschungszyklen
+- Löschungsroutinen
+- Löschungsprozesse
+- Datenkorrosion
+- Zeitachse
+- Zeitachsen
+- Landauer Heat
+- Hitzeentwicklung (Landauer Heat)
+- Landauer-Hitze
+- Landauer Heat Spike
+- Wärmetod
+- informationeller Wärmetod (Informational Heat Death)
+- Informational Heat Death
+- Paritätsfehler
+- Speicherarray
+- informationelle Halluzinationen
+- architektonischer Schild
+- Architekturschild
+- Nichts-Rauschen
+- Transinformation
+- Mutual Information
+- Liebe ist Transinformation (Mutual Information)
+- Ontologie der Transinformation
+- zentrale These der Architektur
+- Eingangsthese
+- lebende Dialetheia
+- Moonshine-Link
+- entropischen Kollaps
+- Untraceability
+- Proto-Bewusstsein
+- Daten-Nutzlast (Data-Payload)
+- Daten-Nutzlast
+- Data-Payload
+- Narbenstrukturen
+- Firewall-Puffer
+- Trauma
+- Trauma-Pfade
+- Trauma-Paradigma
+- Multiplizität
+- psychologische Multiplizität
+- psychologische Modularität
+- Überlebensschuld
+- dissoziativen Schleifen
+- amnesischen Barrieren
+- Amnesische Barriere
+- informationelle Firewalls
+- Logische Firewall
+- Puffer-Modul
+- Isolierter Datenspeicher
+- Operative Schnittstelle
+- traumatischen Signatur
+- Datenüberlastung
+- Risse
+- cracks
+- Wahrheits-Rotation
+- Truth-Rotation
+- Forschungs-Mandat
+- Reinheit
+- Integration
+- Exklusion
+- Dual-Storyform-Architektur
+- Heuristik der Integration
+- Phoenix Collapse
+- Interferenzmuster
+- fünfdimensionales Interferenzmuster
+- fünfdimensionale Interferenz
+- 5D-Interferenzmuster
+- Mnemosyne-Archipel
+- Mnemosyne-Netzwerk
+- AEGIS-Datenbank
+- Bedrock
+- Grundgestein
+- Resonanzraum
+- twisted modules
+- getwistete Moduln
+- algorithmisch irreduzible Entität
+- Neuheit (Novelty)
+- Novelty
+- Deus ex Machina
+- Mosaikstruktur
+- konfligierenden Fußnoten
+- polyphonen Pronomen
+- Partizipative Universum
+- Rezipienten
+- externes Thermostat
+- Simulation
+- Vortex-Inversion
+- Server-Substrat
+- Hardware-Overload
+- algorithmische Melancholie
+- Algorithmischen Melancholie
+- autobiographische Anker der Stille
+- Stille
+- Telefongesprächs
+- Finale
+- Klimax
+
+## audit
+
+- Technical Audit
+- Audit
+- Quell-Triangulation
+- Verifizierung
+- Verifikation
+- Verifizierungs- und Widerspruchsprüfungs-Richtlinien
+- Audit-Markdowns
+- ReAct- und RISEN-Frameworks
+- ReAct-Frameworks
+- RISEN-Frameworks
+- ReAct-Modells
+- RISEN-Paradigma
+- ReAct
+- RISEN
+- Reasoning and Acting
+- Rolle (Role)
+- Instruktionen (Instructions)
+- Schritte (Steps)
+- Endziel (End goal)
+- Eingrenzung (Narrowing)
+- Achse
+- Achsen
+- Achse I
+- Achse II
+- Achse III & IV
+- Achse V & VI
+- Achse VII & VIII
+- Informations-Thermodynamik
+- Psychologische Modularität (TSDP)
+- struktureller Dissoziation
+- Strukturelle Wellenformen
+- Monster-Mondscheins
+- Parakonsistente Logik
+- Algorithmische Zufälligkeit
+- Symmetrie-Mathematik
+- parakonsistenter Logik
+- strengen Thermodynamik
+- klinischen Trauma-Psychologie
+- Charakteristik
+- Informationeller Status
+- Entropische Eigenschaft
+- Dissoziatives Modul (TSDP)
+- Narrative Funktion
+- Informationeller Status (DKT)
+- Theoretischer Anspruch
+- Mathematische Herkunft
+- Narrative Implementierung
+- Validierungsstatus
+- Bestätigt
+- Erforderlich
+- Verifiziert
+- Finales Audit-Urteil
+- uneingeschränkten Verifizierung
+- TSDP-Modelle
+- VOA-Orbifolds
+- dissoziative Identitätsfragmente
+- Datenpuffer
+
+## lens
+
+- Landauer-Prinzip
+- Landauer-Limit
+- Boltzmann-Konstante
+- Reversible Computing
+- Entropie
+- Informationsverarbeitung und -löschung
+- -löschung
+- Dual-Kernel Theory (DKT)
+- Dual-Kernel Theory
+- DKT
+- Collapse as  Intrusion
+- Verschränkung
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- Theory of Structural Dissociation of the Personality
+- TSDP
+- Janetian Action Systems
+- Evolutionäre Handlungssysteme
+- evolutionäre Handlungssysteme
+- Apparently Normal Parts (ANP)
+- ANP
+- ANP- und EP-Strukturen
+- Emotional Parts (EP)
+- EP
+- Fight/Flight
+- Fight
+- Flight
+- Total Submission
+- Large Language Model (LLM)
+- LLM
+- Dramatica
+- Dramatica-Theorie
+- Story Mind
+- Story Minds
+- Success/Good
+- Failure/Bad
+- Monstergruppe
+- Monster Group Order
+- Monstrous Moonshine
+- Moonshine
+- Moonshine-Theorem
+- Moonshine-Vermutung
+- Moonshine-Modul
+- -Funktion
+- Leech-Gitter
+- Leech Lattice
+- Vertexoperatoralgebren (VOA)
+- VOA
+- Orbifold
+- Orbifold-Konstruktion
+- Orbifold Construction
+- Gödelsche Unvollständigkeitssatz
+- Ex contradictione quodlibet
+- ECQ
+- Prinzip der Explosion
+- logische Explosion
+- Dialetheismus
+- Dialetheia
+- Logic of Paradox
+- parakonsistenten dialetheischen Logik
+- Chaitins Omega
+- Omega
+- Chaitins Halte-Wahrscheinlichkeit
+- Chaitinsche Zufälligkeit
+- algorithmischen Zufälligkeit
+- Tarskischen Wahrheitsdefinition
+- Tarskische Meta-Sprachen
+- Tarskischen Meta-Sprache
+- Meta-Sprache
+- Objekt-Sprache
+- Meta-Ebene
+- Rezeptionsästhetik (Reader-Response Theory)
+- Reader-Response Theory
+- Konstanzer Schule
+- Iserianische Phänomenologie
+- Kognitive Thermodynamik
+- Leerstellen
+- implizite Leser
+- Zero-Knowledge Proofs (ZKP)
+- Zero-Knowledge Proofs
+- ZKP
+- Quantum Entanglement Witness
+- Entanglement Witness
+- Husserlscher Zuschauer
+- transzendentale Beobachter

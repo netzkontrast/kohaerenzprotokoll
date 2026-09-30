@@ -1,0 +1,268 @@
+{
+  "document": "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
+  "drive_id": "1_nYuB-9lZFjRDBvq2-eKA-sVm1TEaK2wTLtSSu7Ru0g",
+  "step": "probes",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 34,
+  "backslash_escapes": 112,
+  "typographic_marks": 25,
+  "ascii_quotes": 120,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemen",
+      "Systementwicklung",
+      "Systemfehler",
+      "Systemgrenzen",
+      "Systemischen",
+      "Systemkollaps",
+      "Systemkommandos",
+      "Systemkomponenten",
+      "Systemkonflikt",
+      "Systemkontrolle",
+      "Systems",
+      "Systemstabilität",
+      "Systemzustands"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitäts",
+      "Identitätsbildung",
+      "Identitätssplitting",
+      "Identitätssplittings",
+      "Identitätszuweisung"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsfluss",
+      "Informationsgenerierung",
+      "Informationsgewinn",
+      "Informationsphysik",
+      "Informationsverlust"
+    ],
+    "deter": [
+      "Determinism",
+      "Determinismus",
+      "Deterministic",
+      "Deterministik",
+      "Deterministische",
+      "Deterministischen"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modellierungsphase",
+      "Modells"
+    ],
+    "speic": [
+      "Speicher",
+      "Speicherallokation",
+      "Speichermanagement",
+      "Speicherstrukturen",
+      "Speicherumgebungen",
+      "Speicherverwaltung"
+    ],
+    "datei": [
+      "Datei",
+      "Dateibasierte",
+      "Dateien",
+      "Dateisystem",
+      "Dateisystemzugriffe"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehleranalyse",
+      "Fehlerkorrektur",
+      "Fehlermeldung",
+      "Fehlerschleifen"
+    ],
+    "inter": [
+      "Interaktions",
+      "Interaktionsstil",
+      "Interpretationen",
+      "Intervention",
+      "Interventions"
+    ],
+    "invar": [
+      "INVARIANT",
+      "Invariance",
+      "Invariante",
+      "Invarianten",
+      "Invarianz"
+    ],
+    "ausfü": [
+      "Ausführung",
+      "Ausführungsebene",
+      "Ausführungsraum",
+      "Ausführungsthread"
+    ],
+    "berec": [
+      "Berechnung",
+      "Berechnungen",
+      "Berechnungsgewalt",
+      "Berechnungsmodelle"
+    ],
+    "diese": [
+      "Diese",
+      "Diesem",
+      "Dieser",
+      "Dieses"
+    ],
+    "gener": [
+      "Generalised",
+      "Generation",
+      "Generierung",
+      "Generierungen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungsanweisungen",
+      "Handlungsimpulse",
+      "Handlungsstrang"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "regel": [
+      "Regel",
+      "Regelbasierte",
+      "Regeln",
+      "Regelsystem"
+    ],
+    "spezi": [
+      "Spezifikation",
+      "Spezifikationen",
+      "Spezifikations",
+      "Spezifikationsdokumente"
+    ],
+    "story": [
+      "Story",
+      "Storyforming",
+      "Storytelling",
+      "Storyweavers"
+    ],
+    "zusta": [
+      "Zustand",
+      "Zustandsmaschine",
+      "Zustandsmaschinen",
+      "Zustandsübergänge"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentic"
+    ],
+    "analy": [
+      "Analyse",
+      "Analytische",
+      "Analytischer"
+    ],
+    "axiom": [
+      "Axiomatik",
+      "Axiome",
+      "Axiomensystem"
+    ],
+    "bedeu": [
+      "Bedeutung",
+      "Bedeutungen",
+      "Bedeutungsräume"
+    ],
+    "block": [
+      "Block",
+      "Blockaden",
+      "Blockierung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Chat",
+      "Schattentrajektorien"
+    ],
+    [
+      "Code",
+      "Encoders"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Diesem"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Free",
+      "Freezing"
+    ],
+    [
+      "Hard",
+      "Hardware"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Kern",
+      "Kerne"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Kern",
+      "Kernels"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernaufgabe"
+    ],
+    [
+      "Kern",
+      "Rechenkerne"
+    ],
+    [
+      "Lage",
+      "Grundlage"
+    ],
+    [
+      "Lage",
+      "Grundlagen"
+    ],
+    [
+      "Lage",
+      "Auslagerung"
+    ]
+  ]
+}

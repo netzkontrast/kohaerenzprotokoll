@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      9
+  backslash escapes      88
+  typographic marks      158
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemadministrator, Systemarchitektur, Systeme, Systemen, Systemfehler, Systemischer, Systemkollaps, Systems, Systemstrategie, Systemtheorie
+  infor    Information, Informationen, Informationslöschung, Informationsparadoxon, Informationstheorie, Informationsverlust, Informationsverlusts, Informationsvolumen
+  inter    Interdisciplinary, Interface, Interferenz, Internal, Interne, Intervention
+  parad    Paradigma, Paradigmen, Paradox, Paradoxie, Paradoxien, Paradoxon
+  psych    Psyche, Psycho, Psychologie, Psychologische, Psychologischer, Psychotraumatologie
+  struk    Struktur, Strukturell, Strukturellen, Strukturerhaltung, Strukturmerkmale, Strukturverlust
+  korre    Korrekturen, Korrekturversuchen, Korrelationen, Korrespondenz, Korrespondenztheorie
+  traum    Traum, Trauma, Traumas, Traumata, Traumatisierung
+  daten    Daten, Datenkorruption, Datenmüll, Datensatz
+  emoti    Emotional, Emotionale, Emotionalen, Emotionen
+  grenz    Grenze, Grenzen, Grenzfläche, Grenzsituationen
+  ident    Identity, Identität, Identitäten, Identitätsstörung
+  konze    Konzept, Konzeptdokument, Konzepte, Konzepten
+  norma    Normal, Normalen, Normalität, Normalteiler
+  senso    Sensor, Sensoren, Sensorische, Sensory
+  verst    Verstand, Verstands, Verstrickung, Verständnis
+  wahrh    Wahrheit, Wahrheiten, Wahrheitstheorien, Wahrheitsverständnissen
+  wider    Widerspruch, Widerspruchsfreiheit, Widersprüche, Widersprüchen
+  überl    Überleben, Überlebens, Überlebensstrategie, Überlegenheit
+  archi    Archipel, Architektur, Architekturen
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinssprung
+  chara    Character, Charakter, Charaktere
+  diese    Diese, Dieser, Dieses
+  disso    Dissonanzen, Dissoziation, Dissoziativen
+  domin    Dominante, Dominantes, Dominanz
+
+# substring pairs -- never one term, often merged by accident
+  Buch < Logbucheinträge
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dual < Dualität
+  Dual < Dualismus
+  Ende < Verenden
+  Ende < Tendenzen
+  Ende < Umgreifende
+  Ende < Transzendenz
+  Exil < Exile
+  Exil < Exiliertes
+  Feld < Feldes
+  Form < Storyform
+  Form < Information
+  Form < Formalbeweis
+  Form < Informationen
+  Form < Transformation
+  Form < Quanteninformation
+  Form < Informationstheorie

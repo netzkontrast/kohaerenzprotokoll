@@ -120,7 +120,7 @@ def account_pair(first: str, second: str) -> dict:
     }
 
 
-def account_order() -> dict:
+def account_order(root: Path = ROOT) -> dict:
     """Does the pipeline's dependency order hold, per document?
 
     The steps have an order — extract before reconcile, and each reconciliation
@@ -132,11 +132,20 @@ def account_order() -> dict:
     ordering is plain Python and must never be left to judgement: it will be wrong
     on the day it matters. Here the order is checked rather than assumed.
     """
-    runs = ROOT / "Plan" / "runs"
+    runs = root / "Plan" / "runs"
     rows, violations = [], []
-    for census in sorted((ROOT / "Sources" / "terms").glob("*.md")):
+    # A reconciliation with no census or no note beside it is the gap decision 014
+    # found: a run that claimed the record and skipped the steps before it.
+    for record in sorted(runs.glob("*/reconcile.json")):
+        slug = record.parent.name
+        for kind, folder in (("census", "terms"), ("note", "notes")):
+            if not (root / "Sources" / folder / f"{slug}.md").exists():
+                violations.append({"document": slug, "kind": f"reconciled-without-{kind}",
+                                   "detail": f"{record.relative_to(root)} exists but "
+                                             f"Sources/{folder}/{slug}.md does not"})
+    for census in sorted((root / "Sources" / "terms").glob("*.md")):
         slug = census.stem
-        note = (ROOT / "Sources" / "notes" / f"{slug}.md").exists()
+        note = (root / "Sources" / "notes" / f"{slug}.md").exists()
         record = runs / slug / "reconcile.json"
         state = after = None
         if record.exists():

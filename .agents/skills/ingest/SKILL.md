@@ -194,6 +194,32 @@ was right the whole time its *caller* excluded exact fold-equality and reported
 three worlds as six new terms. **A green replay says the recorded decisions still
 hold, not that the code around them is right.**
 
+## 5b · The readings — reader files, pages written by code (decision 015)
+
+Readings, record entries and chapter readings are written by `wiki-reader`
+subagents (`.claude/agents/wiki-reader.md`, Sonnet), split by page group over a
+batch of documents that touch the same pages. The agent file holds every rule
+a reader follows; the session's brief carries only what this batch's documents
+say (`Plan/runs/<batch>/readings-brief.md`), never the rules again.
+
+```bash
+python3 scripts/runlog.py <batch> start readers         # and end, and each reader's usage
+python3 scripts/digest.py <page> --doc <slug>           # what a reader reads instead of the page
+python3 scripts/readings.py check <batch>               # every ^[?] placed, or refused with the nearest line
+python3 scripts/readings.py apply <batch>               # refuses while Wiki/ has changes
+python3 scripts/wiki_index.py --fix-frontmatter         # ingested, sources, readings derived
+python3 scripts/lint_readings.py --doc <slug>           # comparisons with no citation, stray quotes
+python3 scripts/runlog.py <batch> correct <class> <page> "<before>" "<after>"   # each review change
+```
+
+A reader never edits a page: it writes `Plan/runs/<batch>/readings/<page>--<slug>.md`
+with each quotation followed by `^[?]`, and code places the line. What
+`lint_readings.py` flags and `quotes.py` cannot see — a comparison with a
+document the paragraph does not cite, a count typed rather than asked — is what
+the review of 2026-09-28 corrected by hand and the quality sample of 2026-09-29
+still found (`Plan/runs/quality-sample-2026-09-29/`). Review the applied diff
+before committing; record every change in `corrections.jsonl`.
+
 ## 6 · Record what the run left
 
 ```bash

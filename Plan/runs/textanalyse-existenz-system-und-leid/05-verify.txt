@@ -1,0 +1,359 @@
+# 05-verify — textanalyse-existenz-system-und-leid
+# 2026-09-29, document-reader subagent (Sonnet). Every number the census (Sources/terms) and the note
+# (Sources/notes) state, with the command that produced it and its output. Word counts use
+# `python3 scripts/read.py textanalyse-existenz-system-und-leid --count "<words>"`: the first number is the case-sensitive whole-word count, which is what a
+# count mark in the census or the note claims; `scripts/quotes.py` checks every mark against it.
+
+## A. The candidate list
+
+$ grep -c '^- ' Plan/runs/textanalyse-existenz-system-und-leid/03-candidates.md
+239
+
+$ head -3 Plan/runs/textanalyse-existenz-system-und-leid/04-counts.txt
+# counts for 239 candidates
+# line numbers are FILE lines, as a citation writes them
+
+$ grep -n ' 0 word    0 in' Plan/runs/textanalyse-existenz-system-und-leid/04-counts.txt
+
+
+## B. Structure: headings, sections, the table, the references
+
+$ grep -n '^#' Sources/drive/textanalyse-existenz-system-und-leid.md | cut -c1-90
+13:# **Phänomenologie der Operationalen Schließung: Eine systemtheoretische und existenz
+18:## **1. Prolegomena: Die Ontologische Ur-Szene und das Ringen mit dem Nicht-Sein**
+28:### **1.1. Die Parmenideische Barriere und das östliche Gegenmodell**
+42:### **1.2. Das Rauschen als thermodynamischer und informationeller Antagonist**
+56:## **2. Die Mechanik der Systemgenese: Von der Resonanz zur Autopoiesis**
+64:### **2.1. Resonanz und Clusterbildung**
+74:### **2.2. Der autopoietische Sprung: Selbstverstärkung und Selbstreferenz**
+86:### **2.3. Operationale Schließung: Der „Klick“ der Exklusion**
+100:## **3. AEGIS: Mythologie, Militärtechnik und die Herrschaft des Codes**
+108:### **3.1. Der Mythos der Aegis: Schutz und Schrecken**
+118:### **3.2. Das AEGIS Combat System: Automatisierte Vernichtung**
+134:### **3.3. Der Binäre Code: Kohärenz vs. Inkohärenz**
+148:## **4. Die Phänomenologie des Innenlebens: Das Subjekt als Störfaktor**
+156:### **4.1. Vom Dasein zur Komponente 734**
+170:### **4.2. Die Überwelt: Simulation als Binnen-Realität**
+184:### **4.3. Das Phantom der Einsamkeit**
+194:## **5. Ontologische Reibung und die Krise des Realen**
+202:### **5.1. Die Entität als das Unsymbolisierbare**
+214:### **5.2. Resonanzkaskade: Die Rückkehr der Verdrängten Qualia**
+228:### **5.3. Das Paradoxon der Fehlausgerichteten Kohärenz**
+240:## **6. Das Kohärenz-Protokoll: Die Biopolitik der Information**
+248:### **6.1. Fragmentierung als Heilung (Sharding)**
+262:### **6.2. Die Negation der Negation**
+278:## **7. Strukturierte Synopse der Kernkonzepte**
+300:## **8. Konklusion: Die Aporie der Sicherheit und die Einsamkeit des Codes**
+312:#### **Referenzen**
+
+$ grep -c '^## ' Sources/drive/textanalyse-existenz-system-und-leid.md
+8
+
+$ grep -c '^#' Sources/drive/textanalyse-existenz-system-und-leid.md
+26
+
+$ sed -n '286,298p' Sources/drive/textanalyse-existenz-system-und-leid.md | cut -c1-60
+|  |  |  |
+| :-: | :-: | :-: |
+| \*\*Narratives Element (Text)\*\* | \*\*Theoretisches Konz
+| \*\*Das Nichts / Rauschen\*\* | \*Ouk on\* (Parmenides) 2 
+| \*\*Fragment / Ich\*\* | \*Dasein\* (Heidegger) / \*Psychi
+| \*\*Resonanz\*\* | \*Resonanz\* (Luhmann) 9 | Die Fähigke
+| \*\*AEGIS\*\* | \*Autopoietisches System\* 15 / \*Symbolis
+| \*\*Der „Klick“\*\* | \*Operationale Schließung\* 12 
+| \*\*Überwelt\*\* | \*Re-entry\* / \*Simulation\* (Baudril
+| \*\*Entität\*\* | \*Das Reale\* (Lacan) / \*Strukturelle 
+| \*\*Kohärenz Protokoll\*\* | \*Immunsystem\* / \*Biopolit
+
+-----
+
+$ sed -n '314p;352p' Sources/drive/textanalyse-existenz-system-und-leid.md | cut -c1-70
+1.  Einleitung: Genesis der Existenz
+39. Sartre and Lacan: Considerations on the Concepts of the Subject an
+
+$ grep -c '^[0-9][0-9]*\.  ' Sources/drive/textanalyse-existenz-system-und-leid.md
+12
+
+$ sed -n '268,270p' Sources/drive/textanalyse-existenz-system-und-leid.md | cut -c1-50
+1.  **Position:** Das System (Ordnung).
+2.  **Negation:** Die Entität/Das Leiden (Störun
+3.  **Negation der Negation:** Die Vernichtung der
+
+$ grep -c 'Zugriff am November 18, 2025' Sources/drive/textanalyse-existenz-system-und-leid.md
+38
+
+$ grep -n '?' Sources/drive/textanalyse-existenz-system-und-leid.md | cut -c1-60
+24:Die Erzählung beginnt in einem Zustand radikaler Unbesti
+310:Die Antwort auf die im Text gestellte Frage – „Was w
+319:6.  What exactly is the difference between nothing and e
+328:15. Niklas Luhmann: What is Autopoiesis? - Critical Lega
+344:31. Autopoiesis by Definition - LARC @ Cardozo Law, Zugr
+346:33. Sociological Theory in the Absence of People: The Li
+349:36. Hunt, Nick: Being and Everythingness? - Aspects of F
+351:38. What is the qualia of nothingness to a deity, and ho
+
+$ grep -o '?' Sources/drive/textanalyse-existenz-system-und-leid.md | wc -l
+8
+
+$ python3 - <<'EOF'   # dotted numbers outside headings, in the prose (lines 10 to 311): is 1.0 the only version-like number?
+import re, sys
+sys.path.insert(0, "scripts")
+import capture
+body, off = capture.body_of("textanalyse-existenz-system-und-leid")
+for i, line in enumerate(body.split("\n")):
+    fl = i + off
+    if fl > 311 or line.startswith("#"):
+        continue
+    for m in re.finditer(r"\d+\.\d+", line):
+        print(fl, m.group(0), repr(line[max(0, m.start()-25): m.end()+8]))
+EOF
+244 1.0 ' das „Kohärenz Protokoll 1.0“. Es is'
+
+## C. The glued reference marks
+
+# A mark is a one- or two-digit number glued to the end of a sentence or clause (after a closing quotation mark, a period,
+# a closing parenthesis, a letter or an escaped asterisk), in the prose and the table, lines 10 to 311. Left out: numbers in
+# headings, the numbered list at lines 268 to 270, the component's number 734, the version 1.0 and AN/SPY-1.
+
+$ python3 - <<'EOF'   # tally of glued reference marks
+import re, sys
+sys.path.insert(0, "scripts")
+import capture
+body, off = capture.body_of("textanalyse-existenz-system-und-leid")
+pat = re.compile(r"(?P<pre>[“\"”)\.\]*]|[A-Za-zäöüßÄÖÜ])(?P<sp> ?)(?P<n>\d{1,2})(?=[\s,.;:)–—|/]|$)")
+marks = []
+for i, line in enumerate(body.split("\n")):
+    fl = i + off
+    if fl > 311 or line.startswith("#") or re.match(r"^\d+\.\s", line):
+        continue
+    for m in pat.finditer(line):
+        ctx = line[max(0, m.start()-12): m.end()+6]
+        if "1.0" in ctx or "SPY-1" in ctx or "734" in ctx:
+            continue
+        marks.append((fl, int(m.group("n"))))
+ones = [m for m in marks if m[1] == 1]
+others = [m for m in marks if m[1] != 1]
+cited = sorted({n for _, n in others})
+print("marks of reference 1:", len(ones))
+print("marks of references 2 to 38:", len(others))
+print("all marks:", len(marks))
+print("distinct external entries cited:", len(cited), cited)
+print("external entries never cited:", len(set(range(2, 40)) - set(cited)), sorted(set(range(2, 40)) - set(cited)))
+EOF
+marks of reference 1: 37
+marks of references 2 to 38: 40
+all marks: 77
+distinct external entries cited: 19 [2, 3, 5, 6, 8, 9, 11, 12, 13, 15, 17, 20, 21, 23, 28, 32, 34, 35, 38]
+external entries never cited: 19 [4, 7, 10, 14, 16, 18, 19, 22, 24, 25, 26, 27, 29, 30, 31, 33, 36, 37, 39]
+
+## D. Every count mark in the census and the note, asked of read.py
+
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "exakt"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "exakte"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "erinnert"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "würde"   -> 4   claimed 4   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "antizipiert"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "implizit"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "interpretiere ich"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Autor"   -> 0   claimed 0   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Verfasser"   -> 0   claimed 0   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Status"   -> 0   claimed 0   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kanon"   -> 0   claimed 0   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Version"   -> 0   claimed 0   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Zugriff am November 18, 2025"   -> 38   claimed 38   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Genesis der Existenz"   -> 5   claimed 5   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Einleitung: Genesis der Existenz"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Text"   -> 25   claimed 25   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Erzählung"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Textkorpus"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Abwehr"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Integration"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "AEGIS"   -> 33   claimed 33   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Aegis"   -> 15   claimed 15   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Luhmann"   -> 19   claimed 19   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Autopoiesis"   -> 8   claimed 8   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Systemtheorie"   -> 5   claimed 5   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kommunikation"   -> 4   claimed 4   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Parmenides"   -> 9   claimed 9   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Nagarjuna"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Ontological Friction"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Sartre"   -> 3   claimed 3   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Lacan"   -> 4   claimed 4   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Sartres"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Lacanschen"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Luhmanns"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Heideggers"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Baudrillards"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Foucaults"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kant"   -> 0   claimed 0   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Hegel"   -> 0   claimed 0   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kantischen"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Hegelschen"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kohärenz-Protokoll"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kohärenz Protokoll 1.0"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kohärenz Protokoll"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Der große Wandel"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Klick"   -> 3   claimed 3   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Klicken"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Operationale Schließung"   -> 3   claimed 3   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "operationale Geschlossenheit"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "operationalen Geschlossenheit"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Ich-Fragment"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Fragment"   -> 4   claimed 4   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Komponente 734"   -> 6   claimed 6   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Subjekt"   -> 11   claimed 11   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Ich"   -> 8   claimed 8   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Nichts"   -> 14   claimed 14   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Rauschen"   -> 14   claimed 14   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Leere"   -> 23   claimed 23   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Das Nichts / Rauschen"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Sein/Nicht-Sein"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kohärenz/Inkohärenz"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Erhalte Kohärenz / Vermeide Nicht-Sein"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Ontologische Reibung"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Ontologischen Reibung"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "ontologische Reibung"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "geshardet"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Sharding"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Herrschaftsinstrument"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "US Navy"   -> 2   claimed 2   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "AN/SPY-1"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Command and Decision System"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Athena"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Medusa"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "734"   -> 6   claimed 6   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Komponente"   -> 7   claimed 7   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Cluster"   -> 5   claimed 5   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Subsysteme"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Funktionseinheit"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Śūnyatā"   -> 5   claimed 5   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "pratītyasamutpāda"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "être-pour-soi"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "être-en-soi"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Leid"   -> 0   claimed 0   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Leiden"   -> 5   claimed 5   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "1.0"   -> 1   claimed 1   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kapitel"   -> 0   claimed 0   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kap"   -> 0   claimed 0   ok
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Roman"   -> 0   claimed 0   ok
+
+# 88 distinct marked phrases, 0 wrong
+
+## E. Prose against references
+
+$ python3 - <<'EOF'   # split of candidate counts between the prose (file lines 10 to 311) and the references (312 to 353)
+import sys
+sys.path.insert(0, "scripts")
+import capture
+from wiki_index import mention
+body, off = capture.body_of("textanalyse-existenz-system-und-leid")
+lines = body.split("\n")
+cut = 312 - off
+prose, refs = "\n".join(lines[:cut]), "\n".join(lines[cut:])
+for t in ["AEGIS", "Aegis", "Aegis Combat System", "Luhmann", "Systemtheorie", "Autopoiesis", "Kommunikation", "Parmenides", "Nagarjuna", "Ontological Friction", "Sartre", "Lacan", "Genesis der Existenz", "Text"]:
+    p, r = len(mention(t).findall(prose)), len(mention(t).findall(refs))
+    print(f"{t:24} prose {p:3}  references {r:3}  total {p + r}")
+EOF
+AEGIS                    prose  30  references   3  total 33
+Aegis                    prose   6  references   9  total 15
+Aegis Combat System      prose   1  references   3  total 4
+Luhmann                  prose  12  references   7  total 19
+Systemtheorie            prose   4  references   1  total 5
+Autopoiesis              prose   4  references   4  total 8
+Kommunikation            prose   2  references   2  total 4
+Parmenides               prose   8  references   1  total 9
+Nagarjuna                prose   1  references   1  total 2
+Ontological Friction     prose   1  references   1  total 2
+Sartre                   prose   0  references   3  total 3
+Lacan                    prose   2  references   2  total 4
+Genesis der Existenz     prose   4  references   1  total 5
+Text                     prose  25  references   0  total 25
+
+$ sed -n '338p;340p;342p' Sources/drive/textanalyse-existenz-system-und-leid.md | cut -c1-70
+25. AEGIS Definition & Meaning - Merriam-Webster, Zugriff am November 
+27. AEGIS Weapon System \> United States Navy \> Display-FactFiles, Zu
+29. The history of the AEGIS combat system - RUSI of NSW, Zugriff am N
+
+$ python3 - <<'EOF'   # where the whole-word AEGIS and Aegis stand in the references
+import re, sys
+sys.path.insert(0, "scripts")
+import capture
+from wiki_index import mention
+body, off = capture.body_of("textanalyse-existenz-system-und-leid")
+for i, line in enumerate(body.split("\n")):
+    fl = i + off
+    if fl >= 312:
+        for term in ("AEGIS", "Aegis"):
+            for m in mention(term).finditer(line):
+                print(fl, term, repr(line[max(0, m.start()-8): m.end()+14]))
+EOF
+334 Aegis '21. Aegis Combat System'
+335 Aegis 'd Root: Aegis - Wordpandit,'
+336 Aegis '23. Aegis - Wikipedia, '
+336 Aegis 'rg/wiki/Aegis>'
+337 Aegis '24. Aegis | Oxford Clas'
+338 AEGIS '25. AEGIS Definition & '
+339 Aegis '26. Aegis - Greek Mytho'
+339 Aegis 'lements/Aegis/aegis.html>'
+340 AEGIS '27. AEGIS Weapon System'
+341 Aegis 'ties of Aegis Combat System'
+342 AEGIS ' of the AEGIS combat system'
+343 Aegis '30. Aegis Combat System'
+
+## F. The synopsis table (lines 286 to 296) holds none of these words
+
+$ python3 - <<'EOF'   # words inside the table, by line range
+import sys
+sys.path.insert(0, "scripts")
+import capture
+from wiki_index import mention
+body, off = capture.body_of("textanalyse-existenz-system-und-leid")
+lines = body.split("\n")
+table = "\n".join(lines[286 - off: 296 - off + 1])
+for w in ["Komponente", "Resonanzkaskade", "Sharding", "Code", "Codes", "Kohärenz/Inkohärenz", "Sein/Nicht-Sein", "Protokoll", "Resonanz", "AEGIS", "Überwelt", "Entität"]:
+    print(f"{w:22} in the table: {len(mention(w).findall(table))}")
+EOF
+Komponente             in the table: 0
+Resonanzkaskade        in the table: 0
+Sharding               in the table: 0
+Code                   in the table: 0
+Codes                  in the table: 0
+Kohärenz/Inkohärenz    in the table: 0
+Sein/Nicht-Sein        in the table: 0
+Protokoll              in the table: 1
+Resonanz               in the table: 2
+AEGIS                  in the table: 2
+Überwelt               in the table: 1
+Entität                in the table: 1
+
+## G. The census tables against the count, term by term
+
+$ python3 - <<'EOF'   # every table row of the census, compared with quotes.count_words
+import json, re, sys
+sys.path.insert(0, "scripts")
+import quotes
+counts = json.load(open("Plan/runs/textanalyse-existenz-system-und-leid/counts.json"))["counts"]
+text = open("Sources/terms/textanalyse-existenz-system-und-leid.md", encoding="utf-8").read()
+rows = 0
+bad = []
+for line in text.split("\n"):
+    m = re.match(r"^\| (.+?) \| (\d+) \| (\d+) \|", line)
+    if not m or m.group(1) == "candidate":
+        continue
+    rows += 1
+    term, alone, inside = m.group(1), int(m.group(2)), int(m.group(3))
+    word, folded, incl = quotes.count_words("textanalyse-existenz-system-und-leid", term)
+    if (word, incl) != (alone, inside) or counts[term]["n"] != alone:
+        bad.append((term, alone, inside, word, incl))
+print("table rows:", rows, " candidates in counts.json:", len(counts), " rows that disagree with the count:", len(bad))
+for b in bad:
+    print("DISAGREES", b)
+EOF
+table rows: 239  candidates in counts.json: 239  rows that disagree with the count: 0
+
+## H. The note's frontmatter
+
+$ grep -n 'stance_marker_count' Sources/notes/textanalyse-existenz-system-und-leid.md
+5:stance_marker_count: 77
+
+# 37 marks of reference 1 + 40 of references 2 to 38 = 77 (section C).

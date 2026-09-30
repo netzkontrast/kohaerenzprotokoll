@@ -1,0 +1,14 @@
+# ki-assistent-romanwelt-kohaerenz-und-aegis-spec
+  lines                231  (frontmatter ends at 9)
+  body words           4346
+  headings             20   bold-only lines 1
+  table rows           21   code fences 0
+  question marks       2
+  backslash escapes    112
+  typographic marks    25   ascii quotes 120
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    34
+  repeated labels      none
+  longest line         940 chars
+

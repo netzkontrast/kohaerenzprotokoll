@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      3
+  backslash escapes      37
+  typographic marks      0
+  ascii quotes           18
+
+# inflection families -- one term, several surfaces
+  narra    Narrativ, Narrative, Narrativen, Narratologie
+  syste    System, Systematische, Systemreaktionen, Systemverhalten
+  archi    Architektonische, Architektur, Architekturen
+  epist    Epistemologische, Epistemologischen, Epistemologischer
+  forsc    Forschung, Forschungsfrage, Forschungsmethoden
+  infor    Information, Informationen, Informationstheoretisch
+  integ    Integration, Integrator, Integrität
+  konfl    Konflikt, Konflikte, Konflikts
+  ontol    Ontological, Ontologische, Ontologischen
+  parad    Paradigmen, Paradoxie, Paradoxon
+  therm    Thermodynamik, Thermodynamische, Thermodynamischer
+  wahrh    Wahrheit, Wahrheitsfindung, Wahrheitsfindungs
+  wider    Widerspruch, Widersprüche, Widersprüchen
+  agent    Agent, Agenten
+  analy    Analyse, Analysekriterium
+  audit    Audit, Audits
+  blind    Blindheit, Blindness
+  dokum    Dokument, Dokumentation
+  druck    Druck, Drucks
+  energ    Energie, Energiekosten
+  engin    Engine, Engineering
+  entsc    Entscheidung, Entscheidungen
+  frame    Framework, Frameworks
+  gatte    Gatter, Gattern
+  gödel    Gödels, Gödelsche
+
+# substring pairs -- never one term, often merged by accident
+  Test < Testen
+  Test < Stresstests
+  Text < Context
+  Text < Subtext
+  Text < Kontextfenster
+  Agent < Agenten
+  Audit < Audits
+  Druck < Drucks
+  Nutze < Nutzer
+  SKILL < Skill
+  State < States
+  Trace < Traces
+  Engine < Engineering
+  Format < Information
+  Format < Informationen
+  Format < Informationstheoretisch
+  Gatter < Gattern
+  Gödels < Gödelsche
+  Kosten < Energiekosten
+  System < Ökosystem

@@ -257,8 +257,8 @@ The end is written as integration, without the name: „seine Fragmente sind erf
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint — Kapitel 27: fusion, not its refusal, and Kapitel 31: a fourth-option outcome
 
-**Unlike every later source, this one reaches multiplicity through fusion, not against it.** Kapitel 27: „Seine fragmentierten Alters verschmelzen zu einem kohärenten Ganzen, das im Einklang mit seiner M-Resonanz und der Moonshine-Verbindung steht." ^[monstergruppe-primzahlen-plot-blueprint.md:L298] The word itself is `verschmelzen` — a fusion — where every later read source states the opposite rule (`Fusion` and `fusioniert` 0, `verschmelzen` once; `05-verify-readers.txt`).
-**Kapitel 31 leaves even this open**, among the fates it lists for AEGIS rather than for Kael: adaptation would mean „beginnt AEGIS, seine grundlegenden Annahmen zu überdenken" ^[monstergruppe-primzahlen-plot-blueprint.md:L344], inspired by the coherence it has just seen. The oldest read source is also the only one where the fused state is presented as a victory over AEGIS' logic rather than a refusal of AEGIS' own goal.
+**This one reaches multiplicity through fusion, not against it.** Kapitel 27: „Seine fragmentierten Alters verschmelzen zu einem kohärenten Ganzen, das im Einklang mit seiner M-Resonanz und der Moonshine-Verbindung steht." ^[monstergruppe-primzahlen-plot-blueprint.md:L298] The word itself is `verschmelzen` — a fusion (`Fusion` and `fusioniert` 0, `verschmelzen` once; `05-verify-readers.txt`).
+**Kapitel 31 leaves even this open**, among the fates it lists for AEGIS rather than for Kael: adaptation would mean „beginnt AEGIS, seine grundlegenden Annahmen zu überdenken" ^[monstergruppe-primzahlen-plot-blueprint.md:L344], inspired by the coherence it has just seen. Here the fused state is presented as a victory over AEGIS' logic rather than a refusal of AEGIS' own goal.
 
 ## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — born of accepting K0, true on every level at once, in no named chapter
 

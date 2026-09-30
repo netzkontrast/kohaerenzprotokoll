@@ -1,0 +1,14 @@
+# hard-sci-fi-cosmic-horror-research-questions
+  lines                392  (frontmatter ends at 9)
+  body words           7516
+  headings             42   bold-only lines 0
+  table rows           26   code fences 0
+  question marks       43
+  backslash escapes    190
+  typographic marks    66   ascii quotes 350
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    122
+  repeated labels      none
+  longest line         988 chars
+

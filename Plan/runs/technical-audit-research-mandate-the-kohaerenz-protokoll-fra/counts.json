@@ -1,0 +1,1625 @@
+{
+  "document": "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+  "drive_id": "1GE4s4O0FN5ZcN2p4t7E58ilGilTjWZDbky-XqvPvtdo",
+  "step": "counts",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz-Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        1,
+        3,
+        29,
+        40
+      ]
+    },
+    "Hard Sci-Fi": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3,
+        29
+      ]
+    },
+    "narrative engine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "information thermodynamics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "systemic narrative collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "informational heat death": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "informational hallucinations": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "Love is mutual information surviving entropic collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "living dialetheia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        3,
+        20,
+        21
+      ]
+    },
+    "emotional integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "erasure field": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "Axis I": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        3,
+        9,
+        17
+      ]
+    },
+    "Information Thermodynamics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "Dual-Kernel Theory (DKT)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "Dual-Kernel Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "DKT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3,
+        5
+      ]
+    },
+    "Coherence Kernel ( $K\\_1$ )": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "K\\_1": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        3,
+        7,
+        8,
+        9,
+        13,
+        29,
+        36,
+        40
+      ]
+    },
+    "Erasure Kernel ( $K\\_0$ )": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "Erasure Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "K\\_0": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        3,
+        6,
+        8,
+        9,
+        13,
+        40
+      ]
+    },
+    "advance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "Thermodynamic Cost of Erasure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        6
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        6,
+        9,
+        26,
+        36
+      ]
+    },
+    "server substrate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        6
+      ]
+    },
+    "Kollaps-Kern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        6
+      ]
+    },
+    "\"Kollaps-Kern\" ( $K\\_0$ )": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        6
+      ]
+    },
+    "engine of history": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        6
+      ]
+    },
+    "Stress-Test Requirement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        7
+      ]
+    },
+    "Kael": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        7,
+        11,
+        13,
+        19,
+        28,
+        34,
+        38
+      ]
+    },
+    "AEGIS": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        7,
+        8,
+        13,
+        17,
+        19,
+        20,
+        27,
+        28,
+        34,
+        38,
+        39
+      ]
+    },
+    "self-repair mechanisms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        7
+      ]
+    },
+    "Foundation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        7,
+        21
+      ]
+    },
+    "\"Foundation\" (the Monster Group symmetry)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        7
+      ]
+    },
+    "operational closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        7
+      ]
+    },
+    "bedrock": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        7,
+        21,
+        40
+      ]
+    },
+    "Heat Generation Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        8
+      ]
+    },
+    "Landauer heat": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        8,
+        38
+      ]
+    },
+    "purity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        8
+      ]
+    },
+    "anomalous human data": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        8
+      ]
+    },
+    "coherence-seeking system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        8
+      ]
+    },
+    "dissociative multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        8
+      ]
+    },
+    "Systemic Risks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        9
+      ]
+    },
+    "Logical \"cracks\"": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        9
+      ]
+    },
+    "trauma": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        9,
+        28,
+        34
+      ]
+    },
+    "narrative time": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        9
+      ]
+    },
+    "fire": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        9,
+        15
+      ]
+    },
+    "scars": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        9
+      ]
+    },
+    "continuous potentiality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        9
+      ]
+    },
+    "substrate": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        6,
+        7,
+        9,
+        29,
+        40
+      ]
+    },
+    "Axis II": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        9,
+        17
+      ]
+    },
+    "Psychological Modularity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        9
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        9,
+        10
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality (TSDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        9
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        9
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Janetian action systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Apparently Normal Parts (ANP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "ANP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "Emotional Parts (EP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "EP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "informational buffers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Module Identification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        12
+      ]
+    },
+    "alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        12,
+        33
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        12,
+        38
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        12,
+        38
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        12,
+        38
+      ]
+    },
+    "Lia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        12,
+        38
+      ]
+    },
+    "discrete functional modules": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        12
+      ]
+    },
+    "dissociative loops": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        12
+      ]
+    },
+    "Truth-Rotation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Architectural Mandate": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        40
+      ]
+    },
+    "coherence": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        8,
+        13,
+        40
+      ]
+    },
+    "chaos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "exclusionary erasure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "persistence through multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Critical Consistency Takeaways": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        14
+      ]
+    },
+    "Modular Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "ANP/EP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "informational firewalls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "climax": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        28,
+        36
+      ]
+    },
+    "Buffer Mechanics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "physical data-payload": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "logical explosion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        23
+      ]
+    },
+    "Persistence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        8,
+        13
+      ]
+    },
+    "erasure sweeps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Axis III & IV": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Structural Waveforms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Monstrous Symmetry": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "dual-storyform": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "5D interference pattern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Dramatica & Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Dual-Storyform Architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "interference pattern": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        19
+      ]
+    },
+    "Heuristics of Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Success/Good": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Phoenix Collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Failure/Bad": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "VOA construction": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        20,
+        21
+      ]
+    },
+    "Leech Lattice (rank 24)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "orbifold construction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "linear timeline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Juna’s Positioning": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Juna": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        20,
+        21,
+        30,
+        32
+      ]
+    },
+    "living Gödel-sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "5th position": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Dramatica quad": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "algorithmically irreducible entity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Theoretical Mathematical Claim": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Narrative Requirement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Alignment Status": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Monster Group Order": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "8 \\\\times 10^{53}": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Prescribed": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Mandated": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Required": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Verified": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "196884 = 196883 + 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Leech Lattice Rank 24": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Orbifold Construction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Axis V & VI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Paraconsistent Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Algorithmic Advance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Logic & Randomness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Dialetheic Cracks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "\"Risse\" (cracks)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "cracks": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        9,
+        26
+      ]
+    },
+    "dialetheias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "true contradictions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Creative Advance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "\\\\Omega": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "algorithmic randomness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "deterministic clockwork": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Tarskian Meta-language": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "deus ex machina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "\"So What?\" Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Axis VII & VIII": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Participatory Universe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Witness Function": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        32
+      ]
+    },
+    "thermodynamic substrate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "repair energy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        31
+      ]
+    },
+    "story Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Reader & Juna": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Reader Function": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "reader": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        31,
+        36
+      ]
+    },
+    "39 fragmented chapters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "conflicting footnotes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "nothingness static": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "The Witness Function (Juna)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Quantum Entanglement Witness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Zero-Knowledge Verifier": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Prover": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Husserlian Spectator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Mosaic Execution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "writer LLM": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "polyphonic pronouns": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "mosaic structure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Vortex Inversion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        38
+      ]
+    },
+    "Autobiographical Anchor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        40
+      ]
+    },
+    "ontological rotation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "server core": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Vortex Inversion Mechanics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "amnesic barriers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "mutual-information-dense structure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Landauer heat spike": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "fractured AI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "terminal self-reflection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "broken paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Silence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "foundational phone call": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "high-density informational bedrock": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "39-chapter mosaic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "dialetheic truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "logical crack": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "protocol": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        3,
+        23
+      ]
+    },
+    "erased data": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "simulated meaning": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "erasure": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        3,
+        9,
+        13,
+        17
+      ]
+    },
+    "Landauer’s Principle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3,
+        6
+      ]
+    },
+    "W \\\\geq k\\_B T \\\\ln 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "parity errors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3
+      ]
+    },
+    "entropy": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        9,
+        40
+      ]
+    },
+    "entropic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3,
+        8
+      ]
+    },
+    "mutual information": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        3,
+        12,
+        40
+      ]
+    },
+    "Dialetheism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "dialetheia": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        3,
+        26
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Graham Priest": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Chaitin": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        27
+      ]
+    },
+    "Chaitin’s Halting Probability": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Halting Probability": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "uncomputability": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Gödel-sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Tarskian meta-language": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "meta-language": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        29
+      ]
+    },
+    "Monster Group": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        7,
+        17,
+        21
+      ]
+    },
+    "Moonshine": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        3,
+        18,
+        20,
+        21
+      ]
+    },
+    "Leech Lattice": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        20,
+        21
+      ]
+    },
+    "VOA": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        20,
+        21
+      ]
+    },
+    "twisted modules": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "involution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Dramatica": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        18,
+        21
+      ]
+    },
+    "storyform": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        19
+      ]
+    },
+    "Iserian phenomenology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "transcendental ego": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "wavefunction collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    }
+  }
+}

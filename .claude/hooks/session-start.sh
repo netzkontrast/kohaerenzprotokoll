@@ -19,8 +19,8 @@ if [ -n "${CLAUDE_ENV_FILE:-}" ]; then
 fi
 export PATH="$HOME/.local/bin:$PATH"
 
-echo "session-start: scripts/install.sh (log: .install.log)"
-if "$ROOT/scripts/install.sh" >"$LOG" 2>&1; then
+echo "session-start: scripts/install.sh --session (log: .install.log)"
+if "$ROOT/scripts/install.sh" --session >"$LOG" 2>&1; then
   cat "$LOG"
 else
   cat "$LOG"

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      47
+  backslash escapes      80
+  typographic marks      256
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    System, Systeme, Systemerhaltung, Systemfehler, Systemgenese, Systemreferenz, Systems, Systemtheoretisch, Systemtheorie, Systemwerdung
+  infor    Information, Informational, Informationen, Informationsethik, Informationsflüssen, Informationskörper, Informationsmüll, Informationstrennung
+  inter    Interaktionssysteme, Interdependenz, Interessant, Interferenz, International, Interpretation
+  psych    Psychische, Psychischen, Psychisches, Psychoanalyse, Psychoanalysis
+  selbs    Selbst, Selbsterhaltung, Selbstorganisation, Selbstreferenz, Selbstverstärkung
+  struk    Struktur, Strukturanpassung, Strukturelle, Strukturierte, Strukturinformationen
+  fragm    Fragment, Fragmente, Fragmentierung, Fragments
+  mytho    Mythologie, Mythologisch, Mythology, Mythos
+  ontol    Ontological, Ontologie, Ontologische, Ontologischen
+  opera    Operational, Operationale, Operationalen, Operationen
+  theor    Theoretical, Theoretisches, Theorie, Theory
+  autop    Autopoiesis, Autopoietic, Autopoietisches
+  daten    Daten, Datenbanktechnologie, Datenkorruption
+  diese    Diese, Dieser, Dieses
+  eigen    Eigenen, Eigenschaften, Eigenwesen
+  eleme    Element, Elemente, Elements
+  funkt    Funktion, Funktionalisierung, Funktionseinheit
+  leben    Leben, Lebendige, Lebens
+  philo    Philosophie, Philosophisch, Philosophy
+  reson    Resonanz, Resonanzkaskade, Resonanzmuster
+  sartr    Sartre, SartreLacan, Sartres
+  sozia    Soziale, Sozialer, Sozialsysteme
+  subje    Subject, Subjekt, Subjekts
+  umwel    Umwelt, Umweltreize, Umweltstörungen
+  wiede    Wiedereinführung, Wiedereintritt, Wiederherstellung
+
+# substring pairs -- never one term, often merged by accident
+  Auto < Autonomie
+  Auto < Autopoiesis
+  Auto < Autopoietic
+  Auto < Automatisierte
+  Auto < Automatisierung
+  Auto < Autopoietisches
+  Code < Codes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Fact < FactFiles
+  Feld < Bielefeld
+  Form < Information
+  Form < Formenkalküls
+  Form < Informational
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsmüll
+  Form < Informationsethik

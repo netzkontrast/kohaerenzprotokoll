@@ -1,0 +1,14 @@
+# aegis-persona-and-manifest-generation
+  lines                192  (frontmatter ends at 9)
+  body words           4984
+  headings             17   bold-only lines 0
+  table rows           8   code fences 0
+  question marks       2
+  backslash escapes    149
+  typographic marks    32   ascii quotes 22
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    10
+  repeated labels      none
+  longest line         1046 chars
+

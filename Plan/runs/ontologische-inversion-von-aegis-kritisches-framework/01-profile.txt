@@ -1,0 +1,14 @@
+# ontologische-inversion-von-aegis-kritisches-framework
+  lines                167  (frontmatter ends at 9)
+  body words           946
+  headings             17   bold-only lines 2
+  table rows           0   code fences 0
+  question marks       15
+  backslash escapes    37
+  typographic marks    0   ascii quotes 18
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    3
+  repeated labels      none
+  longest line         373 chars
+

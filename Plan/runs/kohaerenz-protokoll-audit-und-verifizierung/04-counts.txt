@@ -1,0 +1,348 @@
+# counts for 285 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              8 word    12 in   [53, 83, 93, 135, 143, 145]
+                                    4      as Kaels
+  Juna                             11 word    12 in   [111, 113, 121, 123, 143, 159]
+                                    1      as Junas
+  AEGIS                            27 word    28 in   [27, 37, 53, 81, 83, 93]
+                                    1      as AEGIS-Datenbank
+  KI AEGIS                          2 word     2 in   [53, 177]
+  Entität AEGIS                     2 word     2 in   [27, 179]
+  Lex                               2 word     2 in   [72, 162]
+  Nyx                               2 word     2 in   [72, 162]
+  Kiko                              2 word     2 in   [72, 162]
+  Lia                               2 word     2 in   [72, 162]
+  Alter-Persönlichkeiten            1 word     1 in   [162]
+  funktionale Module                1 word     1 in   [72]
+  Beobachterin                      2 word     2 in   [113, 121]
+  Beobachter-Entität                1 word     1 in   [159]
+  Zeuge                             1 word     6 in   [51, 147, 149, 159, 162, 165]  <-- substring
+                                    3      as Zeugenfunktion
+                                    2      as Zeugen
+  Zeugen                            2 word     5 in   [51, 147, 149, 159, 165]  <-- substring
+                                    3      as Zeugenfunktion
+  Zeugenfunktion                    3 word     3 in   [51, 147, 165]
+  Zeugenfunktion (Witness Function)    1 word     1 in   [51]
+  Witness Function                  1 word     1 in   [51]
+  Kohärenz-Protokoll               14 word    16 in   [1, 5, 11, 27, 37, 53]
+                                    2      as Kohärenz-Protokolls
+  Kohärenz-Protokoll Framework      2 word     2 in   [1, 203]
+  Protokoll                        11 word    36 in   [1, 5, 7, 11, 13, 19]  <-- substring
+                                    9      as Protokolls
+  Framework                         3 word     8 in   [1, 3, 5, 145, 199, 203]  <-- substring
+                                    1      as Frameworks
+  Narrative                         9 word     9 in   [53, 76, 117, 135, 139, 149]
+                                    6      as narrativen
+                                    1      as narrativefirst
+                                    1      as NARRATIVES
+  narrative Architektur             1 word     1 in   [87]
+  narrative Engine                  1 word     1 in   [11]
+  Hard Science-Fiction              1 word     1 in   [11]
+  Kohärenz                          4 word    25 in   [1, 5, 11, 19, 27, 37]  <-- substring
+                                   14      as Kohärenz-Protokoll
+                                    2      as Kohärenz-Kern
+                                    2      as Kohärenz-Protokolls
+  Kohärenz-Kern                     2 word     2 in   [19, 46]
+  Löschungs-Kern                    2 word     2 in   [19, 47]
+  Kollaps-Kern                      1 word     1 in   [27]
+  Kernel-Domäne                     1 word     1 in   [45]
+  Server-Kern                       1 word     1 in   [169]
+  -Kern                             6 word    20 in   [17, 19, 27, 39, 41, 46]  <-- substring
+                                    2      as -Kerns
+  -Kerns                            2 word     2 in   [51, 161]
+  -Kohärenz                         3 word     3 in   [51, 83, 162]
+  -Vektor                           1 word     1 in   [83]
+  -Kollapswelle                     1 word     1 in   [57]
+  -Knotenpunkt                      1 word     1 in   [175]
+  -Symmetrie                        1 word     1 in   [187]
+  -Verschränkung                    1 word     1 in   [119]
+  -Reparaturenergie                 1 word     1 in   [155]
+  Löschung                          6 word    18 in   [15, 19, 21, 27, 33, 37]  <-- substring
+                                    2      as Löschungsfeld
+                                    2      as Löschungs-Kern
+                                    2      as Löschungswelle
+                                    2      as Löschungsdirektive
+  Auslöschung                       2 word     2 in   [47, 83]
+  Informationslöschung              1 word     1 in   [19]
+  Informationsauslöschung           1 word     1 in   [27]
+  Löschungsfeld                     2 word     2 in   [15, 187]
+  Löschungsdirektive                2 word     2 in   [81, 93]
+  Löschungswelle                    2 word     2 in   [51, 53]
+  Löschungszyklen                   1 word     1 in   [57]
+  Löschungsroutinen                 1 word     1 in   [99]
+  Löschungsprozesse                 1 word     1 in   [197]
+  Datenkorrosion                    1 word     1 in   [57]
+  Zeitachse                         2 word     3 in   [27, 113, 121]
+                                    1      as Zeitachsen
+  Zeitachsen                        1 word     1 in   [121]
+  Landauer Heat                     3 word     3 in   [27, 171, 179]
+  Hitzeentwicklung (Landauer Heat)    1 word     1 in   [27]
+  Landauer-Hitze                    1 word     1 in   [37]
+  Landauer Heat Spike               2 word     2 in   [171, 179]
+  Wärmetod                          2 word     2 in   [13, 79]
+  informationeller Wärmetod (Informational Heat Death)    1 word     1 in   [13]
+  Informational Heat Death          1 word     1 in   [13]
+  Paritätsfehler                    1 word     1 in   [13]
+  Speicherarray                     1 word     1 in   [13]
+  informationelle Halluzinationen    2 word     2 in   [13, 193]
+  architektonischer Schild          1 word     1 in   [13]
+  Architekturschild                 1 word     1 in   [199]
+  Nichts-Rauschen                   1 word     1 in   [155]
+  Transinformation                 12 word    12 in   [15, 39, 46, 49, 53, 57]
+  Mutual Information                4 word     4 in   [15, 46, 83, 175]
+  Liebe ist Transinformation (Mutual Information)    1 word     1 in   [15]
+  Ontologie der Transinformation    1 word     1 in   [39]
+  zentrale These der Architektur    1 word     1 in   [15]
+  Eingangsthese                     1 word     1 in   [189]
+  lebende Dialetheia                1 word     1 in   [15]
+  Moonshine-Link                    3 word     3 in   [15, 105, 119]
+  entropischen Kollaps              3 word     3 in   [15, 163, 189]
+  Untraceability                    1 word     1 in   [47]
+  Proto-Bewusstsein                 2 word     2 in   [46, 49]
+  Daten-Nutzlast (Data-Payload)     1 word     1 in   [53]
+  Daten-Nutzlast                    1 word     1 in   [53]
+  Data-Payload                      1 word     1 in   [53]
+  Narbenstrukturen                  1 word     1 in   [53]
+  Firewall-Puffer                   1 word     1 in   [53]
+  Trauma                            6 word    17 in   [53, 59, 61, 63, 70, 79]  <-- substring
+                                    6      as traumatischen
+                                    1      as Trauma-Paradigma
+                                    1      as Traumaforschern
+                                    1      as Trauma-Folgestörungen
+  Trauma-Pfade                      1 word     1 in   [119]
+  Trauma-Paradigma                  1 word     1 in   [59]
+  Multiplizität                     3 word     3 in   [81, 83, 135]
+  psychologische Multiplizität      1 word     1 in   [83]
+  psychologische Modularität        1 word     1 in   [57]
+  Überlebensschuld                  1 word     1 in   [131]
+  dissoziativen Schleifen           1 word     1 in   [81]
+  amnesischen Barrieren             2 word     2 in   [81, 173]
+  Amnesische Barriere               1 word     1 in   [79]
+  informationelle Firewalls         1 word     1 in   [81]
+  Logische Firewall                 1 word     1 in   [79]
+  Puffer-Modul                      1 word     1 in   [77]
+  Isolierter Datenspeicher          1 word     1 in   [78]
+  Operative Schnittstelle           1 word     1 in   [77]
+  traumatischen Signatur            1 word     1 in   [78]
+  Datenüberlastung                  1 word     1 in   [79]
+  Risse                             3 word     3 in   [81, 135, 199]
+  cracks                            1 word     1 in   [135]
+  Wahrheits-Rotation                1 word     1 in   [83]
+  Truth-Rotation                    1 word     1 in   [83]
+  Forschungs-Mandat                 1 word     1 in   [83]
+  Reinheit                          2 word     2 in   [37, 83]
+  Integration                       4 word     6 in   [63, 93, 153, 173, 197]
+                                    1      as Integrationskapazität
+                                    1      as Integrationsprozess
+  Exklusion                         2 word     2 in   [37, 197]
+  Dual-Storyform-Architektur        1 word     1 in   [93]
+  Heuristik der Integration         1 word     1 in   [93]
+  Phoenix Collapse                  1 word     1 in   [93]
+  Interferenzmuster                 2 word     3 in   [87, 93, 120]
+  fünfdimensionales Interferenzmuster    1 word     1 in   [87]
+  fünfdimensionale Interferenz      1 word     1 in   [89]
+  5D-Interferenzmuster              1 word     1 in   [120]
+  Mnemosyne-Archipel                3 word     5 in   [27, 57, 131, 135, 169]
+                                    2      as Mnemosyne-Archipels
+  Mnemosyne-Netzwerk                1 word     1 in   [120]
+  AEGIS-Datenbank                   1 word     1 in   [118]
+  Bedrock                           3 word     3 in   [97, 118, 187]
+  Grundgestein                      1 word     1 in   [187]
+  Resonanzraum                      1 word     1 in   [99]
+  twisted modules                   3 word     3 in   [111, 113, 121]
+  getwistete Moduln                 1 word     1 in   [111]
+  algorithmisch irreduzible Entität    1 word     1 in   [123]
+  Neuheit (Novelty)                 1 word     1 in   [139]
+  Novelty                           1 word     1 in   [139]
+  Deus ex Machina                   1 word     1 in   [145]
+  Mosaikstruktur                    1 word     1 in   [155]
+  konfligierenden Fußnoten          1 word     1 in   [155]
+  polyphonen Pronomen               1 word     1 in   [155]
+  Partizipative Universum           1 word     1 in   [147]
+  Rezipienten                       2 word     2 in   [149, 155]
+  externes Thermostat               1 word     1 in   [155]
+  Simulation                        3 word     3 in   [127, 143, 159]
+  Vortex-Inversion                  2 word     2 in   [167, 169]
+  Server-Substrat                   1 word     1 in   [187]
+  Hardware-Overload                 1 word     1 in   [179]
+  algorithmische Melancholie        1 word     1 in   [171]
+  Algorithmischen Melancholie       1 word     1 in   [179]
+  autobiographische Anker der Stille    1 word     1 in   [181]
+  Stille                            4 word     4 in   [181, 183, 185, 187]
+  Telefongesprächs                  1 word     1 in   [183]
+  Finale                            1 word     3 in   [145, 169, 191]  <-- substring
+                                    2      as Finales
+  Klimax                            3 word     3 in   [167, 189, 195]
+  Technical Audit                   2 word     2 in   [1, 203]
+  Audit                            11 word    14 in   [1, 5, 7, 11, 37, 53]
+                                    1      as Auditors
+                                    1      as Audit-Markdowns
+                                    1      as Audit-Urteil
+  Quell-Triangulation               4 word     4 in   [1, 15, 165, 193]
+  Verifizierung                     2 word     3 in   [5, 11, 193]
+                                    1      as Verifizierungs-
+  Verifikation                      2 word     2 in   [9, 29]
+  Verifizierungs- und Widerspruchsprüfungs-Richtlinien    1 word     1 in   [11]
+  Audit-Markdowns                   1 word     1 in   [7]
+  ReAct- und RISEN-Frameworks       1 word     1 in   [3]
+  ReAct-Frameworks                  1 word     1 in   [5]
+  RISEN-Frameworks                  2 word     2 in   [3, 5]
+  ReAct-Modells                     1 word     1 in   [7]
+  RISEN-Paradigma                   1 word     1 in   [7]
+  ReAct                             1 word     4 in   [3, 5, 7, 193]  <-- substring
+                                    1      as ReAct-
+                                    1      as ReAct-Frameworks
+                                    1      as ReAct-Modells
+  RISEN                             1 word     4 in   [3, 5, 7, 193]  <-- substring
+                                    2      as RISEN-Frameworks
+                                    1      as RISEN-Paradigma
+  Reasoning and Acting              1 word     1 in   [5]
+  Rolle (Role)                      1 word     1 in   [7]
+  Instruktionen (Instructions)      1 word     1 in   [7]
+  Schritte (Steps)                  1 word     1 in   [7]
+  Endziel (End goal)                1 word     1 in   [7]
+  Eingrenzung (Narrowing)           1 word     1 in   [7]
+  Achse                             6 word     9 in   [7, 15, 17, 55, 85, 87]
+                                    3      as Achsen
+  Achsen                            3 word     3 in   [7, 15, 193]
+  Achse I                           1 word     3 in   [17, 55, 85]  <-- substring
+  Achse II                          1 word     2 in   [55, 85]
+  Achse III & IV                    1 word     1 in   [85]
+  Achse V & VI                      1 word     1 in   [125]
+  Achse VII & VIII                  1 word     1 in   [147]
+  Informations-Thermodynamik        2 word     2 in   [7, 17]
+  Psychologische Modularität (TSDP)    1 word     1 in   [55]
+  struktureller Dissoziation        1 word     1 in   [7]
+  Strukturelle Wellenformen         1 word     1 in   [85]
+  Monster-Mondscheins               1 word     1 in   [85]
+  Parakonsistente Logik             1 word     1 in   [125]
+  Algorithmische Zufälligkeit       1 word     1 in   [125]
+  Symmetrie-Mathematik              2 word     2 in   [7, 195]
+  parakonsistenter Logik            2 word     2 in   [7, 195]
+  strengen Thermodynamik            1 word     1 in   [195]
+  klinischen Trauma-Psychologie     1 word     1 in   [195]
+  Charakteristik                    1 word     1 in   [45]
+  Informationeller Status           2 word     2 in   [45, 76]
+  Entropische Eigenschaft           1 word     1 in   [45]
+  Dissoziatives Modul (TSDP)        1 word     1 in   [76]
+  Narrative Funktion                1 word     1 in   [76]
+  Informationeller Status (DKT)     1 word     1 in   [76]
+  Theoretischer Anspruch            1 word     1 in   [117]
+  Mathematische Herkunft            1 word     1 in   [117]
+  Narrative Implementierung         1 word     1 in   [117]
+  Validierungsstatus                1 word     1 in   [117]
+  Bestätigt                         2 word     2 in   [118, 119]
+                                    1      as bestätigten
+  Erforderlich                      1 word     1 in   [120]
+  Verifiziert                       1 word     1 in   [121]
+                                    1      as verifizierte
+  Finales Audit-Urteil              1 word     1 in   [191]
+  uneingeschränkten Verifizierung    1 word     1 in   [193]
+  TSDP-Modelle                      1 word     1 in   [195]
+  VOA-Orbifolds                     1 word     1 in   [195]
+  dissoziative Identitätsfragmente    1 word     1 in   [195]
+  Datenpuffer                       1 word     1 in   [195]
+  Landauer-Prinzip                  3 word     3 in   [23, 31, 177]
+  Landauer-Limit                    4 word     5 in   [21, 25, 33, 195]
+                                    1      as Landauer-Limits
+  Boltzmann-Konstante               1 word     1 in   [25]
+  Reversible Computing              1 word     1 in   [25]
+  Entropie                          5 word     7 in   [23, 46, 47, 93, 118, 155]
+                                    1      as Entropie-Generierung
+                                    1      as Entropieverlust
+  Informationsverarbeitung und -löschung    1 word     1 in   [23]
+  -löschung                         1 word     1 in   [23]
+  Dual-Kernel Theory (DKT)          3 word     3 in   [17, 41, 162]
+  Dual-Kernel Theory                5 word     5 in   [17, 39, 41, 162, 195]
+  DKT                               5 word     6 in   [17, 41, 51, 76, 162, 179]
+  Collapse as  Intrusion            1 word     1 in   [51]
+  Verschränkung                     3 word     4 in   [119, 162]
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [61]
+  Theory of Structural Dissociation of the Personality    1 word     1 in   [61]
+  TSDP                              8 word     9 in   [55, 61, 67, 76, 81, 173]
+                                    1      as TSDP-Modelle
+  Janetian Action Systems           1 word     1 in   [63]
+  Evolutionäre Handlungssysteme     1 word     1 in   [59]
+  evolutionäre Handlungssysteme     1 word     1 in   [195]
+  Apparently Normal Parts (ANP)     1 word     1 in   [69]
+  ANP                               7 word     8 in   [65, 69, 77, 131, 173]
+  ANP- und EP-Strukturen            1 word     1 in   [173]
+  Emotional Parts (EP)              1 word     1 in   [70]
+  EP                                4 word     7 in   [65, 70, 78, 131, 173, 256]
+  Fight/Flight                      1 word     1 in   [78]
+  Fight                             2 word     2 in   [70, 78]
+  Flight                            2 word     2 in   [70, 78]
+  Total Submission                  1 word     1 in   [70]
+  Large Language Model (LLM)        1 word     1 in   [87]
+  LLM                               1 word     2 in   [87, 193]
+  Dramatica                         3 word     4 in   [89, 91, 231]
+                                    1      as Dramatica-Theorie
+                                    1      as dramatica_book
+  Dramatica-Theorie                 1 word     1 in   [91]
+  Story Mind                        1 word     2 in   [91, 195]
+  Story Minds                       1 word     1 in   [91]
+  Success/Good                      1 word     1 in   [93]
+  Failure/Bad                       1 word     1 in   [93]
+  Monstergruppe                     8 word     8 in   [95, 97, 99, 101, 103, 109]
+  Monster Group Order               1 word     1 in   [118]
+  Monstrous Moonshine               5 word     5 in   [97, 101, 103, 195, 237]
+  Moonshine                         7 word    13 in   [15, 95, 97, 101, 103, 105]
+                                    3      as Moonshine-Link
+                                    1      as Moonshine-Theorem
+                                    1      as Moonshine-Vermutung
+                                    1      as Moonshine-Modul
+  Moonshine-Theorem                 1 word     1 in   [95]
+  Moonshine-Vermutung               1 word     1 in   [109]
+  Moonshine-Modul                   1 word     1 in   [109]
+  -Funktion                         3 word     3 in   [101, 103]
+  Leech-Gitter                      1 word     2 in   [109, 111]
+                                    1      as Leech-Gitter-VOA
+  Leech Lattice                     1 word     1 in   [120]
+  Vertexoperatoralgebren (VOA)      2 word     2 in   [107, 109]
+  VOA                               4 word     7 in   [107, 109, 111, 120, 195]
+  Orbifold                          2 word     6 in   [107, 111, 121, 195, 238]  <-- substring
+                                    1      as Orbifold-Konstruktionen
+                                    1      as Orbifold-Konstruktion
+                                    1      as Orbifolds
+  Orbifold-Konstruktion             1 word     2 in   [107, 111]
+                                    1      as Orbifold-Konstruktionen
+  Orbifold Construction             1 word     1 in   [121]
+  Gödelsche Unvollständigkeitssatz    1 word     1 in   [123]
+  Ex contradictione quodlibet       1 word     1 in   [127]
+  ECQ                               1 word     2 in   [127, 133]
+  Prinzip der Explosion             1 word     1 in   [127]
+  logische Explosion                2 word     2 in   [81, 127]
+  Dialetheismus                     4 word     4 in   [129, 133, 195]
+  Dialetheia                        1 word     3 in   [15, 133, 179]  <-- substring
+                                    2      as Dialetheias
+  Logic of Paradox                  1 word     1 in   [135]
+  parakonsistenten dialetheischen Logik    1 word     1 in   [135]
+  Chaitins Omega                    1 word     1 in   [137]
+  Omega                             2 word     2 in   [137, 139]
+  Chaitins Halte-Wahrscheinlichkeit    1 word     1 in   [139]
+  Chaitinsche Zufälligkeit          1 word     1 in   [143]
+  algorithmischen Zufälligkeit      1 word     1 in   [139]
+  Tarskischen Wahrheitsdefinition    1 word     1 in   [145]
+  Tarskische Meta-Sprachen          1 word     1 in   [137]
+  Tarskischen Meta-Sprache          1 word     1 in   [145]
+  Meta-Sprache                      2 word     3 in   [137, 145]
+                                    1      as Meta-Sprachen
+  Objekt-Sprache                    2 word     2 in   [145]
+  Meta-Ebene                        1 word     1 in   [145]
+  Rezeptionsästhetik (Reader-Response Theory)    1 word     1 in   [153]
+  Reader-Response Theory            1 word     1 in   [153]
+  Konstanzer Schule                 1 word     1 in   [153]
+  Iserianische Phänomenologie       1 word     1 in   [151]
+  Kognitive Thermodynamik           1 word     1 in   [151]
+  Leerstellen                       2 word     2 in   [153]
+  implizite Leser                   1 word     1 in   [153]
+  Zero-Knowledge Proofs (ZKP)       1 word     1 in   [161]
+  Zero-Knowledge Proofs             5 word     5 in   [157, 161, 195, 259]
+  ZKP                               1 word     2 in   [161]
+  Quantum Entanglement Witness      1 word     1 in   [162]
+  Entanglement Witness              2 word     2 in   [162]
+  Husserlscher Zuschauer            1 word     1 in   [163]
+  transzendentale Beobachter        1 word     1 in   [163]

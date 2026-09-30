@@ -139,7 +139,7 @@ An English essay, no hedging. Named once, with Nyx, as an example of the world's
 
 A compilation that audits its sources and marks its own gaps — recorded, not applied.
 **Function and motivation.** „Aktiver Schutz des Systems, Krisenmanagement, Wächter an der Grenze." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L95] „Sicherheit des Systems durch kalkuliertes, pragmatisches Handeln gewährleisten." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L97]
-**No DKT correlate.** Its own field for him is unfilled: „\[Fehlt in den Dokumenten - Lücke\]" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L103], listed among the fields its Lücken-Analyse says are missing for him.
+**No DKT correlate.** Its own field for him is unfilled: „\[Fehlt in den Dokumenten - Lücke\]" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L103]. Its Lücken-Analyse counts him among the anteile „massiv profiliert" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L352] and names missing DKT correlates for Isabelle and Argus only.
 **Somatik.** „Hypervigilanz, ständige Anspannung der Muskeln ("Bracing for Impact")." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L105]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — a single switch, tactically searching a frozen room
