@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung"]
 gathered: "2026-09-25"
 ---
 
@@ -20,6 +20,12 @@ below, attributed and unmerged.
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — an architectural mandate to rotate the alignment
 
 The audit gives the Truth-Rotation as an item under Axis II: „Architectural Mandate: Explicitly rotate the alignment.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L13] The text orders the rotation; it does not say that one happens.
+
+## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — the mandate's architectural Wahrheits-Rotation, reading AEGIS' order as the destructive vector, verified as watertight
+
+The audit uses the name for the inversion itself, which it says the research mandate requires: „Zusätzlich verlangt das Forschungs-Mandat des Protokolls eine architektonische“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83] `Wahrheits-Rotation` (the line's own marks) „(Truth-Rotation)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83]. The moral reading it turns round: AEGIS stands for order and purity as the good, Kael's fragmentation as the sick. Its account of the turn: „Die informationsthermodynamische Analyse erzwingt jedoch die Umkehrung“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83]. AEGIS' apparent `Kohärenz` (the line's own marks) „wird als der wahre, destruktive -Vektor identifiziert, da er auf exkludierender Auslöschung von Vielfalt beruht“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83]; Kael's `Chaos` (the line's own marks) „und psychologische Multiplizität hingegen repräsentieren die wahre -Kohärenz, da sie das Fortbestehen von Mutual Information durch modulare Anpassung an eine extrem feindliche Umgebung garantieren“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83].
+
+The audit's verdict: „Das Audit verifiziert diese Rotation als psychologisch und physikalisch wasserdicht“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83].
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
@@ -174,6 +180,7 @@ and only the reading turns; the worldbuilding concept is a fourth (its L86). The
 background document says it of B's phenomenology — pain, erasure, separation — which
 stays rememberable and is no longer operative (its L56). So the difference is in what the name points at, the fact or the moment. It
 is recorded here and not as a conflict record.
+- `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29: the Truth-Rotation is the inversion of the two readings, AEGIS' order the destructive vector and Kael's chaos and multiplicity the true coherence, which the research mandate requires and the audit verifies.
 
 ## Open
 
