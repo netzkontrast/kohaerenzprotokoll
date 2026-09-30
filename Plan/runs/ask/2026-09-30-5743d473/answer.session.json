@@ -1,0 +1,139 @@
+{
+ "status": "answered",
+ "answerable": "partly",
+ "claims": [
+  {
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "says": "Das gelesene Dokument setzt Drafting-Regeln: Kein philosophischer Begriff darf im Prosatext erscheinen; Wahrheit zeigt sich erst, wenn man aufhört zu sagen, was nicht wahr ist, und Juna wirkt als das, worüber AEGIS nicht sprechen kann.",
+   "quotes": [
+    {
+     "text": "Kein philosophischer Begriff erscheint im Prosatext.",
+     "status": "placed",
+     "line": 773,
+     "why": null
+    },
+    {
+     "text": "Wahrheit ist nicht das, was man sagt — sondern das, was sich zeigt, wenn man aufhört zu sagen, was nicht wahr ist.",
+     "status": "placed",
+     "line": 821,
+     "why": null
+    },
+    {
+     "text": "Juna ist genau das, worüber AEGIS nicht sprechen kann, und sie wirkt trotzdem.",
+     "status": "placed",
+     "line": 135,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-dramatica-synthese-masterkonzept",
+   "says": "Das ungelesene Dokument will die AEGIS-Dokumente als Fassade behandeln, die im 3. Akt ihre Gültigkeit verliert, und das Material der inneren Wahrheit nur dosiert einspeisen.",
+   "quotes": [
+    {
+     "text": "Das Master-Konzept muss vorsehen, dass diese Dokumente im 3. Akt (Singularität) ihre Gültigkeit verlieren (Parakonsistenz).",
+     "status": "placed",
+     "line": 200,
+     "why": null
+    },
+    {
+     "text": "Sie müssen in kleinen Dosen (Titration) in die Mosaik-Slots eingespeist werden.",
+     "status": "placed",
+     "line": 186,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-konzept-master-md",
+   "says": "Das gelesene Dokument nennt Phänomene, die sich nicht aussagen lassen, sondern zeigen.",
+   "quotes": [
+    {
+     "text": "Diese Phänomene sind nicht in assertorischen Sätzen formulierbar",
+     "status": "placed",
+     "line": 698,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "projektplanung-fuer-kohaerenz-protokoll",
+   "says": "Das ungelesene Dokument legt für das letzte Kapitel fest, dass der Leser die Wahrheit selbst konstruieren muss.",
+   "quotes": [
+    {
+     "text": "Der Leser muss die Wahrheit selbst konstruieren.",
+     "status": "placed",
+     "line": 219,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "master-konzept-kohaerenz-protokoll-analyse",
+   "says": "Das ungelesene Dokument ordnet Dokumente, die sich mit Wahrheit und Brüchen befassen, dem korrespondierenden Typ zu, der der Konfrontation dient.",
+   "quotes": [
+    {
+     "text": "Dokumente, die sich mit dem Inhalt, dem Trauma, der Wahrheit, den Emotionen, den Brüchen und der physischen Realität befassen.",
+     "status": "placed",
+     "line": 152,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "gravitation-realitaet-simulation-wahrheit-2",
+   "says": "Das ungelesene Dokument deutet das Scheitern einer Figur zu sprechen als Schlicks Konstatierungen, die nicht geteilt werden können.",
+   "quotes": [
+    {
+     "text": "Elara versucht am Ende zu sprechen, scheitert aber.",
+     "status": "placed",
+     "line": 310,
+     "why": null
+    }
+   ]
+  }
+ ],
+ "unsupported": [],
+ "differ": [],
+ "differ_dropped": [],
+ "gaps": [
+  "Das Paket nennt keinen Zeitpunkt, zu dem eine bestimmte Wahrheit lesbar werden darf, außer dem 3. Akt für die Gültigkeitsverluste der AEGIS-Dokumente und dem Schlusskapitel für die Konstruktion durch den Leser.",
+  "Nicht im Paket: welche konkrete Wahrheit (Junas, Genesis-Krise, Vortex) in welchem Kapitel lesbar wird.",
+  "Der Graph lieferte keine Belege; die Auswahl beruht nur auf bm25-Zeilen."
+ ],
+ "next": [
+  {
+   "doc": "kohaerenz-protokoll-dramatica-synthese-masterkonzept",
+   "why": "ungelesen, Gültigkeitsverlust der AEGIS-Dokumente im 3. Akt und Dosierung"
+  },
+  {
+   "doc": "projektplanung-fuer-kohaerenz-protokoll",
+   "why": "ungelesen, Kapitelplan mit Schlusskapitel, in dem der Leser die Wahrheit konstruiert"
+  }
+ ],
+ "need": [
+  {
+   "term": "Mosaik-Slot Enthüllung"
+  },
+  {
+   "doc": "kohaerenz-protokoll-dramatica-synthese-masterkonzept",
+   "lines": [
+    180,
+    215
+   ]
+  },
+  {
+   "doc": "projektplanung-fuer-kohaerenz-protokoll",
+   "lines": [
+    200,
+    240
+   ]
+  }
+ ],
+ "counts": {
+  "placed": 9,
+  "unresolved": 0,
+  "outside-pack": 0,
+  "outside-window": 0
+ }
+}
