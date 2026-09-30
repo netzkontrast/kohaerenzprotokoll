@@ -24,10 +24,35 @@ run on documents already read, so no new document was started.
 
 | | pilot | bar |
 |---|---|---|
-| quotations unresolved or unchecked, 65 pages | **0** | 0 |
+| quotations unresolved, 65 pages | **0** | 0 |
+| quotations unchecked (no citation), 65 pages | **11, on 7 pages** — measured 2026-09-30; this row said 0 until then | 0 — **not met** |
+| corrections in review, against the original run's | **not measured** — the pilot's pages were never reviewed | no more than the original — **not met** |
 | (page, document) pairs against the original run (`compare.py`) | **F1 0.89** — precision 0.81, recall 0.98; 94 shared, 22 only the pilot's, 2 only the original's | ≥ 0.8 |
 | comparison flags from `lint_readings.py` in the three documents' sections | 2, one of them in a scan reading from before the pilot | — |
 | stray quotes, empty spans, joins | 0 | 0 |
+
+**So the pilot met two of its four bars, not all of them.** The review of
+2026-09-30 found the gaps, and a re-run confirmed the first. The 117 files were
+applied again, by the `readings.py` of `116f79c`, to a fresh worktree at
+`3d97d39`, and `quotes.check_file` was run on every page before and after. The
+result was 0 new unresolved and 11 new unchecked quotations, on 7 pages.
+
+Among the 11 are a name the Hard-Problem-Analyse cites, „Hard Canon
+Masterfile“, a profile field in a heading, „Schicksal“, and two phrases in
+differ lines. Each is a quotation with no citation, and `quotes.py` counts such
+a quotation as unchecked, not as checked.
+
+The row said 0 because only `unresolved` was read off the run. **The
+`readings.py` of 2026-09-30 refuses all of them before a page is touched.** Run
+on the same 117 files, it refused 10: the nine that carry the 11 quotations, and
+one whose count mark had no words before it. The pilot's readings are a
+comparison and were never merged, so no page in `main` carries them.
+
+**The corrections bar was never measured.** It needs the pilot's pages reviewed
+the way the original run's were, and that review did not happen. F1 compares
+which pages got a reading from which document; it says nothing about whether a
+reading is right. The quality sample (`Plan/runs/quality-sample-2026-09-29/`)
+reads that, and it found its 11 defects in the original run, not in the pilot.
 
 **The two readings only the original run has** are C3 and C13 from the
 Charakter-Kompilation. The pilot's records reader judged that the document does

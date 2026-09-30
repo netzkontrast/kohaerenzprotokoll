@@ -13,8 +13,9 @@ $ head -3 Plan/runs/textanalyse-existenz-system-und-leid/04-counts.txt
 # counts for 239 candidates
 # line numbers are FILE lines, as a citation writes them
 
-$ grep -n ' 0 word    0 in' Plan/runs/textanalyse-existenz-system-und-leid/04-counts.txt
-
+$ grep -nE ' 0 word +0 in' Plan/runs/textanalyse-existenz-system-und-leid/04-counts.txt
+175:  Abwehr des Nichts                 0 word     0 in   []
+176:  Integration der Leere             0 word     0 in   []
 
 ## B. Structure: headings, sections, the table, the references
 
@@ -71,8 +72,20 @@ $ sed -n '314p;352p' Sources/drive/textanalyse-existenz-system-und-leid.md | cut
 1.  Einleitung: Genesis der Existenz
 39. Sartre and Lacan: Considerations on the Concepts of the Subject an
 
-$ grep -c '^[0-9][0-9]*\.  ' Sources/drive/textanalyse-existenz-system-und-leid.md
-12
+$ python3 - <<'EOF'   # the references, lines 314 to 352: do their numbers run 1 to 39?
+import re, sys
+sys.path.insert(0, "scripts")
+import capture
+body, off = capture.body_of("textanalyse-existenz-system-und-leid")
+nums = []
+for i, line in enumerate(body.split("\n")):
+    fl = i + off
+    if 314 <= fl <= 352:
+        m = re.match(r"^(\d+)\. ", line)
+        nums.append(int(m.group(1)) if m else None)
+print("entries:", len(nums), " numbers run 1 to 39 without a gap:", nums == list(range(1, 40)))
+EOF
+entries: 39  numbers run 1 to 39 without a gap: True
 
 $ sed -n '268,270p' Sources/drive/textanalyse-existenz-system-und-leid.md | cut -c1-50
 1.  **Position:** Das System (Ordnung).

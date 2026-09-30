@@ -24,7 +24,8 @@ actually learns.
     python3 scripts/account.py term <term>
     python3 scripts/account.py pair <a> <b>
     python3 scripts/account.py corpus
-    python3 scripts/account.py order            # does the pipeline order hold?
+    python3 scripts/account.py order [--summary] # does the pipeline order hold? exits 1 if not
+    python3 scripts/account.py selftest         # each violation handed to the check on purpose
 
 This is a facade, deliberately. It delegates to the scripts that already work
 rather than replacing them: the claim that these are one operation is worth
@@ -35,6 +36,7 @@ from __future__ import annotations
 
 import json
 import sys
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -120,7 +122,7 @@ def account_pair(first: str, second: str) -> dict:
     }
 
 
-def account_order(root: Path = ROOT) -> dict:
+def account_order(root: Path = ROOT, index_of=None) -> dict:
     """Does the pipeline's dependency order hold, per document?
 
     The steps have an order — extract before reconcile, and each reconciliation
@@ -143,10 +145,23 @@ def account_order(root: Path = ROOT) -> dict:
                 violations.append({"document": slug, "kind": f"reconciled-without-{kind}",
                                    "detail": f"{record.relative_to(root)} exists but "
                                              f"Sources/{folder}/{slug}.md does not"})
+    # A note with no census, and a census with no note, are the two halves of one
+    # extraction apart: the state a reader leaves when it stops mid-run. Until
+    # 2026-09-30 neither was named — a census without a note read as merely
+    # „not reconciled", and a note without a census was not read at all.
+    for note_file in sorted((root / "Sources" / "notes").glob("*.md")):
+        if not (root / "Sources" / "terms" / note_file.name).exists():
+            violations.append({"document": note_file.stem, "kind": "note-without-census",
+                               "detail": f"Sources/notes/{note_file.name} exists but "
+                                         f"Sources/terms/{note_file.name} does not"})
     for census in sorted((root / "Sources" / "terms").glob("*.md")):
         slug = census.stem
         note = (root / "Sources" / "notes" / f"{slug}.md").exists()
         record = runs / slug / "reconcile.json"
+        if not note:
+            violations.append({"document": slug, "kind": "census-without-note",
+                               "detail": f"Sources/terms/{slug}.md exists but "
+                                         f"Sources/notes/{slug}.md does not"})
         state = after = None
         if record.exists():
             record_json = json.loads(record.read_text(encoding="utf-8"))
@@ -184,7 +199,7 @@ def account_order(root: Path = ROOT) -> dict:
     # therefore reports a violation after every successful run, which is a check
     # that is always red and so teaches nothing. What must match is the state the
     # run *left*, when the record says.
-    index = build_index()
+    index = (index_of or build_index)()
     if done:
         last = max(done, key=lambda r: (r["state_after"] or r["state_before"])["pages"])
         after = last["state_after"]
@@ -239,10 +254,89 @@ def main(argv: list[str]) -> int:
         "corpus": account_corpus,
         "order": account_order,
     }
+    if kind == "selftest":
+        return selftest()
     if kind not in handlers:
-        sys.exit(f"unknown subject kind {kind!r} — one of {', '.join(handlers)}")
-    print(json.dumps(handlers[kind](), indent=2, ensure_ascii=False))
+        sys.exit(f"unknown subject kind {kind!r} — one of {', '.join(handlers)}, selftest")
+    result = handlers[kind]()
+    if kind == "order" and "--summary" in args:
+        print(f"order {'holds' if result['holds'] else 'does not hold'}: "
+              f"{len(result['documents'])} documents with a census, "
+              f"{len(result['violations'])} violations"
+              + (" — " + ", ".join(f"{k} {n}" for k, n in sorted(
+                  Counter(v['kind'] for v in result['violations']).items()))
+                 if result['violations'] else ""))
+        return 0 if result["holds"] else 1
+    print(json.dumps(result, indent=2, ensure_ascii=False))
+    # `order` is a check, and a check that prints `"holds": false` and exits 0 is
+    # read as a pass by everything that runs it — the review of 2026-09-30
+    # reproduced exactly that. The other kinds are accounts, not checks.
+    if kind == "order" and not result["holds"]:
+        print(f"\norder does not hold: {len(result['violations'])} violations — "
+              + ", ".join(sorted({v['kind'] for v in result['violations']})), file=sys.stderr)
+        return 1
     return 0
+
+
+def selftest() -> int:
+    """Each violation, built on purpose in a scratch tree, must be named — and must fail."""
+    import tempfile
+
+    def tree(root: Path, census=(), notes=(), records=()):
+        for folder, slugs in (("Sources/terms", census), ("Sources/notes", notes)):
+            (root / folder).mkdir(parents=True, exist_ok=True)
+            for slug in slugs:
+                (root / folder / f"{slug}.md").write_text("x\n", encoding="utf-8")
+        for slug, before, after in records:
+            (root / "Plan/runs" / slug).mkdir(parents=True, exist_ok=True)
+            (root / "Plan/runs" / slug / "reconcile.json").write_text(json.dumps(
+                {"state_before": {"pages": before}, "state_after": {"pages": after}}),
+                encoding="utf-8")
+
+    cases = [
+        ("a clean chain holds", dict(census=["a", "b"], notes=["a", "b"],
+                                     records=[("a", 1, 2), ("b", 2, 3)]), 3, set()),
+        ("a census without a note", dict(census=["a"], records=[("a", 1, 2)]), 2,
+         {"census-without-note", "reconciled-without-note"}),
+        ("a note without a census", dict(census=["a"], notes=["a", "b"],
+                                         records=[("a", 1, 2)]), 2, {"note-without-census"}),
+        ("extracted, not reconciled", dict(census=["a", "b"], notes=["a", "b"],
+                                           records=[("a", 1, 2)]), 2, {"not-reconciled"}),
+        ("a record with no census", dict(notes=["a"], records=[("a", 1, 2)]), 2,
+         {"reconciled-without-census", "note-without-census"}),
+        ("a stale state", dict(census=["a", "b"], notes=["a", "b"],
+                               records=[("a", 1, 3), ("b", 2, 4)]), 4, {"stale-state"}),
+        ("pages moved since", dict(census=["a"], notes=["a"], records=[("a", 1, 2)]), 5,
+         {"state-moved-since"}),
+    ]
+    failed = []
+    for name, spec, pages, want in cases:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            tree(root, **spec)
+            got = account_order(root, index_of=lambda: {"pages": pages})
+            kinds = {v["kind"] for v in got["violations"]}
+            if kinds != want or got["holds"] != (not want):
+                failed.append(f"{name}: named {sorted(kinds)}, expected {sorted(want)}")
+    # The exit status is the point of the review's finding, so it is tested too.
+    import io
+    import contextlib
+    real = account_order
+    try:
+        for holds, status in ((False, 1), (True, 0)):
+            globals()["account_order"] = lambda: {"violations": [] if holds else [{"kind": "x"}],
+                                                  "holds": holds, "documents": []}
+            with contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
+                got = main(["order"])
+            if got != status:
+                failed.append(f"order with holds={holds} exits {got}, expected {status}")
+    finally:
+        globals()["account_order"] = real
+    total = len(cases) + 2
+    print(f"account: {total - len(failed)} of {total} cases hold"
+          + (" — FAILED: " + "; ".join(failed) if failed else
+             " (each violation named, and a violation exits 1)"))
+    return 1 if failed else 0
 
 
 if __name__ == "__main__":

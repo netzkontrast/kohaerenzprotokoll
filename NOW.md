@@ -36,6 +36,29 @@ Built on PR netzkontrast/kohaerenzprotokoll#110: step 1 (`runlog.py`), step 2 (h
 install. A quality sample of documents 32–51 found 11 defects in 119 claims, all corrected
 (`Plan/runs/quality-sample-2026-09-29/`). The pilot of step 4 and step 6's sample are under *Handover*.
 
+**The review of #110, 2026-09-30, and what it changed.** It asked for changes after the merge. Five
+findings, each reproduced before it was fixed on the branch that follows #110:
+- `account.py order` exited 0 while it printed `"holds": false`. It exits 1 now, and names a census
+  without a note and a note without a census.
+- `CLAUDE.md` said `true` and 51/51/51 over a red state, with `state.py --prose` failing. The numbers
+  are true again.
+- `readings.py` took a quotation without a citation, a link to no page, a wrong date and a heading
+  naming another document. It only recommended the checks afterwards. Now it refuses all four, and
+  writes only what its checks passed.
+- The pilot's table said 0 unchecked quotations. There were 11, and it met two of its four bars.
+- `yield.py` counted no tokens and no corrections.
+
+Every check now runs on GitHub, one step each (`.github/workflows/checks.yml`), on every pull request
+and every push to `main`. What stays open is step 6 itself, its costs and quality measured.
+
+**A second review, of #120 at `f690eba`, found four gaps in the new write gates.** Each was
+reproduced and then fixed with a regression case that fails on the old code:
+- the clean reader's apply gate passed an empty note and would have copied it over an existing one
+  (`a879787`);
+- `readings.py` took a plural `## Readings —` heading, which no frontmatter counts (`9c20125`);
+- `census.py check` compared only the counts, not the lines and surfaces columns, and `census.py
+  draft` wrote its candidates' „…“ as uncited quotations (`4f3c11a`).
+
 **The parked September draft, 2026-09-29:** „The novel in Legacy is Not the quality I
 want". So revising it in place is off the table. Its prose is never a voice reference
 for the book. Whether its ideas come back as research is question B below.
@@ -793,8 +816,50 @@ each of the six categories with one read document or none, read with the new rea
 Slugs are cut here; `python3 scripts/sources.py status` and the manifest have them whole. **Claim before
 reading**: an open pull request whose title or body names the slug under a `Claim` heading, checked for in the
 open pull requests first — two sessions following one handover read documents 16, 17 and 20 twice.
-**Claimed 2026-09-29 by netzkontrast/kohaerenzprotokoll#110, all twelve, and being read** (the author's „Ja").
-Documents: `document-reader` subagents (`.claude/agents/document-reader.md`), one per document.
+**Claimed 2026-09-29 by netzkontrast/kohaerenzprotokoll#110, all twelve; the claim passes to the pull
+request that follows it.** #110 was merged on 2026-09-30 with two of the twelve extracted,
+`ontologische-inversion-von-aegis-kritisches-framework` and `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`.
+The other ten readers ran in parallel and were stopped by the session's usage limit. Their candidate
+lists and counts are complete and gold (`gold.py`). Whatever they had written of a census or note is
+in `Plan/runs/<slug>/partial-2026-09-29/`, moved out of `Sources/` so that no tool counts a fragment
+as a census.
+
+The author, 2026-09-30: „starte diese nicht parallel … beobachte jeden der zehn … versuche diese als
+lernlabor zu verstehen … gib ihnen unterschiedliche Anweisungen … versuche auch die letzten paar prs
+zu verstehen und passe und erweitere die Pipeline entsprechend an". So the ten are read one at a time,
+each under its own instruction, and each run is recorded in `Plan/runs/reader-lab-2026-09-30/`.
+What the first twelve readers cost is measured there from their transcripts.
+
+**Each document is reconciled as it lands**, not all twelve after the last extraction. So
+`account.py order`, which CI runs, is red only between an extraction and its reconciliation.
+
+**Step 6 is paused by the author, 2026-09-30:** „stop Reading document - you should Improve the
+Pipeline". Nothing reads a document until the author says so.
+- The readings reader for documents 52 and 53 was stopped before it wrote a file. Their lookups and
+  the readings brief stay in `Plan/runs/step6-readings-52-53/`, and document 54's in
+  `Plan/runs/step6-readings-54/`.
+- Three documents have a census and a note and no reconciliation: 52, 53, and the technical audit
+  R1 extracted. So `pipeline order` stays red, and says why.
+- The work now is the pipeline itself, measured offline on what is already read:
+  - the reconciliation record drafted by code;
+  - the readings brief drafted by code;
+  - the census draft wired into the reader's definition.
+
+**A parallel session builds `ask` (PR #119, decisions 016 and 017), and #120 carries it merged in.**
+Two things from it change this lab:
+- Its claude-cli backend, `claude -p` with no `CLAUDE.md`, no tools beyond those named and no
+  thinking, is the lab's biggest lever. Tried on 2026-09-30, it was about 9 thousand tokens a
+  call against a subagent's 67 thousand. `Plan/runs/reader-lab-2026-09-30/clean_reader.py` runs
+  a reader that way, shut in its own directory; code checks its files and puts them in place.
+- Decision 017 lets OpenRouter's free models and Jules answer `ask` packs as trials. Decision
+  014 lets Jules ingest one document.
+
+The comment on #119 asked that session for three things:
+- a Jules extraction of `kohaerenz-protokoll-hard-sf-horror-thriller` as a comparison arm, written
+  only under that document's `jules-2026-09-30/`;
+- `askdb.py touches <slug>`, so each reconciliation record can name the Weichen its document
+  bears on (one encoding, rather than a lens for readers);
+- a pack, verify and render that take parameters, for an extraction pack.
 
 **A qmd search over all 347 unread landed documents ran on 2026-09-26** (`Plan/runs/qmd-scan-2026-09-26/`): one to four short queries per open record, hits only, no reading. It placed all fifteen unread canon-era documents and found two the earlier scan had not: a second Kap 0 draft and a philosophischer Bericht. It also showed the stemmer turning „Mira“ into „miracle“ — six hits, none of them the name.
 
@@ -932,7 +997,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 47 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 59 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200

@@ -1,0 +1,375 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "step": "reconcile-pre",
+  "at": "2026-09-30",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-30",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 63,
+  "decisions": 62,
+  "same_surface": {},
+  "decided_mechanically": 32,
+  "needs_judgement": 30,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 46
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 48
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 44
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 30
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "finalen Twist"
+      },
+      {
+        "candidate": "Zuklappen des Buches"
+      },
+      {
+        "candidate": "Stasis-Lücken"
+      },
+      {
+        "candidate": "getaktet"
+      },
+      {
+        "candidate": "Die Meta-Erklärung"
+      },
+      {
+        "candidate": "Große Stille"
+      },
+      {
+        "candidate": "Höhere Metrik"
+      },
+      {
+        "candidate": "Teil 2"
+      },
+      {
+        "candidate": "Verwalter"
+      },
+      {
+        "candidate": "autonomer Gott"
+      },
+      {
+        "candidate": "Signal"
+      },
+      {
+        "candidate": "Statusberichten"
+      },
+      {
+        "candidate": "Externen Taktgeber"
+      },
+      {
+        "candidate": "Ordnungssucht"
+      },
+      {
+        "candidate": "Rendering-Grenzen"
+      },
+      {
+        "candidate": "beschrieben"
+      },
+      {
+        "candidate": "Textfragmente"
+      },
+      {
+        "candidate": "Teil 3"
+      },
+      {
+        "candidate": "Sonde"
+      },
+      {
+        "candidate": "Werkzeug"
+      },
+      {
+        "candidate": "Lese-Abhängigkeit"
+      },
+      {
+        "candidate": "Das finale Kapitel"
+      },
+      {
+        "candidate": "Kapitel 39"
+      },
+      {
+        "candidate": "Gedanke eines Fremden"
+      },
+      {
+        "candidate": "Du"
+      },
+      {
+        "candidate": "Beobachtungsstatus"
+      },
+      {
+        "candidate": "Grenzen der Mathematik und Physik"
+      },
+      {
+        "candidate": "unentscheidbar"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Foreshadowing-Strategie  /  Das Foreshadowing",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Beobachter-Instanz  /  Beobachter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Manifestation des Lesers  /  Leser",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Teil 1  /  Teil 1 & 2",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Leser  /  den Leser (den Beobachter)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Leser  /  des Beobachters (des Lesers)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Jemand  /  da draußen jemand",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Protokolle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Primären Beobachtungs-Einheit  /  Einheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll  /  harten Maßnahmen (das Kohärenz Protokoll)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "System  /  System-Abschaltung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "den Leser (den Beobachter)  /  Beobachter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Beobachter  /  des Beobachters (des Lesers)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Beobachter  /  Beobachter-Fokus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Aufmerksamkeit  /  „Aufmerksamkeit“ (Energie)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Energie  /  „Aufmerksamkeit“ (Energie)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna-Spiegelung  /  Juna",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissoziation  /  Dissoziation (seine Trennung von der Welt)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wärmetod des Universums  /  „Wärmetod des Universums“ (Entropie)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  „Wärmetod des Universums“ (Entropie)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Glitch-Momente",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Konstrukt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "konstruktstadt",
+            "page": "konstrukt-stadt"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "harten Maßnahmen (das Kohärenz Protokoll)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Einheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "evaluierungseinheit",
+            "page": "evaluierungseinheit"
+          },
+          {
+            "surface": "kaelswohneinheit",
+            "page": "kaels-wohneinheit"
+          },
+          {
+            "surface": "kaelswohneinheit10",
+            "page": "kaels-wohneinheit"
+          }
+        ]
+      },
+      {
+        "candidate": "System",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "groemauersystemgrenze",
+            "page": "grosse-mauer"
+          },
+          {
+            "surface": "groersystemmonitor",
+            "page": "system-monitor"
+          },
+          {
+            "surface": "groesystemmonitor",
+            "page": "system-monitor"
+          },
+          {
+            "surface": "systemgrenze",
+            "page": "grosse-mauer"
+          },
+          {
+            "surface": "systemmonitor",
+            "page": "system-monitor"
+          },
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna-Spiegelung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Protokolle",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Trauma",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "traumalokus",
+            "page": "vergessener-schrein"
+          },
+          {
+            "surface": "vergessenerschreintraumalokus",
+            "page": "vergessener-schrein"
+          }
+        ]
+      },
+      {
+        "candidate": "„Wärmetod des Universums“ (Entropie)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 27,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
