@@ -1,3 +1,15 @@
+---
+id: WP
+status: vertagt            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+hängt_ab_von: [W1, W2, W6, C8]
+schaltet_frei: []
+kapitel: "alle"
+frage_art: vertagt        # schlüssel | schalter | standard | vertagt
+auslöser: "zuerst die konkreten Plotfragen K1/K2; Types danach daraus ableiten"
+empfehlung: "erste Zeilen"
+empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
+---
+
 # WP — Die Plot-Story-Points: was will die äußere Handlung?
 
 **Entscheidungsblatt, vorbereitet 2026-09-30.** Vorschlag, keine Festlegung. Gehört zu den Dramatica-Schritten nach W1–W4 und ergänzt `Plan/runs/plot-2026-09-30/05-dual-storyform-structure.md` (§3). Kein neues Dokument gelesen. Begriffe bleiben englisch, wie Dramatica sie führt.

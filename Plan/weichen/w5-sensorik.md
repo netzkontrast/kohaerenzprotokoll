@@ -1,3 +1,15 @@
+---
+id: W5
+status: offen            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+hängt_ab_von: [W2, W6, W9, W15, W8]
+schaltet_frei: [W8]
+kapitel: "0, 1, 3, 6, 8, 11, 12, 25, 36–38"
+frage_art: standard        # schlüssel | schalter | standard | vertagt
+auslöser: "nach Antwort auf das Sperren-Blatt (Hitze-Polarität)"
+empfehlung: "B"
+empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
+---
+
 # W5 — Was verraten Wärme, Kälte und Ozon?
 
 **Entscheidungsblatt, 2026-09-30 · Runde 2. Vorschlag, keine Festlegung.**
