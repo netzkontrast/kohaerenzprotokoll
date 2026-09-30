@@ -1,13 +1,10 @@
 ---
 id: W7
-status: offen            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W3, W6, W9, W12, W10]
-schaltet_frei: [W2, W3, W6, W8, W9, W10]
-kapitel: "1–13 und später"
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: ""
 empfehlung: "B"
-empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
 ---
 
 # W7 — Welche Wahrheit darf wann lesbar werden?

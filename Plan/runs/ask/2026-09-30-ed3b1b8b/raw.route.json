@@ -1,0 +1,8 @@
+{
+ "status": "unreachable",
+ "why": "nex-agi/nex-n2.5-pro:free: error; google/gemma-4-26b-a4b-it:free: rate-limited; qwen/qwen3.8-27b:free: rate-limited; z-ai/glm-5.2:free: error",
+ "backend": "route",
+ "attempt": 0,
+ "at": "2026-09-30T11:29:17",
+ "pack_hash": "eaa3e99d03ec3ac749bdbf0474f096f08cb5985b1ef57c71ddf99b5e348c2792"
+}

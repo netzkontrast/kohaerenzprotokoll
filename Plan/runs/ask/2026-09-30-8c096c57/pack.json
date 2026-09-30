@@ -1,0 +1,284 @@
+{
+ "id": "2026-09-30-8c096c57",
+ "question": "Wie nah darf der Leser an AEGIS heran? Welche Dokumente, besonders ungelesene, sprechen darüber, und was sagen sie?",
+ "kind": "locate",
+ "built": "2026-09-30T11:29:29",
+ "sends_text_of": [
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "ki-roman-architektur-kohaerenz-und-kollaps",
+  "ki-roman-architektur-kritische-analyse-methoden",
+  "aegis-emergenz-aus-der-leere",
+  "entropie-aegis",
+  "koharenz-protokoll-sprach-dna-2026-05-13-md",
+  "monstergruppe-primzahlen-plot-blueprint",
+  "digitale-uberwelt",
+  "kap0-v1-annotiert-md",
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+  "kohaerenz-protokoll-dramatica-synthese-masterkonzept"
+ ],
+ "cut_by_budget": [
+  "kohaerenz-protokoll-spannungsfelder-vertiefen",
+  "recherche-ueberwelt",
+  "plot-generation-framework-for-the-coherence-protocol",
+  "kohaerenz-protokoll-2",
+  "kohaerenz-protokoll-plot-entwurf",
+  "projektplanung-fuer-kohaerenz-protokoll",
+  "roman-plot-konzept-kohaerenz-protokoll",
+  "system-kael-konzeptentwicklung-und-analyse",
+  "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
+  "dis-diagnose-klinische-ethische-bewertung",
+  "dis-diagnose-klinische-ethische-rechtliche-analyse",
+  "gravitation-realitaet-simulation-wahrheit-2",
+  "gutachten-grad-der-behinderung-bei-dis",
+  "juna-resilienz-zyklus-konzeptentwicklung",
+  "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+  "kohaerenz-analyse-kapitel-2",
+  "kohaerenz-protokoll-dramatica-synthese",
+  "kohaerenz-protokoll-konzept-master-md",
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+  "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+  "p-vs-np-und-kohaerenz",
+  "plot-analyse-und-romanentwicklung",
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+  "roman-kohaerenz-protokoll",
+  "roman-outline-system-kael",
+  "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+  "romanprojekt-analyse-kohaerenz-protokoll",
+  "romanstruktur-duale-erzaehlung-und-kishotenketsu"
+ ],
+ "budget": 60000,
+ "chars": 67095,
+ "window_chars": 59966,
+ "finders": {
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "ki-roman-architektur-kohaerenz-und-kollaps": [
+   "co-mention",
+   "parallel"
+  ],
+  "ki-roman-architektur-kritische-analyse-methoden": [
+   "co-mention",
+   "parallel"
+  ],
+  "aegis-emergenz-aus-der-leere": [
+   "graph-evidence"
+  ],
+  "entropie-aegis": [
+   "graph-evidence"
+  ],
+  "koharenz-protokoll-sprach-dna-2026-05-13-md": [
+   "graph-evidence"
+  ],
+  "monstergruppe-primzahlen-plot-blueprint": [
+   "graph-evidence"
+  ],
+  "digitale-uberwelt": [
+   "co-mention"
+  ],
+  "kohaerenz-protokoll-spannungsfelder-vertiefen": [
+   "co-mention"
+  ],
+  "kap0-v1-annotiert-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "recherche-ueberwelt": [
+   "co-mention"
+  ],
+  "plot-generation-framework-for-the-coherence-protocol": [
+   "co-mention"
+  ],
+  "kohaerenz-protokoll-2": [
+   "co-mention"
+  ],
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-dramatica-synthese-masterkonzept": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-plot-entwurf": [
+   "co-mention"
+  ],
+  "projektplanung-fuer-kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "roman-plot-konzept-kohaerenz-protokoll": [
+   "co-mention"
+  ],
+  "system-kael-konzeptentwicklung-und-analyse": [
+   "co-mention"
+  ],
+  "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll": [
+   "co-mention"
+  ],
+  "dis-diagnose-klinische-ethische-bewertung": [
+   "bm25-lines"
+  ],
+  "dis-diagnose-klinische-ethische-rechtliche-analyse": [
+   "bm25-lines"
+  ],
+  "gravitation-realitaet-simulation-wahrheit-2": [
+   "bm25-lines"
+  ],
+  "gutachten-grad-der-behinderung-bei-dis": [
+   "bm25-lines"
+  ],
+  "juna-resilienz-zyklus-konzeptentwicklung": [
+   "bm25-lines"
+  ],
+  "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-analyse-kapitel-2": [
+   "co-mention"
+  ],
+  "kohaerenz-protokoll-dramatica-synthese": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   "bm25-lines"
+  ],
+  "mining-report-kohaerenz-protokoll-narrative-building-blocks": [
+   "co-mention"
+  ],
+  "p-vs-np-und-kohaerenz": [
+   "bm25-lines"
+  ],
+  "plot-analyse-und-romanentwicklung": [
+   "co-mention"
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   "bm25-lines"
+  ],
+  "roman-kohaerenz-protokoll": [
+   "co-mention"
+  ],
+  "roman-outline-system-kael": [
+   "co-mention"
+  ],
+  "roman-plot-entwicklung-mit-kohaerenzprotokoll": [
+   "co-mention"
+  ],
+  "romanprojekt-analyse-kohaerenz-protokoll": [
+   "co-mention"
+  ],
+  "romanstruktur-duale-erzaehlung-und-kishotenketsu": [
+   "co-mention"
+  ]
+ },
+ "seeds": [
+  "term:aegis",
+  "term:aegis-metriken",
+  "term:aegis-teilfunktionen"
+ ],
+ "skills": [],
+ "hash": "fe0d11639d79b4bccf253fde33f75f9a485feeee8a3316e4d65bb649066ff53a",
+ "shown": {
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   56,
+   132,
+   135,
+   773,
+   774,
+   775,
+   776,
+   777,
+   778,
+   779
+  ],
+  "ki-roman-architektur-kohaerenz-und-kollaps": [
+   139,
+   140,
+   141,
+   142
+  ],
+  "ki-roman-architektur-kritische-analyse-methoden": [
+   172,
+   173,
+   174
+  ],
+  "aegis-emergenz-aus-der-leere": [
+   126,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175
+  ],
+  "entropie-aegis": [
+   17,
+   21
+  ],
+  "koharenz-protokoll-sprach-dna-2026-05-13-md": [
+   37
+  ],
+  "monstergruppe-primzahlen-plot-blueprint": [
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105
+  ],
+  "digitale-uberwelt": [
+   25,
+   40,
+   44,
+   45,
+   49,
+   62,
+   63,
+   77,
+   78,
+   79,
+   80,
+   81,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108
+  ],
+  "kap0-v1-annotiert-md": [
+   47,
+   769,
+   841,
+   973
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   704,
+   931,
+   1055,
+   1079
+  ],
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md": [
+   1012,
+   1020
+  ],
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+   280,
+   1128
+  ],
+  "kohaerenz-protokoll-dramatica-synthese-masterkonzept": [
+   199,
+   200
+  ]
+ }
+}

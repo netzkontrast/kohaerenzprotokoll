@@ -43,7 +43,7 @@ COMPONENTS=(
   "derived|Plan/derived/ — corpus.py's index path (python3 scripts/derive.py)"
   "tools|.venv-tools — markitdown, for sources.py land"
   "typesafe|.venv-typesafe — typesafe-sdk, for bilingual.py and jev_entities.py"
-  "dspy|.venv-dspy — DSPy $DSPY_VERSION with numpy and Deno, dspy-skills, strictyaml, drg-kg[extract]"
+  "dspy|.venv-dspy — DSPy $DSPY_VERSION with numpy and Deno, dspy-skills, strictyaml, drg-kg[extract], graphqlite"
   "graphqlite|.venv-graphqlite — GraphQLite $GRAPHQLITE_VERSION, local kg.py CLI and offline graph fixtures"
   "dspytools|.venv-dspytools (python 3.12) — dspytools"
   "grawiki|.venv-grawiki (python 3.12) — grawiki[falkordblite,viz], CPU torch"
@@ -74,7 +74,7 @@ present() {
     derived)    [[ -d Plan/derived ]] && [[ -n "$(ls -A Plan/derived 2>/dev/null)" ]] ;;
     tools)      .venv-tools/bin/python -c "import markitdown" 2>/dev/null ;;
     typesafe)   .venv-typesafe/bin/python -c "import typesafe_sdk" 2>/dev/null ;;
-    dspy)       .venv-dspy/bin/python -c "import dspy, dspy_skills, strictyaml, drg, numpy, deno; assert dspy.__version__ == '$DSPY_VERSION'" 2>/dev/null ;;
+    dspy)       .venv-dspy/bin/python -c "import dspy, dspy_skills, strictyaml, drg, numpy, deno, graphqlite; assert dspy.__version__ == '$DSPY_VERSION'" 2>/dev/null ;;
     graphqlite) .venv-graphqlite/bin/python -c "from importlib.metadata import version; from graphqlite import Graph; assert version('graphqlite') == '$GRAPHQLITE_VERSION'; g=Graph(':memory:'); g.close()" 2>/dev/null ;;
     dspytools)  [[ -x .venv-dspytools/bin/dspytools ]] ;;
     grawiki)    .venv-grawiki/bin/python -c "import grawiki, redislite" 2>/dev/null ;;
@@ -111,7 +111,7 @@ install_one() {
       local py=.venv-dspy/bin/python
       [[ -x $py ]] || uv venv -q --python 3.11 .venv-dspy || return 1
       # numpy: dspy.SIMBA raises without it. deno: dspy.RLM's sandbox. Both are extras.
-      uv pip install -q --python $py "dspy[deno,numpy]==$DSPY_VERSION" strictyaml || return 1
+      uv pip install -q --python $py "dspy[deno,numpy]==$DSPY_VERSION" strictyaml "graphqlite==$GRAPHQLITE_VERSION" || return 1
       # --no-deps is load-bearing: the package asks for dspy-ai>=2.5.0, the old
       # distribution name, and resolving it would move the venv off the pin.
       uv pip install -q --python $py --no-deps \

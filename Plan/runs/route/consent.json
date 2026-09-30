@@ -7,6 +7,20 @@
     "aegis-subplots-kapitelweise-system-exploration-docx",
     "roman-lokalitaeten-konzept-und-ausarbeitung"
   ],
-  "openrouter": {"free_only": true, "data_collection": "deny"},
-  "typesafe": {"allowed": true}
+  "openrouter": {
+    "free_only": true,
+    "data_collection": "deny"
+  },
+  "typesafe": {
+    "allowed": true
+  },
+  "purposes": {
+    "ask": {
+      "documents": "all",
+      "decision": "Plan/decisions/017-ask-answers-are-sources.md",
+      "date": "2026-09-30",
+      "by": "the author",
+      "scope": "an ask pack (scripts/ask.py) may hold text of any landed document; free models only, data_collection deny"
+    }
+  }
 }

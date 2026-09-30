@@ -1,13 +1,10 @@
 ---
 id: W3
-status: offen            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W6, W7, W10]
-schaltet_frei: [W7]
-kapitel: "alle"
 frage_art: standard        # schlüssel | schalter | standard | vertagt
 auslöser: "nach Pilot Kap 1–3"
 empfehlung: "A"
-empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
 ---
 
 # W3 — Wer erzählt, und wie nah sind wir dabei?

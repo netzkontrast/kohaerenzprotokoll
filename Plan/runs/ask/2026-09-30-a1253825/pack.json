@@ -1,0 +1,161 @@
+{
+ "id": "2026-09-30-a1253825",
+ "question": "Was kann über den Moonshine-Link zwischen Kael und Juna übertragen werden und was nicht, und was kostet die Verbindung?",
+ "kind": "position",
+ "built": "2026-09-30T10:42:47",
+ "sends_text_of": [
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+  "entropie-aegis",
+  "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+  "m-als-fundament-der-simulation",
+  "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "kohaerenz-protokoll-konzept-master-md",
+  "romanplot-kohaerenz-protokoll-entwicklung",
+  "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
+  "aegis",
+  "analyse-des-kohaerenz-protokolls",
+  "charakterkonzepte-fuer-kohaerenz-protokoll",
+  "dramatica-dual-storyform-status-2026-05-07-md",
+  "dramatica-storyform-kohaerenz-protokoll-analyse",
+  "dramatica-storyform-synthese-aegis-analyse-2",
+  "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
+  "dual-storyform-hintergruende-md",
+  "juna",
+  "kohaerenz-protokoll-analyse-und-synthese",
+  "kohaerenz-protokoll-forschungsaufgabe",
+  "kohaerenz-protokoll-kapitel-outline-generierung-2",
+  "kohaerenz-protokoll-narrative-architektur",
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+  "kohaerenz-protokoll-synthese-integration",
+  "konzeptanalyse-kohaerenz-protokoll-s-fundament",
+  "narrative-plot-exploration-existenzielle-kohaerenz",
+  "narrative-techniken-fuer-kohaerenz-protokoll",
+  "plotanalyse-kohaerenz-protokoll-szenario",
+  "research-prompt-dramatica-dual-storyform-mapping-md",
+  "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
+  "roman-entwicklung-kohaerenz-protokoll-json",
+  "romanarchitektur-kohaerenz-protokoll-finalisierung",
+  "romanprojekt-analyse-kohaerenz-protokoll"
+ ],
+ "cut_by_budget": [],
+ "budget": 60000,
+ "chars": 42893,
+ "window_chars": 34769,
+ "finders": {
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md": [
+   "graph-evidence"
+  ],
+  "entropie-aegis": [
+   "graph-evidence"
+  ],
+  "hard-sf-roman-outline-dkt-physik-cosmic-horror": [
+   "graph-evidence"
+  ],
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md": [
+   "graph-evidence"
+  ],
+  "m-als-fundament-der-simulation": [
+   "graph-evidence"
+  ],
+  "roman-lokalitaeten-konzept-und-ausarbeitung": [
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   "bm25-lines"
+  ],
+  "romanplot-kohaerenz-protokoll-entwicklung": [
+   "bm25-lines"
+  ],
+  "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "aegis": [
+   "bm25-lines"
+  ],
+  "analyse-des-kohaerenz-protokolls": [
+   "bm25-lines"
+  ],
+  "charakterkonzepte-fuer-kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "dramatica-dual-storyform-status-2026-05-07-md": [
+   "bm25-lines"
+  ],
+  "dramatica-storyform-kohaerenz-protokoll-analyse": [
+   "bm25-lines"
+  ],
+  "dramatica-storyform-synthese-aegis-analyse-2": [
+   "bm25-lines"
+  ],
+  "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor": [
+   "bm25-lines"
+  ],
+  "dual-storyform-hintergruende-md": [
+   "bm25-lines"
+  ],
+  "juna": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-analyse-und-synthese": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-forschungsaufgabe": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-kapitel-outline-generierung-2": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-narrative-architektur": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-synthese-integration": [
+   "bm25-lines"
+  ],
+  "konzeptanalyse-kohaerenz-protokoll-s-fundament": [
+   "bm25-lines"
+  ],
+  "narrative-plot-exploration-existenzielle-kohaerenz": [
+   "bm25-lines"
+  ],
+  "narrative-techniken-fuer-kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "plotanalyse-kohaerenz-protokoll-szenario": [
+   "bm25-lines"
+  ],
+  "research-prompt-dramatica-dual-storyform-mapping-md": [
+   "bm25-lines"
+  ],
+  "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m": [
+   "bm25-lines"
+  ],
+  "roman-entwicklung-kohaerenz-protokoll-json": [
+   "bm25-lines"
+  ],
+  "romanarchitektur-kohaerenz-protokoll-finalisierung": [
+   "bm25-lines"
+  ],
+  "romanprojekt-analyse-kohaerenz-protokoll": [
+   "bm25-lines"
+  ]
+ },
+ "seeds": [
+  "term:moonshine-link",
+  "term:juna",
+  "term:kael",
+  "term:kael-julia-bindung"
+ ],
+ "skills": [
+  "character-card-builder"
+ ],
+ "hash": "6ff509ee5051c8d30ffe06cdddde37cd9225820180baf939d124d618c37f044d"
+}

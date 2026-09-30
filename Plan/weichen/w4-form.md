@@ -1,13 +1,10 @@
 ---
 id: W4
-status: offen            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W12, W13, W14]
-schaltet_frei: []
-kapitel: "0, 35–40"
 frage_art: vertagt        # schlüssel | schalter | standard | vertagt
 auslöser: "nach dem Piloten"
 empfehlung: "C"
-empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
 ---
 
 # W4 — Welche Wendungen verdient das Ende?
