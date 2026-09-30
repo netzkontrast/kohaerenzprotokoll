@@ -9,7 +9,7 @@ in `Sources/terms/`: 58 of the 586 landed. The three contracts the graph laborat
 |---|---|
 | `backfill.py` | the driver: `plan`, `run`, `status`. Resumable, ordered by the gold, one run at a time, stops by itself |
 | `log.txt` | one line a run: the document, the contract, the clock, and what `he_claude.py` printed |
-| `stage_batch.sh` | stages the run directories that are finished, for the commit |
+| `commit_batch.sh` | stages the finished run directories and the log, commits with the message given, pushes. The runs are hidden from `git status` between batches (local `.git/info/exclude`), so that a turn's end does not force a commit and a CI run for each of the 137 runs; a batch is committed about every half hour |
 | `STOP` | not committed: `touch` it and the pass ends after the run in progress |
 
 **What was chosen, and why.** *Which contracts:* the three of the scaled pass, because they are the ones whose rows a measured
