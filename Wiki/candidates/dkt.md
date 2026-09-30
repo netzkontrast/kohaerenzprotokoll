@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ontologische-inversion-von-aegis-kritisches-framework"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
 gathered: "2026-09-24"
 ---
 
@@ -25,6 +25,10 @@ The list of uses says when to apply the skill: „Validierung der "Ontologischen
 
 „bedient sich das Worldbuilding der Dual-Kernel-Theorie (DKT). In dieser Ontologie ist Materie sekundär; das Universum besteht fundamental aus Information." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L19] „Diese Prämisse erlaubt es, psychologische Zustände als messbare, physikalische Extremereignisse zu inszenieren." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L19]
 Hidden in Akt I, it becomes visible in Akt II: „Die Dual-Kernel-Theorie manifestiert sich nun als greifbare Physik. K0 (Kollaps) und K1 (Kohärenz) ringen sichtbar um die Vorherrschaft." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L134] Kapitel 17 names it as a chapter title (J9) and has Kael read it from a terminal: „Hier wird die DKT-Physik dargelegt: Das Universum besteht aus K1 (Kohärenz, atemporal, ordnend, operierend durch Coherons) und K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144] What it explains: „Kael begreift, dass AEGIS nicht die Ordnung ist, für die es sich ausgibt, sondern eine monströse K0-Maschine, die durch ihre verzweifelten Kontrollakte (EntropicMgmt) genau die Hitze und Entropie erzeugt, die alles verbrennt." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144]
+
+## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the English name heading Axis I
+
+The audit names the theory in the heading of Axis I: „Information Thermodynamics and Dual-Kernel Theory (DKT)“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L3]. The section opens with the two kernels, the Coherence Kernel and the Erasure Kernel, „modeled through Landauer’s Principle“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L3].
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
