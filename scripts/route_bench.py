@@ -96,7 +96,7 @@ def judge(qid: str, content: str, meta: dict) -> dict:
     return {"status": v["status"], "why": v.get("why"),
             "counts": v["counts"], "claims": len(v["claims"]), "answerable": v.get("answerable"),
             "score": sc["score"], "precision": sc["precision"], "ref_hit": sc["gold_hit"],
-            "fabricated": sc["fabricated"], "spliced": v["counts"].get("spliced", 0),
+            "fabricated": sc["fabricated"], "spliced": v["counts"].get("spliced", 0), "slug_corrected": v["counts"].get("slug-corrected", 0),
             "quote_words": round(sum(quotes) / len(quotes), 1) if quotes else None,
             "german": round(judged.count("de") / len(judged), 2) if judged else None,
             "content": content}
@@ -108,7 +108,14 @@ def sessions(qids: list[str]) -> list[dict]:
     for qid in qids:
         _, meta = ask.load_pack(qid)
         for raw in sorted(ask.run_dir(qid).glob("raw.session*.json")):
-            r = json.loads(raw.read_text(encoding="utf-8"))
+            try:
+                r = ask.loads_lenient(raw.read_text(encoding="utf-8"))
+            except json.JSONDecodeError as exc:   # the subagent wrote a broken file: unparsed, never a score
+                out.append({"pack": meta.get("repacked_from") or qid, "card": meta.get("rules", "v1"),
+                            "file": raw.name, "model": None, "status": "unparsed-file", "why": str(exc),
+                            "score": None, "precision": None, "ref_hit": None, "fabricated": 0, "spliced": 0,
+                            "german": None, "quote_words": None, "claims": 0, "answerable": None})
+                continue
             if r.get("pack_hash") not in (None, meta["hash"]):
                 continue
             text = r.get("text") or json.dumps(r.get("answer"), ensure_ascii=False)
@@ -220,7 +227,8 @@ def main(argv: list[str]) -> int:
         return 0
     if cmd == "sessions":
         rs = sessions(rest[0].split(","))
-        out = ROOT / "Plan" / "runs" / "ask" / f"card-ab-{time.strftime('%Y-%m-%d')}.jsonl"
+        out = ROOT / "Plan" / "runs" / "ask" / f"card-ab-{time.strftime('%Y-%m-%d')}" / "rows.jsonl"
+        out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rs), encoding="utf-8")
         for r in rs:
             print(f"{r['card']:4} {r['pack']:22} {r['file']:24} {r['status']:14} score {r['score']}  "

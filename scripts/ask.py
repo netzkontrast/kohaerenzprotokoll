@@ -356,7 +356,7 @@ def cmd_run(qid: str, backend: str, model: str | None, attempt: int = 0) -> dict
         if not raw.exists():
             sys.exit(f"{raw.relative_to(ROOT)} is absent: the {backend} backend writes it; "
                      f"then run `ask.py verify {qid} --backend {backend}`")
-        res = json.loads(raw.read_text(encoding="utf-8"))
+        res = loads_lenient(raw.read_text(encoding="utf-8"))
     else:
         sys.exit(f"unknown backend {backend!r}")
     if backend in ("session", "jules") and res.get("pack_hash") not in (None, meta["hash"]):
@@ -416,15 +416,41 @@ def session_prompt(qid: str, attempt: int = 0) -> str:
 
 # ── verify ────────────────────────────────────────────────────────────────────
 
+GERMAN_QUOTE = re.compile(r'„([^"„“\n]*)"')
+
+
+def loads_lenient(text: str):
+    """json.loads, and once more after closing German quotations „…" with “ — a model writing
+    German closes „ with a straight quote mark, which ends the JSON string (2026-09-30, Haiku)."""
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        return json.loads(GERMAN_QUOTE.sub(r"„\1“", text))
+
+
 def parse(text: str) -> dict | None:
     text = (text or "").strip()
     m = re.search(r"\{.*\}", text, re.S)
     if not m:
         return None
     try:
-        return json.loads(m.group(0))
+        return loads_lenient(m.group(0))
     except json.JSONDecodeError:
         return None
+
+
+def slug_key(slug: str) -> str:
+    """A slug with its umlaut spellings folded: the corpus writes both `koharenz-` and `kohaerenz-`."""
+    return re.sub(r"(?<=[aou])e", "", slug.replace("ä", "a").replace("ö", "o").replace("ü", "u"))
+
+
+def resolve_doc(doc: str, shown: dict) -> str:
+    """The pack's own slug for `doc`: itself, or the one pack document it names in another umlaut
+    spelling — never a document outside the pack, and never a guess between two."""
+    if doc in shown:
+        return doc
+    hits = [d for d in shown if slug_key(d) == slug_key(doc)]
+    return hits[0] if len(hits) == 1 else doc
 
 
 ANSWERABLE = ("yes", "partly", "no")
@@ -513,7 +539,8 @@ def verify(answer: dict | None, shown: dict[str, list[int]]) -> dict:
     claims, unsupported, counts = [], [], {"placed": 0, "unresolved": 0, "outside-pack": 0, "outside-window": 0}
     supported_docs = set()
     for c in answer.get("claims", []) or []:
-        doc = str(c.get("doc", "")).removesuffix(".md")
+        asked = str(c.get("doc", "")).removesuffix(".md")
+        doc = resolve_doc(asked, shown)
         checked = []
         for q in c.get("quotes", []) or []:
             text = str(q.get("text", "")).strip().strip("„“\"")
@@ -534,6 +561,9 @@ def verify(answer: dict | None, shown: dict[str, list[int]]) -> dict:
             checked.append({"text": text, "status": status, "line": line, "why": why})
         good = [q for q in checked if q["status"] == "placed"]
         row = {"doc": doc, "says": c.get("says", ""), "quotes": checked}
+        if doc != asked:
+            row["doc_as_written"] = asked
+            counts["slug-corrected"] = counts.get("slug-corrected", 0) + 1
         if good:
             claims.append(row)
             supported_docs.add(doc)
@@ -555,7 +585,7 @@ def score(v: dict, gold: set[tuple[str, int]], shown: dict[str, list[int]]) -> d
     answer or one with no quotation. `fabricated` counts words standing on no line of their
     document; it is a veto, reported beside the score and never averaged into it.
     """
-    c = {k: n for k, n in v.get("counts", {}).items() if k != "spliced"}
+    c = {k: n for k, n in v.get("counts", {}).items() if k not in ("spliced", "slug-corrected")}
     total = sum(c.values())
     if v.get("status") != "answered" or not total:
         return {"score": None, "why": v.get("status") if v.get("status") != "answered" else "no quotation",
@@ -857,6 +887,19 @@ def selftest() -> list[str]:
                  {slug: [line]})
     if bad["claims"] or bad["counts"].get("unresolved") != 1:
         fails.append(f"a splice with an invented piece was placed: {bad['counts']}")
+    # a slug in the corpus's other umlaut spelling resolves to the pack's document; two candidates never do
+    alt = slug.replace("kohaerenz", "koharenz") if "kohaerenz" in slug else slug.replace("koharenz", "kohaerenz")
+    if alt != slug:
+        sv = verify({"answerable": "yes", "claims": [{"doc": alt, "says": "x", "quotes": [{"text": words, "line_hint": line}]}]},
+                    {slug: [line]})
+        if [c["doc"] for c in sv["claims"]] != [slug] or sv["counts"].get("slug-corrected") != 1:
+            fails.append(f"an umlaut-spelled slug was not resolved: {sv['counts']}")
+    if resolve_doc("koharenz-x", {"kohaerenz-x": [], "koharenz-y": []}) != "kohaerenz-x":
+        fails.append("resolve_doc missed a unique respelling")
+    if resolve_doc("koharenz-x", {"kohaerenz-x": [], "kohärenz-x": []}) != "koharenz-x":
+        fails.append("resolve_doc guessed between two respellings")
+    if parse('{"a": "das „Systemfehler" hier"}') != {"a": "das „Systemfehler“ hier"}:
+        fails.append("a German quotation closed with a straight quote mark was not repaired")
     # the metric: an answer that is all outside the window scores low, a crash is never 0 or 1
     sc = score(w, {(slug, line)}, {slug: [line + 40, line + 41]})
     if sc["score"] != 0.0 or sc["gold_hit"] is not None:

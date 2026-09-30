@@ -1,0 +1,44 @@
+{"status": "answered", "model": "session/haiku", "pack_hash": "49c9919a6728df959e625a5d746b78a9a391866ff94e657b325f1992ffb74e79",
+ "answer": {
+   "answerable": "yes",
+   "claims": [
+     {
+       "doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+       "says": "Juna erscheint zum ersten Mal direkt in Kap 38 Beat 3, als Stille und Da-Sein ohne Worte.",
+       "quotes": [
+         {
+           "text": "Erste direkte Erscheinung erst in Kap 38 Beat 3 — als Stille, als Da-Sein ohne Worte",
+           "line_hint": 121
+         }
+       ]
+     },
+     {
+       "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+       "says": "In Kap 38 erscheint Juna direkt.",
+       "quotes": [
+         {
+           "text": "Juna erscheint direkt",
+           "line_hint": 593
+         }
+       ]
+     },
+     {
+       "doc": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+       "says": "Juna erscheint direkt in Kap 38; dabei wird die Externe Ebene durch eine Schicht-Verschiebung betretbar.",
+       "quotes": [
+         {
+           "text": "Juna erscheint direkt; die Externe Ebene wird *betretbar*, nicht als Ortwechsel, sondern als Schicht-Verschiebung",
+           "line_hint": 727
+         }
+       ]
+     }
+   ],
+   "differ": [],
+   "gaps": [
+     "Das Paket nennt Konflikt C7 (Juna's direct appearance: zwei Kanon-Quellen platzieren dies in verschiedenen Kapiteln), zeigt aber nur die Platzierung in Kap 38. Die alternative Kapitel-Nummer ist nicht im Paket."
+   ],
+   "need": [
+     {"doc": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "lines": [630]}
+   ],
+   "next": []
+ }}
