@@ -20,8 +20,11 @@ places for the reader, each marked `<!-- reader: … -->`:
   count with compounds, every `- ` line read as prose.
 
 `check` fails on a census that still carries a `<!-- reader:` mark, lacks a
-section, or whose tables no longer equal `counts.json` — a row dropped, added,
-or its numbers changed by hand. Standard library only.
+section, or whose mechanical parts are no longer the ones `draft` writes from
+`counts.json` and the document: a row dropped, added or doubled, any cell of one
+changed by hand — counts, lines or surfaces — or the frontmatter, the profile or
+one of the facts changed. A candidate written with „…“ in it cites the line its
+quotation stands on, so `quotes.py` checks it. Standard library only.
 
     python3 scripts/census.py draft <slug>    # writes Plan/runs/<slug>/census-draft.md
     python3 scripts/census.py check <slug>    # the census in Sources/terms/ against counts.json
@@ -46,6 +49,7 @@ SECTIONS = ("## Structural profile", "## Stance, read per passage", "## Candidat
 READER = "<!-- reader:"
 ROW = re.compile(r"^\| `(?P<term>(?:[^`]|``)+)` \^\[(?P<slug>[A-Za-z0-9\-]+)\.md:#(?P<n>\d+)\] "
                  r"\| (?P<word>\d+) \| (?P<inside>\d+) \|", re.M)
+QUOTE = re.compile(r"„(?P<quote>[^„“]{1,400})[“\"]")
 HEADER = """> **This file describes one document and nothing else.** No count, comparison or
 > expectation from any other source appears here. Comparing documents is a
 > separate step, and mixing the two is what lets a term look unimportant in the
@@ -71,17 +75,36 @@ def grouped(candidates_md: str) -> tuple[list[str], list[str]]:
     return named, lens
 
 
+def cited(slug: str, term: str, lines: list[int]) -> str:
+    """The line references a candidate's quotations need, or "".
+
+    A candidate written with „…“ in it — `„Aufmerksamkeit“ (Energie)` — is a
+    quotation to `quotes.py`, and one with no reference on its row is reported
+    unchecked (the review of #120, 2026-09-30). So each quotation gets the line
+    `read.py` places it on, preferring a line the candidate itself stands on.
+    Where a quotation stands on no line, nothing is cited and `draft` says so.
+    """
+    import read
+    from subject import document
+    refs = []
+    for m in QUOTE.finditer(term):
+        at = read.locate(document(slug), m.group("quote"))
+        if at:
+            refs.append(f"^[L{next((n for n in at if n in lines), at[0])}]")
+    return (" " + " ".join(refs)) if refs else ""
+
+
+def row(slug: str, term: str, c: dict, text: str) -> str:
+    """One candidate's row, exactly as `draft` writes it and `check` expects it."""
+    forms = ", ".join(f"`{f}` ×{n}" for f, n in surfaces(term, text))
+    lines = ", ".join(str(n) for n in c["lines"][:12]) + (" …" if len(c["lines"]) > 12 else "")
+    return (f"| `{term}` ^[{slug}.md:#{c['n']}] | {c['n']} | {c['n_including_compounds']} "
+            f"| {lines}{cited(slug, term, c['lines'])} | {forms} |")
+
+
 def table(slug: str, terms: list[str], counts: dict, text: str) -> list[str]:
     out = ["| candidate | word | in | lines | surfaces |", "|---|---|---|---|---|"]
-    for term in terms:
-        c = counts.get(term)
-        if c is None:
-            continue
-        forms = ", ".join(f"`{f}` ×{n}" for f, n in surfaces(term, text))
-        lines = ", ".join(str(n) for n in c["lines"][:12]) + (" …" if len(c["lines"]) > 12 else "")
-        out.append(f"| `{term}` ^[{slug}.md:#{c['n']}] | {c['n']} | {c['n_including_compounds']} "
-                   f"| {lines} | {forms} |")
-    return out
+    return out + [row(slug, term, counts[term], text) for term in terms if term in counts]
 
 
 def draft(slug: str, runs: Path = RUNS) -> str:
@@ -103,6 +126,8 @@ def draft(slug: str, runs: Path = RUNS) -> str:
     differ = [t for t in named + lens if t in counts and counts[t]["n"] and
               counts[t]["n"] != counts[t]["n_including_compounds"]]
     prose = counts_json.get("read_as_prose") or []
+    unplaced = [t for t in named + lens if t in counts and QUOTE.search(t)
+                and len(QUOTE.findall(t)) > len(re.findall(r"\^\[L", cited(slug, t, counts[t]["lines"])))]
     out = [front.rstrip("\n"), "", f"# Term census — {title}", "", HEADER, "",
            "## Structural profile", "", f"`python3 scripts/profile.py {slug}`", "", "```",
            prof.render(prof.profile(document(slug))).split("\n", 1)[1].rstrip("\n"), "```", "",
@@ -131,6 +156,9 @@ def draft(slug: str, runs: Path = RUNS) -> str:
     if prose:
         out += [f"**`- ` lines read as prose and not counted:** {len(prose)} — "
                 + " · ".join(prose) + ".", ""]
+    if unplaced:
+        out += [f"**A quotation in a candidate that no line holds:** {len(unplaced)} — "
+                + ", ".join(f"`{t}`" for t in unplaced) + ". `quotes.py` reports each as unchecked.", ""]
     return "\n".join(out).rstrip("\n") + "\n"
 
 
@@ -149,25 +177,63 @@ def check(slug: str, census: Path | None = None, runs: Path = RUNS) -> list[str]
         if section not in text:
             problems.append(f"no `{section}`")
     counts = json.loads((runs / slug / "counts.json").read_text(encoding="utf-8"))["counts"]
-    rows = {}
-    for m in ROW.finditer(text):
-        if m.group("slug") == slug:
-            rows[m.group("term").replace("``", "`")] = (int(m.group("n")), int(m.group("word")),
-                                                          int(m.group("inside")))
+    # Every cell of a row is mechanical, so the row is compared whole with the one
+    # `draft` writes. Until the review of #120 (2026-09-30) only the mark and the
+    # two counts were, and a row claiming line 999999 and a surface `FAKE` held.
+    body, _ = body_of(slug)
+    got: dict[str, list[str]] = {}
+    for line in text.split("\n"):
+        m = ROW.match(line)
+        if m and m.group("slug") == slug:
+            got.setdefault(m.group("term").replace("``", "`"), []).append(line.rstrip())
     for term, c in counts.items():
-        got = rows.get(term)
-        if got is None:
+        rows = got.get(term, [])
+        want = row(slug, term, c, body)
+        if not rows:
             problems.append(f"`{term}` has no row")
-        elif got != (c["n"], c["n"], c["n_including_compounds"]):
-            problems.append(f"`{term}`: the row says {got[1]}/{got[2]}, counts.json {c['n']}/"
-                            f"{c['n_including_compounds']}")
-    for term in rows:
+            continue
+        if len(rows) > 1:
+            problems.append(f"`{term}` has {len(rows)} rows")
+        for line in rows:
+            if line != want:
+                problems.append(f"`{term}`: the row is not the one census.py draft writes — "
+                                f"{line[len(term) + 4:][:90]!r}, expected {want[len(term) + 4:][:90]!r}")
+    for term in got:
         if term not in counts:
             problems.append(f"`{term}` has a row but was not counted")
+    # Everything else `draft` writes is as mechanical as the rows: the frontmatter
+    # (its `extracted:` date aside), the profile, the candidates section around its
+    # rows, and the facts the last section opens with.
+    want = draft(slug, runs)
+    if front_of(text) != front_of(want):
+        problems.append("the frontmatter is not the one census.py draft writes")
+    if section_of(text, "## Structural profile") != section_of(want, "## Structural profile"):
+        problems.append("the structural profile is not the one census.py draft writes")
+    if not problems and section_of(text, SECTIONS[2]) != section_of(want, SECTIONS[2]):
+        problems.append("the candidates section is not the draft's outside its rows — a line added, "
+                        "dropped or changed")
+    for fact in (section_of(want, SECTIONS[3]) or "").split("\n"):
+        if fact.startswith("**") and fact not in text.split("\n"):
+            problems.append(f"a fact the draft states is gone or changed: {fact[:80]}")
     return problems
 
 
+def front_of(text: str) -> list[str]:
+    m = re.match(r"\A---\n(.*?)\n---\n", text, re.S)
+    return [l for l in (m.group(1).split("\n") if m else []) if not l.startswith("extracted:")]
+
+
+def section_of(text: str, heading: str) -> str | None:
+    """A section from its heading to the next `## ` heading, or None."""
+    start = text.find(heading + "\n")
+    if start < 0:
+        return None
+    end = text.find("\n## ", start + len(heading))
+    return text[start:end if end >= 0 else len(text)].rstrip()
+
+
 def selftest() -> int:
+    import quotes
     slug = "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik"
     cases = []
     text = draft(slug)
@@ -189,7 +255,23 @@ def selftest() -> int:
         f.write_text("\n".join(l for l in filled.split("\n") if not l.startswith(f"| `{term}` ")),
                      encoding="utf-8")
         cases.append(("a dropped row fails", any("has no row" in p for p in check(slug, f))))
-    import quotes
+        # The review of #120 (2026-09-30): a row whose lines and surfaces were forged held.
+        mine = next(l for l in filled.split("\n") if l.startswith(f"| `{term}` "))
+        forged = "|".join(mine.split("|")[:4] + [" 999999 ", " `FAKE` ×99 ", ""])
+        f.write_text(filled.replace(mine, forged), encoding="utf-8")
+        cases.append(("forged lines and surfaces fail", any(term in p for p in check(slug, f))))
+        f.write_text(filled.replace(mine, mine + "\n" + mine), encoding="utf-8")
+        cases.append(("a doubled row fails", any("2 rows" in p for p in check(slug, f))))
+        f.write_text(filled.replace(mine, mine + "\n| `ERFUNDEN` | 3 | 3 | 1, 2, 3 |  |"), encoding="utf-8")
+        cases.append(("a row with no count mark fails", any("outside its rows" in p for p in check(slug, f))))
+        fact = next(l for l in filled.split("\n") if l.startswith("**Zeros:**"))
+        f.write_text(filled.replace(fact, "**Zeros:** none."), encoding="utf-8")
+        cases.append(("a changed fact fails", any("fact the draft states" in p for p in check(slug, f))))
+        # ... and a candidate written with „…“ came out as an uncited quotation.
+        f.write_text(filled, encoding="utf-8")
+        problems, unchecked = quotes.check_file(f, slug)
+        cases.append(("the whole draft passes quotes.py, its candidates' quotations cited",
+                      any("„" in t for t in counts) and not problems and unchecked == 0))
     marks_made, marks_wrong = quotes.check_marks(text)
     cases.append(("every count mark holds for quotes.py", marks_made >= len(counts) and not marks_wrong))
     failed = [n for n, ok in cases if not ok]
