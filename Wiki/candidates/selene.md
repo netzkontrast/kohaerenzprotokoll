@@ -1,16 +1,20 @@
 ---
 term: Selene
 status: candidate
-sources: 25
-readings: 25
+sources: 26
+readings: 26
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework"]
 gathered: "2026-09-24"
 ---
 
 # Selene
 
 One of the thirteen [[alters|Alters]] — ANP, „Integrator / ISH" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L466].
+
+## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — the Integrator-Agent as the stress test's success case
+
+Selene appears once, in the third step of the template's check, a stress test that injects a paradox. The document names the two outcomes. The failure is „Das System stürzt ab (Trivialismus) oder halluziniert.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L122] The success is: „Der Integrator-Agent (Selene) übernimmt und puffert den Widerspruch über parakonsistente Logik-Gatter.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L123] This is a method's expected result, written as a test criterion; the document does not say Selene does this in the novel.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -155,3 +159,7 @@ An English file of about fourteen reports of 2025. The Guide's eight-alter table
 **The last report, `An Architecture of the Self`, makes her the ISH of its own three-column table**, alone in that column: „Apparently Normal Parts (ANPs) | Emotional Parts (EPs) | Inner Self Helper (ISH)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1712] „Kael (Host) | Nyx | Selene" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1713]
 
 **She is named in a Kael-dyad, as the threat integration poses to him.** That same report: „Kael vs. Selene: This dyad dramatizes the Host's phobia of integration clashing with the system's own innate drive toward wholeness. As the Host, Kael’s primary motivation is to maintain functionality. Selene, the system's internal therapist and facilitator, champions a healing process that Kael perceives as a profound threat to his carefully constructed, albeit dysfunctional, stability." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1733] The Assessment states the same dyad: „Kael (ANP) vs. Selene (Integrator): As the host responsible for daily functioning, Kael's primary goal is maintaining the status quo, however fragile. Selene represents the system's potential for integration and healing. Kael perceives Selene's influence—and the process of integration itself—as a profound threat, fearing it will lead to destabilization and the overwhelming intrusion of the traumatic material he is phobic of." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1640]
+
+## Where the sources differ
+
+- `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01: Selene as the Integrator-Agent that buffers a contradiction, „parakonsistente Logik-Gatter“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L123], as the stress test's success case (L123).
