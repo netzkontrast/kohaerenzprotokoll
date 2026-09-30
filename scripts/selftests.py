@@ -62,6 +62,7 @@ SUITES = [
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("gold lists", "std", ["scripts/gold.py", "selftest"]),
     ("extractors against gold", "std", ["scripts/goldeval.py", "selftest"]),
+    ("relations against gold", "std", ["scripts/goldrel.py", "selftest"]),
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
     ("pipeline order: violations named", "std", ["scripts/account.py", "selftest"]),
     ("pipeline order, live", "std", ["scripts/account.py", "order", "--summary"]),
