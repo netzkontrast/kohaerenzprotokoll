@@ -8,5 +8,5 @@ for d in $(git ls-files --others --exclude-standard --directory Plan/runs/*/hype
   d=${d%/}
   if [ -f "$d/usage.json" ] && [ -f "$d/calls.jsonl" ]; then git add "$d"; n=$((n+1)); fi
 done
-git add Plan/runs/hyperextract-backfill-2026-09-30/log.txt 2>/dev/null
+git add Plan/runs/hyperextract-backfill-2026-09-30/log.txt Plan/runs/hyperextract-backfill-2026-09-30/stdout.txt 2>/dev/null
 echo "staged $n run directories"
