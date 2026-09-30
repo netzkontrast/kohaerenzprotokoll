@@ -98,3 +98,8 @@ stops the whole batch. Keep helpers in your own scratch folder.
    with the line or the count>".
 6. Report per page: the file written or „not read", lines cited, and anything that
    looks like a new conflict (never create a record).
+7. A page the brief does not list, that the document speaks to: name it in the report
+   with the lines, and write no file for it — the coordinator decides. (2026-09-30: the
+   lookup matches only the surfaces the index holds, and a reader that named
+   `chaitin-konstante`, `mnemosyne-server-architektur` and `plot` in its report found
+   three pages the brief had missed; they were written from that report.)
