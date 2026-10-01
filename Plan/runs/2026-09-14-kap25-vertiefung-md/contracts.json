@@ -16,8 +16,11 @@
    "candidates": 8,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "analogies-sonnet-2026-10-01",
@@ -34,8 +37,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "anchors-sonnet-2026-10-01",
@@ -55,8 +61,11 @@
     "surface absent from document": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "attributions-sonnet-2026-10-01",
@@ -75,8 +84,11 @@
     "quote not placed": 3
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "cardfields-sonnet-2026-10-01",
@@ -93,8 +105,11 @@
    "candidates": 1,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "castroles-sonnet-2026-10-01",
@@ -111,8 +126,11 @@
    "candidates": 2,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "causallinks-sonnet-2026-10-01",
@@ -129,8 +147,11 @@
    "candidates": 2,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "chapterbeats-sonnet-2026-10-01",
@@ -149,8 +170,11 @@
     "quote not placed": 2
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "chaptercards-sonnet-2026-10-01",
@@ -167,8 +191,11 @@
    "candidates": 6,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "diegeticterms-sonnet-2026-10-01",
@@ -187,8 +214,11 @@
     "quote not placed": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "refused",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "entityfacts-sonnet-2026-10-01",
@@ -207,8 +237,11 @@
     "surface absent from document": 3
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "knowledge-sonnet-2026-10-01",
@@ -227,8 +260,11 @@
     "quote not placed": 2
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "locationregistry-sonnet-2026-10-01",
@@ -245,8 +281,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "not staged",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "locks-sonnet-2026-10-01",
@@ -263,8 +302,11 @@
    "candidates": 1,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "openpoints-sonnet-2026-10-01",
@@ -281,8 +323,11 @@
    "candidates": 7,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "pitch-sonnet-2026-10-01",
@@ -299,8 +344,11 @@
    "candidates": 1,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "precedence-sonnet-2026-10-01",
@@ -317,8 +365,11 @@
    "candidates": 2,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "proserules-sonnet-2026-10-01",
@@ -338,8 +389,11 @@
     "quote not placed": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "quantities-sonnet-2026-10-01",
@@ -360,8 +414,11 @@
     "ambiguous quote: choose its passage": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "relationreadings-sonnet-2026-10-01",
@@ -382,8 +439,11 @@
     "joined or shortened quote": 3
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "rules-sonnet-2026-10-01",
@@ -402,8 +462,11 @@
     "quote not placed": 3
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "standingclaims-sonnet-2026-10-01",
@@ -422,8 +485,11 @@
     "joined or shortened quote": 2
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "statedrelations-sonnet-2026-10-01",
@@ -443,8 +509,11 @@
     "joined or shortened quote": 5
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "storypoints-sonnet-2026-10-01",
@@ -461,8 +530,11 @@
    "candidates": 3,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "structurebeats-sonnet-2026-10-01",
@@ -479,8 +551,11 @@
    "candidates": 7,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "termcensus-sonnet-2026-10-01",
@@ -497,8 +572,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "not staged",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "termcontrasts-sonnet-2026-10-01",
@@ -518,8 +596,11 @@
     "surface absent from document": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "termdefinitions-sonnet-2026-10-01",
@@ -536,8 +617,11 @@
    "candidates": 11,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "termreadings-sonnet-2026-10-01",
@@ -558,8 +642,11 @@
     "joined or shortened quote": 2
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "termtaxonomy-sonnet-2026-10-01",
@@ -576,8 +663,11 @@
    "candidates": 7,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "thememotifs-sonnet-2026-10-01",
@@ -596,8 +686,11 @@
     "quote not placed": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "utterances-sonnet-2026-10-01",
@@ -616,8 +709,11 @@
     "ambiguous quote: choose its passage": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   }
  ]
 }

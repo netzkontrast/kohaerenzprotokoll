@@ -93,6 +93,7 @@ SUITES = [
     ("templates, live", "std", ["scripts/templates.py", "check"]),
     ("contracts: each outcome told apart", "std", ["scripts/contracts.py", "selftest"]),
     ("contracts per source, live", "std", ["scripts/contracts.py", "--check"]),
+    ("model rotation: explore, exploit by labels", "std", ["scripts/modelpick.py", "selftest"]),
     ("HyperExtract port against upstream", "he", ["scripts/hx.py", "parity"]),
     ("dspy surface", "dspy", ["scripts/check_dspy_surface.py"]),
     ("dspy skill, selftest", "dspy", ["scripts/check_dspy_skill.py", "--selftest"]),

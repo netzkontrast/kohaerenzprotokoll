@@ -20,8 +20,11 @@
     "quote not placed": 2
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "storyform"
   },
   {
    "run": "termcontrasts-haiku-2026-09-30",
@@ -43,8 +46,11 @@
     "ambiguous quote: choose its passage": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "storyform"
   },
   {
    "run": "termdefinitions-haiku-2026-09-30",
@@ -64,8 +70,11 @@
     "ambiguous quote: choose its passage": 5
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "storyform"
   }
  ]
 }

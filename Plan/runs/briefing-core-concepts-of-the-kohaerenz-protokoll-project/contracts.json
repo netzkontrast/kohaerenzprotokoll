@@ -16,8 +16,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "kernkonzept"
   },
   {
    "run": "standingclaims-haiku-2026-09-30",
@@ -34,8 +37,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "kernkonzept"
   }
  ]
 }

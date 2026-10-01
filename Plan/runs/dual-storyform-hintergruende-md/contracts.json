@@ -20,8 +20,11 @@
     "quote not placed": 1
    },
    "duplicates": 1,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "storyform"
   },
   {
    "run": "storypoints-haiku-2026-09-30",
@@ -41,8 +44,14 @@
     "surface absent from document": 12
    },
    "duplicates": 0,
+   "labels": {
+    "part": 7,
+    "ok": 4
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "storyform"
   },
   {
    "run": "termcontrasts-haiku-2026-09-30",
@@ -63,8 +72,11 @@
     "ambiguous quote: choose its passage": 1
    },
    "duplicates": 1,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "storyform"
   },
   {
    "run": "termdefinitions-haiku-2026-09-30",
@@ -85,8 +97,11 @@
     "quote not placed": 4
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "storyform"
   }
  ]
 }

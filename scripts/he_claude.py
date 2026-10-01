@@ -14,13 +14,16 @@ LangChain until 2026-10-01: the prompt with the chunk in it, then `JSON_ONLY` an
   the error named; a second failure raises, and `hx.extract` drops that chunk as
   HyperExtract did, which `reading_extract.candidates` refuses when no chunk survived.
 
-    python3 scripts/he_claude.py run <slug> <template.yaml> --run <name> [--model haiku] [--gate] [--approval "<text>"]
+    python3 scripts/he_claude.py run <slug> <template.yaml> --run <name> [--model auto|haiku|sonnet] [--gate] [--approval "<text>"]
     python3 scripts/he_claude.py selftest
 
 `run` is the pipeline's HyperExtract pass on one document: `reading_extract.extract` with this model, then
 `reading_extract.stage` into `Plan/runs/<slug>/hyperextract/<name>/`, with `calls.jsonl`, `usage.json` (one entry per
 chunk among its fields) and `raw.json` — the merged data as the model returned it, kept when staging refuses it — beside
-the candidates. A run whose every chunk failed is recorded there too, with why, and staged nothing. A list, set or
+the candidates. `--model auto`, the default, lets `modelpick.py` choose — mostly the model with the best labelled
+precision for the contract, about a fifth of runs at random from the pool, so that which model reads what best can be
+learned — and `usage.json` records the choice and why; `{model}` in the run name is replaced by the chosen alias. A run
+whose every chunk failed is recorded there too, with why, and staged nothing. A list, set or
 graph template runs (`hx.RUNS`); a set and a graph merge by their identifiers, never with a model. `selftest` runs the
 whole path on the committed fixture with a fake `claude`, offline.
 """
@@ -190,7 +193,7 @@ APPROVAL = ("decision 011 (Claude, first party); the author's instruction of 202
             "HyperExtract into the pipeline and read with Haiku")
 
 
-def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str | None = None, gate: bool = False,
+def run(slug: str, template: Path, name: str, model: str = "auto", binary: str | None = None, gate: bool = False,
         approval: str | None = None) -> int:
     """One document through one template with Claude, staged, every call recorded. `gate` sends the model
     only the paragraphs that hold a cue of the contract (`hegraph.gate`) and records the share in `usage.json`.
@@ -203,6 +206,16 @@ def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str 
     if hx.load(template).type not in hx.RUNS:
         raise SystemExit(f"{template.name}: only {', '.join(hx.RUNS)} templates run here")
     doc = document(slug)
+    if model == "auto":     # the rotation (`modelpick.py`): mostly the best-labelled model, a fifth of runs at random
+        import modelpick
+        from subject import read_jsonl
+        category = next((r.get("category") for r in read_jsonl(ROOT / "Sources" / "manifest.jsonl")
+                         if r["slug"] == doc.slug), None)
+        choice = modelpick.choose(template.stem, doc.slug, name, category)
+        model = choice["model"]
+    else:
+        choice = {"model": model, "explored": False, "reason": "named by the caller"}
+    name = name.replace("{model}", model)
     text = None
     if gate:
         import hegraph
@@ -225,7 +238,7 @@ def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str 
         target.mkdir(parents=True, exist_ok=False)
     usage = {"document": doc.slug, "template": template.name, "model": f"claude-cli/{model}",
              "template_sha256": reading_extract.digest(template), "source_sha256": reading_extract.digest(doc.path),
-             **claude_cli.totals(llm.calls),
+             **claude_cli.totals(llm.calls), "model_choice": choice,
              "approval": approval or APPROVAL}
     if gate:
         usage["gate"] = {"characters_sent": len(text), "characters_in_document": len(doc.body),
@@ -256,7 +269,8 @@ def main(argv: list[str]) -> int:
     ap.add_argument("slug")
     ap.add_argument("template", type=Path)
     ap.add_argument("--run", required=True)
-    ap.add_argument("--model", default="haiku")
+    ap.add_argument("--model", default="auto",
+                    help="a claude -p alias, or auto (default): the rotation of modelpick.py, recorded in usage.json")
     ap.add_argument("--binary")
     ap.add_argument("--gate", action="store_true", help="send only the paragraphs that hold a cue of the contract")
     ap.add_argument("--approval", help="what licensed the run, if not the default of APPROVAL")

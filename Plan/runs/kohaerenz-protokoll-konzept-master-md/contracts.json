@@ -20,8 +20,11 @@
     "quote not placed": 10
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "kernkonzept"
   },
   {
    "run": "termcontrasts-haiku-2026-09-30",
@@ -41,8 +44,14 @@
     "surface absent from document": 6
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 1,
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "kernkonzept"
   },
   {
    "run": "termdefinitions-haiku-2026-09-30",
@@ -63,8 +72,11 @@
     "ambiguous quote: choose its passage": 1
    },
    "duplicates": 4,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "kernkonzept"
   }
  ]
 }

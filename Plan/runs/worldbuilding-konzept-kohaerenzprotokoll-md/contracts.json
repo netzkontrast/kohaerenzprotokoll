@@ -20,8 +20,13 @@
     "ambiguous quote: choose its passage": 2
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "worldbuilding"
   },
   {
    "run": "termcontrasts-haiku-2026-09-30",
@@ -41,8 +46,13 @@
     "surface absent from document": 4
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 2
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "worldbuilding"
   },
   {
    "run": "termdefinitions-haiku-2026-09-30",
@@ -63,8 +73,13 @@
     "ambiguous quote: choose its passage": 5
    },
    "duplicates": 1,
+   "labels": {
+    "ok": 2
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "worldbuilding"
   }
  ]
 }

@@ -18,8 +18,14 @@
     "surface absent from document": 12
    },
    "duplicates": 0,
+   "labels": {
+    "part": 10,
+    "wrong": 9
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "castroles-haiku-2026-09-30",
@@ -38,8 +44,14 @@
     "surface absent from document": 9
    },
    "duplicates": 0,
+   "labels": {
+    "part": 5,
+    "ok": 7
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "chapterbeats-haiku-2026-09-30",
@@ -59,8 +71,14 @@
     "quote not placed": 1
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 14,
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "chaptercards-haiku-2026-09-30",
@@ -80,8 +98,14 @@
     "surface absent from document": 31
    },
    "duplicates": 1,
+   "labels": {
+    "ok": 13,
+    "part": 2
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "precedence-haiku-2026-09-30",
@@ -101,8 +125,15 @@
     "surface absent from document": 5
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 2,
+    "wrong": 8,
+    "part": 2
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "structurebeats-haiku-2026-09-30",
@@ -122,8 +153,13 @@
     "surface absent from document": 17
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 12
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   }
  ]
 }

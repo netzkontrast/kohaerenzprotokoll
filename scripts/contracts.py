@@ -64,11 +64,15 @@ def outcome(run: Path) -> dict:
            "chunks": len(chunks) or None, "failed_chunks": failed_chunks if chunks else None,
            "cost_usd": round(usage.get("cost_usd", 0.0), 4),
            "template_sha256": (report or {}).get("template_sha256") or usage.get("template_sha256", ""),
-           "rows": 0, "candidates": 0, "refused": {}, "duplicates": 0}
+           "rows": 0, "candidates": 0, "refused": {}, "duplicates": 0,
+           "labels": {}, "model_choice": usage.get("model_choice")}
     failed = str(usage.get("failed", ""))
     if report is not None:
         rec.update(rows=report["input_rows"], candidates=report["candidates"], duplicates=report["duplicates"],
                    refused=dict(Counter(r["reason"] for r in report["rows"] if r["status"] == "refused")))
+        marks = labels()
+        rec["labels"] = dict(Counter(marks[r.get("id", "")[6:14]]["label"] for r in report["rows"]
+                                     if r.get("id", "")[6:14] in marks))
         rec["outcome"] = "yielded" if report["candidates"] else "refused"
     elif failed.startswith("candidate lacks") and raw:
         rec["rows"] = len(raw.get("items", [])) + len(raw.get("nodes", [])) + len(raw.get("edges", []))
@@ -81,11 +85,26 @@ def outcome(run: Path) -> dict:
     return rec
 
 
+LABELS = ROOT / "Plan" / "runs" / "hyperextract-templates-2026-09-30" / "labels.jsonl"
+_LABELS: dict | None = None
+
+
+def labels() -> dict:
+    """A reader's `ok`/`part`/`wrong` on a sample of rows, by the first eight characters of the row's id (`hegraph.labels`)."""
+    global _LABELS
+    if _LABELS is None:
+        from subject import read_jsonl
+        _LABELS = {r["id"]: r for r in read_jsonl(LABELS)} if LABELS.is_file() else {}
+    return _LABELS
+
+
 def collect(root: Path = ROOT) -> dict[str, list[dict]]:
     """slug -> every run on it, for the slugs the manifest knows (a scratch directory is not a source)."""
     from subject import read_jsonl
     manifest = root / "Sources" / "manifest.jsonl"
-    known = {r["slug"] for r in read_jsonl(manifest)} if manifest.is_file() else None
+    rows = read_jsonl(manifest) if manifest.is_file() else None
+    known = {r["slug"] for r in rows} if rows is not None else None
+    category = {r["slug"]: r.get("category", "") for r in rows or []}
     out: dict[str, list[dict]] = {}
     for run in sorted((root / "Plan" / "runs").glob("*/hyperextract/*/")):
         slug = run.parts[-3]
@@ -94,6 +113,7 @@ def collect(root: Path = ROOT) -> dict[str, list[dict]]:
         rec = outcome(run)
         template = root / "Plan" / "hyperextract" / f"{rec['contract']}.yaml"
         rec["stale"] = bool(rec["template_sha256"]) and template.is_file() and sha(template) != rec["template_sha256"]
+        rec["category"] = category.get(slug, "")
         out.setdefault(slug, []).append(rec)
     return out
 
@@ -158,6 +178,42 @@ def matrix_md(data: dict[str, list[dict]], names: list[str]) -> str:
     return "\n".join(out) + "\n"
 
 
+def model_stats(root: Path = ROOT, data: dict | None = None) -> list[dict]:
+    """Per (contract, category, model): runs, found nothing, admitted rows, cost, labelled rows and how many were `ok` —
+    what `modelpick.choose` ranks by (labels only) and `Plan/runs/models.md` shows."""
+    data = collect(root) if data is None else data
+    agg: dict[tuple, dict] = {}
+    for slug, runs in data.items():
+        for r in runs:
+            key = (r["contract"], r["category"], r["model"].removeprefix("claude-cli/"))
+            a = agg.setdefault(key, {"contract": key[0], "category": key[1], "model": key[2], "runs": 0, "explored": 0,
+                                     "found_nothing": 0, "admitted": 0, "cost_usd": 0.0, "labelled": 0, "ok": 0})
+            a["runs"] += 1
+            a["explored"] += bool((r.get("model_choice") or {}).get("explored"))
+            a["found_nothing"] += r["outcome"] == "found nothing"
+            a["admitted"] += r["candidates"]
+            a["cost_usd"] += r["cost_usd"]
+            a["labelled"] += sum(r["labels"].values())
+            a["ok"] += r["labels"].get("ok", 0)
+    return [agg[k] for k in sorted(agg)]
+
+
+def models_md(stats: list[dict]) -> str:
+    out = ["# Which model, where", "",
+           "Every contract run by model and by the category of its source — written by `scripts/contracts.py`, the table "
+           "`scripts/modelpick.py` chooses from (`Plan/hyperextract/models.json`: about a fifth of runs explore a model at "
+           "random, the rest take the best **labelled** one). *admitted* rows are staging's, not a judgement; only "
+           "*labelled ok* is precision, and a cell with fewer labelled rows than the policy's `min_labels` ranks nothing.", "",
+           "| contract | category | model | runs (explored) | found nothing | admitted | $ per admitted row | labelled | ok |",
+           "|---|---|---|---|---|---|---|---|---|"]
+    for a in stats:
+        per = f"{a['cost_usd'] / a['admitted']:.4f}" if a["admitted"] else "—"
+        ok = f"{a['ok']} ({a['ok'] / a['labelled']:.0%})" if a["labelled"] else "—"
+        out.append(f"| `{a['contract']}` | {a['category'] or '—'} | {a['model'] or '—'} | {a['runs']} ({a['explored']}) | "
+                   f"{a['found_nothing']} | {a['admitted']} | {per} | {a['labelled']} | {ok} |")
+    return "\n".join(out) + "\n"
+
+
 def files(root: Path = ROOT) -> dict[Path, str]:
     data, names = collect(root), contracts(root)
     out = {}
@@ -166,6 +222,7 @@ def files(root: Path = ROOT) -> dict[Path, str]:
         out[base / "contracts.json"] = json.dumps({"source": slug, "runs": runs}, ensure_ascii=False, indent=1) + "\n"
         out[base / "contracts.md"] = source_md(slug, runs, names)
     out[root / "Plan" / "runs" / "contracts.md"] = matrix_md(data, names)
+    out[root / "Plan" / "runs" / "models.md"] = models_md(model_stats(root, data))
     return out
 
 
@@ -173,7 +230,7 @@ def write(root: Path = ROOT) -> int:
     out = files(root)
     for path, text in out.items():
         path.write_text(text, encoding="utf-8")
-    print(f"{len(out) - 1} source overviews and the matrix written")
+    print(f"{len(out) - 2} source overviews, the matrix and the model table written")
     return 0
 
 

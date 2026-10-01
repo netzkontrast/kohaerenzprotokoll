@@ -19,8 +19,11 @@
     "quote not placed": 16
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "termcontrasts-haiku-2026-09-30",
@@ -39,8 +42,11 @@
     "surface absent from document": 2
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   },
   {
    "run": "termdefinitions-haiku-2026-09-30",
@@ -60,8 +66,14 @@
     "quote not placed": 3
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 1,
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "plot-outline"
   }
  ]
 }

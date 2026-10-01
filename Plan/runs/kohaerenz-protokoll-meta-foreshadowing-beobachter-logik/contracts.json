@@ -16,8 +16,11 @@
    "candidates": 3,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "analogies-haiku-2026-09-30",
@@ -36,8 +39,13 @@
     "surface absent from document": 1
    },
    "duplicates": 0,
+   "labels": {
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "analogies-sonnet-2026-10-01",
@@ -56,8 +64,11 @@
     "surface absent from document": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "refused",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "anchors-haiku-2026-09-30",
@@ -76,8 +87,14 @@
     "surface absent from document": 8
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 6,
+    "part": 5
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "anchors-sonnet-2026-10-01",
@@ -94,8 +111,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "attributions-haiku-2026-09-30",
@@ -112,8 +132,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "attributions-sonnet-2026-10-01",
@@ -130,8 +153,11 @@
    "candidates": 2,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "cardfields-sonnet-2026-10-01",
@@ -150,8 +176,11 @@
     "surface absent from document": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "castroles-sonnet-2026-10-01",
@@ -168,8 +197,11 @@
    "candidates": 6,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "causallinks-haiku-2026-09-30",
@@ -188,8 +220,14 @@
     "surface absent from document": 6
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 5,
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "refused",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "causallinks-sonnet-2026-10-01",
@@ -206,8 +244,11 @@
    "candidates": 5,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "chapterbeats-sonnet-2026-10-01",
@@ -224,8 +265,11 @@
    "candidates": 1,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "chaptercards-sonnet-2026-10-01",
@@ -242,8 +286,11 @@
    "candidates": 1,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "diegeticterms-sonnet-2026-10-01",
@@ -260,8 +307,11 @@
    "candidates": 1,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "entityfacts-sonnet-2026-10-01",
@@ -278,8 +328,11 @@
    "candidates": 4,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "knowledge-haiku-2026-09-30",
@@ -298,8 +351,14 @@
     "surface absent from document": 10
    },
    "duplicates": 0,
+   "labels": {
+    "part": 9,
+    "ok": 3
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "knowledge-sonnet-2026-10-01",
@@ -316,8 +375,11 @@
    "candidates": 6,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "locationregistry-sonnet-2026-10-01",
@@ -334,8 +396,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "locks-sonnet-2026-10-01",
@@ -352,8 +417,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "openpoints-haiku-2026-09-30",
@@ -370,8 +438,15 @@
    "candidates": 3,
    "refused": {},
    "duplicates": 0,
+   "labels": {
+    "wrong": 1,
+    "part": 1,
+    "ok": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "openpoints-sonnet-2026-10-01",
@@ -388,8 +463,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "pitch-sonnet-2026-10-01",
@@ -406,8 +484,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "precedence-sonnet-2026-10-01",
@@ -424,8 +505,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "proserules-sonnet-2026-10-01",
@@ -442,8 +526,11 @@
    "candidates": 4,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "quantities-sonnet-2026-10-01",
@@ -460,8 +547,11 @@
    "candidates": 5,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "relationreadings-sonnet-2026-10-01",
@@ -480,8 +570,11 @@
     "surface absent from document": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "rules-haiku-2026-09-30",
@@ -500,8 +593,14 @@
     "surface absent from document": 3
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 2,
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "rules-sonnet-2026-10-01",
@@ -518,8 +617,11 @@
    "candidates": 5,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "standingclaims-haiku-2026-09-30",
@@ -536,8 +638,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "standingclaims-sonnet-2026-10-01",
@@ -554,8 +659,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "statedrelations-sonnet-2026-10-01",
@@ -572,8 +680,11 @@
    "candidates": 16,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "storypoints-sonnet-2026-10-01",
@@ -590,8 +701,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "structurebeats-sonnet-2026-10-01",
@@ -608,8 +722,11 @@
    "candidates": 1,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "termcensus-sonnet-2026-10-01",
@@ -626,8 +743,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "not staged",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "termcontrasts-sonnet-2026-10-01",
@@ -644,8 +764,11 @@
    "candidates": 4,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "termdefinitions-sonnet-2026-10-01",
@@ -662,8 +785,11 @@
    "candidates": 8,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "termreadings-haiku-2026-09-30",
@@ -682,8 +808,11 @@
     "quote not placed": 3
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "termreadings-haiku-2026-09-30b",
@@ -702,8 +831,11 @@
     "surface absent from document": 2
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "termreadings-haiku-2026-09-30c",
@@ -722,8 +854,11 @@
     "surface absent from document": 2
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "termreadings-r1a-haiku-2026-09-30",
@@ -740,8 +875,11 @@
    "candidates": 14,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": true
+   "stale": true,
+   "category": "theorie-logik"
   },
   {
    "run": "termreadings-r1b-haiku-2026-09-30",
@@ -760,8 +898,11 @@
     "quote not placed": 1
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": true
+   "stale": true,
+   "category": "theorie-logik"
   },
   {
    "run": "termreadings-sonnet-2026-10-01",
@@ -778,8 +919,11 @@
    "candidates": 22,
    "refused": {},
    "duplicates": 1,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "termtaxonomy-haiku-2026-09-30",
@@ -798,8 +942,14 @@
     "surface absent from document": 1
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 3,
+    "wrong": 4
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "termtaxonomy-sonnet-2026-10-01",
@@ -816,8 +966,11 @@
    "candidates": 0,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "found nothing",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "thememotifs-haiku-2026-09-30",
@@ -836,8 +989,14 @@
     "surface absent from document": 4
    },
    "duplicates": 0,
+   "labels": {
+    "part": 1,
+    "ok": 3
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "thememotifs-sonnet-2026-10-01",
@@ -856,8 +1015,11 @@
     "surface absent from document": 2
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   },
   {
    "run": "utterances-sonnet-2026-10-01",
@@ -874,8 +1036,11 @@
    "candidates": 3,
    "refused": {},
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-logik"
   }
  ]
 }

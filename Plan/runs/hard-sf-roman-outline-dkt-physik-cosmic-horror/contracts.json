@@ -19,8 +19,13 @@
     "quote not placed": 4
    },
    "duplicates": 0,
+   "labels": {
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-physik"
   },
   {
    "run": "termcontrasts-haiku-2026-09-30",
@@ -40,8 +45,11 @@
     "quote not placed": 8
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-physik"
   },
   {
    "run": "termdefinitions-haiku-2026-09-30",
@@ -62,8 +70,13 @@
     "surface absent from document": 1
    },
    "duplicates": 0,
+   "labels": {
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-physik"
   }
  ]
 }

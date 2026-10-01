@@ -19,8 +19,14 @@
     "quote not placed": 5
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 12,
+    "part": 2
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "charaktere"
   },
   {
    "run": "diegeticterms-haiku-2026-09-30",
@@ -37,8 +43,14 @@
    "candidates": 5,
    "refused": {},
    "duplicates": 0,
+   "labels": {
+    "part": 4,
+    "ok": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "charaktere"
   },
   {
    "run": "entityfacts-haiku-2026-09-30",
@@ -59,8 +71,14 @@
     "surface absent from document": 8
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 9,
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "charaktere"
   },
   {
    "run": "proserules-haiku-2026-09-30",
@@ -81,8 +99,14 @@
     "ambiguous quote: choose its passage": 1
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 10,
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "charaktere"
   },
   {
    "run": "utterances-haiku-2026-09-30",
@@ -99,8 +123,13 @@
    "candidates": 3,
    "refused": {},
    "duplicates": 0,
+   "labels": {
+    "ok": 3
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "charaktere"
   }
  ]
 }

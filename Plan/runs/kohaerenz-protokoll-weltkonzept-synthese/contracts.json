@@ -20,8 +20,15 @@
     "ambiguous quote: choose its passage": 1
    },
    "duplicates": 0,
+   "labels": {
+    "wrong": 5,
+    "ok": 6,
+    "part": 4
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "worldbuilding"
   },
   {
    "run": "termcontrasts-haiku-2026-09-30",
@@ -42,8 +49,14 @@
     "joined or shortened quote": 5
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 12,
+    "part": 3
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "worldbuilding"
   },
   {
    "run": "termdefinitions-haiku-2026-09-30",
@@ -62,8 +75,15 @@
     "quote not placed": 2
    },
    "duplicates": 0,
+   "labels": {
+    "ok": 11,
+    "part": 2,
+    "wrong": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "worldbuilding"
   }
  ]
 }

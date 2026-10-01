@@ -21,8 +21,11 @@
     "joined or shortened quote": 1
    },
    "duplicates": 1,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-psychologie"
   },
   {
    "run": "termdefinitions-haiku-2026-09-30",
@@ -44,8 +47,11 @@
     "surface absent from document": 3
    },
    "duplicates": 6,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "theorie-psychologie"
   }
  ]
 }

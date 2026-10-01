@@ -19,8 +19,11 @@
     "surface absent from document": 4
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "kernkonzept"
   },
   {
    "run": "termcontrasts-haiku-2026-09-30",
@@ -39,8 +42,11 @@
     "quote not placed": 6
    },
    "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "kernkonzept"
   },
   {
    "run": "termdefinitions-haiku-2026-09-30",
@@ -60,8 +66,13 @@
     "quote not placed": 22
    },
    "duplicates": 1,
+   "labels": {
+    "part": 1
+   },
+   "model_choice": null,
    "outcome": "yielded",
-   "stale": false
+   "stale": false,
+   "category": "kernkonzept"
   }
  ]
 }
