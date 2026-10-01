@@ -250,15 +250,20 @@ ledger specified in three places whose directory does not exist.
   source contradicts a page a person signed off.
 - **Extraction is not yet trained.** `scripts/gold.py` rules
   65 <!--state:trainset.gold_candidate_lists--> `Plan/runs/<slug>/03-candidates.md`
-  gold — documents 5 to 51 and the twelve lists of step 6's sample, written by
+  gold — documents 5 to 51, the twelve lists of step 6's sample, written by
   document-readers while reading (2026-09-29; „documents 5 to 14" stood here
-  until 2026-09-30) — and none of the four reconstructions (decision 009;
-  this line said „one" until 2026-09-24). Documents 5, 6 and 14 have been scored
-  against. On 5 and 6 no extractor tested reached the Haiku floor
-  (`Plan/concept/tool-review_2026-09-24.md`); on 14, knowledge-graph-extract with
-  Claude as the model scored F1 0.37 where the Haiku list scored 0.19 — one
-  document, one attempt
+  until 2026-09-30), and six more from the gold run of 2026-09-30, steps 1–3
+  only, no census (`Plan/runs/gold-2026-09-30/README.md`) — and none of the four
+  reconstructions (decision 009; this line said „one" until 2026-09-24). Until
+  2026-09-30 only documents 5, 6 and 14 had been scored against. On 5 and 6 no
+  extractor tested reached the Haiku floor (`Plan/concept/tool-review_2026-09-24.md`);
+  on 14, knowledge-graph-extract with Claude as the model scored F1 0.37 where the
+  Haiku list scored 0.19 — one document, one attempt
   (`Plan/runs/koharenz-protokoll-strukturierter-outline-2026-05-18-md/second-readers/README.md`).
+  `goldeval.py` now scores every extractor — the HyperExtract contracts, the entity
+  lists, the blind re-readings — against every gold list it has read, and `goldrel.py`
+  scores the three contracts' pairs against a blind reader's relations on three
+  documents. Both measure; neither trains anything.
 
 `references/commands.md` has every script's full surface and its artifacts, and
 `scripts/README.md` is the map of the folder — one entry per file, what it is
