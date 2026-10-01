@@ -1,0 +1,52 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "e211a4add84b154ef0debc0a83509a67e70a4cab415e173347558a15cd05183b",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Canon §0 Schleier-Disziplin",
+        "target": "Kap 25–26",
+        "type": "recommends",
+        "quote": "Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26",
+        "stance": "cites"
+      },
+      {
+        "source": "Canon §5",
+        "target": "AEGIS bemerkt Kaels neue Klarheit",
+        "type": "recommends",
+        "quote": "Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit",
+        "stance": "cites"
+      },
+      {
+        "source": "Sprach-DNA",
+        "target": "ab Akt II",
+        "type": "recommends",
+        "quote": "die Sprach-DNA es „ab Akt II“ vorsieht",
+        "stance": "cites"
+      },
+      {
+        "source": "Canon",
+        "target": "offen benannt",
+        "type": "recommends",
+        "quote": "Canon verlangt „offen benannt“ in 25–26",
+        "stance": "cites"
+      },
+      {
+        "source": "Drafting-Brief",
+        "target": "Änderungen am Kopf",
+        "type": "recommends",
+        "quote": "Der Drafting-Brief verbietet Änderungen am Kopf außer status.",
+        "stance": "cites"
+      },
+      {
+        "source": "Akt I",
+        "target": "namenlos",
+        "type": "recommends",
+        "quote": "bleibt aber namenlos („Einheit“), wie es Akt I verlangt",
+        "stance": "cites"
+      }
+    ]
+  }
+}

@@ -69,3 +69,5 @@
 06:46:46 2026-09-14-kap25-vertiefung-md Anchors
 {"document": "2026-09-14-kap25-vertiefung-md", "template": "Anchors.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 56.2, "input_tokens": 32947, "output_tokens": 5041, "cost_usd": 0.1577, "approval": "decision 011 (Claude, first party); the author's instruction of 2026
 06:47:42 2026-09-14-kap25-vertiefung-md Attributions
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "Attributions.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 45.0, "input_tokens": 32337, "output_tokens": 2717, "cost_usd": 0.1319, "approval": "decision 011 (Claude, first party); the author's instruction of
+06:48:28 2026-09-14-kap25-vertiefung-md CardFields

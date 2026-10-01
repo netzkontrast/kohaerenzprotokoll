@@ -7,7 +7,7 @@ Every contract in `Plan/hyperextract/` on `kohaerenz-protokoll-meta-foreshadowin
 | `AliasPairs` | 3 | 3 | 0 | 0 | 8 | 8 | 0 | 0 | $0.217 | [AliasPairs.md](AliasPairs.md) |
 | `Analogies` | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | $0.165 | [Analogies.md](Analogies.md) |
 | `Anchors` | 0 | 0 | 0 | 0 | 10 | 7 | 3 | 0 | $0.207 | [Anchors.md](Anchors.md) |
-| `Attributions` | 2 | 2 | 0 | 0 | — | — | — | — | $0.050 | [Attributions.md](Attributions.md) |
+| `Attributions` | 2 | 2 | 0 | 0 | 6 | 3 | 3 | 0 | $0.182 | [Attributions.md](Attributions.md) |
 | `CardFields` | 6 | 5 | 1 | 0 | — | — | — | — | $0.063 | [CardFields.md](CardFields.md) |
 | `CastRoles` | 6 | 6 | 0 | 0 | — | — | — | — | $0.050 | [CastRoles.md](CastRoles.md) |
 | `CausalLinks` | 5 | 5 | 0 | 0 | — | — | — | — | $0.073 | [CausalLinks.md](CausalLinks.md) |
@@ -37,4 +37,4 @@ Every contract in `Plan/hyperextract/` on `kohaerenz-protokoll-meta-foreshadowin
 | `ThemeMotifs` | 7 | 5 | 2 | 0 | — | — | — | — | $0.066 | [ThemeMotifs.md](ThemeMotifs.md) |
 | `Utterances` | 3 | 3 | 0 | 0 | — | — | — | — | $0.053 | [Utterances.md](Utterances.md) |
 
-Total cost of the runs present: **$2.20**.
+Total cost of the runs present: **$2.33**.
