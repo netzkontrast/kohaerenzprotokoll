@@ -16,7 +16,7 @@ Every contract run by model and by the category of its source — written by `sc
 | `Anchors` | theorie-logik | haiku | 1 (0) | 0 | 6 | 0.0064 | 11 | 6 (55%) |
 | `Anchors` | theorie-logik | sonnet | 1 (0) | 1 | 0 | — | 0 | — |
 | `Attributions` | plot-outline | sonnet | 1 (0) | 0 | 3 | 0.0440 | 0 | — |
-| `Attributions` | theorie-logik | haiku | 1 (0) | 1 | 0 | — | 0 | — |
+| `Attributions` | theorie-logik | haiku | 1 (0) | 0 | 0 | — | 0 | — |
 | `Attributions` | theorie-logik | sonnet | 1 (0) | 0 | 2 | 0.0249 | 0 | — |
 | `CardFields` | charaktere | haiku | 1 (0) | 0 | 39 | 0.0042 | 14 | 12 (86%) |
 | `CardFields` | plot-outline | sonnet | 1 (0) | 0 | 1 | 0.1411 | 0 | — |
@@ -50,13 +50,13 @@ Every contract run by model and by the category of its source — written by `sc
 | `Knowledge` | theorie-logik | sonnet | 1 (0) | 0 | 6 | 0.0121 | 0 | — |
 | `LocationRegistry` | plot-outline | sonnet | 1 (0) | 0 | 0 | — | 0 | — |
 | `LocationRegistry` | theorie-logik | sonnet | 1 (0) | 1 | 0 | — | 0 | — |
-| `Locks` | kernkonzept | haiku | 1 (0) | 1 | 0 | — | 0 | — |
+| `Locks` | kernkonzept | haiku | 1 (0) | 0 | 0 | — | 0 | — |
 | `Locks` | plot-outline | sonnet | 1 (0) | 0 | 1 | 0.1135 | 0 | — |
 | `Locks` | theorie-logik | sonnet | 1 (0) | 1 | 0 | — | 0 | — |
 | `OpenPoints` | plot-outline | sonnet | 1 (0) | 0 | 7 | 0.0169 | 0 | — |
 | `OpenPoints` | theorie-logik | haiku | 1 (0) | 0 | 3 | 0.0105 | 3 | 1 (33%) |
 | `OpenPoints` | theorie-logik | sonnet | 1 (0) | 1 | 0 | — | 0 | — |
-| `Pitch` | kernkonzept | haiku | 1 (0) | 1 | 0 | — | 0 | — |
+| `Pitch` | kernkonzept | haiku | 1 (0) | 0 | 0 | — | 0 | — |
 | `Pitch` | plot-outline | sonnet | 1 (0) | 0 | 1 | 0.1093 | 0 | — |
 | `Pitch` | theorie-logik | sonnet | 1 (0) | 1 | 0 | — | 0 | — |
 | `Precedence` | plot-outline | haiku | 1 (0) | 0 | 33 | 0.0031 | 12 | 2 (17%) |
@@ -65,7 +65,7 @@ Every contract run by model and by the category of its source — written by `sc
 | `ProseRules` | charaktere | haiku | 1 (0) | 0 | 50 | 0.0031 | 11 | 10 (91%) |
 | `ProseRules` | plot-outline | sonnet | 1 (0) | 0 | 11 | 0.0156 | 0 | — |
 | `ProseRules` | theorie-logik | sonnet | 1 (0) | 0 | 4 | 0.0165 | 0 | — |
-| `Quantities` | kernkonzept | haiku | 1 (0) | 1 | 0 | — | 0 | — |
+| `Quantities` | kernkonzept | haiku | 1 (0) | 0 | 0 | — | 0 | — |
 | `Quantities` | plot-outline | sonnet | 1 (0) | 0 | 30 | 0.0067 | 0 | — |
 | `Quantities` | theorie-logik | sonnet | 1 (0) | 0 | 5 | 0.0114 | 0 | — |
 | `RelationReadings` | plot-outline | sonnet | 1 (0) | 0 | 85 | 0.0035 | 0 | — |
@@ -74,9 +74,9 @@ Every contract run by model and by the category of its source — written by `sc
 | `Rules` | plot-outline | sonnet | 1 (0) | 0 | 5 | 0.0301 | 0 | — |
 | `Rules` | theorie-logik | haiku | 1 (0) | 0 | 5 | 0.0070 | 3 | 2 (67%) |
 | `Rules` | theorie-logik | sonnet | 1 (0) | 0 | 5 | 0.0118 | 0 | — |
-| `StandingClaims` | kernkonzept | haiku | 1 (0) | 1 | 0 | — | 0 | — |
+| `StandingClaims` | kernkonzept | haiku | 1 (0) | 0 | 0 | — | 0 | — |
 | `StandingClaims` | plot-outline | sonnet | 1 (0) | 0 | 5 | 0.0297 | 0 | — |
-| `StandingClaims` | theorie-logik | haiku | 1 (0) | 1 | 0 | — | 0 | — |
+| `StandingClaims` | theorie-logik | haiku | 1 (0) | 0 | 0 | — | 0 | — |
 | `StandingClaims` | theorie-logik | sonnet | 1 (0) | 1 | 0 | — | 0 | — |
 | `StatedRelations` | plot-outline | sonnet | 1 (0) | 0 | 19 | 0.0125 | 0 | — |
 | `StatedRelations` | theorie-logik | sonnet | 1 (0) | 0 | 16 | 0.0053 | 0 | — |

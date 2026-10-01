@@ -12,6 +12,7 @@
    "failed_chunks": null,
    "cost_usd": 0.6444,
    "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
    "rows": 151,
    "candidates": 116,
    "refused": {
@@ -25,6 +26,8 @@
    },
    "model_choice": null,
    "outcome": "yielded",
+   "template": "current",
+   "source": "current",
    "stale": false,
    "category": "kernkonzept"
   },
@@ -39,6 +42,7 @@
    "failed_chunks": null,
    "cost_usd": 0.7189,
    "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
    "rows": 261,
    "candidates": 186,
    "refused": {
@@ -54,6 +58,8 @@
    },
    "model_choice": null,
    "outcome": "yielded",
+   "template": "current",
+   "source": "current",
    "stale": false,
    "category": "kernkonzept"
   },
@@ -68,6 +74,7 @@
    "failed_chunks": null,
    "cost_usd": 0.6497,
    "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
    "rows": 250,
    "candidates": 214,
    "refused": {
@@ -82,6 +89,8 @@
    },
    "model_choice": null,
    "outcome": "yielded",
+   "template": "current",
+   "source": "current",
    "stale": false,
    "category": "kernkonzept"
   }

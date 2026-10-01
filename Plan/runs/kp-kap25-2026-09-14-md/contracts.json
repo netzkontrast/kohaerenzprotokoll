@@ -12,6 +12,7 @@
    "failed_chunks": null,
    "cost_usd": 0.1439,
    "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+   "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
    "rows": 69,
    "candidates": 0,
    "refused": {
@@ -25,6 +26,8 @@
    },
    "model_choice": null,
    "outcome": "refused",
+   "template": "current",
+   "source": "current",
    "stale": false,
    "category": "plot-outline"
   }

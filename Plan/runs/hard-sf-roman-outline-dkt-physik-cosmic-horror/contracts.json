@@ -12,6 +12,7 @@
    "failed_chunks": null,
    "cost_usd": 0.3349,
    "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
    "rows": 89,
    "candidates": 53,
    "refused": {
@@ -24,6 +25,8 @@
    },
    "model_choice": null,
    "outcome": "yielded",
+   "template": "current",
+   "source": "current",
    "stale": false,
    "category": "theorie-physik"
   },
@@ -38,6 +41,7 @@
    "failed_chunks": null,
    "cost_usd": 0.3354,
    "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
    "rows": 89,
    "candidates": 75,
    "refused": {
@@ -48,6 +52,8 @@
    "labels": {},
    "model_choice": null,
    "outcome": "yielded",
+   "template": "current",
+   "source": "current",
    "stale": false,
    "category": "theorie-physik"
   },
@@ -62,6 +68,7 @@
    "failed_chunks": null,
    "cost_usd": 0.3404,
    "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
    "rows": 105,
    "candidates": 97,
    "refused": {
@@ -75,6 +82,8 @@
    },
    "model_choice": null,
    "outcome": "yielded",
+   "template": "current",
+   "source": "current",
    "stale": false,
    "category": "theorie-physik"
   }

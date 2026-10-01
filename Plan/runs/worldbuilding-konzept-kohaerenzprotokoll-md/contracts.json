@@ -12,6 +12,7 @@
    "failed_chunks": null,
    "cost_usd": 0.34,
    "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
    "rows": 85,
    "candidates": 65,
    "refused": {
@@ -25,6 +26,8 @@
    },
    "model_choice": null,
    "outcome": "yielded",
+   "template": "current",
+   "source": "current",
    "stale": false,
    "category": "worldbuilding"
   },
@@ -39,6 +42,7 @@
    "failed_chunks": null,
    "cost_usd": 0.3722,
    "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
    "rows": 124,
    "candidates": 103,
    "refused": {
@@ -51,6 +55,8 @@
    },
    "model_choice": null,
    "outcome": "yielded",
+   "template": "current",
+   "source": "current",
    "stale": false,
    "category": "worldbuilding"
   },
@@ -65,6 +71,7 @@
    "failed_chunks": null,
    "cost_usd": 0.3472,
    "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
    "rows": 171,
    "candidates": 153,
    "refused": {
@@ -78,6 +85,8 @@
    },
    "model_choice": null,
    "outcome": "yielded",
+   "template": "current",
+   "source": "current",
    "stale": false,
    "category": "worldbuilding"
   }

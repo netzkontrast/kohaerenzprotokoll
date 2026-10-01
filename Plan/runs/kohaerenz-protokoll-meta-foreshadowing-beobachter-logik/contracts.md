@@ -2,7 +2,7 @@
 
 Every HyperExtract contract run on this source, one line per run — written by `scripts/contracts.py` from the run directories beside this file, and checked by `contracts.py --check`. *found nothing* is knowledge about the document (every call answered, the list came back empty); *failed* is not. *candidates* are rows staging admitted, not rows anyone judged right.
 
-47 runs of 32 contracts: 33 yielded, 2 refused, 11 found nothing, 1 not staged; $2.33.
+47 runs of 32 contracts: 33 yielded, 2 refused, 9 found nothing, 1 not staged, 2 unverified; $2.33.
 
 | contract | run | model | outcome | rows | candidates | refused | chunks | cost |
 |---|---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Every HyperExtract contract run on this source, one line per run — written by 
 | `Analogies` | `analogies-sonnet-2026-10-01` | sonnet | refused | 1 | 0 | 1 surface absent from document | 3 | $0.052 |
 | `Anchors` | `anchors-haiku-2026-09-30` | haiku | yielded | 14 | 6 | 8 surface absent from document | — | $0.038 |
 | `Anchors` | `anchors-sonnet-2026-10-01` | sonnet | found nothing | 0 | 0 | — | 3 | $0.049 |
-| `Attributions` | `attributions-haiku-2026-09-30` | haiku | found nothing | 0 | 0 | — | — | $0.032 |
+| `Attributions` | `attributions-haiku-2026-09-30` | haiku | unverified · no chunk record | 0 | 0 | — | — | $0.032 |
 | `Attributions` | `attributions-sonnet-2026-10-01` | sonnet | yielded | 2 | 2 | — | 3 | $0.050 |
 | `CardFields` | `cardfields-sonnet-2026-10-01` | sonnet | yielded | 6 | 5 | 1 surface absent from document | 3 | $0.063 |
 | `CastRoles` | `castroles-sonnet-2026-10-01` | sonnet | yielded | 6 | 6 | — | 3 | $0.050 |
@@ -34,7 +34,7 @@ Every HyperExtract contract run on this source, one line per run — written by 
 | `RelationReadings` | `relationreadings-sonnet-2026-10-01` | sonnet | yielded | 32 | 31 | 1 surface absent from document | 3 | $0.068 |
 | `Rules` | `rules-haiku-2026-09-30` | haiku | yielded | 8 | 5 | 3 surface absent from document | — | $0.035 |
 | `Rules` | `rules-sonnet-2026-10-01` | sonnet | yielded | 5 | 5 | — | 3 | $0.059 |
-| `StandingClaims` | `standingclaims-haiku-2026-09-30` | haiku | found nothing | 0 | 0 | — | — | $0.031 |
+| `StandingClaims` | `standingclaims-haiku-2026-09-30` | haiku | unverified · no chunk record | 0 | 0 | — | — | $0.031 |
 | `StandingClaims` | `standingclaims-sonnet-2026-10-01` | sonnet | found nothing | 0 | 0 | — | 3 | $0.040 |
 | `StatedRelations` | `statedrelations-sonnet-2026-10-01` | sonnet | yielded | 16 | 16 | — | 3 | $0.084 |
 | `Storypoints` | `storypoints-sonnet-2026-10-01` | sonnet | found nothing | 0 | 0 | — | 3 | $0.038 |
@@ -45,8 +45,8 @@ Every HyperExtract contract run on this source, one line per run — written by 
 | `TermReadings` | `termreadings-haiku-2026-09-30` | haiku | yielded | 9 | 6 | 3 quote not placed | — | $0.061 |
 | `TermReadings` | `termreadings-haiku-2026-09-30b` | haiku | yielded | 17 | 15 | 2 surface absent from document | — | $0.035 |
 | `TermReadings` | `termreadings-haiku-2026-09-30c` | haiku | yielded | 19 | 17 | 2 surface absent from document | — | $0.036 |
-| `TermReadings` | `termreadings-r1a-haiku-2026-09-30` | haiku | yielded · stale | 14 | 14 | — | — | $0.048 |
-| `TermReadings` | `termreadings-r1b-haiku-2026-09-30` | haiku | yielded · stale | 15 | 14 | 1 quote not placed | — | $0.035 |
+| `TermReadings` | `termreadings-r1a-haiku-2026-09-30` | haiku | yielded · stale (template changed, source current) | 14 | 14 | — | — | $0.048 |
+| `TermReadings` | `termreadings-r1b-haiku-2026-09-30` | haiku | yielded · stale (template changed, source current) | 15 | 14 | 1 quote not placed | — | $0.035 |
 | `TermReadings` | `termreadings-sonnet-2026-10-01` | sonnet | yielded | 23 | 22 | — | 3 | $0.082 |
 | `TermTaxonomy` | `termtaxonomy-haiku-2026-09-30` | haiku | yielded | 8 | 7 | 1 surface absent from document | — | $0.035 |
 | `TermTaxonomy` | `termtaxonomy-sonnet-2026-10-01` | sonnet | found nothing | 0 | 0 | — | 3 | $0.050 |
