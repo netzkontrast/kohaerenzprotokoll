@@ -1,0 +1,31 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "0ab62a3d9b9a2ef9d80ab6c882495d9551cb37b0982246a5647c434019506c16",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "das Kapitelversprechen",
+        "target": "wer trifft die Wahl",
+        "type": "central_question",
+        "quote": "das Kapitelversprechen lautet *wer trifft die Wahl*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wegkreuzung",
+        "target": "interner Wahlpunkt",
+        "type": "motif_meaning",
+        "quote": "Motivherkunft „Wegkreuzung“ = \\*\\*interner Wahlpunkt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wegkreuzung/Tore",
+        "target": "interner Ort der Entscheidungsfindung",
+        "type": "motif_meaning",
+        "quote": "Wegkreuzung/Tore: \\*von extern auferlegter Schwelle → interner Ort der Entscheidungsfindung",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

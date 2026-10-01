@@ -1,0 +1,430 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+  "input_rows": 17,
+  "candidates": 11,
+  "refused": 6,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:23d6d1e5236b83ec5ef34c6bac447bbe6d364c9d9831bfd70e4f6ae5a18e906f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 25–26",
+        "target": "Schleier-Disziplin",
+        "type": "structure",
+        "quote": "Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a2d708df56eacfb216ae26894075f50d9904b9ddb37cdefd9989567a1896635c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "nie Subjekt, nie Name, nie Körper, nie Stimme",
+        "type": "diction",
+        "quote": "R-10 Juna nie Subjekt, nie Name, nie Körper, nie Stimme",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:68fb989029147a1b1987d4a1772a3085b459f885e80d796dc63884dbfd5d3dba",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Direktiven",
+        "target": "ohne Metapher, Moral, Affekt",
+        "type": "diction",
+        "quote": "R-8 Direktiven ohne Metapher, Moral, Affekt",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7b99ea12277a005d3a1a089b34ad90c94d8ad0df905a9d37a2a056e55043920f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Vielheit, Kapitel 25–26",
+        "target": "kanonisch gefordert, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags",
+        "type": "device",
+        "quote": "Vielheit wird benannt, **kanonisch gefordert** für 25–26, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Vielheit, Kapitel 25–26",
+        "kanonisch gefordert, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags"
+      ]
+    },
+    {
+      "id": "claim:c51c5c9c23ca78e39a6cd2b0b2ccd79af9a3efeead8ef4d929f180234b8a5ca1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "kaltes Ozon",
+        "target": "nur in der Abmeldeszene, Wärme dort nicht",
+        "type": "structure",
+        "quote": "kaltes Ozon **nur** in der Abmeldeszene, Wärme dort nicht",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c391678fc2c7b069cc7096eed2ff2259d1dde2eb3c5591d1e9bd10006d76c0da",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Mikrocues in der Handszene",
+        "target": "drei, am Limit, nicht darüber",
+        "type": "structure",
+        "quote": "drei Mikrocues in der Handszene, am Limit, nicht darüber",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "drei, am Limit, nicht darüber"
+      ]
+    },
+    {
+      "id": "claim:cfd6186d6fcc94676b52ae8c1eff5312b1bea9301fd85e2426bd63bc1768c0b2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Szene",
+        "target": "ein Konzept je Szene",
+        "type": "structure",
+        "quote": "ein Konzept je Szene",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4086b725130d1bec764c40bb4fd37aa7c8436c6f45c9d111d4484df9bd29e450",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Genesis-Echo",
+        "target": "max. ein Genesis-Echo je Szene",
+        "type": "structure",
+        "quote": "max. ein Genesis-Echo je Szene",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b28cf2f3c06d7427cf3e5008c00d3516461b872ebf167ab35e97ccb956004e94",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap-0-Zitate",
+        "target": "keine wörtlichen Kap-0-Zitate",
+        "type": "diction",
+        "quote": "keine wörtlichen Kap-0-Zitate",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d788518d0aa5a179969781c7344a60f86f4a873db2ace2f4878bc9baf32bdf17",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ein-Falschheits-Regel",
+        "target": "eine objektive Falschheit",
+        "type": "structure",
+        "quote": "Ein-Falschheits-Regel: **eine** objektive Falschheit",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0a18c2322480dc37c199c7717b592191a50119446eac20cd605d0a234b7d86f7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Restzahl-Anstieg",
+        "target": "bewusst erklärbar gehalten",
+        "type": "number",
+        "quote": "der Restzahl-Anstieg ist bewusst **erklärbar** gehalten",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:74f314ec1a6b3a2db3806be9687cf6b1a80e64f5a375b6479087b64af7dcdc0c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kaels Signatur",
+        "target": "bricht nur dort, wo ein Wechsel gemeint ist",
+        "type": "pov",
+        "quote": "Kaels Signatur bricht nur dort, wo ein Wechsel gemeint ist",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:187aba6b6440b685ce9a6dd54e2af72a972aca8f670127a3ce37224dbaa517b7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Benennungslock",
+        "target": "gilt für Kap 1–13",
+        "type": "lock",
+        "quote": "Der Benennungslock gilt für Kap 1–13.",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1b79701e6e3ed1ae73ff2d1e3e199cc09ff95e667f03f41eeb5442e38919976c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schleier-Benennung in Kap 25–26",
+        "target": "offen benannt",
+        "type": "structure",
+        "quote": "Canon verlangt „offen benannt",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Schleier-Benennung in Kap 25–26"
+      ]
+    },
+    {
+      "id": "claim:f50b914b10209074cf8776022e34e13eac35169badf5faaee54059e9a19f367a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schleier-Benennung (Kap 25)",
+        "target": "der Satz „Hier sitzt mehr als einer.“ mitten in der Handszene",
+        "type": "lock",
+        "quote": "Gesetzt ist der Satz „Hier sitzt mehr als einer.",
+        "stance": "hedges"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Schleier-Benennung (Kap 25)",
+        "der Satz „Hier sitzt mehr als einer.“ mitten in der Handszene"
+      ]
+    },
+    {
+      "id": "claim:d2cb7913dbc1fb953980c539b8025cb4bee0d6e15054b39cb32bf522e985ed79",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Template-Kopf",
+        "target": "keine Änderungen außer status",
+        "type": "format",
+        "quote": "Der Drafting-Brief verbietet Änderungen am Kopf außer status.",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        58
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "keine Änderungen außer status"
+      ]
+    },
+    {
+      "id": "claim:15db908de940af0423553db921f1d594d786924cc9f40e797e281cf19762cd43",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Einheit Station 7",
+        "target": "bleibt namenlos („Einheit“), wie es Akt I verlangt",
+        "type": "diction",
+        "quote": "bleibt aber namenlos („Einheit“), wie es Akt I verlangt",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "ProseRules",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "bleibt namenlos („Einheit“), wie es Akt I verlangt"
+      ]
+    }
+  ]
+}

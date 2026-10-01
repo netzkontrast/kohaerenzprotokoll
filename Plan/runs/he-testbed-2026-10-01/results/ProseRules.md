@@ -24,4 +24,24 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1713, 66.7 s. **17 rows**: 11 candidates, 6 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Kap 25–26 | Schleier-Disziplin | structure | asserts | Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26 | 21 |
+| 2 | relation_reading | candidate | Juna | nie Subjekt, nie Name, nie Körper, nie Stimme | diction | asserts | R-10 Juna nie Subjekt, nie Name, nie Körper, nie Stimme | 47 |
+| 3 | relation_reading | candidate | Direktiven | ohne Metapher, Moral, Affekt | diction | asserts | R-8 Direktiven ohne Metapher, Moral, Affekt | 47 |
+| 4 | relation_reading | refused: surface absent from document | Vielheit, Kapitel 25–26 | kanonisch gefordert, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags | device | asserts | Vielheit wird benannt, **kanonisch gefordert** für 25–26, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags | 47 |
+| 5 | relation_reading | candidate | kaltes Ozon | nur in der Abmeldeszene, Wärme dort nicht | structure | asserts | kaltes Ozon **nur** in der Abmeldeszene, Wärme dort nicht | 47 |
+| 6 | relation_reading | refused: surface absent from document | Mikrocues in der Handszene | drei, am Limit, nicht darüber | structure | asserts | drei Mikrocues in der Handszene, am Limit, nicht darüber | 47 |
+| 7 | relation_reading | candidate | Szene | ein Konzept je Szene | structure | asserts | ein Konzept je Szene | 47 |
+| 8 | relation_reading | candidate | Genesis-Echo | max. ein Genesis-Echo je Szene | structure | asserts | max. ein Genesis-Echo je Szene | 47 |
+| 9 | relation_reading | candidate | Kap-0-Zitate | keine wörtlichen Kap-0-Zitate | diction | asserts | keine wörtlichen Kap-0-Zitate | 47 |
+| 10 | relation_reading | candidate | Ein-Falschheits-Regel | eine objektive Falschheit | structure | asserts | Ein-Falschheits-Regel: **eine** objektive Falschheit | 47 |
+| 11 | relation_reading | candidate | Restzahl-Anstieg | bewusst erklärbar gehalten | number | asserts | der Restzahl-Anstieg ist bewusst **erklärbar** gehalten | 47 |
+| 12 | relation_reading | candidate | Kaels Signatur | bricht nur dort, wo ein Wechsel gemeint ist | pov | asserts | Kaels Signatur bricht nur dort, wo ein Wechsel gemeint ist | 47 |
+| 13 | relation_reading | candidate | Benennungslock | gilt für Kap 1–13 | lock | asserts | Der Benennungslock gilt für Kap 1–13. | 55 |
+| 14 | relation_reading | refused: surface absent from document | Schleier-Benennung in Kap 25–26 | offen benannt | structure | cites | Canon verlangt „offen benannt | 56 |
+| 15 | relation_reading | refused: surface absent from document | Schleier-Benennung (Kap 25) | der Satz „Hier sitzt mehr als einer.“ mitten in der Handszene | lock | hedges | Gesetzt ist der Satz „Hier sitzt mehr als einer. | 56 |
+| 16 | relation_reading | refused: surface absent from document | Template-Kopf | keine Änderungen außer status | format | cites | Der Drafting-Brief verbietet Änderungen am Kopf außer status. | 58 |
+| 17 | relation_reading | refused: quote not placed | Einheit Station 7 | bleibt namenlos („Einheit“), wie es Akt I verlangt | diction | cites | bleibt aber namenlos („Einheit“), wie es Akt I verlangt |  |

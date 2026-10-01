@@ -1,0 +1,87 @@
+{
+ "source": "systemic-architecture-specification-the-coherence-protocol-w",
+ "runs": [
+  {
+   "run": "causallinks-haiku-2026-09-30",
+   "contract": "CausalLinks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 7,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0812,
+   "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+   "rows": 18,
+   "candidates": 8,
+   "refused": {
+    "quote not placed": 6,
+    "surface absent from document": 4
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 7,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0823,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+   "rows": 22,
+   "candidates": 16,
+   "refused": {
+    "quote not placed": 6
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 7,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0879,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "source_sha256": "08d61f4e1188571670fb6500765d896914b4092c76703fa6c2bb59364095c34e",
+   "rows": 55,
+   "candidates": 31,
+   "refused": {
+    "ambiguous quote: choose its passage": 1,
+    "quote not placed": 22
+   },
+   "duplicates": 1,
+   "labels": {
+    "part": 1
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  }
+ ]
+}

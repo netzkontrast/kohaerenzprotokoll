@@ -1,0 +1,82 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "aafb5d66eb10a22ef252417e73eb6fab60a01523f0eea426f8643f7daa14c679",
+  "input_rows": 3,
+  "candidates": 3,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:cbf64d479ed16d2f72e555ac9c9642562538176b773feadcf75d54d0717c1b58",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "14–22",
+        "target": "KW2",
+        "type": "storypoint",
+        "quote": "Der Canon weist 14–22 KW2",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "Storypoints",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "aafb5d66eb10a22ef252417e73eb6fab60a01523f0eea426f8643f7daa14c679",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6c591da5816d79d1f36935a9647b94115b14821a21353fd00d756a63a650e69e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "23–28",
+        "target": "KW3",
+        "type": "storypoint",
+        "quote": "23–28 KW3 zu",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "Storypoints",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "aafb5d66eb10a22ef252417e73eb6fab60a01523f0eea426f8643f7daa14c679",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e9e78ba26f1c6a9075f797c5ab478d42965cd8f87f2c001359591cb4547d768d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 25",
+        "target": "KW3",
+        "type": "storypoint",
+        "quote": "Kap 25 löst KW3 jetzt",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "Storypoints",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "aafb5d66eb10a22ef252417e73eb6fab60a01523f0eea426f8643f7daa14c679",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

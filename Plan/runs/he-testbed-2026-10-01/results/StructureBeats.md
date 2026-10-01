@@ -21,4 +21,14 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1547, 59.0 s. **7 rows**: 7 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Schleier-Disziplin | Kap 25–26 | mode_change | cites | Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26 | 21 |
+| 2 | relation_reading | candidate | Hook-in | Kap 24 | bracket | asserts | Hook-in aus Kap 24 explizit | 25 |
+| 3 | relation_reading | candidate | neuer Hook-out | Kap 26 | bracket | asserts | neuer Hook-out: die Restzahl steht nach Schichtende bei 34 statt 31 und wird morgen früh nicht bei sechs stehen → trägt direkt in Kap 26 | 25 |
+| 4 | relation_reading | candidate | Schwelle, nicht Konfrontation | Kap 25 | turn | cites | Kap 25: Schwelle, nicht Konfrontation | 31 |
+| 5 | relation_reading | candidate | KW2 | 14–22 | beat_of_n | cites | Der Canon weist 14–22 KW2 und 23–28 KW3 zu | 60 |
+| 6 | relation_reading | candidate | KW3 | 23–28 | beat_of_n | cites | Der Canon weist 14–22 KW2 und 23–28 KW3 zu | 60 |
+| 7 | relation_reading | candidate | KW3 | Kap 25 | beat_of_n | asserts | Kap 25 löst KW3 jetzt **sensorisch** ein | 60 |

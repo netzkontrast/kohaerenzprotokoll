@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "source": "Akt-II-Arc",
+      "target": "getragene Schwellensequenz",
+      "type": "must",
+      "quote": "Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz",
+      "stance": "asserts"
+    },
+    {
+      "source": "AEGIS",
+      "target": "bemerkt Kaels neue Klarheit",
+      "type": "must",
+      "quote": "Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit“",
+      "stance": "asserts"
+    },
+    {
+      "source": "kaltes Ozon",
+      "target": "in der Abmeldeszene",
+      "type": "only_if",
+      "quote": "kaltes Ozon **nur** in der Abmeldeszene",
+      "stance": "asserts"
+    },
+    {
+      "source": "Juna",
+      "target": "nie Subjekt, nie Name, nie Körper, nie Stimme",
+      "type": "must_not",
+      "quote": "Juna nie Subjekt, nie Name, nie Körper, nie Stimme",
+      "stance": "asserts"
+    },
+    {
+      "source": "Ein-Falschheits-Regel",
+      "target": "eine objektive Falschheit",
+      "type": "must",
+      "quote": "Ein-Falschheits-Regel: **eine** objektive Falschheit",
+      "stance": "asserts"
+    },
+    {
+      "source": "Canon",
+      "target": "offen benannt",
+      "type": "must",
+      "quote": "Canon verlangt „offen benannt“ in 25–26.",
+      "stance": "cites"
+    },
+    {
+      "source": "Drafting-Brief",
+      "target": "Änderungen am Kopf",
+      "type": "must_not",
+      "quote": "Der Drafting-Brief verbietet Änderungen am Kopf außer status.",
+      "stance": "cites"
+    },
+    {
+      "source": "Akt I",
+      "target": "namenlos",
+      "type": "must",
+      "quote": "bleibt aber namenlos („Einheit“), wie es Akt I verlangt",
+      "stance": "cites"
+    }
+  ]
+}

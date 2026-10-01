@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "source": "Wärmespur",
+      "target": "die vier Abende",
+      "type": "diegetic_form_of",
+      "quote": "Wärmespur nur als Rückverweis („die vier Abende“)",
+      "stance": "asserts"
+    }
+  ]
+}

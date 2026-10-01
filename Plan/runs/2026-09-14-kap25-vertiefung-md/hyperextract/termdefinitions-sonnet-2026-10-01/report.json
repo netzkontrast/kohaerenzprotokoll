@@ -1,0 +1,252 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "input_rows": 11,
+  "candidates": 11,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:39181b88e2f6f4d420b8abcc782de37dc7c06458fbb00875b3921cc194cff461",
+      "kind": "reading",
+      "raw": {
+        "term": "Nicht-Handlung",
+        "quote": "Damit ist die Nicht-Handlung als **Entscheidung** lesbar statt als Freeze (Arc-Auflage)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:91ca0172e378626af0c7f49e7f22f719a721b548bff499baee3b0c7a6e8ed58a",
+      "kind": "reading",
+      "raw": {
+        "term": "Eigennutz",
+        "quote": "aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b1f2fdf396753462e39ed8339c19d3341b7bc2d0a89a2df75665b7ff32915c26",
+      "kind": "reading",
+      "raw": {
+        "term": "Optionlock",
+        "quote": "Der Optionlock wird zählbar (abgeben/splitten sind seit zwei bzw. vier Wochen graue Felder ohne Ton).",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d7a6861be2806e4ed222cc32aa58a8a488ceff40308d80e04923b228820c58d3",
+      "kind": "reading",
+      "raw": {
+        "term": "Hook-in",
+        "quote": "Hook-in aus Kap 24 explizit (die einrastende Verkleidung)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:34e285c8a233c269321d280bcc80a8d2c9440f44762282b773cea496c3fc2bce",
+      "kind": "reading",
+      "raw": {
+        "term": "Wegkreuzung",
+        "quote": "Motivherkunft „Wegkreuzung\" = \\*\\*interner Wahlpunkt\\*\\*",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:16fc97edaba83237bf4e0f71b15f5dba5c167db01a9a98faea59dc5db66280fb",
+      "kind": "reading",
+      "raw": {
+        "term": "Wegkreuzung/Tore",
+        "quote": "\\*von extern auferlegter Schwelle → interner Ort der Entscheidungsfindung\\*",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:28b4b28b4e4c6e375bcb54feea313b57670947114d5f3e12e8e1b765dda1921a",
+      "kind": "reading",
+      "raw": {
+        "term": "Schritt ins Ungewisse",
+        "quote": "„Schritt ins Ungewisse\" (= bewusste Wahl, Kap 26)",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:af97267d37126096207c2dec840045f8285107735174891dde47bfc6f7619cfd",
+      "kind": "reading",
+      "raw": {
+        "term": "Kanonischer sensorischer Anker von Vortex 1 Beat 3",
+        "quote": "Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist „das Fehlen des Klicks",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        57
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3840e7b73fc30a1c319a44bafc30c967c10561a197abefa4521a9283595cd3e5",
+      "kind": "reading",
+      "raw": {
+        "term": "lokale Vorform",
+        "quote": "Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material?",
+        "stance": "asks"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        57
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3b25539a85be2a3bc10c38f44c2ae8d14495e10c8a04a281f9244f6953b7311d",
+      "kind": "reading",
+      "raw": {
+        "term": "Einheit Station 7",
+        "quote": "Sie ist jetzt eine Figur mit eigenem Ziel",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        59
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:12316b6f09d7051966824b18c362a7cad40e2faa61ddb59f659a11adbb562d0b",
+      "kind": "reading",
+      "raw": {
+        "term": "KW-Progression",
+        "quote": "Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel), oder sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden?",
+        "stance": "asks"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermDefinitions",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

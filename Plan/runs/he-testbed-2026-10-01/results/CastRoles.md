@@ -25,4 +25,9 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1355, 46.7 s. **2 rows**: 2 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Schutz-Anteil | Aktionssystem | function | asserts | Schutz-Anteil als Aktionssystem (Verteidigung) | 40 |
+| 2 | relation_reading | candidate | Umgebung | Antagonist | role | cites | Umgebung als Antagonist | 41 |

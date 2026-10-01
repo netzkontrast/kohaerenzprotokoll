@@ -16,3 +16,125 @@
 {"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Dissoziation", "type": "concept", "scope": "lens"}}
 {"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Foreshadowing", "type": "concept", "scope": "lens"}}
 {"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Beobachter-Fokus", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Plan/sessions/2026-09-14-kap25-enrichment-packet.md", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "git branch -r", "type": "technology", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "claude/kap-*-Branch", "type": "other", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Akt-II-Arc", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Masterplan", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Schleier", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Schleier-Disziplin", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Canon", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Arc-Auflage", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Optionlock", "type": "system", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Station 7", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Priorität-1-Wasserführung", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Restwertschwelle", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Kael", "type": "person", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "AEGIS", "type": "system", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME.", "type": "other", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "KW3", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Platte 204", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Delta-Sieben", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Canon-Weltanker", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Anker 734", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Stehen an der Schwelle", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "der Tritt darüber", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Hook-in", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Hook-out", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Regel 6", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Station 11/12/7", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Frontmatter", "type": "other", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Template-Kopf", "type": "other", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Canon/…storyform-und-outline", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "…kernwelten-vollstaendig", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "…welt-sensorik-drafting", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "…anteile-profile-sprach-dna", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Plan/drafting/drafting-brief.md", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "akt2-arc-optimized", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "chapter-enrichment-masterplan", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "decision-log_akt2-3", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "D23-02/03/04", "type": "other", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "written-chapters-audit", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "sources/KP_Plot-Konkretisierung_13-Ideen_F1-Faden", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Die Niederlegung", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "KW3-Sensorik", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Sensorik-Lookup", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Self-Review", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "R-Regeln", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Hitze-Polarität", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Warteschlange", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Datensatz ohne Datentyp", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Stufen-Modell", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Wechselmechanik", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Pflicht-Checks", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Alex", "type": "person", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Lex", "type": "person", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "kohärenz protokoll", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Google Drive", "type": "system", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Kohärenz Protokoll", "type": "work", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "The Agency System", "type": "work", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Wegkreuzung", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "interner Wahlpunkt", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Schritt ins Ungewisse", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "KW-Kanon", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Schleusen des Misstrauens", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Gänge der Paranoia", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Panoptikum", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Guardians", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Cerberus", "type": "person", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Nox", "type": "person", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Echo", "type": "person", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Limina", "type": "person", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "TSDP", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Schutz-Anteil", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Aktionssystem", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "ANP", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "ANP-Alltagssystem", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Kai", "type": "person", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "inneres Tauziehen", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Co₁", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "McL", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "B", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Ly", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Abwehr-Welt-Ästhetik", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Umgebung als Antagonist", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "[S]-Quellen", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "[K]-Repo-Canon", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Ein-Falschheits-Regel", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Telefon-Stille-Anker", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Genesis-Echo", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Juna", "type": "person", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "ncp-author", "type": "system", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "ncp.json", "type": "other", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "ncp-b.json", "type": "other", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Storyform-Slots", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Resolve", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Growth", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Approach", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Driver", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Limit", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Outcome", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Judgment", "type": "concept", "scope": "lens"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "agency-CLI", "type": "technology", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "agency-Capability-Verben", "type": "technology", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": ".agency/session.db", "type": "technology", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "MCP-Server", "type": "technology", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Benennungslock", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Akt I", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Akt II", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Akt III", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "[AEGIS v{X.X} // LOG_{0xHEX}]", "type": "other", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Sprach-DNA", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Klick", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Vortex 1", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Delta-Sieben-Figur", "type": "other", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Einheit", "type": "person", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "KW2", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Verwaltungstopologie", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Konstrukt-Stadt", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Datenknoten", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Wohneinheit 734", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Treppenkopf", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Wartungsebene", "type": "place", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "KW-Progression", "type": "concept", "scope": "world"}}
+{"document": "2026-09-14-kap25-vertiefung-md", "kind": "item", "status": "not staged", "reason": null, "lines": [], "row": {"term": "Filterregime", "type": "concept", "scope": "world"}}

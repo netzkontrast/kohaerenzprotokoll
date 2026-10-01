@@ -22,4 +22,13 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1319, 45.0 s. **6 rows**: 3 candidates, 3 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Canon §0 Schleier-Disziplin | Kap 25–26 | recommends | cites | Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26 | 21 |
+| 2 | relation_reading | candidate | Canon §5 | AEGIS bemerkt Kaels neue Klarheit | recommends | cites | Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit | 22 |
+| 3 | relation_reading | refused: quote not placed | Sprach-DNA | ab Akt II | recommends | cites | die Sprach-DNA es „ab Akt II“ vorsieht |  |
+| 4 | relation_reading | refused: quote not placed | Canon | offen benannt | recommends | cites | Canon verlangt „offen benannt“ in 25–26 |  |
+| 5 | relation_reading | candidate | Drafting-Brief | Änderungen am Kopf | recommends | cites | Der Drafting-Brief verbietet Änderungen am Kopf außer status. | 58 |
+| 6 | relation_reading | refused: quote not placed | Akt I | namenlos | recommends | cites | bleibt aber namenlos („Einheit“), wie es Akt I verlangt |  |

@@ -1,0 +1,66 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "2ab69a976e90e2d2a89262f84fac6ba990f0e7f19ec962d838bc71e8b919d523",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Hook-in",
+        "target": "die einrastende Verkleidung",
+        "type": "same_as",
+        "quote": "Hook-in aus Kap 24 explizit (die einrastende Verkleidung)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 25",
+        "target": "Die Niederlegung",
+        "type": "same_as",
+        "quote": "Kap 25 = „Die Niederlegung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wegkreuzung",
+        "target": "interner Wahlpunkt",
+        "type": "same_as",
+        "quote": "Motivherkunft „Wegkreuzung\" = \\*\\*interner Wahlpunkt\\*\\*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schritt ins Ungewisse",
+        "target": "bewusste Wahl",
+        "type": "same_as",
+        "quote": "„Schritt ins Ungewisse\" (= bewusste Wahl",
+        "stance": "asserts"
+      },
+      {
+        "source": "Cerberus",
+        "target": "Guardians",
+        "type": "role_of",
+        "quote": "dekanonisierte Guardians (Cerberus, Nox, Echo, Limina)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nox",
+        "target": "Guardians",
+        "type": "role_of",
+        "quote": "dekanonisierte Guardians (Cerberus, Nox, Echo, Limina)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Echo",
+        "target": "Guardians",
+        "type": "role_of",
+        "quote": "dekanonisierte Guardians (Cerberus, Nox, Echo, Limina)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Limina",
+        "target": "Guardians",
+        "type": "role_of",
+        "quote": "dekanonisierte Guardians (Cerberus, Nox, Echo, Limina)",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

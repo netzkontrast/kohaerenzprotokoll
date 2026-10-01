@@ -20,4 +20,9 @@ The model returned no row on this document.
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1338, 42.9 s. **2 rows**: 2 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Packet | Prosa | before | asserts | Packet: Plan/sessions/2026-09-14-kap25-enrichment-packet.md (vor der Prosa ausgefüllt) | 13 |
+| 2 | relation_reading | candidate | sechsmal | siebten Bestand | before | asserts | sechsmal vor dem siebten Bestand | 25 |

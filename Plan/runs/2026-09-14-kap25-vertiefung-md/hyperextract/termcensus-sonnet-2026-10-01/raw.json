@@ -1,0 +1,614 @@
+{
+  "items": [
+    {
+      "term": "Plan/sessions/2026-09-14-kap25-enrichment-packet.md",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "git branch -r",
+      "type": "technology",
+      "scope": "lens"
+    },
+    {
+      "term": "claude/kap-*-Branch",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "Akt-II-Arc",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Masterplan",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "Schleier",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Schleier-Disziplin",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Canon",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Arc-Auflage",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Optionlock",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Station 7",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Priorität-1-Wasserführung",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Restwertschwelle",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Kael",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME.",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "KW3",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Platte 204",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Delta-Sieben",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Canon-Weltanker",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Anker 734",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Stehen an der Schwelle",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "der Tritt darüber",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Hook-in",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Hook-out",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Regel 6",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Station 11/12/7",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Frontmatter",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "Template-Kopf",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "Canon/…storyform-und-outline",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "…kernwelten-vollstaendig",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "…welt-sensorik-drafting",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "…anteile-profile-sprach-dna",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "Plan/drafting/drafting-brief.md",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "akt2-arc-optimized",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "chapter-enrichment-masterplan",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "decision-log_akt2-3",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "D23-02/03/04",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "written-chapters-audit",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "sources/KP_Plot-Konkretisierung_13-Ideen_F1-Faden",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "Die Niederlegung",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "KW3-Sensorik",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Sensorik-Lookup",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Self-Review",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "R-Regeln",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Hitze-Polarität",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Warteschlange",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Datensatz ohne Datentyp",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Stufen-Modell",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Wechselmechanik",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Pflicht-Checks",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Alex",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Lex",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "kohärenz protokoll",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "Google Drive",
+      "type": "system",
+      "scope": "lens"
+    },
+    {
+      "term": "Kohärenz Protokoll",
+      "type": "work",
+      "scope": "world"
+    },
+    {
+      "term": "The Agency System",
+      "type": "work",
+      "scope": "lens"
+    },
+    {
+      "term": "Wegkreuzung",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "interner Wahlpunkt",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Schritt ins Ungewisse",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "KW-Kanon",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Schleusen des Misstrauens",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Gänge der Paranoia",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Panoptikum",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Guardians",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Cerberus",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Nox",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Echo",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Limina",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "TSDP",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Schutz-Anteil",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Aktionssystem",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "ANP",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "ANP-Alltagssystem",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kai",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "inneres Tauziehen",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Co₁",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "McL",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "B",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Ly",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Abwehr-Welt-Ästhetik",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Umgebung als Antagonist",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "[S]-Quellen",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "[K]-Repo-Canon",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Ein-Falschheits-Regel",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Telefon-Stille-Anker",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Genesis-Echo",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Juna",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "ncp-author",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "ncp.json",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "ncp-b.json",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "Storyform-Slots",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Resolve",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Growth",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Approach",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Driver",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Limit",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Outcome",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Judgment",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "agency-CLI",
+      "type": "technology",
+      "scope": "world"
+    },
+    {
+      "term": "agency-Capability-Verben",
+      "type": "technology",
+      "scope": "world"
+    },
+    {
+      "term": ".agency/session.db",
+      "type": "technology",
+      "scope": "world"
+    },
+    {
+      "term": "MCP-Server",
+      "type": "technology",
+      "scope": "world"
+    },
+    {
+      "term": "Benennungslock",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Akt I",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Akt II",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Akt III",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "[AEGIS v{X.X} // LOG_{0xHEX}]",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "Sprach-DNA",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Klick",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Vortex 1",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Delta-Sieben-Figur",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "Einheit",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "KW2",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Verwaltungstopologie",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Konstrukt-Stadt",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Datenknoten",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Wohneinheit 734",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Treppenkopf",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Wartungsebene",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "KW-Progression",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Filterregime",
+      "type": "concept",
+      "scope": "world"
+    }
+  ]
+}

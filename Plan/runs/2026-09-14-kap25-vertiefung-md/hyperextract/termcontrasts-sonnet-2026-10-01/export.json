@@ -1,0 +1,73 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Entscheidung",
+        "target": "Freeze",
+        "type": "contrasts_with",
+        "quote": "Damit ist die Nicht-Handlung als **Entscheidung** lesbar statt als Freeze",
+        "stance": "asserts"
+      },
+      {
+        "source": "Eigennutz",
+        "target": "Güte",
+        "type": "contrasts_with",
+        "quote": "aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stehen an der Schwelle",
+        "target": "der Tritt darüber",
+        "type": "contrasts_with",
+        "quote": "„Stehen an der Schwelle“ gegen „der Tritt darüber“ (Kap 26) trennscharf",
+        "stance": "asserts"
+      },
+      {
+        "source": "daneben",
+        "target": "darauf",
+        "type": "contrasts_with",
+        "quote": "Finger daneben, nicht darauf",
+        "stance": "asserts"
+      },
+      {
+        "source": "34",
+        "target": "31",
+        "type": "contrasts_with",
+        "quote": "die Restzahl steht nach Schichtende bei 34 statt 31",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schwelle",
+        "target": "Konfrontation",
+        "type": "contrasts_with",
+        "quote": "Kap 25: Schwelle, nicht Konfrontation",
+        "stance": "asserts"
+      },
+      {
+        "source": "Aktionssystem",
+        "target": "ANP-Alltagssystem",
+        "type": "opposes",
+        "quote": "Schutz-Anteil als Aktionssystem (Verteidigung) gegen ANP-Alltagssystem",
+        "stance": "asserts"
+      },
+      {
+        "source": "gewollte Eskalationsstufe",
+        "target": "vorweggenommenes Material",
+        "type": "contrasts_with",
+        "quote": "Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material?",
+        "stance": "asks"
+      },
+      {
+        "source": "Filterregime",
+        "target": "Ortswechsel",
+        "type": "contrasts_with",
+        "quote": "Filterregime statt Ortswechsel",
+        "stance": "asks"
+      }
+    ]
+  }
+}

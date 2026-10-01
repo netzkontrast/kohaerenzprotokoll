@@ -1,0 +1,10 @@
+{
+  "pool": ["haiku", "sonnet"],
+  "default": "haiku",
+  "explore": 0.2,
+  "min_labels": 10,
+  "why": "The author, 2026-10-01: rotate the models — at about 20 % of the time at random — so that we can learn which model to use where. Haiku and Sonnet through claude -p are first party (decision 011); a model outside the pool is never chosen.",
+  "provisional": "first policy, 2026-10-01; the default is the cheaper model because no contract yet has labels for both",
+  "may not": "choose by admitted rows or yield — admission is not precision (testbed finding 6); only labelled rows rank a model",
+  "retire when": "every contract in use has min_labels labelled rows from each model in the pool, and the exploit choice has not changed over 20 runs"
+}

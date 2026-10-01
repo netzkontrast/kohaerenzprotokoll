@@ -1,0 +1,150 @@
+{
+ "source": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+ "runs": [
+  {
+   "run": "cardfields-haiku-2026-09-30",
+   "contract": "CardFields",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 12,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.1632,
+   "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+   "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+   "rows": 67,
+   "candidates": 39,
+   "refused": {
+    "surface absent from document": 23,
+    "quote not placed": 5
+   },
+   "duplicates": 0,
+   "labels": {
+    "ok": 12,
+    "part": 2
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "charaktere"
+  },
+  {
+   "run": "diegeticterms-haiku-2026-09-30",
+   "contract": "DiegeticTerms",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 12,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.1336,
+   "template_sha256": "fd0f0f1bd7ac7d9a599dd38ee8627c87bcfbfdf953de5913a8359d4916bcd3c7",
+   "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+   "rows": 5,
+   "candidates": 5,
+   "refused": {},
+   "duplicates": 0,
+   "labels": {
+    "part": 4,
+    "ok": 1
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "charaktere"
+  },
+  {
+   "run": "entityfacts-haiku-2026-09-30",
+   "contract": "EntityFacts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 13,
+   "failed_calls": 1,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.1841,
+   "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+   "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+   "rows": 86,
+   "candidates": 60,
+   "refused": {
+    "quote not placed": 10,
+    "ambiguous quote: choose its passage": 8,
+    "surface absent from document": 8
+   },
+   "duplicates": 0,
+   "labels": {
+    "ok": 9,
+    "part": 1
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "charaktere"
+  },
+  {
+   "run": "proserules-haiku-2026-09-30",
+   "contract": "ProseRules",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 12,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.1573,
+   "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+   "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+   "rows": 64,
+   "candidates": 50,
+   "refused": {
+    "surface absent from document": 7,
+    "quote not placed": 6,
+    "ambiguous quote: choose its passage": 1
+   },
+   "duplicates": 0,
+   "labels": {
+    "ok": 10,
+    "part": 1
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "charaktere"
+  },
+  {
+   "run": "utterances-haiku-2026-09-30",
+   "contract": "Utterances",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 12,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.1299,
+   "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+   "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+   "rows": 3,
+   "candidates": 3,
+   "refused": {},
+   "duplicates": 0,
+   "labels": {
+    "ok": 3
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "charaktere"
+  }
+ ]
+}

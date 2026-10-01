@@ -1,0 +1,59 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "78693fe35f3b5b83c0c7adc2dd0b3caae192674866602c3bafb137a54d211d54",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Weltanker für Kap 25",
+        "target": "Canon",
+        "type": "canon",
+        "quote": "Das löst den Canon-Weltanker für Kap 25 ein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Guardians (Cerberus, Nox, Echo, Limina)",
+        "target": "dekanonisierte",
+        "type": "deprecated",
+        "quote": "dekanonisierte Guardians (Cerberus, Nox, Echo, Limina)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Co₁/McL/B/Ly-Taxonomie",
+        "target": "nicht der aktuelle KW-Kanon",
+        "type": "canon",
+        "quote": "Co₁/McL/B/Ly-Taxonomie ist nicht der aktuelle KW-Kanon",
+        "stance": "denies"
+      },
+      {
+        "source": "Material aus \\[S\\]-Quellen",
+        "target": "wurde als Kanon behandelt",
+        "type": "canon",
+        "quote": "Kein Material aus \\[S\\]-Quellen wurde als Kanon behandelt",
+        "stance": "denies"
+      },
+      {
+        "source": "Material aus [S]-Quellen",
+        "target": "Kanon",
+        "type": "canon",
+        "quote": "Kein Material aus [S]-Quellen wurde als Kanon behandelt",
+        "stance": "denies"
+      },
+      {
+        "source": "Vielheit",
+        "target": "kanonisch gefordert",
+        "type": "canon",
+        "quote": "Vielheit wird benannt, **kanonisch gefordert** für 25–26",
+        "stance": "asserts"
+      },
+      {
+        "source": "sensorischer Anker von Vortex 1 Beat 3",
+        "target": "Kanonischer",
+        "type": "canon",
+        "quote": "Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

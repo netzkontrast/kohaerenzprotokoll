@@ -1,0 +1,17 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "6651401e67b83bd204e2e86fa4bef92d277469e2d02db96faf5a38658f1aae53",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Benennungslock",
+        "target": "Kap 1–13",
+        "type": "locked",
+        "quote": "Der Benennungslock gilt für Kap 1–13.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

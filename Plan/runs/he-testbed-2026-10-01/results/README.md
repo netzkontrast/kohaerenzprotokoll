@@ -4,37 +4,37 @@ Every contract in `Plan/hyperextract/` on `kohaerenz-protokoll-meta-foreshadowin
 
 | contract | A rows | A cand. | A ref. | A n.s. | B rows | B cand. | B ref. | B n.s. | cost | file |
 |---|---|---|---|---|---|---|---|---|---|---|
-| `AliasPairs` | 3 | 3 | 0 | 0 | — | — | — | — | $0.061 | [AliasPairs.md](AliasPairs.md) |
-| `Analogies` | 1 | 0 | 1 | 0 | — | — | — | — | $0.052 | [Analogies.md](Analogies.md) |
-| `Anchors` | 0 | 0 | 0 | 0 | — | — | — | — | $0.049 | [Anchors.md](Anchors.md) |
-| `Attributions` | 2 | 2 | 0 | 0 | — | — | — | — | $0.050 | [Attributions.md](Attributions.md) |
-| `CardFields` | 6 | 5 | 1 | 0 | — | — | — | — | $0.063 | [CardFields.md](CardFields.md) |
-| `CastRoles` | 6 | 6 | 0 | 0 | — | — | — | — | $0.050 | [CastRoles.md](CastRoles.md) |
-| `CausalLinks` | 5 | 5 | 0 | 0 | — | — | — | — | $0.073 | [CausalLinks.md](CausalLinks.md) |
-| `ChapterBeats` | 1 | 1 | 0 | 0 | — | — | — | — | $0.050 | [ChapterBeats.md](ChapterBeats.md) |
-| `ChapterCards` | 1 | 1 | 0 | 0 | — | — | — | — | $0.047 | [ChapterCards.md](ChapterCards.md) |
-| `DiegeticTerms` | 1 | 1 | 0 | 0 | — | — | — | — | $0.051 | [DiegeticTerms.md](DiegeticTerms.md) |
-| `EntityFacts` | 4 | 4 | 0 | 0 | — | — | — | — | $0.058 | [EntityFacts.md](EntityFacts.md) |
-| `Knowledge` | 6 | 6 | 0 | 0 | — | — | — | — | $0.072 | [Knowledge.md](Knowledge.md) |
-| `LocationRegistry` | 0 | 0 | 0 | 0 | — | — | — | — | $0.040 | [LocationRegistry.md](LocationRegistry.md) |
-| `Locks` | 0 | 0 | 0 | 0 | — | — | — | — | $0.038 | [Locks.md](Locks.md) |
-| `OpenPoints` | 0 | 0 | 0 | 0 | — | — | — | — | $0.040 | [OpenPoints.md](OpenPoints.md) |
-| `Pitch` | 0 | 0 | 0 | 0 | — | — | — | — | $0.043 | [Pitch.md](Pitch.md) |
-| `Precedence` | 0 | 0 | 0 | 0 | — | — | — | — | $0.047 | [Precedence.md](Precedence.md) |
-| `ProseRules` | 4 | 4 | 0 | 0 | — | — | — | — | $0.066 | [ProseRules.md](ProseRules.md) |
-| `Quantities` | 5 | 5 | 0 | 0 | — | — | — | — | $0.057 | [Quantities.md](Quantities.md) |
-| `RelationReadings` | 32 | 31 | 1 | 0 | — | — | — | — | $0.068 | [RelationReadings.md](RelationReadings.md) |
-| `Rules` | 5 | 5 | 0 | 0 | — | — | — | — | $0.059 | [Rules.md](Rules.md) |
-| `StandingClaims` | 0 | 0 | 0 | 0 | — | — | — | — | $0.040 | [StandingClaims.md](StandingClaims.md) |
-| `StatedRelations` | 16 | 16 | 0 | 0 | — | — | — | — | $0.084 | [StatedRelations.md](StatedRelations.md) |
-| `Storypoints` | 0 | 0 | 0 | 0 | — | — | — | — | $0.038 | [Storypoints.md](Storypoints.md) |
-| `StructureBeats` | 1 | 1 | 0 | 0 | — | — | — | — | $0.053 | [StructureBeats.md](StructureBeats.md) |
-| `TermCensus` | 18 | 0 | 0 | 18 | — | — | — | — | $0.059 | [TermCensus.md](TermCensus.md) |
-| `TermContrasts` | 4 | 4 | 0 | 0 | — | — | — | — | $0.051 | [TermContrasts.md](TermContrasts.md) |
-| `TermDefinitions` | 8 | 8 | 0 | 0 | — | — | — | — | $0.065 | [TermDefinitions.md](TermDefinitions.md) |
-| `TermReadings` | 23 | 22 | 0 | 0 | — | — | — | — | $0.082 | [TermReadings.md](TermReadings.md) |
-| `TermTaxonomy` | 0 | 0 | 0 | 0 | — | — | — | — | $0.050 | [TermTaxonomy.md](TermTaxonomy.md) |
-| `ThemeMotifs` | — | — | — | — | — | — | — | — | $0.000 | [ThemeMotifs.md](ThemeMotifs.md) |
-| `Utterances` | — | — | — | — | — | — | — | — | $0.000 | [Utterances.md](Utterances.md) |
+| `AliasPairs` | 3 | 3 | 0 | 0 | 8 | 8 | 0 | 0 | $0.217 | [AliasPairs.md](AliasPairs.md) |
+| `Analogies` | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | $0.165 | [Analogies.md](Analogies.md) |
+| `Anchors` | 0 | 0 | 0 | 0 | 10 | 7 | 3 | 0 | $0.207 | [Anchors.md](Anchors.md) |
+| `Attributions` | 2 | 2 | 0 | 0 | 6 | 3 | 3 | 0 | $0.182 | [Attributions.md](Attributions.md) |
+| `CardFields` | 6 | 5 | 1 | 0 | 1 | 1 | 0 | 0 | $0.205 | [CardFields.md](CardFields.md) |
+| `CastRoles` | 6 | 6 | 0 | 0 | 2 | 2 | 0 | 0 | $0.185 | [CastRoles.md](CastRoles.md) |
+| `CausalLinks` | 5 | 5 | 0 | 0 | 2 | 2 | 0 | 0 | $0.222 | [CausalLinks.md](CausalLinks.md) |
+| `ChapterBeats` | 1 | 1 | 0 | 0 | 23 | 21 | 2 | 0 | $0.243 | [ChapterBeats.md](ChapterBeats.md) |
+| `ChapterCards` | 1 | 1 | 0 | 0 | 6 | 6 | 0 | 0 | $0.209 | [ChapterCards.md](ChapterCards.md) |
+| `DiegeticTerms` | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | $0.181 | [DiegeticTerms.md](DiegeticTerms.md) |
+| `EntityFacts` | 4 | 4 | 0 | 0 | 17 | 14 | 3 | 0 | $0.249 | [EntityFacts.md](EntityFacts.md) |
+| `Knowledge` | 6 | 6 | 0 | 0 | 3 | 1 | 2 | 0 | $0.203 | [Knowledge.md](Knowledge.md) |
+| `LocationRegistry` | 0 | 0 | 0 | 0 | 12 | 0 | 0 | 12 | $0.173 | [LocationRegistry.md](LocationRegistry.md) |
+| `Locks` | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | $0.151 | [Locks.md](Locks.md) |
+| `OpenPoints` | 0 | 0 | 0 | 0 | 7 | 7 | 0 | 0 | $0.158 | [OpenPoints.md](OpenPoints.md) |
+| `Pitch` | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | $0.152 | [Pitch.md](Pitch.md) |
+| `Precedence` | 0 | 0 | 0 | 0 | 2 | 2 | 0 | 0 | $0.181 | [Precedence.md](Precedence.md) |
+| `ProseRules` | 4 | 4 | 0 | 0 | 17 | 11 | 6 | 0 | $0.237 | [ProseRules.md](ProseRules.md) |
+| `Quantities` | 5 | 5 | 0 | 0 | 39 | 30 | 9 | 0 | $0.257 | [Quantities.md](Quantities.md) |
+| `RelationReadings` | 32 | 31 | 1 | 0 | 97 | 85 | 12 | 0 | $0.369 | [RelationReadings.md](RelationReadings.md) |
+| `Rules` | 5 | 5 | 0 | 0 | 8 | 5 | 3 | 0 | $0.209 | [Rules.md](Rules.md) |
+| `StandingClaims` | 0 | 0 | 0 | 0 | 7 | 5 | 2 | 0 | $0.189 | [StandingClaims.md](StandingClaims.md) |
+| `StatedRelations` | 16 | 16 | 0 | 0 | 27 | 19 | 8 | 0 | $0.322 | [StatedRelations.md](StatedRelations.md) |
+| `Storypoints` | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 0 | $0.164 | [Storypoints.md](Storypoints.md) |
+| `StructureBeats` | 1 | 1 | 0 | 0 | 7 | 7 | 0 | 0 | $0.207 | [StructureBeats.md](StructureBeats.md) |
+| `TermCensus` | 18 | 0 | 0 | 18 | 122 | 0 | 0 | 122 | $0.281 | [TermCensus.md](TermCensus.md) |
+| `TermContrasts` | 4 | 4 | 0 | 0 | 9 | 7 | 2 | 0 | $0.217 | [TermContrasts.md](TermContrasts.md) |
+| `TermDefinitions` | 8 | 8 | 0 | 0 | 11 | 11 | 0 | 0 | $0.226 | [TermDefinitions.md](TermDefinitions.md) |
+| `TermReadings` | 23 | 22 | 0 | 0 | 70 | 65 | 5 | 0 | $0.310 | [TermReadings.md](TermReadings.md) |
+| `TermTaxonomy` | 0 | 0 | 0 | 0 | 7 | 7 | 0 | 0 | $0.194 | [TermTaxonomy.md](TermTaxonomy.md) |
+| `ThemeMotifs` | 7 | 5 | 2 | 0 | 3 | 2 | 1 | 0 | $0.200 | [ThemeMotifs.md](ThemeMotifs.md) |
+| `Utterances` | 3 | 3 | 0 | 0 | 6 | 5 | 1 | 0 | $0.201 | [Utterances.md](Utterances.md) |
 
-Total cost of the runs present: **$1.66**.
+Total cost of the runs present: **$6.86**.

@@ -12,8 +12,23 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`
 
-Not run yet.
+3 calls (0 failed), 3 chunks (0 without a valid reply), $0.053, 20.8 s. **3 rows**: 3 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Juna | Glaubst du wirklich, dein Herz schlägt von selbst? | speech | asks | Juna könnte Kael fragen: *„Glaubst du wirklich, dein Herz schlägt von selbst? | 41 |
+| 2 | relation_reading | candidate | Kael | Was tust DU gerade mit mir? | thought | asks | sondern als interne Stimme Kaels, die sich fragt: *„Was tust DU gerade mit mir?“* | 53 |
+| 3 | relation_reading | candidate | unlabelled | STATUS: Beobachter-Fokus bei 85%. | log | asserts | STATUS: Beobachter-Fokus bei 85%. Erhöhe narrative Spannung, um System-Abschaltung zu verhindern. | 58 |
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1481, 60.9 s. **6 rows**: 5 candidates, 1 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Masterplan-Zeile 25 | zwei genuine Zukunftsverluste | log | asserts | die Masterplan-Zeile 25 verlangt „zwei genuine Zukunftsverluste | 17 |
+| 2 | relation_reading | candidate | unlabelled | Ich tue nichts | thought | asserts | Bisher stand da „Ich tue nichts | 21 |
+| 3 | relation_reading | candidate | unlabelled | Hier sitzt mehr als einer. | address | asserts | fällt der Schleier leserseitig: „Hier sitzt mehr als einer. | 21 |
+| 4 | relation_reading | candidate | Apparat | EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. | log | asserts | registriert der Apparat die Abweichung, ohne zu handeln (**EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME.**) | 22 |
+| 5 | relation_reading | candidate | unlabelled | Am Montag steht die Zahl | address | asserts | Am Montag steht die Zahl bei achtundvierzig | 25 |
+| 6 | relation_reading | refused: ambiguous quote: choose its passage | unlabelled | Hier sitzt mehr als einer. | speech | asserts | Hier sitzt mehr als einer. | 21, 56 |

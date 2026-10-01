@@ -1,0 +1,78 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+  "input_rows": 3,
+  "candidates": 1,
+  "refused": 2,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:615499156ef4f05f0e39c2c1e5202d55afcb2860de3867963ceca07680669c6d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "leserseitig",
+        "target": "Hier sitzt mehr als einer.",
+        "type": "learns_here",
+        "quote": "Anschließend fällt der Schleier leserseitig: „Hier sitzt mehr als einer.“",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "Knowledge",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7a10f86e576ac9e02ccbc93fdd8658ae656463692f2789a32a2680693ba6cea6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "der Apparat",
+        "target": "die Abweichung",
+        "type": "knows",
+        "quote": "registriert der Apparat die Abweichung, ohne zu handeln",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "Knowledge",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eb0d52aa03d87193bc38270418b090e66640f622e0702d48b30191c8077eab23",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "Kaels neue Klarheit",
+        "type": "knows",
+        "quote": "Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit“",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "Knowledge",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    }
+  ]
+}

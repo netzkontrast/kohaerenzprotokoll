@@ -1,0 +1,344 @@
+{
+  "nodes": [
+    {
+      "name": "Kap 25",
+      "type": "work"
+    },
+    {
+      "name": "Manuskript",
+      "type": "work"
+    },
+    {
+      "name": "Akt-II-Arc",
+      "type": "concept"
+    },
+    {
+      "name": "Schwellensequenz",
+      "type": "concept"
+    },
+    {
+      "name": "Canon §0 Schleier-Disziplin",
+      "type": "concept"
+    },
+    {
+      "name": "Kap 25–26",
+      "type": "other"
+    },
+    {
+      "name": "Einheit von Station 7",
+      "type": "organisation"
+    },
+    {
+      "name": "Priorität-1-Wasserführung",
+      "type": "system"
+    },
+    {
+      "name": "Canon §5",
+      "type": "concept"
+    },
+    {
+      "name": "AEGIS bemerkt Kaels neue Klarheit",
+      "type": "concept"
+    },
+    {
+      "name": "Apparat",
+      "type": "system"
+    },
+    {
+      "name": "Abweichung",
+      "type": "concept"
+    },
+    {
+      "name": "Abzweigung",
+      "type": "place"
+    },
+    {
+      "name": "Platte 204",
+      "type": "place"
+    },
+    {
+      "name": "Schild",
+      "type": "other"
+    },
+    {
+      "name": "Kennungen",
+      "type": "other"
+    },
+    {
+      "name": "Hook-out",
+      "type": "concept"
+    },
+    {
+      "name": "Kap 26",
+      "type": "work"
+    },
+    {
+      "name": "Die Niederlegung",
+      "type": "work"
+    },
+    {
+      "name": "Schleusen des Misstrauens",
+      "type": "place"
+    },
+    {
+      "name": "Gänge der Paranoia",
+      "type": "place"
+    },
+    {
+      "name": "Panoptikum",
+      "type": "place"
+    },
+    {
+      "name": "KW3",
+      "type": "concept"
+    },
+    {
+      "name": "Schutz-Anteil",
+      "type": "concept"
+    },
+    {
+      "name": "ANP-Alltagssystem",
+      "type": "system"
+    },
+    {
+      "name": "Weltkonkrete der Prosa",
+      "type": "concept"
+    },
+    {
+      "name": "[K]-Repo-Canon",
+      "type": "other"
+    },
+    {
+      "name": "Nachbarkapiteln",
+      "type": "work"
+    },
+    {
+      "name": "\\[K\\]-Repo-Canon",
+      "type": "work"
+    },
+    {
+      "name": "gedrafteten Nachbarkapiteln",
+      "type": "work"
+    },
+    {
+      "name": "\\[S\\]-Quellen",
+      "type": "work"
+    },
+    {
+      "name": "Kanon",
+      "type": "concept"
+    },
+    {
+      "name": "Benennungslock",
+      "type": "concept"
+    },
+    {
+      "name": "Kap 1–13",
+      "type": "other"
+    },
+    {
+      "name": "Nachbarkapitel",
+      "type": "other"
+    },
+    {
+      "name": "Abwesenheit des Klicks",
+      "type": "concept"
+    },
+    {
+      "name": "Drafting-Brief",
+      "type": "work"
+    },
+    {
+      "name": "Kopf",
+      "type": "other"
+    },
+    {
+      "name": "Canon",
+      "type": "work"
+    },
+    {
+      "name": "14–22",
+      "type": "other"
+    },
+    {
+      "name": "KW2",
+      "type": "concept"
+    },
+    {
+      "name": "23–28",
+      "type": "other"
+    },
+    {
+      "name": "Kapitel 14–26",
+      "type": "work"
+    },
+    {
+      "name": "Verwaltungstopologie der Konstrukt-Stadt",
+      "type": "place"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Kap 25",
+      "target": "Manuskript",
+      "type": "weakest_chapter_of",
+      "quote": "Kap 25 war mit **1.137 Wörtern** das schwächste Kapitel des Manuskripts (Kap 0 ausgenommen, eigene Rahmenpoetik; Kap 30 folgt mit 1.141)."
+    },
+    {
+      "source": "Akt-II-Arc",
+      "target": "Schwellensequenz",
+      "type": "requires",
+      "quote": "Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz"
+    },
+    {
+      "source": "Canon §0 Schleier-Disziplin",
+      "target": "Kap 25–26",
+      "type": "requires_for",
+      "quote": "Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26; die alte Fassung löste das nicht ein."
+    },
+    {
+      "source": "Einheit von Station 7",
+      "target": "Priorität-1-Wasserführung",
+      "type": "reroutes_to_itself",
+      "quote": "Die Einheit von Station 7 hängt die Priorität-1-Wasserführung und zwei weitere Vorgänge auf sich um — aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte."
+    },
+    {
+      "source": "Apparat",
+      "target": "Abweichung",
+      "type": "registers",
+      "quote": "Zusätzlich registriert der Apparat die Abweichung, ohne zu handeln (**EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME.**) — Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit“; das fehlte."
+    },
+    {
+      "source": "Canon §5",
+      "target": "AEGIS bemerkt Kaels neue Klarheit",
+      "type": "requires",
+      "quote": "Zusätzlich registriert der Apparat die Abweichung, ohne zu handeln (**EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME.**) — Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit“; das fehlte."
+    },
+    {
+      "source": "Abzweigung",
+      "target": "Platte 204",
+      "type": "located_at",
+      "quote": "Neue Szene am Ende des Gangs: Abzweigung bei Platte 204, Schild mit elf vorgesehenen Kennungen (seine fehlt), kühlere Luft aus dem Treppenschacht, fettig-metallischer Geruch, rauer Handlauf ohne Beschichtung, Scharren von unten, Licht, das an einer Kante aufhört."
+    },
+    {
+      "source": "Schild",
+      "target": "Kennungen",
+      "type": "has",
+      "quote": "Neue Szene am Ende des Gangs: Abzweigung bei Platte 204, Schild mit elf vorgesehenen Kennungen (seine fehlt), kühlere Luft aus dem Treppenschacht, fettig-metallischer Geruch, rauer Handlauf ohne Beschichtung, Scharren von unten, Licht, das an einer Kante aufhört."
+    },
+    {
+      "source": "Hook-out",
+      "target": "Kap 26",
+      "type": "carries_into",
+      "quote": "neuer Hook-out: die Restzahl steht nach Schichtende bei 34 statt 31 und wird morgen früh nicht bei sechs stehen → trägt direkt in Kap 26"
+    },
+    {
+      "source": "Kap 25",
+      "target": "Die Niederlegung",
+      "type": "has_title",
+      "quote": "Kap 25 = „Die Niederlegung“"
+    },
+    {
+      "source": "Schleusen des Misstrauens",
+      "target": "KW3",
+      "type": "part_of",
+      "quote": "KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum"
+    },
+    {
+      "source": "Gänge der Paranoia",
+      "target": "KW3",
+      "type": "part_of",
+      "quote": "KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum"
+    },
+    {
+      "source": "Panoptikum",
+      "target": "KW3",
+      "type": "part_of",
+      "quote": "KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum"
+    },
+    {
+      "source": "Schutz-Anteil",
+      "target": "ANP-Alltagssystem",
+      "type": "opposes",
+      "quote": "Schutz-Anteil als Aktionssystem (Verteidigung) gegen ANP-Alltagssystem"
+    },
+    {
+      "source": "Weltkonkrete der Prosa",
+      "target": "[K]-Repo-Canon",
+      "type": "derived_from",
+      "quote": "alles Weltkonkrete der Prosa stammt aus \\[K\\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln."
+    },
+    {
+      "source": "Weltkonkrete der Prosa",
+      "target": "Nachbarkapiteln",
+      "type": "derived_from",
+      "quote": "alles Weltkonkrete der Prosa stammt aus \\[K\\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln."
+    },
+    {
+      "source": "Weltkonkrete der Prosa",
+      "target": "\\[K\\]-Repo-Canon",
+      "type": "derived_from",
+      "quote": "Kein Material aus \\[S\\]-Quellen wurde als Kanon behandelt; alles Weltkonkrete der Prosa stammt aus \\[K\\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln."
+    },
+    {
+      "source": "Weltkonkrete der Prosa",
+      "target": "gedrafteten Nachbarkapiteln",
+      "type": "derived_from",
+      "quote": "Kein Material aus \\[S\\]-Quellen wurde als Kanon behandelt; alles Weltkonkrete der Prosa stammt aus \\[K\\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln."
+    },
+    {
+      "source": "\\[S\\]-Quellen",
+      "target": "Kanon",
+      "type": "not_treated_as",
+      "quote": "Kein Material aus \\[S\\]-Quellen wurde als Kanon behandelt; alles Weltkonkrete der Prosa stammt aus \\[K\\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln."
+    },
+    {
+      "source": "Benennungslock",
+      "target": "Kap 1–13",
+      "type": "applies_to",
+      "quote": "Der Benennungslock gilt für Kap 1–13."
+    },
+    {
+      "source": "Kap 25",
+      "target": "Nachbarkapitel",
+      "type": "follows_practice_of",
+      "quote": "Kap 25 folgt der Praxis der Nachbarkapitel (nur VERSALIEN-Direktiven)."
+    },
+    {
+      "source": "Kap 25",
+      "target": "Abwesenheit des Klicks",
+      "type": "uses",
+      "quote": "Kap 25 verwendet die **Abwesenheit** des Klicks lokal (eine Station, ein Tag)."
+    },
+    {
+      "source": "Drafting-Brief",
+      "target": "Kopf",
+      "type": "prohibits_changes_to",
+      "quote": "Der Drafting-Brief verbietet Änderungen am Kopf außer status."
+    },
+    {
+      "source": "Canon",
+      "target": "KW2",
+      "type": "assigns_to",
+      "quote": "Der Canon weist 14–22 KW2 und 23–28 KW3 zu; die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734)."
+    },
+    {
+      "source": "Canon",
+      "target": "KW3",
+      "type": "assigns_to",
+      "quote": "Der Canon weist 14–22 KW2 und 23–28 KW3 zu; die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734)."
+    },
+    {
+      "source": "Kapitel 14–26",
+      "target": "Verwaltungstopologie der Konstrukt-Stadt",
+      "type": "set_in",
+      "quote": "Der Canon weist 14–22 KW2 und 23–28 KW3 zu; die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734)."
+    },
+    {
+      "source": "Kap 25",
+      "target": "KW3",
+      "type": "realizes",
+      "quote": "Kap 25 löst KW3 jetzt **sensorisch** ein (Treppenkopf, Wartungsebene), ohne den Ort zu wechseln."
+    }
+  ]
+}

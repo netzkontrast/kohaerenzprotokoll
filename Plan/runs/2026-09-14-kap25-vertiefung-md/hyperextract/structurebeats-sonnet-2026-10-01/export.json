@@ -1,0 +1,59 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Schleier-Disziplin",
+        "target": "Kap 25–26",
+        "type": "mode_change",
+        "quote": "Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26",
+        "stance": "cites"
+      },
+      {
+        "source": "Hook-in",
+        "target": "Kap 24",
+        "type": "bracket",
+        "quote": "Hook-in aus Kap 24 explizit",
+        "stance": "asserts"
+      },
+      {
+        "source": "neuer Hook-out",
+        "target": "Kap 26",
+        "type": "bracket",
+        "quote": "neuer Hook-out: die Restzahl steht nach Schichtende bei 34 statt 31 und wird morgen früh nicht bei sechs stehen → trägt direkt in Kap 26",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schwelle, nicht Konfrontation",
+        "target": "Kap 25",
+        "type": "turn",
+        "quote": "Kap 25: Schwelle, nicht Konfrontation",
+        "stance": "cites"
+      },
+      {
+        "source": "KW2",
+        "target": "14–22",
+        "type": "beat_of_n",
+        "quote": "Der Canon weist 14–22 KW2 und 23–28 KW3 zu",
+        "stance": "cites"
+      },
+      {
+        "source": "KW3",
+        "target": "23–28",
+        "type": "beat_of_n",
+        "quote": "Der Canon weist 14–22 KW2 und 23–28 KW3 zu",
+        "stance": "cites"
+      },
+      {
+        "source": "KW3",
+        "target": "Kap 25",
+        "type": "beat_of_n",
+        "quote": "Kap 25 löst KW3 jetzt **sensorisch** ein",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

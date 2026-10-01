@@ -20,4 +20,10 @@ The model returned no row on this document.
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1254, 41.4 s. **3 rows**: 3 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | 14–22 | KW2 | storypoint | cites | Der Canon weist 14–22 KW2 | 60 |
+| 2 | relation_reading | candidate | 23–28 | KW3 | storypoint | cites | 23–28 KW3 zu | 60 |
+| 3 | relation_reading | candidate | Kap 25 | KW3 | storypoint | asserts | Kap 25 löst KW3 jetzt | 60 |

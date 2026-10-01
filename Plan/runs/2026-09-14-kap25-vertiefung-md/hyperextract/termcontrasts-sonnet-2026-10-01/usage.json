@@ -1,0 +1,54 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "template": "TermContrasts.yaml",
+  "model": "claude-cli/sonnet",
+  "calls": 8,
+  "failed_calls": 0,
+  "seconds": 64.5,
+  "input_tokens": 32459,
+  "output_tokens": 6150,
+  "cost_usd": 0.1665,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-10-01 to run every HyperExtract template on two small test sources with Sonnet",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 821,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1439,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 704,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1579,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1591,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1948,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1548,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 535,
+      "ok": true
+    }
+  ]
+}

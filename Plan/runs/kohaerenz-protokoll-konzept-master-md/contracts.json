@@ -1,0 +1,91 @@
+{
+ "source": "kohaerenz-protokoll-konzept-master-md",
+ "runs": [
+  {
+   "run": "causallinks-haiku-2026-09-30",
+   "contract": "CausalLinks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 31,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.3781,
+   "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+   "rows": 91,
+   "candidates": 61,
+   "refused": {
+    "ambiguous quote: choose its passage": 2,
+    "surface absent from document": 18,
+    "quote not placed": 10
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 31,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.4122,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+   "rows": 164,
+   "candidates": 128,
+   "refused": {
+    "quote not placed": 30,
+    "surface absent from document": 6
+   },
+   "duplicates": 0,
+   "labels": {
+    "ok": 1,
+    "part": 1
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 31,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.3729,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+   "rows": 147,
+   "candidates": 128,
+   "refused": {
+    "quote not placed": 12,
+    "surface absent from document": 2,
+    "ambiguous quote: choose its passage": 1
+   },
+   "duplicates": 4,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  }
+ ]
+}

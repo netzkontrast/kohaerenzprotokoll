@@ -1,0 +1,88 @@
+{
+ "source": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+ "runs": [
+  {
+   "run": "causallinks-haiku-2026-09-30",
+   "contract": "CausalLinks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 40,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.4617,
+   "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+   "rows": 52,
+   "candidates": 40,
+   "refused": {
+    "surface absent from document": 9,
+    "ambiguous quote: choose its passage": 1,
+    "quote not placed": 2
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 41,
+   "failed_calls": 2,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.5183,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+   "rows": 147,
+   "candidates": 121,
+   "refused": {
+    "surface absent from document": 4,
+    "quote not placed": 13,
+    "ambiguous quote: choose its passage": 9
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 40,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.4732,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+   "rows": 164,
+   "candidates": 151,
+   "refused": {
+    "ambiguous quote: choose its passage": 10,
+    "quote not placed": 2
+   },
+   "duplicates": 1,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  }
+ ]
+}

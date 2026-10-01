@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "source": "Masterplan-Zeile 25",
+      "target": "zwei genuine Zukunftsverluste",
+      "type": "log",
+      "quote": "die Masterplan-Zeile 25 verlangt „zwei genuine Zukunftsverluste",
+      "stance": "asserts"
+    },
+    {
+      "source": "unlabelled",
+      "target": "Ich tue nichts",
+      "type": "thought",
+      "quote": "Bisher stand da „Ich tue nichts",
+      "stance": "asserts"
+    },
+    {
+      "source": "unlabelled",
+      "target": "Hier sitzt mehr als einer.",
+      "type": "address",
+      "quote": "fällt der Schleier leserseitig: „Hier sitzt mehr als einer.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Apparat",
+      "target": "EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND.",
+      "type": "log",
+      "quote": "registriert der Apparat die Abweichung, ohne zu handeln (**EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME.**)",
+      "stance": "asserts"
+    },
+    {
+      "source": "unlabelled",
+      "target": "Am Montag steht die Zahl",
+      "type": "address",
+      "quote": "Am Montag steht die Zahl bei achtundvierzig",
+      "stance": "asserts"
+    },
+    {
+      "source": "unlabelled",
+      "target": "Hier sitzt mehr als einer.",
+      "type": "speech",
+      "quote": "Hier sitzt mehr als einer.",
+      "stance": "asserts"
+    }
+  ]
+}

@@ -28,4 +28,15 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1561, 57.6 s. **8 rows**: 8 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Hook-in | die einrastende Verkleidung | same_as | asserts | Hook-in aus Kap 24 explizit (die einrastende Verkleidung) | 25 |
+| 2 | relation_reading | candidate | Kap 25 | Die Niederlegung | same_as | asserts | Kap 25 = „Die Niederlegung | 31 |
+| 3 | relation_reading | candidate | Wegkreuzung | interner Wahlpunkt | same_as | asserts | Motivherkunft „Wegkreuzung" = \*\*interner Wahlpunkt\*\* | 38 |
+| 4 | relation_reading | candidate | Schritt ins Ungewisse | bewusste Wahl | same_as | asserts | „Schritt ins Ungewisse" (= bewusste Wahl | 38 |
+| 5 | relation_reading | candidate | Cerberus | Guardians | role_of | asserts | dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) | 39 |
+| 6 | relation_reading | candidate | Nox | Guardians | role_of | asserts | dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) | 39 |
+| 7 | relation_reading | candidate | Echo | Guardians | role_of | asserts | dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) | 39 |
+| 8 | relation_reading | candidate | Limina | Guardians | role_of | asserts | dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) | 39 |

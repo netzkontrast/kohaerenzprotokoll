@@ -26,4 +26,9 @@ Beside the Haiku pilot of 2026-09-30 on this document: the candidates stand on 4
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1488, 51.6 s. **2 rows**: 2 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | einer zweiten Spannung im selben Unterarm | die Hand | prevents | asserts | die Hand von selbst auf das Bestätigungsfeld — mit eigener Syntax (Verb vorn, keine Bedingung) und eigener Somatik (Schulter, Kiefer, flacher Atem) — und wird von einer zweiten Spannung im selben Unterarm gestoppt | 21 |
+| 2 | relation_reading | candidate | agency-Capability-Verben | Provenienz | prevents | asserts | Die agency-Capability-Verben standen in diesem Lauf nicht zur Verfügung (kein MCP-Server, keine agency-CLI im Container) — die Prüfung erfolgte manuell gegen die JSON-Dateien; Provenienz wurde daher **nicht** in .agency/session.db geschrieben. | 51 |

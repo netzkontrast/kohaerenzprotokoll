@@ -1,0 +1,183 @@
+{
+ "source": "detaillierte-kapiteluebersicht",
+ "runs": [
+  {
+   "run": "anchors-haiku-2026-09-30",
+   "contract": "Anchors",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 8,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0971,
+   "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+   "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+   "rows": 26,
+   "candidates": 14,
+   "refused": {
+    "surface absent from document": 12
+   },
+   "duplicates": 0,
+   "labels": {
+    "part": 10,
+    "wrong": 9
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  },
+  {
+   "run": "castroles-haiku-2026-09-30",
+   "contract": "CastRoles",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 8,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0937,
+   "template_sha256": "ae9eff90550f18d6e9cd508a3634c02e62c8c6a5a53e71f15d5578edd518d0f8",
+   "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+   "rows": 24,
+   "candidates": 15,
+   "refused": {
+    "surface absent from document": 9
+   },
+   "duplicates": 0,
+   "labels": {
+    "part": 5,
+    "ok": 7
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  },
+  {
+   "run": "chapterbeats-haiku-2026-09-30",
+   "contract": "ChapterBeats",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 8,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.1027,
+   "template_sha256": "5f9bf4a487178d20b186c7130d9ec0e73f2d65ad947b089e38bfb04917ea08b1",
+   "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+   "rows": 43,
+   "candidates": 32,
+   "refused": {
+    "surface absent from document": 10,
+    "quote not placed": 1
+   },
+   "duplicates": 0,
+   "labels": {
+    "ok": 14,
+    "part": 1
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  },
+  {
+   "run": "chaptercards-haiku-2026-09-30",
+   "contract": "ChapterCards",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 8,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.1176,
+   "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+   "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+   "rows": 71,
+   "candidates": 36,
+   "refused": {
+    "quote not placed": 3,
+    "surface absent from document": 31
+   },
+   "duplicates": 1,
+   "labels": {
+    "ok": 13,
+    "part": 2
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  },
+  {
+   "run": "precedence-haiku-2026-09-30",
+   "contract": "Precedence",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 8,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.1007,
+   "template_sha256": "09ca6e661c880b20861881033e7b171370176d5245f5d41af8fbbfbd298019b3",
+   "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+   "rows": 39,
+   "candidates": 33,
+   "refused": {
+    "quote not placed": 1,
+    "surface absent from document": 5
+   },
+   "duplicates": 0,
+   "labels": {
+    "ok": 2,
+    "wrong": 8,
+    "part": 2
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  },
+  {
+   "run": "structurebeats-haiku-2026-09-30",
+   "contract": "StructureBeats",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 8,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0991,
+   "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+   "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+   "rows": 29,
+   "candidates": 11,
+   "refused": {
+    "quote not placed": 1,
+    "surface absent from document": 17
+   },
+   "duplicates": 0,
+   "labels": {
+    "ok": 12
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  }
+ ]
+}

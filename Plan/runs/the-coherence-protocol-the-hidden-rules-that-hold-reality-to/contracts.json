@@ -1,0 +1,113 @@
+{
+ "source": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+ "runs": [
+  {
+   "run": "analogies-haiku-2026-09-30",
+   "contract": "Analogies",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 7,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0785,
+   "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+   "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+   "rows": 16,
+   "candidates": 15,
+   "refused": {
+    "surface absent from document": 1
+   },
+   "duplicates": 0,
+   "labels": {
+    "ok": 7,
+    "part": 4,
+    "wrong": 3
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
+   "run": "locks-haiku-2026-09-30",
+   "contract": "Locks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 7,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0699,
+   "template_sha256": "",
+   "source_sha256": "",
+   "rows": 0,
+   "candidates": 0,
+   "refused": {},
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "unverified",
+   "why": "no chunk record",
+   "template": "unrecorded",
+   "source": "unrecorded",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
+   "run": "quantities-haiku-2026-09-30",
+   "contract": "Quantities",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 7,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0708,
+   "template_sha256": "",
+   "source_sha256": "",
+   "rows": 0,
+   "candidates": 0,
+   "refused": {},
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "unverified",
+   "why": "no chunk record",
+   "template": "unrecorded",
+   "source": "unrecorded",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
+   "run": "rules-haiku-2026-09-30",
+   "contract": "Rules",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 7,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0796,
+   "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+   "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+   "rows": 23,
+   "candidates": 16,
+   "refused": {
+    "surface absent from document": 7
+   },
+   "duplicates": 0,
+   "labels": {
+    "part": 8
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  }
+ ]
+}
