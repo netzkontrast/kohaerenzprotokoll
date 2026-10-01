@@ -68,7 +68,8 @@ Einen offenen Konsolidierungs-PR gab es bei Arbeitsbeginn nicht (offen: #136, #7
 ## 3. Plan und Entscheidungen
 
 **Layout** wie im Auftrag, unter `Index/` im Repository-Root. Committet: `methods.toml`, `manifest.jsonl`,
-`sources/<slug>/source.json`, `chunks/`, `lex/`. Gitignored: `sources/*/vec/` und `_build/`.
+`sources/<slug>/source.json`, `chunks/`. Gitignored: `sources/*/vec/`, `sources/*/lex/` und `_build/` (`lex/` auf Anweisung
+des Autors vom 2026-10-01, nach der Messung in §5; der Auftrag hatte es committet).
 *Spannung, offen gelassen:* `CLAUDE.md` sagt „There is no third layer"; `Index/` ist eine abgeleitete Schicht, die
 committet wird. Sie wird von keinem Pipeline-Schritt gelesen und ist jederzeit neu baubar (P25) — sie ist ein Cache mit
 prüfbaren IDs, keine Wahrheit. Ob sie committet bleiben soll, ist eine Frage an den Autor (§6).
@@ -116,6 +117,7 @@ den CI-Selbsttest mit den Markdown-Dateien der installierten Pakete rot.
 |---|---|
 | **Embedding-Cache-Schlüssel = Chunk-ID + sha1(prefix)[:8]** (`build.vec_key`); die ID-Formel selbst bleibt wie spezifiziert | Die ID deckt Text und Zeilenbereich ab, nicht den `prefix` — eingebettet wird aber `prefix + "\n" + text`. Eine umbenannte Überschrift hätte einen veralteten Vektor behalten. Gemessen: die Bereinigung der Überschriften (unten) änderte 59 Präfixe, und genau 59 Chunks wurden neu eingebettet, 91 übernommen. |
 | **`[headings]` in `methods.toml`** und im Methodenstempel | Code, der eine Überschrift anders liest, ändert `heading_path` und `prefix`. Der erste Versuch, Drive-Escapes (`2\.`, `F\&E`, `-\>`, `\~27`) zu entfernen, wurde vom Build nicht bemerkt — der Stempel kam nur aus der Registry. Jetzt ist die Regel dort benannt; eine Änderung an ihr ist eine neue Version. |
+| **`lex/` gitignored**, nicht committet (Anweisung des Autors, 2026-10-01) | Gemessen: 72 MB roh, ~19 MB komprimiert in Git bei einem `.git` von 55 MB, und jede Änderung der Lex-Regel noch einmal so viel. Es ist eine reine Funktion von Source, `fold()` und simplemma und wird von `novelgraph build` neu gebaut — gemessen 39 s für alle 586 Sources, ohne einen committeten Pfad zu ändern und ohne neu zu chunken (der Fall eines frischen Clones), byte-gleich zum vorigen Stand; `verify` prüft seine IDs gegen `chunks/`. |
 | **`lex/` als Zeichenketten** (`"surfaces": "a b c"`, `"lemmata": "x y:3"`) statt JSON-Objekt | Die Objektform machte `lex/` 104 MB für drei Chunker, viermal das Korpus. Die Zeichenkette: 72 MB roh, ~19 MB gzip. |
 | **FTS5 contentless** (`content=''`, rowid = Matrixzeile + 1) | Mit gespeichertem Text war `_build/` 260 MB; der Text ist ohnehin ein Slice der Source. Jetzt 82 MB. |
 | **Modell gepinnt** auf Revision `73908c3` und lokal zuerst geladen | Ein Modellwechsel unter demselben Namen würde stumm andere Vektoren erzeugen. |
@@ -190,7 +192,7 @@ Gelesen, ohne mehr hineinzulegen:
 | Ort | MB | in Git |
 |---|---|---|
 | `Index/sources/*/chunks/` | 16,4 (gzip ~2) | ja |
-| `Index/sources/*/lex/` | 71,7 (gzip ~19) | ja |
+| `Index/sources/*/lex/` | 71,7 (gzip ~19) | nein (bis 2026-10-01 committet) |
 | `Index/sources/*/source.json` | 1,3 | ja |
 | `Index/sources/*/vec/` | 17,6 (Dimension 256, float16) | nein |
 | `Index/_build/` | 81,8 (davon FTS5 62, Matrizen 16) | nein |
@@ -198,17 +200,16 @@ Gelesen, ohne mehr hineinzulegen:
 
 ## 6. Offene Fragen
 
-1. **Soll `lex/` committet bleiben?** Es ist eine reine Funktion von Source, `fold()` und simplemma und in ~60 s neu gebaut;
-   in Git kostet es ~19 MB komprimiert — `.git` ist heute 55 MB — und jede Versionsänderung der Lex-Regel noch einmal so viel.
-   Committet, weil der Auftrag es so sagt. Die Alternative: nur `chunks/` und `source.json` committen (IDs prüfbar, ~2 MB).
-2. **Kaltstart.** Ein CLI-Aufruf lädt 0,5 GB Modell (~15 s). Ein residenter Prozess wäre ein Server (Nicht-Ziel); ein kleineres
+*Entschieden 2026-10-01:* `lex/` wird nicht committet (§3a). Was offen bleibt:
+
+1. **Kaltstart.** Ein CLI-Aufruf lädt 0,5 GB Modell (~15 s). Ein residenter Prozess wäre ein Server (Nicht-Ziel); ein kleineres
    Modell (`potion-base-8M`, englisch) ist schneller, aber nicht mehrsprachig. Offen, bis klar ist, wer `search` aufruft.
-3. **`CLAUDE.md` sagt „There is no third layer".** `Index/` ist eine abgeleitete, teils committete Schicht. Sie wird von keinem
+2. **`CLAUDE.md` sagt „There is no third layer".** `Index/` ist eine abgeleitete, teils committete Schicht. Sie wird von keinem
    Pipeline-Schritt gelesen; ob sie so bleiben darf, entscheidet der Autor.
-4. **Eine unabhängige Bench.** Die 24 Fälle sind zirkulär und lexikalisch (Evaluations-Revision §0); ob Vektoren etwas finden,
+3. **Eine unabhängige Bench.** Die 24 Fälle sind zirkulär und lexikalisch (Evaluations-Revision §0); ob Vektoren etwas finden,
    was BM25 nicht findet, kann diese Bench nicht zeigen. Der Weg dorthin steht in der Revision §3 (Pooling, Urteile des Autors).
-5. **Tabellen und lange Zeilen sind nicht teilbar.** 193 `heading@v1`-Chunks liegen über 600 Tokens — 156 Tabellen, die der Auftrag
+4. **Tabellen und lange Zeilen sind nicht teilbar.** 193 `heading@v1`-Chunks liegen über 600 Tokens — 156 Tabellen, die der Auftrag
    nie zu teilen verlangt, und 37 Zeilen, weil ein Drive-Absatz eine Zeile ist und ein Satz darin keine Adresse hat.
    Zeichen-Offsets im Chunk würden das lösen und die Regel „ein Treffer ist ein Zeilenbereich" aufweichen.
-6. **Zusammenführung mit `docs/README.md` §2.2** — dort sind strukturelle Chunks als Teil des Dokument-Schemas in `derive.py`
+5. **Zusammenführung mit `docs/README.md` §2.2** — dort sind strukturelle Chunks als Teil des Dokument-Schemas in `derive.py`
    geplant. Ob `heading@v1` diese Regel wird oder daneben bleibt, hängt an der Script-Konsolidierung (§2).

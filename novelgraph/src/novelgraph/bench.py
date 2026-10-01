@@ -97,6 +97,6 @@ def sizes() -> dict:
     out["mb"] = {"vec": du(store.SOURCES, "*.npy") + du(store.SOURCES, "vec/*.json"),
                  "_build": du(store.BUILD),
                  "chunks (committed)": du(store.SOURCES, "*/chunks/*.jsonl"),
-                 "lex (committed)": du(store.SOURCES, "*/lex/*.jsonl"),
+                 "lex (ignored)": du(store.SOURCES, "*/lex/*.jsonl"),
                  "source.json (committed)": du(store.SOURCES, "source.json")}
     return out

@@ -34,7 +34,7 @@ A second run takes seconds; the first took about a minute with uv's cache warm.
 | qmd's models (~2.1 GB), index and embeddings | `install.sh qmd-models` (`scripts/setup_qmd.sh`) — **not** run at session start | vector search and `qmd query` |
 | `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev or OpenRouter call |
 | `Plan/derived/ui/` | `python3 scripts/ui.py` | the project app's canvas files, to publish |
-| `.venv-novelgraph`, `Index/sources/*/vec/`, `Index/_build/`, the embedder (~0.5 GB in the Hugging Face cache) | `UV_PROJECT_ENVIRONMENT=$PWD/.venv-novelgraph uv sync --project novelgraph`, then `.venv-novelgraph/bin/novelgraph build` (about 3 minutes from nothing) — not at session start | `novelgraph search`; nothing in the pipeline |
+| `.venv-novelgraph`, `Index/sources/*/vec/`, `Index/sources/*/lex/`, `Index/_build/`, the embedder (~0.5 GB in the Hugging Face cache) | `UV_PROJECT_ENVIRONMENT=$PWD/.venv-novelgraph uv sync --project novelgraph`, then `.venv-novelgraph/bin/novelgraph build` (about 3 minutes from nothing) — not at session start | `novelgraph search`; nothing in the pipeline |
 
 The standard-library scripts — `state.py`, `quotes.py`, `read.py`, `reconcile.py`, `account.py`, `entities.py`, `ui.py`, `hx.py`, `he_claude.py` — need none of these. **Every dependency goes into a virtualenv, never into the system
 Python** (`pip install --break-system-packages` once broke `cryptography` for the whole container); `.agents/skills/tools/references/install.md` has every venv, vendored skill and third-party tool and how each is installed.

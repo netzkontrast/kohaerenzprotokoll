@@ -2,7 +2,7 @@
 
 Three stages, each skipped when its input is unchanged:
 
-1. **chunks + lex** (committed) — redone for a source when its sha256 or the
+1. **chunks** (committed) **+ lex** (gitignored) — redone for a source when its sha256 or the
    registry's chunker/token/lex sections (`store.method_stamp`) changed, or a file is missing.
 2. **vec** (gitignored) — a source's matrix is reused when its `chunk_ids_hash`
    matches; otherwise rows of chunk ids already embedded are copied from the old
@@ -72,6 +72,12 @@ def embed_input(file_lines: list[str], row: dict) -> str:
     return row["prefix"] + "\n" + chunk_text(file_lines, row)
 
 
+def write_lex(slug: str, method: str, rows: list[dict], file_lines: list[str], lang: str) -> None:
+    write_jsonl(store.lex_path(slug, method), [
+        {"id": r["id"], "surfaces": lex.surfaces(t), "lemmata": lex.lemmata(t, lang)}
+        for r in rows for t in [chunk_text(file_lines, r)]])
+
+
 def build(source: str | None = None, methods: list[str] | None = None, force: bool = False,
           embedder: str | None = None, log=print) -> dict:
     t0 = time.perf_counter()
@@ -98,9 +104,14 @@ def build(source: str | None = None, methods: list[str] | None = None, force: bo
         prev = old.get(doc.slug)
         same = (prev and prev.get("sha256") == sha and prev.get("methods_stamp") == stamp
                 and (store.source_dir(doc.slug) / "source.json").exists()
-                and all(store.chunks_path(doc.slug, m).exists() and store.lex_path(doc.slug, m).exists()
-                        for m in all_methods))
+                and all(store.chunks_path(doc.slug, m).exists() for m in all_methods))
         title = (_title(doc.slug) or {}).get("title", doc.slug)
+        if same and not force:  # lex/ is gitignored: a fresh clone has the chunks and none of it
+            lang = json.loads((store.source_dir(doc.slug) / "source.json").read_text())["lang"]
+            for m in all_methods:
+                if not store.lex_path(doc.slug, m).exists():
+                    write_lex(doc.slug, m, read_jsonl(store.chunks_path(doc.slug, m)), file_lines, lang)
+                    stats["lex_rebuilt"] = stats.get("lex_rebuilt", 0) + 1
         if force or not same:
             parsed = chunkers.parse(file_lines, doc.offset)
             lang = lex.language(doc.body)
@@ -110,9 +121,7 @@ def build(source: str | None = None, methods: list[str] | None = None, force: bo
             for m, params in all_methods.items():
                 rows = chunkers.chunk(doc.slug, title, file_lines, doc.offset, m, params, parsed)
                 write_jsonl(store.chunks_path(doc.slug, m), rows)
-                write_jsonl(store.lex_path(doc.slug, m), [
-                    {"id": r["id"], "surfaces": lex.surfaces(t), "lemmata": lex.lemmata(t, lang)}
-                    for r in rows for t in [chunk_text(file_lines, r)]])
+                write_lex(doc.slug, m, rows, file_lines, lang)
             new_manifest[doc.slug] = {"slug": doc.slug, "sha256": sha, "lines": len(file_lines), "lang": lang,
                                       "methods_stamp": stamp, "indexed_at": now()}
             stats["rechunked"] += 1
