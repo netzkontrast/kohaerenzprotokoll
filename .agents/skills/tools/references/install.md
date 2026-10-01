@@ -187,17 +187,26 @@ nothing in the pipeline calls them. Their graphs stand under the same limits as
 `knowledge-graph-extract`: no page, link or count comes from one.
 
 **Hyper-Extract** (`netzkontrast/Hyper-Extract` at
-`395039ea49709b279971631a47569b931818abbb`, Apache-2.0) is three things here:
+`395039ea49709b279971631a47569b931818abbb`, Apache-2.0). **The pipeline does not
+need it:** the part a contract run uses — loading a template, its prompt and JSON
+schema, the chunks, the merge — is ported to `scripts/hx.py` in the standard
+library (decision 020), and `python3 scripts/hx.py parity` compares the port with
+this package over every template and every landed document's chunks. It is not
+installed at session start; `scripts/install.sh hyperextract` installs it on
+demand, as three things:
 
 - **`he`**, a uv tool on Python 3.12 with the `mcp`, `ingest` and `anthropic`
   extras. `he parse` has a model read documents into a *Knowledge Abstract* —
   a graph, hypergraph, list or record set shaped by a YAML template — and
   `he template validate` checks a template without any model.
-- **`he-mcp`**, registered as the `hyper-extract` server in `.mcp.json`. Its
-  nine tools read and export an existing Knowledge Abstract (`list_templates`,
-  `info`, `search`, `ask`, `export_obsidian|graphml|csv|jsonld|cypher`); none of
-  them extracts. In a brand-new container the server can start before the
-  session hook has installed `he-mcp` — reconnect it with `/mcp`.
+- **`he-mcp`**, an MCP server whose nine tools read and export an existing
+  Knowledge Abstract (`list_templates`, `info`, `search`, `ask`,
+  `export_obsidian|graphml|csv|jsonld|cypher`); none of them extracts, and the
+  pipeline writes no Knowledge Abstract, so it is no longer registered in
+  `.mcp.json` (it failed every session it was not yet installed in).
+  `install.sh hyperextract` links `he` and `he-mcp` into `/usr/local/bin`, because
+  Claude Code starts an MCP server with the PATH it was launched with, which lacks
+  `~/.local/bin`; to use it, `claude mcp add hyper-extract -- he-mcp`.
 - **Seven template-design skills**: `hyper-extract` (the entry point) and
   `hyperextract-brainstorm`, `-record-designer`, `-graph-designer`,
   `-yaml-validator`, `-template-optimizer`, `-multilingual`. Upstream nests them
@@ -215,13 +224,13 @@ before corpus text goes. A Knowledge Abstract is a model's reading under the
 same limits as `knowledge-graph-extract`: no page, link or count comes from it,
 and it is written outside `Wiki/` and `Sources/`.
 
-**Four project templates exist and none has run on a document**; the stock
-`he parse` cannot load them by path, `python3 scripts/templates.py parse` can: `Plan/hyperextract/`
-(`TermCensus`, `LocationRegistry`, `TermReadings`, `StatedRelations`), each
-copying the shape of something already here so code can score it, each marked
-provisional. `python3 scripts/templates.py check` holds them to Hyper-Extract's
-validator, to loading as `he parse` loads them — the validator passed a field
-that loading rejects — and to five rules of this project: no line field (P26), no
+**The project's templates** are the 32 contracts in `Plan/hyperextract/`
+(`Plan/concept/graph-contracts_2026-09-30.md` has the catalogue); a run is
+`python3 scripts/he_claude.py run`, on the port. The stock `he parse` cannot load
+them by path, `python3 scripts/templates.py parse` can. `python3 scripts/templates.py check`
+holds them to Hyper-Extract's validator and to loading as a run loads them — both on
+the port, so no install is needed; the upstream validator passed a field that loading
+rejects — and to five rules of this project: no line field (P26), no
 model merge (P13), an explicit merge strategy, the provisional header, and no
 corpus name in any text a model is sent. `selftest` shows each check failing on
 its defect. `Plan/concept/hyperextract-templates_2026-09-24.md` has the design,

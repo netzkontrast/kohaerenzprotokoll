@@ -57,25 +57,26 @@ guidelines. `name:` must match the YAML file stem for saved KA reloads.
    validate/load/resolve/project check. Unreached is not passed. The coordinator
    runs corpus-name checks; a blind document-reader receives the result rather
    than running the check that reads other sources and wiki surfaces.
-4. Run the actual factory/extraction pipeline offline with a canned response:
+4. Run the actual extraction pipeline offline with a canned response:
 
 ```bash
-<he-python> scripts/reading_extract.py smoke <candidate.yaml> \
+python3 scripts/reading_extract.py smoke <candidate.yaml> \
   --text <synthetic-source.txt> --response <native-response.json>
+python3 scripts/hx.py prompt <candidate.yaml>     # the prompt and schema a model is sent
 python3 scripts/reading_extract.py selftest
 ```
 
-`<he-python>` is the interpreter beside the installed `he` executable (the same
-one `templates.he_python()` resolves). The committed synthetic fixtures are in
-`Plan/hyperextract/fixtures/`. `smoke` uses explicit fake clients, exercises
-`Template.create` and `feed_text`, and builds no embedding index. It proves
-loading/schema/merge behavior, **not** prompt quality or model recall. Test a
-bad payload as well; it must fail. Capture the installed versions.
+HyperExtract's engine is ported to `scripts/hx.py` (decision 020), standard library
+only: the prompt, the JSON schema, the chunks and the merge are byte for byte what
+upstream 395039e builds, and `python3 scripts/hx.py parity` holds it to the upstream
+package when `scripts/install.sh hyperextract` has installed it. The committed
+synthetic fixtures are in `Plan/hyperextract/fixtures/`. `smoke` answers every chunk
+with the canned reply. It proves loading/schema/chunk/merge behavior, **not** prompt
+quality or model recall. Test a bad payload as well; it must fail.
 
-Use the helper's returned Python object to serialize an export; HyperExtract
-logs precede CLI stdout, so a redirected smoke log is not a JSON envelope.
-The extraction helper and stage both reject empty data; native HyperExtract may
-catch a chunk's schema failure and return empty `items` without raising.
+The extraction helper and stage both reject empty data; a chunk whose reply fails
+the schema twice is dropped, as upstream drops it, and a run of nothing but such
+chunks merges to empty `items`.
 
 5. For a live pilot, use the existing route/consent and call-recording workflow
    from `.agents/skills/dspy/SKILL.md`; inspect the current decision and consent
@@ -86,13 +87,14 @@ python3 scripts/templates.py parse <one-source-file> \
   -t <candidate.yaml> -l en -o <new-ka-directory> --source <slug> --no-index
 ```
 
-This calls the configured provider. The MCP server exposes read/export tools;
-it does not create a KA. For explicit approved clients, use
-`reading_extract.extract(template_path, document(slug), llm, embedder, extractor)`
-and save its returned JSON envelope in your assigned trial directory.
+This needs the upstream package and calls its configured provider; no pipeline
+step uses it. For an explicit approved client, use
+`reading_extract.extract(template_path, document(slug), ask, extractor)` — `ask` is
+`he_claude.Claude` or any callable `(prompt, schema, check) -> reply` — and save its
+returned JSON envelope in your assigned trial directory.
 
 **Claude is the approved client, first party (decision 011).**
-`python3 scripts/he_claude.py run <slug> <list-template.yaml> --run <new-name> [--model haiku]`
+`python3 scripts/he_claude.py run <slug> <template.yaml> --run <new-name> [--model haiku]` (a list, set or graph template)
 extracts, stages, and records every call in `calls.jsonl` and `usage.json`. Its first
 live pass (TermReadings on Haiku, 58 lines, $0.035) found a failure: the model closes
 a German „…“ with a straight quote. The adapter now names the typography and puts

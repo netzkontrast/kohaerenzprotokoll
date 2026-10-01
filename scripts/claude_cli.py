@@ -1,9 +1,9 @@
 """One headless `claude -p` call, shut in an empty directory — standard library only.
 
 The one encoding (P6) of how this repository calls Claude outside the session
-(decision 011): `claude_lm.ClaudeCLI`, the DSPy model, and `he_claude.ClaudeChat`,
-HyperExtract's LangChain model, both call `call()`. It lives apart from them
-because neither DSPy nor LangChain is in the other's virtualenv.
+(decision 011): `claude_lm.ClaudeCLI`, the DSPy model, and `he_claude.Claude`,
+the model a HyperExtract contract run asks, both call `call()`. It lives apart from
+them because DSPy is in a virtualenv and the contract run in none.
 
 - **no tools** (`--tools ""`), no MCP servers, no skills, no settings files, no
   session written, and an empty working directory, so no `CLAUDE.md` is

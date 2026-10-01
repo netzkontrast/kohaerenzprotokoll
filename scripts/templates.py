@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check Hyper-Extract templates against Hyper-Extract and against this project.
+"""Check Hyper-Extract templates against Hyper-Extract (as ported, `hx.py`) and against this project.
 
     python3 scripts/templates.py check [FILE ...]   # default: Plan/hyperextract/*.yaml
     python3 scripts/templates.py selftest           # every check shown to fail on its defect
@@ -19,12 +19,14 @@ the path once more: `he feed <ka> <doc> -t Plan/hyperextract/<Name>.yaml`.
 Hyper-Extract's own validator (`he template validate`, HE-T001..009) checks the
 configuration schema. It passed a template whose field `register` shadows a pydantic
 attribute — the warning appears only when the template is *loaded* — so loading is
-its own check here. Then the rules that are this project's, not Hyper-Extract's:
+its own check here. Both run on `hx.py`, the port, in the standard library: `hx.py parity`
+holds it to the upstream package, which `parse` alone still needs. Then the rules that are
+this project's, not Hyper-Extract's:
 
 | check        | the rule                                                                  |
 |--------------|---------------------------------------------------------------------------|
-| validate     | `he template validate`: 0 errors, 0 warnings                              |
-| load         | localize + parse_* as `he parse` does: 0 warnings                         |
+| validate     | `hx.diagnose` (HE-T003..T008): 0 errors, 0 warnings                       |
+| load         | `hx.load`, as a run loads it: no error, no field that shadows pydantic    |
 | no-line      | no field carries a line or page: names in, lines by code (P26)            |
 | no-llm-merge | no `llm_*` merge strategy: two readings are never merged into one (P13)   |
 | merge-set    | set and graph templates name their strategy; the default overwrites (keep_incoming) |
@@ -55,31 +57,8 @@ DIR = ROOT / "Plan" / "hyperextract"
 LINE_FIELDS = re.compile(r"^\s*-\s*name:\s*(line|lines|line_number|line_no|page|pages)\s*$", re.M)
 STRATEGY = re.compile(r"^\s*(merge_strategy|entity_merge_strategy|relation_merge_strategy):\s*(\S+)", re.M)
 
-LOADER = r"""
-import json, sys, warnings, yaml
-from hyperextract.utils.template_engine.parsers import (parse_output, parse_guideline,
-    parse_identifiers, parse_display, parse_option)
-from hyperextract.utils.template_engine.parsers.loader import localize_template
-from hyperextract.utils.template_engine.template import TemplateCfg
-out = {}
-for path in sys.argv[1:]:
-    with open(path, encoding="utf-8") as f:
-        raw = yaml.safe_load(f)
-    with warnings.catch_warnings(record=True) as w:
-        warnings.simplefilter("always")
-        try:
-            cfg = localize_template(TemplateCfg(**raw), "en")
-            parse_output(cfg.output, cfg.type); parse_identifiers(cfg.identifiers, cfg.type)
-            parse_display(cfg.display, cfg.type); parse_option(cfg.options, cfg.type, override={})
-            p = parse_guideline(cfg.guideline, cfg.type, "en")
-            out[path] = {"warnings": [str(x.message)[:160] for x in w if not issubclass(x.category, ResourceWarning)],
-                         "prompt": p if isinstance(p, str) else "\n".join(p)}
-        except Exception as e:
-            out[path] = {"error": f"{type(e).__name__}: {e}"[:300]}
-print(json.dumps(out))
-"""
-
-# Template.get extended to a file path; everything else is the installed CLI.
+# `parse` only: the installed upstream CLI (`scripts/install.sh hyperextract`), with Template.get extended to a
+# file path; everything else is that CLI. No pipeline step uses it — a run is `he_claude.py run` on the port.
 PATCH = r"""
 from pathlib import Path
 from hyperextract.utils.template_engine.parsers import load_template
@@ -114,19 +93,6 @@ sys.argv = ["he", "parse", *sys.argv[1:]]
 sys.exit(app())
 """
 
-RESOLVE = PATCH + r"""
-import json, sys
-out = {}
-for path in sys.argv[1:]:
-    try:
-        cfg = Template.get(path)
-        out[path] = {"name": cfg.name} if cfg is not None else {"error": "not found"}
-    except Exception as e:
-        out[path] = {"error": f"{type(e).__name__}: {e}"[:300]}
-print(json.dumps(out))
-"""
-
-
 def he_python() -> Path | None:
     he = shutil.which("he")
     if not he:
@@ -143,11 +109,6 @@ def resolve_status(path: Path, got: dict | None, stderr: str = "") -> tuple[str,
     if got["name"] != path.stem:
         return ("FAIL", f"name {got['name']!r} is not the file's stem {path.stem!r}")
     return ("ok", "")
-
-
-def resolve(paths: list[Path]) -> dict:
-    r = subprocess.run([str(he_python()), "-c", RESOLVE, *map(str, paths)], capture_output=True, text=True)
-    return json.loads(r.stdout.strip().splitlines()[-1])
 
 
 def sent_text(text: str) -> str:
@@ -195,44 +156,33 @@ def project_checks(text: str, names: list[str]) -> dict[str, tuple[str, str]]:
     return out
 
 
+def port_checks(path: Path) -> dict[str, tuple[str, str]]:
+    """validate, load and resolve, on the port: a template that does not load is reached by nothing after it."""
+    import hx
+    try:
+        t = hx.load(path)
+    except hx.TemplateError as exc:
+        code = str(exc).split()[0]
+        why = str(exc)[:200]
+        if code in ("HE-T001", "HE-T002") or code.startswith("Unknown"):
+            return {"validate": ("FAIL", why), "load": ("not reached", "it does not validate"),
+                    "resolve": ("not reached", "it does not load")}
+        return {"validate": ("ok", ""), "load": ("FAIL", why), "resolve": ("not reached", "it does not load")}
+    found = hx.diagnose(t)
+    errors = [d for d in found if not d.startswith("HE-T002 warning")]
+    out = {"validate": ("FAIL", "; ".join(errors)[:200]) if errors else ("ok", ""),
+           "load": ("FAIL", "; ".join(t.warnings)[:200]) if t.warnings else ("ok", "")}
+    out["resolve"] = resolve_status(path, {"name": t.name})
+    return out
+
+
 def check(paths: list[Path]) -> int:
     names, short = known_names()
     print(f"procedural: {len(names)} wiki surfaces and verified entity names checked; "
           f"{len(short)} of two characters or fewer cannot be ({', '.join(short) or 'none'})\n")
     results: dict[Path, dict[str, tuple[str, str]]] = {p: {} for p in paths}
-    he = shutil.which("he")
     for p in paths:
-        if not he:
-            results[p]["validate"] = ("not reached", "he is not installed: scripts/install.sh hyperextract")
-            continue
-        r = subprocess.run([he, "template", "validate", str(p)], capture_output=True, text=True)
-        text = r.stdout + r.stderr
-        clean = r.returncode == 0 and "HE-T" not in text
-        results[p]["validate"] = ("ok", "") if clean else ("FAIL", " ".join(
-            l.strip() for l in text.splitlines() if "HE-T" in l)[:200] or text.strip()[-200:])
-    py = he_python()
-    if py:
-        r = subprocess.run([str(py), "-c", LOADER, *map(str, paths)], capture_output=True, text=True)
-        loaded = json.loads(r.stdout.strip().splitlines()[-1]) if r.returncode == 0 and r.stdout.strip() else {}
-        for p in paths:
-            got = loaded.get(str(p))
-            if got is None:
-                results[p]["load"] = ("not reached", (r.stderr.strip().splitlines() or ["no output"])[-1][:200])
-            elif "error" in got:
-                results[p]["load"] = ("FAIL", got["error"])
-            else:
-                results[p]["load"] = ("FAIL", "; ".join(got["warnings"])) if got["warnings"] else ("ok", "")
-        r = subprocess.run([str(py), "-c", RESOLVE, *map(str, paths)], capture_output=True, text=True)
-        try:
-            resolved = json.loads(r.stdout.strip().splitlines()[-1])
-        except (json.JSONDecodeError, IndexError):
-            resolved = {}
-        for p in paths:
-            results[p]["resolve"] = resolve_status(p, resolved.get(str(p)), r.stderr)
-    else:
-        for p in paths:
-            results[p]["load"] = ("not reached", "no hyperextract interpreter beside `he`")
-            results[p]["resolve"] = ("not reached", "no hyperextract interpreter beside `he`")
+        results[p].update(port_checks(p))
     for p in paths:
         results[p].update(project_checks(p.read_text(encoding="utf-8"), names))
     order = ["validate", "load", "resolve", "no-line", "no-llm-merge", "merge-set", "provisional", "procedural"]
@@ -299,43 +249,17 @@ def selftest() -> int:
         ok = all(s == "ok" for s, _ in baseline.values())
         bad += not ok
         print(f"  {'ok ' if ok else 'BAD'} the clean fixture passes every project check")
-        if shutil.which("he"):
-            r = subprocess.run(["he", "template", "validate", str(good)], capture_output=True, text=True)
-            ok = r.returncode == 0 and "HE-T" not in r.stdout + r.stderr
+        port = port_checks(good)
+        for name, label in (("validate", "passes validate"), ("load", "loads without a warning"),
+                            ("resolve", "resolves by path, its name its stem")):
+            ok = port[name][0] == "ok"
             bad += not ok
-            print(f"  {'ok ' if ok else 'BAD'} the clean fixture passes validate")
-            r = subprocess.run([str(he_python()), "-c", LOADER, str(good)], capture_output=True, text=True)
-            got = json.loads(r.stdout.strip().splitlines()[-1])[str(good)]
-            ok = not got.get("error") and not got.get("warnings")
-            bad += not ok
-            print(f"  {'ok ' if ok else 'BAD'} the clean fixture loads without a warning")
-            ok = resolve_status(good, resolve([good])[str(good)])[0] == "ok"
-            bad += not ok
-            print(f"  {'ok ' if ok else 'BAD'} the clean fixture resolves by path, as `parse` loads it")
-            r = subprocess.run([str(he_python()), "-c",
-                                "import sys; from hyperextract.utils.template_engine.template import Template;"
-                                "print(Template.get(sys.argv[1]) is None)", str(good)],
-                               capture_output=True, text=True)
-            ok = r.stdout.strip().endswith("True")
-            bad += not ok
-            print(f"  {'ok ' if ok else 'BAD'} the unpatched CLI lookup still misses a path"
-                  f" (if not, `parse` is no longer needed)")
+            print(f"  {'ok ' if ok else 'BAD'} the clean fixture {label}")
         for check_name, text in DEFECTS.items():
             path = Path(tmp) / f"{check_name}.yaml"
             path.write_text(text, encoding="utf-8")
             if check_name in ("validate", "load", "resolve"):
-                if not shutil.which("he"):
-                    print(f"  --  {check_name}: he not installed, not reached")
-                    continue
-                if check_name == "validate":
-                    r = subprocess.run(["he", "template", "validate", str(path)], capture_output=True, text=True)
-                    failed = r.returncode != 0 or "HE-T" in r.stdout + r.stderr
-                elif check_name == "resolve":
-                    failed = resolve_status(path, resolve([path])[str(path)])[0] == "FAIL"
-                else:
-                    r = subprocess.run([str(he_python()), "-c", LOADER, str(path)], capture_output=True, text=True)
-                    got = json.loads(r.stdout.strip().splitlines()[-1])[str(path)]
-                    failed = bool(got.get("error") or got.get("warnings"))
+                failed = port_checks(path)[check_name][0] == "FAIL"
             else:
                 failed = project_checks(text, names)[check_name][0] == "FAIL"
             bad += not failed
