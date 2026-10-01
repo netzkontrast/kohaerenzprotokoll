@@ -70,7 +70,7 @@ It is not sound as evidence that a change *finds evidence that helps*, and three
    budget allow; nDCG or the rank of the first relevant line, which a fixed pack hides; each with its paired interval and the detection limit.
 6. **Contract labels that can carry a number** (the working session plus the author's time). Hash-drawn rows only, at least 30 per contract before a figure is
    quoted, two independent labelers with different instructions and their agreement (Cohen's kappa), the author's grades on 50–100 rows as the anchor, Wilson
-   intervals, no pooling across contracts.
+   intervals, no pooling across contracts. §5 says what a blind reader's relation lists, written since, already add.
 7. **Answer-level evaluation for the goal.** `ask` answers are checked for placed quotations and fabrication by code. What they never meet is a reader: a blind
    pairwise comparison of two answers by the author on about twenty questions, which calibrates any model judge before it is used.
 8. **Spend by the first slice.** Before a pass over the corpus, run a tenth of it, measure the marginal gain with a paired test, and stop by a rule written
@@ -88,3 +88,25 @@ Items 1–3 and 5 cost no model call. Item 4 needs a yes and a small spend; item
   standard error (±0.003 here), which is why the paired test of the backfill could say more than the bench can say about the finder.
 - Nothing here measures the project's other goals — conflict detection, the plot model as checkable rules, the quality of generated questions. They have no
   evaluation yet beyond the records' own self-checks.
+
+## 5. Added after the note was merged: what PR #131's gold relations show
+
+The same day a parallel session added `scripts/goldeval.py` (every extractor against every gold candidate list) and `scripts/goldrel.py` (one blind
+reader's definitions, contrasts and causes, in the contracts' own ten types; `Plan/runs/gold-2026-09-30/README.md`). Both scorers run offline; I re-ran them
+for this section and the figures are theirs. No model was called here.
+
+- **It is a label that did not come from the working session — the kind §3 item 6 asks for, one step short.** The reader wrote its lists without the
+  contracts' rows in view, code checks that each row's line holds its surfaces, and code does the scoring. It is another Claude (Sonnet subagents): independent
+  of the working session's labels and of the contracts' output, not of the model family. On three documents the contracts' pairs have **precision 49 %**
+  (`TermDefinitions`), **27 %** (`TermContrasts`) and **36 %** (`CausalLinks`) against that list — 49, 38 and 52 % counting a row that stands on a gold row's
+  line and meets one of its endpoints — and recall 52, 50 and 33 %. For the names alone, over 17 gold documents, precision is 62 %, 12 % and 12 %.
+- **It neither contradicts nor confirms the „58–100 % right" of §2.** The working session asked whether a row's quotation states what the row says
+  (`ok`, `part`, `wrong`); the reader's list answers whether one blind reader also wrote the row. A true row can be missing from one reader's list — which lines
+  count as defining a term, where an endpoint is cut — so the two figures measure different things. What they share is that each rests on one reader. **No single
+  number for a contract's precision is established**, and a claim that quotes one should say which.
+- **The ceiling is still missing.** One blind relation reader is one reading. For term lists two blind readers agreed at F1 0.66 when each selected and at
+  0.82–0.93 when both listed exhaustively (P27); for relations nobody has measured it, and until someone does the 50 % recall above reads as neither good nor
+  bad. A second blind relation reader on the same three documents — that session's own open item — gives the figure §3 item 6 asks of every label set, the agreement
+  between two labelers.
+- **It scores extractors, not retrieval.** The bench's circular gold (§0 item 1) and the missing unread-document cases (§0 item 2) are untouched by it: nothing
+  in `goldeval.py` or `goldrel.py` says whether a finder returns evidence that helps.
