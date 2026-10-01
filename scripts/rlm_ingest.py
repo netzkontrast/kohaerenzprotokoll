@@ -75,6 +75,7 @@ Usage:
         [--model M] [--iters N] [--calls N] [--sub-model M]
     .venv-dspy/bin/python scripts/rlm_ingest.py <slug> --score   # against the human list
     python3 scripts/rlm_ingest.py --selftest                      # tools and reach, offline
+    .venv-dspy/bin/python scripts/rlm_ingest.py --loop-selftest   # actual RLM, offline
 """
 
 from __future__ import annotations
@@ -353,6 +354,8 @@ def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     if argv == ["--selftest"]:
         return selftest()
+    if argv == ["--loop-selftest"]:
+        return loop_selftest()
     parser.add_argument("slug")
     parser.add_argument("--model", default=DEFAULT_MODEL)
     parser.add_argument("--iters", type=int, default=12)
@@ -395,6 +398,61 @@ def selftest() -> int:
         print(f"  FAIL  {f}")
     print(f"rlm_ingest: {6 - len(failures)} of 6 offline cases hold "
           "(find_line, refusal, count, reach, forced answer, a reading)")
+    return 1 if failures else 0
+
+
+def loop_selftest() -> int:
+    """Exercise RLM's real loop and adapter with a controlled offline interpreter."""
+    import dspy
+    from dspy.primitives.code_interpreter import FinalOutput
+    from lm_fixture import FixtureLM, chat, fill, offline
+
+    class ScriptedInterpreter:
+        """Only the two fixture actions; never executes untrusted model code."""
+        def __init__(self):
+            self.tools = {}
+            self.output_fields = {}
+
+        def start(self):
+            pass
+
+        def shutdown(self):
+            pass
+
+        def execute(self, code, variables=None):
+            if code == "SUBMIT(candidates='- Kern-Welt  ^[L1]')":
+                return FinalOutput({"candidates": "- Kern-Welt  ^[L1]"})
+            if code == "print(len(document))":
+                return "32"
+            raise AssertionError(f"unexpected fixture code: {code!r}")
+
+    failures = []
+    document = "1| Die Kern-Welt ist eine Welt."
+    submitted = FixtureLM(lambda messages: chat(
+        reasoning="Ich lese die Zeile.", code="SUBMIT(candidates='- Kern-Welt  ^[L1]')"))
+    with offline(submitted):
+        answer = dspy.RLM("document: str, task: str -> candidates: str",
+                          max_iters=2, max_llm_calls=3,
+                          interpreter_factory=ScriptedInterpreter)(document=document, task="Begriff nennen")
+    if answer.candidates != "- Kern-Welt  ^[L1]" or not submitted.requests:
+        failures.append(f"submitted loop: {answer.candidates!r}, {len(submitted.requests)} calls")
+    if getattr(answer, "final_reasoning", "") == FORCED:
+        failures.append("a submitted answer was marked forced")
+
+    exhausted = FixtureLM(fill(reasoning="Ich lese weiter.", code="print(len(document))",
+                               candidates="- Kern-Welt  ^[L1]"))
+    with offline(exhausted):
+        answer = dspy.RLM("document: str, task: str -> candidates: str",
+                          max_iters=1, max_llm_calls=3,
+                          interpreter_factory=ScriptedInterpreter)(document=document, task="Begriff nennen")
+    if getattr(answer, "final_reasoning", "") != FORCED:
+        failures.append("an exhausted loop was not marked forced")
+    if judge(1.0, [], [], 1.0, forced=True).startswith("a reading"):
+        failures.append("a forced answer passed the reading gate")
+    for failure in failures:
+        print(f"  FAIL  {failure}")
+    print(f"rlm_ingest loop: {3 - len(failures)} of 3 offline cases hold "
+          "(submitted answer, forced answer, reading gate)")
     return 1 if failures else 0
 
 

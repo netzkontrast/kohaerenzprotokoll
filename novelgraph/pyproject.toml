@@ -9,6 +9,11 @@ dependencies = [
     "simplemma==1.1.2",
 ]
 
+[project.optional-dependencies]
+# the RLM retrieval agent (`novelgraph rlm`): DSPy's sandboxed REPL over this index, pinned to the
+# version .venv-dspy runs (scripts/install.sh dspy), so lmrun.py and claude_lm.py behave the same here
+rlm = ["dspy[deno]==3.3.1"]
+
 [project.scripts]
 novelgraph = "novelgraph.cli:main"
 

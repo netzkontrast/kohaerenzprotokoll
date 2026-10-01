@@ -46,6 +46,7 @@ one candidate list. Three pieces, and the joins between them are the point
     [--model M] [--iters N] [--calls N] [--sub-model M]
 .venv-dspy/bin/python scripts/rlm_ingest.py <slug> --score      # against the human list
 python3 scripts/rlm_ingest.py --selftest                        # tools and reach, offline
+.venv-dspy/bin/python scripts/rlm_ingest.py --loop-selftest     # DSPy loop, scripted interpreter
 ```
 
 Defaults: `--model openrouter/nvidia/nemotron-3-super-120b-a12b:free`,
@@ -107,6 +108,13 @@ checks six offline cases with no model and no key: `find_line` on real words,
 its refusal on absent ones, `count`, `reach` separating an early-only set from
 a full-coverage one, and `judge()` on a forced case versus a complete one
 (`scripts/rlm_ingest.py`).
+
+**`--loop-selftest`** runs DSPy's action and forced-extract loops with a fixture
+LM and a scripted interpreter over one synthetic line. It checks a submitted
+candidate and a forced answer rejected by the reading gate, without corpus or
+network. The scripted interpreter does not exercise Deno or Pyodide; the
+`check_dspy_skill.py` `rlm-runs-offline` probe covers that integration when
+the sandbox's download cache is available.
 
 **What it may not do** (`scripts/rlm_ingest.py`):
 

@@ -5,6 +5,7 @@
     novelgraph verify [--no-rechunk]
     novelgraph bench  [--k 8] [--record DIR]      # recall@k on ask.py's cases, latency, sizes
     novelgraph selftest
+    novelgraph rlm    [--selftest | --dry-run | --report | --approval "decision 011"] [--methods A,B] [--cases C1,Q2]
 
 Run from the repository root: `.venv-novelgraph/bin/novelgraph …`, the venv made once by
 `UV_PROJECT_ENVIRONMENT=$PWD/.venv-novelgraph uv sync --project novelgraph`.
@@ -38,6 +39,14 @@ def main(argv: list[str] | None = None) -> int:
     be.add_argument("--k", type=int, default=8)
     be.add_argument("--record")
     sub.add_parser("selftest")
+    r = sub.add_parser("rlm", help="a dspy.RLM agent searches the index for a bench question's evidence (rlm.py)")
+    r.add_argument("--selftest", action="store_true")
+    r.add_argument("--dry-run", action="store_true")
+    r.add_argument("--report", action="store_true")
+    r.add_argument("--methods", default=None)
+    r.add_argument("--cases", default=None)
+    r.add_argument("--model", default="claude-cli/haiku")
+    r.add_argument("--approval")
     a = ap.parse_args(argv)
 
     if a.cmd == "build":
@@ -77,6 +86,21 @@ def main(argv: list[str] | None = None) -> int:
             out = Path(a.record)
             out.mkdir(parents=True, exist_ok=True)
             (out / "bench.json").write_text(json.dumps(result, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        return 0
+    if a.cmd == "rlm":
+        from . import rlm
+        if a.selftest:
+            fails = rlm.selftest()
+            for f in fails:
+                print(f"  FAIL  {f}")
+            print(f"novelgraph rlm selftest: {'held' if not fails else f'{len(fails)} failed'}")
+            return 1 if fails else 0
+        if a.report:
+            print(json.dumps(rlm.report(), ensure_ascii=False, indent=1))
+            return 0
+        methods = a.methods.split(",") if a.methods else list(rlm.METHODS)
+        only = a.cases.split(",") if a.cases else None
+        rlm.run(methods, only, a.model, a.approval, a.dry_run)
         return 0
     if a.cmd == "selftest":
         from .selftest import gates, publication_gates, selftest
