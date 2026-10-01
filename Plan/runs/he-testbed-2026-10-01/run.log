@@ -47,3 +47,15 @@
 06:42:02 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Storypoints
 {"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Storypoints.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 9.4, "input_tokens": 11924, "output_tokens": 24, "cost_usd": 0.0384, "approval": "decision 011 (Claude, first party); the au
 06:42:11 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik StructureBeats
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "StructureBeats.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 17.9, "input_tokens": 12227, "output_tokens": 1305, "cost_usd": 0.0527, "approval": "decision 011 (Claude, first party); 
+06:42:30 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik TermCensus
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "TermCensus.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 25.1, "input_tokens": 11651, "output_tokens": 2173, "cost_usd": 0.0586, "approval": "decision 011 (Claude, first party); the 
+06:42:55 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik TermContrasts
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "TermContrasts.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 15.8, "input_tokens": 12120, "output_tokens": 1194, "cost_usd": 0.051, "approval": "decision 011 (Claude, first party); th
+06:43:11 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik TermDefinitions
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "TermDefinitions.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 26.0, "input_tokens": 11542, "output_tokens": 2813, "cost_usd": 0.0645, "approval": "decision 011 (Claude, first party);
+06:43:38 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik TermReadings
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "TermReadings.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 35.3, "input_tokens": 11227, "output_tokens": 4750, "cost_usd": 0.0824, "approval": "decision 011 (Claude, first party); th
+06:44:13 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik TermTaxonomy
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "TermTaxonomy.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 16.5, "input_tokens": 12193, "output_tokens": 1074, "cost_usd": 0.0503, "approval": "decision 011 (Claude, first party); th
+06:44:30 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik ThemeMotifs

@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "term": "Kael",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Große Stille",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Glitch-Momente",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Primären Beobachtungs-Einheit",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Externen Taktgeber",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Einheit",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Kohärenz Protokoll",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Juna",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS-Protokolle",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Beobachtungsstatus",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Gedanke eines Fremden",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Grenzen der Mathematik",
+      "type": "work",
+      "scope": "lens"
+    },
+    {
+      "term": "Wärmetod des Universums",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Entropie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Dissoziation",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Foreshadowing",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Beobachter-Fokus",
+      "type": "concept",
+      "scope": "world"
+    }
+  ]
+}

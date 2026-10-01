@@ -28,13 +28,13 @@ Every contract in `Plan/hyperextract/` on `kohaerenz-protokoll-meta-foreshadowin
 | `StandingClaims` | 0 | 0 | 0 | 0 | — | — | — | — | $0.040 | [StandingClaims.md](StandingClaims.md) |
 | `StatedRelations` | 16 | 16 | 0 | 0 | — | — | — | — | $0.084 | [StatedRelations.md](StatedRelations.md) |
 | `Storypoints` | 0 | 0 | 0 | 0 | — | — | — | — | $0.038 | [Storypoints.md](Storypoints.md) |
-| `StructureBeats` | — | — | — | — | — | — | — | — | $0.000 | [StructureBeats.md](StructureBeats.md) |
-| `TermCensus` | — | — | — | — | — | — | — | — | $0.000 | [TermCensus.md](TermCensus.md) |
-| `TermContrasts` | — | — | — | — | — | — | — | — | $0.000 | [TermContrasts.md](TermContrasts.md) |
-| `TermDefinitions` | — | — | — | — | — | — | — | — | $0.000 | [TermDefinitions.md](TermDefinitions.md) |
-| `TermReadings` | — | — | — | — | — | — | — | — | $0.000 | [TermReadings.md](TermReadings.md) |
-| `TermTaxonomy` | — | — | — | — | — | — | — | — | $0.000 | [TermTaxonomy.md](TermTaxonomy.md) |
+| `StructureBeats` | 1 | 1 | 0 | 0 | — | — | — | — | $0.053 | [StructureBeats.md](StructureBeats.md) |
+| `TermCensus` | 18 | 0 | 0 | 18 | — | — | — | — | $0.059 | [TermCensus.md](TermCensus.md) |
+| `TermContrasts` | 4 | 4 | 0 | 0 | — | — | — | — | $0.051 | [TermContrasts.md](TermContrasts.md) |
+| `TermDefinitions` | 8 | 8 | 0 | 0 | — | — | — | — | $0.065 | [TermDefinitions.md](TermDefinitions.md) |
+| `TermReadings` | 23 | 22 | 0 | 0 | — | — | — | — | $0.082 | [TermReadings.md](TermReadings.md) |
+| `TermTaxonomy` | 0 | 0 | 0 | 0 | — | — | — | — | $0.050 | [TermTaxonomy.md](TermTaxonomy.md) |
 | `ThemeMotifs` | — | — | — | — | — | — | — | — | $0.000 | [ThemeMotifs.md](ThemeMotifs.md) |
 | `Utterances` | — | — | — | — | — | — | — | — | $0.000 | [Utterances.md](Utterances.md) |
 
-Total cost of the runs present: **$1.30**.
+Total cost of the runs present: **$1.66**.

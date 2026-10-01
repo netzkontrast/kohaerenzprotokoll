@@ -17,7 +17,14 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`
 
-Not run yet.
+3 calls (0 failed), 3 chunks (0 without a valid reply), $0.051, 15.8 s. **4 rows**: 4 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | linear | getaktet | contrasts_with | asserts | Kael sollte früh bemerken, dass die Zeit im Konstrukt nicht linear fließt, sondern „getaktet“ ist. | 17 |
+| 2 | relation_reading | candidate | autonomer Gott | Verwalter | contrasts_with | asserts | AEGIS agiert nicht als autonomer Gott, sondern als Verwalter, der auf ein „Signal“ wartet. | 25 |
+| 3 | relation_reading | candidate | weiterzulesen | akzeptiert sein Schicksal | contrasts_with | asserts | Kael bittet den Leser nicht darum, weiterzulesen, sondern akzeptiert sein Schicksal als „Gedanke eines Fremden“. | 49 |
+| 4 | relation_reading | candidate | direkte Ansprache des Lesers | interne Stimme Kaels | contrasts_with | asserts | Nicht als direkte Ansprache des Lesers, sondern als interne Stimme Kaels | 53 |
 
 ## `2026-09-14-kap25-vertiefung-md`
 

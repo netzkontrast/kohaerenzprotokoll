@@ -1,0 +1,38 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "linear",
+        "target": "getaktet",
+        "type": "contrasts_with",
+        "quote": "Kael sollte früh bemerken, dass die Zeit im Konstrukt nicht linear fließt, sondern „getaktet“ ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "autonomer Gott",
+        "target": "Verwalter",
+        "type": "contrasts_with",
+        "quote": "AEGIS agiert nicht als autonomer Gott, sondern als Verwalter, der auf ein „Signal“ wartet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "weiterzulesen",
+        "target": "akzeptiert sein Schicksal",
+        "type": "contrasts_with",
+        "quote": "Kael bittet den Leser nicht darum, weiterzulesen, sondern akzeptiert sein Schicksal als „Gedanke eines Fremden“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "direkte Ansprache des Lesers",
+        "target": "interne Stimme Kaels",
+        "type": "contrasts_with",
+        "quote": "Nicht als direkte Ansprache des Lesers, sondern als interne Stimme Kaels",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

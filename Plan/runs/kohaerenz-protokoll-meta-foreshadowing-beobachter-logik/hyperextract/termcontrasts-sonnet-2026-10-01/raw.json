@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "source": "linear",
+      "target": "getaktet",
+      "type": "contrasts_with",
+      "quote": "Kael sollte früh bemerken, dass die Zeit im Konstrukt nicht linear fließt, sondern „getaktet“ ist.",
+      "stance": "asserts"
+    },
+    {
+      "source": "autonomer Gott",
+      "target": "Verwalter",
+      "type": "contrasts_with",
+      "quote": "AEGIS agiert nicht als autonomer Gott, sondern als Verwalter, der auf ein „Signal“ wartet.",
+      "stance": "asserts"
+    },
+    {
+      "source": "weiterzulesen",
+      "target": "akzeptiert sein Schicksal",
+      "type": "contrasts_with",
+      "quote": "Kael bittet den Leser nicht darum, weiterzulesen, sondern akzeptiert sein Schicksal als „Gedanke eines Fremden“.",
+      "stance": "asserts"
+    },
+    {
+      "source": "direkte Ansprache des Lesers",
+      "target": "interne Stimme Kaels",
+      "type": "contrasts_with",
+      "quote": "Nicht als direkte Ansprache des Lesers, sondern als interne Stimme Kaels",
+      "stance": "asserts"
+    }
+  ]
+}
