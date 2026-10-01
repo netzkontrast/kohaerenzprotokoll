@@ -228,6 +228,10 @@ def build_stamp(method: str, embedder: str) -> tuple[str, set]:
         meta = json.loads(store.vec_meta_path(slug, method, embedder).read_text())
         if meta.get("embedder_fp") != fp:
             raise SystemExit(f"{slug} {method}: vectors are from another embedder spec — run `novelgraph build`")
+        chunks = read_jsonl(store.chunks_path(slug, method))
+        if (meta.get("keys") != [vec_key(r) for r in chunks]
+                or meta.get("chunk_ids_hash") != store.ids_hash([r["id"] for r in chunks])):
+            raise SystemExit(f"{slug} {method}: vectors are for other chunks or prefixes — run `novelgraph build`")
         parts.append(f"{slug}:{store.ids_hash(meta['keys'])}")
         dims.add(meta["dim"])
     return store.ids_hash(parts + [method, embedder, fp, store.method_stamp()]), dims

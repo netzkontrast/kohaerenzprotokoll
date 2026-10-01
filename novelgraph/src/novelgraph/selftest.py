@@ -229,6 +229,13 @@ def publication_gates() -> list[str]:
     import subprocess
     import sys
     fails = []
+    with fixture(TEXTS) as fx:
+        build.build(**QUIET)
+        a = fx["drive"] / "a.md"
+        a.write_text(a.read_text().replace("Kael zählt die Sterne", "Nyx verändert das Gedächtnis"))
+        build.build(methods=["heading@v1"], **QUIET)
+        if not _raises(lambda: search.Index("section@v1")):
+            fails.append("method-filtered rebuild left another method searchable with stale vectors")
     with fixture(TEXTS):
         original = build._title
         title = ["Original"]

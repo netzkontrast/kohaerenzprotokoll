@@ -7,8 +7,8 @@
 | Landed coverage | 586/586; whole catalogue 587, one unlanded audio | `verify.log` |
 | Exact verification | pass for all three methods, including re-derived lex and FTS postings, chunk recomputation and aggregate vectors by value | `verify.log` |
 | Full build | 126.15 s, 31,366 embedded chunks across three methods | `build.json` |
-| No-op rebuild | 0.84 s, 0 rechunked, 0 embedded, 0 concatenated; all 1,758 per-source vector files skipped | `noop.json` |
-| Offline regression fixtures | pass: chunking, missing/changed sources, prefix changes, embedder revision, swapped vectors, lex/FTS corruption, interrupted publication/recovery, real process locks, stable no-op bytes/mtimes | `offline.log` |
+| No-op rebuild | 1.39 s, 0 rechunked, 0 embedded, 0 concatenated; all 1,758 per-source vector files skipped | `noop.json` |
+| Offline regression fixtures | pass: chunking, missing/changed sources, prefix changes, embedder revision, swapped vectors, lex/FTS corruption, interrupted publication/recovery, real process locks, stable no-op bytes/mtimes, method-filtered rebuilds | `offline.log` |
 | Standard-library suites | 55 held, 0 failed, 16 dependency suites intentionally skipped | `standard-library.log` |
 | Heading hybrid latency | P50 8.9 ms, P95 34.2 ms, 50 warm queries, one BLAS thread | `bench.json` |
 | Heading document recall@8 | BM25 0.066, vector 0.067, hybrid 0.068; ceiling 0.427 | `bench.json` |
@@ -32,3 +32,7 @@ python3 scripts/selftests.py --only std
 
 Publication uses flock and atomic renames, with a persistent interruption marker. It protects cooperative
 readers/writers and rejects a partial build after a crash; it does not promise power-loss durability.
+
+The method-filtered rebuild fixture failed against the previous head and passes after `build_stamp`
+compares each source’s vector keys and chunk-id hash against its current chunk rows. Unbuilt methods
+are refused until rebuilt; changing one method must not make other methods silently searchable.

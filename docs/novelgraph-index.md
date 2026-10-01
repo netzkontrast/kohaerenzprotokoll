@@ -240,7 +240,9 @@ Die Ergänzung aus #137 sichert den bestehenden Index ab:
 - **Freshness während warmer Nutzung:** vor jeder Anfrage Stat-Prüfung aller Quellen,
   Neu-Hash bei Änderung, Prüfung von Katalog, Methoden/Embedder und Build-Stempel.
   Eine Änderung außerhalb der Trefferliste muss die Anfrage ebenfalls stoppen;
-  nach einem tatsächlichen Rebuild wird die Suche neu geöffnet. Ein No-op-Rebuild darf eine
+  nach einem tatsächlichen Rebuild wird die Suche neu geöffnet. Der Aggregat-Stempel prüft außerdem
+  Vektor-Schlüssel und Chunk-ID-Hash gegen die aktuellen Chunk-Dateien; ein auf eine Methode
+  beschränkter Build macht andere, noch veraltete Methoden nicht wieder suchbar. Ein No-op-Rebuild darf eine
   warme Suche weiterverwenden. Text- und JSON-Ausgabe prüfen die zitierten Source-Slices.
 - **Prüfung:** Lex-Inhalte werden neu abgeleitet; FTS5-Postings werden aus Source-Slices und
   Lemmata in einer separaten In-Memory-Datenbank gebaut und nach `(term, doc, col, offset)`
