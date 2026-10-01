@@ -63,3 +63,5 @@
 06:44:58 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Utterances
 {"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Utterances.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 20.8, "input_tokens": 11795, "output_tokens": 1545, "cost_usd": 0.053, "approval": "decision 011 (Claude, first party); the a
 06:45:19 2026-09-14-kap25-vertiefung-md AliasPairs
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "AliasPairs.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 57.6, "input_tokens": 32965, "output_tokens": 4874, "cost_usd": 0.1561, "approval": "decision 011 (Claude, first party); the author's instruction of 2
+06:46:17 2026-09-14-kap25-vertiefung-md Analogies
