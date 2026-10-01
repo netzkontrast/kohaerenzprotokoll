@@ -12,7 +12,11 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`
 
-Not run yet.
+3 calls (0 failed), 3 chunks (0 without a valid reply), $0.0384, 9.4 s. **0 rows**: 0 candidates, 0 refused, 0 duplicates.
+
+Staging refused the run: `empty or invalid candidate list: not a successful extraction`
+
+The model returned no row on this document.
 
 ## `2026-09-14-kap25-vertiefung-md`
 

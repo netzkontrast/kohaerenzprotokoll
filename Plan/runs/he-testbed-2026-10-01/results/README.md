@@ -14,20 +14,20 @@ Every contract in `Plan/hyperextract/` on `kohaerenz-protokoll-meta-foreshadowin
 | `ChapterBeats` | 1 | 1 | 0 | 0 | — | — | — | — | $0.050 | [ChapterBeats.md](ChapterBeats.md) |
 | `ChapterCards` | 1 | 1 | 0 | 0 | — | — | — | — | $0.047 | [ChapterCards.md](ChapterCards.md) |
 | `DiegeticTerms` | 1 | 1 | 0 | 0 | — | — | — | — | $0.051 | [DiegeticTerms.md](DiegeticTerms.md) |
-| `EntityFacts` | — | — | — | — | — | — | — | — | $0.000 | [EntityFacts.md](EntityFacts.md) |
-| `Knowledge` | — | — | — | — | — | — | — | — | $0.000 | [Knowledge.md](Knowledge.md) |
-| `LocationRegistry` | — | — | — | — | — | — | — | — | $0.000 | [LocationRegistry.md](LocationRegistry.md) |
-| `Locks` | — | — | — | — | — | — | — | — | $0.000 | [Locks.md](Locks.md) |
-| `OpenPoints` | — | — | — | — | — | — | — | — | $0.000 | [OpenPoints.md](OpenPoints.md) |
-| `Pitch` | — | — | — | — | — | — | — | — | $0.000 | [Pitch.md](Pitch.md) |
-| `Precedence` | — | — | — | — | — | — | — | — | $0.000 | [Precedence.md](Precedence.md) |
-| `ProseRules` | — | — | — | — | — | — | — | — | $0.000 | [ProseRules.md](ProseRules.md) |
-| `Quantities` | — | — | — | — | — | — | — | — | $0.000 | [Quantities.md](Quantities.md) |
-| `RelationReadings` | — | — | — | — | — | — | — | — | $0.000 | [RelationReadings.md](RelationReadings.md) |
-| `Rules` | — | — | — | — | — | — | — | — | $0.000 | [Rules.md](Rules.md) |
-| `StandingClaims` | — | — | — | — | — | — | — | — | $0.000 | [StandingClaims.md](StandingClaims.md) |
-| `StatedRelations` | — | — | — | — | — | — | — | — | $0.000 | [StatedRelations.md](StatedRelations.md) |
-| `Storypoints` | — | — | — | — | — | — | — | — | $0.000 | [Storypoints.md](Storypoints.md) |
+| `EntityFacts` | 4 | 4 | 0 | 0 | — | — | — | — | $0.058 | [EntityFacts.md](EntityFacts.md) |
+| `Knowledge` | 6 | 6 | 0 | 0 | — | — | — | — | $0.072 | [Knowledge.md](Knowledge.md) |
+| `LocationRegistry` | 0 | 0 | 0 | 0 | — | — | — | — | $0.040 | [LocationRegistry.md](LocationRegistry.md) |
+| `Locks` | 0 | 0 | 0 | 0 | — | — | — | — | $0.038 | [Locks.md](Locks.md) |
+| `OpenPoints` | 0 | 0 | 0 | 0 | — | — | — | — | $0.040 | [OpenPoints.md](OpenPoints.md) |
+| `Pitch` | 0 | 0 | 0 | 0 | — | — | — | — | $0.043 | [Pitch.md](Pitch.md) |
+| `Precedence` | 0 | 0 | 0 | 0 | — | — | — | — | $0.047 | [Precedence.md](Precedence.md) |
+| `ProseRules` | 4 | 4 | 0 | 0 | — | — | — | — | $0.066 | [ProseRules.md](ProseRules.md) |
+| `Quantities` | 5 | 5 | 0 | 0 | — | — | — | — | $0.057 | [Quantities.md](Quantities.md) |
+| `RelationReadings` | 32 | 31 | 1 | 0 | — | — | — | — | $0.068 | [RelationReadings.md](RelationReadings.md) |
+| `Rules` | 5 | 5 | 0 | 0 | — | — | — | — | $0.059 | [Rules.md](Rules.md) |
+| `StandingClaims` | 0 | 0 | 0 | 0 | — | — | — | — | $0.040 | [StandingClaims.md](StandingClaims.md) |
+| `StatedRelations` | 16 | 16 | 0 | 0 | — | — | — | — | $0.084 | [StatedRelations.md](StatedRelations.md) |
+| `Storypoints` | 0 | 0 | 0 | 0 | — | — | — | — | $0.038 | [Storypoints.md](Storypoints.md) |
 | `StructureBeats` | — | — | — | — | — | — | — | — | $0.000 | [StructureBeats.md](StructureBeats.md) |
 | `TermCensus` | — | — | — | — | — | — | — | — | $0.000 | [TermCensus.md](TermCensus.md) |
 | `TermContrasts` | — | — | — | — | — | — | — | — | $0.000 | [TermContrasts.md](TermContrasts.md) |
@@ -37,4 +37,4 @@ Every contract in `Plan/hyperextract/` on `kohaerenz-protokoll-meta-foreshadowin
 | `ThemeMotifs` | — | — | — | — | — | — | — | — | $0.000 | [ThemeMotifs.md](ThemeMotifs.md) |
 | `Utterances` | — | — | — | — | — | — | — | — | $0.000 | [Utterances.md](Utterances.md) |
 
-Total cost of the runs present: **$0.55**.
+Total cost of the runs present: **$1.30**.

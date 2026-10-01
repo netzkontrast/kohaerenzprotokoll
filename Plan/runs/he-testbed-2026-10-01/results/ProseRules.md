@@ -13,7 +13,14 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`
 
-Not run yet.
+3 calls (0 failed), 3 chunks (0 without a valid reply), $0.0661, 26.8 s. **4 rows**: 4 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | den finalen Twist | müssen wir subtile „Glitch-Momente“ und systemische Hinweise einbauen | structure | asserts | Um den finalen Twist vorzubereiten – dass Kael die Manifestation des Lesers ist und seine Welt mit dem Zuklappen des Buches stirbt –, müssen wir subtile „Glitch-Momente“ und systemische Hinweise einbauen. | 13 |
+| 2 | relation_reading | candidate | Kapitel 39 | beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet | structure | asserts | In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet. | 48 |
+| 3 | relation_reading | candidate | das „Du“ | in Schlüsselmomenten | pov | asserts | Nutze in Schlüsselmomenten das „Du“. | 53 |
+| 4 | relation_reading | candidate | AEGIS-Protokolle | Kursivschrift | format | asserts | Nutze Kursivschrift für AEGIS-Protokolle, die den „Beobachtungsstatus“ abfragen. | 54 |
 
 ## `2026-09-14-kap25-vertiefung-md`
 

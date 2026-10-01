@@ -13,7 +13,15 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`
 
-Not run yet.
+3 calls (0 failed), 3 chunks (0 without a valid reply), $0.0568, 20.7 s. **5 rows**: 5 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | „Stasis-Lücken“ | Teil 1 | duration | asserts | Das Phänomen der „Stasis-Lücken“ (Teil 1) | 15 |
+| 2 | relation_reading | candidate | „Höhere Metrik“ | Teil 2 | duration | asserts | AEGIS und die „Höhere Metrik“ (Teil 2) | 23 |
+| 3 | relation_reading | candidate | „Rendering-Grenzen“ | Teil 1 & 2 | duration | asserts | Die „Rendering-Grenzen“ (Teil 1 & 2) | 30 |
+| 4 | relation_reading | candidate | Kael spürt, dass die Aufmerksamkeit schwindet | Kapitel 39 | duration | asserts | In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet. | 48 |
+| 5 | relation_reading | candidate | Beobachter-Fokus | 85% | parameter | asserts | Beobachter-Fokus bei 85% | 58 |
 
 ## `2026-09-14-kap25-vertiefung-md`
 

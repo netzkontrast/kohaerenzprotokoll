@@ -13,7 +13,14 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`
 
-Not run yet.
+3 calls (0 failed), 3 chunks (0 without a valid reply), $0.0579, 19.8 s. **4 rows**: 4 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Kael | die Manifestation des Lesers | relationship/stated | asserts | dass Kael die Manifestation des Lesers ist | 13 |
+| 2 | relation_reading | candidate | Leser | Beobachter | name_variant/stated | asserts | den Leser (den Beobachter) | 28 |
+| 3 | relation_reading | candidate | Juna | diejenige, die Kael die Wahrheit flüstert | relationship/stated | asserts | Juna ist diejenige, die Kael die Wahrheit flüstert. | 39 |
+| 4 | relation_reading | candidate | Kael | die Sonde, die der Leser in das Trauma geschickt hat | relationship/claimed | asserts | Kael ist die Sonde, die der Leser in das Trauma geschickt hat. | 42 |
 
 ## `2026-09-14-kap25-vertiefung-md`
 

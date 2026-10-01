@@ -13,7 +13,18 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`
 
-Not run yet.
+3 calls (0 failed), 3 chunks (0 without a valid reply), $0.0725, 33.0 s. **6 rows**: 6 candidates, 0 refused, 0 duplicates.
+
+Beside the Haiku pilot of 2026-09-30 on this document: the candidates stand on 5 lines here and 2 there, 0 of them the same.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Kael | dass die Zeit im Konstrukt nicht linear fließt | learns_here | hedges | Kael sollte früh bemerken, dass die Zeit im Konstrukt nicht linear fließt | 17 |
+| 2 | relation_reading | candidate | Kael | dass er nicht allein war | suspects | asserts | In diesen Momenten spürte Kael, dass er nicht allein war. | 21 |
+| 3 | relation_reading | candidate | Kael | die Wahrheit | learns_here | asserts | Juna ist diejenige, die Kael die Wahrheit flüstert | 39 |
+| 4 | relation_reading | candidate | Kael | dass die Aufmerksamkeit schwindet | learns_here | hedges | In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet. | 48 |
+| 5 | relation_reading | candidate | Er | Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen | knows | asserts | Er weiß: Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen. | 48 |
+| 6 | relation_reading | candidate | du | dein Herz schlägt von selbst | wrongly_believes | asks | Glaubst du wirklich, dein Herz schlägt von selbst? | 41 |
 
 ## `2026-09-14-kap25-vertiefung-md`
 
