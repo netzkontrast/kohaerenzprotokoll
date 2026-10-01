@@ -25,9 +25,12 @@ def measure(index):
                 docs = {d for d, _ in gold}
                 per_case.append(dict(id=c["id"], question=c["question"], gold_lines=len(gold),
                                      line_recall=line_hits / len(gold) if gold else None,
-                                     document_recall=len(docs & {h["slug"] for h in hits}) / len(docs) if docs else None))
+                                     document_recall=len(docs & {h["slug"] for h in hits}) / len(docs) if docs else None,
+                                     document_ceiling_at_8=min(8, len(docs)) / len(docs) if docs else None,
+                                     lines_per_hit=float(np.mean([h["line_end"] - h["line_start"] + 1 for h in hits])) if hits else 0))
             scores[mode] = dict(recall_at_8=float(np.mean([c["line_recall"] for c in per_case if c["line_recall"] is not None])),
-                                document_recall_at_8=float(np.mean([c["document_recall"] for c in per_case if c["document_recall"] is not None])), cases=per_case)
+                                document_recall_at_8=float(np.mean([c["document_recall"] for c in per_case if c["document_recall"] is not None])), document_ceiling_at_8=float(np.mean([c["document_ceiling_at_8"] for c in per_case if c["document_ceiling_at_8"] is not None])),
+                                lines_per_hit=float(np.mean([c["lines_per_hit"] for c in per_case])), cases=per_case)
         # Warm session: query embedding included; initialization excluded and reported separately elsewhere.
         search.query(cases[0]["question"], mode="hybrid")
         latency = []

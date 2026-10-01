@@ -56,3 +56,6 @@ Plan/runs/*/census-draft.md
 
 # claims.py draft: code's working copy, reproducible; the reader saves the filled table as claims.md
 Plan/runs/*/claims-draft.md
+
+# novelgraph local environment
+.venv-novelgraph/

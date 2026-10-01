@@ -23,7 +23,8 @@ dtype = "float16"
 normalize = true
 
 [lex]
-version = 2
+version = 3
+format = "sorted unique space-separated terms"
 lemmatizer = "simplemma-de-en"
 
 [retrieval]

@@ -1,5 +1,6 @@
 """Verify coverage, reproduction, source slices and exact vector concatenation."""
 import json
+import hashlib
 import sqlite3
 import numpy as np
 from . import repo
@@ -92,11 +93,26 @@ def _verify(index, method):
                 break
             position += len(vectors)
         with sqlite3.connect(f"file:{base / (method + '.bm25.sqlite')}?mode=ro", uri=True) as db:
-            actual = list(db.execute("SELECT text,lemma,prefix,slug,chunk_id,payload FROM chunks ORDER BY rowid"))
-            wanted = [(text, " ".join(l["surfaces"] + l["lemmas"]), c["prefix"], slug, c["id"],
-                       json.dumps(dict(c, slug=slug), ensure_ascii=False, sort_keys=True, separators=(",", ":"))) for slug, c, l, text in items]
-            if actual != wanted:
-                errors.append("FTS content or ordering differs from source slices")
+            # Contentless FTS stores postings, not duplicated source text. Rebuild expected
+            # postings independently, then compare their ordered fingerprints.
+            expected = sqlite3.connect(":memory:")
+            try:
+                expected.execute("CREATE VIRTUAL TABLE chunks USING fts5(text,lemma,prefix,content='',tokenize='unicode61 remove_diacritics 2')")
+                expected.executemany("INSERT INTO chunks(rowid,text,lemma,prefix) VALUES (?,?,?,?)",
+                    ((i, text, l["surfaces"] + " " + l["lemmas"], c["prefix"])
+                     for i, (_, c, l, text) in enumerate(items, 1)))
+                def postings(connection):
+                    connection.execute("CREATE VIRTUAL TABLE temp.postings USING fts5vocab(main, chunks, instance)")
+                    digest = hashlib.sha256()
+                    for row in connection.execute("SELECT term,doc,col,offset FROM temp.postings ORDER BY term,doc,col,offset"):
+                        digest.update(json.dumps(row, ensure_ascii=False, separators=(",", ":")).encode())
+                        digest.update(b"\n")
+                    return digest.digest()
+                if (list(db.execute("SELECT rowid FROM chunks ORDER BY rowid")) != [(i,) for i in range(1, len(items) + 1)]
+                        or postings(db) != postings(expected)):
+                    errors.append("FTS postings or row ordering differs from source slices")
+            finally:
+                expected.close()
     except (OSError, ValueError, sqlite3.Error) as exc:
         errors.append(f"aggregate missing/invalid: {exc}")
     return dict(method=method, landed=len(landed), manifest_total=len(source_rows), indexed=len(expected_slugs & set(have)),

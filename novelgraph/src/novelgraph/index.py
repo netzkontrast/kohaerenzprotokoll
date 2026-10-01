@@ -48,8 +48,8 @@ def lexical(text, chunk):
     terms = re.findall(r"\w+(?:[-:]\w+)*", chunk["prefix"] + "\n" + text)
     surfaces = {repo.fold(t) for t in terms}
     lemmas = {lemma(t) for t in terms}
-    return dict(id=chunk["id"], surfaces=sorted(s for s in surfaces if s),
-                lemmas=sorted(s for s in lemmas if s))
+    return dict(id=chunk["id"], surfaces=" ".join(sorted(s for s in surfaces if s)),
+                lemmas=" ".join(sorted(s for s in lemmas if s)))
 
 
 @lru_cache(maxsize=200000)
@@ -237,14 +237,14 @@ class Index:
             del mmap
             repo.write_jsonl(tmp / "rows.jsonl", rows)
             db = sqlite3.connect(tmp / "bm25.sqlite")
-            db.execute("CREATE VIRTUAL TABLE chunks USING fts5(text, lemma, prefix, slug UNINDEXED, chunk_id UNINDEXED, payload UNINDEXED, tokenize='unicode61 remove_diacritics 2')")
+            db.execute("CREATE VIRTUAL TABLE chunks USING fts5(text, lemma, prefix, content='', tokenize='unicode61 remove_diacritics 2')")
             source_texts = {}
             source_paths = {r["slug"]: self.root / r["export_path"] for r in landed}
-            for c, lex in zip(chunks, lexes):
+            for rowid, (c, lex) in enumerate(zip(chunks, lexes), 1):
                 if c["slug"] not in source_texts:
                     source_texts[c["slug"]] = source_paths[c["slug"]].read_text(encoding="utf-8").split("\n")
                 text = slice_text(source_texts[c["slug"]], c["line_start"], c["line_end"])
-                db.execute("INSERT INTO chunks VALUES (?,?,?,?,?,?)", (text, " ".join(lex["surfaces"] + lex["lemmas"]), c["prefix"], c["slug"], c["id"], canonical(c)))
+                db.execute("INSERT INTO chunks(rowid,text,lemma,prefix) VALUES (?,?,?,?)", (rowid, text, lex["surfaces"] + " " + lex["lemmas"], c["prefix"]))
             db.execute("CREATE TABLE metadata(payload TEXT)")
             meta = dict(method=method, signature=self.fingerprint(method), inputs=inputs,
                         rows=len(rows), dim=next(iter({m.shape[1] for m in matrices})), built_at=now())

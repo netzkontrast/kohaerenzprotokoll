@@ -45,3 +45,42 @@ geändert, die bekannte Leakage aus dem Evaluation-Audit wird im Bericht genannt
 
 Noch nicht ausgeführt. Ziele sind keine Ergebnisse. Netzwerk-/Modellverfügbarkeit
 und die fehlende MP3-Quelle werden getrennt von Implementierungsfehlern ausgewiesen.
+
+## Übernommene Hinweise aus dem parallelen PR #138
+
+Das uv-Projekt bleibt in `novelgraph/`; sein einziges venv liegt jetzt im
+Repository-Root, damit `qmd_coverage.py` installierte Paket-READMEs wie die
+anderen venvs ausschließt. Installation:
+
+```sh
+UV_PROJECT_ENVIRONMENT=$PWD/.venv-novelgraph uv sync --project novelgraph
+.venv-novelgraph/bin/novelgraph build --method heading@v1
+.venv-novelgraph/bin/novelgraph build --method section@v1
+.venv-novelgraph/bin/novelgraph build --method window400@v1
+.venv-novelgraph/bin/novelgraph verify
+.venv-novelgraph/bin/novelgraph measure
+```
+
+FTS5 wird mit `content=''` gebaut: keine zweite Ablage des Source-Texts, keine
+Payload-Kopie in der FTS-Tabelle. `rowid - 1` adressiert dieselbe Zeile der
+Vektormatrix und `rows.jsonl`; Treffer-Metadaten werden aus den Source-Chunks
+bezogen. `verify` leitet die erwarteten Postings unabhängig neu ab und vergleicht
+ihren SHA256 sowie die vollständige Zeilenordnung. Ein negativer Test ersetzt
+sämtliche Postings durch andere Begriffe bei gleicher Zeilenzahl und muss scheitern.
+Die vorhandenen Provenienz-, Coverage-, Matrixwert- und Freshness-Gates bleiben.
+
+Lex-Oberflächen und echte simplemma-Lemmata sind sortierte, eindeutige,
+leerzeichengetrennte Zeichenketten statt großer JSON-Arrays. Das ändert nicht die
+bisherige Termfrequenz-Semantik (ein Vorkommen pro Term in dieser Zusatzspalte).
+Der Registry-Stand ist `lex.version=3`; bestehende Vektoren werden anhand ihrer
+Chunk-ID und des vollständigen Eingabetext-Hashes wiederverwendet.
+`lex/` bleibt entsprechend dem Auftrag committed; die Ignore-Entscheidung in
+#138 ist keine Änderung des hier erteilten Auftrags.
+
+Die Bench meldet zusätzlich die theoretische Dokument-Recall-Obergrenze bei
+acht Treffern, pro Fall `min(8, gold_documents) / gold_documents`, sowie die
+mittlere Zahl Source-Zeilen pro Treffer. Diese Obergrenze gilt für Dokument-,
+nicht Zeilen-Recall. Große `section`-Chunks haben mehr Kontext und dürfen daher
+nicht allein anhand höherer Zeilen-Recall als bessere Retrieval-Methode gelten.
+Bench-Fragen und Gold bleiben unverändert. Die bekannten lexikalischen/circularen
+Labels messen Regression, nicht unabhängig geprüfte Entdeckung.

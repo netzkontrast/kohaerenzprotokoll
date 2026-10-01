@@ -23,7 +23,13 @@ class Search:
                 raise ValueError("stale build settings or implementation; run novelgraph build")
             self.rows = repo.read_jsonl(path / (method + "~" + EMBEDDER + ".rows.jsonl"))
             self.matrix = np.load(path / (method + "~" + EMBEDDER + ".f16.npy"), mmap_mode="r", allow_pickle=False) if vectors else None
-            self.items = [json.loads(r[0]) for r in self.db.execute("SELECT payload FROM chunks ORDER BY rowid")]
+            by_source = {}
+            for slug in dict.fromkeys(r["slug"] for r in self.rows):
+                by_source[slug] = {c["id"]: c for c in repo.read_jsonl(index.path / "sources" / slug / "chunks" / (method + ".jsonl"))}
+            self.items = [dict(by_source[r["slug"]][r["chunk_id"]], slug=r["slug"]) for r in self.rows]
+            if list(self.db.execute("SELECT rowid FROM chunks ORDER BY rowid")) != [(i + 1,) for i in range(len(self.rows))]:
+                self.close()
+                raise ValueError("FTS row order mismatch; run verify")
             if len(self.rows) != len(self.items) or (vectors and len(self.matrix) != len(self.rows)):
                 self.close()
                 raise ValueError("matrix/FTS/row count mismatch; run verify")
@@ -67,9 +73,9 @@ class Search:
             words += [repo.fold(w) for w in words]
             expr = " OR ".join('"' + w + '"' for w in dict.fromkeys(words) if w)
             if expr:
-                bm = [(self.positions[(s, c)], -float(score)) for s, c, score in self.db.execute(
-                    "SELECT slug,chunk_id,bm25(chunks,1,0.5,0.5) AS score FROM chunks "
-                    "WHERE chunks MATCH ? ORDER BY score,slug,chunk_id LIMIT ?", (expr, candidates))]
+                bm = [(int(rowid) - 1, -float(score)) for rowid, score in self.db.execute(
+                    "SELECT rowid,bm25(chunks,1,0.5,0.5) AS score FROM chunks "
+                    "WHERE chunks MATCH ? ORDER BY score,rowid LIMIT ?", (expr, candidates))]
         if mode in ("vec", "hybrid"):
             if self.matrix is None:
                 raise ValueError("search opened without vectors")

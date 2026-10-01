@@ -2,6 +2,7 @@ import hashlib
 import json
 import re
 import shutil
+import sqlite3
 import tempfile
 import unittest
 from pathlib import Path
@@ -126,6 +127,21 @@ class Tests(unittest.TestCase):
             self.assertLessEqual(len(hits), 8)
         self.assertEqual(s.query("", mode="bm25"), [])
         s.close()
+
+    def test_contentless_fts_and_compact_lex_are_verified(self):
+        self.index.build()
+        lp = self.root / "Index/sources/a/lex/heading@v1.terms.jsonl"
+        self.assertTrue(all(isinstance(r["surfaces"], str) and isinstance(r["lemmas"], str)
+                            for r in repo.read_jsonl(lp)))
+        bp = self.root / "Index/_build/heading@v1.bm25.sqlite"
+        with sqlite3.connect(bp) as db:
+            self.assertEqual(db.execute("SELECT text,lemma,prefix FROM chunks LIMIT 1").fetchone(), (None, None, None))
+            n = db.execute("SELECT count(*) FROM chunks").fetchone()[0]
+            db.execute("DROP TABLE chunks")
+            db.execute("CREATE VIRTUAL TABLE chunks USING fts5(text,lemma,prefix,content='',tokenize='unicode61 remove_diacritics 2')")
+            db.executemany("INSERT INTO chunks(rowid,text,lemma,prefix) VALUES (?,?,?,?)",
+                           ((i, "wrong evidence", "wrong", "wrong") for i in range(1, n + 1)))
+        self.assertFalse(verify(self.index)["ok"])
 
     def test_all_chunkers_offsets_tables_fences_and_fields(self):
         text = "---\ntitle: test\n---\n# Heading\n\nOne sentence.\n\n|a|b|\n|--|--|\n|v|x|\n\n```\n# not a heading\ncode\n```\n\n## Next\n\nLast sentence."
