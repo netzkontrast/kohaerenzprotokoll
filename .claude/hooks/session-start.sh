@@ -14,6 +14,7 @@ if [ -n "${CLAUDE_ENV_FILE:-}" ]; then
 fi
 export PATH="$HOME/.local/bin:$PATH"
 
+echo "session-start: read NOW.md first; follow its next-session mandate and linked briefing before selecting work."
 echo "session-start: knowledge init --profile research (log: .install.log)"
 cd "$ROOT"
 if python3 scripts/knowledge.py init --profile research >"$LOG" 2>&1; then

@@ -8,6 +8,7 @@ A German hard-SF novel and its research corpus. **Right now only the wiki is bei
 ## Read this first
 
 1. **`NOW.md`** — what is open right now, the author's standing instructions, the questions that wait, what is half-done. It is the handover between sessions, and it is one page.
+   If it names a next-session mandate, follow that mandate before selecting pipeline work; its linked briefing owns the task and its completion criteria.
 2. **`PRINCIPLES.md`** — the rules we follow, each with the evidence that produced it, and a catalogue of ideas kept but not yet built. Read it before writing a new skill, command, script, check or page type.
 3. **`GOAL.md`** — the author's brief (2026-09-23, German): a git-versioned knowledge graph and wiki that helps write the novel — sources tiered by precedence, conflicts found and never silently
    smoothed, self-generated questions, the plot model as checkable rules. It describes the *target*, not the repository: where it names paths or tools that do not exist here, this page says what exists.

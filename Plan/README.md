@@ -17,7 +17,7 @@ folders in `Plan/` are missing from it or listed here without existing, and
 | `Plan/runs/` | every artifact of every run: one folder per document, and the ledgers every run appends to | `scripts/capture.py`, the scripts named in its README, and a person |
 | `Plan/weichen/` | one decision sheet per Weiche of the writing plan (`Plan/concept/novel-writing-plan_2026-09-29.md`, §5), in German: the question, the positions quoted and cited, costs and gains, a recommendation where the material supports one; nothing in them is decided | a session, for the author |
 | `Plan/entities/` | one model's entity list per document, and the German–English map | the `entity-lists` workflow, `scripts/entities.py`, `scripts/bilingual.py` |
-| `Plan/briefings/` | what a reader reads before a document: procedural knowledge, never another document's content | a person |
+| `Plan/briefings/` | task instructions: the next-session architecture mandate, and procedural knowledge for a reader before a document, never another document's content | a person |
 | `Plan/rules/` | `exceptions.jsonl`: documents a rule deliberately skips, each with its reason and when to revisit | a person; `scripts/derive.py` reads it |
 | `Plan/hyperextract/` | four Hyper-Extract templates, provisional; the tool review's attempt to run one could not load it (`Plan/concept/tool-review_2026-09-24/hyperextract.md`) | a session; `scripts/templates.py` checks them |
 | `Plan/quality/` | the OpenRouter model benchmark of 2026-09-16; the script it names is no longer in `scripts/` | a session, then |

@@ -1,0 +1,21 @@
+A. The he-lines gain at 40 lines, before and after the backfill's 14 runs — the paired difference over the cases
+   document recall  after minus before -0.0003  90 % interval [-0.0028, +0.0021]  up 1 / down 1 / same 22
+   line recall      after minus before -0.0005  90 % interval [-0.0017, +0.0008]  up 1 / down 2 / same 21
+
+B. Power. The he-lines-40 effect per case: mean +0.029, sd 0.052, n 24, standard error 0.0107
+   The smallest true mean effect shown with 80 % power by a two-sided 90 % interval: about 0.027 (2.49 standard errors).
+   The measured gain is +0.029: it stands at the detection limit, and one of four limits (10, 20, 40, 80) was picked for it.
+
+C. Spearman(gold documents of a case, the default pack's document recall) = -0.56 over 24 cases
+   gold documents per case: min 7, median 24.5, max 41; the pack holds 28.0 documents (median) within a budget of 60,000 characters
+
+D. Independence. Mean pairwise Jaccard of the cases' gold document sets: 0.35 (median 0.32, max 0.97)
+   55 gold documents, 54 of them gold in two or more cases; the most shared is gold in 23 of 24 cases
+
+E. Circularity. Of 1226 gold lines, 1130 (92%) are lines a term or chapter page also quotes; per case the median is 95% (min 68%, max 100%)
+   A finder that returns the wiki's own verified quotations (`graph-evidence`) is rewarded for returning what the records already cite.
+
+F. Discovery. 55 of the 55 gold documents are read ones (58 documents have a census): a case's gold is 24.5 documents (median), 42% of the read corpus.
+   No unread document is gold in any case, so finding a relevant unread document cannot score (`entity-unread` measures nothing here).
+
+G. Ceiling. A pack of 28.0 documents (median) caps a case's document recall at min(1, pack documents / gold documents): the mean cap is 0.90 against a default of 0.30, and in 9 of 24 cases the gold has more documents than the pack holds.

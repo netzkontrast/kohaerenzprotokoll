@@ -54,6 +54,7 @@ None of these blocks the pipeline. The full context of each is where it is named
 
 ## Half-done — where the next session starts
 
+- **First: self-evaluate and settle the project architecture** (author, 2026-10-01). Follow `Plan/briefings/architecture-session.md`, grounded in `Plan/concept/strategic-learning_2026-10-01.md` and the current files. Deliver an evidence-backed `SPEC.md` with one recommended architecture, explicit module and data contracts, alternatives, learning gates and a staged migration. This takes priority over the unfinished experiments below. The mandate does not resume reading or backfill, change consent, or decide novel content. Remove this entry when the briefing's completion criteria are met; recommendations are not author approvals.
 - **Step 6 of the pipeline plan (decision 015) is paused by the author.** Its sample is the two newest unread documents in each of six categories; seven of the twelve are read and reconciled. **Five are unread**:
   `textanalyse-existenz-system-und-leid`, `kohaerenz-protokoll-hard-sf-horror-thriller`, `hard-sci-fi-cosmic-horror-research-questions`, `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, `aegis-persona-and-manifest-generation`.
   When the author says go: one reader at a time, marked by model (the lab's clean reader, `claude -p` with no tools, cost about 9 thousand tokens a call against a subagent's 67 thousand — `Plan/runs/reader-lab-2026-09-30/`),
