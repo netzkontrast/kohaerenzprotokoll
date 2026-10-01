@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      46
+  backslash escapes      77
+  typographic marks      131
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  inter    Interaktionismus, Interdependenzen, Internal, Internen, Interner, Internet, Interpretation, Interpretationsstreit, Interpreten
+  kohär    Kohärentismus, Kohärentist, Kohärentisten, Kohärenz, Kohärenzmaschinen, Kohärenzprinzip, Kohärenztheorie, Kohärenztheorien
+  metap    Metapher, Metaphilosophy, Metaphysical, Metaphysik, Metaphysischen, Metaphysischer, Metaphysisches
+  reali    Realism, Realismus, Realist, Realisten, Realists, Realität, Realitätsbezogenheit
+  philo    PHILOSOPHIE, Philosophen, Philosophers, Philosophicus, Philosophie, Philosophy
+  proto    Protocol, Protok, Protokoll, Protokollsatz, Protokollsatzdebatte, Protokollsätze
+  wahrh    Wahrheit, Wahrheitsbegriff, Wahrheitsfindung, Wahrheitstheorie, Wahrheitstheorien, Wahrheitsträger
+  kriti    Kritik, Kritiken, Kritiker, Kritischen, Kritischer
+  objek    Objekt, Objekte, Objekten, Objektive, Objektsprache
+  theor    Theoretic, Theorie, Theorien, Theories, Theory
+  defla    Deflationary, Deflationism, Deflationismus, Deflationäre
+  geist    Geist, Geistabhängige, Geistes, Geistesgeschichte
+  schif    Schiff, Schiffer, Schiffes, Schiffs
+  sprec    Sprechakte, Sprechern, Sprechhandlungen, Sprechsituation
+  syste    System, Systeme, Systemische, Systems
+  argum    Argument, Argumente, Arguments
+  augen    Augenblick, Augenmerk, Augenschein
+  ausdr    Ausdruck, Ausdrücke, Ausdrücken
+  begri    Begriff, Begriffe, Begriffs
+  daten    Daten, Datenbank, Datenbanken
+  disku    Diskurs, Diskurstheorie, Diskurstheorien
+  epist    Epistemic, Epistemologie, Epistemology
+  erleb    Erlebnisaussagen, Erlebnisse, Erlebnissen
+  gegen    Gegenargumente, Gegenentwurf, Gegensatz
+  gotte    Gottesauge, Gottesauges, Gottesblick
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Semantic
+  Anti < Semantik
+  Anti < Semantischen
+  Bild < Weltbild
+  Bild < Bildrelation
+  Denk < Denken
+  Dies < Diese
+  Dies < Dieser
+  Ding < Bedingung
+  Ding < Defending
+  Ding < Grounding
+  Ding < Bedingungen
+  Ding < Adäquatheitsbedingung
+  Eine < Keine
+  Eine < Seine
+  Ende < Wende
+  Ende < Vergleichende
+  Ende < Interdependenzen
+  Fact < Facts
+  Fact < Satisfaction

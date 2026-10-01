@@ -1,0 +1,14 @@
+# angst-und-vermeidung-in-dis-systemen
+  lines                267  (frontmatter ends at 9)
+  body words           7537
+  headings             19   bold-only lines 0
+  table rows           22   code fences 0
+  question marks       4
+  backslash escapes    100
+  typographic marks    19   ascii quotes 130
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    64
+  repeated labels      none
+  longest line         1525 chars
+

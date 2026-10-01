@@ -1,0 +1,315 @@
+{
+  "document": "angst-und-vermeidung-in-dis-systemen",
+  "drive_id": "1ZGLIEuCbo5w89K-nipZyribqAELSsIm16OQt3gPq0gY",
+  "step": "probes",
+  "at": "2026-09-30",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 64,
+  "backslash_escapes": 100,
+  "typographic_marks": 19,
+  "ascii_quotes": 130,
+  "inflection_families": {
+    "traum": [
+      "Trauma",
+      "Traumaarbeit",
+      "Traumaexposition",
+      "Traumaflut",
+      "Traumafolgestörungen",
+      "Traumamodell",
+      "Traumas",
+      "Traumatisch",
+      "Traumatisierung",
+      "Traumatisierungen",
+      "Traumatized",
+      "Traumatriggern",
+      "Traumaüberlebenden"
+    ],
+    "thera": [
+      "Therapeut",
+      "Therapeuten",
+      "Therapeutin",
+      "Therapeutische",
+      "Therapie",
+      "Therapieansätze",
+      "Therapiebeginn",
+      "Therapiesitzungen",
+      "Therapieverfahren",
+      "Therapy"
+    ],
+    "handl": [
+      "Handlungen",
+      "Handlungsanweisungen",
+      "Handlungsfähigkeit",
+      "Handlungsmöglichkeiten",
+      "Handlungsrepertoire",
+      "Handlungssysteme",
+      "Handlungssystemen",
+      "Handlungssystems"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsstörung",
+      "Identitätsstörungen",
+      "Identitätszustände",
+      "Identitätszuständen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktlösung",
+      "Konfliktmanagement",
+      "Konfliktmanagements",
+      "Konfliktrate",
+      "Konflikts"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbild",
+      "Selbstbildes",
+      "Selbsthass",
+      "Selbsthilfeforen",
+      "Selbstregulation",
+      "Selbstverletzung",
+      "Selbstwirksamkeit"
+    ],
+    "disso": [
+      "Dissociated",
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziationen",
+      "Dissoziationsforschung",
+      "Dissoziative"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiaters",
+      "Psychiatrie",
+      "Psychodynamic",
+      "Psychological",
+      "Psychologie",
+      "Psychology"
+    ],
+    "syste": [
+      "System",
+      "SystemArbeit",
+      "Systemarbeit",
+      "Systeme",
+      "Systemen",
+      "Systemkooperation",
+      "Systems"
+    ],
+    "unter": [
+      "Unter",
+      "Unterbrechung",
+      "Unterentwicklung",
+      "Untergang",
+      "Untersuchungen",
+      "Unterwerfung",
+      "Unterwerfungsreaktion"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsfeld",
+      "Bewusstseinszentren",
+      "Bewusstseinszustände"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionelle",
+      "Funktionen",
+      "Funktionieren",
+      "Funktionsniveau"
+    ],
+    "grund": [
+      "Grund",
+      "Grundannahme",
+      "Grundlage",
+      "Grundlagen",
+      "Grundmuster",
+      "Grundsicherheit"
+    ],
+    "inter": [
+      "Interaktion",
+      "Internal",
+      "Interne",
+      "Intervention",
+      "Interventionen",
+      "Interventions"
+    ],
+    "intro": [
+      "Introject",
+      "Introjection",
+      "Introjects",
+      "Introjekt",
+      "Introjekte",
+      "Introjekten"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensbewältigung",
+      "Lebensrisiken",
+      "Lebensvollzüge",
+      "Lebenszeitprävalenz"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsanteilen",
+      "Persönlichkeitsstörung",
+      "Persönlichkeitsstörungen",
+      "Persönlichkeitszuständen"
+    ],
+    "phobi": [
+      "Phobia",
+      "Phobias",
+      "Phobie",
+      "Phobien",
+      "Phobienbewältigung",
+      "Phobische"
+    ],
+    "sympt": [
+      "Symptom",
+      "Symptomatik",
+      "Symptome",
+      "Symptomen",
+      "Symptomreduktion",
+      "Symptoms"
+    ],
+    "täter": [
+      "Täter",
+      "Täterintrojekte",
+      "Täterintrojekten",
+      "Täters",
+      "Täterstimme",
+      "Täterverhaltensweisen"
+    ],
+    "verme": [
+      "Vermeidung",
+      "Vermeidungsarchitektur",
+      "Vermeidungsdynamik",
+      "Vermeidungsdynamiken",
+      "Vermeidungsphobie",
+      "Vermeidungsstrategien"
+    ],
+    "behan": [
+      "Behandler",
+      "Behandlung",
+      "Behandlungsmodell",
+      "Behandlungsmodelle",
+      "Behandlungsphase"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungserfahrung",
+      "Bindungsschrei",
+      "Bindungssystem",
+      "Bindungsverlust"
+    ],
+    "emoti": [
+      "Emotional",
+      "Emotionale",
+      "Emotionalen",
+      "Emotionen",
+      "Emotionsregulation"
+    ],
+    "gegen": [
+      "Gegenangriff",
+      "Gegensatz",
+      "Gegenständen",
+      "Gegenwart",
+      "Gegenübertragungen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Challenges"
+    ],
+    [
+      "Anna",
+      "Grundannahme"
+    ],
+    [
+      "Best",
+      "Bestrafung"
+    ],
+    [
+      "Best",
+      "Kernbestandteil"
+    ],
+    [
+      "Best",
+      "Bestandsaufnahme"
+    ],
+    [
+      "Best",
+      "Integrationsbestrebungen"
+    ],
+    [
+      "Buch",
+      "Tagebuch"
+    ],
+    [
+      "Call",
+      "Chronically"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Weinen"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ella",
+      "Ellas"
+    ],
+    [
+      "Ende",
+      "Strafenden"
+    ],
+    [
+      "Ende",
+      "Strafender"
+    ],
+    [
+      "Ende",
+      "Überlebende"
+    ],
+    [
+      "Ende",
+      "Pendelbewegung"
+    ],
+    [
+      "Ende",
+      "Traumaüberlebenden"
+    ],
+    [
+      "Erst",
+      "Erste"
+    ]
+  ]
+}

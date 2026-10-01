@@ -1,0 +1,211 @@
+{
+  "document": "deconstructing-reality-s-architecture",
+  "drive_id": "1HeYoYPF-y04aJztMWKWJvS4ERCAh9Fk5e8lTiSrSlxo",
+  "step": "probes",
+  "at": "2026-09-30",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 5,
+  "backslash_escapes": 226,
+  "typographic_marks": 41,
+  "ascii_quotes": 244,
+  "inflection_families": {
+    "archi": [
+      "Archipel",
+      "Architect",
+      "Architectural",
+      "Architecture",
+      "Architectures",
+      "Archive"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "contr": [
+      "Contradictione",
+      "Contradictions",
+      "Controls"
+    ],
+    "defin": [
+      "Defining",
+      "Definition",
+      "Definitive"
+    ],
+    "funct": [
+      "Function",
+      "Functional",
+      "Functions"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator",
+      "Integrity"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontologically",
+      "Ontology"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological",
+      "Psychologically"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "world": [
+      "World",
+      "Worldbuilding",
+      "Worlds"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "antag": [
+      "Antagonism",
+      "Antagonist"
+    ],
+    "barri": [
+      "Barrier",
+      "Barriers"
+    ],
+    "blind": [
+      "Blind",
+      "Blindness"
+    ],
+    "chapt": [
+      "Chapter",
+      "Chapters"
+    ],
+    "check": [
+      "Check",
+      "Checkmate"
+    ],
+    "class": [
+      "Classical",
+      "Classification"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "creat": [
+      "Creation",
+      "Creative"
+    ],
+    "descr": [
+      "Described",
+      "Description"
+    ],
+    "diale": [
+      "Dialetheic",
+      "Dialetheism"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "entit": [
+      "Entities",
+      "Entity"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Real",
+      "Reality"
+    ],
+    [
+      "Rift",
+      "Rifts"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Role",
+      "Roles"
+    ],
+    [
+      "Void",
+      "Avoidance"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Blind",
+      "Blindness"
+    ],
+    [
+      "Check",
+      "Checkmate"
+    ],
+    [
+      "Fight",
+      "Fighter"
+    ],
+    [
+      "Fluid",
+      "Fluidity"
+    ],
+    [
+      "Focus",
+      "Focuses"
+    ],
+    [
+      "Force",
+      "Reinforcement"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Ontologically"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Logic",
+      "Technological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Logic",
+      "Psychologically"
+    ]
+  ]
+}

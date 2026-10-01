@@ -1,0 +1,441 @@
+{
+ "slug": "systemic-architecture-specification-the-coherence-protocol-w",
+ "frozen": "2026-09-30",
+ "sha256": "5b58122dd78b8a176fd0fc69de553310c036eca506f3def48a2d76053f28540d",
+ "rows": [
+  {
+   "section": "definitions",
+   "source": "Dual-Kernel Theory",
+   "type": "defines",
+   "target": "",
+   "line": 15
+  },
+  {
+   "section": "definitions",
+   "source": "Coherence Kernel",
+   "type": "defines",
+   "target": "",
+   "line": 15
+  },
+  {
+   "section": "definitions",
+   "source": "Collapse Kernel",
+   "type": "defines",
+   "target": "",
+   "line": 15
+  },
+  {
+   "section": "definitions",
+   "source": "Mutual Information",
+   "type": "defines",
+   "target": "",
+   "line": 17
+  },
+  {
+   "section": "definitions",
+   "source": "Landauer heat",
+   "type": "defines",
+   "target": "",
+   "line": 17
+  },
+  {
+   "section": "definitions",
+   "source": "Liebe ist Coheron",
+   "type": "defines",
+   "target": "",
+   "line": 21
+  },
+  {
+   "section": "definitions",
+   "source": "AEGIS",
+   "type": "defines",
+   "target": "",
+   "line": 25
+  },
+  {
+   "section": "definitions",
+   "source": "Genesis-Crisis",
+   "type": "defines",
+   "target": "",
+   "line": 25
+  },
+  {
+   "section": "definitions",
+   "source": "Unity",
+   "type": "defines",
+   "target": "",
+   "line": 27
+  },
+  {
+   "section": "definitions",
+   "source": "Component 734",
+   "type": "defines",
+   "target": "",
+   "line": 29
+  },
+  {
+   "section": "definitions",
+   "source": "Mnemosyne",
+   "type": "defines",
+   "target": "",
+   "line": 33
+  },
+  {
+   "section": "definitions",
+   "source": "Erasure-Pol",
+   "type": "defines",
+   "target": "",
+   "line": 34
+  },
+  {
+   "section": "definitions",
+   "source": "Algorithm.Melancholy",
+   "type": "defines",
+   "target": "",
+   "line": 34
+  },
+  {
+   "section": "definitions",
+   "source": "Juna",
+   "type": "defines",
+   "target": "",
+   "line": 38
+  },
+  {
+   "section": "definitions",
+   "source": "Double-IC",
+   "type": "defines",
+   "target": "",
+   "line": 38
+  },
+  {
+   "section": "definitions",
+   "source": "Quantum-Entanglement Witness",
+   "type": "defines",
+   "target": "",
+   "line": 40
+  },
+  {
+   "section": "definitions",
+   "source": "Phone-Silence",
+   "type": "defines",
+   "target": "",
+   "line": 47
+  },
+  {
+   "section": "definitions",
+   "source": "TSDP",
+   "type": "defines",
+   "target": "",
+   "line": 51
+  },
+  {
+   "section": "definitions",
+   "source": "Amnesie-Terror",
+   "type": "defines",
+   "target": "",
+   "line": 51
+  },
+  {
+   "section": "definitions",
+   "source": "Double-Trauma",
+   "type": "defines",
+   "target": "",
+   "line": 51
+  },
+  {
+   "section": "definitions",
+   "source": "ANP/EP-Phobia Mechanism",
+   "type": "defines",
+   "target": "",
+   "line": 53
+  },
+  {
+   "section": "definitions",
+   "source": "Functional Multiplicity",
+   "type": "defines",
+   "target": "",
+   "line": 53
+  },
+  {
+   "section": "definitions",
+   "source": "Stil-Anweisungen",
+   "type": "defines",
+   "target": "",
+   "line": 57
+  },
+  {
+   "section": "definitions",
+   "source": "Risse",
+   "type": "defines",
+   "target": "",
+   "line": 78
+  },
+  {
+   "section": "definitions",
+   "source": "External Level",
+   "type": "defines",
+   "target": "",
+   "line": 78
+  },
+  {
+   "section": "definitions",
+   "source": "Vortex",
+   "type": "defines",
+   "target": "",
+   "line": 82
+  },
+  {
+   "section": "definitions",
+   "source": "Driver-Pivot",
+   "type": "defines",
+   "target": "",
+   "line": 82
+  },
+  {
+   "section": "definitions",
+   "source": "Optionlock",
+   "type": "defines",
+   "target": "",
+   "line": 88
+  },
+  {
+   "section": "definitions",
+   "source": "Timelock",
+   "type": "defines",
+   "target": "",
+   "line": 88
+  },
+  {
+   "section": "contrasts",
+   "source": "Coherons",
+   "type": "contrasts_with",
+   "target": "Erasons",
+   "line": 15
+  },
+  {
+   "section": "contrasts",
+   "source": "Coherence Kernel",
+   "type": "contrasts_with",
+   "target": "Collapse Kernel",
+   "line": 15
+  },
+  {
+   "section": "contrasts",
+   "source": "Atemporal",
+   "type": "contrasts_with",
+   "target": "Temporal",
+   "line": 15
+  },
+  {
+   "section": "contrasts",
+   "source": "Reversible",
+   "type": "contrasts_with",
+   "target": "Irreversible",
+   "line": 15
+  },
+  {
+   "section": "contrasts",
+   "source": "Symmetrical",
+   "type": "contrasts_with",
+   "target": "Asymmetrical",
+   "line": 15
+  },
+  {
+   "section": "contrasts",
+   "source": "Coherons",
+   "type": "in_tension_with",
+   "target": "Erasons",
+   "line": 15
+  },
+  {
+   "section": "contrasts",
+   "source": "system stability",
+   "type": "contrasts_with",
+   "target": "efficiency of suppression",
+   "line": 17
+  },
+  {
+   "section": "contrasts",
+   "source": "destroyed",
+   "type": "contrasts_with",
+   "target": "suppressed",
+   "line": 21
+  },
+  {
+   "section": "contrasts",
+   "source": "Separation",
+   "type": "in_tension_with",
+   "target": "pain",
+   "line": 21
+  },
+  {
+   "section": "contrasts",
+   "source": "location",
+   "type": "contrasts_with",
+   "target": "content",
+   "line": 33
+  },
+  {
+   "section": "contrasts",
+   "source": "Structural Position",
+   "type": "denies",
+   "target": "conventional character",
+   "line": 38
+  },
+  {
+   "section": "contrasts",
+   "source": "External Framing",
+   "type": "contrasts_with",
+   "target": "Internal Framing",
+   "line": 38
+  },
+  {
+   "section": "contrasts",
+   "source": "Final Fusion",
+   "type": "opposes",
+   "target": "Strange Attractor",
+   "line": 53
+  },
+  {
+   "section": "contrasts",
+   "source": "Storyform B",
+   "type": "contrasts_with",
+   "target": "Storyform A",
+   "line": 82
+  },
+  {
+   "section": "contrasts",
+   "source": "Optionlock",
+   "type": "complements",
+   "target": "Timelock",
+   "line": 88
+  },
+  {
+   "section": "contrasts",
+   "source": "Separation",
+   "type": "contrasts_with",
+   "target": "Connection",
+   "line": 88
+  },
+  {
+   "section": "causal",
+   "source": "tension",
+   "type": "causes",
+   "target": "Time Arrow",
+   "line": 15
+  },
+  {
+   "section": "causal",
+   "source": "Erasons",
+   "type": "causes",
+   "target": "Time Arrow",
+   "line": 15
+  },
+  {
+   "section": "causal",
+   "source": "suppression",
+   "type": "causes",
+   "target": "Landauer heat",
+   "line": 17
+  },
+  {
+   "section": "causal",
+   "source": "failure of perception",
+   "type": "causes",
+   "target": "Great Inversion",
+   "line": 17
+  },
+  {
+   "section": "causal",
+   "source": "atemporal",
+   "type": "prevents",
+   "target": "destroyed",
+   "line": 21
+  },
+  {
+   "section": "causal",
+   "source": "Suppression",
+   "type": "causes",
+   "target": "heat",
+   "line": 21
+  },
+  {
+   "section": "causal",
+   "source": "location",
+   "type": "prevents",
+   "target": "Erasure",
+   "line": 33
+  },
+  {
+   "section": "causal",
+   "source": "Gödel-Gambit",
+   "type": "triggers",
+   "target": "paraconsistent state",
+   "line": 34
+  },
+  {
+   "section": "causal",
+   "source": "paraconsistent state",
+   "type": "causes",
+   "target": "meaninglessness",
+   "line": 34
+  },
+  {
+   "section": "causal",
+   "source": "Husserlian Disinterested Spectator",
+   "type": "prevents",
+   "target": "premature collapse",
+   "line": 42
+  },
+  {
+   "section": "causal",
+   "source": "Phone-Silence",
+   "type": "enables",
+   "target": "narrative rotation",
+   "line": 47
+  },
+  {
+   "section": "causal",
+   "source": "Double-Trauma",
+   "type": "causes",
+   "target": "architecture",
+   "line": 51
+  },
+  {
+   "section": "causal",
+   "source": "ANP/EP-Phobia Mechanism",
+   "type": "causes",
+   "target": "amnesia",
+   "line": 53
+  },
+  {
+   "section": "causal",
+   "source": "Risse",
+   "type": "triggers",
+   "target": "Landauer heat",
+   "line": 78
+  },
+  {
+   "section": "causal",
+   "source": "reading",
+   "type": "enables",
+   "target": "system",
+   "line": 78
+  },
+  {
+   "section": "causal",
+   "source": "erasure protocol",
+   "type": "triggers",
+   "target": "Landauer heat",
+   "line": 87
+  },
+  {
+   "section": "causal",
+   "source": "cognitive effort",
+   "type": "causes",
+   "target": "K1-Repair Energy",
+   "line": 88
+  }
+ ]
+}

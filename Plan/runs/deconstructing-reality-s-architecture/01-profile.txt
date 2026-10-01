@@ -1,0 +1,14 @@
+# deconstructing-reality-s-architecture
+  lines                334  (frontmatter ends at 9)
+  body words           4710
+  headings             33   bold-only lines 3
+  table rows           42   code fences 0
+  question marks       15
+  backslash escapes    226
+  typographic marks    41   ascii quotes 244
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    5
+  repeated labels      Atmosphere x4, Auditory x4, Olfactory x4, Psychological State x4, Sensory Signature x4, Visual x4, Focus x3, State x3
+  longest line         1014 chars
+

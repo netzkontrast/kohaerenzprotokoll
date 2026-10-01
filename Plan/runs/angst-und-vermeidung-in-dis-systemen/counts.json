@@ -1,0 +1,1133 @@
+{
+  "document": "angst-und-vermeidung-in-dis-systemen",
+  "drive_id": "1ZGLIEuCbo5w89K-nipZyribqAELSsIm16OQt3gPq0gY",
+  "step": "counts",
+  "at": "2026-09-30",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "dissoziative Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "DIS": {
+      "n": 14,
+      "n_including_compounds": 18,
+      "lines": [
+        15,
+        17,
+        19,
+        35,
+        51,
+        57,
+        82,
+        88,
+        113,
+        115,
+        139,
+        163,
+        165,
+        189,
+        200,
+        263
+      ]
+    },
+    "multiple Persönlichkeitsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "MPD": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "OSDD": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        241
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "dissoziative Anteile": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        82,
+        167,
+        215
+      ]
+    },
+    "Identity-States": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        74,
+        82
+      ]
+    },
+    "Ego-States": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "ANP": {
+      "n": 16,
+      "n_including_compounds": 34,
+      "lines": [
+        29,
+        31,
+        35,
+        52,
+        55,
+        86,
+        88,
+        92,
+        94,
+        102,
+        106,
+        109,
+        117,
+        122,
+        125,
+        145,
+        148,
+        151,
+        156,
+        171,
+        179,
+        187,
+        194,
+        200
+      ]
+    },
+    "ANPs": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        29,
+        31,
+        86,
+        88,
+        92,
+        117,
+        122,
+        125,
+        145,
+        148,
+        156,
+        171,
+        187,
+        194,
+        200
+      ]
+    },
+    "Anscheinend Normalen Persönlichkeitsanteilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "EP": {
+      "n": 14,
+      "n_including_compounds": 38,
+      "lines": [
+        29,
+        31,
+        35,
+        37,
+        53,
+        55,
+        57,
+        86,
+        88,
+        92,
+        94,
+        102,
+        115,
+        117,
+        139,
+        145,
+        148,
+        151,
+        156,
+        169,
+        179,
+        187,
+        191,
+        192,
+        194,
+        200
+      ]
+    },
+    "EPs": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        29,
+        31,
+        37,
+        86,
+        88,
+        92,
+        94,
+        115,
+        117,
+        139,
+        145,
+        148,
+        156,
+        169,
+        187,
+        192,
+        194,
+        200
+      ]
+    },
+    "Emotionalen Persönlichkeitsanteilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Host": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Innenkinder": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        125,
+        148
+      ]
+    },
+    "Täterintrojekte": {
+      "n": 7,
+      "n_including_compounds": 12,
+      "lines": [
+        39,
+        111,
+        113,
+        115,
+        117,
+        125,
+        139,
+        148,
+        170,
+        173,
+        200
+      ]
+    },
+    "Täterintrojekt": {
+      "n": 0,
+      "n_including_compounds": 12,
+      "lines": [
+        39,
+        111,
+        113,
+        115,
+        117,
+        125,
+        139,
+        148,
+        170,
+        173,
+        200
+      ]
+    },
+    "Perpetrator Introjects": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        255
+      ]
+    },
+    "Persecutor Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "innere Verfolger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Beschützeranteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Covert DID": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Kernsystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Mitbewusstsein": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        23,
+        82,
+        96,
+        98,
+        100,
+        131,
+        194,
+        200,
+        204
+      ]
+    },
+    "Co-Consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Co-Bewusstsein": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        74,
+        82,
+        133,
+        143
+      ]
+    },
+    "Switching": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        102,
+        185,
+        250,
+        253
+      ]
+    },
+    "Switch": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        94,
+        102,
+        185,
+        250,
+        253
+      ]
+    },
+    "passiven Beeinflussung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        96,
+        102,
+        200
+      ]
+    },
+    "Passive Influence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        250
+      ]
+    },
+    "Emotional Bleeding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Time Loss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Amnesie für die Amnesie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        88
+      ]
+    },
+    "dissoziative Amnesie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        200
+      ]
+    },
+    "Shutdown": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        94,
+        181
+      ]
+    },
+    "Front": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        98,
+        209,
+        257
+      ]
+    },
+    "Theorie der strukturellen Dissoziation der Persönlichkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        23
+      ]
+    },
+    "TSDP": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        21,
+        23,
+        25,
+        29,
+        45,
+        65,
+        187
+      ]
+    },
+    "strukturelle Dissoziation": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        31,
+        37,
+        63
+      ]
+    },
+    "primäre strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "sekundären strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "tertiäre strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Handlungssysteme": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        41,
+        43,
+        45,
+        57,
+        86,
+        133,
+        160,
+        198,
+        215
+      ]
+    },
+    "Action Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Systeme des täglichen Lebens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Verteidigungs- und Abwehrsysteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Cry for help": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        53
+      ]
+    },
+    "Fight": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        53,
+        88
+      ]
+    },
+    "Flight": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        53
+      ]
+    },
+    "Freeze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        88
+      ]
+    },
+    "Appeasement/Submit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Hierarchiesystem traumabezogener Phobien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Phobie vor traumatischen Erinnerungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        78
+      ]
+    },
+    "Phobie vor mentalen Handlungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        73
+      ]
+    },
+    "Mental Phobia": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        63,
+        73,
+        137,
+        200
+      ]
+    },
+    "Phobie vor dissoziativen Anteilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Phobie vor Bindung und Bindungsverlust": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Phobie vor dem normalen Leben und Intimität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Phobie vor dem Anderen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "phobische Vermeidung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        43,
+        63,
+        86,
+        143
+      ]
+    },
+    "Fassade der Normalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Schweigegelübde": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        173
+      ]
+    },
+    "Numbing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Realization": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        149
+      ]
+    },
+    "Synthese": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        63,
+        183,
+        189,
+        204
+      ]
+    },
+    "Realisation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        183,
+        189,
+        204
+      ]
+    },
+    "Personifizierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Präsentifizierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "positiven dissoziativen Symptomen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "desorganisierten Bindung": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        75
+      ]
+    },
+    "soziokognitive Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Traumamodell": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15
+      ]
+    },
+    "Satanic Panic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Inneren Konferenzraums": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Inneren Konferenzraum": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        143,
+        155,
+        202
+      ]
+    },
+    "Inneren Teamsitzungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Innere Teamsitzungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "Roll Call": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Lagebericht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "6-Schritte-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Innere sichere Ort": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        135,
+        137
+      ]
+    },
+    "Inner Safe Place": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Teilen von Ressourcen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Schema-Modus-Inventar": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Vulnerable Child Modes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Verletzlicher Kindmodus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Punitive Parent Mode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Strafender Elternmodus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Strafenden Elternmodus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Healthy Adult Mode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Healthy Adult": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        179
+      ]
+    },
+    "Imagery Rescripting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Unburdening": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Firefighters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Exilanten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        179
+      ]
+    },
+    "Selbst": {
+      "n": 3,
+      "n_including_compounds": 11,
+      "lines": [
+        82,
+        100,
+        109,
+        123,
+        137,
+        151,
+        170,
+        179,
+        181,
+        194
+      ]
+    },
+    "Ella": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        167,
+        170,
+        171
+      ]
+    },
+    "Frauke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "The Mean": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Pierre Janet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Onno van der Hart": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Kathy Steele": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Sigmund Freud": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Anna Freud": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Sándor Ferenczi": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        115
+      ]
+    },
+    "Martin Teicher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Aharon Appelfeld": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Identifikation mit dem Aggressor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Sprachverwirrung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Confusion of Tongues": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Schematherapie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        163,
+        165,
+        179
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        175,
+        177,
+        202,
+        236
+      ]
+    },
+    "IFS": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        175,
+        177,
+        179,
+        236,
+        266
+      ]
+    },
+    "EMDR": {
+      "n": 2,
+      "n_including_compounds": 7,
+      "lines": [
+        183,
+        185,
+        187,
+        189,
+        202,
+        216
+      ]
+    },
+    "Konditionierungsprozesse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        92
+      ]
+    },
+    "Abwehrmechanismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        39
+      ]
+    },
+    "Verdrängung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Verleugnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Flooding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Neuroplastizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Titration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Corpus callosum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Amygdala": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37
+      ]
+    },
+    "Insula": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Resting-State-Aktivität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "DSM-5": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    }
+  }
+}

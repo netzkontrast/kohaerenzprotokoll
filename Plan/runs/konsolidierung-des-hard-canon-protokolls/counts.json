@@ -1,0 +1,507 @@
+{
+  "document": "konsolidierung-des-hard-canon-protokolls",
+  "drive_id": "1jpBHMqoiAb7POikgNV7bGs__y9PhNQz3-GkAw7T41Cs",
+  "step": "counts",
+  "at": "2026-09-30",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1
+      ]
+    },
+    "HARD CANON MASTERFILE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        5
+      ]
+    },
+    "Hard-Canon-Dokument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1
+      ]
+    },
+    "Post-Interview Consolidation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        7
+      ]
+    },
+    "Version: 2.0": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Kael": {
+      "n": 6,
+      "n_including_compounds": 10,
+      "lines": [
+        13,
+        14,
+        15,
+        23,
+        28,
+        33,
+        47
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13
+      ]
+    },
+    "Die 13 Fragmente": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Alters": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        23,
+        46,
+        48
+      ]
+    },
+    "Silas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        47
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        47
+      ]
+    },
+    "Oblivion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        47
+      ]
+    },
+    "Moros": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        47
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        14,
+        24,
+        28,
+        46,
+        48
+      ]
+    },
+    "Die Juna-Anomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        14
+      ]
+    },
+    "prä-existente ontologische Bindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        14
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        14
+      ]
+    },
+    "AEGIS": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        15,
+        24,
+        28,
+        46,
+        47,
+        48
+      ]
+    },
+    "Guardians": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        28
+      ]
+    },
+    "Das Kael-AEGIS-Spiegelkabinett": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Algorithmischer Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Amnesie-Barrieren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "39-Kapitel-Matrix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        49
+      ]
+    },
+    "3 Akte × 13 Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "System-Genesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        14
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        14,
+        29
+      ]
+    },
+    "Basisrealität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        33
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Köln 2026": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Erinnerungs-Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Fraktale Zeitstruktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Das Psychologische Kammerspiel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Das Ouroboros-Ende": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Zyklische Auflösung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "vertauschten Rollen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Hybride Erzählperspektive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Ich-Perspektive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Kamera-Perspektive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Dynamische DKT-Statuszeilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "DKT": {
+      "n": 0,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        48
+      ]
+    },
+    "Hard-SF-Interface-Elemente": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Status-Header": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "\\[KHZ: 0.74\\]": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "physische Glitches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "somatische Marker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Temperaturabfall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "SYSTEM-UPDATE REQUEST": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "AGENT DIRECTIVE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "CANON\\_SYNC": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "DECISION\\_LOG.md": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Character\\_Bible.md": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "STYLEGUIDE.md": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "CLAUDE.md": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Repository-Bereinigung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Character Bible Update": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Styleguide Update": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Chapter Outline Sync": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "State Management Lock": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Memory-Server": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "DEPRECATED": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "autopoietische": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    }
+  }
+}
