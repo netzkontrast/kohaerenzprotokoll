@@ -52,7 +52,7 @@ COMPONENTS=(
   "jev|jev-decide CLI (uv tool) — the vendored jev* skills in API mode"
   "graphify|graphify CLI with its openai extra (uv tool) — the vendored graphify skill"
   "cgr|code-graph-rag CLI (uv tool, python 3.12) — cgr"
-  "hyperextract|he and he-mcp (uv tool, python 3.12) — Hyper-Extract, the hyper-extract MCP server"
+  "hyperextract|he and he-mcp (uv tool, python 3.12) and their /usr/local/bin links — Hyper-Extract, the hyper-extract MCP server"
   "omo|OpenCode $OPENCODE_VERSION (npm -g) with the oh-my-openagent $OMO_VERSION plugin; no provider sign-in"
   "qmd|qmd package in .tools-node and the /usr/local/bin/qmd shim"
   "qmd-models|qmd's ~2.1 GB models, index and embeddings — not in the default set"
@@ -83,7 +83,7 @@ present() {
     jev)        have jev-decide ;;
     graphify)   have graphify && "$(dirname "$(readlink -f "$(command -v graphify)")")/python" -c "import openai" 2>/dev/null ;;
     cgr)        have cgr ;;
-    hyperextract) have he && have he-mcp ;;
+    hyperextract) [[ -x /usr/local/bin/he ]] && [[ -x /usr/local/bin/he-mcp ]] ;;
     omo)        have opencode && grep -q oh-my-openagent ~/.config/opencode/opencode.json 2>/dev/null \
                   && [[ -f ~/.omo/omo.jsonc ]] ;;
     qmd)        [[ -x .tools-node/node_modules/.bin/qmd ]] && [[ -x /usr/local/bin/qmd ]] ;;
@@ -163,7 +163,16 @@ install_one() {
     hyperextract)
       need_uv || return 1
       uv tool install -q --python 3.12 \
-        "hyperextract[mcp,ingest,anthropic] @ git+https://github.com/netzkontrast/Hyper-Extract@$HYPEREXTRACT_REF" ;;
+        "hyperextract[mcp,ingest,anthropic] @ git+https://github.com/netzkontrast/Hyper-Extract@$HYPEREXTRACT_REF" || return 1
+      # .mcp.json starts `he-mcp` with the PATH Claude Code was launched with, which
+      # lacks ~/.local/bin (the session hook adds it for Bash only): the server
+      # failed with ENOENT while `he-mcp` stood installed. Link both into
+      # /usr/local/bin, as setup_qmd.sh does for qmd.
+      local bin; bin="$(uv tool dir --bin)"
+      for exe in he he-mcp; do
+        [[ -x "$bin/$exe" ]] || { echo "$exe not in $bin after uv tool install" >&2; return 1; }
+        ln -sf "$bin/$exe" "/usr/local/bin/$exe" || return 1
+      done ;;
     omo)
       have opencode || npm install -g -s "opencode-ai@$OPENCODE_VERSION" || return 1
       have bunx || { echo "bunx is not on PATH — oh-my-openagent's installer needs Bun" >&2; return 1; }

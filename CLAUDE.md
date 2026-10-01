@@ -28,7 +28,7 @@ A second run takes seconds; the first took about a minute with uv's cache warm.
 | `Plan/derived/ask.db` | `python3 scripts/knowledge.py init --profile reader` (or `.venv-graphqlite/bin/python scripts/kg.py index`) | both graph CLIs; reads refuse a stale store |
 | `Plan/derived/` | `install.sh derived` (`python3 scripts/derive.py`, about 3 s) | `corpus.py`'s index path |
 | `.venv-tools`, `.venv-typesafe`, `.venv-dspy`, `.venv-dspytools`, `.venv-grawiki`, `.venv-semantica`, `.venv-mflow`, `.venv-graphqlite` | `install.sh <name>` | only the step that names each; `scripts/kg.py` needs `graphqlite` (pinned `graphqlite==0.8.0`) |
-| `he`, `he-mcp` (Hyper-Extract) | `install.sh hyperextract`, pinned to `395039e` | the `hyper-extract` MCP server in `.mcp.json`, the `hyper*` skills, `he_claude.py` |
+| `he`, `he-mcp` (Hyper-Extract) | `install.sh hyperextract`, pinned to `395039e`; it links both into `/usr/local/bin`, because MCP servers start without `~/.local/bin` on PATH | the `hyper-extract` MCP server in `.mcp.json`, the `hyper*` skills, `he_claude.py` |
 | `jev-decide`, `graphify`, `cgr`, OpenCode + oh-my-openagent | `install.sh jev` / `graphify` (pinned `4c73561`) / `cgr` / `omo` | the vendored skills; nothing in the pipeline |
 | qmd package and the `/usr/local/bin/qmd` shim | `install.sh qmd` (`scripts/setup_qmd.sh --package`) | searching; nothing in the pipeline |
 | qmd's models (~2.1 GB), index and embeddings | `install.sh qmd-models` (`scripts/setup_qmd.sh`) — **not** run at session start | vector search and `qmd query` |

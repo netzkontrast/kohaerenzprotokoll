@@ -196,8 +196,10 @@ nothing in the pipeline calls them. Their graphs stand under the same limits as
 - **`he-mcp`**, registered as the `hyper-extract` server in `.mcp.json`. Its
   nine tools read and export an existing Knowledge Abstract (`list_templates`,
   `info`, `search`, `ask`, `export_obsidian|graphml|csv|jsonld|cypher`); none of
-  them extracts. In a brand-new container the server can start before the
-  session hook has installed `he-mcp` — reconnect it with `/mcp`.
+  them extracts. Claude Code starts the server with the PATH it was launched
+  with, which lacks `~/.local/bin`, so `install.sh hyperextract` links `he` and
+  `he-mcp` into `/usr/local/bin`. In a brand-new container the server can still
+  start before the session hook has installed it — reconnect it with `/mcp`.
 - **Seven template-design skills**: `hyper-extract` (the entry point) and
   `hyperextract-brainstorm`, `-record-designer`, `-graph-designer`,
   `-yaml-validator`, `-template-optimizer`, `-multilingual`. Upstream nests them
