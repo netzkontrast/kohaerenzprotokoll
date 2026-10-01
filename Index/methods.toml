@@ -1,0 +1,51 @@
+# The registry of the index: every chunker and embedder with its parameters and version.
+# A chunk id names its method ("heading@v1"); changing a parameter here without a new
+# version would make the same id mean two different chunks, so a change is a new version.
+# Read by novelgraph (novelgraph/src/novelgraph/methods.py); docs/novelgraph-index.md has why.
+
+[tokens]
+# Embedder-independent token count, so a model change never moves a chunk boundary.
+rule = '\w+|[^\w\s]'
+version = 1
+
+[headings]
+# What a heading is, and how its title is cleaned for heading_path and prefix.
+rule = "ATX headings (#..######) outside code fences; backslash escapes of ASCII punctuation (CommonMark) and emphasis removed from the title"
+version = 1
+
+[chunker."heading@v1"]
+kind = "heading"
+target_min = 350
+target_max = 450
+min = 120
+max = 600
+split = ["heading", "block", "line"]   # a line is the smallest unit: chunks are line ranges
+tables = "never split"
+
+[chunker."section@v1"]
+kind = "section"
+level = "top"                            # the smallest heading level present in the document
+
+[chunker."window400@v1"]
+kind = "window"
+size = 400
+overlap = 0.15                           # baseline only
+
+[embedder."potion-m128"]
+library = "model2vec"
+model = "minishlab/potion-multilingual-128M"
+revision = "73908c3438cf03b6a01bcb9611d62b23d0726f08"
+input = "prefix + '\\n' + text"
+normalize = "l2"
+dtype = "float16"
+
+[lex]
+surfaces = "fold() of every capitalised token (scripts/wiki_index.py)"
+lemmatizer = "simplemma 1.1.2"
+languages = ["de", "en"]
+format = "space-separated strings; a lemma occurring n > 1 times is written lemma:n"
+version = 1
+
+[search]
+rrf_k = 60
+candidates = 50
