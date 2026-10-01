@@ -34,7 +34,7 @@ Every contract in `Plan/hyperextract/` on `kohaerenz-protokoll-meta-foreshadowin
 | `TermDefinitions` | 8 | 8 | 0 | 0 | — | — | — | — | $0.065 | [TermDefinitions.md](TermDefinitions.md) |
 | `TermReadings` | 23 | 22 | 0 | 0 | — | — | — | — | $0.082 | [TermReadings.md](TermReadings.md) |
 | `TermTaxonomy` | 0 | 0 | 0 | 0 | — | — | — | — | $0.050 | [TermTaxonomy.md](TermTaxonomy.md) |
-| `ThemeMotifs` | — | — | — | — | — | — | — | — | $0.000 | [ThemeMotifs.md](ThemeMotifs.md) |
-| `Utterances` | — | — | — | — | — | — | — | — | $0.000 | [Utterances.md](Utterances.md) |
+| `ThemeMotifs` | 7 | 5 | 2 | 0 | — | — | — | — | $0.066 | [ThemeMotifs.md](ThemeMotifs.md) |
+| `Utterances` | 3 | 3 | 0 | 0 | — | — | — | — | $0.053 | [Utterances.md](Utterances.md) |
 
-Total cost of the runs present: **$1.66**.
+Total cost of the runs present: **$1.77**.

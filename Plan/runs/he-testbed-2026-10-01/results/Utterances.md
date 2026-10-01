@@ -12,7 +12,13 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`
 
-Not run yet.
+3 calls (0 failed), 3 chunks (0 without a valid reply), $0.053, 20.8 s. **3 rows**: 3 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Juna | Glaubst du wirklich, dein Herz schlägt von selbst? | speech | asks | Juna könnte Kael fragen: *„Glaubst du wirklich, dein Herz schlägt von selbst? | 41 |
+| 2 | relation_reading | candidate | Kael | Was tust DU gerade mit mir? | thought | asks | sondern als interne Stimme Kaels, die sich fragt: *„Was tust DU gerade mit mir?“* | 53 |
+| 3 | relation_reading | candidate | unlabelled | STATUS: Beobachter-Fokus bei 85%. | log | asserts | STATUS: Beobachter-Fokus bei 85%. Erhöhe narrative Spannung, um System-Abschaltung zu verhindern. | 58 |
 
 ## `2026-09-14-kap25-vertiefung-md`
 

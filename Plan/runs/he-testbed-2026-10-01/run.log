@@ -59,3 +59,7 @@
 06:44:13 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik TermTaxonomy
 {"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "TermTaxonomy.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 16.5, "input_tokens": 12193, "output_tokens": 1074, "cost_usd": 0.0503, "approval": "decision 011 (Claude, first party); th
 06:44:30 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik ThemeMotifs
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "ThemeMotifs.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 27.0, "input_tokens": 12148, "output_tokens": 2680, "cost_usd": 0.066, "approval": "decision 011 (Claude, first party); the 
+06:44:58 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Utterances
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Utterances.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 20.8, "input_tokens": 11795, "output_tokens": 1545, "cost_usd": 0.053, "approval": "decision 011 (Claude, first party); the a
+06:45:19 2026-09-14-kap25-vertiefung-md AliasPairs

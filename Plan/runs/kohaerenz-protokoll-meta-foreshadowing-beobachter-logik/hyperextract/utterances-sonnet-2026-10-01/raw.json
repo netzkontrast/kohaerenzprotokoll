@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "source": "Juna",
+      "target": "Glaubst du wirklich, dein Herz schlägt von selbst?",
+      "type": "speech",
+      "quote": "Juna könnte Kael fragen: *„Glaubst du wirklich, dein Herz schlägt von selbst?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kael",
+      "target": "Was tust DU gerade mit mir?",
+      "type": "thought",
+      "quote": "sondern als interne Stimme Kaels, die sich fragt: *„Was tust DU gerade mit mir?“*",
+      "stance": "asks"
+    },
+    {
+      "source": "unlabelled",
+      "target": "STATUS: Beobachter-Fokus bei 85%.",
+      "type": "log",
+      "quote": "STATUS: Beobachter-Fokus bei 85%. Erhöhe narrative Spannung, um System-Abschaltung zu verhindern.",
+      "stance": "asserts"
+    }
+  ]
+}
