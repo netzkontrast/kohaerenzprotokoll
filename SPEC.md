@@ -1,15 +1,16 @@
 # SPEC — the recommended architecture
 
-**Status: a recommendation from the architecture session of 2026-10-01 (PR #139). Not adopted.** It becomes the
-architecture only when the author approves it, and then by a decision file. Until then it changes nothing that
-`CLAUDE.md`, `PRINCIPLES.md` and `Plan/decisions/` say. The baseline, the ownership map and the self-evaluation
-it rests on are in `Plan/runs/architecture-session-2026-10-01/README.md`; read that first.
+**Status: adopted by the author, 2026-10-01 — `Plan/decisions/021-the-architecture-spec-adopted.md`.** It was written
+as the recommendation of the architecture session (PR #139); its migration order (§9) is now binding, and E4 may run
+within decision 021's limits. Where it and an older decision differ, the older decision stands until a step changes
+it. The baseline, the ownership map and the self-evaluation it rests on are in
+`Plan/runs/architecture-session-2026-10-01/README.md`.
 
 Three kinds of statement appear below, always marked:
 
 - **[built]** is true of the repository at this commit and has a path;
 - **[migrate]** is a proposed change, with its step in §9;
-- **[author]** is a choice only the author can make; it is listed in `Plan/questions-for-the-author.md`.
+- **[author]** is a choice only the author can make; it is listed in `Plan/questions-for-the-author.md`, or decided in decision 021.
 
 ## In one paragraph
 
@@ -402,10 +403,9 @@ alone, offline, and rolled back by reverting it.
 | 5 | **One query-word function** | `askdb.query_words`, used by `fts_query`, `kg.search`, `bm25rel`; novelgraph keeps lemmata and imports the stop list | per-query diff of the words on the 24 questions, reviewed; bench unchanged or the difference reported | revert |
 | 6 | **novelgraph as an optional finder** | `ask.route` (`finders=("novelgraph",)`, off by default), an adapter to the hit contract | G2 run: paired novel gold at equal bytes; cold cost reported; **default stays off** unless G2 holds | turn the finder off |
 | 7 | **`rlm_ingest` through `lmrun`** | `scripts/rlm_ingest.py` | an offline fixture: an answered and a failed call each leave a record, as `rlm_retrieval --record-selftest` does | revert |
-| 8 | **E4, gated** — only with the author's yes on spend | none until then | fixed pack vs bounded expansion vs RLM at equal total cost, read evidence only | — |
+| 8 | **E4** — approved (decision 021): Claude only, serial, $20 for the whole run, after steps 2 and 4 | a run directory under `Plan/runs/` | fixed pack vs bounded expansion vs RLM at equal total cost, read evidence only | — |
 
-Steps 2–7 need no model call and no corpus reading. Step 8 needs the author's decision on spend. It is listed in
-`Plan/questions-for-the-author.md`.
+Steps 2–7 need no model call and no corpus reading. Step 8 has the author's yes on spend (decision 021).
 
 **What remains unmeasured**:
 

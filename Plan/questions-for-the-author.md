@@ -346,25 +346,6 @@ the author wants them (*Questions for the author*).
 
 ## Part 2 — the pipeline and its tools
 
-### From the architecture session (2026-10-01, PR #139) — `SPEC.md`
-
-The engineering choices are made in `SPEC.md` as reversible defaults, each with what would reverse it. These are the
-parts only the author can decide; none blocks migration steps 1–7, which are offline.
-
-- **Adopt `SPEC.md`?** It is a recommendation, not a decision. A yes makes it a decision file (021) and the
-  migration order binding; a partial yes names the sections. Without an answer, steps 2–7 still proceed one PR at a
-  time, each reviewable alone, because each is small and reverted by a revert.
-- **E4, the one model experiment the spec asks for** (§9 step 8): fixed pack against bounded expansion against RLM over
-  chunks, on the same questions, at equal total cost, scoring only evidence an agent actually read. PR #140's run cost
-  $0.10–0.30 a question; three controllers on 24 questions is roughly $5–20 of first-party Claude (decision 011),
-  serial. Until then RLM stays an optional finder and nothing about it is adopted. Consequence of no: the spec's main
-  choice stays unreversible by evidence, not wrong.
-- **`GOAL.md`.** It still names the superseded agency spec 010 as required reading, and its tiers (§3) and automatic
-  adjudication (§4.4) are suspended by decision 006 and the working agreement. `SPEC.md` §8 reconciles them; whether
-  the brief itself is amended, annotated or left as the dated brief it is, is yours.
-- **Independent cases for discovery** — already item 6 on `NOW.md`. The spec adds one measured reason: the 24 cases
-  form one connected cluster (`scripts/benchset.py clusters`), so no held-out split of them exists.
-
 ### The process — the author's call, with the detail under *Open decisions*
 
 - **`account.py order` passes a `reconcile.json` with no census beside it**; it should not.
