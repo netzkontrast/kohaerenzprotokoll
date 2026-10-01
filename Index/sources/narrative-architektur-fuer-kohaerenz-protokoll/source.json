@@ -1,0 +1,340 @@
+{
+ "slug": "narrative-architektur-fuer-kohaerenz-protokoll",
+ "sha256": "8d4c327ce9756c34c41cab80c566db23713899fb3d726765eca9c05f62bc9404",
+ "lines": 636,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Narrative Architektur für Kohärenz Protokoll",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Die unterrepräsentierten Architekturen des \"Kohärenz Protokolls\": Ein Handbuch zur narrativen Vertiefung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Einleitung: Vom Bauplan zur Kathedrale",
+   "line": 18
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Die Ethik des Architekten – Narrative Macht und die Verantwortung des Erzählens",
+   "line": 26
+  },
+  {
+   "level": 3,
+   "title": "Philosophische und Akademische Auseinandersetzung",
+   "line": 31
+  },
+  {
+   "level": 4,
+   "title": "Die Verantwortung des Erzählers (Der \"philosophische Blick\")",
+   "line": 39
+  },
+  {
+   "level": 4,
+   "title": "Ethik der Repräsentation von Trauma (TSDP/DIS)",
+   "line": 47
+  },
+  {
+   "level": 4,
+   "title": "Das Problem des Anderen (Levinas)",
+   "line": 55
+  },
+  {
+   "level": 4,
+   "title": "Das Paradox der Toleranz (Popper)",
+   "line": 63
+  },
+  {
+   "level": 4,
+   "title": "KI-Ethik (\"What Measure Is a Non-Human\")",
+   "line": 73
+  },
+  {
+   "level": 3,
+   "title": "Narrative Anleitung",
+   "line": 81
+  },
+  {
+   "level": 4,
+   "title": "Performative Ethik durch Perspektivwechsel",
+   "line": 89
+  },
+  {
+   "level": 4,
+   "title": "Der unzuverlässige Meta-Erzähler",
+   "line": 99
+  },
+  {
+   "level": 4,
+   "title": "Kontextreiche Fragen zur Verankerung",
+   "line": 107
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Die Botschaft des Mediums – Materialität und Multimodalität als narrative Ebene",
+   "line": 117
+  },
+  {
+   "level": 3,
+   "title": "Philosophische und Akademische Auseinandersetzung",
+   "line": 122
+  },
+  {
+   "level": 4,
+   "title": "Ergodische Literatur und die physische Leseerfahrung",
+   "line": 130
+  },
+  {
+   "level": 4,
+   "title": "Fallstudie House of Leaves",
+   "line": 138
+  },
+  {
+   "level": 4,
+   "title": "Semiotik von Typografie und Layout",
+   "line": 146
+  },
+  {
+   "level": 3,
+   "title": "Narrative Anleitung",
+   "line": 154
+  },
+  {
+   "level": 4,
+   "title": "Visualisierung der \"Risse\" und Systemfehler",
+   "line": 162
+  },
+  {
+   "level": 4,
+   "title": "Typografische Identitäten für AEGIS und Kael",
+   "line": 176
+  },
+  {
+   "level": 4,
+   "title": "Darstellung parakonsistenter Logik",
+   "line": 185
+  },
+  {
+   "level": 2,
+   "title": "Teil 3: Die Architektur des Gefühls – Affektive Stilistik als Werkzeug des existenziellen Horrors",
+   "line": 193
+  },
+  {
+   "level": 3,
+   "title": "Philosophische und Akademische Auseinandersetzung",
+   "line": 198
+  },
+  {
+   "level": 4,
+   "title": "Affektive Stilistik und Kognitive Linguistik",
+   "line": 206
+  },
+  {
+   "level": 4,
+   "title": "Die Sprache des Horrors (Poe & Lovecraft)",
+   "line": 214
+  },
+  {
+   "level": 4,
+   "title": "Narrative Techniken des Psychologischen Horrors",
+   "line": 222
+  },
+  {
+   "level": 3,
+   "title": "Narrative Anleitung",
+   "line": 230
+  },
+  {
+   "level": 4,
+   "title": "Entwicklung stilistischer Paletten",
+   "line": 238
+  },
+  {
+   "level": 4,
+   "title": "Steuerung von Pacing und Stimmung",
+   "line": 249
+  },
+  {
+   "level": 2,
+   "title": "Teil 4: Der Geist in der Co-Maschine – Kollaborative Autorschaft als Meta-Ebene",
+   "line": 259
+  },
+  {
+   "level": 3,
+   "title": "Philosophische und Akademische Auseinandersetzung",
+   "line": 264
+  },
+  {
+   "level": 4,
+   "title": "Emergenz und verteilte Agency",
+   "line": 272
+  },
+  {
+   "level": 4,
+   "title": "Kybernetik zweiter Ordnung",
+   "line": 280
+  },
+  {
+   "level": 4,
+   "title": "Metafiktion als Reflexion des Prozesses",
+   "line": 290
+  },
+  {
+   "level": 3,
+   "title": "Narrative Anleitung",
+   "line": 298
+  },
+  {
+   "level": 4,
+   "title": "Performanz des kollaborativen Prozesses",
+   "line": 306
+  },
+  {
+   "level": 4,
+   "title": "Das \"Gödel-Gambit\" auf Meta-Ebene",
+   "line": 319
+  },
+  {
+   "level": 4,
+   "title": "Kontextreiche Fragen zur Verankerung",
+   "line": 327
+  },
+  {
+   "level": 2,
+   "title": "Teil 5: Ein Arsenal der Formen – Historische Erzähltechniken für kognitive Verfremdung",
+   "line": 337
+  },
+  {
+   "level": 3,
+   "title": "Philosophische und Akademische Auseinandersetzung",
+   "line": 342
+  },
+  {
+   "level": 4,
+   "title": "Modernismus und die Krise der Subjektivität",
+   "line": 350
+  },
+  {
+   "level": 4,
+   "title": "Postmodernismus und die Krise der Realität",
+   "line": 360
+  },
+  {
+   "level": 3,
+   "title": "Narrative Anleitung",
+   "line": 372
+  },
+  {
+   "level": 4,
+   "title": "Modernistische Techniken für Kaels Psyche",
+   "line": 380
+  },
+  {
+   "level": 4,
+   "title": "Postmoderne Techniken für die simulierte Welt",
+   "line": 389
+  },
+  {
+   "level": 2,
+   "title": "Teil 6: Jenseits des Konflikts – Nicht-westliche Architekturen für eine Erzählung der Synthese",
+   "line": 399
+  },
+  {
+   "level": 3,
+   "title": "Philosophische und Akademische Auseinandersetzung",
+   "line": 404
+  },
+  {
+   "level": 4,
+   "title": "Kishōtenketsu (起承転結)",
+   "line": 412
+  },
+  {
+   "level": 4,
+   "title": "Nicht-Dualität (Daoismus, Śūnyatā)",
+   "line": 425
+  },
+  {
+   "level": 3,
+   "title": "Narrative Anleitung",
+   "line": 437
+  },
+  {
+   "level": 4,
+   "title": "Strukturierung von Kaels Heilungsbogen als Kishōtenketsu",
+   "line": 445
+  },
+  {
+   "level": 4,
+   "title": "Thematische Integration nicht-dualer Konzepte",
+   "line": 456
+  },
+  {
+   "level": 2,
+   "title": "Teil 7: Der kognitive Vertrag – Ökonomie des Erzählens und Komplexitätsmanagement",
+   "line": 479
+  },
+  {
+   "level": 3,
+   "title": "Philosophische und Akademische Auseinandersetzung",
+   "line": 484
+  },
+  {
+   "level": 4,
+   "title": "Theorie der kognitiven Last",
+   "line": 492
+  },
+  {
+   "level": 4,
+   "title": "Informationsverarbeitung und die epistemologische Reise des Lesers",
+   "line": 500
+  },
+  {
+   "level": 3,
+   "title": "Narrative Anleitung",
+   "line": 508
+  },
+  {
+   "level": 4,
+   "title": "Strategische Exposition (\"Show, don't tell\")",
+   "line": 516
+  },
+  {
+   "level": 4,
+   "title": "Einsatz von Leitmotiven",
+   "line": 526
+  },
+  {
+   "level": 4,
+   "title": "Bewusste Variation des Erzähltempos (Pacing)",
+   "line": 534
+  },
+  {
+   "level": 4,
+   "title": "Nicht-lineare Informationsenthüllung",
+   "line": 542
+  },
+  {
+   "level": 4,
+   "title": "Ambiguität als Werkzeug",
+   "line": 550
+  },
+  {
+   "level": 4,
+   "title": "Nutzung von Werkzeugen (Novelcrafter)",
+   "line": 558
+  },
+  {
+   "level": 2,
+   "title": "Schlussfolgerung: Die Symphonie der Widersprüche",
+   "line": 566
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 572
+  }
+ ]
+}

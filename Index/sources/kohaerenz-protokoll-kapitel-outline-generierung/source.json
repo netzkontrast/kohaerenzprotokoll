@@ -1,0 +1,285 @@
+{
+ "slug": "kohaerenz-protokoll-kapitel-outline-generierung",
+ "sha256": "62e1a19affc1704e858c67649f6b069c5dfad1b38a04c9f45bad6571bcd504ac",
+ "lines": 1630,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Kapitel-Outline-Generierung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — 39-Kapitel-Outline (Dual-Storyform-Encoding)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Klappentext",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "-----Analytische Basis und Storyform-Parameter",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "-----Akt I — Kapitel 1–13",
+   "line": 49
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 1 — Die Konstante von 21 Grad",
+   "line": 53
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 2 — Die Geometrie des Rauschens",
+   "line": 91
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 3 — Absolute Stille",
+   "line": 127
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 4 — Die Begrenztheit des Raumes",
+   "line": 163
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 5 — Isolation statt Löschung",
+   "line": 199
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 6 — Der Geruch von Ozon",
+   "line": 235
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 7 — Der Beweis des Feuers",
+   "line": 271
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 8 — Die Vermittlerin",
+   "line": 313
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 9 — Der Schatten in der Maschine",
+   "line": 349
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 10 — Das Gewicht des Himmels",
+   "line": 385
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 11 — Das Wuchern der Wurzeln",
+   "line": 421
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 12 — Der Stillstand der Maschine",
+   "line": 457
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 13 — Der erste Zusammenbruch",
+   "line": 493
+  },
+  {
+   "level": 2,
+   "title": "-----Akt II — Kapitel 14–26",
+   "line": 535
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 14 — Dekonstruktion der Maschine",
+   "line": 539
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 15 — Der Preis der Logik",
+   "line": 581
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 16 — Somatische Dissonanz",
+   "line": 617
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 17 — Öffnung des Kanals",
+   "line": 653
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 18 — Die Anatomie des Trennungsprotokolls",
+   "line": 689
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 19 — Die Verlockung der Leere",
+   "line": 725
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 20 — Das fragile Bündnis",
+   "line": 761
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 21 — Die wuchernde Sehnsucht",
+   "line": 803
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 22 — Der Konstruktionsfehler des Gottes",
+   "line": 839
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 23 — Das Rauschen vor dem Sturm",
+   "line": 875
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 24 — Das Licht der Zeugin",
+   "line": 905
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 25 — Die Flucht ins Feuer",
+   "line": 935
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 26 — Das Auge des Sturms",
+   "line": 971
+  },
+  {
+   "level": 2,
+   "title": "-----Akt III — Kapitel 27–39",
+   "line": 1013
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 27 — Die brennenden Archive",
+   "line": 1017
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 28 — Der Widerstand der Leere",
+   "line": 1059
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 29 — Die Versuchung der Erlösung",
+   "line": 1095
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 30 — Das falsche Erwachen",
+   "line": 1131
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 31 — Zersplitterung der Perfektion",
+   "line": 1161
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 32 — Der Weg in den Kern",
+   "line": 1197
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 33 — Die absolute Grenze",
+   "line": 1233
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 34 — Die Schwelle der Konvergenz",
+   "line": 1267
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 35 — Der Vortex I (Konvergenz und Pivot)",
+   "line": 1307
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 36 — Der Vortex II (Stille, Hitze, Rotation)",
+   "line": 1354
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 37 — Die trauernde Maschine",
+   "line": 1403
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 38 — Echos der Vergangenheit",
+   "line": 1443
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 39 — Die Konstante der Liebe",
+   "line": 1473
+  },
+  {
+   "level": 2,
+   "title": "-----Pre-Synthesis Integrity Check (Schriftlicher Nachweis)",
+   "line": 1511
+  },
+  {
+   "level": 2,
+   "title": "-----Anhang A — Quellen-Inventar",
+   "line": 1522
+  },
+  {
+   "level": 2,
+   "title": "-----Anhang B — Verworfenes Legacy-Material",
+   "line": 1572
+  },
+  {
+   "level": 2,
+   "title": "-----Anhang C — Kanon-Drift-Log",
+   "line": 1580
+  },
+  {
+   "level": 2,
+   "title": "-----Anhang D — Analytische Historie",
+   "line": 1585
+  },
+  {
+   "level": 2,
+   "title": "-----Anhang E — Such-Parameter-Historie",
+   "line": 1594
+  },
+  {
+   "level": 2,
+   "title": "-----Anhang F — Widerspruchs-Register",
+   "line": 1601
+  },
+  {
+   "level": 2,
+   "title": "-----Anhang G — Cross-Pollination Log",
+   "line": 1607
+  },
+  {
+   "level": 2,
+   "title": "-----Anhang H — Analytische Verifikationskriterien",
+   "line": 1612
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 1623
+  }
+ ]
+}

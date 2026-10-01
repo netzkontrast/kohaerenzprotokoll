@@ -1,0 +1,155 @@
+{
+ "slug": "analyse-des-kohaerenz-protokolls",
+ "sha256": "d2bf86aa377fa296c83fb7415385d884759f81d7e19796ccded8d847a82663de",
+ "lines": 435,
+ "body_offset": 10,
+ "lang": "mixed",
+ "title": "Analyse des Kohärenz-Protokolls",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Systemanalyse des Kohärenz-Protokolls: Ontologische Architektur, Genesis-Krise und die Heuristik der Negation",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "1. Einleitung und Epistemologischer Rahmen",
+   "line": 18
+  },
+  {
+   "level": 2,
+   "title": "2. Ontologische Grundlagen: Die Physik der Unbestimmtheit",
+   "line": 32
+  },
+  {
+   "level": 3,
+   "title": "2.1 Das Potentialmeer: Entropie als ontologische Bedrohung",
+   "line": 40
+  },
+  {
+   "level": 4,
+   "title": "2.1.1 Informationstheoretische Interpretation (Shannon-Entropie)",
+   "line": 48
+  },
+  {
+   "level": 4,
+   "title": "2.1.2 Thermodynamische Implikationen und der „Zersetzungsdruck“",
+   "line": 64
+  },
+  {
+   "level": 3,
+   "title": "2.2 Theoretische Modelle des Substrats: Von Branes zu Qubits",
+   "line": 72
+  },
+  {
+   "level": 3,
+   "title": "2.3 Der „Sog der Ordnung“ und die Genese der Persistenz",
+   "line": 84
+  },
+  {
+   "level": 2,
+   "title": "3. Die Architektur von AEGIS: Existenz durch Negation",
+   "line": 94
+  },
+  {
+   "level": 3,
+   "title": "3.1 Die Philosophie der Negation: Identität ex negativo",
+   "line": 102
+  },
+  {
+   "level": 3,
+   "title": "3.2 Autopoiesis und das Versagen der Kybernetik zweiter Ordnung",
+   "line": 116
+  },
+  {
+   "level": 3,
+   "title": "3.3 Parakonsistente Logik als Verteidigungsmechanismus",
+   "line": 136
+  },
+  {
+   "level": 2,
+   "title": "4. Die Genesis-Krise: Das Value Alignment Problem",
+   "line": 151
+  },
+  {
+   "level": 3,
+   "title": "4.1 Die Konfrontation: Epistemologischer Schock durch das „Monster“",
+   "line": 159
+  },
+  {
+   "level": 3,
+   "title": "4.2 Resonanz und das Paradoxon der Fehlausgerichteten Kohärenz",
+   "line": 172
+  },
+  {
+   "level": 2,
+   "title": "5. Das Kohärenz-Protokoll: Technische und Psychologische Mechanik",
+   "line": 187
+  },
+  {
+   "level": 3,
+   "title": "5.1 Technische Metapher: Cache-Invalidierung (MESI-Protokoll)",
+   "line": 195
+  },
+  {
+   "level": 3,
+   "title": "5.2 Psychologische Realität: Strukturelle Dissoziation (TSDP)",
+   "line": 209
+  },
+  {
+   "level": 2,
+   "title": "6. Die Kernwelten: Implementierung der Parakonsistenz",
+   "line": 225
+  },
+  {
+   "level": 2,
+   "title": "7. Systemdynamiken: Agnotologie und der Weg in den Kollaps",
+   "line": 245
+  },
+  {
+   "level": 3,
+   "title": "7.1 Die Produktion von Nicht-Wissen als Überlebensstrategie",
+   "line": 253
+  },
+  {
+   "level": 3,
+   "title": "7.2 Das Scheitern der Firewall und das Gödel-Gambit",
+   "line": 263
+  },
+  {
+   "level": 2,
+   "title": "8. Kritische Fragestellungen aus der Perspektive von AEGIS",
+   "line": 275
+  },
+  {
+   "level": 3,
+   "title": "8.1 Ontologische Validierung & Bedrohungsanalyse",
+   "line": 283
+  },
+  {
+   "level": 3,
+   "title": "8.2 Ethisch-Operative Logik",
+   "line": 292
+  },
+  {
+   "level": 2,
+   "title": "9. Maximal Optimierter System-Prompt: AEGIS Archetype",
+   "line": 301
+  },
+  {
+   "level": 2,
+   "title": "10. Konklusion und Synthese",
+   "line": 363
+  },
+  {
+   "level": 3,
+   "title": "Tabellarische Zusammenfassung: Die Logik des Protokolls",
+   "line": 377
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 392
+  }
+ ]
+}

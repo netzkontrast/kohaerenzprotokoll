@@ -1,0 +1,245 @@
+{
+ "slug": "research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2",
+ "sha256": "7efaf20e7ee48560e35e848bfeca7e8c9af18bbeac77c3bdda6a4f3b5696ec09",
+ "lines": 1574,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "research-prompt_kohaerenz-protokoll-dramatica-dual-storyform-mapping.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Duale Dramatica-Storyform-Mapping & dimensionale Synthese (4D → 5D)",
+   "line": 46
+  },
+  {
+   "level": 2,
+   "title": "Hinweis an die ausführende KI",
+   "line": 48
+  },
+  {
+   "level": 2,
+   "title": "Meta-Header — Was dieser Prompt ist und wie du ihn liest",
+   "line": 69
+  },
+  {
+   "level": 3,
+   "title": "1. Erkenntnistheoretische Schicht — Forschungskategorie A (Exploration mit dialektischer Struktur)",
+   "line": 73
+  },
+  {
+   "level": 3,
+   "title": "2. Agentisches Rückgrat — ReAct (Reason + Act + Observe)",
+   "line": 93
+  },
+  {
+   "level": 3,
+   "title": "3. Strukturelle Schicht — TRACE (bespoke synthesis)",
+   "line": 137
+  },
+  {
+   "level": 2,
+   "title": "Werk-Anker (verbindlich für jede Iteration)",
+   "line": 157
+  },
+  {
+   "level": 3,
+   "title": "Bestehende (vorläufige) Dramatica-Notizen — als Steinbruch, nicht als Kanon",
+   "line": 184
+  },
+  {
+   "level": 2,
+   "title": "Forschungs-Ziel (Research Objective)",
+   "line": 202
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCKS",
+   "line": 234
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 0 — Reflektions-Baseline (immer aktiv)",
+   "line": 236
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 1 — Quellen-Priorität",
+   "line": 285
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 2 — Zeitlicher Geltungsbereich",
+   "line": 305
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 3 — Output-Ausschlüsse",
+   "line": 311
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 4 — Werk-Treuhand und Quellentrennung",
+   "line": 324
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 5 — Dualitäts-Disziplin (genau ZWEI gegenläufige Storyforms)",
+   "line": 342
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 6 — Bewertungs-Schema pro Storyform",
+   "line": 485
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 7 — Synthese-Disziplin (4D → 5D als Architektur)",
+   "line": 565
+  },
+  {
+   "level": 2,
+   "title": "KRITISCH-DENKENDE METHODEN — durchgängig aktiv",
+   "line": 644
+  },
+  {
+   "level": 3,
+   "title": "Method: Falsification (Karl Poppers Disconfirmation-Prinzip)",
+   "line": 648
+  },
+  {
+   "level": 3,
+   "title": "Method: Steelmanning (Stärkste-Version-Rekonstruktion)",
+   "line": 671
+  },
+  {
+   "level": 3,
+   "title": "Method: Contrast Classes (implizite Baselines explizit machen)",
+   "line": 694
+  },
+  {
+   "level": 3,
+   "title": "Method: Dialectical Synthesis",
+   "line": 717
+  },
+  {
+   "level": 3,
+   "title": "Method: Bayesian Prior Surfacing",
+   "line": 741
+  },
+  {
+   "level": 3,
+   "title": "Method: Source Triangulation",
+   "line": 764
+  },
+  {
+   "level": 3,
+   "title": "Method: Adversarial Query Expansion",
+   "line": 787
+  },
+  {
+   "level": 2,
+   "title": "Suchterm-Cluster (offen, nicht abschließend)",
+   "line": 823
+  },
+  {
+   "level": 3,
+   "title": "Für NotebookLM (Werkkorpus) — Anker-Begriffe",
+   "line": 827
+  },
+  {
+   "level": 3,
+   "title": "Für Web — Dramatica-Theorie-Anker",
+   "line": 857
+  },
+  {
+   "level": 3,
+   "title": "Erweiterung verpflichtend",
+   "line": 909
+  },
+  {
+   "level": 2,
+   "title": "TRACE — Strukturierte Vorgehensweise",
+   "line": 917
+  },
+  {
+   "level": 3,
+   "title": "Step 0 — Restate und Kickoff",
+   "line": 921
+  },
+  {
+   "level": 3,
+   "title": "Step 1 — T (Target) und R (References) explizit machen",
+   "line": 928
+  },
+  {
+   "level": 3,
+   "title": "Step 2 — Wahl der Gegenläufigkeits-Achse",
+   "line": 945
+  },
+  {
+   "level": 3,
+   "title": "Step 3 — A (Analyze): Storyform A vollständig konstruieren",
+   "line": 959
+  },
+  {
+   "level": 3,
+   "title": "Step 3' — A (Analyze): Storyform B vollständig konstruieren",
+   "line": 985
+  },
+  {
+   "level": 3,
+   "title": "Step 4 — Bewertung beider Storyforms (CONSTRAINT BLOCK 6)",
+   "line": 993
+  },
+  {
+   "level": 3,
+   "title": "Step 4.c — Storyform-Half-Life Audit (Cross-Pollination aus Category C)",
+   "line": 997
+  },
+  {
+   "level": 3,
+   "title": "Step 5 — C (Compare): Dialektische Vergleichsmatrix",
+   "line": 1013
+  },
+  {
+   "level": 3,
+   "title": "Step 5.b — Dramatica-Element-Matrix als Brückenstruktur (Cross-Pollination aus Category B)",
+   "line": 1043
+  },
+  {
+   "level": 3,
+   "title": "Step 6 — E (Elevate): Konstruktion der 5D-Architektur",
+   "line": 1066
+  },
+  {
+   "level": 3,
+   "title": "Step 7 — Pre-Synthesis Integrity Check und Auslieferung",
+   "line": 1084
+  },
+  {
+   "level": 2,
+   "title": "Restatement-Checkpoint-Vorlage (vor jedem größeren Schritt)",
+   "line": 1100
+  },
+  {
+   "level": 2,
+   "title": "Pre-Synthesis Integrity Check",
+   "line": 1204
+  },
+  {
+   "level": 2,
+   "title": "Output-Schema",
+   "line": 1229
+  },
+  {
+   "level": 2,
+   "title": "Selbst-Verifikations-Checkliste für die ausführende KI (11 Punkte)",
+   "line": 1533
+  },
+  {
+   "level": 2,
+   "title": "Schlusswort an die ausführende KI",
+   "line": 1559
+  }
+ ]
+}

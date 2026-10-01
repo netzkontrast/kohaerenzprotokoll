@@ -1,0 +1,210 @@
+{
+ "slug": "kontext-outline",
+ "sha256": "7834f6b84d80c9c4a85d45e915ebfac07a25a4cbcadb6e882d96234ddc95110c",
+ "lines": 505,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kontext outline",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Chapter Prologue: [Genesis]",
+   "line": 63
+  },
+  {
+   "level": 3,
+   "title": "Chapter 1: [Der Glitch im Spiegel]",
+   "line": 76
+  },
+  {
+   "level": 3,
+   "title": "Chapter 2: [Echos in der Konstrukt-Stadt]",
+   "line": 87
+  },
+  {
+   "level": 3,
+   "title": "Chapter 3: [Der Schatten des Beschützers]",
+   "line": 98
+  },
+  {
+   "level": 3,
+   "title": "Chapter 4: [Stimmen der Fürsorge]",
+   "line": 109
+  },
+  {
+   "level": 3,
+   "title": "Chapter 5: [Der Ruf der Resonanz-Landschaft]",
+   "line": 120
+  },
+  {
+   "level": 3,
+   "title": "Chapter 6: [Fragmente der Vergangenheit]",
+   "line": 131
+  },
+  {
+   "level": 3,
+   "title": "Chapter 7: [Phobien im System]",
+   "line": 142
+  },
+  {
+   "level": 3,
+   "title": "Chapter 8: [Die Logik des Gaslichts]",
+   "line": 153
+  },
+  {
+   "level": 3,
+   "title": "Chapter 9: [Die Mauern der Grenzfeste]",
+   "line": 164
+  },
+  {
+   "level": 3,
+   "title": "Chapter 10: [Der Tanz der Anteile]",
+   "line": 175
+  },
+  {
+   "level": 3,
+   "title": "Chapter 11: [Der erste Riss]",
+   "line": 186
+  },
+  {
+   "level": 3,
+   "title": "Chapter 12: [Die Frage nach dem Selbst]",
+   "line": 198
+  },
+  {
+   "level": 3,
+   "title": "Chapter 13: [Am Abgrund: Die Entscheidung zur Transzendenz]",
+   "line": 209
+  },
+  {
+   "level": 3,
+   "title": "Chapter 14: [Die Grammatik der Kontrolle: Eintritt in die Meta-Ebene (Überwelt)]",
+   "line": 223
+  },
+  {
+   "level": 3,
+   "title": "Chapter 15: [Das Echo im System: Identifikation von Mustern und Zyklen]",
+   "line": 234
+  },
+  {
+   "level": 3,
+   "title": "Chapter 16: [Die Archäologie der Seele: Gezielte Erinnerungssuche in KW2]",
+   "line": 245
+  },
+  {
+   "level": 3,
+   "title": "Chapter 17: [Der Garten der Möglichkeiten: Erkundung von KW4]",
+   "line": 256
+  },
+  {
+   "level": 3,
+   "title": "Chapter 18: [Der Beobachter im System: Meta-Reflexion über AEGIS]",
+   "line": 267
+  },
+  {
+   "level": 3,
+   "title": "Chapter 19: [Das Flüstern von Außen: Erster Kontakt mit Juna/V]",
+   "line": 279
+  },
+  {
+   "level": 3,
+   "title": "Chapter 20: [Der entlarvte Mechanismus: Das AEGIS-Paradoxon verstehen]",
+   "line": 290
+  },
+  {
+   "level": 3,
+   "title": "Chapter 21: [Der Preis der Wahrheit: Interne Konflikte bei der Integration neuen Wissens]",
+   "line": 302
+  },
+  {
+   "level": 3,
+   "title": "Chapter 22: [Die Ethik des Codes: Reflexion über Verantwortung, Schuld und Legitimität]",
+   "line": 313
+  },
+  {
+   "level": 3,
+   "title": "Chapter 23: [Den Wächter überlisten: Strategische Konfrontation in KW3]",
+   "line": 324
+  },
+  {
+   "level": 3,
+   "title": "Chapter 24: [Das Herz des Paradoxons: Direkte Beobachtung der „Fehlausgerichteten Kohärenz“]",
+   "line": 335
+  },
+  {
+   "level": 3,
+   "title": "Chapter 25: [Die Botschaft von Außen: Vertiefung des Kontakts zu Juna/V]",
+   "line": 346
+  },
+  {
+   "level": 3,
+   "title": "Chapter 26: [Die Ruhe vor dem Sturm: Finale Integration und Planung]",
+   "line": 357
+  },
+  {
+   "level": 3,
+   "title": "Chapter 27: [Der Sturm beginnt: Direkte Konfrontation mit AEGIS]",
+   "line": 370
+  },
+  {
+   "level": 3,
+   "title": "Chapter 28: [Die Logik brechen: Konfrontation mit LogOS]",
+   "line": 380
+  },
+  {
+   "level": 3,
+   "title": "Chapter 29: [Das Paradox der Toleranz: Ethisches Dilemma]",
+   "line": 391
+  },
+  {
+   "level": 3,
+   "title": "Chapter 30: [Die Befreiung der Erinnerung: Finale Konfrontation mit Mnemosyne]",
+   "line": 402
+  },
+  {
+   "level": 3,
+   "title": "Chapter 31: [Die Fesseln sprengen: Durchbrechen der letzten Verteidigung (Cerberus)]",
+   "line": 413
+  },
+  {
+   "level": 3,
+   "title": "Chapter 32: [Im Auge des Sturms: Konfrontation mit AEGIS' Kern]",
+   "line": 423
+  },
+  {
+   "level": 3,
+   "title": "Chapter 33: [Den Code knacken: Aktive Destabilisierung/Transformation von AEGIS]",
+   "line": 434
+  },
+  {
+   "level": 3,
+   "title": "Chapter 34: [Blick in den Abgrund/Ursprung: Erster klarer Kontakt mit dem Fundament]",
+   "line": 445
+  },
+  {
+   "level": 3,
+   "title": "Chapter 35: [Der letzte Schlag/Die Geburt des Neuen: Klimax der Konfrontation mit AEGIS]",
+   "line": 457
+  },
+  {
+   "level": 3,
+   "title": "Chapter 36: [Das Echo der Stille: Auflösung des externen Konflikts]",
+   "line": 468
+  },
+  {
+   "level": 3,
+   "title": "Chapter 37: [Die Bürde der Freiheit: Entscheidung über die Zukunft]",
+   "line": 477
+  },
+  {
+   "level": 3,
+   "title": "Chapter 38: [Der Moment der Veränderung: Konkretisierung des neuen Zustands]",
+   "line": 489
+  },
+  {
+   "level": 3,
+   "title": "Chapter 39: [Leben in Resonanz: Der neue Status Quo]",
+   "line": 497
+  }
+ ]
+}

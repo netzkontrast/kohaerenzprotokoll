@@ -1,0 +1,95 @@
+{
+ "slug": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+ "sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+ "lines": 172,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Systems Narrative Analysis: The Coherence Protocol (Kanon 2026-05-08)",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Systems Narrative Analysis: The Coherence Protocol (Kanon 2026-05-08)",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "1. Strategic Context and Thematic Foundations",
+   "line": 13
+  },
+  {
+   "level": 5,
+   "title": "Operational Constraints (The Hard No)",
+   "line": 17
+  },
+  {
+   "level": 4,
+   "title": "2. MC-A: Kael / Memory (Storyform A)",
+   "line": 26
+  },
+  {
+   "level": 4,
+   "title": "3. MC-B: AEGIS / Progress (Storyform B)",
+   "line": 40
+  },
+  {
+   "level": 4,
+   "title": "4. IC-A: Juna / Genesis Crisis",
+   "line": 54
+  },
+  {
+   "level": 4,
+   "title": "5. IC-B: Kael as a Fixed Idea",
+   "line": 65
+  },
+  {
+   "level": 4,
+   "title": "6. OS-A: Simulation Manipulation (Psychology)",
+   "line": 76
+  },
+  {
+   "level": 4,
+   "title": "7. OS-B: The 12 Protocols / Erasure (Physics)",
+   "line": 87
+  },
+  {
+   "level": 4,
+   "title": "8. RS-A: Kael & Juna Material (Physics)",
+   "line": 98
+  },
+  {
+   "level": 4,
+   "title": "9. RS-B: Kael ↔ AEGIS Symbiosis (Psychology)",
+   "line": 109
+  },
+  {
+   "level": 4,
+   "title": "10. THE VORTEX: Ch35-36 (Climax/Pivot)",
+   "line": 118
+  },
+  {
+   "level": 5,
+   "title": "The 5-Point Sequence",
+   "line": 122
+  },
+  {
+   "level": 4,
+   "title": "11. OPEN-Q: Post-Vortex & Missing Somatics",
+   "line": 130
+  },
+  {
+   "level": 4,
+   "title": "12. BACKLOG & INDEX",
+   "line": 145
+  },
+  {
+   "level": 5,
+   "title": "BACKLOG (Non-Compatible Quarry)",
+   "line": 147
+  },
+  {
+   "level": 5,
+   "title": "INDEX",
+   "line": 153
+  }
+ ]
+}

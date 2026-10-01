@@ -1,0 +1,90 @@
+{
+ "slug": "risikoanalysebericht-eine-systematische-bewertung-der-bedroh",
+ "sha256": "787a686099180de7b0b0bb985c69ba512e34202d5c19a03c5f247e7f2e044992",
+ "lines": 100,
+ "body_offset": 1,
+ "lang": "de",
+ "title": "Risikoanalysebericht: Eine systematische Bewertung der Bedrohungen für die wissenschaftliche Objektivität",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Risikoanalysebericht: Eine systematische Bewertung der Bedrohungen für die wissenschaftliche Objektivität",
+   "line": 1
+  },
+  {
+   "level": 2,
+   "title": "1.0 Einleitung: Das Ideal der wissenschaftlichen Objektivität und seine grundlegenden Annahmen",
+   "line": 3
+  },
+  {
+   "level": 2,
+   "title": "2.0 Erkenntnistheoretische Schwachstellen: Grundlegende Herausforderungen an die Schnittstelle zwischen Beobachter und Realität",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "Theoriebeladenheit der Beobachtung",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "Paradigmenwechsel und Inkommensurabilität",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "Die Grenzen des menschlichen Wissens: Kants Unterscheidung",
+   "line": 25
+  },
+  {
+   "level": 3,
+   "title": "Radikale Kritiken: Postmoderne und Macht/Wissen",
+   "line": 29
+  },
+  {
+   "level": 2,
+   "title": "3.0 Psychologische Risikofaktoren: Die inhärenten Voreingenommenheiten des wissenschaftlichen Akteurs",
+   "line": 35
+  },
+  {
+   "level": 2,
+   "title": "4.0 Methodische und praktische Risiken: Mängel im wissenschaftlichen Prozess",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "Risiken bei Datenerhebung und Formalisierung",
+   "line": 58
+  },
+  {
+   "level": 3,
+   "title": "Risiken institutioneller Validierungsprozesse",
+   "line": 64
+  },
+  {
+   "level": 2,
+   "title": "5.0 Fallstudie zum systemischen Versagen: Das AEGIS-Paradigma als warnendes Beispiel",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "AEGIS' kohärentistische Grundlage",
+   "line": 75
+  },
+  {
+   "level": 3,
+   "title": "Der manifestierte Isolationseinwand",
+   "line": 79
+  },
+  {
+   "level": 3,
+   "title": "Systemische Parallelen zur psychologischen Voreingenommenheit",
+   "line": 83
+  },
+  {
+   "level": 2,
+   "title": "6.0 Fazit: Neubewertung des Objektivitätsanspruchs im Lichte inhärenter Risiken",
+   "line": 87
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "slug": "monstergruppe-logik-und-metaphern",
+ "sha256": "e1e437e246ec8e54e66e08ef00ac7b1489ae16e6e3c6c08c050c927c0cf32800",
+ "lines": 456,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Monstergruppe: Logik und Metaphern",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Die Struktur des Ungeheuerlichen: Eine Analyse der Monstergruppe, ihrer Untergruppen und ihrer Verbindungen für narrative Zwecke",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Einleitung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Die Monstergruppe (M): Definition und Bedeutung",
+   "line": 28
+  },
+  {
+   "level": 2,
+   "title": "Untergruppen und Struktur der Monstergruppe",
+   "line": 50
+  },
+  {
+   "level": 3,
+   "title": "Die „Happy Family“ und die „Pariahs“: Subquotienten vs. Untergruppen",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "Maximale Untergruppen",
+   "line": 75
+  },
+  {
+   "level": 3,
+   "title": "Die Griess-Algebra",
+   "line": 96
+  },
+  {
+   "level": 2,
+   "title": "Monstrous Moonshine und externe Verbindungen",
+   "line": 106
+  },
+  {
+   "level": 3,
+   "title": "Die Moonshine-Vermutungen",
+   "line": 110
+  },
+  {
+   "level": 3,
+   "title": "Vertexoperatoralgebren (VOAs) als Brücke",
+   "line": 122
+  },
+  {
+   "level": 3,
+   "title": "Verbindungen zur Konformen Feldtheorie (CFT) und Stringtheorie",
+   "line": 140
+  },
+  {
+   "level": 3,
+   "title": "Konzeptuelle „Anwendungen“ und die Signifikanz von Moonshine",
+   "line": 150
+  },
+  {
+   "level": 2,
+   "title": "Vergleich mit anderen sporadischen Gruppen",
+   "line": 160
+  },
+  {
+   "level": 2,
+   "title": "Analyse mit Logik: Klassisch vs. Parakonsistent",
+   "line": 237
+  },
+  {
+   "level": 3,
+   "title": "Die Rolle der klassischen Logik",
+   "line": 241
+  },
+  {
+   "level": 3,
+   "title": "Herausforderungen des Verständnisses und die Grenzen der Dekonstruktion",
+   "line": 247
+  },
+  {
+   "level": 3,
+   "title": "Einführung in die parakonsistente Logik",
+   "line": 264
+  },
+  {
+   "level": 3,
+   "title": "Parakonsistenz und die Monstergruppe: Eine theoretische Diskussion",
+   "line": 295
+  },
+  {
+   "level": 2,
+   "title": "Die Monstergruppe als Metapher: Narrative Potenziale",
+   "line": 308
+  },
+  {
+   "level": 2,
+   "title": "Schlussfolgerungen: Das Fortwährende Erbe des Monsters",
+   "line": 376
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 386
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "genesis-recherche-anleitung-umsetzung",
+ "sha256": "6e08a31bd2dbf0d26d96da0534ad2328419d057343739424fa149dbdbc6f3b43",
+ "lines": 1542,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Genesis: Recherche, Anleitung, Umsetzung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Genesis: Umsetzungsanleitung (Phase 3) und Prosaversion (Phase 4)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Phase 3: Detaillierte Umsetzungsanleitung",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "I. Einleitung",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "II. Szenen-Blueprint (Szenen 1-13)",
+   "line": 36
+  },
+  {
+   "level": 3,
+   "title": "-----III. Anhang: Konsolidierte Forschungsressourcen",
+   "line": 1041
+  },
+  {
+   "level": 3,
+   "title": "IV. Schlussfolgerungen und Empfehlungen für Phase 4",
+   "line": 1143
+  },
+  {
+   "level": 2,
+   "title": "----------Phase 4: Prosaversion \"Genesis\" (Szenen 1-13)",
+   "line": 1159
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 1405
+  }
+ ]
+}

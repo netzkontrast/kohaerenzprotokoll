@@ -1,0 +1,275 @@
+{
+ "slug": "gravity-as-narrative-metaphor-for-reality",
+ "sha256": "4fffc540f33518ad3baf858e9d6530919284e1d0da4e806e7cd8a37c9049a00d",
+ "lines": 594,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Gravity as Narrative Metaphor for Reality",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "The Gravity of Being: A Metaphysical Inquiry into Coherence, Correspondence, and the Architecture of Reality",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Executive Preface: The Convergence of Anomalies",
+   "line": 18
+  },
+  {
+   "level": 2,
+   "title": "Part I: The Anomalous Architecture of the Physical World",
+   "line": 28
+  },
+  {
+   "level": 3,
+   "title": "1. The Hierarchy Problem: The Unbearable Lightness of Gravity",
+   "line": 33
+  },
+  {
+   "level": 4,
+   "title": "1.1 The Scale of the Discrepancy",
+   "line": 41
+  },
+  {
+   "level": 4,
+   "title": "1.2 Technical Naturalness and The Crisis of the Standard Model",
+   "line": 53
+  },
+  {
+   "level": 4,
+   "title": "1.3 The \"Leakage\" Hypothesis: Brane Cosmology",
+   "line": 63
+  },
+  {
+   "level": 3,
+   "title": "2. Entropic Gravity: The Illusion of Fundamental Force",
+   "line": 80
+  },
+  {
+   "level": 4,
+   "title": "2.1 Gravity as an Emergent Phenomenon",
+   "line": 88
+  },
+  {
+   "level": 4,
+   "title": "2.2 Implications for \"Dark Matter\" and Cosmology",
+   "line": 100
+  },
+  {
+   "level": 3,
+   "title": "3. The Geometry of Connection: ER = EPR",
+   "line": 112
+  },
+  {
+   "level": 4,
+   "title": "3.1 Wormholes and Entanglement",
+   "line": 120
+  },
+  {
+   "level": 4,
+   "title": "3.2 Spacetime from Entanglement",
+   "line": 133
+  },
+  {
+   "level": 4,
+   "title": "3.3 The Dynamic Wormhole",
+   "line": 143
+  },
+  {
+   "level": 2,
+   "title": "Part II: The Architecture of Truth and Systemic Closure",
+   "line": 153
+  },
+  {
+   "level": 3,
+   "title": "4. Theories of Truth: The Internal vs. The External",
+   "line": 161
+  },
+  {
+   "level": 4,
+   "title": "4.1 The Correspondence Theory",
+   "line": 169
+  },
+  {
+   "level": 4,
+   "title": "4.2 The Coherence Theory",
+   "line": 179
+  },
+  {
+   "level": 3,
+   "title": "5. Autopoiesis and Epistemic Closure",
+   "line": 192
+  },
+  {
+   "level": 4,
+   "title": "5.1 Operational Closure",
+   "line": 200
+  },
+  {
+   "level": 4,
+   "title": "5.2 Epistemic Blindness and Dimensional Collapse",
+   "line": 212
+  },
+  {
+   "level": 4,
+   "title": "5.3 Entropic Disintegration of the Closed System",
+   "line": 222
+  },
+  {
+   "level": 3,
+   "title": "6. Synergetics: The Slaving Principle",
+   "line": 232
+  },
+  {
+   "level": 4,
+   "title": "6.1 Order Parameters and the Slaving Principle",
+   "line": 240
+  },
+  {
+   "level": 4,
+   "title": "6.2 Self-Organization from Chaos",
+   "line": 250
+  },
+  {
+   "level": 2,
+   "title": "Part III: The Psychology of the Event Horizon",
+   "line": 260
+  },
+  {
+   "level": 3,
+   "title": "7. Structural Dissociation: ANP and EP",
+   "line": 268
+  },
+  {
+   "level": 4,
+   "title": "7.1 The Bipartite Split",
+   "line": 276
+  },
+  {
+   "level": 4,
+   "title": "7.2 Levels of Dissociation",
+   "line": 287
+  },
+  {
+   "level": 4,
+   "title": "7.3 Integration vs. Fusion",
+   "line": 297
+  },
+  {
+   "level": 4,
+   "title": "7.4 Neurobiological Evidence (The \"Leakage\" of Blood Flow)",
+   "line": 307
+  },
+  {
+   "level": 3,
+   "title": "8. The Black Hole Metaphor and Strange Attractors",
+   "line": 315
+  },
+  {
+   "level": 4,
+   "title": "8.1 The Black Hole in the Psyche",
+   "line": 320
+  },
+  {
+   "level": 4,
+   "title": "8.2 Strange Attractors and Chaos Theory",
+   "line": 332
+  },
+  {
+   "level": 2,
+   "title": "Part IV: The Bridge – Quantum Darwinism and Moonshine",
+   "line": 345
+  },
+  {
+   "level": 3,
+   "title": "9. Quantum Darwinism: Environment as Witness",
+   "line": 353
+  },
+  {
+   "level": 4,
+   "title": "9.1 Survival of the Fittest State",
+   "line": 361
+  },
+  {
+   "level": 4,
+   "title": "9.2 The Environment as Witness",
+   "line": 372
+  },
+  {
+   "level": 3,
+   "title": "10. Monstrous Moonshine: The Hidden Symmetry",
+   "line": 382
+  },
+  {
+   "level": 4,
+   "title": "10.1 The Coincidence: 196883 vs 196884",
+   "line": 390
+  },
+  {
+   "level": 4,
+   "title": "10.2 The Black Hole Connection (Witten's Conjecture)",
+   "line": 401
+  },
+  {
+   "level": 2,
+   "title": "Part V: Synthesis – The Kohärenz Protokoll Framework",
+   "line": 413
+  },
+  {
+   "level": 3,
+   "title": "11. The Architecture of the Narrative",
+   "line": 418
+  },
+  {
+   "level": 4,
+   "title": "11.1 The Problem: Entropic Leakage",
+   "line": 426
+  },
+  {
+   "level": 4,
+   "title": "11.2 The Protocol (The False Solution): Operational Closure",
+   "line": 434
+  },
+  {
+   "level": 4,
+   "title": "11.3 The Resolution (The True Solution): Dimensional Integration",
+   "line": 448
+  },
+  {
+   "level": 3,
+   "title": "12. Conclusion",
+   "line": 460
+  },
+  {
+   "level": 2,
+   "title": "Appendix: Structured Data Analysis",
+   "line": 468
+  },
+  {
+   "level": 3,
+   "title": "Table 1: The Hierarchy of Forces vs. The Hierarchy of Self",
+   "line": 473
+  },
+  {
+   "level": 3,
+   "title": "Table 2: Models of Reality Verification and their Narrative Role",
+   "line": 487
+  },
+  {
+   "level": 3,
+   "title": "Table 3: The Geometry of Trauma",
+   "line": 501
+  },
+  {
+   "level": 3,
+   "title": "Table 4: Integration of Concepts for Kohärenz Protokoll Story Arcs",
+   "line": 516
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 529
+  }
+ ]
+}

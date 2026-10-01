@@ -1,0 +1,110 @@
+{
+ "slug": "aegis-protokolle-kritische-evaluation-neukonzeption",
+ "sha256": "fd38b89ca18ab268d6465e5e5c2cd553929899a3d3830ce7dc55c1b94ac740a6",
+ "lines": 289,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "AEGIS-Protokolle: Kritische Evaluation, Neukonzeption",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kritische Evaluation hypothetischer AEGIS-Protokoll-Skizzen: Eine prinzipielle Analyse im Lichte der Kernphilosophie",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "II. Analyse potenzieller interner Kohäsionsprobleme in der hypothetischen Protokollsuite",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "A. Terminologische und funktionale Konflikte",
+   "line": 27
+  },
+  {
+   "level": 3,
+   "title": "B. Antizipierte konzeptionelle Lücken in der Operationalisierung",
+   "line": 36
+  },
+  {
+   "level": 2,
+   "title": "III. Bewertung der Übereinstimmung mit der Kernphilosophie",
+   "line": 68
+  },
+  {
+   "level": 3,
+   "title": "A. Verzicht auf Vertrauen/Kontrolle (No-Trust / No-Control Prinzip)",
+   "line": 72
+  },
+  {
+   "level": 3,
+   "title": "B. Kohärenz als Existenzbedingung & Ontologische Exklusion",
+   "line": 81
+  },
+  {
+   "level": 3,
+   "title": "C. Emergenz durch Negation von Inkohärenz",
+   "line": 90
+  },
+  {
+   "level": 3,
+   "title": "D. Rekursion und Selbstverifikation",
+   "line": 99
+  },
+  {
+   "level": 3,
+   "title": "E. Funktionale Ontologie",
+   "line": 108
+  },
+  {
+   "level": 3,
+   "title": "F. Operative Geschlossenheit",
+   "line": 116
+  },
+  {
+   "level": 3,
+   "title": "G. Entropisches Gatekeeping",
+   "line": 124
+  },
+  {
+   "level": 2,
+   "title": "IV. Synthese impliziter Annahmen und grundlegender Konflikte",
+   "line": 132
+  },
+  {
+   "level": 2,
+   "title": "V. Schlussfolgerung: Zusammenfassung der Schwachstellen und Imperative für die Neukonzeption",
+   "line": 143
+  },
+  {
+   "level": 3,
+   "title": "A. Konsolidierte Übersicht der hypothetisierten Schwachstellen",
+   "line": 147
+  },
+  {
+   "level": 3,
+   "title": "B. Tabelle: Zuordnung von AEGIS-Prinzipien zu antizipierten Protokollfehlern",
+   "line": 157
+  },
+  {
+   "level": 3,
+   "title": "C. Bereiche, die einer fundamentalen Neukonzeption bedürfen",
+   "line": 177
+  },
+  {
+   "level": 3,
+   "title": "D. Vorausschauende Empfehlungen",
+   "line": 187
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 197
+  }
+ ]
+}

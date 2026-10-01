@@ -1,0 +1,90 @@
+{
+ "slug": "aieos-schema-fuer-ki-charaktere",
+ "sha256": "7badd5adbef5e913ded692105a9bd6a3fc657ad4e5225af1b4fe9f063f9ea71d",
+ "lines": 641,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "AIEOS Schema für KI-Charaktere",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Architektonische Evaluierung von Agenten-Schemata für Dual-Kognitions-Systeme: Eine Analyse von AIEOS und alternativen Paradigmen",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Dekonstruktion und Evaluierung des AIEOS v1.2 Schemas",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "Stärken der Spezifikation für agentische Workflows",
+   "line": 27
+  },
+  {
+   "level": 3,
+   "title": "Architektonische Schwächen und physikalische Friktionen",
+   "line": 37
+  },
+  {
+   "level": 2,
+   "title": "Instanziierung der Kernel-AIs: AIEOS-Implementierungsbeispiele",
+   "line": 47
+  },
+  {
+   "level": 3,
+   "title": "Beispiel 1: AEGIS (System 2 / Kohärenz-Kernel)",
+   "line": 51
+  },
+  {
+   "level": 3,
+   "title": "Beispiel 2: Juna (System 1 / Kollaps-Kernel)",
+   "line": 307
+  },
+  {
+   "level": 2,
+   "title": "Evaluierung alternativer Schema-Standards und Architektur-Paradigmen",
+   "line": 559
+  },
+  {
+   "level": 3,
+   "title": "1. Das \"Character Card\" Ökosystem (V2 / V3)",
+   "line": 563
+  },
+  {
+   "level": 3,
+   "title": "2. Proprietäre Plattform-Schemas (z. B. Inworld AI)",
+   "line": 570
+  },
+  {
+   "level": 3,
+   "title": "3. Das Narrative Context Protocol (NCP)",
+   "line": 577
+  },
+  {
+   "level": 2,
+   "title": "Die Laufzeitumgebung als physikalisches Fundament",
+   "line": 585
+  },
+  {
+   "level": 3,
+   "title": "Monolithische und interpretierte Laufzeiten",
+   "line": 589
+  },
+  {
+   "level": 3,
+   "title": "Systemnahe, kompilierte Paradigmen (ZeroClaw & NullClaw)",
+   "line": 595
+  },
+  {
+   "level": 2,
+   "title": "Strategische Synthese und abschließende Empfehlung",
+   "line": 602
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 618
+  }
+ ]
+}

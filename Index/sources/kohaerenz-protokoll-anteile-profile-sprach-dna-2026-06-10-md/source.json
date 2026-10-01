@@ -1,0 +1,220 @@
+{
+ "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+ "sha256": "4c61b5d01394576ed0ff54cc6ec44b6a612597b66341ab638440e68e7b0cba63",
+ "lines": 1130,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Anteile, Profile, Sprach-DNA",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "§0 · Lese-Anleitung des Profilformats",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "§1 · Architektur-Übersicht",
+   "line": 40
+  },
+  {
+   "level": 2,
+   "title": "§2 · Die fünf ANPs (Apparently Normal Parts)",
+   "line": 101
+  },
+  {
+   "level": 3,
+   "title": "Kael (Host) — Komponente 734",
+   "line": 103
+  },
+  {
+   "level": 3,
+   "title": "Lex (Rationalist)",
+   "line": 166
+  },
+  {
+   "level": 3,
+   "title": "Alex (Protektor)",
+   "line": 217
+  },
+  {
+   "level": 3,
+   "title": "Rhys (Caregiver)",
+   "line": 268
+  },
+  {
+   "level": 3,
+   "title": "Selene (Integrator / ISH)",
+   "line": 320
+  },
+  {
+   "level": 2,
+   "title": "§3 · Die fünf EPs (Emotional Parts)",
+   "line": 371
+  },
+  {
+   "level": 3,
+   "title": "Nyx (Fight) — Schicht 2",
+   "line": 373
+  },
+  {
+   "level": 3,
+   "title": "Kiko (Freeze / Kind) — Schicht 1",
+   "line": 423
+  },
+  {
+   "level": 3,
+   "title": "Lia (Ambivalent / Kind) — Schicht 1",
+   "line": 474
+  },
+  {
+   "level": 3,
+   "title": "Isabelle (Sexualisiert / Fight-via-Control) — Schicht 1",
+   "line": 525
+  },
+  {
+   "level": 3,
+   "title": "Moros (Kollaps) — Schicht 1",
+   "line": 576
+  },
+  {
+   "level": 2,
+   "title": "§4 · Sonder-Kategorie",
+   "line": 627
+  },
+  {
+   "level": 3,
+   "title": "Argus (Meta-Kognitiv)",
+   "line": 629
+  },
+  {
+   "level": 2,
+   "title": "§5 · Spiegel-Alter (Korrelat-Achse)",
+   "line": 681
+  },
+  {
+   "level": 3,
+   "title": "Silas (Juna-Echo)",
+   "line": 685
+  },
+  {
+   "level": 3,
+   "title": "Oblivion (AEGIS-Echo)",
+   "line": 741
+  },
+  {
+   "level": 2,
+   "title": "§6 · Systeminterne Konflikte — Vollständige Matrix",
+   "line": 799
+  },
+  {
+   "level": 3,
+   "title": "§6.1 Primäre ANP↔EP-Phobien (das Klebstoff-System)",
+   "line": 803
+  },
+  {
+   "level": 3,
+   "title": "§6.2 ANP↔ANP-Konflikte (Strategie-Reibungen)",
+   "line": 815
+  },
+  {
+   "level": 3,
+   "title": "§6.3 EP↔EP-Dynamiken (Trauma-Resonanzen)",
+   "line": 825
+  },
+  {
+   "level": 3,
+   "title": "§6.4 Spiegel-Konflikt — Silas ↔ Oblivion (physikalisch)",
+   "line": 835
+  },
+  {
+   "level": 3,
+   "title": "§6.5 Selene-, Argus- und Kael-Sonderfälle",
+   "line": 839
+  },
+  {
+   "level": 3,
+   "title": "§6.6 Externe Beziehungs-Vektoren (zu AEGIS und Juna)",
+   "line": 845
+  },
+  {
+   "level": 2,
+   "title": "§7 · Riss-Mandate (Wechsel-Mechanik im Text)",
+   "line": 867
+  },
+  {
+   "level": 2,
+   "title": "§8 · Wechsel-Mechanik und Polyphonie-Choreografie",
+   "line": 899
+  },
+  {
+   "level": 3,
+   "title": "§8.1 Hard-Rule: Stimmen werden nie gelabelt",
+   "line": 901
+  },
+  {
+   "level": 3,
+   "title": "§8.2 Polyphonie-Progression (Akt-Architektur)",
+   "line": 911
+  },
+  {
+   "level": 3,
+   "title": "§8.3 Choreografie-Risiko (aus Kap-0-Annotation)",
+   "line": 917
+  },
+  {
+   "level": 3,
+   "title": "§8.4 Akt-Spezifische Einbruchs-Regeln",
+   "line": 921
+  },
+  {
+   "level": 2,
+   "title": "§9 · System-Stimmen außerhalb des 13er-Systems",
+   "line": 940
+  },
+  {
+   "level": 3,
+   "title": "AEGIS — die Stimme der Funktion",
+   "line": 942
+  },
+  {
+   "level": 3,
+   "title": "Mnemosyne — Erinnerungs-Hüterin",
+   "line": 994
+  },
+  {
+   "level": 3,
+   "title": "Erasure-Pol (Name offen)",
+   "line": 1014
+  },
+  {
+   "level": 3,
+   "title": "Juna — keine Stimme, sondern Wirkung",
+   "line": 1022
+  },
+  {
+   "level": 2,
+   "title": "§10 · Foreshadowing-Anker pro Anteil",
+   "line": 1036
+  },
+  {
+   "level": 2,
+   "title": "§11 · Offene Punkte",
+   "line": 1069
+  },
+  {
+   "level": 2,
+   "title": "§12 · Pflicht-Checks vor jedem Anteil-Schreiben",
+   "line": 1087
+  },
+  {
+   "level": 2,
+   "title": "§13 · Schluss-Hinweis",
+   "line": 1119
+  }
+ ]
+}

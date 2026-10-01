@@ -1,0 +1,50 @@
+{
+ "slug": "blueprint",
+ "sha256": "4e0d2d7865a1f92f6fe64a832469f1fa7fe4bc1d621b89f015761fd69446cbc6",
+ "lines": 97,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Blueprint",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "I. Der Gesamt-Blueprint: Das Oberste Architekturdokument",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "II. Vision & Thematische Kernthese: Die DNA der Erzählung",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "III. Leitprinzipien: Die Statik der Erzählung",
+   "line": 25
+  },
+  {
+   "level": 3,
+   "title": "IV. Kernkonzepte: Die Bausteine der Welt",
+   "line": 34
+  },
+  {
+   "level": 3,
+   "title": "V. Thematische Dialektik: Die Spannungsfelder der Existenz",
+   "line": 49
+  },
+  {
+   "level": 3,
+   "title": "VI. Narrative Techniken & Stilistische Richtlinien: Die Handwerkskunst des Dramaturgen",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "VII. Projektstatus und Werkzeuge: Der Bauplan in Aktion",
+   "line": 86
+  },
+  {
+   "level": 3,
+   "title": "VIII. Nächste Schritte: Die Vollendung der Architektur",
+   "line": 92
+  }
+ ]
+}

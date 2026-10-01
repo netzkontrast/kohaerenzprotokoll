@@ -1,0 +1,120 @@
+{
+ "slug": "romanidee-als-interaktiver-prototyp",
+ "sha256": "7fdf8e6a37eeb42778e47554450be932797e2749c0aa7cbcf2deb2cd21fe05d6",
+ "lines": 303,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Romanidee als interaktiver Prototyp",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Konzeptioneller Entwurf für einen interaktiven Roman-Prototyp: Das Kohärenz Protokoll",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "I. Dekonstruktion der Narrativen Architektur von „Kohärenz Protokoll“",
+   "line": 18
+  },
+  {
+   "level": 3,
+   "title": "A. Der Zentrale Konflikt: AEGIS' Paradoxon der Kontrolle vs. Kaels emergente Integration",
+   "line": 26
+  },
+  {
+   "level": 3,
+   "title": "B. System Kael: Ein architektonischer Bauplan einer traumatisierten Psyche und ihr Weg zur Funktionalen Multiplizität",
+   "line": 40
+  },
+  {
+   "level": 3,
+   "title": "C. AEGIS: Die tragische Logik eines fehlerhaften Gott-Systems",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "D. Juna/V und Das Fundament: Katalysatoren der Transzendenz und nicht-lokalen Kohärenz",
+   "line": 66
+  },
+  {
+   "level": 3,
+   "title": "E. Die Welt als Charakter: Psycho-architektonisches Design der Realitätsebenen",
+   "line": 80
+  },
+  {
+   "level": 2,
+   "title": "II. Das Narrative Context Protocol (NCP): Ein dynamisches Framework für interaktives Storytelling",
+   "line": 94
+  },
+  {
+   "level": 3,
+   "title": "A. Kernfunktionalität: Tracking des Zustands einer fragmentierten Realität",
+   "line": 102
+  },
+  {
+   "level": 3,
+   "title": "B. Die Key-Variable-Matrix: Quantifizierung psychologischer und ontologischer Zustände",
+   "line": 112
+  },
+  {
+   "level": 3,
+   "title": "C. Die Feedback-Schleife: Wie Spieleraktionen und Systemzustände die Erzählung und Welt beeinflussen",
+   "line": 138
+  },
+  {
+   "level": 2,
+   "title": "III. Konzeptioneller Bauplan für einen immersiven CAVE-Prototyp: Akt I (Kapitel 1-13)",
+   "line": 156
+  },
+  {
+   "level": 3,
+   "title": "A. Die orchestrierte Reise des Spielers: Von Desorientierung zu Handlungsfähigkeit",
+   "line": 164
+  },
+  {
+   "level": 3,
+   "title": "B. Übersetzung narrativer Techniken in interaktive Mechaniken",
+   "line": 172
+  },
+  {
+   "level": 3,
+   "title": "C. Kern-Gameplay-Schleifen",
+   "line": 184
+  },
+  {
+   "level": 3,
+   "title": "D. Kapitel-für-Kapitel-Aufschlüsselung: Interaktive Szenarien (Auszug)",
+   "line": 197
+  },
+  {
+   "level": 3,
+   "title": "E. Sensorisches Design für die CAVE: Visuelle, auditive und haptische Immersion in KW1 und KW2",
+   "line": 237
+  },
+  {
+   "level": 2,
+   "title": "IV. Strategische Empfehlungen und zukünftige Entwicklung",
+   "line": 261
+  },
+  {
+   "level": 3,
+   "title": "A. Prototyping-Prioritäten und technische Herausforderungen",
+   "line": 269
+  },
+  {
+   "level": 3,
+   "title": "B. Skalierung der Erfahrung: Konzeptionelle Pfade für die Akte II und III",
+   "line": 280
+  },
+  {
+   "level": 3,
+   "title": "C. Wahrung der ethischen Verantwortung bei der interaktiven Darstellung von Trauma",
+   "line": 289
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 300
+  }
+ ]
+}

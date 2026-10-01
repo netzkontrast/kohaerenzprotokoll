@@ -1,0 +1,20 @@
+{
+ "slug": "monstergruppe-primzahlen-plot-blueprint",
+ "sha256": "7568a45176f46312e97beff16912f1672fd6d881d6cbf81f6a85a2dac52b8def",
+ "lines": 521,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Monstergruppe, Primzahlen, Plot-Blueprint",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll: Finaler Plot-Blueprint",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 486
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "slug": "roman-outline-kohaerenz-protokoll",
+ "sha256": "c9fb53f409fa4df715c9b35ef78cd19da8289ed5716be552c8f7a9608efe700f",
+ "lines": 114,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Roman-Outline: Kohärenz Protokoll",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "-----Teil I: Die Ästhetik des Unerklärlichen (Kapitel 1–13)",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "-----Teil II: Die Erkenntnis der Systemik (Kapitel 14–26)",
+   "line": 53
+  },
+  {
+   "level": 3,
+   "title": "-----Teil III: Die existenzielle Fusion (Kapitel 27–39)",
+   "line": 85
+  }
+ ]
+}

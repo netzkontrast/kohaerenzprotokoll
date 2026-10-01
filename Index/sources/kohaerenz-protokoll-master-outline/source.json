@@ -1,0 +1,75 @@
+{
+ "slug": "kohaerenz-protokoll-master-outline",
+ "sha256": "149b4f074ef50eeb9cebe84fe5f870eb47f61b4578997d2e978b6691e1dbe26c",
+ "lines": 91,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Master-Outline",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Master-Outline: Das Kohärenz Protokoll (3-Phasen-Modell)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Überblick",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Teil I: Die Ästhetik des Unerklärlichen (Kapitel 1 – 13)",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "Inhaltliche Schwerpunkte:",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "Annotationen:",
+   "line": 33
+  },
+  {
+   "level": 2,
+   "title": "Teil II: Die Überwelt – Die Anatomie des Rauschens (Kapitel 14 – 26)",
+   "line": 39
+  },
+  {
+   "level": 3,
+   "title": "Inhaltliche Schwerpunkte:",
+   "line": 45
+  },
+  {
+   "level": 3,
+   "title": "Annotationen:",
+   "line": 59
+  },
+  {
+   "level": 2,
+   "title": "Teil III: Die Fusion – Das Mosaik-Herz (Kapitel 27 – 39)",
+   "line": 65
+  },
+  {
+   "level": 3,
+   "title": "Inhaltliche Schwerpunkte:",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "Annotationen:",
+   "line": 78
+  },
+  {
+   "level": 2,
+   "title": "Epilog: Statusbericht PMAS",
+   "line": 84
+  },
+  {
+   "level": 3,
+   "title": "Strategischer Hinweis für das Pacing:",
+   "line": 88
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "slug": "ki-gestuetzter-roman-assistent-projektplanung",
+ "sha256": "c717faa44a434bbff4d7a7e44c64a0e685a53310f8e1114982d49cae163fb669",
+ "lines": 296,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "KI-gestützter Roman-Assistent: Projektplanung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Spezifikation und Implementierungsarchitektur der Web-Konsole für das Kohärenz-Protokoll",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Die Evolution der Generativen Benutzeroberflächen und Agenten-Protokolle",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "Die Agent-to-User Interface (A2UI) Spezifikation",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "Das Vercel AI SDK und React Server Components",
+   "line": 27
+  },
+  {
+   "level": 3,
+   "title": "Definition der abstrakten API für das Kohärenz-Protokoll",
+   "line": 33
+  },
+  {
+   "level": 2,
+   "title": "Das visuelle System: Isomorphie von Trauma und Design",
+   "line": 48
+  },
+  {
+   "level": 3,
+   "title": "Materialität: Raues Papier und die Liniengrammatik",
+   "line": 52
+  },
+  {
+   "level": 3,
+   "title": "\"Mut zur Lücke\" und Silhouetten-Rendering",
+   "line": 58
+  },
+  {
+   "level": 3,
+   "title": "Das Farbsystem: CMYK in eine digitale Semantik übersetzt",
+   "line": 64
+  },
+  {
+   "level": 2,
+   "title": "Struktur und Definition des Claude Code Skills",
+   "line": 84
+  },
+  {
+   "level": 3,
+   "title": "Die Verzeichnisstruktur des Skills",
+   "line": 90
+  },
+  {
+   "level": 3,
+   "title": "Die vollständige SKILL.md Spezifikation",
+   "line": 106
+  },
+  {
+   "level": 2,
+   "title": "-----name: coherence-console-architect description: Dieser Skill orchestriert die Entwicklung, das Styling und das Deployment der Next.js Web-Konsole für das 'Kohärenz-Protokoll'. Verwende diesen Skill, wenn der Autor eine UI-Komponente gerendert haben möchte, die abstrakte API verbunden werden muss oder die visuellen Richtlinien (Kugelschreiber-Stil, Gelb-Typologien) auf Tailwind CSS angewandt werden sollen.",
+   "line": 110
+  },
+  {
+   "level": 1,
+   "title": "Instruktionen für den Coherence Console Architect",
+   "line": 112
+  },
+  {
+   "level": 2,
+   "title": "1. Verständnis der Architektur (A2UI & GenUI)",
+   "line": 116
+  },
+  {
+   "level": 2,
+   "title": "2. Visuelle Identität (STRIKTE REGELN)",
+   "line": 125
+  },
+  {
+   "level": 2,
+   "title": "3. Das Farbsystem implementieren",
+   "line": 134
+  },
+  {
+   "level": 2,
+   "title": "4. Workflow und Execution",
+   "line": 145
+  },
+  {
+   "level": 2,
+   "title": "System-Ontologie und Wissensbasis: Das Story.ncp.json",
+   "line": 154
+  },
+  {
+   "level": 2,
+   "title": "Implementierungsplan und technologische Pipeline",
+   "line": 247
+  },
+  {
+   "level": 3,
+   "title": "1. Initialisierung und Edge-Konfiguration",
+   "line": 251
+  },
+  {
+   "level": 3,
+   "title": "2. Generative UI Routen (API)",
+   "line": 255
+  },
+  {
+   "level": 3,
+   "title": "3. Styling und das Shadcn/ui Ökosystem",
+   "line": 259
+  },
+  {
+   "level": 3,
+   "title": "4. Continuous Deployment und Synchronisation",
+   "line": 263
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 269
+  }
+ ]
+}

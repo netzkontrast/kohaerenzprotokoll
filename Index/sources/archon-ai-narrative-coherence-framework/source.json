@@ -1,0 +1,130 @@
+{
+ "slug": "archon-ai-narrative-coherence-framework",
+ "sha256": "0404b381fa25dd4723adcea412c8afb11579c654a700b033b278ea65b480d2f7",
+ "lines": 337,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "ARCHON: AI Narrative Coherence Framework",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "The ARCHON Framework: A Foundational Analysis of Structurally-Aware AI for Narrative Coherence",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "I. Executive Summary: A New Paradigm for Computational Narrative",
+   "line": 18
+  },
+  {
+   "level": 2,
+   "title": "II. The Coherence Crisis: Deconstructing the Architectural Limitations of Modern LLMs in Long-Form Storytelling",
+   "line": 34
+  },
+  {
+   "level": 3,
+   "title": "The Architectural Flaw: Statelessness and \"Short-Term Amnesia\"",
+   "line": 42
+  },
+  {
+   "level": 3,
+   "title": "The Practical Bottleneck: The Finite Context Window",
+   "line": 52
+  },
+  {
+   "level": 3,
+   "title": "The Qualitative Deficit: From Plausible Text to Impoverished Narrative",
+   "line": 62
+  },
+  {
+   "level": 2,
+   "title": "III. The Story Mind Formalized: Dramatica Theory as a Computable Model of Authorial Intent",
+   "line": 74
+  },
+  {
+   "level": 3,
+   "title": "The \"Story Mind\" Analogy: A Psychological Blueprint for Narrative",
+   "line": 82
+  },
+  {
+   "level": 3,
+   "title": "The Four Throughlines: A Comprehensive Model of Perspective",
+   "line": 90
+  },
+  {
+   "level": 3,
+   "title": "The Narrative Context Protocol (NCP): Translating Theory into a Computable Schema",
+   "line": 105
+  },
+  {
+   "level": 3,
+   "title": "Addressing the Critiques: Why Dramatica's Rigidity is an Asset for AI Collaboration",
+   "line": 115
+  },
+  {
+   "level": 2,
+   "title": "IV. The ARCHON Architecture: A Multi-Layered Framework for Structurally-Aware Narrative Orchestration",
+   "line": 127
+  },
+  {
+   "level": 3,
+   "title": "The Knowledge Layer: Hierarchical Hypergraphs as Persistent Narrative Memory",
+   "line": 135
+  },
+  {
+   "level": 3,
+   "title": "The Cognitive Layer: The Agentic Narrative Director and the Logic of Self-Critique",
+   "line": 150
+  },
+  {
+   "level": 3,
+   "title": "Dynamic Context Management: The Principle of Thematic Resonance",
+   "line": 166
+  },
+  {
+   "level": 2,
+   "title": "V. A Crucible for Coherence: Validating the Framework with a Computationally Rigorous Case Study",
+   "line": 180
+  },
+  {
+   "level": 3,
+   "title": "Testing Psychological Coherence: The Theory of Structural Dissociation (TSDP)",
+   "line": 188
+  },
+  {
+   "level": 3,
+   "title": "Testing Logical Coherence: Gödel's Incompleteness Theorems",
+   "line": 198
+  },
+  {
+   "level": 3,
+   "title": "Testing World-Building Coherence: Computational Complexity (P vs. NP)",
+   "line": 208
+  },
+  {
+   "level": 2,
+   "title": "VI. Situating ARCHON in the Evolving Landscape of Human-AI Creative Collaboration",
+   "line": 220
+  },
+  {
+   "level": 3,
+   "title": "Current State of the Art: AI as a Creative Assistant",
+   "line": 228
+  },
+  {
+   "level": 3,
+   "title": "The ARCHON Paradigm Shift: AI as a Narrative Orchestrator",
+   "line": 239
+  },
+  {
+   "level": 2,
+   "title": "VII. Conclusion and Future Trajectories: From Text Generation to Meaning Orchestration",
+   "line": 262
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 272
+  }
+ ]
+}

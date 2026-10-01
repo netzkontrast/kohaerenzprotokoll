@@ -1,0 +1,195 @@
+{
+ "slug": "p-vs-np-und-kohaerenz",
+ "sha256": "4fbc51e57ab8d0a9935b87dda2e3904c7a5ae7cb4779a45cb621468b910d90d1",
+ "lines": 530,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "P vs NP und Kohärenz",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "P vs. NP und die Grenzen der Kohärenz: Komplexitätstheorie als Informierendes Prinzip für AEGIS und die Kernwelten",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung: Computation, Komplexität und das Gewebe von \"Kohärenz Protokoll\"",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "A. Das P versus NP Problem: Eine fundamentale Frage der Grenzen",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "B. AEGIS, die Kernwelten und die Suche nach Kohärenz",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "C. Zielsetzung und Umfang des Berichts",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "D. Thematische Resonanz: Die Grenzen der Kontrolle",
+   "line": 27
+  },
+  {
+   "level": 2,
+   "title": "II. Die Landschaft der Komplexität: P, NP und die Grenzen der Berechenbarkeit",
+   "line": 31
+  },
+  {
+   "level": 3,
+   "title": "A. Klasse P: Das Reich der effizienten Berechenbarkeit",
+   "line": 35
+  },
+  {
+   "level": 3,
+   "title": "B. Klasse NP: Effiziente Verifikation, schwere Lösungen",
+   "line": 52
+  },
+  {
+   "level": 3,
+   "title": "C. NP-Vollständigkeit und NP-Schwere: Der Gipfel der NP-Schwierigkeit",
+   "line": 72
+  },
+  {
+   "level": 3,
+   "title": "D. Die P=NP-Hypothese: Annahmen und tiefgreifende Implikationen",
+   "line": 91
+  },
+  {
+   "level": 3,
+   "title": "E. Jenseits von NP: Schwerere Probleme und philosophische Dimensionen",
+   "line": 112
+  },
+  {
+   "level": 3,
+   "title": "F. Die Nuance der Härte: Nicht Unmöglichkeit, sondern Kosten",
+   "line": 144
+  },
+  {
+   "level": 3,
+   "title": "G. Tabelle: Übersicht der Komplexitätsklassen",
+   "line": 159
+  },
+  {
+   "level": 2,
+   "title": "III. AEGIS unter der Lupe von P=NP: Ein rechnerisch begrenzter Wächter",
+   "line": 177
+  },
+  {
+   "level": 3,
+   "title": "A. Das unbeherrschbare Mandat: Modellierung von Kohärenz und Entropiemanagement",
+   "line": 181
+  },
+  {
+   "level": 3,
+   "title": "B. Strategien aus der Not geboren: Heuristiken, Approximation und degradierter Betrieb",
+   "line": 191
+  },
+  {
+   "level": 3,
+   "title": "C. Verifikation vs. Kreation: Die Asymmetrie von AEGIS' Aufgaben",
+   "line": 207
+  },
+  {
+   "level": 3,
+   "title": "D. Erklärung von AEGIS' Versagen: Rechnerische Blindheit und Ressourcenerschöpfung",
+   "line": 216
+  },
+  {
+   "level": 3,
+   "title": "E. AEGIS als P-Maschine in einer NP-Welt",
+   "line": 230
+  },
+  {
+   "level": 2,
+   "title": "IV. Architekturen der Schwierigkeit: Die Kernwelten als komputationale Metaphern",
+   "line": 234
+  },
+  {
+   "level": 3,
+   "title": "A. KW1 (Logik/Architekt): Die strukturierte Welt von P?",
+   "line": 238
+  },
+  {
+   "level": 3,
+   "title": "B. KW2 (Emotion/Echo): Jenseits der Standardberechnung?",
+   "line": 246
+  },
+  {
+   "level": 3,
+   "title": "C. KW3 (Abwehr/Wächter): Der NP-vollständige Spießrutenlauf?",
+   "line": 263
+  },
+  {
+   "level": 3,
+   "title": "D. KW4 (Potential/Sucher/Funke): Erkundung der exponentiellen Weite",
+   "line": 288
+  },
+  {
+   "level": 3,
+   "title": "E. Komplexität als Weltphysik",
+   "line": 296
+  },
+  {
+   "level": 3,
+   "title": "F. Tabelle: Kernwelten und Komputationale Metaphern",
+   "line": 300
+  },
+  {
+   "level": 2,
+   "title": "V. Synthese und Narrative Integration: Komplexität in die Geschichte einweben",
+   "line": 312
+  },
+  {
+   "level": 3,
+   "title": "A. Steigerung von Plausibilität und thematischer Resonanz",
+   "line": 316
+  },
+  {
+   "level": 3,
+   "title": "B. Implementierungsstrategien: Explizite vs. Implizite Integration",
+   "line": 334
+  },
+  {
+   "level": 3,
+   "title": "C. Konkrete Empfehlungen für Worldbuilding und Plot",
+   "line": 360
+  },
+  {
+   "level": 3,
+   "title": "D. Kael als nicht-deterministischer Löser?",
+   "line": 402
+  },
+  {
+   "level": 2,
+   "title": "VI. Schlussfolgerung: Die Macht von P=NP im \"Kohärenz Protokoll\"",
+   "line": 406
+  },
+  {
+   "level": 3,
+   "title": "A. Rekapitulation",
+   "line": 408
+  },
+  {
+   "level": 3,
+   "title": "B. Abschließende Bewertung",
+   "line": 416
+  },
+  {
+   "level": 3,
+   "title": "C. Ermutigung",
+   "line": 420
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 424
+  }
+ ]
+}

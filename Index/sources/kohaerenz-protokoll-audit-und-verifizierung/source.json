@@ -1,0 +1,135 @@
+{
+ "slug": "kohaerenz-protokoll-audit-und-verifizierung",
+ "sha256": "57204e9da61c68da3c28db4d583c2c0733f7a39ecc888626c8efd32d51739c78",
+ "lines": 265,
+ "body_offset": 1,
+ "lang": "de",
+ "title": "Kohärenz-Protokoll Audit und Verifizierung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Technical Audit und wissenschaftliche Quell-Triangulation: Das Kohärenz-Protokoll Framework",
+   "line": 1
+  },
+  {
+   "level": 2,
+   "title": "Methodologische Basis: ReAct- und RISEN-Frameworks",
+   "line": 3
+  },
+  {
+   "level": 2,
+   "title": "Executive Summary: Die Architektur der Verifikation",
+   "line": 9
+  },
+  {
+   "level": 2,
+   "title": "Achse I: Informations-Thermodynamik und Dual-Kernel Theory (DKT)",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "Das Landauer-Limit und der physikalische Preis der Löschung",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "Empirische Verifikation und der entropische Diskurs",
+   "line": 29
+  },
+  {
+   "level": 3,
+   "title": "Dual-Kernel Theory: Ontologie der Transinformation",
+   "line": 39
+  },
+  {
+   "level": 2,
+   "title": "Achse II: Psychologische Modularität (TSDP)",
+   "line": 55
+  },
+  {
+   "level": 3,
+   "title": "Evolutionäre Handlungssysteme und das Trauma-Paradigma",
+   "line": 59
+  },
+  {
+   "level": 3,
+   "title": "Systemische Firewall-Mechanik durch ANP und EP",
+   "line": 65
+  },
+  {
+   "level": 2,
+   "title": "Achse III & IV: Strukturelle Wellenformen und die Symmetrie des Monster-Mondscheins",
+   "line": 85
+  },
+  {
+   "level": 3,
+   "title": "Dramatica und die fünfdimensionale Interferenz",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "Die Monstergruppe und das Moonshine-Theorem",
+   "line": 95
+  },
+  {
+   "level": 3,
+   "title": "Vertexoperatoralgebren (VOA) und Orbifold-Konstruktionen",
+   "line": 107
+  },
+  {
+   "level": 2,
+   "title": "Achse V & VI: Parakonsistente Logik und Algorithmische Zufälligkeit",
+   "line": 125
+  },
+  {
+   "level": 3,
+   "title": "Dialetheismus: Die Prävention der logischen Explosion",
+   "line": 129
+  },
+  {
+   "level": 3,
+   "title": "Chaitins Omega () und Tarskische Meta-Sprachen",
+   "line": 137
+  },
+  {
+   "level": 2,
+   "title": "Achse VII & VIII: Das Partizipative Universum und die Zeugenfunktion",
+   "line": 147
+  },
+  {
+   "level": 3,
+   "title": "Iserianische Phänomenologie als Kognitive Thermodynamik",
+   "line": 151
+  },
+  {
+   "level": 3,
+   "title": "Kryptographie und Bewusstsein: Zero-Knowledge Proofs",
+   "line": 157
+  },
+  {
+   "level": 2,
+   "title": "Die Synthese der narrativen Klimax: Vortex-Inversion",
+   "line": 167
+  },
+  {
+   "level": 3,
+   "title": "Der Landauer Heat Spike und algorithmische Melancholie",
+   "line": 171
+  },
+  {
+   "level": 3,
+   "title": "Der autobiographische Anker der Stille",
+   "line": 181
+  },
+  {
+   "level": 2,
+   "title": "Finales Audit-Urteil",
+   "line": 191
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 201
+  }
+ ]
+}

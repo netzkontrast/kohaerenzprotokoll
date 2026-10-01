@@ -1,0 +1,65 @@
+{
+ "slug": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+ "sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+ "lines": 266,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Hard-SF-Roman-Outline: DKT-Physik, Cosmic Horror",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Das Kohärenz Protokoll: Architektonik eines multidimensionalen Romans",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Synthese der Weltmechanik: Informationsphysik als Ontologie",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "Physikalische Set-Pieces und ihre erzählerische Funktion",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "Strukturierung der Systemik",
+   "line": 33
+  },
+  {
+   "level": 2,
+   "title": "Pacing und Twist-Architektur: Die Anatomie der Täuschung",
+   "line": 82
+  },
+  {
+   "level": 2,
+   "title": "-----Das Plot-Outline (Kapitel 1 – 39)",
+   "line": 88
+  },
+  {
+   "level": 3,
+   "title": "Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)",
+   "line": 90
+  },
+  {
+   "level": 3,
+   "title": "Akt II: Die Zyklische Dekonstruktion",
+   "line": 132
+  },
+  {
+   "level": 3,
+   "title": "Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)",
+   "line": 166
+  },
+  {
+   "level": 2,
+   "title": "-----Abschluss-Checkliste der Fixpunkte",
+   "line": 208
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 229
+  }
+ ]
+}

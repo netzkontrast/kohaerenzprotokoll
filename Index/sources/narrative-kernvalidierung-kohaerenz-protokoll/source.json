@@ -1,0 +1,80 @@
+{
+ "slug": "narrative-kernvalidierung-kohaerenz-protokoll",
+ "sha256": "c9aaa9b1c13146ed0ed9df52a6f32916bebb1fc2a2a850a7a5aa3aaea8ba216f",
+ "lines": 568,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Narrative Kernvalidierung: Kohärenz Protokoll",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Narrativer Kern-Blueprint: Kohärenz Protokoll",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung: Kartierung des Narrativen Kerns",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "A. Überblick und Zielsetzung",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "B. Begründung der Sequenzauswahl",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "C. Integration der konzeptuellen Grundlagen & Recherche",
+   "line": 35
+  },
+  {
+   "level": 2,
+   "title": "II. Narrativer Kern-Blueprint: Schlüsselsequenz-Analyse",
+   "line": 48
+  },
+  {
+   "level": 2,
+   "title": "III. Abschließende Synthese: Validierung des Narrativen Potenzials",
+   "line": 511
+  },
+  {
+   "level": 3,
+   "title": "A. Gesamtbewertung",
+   "line": 513
+  },
+  {
+   "level": 3,
+   "title": "B. Identifizierte Stärken",
+   "line": 517
+  },
+  {
+   "level": 3,
+   "title": "C. Potenzielle Schwächen und Herausforderungen",
+   "line": 526
+  },
+  {
+   "level": 3,
+   "title": "D. Tabelle 1: Zusammenfassung der Kritischen Reflexion über Schlüsselsequenzen",
+   "line": 535
+  },
+  {
+   "level": 3,
+   "title": "E. Empfehlungen für Anpassungen",
+   "line": 552
+  },
+  {
+   "level": 3,
+   "title": "F. Schlussfolgerung",
+   "line": 561
+  },
+  {
+   "level": 4,
+   "title": "Quellenangaben",
+   "line": 565
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "explizites-subplot-konzept-fuer-kohaerenz-protokoll",
+ "sha256": "8e8b452fe2a079cd8e866faf1533512b1fa5f88ad1725fda8f2f08297d5201b3",
+ "lines": 186,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Explizites Subplot-Konzept für Kohärenz Protokoll",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Explizites Subplot-Konzept für \"Kohärenz Protokoll\"",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Subplot: Kaels Weg zur Funktionalen Multiplizität",
+   "line": 15
+  },
+  {
+   "level": 2,
+   "title": "2. Subplot: Lex' Systemanalyse & AEGIS' Paradoxon",
+   "line": 46
+  },
+  {
+   "level": 2,
+   "title": "3. Subplot: Das Mysterium Juna/V & die Externe Ebene",
+   "line": 78
+  },
+  {
+   "level": 2,
+   "title": "4. Subplot: Die Wächter als Agenten & Charaktere",
+   "line": 109
+  },
+  {
+   "level": 2,
+   "title": "5. Subplot: Das Fundament & die ultimative Realität",
+   "line": 141
+  },
+  {
+   "level": 2,
+   "title": "Verknüpfungspunkte und Interaktionen",
+   "line": 172
+  },
+  {
+   "level": 2,
+   "title": "Fazit",
+   "line": 183
+  }
+ ]
+}

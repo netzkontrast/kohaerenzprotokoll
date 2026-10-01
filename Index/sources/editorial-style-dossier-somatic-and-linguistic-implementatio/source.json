@@ -1,0 +1,75 @@
+{
+ "slug": "editorial-style-dossier-somatic-and-linguistic-implementatio",
+ "sha256": "31462a873260cbf92bf0208885a84d6437b8b54ecc160221c3e9c4bf7ada139f",
+ "lines": 103,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Editorial Style Dossier: Somatic and Linguistic Implementation of the Kael System",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Editorial Style Dossier: Somatic and Linguistic Implementation of the Kael System",
+   "line": 11
+  },
+  {
+   "level": 5,
+   "title": "1. Strategic Context: The Holistic Architecture of Multiplicity",
+   "line": 13
+  },
+  {
+   "level": 5,
+   "title": "2. The Somatic Filter: Thermodynamics of the Body",
+   "line": 17
+  },
+  {
+   "level": 5,
+   "title": "3. Linguistic Polyphony: Computational Classes of Thought",
+   "line": 23
+  },
+  {
+   "level": 6,
+   "title": "Syntax Cheat Sheet for the Writer:",
+   "line": 32
+  },
+  {
+   "level": 5,
+   "title": "4. Character Fragment Profiles: ANPs, EPs, and the Spiegel Axis",
+   "line": 36
+  },
+  {
+   "level": 6,
+   "title": "The Vertical Symmetry Bridge (The Spiegel Alters)",
+   "line": 40
+  },
+  {
+   "level": 6,
+   "title": "Key Profile Highlights:",
+   "line": 47
+  },
+  {
+   "level": 5,
+   "title": "5. Temporal Voice Evolution: From Staccato to Chorale",
+   "line": 53
+  },
+  {
+   "level": 5,
+   "title": "6. The Non-Describable: Juna and AEGIS",
+   "line": 62
+  },
+  {
+   "level": 6,
+   "title": "Juna (The Witness)",
+   "line": 66
+  },
+  {
+   "level": 6,
+   "title": "AEGIS (The Tragic God)",
+   "line": 71
+  },
+  {
+   "level": 5,
+   "title": "7. Mandates for the Writer: The \"Chiang-Egan\" Standard",
+   "line": 96
+  }
+ ]
+}

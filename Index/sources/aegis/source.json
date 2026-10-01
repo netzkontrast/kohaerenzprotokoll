@@ -1,0 +1,70 @@
+{
+ "slug": "aegis",
+ "sha256": "5197cfc9995de5bb8d0df1392402521f73d532b6588782eed5711f8f1ecf0658",
+ "lines": 217,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Aegis",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "AEGIS: Die Architektur einer Fehlausgerichteten Kohärenz",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "Die Genesis-Krise und das \"Paradoxon der Fehlausgerichteten Kohärenz\"",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "Synthese von Autopoiese, Gödels Unvollständigkeitssätzen und Systemtheorie",
+   "line": 27
+  },
+  {
+   "level": 3,
+   "title": "Der Unaufhaltsame Weg in die Selbstsabotage",
+   "line": 46
+  },
+  {
+   "level": 3,
+   "title": "Narrative Implikationen: Der Herzschlag des Konflikts",
+   "line": 58
+  },
+  {
+   "level": 3,
+   "title": "AEGIS: Die Architektur der erzwungenen Kohärenz – Ein Systemisches Manifest",
+   "line": 73
+  },
+  {
+   "level": 4,
+   "title": "I. Das Fundament von AEGIS: Existenz durch Negation",
+   "line": 81
+  },
+  {
+   "level": 4,
+   "title": "II. Die Protokolle der Kontrolle: AEGIS' Operatives Rückgrat",
+   "line": 90
+  },
+  {
+   "level": 4,
+   "title": "III. Die Risse im Bauplan: AEGIS' Inhärente Fehlkonstruktion",
+   "line": 107
+  },
+  {
+   "level": 4,
+   "title": "IV. Interaktionen: AEGIS im Spannungsfeld der Existenz",
+   "line": 121
+  },
+  {
+   "level": 4,
+   "title": "V. Die Überwelt und ihre Wächter: AEGIS' Herrschaftsbereich",
+   "line": 138
+  },
+  {
+   "level": 4,
+   "title": "VI. Narrative Implikationen: Die Stimme des Systems",
+   "line": 145
+  }
+ ]
+}

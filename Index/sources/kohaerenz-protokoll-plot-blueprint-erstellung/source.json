@@ -1,0 +1,40 @@
+{
+ "slug": "kohaerenz-protokoll-plot-blueprint-erstellung",
+ "sha256": "0dd4d85a0f2cd7c9a482b6225eb2011ee2070b2d16a259699b3a14e187023b62",
+ "lines": 557,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Plot-Blueprint Erstellung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll: Finaler Plot-Blueprint (V2)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Methodische Einleitung: Narrative Gestaltung und Konzeption",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "2. Beantwortung der konzeptionellen Kernfragen (Checkliste)",
+   "line": 26
+  },
+  {
+   "level": 2,
+   "title": "3. Plot-Blueprint: Teil 1 (Schritte 1.1 - 1.13) - Fragmentierung und Erwachen",
+   "line": 136
+  },
+  {
+   "level": 2,
+   "title": "-----4. Plot-Blueprint: Teil 2 (Schritte 2.1 - 2.13) - Eskalation und Konfrontation",
+   "line": 317
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 468
+  }
+ ]
+}

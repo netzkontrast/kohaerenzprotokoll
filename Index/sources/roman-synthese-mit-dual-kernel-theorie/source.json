@@ -1,0 +1,295 @@
+{
+ "slug": "roman-synthese-mit-dual-kernel-theorie",
+ "sha256": "43b192325f584ce080ef195564783318d1797157ff699bbebcdc81f6a70c66ef",
+ "lines": 497,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Roman-Synthese mit Dual Kernel Theorie",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Systemarchitektur und Master-Plot-Synthese des Kohärenz-Protokolls: Eine ontologische Analyse auf Basis der Dual-Kernel-Theorie",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Theoretischer Rahmen: Die Dual-Kernel-Ontologie der Simulation",
+   "line": 15
+  },
+  {
+   "level": 2,
+   "title": "Teil I: Die Ästhetik der Ohnmacht (Kapitel 1–13)",
+   "line": 29
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 1: Der Erwachen-Zyklus",
+   "line": 33
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 2: Geometrie der Isolation",
+   "line": 42
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 3: Juna – Das flüchtige Echo",
+   "line": 51
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 4: Die unentscheidbare Zone",
+   "line": 60
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 5: Das Rauschen von AEGIS",
+   "line": 69
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 6: Sprachliche Schatten",
+   "line": 78
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 7: Der Riss im Kontinuum",
+   "line": 87
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 8: Russellsche Trümmer",
+   "line": 96
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 9: Phantomschmerz der Identität",
+   "line": 105
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 10: Gravitationsanomalien",
+   "line": 114
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 11: Grenzsituationen",
+   "line": 123
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 12: Der blinde Fleck des Selbst",
+   "line": 132
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 13: Der erste Zusammenbruch",
+   "line": 141
+  },
+  {
+   "level": 2,
+   "title": "Teil II: Die Anatomie der Spaltung (Kapitel 14–26)",
+   "line": 150
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 14: Das Archiv der Grenzen",
+   "line": 154
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 15: Turing-Mechanik",
+   "line": 163
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 16: Die Diktatur der Komplexität",
+   "line": 172
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 17: Phaenomena vs. Noumena",
+   "line": 181
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 18: Das Qualia-Informationsparadox",
+   "line": 190
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 19: Chaitins Konstante",
+   "line": 199
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 20: Schwarze Löcher der Information",
+   "line": 208
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 21: Das konstruierte Narrativ",
+   "line": 217
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 22: Die Planck-Barriere",
+   "line": 226
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 23: Symmetriebruch",
+   "line": 235
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 24: Epigenetische Geister",
+   "line": 244
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 25: Das Protokoll der Kohärenz",
+   "line": 253
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 26: Junas Demaskierung",
+   "line": 262
+  },
+  {
+   "level": 2,
+   "title": "Teil III: Die existenzielle Fusion (Kapitel 27–39)",
+   "line": 271
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 27: Der Sprung ins Nichts",
+   "line": 275
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 28: Sein zum Tode",
+   "line": 284
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 29: Die Auflösung der Membran",
+   "line": 293
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 30: Der Schiffbruch des Denkens",
+   "line": 302
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 31: Entropische Akzeptanz",
+   "line": 311
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 32: Die Chiffren der Realität",
+   "line": 320
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 33: Jenseits des Ereignishorizonts",
+   "line": 329
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 34: Das Mosaik-Herz",
+   "line": 338
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 35: Das Ende der Subjekt-Objekt-Spaltung",
+   "line": 347
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 36: Der Spiegel-Effekt",
+   "line": 356
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 37: Das absolute Limit",
+   "line": 365
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 38: Fusion der Ebenen",
+   "line": 374
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 39: Statusbericht: Zielkohärenz erreicht",
+   "line": 383
+  },
+  {
+   "level": 2,
+   "title": "-----Multidimensionale Analyse der Charakter-Archetypen",
+   "line": 392
+  },
+  {
+   "level": 3,
+   "title": "Kael: Das multiple Interface",
+   "line": 396
+  },
+  {
+   "level": 3,
+   "title": "Juna: Die enigmatische Katalysatorin",
+   "line": 409
+  },
+  {
+   "level": 3,
+   "title": "Die Guardians: AEGIS' Ausführungsorgane",
+   "line": 413
+  },
+  {
+   "level": 2,
+   "title": "Systemmechaniken: Thermodynamik und Information",
+   "line": 423
+  },
+  {
+   "level": 3,
+   "title": "Das Landauer-Prinzip als Plot-Motor",
+   "line": 427
+  },
+  {
+   "level": 3,
+   "title": "Die Bekenstein-Schranke und das Speicherlimit",
+   "line": 431
+  },
+  {
+   "level": 3,
+   "title": "Quanten-Unitarität und holographisches Trauma",
+   "line": 435
+  },
+  {
+   "level": 2,
+   "title": "Epistemologische Eskalation: Vom Horror zur Fusion",
+   "line": 439
+  },
+  {
+   "level": 3,
+   "title": "Die Rolle der Sprache und Wittgensteins Grenze",
+   "line": 450
+  },
+  {
+   "level": 3,
+   "title": "Der Gödelsche Knoten und das Messproblem",
+   "line": 454
+  },
+  {
+   "level": 2,
+   "title": "Schlussfolgerung: Die Seele als Interface der Relationalität",
+   "line": 458
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 466
+  }
+ ]
+}

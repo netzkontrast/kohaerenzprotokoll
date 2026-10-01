@@ -1,0 +1,90 @@
+{
+ "slug": "codex-optimierung-fuer-kohaerenz-protokoll",
+ "sha256": "04ba09519e528356802757bcda4de7bcc6ff3c0e9b65ced73531bd8ad7b30d84",
+ "lines": 583,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Codex-Optimierung für „Kohärenz Protokoll“",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Konzeptanalyse und Optimierung der Codex-Struktur für eine effiziente, kontextbasierte Szenengenerierung in „Kohärenz Protokoll“",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Teil A: Analyse der Konzeptionellen Ebenen für Szenengenerierung",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "A.1. Identifikation relevanter Ebenen",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "A.2. Diskussion der Interdependenzen",
+   "line": 55
+  },
+  {
+   "level": 2,
+   "title": "Teil B: Analyse und Optimierung der Codex-Struktur",
+   "line": 68
+  },
+  {
+   "level": 3,
+   "title": "B.1. Bewertung der bestehenden Struktur",
+   "line": 72
+  },
+  {
+   "level": 3,
+   "title": "B.2. Entwicklung einer optimierten Codex-Struktur",
+   "line": 83
+  },
+  {
+   "level": 3,
+   "title": "B.3. Konkrete Vorschläge für Custom Details",
+   "line": 121
+  },
+  {
+   "level": 2,
+   "title": "Teil C: Entwicklung des Zentralen Szenen-Prompts",
+   "line": 157
+  },
+  {
+   "level": 3,
+   "title": "C.1. Prompt-Struktur und Komponenten",
+   "line": 161
+  },
+  {
+   "level": 3,
+   "title": "C.2. Kontext-Generierungsstrategie",
+   "line": 263
+  },
+  {
+   "level": 3,
+   "title": "C.3. Beispiel-Anwendung",
+   "line": 314
+  },
+  {
+   "level": 2,
+   "title": "4. Zusammenfassung und Empfehlungen",
+   "line": 519
+  },
+  {
+   "level": 2,
+   "title": "5. Anhang (Optional)",
+   "line": 557
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 561
+  }
+ ]
+}

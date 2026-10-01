@@ -1,0 +1,125 @@
+{
+ "slug": "ki-roman-design-mechaniken",
+ "sha256": "0ceb78676542418d35d13bf6d97baf64ba11179358ee3aa30ee0f4984f4c21f6",
+ "lines": 266,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "KI-Roman: Design & Mechaniken",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Systemisches Game-Design für KI-gesteuerte interaktive Romane: Architekturen, Gameplay-Loops und Immersion",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Einleitung: Der Paradigmenwechsel im interaktiven Storytelling",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "KI-Integration in aktuellen interaktiven Romanen (Stand 2024-2026)",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "Architekturen der narrativen Kontrolle: Drama Manager und HTN-Planung",
+   "line": 29
+  },
+  {
+   "level": 3,
+   "title": "Drama Management Systeme",
+   "line": 33
+  },
+  {
+   "level": 3,
+   "title": "Experience Manager",
+   "line": 45
+  },
+  {
+   "level": 3,
+   "title": "Hierarchical Task Network (HTN) Planung",
+   "line": 49
+  },
+  {
+   "level": 2,
+   "title": "Systemische Gameplay-Loops im textbasierten Design",
+   "line": 55
+  },
+  {
+   "level": 3,
+   "title": "Die Evolution von Branching Narratives zu Storylets und Salienz",
+   "line": 59
+  },
+  {
+   "level": 3,
+   "title": "Ressourcen-, Zeit- und Bedingungs-Loops als narrative Treiber",
+   "line": 67
+  },
+  {
+   "level": 2,
+   "title": "Integration von Player-Created Content (PCC) und dynamischen Lorebooks",
+   "line": 83
+  },
+  {
+   "level": 3,
+   "title": "Die Funktionsweise und Struktur von Lorebooks",
+   "line": 87
+  },
+  {
+   "level": 3,
+   "title": "RAG-Architekturen für narrative Stabilität und tiefe Interaktion",
+   "line": 93
+  },
+  {
+   "level": 2,
+   "title": "UI-Design und kognitive Psychologie für textlastige Narrative",
+   "line": 104
+  },
+  {
+   "level": 3,
+   "title": "Minimalismus, Typografie und Lesbarkeit",
+   "line": 108
+  },
+  {
+   "level": 3,
+   "title": "Diegetisches Interface und psychologische Repräsentation",
+   "line": 117
+  },
+  {
+   "level": 3,
+   "title": "Glitch-Ästhetik und der innere Monolog",
+   "line": 121
+  },
+  {
+   "level": 2,
+   "title": "Hindernisse für die Immersion: Halluzinationen und Kohärenzverlust",
+   "line": 129
+  },
+  {
+   "level": 3,
+   "title": "Technologische und architektonische Vermeidungsstrategien",
+   "line": 135
+  },
+  {
+   "level": 2,
+   "title": "Konzeptionierung von Spielmechaniken: Das \"Kohärenz Protokoll\" als operatives System",
+   "line": 152
+  },
+  {
+   "level": 3,
+   "title": "Was der Spieler aktiv tun kann: Die Core Gameplay Mechanics",
+   "line": 158
+  },
+  {
+   "level": 2,
+   "title": "Fazit",
+   "line": 186
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 194
+  }
+ ]
+}

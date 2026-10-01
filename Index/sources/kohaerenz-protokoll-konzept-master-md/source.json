@@ -1,0 +1,335 @@
+{
+ "slug": "kohaerenz-protokoll-konzept-master-md",
+ "sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+ "lines": 1124,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "kohaerenz_protokoll_konzept_master.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "KOHÄRENZ PROTOKOLL — Konzeptioneller Master-Report",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "0. Zweck dieses Dokuments",
+   "line": 27
+  },
+  {
+   "level": 2,
+   "title": "I. Prämisse — Was der Roman tut",
+   "line": 49
+  },
+  {
+   "level": 2,
+   "title": "II. Dual-Kernel-Theorie (DKT) — Die Physik der Romanwelt",
+   "line": 85
+  },
+  {
+   "level": 3,
+   "title": "II.1 Die Primäre Dualität K₁ / K₀",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "II.2 Coheronen und Erasonen",
+   "line": 113
+  },
+  {
+   "level": 3,
+   "title": "II.3 Die Persistenzgleichung",
+   "line": 125
+  },
+  {
+   "level": 3,
+   "title": "II.4 Landauer-Prinzip als narratives Naturgesetz",
+   "line": 149
+  },
+  {
+   "level": 3,
+   "title": "II.5 Die Atemporal/Temporal-Achse",
+   "line": 168
+  },
+  {
+   "level": 3,
+   "title": "II.6 Die Truth-Rotation — Warum AEGIS = K₀ und Kael = K₁",
+   "line": 212
+  },
+  {
+   "level": 2,
+   "title": "III. Wahrheitstheorien als operative Naturgesetze",
+   "line": 240
+  },
+  {
+   "level": 3,
+   "title": "III.1 Korrespondenztheorie",
+   "line": 244
+  },
+  {
+   "level": 3,
+   "title": "III.2 Kohärenztheorie",
+   "line": 260
+  },
+  {
+   "level": 3,
+   "title": "III.3 Konsens- und deflationäre Theorien (Beifang)",
+   "line": 276
+  },
+  {
+   "level": 3,
+   "title": "III.4 Die Wiener-Kreis-Debatte als historischer Schatten",
+   "line": 284
+  },
+  {
+   "level": 3,
+   "title": "III.5 Die Zuordnung — Wer trägt was",
+   "line": 297
+  },
+  {
+   "level": 3,
+   "title": "III.6 Dialetheismus und parakonsistente Logik",
+   "line": 315
+  },
+  {
+   "level": 3,
+   "title": "III.7 Tarski-Hierarchie",
+   "line": 338
+  },
+  {
+   "level": 2,
+   "title": "IV. TSDP-Architektur — Strukturelle Dissoziation als Survival Architecture",
+   "line": 361
+  },
+  {
+   "level": 3,
+   "title": "IV.1 Theoretische Grundlage",
+   "line": 363
+  },
+  {
+   "level": 3,
+   "title": "IV.2 Kaels System (kanonisch — exakt 13 Alters)",
+   "line": 383
+  },
+  {
+   "level": 3,
+   "title": "IV.3 Funktionale Multiplizität — nicht Final Fusion",
+   "line": 410
+  },
+  {
+   "level": 3,
+   "title": "IV.4 TSDP ↔ DKT-Korrelat",
+   "line": 428
+  },
+  {
+   "level": 2,
+   "title": "V. AEGIS — Der tragische Gott, nicht der Bösewicht",
+   "line": 447
+  },
+  {
+   "level": 3,
+   "title": "V.1 Autopoiesis und operative Geschlossenheit",
+   "line": 449
+  },
+  {
+   "level": 3,
+   "title": "V.2 Die Genesis-Krise (3-Beat, kanonisch)",
+   "line": 457
+  },
+  {
+   "level": 3,
+   "title": "V.3 Das Paradoxon der Fehlausgerichteten Kohärenz",
+   "line": 471
+  },
+  {
+   "level": 3,
+   "title": "V.4 Algorithmische Melancholie",
+   "line": 484
+  },
+  {
+   "level": 3,
+   "title": "V.5 Guardians (auf 2 reduziert)",
+   "line": 502
+  },
+  {
+   "level": 3,
+   "title": "V.6 Protokolle (auf 3 reduziert, im Detail offen)",
+   "line": 515
+  },
+  {
+   "level": 2,
+   "title": "VI. Juna und der Moonshine-Link",
+   "line": 529
+  },
+  {
+   "level": 3,
+   "title": "VI.1 Junas Ontologie",
+   "line": 531
+  },
+  {
+   "level": 3,
+   "title": "VI.2 Monstrous Moonshine als physische Brücke",
+   "line": 573
+  },
+  {
+   "level": 3,
+   "title": "VI.3 Das Telefongespräch als Anker",
+   "line": 605
+  },
+  {
+   "level": 3,
+   "title": "VI.4 Witness-Funktion (3-Layer)",
+   "line": 625
+  },
+  {
+   "level": 2,
+   "title": "VII. Die Kernwelten als Computational Classes",
+   "line": 649
+  },
+  {
+   "level": 2,
+   "title": "VIII. Erkenntnistheoretische Bezüge",
+   "line": 686
+  },
+  {
+   "level": 3,
+   "title": "VIII.1 Kant — Phänomena und Noumena, Antinomien",
+   "line": 688
+  },
+  {
+   "level": 3,
+   "title": "VIII.2 Wittgenstein — Tractatus, das Sagbare",
+   "line": 696
+  },
+  {
+   "level": 3,
+   "title": "VIII.3 Gödel — Unvollständigkeit, Halteproblem",
+   "line": 704
+  },
+  {
+   "level": 3,
+   "title": "VIII.4 Heidegger — Wahrheit als aletheia",
+   "line": 716
+  },
+  {
+   "level": 3,
+   "title": "VIII.5 Husserl — Phänomenologie, Epoché",
+   "line": 724
+  },
+  {
+   "level": 3,
+   "title": "VIII.6 Iser — Reader-Response, Leerstellen",
+   "line": 732
+  },
+  {
+   "level": 2,
+   "title": "IX. Quantenmechanik und Beobachterproblem",
+   "line": 766
+  },
+  {
+   "level": 3,
+   "title": "IX.1 Mess-Problem",
+   "line": 768
+  },
+  {
+   "level": 3,
+   "title": "IX.2 Im Roman",
+   "line": 780
+  },
+  {
+   "level": 2,
+   "title": "X. Dramatica Dual-Storyform — Strukturelle Verkörperung der Wahrheitstheorien",
+   "line": 798
+  },
+  {
+   "level": 3,
+   "title": "X.1 Vollbild beider Storyforms",
+   "line": 802
+  },
+  {
+   "level": 3,
+   "title": "X.2 Storyform A — Premise",
+   "line": 827
+  },
+  {
+   "level": 3,
+   "title": "X.3 Storyform B — Premise",
+   "line": 835
+  },
+  {
+   "level": 3,
+   "title": "X.4 Die Klein-c-Symmetrie der Truth-Rotation",
+   "line": 843
+  },
+  {
+   "level": 3,
+   "title": "X.5 Vortex (Kap 35–36) — Fünf Beats",
+   "line": 847
+  },
+  {
+   "level": 3,
+   "title": "X.6 Per-Chapter Dual-POV-Architektur — Hybrid Option 3",
+   "line": 866
+  },
+  {
+   "level": 2,
+   "title": "XI. Reader as Substrate — Die 5. Position",
+   "line": 913
+  },
+  {
+   "level": 2,
+   "title": "XII. Konsistenz-Matrix — Wer/Was korrespondiert mit wem/was",
+   "line": 947
+  },
+  {
+   "level": 3,
+   "title": "Ebenen-Komplementarität (vier Schichten pro Szene)",
+   "line": 965
+  },
+  {
+   "level": 2,
+   "title": "XIII. Offene Punkte (Reset-Doc Appendix C — vor Telling-Phase zu schließen)",
+   "line": 984
+  },
+  {
+   "level": 2,
+   "title": "XIV. Stilistische Konsequenzen für das Encoding",
+   "line": 1016
+  },
+  {
+   "level": 3,
+   "title": "XIV.1 Prosa-Prinzipien",
+   "line": 1020
+  },
+  {
+   "level": 3,
+   "title": "XIV.2 Polyphonie nach Akt",
+   "line": 1030
+  },
+  {
+   "level": 3,
+   "title": "XIV.3 Stil-Ebenen",
+   "line": 1036
+  },
+  {
+   "level": 3,
+   "title": "XIV.4 Riss-Typologie",
+   "line": 1042
+  },
+  {
+   "level": 3,
+   "title": "XIV.5 Computational-Class als Stil-Marker",
+   "line": 1053
+  },
+  {
+   "level": 2,
+   "title": "XV. Was dieser Roman nicht ist (Negativ-Definition)",
+   "line": 1064
+  },
+  {
+   "level": 2,
+   "title": "XVI. Abschluss-Note: Warum dieser Roman möglich sein muss",
+   "line": 1081
+  }
+ ]
+}

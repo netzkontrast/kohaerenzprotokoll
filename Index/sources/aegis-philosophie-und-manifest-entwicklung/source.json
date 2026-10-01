@@ -1,0 +1,35 @@
+{
+ "slug": "aegis-philosophie-und-manifest-entwicklung",
+ "sha256": "365073ffb628cdab31a74df901589becd16062b53887d4c09d2ed26a5fd95478",
+ "lines": 119,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "AEGIS-Philosophie und Manifest-Entwicklung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Tiefenanalyse der AEGIS-Ursprungsphilosophie und Ableitung des AEGIS-Manifests",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Fundamentale Prinzipien der AEGIS-Philosophie (Extraktion und Destillation)",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Philosophische Analyse: Interrogation der Prinzipien und systemische Implikationen",
+   "line": 26
+  },
+  {
+   "level": 2,
+   "title": "Teil 3: Axiomatische Kernaussagen der AEGIS-Philosophie",
+   "line": 62
+  },
+  {
+   "level": 2,
+   "title": "Teil 4: Das AEGIS-Manifest",
+   "line": 82
+  }
+ ]
+}

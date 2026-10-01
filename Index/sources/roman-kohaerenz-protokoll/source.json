@@ -1,0 +1,30 @@
+{
+ "slug": "roman-kohaerenz-protokoll",
+ "sha256": "ac9c0898bcea7254ff843678864cd811bd6cbd935fcb6b68c7bc830e2826cd3f",
+ "lines": 588,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Roman: Kohärenz Protokoll",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Vorwort",
+   "line": 11
+  },
+  {
+   "level": 1,
+   "title": "Genesis im Echo der Leere",
+   "line": 114
+  },
+  {
+   "level": 1,
+   "title": "Kapitel 1: Instrumente der Ordnung",
+   "line": 353
+  },
+  {
+   "level": 1,
+   "title": "Kapitel 2: Resonanz",
+   "line": 417
+  }
+ ]
+}

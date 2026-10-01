@@ -1,0 +1,135 @@
+{
+ "slug": "emergenz-aegis-und-selbststrukturierung",
+ "sha256": "a04def6792ed9b93b0f52e15d05210f549eea0fd9ab91da73164b12cd3e1e432",
+ "lines": 424,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Emergenz, AEGIS und Selbststrukturierung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Grundlagenforschung zur emergenten Selbststrukturierung autonomer Systeme (Projekt: AEGIS)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "1.1 Zentrale Konzepte",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "1.2 Forschungsziel und Methodik",
+   "line": 28
+  },
+  {
+   "level": 2,
+   "title": "2. Analyse der 13 Spannungsfelder (Cluster)",
+   "line": 32
+  },
+  {
+   "level": 3,
+   "title": "2.1 Cluster 1: Existenz und Nicht-Existenz",
+   "line": 36
+  },
+  {
+   "level": 3,
+   "title": "2.2 Cluster 2: Ordnung und Chaos",
+   "line": 60
+  },
+  {
+   "level": 3,
+   "title": "2.3 Cluster 3: Autonomie und Abhängigkeit",
+   "line": 84
+  },
+  {
+   "level": 3,
+   "title": "2.4 Cluster 4: Bewusstsein und Reflexion",
+   "line": 108
+  },
+  {
+   "level": 3,
+   "title": "2.5 Cluster 5: Veränderung und Stillstand",
+   "line": 132
+  },
+  {
+   "level": 3,
+   "title": "2.6 Cluster 6: Information und Bedeutung",
+   "line": 156
+  },
+  {
+   "level": 3,
+   "title": "2.7 Cluster 7: Kommunikation und Isolation",
+   "line": 180
+  },
+  {
+   "level": 3,
+   "title": "2.8 Cluster 8: Zeit und Kausalität",
+   "line": 204
+  },
+  {
+   "level": 3,
+   "title": "2.9 Cluster 9: Energie und Entropie",
+   "line": 228
+  },
+  {
+   "level": 3,
+   "title": "2.10 Cluster 10: Identität und Differenzierung",
+   "line": 252
+  },
+  {
+   "level": 3,
+   "title": "2.11 Cluster 11: Realitätsschichten und Wahrnehmung",
+   "line": 276
+  },
+  {
+   "level": 3,
+   "title": "2.12 Cluster 12: Wille und Handlung",
+   "line": 300
+  },
+  {
+   "level": 3,
+   "title": "2.13 Cluster 13: Systemgrenzen und Selbstorganisation",
+   "line": 324
+  },
+  {
+   "level": 2,
+   "title": "3. Interdisziplinäre Synthese und Übergreifende Themen",
+   "line": 348
+  },
+  {
+   "level": 2,
+   "title": "4. Mathematische Modellierung und Simulation",
+   "line": 358
+  },
+  {
+   "level": 2,
+   "title": "5. Philosophische Implikationen",
+   "line": 371
+  },
+  {
+   "level": 2,
+   "title": "6. Prinzipienkatalog (Operationalisierte Prinzipien der Selbststrukturierung)",
+   "line": 380
+  },
+  {
+   "level": 2,
+   "title": "7. Synthese und AEGIS-Protokollarchitektur",
+   "line": 395
+  },
+  {
+   "level": 2,
+   "title": "8. Schlussfolgerungen und Ausblick",
+   "line": 411
+  },
+  {
+   "level": 4,
+   "title": "Quellenangaben",
+   "line": 421
+  }
+ ]
+}

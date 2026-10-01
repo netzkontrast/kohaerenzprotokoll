@@ -1,0 +1,30 @@
+{
+ "slug": "finales-kausales-plot-geruest",
+ "sha256": "f94b81ea1af18da70ab2b4c1a4b55873adf62b669618f6d390fe0e438106d717",
+ "lines": 226,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Finales Kausales Plot-Gerüst",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Kohärenz Protokoll: Finales Kausales Plot-Gerüst & Dramaturgische Funktionen",
+   "line": 11
+  },
+  {
+   "level": 3,
+   "title": "AKT I: Fragmentierung und erste Echos (Kapitel 1-13)",
+   "line": 20
+  },
+  {
+   "level": 3,
+   "title": "AKT II: Die Meta-Ebene / Der fehlgeleitete Reparaturversuch (Kapitel 14-26)",
+   "line": 102
+  },
+  {
+   "level": 3,
+   "title": "AKT III: Äußere Konfrontation & Transformation (Kapitel 27-39)",
+   "line": 158
+  }
+ ]
+}

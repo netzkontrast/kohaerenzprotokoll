@@ -1,0 +1,85 @@
+{
+ "slug": "ki-roman-assistent-web-app-entwurf",
+ "sha256": "3775e7f7c78d77e374cd5b0a0d8153aeab0f97bc479053e489b36a77d0a92368",
+ "lines": 238,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "KI-Roman-Assistent: Web-App-Entwurf",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Architektonische Spezifikation und Systementwurf: Die Claude-Code Web-Konsole für das Kohärenz-Protokoll",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Die Konvergenz von Narrativem Design und Generativer Benutzeroberfläche",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Mentale Übersicht und Funktionale Architektur der Web-Konsole",
+   "line": 21
+  },
+  {
+   "level": 2,
+   "title": "Generative UI-Pattern und Agentenbasierte Frontend-Orchestrierung",
+   "line": 33
+  },
+  {
+   "level": 3,
+   "title": "Die Deklarative Spezifikation: A2UI und AG-UI",
+   "line": 37
+  },
+  {
+   "level": 3,
+   "title": "Die Runtime-Ebene: Vercel AI SDK und React Server Components",
+   "line": 43
+  },
+  {
+   "level": 2,
+   "title": "Die Abstrakte API: Kapselung narrativer Frontend-Elemente",
+   "line": 51
+  },
+  {
+   "level": 2,
+   "title": "Die Claude-Code Skill Definition: Orchestrierung des Workflows",
+   "line": 70
+  },
+  {
+   "level": 3,
+   "title": "Struktur der Skill-Definition (novel-architect/SKILL.md)",
+   "line": 76
+  },
+  {
+   "level": 2,
+   "title": "Visuelle Identität und UI-Thematisierung der Konsole",
+   "line": 125
+  },
+  {
+   "level": 3,
+   "title": "Die psychologische Farbpalette als Design-Token",
+   "line": 131
+  },
+  {
+   "level": 3,
+   "title": "Strukturelle Metaphern und Formensprache in der UI-Architektur",
+   "line": 151
+  },
+  {
+   "level": 2,
+   "title": "Implementierung und Vercel-Deployment Workflow",
+   "line": 163
+  },
+  {
+   "level": 2,
+   "title": "Zusammenfassung und Schlussfolgerung",
+   "line": 184
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 194
+  }
+ ]
+}

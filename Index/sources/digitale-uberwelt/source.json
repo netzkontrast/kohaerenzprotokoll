@@ -1,0 +1,30 @@
+{
+ "slug": "digitale-uberwelt",
+ "sha256": "e5643830c8daff0fd1906c3b8113c2b0c5f7c70d1d33f753bfa1311af6cd91ac",
+ "lines": 195,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Digitale Überwelt",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Konzept einer Digitalen Überwelt: Struktur, Protokolle und Narrative Gestaltung",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "II. Guardian-Interface-Protokolle",
+   "line": 23
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 112
+  }
+ ]
+}

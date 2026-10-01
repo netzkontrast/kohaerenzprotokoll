@@ -1,0 +1,85 @@
+{
+ "slug": "narrativ",
+ "sha256": "d4fa8f9032ecc0195f7701d2aa0c617f642ec5f217b0639873d3ebff1bde0ab9",
+ "lines": 239,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Narrativ",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Narrative Methodik – „Die Werkzeuge des Architekten“: Ein Operatives Kompendium",
+   "line": 13
+  },
+  {
+   "level": 4,
+   "title": "1. Die polyphone Prosa für Kael: Die Architektur des fragmentierten Selbst",
+   "line": 17
+  },
+  {
+   "level": 4,
+   "title": "2. Der klinisch-distanzierte Stil für AEGIS: Die Logik eines fehlerhaften Gottes",
+   "line": 38
+  },
+  {
+   "level": 4,
+   "title": "3. Environmental Storytelling für die Kernwelten: Die Erzählung der Umgebung",
+   "line": 55
+  },
+  {
+   "level": 4,
+   "title": "4. Ethische Verantwortung bei der Darstellung von Trauma und DIS",
+   "line": 68
+  },
+  {
+   "level": 4,
+   "title": "5. Gezielte Steuerung der epistemologischen Reise des Lesers",
+   "line": 80
+  },
+  {
+   "level": 4,
+   "title": "6. Die Architektenwerkzeuge: Methodologie und Workflow",
+   "line": 101
+  },
+  {
+   "level": 3,
+   "title": "Der Bauplan für \"Kohärenz Protokoll\": Eine Narrative Architektur",
+   "line": 119
+  },
+  {
+   "level": 4,
+   "title": "I. AEGIS: Logik und Paradoxon des Kontrollsystems",
+   "line": 123
+  },
+  {
+   "level": 4,
+   "title": "II. System Kael: Tiefe & Dynamik der Anteile",
+   "line": 143
+  },
+  {
+   "level": 4,
+   "title": "III. Das Fundament & Juna/V: Transzendente Ebenen & Verbindung",
+   "line": 161
+  },
+  {
+   "level": 4,
+   "title": "IV. Weltenbau & Setting: Kernwelten & Die Realitätsebenen",
+   "line": 169
+  },
+  {
+   "level": 4,
+   "title": "V. Narrative Methodologien & Techniken",
+   "line": 186
+  },
+  {
+   "level": 4,
+   "title": "VI. Leitprinzipien",
+   "line": 222
+  },
+  {
+   "level": 4,
+   "title": "VII. Projekt-Status & Nächste Schritte",
+   "line": 232
+  }
+ ]
+}

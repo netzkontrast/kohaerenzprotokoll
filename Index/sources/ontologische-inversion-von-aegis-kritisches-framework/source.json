@@ -1,0 +1,95 @@
+{
+ "slug": "ontologische-inversion-von-aegis-kritisches-framework",
+ "sha256": "c24faa77e8f71d58e4cfce4fb0e7a4d47ea99e7cc4ce0dd310320abceb173790",
+ "lines": 167,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Ontologische Inversion von AEGIS: Kritisches Framework",
+ "heading_tree": [
+  {
+   "level": 2,
+   "title": "----------name: narrative-critical-thinking description: Wende systematische Forschungsmethoden und kritisches Denken auf die Dual-Kernel-Narrativ-Engine an. Nutze diesen Skill zur Evaluierung von System-Traces, zur Bias-Kontrolle, zur Überprüfung epistemologischer Axiome (Korrespondenz vs. Kohärenz) und zur Analyse der Thermodynamik der Bedeutung.",
+   "line": 15
+  },
+  {
+   "level": 1,
+   "title": "Kritisches Denken & Systematische Forschung in post-linearen Narrativen",
+   "line": 17
+  },
+  {
+   "level": 2,
+   "title": "Wann dieser Skill zu verwenden ist",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "Workflows der Wahrheitsfindung (F&E Abstraktion)",
+   "line": 34
+  },
+  {
+   "level": 2,
+   "title": "Exemplarische Analyse: Die Ontologische Inversion von AEGIS",
+   "line": 77
+  },
+  {
+   "level": 3,
+   "title": "1. AEGIS als Kollaps-Kernel ($K0$) & Korrespondenz-Wahrheit",
+   "line": 81
+  },
+  {
+   "level": 3,
+   "title": "2. Die wahre Kohärenz ($K1$) & Kohärenz-Wahrheit",
+   "line": 94
+  },
+  {
+   "level": 2,
+   "title": "Analyse-Framework für das Prompt-Engineering",
+   "line": 105
+  },
+  {
+   "level": 3,
+   "title": "Schritt 1: Epistemologischen Standpunkt prüfen",
+   "line": 109
+  },
+  {
+   "level": 3,
+   "title": "Schritt 2: Thermodynamische Kosten messen",
+   "line": 114
+  },
+  {
+   "level": 3,
+   "title": "Schritt 3: Gödelsche Stresstests (Dialetheismus)",
+   "line": 119
+  },
+  {
+   "level": 2,
+   "title": "Output Template für System-Audits",
+   "line": 125
+  },
+  {
+   "level": 2,
+   "title": "Narrative System & Trace Audit",
+   "line": 129
+  },
+  {
+   "level": 3,
+   "title": "1. PICO State (Ausgangslage)",
+   "line": 135
+  },
+  {
+   "level": 3,
+   "title": "2. Ontologische Einordnung (Inversions-Check)",
+   "line": 142
+  },
+  {
+   "level": 3,
+   "title": "3. Risk of Bias (Verzerrungen)",
+   "line": 147
+  },
+  {
+   "level": 3,
+   "title": "4. Architektonische Empfehlung (Synthese)",
+   "line": 153
+  }
+ ]
+}

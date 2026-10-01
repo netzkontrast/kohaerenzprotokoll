@@ -1,0 +1,110 @@
+{
+ "slug": "roman-refactoring-kohaerenz-und-charakterentwicklung",
+ "sha256": "e4d8374bdf77e62efe42b123e266e289dc95c52592b6ed5ddaa11a8f4244134b",
+ "lines": 166,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Roman-Refactoring: Kohärenz und Charakterentwicklung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Systemischer Refaktorierungsplan: Das Kohärenz Protokoll",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Architektonische Integration in die Repositorium-Struktur",
+   "line": 17
+  },
+  {
+   "level": 2,
+   "title": "2. Fundamentale Ontologie: Die Dual-Kernel-Theorie und der Wahrheitsbegriff",
+   "line": 25
+  },
+  {
+   "level": 2,
+   "title": "3. Die psychologische Architektur: System Kael und funktionale Multiplizität",
+   "line": 35
+  },
+  {
+   "level": 3,
+   "title": "3.1 Kartierung der Anteile auf physikalisch-mathematische Metaphern",
+   "line": 43
+  },
+  {
+   "level": 3,
+   "title": "3.2 Die literarische Umsetzung: Funktionale Multiplizität durch polyphone Narration",
+   "line": 64
+  },
+  {
+   "level": 2,
+   "title": "4. Refactoring Akt I: Die Ästhetik des Unerklärlichen (Kapitel 1 – 13)",
+   "line": 70
+  },
+  {
+   "level": 3,
+   "title": "4.1 Architektonischer Horror und Unberechenbarkeit",
+   "line": 74
+  },
+  {
+   "level": 3,
+   "title": "4.2 Das Landauer-Prinzip und das Nichts-Rauschen",
+   "line": 78
+  },
+  {
+   "level": 3,
+   "title": "4.3 Die Grenzsituation als Katalysator",
+   "line": 82
+  },
+  {
+   "level": 2,
+   "title": "5. Refactoring Akt II: Die Überwelt und die Anatomie des Rauschens (Kapitel 14 – 26)",
+   "line": 86
+  },
+  {
+   "level": 3,
+   "title": "5.1 Der Diskurs mit LogOS und das Scheitern der Logik",
+   "line": 90
+  },
+  {
+   "level": 3,
+   "title": "5.2 Die Zerstörung der Identität durch Mnemosyne",
+   "line": 96
+  },
+  {
+   "level": 3,
+   "title": "5.3 Das Informationsparadoxon und die Verschränkungs-Inseln",
+   "line": 102
+  },
+  {
+   "level": 2,
+   "title": "6. Refactoring Akt III: Die Fusion und das Mosaik-Herz (Kapitel 27 – 39)",
+   "line": 108
+  },
+  {
+   "level": 3,
+   "title": "6.1 Die Emergenz der Zeit durch den Page-Wootters-Mechanismus",
+   "line": 112
+  },
+  {
+   "level": 3,
+   "title": "6.2 Die mystische Entgrenzung: Ayin und das Sein zum Tode",
+   "line": 118
+  },
+  {
+   "level": 3,
+   "title": "6.3 Das Mosaik-Herz und der Einbruch in die externe Realität",
+   "line": 124
+  },
+  {
+   "level": 2,
+   "title": "7. Strategische Empfehlungen und nächste Schritte",
+   "line": 130
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 140
+  }
+ ]
+}

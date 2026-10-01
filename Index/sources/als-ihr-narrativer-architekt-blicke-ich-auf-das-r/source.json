@@ -1,0 +1,35 @@
+{
+ "slug": "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+ "sha256": "f1765b2a516727537da1b9fe291292aabb3aafa22b85f7f689e480062d47ad5d",
+ "lines": 149,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Als Ihr Narrativer Architekt blicke ich auf das r...",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Kohärenz Protokoll: Finaler Kausaler Bauplan & Detaillierte Kapitelübersicht",
+   "line": 11
+  },
+  {
+   "level": 3,
+   "title": "Akt I: Ki (起) – Die Einführung (Kapitel 1-13)",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "Akt II: Shō (承) – Die Entwicklung (Kapitel 14-26)",
+   "line": 84
+  },
+  {
+   "level": 3,
+   "title": "Akt III: Ten (転) – Die Wendung (Kapitel 27-34)",
+   "line": 114
+  },
+  {
+   "level": 3,
+   "title": "Akt IV: Ketsu (結) – Die Zusammenführung (Kapitel 35-40)",
+   "line": 134
+  }
+ ]
+}

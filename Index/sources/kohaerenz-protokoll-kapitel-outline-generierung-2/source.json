@@ -1,0 +1,255 @@
+{
+ "slug": "kohaerenz-protokoll-kapitel-outline-generierung-2",
+ "sha256": "50a1a282800856d1d70f9770ea23cbfa27f6b6a265951dfa8009cfb24f4e1c42",
+ "lines": 415,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Kapitel-Outline-Generierung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — 39-Kapitel-Outline mit Dual-Storyform-Encoding",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Theoretisches Fundament: Die Physik der Erzählung",
+   "line": 15
+  },
+  {
+   "level": 2,
+   "title": "Die Dramatica-Architektur: Dual-Storyform-Symmetrie",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "Das System Kael: Dissoziative Identität als Überlebensstrategie",
+   "line": 39
+  },
+  {
+   "level": 2,
+   "title": "Akt I: Die Ästhetik der Ohnmacht (Kapitel 1–13)",
+   "line": 59
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 1: Der Universal Reboot",
+   "line": 63
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 2: Kausale Horizonte",
+   "line": 72
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 3: Die Juna-Anomalie",
+   "line": 81
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 4: Der erste thermische Glitch",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 5: Die semantische Firewall",
+   "line": 97
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 6: Wittgensteins Grenze",
+   "line": 105
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 7: Der erste Pivot — Überschreiten der Schwelle",
+   "line": 113
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 8: Der Mnemosyne-Archipel",
+   "line": 122
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 9: Das Echo von Silas",
+   "line": 130
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 10: Die Bekenstein-Klaustrophobie",
+   "line": 138
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 11: Nyx’ Erwachen",
+   "line": 146
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 12: Die kalte Melancholie des LogOS",
+   "line": 154
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 13: Der totale System-Kollaps",
+   "line": 162
+  },
+  {
+   "level": 2,
+   "title": "Akt II: Die Anatomie der Spaltung (Kapitel 14–26)",
+   "line": 171
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 14: Erwachen im Nexus",
+   "line": 175
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 15: Die Chaitin-Konstante",
+   "line": 183
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 16: Das Halteproblem",
+   "line": 191
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 17: Der Mnemosyne-Verrat",
+   "line": 199
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 18: Qualia vs. Information",
+   "line": 207
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 19: Die thermische Inversion",
+   "line": 215
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 20: Der Midpoint — Das Parakonsistente Gambit",
+   "line": 223
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 21: Gegenangriff der EPs",
+   "line": 232
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 22: Die Pixelierung des Selbst (II)",
+   "line": 240
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 23: Verrat der Logik",
+   "line": 248
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 24: Algorithmische Melancholie",
+   "line": 256
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 25: Ontologischer Selbstmord (II)",
+   "line": 264
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 26: Der Abgrund — Die dunkle Nacht",
+   "line": 272
+  },
+  {
+   "level": 2,
+   "title": "Akt III: Die existenzielle Fusion (Kapitel 27–39)",
+   "line": 281
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 27: Der Marsch zum Vortex",
+   "line": 285
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 28: Die Resonanz der Wirklichkeit",
+   "line": 293
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 29: Alles-oder-Nichts",
+   "line": 301
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 30: Das Falsche Ende (V2)",
+   "line": 309
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 31: Oblivions Erwachen",
+   "line": 317
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 32: Der Marsch zum Mnemosyne-Archipel",
+   "line": 325
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 33: Der Showdown im Vortex (I)",
+   "line": 333
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 34: Der Showdown im Vortex (II)",
+   "line": 341
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 35: Der Vortex-Pivot — Die Truth-Rotation",
+   "line": 349
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 36: Das Opfer am Mnemosyne-Archipel",
+   "line": 357
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 37: Der Klimax — Zielkohärenz",
+   "line": 365
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 38: Rückkehr / Ankunft",
+   "line": 373
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 39: Ouroboros — Die Inversion des Ozons",
+   "line": 381
+  },
+  {
+   "level": 2,
+   "title": "Die Mechanik des Vortex und das Ouroboros-Leitmotiv",
+   "line": 389
+  },
+  {
+   "level": 2,
+   "title": "Schlussbetrachtung: Reader-Substrat und Zielkohärenz",
+   "line": 395
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 401
+  }
+ ]
+}

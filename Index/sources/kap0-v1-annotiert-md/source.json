@@ -1,0 +1,185 @@
+{
+ "slug": "kap0-v1-annotiert-md",
+ "sha256": "136e6554b6f2d8f122206863647d15202d3c10163242b559037ef9a08b1c2e77",
+ "lines": 1238,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "kap0-v1-annotiert.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Kapitel 0 (Einleitung: Genesis der Existenz)",
+   "line": 29
+  },
+  {
+   "level": 2,
+   "title": "Annotierte Version, Entwurf v1",
+   "line": 31
+  },
+  {
+   "level": 2,
+   "title": "TEIL A — Regel-Rahmen (Geltung für Kap 0)",
+   "line": 35
+  },
+  {
+   "level": 3,
+   "title": "A.1 Hard Rules, die Kap 0 erfüllen muss",
+   "line": 37
+  },
+  {
+   "level": 3,
+   "title": "A.2 Stand der Selbstkritik",
+   "line": 81
+  },
+  {
+   "level": 2,
+   "title": "TEIL B — Annotierter Entwurf",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "Vorwort",
+   "line": 91
+  },
+  {
+   "level": 3,
+   "title": "Genesis — Bewegung 1: Das Rauschen",
+   "line": 143
+  },
+  {
+   "level": 3,
+   "title": "Genesis — Bewegung 2: Herz der Leere",
+   "line": 159
+  },
+  {
+   "level": 3,
+   "title": "Genesis — Bewegung 3: Erste Kontakte",
+   "line": 199
+  },
+  {
+   "level": 3,
+   "title": "Genesis — Bewegung 4: Sog der Ordnung",
+   "line": 275
+  },
+  {
+   "level": 3,
+   "title": "Genesis — Bewegung 5: Überlebenskampf",
+   "line": 323
+  },
+  {
+   "level": 3,
+   "title": "Genesis — Bewegung 6: Der große Wandel (verschmolzen mit Komp 734 + Innere Weite)",
+   "line": 363
+  },
+  {
+   "level": 3,
+   "title": "Dazwischen",
+   "line": 491
+  },
+  {
+   "level": 3,
+   "title": "Krise — Bewegung 7: Die Stille Wacht",
+   "line": 527
+  },
+  {
+   "level": 3,
+   "title": "Krise — Bewegung 8: Perturbation aus der Leere",
+   "line": 579
+  },
+  {
+   "level": 3,
+   "title": "Krise — Bewegung 9: Algorithmischer Schrecken",
+   "line": 647
+  },
+  {
+   "level": 3,
+   "title": "Krise — Bewegung 10: Resonanzkaskade",
+   "line": 755
+  },
+  {
+   "level": 3,
+   "title": "Krise — Bewegung 11: Systemischer Kollaps",
+   "line": 855
+  },
+  {
+   "level": 3,
+   "title": "Krise — Bewegung 12: Trennungsprotokoll",
+   "line": 911
+  },
+  {
+   "level": 3,
+   "title": "Schluss / Übergang zu Kap 1",
+   "line": 1019
+  },
+  {
+   "level": 2,
+   "title": "TEIL C — Konsolidierung der Defekte",
+   "line": 1035
+  },
+  {
+   "level": 3,
+   "title": "C.1 Identifizierte Regelverletzungen, nach Schweregrad",
+   "line": 1037
+  },
+  {
+   "level": 4,
+   "title": "Kritisch (3)",
+   "line": 1039
+  },
+  {
+   "level": 4,
+   "title": "Hoch (4)",
+   "line": 1051
+  },
+  {
+   "level": 4,
+   "title": "Mittel (5)",
+   "line": 1067
+  },
+  {
+   "level": 4,
+   "title": "Niedrig-Mittel (3)",
+   "line": 1087
+  },
+  {
+   "level": 3,
+   "title": "C.2 Strukturelle Bewertung",
+   "line": 1099
+  },
+  {
+   "level": 3,
+   "title": "C.3 Was eine Revision v2 verändern müsste",
+   "line": 1111
+  },
+  {
+   "level": 3,
+   "title": "C.4 Empfehlung an den User",
+   "line": 1137
+  },
+  {
+   "level": 2,
+   "title": "TEIL D — Methodische Anker",
+   "line": 1157
+  },
+  {
+   "level": 3,
+   "title": "D.1 Narrative Methoden, die in Kap 0 wirken sollen",
+   "line": 1159
+  },
+  {
+   "level": 3,
+   "title": "D.2 Bezug zum Konzept-Korpus",
+   "line": 1183
+  },
+  {
+   "level": 3,
+   "title": "D.3 Bezug zur Sprach-DNA",
+   "line": 1191
+  },
+  {
+   "level": 2,
+   "title": "TEIL E — Offene Fragen für den externen Reviewer",
+   "line": 1199
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "outline",
+ "sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+ "lines": 276,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Outline",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Teil 1: Fragmentierung und erste Echos (Kapitel 1-13)",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "Teil 2: Systemanalyse und Mustererkennung (Kapitel 14-26) – Die Anatomie des Zerfalls",
+   "line": 93
+  },
+  {
+   "level": 4,
+   "title": "I. Das übergreifende Ziel und der psychologische Bogen",
+   "line": 97
+  },
+  {
+   "level": 4,
+   "title": "II. Die thematische Architektur: Eine genreübergreifende Analyse",
+   "line": 101
+  },
+  {
+   "level": 4,
+   "title": "III. Die Dynamik von System Kael und die polyphone Erzählung",
+   "line": 112
+  },
+  {
+   "level": 4,
+   "title": "IV. Die Konfrontation mit AEGIS und den Kernwelten",
+   "line": 126
+  },
+  {
+   "level": 4,
+   "title": "V. Leserführung und Spannung",
+   "line": 136
+  },
+  {
+   "level": 4,
+   "title": "VI. Vorbereitung auf die finale Konfrontation",
+   "line": 140
+  },
+  {
+   "level": 3,
+   "title": "Teil 3: Konfrontation und Integration (Kapitel 27-39)",
+   "line": 154
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+ "sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+ "lines": 1394,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "koharenz-protokoll-strukturierter-outline-2026-05-18.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Strukturierter Outline aller 41 Bewegungen",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "0. Anleitung zum Lesen — vier Ebenen, die simultan laufen",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "Ebene 1 — Kishōtenketsu (japanische Vier-Bewegung-Erzählweise als Top-Level-Klammer)",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "Ebene 2 — Dramatica-Dual-Storyform (strukturelle Mechanik)",
+   "line": 38
+  },
+  {
+   "level": 3,
+   "title": "Ebene 3 — Drei narrative Modi (Erzählhaltung)",
+   "line": 86
+  },
+  {
+   "level": 3,
+   "title": "Ebene 4 — Charaktere, Plotpoints, Sensorik pro Kapitel",
+   "line": 105
+  },
+  {
+   "level": 2,
+   "title": "1. Charakter-Personal (kanonisch, exakt 13 Alters + AEGIS + Juna + Mnemosyne + Erasure-Pol)",
+   "line": 113
+  },
+  {
+   "level": 3,
+   "title": "1.1 AEGIS — Der tragische Gott",
+   "line": 115
+  },
+  {
+   "level": 3,
+   "title": "1.2 Juna — Die, die nicht beschrieben wird",
+   "line": 119
+  },
+  {
+   "level": 3,
+   "title": "1.3 Kael — Das System (Host und Gesamtarchitektur)",
+   "line": 123
+  },
+  {
+   "level": 3,
+   "title": "1.4 Die fünf ANPs (Apparently Normal Parts)",
+   "line": 127
+  },
+  {
+   "level": 3,
+   "title": "1.5 Die fünf EPs (Emotional Parts)",
+   "line": 138
+  },
+  {
+   "level": 3,
+   "title": "1.6 Drei Sonderfiguren",
+   "line": 149
+  },
+  {
+   "level": 3,
+   "title": "1.7 Die zwei Guardians (auf 2 reduziert)",
+   "line": 158
+  },
+  {
+   "level": 2,
+   "title": "2. Welt-Architektur (die vier Kernwelten)",
+   "line": 167
+  },
+  {
+   "level": 2,
+   "title": "3. Die fünf strukturellen Blöcke des Romans",
+   "line": 185
+  },
+  {
+   "level": 2,
+   "title": "4. Kapitel-für-Kapitel-Outline",
+   "line": 203
+  },
+  {
+   "level": 3,
+   "title": "Kap 0 — Genesis-Prolog",
+   "line": 211
+  },
+  {
+   "level": 3,
+   "title": "Kap 1 — Erwachen in der Konstrukt-Stadt",
+   "line": 247
+  },
+  {
+   "level": 3,
+   "title": "Kap 2 — Der erste Riss",
+   "line": 271
+  },
+  {
+   "level": 3,
+   "title": "Kap 3 — Bunker-Bau",
+   "line": 295
+  },
+  {
+   "level": 3,
+   "title": "Kap 4 — Pforten der Verurteilung",
+   "line": 319
+  },
+  {
+   "level": 3,
+   "title": "Kap 5 — Auge des Sturms",
+   "line": 343
+  },
+  {
+   "level": 3,
+   "title": "Kap 6 — Echos im Fundament",
+   "line": 367
+  },
+  {
+   "level": 3,
+   "title": "Kap 7 — Die Stimme im Rauschen",
+   "line": 391
+  },
+  {
+   "level": 3,
+   "title": "Kap 8 — Die Wächterin",
+   "line": 415
+  },
+  {
+   "level": 3,
+   "title": "Kap 9 — Wir",
+   "line": 439
+  },
+  {
+   "level": 3,
+   "title": "Kap 10 — Die erste Brücke",
+   "line": 463
+  },
+  {
+   "level": 3,
+   "title": "Kap 11 — Mosaik des Selbst",
+   "line": 487
+  },
+  {
+   "level": 3,
+   "title": "Kap 12 — Stille der Mitte",
+   "line": 511
+  },
+  {
+   "level": 3,
+   "title": "Kap 13 — Tanz im Garten",
+   "line": 535
+  },
+  {
+   "level": 3,
+   "title": "Kap 14 — Bruch des Gleichgewichts",
+   "line": 563
+  },
+  {
+   "level": 3,
+   "title": "Kap 15 — Z1-Destabilisierung: Trigger",
+   "line": 587
+  },
+  {
+   "level": 3,
+   "title": "Kap 16 — Z1-Reaktion: Bunker reaktiv",
+   "line": 611
+  },
+  {
+   "level": 3,
+   "title": "Kap 17 — Z1-Korrektur: Wächterin",
+   "line": 635
+  },
+  {
+   "level": 3,
+   "title": "Kap 18 — Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)",
+   "line": 659
+  },
+  {
+   "level": 3,
+   "title": "Kap 19 — Z2-Reaktion + AEGIS-Intervention",
+   "line": 683
+  },
+  {
+   "level": 3,
+   "title": "Kap 20 — Z2-Korrektur: Lyons-Kreativität",
+   "line": 707
+  },
+  {
+   "level": 3,
+   "title": "Kap 21 — Z3-Destabilisierung + Genesis-Flashback (Trennungsprotokoll)",
+   "line": 731
+  },
+  {
+   "level": 3,
+   "title": "Kap 22 — Z3-Reaktion + Genesis-Flashback (Komp 734)",
+   "line": 755
+  },
+  {
+   "level": 3,
+   "title": "Kap 23 — Z3-Korrektur: Mosaik als Schöpfung",
+   "line": 779
+  },
+  {
+   "level": 3,
+   "title": "Kap 24 — Telefon-Stille (K-J-Thema wiederkehrend)",
+   "line": 803
+  },
+  {
+   "level": 3,
+   "title": "Kap 25 — Wendepunkt-Vorbereitung",
+   "line": 827
+  },
+  {
+   "level": 3,
+   "title": "Kap 26 — Wendepunkt: Entscheidung zur Befreiung",
+   "line": 851
+  },
+  {
+   "level": 3,
+   "title": "Kap 27 — Ordinary World: Entschlossenheit",
+   "line": 879
+  },
+  {
+   "level": 3,
+   "title": "Kap 28 — Call to Adventure: AEGIS' Eskalation / Juna in Gefahr",
+   "line": 903
+  },
+  {
+   "level": 3,
+   "title": "Kap 29 — Refusal: Letzte Zweifel, Trauma-Echo",
+   "line": 927
+  },
+  {
+   "level": 3,
+   "title": "Kap 30 — Meeting Mentor: K-J Verbindung Kulmination",
+   "line": 951
+  },
+  {
+   "level": 3,
+   "title": "Kap 31 — Crossing First Threshold: Angriff auf AEGIS",
+   "line": 975
+  },
+  {
+   "level": 3,
+   "title": "Kap 32 — Tests, Allies, Enemies: Systemkampf",
+   "line": 999
+  },
+  {
+   "level": 3,
+   "title": "Kap 33 — Approach Inmost Cave: Vordringen zu AEGIS' Kern",
+   "line": 1023
+  },
+  {
+   "level": 3,
+   "title": "Kap 34 — Konfrontation: Zwei Arten der Kohärenz",
+   "line": 1047
+  },
+  {
+   "level": 3,
+   "title": "Kap 35 — Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst",
+   "line": 1071
+  },
+  {
+   "level": 3,
+   "title": "Kap 36 — Vortex 1 Beat 4–5: Stille, Übergang",
+   "line": 1101
+  },
+  {
+   "level": 3,
+   "title": "Kap 37 — Der Gärtner / Trügerischer Sieg",
+   "line": 1134
+  },
+  {
+   "level": 3,
+   "title": "Kap 38 — Die Resonanz, die ankommt (Vortex 2 Beat 1–5)",
+   "line": 1158
+  },
+  {
+   "level": 3,
+   "title": "Kap 39 — Wir-AEGIS-plural (Vortex 2 Beat 6–10)",
+   "line": 1190
+  },
+  {
+   "level": 3,
+   "title": "Kap 40 — Geheilte Genesis (Coda)",
+   "line": 1226
+  },
+  {
+   "level": 2,
+   "title": "5. Synoptische Tabelle aller 41 Bewegungen",
+   "line": 1262
+  },
+  {
+   "level": 2,
+   "title": "6. Strukturelle Lesehilfen",
+   "line": 1313
+  },
+  {
+   "level": 3,
+   "title": "6.1 Wie die vier Ebenen pro Kapitel zusammen lesen",
+   "line": 1315
+  },
+  {
+   "level": 3,
+   "title": "6.2 Drei Übergänge — strukturell verschieden",
+   "line": 1326
+  },
+  {
+   "level": 3,
+   "title": "6.3 Die drei wichtigsten erzählerischen Bewegungen, parallel betrachtet",
+   "line": 1338
+  },
+  {
+   "level": 3,
+   "title": "6.4 Charakter-Auftrittsverteilung (Spannungsbogen)",
+   "line": 1344
+  },
+  {
+   "level": 2,
+   "title": "7. Offene Fragen (OQs), die den Outline-Detail beeinflussen",
+   "line": 1364
+  },
+  {
+   "level": 2,
+   "title": "8. Drei Sätze, die beim Lesen hängenbleiben sollen",
+   "line": 1381
+  }
+ ]
+}
