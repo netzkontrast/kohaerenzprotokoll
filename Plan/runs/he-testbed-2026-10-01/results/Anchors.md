@@ -23,4 +23,17 @@ The model returned no row on this document.
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1577, 56.2 s. **10 rows**: 7 candidates, 3 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Canon §0 Schleier-Disziplin | Kap 25–26 | pays_off | denies | Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26; die alte Fassung löste das nicht ein. | 21 |
+| 2 | relation_reading | candidate | ihr Vorbeigehen an der Tür | Kap 26 | pays_off | asserts | ihr Vorbeigehen an der Tür in Kap 26 ist vorbereitet | 22 |
+| 3 | relation_reading | candidate | Canon-Weltanker | Kap 25 | pays_off | asserts | Das löst den Canon-Weltanker für Kap 25 ein (KW3, Wartungsschächte, Anker 734 dritte Wiederkehr) | 23 |
+| 4 | relation_reading | candidate | die einrastende Verkleidung | Kap 24 | echoes | asserts | Hook-in aus Kap 24 explizit (die einrastende Verkleidung) | 25 |
+| 5 | relation_reading | candidate | die Restzahl steht nach Schichtende bei 34 statt 31 | Kap 26 | plants | asserts | neuer Hook-out: die Restzahl steht nach Schichtende bei 34 statt 31 und wird morgen früh nicht bei sechs stehen → trägt direkt in Kap 26 | 25 |
+| 6 | relation_reading | refused: quote not placed | Wärmespur | einer ozonfreien Szene | echoes | asserts | Wärmespur nur als Rückverweis („die vier Abende“) in einer ozonfreien Szene |  |
+| 7 | relation_reading | candidate | die Instanz | Kapitel 14–26 | withholds | asserts | Die gedrafteten Kapitel 14–26 benennen die Instanz trotzdem nirgends leserseitig | 55 |
+| 8 | relation_reading | refused: quote not placed | das Fehlen des Klicks | Vortex 1 Beat 3 | plants | asserts | Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist „das Fehlen des Klicks“ global. |  |
+| 9 | relation_reading | refused: surface absent from document | Einheit Station 7 | Akt III (Kap 27/28) | echoes | asks | Trägt sie in Akt III weiter (Kap 27/28) oder bleibt sie eine Delta-Sieben-Figur? | 59 |
+| 10 | relation_reading | candidate | KW3 | Kap 25 | pays_off | asserts | Kap 25 löst KW3 jetzt | 60 |

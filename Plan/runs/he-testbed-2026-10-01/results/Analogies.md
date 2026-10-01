@@ -23,4 +23,8 @@ Beside the Haiku pilot of 2026-09-30 on this document: the candidates stand on 0
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1136, 28.7 s. **0 rows**: 0 candidates, 0 refused, 0 duplicates.
+
+Staging refused the run: `empty or invalid candidate list: not a successful extraction`
+
+The model returned no row on this document.
