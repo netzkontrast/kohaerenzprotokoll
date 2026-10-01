@@ -999,6 +999,20 @@ Two things the build found, fixed in place:
   `quotes.pairs` / `quotes.verdict` and both use it; `quotes.py`'s own numbers
   did not change.
 
+## Gold for learnings — 2026-09-30, PR #131
+
+The author: „Extract more Gold for learnings“, then „Maybe we need to extend the Gold List with
+additional Relation types like the ones defined in the hyperextract contracts“ and „Lets improve our
+evaluations“. `Plan/runs/gold-2026-09-30/README.md` has all of it.
+- **Six new gold candidate lists.** This is steps 1–3 only: no census, note or reconciliation, so
+  step 6's pause on full readings stands and `account.py order` is untouched.
+- **`scripts/goldeval.py`** scores every extractor (the HyperExtract contracts, entity lists, blind
+  re-readings) against every gold list.
+- **`scripts/goldrel.py`** holds gold relations in the contracts' own types. It was piloted on three
+  documents and scores TermDefinitions, TermContrasts and CausalLinks.
+- **Open:** a second blind relation reader on the same three documents, to measure the ceiling a
+  relation score must be read against. Only after that, more documents.
+
 ## The new tools as second readers — document 14, 2026-09-24
 
 The author's instruction for this session was „nutze die neuen Tools". Of the
@@ -1062,7 +1076,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 59 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 65 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200

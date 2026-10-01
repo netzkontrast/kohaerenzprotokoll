@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      8
+  backslash escapes      109
+  typographic marks      36
+  ascii quotes           68
+
+# inflection families -- one term, several surfaces
+  opera    OPERATIONAL, Operates, Operating, Operational, Operative
+  compu    COMPUTE, Computation, Computational, Compute
+  contr    CONTRADICTION, Contradiction, Contradictione, Contradictions
+  execu    EXECUTE, EXECUTION, Execution, Executive
+  archi    ARCHITECTURE, Archipel, Architecture
+  class    Class, Classical, Classification
+  exist    EXISTENCE, Existence, Existenz
+  guard    GUARDIANS, Guardian, Guardians
+  invar    INVARIANCE, INVARIANT, Invariant
+  kerne    KERNEL, Kernel, Kernels
+  kernw    KERNWELTEN, Kernwelt, Kernwelten
+  logic    Logic, Logical, Logics
+  ontol    ONTOLOGICAL, ONTOLOGY, Ontological
+  reali    REALIGNMENT, Realignment, Reality
+  subsy    SUBSYSTEMS, Subsystem, Subsystems
+  syste    SYSTEM, System, Systems
+  activ    ACTIVE, Active
+  auton    AUTONOMOUS, Autonomous
+  axiom    AXIOMATICS, Axiom
+  batch    BATCH, Batch
+  compo    Component, Compounding
+  conse    Consequence, Consequently
+  const    Constraints, Construct
+  corre    Corrective, Correspondence
+  crisi    CRISIS, Crisis
+
+# substring pairs -- never one term, often merged by accident
+  DUAL < Dual
+  Data < Metadata
+  Free < Freezing
+  Hard < HARDWARE
+  Hard < Hardware
+  Part < Parts
+  Part < PARTITIONING
+  Real < Reality
+  Real < Surreal
+  Real < REALIGNMENT
+  Real < Realignment
+  Real < REALLOCATION
+  Real < Reallocation
+  Spec < SPECIFICATION
+  Axiom < AXIOMATICS
+  BATCH < Batch
+  Class < Classical
+  Class < Classification
+  Hyper < Hypervisor
+  LogOS < Logos

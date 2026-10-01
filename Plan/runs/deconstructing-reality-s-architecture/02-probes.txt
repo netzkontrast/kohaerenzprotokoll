@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      5
+  backslash escapes      226
+  typographic marks      41
+  ascii quotes           244
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architect, Architectural, Architecture, Architectures, Archive
+  poten    Potential, Potentialis, Potentiality, Potentialmeer
+  coher    Coherence, Coheron, Coherons
+  contr    Contradictione, Contradictions, Controls
+  defin    Defining, Definition, Definitive
+  funct    Function, Functional, Functions
+  integ    Integration, Integrator, Integrity
+  ontol    Ontological, Ontologically, Ontology
+  psych    Psycho, Psychological, Psychologically
+  syste    System, Systemic, Systems
+  world    World, Worldbuilding, Worlds
+  alter    Alter, Alters
+  antag    Antagonism, Antagonist
+  barri    Barrier, Barriers
+  blind    Blind, Blindness
+  chapt    Chapter, Chapters
+  check    Check, Checkmate
+  class    Classical, Classification
+  corre    Corrective, Correspondence
+  creat    Creation, Creative
+  descr    Described, Description
+  diale    Dialetheic, Dialetheism
+  disso    Dissociation, Dissociative
+  emerg    Emergence, Emergent
+  entit    Entities, Entity
+
+# substring pairs -- never one term, often merged by accident
+  Real < Reality
+  Rift < Rifts
+  Riss < Risse
+  Role < Roles
+  Void < Avoidance
+  Alter < Alters
+  Blind < Blindness
+  Check < Checkmate
+  Fight < Fighter
+  Fluid < Fluidity
+  Focus < Focuses
+  Force < Reinforcement
+  LogOS < Logos
+  Logic < Logics
+  Logic < Ontological
+  Logic < Ontologically
+  Logic < Psychological
+  Logic < Technological
+  Logic < Epistemological
+  Logic < Psychologically

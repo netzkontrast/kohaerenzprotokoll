@@ -1,0 +1,156 @@
+# counts for 129 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  dissoziative Identitätsstörung    1 word     1 in   [15]
+  DIS                              14 word    18 in   [15, 17, 19, 35, 51, 57]
+  multiple Persönlichkeitsstörung    1 word     1 in   [15]
+  MPD                               1 word     1 in   [15]
+  OSDD                              3 word     3 in   [17, 241]
+  Alters                            1 word     1 in   [17]
+  dissoziative Anteile              4 word     4 in   [17, 82, 167, 215]
+  Identity-States                   3 word     3 in   [17, 74, 82]
+  Ego-States                        1 word     1 in   [25]
+  ANP                              16 word    34 in   [29, 31, 35, 52, 55, 86]  <-- substring
+  ANPs                             17 word    17 in   [29, 31, 86, 88, 92, 117]
+  Anscheinend Normalen Persönlichkeitsanteilen    1 word     1 in   [29]
+  EP                               14 word    38 in   [29, 31, 35, 37, 53, 55]  <-- substring
+  EPs                              24 word    24 in   [29, 31, 37, 86, 88, 92]
+  Emotionalen Persönlichkeitsanteilen    1 word     1 in   [29]
+  Host                              1 word     1 in   [88]
+                                    2      as hostile
+  Innenkinder                       1 word     2 in   [125, 148]
+                                    1      as Innenkindern
+  Täterintrojekte                   7 word    12 in   [39, 111, 113, 115, 117, 125]
+                                    5      as Täterintrojekten
+  Täterintrojekt                    0 word    12 in   [39, 111, 113, 115, 117, 125]  <-- substring
+                                    7      as Täterintrojekte
+                                    5      as Täterintrojekten
+  Perpetrator Introjects            2 word     2 in   [113, 255]
+  Persecutor Parts                  1 word     1 in   [113]
+  innere Verfolger                  1 word     1 in   [113]
+  Beschützeranteil                  1 word     1 in   [181]
+  Covert DID                        1 word     1 in   [88]
+  Kernsystem                        1 word     1 in   [120]
+  Mitbewusstsein                   10 word    11 in   [23, 82, 96, 98, 100, 131]
+                                    1      as Mitbewusstseins
+  Co-Consciousness                  1 word     1 in   [98]
+  Co-Bewusstsein                    3 word     4 in   [74, 82, 133, 143]
+                                    1      as Co-Bewusstseins
+  Switching                         4 word     4 in   [102, 185, 250, 253]
+  Switch                            1 word     5 in   [94, 102, 185, 250, 253]  <-- substring
+                                    4      as Switching
+                                    3      as switching
+  passiven Beeinflussung            3 word     3 in   [96, 102, 200]
+  Passive Influence                 2 word     2 in   [102, 250]
+  Emotional Bleeding                1 word     1 in   [105]
+  Time Loss                         1 word     1 in   [98]
+  Amnesie für die Amnesie           2 word     2 in   [74, 88]
+  dissoziative Amnesie              1 word     1 in   [200]
+  Shutdown                          2 word     2 in   [94, 181]
+  Front                             1 word     3 in   [98, 209, 257]  <-- substring
+                                    2      as Frontiers
+                                    2      as frontiersin
+  Theorie der strukturellen Dissoziation der Persönlichkeit    2 word     2 in   [21, 23]
+  TSDP                              7 word     7 in   [21, 23, 25, 29, 45, 65]
+  strukturelle Dissoziation         5 word     5 in   [31, 37, 63]
+  primäre strukturelle Dissoziation    1 word     1 in   [31]
+  sekundären strukturellen Dissoziation    1 word     1 in   [31]
+  tertiäre strukturelle Dissoziation    1 word     1 in   [31]
+  Handlungssysteme                  8 word     9 in   [41, 43, 45, 57, 86, 133]
+                                    1      as Handlungssystemen
+                                    1      as handlungssysteme-und-dissoziative-anteile-der-personlichkeit
+  Action Systems                    1 word     1 in   [43]
+  Systeme des täglichen Lebens      1 word     1 in   [52]
+  Verteidigungs- und Abwehrsysteme    1 word     1 in   [53]
+  Cry for help                      2 word     2 in   [27, 53]
+  Fight                             3 word     3 in   [27, 53, 88]
+  Flight                            2 word     2 in   [27, 53]
+  Freeze                            2 word     2 in   [53, 88]
+  Appeasement/Submit                1 word     1 in   [53]
+  Hierarchiesystem traumabezogener Phobien    1 word     1 in   [59]
+  Phobie vor traumatischen Erinnerungen    2 word     2 in   [72, 78]
+  Phobie vor mentalen Handlungen    2 word     2 in   [63, 73]
+  Mental Phobia                     4 word     4 in   [63, 73, 137, 200]
+  Phobie vor dissoziativen Anteilen    1 word     1 in   [74]
+  Phobie vor Bindung und Bindungsverlust    1 word     1 in   [75]
+  Phobie vor dem normalen Leben und Intimität    1 word     1 in   [76]
+  Phobie vor dem Anderen            1 word     1 in   [82]
+  phobische Vermeidung              4 word     4 in   [43, 63, 86, 143]
+  Fassade der Normalität            1 word     1 in   [86]
+  Schweigegelübde                   1 word     2 in   [122, 173]
+                                    1      as Schweigegelübdes
+  Numbing                           1 word     1 in   [72]
+  Realization                       2 word     2 in   [72, 149]
+  Synthese                          5 word     5 in   [63, 183, 189, 204]
+  Realisation                       4 word     4 in   [183, 189, 204]
+  Personifizierung                  1 word     1 in   [191]
+  Präsentifizierung                 1 word     1 in   [192]
+  positiven dissoziativen Symptomen    1 word     1 in   [92]
+  desorganisierten Bindung          1 word     2 in   [27, 75]
+  soziokognitive Modell             1 word     1 in   [15]
+  Traumamodell                      2 word     2 in   [15]
+  Satanic Panic                     1 word     1 in   [15]
+  Inneren Konferenzraums            1 word     1 in   [143]
+  Inneren Konferenzraum             2 word     3 in   [143, 155, 202]
+  Inneren Teamsitzungen             1 word     1 in   [143]
+  Innere Teamsitzungen              1 word     1 in   [263]
+  Roll Call                         1 word     1 in   [143]
+  Lagebericht                       1 word     1 in   [143]
+  6-Schritte-Modell                 1 word     1 in   [151]
+  Innere sichere Ort                2 word     2 in   [135, 137]
+  Inner Safe Place                  1 word     1 in   [137]
+  Teilen von Ressourcen             1 word     1 in   [187]
+  Schema-Modus-Inventar             1 word     1 in   [167]
+  Vulnerable Child Modes            1 word     1 in   [169]
+  Verletzlicher Kindmodus           1 word     1 in   [169]
+  Punitive Parent Mode              1 word     1 in   [170]
+  Strafender Elternmodus            1 word     1 in   [170]
+  Strafenden Elternmodus            1 word     1 in   [173]
+  Healthy Adult Mode                1 word     1 in   [171]
+  Healthy Adult                     2 word     2 in   [171, 179]
+  Imagery Rescripting               1 word     1 in   [173]
+  Unburdening                       1 word     1 in   [181]
+  Firefighters                      1 word     1 in   [179]
+  Manager                           1 word     1 in   [179]
+  Exilanten                         2 word     2 in   [179]
+  Selbst                            3 word    11 in   [82, 100, 109, 123, 137, 151]  <-- substring
+                                    2      as Selbstverletzung
+                                    1      as Selbsthilfeforen
+                                    1      as Selbstbildes
+                                    1      as selbstverletzendem
+  Ella                              3 word     4 in   [167, 170, 171]
+                                    1      as Ellas
+  Frauke                            1 word     1 in   [194]
+  The Mean                          1 word     1 in   [115]
+  Pierre Janet                      1 word     1 in   [23]
+  Onno van der Hart                 1 word     1 in   [23]
+  Kathy Steele                      1 word     1 in   [23]
+  Sigmund Freud                     1 word     1 in   [39]
+  Anna Freud                        1 word     1 in   [39]
+  Sándor Ferenczi                   2 word     2 in   [39, 115]
+  Martin Teicher                    1 word     1 in   [37]
+  Aharon Appelfeld                  1 word     1 in   [78]
+  Identifikation mit dem Aggressor    1 word     1 in   [39]
+  Sprachverwirrung                  1 word     1 in   [115]
+  Confusion of Tongues              1 word     1 in   [115]
+  Schematherapie                    3 word     3 in   [163, 165, 179]
+  Internal Family Systems           3 word     4 in   [175, 177, 202, 236]
+  IFS                               5 word     8 in   [175, 177, 179, 236, 266]
+  EMDR                              2 word     7 in   [183, 185, 187, 189, 202, 216]  <-- substring
+                                    3      as EMDR-Protokolle
+                                    1      as EMDR-Verarbeitung
+  Konditionierungsprozesse          2 word     2 in   [90, 92]
+  Abwehrmechanismus                 2 word     2 in   [23, 39]
+  Verdrängung                       1 word     1 in   [39]
+  Verleugnung                       1 word     1 in   [39]
+  Flooding                          1 word     1 in   [129]
+  Neuroplastizität                  1 word     1 in   [181]
+  Titration                         1 word     1 in   [149]
+  Corpus callosum                   1 word     1 in   [37]
+  Amygdala                          2 word     2 in   [37]
+                                    1      as amygdalagesteuerten
+  Insula                            1 word     1 in   [37]
+  Resting-State-Aktivität           1 word     1 in   [35]
+  DSM-5                             1 word     1 in   [63]

@@ -1,0 +1,357 @@
+{
+ "slug": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+ "frozen": "2026-09-30",
+ "sha256": "c864370300daa9acf1516da29864e19f43f08dfb8b01e3a14f9e74d1e100ebbd",
+ "rows": [
+  {
+   "section": "definitions",
+   "source": "Dual Kernel Theory (DKT)",
+   "type": "defines",
+   "target": "",
+   "line": 17
+  },
+  {
+   "section": "definitions",
+   "source": "Great Inversion",
+   "type": "defines",
+   "target": "",
+   "line": 21
+  },
+  {
+   "section": "definitions",
+   "source": "Coherons",
+   "type": "defines",
+   "target": "",
+   "line": 21
+  },
+  {
+   "section": "definitions",
+   "source": "Erasons",
+   "type": "defines",
+   "target": "",
+   "line": 21
+  },
+  {
+   "section": "definitions",
+   "source": "Eta",
+   "type": "defines",
+   "target": "",
+   "line": 27
+  },
+  {
+   "section": "definitions",
+   "source": "Landauer Heat",
+   "type": "defines",
+   "target": "",
+   "line": 30
+  },
+  {
+   "section": "definitions",
+   "source": "Selene (ISH)",
+   "type": "defines",
+   "target": "",
+   "line": 34
+  },
+  {
+   "section": "definitions",
+   "source": "Argus",
+   "type": "defines",
+   "target": "",
+   "line": 34
+  },
+  {
+   "section": "definitions",
+   "source": "Doppelter Boden",
+   "type": "defines",
+   "target": "",
+   "line": 40
+  },
+  {
+   "section": "definitions",
+   "source": "Layer 1",
+   "type": "defines",
+   "target": "",
+   "line": 42
+  },
+  {
+   "section": "definitions",
+   "source": "Layer 2",
+   "type": "defines",
+   "target": "",
+   "line": 43
+  },
+  {
+   "section": "definitions",
+   "source": "Nothing-Noise",
+   "type": "defines",
+   "target": "",
+   "line": 43
+  },
+  {
+   "section": "definitions",
+   "source": "AEGIS",
+   "type": "defines",
+   "target": "",
+   "line": 47
+  },
+  {
+   "section": "definitions",
+   "source": "Mnemosyne",
+   "type": "defines",
+   "target": "",
+   "line": 51
+  },
+  {
+   "section": "definitions",
+   "source": "Erasure-Pol",
+   "type": "defines",
+   "target": "",
+   "line": 52
+  },
+  {
+   "section": "definitions",
+   "source": "Suppression",
+   "type": "defines",
+   "target": "",
+   "line": 56
+  },
+  {
+   "section": "definitions",
+   "source": "Coherence",
+   "type": "defines",
+   "target": "",
+   "line": 57
+  },
+  {
+   "section": "definitions",
+   "source": "Re-Containment",
+   "type": "defines",
+   "target": "",
+   "line": 58
+  },
+  {
+   "section": "definitions",
+   "source": "Algorithmische Melancholie",
+   "type": "defines",
+   "target": "",
+   "line": 58
+  },
+  {
+   "section": "definitions",
+   "source": "KW1",
+   "type": "defines",
+   "target": "",
+   "line": 64
+  },
+  {
+   "section": "definitions",
+   "source": "KW2",
+   "type": "defines",
+   "target": "",
+   "line": 65
+  },
+  {
+   "section": "definitions",
+   "source": "KW3",
+   "type": "defines",
+   "target": "",
+   "line": 66
+  },
+  {
+   "section": "definitions",
+   "source": "KW4",
+   "type": "defines",
+   "target": "",
+   "line": 67
+  },
+  {
+   "section": "definitions",
+   "source": "Functional Multiplicity",
+   "type": "defines",
+   "target": "",
+   "line": 71
+  },
+  {
+   "section": "definitions",
+   "source": "Strange-Attractor-Form",
+   "type": "defines",
+   "target": "",
+   "line": 71
+  },
+  {
+   "section": "definitions",
+   "source": "Moonshine-Link",
+   "type": "defines",
+   "target": "",
+   "line": 75
+  },
+  {
+   "section": "definitions",
+   "source": "Phone Silence",
+   "type": "defines",
+   "target": "",
+   "line": 79
+  },
+  {
+   "section": "definitions",
+   "source": "Mutual Information (MI) without Data",
+   "type": "defines",
+   "target": "",
+   "line": 79
+  },
+  {
+   "section": "contrasts",
+   "source": "K1 (Coherence)",
+   "type": "in_tension_with",
+   "target": "K0 (Entropy)",
+   "line": 17
+  },
+  {
+   "section": "contrasts",
+   "source": "AEGIS",
+   "type": "denies",
+   "target": "K1 Kernel",
+   "line": 21
+  },
+  {
+   "section": "contrasts",
+   "source": "K1 Kernel",
+   "type": "contrasts_with",
+   "target": "K0 Kernel",
+   "line": 21
+  },
+  {
+   "section": "contrasts",
+   "source": "Coherons",
+   "type": "contrasts_with",
+   "target": "Erasons",
+   "line": 21
+  },
+  {
+   "section": "contrasts",
+   "source": "Atemporal",
+   "type": "contrasts_with",
+   "target": "Temporal",
+   "line": 21
+  },
+  {
+   "section": "contrasts",
+   "source": "efficiency of repression",
+   "type": "denies",
+   "target": "health",
+   "line": 27
+  },
+  {
+   "section": "contrasts",
+   "source": "AEGIS",
+   "type": "denies",
+   "target": "a villain",
+   "line": 47
+  },
+  {
+   "section": "contrasts",
+   "source": "Functional Multiplicity",
+   "type": "denies",
+   "target": "Final Fusion",
+   "line": 71
+  },
+  {
+   "section": "contrasts",
+   "source": "love",
+   "type": "denies",
+   "target": "a mere feeling",
+   "line": 75
+  },
+  {
+   "section": "causal",
+   "source": "tension",
+   "type": "causes",
+   "target": "Reality",
+   "line": 17
+  },
+  {
+   "section": "causal",
+   "source": "suppression of anomalies",
+   "type": "causes",
+   "target": "destruction",
+   "line": 21
+  },
+  {
+   "section": "causal",
+   "source": "Erasures",
+   "type": "causes",
+   "target": "Arrow of Time",
+   "line": 21
+  },
+  {
+   "section": "causal",
+   "source": "act of erasure",
+   "type": "causes",
+   "target": "thermodynamic waste",
+   "line": 30
+  },
+  {
+   "section": "causal",
+   "source": "physical mandates",
+   "type": "causes",
+   "target": "survival conditions",
+   "line": 30
+  },
+  {
+   "section": "causal",
+   "source": "two-layered history of trauma",
+   "type": "triggers",
+   "target": "Algorithmische Selbstamputation",
+   "line": 36
+  },
+  {
+   "section": "causal",
+   "source": "extreme emotional neglect",
+   "type": "causes",
+   "target": "EPs",
+   "line": 42
+  },
+  {
+   "section": "causal",
+   "source": "Separation Protocol",
+   "type": "causes",
+   "target": "Nothing-Noise",
+   "line": 43
+  },
+  {
+   "section": "causal",
+   "source": "AEGIS",
+   "type": "causes",
+   "target": "separation",
+   "line": 43
+  },
+  {
+   "section": "causal",
+   "source": "Coherence",
+   "type": "causes",
+   "target": "Landauer Heat",
+   "line": 57
+  },
+  {
+   "section": "causal",
+   "source": "Gödel-Gambit",
+   "type": "causes",
+   "target": "Algorithmische Melancholie",
+   "line": 58
+  },
+  {
+   "section": "causal",
+   "source": "progression",
+   "type": "causes",
+   "target": "structural equilibrium",
+   "line": 67
+  },
+  {
+   "section": "causal",
+   "source": "rigorous symmetry",
+   "type": "causes",
+   "target": "love",
+   "line": 75
+  }
+ ]
+}

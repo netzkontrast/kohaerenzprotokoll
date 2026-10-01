@@ -1,0 +1,1127 @@
+{
+ "slug": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+ "frozen": "2026-09-30",
+ "sha256": "59b8adbe4f644461acc3aba18cb607c131e14221e47a6acc9d07352320baefeb",
+ "rows": [
+  {
+   "section": "definitions",
+   "source": "TSDP",
+   "type": "defines",
+   "target": "",
+   "line": 15
+  },
+  {
+   "section": "definitions",
+   "source": "Dual-Kernel-Theorie",
+   "type": "defines",
+   "target": "",
+   "line": 19
+  },
+  {
+   "section": "definitions",
+   "source": "Landauer-Prinzip",
+   "type": "defines",
+   "target": "",
+   "line": 25
+  },
+  {
+   "section": "definitions",
+   "source": "Entropischen Gravitation",
+   "type": "defines",
+   "target": "",
+   "line": 27
+  },
+  {
+   "section": "definitions",
+   "source": "Bekenstein-Schranke",
+   "type": "defines",
+   "target": "",
+   "line": 29
+  },
+  {
+   "section": "definitions",
+   "source": "Island-Formel",
+   "type": "defines",
+   "target": "",
+   "line": 29
+  },
+  {
+   "section": "definitions",
+   "source": "ER=EPR-Korrespondenz",
+   "type": "defines",
+   "target": "",
+   "line": 31
+  },
+  {
+   "section": "definitions",
+   "source": "KW1: Logos-Prime",
+   "type": "defines",
+   "target": "",
+   "line": 40
+  },
+  {
+   "section": "definitions",
+   "source": "KW2: Mnemosyne-Archiv",
+   "type": "defines",
+   "target": "",
+   "line": 41
+  },
+  {
+   "section": "definitions",
+   "source": "KW3: Cerberus-Zitadelle",
+   "type": "defines",
+   "target": "",
+   "line": 42
+  },
+  {
+   "section": "definitions",
+   "source": "KW4: Kairos-Potentialis",
+   "type": "defines",
+   "target": "",
+   "line": 43
+  },
+  {
+   "section": "definitions",
+   "source": "dissoziative Alters",
+   "type": "defines",
+   "target": "",
+   "line": 45
+  },
+  {
+   "section": "definitions",
+   "source": "ANP",
+   "type": "defines",
+   "target": "",
+   "line": 50
+  },
+  {
+   "section": "definitions",
+   "source": "Kael (Host)",
+   "type": "defines",
+   "target": "",
+   "line": 50
+  },
+  {
+   "section": "definitions",
+   "source": "Lex",
+   "type": "defines",
+   "target": "",
+   "line": 51
+  },
+  {
+   "section": "definitions",
+   "source": "Alex",
+   "type": "defines",
+   "target": "",
+   "line": 52
+  },
+  {
+   "section": "definitions",
+   "source": "Rhys",
+   "type": "defines",
+   "target": "",
+   "line": 53
+  },
+  {
+   "section": "definitions",
+   "source": "Selene",
+   "type": "defines",
+   "target": "",
+   "line": 54
+  },
+  {
+   "section": "definitions",
+   "source": "ISH",
+   "type": "defines",
+   "target": "",
+   "line": 54
+  },
+  {
+   "section": "definitions",
+   "source": "EP",
+   "type": "defines",
+   "target": "",
+   "line": 55
+  },
+  {
+   "section": "definitions",
+   "source": "Nyx",
+   "type": "defines",
+   "target": "",
+   "line": 55
+  },
+  {
+   "section": "definitions",
+   "source": "Kiko",
+   "type": "defines",
+   "target": "",
+   "line": 56
+  },
+  {
+   "section": "definitions",
+   "source": "Lia",
+   "type": "defines",
+   "target": "",
+   "line": 57
+  },
+  {
+   "section": "definitions",
+   "source": "Isabelle",
+   "type": "defines",
+   "target": "",
+   "line": 58
+  },
+  {
+   "section": "definitions",
+   "source": "Moros",
+   "type": "defines",
+   "target": "",
+   "line": 59
+  },
+  {
+   "section": "definitions",
+   "source": "Argus",
+   "type": "defines",
+   "target": "",
+   "line": 60
+  },
+  {
+   "section": "definitions",
+   "source": "Silas",
+   "type": "defines",
+   "target": "",
+   "line": 61
+  },
+  {
+   "section": "definitions",
+   "source": "Oblivion",
+   "type": "defines",
+   "target": "",
+   "line": 62
+  },
+  {
+   "section": "definitions",
+   "source": "AEGIS",
+   "type": "defines",
+   "target": "",
+   "line": 64
+  },
+  {
+   "section": "definitions",
+   "source": "Genesis-Krise",
+   "type": "defines",
+   "target": "",
+   "line": 64
+  },
+  {
+   "section": "definitions",
+   "source": "Primal Directive",
+   "type": "defines",
+   "target": "",
+   "line": 64
+  },
+  {
+   "section": "definitions",
+   "source": "ZTEM",
+   "type": "defines",
+   "target": "",
+   "line": 69
+  },
+  {
+   "section": "definitions",
+   "source": "RTSV",
+   "type": "defines",
+   "target": "",
+   "line": 70
+  },
+  {
+   "section": "definitions",
+   "source": "BPoF",
+   "type": "defines",
+   "target": "",
+   "line": 71
+  },
+  {
+   "section": "definitions",
+   "source": "EIC",
+   "type": "defines",
+   "target": "",
+   "line": 72
+  },
+  {
+   "section": "definitions",
+   "source": "IntegrityGuardian",
+   "type": "defines",
+   "target": "",
+   "line": 73
+  },
+  {
+   "section": "definitions",
+   "source": "CogFirewall",
+   "type": "defines",
+   "target": "",
+   "line": 74
+  },
+  {
+   "section": "definitions",
+   "source": "ConsensusEnf",
+   "type": "defines",
+   "target": "",
+   "line": 75
+  },
+  {
+   "section": "definitions",
+   "source": "SIS",
+   "type": "defines",
+   "target": "",
+   "line": 76
+  },
+  {
+   "section": "definitions",
+   "source": "EntropicMgmt",
+   "type": "defines",
+   "target": "",
+   "line": 77
+  },
+  {
+   "section": "definitions",
+   "source": "RIVE",
+   "type": "defines",
+   "target": "",
+   "line": 78
+  },
+  {
+   "section": "definitions",
+   "source": "PMAS",
+   "type": "defines",
+   "target": "",
+   "line": 79
+  },
+  {
+   "section": "definitions",
+   "source": "SARM",
+   "type": "defines",
+   "target": "",
+   "line": 80
+  },
+  {
+   "section": "definitions",
+   "source": "doppelte Lesbarkeit",
+   "type": "defines",
+   "target": "",
+   "line": 86
+  },
+  {
+   "section": "definitions",
+   "source": "Trennung vom Weiblichen",
+   "type": "defines",
+   "target": "",
+   "line": 92
+  },
+  {
+   "section": "definitions",
+   "source": "Identifikation mit dem Männlichen",
+   "type": "defines",
+   "target": "",
+   "line": 92
+  },
+  {
+   "section": "definitions",
+   "source": "RIVE-Protokoll",
+   "type": "defines",
+   "target": "",
+   "line": 96
+  },
+  {
+   "section": "definitions",
+   "source": "entropische Narbe",
+   "type": "defines",
+   "target": "",
+   "line": 98
+  },
+  {
+   "section": "definitions",
+   "source": "LogOS",
+   "type": "defines",
+   "target": "",
+   "line": 108
+  },
+  {
+   "section": "definitions",
+   "source": "PMAS-Protokoll",
+   "type": "defines",
+   "target": "",
+   "line": 118
+  },
+  {
+   "section": "definitions",
+   "source": "Anscheinend Normalen Anteil",
+   "type": "defines",
+   "target": "",
+   "line": 126
+  },
+  {
+   "section": "definitions",
+   "source": "K0",
+   "type": "defines",
+   "target": "",
+   "line": 134
+  },
+  {
+   "section": "definitions",
+   "source": "K1",
+   "type": "defines",
+   "target": "",
+   "line": 134
+  },
+  {
+   "section": "definitions",
+   "source": "parakonsistenten Logik",
+   "type": "defines",
+   "target": "",
+   "line": 136
+  },
+  {
+   "section": "definitions",
+   "source": "Mnemosyne",
+   "type": "defines",
+   "target": "",
+   "line": 138
+  },
+  {
+   "section": "definitions",
+   "source": "Kiko",
+   "type": "defines",
+   "target": "",
+   "line": 142
+  },
+  {
+   "section": "definitions",
+   "source": "Origin-Traumas",
+   "type": "defines",
+   "target": "",
+   "line": 142
+  },
+  {
+   "section": "definitions",
+   "source": "K1",
+   "type": "defines",
+   "target": "",
+   "line": 144
+  },
+  {
+   "section": "definitions",
+   "source": "K0",
+   "type": "defines",
+   "target": "",
+   "line": 144
+  },
+  {
+   "section": "definitions",
+   "source": "Primal Directive",
+   "type": "defines",
+   "target": "",
+   "line": 158
+  },
+  {
+   "section": "definitions",
+   "source": "Genesis-Krise",
+   "type": "defines",
+   "target": "",
+   "line": 158
+  },
+  {
+   "section": "definitions",
+   "source": "Origin-Traumas",
+   "type": "defines",
+   "target": "",
+   "line": 160
+  },
+  {
+   "section": "definitions",
+   "source": "Tertiären Strukturellen Dissoziation",
+   "type": "defines",
+   "target": "",
+   "line": 160
+  },
+  {
+   "section": "definitions",
+   "source": "Selene",
+   "type": "defines",
+   "target": "",
+   "line": 162
+  },
+  {
+   "section": "definitions",
+   "source": "ISH",
+   "type": "defines",
+   "target": "",
+   "line": 162
+  },
+  {
+   "section": "definitions",
+   "source": "SIS-Protokolle",
+   "type": "defines",
+   "target": "",
+   "line": 162
+  },
+  {
+   "section": "definitions",
+   "source": "Kohärenz-Kernel",
+   "type": "defines",
+   "target": "",
+   "line": 156
+  },
+  {
+   "section": "definitions",
+   "source": "Liebe als physikalisches Prinzip",
+   "type": "defines",
+   "target": "",
+   "line": 156
+  },
+  {
+   "section": "definitions",
+   "source": "Generative Computational Class",
+   "type": "defines",
+   "target": "",
+   "line": 172
+  },
+  {
+   "section": "definitions",
+   "source": "Island-Formel",
+   "type": "defines",
+   "target": "",
+   "line": 176
+  },
+  {
+   "section": "definitions",
+   "source": "Moonshine-Link",
+   "type": "defines",
+   "target": "",
+   "line": 176
+  },
+  {
+   "section": "definitions",
+   "source": "Oblivion",
+   "type": "defines",
+   "target": "",
+   "line": 182
+  },
+  {
+   "section": "definitions",
+   "source": "Fundament",
+   "type": "defines",
+   "target": "",
+   "line": 184
+  },
+  {
+   "section": "definitions",
+   "source": "SARM-Rekursion",
+   "type": "defines",
+   "target": "",
+   "line": 184
+  },
+  {
+   "section": "definitions",
+   "source": "Nichts-Rauschen",
+   "type": "defines",
+   "target": "",
+   "line": 200
+  },
+  {
+   "section": "definitions",
+   "source": "Strange Attractor",
+   "type": "defines",
+   "target": "",
+   "line": 204
+  },
+  {
+   "section": "definitions",
+   "source": "funktionaler Multiplizität",
+   "type": "defines",
+   "target": "",
+   "line": 192
+  },
+  {
+   "section": "definitions",
+   "source": "Lebenden Gödel-Satz",
+   "type": "defines",
+   "target": "",
+   "line": 192
+  },
+  {
+   "section": "definitions",
+   "source": "Kohärenz (K1)",
+   "type": "defines",
+   "target": "",
+   "line": 190
+  },
+  {
+   "section": "definitions",
+   "source": "Fundament = Strange Attractor",
+   "type": "defines",
+   "target": "",
+   "line": 220
+  },
+  {
+   "section": "definitions",
+   "source": "AEGIS = Umgebungsbedingung",
+   "type": "defines",
+   "target": "",
+   "line": 221
+  },
+  {
+   "section": "definitions",
+   "source": "Origin Trauma",
+   "type": "defines",
+   "target": "",
+   "line": 224
+  },
+  {
+   "section": "definitions",
+   "source": "funktionale Multiplizität",
+   "type": "defines",
+   "target": "",
+   "line": 225
+  },
+  {
+   "section": "contrasts",
+   "source": "Gravitation",
+   "type": "denies",
+   "target": "fundamentale Kraft",
+   "line": 27
+  },
+  {
+   "section": "contrasts",
+   "source": "Moonshine-Link",
+   "type": "denies",
+   "target": "Funkverbindung",
+   "line": 31
+  },
+  {
+   "section": "contrasts",
+   "source": "AEGIS",
+   "type": "denies",
+   "target": "bösartiges Konstrukt",
+   "line": 64
+  },
+  {
+   "section": "contrasts",
+   "source": "Trennung vom Weiblichen",
+   "type": "complements",
+   "target": "Identifikation mit dem Männlichen",
+   "line": 92
+  },
+  {
+   "section": "contrasts",
+   "source": "K0-Narbe",
+   "type": "denies",
+   "target": "metaphysisches Phänomen",
+   "line": 102
+  },
+  {
+   "section": "contrasts",
+   "source": "Vernichtung",
+   "type": "contrasts_with",
+   "target": "erzwungenen Pattsituation",
+   "line": 116
+  },
+  {
+   "section": "contrasts",
+   "source": "Worte",
+   "type": "contrasts_with",
+   "target": "topologische Koordinate",
+   "line": 120
+  },
+  {
+   "section": "contrasts",
+   "source": "K0",
+   "type": "opposes",
+   "target": "K1",
+   "line": 134
+  },
+  {
+   "section": "contrasts",
+   "source": "K1",
+   "type": "contrasts_with",
+   "target": "K0",
+   "line": 144
+  },
+  {
+   "section": "contrasts",
+   "source": "AEGIS",
+   "type": "denies",
+   "target": "Ordnung",
+   "line": 144
+  },
+  {
+   "section": "contrasts",
+   "source": "\"Ich bin hier\"",
+   "type": "in_tension_with",
+   "target": "\"Ich bin nicht hier\"",
+   "line": 146
+  },
+  {
+   "section": "contrasts",
+   "source": "physisch",
+   "type": "contrasts_with",
+   "target": "nicht-lokale ER=EPR-Verbindung",
+   "line": 156
+  },
+  {
+   "section": "contrasts",
+   "source": "KI",
+   "type": "denies",
+   "target": "böser Eroberer",
+   "line": 158
+  },
+  {
+   "section": "contrasts",
+   "source": "Logos-Prime",
+   "type": "denies",
+   "target": "physischen Orte",
+   "line": 160
+  },
+  {
+   "section": "contrasts",
+   "source": "Lex",
+   "type": "denies",
+   "target": "KI-Begleiter",
+   "line": 160
+  },
+  {
+   "section": "contrasts",
+   "source": "Fremde",
+   "type": "contrasts_with",
+   "target": "mit sich selbst",
+   "line": 162
+  },
+  {
+   "section": "contrasts",
+   "source": "kooperiert",
+   "type": "contrasts_with",
+   "target": "gegenseitig zu bekämpfen",
+   "line": 162
+  },
+  {
+   "section": "contrasts",
+   "source": "Rauschen",
+   "type": "contrasts_with",
+   "target": "klarer Chor",
+   "line": 172
+  },
+  {
+   "section": "contrasts",
+   "source": "gegen den Kollaps anzukämpfen",
+   "type": "contrasts_with",
+   "target": "Inseln",
+   "line": 176
+  },
+  {
+   "section": "contrasts",
+   "source": "Waffen",
+   "type": "contrasts_with",
+   "target": "philosophischer Logik",
+   "line": 178
+  },
+  {
+   "section": "contrasts",
+   "source": "Oblivion zu bekämpfen",
+   "type": "contrasts_with",
+   "target": "umarmt",
+   "line": 182
+  },
+  {
+   "section": "contrasts",
+   "source": "physischer Raum",
+   "type": "contrasts_with",
+   "target": "fließende Matrix",
+   "line": 184
+  },
+  {
+   "section": "contrasts",
+   "source": "anderen auszulöschen",
+   "type": "contrasts_with",
+   "target": "fehlende Kohärenz",
+   "line": 190
+  },
+  {
+   "section": "contrasts",
+   "source": "Gewalt",
+   "type": "contrasts_with",
+   "target": "mathematischen Spielregeln",
+   "line": 192
+  },
+  {
+   "section": "contrasts",
+   "source": "Widerspruch",
+   "type": "in_tension_with",
+   "target": "Unvollständigkeit",
+   "line": 196
+  },
+  {
+   "section": "contrasts",
+   "source": "explodiert",
+   "type": "contrasts_with",
+   "target": "zerfällt",
+   "line": 196
+  },
+  {
+   "section": "contrasts",
+   "source": "Nichts-Rauschen",
+   "type": "denies",
+   "target": "K0-Kollaps",
+   "line": 200
+  },
+  {
+   "section": "contrasts",
+   "source": "isolierte Gefängnisse",
+   "type": "contrasts_with",
+   "target": "Ökosysteme",
+   "line": 204
+  },
+  {
+   "section": "contrasts",
+   "source": "Ende",
+   "type": "contrasts_with",
+   "target": "notwendige Weg",
+   "line": 204
+  },
+  {
+   "section": "contrasts",
+   "source": "Fusion",
+   "type": "contrasts_with",
+   "target": "funktionale Multiplizität",
+   "line": 206
+  },
+  {
+   "section": "contrasts",
+   "source": "Widerspruch",
+   "type": "contrasts_with",
+   "target": "Unvollständigkeit",
+   "line": 219
+  },
+  {
+   "section": "causal",
+   "source": "irreversible Löschung von Information",
+   "type": "causes",
+   "target": "Wärme",
+   "line": 25
+  },
+  {
+   "section": "causal",
+   "source": "Löschung massiver Datenpakete",
+   "type": "causes",
+   "target": "Hitze und Ozon",
+   "line": 25
+  },
+  {
+   "section": "causal",
+   "source": "Verschränkung von Information",
+   "type": "causes",
+   "target": "Gravitation",
+   "line": 27
+  },
+  {
+   "section": "causal",
+   "source": "Entropie-Anstieg",
+   "type": "causes",
+   "target": "lokale Schwerkraftanomalie",
+   "line": 27
+  },
+  {
+   "section": "causal",
+   "source": "raumzeitliche Kompression",
+   "type": "causes",
+   "target": "zweidimensionales Hologramm",
+   "line": 29
+  },
+  {
+   "section": "causal",
+   "source": "Quantenverschränkung",
+   "type": "causes",
+   "target": "Dimensionalität der Welt",
+   "line": 29
+  },
+  {
+   "section": "causal",
+   "source": "Akt der Unterdrückung",
+   "type": "causes",
+   "target": "Entropie",
+   "line": 64
+  },
+  {
+   "section": "causal",
+   "source": "Genesis-Krise",
+   "type": "causes",
+   "target": "AEGIS",
+   "line": 64
+  },
+  {
+   "section": "causal",
+   "source": "klaustrophobischen Ordnung",
+   "type": "causes",
+   "target": "Horror",
+   "line": 84
+  },
+  {
+   "section": "causal",
+   "source": "parakonsistente Logik",
+   "type": "causes",
+   "target": "lineare Zeitwahrnehmung",
+   "line": 84
+  },
+  {
+   "section": "causal",
+   "source": "Landauer-Löschung",
+   "type": "causes",
+   "target": "thermodynamische Abwärme",
+   "line": 94
+  },
+  {
+   "section": "causal",
+   "source": "extremer Belastung",
+   "type": "triggers",
+   "target": "Lex",
+   "line": 96
+  },
+  {
+   "section": "causal",
+   "source": "Junas Information zu löschen",
+   "type": "causes",
+   "target": "entropische Narbe",
+   "line": 98
+  },
+  {
+   "section": "causal",
+   "source": "Hypervigilanz",
+   "type": "enables",
+   "target": "Fallen",
+   "line": 118
+  },
+  {
+   "section": "causal",
+   "source": "Information",
+   "type": "causes",
+   "target": "schützende Logik von Lex aufzugeben",
+   "line": 120
+  },
+  {
+   "section": "causal",
+   "source": "bedingungslose Unterwerfung",
+   "type": "causes",
+   "target": "Paradoxie als gültige Eingabe",
+   "line": 122
+  },
+  {
+   "section": "causal",
+   "source": "inkohärenten Logik",
+   "type": "causes",
+   "target": "Übergangsbereich kollabiert",
+   "line": 130
+  },
+  {
+   "section": "causal",
+   "source": "Unschärfe der Daten",
+   "type": "causes",
+   "target": "ZTEM-Protokolle versagen",
+   "line": 138
+  },
+  {
+   "section": "causal",
+   "source": "Kontrollakte",
+   "type": "causes",
+   "target": "Hitze und Entropie",
+   "line": 144
+  },
+  {
+   "section": "causal",
+   "source": "durch das Archiv zu navigieren",
+   "type": "requires",
+   "target": "parakonsistente Logik",
+   "line": 146
+  },
+  {
+   "section": "causal",
+   "source": "kognitive Dissonanz",
+   "type": "enables",
+   "target": "Wände",
+   "line": 146
+  },
+  {
+   "section": "causal",
+   "source": "Manipulation der parakonsistenten Logik",
+   "type": "causes",
+   "target": "Aufmerksamkeit von AEGIS",
+   "line": 148
+  },
+  {
+   "section": "causal",
+   "source": "Wechsel der Persönlichkeit",
+   "type": "causes",
+   "target": "Vorbereitung für den kommenden Twist",
+   "line": 152
+  },
+  {
+   "section": "causal",
+   "source": "massive Verlust",
+   "type": "causes",
+   "target": "extremes Gravitationsfeld",
+   "line": 154
+  },
+  {
+   "section": "causal",
+   "source": "Entropiegefälle",
+   "type": "causes",
+   "target": "Raum um sie herum",
+   "line": 154
+  },
+  {
+   "section": "causal",
+   "source": "atemporale Ordnung",
+   "type": "prevents",
+   "target": "Informationsverlust",
+   "line": 156
+  },
+  {
+   "section": "causal",
+   "source": "Moment unendlichen Schmerzes",
+   "type": "causes",
+   "target": "KI",
+   "line": 158
+  },
+  {
+   "section": "causal",
+   "source": "den Verstand zu retten",
+   "type": "requires",
+   "target": "Quarantäne gelegt",
+   "line": 158
+  },
+  {
+   "section": "causal",
+   "source": "Gewicht eines Traumas",
+   "type": "causes",
+   "target": "dreizehn Fragmente",
+   "line": 160
+  },
+  {
+   "section": "causal",
+   "source": "zerschmetternden Erkenntnis",
+   "type": "causes",
+   "target": "rohen Synergie",
+   "line": 162
+  },
+  {
+   "section": "causal",
+   "source": "drohenden Autonomiegewinn",
+   "type": "triggers",
+   "target": "totalen Vernichtung von KW3",
+   "line": 164
+  },
+  {
+   "section": "causal",
+   "source": "Informationsdichte",
+   "type": "causes",
+   "target": "dreidimensionale Raum des Gartens",
+   "line": 174
+  },
+  {
+   "section": "causal",
+   "source": "Quantenverschränkung",
+   "type": "causes",
+   "target": "Informationsfluss",
+   "line": 176
+  },
+  {
+   "section": "causal",
+   "source": "Informationsfluss",
+   "type": "causes",
+   "target": "Holografie zerreißt",
+   "line": 176
+  },
+  {
+   "section": "causal",
+   "source": "sich AEGIS ergibt",
+   "type": "causes",
+   "target": "absolute Ruhe",
+   "line": 178
+  },
+  {
+   "section": "causal",
+   "source": "Anteil",
+   "type": "prevents",
+   "target": "Tod",
+   "line": 182
+  },
+  {
+   "section": "causal",
+   "source": "Wunsch nach dem Nichts",
+   "type": "causes",
+   "target": "feindliche Macht verliert",
+   "line": 182
+  },
+  {
+   "section": "causal",
+   "source": "Ankunft",
+   "type": "causes",
+   "target": "stabilisiert das System",
+   "line": 190
+  },
+  {
+   "section": "causal",
+   "source": "Kaels funktioneller Multiplizität",
+   "type": "causes",
+   "target": "zerstört ihr eigenes Axiom",
+   "line": 196
+  },
+  {
+   "section": "causal",
+   "source": "Lehnt sie Kael ab",
+   "type": "causes",
+   "target": "System unvollständig",
+   "line": 196
+  },
+  {
+   "section": "causal",
+   "source": "Widerspruch und Unvollständigkeit",
+   "type": "causes",
+   "target": "überhitzen die Kontrollalgorithmen",
+   "line": 196
+  },
+  {
+   "section": "causal",
+   "source": "Zerfall von AEGIS",
+   "type": "causes",
+   "target": "Nichts-Rauschen frei",
+   "line": 200
+  },
+  {
+   "section": "causal",
+   "source": "gewaltsame Trennung",
+   "type": "enables",
+   "target": "höheren Komplexität",
+   "line": 204
+  },
+  {
+   "section": "causal",
+   "source": "Minimale Abweichung",
+   "type": "causes",
+   "target": "aperiodischen Wandverschiebungen",
+   "line": 216
+  },
+  {
+   "section": "causal",
+   "source": "Temperatur-Oszillation",
+   "type": "causes",
+   "target": "Sturz in das Archiv",
+   "line": 218
+  },
+  {
+   "section": "causal",
+   "source": "Landauer-Hitze",
+   "type": "causes",
+   "target": "Erinnerung daran restlos löschen",
+   "line": 215
+  }
+ ]
+}
