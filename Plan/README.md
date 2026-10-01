@@ -22,6 +22,7 @@ folders in `Plan/` are missing from it or listed here without existing, and
 | `Plan/hyperextract/` | four Hyper-Extract templates, provisional; the tool review's attempt to run one could not load it (`Plan/concept/tool-review_2026-09-24/hyperextract.md`) | a session; `scripts/templates.py` checks them |
 | `Plan/quality/` | the OpenRouter model benchmark of 2026-09-16; the script it names is no longer in `scripts/` | a session, then |
 | `Plan/trainsets/` | `surface-pairs.jsonl`, the export `scripts/trainset.py --export` writes; nothing reads it, and it lags the ledger | `scripts/trainset.py` |
+| `Plan/eval/` | frozen evaluation sets, one versioned file each with the commit it was taken at and a sha256 over its cases; never rewritten, a changed set is the next version (`scripts/benchset.py`) | `scripts/benchset.py freeze` |
 | `Plan/derived/` | git-ignored; absent in a fresh clone until `python3 scripts/derive.py` rebuilds it, in about 3s | `scripts/derive.py` |
 
 `Plan/state.json` is the last run of `python3 scripts/state.py`: an artifact,
