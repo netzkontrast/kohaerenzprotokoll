@@ -5,7 +5,7 @@
     novelgraph verify [--no-rechunk]
     novelgraph bench  [--k 8] [--record DIR]      # recall@k on ask.py's cases, latency, sizes
     novelgraph selftest
-    novelgraph rlm    [--selftest | --dry-run | --report | --approval "decision 011"] [--methods A,B] [--cases C1,Q2]
+    novelgraph rlm    [--selftest | --dry-run | --report | --approval "decision 011"] [--run NAME] [--retry-failed] [--methods A,B] [--cases C1,Q2]
 
 Run from the repository root: `.venv-novelgraph/bin/novelgraph …`, the venv made once by
 `UV_PROJECT_ENVIRONMENT=$PWD/.venv-novelgraph uv sync --project novelgraph`.
@@ -47,6 +47,8 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--cases", default=None)
     r.add_argument("--model", default="claude-cli/haiku")
     r.add_argument("--approval")
+    r.add_argument("--run", help="Plan/runs/<run>/ — a new name for a new model, gold or code; required for a run")
+    r.add_argument("--retry-failed", action="store_true", help="re-run this run's unreachable/unparsed rows")
     a = ap.parse_args(argv)
 
     if a.cmd == "build":
@@ -96,11 +98,11 @@ def main(argv: list[str] | None = None) -> int:
             print(f"novelgraph rlm selftest: {'held' if not fails else f'{len(fails)} failed'}")
             return 1 if fails else 0
         if a.report:
-            print(json.dumps(rlm.report(), ensure_ascii=False, indent=1))
+            print(json.dumps(rlm.report(rlm.RUNS / a.run / "results.jsonl" if a.run else None), ensure_ascii=False, indent=1))
             return 0
         methods = a.methods.split(",") if a.methods else list(rlm.METHODS)
         only = a.cases.split(",") if a.cases else None
-        rlm.run(methods, only, a.model, a.approval, a.dry_run)
+        rlm.run(methods, only, a.model, a.approval, a.dry_run, run_name=a.run, retry_failed=a.retry_failed)
         return 0
     if a.cmd == "selftest":
         from .selftest import gates, publication_gates, selftest

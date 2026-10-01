@@ -17,8 +17,11 @@ costs it a read. So the agent's success under each chunker is the measurement th
 - **Score**: per case, the share of the record's gold lines (`ask.bench_cases()`, unchanged) that lie in
   the accepted chunks, and the share of its gold documents. A forced answer (`max_iters` ran out and DSPy
   extracted one from the trajectory) is recorded and **not scored** (`scripts/rlm_ingest.py`'s rule).
-- **Resume and spend**: every row carries `run_fp` (`run_fingerprint`); a results file holding rows of another
-  fingerprint is refused, not resumed. The cost cap is checked between runs, so one invocation can pass it.
+- **Resume and spend**: a run lives in `Plan/runs/<--run>/`; every row carries `run_fp` (`run_fingerprint`: code,
+  model, limits, task, each index's stamp, the cases' questions and gold), and a results file holding rows of another
+  fingerprint is refused, not resumed — so a new model or new gold is a new `--run`, and an earlier run's rows are
+  never overwritten or skipped as done. `--retry-failed` re-runs this run's `unreachable`/`unparsed` rows; the newer
+  row supersedes the older, both stay in the file. The cost cap is checked between runs, so one invocation can pass it.
 - **Model**: Claude through `claude -p`, `lmrun.make_lm("claude-cli/haiku")`, every call through
   `lmrun.call` with `approval=` — decision 011: chunk text may reach Claude and no other model. One run at
   a time (the author, 2026-09-30). Each call is recorded under `Plan/runs/<run>/lm/`, each case under
@@ -26,7 +29,7 @@ costs it a read. So the agent's success under each chunker is the measurement th
 
     .venv-novelgraph/bin/novelgraph rlm --selftest                    # tools, refusal, budget, scoring; offline
     .venv-novelgraph/bin/novelgraph rlm --dry-run --cases C10         # the DSPy loop on a fixture LM
-    .venv-novelgraph/bin/novelgraph rlm --approval "decision 011" --methods heading@v1 --cases C1,C2
+    .venv-novelgraph/bin/novelgraph rlm --approval "decision 011" --run rlm-chunks-<date> --methods heading@v1 --cases C1,C2
     .venv-novelgraph/bin/novelgraph rlm --report                      # the table, from results.jsonl
 
 Needs the `rlm` extra: `UV_PROJECT_ENVIRONMENT=$PWD/.venv-novelgraph uv sync --project novelgraph --extra rlm`.
@@ -41,10 +44,11 @@ import time
 from pathlib import Path
 
 import numpy  # noqa: F401  before dspy: DSPy's lazy importer breaks NumPy if it loads first
-from . import build, search, store  # noqa: E402
+from . import build, chunkers, search, store  # noqa: E402
 from .repo import ROOT, bench_cases, read_jsonl  # noqa: E402
 
-RUN = ROOT / "Plan" / "runs" / "rlm-chunks-2026-10-01"
+RUNS = ROOT / "Plan" / "runs"
+RUN = RUNS / "rlm-chunks-2026-10-01"   # the measured run; its rows predate run_fp, so it is read, never resumed
 METHODS = ("heading200@v1", "heading@v1", "heading800@v1")
 BUDGET = 3200          # tokens of chunk text accepted as evidence, the same for every chunker
 MAX_REFS = 16
@@ -65,7 +69,11 @@ def ref_of(hit: dict) -> str:
 
 
 def tools_for(ix: search.Index, shown: dict):
-    """The agent's two tools over one method's index. `shown` collects every chunk a search returned."""
+    """The agent's two tools over one method's index. `shown` collects every chunk a search returned.
+
+    Both read the source only through `current_lines`: the index's freshness check, then the chunk's content hash
+    over the slice. A source that changed since the index was opened is never shown at an old address; the ref is
+    marked `stale`, the tool says so, and `evaluate` refuses it (PR #140 review)."""
 
     def search_chunks(query: str, mode: str = "hybrid") -> str:
         """Search the source corpus. Returns up to 8 chunks as JSON: ref, heading path, first 200 characters."""
@@ -73,30 +81,54 @@ def tools_for(ix: search.Index, shown: dict):
             return f"UNKNOWN MODE — use one of {', '.join(search.MODES)}"
         if not str(query).strip():
             return "[]"
+        try:
+            hits = ix.search(str(query), 8, mode)
+        except search.Stale:
+            return "STALE INDEX — a source changed since the index was opened; nothing it returns is evidence"
         out = []
-        for h in ix.search(str(query), 8, mode):
-            c = search._chunk(h["slug"], ix.method, h["id"])
-            lines = store.read_text_lines(build._path(h["slug"]))
+        for h in hits:
+            c = {**search._chunk(h["slug"], ix.method, h["id"]), "slug": h["slug"]}
             ref = ref_of(h)
-            shown[ref] = {**c, "slug": h["slug"]}
+            lines = current_lines(ix, c)
+            if lines is None:
+                shown[ref] = {**c, "stale": True}
+                continue
+            shown.setdefault(ref, c)
             out.append({"ref": ref, "heading": " › ".join(c["heading_path"]),
                         "preview": " ".join(build.chunk_text(lines, c).split())[:200]})
         return json.dumps(out, ensure_ascii=False)
 
     def read_chunk(ref: str) -> str:
         """Read one chunk that search_chunks returned, each line prefixed with its file line number."""
-        c = shown.get(str(ref).strip().removesuffix(".md"))
+        key = str(ref).strip().removesuffix(".md")
+        c = shown.get(key)
         if c is None:
             return "UNKNOWN REF — read only refs that search_chunks returned"
-        lines = store.read_text_lines(build._path(c["slug"]))
+        lines = None if c.get("stale") else current_lines(ix, c)
+        if lines is None:
+            shown[key] = {**c, "stale": True}
+            return "STALE REF — the source changed since it was indexed; this ref is not evidence"
         text = "\n".join(f"{n}| {lines[n - 1]}" for n in range(c["line_start"], c["line_end"] + 1))
         return text if len(text) <= 4000 else text[:4000] + "\n… (gekürzt)"
 
     return [search_chunks, read_chunk]
 
 
+@store.reader
+def current_lines(ix: search.Index, c: dict) -> list[str] | None:
+    """The source's lines if the chunk's slice still holds the indexed text, else None. Under the reader lock."""
+    try:
+        ix.check(c["slug"])
+        lines = store.read_text_lines(build._path(c["slug"]))
+    except (search.Stale, OSError):
+        return None
+    if c["line_end"] > len(lines) or chunkers.content_sha(lines, c["line_start"], c["line_end"]) != c["sha"]:
+        return None
+    return lines
+
+
 def evaluate(evidence, shown: dict, gold: set[tuple[str, int]], budget: int = BUDGET) -> dict:
-    """Shown refs only, deduplicated, in the agent's order, until `budget` tokens; the rest is visible."""
+    """Shown, fresh refs only, deduplicated, in the agent's order, until `budget` tokens; the rest is visible."""
     if not isinstance(evidence, list):
         evidence = [evidence] if evidence else []
     accepted, invalid, over, tokens = [], [], [], 0
@@ -104,7 +136,7 @@ def evaluate(evidence, shown: dict, gold: set[tuple[str, int]], budget: int = BU
         ref = str(raw).strip().removesuffix(".md")
         m = REF.match(ref)
         key = f"{m.group(1)}:L{m.group(2)}-L{m.group(3)}" if m else ref
-        if key not in shown:
+        if key not in shown or shown[key].get("stale"):
             invalid.append(str(raw))
             continue
         if key in accepted:
@@ -135,18 +167,37 @@ def program(tools, interpreter_factory=None):
                     max_llm_calls=SUB_CALLS, max_output_chars=OUTPUT_CHARS, **kw)
 
 
-def run_fingerprint(methods, model: str, dry_run: bool) -> str:
-    """What a row of a run depends on besides its case: this module's code, the model, every limit, and the
-    `_build/` stamp of each method's index. A resume continues only rows made under the same fingerprint."""
+def run_fingerprint(methods, model: str, dry_run: bool, case_list: list[dict] | None = None) -> str:
+    """What a row of a run depends on besides its case: this module's code, the model, every limit, the task, the
+    `_build/` stamp of each method's index, and the questions and gold of the cases asked. A resume continues
+    only rows made under the same fingerprint."""
     import hashlib
     parts = {"code": hashlib.sha1(Path(__file__).read_bytes()).hexdigest(), "model": "fixture" if dry_run else model,
              "limits": [ITERS, SUB_CALLS, OUTPUT_CHARS, BUDGET, MAX_REFS], "task": TASK,
-             "index": {m: build.build_stamp(m, store.default_embedder())[0] for m in methods}}
+             "index": {m: build.build_stamp(m, store.default_embedder())[0] for m in methods},
+             "cases": sorted([c["id"], c["question"], sorted(map(list, c["gold"]))] for c in (case_list or []))}
     return hashlib.sha1(json.dumps(parts, sort_keys=True).encode()).hexdigest()[:12]
 
 
+def resume(previous: list[dict], fp: str, retry_failed: bool = False) -> set[tuple[str, str]]:
+    """The (case, method) pairs this run has already done. Rows of another fingerprint refuse the resume; a
+    failed row counts as done unless `retry_failed`, and the latest row of a pair is the one that counts."""
+    foreign = {r.get("run_fp") for r in previous} - {fp}
+    if foreign:
+        # a resume skips what is done; done under other code, limits, model, index or gold it is not this run's
+        raise SystemExit(f"this run directory holds rows of another run ({sorted(map(str, foreign))[:2]}); "
+                         "name a new one with --run instead of resuming it")
+    latest = {(r["case"], r["method"]): r for r in previous}
+    return {k for k, r in latest.items() if not (retry_failed and r["status"] in ("unreachable", "unparsed"))}
+
+
+def latest_rows(rows: list[dict]) -> list[dict]:
+    """One row per (case, method): a retried pair's newer row supersedes the failed one."""
+    return list({(r["case"], r["method"]): r for r in rows}.values())
+
+
 def run(methods, only, model: str, approval: str | None, dry_run: bool, log=print,
-        cost_cap: float = 15.0) -> list[dict]:
+        cost_cap: float = 15.0, run_name: str | None = None, retry_failed: bool = False) -> list[dict]:
     import dspy
     import lmrun
     if not dry_run and not approval:
@@ -154,21 +205,20 @@ def run(methods, only, model: str, approval: str | None, dry_run: bool, log=prin
                          "(--approval \"decision 011\"; Claude only)")
     if not dry_run and not model.startswith("claude-cli/"):
         raise SystemExit("decision 011 lets chunk text reach Claude only (claude-cli/…), not " + model)
-    RUN.mkdir(parents=True, exist_ok=True)
-    out_path = RUN / ("results-dry.jsonl" if dry_run else "results.jsonl")
-    fp = run_fingerprint(methods, model, dry_run)
+    if not run_name:
+        raise SystemExit("name the run's directory: --run rlm-chunks-<date>-<what> (Plan/runs/<run>/)")
+    run_dir = RUNS / run_name
+    run_dir.mkdir(parents=True, exist_ok=True)
+    out_path = run_dir / ("results-dry.jsonl" if dry_run else "results.jsonl")
+    case_list = cases(only)
+    fp = run_fingerprint(methods, model, dry_run, case_list)
     previous = read_jsonl(out_path) if out_path.exists() else []
-    foreign = {r.get("run_fp") for r in previous} - {fp}
-    if foreign:
-        # a resume skips what is done; done under other code, limits, model or index it is not this run's (PR #139)
-        raise SystemExit(f"{out_path} holds rows of another run ({sorted(map(str, foreign))[:2]}); "
-                         "start a new run directory instead of resuming it")
-    done = {(r["case"], r["method"]) for r in previous}
+    done = resume(previous, fp, retry_failed)
     rows = []
-    spent = sum(r["cost"] for r in read_jsonl(out_path)) if out_path.exists() else 0.0
+    spent = sum(r["cost"] for r in previous)
     indexes = {m: search.Index(m) for m in methods}
     # case by case, every method in turn: a run that stops early still leaves complete pairs
-    for case in cases(only):
+    for case in case_list:
         for method in methods:
             ix = indexes[method]
             if (case["id"], method) in done:
@@ -190,7 +240,7 @@ def run(methods, only, model: str, approval: str | None, dry_run: bool, log=prin
                 ctx = dspy.context(lm=lm)
             started = time.time()
             with ctx:
-                pred, rec = lmrun.call(program(tools), step=method.replace("@", "-"), subject=RUN.name,
+                pred, rec = lmrun.call(program(tools), step=method.replace("@", "-"), subject=run_name,
                                        approval=approval or "fixture", question=case["question"] + TASK)
             forced = getattr(pred, "final_reasoning", "") == FORCED if pred is not None else False
             score = evaluate(getattr(pred, "evidence", []) if pred is not None else [], shown, case["gold"])
@@ -216,7 +266,7 @@ def run(methods, only, model: str, approval: str | None, dry_run: bool, log=prin
 def report(path: Path | None = None) -> dict:
     """Per method: scored cases, mean line and document recall, forced and failed runs, cost; and the
     paired comparison against heading@v1 on the cases both scored."""
-    rows = read_jsonl(path or RUN / "results.jsonl")
+    rows = latest_rows(read_jsonl(path or RUN / "results.jsonl"))
     from .repo import documents
     landed = {d.slug for d in documents()}
     by = {}
@@ -280,4 +330,33 @@ def _selftest(ix) -> list[str]:
         fails.append(f"the token budget did not stop the evidence: {tight}")
     if evaluate("keine Liste", shown, gold)["accepted"]:
         fails.append("a non-list answer was accepted as evidence")
+    # search -> the source changes -> read: refused, and the ref is no longer evidence (PR #140 review)
+    ref = hits[0]["ref"]
+    path = build._path(shown[ref]["slug"])
+    before = path.read_bytes()
+    try:
+        lines = path.read_text(encoding="utf-8").split("\n")
+        lines[shown[ref]["line_start"] - 1] += " geändert"
+        path.write_text("\n".join(lines), encoding="utf-8")
+        if not read_chunk(ref).startswith("STALE REF"):
+            fails.append("read_chunk showed a changed source at its old address")
+        if evaluate([ref], shown, gold)["accepted"]:
+            fails.append("a stale ref was accepted as evidence")
+        again = search_chunks("Kael Sterne AEGIS Archiv")
+        if not again.startswith("STALE") and any(h["ref"].startswith(shown[ref]["slug"] + ":") for h in json.loads(again)):
+            fails.append("search_chunks previewed a changed source")
+    finally:
+        path.write_bytes(before)
+    # resume: rows of another fingerprint refuse it; a failed row is retried only on request; the latest row counts
+    rows = [{"case": "C1", "method": "m", "run_fp": "a", "status": "unreachable"},
+            {"case": "C2", "method": "m", "run_fp": "a", "status": "answered"}]
+    try:
+        resume(rows, "b")
+        fails.append("a run resumed over rows of another fingerprint")
+    except SystemExit:
+        pass
+    if resume(rows, "a") != {("C1", "m"), ("C2", "m")} or resume(rows, "a", retry_failed=True) != {("C2", "m")}:
+        fails.append(f"resume: done pairs wrong ({resume(rows, 'a')} / {resume(rows, 'a', True)})")
+    if latest_rows(rows + [dict(rows[0], status="answered")])[0]["status"] != "answered":
+        fails.append("a retried pair's newer row did not supersede the failed one")
     return fails
