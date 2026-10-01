@@ -36,7 +36,7 @@ Phase 4's `account.py order` refuses to pass while any of it is half-done.
 
 ## 0 · Invariants — run before anything, and after everything
 
-Seven checks, all free, all deterministic, none uses a model. The value is in
+Ten checks, all free, all deterministic, none uses a model. The value is in
 what a red one *means*:
 
 | command | red means |
@@ -90,10 +90,14 @@ document onto a page is exactly what the per-document order exists to prevent �
 and reading document 5 showed why: the passage that chose it turned out to be the
 opening of a chapter arguing the opposite of what the snippet suggested.
 
-**This step has no command yet.** See „What is missing". Once the entity lists
-exist (`NOW.md` says whether they do), `python3 scripts/entities.py doc <slug>`
-profiles a candidate before it is read and `missing` names what the corpus uses
-widely and the wiki lacks — both counts, both candidates, neither a decision.
+**Read `NOW.md` first.** Its standing instructions may say that no document is read —
+they did on 2026-09-28 and again on 2026-09-30 — and a document may already be claimed:
+an open pull request names its slug under a `Claim` heading. **This step has no command
+yet** (see „What is missing"). `python3 scripts/askdb.py touches <slug>` names the
+decision sheets a document bears on; `python3 scripts/entities.py doc <slug>` profiles a
+candidate before it is read and `missing` names what the corpus uses widely and the wiki
+lacks (a list exists for few documents: `python3 scripts/state.py --get entities.lists`) —
+counts and candidates, never a decision.
 
 ---
 
@@ -109,11 +113,15 @@ cat Plan/briefings/extract.md                    # procedural knowledge only, re
 python3 scripts/read.py <slug>                   # the document, every line prefixed NNN|
 #   write Plan/runs/<slug>/03-candidates.md AS YOU GO
 python3 scripts/capture.py <slug> --count        # 04-counts: two numbers per term, plus surfaces
-#   write Sources/terms/<slug>.md   (the census)
+python3 scripts/census.py draft <slug>           # every mechanical part of the census; the reader fills two sections
+#   save it as Sources/terms/<slug>.md, then: python3 scripts/census.py check <slug>
 #   write Sources/notes/<slug>.md   (the note, every quotation ^[Lnn])
 python3 scripts/read.py <slug> --find "<the words>"   # the citation, or a refusal
-python3 scripts/quotes.py Sources/notes/<slug>.md
+python3 scripts/quotes.py --strict Sources/notes/<slug>.md
 ```
+
+The `ingest` skill has every gate and refusal. Delegated, steps 1–4 are the `document-reader`
+agent (`.claude/agents/document-reader.md`) — never the reconciliation, never a page.
 
 **Do not type a citation next to a quote — ask for it.** `--find` answers with
 `^[Lnn]` when the words are on one line, and refuses when they are not, naming
@@ -143,16 +151,18 @@ here", not „absent".
 
 ```bash
 python3 scripts/wiki_index.py                    # derive Wiki/index.json from frontmatter
-python3 scripts/reconcile.py <slug>              # pre-classify: lookup vs judgement
+python3 scripts/reconcile.py <slug>              # pre-classify: lookup vs judgement; its last section is the sweep
 #   record each judgement in Plan/runs/judgements.jsonl, with a RULE STATED IN WORDS
-#   write pages / readings, then quotes.py on each
-#   write Plan/runs/<slug>/reconcile.json  (state_before, state_after)
-#   write Wiki/compare/reconcile-NN-<slug>.md
-python3 scripts/judgements.py                    # replay; also re-renders judgements.md
-#   readings by wiki-reader subagents into Plan/runs/<batch>/readings/ (decision 015):
+python3 scripts/crossdoc.py doc <slug>           # who else writes each page's names — counted — and P_BM25 lines
+python3 scripts/brief.py draft <batch> <slug>    # the readings brief, drafted where it is mechanical
+#   readings by wiki-reader subagents into Plan/runs/<batch>/readings/ (decision 015), then:
 python3 scripts/readings.py check <batch> && python3 scripts/readings.py apply <batch>
 python3 scripts/wiki_index.py --fix-frontmatter  # ingested/sources/readings derived from the page
 python3 scripts/lint_readings.py --doc <slug>    # what the review used to catch by hand
+python3 scripts/record.py draft <slug>           # reconcile.json and the compare record from the pages; fill the <reconciler: …> marks
+python3 scripts/chapters.py missing <slug>       # chapters the document names with no reading on their page
+python3 scripts/link.py --apply                  # a new page arrives linked to nothing
+python3 scripts/judgements.py                    # replay; also re-renders judgements.md
 ```
 
 **Reconciliation never reads the wiki** — it answers by lookup against
@@ -176,6 +186,8 @@ python3 scripts/state.py --prose                 # fail on any stale number anyw
 python3 scripts/account.py order                 # must hold again
 python3 scripts/relations.py                     # new orphans, new open statements
 python3 scripts/trainset.py                      # did the baseline move?
+python3 scripts/selftests.py                     # every self-test; CI runs the standard-library ones
+.venv-graphqlite/bin/python scripts/kg.py index  # the shared store, when it says stale
 qmd update && python3 scripts/qmd_coverage.py
 ```
 
@@ -183,7 +195,7 @@ qmd update && python3 scripts/qmd_coverage.py
 the ledger grew from 17 to 26 examples, and every new miss was a plural or an
 inflection — which said the next improvement is a rule, not a model.
 
-Commit per `CLAUDE.md`: one page changed is one commit and the first line names
+Commit per `CLAUDE.md`, *Committing a wiki page*: one page changed is one commit and the first line names
 the source document. The one exception is a corpus-wide re-measurement, which
 names the measurement instead.
 
@@ -203,17 +215,17 @@ For small context from the already-built wiki, use the `graph-context` skill:
 `scripts/kg.py` serves the existing graph through GraphQLite in a local virtualenv.
 It is available after independent extraction, never before the census is frozen.
 
-Nothing below is a new capability. Each is a name for a sequence that is run by
-hand today, and **only the ones marked ✓ exist**.
+Most of these are names for a sequence run by hand; **only the ones marked ✓ exist as
+something you can run or hand over**.
 
 | command | is | status |
 |---|---|---|
-| `check` | the seven invariants, with what a red one means | **to build** — the scripts exist, the one command does not |
-| `next` | open questions + a corpus search → the next document and why | **to build** — phase 1 has no command at all |
-| `ingest <slug>` | phase 2, with its three refusals | **to build** — `capture.py` holds two of the three |
-| `reconcile <slug>` | phase 3 | ✓ `reconcile.py` does the pre-classification; the rest is by hand |
+| `check` | the ten invariants, with what a red one means | ✓ each is a script, `selftests.py` runs the self-tests and CI runs them as steps (`.github/workflows/checks.yml`) — **no single command** |
+| `next` | open questions + a corpus search → the next document and why | **to build** — phase 1 has no command; `askdb.py touches` and `entities.py doc` help |
+| `ingest <slug>` | phase 2, with its refusals | ✓ the `ingest` skill; `capture.py` holds the refusal to count before a candidate list exists; steps 1–4 delegate to the `document-reader` agent |
+| `reconcile <slug>` | phase 3 | ✓ `reconcile.py`, `brief.py`, `readings.py`, `record.py`; the judgements, and what a reading says, are a person's and a `wiki-reader`'s |
 | `account <subject>` | the recursive verb over `document`, `term`, `pair`, `corpus`, `order` | ✓ `account.py` |
-| `ask <question>` | attributed evidence from the wiki, `doc:line` behind every quotation | ✓ retrieval: `graphrag.py ask`. It returns quotations, never prose; `--answer` lets a model pick evidence numbers, needs `--approval` |
+| `ask <question>` | attributed evidence, `doc:line` behind every quotation | ✓ `graphrag.py ask` returns quotations, never prose; `ask.py` packs a question, answers it (`claude -p` by default) and lands the answer as a source of tier `M-ask` (decision 017) |
 | `promote <term>` | a person's review, candidate → `Wiki/terms/` | **to build**, and it is a person's gate, not a command that decides |
 
 **Write no command for a step that has not been done by hand twice.** The
@@ -228,10 +240,11 @@ ledger specified in three places whose directory does not exist.
 - **Phase 1 is not automated at all.** A person reads the question pages and
   writes the qmd query. This is the step where the loop currently needs a human
   to turn the crank.
-- **`ask` retrieves but does not answer.** `graphrag.py ask` returns verified
-  quotations from the graph; turning them into prose would merge sources, which
-  a page may not do either. Whether an answer ever becomes more than chosen
-  quotations is the author's call.
+- **An `ask` answer is not a reading.** `ask.py` lands it under `Sources/ask/` as a
+  source of tier `M-ask` — a model's reading of other sources, never the author's word
+  (decision 017) — and nothing turns it into page text: prose from quotations would
+  merge sources, which a page may not do either. How far an answer may go beyond chosen
+  quotations is still the author's call (`Plan/questions-for-the-author.md`).
 - **`promote` does not exist**, and `Wiki/terms/` therefore does not exist:
   nothing has been promoted, and there is no rule yet for what happens when a new
   source contradicts a page a person signed off.

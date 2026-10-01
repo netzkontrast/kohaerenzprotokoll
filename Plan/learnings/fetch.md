@@ -348,3 +348,36 @@ roughly; the batch is not re-measured here.
   *Tiers*). Learning 10's „55 duplicate titles" was nearer the truth for unread
   rows than the correction of it suggested.
 - **A new file is in no qmd search until `qmd update`** — 13 s for all of them.
+
+## Duplicate exports, and which copy survives
+
+*Moved from `CLAUDE.md` on 2026-09-30, verbatim; the counts are as of 2026-09-26 and no longer checked.*
+
+**Those files are 586 distinct documents, and
+that took work.** Drive holds up to five exports of the same document — a gdoc
+export, a docx export, a `kopie` of each, a second run of both — and each landed
+under its own `drive_id`. 409 files were 346 documents, so **every count phrased
+as "N of 409" was counting copies.** Only 2 pairs were byte-identical, so
+checksums found almost none of it.
+
+`python3 scripts/dedupe.py` folded the
+93 extra files away. The file left `Sources/drive/`,
+the row left the manifest — 680 rows became 617, the canon-era landing's four
+copies took it to 613, and the 26 copies among the plot outlines of 2026-09-26 to
+587 — and the full row moved to
+`Sources/duplicates.jsonl`, which is what `sources.py next` filters against so a
+folded document is never fetched again. `python3 scripts/duplicates.py` now
+reports 0 near-copies and its job is to keep
+saying so after the next landing.
+
+**Which copy survives is not the longest one.** The gdoc export is longer and
+carries less: its extra words are `end list` markers — 195 in one document — and
+its missing words are the URLs behind the footnotes, which only the docx export
+keeps. In 11 of 11 groups holding both formats the docx export carried at least
+as many source URLs, and in 10 strictly more. So the rule ranks on URLs first,
+export artifacts second, and only then on the name. `scripts/dedupe.py` has the
+full order and `Plan/runs/dedupe.json` has the decision per group.
+
+A count over files is now a count over documents — AEGIS is in 269 of the 346 —
+but the distinction was real while it lasted and the script that measures it
+stays.

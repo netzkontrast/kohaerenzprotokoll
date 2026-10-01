@@ -1,0 +1,30 @@
+
+== earlier
+                   runs  calls failed     min   cost $  rows in  names  quote  refused
+TermDefinitions      13    345      8      28     4.09     1555   1347     19      189
+TermContrasts        13    347      9      34     4.40     1429   1125     68      236
+CausalLinks          13    320      4      25     3.84      884    579    195      110
+all three            39   1012     21      87    12.32     3868   3051    282      535
+
+== backfill
+                   runs  calls failed     min   cost $  rows in  names  quote  refused
+TermDefinitions       5    326      1      21     3.64      764    657     10       97
+TermContrasts         5    333      9      32     4.24     1325   1072     72      181
+CausalLinks           4    297      2      24     3.55      745    462    215       68
+all three            14    956     12      77    11.44     2834   2191    297      346
+
+== both passes
+                   runs  calls failed     min   cost $  rows in  names  quote  refused
+TermDefinitions      18    671      9      49     7.73     2319   2004     29      286
+TermContrasts        18    680     18      66     8.63     2754   2197    140      417
+CausalLinks          17    617      6      49     7.39     1629   1041    410      178
+all three            53   1968     33     164    23.76     6702   5242    579      881
+
+19 documents; $7.11 a megabyte a contract over the runs done (the note's estimate was $7.3)
+
+== per document (backfill)
+kohaerenz-protokoll                                            3 runs     372 KB  $7.45  50 min
+koharenz-protokoll-strukturierter-outline-2026-05-18-md        3 runs      70 KB  $1.45  9 min
+kohaerenz-protokoll-storyform-und-outline-2026-06-10-md        3 runs      48 KB  $1.11  7 min
+kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md   2 runs      52 KB  $0.78  6 min
+dual-storyform-hintergruende-md                                3 runs      29 KB  $0.63  5 min

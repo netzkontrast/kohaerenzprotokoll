@@ -16,7 +16,7 @@ Two rules are this project's own:
   and `.claude/skills/<name>` is a symlink to it. A real folder with the same
   name is a second copy, and two copies drift on the first edit.
 - **Vendored skills are checked, never rewritten.** Four collections are copied
-  unchanged from upstream, each pinned in `CLAUDE.md`: the `jev*` folders from
+  unchanged from upstream, each pinned in `.agents/skills/tools/references/install.md`: the `jev*` folders from
   `wuyoscar/jev-skill` v0.2.0; the four Notion skills from
   `netzkontrast/notion-skills`; `knowledge-graph-extract`; `graphify`; and the
   `hyper-extract` / `hyperextract-*` folders from `netzkontrast/Hyper-Extract`.

@@ -72,7 +72,7 @@ mean. With `scripts/route.py` — the door for third-party tools and direct
 calls under decision 007, which records every call for offline replay — the
 rule „no corpus text leaves without the author's decision" has **three**
 encodings, with three record formats; which one the others should call is open
-(`NOW.md`, *Three encodings of one rule*). For a DSPy program on a free model
+(`Plan/questions-for-the-author.md`, *Three encodings of one rule*). For a DSPy program on a free model
 two of them now compose: `route_lm()` points a `dspy.LM` at `route.py`'s proxy
 with the caller key `route:<purpose>:-:<attempt>:pin`, so `lmrun.call` keeps the
 approval and its per-call record, and `route.py` keeps the price check, the

@@ -10,7 +10,7 @@ Per contract, over every run staged in `Plan/runs/*/hyperextract/`. A row enters
 | Attributions | 1 | 1 | 0 / 0 | 0 | 0.03 | 0.032 |  |  | 0% / 0% | 0% |  | |
 | CardFields | 1 | 0 | 39 / 23 | 5 (5 quote not placed) | 0.16 | 0.003 | 10: 80% / 100% | 4: 100% / 100% | 10% / 90% | 29% | 100% (16/16) | 31% (16/52) |
 | CastRoles | 1 | 0 | 15 / 9 | 0 | 0.09 | 0.004 | 11: 64% / 100% | 1: 0% / 100% | 60% / 93% | 92% |  | |
-| CausalLinks | 13 | 0 | 579 / 195 | 109 (85 quote not placed, 21 ambiguous quote) | 3.84 | 0.005 | 9: 44% / 100% | 9: 78% / 100% | 9% / 41% | 45% | 67% (388/583) | 24% (388/1600) |
+| CausalLinks | 17 | 0 | 1041 / 410 | 176 (138 quote not placed, 27 ambiguous quote) | 7.39 | 0.005 | 9: 44% / 100% | 9: 78% / 100% | 8% / 36% | 37% | 45% (476/1054) | 24% (476/1974) |
 | ChapterBeats | 1 | 0 | 32 / 10 | 1 (1 quote not placed) | 0.10 | 0.002 | 12: 92% / 100% | 3: 100% / 100% | 16% / 94% | 98% |  | |
 | ChapterCards | 1 | 0 | 36 / 31 | 3 (3 quote not placed) | 0.12 | 0.002 | 12: 83% / 100% | 3: 100% / 100% | 14% / 64% | 79% |  | |
 | DiegeticTerms | 1 | 0 | 5 / 0 | 0 | 0.13 | 0.027 | 5: 20% / 100% |  | 0% / 60% | 80% | 80% (4/5) | 8% (4/52) |
@@ -26,8 +26,8 @@ Per contract, over every run staged in `Plan/runs/*/hyperextract/`. A row enters
 | StandingClaims | 2 | 2 | 0 / 0 | 0 | 0.14 | 0.144 |  |  | 0% / 0% | 0% |  | |
 | Storypoints | 1 | 0 | 11 / 10 | 4 (2 quote not placed, 2 surface absent from docu) | 0.19 | 0.009 | 11: 36% / 100% |  | 18% / 55% | 48% | 65% (13/20) | 15% (13/84) |
 | StructureBeats | 1 | 0 | 11 / 17 | 1 (1 quote not placed) | 0.10 | 0.004 | 11: 100% / 100% | 1: 100% / 100% | 27% / 64% | 79% |  | |
-| TermContrasts | 13 | 0 | 1125 / 68 | 233 (200 quote not placed, 23 ambiguous quote) | 4.40 | 0.004 | 24: 75% / 100% | 3: 33% / 100% | 9% / 27% | 45% | 57% (519/907) | 33% (519/1580) |
-| TermDefinitions | 13 | 0 | 1347 / 19 | 178 (139 quote not placed, 34 ambiguous quote) | 4.09 | 0.003 | 26: 73% / 96% |  | 31% / 31% | 44% | 59% (573/969) | 36% (573/1580) |
+| TermContrasts | 18 | 0 | 2197 / 140 | 412 (313 quote not placed, 53 joined or shortened quot) | 8.63 | 0.004 | 24: 75% / 100% | 3: 33% / 100% | 9% / 25% | 40% | 41% (709/1745) | 35% (709/2054) |
+| TermDefinitions | 18 | 0 | 2004 / 29 | 268 (176 quote not placed, 75 ambiguous quote) | 7.73 | 0.004 | 26: 73% / 96% |  | 31% / 31% | 44% | 52% (764/1459) | 37% (764/2054) |
 | TermReadings | 1 | 0 | 66 / 4 | 4 (4 quote not placed) | 0.22 | 0.003 |  |  | 12% / 12% | 51% | 76% (13/17) | 65% (13/20) |
 | TermTaxonomy | 1 | 0 | 7 / 1 | 0 | 0.04 | 0.004 | 7: 43% / 43% |  | 14% / 57% | 50% | 71% (5/7) | 25% (5/20) |
 | ThemeMotifs | 1 | 0 | 4 / 4 | 0 | 0.04 | 0.004 | 4: 75% / 100% |  | 0% / 75% | 50% | 88% (7/8) | 35% (7/20) |
@@ -50,16 +50,20 @@ Over every labelled row: the share a reader marked `ok`, by the grade code gave 
 | briefing-core-concepts-of-the-kohaerenz-protokoll-project | 0 | 0 | — | 2 | 0.23 |
 | detaillierte-kapiteluebersicht | 0 | 43 | — | 6 | 0.61 |
 | dramatica-storyform-synthese-aegis-analyse-2 | 87 | 149 | 73 (84% of the pages’ lines) | 3 | 1.42 |
-| dual-storyform-hintergruende-md | 84 | 20 | 13 (15% of the pages’ lines) | 1 | 0.19 |
-| hard-sf-roman-outline-dkt-physik-cosmic-horror | 89 | 82 | 70 (79% of the pages’ lines) | 3 | 1.01 |
-| kohaerenz-protokoll-konzept-master-md | 209 | 197 | 110 (53% of the pages’ lines) | 3 | 1.16 |
+| dual-storyform-hintergruende-md | 84 | 91 | 46 (55% of the pages’ lines) | 4 | 0.83 |
+| hard-sf-roman-outline-dkt-physik-cosmic-horror | 88 | 82 | 69 (78% of the pages’ lines) | 3 | 1.01 |
+| kohaerenz-protokoll | 88 | 673 | 59 (67% of the pages’ lines) | 3 | 7.45 |
+| kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md | 100 | 178 | 62 (62% of the pages’ lines) | 2 | 0.78 |
+| kohaerenz-protokoll-konzept-master-md | 208 | 197 | 110 (53% of the pages’ lines) | 3 | 1.16 |
 | kohaerenz-protokoll-meta-foreshadowing-beobachter-logik | 20 | 20 | 16 (80% of the pages’ lines) | 11 | 0.56 |
 | kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md | 247 | 153 | 97 (39% of the pages’ lines) | 3 | 1.08 |
 | kohaerenz-protokoll-philosophischer-bericht-md | 167 | 142 | 102 (61% of the pages’ lines) | 3 | 1.27 |
+| kohaerenz-protokoll-storyform-und-outline-2026-06-10-md | 72 | 107 | 49 (68% of the pages’ lines) | 3 | 1.11 |
 | kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md | 136 | 164 | 62 (46% of the pages’ lines) | 3 | 1.31 |
 | kohaerenz-protokoll-weltkonzept-synthese | 0 | 79 | — | 3 | 0.90 |
 | koharenz-protokoll-konzept-konsolidiert-2026-05-08-md | 191 | 265 | 82 (43% of the pages’ lines) | 3 | 2.01 |
 | koharenz-protokoll-sprach-dna-2026-05-13-md | 52 | 29 | 27 (52% of the pages’ lines) | 5 | 0.77 |
+| koharenz-protokoll-strukturierter-outline-2026-05-18-md | 132 | 167 | 78 (59% of the pages’ lines) | 3 | 1.45 |
 | kp-kap25-2026-09-14-md | 56 | 41 | 12 (21% of the pages’ lines) | 1 | 0.14 |
 | mining-report-kohaerenz-protokoll-narrative-building-blocks | 51 | 36 | 32 (63% of the pages’ lines) | 3 | 0.59 |
 | systemic-architecture-specification-the-coherence-protocol-w | 50 | 26 | 25 (50% of the pages’ lines) | 3 | 0.25 |
@@ -72,18 +76,18 @@ Over every labelled row: the share a reader marked `ok`, by the grade code gave 
 
 A name a contract found in a quotation and no page or entity contains. Each is a candidate for a page, an alias or an entity, and none is any of them until a person says so.
 
+- `Logik` × 30
+- `Resonanz` × 21
 - `Coheronen` × 20
+- `Kontrolle` × 19
 - `Wahrheit` × 18
+- `Dissoziation` × 17
+- `Wir-Stimme` × 17
+- `Autopoiesis` × 16
+- `Ordnung` × 16
 - `Zeit` × 16
-- `Wir-Stimme` × 16
 - `Kohärenz-Insel` × 16
-- `Resonanz` × 15
-- `Dissoziation` × 15
+- `Trennung` × 15
+- `Somatik` × 15
+- `Beziehungsmuster` × 15
 - `Erasonen` × 15
-- `Rendering-Grenzen` × 15
-- `Trennung` × 14
-- `Kapitel 35-40` × 12
-- `Kapitel 27-34` × 11
-- `Wärme` × 10
-- `Kohärenztheorie` × 10
-- `Autopoiesis` × 9

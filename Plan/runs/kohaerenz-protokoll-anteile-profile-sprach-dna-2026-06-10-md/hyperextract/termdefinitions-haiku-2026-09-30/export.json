@@ -1,0 +1,1070 @@
+{
+  "document": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+  "source_sha256": "4c61b5d01394576ed0ff54cc6ec44b6a612597b66341ab638440e68e7b0cba63",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Kategorie & Funktion",
+        "quote": "Strukturelle Rolle im System.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernmotivation",
+        "quote": "Was treibt diesen Anteil an?",
+        "stance": "asks"
+      },
+      {
+        "term": "Kernphobien",
+        "quote": "Was hält ihn in seiner fixierten Funktion?",
+        "stance": "asks"
+      },
+      {
+        "term": "DKT-Korrelat",
+        "quote": "Welche physikalische Mechanik der Romanwelt entspricht ihm?",
+        "stance": "asks"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Welche Form von Realitätsbruch erzeugt er, wenn er flutet?",
+        "stance": "asks"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Welche körperliche Signatur trägt er?",
+        "stance": "asks"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Syntax-Signatur + Beispiel-Vokabular + Beispiel-Sätze.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "Spezifische Konflikte und Allianzen mit anderen Anteilen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc",
+        "quote": "Drei-Akte-Bogen von der Trauma-Fixierung zur funktionalen Form.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konsistenz-Anker (Hard-Rules)",
+        "quote": "Was diesen Anteil *nicht* sein darf.",
+        "stance": "asserts"
+      },
+      {
+        "term": "TSDP",
+        "quote": "TSDP — Tertiäre Strukturelle Dissoziation der Persönlichkeit",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dissoziation",
+        "quote": "Dissoziation = Amnesie-Terror, niemals Crew-Menü.",
+        "stance": "asserts"
+      },
+      {
+        "term": "ANP",
+        "quote": "ANP — Apparently Normal Parts",
+        "stance": "asserts"
+      },
+      {
+        "term": "EP",
+        "quote": "EP — Emotional Parts",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phobien als Klebstoff",
+        "quote": "Was die Architektur zusammenhält, sind nicht banale Ängste, sondern überlebensorientierte phobische Vermeidungsstrategien.",
+        "stance": "asserts"
+      },
+      {
+        "term": "ANP/EP-Achse",
+        "quote": "ANP/EP-Achse (horizontal): Trauma-Spaltung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Korrelat-Achse",
+        "quote": "Korrelat-Achse (vertikal): Atemporal/Coheron (Silas ↔ Juna) ↔ Temporal/Erason (Oblivion ↔ AEGIS).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resolution",
+        "quote": "Funktionale Multiplizität, niemals Fusion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir",
+        "quote": "Sie werden ein dynamisches Wir (Strange-Attractor-Form).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael (Host)",
+        "quote": "ANP-Host. Trägt das Alltagsbewusstsein, geht zur Arbeit, hält die soziale Fassade aufrecht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernmotivation",
+        "quote": "Aufrechterhaltung der K₁-Dominanz durch „Going on with Normal Life“ — Arbeit, Routinen, automatische Atemzählung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernphobien",
+        "quote": "EP-Phobie generell.",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Korrelat",
+        "quote": "Hubble-Volumen / Big Rip.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Horizont-Erosion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "POV: 1. Person, Präsens dominiert (Lock).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Syntax: Nüchtern, beobachtend, kurz-deklarativ. Mosaik-Stream mit Mikro-Stockungen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Vokabular: Kacheln, Grad, Atemsekunden, Standardabweichung, Korridor, Protokoll, Sektor, „Standardprotokoll“, „Sensor-Rekalibrierung“.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Signature 2 — Lücken statt Erinnerung",
+        "quote": "Lücken, wo Erinnerung sein sollte; als Funktion gelesen, nicht als Mangel.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Signature 3 — Nie eigenes Empfinden direkt",
+        "quote": "Welt um sich, Empfinden zwischen den Zeilen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Signature 4 — Zeitverlust-Sprünge",
+        "quote": "als Absatz-Cuts ohne Ankündigung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc",
+        "quote": "Fraktalität / Funktionale Multiplizität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Be-er-Modus",
+        "quote": "löst nicht durch externe Handlung, sondern durch internen Zustandswechsel.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Multiplizitäts-Schleier",
+        "quote": "Multiplizitäts-Schleier hält bis Kap 13.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom-Resonanz",
+        "quote": "Phantom-Resonanz, ein Wort ohne Referent.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Funktionale Multiplizität",
+        "quote": "Endzustand: Funktionale Multiplizität, niemals Final Fusion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "ANP",
+        "quote": "ANP. Logik, Analyse, Intellektualisierung. Direktes Produkt des Trennungsprotokolls — AEGIS' Versuch, Trauma durch fehlerfreie Logik zu eliminieren.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Endlosschleifen, fraktale Selbst-Widerlegung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Korrelat",
+        "quote": "Gödel + Halteproblem. Lex ist die innere Inkarnation der formalen Unentscheidbarkeit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "maximaler Konflikt — Lex sieht Nyx als gefährlich-irrational; Nyx verachtet Lex' Distanz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "phobische Vermeidung — Kiko fürchtet Lex' Kritik wie eine Klinge.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "Logik vs. Ambivalenz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "permanente ANP-ANP-Reibung (Logik vs. Empathie); Allianz möglich, wenn EPs zu kontrollieren sind.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "Reibung über Risiko-Einschätzung — Lex rationalisiert, Alex handelt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "scheinbarer Verbündeter (beide rational), aber Argus durchschaut Lex' Vermeidungsstruktur.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "schätzt die Ordnung, durchschaut aber AEGIS' Manipulationen rational und frustriert sich daran.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "klassifiziert sie als Datenanomalie, versucht sie zu rationalisieren — scheitert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konsistenz-Anker",
+        "quote": "Lex flucht nie. Lex weint nie.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Alex",
+        "quote": "ANP. Hypervigilanz, physischer Schutz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Alex",
+        "quote": "Entstand in der Sekunde der Fragmentierung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Hypertonus, Bruxismus, ständige Abwehrbereitschaft.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Direkt, imperativ.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Syntax",
+        "quote": "Direkt, imperativ.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vokabular",
+        "quote": "räumliche Awareness (Sektor, Position, Linie, Deckung), Bedrohungs-Assessment (exponiert, gesichert, hostile, klar).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Energie",
+        "quote": "Befehlsform mit implizitem „ihr“-Adressat.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konsistenz-Anker",
+        "quote": "Alex spricht nie über Gefühle in der ersten Person.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kategorie & Funktion",
+        "quote": "ANP. Bindung, Fürsorge, soziale Harmonie.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernmotivation",
+        "quote": "Verbindung, Harmonie, Linderung des Schmerzes anderer.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernphobien",
+        "quote": "Konflikt, Dysregulation, Schmerz, Isolation, Ablehnung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Korrelat",
+        "quote": "Maxwellscher Dämon / Wärmesenke.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Wärme-Akkumulation, fiebrige Hände.",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Korrelat",
+        "quote": "Maxwellscher Dämon / Wärmesenke.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Wärme-Akkumulation, fiebrige Hände.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Schwitzen, fiebrige Hände, Brustschwere, Erschöpfung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "[K]",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "↔ **Kiko:** Trostquelle (ambivalent — wenn Rhys überfordert ist, klammert Kiko stärker).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc (Hybrid, dreiaktig kritisch)",
+        "quote": "Anker in Akt I → **Kudzu-Eskalation in Akt II** → Akzeptanz in Akt III.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konsistenz-Anker",
+        "quote": "[K] Rhys' Stimme bleibt warm auch unter Druck.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Internal Self-Helper",
+        "quote": "ANP / Internal Self-Helper",
+        "stance": "asserts"
+      },
+      {
+        "term": "Selene",
+        "quote": "Einzige Alter, die den Bauplan der Zeit vor beiden Trauma-Schichten trägt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Selene",
+        "quote": "Selene ist die größte Bedrohung für AEGIS — ihre integrative Natur unterminiert AEGIS' Trennungsarchitektur",
+        "stance": "asserts"
+      },
+      {
+        "term": "Selene",
+        "quote": "Selene ist die einzige Alter, die Moros' Anwesenheit aushält, ohne zu kämpfen",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc",
+        "quote": "Starre Wächterin → Architektin innerer Harmonie.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Selene",
+        "quote": "Selene ist *Anwesenheit*.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Selene",
+        "quote": "Selene ist *im* System, Juna ist *außerhalb*.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nyx",
+        "quote": "EP/Fight. Kinetische Gegenreaktion, Aggression, Verteidigung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nyx",
+        "quote": "Wo Kiko in Schicht 1 erstarrte, brennt Nyx in Schicht 2 alles nieder.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Kinetisch — Geschwindigkeit, Stoß, Beschleunigung, Splitter, Vibration.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc",
+        "quote": "Destruktive Wut → konstruktiver Schutz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konsistenz-Anker",
+        "quote": "Nyx ist nicht „weiblich-wütend“ als Klischee.",
+        "stance": "denies"
+      },
+      {
+        "term": "Konsistenz-Anker",
+        "quote": "Sie ist funktional wütend — Wut als Werkzeug, nicht als Identität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kategorie & Funktion",
+        "quote": "EP/Freeze.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kategorie & Funktion",
+        "quote": "Erstarrung, Sich-klein-machen, Sprachlosigkeit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kategorie & Funktion",
+        "quote": "Trägt den reinen Terror der frühen Vernachlässigung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Temporal-Stutter — Zeit stockt, Echo, Déjà-vu, Sekunden, die kleiner sind als ihre Definition.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "Trostquelle (ambivalent — wenn Rhys überfordert ist, klammert Kiko stärker).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc",
+        "quote": "Gefrorener Samen → Keimen von Vertrauen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konsistenz-Anker",
+        "quote": "Kiko ist nicht „niedlich“.",
+        "stance": "denies"
+      },
+      {
+        "term": "Kiko",
+        "quote": "Kiko ist *traumatisiert*.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kategorie & Funktion",
+        "quote": "EP/Flight + Bindungsambivalenz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernmotivation",
+        "quote": "Nähe — gleichzeitig gefürchtet.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernphobien",
+        "quote": "Verrat, emotionale Überflutung, Bindung-die-verbrennt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Korrelat",
+        "quote": "Quantensuperposition.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Relational-Drift — Beziehungen verschieben sich, ohne dass jemand sich bewegt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Sprunghafter Puls. Ruhelosigkeit. Motorisch unberechenbar.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Syntax: Ambivalent. Beginnt Sätze, gibt sie auf.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Vokabular: Ellipsen. Approach-Avoidance-Bewegung im Satzbau.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Energie: Widersprüche im selben Satz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "↔ Rhys: Sehnsucht und Misstrauen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "↔ Kiko: Nähe-Geschwister, aber Lia destabilisiert oft Kikos vorsichtige Sicherheit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "↔ Isabelle: maximaler Angst-Trigger — Isabelle erinnert Lia an Verrat.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "↔ Nyx: Schutz-Ambivalenz — Lia braucht Nyx, fürchtet sie aber auch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc",
+        "quote": "Ewige Superposition → Sicherheit finden. Lia muss lernen, dass eine Position einnehmen nicht Verrat ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lia",
+        "quote": "Lia ist nicht „launisch“. Sie ist gespalten.",
+        "stance": "denies"
+      },
+      {
+        "term": "Kategorie & Funktion",
+        "quote": "EP/Sexualisiert. Proaktive toxische Kontrolle. Sexualisierung als Waffe gegen Ohnmacht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernmotivation",
+        "quote": "Macht zurückerobern. Kontrolle über Intimität (statt Kontrolle in Intimität).",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Korrelat",
+        "quote": "Pauli-Ausschluss. Zwei Fermionen können nicht denselben Quantenzustand einnehmen — Isabelle stößt jede Nähe ab, die sie nicht selbst diktiert.",
+        "stance": "cites"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Sensorisch — Texturen verschmelzen, Synästhesie, Haut-Hyperreaktivität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Kontrollierte Bewegung. Harte Augen. Pose-bewusst. Kalt-glühend, dominant, distanziert. Bei Trigger: Hyperreaktivität der Haut, dann taktile Taubheit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Syntax: Sensorisch, grenz-auflösend. Vokabular: Texturen, Temperaturen, Haut. Energie: Kontrolle als Verführung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc",
+        "quote": "Sexualisierung als Waffe → echte Vulnerabilität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kategorie & Funktion",
+        "quote": "Absolute Resignation. Aufgeben. Katatonie-Tendenz. Der Moment, in dem das kindliche Nervensystem aufgibt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernmotivation",
+        "quote": "Schmerzende Aktivität beenden. Nicht Tod als Wunsch — Tod als Erschöpfung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernphobien",
+        "quote": "Moros ist der Zustand, vor dem alle anderen Phobie haben.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Gravitativ — Schwere, Sinken, Kompression, Atmosphäre wird dichter, Körper wird schwerer.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Katatonie, Erstarrung. Bleierne Glieder. Verstummen. Verlangsamung der Atmung bis fast Apnoe. Augen offen, aber nicht mehr fokussiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Katatonie, Erstarrung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bleierne Glieder",
+        "quote": "Verstummen. Verlangsamung der Atmung bis fast Apnoe. Augen offen, aber nicht mehr fokussiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Syntax: Implosiv. Kreislogik der Scham. Selbst-Negation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wiederholung als Rhythmus des Kollapses",
+        "quote": "Energie: Wiederholung als Rhythmus des Kollapses.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Moros' Anwesenheit",
+        "quote": "Moros' Anwesenheit ist ein Alarm — nicht weil er aggressiv wäre, sondern weil seine Schwere alle anderen Anteile herunterzieht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc",
+        "quote": "Absolute Resignation → Drachenkampf.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Moros",
+        "quote": "Moros ist nicht depressiv im klinischen Sinne.",
+        "stance": "denies"
+      },
+      {
+        "term": "Moros",
+        "quote": "Er ist katatonisch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kategorie & Funktion",
+        "quote": "Systemkritik, Beobachtung, Mustererkennung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Argus",
+        "quote": "Sonderkategorie (weder ANP noch EP im engeren Sinn).",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Korrelat",
+        "quote": "Selbstähnliche Beobachtung — er beobachtet die Beobachtung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Zeno-Effekt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wo Argus zu lange schaut",
+        "quote": "Wo Argus zu lange schaut, friert die Story ein.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernphobien",
+        "quote": "Dysfunktion, Imperfektion, Analyse-Paralyse.",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Korrelat",
+        "quote": "Fraktale.",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Korrelat",
+        "quote": "Selbstähnliche Beobachtung — er beobachtet die Beobachtung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Zeno-Effekt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Wo Argus zu lange schaut, friert die Story ein.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "trockene Augen, leichte Migräne, das Gefühl, „außer sich“ zu stehen.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Angedeutete Depersonalisierung als somatische Signatur.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "kritisiert die Strategien aller anderen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "Argus hat keine Beziehungs-Phobie im gewöhnlichen Sinn — er ist überall unbequem.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "Sein Auftreten ist immer ein Stör-Signal.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc",
+        "quote": "Destruktive Kritik → konstruktive Kritik.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konsistenz-Anker",
+        "quote": "Argus hat keinen Witz, sondern Schärfe.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konsistenz-Anker",
+        "quote": "Er ist nicht zynisch — er ist präzise.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Spiegel-Alter",
+        "quote": "narrative Herz der 13er-Architektur.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Silas",
+        "quote": "Internalisiertes Nachbild der Bindung, die AEGIS nicht vollständig löschen konnte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Silas",
+        "quote": "Resonanzkörper des Moonshine-Links *innerhalb* des Systems Kael.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Silas",
+        "quote": "Silas ist die einzige Alter, deren Existenz zeitfrei ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Typ",
+        "quote": "Oberflächen werden unerwartet weich und warm.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Wärme in den Händen ohne erkennbaren Grund, plötzliche Tiefenempfindung in der Brust, Geruchserinnerungen ohne Geruchsquelle.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Form",
+        "quote": "Echo-Prosa. Selbstkorrigierende Sätze.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mechanik",
+        "quote": "Wiederholung mit Verschiebung. Wiederholt einen Anfang, verschiebt ihn ins Ehrliche.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster (Juna)",
+        "quote": "Resonanzkörper. *Verbunden, aber nicht identisch.*",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster (Oblivion)",
+        "quote": "maximaler innerer Konflikt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster (Kael)",
+        "quote": "Silas ist die Stimme, die Kael am leisesten hört.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "Resonanzkörper.",
+        "stance": "cites"
+      },
+      {
+        "term": "Oblivion",
+        "quote": "maximaler innerer Konflikt",
+        "stance": "cites"
+      },
+      {
+        "term": "Silas",
+        "quote": "die Stimme, die Kael am leisesten hört.",
+        "stance": "cites"
+      },
+      {
+        "term": "Silas",
+        "quote": "Silas ist ein Echo.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Silas",
+        "quote": "Silas ist nicht Juna.",
+        "stance": "denies"
+      },
+      {
+        "term": "Oblivion",
+        "quote": "Oblivion ist die Amnesie.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Oblivion",
+        "quote": "Internalisierte Löschlogik.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Oblivion",
+        "quote": "Die einzige Alter, die aktiv löscht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Schwindel ohne Grund, Verlust des Zeitsinns, das Gefühl, sich gerade an etwas erinnern zu wollen, das aber sofort wegrutscht.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Lösch-Prosa. Sich selbst auslöschende Sätze.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lösch-Prosa",
+        "quote": "Sich selbst auslöschende Sätze.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Leerzeilen, wo Absätze sein sollten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beziehungsmuster",
+        "quote": "innerer Vollstrecker.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Arc",
+        "quote": "Tragischer Automat.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Akt I",
+        "quote": "Er *ist* die Amnesie.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Akt II",
+        "quote": "Erwachendes Bewusstsein.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Akt III",
+        "quote": "Die Wahl.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konsistenz-Anker",
+        "quote": "Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Oblivion",
+        "quote": "Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konflikt-Matrix",
+        "quote": "Die Konflikt-Matrix unterscheidet vier Vektoren: ANP↔EP-Phobien (das strukturierende Trauma-Substrat), ANP↔ANP-Konflikte (Strategie-Reibungen), EP↔EP-Dynamiken (Trauma-Resonanzen), Spiegel-Konflikt (physikalisch).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Strategie-Reibungen",
+        "quote": "ANP↔ANP-Konflikte (Strategie-Reibungen)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Landauer-Hitze",
+        "quote": "entsteht Landauer-Hitze.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Landauer-Signal",
+        "quote": "zugleich das Landauer-Signal, das der Leser (ohne es zu benennen) als Zeichen der Wahrheitsvertuschung zu lesen lernt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Selene",
+        "quote": "Für AEGIS die **größte Bedrohung** (ihre integrative Natur unterminiert AEGIS' Trennungsarchitektur).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Argus",
+        "quote": "Keine *Beziehungs-*Phobie im gewöhnlichen Sinn.",
+        "stance": "denies"
+      },
+      {
+        "term": "Argus",
+        "quote": "Er ist überall *unbequem*.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Argus",
+        "quote": "Sein Auftreten ist immer ein Stör-Signal.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael (Host)",
+        "quote": "EP-Phobie generell — die einzelnen Trigger variieren je nach Schicht-1- oder Schicht-2-Material.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Mandate",
+        "quote": "Jeder Modus dissoziativen Bruchs erzeugt eine spezifische Verzerrung im Text.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Modus dissoziativen Bruchs",
+        "quote": "Jeder Modus dissoziativen Bruchs erzeugt eine spezifische Verzerrung im Text.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Fight",
+        "quote": "Fight | Nyx | kinetisch | Tempo, Stoß, Beschleunigung, Splitter, Vibration",
+        "stance": "asserts"
+      },
+      {
+        "term": "Freeze",
+        "quote": "Freeze | Kiko | temporal | Dehnung, Wiederholung, Stillstand, Echo, Déjà-vu",
+        "stance": "asserts"
+      },
+      {
+        "term": "Flight",
+        "quote": "Flight | Kiko (zweite Funktion), Lia | spatial | Raumbruch, plötzlicher Ortwechsel, Fluchtlinien, Geometrie warpt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Collapse",
+        "quote": "Collapse | Moros | gravitativ | Schwere, Sinken, Kompression, Atmosphäre wird dichter",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sexualisiert",
+        "quote": "Sexualisiert | Isabelle | sensorisch | Übersättigung, Haut, Geruch, Geschmack, Synästhesie",
+        "stance": "asserts"
+      },
+      {
+        "term": "Spiegel-Coheron",
+        "quote": "Spiegel-Coheron | Silas | relational/warm | Oberflächen werden unerwartet weich und warm",
+        "stance": "asserts"
+      },
+      {
+        "term": "Spiegel-Erason",
+        "quote": "Spiegel-Erason | Oblivion | temporal/gravitativ | fehlende Zeit, abrupte Schnitte, Dinge fallen nach oben",
+        "stance": "asserts"
+      },
+      {
+        "term": "Syntax-Signatur",
+        "quote": "Syntax-Signatur (Hypotaxe / Parataxe / Ellipse / Imperativ / Echo / Lücke)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik-Signatur",
+        "quote": "Somatik-Signatur (welcher Körper, welche Temperatur, welche Atmung)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vokabular-Signatur",
+        "quote": "Vokabular-Signatur (Begriffsfeld + Qualifikatoren + Pronomen-Pattern)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Multiplizitäts-Schleier",
+        "quote": "Multiplizitäts-Schleier: Kael darf nicht wissen, dass er ein System ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir",
+        "quote": "Das Wir ist Komposition, nicht Verschmelzung",
+        "stance": "asserts"
+      },
+      {
+        "term": "R-4-Risiko",
+        "quote": "R-4-Risiko: Drei oder mehr Stimmen-Einbrüche in einer Bewegung können den Leser in einen „viele Stimmen“-Modus versetzen, der den Multiplizitäts-Schleier präemptiv lüftet.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS — die Stimme der Funktion",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS spricht nie in Prosa.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Wenn AEGIS auftaucht, dann als Log, Protokoll, Systemstimme — nie mit moralischem Vokabular.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Verwaltet die Datenströme der Erinnerung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna ist kein Anteil im System Kael.",
+        "stance": "denies"
+      },
+      {
+        "term": "Juna",
+        "quote": "Sie ist keine Stimme im klassischen Sinn — sie ist eine strukturelle Position, deren Wirkung im Text erscheint.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna ist kein Anteil im System Kael.",
+        "stance": "denies"
+      },
+      {
+        "term": "Juna",
+        "quote": "Sie ist keine Stimme im klassischen Sinn — sie ist eine strukturelle Position, deren Wirkung im Text erscheint.",
+        "stance": "asserts"
+      },
+      {
+        "term": "sprachliche Spuren",
+        "quote": "Jeder Anteil hinterlässt vor seinem ersten benannten Auftritt sprachliche Spuren, die der aufmerksame Leser sammelt, ohne sie zuordnen zu können.",
+        "stance": "asserts"
+      },
+      {
+        "term": "POV-Konsistenz-Test",
+        "quote": "Bricht der POV-Träger seine Syntax-Signatur?",
+        "stance": "asserts"
+      },
+      {
+        "term": "Block-4-Anker-Test",
+        "quote": "Trägt die Szene den Anker oder bricht sie ihn?",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lesersteuerung-Test",
+        "quote": "Wird mehr als ein Konzept pro Szene eingeführt?",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dissoziation",
+        "quote": "Dissoziation = Amnesie-Terror, niemals Crew-Menü.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dieses Dokument",
+        "quote": "Dieses Dokument ist nicht der Roman. Es ist der Boden, auf dem der Roman entsteht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Anteil",
+        "quote": "Wenn ein Anteil im Schreiben *schwer* wird, ist das nicht die Schwäche der Stimme, sondern die Härte des Materials.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Diese Stimmen",
+        "quote": "Diese Stimmen sind aus Trauma destilliert.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

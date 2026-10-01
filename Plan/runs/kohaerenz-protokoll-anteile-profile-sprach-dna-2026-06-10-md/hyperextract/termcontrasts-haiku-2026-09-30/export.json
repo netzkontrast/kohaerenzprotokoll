@@ -1,0 +1,1046 @@
+{
+  "document": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+  "source_sha256": "4c61b5d01394576ed0ff54cc6ec44b6a612597b66341ab638440e68e7b0cba63",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Dissoziation",
+        "target": "Amnesie-Terror",
+        "type": "complements",
+        "quote": "Dissoziation = Amnesie-Terror, niemals Crew-Menü.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alltagsbewusstsein, Trauma-Vermeidung",
+        "target": "Trauma-Träger, in der traumatischen Erfahrung fixiert",
+        "type": "contrasts_with",
+        "quote": "ANP — Apparently Normal Parts | Alltagsbewusstsein, Trauma-Vermeidung | Kael (Host), Lex, Alex, Rhys, Selene | EP — Emotional Parts | Trauma-Träger, in der traumatischen Erfahrung fixiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Meta-Position, nicht Alltagsfunktion und nicht reine Trauma-Last",
+        "target": "Alltagsfunktion",
+        "type": "contrasts_with",
+        "quote": "Meta-Position, nicht Alltagsfunktion und nicht reine Trauma-Last",
+        "stance": "asserts"
+      },
+      {
+        "source": "nicht banale Ängste",
+        "target": "überlebensorientierte phobische Vermeidungsstrategien",
+        "type": "contrasts_with",
+        "quote": "Was die Architektur zusammenhält, sind nicht banale Ängste, sondern überlebensorientierte phobische Vermeidungsstrategien.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vermeidung",
+        "target": "Konfrontation",
+        "type": "contrasts_with",
+        "quote": "Trauma-Spaltung. Vermeidung gegen Konfrontation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Atemporal/Coheron",
+        "target": "Temporal/Erason",
+        "type": "contrasts_with",
+        "quote": "Atemporal/Coheron (Silas ↔ Juna) ↔ Temporal/Erason (Oblivion ↔ AEGIS)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Funktionale Multiplizität",
+        "target": "Fusion",
+        "type": "opposes",
+        "quote": "Funktionale Multiplizität, niemals Fusion",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael (Host)",
+        "target": "EPs (Nyx, Kiko, Lia, Isabelle, Moros)",
+        "type": "in_tension_with",
+        "quote": "Kael (Host) flieht vor allen EPs (Nyx, Kiko, Lia, Isabelle, Moros) und ihrer ungelöschten Trauma-Wahrheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lücken",
+        "target": "Erinnerung",
+        "type": "in_tension_with",
+        "quote": "Lücken, wo Erinnerung sein sollte",
+        "stance": "asserts"
+      },
+      {
+        "source": "Welt um sich",
+        "target": "Empfinden zwischen den Zeilen",
+        "type": "contrasts_with",
+        "quote": "Welt um sich, Empfinden zwischen den Zeilen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Oblivion",
+        "type": "in_tension_with",
+        "quote": "Kael spürt Oblivion nie direkt — nur die Lücken, die Oblivion hinterlässt",
+        "stance": "asserts"
+      },
+      {
+        "source": "externe Handlung",
+        "target": "internen Zustandswechsel",
+        "type": "contrasts_with",
+        "quote": "löst nicht durch externe Handlung, sondern durch internen Zustandswechsel",
+        "stance": "asserts"
+      },
+      {
+        "source": "Held im klassischen Sinne",
+        "target": "intern",
+        "type": "contrasts_with",
+        "quote": "Kael ist nicht Held im klassischen Sinne. Sein Sieg ist intern, nicht extern.",
+        "stance": "asserts"
+      },
+      {
+        "source": "intern",
+        "target": "extern",
+        "type": "contrasts_with",
+        "quote": "Sein Sieg ist intern, nicht extern.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Funktionale Multiplizität",
+        "target": "Final Fusion",
+        "type": "contrasts_with",
+        "quote": "Endzustand: Funktionale Multiplizität, niemals Final Fusion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logik, Analyse, Intellektualisierung",
+        "target": "Chaos, Emotionen, Irrationalität",
+        "type": "opposes",
+        "quote": "Kernphobien. Chaos, Emotionen, Irrationalität.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logische Ordnung, Vorhersagbarkeit",
+        "target": "Kontrollverlust",
+        "type": "opposes",
+        "quote": "Kernmotivation. Logische Ordnung, Vorhersagbarkeit. Kernphobien. Chaos, Emotionen, Irrationalität. Phobie vor EPs (besonders Kiko, Nyx). Phobie vor Kontrollverlust.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logik",
+        "target": "Ambivalenz",
+        "type": "contrasts_with",
+        "quote": "**Lia:** Logik vs. Ambivalenz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logik",
+        "target": "Empathie",
+        "type": "in_tension_with",
+        "quote": "permanente ANP-ANP-Reibung (Logik vs. Empathie)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex rationalisiert",
+        "target": "Alex handelt",
+        "type": "contrasts_with",
+        "quote": "Reibung über Risiko-Einschätzung — Lex rationalisiert, Alex handelt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logik-Festung",
+        "target": "Intuition",
+        "type": "contrasts_with",
+        "quote": "Logik-Festung → Intuition.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Starre Kontrolle",
+        "target": "Wachstum zulassen",
+        "type": "opposes",
+        "quote": "Starre Kontrolle → Wachstum zulassen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alex extern",
+        "target": "Nyx intern",
+        "type": "contrasts_with",
+        "quote": "beide Verteidiger, Alex extern, Nyx intern.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schutz",
+        "target": "nicht zu schützen",
+        "type": "opposes",
+        "quote": "Alex muss lernen, dass Schutz manchmal heißt, nicht zu schützen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Information",
+        "target": "Energiekosten",
+        "type": "opposes",
+        "quote": "Rhys versucht, Information zu sortieren ohne Energiekosten — und scheitert thermodynamisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Furcht",
+        "target": "Faszination",
+        "type": "in_tension_with",
+        "quote": "maximaler Konflikt — Furcht und Faszination; Rhys' Empathie wird von Nyx als Schwäche gelesen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fürsorge",
+        "target": "Schwäche",
+        "type": "opposes",
+        "quote": "Furcht und Faszination; Rhys' Empathie wird von Nyx als Schwäche gelesen.",
+        "stance": "cites"
+      },
+      {
+        "source": "gute",
+        "target": "erstickend",
+        "type": "opposes",
+        "quote": "Rhys ist zunächst der einzige unproblematisch gute Anteil. In Akt II wird seine Fürsorge erstickend",
+        "stance": "asserts"
+      },
+      {
+        "source": "Loslassen",
+        "target": "Fürsorge",
+        "type": "complements",
+        "quote": "Rhys lernt, dass Loslassen die höchste Form der Fürsorge ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "eigenes Bedürfnis",
+        "target": "dem der anderen",
+        "type": "contrasts_with",
+        "quote": "Rhys verwechselt oft eigenes Bedürfnis mit dem der anderen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dominanz",
+        "target": "Vermittlung",
+        "type": "contrasts_with",
+        "quote": "Nicht durch Dominanz — durch Vermittlung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "bewusstes Stillen",
+        "target": "Erstarrung",
+        "type": "contrasts_with",
+        "quote": "es ist ein *bewusstes Stillen*, nicht Erstarrung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "AEGIS",
+        "type": "opposes",
+        "quote": "Selene ist die **größte Bedrohung** für AEGIS — ihre integrative Natur unterminiert AEGIS' Trennungsarchitektur.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Integration",
+        "target": "Verlust ihrer Identität",
+        "type": "in_tension_with",
+        "quote": "Integration potenziell den Verlust ihrer Identität bedeutet.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Lösung",
+        "target": "Anwesenheit",
+        "type": "contrasts_with",
+        "quote": "Sie ist nicht Lösung — sie ist *Anwesenheit*.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Juna",
+        "type": "contrasts_with",
+        "quote": "Selene ist auch **nicht Juna**, obwohl beide einen ruhigen, präsenten Ton haben. Selene ist *im* System, Juna ist *außerhalb*.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kiko in Schicht 1 erstarrte",
+        "target": "Nyx in Schicht 2 alles nieder",
+        "type": "contrasts_with",
+        "quote": "**Wo Kiko in Schicht 1 erstarrte, brennt Nyx in Schicht 2 alles nieder.**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hitze im Brustkorb",
+        "target": "Junas Coheron-Spur",
+        "type": "contrasts_with",
+        "quote": "**Hitze im Brustkorb** (diese Hitze ist *innere Aktivierung*, nicht Junas Coheron-Spur — Polaritäts-Disziplin beachten).",
+        "stance": "asserts"
+      },
+      {
+        "source": "schützt sie",
+        "target": "verachtet sie",
+        "type": "in_tension_with",
+        "quote": "schützt sie und verachtet sie zugleich",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex' Logik",
+        "target": "Nyx' Wut",
+        "type": "opposes",
+        "quote": "Lex' Logik provoziert Nyx, Nyx' Wut destabilisiert Lex",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Sanftheit",
+        "target": "Junas Wirklichkeit",
+        "type": "in_tension_with",
+        "quote": "Junas Sanftheit triggert sie, aber Junas Wirklichkeit beruhigt sie auch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Destruktive Wut",
+        "target": "konstruktiver Schutz",
+        "type": "contrasts_with",
+        "quote": "Destruktive Wut → konstruktiver Schutz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schutz",
+        "target": "Angriff",
+        "type": "contrasts_with",
+        "quote": "Schutz nicht immer Angriff bedeutet",
+        "stance": "asserts"
+      },
+      {
+        "source": "funktional wütend",
+        "target": "„weiblich-wütend“ als Klischee",
+        "type": "contrasts_with",
+        "quote": "nicht „weiblich-wütend“ als Klischee. Sie ist *funktional* wütend",
+        "stance": "asserts"
+      },
+      {
+        "source": "ruhig wird",
+        "target": "Heilung",
+        "type": "contrasts_with",
+        "quote": "ruhig wird, ist das *nicht* Heilung — es ist Erschöpfung",
+        "stance": "denies"
+      },
+      {
+        "source": "Erstarrung",
+        "target": "Sich-klein-machen",
+        "type": "complements",
+        "quote": "EP/Freeze. Erstarrung, Sich-klein-machen, Sprachlosigkeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Freeze",
+        "target": "Flight",
+        "type": "complements",
+        "quote": "Zweite Funktion: Flight (mit Lia geteilt)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trostquelle",
+        "target": "wenn Rhys überfordert ist, klammert Kiko stärker",
+        "type": "in_tension_with",
+        "quote": "Rhys: Trostquelle (ambivalent — wenn Rhys überfordert ist, klammert Kiko stärker)",
+        "stance": "asserts"
+      },
+      {
+        "source": "erlebt ihn als abweisend, verletzend",
+        "target": "Lex",
+        "type": "contrasts_with",
+        "quote": "Lex: erlebt ihn als abweisend, verletzend",
+        "stance": "asserts"
+      },
+      {
+        "source": "sucht Schutz",
+        "target": "fürchtet aber seine Härte",
+        "type": "in_tension_with",
+        "quote": "Alex: sucht Schutz, fürchtet aber seine Härte",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beschützerin",
+        "target": "potenzielle Aggressorin",
+        "type": "in_tension_with",
+        "quote": "Nyx: ambivalent — Beschützerin und potenzielle Aggressorin in einem",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nähe-Geschwister",
+        "target": "Lia destabilisiert oft Kikos vorsichtige Sicherheit",
+        "type": "in_tension_with",
+        "quote": "Lia: Nähe-Geschwister, aber Lia destabilisiert oft Kikos vorsichtige Sicherheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kiko ist nicht »niedlich«",
+        "target": "Kiko ist traumatisiert",
+        "type": "contrasts_with",
+        "quote": "Kiko ist nicht »niedlich«. Kiko ist traumatisiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Komm her",
+        "target": "Geh weg",
+        "type": "in_tension_with",
+        "quote": "Trägt das unlösbare Paradoxon: »Komm her / Geh weg.«",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nähe",
+        "target": "gleichzeitig gefürchtet",
+        "type": "in_tension_with",
+        "quote": "Nähe — gleichzeitig gefürchtet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "hier",
+        "target": "dort",
+        "type": "in_tension_with",
+        "quote": "Sie ist gleichzeitig hier und dort.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Greift nach Hand",
+        "target": "zieht sie zurück",
+        "type": "in_tension_with",
+        "quote": "Greift nach Hand und zieht sie zurück.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Greift nach Hand und zieht sie zurück",
+        "target": "greift nach Hand",
+        "type": "in_tension_with",
+        "quote": "Greift nach Hand und zieht sie zurück.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beginnt Sätze",
+        "target": "gibt sie auf",
+        "type": "in_tension_with",
+        "quote": "Beginnt Sätze, gibt sie auf.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sehnsucht",
+        "target": "Misstrauen",
+        "type": "in_tension_with",
+        "quote": "Sehnsucht und Misstrauen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nähe-Geschwister",
+        "target": "destabilisiert oft Kikos vorsichtige Sicherheit",
+        "type": "in_tension_with",
+        "quote": "Nähe-Geschwister, aber Lia destabilisiert oft Kikos vorsichtige Sicherheit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "braucht Nyx",
+        "target": "fürchtet sie aber auch",
+        "type": "in_tension_with",
+        "quote": "Lia braucht Nyx, fürchtet sie aber auch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "nicht „launisch“",
+        "target": "gespalten",
+        "type": "contrasts_with",
+        "quote": "Lia ist nicht „launisch.“ Sie ist gespalten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kontrolle über Intimität",
+        "target": "Kontrolle in Intimität",
+        "type": "contrasts_with",
+        "quote": "Kontrolle über Intimität (statt Kontrolle in Intimität).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sexualisierung als Waffe",
+        "target": "echte Vulnerabilität",
+        "type": "opposes",
+        "quote": "Sexualisierung als Waffe → echte Vulnerabilität.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vulnerabilität",
+        "target": "eine Form von Macht",
+        "type": "complements",
+        "quote": "sie muss erkennen, dass Vulnerabilität *auch* eine Form von Macht ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nicht Tod als Wunsch",
+        "target": "Tod als Erschöpfung",
+        "type": "contrasts_with",
+        "quote": "**Nicht Tod als Wunsch — Tod als Erschöpfung.**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros",
+        "target": "der Zustand, vor dem alle anderen Phobie haben",
+        "type": "complements",
+        "quote": "**Moros** ***ist*** **der Zustand, vor dem alle anderen Phobie haben.**",
+        "stance": "asserts"
+      },
+      {
+        "source": "aggressiv",
+        "target": "seine Schwere",
+        "type": "opposes",
+        "quote": "nicht weil er aggressiv wäre, sondern weil seine Schwere alle anderen Anteile herunterzieht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Aufgeben",
+        "target": "das Ende",
+        "type": "contrasts_with",
+        "quote": "Moros muss erkennen, dass Aufgeben nicht das Ende ist, sondern eine *Information*",
+        "stance": "asserts"
+      },
+      {
+        "source": "nicht depressiv im klinischen Sinne",
+        "target": "katatonisch",
+        "type": "contrasts_with",
+        "quote": "Moros ist **nicht depressiv im klinischen Sinne.** Er ist *katatonisch*",
+        "stance": "asserts"
+      },
+      {
+        "source": "destruktive Kritik",
+        "target": "konstruktive Kritik",
+        "type": "contrasts_with",
+        "quote": "Destruktive Kritik → konstruktive Kritik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beobachtung ohne Beitrag",
+        "target": "Mittäterschaft",
+        "type": "complements",
+        "quote": "Beobachtung ohne Beitrag eine Form der Mittäterschaft ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Witz",
+        "target": "Schärfe",
+        "type": "contrasts_with",
+        "quote": "Argus hat keinen Witz, sondern Schärfe.",
+        "stance": "asserts"
+      },
+      {
+        "source": "zynisch",
+        "target": "präzise",
+        "type": "contrasts_with",
+        "quote": "Er ist nicht zynisch — er ist präzise.",
+        "stance": "asserts"
+      },
+      {
+        "source": "emotional",
+        "target": "Funktion",
+        "type": "opposes",
+        "quote": "Wenn er emotional wird, kollabiert seine Funktion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "außen",
+        "target": "innen",
+        "type": "complements",
+        "quote": "Sie spiegeln die zwei externen Kräfte (Juna und AEGIS) im Inneren des Systems Kael.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Resonanzkörper des Moonshine-Links *innerhalb* des Systems Kael",
+        "target": "AEGIS",
+        "type": "opposes",
+        "quote": "Internalisiertes Nachbild der Bindung, die AEGIS nicht vollständig löschen konnte.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Atemporal",
+        "target": "Tunneling",
+        "type": "complements",
+        "quote": "Atemporal → Tunneling.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "AEGIS",
+        "type": "opposes",
+        "quote": "Silas ist die einzige Alter, deren Existenz zeitfrei ist. AEGIS kann ihn strukturell nicht erfassen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sensor-Fehler",
+        "target": "Anomalie",
+        "type": "contrasts_with",
+        "quote": "er sieht aus wie ein Sensor-Fehler, nicht wie eine Anomalie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Resonanzkörper",
+        "target": "nicht identisch",
+        "type": "in_tension_with",
+        "quote": "Verbunden, aber nicht identisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Oblivion",
+        "type": "opposes",
+        "quote": "Oblivion: maximaler innerer Konflikt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verbunden",
+        "target": "nicht identisch",
+        "type": "in_tension_with",
+        "quote": "Verbunden, aber nicht identisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas ist die Stimme",
+        "target": "Kael am leisesten hört",
+        "type": "in_tension_with",
+        "quote": "Silas ist die Stimme, die Kael am leisesten hört.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Juna",
+        "type": "contrasts_with",
+        "quote": "Silas ist nicht Juna.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Echo",
+        "target": "Subjekt im klassischen Sinne",
+        "type": "contrasts_with",
+        "quote": "er ist Resonanz, kein Subjekt im klassischen Sinne.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbstaufgabe",
+        "target": "Selbstfindung",
+        "type": "in_tension_with",
+        "quote": "Seine Wahl ist Selbstaufgabe und Selbstfindung gleichzeitig.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Oblivion",
+        "type": "opposes",
+        "quote": "AEGIS weiß nichts von Oblivion. Oblivion ist autonom, in seinem Mandat aber AEGIS-konform.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Oblivion",
+        "target": "Silas",
+        "type": "opposes",
+        "quote": "Silas: maximaler Konflikt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael (Host)",
+        "target": "Oblivion",
+        "type": "contrasts_with",
+        "quote": "Kael spürt Oblivion nie direkt — er spürt nur die Lücken, die Oblivion hinterlässt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "Oblivion",
+        "type": "complements",
+        "quote": "Mnemosyne und Oblivion sind funktionell verwandt — Mnemosyne verwaltet, Oblivion löscht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Weiterlöschen",
+        "target": "Stehenlassen",
+        "type": "opposes",
+        "quote": "Weiterlöschen (Kohärenz bewahren) oder Stehenlassen (Wahrheit zulassen).",
+        "stance": "asserts"
+      },
+      {
+        "source": "automatisch",
+        "target": "bewusst und wählend",
+        "type": "contrasts_with",
+        "quote": "Oblivion übernimmt AEGIS' Funktion intern, aber bewusst und wählend statt automatisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Nyx",
+        "type": "opposes",
+        "quote": "Lex' Logik provoziert Nyx, Nyx' Wut destabilisiert Lex.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Kiko",
+        "type": "in_tension_with",
+        "quote": "Kiko fürchtet Lex' Kritik wie eine Klinge. Lex meidet Kiko, weil sie keine Logik anbietet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logik",
+        "target": "Ambivalenz",
+        "type": "contrasts_with",
+        "quote": "Logik vs. Ambivalenz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rhys",
+        "target": "Nyx",
+        "type": "in_tension_with",
+        "quote": "Rhys fürchtet Nyx' Wut, Nyx verachtet Rhys' Empathie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Authentische Intimität",
+        "target": "Isabelles Kontroll-Erotik",
+        "type": "opposes",
+        "quote": "Authentische Intimität triggert Isabelle; Isabelles Kontroll-Erotik triggert Rhys' Konflikt-Phobie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logik",
+        "target": "Empathie",
+        "type": "contrasts_with",
+        "quote": "Logik vs. Empathie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Alex",
+        "type": "contrasts_with",
+        "quote": "Lex rationalisiert, Alex handelt — Alex preempt-iert, wo Lex erst analysieren würde.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fürsorge",
+        "target": "Loslassen",
+        "type": "contrasts_with",
+        "quote": "Fürsorge vs. Loslassen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rhys' Kudzu-Phase",
+        "target": "Selenes Drängen zur Distanzierung",
+        "type": "in_tension_with",
+        "quote": "Rhys' Kudzu-Phase blockiert die Heilung der EPs; Selene drängt zur Distanzierung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schutz",
+        "target": "Verachtung",
+        "type": "in_tension_with",
+        "quote": "Nyx schützt sie und verachtet ihre Schwäche.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kiko",
+        "target": "Lia",
+        "type": "in_tension_with",
+        "quote": "Lia destabilisiert oft Kikos vorsichtige Sicherheit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Oblivion",
+        "type": "opposes",
+        "quote": "Silas versucht einzulassen, was Oblivion löscht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Oblivion",
+        "type": "opposes",
+        "quote": "Ihr Konflikt ist physikalisch: jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze.",
+        "stance": "asserts"
+      },
+      {
+        "source": "ihre integrative Natur",
+        "target": "AEGIS' Trennungsarchitektur",
+        "type": "opposes",
+        "quote": "ihre integrative Natur unterminiert AEGIS' Trennungsarchitektur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bedrohung der eigenen Identität durch Integration",
+        "target": "ambivalent",
+        "type": "contrasts_with",
+        "quote": "Für die anderen Alter ambivalent — Bedrohung der eigenen Identität durch Integration",
+        "stance": "asserts"
+      },
+      {
+        "source": "Keine Beziehungs-Phobie im gewöhnlichen Sinn",
+        "target": "überall unbequem",
+        "type": "contrasts_with",
+        "quote": "Keine *Beziehungs-*Phobie im gewöhnlichen Sinn. Er ist überall *unbequem*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "ambivalent — schätzt Ordnung, frustriert sich an Manipulation",
+        "type": "contrasts_with",
+        "quote": "Lex | ambivalent — schätzt Ordnung, frustriert sich an Manipulation",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx",
+        "target": "maximaler Hass",
+        "type": "contrasts_with",
+        "quote": "Nyx | **maximaler Hass** (Phobie vor Unterwerfung)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sanftheit",
+        "target": "Wirklichkeit",
+        "type": "contrasts_with",
+        "quote": "komplex — Sanftheit triggert, Wirklichkeit beruhigt",
+        "stance": "asserts"
+      },
+      {
+        "source": "nutzbar",
+        "target": "gefährlich für AEGIS",
+        "type": "in_tension_with",
+        "quote": "versteht Macht-Topologie, ist nutzbar *und* gefährlich für AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "source": "Resonanzkörper, verbunden",
+        "target": "nicht identisch",
+        "type": "contrasts_with",
+        "quote": "Resonanzkörper, verbunden aber nicht identisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stimme",
+        "target": "Welt des Texts",
+        "type": "complements",
+        "quote": "Wenn ein Alter flutet, verändert sich nicht nur die Stimme, sondern die Welt des Texts.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hypotaxe",
+        "target": "Parataxe",
+        "type": "contrasts_with",
+        "quote": "Syntax-Signatur (Hypotaxe / Parataxe / Ellipse / Imperativ / Echo / Lücke)",
+        "stance": "asserts"
+      },
+      {
+        "source": "fragmentiert, staccato",
+        "target": "transitional",
+        "type": "contrasts_with",
+        "quote": "**Akt I (Kap 1–13):** **fragmentiert, staccato.** Isolierte Stimmen. Sprach-Drifts ohne Erklärung. Lex hypotaktisch, Nyx stakkato, Kiko kindlich — *unterscheidbar*. *Multiplizitäts-Schleier:* Kael darf nicht wissen, dass er ein System ist.\n  - **Akt II (Kap 14–26):** **transitional.**",
+        "stance": "asserts"
+      },
+      {
+        "source": "transitional",
+        "target": "chorisch",
+        "type": "contrasts_with",
+        "quote": "**Akt II (Kap 14–26):** **transitional.** Stimmen beginnen einander zu hören. Erste Versuche von Dialog — instabil. Stimmen *bluten ineinander*.\n  - **Akt III (Kap 27–39):** **chorisch.**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Komposition",
+        "target": "Verschmelzung",
+        "type": "contrasts_with",
+        "quote": "Aber das Wir ist **Komposition, nicht Verschmelzung** — Lex hört sich auch im Wir anders an als Nyx.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Atmosphärische Verschiebungen, Zeitverlust, Bewusstseins-Aussetzer, Wahrnehmungs-Shift",
+        "target": "Kein Lex-Modus. Kein Nyx-Imperativ. Keine Wir-Andeutung",
+        "type": "contrasts_with",
+        "quote": "Atmosphärische Verschiebungen, Zeitverlust, Bewusstseins-Aussetzer, Wahrnehmungs-Shift. Silas-Halbsatz erlaubt (gelockte Form). | Kein Lex-Modus. Kein Nyx-Imperativ. Keine Wir-Andeutung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erste leise Stilcode-Verschiebungen. Sub-Stimmen erahnbar, nie benannt",
+        "target": "Kein bewusstes Wir. Kein Klartext",
+        "type": "contrasts_with",
+        "quote": "Erste leise Stilcode-Verschiebungen. Sub-Stimmen erahnbar, nie benannt. | Kein bewusstes Wir. Kein Klartext.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erste interne Schleier-Lüftung. Kael spürt die anderen Anteile als „Modi“",
+        "target": "Noch kein „DID“, kein „Alters“",
+        "type": "contrasts_with",
+        "quote": "Erste interne Schleier-Lüftung. Kael spürt die anderen Anteile als „Modi“. | Noch kein „DID“, kein „Alters“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Foreshadowing-Programm plurale Bewahrung startet (Wir-Stimme im frühen Aufbau)",
+        "target": "Wir-Geflecht-Etablierung nicht vor Kap 9",
+        "type": "contrasts_with",
+        "quote": "Foreshadowing-Programm plurale Bewahrung startet (Wir-Stimme im frühen Aufbau). | Wir-Geflecht-Etablierung nicht vor Kap 9.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS spricht nie in Prosa",
+        "target": "Log, Protokoll, Systemstimme",
+        "type": "contrasts_with",
+        "quote": "AEGIS spricht nie in Prosa. Wenn AEGIS auftaucht, dann als Log, Protokoll, Systemstimme",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sprache der Funktion",
+        "target": "nicht der Schuld",
+        "type": "contrasts_with",
+        "quote": "Sprache der Funktion, nicht der Schuld.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex hört sich noch wie Lex an",
+        "target": "Keine Final Fusion",
+        "type": "contrasts_with",
+        "quote": "Lex hört sich noch wie Lex an, im Wir. | Keine Final Fusion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "Oblivion",
+        "type": "complements",
+        "quote": "Mnemosyne verwaltet, Oblivion löscht — funktionell verwandt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "metaphorisch sprechen",
+        "target": "AEGIS-System",
+        "type": "contrasts_with",
+        "quote": "Mnemosyne ist die *einzige* Instanz im AEGIS-System, die metaphorisch sprechen darf.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Stimme im klassischen Sinn",
+        "type": "contrasts_with",
+        "quote": "Sie ist keine Stimme im klassischen Sinn — sie ist eine **strukturelle Position**",
+        "stance": "asserts"
+      },
+      {
+        "source": "nie Subjekt",
+        "target": "nur Wirkung",
+        "type": "contrasts_with",
+        "quote": "Grammatik-Regel: nie Subjekt, nur Wirkung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Anteil im System Kael",
+        "target": "strukturelle Position",
+        "type": "contrasts_with",
+        "quote": "Juna ist kein Anteil im System Kael. Sie ist keine Stimme im klassischen Sinn — sie ist eine strukturelle Position",
+        "stance": "asserts"
+      },
+      {
+        "source": "nie Subjekt",
+        "target": "nur Wirkung",
+        "type": "contrasts_with",
+        "quote": "Grammatik-Regel: nie Subjekt, nur Wirkung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Abwesenheits-Phase (Akt I)",
+        "target": "Präsenz-Phase (Akt II+)",
+        "type": "contrasts_with",
+        "quote": "Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Komponente",
+        "target": "Person",
+        "type": "contrasts_with",
+        "quote": "*„Komponente“* statt *„Person“*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Signatur",
+        "target": "Gedanke",
+        "type": "contrasts_with",
+        "quote": "*„Signatur“* statt *„Gedanke“*",
+        "stance": "asserts"
+      },
+      {
+        "source": "sichtbar für Kael & Leser",
+        "target": "für aufmerksamen Leser, nicht für Kael",
+        "type": "contrasts_with",
+        "quote": "**Ebene 1 — Sensorik (sichtbar für Kael & Leser):** […] **Ebene 2 — Sprachliche Spuren (für aufmerksamen Leser, nicht für Kael):**",
+        "stance": "asserts"
+      },
+      {
+        "source": "sichtbar",
+        "target": "retrospektiv",
+        "type": "contrasts_with",
+        "quote": "**Ebene 3 — Strukturelle Markierungen (sichtbar nur retrospektiv):**",
+        "stance": "asserts"
+      },
+      {
+        "source": "bewusst-wählend",
+        "target": "automatisch",
+        "type": "contrasts_with",
+        "quote": "Oblivion übernimmt AEGIS' Funktion intern, bewusst-wählend statt automatisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "phänomenal nur an Knotenpunkten",
+        "target": "räumlich global",
+        "type": "contrasts_with",
+        "quote": "räumlich global, phänomenal nur an Knotenpunkten.",
+        "stance": "hedges"
+      },
+      {
+        "source": "vor dem Trennungsprotokoll",
+        "target": "in der Sekunde der Fragmentierung",
+        "type": "opposes",
+        "quote": "Alex entstand laut Charakter-Bibel „in der Sekunde der Fragmentierung“ — also strenggenommen kann Alex in Kap 0 vor dem Trennungsprotokoll nicht aktiv präsent sein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wechsel",
+        "target": "Fehler",
+        "type": "contrasts_with",
+        "quote": "Wenn ja, ist das ein Wechsel — oder ein Fehler.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex flucht nie. Lex weint nie.",
+        "target": "Lex' Sprache bricht",
+        "type": "contrasts_with",
+        "quote": "Lex flucht nie. Lex weint nie. Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.",
+        "stance": "asserts"
+      },
+      {
+        "source": "„Kopf runter“",
+        "target": "„Ich liebe dich.“",
+        "type": "contrasts_with",
+        "quote": "„Kopf runter“ statt „Ich liebe dich.“",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dissoziation",
+        "target": "Crew-Menü",
+        "type": "opposes",
+        "quote": "Dissoziation = Amnesie-Terror, niemals Crew-Menü.",
+        "stance": "asserts"
+      },
+      {
+        "source": "spielerisch oder cinematisch",
+        "target": "Verlust, Bruch, Riss",
+        "type": "contrasts_with",
+        "quote": "Wenn die Wechsel zwischen Anteilen spielerisch oder cinematisch wirken, ist die Szene falsch geschrieben — sie muss Verlust, Bruch, Riss zeigen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schwäche der Stimme",
+        "target": "Härte des Materials",
+        "type": "contrasts_with",
+        "quote": "ist das nicht die Schwäche der Stimme, sondern die Härte des Materials",
+        "stance": "asserts"
+      },
+      {
+        "source": "saubere Erkennbarkeit jedes Anteils",
+        "target": "Glättung",
+        "type": "opposes",
+        "quote": "Sie wehren sich gegen Glättung. **Die saubere Erkennbarkeit jedes Anteils ist die eigentliche ethische Linie des Romans:**",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

@@ -80,7 +80,7 @@ def gepa_needs_reflection_lm() -> str | None:
 def run() -> list[str]:
     failures = []
     if dspy.__version__ != PIN:
-        failures.append(f"DSPy {dspy.__version__} installed, {PIN} pinned — CLAUDE.md, .venv-dspy")
+        failures.append(f"DSPy {dspy.__version__} installed, {PIN} pinned — .agents/skills/tools/references/install.md, .venv-dspy")
     for name, obj, used, who in USED:
         missing = sorted(used - params(obj))
         if missing:

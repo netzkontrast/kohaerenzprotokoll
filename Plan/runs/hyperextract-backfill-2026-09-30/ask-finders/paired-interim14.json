@@ -1,0 +1,97 @@
+[
+ {
+  "config": "default-interim14",
+  "doc_recall": 0.30083333333333334,
+  "doc_vs_default": [
+   0.0,
+   0.0,
+   0.0,
+   0,
+   0
+  ],
+  "line_recall": 0.10025,
+  "line_vs_default": [
+   0.0,
+   0.0,
+   0.0,
+   0,
+   0
+  ]
+ },
+ {
+  "config": "he-lines-10-interim14",
+  "doc_recall": 0.31037500000000007,
+  "doc_vs_default": [
+   0.0095,
+   0.0026,
+   0.0177,
+   4,
+   0
+  ],
+  "line_recall": 0.101375,
+  "line_vs_default": [
+   0.0011,
+   0.0,
+   0.0026,
+   2,
+   0
+  ]
+ },
+ {
+  "config": "he-lines-20-interim14",
+  "doc_recall": 0.3167083333333334,
+  "doc_vs_default": [
+   0.0159,
+   0.0059,
+   0.028,
+   6,
+   0
+  ],
+  "line_recall": 0.10391666666666667,
+  "line_vs_default": [
+   0.0037,
+   0.001,
+   0.0066,
+   5,
+   0
+  ]
+ },
+ {
+  "config": "he-lines-40-interim14",
+  "doc_recall": 0.3295833333333334,
+  "doc_vs_default": [
+   0.0287,
+   0.012,
+   0.0477,
+   7,
+   0
+  ],
+  "line_recall": 0.10800000000000003,
+  "line_vs_default": [
+   0.0078,
+   0.0018,
+   0.0146,
+   5,
+   0
+  ]
+ },
+ {
+  "config": "he-lines-80-interim14",
+  "doc_recall": 0.32204166666666667,
+  "doc_vs_default": [
+   0.0212,
+   -0.0164,
+   0.0575,
+   9,
+   2
+  ],
+  "line_recall": 0.10625,
+  "line_vs_default": [
+   0.006,
+   -0.0091,
+   0.0217,
+   9,
+   3
+  ]
+ }
+]

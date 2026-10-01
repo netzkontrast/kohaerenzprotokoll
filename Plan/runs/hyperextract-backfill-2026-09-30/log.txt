@@ -35,3 +35,15 @@
 == [12/137] kohaerenz-protokoll-storyform-und-outline-2026-06-10-md CausalLinks 20:14:04
 == start 2026-09-30 20:19:36  126 runs planned, budget $79
 == [1/126] kohaerenz-protokoll-storyform-und-outline-2026-06-10-md CausalLinks 20:19:36
+{"source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700", "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf", "input_rows": 42, "candidates": 34, "refused": 8, "duplicates": 0}
+{"document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "template": "CausalLinks.yaml", "model": "claude-cli/haiku", "calls": 31, "failed_calls": 0, "seconds": 113.0, "input_tokens": 166134, "output_tokens": 4372, "cost_usd": 0.354, "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 „Use Haiku agents to Backpoet hyperextract for all allready Read sources“"}
+== [2/126] kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md TermDefinitions 20:21:32
+{"source_sha256": "4c61b5d01394576ed0ff54cc6ec44b6a612597b66341ab638440e68e7b0cba63", "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519", "input_rows": 212, "candidates": 174, "refused": 32, "duplicates": 6}
+{"document": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "template": "TermDefinitions.yaml", "model": "claude-cli/haiku", "calls": 30, "failed_calls": 0, "seconds": 185.3, "input_tokens": 158117, "output_tokens": 12744, "cost_usd": 0.3799, "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 „Use Haiku agents to Backpoet hyperextract for all allready Read sources
+== [3/126] kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md TermContrasts 20:24:42
+{"source_sha256": "4c61b5d01394576ed0ff54cc6ec44b6a612597b66341ab638440e68e7b0cba63", "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8", "input_rows": 148, "candidates": 119, "refused": 28, "duplicates": 1}
+{"document": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "template": "TermContrasts.yaml", "model": "claude-cli/haiku", "calls": 31, "failed_calls": 1, "seconds": 186.6, "input_tokens": 167949, "output_tokens": 13826, "cost_usd": 0.4049, "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 „Use Haiku agents to Backpoet hyperextract for all allready Read sources“"
+== [4/126] kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md CausalLinks 20:27:54
+== start 2026-09-30 21:09:38  1 runs planned, budget $1
+== stopped by STOP after 0 runs
+== end 2026-09-30 21:09:38  spent $0.00
