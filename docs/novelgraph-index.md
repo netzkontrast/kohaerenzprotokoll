@@ -58,7 +58,7 @@ Das Paket ändert kein bestehendes Script. Es importiert, an genau einer Stelle 
 
 | Helfer | aus | wofür |
 |---|---|---|
-| `subject.documents()`, `Document.offset`, `read_jsonl`, `write_jsonl` | `scripts/subject.py` | Manifest, Pfade, Frontmatter-Grenze, JSONL |
+| `subject.documents()`, `Document.offset`, `read_jsonl` | `scripts/subject.py` | Manifest, Pfade, Frontmatter-Grenze, JSONL |
 | `fold()` | `scripts/wiki_index.py` | Oberflächen im `lex/` |
 | `bench_cases()` | `scripts/ask.py` | die 24 Bench-Fälle |
 
@@ -218,3 +218,45 @@ Gelesen, ohne mehr hineinzulegen:
    Zeichen-Offsets im Chunk würden das lösen und die Regel „ein Treffer ist ein Zeilenbereich" aufweichen.
 5. **Zusammenführung mit `docs/README.md` §2.2** — dort sind strukturelle Chunks als Teil des Dokument-Schemas in `derive.py`
    geplant. Ob `heading@v1` diese Regel wird oder daneben bleibt, hängt an der Script-Konsolidierung (§2).
+
+
+## 7. Abschluss von PR #137 nach dem Merge von #138
+
+#138 wurde zuerst nach `main` gemergt (`607c3c16`). #137 übernimmt dessen Index vollständig;
+die alte Parallelimplementierung (`chunking.py`, `embedding.py`, `index.py` und deren pytest-Schnittstelle)
+wird nicht daneben betrieben. Damit kommen die Mindestgröße, Fensterüberlappung, bereinigten Überschriften,
+GFM-Tabellen, embedder-unabhängige Tokenzählung, Registry-Versionen und ignorierten Lex-Dateien aus dem
+bereits gemergten Index. Der Bericht zu #136 gehört nicht in diesen PR.
+
+Die Ergänzung aus #137 sichert den bestehenden Index ab:
+
+- **Publikation:** ein exklusives `flock` für den gesamten Build, gemeinsame Sperren für Leser;
+  JSON, JSONL und Matrizen werden über vollständige temporäre Dateien umbenannt. Der Stempel
+  wird zuletzt veröffentlicht. `.building` bleibt nach einer Ausnahme oder einem Prozessabbruch
+  stehen; Suche und Prüfung verweigern dann das Lesen. Ein unbeschränkter `build` baut alle
+  Artefakte neu und entfernt den Marker erst nach Erfolg. Gefilterte Builds dürfen einen global
+  abgebrochenen Lauf nicht als repariert ausgeben. Das ist konsistente Veröffentlichung für
+  kooperierende Prozesse, keine Zusicherung gegen Stromausfall (kein fsync).
+- **Freshness während warmer Nutzung:** vor jeder Anfrage Stat-Prüfung aller Quellen,
+  Neu-Hash bei Änderung, Prüfung von Katalog, Methoden/Embedder und Build-Stempel.
+  Eine Änderung außerhalb der Trefferliste muss die Anfrage ebenfalls stoppen;
+  nach einem tatsächlichen Rebuild wird die Suche neu geöffnet. Der Aggregat-Stempel prüft außerdem
+  Vektor-Schlüssel und Chunk-ID-Hash gegen die aktuellen Chunk-Dateien; ein auf eine Methode
+  beschränkter Build macht andere, noch veraltete Methoden nicht wieder suchbar. Ein No-op-Rebuild darf eine
+  warme Suche weiterverwenden. Text- und JSON-Ausgabe prüfen die zitierten Source-Slices.
+- **Prüfung:** Lex-Inhalte werden neu abgeleitet; FTS5-Postings werden aus Source-Slices und
+  Lemmata in einer separaten In-Memory-Datenbank gebaut und nach `(term, doc, col, offset)`
+  verglichen. Richtige Zeilenzahl mit falschen Postings reicht nicht mehr. Coverage zeigt
+  zusätzlich den gesamten Katalog und die nicht gelandeten Slugs. Fehlende Artefakte ergeben
+  einen Fehler, keinen grünen Bericht.
+- **Inkrementell:** geänderte Katalogtitel invalidieren die Präfixe und deren Vektoren.
+  Unveränderte Source-Metadaten/Chunks und deren `indexed_at` bleiben auch beim erzwungenen
+  Neubau erhalten. Unterschiedliche Vektordimensionen werden vor der Konkatenation verweigert.
+- **Offline-Beweis:** `novelgraph selftest` prüft diese Defekte mit temporären Sources,
+  deterministischen Fake-Vektoren und echten OS-Sperren. Ein eigener GitHub-Job installiert
+  die gesperrten Abhängigkeiten und läuft ohne Modelldownload; der lokale Suite-Runner meldet
+  einen fehlenden novelgraph-venv als `not run`. Python >=3.11 entspricht dem verwendeten `tomllib`.
+
+Die Abschlussmessung und Rohdaten stehen in `Plan/runs/novelgraph-pr137-final/`.
+Der vorhandene Korpus und seine Chunk-Dateien bleiben bytegleich; die Bench bleibt eine
+Regression auf demselben lexikalisch geprägten Gold, keine unabhängige Qualitätsbewertung.

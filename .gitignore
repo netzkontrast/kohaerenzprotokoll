@@ -62,3 +62,8 @@ Plan/runs/*/claims-draft.md
 Index/sources/*/vec/
 Index/sources/*/lex/
 Index/_build/
+Index/.lock
+Index/.building
+Index/**/.publish-*
+Index/**/*.tmp.npy
+Index/**/*.tmp

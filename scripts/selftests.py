@@ -26,6 +26,8 @@ ROOT = Path(__file__).resolve().parents[1]
 VENV = ROOT / ".venv-dspy" / "bin" / "python"
 # kind -> (interpreter, or None for this one; what must exist; how to reach it)
 KINDS = {
+    "novelgraph": (ROOT / ".venv-novelgraph/bin/python", ROOT / ".venv-novelgraph/bin/python",
+                  ".venv-novelgraph absent — UV_PROJECT_ENVIRONMENT=$PWD/.venv-novelgraph uv sync --project novelgraph"),
     "graphqlite": (ROOT / ".venv-graphqlite/bin/python", ROOT / ".venv-graphqlite/bin/python",
                    ".venv-graphqlite absent — scripts/install.sh graphqlite"),
     "dspy": (VENV, VENV, ".venv-dspy absent — scripts/install.sh dspy"),
@@ -37,6 +39,7 @@ KINDS = {
 
 # (name, interpreter, arguments). "dspy" means .venv-dspy.
 SUITES = [
+    ("novelgraph: chunking, freshness, publication, FTS", "novelgraph", ["-m", "novelgraph.cli", "selftest"]),
     ("claude usage: failed calls included", "std", ["scripts/claude_cli.py", "totals-selftest"]),
     ("knowledge init: plans and failures", "std", ["scripts/knowledge.py", "selftest"]),
     ("reading extraction: provenance and placement", "std", ["scripts/reading_extract.py", "selftest"]),

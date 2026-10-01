@@ -18,9 +18,9 @@ import sqlite3
 
 import numpy as np
 
-from . import chunkers, store
+from . import chunkers, lex, store
 from .build import _title, build_stamp, build_stamp_path, vec_key
-from .repo import documents, read_jsonl
+from .repo import documents, manifest_rows, read_jsonl, refresh_documents
 
 
 def _matrix_problems(mat, dim) -> list[str]:
@@ -42,7 +42,17 @@ def _matrix_problems(mat, dim) -> list[str]:
     return out
 
 
+@store.reader
 def verify(embedder: str | None = None, rechunk: bool = True) -> tuple[list[str], dict]:
+    try:
+        return _verify(embedder, rechunk)
+    except (OSError, ValueError, KeyError, IndexError, sqlite3.Error) as exc:
+        return [f"missing or invalid index artifact: {exc} — rebuild"], {
+            "coverage": "not completed", "catalogue": {"status": "not completed"}, "chunks": {}}
+
+
+def _verify(embedder=None, rechunk=True):
+    refresh_documents()
     embedder = embedder or store.default_embedder()
     fails, info = [], {}
     docs = {d.slug: d for d in documents()}
@@ -50,6 +60,10 @@ def verify(embedder: str | None = None, rechunk: bool = True) -> tuple[list[str]
     missing, extra = sorted(set(docs) - set(manifest)), sorted(set(manifest) - set(docs))
     info["coverage"] = f"{len(set(docs) & set(manifest))}/{len(docs)} landed sources indexed " \
                        f"({100 * len(set(docs) & set(manifest)) / max(1, len(docs)):.1f} %)"
+    catalogue = manifest_rows()
+    info["catalogue"] = {"total": len(catalogue), "landed": len(docs),
+                         "indexed": len(set(docs) & set(manifest)),
+                         "unlanded": [r["slug"] for r in catalogue if r["slug"] not in docs]}
     fails += [f"coverage: {s} is landed and not indexed" for s in missing]
     fails += [f"coverage: {s} is indexed and not landed" for s in extra]
     methods = store.chunkers()
@@ -65,6 +79,8 @@ def verify(embedder: str | None = None, rechunk: bool = True) -> tuple[list[str]
             continue
         if src["lines"] != len(lines):
             fails.append(f"{slug}: source.json says {src['lines']} lines, the file has {len(lines)}")
+        if manifest[slug].get("methods_stamp") != store.method_stamp():
+            fails.append(f"{slug}: stale method settings — rebuild")
         parsed = chunkers.parse(lines, doc.offset) if rechunk else None
         title = (_title(slug) or {}).get("title", slug)
         for m, params in methods.items():
@@ -82,6 +98,10 @@ def verify(embedder: str | None = None, rechunk: bool = True) -> tuple[list[str]
                 fails.append(f"{slug} {m}: the chunker run again gives different rows")
             if [x["id"] for x in read_jsonl(store.lex_path(slug, m))] != [r["id"] for r in rows]:
                 fails.append(f"{slug} {m}: lex ids differ from chunk ids")
+            expected_lex = [{"id": r["id"], "surfaces": lex.surfaces(t), "lemmata": lex.lemmata(t, src["lang"])}
+                            for r in rows for t in ["\n".join(lines[r["line_start"] - 1:r["line_end"]])]]
+            if read_jsonl(store.lex_path(slug, m)) != expected_lex:
+                fails.append(f"{slug} {m}: lexical derivation differs from source slices")
             meta_p, vec_p = store.vec_meta_path(slug, m, embedder), store.vec_path(slug, m, embedder)
             if not (meta_p.exists() and vec_p.exists()):
                 fails.append(f"{slug} {m}: no vectors for {embedder}")
@@ -131,7 +151,34 @@ def verify(embedder: str | None = None, rechunk: bool = True) -> tuple[list[str]
         if fts[1:] != (1, fts[0]):
             fails.append(f"_build {m}: FTS5 rowids are not 1..{fts[0]}")
         fts = fts[0]
+        expected = sqlite3.connect(":memory:")
+        try:
+            expected.execute("CREATE VIRTUAL TABLE chunks USING fts5(text, lemmata, content='', "
+                             "tokenize='unicode61 remove_diacritics 2')")
+            i = 0
+            for s in order:
+                lines = store.read_text_lines(docs[s].path)
+                lang = json.loads((store.source_dir(s) / "source.json").read_text())["lang"]
+                batch = []
+                for r in read_jsonl(store.chunks_path(s, m)):
+                    i += 1
+                    text = "\n".join(lines[r["line_start"] - 1:r["line_end"]])
+                    batch.append((i, r["prefix"] + "\n" + text, lex.expand(lex.lemmata(text, lang))))
+                expected.executemany("INSERT INTO chunks(rowid, text, lemmata) VALUES (?, ?, ?)", batch)
+            if _postings(con) != _postings(expected):
+                fails.append(f"_build {m}: FTS postings differ from source slices")
+        finally:
+            expected.close()
         con.close()
         if fts != len(rows):
             fails.append(f"_build {m}: FTS5 has {fts} rows, rows.jsonl {len(rows)}")
     return fails, info
+
+
+def _postings(con):
+    con.execute("CREATE VIRTUAL TABLE temp.postings USING fts5vocab(main, chunks, instance)")
+    digest = hashlib.sha256()
+    for row in con.execute("SELECT term,doc,col,offset FROM temp.postings ORDER BY term,doc,col,offset"):
+        digest.update(json.dumps(row, ensure_ascii=False, separators=(",", ":")).encode())
+        digest.update(b"\n")
+    return digest.digest()

@@ -21,12 +21,24 @@ import subject  # noqa: E402
 from wiki_index import fold  # noqa: E402
 
 read_jsonl = subject.read_jsonl
-write_jsonl = subject.write_jsonl
+def write_jsonl(path, rows):
+    from .store import atomic_text
+    import json
+    atomic_text(path, "".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows))
 
 
 def documents():
     """Every landed document of the manifest (`Sources/ask/` answers excluded, decision 017)."""
     return subject.documents()
+
+
+def refresh_documents():
+    subject.documents.cache_clear()
+
+
+def catalogue_stat():
+    st = subject.MANIFEST.stat()
+    return st.st_mtime_ns, st.st_size, st.st_ino
 
 
 def manifest_rows() -> list[dict]:

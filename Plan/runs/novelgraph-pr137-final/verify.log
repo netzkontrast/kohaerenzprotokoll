@@ -1,0 +1,4 @@
+coverage: 586/586 landed sources indexed (100.0 %)
+catalogue: {"total": 587, "landed": 586, "indexed": 586, "unlanded": ["coherence-protocol-mp3"]}
+chunks:   heading@v1 15339, section@v1 795, window400@v1 15232
+verify: ok

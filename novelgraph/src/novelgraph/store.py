@@ -5,6 +5,11 @@ from __future__ import annotations
 import hashlib
 import json
 import tomllib
+import os
+import tempfile
+import fcntl
+from contextlib import contextmanager
+from functools import wraps
 from functools import lru_cache
 from pathlib import Path
 
@@ -89,5 +94,42 @@ def read_text_lines(path: Path) -> list[str]:
 
 
 def write_json(path: Path, obj) -> None:
+    atomic_text(path, json.dumps(obj, ensure_ascii=False, indent=1) + "\n")
+
+
+def atomic_text(path: Path, text: str) -> None:
+    """Publish complete bytes by rename; a failed writer never truncates a live file."""
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(obj, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    fd, name = tempfile.mkstemp(prefix=".publish-", dir=path.parent)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as out:
+            out.write(text)
+        os.replace(name, path)
+    finally:
+        Path(name).unlink(missing_ok=True)
+
+
+@contextmanager
+def lock(write: bool = False):
+    """Serialize writers and hold readers outside a publication (Linux flock)."""
+    MANIFEST.parent.mkdir(parents=True, exist_ok=True)
+    with (MANIFEST.parent / ".lock").open("a") as handle:
+        fcntl.flock(handle, fcntl.LOCK_EX if write else fcntl.LOCK_SH)
+        try:
+            yield
+        finally:
+            fcntl.flock(handle, fcntl.LOCK_UN)
+
+
+def dirty_path() -> Path:
+    return MANIFEST.parent / ".building"
+
+
+def reader(fn):
+    @wraps(fn)
+    def checked(*args, **kwargs):
+        with lock():
+            if dirty_path().exists():
+                raise SystemExit("interrupted novelgraph build — run `novelgraph build` before reading")
+            return fn(*args, **kwargs)
+    return checked

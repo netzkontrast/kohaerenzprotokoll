@@ -24,7 +24,7 @@ from datetime import datetime, timezone
 import numpy as np
 
 from . import chunkers, lex, store
-from .repo import documents, read_jsonl, write_jsonl
+from .repo import documents, read_jsonl, write_jsonl, refresh_documents
 
 _MODEL = {}
 
@@ -82,6 +82,21 @@ def write_lex(slug: str, method: str, rows: list[dict], file_lines: list[str], l
 
 def build(source: str | None = None, methods: list[str] | None = None, force: bool = False,
           embedder: str | None = None, log=print) -> dict:
+    with store.lock(write=True):
+        recovering = store.dirty_path().exists()
+        if recovering and (source or methods):
+            raise SystemExit("interrupted build — recover with an unfiltered `novelgraph build`")
+        # Kept on failure: metadata from a partially published build cannot claim freshness.
+        store.atomic_text(store.dirty_path(), now() + "\n")
+        _PATHS.clear()
+        _TITLES.clear()
+        refresh_documents()
+        result = _build(source, methods, force or recovering, embedder, log)
+        store.dirty_path().unlink()
+        return result
+
+
+def _build(source=None, methods=None, force=False, embedder=None, log=print) -> dict:
     t0 = time.perf_counter()
     embedder = embedder or store.default_embedder()
     all_methods = store.chunkers()
@@ -104,10 +119,12 @@ def build(source: str | None = None, methods: list[str] | None = None, force: bo
         sha = hashlib.sha256(raw).hexdigest()
         file_lines = raw.decode("utf-8").split("\n")
         prev = old.get(doc.slug)
-        same = (prev and prev.get("sha256") == sha and prev.get("methods_stamp") == stamp
-                and (store.source_dir(doc.slug) / "source.json").exists()
-                and all(store.chunks_path(doc.slug, m).exists() for m in all_methods))
         title = (_title(doc.slug) or {}).get("title", doc.slug)
+        src_p = store.source_dir(doc.slug) / "source.json"
+        previous_src = json.loads(src_p.read_text()) if src_p.exists() else {}
+        same = (prev and prev.get("sha256") == sha and prev.get("methods_stamp") == stamp
+                and previous_src.get("title") == title
+                and all(store.chunks_path(doc.slug, m).exists() for m in all_methods))
         if same and not force:  # lex/ is gitignored: a fresh clone has the chunks and none of it
             lang = json.loads((store.source_dir(doc.slug) / "source.json").read_text())["lang"]
             for m in all_methods:
@@ -117,15 +134,22 @@ def build(source: str | None = None, methods: list[str] | None = None, force: bo
         if force or not same:
             parsed = chunkers.parse(file_lines, doc.offset)
             lang = lex.language(doc.body)
-            store.write_json(store.source_dir(doc.slug) / "source.json", {
+            source_info = {
                 "slug": doc.slug, "sha256": sha, "lines": len(file_lines), "body_offset": doc.offset,
-                "lang": lang, "title": title, "heading_tree": chunkers.heading_tree(parsed)})
+                "lang": lang, "title": title, "heading_tree": chunkers.heading_tree(parsed)}
+            changed = previous_src != source_info
+            if changed:
+                store.write_json(src_p, source_info)
             for m, params in all_methods.items():
                 rows = chunkers.chunk(doc.slug, title, file_lines, doc.offset, m, params, parsed)
-                write_jsonl(store.chunks_path(doc.slug, m), rows)
+                cp = store.chunks_path(doc.slug, m)
+                if not cp.exists() or read_jsonl(cp) != rows:
+                    changed = True
+                    write_jsonl(cp, rows)
                 write_lex(doc.slug, m, rows, file_lines, lang)
             new_manifest[doc.slug] = {"slug": doc.slug, "sha256": sha, "lines": len(file_lines), "lang": lang,
-                                      "methods_stamp": stamp, "indexed_at": now()}
+                                      "methods_stamp": stamp,
+                                      "indexed_at": now() if changed or not prev else prev["indexed_at"]}
             stats["rechunked"] += 1
         for m in methods:
             rows = read_jsonl(store.chunks_path(doc.slug, m))
@@ -150,7 +174,9 @@ def build(source: str | None = None, methods: list[str] | None = None, force: bo
             dim = model(embedder).dim if missing else (len(next(iter(cache.values()))) if cache else _dim(embedder))
             mat = np.stack([cache[key] for key in keys]).astype(np.float16) if ids else np.zeros((0, dim), np.float16)
             vec_p.parent.mkdir(parents=True, exist_ok=True)
-            np.save(vec_p, mat)
+            tmp = vec_p.with_suffix(".tmp.npy")
+            np.save(tmp, mat)
+            tmp.replace(vec_p)
             spec = store.embedders()[embedder]
             store.write_json(meta_p, {"model": spec["model"], "revision": spec.get("revision"), "embedder_fp": fp,
                                       "dim": int(mat.shape[1]),
@@ -202,6 +228,10 @@ def build_stamp(method: str, embedder: str) -> tuple[str, set]:
         meta = json.loads(store.vec_meta_path(slug, method, embedder).read_text())
         if meta.get("embedder_fp") != fp:
             raise SystemExit(f"{slug} {method}: vectors are from another embedder spec — run `novelgraph build`")
+        chunks = read_jsonl(store.chunks_path(slug, method))
+        if (meta.get("keys") != [vec_key(r) for r in chunks]
+                or meta.get("chunk_ids_hash") != store.ids_hash([r["id"] for r in chunks])):
+            raise SystemExit(f"{slug} {method}: vectors are for other chunks or prefixes — run `novelgraph build`")
         parts.append(f"{slug}:{store.ids_hash(meta['keys'])}")
         dims.add(meta["dim"])
     return store.ids_hash(parts + [method, embedder, fp, store.method_stamp()]), dims
@@ -218,9 +248,9 @@ def concatenate(method: str, embedder: str, force: bool = False) -> bool:
     store.BUILD.mkdir(parents=True, exist_ok=True)
     mats = [np.load(store.vec_path(s, method, embedder), mmap_mode="r") for s in slugs]
     total = sum(m.shape[0] for m in mats)
-    dim = dims.pop() if len(dims) == 1 else 0
     if len(dims) > 1:
         raise SystemExit(f"{method}: sources hold vectors of different dimensions — rebuild")
+    dim = next(iter(dims), 0)
     tmp = outs[0].with_suffix(".tmp.npy")
     big = np.lib.format.open_memmap(tmp, mode="w+", dtype=np.float16, shape=(total, dim))
     rows, k = [], 0
@@ -253,7 +283,7 @@ def concatenate(method: str, embedder: str, force: bool = False) -> bool:
     if len(rows) != total:
         raise SystemExit(f"{method}: {len(rows)} chunk rows but {total} matrix rows — a vec/ file is stale")
     write_jsonl(outs[1], rows)
-    stamp_p.write_text(stamp + "\n")
+    store.atomic_text(stamp_p, stamp + "\n")
     return True
 
 

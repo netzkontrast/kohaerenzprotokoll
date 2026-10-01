@@ -57,6 +57,7 @@ def main(argv: list[str] | None = None) -> int:
         if len(fails) > 50:
             print(f"  … and {len(fails) - 50} more")
         print(f"coverage: {info['coverage']}")
+        print("catalogue: " + json.dumps(info["catalogue"], ensure_ascii=False))
         print("chunks:   " + ", ".join(f"{m} {n}" for m, n in info["chunks"].items()))
         print("verify: " + ("ok" if not fails else f"{len(fails)} failures"))
         return 1 if fails else 0
@@ -78,8 +79,8 @@ def main(argv: list[str] | None = None) -> int:
             (out / "bench.json").write_text(json.dumps(result, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         return 0
     if a.cmd == "selftest":
-        from .selftest import gates, selftest
-        fails = selftest() + gates()
+        from .selftest import gates, publication_gates, selftest
+        fails = selftest() + gates() + publication_gates()
         for f in fails:
             print(f"  FAIL  {f}")
         print(f"novelgraph selftest: {'held' if not fails else f'{len(fails)} failed'}")

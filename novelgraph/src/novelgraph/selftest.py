@@ -58,6 +58,12 @@ def selftest() -> list[str]:
         fails.append(f"window400@v1 windows do not overlap: {[(r['line_start'], r['line_end']) for r in win]}")
     if chunkers.chunk("w", "W", prose, 1, "window400@v1", p["window400@v1"]) != win:
         fails.append("a chunker is not deterministic")
+    long_prose = [" ".join(["w"] * 100) for _ in range(20)]
+    long_win = chunkers.chunk("w", "W", long_prose, 1, "window400@v1", p["window400@v1"])
+    if not all(a["line_end"] >= b["line_start"] for a, b in zip(long_win, long_win[1:])):
+        fails.append("windows fail to overlap when a source line exceeds the overlap budget")
+    if chunkers.clean_heading(r"**2\. F\&E**") != "2. F&E":
+        fails.append("heading prefix retains Markdown emphasis or Drive escapes")
     return fails
 
 
@@ -110,6 +116,7 @@ def fixture(texts: dict[str, str]):
 
     saved = {(store, k): getattr(store, k) for k in ("METHODS", "MANIFEST", "SOURCES", "BUILD")}
     saved.update({(mod, "documents"): mod.documents for mod in (build, verify, search)})
+    saved[(verify, "manifest_rows")] = verify.manifest_rows
     saved[(build, "model")] = build.model
     paths, titles = dict(build._PATHS), dict(build._TITLES)
     try:
@@ -118,6 +125,7 @@ def fixture(texts: dict[str, str]):
         store.registry.cache_clear()
         for mod in (build, verify, search):
             mod.documents = docs
+        verify.manifest_rows = lambda: [{"slug": s} for s in texts] + [{"slug": "unlanded-audio"}]
         fake = _FakeModel()
         build.model = lambda _name: fake
         build._PATHS.clear()
@@ -212,4 +220,114 @@ def gates() -> list[str]:
         fails.append(f"a table without outer pipes was split: {[(r['line_start'], r['line_end']) for r in got]}")
     if 4 not in chunkers.table_lines(chunkers.parse(lines, 1)) or 1 in chunkers.table_lines(chunkers.parse(lines, 1)):
         fails.append("table_lines() misreads the header/delimiter rule")
+    return fails
+
+
+def publication_gates() -> list[str]:
+    """Interrupted writes, lexical corruption, warm freshness and locking, without a model."""
+    import sqlite3
+    import subprocess
+    import sys
+    fails = []
+    with fixture(TEXTS) as fx:
+        build.build(**QUIET)
+        a = fx["drive"] / "a.md"
+        a.write_text(a.read_text().replace("Kael zählt die Sterne", "Nyx verändert das Gedächtnis"))
+        build.build(methods=["heading@v1"], **QUIET)
+        if not _raises(lambda: search.Index("section@v1")):
+            fails.append("method-filtered rebuild left another method searchable with stale vectors")
+    with fixture(TEXTS):
+        original = build._title
+        title = ["Original"]
+        try:
+            build._title = lambda slug: {"title": title[0]}
+            build.build(**QUIET)
+            ids = build.read_jsonl(store.chunks_path("a", "heading@v1"))
+            title[0] = "Renamed"
+            got = build.build(**QUIET)
+            if [r["id"] for r in ids] != [r["id"] for r in build.read_jsonl(store.chunks_path("a", "heading@v1"))]:
+                fails.append("a title change moved chunk ids")
+            if not got["embedded"] or got["reused_vectors"]:
+                fails.append("a changed prefix reused embeddings made with the old title")
+        finally:
+            build._title = original
+    with fixture(TEXTS) as fx:
+        build.build(**QUIET)
+        warm = search.Index("heading@v1")
+        tracked = [store.MANIFEST, *store.SOURCES.rglob("source.json"), *store.SOURCES.rglob("chunks/*.jsonl")]
+        before = {p: (p.read_bytes(), p.stat().st_mtime_ns) for p in tracked}
+        again = build.build(**QUIET)
+        if again["embedded"] or again["rechunked"] or again["concatenated"]:
+            fails.append(f"no-op build changed outputs: {again}")
+        if before != {p: (p.read_bytes(), p.stat().st_mtime_ns) for p in tracked}:
+            fails.append("no-op build rewrote committed artifacts")
+        if not warm.search("Kael", 2, "bm25"):
+            fails.append("a no-op build invalidated warm search")
+        info = verify.verify()[1]["catalogue"]
+        if info != {"total": 3, "landed": 2, "indexed": 2, "unlanded": ["unlanded-audio"]}:
+            fails.append(f"catalogue coverage hides unlanded rows: {info}")
+        # A source outside the result set must also stop warm queries.
+        b = fx["drive"] / "b.md"
+        b.write_text("# B\n\nAndere Aussage.\n", encoding="utf-8")
+        if not _raises(lambda: warm.search("Kael", 1, "bm25"), search.Stale):
+            fails.append("warm search ignored a changed non-hit source")
+        build.build(**QUIET)
+        if not _raises(lambda: warm.search("Kael", 1, "bm25"), search.Stale):
+            fails.append("warm search mixed old and rebuilt generations")
+        # Keep row count and rowids, replace every posting: the old count-only gate passed this.
+        bp = store.build_bm25("heading@v1")
+        with sqlite3.connect(bp) as con:
+            n = con.execute("SELECT count(*) FROM chunks").fetchone()[0]
+            con.execute("INSERT INTO chunks(chunks) VALUES ('delete-all')")
+            con.executemany("INSERT INTO chunks(rowid,text,lemmata) VALUES (?,?,?)",
+                            [(i, "fabricated", "fabricated") for i in range(1, n + 1)])
+        if not any("FTS postings" in f for f in verify.verify()[0]):
+            fails.append("verify accepted wrong FTS postings with correct rowids/count")
+        build.build(force=True, **QUIET)
+        lp = store.lex_path("a", "heading@v1")
+        rows = build.read_jsonl(lp)
+        rows[0]["lemmata"] = "fabricated"
+        build.write_jsonl(lp, rows)
+        if not any("lexical derivation" in f for f in verify.verify()[0]):
+            fails.append("verify accepted corrupt lex terms with correct ids")
+        # Fail after marking the build dirty; both cold and warm readers must refuse it.
+        real = build._build
+        try:
+            def crash(*args, **kwargs):
+                raise OSError("injected publication failure")
+            build._build = crash
+            if not _raises(lambda: build.build(**QUIET), OSError):
+                fails.append("injected build failure did not occur")
+        finally:
+            build._build = real
+        if not store.dirty_path().exists():
+            fails.append("failed build left no interruption marker")
+        for fn in (lambda: search.Index("heading@v1"), lambda: warm.search("Kael"), lambda: verify.verify()):
+            if not _raises(fn):
+                fails.append("reader accepted an interrupted publication")
+        if not _raises(lambda: build.build(source="a", **QUIET)):
+            fails.append("partial build claimed to recover a global interruption")
+        build.build(**QUIET)
+        if store.dirty_path().exists() or verify.verify()[0]:
+            fails.append("full rebuild failed to recover interrupted/corrupt artifacts")
+        # Real OS locks, not a mock: both another reader and writer must wait.
+        probe = "import fcntl,sys; f=open(sys.argv[1],'a'); fcntl.flock(f, int(sys.argv[2]) | fcntl.LOCK_NB)"
+        with store.lock(write=True):
+            for flag in (1, 2):  # LOCK_SH, LOCK_EX
+                done = subprocess.run([sys.executable, "-c", probe, str(store.MANIFEST.parent / ".lock"), str(flag)],
+                                      capture_output=True)
+                if done.returncode == 0 or b"BlockingIOError" not in done.stderr:
+                    fails.append(f"writer lock did not block competing lock {flag}")
+        with store.lock():
+            done = subprocess.run([sys.executable, "-c", probe, str(store.MANIFEST.parent / ".lock"), "2"],
+                                  capture_output=True)
+            if done.returncode == 0:
+                fails.append("reader lock did not block a writer")
+        # An invalid matrix dimension cannot be concatenated into a plausible empty aggregate.
+        mp = store.vec_meta_path("b", "heading@v1", store.default_embedder())
+        obj = __import__("json").loads(mp.read_text())
+        obj["dim"] += 1
+        store.write_json(mp, obj)
+        if not _raises(lambda: build.concatenate("heading@v1", store.default_embedder(), force=True)):
+            fails.append("concatenation accepted mixed recorded dimensions")
     return fails
