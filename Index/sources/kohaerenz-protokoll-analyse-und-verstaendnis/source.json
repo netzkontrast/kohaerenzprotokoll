@@ -1,0 +1,20 @@
+{
+ "slug": "kohaerenz-protokoll-analyse-und-verstaendnis",
+ "sha256": "2d2739ad3163f4382beb059b090df13b8dc5c64c267618f64fcc495eaa4079dd",
+ "lines": 302,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Analyse und Verständnis",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Analyse von Kohärenzprotokollen in Computersystemen",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 246
+  }
+ ]
+}

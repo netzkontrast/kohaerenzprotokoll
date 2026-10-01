@@ -1,0 +1,50 @@
+{
+ "slug": "monstergruppe-primzahlen-plot-neukonstruktion",
+ "sha256": "71ba474e4b184ffa55ac2f92c496595e32f7f4f5d6b57dccdf14f7c5cd1d38ef",
+ "lines": 243,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Monstergruppe, Primzahlen, Plot-Neukonstruktion",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll: Detaillierter Plot-Blueprint",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "II. Zusammenfassung des konzeptuellen Rahmens",
+   "line": 21
+  },
+  {
+   "level": 2,
+   "title": "III. Akt 1: Anomalie & Eindämmung (Kapitel 1-13)",
+   "line": 38
+  },
+  {
+   "level": 2,
+   "title": "IV. Akt 2: Paradoxon & Emergenz (Kapitel 14-26)",
+   "line": 115
+  },
+  {
+   "level": 2,
+   "title": "V. Akt 3: Integration & Konfrontation (Kapitel 27-39)",
+   "line": 150
+  },
+  {
+   "level": 2,
+   "title": "VI. Schlussfolgerung",
+   "line": 195
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 203
+  }
+ ]
+}

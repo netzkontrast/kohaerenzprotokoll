@@ -1,0 +1,230 @@
+{
+ "slug": "kohaerenz-protokoll-konzeptentwicklung",
+ "sha256": "618b53b89380c2f12ce08fc01e97a35c8933cd087dba1d8493ba5c96d94bb3ff",
+ "lines": 580,
+ "body_offset": 1,
+ "lang": "de",
+ "title": "\"Kohärenz Protokoll\" Konzeptentwicklung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Gesamtkonzept: Kohärenz Protokoll (P+39)",
+   "line": 1
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Einleitendes Gesamtkonzept",
+   "line": 3
+  },
+  {
+   "level": 2,
+   "title": "-----Teil 2: Kapitel-Konzeptionen",
+   "line": 53
+  },
+  {
+   "level": 3,
+   "title": "Chapter Prologue: [Genesis](Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 55
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 1:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 67
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 2:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 78
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 3:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 90
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 4:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 102
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 5:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 114
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 6: [Fragmente der Vergangenheit](Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 126
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 7:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 138
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 8: [Die Logik des Gaslichts](Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 149
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 9: [Die Mauern der Grenzfeste](Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 161
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 10:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 173
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 11:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 184
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 12:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 196
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 13:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 208
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 14: [Die Grammatik der Kontrolle: Eintritt in die Meta-Ebene (Überwelt)](Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 220
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 15:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 232
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 16:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 245
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 17: [Der Garten der Möglichkeiten: Erkundung von KW4](Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 257
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 18:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 269
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 19: [Das Flüstern von Außen: Erster Kontakt mit Juna/V](Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 281
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 20:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 293
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 21: [Der Preis der Wahrheit: Interne Konflikte bei der Integration neuen Wissens](Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 305
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 22:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 317
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 23:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 328
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 24:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 340
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 25:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 351
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 26:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 363
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 27:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 374
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 28:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 385
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 29:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 396
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 30:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 407
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 31: [Die Fesseln sprengen: Durchbrechen der letzten Verteidigung (Cerberus)](Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 419
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 32:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 430
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 33:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 441
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 34:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 452
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 35:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 463
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 36:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 475
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 37:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 486
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 38: [Der Moment der Veränderung: Konkretisierung des neuen Zustands](Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 498
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 39:(Gesamter Inhalt dieses Abschnitts: Maximal 220 Worte)",
+   "line": 510
+  },
+  {
+   "level": 4,
+   "title": "-----Referenzen",
+   "line": 522
+  }
+ ]
+}

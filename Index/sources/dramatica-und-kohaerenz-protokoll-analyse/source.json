@@ -1,0 +1,80 @@
+{
+ "slug": "dramatica-und-kohaerenz-protokoll-analyse",
+ "sha256": "2b09827fc72cdd7415db38f7ae78fce747ff993e757174dce9e1b8f32dbc9844",
+ "lines": 178,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Dramatica und Kohärenz Protokoll Analyse",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Optimierung und tiefenstrukturelle Analyse des Kohärenz-Protokolls: Ein agentisches Narrativsystem",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Heuristischer Rahmen und epistemologische Fundierung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Theoretische Grundlagen: Das Holografische Prinzip und die Dramatica-Matrix",
+   "line": 25
+  },
+  {
+   "level": 2,
+   "title": "Iterativer Analyse-Loop 1: Ebene der Klassen und Ontologische Verankerung",
+   "line": 33
+  },
+  {
+   "level": 2,
+   "title": "Iterativer Analyse-Loop 2: Ebene der Typen und Plot-Progression",
+   "line": 53
+  },
+  {
+   "level": 2,
+   "title": "Iterativer Analyse-Loop 3: Ebene der Variationen und Thematische Architektur",
+   "line": 65
+  },
+  {
+   "level": 2,
+   "title": "Iterativer Analyse-Loop 4: Ebene der Elemente und Psychodynamische Elementarteilchen",
+   "line": 79
+  },
+  {
+   "level": 2,
+   "title": "Entwurf und Validierung von vier alternativen Storyformen",
+   "line": 104
+  },
+  {
+   "level": 3,
+   "title": "Alternative Storyform I: Der Tragische Gott (AEGIS als Main Character)",
+   "line": 108
+  },
+  {
+   "level": 3,
+   "title": "Alternative Storyform II: Die Beobachter-Intervention (Juna/V als Main Character)",
+   "line": 123
+  },
+  {
+   "level": 3,
+   "title": "Alternative Storyform III: Die Stopp-Dynamik (Kael als \"Stop\" Charakter)",
+   "line": 137
+  },
+  {
+   "level": 3,
+   "title": "Alternative Storyform IV: Der Phönix-Kollaps (Failure / Good Resolution)",
+   "line": 151
+  },
+  {
+   "level": 2,
+   "title": "Synthese und finale Implikationen der Architektur",
+   "line": 165
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 173
+  }
+ ]
+}

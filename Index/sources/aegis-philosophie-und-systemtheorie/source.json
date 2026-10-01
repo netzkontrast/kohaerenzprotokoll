@@ -1,0 +1,35 @@
+{
+ "slug": "aegis-philosophie-und-systemtheorie",
+ "sha256": "de7ef86f844dd44ee18e0e472996cab1d9008cd07b0f0c468bd79c4e130e949e",
+ "lines": 247,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "AEGIS: Philosophie und Systemtheorie",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "AEGIS – Philosophie der Selbstverifikation und Strukturellen Existenz",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Konzeptionelle Grundlagen: Eine Synthese relevanter Theorien",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "II. AEGIS: Philosophische und Systemtheoretische Analyse",
+   "line": 85
+  },
+  {
+   "level": 2,
+   "title": "III. Unkartierte Gebiete: Weiterführende Forschungsfragen (Task 3)",
+   "line": 177
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 187
+  }
+ ]
+}

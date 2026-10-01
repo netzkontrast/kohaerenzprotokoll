@@ -1,0 +1,45 @@
+{
+ "slug": "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
+ "sha256": "ae9e3fb6dee4229cbfbdbb0c43e7dd000843b03b4a824fe1bf7e5ea5f5926641",
+ "lines": 88,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Analyse und Überarbeitung des Gesamtplots (mit Subplots)",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Analyse und Überarbeitung des Gesamtplots für \"Kohärenz Protokoll\"",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Analyse des bestehenden Plots und der Subplot-Integration",
+   "line": 15
+  },
+  {
+   "level": 2,
+   "title": "Überarbeitung des Gesamtplots",
+   "line": 27
+  },
+  {
+   "level": 3,
+   "title": "Teil 1: Die Innere Reise (Kapitel 1-13) - Heroine's Journey",
+   "line": 31
+  },
+  {
+   "level": 3,
+   "title": "Teil 2: Die Meta-Ebene & Zyklen (Kapitel 14-26) - Meta-Exploration",
+   "line": 49
+  },
+  {
+   "level": 3,
+   "title": "Teil 3: Die Äußere Konfrontation & Rückkehr (Kapitel 27-39) - Hero's Journey",
+   "line": 67
+  },
+  {
+   "level": 2,
+   "title": "Fazit der Überarbeitung",
+   "line": 85
+  }
+ ]
+}

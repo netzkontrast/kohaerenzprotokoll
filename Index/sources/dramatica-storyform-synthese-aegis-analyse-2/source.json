@@ -1,0 +1,190 @@
+{
+ "slug": "dramatica-storyform-synthese-aegis-analyse-2",
+ "sha256": "418206b00ac385b405996ef3a1b47cf1de5ad5f7bffc1cf48db3b215374da5f7",
+ "lines": 524,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Dramatica Storyform Synthese & AEGIS-Analyse",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Vollständige Synthese der dualen Dramatica-Storyformen für „Kohärenz Protokoll\"",
+   "line": 11
+  },
+  {
+   "level": 1,
+   "title": "mit Verifikationstest der AEGIS-Throughline-Position in Storyform B",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Executive Summary",
+   "line": 15
+  },
+  {
+   "level": 2,
+   "title": "Schlüssel-Befunde",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "Hypothesen-Baum (Category A)",
+   "line": 35
+  },
+  {
+   "level": 3,
+   "title": "Hypothese H1 — Status Quo (AEGIS = MC in B)",
+   "line": 39
+  },
+  {
+   "level": 3,
+   "title": "Hypothese H2 — Auftraggeber-Hypothese (AEGIS = OS, Guardian = MC)",
+   "line": 47
+  },
+  {
+   "level": 3,
+   "title": "Hypothese H3 — Drittweg",
+   "line": 55
+  },
+  {
+   "level": 3,
+   "title": "Surviving Branch",
+   "line": 63
+  },
+  {
+   "level": 2,
+   "title": "Per-Throughline-Encoding (8 Iterationen)",
+   "line": 67
+  },
+  {
+   "level": 3,
+   "title": "Iter 1 — Storyform A · MC Throughline (Kael)",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "Iter 2 — Storyform B · MC Throughline (AEGIS)",
+   "line": 95
+  },
+  {
+   "level": 3,
+   "title": "Iter 3 — Storyform A · IC Throughline (Juna)",
+   "line": 119
+  },
+  {
+   "level": 3,
+   "title": "Iter 4 — Storyform B · IC Throughline (Kael als lebende Paradoxie)",
+   "line": 143
+  },
+  {
+   "level": 3,
+   "title": "Iter 5 — Storyform A · OS Throughline (Psychology / Manipulation)",
+   "line": 167
+  },
+  {
+   "level": 3,
+   "title": "Iter 6 — Storyform B · OS Throughline (Physics / cybernetischer Krieg)",
+   "line": 191
+  },
+  {
+   "level": 3,
+   "title": "Iter 7 — Storyform A · RS Throughline (Physics / Moonshine-Link)",
+   "line": 211
+  },
+  {
+   "level": 3,
+   "title": "Iter 8 — Storyform B · RS Throughline (Psychology / Host/System)",
+   "line": 235
+  },
+  {
+   "level": 2,
+   "title": "Dynamics-Encoding",
+   "line": 259
+  },
+  {
+   "level": 2,
+   "title": "Vortex-Inversions-Beat-Sheet (Kapitel 35–36)",
+   "line": 270
+  },
+  {
+   "level": 3,
+   "title": "Beat 1 — Convergence",
+   "line": 274
+  },
+  {
+   "level": 3,
+   "title": "Beat 2 — Pivot",
+   "line": 281
+  },
+  {
+   "level": 3,
+   "title": "Beat 3 — Stille",
+   "line": 288
+  },
+  {
+   "level": 3,
+   "title": "Beat 4 — Heat-Spike",
+   "line": 295
+  },
+  {
+   "level": 3,
+   "title": "Beat 5 — Rotation",
+   "line": 302
+  },
+  {
+   "level": 2,
+   "title": "Witness-Function-Operationalisierung im Klimax",
+   "line": 309
+  },
+  {
+   "level": 2,
+   "title": "Open Questions — Befunde",
+   "line": 318
+  },
+  {
+   "level": 2,
+   "title": "Contradictions Encountered",
+   "line": 347
+  },
+  {
+   "level": 2,
+   "title": "Query Expansion Log (Method M13)",
+   "line": 365
+  },
+  {
+   "level": 2,
+   "title": "Reflection History (CONSTRAINT BLOCK 0)",
+   "line": 399
+  },
+  {
+   "level": 2,
+   "title": "Cross-Pollination Log (Phase 2b)",
+   "line": 420
+  },
+  {
+   "level": 2,
+   "title": "Hypothesis Half-Life Audit (volle Pässe)",
+   "line": 433
+  },
+  {
+   "level": 2,
+   "title": "Surviving-Branch Triangulation",
+   "line": 451
+  },
+  {
+   "level": 2,
+   "title": "Quellen",
+   "line": 461
+  },
+  {
+   "level": 2,
+   "title": "Methodology Note",
+   "line": 505
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 509
+  }
+ ]
+}

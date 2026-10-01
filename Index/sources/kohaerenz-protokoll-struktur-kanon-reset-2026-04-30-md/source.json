@@ -1,0 +1,310 @@
+{
+ "slug": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+ "sha256": "1553fcb924ce7f42f985e2b286b3aa5ff47b2527feaaf6d91de34b37faceb550",
+ "lines": 793,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohaerenz_Protokoll_Struktur_Kanon_Reset_2026-04-30.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Struktur-Kanon — Reset 2026-04-30",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "0. Lesehinweis und Hierarchie",
+   "line": 21
+  },
+  {
+   "level": 2,
+   "title": "1. Kernfrage und These",
+   "line": 47
+  },
+  {
+   "level": 2,
+   "title": "2. Die sechs Lasten",
+   "line": 63
+  },
+  {
+   "level": 2,
+   "title": "3. Architektonische Säulen (CORE)",
+   "line": 83
+  },
+  {
+   "level": 3,
+   "title": "3.1 Drei Figuren",
+   "line": 85
+  },
+  {
+   "level": 3,
+   "title": "3.2 Eine Physik (DKT minimal)",
+   "line": 97
+  },
+  {
+   "level": 3,
+   "title": "3.3 Eine Genesis (3 Beats)",
+   "line": 111
+  },
+  {
+   "level": 3,
+   "title": "3.4 Eine Mechanik (Driver-Pivot Action → Decision)",
+   "line": 121
+  },
+  {
+   "level": 3,
+   "title": "3.5 Eine Schluss-Form (Ouroboros)",
+   "line": 133
+  },
+  {
+   "level": 3,
+   "title": "3.6 Eine Bindung (Moonshine-Link)",
+   "line": 141
+  },
+  {
+   "level": 2,
+   "title": "4. Dramatica Dual-Storyform — Vollständige Spezifikation",
+   "line": 153
+  },
+  {
+   "level": 3,
+   "title": "4.1 Storyform A — „Heuristics of Integration\" (K1-Reading)",
+   "line": 155
+  },
+  {
+   "level": 3,
+   "title": "4.2 Storyform B — „Phoenix Collapse\" (K0-Reading)",
+   "line": 186
+  },
+  {
+   "level": 3,
+   "title": "4.3 Die Domain-Inversion als Klein-Vierer-Operation",
+   "line": 217
+  },
+  {
+   "level": 3,
+   "title": "4.4 Driver-Pivot — Mechanik des Klimax (Kap 35–36)",
+   "line": 239
+  },
+  {
+   "level": 2,
+   "title": "5. Junas Doppel-IC-Position — Was sie strukturell ist",
+   "line": 259
+  },
+  {
+   "level": 2,
+   "title": "6. Reader als Substrat-Funktion (ersetzt 5. Position)",
+   "line": 304
+  },
+  {
+   "level": 2,
+   "title": "7. Schreib-Disziplin",
+   "line": 341
+  },
+  {
+   "level": 3,
+   "title": "7.1 Riss-Mandat",
+   "line": 345
+  },
+  {
+   "level": 3,
+   "title": "7.2 Somatic Rulebook (Akt-für-Akt)",
+   "line": 360
+  },
+  {
+   "level": 3,
+   "title": "7.3 Computational Class als Akt-Stil",
+   "line": 373
+  },
+  {
+   "level": 3,
+   "title": "7.4 Polyphonie über die 13 Alter",
+   "line": 387
+  },
+  {
+   "level": 3,
+   "title": "7.5 Stilistische Kernregeln",
+   "line": 410
+  },
+  {
+   "level": 2,
+   "title": "8. KEEP-Aspekte mit Funktion",
+   "line": 424
+  },
+  {
+   "level": 3,
+   "title": "8.1 AEGIS als tragischer Gott (nicht Bösewicht)",
+   "line": 428
+  },
+  {
+   "level": 3,
+   "title": "8.2 Algorithmische Melancholie",
+   "line": 432
+  },
+  {
+   "level": 3,
+   "title": "8.3 Mnemosyne-Archipel als Vortex-Setting",
+   "line": 436
+  },
+  {
+   "level": 3,
+   "title": "8.4 Fundament als Strange Attractor",
+   "line": 440
+  },
+  {
+   "level": 3,
+   "title": "8.5 Reader-Substrat-Funktion (Iser)",
+   "line": 444
+  },
+  {
+   "level": 3,
+   "title": "8.6 Die 13 Alter als Polyphonie",
+   "line": 448
+  },
+  {
+   "level": 3,
+   "title": "8.7 Truth-Rotation als kanonisches Ereignis",
+   "line": 452
+  },
+  {
+   "level": 2,
+   "title": "9. Konsolidierungs-Forschungsfragen",
+   "line": 460
+  },
+  {
+   "level": 3,
+   "title": "F1 — Junas Unmodellierbarkeit",
+   "line": 464
+  },
+  {
+   "level": 3,
+   "title": "F2 — AEGIS-Protokolle",
+   "line": 476
+  },
+  {
+   "level": 3,
+   "title": "F3 — Guardians",
+   "line": 488
+  },
+  {
+   "level": 3,
+   "title": "F4 — Per-Alter-DKT-Korrelate",
+   "line": 500
+  },
+  {
+   "level": 3,
+   "title": "F5 — Computational Class als Welt vs. Stil",
+   "line": 512
+  },
+  {
+   "level": 3,
+   "title": "F6 — Kapitelstruktur 13/13/13",
+   "line": 520
+  },
+  {
+   "level": 3,
+   "title": "F7 — Reader-Substrat-Operationalisierung",
+   "line": 528
+  },
+  {
+   "level": 3,
+   "title": "F8 — Junas Erscheinungsmodi",
+   "line": 536
+  },
+  {
+   "level": 3,
+   "title": "F9 — Genesis 3-Beat oder 4-Beat",
+   "line": 548
+  },
+  {
+   "level": 3,
+   "title": "F10 — Ouroboros-Bild",
+   "line": 560
+  },
+  {
+   "level": 2,
+   "title": "10. Was definitiv weggefallen ist",
+   "line": 572
+  },
+  {
+   "level": 2,
+   "title": "Appendix A — Plot-Beats und Akt-Architektur",
+   "line": 594
+  },
+  {
+   "level": 3,
+   "title": "Akt I (KW1, Kap 1–13) — „Die Ästhetik der Ohnmacht\"",
+   "line": 596
+  },
+  {
+   "level": 3,
+   "title": "Akt II (KW2–3, Kap 14–26) — „Die Anatomie der Spaltung\"",
+   "line": 604
+  },
+  {
+   "level": 3,
+   "title": "Akt III (KW4, Kap 27–39) — „Die existenzielle Fusion\"",
+   "line": 612
+  },
+  {
+   "level": 2,
+   "title": "Appendix B — Alter-System (volle Spezifikation)",
+   "line": 624
+  },
+  {
+   "level": 2,
+   "title": "Appendix C — Offene Punkte (jenseits der Forschungsfragen)",
+   "line": 681
+  },
+  {
+   "level": 3,
+   "title": "C.1 Post-Vortex-AEGIS-Status",
+   "line": 683
+  },
+  {
+   "level": 3,
+   "title": "C.2 Moonshine-Link-Boundary",
+   "line": 697
+  },
+  {
+   "level": 3,
+   "title": "C.3 Gibt es im Roman andere Menschen?",
+   "line": 711
+  },
+  {
+   "level": 3,
+   "title": "C.4 Wie wird die Genesis im Vortex enthüllt?",
+   "line": 719
+  },
+  {
+   "level": 3,
+   "title": "C.5 Wie verhält sich Oblivion zu AEGIS?",
+   "line": 727
+  },
+  {
+   "level": 3,
+   "title": "C.6 Plot-Idee: Das „falsche Ende\" in Kap 30",
+   "line": 740
+  },
+  {
+   "level": 3,
+   "title": "C.7 Plot-Idee: Junas einziger „Auftritt\"",
+   "line": 748
+  },
+  {
+   "level": 3,
+   "title": "C.8 Stilfrage: Pronomen-Dramaturgie",
+   "line": 752
+  },
+  {
+   "level": 2,
+   "title": "Appendix D — Privater Anker (Block 4, abstrahiert)",
+   "line": 770
+  }
+ ]
+}

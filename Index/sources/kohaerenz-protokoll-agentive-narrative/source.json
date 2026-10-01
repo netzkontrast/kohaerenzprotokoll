@@ -1,0 +1,140 @@
+{
+ "slug": "kohaerenz-protokoll-agentive-narrative",
+ "sha256": "e3e24ffacc0e6c4318dc158765417442e0247e10650fc16e1b29c8c0a920d43e",
+ "lines": 671,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Agentive Narrative",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Das Kohärenz Protokoll: Ein Architektonischer Entwurf für Agentive Narrative Erfahrungen",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Einleitung",
+   "line": 18
+  },
+  {
+   "level": 2,
+   "title": "Teil I: Theoretisch-Philosophisches Gerüst der Narrativen Systemik",
+   "line": 30
+  },
+  {
+   "level": 3,
+   "title": "1.1 Das Dramatica Story Mind als komputationales Modell",
+   "line": 38
+  },
+  {
+   "level": 3,
+   "title": "1.2 Abbildung psychologischer und ontologischer Modelle auf narrative Subsysteme",
+   "line": 68
+  },
+  {
+   "level": 4,
+   "title": "Die Psychologische Ebene (Kael): Eine Reise zur Integration",
+   "line": 76
+  },
+  {
+   "level": 4,
+   "title": "Die Logisch-Systemische Ebene (AEGIS): Das Trauma einer KI und der verwundete Heiler",
+   "line": 88
+  },
+  {
+   "level": 4,
+   "title": "Die Ontologische Ebene (Juna/V): Resonanz und transzendente Intervention",
+   "line": 98
+  },
+  {
+   "level": 4,
+   "title": "Die Metaphysische Ebene (Das Fundament): Die Struktur der narrativen Realität",
+   "line": 109
+  },
+  {
+   "level": 2,
+   "title": "Teil II: Architektonischer Entwurf für das Agentive System",
+   "line": 120
+  },
+  {
+   "level": 3,
+   "title": "2.1 Das Narrative Kontext Protokoll (NCP) – Ein Definitives Schema",
+   "line": 128
+  },
+  {
+   "level": 3,
+   "title": "2.2 Echtzeit-Zustandsmanagement und Persistenz",
+   "line": 308
+  },
+  {
+   "level": 3,
+   "title": "2.3 Die Prompt-Kaskade als kognitiver Kreislauf",
+   "line": 323
+  },
+  {
+   "level": 3,
+   "title": "2.4 Das Kerndilemma: Kontextkompression versus Informationstreue",
+   "line": 345
+  },
+  {
+   "level": 2,
+   "title": "Teil III: Management von Emergenz und Sicherstellung der Kohärenz",
+   "line": 362
+  },
+  {
+   "level": 3,
+   "title": "3.1 Der „Dramaturgische Aufseher“: Architekturen für narrative Governance",
+   "line": 370
+  },
+  {
+   "level": 3,
+   "title": "3.2 Systemische Risiken und Fehleranalyse",
+   "line": 394
+  },
+  {
+   "level": 3,
+   "title": "3.3 Ein Framework zur Kohärenzbewertung",
+   "line": 425
+  },
+  {
+   "level": 2,
+   "title": "Teil IV: Implementierung und Strategische Empfehlungen",
+   "line": 453
+  },
+  {
+   "level": 3,
+   "title": "4.1 Empfohlener Technologie-Stack",
+   "line": 461
+  },
+  {
+   "level": 4,
+   "title": "LLM-Auswahl",
+   "line": 469
+  },
+  {
+   "level": 4,
+   "title": "Orchestrierungs-Framework",
+   "line": 491
+  },
+  {
+   "level": 3,
+   "title": "4.2 Benutzeroberfläche und Interaktionsmodalitäten",
+   "line": 511
+  },
+  {
+   "level": 3,
+   "title": "4.3 Ein Phasenbasierter Entwicklungs- und Testfahrplan",
+   "line": 529
+  },
+  {
+   "level": 2,
+   "title": "Schlussfolgerung",
+   "line": 571
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 581
+  }
+ ]
+}

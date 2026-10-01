@@ -1,0 +1,230 @@
+{
+ "slug": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+ "sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+ "lines": 228,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Mining Report: \"Kohärenz Protokoll\" — Narrative Building Blocks & Structural Seeds",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Mining Report: \"Kohärenz Protokoll\" — Narrative Building Blocks & Structural Seeds",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "1. Main Character A (MC-A): Kael / Memory & Mind",
+   "line": 13
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: The \"Be-er\" Protagonist and the TSDP Engine",
+   "line": 15
+  },
+  {
+   "level": 5,
+   "title": "Seed Extraction: Fragmented Mind",
+   "line": 19
+  },
+  {
+   "level": 5,
+   "title": "Transition",
+   "line": 25
+  },
+  {
+   "level": 4,
+   "title": "2. Main Character B (MC-B): AEGIS / Universe & Progress",
+   "line": 29
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: The Autopoietic \"Do-er\" and Operational Closure",
+   "line": 31
+  },
+  {
+   "level": 5,
+   "title": "Seed Extraction: Algorithmic Horror",
+   "line": 35
+  },
+  {
+   "level": 5,
+   "title": "Transition",
+   "line": 41
+  },
+  {
+   "level": 4,
+   "title": "3. Influence Character A (IC-A): Juna / Genesis Crisis & Universe",
+   "line": 45
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: The Ontological Exploit of the 6 Paraiyas",
+   "line": 47
+  },
+  {
+   "level": 5,
+   "title": "Seed Extraction: The Transcendent Link",
+   "line": 51
+  },
+  {
+   "level": 5,
+   "title": "Transition",
+   "line": 56
+  },
+  {
+   "level": 4,
+   "title": "4. Influence Character B (IC-B): Kael-as-Fixed-Idea / Mind & Conscious",
+   "line": 60
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: The Living Gödel-Sentence",
+   "line": 62
+  },
+  {
+   "level": 5,
+   "title": "Seed Extraction: The Diagnostic Lens",
+   "line": 66
+  },
+  {
+   "level": 5,
+   "title": "Transition",
+   "line": 71
+  },
+  {
+   "level": 4,
+   "title": "5. Overall Story A (OS-A): Simulation Manipulation / Psychology",
+   "line": 75
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: The Kernwelten Battlefield",
+   "line": 77
+  },
+  {
+   "level": 5,
+   "title": "Seed Extraction: Psycho-Architecture",
+   "line": 81
+  },
+  {
+   "level": 5,
+   "title": "Transition",
+   "line": 87
+  },
+  {
+   "level": 4,
+   "title": "6. Overall Story B (OS-B): The 12 Protocols / Physics",
+   "line": 91
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: The Physics of Erasure and Zero-Trust",
+   "line": 93
+  },
+  {
+   "level": 5,
+   "title": "Seed Extraction: Systemic Erasure",
+   "line": 97
+  },
+  {
+   "level": 5,
+   "title": "Transition",
+   "line": 103
+  },
+  {
+   "level": 4,
+   "title": "7. Relationship Story A (RS-A): Kael & Juna / Physics (Material Link)",
+   "line": 107
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: Shared Qualia and Synesthetic Resonance",
+   "line": 109
+  },
+  {
+   "level": 5,
+   "title": "Seed Extraction: Material Connection",
+   "line": 113
+  },
+  {
+   "level": 5,
+   "title": "Transition",
+   "line": 118
+  },
+  {
+   "level": 4,
+   "title": "8. Relationship Story B (RS-B): Kael & AEGIS / Psychology (Symbiosis)",
+   "line": 122
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: The Externalized Perpetrator Introject",
+   "line": 124
+  },
+  {
+   "level": 5,
+   "title": "Seed Extraction: The Cage of Protection",
+   "line": 128
+  },
+  {
+   "level": 5,
+   "title": "Transition",
+   "line": 133
+  },
+  {
+   "level": 4,
+   "title": "9. VORTEX: The Singularity (Ch35-36)",
+   "line": 137
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: The Driver-Pivot",
+   "line": 139
+  },
+  {
+   "level": 5,
+   "title": "The 5 Climax Beats",
+   "line": 143
+  },
+  {
+   "level": 5,
+   "title": "Transition",
+   "line": 151
+  },
+  {
+   "level": 4,
+   "title": "10. OPEN-Q: Post-Vortex & Missing Somatics",
+   "line": 155
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: The Moonshine-Boundary",
+   "line": 157
+  },
+  {
+   "level": 5,
+   "title": "Analysis of Somatic Gaps",
+   "line": 161
+  },
+  {
+   "level": 4,
+   "title": "11. BACKLOG: Quarry & Contradictions",
+   "line": 169
+  },
+  {
+   "level": 5,
+   "title": "Strategic Context: The Quarry of De-canonized Material",
+   "line": 171
+  },
+  {
+   "level": 5,
+   "title": "Contradiction Log",
+   "line": 175
+  },
+  {
+   "level": 4,
+   "title": "12. INDEX: Master Seed Registry",
+   "line": 185
+  }
+ ]
+}

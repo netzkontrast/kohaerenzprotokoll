@@ -1,0 +1,70 @@
+{
+ "slug": "mining-report-kohaerenz-protokoll-plot-outline-construction",
+ "sha256": "6be2387551d069a3086454ef03dbdad083c1e21b221f32b46d2a8b0e33b47693",
+ "lines": 118,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Mining-Report: \"Kohärenz Protokoll\" — Plot/Outline Construction Blocks",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Mining-Report: \"Kohärenz Protokoll\" — Plot/Outline Construction Blocks",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "1. Introduction: The Architecture of Multiplicity",
+   "line": 13
+  },
+  {
+   "level": 4,
+   "title": "2. MC-A: Kael & The Coherence of Memory",
+   "line": 17
+  },
+  {
+   "level": 4,
+   "title": "3. MC-B: AEGIS & The Progress of Erasure",
+   "line": 25
+  },
+  {
+   "level": 4,
+   "title": "4. IC-A & IC-B: The Adversarial Witnesses",
+   "line": 32
+  },
+  {
+   "level": 4,
+   "title": "5. OS-A & OS-B: The Objective Reality of the Matrix",
+   "line": 41
+  },
+  {
+   "level": 5,
+   "title": "System Logs (K0) vs. Sensory Hallucinations (K1)",
+   "line": 48
+  },
+  {
+   "level": 4,
+   "title": "6. RS-A & RS-B: The Subjective Interaction",
+   "line": 60
+  },
+  {
+   "level": 4,
+   "title": "7. The Vortex: Convergence and Pivot (Chapters 35–36)",
+   "line": 67
+  },
+  {
+   "level": 4,
+   "title": "8. Open Questions: Post-Vortex & Somatics",
+   "line": 77
+  },
+  {
+   "level": 4,
+   "title": "9. INDEX: Seed Categorization Matrix",
+   "line": 86
+  },
+  {
+   "level": 4,
+   "title": "10. Final Constraints Check",
+   "line": 112
+  }
+ ]
+}

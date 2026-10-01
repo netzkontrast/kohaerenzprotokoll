@@ -1,0 +1,190 @@
+{
+ "slug": "wahrheitstheorien-kohaerenz-vs-korrespondenz",
+ "sha256": "6617178abce51da2cb055bb9644ecbd2b7a88732a8954ea075c14e0bb4798a18",
+ "lines": 437,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Wahrheitstheorien: Kohärenz vs. Korrespondenz",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Die Architektur der Wahrheit: Eine umfassende Analyse der Korrespondenz- und Kohärenztheorien in der zeitgenössischen Epistemologie",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "1. Einleitung: Die ontologische Kluft und die Frage nach der Wahrheit",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "2. Die Korrespondenztheorie: Der Realismus und die Unabhängigkeit der Welt",
+   "line": 31
+  },
+  {
+   "level": 3,
+   "title": "2.1. Das fundamentale Prinzip der Übereinstimmung",
+   "line": 36
+  },
+  {
+   "level": 3,
+   "title": "2.2. Logischer Atomismus und Strukturisomorphie",
+   "line": 46
+  },
+  {
+   "level": 3,
+   "title": "2.3. Herausforderungen: Das Zugangsproblem und das Slingshot-Argument",
+   "line": 58
+  },
+  {
+   "level": 4,
+   "title": "2.3.1. Das Problem des Gottesauges (God’s Eye View)",
+   "line": 63
+  },
+  {
+   "level": 4,
+   "title": "2.3.2. Das Slingshot-Argument (Die Steinschleuder)",
+   "line": 73
+  },
+  {
+   "level": 2,
+   "title": "3. Die Kohärenztheorie: Systemische Integrität und Idealismus",
+   "line": 93
+  },
+  {
+   "level": 3,
+   "title": "3.1. Der metaphysische Holismus des Idealismus",
+   "line": 98
+  },
+  {
+   "level": 3,
+   "title": "3.2. Das Isolationsproblem und der Einwand von Russell",
+   "line": 110
+  },
+  {
+   "level": 4,
+   "title": "3.2.1. Bishop Stubbs und die Hinrichtung",
+   "line": 118
+  },
+  {
+   "level": 2,
+   "title": "4. Der Wiener Kreis: Die Protokollsatzdebatte als epistemologischer Brennpunkt",
+   "line": 137
+  },
+  {
+   "level": 3,
+   "title": "4.1. Moritz Schlick: Die Rückkehr zur Korrespondenz durch Konstatierungen",
+   "line": 145
+  },
+  {
+   "level": 3,
+   "title": "4.2. Otto Neurath: Der radikale Kohärentismus und das Schiffs-Gleichnis",
+   "line": 160
+  },
+  {
+   "level": 4,
+   "title": "4.2.1. Neuraths Boot",
+   "line": 170
+  },
+  {
+   "level": 3,
+   "title": "4.3. Carnaps Vermittlungsversuch und der Weg zur Semantik",
+   "line": 186
+  },
+  {
+   "level": 2,
+   "title": "5. Die linguistische Wende: Semantik, Tarski und Davidson",
+   "line": 196
+  },
+  {
+   "level": 3,
+   "title": "5.1. Alfred Tarski und die Konvention T",
+   "line": 204
+  },
+  {
+   "level": 3,
+   "title": "5.2. Der Interpretationsstreit: Korrespondenz oder Deflationismus?",
+   "line": 222
+  },
+  {
+   "level": 3,
+   "title": "5.3. Donald Davidson: Wahrheit ohne Fakten",
+   "line": 233
+  },
+  {
+   "level": 2,
+   "title": "6. Deflationismus und Minimalismus: Die Auflösung des Problems?",
+   "line": 243
+  },
+  {
+   "level": 3,
+   "title": "6.1. Ramsey und die Redundanztheorie",
+   "line": 251
+  },
+  {
+   "level": 3,
+   "title": "6.2. Horwichs Minimalismus",
+   "line": 259
+  },
+  {
+   "level": 2,
+   "title": "7. Pragmatismus, Interner Realismus und das Ende der Repräsentation",
+   "line": 269
+  },
+  {
+   "level": 3,
+   "title": "7.1. Hilary Putnam: Vom Metaphysischen zum Internen Realismus",
+   "line": 277
+  },
+  {
+   "level": 3,
+   "title": "7.2. Richard Rorty: Philosophie und der Spiegel der Natur",
+   "line": 287
+  },
+  {
+   "level": 2,
+   "title": "8. Die Diskurstheorie: Wahrheit als Konsens bei Habermas",
+   "line": 297
+  },
+  {
+   "level": 3,
+   "title": "8.1. Die ideale Sprechsituation",
+   "line": 305
+  },
+  {
+   "level": 3,
+   "title": "8.2. Wahrheit vs. Richtigkeit",
+   "line": 319
+  },
+  {
+   "level": 2,
+   "title": "9. Synthese und Ausblick: Methodologischer Kohärentismus und Ontologischer Realismus",
+   "line": 332
+  },
+  {
+   "level": 3,
+   "title": "9.1. Die Trennung von Definition und Kriterium",
+   "line": 340
+  },
+  {
+   "level": 3,
+   "title": "9.2. Relevanz für Künstliche Intelligenz (KI)",
+   "line": 353
+  },
+  {
+   "level": 2,
+   "title": "10. Fazit",
+   "line": 365
+  },
+  {
+   "level": 3,
+   "title": "Vergleichende Übersicht der Wahrheitstheorien",
+   "line": 379
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 392
+  }
+ ]
+}

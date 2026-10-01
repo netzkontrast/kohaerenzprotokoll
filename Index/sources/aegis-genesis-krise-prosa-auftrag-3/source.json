@@ -1,0 +1,20 @@
+{
+ "slug": "aegis-genesis-krise-prosa-auftrag-3",
+ "sha256": "102e2ce1edf1c74a8ad72dd268e879bfc44485181b40fa26e27e3cabe8744204",
+ "lines": 130,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "AEGIS Genesis-Krise: Prosa-Auftrag",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Die Genesis-Krise von AEGIS",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 91
+  }
+ ]
+}

@@ -1,0 +1,225 @@
+{
+ "slug": "research-prompt-dramatica-dual-storyform-mapping-md",
+ "sha256": "276c77d85edb42ea9b2d2e6810eaa6f57cb90d3e4f57635a549df6dd95504f2e",
+ "lines": 1040,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "research-prompt_dramatica-dual-storyform-mapping.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Research Prompt: Dramatica Dual-Storyform — Mathematische Mapping-Absicherung für „Kohärenz Protokoll\"",
+   "line": 43
+  },
+  {
+   "level": 2,
+   "title": "Meta-Header — Was dieser Prompt ist und wie du ihn liest",
+   "line": 51
+  },
+  {
+   "level": 3,
+   "title": "1. Epistemologische Schicht — Kategorie A (Exploration)",
+   "line": 55
+  },
+  {
+   "level": 3,
+   "title": "2. Agentisches Rückgrat — ReAct (Reason · Act · Observe)",
+   "line": 75
+  },
+  {
+   "level": 3,
+   "title": "3. Strukturelle Schicht — MIRROR (bespoke synthetisiert)",
+   "line": 119
+  },
+  {
+   "level": 2,
+   "title": "Forschungsziel",
+   "line": 161
+  },
+  {
+   "level": 2,
+   "title": "Story-Hintergrund — extrem knapp (Konstrukte mit max. 2 Sätzen)",
+   "line": 187
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCKS",
+   "line": 231
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 0 — Reflection Baseline (Always Active · v2.1)",
+   "line": 233
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 1 — Source Priority Rules",
+   "line": 287
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 2 — Temporal Scope",
+   "line": 295
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 3 — Output Exclusions",
+   "line": 299
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 4 — Story-Knappheit-Disziplin (max 2 Sätze pro Story-Konzept)",
+   "line": 311
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 5 — NotebookLM Adversarial-Befragungs-Mandat",
+   "line": 315
+  },
+  {
+   "level": 2,
+   "title": "CRITICAL-THINKING METHODS — Throughout Execution Active",
+   "line": 336
+  },
+  {
+   "level": 3,
+   "title": "Method: Falsification (Karl Popper's Disconfirmation Principle)",
+   "line": 340
+  },
+  {
+   "level": 3,
+   "title": "Method: Steelmanning (Strongest-Version Reconstruction)",
+   "line": 367
+  },
+  {
+   "level": 3,
+   "title": "Method: Contradiction Log",
+   "line": 394
+  },
+  {
+   "level": 3,
+   "title": "Method: First-Principles Decomposition",
+   "line": 421
+  },
+  {
+   "level": 3,
+   "title": "Method: Adversarial Query Expansion (MANDATORY · v2.1)",
+   "line": 448
+  },
+  {
+   "level": 2,
+   "title": "MIRROR — Strukturelle Sektionen",
+   "line": 503
+  },
+  {
+   "level": 3,
+   "title": "M — Mathematische Axiome (Erste-Aktion-Restate, MIRROR-bindend)",
+   "line": 505
+  },
+  {
+   "level": 3,
+   "title": "I — Inversions-Spiegel-Definition (Erste-Aktion-Restate, MIRROR-bindend)",
+   "line": 545
+  },
+  {
+   "level": 3,
+   "title": "R — Reibungs-Topologie",
+   "line": 553
+  },
+  {
+   "level": 3,
+   "title": "R — Recherche adversarial NotebookLM",
+   "line": 564
+  },
+  {
+   "level": 3,
+   "title": "O — Output-Alternativen",
+   "line": 568
+  },
+  {
+   "level": 3,
+   "title": "R — Rationalisierungs-Audit",
+   "line": 572
+  },
+  {
+   "level": 2,
+   "title": "STEPS — Ausführungs-Reihenfolge",
+   "line": 591
+  },
+  {
+   "level": 3,
+   "title": "Restatement Checkpoint — Vor Step 1",
+   "line": 595
+  },
+  {
+   "level": 3,
+   "title": "Step 1 — Mathematische-Axiome-Restate (MIRROR.M)",
+   "line": 624
+  },
+  {
+   "level": 3,
+   "title": "Step 2 — First-Principles-Zerlegung der Spiegelungs-Frage (MIRROR.I)",
+   "line": 628
+  },
+  {
+   "level": 3,
+   "title": "Step 3 — Konfirmatorische und orthogonale Suche pro Hypothese (MIRROR.R Recherche)",
+   "line": 647
+  },
+  {
+   "level": 3,
+   "title": "Step 4 — Adversarial Query Expansion entlang aller vier Achsen",
+   "line": 661
+  },
+  {
+   "level": 3,
+   "title": "Step 5 — Steelmanning der bisherigen Storyforms A/B (Kontrast)",
+   "line": 677
+  },
+  {
+   "level": 3,
+   "title": "Step 6 — Surviving-Mapping-Triangulation (cross-pollination from Category B)",
+   "line": 685
+  },
+  {
+   "level": 3,
+   "title": "Step 7 — Hypothesis Half-Life Audit (cross-pollination from Category C)",
+   "line": 715
+  },
+  {
+   "level": 3,
+   "title": "Step 8 — Rationalisierungs-Audit (MIRROR letztes R)",
+   "line": 743
+  },
+  {
+   "level": 3,
+   "title": "Step 9 — Pre-Synthesis Integrity Check",
+   "line": 751
+  },
+  {
+   "level": 3,
+   "title": "Step 10 — Synthesis",
+   "line": 755
+  },
+  {
+   "level": 2,
+   "title": "PRE-SYNTHESIS INTEGRITY CHECK",
+   "line": 763
+  },
+  {
+   "level": 2,
+   "title": "SYNTHESIS — Finale Output-Struktur",
+   "line": 807
+  },
+  {
+   "level": 2,
+   "title": "SELF-VERIFICATION CHECKLIST FOR THE EXECUTING AI (v2.1 · 11 Items)",
+   "line": 1003
+  },
+  {
+   "level": 2,
+   "title": "Spezial-Erinnerung — NotebookLM-Mandat",
+   "line": 1029
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "slug": "kapitel-kompendium-gather-2026-05-31-md",
+ "sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+ "lines": 308,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kapitel-Kompendium_Gather_2026-05-31.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Kapitel-Kompendium (Gather-Stand)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "§0 · Querschnitt-Kanon (gilt für ALLE Kapitel)",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "§1 · Strukturelle Achsen (drei simultane Ebenen)",
+   "line": 62
+  },
+  {
+   "level": 2,
+   "title": "§2 · Storyform-Storypoints (A‖B) [K] für Werte, [V] für Signpost-Reihenfolge",
+   "line": 98
+  },
+  {
+   "level": 2,
+   "title": "§3 · Kernwelten-Matrix (Akt-Marker, KEINE Geographie, KEIN Guardian-1:1) [K]",
+   "line": 158
+  },
+  {
+   "level": 2,
+   "title": "§4 · Kapitel-für-Kapitel (Outline + konkrete Story + Storypoints + Foci)",
+   "line": 176
+  },
+  {
+   "level": 3,
+   "title": "Kap 0 — Genesis-Prolog [K]",
+   "line": 180
+  },
+  {
+   "level": 3,
+   "title": "Akt I — Heldinnenreise innen (Kap 1–13) [K]",
+   "line": 184
+  },
+  {
+   "level": 3,
+   "title": "Akt II — Zyklischer Modus (Kap 14–26) [K] Struktur / [S] Szenen-Detail",
+   "line": 204
+  },
+  {
+   "level": 3,
+   "title": "Akt III Phase A — Heldenreise außen (Kap 27–34) [K] Struktur / [S]/[L] Detail",
+   "line": 220
+  },
+  {
+   "level": 3,
+   "title": "Vortex 1 (Kap 35–36) — Operative Wendung [K]",
+   "line": 230
+  },
+  {
+   "level": 3,
+   "title": "Trügerischer Sieg (Kap 37) — Reward-Beat [K]",
+   "line": 234
+  },
+  {
+   "level": 3,
+   "title": "Vortex 2 (Kap 38–39) — Ontologische Wendung / Plurale Apotheose [K]",
+   "line": 238
+  },
+  {
+   "level": 3,
+   "title": "Kap 40 — Geheilte Genesis (Coda) [K]",
+   "line": 242
+  },
+  {
+   "level": 2,
+   "title": "§5 · Stadien-Systeme (für die Stadien-Map) — Stand & Lücken",
+   "line": 250
+  },
+  {
+   "level": 2,
+   "title": "§6 · Offene Lücken & Fragen (vor Blueprint/Stadien-Map zu schließen)",
+   "line": 274
+  },
+  {
+   "level": 2,
+   "title": "§7 · Vorgeschlagene Dokument-Serie für das Claude-Code-Projekt",
+   "line": 287
+  }
+ ]
+}

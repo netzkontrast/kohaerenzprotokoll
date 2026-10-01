@@ -1,0 +1,20 @@
+{
+ "slug": "kael-system-tsdp-analyse-und-profile",
+ "sha256": "59d8093946a952231e3950e8e6a92386ce58c6b4741186e4f5be2f4f37e40682",
+ "lines": 459,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kael System: TSDP-Analyse und Profile",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Detaillierte Analyse der Spannungspunkte und Ausarbeitung der Charakterprofile für System Kael (Kohärenz Protokoll) auf Basis der Theorie der Strukturellen Dissoziation",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 417
+  }
+ ]
+}

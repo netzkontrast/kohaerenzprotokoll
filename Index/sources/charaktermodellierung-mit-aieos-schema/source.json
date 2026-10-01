@@ -1,0 +1,125 @@
+{
+ "slug": "charaktermodellierung-mit-aieos-schema",
+ "sha256": "53666467e2298fc83acfaeec9a2a3c3d26feff663f2ded212958bddbf121da3f",
+ "lines": 222,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Charaktermodellierung mit AIEOS Schema",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Evaluation der AIEOS-Systemarchitektur zur psychologischen und ontologischen Modellierung der Entitäten des Kohärenz-Protokolls",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Einleitung: Die ontologische Schnittstelle zwischen Schema und Narrativ",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "2. Epistemologische und Ontologische Grundlagen des Konstrukts",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "2.1. Wahrheitstheoretische Implikationen: Korrespondenz vs. Kohärenz",
+   "line": 25
+  },
+  {
+   "level": 3,
+   "title": "2.2. Physikalische Limitierungen und Unvollständigkeit",
+   "line": 31
+  },
+  {
+   "level": 2,
+   "title": "3. Architektonische Stärken des AIEOS-Schemas in der Charakterabbildung",
+   "line": 37
+  },
+  {
+   "level": 3,
+   "title": "3.1. Die Granularität des psychologischen Profils (psychology)",
+   "line": 41
+  },
+  {
+   "level": 3,
+   "title": "3.2. Linguistische Signatur und Wittgensteins Grenze (linguistics)",
+   "line": 49
+  },
+  {
+   "level": 3,
+   "title": "3.3. Temporale Frakturierung und die Historie (history)",
+   "line": 55
+  },
+  {
+   "level": 2,
+   "title": "4. Architektonische Schwächen und epistemologische Limitierungen",
+   "line": 61
+  },
+  {
+   "level": 3,
+   "title": "4.1. Das Fehlen der Relationalen Ontologie und intra-systemischer Verschränkung",
+   "line": 65
+  },
+  {
+   "level": 3,
+   "title": "4.2. Das Paradoxon der AEGIS-Modellierung und der Anthropomorphismus",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "4.3. Die Repräsentation des Nichts: Das Moros-Paradoxon",
+   "line": 79
+  },
+  {
+   "level": 2,
+   "title": "5. Synthetische Fallbeispiele: Die exekutive Anwendung des Schemas",
+   "line": 85
+  },
+  {
+   "level": 3,
+   "title": "5.1. Fallbeispiel: Lex (Der Rationale ANP)",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "5.2. Fallbeispiel: Kiko (Kind / Angst / Freeze EP)",
+   "line": 108
+  },
+  {
+   "level": 3,
+   "title": "5.3. Fallbeispiel: Nyx (Der Kämpfer EP)",
+   "line": 126
+  },
+  {
+   "level": 3,
+   "title": "5.4. Fallbeispiel: Selene (Die Integratorin / ISH)",
+   "line": 143
+  },
+  {
+   "level": 3,
+   "title": "5.5. Fallbeispiel: Kael (Der Host / Primärer ANP)",
+   "line": 160
+  },
+  {
+   "level": 2,
+   "title": "6. Meta-Narrative Eskalation: Datenexport und die Externe Ebene (Köln 2026)",
+   "line": 176
+  },
+  {
+   "level": 2,
+   "title": "7. Strukturvorschläge zur Schema-Erweiterung (Conceptual Engineering)",
+   "line": 184
+  },
+  {
+   "level": 2,
+   "title": "8. Fazit",
+   "line": 195
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 203
+  }
+ ]
+}

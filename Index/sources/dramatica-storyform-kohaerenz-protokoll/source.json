@@ -1,0 +1,65 @@
+{
+ "slug": "dramatica-storyform-kohaerenz-protokoll",
+ "sha256": "753d8eae0904ce0ae6df8eedae10f5e36d784ce106743c76e8dc190b6958be15",
+ "lines": 70,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Dramatica Storyform: \"Kohärenz Protokoll\"",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Dramatica Storyform: \"Kohärenz Protokoll\"",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "1.0 Introduction: Formalizing the \"Story Mind\"",
+   "line": 13
+  },
+  {
+   "level": 4,
+   "title": "2.0 Story Dynamics: The Physics of the Grand Argument",
+   "line": 17
+  },
+  {
+   "level": 5,
+   "title": "2.1 Core Narrative Dynamics",
+   "line": 21
+  },
+  {
+   "level": 4,
+   "title": "3.0 Throughline Analysis: The Four Core Perspectives",
+   "line": 27
+  },
+  {
+   "level": 5,
+   "title": "3.1 Overall Story (OS) Throughline: The Systemic Conflict of a Flawed Reality",
+   "line": 31
+  },
+  {
+   "level": 5,
+   "title": "3.2 Main Character (MC) Throughline: Kael's Journey of Integration",
+   "line": 39
+  },
+  {
+   "level": 5,
+   "title": "3.3 Impact Character (IC) Throughline: The Influence of Juna/V",
+   "line": 47
+  },
+  {
+   "level": 5,
+   "title": "3.4 Subjective Story (SS) Throughline: The Kael-Juna/V \"Moonshine-Link\"",
+   "line": 55
+  },
+  {
+   "level": 4,
+   "title": "4.0 Thematic Resonance: Mapping Throughlines to the Kernwelten",
+   "line": 63
+  },
+  {
+   "level": 4,
+   "title": "5.0 Conclusion: The Grand Argument Synthesized",
+   "line": 67
+  }
+ ]
+}

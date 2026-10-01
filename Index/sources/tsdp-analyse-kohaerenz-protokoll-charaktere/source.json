@@ -1,0 +1,275 @@
+{
+ "slug": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+ "sha256": "828302da0854e42de39aceaa880a74e4cd1c19a44d264050461472324d54a3f1",
+ "lines": 423,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "TSDP-Analyse: Kohärenz Protokoll Charaktere",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Spannungspunktanalyse und Charakterausarbeitung für „Kohärenz Protokoll“ (TSDP-basiert)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "1.1 Zweck des Berichts",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "1.2 Umfang der Analyse",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "1.3 Methodologischer Rahmen",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "1.4 Angestrebtes Ergebnis",
+   "line": 27
+  },
+  {
+   "level": 2,
+   "title": "2. Theoretischer Rahmen: Verständnis von System Kael durch TSDP",
+   "line": 31
+  },
+  {
+   "level": 3,
+   "title": "2.1 Kernprinzipien der Strukturellen Dissoziation",
+   "line": 33
+  },
+  {
+   "level": 4,
+   "title": "2.1.1 Dissoziation als Überlebensmechanismus",
+   "line": 35
+  },
+  {
+   "level": 4,
+   "title": "2.1.2 Anscheinend Normale Persönlichkeitsanteile (ANPs)",
+   "line": 39
+  },
+  {
+   "level": 4,
+   "title": "2.1.3 Emotionale Persönlichkeitsanteile (EPs)",
+   "line": 43
+  },
+  {
+   "level": 4,
+   "title": "2.1.4 Aktionssysteme",
+   "line": 47
+  },
+  {
+   "level": 4,
+   "title": "2.1.5 Ebenen der Strukturellen Dissoziation",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "2.2 Schlüsseldynamiken in strukturell dissoziierten Systemen",
+   "line": 64
+  },
+  {
+   "level": 4,
+   "title": "2.2.1 Phobien zwischen Anteilen",
+   "line": 66
+  },
+  {
+   "level": 4,
+   "title": "2.2.2 Intrusion und Wiedererleben",
+   "line": 74
+  },
+  {
+   "level": 4,
+   "title": "2.2.3 Amnesie und dissoziative Barrieren",
+   "line": 78
+  },
+  {
+   "level": 4,
+   "title": "2.2.4 Switching und Ko-Bewusstsein",
+   "line": 88
+  },
+  {
+   "level": 4,
+   "title": "2.2.5 Integration",
+   "line": 92
+  },
+  {
+   "level": 3,
+   "title": "2.3 Relevanz von Trauma- und Systemperspektiven",
+   "line": 96
+  },
+  {
+   "level": 4,
+   "title": "2.3.1 Trauma-Ätiologie",
+   "line": 98
+  },
+  {
+   "level": 4,
+   "title": "2.3.2 Systemtheoretische Analogien",
+   "line": 102
+  },
+  {
+   "level": 2,
+   "title": "3. Spannungspunktanalyse: Die interne Landschaft von System Kael",
+   "line": 114
+  },
+  {
+   "level": 3,
+   "title": "3.1 Interne Konflikte und Phobien",
+   "line": 116
+  },
+  {
+   "level": 4,
+   "title": "3.1.1 ANP-EP Phobische Vermeidung",
+   "line": 120
+  },
+  {
+   "level": 4,
+   "title": "3.1.2 ANP Strategische Divergenz (ANP-ANP Konflikte)",
+   "line": 132
+  },
+  {
+   "level": 4,
+   "title": "3.1.3 EP Relationale Spannungen (EP-EP Dynamiken)",
+   "line": 142
+  },
+  {
+   "level": 4,
+   "title": "3.1.4 Matrix Interner Konflikte und Phobien",
+   "line": 154
+  },
+  {
+   "level": 3,
+   "title": "3.2 Systeminteraktionen",
+   "line": 172
+  },
+  {
+   "level": 4,
+   "title": "3.2.1 Reaktionen auf die Kernwelten (Co₁, McL, B, Ly)",
+   "line": 176
+  },
+  {
+   "level": 4,
+   "title": "3.2.2 Beziehung zu AEGIS",
+   "line": 184
+  },
+  {
+   "level": 4,
+   "title": "3.2.3 Wahrnehmung und Auswirkung von Juna/V",
+   "line": 195
+  },
+  {
+   "level": 3,
+   "title": "3.3 Auswirkungen dissoziativer Barrieren",
+   "line": 203
+  },
+  {
+   "level": 2,
+   "title": "4. Ausgearbeitete Charakterprofile (TSDP-basiert)",
+   "line": 212
+  },
+  {
+   "level": 3,
+   "title": "4.1 Kael (Primärer ANP - Host)",
+   "line": 216
+  },
+  {
+   "level": 3,
+   "title": "4.2 Selene (Modifizierter ANP / Integratorin?)",
+   "line": 223
+  },
+  {
+   "level": 3,
+   "title": "4.3 Nyx (EP - Kampf)",
+   "line": 230
+  },
+  {
+   "level": 3,
+   "title": "4.4 Kiko (EP - Kind - Flucht/Erstarrung/Bindungsruf)",
+   "line": 237
+  },
+  {
+   "level": 3,
+   "title": "4.5 Lia (EP - Kind - Flucht/Ambivalente Bindung)",
+   "line": 244
+  },
+  {
+   "level": 3,
+   "title": "4.6 Isabelle (EP - Sexualisierter Kampf/Kontrolle)",
+   "line": 251
+  },
+  {
+   "level": 3,
+   "title": "4.7 Moros (EP - Erstarrung/Unterwerfung/Kollaps)",
+   "line": 258
+  },
+  {
+   "level": 3,
+   "title": "4.8 Alex (Sekundärer ANP - Beschützer)",
+   "line": 265
+  },
+  {
+   "level": 3,
+   "title": "4.9 Rhys (Sekundärer ANP - Pfleger/Beziehungsorientierter)",
+   "line": 272
+  },
+  {
+   "level": 3,
+   "title": "4.10 Lex (Primärer ANP - Rationalist)",
+   "line": 279
+  },
+  {
+   "level": 3,
+   "title": "4.11 Argus (Entstehender ANP/EP-Mix - Metakognitiver Beobachter/Kritiker)",
+   "line": 286
+  },
+  {
+   "level": 3,
+   "title": "4.12 Tabelle: Integrationshaltung und -pfad der Anteile",
+   "line": 293
+  },
+  {
+   "level": 2,
+   "title": "5. Synthese und Narrative Implementierungsempfehlungen",
+   "line": 312
+  },
+  {
+   "level": 3,
+   "title": "5.1 Überblick über die zentralen systemischen Spannungen",
+   "line": 314
+  },
+  {
+   "level": 3,
+   "title": "5.2 Kernentwicklungsbögen im System",
+   "line": 324
+  },
+  {
+   "level": 3,
+   "title": "5.3 Übersetzung der Dynamiken in Plot und Darstellung",
+   "line": 336
+  },
+  {
+   "level": 3,
+   "title": "5.4 Nutzung der Roman-spezifischen Elemente",
+   "line": 367
+  },
+  {
+   "level": 3,
+   "title": "5.5 Wahrung der Authentizität",
+   "line": 376
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 387
+  }
+ ]
+}

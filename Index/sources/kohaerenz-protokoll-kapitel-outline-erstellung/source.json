@@ -1,0 +1,275 @@
+{
+ "slug": "kohaerenz-protokoll-kapitel-outline-erstellung",
+ "sha256": "8dba973e4b10e6d71f880b66206d432c4fa7ea68330238b654a0a7cddb2c5a2c",
+ "lines": 1435,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Kapitel-Outline Erstellung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — 39-Kapitel-Outline (Dual-Storyform-Encoding)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Klappentext",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "-----Akt I — Kapitel 1–13",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 1 — The Rebooted Self",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 2 — The Logic of the City",
+   "line": 53
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 3 — A Fissure in the Data Stream",
+   "line": 81
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 4 — The Resonant Intrusion",
+   "line": 109
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 5 — The Unseen Observer",
+   "line": 137
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 6 — The Shattering of Logos",
+   "line": 165
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 7 — The Mnemosyne Archipelago",
+   "line": 193
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 8 — The Forgotten Shrine",
+   "line": 227
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 9 — Flight into the Fortress",
+   "line": 255
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 10 — Die angewandte Harmonie",
+   "line": 283
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 11 — Das Mosaik des Selbst",
+   "line": 311
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 12 — Die Stille der Mitte",
+   "line": 339
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 13 — Der Tanz im Garten",
+   "line": 367
+  },
+  {
+   "level": 2,
+   "title": "-----Akt II — Anatomie der Spaltung (Kapitel 14–26)",
+   "line": 401
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 14 — System Analysis",
+   "line": 405
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 15 — The Society of Alters",
+   "line": 439
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 16 — The Discursive Gambit",
+   "line": 467
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 17 — AEGIS's Misalignment",
+   "line": 495
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 18 — The Positive Intent of the Persecutor",
+   "line": 523
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 19 — The Moonshine Anomaly",
+   "line": 551
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 20 — The Unreliable Narrator",
+   "line": 579
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 21 — The Cache Coherence Failure",
+   "line": 613
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 22 — The Logic of the Guardians",
+   "line": 641
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 23 — The Polyphonic Voice",
+   "line": 669
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 24 — Das Echo der Kernwunde",
+   "line": 697
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 25 — Die Wahl der Konfrontation",
+   "line": 725
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 26 — The Labyrinth of Algorithmic Horror",
+   "line": 753
+  },
+  {
+   "level": 2,
+   "title": "-----Akt III — Existenzielle Fusion (Kapitel 27–39)",
+   "line": 787
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 27 — The Contradictory State",
+   "line": 791
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 28 — The Logic Tumor",
+   "line": 824
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 29 — The Living Paradox",
+   "line": 852
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 30 — Algorithmic Melancholy (Der narrative Köder)",
+   "line": 880
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 31 — The Unraveling World",
+   "line": 908
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 32 — The Fate of the Guardians",
+   "line": 936
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 33 — The Gardener",
+   "line": 970
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 34 — The Dissonant Resonance",
+   "line": 1003
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 35 — Die dissipative Schwelle",
+   "line": 1035
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 36 — Die Freiheit des Seins",
+   "line": 1074
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 37 — Wellen der Ordnung",
+   "line": 1114
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 38 — Der unendliche Horizont",
+   "line": 1142
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 39 — Echo der Kohärenz",
+   "line": 1170
+  },
+  {
+   "level": 2,
+   "title": "-----Anhang A — Quellen-Inventar",
+   "line": 1202
+  },
+  {
+   "level": 2,
+   "title": "Anhang B — Verworfenes Legacy-Material",
+   "line": 1342
+  },
+  {
+   "level": 2,
+   "title": "Anhang C — Kanon-Drift-Log",
+   "line": 1351
+  },
+  {
+   "level": 2,
+   "title": "Anhang D — Reflection History",
+   "line": 1357
+  },
+  {
+   "level": 2,
+   "title": "Anhang E — Query Expansion Log",
+   "line": 1399
+  },
+  {
+   "level": 2,
+   "title": "Anhang F — Contradiction Log",
+   "line": 1406
+  },
+  {
+   "level": 2,
+   "title": "Anhang G — Cross-Pollination Log",
+   "line": 1412
+  },
+  {
+   "level": 2,
+   "title": "Anhang H — Methodology Note",
+   "line": 1417
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 1429
+  }
+ ]
+}

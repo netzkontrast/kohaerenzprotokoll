@@ -1,0 +1,100 @@
+{
+ "slug": "romanprojekt-kohaerenz-protokoll-analyse",
+ "sha256": "778172757f0ca2fe5629f843d790bbea9aa991b3c6559c3043151db1f6c9e765",
+ "lines": 144,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Romanprojekt Kohärenz Protokoll Analyse",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Synthese-Report: Architektur, Ontologie und Systemik des „Kohärenz Protokolls“",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Konsens",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "1.1 Die Dual-Storyform-Interferenz und der mechanische Pivot",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "1.2 Die autopoietische Tragik von AEGIS (K0/K1-Dialetheia)",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "1.3 Junas topologische Omnipräsenz (Doppel-IC-Verortung)",
+   "line": 25
+  },
+  {
+   "level": 3,
+   "title": "1.4 Die physikalische Literalität (Dual-Kernel-Theorie und Landauer-Limit)",
+   "line": 29
+  },
+  {
+   "level": 3,
+   "title": "1.5 Leser als ontologisches Substrat (Iser-Mechanik)",
+   "line": 33
+  },
+  {
+   "level": 3,
+   "title": "1.6 Die Genesis-Symmetrie (Mythos und Biographie)",
+   "line": 37
+  },
+  {
+   "level": 2,
+   "title": "2. Widersprüche",
+   "line": 41
+  },
+  {
+   "level": 2,
+   "title": "3. Lücken",
+   "line": 56
+  },
+  {
+   "level": 3,
+   "title": "3.1 Unzureichend operationalisierte System-Postulate",
+   "line": 60
+  },
+  {
+   "level": 3,
+   "title": "3.2 Epistemologische und strukturelle Gaps",
+   "line": 67
+  },
+  {
+   "level": 2,
+   "title": "4. Synthese und Operationalisierung",
+   "line": 73
+  },
+  {
+   "level": 3,
+   "title": "4.1 Narratologische Mechanik des Vortex (Kapitel 35–36)",
+   "line": 77
+  },
+  {
+   "level": 3,
+   "title": "4.2 Die Phänomenologie der Juna (Negative Space Writing)",
+   "line": 87
+  },
+  {
+   "level": 3,
+   "title": "4.3 Reduktion des System-Lores (Protokolle & Wächter)",
+   "line": 95
+  },
+  {
+   "level": 3,
+   "title": "4.4 Reader-Substrat-Zwang und syntaktische Polyphonie",
+   "line": 116
+  },
+  {
+   "level": 3,
+   "title": "4.5 Das Ouroboros-Leitmotiv (F10) und das \"Falsche Ende\"",
+   "line": 130
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+ "sha256": "12d090564441167f8b381aadf1f176bc2d11f3f804dd771eb494877238a30160",
+ "lines": 426,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Roman-Plot-Entwicklung mit Kohärenzprotokoll",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Das Kohärenz Protokoll: Narrative Architektur und Vollständiger Plot-Blueprint",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Systemische und Ontologische Vorabanalyse",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "1.1. Interdisziplinärer Rechercheplan",
+   "line": 27
+  },
+  {
+   "level": 2,
+   "title": "2. Methodik der Szenengenerierung: Die Vier Linsen",
+   "line": 40
+  },
+  {
+   "level": 2,
+   "title": "-----3. Der Narrativ Optimierte Plot: Kapitel 1 bis 39 (+40/0)",
+   "line": 51
+  },
+  {
+   "level": 3,
+   "title": "TEIL I: Die Innere Reise zur Ganzheit (Kapitel 1–13)",
+   "line": 55
+  },
+  {
+   "level": 3,
+   "title": "-----TEIL II: Die Meta-Ebene & Zyklen der Realität (Kapitel 14–26)",
+   "line": 162
+  },
+  {
+   "level": 3,
+   "title": "-----TEIL III: Die Moonshine-Brücke (Die Äußere Konfrontation)",
+   "line": 270
+  },
+  {
+   "level": 3,
+   "title": "-----CODA: Die Rekursive Klammer",
+   "line": 378
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 394
+  }
+ ]
+}

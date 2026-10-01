@@ -1,0 +1,150 @@
+{
+ "slug": "spec-entwicklung-fuer-agentische-roman-entwicklung",
+ "sha256": "0ddbf70712af2dec0a8bc47044ca2a9a3a147c27c4784362e99cd420a785154b",
+ "lines": 499,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Spec-Entwicklung für agentische Roman-Entwicklung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Spec-Driven Specification Artifact für agentic Dramatica-basierte Novel-Entwicklung",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Exekutive Architekturspezifikation",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Operationale Grenzen und Agentenprofil",
+   "line": 17
+  },
+  {
+   "level": 2,
+   "title": "Ontologische Architektur: Der Dramatica Story Mind",
+   "line": 21
+  },
+  {
+   "level": 2,
+   "title": "Wertebereich und Enumeration (Choice-Space)",
+   "line": 131
+  },
+  {
+   "level": 2,
+   "title": "Strukturelle Interaktions-Constraints",
+   "line": 147
+  },
+  {
+   "level": 2,
+   "title": "Deklaration der Coherence-Invarianten",
+   "line": 163
+  },
+  {
+   "level": 2,
+   "title": "Mehrstufige Contradiction-Detection",
+   "line": 220
+  },
+  {
+   "level": 3,
+   "title": "Klasse 1: Strukturelle Contradictions",
+   "line": 224
+  },
+  {
+   "level": 3,
+   "title": "Klasse 2: Inhaltliche Contradictions",
+   "line": 231
+  },
+  {
+   "level": 3,
+   "title": "Klasse 3: Pragmatische Contradictions",
+   "line": 238
+  },
+  {
+   "level": 2,
+   "title": "Das Clarifying-Question-Protokoll (CQ)",
+   "line": 245
+  },
+  {
+   "level": 2,
+   "title": "Sequenzielle Phasen-Transitions-Verträge",
+   "line": 288
+  },
+  {
+   "level": 2,
+   "title": "Working-State Schema und Memory Management",
+   "line": 302
+  },
+  {
+   "level": 2,
+   "title": "Fehlerkatalog (Failure-Modes) und Recovery",
+   "line": 346
+  },
+  {
+   "level": 2,
+   "title": "Regression-Verification Suite",
+   "line": 366
+  },
+  {
+   "level": 1,
+   "title": "-----Systemic Architectural Audit and Evaluative Records",
+   "line": 374
+  },
+  {
+   "level": 2,
+   "title": "Architectural Decision Records (ADRs)",
+   "line": 378
+  },
+  {
+   "level": 3,
+   "title": "ADR-01: Spezifikations-Format (Syntax und Semantik)",
+   "line": 382
+  },
+  {
+   "level": 3,
+   "title": "ADR-02: Phasen-Granularität und Linearität",
+   "line": 390
+  },
+  {
+   "level": 3,
+   "title": "ADR-03: Validierungsfrequenz der Kohärenz-Invarianten",
+   "line": 398
+  },
+  {
+   "level": 3,
+   "title": "ADR-04: Architektur der Contradiction-Detection",
+   "line": 402
+  },
+  {
+   "level": 3,
+   "title": "ADR-05: Repräsentation des Working-State",
+   "line": 414
+  },
+  {
+   "level": 3,
+   "title": "ADR-06: Memory-Management-Pattern",
+   "line": 418
+  },
+  {
+   "level": 3,
+   "title": "ADR-07: Interface für das Clarifying-Question-Protokoll",
+   "line": 422
+  },
+  {
+   "level": 3,
+   "title": "ADR-08: Fehler-Recovery-Muster",
+   "line": 426
+  },
+  {
+   "level": 2,
+   "title": "Systemstatus-Evaluierungen und Auditprotokolle",
+   "line": 430
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 450
+  }
+ ]
+}

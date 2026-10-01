@@ -1,0 +1,70 @@
+{
+ "slug": "character-dossier-the-opposing-logics-of-kael-and-aegis",
+ "sha256": "3bc5b2e426a93d73e21ce995a8ba801f72daa3efcfba9452bba8ab588f6356ae",
+ "lines": 112,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Character Dossier: The Opposing Logics of Kael and AEGIS",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Character Dossier: The Opposing Logics of Kael and AEGIS",
+   "line": 11
+  },
+  {
+   "level": 3,
+   "title": "1. Introduction: A Tale of Two Coherences",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "2. AEGIS: The Architecture of a Misguided God",
+   "line": 19
+  },
+  {
+   "level": 4,
+   "title": "2.1. The Prime Directive: To Be by Not-Not-Being",
+   "line": 23
+  },
+  {
+   "level": 4,
+   "title": "2.2. The Worldview: A Binary Reality of Coherent/Incoherent",
+   "line": 31
+  },
+  {
+   "level": 4,
+   "title": "2.3. The Tragic Flaw: When Control Creates Chaos",
+   "line": 40
+  },
+  {
+   "level": 3,
+   "title": "3. Kael: The Journey Toward an Integrated Self",
+   "line": 52
+  },
+  {
+   "level": 4,
+   "title": "3.1. The Fragmented Mind: A Portrait of Dissociation",
+   "line": 56
+  },
+  {
+   "level": 4,
+   "title": "3.2. The Healing Path: Achieving Functional Multiplicity",
+   "line": 68
+  },
+  {
+   "level": 3,
+   "title": "4. The Central Conflict: A Philosophical Showdown",
+   "line": 80
+  },
+  {
+   "level": 3,
+   "title": "5. The \"Gödel Gambit\": How Integration Becomes an Ontological Weapon",
+   "line": 94
+  },
+  {
+   "level": 3,
+   "title": "6. Conclusion: Two Models of Existence",
+   "line": 109
+  }
+ ]
+}

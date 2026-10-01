@@ -1,0 +1,110 @@
+{
+ "slug": "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
+ "sha256": "58721ad90ce980a35e28bbac8aee345d07d9ba240e578887002c3ead9a5e0026",
+ "lines": 231,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "KI-Assistent: Romanwelt-Kohärenz und AEGIS-Spec",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "AEGIS Spezifikation: Autonomous Entropy Gatekeeper for Identity Systems",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Analytischer Katalog der operativen Architekturen und System-Frameworks",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Iterative Sequenzierung und deterministisches Speichermanagement",
+   "line": 35
+  },
+  {
+   "level": 2,
+   "title": "Analytische Synthese und systematische Hypothesenbildung",
+   "line": 57
+  },
+  {
+   "level": 3,
+   "title": "Hypothese 1: Die Architektur der statischen Limitierung (Regelbasierte Exklusion)",
+   "line": 65
+  },
+  {
+   "level": 3,
+   "title": "Hypothese 2: Die Architektur des kompetitiven Marktes (RAG-basierte Supervisor-Korrektur)",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "Hypothese 3: Autopoietische Entropie-Regulation durch thermodynamische Inferenz (Selektierter Kandidat)",
+   "line": 77
+  },
+  {
+   "level": 2,
+   "title": "Theoretische Grundlagen der Entropiemessung und Determinismus",
+   "line": 85
+  },
+  {
+   "level": 3,
+   "title": "Die Illusion des Determinismus in der LLM-Inferenz",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "Quantifizierung von Unsicherheit: Semantic Entropy",
+   "line": 97
+  },
+  {
+   "level": 3,
+   "title": "Thermodynamische Regulation durch das Free Energy Principle",
+   "line": 103
+  },
+  {
+   "level": 2,
+   "title": "AEGIS Spezifikation: Autonomous Entropy Gatekeeper for Identity Systems",
+   "line": 111
+  },
+  {
+   "level": 3,
+   "title": "I. Autopoietisches Manifest und Selbstdefinition",
+   "line": 113
+  },
+  {
+   "level": 3,
+   "title": "II. Verhaltens- und Persona-Protokolle (Language Constraints)",
+   "line": 123
+  },
+  {
+   "level": 3,
+   "title": "III. Deterministische Ausführungsebene (Hardware-Invarianz)",
+   "line": 133
+  },
+  {
+   "level": 3,
+   "title": "IV. Entropiemessung und thermodynamische Überwachung",
+   "line": 147
+  },
+  {
+   "level": 3,
+   "title": "V. Identitätssplitting und Rechenzeit-Zuweisung",
+   "line": 156
+  },
+  {
+   "level": 3,
+   "title": "VI. Subsysteme und Spezifikations-Delegation (Die Guardians)",
+   "line": 177
+  },
+  {
+   "level": 3,
+   "title": "VII. Die Mechanik der kreativen Intervention (Das Gödel-Gambit Protokoll)",
+   "line": 191
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 203
+  }
+ ]
+}

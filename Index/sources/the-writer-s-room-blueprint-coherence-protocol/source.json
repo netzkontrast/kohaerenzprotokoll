@@ -1,0 +1,70 @@
+{
+ "slug": "the-writer-s-room-blueprint-coherence-protocol",
+ "sha256": "edcc4f54e9f6bcb07114967fcc7171406847a111691ce9bff7da2f70de6260fc",
+ "lines": 139,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "The \"Writer's Room\" Blueprint: Coherence Protocol",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "The \"Writer's Room\" Blueprint: Coherence Protocol",
+   "line": 11
+  },
+  {
+   "level": 3,
+   "title": "1. Logline & The Elevator Pitch",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "1.5. Lexicon of Core Concepts",
+   "line": 20
+  },
+  {
+   "level": 3,
+   "title": "2. Character Arcs in Action",
+   "line": 33
+  },
+  {
+   "level": 4,
+   "title": "2.1. Kael: The Journey to Functional Multiplicity",
+   "line": 37
+  },
+  {
+   "level": 4,
+   "title": "2.2. AEGIS: Timeline of a System's Collapse",
+   "line": 50
+  },
+  {
+   "level": 5,
+   "title": "AEGIS's Pathological Evolution",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "3. Detailed Plot Outline (39-Beat Structure)",
+   "line": 67
+  },
+  {
+   "level": 4,
+   "title": "Part 1: Fragmentation and First Echoes (Beats 1-13)",
+   "line": 71
+  },
+  {
+   "level": 4,
+   "title": "Part 2: The Labyrinth & The Patterns (Beats 14-26)",
+   "line": 90
+  },
+  {
+   "level": 4,
+   "title": "Part 3: The Seam in the Self (Beats 27-39)",
+   "line": 109
+  },
+  {
+   "level": 3,
+   "title": "4. Key Set-Pieces",
+   "line": 130
+  }
+ ]
+}

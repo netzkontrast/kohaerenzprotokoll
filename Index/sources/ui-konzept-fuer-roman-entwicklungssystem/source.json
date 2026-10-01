@@ -1,0 +1,110 @@
+{
+ "slug": "ui-konzept-fuer-roman-entwicklungssystem",
+ "sha256": "0775cf0bd8ec8144f3c4b180e86d22dc18b78b2189810fa0cb5c8bd946095c9f",
+ "lines": 230,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "UI-Konzept für Roman-Entwicklungssystem",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Systemarchitektur und UI-Topologie für Agenten-basierte narrative Weltenbildung: Das Kohärenz-Konstrukt",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Epistemologische und technologische Grundlagen der narrativen Simulation",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "2. Vergleichende Analyse zeitgenössischer Autorensysteme und Wissensmanagement-Tools",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "3. Architektonische Muster des Multi-Agenten-Frameworks",
+   "line": 43
+  },
+  {
+   "level": 2,
+   "title": "4. UI-Topologie: Dimensionen des asynchronen und synchronen Arbeitsraums",
+   "line": 57
+  },
+  {
+   "level": 3,
+   "title": "4.1. Der Synapsen-Kanal (Dynamische Agenten-Interaktion)",
+   "line": 61
+  },
+  {
+   "level": 3,
+   "title": "4.2. Der Ontologische Codex (Das Epistemologische Blackboard)",
+   "line": 69
+  },
+  {
+   "level": 3,
+   "title": "4.3. Die Entropie-Kartografie (Visualisierung narrativer Spannung)",
+   "line": 79
+  },
+  {
+   "level": 3,
+   "title": "4.4. Das Tribunal der Anteile (Konfliktauflösung)",
+   "line": 91
+  },
+  {
+   "level": 3,
+   "title": "4.5. Die Forschungs-Sphäre (Multimodale Agenten-Analyse)",
+   "line": 99
+  },
+  {
+   "level": 2,
+   "title": "5. Charakter-Spezifische UI-Schnittstellen (Das DKT- und IFS-Interface)",
+   "line": 107
+  },
+  {
+   "level": 3,
+   "title": "5.1. AEGIS: Das Interface der absoluten Reduktion ()",
+   "line": 111
+  },
+  {
+   "level": 3,
+   "title": "5.2. Juna: Das Interface der Anomalie ()",
+   "line": 119
+  },
+  {
+   "level": 3,
+   "title": "5.3. System Kael: Die TSDP-Architektur (Das IFS-Interface)",
+   "line": 127
+  },
+  {
+   "level": 3,
+   "title": "5.4. Der Autor (Der Prime Mover)",
+   "line": 145
+  },
+  {
+   "level": 2,
+   "title": "6. Synthese und systemische Integration",
+   "line": 151
+  },
+  {
+   "level": 3,
+   "title": "6.1. Thermodynamik und der Zeitpfeil im Interface",
+   "line": 155
+  },
+  {
+   "level": 3,
+   "title": "6.2. Kohärenz vs. Korrespondenz: Der epistemologische Kernkonflikt",
+   "line": 161
+  },
+  {
+   "level": 3,
+   "title": "6.3. Konklusion",
+   "line": 167
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 171
+  }
+ ]
+}

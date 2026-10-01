@@ -1,0 +1,180 @@
+{
+ "slug": "projekt-ockham-narrative-systemik-reduktion",
+ "sha256": "5843ac82c22582fb396ae2539bee85aa40625103e2751393453e9d04e36c1d8c",
+ "lines": 445,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Projekt Ockham: Narrative Systemik Reduktion",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Projekt Ockham – Reduktion der narrativen Systemik",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Ein technisches Kompendium zur Architektur autopoietischer Erzählsysteme und der Transition zum Narrative Reliability Engineering",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "1.0 Exekutive Einführung: Die ontologische Krise der algorithmischen Autorschaft und das Mandat zur Reduktion",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "2.0 Theoretisches Fundament: Die Physik der Narrativen Entropie und die Architektur der Wahrheit",
+   "line": 23
+  },
+  {
+   "level": 4,
+   "title": "2.1 Das Phänomen der Kontext-Fäule und das „Lost in the Middle“-Problem",
+   "line": 27
+  },
+  {
+   "level": 4,
+   "title": "2.2 Die Dual-Kernel-Theorie (DKT): Die Operationalisierung philosophischer Wahrheitsmodelle",
+   "line": 33
+  },
+  {
+   "level": 4,
+   "title": "2.3 Psychologische Isomorphie: Das System als Spiegel der Psyche",
+   "line": 42
+  },
+  {
+   "level": 3,
+   "title": "3.0 Die Evolution der Agency: Vom Monolithen zum Schwarm",
+   "line": 51
+  },
+  {
+   "level": 4,
+   "title": "3.1 NovelOS 1.0: Das Scheitern des Monolithen",
+   "line": 55
+  },
+  {
+   "level": 4,
+   "title": "3.2 NovelOS 2.0: Der Autonome Narrative Schwarm und Framework-Vergleich",
+   "line": 61
+  },
+  {
+   "level": 5,
+   "title": "3.2.1 Vergleich der Agenten-Frameworks: LangGraph vs. AutoGen vs. CrewAI",
+   "line": 65
+  },
+  {
+   "level": 5,
+   "title": "3.2.2 Technische Instanziierung von Character Bots",
+   "line": 75
+  },
+  {
+   "level": 5,
+   "title": "3.2.3 Der Environment Loop und das Telepathie-Verbot",
+   "line": 86
+  },
+  {
+   "level": 4,
+   "title": "3.3 Der ARCHON Agentic Stack",
+   "line": 102
+  },
+  {
+   "level": 3,
+   "title": "-----4.0 Daten-Parsimonie: Das externalisierte Gehirn",
+   "line": 118
+  },
+  {
+   "level": 4,
+   "title": "4.1 Der Zettelkasten-Hypergraph und GraphRAG",
+   "line": 122
+  },
+  {
+   "level": 4,
+   "title": "4.2 Das „Atomic Entity“ Schema und BDI-Modelle",
+   "line": 134
+  },
+  {
+   "level": 4,
+   "title": "4.3 Das „Voyager“-Prinzip: Code als Gedächtnis",
+   "line": 193
+  },
+  {
+   "level": 4,
+   "title": "4.4 Timeline Engineering: Fabula vs. Syuzhet",
+   "line": 201
+  },
+  {
+   "level": 3,
+   "title": "-----5.0 Governance und Validierung: Semantisches Linting und The Librarian",
+   "line": 218
+  },
+  {
+   "level": 4,
+   "title": "5.1 Pydantic und JSON Schema als Narrativer Compiler",
+   "line": 222
+  },
+  {
+   "level": 4,
+   "title": "5.2 Der „Coherence Digest“ und Garbage Collection",
+   "line": 252
+  },
+  {
+   "level": 4,
+   "title": "5.3 Shadow Git: Narrative Verzweigung und Simulation",
+   "line": 262
+  },
+  {
+   "level": 4,
+   "title": "5.4 Abwehr von Prompt Injection und System-Sicherheit",
+   "line": 274
+  },
+  {
+   "level": 3,
+   "title": "-----6.0 Implementierungsstrategie: Der „Coherence Loop“",
+   "line": 281
+  },
+  {
+   "level": 4,
+   "title": "6.1 Der Workflow-Zyklus",
+   "line": 285
+  },
+  {
+   "level": 4,
+   "title": "6.2 Visuelle Integration via Obsidian Canvas",
+   "line": 293
+  },
+  {
+   "level": 3,
+   "title": "-----7.0 Fallstudie: Die „Kohärenz Protokoll“-Simulation",
+   "line": 301
+  },
+  {
+   "level": 3,
+   "title": "-----8.0 Schlussfolgerung: Der Wandel zum Narrative Reliability Engineering",
+   "line": 320
+  },
+  {
+   "level": 3,
+   "title": "-----Detaillierter Technischer Anhang: Das Narrative Context Protocol (NCP)",
+   "line": 328
+  },
+  {
+   "level": 4,
+   "title": "A. Das Atomare Charakter-Schema (YAML)",
+   "line": 332
+  },
+  {
+   "level": 4,
+   "title": "B. Die Hook-Konfiguration des Librarian (settings.json)",
+   "line": 362
+  },
+  {
+   "level": 4,
+   "title": "C. Das Coherence-Loop-Skript (coherence-loop.sh)",
+   "line": 389
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 411
+  }
+ ]
+}

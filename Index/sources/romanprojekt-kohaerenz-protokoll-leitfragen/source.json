@@ -1,0 +1,115 @@
+{
+ "slug": "romanprojekt-kohaerenz-protokoll-leitfragen",
+ "sha256": "8ffca042a30e51e71d365184e932e8eac26abd521b0ee7199c36238cafdbe1af",
+ "lines": 155,
+ "body_offset": 10,
+ "lang": "mixed",
+ "title": "Romanprojekt Kohärenz Protokoll: Leitfragen",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Forschungsbericht: Narrative Architektur und System-Exploration",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. System-Status & Kontext",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "2. MAP-Synthese",
+   "line": 31
+  },
+  {
+   "level": 3,
+   "title": "a) Psychologische Achse",
+   "line": 35
+  },
+  {
+   "level": 3,
+   "title": "b) Systemische Achse",
+   "line": 39
+  },
+  {
+   "level": 3,
+   "title": "c) Ontologische Achse",
+   "line": 43
+  },
+  {
+   "level": 3,
+   "title": "d) Dramaturgische Achse",
+   "line": 58
+  },
+  {
+   "level": 2,
+   "title": "3. Narrativer Entwurf / Szenen-Logik: Die 10 essenziellen Leitfragen",
+   "line": 62
+  },
+  {
+   "level": 3,
+   "title": "Leitfrage 1: Die Architektur der unsichtbaren Grenze (Fokus: Kapitel 1–4)",
+   "line": 66
+  },
+  {
+   "level": 3,
+   "title": "Leitfrage 2: Die Manifestation der Cache-Inkohärenz als \"Riss\" (Fokus: Kapitel 7–10)",
+   "line": 70
+  },
+  {
+   "level": 3,
+   "title": "Leitfrage 3: Die Mechanik und Somatik des Moonshine-Links (Fokus: Kapitel 19)",
+   "line": 74
+  },
+  {
+   "level": 3,
+   "title": "Leitfrage 4: Die algorithmische Blindheit gegenüber Juna (Fokus: Kapitel 14–23)",
+   "line": 78
+  },
+  {
+   "level": 3,
+   "title": "Leitfrage 5: Die Exekution der \"Diskursiven List\" (D2) (Fokus: Kapitel 16)",
+   "line": 82
+  },
+  {
+   "level": 3,
+   "title": "Leitfrage 6: Die waffenfähige Retraumatisierung (Fokus: Kapitel 28)",
+   "line": 86
+  },
+  {
+   "level": 3,
+   "title": "Leitfrage 7: Die Inszenierung des Gödel-Gambits (Fokus: Kapitel 33)",
+   "line": 90
+  },
+  {
+   "level": 3,
+   "title": "Leitfrage 8: Der Schock der Externen Ebene (Fokus: Kapitel 27/35)",
+   "line": 94
+  },
+  {
+   "level": 3,
+   "title": "Leitfrage 9: Dekonstruktion der narrativen Tropes (Der Bruchpunkt)",
+   "line": 98
+  },
+  {
+   "level": 3,
+   "title": "Leitfrage 10: Zweiter Ordnung Kybernetik und der Leser als System (Fokus: Kapitel 39)",
+   "line": 102
+  },
+  {
+   "level": 2,
+   "title": "4. Kohärenz-Check",
+   "line": 106
+  },
+  {
+   "level": 2,
+   "title": "5. Architekten-Rückfrage",
+   "line": 132
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 138
+  }
+ ]
+}

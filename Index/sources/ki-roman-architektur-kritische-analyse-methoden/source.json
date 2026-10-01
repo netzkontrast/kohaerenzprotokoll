@@ -1,0 +1,140 @@
+{
+ "slug": "ki-roman-architektur-kritische-analyse-methoden",
+ "sha256": "6b8c1256a00079ee6d1ab6485e1d75c2f9cf596f1b8fdcd7c0535f3fc4b258ed",
+ "lines": 228,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "KI-Roman-Architektur: Kritische Analyse-Methoden",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Framework für systematische Forschung und kritisches Denken: Evaluierung der Dual-Kernel-Narrativ-Architektur",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Anwendungsbereiche und systematischer Einsatz des Frameworks",
+   "line": 17
+  },
+  {
+   "level": 2,
+   "title": "Ontologische Fundamente: Analytik der Dual-Kernel-Theorie",
+   "line": 34
+  },
+  {
+   "level": 3,
+   "title": "Der Kohärenz-Kernel () und die Architektur der Reversibilität",
+   "line": 38
+  },
+  {
+   "level": 3,
+   "title": "Der Kollaps-Kernel () und die Entropie der Erfahrung",
+   "line": 44
+  },
+  {
+   "level": 2,
+   "title": "Epistemologische Architektur: Formale Logik und Wahrheitsverifikation",
+   "line": 61
+  },
+  {
+   "level": 3,
+   "title": "Die methodische Operationalisierung von Wahrheitsbegriffen",
+   "line": 65
+  },
+  {
+   "level": 3,
+   "title": "Formale Verifikation und das Gödel-Gambit",
+   "line": 73
+  },
+  {
+   "level": 2,
+   "title": "Physikalische Isomorphie: Thermodynamik der Bedeutung und der CSI",
+   "line": 85
+  },
+  {
+   "level": 3,
+   "title": "Entropie, der Zeitpfeil und das Landauer-Prinzip",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "Operationalisierung der Spannung: Der Collapse Susceptibility Index (CSI)",
+   "line": 95
+  },
+  {
+   "level": 2,
+   "title": "Validierung der psychologischen Topologie: Strukturelle Dissoziation (TSDP)",
+   "line": 109
+  },
+  {
+   "level": 3,
+   "title": "Systematische Verifikation der Agenten-Klassen",
+   "line": 113
+  },
+  {
+   "level": 2,
+   "title": "Architektonische Orchestrierung: Das Narrative Context Protocol (NCP)",
+   "line": 132
+  },
+  {
+   "level": 3,
+   "title": "Die methodische Trennung von Subtext und Storytelling",
+   "line": 136
+  },
+  {
+   "level": 3,
+   "title": "Auflösung des Player-Dilemmas durch den Moonshine-Link",
+   "line": 142
+  },
+  {
+   "level": 2,
+   "title": "Systematische Trace-Analyse als Evaluationsmethode",
+   "line": 162
+  },
+  {
+   "level": 3,
+   "title": "Trace 1: Das Gödel-Gambit und der System-Kollaps",
+   "line": 168
+  },
+  {
+   "level": 3,
+   "title": "Trace 3: Grenzsituationen und existenzphilosophische Verifikation",
+   "line": 176
+  },
+  {
+   "level": 2,
+   "title": "Operativer Leitfaden: Systematisches Forschungsdesign im Prompt-Engineering",
+   "line": 184
+  },
+  {
+   "level": 3,
+   "title": "Phase 1: Problemdefinition und Hypothesenbildung",
+   "line": 188
+  },
+  {
+   "level": 3,
+   "title": "Phase 2: Bias-Kontrolle und Begrenzung von Störvariablen",
+   "line": 192
+  },
+  {
+   "level": 3,
+   "title": "Phase 3: Datensammlung, Transparenz und Trace-Verifikation",
+   "line": 200
+  },
+  {
+   "level": 3,
+   "title": "Phase 4: Synthese, Bewertung und iteratives Redesign",
+   "line": 204
+  },
+  {
+   "level": 2,
+   "title": "Synthese und methodischer Ausblick",
+   "line": 208
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 216
+  }
+ ]
+}

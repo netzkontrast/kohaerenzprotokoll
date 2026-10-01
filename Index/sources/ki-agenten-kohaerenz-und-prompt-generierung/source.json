@@ -1,0 +1,175 @@
+{
+ "slug": "ki-agenten-kohaerenz-und-prompt-generierung",
+ "sha256": "e0129c17f4e4e70d1f2186c4b75296b810a0680a3dcf033fc5cf82b56ede85f3",
+ "lines": 368,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "KI-Agenten: Kohärenz und Prompt-Generierung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Das Kohärenz-Protokoll: Eine Spezifikation für kontextuelles Schließen und ein System zur dynamischen Prompt-Generierung für KI-Agenten mit großen Wissensbasen",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Executive Summary / Abstract",
+   "line": 18
+  },
+  {
+   "level": 2,
+   "title": "Einleitung: Die fundamentale Limitierung autonomer Wissensagenten",
+   "line": 30
+  },
+  {
+   "level": 3,
+   "title": "Das Dilemma des Kontextfensters: Eine \"Working Memory\"-Krise",
+   "line": 38
+  },
+  {
+   "level": 3,
+   "title": "Symptome der Kontextamnesie",
+   "line": 48
+  },
+  {
+   "level": 3,
+   "title": "Die zentrale Forschungsfrage",
+   "line": 61
+  },
+  {
+   "level": 2,
+   "title": "Die Hypothese: Ein zweigeteilter Lösungsansatz",
+   "line": 73
+  },
+  {
+   "level": 3,
+   "title": "Teil A: Das \"Kohärenz-Protokoll\" – Formale Spezifikation für disziplinierte Navigation",
+   "line": 83
+  },
+  {
+   "level": 3,
+   "title": "Teil B: Der \"Meta-Prompt\" – Meta-kognitive Fähigkeit zur Selbstoptimierung",
+   "line": 91
+  },
+  {
+   "level": 2,
+   "title": "Theoretische Grundlagen und Kernkonzepte",
+   "line": 99
+  },
+  {
+   "level": 3,
+   "title": "Säule 1: Externe Wissensbasen als persistentes Gedächtnis",
+   "line": 107
+  },
+  {
+   "level": 4,
+   "title": "Jenseits von RAG: Die Notwendigkeit von Knowledge Graphs",
+   "line": 115
+  },
+  {
+   "level": 4,
+   "title": "Die Zettelkasten-Methode als Implementierungsparadigma",
+   "line": 125
+  },
+  {
+   "level": 3,
+   "title": "Säule 2: Maps of Content (MOCs) als Navigations-Kortex",
+   "line": 137
+  },
+  {
+   "level": 4,
+   "title": "Die architektonische Lösung für das Kontextfensterproblem",
+   "line": 145
+  },
+  {
+   "level": 4,
+   "title": "Hierarchische Abstraktion",
+   "line": 153
+  },
+  {
+   "level": 3,
+   "title": "Säule 3: Meta-Kognition durch Konstitutionelle KI und Meta-Prompting",
+   "line": 163
+  },
+  {
+   "level": 4,
+   "title": "Die \"Verfassung\" des Agenten",
+   "line": 171
+  },
+  {
+   "level": 4,
+   "title": "Von der Selbst-Kritik zur Selbst-Optimierung",
+   "line": 181
+  },
+  {
+   "level": 4,
+   "title": "Meta-Prompting als Mechanismus",
+   "line": 191
+  },
+  {
+   "level": 2,
+   "title": "Methodik: Das Design des Kohärenz-Protokolls und des Meta-Prompts",
+   "line": 201
+  },
+  {
+   "level": 3,
+   "title": "5.1. Design des \"Kohärenz-Protokolls 1.0\": Eine formale Spezifikation für diszipliniertes Schließen",
+   "line": 209
+  },
+  {
+   "level": 3,
+   "title": "5.2. Design des \"Meta-Prompts\": Die Verfassung für kognitive Autonomie",
+   "line": 225
+  },
+  {
+   "level": 4,
+   "title": "Tabelle 1: Die Artikel der kognitiven Verfassung",
+   "line": 233
+  },
+  {
+   "level": 4,
+   "title": "Tabelle 2: Mapping der kognitiven Schleife auf eine Multi-Agenten-Architektur",
+   "line": 252
+  },
+  {
+   "level": 2,
+   "title": "Erwartete Ergebnisse und visionäre Implikationen",
+   "line": 271
+  },
+  {
+   "level": 3,
+   "title": "Der Agent als Wissens-Kultivator",
+   "line": 279
+  },
+  {
+   "level": 3,
+   "title": "Emergente Kohärenz und tiefes Verständnis",
+   "line": 289
+  },
+  {
+   "level": 3,
+   "title": "Eine neue Stufe agentischer Autonomie",
+   "line": 297
+  },
+  {
+   "level": 2,
+   "title": "Fazit und Ausblick",
+   "line": 307
+  },
+  {
+   "level": 3,
+   "title": "Zusammenfassung der Argumentation",
+   "line": 315
+  },
+  {
+   "level": 3,
+   "title": "Ausblick auf zukünftige Forschungs- und Entwicklungsmöglichkeiten",
+   "line": 328
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 341
+  }
+ ]
+}

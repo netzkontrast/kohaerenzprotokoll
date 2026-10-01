@@ -1,0 +1,305 @@
+{
+ "slug": "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
+ "sha256": "2218f12a9f89494515b85eaa3a001072f7ae2820ec1e1e83c9165f610e7e3bb4",
+ "lines": 2153,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "research-prompt_kohaerenz-protokoll-dramatica-dual-storyform-mapping.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Duale Dramatica-Storyform-Mapping als strukturelles Modell des Hard Problem of Consciousness",
+   "line": 48
+  },
+  {
+   "level": 2,
+   "title": "(K1 ⊕ K0 → 5D-Interferenz = Bewusstseins-Emergenz)",
+   "line": 50
+  },
+  {
+   "level": 2,
+   "title": "Hinweis an die ausführende KI",
+   "line": 52
+  },
+  {
+   "level": 2,
+   "title": "⚡ HARD-PROBLEM-THESE — die ontologische Achse dieser Recherche",
+   "line": 73
+  },
+  {
+   "level": 3,
+   "title": "Die These in einem Satz",
+   "line": 77
+  },
+  {
+   "level": 3,
+   "title": "Was das Hard Problem of Consciousness ist (kurze, inline-Expansion)",
+   "line": 81
+  },
+  {
+   "level": 3,
+   "title": "Die Gegenläufigkeits-Achse ist fixiert: K1 vs. K0",
+   "line": 104
+  },
+  {
+   "level": 3,
+   "title": "Die fünfte Dimension ist Bewusstsein als Interferenz",
+   "line": 140
+  },
+  {
+   "level": 3,
+   "title": "Konsequenzen für die Synthese-Architektur",
+   "line": 166
+  },
+  {
+   "level": 3,
+   "title": "Verifikations-Anker: das Telefonat",
+   "line": 177
+  },
+  {
+   "level": 3,
+   "title": "Warum das die wahre Argumentation der Story ist",
+   "line": 191
+  },
+  {
+   "level": 2,
+   "title": "Meta-Header — Was dieser Prompt ist und wie du ihn liest",
+   "line": 215
+  },
+  {
+   "level": 3,
+   "title": "1. Erkenntnistheoretische Schicht — Forschungskategorie A (Exploration mit fixierter ontologischer Achse)",
+   "line": 219
+  },
+  {
+   "level": 3,
+   "title": "2. Agentisches Rückgrat — ReAct (Reason + Act + Observe)",
+   "line": 251
+  },
+  {
+   "level": 3,
+   "title": "3. Strukturelle Schicht — TRACE (bespoke synthesis)",
+   "line": 295
+  },
+  {
+   "level": 2,
+   "title": "Werk-Anker (verbindlich für jede Iteration)",
+   "line": 315
+  },
+  {
+   "level": 3,
+   "title": "Bestehende (vorläufige) Dramatica-Notizen — als Steinbruch, nicht als Kanon",
+   "line": 342
+  },
+  {
+   "level": 2,
+   "title": "Forschungs-Ziel (Research Objective)",
+   "line": 360
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCKS",
+   "line": 395
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 0 — Reflektions-Baseline (immer aktiv)",
+   "line": 397
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 1 — Quellen-Priorität",
+   "line": 446
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 2 — Zeitlicher Geltungsbereich",
+   "line": 468
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 3 — Output-Ausschlüsse",
+   "line": 474
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 4 — Werk-Treuhand und Quellentrennung",
+   "line": 487
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 5 — Dualitäts-Disziplin (FIXIERT auf K1/K0)",
+   "line": 505
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 6 — Bewertungs-Schema pro Storyform",
+   "line": 671
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 7 — Synthese-Disziplin (5D = Hard-Problem-Architektur)",
+   "line": 751
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 8 — Phänomenologische Probe (Telefonat-Verifikation)",
+   "line": 862
+  },
+  {
+   "level": 2,
+   "title": "KRITISCH-DENKENDE METHODEN — durchgängig aktiv",
+   "line": 885
+  },
+  {
+   "level": 3,
+   "title": "Method: Falsification (Karl Poppers Disconfirmation-Prinzip)",
+   "line": 889
+  },
+  {
+   "level": 3,
+   "title": "Method: Steelmanning (Stärkste-Version-Rekonstruktion)",
+   "line": 912
+  },
+  {
+   "level": 3,
+   "title": "Method: Contrast Classes (implizite Baselines explizit machen)",
+   "line": 935
+  },
+  {
+   "level": 3,
+   "title": "Method: Dialectical Synthesis (mit ontologischer Festlegung)",
+   "line": 958
+  },
+  {
+   "level": 3,
+   "title": "Method: Phenomenological Anchor (Telefonat-Verifikation)",
+   "line": 983
+  },
+  {
+   "level": 3,
+   "title": "Method: Bayesian Prior Surfacing",
+   "line": 1006
+  },
+  {
+   "level": 3,
+   "title": "Method: Source Triangulation",
+   "line": 1029
+  },
+  {
+   "level": 3,
+   "title": "Method: Adversarial Query Expansion",
+   "line": 1052
+  },
+  {
+   "level": 2,
+   "title": "Suchterm-Cluster (offen, nicht abschließend)",
+   "line": 1088
+  },
+  {
+   "level": 3,
+   "title": "Für NotebookLM (Werkkorpus) — Anker-Begriffe",
+   "line": 1092
+  },
+  {
+   "level": 3,
+   "title": "Für Web — Dramatica-Theorie-Anker",
+   "line": 1122
+  },
+  {
+   "level": 3,
+   "title": "Für Web — Hard-Problem-of-Consciousness-Anker",
+   "line": 1174
+  },
+  {
+   "level": 3,
+   "title": "Erweiterung verpflichtend",
+   "line": 1224
+  },
+  {
+   "level": 2,
+   "title": "TRACE — Strukturierte Vorgehensweise",
+   "line": 1232
+  },
+  {
+   "level": 3,
+   "title": "Step 0 — Restate und Kickoff",
+   "line": 1236
+  },
+  {
+   "level": 3,
+   "title": "Step 1 — T (Target) und R (References) explizit machen",
+   "line": 1243
+  },
+  {
+   "level": 3,
+   "title": "Step 2 — Bestätigung der K1/K0-Achse und Hard-Problem-Theorie-Aufbau",
+   "line": 1260
+  },
+  {
+   "level": 3,
+   "title": "Step 3 — A (Analyze): Storyform A (= K1, Coherence Kernel) vollständig konstruieren",
+   "line": 1274
+  },
+  {
+   "level": 3,
+   "title": "Step 3' — A (Analyze): Storyform B (= K0, Erasure Kernel) vollständig konstruieren",
+   "line": 1302
+  },
+  {
+   "level": 3,
+   "title": "Step 4 — Bewertung beider Storyforms (CONSTRAINT BLOCK 6)",
+   "line": 1310
+  },
+  {
+   "level": 3,
+   "title": "Step 4.c — Storyform-Half-Life Audit (Cross-Pollination aus Category C)",
+   "line": 1314
+  },
+  {
+   "level": 3,
+   "title": "Step 5 — C (Compare): Dialektische Vergleichsmatrix und Interferenz-Kartographie",
+   "line": 1330
+  },
+  {
+   "level": 3,
+   "title": "Step 5.b — Dramatica-Element-Matrix als Brückenstruktur (Cross-Pollination aus Category B)",
+   "line": 1428
+  },
+  {
+   "level": 3,
+   "title": "Step 6 — E (Elevate): Konstruktion der 5D-Hard-Problem-Architektur",
+   "line": 1451
+  },
+  {
+   "level": 3,
+   "title": "Step 7 — Pre-Synthesis Integrity Check und Auslieferung",
+   "line": 1479
+  },
+  {
+   "level": 2,
+   "title": "Restatement-Checkpoint-Vorlage (vor jedem größeren Schritt)",
+   "line": 1495
+  },
+  {
+   "level": 2,
+   "title": "Pre-Synthesis Integrity Check",
+   "line": 1611
+  },
+  {
+   "level": 2,
+   "title": "Output-Schema",
+   "line": 1637
+  },
+  {
+   "level": 2,
+   "title": "Selbst-Verifikations-Checkliste für die ausführende KI (13 Punkte)",
+   "line": 2081
+  },
+  {
+   "level": 2,
+   "title": "Schlusswort an die ausführende KI",
+   "line": 2109
+  }
+ ]
+}

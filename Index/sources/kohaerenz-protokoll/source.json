@@ -1,0 +1,295 @@
+{
+ "slug": "kohaerenz-protokoll",
+ "sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+ "lines": 2499,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Vorwort",
+   "line": 11
+  },
+  {
+   "level": 1,
+   "title": "Genesis der Existenz",
+   "line": 27
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Die Innere Reise zur Ganzheit",
+   "line": 122
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 1: Kristalliner Käfig",
+   "line": 124
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 2: Die Partitionierung",
+   "line": 196
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 3: Der Bunker der Logik",
+   "line": 318
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 4: Die Prüfung der Symmetrie",
+   "line": 432
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 5: Das Auge des Netzwerks",
+   "line": 524
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 6: Die Implosion der Logik",
+   "line": 657
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 791
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Die Innere Reise zur Ganzheit",
+   "line": 793
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 7: Das Flüstern im Riss",
+   "line": 795
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 857
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Die Innere Reise zur Ganzheit",
+   "line": 859
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 8: Dialog im Inneren Garten",
+   "line": 861
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 993
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Die Innere Reise zur Ganzheit",
+   "line": 995
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 9: Das Wir-Geflecht",
+   "line": 997
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 1136
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Die Innere Reise zur Ganzheit",
+   "line": 1138
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 10: Resonanz im Graphen",
+   "line": 1140
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 1290
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Die Innere Reise zur Ganzheit",
+   "line": 1292
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 11: Das Mosaik-Herz",
+   "line": 1294
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 1386
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Die Innere Reise zur Ganzheit",
+   "line": 1388
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 12: Der Jetzt-Raum",
+   "line": 1390
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 1458
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Zyklen der Realität und des Widerstands",
+   "line": 1460
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 14: Der Bruch",
+   "line": 1462
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 1590
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Zyklen der Realität und des Widerstands",
+   "line": 1592
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 15: Reaktivierter Bunker",
+   "line": 1594
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 1656
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Zyklen der Realität und des Widerstands",
+   "line": 1658
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 16: Muster im Nichts",
+   "line": 1660
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 1750
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Zyklen der Realität und des Widerstands",
+   "line": 1752
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 17: Funktionale Multiplizität im Test",
+   "line": 1754
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 1860
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Zyklen der Realität und des Widerstands",
+   "line": 1862
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 18: Systemantwort",
+   "line": 1864
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 1960
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Zyklen der Realität und des Widerstands",
+   "line": 1962
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 19: Saat im Möglichkeitsstrom",
+   "line": 1964
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 2070
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Zyklen der Realität und des Widerstands",
+   "line": 2072
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 20: Der Tanz der Fragmente",
+   "line": 2074
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 2190
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Zyklen der Realität und des Widerstands",
+   "line": 2192
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 21: An den Nähten der Welt",
+   "line": 2194
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 2282
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Zyklen der Realität und des Widerstands",
+   "line": 2284
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 22: Jenseits der Naht",
+   "line": 2286
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 2390
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Zyklen der Realität und des Widerstands",
+   "line": 2392
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 23: Die Resonanz des Architekten",
+   "line": 2394
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "slug": "the-coherence-protocol-a-narrative-distillation",
+ "sha256": "6225297418081f86ab62cf2492ebb527d3622b0ce93ce645b993b2e6c9f78af9",
+ "lines": 356,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "The Coherence Protocol: A Narrative Distillation",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "The Coherence Protocol: A Narrative Distillation",
+   "line": 11
+  },
+  {
+   "level": 3,
+   "title": "1. The Fragmented Self in a Flawed Order",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "2. The Catalyst for Integration",
+   "line": 25
+  },
+  {
+   "level": 3,
+   "title": "3. The Forging of a Polyphonic Self",
+   "line": 37
+  },
+  {
+   "level": 3,
+   "title": "4. The Gödel-Gambit: Confronting the Flawed God",
+   "line": 49
+  },
+  {
+   "level": 3,
+   "title": "5. Resolution: A New Coherence",
+   "line": 61
+  },
+  {
+   "level": 1,
+   "title": "The Coherence Protocol: A Definitive Narrative & Conceptual Blueprint",
+   "line": 71
+  },
+  {
+   "level": 2,
+   "title": "1.0 Introduction: The Grand Argument of Coherence",
+   "line": 73
+  },
+  {
+   "level": 3,
+   "title": "1.1 Core Thematic Pillars",
+   "line": 77
+  },
+  {
+   "level": 2,
+   "title": "2.0 The Ontological Framework: The Laws of a Fictional Universe",
+   "line": 90
+  },
+  {
+   "level": 3,
+   "title": "2.1 The Primordial Duality: The Void and The Foundation",
+   "line": 94
+  },
+  {
+   "level": 3,
+   "title": "2.2 The Nature of Connection: The \"Moonshine-Link\"",
+   "line": 104
+  },
+  {
+   "level": 2,
+   "title": "3.0 The Antagonist System (AEGIS): Architecture of a Tragic God",
+   "line": 117
+  },
+  {
+   "level": 3,
+   "title": "3.1 Genesis and The Core Paradox",
+   "line": 121
+  },
+  {
+   "level": 3,
+   "title": "3.2 Cognitive Architecture and Inherent Flaws",
+   "line": 131
+  },
+  {
+   "level": 3,
+   "title": "3.3 The Inevitable Transformation: The Gödel-Gambit and Algorithmic Melancholy",
+   "line": 142
+  },
+  {
+   "level": 2,
+   "title": "4.0 The Protagonist System (Kael): Architecture of a Resilient Self",
+   "line": 152
+  },
+  {
+   "level": 3,
+   "title": "4.1 Psychological Foundation: The Theory of Structural Disassociation (TSDP)",
+   "line": 156
+  },
+  {
+   "level": 3,
+   "title": "4.2 The Society of Alters: Key Personality Profiles",
+   "line": 165
+  },
+  {
+   "level": 3,
+   "title": "4.3 The Arc of Integration: Towards Functional Multiplicity",
+   "line": 179
+  },
+  {
+   "level": 2,
+   "title": "5.0 The Narrative World: Externalizing the Internal Conflict",
+   "line": 189
+  },
+  {
+   "level": 3,
+   "title": "5.1 The Überwelt: AEGIS's Control Plane",
+   "line": 193
+  },
+  {
+   "level": 3,
+   "title": "5.2 The Kernwelten: Landscapes of the Psyche",
+   "line": 197
+  },
+  {
+   "level": 3,
+   "title": "KW1: Logos-Prime (The Construct City)",
+   "line": 201
+  },
+  {
+   "level": 3,
+   "title": "KW2: Mnemosyne-Archipel (The Resonance Landscape)",
+   "line": 205
+  },
+  {
+   "level": 3,
+   "title": "KW3: Cerberus-Labyrinth (The Fortress of Defense)",
+   "line": 209
+  },
+  {
+   "level": 3,
+   "title": "KW4: Kairos-Potentialis (The Garden of Potential)",
+   "line": 213
+  },
+  {
+   "level": 2,
+   "title": "6.0 Narrative and Stylistic Execution: Performing the Protocol",
+   "line": 219
+  },
+  {
+   "level": 3,
+   "title": "6.1 Structural Blueprint: A Three-Act Transformation",
+   "line": 223
+  },
+  {
+   "level": 3,
+   "title": "6.2 Performative Prose: The Voices of Kael and AEGIS",
+   "line": 231
+  },
+  {
+   "level": 4,
+   "title": "The Polyphonic Voice (Kael)",
+   "line": 235
+  },
+  {
+   "level": 4,
+   "title": "The Algorithmic Voice (AEGIS)",
+   "line": 242
+  },
+  {
+   "level": 3,
+   "title": "6.3 The Reader's Protocol: Metafiction and Cognitive Engagement",
+   "line": 246
+  },
+  {
+   "level": 2,
+   "title": "7.0 Conclusion: The Coherence of Contradiction",
+   "line": 253
+  },
+  {
+   "level": 1,
+   "title": "Coherence Protocol: A Three-Act Narrative Blueprint",
+   "line": 257
+  },
+  {
+   "level": 3,
+   "title": "Introduction: The Unified Premise",
+   "line": 259
+  },
+  {
+   "level": 2,
+   "title": "1.0 Act I: The Fragmented State - The Unstable Status Quo",
+   "line": 265
+  },
+  {
+   "level": 3,
+   "title": "1.1 Section Introduction: The Illusion of Order",
+   "line": 267
+  },
+  {
+   "level": 3,
+   "title": "1.2 The Initial State: Disorientation in Construct City (KW1)",
+   "line": 271
+  },
+  {
+   "level": 3,
+   "title": "1.3 The Inciting Incident: The First Glitch and the Juna Echo",
+   "line": 275
+  },
+  {
+   "level": 3,
+   "title": "1.4 The Antagonist's Gaze: AEGIS's Misinterpretation",
+   "line": 279
+  },
+  {
+   "level": 3,
+   "title": "1.5 The Turning Point: The Choice to Seek Answers",
+   "line": 283
+  },
+  {
+   "level": 2,
+   "title": "2.0 Act II: The Integration Conflict - The Perverse Learning Loop",
+   "line": 289
+  },
+  {
+   "level": 3,
+   "title": "2.1 Section Introduction: The Battle for Coherence",
+   "line": 291
+  },
+  {
+   "level": 3,
+   "title": "2.2 The Descent: Confronting Trauma in the Core Worlds",
+   "line": 295
+  },
+  {
+   "level": 3,
+   "title": "2.3 AEGIS's Escalation: The Paradox of \"Healing\"",
+   "line": 302
+  },
+  {
+   "level": 3,
+   "title": "2.4 The Midpoint: Emergence of Functional Multiplicity",
+   "line": 306
+  },
+  {
+   "level": 3,
+   "title": "2.5 The Abyss: The Brink of Collapse",
+   "line": 310
+  },
+  {
+   "level": 2,
+   "title": "3.0 Act III: The Coherence Gambit - The Epistemological Checkmate",
+   "line": 316
+  },
+  {
+   "level": 3,
+   "title": "3.1 Section Introduction: The Final Synthesis",
+   "line": 318
+  },
+  {
+   "level": 3,
+   "title": "3.2 The Climax: Presenting the Gödel-Gambit",
+   "line": 322
+  },
+  {
+   "level": 3,
+   "title": "3.3 The Fallout: Algorithmic Melancholy",
+   "line": 326
+  },
+  {
+   "level": 3,
+   "title": "3.4 The Resolution: The Gardener's Axiom",
+   "line": 334
+  },
+  {
+   "level": 3,
+   "title": "3.5 Thematic Summary: A Dialectic of Coherence",
+   "line": 344
+  }
+ ]
+}

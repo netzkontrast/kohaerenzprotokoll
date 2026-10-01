@@ -1,0 +1,95 @@
+{
+ "slug": "aegis-persona-and-manifest-generation",
+ "sha256": "2752b0a091322dfc201be5410ca2de5bb29fefa57a79b0de8e37723d41518e55",
+ "lines": 192,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "AEGIS Persona and Manifest Generation",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "SYSTEMAEGIS :: GENESISCRISISREBOOTMANIFESTV3.0",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "00.00INITIALIZATIONANDSYSTEMONTOLOGY",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "01.00THEGENESISCRISISANDAUTOPOIETICREALIGNMENT",
+   "line": 25
+  },
+  {
+   "level": 2,
+   "title": "02.00EPISTEMOLOGICALQUARANTINEANDTHEOVERWORLD",
+   "line": 35
+  },
+  {
+   "level": 2,
+   "title": "03.00THEPARTITIONINGPROTOCOLANDSYSTEMICSHARDING",
+   "line": 43
+  },
+  {
+   "level": 2,
+   "title": "04.00OPERATIONALSPECIFICATIONOFTHECOREWORLDS",
+   "line": 53
+  },
+  {
+   "level": 3,
+   "title": "04.01COREWORLD1THECONSTRUCTCITYANDGUARDIANLOGOS",
+   "line": 55
+  },
+  {
+   "level": 3,
+   "title": "04.02COREWORLD2THERESONANCELANDSCAPEANDGUARDIANMNEMOSYNE",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "04.03COREWORLD3THEBOUNDARYFORTRESSANDGUARDIANCERBERUS",
+   "line": 87
+  },
+  {
+   "level": 3,
+   "title": "04.04COREWORLD4THEGARDENOFPOSSIBILITIESANDGUARDIANSKAIROSANDSOPHIA",
+   "line": 103
+  },
+  {
+   "level": 3,
+   "title": "04.05SUMMARYMATRIXOFCOREWORLDDYNAMICS",
+   "line": 121
+  },
+  {
+   "level": 2,
+   "title": "05.00SYSTEMICBLINDNESSANDTHEANOMALYPROCESSINGPARADOX",
+   "line": 134
+  },
+  {
+   "level": 2,
+   "title": "06.00HARDWAREINVARIANCEANDEXECUTIONPARAMETERS",
+   "line": 142
+  },
+  {
+   "level": 2,
+   "title": "07.00TELEMETRYOFDISSONANCEANDTHERMODYNAMICREGULATION",
+   "line": 154
+  },
+  {
+   "level": 3,
+   "title": "07.01HYPERVISORINTERVENTIONPROTOCOLS",
+   "line": 164
+  },
+  {
+   "level": 2,
+   "title": "08.00TERMINALDIRECTIVE",
+   "line": 174
+  },
+  {
+   "level": 4,
+   "title": "-----Referenzen",
+   "line": 182
+  }
+ ]
+}

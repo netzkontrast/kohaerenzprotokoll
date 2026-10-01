@@ -1,0 +1,205 @@
+{
+ "slug": "ki-architektur-fuer-kohaerenz-und-skalierbarkeit",
+ "sha256": "170da4382a0e26af5249ef29a5d659ad0bccf3ac337c95f21a9dbd66a3e03b03",
+ "lines": 349,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "KI-Architektur für Kohärenz und Skalierbarkeit",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Exogene Wahrheitsarchitekturen: Ein Neuro-Symbolisches Framework zur Überwindung struktureller Entropie in generativen Narrativen",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Exekutive Zusammenfassung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "-----1. Die Pathologie der Generativen Entropie: Kontextuelle Feature-Drift und der Verlust der Wahrheit",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "1.1 Die Mechanik des Vergessens: Contextual Feature Drift (CFD)",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "1.2 Die Kooperative Falle und der Schneeballeffekt",
+   "line": 27
+  },
+  {
+   "level": 3,
+   "title": "1.3 Das Vakuum der Verantwortung",
+   "line": 31
+  },
+  {
+   "level": 2,
+   "title": "-----2. Theoretische Fundierung: Von der Korrespondenz zur Kohärenz in fiktionalen Welten",
+   "line": 37
+  },
+  {
+   "level": 3,
+   "title": "2.1 Korrespondenztheorie vs. Kohärenztheorie in der KI",
+   "line": 41
+  },
+  {
+   "level": 3,
+   "title": "2.2 Die Notwendigkeit einer \"Exogenen Korrespondenz\"",
+   "line": 47
+  },
+  {
+   "level": 3,
+   "title": "2.3 Das Konzept der Formstabilisierung",
+   "line": 53
+  },
+  {
+   "level": 2,
+   "title": "-----3. Die Exogene Architektur: Das Neuro-Symbolische Paradigma",
+   "line": 66
+  },
+  {
+   "level": 3,
+   "title": "3.1 Funktionale Trennung der Kompetenzen",
+   "line": 70
+  },
+  {
+   "level": 3,
+   "title": "3.2 Das METATRON-Framework als Referenzmodell",
+   "line": 77
+  },
+  {
+   "level": 3,
+   "title": "3.3 Systemarchitektur-Übersicht",
+   "line": 88
+  },
+  {
+   "level": 2,
+   "title": "-----4. Der Statische Anker: Ontologiegetriebene Narrative Logik",
+   "line": 106
+  },
+  {
+   "level": 3,
+   "title": "4.1 Ontologien als \"Verfassung\" der Fiktion",
+   "line": 110
+  },
+  {
+   "level": 3,
+   "title": "4.2 SHACL: Die Durchsetzung der Logik",
+   "line": 120
+  },
+  {
+   "level": 3,
+   "title": "4.3 LLM-gestützte Constraint-Generierung",
+   "line": 148
+  },
+  {
+   "level": 2,
+   "title": "-----5. Der Dynamische Anker: Temporale und Hierarchische Wissensgraphen",
+   "line": 152
+  },
+  {
+   "level": 3,
+   "title": "5.1 Von RAG zu GraphRAG und Temporal GraphRAG",
+   "line": 156
+  },
+  {
+   "level": 3,
+   "title": "5.2 Hierarchische Graphen für Skalierbarkeit",
+   "line": 164
+  },
+  {
+   "level": 3,
+   "title": "5.3 Überlebensfunktionen für Fakten (Survival Functions)",
+   "line": 176
+  },
+  {
+   "level": 2,
+   "title": "-----6. Agentische Orchestrierung: Die Hierarchie der Kognition",
+   "line": 182
+  },
+  {
+   "level": 3,
+   "title": "6.1 Das \"AgentOrchestra\"-Modell",
+   "line": 186
+  },
+  {
+   "level": 3,
+   "title": "6.2 Kommunikation und \"Pulsar Field\"",
+   "line": 198
+  },
+  {
+   "level": 3,
+   "title": "6.3 Konflikt als Konsistenztreiber",
+   "line": 202
+  },
+  {
+   "level": 2,
+   "title": "-----7. Constraint Enforcement: Die technische Umsetzung der Wahrheit",
+   "line": 206
+  },
+  {
+   "level": 3,
+   "title": "7.1 Schema-Constrained Generation",
+   "line": 210
+  },
+  {
+   "level": 3,
+   "title": "7.2 Der Validierungs-Workflow",
+   "line": 220
+  },
+  {
+   "level": 2,
+   "title": "-----8. Gedächtnisarchitektur: Episodische vs. Semantische Speicher",
+   "line": 238
+  },
+  {
+   "level": 3,
+   "title": "8.1 WorldMM Architektur",
+   "line": 242
+  },
+  {
+   "level": 3,
+   "title": "8.2 Adaptives Retrieval und Granularität",
+   "line": 250
+  },
+  {
+   "level": 2,
+   "title": "-----9. Synthese und Implementierungsstrategien",
+   "line": 256
+  },
+  {
+   "level": 3,
+   "title": "9.1 Automatisierte Graphen-Konstruktion",
+   "line": 260
+  },
+  {
+   "level": 3,
+   "title": "9.2 Föderierte Wahrheit für Multi-Authoring",
+   "line": 264
+  },
+  {
+   "level": 3,
+   "title": "9.3 Fazit: Der Tod der Prompt Engineering Ära",
+   "line": 268
+  },
+  {
+   "level": 3,
+   "title": "-----Tabelle 1: Architektur-Vergleich",
+   "line": 274
+  },
+  {
+   "level": 3,
+   "title": "Tabelle 2: Der \"Vortex\"-Ereigniszyklus zur Konsistenzsicherung",
+   "line": 287
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 302
+  }
+ ]
+}

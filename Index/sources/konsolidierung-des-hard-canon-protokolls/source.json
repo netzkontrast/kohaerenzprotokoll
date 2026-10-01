@@ -1,0 +1,35 @@
+{
+ "slug": "konsolidierung-des-hard-canon-protokolls",
+ "sha256": "a6d883365ace7017e238c29133154118b494d7bcafae72dd99a12005841a39d7",
+ "lines": 53,
+ "body_offset": 1,
+ "lang": "de",
+ "title": "Konsolidierung des Hard Canon Protokolls",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "-----KOHÄRENZ PROTOKOLL — HARD CANON MASTERFILE",
+   "line": 5
+  },
+  {
+   "level": 3,
+   "title": "I. Ontologie & Charakter-Architektur",
+   "line": 11
+  },
+  {
+   "level": 3,
+   "title": "II. Narrative Struktur & Prosa-Interface",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "III. Thematischer Kern & Weltenbau",
+   "line": 31
+  },
+  {
+   "level": 3,
+   "title": "-----⚙️ SYSTEM-UPDATE REQUEST / AGENT DIRECTIVE",
+   "line": 36
+  }
+ ]
+}

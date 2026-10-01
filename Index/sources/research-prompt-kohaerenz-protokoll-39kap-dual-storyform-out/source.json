@@ -1,0 +1,260 @@
+{
+ "slug": "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+ "sha256": "c314d1b24c164a2d9e03b91416cc6537eb56d330151c089618acfd11e064187a",
+ "lines": 1299,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "research-prompt_kohaerenz-protokoll-39kap-dual-storyform-outline.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Research Prompt: Kohärenz Protokoll — 39-Kapitel-Outline mit Dual-Storyform-Encoding",
+   "line": 36
+  },
+  {
+   "level": 2,
+   "title": "Meta-Header — Was dieser Prompt ist und wie er zu lesen ist",
+   "line": 44
+  },
+  {
+   "level": 3,
+   "title": "1. Epistemologische Schicht — Forschungs-Kategorie B (Extraction)",
+   "line": 48
+  },
+  {
+   "level": 3,
+   "title": "2. Agentische Wirbelsäule — ReAct (Reason + Act + Observe)",
+   "line": 80
+  },
+  {
+   "level": 3,
+   "title": "3. Strukturelle Schicht — RISEN",
+   "line": 124
+  },
+  {
+   "level": 2,
+   "title": "Forschungsziel",
+   "line": 144
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCKS",
+   "line": 180
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 0 — Reflection Baseline (Always Active · Mandatory)",
+   "line": 182
+  },
+  {
+   "level": 4,
+   "title": "Reflection Checkpoints (Minimum)",
+   "line": 186
+  },
+  {
+   "level": 4,
+   "title": "Reflection-Vorlage (verbatim verwenden)",
+   "line": 194
+  },
+  {
+   "level": 4,
+   "title": "Regeln",
+   "line": 218
+  },
+  {
+   "level": 4,
+   "title": "Anti-Rationalization Guard",
+   "line": 224
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 1 — Quellen-Priorität (verbindlich)",
+   "line": 232
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 2 — Kanon-Snapshot-Datum",
+   "line": 258
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 3 — Output-Exclusions",
+   "line": 272
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 4 — Storyform-Vorgaben (verbindlich, vom Auftraggeber gesetzt)",
+   "line": 289
+  },
+  {
+   "level": 4,
+   "title": "Storyform A — „Heuristics of Integration\" (K1-Reading: Kaels Weg zur funktionalen Multiplizität)",
+   "line": 293
+  },
+  {
+   "level": 4,
+   "title": "Storyform B — „Phoenix Collapse\" (K0-Reading: AEGIS' rigide funktionale Tragödie)",
+   "line": 314
+  },
+  {
+   "level": 4,
+   "title": "IC-Asymmetrie (mechanische Vorbereitung der Vortex-Inversion)",
+   "line": 336
+  },
+  {
+   "level": 4,
+   "title": "Vortex-Architektur (Kapitel 35–36, fünf Beats — kanonisch festgelegt)",
+   "line": 342
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 5 — Output-Schema (verbindlich)",
+   "line": 358
+  },
+  {
+   "level": 4,
+   "title": "Pivot-Kapitel-Liste (verbindlich)",
+   "line": 554
+  },
+  {
+   "level": 4,
+   "title": "POV-Markierung",
+   "line": 568
+  },
+  {
+   "level": 4,
+   "title": "Brücken-Markierung",
+   "line": 572
+  },
+  {
+   "level": 2,
+   "title": "CRITICAL-THINKING METHODS — Active Throughout Execution",
+   "line": 580
+  },
+  {
+   "level": 3,
+   "title": "Method: Source Triangulation",
+   "line": 584
+  },
+  {
+   "level": 3,
+   "title": "Method: Contradiction Log",
+   "line": 607
+  },
+  {
+   "level": 3,
+   "title": "Method: What Would Change My Mind (Pre-Commitment)",
+   "line": 630
+  },
+  {
+   "level": 3,
+   "title": "Method: Adversarial Query Expansion (M13 — mandatory)",
+   "line": 659
+  },
+  {
+   "level": 2,
+   "title": "R — ROLE",
+   "line": 710
+  },
+  {
+   "level": 2,
+   "title": "I — INPUT",
+   "line": 733
+  },
+  {
+   "level": 2,
+   "title": "S — STEPS (mit per-Iteration Restatement Checkpoint und Reflection)",
+   "line": 767
+  },
+  {
+   "level": 3,
+   "title": "Step 0 — Restatement-Vorlage (verwende vor jedem Major Step)",
+   "line": 771
+  },
+  {
+   "level": 3,
+   "title": "Step 1 — Kickoff-Reflection + Role/Narrowing-Restatement",
+   "line": 831
+  },
+  {
+   "level": 3,
+   "title": "Step 2 — Seed Query Set bauen + Kanon-Trio vollständig lesen",
+   "line": 841
+  },
+  {
+   "level": 3,
+   "title": "Step 3 — Erste systematische Quellen-Sichtung (Drive + NotebookLM)",
+   "line": 902
+  },
+  {
+   "level": 3,
+   "title": "Step 4 (cross-pollination from Category A) — Hidden-Items / Schema-Gap Sanity Pass",
+   "line": 917
+  },
+  {
+   "level": 3,
+   "title": "Step 5 (cross-pollination from Category C) — Kanon-Drift-Check (adaptiert aus World-Change Check)",
+   "line": 935
+  },
+  {
+   "level": 3,
+   "title": "Step 6 — Klappentext schreiben",
+   "line": 954
+  },
+  {
+   "level": 3,
+   "title": "Step 7 (BATCH PROCEDURE) — Kapitel-Iterationen 1 bis 39",
+   "line": 969
+  },
+  {
+   "level": 4,
+   "title": "Iteration-Vorlage — auf jedes Kapitel i ∈ [1..39] anwenden",
+   "line": 977
+  },
+  {
+   "level": 3,
+   "title": "Step 8 — What-Would-Change-My-Mind-Pre-Commitments",
+   "line": 1047
+  },
+  {
+   "level": 3,
+   "title": "Step 9 — Anhang Quellen-Inventar",
+   "line": 1055
+  },
+  {
+   "level": 3,
+   "title": "Step 10 — Pre-Synthesis Integrity Check",
+   "line": 1059
+  },
+  {
+   "level": 3,
+   "title": "Step 11 — Synthesis (Output-Datei schreiben)",
+   "line": 1063
+  },
+  {
+   "level": 2,
+   "title": "E — EXPECTATIONS",
+   "line": 1071
+  },
+  {
+   "level": 2,
+   "title": "N — NARROWING (Hard Constraints)",
+   "line": 1120
+  },
+  {
+   "level": 2,
+   "title": "PRE-SYNTHESIS INTEGRITY CHECK",
+   "line": 1162
+  },
+  {
+   "level": 2,
+   "title": "SYNTHESIS — Final Output",
+   "line": 1206
+  },
+  {
+   "level": 2,
+   "title": "SELF-VERIFICATION CHECKLIST FÜR DIE AUSFÜHRENDE KI (11 Items)",
+   "line": 1270
+  }
+ ]
+}

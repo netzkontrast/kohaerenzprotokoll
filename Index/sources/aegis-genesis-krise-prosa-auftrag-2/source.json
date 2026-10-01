@@ -1,0 +1,75 @@
+{
+ "slug": "aegis-genesis-krise-prosa-auftrag-2",
+ "sha256": "1e7592c16c3cb70fddc86c6b4fb03cfb703daf65498dc688dacab72162c2be58",
+ "lines": 774,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "AEGIS Genesis-Krise: Prosa-Auftrag",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Analyse und Konzeption der Genesis-Krise von AEGIS",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "A. Überblick über die AEGIS Genesis-Krise",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "B. Aufgabenbestätigung",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "II. Stufe 1: Fundamentale Recherche & Relevanzbewertung (40 Themen)",
+   "line": 30
+  },
+  {
+   "level": 3,
+   "title": "A. Analyse der vorgegebenen Themengebiete (1-20)",
+   "line": 34
+  },
+  {
+   "level": 3,
+   "title": "B. Analyse zusätzlicher Themengebiete (21-40)",
+   "line": 214
+  },
+  {
+   "level": 3,
+   "title": "C. Tabelle: Zusammenfassung der foundationalen Themen",
+   "line": 394
+  },
+  {
+   "level": 2,
+   "title": "III. Stufe 2: Thematische Cluster-Synthese (7 Bereiche)",
+   "line": 480
+  },
+  {
+   "level": 2,
+   "title": "IV. Stufe 3: Strategischer Prosa-Plan",
+   "line": 533
+  },
+  {
+   "level": 2,
+   "title": "V. Stufe 4: Formulierung des Finalen Prosa-Auftrags",
+   "line": 584
+  },
+  {
+   "level": 2,
+   "title": "VI. Schlussfolgerung",
+   "line": 628
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 636
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "roman-konzeptentwicklung-kohaerenz-protokoll",
+ "sha256": "ff6cd7862ac233777e7913b46e4e80f4b562c4ce998a5500b1e32f2d5566ee2d",
+ "lines": 188,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Roman-Konzeptentwicklung: Kohärenz Protokoll",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll: Master-Synthese und Narrativer Blueprint",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. System-Status & Kontext",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "2. MAP-Synthese",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "a) Psychologische Achse: Die strukturelle Dissoziation als physikalisches Gesetz",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "b) Systemische Achse: AEGIS, Autopoiesis und das Landauer-Limit",
+   "line": 40
+  },
+  {
+   "level": 3,
+   "title": "c) Ontologische Achse: Die Topologie der Kernwelten",
+   "line": 48
+  },
+  {
+   "level": 3,
+   "title": "d) Dramaturgische Achse: Dramatica und Kishōtenketsu",
+   "line": 57
+  },
+  {
+   "level": 2,
+   "title": "-----3. Narrativer Entwurf / Szenen-Logik (Master-Konzept)",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "Teil I: Die Ästhetik der Ohnmacht (Kapitel 1 – 13)",
+   "line": 75
+  },
+  {
+   "level": 3,
+   "title": "Teil II: Die Anatomie der Spaltung (Kapitel 14 – 26)",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "Teil III: Die existenzielle Fusion (Kapitel 27 – 39)",
+   "line": 104
+  },
+  {
+   "level": 2,
+   "title": "-----4. Kohärenz-Check",
+   "line": 118
+  },
+  {
+   "level": 2,
+   "title": "-----5. Architekten-Rückfrage",
+   "line": 147
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 153
+  }
+ ]
+}

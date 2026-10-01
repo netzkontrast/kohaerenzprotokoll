@@ -1,0 +1,265 @@
+{
+ "slug": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+ "sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+ "lines": 393,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "kohaerenz_protokoll_outline_revision_2026-05-01.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — 39-Kapitel-Outline (Revision Pacing 2026-05-01)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "0. Was sich ändert (Diff zum 2026-04-30-Outline)",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "1. Klappentext (überarbeitet)",
+   "line": 32
+  },
+  {
+   "level": 2,
+   "title": "2. POV-Tabelle (39 Kapitel)",
+   "line": 52
+  },
+  {
+   "level": 2,
+   "title": "3. Alter-Surface-Timeline (Schleier in Akt I)",
+   "line": 105
+  },
+  {
+   "level": 2,
+   "title": "4. Juna-Seeding-Layer (Akt I)",
+   "line": 132
+  },
+  {
+   "level": 2,
+   "title": "5. Akt I — Ästhetik der Ohnmacht (Ch 1–13)",
+   "line": 154
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 1 — The Rebooted Self",
+   "line": 158
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 2 — Trace Reconciliation",
+   "line": 162
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 3 — A Fissure in the Data Stream",
+   "line": 166
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 4 — The Watcher's Misread",
+   "line": 170
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 5 — The Unseen Observer",
+   "line": 174
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 6 — Logos Probes the Static",
+   "line": 178
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 7 — The Resonant Intrusion",
+   "line": 182
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 8 — Zero-Tolerance",
+   "line": 186
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 9 — Flight",
+   "line": 190
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 10 — The Curator",
+   "line": 194
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 11 — The Forgotten Shrine",
+   "line": 198
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 12 — The Profile",
+   "line": 202
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 13 — Ich bin ein System",
+   "line": 206
+  },
+  {
+   "level": 2,
+   "title": "6. Akt II — Anatomie der Spaltung (Ch 14–26)",
+   "line": 214
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 14 — System Recalibration",
+   "line": 218
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 15 — Lex Reads the System",
+   "line": 222
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 16 — The Halting Problem from Inside",
+   "line": 226
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 17 — Internal War",
+   "line": 230
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 18 — Misalignment",
+   "line": 234
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 19 — The Persecutor's Whisper",
+   "line": 238
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 20 — The Ghost in the Predictor",
+   "line": 242
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 21 — Three Versions of the Same Minute",
+   "line": 246
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 22 — Latency as Weapon",
+   "line": 256
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 23 — The Discursive Gambit",
+   "line": 260
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 24 — LogOS vs Mnemosyne",
+   "line": 264
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 25 — Das Echo der Kernwunde",
+   "line": 268
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 26 — Final Defenses",
+   "line": 272
+  },
+  {
+   "level": 2,
+   "title": "7. Akt III — Existenzielle Fusion (Ch 27–39)",
+   "line": 280
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 27 — The Contradictory State",
+   "line": 284
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 28 — The Logic Tumor",
+   "line": 288
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 29 — The Living Paradox",
+   "line": 292
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 30 — Algorithmic Melancholy (Köder)",
+   "line": 296
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 31 — Oblivion erwacht",
+   "line": 300
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 32 — Frozen Guardians",
+   "line": 304
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 33 — Der Garten — Funktionale Multiplizität",
+   "line": 308
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 34 — Der dissonante Druck",
+   "line": 316
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 35 — Mnemosyne-Archipel — Hardware",
+   "line": 320
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 36 — Truth-Rotation",
+   "line": 324
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 37 — Wellen der Ordnung",
+   "line": 328
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 38 — Der unendliche Horizont",
+   "line": 332
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 39 — Echo der Kohärenz",
+   "line": 336
+  },
+  {
+   "level": 2,
+   "title": "8. Foreshadowing-Architektur (drei Ebenen)",
+   "line": 348
+  },
+  {
+   "level": 2,
+   "title": "9. Pacing-Profil pro Akt (Kurvendiagramm in Worten)",
+   "line": 364
+  },
+  {
+   "level": 2,
+   "title": "10. Was offen bleibt (für die Prosa-Phase)",
+   "line": 380
+  }
+ ]
+}

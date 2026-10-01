@@ -1,0 +1,95 @@
+{
+ "slug": "cyberpunk-roman-kohaerenz-protokoll-ubersetzung",
+ "sha256": "b8ccedbc4f75d0d405bab98ab4899ee221b155967c938310709b6b696208e44c",
+ "lines": 162,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Cyberpunk-Roman: Kohärenz-Protokoll-Übersetzung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Translation des \"Brief Julia\"-Narrativs in die Agency System Design Language: Ein kohärenz-protokollarisches Framework für Interface Brutalismus und Weltgestaltung",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Epistemologische Grundlagen und das Kohärenz-Protokoll",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Das Dual-Kernel-Paradigma als architektonische Psyche",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "Transformation der Topographie und Materialität",
+   "line": 29
+  },
+  {
+   "level": 2,
+   "title": "Vektor-Fragmentierung: Die Semiotik der Linie",
+   "line": 37
+  },
+  {
+   "level": 2,
+   "title": "Diagnostische Glitch-Semiotik: Der Fehler als Symptom",
+   "line": 45
+  },
+  {
+   "level": 2,
+   "title": "Psychologische Thermodynamik: Die 5%-Regel und polyphone Farblogik",
+   "line": 61
+  },
+  {
+   "level": 3,
+   "title": "Deterministische Übersetzung der Gelb-Typologien",
+   "line": 67
+  },
+  {
+   "level": 2,
+   "title": "Roster-Mapping: Die 13 Architektonischen Fragmente",
+   "line": 79
+  },
+  {
+   "level": 3,
+   "title": "Front-End-Protokolle (Slow Kernel Anchors / ANPs)",
+   "line": 83
+  },
+  {
+   "level": 3,
+   "title": "Hintergrund-Prozesse (Fast Kernel Anchors / EPs)",
+   "line": 94
+  },
+  {
+   "level": 2,
+   "title": "Semiotisches Vokabular: Architektur der Symbole",
+   "line": 104
+  },
+  {
+   "level": 2,
+   "title": "Perspektivische Spannungsfelder und Polyphonie-Regeln",
+   "line": 113
+  },
+  {
+   "level": 3,
+   "title": "Komposition der Polyphonie",
+   "line": 119
+  },
+  {
+   "level": 2,
+   "title": "Das Eskalationsmodul: Die deterministische Zustandsmaschine",
+   "line": 125
+  },
+  {
+   "level": 2,
+   "title": "Operative Implementierung: Research Prompt Optimizer und NovelOS Protokolle",
+   "line": 134
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 152
+  }
+ ]
+}

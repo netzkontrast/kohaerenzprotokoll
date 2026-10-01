@@ -1,0 +1,90 @@
+{
+ "slug": "narrative-loesungen-fuer-romanprojekt",
+ "sha256": "8deccd93e8e92a6d3272748c078bb4d2c72052d88fe826487b1605b91f2d6298",
+ "lines": 531,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Narrative Lösungen für Romanprojekt",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Narrative Lösungen für Fortgeschrittene Projekt-Herausforderungen: Integration, Interaktion, Implementierung",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Einleitung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Analyse Konkreter Narrativer Lösungen",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "1.1 Dynamik der Interaktion zwischen den Ebenen (Personas, Meta-Erzähler, Meta-Realität)",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "1.2 Darstellung von Integration/Klarheit (\"Functional Multiplicity\")",
+   "line": 49
+  },
+  {
+   "level": 3,
+   "title": "1.3 Implementierung des 'Magier'-Modus",
+   "line": 76
+  },
+  {
+   "level": 3,
+   "title": "1.4 Verkörperung philosophischer Themen in Welt und Handlung",
+   "line": 105
+  },
+  {
+   "level": 3,
+   "title": "1.5 Informationsmanagement und Pacing in komplexer Struktur",
+   "line": 133
+  },
+  {
+   "level": 3,
+   "title": "1.6 Die epistemologische Reise des Lesers",
+   "line": 162
+  },
+  {
+   "level": 3,
+   "title": "1.7 Ethik des Meta-Erzählers und der Darstellung",
+   "line": 191
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Synthese, Implikationen & Weiterführende Überlegungen",
+   "line": 221
+  },
+  {
+   "level": 3,
+   "title": "2.1 Synthese der Lösungen",
+   "line": 223
+  },
+  {
+   "level": 3,
+   "title": "2.2 Implikationen für das Prototyp-Konzept",
+   "line": 261
+  },
+  {
+   "level": 3,
+   "title": "2.3 Formulierung Eigener Vertiefungsfragen (AI Task - NZT-Mode)",
+   "line": 293
+  },
+  {
+   "level": 2,
+   "title": "Schlussfolgerung",
+   "line": 319
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 327
+  }
+ ]
+}

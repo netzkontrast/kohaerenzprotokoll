@@ -1,0 +1,385 @@
+{
+ "slug": "koharenz-protokoll-konzept-iteration-genesis-md",
+ "sha256": "f81417c6b3fbdda446d07068ba1d6a29121d8dba9fb2afd94d96b8b9e1b7dff2",
+ "lines": 870,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "koharenz-protokoll-konzept-iteration-genesis.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Umfassendes Konzept",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Inhalt",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "Teil I — Das ontologische Fundament",
+   "line": 36
+  },
+  {
+   "level": 3,
+   "title": "I.1 Die drei Schichten",
+   "line": 38
+  },
+  {
+   "level": 3,
+   "title": "I.2 Die wahre Tragödie der Genesis",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "I.3 Was Kael ist",
+   "line": 70
+  },
+  {
+   "level": 3,
+   "title": "I.4 Was AEGIS ist (jetzt anders gelesen)",
+   "line": 78
+  },
+  {
+   "level": 3,
+   "title": "I.5 Die Heilungs-Schleife des Romans",
+   "line": 86
+  },
+  {
+   "level": 3,
+   "title": "I.6 Die zentrale Formel-Inversion",
+   "line": 100
+  },
+  {
+   "level": 3,
+   "title": "I.7 Was das tonale Versprechen \"Liebe bleibt, wie der Schmerz\" bedeutet",
+   "line": 118
+  },
+  {
+   "level": 2,
+   "title": "Teil II — Storyform-Architektur",
+   "line": 138
+  },
+  {
+   "level": 3,
+   "title": "II.1 Dual-Storyform — vollständige Spezifikation",
+   "line": 140
+  },
+  {
+   "level": 3,
+   "title": "II.2 Die Klein-c-Inversion als Trennungs-Spiegel",
+   "line": 177
+  },
+  {
+   "level": 3,
+   "title": "II.3 Genesis 4-Beat-Sequenz",
+   "line": 198
+  },
+  {
+   "level": 3,
+   "title": "II.4 Storypoint-Akzente pro Throughline (Kurzform)",
+   "line": 213
+  },
+  {
+   "level": 2,
+   "title": "Teil III — Drei narrative Modi mit Genesis-Klammer",
+   "line": 253
+  },
+  {
+   "level": 3,
+   "title": "III.1 Architektur-Übersicht",
+   "line": 255
+  },
+  {
+   "level": 3,
+   "title": "III.2 Kap 0 — Genesis komplett",
+   "line": 288
+  },
+  {
+   "level": 3,
+   "title": "III.3 Teil 1 (Kap 1–13) — Heldinnenreise innen",
+   "line": 315
+  },
+  {
+   "level": 3,
+   "title": "III.4 Teil 2 (Kap 14–26) — Zyklischer Modus",
+   "line": 362
+  },
+  {
+   "level": 3,
+   "title": "III.5 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex",
+   "line": 395
+  },
+  {
+   "level": 3,
+   "title": "III.6 Kap 40 — Geheilte Genesis",
+   "line": 455
+  },
+  {
+   "level": 2,
+   "title": "Teil IV — Knapper Kapitel-Outline (Kap 0–40)",
+   "line": 498
+  },
+  {
+   "level": 3,
+   "title": "Kap 0 — Genesis-Prolog",
+   "line": 502
+  },
+  {
+   "level": 3,
+   "title": "Kap 1 — Instrumente der Ordnung (HR-Stufe 1: Illusion der perfekten Welt)",
+   "line": 506
+  },
+  {
+   "level": 3,
+   "title": "Kap 2 — Geometrie der Isolation (HR-Stufe 2: Verrat / Desillusionierung)",
+   "line": 510
+  },
+  {
+   "level": 3,
+   "title": "Kap 3 — Das flüchtige Echo (HR-Stufe 3: Vorbereitung mit Juna-Ahnung)",
+   "line": 514
+  },
+  {
+   "level": 3,
+   "title": "Kap 4 — Die unentscheidbare Zone (HR-Stufe 4: Pforten der Verurteilung)",
+   "line": 518
+  },
+  {
+   "level": 3,
+   "title": "Kap 5 — Der Glanz der Oberfläche (HR-Stufe 5: Auge des Sturms)",
+   "line": 522
+  },
+  {
+   "level": 3,
+   "title": "Kap 6 — Echos im Fundament (HR-Stufe 6: Tod einer Einstellung)",
+   "line": 526
+  },
+  {
+   "level": 3,
+   "title": "Kap 7 — Die Stimme im Rauschen (HR-Stufe 7: Sehnsucht nach dem Weiblichen)",
+   "line": 530
+  },
+  {
+   "level": 3,
+   "title": "Kap 8 — Die Wächterin (HR-Stufe 8: Wiedergeburt)",
+   "line": 534
+  },
+  {
+   "level": 3,
+   "title": "Kap 9 — Wir (HR-Stufe 9: Integration beginnt)",
+   "line": 538
+  },
+  {
+   "level": 3,
+   "title": "Kap 10 — Die erste Brücke (HR-Erweiterung 1)",
+   "line": 542
+  },
+  {
+   "level": 3,
+   "title": "Kap 11 — Mosaik des Selbst (HR-Erweiterung 2: Akzeptanz der Komplexität)",
+   "line": 546
+  },
+  {
+   "level": 3,
+   "title": "Kap 12 — Die Stille der Mitte (HR-Erweiterung 3: Innerer Frieden)",
+   "line": 550
+  },
+  {
+   "level": 3,
+   "title": "Kap 13 — Tanz im Garten (HR-Stufe 13: Neue innere Welt)",
+   "line": 554
+  },
+  {
+   "level": 3,
+   "title": "Kap 14 — Der Bruch des Gleichgewichts (Modus-Wechsel zu Zyklus)",
+   "line": 558
+  },
+  {
+   "level": 3,
+   "title": "Kap 15 — Schattenwurf (Z1-Destabilisierung)",
+   "line": 562
+  },
+  {
+   "level": 3,
+   "title": "Kap 16 — Bunker (Z1-Reaktion)",
+   "line": 566
+  },
+  {
+   "level": 3,
+   "title": "Kap 17 — Licht der Wächterin (Z1-Korrektur)",
+   "line": 570
+  },
+  {
+   "level": 3,
+   "title": "Kap 18 — Cache-Konflikt (Z2-Destabilisierung, Genesis-Cluster Beginn)",
+   "line": 574
+  },
+  {
+   "level": 3,
+   "title": "Kap 19 — KI-Ethik (Z2-Reaktion + AEGIS-Intervention)",
+   "line": 578
+  },
+  {
+   "level": 3,
+   "title": "Kap 20 — Lyons-Welt (Z2-Korrektur)",
+   "line": 582
+  },
+  {
+   "level": 3,
+   "title": "Kap 21 — Membran (Z3-Destabilisierung, Genesis-Cluster Mitte)",
+   "line": 586
+  },
+  {
+   "level": 3,
+   "title": "Kap 22 — AEGIS' Dilemma (Z3-Reaktion, Genesis-Cluster Ende)",
+   "line": 590
+  },
+  {
+   "level": 3,
+   "title": "Kap 23 — Mosaik-Schöpfung (Z3-Korrektur)",
+   "line": 594
+  },
+  {
+   "level": 3,
+   "title": "Kap 24 — Telefon-Stille (Wiederkehrendes K-J-Thema)",
+   "line": 598
+  },
+  {
+   "level": 3,
+   "title": "Kap 25 — Wegkreuzung (Wendepunkt-Vorbereitung)",
+   "line": 602
+  },
+  {
+   "level": 3,
+   "title": "Kap 26 — Schritt ins Ungewisse (Wendepunkt — Entscheidung)",
+   "line": 606
+  },
+  {
+   "level": 3,
+   "title": "Kap 27 — Autoren-Feder (Modus-Wechsel zu HR außen, HR-Stufe 1: Ordinary World)",
+   "line": 610
+  },
+  {
+   "level": 3,
+   "title": "Kap 28 — AEGIS' Eskalation (HR-Stufe 2: Call to Adventure)",
+   "line": 614
+  },
+  {
+   "level": 3,
+   "title": "Kap 29 — Angst des Kindes (HR-Stufe 3: Refusal)",
+   "line": 618
+  },
+  {
+   "level": 3,
+   "title": "Kap 30 — Junas Kanal (HR-Stufe 4: Meeting Mentor)",
+   "line": 622
+  },
+  {
+   "level": 3,
+   "title": "Kap 31 — Auflösung der Guardians (HR-Stufe 5: Crossing First Threshold + Stufe 6: Tests, Allies, Enemies)",
+   "line": 626
+  },
+  {
+   "level": 3,
+   "title": "Kap 32 — Logische Labyrinthe (HR-Stufe 6 fortgesetzt: Tests)",
+   "line": 630
+  },
+  {
+   "level": 3,
+   "title": "Kap 33 — Das Fundament (HR-Stufe 7: Approach Inmost Cave)",
+   "line": 634
+  },
+  {
+   "level": 3,
+   "title": "Kap 34 — Die Konfrontation (HR-Stufe 7 fortgesetzt: Inmost Cave)",
+   "line": 638
+  },
+  {
+   "level": 3,
+   "title": "Kap 35 — Vortex 1 Beats 1–3 (HR-Stufe 8: Ordeal)",
+   "line": 642
+  },
+  {
+   "level": 3,
+   "title": "Kap 36 — Vortex 1 Beats 4–5 (HR-Stufe 9: Reward — Vorgriff)",
+   "line": 646
+  },
+  {
+   "level": 3,
+   "title": "Kap 37 — Der Gärtner (Trügerischer Sieg)",
+   "line": 650
+  },
+  {
+   "level": 3,
+   "title": "Kap 38 — Die Resonanz, die ankommt (Vortex 2 Kap 1, HR-Stufe 10: Road Back)",
+   "line": 654
+  },
+  {
+   "level": 3,
+   "title": "Kap 39 — Wir-AEGIS (Vortex 2 Kap 2, HR-Stufe 11: Resurrection + Stufe 12: Return with Elixir)",
+   "line": 658
+  },
+  {
+   "level": 3,
+   "title": "Kap 40 — Geheilte Genesis (Coda)",
+   "line": 662
+  },
+  {
+   "level": 2,
+   "title": "Teil V — Tonalität, Stil, Foreshadowing",
+   "line": 670
+  },
+  {
+   "level": 3,
+   "title": "V.1 Stil-Anker aus Kap 0",
+   "line": 672
+  },
+  {
+   "level": 3,
+   "title": "V.2 Tonalitäts-Progression über alle 41 Bewegungen",
+   "line": 684
+  },
+  {
+   "level": 3,
+   "title": "V.3 Foreshadowing-Programm",
+   "line": 706
+  },
+  {
+   "level": 3,
+   "title": "V.4 Spezielle Encoding-Disziplinen",
+   "line": 738
+  },
+  {
+   "level": 2,
+   "title": "Teil VI — Working Principles, offene Fragen, nächste Schritte",
+   "line": 758
+  },
+  {
+   "level": 3,
+   "title": "VI.1 Working Principles für die nächste Iteration",
+   "line": 760
+  },
+  {
+   "level": 3,
+   "title": "VI.2 Offene Fragen (Open Questions)",
+   "line": 768
+  },
+  {
+   "level": 3,
+   "title": "VI.3 Nächste Schritte (in dieser Reihenfolge)",
+   "line": 808
+  },
+  {
+   "level": 3,
+   "title": "VI.4 Die zentrale Bewahrungs-Aufgabe für die nächste Iteration",
+   "line": 832
+  },
+  {
+   "level": 2,
+   "title": "Schlussbemerkung",
+   "line": 847
+  }
+ ]
+}

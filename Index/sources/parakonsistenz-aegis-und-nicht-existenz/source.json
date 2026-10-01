@@ -1,0 +1,155 @@
+{
+ "slug": "parakonsistenz-aegis-und-nicht-existenz",
+ "sha256": "c6a22225f04aaa834d9b61eba3cc6ce6b1d87035c24262adf970faaeb8c323dd",
+ "lines": 423,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Parakonsistenz, Aegis und Nicht-Existenz.",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Parakonsistente Logik und die Analyse eines selbstwidersprüchlichen Systems: Aegis als Wächter zwischen Existenz und Nicht-Existenz",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Einleitung",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "Kontextualisierung",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "Problemstellung",
+   "line": 29
+  },
+  {
+   "level": 3,
+   "title": "Zielsetzung und Struktur",
+   "line": 43
+  },
+  {
+   "level": 2,
+   "title": "Grundlagen der Parakonsistenten Logik",
+   "line": 57
+  },
+  {
+   "level": 3,
+   "title": "Definition und Kernprinzip: Ablehnung von ECQ",
+   "line": 59
+  },
+  {
+   "level": 3,
+   "title": "Inkonsistenz vs. Trivialität",
+   "line": 67
+  },
+  {
+   "level": 3,
+   "title": "Motivationen für Parakonsistenz",
+   "line": 76
+  },
+  {
+   "level": 3,
+   "title": "Abgrenzung: Parakonsistenz vs. Dialetheismus",
+   "line": 105
+  },
+  {
+   "level": 2,
+   "title": "Varianten Parakonsistenter Systeme",
+   "line": 119
+  },
+  {
+   "level": 3,
+   "title": "Logiken der Formalen Inkonsistenz (LFIs)",
+   "line": 123
+  },
+  {
+   "level": 3,
+   "title": "Relevanzlogiken",
+   "line": 151
+  },
+  {
+   "level": 3,
+   "title": "Mehrwertige und Dialetheische Logiken (LP, FDE)",
+   "line": 168
+  },
+  {
+   "level": 3,
+   "title": "Vergleich ausgewählter Ansätze",
+   "line": 197
+  },
+  {
+   "level": 2,
+   "title": "Analyse der Definition des „Aegis“-Systems",
+   "line": 214
+  },
+  {
+   "level": 3,
+   "title": "Die Definition und ihre Struktur",
+   "line": 216
+  },
+  {
+   "level": 3,
+   "title": "Vergleich mit Paradoxien und Grenzfällen",
+   "line": 236
+  },
+  {
+   "level": 2,
+   "title": "Modellierung von Aegis mittels Parakonsistenter Logik",
+   "line": 246
+  },
+  {
+   "level": 3,
+   "title": "Anwendung parakonsistenter Prinzipien",
+   "line": 250
+  },
+  {
+   "level": 3,
+   "title": "Aufrechterhaltung der Kohärenz durch Parakonsistenz",
+   "line": 297
+  },
+  {
+   "level": 2,
+   "title": "Aegis als Wächter: Existenz, Nicht-Existenz und Grenze",
+   "line": 306
+  },
+  {
+   "level": 3,
+   "title": "Interpretation der Rolle und Verbindung zur Definition",
+   "line": 310
+  },
+  {
+   "level": 3,
+   "title": "Philosophische Untersuchung: Sein, Nichtsein, Grenze, Identität",
+   "line": 324
+  },
+  {
+   "level": 2,
+   "title": "Synthese und Schlussfolgerung",
+   "line": 333
+  },
+  {
+   "level": 3,
+   "title": "Zusammenfassung der Analyse",
+   "line": 335
+  },
+  {
+   "level": 3,
+   "title": "Philosophische Implikationen",
+   "line": 343
+  },
+  {
+   "level": 3,
+   "title": "Abschließende Überlegungen",
+   "line": 352
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 358
+  }
+ ]
+}

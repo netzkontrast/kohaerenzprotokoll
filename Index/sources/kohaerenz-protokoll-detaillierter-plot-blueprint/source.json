@@ -1,0 +1,70 @@
+{
+ "slug": "kohaerenz-protokoll-detaillierter-plot-blueprint",
+ "sha256": "6b5173ea32683aa4a1b427572b9f2ae6ea994dd23eeae25a2adc331202b5de94",
+ "lines": 83,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Detaillierter Plot-Blueprint",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Master-Blueprint: Kohärenz Protokoll (Systemische Integration)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Struktur-Übersicht",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Teil I: Die Ästhetik der Ohnmacht (Kapitel 1 – 13)",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "Handlungsbogen:",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "Dokument-Integration:",
+   "line": 27
+  },
+  {
+   "level": 2,
+   "title": "Teil II: Die Anatomie der Spaltung (Kapitel 14 – 26)",
+   "line": 36
+  },
+  {
+   "level": 3,
+   "title": "Handlungsbogen:",
+   "line": 40
+  },
+  {
+   "level": 3,
+   "title": "Dokument-Integration:",
+   "line": 44
+  },
+  {
+   "level": 2,
+   "title": "Teil III: Die Resonanz der Wirklichkeit (Kapitel 27 – 39)",
+   "line": 61
+  },
+  {
+   "level": 3,
+   "title": "Handlungsbogen:",
+   "line": 65
+  },
+  {
+   "level": 3,
+   "title": "Dokument-Integration:",
+   "line": 69
+  },
+  {
+   "level": 2,
+   "title": "Zusammenführung der Kernfragen (Systemischer Check):",
+   "line": 78
+  }
+ ]
+}

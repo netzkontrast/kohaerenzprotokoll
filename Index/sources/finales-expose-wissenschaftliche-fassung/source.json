@@ -1,0 +1,40 @@
+{
+ "slug": "finales-expose-wissenschaftliche-fassung",
+ "sha256": "b772513f48a0e5d12aff8c048bd70cad946b4fa5382a2c264c7a6fadfafab5bf",
+ "lines": 79,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Finales Exposé (wissenschaftliche Fassung)",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Das Finale Exposé: Eine Synthese der Narrativen Architektur",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "I. Executive Summary",
+   "line": 13
+  },
+  {
+   "level": 4,
+   "title": "II. Die Thematische Kern-DNA (Die zentrale Dialektik)",
+   "line": 23
+  },
+  {
+   "level": 4,
+   "title": "III. Die Charakter-Bögen im Gesamtverlauf (Transformationen)",
+   "line": 34
+  },
+  {
+   "level": 4,
+   "title": "IV. Das Stilistische Regelwerk (Die Performativität der Prosa)",
+   "line": 41
+  },
+  {
+   "level": 4,
+   "title": "V. Die Leser-Reise (Der Kognitive Vertrag)",
+   "line": 72
+  }
+ ]
+}

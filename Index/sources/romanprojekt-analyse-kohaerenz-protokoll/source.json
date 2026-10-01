@@ -1,0 +1,70 @@
+{
+ "slug": "romanprojekt-analyse-kohaerenz-protokoll",
+ "sha256": "3b12683d13973d2b8e28c23202c3df9fa0cadcd22665c9b8407f5c1de7afca6d",
+ "lines": 124,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Romanprojekt-Analyse: Kohärenz Protokoll",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Contradiction Report — Kohärenz Protokoll",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "KRITISCH",
+   "line": 17
+  },
+  {
+   "level": 2,
+   "title": "MITTEL",
+   "line": 27
+  },
+  {
+   "level": 2,
+   "title": "MINOR",
+   "line": 36
+  },
+  {
+   "level": 2,
+   "title": "Quellen-Index",
+   "line": 43
+  },
+  {
+   "level": 1,
+   "title": "Idea Registry — Kohärenz Protokoll",
+   "line": 57
+  },
+  {
+   "level": 2,
+   "title": "Figuren",
+   "line": 61
+  },
+  {
+   "level": 2,
+   "title": "Weltbau",
+   "line": 73
+  },
+  {
+   "level": 2,
+   "title": "Physik / DKT",
+   "line": 86
+  },
+  {
+   "level": 2,
+   "title": "Themen",
+   "line": 97
+  },
+  {
+   "level": 2,
+   "title": "Struktur",
+   "line": 108
+  },
+  {
+   "level": 2,
+   "title": "Offene Fragen (vom Archivist identifiziert)",
+   "line": 118
+  }
+ ]
+}

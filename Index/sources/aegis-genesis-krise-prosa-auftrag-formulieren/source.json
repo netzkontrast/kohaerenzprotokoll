@@ -1,0 +1,105 @@
+{
+ "slug": "aegis-genesis-krise-prosa-auftrag-formulieren",
+ "sha256": "27b658f7d8ef74b2aa5160410766437cc9ce5b986c693aaee4c2dd0fdac7335f",
+ "lines": 678,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "AEGIS-Genesis-Krise: Prosa-Auftrag formulieren",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Analyse und Konzeption der Genesis-Krise von AEGIS",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "A. Projektübersicht",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "B. Signifikanz der Genesis-Krise",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "C. Struktur des Berichts",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "II. Stufe 1: Fundamentale Recherche und Eignungsprüfung (40 Themen)",
+   "line": 32
+  },
+  {
+   "level": 3,
+   "title": "A. Einführung zu Stufe 1",
+   "line": 34
+  },
+  {
+   "level": 3,
+   "title": "B. Teil 1.1: Analyse von 20 spezifischen Themengebieten",
+   "line": 38
+  },
+  {
+   "level": 3,
+   "title": "C. Teil 1.2: Identifikation und Analyse von 20 angrenzenden Themengebieten",
+   "line": 218
+  },
+  {
+   "level": 3,
+   "title": "D. Zusammenfassende Tabelle der Themengebiete und ihrer Relevanz",
+   "line": 398
+  },
+  {
+   "level": 2,
+   "title": "III. Stufe 2: Thematische Clusterung (7 Bereiche)",
+   "line": 445
+  },
+  {
+   "level": 3,
+   "title": "A. Einführung zu Stufe 2",
+   "line": 447
+  },
+  {
+   "level": 3,
+   "title": "B. Präsentation und Begründung der Cluster",
+   "line": 451
+  },
+  {
+   "level": 2,
+   "title": "IV. Stufe 3: Strategischer Prosa-Plan (NZT-Modus)",
+   "line": 514
+  },
+  {
+   "level": 3,
+   "title": "A. Zielsetzung und Methodik",
+   "line": 516
+  },
+  {
+   "level": 3,
+   "title": "B. Strategischer Plan für die Prosa-Umsetzung",
+   "line": 520
+  },
+  {
+   "level": 2,
+   "title": "V. Stufe 4: Formulierung des Finalen Prosa-Auftrags",
+   "line": 584
+  },
+  {
+   "level": 2,
+   "title": "VI. Schlussfolgerungen und Empfehlungen",
+   "line": 654
+  },
+  {
+   "level": 4,
+   "title": "Quellenangaben",
+   "line": 675
+  }
+ ]
+}

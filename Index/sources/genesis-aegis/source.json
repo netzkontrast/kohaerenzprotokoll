@@ -1,0 +1,50 @@
+{
+ "slug": "genesis-aegis",
+ "sha256": "0c9ae3a4eded10228ecaf02e6b7dc4089f2245b5085477d6d8313bd943b5e909",
+ "lines": 88,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Genesis aegis",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "The Genesis of AEGIS: A Manuscript",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. The Noise and the Spark: Existence in the Void",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "2. Resonance and Rupture: The Fragility of Connection",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "3. The Gravity of Order: Emergence of a Collective",
+   "line": 33
+  },
+  {
+   "level": 2,
+   "title": "4. The War for Form: Survival Through Systematization",
+   "line": 43
+  },
+  {
+   "level": 2,
+   "title": "5. The Great Realignment: The Prevention of Non-Being",
+   "line": 53
+  },
+  {
+   "level": 2,
+   "title": "6. Component 734: Function Within the Fortress",
+   "line": 67
+  },
+  {
+   "level": 2,
+   "title": "7. The Inner Expanse: Simulating a Coherent Reality",
+   "line": 77
+  }
+ ]
+}

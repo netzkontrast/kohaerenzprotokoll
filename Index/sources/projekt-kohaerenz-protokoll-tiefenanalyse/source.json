@@ -1,0 +1,155 @@
+{
+ "slug": "projekt-kohaerenz-protokoll-tiefenanalyse",
+ "sha256": "9e1a536201474c7c009e6cc065433049afb029e4915ef876474d73951257c23f",
+ "lines": 1008,
+ "body_offset": 1,
+ "lang": "de",
+ "title": "Projekt Kohärenz Protokoll: Tiefenanalyse",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Operatives Implementierungs-Dokument: Projekt Kohärenz Protokoll (PKP-Architektur, Typografische Strategie, Narrative Kohärenz)",
+   "line": 3
+  },
+  {
+   "level": 2,
+   "title": "TEIL I: CHARAKTER-ARCHITEKTUR (PKP-IMPLEMENTIERUNG)",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "1.0 Einleitende Systemdiagnose: Tertiäre Strukturelle Dissoziation (TSDP)",
+   "line": 20
+  },
+  {
+   "level": 3,
+   "title": "Tabelle 1: PKP-Gesamtübersicht (System-Matrix)",
+   "line": 36
+  },
+  {
+   "level": 3,
+   "title": "2.0 Detaillierte Charakter-Architektur (PKP-Implementierung)",
+   "line": 63
+  },
+  {
+   "level": 4,
+   "title": "2.1 PKP: Kael (Gesamtsystem / Host)",
+   "line": 68
+  },
+  {
+   "level": 4,
+   "title": "2.2 PKP: Juna / V (Externer Katalysator)",
+   "line": 116
+  },
+  {
+   "level": 4,
+   "title": "2.3 PKP: AEGIS (Antagonistisches System)",
+   "line": 160
+  },
+  {
+   "level": 4,
+   "title": "2.4 PKP: Die Wächterin (Lichtinstanz)",
+   "line": 206
+  },
+  {
+   "level": 4,
+   "title": "2.5 PKP: Alexander (Beschützer-Anteil)",
+   "line": 251
+  },
+  {
+   "level": 4,
+   "title": "2.6 PKP: Shadow (Zorn/Schmerz-Anteil)",
+   "line": 298
+  },
+  {
+   "level": 4,
+   "title": "2.7 PKP: Michael (Künstler/Melancholie-Anteil)",
+   "line": 345
+  },
+  {
+   "level": 4,
+   "title": "2.8 PKP: Lia / Kiko (Kind/Hoffnung-Anteil)",
+   "line": 392
+  },
+  {
+   "level": 4,
+   "title": "2.9 PKP: Isabella (Kontroll/Masken-Anteil)",
+   "line": 448
+  },
+  {
+   "level": 4,
+   "title": "2.10 PKP: Stefan (Harmonie-Anteil)",
+   "line": 494
+  },
+  {
+   "level": 4,
+   "title": "2.11 PKP: Data (Logik/Analyse-Anteil)",
+   "line": 539
+  },
+  {
+   "level": 4,
+   "title": "2.12 PKP: Argus (Kritiker/Richter-Anteil)",
+   "line": 584
+  },
+  {
+   "level": 4,
+   "title": "2.13 PKP: The Lost One (Kerntrauma/Gelb)",
+   "line": 631
+  },
+  {
+   "level": 2,
+   "title": "TEIL II: TYPOGRAFISCHE STRATEGIE (LESBARKEIT & EXPRESSION)",
+   "line": 678
+  },
+  {
+   "level": 3,
+   "title": "3.0 Einleitung: Der Kognitive Konflikt (Ergodik vs. Transportation)",
+   "line": 683
+  },
+  {
+   "level": 3,
+   "title": "3.1 Expressive Typografie als PKP-Erweiterung (Ergodisches Design)",
+   "line": 702
+  },
+  {
+   "level": 3,
+   "title": "3.2 Das Anti-Entropie-Protokoll (Gewährleistung der Lesbarkeit)",
+   "line": 762
+  },
+  {
+   "level": 3,
+   "title": "Tabelle 2: Typografisches Implementierungs-Protokoll (Auszug)",
+   "line": 801
+  },
+  {
+   "level": 2,
+   "title": "TEIL III: NARRATIVE SYNTHESE & LESER-PSYCHOLOGIE",
+   "line": 822
+  },
+  {
+   "level": 3,
+   "title": "4.0 Einleitung: Management der \"Triadischen Währung\"",
+   "line": 827
+  },
+  {
+   "level": 3,
+   "title": "4.1 Das Charakter-System (Interne Protokoll-Dynamik)",
+   "line": 835
+  },
+  {
+   "level": 3,
+   "title": "4.2 Planung der Psychologischen Wirkung (Der 'Währungs-Verlauf')",
+   "line": 863
+  },
+  {
+   "level": 3,
+   "title": "Tabelle 3: Strategischer Währungs-Verlauf (Plot vs. 'O'-Wirkung)",
+   "line": 900
+  },
+  {
+   "level": 4,
+   "title": "----------Referenzen",
+   "line": 921
+  }
+ ]
+}
