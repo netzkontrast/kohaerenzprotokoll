@@ -1,0 +1,70 @@
+{
+ "source": "kohaerenz-protokoll-konzept-master-md",
+ "runs": [
+  {
+   "run": "causallinks-haiku-2026-09-30",
+   "contract": "CausalLinks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 31,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.3781,
+   "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "rows": 91,
+   "candidates": 61,
+   "refused": {
+    "ambiguous quote: choose its passage": 2,
+    "surface absent from document": 18,
+    "quote not placed": 10
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 31,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.4122,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "rows": 164,
+   "candidates": 128,
+   "refused": {
+    "quote not placed": 30,
+    "surface absent from document": 6
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 31,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.3729,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "rows": 147,
+   "candidates": 128,
+   "refused": {
+    "quote not placed": 12,
+    "surface absent from document": 2,
+    "ambiguous quote: choose its passage": 1
+   },
+   "duplicates": 4,
+   "outcome": "yielded",
+   "stale": false
+  }
+ ]
+}

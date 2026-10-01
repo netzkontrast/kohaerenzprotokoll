@@ -1,0 +1,69 @@
+{
+ "source": "kohaerenz-protokoll-weltkonzept-synthese",
+ "runs": [
+  {
+   "run": "aliaspairs-haiku-2026-09-30",
+   "contract": "AliasPairs",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 26,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.2914,
+   "template_sha256": "2ab69a976e90e2d2a89262f84fac6ba990f0e7f19ec962d838bc71e8b919d523",
+   "rows": 47,
+   "candidates": 32,
+   "refused": {
+    "surface absent from document": 11,
+    "quote not placed": 3,
+    "ambiguous quote: choose its passage": 1
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 26,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.3152,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "rows": 84,
+   "candidates": 62,
+   "refused": {
+    "surface absent from document": 8,
+    "quote not placed": 9,
+    "joined or shortened quote": 5
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 26,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.2948,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "rows": 92,
+   "candidates": 90,
+   "refused": {
+    "quote not placed": 2
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  }
+ ]
+}

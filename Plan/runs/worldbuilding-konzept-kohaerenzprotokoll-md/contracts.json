@@ -1,0 +1,70 @@
+{
+ "source": "worldbuilding-konzept-kohaerenzprotokoll-md",
+ "runs": [
+  {
+   "run": "causallinks-haiku-2026-09-30",
+   "contract": "CausalLinks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 28,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.34,
+   "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "rows": 85,
+   "candidates": 65,
+   "refused": {
+    "surface absent from document": 11,
+    "quote not placed": 7,
+    "ambiguous quote: choose its passage": 2
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 29,
+   "failed_calls": 1,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.3722,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "rows": 124,
+   "candidates": 103,
+   "refused": {
+    "quote not placed": 17,
+    "surface absent from document": 4
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 28,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.3472,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "rows": 171,
+   "candidates": 153,
+   "refused": {
+    "surface absent from document": 4,
+    "quote not placed": 8,
+    "ambiguous quote: choose its passage": 5
+   },
+   "duplicates": 1,
+   "outcome": "yielded",
+   "stale": false
+  }
+ ]
+}

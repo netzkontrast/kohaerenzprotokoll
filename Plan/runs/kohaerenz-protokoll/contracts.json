@@ -1,0 +1,74 @@
+{
+ "source": "kohaerenz-protokoll",
+ "runs": [
+  {
+   "run": "causallinks-haiku-2026-09-30",
+   "contract": "CausalLinks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 209,
+   "failed_calls": 2,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 2.5334,
+   "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "rows": 603,
+   "candidates": 355,
+   "refused": {
+    "surface absent from document": 190,
+    "quote not placed": 48,
+    "ambiguous quote: choose its passage": 3,
+    "joined or shortened quote": 7
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 213,
+   "failed_calls": 6,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 2.685,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "rows": 794,
+   "candidates": 655,
+   "refused": {
+    "surface absent from document": 55,
+    "quote not placed": 50,
+    "joined or shortened quote": 33,
+    "ambiguous quote: choose its passage": 1
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 208,
+   "failed_calls": 1,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 2.2342,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "rows": 224,
+   "candidates": 189,
+   "refused": {
+    "surface absent from document": 6,
+    "quote not placed": 13,
+    "joined or shortened quote": 9,
+    "ambiguous quote: choose its passage": 7
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  }
+ ]
+}

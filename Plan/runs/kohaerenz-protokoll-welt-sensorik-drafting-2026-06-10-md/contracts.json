@@ -1,0 +1,73 @@
+{
+ "source": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+ "runs": [
+  {
+   "run": "causallinks-haiku-2026-09-30",
+   "contract": "CausalLinks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 36,
+   "failed_calls": 1,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.4128,
+   "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "rows": 38,
+   "candidates": 29,
+   "refused": {
+    "ambiguous quote: choose its passage": 3,
+    "quote not placed": 2,
+    "joined or shortened quote": 1,
+    "surface absent from document": 3
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 36,
+   "failed_calls": 2,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.4655,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "rows": 144,
+   "candidates": 115,
+   "refused": {
+    "quote not placed": 21,
+    "surface absent from document": 5,
+    "ambiguous quote: choose its passage": 3
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 36,
+   "failed_calls": 1,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.4274,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "rows": 148,
+   "candidates": 132,
+   "refused": {
+    "ambiguous quote: choose its passage": 5,
+    "quote not placed": 6,
+    "joined or shortened quote": 2,
+    "surface absent from document": 2
+   },
+   "duplicates": 1,
+   "outcome": "yielded",
+   "stale": false
+  }
+ ]
+}

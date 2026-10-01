@@ -1,0 +1,69 @@
+{
+ "source": "dramatica-storyform-synthese-aegis-analyse-2",
+ "runs": [
+  {
+   "run": "causallinks-haiku-2026-09-30",
+   "contract": "CausalLinks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 39,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.4756,
+   "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "rows": 118,
+   "candidates": 75,
+   "refused": {
+    "surface absent from document": 38,
+    "quote not placed": 4
+   },
+   "duplicates": 1,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 40,
+   "failed_calls": 1,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.4967,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "rows": 135,
+   "candidates": 117,
+   "refused": {
+    "quote not placed": 9,
+    "surface absent from document": 8,
+    "joined or shortened quote": 1
+   },
+   "duplicates": 0,
+   "outcome": "yielded",
+   "stale": false
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 39,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.4508,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "rows": 143,
+   "candidates": 135,
+   "refused": {
+    "quote not placed": 4,
+    "ambiguous quote: choose its passage": 2
+   },
+   "duplicates": 2,
+   "outcome": "yielded",
+   "stale": false
+  }
+ ]
+}

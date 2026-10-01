@@ -85,7 +85,7 @@ its own. Marked **have** where code already computes it somewhere in the reposit
 | `quantities` | numbers with their unit and the noun they count (`39 Kapitel`, `734`, `13 Alters`) | **new** — the `Quantities` contract found nothing on its one document; a rule can find every number, a reader judges which matter |
 | `chunks` | retrieval units with spans: **by structure** (a section, or a block group under its heading, never across a heading) and, beside them, HyperExtract's 2048-character chunks (`hx.split`) so a contract's rows map back | have — `hx.split`; **new**: structural chunks |
 | `cues` | per contract, the blocks that hold its cue words (`hegraph.gate`) | have — `hegraph.gate`; measured: a cheaper pass is not a better one (graph-contracts §4.6) |
-| `proposals` (1b) | per contract run: rows with their placed lines and status (`candidate`, `refused` and why), the model and run that made them | have — `Plan/runs/<slug>/hyperextract/<run>/` (`he_claude.py`, `reading_extract.stage`); **new**: indexed into the record by run, never merged into it |
+| `proposals` (1b) | per contract run: rows with their placed lines and status (`candidate`, `refused` and why), the model and run that made them — and the run's **outcome**, `found nothing` included: that a contract of the wrong kind returns an empty list is knowledge about the document (and the model: Haiku and Sonnet differ on it) | have — `Plan/runs/<slug>/hyperextract/<run>/` (`he_claude.py`, `reading_extract.stage`); the per-source overview `Plan/runs/<slug>/contracts.{json,md}` and the matrix `Plan/runs/contracts.md` (`contracts.py`); **new**: indexed into the record by run, never merged into it |
 
 Three rules hold for every part, because each of them is how this project once went wrong:
 

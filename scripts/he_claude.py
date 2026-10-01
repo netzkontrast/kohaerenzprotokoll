@@ -224,6 +224,7 @@ def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str 
     else:
         target.mkdir(parents=True, exist_ok=False)
     usage = {"document": doc.slug, "template": template.name, "model": f"claude-cli/{model}",
+             "template_sha256": reading_extract.digest(template), "source_sha256": reading_extract.digest(doc.path),
              **claude_cli.totals(llm.calls),
              "approval": approval or APPROVAL}
     if gate:
@@ -239,6 +240,8 @@ def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str 
     (target / "calls.jsonl").write_text("".join(json.dumps(c, ensure_ascii=False) + "\n" for c in llm.calls),
                                         encoding="utf-8")
     print(json.dumps(usage, ensure_ascii=False))
+    import contracts   # the per-source overview and the matrix name this run's outcome, found-nothing included
+    contracts.write()
     return status
 
 
