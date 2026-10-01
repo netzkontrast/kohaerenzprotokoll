@@ -1,0 +1,31 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "aafb5d66eb10a22ef252417e73eb6fab60a01523f0eea426f8643f7daa14c679",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "14–22",
+        "target": "KW2",
+        "type": "storypoint",
+        "quote": "Der Canon weist 14–22 KW2",
+        "stance": "cites"
+      },
+      {
+        "source": "23–28",
+        "target": "KW3",
+        "type": "storypoint",
+        "quote": "23–28 KW3 zu",
+        "stance": "cites"
+      },
+      {
+        "source": "Kap 25",
+        "target": "KW3",
+        "type": "storypoint",
+        "quote": "Kap 25 löst KW3 jetzt",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

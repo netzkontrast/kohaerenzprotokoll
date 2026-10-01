@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "source": "das Kapitelversprechen",
+      "target": "wer trifft die Wahl",
+      "type": "central_question",
+      "quote": "das Kapitelversprechen lautet *wer trifft die Wahl*",
+      "stance": "asserts"
+    },
+    {
+      "source": "Wegkreuzung",
+      "target": "interner Wahlpunkt",
+      "type": "motif_meaning",
+      "quote": "Motivherkunft „Wegkreuzung“ = \\*\\*interner Wahlpunkt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Wegkreuzung/Tore",
+      "target": "interner Ort der Entscheidungsfindung",
+      "type": "motif_meaning",
+      "quote": "Wegkreuzung/Tore: \\*von extern auferlegter Schwelle → interner Ort der Entscheidungsfindung",
+      "stance": "asserts"
+    }
+  ]
+}

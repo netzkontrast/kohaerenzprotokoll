@@ -29,4 +29,10 @@ Beside the Haiku pilot of 2026-09-30 on this document: the candidates stand on 5
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1337, 46.2 s. **3 rows**: 2 candidates, 1 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | das Kapitelversprechen | wer trifft die Wahl | central_question | asserts | das Kapitelversprechen lautet *wer trifft die Wahl* | 21 |
+| 2 | relation_reading | refused: quote not placed | Wegkreuzung | interner Wahlpunkt | motif_meaning | asserts | Motivherkunft „Wegkreuzung“ = \*\*interner Wahlpunkt |  |
+| 3 | relation_reading | candidate | Wegkreuzung/Tore | interner Ort der Entscheidungsfindung | motif_meaning | asserts | Wegkreuzung/Tore: \*von extern auferlegter Schwelle → interner Ort der Entscheidungsfindung | 38 |

@@ -97,3 +97,33 @@
 06:58:35 2026-09-14-kap25-vertiefung-md Precedence
 {"document": "2026-09-14-kap25-vertiefung-md", "template": "Precedence.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 42.9, "input_tokens": 32245, "output_tokens": 2976, "cost_usd": 0.1338, "approval": "decision 011 (Claude, first party); the author's instruction of 2
 06:59:18 2026-09-14-kap25-vertiefung-md ProseRules
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "ProseRules.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 66.7, "input_tokens": 33641, "output_tokens": 6055, "cost_usd": 0.1713, "approval": "decision 011 (Claude, first party); the author's instruction of 2
+07:00:25 2026-09-14-kap25-vertiefung-md Quantities
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "Quantities.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 88.0, "input_tokens": 31987, "output_tokens": 9737, "cost_usd": 0.2003, "approval": "decision 011 (Claude, first party); the author's instruction of 2
+07:01:54 2026-09-14-kap25-vertiefung-md RelationReadings
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "RelationReadings.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 145.8, "input_tokens": 30885, "output_tokens": 20267, "cost_usd": 0.3002, "approval": "decision 011 (Claude, first party); the author's instruct
+07:04:21 2026-09-14-kap25-vertiefung-md Rules
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "Rules.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 58.0, "input_tokens": 32277, "output_tokens": 4621, "cost_usd": 0.1505, "approval": "decision 011 (Claude, first party); the author's instruction of 2026-1
+07:05:19 2026-09-14-kap25-vertiefung-md StandingClaims
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "StandingClaims.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 56.7, "input_tokens": 32065, "output_tokens": 4535, "cost_usd": 0.1485, "approval": "decision 011 (Claude, first party); the author's instruction 
+07:06:16 2026-09-14-kap25-vertiefung-md StatedRelations
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "StatedRelations.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 106.6, "input_tokens": 31984, "output_tokens": 13504, "cost_usd": 0.2378, "approval": "decision 011 (Claude, first party); the author's instructi
+07:08:03 2026-09-14-kap25-vertiefung-md Storypoints
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "Storypoints.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 41.4, "input_tokens": 31952, "output_tokens": 2265, "cost_usd": 0.1254, "approval": "decision 011 (Claude, first party); the author's instruction of 
+07:08:45 2026-09-14-kap25-vertiefung-md StructureBeats
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "StructureBeats.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 59.0, "input_tokens": 32745, "output_tokens": 4811, "cost_usd": 0.1547, "approval": "decision 011 (Claude, first party); the author's instruction 
+07:09:45 2026-09-14-kap25-vertiefung-md TermCensus
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "TermCensus.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 108.9, "input_tokens": 31212, "output_tokens": 12355, "cost_usd": 0.2226, "approval": "decision 011 (Claude, first party); the author's instruction of
+07:11:34 2026-09-14-kap25-vertiefung-md TermContrasts
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "TermContrasts.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 64.5, "input_tokens": 32459, "output_tokens": 6150, "cost_usd": 0.1665, "approval": "decision 011 (Claude, first party); the author's instruction o
+07:12:39 2026-09-14-kap25-vertiefung-md TermDefinitions
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "TermDefinitions.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 67.0, "input_tokens": 30919, "output_tokens": 6398, "cost_usd": 0.1616, "approval": "decision 011 (Claude, first party); the author's instruction
+07:13:46 2026-09-14-kap25-vertiefung-md TermReadings
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "TermReadings.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 102.8, "input_tokens": 30077, "output_tokens": 13418, "cost_usd": 0.228, "approval": "decision 011 (Claude, first party); the author's instruction o
+07:15:30 2026-09-14-kap25-vertiefung-md TermTaxonomy
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "TermTaxonomy.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 49.3, "input_tokens": 32653, "output_tokens": 3789, "cost_usd": 0.144, "approval": "decision 011 (Claude, first party); the author's instruction of 
+07:16:20 2026-09-14-kap25-vertiefung-md ThemeMotifs
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "ThemeMotifs.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 46.2, "input_tokens": 32541, "output_tokens": 2821, "cost_usd": 0.1337, "approval": "decision 011 (Claude, first party); the author's instruction of 
+07:17:06 2026-09-14-kap25-vertiefung-md Utterances
+{"document": "2026-09-14-kap25-vertiefung-md", "template": "Utterances.yaml", "model": "claude-cli/sonnet", "calls": 8, "failed_calls": 0, "seconds": 60.9, "input_tokens": 31591, "output_tokens": 4720, "cost_usd": 0.1481, "approval": "decision 011 (Claude, first party); the author's instruction of 2
+07:18:08 done

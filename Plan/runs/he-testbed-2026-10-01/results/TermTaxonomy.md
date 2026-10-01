@@ -23,4 +23,14 @@ The model returned no row on this document.
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.144, 49.3 s. **7 rows**: 7 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Schleusen des Misstrauens | KW3-Unterorte | member_of | asserts | KW3-Unterorte: Schleusen des Misstrauens | 39 |
+| 2 | relation_reading | candidate | Gänge der Paranoia | KW3-Unterorte | member_of | asserts | KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia | 39 |
+| 3 | relation_reading | candidate | Panoptikum | KW3-Unterorte | member_of | asserts | KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum | 39 |
+| 4 | relation_reading | candidate | Cerberus | dekanonisierte Guardians | member_of | asserts | dekanonisierte Guardians (Cerberus | 39 |
+| 5 | relation_reading | candidate | Nox | dekanonisierte Guardians | member_of | asserts | dekanonisierte Guardians (Cerberus, Nox | 39 |
+| 6 | relation_reading | candidate | Echo | dekanonisierte Guardians | member_of | asserts | dekanonisierte Guardians (Cerberus, Nox, Echo | 39 |
+| 7 | relation_reading | candidate | Limina | dekanonisierte Guardians | member_of | asserts | dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) | 39 |

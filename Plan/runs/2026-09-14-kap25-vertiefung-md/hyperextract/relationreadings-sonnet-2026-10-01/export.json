@@ -1,0 +1,689 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Kap 25",
+        "target": "Manuskript",
+        "type": "is_weakest_chapter_of",
+        "quote": "das schwächste Kapitel des Manuskripts",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 0",
+        "target": "Manuskript",
+        "type": "excluded_from_weakest_chapter_comparison",
+        "quote": "Kap 0 ausgenommen, eigene Rahmenpoetik",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 30",
+        "target": "Kap 25",
+        "type": "follows_in_weakness",
+        "quote": "Kap 30 folgt mit 1.141",
+        "stance": "asserts"
+      },
+      {
+        "source": "git branch -r",
+        "target": "claude/kap-\\*-Branch",
+        "type": "shows_no_open",
+        "quote": "git branch -r zeigt keinen offenen claude/kap-\\*-Branch",
+        "stance": "denies"
+      },
+      {
+        "source": "Akt-II-Arc",
+        "target": "getragene Schwellensequenz",
+        "type": "requires",
+        "quote": "Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Masterplan-Zeile 25",
+        "target": "zwei genuine Zukunftsverluste",
+        "type": "requires",
+        "quote": "zwei genuine Zukunftsverluste",
+        "stance": "asserts"
+      },
+      {
+        "source": "Masterplan-Zeile 25",
+        "target": "physische Verzweigung",
+        "type": "requires",
+        "quote": "physische Verzweigung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Masterplan-Zeile 25",
+        "target": "Körperbogen",
+        "type": "requires",
+        "quote": "einen Körperbogen",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Hand",
+        "target": "das Bestätigungsfeld",
+        "type": "moves_toward",
+        "quote": "bewegt sich um 10:58 die Hand von selbst auf das Bestätigungsfeld",
+        "stance": "asserts"
+      },
+      {
+        "source": "einer zweiten Spannung im selben Unterarm",
+        "target": "die Hand",
+        "type": "stops",
+        "quote": "wird von einer zweiten Spannung im selben Unterarm gestoppt",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Nicht-Handlung",
+        "target": "Entscheidung",
+        "type": "is_readable_as",
+        "quote": "Damit ist die Nicht-Handlung als **Entscheidung** lesbar statt als Freeze",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Nicht-Handlung",
+        "target": "Freeze",
+        "type": "is_not_readable_as",
+        "quote": "Damit ist die Nicht-Handlung als **Entscheidung** lesbar statt als Freeze",
+        "stance": "denies"
+      },
+      {
+        "source": "Canon §0 Schleier-Disziplin",
+        "target": "Kap 25–26",
+        "type": "requires_veil_lifting_for",
+        "quote": "Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26",
+        "stance": "asserts"
+      },
+      {
+        "source": "die alte Fassung",
+        "target": "Canon §0 Schleier-Disziplin",
+        "type": "does_not_fulfil",
+        "quote": "die alte Fassung löste das nicht ein",
+        "stance": "denies"
+      },
+      {
+        "source": "Die Einheit von Station 7",
+        "target": "die Priorität-1-Wasserführung",
+        "type": "takes_over",
+        "quote": "Die Einheit von Station 7 hängt die Priorität-1-Wasserführung und zwei weitere Vorgänge auf sich um",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Einheit von Station 7",
+        "target": "Eigennutz",
+        "type": "is_motivated_by",
+        "quote": "aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Einheit von Station 7",
+        "target": "Güte",
+        "type": "is_not_motivated_by",
+        "quote": "aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte",
+        "stance": "denies"
+      },
+      {
+        "source": "Restwertschwelle",
+        "target": "Besuch der technischen Ebene",
+        "type": "leads_to",
+        "quote": "Restwertschwelle → Besuch der technischen Ebene",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaels Verweigerung",
+        "target": "einem Dritten",
+        "type": "imposes_price_on",
+        "quote": "Kaels Verweigerung hat einen bezifferten Preis bei einem Dritten",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Apparat",
+        "target": "die Abweichung",
+        "type": "registers",
+        "quote": "registriert der Apparat die Abweichung, ohne zu handeln",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Apparat",
+        "target": "die Abweichung",
+        "type": "does_not_act_on",
+        "quote": "registriert der Apparat die Abweichung, ohne zu handeln",
+        "stance": "denies"
+      },
+      {
+        "source": "Canon §5",
+        "target": "AEGIS bemerkt Kaels neue Klarheit",
+        "type": "requires",
+        "quote": "Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Abzweigung",
+        "target": "Platte 204",
+        "type": "located_at",
+        "quote": "Abzweigung bei Platte 204",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schild",
+        "target": "elf vorgesehenen Kennungen",
+        "type": "displays",
+        "quote": "Schild mit elf vorgesehenen Kennungen",
+        "stance": "asserts"
+      },
+      {
+        "source": "kühlere Luft",
+        "target": "Treppenschacht",
+        "type": "comes_from",
+        "quote": "kühlere Luft aus dem Treppenschacht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "drei Stufen",
+        "type": "walks_down",
+        "quote": "Kael geht drei Stufen hinunter",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Delta-Sieben",
+        "type": "does_not_check_beneath",
+        "quote": "sieht **nicht** in der allgemeinen Ebene nach, was unter Delta-Sieben liegt",
+        "stance": "denies"
+      },
+      {
+        "source": "Das",
+        "target": "Canon-Weltanker",
+        "type": "fulfills",
+        "quote": "Das löst den Canon-Weltanker für Kap 25 ein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stehen an der Schwelle",
+        "target": "der Tritt darüber",
+        "type": "is_distinguished_from",
+        "quote": "(Kap 26) trennscharf",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das",
+        "target": "Masterplan-Zeile",
+        "type": "realizes",
+        "quote": "realisiert die Masterplan-Zeile",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hook-in",
+        "target": "Kap 24",
+        "type": "originates_from",
+        "quote": "Hook-in aus Kap 24 explizit",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Klick",
+        "target": "Abwesenheit",
+        "type": "becomes_audible_as",
+        "quote": "der Klick wird als **Abwesenheit** hörbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Restzahl",
+        "target": "34",
+        "type": "stands_at_after_shift_end",
+        "quote": "die Restzahl steht nach Schichtende bei 34 statt 31",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Restzahl",
+        "target": "sechs",
+        "type": "will_not_stand_at",
+        "quote": "wird morgen früh nicht bei sechs stehen",
+        "stance": "denies"
+      },
+      {
+        "source": "neuer Hook-out",
+        "target": "Kap 26",
+        "type": "carries_directly_into",
+        "quote": "trägt direkt in Kap 26",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 25",
+        "target": "Schwelle",
+        "type": "is",
+        "quote": "Kap 25: Schwelle, nicht Konfrontation",
+        "stance": "cites"
+      },
+      {
+        "source": "Kap 25",
+        "target": "Konfrontation",
+        "type": "is_not",
+        "quote": "Kap 25: Schwelle, nicht Konfrontation",
+        "stance": "denies"
+      },
+      {
+        "source": "Wegkreuzung/Tore",
+        "target": "interner Ort der Entscheidungsfindung",
+        "type": "symbol_shifts_from_external_threshold_to_internal_place",
+        "quote": "von extern auferlegter Schwelle → interner Ort der Entscheidungsfindung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Tiefenanalyse von „The Agency System“",
+        "target": "Wegkreuzung",
+        "type": "is_motif_origin_of",
+        "quote": "Motivherkunft „Wegkreuzung“ = \\*\\*interner Wahlpunkt\\*\\*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wegkreuzung",
+        "target": "Schritt ins Ungewisse",
+        "type": "is_distinguished_from",
+        "quote": "Abgrenzung zu „Schritt ins Ungewisse“ (= bewusste Wahl, Kap 26)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Tiefenanalyse von „The Agency System“",
+        "target": "Kapitels",
+        "type": "carries_axis_of",
+        "quote": "trägt die Achse des Kapitels",
+        "stance": "asserts"
+      },
+      {
+        "source": "KW3-Unterorte",
+        "target": "Kontrollpunkt-/Überwachungslogik",
+        "type": "serves_as_background_for",
+        "quote": "als Hintergrund für Kontrollpunkt-/Überwachungslogik",
+        "stance": "asserts"
+      },
+      {
+        "source": "dekanonisierte Guardians (Cerberus, Nox, Echo, Limina)",
+        "target": "Orte-Konzept für „Kohärenz Protokoll“",
+        "type": "not_adopted_from",
+        "quote": "dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) \\*\\*nicht\\*\\* übernommen",
+        "stance": "denies"
+      },
+      {
+        "source": "Schutz-Anteil",
+        "target": "ANP-Alltagssystem",
+        "type": "acts_as_defense_system_against",
+        "quote": "Schutz-Anteil als Aktionssystem (Verteidigung) gegen ANP-Alltagssystem",
+        "stance": "asserts"
+      },
+      {
+        "source": "inneres Tauziehen",
+        "target": "Unterarm",
+        "type": "is_body_image_for_opposing_tension_in",
+        "quote": "„inneres Tauziehen“ als Körperbild für die gegenläufige Spannung im Unterarm",
+        "stance": "asserts"
+      },
+      {
+        "source": "Co₁/McL/B/Ly-Taxonomie",
+        "target": "aktuelle KW-Kanon",
+        "type": "is_not",
+        "quote": "Co₁/McL/B/Ly-Taxonomie ist nicht der aktuelle KW-Kanon",
+        "stance": "denies"
+      },
+      {
+        "source": "Material aus \\[S\\]-Quellen",
+        "target": "Kanon",
+        "type": "was_not_treated_as",
+        "quote": "Kein Material aus \\[S\\]-Quellen wurde als Kanon behandelt",
+        "stance": "denies"
+      },
+      {
+        "source": "alles Weltkonkrete der Prosa",
+        "target": "\\[K\\]-Repo-Canon",
+        "type": "derives_from",
+        "quote": "alles Weltkonkrete der Prosa stammt aus \\[K\\]-Repo-Canon",
+        "stance": "asserts"
+      },
+      {
+        "source": "alles Weltkonkrete der Prosa",
+        "target": "bereits gedrafteten Nachbarkapiteln",
+        "type": "derives_from",
+        "quote": "oder aus den bereits gedrafteten Nachbarkapiteln",
+        "stance": "asserts"
+      },
+      {
+        "source": "R-2",
+        "target": "Deutungssätze",
+        "type": "defused",
+        "quote": "zwei Deutungssätze entschärft",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vielheit",
+        "target": "25–26",
+        "type": "required_by_canon_for",
+        "quote": "Vielheit wird benannt, **kanonisch gefordert** für 25–26",
+        "stance": "asserts"
+      },
+      {
+        "source": "drei Mikrocues",
+        "target": "Handszene",
+        "type": "appear_in",
+        "quote": "drei Mikrocues in der Handszene",
+        "stance": "asserts"
+      },
+      {
+        "source": "kaltes Ozon",
+        "target": "Abmeldeszene",
+        "type": "appears_only_in",
+        "quote": "kaltes Ozon **nur** in der Abmeldeszene",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wärme",
+        "target": "Abmeldeszene",
+        "type": "does_not_appear_in",
+        "quote": "Wärme dort nicht",
+        "stance": "denies"
+      },
+      {
+        "source": "Wärmespur",
+        "target": "ozonfreien Szene",
+        "type": "appears_only_as_backreference_in",
+        "quote": "Wärmespur nur als Rückverweis",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Subjekt",
+        "type": "is_never",
+        "quote": "Juna nie Subjekt, nie Name, nie Körper, nie Stimme",
+        "stance": "denies"
+      },
+      {
+        "source": "Juna",
+        "target": "Name",
+        "type": "is_never",
+        "quote": "Juna nie Subjekt, nie Name, nie Körper, nie Stimme",
+        "stance": "denies"
+      },
+      {
+        "source": "Juna",
+        "target": "Körper",
+        "type": "is_never",
+        "quote": "Juna nie Subjekt, nie Name, nie Körper, nie Stimme",
+        "stance": "denies"
+      },
+      {
+        "source": "Juna",
+        "target": "Stimme",
+        "type": "is_never",
+        "quote": "Juna nie Subjekt, nie Name, nie Körper, nie Stimme",
+        "stance": "denies"
+      },
+      {
+        "source": "Inhaltserfassung",
+        "target": "02:10–02:14",
+        "type": "ran_during",
+        "quote": "die Inhaltserfassung lief 02:10–02:14",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Nacht",
+        "type": "was_awake_and_counting_during",
+        "quote": "Kael nachweislich wach war und zählte",
+        "stance": "asserts"
+      },
+      {
+        "source": "Restzahl-Anstieg",
+        "target": "zweite Falschheit",
+        "type": "kept_explainable_to_avoid",
+        "quote": "der Restzahl-Anstieg ist bewusst **erklärbar** gehalten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Telefon-Stille-Anker",
+        "target": "gebrochen",
+        "type": "was_not_broken",
+        "quote": "Telefon-Stille-Anker getragen, nicht gebrochen",
+        "stance": "denies"
+      },
+      {
+        "source": "Kaels Signatur",
+        "target": "Wechsel",
+        "type": "breaks_only_where_intended",
+        "quote": "Kaels Signatur bricht nur dort, wo ein Wechsel gemeint ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "ncp.json",
+        "target": "players, scenes, storybeats, moments",
+        "type": "has_empty",
+        "quote": "ncp.json und ncp-b.json: players, scenes, storybeats, moments sind leer",
+        "stance": "asserts"
+      },
+      {
+        "source": "ncp-b.json",
+        "target": "players, scenes, storybeats, moments",
+        "type": "has_empty",
+        "quote": "ncp.json und ncp-b.json: players, scenes, storybeats, moments sind leer",
+        "stance": "asserts"
+      },
+      {
+        "source": "Prosavertiefung",
+        "target": "Storyform-Slots",
+        "type": "does_not_touch",
+        "quote": "die Storyform-Slots sind von einer Prosavertiefung nicht berührt",
+        "stance": "denies"
+      },
+      {
+        "source": "Kapitel 25",
+        "target": "ncp.json",
+        "type": "is_not_encoded_in",
+        "quote": "Kapitel 25 ist in keiner der beiden Dateien encodiert",
+        "stance": "denies"
+      },
+      {
+        "source": "Kapitel 25",
+        "target": "ncp-b.json",
+        "type": "is_not_encoded_in",
+        "quote": "Kapitel 25 ist in keiner der beiden Dateien encodiert",
+        "stance": "denies"
+      },
+      {
+        "source": "agency-Capability-Verben",
+        "target": "Lauf",
+        "type": "were_not_available_in",
+        "quote": "Die agency-Capability-Verben standen in diesem Lauf nicht zur Verfügung",
+        "stance": "denies"
+      },
+      {
+        "source": "Provenienz",
+        "target": ".agency/session.db",
+        "type": "was_not_written_to",
+        "quote": "Provenienz wurde daher **nicht** in .agency/session.db geschrieben",
+        "stance": "denies"
+      },
+      {
+        "source": "Benennungslock",
+        "target": "Kap 1–13",
+        "type": "applies_to",
+        "quote": "Der Benennungslock gilt für Kap 1–13.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 14–26",
+        "target": "die Instanz",
+        "type": "does_not_name_to_reader",
+        "quote": "benennen die Instanz trotzdem nirgends leserseitig",
+        "stance": "denies"
+      },
+      {
+        "source": "Kapitel 14–26",
+        "target": "\\[AEGIS v{X.X} // LOG\\_{0xHEX}\\]-Format",
+        "type": "does_not_use",
+        "quote": "verwenden auch kein \\[AEGIS v{X.X} // LOG\\_{0xHEX}\\]-Format",
+        "stance": "denies"
+      },
+      {
+        "source": "Sprach-DNA",
+        "target": "\\[AEGIS v{X.X} // LOG\\_{0xHEX}\\]-Format",
+        "type": "provides_for",
+        "quote": "obwohl die Sprach-DNA es",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 25",
+        "target": "Nachbarkapitel",
+        "type": "follows_practice_of",
+        "quote": "Kap 25 folgt der Praxis der Nachbarkapitel",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Name",
+        "target": "Akt II",
+        "type": "may_be_released_to_reader_in",
+        "quote": "Soll der Name — und das Log-Format — irgendwo in Akt II leserseitig freigegeben werden",
+        "stance": "asks"
+      },
+      {
+        "source": "Schleier-Benennung",
+        "target": "Wohneinheit",
+        "type": "alternative_placement",
+        "quote": "Alternativen wären eine spätere Setzung (Wohneinheit, ruhiger)",
+        "stance": "hedges"
+      },
+      {
+        "source": "Schleier-Benennung",
+        "target": "Kap 26",
+        "type": "alternative_relocation_to",
+        "quote": "die Verlagerung nach Kap 26",
+        "stance": "hedges"
+      },
+      {
+        "source": "Kap 25",
+        "target": "Abwesenheit des Klicks",
+        "type": "uses_locally",
+        "quote": "Kap 25 verwendet die **Abwesenheit** des Klicks lokal",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vortex 1 Beat 3",
+        "target": "das Fehlen des Klicks",
+        "type": "has_canonical_sensory_anchor",
+        "quote": "Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "lokale Vorform",
+        "target": "Eskalationsstufe",
+        "type": "is_intended_as",
+        "quote": "Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material?",
+        "stance": "asks"
+      },
+      {
+        "source": "Template-Kopf",
+        "target": "drei Szenen",
+        "type": "lists",
+        "quote": "Der Template-Kopf führt weiterhin drei Szenen, die Prosa hat sieben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Drafting-Brief",
+        "target": "Kopf",
+        "type": "forbids_changes_except_status",
+        "quote": "Der Drafting-Brief verbietet Änderungen am Kopf außer status.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Szenenplan",
+        "target": "Outline-Pass",
+        "type": "should_be_updated_in",
+        "quote": "Soll der Szenenplan in einem separaten Outline-Pass nachgezogen werden?",
+        "stance": "asks"
+      },
+      {
+        "source": "Einheit Station 7",
+        "target": "Figur mit eigenem Ziel",
+        "type": "is",
+        "quote": "Sie ist jetzt eine Figur mit eigenem Ziel",
+        "stance": "asserts"
+      },
+      {
+        "source": "Einheit Station 7",
+        "target": "Namenlosigkeit",
+        "type": "remains_nameless",
+        "quote": "bleibt aber namenlos",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akt I",
+        "target": "Einheit Station 7",
+        "type": "requires_namelessness_of",
+        "quote": "wie es Akt I verlangt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Einheit Station 7",
+        "target": "Kennung",
+        "type": "could_receive_from_Akt_II",
+        "quote": "Ab Akt II könnte sie eine Kennung bekommen.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Einheit Station 7",
+        "target": "Akt III",
+        "type": "carries_on_in",
+        "quote": "Trägt sie in Akt III weiter (Kap 27/28) oder bleibt sie eine Delta-Sieben-Figur?",
+        "stance": "asks"
+      },
+      {
+        "source": "Der Canon",
+        "target": "KW2",
+        "type": "assigns_chapters_to",
+        "quote": "Der Canon weist 14–22 KW2 und 23–28 KW3 zu",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Canon",
+        "target": "KW3",
+        "type": "assigns_chapters_to",
+        "quote": "Der Canon weist 14–22 KW2 und 23–28 KW3 zu",
+        "stance": "asserts"
+      },
+      {
+        "source": "die gedrafteten Kapitel 14–26",
+        "target": "Verwaltungstopologie der Konstrukt-Stadt",
+        "type": "set_in",
+        "quote": "die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 25",
+        "target": "KW3",
+        "type": "fulfills_sensorily",
+        "quote": "Kap 25 löst KW3 jetzt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 25",
+        "target": "Ort",
+        "type": "does_not_change",
+        "quote": "ohne den Ort zu wechseln",
+        "stance": "denies"
+      },
+      {
+        "source": "KW-Progression",
+        "target": "Filterregime statt Ortswechsel",
+        "type": "intended_reading_is",
+        "quote": "Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel)",
+        "stance": "asks"
+      },
+      {
+        "source": "14–26",
+        "target": "KW2/KW3",
+        "type": "should_be_shifted_toward",
+        "quote": "sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden",
+        "stance": "asks"
+      }
+    ]
+  }
+}

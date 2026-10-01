@@ -33,4 +33,18 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1616, 67.0 s. **11 rows**: 11 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | term | stance | quote | lines |
+|---|---|---|---|---|---|---|
+| 1 | reading | candidate | Nicht-Handlung | asserts | Damit ist die Nicht-Handlung als **Entscheidung** lesbar statt als Freeze (Arc-Auflage) | 21 |
+| 2 | reading | candidate | Eigennutz | asserts | aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte | 22 |
+| 3 | reading | candidate | Optionlock | asserts | Der Optionlock wird zählbar (abgeben/splitten sind seit zwei bzw. vier Wochen graue Felder ohne Ton). | 22 |
+| 4 | reading | candidate | Hook-in | asserts | Hook-in aus Kap 24 explizit (die einrastende Verkleidung) | 25 |
+| 5 | reading | candidate | Wegkreuzung | cites | Motivherkunft „Wegkreuzung" = \*\*interner Wahlpunkt\*\* | 38 |
+| 6 | reading | candidate | Wegkreuzung/Tore | cites | \*von extern auferlegter Schwelle → interner Ort der Entscheidungsfindung\* | 38 |
+| 7 | reading | candidate | Schritt ins Ungewisse | cites | „Schritt ins Ungewisse" (= bewusste Wahl, Kap 26) | 38 |
+| 8 | reading | candidate | Kanonischer sensorischer Anker von Vortex 1 Beat 3 | asserts | Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist „das Fehlen des Klicks | 57 |
+| 9 | reading | candidate | lokale Vorform | asks | Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material? | 57 |
+| 10 | reading | candidate | Einheit Station 7 | asserts | Sie ist jetzt eine Figur mit eigenem Ziel | 59 |
+| 11 | reading | candidate | KW-Progression | asks | Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel), oder sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden? | 60 |

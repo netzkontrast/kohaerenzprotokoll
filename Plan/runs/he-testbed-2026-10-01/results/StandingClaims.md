@@ -20,4 +20,14 @@ The model returned no row on this document.
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1485, 56.7 s. **7 rows**: 5 candidates, 2 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Weltanker für Kap 25 | Canon | canon | asserts | Das löst den Canon-Weltanker für Kap 25 ein | 23 |
+| 2 | relation_reading | candidate | Guardians (Cerberus, Nox, Echo, Limina) | dekanonisierte | deprecated | asserts | dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) | 39 |
+| 3 | relation_reading | candidate | Co₁/McL/B/Ly-Taxonomie | nicht der aktuelle KW-Kanon | canon | denies | Co₁/McL/B/Ly-Taxonomie ist nicht der aktuelle KW-Kanon | 41 |
+| 4 | relation_reading | refused: joined or shortened quote | Material aus \[S\]-Quellen | wurde als Kanon behandelt | canon | denies | Kein Material aus \[S\]-Quellen wurde als Kanon behandelt | 43 |
+| 5 | relation_reading | refused: joined or shortened quote | Material aus [S]-Quellen | Kanon | canon | denies | Kein Material aus [S]-Quellen wurde als Kanon behandelt | 43 |
+| 6 | relation_reading | candidate | Vielheit | kanonisch gefordert | canon | asserts | Vielheit wird benannt, **kanonisch gefordert** für 25–26 | 47 |
+| 7 | relation_reading | candidate | sensorischer Anker von Vortex 1 Beat 3 | Kanonischer | canon | asserts | Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist | 57 |

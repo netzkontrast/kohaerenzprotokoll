@@ -1,0 +1,178 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+  "input_rows": 7,
+  "candidates": 7,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:f794ce9a93130bd2ac4fbf1153cdf904c815757c77f6fd908e3295f550022dca",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schleier-Disziplin",
+        "target": "Kap 25–26",
+        "type": "mode_change",
+        "quote": "Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "StructureBeats",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:86d31e96e1063af5f9a748e19f4697777bab4a7e64239dc8ed55caf0d315c7a8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Hook-in",
+        "target": "Kap 24",
+        "type": "bracket",
+        "quote": "Hook-in aus Kap 24 explizit",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "StructureBeats",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eb270c089730675798c70210221d4b3b0d2dc999503c7beb49696693251a1c40",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "neuer Hook-out",
+        "target": "Kap 26",
+        "type": "bracket",
+        "quote": "neuer Hook-out: die Restzahl steht nach Schichtende bei 34 statt 31 und wird morgen früh nicht bei sechs stehen → trägt direkt in Kap 26",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "StructureBeats",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c1dc4338782d789cd081727c5c88fc15c21f83bfdd879c07e43829bfe60fbc34",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schwelle, nicht Konfrontation",
+        "target": "Kap 25",
+        "type": "turn",
+        "quote": "Kap 25: Schwelle, nicht Konfrontation",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "StructureBeats",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:df8d98da5697e80a283a6a00b987a664bc7596601f3b5d766cc0312de1be8a72",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW2",
+        "target": "14–22",
+        "type": "beat_of_n",
+        "quote": "Der Canon weist 14–22 KW2 und 23–28 KW3 zu",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "StructureBeats",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4a2acab63408e0119c01e36eea9744f94335d33c64db80892360d3356f1b4eb8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW3",
+        "target": "23–28",
+        "type": "beat_of_n",
+        "quote": "Der Canon weist 14–22 KW2 und 23–28 KW3 zu",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "StructureBeats",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5026344fe2120f9c9101bc783611bbe54129e6de16f51b197ddf5cf9f6bc76f9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW3",
+        "target": "Kap 25",
+        "type": "beat_of_n",
+        "quote": "Kap 25 löst KW3 jetzt **sensorisch** ein",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "StructureBeats",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

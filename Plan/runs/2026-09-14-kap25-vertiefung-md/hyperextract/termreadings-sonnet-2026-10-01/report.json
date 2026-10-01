@@ -1,0 +1,1548 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+  "input_rows": 70,
+  "candidates": 65,
+  "refused": 5,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:6bcb476ee6e100318ae893ba422cf1017122615b76c12ef2fedede7cce358abc",
+      "kind": "reading",
+      "raw": {
+        "term": "Kap 25",
+        "quote": "Kap 25 war mit **1.137 Wörtern** das schwächste Kapitel des Manuskripts",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d649926f1612faae4b1179b2871f0d81c5d2c4c5ef3bb3471550c975761d8c55",
+      "kind": "reading",
+      "raw": {
+        "term": "Kap 0",
+        "quote": "Kap 0 ausgenommen, eigene Rahmenpoetik",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c4e5a95961d51539a42449d6ff387d02c5cbd8c761016ec73645f3656aff47c3",
+      "kind": "reading",
+      "raw": {
+        "term": "Akt-II-Arc",
+        "quote": "Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5767d5b32179a7caa980934e3d56e01bdb58bc7dc17a3c7dccae757512826db9",
+      "kind": "reading",
+      "raw": {
+        "term": "Masterplan-Zeile 25",
+        "quote": "die Masterplan-Zeile 25 verlangt „zwei genuine Zukunftsverluste“, eine „physische Verzweigung“ und einen Körperbogen",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aae651a34cce62e81c4c3e2f5271e1aa3db0753a1205d3cad8849af7adcc7b46",
+      "kind": "reading",
+      "raw": {
+        "term": "Nicht-Handlung",
+        "quote": "Damit ist die Nicht-Handlung als **Entscheidung** lesbar statt als Freeze (Arc-Auflage)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2d9f09e14a5e5677ee16d93078f49e9127c653032254f94aa338770c47704d50",
+      "kind": "reading",
+      "raw": {
+        "term": "Entscheidung",
+        "quote": "Jetzt bewegt sich um 10:58 die Hand von selbst auf das Bestätigungsfeld — mit eigener Syntax (Verb vorn, keine Bedingung) und eigener Somatik (Schulter, Kiefer, flacher Atem)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f989f360d66e1046be1206d1b6f9b022d8f6e481b9e060b4068457370fe5a7c3",
+      "kind": "reading",
+      "raw": {
+        "term": "Schleier",
+        "quote": "Anschließend fällt der Schleier leserseitig",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cef4aff18f6d8fb007bc646023e5e22a820b445bde494da0f7f47e6520439491",
+      "kind": "reading",
+      "raw": {
+        "term": "Schleier-Disziplin",
+        "quote": "Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:af33de2cacb58b74f3786278831238428b96d0fbb95f8107ac5b97f8ef79a458",
+      "kind": "reading",
+      "raw": {
+        "term": "Optionlock",
+        "quote": "Der Optionlock wird zählbar (abgeben/splitten sind seit zwei bzw. vier Wochen graue Felder ohne Ton)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:569738b4d3e107781a0b643b6f76b177566e7735e89e335f1389e7ae64649f66",
+      "kind": "reading",
+      "raw": {
+        "term": "Eigennutz",
+        "quote": "aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:621d6913f6346c67c89d005710251183cf0c220708899b0623da47780b654f94",
+      "kind": "reading",
+      "raw": {
+        "term": "Einheit von Station 7",
+        "quote": "Die Einheit von Station 7 hängt die Priorität-1-Wasserführung und zwei weitere Vorgänge auf sich um",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:430b6826caf493e6f2b6b85f3a7edf8809b1f3af750a68219f51ef24dbcc4d90",
+      "kind": "reading",
+      "raw": {
+        "term": "Kaels Verweigerung",
+        "quote": "Kaels Verweigerung hat einen bezifferten Preis bei einem Dritten",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e33aeffc2c9d8966111c2d8e91d92b3d1385a70bed861cc968a94906983db387",
+      "kind": "reading",
+      "raw": {
+        "term": "Nebenfigur",
+        "quote": "Damit trägt eine Nebenfigur eine eigene Handlung mit eigenem Ziel",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9813702b46237a73e4a9b6c066ded3932c3dde88e4ce5676c670552ad8e22732",
+      "kind": "reading",
+      "raw": {
+        "term": "Apparat",
+        "quote": "Zusätzlich registriert der Apparat die Abweichung, ohne zu handeln",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a498368c5cdd38feda08be2f15dcf8c89f0393e763bad8f3e630dd11f8498ee9",
+      "kind": "reading",
+      "raw": {
+        "term": "Wegkreuzung",
+        "quote": "Die Wegkreuzung wird physisch, und KW3 wird sensorisch aktiv.",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0be32eefe43dcd0cce2b406571a99c41696ecea4463424b160d0bc2afb931752",
+      "kind": "reading",
+      "raw": {
+        "term": "KW3",
+        "quote": "Die Wegkreuzung wird physisch, und KW3 wird sensorisch aktiv.",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9e0579d2c2e93ec052ba08f5ed8dbe2e575c3aed3fee55091c8245c60f6f980d",
+      "kind": "reading",
+      "raw": {
+        "term": "Canon-Weltanker",
+        "quote": "Das löst den Canon-Weltanker für Kap 25 ein (KW3, Wartungsschächte, Anker 734 dritte Wiederkehr)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:236786be3e7fe80f7302b1ff7f44cc309b7351203e68bd105ccc827e890976fc",
+      "kind": "reading",
+      "raw": {
+        "term": "Hook-in",
+        "quote": "Hook-in aus Kap 24 explizit (die einrastende Verkleidung)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:30f02b9bfd1362dbc80468a18c908072de97d9edd717fa8d8bd9453401bf7a1b",
+      "kind": "reading",
+      "raw": {
+        "term": "Vorgang ohne Datentyp",
+        "quote": "der Vorgang ohne Datentyp wird gegrüßt (Finger daneben, nicht darauf)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:790c894d333014fc4eb7b9a8100725e93729fd34dc474330d2e217803bfd840f",
+      "kind": "reading",
+      "raw": {
+        "term": "Klick",
+        "quote": "der Klick wird als **Abwesenheit** hörbar (sechsmal vor dem siebten Bestand, danach nicht mehr)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:44a183226d74a4bf1d5737bece5d84e01e0465030c55d88af575507d84b5de71",
+      "kind": "reading",
+      "raw": {
+        "term": "Hook-out",
+        "quote": "neuer Hook-out: die Restzahl steht nach Schichtende bei 34 statt 31 und wird morgen früh nicht bei sechs stehen",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2fc78bace1b4df6cf4236d986222393de85f2978080db651208ab52ed4d3787a",
+      "kind": "reading",
+      "raw": {
+        "term": "Kap 25",
+        "quote": "Kap 25: Schwelle, nicht Konfrontation; Schleier offen benannt; Hitze-Polarität; R-Regeln",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:41fe2de825d6ec1954a2f490d856fc0fc0186cc9e1c2ae47a1f7160bb90c08c8",
+      "kind": "reading",
+      "raw": {
+        "term": "Warteschlange",
+        "quote": "Warteschlange als einziges bewegtes Element",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:efbafa82d0fb1dcec39f2d206a185c613659d7ac18f152c421f3d01a5cb0a096",
+      "kind": "reading",
+      "raw": {
+        "term": "Wegkreuzung",
+        "quote": "interner Wahlpunkt",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e03c1ed9ef12ef006a3e64dafbf004df9efde7094db4d8b708a1a1a074eb7bc0",
+      "kind": "reading",
+      "raw": {
+        "term": "Wegkreuzung/Tore",
+        "quote": "von extern auferlegter Schwelle → interner Ort der Entscheidungsfindung",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:265314381d14fbe962383a5d8280fb0cc681d8dfb297f6c32caeb8f3211cbb87",
+      "kind": "reading",
+      "raw": {
+        "term": "Schritt ins Ungewisse",
+        "quote": "bewusste Wahl, Kap 26",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bced64c2e64fc69654856f685b9782f0321f48e261420ae9dc1b3247b8e0d43d",
+      "kind": "reading",
+      "raw": {
+        "term": "KW3-Unterorte",
+        "quote": "Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum — als Hintergrund für Kontrollpunkt-/Überwachungslogik",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dc025d7e1d9ec90f458995fc43d8fc20fa44fc4de777afa395b0b71c1a5972b3",
+      "kind": "reading",
+      "raw": {
+        "term": "Lichtführung",
+        "quote": "harte Kontraste, tiefe Schatten",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:935c4559755770482210ed79e210be534f088b4e5f3bfceabbf4bf296a01d818",
+      "kind": "reading",
+      "raw": {
+        "term": "Schutz-Anteil",
+        "quote": "Schutz-Anteil als Aktionssystem (Verteidigung) gegen ANP-Alltagssystem",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        40
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f23ef2d2a8e3256b7e4acd21d5d267fe61b13fb6d22866ecf103cf7be6c4b277",
+      "kind": "reading",
+      "raw": {
+        "term": "inneres Tauziehen",
+        "quote": "als Körperbild für die gegenläufige Spannung im Unterarm",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        40
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7fc54c1d2490b25b475347b4ce2a6039dd3d2f54a5125c54aebddf4e04ab32ad",
+      "kind": "reading",
+      "raw": {
+        "term": "TSDP-Analyse: Kaels innere Welt",
+        "quote": "älteres Roster (Kai), nur strukturell genutzt",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        40
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a50d1bd91d3cab7b0ba1d7f4bdbfba5d74f69e8b4f7be40fe4c843a90b6f205d",
+      "kind": "reading",
+      "raw": {
+        "term": "Co₁/McL/B/Ly-Taxonomie",
+        "quote": "Co₁/McL/B/Ly-Taxonomie ist nicht der aktuelle KW-Kanon, nur Sensorik entnommen",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0ca64a55b40d90b626ba74e2d17a40fbbb9f2bed0d687040f595d87fee7e13cc",
+      "kind": "reading",
+      "raw": {
+        "term": "Tiefenanalyse von „The Agency System“",
+        "quote": "trägt die Achse des Kapitels",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Tiefenanalyse von „The Agency System“"
+      ]
+    },
+    {
+      "id": "claim:dada91811bae0050c21815270b2773d01ee0f0beb0bfd66b30defeee0d06c6ce",
+      "kind": "reading",
+      "raw": {
+        "term": "\\[S\\]-Quellen",
+        "quote": "Kein Material aus \\[S\\]-Quellen wurde als Kanon behandelt",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9bfcdd67be999ea0c6cbed9d78911c50ac6226c0bcd5f430b799b241abf52f0d",
+      "kind": "reading",
+      "raw": {
+        "term": "\\[K\\]-Repo-Canon",
+        "quote": "alles Weltkonkrete der Prosa stammt aus \\[K\\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e1d0c98d67c2cdc7c8ad8d595a3e722b6f1ff954376a5ef66a959d2c310a5a58",
+      "kind": "reading",
+      "raw": {
+        "term": "Vielheit",
+        "quote": "Vielheit wird benannt, **kanonisch gefordert** für 25–26, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2a3e3a9c3ca36e9c6602d9b6d58bd484b10b8c749c699c498bc4db87e7e6520e",
+      "kind": "reading",
+      "raw": {
+        "term": "Mikrocues",
+        "quote": "drei Mikrocues in der Handszene, am Limit, nicht darüber",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9da3e20913f110a7cba132b773bcd5831f717e11937dfd01d0310772d72ca7e5",
+      "kind": "reading",
+      "raw": {
+        "term": "kaltes Ozon",
+        "quote": "kaltes Ozon **nur** in der Abmeldeszene, Wärme dort nicht",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c89dc1356bf91e5902dabd4ed8ba534d60762707e2270900862b5ad85fc5334f",
+      "kind": "reading",
+      "raw": {
+        "term": "Wärmespur",
+        "quote": "Wärmespur nur als Rückverweis („die vier Abende“) in einer ozonfreien Szene",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:89aae169dc0047a67713b7d276497a52c7ce2c5e0f3de9231787092baa7d7262",
+      "kind": "reading",
+      "raw": {
+        "term": "Genesis-Echo",
+        "quote": "max. ein Genesis-Echo je Szene",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1a7ae6ca277796e5d21ce7a04de1e9214c38914a33253e3559efeab0a2d2f992",
+      "kind": "reading",
+      "raw": {
+        "term": "Direktiven",
+        "quote": "Direktiven ohne Metapher, Moral, Affekt",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c9f538cd002564f6ff94f18cf57cd8dccc4690a6f7c46ba1c1b83650321b2530",
+      "kind": "reading",
+      "raw": {
+        "term": "Kap-0-Zitate",
+        "quote": "keine wörtlichen Kap-0-Zitate",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7f5fe4af378e8de2c3a81bea15c41fd4ec9534d4705354fd66c4ad476cb973ce",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna",
+        "quote": "Juna nie Subjekt, nie Name, nie Körper, nie Stimme",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:efda13ca468b29b2d1a60b01b5ba5c13b0a65a8ec42bb034e137c953561a35fa",
+      "kind": "reading",
+      "raw": {
+        "term": "Ein-Falschheits-Regel",
+        "quote": "**eine** objektive Falschheit (die Inhaltserfassung lief 02:10–02:14 in einer Nacht, in der Kael nachweislich wach war und zählte)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3999ec66dfb2db3cee26fda40445fc5831a82d6734ebe660043fd48579f30a6a",
+      "kind": "reading",
+      "raw": {
+        "term": "Restzahl-Anstieg",
+        "quote": "der Restzahl-Anstieg ist bewusst **erklärbar** gehalten, damit keine zweite entsteht",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cdd9f0e878aca7201fb91a752c52d85d54b82831a94cae5291cc69ab43b2c62c",
+      "kind": "reading",
+      "raw": {
+        "term": "Telefon-Stille-Anker",
+        "quote": "Telefon-Stille-Anker getragen, nicht gebrochen",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:013e05cc97678306d5e1955631ec4787b06626464320c7f92a75824e8cb66a62",
+      "kind": "reading",
+      "raw": {
+        "term": "Kaels Signatur",
+        "quote": "Kaels Signatur bricht nur dort, wo ein Wechsel gemeint ist.",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dcc79ccb4325e9bfc5583b911e9430f21abcf4d2ce21229e134fa62ec94119b6",
+      "kind": "reading",
+      "raw": {
+        "term": "Storyform-Slots",
+        "quote": "die Storyform-Slots sind von einer Prosavertiefung nicht berührt",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0ade703c93f90a55f5dc842fbe07d2bb336b57b7118841bafd9c200d19b8c142",
+      "kind": "reading",
+      "raw": {
+        "term": "Kapitel 25",
+        "quote": "Kapitel 25 ist in keiner der beiden Dateien encodiert.",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:920abf0aba22f86d78811bf8318201674a885a8b395b5cc3f574f56a7f9ca370",
+      "kind": "reading",
+      "raw": {
+        "term": "Aligned",
+        "quote": "Slot-Werte (Resolve/Growth/Approach/Driver/Limit/Outcome/Judgment) unverändert. → **Aligned.**",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:135c2bb18a96352b59b19f37801b90e31cc8391bed6fb2d65e4de6a15e02518e",
+      "kind": "reading",
+      "raw": {
+        "term": "agency-Capability-Verben",
+        "quote": "Die agency-Capability-Verben standen in diesem Lauf nicht zur Verfügung",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f9d7a9b2dc21825eb5c561a6d6cb519b59078b2d8bf3008eceeee64a07567d0c",
+      "kind": "reading",
+      "raw": {
+        "term": "Benennungslock",
+        "quote": "Der Benennungslock gilt für Kap 1–13.",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cdd1cfe67ba7aa3060d2a2b9f27ab59da6841d5ea632ea082e5839c06cb85c9b",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS-Benennung",
+        "quote": "Die gedrafteten Kapitel 14–26 benennen die Instanz trotzdem nirgends leserseitig",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7f2225807d06577a0db9d77be29471c365818fda07f6806b07f63a057af5031e",
+      "kind": "reading",
+      "raw": {
+        "term": "Sprach-DNA",
+        "quote": "obwohl die Sprach-DNA es",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3afb9dcd41ed5dd71bf2cce6706067a93bfeb6b83b92ae1167d6d5425528819e",
+      "kind": "reading",
+      "raw": {
+        "term": "Kap 25",
+        "quote": "Kap 25 folgt der Praxis der Nachbarkapitel (nur VERSALIEN-Direktiven).",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:825995ed6d99c53d7c4dde7d0354d48f7b59820ee5adee8e01e508246dff035a",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS-Benennung",
+        "quote": "Soll der Name — und das Log-Format — irgendwo in Akt II leserseitig freigegeben werden",
+        "stance": "asks"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:37ad3c7a48b614615f8137d28595f7498e5ebebf16320dd06adb74fe71099b92",
+      "kind": "reading",
+      "raw": {
+        "term": "Schleier-Benennung",
+        "quote": "Alternativen wären eine spätere Setzung (Wohneinheit, ruhiger) oder die Verlagerung nach Kap 26.",
+        "stance": "hedges"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fa57969342a9b837cd70d78fef0634e23e362902ab0546dbda05506143c322e4",
+      "kind": "reading",
+      "raw": {
+        "term": "Klick-Motiv",
+        "quote": "Kap 25 verwendet die **Abwesenheit** des Klicks lokal (eine Station, ein Tag).",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        57
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:19844b0db90462fa12561d44b200da913ace59496086c5e91557f93b51a82148",
+      "kind": "reading",
+      "raw": {
+        "term": "Klick-Motiv",
+        "quote": "Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        57
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5fe1dc06845ae13bb51a66eee56155cd49a6a859fd5da2f8d8e351c6f89769da",
+      "kind": "reading",
+      "raw": {
+        "term": "Klick-Motiv",
+        "quote": "Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material?",
+        "stance": "asks"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        57
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7328d9467d6f81ca71ffd29734f1b58940504908b2d5993adb97a61985517a92",
+      "kind": "reading",
+      "raw": {
+        "term": "Header-Szenenplan",
+        "quote": "Der Template-Kopf führt weiterhin drei Szenen, die Prosa hat sieben.",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        58
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1527adaf0fe317ac4ee182cd8ef7068cdbbd6cdc5a6920347312efa1671cc3b2",
+      "kind": "reading",
+      "raw": {
+        "term": "Header-Szenenplan",
+        "quote": "Der Drafting-Brief verbietet Änderungen am Kopf außer status.",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        58
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:62c38f70742f858a504abd17286e025cf94e03c0ee14ee36fd8985960c346814",
+      "kind": "reading",
+      "raw": {
+        "term": "Header-Szenenplan",
+        "quote": "Soll der Szenenplan in einem separaten Outline-Pass nachgezogen werden?",
+        "stance": "asks"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        58
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c4e5fe10fc40f3137e46e105b3005ab00d320491b21e92f35e47b12dc4b41246",
+      "kind": "reading",
+      "raw": {
+        "term": "Einheit Station 7",
+        "quote": "Sie ist jetzt eine Figur mit eigenem Ziel, bleibt aber namenlos",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        59
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4187269c5f08936b6b675512a30606c6bdc31e6b8c98208625bd1ec5899601ac",
+      "kind": "reading",
+      "raw": {
+        "term": "Einheit Station 7",
+        "quote": "Ab Akt II könnte sie eine Kennung bekommen.",
+        "stance": "hedges"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        59
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b14b5d9ca4e1a6ac050a884d1aa5ab9490992982d796b1bc421ba7683420abc6",
+      "kind": "reading",
+      "raw": {
+        "term": "Einheit Station 7",
+        "quote": "Trägt sie in Akt III weiter (Kap 27/28) oder bleibt sie eine Delta-Sieben-Figur?",
+        "stance": "asks"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        59
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a256100fd43784bd797203971f69e2a1ff3fee0f61a66b868aa1b0945d0cc559",
+      "kind": "reading",
+      "raw": {
+        "term": "KW2",
+        "quote": "Der Canon weist 14–22 KW2 und 23–28 KW3 zu",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8344acc748b0e0e21e21106d0ca11e4f474099bd3631fdddd2bf282e0909f1c5",
+      "kind": "reading",
+      "raw": {
+        "term": "KW3",
+        "quote": "Kap 25 löst KW3 jetzt **sensorisch** ein (Treppenkopf, Wartungsebene), ohne den Ort zu wechseln.",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cb595e62ffda5ca3a43c2a5d889328d527a4e6b2ea4a17428a594a173177274d",
+      "kind": "reading",
+      "raw": {
+        "term": "KW-Progression",
+        "quote": "Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel)",
+        "stance": "asks"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:528e5b695cdd4898cf96322d09cf715fb733f041df3000486ce8d7e7af92574b",
+      "kind": "reading",
+      "raw": {
+        "term": "Verwaltungstopologie der Konstrukt-Stadt",
+        "quote": "die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermReadings",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "80f445fb2e07cf45d822c143d1b29e7b259689f696bbe5d4d42f747ee707eaed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}
