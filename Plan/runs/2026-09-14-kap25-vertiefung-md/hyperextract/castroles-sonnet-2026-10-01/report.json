@@ -1,0 +1,58 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "ae9eff90550f18d6e9cd508a3634c02e62c8c6a5a53e71f15d5578edd518d0f8",
+  "input_rows": 2,
+  "candidates": 2,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:ef3f15620322775b108a308c0797f0366e55b0708434a1733f289e8fb740f818",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schutz-Anteil",
+        "target": "Aktionssystem",
+        "type": "function",
+        "quote": "Schutz-Anteil als Aktionssystem (Verteidigung)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "CastRoles",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "ae9eff90550f18d6e9cd508a3634c02e62c8c6a5a53e71f15d5578edd518d0f8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        40
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a92b32d7b1400a4a71d309ea1e4107cec70ab3a1ce3a194342147b79e417042f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Umgebung",
+        "target": "Antagonist",
+        "type": "role",
+        "quote": "Umgebung als Antagonist",
+        "stance": "cites"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "CastRoles",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "ae9eff90550f18d6e9cd508a3634c02e62c8c6a5a53e71f15d5578edd518d0f8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

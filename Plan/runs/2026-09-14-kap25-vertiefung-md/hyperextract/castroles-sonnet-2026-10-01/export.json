@@ -1,0 +1,24 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "ae9eff90550f18d6e9cd508a3634c02e62c8c6a5a53e71f15d5578edd518d0f8",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Schutz-Anteil",
+        "target": "Aktionssystem",
+        "type": "function",
+        "quote": "Schutz-Anteil als Aktionssystem (Verteidigung)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Umgebung",
+        "target": "Antagonist",
+        "type": "role",
+        "quote": "Umgebung als Antagonist",
+        "stance": "cites"
+      }
+    ]
+  }
+}

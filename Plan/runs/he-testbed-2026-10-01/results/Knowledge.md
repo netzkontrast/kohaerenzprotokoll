@@ -28,4 +28,10 @@ Beside the Haiku pilot of 2026-09-30 on this document: the candidates stand on 5
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1303, 41.7 s. **3 rows**: 1 candidates, 2 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | refused: quote not placed | leserseitig | Hier sitzt mehr als einer. | learns_here | asserts | Anschließend fällt der Schleier leserseitig: „Hier sitzt mehr als einer.“ |  |
+| 2 | relation_reading | candidate | der Apparat | die Abweichung | knows | asserts | registriert der Apparat die Abweichung, ohne zu handeln | 22 |
+| 3 | relation_reading | refused: quote not placed | AEGIS | Kaels neue Klarheit | knows | cites | Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit“ |  |

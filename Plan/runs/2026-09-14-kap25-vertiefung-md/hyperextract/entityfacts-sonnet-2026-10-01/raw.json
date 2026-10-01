@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "source": "Kap 25",
+      "target": "1.137 Wörtern",
+      "type": "count/stated",
+      "quote": "Kap 25 war mit **1.137 Wörtern** das schwächste Kapitel des Manuskripts",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 30",
+      "target": "1.141",
+      "type": "count/stated",
+      "quote": "Kap 30 folgt mit 1.141",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 0",
+      "target": "eigene Rahmenpoetik",
+      "type": "feature/stated",
+      "quote": "Kap 0 ausgenommen, eigene Rahmenpoetik",
+      "stance": "asserts"
+    },
+    {
+      "source": "EINHEIT 734",
+      "target": "BEARBEITUNGSPROFIL ABWEICHEND",
+      "type": "feature/stated",
+      "quote": "EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Schild",
+      "target": "elf vorgesehenen Kennungen",
+      "type": "count/stated",
+      "quote": "Schild mit elf vorgesehenen Kennungen (seine fehlt)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Restzahl",
+      "target": "34 statt 31",
+      "type": "count/stated",
+      "quote": "die Restzahl steht nach Schichtende bei 34 statt 31",
+      "stance": "asserts"
+    },
+    {
+      "source": "KW3",
+      "target": "Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum",
+      "type": "feature/stated",
+      "quote": "KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum",
+      "stance": "asserts"
+    },
+    {
+      "source": "Schutz-Anteil",
+      "target": "Aktionssystem (Verteidigung)",
+      "type": "feature/stated",
+      "quote": "Schutz-Anteil als Aktionssystem (Verteidigung)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Co₁/McL/B/Ly-Taxonomie",
+      "target": "nicht der aktuelle KW-Kanon",
+      "type": "feature/stated",
+      "quote": "Co₁/McL/B/Ly-Taxonomie ist nicht der aktuelle KW-Kanon",
+      "stance": "denies"
+    },
+    {
+      "source": "Cerberus",
+      "target": "dekanonisierte Guardians",
+      "type": "feature/stated",
+      "quote": "dekanonisierte Guardians (Cerberus, Nox, Echo, Limina)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kael",
+      "target": "nachweislich wach war und zählte",
+      "type": "backstory/stated",
+      "quote": "in einer Nacht, in der Kael nachweislich wach war und zählte",
+      "stance": "asserts"
+    },
+    {
+      "source": "ncp.json",
+      "target": "players, scenes, storybeats, moments sind leer",
+      "type": "feature/stated",
+      "quote": "ncp.json und ncp-b.json: players, scenes, storybeats, moments sind leer",
+      "stance": "asserts"
+    },
+    {
+      "source": "ncp-b.json",
+      "target": "players, scenes, storybeats, moments sind leer",
+      "type": "feature/stated",
+      "quote": "ncp.json und ncp-b.json: players, scenes, storybeats, moments sind leer",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25",
+      "target": "in keiner der beiden Dateien encodiert",
+      "type": "feature/stated",
+      "quote": "Kapitel 25 ist in keiner der beiden Dateien encodiert",
+      "stance": "denies"
+    },
+    {
+      "source": "Template-Kopf",
+      "target": "drei Szenen",
+      "type": "count/stated",
+      "quote": "Der Template-Kopf führt weiterhin drei Szenen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Vortex 1 Beat 3",
+      "target": "das Fehlen des Klicks",
+      "type": "feature/stated",
+      "quote": "Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist „das Fehlen des Klicks",
+      "stance": "asserts"
+    },
+    {
+      "source": "Konstrukt-Stadt",
+      "target": "Datenknoten, Delta-Sieben, Wohneinheit 734",
+      "type": "feature/stated",
+      "quote": "Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734)",
+      "stance": "asserts"
+    }
+  ]
+}

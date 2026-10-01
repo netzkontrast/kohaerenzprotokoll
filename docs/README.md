@@ -126,6 +126,57 @@ Three rules hold for every part, because each of them is how this project once w
 The second test ingest is therefore an **update**: change one rule, re-derive, and show that exactly that rule's part of
 both snapshots changed — the check that the cache is exact.
 
+### 2.5 The master files — a derived, enriched copy of each source
+
+On the author's „lass uns pro Quelldatei eine abgeleitete Datei definieren … eine Master.json, in der die Transformationen
+… konfiguriert sind, und eine Master.md — eine angereicherte abgeleitete Datei, die Quelle für zusätzliche Chunks, die das
+System selbst erstellt und pflegt". **Proposed; nothing builds it yet.**
+
+Per landed document, two files:
+
+| file | what it is | where | committed? |
+|---|---|---|---|
+| `<slug>.master.json` | the **configuration**: which transforms run, in which order, at which version, with which parameters; the chunk settings; the measurements that chose them | `Plan/master/` | **yes** — it is a decision, and its history is the system's learning |
+| `<slug>.master.md` | the **output**: the source after the transforms, enriched, every line carrying content | `Plan/derived/master/` | no — derived, rebuilt from the source and the json in seconds |
+| `<slug>.master.map.json` | the **line map**: for every line of the master, where it came from | `Plan/derived/master/` | no — derived with the master |
+
+**The source never changes, and a citation always names the source.** `Sources/drive/<slug>.md` stays immutable and every
+`^[slug.md:Lnn]` keeps naming its line; a master line number is never cited. That is why the line map exists: each master
+line is one of
+
+- `src: [a, b]` — source lines a to b, transformed (unescaped, joined, a table row normalised);
+- `ins: <transform>` — inserted, with its provenance: a link from `Wiki/index.json` at its version, an annotation from
+  `other-slug.md:Lnn`, a heading the structure rule recovered.
+
+So anything built on the master — a chunk, an edge, a retrieval hit — resolves back to source lines, and `quotes.py` keeps
+checking against the source.
+
+**The transforms** are rules with the `derive.py` contract (`NAME`, `VERSION`, `applies`, `derive`), each one small, each
+switchable per document in the json, applied in order:
+
+| transform | does | care |
+|---|---|---|
+| `unescape` | undoes the Drive export's backslash escapes, zero-width spaces, glued footnote numbers | `rules/export_damage` and `rules/attribution` already know the patterns |
+| `headings` | turns a bold-only line acting as a heading into a heading; numbers `Teil I`, `### A.` into the tree | `Plan/learnings/fetch.md` §7 |
+| `compact` | removes empty lines and joins a sentence wrapped over lines, so every line carries content | an empty line is a **paragraph boundary** — `askextract` reads blocks by it; the boundary is kept in the map (`block: n`), not thrown away |
+| `tables` | one row per line with its header repeated as a prefix, so a row stands alone in a chunk | a table is never split mid-row |
+| `mentions` | marks every wiki surface standing alone as `[[page|surface]]{auto}` | decision 005: **a link is never inferred** — the `{auto}` mark keeps an inserted mention apart from a link a person wrote, and it is re-derived when a page is added |
+| `annotations` | adds, as a marked callout after a line, what other sources say about the same term or chapter: `> [!other] other-slug.md:L42 — „…“` | the independence rule: a census is written from the **source**, never from the master, because the master carries other documents' knowledge (`Plan/briefings/extract.md`) |
+| `context` | the heading chain as a prefix of each block (`Titel › Teil I › A.`) | the free form of contextual retrieval; a model-written prefix is a separate, paid transform and a proposal |
+
+**The chunks are written from the master, and the system maintains them by measurement, never by taste.** The json holds the
+chunk settings (target size, minimum, overlap, which transforms feed them), and every chunk carries its source span through
+the map. Self-optimisation is a loop the existing laboratory already runs for relations: a variant of the settings is built,
+the retrieval bench scores it against the current one in a paired comparison (`graphlab.py`'s method), and the json records
+the winner **with the measurement that chose it** (`chosen_by: {bench, cases, recall, interval}`). A setting nobody measured
+is marked `provisional`. This needs a gold set that does not reward the wiki's own wording (`Plan/concept/evaluation-audit_2026-09-30.md`) —
+without one the loop optimises towards the bench's bias, so the gold set comes first.
+
+**Update-ingests** fall out of the versions: a transform's version or a document's json changes → that master is rebuilt; a
+wiki page is added → `mentions` and `annotations` re-derive on every master; the chunk settings change → only that
+document's chunks. The two testbed documents (§3) are the first two masters, and their second build after one transform's
+version is bumped is the first update-ingest.
+
 ## 3. The HyperExtract testbed — step 1b on two small documents
 
 `Plan/runs/he-testbed-2026-10-01/`: every one of the 32 contracts in `Plan/hyperextract/` on two small documents that

@@ -1,0 +1,32 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "fd0f0f1bd7ac7d9a599dd38ee8627c87bcfbfdf953de5913a8359d4916bcd3c7",
+  "input_rows": 1,
+  "candidates": 0,
+  "refused": 1,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:231da0acebac32d636ca141499a2ea25cadec2c2ed45d281c4ead90a32881cc5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wärmespur",
+        "target": "die vier Abende",
+        "type": "diegetic_form_of",
+        "quote": "Wärmespur nur als Rückverweis („die vier Abende“)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "DiegeticTerms",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "fd0f0f1bd7ac7d9a599dd38ee8627c87bcfbfdf953de5913a8359d4916bcd3c7",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    }
+  ]
+}

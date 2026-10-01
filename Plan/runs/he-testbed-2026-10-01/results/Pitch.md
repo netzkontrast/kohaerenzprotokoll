@@ -20,4 +20,8 @@ The model returned no row on this document.
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1093, 32.0 s. **1 rows**: 1 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Kapitel | wer trifft die Wahl | promise | asserts | das Kapitelversprechen lautet *wer trifft die Wahl* | 21 |

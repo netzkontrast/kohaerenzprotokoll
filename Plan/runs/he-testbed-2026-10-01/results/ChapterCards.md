@@ -22,4 +22,13 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1615, 63.1 s. **6 rows**: 6 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Masterplan-Zeile 25 | zwei genuine Zukunftsverluste | cost | cites | Masterplan-Zeile 25 verlangt „zwei genuine Zukunftsverluste | 17 |
+| 2 | relation_reading | candidate | Kap 26 | ihr Vorbeigehen an der Tür | who | asserts | ihr Vorbeigehen an der Tür in Kap 26 ist vorbereitet | 22 |
+| 3 | relation_reading | candidate | Kap 25 | Wartungsschächte | place | asserts | Das löst den Canon-Weltanker für Kap 25 ein (KW3, Wartungsschächte, Anker 734 dritte Wiederkehr) | 23 |
+| 4 | relation_reading | candidate | Kapitel 25 | Kapitel 25 ist in keiner der beiden Dateien encodiert | object | asserts | Kapitel 25 ist in keiner der beiden Dateien encodiert. | 51 |
+| 5 | relation_reading | candidate | Kap 25 | **Abwesenheit** des Klicks | object | asserts | Kap 25 verwendet die **Abwesenheit** des Klicks lokal | 57 |
+| 6 | relation_reading | candidate | Kap 25 | Treppenkopf, Wartungsebene | place | asserts | Kap 25 löst KW3 jetzt **sensorisch** ein (Treppenkopf, Wartungsebene) | 60 |

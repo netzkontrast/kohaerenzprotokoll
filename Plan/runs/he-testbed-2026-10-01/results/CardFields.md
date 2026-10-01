@@ -26,4 +26,8 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1411, 43.2 s. **1 rows**: 1 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Einheit von Station 7 | Eigennutz (Restwertschwelle → Besuch der technischen Ebene) | want/narration | asserts | Die Einheit von Station 7 hängt die Priorität-1-Wasserführung und zwei weitere Vorgänge auf sich um — aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene) | 22 |

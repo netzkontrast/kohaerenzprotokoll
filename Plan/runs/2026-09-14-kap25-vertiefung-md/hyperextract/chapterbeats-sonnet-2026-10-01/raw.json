@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "source": "Kap 25",
+      "target": "das schwächste Kapitel des Manuskripts",
+      "type": "event",
+      "quote": "Kap 25 war mit **1.137 Wörtern** das schwächste Kapitel des Manuskripts",
+      "stance": "asserts"
+    },
+    {
+      "source": "24–26",
+      "target": "eine getragene Schwellensequenz",
+      "type": "event",
+      "quote": "Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 25–26",
+      "target": "Schleier-Disziplin",
+      "type": "event",
+      "quote": "Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26",
+      "stance": "cites"
+    },
+    {
+      "source": "Kap 26",
+      "target": "Vorbeigehen an der Tür",
+      "type": "event",
+      "quote": "ihr Vorbeigehen an der Tür in Kap 26 ist vorbereitet",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 25",
+      "target": "Canon-Weltanker",
+      "type": "resolves",
+      "quote": "Das löst den Canon-Weltanker für Kap 25 ein",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 26",
+      "target": "der Tritt darüber",
+      "type": "involves",
+      "quote": "der Tritt darüber“ (Kap 26)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 24",
+      "target": "die einrastende Verkleidung",
+      "type": "event",
+      "quote": "Hook-in aus Kap 24 explizit (die einrastende Verkleidung)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 26",
+      "target": "die Restzahl steht nach Schichtende bei 34 statt 31",
+      "type": "event",
+      "quote": "neuer Hook-out: die Restzahl steht nach Schichtende bei 34 statt 31 und wird morgen früh nicht bei sechs stehen → trägt direkt in Kap 26",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 25",
+      "target": "Schwelle, nicht Konfrontation",
+      "type": "event",
+      "quote": "Kap 25: Schwelle, nicht Konfrontation",
+      "stance": "cites"
+    },
+    {
+      "source": "Kap 26",
+      "target": "bewusste Wahl",
+      "type": "event",
+      "quote": "bewusste Wahl, Kap 26",
+      "stance": "asserts"
+    },
+    {
+      "source": "25–26",
+      "target": "Vielheit wird benannt",
+      "type": "event",
+      "quote": "Vielheit wird benannt, **kanonisch gefordert** für 25–26",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1–13",
+      "target": "Benennungslock",
+      "type": "event",
+      "quote": "Der Benennungslock gilt für Kap 1–13.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14–26",
+      "target": "die Instanz",
+      "type": "event",
+      "quote": "Die gedrafteten Kapitel 14–26 benennen die Instanz trotzdem nirgends leserseitig",
+      "stance": "denies"
+    },
+    {
+      "source": "Kap 25",
+      "target": "VERSALIEN-Direktiven",
+      "type": "event",
+      "quote": "Kap 25 folgt der Praxis der Nachbarkapitel (nur VERSALIEN-Direktiven).",
+      "stance": "asserts"
+    },
+    {
+      "source": "25–26",
+      "target": "offen benannt",
+      "type": "event",
+      "quote": "Canon verlangt „offen benannt“ in 25–26.",
+      "stance": "cites"
+    },
+    {
+      "source": "Kap 26",
+      "target": "Verlagerung",
+      "type": "event",
+      "quote": "oder die Verlagerung nach Kap 26",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 25",
+      "target": "Abwesenheit",
+      "type": "event",
+      "quote": "Kap 25 verwendet die **Abwesenheit** des Klicks lokal",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 27/28",
+      "target": "sie",
+      "type": "involves",
+      "quote": "Trägt sie in Akt III weiter (Kap 27/28)",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 14–26",
+      "target": "Verwaltungstopologie der Konstrukt-Stadt",
+      "type": "involves",
+      "quote": "die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 25",
+      "target": "KW3",
+      "type": "event",
+      "quote": "Kap 25 löst KW3 jetzt",
+      "stance": "asserts"
+    },
+    {
+      "source": "14–22",
+      "target": "KW2",
+      "type": "involves",
+      "quote": "Der Canon weist 14–22 KW2",
+      "stance": "cites"
+    },
+    {
+      "source": "23–28",
+      "target": "KW3",
+      "type": "involves",
+      "quote": "23–28 KW3 zu",
+      "stance": "cites"
+    },
+    {
+      "source": "14–26",
+      "target": "KW2/KW3",
+      "type": "turns",
+      "quote": "sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden",
+      "stance": "asks"
+    }
+  ]
+}

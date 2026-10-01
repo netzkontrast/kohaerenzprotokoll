@@ -1,0 +1,424 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+  "input_rows": 17,
+  "candidates": 14,
+  "refused": 3,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:0b95181fb88cb943835f7420180e3196d2e712fdcfe75c3639f5841251006cc4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 25",
+        "target": "1.137 Wörtern",
+        "type": "count/stated",
+        "quote": "Kap 25 war mit **1.137 Wörtern** das schwächste Kapitel des Manuskripts",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "1.137 Wörtern"
+      ]
+    },
+    {
+      "id": "claim:62e8aa29e012bac2f0bf1b909bc3e48c6ada41a329368cddae406053c908b62e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 30",
+        "target": "1.141",
+        "type": "count/stated",
+        "quote": "Kap 30 folgt mit 1.141",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "1.141"
+      ]
+    },
+    {
+      "id": "claim:40987b3f60568fa1d4f3b8382b6ee731f562292c09e59e8a93522f0ce1528da1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0",
+        "target": "eigene Rahmenpoetik",
+        "type": "feature/stated",
+        "quote": "Kap 0 ausgenommen, eigene Rahmenpoetik",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b224c8f40001ca74a6fabea2ce3dd610cc1c7eebcae130434988db26e011bda2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "EINHEIT 734",
+        "target": "BEARBEITUNGSPROFIL ABWEICHEND",
+        "type": "feature/stated",
+        "quote": "EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND.",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b9d3b2a812a5dab91b38aa8ddbe211a7893d4dd5b6c342ca02e2b819572f51aa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schild",
+        "target": "elf vorgesehenen Kennungen",
+        "type": "count/stated",
+        "quote": "Schild mit elf vorgesehenen Kennungen (seine fehlt)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:10c2966ae34675958c4cfbb029a148f81564d6346461659176056f5c05512282",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Restzahl",
+        "target": "34 statt 31",
+        "type": "count/stated",
+        "quote": "die Restzahl steht nach Schichtende bei 34 statt 31",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "34 statt 31"
+      ]
+    },
+    {
+      "id": "claim:ba20d0e0c011edd8af757db09b427abda72b267e105cac16ed8c7a4aa39be623",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW3",
+        "target": "Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum",
+        "type": "feature/stated",
+        "quote": "KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ad500bced6cdd6d36f110ac6c5827d59c3acb11cdc43e28f22b2040f8f7d573d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schutz-Anteil",
+        "target": "Aktionssystem (Verteidigung)",
+        "type": "feature/stated",
+        "quote": "Schutz-Anteil als Aktionssystem (Verteidigung)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        40
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:57087e4f908d670a68d2aef9629ae21c81a858c02a557536567a2fa35e7687e1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Co₁/McL/B/Ly-Taxonomie",
+        "target": "nicht der aktuelle KW-Kanon",
+        "type": "feature/stated",
+        "quote": "Co₁/McL/B/Ly-Taxonomie ist nicht der aktuelle KW-Kanon",
+        "stance": "denies"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b22620554bf5efabe51806d8b0e8cf838bf474efb21be3842de5d106cbb7396c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Cerberus",
+        "target": "dekanonisierte Guardians",
+        "type": "feature/stated",
+        "quote": "dekanonisierte Guardians (Cerberus, Nox, Echo, Limina)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:32bd04f9fec781845e72edb6ad94644887a239f4ea06ea457c591559774a7069",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "nachweislich wach war und zählte",
+        "type": "backstory/stated",
+        "quote": "in einer Nacht, in der Kael nachweislich wach war und zählte",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fe54f854065bd858230cb9afab7fe3fa5a9f3db24dc8e83cb64efeaa22f98b82",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "ncp.json",
+        "target": "players, scenes, storybeats, moments sind leer",
+        "type": "feature/stated",
+        "quote": "ncp.json und ncp-b.json: players, scenes, storybeats, moments sind leer",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a55583f747168d15467c80b1c4225b63b4d58a01319994ef9abe86551bbae8b0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "ncp-b.json",
+        "target": "players, scenes, storybeats, moments sind leer",
+        "type": "feature/stated",
+        "quote": "ncp.json und ncp-b.json: players, scenes, storybeats, moments sind leer",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c444efc00210ab90db0a0f8793cc7dd042160673ce8c79f7b56095f2f26c7d1e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 25",
+        "target": "in keiner der beiden Dateien encodiert",
+        "type": "feature/stated",
+        "quote": "Kapitel 25 ist in keiner der beiden Dateien encodiert",
+        "stance": "denies"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ce4b290d9680b25082c56a8a96550e8fc81171372d5aa2d6e58d51eafdd43e5d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Template-Kopf",
+        "target": "drei Szenen",
+        "type": "count/stated",
+        "quote": "Der Template-Kopf führt weiterhin drei Szenen",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        58
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:549a2b405dd37d9101a21add9cf01bb256a41b566d761db3f5b2387ef0dcb624",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Vortex 1 Beat 3",
+        "target": "das Fehlen des Klicks",
+        "type": "feature/stated",
+        "quote": "Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist „das Fehlen des Klicks",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        57
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:47120b9fb2dae829ad8978937c9bcac7c1e09d3fe0753ee3ce3805ed45444647",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Konstrukt-Stadt",
+        "target": "Datenknoten, Delta-Sieben, Wohneinheit 734",
+        "type": "feature/stated",
+        "quote": "Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "EntityFacts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}
