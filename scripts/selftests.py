@@ -111,6 +111,7 @@ SUITES = [
     ("claude cli model", "dspy", ["scripts/claude_lm.py"]),
     ("rlm_ingest: the DSPy loop, offline", "dspy", ["scripts/rlm_ingest.py", "--loop-selftest"]),
     ("rlm retrieval over the wiki: isolation, tools", "dspy", ["scripts/rlm_retrieval.py", "--selftest"]),
+    ("rlm retrieval over the wiki: every call recorded", "dspy", ["scripts/rlm_retrieval.py", "--record-selftest"]),
     ("pairs dry-run", "dspy", ["scripts/pairs.py", "run", "--optimizer", "labeled", "--dry-run"]),
     ("pairs dry-run, plural first", "dspy",
      ["scripts/pairs.py", "run", "--optimizer", "labeled", "--rule", "plural", "--dry-run"]),

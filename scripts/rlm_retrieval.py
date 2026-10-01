@@ -10,7 +10,9 @@ turning an RLM answer into wiki prose or an inferred graph edge.
 **Claude only** (2026-10-01). The tools hand the model wiki titles and verified quotations, and decision 011 lets
 a quotation reach Claude and no other model; the first trial (2026-09-25) sent them to an OpenRouter model under
 a consent given for that run alone. The LM is built by `lmrun.make_lm`, cache off; anything but `claude-cli/…`
-is refused. The same agent over the chunk index is `novelgraph rlm` (`novelgraph/src/novelgraph/rlm.py`).
+is refused. Every case goes through `lmrun.call` (subject `rlm-retrieval`, step the case): its approval and cache
+checks, one record per call under `Plan/runs/rlm-retrieval/lm/` with raw outputs, trajectory, status and cost — a
+dry run records into a temporary directory. A call that is `unreachable` or `unparsed` is recorded and not scored. The same agent over the chunk index is `novelgraph rlm` (`novelgraph/src/novelgraph/rlm.py`).
 """
 
 from __future__ import annotations
@@ -123,14 +125,20 @@ def selftest() -> int:
     return 0
 
 
-def run(dry_run: bool, model: str | None, approval: str | None) -> list[dict]:
+def run(dry_run: bool, model: str | None, approval: str | None, out_dir: Path | None = None,
+        fixture_code: str = "SUBMIT(page_ids=['term:kael', 'term:invented'])") -> list[dict]:
+    import tempfile
+
     import dspy
+    import lmrun
     from lm_fixture import FixtureLM, chat, offline
 
     if not dry_run and not approval:
         raise SystemExit("a real run sends quotations to the model: name the decision (--approval \"decision 011\")")
     if not dry_run and not model.startswith("claude-cli/"):
         raise SystemExit("decision 011 lets quotations reach Claude only (claude-cli/…), not " + model)
+    if dry_run and out_dir is None:
+        out_dir = Path(tempfile.mkdtemp(prefix="rlm-retrieval-"))   # a fixture's record is not a run's
     graph = kg.build()
     cases = {case["id"]: case for case in graphrag.cases(graph)}
     results = []
@@ -141,7 +149,7 @@ def run(dry_run: bool, model: str | None, approval: str | None) -> list[dict]:
         tools = tools_for(isolated)
         baseline = graphrag.retrieve(case["query"], isolated)
         if dry_run:
-            # Proves parsing, validation and case isolation; fixture accuracy is meaningless.
+            # Proves parsing, validation, case isolation and the record; fixture accuracy is meaningless.
             from dspy.primitives.code_interpreter import FinalOutput
 
             class FixtureInterpreter:
@@ -156,30 +164,35 @@ def run(dry_run: bool, model: str | None, approval: str | None) -> list[dict]:
                     pass
 
                 def execute(self, code, variables=None):
-                    if code != "SUBMIT(page_ids=['term:kael', 'term:invented'])":
+                    if code != fixture_code:
                         raise AssertionError(f"unexpected fixture code {code!r}")
                     return FinalOutput({"page_ids": ["term:kael", "term:invented"]})
 
-            lm = FixtureLM(lambda _: chat(reasoning="Offline fixture.",
-                                          code="SUBMIT(page_ids=['term:kael', 'term:invented'])"))
+            lm = FixtureLM(lambda _: chat(reasoning="Offline fixture.", code=fixture_code) if fixture_code
+                           else "keine Felder")
             context = offline(lm)
             interpreter_factory = FixtureInterpreter
         else:
-            import lmrun
             lm = lmrun.make_lm(model)
             context = dspy.context(lm=lm)
             interpreter_factory = dspy.PythonInterpreter
         rlm = dspy.RLM("question: str -> page_ids: list[str]", tools=tools,
                        max_iters=5, max_llm_calls=8, interpreter_factory=interpreter_factory)
         with context:
-            pred = rlm(question=case["query"] + "\nFind existing page IDs using the tools. "
-                       "If the first quotations on a page do not address the question, use "
-                       "search_quotes on that page. Submit at most eight IDs; if none fit, submit [].")
-        result = evaluate(pred.page_ids, isolated, case["gold"])
+            pred, rec = lmrun.call(rlm, step=case_id.replace(":", "-"), subject="rlm-retrieval",
+                                   approval=approval or "fixture", out_dir=out_dir,
+                                   question=case["query"] + "\nFind existing page IDs using the tools. "
+                                   "If the first quotations on a page do not address the question, use "
+                                   "search_quotes on that page. Submit at most eight IDs; if none fit, submit [].")
+        result = evaluate(getattr(pred, "page_ids", []) if pred is not None else [], isolated, case["gold"])
         result["steps"] = len(getattr(pred, "trajectory", []) or [])
         result["model_requests"] = len(lm.requests) if dry_run else len(lm.history)
         result["forced"] = getattr(pred, "final_reasoning", "") == "Extract forced final output"
-        if dry_run:
+        result["call_status"], result["cost"] = rec["status"], rec["cost"]
+        if rec["status"] != "answered":
+            result["status"] = f"unscored — {rec['status']}"
+            result["recall"] = None
+        elif dry_run:
             result["status"] = "fixture — no accuracy measured"
             result["recall"] = None
         elif result["forced"]:
@@ -191,15 +204,38 @@ def run(dry_run: bool, model: str | None, approval: str | None) -> list[dict]:
     return results
 
 
+def record_selftest() -> int:
+    """An answered and a failed fixture run each leave one record per case, and the failed one is not scored."""
+    import tempfile
+    fails = []
+    for code, status in (("SUBMIT(page_ids=['term:kael', 'term:invented'])", "answered"), ("", "unparsed")):
+        with tempfile.TemporaryDirectory() as tmp:
+            got = run(True, None, None, out_dir=Path(tmp), fixture_code=code)
+            for r in got:
+                ledger = Path(tmp) / f"{r['case'].replace(':', '-')}.jsonl"
+                rows = [json.loads(x) for x in ledger.read_text().splitlines()] if ledger.exists() else []
+                if len(rows) != 1 or rows[0]["status"] != status or r["call_status"] != status:
+                    fails.append(f"{status} {r['case']}: {len(rows)} records, {[x['status'] for x in rows]}")
+                if status != "answered" and (r["recall"] is not None or r["pages"]):
+                    fails.append(f"a {status} run was scored: {r}")
+    for f in fails:
+        print(f"  FAIL  {f}")
+    print(f"rlm_retrieval records: {'held' if not fails else f'{len(fails)} failed'} (answered and failed runs recorded)")
+    return 1 if fails else 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--selftest", action="store_true")
+    parser.add_argument("--record-selftest", action="store_true")
     parser.add_argument("--model", default="claude-cli/haiku")
     parser.add_argument("--approval")
     args = parser.parse_args()
     if args.selftest:
         return selftest()
+    if args.record_selftest:
+        return record_selftest()
     print(json.dumps(run(args.dry_run, args.model, args.approval), ensure_ascii=False, indent=2))
     return 0
 
