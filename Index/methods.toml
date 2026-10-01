@@ -1,0 +1,31 @@
+schema_version = 1
+
+[chunkers."heading@v1"]
+version = 1
+target = 400
+min = 120
+max = 600
+overlap = 0
+
+[chunkers."section@v1"]
+version = 1
+
+[chunkers."window400@v1"]
+version = 1
+target = 400
+overlap = 0.15
+
+[embedders.potion-m128]
+model = "minishlab/potion-multilingual-128M"
+revision = "73908c3438cf03b6a01bcb9611d62b23d0726f08"
+version = 1
+dtype = "float16"
+normalize = true
+
+[lex]
+version = 1
+lemmatizer = "none"
+
+[retrieval]
+candidates = 50
+rrf_k = 60
