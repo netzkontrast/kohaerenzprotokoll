@@ -17,6 +17,8 @@ costs it a read. So the agent's success under each chunker is the measurement th
 - **Score**: per case, the share of the record's gold lines (`ask.bench_cases()`, unchanged) that lie in
   the accepted chunks, and the share of its gold documents. A forced answer (`max_iters` ran out and DSPy
   extracted one from the trajectory) is recorded and **not scored** (`scripts/rlm_ingest.py`'s rule).
+- **Resume and spend**: every row carries `run_fp` (`run_fingerprint`); a results file holding rows of another
+  fingerprint is refused, not resumed. The cost cap is checked between runs, so one invocation can pass it.
 - **Model**: Claude through `claude -p`, `lmrun.make_lm("claude-cli/haiku")`, every call through
   `lmrun.call` with `approval=` — decision 011: chunk text may reach Claude and no other model. One run at
   a time (the author, 2026-09-30). Each call is recorded under `Plan/runs/<run>/lm/`, each case under
@@ -133,6 +135,16 @@ def program(tools, interpreter_factory=None):
                     max_llm_calls=SUB_CALLS, max_output_chars=OUTPUT_CHARS, **kw)
 
 
+def run_fingerprint(methods, model: str, dry_run: bool) -> str:
+    """What a row of a run depends on besides its case: this module's code, the model, every limit, and the
+    `_build/` stamp of each method's index. A resume continues only rows made under the same fingerprint."""
+    import hashlib
+    parts = {"code": hashlib.sha1(Path(__file__).read_bytes()).hexdigest(), "model": "fixture" if dry_run else model,
+             "limits": [ITERS, SUB_CALLS, OUTPUT_CHARS, BUDGET, MAX_REFS], "task": TASK,
+             "index": {m: build.build_stamp(m, store.default_embedder())[0] for m in methods}}
+    return hashlib.sha1(json.dumps(parts, sort_keys=True).encode()).hexdigest()[:12]
+
+
 def run(methods, only, model: str, approval: str | None, dry_run: bool, log=print,
         cost_cap: float = 15.0) -> list[dict]:
     import dspy
@@ -144,7 +156,14 @@ def run(methods, only, model: str, approval: str | None, dry_run: bool, log=prin
         raise SystemExit("decision 011 lets chunk text reach Claude only (claude-cli/…), not " + model)
     RUN.mkdir(parents=True, exist_ok=True)
     out_path = RUN / ("results-dry.jsonl" if dry_run else "results.jsonl")
-    done = {(r["case"], r["method"]) for r in read_jsonl(out_path)} if out_path.exists() else set()
+    fp = run_fingerprint(methods, model, dry_run)
+    previous = read_jsonl(out_path) if out_path.exists() else []
+    foreign = {r.get("run_fp") for r in previous} - {fp}
+    if foreign:
+        # a resume skips what is done; done under other code, limits, model or index it is not this run's (PR #139)
+        raise SystemExit(f"{out_path} holds rows of another run ({sorted(map(str, foreign))[:2]}); "
+                         "start a new run directory instead of resuming it")
+    done = {(r["case"], r["method"]) for r in previous}
     rows = []
     spent = sum(r["cost"] for r in read_jsonl(out_path)) if out_path.exists() else 0.0
     indexes = {m: search.Index(m) for m in methods}
@@ -175,7 +194,7 @@ def run(methods, only, model: str, approval: str | None, dry_run: bool, log=prin
                                        approval=approval or "fixture", question=case["question"] + TASK)
             forced = getattr(pred, "final_reasoning", "") == FORCED if pred is not None else False
             score = evaluate(getattr(pred, "evidence", []) if pred is not None else [], shown, case["gold"])
-            row = {"case": case["id"], "method": method, "model": "fixture" if dry_run else model,
+            row = {"case": case["id"], "method": method, "run_fp": fp, "model": "fixture" if dry_run else model,
                    "status": rec["status"], "forced": forced,
                    "scored": rec["status"] == "answered" and not forced and not dry_run,
                    **score, "shown": len(shown), "steps": len(getattr(pred, "trajectory", []) or []),
