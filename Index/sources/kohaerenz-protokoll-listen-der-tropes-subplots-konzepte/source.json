@@ -1,0 +1,25 @@
+{
+ "slug": "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte",
+ "sha256": "1368877f4c1ec37b2459a7fe9f774542ac3dbd948205b2ea8e9958cfa062767d",
+ "lines": 260,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Listen der Tropes, Subplots & Konzepte",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Narrative Tropes",
+   "line": 11
+  },
+  {
+   "level": 3,
+   "title": "Subplots",
+   "line": 128
+  },
+  {
+   "level": 3,
+   "title": "Konzeptionelle Themen & Ideen",
+   "line": 152
+  }
+ ]
+}

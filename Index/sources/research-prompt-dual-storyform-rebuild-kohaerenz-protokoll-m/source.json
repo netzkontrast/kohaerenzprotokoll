@@ -1,0 +1,245 @@
+{
+ "slug": "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
+ "sha256": "defc85d19817150f1190f7d1ae57e3952738f4205eb57e1d5ae94d059abbb28f",
+ "lines": 1211,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "research-prompt_dual-storyform-rebuild-kohaerenz-protokoll.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Research Prompt: Dramatica-Dual-Storyform-Rebuild für „Kohärenz Protokoll\"",
+   "line": 42
+  },
+  {
+   "level": 2,
+   "title": "Meta-Header — Was dieser Prompt ist und wie du ihn liest",
+   "line": 50
+  },
+  {
+   "level": 3,
+   "title": "1. Epistemologische Schicht — Forschungskategorie A (Exploration)",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "2. Agentische Wirbelsäule — ReAct (Reason + Act + Observe)",
+   "line": 86
+  },
+  {
+   "level": 3,
+   "title": "3. Strukturelle Schicht — MAPIT (bespoke Framework)",
+   "line": 130
+  },
+  {
+   "level": 2,
+   "title": "Forschungsziel (M — Mandate)",
+   "line": 170
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCKS",
+   "line": 209
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 0 — Reflection Baseline (immer aktiv · v2.1)",
+   "line": 211
+  },
+  {
+   "level": 4,
+   "title": "Reflexions-Checkpoints (Minimum)",
+   "line": 215
+  },
+  {
+   "level": 4,
+   "title": "Reflexions-Vorlage — wörtliche Struktur verwenden",
+   "line": 227
+  },
+  {
+   "level": 4,
+   "title": "Regeln",
+   "line": 251
+  },
+  {
+   "level": 4,
+   "title": "Anti-Rationalisierungs-Wache",
+   "line": 258
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 1 — Quellenpriorität",
+   "line": 266
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 2 — Temporaler und Material-Scope",
+   "line": 282
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 3 — Output-Ausschlüsse",
+   "line": 292
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 4 — NotebookLM Adversarial Interrogation Protocol",
+   "line": 309
+  },
+  {
+   "level": 4,
+   "title": "Das Befragungsprotokoll — pro Notebook und pro relevantem Abschnitt",
+   "line": 317
+  },
+  {
+   "level": 4,
+   "title": "Kein Vertrauensvorschuss",
+   "line": 329
+  },
+  {
+   "level": 4,
+   "title": "Quotation-Disziplin",
+   "line": 333
+  },
+  {
+   "level": 4,
+   "title": "Wenn keine Notebooks übergeben werden",
+   "line": 337
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 5 — Story-Architecture Compact Primer (max. 2 Sätze pro Konzept)",
+   "line": 345
+  },
+  {
+   "level": 2,
+   "title": "KRITISCHE DENKMETHODEN — durchgehend aktiv",
+   "line": 405
+  },
+  {
+   "level": 3,
+   "title": "Method: Falsification (Karl Popper's Disconfirmation Principle)",
+   "line": 409
+  },
+  {
+   "level": 3,
+   "title": "Method: Contrast Classes (Making Implicit Baselines Explicit)",
+   "line": 440
+  },
+  {
+   "level": 3,
+   "title": "Method: Contradiction Log",
+   "line": 471
+  },
+  {
+   "level": 3,
+   "title": "Method: First-Principles Decomposition",
+   "line": 502
+  },
+  {
+   "level": 3,
+   "title": "Method: Adversarial Query Expansion (MANDATORY)",
+   "line": 533
+  },
+  {
+   "level": 2,
+   "title": "STRUKTURFRAMEWORK MAPIT — Sektionen",
+   "line": 584
+  },
+  {
+   "level": 3,
+   "title": "M — Mandate",
+   "line": 586
+  },
+  {
+   "level": 3,
+   "title": "A — Architecture (Wissensgrundierung)",
+   "line": 590
+  },
+  {
+   "level": 3,
+   "title": "P — Permutation Mathematics (Spiegellogik formalisieren)",
+   "line": 614
+  },
+  {
+   "level": 4,
+   "title": "Die Aufgabe der formalen Absicherung",
+   "line": 618
+  },
+  {
+   "level": 4,
+   "title": "Anti-Patterns für die formale Absicherung",
+   "line": 662
+  },
+  {
+   "level": 3,
+   "title": "I — Interrogation (Adversariales Befragen)",
+   "line": 672
+  },
+  {
+   "level": 3,
+   "title": "T — Tensioning (Bindende Designvorgaben)",
+   "line": 676
+  },
+  {
+   "level": 2,
+   "title": "SCHRITTE (S — Steps innerhalb von MAPIT)",
+   "line": 697
+  },
+  {
+   "level": 3,
+   "title": "Schritt 1 — Kickoff & Dramatica-First-Principles-Decomposition",
+   "line": 701
+  },
+  {
+   "level": 3,
+   "title": "Schritt 2 — Dramatica-Theorie-Triangulation und Konflikt-Aufnahme",
+   "line": 748
+  },
+  {
+   "level": 3,
+   "title": "Schritt 3 — NotebookLM Adversarial Interrogation Pass 1",
+   "line": 766
+  },
+  {
+   "level": 3,
+   "title": "Schritt 4 — Hypothesen-Tree: Mindestens vier Kandidaten-Spiegelregeln",
+   "line": 784
+  },
+  {
+   "level": 3,
+   "title": "Schritt 5.b — Surviving-Branch Triangulation (cross-pollination from Category B)",
+   "line": 825
+  },
+  {
+   "level": 3,
+   "title": "Schritt 6.c — Hypothesis Half-Life Audit (cross-pollination from Category C)",
+   "line": 863
+  },
+  {
+   "level": 3,
+   "title": "Schritt 7 — BATCH PROCEDURE: Volle Storyform-Generierung pro überlebender Variante",
+   "line": 899
+  },
+  {
+   "level": 3,
+   "title": "Schritt 8 — NotebookLM Adversarial Interrogation Pass 2 (Variant-zentriert)",
+   "line": 954
+  },
+  {
+   "level": 2,
+   "title": "PRE-SYNTHESIS INTEGRITY CHECK",
+   "line": 974
+  },
+  {
+   "level": 2,
+   "title": "SYNTHESIS — Finaler Output",
+   "line": 1018
+  },
+  {
+   "level": 2,
+   "title": "SELF-VERIFICATION-CHECKLIST FÜR DEN AUSFÜHRENDEN AGENTEN (v2.1 · 11 Punkte)",
+   "line": 1182
+  }
+ ]
+}

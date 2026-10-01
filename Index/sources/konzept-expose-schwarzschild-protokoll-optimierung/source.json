@@ -1,0 +1,205 @@
+{
+ "slug": "konzept-expose-schwarzschild-protokoll-optimierung",
+ "sha256": "e4e2015bb6c5ee2b1449b424a0c5779576c1fc795dd08f885e4b9beb8a6eff3b",
+ "lines": 448,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Konzept-Exposé: Schwarzschild-Protokoll Optimierung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Ontologische Masse und die Architektur der Singularität: Eine Exhaustive Analyse des Schwarzschild-Protokolls",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "1. Einleitung: Die Krise der Epistemologie im Gravitationsfeld des Wahren",
+   "line": 18
+  },
+  {
+   "level": 2,
+   "title": "2. Die Gravitations-Theorie der Wahrheit: Ontologische Schwere und Systemkollaps",
+   "line": 32
+  },
+  {
+   "level": 3,
+   "title": "2.1 Die Schwerelosigkeit der Kohärenz (Das Archiv als Autopoietischer Orbit)",
+   "line": 40
+  },
+  {
+   "level": 4,
+   "title": "2.1.1 Operative Geschlossenheit nach Luhmann",
+   "line": 50
+  },
+  {
+   "level": 4,
+   "title": "2.1.2 Die Flache Metrik und die Resonanz",
+   "line": 60
+  },
+  {
+   "level": 3,
+   "title": "2.2 Die Gravitation der Korrespondenz (Das Primär-Datum als Singularität)",
+   "line": 68
+  },
+  {
+   "level": 4,
+   "title": "2.2.1 Das Landauer-Prinzip und Informationsdichte",
+   "line": 76
+  },
+  {
+   "level": 4,
+   "title": "2.2.2 Schlicks Konstatierungen als Ereignishorizont",
+   "line": 84
+  },
+  {
+   "level": 3,
+   "title": "2.3 Der Metrische Tensor der Wahrheit und Gezeitenkräfte",
+   "line": 94
+  },
+  {
+   "level": 4,
+   "title": "2.3.1 Phänomenologie der Spaghettisierung",
+   "line": 106
+  },
+  {
+   "level": 4,
+   "title": "2.3.2 Der Ontologische Lag und Glitch-Art",
+   "line": 118
+  },
+  {
+   "level": 2,
+   "title": "3. Die Simulierte Ontologie: AEGIS, Digitale Physik und die Grenzen der Berechnung",
+   "line": 126
+  },
+  {
+   "level": 3,
+   "title": "3.1 AEGIS als Maxwellscher Dämon und Thermodynamik",
+   "line": 134
+  },
+  {
+   "level": 3,
+   "title": "3.2 Digitale Physik und Planck-Skalen-Artefakte",
+   "line": 146
+  },
+  {
+   "level": 3,
+   "title": "3.3 Das Holographische Prinzip und die Bekenstein-Grenze",
+   "line": 157
+  },
+  {
+   "level": 3,
+   "title": "3.4 Das Potentialmeer und die Dunkle Energie als Artefakt",
+   "line": 169
+  },
+  {
+   "level": 2,
+   "title": "4. Narrative Physik: Attraktoren, Chaos und der Beobachter 'O'",
+   "line": 182
+  },
+  {
+   "level": 3,
+   "title": "4.1 Das 'O'-Paradoxon: Der Leser als Transzendenter Beobachter",
+   "line": 190
+  },
+  {
+   "level": 3,
+   "title": "4.2 Die Quanten-Metapher: Narrative Superposition",
+   "line": 203
+  },
+  {
+   "level": 3,
+   "title": "4.3 Das Dynamische System: Eros, Logos und Abyssos",
+   "line": 213
+  },
+  {
+   "level": 4,
+   "title": "4.3.1 Logos (Der Attraktor der Ordnung - AEGIS)",
+   "line": 221
+  },
+  {
+   "level": 4,
+   "title": "4.3.2 Eros (Der Attraktor der Verbindung - Kael/Integration)",
+   "line": 233
+  },
+  {
+   "level": 4,
+   "title": "4.3.3 Abyssos (Der Attraktor der Auflösung - Das Potentialmeer)",
+   "line": 245
+  },
+  {
+   "level": 2,
+   "title": "5. Charakter-Architektur: Fragmentierung, Integration und Psychologischer Horror",
+   "line": 258
+  },
+  {
+   "level": 3,
+   "title": "5.1 Strukturelle Dissoziation als Systemzustand",
+   "line": 266
+  },
+  {
+   "level": 3,
+   "title": "5.2 Gaslighting und Paranoia: Die Architektur des Missbrauchs",
+   "line": 284
+  },
+  {
+   "level": 3,
+   "title": "5.3 Der Unzuverlässige Erzähler und das Messproblem",
+   "line": 298
+  },
+  {
+   "level": 2,
+   "title": "6. Genre-Synthese: Hard Science Fiction und Kosmischer Horror",
+   "line": 308
+  },
+  {
+   "level": 3,
+   "title": "6.1 Der Horror in der Wissenschaft (Lektion 14)",
+   "line": 316
+  },
+  {
+   "level": 3,
+   "title": "6.2 Das Kosmische im Plausiblen gründen (Lektion 15)",
+   "line": 328
+  },
+  {
+   "level": 3,
+   "title": "6.3 Atmosphäre und Kognitive Verfremdung (Lektion 5 & 6)",
+   "line": 338
+  },
+  {
+   "level": 2,
+   "title": "7. Technische Governance: Der Dramaturgische Aufseher und ASP",
+   "line": 348
+  },
+  {
+   "level": 3,
+   "title": "7.1 Hybridarchitektur: LLM + ASP (Answer Set Programming)",
+   "line": 356
+  },
+  {
+   "level": 4,
+   "title": "7.1.1 Funktionsweise des Aufsehers",
+   "line": 371
+  },
+  {
+   "level": 3,
+   "title": "7.2 Dramatica als Narrative DNA",
+   "line": 381
+  },
+  {
+   "level": 2,
+   "title": "8. Fazit: Die Singularität als Spiegel",
+   "line": 395
+  },
+  {
+   "level": 3,
+   "title": "Verzeichnis der zitierten Forschungsdokumente (Snippet-IDs)",
+   "line": 409
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 436
+  }
+ ]
+}

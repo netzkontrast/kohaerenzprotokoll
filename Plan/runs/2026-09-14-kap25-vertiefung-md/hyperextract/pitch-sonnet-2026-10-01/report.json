@@ -1,0 +1,34 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "7f2f7534f53cc408919ed9e66a7e619ef2c017b228c77d1455e4f4df21d5734c",
+  "input_rows": 1,
+  "candidates": 1,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:505ee86a2f27265b3ad38763725e04bdb0576e9f7bcc48185451484c8899f45f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel",
+        "target": "wer trifft die Wahl",
+        "type": "promise",
+        "quote": "das Kapitelversprechen lautet *wer trifft die Wahl*",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "Pitch",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "7f2f7534f53cc408919ed9e66a7e619ef2c017b228c77d1455e4f4df21d5734c",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

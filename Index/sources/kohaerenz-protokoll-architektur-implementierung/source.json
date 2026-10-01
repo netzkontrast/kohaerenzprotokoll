@@ -1,0 +1,100 @@
+{
+ "slug": "kohaerenz-protokoll-architektur-implementierung",
+ "sha256": "5f4afbcac9a197b5ff1156631c40bdaf3a3c20f67b311472080f1baabf4785e9",
+ "lines": 196,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Architektur & Implementierung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Architektonische Synthese und Implementierungsplan: Ein ontologisches Framework für das 'Kohärenz Protokoll'",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Sicherheitsaudit und Evaluierung der Rust-Laufzeitumgebung ZeroClaw",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "Deterministische Strenge und das Landauer-Prinzip",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "2. Epistemologische Modellierung der Psyche: Die Drama Engine",
+   "line": 43
+  },
+  {
+   "level": 3,
+   "title": "Das Phänomenale Selbstmodell und die TSDP-Architektur",
+   "line": 47
+  },
+  {
+   "level": 3,
+   "title": "Delegation und die epistemologische Grenze",
+   "line": 55
+  },
+  {
+   "level": 2,
+   "title": "3. Infrastrukturelle Kohärenz: Das Vercel Ökosystem",
+   "line": 61
+  },
+  {
+   "level": 3,
+   "title": "Vercel AI SDK und die Agenten-Abstraktion",
+   "line": 65
+  },
+  {
+   "level": 3,
+   "title": "Persistenz und das Ledger-Time-Modell",
+   "line": 73
+  },
+  {
+   "level": 3,
+   "title": "Wahrheitstheoretische Verifikation durch RAG",
+   "line": 88
+  },
+  {
+   "level": 2,
+   "title": "4. Sicherheitsarchitektur für den Einzelnutzer",
+   "line": 95
+  },
+  {
+   "level": 2,
+   "title": "5. Der Implementierungsplan: Phasen der Systemgenese",
+   "line": 102
+  },
+  {
+   "level": 3,
+   "title": "Phase I: Die Architektonische Grenzziehung (Infrastruktur & Sicherheit)",
+   "line": 106
+  },
+  {
+   "level": 3,
+   "title": "Phase II: Instanziierung der Existenz (Drama Engine & PSM)",
+   "line": 114
+  },
+  {
+   "level": 3,
+   "title": "Phase III: Die Deterministische Härte (ZeroClaw & Fluid Compute)",
+   "line": 123
+  },
+  {
+   "level": 3,
+   "title": "Phase IV: Die Fusion der Ebenen (Vercel AI SDK & Workflows)",
+   "line": 131
+  },
+  {
+   "level": 2,
+   "title": "Fazit: Die Grenze als Motor der Erkenntnis und Funktion",
+   "line": 139
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 147
+  }
+ ]
+}

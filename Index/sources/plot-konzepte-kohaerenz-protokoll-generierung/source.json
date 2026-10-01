@@ -1,0 +1,55 @@
+{
+ "slug": "plot-konzepte-kohaerenz-protokoll-generierung",
+ "sha256": "06ad55b757a5f721a73e9b978a8fee7f8b9ff40f39fe16bb434e0fbe3749995b",
+ "lines": 271,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Plot-Konzepte: Kohärenz Protokoll Generierung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Plot-Konzept-Generierung (5 Varianten) für „Kohärenz Protokoll“",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung: Das konzeptuelle Schlachtfeld",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "II. Plot Synopsis Variante 1: Das Erkennungsparadoxon",
+   "line": 58
+  },
+  {
+   "level": 2,
+   "title": "III. Plot Synopsis Variante 2: Die Resonanzkaskade",
+   "line": 93
+  },
+  {
+   "level": 2,
+   "title": "IV. Plot Synopsis Variante 3: Die interne Kontradiktion",
+   "line": 128
+  },
+  {
+   "level": 2,
+   "title": "V. Plot Synopsis Variante 4: Die Marionetten durchschneiden die Fäden",
+   "line": 163
+  },
+  {
+   "level": 2,
+   "title": "VI. Plot Synopsis Variante 5: Die Paria-Integration",
+   "line": 198
+  },
+  {
+   "level": 2,
+   "title": "VII. Schlussfolgerung: Divergente Pfade zur Kohärenz",
+   "line": 233
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 247
+  }
+ ]
+}

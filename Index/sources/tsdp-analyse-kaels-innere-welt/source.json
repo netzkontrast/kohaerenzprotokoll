@@ -1,0 +1,130 @@
+{
+ "slug": "tsdp-analyse-kaels-innere-welt",
+ "sha256": "0c06db5e9e19945dd9f359006d56c43f621ee7fda4d8cafcc05922ac480ed0f4",
+ "lines": 471,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "TSDP-Analyse: Kaels innere Welt",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "TSDP-Basierte Analyse der Spannungspunkte und Charakterprofile für Kaels Anteile im Kontext von „Kohärenz Protokoll“",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "A. Zielsetzung und Geltungsbereich des Berichts",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "B. Einführung in Kaels System im Rahmen der TSDP",
+   "line": 21
+  },
+  {
+   "level": 2,
+   "title": "II. Anwendung des TSDP-Frameworks auf Kaels System",
+   "line": 32
+  },
+  {
+   "level": 3,
+   "title": "A. Relevante Kernprinzipien der TSDP für Kael",
+   "line": 34
+  },
+  {
+   "level": 3,
+   "title": "B. Vorläufige TSDP-Klassifikation und Funktionen von Kaels Anteilen",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "C. Tabelle: Vorläufige TSDP-Rollen, Funktionen und Kernphobien von Kaels Anteilen",
+   "line": 64
+  },
+  {
+   "level": 2,
+   "title": "III. Analyse spezifischer Spannungspunkte pro Anteil",
+   "line": 77
+  },
+  {
+   "level": 3,
+   "title": "A. Lex: Spezifische Spannungspunkte",
+   "line": 81
+  },
+  {
+   "level": 3,
+   "title": "B. Kiko: Spezifische Spannungspunkte",
+   "line": 122
+  },
+  {
+   "level": 3,
+   "title": "C. Nyx: Spezifische Spannungspunkte",
+   "line": 163
+  },
+  {
+   "level": 3,
+   "title": "D. Rhys: Spezifische Spannungspunkte",
+   "line": 204
+  },
+  {
+   "level": 3,
+   "title": "E. Kai: Spezifische Spannungspunkte",
+   "line": 245
+  },
+  {
+   "level": 2,
+   "title": "IV. Umfassende TSDP-Fokussierte Charakterprofile",
+   "line": 286
+  },
+  {
+   "level": 3,
+   "title": "A. Lex: TSDP Profil",
+   "line": 290
+  },
+  {
+   "level": 3,
+   "title": "B. Kiko: TSDP Profil",
+   "line": 310
+  },
+  {
+   "level": 3,
+   "title": "C. Nyx: TSDP Profil",
+   "line": 330
+  },
+  {
+   "level": 3,
+   "title": "D. Rhys: TSDP Profil",
+   "line": 350
+  },
+  {
+   "level": 3,
+   "title": "E. Kai: TSDP Profil",
+   "line": 370
+  },
+  {
+   "level": 2,
+   "title": "V. Synthese und Narrative Implikationen",
+   "line": 390
+  },
+  {
+   "level": 3,
+   "title": "A. Konsolidierte Sicht auf Kaels Innere Welt",
+   "line": 392
+  },
+  {
+   "level": 3,
+   "title": "B. Handlungsempfehlungen für die Narrative Entwicklung",
+   "line": 402
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 446
+  }
+ ]
+}

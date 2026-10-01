@@ -1,0 +1,300 @@
+{
+ "slug": "research-prompt-kohaerenz-protokoll-final-architecture-md",
+ "sha256": "06cc28205d695061d0b763b473bc27fd198a72911d5f3fdbd8f96c712e83df21",
+ "lines": 936,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "research-prompt_kohaerenz-protokoll-final-architecture.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "RESEARCH PROMPT — Kohärenz Protokoll: Final Architecture Validation & Inversion-Tested Concept Synthesis",
+   "line": 46
+  },
+  {
+   "level": 2,
+   "title": "0. META-HEADER — How to Read This Prompt",
+   "line": 58
+  },
+  {
+   "level": 3,
+   "title": "0.1 The Agentic Spine: ReAct (Reason + Act)",
+   "line": 62
+  },
+  {
+   "level": 3,
+   "title": "0.2 The Structural Framework: OSIRIS (bespoke synthesis)",
+   "line": 77
+  },
+  {
+   "level": 2,
+   "title": "1. CONTEXT — What This Project Is",
+   "line": 109
+  },
+  {
+   "level": 3,
+   "title": "1.1 Project Identity",
+   "line": 111
+  },
+  {
+   "level": 3,
+   "title": "1.2 Core Question of the Work",
+   "line": 115
+  },
+  {
+   "level": 3,
+   "title": "1.3 Existing Architectural Substrate",
+   "line": 119
+  },
+  {
+   "level": 3,
+   "title": "1.4 The Autobiographical Anchor (Block 4 Material — Confidential)",
+   "line": 137
+  },
+  {
+   "level": 3,
+   "title": "1.5 Operational Pivot for This Run",
+   "line": 155
+  },
+  {
+   "level": 2,
+   "title": "2. OBJECTIVE — What This Research Must Produce",
+   "line": 163
+  },
+  {
+   "level": 2,
+   "title": "3. ROLE — Who You Are For This Run",
+   "line": 183
+  },
+  {
+   "level": 2,
+   "title": "4. CONSTRAINT BLOCKS — Hard Constraints, Numbered, Anchored",
+   "line": 205
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 0 — Reflection Baseline (MANDATORY · always-on)",
+   "line": 209
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 1 — Bilingual Output Mandate",
+   "line": 241
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 2 — Phönix-Mode Inversion Mandate",
+   "line": 249
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 3 — Three Symmetry Gates (Pre-Synthesis Validation)",
+   "line": 263
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 4 — Autobiographical Anchor Layer (Confidential)",
+   "line": 298
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 5 — Source-Privacy Firewall",
+   "line": 313
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 6 — Concept-as-Canon Mandate",
+   "line": 317
+  },
+  {
+   "level": 2,
+   "title": "5. CRITICAL-THINKING METHODS — Inline-Expanded",
+   "line": 332
+  },
+  {
+   "level": 3,
+   "title": "M01 — First Principles Decomposition",
+   "line": 336
+  },
+  {
+   "level": 3,
+   "title": "M02 — Steelmanning of Counter-Positions",
+   "line": 343
+  },
+  {
+   "level": 3,
+   "title": "M03 — Inversion / Pre-Mortem (Phönix Mode)",
+   "line": 350
+  },
+  {
+   "level": 3,
+   "title": "M05 — Hegelian Dialectic (Thesis / Antithesis / Synthesis)",
+   "line": 357
+  },
+  {
+   "level": 3,
+   "title": "M13 — Adversarial Query Expansion (MANDATORY)",
+   "line": 364
+  },
+  {
+   "level": 2,
+   "title": "6. THE EIGHT RESEARCH AXES",
+   "line": 376
+  },
+  {
+   "level": 3,
+   "title": "Axis 1 — Dual-Kernel Theory and Kernel Membership",
+   "line": 380
+  },
+  {
+   "level": 3,
+   "title": "Axis 2 — Dramatica Dual-Storyform with Vortex Inversion",
+   "line": 395
+  },
+  {
+   "level": 3,
+   "title": "Axis 3 — Truth Theories Axis (Coherence vs Correspondence + Dialetheism + Constructivism)",
+   "line": 410
+  },
+  {
+   "level": 3,
+   "title": "Axis 4 — The Moonshine Link / K-J Vector",
+   "line": 425
+  },
+  {
+   "level": 3,
+   "title": "Axis 5 — The Witness Function (three-layer)",
+   "line": 439
+  },
+  {
+   "level": 3,
+   "title": "Axis 6 — The Vortex Inversion at the Climax",
+   "line": 453
+  },
+  {
+   "level": 3,
+   "title": "Axis 7 — The Reader as Substrate of the 5D Interference",
+   "line": 467
+  },
+  {
+   "level": 3,
+   "title": "Axis 8 — Juna's Final Symmetry and Ontology",
+   "line": 481
+  },
+  {
+   "level": 2,
+   "title": "7. THE EXECUTION STEPS",
+   "line": 506
+  },
+  {
+   "level": 3,
+   "title": "Restatement Template (use at start of every step)",
+   "line": 510
+  },
+  {
+   "level": 3,
+   "title": "Step 1 — Source Inventory (cross-pollination from Category B — Plan-and-Execute / Extraction)",
+   "line": 523
+  },
+  {
+   "level": 3,
+   "title": "Step 2 — Per-Axis Baseline Extraction",
+   "line": 550
+  },
+  {
+   "level": 3,
+   "title": "Step 3 — Per-Axis Adversarial Query Expansion (M13 — round 1)",
+   "line": 573
+  },
+  {
+   "level": 3,
+   "title": "Step 4 — Phönix Inversion Audit (OSIRIS phase I)",
+   "line": 597
+  },
+  {
+   "level": 3,
+   "title": "Step 5 — Cross-Axis Synthesis (Tentative)",
+   "line": 619
+  },
+  {
+   "level": 3,
+   "title": "Step 6 — Memory Pruning (cross-pollination from Category C — Lifecycle)",
+   "line": 637
+  },
+  {
+   "level": 3,
+   "title": "Step 7 — Pre-Synthesis Integrity Check (8-item, v2.1)",
+   "line": 659
+  },
+  {
+   "level": 3,
+   "title": "Step 8 — Symmetry Gate 1: Dramatica Dual-Storyform Validation",
+   "line": 686
+  },
+  {
+   "level": 3,
+   "title": "Step 9 — Symmetry Gate 2: Juna's Symmetry / Ontology",
+   "line": 706
+  },
+  {
+   "level": 3,
+   "title": "Step 10 — Symmetry Gate 3: Reader-as-Substrate Function",
+   "line": 726
+  },
+  {
+   "level": 3,
+   "title": "Step 11 — Final Bilingual Synthesis (the deliverable)",
+   "line": 749
+  },
+  {
+   "level": 2,
+   "title": "8. OUTPUT SCHEMA — The Single Deliverable",
+   "line": 774
+  },
+  {
+   "level": 3,
+   "title": "Part I — Architecture Brief (bilingual, English first, German mirror per section)",
+   "line": 778
+  },
+  {
+   "level": 3,
+   "title": "Part II — Deep Appendices (English; each opens with one-paragraph German abstract)",
+   "line": 792
+  },
+  {
+   "level": 3,
+   "title": "Part III — Audit Logs",
+   "line": 803
+  },
+  {
+   "level": 3,
+   "title": "Part IV — Plot-Outline-Ready Handoff",
+   "line": 812
+  },
+  {
+   "level": 2,
+   "title": "9. SELF-VERIFICATION CHECKLIST FOR THE EXECUTING AGENT (11 items — gate before delivery)",
+   "line": 820
+  },
+  {
+   "level": 2,
+   "title": "10. REQUIRED LOGS AND HOW TO ASSEMBLE THEM",
+   "line": 842
+  },
+  {
+   "level": 2,
+   "title": "11. WORKED MINI-EXAMPLE (FOR CALIBRATION)",
+   "line": 858
+  },
+  {
+   "level": 2,
+   "title": "12. LANGUAGE NOTE ON THE BILINGUAL OUTPUT",
+   "line": 902
+  },
+  {
+   "level": 2,
+   "title": "13. CLOSING DIRECTIVE",
+   "line": 925
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "source": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+ "runs": [
+  {
+   "run": "causallinks-haiku-2026-09-30",
+   "contract": "CausalLinks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 55,
+   "failed_calls": 2,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.6444,
+   "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+   "rows": 151,
+   "candidates": 116,
+   "refused": {
+    "surface absent from document": 22,
+    "quote not placed": 5,
+    "ambiguous quote: choose its passage": 8
+   },
+   "duplicates": 0,
+   "labels": {
+    "part": 2
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 56,
+   "failed_calls": 3,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.7189,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+   "rows": 261,
+   "candidates": 186,
+   "refused": {
+    "surface absent from document": 8,
+    "quote not placed": 51,
+    "ambiguous quote: choose its passage": 13,
+    "joined or shortened quote": 1
+   },
+   "duplicates": 2,
+   "labels": {
+    "part": 2,
+    "ok": 2
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 55,
+   "failed_calls": 2,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.6497,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+   "rows": 250,
+   "candidates": 214,
+   "refused": {
+    "ambiguous quote: choose its passage": 12,
+    "quote not placed": 20,
+    "joined or shortened quote": 3
+   },
+   "duplicates": 1,
+   "labels": {
+    "part": 1,
+    "ok": 2
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  }
+ ]
+}

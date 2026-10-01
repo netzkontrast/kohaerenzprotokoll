@@ -1,0 +1,135 @@
+{
+ "slug": "dkt-fundament-kohaerenz-protokoll-md",
+ "sha256": "396fa2ce2e01e47a675058e159c9f5ca7bb664924893cac74d4cedf0d22e48de",
+ "lines": 292,
+ "body_offset": 1,
+ "lang": "de",
+ "title": "DKT_FUNDAMENT_KOHAERENZ_PROTOKOLL.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "DKT-Fundament für das Kohärenz Protokoll",
+   "line": 1
+  },
+  {
+   "level": 2,
+   "title": "Theoretische Physik als Erzählphysik — Vollständiges Mapping",
+   "line": 3
+  },
+  {
+   "level": 2,
+   "title": "I. Prämisse des Umbaus",
+   "line": 7
+  },
+  {
+   "level": 2,
+   "title": "II. Die Physik der Romanwelt — Axiomatische Grundlage",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "II.1 — Das Dual-Kernel-Substrat",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "II.2 — Coherons und Erasonen",
+   "line": 38
+  },
+  {
+   "level": 3,
+   "title": "II.3 — Die Persistenzgleichung",
+   "line": 53
+  },
+  {
+   "level": 3,
+   "title": "II.4 — Die Emergenz der Zeit",
+   "line": 72
+  },
+  {
+   "level": 3,
+   "title": "II.5 — Gravitation als topologische Narbe",
+   "line": 82
+  },
+  {
+   "level": 3,
+   "title": "II.6 — Das Photon als Narbe",
+   "line": 89
+  },
+  {
+   "level": 2,
+   "title": "III. Mapping: DKT → Bestehende KP-Elemente",
+   "line": 98
+  },
+  {
+   "level": 3,
+   "title": "III.1 — AEGIS als makroskopischer K₁-Puffer",
+   "line": 100
+  },
+  {
+   "level": 3,
+   "title": "III.2 — Kael als frakturierte K₁-Topologie (DID durch DKT)",
+   "line": 112
+  },
+  {
+   "level": 3,
+   "title": "III.3 — Juna als Kohärenz-Anomalie",
+   "line": 131
+  },
+  {
+   "level": 3,
+   "title": "III.4 — Die Stadt als Thermodynamic Graph Field",
+   "line": 149
+  },
+  {
+   "level": 3,
+   "title": "III.5 — Dunkle Materie als schweigende Erinnerung",
+   "line": 170
+  },
+  {
+   "level": 2,
+   "title": "IV. Narrative Konsequenzen — Was sich strukturell ändert",
+   "line": 184
+  },
+  {
+   "level": 3,
+   "title": "IV.1 — Die drei Akte unter DKT",
+   "line": 186
+  },
+  {
+   "level": 3,
+   "title": "IV.2 — Neue Foreshadowing-Architektur",
+   "line": 194
+  },
+  {
+   "level": 3,
+   "title": "IV.3 — Auswirkungen auf offene Fragen",
+   "line": 218
+  },
+  {
+   "level": 2,
+   "title": "V. Technische Konsistenz-Regeln für die Prosa",
+   "line": 230
+  },
+  {
+   "level": 3,
+   "title": "V.1 — Sprache der Physik",
+   "line": 232
+  },
+  {
+   "level": 3,
+   "title": "V.2 — AEGIS-Log-Physik",
+   "line": 243
+  },
+  {
+   "level": 3,
+   "title": "V.3 — Mathematische Passagen",
+   "line": 263
+  },
+  {
+   "level": 2,
+   "title": "VI. Offene Architektur-Fragen (für die nächste Session)",
+   "line": 273
+  }
+ ]
+}

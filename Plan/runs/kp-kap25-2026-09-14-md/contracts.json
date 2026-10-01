@@ -1,0 +1,35 @@
+{
+ "source": "kp-kap25-2026-09-14-md",
+ "runs": [
+  {
+   "run": "utterances-haiku-2026-09-30",
+   "contract": "Utterances",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 11,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.1439,
+   "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+   "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+   "rows": 69,
+   "candidates": 0,
+   "refused": {
+    "surface absent from document": 68,
+    "ambiguous quote: choose its passage": 1
+   },
+   "duplicates": 0,
+   "labels": {
+    "ok": 4,
+    "part": 5
+   },
+   "model_choice": null,
+   "outcome": "refused",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  }
+ ]
+}

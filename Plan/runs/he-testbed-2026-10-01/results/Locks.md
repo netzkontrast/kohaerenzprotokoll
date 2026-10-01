@@ -20,4 +20,8 @@ The model returned no row on this document.
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1135, 32.6 s. **1 rows**: 1 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Benennungslock | Kap 1–13 | locked | asserts | Der Benennungslock gilt für Kap 1–13. | 55 |

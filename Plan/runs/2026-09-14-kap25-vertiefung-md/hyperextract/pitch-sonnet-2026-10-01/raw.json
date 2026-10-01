@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "source": "Kapitel",
+      "target": "wer trifft die Wahl",
+      "type": "promise",
+      "quote": "das Kapitelversprechen lautet *wer trifft die Wahl*",
+      "stance": "asserts"
+    }
+  ]
+}

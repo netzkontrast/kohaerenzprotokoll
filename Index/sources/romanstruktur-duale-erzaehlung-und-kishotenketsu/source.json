@@ -1,0 +1,120 @@
+{
+ "slug": "romanstruktur-duale-erzaehlung-und-kishotenketsu",
+ "sha256": "383e8d8ac67d8e956a22741d7acb87aa1c5059f4af5fb08698d4971e91a200c3",
+ "lines": 316,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Romanstruktur: Duale Erzählung und Kishōtenketsu",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll: Eine narrative Architektur der dualen Strukturdynamik",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "I. Fundamentale Narrative Landkarte",
+   "line": 18
+  },
+  {
+   "level": 2,
+   "title": "II. Akt I: Ki (Einleitung) - Das Instabile Gleichgewicht (Kapitel 1-9)",
+   "line": 45
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 1: Das Morgenritual",
+   "line": 53
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 2: Der Blick des Wächters",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 3: Juna",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 4-9: Entwicklung des Status Quo",
+   "line": 107
+  },
+  {
+   "level": 2,
+   "title": "III. Akt II: Shō (Entwicklung) - Die Eskalierende Paradoxie (Kapitel 10-21)",
+   "line": 119
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 10: Protokoll-Anpassung 1",
+   "line": 127
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 11: Die Stimme der Vernunft",
+   "line": 145
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 12: Der Käfig",
+   "line": 163
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 13-21: Eskalation des Scheiterns",
+   "line": 181
+  },
+  {
+   "level": 2,
+   "title": "IV. Akt III: Ten (Wendung) - Katastrophales Versagen & Emergentes Selbst (Kapitel 22-31)",
+   "line": 191
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 22: Paradoxon X",
+   "line": 199
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 23: Der Weiße Raum",
+   "line": 217
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 24-31: Die Neuordnung",
+   "line": 235
+  },
+  {
+   "level": 2,
+   "title": "V. Akt IV: Ketsu (Schluss) - Eine Neue Kohärenz (Kapitel 32-40)",
+   "line": 245
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 32: Verhandlungen",
+   "line": 253
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 33-39: Aufbau eines neuen Lebens",
+   "line": 271
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 40: Epilog - Kohärenz",
+   "line": 279
+  },
+  {
+   "level": 2,
+   "title": "Anhang",
+   "line": 297
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 313
+  }
+ ]
+}

@@ -1,91 +1,92 @@
-"""novelgraph build/search/verify/measure; all computations stay local."""
+"""novelgraph — a file-based chunk and vector index over `Sources/`, every hit a line range.
+
+    novelgraph build  [--source SLUG] [--method heading@v1] [--force]
+    novelgraph search "query" [-k 8] [--method heading@v1] [--mode bm25|vec|hybrid] [--json]
+    novelgraph verify [--no-rechunk]
+    novelgraph bench  [--k 8] [--record DIR]      # recall@k on ask.py's cases, latency, sizes
+    novelgraph selftest
+
+Run from the repository root: `.venv-novelgraph/bin/novelgraph …`, the venv made once by
+`UV_PROJECT_ENVIRONMENT=$PWD/.venv-novelgraph uv sync --project novelgraph`.
+`docs/novelgraph-index.md` has the design and the measurements.
+"""
+
+from __future__ import annotations
+
 import argparse
 import json
-import os
-import time
-import numpy as np
-from .index import Index, atomic_json
-from .search import Search
-from .verify import verify
+import sys
+from pathlib import Path
 
 
-def measure(index):
-    import ask
-    cases = ask.bench_cases()  # Repository questions/gold unchanged.
-    results = {}
-    for method in index.config["chunkers"]:
-        search = Search(index, method)
-        scores = {}
-        for mode in ("bm25", "vec", "hybrid"):
-            per_case = []
-            for c in cases:
-                hits = search.query(c["question"], k=8, mode=mode)
-                gold = c["gold"]
-                line_hits = sum(any(h["slug"] == d and h["line_start"] <= n <= h["line_end"] for h in hits) for d, n in gold)
-                docs = {d for d, _ in gold}
-                per_case.append(dict(id=c["id"], question=c["question"], gold_lines=len(gold),
-                                     line_recall=line_hits / len(gold) if gold else None,
-                                     document_recall=len(docs & {h["slug"] for h in hits}) / len(docs) if docs else None,
-                                     document_ceiling_at_8=min(8, len(docs)) / len(docs) if docs else None,
-                                     lines_per_hit=float(np.mean([h["line_end"] - h["line_start"] + 1 for h in hits])) if hits else 0))
-            scores[mode] = dict(recall_at_8=float(np.mean([c["line_recall"] for c in per_case if c["line_recall"] is not None])),
-                                document_recall_at_8=float(np.mean([c["document_recall"] for c in per_case if c["document_recall"] is not None])), document_ceiling_at_8=float(np.mean([c["document_ceiling_at_8"] for c in per_case if c["document_ceiling_at_8"] is not None])),
-                                lines_per_hit=float(np.mean([c["lines_per_hit"] for c in per_case])), cases=per_case)
-        # Warm session: query embedding included; initialization excluded and reported separately elsewhere.
-        search.query(cases[0]["question"], mode="hybrid")
-        latency = []
-        for i in range(50):
-            start = time.perf_counter()
-            search.query(cases[i % len(cases)]["question"], mode="hybrid")
-            latency.append((time.perf_counter() - start) * 1000)
-        results[method] = dict(chunks=len(search.rows), scores=scores, queries=50,
-                               hybrid_ms_p50=float(np.percentile(latency, 50)), hybrid_ms_p95=float(np.percentile(latency, 95)),
-                               latency_ms=latency,
-                               vec_mb=sum(p.stat().st_size for p in (index.path / "sources").glob(f"*/vec/{method}*.npy")) / 1e6,
-                               build_mb=sum(p.stat().st_size for p in (index.path / "_build").glob(f"{method}*")) / 1e6)
-        search.close()
-    out = dict(cases=len(cases), evaluation="unchanged ask.bench_cases; macro source-line overlap recall@8",
-               methods=results, no_llm_calls=True)
-    atomic_json(index.root / "novelgraph/measurements/retrieval.json", out)
-    return out
+def main(argv: list[str] | None = None) -> int:
+    ap = argparse.ArgumentParser(prog="novelgraph", description=__doc__.split("\n")[0])
+    sub = ap.add_subparsers(dest="cmd", required=True)
+    b = sub.add_parser("build")
+    b.add_argument("--source")
+    b.add_argument("--method", action="append")
+    b.add_argument("--force", action="store_true")
+    s = sub.add_parser("search")
+    s.add_argument("query")
+    s.add_argument("-k", type=int, default=8)
+    s.add_argument("--method", default="heading@v1")
+    s.add_argument("--mode", default="hybrid", choices=("bm25", "vec", "hybrid"))
+    s.add_argument("--json", action="store_true")
+    v = sub.add_parser("verify")
+    v.add_argument("--no-rechunk", action="store_true")
+    be = sub.add_parser("bench")
+    be.add_argument("--k", type=int, default=8)
+    be.add_argument("--record")
+    sub.add_parser("selftest")
+    a = ap.parse_args(argv)
 
-
-def main():
-    parser = argparse.ArgumentParser(description=__doc__)
-    sub = parser.add_subparsers(dest="command", required=True)
-    build = sub.add_parser("build")
-    build.add_argument("--source")
-    build.add_argument("--method", default="heading@v1")
-    build.add_argument("--force", action="store_true")
-    search = sub.add_parser("search")
-    search.add_argument("query")
-    search.add_argument("-k", type=int, default=8)
-    search.add_argument("--method", default="heading@v1")
-    search.add_argument("--mode", choices=("bm25", "vec", "hybrid"), default="hybrid")
-    check = sub.add_parser("verify")
-    check.add_argument("--method")
-    sub.add_parser("measure")
-    args = parser.parse_args()
-    try:
-        index = Index()
-        if args.command == "build":
-            result = index.build(args.method, args.source, args.force)
-        elif args.command == "search":
-            engine = Search(index, args.method, vectors=args.mode != "bm25")
-            try:
-                result = engine.query(args.query, args.k, args.mode)
-            finally:
-                engine.close()
-        elif args.command == "verify":
-            reports = [verify(index, m) for m in ([args.method] if args.method else index.config["chunkers"])]
-            result = dict(ok=all(r["ok"] for r in reports), methods=reports)
-        else:
-            result = measure(index)
-        print(json.dumps(result, ensure_ascii=False, indent=2))
-        return 1 if isinstance(result, dict) and result.get("ok") is False else 0
-    except (ValueError, OSError, KeyError) as exc:
-        parser.exit(2, f"novelgraph: {exc}\n")
+    if a.cmd == "build":
+        from .build import build
+        build(a.source, a.method, a.force)
+        return 0
+    if a.cmd == "search":
+        from .search import Index, as_json, show
+        hits = Index(a.method).search(a.query, a.k, a.mode)
+        print(as_json(hits, a.method) if a.json else show(hits, a.method))
+        return 0
+    if a.cmd == "verify":
+        from .verify import verify
+        fails, info = verify(rechunk=not a.no_rechunk)
+        for f in fails[:50]:
+            print(f"  FAIL  {f}")
+        if len(fails) > 50:
+            print(f"  … and {len(fails) - 50} more")
+        print(f"coverage: {info['coverage']}")
+        print("catalogue: " + json.dumps(info["catalogue"], ensure_ascii=False))
+        print("chunks:   " + ", ".join(f"{m} {n}" for m, n in info["chunks"].items()))
+        print("verify: " + ("ok" if not fails else f"{len(fails)} failures"))
+        return 1 if fails else 0
+    if a.cmd == "bench":
+        from .bench import latency, recall, sizes
+        from . import store
+        result = {"recall": recall(a.k), "latency": [latency(m) for m in store.chunkers()], "sizes": sizes()}
+        print(f"recall@{a.k} on {next(iter(result['recall'].values()))['cases']} cases (ask.py bench_cases)")
+        print(f"  {'method/mode':<22} {'doc':>6} {'ceiling':>8} {'line':>6} {'lines/hit':>10}")
+        for key, r in result["recall"].items():
+            print(f"  {key:<22} {r['doc_recall']:>6} {r['doc_ceiling']:>8} {r['line_recall']:>6} {r['lines_per_hit']:>10}")
+        for l in result["latency"]:
+            print(f"latency {l['method']} {l['mode']}: P50 {l['p50_ms']} ms, P95 {l['p95_ms']} ms, "
+                  f"max {l['max_ms']} ms over {l['queries']} warm queries (load {l['load_s']} s)")
+        print("sizes: " + json.dumps(result["sizes"], ensure_ascii=False))
+        if a.record:
+            out = Path(a.record)
+            out.mkdir(parents=True, exist_ok=True)
+            (out / "bench.json").write_text(json.dumps(result, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        return 0
+    if a.cmd == "selftest":
+        from .selftest import gates, publication_gates, selftest
+        fails = selftest() + gates() + publication_gates()
+        for f in fails:
+            print(f"  FAIL  {f}")
+        print(f"novelgraph selftest: {'held' if not fails else f'{len(fails)} failed'}")
+        return 1 if fails else 0
+    return 2
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    sys.exit(main())

@@ -1,0 +1,160 @@
+{
+ "slug": "dramatica-dual-storyform-status-2026-05-07-md",
+ "sha256": "8d229dbca522ac293bc31c862a335ab29feeb2975040d47bb05e6b103895cb6f",
+ "lines": 474,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "dramatica-dual-storyform-status_2026-05-07.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Dramatica Dual-Storyform — Status & Lock-In Bericht",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "0. Zusammenfassung (TL;DR)",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "I. Audit-Ergebnis im Detail",
+   "line": 49
+  },
+  {
+   "level": 3,
+   "title": "I.1 Was orthodox sitzt",
+   "line": 51
+  },
+  {
+   "level": 3,
+   "title": "I.2 Was korrigiert wurde",
+   "line": 73
+  },
+  {
+   "level": 4,
+   "title": "Korrektur 1 — Approach gegen Domain (beide Storyforms)",
+   "line": 75
+  },
+  {
+   "level": 4,
+   "title": "Korrektur 2 — Driver-Pivot in B aufgelöst",
+   "line": 99
+  },
+  {
+   "level": 4,
+   "title": "Korrektur 3 — IC-Träger in B",
+   "line": 119
+  },
+  {
+   "level": 3,
+   "title": "I.3 Was bewusst heterodox bleibt",
+   "line": 139
+  },
+  {
+   "level": 2,
+   "title": "II. Korrigierte Dual-Storyform Spezifikation (vollständig)",
+   "line": 165
+  },
+  {
+   "level": 3,
+   "title": "II.1 Vollbild beider Storyforms",
+   "line": 167
+  },
+  {
+   "level": 3,
+   "title": "II.2 Storyform A — Heuristics of Integration (K1-Reading)",
+   "line": 192
+  },
+  {
+   "level": 3,
+   "title": "II.3 Storyform B — Phoenix Collapse (K0-Reading)",
+   "line": 216
+  },
+  {
+   "level": 3,
+   "title": "II.4 Die Klein-c-Inversion zwischen A und B",
+   "line": 240
+  },
+  {
+   "level": 2,
+   "title": "III. Vortex re-mapped — Orthodoxe Driver-Architektur",
+   "line": 266
+  },
+  {
+   "level": 3,
+   "title": "III.1 Die fünf Beats (Kap 35–36)",
+   "line": 270
+  },
+  {
+   "level": 3,
+   "title": "III.2 Mechanische Lesart: Zwei Uhren",
+   "line": 281
+  },
+  {
+   "level": 3,
+   "title": "III.3 Konsequenzen für Akt III Encoding",
+   "line": 289
+  },
+  {
+   "level": 2,
+   "title": "IV. Per-Chapter Dual-POV-Architektur — Option 3 Hybrid",
+   "line": 302
+  },
+  {
+   "level": 3,
+   "title": "IV.1 Default-Modus: Hard-Routing per POV",
+   "line": 306
+  },
+  {
+   "level": 3,
+   "title": "IV.2 Bridge-Szenen: Soft-Layering",
+   "line": 326
+  },
+  {
+   "level": 3,
+   "title": "IV.3 Akt-Progression der Bridge-Frequenz",
+   "line": 354
+  },
+  {
+   "level": 3,
+   "title": "IV.4 Encoding-Implikationen",
+   "line": 369
+  },
+  {
+   "level": 2,
+   "title": "V. Was offen bleibt vor Phase 1",
+   "line": 385
+  },
+  {
+   "level": 3,
+   "title": "V.1 Bridge-Szenen-Kandidatenliste finalisieren",
+   "line": 387
+  },
+  {
+   "level": 3,
+   "title": "V.2 IC-Träger-in-B noch einmal validieren gegen Memory Slot 5",
+   "line": 395
+  },
+  {
+   "level": 3,
+   "title": "V.3 Drei dauer-offene Reset-Doc-Punkte (Appendix C)",
+   "line": 399
+  },
+  {
+   "level": 3,
+   "title": "V.4 Canon-Dokumente außerhalb dieses Chats nachziehen",
+   "line": 410
+  },
+  {
+   "level": 2,
+   "title": "VI. Vorbereitung Phase 1 — MC Throughline-Encoding parallel",
+   "line": 427
+  },
+  {
+   "level": 2,
+   "title": "Anhang A — Memory-Slot-Status nach Session 2026-05-07",
+   "line": 455
+  }
+ ]
+}

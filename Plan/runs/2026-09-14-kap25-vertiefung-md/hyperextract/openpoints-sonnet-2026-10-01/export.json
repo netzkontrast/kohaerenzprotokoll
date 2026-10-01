@@ -1,0 +1,45 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "8f8deef97c400f14d62f2231f8f1dcf8d3f344b6fcede2be4e49c4110011afcf",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "term": "AEGIS-Benennung ab Akt II",
+        "quote": "Soll der Name — und das Log-Format — irgendwo in Akt II leserseitig freigegeben werden, und wenn ja, ab welchem Kapitel?",
+        "stance": "asks"
+      },
+      {
+        "term": "Schleier-Benennung",
+        "quote": "Autorentscheid nötig.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klick-Motiv-Budget",
+        "quote": "Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material?",
+        "stance": "asks"
+      },
+      {
+        "term": "Header-Szenenplan",
+        "quote": "Soll der Szenenplan in einem separaten Outline-Pass nachgezogen werden?",
+        "stance": "asks"
+      },
+      {
+        "term": "Einheit Station 7",
+        "quote": "Trägt sie in Akt III weiter (Kap 27/28) oder bleibt sie eine Delta-Sieben-Figur?",
+        "stance": "asks"
+      },
+      {
+        "term": "KW-Progression",
+        "quote": "Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel), oder sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden?",
+        "stance": "asks"
+      },
+      {
+        "term": "Kernwelt-Mapping Akt II",
+        "quote": "Das ist die größte offene Frage des Laufs.",
+        "stance": "hedges"
+      }
+    ]
+  }
+}

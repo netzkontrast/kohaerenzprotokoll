@@ -1,0 +1,125 @@
+{
+ "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+ "sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+ "lines": 527,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "kohaerenz-protokoll_storyform-und-outline_2026-06-10.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Dual-Storyform & Outline (Source-of-Truth)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "§0 · Querschnitt-Kanon (gilt für ALLE Kapitel) [K]",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "§1 · Strukturelle Achsen (41 Bewegungen, drei simultane Ebenen) [K]",
+   "line": 91
+  },
+  {
+   "level": 2,
+   "title": "§2 · Dual-Storyform (A‖B) — vollständige Spezifikation",
+   "line": 133
+  },
+  {
+   "level": 3,
+   "title": "§2.1 Slot-Tabelle [K]",
+   "line": 147
+  },
+  {
+   "level": 3,
+   "title": "§2.2 Goal / Consequence / Cost / Dividend [K]",
+   "line": 178
+  },
+  {
+   "level": 3,
+   "title": "§2.3 Signpost-Sequenzen [V] — gegen Dramatica-Engine in P1–P5 zu validieren",
+   "line": 191
+  },
+  {
+   "level": 3,
+   "title": "§2.4 POV-Architektur (Per-Chapter-Dual-POV) [K]",
+   "line": 203
+  },
+  {
+   "level": 2,
+   "title": "§3 · Kernwelten-Matrix (Akt-Marker, KEINE Geographie, KEIN Guardian-1:1) [K]",
+   "line": 214
+  },
+  {
+   "level": 2,
+   "title": "§4 · Figuren-Kurzanker (nur outline-relevant) [K]",
+   "line": 251
+  },
+  {
+   "level": 2,
+   "title": "§5 · Kapitel-Outline (Kap 0–40)",
+   "line": 292
+  },
+  {
+   "level": 3,
+   "title": "Kap 0 — Genesis-Prolog [K]",
+   "line": 296
+  },
+  {
+   "level": 3,
+   "title": "Akt I — Heldinnenreise innen (Kap 1–13) [K]",
+   "line": 300
+  },
+  {
+   "level": 3,
+   "title": "Akt II — Zyklischer Modus (Kap 14–26) [K] Struktur / [S] Szenen-Detail",
+   "line": 320
+  },
+  {
+   "level": 3,
+   "title": "Akt III Phase A — Heldenreise außen (Kap 27–34) [K] Struktur / [S]/[L] Detail",
+   "line": 353
+  },
+  {
+   "level": 3,
+   "title": "Vortex 1 (Kap 35–36) — Operative Wendung (HR 9: Ordeal) [K]",
+   "line": 368
+  },
+  {
+   "level": 3,
+   "title": "Kap 37 — Der Gärtner / Trügerischer Sieg (HR: Reward) [K]",
+   "line": 384
+  },
+  {
+   "level": 3,
+   "title": "Vortex 2 (Kap 38–39) — Ontologische Wendung / Plurale Apotheose [K]",
+   "line": 388
+  },
+  {
+   "level": 3,
+   "title": "Kap 40 — Geheilte Genesis (Coda) [K]",
+   "line": 416
+  },
+  {
+   "level": 2,
+   "title": "§6 · Stadien-Systeme",
+   "line": 432
+  },
+  {
+   "level": 2,
+   "title": "§7 · Quellen-Konflikte (explizit, nicht still geglättet)",
+   "line": 456
+  },
+  {
+   "level": 2,
+   "title": "§8 · Offene Punkte (Stand 2026-06-10)",
+   "line": 466
+  },
+  {
+   "level": 2,
+   "title": "Quellen-Register",
+   "line": 512
+  }
+ ]
+}

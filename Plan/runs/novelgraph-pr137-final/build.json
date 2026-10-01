@@ -1,0 +1,13 @@
+{
+  "sources": 586,
+  "rechunked": 586,
+  "embedded": 31366,
+  "reused_vectors": 0,
+  "skipped": 0,
+  "concatenated": [
+    "heading@v1",
+    "section@v1",
+    "window400@v1"
+  ],
+  "seconds": 126.15
+}

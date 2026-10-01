@@ -13,8 +13,26 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`
 
-Not run yet.
+3 calls (0 failed), 3 chunks (0 without a valid reply), $0.066, 27.0 s. **7 rows**: 5 candidates, 2 refused, 0 duplicates.
+
+Beside the Haiku pilot of 2026-09-30 on this document: the candidates stand on 5 lines here and 4 there, 3 of them the same.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Kael | die Manifestation des Lesers | premise | asserts | dass Kael die Manifestation des Lesers ist und seine Welt mit dem Zuklappen des Buches stirbt | 13 |
+| 2 | relation_reading | candidate | Ordnungssucht | ein verzweifelter Versuch, den Leser (den Beobachter) bei der Stange zu halten | motif_meaning | asserts | Seine Ordnungssucht ist ein verzweifelter Versuch, den Leser (den Beobachter) bei der Stange zu halten | 28 |
+| 3 | relation_reading | candidate | Die Welt | existiert nur so weit, wie der Leser sie sich vorstellen kann | theme | asserts | Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann. | 35 |
+| 4 | relation_reading | refused: surface absent from document | das System | der Verstand des Beobachters (des Lesers) stößt an seine eigenen kognitiven Grenzen | theme | asserts | Wenn das System unentscheidbar wird, liegt das daran, dass der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt. | 35 |
+| 5 | relation_reading | candidate | Kael | die Sonde, die der Leser in das Trauma geschickt hat | motif_meaning | asserts | Kael ist die Sonde, die der Leser in das Trauma geschickt hat. | 42 |
+| 6 | relation_reading | refused: surface absent from document | Er | das Werkzeug, mit dem der Leser versucht, seine eigene Dissoziation zu heilen | theme | asserts | Er ist das Werkzeug, mit dem der Leser versucht, seine eigene Dissoziation (seine Trennung von der Welt) zu heilen. | 42 |
+| 7 | relation_reading | candidate | Das Zuklappen des Buches | der „Wärmetod des Universums“ (Entropie) | motif_meaning | asserts | Das Zuklappen des Buches wird als der „Wärmetod des Universums“ (Entropie) geframt. | 46 |
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1337, 46.2 s. **3 rows**: 2 candidates, 1 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | das Kapitelversprechen | wer trifft die Wahl | central_question | asserts | das Kapitelversprechen lautet *wer trifft die Wahl* | 21 |
+| 2 | relation_reading | refused: quote not placed | Wegkreuzung | interner Wahlpunkt | motif_meaning | asserts | Motivherkunft „Wegkreuzung“ = \*\*interner Wahlpunkt |  |
+| 3 | relation_reading | candidate | Wegkreuzung/Tore | interner Ort der Entscheidungsfindung | motif_meaning | asserts | Wegkreuzung/Tore: \*von extern auferlegter Schwelle → interner Ort der Entscheidungsfindung | 38 |

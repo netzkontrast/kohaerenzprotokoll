@@ -26,4 +26,15 @@ Beside the Haiku pilot of 2026-09-30 on this document: the candidates stand on 4
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1505, 58.0 s. **8 rows**: 5 candidates, 3 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Akt-II-Arc | getragene Schwellensequenz | must | asserts | Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz | 17 |
+| 2 | relation_reading | refused: quote not placed | AEGIS | bemerkt Kaels neue Klarheit | must | asserts | Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit“ |  |
+| 3 | relation_reading | candidate | kaltes Ozon | in der Abmeldeszene | only_if | asserts | kaltes Ozon **nur** in der Abmeldeszene | 47 |
+| 4 | relation_reading | candidate | Juna | nie Subjekt, nie Name, nie Körper, nie Stimme | must_not | asserts | Juna nie Subjekt, nie Name, nie Körper, nie Stimme | 47 |
+| 5 | relation_reading | candidate | Ein-Falschheits-Regel | eine objektive Falschheit | must | asserts | Ein-Falschheits-Regel: **eine** objektive Falschheit | 47 |
+| 6 | relation_reading | refused: quote not placed | Canon | offen benannt | must | cites | Canon verlangt „offen benannt“ in 25–26. |  |
+| 7 | relation_reading | candidate | Drafting-Brief | Änderungen am Kopf | must_not | cites | Der Drafting-Brief verbietet Änderungen am Kopf außer status. | 58 |
+| 8 | relation_reading | refused: quote not placed | Akt I | namenlos | must | cites | bleibt aber namenlos („Einheit“), wie es Akt I verlangt |  |

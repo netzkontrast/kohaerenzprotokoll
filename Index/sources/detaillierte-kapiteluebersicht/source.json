@@ -1,0 +1,35 @@
+{
+ "slug": "detaillierte-kapiteluebersicht",
+ "sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+ "lines": 72,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Detaillierte Kapitelübersicht",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Kohärenz Protokoll: Detaillierte Kapitelübersicht",
+   "line": 11
+  },
+  {
+   "level": 3,
+   "title": "Akt I: Ki (起) – Die Einführung (Kapitel 1-13)",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "Akt II: Shō (承) – Die Entwicklung (Kapitel 14-26)",
+   "line": 31
+  },
+  {
+   "level": 3,
+   "title": "Akt III: Ten (転) – Die Wendung (Kapitel 27-34)",
+   "line": 49
+  },
+  {
+   "level": 3,
+   "title": "Akt IV: Ketsu (結) – Die Zusammenführung (Kapitel 35-40)",
+   "line": 62
+  }
+ ]
+}

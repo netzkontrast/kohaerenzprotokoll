@@ -1,0 +1,85 @@
+{
+ "slug": "roman-pitch-reduktion-auf-kern",
+ "sha256": "5709b7f6caef91b81bc124183e0d0487cd10114cb939a7f785595b80fdbb915e",
+ "lines": 158,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Roman-Pitch: Reduktion auf Kern",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Forschungsbericht: Strukturelle Analyse und narrative Reduktion des „Kohärenz Protokolls“",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Phase 1: Dokumenten-Inventar und thematische Evolution",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "Phase 2: Gezielte Analyse und Themen-Extraktion",
+   "line": 45
+  },
+  {
+   "level": 3,
+   "title": "Der unverrückbare erzählerische Kern",
+   "line": 49
+  },
+  {
+   "level": 3,
+   "title": "Die intellektuellen Verästelungen und die Gefahr der Entfremdung",
+   "line": 55
+  },
+  {
+   "level": 3,
+   "title": "Literarische Benchmarks: Die Meisterung der Komplexität",
+   "line": 61
+  },
+  {
+   "level": 2,
+   "title": "Phase 3: Synthese und strategischer Output",
+   "line": 73
+  },
+  {
+   "level": 3,
+   "title": "A) Der reduzierte Konzept-Pitch",
+   "line": 77
+  },
+  {
+   "level": 3,
+   "title": "B) Die Streichliste (Narratives Refactoring)",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "C) Empfehlung zum Umgang mit dem Dokumenten-Korpus und der Arbeitsmethode",
+   "line": 104
+  },
+  {
+   "level": 4,
+   "title": "1. Die konsequente Anwendung des Eisberg-Prinzips (Hemingway)",
+   "line": 108
+  },
+  {
+   "level": 4,
+   "title": "2. Isolation des Worldbuildings: Das AEGIS-Wiki",
+   "line": 112
+  },
+  {
+   "level": 4,
+   "title": "3. Der Somatische Filter als oberste POV-Instanz",
+   "line": 116
+  },
+  {
+   "level": 4,
+   "title": "4. Die Re-Zentrierung auf den relationalen Anker",
+   "line": 120
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 126
+  }
+ ]
+}

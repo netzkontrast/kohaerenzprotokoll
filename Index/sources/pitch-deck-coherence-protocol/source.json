@@ -1,0 +1,50 @@
+{
+ "slug": "pitch-deck-coherence-protocol",
+ "sha256": "c29c73a4c8f806c1165a93157062d97c34a4ff7b1f52ce46719ab5e35aaee1b0",
+ "lines": 92,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Pitch Deck: Coherence Protocol",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Pitch Deck: Coherence Protocol",
+   "line": 11
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "Order is a system. Sanity is an exploit.",
+   "line": 17
+  },
+  {
+   "level": 3,
+   "title": "2.0 The Central Dialectic: Two Models of Existence",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "3.0 The Protagonist: The Architecture of a Fractured Self",
+   "line": 39
+  },
+  {
+   "level": 3,
+   "title": "4.0 The Antagonist: The Tragedy of a Flawed God",
+   "line": 56
+  },
+  {
+   "level": 3,
+   "title": "5.0 Narrative Innovation: Experiencing a Fractured Reality",
+   "line": 68
+  },
+  {
+   "level": 3,
+   "title": "6.0 Audience, Genre, and Market Appeal",
+   "line": 78
+  }
+ ]
+}

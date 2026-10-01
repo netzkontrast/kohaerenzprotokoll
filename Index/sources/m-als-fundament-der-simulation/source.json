@@ -1,0 +1,20 @@
+{
+ "slug": "m-als-fundament-der-simulation",
+ "sha256": "1b2054d1ff26f3277f97292e056a0122ad4b54986d22e648e655f09144b6ded5",
+ "lines": 751,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "M als Fundament der Simulation",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Plot-Blueprint: Kohärenz Protokoll (Version Ω+2)",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 691
+  }
+ ]
+}

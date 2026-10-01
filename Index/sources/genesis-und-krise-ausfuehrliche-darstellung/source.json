@@ -1,0 +1,20 @@
+{
+ "slug": "genesis-und-krise-ausfuehrliche-darstellung",
+ "sha256": "cb470a72906d1982636abb082ca8fcc9b6fa73d14d6f2f880b5d5f0310ec4a38",
+ "lines": 108,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Genesis und Krise: Ausführliche Darstellung",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Genesis",
+   "line": 11
+  },
+  {
+   "level": 3,
+   "title": "Die Krise",
+   "line": 69
+  }
+ ]
+}

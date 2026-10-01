@@ -1,0 +1,20 @@
+{
+ "slug": "genesis-krise-aegis-prosa-auftrag",
+ "sha256": "ec628c21a9645ca5c763af99a52af154bb243539a39b61a54158fedb64d78f5a",
+ "lines": 300,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Genesis-Krise: AEGIS Prosa-Auftrag",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Finaler Prosa-Auftrag: Die Genesis-Krise von AEGIS – Strategischer Plan und Ausführungsvorgaben",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "Quellenangaben",
+   "line": 297
+  }
+ ]
+}

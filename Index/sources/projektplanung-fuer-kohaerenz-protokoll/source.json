@@ -1,0 +1,185 @@
+{
+ "slug": "projektplanung-fuer-kohaerenz-protokoll",
+ "sha256": "0ebdfe4741a223c7317bc94ef47270cf68e0d5e62d218f83345acf78a39baf85",
+ "lines": 419,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Projektplanung für Kohärenz Protokoll",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Maximal-Plotter-Workflow: Architektonische Integration und Prozess-Synthese für das 'Kohärenz Protokoll'",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Executive Summary: Die Überwindung der Struktur-Fragmentierung durch isomorphe Prozessgestaltung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "-----2. Ontologische Fundierung: Die 'Protocol Ontology' als Basis der Datenstruktur",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "2.1 Die Primäre Dualität als Metadaten-Schema",
+   "line": 27
+  },
+  {
+   "level": 4,
+   "title": "Implementierung in der Datenbankarchitektur (Notion/Obsidian)",
+   "line": 31
+  },
+  {
+   "level": 3,
+   "title": "2.2 Die Kernwelten als Psycho-Architektonische Container",
+   "line": 49
+  },
+  {
+   "level": 4,
+   "title": "Regelbasierte Schreibanweisungen für die Container:",
+   "line": 55
+  },
+  {
+   "level": 2,
+   "title": "-----3. Charakter-Architektur: TSDP-Integration und Polyphones Erzählen",
+   "line": 97
+  },
+  {
+   "level": 3,
+   "title": "3.1 Die \"Systemkarte\" als Dynamisches Personenregister",
+   "line": 101
+  },
+  {
+   "level": 4,
+   "title": "Workflow für Multi-Perspektivität (Polyphonie)",
+   "line": 105
+  },
+  {
+   "level": 3,
+   "title": "3.2 Tiefenanalyse der Alters und ihrer Konfliktdynamik",
+   "line": 119
+  },
+  {
+   "level": 3,
+   "title": "3.3 Konflikt-Simulation durch Agenten-Modellierung",
+   "line": 158
+  },
+  {
+   "level": 2,
+   "title": "-----4. Strukturelles Engineering: Die Mosaik-Architektur (39 Slots)",
+   "line": 171
+  },
+  {
+   "level": 3,
+   "title": "4.1 Die Gravitations-Architektur als Master-Struktur",
+   "line": 175
+  },
+  {
+   "level": 4,
+   "title": "Phase I: Ergosphäre (Stabilisierung / Act I)",
+   "line": 181
+  },
+  {
+   "level": 4,
+   "title": "Phase II: Ereignishorizont (Konfrontation / Act II)",
+   "line": 188
+  },
+  {
+   "level": 4,
+   "title": "Phase III: Singularität (Integration / Act III)",
+   "line": 195
+  },
+  {
+   "level": 3,
+   "title": "4.2 Mapping der 39 Stories auf das 40-Chapter-Modell",
+   "line": 202
+  },
+  {
+   "level": 3,
+   "title": "4.3 Das Re-Engineering des Zweiten Aktes: \"Irreversible Kosten\"",
+   "line": 223
+  },
+  {
+   "level": 2,
+   "title": "-----5. Der Technische Stack: Implementierung des 'Maximal-Plotter'-Systems",
+   "line": 237
+  },
+  {
+   "level": 3,
+   "title": "5.1 Die Zentrale Datenbank (Notion/Obsidian)",
+   "line": 241
+  },
+  {
+   "level": 3,
+   "title": "5.2 Der Schreib-Workflow (Scrivener)",
+   "line": 290
+  },
+  {
+   "level": 3,
+   "title": "5.3 Kohärenz-Sicherung durch algorithmische Simulation (Manuelles LeanRAG)",
+   "line": 298
+  },
+  {
+   "level": 2,
+   "title": "-----6. Meta-Prompting Strategie: Die KI als Resonanz-Partner",
+   "line": 312
+  },
+  {
+   "level": 3,
+   "title": "6.1 Anwendung der Prompt-Fragmente",
+   "line": 316
+  },
+  {
+   "level": 3,
+   "title": "6.2 Die \"Chain-of-Density\" für Beschreibungen",
+   "line": 345
+  },
+  {
+   "level": 2,
+   "title": "-----7. Adressierung der Kritischen Plot-Interrogatorien",
+   "line": 351
+  },
+  {
+   "level": 2,
+   "title": "-----8. Implementierungs-Roadmap: Vom Konzept zum Manuskript",
+   "line": 364
+  },
+  {
+   "level": 3,
+   "title": "Schritt 1: Datenbank-Setup & Ontologisches Mapping (Woche 1)",
+   "line": 368
+  },
+  {
+   "level": 3,
+   "title": "Schritt 2: The \"Paraconsistent Gambit\" & Lückenfüllung (Woche 2-3)",
+   "line": 375
+  },
+  {
+   "level": 3,
+   "title": "Schritt 3: Agenten-Simulation & Outline-Verfeinerung (Woche 4-6)",
+   "line": 382
+  },
+  {
+   "level": 3,
+   "title": "Schritt 4: Polyphones Schreiben (Produktion)",
+   "line": 388
+  },
+  {
+   "level": 3,
+   "title": "Schritt 5: Synthese & Found Footage (Finalisierung)",
+   "line": 394
+  },
+  {
+   "level": 2,
+   "title": "-----9. Fazit: Komplexität als Strukturprinzip",
+   "line": 400
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 406
+  }
+ ]
+}

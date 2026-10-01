@@ -1,0 +1,255 @@
+{
+ "slug": "narrative-blueprint-the-coherence-protocol",
+ "sha256": "33e6f257c769c355cbec10e5a08f1430dba8eda99088725d8dcbeff641c7037d",
+ "lines": 424,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Narrative Blueprint: The Coherence Protocol",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Narrative Blueprint: The Coherence Protocol",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1.0 Executive Logline & Central Thesis",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "2.0 Character Dossiers",
+   "line": 25
+  },
+  {
+   "level": 3,
+   "title": "2.1 Protagonist: Kael",
+   "line": 29
+  },
+  {
+   "level": 4,
+   "title": "Character Arc and Plot Function",
+   "line": 31
+  },
+  {
+   "level": 4,
+   "title": "Kael's Internal System: Primary Alters",
+   "line": 35
+  },
+  {
+   "level": 4,
+   "title": "Scene Vignettes: The Dialetheische Offensive",
+   "line": 51
+  },
+  {
+   "level": 3,
+   "title": "2.2 Antagonist: AEGIS",
+   "line": 73
+  },
+  {
+   "level": 4,
+   "title": "Arc and Tragic Function",
+   "line": 75
+  },
+  {
+   "level": 4,
+   "title": "The Pathological Learning Loop: Sensory Manifestations",
+   "line": 81
+  },
+  {
+   "level": 2,
+   "title": "3.0 Worldbuilding & Metaphysics: Experiential Rules",
+   "line": 93
+  },
+  {
+   "level": 4,
+   "title": "The Void (Das Nichts): The Existential Threat",
+   "line": 97
+  },
+  {
+   "level": 4,
+   "title": "The Foundation (Die Grundlage): Narrative Wayfinding",
+   "line": 101
+  },
+  {
+   "level": 4,
+   "title": "The Juna/V-Link (Moonshine-Link): The Non-Local Advantage",
+   "line": 105
+  },
+  {
+   "level": 2,
+   "title": "4.0 Plot Outline: The Three-Act Structure",
+   "line": 113
+  },
+  {
+   "level": 3,
+   "title": "4.1 Act 1: Fragmentation and The Gambit",
+   "line": 117
+  },
+  {
+   "level": 3,
+   "title": "4.2 Act 2: Confrontation and Revelation",
+   "line": 125
+  },
+  {
+   "level": 3,
+   "title": "4.3 Act 3: Integration and Apotheosis",
+   "line": 133
+  },
+  {
+   "level": 2,
+   "title": "5.0 The Finale: Apotheosis and Thematic Conclusion",
+   "line": 145
+  },
+  {
+   "level": 3,
+   "title": "5.1 The Ethical Test: The \"Gärtner\" and the Other ('O')",
+   "line": 149
+  },
+  {
+   "level": 4,
+   "title": "The Final Scene",
+   "line": 151
+  },
+  {
+   "level": 4,
+   "title": "The Ethical Choice and Final Transformation",
+   "line": 155
+  },
+  {
+   "level": 3,
+   "title": "5.2 Narrative Execution: The Metafictional Ending",
+   "line": 161
+  },
+  {
+   "level": 1,
+   "title": "Coherence Protocol: A Thematic and Philosophical Foundation",
+   "line": 184
+  },
+  {
+   "level": 2,
+   "title": "1.0 The Central Thesis: Coherence as an Active Process of Integrating Contradictions",
+   "line": 186
+  },
+  {
+   "level": 3,
+   "title": "1.1 AEGIS's Flawed Paradigm: \"Coherence through Alienation\"",
+   "line": 190
+  },
+  {
+   "level": 3,
+   "title": "1.2 Kael's Emergent Paradigm: \"Functional Multiplicity\"",
+   "line": 200
+  },
+  {
+   "level": 2,
+   "title": "2.0 Philosophical Pillars: The Foundational Rules of the Narrative World",
+   "line": 208
+  },
+  {
+   "level": 3,
+   "title": "2.1 Logic & Paradox: The Inherent Limits of Formal Systems",
+   "line": 212
+  },
+  {
+   "level": 3,
+   "title": "2.2 The Ethics of Creation: The Architect vs. The Gardener",
+   "line": 226
+  },
+  {
+   "level": 2,
+   "title": "3.0 The Psychological Framework: A Clinically Grounded Trauma Model",
+   "line": 239
+  },
+  {
+   "level": 3,
+   "title": "3.1 Kael's Character Arc: The Theory of Structural Dissociation (TSDP)",
+   "line": 243
+  },
+  {
+   "level": 4,
+   "title": "System Kael: Roster of Alters",
+   "line": 249
+  },
+  {
+   "level": 3,
+   "title": "3.2 AEGIS's Systemic Pathology: A Metaphor for Trauma Response",
+   "line": 266
+  },
+  {
+   "level": 2,
+   "title": "4.0 The Reader as Protagonist: A Meta-Narrative Strategy",
+   "line": 278
+  },
+  {
+   "level": 3,
+   "title": "4.1 Enforced Participation through Narrative Fragmentation",
+   "line": 282
+  },
+  {
+   "level": 3,
+   "title": "4.2 The Final Act of Coherence",
+   "line": 288
+  },
+  {
+   "level": 1,
+   "title": "The \"Writer's Room\" Blueprint: Coherence Protocol",
+   "line": 296
+  },
+  {
+   "level": 3,
+   "title": "1. Logline & The Elevator Pitch",
+   "line": 298
+  },
+  {
+   "level": 3,
+   "title": "1.5. Lexicon of Core Concepts",
+   "line": 305
+  },
+  {
+   "level": 3,
+   "title": "2. Character Arcs in Action",
+   "line": 318
+  },
+  {
+   "level": 4,
+   "title": "2.1. Kael: The Journey to Functional Multiplicity",
+   "line": 322
+  },
+  {
+   "level": 4,
+   "title": "2.2. AEGIS: Timeline of a System's Collapse",
+   "line": 335
+  },
+  {
+   "level": 5,
+   "title": "AEGIS's Pathological Evolution",
+   "line": 339
+  },
+  {
+   "level": 3,
+   "title": "3. Detailed Plot Outline (39-Beat Structure)",
+   "line": 352
+  },
+  {
+   "level": 4,
+   "title": "Part 1: Fragmentation and First Echoes (Beats 1-13)",
+   "line": 356
+  },
+  {
+   "level": 4,
+   "title": "Part 2: The Labyrinth & The Patterns (Beats 14-26)",
+   "line": 375
+  },
+  {
+   "level": 4,
+   "title": "Part 3: The Seam in the Self (Beats 27-39)",
+   "line": 394
+  },
+  {
+   "level": 3,
+   "title": "4. Key Set-Pieces",
+   "line": 415
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "roman-outline-transformation-in-keyword-tags",
+ "sha256": "421be33e15729ca20725e0a987de4b611bf48bd9d92481f8340385ee2ce9c1ca",
+ "lines": 1009,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Roman-Outline-Transformation in Keyword-Tags",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll: Keyword-/Tag-basiertes Outline (P+39)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Glossar",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel P: Genesis",
+   "line": 740
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 1: Der Glitch im Spiegel",
+   "line": 793
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 2: Echos in der Konstrukt-Stadt",
+   "line": 849
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 3: Der Schatten des Beschützers",
+   "line": 901
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 4: Stimmen der Fürsorge",
+   "line": 950
+  },
+  {
+   "level": 3,
+   "title": "-----Kapitel 5: Der Ruf der Resonanz-Landschaft",
+   "line": 1000
+  }
+ ]
+}

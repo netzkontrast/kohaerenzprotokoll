@@ -1,0 +1,20 @@
+{
+ "slug": "blueprint-for-narrative-coherence",
+ "sha256": "a6454886f5d2f2aedaa25dfa61e4d6e2be2998b270b387ce4375e785ff5654a3",
+ "lines": 77,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Blueprint for Narrative Coherence",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Chapter 1: The Whisper of Construct City",
+   "line": 13
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 67
+  }
+ ]
+}

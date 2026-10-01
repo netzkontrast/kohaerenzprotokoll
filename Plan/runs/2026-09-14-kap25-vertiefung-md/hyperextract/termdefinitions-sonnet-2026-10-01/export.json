@@ -1,0 +1,65 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "term": "Nicht-Handlung",
+        "quote": "Damit ist die Nicht-Handlung als **Entscheidung** lesbar statt als Freeze (Arc-Auflage)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Eigennutz",
+        "quote": "aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte",
+        "stance": "asserts"
+      },
+      {
+        "term": "Optionlock",
+        "quote": "Der Optionlock wird zählbar (abgeben/splitten sind seit zwei bzw. vier Wochen graue Felder ohne Ton).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Hook-in",
+        "quote": "Hook-in aus Kap 24 explizit (die einrastende Verkleidung)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wegkreuzung",
+        "quote": "Motivherkunft „Wegkreuzung\" = \\*\\*interner Wahlpunkt\\*\\*",
+        "stance": "cites"
+      },
+      {
+        "term": "Wegkreuzung/Tore",
+        "quote": "\\*von extern auferlegter Schwelle → interner Ort der Entscheidungsfindung\\*",
+        "stance": "cites"
+      },
+      {
+        "term": "Schritt ins Ungewisse",
+        "quote": "„Schritt ins Ungewisse\" (= bewusste Wahl, Kap 26)",
+        "stance": "cites"
+      },
+      {
+        "term": "Kanonischer sensorischer Anker von Vortex 1 Beat 3",
+        "quote": "Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist „das Fehlen des Klicks",
+        "stance": "asserts"
+      },
+      {
+        "term": "lokale Vorform",
+        "quote": "Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material?",
+        "stance": "asks"
+      },
+      {
+        "term": "Einheit Station 7",
+        "quote": "Sie ist jetzt eine Figur mit eigenem Ziel",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW-Progression",
+        "quote": "Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel), oder sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden?",
+        "stance": "asks"
+      }
+    ]
+  }
+}

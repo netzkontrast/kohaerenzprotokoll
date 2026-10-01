@@ -1,9 +1,13 @@
 [project]
 name = "novelgraph"
 version = "0.1.0"
-description = "Source-attributed, incremental CPU retrieval index"
+description = "File-based chunk and vector index over Sources/, with line-level provenance"
 requires-python = ">=3.11"
-dependencies = ["model2vec>=0.7,<1", "numpy>=2,<3", "httpx[socks]>=0.28,<1", "threadpoolctl>=3,<4", "simplemma>=2,<3"]
+dependencies = [
+    "model2vec==0.6.0",
+    "numpy>=1.26",
+    "simplemma==1.1.2",
+]
 
 [project.scripts]
 novelgraph = "novelgraph.cli:main"

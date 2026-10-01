@@ -20,4 +20,8 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1291, 44.6 s. **1 rows**: 0 candidates, 1 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | refused: quote not placed | Wärmespur | die vier Abende | diegetic_form_of | asserts | Wärmespur nur als Rückverweis („die vier Abende“) |  |

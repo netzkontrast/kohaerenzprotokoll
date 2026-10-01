@@ -26,6 +26,8 @@ ROOT = Path(__file__).resolve().parents[1]
 VENV = ROOT / ".venv-dspy" / "bin" / "python"
 # kind -> (interpreter, or None for this one; what must exist; how to reach it)
 KINDS = {
+    "novelgraph": (ROOT / ".venv-novelgraph/bin/python", ROOT / ".venv-novelgraph/bin/python",
+                  ".venv-novelgraph absent — UV_PROJECT_ENVIRONMENT=$PWD/.venv-novelgraph uv sync --project novelgraph"),
     "graphqlite": (ROOT / ".venv-graphqlite/bin/python", ROOT / ".venv-graphqlite/bin/python",
                    ".venv-graphqlite absent — scripts/install.sh graphqlite"),
     "dspy": (VENV, VENV, ".venv-dspy absent — scripts/install.sh dspy"),
@@ -37,6 +39,7 @@ KINDS = {
 
 # (name, interpreter, arguments). "dspy" means .venv-dspy.
 SUITES = [
+    ("novelgraph: chunking, freshness, publication, FTS", "novelgraph", ["-m", "novelgraph.cli", "selftest"]),
     ("claude usage: failed calls included", "std", ["scripts/claude_cli.py", "totals-selftest"]),
     ("knowledge init: plans and failures", "std", ["scripts/knowledge.py", "selftest"]),
     ("reading extraction: provenance and placement", "std", ["scripts/reading_extract.py", "selftest"]),
@@ -91,6 +94,9 @@ SUITES = [
     ("route: price, consent, record", "typesafe", ["scripts/route.py", "selftest"]),
     ("templates: checks fail", "std", ["scripts/templates.py", "selftest"]),
     ("templates, live", "std", ["scripts/templates.py", "check"]),
+    ("contracts: each outcome told apart", "std", ["scripts/contracts.py", "selftest"]),
+    ("contracts per source, live", "std", ["scripts/contracts.py", "--check"]),
+    ("model rotation: explore, exploit by labels", "std", ["scripts/modelpick.py", "selftest"]),
     ("HyperExtract port against upstream", "he", ["scripts/hx.py", "parity"]),
     ("dspy surface", "dspy", ["scripts/check_dspy_surface.py"]),
     ("dspy skill, selftest", "dspy", ["scripts/check_dspy_skill.py", "--selftest"]),

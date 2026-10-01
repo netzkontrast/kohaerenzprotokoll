@@ -1,0 +1,230 @@
+{
+ "slug": "2-kohaerenz-protokoll-konzeptentwicklung",
+ "sha256": "a914d4b0fa1486314424fa3c84e5704ce169e460e1e8e7bf5e93339a7cef4615",
+ "lines": 354,
+ "body_offset": 1,
+ "lang": "de",
+ "title": "2 „Kohärenz Protokoll\" Konzeptentwicklung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Gesamtkonzept: Kohärenz Protokoll",
+   "line": 1
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Einleitendes Gesamtkonzept",
+   "line": 5
+  },
+  {
+   "level": 2,
+   "title": "-----Teil 2: Kapitel-Konzeptionen",
+   "line": 42
+  },
+  {
+   "level": 3,
+   "title": "Chapter P: [Genesis]",
+   "line": 44
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 1:",
+   "line": 51
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 2:",
+   "line": 58
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 3:",
+   "line": 65
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 4:",
+   "line": 72
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 5:",
+   "line": 79
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 6: [Fragmente der Vergangenheit]",
+   "line": 86
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 7:",
+   "line": 93
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 8: [Die Logik des Gaslichts]",
+   "line": 100
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 9: [Die Mauern der Grenzfeste]",
+   "line": 107
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 10:",
+   "line": 114
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 11:",
+   "line": 121
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 12:",
+   "line": 128
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 13:",
+   "line": 135
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 14: [Die Grammatik der Kontrolle: Eintritt in die Meta-Ebene (Überwelt)]",
+   "line": 142
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 15:",
+   "line": 149
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 16:",
+   "line": 156
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 17: [Der Garten der Möglichkeiten: Erkundung von KW4]",
+   "line": 163
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 18:",
+   "line": 170
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 19: [Das Flüstern von Außen: Erster Kontakt mit Juna/V]",
+   "line": 177
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 20:",
+   "line": 184
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 21: [Der Preis der Wahrheit: Interne Konflikte bei der Integration neuen Wissens]",
+   "line": 191
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 22:",
+   "line": 198
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 23:",
+   "line": 205
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 24:",
+   "line": 212
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 25:",
+   "line": 219
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 26:",
+   "line": 226
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 27:",
+   "line": 233
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 28:",
+   "line": 240
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 29:",
+   "line": 247
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 30:",
+   "line": 254
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 31: [Die Fesseln sprengen: Durchbrechen der letzten Verteidigung (Cerberus)]",
+   "line": 261
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 32:",
+   "line": 268
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 33:",
+   "line": 275
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 34:",
+   "line": 282
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 35:",
+   "line": 289
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 36:",
+   "line": 296
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 37:",
+   "line": 303
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 38: [Der Moment der Veränderung: Konkretisierung des neuen Zustands]",
+   "line": 310
+  },
+  {
+   "level": 3,
+   "title": "-----Chapter 39:",
+   "line": 317
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 324
+  }
+ ]
+}

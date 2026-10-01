@@ -1,0 +1,227 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "input_rows": 9,
+  "candidates": 7,
+  "refused": 2,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:ebb1c8757c98d3c7dab045e45da45fae026a4d49b524ce60cd403ba87c76c4e6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Entscheidung",
+        "target": "Freeze",
+        "type": "contrasts_with",
+        "quote": "Damit ist die Nicht-Handlung als **Entscheidung** lesbar statt als Freeze",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermContrasts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:52918c07bd7019094efcc7f20f40609626083861b1e57b4f68ee2df1ef9fc399",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Eigennutz",
+        "target": "Güte",
+        "type": "contrasts_with",
+        "quote": "aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermContrasts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:17a1d46366addcbea861eccd02a21ba8b0a7e9a97fdb189a62edb048b7a1c829",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Stehen an der Schwelle",
+        "target": "der Tritt darüber",
+        "type": "contrasts_with",
+        "quote": "„Stehen an der Schwelle“ gegen „der Tritt darüber“ (Kap 26) trennscharf",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermContrasts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:efca2add7361e91097fe94557bd77a987d28d2612872ae8a40a2055a4366d6f5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "daneben",
+        "target": "darauf",
+        "type": "contrasts_with",
+        "quote": "Finger daneben, nicht darauf",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermContrasts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1658459f49fe9f1d991b0c19147b9243bccbd40aff2624a8184e78ddaec0fcc8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "34",
+        "target": "31",
+        "type": "contrasts_with",
+        "quote": "die Restzahl steht nach Schichtende bei 34 statt 31",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermContrasts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "34",
+        "31"
+      ]
+    },
+    {
+      "id": "claim:acc95c35c9a1b3d50da97e2cbeefcc85d575f80bd122679838f97f20615dbc03",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schwelle",
+        "target": "Konfrontation",
+        "type": "contrasts_with",
+        "quote": "Kap 25: Schwelle, nicht Konfrontation",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermContrasts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cce6dc5198b43fd1d148069aa23b593cfbb899902be76ad7720d82632f265781",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Aktionssystem",
+        "target": "ANP-Alltagssystem",
+        "type": "opposes",
+        "quote": "Schutz-Anteil als Aktionssystem (Verteidigung) gegen ANP-Alltagssystem",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermContrasts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        40
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4341e6b5d9658ee71902ff62e882f2e9032ccec0543718443950d17038aaf997",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "gewollte Eskalationsstufe",
+        "target": "vorweggenommenes Material",
+        "type": "contrasts_with",
+        "quote": "Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material?",
+        "stance": "asks"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermContrasts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        57
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c744c501395e8b4926cb6bd69961ec9448c4c5c08675ac4f8a452b24fc936132",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Filterregime",
+        "target": "Ortswechsel",
+        "type": "contrasts_with",
+        "quote": "Filterregime statt Ortswechsel",
+        "stance": "asks"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "TermContrasts",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

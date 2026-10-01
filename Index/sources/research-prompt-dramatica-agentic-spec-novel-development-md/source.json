@@ -1,0 +1,170 @@
+{
+ "slug": "research-prompt-dramatica-agentic-spec-novel-development-md",
+ "sha256": "ed58fb0281f6899d38a0237485bd9440ed9581f448f7c377ca7296962eaed06e",
+ "lines": 1738,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "research-prompt_dramatica-agentic-spec-novel-development.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Research Prompt: Spec-Driven Specification Artifact für agentic Dramatica-basierte Novel-Entwicklung",
+   "line": 42
+  },
+  {
+   "level": 2,
+   "title": "Meta-Header — Was dieser Prompt ist und wie du ihn liest",
+   "line": 50
+  },
+  {
+   "level": 3,
+   "title": "1. Epistemologische Schicht (Forschungskategorie A — Exploration)",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "2. Agentischer Spine (ReAct — Pflicht in jedem Prompt v2.1+)",
+   "line": 246
+  },
+  {
+   "level": 3,
+   "title": "3. Strukturelle Schicht (DRACO — bespoke Synthesis)",
+   "line": 354
+  },
+  {
+   "level": 3,
+   "title": "Zusammenspiel der drei Schichten",
+   "line": 770
+  },
+  {
+   "level": 2,
+   "title": "Research Objective",
+   "line": 778
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCKS",
+   "line": 832
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 0 — Reflection Baseline (Always Active · v2.1)",
+   "line": 834
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 1 — Source Priority Rules",
+   "line": 895
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 2 — Temporal Scope",
+   "line": 907
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 3 — Output Exclusions",
+   "line": 918
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 4 — Spec-Quality-Invarianten (topic-specific)",
+   "line": 931
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 5 — Single-Artifact-Mandat (topic-specific)",
+   "line": 951
+  },
+  {
+   "level": 2,
+   "title": "CRITICAL-THINKING METHODS — Active Throughout Execution",
+   "line": 963
+  },
+  {
+   "level": 3,
+   "title": "Method: Falsification (Karl Popper's Disconfirmation Principle)",
+   "line": 967
+  },
+  {
+   "level": 3,
+   "title": "Method: Pre-Mortem Analysis",
+   "line": 994
+  },
+  {
+   "level": 3,
+   "title": "Method: Red Team / Devil's Advocate Review",
+   "line": 1021
+  },
+  {
+   "level": 3,
+   "title": "Method: First-Principles Decomposition",
+   "line": 1048
+  },
+  {
+   "level": 3,
+   "title": "Method: Adversarial Query Expansion (MANDATORY in every prompt)",
+   "line": 1075
+  },
+  {
+   "level": 2,
+   "title": "DRACO — Strukturelle Schicht (Hauptabschnitte)",
+   "line": 1135
+  },
+  {
+   "level": 3,
+   "title": "D — Decompose (Drei unabhängige Quellen-Domains)",
+   "line": 1137
+  },
+  {
+   "level": 4,
+   "title": "BATCH PROCEDURE — Per Quellen-Domain",
+   "line": 1145
+  },
+  {
+   "level": 3,
+   "title": "Step [i.b] — Surviving-Branch Triangulation (cross-pollination from Category B)",
+   "line": 1174
+  },
+  {
+   "level": 3,
+   "title": "Step [i.c] — Hypothesis Half-Life Audit (cross-pollination from Category C)",
+   "line": 1200
+  },
+  {
+   "level": 3,
+   "title": "R — Reconcile (Architektonische Integrations-Entscheidungen mit ADRs)",
+   "line": 1211
+  },
+  {
+   "level": 3,
+   "title": "A — Architect (Die Spec — das Hauptartefakt)",
+   "line": 1278
+  },
+  {
+   "level": 3,
+   "title": "C — Contradiction-handling (eingebettet in DRACO-A, hier expandiert)",
+   "line": 1522
+  },
+  {
+   "level": 3,
+   "title": "O — Operationalize (eingebettet in DRACO-A, hier expandiert)",
+   "line": 1542
+  },
+  {
+   "level": 2,
+   "title": "PRE-SYNTHESIS INTEGRITY CHECK",
+   "line": 1566
+  },
+  {
+   "level": 2,
+   "title": "SYNTHESIS — Final Output",
+   "line": 1589
+  },
+  {
+   "level": 2,
+   "title": "SELF-VERIFICATION CHECKLIST FOR THE EXECUTING AI (v2.1 · 11 items)",
+   "line": 1709
+  }
+ ]
+}

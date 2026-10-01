@@ -1,0 +1,34 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+  "input_rows": 1,
+  "candidates": 1,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:22743a2036b24fc4eaa27d891fc88b35f5476a33facf27814519b84c5eaddef8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Einheit von Station 7",
+        "target": "Eigennutz (Restwertschwelle → Besuch der technischen Ebene)",
+        "type": "want/narration",
+        "quote": "Die Einheit von Station 7 hängt die Priorität-1-Wasserführung und zwei weitere Vorgänge auf sich um — aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "CardFields",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

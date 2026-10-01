@@ -1,0 +1,110 @@
+{
+ "slug": "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
+ "sha256": "1aaf0d960e9cb1a322d6b407b02dcdae8b2825e89c7f45a90a91199d852f90b4",
+ "lines": 202,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "The Kohärenz Protokoll: An Isomorphic Architecture for Agent-Based Narrative Systems",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "The Kohärenz Protokoll: An Isomorphic Architecture for Agent-Based Narrative Systems",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "1. The Ontological Problem Space: Modeling a War of Truths",
+   "line": 15
+  },
+  {
+   "level": 4,
+   "title": "2. Architectural Principles of the NovelOS Framework",
+   "line": 28
+  },
+  {
+   "level": 5,
+   "title": "Epistemic Isolation",
+   "line": 32
+  },
+  {
+   "level": 5,
+   "title": "The Knowledge Hypergraph",
+   "line": 36
+  },
+  {
+   "level": 6,
+   "title": "1. Character Schema: System Kael",
+   "line": 40
+  },
+  {
+   "level": 6,
+   "title": "2. Location Schema: KW1: Logos-Prime",
+   "line": 84
+  },
+  {
+   "level": 6,
+   "title": "3. Event Schema: The Genesis Crisis",
+   "line": 116
+  },
+  {
+   "level": 4,
+   "title": "3. Implementation: From Monolithic Director to Autonomous Swarm",
+   "line": 146
+  },
+  {
+   "level": 5,
+   "title": "3.1 Stage 1: The Coherence Protocol and the Monolithic Director",
+   "line": 150
+  },
+  {
+   "level": 5,
+   "title": "3.2 Stage 2: NovelOS 2.0 and the Autonomous Swarm",
+   "line": 156
+  },
+  {
+   "level": 6,
+   "title": "Agent Instantiation",
+   "line": 160
+  },
+  {
+   "level": 6,
+   "title": "Inter-Agent Communication Protocol",
+   "line": 164
+  },
+  {
+   "level": 5,
+   "title": "3.3 The Librarian: Guardian of Ontological Consistency",
+   "line": 168
+  },
+  {
+   "level": 4,
+   "title": "4. Philosophical and Ethical Implications",
+   "line": 175
+  },
+  {
+   "level": 5,
+   "title": "The Transformation of the Author's Role",
+   "line": 179
+  },
+  {
+   "level": 5,
+   "title": "The Ethics of Simulating Trauma and Consciousness",
+   "line": 183
+  },
+  {
+   "level": 5,
+   "title": "Autopoiesis and Emergent Narrative",
+   "line": 187
+  },
+  {
+   "level": 4,
+   "title": "5. Applications Beyond Narrative Fiction",
+   "line": 191
+  },
+  {
+   "level": 4,
+   "title": "6. Conclusion: A New Protocol for Coherence",
+   "line": 199
+  }
+ ]
+}

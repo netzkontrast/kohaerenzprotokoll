@@ -1,0 +1,90 @@
+{
+ "slug": "narrative-context-protocol-ncp-spezifikation",
+ "sha256": "ddbe81b02c91e9766ccdd91554403d9ddec1cdc028891c536304ecb34ece214a",
+ "lines": 224,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Narrative Context Protocol (NCP) Spezifikation",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Das Kohärenz Protokoll: Ein White Paper zur agentiven narrativen Erfahrung",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Teil I: Das theoretische Fundament – Eine Tiefenanalyse der Narrativen Systemik",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "1.1 Das Dramatica-Modell als komputationales Gerüst für einen simulierten Geist",
+   "line": 17
+  },
+  {
+   "level": 4,
+   "title": "Die vier Erzählperspektiven als kognitive Vektoren",
+   "line": 21
+  },
+  {
+   "level": 4,
+   "title": "Die strukturelle Hierarchie als psychologisches Abstraktionsmodell",
+   "line": 34
+  },
+  {
+   "level": 3,
+   "title": "1.2 Dekonstruktion der vier Kern-Storyforms",
+   "line": 43
+  },
+  {
+   "level": 3,
+   "title": "1.3 Die Physik der narrativen Interferenz",
+   "line": 65
+  },
+  {
+   "level": 2,
+   "title": "Teil II: Die agentive Architektur – Engineering des System-Dirigenten",
+   "line": 77
+  },
+  {
+   "level": 3,
+   "title": "2.1 Der LLM als zustandsbehafteter narrativer Agent",
+   "line": 81
+  },
+  {
+   "level": 3,
+   "title": "2.2 Das Narrative Context Protocol (NCP) – Das Genom des Systems",
+   "line": 103
+  },
+  {
+   "level": 3,
+   "title": "2.3 Die Prompt-Kaskade im Detail – Eine technische Tiefenanalyse",
+   "line": 160
+  },
+  {
+   "level": 2,
+   "title": "Teil III: Synthese und Implementierung – Von der Theorie zur Erfahrung",
+   "line": 169
+  },
+  {
+   "level": 3,
+   "title": "3.1 Der „Dramaturgische Aufseher“ – Ein System für das Kohärenzmanagement",
+   "line": 173
+  },
+  {
+   "level": 3,
+   "title": "3.2 Die Nutzererfahrung – Interface und Interaktionsmodalitäten",
+   "line": 185
+  },
+  {
+   "level": 3,
+   "title": "3.3 Herausforderungen, Risiken und der Weg nach vorn",
+   "line": 193
+  },
+  {
+   "level": 4,
+   "title": "Quellenangaben",
+   "line": 221
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "slug": "research-prompt-dramatica-dual-storyform-synthese-aegis-thro",
+ "sha256": "17dd2ef5fb0ac527eca893e08cbecd14d024bd9baa6745c75de34bc63636b7ee",
+ "lines": 1857,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "research-prompt_dramatica-dual-storyform-synthese-aegis-throughline.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Research Prompt: Vollständige Synthese der dualen Dramatica-Storyformen für „Kohärenz Protokoll\" mit Verifikationstest der AEGIS-Throughline-Position in Storyform B",
+   "line": 38
+  },
+  {
+   "level": 2,
+   "title": "Meta-Header — Was dieser Prompt ist und wie er gelesen wird",
+   "line": 46
+  },
+  {
+   "level": 3,
+   "title": "1. Epistemologische Schicht — Forschungs-Kategorie A (Exploration)",
+   "line": 50
+  },
+  {
+   "level": 3,
+   "title": "2. Agentische Spine — ReAct (Reason + Act + Observe, immer aktiv)",
+   "line": 82
+  },
+  {
+   "level": 3,
+   "title": "3. Strukturelle Schicht — RISEN (Role · Input · Steps · Expectations · Narrowing)",
+   "line": 126
+  },
+  {
+   "level": 2,
+   "title": "Forschungs-Ziel",
+   "line": 150
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCKS",
+   "line": 192
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 0 — Reflection Baseline (Always Active · v2.1)",
+   "line": 194
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 1 — Quellen-Hierarchie",
+   "line": 261
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 2 — Canon-Inheritance",
+   "line": 277
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 3 — Output-Ausschlüsse",
+   "line": 299
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 4 — Dramatica-Legalität",
+   "line": 311
+  },
+  {
+   "level": 3,
+   "title": "CONSTRAINT BLOCK 5 — Bilingualer Begriffs-Kanon",
+   "line": 324
+  },
+  {
+   "level": 2,
+   "title": "CRITICAL-THINKING METHODS — Aktiv über die gesamte Ausführung",
+   "line": 339
+  },
+  {
+   "level": 3,
+   "title": "Method: Falsification (Karl Popper's Disconfirmation Principle)",
+   "line": 343
+  },
+  {
+   "level": 3,
+   "title": "Method: Steelmanning (Strongest-Version Reconstruction)",
+   "line": 370
+  },
+  {
+   "level": 3,
+   "title": "Method: Contradiction Log",
+   "line": 397
+  },
+  {
+   "level": 3,
+   "title": "Method: First-Principles Decomposition",
+   "line": 424
+  },
+  {
+   "level": 3,
+   "title": "Method: Source Triangulation",
+   "line": 451
+  },
+  {
+   "level": 3,
+   "title": "Method: Adversarial Query Expansion",
+   "line": 478
+  },
+  {
+   "level": 2,
+   "title": "R — Role",
+   "line": 542
+  },
+  {
+   "level": 2,
+   "title": "I — Input",
+   "line": 570
+  },
+  {
+   "level": 3,
+   "title": "Input 1 — Projekt-PDFs",
+   "line": 574
+  },
+  {
+   "level": 3,
+   "title": "Input 2 — userMemories (Memory-Edits)",
+   "line": 610
+  },
+  {
+   "level": 3,
+   "title": "Input 3 — NotebookLM-Workspace",
+   "line": 614
+  },
+  {
+   "level": 3,
+   "title": "Input 4 — Externe Dramatica-Theorie-Quellen",
+   "line": 618
+  },
+  {
+   "level": 3,
+   "title": "Input 5 — Auftraggeber-Hypothese",
+   "line": 629
+  },
+  {
+   "level": 2,
+   "title": "S — Steps",
+   "line": 637
+  },
+  {
+   "level": 3,
+   "title": "Standardisierte Restatement-Checkpoint-Vorlage",
+   "line": 645
+  },
+  {
+   "level": 3,
+   "title": "Step 1 — Inventarisierung des Projekt-Kanons (Storyforming-Lockdown)",
+   "line": 753
+  },
+  {
+   "level": 3,
+   "title": "Step 2 — First-Principles-Decomposition der Throughline-Begriffe",
+   "line": 827
+  },
+  {
+   "level": 3,
+   "title": "Step 3 — Per-Throughline-Encoding: BATCH PROCEDURE für 8 Throughlines",
+   "line": 894
+  },
+  {
+   "level": 4,
+   "title": "Iterations-Vorlage — auf jeden der acht Items anwenden",
+   "line": 917
+  },
+  {
+   "level": 3,
+   "title": "Step 4 — (Cross-Pollination from Category C) Hypothesis Half-Life Audit",
+   "line": 984
+  },
+  {
+   "level": 3,
+   "title": "Step 5 — AEGIS-Throughline-Verortung: Hypothesen-Baum-Analyse",
+   "line": 1030
+  },
+  {
+   "level": 3,
+   "title": "Step 6 — (Cross-Pollination from Category B) Surviving-Branch Triangulation",
+   "line": 1158
+  },
+  {
+   "level": 3,
+   "title": "Step 7 — Dynamics-Encoding (Driver / Limit / Outcome / Judgment + Vortex-Mechanik)",
+   "line": 1200
+  },
+  {
+   "level": 3,
+   "title": "Step 8 — Open-Questions-Resolution (drei offene Memory-Punkte)",
+   "line": 1286
+  },
+  {
+   "level": 3,
+   "title": "Step 9 — Pre-Synthesis Integrity Check (Mandatory)",
+   "line": 1324
+  },
+  {
+   "level": 2,
+   "title": "E — Expectations (Erfolgskriterien)",
+   "line": 1332
+  },
+  {
+   "level": 2,
+   "title": "N — Narrowing (Harte Scope-Grenzen)",
+   "line": 1380
+  },
+  {
+   "level": 2,
+   "title": "PRE-SYNTHESIS INTEGRITY CHECK",
+   "line": 1428
+  },
+  {
+   "level": 2,
+   "title": "SYNTHESIS — Finaler Output",
+   "line": 1472
+  },
+  {
+   "level": 2,
+   "title": "SELF-VERIFICATION CHECKLIST FOR THE EXECUTING AI (v2.1 · 11 Items)",
+   "line": 1828
+  }
+ ]
+}

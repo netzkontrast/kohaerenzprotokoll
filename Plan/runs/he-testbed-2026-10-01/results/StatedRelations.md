@@ -36,4 +36,34 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.2378, 106.6 s. **27 rows**: 19 candidates, 8 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | quote | lines |
+|---|---|---|---|---|---|---|---|
+| 1 | relation | candidate | Kap 25 | Manuskript | weakest_chapter_of | Kap 25 war mit **1.137 Wörtern** das schwächste Kapitel des Manuskripts (Kap 0 ausgenommen, eigene Rahmenpoetik; Kap 30 folgt mit 1.141). | 17 |
+| 2 | relation | candidate | Akt-II-Arc | Schwellensequenz | requires | Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz | 17 |
+| 3 | relation | candidate | Canon §0 Schleier-Disziplin | Kap 25–26 | requires_for | Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26; die alte Fassung löste das nicht ein. | 21 |
+| 4 | relation | candidate | Einheit von Station 7 | Priorität-1-Wasserführung | reroutes_to_itself | Die Einheit von Station 7 hängt die Priorität-1-Wasserführung und zwei weitere Vorgänge auf sich um — aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte. | 22 |
+| 5 | relation | refused: quote not placed | Apparat | Abweichung | registers | Zusätzlich registriert der Apparat die Abweichung, ohne zu handeln (**EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME.**) — Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit“; das fehlte. |  |
+| 6 | relation | refused: quote not placed | Canon §5 | AEGIS bemerkt Kaels neue Klarheit | requires | Zusätzlich registriert der Apparat die Abweichung, ohne zu handeln (**EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME.**) — Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit“; das fehlte. |  |
+| 7 | relation | candidate | Abzweigung | Platte 204 | located_at | Neue Szene am Ende des Gangs: Abzweigung bei Platte 204, Schild mit elf vorgesehenen Kennungen (seine fehlt), kühlere Luft aus dem Treppenschacht, fettig-metallischer Geruch, rauer Handlauf ohne Beschichtung, Scharren von unten, Licht, das an einer Kante aufhört. | 23 |
+| 8 | relation | candidate | Schild | Kennungen | has | Neue Szene am Ende des Gangs: Abzweigung bei Platte 204, Schild mit elf vorgesehenen Kennungen (seine fehlt), kühlere Luft aus dem Treppenschacht, fettig-metallischer Geruch, rauer Handlauf ohne Beschichtung, Scharren von unten, Licht, das an einer Kante aufhört. | 23 |
+| 9 | relation | candidate | Hook-out | Kap 26 | carries_into | neuer Hook-out: die Restzahl steht nach Schichtende bei 34 statt 31 und wird morgen früh nicht bei sechs stehen → trägt direkt in Kap 26 | 25 |
+| 10 | relation | refused: quote not placed | Kap 25 | Die Niederlegung | has_title | Kap 25 = „Die Niederlegung“ |  |
+| 11 | relation | candidate | Schleusen des Misstrauens | KW3 | part_of | KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum | 39 |
+| 12 | relation | candidate | Gänge der Paranoia | KW3 | part_of | KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum | 39 |
+| 13 | relation | candidate | Panoptikum | KW3 | part_of | KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum | 39 |
+| 14 | relation | candidate | Schutz-Anteil | ANP-Alltagssystem | opposes | Schutz-Anteil als Aktionssystem (Verteidigung) gegen ANP-Alltagssystem | 40 |
+| 15 | relation | refused: joined or shortened quote | Weltkonkrete der Prosa | [K]-Repo-Canon | derived_from | alles Weltkonkrete der Prosa stammt aus \[K\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln. | 43 |
+| 16 | relation | refused: joined or shortened quote | Weltkonkrete der Prosa | Nachbarkapiteln | derived_from | alles Weltkonkrete der Prosa stammt aus \[K\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln. | 43 |
+| 17 | relation | refused: joined or shortened quote | Weltkonkrete der Prosa | \[K\]-Repo-Canon | derived_from | Kein Material aus \[S\]-Quellen wurde als Kanon behandelt; alles Weltkonkrete der Prosa stammt aus \[K\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln. | 43 |
+| 18 | relation | refused: joined or shortened quote | Weltkonkrete der Prosa | gedrafteten Nachbarkapiteln | derived_from | Kein Material aus \[S\]-Quellen wurde als Kanon behandelt; alles Weltkonkrete der Prosa stammt aus \[K\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln. | 43 |
+| 19 | relation | refused: joined or shortened quote | \[S\]-Quellen | Kanon | not_treated_as | Kein Material aus \[S\]-Quellen wurde als Kanon behandelt; alles Weltkonkrete der Prosa stammt aus \[K\]-Repo-Canon oder aus den bereits gedrafteten Nachbarkapiteln. | 43 |
+| 20 | relation | candidate | Benennungslock | Kap 1–13 | applies_to | Der Benennungslock gilt für Kap 1–13. | 55 |
+| 21 | relation | candidate | Kap 25 | Nachbarkapitel | follows_practice_of | Kap 25 folgt der Praxis der Nachbarkapitel (nur VERSALIEN-Direktiven). | 55 |
+| 22 | relation | candidate | Kap 25 | Abwesenheit des Klicks | uses | Kap 25 verwendet die **Abwesenheit** des Klicks lokal (eine Station, ein Tag). | 57 |
+| 23 | relation | candidate | Drafting-Brief | Kopf | prohibits_changes_to | Der Drafting-Brief verbietet Änderungen am Kopf außer status. | 58 |
+| 24 | relation | candidate | Canon | KW2 | assigns_to | Der Canon weist 14–22 KW2 und 23–28 KW3 zu; die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734). | 60 |
+| 25 | relation | candidate | Canon | KW3 | assigns_to | Der Canon weist 14–22 KW2 und 23–28 KW3 zu; die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734). | 60 |
+| 26 | relation | candidate | Kapitel 14–26 | Verwaltungstopologie der Konstrukt-Stadt | set_in | Der Canon weist 14–22 KW2 und 23–28 KW3 zu; die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734). | 60 |
+| 27 | relation | candidate | Kap 25 | KW3 | realizes | Kap 25 löst KW3 jetzt **sensorisch** ein (Treppenkopf, Wartungsebene), ohne den Ort zu wechseln. | 60 |

@@ -1,0 +1,435 @@
+{
+ "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+ "sha256": "bfd29ecbe9b65f50856b02e267e86fc9e2dd9c4c76ffbbd046f265e2253c3afd",
+ "lines": 968,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "kohaerenz-protokoll_kernwelten-vollstaendig_2026-06-10.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Kernwelten vollständig",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Inhalt",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "§1 · Grundsatz: was die Kernwelten sind und nicht sind",
+   "line": 41
+  },
+  {
+   "level": 3,
+   "title": "§1.1 Was sie sind",
+   "line": 43
+  },
+  {
+   "level": 3,
+   "title": "§1.2 Was sie nicht sind",
+   "line": 59
+  },
+  {
+   "level": 3,
+   "title": "§1.3 Sechs Ebenen",
+   "line": 67
+  },
+  {
+   "level": 2,
+   "title": "§2 · KW1 — Konstrukt-Stadt / Logos-Prime",
+   "line": 83
+  },
+  {
+   "level": 3,
+   "title": "§2.1 Konzept",
+   "line": 85
+  },
+  {
+   "level": 3,
+   "title": "§2.2 Ästhetik",
+   "line": 97
+  },
+  {
+   "level": 3,
+   "title": "§2.3 Sensorik (Default-Set)",
+   "line": 108
+  },
+  {
+   "level": 3,
+   "title": "§2.4 Logik",
+   "line": 116
+  },
+  {
+   "level": 3,
+   "title": "§2.5 Stilebene",
+   "line": 120
+  },
+  {
+   "level": 3,
+   "title": "§2.6 Somatik-Default",
+   "line": 124
+  },
+  {
+   "level": 3,
+   "title": "§2.7 Risse in KW1",
+   "line": 128
+  },
+  {
+   "level": 3,
+   "title": "§2.8 Sub-Lokalitäten",
+   "line": 143
+  },
+  {
+   "level": 3,
+   "title": "§2.9 Bewohner / NPCs",
+   "line": 173
+  },
+  {
+   "level": 2,
+   "title": "§3 · KW2 — Mnemosyne-Archipel",
+   "line": 189
+  },
+  {
+   "level": 3,
+   "title": "§3.1 Konzept",
+   "line": 191
+  },
+  {
+   "level": 3,
+   "title": "§3.2 Ästhetik",
+   "line": 207
+  },
+  {
+   "level": 3,
+   "title": "§3.3 Sensorik",
+   "line": 214
+  },
+  {
+   "level": 3,
+   "title": "§3.4 Logik",
+   "line": 222
+  },
+  {
+   "level": 3,
+   "title": "§3.5 Stilebene",
+   "line": 226
+  },
+  {
+   "level": 3,
+   "title": "§3.6 Somatik-Default",
+   "line": 230
+  },
+  {
+   "level": 3,
+   "title": "§3.7 Risse in KW2",
+   "line": 234
+  },
+  {
+   "level": 3,
+   "title": "§3.8 Sub-Lokalitäten",
+   "line": 238
+  },
+  {
+   "level": 3,
+   "title": "§3.9 Bewohner",
+   "line": 281
+  },
+  {
+   "level": 2,
+   "title": "§4 · KW3 — Cerberus-Labyrinth",
+   "line": 297
+  },
+  {
+   "level": 3,
+   "title": "§4.1 Konzept",
+   "line": 299
+  },
+  {
+   "level": 3,
+   "title": "§4.2 Ästhetik",
+   "line": 311
+  },
+  {
+   "level": 3,
+   "title": "§4.3 Sensorik",
+   "line": 317
+  },
+  {
+   "level": 3,
+   "title": "§4.4 Logik",
+   "line": 325
+  },
+  {
+   "level": 3,
+   "title": "§4.5 Stilebene",
+   "line": 329
+  },
+  {
+   "level": 3,
+   "title": "§4.6 Somatik-Default",
+   "line": 333
+  },
+  {
+   "level": 3,
+   "title": "§4.7 Risse in KW3",
+   "line": 337
+  },
+  {
+   "level": 3,
+   "title": "§4.8 Sub-Lokalitäten",
+   "line": 349
+  },
+  {
+   "level": 3,
+   "title": "§4.9 Bewohner",
+   "line": 380
+  },
+  {
+   "level": 2,
+   "title": "§5 · KW4 — Kairos-Potentialis / Möglichkeits-Garten / Resonanz-Kontinuum",
+   "line": 396
+  },
+  {
+   "level": 3,
+   "title": "§5.1 Konzept",
+   "line": 398
+  },
+  {
+   "level": 3,
+   "title": "§5.2 Ästhetik",
+   "line": 414
+  },
+  {
+   "level": 3,
+   "title": "§5.3 Sensorik",
+   "line": 422
+  },
+  {
+   "level": 3,
+   "title": "§5.4 Logik",
+   "line": 430
+  },
+  {
+   "level": 3,
+   "title": "§5.5 Stilebene",
+   "line": 434
+  },
+  {
+   "level": 3,
+   "title": "§5.6 Somatik-Default",
+   "line": 438
+  },
+  {
+   "level": 3,
+   "title": "§5.7 Risse in KW4",
+   "line": 442
+  },
+  {
+   "level": 3,
+   "title": "§5.8 Sub-Lokalitäten",
+   "line": 452
+  },
+  {
+   "level": 3,
+   "title": "§5.9 Bewohner",
+   "line": 482
+  },
+  {
+   "level": 2,
+   "title": "§6 · Die Überwelt — AEGIS' Maschinenraum",
+   "line": 498
+  },
+  {
+   "level": 3,
+   "title": "§6.1 Konzept",
+   "line": 500
+  },
+  {
+   "level": 3,
+   "title": "§6.2 Ästhetik",
+   "line": 508
+  },
+  {
+   "level": 3,
+   "title": "§6.3 Sensorik",
+   "line": 515
+  },
+  {
+   "level": 3,
+   "title": "§6.4 Logik",
+   "line": 522
+  },
+  {
+   "level": 3,
+   "title": "§6.5 Stilebene",
+   "line": 526
+  },
+  {
+   "level": 3,
+   "title": "§6.6 Sub-Lokalitäten",
+   "line": 566
+  },
+  {
+   "level": 3,
+   "title": "§6.7 Bewohner",
+   "line": 596
+  },
+  {
+   "level": 3,
+   "title": "§6.8 Wichtig: Was die Überwelt nicht ist",
+   "line": 608
+  },
+  {
+   "level": 2,
+   "title": "§7 · Die Externe Ebene — Köln 2026",
+   "line": 618
+  },
+  {
+   "level": 3,
+   "title": "§7.1 Konzept",
+   "line": 620
+  },
+  {
+   "level": 3,
+   "title": "§7.2 Ästhetik",
+   "line": 632
+  },
+  {
+   "level": 3,
+   "title": "§7.3 Sensorik",
+   "line": 640
+  },
+  {
+   "level": 3,
+   "title": "§7.4 Logik",
+   "line": 647
+  },
+  {
+   "level": 3,
+   "title": "§7.5 Stilebene",
+   "line": 651
+  },
+  {
+   "level": 3,
+   "title": "§7.6 Sub-Lokalitäten",
+   "line": 655
+  },
+  {
+   "level": 3,
+   "title": "§7.7 Bewohner",
+   "line": 682
+  },
+  {
+   "level": 3,
+   "title": "§7.8 Wichtig: Was die Externe Ebene nicht ist",
+   "line": 690
+  },
+  {
+   "level": 2,
+   "title": "§8 · Übergänge zwischen den Ebenen (Transitions-Mechanik)",
+   "line": 700
+  },
+  {
+   "level": 3,
+   "title": "§8.1 Drei Übergangs-Modi",
+   "line": 704
+  },
+  {
+   "level": 3,
+   "title": "§8.2 Akt-spezifische Übergangs-Choreografie",
+   "line": 716
+  },
+  {
+   "level": 3,
+   "title": "§8.3 Disziplin beim Drafting von Übergängen",
+   "line": 731
+  },
+  {
+   "level": 2,
+   "title": "§9 · Risse-Phänomenologie pro Welt (vollständig)",
+   "line": 742
+  },
+  {
+   "level": 3,
+   "title": "§9.1 Was Risse sind",
+   "line": 744
+  },
+  {
+   "level": 3,
+   "title": "§9.2 Welt-Risse pro KW",
+   "line": 758
+  },
+  {
+   "level": 3,
+   "title": "§9.3 Risse als Foreshadowing-Träger",
+   "line": 771
+  },
+  {
+   "level": 2,
+   "title": "§10 · Akt-Choreografie der Welt-Wechsel",
+   "line": 786
+  },
+  {
+   "level": 3,
+   "title": "§10.1 Wer wohnt wo, wann?",
+   "line": 788
+  },
+  {
+   "level": 3,
+   "title": "§10.2 Drei Welt-Wechsel-Mandate",
+   "line": 807
+  },
+  {
+   "level": 2,
+   "title": "§11 · Kapitel-Welt-Mapping (Kap 0 bis 40)",
+   "line": 817
+  },
+  {
+   "level": 2,
+   "title": "§12 · Computational-Class-Progression als Leser-Steigerung",
+   "line": 872
+  },
+  {
+   "level": 2,
+   "title": "§13 · Anti-Patterns für Welt-Darstellung",
+   "line": 894
+  },
+  {
+   "level": 3,
+   "title": "§13.1 Genre-Anti-Patterns",
+   "line": 898
+  },
+  {
+   "level": 3,
+   "title": "§13.2 Mechanische Anti-Patterns",
+   "line": 905
+  },
+  {
+   "level": 3,
+   "title": "§13.3 Charakter-Anti-Patterns",
+   "line": 912
+  },
+  {
+   "level": 3,
+   "title": "§13.4 Tonale Anti-Patterns",
+   "line": 918
+  },
+  {
+   "level": 3,
+   "title": "§13.5 Strukturelle Anti-Patterns",
+   "line": 924
+  },
+  {
+   "level": 2,
+   "title": "§14 · Offene Punkte",
+   "line": 933
+  },
+  {
+   "level": 2,
+   "title": "§15 · Drei Gedanken zum Schluss",
+   "line": 953
+  }
+ ]
+}

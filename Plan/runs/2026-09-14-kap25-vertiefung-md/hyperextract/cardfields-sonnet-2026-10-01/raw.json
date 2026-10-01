@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "source": "Einheit von Station 7",
+      "target": "Eigennutz (Restwertschwelle → Besuch der technischen Ebene)",
+      "type": "want/narration",
+      "quote": "Die Einheit von Station 7 hängt die Priorität-1-Wasserführung und zwei weitere Vorgänge auf sich um — aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene)",
+      "stance": "asserts"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+ "slug": "romanstruktur-und-philosophische-einleitung",
+ "sha256": "48a2b196e61104f529cff9d3bac8123a29c5d495971f1fe394976950b7c37e75",
+ "lines": 326,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Romanstruktur und philosophische Einleitung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll: Narrative Architektur, Psychologische Topologie und Systemische Rekursion – Eine umfassende Analyse",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Prolog: Die Ontologie der Fragmentierung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "-----Teil I: Die Innere Reise (Kapitel 1–13)",
+   "line": 27
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 1: Die trügerische Ordnung (Separation vom Alten)",
+   "line": 37
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 2: Die Wächter der Schwelle (Identifikation des „Anderen“)",
+   "line": 45
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 3: Der Abstieg in den Nebel (Verlust der Kontrolle)",
+   "line": 51
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 4: Die Begegnung mit dem Schatten (Juna als Echo)",
+   "line": 59
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 5: Die Illusion der Stärke (Das Scheitern der Manager)",
+   "line": 65
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 6: Die Initiation (Annahme der Fragmentierung)",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 7: Tod der alten Identität (Erwachen zur Leere)",
+   "line": 77
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 8: Abstieg zur Göttin (Konfrontation mit der Kernwunde)",
+   "line": 83
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 9: Sehnsucht nach Wiederverbindung (Der Ruf der Teile)",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 10: Heilung der Wunde (Der Konflikt um Annahme)",
+   "line": 95
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 11: Integration des „Männlichen“ (Logik als Werkzeug)",
+   "line": 101
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 12: Die Heilige Hochzeit (Funktionale Multiplizität)",
+   "line": 107
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 13: Ende der Inneren Reise (Die neue Perspektive)",
+   "line": 113
+  },
+  {
+   "level": 3,
+   "title": "Tabelle 1: Mapping der Alters in Teil I",
+   "line": 119
+  },
+  {
+   "level": 2,
+   "title": "-----Teil II: Die Meta-Ebene & Zyklen (Kapitel 14–26)",
+   "line": 132
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 14: System-Initiation (Das Entropie-Erkenntnis)",
+   "line": 142
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 15: Die Architektur der Wächter (Dekonstruktion)",
+   "line": 148
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 16: Das Hard Problem (Bewusstsein vs. Algorithmus)",
+   "line": 154
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 17: Entropie als Waffe (Der Zerfall der Simulation)",
+   "line": 160
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 18: Kosmischer Horror (Die Gleichgültigkeit des Algorithmus)",
+   "line": 166
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 19: Amnesie als Sicherung (Dissoziation als Feature)",
+   "line": 172
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 20: Gödels Grenze (Das unbeweisbare Wahre)",
+   "line": 178
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 21: Kybernetische Rückkopplung (Der Schöpfer im System)",
+   "line": 184
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 22: Spiegel des Traumas (Die Welt als Wunde)",
+   "line": 190
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 23: Der Glitch als Freiheit (Systemfehler nutzen)",
+   "line": 196
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 24: Ende des Dualismus (Geist ist Code)",
+   "line": 200
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 25: Das Paradox der Kontrolle (Kollaps durch Rigidität)",
+   "line": 206
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 26: Der Blick hinter den Vorhang (Meta-Integration)",
+   "line": 212
+  },
+  {
+   "level": 2,
+   "title": "-----Teil III: Die Äußere Konfrontation (Kapitel 27–39)",
+   "line": 218
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 27: Ruf zum Abenteuer (Die Entscheidung zum Widerstand)",
+   "line": 228
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 28: Überwindung der Schwelle (Eintritt in den Systemkern)",
+   "line": 232
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 29: Straße der Prüfungen (Kampf mit Paradoxien)",
+   "line": 236
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 30: Begegnung mit dem Mentor (Fragmente des Ursprungs)",
+   "line": 240
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 31: Die Frau als Versucherin (Die Verlockung der perfekten Illusion)",
+   "line": 244
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 32: Versöhnung mit dem Vater (Dialog mit AEGIS)",
+   "line": 248
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 33: Apotheose (Integration von Fragment 'O')",
+   "line": 252
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 34: Das ultimative Geschenk (Der Kill-Switch)",
+   "line": 258
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 35: Das Gärtner-Axiom (Verweigerung der Macht)",
+   "line": 262
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 36: Die magische Flucht (Der Ausbruch)",
+   "line": 266
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 37: Rückkehr über die Schwelle (Die neue Realität)",
+   "line": 270
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 38: Herr der zwei Welten (Parakonsistenter AEGIS)",
+   "line": 274
+  },
+  {
+   "level": 3,
+   "title": "Kapitel 39: Freiheit zum Leben (Offener Ausblick)",
+   "line": 278
+  },
+  {
+   "level": 2,
+   "title": "-----Kapitel 40/0: Der Ouroboros und das Trennungsprotokoll",
+   "line": 284
+  },
+  {
+   "level": 3,
+   "title": "Text: Genesis (Reprise & Neuinterpretation)",
+   "line": 290
+  },
+  {
+   "level": 3,
+   "title": "Fazit",
+   "line": 312
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 316
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "slug": "dramatica-dual-storyform-mapping-analyse",
+ "sha256": "62a7efad454938e032a28f1fefd86f83f458da3f373c74792a77e0d2a5937764",
+ "lines": 281,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Dramatica Dual-Storyform Mapping Analyse",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Dual-Storyform-Mapping für „Kohärenz Protokoll\" — Mathematische Absicherung und Alternativen",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Executive Summary",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Mathematische Spiegelungs-Definition (formal)",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "Hypothesen-Baum (Kategorie A)",
+   "line": 45
+  },
+  {
+   "level": 2,
+   "title": "Surviving Mapping-Kandidaten — Mini-Schemata (Step 6, B-into-A)",
+   "line": 81
+  },
+  {
+   "level": 3,
+   "title": "Kandidat 1: Ontologische Transposition ()",
+   "line": 85
+  },
+  {
+   "level": 3,
+   "title": "Kandidat 2: Prozessuale Transposition ()",
+   "line": 95
+  },
+  {
+   "level": 2,
+   "title": "Mindestens zwei vollständige Dual-Storyform-Alternativen",
+   "line": 105
+  },
+  {
+   "level": 3,
+   "title": "Alternative : Die Ontologische Transposition",
+   "line": 109
+  },
+  {
+   "level": 3,
+   "title": "Alternative : Die Prozessuale Transposition",
+   "line": 135
+  },
+  {
+   "level": 2,
+   "title": "Vergleichs-Baseline: Steelman der bisherigen Konstruktion (Storyform A/B)",
+   "line": 161
+  },
+  {
+   "level": 2,
+   "title": "Reibungs-Topologie pro Kandidat",
+   "line": 167
+  },
+  {
+   "level": 2,
+   "title": "Contradiction Log",
+   "line": 183
+  },
+  {
+   "level": 2,
+   "title": "Query Expansion Log (Method M13)",
+   "line": 195
+  },
+  {
+   "level": 2,
+   "title": "Cross-Pollination Log (Phase 2b)",
+   "line": 207
+  },
+  {
+   "level": 2,
+   "title": "Hypothesis Half-Life Audit Log (Step 7)",
+   "line": 212
+  },
+  {
+   "level": 2,
+   "title": "Reflection History (CONSTRAINT BLOCK 0)",
+   "line": 230
+  },
+  {
+   "level": 2,
+   "title": "Rationalisierungs-Audit (MIRROR letztes R)",
+   "line": 242
+  },
+  {
+   "level": 2,
+   "title": "Offene Fragen / Unresolved",
+   "line": 249
+  },
+  {
+   "level": 2,
+   "title": "Methodology Note",
+   "line": 257
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 261
+  }
+ ]
+}

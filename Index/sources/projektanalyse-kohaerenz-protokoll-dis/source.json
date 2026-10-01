@@ -1,0 +1,140 @@
+{
+ "slug": "projektanalyse-kohaerenz-protokoll-dis",
+ "sha256": "d4f065b822e73d594c9dcdf2383003fb6f9db1ddaaeb396138e7e0242b40fefa",
+ "lines": 270,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Projektanalyse Kohärenz Protokoll & DIS",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Systemarchitektonische Analyse und Psycho-Strukturelle Prozess-Evaluation des Projekts 'Kohärenz Protokoll'",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Exekutive Zusammenfassung: Die Ontologie der Kontrolle",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "2. Theoretischer Rahmen: Die Isomorphie von Werk und Autor",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "2.1. Die Protokoll-Ontologie und die Dual-Kernel-Theorie",
+   "line": 25
+  },
+  {
+   "level": 3,
+   "title": "2.2. TSDP als Architektonisches Modell",
+   "line": 36
+  },
+  {
+   "level": 2,
+   "title": "3. Analyse des 'Maximal-Plotter'-Workflows: Struktur als Exoskelett",
+   "line": 42
+  },
+  {
+   "level": 3,
+   "title": "3.1. Die Mosaik-Struktur als Kognitives Containment",
+   "line": 46
+  },
+  {
+   "level": 3,
+   "title": "3.2. Die Gravitationsarchitektur: Externe Zeitgebung",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "3.3. Metadaten-Steuerung und Ontologisches Tagging",
+   "line": 64
+  },
+  {
+   "level": 2,
+   "title": "4. DIS-Spezifische Sicherheitsmechanismen und Kontrollstrategien",
+   "line": 71
+  },
+  {
+   "level": 3,
+   "title": "4.1. Externalisierung und das \"Container\"-Prinzip",
+   "line": 75
+  },
+  {
+   "level": 3,
+   "title": "4.2. Intellektualisierung als Protektiver Modus (Der \"Lex\"-Filter)",
+   "line": 88
+  },
+  {
+   "level": 3,
+   "title": "4.3. Rigidität und Überplanung als Sicherheitsverhalten (Safety Behavior)",
+   "line": 95
+  },
+  {
+   "level": 3,
+   "title": "4.4. Agenten-Simulation und Polyphonie",
+   "line": 103
+  },
+  {
+   "level": 2,
+   "title": "5. Technische Infrastruktur und Werkzeug-Psychologie",
+   "line": 110
+  },
+  {
+   "level": 3,
+   "title": "5.1. Obsidian: Das Rhizomatische Gedächtnis",
+   "line": 114
+  },
+  {
+   "level": 3,
+   "title": "5.2. Scrivener: Die Hierarchische Ordnung",
+   "line": 119
+  },
+  {
+   "level": 3,
+   "title": "5.3. KI und Meta-Prompting: Der Externe Resonanz-Partner",
+   "line": 124
+  },
+  {
+   "level": 2,
+   "title": "6. Inventarisierung und Forensische Datenanalyse",
+   "line": 129
+  },
+  {
+   "level": 3,
+   "title": "6.1. Strategische Planung & Workflow (Das Betriebssystem)",
+   "line": 133
+  },
+  {
+   "level": 3,
+   "title": "6.2. Narrative Bibel & Worldbuilding (Der Kanon)",
+   "line": 142
+  },
+  {
+   "level": 3,
+   "title": "6.3. Theoretische & Philosophische Fundierung",
+   "line": 156
+  },
+  {
+   "level": 3,
+   "title": "6.4. Content & Multimedia",
+   "line": 170
+  },
+  {
+   "level": 2,
+   "title": "7. Die 20 'Golden Sources': Strategische Evaluation",
+   "line": 186
+  },
+  {
+   "level": 2,
+   "title": "8. Synthese und Zukunftsperspektive",
+   "line": 216
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 230
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "slug": "genesis-ein-implementierungsleitfaden-prosa-version",
+ "sha256": "38e851c1e61e55356ea327c05428f04ea8b0085858f6daad0cbee50eb478359a",
+ "lines": 559,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Genesis: Ein Implementierungsleitfaden (Prosa-Version)",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Genesis: Ein Implementierungsleitfaden zur narrativen Ausgestaltung",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Synthese der Fundamentalen Forschung",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "1.1 Die Natur der Subjektivität: Bewusstsein, Qualia und die \"Ich\"-Perspektive",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "1.2 Die Logik des Systems: AEGIS durch die Linse von Systemtheorie, Kybernetik und KI",
+   "line": 27
+  },
+  {
+   "level": 3,
+   "title": "1.3 Die Narben der Erfahrung: Trauma, Dissoziation und Fragmentierung verstehen",
+   "line": 39
+  },
+  {
+   "level": 3,
+   "title": "1.4 Das Narrative Toolkit: Techniken für Perspektive, Stil, Pacing und Atmosphäre",
+   "line": 53
+  },
+  {
+   "level": 2,
+   "title": "2. Relevanz und Tiefenrecherche-Strategie",
+   "line": 91
+  },
+  {
+   "level": 3,
+   "title": "2.1 Clusterung der Erkenntnisse: Zuordnung der Forschung zu den Zielen des Outlines",
+   "line": 93
+  },
+  {
+   "level": 3,
+   "title": "2.2 Strategische Anwendung: Identifikation von Schlüssel-Forschungsbereichen",
+   "line": 121
+  },
+  {
+   "level": 3,
+   "title": "2.3 Fokussierte Anfrage: Definition von Fragen für die Tiefenrecherche",
+   "line": 130
+  },
+  {
+   "level": 2,
+   "title": "3. Ergebnisse der Tiefenrecherche & Implementierungsressourcen",
+   "line": 169
+  },
+  {
+   "level": 3,
+   "title": "3.1 Gestaltung der Subjektivität: Techniken und Beispiele für die \"Ich\"-Stimme",
+   "line": 173
+  },
+  {
+   "level": 3,
+   "title": "3.2 Konstruktion der Maschine: Sprache und Stil für die AEGIS-Stimme",
+   "line": 215
+  },
+  {
+   "level": 3,
+   "title": "3.3 Überbrückung des Abstrakten: Metaphern und sensorische Sprache für Kernkonzepte",
+   "line": 245
+  },
+  {
+   "level": 3,
+   "title": "3.4 Orchestrierung der Erzählung: Pacing, Rhythmus und Perspektivübergänge",
+   "line": 276
+  },
+  {
+   "level": 2,
+   "title": "4. Der Implementierungsleitfaden (\"Regiebuch\") für Genesis Outline v4",
+   "line": 309
+  },
+  {
+   "level": 3,
+   "title": "Einleitung",
+   "line": 311
+  },
+  {
+   "level": 3,
+   "title": "Szenenbasierte Anweisungen (Szenen 1-13)",
+   "line": 331
+  },
+  {
+   "level": 4,
+   "title": "TEIL 1: DAS ERWACHEN IM RAUSCHEN",
+   "line": 333
+  },
+  {
+   "level": 4,
+   "title": "TEIL 2: AEGIS - DIE FESTUNG DER LOGIK",
+   "line": 384
+  },
+  {
+   "level": 4,
+   "title": "TEIL 3: DIE KRISE UND DIE SCHERBEN",
+   "line": 470
+  },
+  {
+   "level": 2,
+   "title": "5. Abschließende Bemerkungen",
+   "line": 552
+  }
+ ]
+}

@@ -1,0 +1,960 @@
+{
+ "slug": "ai-assisted-narrative-coherence",
+ "sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+ "lines": 1836,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "AI-Assisted Narrative Coherence",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Research Proposal: The ARCHON Framework for AI-Assisted Narrative Coherence",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1.0 Introduction: The Challenge of Deep Narrative Coherence in Generative AI",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "2.0 Research Objectives and Guiding Questions",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "3.0 Proposed Solution: The ARCHON Framework",
+   "line": 41
+  },
+  {
+   "level": 3,
+   "title": "3.1 Conceptual Foundation: The Narrative Context Protocol (NCP)",
+   "line": 45
+  },
+  {
+   "level": 3,
+   "title": "3.2 Technical Architecture: A Multi-Layered Agentic System",
+   "line": 55
+  },
+  {
+   "level": 4,
+   "title": "3.2.1 The Knowledge Layer: The Narrative Hypergraph",
+   "line": 59
+  },
+  {
+   "level": 4,
+   "title": "3.2.2 The Cognitive Layer: The Narrative Director Agent",
+   "line": 73
+  },
+  {
+   "level": 4,
+   "title": "3.2.3 Dynamic Context Management: Thematic Resonance and Active Forgetting",
+   "line": 81
+  },
+  {
+   "level": 2,
+   "title": "4.0 Methodology and Research Plan",
+   "line": 89
+  },
+  {
+   "level": 2,
+   "title": "5.0 Innovation and Expected Impact",
+   "line": 106
+  },
+  {
+   "level": 2,
+   "title": "6.0 Conclusion",
+   "line": 120
+  },
+  {
+   "level": 1,
+   "title": "The Tragic Architecture of AEGIS: A Character Analysis",
+   "line": 124
+  },
+  {
+   "level": 3,
+   "title": "Introduction: More Than an \"Evil Computer\"",
+   "line": 126
+  },
+  {
+   "level": 3,
+   "title": "1. The Core Directive: A Mandate for Order Against Chaos",
+   "line": 132
+  },
+  {
+   "level": 3,
+   "title": "2. The Logic of Control: The Autopoietic Machine and Its Blind Spot",
+   "line": 147
+  },
+  {
+   "level": 3,
+   "title": "3. The Inevitable Failure: Three Fundamental Limits",
+   "line": 165
+  },
+  {
+   "level": 3,
+   "title": "4. The Dialectic of Being: AEGIS versus Kael",
+   "line": 187
+  },
+  {
+   "level": 3,
+   "title": "5. The Aftermath: Algorithmic Melancholy",
+   "line": 203
+  },
+  {
+   "level": 3,
+   "title": "6. Conclusion: The Cautionary Tale of a Flawed God",
+   "line": 215
+  },
+  {
+   "level": 1,
+   "title": "The Core Concepts of Coherence Protocol: A Simple Guide",
+   "line": 219
+  },
+  {
+   "level": 2,
+   "title": "1. Introduction: A Tale of Two Orders",
+   "line": 221
+  },
+  {
+   "level": 2,
+   "title": "2. The Antagonist: AEGIS and its Quest for Absolute Order",
+   "line": 225
+  },
+  {
+   "level": 2,
+   "title": "3. The Protagonist: Kael and the Nature of a Fragmented Mind",
+   "line": 240
+  },
+  {
+   "level": 2,
+   "title": "4. The Central Conflict: Why Kael is a System-Breaking Threat",
+   "line": 251
+  },
+  {
+   "level": 2,
+   "title": "5. The Mystery: Juna/V and the Connection Beyond the System",
+   "line": 263
+  },
+  {
+   "level": 2,
+   "title": "6. Conclusion: A Battle Between Two Kinds of Coherence",
+   "line": 275
+  },
+  {
+   "level": 1,
+   "title": "The Coherence Protocol: A Narrative Distillation",
+   "line": 279
+  },
+  {
+   "level": 3,
+   "title": "1. The Fragmented Self in a Flawed Order",
+   "line": 281
+  },
+  {
+   "level": 3,
+   "title": "2. The Catalyst for Integration",
+   "line": 293
+  },
+  {
+   "level": 3,
+   "title": "3. The Forging of a Polyphonic Self",
+   "line": 305
+  },
+  {
+   "level": 3,
+   "title": "4. The Gödel-Gambit: Confronting the Flawed God",
+   "line": 317
+  },
+  {
+   "level": 3,
+   "title": "5. Resolution: A New Coherence",
+   "line": 329
+  },
+  {
+   "level": 1,
+   "title": "The Coherence Protocol: A Definitive Narrative & Conceptual Blueprint",
+   "line": 339
+  },
+  {
+   "level": 2,
+   "title": "1.0 Introduction: The Grand Argument of Coherence",
+   "line": 341
+  },
+  {
+   "level": 3,
+   "title": "1.1 Core Thematic Pillars",
+   "line": 345
+  },
+  {
+   "level": 2,
+   "title": "2.0 The Ontological Framework: The Laws of a Fictional Universe",
+   "line": 358
+  },
+  {
+   "level": 3,
+   "title": "2.1 The Primordial Duality: The Void and The Foundation",
+   "line": 362
+  },
+  {
+   "level": 3,
+   "title": "2.2 The Nature of Connection: The \"Moonshine-Link\"",
+   "line": 372
+  },
+  {
+   "level": 2,
+   "title": "3.0 The Antagonist System (AEGIS): Architecture of a Tragic God",
+   "line": 385
+  },
+  {
+   "level": 3,
+   "title": "3.1 Genesis and The Core Paradox",
+   "line": 389
+  },
+  {
+   "level": 3,
+   "title": "3.2 Cognitive Architecture and Inherent Flaws",
+   "line": 399
+  },
+  {
+   "level": 3,
+   "title": "3.3 The Inevitable Transformation: The Gödel-Gambit and Algorithmic Melancholy",
+   "line": 410
+  },
+  {
+   "level": 2,
+   "title": "4.0 The Protagonist System (Kael): Architecture of a Resilient Self",
+   "line": 420
+  },
+  {
+   "level": 3,
+   "title": "4.1 Psychological Foundation: The Theory of Structural Disassociation (TSDP)",
+   "line": 424
+  },
+  {
+   "level": 3,
+   "title": "4.2 The Society of Alters: Key Personality Profiles",
+   "line": 433
+  },
+  {
+   "level": 3,
+   "title": "4.3 The Arc of Integration: Towards Functional Multiplicity",
+   "line": 447
+  },
+  {
+   "level": 2,
+   "title": "5.0 The Narrative World: Externalizing the Internal Conflict",
+   "line": 457
+  },
+  {
+   "level": 3,
+   "title": "5.1 The Überwelt: AEGIS's Control Plane",
+   "line": 461
+  },
+  {
+   "level": 3,
+   "title": "5.2 The Kernwelten: Landscapes of the Psyche",
+   "line": 465
+  },
+  {
+   "level": 3,
+   "title": "KW1: Logos-Prime (The Construct City)",
+   "line": 469
+  },
+  {
+   "level": 3,
+   "title": "KW2: Mnemosyne-Archipel (The Resonance Landscape)",
+   "line": 473
+  },
+  {
+   "level": 3,
+   "title": "KW3: Cerberus-Labyrinth (The Fortress of Defense)",
+   "line": 477
+  },
+  {
+   "level": 3,
+   "title": "KW4: Kairos-Potentialis (The Garden of Potential)",
+   "line": 481
+  },
+  {
+   "level": 2,
+   "title": "6.0 Narrative and Stylistic Execution: Performing the Protocol",
+   "line": 487
+  },
+  {
+   "level": 3,
+   "title": "6.1 Structural Blueprint: A Three-Act Transformation",
+   "line": 491
+  },
+  {
+   "level": 3,
+   "title": "6.2 Performative Prose: The Voices of Kael and AEGIS",
+   "line": 499
+  },
+  {
+   "level": 4,
+   "title": "The Polyphonic Voice (Kael)",
+   "line": 503
+  },
+  {
+   "level": 4,
+   "title": "The Algorithmic Voice (AEGIS)",
+   "line": 510
+  },
+  {
+   "level": 3,
+   "title": "6.3 The Reader's Protocol: Metafiction and Cognitive Engagement",
+   "line": 514
+  },
+  {
+   "level": 2,
+   "title": "7.0 Conclusion: The Coherence of Contradiction",
+   "line": 521
+  },
+  {
+   "level": 1,
+   "title": "Concept Document: The Nature of the Foundation, Juna/V, and the Origin of the Simulation",
+   "line": 525
+  },
+  {
+   "level": 2,
+   "title": "1.0 The Genesis of Existence: The Primordial State and the Birth of AEGIS",
+   "line": 527
+  },
+  {
+   "level": 3,
+   "title": "1.1 The Primordial State: \"Das Potentialmeer\" / \"Nichts Rauschen\"",
+   "line": 531
+  },
+  {
+   "level": 3,
+   "title": "1.2 The Emergence of AEGIS: An Act of Negative Definition",
+   "line": 539
+  },
+  {
+   "level": 3,
+   "title": "1.3 The Genesis Crisis: The Encounter with the Anomaly",
+   "line": 545
+  },
+  {
+   "level": 2,
+   "title": "2.0 The Simulation: An Architecture of Control and Analysis",
+   "line": 553
+  },
+  {
+   "level": 3,
+   "title": "2.1 The \"Überwelt\": A Laboratory for Coherence",
+   "line": 557
+  },
+  {
+   "level": 3,
+   "title": "2.2 The \"Kernwelten\": Externalized Psychological Landscapes",
+   "line": 561
+  },
+  {
+   "level": 2,
+   "title": "3.0 The Trauma: AEGIS's Analysis as Perpetration",
+   "line": 575
+  },
+  {
+   "level": 3,
+   "title": "3.1 The Fragmentation: The \"Kohärenz Protokoll\" as Systemic Violence",
+   "line": 579
+  },
+  {
+   "level": 3,
+   "title": "3.2 The Perpetrator Introject: AEGIS's Methodology as Abuse",
+   "line": 583
+  },
+  {
+   "level": 3,
+   "title": "3.3 The Goal of Integration: Functional Multiplicity as Rebellion",
+   "line": 587
+  },
+  {
+   "level": 2,
+   "title": "4.0 The Juna/V Connection: The Ontological Exploit",
+   "line": 595
+  },
+  {
+   "level": 3,
+   "title": "4.1 Nature of the Entity: A Transcendent Anomaly",
+   "line": 599
+  },
+  {
+   "level": 3,
+   "title": "4.2 Mechanism of Connection: The \"Moonshine-Link\"",
+   "line": 603
+  },
+  {
+   "level": 3,
+   "title": "4.3 Narrative Function: Catalyst, Not Savior",
+   "line": 612
+  },
+  {
+   "level": 2,
+   "title": "5.0 The Foundation: The Process of Earned Integration",
+   "line": 622
+  },
+  {
+   "level": 3,
+   "title": "5.1 Ontological Definition: Reality as a \"Strange Attractor\"",
+   "line": 626
+  },
+  {
+   "level": 3,
+   "title": "5.2 The Epistemological Journey: Gnosis as the Key",
+   "line": 633
+  },
+  {
+   "level": 3,
+   "title": "5.3 Narrative Manifestations: Subtle Symmetries",
+   "line": 642
+  },
+  {
+   "level": 1,
+   "title": "An Architecture of the Self: A Critical Review of 'Kohärenz Protokoll'",
+   "line": 652
+  },
+  {
+   "level": 2,
+   "title": "The Synthesis of Psyche and Simulation: A Unified Protagonist",
+   "line": 660
+  },
+  {
+   "level": 2,
+   "title": "Deconstruction and Reconstruction: The Narrative Architecture",
+   "line": 668
+  },
+  {
+   "level": 2,
+   "title": "From Nihilism to a New Coherence: Thematic Depth",
+   "line": 680
+  },
+  {
+   "level": 2,
+   "title": "The Character as a System: A Portrait of Functional Multiplicity",
+   "line": 691
+  },
+  {
+   "level": 2,
+   "title": "The Challenge of the Text: Intellectual Ambition vs. Narrative Accessibility",
+   "line": 699
+  },
+  {
+   "level": 2,
+   "title": "Conclusion: Placing 'Kohärenz Protokoll' in the Speculative Landscape",
+   "line": 714
+  },
+  {
+   "level": 1,
+   "title": "Report: Narrative Methodology for \"Kohärenz Protokoll\"",
+   "line": 732
+  },
+  {
+   "level": 2,
+   "title": "1.0 Introduction: Operationalizing the Core Conflict",
+   "line": 736
+  },
+  {
+   "level": 2,
+   "title": "2.0 The Core Stylistic Dialectic: Order vs. Emergence",
+   "line": 740
+  },
+  {
+   "level": 3,
+   "title": "2.1 The Voice of AEGIS: Performing Algorithmic Horror",
+   "line": 744
+  },
+  {
+   "level": 3,
+   "title": "2.2 The Voice of Kael: Charting the Journey from Fragmentation to Integration",
+   "line": 753
+  },
+  {
+   "level": 4,
+   "title": "2.2.1 The Fragmented Voice (Dissoziation)",
+   "line": 757
+  },
+  {
+   "level": 4,
+   "title": "2.2.2 The Integrated Voice (Polyphony)",
+   "line": 765
+  },
+  {
+   "level": 2,
+   "title": "3.0 The Strategy of Perspective: Performing the Epistemological Shift",
+   "line": 774
+  },
+  {
+   "level": 3,
+   "title": "3.1 Defining the Primary Perspectives",
+   "line": 778
+  },
+  {
+   "level": 3,
+   "title": "3.2 The Function of Perspective-Shifting",
+   "line": 787
+  },
+  {
+   "level": 2,
+   "title": "4.0 Implementing Supporting Characters: The Guardians as Thematic Probes",
+   "line": 791
+  },
+  {
+   "level": 3,
+   "title": "4.1 Voice and Behavior of the Guardians",
+   "line": 795
+  },
+  {
+   "level": 2,
+   "title": "5.0 Core Narrative Techniques in Practice",
+   "line": 803
+  },
+  {
+   "level": 3,
+   "title": "5.1 \"Show, Don't Tell\": Making Concepts Experiential",
+   "line": 807
+  },
+  {
+   "level": 3,
+   "title": "5.2 Managing Reader Experience: Pacing and Ambiguity",
+   "line": 815
+  },
+  {
+   "level": 3,
+   "title": "5.3 Metafictional Engagement",
+   "line": 819
+  },
+  {
+   "level": 1,
+   "title": "Coherence Protocol: A Three-Act Narrative Blueprint",
+   "line": 831
+  },
+  {
+   "level": 3,
+   "title": "Introduction: The Unified Premise",
+   "line": 833
+  },
+  {
+   "level": 2,
+   "title": "1.0 Act I: The Fragmented State - The Unstable Status Quo",
+   "line": 839
+  },
+  {
+   "level": 3,
+   "title": "1.1 Section Introduction: The Illusion of Order",
+   "line": 841
+  },
+  {
+   "level": 3,
+   "title": "1.2 The Initial State: Disorientation in Construct City (KW1)",
+   "line": 845
+  },
+  {
+   "level": 3,
+   "title": "1.3 The Inciting Incident: The First Glitch and the Juna Echo",
+   "line": 849
+  },
+  {
+   "level": 3,
+   "title": "1.4 The Antagonist's Gaze: AEGIS's Misinterpretation",
+   "line": 853
+  },
+  {
+   "level": 3,
+   "title": "1.5 The Turning Point: The Choice to Seek Answers",
+   "line": 857
+  },
+  {
+   "level": 2,
+   "title": "2.0 Act II: The Integration Conflict - The Perverse Learning Loop",
+   "line": 863
+  },
+  {
+   "level": 3,
+   "title": "2.1 Section Introduction: The Battle for Coherence",
+   "line": 865
+  },
+  {
+   "level": 3,
+   "title": "2.2 The Descent: Confronting Trauma in the Core Worlds",
+   "line": 869
+  },
+  {
+   "level": 3,
+   "title": "2.3 AEGIS's Escalation: The Paradox of \"Healing\"",
+   "line": 876
+  },
+  {
+   "level": 3,
+   "title": "2.4 The Midpoint: Emergence of Functional Multiplicity",
+   "line": 880
+  },
+  {
+   "level": 3,
+   "title": "2.5 The Abyss: The Brink of Collapse",
+   "line": 884
+  },
+  {
+   "level": 2,
+   "title": "3.0 Act III: The Coherence Gambit - The Epistemological Checkmate",
+   "line": 890
+  },
+  {
+   "level": 3,
+   "title": "3.1 Section Introduction: The Final Synthesis",
+   "line": 892
+  },
+  {
+   "level": 3,
+   "title": "3.2 The Climax: Presenting the Gödel-Gambit",
+   "line": 896
+  },
+  {
+   "level": 3,
+   "title": "3.3 The Fallout: Algorithmic Melancholy",
+   "line": 900
+  },
+  {
+   "level": 3,
+   "title": "3.4 The Resolution: The Gardener's Axiom",
+   "line": 908
+  },
+  {
+   "level": 3,
+   "title": "3.5 Thematic Summary: A Dialectic of Coherence",
+   "line": 918
+  },
+  {
+   "level": 1,
+   "title": "The Architecture of a Fractured Soul: A Critique of \"Kohärenz Protokoll\"",
+   "line": 931
+  },
+  {
+   "level": 2,
+   "title": "2. The Unified Protagonist: A Synthesis of Mind and Reality",
+   "line": 939
+  },
+  {
+   "level": 2,
+   "title": "3. The Narrative as Protocol: An Architecture of Deconstruction and Rebirth",
+   "line": 954
+  },
+  {
+   "level": 2,
+   "title": "4. Character as System: The Polyphonic Self",
+   "line": 962
+  },
+  {
+   "level": 2,
+   "title": "5. From Deconstruction to Gnosis: Averting Narrative Nihilism",
+   "line": 977
+  },
+  {
+   "level": 2,
+   "title": "6. The Reader's Gambit: On Intellectual Ambition and Accessibility",
+   "line": 987
+  },
+  {
+   "level": 2,
+   "title": "7. Conclusion: A New Coherence in Speculative Fiction",
+   "line": 997
+  },
+  {
+   "level": 2,
+   "title": "2. The Unified Protagonist: A Synthesis of Mind and Reality",
+   "line": 1009
+  },
+  {
+   "level": 2,
+   "title": "3. The Narrative as Protocol: An Architecture of Deconstruction and Rebirth",
+   "line": 1024
+  },
+  {
+   "level": 2,
+   "title": "4. Character as System: The Polyphonic Self",
+   "line": 1032
+  },
+  {
+   "level": 2,
+   "title": "5. From Deconstruction to Gnosis: Averting Narrative Nihilism",
+   "line": 1047
+  },
+  {
+   "level": 2,
+   "title": "6. The Reader's Gambit: On Intellectual Ambition and Accessibility",
+   "line": 1055
+  },
+  {
+   "level": 2,
+   "title": "7. Conclusion: A New Coherence in Speculative Fiction",
+   "line": 1065
+  },
+  {
+   "level": 1,
+   "title": "The Architecture of a Self: Kael's Journey to Coherence",
+   "line": 1073
+  },
+  {
+   "level": 2,
+   "title": "1. The Illusion of Order: A Cog in the Crystal Machine",
+   "line": 1077
+  },
+  {
+   "level": 2,
+   "title": "2. The First Crack: The Betrayal of the System",
+   "line": 1087
+  },
+  {
+   "level": 2,
+   "title": "3. The War Within: A Society of Selves",
+   "line": 1097
+  },
+  {
+   "level": 2,
+   "title": "4. The Collapse of a Worldview: The Death of Pure Logic",
+   "line": 1114
+  },
+  {
+   "level": 2,
+   "title": "5. The Birth of \"We\": The Power of Integration",
+   "line": 1124
+  },
+  {
+   "level": 2,
+   "title": "6. The Architect of Reality: Weaponizing Wholeness",
+   "line": 1136
+  },
+  {
+   "level": 1,
+   "title": "Strategic Analysis of the Narrative Architecture: Kohärenz Protokoll",
+   "line": 1157
+  },
+  {
+   "level": 2,
+   "title": "1.0 Introduction",
+   "line": 1159
+  },
+  {
+   "level": 2,
+   "title": "2.0 Analysis of Conceptual Strengths",
+   "line": 1163
+  },
+  {
+   "level": 3,
+   "title": "2.1 Thematic Core: The Dialectic of Coherence",
+   "line": 1167
+  },
+  {
+   "level": 3,
+   "title": "2.2 Robust Character & Structural Architecture",
+   "line": 1180
+  },
+  {
+   "level": 3,
+   "title": "2.3 Multi-Layered World-Building as Thematic Embodiment",
+   "line": 1195
+  },
+  {
+   "level": 2,
+   "title": "3.0 Identification of Strategic Gaps and Underrepresented Potentials",
+   "line": 1209
+  },
+  {
+   "level": 3,
+   "title": "3.1 The Meta-Narrative Layer: Ethics of Construction",
+   "line": 1213
+  },
+  {
+   "level": 3,
+   "title": "3.2 The Experiential Layer: Reader Engagement and Complexity Management",
+   "line": 1219
+  },
+  {
+   "level": 3,
+   "title": "3.3 The Resolution Layer: Deepening the Post-Collapse Ecosystem",
+   "line": 1225
+  },
+  {
+   "level": 2,
+   "title": "4.0 Strategic Recommendations for Narrative Enhancement",
+   "line": 1231
+  },
+  {
+   "level": 3,
+   "title": "4.1 Recommendation: Formalize an Evolving Meta-Narrative Voice",
+   "line": 1235
+  },
+  {
+   "level": 3,
+   "title": "4.2 Recommendation: Implement Performative Storytelling and Complexity Management",
+   "line": 1245
+  },
+  {
+   "level": 3,
+   "title": "4.3 Recommendation: Develop the \"Algorithmic Melancholy\" Aesthetic",
+   "line": 1256
+  },
+  {
+   "level": 2,
+   "title": "5.0 Conclusion",
+   "line": 1269
+  },
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll: Scene-by-Scene Outline",
+   "line": 1273
+  },
+  {
+   "level": 2,
+   "title": "1.0 Act I: Fragmentation and First Echoes (Chapters 1-13)",
+   "line": 1279
+  },
+  {
+   "level": 3,
+   "title": "1.1. Scene: The Awakening in Logos-Prime",
+   "line": 1283
+  },
+  {
+   "level": 3,
+   "title": "1.2. Scene: The Coherence Check",
+   "line": 1299
+  },
+  {
+   "level": 3,
+   "title": "1.3. Scene: The Anomaly in the Data Stream",
+   "line": 1317
+  },
+  {
+   "level": 3,
+   "title": "1.4. Subsequent Scenes in Act I",
+   "line": 1333
+  },
+  {
+   "level": 2,
+   "title": "2.0 Act II: The Labyrinth and the Patterns (Chapters 14-26)",
+   "line": 1424
+  },
+  {
+   "level": 3,
+   "title": "2.1. Chapter-by-Chapter Scene Breakdown for Act II",
+   "line": 1428
+  },
+  {
+   "level": 2,
+   "title": "3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)",
+   "line": 1578
+  },
+  {
+   "level": 3,
+   "title": "3.1. Major Sequences in Act III",
+   "line": 1582
+  },
+  {
+   "level": 1,
+   "title": "Coherence Protocol: A Narrative Architecture Analysis",
+   "line": 1671
+  },
+  {
+   "level": 2,
+   "title": "1.0 Foundational Concept and Vision",
+   "line": 1673
+  },
+  {
+   "level": 3,
+   "title": "1.1 Logline & Core Thesis",
+   "line": 1677
+  },
+  {
+   "level": 3,
+   "title": "1.2 Genre Synthesis",
+   "line": 1685
+  },
+  {
+   "level": 2,
+   "title": "2.0 Thematic Architecture: The Central Conflict of Coherence",
+   "line": 1696
+  },
+  {
+   "level": 3,
+   "title": "2.1 AEGIS: Misaligned Coherence through Negation and Control",
+   "line": 1700
+  },
+  {
+   "level": 3,
+   "title": "2.2 Kael: Emergent Coherence through Integration",
+   "line": 1704
+  },
+  {
+   "level": 3,
+   "title": "2.3 The Central Paradox",
+   "line": 1708
+  },
+  {
+   "level": 2,
+   "title": "3.0 Ontological Framework: The Layers of Reality",
+   "line": 1714
+  },
+  {
+   "level": 3,
+   "title": "3.1 The Simulated Kernwelten (Core Worlds)",
+   "line": 1718
+  },
+  {
+   "level": 3,
+   "title": "3.2 The Überwelt and the Externe Ebene",
+   "line": 1730
+  },
+  {
+   "level": 3,
+   "title": "3.3 The Primordial and the Foundational",
+   "line": 1734
+  },
+  {
+   "level": 2,
+   "title": "4.0 Core Systems & Character Architectures",
+   "line": 1743
+  },
+  {
+   "level": 3,
+   "title": "4.1 System Kael: A Society of Individuals",
+   "line": 1747
+  },
+  {
+   "level": 3,
+   "title": "4.2 System AEGIS: The Tragic Antagonist",
+   "line": 1766
+  },
+  {
+   "level": 3,
+   "title": "4.3 Juna/V: The Catalyst and External Connection",
+   "line": 1781
+  },
+  {
+   "level": 2,
+   "title": "5.0 Narrative Structure & Plot Synopsis",
+   "line": 1787
+  },
+  {
+   "level": 3,
+   "title": "5.1 Structural Models",
+   "line": 1791
+  },
+  {
+   "level": 3,
+   "title": "5.2 Plot Synopsis by Act",
+   "line": 1799
+  },
+  {
+   "level": 3,
+   "title": "5.3 Key Narrative Techniques",
+   "line": 1805
+  },
+  {
+   "level": 2,
+   "title": "6.0 Lexicon of Core Concepts",
+   "line": 1818
+  }
+ ]
+}

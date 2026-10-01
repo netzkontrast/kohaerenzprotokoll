@@ -1,0 +1,210 @@
+{
+ "slug": "sozialrechtliche-strategien-bei-traumafolgestoerungen",
+ "sha256": "31293ba8ae01240456f37821c3f5e97209d49d087edc6ff4dd168db1f84456e5",
+ "lines": 495,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Sozialrechtliche Strategien bei Traumafolgestörungen",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Juristische Strategie zur Neubewertung des Grades der Behinderung und Zuerkennung von Merkzeichen bei komplexer Traumafolgestörung (kPTBS/DIS)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung: Mandatsziel und gutachterliche Ausgangslage",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "A. Zusammenfassung des Mandatsziels",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "B. Die zentrale Herausforderung: Entkräftung des vorliegenden Gutachtens",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "C. Aufbau und Zielsetzung des vorliegenden Berichts",
+   "line": 25
+  },
+  {
+   "level": 2,
+   "title": "II. Medizinisch-diagnostische Fundierung: kPTBS, DIS und Komorbiditäten nach ICD-11",
+   "line": 29
+  },
+  {
+   "level": 3,
+   "title": "A. Die komplexe Posttraumatische Belastungsstörung (kPTBS, ICD-11: 6B41)",
+   "line": 33
+  },
+  {
+   "level": 4,
+   "title": "Definition und Auslöser",
+   "line": 35
+  },
+  {
+   "level": 4,
+   "title": "Diagnosekriterien nach ICD-11",
+   "line": 39
+  },
+  {
+   "level": 4,
+   "title": "Abgrenzung zur PTBS und zur andauernden Persönlichkeitsänderung nach Extrembelastung (ICD-10: F62.0)",
+   "line": 55
+  },
+  {
+   "level": 4,
+   "title": "Relevanz aktueller psychotraumatologischer Erkenntnisse",
+   "line": 59
+  },
+  {
+   "level": 3,
+   "title": "B. Die Dissoziative Identitätsstörung (DIS, ICD-11: 6B64, partielle DIS: 6B65)",
+   "line": 63
+  },
+  {
+   "level": 4,
+   "title": "Definition und Kernsymptome nach ICD-11 und DeGPT/ISSTD",
+   "line": 65
+  },
+  {
+   "level": 4,
+   "title": "Auswirkungen auf Alltag und Funktionsfähigkeit",
+   "line": 69
+  },
+  {
+   "level": 4,
+   "title": "Diagnostische Herausforderungen und Komplexität",
+   "line": 73
+  },
+  {
+   "level": 4,
+   "title": "Abgrenzung zu anderen dissoziativen Störungen und psychotischen Störungen",
+   "line": 77
+  },
+  {
+   "level": 3,
+   "title": "C. Erhebliche Komorbiditäten und deren synergistische Effekte",
+   "line": 96
+  },
+  {
+   "level": 3,
+   "title": "D. Tiefgreifende Beeinträchtigung der Erlebnis- und Gestaltungsfähigkeit sowie der sozialen Anpassung",
+   "line": 102
+  },
+  {
+   "level": 2,
+   "title": "III. Juristische Bewertung des GdB und der Merkzeichen nach VMV und SGB IX",
+   "line": 124
+  },
+  {
+   "level": 3,
+   "title": "A. Grundlagen der GdB-Bemessung bei psychischen Störungen (VMV Teil B, Nr. 3.7)",
+   "line": 128
+  },
+  {
+   "level": 3,
+   "title": "B. Argumentationslinien für einen GdB von 80-100",
+   "line": 146
+  },
+  {
+   "level": 4,
+   "title": "Nachweis schwerer sozialer Anpassungsschwierigkeiten",
+   "line": 150
+  },
+  {
+   "level": 4,
+   "title": "Darlegung der Schwere der Störungen der Selbstorganisation (DSO)",
+   "line": 160
+  },
+  {
+   "level": 4,
+   "title": "Gesamthafte Betrachtung der funktionellen Einschränkungen",
+   "line": 164
+  },
+  {
+   "level": 3,
+   "title": "C. Argumentationslinien für das Merkzeichen H (Hilflosigkeit)",
+   "line": 170
+  },
+  {
+   "level": 3,
+   "title": "D. Argumentationslinien für das Merkzeichen B (Begleitung)",
+   "line": 195
+  },
+  {
+   "level": 2,
+   "title": "IV. Strategien zur Entkräftung des vorliegenden Gutachtens",
+   "line": 229
+  },
+  {
+   "level": 3,
+   "title": "A. Analyse potenzieller methodischer und inhaltlicher Mängel des Gutachtens",
+   "line": 233
+  },
+  {
+   "level": 3,
+   "title": "B. Herausarbeiten von Widersprüchen zu Befundberichten der Langzeitbehandler",
+   "line": 309
+  },
+  {
+   "level": 3,
+   "title": "C. Darlegung der Gründe für eine Abweichung des Gerichts vom Gutachten im Rahmen der freien richterlichen Beweiswürdigung (§ 128 SGG)",
+   "line": 323
+  },
+  {
+   "level": 3,
+   "title": "D. Vorbereitung auf typische Einwände der Beklagtenseite (Versorgungsamt)",
+   "line": 334
+  },
+  {
+   "level": 2,
+   "title": "V. Prozessuale Handlungsempfehlungen",
+   "line": 348
+  },
+  {
+   "level": 3,
+   "title": "A. Option des Antrags auf ein neues Gutachten nach § 109 SGG",
+   "line": 352
+  },
+  {
+   "level": 3,
+   "title": "B. Dokumentation und strategische Nutzung akuter Kriseninterventionen und Instabilitätsphasen",
+   "line": 372
+  },
+  {
+   "level": 3,
+   "title": "C. Zusammenstellung und Verwertung einschlägiger sozialgerichtlicher Urteile",
+   "line": 390
+  },
+  {
+   "level": 2,
+   "title": "VI. Zusammenfassende rechtliche Würdigung und strategische Empfehlungen",
+   "line": 403
+  },
+  {
+   "level": 3,
+   "title": "A. Konklusion der Erfolgsaussichten",
+   "line": 405
+  },
+  {
+   "level": 3,
+   "title": "B. Konkrete nächste Schritte im Verfahren",
+   "line": 409
+  },
+  {
+   "level": 3,
+   "title": "C. Abschließende Hinweise",
+   "line": 416
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 420
+  }
+ ]
+}

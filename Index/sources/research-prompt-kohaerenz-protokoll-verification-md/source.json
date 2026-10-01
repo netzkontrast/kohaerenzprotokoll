@@ -1,0 +1,180 @@
+{
+ "slug": "research-prompt-kohaerenz-protokoll-verification-md",
+ "sha256": "f6466855f988e5e31d536c5e7e0e0d5958dbdc2bac2811a96f2107d945424ee9",
+ "lines": 1428,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "research-prompt_kohaerenz-protokoll-verification.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz-Protokoll — Theoretische Verifizierung und Widerspruchsprüfung",
+   "line": 30
+  },
+  {
+   "level": 2,
+   "title": "Meta-Header: Three-Layer Architecture",
+   "line": 32
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCK 0 — Reflection Baseline (MANDATORY)",
+   "line": 52
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCK 1 — Temporal Scope",
+   "line": 96
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCK 2 — Source Authority Hierarchy",
+   "line": 108
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCK 3 — Narrative Framework Exclusion",
+   "line": 123
+  },
+  {
+   "level": 2,
+   "title": "CONSTRAINT BLOCK 4 — Contradiction Logging Format",
+   "line": 141
+  },
+  {
+   "level": 2,
+   "title": "Epistemological Layer — Category B (Extraction)",
+   "line": 173
+  },
+  {
+   "level": 2,
+   "title": "Critical-Thinking Methods (v2.1)",
+   "line": 209
+  },
+  {
+   "level": 3,
+   "title": "Method: Falsification (Karl Popper)",
+   "line": 211
+  },
+  {
+   "level": 3,
+   "title": "Method: Source Triangulation",
+   "line": 251
+  },
+  {
+   "level": 3,
+   "title": "Method: Contradiction Log",
+   "line": 299
+  },
+  {
+   "level": 3,
+   "title": "Method: Adversarial Query Expansion (M13 — MANDATORY v2.1)",
+   "line": 348
+  },
+  {
+   "level": 2,
+   "title": "Prompt-Engineering Frameworks (v2.1 Dual-Layer)",
+   "line": 394
+  },
+  {
+   "level": 3,
+   "title": "Layer 1: Agentic Spine — ReAct (Reason + Act + Observe)",
+   "line": 396
+  },
+  {
+   "level": 3,
+   "title": "Layer 2: Structural Framework — RISEN (Role + Input + Steps + Expectations + Narrowing)",
+   "line": 468
+  },
+  {
+   "level": 2,
+   "title": "RISEN Component: Role (R)",
+   "line": 492
+  },
+  {
+   "level": 2,
+   "title": "RISEN Component: Input (I)",
+   "line": 520
+  },
+  {
+   "level": 2,
+   "title": "RISEN Component: Steps (S)",
+   "line": 554
+  },
+  {
+   "level": 3,
+   "title": "Phase 1: Framework Preparation (Before Reason 1)",
+   "line": 558
+  },
+  {
+   "level": 3,
+   "title": "Phase 2: Axis I Verification — Information Thermodynamics and Dual-Kernel Theory",
+   "line": 589
+  },
+  {
+   "level": 3,
+   "title": "Phase 3: Axis II Verification — Psychological Modularity (TSDP)",
+   "line": 696
+  },
+  {
+   "level": 3,
+   "title": "Phase 4: Axes III & IV Verification — Dramatica, Monster Group, Moonshine, VOA",
+   "line": 784
+  },
+  {
+   "level": 3,
+   "title": "Phase 5: Axes V & VI Verification — Paraconsistent Logic, Halting Problem, Reader Function",
+   "line": 932
+  },
+  {
+   "level": 3,
+   "title": "Phase 6: Axis VII & VIII Verification — Climax Inversion, Autobiographical Anchor, Algorithmische Melancholie",
+   "line": 1047
+  },
+  {
+   "level": 2,
+   "title": "Output Expectations (RISEN: E — Expectations)",
+   "line": 1196
+  },
+  {
+   "level": 3,
+   "title": "Verification Matrix (per-axis)",
+   "line": 1200
+  },
+  {
+   "level": 3,
+   "title": "Contradiction Log (detailed)",
+   "line": 1211
+  },
+  {
+   "level": 3,
+   "title": "Source Triangulation Report",
+   "line": 1239
+  },
+  {
+   "level": 3,
+   "title": "Analyst Notes (Optional but encouraged)",
+   "line": 1251
+  },
+  {
+   "level": 2,
+   "title": "Narrowing Constraints (RISEN: N)",
+   "line": 1262
+  },
+  {
+   "level": 2,
+   "title": "Pre-Synthesis Integrity Check (v2.1)",
+   "line": 1291
+  },
+  {
+   "level": 2,
+   "title": "Synthesis Output Schema",
+   "line": 1317
+  },
+  {
+   "level": 2,
+   "title": "Self-Verification Checklist for the Executing AI (v2.1)",
+   "line": 1397
+  }
+ ]
+}

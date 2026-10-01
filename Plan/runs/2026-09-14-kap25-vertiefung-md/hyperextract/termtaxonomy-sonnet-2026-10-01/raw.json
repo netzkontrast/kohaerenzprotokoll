@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "source": "Schleusen des Misstrauens",
+      "target": "KW3-Unterorte",
+      "type": "member_of",
+      "quote": "KW3-Unterorte: Schleusen des Misstrauens",
+      "stance": "asserts"
+    },
+    {
+      "source": "Gänge der Paranoia",
+      "target": "KW3-Unterorte",
+      "type": "member_of",
+      "quote": "KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia",
+      "stance": "asserts"
+    },
+    {
+      "source": "Panoptikum",
+      "target": "KW3-Unterorte",
+      "type": "member_of",
+      "quote": "KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum",
+      "stance": "asserts"
+    },
+    {
+      "source": "Cerberus",
+      "target": "dekanonisierte Guardians",
+      "type": "member_of",
+      "quote": "dekanonisierte Guardians (Cerberus",
+      "stance": "asserts"
+    },
+    {
+      "source": "Nox",
+      "target": "dekanonisierte Guardians",
+      "type": "member_of",
+      "quote": "dekanonisierte Guardians (Cerberus, Nox",
+      "stance": "asserts"
+    },
+    {
+      "source": "Echo",
+      "target": "dekanonisierte Guardians",
+      "type": "member_of",
+      "quote": "dekanonisierte Guardians (Cerberus, Nox, Echo",
+      "stance": "asserts"
+    },
+    {
+      "source": "Limina",
+      "target": "dekanonisierte Guardians",
+      "type": "member_of",
+      "quote": "dekanonisierte Guardians (Cerberus, Nox, Echo, Limina)",
+      "stance": "asserts"
+    }
+  ]
+}

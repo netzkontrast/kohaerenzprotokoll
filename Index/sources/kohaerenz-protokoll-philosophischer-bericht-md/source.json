@@ -1,0 +1,385 @@
+{
+ "slug": "kohaerenz-protokoll-philosophischer-bericht-md",
+ "sha256": "8957eeaf4e00757d2a793f8798ba4b345ab7475e1086f9d0da7038d69191520b",
+ "lines": 839,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "kohaerenz-protokoll-philosophischer-bericht.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Theoretisches Fundament",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "0. Vorbemerkung zur Lesart",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "1. Die zentrale Frage und die Pointe",
+   "line": 35
+  },
+  {
+   "level": 2,
+   "title": "2. Die Dual-Kernel-Theorie",
+   "line": 59
+  },
+  {
+   "level": 3,
+   "title": "2.1 Status der Theorie im Roman",
+   "line": 61
+  },
+  {
+   "level": 3,
+   "title": "2.2 Die Primäre Dualität: K₁ und K₀",
+   "line": 65
+  },
+  {
+   "level": 3,
+   "title": "2.3 Die Persistenzgleichung",
+   "line": 77
+  },
+  {
+   "level": 3,
+   "title": "2.4 Korrektive Wellen und der erosive Druck",
+   "line": 96
+  },
+  {
+   "level": 3,
+   "title": "2.5 Landauer-Prinzip — der thermodynamische Zwang",
+   "line": 100
+  },
+  {
+   "level": 3,
+   "title": "2.6 Weitere physikalische Korrelate",
+   "line": 112
+  },
+  {
+   "level": 3,
+   "title": "2.7 Das Kernparadoxon",
+   "line": 124
+  },
+  {
+   "level": 2,
+   "title": "3. Die beiden Wahrheitstheorien",
+   "line": 140
+  },
+  {
+   "level": 3,
+   "title": "3.1 Die Korrespondenztheorie",
+   "line": 144
+  },
+  {
+   "level": 3,
+   "title": "3.2 Die Kohärenztheorie",
+   "line": 160
+  },
+  {
+   "level": 3,
+   "title": "3.3 Vergleichstafel",
+   "line": 176
+  },
+  {
+   "level": 3,
+   "title": "3.4 Wiener Kreis und Protokollsätze — der Schauplatz",
+   "line": 192
+  },
+  {
+   "level": 3,
+   "title": "3.5 Habermas, Deflationismus, Pragmatismus (kurz)",
+   "line": 196
+  },
+  {
+   "level": 3,
+   "title": "3.6 Die Truth-Rotation — der Roman als Argument",
+   "line": 206
+  },
+  {
+   "level": 3,
+   "title": "3.7 Der Titel als tragischer Misnomer",
+   "line": 235
+  },
+  {
+   "level": 2,
+   "title": "4. AEGIS — Tragischer Gott, nicht Schurke",
+   "line": 243
+  },
+  {
+   "level": 3,
+   "title": "4.1 Strukturelle Position",
+   "line": 245
+  },
+  {
+   "level": 3,
+   "title": "4.2 Autopoiesis und operationale Geschlossenheit",
+   "line": 249
+  },
+  {
+   "level": 3,
+   "title": "4.3 Primal Directive und Genesis 3-Beat",
+   "line": 264
+  },
+  {
+   "level": 3,
+   "title": "4.4 Algorithmische Melancholie",
+   "line": 282
+  },
+  {
+   "level": 3,
+   "title": "4.5 Voice-Regel",
+   "line": 290
+  },
+  {
+   "level": 3,
+   "title": "4.6 Guardians (reduziert auf 2)",
+   "line": 294
+  },
+  {
+   "level": 2,
+   "title": "5. Juna — Witness-Function und Gödel-Sentenz",
+   "line": 302
+  },
+  {
+   "level": 3,
+   "title": "5.1 Strukturelle Position",
+   "line": 304
+  },
+  {
+   "level": 3,
+   "title": "5.2 Die Witness-Function — drei Disziplin-Schichten",
+   "line": 312
+  },
+  {
+   "level": 3,
+   "title": "5.3 Gödel + Chaitin — algorithmische Irreduzibilität",
+   "line": 332
+  },
+  {
+   "level": 3,
+   "title": "5.4 Das Phone-Silence-Anker und der Moonshine-Link",
+   "line": 345
+  },
+  {
+   "level": 3,
+   "title": "5.5 Silas und die Spiegelachse",
+   "line": 353
+  },
+  {
+   "level": 2,
+   "title": "6. Moonshine-Link — Liebe als Gruppentheoretische Symmetrie",
+   "line": 389
+  },
+  {
+   "level": 3,
+   "title": "6.1 Monstergruppe und Moonshine",
+   "line": 391
+  },
+  {
+   "level": 3,
+   "title": "6.2 Der Moonshine-Link als Mechanismus",
+   "line": 399
+  },
+  {
+   "level": 3,
+   "title": "6.3 Die Moonshine-Boundary (offene Frage)",
+   "line": 413
+  },
+  {
+   "level": 3,
+   "title": "6.4 Liebe als physikalisches Naturgesetz",
+   "line": 417
+  },
+  {
+   "level": 2,
+   "title": "7. Kernwelten — Vier ontologische Sphären",
+   "line": 425
+  },
+  {
+   "level": 3,
+   "title": "7.1 KW1 — Konstrukt-Stadt (Kantsche Phänomene)",
+   "line": 429
+  },
+  {
+   "level": 3,
+   "title": "7.2 KW2 — Grenz-Zonen (Unentscheidbarkeit)",
+   "line": 433
+  },
+  {
+   "level": 3,
+   "title": "7.3 KW3 — Überwelt / Nexus (Quanten-Information)",
+   "line": 437
+  },
+  {
+   "level": 3,
+   "title": "7.4 KW4 — Resonanz-Kontinuum (Dialetheia)",
+   "line": 441
+  },
+  {
+   "level": 3,
+   "title": "7.5 Computational Class als Stil-Anweisung",
+   "line": 445
+  },
+  {
+   "level": 2,
+   "title": "8. TSDP — Strukturelle Dissoziation als Survival Architecture",
+   "line": 453
+  },
+  {
+   "level": 3,
+   "title": "8.1 Theoretischer Rahmen",
+   "line": 455
+  },
+  {
+   "level": 3,
+   "title": "8.2 Cache-Kohärenz als Modell der Amnesie",
+   "line": 478
+  },
+  {
+   "level": 3,
+   "title": "8.3 Die 13 Alter",
+   "line": 482
+  },
+  {
+   "level": 3,
+   "title": "8.4 Funktionale Multiplizität, nicht Fusion",
+   "line": 509
+  },
+  {
+   "level": 3,
+   "title": "8.5 Phobien als Mechanismen",
+   "line": 517
+  },
+  {
+   "level": 3,
+   "title": "8.6 Genre-Vorsicht",
+   "line": 533
+  },
+  {
+   "level": 2,
+   "title": "9. Reader-Function — die fünfte Dimension",
+   "line": 541
+  },
+  {
+   "level": 3,
+   "title": "9.1 Iser und die Leerstellen",
+   "line": 543
+  },
+  {
+   "level": 3,
+   "title": "9.2 Drei-Schichten-Operation",
+   "line": 564
+  },
+  {
+   "level": 3,
+   "title": "9.3 Das fünfte D",
+   "line": 574
+  },
+  {
+   "level": 3,
+   "title": "9.4 Konsequenz: keine Auflösung im Text",
+   "line": 578
+  },
+  {
+   "level": 2,
+   "title": "10. Dialetheia und parakonsistente Logik",
+   "line": 586
+  },
+  {
+   "level": 3,
+   "title": "10.1 Priest und der wahre Widerspruch",
+   "line": 588
+  },
+  {
+   "level": 3,
+   "title": "10.2 Tarskis Hierarchie — die Notbremse",
+   "line": 592
+  },
+  {
+   "level": 3,
+   "title": "10.3 Risse als Dialetheien",
+   "line": 596
+  },
+  {
+   "level": 3,
+   "title": "10.4 Der Vortex als lebende Dialetheia",
+   "line": 609
+  },
+  {
+   "level": 2,
+   "title": "11. Holon-Struktur und Spiegelachse",
+   "line": 633
+  },
+  {
+   "level": 3,
+   "title": "11.1 Zwei Ebenen, zwei ANPs",
+   "line": 635
+  },
+  {
+   "level": 3,
+   "title": "11.2 Die Spiegelachse",
+   "line": 648
+  },
+  {
+   "level": 3,
+   "title": "11.3 Pronomen-Inversionen pro Throughline",
+   "line": 678
+  },
+  {
+   "level": 2,
+   "title": "12. Foundation und Strange Attractor",
+   "line": 697
+  },
+  {
+   "level": 3,
+   "title": "12.1 Foundation als mathematisches Bedrock",
+   "line": 699
+  },
+  {
+   "level": 3,
+   "title": "12.2 Fundament als Strange Attractor",
+   "line": 707
+  },
+  {
+   "level": 3,
+   "title": "12.3 Gardener's Axiom — Endgame-Prinzip",
+   "line": 711
+  },
+  {
+   "level": 2,
+   "title": "13. Algorithmische Melancholie — das Schicksal der Systeme",
+   "line": 719
+  },
+  {
+   "level": 3,
+   "title": "13.1 Was es ist",
+   "line": 721
+  },
+  {
+   "level": 3,
+   "title": "13.2 Warum kein klassischer Kollaps",
+   "line": 735
+  },
+  {
+   "level": 3,
+   "title": "13.3 Die Inversion am Roman-Ende",
+   "line": 739
+  },
+  {
+   "level": 2,
+   "title": "14. Open Questions — was noch offen ist",
+   "line": 747
+  },
+  {
+   "level": 2,
+   "title": "15. Zusammenführung — Ist Liebe Information?",
+   "line": 767
+  },
+  {
+   "level": 2,
+   "title": "Appendix: Quellenhierarchie und Verweise",
+   "line": 802
+  }
+ ]
+}

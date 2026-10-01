@@ -1,0 +1,40 @@
+{
+ "slug": "charaktere",
+ "sha256": "633139ece52a91230bdb19787550d6386c5bd65568c72cb5dfc1c9f69cf7e8b2",
+ "lines": 398,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Charaktere",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Die Architektur von System Kael: Eine Blaupause für Trauma, Dissoziation und Integration",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "Die Fundamente der Fragmentierung: Kael und die Tertiäre Strukturelle Dissoziation (TSDP)",
+   "line": 112
+  },
+  {
+   "level": 3,
+   "title": "Die Gesellschaft der Anteile: Elf Seelen in einem System",
+   "line": 125
+  },
+  {
+   "level": 3,
+   "title": "Komplexe Beziehungsdynamiken und innere Konflikte",
+   "line": 220
+  },
+  {
+   "level": 3,
+   "title": "Der Weg zur Funktionalen Multiplizität: Integration als Waffe",
+   "line": 232
+  },
+  {
+   "level": 3,
+   "title": "Kohärenz Protokoll: Umfassendes Charakter-Konzept-Dokument",
+   "line": 250
+  }
+ ]
+}

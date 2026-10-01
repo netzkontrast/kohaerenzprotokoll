@@ -1,0 +1,45 @@
+{
+ "slug": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+ "sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+ "lines": 59,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Meta-Foreshadowing & Beobachter-Logik",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Foreshadowing-Strategie: Die Beobachter-Instanz",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1. Das Phänomen der „Stasis-Lücken“ (Teil 1)",
+   "line": 15
+  },
+  {
+   "level": 2,
+   "title": "2. AEGIS und die „Höhere Metrik“ (Teil 2)",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "3. Die „Rendering-Grenzen“ (Teil 1 & 2)",
+   "line": 30
+  },
+  {
+   "level": 2,
+   "title": "4. Die Juna-Spiegelung (Teil 3)",
+   "line": 37
+  },
+  {
+   "level": 2,
+   "title": "5. Die „Lese-Abhängigkeit“ (Das finale Kapitel)",
+   "line": 44
+  },
+  {
+   "level": 3,
+   "title": "Taktische Umsetzung im Text:",
+   "line": 51
+  }
+ ]
+}

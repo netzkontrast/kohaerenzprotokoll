@@ -1,0 +1,20 @@
+{
+ "slug": "kohaerenz-prozess",
+ "sha256": "9cf73214d61760a5c7c825d27ec61c9b57460de3cabd52a07ab214b9d017d53d",
+ "lines": 342,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Prozess",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Prozess: Theoretische Grundlage",
+   "line": 11
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 300
+  }
+ ]
+}

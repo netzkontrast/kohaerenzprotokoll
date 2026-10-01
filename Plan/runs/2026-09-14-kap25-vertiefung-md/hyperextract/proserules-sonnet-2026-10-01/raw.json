@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "source": "Kap 25–26",
+      "target": "Schleier-Disziplin",
+      "type": "structure",
+      "quote": "Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26",
+      "stance": "asserts"
+    },
+    {
+      "source": "Juna",
+      "target": "nie Subjekt, nie Name, nie Körper, nie Stimme",
+      "type": "diction",
+      "quote": "R-10 Juna nie Subjekt, nie Name, nie Körper, nie Stimme",
+      "stance": "asserts"
+    },
+    {
+      "source": "Direktiven",
+      "target": "ohne Metapher, Moral, Affekt",
+      "type": "diction",
+      "quote": "R-8 Direktiven ohne Metapher, Moral, Affekt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Vielheit, Kapitel 25–26",
+      "target": "kanonisch gefordert, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags",
+      "type": "device",
+      "quote": "Vielheit wird benannt, **kanonisch gefordert** für 25–26, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags",
+      "stance": "asserts"
+    },
+    {
+      "source": "kaltes Ozon",
+      "target": "nur in der Abmeldeszene, Wärme dort nicht",
+      "type": "structure",
+      "quote": "kaltes Ozon **nur** in der Abmeldeszene, Wärme dort nicht",
+      "stance": "asserts"
+    },
+    {
+      "source": "Mikrocues in der Handszene",
+      "target": "drei, am Limit, nicht darüber",
+      "type": "structure",
+      "quote": "drei Mikrocues in der Handszene, am Limit, nicht darüber",
+      "stance": "asserts"
+    },
+    {
+      "source": "Szene",
+      "target": "ein Konzept je Szene",
+      "type": "structure",
+      "quote": "ein Konzept je Szene",
+      "stance": "asserts"
+    },
+    {
+      "source": "Genesis-Echo",
+      "target": "max. ein Genesis-Echo je Szene",
+      "type": "structure",
+      "quote": "max. ein Genesis-Echo je Szene",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap-0-Zitate",
+      "target": "keine wörtlichen Kap-0-Zitate",
+      "type": "diction",
+      "quote": "keine wörtlichen Kap-0-Zitate",
+      "stance": "asserts"
+    },
+    {
+      "source": "Ein-Falschheits-Regel",
+      "target": "eine objektive Falschheit",
+      "type": "structure",
+      "quote": "Ein-Falschheits-Regel: **eine** objektive Falschheit",
+      "stance": "asserts"
+    },
+    {
+      "source": "Restzahl-Anstieg",
+      "target": "bewusst erklärbar gehalten",
+      "type": "number",
+      "quote": "der Restzahl-Anstieg ist bewusst **erklärbar** gehalten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kaels Signatur",
+      "target": "bricht nur dort, wo ein Wechsel gemeint ist",
+      "type": "pov",
+      "quote": "Kaels Signatur bricht nur dort, wo ein Wechsel gemeint ist",
+      "stance": "asserts"
+    },
+    {
+      "source": "Benennungslock",
+      "target": "gilt für Kap 1–13",
+      "type": "lock",
+      "quote": "Der Benennungslock gilt für Kap 1–13.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Schleier-Benennung in Kap 25–26",
+      "target": "offen benannt",
+      "type": "structure",
+      "quote": "Canon verlangt „offen benannt",
+      "stance": "cites"
+    },
+    {
+      "source": "Schleier-Benennung (Kap 25)",
+      "target": "der Satz „Hier sitzt mehr als einer.“ mitten in der Handszene",
+      "type": "lock",
+      "quote": "Gesetzt ist der Satz „Hier sitzt mehr als einer.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Template-Kopf",
+      "target": "keine Änderungen außer status",
+      "type": "format",
+      "quote": "Der Drafting-Brief verbietet Änderungen am Kopf außer status.",
+      "stance": "cites"
+    },
+    {
+      "source": "Einheit Station 7",
+      "target": "bleibt namenlos („Einheit“), wie es Akt I verlangt",
+      "type": "diction",
+      "quote": "bleibt aber namenlos („Einheit“), wie es Akt I verlangt",
+      "stance": "cites"
+    }
+  ]
+}

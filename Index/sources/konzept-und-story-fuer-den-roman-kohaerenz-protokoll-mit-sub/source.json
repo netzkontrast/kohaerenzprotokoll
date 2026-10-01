@@ -1,0 +1,40 @@
+{
+ "slug": "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
+ "sha256": "5ad5368664861a5f354dabfaa5e9304ffe7c29c6c2daf7e086e8e19615dce32a",
+ "lines": 89,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Konzept und Story für den Roman Kohärenz Protokoll (mit Subplots)",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Konzept und Story für den Roman \"Kohärenz Protokoll\" (mit Subplots)",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Einführung in das Konzept",
+   "line": 15
+  },
+  {
+   "level": 2,
+   "title": "Teil 1: Die Innere Reise (Kapitel 1-13) - Heroine's Journey",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "Teil 2: Die Meta-Ebene & Zyklen (Kapitel 14-26) - Meta-Exploration",
+   "line": 41
+  },
+  {
+   "level": 2,
+   "title": "Teil 3: Die Äußere Konfrontation & Rückkehr (Kapitel 27-39) - Hero's Journey",
+   "line": 59
+  },
+  {
+   "level": 2,
+   "title": "Integration von Themen und Konzepten",
+   "line": 77
+  }
+ ]
+}

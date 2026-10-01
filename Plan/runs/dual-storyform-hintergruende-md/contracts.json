@@ -1,0 +1,119 @@
+{
+ "source": "dual-storyform-hintergruende-md",
+ "runs": [
+  {
+   "run": "causallinks-haiku-2026-09-30",
+   "contract": "CausalLinks",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 17,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.2049,
+   "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+   "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+   "rows": 48,
+   "candidates": 33,
+   "refused": {
+    "surface absent from document": 12,
+    "ambiguous quote: choose its passage": 1,
+    "quote not placed": 1
+   },
+   "duplicates": 1,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "storyform"
+  },
+  {
+   "run": "storypoints-haiku-2026-09-30",
+   "contract": "Storypoints",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 17,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.1917,
+   "template_sha256": "aafb5d66eb10a22ef252417e73eb6fab60a01523f0eea426f8643f7daa14c679",
+   "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+   "rows": 25,
+   "candidates": 11,
+   "refused": {
+    "quote not placed": 2,
+    "surface absent from document": 12
+   },
+   "duplicates": 0,
+   "labels": {
+    "part": 7,
+    "ok": 4
+   },
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "storyform"
+  },
+  {
+   "run": "termcontrasts-haiku-2026-09-30",
+   "contract": "TermContrasts",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 17,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.2287,
+   "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+   "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+   "rows": 96,
+   "candidates": 67,
+   "refused": {
+    "quote not placed": 21,
+    "surface absent from document": 6,
+    "ambiguous quote: choose its passage": 1
+   },
+   "duplicates": 1,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "storyform"
+  },
+  {
+   "run": "termdefinitions-haiku-2026-09-30",
+   "contract": "TermDefinitions",
+   "model": "claude-cli/haiku",
+   "date": "2026-09-30",
+   "calls": 17,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.2006,
+   "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+   "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+   "rows": 68,
+   "candidates": 59,
+   "refused": {
+    "ambiguous quote: choose its passage": 3,
+    "surface absent from document": 2,
+    "quote not placed": 4
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "storyform"
+  }
+ ]
+}

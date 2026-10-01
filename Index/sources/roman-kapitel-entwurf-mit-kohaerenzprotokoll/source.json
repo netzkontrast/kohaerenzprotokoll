@@ -1,0 +1,60 @@
+{
+ "slug": "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
+ "sha256": "fa0e5119508189af79019997ebb9d667d30f4378e77a2ece0ee71b36cd7dd2f5",
+ "lines": 196,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Roman-Kapitel-Entwurf mit Kohärenzprotokoll",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Konsultationsbericht und Manuskriptentwurf: Weltgestaltung und Kapitel Eins des Kohärenz Protokolls",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Initialisierung und Systemdiagnostik",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Systemische und Narrative Analyse: Korrektur von Inkonsistenzen",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "Pacing-Korrektur und die Illusion der Kontrolle",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "Die Sabotage der Alltäglichkeit durch Lex",
+   "line": 29
+  },
+  {
+   "level": 3,
+   "title": "Thermodynamik der Simulation: Das Landauer-Prinzip",
+   "line": 35
+  },
+  {
+   "level": 2,
+   "title": "Stilistische Parametrisierung: Dual Kernel Theory",
+   "line": 41
+  },
+  {
+   "level": 1,
+   "title": "-----Kapitel Eins: Der Kristalline Käfig (Instrumente der Ordnung)",
+   "line": 57
+  },
+  {
+   "level": 2,
+   "title": "-----Zusammenfassende System-Evaluation",
+   "line": 165
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 171
+  }
+ ]
+}

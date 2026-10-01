@@ -1,0 +1,205 @@
+{
+ "slug": "spec-entwicklung-fuer-agentic-dramatica-roman",
+ "sha256": "b82fd8a0bb280e43f4b7234bd485a065608f7c11587679c80373dacbfe710813",
+ "lines": 593,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Spec-Entwicklung für Agentic Dramatica-Roman",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Spec-Driven Specification Artifact für agentic Dramatica-basierte Novel-Entwicklung",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Spec-Metadata",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Ontology — Dramatica Layer Schema (NCP-Integrated)",
+   "line": 24
+  },
+  {
+   "level": 2,
+   "title": "Choice-Space — Enumerated Valid Options Per Element",
+   "line": 115
+  },
+  {
+   "level": 2,
+   "title": "Interaction-Constraints — Welche Wahl beschränkt welche",
+   "line": 129
+  },
+  {
+   "level": 2,
+   "title": "Coherence-Invarianten",
+   "line": 143
+  },
+  {
+   "level": 2,
+   "title": "Contradiction-Detection (Drei Klassen)",
+   "line": 200
+  },
+  {
+   "level": 2,
+   "title": "Clarifying-Question Protocol",
+   "line": 213
+  },
+  {
+   "level": 2,
+   "title": "Phase-Definitions (Writing Process)",
+   "line": 257
+  },
+  {
+   "level": 3,
+   "title": "Phase 1: Storyforming (The Storyformer Agent)",
+   "line": 261
+  },
+  {
+   "level": 3,
+   "title": "Phase 2: Story Encoding (The Storyencoder Agent)",
+   "line": 279
+  },
+  {
+   "level": 3,
+   "title": "Phase 3: Storyweaving (The Storyweaver Agent)",
+   "line": 297
+  },
+  {
+   "level": 3,
+   "title": "Phase 4: Story Reception (The Storyreceptor Agent)",
+   "line": 315
+  },
+  {
+   "level": 2,
+   "title": "Working-State Schema & Context Engineering",
+   "line": 333
+  },
+  {
+   "level": 3,
+   "title": "Context Management Best Practices",
+   "line": 337
+  },
+  {
+   "level": 2,
+   "title": "Failure-Modes Catalog",
+   "line": 369
+  },
+  {
+   "level": 2,
+   "title": "Regression-Checks",
+   "line": 389
+  },
+  {
+   "level": 2,
+   "title": "Self-Verification Test Suite",
+   "line": 397
+  },
+  {
+   "level": 1,
+   "title": "----------Methodology Appendix",
+   "line": 406
+  },
+  {
+   "level": 2,
+   "title": "Architectural Decision Records (ADRs)",
+   "line": 410
+  },
+  {
+   "level": 3,
+   "title": "ADR-01: Spec-Format (Single-Artifact Mandat)",
+   "line": 412
+  },
+  {
+   "level": 3,
+   "title": "ADR-02: Phasen-Granularität und Linearität",
+   "line": 416
+  },
+  {
+   "level": 3,
+   "title": "ADR-03: Coherence-Validierungs-Zeitpunkt",
+   "line": 420
+  },
+  {
+   "level": 3,
+   "title": "ADR-04: Contradiction-Detection-Ansatz",
+   "line": 424
+  },
+  {
+   "level": 3,
+   "title": "ADR-05: Mental Sex vs. Storyform Alignment",
+   "line": 428
+  },
+  {
+   "level": 3,
+   "title": "ADR-06: Working-State-Repräsentation",
+   "line": 432
+  },
+  {
+   "level": 3,
+   "title": "ADR-07: Memory-Management-Pattern (Context Rot Mitigation)",
+   "line": 436
+  },
+  {
+   "level": 3,
+   "title": "ADR-08: Clarifying-Question-Interface",
+   "line": 440
+  },
+  {
+   "level": 2,
+   "title": "Reflection History (CONSTRAINT BLOCK 0)",
+   "line": 450
+  },
+  {
+   "level": 2,
+   "title": "Query Expansion Log (Method M13)",
+   "line": 483
+  },
+  {
+   "level": 2,
+   "title": "Cross-Pollination Logs",
+   "line": 490
+  },
+  {
+   "level": 3,
+   "title": "B → A (Surviving-Branch Triangulation)",
+   "line": 492
+  },
+  {
+   "level": 3,
+   "title": "C → A (Hypothesis Half-Life Audit)",
+   "line": 502
+  },
+  {
+   "level": 2,
+   "title": "Pre-Mortem-Analyse (Method M03)",
+   "line": 510
+  },
+  {
+   "level": 2,
+   "title": "Red-Team-Review (Method M09)",
+   "line": 525
+  },
+  {
+   "level": 2,
+   "title": "Contradiction Log",
+   "line": 551
+  },
+  {
+   "level": 2,
+   "title": "Falsifikations-Audit (Method M01)",
+   "line": 555
+  },
+  {
+   "level": 2,
+   "title": "Open Questions / Unresolved",
+   "line": 559
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 564
+  }
+ ]
+}

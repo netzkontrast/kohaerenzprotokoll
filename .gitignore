@@ -57,5 +57,13 @@ Plan/runs/*/census-draft.md
 # claims.py draft: code's working copy, reproducible; the reader saves the filled table as claims.md
 Plan/runs/*/claims-draft.md
 
-# novelgraph local environment
+# novelgraph: the uv venv, and the index's derived vectors, lex terms and concatenations (docs/novelgraph-index.md)
 .venv-novelgraph/
+Index/sources/*/vec/
+Index/sources/*/lex/
+Index/_build/
+Index/.lock
+Index/.building
+Index/**/.publish-*
+Index/**/*.tmp.npy
+Index/**/*.tmp

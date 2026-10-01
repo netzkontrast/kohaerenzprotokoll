@@ -1,0 +1,125 @@
+{
+ "slug": "plotanalyse-kohaerenz-protokoll-szenario",
+ "sha256": "1d706c9d35dab69ef632c742ba3735cfe874f6f45ac432c8ade728b44047d43b",
+ "lines": 356,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Plotanalyse: Kohärenz Protokoll Szenario",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Tiefenanalyse und Bewertung der Plot-Idee „Kohärenz Protokoll“: Das AEGIS/Monster(Kael/Juna)-Szenario",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "Zweckbestimmung des Berichts",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "Projektambition und Komplexität",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "Methodischer Überblick",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "II. Konzeptionelle Grundlagen und Plot-Integration",
+   "line": 27
+  },
+  {
+   "level": 3,
+   "title": "Überblick",
+   "line": 29
+  },
+  {
+   "level": 3,
+   "title": "Tabelle: Konzept-Plot-Verknüpfungsmatrix",
+   "line": 33
+  },
+  {
+   "level": 3,
+   "title": "Detaillierte Konzept-Exploration und Plot-Verknüpfung",
+   "line": 63
+  },
+  {
+   "level": 4,
+   "title": "A. AEGIS (Das System): Natur, Motivation, Methoden, Grenzen",
+   "line": 65
+  },
+  {
+   "level": 4,
+   "title": "B. M / Kael (Die Entität / Der Avatar): Natur, Fragmentierung, Integration",
+   "line": 76
+  },
+  {
+   "level": 4,
+   "title": "C. Kael-Juna-Verbindung (Der Moonshine-Link): Natur und Funktion",
+   "line": 97
+  },
+  {
+   "level": 4,
+   "title": "D. Setting und Welt: Potentialmeer & Kernwelten",
+   "line": 105
+  },
+  {
+   "level": 4,
+   "title": "E. Kernkonflikt & Themen: Integration vs. Fragmentierung",
+   "line": 121
+  },
+  {
+   "level": 2,
+   "title": "III. Analyse der Narrativen Stärken",
+   "line": 138
+  },
+  {
+   "level": 2,
+   "title": "IV. Analyse der Narrativen Schwächen und Implementierungsherausforderungen",
+   "line": 168
+  },
+  {
+   "level": 2,
+   "title": "V. Vergleichende Analyse und Lektionen",
+   "line": 180
+  },
+  {
+   "level": 2,
+   "title": "VI. Synthese und Abschließende Empfehlung",
+   "line": 221
+  },
+  {
+   "level": 3,
+   "title": "Synthese der Ergebnisse",
+   "line": 223
+  },
+  {
+   "level": 3,
+   "title": "Gesamtbewertung",
+   "line": 233
+  },
+  {
+   "level": 3,
+   "title": "Empfehlung",
+   "line": 237
+  },
+  {
+   "level": 3,
+   "title": "Abschließende Bemerkungen",
+   "line": 251
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 255
+  }
+ ]
+}

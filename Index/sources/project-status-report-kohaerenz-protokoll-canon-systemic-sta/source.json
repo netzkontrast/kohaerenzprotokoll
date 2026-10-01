@@ -1,0 +1,75 @@
+{
+ "slug": "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
+ "sha256": "e66ea6eb643f37b470091833d42bdc00f7b0e37a45040d48f0df7fae36085229",
+ "lines": 86,
+ "body_offset": 1,
+ "lang": "en",
+ "title": "Project Status Report: Kohärenz Protokoll — Canon & Systemic State",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Project Status Report: Kohärenz Protokoll — Canon & Systemic State",
+   "line": 1
+  },
+  {
+   "level": 4,
+   "title": "1. Executive Context & Methodology",
+   "line": 3
+  },
+  {
+   "level": 4,
+   "title": "2. HARD CANON: Finalized Narrative Pillars",
+   "line": 7
+  },
+  {
+   "level": 5,
+   "title": "Definitive Project Decisions",
+   "line": 11
+  },
+  {
+   "level": 5,
+   "title": "Canonical Truths vs. Narrative Implementation",
+   "line": 20
+  },
+  {
+   "level": 4,
+   "title": "3. WIDERSPRÜCHE: Systemic Discrepancies & Divergent Sources",
+   "line": 32
+  },
+  {
+   "level": 5,
+   "title": "Analytical Comparison & Resolutions",
+   "line": 36
+  },
+  {
+   "level": 4,
+   "title": "4. LÜCKEN: Identified Narrative & Architectural Gaps",
+   "line": 48
+  },
+  {
+   "level": 5,
+   "title": "Impact Assessments",
+   "line": 52
+  },
+  {
+   "level": 4,
+   "title": "5. TEXTFRAGMENTE: Inventory of Formulated Assets",
+   "line": 62
+  },
+  {
+   "level": 5,
+   "title": "Catalog of Narrative Assets",
+   "line": 66
+  },
+  {
+   "level": 5,
+   "title": "Tone Signature Mandate",
+   "line": 73
+  },
+  {
+   "level": 4,
+   "title": "6. NÄCHSTER SCHRITT: Strategic Roadmap to Coherence",
+   "line": 78
+  }
+ ]
+}

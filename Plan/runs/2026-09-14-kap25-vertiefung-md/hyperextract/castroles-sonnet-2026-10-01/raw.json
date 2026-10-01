@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "source": "Schutz-Anteil",
+      "target": "Aktionssystem",
+      "type": "function",
+      "quote": "Schutz-Anteil als Aktionssystem (Verteidigung)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Umgebung",
+      "target": "Antagonist",
+      "type": "role",
+      "quote": "Umgebung als Antagonist",
+      "stance": "cites"
+    }
+  ]
+}

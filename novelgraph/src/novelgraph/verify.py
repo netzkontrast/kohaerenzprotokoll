@@ -1,121 +1,184 @@
-"""Verify coverage, reproduction, source slices and exact vector concatenation."""
-import json
+"""`novelgraph verify`: what the index claims, re-measured against the files. Exit 1 on any failure.
+
+1. **coverage** — every landed manifest slug has an index entry, and nothing else has;
+2. **sources** — `source.json` and the index manifest hash to the file as it sits on disk;
+3. **chunks** — every range lies inside the file, every `sha` is the slice's sha1,
+   every id recomputes from its fields, and the chunker run again yields the same rows;
+   `lex/` holds the same ids in the same order;
+4. **vec** — each per-source matrix has one row per chunk and its `chunk_ids_hash` matches;
+5. **_build** — `rows.jsonl` is the concatenation of the chunk files in manifest order,
+   and the matrix and the FTS5 table have exactly that many rows.
+"""
+
+from __future__ import annotations
+
 import hashlib
+import json
 import sqlite3
+
 import numpy as np
-from . import repo
-from .chunking import chunk_id, sha, slice_text, make_chunks
-from .embedding import ids_hash
-from .index import EMBEDDER, read_json, lexical
+
+from . import chunkers, lex, store
+from .build import _title, build_stamp, build_stamp_path, vec_key
+from .repo import documents, manifest_rows, read_jsonl, refresh_documents
 
 
-def verify(index, method="heading@v1"):
-    with index.lock():
-        return _verify(index, method)
+def _matrix_problems(mat, dim) -> list[str]:
+    """float16, the recorded dimension, finite, every row of unit length (to float16 precision)."""
+    out = []
+    if mat.dtype != np.float16:
+        out.append(f"dtype {mat.dtype}, not float16")
+    if dim is not None and mat.ndim == 2 and mat.shape[1] != dim:
+        out.append(f"dimension {mat.shape[1]}, the metadata says {dim}")
+    if mat.size:
+        wide = np.asarray(mat, dtype=np.float32)
+        if not np.isfinite(wide).all():
+            out.append("non-finite values")
+        else:
+            norms = np.linalg.norm(wide, axis=1)
+            bad = int(np.sum((norms > 0) & (np.abs(norms - 1) > 5e-3)))
+            if bad:
+                out.append(f"{bad} rows are not unit length")
+    return out
 
 
-def _verify(index, method):
-    errors, expected_rows, expected_vectors, items = [], [], [], []
-    source_rows = repo.sources(index.root)
-    landed = [r for r in source_rows if r.get("export_path")]
-    unlanded = [r["slug"] for r in source_rows if not r.get("export_path")]
-    indexed = repo.read_jsonl(index.path / "manifest.jsonl") if (index.path / "manifest.jsonl").exists() else []
-    have = {r["slug"]: r for r in indexed}
-    if len(have) != len(indexed):
-        errors.append("duplicate Index manifest slug")
-    expected_slugs = {r["slug"] for r in landed}
-    if set(have) != expected_slugs:
-        errors.append(f"coverage: missing {sorted(expected_slugs - set(have))}; extra {sorted(set(have) - expected_slugs)}")
-    signature = index.fingerprint(method)
-    tokenizer = index.embedder(offline=True)
-    for source in landed:
-        slug = source["slug"]
-        try:
-            p = index.root / source["export_path"]
-            text = p.read_text(encoding="utf-8")
-            lines = text.split("\n")
-            actual = sha(text)
-            base = index.path / "sources" / slug
-            info = read_json(base / "source.json")
-            if actual != source.get("sha256") or actual != info["sha256"] or info["lines"] != len(lines):
-                errors.append(f"source checksum/lines: {slug}")
-            if have.get(slug) != dict(slug=slug, **{k: info[k] for k in ("sha256", "lines", "lang", "indexed_at")}):
-                errors.append(f"Index manifest/source metadata differ: {slug}")
-            cs = repo.read_jsonl(base / "chunks" / (method + ".jsonl"))
-            expected, tree = make_chunks(slug, source["title"], text, method, index.config["chunkers"][method], tokenizer.count)
-            if cs != expected or info["heading_tree"] != tree or info["title"] != source["title"]:
-                errors.append(f"fresh chunk derivation differs: {slug}")
-            covered = set()
-            for c in cs:
-                if set(c) != {"id", "line_start", "line_end", "heading_path", "sha", "tokens", "prefix"}:
-                    errors.append(f"invalid chunk fields: {slug}/{c.get('id')}")
-                a, b = c["line_start"], c["line_end"]
-                if not 1 <= a <= b <= len(lines):
-                    errors.append(f"out-of-range source lines: {slug}/{c['id']}")
-                    continue
-                content_sha = sha(slice_text(lines, a, b))
-                if c["sha"] != content_sha or c["id"] != chunk_id(slug, method, a, b, content_sha):
-                    errors.append(f"unreproducible chunk ID/hash: {slug}/{c['id']}")
-                covered.update(range(a, b + 1))
-            _, offset = repo.split_body(text)
-            if any(n not in covered for n in range(offset, len(lines) + 1) if lines[n - 1].strip()):
-                errors.append(f"nonempty source line has no chunk: {slug}")
-            lex = repo.read_jsonl(base / "lex" / (method + ".terms.jsonl"))
-            if lex != [lexical(slice_text(lines, c["line_start"], c["line_end"]), c) for c in cs]:
-                errors.append(f"lexical derivation differs: {slug}")
-            vp = base / "vec" / (method + "~" + EMBEDDER + ".f16.npy")
-            meta = read_json(base / "vec" / (method + "~" + EMBEDDER + ".json"))
-            matrix = np.load(vp, mmap_mode="r", allow_pickle=False)
-            if (matrix.shape != (len(cs), meta["dim"]) or matrix.dtype != np.float16
-                    or meta["signature"] != signature or meta["source_sha256"] != actual
-                    or meta["chunk_ids_hash"] != ids_hash([c["id"] for c in cs])):
-                errors.append(f"vector metadata/order mismatch: {slug}")
-            norms = np.linalg.norm(matrix.astype(np.float32), axis=1)
-            if not np.isfinite(matrix).all() or np.any((norms > 0) & (abs(norms - 1) > .003)):
-                errors.append(f"nonfinite/unnormalized vectors: {slug}")
-            if meta.get("input_hashes") != {c["id"]: sha(c["prefix"] + "\n" + slice_text(lines, c["line_start"], c["line_end"])) for c in cs}:
-                errors.append(f"embedding input mismatch: {slug}")
-            expected_rows += [dict(slug=slug, chunk_id=c["id"]) for c in cs]
-            expected_vectors.append(matrix)
-            items += [(slug, c, l, slice_text(lines, c["line_start"], c["line_end"])) for c, l in zip(cs, lex)]
-        except (OSError, ValueError, KeyError, IndexError) as exc:
-            errors.append(f"{slug}: {exc}")
-    base = index.path / "_build"
+@store.reader
+def verify(embedder: str | None = None, rechunk: bool = True) -> tuple[list[str], dict]:
     try:
-        rows = repo.read_jsonl(base / (method + "~" + EMBEDDER + ".rows.jsonl"))
-        matrix = np.load(base / (method + "~" + EMBEDDER + ".f16.npy"), mmap_mode="r", allow_pickle=False)
-        if rows != expected_rows or len(rows) != len(matrix) or matrix.dtype != np.float16:
-            errors.append("aggregate row/shape/order mismatch")
-        position = 0
-        for vectors in expected_vectors:
-            if not np.array_equal(matrix[position:position + len(vectors)], vectors):
-                errors.append("aggregate vector values differ from source cache")
-                break
-            position += len(vectors)
-        with sqlite3.connect(f"file:{base / (method + '.bm25.sqlite')}?mode=ro", uri=True) as db:
-            # Contentless FTS stores postings, not duplicated source text. Rebuild expected
-            # postings independently, then compare their ordered fingerprints.
-            expected = sqlite3.connect(":memory:")
-            try:
-                expected.execute("CREATE VIRTUAL TABLE chunks USING fts5(text,lemma,prefix,content='',tokenize='unicode61 remove_diacritics 2')")
-                expected.executemany("INSERT INTO chunks(rowid,text,lemma,prefix) VALUES (?,?,?,?)",
-                    ((i, text, l["surfaces"] + " " + l["lemmas"], c["prefix"])
-                     for i, (_, c, l, text) in enumerate(items, 1)))
-                def postings(connection):
-                    connection.execute("CREATE VIRTUAL TABLE temp.postings USING fts5vocab(main, chunks, instance)")
-                    digest = hashlib.sha256()
-                    for row in connection.execute("SELECT term,doc,col,offset FROM temp.postings ORDER BY term,doc,col,offset"):
-                        digest.update(json.dumps(row, ensure_ascii=False, separators=(",", ":")).encode())
-                        digest.update(b"\n")
-                    return digest.digest()
-                if (list(db.execute("SELECT rowid FROM chunks ORDER BY rowid")) != [(i,) for i in range(1, len(items) + 1)]
-                        or postings(db) != postings(expected)):
-                    errors.append("FTS postings or row ordering differs from source slices")
-            finally:
-                expected.close()
-    except (OSError, ValueError, sqlite3.Error) as exc:
-        errors.append(f"aggregate missing/invalid: {exc}")
-    return dict(method=method, landed=len(landed), manifest_total=len(source_rows), indexed=len(expected_slugs & set(have)),
-                landed_coverage=len(expected_slugs & set(have)) / len(landed) if landed else None,
-                total_coverage=len(expected_slugs & set(have)) / len(source_rows) if source_rows else None,
-                unlanded=unlanded, chunks=len(expected_rows), errors=errors, ok=not errors)
+        return _verify(embedder, rechunk)
+    except (OSError, ValueError, KeyError, IndexError, sqlite3.Error) as exc:
+        return [f"missing or invalid index artifact: {exc} — rebuild"], {
+            "coverage": "not completed", "catalogue": {"status": "not completed"}, "chunks": {}}
+
+
+def _verify(embedder=None, rechunk=True):
+    refresh_documents()
+    embedder = embedder or store.default_embedder()
+    fails, info = [], {}
+    docs = {d.slug: d for d in documents()}
+    manifest = {r["slug"]: r for r in read_jsonl(store.MANIFEST)} if store.MANIFEST.exists() else {}
+    missing, extra = sorted(set(docs) - set(manifest)), sorted(set(manifest) - set(docs))
+    info["coverage"] = f"{len(set(docs) & set(manifest))}/{len(docs)} landed sources indexed " \
+                       f"({100 * len(set(docs) & set(manifest)) / max(1, len(docs)):.1f} %)"
+    catalogue = manifest_rows()
+    info["catalogue"] = {"total": len(catalogue), "landed": len(docs),
+                         "indexed": len(set(docs) & set(manifest)),
+                         "unlanded": [r["slug"] for r in catalogue if r["slug"] not in docs]}
+    fails += [f"coverage: {s} is landed and not indexed" for s in missing]
+    fails += [f"coverage: {s} is indexed and not landed" for s in extra]
+    methods = store.chunkers()
+    counts = {m: 0 for m in methods}
+    for slug in sorted(set(docs) & set(manifest)):
+        doc = docs[slug]
+        raw = doc.path.read_bytes()
+        sha = hashlib.sha256(raw).hexdigest()
+        lines = raw.decode("utf-8").split("\n")
+        src = json.loads((store.source_dir(slug) / "source.json").read_text())
+        if not (sha == src["sha256"] == manifest[slug]["sha256"]):
+            fails.append(f"{slug}: file, source.json and manifest disagree on sha256 — rebuild")
+            continue
+        if src["lines"] != len(lines):
+            fails.append(f"{slug}: source.json says {src['lines']} lines, the file has {len(lines)}")
+        if manifest[slug].get("methods_stamp") != store.method_stamp():
+            fails.append(f"{slug}: stale method settings — rebuild")
+        parsed = chunkers.parse(lines, doc.offset) if rechunk else None
+        title = (_title(slug) or {}).get("title", slug)
+        for m, params in methods.items():
+            rows = read_jsonl(store.chunks_path(slug, m))
+            counts[m] += len(rows)
+            for r in rows:
+                if not 1 <= r["line_start"] <= r["line_end"] <= len(lines):
+                    fails.append(f"{slug} {m} {r['id']}: L{r['line_start']}–L{r['line_end']} outside 1–{len(lines)}")
+                    continue
+                if chunkers.content_sha(lines, r["line_start"], r["line_end"]) != r["sha"]:
+                    fails.append(f"{slug} {m} {r['id']}: the slice no longer hashes to sha")
+                if chunkers.chunk_id(slug, m, r["line_start"], r["line_end"], r["sha"]) != r["id"]:
+                    fails.append(f"{slug} {m} {r['id']}: id does not recompute")
+            if rechunk and chunkers.chunk(slug, title, lines, doc.offset, m, params, parsed) != rows:
+                fails.append(f"{slug} {m}: the chunker run again gives different rows")
+            if [x["id"] for x in read_jsonl(store.lex_path(slug, m))] != [r["id"] for r in rows]:
+                fails.append(f"{slug} {m}: lex ids differ from chunk ids")
+            expected_lex = [{"id": r["id"], "surfaces": lex.surfaces(t), "lemmata": lex.lemmata(t, src["lang"])}
+                            for r in rows for t in ["\n".join(lines[r["line_start"] - 1:r["line_end"]])]]
+            if read_jsonl(store.lex_path(slug, m)) != expected_lex:
+                fails.append(f"{slug} {m}: lexical derivation differs from source slices")
+            meta_p, vec_p = store.vec_meta_path(slug, m, embedder), store.vec_path(slug, m, embedder)
+            if not (meta_p.exists() and vec_p.exists()):
+                fails.append(f"{slug} {m}: no vectors for {embedder}")
+                continue
+            meta = json.loads(meta_p.read_text())
+            if meta["chunk_ids_hash"] != store.ids_hash([r["id"] for r in rows]) or \
+                    meta.get("keys") != [vec_key(r) for r in rows]:
+                fails.append(f"{slug} {m}: vectors are for other chunks or prefixes")
+            if meta.get("embedder_fp") != store.embedder_fp(embedder):
+                fails.append(f"{slug} {m}: vectors are from another embedder spec than methods.toml names")
+            mat = np.load(vec_p, mmap_mode="r")
+            if mat.shape[0] != len(rows):
+                fails.append(f"{slug} {m}: matrix rows differ from chunks")
+            fails += [f"{slug} {m}: {p}" for p in _matrix_problems(mat, meta.get("dim"))]
+    info["chunks"] = counts
+    order = [r["slug"] for r in read_jsonl(store.MANIFEST)] if store.MANIFEST.exists() else []
+    for m in methods:
+        rp, mp, bp = store.build_rows(m, embedder), store.build_matrix(m, embedder), store.build_bm25(m)
+        if not (rp.exists() and mp.exists() and bp.exists()):
+            fails.append(f"_build {m}: missing — run `novelgraph build`")
+            continue
+        rows = read_jsonl(rp)
+        expect = [(s, r["id"]) for s in order for r in read_jsonl(store.chunks_path(s, m))]
+        if [(r["slug"], r["id"]) for r in rows] != expect:
+            fails.append(f"_build {m}: rows.jsonl is not the concatenation of the chunk files")
+        big = np.load(mp, mmap_mode="r")
+        n = big.shape[0]
+        if n != len(rows):
+            fails.append(f"_build {m}: matrix has {n} rows, rows.jsonl {len(rows)}")
+        else:  # by value, block by block: the right shape with the wrong vectors is not a pass
+            k = 0
+            for s in order:
+                part = np.load(store.vec_path(s, m, embedder), mmap_mode="r")
+                if part.dtype != big.dtype or not np.array_equal(big[k:k + part.shape[0]], part):
+                    fails.append(f"_build {m}: rows {k}–{k + part.shape[0] - 1} differ from {s}'s vectors")
+                    break
+                k += part.shape[0]
+        fails += [f"_build {m}: {p}" for p in _matrix_problems(big, None)]
+        stamp_p = build_stamp_path(m, embedder)
+        try:
+            if not stamp_p.exists() or stamp_p.read_text().strip() != build_stamp(m, embedder)[0]:
+                fails.append(f"_build {m}: its stamp does not match the current index — run `novelgraph build`")
+        except SystemExit as e:
+            fails.append(f"_build {m}: {e}")
+        con = sqlite3.connect(f"{bp.resolve().as_uri()}?mode=ro", uri=True)
+        fts = con.execute("SELECT count(*), coalesce(min(rowid), 1), coalesce(max(rowid), 0) FROM chunks").fetchone()
+        if fts[1:] != (1, fts[0]):
+            fails.append(f"_build {m}: FTS5 rowids are not 1..{fts[0]}")
+        fts = fts[0]
+        expected = sqlite3.connect(":memory:")
+        try:
+            expected.execute("CREATE VIRTUAL TABLE chunks USING fts5(text, lemmata, content='', "
+                             "tokenize='unicode61 remove_diacritics 2')")
+            i = 0
+            for s in order:
+                lines = store.read_text_lines(docs[s].path)
+                lang = json.loads((store.source_dir(s) / "source.json").read_text())["lang"]
+                batch = []
+                for r in read_jsonl(store.chunks_path(s, m)):
+                    i += 1
+                    text = "\n".join(lines[r["line_start"] - 1:r["line_end"]])
+                    batch.append((i, r["prefix"] + "\n" + text, lex.expand(lex.lemmata(text, lang))))
+                expected.executemany("INSERT INTO chunks(rowid, text, lemmata) VALUES (?, ?, ?)", batch)
+            if _postings(con) != _postings(expected):
+                fails.append(f"_build {m}: FTS postings differ from source slices")
+        finally:
+            expected.close()
+        con.close()
+        if fts != len(rows):
+            fails.append(f"_build {m}: FTS5 has {fts} rows, rows.jsonl {len(rows)}")
+    return fails, info
+
+
+def _postings(con):
+    con.execute("CREATE VIRTUAL TABLE temp.postings USING fts5vocab(main, chunks, instance)")
+    digest = hashlib.sha256()
+    for row in con.execute("SELECT term,doc,col,offset FROM temp.postings ORDER BY term,doc,col,offset"):
+        digest.update(json.dumps(row, ensure_ascii=False, separators=(",", ":")).encode())
+        digest.update(b"\n")
+    return digest.digest()

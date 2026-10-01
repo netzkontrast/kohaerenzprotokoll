@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "source": "Benennungslock",
+      "target": "Kap 1–13",
+      "type": "locked",
+      "quote": "Der Benennungslock gilt für Kap 1–13.",
+      "stance": "asserts"
+    }
+  ]
+}

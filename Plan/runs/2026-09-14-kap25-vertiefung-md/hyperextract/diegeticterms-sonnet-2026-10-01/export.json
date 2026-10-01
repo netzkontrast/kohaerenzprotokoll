@@ -1,0 +1,17 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "fd0f0f1bd7ac7d9a599dd38ee8627c87bcfbfdf953de5913a8359d4916bcd3c7",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Wärmespur",
+        "target": "die vier Abende",
+        "type": "diegetic_form_of",
+        "quote": "Wärmespur nur als Rückverweis („die vier Abende“)",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

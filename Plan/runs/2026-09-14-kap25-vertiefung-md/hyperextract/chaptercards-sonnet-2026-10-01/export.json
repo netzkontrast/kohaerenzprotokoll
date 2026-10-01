@@ -1,0 +1,52 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Masterplan-Zeile 25",
+        "target": "zwei genuine Zukunftsverluste",
+        "type": "cost",
+        "quote": "Masterplan-Zeile 25 verlangt „zwei genuine Zukunftsverluste",
+        "stance": "cites"
+      },
+      {
+        "source": "Kap 26",
+        "target": "ihr Vorbeigehen an der Tür",
+        "type": "who",
+        "quote": "ihr Vorbeigehen an der Tür in Kap 26 ist vorbereitet",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 25",
+        "target": "Wartungsschächte",
+        "type": "place",
+        "quote": "Das löst den Canon-Weltanker für Kap 25 ein (KW3, Wartungsschächte, Anker 734 dritte Wiederkehr)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 25",
+        "target": "Kapitel 25 ist in keiner der beiden Dateien encodiert",
+        "type": "object",
+        "quote": "Kapitel 25 ist in keiner der beiden Dateien encodiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 25",
+        "target": "**Abwesenheit** des Klicks",
+        "type": "object",
+        "quote": "Kap 25 verwendet die **Abwesenheit** des Klicks lokal",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 25",
+        "target": "Treppenkopf, Wartungsebene",
+        "type": "place",
+        "quote": "Kap 25 löst KW3 jetzt **sensorisch** ein (Treppenkopf, Wartungsebene)",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "plot-generation-framework-for-the-coherence-protocol",
+ "sha256": "194698a6dc168804b27c3e83265b26159a3e5ad0dd08ed84670771253e253182",
+ "lines": 286,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "Plot Generation Framework for \"The Coherence Protocol\"",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Plot Generation Framework for \"The Coherence Protocol\"",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Part 1: The Narrative Mosaic (39 Interconnected Stories)",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "Act I: The Inner Journey of Integration (Stories 1-13)",
+   "line": 19
+  },
+  {
+   "level": 3,
+   "title": "Act II: The Cyclical Deconstruction (Stories 14-26)",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "Act III: The Outer Journey of Liberation (Stories 27-39)",
+   "line": 159
+  },
+  {
+   "level": 2,
+   "title": "Part 2: The Novel Plot (39 Chapters)",
+   "line": 229
+  },
+  {
+   "level": 3,
+   "title": "Act I: The Inner Journey (Chapters 1-13)",
+   "line": 233
+  },
+  {
+   "level": 3,
+   "title": "Act II: The Deconstruction (Chapters 14-26)",
+   "line": 251
+  },
+  {
+   "level": 3,
+   "title": "Act III: The Liberation (Chapters 27-39)",
+   "line": 269
+  }
+ ]
+}

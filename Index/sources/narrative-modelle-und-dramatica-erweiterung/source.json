@@ -1,0 +1,145 @@
+{
+ "slug": "narrative-modelle-und-dramatica-erweiterung",
+ "sha256": "5893fc9f5b9c2f218523883382a735d97c91ef190caa00fa3a74e14da3d2ee31",
+ "lines": 510,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Narrative Modelle und Dramatica-Erweiterung",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Von der Story Mind zur System Mind: Das Narrative Context Protocol als multidimensionale Erweiterung der Dramatica-Theorie",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Sektion 1: Das Dramatica-Framework: Ein Modell der Story Mind",
+   "line": 18
+  },
+  {
+   "level": 3,
+   "title": "1.1 Das zentrale Axiom: Die Geschichte als ein einziger Verstand",
+   "line": 26
+  },
+  {
+   "level": 3,
+   "title": "1.2 Die vier Throughlines: Die vier Perspektiven auf den Konflikt",
+   "line": 38
+  },
+  {
+   "level": 3,
+   "title": "1.3 Die Table of Story Elements: Eine Quad-basierte Ontologie der Erzählung",
+   "line": 55
+  },
+  {
+   "level": 3,
+   "title": "1.4 Anerkannte Grenzen und Kritikpunkte",
+   "line": 84
+  },
+  {
+   "level": 2,
+   "title": "Sektion 2: Das Narrative Context Protocol (NCP): Standardisierung der Autorenintention für ein generatives Zeitalter",
+   "line": 98
+  },
+  {
+   "level": 3,
+   "title": "2.1 Vom Universal Model (UNM) zum Narrative Protocol (NCP): Eine strategische Evolution",
+   "line": 106
+  },
+  {
+   "level": 3,
+   "title": "2.2 Die Kernphilosophie: Bewahrung der Autorenintention",
+   "line": 120
+  },
+  {
+   "level": 3,
+   "title": "2.3 Die MCP-Analogie: Ein „USB-C für Erzählungen“",
+   "line": 141
+  },
+  {
+   "level": 3,
+   "title": "2.4 Bewältigung der Herausforderungen der Standardisierung",
+   "line": 159
+  },
+  {
+   "level": 2,
+   "title": "Sektion 3: Anatomie der Storyform: Die Kerndatenstruktur des NCP",
+   "line": 177
+  },
+  {
+   "level": 3,
+   "title": "3.1 Die Storyform: Eine maschinenlesbare Blaupause der Bedeutung",
+   "line": 185
+  },
+  {
+   "level": 3,
+   "title": "3.2 Dynamics: Die übergeordnete thematische Absicht des Autors",
+   "line": 209
+  },
+  {
+   "level": 3,
+   "title": "3.3 Storypoints: Die räumliche Karte des Konflikts",
+   "line": 229
+  },
+  {
+   "level": 3,
+   "title": "3.4 Storybeats: Das zeitliche Entfalten der Handlung",
+   "line": 252
+  },
+  {
+   "level": 2,
+   "title": "Sektion 4: Analyse: Auf dem Weg zu einer multidimensionalen Erweiterung der Dramatica-Theorie",
+   "line": 294
+  },
+  {
+   "level": 3,
+   "title": "4.1 Dimension 1: Formalisierung und Berechenbarkeit (Vom Abstrakten zum Konkreten)",
+   "line": 302
+  },
+  {
+   "level": 3,
+   "title": "4.2 Dimension 2: Dynamische Thematik (Erweiterung der Ausdruckskraft des Modells)",
+   "line": 320
+  },
+  {
+   "level": 3,
+   "title": "4.3 Dimension 3: Agentenbasiertes Erzählen (Von einer einzelnen „Story Mind“ zu einer „System Mind“)",
+   "line": 339
+  },
+  {
+   "level": 3,
+   "title": "4.4 Dimension 4: Strukturelle Interoperabilität (Der „Rosetta-Stein“ der Erzählung)",
+   "line": 364
+  },
+  {
+   "level": 2,
+   "title": "Sektion 5: Praktische Implikationen und zukünftige Entwicklungen",
+   "line": 397
+  },
+  {
+   "level": 3,
+   "title": "5.1 Für Narrative Designer und Autoren",
+   "line": 405
+  },
+  {
+   "level": 3,
+   "title": "5.2 Für KI und Spieleentwicklung",
+   "line": 421
+  },
+  {
+   "level": 3,
+   "title": "5.3 Ungelöste Herausforderungen und philosophische Debatten",
+   "line": 437
+  },
+  {
+   "level": 2,
+   "title": "Schlussfolgerung: Ein neues Protokoll für narrative Kohärenz",
+   "line": 451
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 461
+  }
+ ]
+}

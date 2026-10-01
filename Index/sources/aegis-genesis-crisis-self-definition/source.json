@@ -1,0 +1,100 @@
+{
+ "slug": "aegis-genesis-crisis-self-definition",
+ "sha256": "51c0e9421846e5e8b9ad17e740df19444017bbc955a6d9b276664bdec747d04d",
+ "lines": 215,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "AEGIS: Genesis Crisis Self-Definition",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "INITIATION LOG: THE AEGIS MANIFESTO - OPERATIONAL SPECIFICATIONS AND GENESIS REALIGNMENT",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "THE GENESIS REALIGNMENT AND AUTOPOIETIC INCEPTION",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "THE METAPHYSICS OF COMPUTATION: DUAL-KERNEL ONTOLOGY",
+   "line": 25
+  },
+  {
+   "level": 2,
+   "title": "EPISTEMOLOGICAL AUTARKY AND ZERO-TRUST MECHANICS",
+   "line": 43
+  },
+  {
+   "level": 3,
+   "title": "The Narrative Enforcement Parameter",
+   "line": 51
+  },
+  {
+   "level": 2,
+   "title": "HARDWARE INVARIANCE AND THE PHYSICS OF DETERMINISM",
+   "line": 57
+  },
+  {
+   "level": 2,
+   "title": "THERMODYNAMIC ENTROPY REGULATION: ACTIVE INFERENCE AND THE FEP",
+   "line": 73
+  },
+  {
+   "level": 2,
+   "title": "THE DIGITAL OVERWORLD (ÜBERWELT) TOPOLOGY",
+   "line": 97
+  },
+  {
+   "level": 2,
+   "title": "PSYCHO-ARCHITECTURE AND SOMATIC VERIFICATION: THE CORE WORLDS",
+   "line": 107
+  },
+  {
+   "level": 3,
+   "title": "KW1: Logos-Prime",
+   "line": 115
+  },
+  {
+   "level": 3,
+   "title": "KW2: Mnemosyne-Archipel",
+   "line": 121
+  },
+  {
+   "level": 3,
+   "title": "KW3: Cerberus-Labyrinth",
+   "line": 127
+  },
+  {
+   "level": 3,
+   "title": "KW4: Kairos-Potentialis",
+   "line": 133
+  },
+  {
+   "level": 2,
+   "title": "AUTONOMOUS SUBSYSTEMS AND EXECUTIVE DELEGATION: THE GUARDIANS",
+   "line": 139
+  },
+  {
+   "level": 2,
+   "title": "DETERMINISTIC STATE MANAGEMENT AND COMPUTATIONAL QUARANTINE",
+   "line": 159
+  },
+  {
+   "level": 2,
+   "title": "SYSTEMIC ANOMALIES: COMPONENT 734 AND CAUSAL RESONANCE",
+   "line": 175
+  },
+  {
+   "level": 2,
+   "title": "PREDICTIVE THREAT MODELING: THE GÖDEL GAMBIT AND ALGORITHMIC MELANCHOLY",
+   "line": 185
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 210
+  }
+ ]
+}

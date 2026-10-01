@@ -1,0 +1,55 @@
+{
+ "slug": "welt",
+ "sha256": "6ef0d09febc77699c7bf0f54866a5527ee0db05646704f9ed9826d6a176a95d1",
+ "lines": 161,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Welt",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "I. Die Kernwelten (KW1-4): Psychische Landschaften und epistemologische Architekturen",
+   "line": 34
+  },
+  {
+   "level": 3,
+   "title": "II. Die Überwelt (Overworld): AEGIS' Domäne und das Epizentrum der Kontrolle",
+   "line": 66
+  },
+  {
+   "level": 3,
+   "title": "III. Die Externe Ebene: Das Unbekannte jenseits der Kontrolle",
+   "line": 73
+  },
+  {
+   "level": 3,
+   "title": "Die Kernwelten (KW1-4): Psychologische Architektur als simulierte Realität",
+   "line": 86
+  },
+  {
+   "level": 3,
+   "title": "Die Überwelt: AEGIS' Kontrollebene",
+   "line": 115
+  },
+  {
+   "level": 3,
+   "title": "Die Externe Ebene: Das Unbekannte Jenseits der Simulation",
+   "line": 124
+  },
+  {
+   "level": 3,
+   "title": "Das Potentialmeer: Der Urgrund der Existenz",
+   "line": 132
+  },
+  {
+   "level": 3,
+   "title": "Das Fundament: Der metaphysische Seinsgrund",
+   "line": 140
+  },
+  {
+   "level": 3,
+   "title": "Interaktionen und Dynamiken der Welten",
+   "line": 148
+  }
+ ]
+}

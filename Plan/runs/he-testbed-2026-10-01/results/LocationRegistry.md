@@ -22,4 +22,21 @@ The model returned no row on this document.
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1332, 47.4 s. **12 rows**: 0 candidates, 0 refused, 0 duplicates, 12 not staged.
+
+Staging refused the run: `candidate lacks nonempty string fields: source, target, type, quote, stance`
+
+| # | kind | status | name | level | source | function | characters | quote | lines |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | item | not staged | Station 7 |  |  |  | Einheit |  |  |
+| 2 | item | not staged | Platte 204 |  |  | Abzweigung | Kael |  |  |
+| 3 | item | not staged | Delta-Sieben |  |  |  | Kael |  |  |
+| 4 | item | not staged | KW3 |  | Canon-Weltanker für Kap 25 |  |  |  |  |
+| 5 | item | not staged | Schleusen des Misstrauens | KW3 | [S] — gefiltert: dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) nicht übernommen | Hintergrund für Kontrollpunkt-/Überwachungslogik |  |  |  |
+| 6 | item | not staged | Gänge der Paranoia | KW3 | [S] — gefiltert: dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) nicht übernommen | Hintergrund für Kontrollpunkt-/Überwachungslogik |  |  |  |
+| 7 | item | not staged | Panoptikum | KW3 | [S] — gefiltert: dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) nicht übernommen | Hintergrund für Kontrollpunkt-/Überwachungslogik |  |  |  |
+| 8 | item | not staged | Konstrukt-Stadt |  |  |  |  |  |  |
+| 9 | item | not staged | Datenknoten |  |  |  |  |  |  |
+| 10 | item | not staged | Wohneinheit 734 |  |  |  |  |  |  |
+| 11 | item | not staged | Treppenkopf | KW3 |  |  |  |  |  |
+| 12 | item | not staged | Wartungsebene | KW3 |  |  |  |  |  |

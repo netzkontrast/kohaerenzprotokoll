@@ -1,0 +1,30 @@
+{
+ "slug": "einleitung-genesis-der-existenz",
+ "sha256": "0a529121498683055a2ac4bc356d4a4c7734abcda733cec1f1865c65b18d5e21",
+ "lines": 198,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Einleitung: Genesis der Existenz",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Vorwort",
+   "line": 13
+  },
+  {
+   "level": 1,
+   "title": "Genesis",
+   "line": 29
+  },
+  {
+   "level": 2,
+   "title": "Dazwischen",
+   "line": 133
+  },
+  {
+   "level": 2,
+   "title": "Die Krise",
+   "line": 137
+  }
+ ]
+}

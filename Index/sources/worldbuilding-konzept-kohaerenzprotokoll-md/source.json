@@ -1,0 +1,275 @@
+{
+ "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+ "sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+ "lines": 969,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Worldbuilding_Konzept_KohärenzProtokoll.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "KOHÄRENZ PROTOKOLL — Worldbuilding-Konzept",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Grundprämisse",
+   "line": 27
+  },
+  {
+   "level": 2,
+   "title": "II. Die Physik: Dual-Kernel-Theorie als Naturgesetz",
+   "line": 47
+  },
+  {
+   "level": 3,
+   "title": "II.1 Die zwei Grundkräfte",
+   "line": 49
+  },
+  {
+   "level": 3,
+   "title": "II.2 Die große Inversion (das Skelett der zwei Storyforms)",
+   "line": 65
+  },
+  {
+   "level": 3,
+   "title": "II.3 Die Persistenzgleichung",
+   "line": 88
+  },
+  {
+   "level": 3,
+   "title": "II.4 Atemporalität als Generalschlüssel",
+   "line": 100
+  },
+  {
+   "level": 3,
+   "title": "II.5 Die Korrelat-Achse",
+   "line": 118
+  },
+  {
+   "level": 2,
+   "title": "III. AEGIS — Der tragische Gott",
+   "line": 162
+  },
+  {
+   "level": 3,
+   "title": "III.1 Identität und Genesis",
+   "line": 164
+  },
+  {
+   "level": 3,
+   "title": "III.2 Architektur (post-Reset, kanonisch)",
+   "line": 190
+  },
+  {
+   "level": 3,
+   "title": "III.3 AEGIS-Log-Format (verbindlich)",
+   "line": 221
+  },
+  {
+   "level": 3,
+   "title": "III.4 Schicksal: Algorithmische Melancholie",
+   "line": 261
+  },
+  {
+   "level": 2,
+   "title": "IV. Juna — Die, die nicht beschrieben wird",
+   "line": 277
+  },
+  {
+   "level": 3,
+   "title": "IV.1 Ontologie (B+C-Superposition)",
+   "line": 279
+  },
+  {
+   "level": 3,
+   "title": "IV.2 Doppelte IC-Funktion (asymmetrisch)",
+   "line": 302
+  },
+  {
+   "level": 3,
+   "title": "IV.3 Monstrous Moonshine als Brücke",
+   "line": 314
+  },
+  {
+   "level": 3,
+   "title": "IV.4 Die Witness-Funktion (drei Layer)",
+   "line": 338
+  },
+  {
+   "level": 3,
+   "title": "IV.5 Das Telefongespräch — der zentrale Anker",
+   "line": 352
+  },
+  {
+   "level": 3,
+   "title": "IV.6 Harte Regeln zur Darstellung",
+   "line": 372
+  },
+  {
+   "level": 2,
+   "title": "V. System Kael — Tertiäre Strukturelle Dissoziation",
+   "line": 384
+  },
+  {
+   "level": 3,
+   "title": "V.1 Architektur-Modell",
+   "line": 386
+  },
+  {
+   "level": 3,
+   "title": "V.2 Die 13 Alter (kanonisch)",
+   "line": 394
+  },
+  {
+   "level": 3,
+   "title": "V.3 Doppeltes Trauma — der doppelte Boden",
+   "line": 425
+  },
+  {
+   "level": 2,
+   "title": "VI. Lokalitäten — die sechs Realitätsebenen",
+   "line": 445
+  },
+  {
+   "level": 3,
+   "title": "VI.1 Strukturprinzip",
+   "line": 447
+  },
+  {
+   "level": 3,
+   "title": "VI.2 KW1 — Die Konstrukt-Stadt (Logos-Prime)",
+   "line": 455
+  },
+  {
+   "level": 3,
+   "title": "VI.3 KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)",
+   "line": 498
+  },
+  {
+   "level": 3,
+   "title": "VI.4 KW3 — Cerberus-Labyrinth (Grenzfeste)",
+   "line": 541
+  },
+  {
+   "level": 3,
+   "title": "VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)",
+   "line": 584
+  },
+  {
+   "level": 3,
+   "title": "VI.6 Die Überwelt — AEGIS' Maschinenraum",
+   "line": 626
+  },
+  {
+   "level": 3,
+   "title": "VI.7 Die Externe Ebene — Köln 2026",
+   "line": 648
+  },
+  {
+   "level": 3,
+   "title": "VI.8 Risse — Phänomenologie",
+   "line": 671
+  },
+  {
+   "level": 2,
+   "title": "VII. Computational-Class-Progression — die Struktur des Denkens",
+   "line": 694
+  },
+  {
+   "level": 2,
+   "title": "VIII. Philosophische Fundamente",
+   "line": 709
+  },
+  {
+   "level": 3,
+   "title": "VIII.1 Wahrheitstheorien (die epistemologische Achse)",
+   "line": 711
+  },
+  {
+   "level": 3,
+   "title": "VIII.2 Phänomenologie (Husserl, Metzinger)",
+   "line": 725
+  },
+  {
+   "level": 3,
+   "title": "VIII.3 Dialetheismus (Priest)",
+   "line": 729
+  },
+  {
+   "level": 3,
+   "title": "VIII.4 Autopoiesis (Maturana/Varela, Luhmann)",
+   "line": 733
+  },
+  {
+   "level": 3,
+   "title": "VIII.5 Existenzialphilosophie (Heidegger, Jaspers)",
+   "line": 737
+  },
+  {
+   "level": 3,
+   "title": "VIII.6 Mathematische Grundlagen",
+   "line": 741
+  },
+  {
+   "level": 2,
+   "title": "IX. Narrative Mechanik",
+   "line": 753
+  },
+  {
+   "level": 3,
+   "title": "IX.1 Lesersteuerung als oberstes Prinzip",
+   "line": 755
+  },
+  {
+   "level": 3,
+   "title": "IX.2 Polyphonie nach Akt",
+   "line": 763
+  },
+  {
+   "level": 3,
+   "title": "IX.3 Reader-as-Substrate (Iser)",
+   "line": 773
+  },
+  {
+   "level": 3,
+   "title": "IX.4 Genre-Modus",
+   "line": 791
+  },
+  {
+   "level": 2,
+   "title": "X. Vortex-Inversion (Ch35–36)",
+   "line": 799
+  },
+  {
+   "level": 2,
+   "title": "XI. Ouroboros-Struktur",
+   "line": 845
+  },
+  {
+   "level": 2,
+   "title": "XII. Negativ-Definition (was dieser Roman nicht ist)",
+   "line": 867
+  },
+  {
+   "level": 2,
+   "title": "XIII. Offene Punkte vor Phase 1 (Encoding)",
+   "line": 884
+  },
+  {
+   "level": 2,
+   "title": "XIV. Stilistische Konsequenzen für das Encoding",
+   "line": 902
+  },
+  {
+   "level": 2,
+   "title": "XV. Vier-Ebenen-Schreibmodus (latent in jeder Szene)",
+   "line": 924
+  },
+  {
+   "level": 2,
+   "title": "XVI. Zusammenfassung — der Pfad zum Storyweaving",
+   "line": 943
+  }
+ ]
+}

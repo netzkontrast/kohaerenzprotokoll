@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "source": "Packet",
+      "target": "Prosa",
+      "type": "before",
+      "quote": "Packet: Plan/sessions/2026-09-14-kap25-enrichment-packet.md (vor der Prosa ausgefüllt)",
+      "stance": "asserts"
+    },
+    {
+      "source": "sechsmal",
+      "target": "siebten Bestand",
+      "type": "before",
+      "quote": "sechsmal vor dem siebten Bestand",
+      "stance": "asserts"
+    }
+  ]
+}

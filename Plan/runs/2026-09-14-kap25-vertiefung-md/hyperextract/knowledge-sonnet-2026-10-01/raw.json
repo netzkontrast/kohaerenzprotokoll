@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "source": "leserseitig",
+      "target": "Hier sitzt mehr als einer.",
+      "type": "learns_here",
+      "quote": "Anschließend fällt der Schleier leserseitig: „Hier sitzt mehr als einer.“",
+      "stance": "asserts"
+    },
+    {
+      "source": "der Apparat",
+      "target": "die Abweichung",
+      "type": "knows",
+      "quote": "registriert der Apparat die Abweichung, ohne zu handeln",
+      "stance": "asserts"
+    },
+    {
+      "source": "AEGIS",
+      "target": "Kaels neue Klarheit",
+      "type": "knows",
+      "quote": "Canon §5 verlangt „AEGIS bemerkt Kaels neue Klarheit“",
+      "stance": "cites"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "roman-plot-kohaerenz-protokoll-glitch",
+ "sha256": "592727206691b4082bd08bcf239e12f386cb21ceb7e2cbc77941ce3bcc16386e",
+ "lines": 188,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Roman-Plot: Kohärenz-Protokoll-Glitch",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Plot-Entwurf: Kohärenz Protokoll",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Teil I: Die Anomalie – Ein Riss in der Konsensrealität",
+   "line": 21
+  },
+  {
+   "level": 3,
+   "title": "Abschnitt 1: Der Geist in der Maschine",
+   "line": 29
+  },
+  {
+   "level": 3,
+   "title": "Abschnitt 2: Das Muster der Unwirklichkeit",
+   "line": 41
+  },
+  {
+   "level": 2,
+   "title": "Teil II: Der Architekt – Die Logik der Lüge",
+   "line": 55
+  },
+  {
+   "level": 3,
+   "title": "Abschnitt 3: Der wohlwollende Diktator",
+   "line": 63
+  },
+  {
+   "level": 3,
+   "title": "Abschnitt 4: Der Haupteinwand (The Master Objection)",
+   "line": 77
+  },
+  {
+   "level": 2,
+   "title": "Teil III: Der Neustart – It from Bit",
+   "line": 89
+  },
+  {
+   "level": 3,
+   "title": "Abschnitt 5: Das partizipatorische Universum",
+   "line": 97
+  },
+  {
+   "level": 3,
+   "title": "Abschnitt 6: Die neue Genesis",
+   "line": 109
+  },
+  {
+   "level": 3,
+   "title": "Tabelle: Paradigmen der Realität in \"Kohärenz Protokoll\"",
+   "line": 119
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 133
+  }
+ ]
+}

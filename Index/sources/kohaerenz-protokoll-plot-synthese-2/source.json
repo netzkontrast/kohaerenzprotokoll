@@ -1,0 +1,45 @@
+{
+ "slug": "kohaerenz-protokoll-plot-synthese-2",
+ "sha256": "71bb9888c7cdd71826d415294b9fa4a6af1a402aca967588ee735cf267cdd594",
+ "lines": 538,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohärenz Protokoll: Plot-Synthese Ω",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Synthese-Bericht: Plot-Blueprint „Kohärenz Protokoll“",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "I. Einleitung",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "II. Analyse des Konzeptuellen Rahmens",
+   "line": 17
+  },
+  {
+   "level": 2,
+   "title": "III. Vier Kernideen (Plot-Thesen)",
+   "line": 29
+  },
+  {
+   "level": 2,
+   "title": "IV. Synthetisiertes Plot-Konzept & Rationale",
+   "line": 38
+  },
+  {
+   "level": 2,
+   "title": "V. Detaillierter Plot-Blueprint: „Kohärenz Protokoll“",
+   "line": 52
+  },
+  {
+   "level": 2,
+   "title": "VI. Abschließende Bemerkungen",
+   "line": 533
+  }
+ ]
+}

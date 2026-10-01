@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "source": "einer zweiten Spannung im selben Unterarm",
+      "target": "die Hand",
+      "type": "prevents",
+      "quote": "die Hand von selbst auf das Bestätigungsfeld — mit eigener Syntax (Verb vorn, keine Bedingung) und eigener Somatik (Schulter, Kiefer, flacher Atem) — und wird von einer zweiten Spannung im selben Unterarm gestoppt",
+      "stance": "asserts"
+    },
+    {
+      "source": "agency-Capability-Verben",
+      "target": "Provenienz",
+      "type": "prevents",
+      "quote": "Die agency-Capability-Verben standen in diesem Lauf nicht zur Verfügung (kein MCP-Server, keine agency-CLI im Container) — die Prüfung erfolgte manuell gegen die JSON-Dateien; Provenienz wurde daher **nicht** in .agency/session.db geschrieben.",
+      "stance": "asserts"
+    }
+  ]
+}

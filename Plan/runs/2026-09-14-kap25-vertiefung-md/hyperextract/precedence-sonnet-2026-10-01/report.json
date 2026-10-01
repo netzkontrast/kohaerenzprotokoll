@@ -1,0 +1,58 @@
+{
+  "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+  "template_sha256": "09ca6e661c880b20861881033e7b171370176d5245f5d41af8fbbfbd298019b3",
+  "input_rows": 2,
+  "candidates": 2,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:78b4a4383f3342aab7b2521790964c33e1fd005b5961897608d51cacd7ae31db",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Packet",
+        "target": "Prosa",
+        "type": "before",
+        "quote": "Packet: Plan/sessions/2026-09-14-kap25-enrichment-packet.md (vor der Prosa ausgefüllt)",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "Precedence",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "09ca6e661c880b20861881033e7b171370176d5245f5d41af8fbbfbd298019b3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3370c61c804e870f44100ae2425053bf5335ab624ddcca09ecf1ef968b0987ee",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "sechsmal",
+        "target": "siebten Bestand",
+        "type": "before",
+        "quote": "sechsmal vor dem siebten Bestand",
+        "stance": "asserts"
+      },
+      "document": "2026-09-14-kap25-vertiefung-md",
+      "template": "Precedence",
+      "source_sha256": "f0980ec2720a64af91288ba0724f2eb73b1835883160ed0af9f91f7b5de01901",
+      "template_sha256": "09ca6e661c880b20861881033e7b171370176d5245f5d41af8fbbfbd298019b3",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

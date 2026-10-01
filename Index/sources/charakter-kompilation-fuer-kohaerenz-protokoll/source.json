@@ -1,0 +1,40 @@
+{
+ "slug": "charakter-kompilation-fuer-kohaerenz-protokoll",
+ "sha256": "8254fae5eef77382dff363d3c3f61fb5e3d7034d7bd60be1f7da23ad82cc09b3",
+ "lines": 357,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Charakter-Kompilation für \"Kohärenz Protokoll\"",
+ "heading_tree": [
+  {
+   "level": 3,
+   "title": "Phase 1: Gefundene Dokumente",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "-----Phase 3: Konsolidierter Output",
+   "line": 42
+  },
+  {
+   "level": 4,
+   "title": "A) Charakter-Bibel",
+   "line": 44
+  },
+  {
+   "level": 4,
+   "title": "-----B) Beziehungsmatrix (System Kael)",
+   "line": 329
+  },
+  {
+   "level": 4,
+   "title": "-----C) Widerspruchs-Register",
+   "line": 343
+  },
+  {
+   "level": 4,
+   "title": "-----D) Lücken-Analyse",
+   "line": 350
+  }
+ ]
+}

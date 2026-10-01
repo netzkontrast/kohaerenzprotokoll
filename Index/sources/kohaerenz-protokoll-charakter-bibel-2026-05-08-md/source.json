@@ -1,0 +1,430 @@
+{
+ "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+ "sha256": "f5d12a6830ffdf0dfd86c428179ba9ecbc366e96c314dccfd5cf0b1e9a71a5a7",
+ "lines": 1309,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Kohaerenz_Protokoll_Charakter_Bibel_2026-05-08.md",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Kohärenz Protokoll — Charakter-Bibel",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "0. Lese-Anweisung",
+   "line": 19
+  },
+  {
+   "level": 2,
+   "title": "1. Welt-Architektur (das, was die Figuren nicht sind, aber bewohnen)",
+   "line": 42
+  },
+  {
+   "level": 2,
+   "title": "2. AEGIS — Der tragische Gott",
+   "line": 68
+  },
+  {
+   "level": 3,
+   "title": "2.1 Identität",
+   "line": 70
+  },
+  {
+   "level": 3,
+   "title": "2.2 Die Primal Directive",
+   "line": 78
+  },
+  {
+   "level": 3,
+   "title": "2.3 Das Kernparadoxon — Fehlausgerichtete Kohärenz",
+   "line": 100
+  },
+  {
+   "level": 3,
+   "title": "2.4 Die Genesis-Krise (3 Beats)",
+   "line": 115
+  },
+  {
+   "level": 3,
+   "title": "2.5 Drei Protokolle (von ursprünglich 12 reduziert)",
+   "line": 125
+  },
+  {
+   "level": 3,
+   "title": "2.6 AEGIS-Persönlichkeit / Stimme",
+   "line": 135
+  },
+  {
+   "level": 3,
+   "title": "2.7 Storyform-Funktion",
+   "line": 150
+  },
+  {
+   "level": 3,
+   "title": "2.8 AEGIS' Schicksal — Algorithmische Melancholie",
+   "line": 158
+  },
+  {
+   "level": 3,
+   "title": "2.9 Konsistenz-Anker für AEGIS",
+   "line": 170
+  },
+  {
+   "level": 2,
+   "title": "3. Mnemosyne (Erinnerungs-Wächterin)",
+   "line": 182
+  },
+  {
+   "level": 3,
+   "title": "3.1 Identität",
+   "line": 184
+  },
+  {
+   "level": 3,
+   "title": "3.2 Persönlichkeit / Haltung",
+   "line": 192
+  },
+  {
+   "level": 3,
+   "title": "3.3 Mnemosynes Versuchung",
+   "line": 200
+  },
+  {
+   "level": 3,
+   "title": "3.4 Storyform-Funktion",
+   "line": 204
+  },
+  {
+   "level": 3,
+   "title": "3.5 Konsistenz-Anker",
+   "line": 208
+  },
+  {
+   "level": 2,
+   "title": "4. Juna — Witness-Funktion und lebende Gödel-Aussage",
+   "line": 217
+  },
+  {
+   "level": 3,
+   "title": "4.1 Ontologie",
+   "line": 219
+  },
+  {
+   "level": 3,
+   "title": "4.2 Junas Erscheinungsregel — Negativräumlich",
+   "line": 233
+  },
+  {
+   "level": 3,
+   "title": "4.3 Der Moonshine-Link",
+   "line": 250
+  },
+  {
+   "level": 3,
+   "title": "4.4 Die Telefon-Stille (Block-4-Anker, abstrahiert)",
+   "line": 262
+  },
+  {
+   "level": 3,
+   "title": "4.5 Revelation-Timing",
+   "line": 274
+  },
+  {
+   "level": 3,
+   "title": "4.6 Konsistenz-Anker",
+   "line": 282
+  },
+  {
+   "level": 2,
+   "title": "5. Kael — Das System (Host und Gesamtarchitektur)",
+   "line": 294
+  },
+  {
+   "level": 3,
+   "title": "5.1 Identität",
+   "line": 296
+  },
+  {
+   "level": 3,
+   "title": "5.2 Kael als Host-ANP (im engeren Sinne)",
+   "line": 313
+  },
+  {
+   "level": 3,
+   "title": "5.3 Kael-Stimme (als Host)",
+   "line": 324
+  },
+  {
+   "level": 3,
+   "title": "5.4 Kael-DKT-Korrelat",
+   "line": 331
+  },
+  {
+   "level": 3,
+   "title": "5.5 Kael in den Storyforms",
+   "line": 335
+  },
+  {
+   "level": 3,
+   "title": "5.6 Konsistenz-Anker für Kael",
+   "line": 347
+  },
+  {
+   "level": 2,
+   "title": "6. Die ANPs (Apparently Normal Parts) — 5 Anteile",
+   "line": 358
+  },
+  {
+   "level": 3,
+   "title": "6.1 Lex (Rationalist)",
+   "line": 360
+  },
+  {
+   "level": 3,
+   "title": "6.2 Alex (Protektor)",
+   "line": 396
+  },
+  {
+   "level": 3,
+   "title": "6.3 Rhys (Caregiver)",
+   "line": 431
+  },
+  {
+   "level": 3,
+   "title": "6.4 Selene (Integrator / ISH)",
+   "line": 466
+  },
+  {
+   "level": 3,
+   "title": "6.5 Argus (Meta-Kognitiv) — Sonder-Kategorie",
+   "line": 500
+  },
+  {
+   "level": 2,
+   "title": "7. Die EPs (Emotional Parts) — 5 Anteile",
+   "line": 538
+  },
+  {
+   "level": 3,
+   "title": "7.1 Nyx (Fight)",
+   "line": 540
+  },
+  {
+   "level": 3,
+   "title": "7.2 Kiko (Freeze / Kind)",
+   "line": 576
+  },
+  {
+   "level": 3,
+   "title": "7.3 Lia (Ambivalent / Kind)",
+   "line": 612
+  },
+  {
+   "level": 3,
+   "title": "7.4 Isabelle (Sexualisiert / Fight-via-Control)",
+   "line": 647
+  },
+  {
+   "level": 3,
+   "title": "7.5 Moros (Kollaps)",
+   "line": 682
+  },
+  {
+   "level": 2,
+   "title": "8. Spiegel-Alters — Eigene Kategorie (weder ANP noch EP)",
+   "line": 720
+  },
+  {
+   "level": 3,
+   "title": "8.1 Silas (Juna-Echo)",
+   "line": 724
+  },
+  {
+   "level": 3,
+   "title": "8.2 Oblivion (AEGIS-Echo)",
+   "line": 760
+  },
+  {
+   "level": 2,
+   "title": "9. TSDP-Architektur — Wie das System gespalten ist",
+   "line": 801
+  },
+  {
+   "level": 3,
+   "title": "9.1 Kernmechanik",
+   "line": 803
+  },
+  {
+   "level": 3,
+   "title": "9.2 Cache-Kohärenz als Roman-Mechanik",
+   "line": 820
+  },
+  {
+   "level": 3,
+   "title": "9.3 Funktionale Multiplizität — niemals Final Fusion",
+   "line": 834
+  },
+  {
+   "level": 3,
+   "title": "9.4 Stilistische Konsequenzen",
+   "line": 846
+  },
+  {
+   "level": 3,
+   "title": "9.5 Konsistenz-Anker für TSDP-Schreiben",
+   "line": 852
+  },
+  {
+   "level": 2,
+   "title": "10. Sprach- und Stilarchitektur",
+   "line": 862
+  },
+  {
+   "level": 3,
+   "title": "10.1 Drei Stilebenen",
+   "line": 864
+  },
+  {
+   "level": 3,
+   "title": "10.2 Polyphonie-Entwicklung",
+   "line": 877
+  },
+  {
+   "level": 3,
+   "title": "10.3 Syntax-Differenzierung pro Alter",
+   "line": 883
+  },
+  {
+   "level": 3,
+   "title": "10.4 Fraktale Zeitstruktur",
+   "line": 907
+  },
+  {
+   "level": 3,
+   "title": "10.5 DKT als Naturgesetz, nicht Vokabular",
+   "line": 911
+  },
+  {
+   "level": 2,
+   "title": "11. Beziehungsmatrix (Wer triggert wen)",
+   "line": 921
+  },
+  {
+   "level": 2,
+   "title": "12. Riss-Mandate (Welcher Modus erzeugt welche Verzerrung)",
+   "line": 995
+  },
+  {
+   "level": 2,
+   "title": "13. Show-don't-Tell und Lesersteuerung",
+   "line": 1034
+  },
+  {
+   "level": 3,
+   "title": "13.1 Lesersteuerung als oberstes Gebot",
+   "line": 1036
+  },
+  {
+   "level": 3,
+   "title": "13.2 Drei Ebenen des Show-don't-Tell",
+   "line": 1044
+  },
+  {
+   "level": 3,
+   "title": "13.3 Distanzierte Intimität",
+   "line": 1056
+  },
+  {
+   "level": 3,
+   "title": "13.4 Die Egan-Falle",
+   "line": 1067
+  },
+  {
+   "level": 2,
+   "title": "14. Reader-Substrat-Funktion (Iser'sche Architektur)",
+   "line": 1075
+  },
+  {
+   "level": 3,
+   "title": "14.1 Drei Layer des Lesers",
+   "line": 1079
+  },
+  {
+   "level": 3,
+   "title": "14.2 Konkrete Mechanismen",
+   "line": 1088
+  },
+  {
+   "level": 2,
+   "title": "15. Foreshadowing-Architektur",
+   "line": 1104
+  },
+  {
+   "level": 3,
+   "title": "15.1 Fünf Stränge",
+   "line": 1106
+  },
+  {
+   "level": 3,
+   "title": "15.2 Ebenen-Konsistenz",
+   "line": 1118
+  },
+  {
+   "level": 3,
+   "title": "15.3 Twist-Vorbereitung",
+   "line": 1122
+  },
+  {
+   "level": 2,
+   "title": "16. Vortex-Architektur (Kap 35–36) — Klimax-Mechanik",
+   "line": 1134
+  },
+  {
+   "level": 3,
+   "title": "16.1 Fünf Beats",
+   "line": 1136
+  },
+  {
+   "level": 3,
+   "title": "16.2 Driver-Pivot-Mechanik",
+   "line": 1148
+  },
+  {
+   "level": 3,
+   "title": "16.3 Witness-Function-Layer im Klimax",
+   "line": 1158
+  },
+  {
+   "level": 2,
+   "title": "17. Konsistenz-Prinzipien für das Storyweaving",
+   "line": 1176
+  },
+  {
+   "level": 3,
+   "title": "17.1 Hard Rules (nicht-verhandelbar)",
+   "line": 1178
+  },
+  {
+   "level": 3,
+   "title": "17.2 Soft Guardrails (kontext-sensibel)",
+   "line": 1191
+  },
+  {
+   "level": 3,
+   "title": "17.3 Werkzeuge gegen Drift",
+   "line": 1198
+  },
+  {
+   "level": 2,
+   "title": "18. Offene Punkte (für die Encoding-Phase)",
+   "line": 1209
+  },
+  {
+   "level": 2,
+   "title": "19. Schluss-Bemerkung",
+   "line": 1270
+  }
+ ]
+}

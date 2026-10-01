@@ -1,0 +1,240 @@
+{
+ "slug": "the-coherence-protocol-a-narrative-mosaic",
+ "sha256": "1d299c1d255a3de636c1e455865bfccd36d3606521f1a48a6e7b9f694ce7ded4",
+ "lines": 307,
+ "body_offset": 10,
+ "lang": "en",
+ "title": "The Coherence Protocol: A Narrative Mosaic",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "The Coherence Protocol: A Narrative Mosaic",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "1.0 Introduction: The Architecture of a Fragmented Self",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "The Narrative Vectors: A Roster of Unique Perspectives",
+   "line": 17
+  },
+  {
+   "level": 2,
+   "title": "2.0 Part I: The Inner Journey to Wholeness (Stories 1-13)",
+   "line": 54
+  },
+  {
+   "level": 3,
+   "title": "2.1 Story 1",
+   "line": 58
+  },
+  {
+   "level": 3,
+   "title": "2.2 Story 2",
+   "line": 64
+  },
+  {
+   "level": 3,
+   "title": "2.3 Story 3",
+   "line": 70
+  },
+  {
+   "level": 3,
+   "title": "2.4 Story 4",
+   "line": 76
+  },
+  {
+   "level": 3,
+   "title": "2.5 Story 5",
+   "line": 82
+  },
+  {
+   "level": 3,
+   "title": "2.6 Story 6",
+   "line": 88
+  },
+  {
+   "level": 3,
+   "title": "2.7 Story 7",
+   "line": 94
+  },
+  {
+   "level": 3,
+   "title": "2.8 Story 8",
+   "line": 100
+  },
+  {
+   "level": 3,
+   "title": "2.9 Story 9",
+   "line": 106
+  },
+  {
+   "level": 3,
+   "title": "2.10 Story 10",
+   "line": 112
+  },
+  {
+   "level": 3,
+   "title": "2.11 Story 11",
+   "line": 118
+  },
+  {
+   "level": 3,
+   "title": "2.12 Story 12",
+   "line": 124
+  },
+  {
+   "level": 3,
+   "title": "2.13 Story 13",
+   "line": 130
+  },
+  {
+   "level": 2,
+   "title": "3.0 Part II: The Meta-Level & Conceptual Chaos (Stories 14-26)",
+   "line": 138
+  },
+  {
+   "level": 3,
+   "title": "3.1 Story 14",
+   "line": 142
+  },
+  {
+   "level": 3,
+   "title": "3.2 Story 15",
+   "line": 148
+  },
+  {
+   "level": 3,
+   "title": "3.3 Story 16",
+   "line": 154
+  },
+  {
+   "level": 3,
+   "title": "3.4 Story 17",
+   "line": 160
+  },
+  {
+   "level": 3,
+   "title": "3.5 Story 18",
+   "line": 166
+  },
+  {
+   "level": 3,
+   "title": "3.6 Story 19",
+   "line": 172
+  },
+  {
+   "level": 3,
+   "title": "3.7 Story 20",
+   "line": 178
+  },
+  {
+   "level": 3,
+   "title": "3.8 Story 21",
+   "line": 184
+  },
+  {
+   "level": 3,
+   "title": "3.9 Story 22",
+   "line": 190
+  },
+  {
+   "level": 3,
+   "title": "3.10 Story 23",
+   "line": 196
+  },
+  {
+   "level": 3,
+   "title": "3.11 Story 24",
+   "line": 202
+  },
+  {
+   "level": 3,
+   "title": "3.12 Story 25",
+   "line": 208
+  },
+  {
+   "level": 3,
+   "title": "3.13 Story 26",
+   "line": 214
+  },
+  {
+   "level": 2,
+   "title": "4.0 Part III: The Outer Journey of Liberation (Stories 27-39)",
+   "line": 222
+  },
+  {
+   "level": 3,
+   "title": "4.1 Story 27",
+   "line": 226
+  },
+  {
+   "level": 3,
+   "title": "4.2 Story 28",
+   "line": 232
+  },
+  {
+   "level": 3,
+   "title": "4.3 Story 29",
+   "line": 238
+  },
+  {
+   "level": 3,
+   "title": "4.4 Story 30",
+   "line": 244
+  },
+  {
+   "level": 3,
+   "title": "4.5 Story 31",
+   "line": 250
+  },
+  {
+   "level": 3,
+   "title": "4.6 Story 32",
+   "line": 256
+  },
+  {
+   "level": 3,
+   "title": "4.7 Story 33",
+   "line": 262
+  },
+  {
+   "level": 3,
+   "title": "4.8 Story 34",
+   "line": 268
+  },
+  {
+   "level": 3,
+   "title": "4.9 Story 35",
+   "line": 274
+  },
+  {
+   "level": 3,
+   "title": "4.10 Story 36",
+   "line": 280
+  },
+  {
+   "level": 3,
+   "title": "4.11 Story 37",
+   "line": 286
+  },
+  {
+   "level": 3,
+   "title": "4.12 Story 38",
+   "line": 292
+  },
+  {
+   "level": 3,
+   "title": "4.13 Story 39",
+   "line": 298
+  },
+  {
+   "level": 2,
+   "title": "5.0 Conclusion: The Emergent Whole",
+   "line": 304
+  }
+ ]
+}

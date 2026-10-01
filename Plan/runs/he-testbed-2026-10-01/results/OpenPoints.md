@@ -22,4 +22,14 @@ The model returned no row on this document.
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1181, 36.9 s. **7 rows**: 7 candidates, 0 refused, 0 duplicates.
+
+| # | kind | status | term | stance | quote | lines |
+|---|---|---|---|---|---|---|
+| 1 | reading | candidate | AEGIS-Benennung ab Akt II | asks | Soll der Name — und das Log-Format — irgendwo in Akt II leserseitig freigegeben werden, und wenn ja, ab welchem Kapitel? | 55 |
+| 2 | reading | candidate | Schleier-Benennung | asserts | Autorentscheid nötig. | 56 |
+| 3 | reading | candidate | Klick-Motiv-Budget | asks | Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material? | 57 |
+| 4 | reading | candidate | Header-Szenenplan | asks | Soll der Szenenplan in einem separaten Outline-Pass nachgezogen werden? | 58 |
+| 5 | reading | candidate | Einheit Station 7 | asks | Trägt sie in Akt III weiter (Kap 27/28) oder bleibt sie eine Delta-Sieben-Figur? | 59 |
+| 6 | reading | candidate | KW-Progression | asks | Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel), oder sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden? | 60 |
+| 7 | reading | candidate | Kernwelt-Mapping Akt II | hedges | Das ist die größte offene Frage des Laufs. | 60 |

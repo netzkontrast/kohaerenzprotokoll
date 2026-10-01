@@ -1,0 +1,170 @@
+{
+ "slug": "monstergruppe-narrative-cluster-und-metaphern",
+ "sha256": "b7a1cf8455a9769476e284291f34c745a73550e24f01f4a5a39c01df791e8ade",
+ "lines": 513,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Monstergruppe: Narrative Cluster und Metaphern",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Das Monster und seine Monde: Eine narrative und symmetrische Erkundung der größten sporadischen Gruppe",
+   "line": 11
+  },
+  {
+   "level": 2,
+   "title": "Abschnitt 1: Einführung: Das Enigma des Monsters",
+   "line": 13
+  },
+  {
+   "level": 3,
+   "title": "Kontext: Endliche einfache Gruppen und die sporadischen Ausnahmen",
+   "line": 15
+  },
+  {
+   "level": 3,
+   "title": "Vorstellung des Monsters (M): Ausmaß, Komplexität und Bedeutung",
+   "line": 23
+  },
+  {
+   "level": 3,
+   "title": "Die narrative Herausforderung: Von abstrakter Algebra zu metaphorischem Verständnis",
+   "line": 41
+  },
+  {
+   "level": 2,
+   "title": "Abschnitt 2: Enthüllung des Monsters: Mathematische Grundlagen",
+   "line": 45
+  },
+  {
+   "level": 3,
+   "title": "Definition, Ordnung und Kerneigenschaften von M",
+   "line": 47
+  },
+  {
+   "level": 3,
+   "title": "Die Griess-Algebra: Konstruktion des Monsters",
+   "line": 53
+  },
+  {
+   "level": 3,
+   "title": "Repräsentations-Herausforderungen: Hohe Dimensionen und minimale Darstellungen",
+   "line": 61
+  },
+  {
+   "level": 3,
+   "title": "Monstrous Moonshine: Eine Brücke zur Physik und Zahlentheorie",
+   "line": 73
+  },
+  {
+   "level": 2,
+   "title": "Abschnitt 3: Die \"Happy Family\" und die \"Pariahs\": Schlüsseluntergruppen des Monsters",
+   "line": 91
+  },
+  {
+   "level": 3,
+   "title": "Die Untergruppenlandschaft: Maximale Untergruppen und Subquotienten",
+   "line": 93
+  },
+  {
+   "level": 3,
+   "title": "Narrative Cluster von Schlüsseluntergruppen",
+   "line": 107
+  },
+  {
+   "level": 2,
+   "title": "Abschnitt 4: Metaphern für das Monströse: Analogien über Wissensdomänen hinweg",
+   "line": 201
+  },
+  {
+   "level": 3,
+   "title": "Suche nach Analogien",
+   "line": 203
+  },
+  {
+   "level": 3,
+   "title": "Clusterung von Metaphern",
+   "line": 261
+  },
+  {
+   "level": 3,
+   "title": "Entwicklung narrativer Beschreibungen",
+   "line": 276
+  },
+  {
+   "level": 2,
+   "title": "Abschnitt 5: Environmental Storytelling für abstrakte Strukturen",
+   "line": 300
+  },
+  {
+   "level": 3,
+   "title": "Kernprinzipien des Environmental Storytelling (ES)",
+   "line": 302
+  },
+  {
+   "level": 3,
+   "title": "Anpassung der Prinzipien für mathematische Konzepte",
+   "line": 318
+  },
+  {
+   "level": 3,
+   "title": "Regeln und Richtlinien für die narrative Umsetzung",
+   "line": 338
+  },
+  {
+   "level": 2,
+   "title": "Abschnitt 6: Die Essenz der Symmetrie: Ein tieferer Einblick",
+   "line": 363
+  },
+  {
+   "level": 3,
+   "title": "Symmetrie als Sprache der Gruppentheorie",
+   "line": 365
+  },
+  {
+   "level": 3,
+   "title": "Symmetrien des Monsters",
+   "line": 369
+  },
+  {
+   "level": 3,
+   "title": "Symmetrien innerhalb des Monsters (Interne Struktur)",
+   "line": 375
+  },
+  {
+   "level": 3,
+   "title": "Charakteristische Symmetrien von Untergruppen",
+   "line": 396
+  },
+  {
+   "level": 3,
+   "title": "Narratives Potenzial verschiedener Symmetrietypen",
+   "line": 406
+  },
+  {
+   "level": 2,
+   "title": "Abschnitt 7: Faszinierende Facetten und abschließende Gedanken",
+   "line": 416
+  },
+  {
+   "level": 3,
+   "title": "Hervorhebung faszinierender Eigenschaften",
+   "line": 418
+  },
+  {
+   "level": 3,
+   "title": "Synthese: Das Monster als Quelle narrativer Inspiration",
+   "line": 429
+  },
+  {
+   "level": 3,
+   "title": "Abschließende Bemerkungen zu mathematischer Schönheit und Mysterium",
+   "line": 441
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 447
+  }
+ ]
+}

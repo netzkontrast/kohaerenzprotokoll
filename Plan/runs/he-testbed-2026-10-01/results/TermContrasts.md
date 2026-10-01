@@ -28,4 +28,16 @@ Sonnet through `claude -p`, one run at a time (`run.sh`). Run directory: `Plan/r
 
 ## `2026-09-14-kap25-vertiefung-md`
 
-Not run yet.
+8 calls (0 failed), 8 chunks (0 without a valid reply), $0.1665, 64.5 s. **9 rows**: 7 candidates, 2 refused, 0 duplicates.
+
+| # | kind | status | source | target | type | stance | quote | lines |
+|---|---|---|---|---|---|---|---|---|
+| 1 | relation_reading | candidate | Entscheidung | Freeze | contrasts_with | asserts | Damit ist die Nicht-Handlung als **Entscheidung** lesbar statt als Freeze | 21 |
+| 2 | relation_reading | candidate | Eigennutz | Güte | contrasts_with | asserts | aus nachvollziehbarem **Eigennutz** (Restwertschwelle → Besuch der technischen Ebene), nicht aus Güte | 22 |
+| 3 | relation_reading | refused: quote not placed | Stehen an der Schwelle | der Tritt darüber | contrasts_with | asserts | „Stehen an der Schwelle“ gegen „der Tritt darüber“ (Kap 26) trennscharf |  |
+| 4 | relation_reading | candidate | daneben | darauf | contrasts_with | asserts | Finger daneben, nicht darauf | 25 |
+| 5 | relation_reading | refused: surface absent from document | 34 | 31 | contrasts_with | asserts | die Restzahl steht nach Schichtende bei 34 statt 31 | 25 |
+| 6 | relation_reading | candidate | Schwelle | Konfrontation | contrasts_with | asserts | Kap 25: Schwelle, nicht Konfrontation | 31 |
+| 7 | relation_reading | candidate | Aktionssystem | ANP-Alltagssystem | opposes | asserts | Schutz-Anteil als Aktionssystem (Verteidigung) gegen ANP-Alltagssystem | 40 |
+| 8 | relation_reading | candidate | gewollte Eskalationsstufe | vorweggenommenes Material | contrasts_with | asks | Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material? | 57 |
+| 9 | relation_reading | candidate | Filterregime | Ortswechsel | contrasts_with | asks | Filterregime statt Ortswechsel | 60 |

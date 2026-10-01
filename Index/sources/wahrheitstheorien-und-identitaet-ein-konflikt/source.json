@@ -1,0 +1,210 @@
+{
+ "slug": "wahrheitstheorien-und-identitaet-ein-konflikt",
+ "sha256": "805d21d0f4fe60c71ab0b7d77d990bf5ab84fc378921e5d630784d478a5fa056",
+ "lines": 463,
+ "body_offset": 10,
+ "lang": "de",
+ "title": "Wahrheitstheorien und Identität: Ein Konflikt",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Die Architektur der Wahrheit und das zerrissene Gewebe des Selbst: Eine philosophische Untersuchung von Korrespondenz, Kohärenz und der fragmentierten Realität der Identität",
+   "line": 13
+  },
+  {
+   "level": 2,
+   "title": "Teil I: Die Natur der Wahrheit: Zwei grundlegende Paradigmen",
+   "line": 18
+  },
+  {
+   "level": 3,
+   "title": "Die Korrespondenztheorie – Wahrheit als Spiegel der Realität",
+   "line": 26
+  },
+  {
+   "level": 4,
+   "title": "1.1 Definition des Grundprinzips: Adaequatio rei et intellectus",
+   "line": 34
+  },
+  {
+   "level": 4,
+   "title": "1.2 Der „Wahrmacher“: Die Trennung von Ontologie und Epistemologie",
+   "line": 42
+  },
+  {
+   "level": 4,
+   "title": "1.3 Historische Entwicklungslinien und Varianten",
+   "line": 52
+  },
+  {
+   "level": 4,
+   "title": "1.4 Fundamentale Kritiken: Die unüberbrückbare Kluft",
+   "line": 60
+  },
+  {
+   "level": 3,
+   "title": "Die Kohärenztheorie – Wahrheit als Netz der Überzeugungen",
+   "line": 72
+  },
+  {
+   "level": 4,
+   "title": "2.1 Definition des Grundprinzips: Die Priorität der internen Konsistenz",
+   "line": 80
+  },
+  {
+   "level": 4,
+   "title": "2.2 Das Spektrum der Kohärenz",
+   "line": 88
+  },
+  {
+   "level": 4,
+   "title": "2.3 Intellektuelle Herkunft",
+   "line": 96
+  },
+  {
+   "level": 4,
+   "title": "2.4 Inhärente Herausforderungen: Das System ohne Anker",
+   "line": 104
+  },
+  {
+   "level": 3,
+   "title": "Eine Gegenüberstellung und die Wende zur Praxis",
+   "line": 118
+  },
+  {
+   "level": 4,
+   "title": "3.1 Vergleichende Analyse",
+   "line": 126
+  },
+  {
+   "level": 4,
+   "title": "3.2 Alternative Ansätze als konzeptionelle Brücke",
+   "line": 145
+  },
+  {
+   "level": 2,
+   "title": "Teil II: Die Konstruktion des Selbst: Vom einheitlichen Subjekt zur fragmentierten Identität",
+   "line": 158
+  },
+  {
+   "level": 3,
+   "title": "Die moderne Konzeption eines einheitlichen Selbst",
+   "line": 166
+  },
+  {
+   "level": 4,
+   "title": "4.1 Das philosophische Problem der personalen Identität",
+   "line": 174
+  },
+  {
+   "level": 4,
+   "title": "4.2 Stuart Halls historischer Rahmen: Das zentrierte Subjekt",
+   "line": 182
+  },
+  {
+   "level": 3,
+   "title": "Die postmoderne Verfasstheit – Die De-Zentrierung und Fragmentierung des Subjekts",
+   "line": 195
+  },
+  {
+   "level": 4,
+   "title": "5.1 Das „postmoderne Subjekt“ und die Logik der Fragmentierung",
+   "line": 203
+  },
+  {
+   "level": 4,
+   "title": "5.2 Anti-Essentialismus, Anti-Realismus und Identitätspolitik",
+   "line": 211
+  },
+  {
+   "level": 4,
+   "title": "5.3 Die gelebte Erfahrung: Von der „Patchwork-Identität“ zum „Spiel mit Paradoxien“",
+   "line": 219
+  },
+  {
+   "level": 3,
+   "title": "Psychologische Dimensionen des „zerrissenen“ Selbst",
+   "line": 229
+  },
+  {
+   "level": 4,
+   "title": "6.1 Kognitive Dissonanz (Leon Festinger): Der Schmerz der Inkonsistenz",
+   "line": 237
+  },
+  {
+   "level": 4,
+   "title": "6.2 Selbstdiskrepanz-Theorie (E. Tory Higgins): Die Kluft im Inneren",
+   "line": 245
+  },
+  {
+   "level": 4,
+   "title": "6.3 Narrative Identität (Paul Ricoeur, Dan P. McAdams): Der Drang zur Kohärenz",
+   "line": 253
+  },
+  {
+   "level": 2,
+   "title": "Teil III: Synthese – Wahrheitsparadigmen als Deutungsrahmen für die Realität der Identität",
+   "line": 263
+  },
+  {
+   "level": 3,
+   "title": "Die „Korrespondenz-Identität“ und ihre Krisen",
+   "line": 271
+  },
+  {
+   "level": 4,
+   "title": "7.1 Identität als Korrespondenz: Die Suche nach Authentizität",
+   "line": 279
+  },
+  {
+   "level": 4,
+   "title": "7.2 Die „zerrissene“ Realität als Scheitern der Korrespondenz",
+   "line": 292
+  },
+  {
+   "level": 3,
+   "title": "Die „Kohärenz-Identität“ und die Macht des Narrativs",
+   "line": 305
+  },
+  {
+   "level": 4,
+   "title": "8.1 Identität als Kohärenz: Die narrative Konstruktion des Selbst",
+   "line": 313
+  },
+  {
+   "level": 4,
+   "title": "8.2 Die „zerrissene“ Realität als Scheitern der Kohärenz",
+   "line": 321
+  },
+  {
+   "level": 3,
+   "title": "Die zerrissene Realität navigieren – Pragmatische und diskursive Lösungsansätze",
+   "line": 332
+  },
+  {
+   "level": 4,
+   "title": "9.1 Ein pragmatischer Ansatz zur Identität: Wahrheit als das, was „funktioniert“",
+   "line": 340
+  },
+  {
+   "level": 4,
+   "title": "9.2 Ein diskursiver Ansatz zur Identität: Wahrheit als Anerkennung",
+   "line": 348
+  },
+  {
+   "level": 4,
+   "title": "9.3 Empfehlung: Ein hybrides Modell für eine hybride Welt",
+   "line": 356
+  },
+  {
+   "level": 2,
+   "title": "Schlussfolgerung",
+   "line": 368
+  },
+  {
+   "level": 4,
+   "title": "Referenzen",
+   "line": 376
+  }
+ ]
+}

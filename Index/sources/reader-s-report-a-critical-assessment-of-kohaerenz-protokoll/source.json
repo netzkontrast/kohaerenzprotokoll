@@ -1,0 +1,40 @@
+{
+ "slug": "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll",
+ "sha256": "d8926b84f8b520e57e9dd45b3f057c7ceb663067d5e7aa3f16fd278901188725",
+ "lines": 55,
+ "body_offset": 1,
+ "lang": "en",
+ "title": "Reader's Report: A Critical Assessment of \"Kohärenz Protokoll\"",
+ "heading_tree": [
+  {
+   "level": 1,
+   "title": "Reader's Report: A Critical Assessment of \"Kohärenz Protokoll\"",
+   "line": 1
+  },
+  {
+   "level": 3,
+   "title": "Foreword: On a Concept of Immense Ambition",
+   "line": 3
+  },
+  {
+   "level": 2,
+   "title": "1. Core Strengths: A Foundation of Exceptional Promise",
+   "line": 9
+  },
+  {
+   "level": 2,
+   "title": "2. Critical Weaknesses: Bridging the Gap from Concept to Compelling Narrative",
+   "line": 23
+  },
+  {
+   "level": 2,
+   "title": "3. Actionable Recommendations for Narrative Development",
+   "line": 39
+  },
+  {
+   "level": 2,
+   "title": "4. Concluding Assessment: The Path to Publication",
+   "line": 52
+  }
+ ]
+}
