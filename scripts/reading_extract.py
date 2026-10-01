@@ -50,15 +50,19 @@ def digest(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def native_extract(template: Path, text: str, ask) -> dict:
+def native_extract(template: Path, text: str, ask, log: list | None = None) -> dict:
     """One document, one template, one chunk after another (`hx.extract`); a chunk whose reply failed is dropped.
+    `log`, when given, receives one entry per chunk (its size, and whether its reply validated).
     Do not feed several documents into one run: each run is one document's record."""
     import hx
-    data, _ = hx.extract(hx.load(template), text, ask)
+    data, chunks = hx.extract(hx.load(template), text, ask)
+    if log is not None:
+        log.extend(chunks)
     return data
 
 
-def extract(template: Path, doc: Document, ask, extractor: str, text: str | None = None) -> dict:
+def extract(template: Path, doc: Document, ask, extractor: str, text: str | None = None,
+            log: list | None = None, keep: dict | None = None) -> dict:
     """Use from an approved, recorded provider adapter; never from auto-init.
 
     `text` is what the model is sent when it is less than the whole body (`hegraph.gate`: the paragraphs that hold a
@@ -67,7 +71,9 @@ def extract(template: Path, doc: Document, ask, extractor: str, text: str | None
     source_hash, template_hash = digest(doc.path), digest(template)
     if _split(doc.path.read_text(encoding="utf-8")) != (doc.body, doc.offset):
         raise ValueError("cached document changed; resolve it again before extraction")
-    data = native_extract(template, doc.body if text is None else text, ask)
+    data = native_extract(template, doc.body if text is None else text, ask, log)
+    if keep is not None:      # the merged data, kept even when the check below refuses it
+        keep["data"] = data
     candidates(data)  # a run whose every chunk failed merges to empty data
     if digest(doc.path) != source_hash or digest(template) != template_hash:
         raise ValueError("source or template changed during extraction")

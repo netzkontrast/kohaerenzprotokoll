@@ -1,0 +1,36 @@
+{
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+  "input_rows": 1,
+  "candidates": 0,
+  "refused": 1,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:9e04838f0c753b5935db7ea568fb0e4a8a6dd6eedb4a35e79811231c14598456",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Das Zuklappen des Buches",
+        "target": "Wärmetod des Universums (Entropie)",
+        "type": "metaphor_for",
+        "quote": "Das Zuklappen des Buches wird als der „Wärmetod des Universums“ (Entropie) geframt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Analogies",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        46
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Wärmetod des Universums (Entropie)"
+      ]
+    }
+  ]
+}

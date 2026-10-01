@@ -1,0 +1,17 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Das Zuklappen des Buches",
+        "target": "Wärmetod des Universums (Entropie)",
+        "type": "metaphor_for",
+        "quote": "Das Zuklappen des Buches wird als der „Wärmetod des Universums“ (Entropie) geframt.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

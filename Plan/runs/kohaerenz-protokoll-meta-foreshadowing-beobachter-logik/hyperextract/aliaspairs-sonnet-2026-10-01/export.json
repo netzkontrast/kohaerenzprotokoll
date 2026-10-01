@@ -1,0 +1,31 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "2ab69a976e90e2d2a89262f84fac6ba990f0e7f19ec962d838bc71e8b919d523",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Leser",
+        "target": "Beobachter",
+        "type": "same_as",
+        "quote": "den Leser (den Beobachter)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beobachters",
+        "target": "Lesers",
+        "type": "same_as",
+        "quote": "der Verstand des Beobachters (des Lesers)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Sonde",
+        "type": "role_of",
+        "quote": "Kael ist die Sonde, die der Leser in das Trauma geschickt hat.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

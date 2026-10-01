@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "source": "Kael",
+      "target": "Große Stille",
+      "type": "defines",
+      "quote": "Kael nennt dies die „Große Stille“.",
+      "stance": "cites"
+    },
+    {
+      "source": "AEGIS",
+      "target": "Primären Beobachtungs-Einheit",
+      "type": "claims",
+      "quote": "AEGIS spricht in seinen Statusberichten oft von der „Primären Beobachtungs-Einheit“ oder dem „Externen Taktgeber“.",
+      "stance": "cites"
+    }
+  ]
+}

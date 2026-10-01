@@ -1,0 +1,3 @@
+{"ok": true, "seconds": 7.54, "input": 4365, "output": 661, "cost_usd": 0.0244382}
+{"ok": true, "seconds": 10.31, "input": 4430, "output": 1136, "cost_usd": 0.026223200000000002}
+{"ok": true, "seconds": 3.4, "input": 3510, "output": 8, "cost_usd": 0.010574199999999999}

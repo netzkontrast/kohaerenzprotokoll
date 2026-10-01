@@ -1,0 +1,35 @@
+06:34:24 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik AliasPairs
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "AliasPairs.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 21.2, "input_tokens": 12305, "output_tokens": 1805, "cost_usd": 0.0612, "approval": "decision 011 (Claude, first party); the 
+06:34:46 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Analogies
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Analogies.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 17.0, "input_tokens": 12335, "output_tokens": 1153, "cost_usd": 0.0517, "approval": "decision 011 (Claude, first party); the a
+06:35:03 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Anchors
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Anchors.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 15.7, "input_tokens": 12299, "output_tokens": 925, "cost_usd": 0.0492, "approval": "decision 011 (Claude, first party); the auth
+06:35:19 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Attributions
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Attributions.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 16.5, "input_tokens": 12070, "output_tokens": 1087, "cost_usd": 0.0498, "approval": "decision 011 (Claude, first party); th
+06:35:36 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik CardFields
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "CardFields.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 23.2, "input_tokens": 12734, "output_tokens": 2150, "cost_usd": 0.0634, "approval": "decision 011 (Claude, first party); the 
+06:36:00 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik CastRoles
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "CastRoles.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 15.7, "input_tokens": 11978, "output_tokens": 1111, "cost_usd": 0.0496, "approval": "decision 011 (Claude, first party); the a
+06:36:16 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik CausalLinks
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "CausalLinks.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 31.7, "input_tokens": 12239, "output_tokens": 3326, "cost_usd": 0.0729, "approval": "decision 011 (Claude, first party); the
+06:36:48 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik ChapterBeats
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "ChapterBeats.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 17.2, "input_tokens": 11984, "output_tokens": 1125, "cost_usd": 0.0498, "approval": "decision 011 (Claude, first party); th
+06:37:06 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik ChapterCards
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "ChapterCards.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 14.5, "input_tokens": 12243, "output_tokens": 759, "cost_usd": 0.0472, "approval": "decision 011 (Claude, first party); the
+06:37:20 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik DiegeticTerms
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "DiegeticTerms.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 18.7, "input_tokens": 11862, "output_tokens": 1361, "cost_usd": 0.0515, "approval": "decision 011 (Claude, first party); t
+06:37:39 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik EntityFacts
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "EntityFacts.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 19.8, "input_tokens": 12172, "output_tokens": 1856, "cost_usd": 0.0579, "approval": "decision 011 (Claude, first party); the
+06:38:00 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Knowledge
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Knowledge.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 33.0, "input_tokens": 12297, "output_tokens": 3253, "cost_usd": 0.0725, "approval": "decision 011 (Claude, first party); the a
+06:38:33 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik LocationRegistry
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "LocationRegistry.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 11.3, "input_tokens": 11607, "output_tokens": 272, "cost_usd": 0.0395, "approval": "decision 011 (Claude, first party);
+06:38:45 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Locks
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Locks.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 9.0, "input_tokens": 11807, "output_tokens": 24, "cost_usd": 0.0379, "approval": "decision 011 (Claude, first party); the author's
+06:38:54 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik OpenPoints
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "OpenPoints.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 11.9, "input_tokens": 11673, "output_tokens": 250, "cost_usd": 0.0395, "approval": "decision 011 (Claude, first party); the a
+06:39:06 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Pitch
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Pitch.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 14.0, "input_tokens": 11907, "output_tokens": 449, "cost_usd": 0.0426, "approval": "decision 011 (Claude, first party); the author
+06:39:21 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Precedence
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Precedence.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 15.1, "input_tokens": 12033, "output_tokens": 813, "cost_usd": 0.0468, "approval": "decision 011 (Claude, first party); the a
+06:39:36 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik ProseRules
