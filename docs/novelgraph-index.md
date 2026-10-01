@@ -122,6 +122,11 @@ den CI-Selbsttest mit den Markdown-Dateien der installierten Pakete rot.
 | **FTS5 contentless** (`content=''`, rowid = Matrixzeile + 1) | Mit gespeichertem Text war `_build/` 260 MB; der Text ist ohnehin ein Slice der Source. Jetzt 82 MB. |
 | **Modell gepinnt** auf Revision `73908c3` und lokal zuerst geladen | Ein Modellwechsel unter demselben Namen würde stumm andere Vektoren erzeugen. |
 | **Der Zeilenschnitt prüft auch `max`** | Ein langer Absatz wurde zwischen Zeilen geschnitten, aber erst ab 350 Tokens gegen das Ziel 450 geprüft, nie gegen 600 — fünf Chunks lagen über `max`, obwohl sie teilbar waren (z. B. 279 + 312 + 110 …). Gefunden beim Prüfen der eigenen Größentabelle; jetzt ein Selbsttest. |
+| **Review vom 2026-10-01 (vier Befunde, alle reproduziert, alle behoben, jeder als Negativ-Fixture in `novelgraph selftest`)** | Jede Fixture wurde gegen den Code ohne ihre Korrektur laufen gelassen und schlug dort fehl. |
+| ↳ P1 **Stale Quellen** | `search.Index` verweigert das Öffnen, wenn eine gelandete Source nicht mehr auf ihren indexierten sha256 hasht, wenn Index und gelandete Sources verschiedene Slugs haben, oder wenn `_build/` nicht die Konkatenation des aktuellen Index ist (Stempel). Vor jedem Treffer: geänderte Datei (Stat) → neu hashen → bei Abweichung Abbruch. `show()` prüft zusätzlich den sha1 jedes angezeigten Slices gegen den des Chunks. |
+| ↳ P1 **Embedder-Revision** | `store.embedder_fp` = Hash des ganzen Registry-Eintrags (Modell, Revision, Eingabe, Normierung, dtype). Er steht im Vektor-Meta, gehört zum Skip, zur Wiederverwendung einzelner Vektoren, zum `_build/`-Stempel und zu `verify`; das Modell wird nach ihm gecacht, nicht nach dem Alias. Revision A→B: alle Chunks neu eingebettet, keiner übernommen. |
+| ↳ P2 **`verify` nach Werten** | Die Gesamtmatrix wird blockweise mit den Matrizen der Sources verglichen (`array_equal`); dazu dtype float16, Dimension, endliche Werte und Einheitslänge jeder Zeile, in beiden Matrizen. Der `_build/`-Stempel enthält jetzt die Vektor-Schlüssel (ID + Präfix) statt nur der Chunk-IDs. |
+| ↳ P2 **Tabellen ohne äußere Pipes** | `chunkers.table_lines` erkennt Tabellen nach GFM (Kopfzeile mit `\|`, Trennzeile, dann jede nicht leere Zeile mit `\|`) und weiterhin Läufe von `\|`-Zeilen; die Regel steht in `methods.toml`. Im Korpus verschiebt sie keinen Chunk (dieselben 15 339 IDs). |
 | **Sources werden für den Inkrement-Test nicht verändert** | `Sources/drive/` ist unveränderlich; der Test lief auf einer Kopie des Repositorys im Scratchpad (Kriterium 3). |
 
 **Sprache.** `de` bei einer deutschen Stoppwort-Mehrheit von mehr als 2 : 1, `en` umgekehrt, sonst `mixed` — die Reihenfolge der
@@ -139,10 +144,10 @@ Gemessen am 2026-10-01 in einem Cloud-Container (4 CPUs, 15 GB), auf dem Korpus 
 
 | # | Kriterium | Ziel | gemessen | |
 |---|---|---|---|---|
-| 1 | voller Build, `verify` grün, Coverage | fehlerfrei, 100 % | voller Build mit `--force` 2 min 39 s (586 Sources, 31 366 Chunks eingebettet), `verify` ok, **586/586 = 100 %** | ✓ |
-| 2 | Rebuild ohne Änderung | < 10 s, 0 Chunks eingebettet | **1,0–1,2 s**, 0 eingebettet, 1758 von 1758 Source×Methode übersprungen | ✓ |
-| 3 | eine Source geändert | nur sie neu eingebettet | auf einer Kopie, eine Zeile von `2-kohaerenz-protokoll-konzeptentwicklung` verlängert: 1 Source neu gechunkt, **3 Chunks eingebettet** (einer pro Methode), 92 Vektoren übernommen, 1755 übersprungen; 25 s gesamt, fast ganz Modellladen und der Neuaufbau von `_build/` (alle drei Methoden) | ✓ |
-| 4 | Latenz `search` hybrid, warm, 50 Anfragen | P50/P95 < 100 ms | `heading@v1` **P50 4,7 ms, P95 28,5 ms** (max 43); `section@v1` 1,9 / 9,9; `window400@v1` 6,3 / 47,4 | ✓ |
+| 1 | voller Build, `verify` grün, Coverage | fehlerfrei, 100 % | voller Neu-Einbettungslauf nach der Review 2 min 44 s (586 Sources, 31 366 Chunks eingebettet), `verify` ok, **586/586 = 100 %** | ✓ |
+| 2 | Rebuild ohne Änderung | < 10 s, 0 Chunks eingebettet | **1,0–1,4 s**, 0 eingebettet, 1758 von 1758 Source×Methode übersprungen | ✓ |
+| 3 | eine Source geändert | nur sie neu eingebettet | auf einer Kopie, eine Zeile von `2-kohaerenz-protokoll-konzeptentwicklung` verlängert: 1 Source neu gechunkt, **3 Chunks eingebettet** (einer pro Methode), 92 Vektoren übernommen, 1755 übersprungen; 23 s gesamt (nach der Review erneut gemessen), fast ganz Modellladen und der Neuaufbau von `_build/` (alle drei Methoden) | ✓ |
+| 4 | Latenz `search` hybrid, warm, 50 Anfragen | P50/P95 < 100 ms | `heading@v1` **P50 5,5 ms, P95 29,4 ms** (max 40); `section@v1` 2,1 / 10,6; `window400@v1` 5,1 / 30,5 — mit den Freshness-Prüfungen der Review; das Öffnen hasht alle 586 Sources (0,18 s) | ✓ |
 | 5 | Recall@8 je Modus und Chunker | berichten | Tabelle unten | — |
 | 6 | Größen | berichten | Tabelle unten | — |
 

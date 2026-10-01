@@ -77,7 +77,32 @@ def _span(lines: list[Line], path: tuple) -> dict:
             "heading_path": list(path), "tokens": sum(ln.tokens for ln in content)}
 
 
-def _blocks(section: list[Line]) -> list[list[Line]]:
+DELIMITER = re.compile(r"^\s*\|?\s*:?-+:?\s*(\|\s*:?-+:?\s*)*\|?\s*$")
+
+
+def table_lines(lines: list[Line]) -> set[int]:
+    """The file lines that belong to a table, by GFM's rule: a header row with a `|`, a delimiter row
+    (`--- | :---:`, outer pipes optional), then every following non-blank row with a `|`. A run of lines
+    starting with `|` counts too (the Drive export's tables). A table is never split."""
+    out = set()
+    i = 0
+    while i < len(lines):
+        ln = lines[i]
+        if not ln.heading and ln.text.lstrip().startswith("|"):
+            out.add(ln.n)
+        elif (i + 1 < len(lines) and "|" in ln.text and not ln.heading
+              and "|" in lines[i + 1].text and DELIMITER.match(lines[i + 1].text)):
+            j = i
+            while j < len(lines) and lines[j].text.strip() and "|" in lines[j].text and not lines[j].heading:
+                out.add(lines[j].n)
+                j += 1
+            i = j
+            continue
+        i += 1
+    return out
+
+
+def _blocks(section: list[Line], tables: set[int]) -> list[list[Line]]:
     """Paragraphs (lines up to a blank line) and tables (runs of `|` lines), in order.
     A heading line is glued to the block after it, so no chunk ends on a bare heading."""
     blocks, cur, cur_table = [], [], None
@@ -87,7 +112,7 @@ def _blocks(section: list[Line]) -> list[list[Line]]:
                 blocks.append(cur)
             cur, cur_table = [], None
             continue
-        is_table = ln.text.lstrip().startswith("|")
+        is_table = ln.n in tables
         if cur and cur_table is not None and is_table != cur_table and not cur[-1].heading:
             blocks.append(cur)
             cur = []
@@ -104,12 +129,13 @@ def _blocks(section: list[Line]) -> list[list[Line]]:
     return glued
 
 
-def _is_table(block: list[Line]) -> bool:
-    return all(ln.text.lstrip().startswith("|") for ln in block if not ln.heading)
+def _is_table(block: list[Line], tables: set[int]) -> bool:
+    return all(ln.n in tables for ln in block if not ln.heading)
 
 
 def heading_v1(lines: list[Line], p: dict) -> list[dict]:
     lo, hi, mn, mx = p["target_min"], p["target_max"], p["min"], p["max"]  # noqa: E741
+    tables = table_lines(lines)
     sections: list[list[Line]] = []
     for ln in lines:
         if ln.heading or not sections:
@@ -118,10 +144,10 @@ def heading_v1(lines: list[Line], p: dict) -> list[dict]:
     units: list[Unit] = []
     for sec in sections:
         first_in_section = True
-        for block in _blocks(sec):
+        for block in _blocks(sec, tables):
             content = [ln for ln in block if ln.text.strip()]
             total = sum(ln.tokens for ln in content)
-            if total <= hi or _is_table(block):
+            if total <= hi or _is_table(block, tables):
                 pieces = [content]
             else:  # a block over the target is cut between lines, a heading kept with what follows
                 pieces, cur, n = [], [], 0

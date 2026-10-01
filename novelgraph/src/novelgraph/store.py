@@ -41,6 +41,13 @@ def method_stamp() -> str:
     return hashlib.sha1(blob.encode()).hexdigest()[:12]
 
 
+def embedder_fp(name: str) -> str:
+    """The embedder as the vectors depend on it: its whole registry entry (model, revision, input, normalisation,
+    dtype) and the name. Changing any of them invalidates every vector made under the old one."""
+    blob = json.dumps({"name": name, **embedders()[name]}, sort_keys=True)
+    return hashlib.sha1(blob.encode()).hexdigest()[:12]
+
+
 def source_dir(slug: str) -> Path:
     return SOURCES / slug
 

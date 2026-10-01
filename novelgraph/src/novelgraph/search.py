@@ -7,6 +7,7 @@ A hit is a line range of a source; its text is sliced from the file, never store
 
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sqlite3
@@ -14,15 +15,25 @@ from functools import lru_cache
 
 import numpy as np
 
-from . import build, lex, store
-from .repo import read_jsonl
+from . import build, chunkers, lex, store
+from .repo import documents, read_jsonl
 
 MODES = ("bm25", "vec", "hybrid")
 QWORD = re.compile(r"[^\W_][\w]*", re.UNICODE)
 
 
+class Stale(SystemExit):
+    """The index no longer describes the files: a hit would cite lines that now say something else."""
+
+
 class Index:
-    """One method's `_build/` files, loaded once; every query after the first is warm."""
+    """One method's `_build/` files, loaded once; every query after the first is warm.
+
+    A hit is an address into a source, so the index refuses to answer when the address could point at other text:
+    on opening, every landed source must hash to what the index recorded, the index must cover exactly the landed
+    sources, and `_build/` must be the concatenation of the current per-source files (its stamp); during warm use,
+    a source whose file changed since opening is re-hashed, and a changed one ends the session.
+    """
 
     def __init__(self, method: str, embedder: str | None = None):
         self.method = method
@@ -30,6 +41,10 @@ class Index:
         mp = store.build_matrix(method, self.embedder)
         if not mp.exists():
             raise SystemExit(f"{mp} is missing — run `novelgraph build` first")
+        self.paths = self._fresh_sources()
+        stamp_p = build.build_stamp_path(method, self.embedder)
+        if not stamp_p.exists() or stamp_p.read_text().strip() != build.build_stamp(method, self.embedder)[0]:
+            raise Stale(f"_build/ for {method} is not the concatenation of the current index — run `novelgraph build`")
         self.rows = read_jsonl(store.build_rows(method, self.embedder))
         # float16 on disk, memmapped; widened once, because float16 matmul has no fast CPU path
         self.matrix = np.asarray(np.load(mp, mmap_mode="r"), dtype=np.float32)
@@ -37,6 +52,28 @@ class Index:
                                    check_same_thread=False)
         reg = store.registry()["search"]
         self.k_rrf, self.cand = reg["rrf_k"], reg["candidates"]
+
+    def _fresh_sources(self) -> dict:
+        manifest = {r["slug"]: r["sha256"] for r in read_jsonl(store.MANIFEST)}
+        landed = {d.slug: d.path for d in documents()}
+        if set(manifest) != set(landed):
+            gone, new = sorted(set(manifest) - set(landed)), sorted(set(landed) - set(manifest))
+            raise Stale(f"the index covers other sources than are landed (gone {gone[:3]}, new {new[:3]}) — run `novelgraph build`")
+        self.seen = {}
+        for slug, path in landed.items():
+            if hashlib.sha256(path.read_bytes()).hexdigest() != manifest[slug]:
+                raise Stale(f"{slug} changed since it was indexed — run `novelgraph build`")
+            self.seen[slug] = _stat(path)
+        self.sha = manifest
+        return landed
+
+    def check(self, slug: str) -> None:
+        """Before a hit from `slug` is shown: unchanged since opening, or re-hashed to the indexed bytes."""
+        path = self.paths[slug]
+        if _stat(path) != self.seen[slug]:
+            if hashlib.sha256(path.read_bytes()).hexdigest() != self.sha[slug]:
+                raise Stale(f"{slug} changed during this session — run `novelgraph build` and search again")
+            self.seen[slug] = _stat(path)
 
     # ── the two retrievers ─────────────────────────────────────────────────
     def bm25(self, query: str, n: int) -> list[tuple[int, float]]:
@@ -72,7 +109,15 @@ class Index:
                 for rank, (row, _) in enumerate(hits, 1):
                     fused[row] = fused.get(row, 0.0) + 1.0 / (self.k_rrf + rank)
             ranked = sorted(fused.items(), key=lambda kv: -kv[1])[:k]
-        return [{**self.rows[r], "score": round(s, 5)} for r, s in ranked]
+        hits = [{**self.rows[r], "score": round(s, 5)} for r, s in ranked]
+        for h in hits:
+            self.check(h["slug"])
+        return hits
+
+
+def _stat(path) -> tuple:
+    st = path.stat()
+    return st.st_mtime_ns, st.st_size, st.st_ino
 
 
 @lru_cache(maxsize=4096)
@@ -88,6 +133,8 @@ def show(hits: list[dict], method: str) -> str:
     for h in hits:
         c = _chunk(h["slug"], method, h["id"])
         lines = store.read_text_lines(build._path(h["slug"]))
+        if chunkers.content_sha(lines, c["line_start"], c["line_end"]) != c["sha"]:  # the slice shown is the slice indexed
+            raise Stale(f"{h['slug']}.md:L{c['line_start']}–L{c['line_end']} no longer holds the indexed text — run `novelgraph build`")
         text = " ".join(build.chunk_text(lines, c).split())[:200]
         path = " › ".join(c["heading_path"]) or "—"
         out.append(f"{h['score']:.4f}  {h['slug']}.md:L{h['line_start']}–L{h['line_end']}  [{path}]\n        {text}")

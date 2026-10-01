@@ -78,8 +78,8 @@ def main(argv: list[str] | None = None) -> int:
             (out / "bench.json").write_text(json.dumps(result, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         return 0
     if a.cmd == "selftest":
-        from .selftest import selftest
-        fails = selftest()
+        from .selftest import gates, selftest
+        fails = selftest() + gates()
         for f in fails:
             print(f"  FAIL  {f}")
         print(f"novelgraph selftest: {'held' if not fails else f'{len(fails)} failed'}")

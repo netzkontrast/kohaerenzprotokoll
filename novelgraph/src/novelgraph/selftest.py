@@ -59,3 +59,157 @@ def selftest() -> list[str]:
     if chunkers.chunk("w", "W", prose, 1, "window400@v1", p["window400@v1"]) != win:
         fails.append("a chunker is not deterministic")
     return fails
+
+
+# ── end-to-end gates on a temporary index (review of PR #138) ──────────────────
+
+import contextlib  # noqa: E402
+import shutil  # noqa: E402
+import tempfile  # noqa: E402
+from pathlib import Path  # noqa: E402
+
+import numpy as np  # noqa: E402
+
+from . import build, repo, search, verify  # noqa: E402
+
+
+class _FakeModel:
+    """Deterministic stand-in for the embedder: a hashed bag of words. No download, never a quality claim."""
+    dim = 16
+
+    def encode(self, texts, **_):
+        import hashlib
+        import re
+        out = np.zeros((len(texts), self.dim), dtype=np.float32)
+        for i, t in enumerate(texts):
+            for w in re.findall(r"\w+", t.lower()):
+                out[i, int(hashlib.sha1(w.encode()).hexdigest()[:4], 16) % self.dim] += 1
+        return out
+
+
+@contextlib.contextmanager
+def fixture(texts: dict[str, str]):
+    """A temporary repository with `texts` as its landed sources, the index's paths pointed at it."""
+    tmp = Path(tempfile.mkdtemp(prefix="novelgraph-selftest-"))
+    drive, index = tmp / "Sources" / "drive", tmp / "Index"
+    drive.mkdir(parents=True)
+    index.mkdir()
+    shutil.copy(store.METHODS, index / "methods.toml")
+    for slug, text in texts.items():
+        (drive / f"{slug}.md").write_text(text, encoding="utf-8")
+    state = {"slugs": list(texts)}
+
+    def docs():
+        out = []
+        for slug in state["slugs"]:
+            p = drive / f"{slug}.md"
+            body, offset = repo.subject._split(p.read_text(encoding="utf-8"))
+            out.append(repo.subject.Document(slug=slug, category="test", date="?", format="md", sha256="",
+                                             path=p, body=body, offset=offset))
+        return out
+
+    saved = {(store, k): getattr(store, k) for k in ("METHODS", "MANIFEST", "SOURCES", "BUILD")}
+    saved.update({(mod, "documents"): mod.documents for mod in (build, verify, search)})
+    saved[(build, "model")] = build.model
+    paths, titles = dict(build._PATHS), dict(build._TITLES)
+    try:
+        store.METHODS, store.MANIFEST = index / "methods.toml", index / "manifest.jsonl"
+        store.SOURCES, store.BUILD = index / "sources", index / "_build"
+        store.registry.cache_clear()
+        for mod in (build, verify, search):
+            mod.documents = docs
+        fake = _FakeModel()
+        build.model = lambda _name: fake
+        build._PATHS.clear()
+        build._PATHS.update({s: drive / f"{s}.md" for s in texts})
+        build._TITLES.clear()
+        build._TITLES.update({s: s.upper() for s in texts})
+        search._chunk.cache_clear()
+        yield {"root": tmp, "drive": drive, "index": index, "state": state}
+    finally:
+        for (mod, k), v in saved.items():
+            setattr(mod, k, v)
+        store.registry.cache_clear()
+        build._PATHS.clear()
+        build._PATHS.update(paths)
+        build._TITLES.clear()
+        build._TITLES.update(titles)
+        search._chunk.cache_clear()
+        shutil.rmtree(tmp, ignore_errors=True)
+
+
+TEXTS = {"a": "---\ntitle: A\n---\n# A\n\nKael zählt die Sterne über der Stadt.\n\n## Weiter\n\nJuna wartet am Tor.\n",
+         "b": "# B\n\nAEGIS löscht das Archiv.\n"}
+QUIET = dict(log=lambda *_: None)
+
+
+def _raises(fn, kind=SystemExit) -> bool:
+    try:
+        fn()
+    except kind:
+        return True
+    return False
+
+
+def gates() -> list[str]:
+    """The four defects the review of #138 reproduced, each handed to the code that must refuse it."""
+    fails = []
+    # 1 · a stale source is refused: on opening, during warm use, and when a source leaves the corpus
+    with fixture(TEXTS) as fx:
+        build.build(**QUIET)
+        if verify.verify(rechunk=True)[0]:
+            fails.append(f"fixture index does not verify: {verify.verify()[0][:3]}")
+        warm = search.Index("heading@v1")
+        if not warm.search("Kael Sterne", 3, "bm25"):
+            fails.append("fixture search found nothing")
+        a = fx["drive"] / "a.md"
+        a.write_text(a.read_text(encoding="utf-8").replace("Kael zählt die Sterne", "Nyx erfindet eine Aussage"),
+                     encoding="utf-8")
+        if not _raises(lambda: warm.search("Kael Sterne", 3, "bm25"), search.Stale):
+            fails.append("a source changed during warm use was still answered from")
+        if not _raises(lambda: search.Index("heading@v1"), search.Stale):
+            fails.append("an index opened over a changed source")
+        if not _raises(lambda: search.show([{"slug": "a", "id": build.read_jsonl(store.chunks_path("a", "heading@v1"))[0]["id"],
+                                            "line_start": 4, "line_end": 6, "score": 1.0}], "heading@v1"), search.Stale):
+            fails.append("show() printed a slice that no longer holds the indexed text")
+        build.build(**QUIET)
+        fx["state"]["slugs"] = ["b"]
+        if not _raises(lambda: search.Index("heading@v1"), search.Stale):
+            fails.append("an index opened although a source left the corpus")
+    # 2 · a new embedder revision invalidates every vector, the skip and the aggregate
+    with fixture(TEXTS) as fx:
+        build.build(**QUIET)
+        toml = fx["index"] / "methods.toml"
+        toml.write_text(toml.read_text(encoding="utf-8").replace(
+            store.embedders()["potion-m128"]["revision"], "0" * 40), encoding="utf-8")
+        store.registry.cache_clear()
+        if not any("embedder" in f for f in verify.verify()[0]):
+            fails.append("verify passed vectors made under another embedder revision")
+        if not _raises(lambda: search.Index("heading@v1")):
+            fails.append("search opened an aggregate made under another embedder revision")
+        total = sum(len(build.read_jsonl(store.chunks_path(s, m))) for s in TEXTS for m in store.chunkers())
+        got = build.build(**QUIET)
+        if got["embedded"] != total or got["reused_vectors"]:
+            fails.append(f"a revision change re-embedded {got['embedded']} of {total} chunks, reused {got['reused_vectors']}")
+        if verify.verify()[0]:
+            fails.append(f"after the rebuild verify still fails: {verify.verify()[0][:2]}")
+    # 3 · an aggregate of the right shape with the wrong vectors fails verify
+    with fixture(TEXTS) as fx:
+        build.build(**QUIET)
+        mp = store.build_matrix("heading@v1", store.default_embedder())
+        mat = np.load(mp)
+        if len(mat) > 1:
+            np.save(mp, mat[::-1].copy())
+        else:
+            np.save(mp, (np.roll(mat, 1, axis=1)).astype(np.float16))
+        if not any("differ from" in f for f in verify.verify()[0]):
+            fails.append("verify passed an aggregate whose rows are other (unit-length) vectors")
+    # 4 · a table without outer pipes is never split
+    rows = [" | ".join(["zelle " * 12] * 2) for _ in range(25)]
+    lines = ["# T", "", "a | b", "--- | ---", *rows]
+    got = chunkers.chunk("t", "T", lines, 1, "heading@v1", store.chunkers()["heading@v1"])
+    if not any(r["line_start"] <= 3 and r["line_end"] >= len(lines) for r in got):
+        fails.append(f"a table without outer pipes was split: {[(r['line_start'], r['line_end']) for r in got]}")
+    if 4 not in chunkers.table_lines(chunkers.parse(lines, 1)) or 1 in chunkers.table_lines(chunkers.parse(lines, 1)):
+        fails.append("table_lines() misreads the header/delimiter rule")
+    return fails

@@ -20,7 +20,7 @@ target_max = 450
 min = 120
 max = 600
 split = ["heading", "block", "line"]   # a line is the smallest unit: chunks are line ranges
-tables = "never split"
+tables = "never split: GFM tables (a header row, a delimiter row, outer pipes optional) and runs of |-lines"
 
 [chunker."section@v1"]
 kind = "section"

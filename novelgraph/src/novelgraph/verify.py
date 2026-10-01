@@ -19,8 +19,27 @@ import sqlite3
 import numpy as np
 
 from . import chunkers, store
-from .build import _title, vec_key
+from .build import _title, build_stamp, build_stamp_path, vec_key
 from .repo import documents, read_jsonl
+
+
+def _matrix_problems(mat, dim) -> list[str]:
+    """float16, the recorded dimension, finite, every row of unit length (to float16 precision)."""
+    out = []
+    if mat.dtype != np.float16:
+        out.append(f"dtype {mat.dtype}, not float16")
+    if dim is not None and mat.ndim == 2 and mat.shape[1] != dim:
+        out.append(f"dimension {mat.shape[1]}, the metadata says {dim}")
+    if mat.size:
+        wide = np.asarray(mat, dtype=np.float32)
+        if not np.isfinite(wide).all():
+            out.append("non-finite values")
+        else:
+            norms = np.linalg.norm(wide, axis=1)
+            bad = int(np.sum((norms > 0) & (np.abs(norms - 1) > 5e-3)))
+            if bad:
+                out.append(f"{bad} rows are not unit length")
+    return out
 
 
 def verify(embedder: str | None = None, rechunk: bool = True) -> tuple[list[str], dict]:
@@ -71,8 +90,12 @@ def verify(embedder: str | None = None, rechunk: bool = True) -> tuple[list[str]
             if meta["chunk_ids_hash"] != store.ids_hash([r["id"] for r in rows]) or \
                     meta.get("keys") != [vec_key(r) for r in rows]:
                 fails.append(f"{slug} {m}: vectors are for other chunks or prefixes")
-            if np.load(vec_p, mmap_mode="r").shape[0] != len(rows):
+            if meta.get("embedder_fp") != store.embedder_fp(embedder):
+                fails.append(f"{slug} {m}: vectors are from another embedder spec than methods.toml names")
+            mat = np.load(vec_p, mmap_mode="r")
+            if mat.shape[0] != len(rows):
                 fails.append(f"{slug} {m}: matrix rows differ from chunks")
+            fails += [f"{slug} {m}: {p}" for p in _matrix_problems(mat, meta.get("dim"))]
     info["chunks"] = counts
     order = [r["slug"] for r in read_jsonl(store.MANIFEST)] if store.MANIFEST.exists() else []
     for m in methods:
@@ -84,9 +107,25 @@ def verify(embedder: str | None = None, rechunk: bool = True) -> tuple[list[str]
         expect = [(s, r["id"]) for s in order for r in read_jsonl(store.chunks_path(s, m))]
         if [(r["slug"], r["id"]) for r in rows] != expect:
             fails.append(f"_build {m}: rows.jsonl is not the concatenation of the chunk files")
-        n = np.load(mp, mmap_mode="r").shape[0]
+        big = np.load(mp, mmap_mode="r")
+        n = big.shape[0]
         if n != len(rows):
             fails.append(f"_build {m}: matrix has {n} rows, rows.jsonl {len(rows)}")
+        else:  # by value, block by block: the right shape with the wrong vectors is not a pass
+            k = 0
+            for s in order:
+                part = np.load(store.vec_path(s, m, embedder), mmap_mode="r")
+                if part.dtype != big.dtype or not np.array_equal(big[k:k + part.shape[0]], part):
+                    fails.append(f"_build {m}: rows {k}–{k + part.shape[0] - 1} differ from {s}'s vectors")
+                    break
+                k += part.shape[0]
+        fails += [f"_build {m}: {p}" for p in _matrix_problems(big, None)]
+        stamp_p = build_stamp_path(m, embedder)
+        try:
+            if not stamp_p.exists() or stamp_p.read_text().strip() != build_stamp(m, embedder)[0]:
+                fails.append(f"_build {m}: its stamp does not match the current index — run `novelgraph build`")
+        except SystemExit as e:
+            fails.append(f"_build {m}: {e}")
         con = sqlite3.connect(f"{bp.resolve().as_uri()}?mode=ro", uri=True)
         fts = con.execute("SELECT count(*), coalesce(min(rowid), 1), coalesce(max(rowid), 0) FROM chunks").fetchone()
         if fts[1:] != (1, fts[0]):

@@ -30,7 +30,9 @@ _MODEL = {}
 
 
 def model(embedder: str):
-    if embedder not in _MODEL:
+    """The loaded model, cached by the embedder's fingerprint, never by its alias alone."""
+    fp = store.embedder_fp(embedder)
+    if fp not in _MODEL:
         from huggingface_hub import snapshot_download
         from model2vec import StaticModel
         spec = store.embedders()[embedder]  # pinned: the revision in methods.toml, fetched once, then local
@@ -40,8 +42,8 @@ def model(embedder: str):
             path = get(True)
         except Exception:  # not in the cache yet: fetched once, ~0.5 GB
             path = get(False)
-        _MODEL[embedder] = StaticModel.from_pretrained(path)
-    return _MODEL[embedder]
+        _MODEL[fp] = StaticModel.from_pretrained(path)
+    return _MODEL[fp]
 
 
 def embed(embedder: str, texts: list[str]) -> np.ndarray:
@@ -131,11 +133,14 @@ def build(source: str | None = None, methods: list[str] | None = None, force: bo
             meta_p, vec_p = store.vec_meta_path(doc.slug, m, embedder), store.vec_path(doc.slug, m, embedder)
             meta = json.loads(meta_p.read_text()) if meta_p.exists() else None
             keys = [vec_key(r) for r in rows]
-            if meta and vec_p.exists() and meta.get("keys") == keys and not force:
+            fp = store.embedder_fp(embedder)
+            # a vector is reused only from the same embedder spec (model, revision, input, normalisation, dtype)
+            same_embedder = bool(meta) and meta.get("embedder_fp") == fp and vec_p.exists()
+            if same_embedder and meta.get("keys") == keys and not force:
                 stats["skipped"] += 1
                 continue
             cache = {}
-            if meta and vec_p.exists() and not force:
+            if same_embedder and not force:
                 old_mat = np.load(vec_p)
                 cache = {key: old_mat[k] for k, key in enumerate(meta.get("keys", []))}
             missing = [r for r, key in zip(rows, keys) if key not in cache]
@@ -147,7 +152,8 @@ def build(source: str | None = None, methods: list[str] | None = None, force: bo
             vec_p.parent.mkdir(parents=True, exist_ok=True)
             np.save(vec_p, mat)
             spec = store.embedders()[embedder]
-            store.write_json(meta_p, {"model": spec["model"], "revision": spec.get("revision"), "dim": int(mat.shape[1]),
+            store.write_json(meta_p, {"model": spec["model"], "revision": spec.get("revision"), "embedder_fp": fp,
+                                      "dim": int(mat.shape[1]),
                                       "chunk_ids_hash": store.ids_hash(ids), "keys": keys, "built_at": now()})
             stats["embedded"] += len(missing)
             stats["reused_vectors"] += len(ids) - len(missing)
@@ -183,22 +189,38 @@ def _dim(embedder: str) -> int:
     return model(embedder).dim
 
 
+def build_stamp_path(method: str, embedder: str):
+    return store.BUILD / f"{method}~{embedder}.stamp"
+
+
+def build_stamp(method: str, embedder: str) -> tuple[str, set]:
+    """What `_build/` for one method is a function of: every source's vector keys (chunk id + prefix), the
+    embedder's fingerprint, the registry stamp. Refuses a source whose vectors come from another embedder spec."""
+    fp = store.embedder_fp(embedder)
+    parts, dims = [], set()
+    for slug in [r["slug"] for r in read_jsonl(store.MANIFEST)]:
+        meta = json.loads(store.vec_meta_path(slug, method, embedder).read_text())
+        if meta.get("embedder_fp") != fp:
+            raise SystemExit(f"{slug} {method}: vectors are from another embedder spec — run `novelgraph build`")
+        parts.append(f"{slug}:{store.ids_hash(meta['keys'])}")
+        dims.add(meta["dim"])
+    return store.ids_hash(parts + [method, embedder, fp, store.method_stamp()]), dims
+
+
 def concatenate(method: str, embedder: str, force: bool = False) -> bool:
     """Concatenate every source's matrix, rows and lex into `_build/`; False when already current."""
     slugs = [r["slug"] for r in read_jsonl(store.MANIFEST)]
-    parts = []
-    for slug in slugs:
-        meta = json.loads(store.vec_meta_path(slug, method, embedder).read_text())
-        parts.append((slug, meta["chunk_ids_hash"], meta["dim"]))
-    stamp = store.ids_hash([f"{s}:{h}" for s, h, _ in parts] + [method, embedder, store.method_stamp()])
-    stamp_p = store.BUILD / f"{method}~{embedder}.stamp"
+    stamp, dims = build_stamp(method, embedder)
+    stamp_p = build_stamp_path(method, embedder)
     outs = [store.build_matrix(method, embedder), store.build_rows(method, embedder), store.build_bm25(method)]
     if not force and stamp_p.exists() and stamp_p.read_text().strip() == stamp and all(p.exists() for p in outs):
         return False
     store.BUILD.mkdir(parents=True, exist_ok=True)
     mats = [np.load(store.vec_path(s, method, embedder), mmap_mode="r") for s in slugs]
     total = sum(m.shape[0] for m in mats)
-    dim = parts[0][2] if parts else 0
+    dim = dims.pop() if len(dims) == 1 else 0
+    if len(dims) > 1:
+        raise SystemExit(f"{method}: sources hold vectors of different dimensions — rebuild")
     tmp = outs[0].with_suffix(".tmp.npy")
     big = np.lib.format.open_memmap(tmp, mode="w+", dtype=np.float16, shape=(total, dim))
     rows, k = [], 0

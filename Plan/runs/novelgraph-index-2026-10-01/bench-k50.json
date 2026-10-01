@@ -1599,28 +1599,28 @@
    "method": "heading@v1",
    "mode": "hybrid",
    "queries": 50,
-   "p50_ms": 5.5,
-   "p95_ms": 34.8,
-   "max_ms": 44.4,
-   "load_s": 0.07
+   "p50_ms": 5.1,
+   "p95_ms": 28.0,
+   "max_ms": 39.1,
+   "load_s": 0.18
   },
   {
    "method": "section@v1",
    "mode": "hybrid",
    "queries": 50,
-   "p50_ms": 1.7,
-   "p95_ms": 9.8,
-   "max_ms": 14.0,
-   "load_s": 0.0
+   "p50_ms": 2.0,
+   "p95_ms": 10.4,
+   "max_ms": 14.5,
+   "load_s": 0.11
   },
   {
    "method": "window400@v1",
    "mode": "hybrid",
    "queries": 50,
-   "p50_ms": 6.4,
-   "p95_ms": 32.5,
-   "max_ms": 49.3,
-   "load_s": 0.06
+   "p50_ms": 5.5,
+   "p95_ms": 30.3,
+   "max_ms": 44.0,
+   "load_s": 0.18
   }
  ],
  "sizes": {
@@ -1649,7 +1649,7 @@
    "vec": 17.6,
    "_build": 81.8,
    "chunks (committed)": 16.4,
-   "lex (committed)": 71.7,
+   "lex (ignored)": 71.7,
    "source.json (committed)": 1.3
   }
  }
