@@ -1,0 +1,106 @@
+{
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+  "input_rows": 4,
+  "candidates": 4,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:778abb4ae0cef6a6a0f3fe3ca869b0fcf8a61cd81895088fae7e71399f17dd46",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "den finalen Twist",
+        "target": "müssen wir subtile „Glitch-Momente“ und systemische Hinweise einbauen",
+        "type": "structure",
+        "quote": "Um den finalen Twist vorzubereiten – dass Kael die Manifestation des Lesers ist und seine Welt mit dem Zuklappen des Buches stirbt –, müssen wir subtile „Glitch-Momente“ und systemische Hinweise einbauen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "ProseRules",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d02b5478aa88d86b2c2d9aa70acd317acfcae19f18f8dd269d989ac803d2a104",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 39",
+        "target": "beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet",
+        "type": "structure",
+        "quote": "In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "ProseRules",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f9350b327ae595c50c422c678fa6b5100a01276420537a9cb479345e69b620b7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "das „Du“",
+        "target": "in Schlüsselmomenten",
+        "type": "pov",
+        "quote": "Nutze in Schlüsselmomenten das „Du“.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "ProseRules",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:56f47f6963cf426f419f11c5b559f8b5bb19a2184c7a8bcaf1914ea1ad2ea8ae",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS-Protokolle",
+        "target": "Kursivschrift",
+        "type": "format",
+        "quote": "Nutze Kursivschrift für AEGIS-Protokolle, die den „Beobachtungsstatus“ abfragen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "ProseRules",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        54
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

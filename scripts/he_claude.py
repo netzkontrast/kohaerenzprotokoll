@@ -18,7 +18,8 @@ LangChain until 2026-10-01: the prompt with the chunk in it, then `JSON_ONLY` an
     python3 scripts/he_claude.py selftest
 
 `run` is the pipeline's HyperExtract pass on one document: `reading_extract.extract` with this model, then
-`reading_extract.stage` into `Plan/runs/<slug>/hyperextract/<name>/`, with `calls.jsonl` and `usage.json` beside
+`reading_extract.stage` into `Plan/runs/<slug>/hyperextract/<name>/`, with `calls.jsonl`, `usage.json` (one entry per
+chunk among its fields) and `raw.json` — the merged data as the model returned it, kept when staging refuses it — beside
 the candidates. A run whose every chunk failed is recorded there too, with why, and staged nothing. A list, set or
 graph template runs (`hx.RUNS`); a set and a graph merge by their identifiers, never with a model. `selftest` runs the
 whole path on the committed fixture with a fake `claude`, offline.
@@ -209,8 +210,10 @@ def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str 
     llm = Claude(model=model, binary=binary)
     target = ROOT / "Plan" / "runs" / doc.slug / "hyperextract" / name
     failed = None
+    chunk_log: list = []
+    kept: dict = {}
     try:
-        envelope = reading_extract.extract(template, doc, llm, f"claude-cli/{model}", text)
+        envelope = reading_extract.extract(template, doc, llm, f"claude-cli/{model}", text, chunk_log, kept)
     except ValueError as exc:
         failed, status = str(exc), 1
     if failed is None:
@@ -226,8 +229,12 @@ def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str 
     if gate:
         usage["gate"] = {"characters_sent": len(text), "characters_in_document": len(doc.body),
                          "share": round(len(text) / max(len(doc.body), 1), 3)}
+    usage["chunks"] = chunk_log
     if failed:
         usage["failed"] = failed
+    if "data" in kept:   # what the model returned, merged — kept even when staging refused it (P15)
+        (target / "raw.json").write_text(json.dumps(kept["data"], ensure_ascii=False, indent=2) + "\n",
+                                         encoding="utf-8")
     (target / "usage.json").write_text(json.dumps(usage, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (target / "calls.jsonl").write_text("".join(json.dumps(c, ensure_ascii=False) + "\n" for c in llm.calls),
                                         encoding="utf-8")

@@ -1,0 +1,29 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "template": "Quantities.yaml",
+  "model": "claude-cli/sonnet",
+  "calls": 3,
+  "failed_calls": 0,
+  "seconds": 20.7,
+  "input_tokens": 11942,
+  "output_tokens": 1858,
+  "cost_usd": 0.0568,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-10-01 to run every HyperExtract template on two small test sources with Sonnet",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1851,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1975,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 122,
+      "ok": true
+    }
+  ]
+}

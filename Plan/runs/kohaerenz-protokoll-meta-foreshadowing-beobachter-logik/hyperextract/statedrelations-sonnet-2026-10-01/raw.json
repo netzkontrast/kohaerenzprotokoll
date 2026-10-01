@@ -1,0 +1,170 @@
+{
+  "nodes": [
+    {
+      "name": "Kael",
+      "type": "person"
+    },
+    {
+      "name": "Große Stille",
+      "type": "concept"
+    },
+    {
+      "name": "AEGIS",
+      "type": "system"
+    },
+    {
+      "name": "Signal",
+      "type": "concept"
+    },
+    {
+      "name": "Primären Beobachtungs-Einheit",
+      "type": "concept"
+    },
+    {
+      "name": "Externen Taktgeber",
+      "type": "concept"
+    },
+    {
+      "name": "Kohärenz Protokoll",
+      "type": "system"
+    },
+    {
+      "name": "Zuklappen des Buches",
+      "type": "event"
+    },
+    {
+      "name": "Ordnungssucht",
+      "type": "concept"
+    },
+    {
+      "name": "Leser",
+      "type": "concept"
+    },
+    {
+      "name": "Juna",
+      "type": "person"
+    },
+    {
+      "name": "Welt",
+      "type": "place"
+    },
+    {
+      "name": "Wärmetod des Universums",
+      "type": "concept"
+    },
+    {
+      "name": "System",
+      "type": "system"
+    },
+    {
+      "name": "Verstand des Beobachters",
+      "type": "concept"
+    },
+    {
+      "name": "AEGIS-Protokolle",
+      "type": "technology"
+    },
+    {
+      "name": "Beobachtungsstatus",
+      "type": "concept"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Kael",
+      "target": "Große Stille",
+      "type": "names",
+      "quote": "Kael nennt dies die „Große Stille“."
+    },
+    {
+      "source": "AEGIS",
+      "target": "Signal",
+      "type": "waits_for",
+      "quote": "AEGIS agiert nicht als autonomer Gott, sondern als Verwalter, der auf ein „Signal“ wartet."
+    },
+    {
+      "source": "AEGIS",
+      "target": "Primären Beobachtungs-Einheit",
+      "type": "speaks_of",
+      "quote": "AEGIS spricht in seinen Statusberichten oft von der „Primären Beobachtungs-Einheit“ oder dem „Externen Taktgeber“."
+    },
+    {
+      "source": "AEGIS",
+      "target": "Externen Taktgeber",
+      "type": "speaks_of",
+      "quote": "AEGIS spricht in seinen Statusberichten oft von der „Primären Beobachtungs-Einheit“ oder dem „Externen Taktgeber“."
+    },
+    {
+      "source": "AEGIS",
+      "target": "Kohärenz Protokoll",
+      "type": "justifies",
+      "quote": "Er rechtfertigt seine harten Maßnahmen (das Kohärenz Protokoll) damit, dass die „Einheit“ sonst das Interesse verlieren und das System abschalten könnte."
+    },
+    {
+      "source": "AEGIS",
+      "target": "Zuklappen des Buches",
+      "type": "fears",
+      "quote": "AEGIS hat Angst vor dem Zuklappen des Buches."
+    },
+    {
+      "source": "Ordnungssucht",
+      "target": "Leser",
+      "type": "tries_to_retain",
+      "quote": "Seine Ordnungssucht ist ein verzweifelter Versuch, den Leser (den Beobachter) bei der Stange zu halten, damit das System weiter mit „Aufmerksamkeit“ (Energie) versorgt wird."
+    },
+    {
+      "source": "Kael",
+      "target": "Leser",
+      "type": "manifestation_of",
+      "quote": "Um den finalen Twist vorzubereiten – dass Kael die Manifestation des Lesers ist und seine Welt mit dem Zuklappen des Buches stirbt –, müssen wir subtile „Glitch-Momente“ und systemische Hinweise einbauen."
+    },
+    {
+      "source": "Juna",
+      "target": "Kael",
+      "type": "whispers_truth_to",
+      "quote": "Juna ist diejenige, die Kael die Wahrheit flüstert."
+    },
+    {
+      "source": "Kael",
+      "target": "Leser",
+      "type": "probe_of",
+      "quote": "Sie macht ihm klar: Kael ist die Sonde, die der Leser in das Trauma geschickt hat."
+    },
+    {
+      "source": "Kael",
+      "target": "Leser",
+      "type": "tool_of",
+      "quote": "Er ist das Werkzeug, mit dem der Leser versucht, seine eigene Dissoziation (seine Trennung von der Welt) zu heilen."
+    },
+    {
+      "source": "Zuklappen des Buches",
+      "target": "Wärmetod des Universums",
+      "type": "framed_as",
+      "quote": "Das Zuklappen des Buches wird als der „Wärmetod des Universums“ (Entropie) geframt."
+    },
+    {
+      "source": "Welt",
+      "target": "Leser",
+      "type": "depends_on",
+      "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann."
+    },
+    {
+      "source": "System",
+      "target": "Verstand des Beobachters",
+      "type": "caused_by",
+      "quote": "Wenn das System unentscheidbar wird, liegt das daran, dass der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt."
+    },
+    {
+      "source": "AEGIS-Protokolle",
+      "target": "Beobachtungsstatus",
+      "type": "queries",
+      "quote": "Nutze Kursivschrift für AEGIS-Protokolle, die den „Beobachtungsstatus“ abfragen."
+    },
+    {
+      "source": "Kael",
+      "target": "Welt",
+      "type": "causes_disintegration_of",
+      "quote": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen."
+    }
+  ]
+}

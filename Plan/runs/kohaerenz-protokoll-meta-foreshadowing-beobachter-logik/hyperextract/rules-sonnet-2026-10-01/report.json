@@ -1,0 +1,130 @@
+{
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+  "input_rows": 5,
+  "candidates": 5,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:717c63ce63b70de75012df5b8527ebd4669dbdbbdd6a56e3b2ef52f3504ee9a7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Das",
+        "target": "der Leser im realen Leben unterbrochen wird",
+        "type": "if_then",
+        "quote": "Das passiert immer dann, wenn der Leser im realen Leben unterbrochen wird",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Rules",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:312e2acca1112c206f0786ec78fe670e96cc11bbc25b2a73b339bcd2c436491d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "zerfällt die Welt in Textfragmente oder unklare Schemen",
+        "type": "if_then",
+        "quote": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Rules",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        34
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:523dddfaa5c77e6288be5b5dd4dec054548a43be42b251db29988c567718f70b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "System",
+        "target": "der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt",
+        "type": "if_then",
+        "quote": "Wenn das System unentscheidbar wird, liegt das daran, dass der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Rules",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5fdcd6169ff0c984c697a2b326de07a9d1dfd9b837e48d85b755c011907e82aa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Die Welt",
+        "target": "existiert nur so weit, wie der Leser sie sich vorstellen kann",
+        "type": "only_if",
+        "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Rules",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f985edc3408ecb44a0f21248fce7d108bad7de86efa4a64d21415051679ad97e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "er",
+        "target": "aufhören zu atmen",
+        "type": "if_then",
+        "quote": "Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Rules",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

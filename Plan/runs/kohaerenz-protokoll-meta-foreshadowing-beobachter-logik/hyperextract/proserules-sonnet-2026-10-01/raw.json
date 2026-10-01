@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "source": "den finalen Twist",
+      "target": "müssen wir subtile „Glitch-Momente“ und systemische Hinweise einbauen",
+      "type": "structure",
+      "quote": "Um den finalen Twist vorzubereiten – dass Kael die Manifestation des Lesers ist und seine Welt mit dem Zuklappen des Buches stirbt –, müssen wir subtile „Glitch-Momente“ und systemische Hinweise einbauen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 39",
+      "target": "beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet",
+      "type": "structure",
+      "quote": "In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet.",
+      "stance": "asserts"
+    },
+    {
+      "source": "das „Du“",
+      "target": "in Schlüsselmomenten",
+      "type": "pov",
+      "quote": "Nutze in Schlüsselmomenten das „Du“.",
+      "stance": "asserts"
+    },
+    {
+      "source": "AEGIS-Protokolle",
+      "target": "Kursivschrift",
+      "type": "format",
+      "quote": "Nutze Kursivschrift für AEGIS-Protokolle, die den „Beobachtungsstatus“ abfragen.",
+      "stance": "asserts"
+    }
+  ]
+}

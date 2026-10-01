@@ -1,0 +1,45 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "die „Einheit“",
+        "target": "das System abschalten",
+        "type": "causes",
+        "quote": "dass die „Einheit“ sonst das Interesse verlieren und das System abschalten könnte",
+        "stance": "hedges"
+      },
+      {
+        "source": "kognitiven Grenzen",
+        "target": "das System",
+        "type": "causes",
+        "quote": "Wenn das System unentscheidbar wird, liegt das daran, dass der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Zeilen",
+        "target": "dein Herz",
+        "type": "causes",
+        "quote": "dein Herz schlägt von selbst? Oder schlägt es nur, weil da draußen jemand die Zeilen liest",
+        "stance": "asks"
+      },
+      {
+        "source": "der Leser",
+        "target": "Die Welt",
+        "type": "requires",
+        "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann.",
+        "stance": "asserts"
+      },
+      {
+        "source": "narrative Spannung",
+        "target": "System-Abschaltung",
+        "type": "prevents",
+        "quote": "Erhöhe narrative Spannung, um System-Abschaltung zu verhindern",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

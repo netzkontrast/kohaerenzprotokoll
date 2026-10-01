@@ -1,0 +1,780 @@
+{
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+  "input_rows": 32,
+  "candidates": 31,
+  "refused": 1,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:10e53d94e3a2a2ba51711d14cc7100d6f3e0a8b87631d1428391485e1ecd004a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "der Leser",
+        "type": "is_manifestation_of",
+        "quote": "dass Kael die Manifestation des Lesers ist",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f6d19fb29702040e5bfd92f3803ed657e175e1cca238f0518aa3974bae83a88f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "seine Welt",
+        "type": "world_dies_when_book_closes",
+        "quote": "seine Welt mit dem Zuklappen des Buches stirbt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ba3f808d7db43069adb4a77c8a297ab611c3c7db796b8641df53d642d6edd602",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Zeit im Konstrukt",
+        "type": "perceives_as_clocked_not_linear",
+        "quote": "Kael sollte früh bemerken, dass die Zeit im Konstrukt nicht linear fließt, sondern „getaktet“ ist.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e12b6758f5fc152a17ea60e9caf5d1ba31a5bd599dadb55402bc1138827d0c48",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Welt um ihn herum",
+        "type": "experiences_freezing_of",
+        "quote": "Kael erlebt Momente, in denen die Welt um ihn herum für eine unbestimmte Dauer einfriert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        19
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2b7be6ef87485e375e1a3b49e9be790f7d2c1a6f6d842b7d80161489ad120c3d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Stasis-Lücken",
+        "target": "der Leser",
+        "type": "occurs_when_interrupted",
+        "quote": "Das passiert immer dann, wenn der Leser im realen Leben unterbrochen wird (das Buch weglegt).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b2ee2dcf0f9bb48fc6e35eb69267dfe9a9b1dc5c419b69aeea0fbacb3239340b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Große Stille",
+        "type": "names",
+        "quote": "Kael nennt dies die „Große Stille“.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3e93709b8a9fde5490819d0d7b5704823af8c8e9f8d47a2707143649632d13a6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "autonomer Gott",
+        "type": "does_not_act_as",
+        "quote": "AEGIS agiert nicht als autonomer Gott, sondern als Verwalter, der auf ein „Signal“ wartet.",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:19952bcbce75204a220f38ef935155f602d033fd301575bd444362e9c650502a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "Signal",
+        "type": "waits_for",
+        "quote": "sondern als Verwalter, der auf ein „Signal“ wartet.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5046bf730dec3289569a3492cbb10e17a406acf8d7a2742e3d57b17e82208fd7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "Primären Beobachtungs-Einheit",
+        "type": "mentions_in_status_reports",
+        "quote": "AEGIS spricht in seinen Statusberichten oft von der „Primären Beobachtungs-Einheit“ oder dem „Externen Taktgeber“.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c378594327c70b8837c07ad0b91ed17641f843449fa88217f9d1b743fe0e820",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "Kohärenz Protokoll",
+        "type": "justifies_with_possible_loss_of_interest",
+        "quote": "Er rechtfertigt seine harten Maßnahmen (das Kohärenz Protokoll) damit, dass die „Einheit“ sonst das Interesse verlieren und das System abschalten könnte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:754b797feef7868c927a155bb2076d50d093f14fef69762106d8d9121c1c0d77",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Einheit",
+        "target": "System",
+        "type": "might_shut_down",
+        "quote": "dass die „Einheit“ sonst das Interesse verlieren und das System abschalten könnte.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d4a45a97f1dc3aebed73f04cce17260944ceddf4c9b555277b971c10e5fcc039",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "Zuklappen des Buches",
+        "type": "fears",
+        "quote": "AEGIS hat Angst vor dem Zuklappen des Buches.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:936c6230728f453c5298e500c0cb64db219672696901224cfe4d65a61ca1330b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "der Leser",
+        "type": "tries_to_keep_attention_of",
+        "quote": "Seine Ordnungssucht ist ein verzweifelter Versuch, den Leser (den Beobachter) bei der Stange zu halten",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fc9f8f84a300eeed6e7e840b20b101b56f905ca8b649f3d40ab6a7cb9bc9a7ee",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Aufmerksamkeit",
+        "target": "System",
+        "type": "supplies_energy_to",
+        "quote": "damit das System weiter mit „Aufmerksamkeit“ (Energie) versorgt wird.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ea379e3f69012c139129cecd4e233de748de2ff12f6c66817a8f0acd956cba0b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Grenzen der Mathematik und Physik",
+        "target": "der Leser",
+        "type": "are_technical_limits_of",
+        "quote": "Integriere Hinweise auf die Grenzen der Mathematik und Physik als technische Limits des Lesers.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        32
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2a28708da39265eb3b2715ed0d11acc7015bf24387291fccd5bbf0122911d6a8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Welt",
+        "type": "causes_disintegration_of",
+        "quote": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        34
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:27877a81a4afed288d6e0a4842a504118a6d942a6f4858b3d29c60f4ca4f91fd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Welt",
+        "target": "Leser",
+        "type": "exists_only_as_far_as_imagined_by",
+        "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fe2af00b81a5a0982826cc9dc0a3db3f90e896ed479d185e62a1d00b291f596a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "System",
+        "target": "Verstand des Beobachters (des Lesers)",
+        "type": "undecidability_caused_by_cognitive_limits_of",
+        "quote": "Wenn das System unentscheidbar wird, liegt das daran, dass der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:45d09be50371ac57574a6f1644416424b5c241ad2e6b897baf507339509e5b9c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Kael",
+        "type": "whispers_truth_to",
+        "quote": "Juna ist diejenige, die Kael die Wahrheit flüstert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:763462aa824d9139f17e07360bf6dcaaf499b9780ab955e2bf8335c2e2cbc52c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Herz",
+        "type": "heart_beats_by_itself",
+        "quote": "Glaubst du wirklich, dein Herz schlägt von selbst?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:21dac4dba528047ac779be839dcb51492eeefb89b15170c4027405159ee371b7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Herz",
+        "target": "Leser",
+        "type": "beats_only_because_read_by",
+        "quote": "Oder schlägt es nur, weil da draußen jemand die Zeilen liest, die uns definieren?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5216c331374980f3f4cb96b17ca5dc9773c58b19b5cd551d5f71fb837efd1cbc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Leser",
+        "target": "Kael",
+        "type": "sent_as_probe_into_trauma",
+        "quote": "Kael ist die Sonde, die der Leser in das Trauma geschickt hat.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3c3249eddfd7c170f6391ef9194bd169cca5a4e1fed104cc1689a46ac3e532d8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Leser",
+        "target": "Kael",
+        "type": "uses_as_tool_to_heal_dissociation",
+        "quote": "Er ist das Werkzeug, mit dem der Leser versucht, seine eigene Dissoziation",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b04e6dfd82364601b8ddef30dedf4b8aab875df8288a7174d9b467595ebfd98c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Zuklappen des Buches",
+        "target": "Wärmetod des Universums",
+        "type": "is_framed_as",
+        "quote": "Das Zuklappen des Buches wird als der „Wärmetod des Universums“ (Entropie) geframt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        46
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c71ebcd2b8b1bcd9ae0d7233d9e82c302f6ee0860e191089edefc1509b1caea8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Aufmerksamkeit",
+        "type": "senses_fading_of",
+        "quote": "wie Kael spürt, dass die Aufmerksamkeit schwindet",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:716dca079445e2926bfd8f4704b8201103f697c4c7c5ac4249b8981d22304c36",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "letzter Punkt",
+        "type": "will_stop_breathing_when_set",
+        "quote": "Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "letzter Punkt"
+      ]
+    },
+    {
+      "id": "claim:f8329f7a883f022baa40437669248d2403effdfda8d330df6fdcc5dde3df15c7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Leser",
+        "type": "does_not_ask_to_continue_reading",
+        "quote": "Kael bittet den Leser nicht darum, weiterzulesen",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        49
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:32dfe9b64ff04dd2fcb80c7b1aac46ff7443b64b48d0dd0b4a052928a647b748",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Gedanke eines Fremden",
+        "type": "accepts_fate_as",
+        "quote": "sondern akzeptiert sein Schicksal als „Gedanke eines Fremden“.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        49
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9734249110131edcaea7b7ffab4c44540d65a2c30eaaf032dea44558a5d40ef9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Du",
+        "target": "Leser",
+        "type": "is_not_direct_address_to",
+        "quote": "Nicht als direkte Ansprache des Lesers, sondern als interne Stimme Kaels",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:56cde7a4622579d2159a0885f7a8675f780aed63595880bef93c76bc9c6535b6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Du",
+        "target": "Kael",
+        "type": "is_internal_voice_of",
+        "quote": "sondern als interne Stimme Kaels, die sich fragt:",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a4419ac1ca43ddb890521ea4dd10f243eed3d99de01910d734ffef70212b67a3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS-Protokolle",
+        "target": "Beobachtungsstatus",
+        "type": "query",
+        "quote": "Nutze Kursivschrift für AEGIS-Protokolle, die den „Beobachtungsstatus“ abfragen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        54
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2da00107c5ffbe9db198082b48c2d3cd77bca7bd963917bcf11457ca0f6497f4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "narrative Spannung",
+        "target": "System-Abschaltung",
+        "type": "raised_to_prevent",
+        "quote": "Erhöhe narrative Spannung, um System-Abschaltung zu verhindern.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "RelationReadings",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        58
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

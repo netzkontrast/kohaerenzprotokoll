@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "source": "Kael",
+      "target": "dass die Zeit im Konstrukt nicht linear fließt",
+      "type": "learns_here",
+      "quote": "Kael sollte früh bemerken, dass die Zeit im Konstrukt nicht linear fließt",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kael",
+      "target": "dass er nicht allein war",
+      "type": "suspects",
+      "quote": "In diesen Momenten spürte Kael, dass er nicht allein war.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kael",
+      "target": "die Wahrheit",
+      "type": "learns_here",
+      "quote": "Juna ist diejenige, die Kael die Wahrheit flüstert",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kael",
+      "target": "dass die Aufmerksamkeit schwindet",
+      "type": "learns_here",
+      "quote": "In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Er",
+      "target": "Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen",
+      "type": "knows",
+      "quote": "Er weiß: Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "du",
+      "target": "dein Herz schlägt von selbst",
+      "type": "wrongly_believes",
+      "quote": "Glaubst du wirklich, dein Herz schlägt von selbst?",
+      "stance": "asks"
+    }
+  ]
+}

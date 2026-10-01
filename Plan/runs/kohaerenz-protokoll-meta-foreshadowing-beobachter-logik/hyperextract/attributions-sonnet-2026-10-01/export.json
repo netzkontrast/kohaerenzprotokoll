@@ -1,0 +1,24 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "e211a4add84b154ef0debc0a83509a67e70a4cab415e173347558a15cd05183b",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Kael",
+        "target": "Große Stille",
+        "type": "defines",
+        "quote": "Kael nennt dies die „Große Stille“.",
+        "stance": "cites"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Primären Beobachtungs-Einheit",
+        "type": "claims",
+        "quote": "AEGIS spricht in seinen Statusberichten oft von der „Primären Beobachtungs-Einheit“ oder dem „Externen Taktgeber“.",
+        "stance": "cites"
+      }
+    ]
+  }
+}

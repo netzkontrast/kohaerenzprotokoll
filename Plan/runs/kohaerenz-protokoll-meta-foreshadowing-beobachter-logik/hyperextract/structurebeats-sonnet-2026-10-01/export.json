@@ -1,0 +1,17 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Kael spürt, dass die Aufmerksamkeit schwindet",
+        "target": "In Kapitel 39",
+        "type": "resolution",
+        "quote": "In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}
