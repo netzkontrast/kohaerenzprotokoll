@@ -82,3 +82,14 @@ and retain questions only where the choice belongs to the author.
 for an evidence-backed `SPEC.md`, a self-evaluation with reproducible checks,
 and an ordered migration. It does not commission another extraction sweep,
 an optimizer run or a rewrite of the novel.
+
+The author clarified the starter on 2026-10-01: expand and explain the ideas,
+planning and caveats for Claude to continue. The companion
+`Plan/concept/architecture-options_2026-10-01.md` develops concrete RLM/DSPy
+options, simpler comparators, version/consent limits, experiment gates and the
+first contribution on PR #139. These are hypotheses for the next session,
+not a claim that a final architecture has already been implemented or adopted.
+
+The author's later pointer to PR #140 is covered in
+`Plan/concept/pr140-architecture-input_2026-10-01.md`. Its graph/chunk RLM code
+is work to reuse and assess, not a reason to repeat the same experiment.

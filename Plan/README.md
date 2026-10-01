@@ -28,6 +28,12 @@ folders in `Plan/` are missing from it or listed here without existing, and
 not the source of truth. `python3 scripts/state.py --check` says whether it has
 drifted from the repository.
 
+The next architecture session starts at `Plan/briefings/architecture-session.md`.
+Its dated inputs are `Plan/concept/strategic-learning_2026-10-01.md`,
+`Plan/concept/architecture-options_2026-10-01.md` and
+`Plan/concept/pr140-architecture-input_2026-10-01.md`; the last distinguishes
+the ongoing RLM experiment from an adopted architecture.
+
 ## Two conventions that hold across the folders
 
 - **A dated file says what was true on its date.** Where a claim in it turned

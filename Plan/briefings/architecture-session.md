@@ -5,6 +5,18 @@ Produce one concrete recommended target architecture for the project, grounded
 in what the repository has learned. Do not end with another catalogue of tools
 or leave reversible engineering choices to the author.
 
+**Starter PR clarification, 2026-10-01:** the author asked for the reasoning,
+ideas, caveats and plan to be expanded first, so Claude can continue from them.
+Read `Plan/concept/architecture-options_2026-10-01.md` after the strategic review.
+It supplies RLM/DSPy hypotheses, comparable alternatives and experiments E0–E6;
+none is an architecture decision or authorization for model/corpus runs.
+Challenge those hypotheses and select a supported design before implementation.
+For branch continuation and the first concrete contribution, follow its section 8.
+The author also pointed to [PR #140](https://github.com/netzkontrast/kohaerenzprotokoll/pull/140).
+Read `Plan/concept/pr140-architecture-input_2026-10-01.md`, then inspect its latest
+head and results. Its graph/chunk RLM tools are existing experimental work to
+reuse; do not duplicate or restart the ongoing run to begin this session.
+
 The initializer prepares capabilities; it does not choose the session task.
 Read `NOW.md`, `PRINCIPLES.md`, `GOAL.md` and the relevant parts of `CLAUDE.md`,
 then `Plan/concept/strategic-learning_2026-10-01.md`. That review is a dated
@@ -77,6 +89,9 @@ At minimum evaluate these competing claims:
   model-family dependence, reader agreement and author calibration.
 - DSPy should optimize everything: identify an actual tunable surface, a
   fallible metric, a held-out set and a finite budget before recommending it.
+- RLM already wins because it compares chunk sizes: distinguish selected chunk
+  coverage from actually read evidence, completion from conditional scores,
+  and a size study from a matched comparison against simpler controllers.
 - A novel-context tool can operate already: inspect missing writing decisions,
   spoilers/reader knowledge, and the difference between research and canon.
 

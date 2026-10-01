@@ -35,3 +35,24 @@ committed PR #137 validation, not to a new measurement.
 Quote resolution does not verify interpretation. Unmarked absence phrases stay
 visible as a coverage limit. The strategic review's proposed gates are not
 completed experiments, and the future `SPEC.md` is not claimed to exist yet.
+
+## Starter expansion and PR #140 inspection
+
+The author clarified that the starter should explain hypotheses, alternatives,
+plans and caveats for Claude, then explicitly pointed to PR #140. PR #139 remains
+the architecture handover; PR #140 remains the separate RLM implementation/run.
+The initial open-PR count above predates both and is retained as session history.
+
+Inspected #140 at `68bbc8e7fb7f7360dd1a209d4ba91964aa193af7`, still open and
+unmerged when rechecked. Read its run design, results and relevant code, and
+compare result/ledger metadata without replaying a model call. The partial run
+contains 13/72 main rows; costs and counts match the three ledgers after rounding.
+`Plan/concept/pr140-architecture-input_2026-10-01.md` records the snapshot and
+seven interpretation/reproducibility limits. Reported branch tests were not
+rerun; no claim of independently validating all of #140 is made.
+
+The expansion changes documentation only. `git diff --check` passes and
+`python3 scripts/state.py --prose` again reports no contradictory prose claims.
+Primary RLM/DSPy/GEPA sources are linked in the architecture-options companion;
+their current APIs are not substituted for the repository's pinned versions.
+No new corpus reading, backfill, model run or change to #140 was performed.
