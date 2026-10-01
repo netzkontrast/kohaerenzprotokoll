@@ -14,6 +14,8 @@ rule = "ATX headings (#..######) outside code fences; backslash escapes of ASCII
 version = 1
 
 [chunker."heading@v1"]
+# chosen_by: Plan/runs/rlm-chunks-2026-10-01 — a dspy.RLM agent (Claude Haiku) over 24 bench cases × 3 sizes;
+#   no size beat this one by the pre-stated +0.027 paired line recall (200: +0.015 [−0.009, +0.040]; 800: −0.019)
 kind = "heading"
 target_min = 350
 target_max = 450
@@ -24,6 +26,7 @@ tables = "never split: GFM tables (a header row, a delimiter row, outer pipes op
 
 [chunker."heading200@v1"]
 # provisional — a size variant of heading@v1, to measure chunk size (docs/novelgraph-index.md §7)
+# measured: Plan/runs/rlm-chunks-2026-10-01 — +0.015 paired line recall vs heading@v1, not enough to replace it
 # retire when: the chunk-size measurement prefers another size on a gold set that does not reward the wiki's wording
 kind = "heading"
 target_min = 150
@@ -35,6 +38,7 @@ tables = "never split: GFM tables (a header row, a delimiter row, outer pipes op
 
 [chunker."heading800@v1"]
 # provisional — a size variant of heading@v1, to measure chunk size (docs/novelgraph-index.md §7)
+# measured: Plan/runs/rlm-chunks-2026-10-01 — −0.019 paired line recall vs heading@v1, worse in 7 of 15 pairs
 # retire when: the chunk-size measurement prefers another size on a gold set that does not reward the wiki's wording
 kind = "heading"
 target_min = 700

@@ -128,6 +128,17 @@ the sandbox's download cache is available.
   written from here — those are decisions, and an ingest proposes rather than
   resolves.
 
+## In this repository — `novelgraph rlm`, an agent over the chunk index
+
+`novelgraph/src/novelgraph/rlm.py` gives `dspy.RLM("question: str -> evidence: list[str]")` two tools over one chunker
+of the `Index/` — `search_chunks(query, mode)` and `read_chunk(ref)` — and accepts as evidence only refs a search
+showed, up to 3 200 tokens. It runs on Claude through `lmrun.make_lm("claude-cli/haiku")` and `lmrun.call`
+(`approval="decision 011"`), with `max_iters` 6 and `max_output_chars` 3 000. Measured on its first run
+(`Plan/runs/rlm-chunks-2026-10-01/`): about $0.11 a question; 12 of 72 runs forced; and Haiku once **wrote a tool's
+output itself**, a document the corpus does not hold included, then cited it — evidence comes from the tools'
+record, never from the answer. It needs the `rlm` extra of the `novelgraph` project, and NumPy must be imported
+before DSPy in that venv (DSPy's lazy importer breaks NumPy otherwise).
+
 ## Installing the sandbox
 
 `dspy.RLM`'s default `interpreter_factory` needs Deno. Installed DSPy 3.3.1

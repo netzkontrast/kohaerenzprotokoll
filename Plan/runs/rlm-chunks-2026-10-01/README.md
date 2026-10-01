@@ -48,4 +48,33 @@ Q1 was forced. $0.21 and $0.17, about 2 minutes each, 85 % of the tokens re-read
 
 ## Result
 
-*Written after the run.*
+**`heading@v1` stays.** Neither variant meets the pre-stated rule. 72 runs, Claude Haiku, $7.67, 83 minutes,
+no call failed (`results.jsonl`, `report.json`, every call in `lm/`).
+
+| chunker | scored / 24 | forced | line recall | doc recall | refs | tokens used of 3 200 | paired line Δ vs `heading@v1` (90 % CI) | better / worse | refused refs (invented) | cost |
+|---|---|---|---|---|---|---|---|---|---|---|
+| `heading200@v1` | 22 | 2 | 0.037 | 0.067 | 3.6 | 677 | **+0.015** [−0.009, +0.040], 17 pairs | 4 / 4 | 6 (3) | $2.42 |
+| `heading@v1` | 18 | 6 | 0.032 | 0.062 | 3.7 | 959 | — | — | 2 (2) | $2.52 |
+| `heading800@v1` | 20 | 4 | 0.018 | 0.050 | 4.2 | 1 834 | **−0.019** [−0.046, +0.006], 15 pairs | 3 / 7 | 1 (1) | $2.73 |
+
+Intervals: 10 000 bootstrap resamples of the paired differences. Means are over the cases each chunker scored.
+
+- **Smaller is not worse; larger leans worse, not established.** `heading200@v1` is ahead by +0.015 — below the +0.027 the rule asks for, with
+  as many cases worse as better and an interval that includes 0 — so it does not replace `heading@v1`.
+  `heading800@v1` is behind in 7 of 15 pairs and ahead in 3; the interval just includes 0, so it is not
+  established as worse, but nothing here argues for it. The static bench said the same in its own terms (0.051 at k = 8).
+- **The budget did not bind.** The agent cited 3.6–4.2 chunks and used a fifth to a half of the 3 200 tokens. It
+  stops on its own; what limits it is finding, not room to cite.
+- **`heading@v1` was forced most often** (6 of 24 against 2 and 4): six runs spent their six steps without
+  submitting. Whether its chunks invite more reading or this is chance across 24 cases is not measured.
+- **The agent invents evidence, and the gate catches it.** Nine refs were refused because no search had shown them;
+  six of them name documents the corpus does not hold. The first, in C10, came from a whole tool output Haiku wrote
+  itself (`Output (7,644 chars) … Search 7`) — a document `kapitel-1-durchschlag-arbeitsdokument-2026-06-10-md` that
+  does not exist, which `read_chunk` refused and the agent cited anyway. An agent's evidence is accepted from its
+  tools' record, never from its answer (P26).
+- **Absolute recall is a floor.** In 17 of 24 cases some chunker found at least one gold line; the gold is the lines the
+  records cite, and a passage that says the same in another document scores nothing (*What it cannot say*, above).
+
+**Recorded:** `Index/methods.toml` names this run beside `heading@v1` and beside each variant, as a comment (the
+registry stamp, and so every chunk id, is unchanged). The variants stay, provisional, for the measurement that can
+overturn this: an independent gold set (evaluation audit §3 item 4), on which chunk size may matter more than here.

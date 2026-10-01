@@ -1,0 +1,62 @@
+{
+ "heading200@v1": {
+  "cases": 24,
+  "scored": 22,
+  "forced": 2,
+  "failed": 0,
+  "line_recall": 0.037,
+  "doc_recall": 0.067,
+  "refs": 3.6,
+  "tokens": 702,
+  "invalid_refs": 6,
+  "invented_refs": 3,
+  "cost": 2.4168,
+  "seconds": 1695,
+  "vs_heading": {
+   "pairs": 17,
+   "mean_diff": 0.015,
+   "better": 4,
+   "worse": 4
+  }
+ },
+ "heading@v1": {
+  "cases": 24,
+  "scored": 18,
+  "forced": 6,
+  "failed": 0,
+  "line_recall": 0.032,
+  "doc_recall": 0.062,
+  "refs": 3.7,
+  "tokens": 927,
+  "invalid_refs": 2,
+  "invented_refs": 2,
+  "cost": 2.5246,
+  "seconds": 1424,
+  "vs_heading": {
+   "pairs": 18,
+   "mean_diff": 0.0,
+   "better": 0,
+   "worse": 0
+  }
+ },
+ "heading800@v1": {
+  "cases": 24,
+  "scored": 20,
+  "forced": 4,
+  "failed": 0,
+  "line_recall": 0.018,
+  "doc_recall": 0.05,
+  "refs": 4.2,
+  "tokens": 1727,
+  "invalid_refs": 1,
+  "invented_refs": 1,
+  "cost": 2.7252,
+  "seconds": 1882,
+  "vs_heading": {
+   "pairs": 15,
+   "mean_diff": -0.019,
+   "better": 3,
+   "worse": 7
+  }
+ }
+}
