@@ -42,9 +42,18 @@ No row here is labelled `ok`/`part`/`wrong` yet; everything below is counted, no
    returned nothing — `Anchors`, `LocationRegistry`, `Locks`, `OpenPoints`, `Pitch`, `Precedence`, `StandingClaims`,
    `Storypoints`, `TermTaxonomy` and `Analogies` (one row, refused) — which is what a contract of the wrong kind should do.
 
+6. **A row can be admitted and still lose the source's stance — admission is not precision.** On B, line 39 reports that a
+   source's Guardians were filtered out: „gefiltert: dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) **nicht**
+   übernommen". `AliasPairs` turns it into four rows `Cerberus/Nox/Echo/Limina — role_of → Guardians`, stance `asserts`, and
+   staging admits all four: the quotation is placed and every name stands. `EntityFacts` on the same line keeps the
+   de-canonisation (`Cerberus — dekanonisierte Guardians`). So a role row from this testbed is a proposal whose stance must be
+   read off its line, never canon — and with C6 decided (five Guardians, Cerberus among them) a reader of these rows needs the
+   line, not the row. Found by the author's review on PR #136.
+
 ## What comes next
 
-- **Label** a sample per contract (`hegraph.py`'s labels file, hash-drawn rows), so the precisions of graph-contracts §4.2 get a
+- **Label** a sample per contract — with the stance of the line in the label, since finding 6 shows the row's own stance can
+  be wrong while its line is placed — (`hegraph.py`'s labels file, hash-drawn rows), so the precisions of graph-contracts §4.2 get a
   Sonnet column; without labels nothing here says which contract belongs in step 1b.
 - **Score** `TermCensus` and the readings against the two documents' gold candidate lists (`goldeval.py`).
 - **Fix the gate** for markup and numbers, measured on these 29 rows (a selftest case each), then re-stage — staging is free.
