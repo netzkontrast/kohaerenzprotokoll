@@ -1,0 +1,9 @@
+
+manifest rows        : 587
+  landed and verified: 586
+  never fetched      : 1
+  path set, file gone: 0
+  checksum mismatch  : 0
+files not in manifest: 0
+
+ok — every landed row matches its file (1 still to fetch)

@@ -1,0 +1,319 @@
+  judgement  J4   Kern-Welten / Kern-Welt
+             one-term   a German plural ending is not a term boundary
+
+  judgement  J6   Der Möglichkeits-Garten / Nexus-Vorstufe / Möglichkeits-Garten
+             one-term   a slash inside a heading is an apposition, not a list separator
+
+  judgement  J7   Nexus-Vorstufe / Nexus
+             two-terms  containment where the longer form names a stage or part of the shorter is two terms
+
+  judgement  J8   Kohärenz-Programm / Kohärenz
+             two-terms  a compound naming an entity is not a surface of the property it contains
+
+  judgement  J9   Das Seelen-Kohärenz-Protokoll / Kohärenz
+             two-terms  a title containing a term is never a surface of that term
+
+  judgement  J10  Guardians / Integrity Guardian
+             two-terms  a shared head noun is not a shared referent
+
+  judgement  J11  Zero-Trust / Zero-Trust-Architektur
+             two-terms  a project term named after an external standard is not that standard
+
+  judgement  J13  Kael-Julia-Bindung / Kael-Juna-Verbindung
+             open       before naming a page from a read sample, ask the corpus what it calls the thing
+
+  judgement  J14  Der Möglichkeits-Garten / Nexus-Vorstufe / Möglichkeits-Garten
+             one-term   a slash inside a heading is an alias or a role, never a term boundary
+
+  judgement  J15  Der Möglichkeits-Garten / Nexus-Vorstufe / Nexus
+             two-terms  X-Vorstufe is not X; a precursor names a relation, not an identity
+
+  judgement  J17  Das Seelen-Kohärenz-Protokoll / Kohärenz
+             two-terms  a quoted work title beside `Romanprojekt`/`Projekt` names the work, not a concept inside it
+
+  judgement  J18  Nexus / Überraum
+             open       regularity of position is evidence, not a statement; do not merge on it
+
+  judgement  J20  Wächter / Guardian
+             judgement  Wächter is never resolved by the surface — the referent is decided by the sentence, and a page may not claim the word
+
+  judgement  J21  Entropie-Score / globaler Entropie-Score
+             one-term   a leading adjective that names scope does not split a term
+
+  judgement  J22  Guardian / IntegrityGuardian
+             two-terms  containment across a class name and a proper name is not evidence — an instance is a reading on the class, a namesake is not
+
+  judgement  J23  Guardian / Guardians
+             one-term   an English plural -s is never a term boundary, the same way a German article is not
+
+  judgement  J24  Riss / Risse
+             one-term   a German plural is never a term boundary
+
+  judgement  J25  Alter / Alters
+             one-term   a German plural is never a term boundary
+
+  judgement  J26  Kernwelt 1 / Kern-Welt
+             one-term   a hyphen inside a compound is never a term boundary, and a numbered instance is a reading on its class
+
+  judgement  J27  Entropie / Prä-Entropie
+             two-terms  a prefix that negates or precedes makes a new term; a prefix that qualifies does not
+
+  judgement  J28  Entropie / Entropiemanagement
+             judgement  a compound is placed by what it names, never by its head — the head predicts nothing
+
+  judgement  J29  AEGIS / Rest-AEGIS
+             one-term   a prefix naming a later state of the same bearer does not make a new term
+
+  judgement  J30  Simulation / Simulations-Engine
+             judgement  — no rule stated; this one is still open
+
+  judgement  J31  Teil 1 / Teil 2
+             not-a-term a label that partitions the document is not a term, however often it repeats
+
+  judgement  J32  Kernsystem / Kernsystemprotokoll
+             two-terms  a compound is placed by what it names, never by its head
+
+  judgement  J33  Wächter / Guardians
+             judgement  — no rule stated; this one is still open
+
+  judgement  J34  Kairos / Kairos/Sophia
+             one-term   a slash between two names the wiki already has is an alias, not a term boundary
+
+  judgement  J35  Möglichkeits-Garten / Garten der Möglichkeiten
+             one-term   — no rule stated; this one is still open
+
+  judgement  J36  Nexus / Nexus-Interface
+             judgement  — no rule stated; this one is still open
+
+  judgement  J37  Kern-Welt / KW1
+             one-term   a numbered instance of a class the wiki has is a reading on that class, not a new term
+
+  judgement  J38  Limina / Liminale Räume
+             two-terms  a candidate that shares a stem with a cited external concept is checked against the reference list before it is a surface
+
+  judgement  J39  Simulation / Überwelt
+             two-terms  — no rule stated; this one is still open
+
+  judgement  J40  Lokalitäten-Profil / Konzept/Zweck
+             not-a-term a label that partitions the document is not a term, however often it repeats
+
+  judgement  J41  Die Große Mauer / Grenzfeste
+             two-terms  — no rule stated; this one is still open
+
+  judgement  J42  Realitätsebenen / Kern-Welten
+             two-terms  a set is not its largest subset
+
+  judgement  J43  Orakel / Orakel/Muse
+             one-term   a slash between two names the wiki already has is an alias, not a term boundary
+
+  judgement  J44  Anomalie / Anomalien
+             one-term   a German plural is not a term boundary
+
+  judgement  J45  Riss / Risse
+             one-term   a German plural is not a term boundary
+
+  judgement  J46  Alters / Alter
+             one-term   an English plural -s on a German noun is not a term boundary
+
+  judgement  J47  AEGIS / Wir-AEGIS
+             two-terms  a later state is the same term only when the bearer is the same; a name the source marks as undecided gets no page
+
+  judgement  J48  Kael / System Kael
+             two-terms  the whole a member belongs to is not the member
+
+  judgement  J49  Logos-Prime / LogOS
+             two-terms  a world name built from a bearer's name is not the bearer; containment across a proper name is not evidence
+
+  judgement  J50  Wohneinheit 734 / Kaels Wohneinheit 1.0
+             one-term   a dwelling is identified by its occupant and its place; a differing number is a reading, not a new term
+
+  judgement  J51  Nichts-Rauschen / Rauschen
+             two-terms  a source equating two surfaces once does not make them one term everywhere
+
+  judgement  J52  Trennungsprotokoll / Trennung
+             two-terms  an event and the state it produces are two terms
+
+  judgement  J53  Landauer-Signatur / Entropie-Signatur
+             two-terms  a shared head noun is not a shared referent
+
+  judgement  J54  Basisrealität / Externe Ebene
+             one-term   two names given the same place and the same attributes in the same words are one term
+
+  judgement  J55  Kael / System Kael
+             judgement  a name the source uses for a whole and one of its members is resolved by the sentence, never by the surface
+
+  judgement  J56  Coheron / Coheronen
+             one-term   a German plural is not a term boundary
+
+  judgement  J57  Kohärenz / Kohärenzprotokoll
+             two-terms  a compound naming a protocol is not the property it is named for
+
+  judgement  J58  Wohneinheit 734-K / Kaels Wohneinheit 1.0
+             one-term   a dwelling is identified by its occupant and its place; a differing number is a reading, not a new term
+
+  judgement  J59  Erasure-Pol / Erasure
+             two-terms  a compound naming an entity is not a surface of the property it contains
+
+  judgement  J60  Autonomous Entropic Gatekeeper for Integrity Systems / AEGIS
+             one-term   an acronym and the expansion the same sentence gives it are one term
+
+  judgement  J61  Garten der Möglichkeiten / Möglichkeits-Garten
+             one-term   a source using two surfaces of one term at two scales is a reading about scale, not a term boundary — the same as J51
+
+  judgement  J62  Landauer-Abwärme / Landauer-Signatur
+             two-terms  a passage is placed by what it states, not by the surface it uses; a cause and its sensory rendering are two terms (J53)
+
+  judgement  J63  Überwelt-Nexus / Überwelt
+             two-terms  a compound naming a place is not either of the places it is built from (J8, J49); where one document gives both, it is a reading, not a merge
+
+  judgement  J64  Therapie-Schnittstelle Gamma / Therapie-Schnittstelle Alpha
+             one-term   a facility is identified by its function and its world; a differing letter or number is a reading, not a new term (J50 generalised)
+
+  judgement  J65  Datenverarbeitungsknoten Epsilon / Datenverarbeitungsknoten 7G
+             one-term   a facility is identified by its function and its world; a differing letter or number is a reading, not a new term
+
+  judgement  J66  Zero-Trust-Boundary-Protocols / Zero-Trust
+             two-terms  a compound naming a protocol is not the function it is named for (J57); a passage is placed by what it states
+
+  judgement  J67  Personae / Personas
+             judgement  a bare plural that could name the page's referent or Kael's parts is resolved by the sentence, never by the surface (J20, J55)
+
+  judgement  J68  Ursprungs-Ich / Juna
+             two-terms  a gloss that one passage writes and another passage of the same source contradicts is a reading, never a merge (J51)
+
+  judgement  J69  Akt I / Bauchreaktion
+             two-terms  a match that exists only after folding joins or cuts words is not containment, and no evidence either way
+
+  judgement  J70  Kael-MC / Kael
+             one-term   a compound naming a bearer's role in a storyform is a reading on the bearer, not a new term
+
+  judgement  J71  Moonshine / Moonshine-Link
+             judgement  a head that names both a link and the mathematics it is named after is resolved by the sentence, never by the surface (J11, J20)
+
+  judgement  J72  Synthese (c) / Synthese
+             one-term   a parenthetical index a document attaches to a term's name is part of the label, not a new term
+
+  judgement  J73  Wir-AEGIS-plural / Wir-AEGIS
+             one-term   surfaces a source uses for the one state it describes are one term among themselves; the page waits for the name the source marks open (J47)
+
+  judgement  J74  AEGIS-Echo / Echo-AEGIS
+             two-terms  a compound is placed by what it names; two compounds of the same parts in different order can name different bearers (J28, J49)
+
+  judgement  J75  Ursprungs-Ich / AEGIS
+             two-terms  a gloss that one source writes and another contradicts is a reading, never a merge (J51, J68)
+
+  judgement  J76  Genesis / Genesis-Flashback
+             two-terms  A modifier that names a narrative device, a subevent or a later retelling does not become an alias of the underlying event.
+
+  judgement  J77  Genesis / Genesis-Echo
+             two-terms  A modifier that names a narrative device, a subevent or a later retelling does not become an alias of the underlying event.
+
+  judgement  J78  Genesis / Genesis-Krise
+             two-terms  A modifier that names a narrative device, a subevent or a later retelling does not become an alias of the underlying event.
+
+  judgement  J79  Genesis / geheilte Genesis
+             two-terms  A modifier that names a narrative device, a subevent or a later retelling does not become an alias of the underlying event.
+
+  judgement  J80  Wohneinheit 734 / Einheit 734
+             judgement  a number shared by a dwelling and a designation does not identify either; the referent of a bare numbered label is decided by the passage, and a document that places it both ways leaves it open
+
+  judgement  J81  Landauer / Landauer-Signatur
+             two-terms  a foreshadowing strand named after a person is not the phenomenon named after that person (J53, J62)
+
+  judgement  J82  Zwei Guardians / Guardians
+             one-term   a leading numeral counting a term is a reading on that term, never a new term
+
+  judgement  J83  Polaritätsregel / Hitze-Polaritätsregel
+             one-term   a compound's head used alone, stating the same content the document gives the full compound, is a short form of that compound; the content decides, not the head (J28)
+
+  judgement  J84  13 Alter / Alter
+             one-term   a leading numeral counting a term is a reading on that term, never a new term (J82)
+
+  judgement  J85  Atemporal / Atemporalität
+             one-term   an adjective the document uses as the label of a property the wiki has a noun page for is a surface of that noun, when the passage predicates the same property
+
+  judgement  J86  Juna ↔ AEGIS / AEGIS
+             two-terms  an arrow between two names states a relation, never an alias — unlike a slash between two names the wiki has (J34, J43)
+
+  judgement  J88  Anteil / Alter
+             judgement  a common noun a source uses for a page's referent is resolved by the sentence, never by the surface (J20, J55, J67)
+
+  judgement  J89  Flight (implizit Lia/Isabelle) / Isabelle
+             two-terms  a type with its bearers in a parenthesis is the type; the bearers are a claim about it, and an inferred one says so (J70 is the reverse shape: a name with its role)
+
+  judgement  J90  Rotation / Truth-Rotation
+             two-terms  a beat named for what happens in it is the beat, not the thing; the content is a reading on the thing's page (J76 for a device)
+
+  judgement  J91  Große Inversion / Truth-Rotation
+             two-terms  a name a source calls the source of another is not that other's alias, even where a second source uses one name for both
+
+  judgement  J92  Komp 734 / Komponente 734
+             one-term   a clipped word (Komp for Komponente, Op for Operator) that names what the full form names in the same document is one term with it; the referent decides, not the letters (J83 for a compound's head used alone)
+
+  judgement  J93  Erason-Op / Erason-Operator
+             one-term   the rule of J92: a clipped word naming what the full form names in the same document is one term with it
+
+  judgement  J94  Doppel-Klammer / Genesis-Klammer
+             one-term   two names for one structure identified by the same parts it spans (here Kap 0 and Kap 40) are one term; a source that gives the name to one of the parts is a reading on the page, not a second term
+
+  judgement  J95  Innere Weite / Überwelt
+             one-term   a name that read sources gloss with a page's surface, A (B), for the same described thing, and that no read source separates from it, is an alias of that page; a gloss in one source alone stays unjudged (the proposal layer)
+
+  judgement  J96  Kiko-Vorform-Einbruch / Kiko
+             two-terms  a precursor form of a figure is not the figure (J15); a passage that states the figure's own traits through its precursor is a reading on the figure's page, placed by what it states (J62), and the precursor gets no page
+
+  judgement  J97  Kohärenz Protokoll / Kohärenz Protokolls
+             one-term   a German case ending — a genitive -s or -es on the noun, -e/-en/-er on an adjective before it — is not a term boundary
+
+  judgement  J98  K1 / Kohärenz-Kernel (K₁)
+             one-term   a subscript written as a plain digit is not a term boundary; a bare symbol is placed by the sentence, never by the surface (J20, J71)
+
+  judgement  J99  K0 / Kollaps-Kernel (K₀)
+             one-term   the rule of J98: a subscript written as a plain digit is not a term boundary; a bare symbol is placed by the sentence
+
+  judgement  J100 Separation Protocol / Trennungsprotokoll
+             judgement  an English name a source gives a page's referent is placed by the sentence; one source's translation is not a surface of the page (J51, J98)
+
+  judgement  J101 Component 734 / Komponente 734
+             judgement  the rule of J100: an English name a source gives a page's referent is placed by the sentence; one source's translation is not a surface of the page
+
+  judgement  J102 Phone-Silence / Telefon-Stille
+             judgement  the rule of J100, and J51: a source using a translation beside a page's name for one thing is a reading on the page, not a surface of it
+
+  judgement  J104 RS-A / RSA
+             two-terms  punctuation joining a throughline to its storyform (RS-A, A:RS) is part of the abbreviation; the folded form names something else (J87)
+
+  judgement  J105 Trauma-Lokus / Vergessener Schrein (Trauma-Lokus)
+             judgement  a common-noun alias a page took from one source's heading is resolved by the sentence in every other source, never by the surface (J20, J51, J88)
+
+  judgement  J106 DKT (Dissoziative Kontroll-Technik) / DKT
+             judgement  an acronym with a different expansion in the same sentence is a different term (J60); where the sentence restates a rule other sources give the page's term, the page records the expansion and the rule, attributed
+
+  judgement  J107 Möglichkeiten-Garten / Möglichkeits-Garten
+             one-term   a compound's linking element (the Fugen-s, a plural -en or -n) is not a term boundary, as a case ending is not (J97)
+
+  judgement  J108 Kapitel 1 / Kapitel 10
+             two-terms  a number ends a chapter label: `Kapitel 1` is not contained in `Kapitel 10`, as a case ending is no term boundary (J97) and a digit is one
+
+  judgement  J109 Datenknotenpunkt Gamma-7 / Datenverarbeitungsknoten 7G
+             one-term   a designator whose letter and number are reordered or spelled out names the same place when function, occupant and world agree (J64)
+
+  judgement  J110 Moonshine-Signatur / Moonshine-Link
+             judgement  a relation named differently is placed by what it relates and how: the same two bearers bound non-locally through the Monster group's symmetry is the page's subject, whatever the name
+
+  judgement  J111 J / Juna
+             judgement  a figure written only by an initial is placed by what the passage makes it (Kael's non-local counterpart), never by the letter; the reading says the name is absent
+
+  judgement  J112 T-734 / Komponente 734
+             judgement  a number the wiki pages as a designation, written with a prefix for another referent (a trauma, a fragment), is placed on the number's page as this source's sense of it; the referent decides, not the digits
+
+  judgement  J115 Wohnmodul / Kaels Wohneinheit 1.0
+             judgement  a common noun a source uses for a page's referent is resolved by the sentence, never by the surface (J88)
+
+  judgement  J117 Landauer-Wärme / Landauer-Signatur
+             judgement  a name built on a page's physicist that a source uses for the in-world phenomenon itself goes on that page by the sentence; one that names a plot strand does not (J81)
+
+  judgement  J119 Dr. Aris Thorne / Lex
+             judgement  a name a source says a figure first gives itself is read on that figure's page; one source's name is no surface (J100)
+
+120 judgements: 8 agree, 0 DISAGREE, 106 still judgement, 6 skipped

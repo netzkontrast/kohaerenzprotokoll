@@ -1,0 +1,3 @@
+
+A bare ^[Lnn] resolves against the file's own `source:`.
+21969 cited quotes checked, 0 unresolved, 0 unchecked — a quotation with no citation on its own line, or none naming a document that could be resolved; 1507 count marks checked, 0 wrong; 1143 absence phrases carry no mark.
