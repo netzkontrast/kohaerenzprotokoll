@@ -1,0 +1,45 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "178c0eab9da748e5dbcf10056129e34690b74e781c0c79b9fc951e6442850208",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "„Stasis-Lücken“",
+        "target": "Teil 1",
+        "type": "duration",
+        "quote": "Das Phänomen der „Stasis-Lücken“ (Teil 1)",
+        "stance": "asserts"
+      },
+      {
+        "source": "„Höhere Metrik“",
+        "target": "Teil 2",
+        "type": "duration",
+        "quote": "AEGIS und die „Höhere Metrik“ (Teil 2)",
+        "stance": "asserts"
+      },
+      {
+        "source": "„Rendering-Grenzen“",
+        "target": "Teil 1 & 2",
+        "type": "duration",
+        "quote": "Die „Rendering-Grenzen“ (Teil 1 & 2)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael spürt, dass die Aufmerksamkeit schwindet",
+        "target": "Kapitel 39",
+        "type": "duration",
+        "quote": "In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beobachter-Fokus",
+        "target": "85%",
+        "type": "parameter",
+        "quote": "Beobachter-Fokus bei 85%",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "178c0eab9da748e5dbcf10056129e34690b74e781c0c79b9fc951e6442850208",
+  "input_rows": 5,
+  "candidates": 5,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:1eaa45493ec04ceff1ba09f3e6f6cb32e327a9e02050f53d50076cb908cf781b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "„Stasis-Lücken“",
+        "target": "Teil 1",
+        "type": "duration",
+        "quote": "Das Phänomen der „Stasis-Lücken“ (Teil 1)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Quantities",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "178c0eab9da748e5dbcf10056129e34690b74e781c0c79b9fc951e6442850208",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        15
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:530e41fa41bc1b1176e17b85fdd2d79b1d3a4a40ea2dbdd55b16d310159b036c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "„Höhere Metrik“",
+        "target": "Teil 2",
+        "type": "duration",
+        "quote": "AEGIS und die „Höhere Metrik“ (Teil 2)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Quantities",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "178c0eab9da748e5dbcf10056129e34690b74e781c0c79b9fc951e6442850208",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2ea58dbe5ab055c5ea7e52b7143663e7d9f4da942e77a78aa58d434cd1e0493f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "„Rendering-Grenzen“",
+        "target": "Teil 1 & 2",
+        "type": "duration",
+        "quote": "Die „Rendering-Grenzen“ (Teil 1 & 2)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Quantities",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "178c0eab9da748e5dbcf10056129e34690b74e781c0c79b9fc951e6442850208",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        30
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e11d7352a1adc2d82729b3370fb4fe38467693d7c161815798f938d8afbe6c9a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael spürt, dass die Aufmerksamkeit schwindet",
+        "target": "Kapitel 39",
+        "type": "duration",
+        "quote": "In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Quantities",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "178c0eab9da748e5dbcf10056129e34690b74e781c0c79b9fc951e6442850208",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:769593a1ec3bc1b2bdd2628a0e47c3a352321c50962794405505407b56373e45",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Beobachter-Fokus",
+        "target": "85%",
+        "type": "parameter",
+        "quote": "Beobachter-Fokus bei 85%",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Quantities",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "178c0eab9da748e5dbcf10056129e34690b74e781c0c79b9fc951e6442850208",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        58
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

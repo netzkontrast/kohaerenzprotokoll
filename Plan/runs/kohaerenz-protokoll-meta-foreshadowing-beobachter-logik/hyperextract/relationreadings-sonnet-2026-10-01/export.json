@@ -1,0 +1,234 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "d75a1adce0214ab98c252fd2e64b11d9dc4dcc5e0e95b2272c91b186504f4283",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Kael",
+        "target": "der Leser",
+        "type": "is_manifestation_of",
+        "quote": "dass Kael die Manifestation des Lesers ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "seine Welt",
+        "type": "world_dies_when_book_closes",
+        "quote": "seine Welt mit dem Zuklappen des Buches stirbt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Zeit im Konstrukt",
+        "type": "perceives_as_clocked_not_linear",
+        "quote": "Kael sollte früh bemerken, dass die Zeit im Konstrukt nicht linear fließt, sondern „getaktet“ ist.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Kael",
+        "target": "Welt um ihn herum",
+        "type": "experiences_freezing_of",
+        "quote": "Kael erlebt Momente, in denen die Welt um ihn herum für eine unbestimmte Dauer einfriert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stasis-Lücken",
+        "target": "der Leser",
+        "type": "occurs_when_interrupted",
+        "quote": "Das passiert immer dann, wenn der Leser im realen Leben unterbrochen wird (das Buch weglegt).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Große Stille",
+        "type": "names",
+        "quote": "Kael nennt dies die „Große Stille“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "autonomer Gott",
+        "type": "does_not_act_as",
+        "quote": "AEGIS agiert nicht als autonomer Gott, sondern als Verwalter, der auf ein „Signal“ wartet.",
+        "stance": "denies"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Signal",
+        "type": "waits_for",
+        "quote": "sondern als Verwalter, der auf ein „Signal“ wartet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Primären Beobachtungs-Einheit",
+        "type": "mentions_in_status_reports",
+        "quote": "AEGIS spricht in seinen Statusberichten oft von der „Primären Beobachtungs-Einheit“ oder dem „Externen Taktgeber“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Kohärenz Protokoll",
+        "type": "justifies_with_possible_loss_of_interest",
+        "quote": "Er rechtfertigt seine harten Maßnahmen (das Kohärenz Protokoll) damit, dass die „Einheit“ sonst das Interesse verlieren und das System abschalten könnte.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Einheit",
+        "target": "System",
+        "type": "might_shut_down",
+        "quote": "dass die „Einheit“ sonst das Interesse verlieren und das System abschalten könnte.",
+        "stance": "hedges"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Zuklappen des Buches",
+        "type": "fears",
+        "quote": "AEGIS hat Angst vor dem Zuklappen des Buches.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "der Leser",
+        "type": "tries_to_keep_attention_of",
+        "quote": "Seine Ordnungssucht ist ein verzweifelter Versuch, den Leser (den Beobachter) bei der Stange zu halten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Aufmerksamkeit",
+        "target": "System",
+        "type": "supplies_energy_to",
+        "quote": "damit das System weiter mit „Aufmerksamkeit“ (Energie) versorgt wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Grenzen der Mathematik und Physik",
+        "target": "der Leser",
+        "type": "are_technical_limits_of",
+        "quote": "Integriere Hinweise auf die Grenzen der Mathematik und Physik als technische Limits des Lesers.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Welt",
+        "type": "causes_disintegration_of",
+        "quote": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Welt",
+        "target": "Leser",
+        "type": "exists_only_as_far_as_imagined_by",
+        "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann.",
+        "stance": "asserts"
+      },
+      {
+        "source": "System",
+        "target": "Verstand des Beobachters (des Lesers)",
+        "type": "undecidability_caused_by_cognitive_limits_of",
+        "quote": "Wenn das System unentscheidbar wird, liegt das daran, dass der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Kael",
+        "type": "whispers_truth_to",
+        "quote": "Juna ist diejenige, die Kael die Wahrheit flüstert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Herz",
+        "type": "heart_beats_by_itself",
+        "quote": "Glaubst du wirklich, dein Herz schlägt von selbst?",
+        "stance": "asks"
+      },
+      {
+        "source": "Herz",
+        "target": "Leser",
+        "type": "beats_only_because_read_by",
+        "quote": "Oder schlägt es nur, weil da draußen jemand die Zeilen liest, die uns definieren?",
+        "stance": "asks"
+      },
+      {
+        "source": "Leser",
+        "target": "Kael",
+        "type": "sent_as_probe_into_trauma",
+        "quote": "Kael ist die Sonde, die der Leser in das Trauma geschickt hat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leser",
+        "target": "Kael",
+        "type": "uses_as_tool_to_heal_dissociation",
+        "quote": "Er ist das Werkzeug, mit dem der Leser versucht, seine eigene Dissoziation",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zuklappen des Buches",
+        "target": "Wärmetod des Universums",
+        "type": "is_framed_as",
+        "quote": "Das Zuklappen des Buches wird als der „Wärmetod des Universums“ (Entropie) geframt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Aufmerksamkeit",
+        "type": "senses_fading_of",
+        "quote": "wie Kael spürt, dass die Aufmerksamkeit schwindet",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "letzter Punkt",
+        "type": "will_stop_breathing_when_set",
+        "quote": "Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Leser",
+        "type": "does_not_ask_to_continue_reading",
+        "quote": "Kael bittet den Leser nicht darum, weiterzulesen",
+        "stance": "denies"
+      },
+      {
+        "source": "Kael",
+        "target": "Gedanke eines Fremden",
+        "type": "accepts_fate_as",
+        "quote": "sondern akzeptiert sein Schicksal als „Gedanke eines Fremden“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Du",
+        "target": "Leser",
+        "type": "is_not_direct_address_to",
+        "quote": "Nicht als direkte Ansprache des Lesers, sondern als interne Stimme Kaels",
+        "stance": "denies"
+      },
+      {
+        "source": "Du",
+        "target": "Kael",
+        "type": "is_internal_voice_of",
+        "quote": "sondern als interne Stimme Kaels, die sich fragt:",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS-Protokolle",
+        "target": "Beobachtungsstatus",
+        "type": "query",
+        "quote": "Nutze Kursivschrift für AEGIS-Protokolle, die den „Beobachtungsstatus“ abfragen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "narrative Spannung",
+        "target": "System-Abschaltung",
+        "type": "raised_to_prevent",
+        "quote": "Erhöhe narrative Spannung, um System-Abschaltung zu verhindern.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

@@ -33,3 +33,13 @@
 06:39:21 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Precedence
 {"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Precedence.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 15.1, "input_tokens": 12033, "output_tokens": 813, "cost_usd": 0.0468, "approval": "decision 011 (Claude, first party); the a
 06:39:36 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik ProseRules
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "ProseRules.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 26.8, "input_tokens": 12559, "output_tokens": 2482, "cost_usd": 0.0661, "approval": "decision 011 (Claude, first party); the 
+06:40:03 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Quantities
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Quantities.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 20.7, "input_tokens": 11942, "output_tokens": 1858, "cost_usd": 0.0568, "approval": "decision 011 (Claude, first party); the 
+06:40:24 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik RelationReadings
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "RelationReadings.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 27.5, "input_tokens": 11526, "output_tokens": 3210, "cost_usd": 0.0684, "approval": "decision 011 (Claude, first party)
+06:40:52 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik Rules
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "Rules.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 21.6, "input_tokens": 12050, "output_tokens": 2017, "cost_usd": 0.059, "approval": "decision 011 (Claude, first party); the author
+06:41:14 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik StandingClaims
+{"document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "template": "StandingClaims.yaml", "model": "claude-cli/sonnet", "calls": 3, "failed_calls": 0, "seconds": 11.3, "input_tokens": 11974, "output_tokens": 163, "cost_usd": 0.04, "approval": "decision 011 (Claude, first party); the
+06:41:26 kohaerenz-protokoll-meta-foreshadowing-beobachter-logik StatedRelations

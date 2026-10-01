@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "source": "Das",
+      "target": "der Leser im realen Leben unterbrochen wird",
+      "type": "if_then",
+      "quote": "Das passiert immer dann, wenn der Leser im realen Leben unterbrochen wird",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kael",
+      "target": "zerfällt die Welt in Textfragmente oder unklare Schemen",
+      "type": "if_then",
+      "quote": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "System",
+      "target": "der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt",
+      "type": "if_then",
+      "quote": "Wenn das System unentscheidbar wird, liegt das daran, dass der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Die Welt",
+      "target": "existiert nur so weit, wie der Leser sie sich vorstellen kann",
+      "type": "only_if",
+      "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann.",
+      "stance": "asserts"
+    },
+    {
+      "source": "er",
+      "target": "aufhören zu atmen",
+      "type": "if_then",
+      "quote": "Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen.",
+      "stance": "asserts"
+    }
+  ]
+}
