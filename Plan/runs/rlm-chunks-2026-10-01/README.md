@@ -101,6 +101,13 @@ measure. Each point, and what was done about it — the pre-stated result above 
   beats a fixed pack or bounded expansion is a different, matched comparison (E4 in
   `Plan/concept/architecture-options_2026-10-01.md`), not run here.
 - **An accepted ref is a real location a search returned, not semantic support** for the question.
+- **A scored line is a line of a selected chunk, not a line read.** `evaluate` scores a chunk's whole range, including
+  chunks never read and the tail `read_chunk` cut at 4 000 characters. The claim is *selected-chunk recall*; the
+  forced-run counts (2 / 6 / 4) differ by chunker and stand beside the complete-case pairs, not inside them.
+- **After the review of PR #140** (`novelgraph rlm`): a chunk is shown and read only while its source still hashes to
+  the index — a changed source answers `STALE REF` and the ref is refused as evidence; a run names its directory
+  (`--run`), and its fingerprint now covers the cases' questions and gold, so this directory, whose rows predate the
+  fingerprint, is read by `--report` and never resumed; `--retry-failed` re-runs a run's own failed calls.
 
 All three views (`analysis.json`) agree: no size replaces `heading@v1`.
 
