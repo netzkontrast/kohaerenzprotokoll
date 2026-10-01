@@ -198,6 +198,8 @@ def report(path: Path | None = None) -> dict:
     """Per method: scored cases, mean line and document recall, forced and failed runs, cost; and the
     paired comparison against heading@v1 on the cases both scored."""
     rows = read_jsonl(path or RUN / "results.jsonl")
+    from .repo import documents
+    landed = {d.slug for d in documents()}
     by = {}
     for r in rows:
         by.setdefault(r["method"], []).append(r)
@@ -212,6 +214,10 @@ def report(path: Path | None = None) -> dict:
                   "doc_recall": round(statistics.mean(r["doc_recall"] for r in sc), 3) if sc else None,
                   "refs": round(statistics.mean(len(r["accepted"]) for r in sc), 1) if sc else None,
                   "tokens": round(statistics.mean(r["tokens"] for r in sc)) if sc else None,
+                  "invalid_refs": sum(len(r["invalid"]) for r in rs),
+                  # an invalid ref naming no landed document was invented, not merely unshown
+                  "invented_refs": sum(1 for r in rs for x in r["invalid"]
+                                       if (REF.match(str(x).strip().removesuffix(".md")) or [None, None])[1] not in landed),
                   "cost": round(sum(r["cost"] for r in rs), 4),
                   "seconds": round(sum(r["seconds"] for r in rs)),
                   "vs_heading": {"pairs": len(paired),
@@ -221,12 +227,19 @@ def report(path: Path | None = None) -> dict:
 
 
 def selftest() -> list[str]:
-    """The tools, the refusal of an unshown ref, the budget, the scoring — on the real index, no model."""
+    """The tools, the refusal of an unshown ref, the budget, the scoring — on a temporary two-source index
+    with the deterministic stand-in embedder of `selftest.fixture`, so it needs no corpus build and no model."""
+    from .selftest import QUIET, TEXTS, fixture
+    with fixture(TEXTS):
+        build.build(**QUIET)
+        return _selftest(search.Index("heading@v1"))
+
+
+def _selftest(ix) -> list[str]:
     fails = []
-    ix = search.Index("heading@v1")
     shown: dict = {}
     search_chunks, read_chunk = tools_for(ix, shown)
-    hits = json.loads(search_chunks("Guardians AEGIS"))
+    hits = json.loads(search_chunks("Kael Sterne AEGIS Archiv"))
     if not hits or not all(REF.match(h["ref"]) for h in hits):
         fails.append(f"search_chunks returned no well-formed refs: {hits[:2]}")
         return fails
