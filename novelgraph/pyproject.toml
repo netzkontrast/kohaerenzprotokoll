@@ -3,7 +3,7 @@ name = "novelgraph"
 version = "0.1.0"
 description = "Source-attributed, incremental CPU retrieval index"
 requires-python = ">=3.11"
-dependencies = ["model2vec>=0.7,<1", "numpy>=2,<3", "httpx[socks]>=0.28,<1"]
+dependencies = ["model2vec>=0.7,<1", "numpy>=2,<3", "httpx[socks]>=0.28,<1", "threadpoolctl>=3,<4", "simplemma>=2,<3"]
 
 [project.scripts]
 novelgraph = "novelgraph.cli:main"

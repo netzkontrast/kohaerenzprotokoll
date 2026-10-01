@@ -4,6 +4,7 @@ import json
 import re
 import sqlite3
 import numpy as np
+from threadpoolctl import threadpool_limits
 from .index import EMBEDDER, read_json, sha
 from . import repo
 
@@ -51,6 +52,7 @@ class Search:
     def close(self):
         self.db.close()
 
+    @threadpool_limits.wrap(limits=1, user_api="blas")
     def query(self, text, k=8, mode="hybrid"):
         if k < 1:
             raise ValueError("k must be positive")

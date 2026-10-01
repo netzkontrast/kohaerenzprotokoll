@@ -2,6 +2,7 @@
 from __future__ import annotations
 from contextlib import contextmanager
 from datetime import datetime, timezone
+from functools import lru_cache
 from pathlib import Path
 import fcntl
 import hashlib
@@ -14,6 +15,7 @@ import tempfile
 import time
 import tomllib
 import numpy as np
+import simplemma
 
 from . import repo
 from .chunking import make_chunks, sha, slice_text
@@ -43,12 +45,24 @@ def atomic_json(path, value):
 
 def lexical(text, chunk):
     # These are lexical surfaces, never claimed to be morphological lemmas.
-    surfaces = [repo.fold(t) for t in re.findall(r"\w+(?:[-:]\w+)*", chunk["prefix"] + "\n" + text)]
-    return dict(id=chunk["id"], surfaces=[s for s in surfaces if s], lemmas=[])
+    terms = re.findall(r"\w+(?:[-:]\w+)*", chunk["prefix"] + "\n" + text)
+    surfaces = {repo.fold(t) for t in terms}
+    lemmas = {lemma(t) for t in terms}
+    return dict(id=chunk["id"], surfaces=sorted(s for s in surfaces if s),
+                lemmas=sorted(s for s in lemmas if s))
+
+
+@lru_cache(maxsize=200000)
+def lemma(term):
+    return repo.fold(simplemma.lemmatize(term, lang=("de", "en")))
 
 
 def language(text):
-    # Explicit unknown rather than an unvalidated DE/EN classifier.
+    body, _ = repo.split_body(text)
+    guesses = simplemma.langdetect(body[:8000], lang=("de", "en"))
+    # Dictionary-based metadata, not a decision about the document's content.
+    if guesses and guesses[0][0] in ("de", "en") and guesses[0][1] >= .6:
+        return guesses[0][0]
     return "und"
 
 

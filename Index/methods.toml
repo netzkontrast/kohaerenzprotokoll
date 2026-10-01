@@ -23,8 +23,8 @@ dtype = "float16"
 normalize = true
 
 [lex]
-version = 1
-lemmatizer = "none"
+version = 2
+lemmatizer = "simplemma-de-en"
 
 [retrieval]
 candidates = 50

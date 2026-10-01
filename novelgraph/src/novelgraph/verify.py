@@ -9,6 +9,11 @@ from .index import EMBEDDER, read_json, lexical
 
 
 def verify(index, method="heading@v1"):
+    with index.lock():
+        return _verify(index, method)
+
+
+def _verify(index, method):
     errors, expected_rows, expected_vectors, items = [], [], [], []
     source_rows = repo.sources(index.root)
     landed = [r for r in source_rows if r.get("export_path")]

@@ -60,7 +60,7 @@ def main():
     search.add_argument("--method", default="heading@v1")
     search.add_argument("--mode", choices=("bm25", "vec", "hybrid"), default="hybrid")
     check = sub.add_parser("verify")
-    check.add_argument("--method", default="heading@v1")
+    check.add_argument("--method")
     sub.add_parser("measure")
     args = parser.parse_args()
     try:
@@ -74,7 +74,8 @@ def main():
             finally:
                 engine.close()
         elif args.command == "verify":
-            result = verify(index, args.method)
+            reports = [verify(index, m) for m in ([args.method] if args.method else index.config["chunkers"])]
+            result = dict(ok=all(r["ok"] for r in reports), methods=reports)
         else:
             result = measure(index)
         print(json.dumps(result, ensure_ascii=False, indent=2))
