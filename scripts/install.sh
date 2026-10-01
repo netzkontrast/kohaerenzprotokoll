@@ -52,7 +52,7 @@ COMPONENTS=(
   "jev|jev-decide CLI (uv tool) — the vendored jev* skills in API mode"
   "graphify|graphify CLI with its openai extra (uv tool) — the vendored graphify skill"
   "cgr|code-graph-rag CLI (uv tool, python 3.12) — cgr"
-  "hyperextract|he and he-mcp (uv tool, python 3.12) and their /usr/local/bin links — Hyper-Extract, the hyper-extract MCP server"
+  "hyperextract|he and he-mcp (uv tool, python 3.12) and their /usr/local/bin links — upstream Hyper-Extract, on demand: hx.py parity, templates.py parse, the vendored hyper* skills"
   "omo|OpenCode $OPENCODE_VERSION (npm -g) with the oh-my-openagent $OMO_VERSION plugin; no provider sign-in"
   "qmd|qmd package in .tools-node and the /usr/local/bin/qmd shim"
   "qmd-models|qmd's ~2.1 GB models, index and embeddings — not in the default set"
@@ -194,8 +194,9 @@ for a in "$@"; do
   case "$a" in
     --check) CHECK=1 ;;
     # decision 015: a session starts with what the pipeline and selftests.py call;
-    # grawiki, dspytools, mflow, semantica, jev, graphify, cgr and omo install on demand
-    --session) WANT+=(derived tools dspy graphqlite typesafe hyperextract qmd) ;;
+    # grawiki, dspytools, mflow, semantica, jev, graphify, cgr, omo and hyperextract
+    # (ported to scripts/hx.py, decision 020) install on demand
+    --session) WANT+=(derived tools dspy graphqlite typesafe qmd) ;;
     --list)  for c in "${COMPONENTS[@]}"; do say "${c%%|*}" "${c#*|}"; done; exit 0 ;;
     -h|--help) sed -n '2,9p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;;
     *) WANT+=("$a") ;;

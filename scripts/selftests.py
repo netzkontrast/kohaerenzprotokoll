@@ -31,7 +31,8 @@ KINDS = {
     "dspy": (VENV, VENV, ".venv-dspy absent — scripts/install.sh dspy"),
     "typesafe": (ROOT / ".venv-typesafe" / "bin" / "python", ROOT / ".venv-typesafe" / "bin" / "python",
                  ".venv-typesafe absent — scripts/install.sh typesafe"),
-    "he": (None, "he", "Hyper-Extract absent — scripts/install.sh hyperextract"),
+    # the upstream package, only to hold the port to it (`hx.py parity`); no pipeline step needs it
+    "he": (None, "he", "upstream Hyper-Extract absent — scripts/install.sh hyperextract"),
 }
 
 # (name, interpreter, arguments). "dspy" means .venv-dspy.
@@ -39,8 +40,9 @@ SUITES = [
     ("claude usage: failed calls included", "std", ["scripts/claude_cli.py", "totals-selftest"]),
     ("knowledge init: plans and failures", "std", ["scripts/knowledge.py", "selftest"]),
     ("reading extraction: provenance and placement", "std", ["scripts/reading_extract.py", "selftest"]),
-    ("reading extraction: real HE fixture", "he", ["scripts/reading_extract.py", "native-selftest"]),
-    ("HyperExtract through claude -p: offline", "he", ["scripts/he_claude.py", "selftest"]),
+    ("HyperExtract, ported: prompt, schema, chunks, merge", "std", ["scripts/hx.py", "selftest"]),
+    ("reading extraction: every template's fixture", "std", ["scripts/reading_extract.py", "native-selftest"]),
+    ("HyperExtract through claude -p: offline", "std", ["scripts/he_claude.py", "selftest"]),
     ("quotes, find, fold", "std", ["scripts/selftest.py"]),
     ("entities matcher", "std", ["scripts/entities.py", "selftest"]),
     ("overview: names, pairs, case", "std", ["scripts/overview.py", "selftest"]),
@@ -87,8 +89,9 @@ SUITES = [
     ("qmd coverage patterns", "std", ["scripts/qmd_coverage.py", "--selftest"]),
     ("qmd coverage, live", "std", ["scripts/qmd_coverage.py"]),
     ("route: price, consent, record", "typesafe", ["scripts/route.py", "selftest"]),
-    ("templates: checks fail", "he", ["scripts/templates.py", "selftest"]),
-    ("templates, live", "he", ["scripts/templates.py", "check"]),
+    ("templates: checks fail", "std", ["scripts/templates.py", "selftest"]),
+    ("templates, live", "std", ["scripts/templates.py", "check"]),
+    ("HyperExtract port against upstream", "he", ["scripts/hx.py", "parity"]),
     ("dspy surface", "dspy", ["scripts/check_dspy_surface.py"]),
     ("dspy skill, selftest", "dspy", ["scripts/check_dspy_skill.py", "--selftest"]),
     ("dspy skill, live", "dspy", ["scripts/check_dspy_skill.py"]),

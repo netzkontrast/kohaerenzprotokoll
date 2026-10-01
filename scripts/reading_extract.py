@@ -1,13 +1,14 @@
-"""HyperExtract's local-template bridge and source-checked candidate staging.
+"""HyperExtract's extraction, ported (`hx.py`), and source-checked candidate staging.
 
     python3 scripts/reading_extract.py selftest
-    <he-python> scripts/reading_extract.py smoke TEMPLATE --text FILE --response JSON
+    python3 scripts/reading_extract.py native-selftest
+    python3 scripts/reading_extract.py smoke TEMPLATE --text FILE --response JSON
     python3 scripts/reading_extract.py stage SLUG TEMPLATE EXPORT --run NAME
 
-smoke runs the real factory and feed_text with a canned structured model and fake
-embeddings: no credentials or network. extract() requires caller-supplied clients;
-the caller owns the existing route.py/decision 011 consent and usage recording.
-stage consumes extract()'s envelope, never writes Sources/, Wiki/ or a database.
+smoke runs the template's real prompt, schema, chunks and merge with a canned reply: no credentials or network.
+extract() requires a caller-supplied model (`he_claude.Claude`); the caller owns decision 011's consent and the usage
+record. stage consumes extract()'s envelope, never writes Sources/, Wiki/ or a database. Standard library only:
+HyperExtract's engine is `hx.py`, the installed upstream package only checks it (`hx.py parity`).
 """
 from __future__ import annotations
 
@@ -49,20 +50,15 @@ def digest(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def native_extract(template: Path, text: str, source_id: str, llm, embedder) -> dict:
-    """Explicit clients avoid global defaults; the API accepts local YAML at 0.10.3.
-
-    One document, one instance, bounded concurrency; no search-index construction.
-    Do not feed several documents into one KA: its merge loses passage variants.
-    """
-    from hyperextract.utils.template_engine import Template
-    ka = Template.create(str(template.resolve()), "en", llm_client=llm,
-                         embedder=embedder, max_workers=1)
-    ka.feed_text(text, source_id=source_id)
-    return ka.data.model_dump()
+def native_extract(template: Path, text: str, ask) -> dict:
+    """One document, one template, one chunk after another (`hx.extract`); a chunk whose reply failed is dropped.
+    Do not feed several documents into one run: each run is one document's record."""
+    import hx
+    data, _ = hx.extract(hx.load(template), text, ask)
+    return data
 
 
-def extract(template: Path, doc: Document, llm, embedder, extractor: str, text: str | None = None) -> dict:
+def extract(template: Path, doc: Document, ask, extractor: str, text: str | None = None) -> dict:
     """Use from an approved, recorded provider adapter; never from auto-init.
 
     `text` is what the model is sent when it is less than the whole body (`hegraph.gate`: the paragraphs that hold a
@@ -71,8 +67,8 @@ def extract(template: Path, doc: Document, llm, embedder, extractor: str, text: 
     source_hash, template_hash = digest(doc.path), digest(template)
     if _split(doc.path.read_text(encoding="utf-8")) != (doc.body, doc.offset):
         raise ValueError("cached document changed; resolve it again before extraction")
-    data = native_extract(template, doc.body if text is None else text, doc.slug, llm, embedder)
-    candidates(data)  # HyperExtract can swallow a chunk schema error into empty data
+    data = native_extract(template, doc.body if text is None else text, ask)
+    candidates(data)  # a run whose every chunk failed merges to empty data
     if digest(doc.path) != source_hash or digest(template) != template_hash:
         raise ValueError("source or template changed during extraction")
     return {"document": doc.slug, "source_sha256": source_hash,
@@ -173,23 +169,9 @@ def stage(doc: Document, template: Path, export: Path, run: str) -> int:
 
 
 def smoke(template: Path, text: str, response: dict) -> dict:
-    """Exercise actual local-file factory, structured schema, extraction and merge."""
-    from langchain_core.language_models.chat_models import BaseChatModel
-    from langchain_core.embeddings import FakeEmbeddings
-    from langchain_core.runnables import RunnableLambda
-
-    class FixtureChat(BaseChatModel):
-        @property
-        def _llm_type(self):
-            return "offline-hyperextract-fixture"
-
-        def _generate(self, *args, **kwargs):
-            raise AssertionError("unstructured model call forbidden in smoke test")
-
-        def with_structured_output(self, schema, **kwargs):
-            return RunnableLambda(lambda _: schema.model_validate(response))
-
-    return native_extract(template, text, "synthetic-smoke", FixtureChat(), FakeEmbeddings(size=8))
+    """The template's real prompt, schema, chunks and merge, every chunk answered with `response`."""
+    import hx
+    return native_extract(template, text, hx.canned([response]))
 
 
 def selftest() -> int:
@@ -271,40 +253,33 @@ def selftest() -> int:
 
 
 def native_selftest() -> int:
-    import subprocess
-    from templates import he_python
-    py = he_python()
-    if py is None:
-        print("not reached: scripts/install.sh hyperextract", file=sys.stderr)
-        return 2
+    """Every template with a committed fixture: its reply, checked against the template's schema and merged, comes
+    back as the fixture — the check that ran in HyperExtract's own interpreter until the port (`hx.py parity`)."""
     folder = ROOT / "Plan/hyperextract/fixtures"
     failed = 0
-    names = sorted(f.stem for f in folder.glob("*.json"))     # every template with a fixture
+    names = sorted(f.stem for f in folder.glob("*.json") if not f.stem.startswith("upstream-"))
+    text = (folder / "reading.txt").read_text(encoding="utf-8")
     for name in names:
-        response = folder / (name + ".json")
-        done = subprocess.run([str(py), str(Path(__file__).resolve()), "smoke",
-                               str(ROOT / "Plan/hyperextract" / (name + ".yaml")),
-                               "--text", str(folder / "reading.txt"), "--response", str(response)],
-                              capture_output=True, text=True, timeout=60)
-        expected = json.loads(response.read_text())
-        # HyperExtract writes logs before the JSON; the last complete output is
-        # checked by its exact pretty-printed native structure, not only exit 0.
-        held = done.returncode == 0 and done.stdout.rstrip().endswith(
-            json.dumps(expected, ensure_ascii=False, indent=2))
+        expected = json.loads((folder / (name + ".json")).read_text(encoding="utf-8"))
+        try:
+            data = smoke(ROOT / "Plan/hyperextract" / (name + ".yaml"), text, expected)
+            candidates(data)
+            held = data == expected if "items" in expected else (
+                sorted(map(json.dumps, data["nodes"])) == sorted(map(json.dumps, expected["nodes"]))
+                and sorted(map(json.dumps, data["edges"])) == sorted(map(json.dumps, expected["edges"])))
+        except ValueError as exc:
+            held = False
+            print(exc)
         failed += not held
-        print(f"{'held' if held else 'FAILED'} {name}: native factory/feed/schema/merge")
-        if not held:
-            print((done.stdout + done.stderr)[-2000:])
-    with tempfile.TemporaryDirectory() as tmp:
-        bad = Path(tmp) / "bad.json"
-        bad.write_text('{"items":[{"term":"Alpha","quote":null,"stance":"asserts"}]}')
-        done = subprocess.run([str(py), str(Path(__file__).resolve()), "smoke",
-                               str(ROOT / "Plan/hyperextract/TermReadings.yaml"),
-                               "--text", str(folder / "reading.txt"), "--response", str(bad)],
-                              capture_output=True, text=True, timeout=60)
-        held = done.returncode != 0
-        failed += not held
-        print(f"{'held' if held else 'FAILED'} malformed structured response refused")
+        print(f"{'held' if held else 'FAILED'} {name}: prompt/schema/chunks/merge")
+    try:
+        candidates(smoke(ROOT / "Plan/hyperextract/TermReadings.yaml", text,
+                         {"items": [{"term": "Alpha", "quote": None, "stance": "asserts"}]}))
+        held = False
+    except ValueError:
+        held = True
+    failed += not held
+    print(f"{'held' if held else 'FAILED'} malformed structured response refused")
     print(f"reading_extract native: {len(names) + 1 - failed}/{len(names) + 1} checks held; synthetic, no model quality measured")
     return int(failed > 0)
 

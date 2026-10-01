@@ -26,7 +26,7 @@ def phases(profile: str, check: bool) -> list[tuple[str, list[str]]]:
     if check:
         install.append("--check")
     if profile == "reader":
-        install += ["derived", "graphqlite", "hyperextract", "qmd"]
+        install += ["derived", "graphqlite", "qmd"]
     elif profile == "research":
         install += ["--session"]
     elif profile == "full":
@@ -45,7 +45,7 @@ def phases(profile: str, check: bool) -> list[tuple[str, list[str]]]:
         result.append(("qmd-update", [".tools-node/node_modules/.bin/qmd", "update"]))
     result += [("qmd-status", [".tools-node/node_modules/.bin/qmd", "status"]),
                ("qmd-coverage", [sys.executable, "scripts/qmd_coverage.py"]),
-               ("templates", ["he", "--version"] if check else
+               ("templates", [sys.executable, "scripts/hx.py", "check"] if check else
                 [sys.executable, "scripts/templates.py", "check"])]
     if profile == "full":
         result.append(("qmd-semantic", ["bash", "scripts/setup_qmd.sh", "--check"] if check
