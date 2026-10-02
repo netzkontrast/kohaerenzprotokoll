@@ -43,6 +43,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -63,9 +64,13 @@ BUDGET = 72_000       # UTF-8 bytes of the whole serialized pack (SPEC.md §4.3;
 DOC_SHARE = 4         # one document's block may take at most 1/DOC_SHARE of the bytes left for source windows
 BM25_HITS = 30
 KINDS = ("locate", "position", "compare", "explain")
-# what finds lines for a pack. `he-lines` is measured (`graphlab.py`, `ask.py bench --with he-lines`) before it is on.
-FINDERS = ("graph-evidence", "bm25-lines", "entity-unread", "co-mention", "parallel", "he-lines")
-DEFAULT_FINDERS = FINDERS[:-1]
+# what finds lines for a pack. `he-lines` is measured (`graphlab.py`, `ask.py bench --with he-lines`) before it is on;
+# `novelgraph` (SPEC.md step 6) asks the chunk index in its own venv and is off until it earns a place (gate G2).
+FINDERS = ("graph-evidence", "bm25-lines", "entity-unread", "co-mention", "parallel", "he-lines", "novelgraph")
+DEFAULT_FINDERS = FINDERS[:-2]
+NOVELGRAPH = ROOT / ".venv-novelgraph" / "bin" / "novelgraph"
+NOVELGRAPH_K = 8      # chunks per question, `heading@v1` hybrid — the size `Plan/runs/rlm-chunks-2026-10-01/` kept
+_NOVELGRAPH: dict[str, list[dict]] = {}
 HE_LINES = 40         # at most this many lines of the contracts' readings
 # At most this many paragraphs where the seed terms stand together. 40 until 2026-09-30, when the bench
 # (`Plan/runs/graph-lab-2026-09-30/ask-finders/`) found the finder lowering document recall of the pack by 0.029
@@ -165,6 +170,11 @@ def route(question: str, kind: str, store=None, graph: dict | None = None,
     if "he-lines" in finders:
         for r in s.he_lines([f"term:{t}" if not t.startswith("term:") else t for t in seeds[:6]], limit=HE_LINES):
             anchors.append({"doc": r["slug"], "line": r["line"], "finder": "he-lines"})
+    # chunks of the novelgraph index, every line of each a hit (its own Stale check refuses a changed source)
+    if "novelgraph" in finders:
+        for h in novelgraph_hits([question])[question]:
+            for n in range(h["line_start"], h["line_end"] + 1):
+                anchors.append({"doc": h["slug"], "line": n, "finder": "novelgraph"})
     # the same passage carried into other documents (learned `parallel` hyperedges)
     if "parallel" in finders:
         for a in [a for a in anchors if a["finder"] in ("graph-evidence", "co-mention")][:15]:
@@ -191,6 +201,21 @@ def route(question: str, kind: str, store=None, graph: dict | None = None,
 
 
 # ── pack ──────────────────────────────────────────────────────────────────────
+
+def novelgraph_hits(questions: list[str], k: int = NOVELGRAPH_K) -> dict[str, list[dict]]:
+    """novelgraph's hybrid hits for each question, from one subprocess that loads the model once (about 10 s
+    cold); remembered for the process. A finder that was asked for and cannot run refuses — never a silent skip."""
+    missing = [q for q in dict.fromkeys(questions) if q not in _NOVELGRAPH]
+    if missing:
+        if not NOVELGRAPH.exists():
+            raise SystemExit("the novelgraph finder needs .venv-novelgraph and a built index (CLAUDE.md, the chunk index)")
+        done = subprocess.run([str(NOVELGRAPH), "search", json.dumps(missing, ensure_ascii=False), "--batch",
+                               "-k", str(k)], capture_output=True, text=True, cwd=ROOT)
+        if done.returncode:
+            raise SystemExit(f"novelgraph search refused: {(done.stderr or done.stdout).strip()[-400:]}")
+        _NOVELGRAPH.update(json.loads(done.stdout))
+    return {q: _NOVELGRAPH[q] for q in questions}
+
 
 def skills_for(question: str, k: int = 2) -> list[dict]:
     """The skills whose description shares the most content words with the question."""
@@ -621,9 +646,10 @@ def bench(budget: int = BUDGET, finders: tuple[str, ...] = DEFAULT_FINDERS, come
     import benchset
     s, g = askdb.Store(), kg.build()
     rows = []
-    for c in benchset.cases(live=live):
-        if not c["gold"]:
-            continue
+    cases = [c for c in benchset.cases(live=live) if c["gold"]]
+    if "novelgraph" in finders:   # one subprocess for all questions; the model loads once
+        novelgraph_hits([c["question"] for c in cases])
+    for c in cases:
         _, meta = build_pack(c["question"], "position", budget, s, graphrag.without(g, c["key"]), finders=finders,
                              comention=comention, pr_comention=pr_comention)
         docs = {d for d, _ in c["gold"]}
@@ -700,6 +726,31 @@ def pack_selftest() -> list[str]:
                 sys.modules.pop(k, None)
             else:
                 sys.modules[k] = v
+    return fails
+
+
+def novelgraph_selftest() -> list[str]:
+    """The novelgraph finder's contract without the index: off by default, a remembered answer needs no subprocess,
+    and a finder asked for without its venv refuses instead of being skipped."""
+    fails = []
+    g = globals()
+    saved = (g["NOVELGRAPH"], dict(_NOVELGRAPH))
+    try:
+        if "novelgraph" in DEFAULT_FINDERS or "novelgraph" not in FINDERS:
+            fails.append("novelgraph must be a finder and off by default (SPEC.md step 6, gate G2)")
+        g["NOVELGRAPH"] = ROOT / "no-such-venv" / "novelgraph"
+        _NOVELGRAPH["schon gefragt"] = [{"slug": "d", "line_start": 3, "line_end": 4}]
+        if novelgraph_hits(["schon gefragt"]) != {"schon gefragt": [{"slug": "d", "line_start": 3, "line_end": 4}]}:
+            fails.append("a remembered question was asked again")
+        try:
+            novelgraph_hits(["neu"])
+            fails.append("the finder was skipped silently without its venv")
+        except SystemExit:
+            pass
+    finally:
+        g["NOVELGRAPH"] = saved[0]
+        _NOVELGRAPH.clear()
+        _NOVELGRAPH.update(saved[1])
     return fails
 
 
@@ -829,6 +880,12 @@ def main(argv: list[str]) -> int:
     positional = [a for i, a in enumerate(rest) if not a.startswith("--") and (i == 0 or not rest[i - 1].startswith("--"))]
     backend = opt("--backend", "claude-cli")
     attempt = int(opt("--attempt", 0))
+    if cmd == "novelgraph-selftest":
+        fails = novelgraph_selftest()
+        for f in fails:
+            print("FAIL", f)
+        print(f"ask novelgraph finder: {'held' if not fails else 'FAILED'} (off by default, remembered, refuses without its venv)")
+        return 1 if fails else 0
     if cmd == "pack-selftest":
         fails = pack_selftest()
         for f in fails:

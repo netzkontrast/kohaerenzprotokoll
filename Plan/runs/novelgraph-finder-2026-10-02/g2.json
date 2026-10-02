@@ -1,0 +1,491 @@
+{
+ "summary": {
+  "cases": 24,
+  "cold_seconds_one_question": 9.7,
+  "batch_seconds_23_questions": 8.1,
+  "line": {
+   "default": 0.113,
+   "novelgraph": 0.13,
+   "paired_diff": 0.018,
+   "interval_90": [
+    0.007,
+    0.029
+   ],
+   "better": 8,
+   "worse": 1
+  },
+  "doc": {
+   "default": 0.324,
+   "novelgraph": 0.34,
+   "paired_diff": 0.016,
+   "interval_90": [
+    0.007,
+    0.026
+   ],
+   "better": 9,
+   "worse": 1
+  },
+  "novel_gold": 32,
+  "novel_gold_only_novelgraph_docs": 14,
+  "displaced_gold": 5,
+  "docs_only_novelgraph": 86
+ },
+ "rows": [
+  {
+   "id": "C1",
+   "line": [
+    0.2,
+    0.2
+   ],
+   "doc": [
+    0.5,
+    0.5
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    45092,
+    57210
+   ],
+   "docs_only_novelgraph": 2
+  },
+  {
+   "id": "C10",
+   "line": [
+    0.07,
+    0.07
+   ],
+   "doc": [
+    0.429,
+    0.429
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    27109,
+    34854
+   ],
+   "docs_only_novelgraph": 3
+  },
+  {
+   "id": "C11",
+   "line": [
+    0.148,
+    0.132
+   ],
+   "doc": [
+    0.561,
+    0.537
+   ],
+   "novel_gold": 1,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 4,
+   "bytes": [
+    67431,
+    70184
+   ],
+   "docs_only_novelgraph": 1
+  },
+  {
+   "id": "C12",
+   "line": [
+    0.151,
+    0.252
+   ],
+   "doc": [
+    0.433,
+    0.467
+   ],
+   "novel_gold": 12,
+   "novel_gold_only_novelgraph_docs": 6,
+   "displaced_gold": 0,
+   "bytes": [
+    43446,
+    51824
+   ],
+   "docs_only_novelgraph": 3
+  },
+  {
+   "id": "C13",
+   "line": [
+    0.278,
+    0.389
+   ],
+   "doc": [
+    0.667,
+    0.667
+   ],
+   "novel_gold": 2,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    49179,
+    59323
+   ],
+   "docs_only_novelgraph": 1
+  },
+  {
+   "id": "C14",
+   "line": [
+    0.036,
+    0.036
+   ],
+   "doc": [
+    0.067,
+    0.1
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    50247,
+    58804
+   ],
+   "docs_only_novelgraph": 5
+  },
+  {
+   "id": "C15",
+   "line": [
+    0.429,
+    0.429
+   ],
+   "doc": [
+    0.667,
+    0.778
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    24828,
+    41736
+   ],
+   "docs_only_novelgraph": 6
+  },
+  {
+   "id": "C2",
+   "line": [
+    0.033,
+    0.033
+   ],
+   "doc": [
+    0.194,
+    0.194
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    48470,
+    63586
+   ],
+   "docs_only_novelgraph": 3
+  },
+  {
+   "id": "C3",
+   "line": [
+    0.0,
+    0.0
+   ],
+   "doc": [
+    0.083,
+    0.125
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    51152,
+    62040
+   ],
+   "docs_only_novelgraph": 4
+  },
+  {
+   "id": "C4",
+   "line": [
+    0.0,
+    0.0
+   ],
+   "doc": [
+    0.0,
+    0.0
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    34692,
+    47150
+   ],
+   "docs_only_novelgraph": 5
+  },
+  {
+   "id": "C5",
+   "line": [
+    0.0,
+    0.0
+   ],
+   "doc": [
+    0.0,
+    0.0
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    28294,
+    39522
+   ],
+   "docs_only_novelgraph": 5
+  },
+  {
+   "id": "C6",
+   "line": [
+    0.019,
+    0.074
+   ],
+   "doc": [
+    0.188,
+    0.219
+   ],
+   "novel_gold": 6,
+   "novel_gold_only_novelgraph_docs": 3,
+   "displaced_gold": 0,
+   "bytes": [
+    57395,
+    67374
+   ],
+   "docs_only_novelgraph": 4
+  },
+  {
+   "id": "C7",
+   "line": [
+    0.07,
+    0.07
+   ],
+   "doc": [
+    0.194,
+    0.222
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    46179,
+    54194
+   ],
+   "docs_only_novelgraph": 1
+  },
+  {
+   "id": "C8",
+   "line": [
+    0.169,
+    0.22
+   ],
+   "doc": [
+    0.5,
+    0.556
+   ],
+   "novel_gold": 3,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    19113,
+    28516
+   ],
+   "docs_only_novelgraph": 1
+  },
+  {
+   "id": "C9",
+   "line": [
+    0.057,
+    0.057
+   ],
+   "doc": [
+    0.28,
+    0.32
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    57611,
+    70134
+   ],
+   "docs_only_novelgraph": 4
+  },
+  {
+   "id": "Q1",
+   "line": [
+    0.011,
+    0.011
+   ],
+   "doc": [
+    0.125,
+    0.125
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    52830,
+    64230
+   ],
+   "docs_only_novelgraph": 5
+  },
+  {
+   "id": "Q2",
+   "line": [
+    0.0,
+    0.0
+   ],
+   "doc": [
+    0.0,
+    0.0
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    18067,
+    34612
+   ],
+   "docs_only_novelgraph": 5
+  },
+  {
+   "id": "Q3",
+   "line": [
+    0.036,
+    0.054
+   ],
+   "doc": [
+    0.146,
+    0.171
+   ],
+   "novel_gold": 3,
+   "novel_gold_only_novelgraph_docs": 3,
+   "displaced_gold": 0,
+   "bytes": [
+    70281,
+    70595
+   ],
+   "docs_only_novelgraph": 1
+  },
+  {
+   "id": "Q4",
+   "line": [
+    0.014,
+    0.014
+   ],
+   "doc": [
+    0.077,
+    0.077
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    59214,
+    70185
+   ],
+   "docs_only_novelgraph": 4
+  },
+  {
+   "id": "Q5",
+   "line": [
+    0.026,
+    0.044
+   ],
+   "doc": [
+    0.303,
+    0.303
+   ],
+   "novel_gold": 3,
+   "novel_gold_only_novelgraph_docs": 2,
+   "displaced_gold": 1,
+   "bytes": [
+    70082,
+    70193
+   ],
+   "docs_only_novelgraph": 5
+  },
+  {
+   "id": "Q6",
+   "line": [
+    0.545,
+    0.545
+   ],
+   "doc": [
+    0.857,
+    0.857
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    55289,
+    67722
+   ],
+   "docs_only_novelgraph": 5
+  },
+  {
+   "id": "Q7",
+   "line": [
+    0.2,
+    0.2
+   ],
+   "doc": [
+    0.4,
+    0.4
+   ],
+   "novel_gold": 0,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    54214,
+    67309
+   ],
+   "docs_only_novelgraph": 5
+  },
+  {
+   "id": "Q8",
+   "line": [
+    0.167,
+    0.208
+   ],
+   "doc": [
+    0.529,
+    0.529
+   ],
+   "novel_gold": 1,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    61156,
+    69700
+   ],
+   "docs_only_novelgraph": 3
+  },
+  {
+   "id": "Q9",
+   "line": [
+    0.043,
+    0.087
+   ],
+   "doc": [
+    0.579,
+    0.579
+   ],
+   "novel_gold": 1,
+   "novel_gold_only_novelgraph_docs": 0,
+   "displaced_gold": 0,
+   "bytes": [
+    39571,
+    55668
+   ],
+   "docs_only_novelgraph": 5
+  }
+ ]
+}

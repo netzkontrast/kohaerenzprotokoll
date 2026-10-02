@@ -68,6 +68,7 @@ SUITES = [
     ("bench set, live: integrity of the frozen cases", "std", ["scripts/benchset.py", "check"]),
     ("pack: hits, fit, status, the byte unit", "std", ["scripts/pack.py", "selftest"]),
     ("ask pack contract: byte budget, incomplete, share, frontmatter", "std", ["scripts/ask.py", "pack-selftest"]),
+    ("ask novelgraph finder: off by default, refuses without its venv", "std", ["scripts/ask.py", "novelgraph-selftest"]),
     ("ui app", "std", ["scripts/ui.py", "selftest"]),
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("novelgraph rlm: tools, refusal, budget, scoring", "novelgraph", ["-m", "novelgraph.cli", "rlm", "--selftest"]),
