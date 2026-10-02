@@ -159,7 +159,7 @@ spec 010's lesson (§8) applies to future checks, not to existing modules.
 | a verified answer | `ask.verify`: per quote `placed / outside-window / unresolved / outside-pack`; unsupported claims kept |
 | a model call | `Plan/runs/<subject>/lm/<step>.jsonl`: one record per call, `status ∈ answered/refused/unparsed/unreachable`, cost, raw output |
 
-### 4.2 The hit [migrate, step 4 — proposed fields]
+### 4.2 The hit [built in part, step 4]
 
 Every finder returns hits; no finder returns prose.
 
@@ -178,20 +178,26 @@ Every finder returns hits; no finder returns prose.
   counted as a stated relation.
 - A hit on a line above the document's `offset` is dropped (defect 1).
 
-### 4.3 The pack [migrate, step 4 — proposed]
+**Built (step 4, `scripts/pack.py`):** `{doc, line_start, line_end, anchors, finders, rank}` from `ask.route`'s anchors —
+widened, merged within a document, in rank order, frontmatter anchors dropped and counted. **Still [migrate]:**
+`source_sha` and the stale-hit refusal, `proposal`, `score` and `why`; they arrive with the first finder that is
+not `ask.route`'s (novelgraph, step 6).
 
-One function `pack(question, hits, budget, unit) -> Pack`; two renderers — Markdown for `ask` backends, compact
-JSON for `kg.py context`.
+### 4.3 The pack [built in part, step 4]
+
+`scripts/pack.py` holds the rules — `hits`, `fit` (keep what fits, skip and name the rest), `status`, `size` (the
+unit) — and two renderers use them: `ask.build_pack` (Markdown for the backends) and `kg.bounded_context` (compact
+JSON for `kg.py context`). Rows marked *[migrate]* below are not built yet.
 
 | part | rule |
 |---|---|
-| **order of sections** | question → rules → disagreements touching the hits (conflicts, questions, their ids) → graph evidence → source windows → schema |
+| **order of sections** | question → rules → graph evidence (with the conflicts and questions it touches) → source windows → skills → schema [built]; a separate disagreements section [migrate] |
 | **what is never cut** | the question, the rules, the schema and **every conflict and question record the hits touch**. If these alone exceed the budget the pack is refused, as `kg.bounded_context` refuses today |
-| **the budget** | counted over the **whole serialized pack**, not the windows alone (`ask` counts windows only: 60 000 characters of windows became 66 440 characters sent) |
+| **the budget** | counted over the **whole serialized pack** [built]: `ask` 72 000 bytes (before step 4: 60 000 characters of windows alone, which became up to 69 175 bytes sent), `kg` its `--max-bytes` |
 | **unit** | UTF-8 bytes, which is what `kg` uses and what a transport carries. Characters and regex tokens are reported beside it. No model tokenizer is assumed. When a backend's tokenizer is available, its count is recorded beside the bytes, never instead of them |
-| **cut granularity** | the document, as today: a document block that does not fit is skipped and the next one tried, and every skipped identity is listed. Span-level trimming was measured and does not help (§4.4) |
-| **de-duplication** | a window line is sent once. A graph-evidence quotation whose line is already in a window is shown as a reference to that line, not repeated |
-| **status** | `complete` (nothing omitted) · `incomplete` (`omitted_hits > 0`, the omitted identities listed) · `no_evidence` (no hit) · `refused` (metadata over budget, stale source). `incomplete` is never silent |
+| **cut granularity** | the document [built]: a block that does not fit is skipped and the next one tried, and every skipped document is named in the pack. **No document may take more than a quarter of the window budget** (`ask.DOC_SHARE`): one block of very long lines took 44 000 of 64 000 bytes in C6 and pushed 19 documents out. Span-level trimming was measured and does not help (§4.4) |
+| **de-duplication** | a window line is sent once [built: spans merge]. A graph-evidence quotation whose line is already in a window shown as a reference, not repeated [migrate] |
+| **status** | `complete` (nothing omitted) · `incomplete` (something omitted, named) · `no_evidence` (no source window) · `refused` (the fixed parts alone exceed the budget; a stale source once `source_sha` exists). `incomplete` is never silent [built: `ask` meta and pack text, `kg` JSON] |
 | **identity** | `sha256` of the serialized pack. A pack is immutable (as `cmd_pack` does today) |
 
 ### 4.4 How the `ask` pack should spend its budget — measured [built as a measurement, migrate as step 4]
@@ -367,7 +373,7 @@ The consequential choices:
 | choice | evidence | cost | rejected | reversed by |
 |---|---|---|---|---|
 | keep the deterministic path as the default | PR #140: no chunk size wins under RLM; the agent invents evidence; 156 of 282 refs read | none | RLM default (H3) | **E4**: an adaptive controller reaches more *read* gold at equal total cost, with no invented evidence admitted, on cases outside the circular bench |
-| one pack contract, bytes over the whole pack | `ask` sends 66 440 characters for a 60 000-character budget; `kg` already counts whole output | one module, two renderers | keeping both | a backend that needs a different unit natively — it then reports both |
+| one pack contract, bytes over the whole pack | `ask` sent up to 69 175 bytes for a 60 000-character window budget (built in step 4: 72 000 bytes over the whole pack); `kg` already counts whole output | one module, two renderers | keeping both | a backend that needs a different unit natively — it then reports both |
 | the pack is tuned for cost and honesty, the route for recall | §4.4: the default pack sends 98 % of the route's ceiling; no packing variant moves recall; co-mention costs a third of the anchored characters (404 of 1 224 thousand) for 14 gold lines | none | optimising the packer for recall (span trimming, anchor ranking) | a route that finds far more than a pack can hold — then §4.4's variants are re-run, as they are written to be |
 | freeze the bench, report no holdout | `benchset.py clusters`: one group of 24 | done | random split | independent cases that do not share gold documents |
 | novelgraph optional, not removed | no pipeline consumer; static bench cannot separate sizes; cold 15 s | its venv and 0.5 GB | adopt it as a default finder; delete it | G2: marginal novel gold at equal bytes |
@@ -399,7 +405,7 @@ alone, offline, and rolled back by reverting it.
 | **1** | **Freeze the retrieval cases** — [built, PR #139] | `scripts/benchset.py`, `Plan/eval/retrieval-cases-v1.json`, `scripts/selftests.py`, `scripts/README.md`, `Plan/README.md` | `benchset.py selftest`: 6 cases, each mutation-tested; `benchset.py check`: hash and every gold line inside its body; drift reported | revert; the live bench is untouched |
 | **2** | **Benches read the frozen set** — [built] | `benchset.cases()`, read by `ask.py bench` (`--live` to read the records), `novelgraph` (`repo.bench_cases`: `bench`, `rlm`), `Plan/runs/graph-lab-2026-09-30/eval-audit.py` | `ask.py bench` frozen and `--live`: identical rows on all 24 cases (`Plan/runs/ask/bench-2026-10-02-60000-*597b8e05.json`); the evaluation audit's output byte-identical to its recorded run; `benchset.py selftest`: the loader ignores an edited record and refuses a tampered file (8 cases), and a consumer fixture runs the real `ask.bench()` and `repo.bench_cases()` with retrieval stubbed — frozen by default, live only on request, a tampered file refused before anything is packed (mutation-tested); every saved result carries `case_set` and `cases_sha256`. **Not covered:** `graphrag.py bench` — its gold is wiki pages, not lines, and needs its own frozen set; dated run scripts under `Plan/runs/` keep the live cases they ran on | revert; `--live` kept |
 | **3** | **One store owner** — [built] | `askdb.py` (`fresh(db, root)` the one freshness record; `kp_meta` no longer stores the inputs; `evidence_rows`), `kg.py` (`freshness` and `evidence_rows` ask `askdb`; its unused `digest` gone), `graph_export.py` (`pages_for`, `drift`, `check`; `kg.py export --check`) | `kg_selftest` 16/16, its new case failing on the old code: a store whose `stats.input_hash` says stale used to pass `kg.py check`; `graph_export_selftest` names stale, missing and orphaned pages (mutation-tested); the live atlas check is a `graphqlite` suite and found 36 stale pages, regenerated in this step | revert; re-export the atlas |
-| 4 | **One hit and pack contract** | new `scripts/pack.py`; `ask.build_pack` and `kg.bounded_context` become renderers; `ask.route` emits hits | the `current` pack is byte-identical through the new code (fidelity, as in §4.4); then the budget covers the whole pack (in bytes, characters reported beside); `incomplete` set when anything is omitted; frontmatter anchors dropped | revert; the pack hash in old run records still identifies the old packs |
+| **4** | **One hit and pack contract** — [built in part] | `scripts/pack.py` (new); `ask.build_pack` renders over `pack.hits`/`pack.fit`; `kg.bounded_context` uses `pack.size`/`pack.status` and reports `status` | the old pack byte-identical through the new code on all 24 frozen cases before any rule changed; then: every pack within 72 000 bytes (max 71 404), `incomplete` with the omitted documents named, frontmatter anchors dropped, a document's share capped; bench 0.301/0.100 → **0.303/0.101**, no case worse, Q1 better (12 → 33 documents); `kg.py context` returns the same evidence plus `status`; `ask.py pack-selftest` and `pack.py selftest` mutation-tested. Not built: `source_sha`, `proposal`, the quotation-in-window reference, a separate disagreements section | revert; the pack hash in old run records still identifies the old packs |
 | 5 | **One query-word function** | `askdb.query_words`, used by `fts_query`, `kg.search`, `bm25rel`; novelgraph keeps lemmata and imports the stop list | per-query diff of the words on the 24 questions, reviewed; bench unchanged or the difference reported | revert |
 | 6 | **novelgraph as an optional finder** | `ask.route` (`finders=("novelgraph",)`, off by default), an adapter to the hit contract | G2 run: paired novel gold at equal bytes; cold cost reported; **default stays off** unless G2 holds | turn the finder off |
 | 7 | **`rlm_ingest` through `lmrun`** | `scripts/rlm_ingest.py` | an offline fixture: an answered and a failed call each leave a record, as `rlm_retrieval --record-selftest` does | revert |

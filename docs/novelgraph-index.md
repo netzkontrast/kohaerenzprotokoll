@@ -183,7 +183,7 @@ Gelesen, ohne mehr hineinzulegen:
   Treffergröße (13 gegen 18 Zeilen).
 - **`section@v1` gewinnt Zeilen-Recall nur durch Größe**: ein Treffer ist im Mittel 300+ Zeilen und ~6 500 Tokens — als
   Kontext für einen Leser unbrauchbar, als Vektor ein Mittelwert über ein halbes Dokument (vec fällt dort am stärksten ab).
-- **Gegen `ask.py bench` nicht vergleichbar**: dessen Pakete halten bis zu 60 000 Zeichen aus fünf Findern, hier sind es 8 Chunks.
+- **Gegen `ask.py bench` nicht vergleichbar**: dessen Pakete halten bis zu 72 000 Bytes (das ganze Paket, seit SPEC-Schritt 4; vorher 60 000 Zeichen Quellfenster) aus fünf Findern, hier sind es 8 Chunks.
 
 ### Größen
 
