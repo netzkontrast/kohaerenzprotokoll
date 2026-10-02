@@ -171,28 +171,33 @@ def around(db, node, hops, limit):
         g.close()
 
 
-def bounded_context(pack, max_bytes):
-    """Keep quotations whole, preserve conflict/question metadata, report omissions."""
-    result = {k: pack[k] for k in ("query", "seeds", "terms", "conflicts", "questions")}
-    result.update(evidence=[], omitted=len(pack["evidence"]), incomplete=True,
-                  no_evidence=not pack["evidence"], max_bytes=max_bytes)
+def bounded_context(found, max_bytes):
+    """Keep quotations whole, preserve conflict/question metadata, report omissions — the pack contract of
+    `pack.py` in JSON: the budget is the UTF-8 bytes of the whole output, `status` one of `pack.STATUSES`."""
+    import pack
+    result = {k: found[k] for k in ("query", "seeds", "terms", "conflicts", "questions")}
+    # the status is reserved at its longest value while quotations are fitted, so the final one never overflows
+    result.update(evidence=[], omitted=len(found["evidence"]), incomplete=True,
+                  no_evidence=not found["evidence"], max_bytes=max_bytes, status="no_evidence")
     # Reserve the final CLI newline as part of the serialized output budget.
-    if len(compact(result).encode()) + 1 > max_bytes:
+    if pack.size(compact(result)) + 1 > max_bytes:
         raise Refused("budget cannot hold conflict/question metadata: increase --max-bytes")
-    seen = set()
-    for row in pack["evidence"]:
+    seen, skipped = set(), []
+    for row in found["evidence"]:
         identity = (row["doc"], row["line"], row["quote"])
         if identity in seen:
             continue
         seen.add(identity)
-        candidate = row
-        trial = {**result, "evidence": result["evidence"] + [candidate], "omitted": result["omitted"] - 1}
-        if len(compact(trial).encode()) + 1 <= max_bytes:
+        trial = {**result, "evidence": result["evidence"] + [row], "omitted": result["omitted"] - 1}
+        if pack.size(compact(trial)) + 1 <= max_bytes:
             result = trial
+        else:
+            skipped.append(row)
     result["incomplete"] = result["omitted"] > 0
     # 'false' has one more byte than 'true'; recheck the final serialized form.
-    if len(compact(result).encode()) + 1 > max_bytes:
+    if pack.size(compact(result)) + 1 > max_bytes:
         result["incomplete"] = True
+    result["status"] = pack.status(result["evidence"], skipped or ([None] if result["incomplete"] else []))
     return result
 
 
@@ -206,6 +211,8 @@ def context(db, query, max_bytes):
         row["id"] = lookup[(row["page"], row["doc"], row["line"], row["quote"], row["section"], row["page_line"])]
     result = bounded_context(pack, max_bytes)
     result["incomplete"] = result["incomplete"] or pack["not_selected"] > 0
+    if result["incomplete"] and result["status"] == "complete":
+        result["status"] = "incomplete"   # the retriever left evidence out before the budget was applied
     return result
 
 
