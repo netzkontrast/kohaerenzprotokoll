@@ -312,7 +312,8 @@ def publish(data, db, hashes, lines, verify_inputs=False):
             conn.execute("INSERT INTO kp_evidence VALUES (?,?)", (key, compact(row)))
             if row["status"] == "verified":
                 conn.execute("INSERT INTO kp_fts VALUES (?,?,?,?)", (key, row["quote"], row["page"], row.get("section") or ""))
-        meta = {"version": SCHEMA_VERSION, "inputs": hashes,
+        # kp_meta describes the graph for kg.py; the inputs are recorded once, as stats.input_hash below
+        meta = {"version": SCHEMA_VERSION,
                 "core_nodes": len(data["core"]["nodes"]), "core_edges": len(data["core"]["edges"]),
                 "evidence": len(data["evidence"]),
                 "verified": sum(r["status"] == "verified" for r in data["evidence"].values())}
@@ -414,8 +415,9 @@ def content_hash(data: dict, tables: str) -> str:
     return h.hexdigest()
 
 
-def fresh(db: Path = DB) -> str | None:
-    """None when the store was built from the files as they are now, else why not."""
+def fresh(db: Path = DB, root: Path = ROOT) -> str | None:
+    """None when the store was built from the files as they are now, else why not. The store's one freshness
+    record (`meta.stats.input_hash`); `kg.freshness` asks this, it keeps none of its own (SPEC.md step 3)."""
     name = db.relative_to(ROOT) if db.is_relative_to(ROOT) else db
     if not db.exists():
         return f"{name} does not exist: run askdb.py build"
@@ -426,7 +428,7 @@ def fresh(db: Path = DB) -> str | None:
     if stored.get("version") != SCHEMA_VERSION:
         return f"{name} has an old schema: run askdb.py build"
     have = stored.get("input_hash")
-    if have != input_hash():
+    if have != hashlib.sha256(compact(inputs(root)).encode()).hexdigest():
         return (f"{name} is stale: its inputs changed since it was built "
                 "(or it predates input hashes); run askdb.py build")
     return None

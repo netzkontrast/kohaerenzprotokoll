@@ -41,7 +41,9 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Hard-SF-Roman-Outline: DKT-Physik, Cosmic Horror](../../Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md) | 2026-04-08 | ja | ja |
 | [kap0-kap40-doppelklammer-abhandlung-2026-05-08.md](../../Sources/drive/kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md) | 2026-05-08 | ja | ja |
 | [kap0-v1-annotiert.md](../../Sources/drive/kap0-v1-annotiert-md.md) | 2026-05-17 | ja | ja |
+| [KI-Narrative: Kollaps, Kohärenz, Paradoxie](../../Sources/drive/ki-narrative-kollaps-kohaerenz-paradoxie.md) | 2026-03-01 | ja | ja |
 | [kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md) | 2026-06-10 | ja | ja |
+| [Kohärenz-Protokoll Audit und Verifizierung](../../Sources/drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | ja | ja |
 | [kohaerenz-protokoll_begriffe-und-konzepte_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [Kohaerenz_Protokoll_Charakter_Bibel_2026-05-08.md](../../Sources/drive/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md) | 2026-05-08 | ja | ja |
 | [kohaerenz-protokoll_kernwelten-vollstaendig_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md) | 2026-06-10 | ja | ja |

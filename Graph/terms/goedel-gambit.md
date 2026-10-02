@@ -40,6 +40,7 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Dramatica Storyform Synthese & AEGIS-Analyse](../../Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md) | 2026-04-30 | ja | ja |
 | [Duale Storyform-Synthese: Kohärenz Protokoll](../../Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md) | 2026-04-28 | ja | ja |
 | [Hard-SF-Roman-Outline: DKT-Physik, Cosmic Horror](../../Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md) | 2026-04-08 | ja | ja |
+| [KI-Narrative: Kollaps, Kohärenz, Paradoxie](../../Sources/drive/ki-narrative-kollaps-kohaerenz-paradoxie.md) | 2026-03-01 | ja | ja |
 | [KI-Prompt-Analyse: Hard Problem of Consciousness](../../Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md) | 2026-04-28 | ja | ja |
 | [Kohärenz Protokoll](../../Sources/drive/kohaerenz-protokoll.md) | 2025-04-27 | ja | ja |
 | [kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md) | 2026-06-10 | ja | ja |

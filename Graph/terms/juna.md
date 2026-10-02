@@ -85,6 +85,7 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [KI-Prompt-Analyse: Hard Problem of Consciousness](../../Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md) | 2026-04-28 | ja | ja |
 | [Kohärenz Protokoll](../../Sources/drive/kohaerenz-protokoll.md) | 2025-04-27 | ja | ja |
 | [kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md) | 2026-06-10 | ja | ja |
+| [Kohärenz-Protokoll Audit und Verifizierung](../../Sources/drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | ja | ja |
 | [kohaerenz-protokoll_begriffe-und-konzepte_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [Kohaerenz_Protokoll_Charakter_Bibel_2026-05-08.md](../../Sources/drive/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md) | 2026-05-08 | ja | ja |
 | [kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08.md](../../Sources/drive/kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md) | 2026-05-08 | ja | ja |

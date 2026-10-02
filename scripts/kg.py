@@ -13,7 +13,6 @@ UTF-8 bytes, including JSON metadata, not advertised as an exact token count.
 from __future__ import annotations
 
 import argparse
-import hashlib
 import json
 from pathlib import Path
 import sqlite3
@@ -32,10 +31,6 @@ class Refused(Exception):
 
 def compact(value):
     return json.dumps(value, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
-
-
-def digest(value):
-    return hashlib.sha256(compact(value).encode()).hexdigest()
 
 
 def payload(value):
@@ -65,13 +60,9 @@ def engine(path):
 
 
 def evidence_rows(graph):
-    rows = {}
-    for page, items in sorted(graph["evidence"].items()):
-        for item in items:
-            row = dict(item, page=page)
-            key = "evidence:" + digest(row)
-            rows[key] = dict(row, id=key)
-    return rows
+    """The evidence rows and their ids, as the store keeps them (askdb.py owns them; SPEC.md step 3)."""
+    import askdb
+    return askdb.evidence_rows(graph)
 
 
 def metadata(db):
@@ -83,10 +74,14 @@ def metadata(db):
 
 
 def freshness(db, root=ROOT):
+    """Refuse a stale store. The freshness record is askdb's (`askdb.fresh`), the one the store keeps."""
+    import askdb
+    why = askdb.fresh(db, root)
+    if why:
+        raise Refused(f"stale index: {why}; changed or deleted inputs invalidate stored evidence (kg.py index rebuilds it)")
     meta = metadata(db)
-    current = inputs(root)
-    if meta.get("version") != VERSION or meta.get("inputs") != current:
-        raise Refused("stale index: run kg.py index; changed or deleted inputs invalidate stored evidence")
+    if meta.get("version") != VERSION:
+        raise Refused("stale index: run kg.py index; the graph projection's version changed")
     return meta
 
 
@@ -239,7 +234,8 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--db", type=Path, default=DATABASE, help="derived index; default Plan/derived/ask.db")
     commands = parser.add_subparsers(dest="command", required=True)
-    commands.add_parser("export", help="write a human-readable Markdown graph atlas under Graph/; no import or restore")
+    x = commands.add_parser("export", help="write a human-readable Markdown graph atlas under Graph/; no import or restore")
+    x.add_argument("--check", action="store_true", help="write nothing; fail when Graph/ is not what an export would write")
     commands.add_parser("index", help="rebuild on input change; unchanged input is a no-op")
     commands.add_parser("check", help="fail if absent or stale")
     s = commands.add_parser("search", help="FTS5 over verified evidence")
@@ -262,6 +258,10 @@ def main(argv=None):
             output = index(args.db)
         elif args.command == "export":
             import graph_export
+            if args.check:
+                output = graph_export.check(args.db)
+                print(compact(output))
+                return 0 if output["status"] == "current" else 1
             output = graph_export.export(args.db)
         else:
             meta = freshness(args.db)
@@ -285,4 +285,6 @@ def main(argv=None):
 
 
 if __name__ == "__main__":
+    # graph_export imports `kg`; without this it would get a second module whose Refused this main() cannot catch
+    sys.modules.setdefault("kg", sys.modules["__main__"])
     raise SystemExit(main())

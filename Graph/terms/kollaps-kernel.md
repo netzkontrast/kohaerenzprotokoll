@@ -15,6 +15,7 @@ Wiki-Verlinkungen zeigen eine Verbindung zwischen Seiten; sie behaupten keine Gl
 - [Dual-Kernel-Theorie (DKT)](../terms/dkt.md)
 - [Entropie](../terms/entropie.md)
 - [Erason](../terms/erason.md)
+- [Kael](../terms/kael.md)
 - [Kohärenz-Kernel (K₁)](../terms/kohaerenz-kernel.md)
 - [Moonshine-Link](../terms/moonshine-link.md)
 - [Nichts-Rauschen](../terms/nichts-rauschen.md)
@@ -37,7 +38,9 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Duale Storyform-Synthese: Kohärenz Protokoll](../../Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md) | 2026-04-28 | ja | ja |
 | [Editorial Style Dossier: Somatic and Linguistic Implementation of the Kael System](../../Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md) | 2026-05-08 | ja | ja |
 | [Hard-SF-Roman-Outline: DKT-Physik, Cosmic Horror](../../Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md) | 2026-04-08 | ja | ja |
+| [KI-Narrative: Kollaps, Kohärenz, Paradoxie](../../Sources/drive/ki-narrative-kollaps-kohaerenz-paradoxie.md) | 2026-03-01 | ja | ja |
 | [KI-Prompt-Analyse: Hard Problem of Consciousness](../../Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md) | 2026-04-28 | ja | ja |
+| [Kohärenz-Protokoll Audit und Verifizierung](../../Sources/drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | ja | ja |
 | [kohaerenz-protokoll_begriffe-und-konzepte_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [kohaerenz_protokoll_konzept_master.md](../../Sources/drive/kohaerenz-protokoll-konzept-master-md.md) | 2026-05-08 | ja | ja |
 | [kohaerenz-protokoll-philosophischer-bericht.md](../../Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md) | 2026-05-08 | ja | ja |
