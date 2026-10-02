@@ -260,3 +260,12 @@ Die Ergänzung aus #137 sichert den bestehenden Index ab:
 Die Abschlussmessung und Rohdaten stehen in `Plan/runs/novelgraph-pr137-final/`.
 Der vorhandene Korpus und seine Chunk-Dateien bleiben bytegleich; die Bench bleibt eine
 Regression auf demselben lexikalisch geprägten Gold, keine unabhängige Qualitätsbewertung.
+
+## 7. Welche Chunk-Größe — von einem RLM-Agenten gemessen (2026-10-01)
+
+Die statische Bench trennt die Größen nicht. Deshalb hat ein `dspy.RLM`-Agent (`novelgraph rlm`, aus PR #76 übertragen) die
+24 Bench-Fragen über drei Größen beantwortet: Suchen, Lesen, Belege nennen, gewertet bis 3 200 Tokens, Claude Haiku
+(Entscheidung 011). Vorab festgelegt: Eine Größe ersetzt `heading@v1` nur bei mehr als +0,027 gepaartem Zeilen-Recall.
+**`heading@v1` bleibt.** `heading200@v1` liegt bei +0,015 [−0,009, +0,040], `heading800@v1` bei −0,019 [−0,046, +0,006].
+Der Agent erfand Belege, auch einen kompletten Werkzeug-Output samt nicht existierendem Dokument. Die Regel „nur gezeigte
+Refs" hat alle neun verworfen. Kosten 7,67 $, 83 Minuten. Daten, Design und Lesart: `Plan/runs/rlm-chunks-2026-10-01/README.md`.

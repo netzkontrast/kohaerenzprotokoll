@@ -1,0 +1,105 @@
+{
+ "accepted_refs": 282,
+ "accepted_and_read": 156,
+ "views": {
+  "pre-stated": {
+   "heading200@v1": {
+    "cases": 22,
+    "line": 0.037,
+    "doc": 0.067,
+    "paired_line_diff": 0.015,
+    "interval_90": [
+     -0.009,
+     0.04
+    ],
+    "pairs": 17,
+    "better": 4,
+    "worse": 4
+   },
+   "heading@v1": {
+    "cases": 18,
+    "line": 0.032,
+    "doc": 0.062
+   },
+   "heading800@v1": {
+    "cases": 20,
+    "line": 0.018,
+    "doc": 0.05,
+    "paired_line_diff": -0.019,
+    "interval_90": [
+     -0.046,
+     0.005
+    ],
+    "pairs": 15,
+    "better": 3,
+    "worse": 7
+   }
+  },
+  "read": {
+   "heading200@v1": {
+    "cases": 22,
+    "line": 0.021,
+    "doc": 0.032,
+    "paired_line_diff": 0.007,
+    "interval_90": [
+     -0.013,
+     0.03
+    ],
+    "pairs": 17,
+    "better": 2,
+    "worse": 3
+   },
+   "heading@v1": {
+    "cases": 18,
+    "line": 0.019,
+    "doc": 0.041
+   },
+   "heading800@v1": {
+    "cases": 20,
+    "line": 0.008,
+    "doc": 0.027,
+    "paired_line_diff": -0.012,
+    "interval_90": [
+     -0.028,
+     0.002
+    ],
+    "pairs": 15,
+    "better": 3,
+    "worse": 5
+   }
+  },
+  "incomplete as nothing": {
+   "heading200@v1": {
+    "cases": 24,
+    "line": 0.034,
+    "doc": 0.061,
+    "paired_line_diff": 0.01,
+    "interval_90": [
+     -0.007,
+     0.029
+    ],
+    "pairs": 24,
+    "better": 5,
+    "worse": 5
+   },
+   "heading@v1": {
+    "cases": 24,
+    "line": 0.024,
+    "doc": 0.046
+   },
+   "heading800@v1": {
+    "cases": 24,
+    "line": 0.015,
+    "doc": 0.042,
+    "paired_line_diff": -0.009,
+    "interval_90": [
+     -0.027,
+     0.009
+    ],
+    "pairs": 24,
+    "better": 5,
+    "worse": 8
+   }
+  }
+ }
+}

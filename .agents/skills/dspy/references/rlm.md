@@ -46,6 +46,7 @@ one candidate list. Three pieces, and the joins between them are the point
     [--model M] [--iters N] [--calls N] [--sub-model M]
 .venv-dspy/bin/python scripts/rlm_ingest.py <slug> --score      # against the human list
 python3 scripts/rlm_ingest.py --selftest                        # tools and reach, offline
+.venv-dspy/bin/python scripts/rlm_ingest.py --loop-selftest     # DSPy loop, scripted interpreter
 ```
 
 Defaults: `--model openrouter/nvidia/nemotron-3-super-120b-a12b:free`,
@@ -108,6 +109,13 @@ its refusal on absent ones, `count`, `reach` separating an early-only set from
 a full-coverage one, and `judge()` on a forced case versus a complete one
 (`scripts/rlm_ingest.py`).
 
+**`--loop-selftest`** runs DSPy's action and forced-extract loops with a fixture
+LM and a scripted interpreter over one synthetic line. It checks a submitted
+candidate and a forced answer rejected by the reading gate, without corpus or
+network. The scripted interpreter does not exercise Deno or Pyodide; the
+`check_dspy_skill.py` `rlm-runs-offline` probe covers that integration when
+the sandbox's download cache is available.
+
 **What it may not do** (`scripts/rlm_ingest.py`):
 
 - **Write `03-candidates-rlm.md`, never `03-candidates.md`.** "The gold list
@@ -119,6 +127,17 @@ a full-coverage one, and `judge()` on a forced case versus a complete one
 - **Propose and stop.** No page, no judgement, no conflict, no census is
   written from here — those are decisions, and an ingest proposes rather than
   resolves.
+
+## In this repository — `novelgraph rlm`, an agent over the chunk index
+
+`novelgraph/src/novelgraph/rlm.py` gives `dspy.RLM("question: str -> evidence: list[str]")` two tools over one chunker
+of the `Index/` — `search_chunks(query, mode)` and `read_chunk(ref)` — and accepts as evidence only refs a search
+showed, up to 3 200 tokens. It runs on Claude through `lmrun.make_lm("claude-cli/haiku")` and `lmrun.call`
+(`approval="decision 011"`), with `max_iters` 6 and `max_output_chars` 3 000. Measured on its first run
+(`Plan/runs/rlm-chunks-2026-10-01/`): about $0.11 a question; 12 of 72 runs forced; and Haiku once **wrote a tool's
+output itself**, a document the corpus does not hold included, then cited it — evidence comes from the tools'
+record, never from the answer. It needs the `rlm` extra of the `novelgraph` project, and NumPy must be imported
+before DSPy in that venv (DSPy's lazy importer breaks NumPy otherwise).
 
 ## Installing the sandbox
 
