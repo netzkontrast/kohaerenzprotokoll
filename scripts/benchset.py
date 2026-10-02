@@ -1,0 +1,203 @@
+"""The retrieval cases, frozen: one versioned, hashed file every bench can be read against.
+
+`ask.bench_cases()` derives its 24 cases live from the conflict and question records, so the gold moves every
+time a record is edited, and a score from last week and a score from today are scored against different
+answers (evaluation audit §3, item 1; `SPEC.md`, migration step 1). This freezes them:
+
+- **freeze** writes `Plan/eval/retrieval-cases-v<N>.json`: the cases (id, key, question, gold lines), the commit
+  they were taken at, and a sha256 over the canonical case list. A frozen file is never edited; a new set is v<N+1>.
+- **check** proves the file is what it says (its hash, every gold line inside its landed document and below
+  the frontmatter) — exit 1 on any failure — and reports, without failing, how the live records have drifted
+  from it: cases added or gone, gold lines added or removed per case.
+- **clusters** answers whether a held-out split exists: cases sharing a gold document are linked, and the
+  connected groups are the units a split may not cut. It reports them at increasing sharing thresholds, and
+  how many cases each gold document is gold for. It decides nothing; it measures the dependence.
+
+Standard library.
+
+    python3 scripts/benchset.py freeze [--version 1]
+    python3 scripts/benchset.py check [Plan/eval/retrieval-cases-v1.json]
+    python3 scripts/benchset.py clusters [Plan/eval/retrieval-cases-v1.json]
+    python3 scripts/benchset.py selftest
+"""
+
+from __future__ import annotations
+
+import hashlib
+import json
+import subprocess
+import sys
+from collections import Counter
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "scripts"))
+import subject  # noqa: E402
+
+EVAL = ROOT / "Plan" / "eval"
+
+
+def live() -> list[dict]:
+    import ask
+    return [{"id": c["id"], "key": c["key"], "question": c["question"],
+             "gold": sorted([d, n] for d, n in c["gold"])} for c in ask.bench_cases()]
+
+
+def digest(cases: list[dict]) -> str:
+    return hashlib.sha256(json.dumps(cases, ensure_ascii=False, sort_keys=True,
+                                     separators=(",", ":")).encode("utf-8")).hexdigest()
+
+
+def path_for(version: int) -> Path:
+    return EVAL / f"retrieval-cases-v{version}.json"
+
+
+def freeze(version: int, cases: list[dict] | None = None, target: Path | None = None) -> Path:
+    cases = live() if cases is None else cases
+    target = target or path_for(version)
+    if target.exists():
+        raise SystemExit(f"{target} exists: a frozen set is never rewritten; freeze v{version + 1} instead")
+    commit = subprocess.run(["git", "-C", str(ROOT), "rev-parse", "HEAD"], capture_output=True, text=True).stdout.strip()
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_text(json.dumps({"version": version, "from_commit": commit, "source": "ask.bench_cases()",
+                                  "sha256": digest(cases), "cases": cases}, ensure_ascii=False, indent=1) + "\n",
+                      encoding="utf-8")
+    return target
+
+
+def load(path: Path) -> dict:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def integrity(frozen: dict, document=subject.document) -> list[str]:
+    """What must hold of a frozen file for any score against it to mean anything."""
+    fails = []
+    if digest(frozen["cases"]) != frozen["sha256"]:
+        fails.append("the cases no longer hash to the recorded sha256 — the file was edited")
+    for c in frozen["cases"]:
+        for slug, n in c["gold"]:
+            try:
+                doc = document(slug)
+            except KeyError:
+                fails.append(f"{c['id']}: gold names {slug}, which is not landed")
+                continue
+            last = doc.offset + len(doc.lines()) - 1
+            if not doc.offset <= n <= last:
+                fails.append(f"{c['id']}: {slug}:L{n} lies outside the body (L{doc.offset}–L{last})")
+    return fails
+
+
+def drift(frozen: dict, current: list[dict]) -> dict:
+    old, new = {c["id"]: c for c in frozen["cases"]}, {c["id"]: c for c in current}
+    changed = {}
+    for cid in sorted(set(old) & set(new)):
+        a, b = {tuple(x) for x in old[cid]["gold"]}, {tuple(x) for x in new[cid]["gold"]}
+        if a != b or old[cid]["question"] != new[cid]["question"]:
+            changed[cid] = {"added": len(b - a), "removed": len(a - b),
+                            "question_changed": old[cid]["question"] != new[cid]["question"]}
+    return {"gone": sorted(set(old) - set(new)), "new": sorted(set(new) - set(old)), "changed": changed}
+
+
+def clusters(cases: list[dict], shared: int = 1) -> list[list[str]]:
+    """Connected groups of cases, two cases linked when they share at least `shared` gold documents."""
+    docs = {c["id"]: {d for d, _ in c["gold"]} for c in cases}
+    parent = {cid: cid for cid in docs}
+
+    def root(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+    ids = sorted(docs)
+    for i, a in enumerate(ids):
+        for b in ids[i + 1:]:
+            if len(docs[a] & docs[b]) >= shared:
+                parent[root(a)] = root(b)
+    groups: dict[str, list[str]] = {}
+    for cid in ids:
+        groups.setdefault(root(cid), []).append(cid)
+    return sorted(groups.values(), key=lambda g: (-len(g), g))
+
+
+def selftest() -> list[str]:
+    """Each defect handed to the check that must name it, on a fixture; no corpus file is touched."""
+    import tempfile
+    from types import SimpleNamespace
+    fails = []
+    doc = SimpleNamespace(offset=4, lines=lambda: ("a", "b", "c"))       # body L4–L6
+    lookup = lambda slug: doc if slug == "d" else (_ for _ in ()).throw(KeyError(slug))  # noqa: E731
+    cases = [{"id": "C1", "key": "conflict:C1", "question": "q1", "gold": [["d", 4], ["d", 5]]},
+             {"id": "C2", "key": "conflict:C2", "question": "q2", "gold": [["d", 6]]},
+             {"id": "Q1", "key": "question:Q1", "question": "q3", "gold": [["e", 9]]}]
+    with tempfile.TemporaryDirectory() as tmp:
+        f = freeze(1, [dict(c, gold=[g for g in c["gold"] if g[0] == "d"]) for c in cases[:2]], Path(tmp) / "v1.json")
+        frozen = load(f)
+        if integrity(frozen, lookup):
+            fails.append(f"a sound frozen set failed integrity: {integrity(frozen, lookup)}")
+        try:
+            freeze(1, cases, f)
+            fails.append("a frozen file was overwritten")
+        except SystemExit:
+            pass
+        edited = dict(frozen, cases=[dict(frozen["cases"][0], gold=[["d", 4]]), frozen["cases"][1]])
+        if not any("hash" in x for x in integrity(edited, lookup)):
+            fails.append("an edited case list passed the hash check")
+        bad = {"sha256": digest([cases[2], dict(cases[0], gold=[["d", 2]])]),
+               "cases": [cases[2], dict(cases[0], gold=[["d", 2]])]}
+        problems = integrity(bad, lookup)
+        if not any("not landed" in x for x in problems) or not any("outside the body" in x for x in problems):
+            fails.append(f"an unlanded document or a frontmatter line passed: {problems}")
+        moved = drift(frozen, [dict(cases[0], gold=[["d", 4], ["d", 6]]), cases[2]])
+        if moved != {"gone": ["C2"], "new": ["Q1"], "changed": {"C1": {"added": 1, "removed": 1, "question_changed": False}}}:
+            fails.append(f"drift misreported: {moved}")
+    if clusters(cases) != [["C1", "C2"], ["Q1"]] or clusters(cases, shared=2) != [["C1"], ["C2"], ["Q1"]]:
+        fails.append(f"clusters wrong: {clusters(cases)} / {clusters(cases, 2)}")
+    return fails
+
+
+def main(argv: list[str]) -> int:
+    cmd = argv[0] if argv else "check"
+    if cmd == "selftest":
+        fails = selftest()
+        for f in fails:
+            print(f"  FAIL  {f}")
+        print(f"benchset: {6 - len(fails)} of 6 cases hold (sound set, no overwrite, edited hash, unlanded and "
+              "frontmatter gold, drift, clusters)")
+        return 1 if fails else 0
+    if cmd == "freeze":
+        version = int(argv[argv.index("--version") + 1]) if "--version" in argv else 1
+        target = freeze(version)
+        frozen = load(target)
+        print(f"froze {len(frozen['cases'])} cases, {sum(len(c['gold']) for c in frozen['cases'])} gold lines "
+              f"→ {target.relative_to(ROOT)} (sha256 {frozen['sha256'][:12]})")
+        return 0
+    path = Path(argv[1]) if len(argv) > 1 else path_for(1)
+    frozen = load(path)
+    if cmd == "check":
+        fails = integrity(frozen)
+        for f in fails[:20]:
+            print(f"  FAIL  {f}")
+        d = drift(frozen, live())
+        print(f"{path.name}: {len(frozen['cases'])} cases, sha256 {frozen['sha256'][:12]} — "
+              f"{'integrity holds' if not fails else f'{len(fails)} integrity failures'}")
+        print(f"drift since {frozen['from_commit'][:8]}: {len(d['changed'])} cases changed, "
+              f"{len(d['new'])} new, {len(d['gone'])} gone"
+              + "".join(f"\n  {cid}: +{v['added']} −{v['removed']} gold lines"
+                        f"{', question changed' if v['question_changed'] else ''}" for cid, v in d["changed"].items()))
+        return 1 if fails else 0
+    if cmd == "clusters":
+        cases = frozen["cases"]
+        per_doc = Counter(d for c in cases for d in {g[0] for g in c["gold"]})
+        print(f"{len(cases)} cases, {len(per_doc)} gold documents; a document is gold in "
+              f"{max(per_doc.values())} cases at most, in ≥ 2 cases for {sum(v >= 2 for v in per_doc.values())}")
+        for k in (1, 3, 5, 8, 12):
+            groups = clusters(cases, k)
+            print(f"  linked by ≥ {k:2} shared documents: {len(groups)} groups, sizes "
+                  f"{[len(g) for g in groups]}")
+        return 0
+    print(__doc__)
+    return 2
+
+
+if __name__ == "__main__":
+    raise SystemExit(main(sys.argv[1:]))

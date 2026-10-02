@@ -63,6 +63,8 @@ SUITES = [
     ("graph atlas: readable export", "std", ["scripts/graph_export_selftest.py"]),
     ("graphqlite: real extension", "graphqlite", ["scripts/kg_selftest.py"]),
     ("graphrag", "std", ["scripts/graphrag.py", "selftest"]),
+    ("bench set: frozen, hashed, drift, clusters", "std", ["scripts/benchset.py", "selftest"]),
+    ("bench set, live: integrity of the frozen cases", "std", ["scripts/benchset.py", "check"]),
     ("ui app", "std", ["scripts/ui.py", "selftest"]),
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("gold lists", "std", ["scripts/gold.py", "selftest"]),

@@ -1,0 +1,73 @@
+  held     novelgraph: chunking, freshness, publication, FTS novelgraph selftest: held
+  held     claude usage: failed calls included claude usage: retry, all-invalid, and missing usage held
+  held     knowledge init: plans and failures knowledge: read-only plans, capability failures, continuation, shared store and opt-in sem
+  held     reading extraction: provenance and placement reading_extract: 25/25 checks held
+  held     HyperExtract, ported: prompt, schema, chunks, merge hx: 89 of 89 cases hold; offline, against HyperExtract 395039e as pinned
+  held     reading extraction: every template's fixture reading_extract native: 31/31 checks held; synthetic, no model quality measured
+  held     HyperExtract through claude -p: offline he_claude: 10 of 10 cases hold; offline, a fake claude
+  held     quotes, find, fold         45 of 45 cases hold (12 quotation, 6 citation, 10 fold, 11 counting, 6 frontmatter, order 
+  held     entities matcher             ok  holds('McLaughlin-Graph') on 'des McLaughlin-Graphen': False
+  held     overview: names, pairs, case selftest held
+  held     candidate lists compared   agree: 12 of 12 cases hold
+  held     reconcile sweep            reconcile sweep: 7 of 7 cases hold
+  held     skills                     check_skills: 6 of 6 cases hold
+  held     skills, live                 hyperextract-yaml-validator: name 'yaml-validator' is not the folder name 'hyperextract-
+  held     baseline ledger            baseline: 9 of 9 cases hold
+  held     pairs: rules and veto      pairs: 19 of 19 cases hold (plural merges, no canary merged, the veto fires on -er and on 
+  held     chapter pages: checks fail chapters selftest: 16 mention cases, 7 page defects, held
+  held     chapter pages, live        41 chapter pages, 585 readings, 0 defects
+  held     chapter sources: query, section chapter_sources selftest: held
+  held     links: once per page       link selftest: 6 cases, held
+  held     graph                      graph: 7 of 7 cases hold (clean, broken edge, unlanded doc, no proposal in the core, every
+  held     graph atlas: readable export OK
+  held     graphqlite: real extension OK
+  held     graphrag                   graphrag: 10 of 10 cases hold (MMR defect and floor, leave-out, no seed, gloss off/on/ambi
+  held     ui app                     ui: every check reported its defect (clean build, 6 markup, 2 data, 1 syntax)
+  held     rlm_ingest tools, reach    rlm_ingest: 6 of 6 offline cases hold (find_line, refusal, count, reach, forced answer, a 
+  held     gold lists                 gold: 9 of 9 cases hold (every criterion failed on purpose, a denial read as no declaratio
+  held     extractors against gold    goldeval: 11 of 11 cases hold
+  held     relations against gold     goldrel: 11 of 11 cases hold
+  held     prose numbers              0 prose claims contradict the repository.
+  held     pipeline order: violations named account: 9 of 9 cases hold (each violation named, and a violation exits 1)
+  held     pipeline order, live       order holds: 58 documents with a census, 0 violations
+  held     quotes, live               21969 cited quotes checked, 0 unresolved, 0 unchecked — a quotation with no citation on it
+  held     frontmatter, live          10 pages have no `## Reading` heading; their readings value is kept: ani, ars, ecr, entrop
+  held     judgements replay          120 judgements: 8 agree, 0 DISAGREE, 106 still judgement, 6 skipped
+  held     jules: approval, tools, verify held
+  held     runlog: refusals, summary  runlog: 9 of 9 cases hold (end without start, double start, unknown phase, a phase resumed
+  held     readings lint: each class and its near-miss lint_readings: 25 of 25 cases hold
+  held     digest: what a reader needs of a page digest: 8 of 8 cases hold
+  held     readings: placed by code, refused, in order readings: 23 of 23 cases hold
+  held     census: drafted by code, checked census: 13 of 13 cases hold
+  held     record: derived from the pages, checked record: 13 of 13 cases hold
+  held     brief: drafted from the lookup, marks checked brief: 10 of 10 cases hold
+  held     bm25 relation: found, refused, judged, fitted bm25rel: 11 of 11 cases hold
+  held     crossdoc: the groups apart, counts not ranks crossdoc: 6 of 6 cases hold
+  held     claims: a sentence beside its line, cells checked claims: 25 of 25 cases hold
+  held     graph lab: weights, folds, paired comparison graphlab: 18 of 18 cases hold
+  held     hyperextract graph: rows, footings, cue rule, prior hegraph: 21 of 21 cases hold
+  held     reader lab: the clean reader's gate clean_reader: 7 of 7 cases hold
+  held     qmd coverage patterns      qmd coverage: constrained and expanded patterns hold
+  held     qmd coverage, live         0 uncovered, 0 of them unexplained
+  held     route: price, consent, record all hold
+  held     templates: checks fail     all hold
+  held     templates, live            32 template(s), 8 checks each: 0 failed, 0 not reached
+  held     contracts: each outcome told apart contracts: 18 of 18 cases hold
+  held     contracts per source, live contracts: every overview matches the runs
+  held     model rotation: explore, exploit by labels modelpick: 10 of 10 cases hold
+  held     HyperExtract port against upstream parity with HyperExtract 395039e: every comparison holds
+  held     dspy surface               DSPy 3.3.1: 18 of 18 surface checks hold
+  held     dspy skill, selftest       check_dspy_skill: 9 of 9 cases hold (surface: wrong name, wrong default, unreadable, corre
+  held     dspy skill, live           DSPy 3.3.1: the dspy skill holds
+  held     lm fixture                 lm_fixture: 3 of 3 cases hold (answer+record, refuse network, exhausted script)
+  held     lmrun                      lmrun: 14 of 14 cases hold (4 statuses, DSPy's own transport error, empty field, English c
+  held     ask store: bm25, ppr, sheets askdb selftest: held
+  held     ask: verify names each defect ask selftest: held
+  held     ask graph: lines, paragraphs, hyperedges askextract selftest: held
+  held     aliases: similarity, threshold aliases selftest: held
+  held     claude cli model           claude_lm: 18 of 18 cases hold (parse, record, cost, no tools, no session, no settings, sy
+  held     pairs dry-run              }
+  held     pairs dry-run, plural first }
+  held     graphrag answer dry-run    - Probelauf — keine echte Auswahl
+
+71 held, 0 failed, 0 not run, of 71 suites

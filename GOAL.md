@@ -6,6 +6,12 @@
 >
 > **Überarbeitet 2026-09-23** mit dem, was das Repository zu diesem Zeitpunkt selbst belegt. Der Auftrag des Autors steht unverändert. Ergänzungen stehen in Blöcken **„Ist-Stand 2026-09-23“**, und jede Zahl darin trägt einen `<!--state:…-->`-Marker, den `python3 scripts/state.py --prose` prüft. Wo der Auftrag und das Repository sich widersprechen, steht das in **Anhang C** und nicht stillschweigend im Text.
 
+>
+> **Ist-Stand 2026-10-01 (Entscheidung 021).** Die Architektur steht in [`SPEC.md`](SPEC.md), vom Autor angenommen. Dieser Auftrag bleibt der Brief vom 2026-09-23; wo er und das Repository heute auseinandergehen:
+> - **Vorrang nach Tier und „neuer gewinnt" (§3)** sind durch Entscheidung 006 ausgesetzt. Tiers stehen als Metadaten im Pack, nie als Auflösungsregel (`SPEC.md` §8).
+> - **Automatische Konfliktauflösung (§4.4)** gibt es nicht: Konflikte werden gefunden und markiert, nie maschinell entschieden (`CLAUDE.md`).
+> - **`agency/Plan/010-novel-domain/spec.md`** wurde am 2026-06-09 abgelöst (heute `Plan/superseded/`). Seine Lehre: Von elf „entscheidbaren" Storyform-Checks waren nur wenige wirklich entscheidbar. Eine Plot-Regel wird nur dann ein Check, wenn eine Fixture sie scheitern lassen kann (`SPEC.md` §8).
+
 ---
 
 ## 0 · Worum es geht, in fünf Sätzen
@@ -568,7 +574,7 @@ Nach jeder Phase: Commit, kurzer Statusbericht an den Autor, ein Eintrag in `lea
 >
 > | Phase | Stand |
 > |---|---|
-> | 0 · Recon und Spec | Zugangs-Inventur weitgehend erledigt (§2 oben): Drive läuft über den Katalog in `Sources/`. Offen: `agency`, die claude.ai-Exporte, die Entscheidungen in Anhang C. `SPEC.md` existiert nicht. |
+> | 0 · Recon und Spec | Zugangs-Inventur weitgehend erledigt (§2 oben): Drive läuft über den Katalog in `Sources/`. Offen: die claude.ai-Exporte, die Entscheidungen in Anhang C. **Ergänzt 2026-10-01:** `agency` ist gelesen, `SPEC.md` existiert und ist angenommen (Entscheidung 021). |
 > | 1 · Ingest und Katalog | **Katalog vollständig** (`Sources/manifest.jsonl`, 587 <!--state:sources.total--> Einträge), gelandet und dedupliziert sind 586 <!--state:sources.landed-->. **Die Kanon-Stände sind gelandet** (2026-09-24): 33 <!--state:sources.canon_era_landed--> von 33 <!--state:sources.canon_era--> Einträgen ab Mai 2026. Gelesen sind davon acht, `storyform-und-outline`, die `charakter-bibel`, das `konzept-konsolidiert`, das `kapitel-kompendium`, `kernwelten-vollstaendig`, der `dramatica-dual-storyform-status`, die `begriffe-und-konzepte` und der `strukturierter-outline` (2026-09-24). Außerhalb des Katalogs fehlen die claude.ai-Exporte und der Weg für Manuskript und NCP (C1). |
 > | 2 · Claims und Entitäten | Für 58 <!--state:documents.with_census--> Recherche-Dokumente als Census und Note. Kein Prädikat-Vokabular, keine Kanon-Quelle. |
 > | 3 · Konflikte | 15 <!--state:wiki.conflicts--> Records von Hand. Kein Detektor, keine Fixture aus Anhang B getestet. |

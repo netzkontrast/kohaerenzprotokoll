@@ -1,0 +1,234 @@
+{
+ "cases": [
+  {
+   "id": "C1",
+   "gold": 20,
+   "ceiling_line": 0.2,
+   "ceiling_doc": 0.5,
+   "lines_sent_unbounded": 163,
+   "lines_on_docs_without_gold": 147
+  },
+  {
+   "id": "C10",
+   "gold": 43,
+   "ceiling_line": 0.07,
+   "ceiling_doc": 0.429,
+   "lines_sent_unbounded": 146,
+   "lines_on_docs_without_gold": 51
+  },
+  {
+   "id": "C11",
+   "gold": 182,
+   "ceiling_line": 0.181,
+   "ceiling_doc": 0.439,
+   "lines_sent_unbounded": 348,
+   "lines_on_docs_without_gold": 64
+  },
+  {
+   "id": "C12",
+   "gold": 119,
+   "ceiling_line": 0.151,
+   "ceiling_doc": 0.433,
+   "lines_sent_unbounded": 134,
+   "lines_on_docs_without_gold": 68
+  },
+  {
+   "id": "C13",
+   "gold": 18,
+   "ceiling_line": 0.167,
+   "ceiling_doc": 0.556,
+   "lines_sent_unbounded": 215,
+   "lines_on_docs_without_gold": 176
+  },
+  {
+   "id": "C14",
+   "gold": 84,
+   "ceiling_line": 0.036,
+   "ceiling_doc": 0.067,
+   "lines_sent_unbounded": 226,
+   "lines_on_docs_without_gold": 208
+  },
+  {
+   "id": "C15",
+   "gold": 21,
+   "ceiling_line": 0.429,
+   "ceiling_doc": 0.667,
+   "lines_sent_unbounded": 183,
+   "lines_on_docs_without_gold": 133
+  },
+  {
+   "id": "C2",
+   "gold": 91,
+   "ceiling_line": 0.033,
+   "ceiling_doc": 0.194,
+   "lines_sent_unbounded": 190,
+   "lines_on_docs_without_gold": 171
+  },
+  {
+   "id": "C3",
+   "gold": 66,
+   "ceiling_line": 0.0,
+   "ceiling_doc": 0.083,
+   "lines_sent_unbounded": 188,
+   "lines_on_docs_without_gold": 178
+  },
+  {
+   "id": "C4",
+   "gold": 92,
+   "ceiling_line": 0.0,
+   "ceiling_doc": 0.0,
+   "lines_sent_unbounded": 158,
+   "lines_on_docs_without_gold": 158
+  },
+  {
+   "id": "C5",
+   "gold": 41,
+   "ceiling_line": 0.0,
+   "ceiling_doc": 0.0,
+   "lines_sent_unbounded": 118,
+   "lines_on_docs_without_gold": 118
+  },
+  {
+   "id": "C6",
+   "gold": 108,
+   "ceiling_line": 0.019,
+   "ceiling_doc": 0.188,
+   "lines_sent_unbounded": 183,
+   "lines_on_docs_without_gold": 164
+  },
+  {
+   "id": "C7",
+   "gold": 114,
+   "ceiling_line": 0.018,
+   "ceiling_doc": 0.139,
+   "lines_sent_unbounded": 172,
+   "lines_on_docs_without_gold": 122
+  },
+  {
+   "id": "C8",
+   "gold": 59,
+   "ceiling_line": 0.169,
+   "ceiling_doc": 0.5,
+   "lines_sent_unbounded": 145,
+   "lines_on_docs_without_gold": 78
+  },
+  {
+   "id": "C9",
+   "gold": 53,
+   "ceiling_line": 0.057,
+   "ceiling_doc": 0.28,
+   "lines_sent_unbounded": 210,
+   "lines_on_docs_without_gold": 174
+  },
+  {
+   "id": "Q1",
+   "gold": 94,
+   "ceiling_line": 0.011,
+   "ceiling_doc": 0.125,
+   "lines_sent_unbounded": 156,
+   "lines_on_docs_without_gold": 142
+  },
+  {
+   "id": "Q2",
+   "gold": 43,
+   "ceiling_line": 0.0,
+   "ceiling_doc": 0.0,
+   "lines_sent_unbounded": 108,
+   "lines_on_docs_without_gold": 108
+  },
+  {
+   "id": "Q3",
+   "gold": 166,
+   "ceiling_line": 0.036,
+   "ceiling_doc": 0.146,
+   "lines_sent_unbounded": 305,
+   "lines_on_docs_without_gold": 223
+  },
+  {
+   "id": "Q4",
+   "gold": 69,
+   "ceiling_line": 0.014,
+   "ceiling_doc": 0.077,
+   "lines_sent_unbounded": 240,
+   "lines_on_docs_without_gold": 231
+  },
+  {
+   "id": "Q5",
+   "gold": 114,
+   "ceiling_line": 0.018,
+   "ceiling_doc": 0.273,
+   "lines_sent_unbounded": 272,
+   "lines_on_docs_without_gold": 221
+  },
+  {
+   "id": "Q6",
+   "gold": 11,
+   "ceiling_line": 0.545,
+   "ceiling_doc": 0.857,
+   "lines_sent_unbounded": 272,
+   "lines_on_docs_without_gold": 217
+  },
+  {
+   "id": "Q7",
+   "gold": 15,
+   "ceiling_line": 0.2,
+   "ceiling_doc": 0.4,
+   "lines_sent_unbounded": 197,
+   "lines_on_docs_without_gold": 188
+  },
+  {
+   "id": "Q8",
+   "gold": 24,
+   "ceiling_line": 0.042,
+   "ceiling_doc": 0.529,
+   "lines_sent_unbounded": 579,
+   "lines_on_docs_without_gold": 238
+  },
+  {
+   "id": "Q9",
+   "gold": 23,
+   "ceiling_line": 0.043,
+   "ceiling_doc": 0.474,
+   "lines_sent_unbounded": 186,
+   "lines_on_docs_without_gold": 129
+  }
+ ],
+ "finders": {
+  "graph-evidence": {
+   "anchors": 144,
+   "chars": 157758,
+   "gold": 39,
+   "only": 33,
+   "cases_with_gold": 11,
+   "gold_per_10k_chars": 2.47
+  },
+  "bm25-lines": {
+   "anchors": 720,
+   "chars": 532854,
+   "gold": 64,
+   "only": 51,
+   "cases_with_gold": 15,
+   "gold_per_10k_chars": 1.2
+  },
+  "co-mention": {
+   "anchors": 166,
+   "chars": 403898,
+   "gold": 14,
+   "only": 6,
+   "cases_with_gold": 4,
+   "gold_per_10k_chars": 0.35
+  },
+  "parallel": {
+   "anchors": 181,
+   "chars": 129484,
+   "gold": 12,
+   "only": 10,
+   "cases_with_gold": 7,
+   "gold_per_10k_chars": 0.93
+  }
+ },
+ "mean_ceiling_line": 0.102,
+ "mean_ceiling_doc": 0.307,
+ "share_lines_on_goldless_docs": 0.728,
+ "frozen_sha256": "b37d801057741176b0aca36e359b522099a867c1015802bbd3edf9d5a5597585"
+}

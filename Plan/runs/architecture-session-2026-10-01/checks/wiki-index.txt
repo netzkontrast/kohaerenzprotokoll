@@ -1,0 +1,88 @@
+106 pages, 15 conflicts, 180 known surfaces
+80 gaps the index cannot see past:
+
+  alex: no aliases -- a second name for it will not be recognised
+  algorithmische-melancholie: no aliases -- a second name for it will not be recognised
+  alters: no aliases -- a second name for it will not be recognised
+  ani: no aliases -- a second name for it will not be recognised
+  archiv-der-grenzen: no aliases -- a second name for it will not be recognised
+  archiv-des-ungesagten: no aliases -- a second name for it will not be recognised
+  argus: no aliases -- a second name for it will not be recognised
+  ars: no aliases -- a second name for it will not be recognised
+  atemporalitaet: no aliases -- a second name for it will not be recognised
+  blinder-fleck: no aliases -- a second name for it will not be recognised
+  cache-kohaerenz: no aliases -- a second name for it will not be recognised
+  cerberus: no aliases -- a second name for it will not be recognised
+  chaitin-konstante: no aliases -- a second name for it will not be recognised
+  coheron: no aliases -- a second name for it will not be recognised
+  datenverarbeitungsknoten-7g: no aliases -- a second name for it will not be recognised
+  dkt: no aliases -- a second name for it will not be recognised
+  drei-ontologische-schichten: no aliases -- a second name for it will not be recognised
+  ecr: no aliases -- a second name for it will not be recognised
+  emergenz: no aliases -- a second name for it will not be recognised
+  entropie-katastrophe: no aliases -- a second name for it will not be recognised
+  entropie-signatur: no aliases -- a second name for it will not be recognised
+  entropie: no aliases -- a second name for it will not be recognised
+  erason: no aliases -- a second name for it will not be recognised
+  evaluierungseinheit: no aliases -- a second name for it will not be recognised
+  externe-ebene: no aliases -- a second name for it will not be recognised
+  formel-inversion: no aliases -- a second name for it will not be recognised
+  garten-der-stillen-praesenz: no aliases -- a second name for it will not be recognised
+  genesis: no aliases -- a second name for it will not be recognised
+  goedel-gambit: no aliases -- a second name for it will not be recognised
+  guardians: no aliases -- a second name for it will not be recognised
+  hitze-polaritaetsregel: no aliases -- a second name for it will not be recognised
+  isabelle: no aliases -- a second name for it will not be recognised
+  junas-ankerpunkt: no aliases -- a second name for it will not be recognised
+  k0-existenz: no aliases -- a second name for it will not be recognised
+  kairos: no aliases -- a second name for it will not be recognised
+  kiko: no aliases -- a second name for it will not be recognised
+  kishotenketsu: no aliases -- a second name for it will not be recognised
+  kohaerenz-programm: no aliases -- a second name for it will not be recognised
+  kohaerenz: no aliases -- a second name for it will not be recognised
+  kollaps-kernel: no aliases -- a second name for it will not be recognised
+  komponente-734: no aliases -- a second name for it will not be recognised
+  landauer-signatur: no aliases -- a second name for it will not be recognised
+  lex: no aliases -- a second name for it will not be recognised
+  lia: no aliases -- a second name for it will not be recognised
+  logos: no aliases -- a second name for it will not be recognised
+  mnemosyne-server-architektur: no aliases -- a second name for it will not be recognised
+  mnemosyne: no aliases -- a second name for it will not be recognised
+  moonshine-link: no aliases -- a second name for it will not be recognised
+  moros: no aliases -- a second name for it will not be recognised
+  mosaik-herz: no aliases -- a second name for it will not be recognised
+  negentropie: no aliases -- a second name for it will not be recognised
+  nexus: no aliases -- a second name for it will not be recognised
+  nullpunkt-protokoll: no aliases -- a second name for it will not be recognised
+  nyx: no aliases -- a second name for it will not be recognised
+  oblivion: no aliases -- a second name for it will not be recognised
+  ouroboros-struktur: no aliases -- a second name for it will not be recognised
+  partnerin: no aliases -- a second name for it will not be recognised
+  persistenzgleichung: no aliases -- a second name for it will not be recognised
+  pms: no aliases -- a second name for it will not be recognised
+  potentialmeer: no aliases -- a second name for it will not be recognised
+  protokoll-v14: no aliases -- a second name for it will not be recognised
+  residual-echos: no aliases -- a second name for it will not be recognised
+  rhys: no aliases -- a second name for it will not be recognised
+  rsa: no aliases -- a second name for it will not be recognised
+  sektor-04: no aliases -- a second name for it will not be recognised
+  selene: no aliases -- a second name for it will not be recognised
+  silas: no aliases -- a second name for it will not be recognised
+  snk: no aliases -- a second name for it will not be recognised
+  sophia: no aliases -- a second name for it will not be recognised
+  telefon-stille: no aliases -- a second name for it will not be recognised
+  therapie-schnittstelle-alpha: no aliases -- a second name for it will not be recognised
+  thermodynamischer-phaenomenalismus: no aliases -- a second name for it will not be recognised
+  trennungsprotokoll: no aliases -- a second name for it will not be recognised
+  truth-rotation: no aliases -- a second name for it will not be recognised
+  tsdp: no aliases -- a second name for it will not be recognised
+  ueberraum: no aliases -- a second name for it will not be recognised
+  vermittler-stimme: no aliases -- a second name for it will not be recognised
+  verschraenkungs-insel: no aliases -- a second name for it will not be recognised
+  vortex: no aliases -- a second name for it will not be recognised
+  ztv: no aliases -- a second name for it will not be recognised
+
+0 pages whose sources/readings/ingested differ from the body:
+
+
+10 pages have no `## Reading` heading; their readings value is kept: ani, ars, ecr, entropie-resonanz, entropie-signatur, nullpunkt-protokoll, pms, rsa, snk, ztv
