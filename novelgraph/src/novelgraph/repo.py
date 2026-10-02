@@ -45,6 +45,12 @@ def manifest_rows() -> list[dict]:
     return subject.rows()
 
 
+def query_words(text: str) -> list[str]:
+    """A query's content words, as every lexical finder of the repository splits them (`askdb.query_words`)."""
+    import askdb
+    return askdb.query_words(text)
+
+
 def bench_cases(live: bool = False) -> list[dict]:
     """The 24 cases of `ask.py bench`, frozen (`Plan/eval/retrieval-cases-v1.json`, `benchset.cases`): the record's
     question, gold = the (slug, file line) it cites. `live` reads the records, whose gold moves with every edit."""
@@ -58,4 +64,4 @@ def bench_identity(live: bool = False) -> dict:
     return benchset.identity(live)
 
 
-__all__ = ["ROOT", "INDEX", "documents", "manifest_rows", "bench_cases", "bench_identity", "fold", "read_jsonl", "write_jsonl"]
+__all__ = ["ROOT", "INDEX", "documents", "manifest_rows", "bench_cases", "bench_identity", "query_words", "fold", "read_jsonl", "write_jsonl"]

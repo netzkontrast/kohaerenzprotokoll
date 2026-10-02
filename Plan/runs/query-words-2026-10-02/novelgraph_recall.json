@@ -1,0 +1,30 @@
+{
+ "old": {
+  "heading@v1/bm25": {
+   "doc_recall": 0.066,
+   "line_recall": 0.034
+  },
+  "heading@v1/vec": {
+   "doc_recall": 0.067,
+   "line_recall": 0.022
+  },
+  "heading@v1/hybrid": {
+   "doc_recall": 0.068,
+   "line_recall": 0.032
+  }
+ },
+ "new": {
+  "heading@v1/bm25": {
+   "doc_recall": 0.062,
+   "line_recall": 0.032
+  },
+  "heading@v1/vec": {
+   "doc_recall": 0.067,
+   "line_recall": 0.022
+  },
+  "heading@v1/hybrid": {
+   "doc_recall": 0.069,
+   "line_recall": 0.034
+  }
+ }
+}
