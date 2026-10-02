@@ -195,7 +195,7 @@ def route(question: str, kind: str, store=None, graph: dict | None = None,
 def skills_for(question: str, k: int = 2) -> list[dict]:
     """The skills whose description shares the most content words with the question."""
     import askdb
-    words = {w.lower() for w in re.findall(r"\w[\w-]{3,}", question)} - askdb.STOP
+    words = set(askdb.query_words(question, min_len=4))
     scored = []
     for base in SKILL_DIRS:
         for p in sorted(base.glob("*/SKILL.md")):

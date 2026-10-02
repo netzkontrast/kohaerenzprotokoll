@@ -126,12 +126,11 @@ def read_graph(db):
 
 
 def search(db, query, limit):
-    # Treat user input as literal FTS words; no query syntax is interpolated.
-    import re
-    words = re.findall(r"\w+", query)
-    if not words:
+    # Treat user input as literal FTS words; no query syntax is interpolated (askdb.query_words, SPEC.md step 5).
+    import askdb
+    match = askdb.fts_query(query)
+    if not match:
         return {"evidence": [], "reason": "no search words"}
-    match = " OR ".join('"' + w.replace('"', '""') + '"' for w in words)
     with sqlite3.connect(db) as conn:
         rows = conn.execute("SELECT e.payload, bm25(kp_fts) FROM kp_fts JOIN kp_evidence e "
                             "ON e.id=kp_fts.id WHERE kp_fts MATCH ? ORDER BY bm25(kp_fts), e.id LIMIT ?",
