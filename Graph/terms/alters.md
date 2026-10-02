@@ -64,6 +64,7 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Duale Storyform-Synthese: Kohärenz Protokoll](../../Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md) | 2026-04-28 | ja | ja |
 | [Editorial Style Dossier: Somatic and Linguistic Implementation of the Kael System](../../Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md) | 2026-05-08 | ja | ja |
 | [Entropie aegis](../../Sources/drive/entropie-aegis.md) | 2025-04-17 | ja | ja |
+| [Flow-Zustände und dissoziative Identität](../../Sources/drive/flow-zustaende-und-dissoziative-identitaet.md) | 2026-04-23 | ja | ja |
 | [Hard-SF-Roman-Outline: DKT-Physik, Cosmic Horror](../../Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md) | 2026-04-08 | ja | ja |
 | [kap0-kap40-doppelklammer-abhandlung-2026-05-08.md](../../Sources/drive/kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md) | 2026-05-08 | ja | ja |
 | [kap0-v1-annotiert.md](../../Sources/drive/kap0-v1-annotiert-md.md) | 2026-05-17 | ja | ja |

@@ -33,6 +33,7 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Dramatica Storyform Synthese & AEGIS-Analyse](../../Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md) | 2026-04-30 | ja | ja |
 | [Duale Storyform-Synthese: Kohärenz Protokoll](../../Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md) | 2026-04-28 | ja | ja |
 | [Kapitel-Kompendium_Gather_2026-05-31.md](../../Sources/drive/kapitel-kompendium-gather-2026-05-31-md.md) | 2026-05-30 | ja | ja |
+| [KI-Narrative: Kollaps, Kohärenz, Paradoxie](../../Sources/drive/ki-narrative-kollaps-kohaerenz-paradoxie.md) | 2026-03-01 | ja | ja |
 | [Kohärenz Protokoll](../../Sources/drive/kohaerenz-protokoll.md) | 2025-04-27 | ja | ja |
 | [kohaerenz-protokoll_kernwelten-vollstaendig_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [kohaerenz-protokoll_storyform-und-outline_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md) | 2026-06-10 | ja | ja |

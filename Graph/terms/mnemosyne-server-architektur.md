@@ -26,6 +26,7 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 
 | Quelle | Datum | Lesung im Wiki enthalten | Im Wiki zitiert |
 |---|---|---|---|
+| [Kohärenz-Protokoll Audit und Verifizierung](../../Sources/drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | ja | ja |
 | [kohaerenz-protokoll_begriffe-und-konzepte_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [kohaerenz-protokoll_kernwelten-vollstaendig_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [kohaerenz-protokoll_welt-sensorik-drafting_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md) | 2026-06-10 | ja | ja |

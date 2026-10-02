@@ -10,6 +10,7 @@ Synthese der Quellen und erklären keine Empfehlung zum Beschluss.
 ```bash
 python3 scripts/knowledge.py init --profile reader
 .venv-graphqlite/bin/python scripts/kg.py export
+.venv-graphqlite/bin/python scripts/kg.py export --check   # schreibt nichts; scheitert, wenn Graph/ veraltet ist
 ```
 
 Der Export ist bewusst **eine Dokumentation, kein Datenbank-Abbild**. Es gibt

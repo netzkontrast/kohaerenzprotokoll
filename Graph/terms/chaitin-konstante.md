@@ -11,6 +11,7 @@
 
 Wiki-Verlinkungen zeigen eine Verbindung zwischen Seiten; sie behaupten keine Gleichheit oder Kausalität.
 
+- [AEGIS](../terms/aegis.md)
 - [Juna](../terms/juna.md)
 - [Kael](../terms/kael.md)
 - [Kiko](../terms/kiko.md)
@@ -29,6 +30,7 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Dramatica Storyform Synthese & AEGIS-Analyse](../../Sources/drive/dramatica-storyform-synthese-aegis-analyse.md) | 2026-04-30 | ja | ja |
 | [Dramatica Storyform Synthese & AEGIS-Analyse](../../Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md) | 2026-04-30 | ja | ja |
 | [Dual_Storyform_Hintergruende.md](../../Sources/drive/dual-storyform-hintergruende-md.md) | 2026-05-08 | ja | ja |
+| [Kohärenz-Protokoll Audit und Verifizierung](../../Sources/drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | ja | ja |
 | [kohaerenz-protokoll_begriffe-und-konzepte_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [Kohaerenz_Protokoll_Charakter_Bibel_2026-05-08.md](../../Sources/drive/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md) | 2026-05-08 | ja | ja |
 | [kohaerenz_protokoll_konzept_master.md](../../Sources/drive/kohaerenz-protokoll-konzept-master-md.md) | 2026-05-08 | ja | ja |
