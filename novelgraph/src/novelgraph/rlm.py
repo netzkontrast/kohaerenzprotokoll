@@ -168,11 +168,13 @@ def program(tools, interpreter_factory=None):
 
 
 def run_fingerprint(methods, model: str, dry_run: bool, case_list: list[dict] | None = None) -> str:
-    """What a row of a run depends on besides its case: this module's code, the model, every limit, the task, the
+    """What a row of a run depends on besides its case: the code of its tools, the model, every limit, the task, the
     `_build/` stamp of each method's index, and the questions and gold of the cases asked. A resume continues
     only rows made under the same fingerprint."""
     import hashlib
-    parts = {"code": hashlib.sha1(Path(__file__).read_bytes()).hexdigest(), "model": "fixture" if dry_run else model,
+    # the agent's tools are this module, the index's search and the repository's query words (SPEC.md step 5)
+    code = b"".join(f.read_bytes() for f in (Path(__file__), Path(search.__file__), ROOT / "scripts" / "askdb.py"))
+    parts = {"code": hashlib.sha1(code).hexdigest(), "model": "fixture" if dry_run else model,
              "limits": [ITERS, SUB_CALLS, OUTPUT_CHARS, BUDGET, MAX_REFS], "task": TASK,
              "index": {m: build.build_stamp(m, store.default_embedder())[0] for m in methods},
              "cases": sorted([c["id"], c["question"], sorted(map(list, c["gold"]))] for c in (case_list or []))}
