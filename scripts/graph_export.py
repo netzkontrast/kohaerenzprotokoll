@@ -169,7 +169,8 @@ für diese Markdown-Dateien. Ihre Bearbeitung verändert keine Graph-Aussage.
     return {path: MARKER + body for path, body in pages.items()}
 
 
-def export(db=askdb.DB, directory=DIRECTORY):
+def pages_for(db=askdb.DB):
+    """The atlas as it should read now: refuses a stale store or a store whose graph differs from the files."""
     import graph, kg
     hashes = askdb.inputs()
     kg.freshness(db)
@@ -183,6 +184,35 @@ def export(db=askdb.DB, directory=DIRECTORY):
     pages = render(core, askdb.sheet_heads(), ledger, askdb.stats(db))
     if askdb.inputs() != hashes:
         raise ValueError("inputs changed during export")
+    return core, pages
+
+
+def drift(pages, directory=DIRECTORY):
+    """What the committed atlas lacks, has wrong, or keeps that the renderer would remove (pages it owns only)."""
+    problems = []
+    for path, content in sorted(pages.items()):
+        target = directory / path
+        if not target.exists():
+            problems.append(f"missing: {path}")
+        elif target.read_text(encoding="utf-8") != content:
+            problems.append(f"stale: {path}")
+    for target in sorted((directory / "terms").glob("*.md")):
+        rel = str(target.relative_to(directory))
+        if rel not in pages and target.read_text(encoding="utf-8").startswith(MARKER):
+            problems.append(f"orphaned: {rel}")
+    return problems
+
+
+def check(db=askdb.DB, directory=DIRECTORY):
+    """`kg.py export --check`: fail when Graph/ is not what an export would write now (SPEC.md step 3)."""
+    _, pages = pages_for(db)
+    problems = drift(pages, directory)
+    return {"status": "current" if not problems else "stale", "pages": len(pages), "problems": problems}
+
+
+def export(db=askdb.DB, directory=DIRECTORY):
+    import kg
+    core, pages = pages_for(db)
     directory.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(prefix=".graph-export-", dir=directory.parent) as staged:
         staging = Path(staged)
