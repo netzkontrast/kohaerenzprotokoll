@@ -121,7 +121,7 @@ The smallest runtime per responsibility, and the verdict.
 | graph CLI | `scripts/kg.py` (`index`, `search`, `context`, `evidence`, `export`) | `.venv-graphqlite` | `ask.db` → JSON / `Graph/` | skill `graph-context` | **retained**; its store code moves to `askdb.py` (step 3) |
 | chunk index | `novelgraph/` → `Index/` | `.venv-novelgraph` (+0.5 GB embedder) | `Sources/` → chunk rows, vectors, BM25 | `ask`'s `novelgraph` finder (off by default, step 6); `rlm` | **optional**; G2 measured positive (+0.016 doc, +0.018 line), default the author's call |
 | RLM over chunks or wiki | `novelgraph rlm`, `scripts/rlm_retrieval.py` | `.venv-novelgraph[rlm]`, `.venv-dspy`, Deno | question → refs | runs only | **optional** (an experimental comparator, H3) |
-| RLM ingest | `scripts/rlm_ingest.py` | `.venv-dspy` | a document → candidates | none | **optional**; its LM goes through `lmrun` (step 7) |
+| RLM ingest | `scripts/rlm_ingest.py` | `.venv-dspy` | a document → candidates | none | **optional**; its LM goes through `lmrun` [built, step 7] |
 | HyperExtract | `hx.py`, `he_claude.py`, `hegraph.py`, `Plan/hyperextract/` | stdlib | contracts → `P_HE_*` proposals | `he-lines` finder (off) | **optional**; the backfill stays stopped (decision 019) |
 | model calls | `lmrun.py`, `claude_lm.py`/`claude_cli.py`, `route.py`, `he_claude.py` | | | | **retained**, four consent encodings kept apart (decision 008); every call recorded |
 | DSPy surfaces | `pairs.py` (the one with a held-out ladder), `baseline.py`, `check_dspy_*` | `.venv-dspy` | | | **retained**; new surfaces only through gate L5 |
@@ -355,8 +355,8 @@ Gates — each must hold before what it guards:
 
 - No corpus text leaves the container without a decision that names the recipient.
 - Claude through `claude -p` is first party (decision 011).
-- The four consent encodings stay separate (decision 008). The one gap is `rlm_ingest.py`, which builds its own
-  OpenRouter LM outside `lmrun.call` (step 7).
+- The four consent encodings stay separate (decision 008). `rlm_ingest.py` keeps its own `--approval`, and since step 7
+  its calls go through `lmrun.make_lm` and `lmrun.call` like every other.
 - Every model call leaves a record, including failed ones. PR #140 closed the same gap for `rlm_retrieval.py`.
 
 ## 8. Architectural choices
@@ -409,7 +409,7 @@ alone, offline, and rolled back by reverting it.
 | **4** | **One hit and pack contract** — [built in part] | `scripts/pack.py` (new); `ask.build_pack` renders over `pack.hits`/`pack.fit`; `kg.bounded_context` uses `pack.size`/`pack.status` and reports `status` | the old pack byte-identical through the new code on all 24 frozen cases before any rule changed; then: every pack within 72 000 bytes (max 71 404), `incomplete` with the omitted documents named, frontmatter anchors dropped, a document's share capped; bench 0.301/0.100 → **0.303/0.101**, no case worse, Q1 better (12 → 33 documents); `kg.py context` returns the same evidence plus `status`; `ask.py pack-selftest` and `pack.py selftest` mutation-tested. Not built: `source_sha`, `proposal`, the quotation-in-window reference, a separate disagreements section | revert; the pack hash in old run records still identifies the old packs |
 | **5** | **One query-word function** — [built] | `askdb.query_words` (one tokenizer, one stop list, two characters minimum) under `fts_query` (`ask`'s `bm25-lines`, `bm25rel`), `kg.search`, novelgraph's `Index.bm25` (through `repo.query_words`; `lex.STOP` stays for what it indexes) and `ask.skills_for`; `novelgraph rlm`'s run fingerprint now covers the search code | per-question word diff for all three old builders (`Plan/runs/query-words-2026-10-02/`); `ask.py bench` 0.303/0.101 → **0.324/0.113**, no case loses documents; novelgraph recall@8 within noise (BM25 0.066 → 0.062, hybrid 0.068 → 0.069); `askdb` selftest case mutation-tested | revert; rebuild `ask.db` |
 | **6** | **novelgraph as an optional finder** — [built] | `ask.route` finder `novelgraph` (`novelgraph_hits`: one `novelgraph search --batch` subprocess, the model loaded once; off by default; refuses without its venv); `novelgraph search --batch` | **G2** (`Plan/runs/novelgraph-finder-2026-10-02/`): at 72 000 bytes, +0.018 line [+0.007, +0.029] and +0.016 document [+0.007, +0.026], 8–9 cases better and 1 worse; 32 novel gold lines (14 in documents only novelgraph found), 5 displaced; about 10 s cold. **Default stays off**: finder defaults are the author's, and on would make the novelgraph venv and index a requirement of every `ask` call | turn the finder off; revert |
-| 7 | **`rlm_ingest` through `lmrun`** | `scripts/rlm_ingest.py` | an offline fixture: an answered and a failed call each leave a record, as `rlm_retrieval --record-selftest` does | revert |
+| **7** | **`rlm_ingest` through `lmrun`** — [built] | `scripts/rlm_ingest.py`: `lmrun.make_lm` (cache off, `claude-cli/` and `route/` names accepted) and `lmrun.call` (one record per call under `Plan/runs/<slug>/lm/rlm-ingest.jsonl`); `--approval` kept (decision 008); a failed call leaves its record and no candidate list, exit 1 | `--loop-selftest` 5/5: an answered and an unparsed run each leave one record, only the answered one writes a list (fails when the record goes elsewhere) | revert |
 | 8 | **E4** — approved (decision 021): Claude only, serial, $20 for the whole run, after steps 2 and 4 | a run directory under `Plan/runs/` | fixed pack vs bounded expansion vs RLM at equal total cost, read evidence only | — |
 
 Steps 2–7 need no model call and no corpus reading. Step 8 has the author's yes on spend (decision 021).
