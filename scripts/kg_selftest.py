@@ -193,6 +193,10 @@ class Integration(unittest.TestCase):
         self.assertEqual(result["conflicts"], pack["conflicts"])
         self.assertEqual([e["quote"] for e in result["evidence"]], ["kurz"])
         self.assertTrue(result["incomplete"])
+        self.assertEqual(result["status"], "incomplete")
+        whole = kg.bounded_context(dict(pack, evidence=pack["evidence"][1:]), 400)
+        self.assertEqual((whole["status"], whole["incomplete"]), ("complete", False))
+        self.assertEqual(kg.bounded_context(dict(pack, evidence=[]), 400)["status"], "no_evidence")
         with self.assertRaises(kg.Refused):
             kg.bounded_context(pack, 5)
 
