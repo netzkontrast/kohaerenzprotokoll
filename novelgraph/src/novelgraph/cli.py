@@ -3,7 +3,7 @@
     novelgraph build  [--source SLUG] [--method heading@v1] [--force]
     novelgraph search "query" [-k 8] [--method heading@v1] [--mode bm25|vec|hybrid] [--json]
     novelgraph verify [--no-rechunk]
-    novelgraph bench  [--k 8] [--record DIR]      # recall@k on ask.py's cases, latency, sizes
+    novelgraph bench  [--k 8] [--record DIR]      # recall@k on the frozen cases, latency, sizes
     novelgraph selftest
     novelgraph rlm    [--selftest | --dry-run | --report | --approval "decision 011"] [--run NAME] [--retry-failed] [--methods A,B] [--cases C1,Q2]
 
@@ -76,7 +76,7 @@ def main(argv: list[str] | None = None) -> int:
         from .bench import latency, recall, sizes
         from . import store
         result = {"recall": recall(a.k), "latency": [latency(m) for m in store.chunkers()], "sizes": sizes()}
-        print(f"recall@{a.k} on {next(iter(result['recall'].values()))['cases']} cases (ask.py bench_cases)")
+        print(f"recall@{a.k} on {next(iter(result['recall'].values()))['cases']} cases (the frozen retrieval cases, benchset.py)")
         print(f"  {'method/mode':<22} {'doc':>6} {'ceiling':>8} {'line':>6} {'lines/hit':>10}")
         for key, r in result["recall"].items():
             print(f"  {key:<22} {r['doc_recall']:>6} {r['doc_ceiling']:>8} {r['line_recall']:>6} {r['lines_per_hit']:>10}")

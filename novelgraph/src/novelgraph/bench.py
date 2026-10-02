@@ -1,7 +1,7 @@
 """`novelgraph bench`: recall@k on the `ask.py bench` cases, query latency, sizes. No model call.
 
-Recall uses `ask.bench_cases()` unchanged — the 24 conflict and question records,
-gold = the (slug, file line) each cites. Two numbers per case:
+Recall uses the frozen cases (`benchset.cases`, `Plan/eval/retrieval-cases-v1.json`) — the 24 conflict and
+question records, gold = the (slug, file line) each cites. Two numbers per case:
 
 - **document recall** — gold documents that some top-k chunk comes from;
 - **line recall** — gold lines that lie inside some top-k chunk's range.

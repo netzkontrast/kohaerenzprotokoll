@@ -9,6 +9,9 @@ answers (evaluation audit §3, item 1; `SPEC.md`, migration step 1). This freeze
 - **check** proves the file is what it says (its hash, every gold line inside its landed document and below
   the frontmatter) — exit 1 on any failure — and reports, without failing, how the live records have drifted
   from it: cases added or gone, gold lines added or removed per case.
+- **cases** is what every bench reads (`ask.py bench`, `novelgraph bench`, `novelgraph rlm`, the evaluation audit):
+  the frozen cases in `ask.bench_cases()`'s shape, refused if the file fails its hash. `live=True` reads the records
+  instead, for drift studies and for freezing the next version; a score from it is not comparable across commits.
 - **clusters** answers whether a held-out split exists: cases sharing a gold document are linked, and the
   connected groups are the units a split may not cut. It reports them at increasing sharing thresholds, and
   how many cases each gold document is gold for. It decides nothing; it measures the dependence.
@@ -67,6 +70,19 @@ def freeze(version: int, cases: list[dict] | None = None, target: Path | None = 
 
 def load(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def cases(version: int = 1, live: bool = False, path: Path | None = None) -> list[dict]:
+    """The bench cases: frozen (default) or live. Frozen is checked against its hash before any score is computed."""
+    if live:
+        import ask
+        return ask.bench_cases()
+    frozen = load(path or path_for(version))
+    if digest(frozen["cases"]) != frozen["sha256"]:
+        raise SystemExit(f"{(path or path_for(version)).name}: the cases do not hash to the recorded sha256 — "
+                         "a frozen set is never edited; freeze a new version")
+    return [{"id": c["id"], "key": c["key"], "question": c["question"], "gold": {(d, n) for d, n in c["gold"]},
+             "frozen": frozen["version"]} for c in frozen["cases"]]
 
 
 def integrity(frozen: dict, document=subject.document) -> list[str]:
@@ -150,6 +166,23 @@ def selftest() -> list[str]:
         moved = drift(frozen, [dict(cases[0], gold=[["d", 4], ["d", 6]]), cases[2]])
         if moved != {"gone": ["C2"], "new": ["Q1"], "changed": {"C1": {"added": 1, "removed": 1, "question_changed": False}}}:
             fails.append(f"drift misreported: {moved}")
+        # a bench reads the frozen file, never the records: an edited record does not move a frozen score
+        import ask
+        saved = ask.bench_cases
+        ask.bench_cases = lambda: [dict(c, gold={("d", 99)}) for c in cases]   # every record "edited"
+        try:
+            got = {c["id"]: c["gold"] for c in globals()["cases"](path=f)}
+        finally:
+            ask.bench_cases = saved
+        if got != {"C1": {("d", 4), ("d", 5)}, "C2": {("d", 6)}}:
+            fails.append(f"frozen cases followed an edited record: {got}")
+        tampered = Path(tmp) / "tampered.json"
+        tampered.write_text(json.dumps(edited), encoding="utf-8")
+        try:
+            globals()["cases"](path=tampered)
+            fails.append("a bench read a frozen file that fails its hash")
+        except SystemExit:
+            pass
     if clusters(cases) != [["C1", "C2"], ["Q1"]] or clusters(cases, shared=2) != [["C1"], ["C2"], ["Q1"]]:
         fails.append(f"clusters wrong: {clusters(cases)} / {clusters(cases, 2)}")
     return fails
@@ -161,8 +194,8 @@ def main(argv: list[str]) -> int:
         fails = selftest()
         for f in fails:
             print(f"  FAIL  {f}")
-        print(f"benchset: {6 - len(fails)} of 6 cases hold (sound set, no overwrite, edited hash, unlanded and "
-              "frontmatter gold, drift, clusters)")
+        print(f"benchset: {8 - len(fails)} of 8 cases hold (sound set, no overwrite, edited hash, unlanded and "
+              "frontmatter gold, drift, a bench ignores edited records, a tampered file refused, clusters)")
         return 1 if fails else 0
     if cmd == "freeze":
         version = int(argv[argv.index("--version") + 1]) if "--version" in argv else 1

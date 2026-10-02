@@ -71,7 +71,8 @@ def main() -> int:
     print(f"   gold documents per case: min {min(gold_docs)}, median {st.median(gold_docs)}, max {max(gold_docs)}; "
           f"the pack holds {st.median([r['pack_docs'] for r in bench])} documents (median) within a budget of {ask.BUDGET:,} characters")
 
-    cases = [c for c in ask.bench_cases() if c["gold"]]
+    import benchset  # the frozen cases (SPEC.md step 2); identical to the records' at freezing
+    cases = [c for c in benchset.cases() if c["gold"]]
     docs = {c["id"]: {d for d, _ in c["gold"]} for c in cases}
     ids = sorted(docs)
     jaccard = [len(docs[a] & docs[b]) / len(docs[a] | docs[b]) for i, a in enumerate(ids) for b in ids[i + 1:]]

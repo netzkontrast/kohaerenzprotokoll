@@ -604,15 +604,17 @@ def bench_cases() -> list[dict]:
 
 
 def bench(budget: int = BUDGET, finders: tuple[str, ...] = DEFAULT_FINDERS, comention: int = COMENTION,
-          he_lines: int = HE_LINES, pr_comention: float = 0.0) -> dict:
+          he_lines: int = HE_LINES, pr_comention: float = 0.0, live: bool = False) -> dict:
+    """Pack recall on the frozen cases (`benchset.cases`, SPEC.md step 2); `live` reads the records instead."""
     global HE_LINES
     HE_LINES = he_lines
     import askdb
     import graph as kg
     import graphrag
+    import benchset
     s, g = askdb.Store(), kg.build()
     rows = []
-    for c in bench_cases():
+    for c in benchset.cases(live=live):
         if not c["gold"]:
             continue
         _, meta = build_pack(c["question"], "position", budget, s, graphrag.without(g, c["key"]), finders=finders,
@@ -628,7 +630,7 @@ def bench(budget: int = BUDGET, finders: tuple[str, ...] = DEFAULT_FINDERS, come
               f"pack {len(shown):3} docs {meta['chars']:6} chars", flush=True)
     mean = lambda k: round(sum(r[k] for r in rows) / len(rows), 3)
     result = {"cases": len(rows), "doc_recall": mean("doc_recall"), "line_recall": mean("line_recall"),
-              "budget": budget, "finders": list(finders), "comention": comention, "he_lines": he_lines, "pr_comention": pr_comention, "rows": rows}
+              "case_set": "live" if live else f"retrieval-cases-v{benchset.cases()[0]['frozen']}", "budget": budget, "finders": list(finders), "comention": comention, "he_lines": he_lines, "pr_comention": pr_comention, "rows": rows}
     print(f"\n{len(rows)} cases: document recall {result['doc_recall']}, line recall {result['line_recall']}")
     return result
 
@@ -772,8 +774,8 @@ def main(argv: list[str]) -> int:
         chosen = tuple(f for f in DEFAULT_FINDERS if f not in (opt("--without", "") or "").split(","))
         chosen += tuple(f for f in (opt("--with", "") or "").split(",") if f in FINDERS and f not in chosen)
         co, hl, pc = int(opt("--comention", COMENTION)), int(opt("--he-lines", HE_LINES)), float(opt("--pr-comention", 0.0))
-        res = bench(int(opt("--budget", BUDGET)), chosen, co, hl, pc)
-        tag = "" if chosen == DEFAULT_FINDERS else "-" + "+".join(f.replace("-", "") for f in chosen)[:60]
+        res = bench(int(opt("--budget", BUDGET)), chosen, co, hl, pc, live="--live" in rest)
+        tag = ("-live" if "--live" in rest else "") + ("" if chosen == DEFAULT_FINDERS else "-" + "+".join(f.replace("-", "") for f in chosen)[:60])
         tag += (f"-co{co}" if co != COMENTION else "") + (f"-he{hl}" if hl != HE_LINES else "") + (f"-pr{pc:g}" if pc else "")
         # the store the bench ran on is in the name: the same finders on a later store are another measurement, and
         # a run on the same day no longer overwrites the record of the one before it (the first scaled-pass benches did)

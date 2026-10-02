@@ -14,7 +14,7 @@ costs it a read. So the agent's success under each chunker is the measurement th
 - **Output**: `evidence: list[str]`, refs, most important first. Code validates them (`evaluate`): a ref
   the agent was never shown is invalid; the rest are taken in order **until 3 200 tokens of chunk text**
   — the same text budget for every chunker, or a large chunk would win by its size alone.
-- **Score**: per case, the share of the record's gold lines (`ask.bench_cases()`, unchanged) that lie in
+- **Score**: per case, the share of the record's gold lines (the frozen cases, `benchset.cases`) that lie in
   the accepted chunks, and the share of its gold documents. A forced answer (`max_iters` ran out and DSPy
   extracted one from the trajectory) is recorded and **not scored** (`scripts/rlm_ingest.py`'s rule).
 - **Resume and spend**: a run lives in `Plan/runs/<--run>/`; every row carries `run_fp` (`run_fingerprint`: code,
