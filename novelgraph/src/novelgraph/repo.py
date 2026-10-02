@@ -52,4 +52,10 @@ def bench_cases(live: bool = False) -> list[dict]:
     return benchset.cases(live=live)
 
 
-__all__ = ["ROOT", "INDEX", "documents", "manifest_rows", "bench_cases", "fold", "read_jsonl", "write_jsonl"]
+def bench_identity(live: bool = False) -> dict:
+    """`case_set` and `cases_sha256` of the cases a bench scored, for its saved result (`benchset.identity`)."""
+    import benchset
+    return benchset.identity(live)
+
+
+__all__ = ["ROOT", "INDEX", "documents", "manifest_rows", "bench_cases", "bench_identity", "fold", "read_jsonl", "write_jsonl"]

@@ -85,6 +85,80 @@ def cases(version: int = 1, live: bool = False, path: Path | None = None) -> lis
              "frozen": frozen["version"]} for c in frozen["cases"]]
 
 
+def identity(live: bool = False) -> dict:
+    """What a bench result records about the cases it was scored on: the set's name and the sha256 of the cases."""
+    got = cases(live=live)
+    canon = [{"id": c["id"], "key": c["key"], "question": c["question"], "gold": sorted([d, n] for d, n in c["gold"])}
+             for c in got]
+    return {"case_set": "live" if live else f"retrieval-cases-v{got[0]['frozen']}", "cases_sha256": digest(canon)}
+
+
+def consumer_selftest() -> list[str]:
+    """The consumers, not the loader: `ask.bench()` and novelgraph's `repo.bench_cases()` read the frozen file by
+    default, follow edited records only with `live=True`, and refuse a tampered file before anything is scored.
+    Retrieval is stubbed, so this needs no store, no index and no venv."""
+    import io
+    import tempfile
+    import types
+    import ask
+    import benchset as bs   # the module the consumers import — not `__main__` when this file is run as a script
+    fails = []
+    frozen_cases = [{"id": "C1", "key": "conflict:C1", "question": "q1", "gold": [["d", 4]]},
+                    {"id": "Q1", "key": "question:Q1", "question": "q2", "gold": [["e", 7]]}]
+    edited = lambda: [{"id": "C1", "key": "conflict:C1", "question": "q1 edited", "gold": {("d", 5)}}]  # noqa: E731
+    stubs = {"askdb": types.SimpleNamespace(Store=lambda: None),
+             "graph": types.SimpleNamespace(build=lambda: {}),
+             "graphrag": types.SimpleNamespace(without=lambda g, key: g)}
+    scored = []
+
+    def pack(question, kind, budget, s, g, **kw):
+        scored.append(question)
+        return "", {"shown": {"d": [4, 5]}, "chars": 1}
+    import sys
+    saved = ({k: sys.modules.get(k) for k in stubs}, ask.build_pack, ask.bench_cases, bs.path_for)
+    with tempfile.TemporaryDirectory() as tmp:
+        f = Path(tmp) / "v1.json"
+        f.write_text(json.dumps({"version": 1, "sha256": digest(frozen_cases), "cases": frozen_cases}), encoding="utf-8")
+        try:
+            sys.modules.update(stubs)
+            ask.build_pack, ask.bench_cases = pack, edited
+            bs.path_for = lambda version: f
+            sys.stdout, quiet = io.StringIO(), sys.stdout   # the bench prints a line per case
+            sys.path.insert(0, str(ROOT / "novelgraph" / "src"))
+            from novelgraph import repo
+            res = ask.bench()
+            if [r["id"] for r in res["rows"]] != ["C1", "Q1"] or res["rows"][0]["line_recall"] != 1.0:
+                fails.append(f"ask.bench did not score the frozen cases: {res['rows']}")
+            if res.get("case_set") != "retrieval-cases-v1" or res.get("cases_sha256") != bs.digest(frozen_cases):
+                fails.append(f"ask.bench recorded no case identity: {res.get('case_set')}, {res.get('cases_sha256')}")
+            live = ask.bench(live=True)
+            if [r["id"] for r in live["rows"]] != ["C1"] or live["rows"][0]["line_recall"] != 1.0 \
+                    or live.get("case_set") != "live":
+                fails.append(f"ask.bench --live did not follow the records: {live['rows']}")
+            if {c["id"]: c["gold"] for c in repo.bench_cases()} != {"C1": {("d", 4)}, "Q1": {("e", 7)}} \
+                    or [c["question"] for c in repo.bench_cases(live=True)] != ["q1 edited"]:
+                fails.append("novelgraph's repo.bench_cases did not read the frozen file (or live on request)")
+            f.write_text(json.dumps({"version": 1, "sha256": digest(frozen_cases),
+                                     "cases": [dict(frozen_cases[0], gold=[["d", 9]])]}), encoding="utf-8")
+            scored.clear()
+            try:
+                ask.bench()
+                fails.append("ask.bench scored a tampered frozen file")
+            except SystemExit:
+                if scored:
+                    fails.append("ask.bench packed a question before refusing a tampered file")
+        finally:
+            for k, v in saved[0].items():
+                if v is None:
+                    sys.modules.pop(k, None)
+                else:
+                    sys.modules[k] = v
+            ask.build_pack, ask.bench_cases, bs.path_for = saved[1], saved[2], saved[3]
+            if isinstance(sys.stdout, io.StringIO):
+                sys.stdout = quiet
+    return fails
+
+
 def integrity(frozen: dict, document=subject.document) -> list[str]:
     """What must hold of a frozen file for any score against it to mean anything."""
     fails = []
@@ -166,7 +240,7 @@ def selftest() -> list[str]:
         moved = drift(frozen, [dict(cases[0], gold=[["d", 4], ["d", 6]]), cases[2]])
         if moved != {"gone": ["C2"], "new": ["Q1"], "changed": {"C1": {"added": 1, "removed": 1, "question_changed": False}}}:
             fails.append(f"drift misreported: {moved}")
-        # a bench reads the frozen file, never the records: an edited record does not move a frozen score
+        # the loader reads the frozen file, never the records (consumer_selftest checks the benches that call it)
         import ask
         saved = ask.bench_cases
         ask.bench_cases = lambda: [dict(c, gold={("d", 99)}) for c in cases]   # every record "edited"
@@ -195,8 +269,13 @@ def main(argv: list[str]) -> int:
         for f in fails:
             print(f"  FAIL  {f}")
         print(f"benchset: {8 - len(fails)} of 8 cases hold (sound set, no overwrite, edited hash, unlanded and "
-              "frontmatter gold, drift, a bench ignores edited records, a tampered file refused, clusters)")
-        return 1 if fails else 0
+              "frontmatter gold, drift, the loader ignores edited records, a tampered file refused, clusters)")
+        consumer = consumer_selftest()
+        for f in consumer:
+            print(f"  FAIL  {f}")
+        print(f"benchset consumers: {'held' if not consumer else f'{len(consumer)} failed'} (ask.bench and novelgraph's "
+              "repo.bench_cases read the frozen file, follow records only when live, refuse a tampered file before scoring)")
+        return 1 if fails or consumer else 0
     if cmd == "freeze":
         version = int(argv[argv.index("--version") + 1]) if "--version" in argv else 1
         target = freeze(version)

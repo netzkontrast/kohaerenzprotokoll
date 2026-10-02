@@ -75,7 +75,9 @@ def main(argv: list[str] | None = None) -> int:
     if a.cmd == "bench":
         from .bench import latency, recall, sizes
         from . import store
-        result = {"recall": recall(a.k), "latency": [latency(m) for m in store.chunkers()], "sizes": sizes()}
+        from .repo import bench_identity
+        result = {**bench_identity(), "recall": recall(a.k), "latency": [latency(m) for m in store.chunkers()],
+                  "sizes": sizes()}
         print(f"recall@{a.k} on {next(iter(result['recall'].values()))['cases']} cases (the frozen retrieval cases, benchset.py)")
         print(f"  {'method/mode':<22} {'doc':>6} {'ceiling':>8} {'line':>6} {'lines/hit':>10}")
         for key, r in result["recall"].items():
