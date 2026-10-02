@@ -630,7 +630,7 @@ def bench(budget: int = BUDGET, finders: tuple[str, ...] = DEFAULT_FINDERS, come
               f"pack {len(shown):3} docs {meta['chars']:6} chars", flush=True)
     mean = lambda k: round(sum(r[k] for r in rows) / len(rows), 3)
     result = {"cases": len(rows), "doc_recall": mean("doc_recall"), "line_recall": mean("line_recall"),
-              "case_set": "live" if live else f"retrieval-cases-v{benchset.cases()[0]['frozen']}", "budget": budget, "finders": list(finders), "comention": comention, "he_lines": he_lines, "pr_comention": pr_comention, "rows": rows}
+              **benchset.identity(live), "budget": budget, "finders": list(finders), "comention": comention, "he_lines": he_lines, "pr_comention": pr_comention, "rows": rows}
     print(f"\n{len(rows)} cases: document recall {result['doc_recall']}, line recall {result['line_recall']}")
     return result
 
