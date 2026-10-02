@@ -2,6 +2,7 @@
 
     novelgraph build  [--source SLUG] [--method heading@v1] [--force]
     novelgraph search "query" [-k 8] [--method heading@v1] [--mode bm25|vec|hybrid] [--json]
+    novelgraph search '["query", …]' --batch                  # {query: hits} as JSON, the model loaded once
     novelgraph verify [--no-rechunk]
     novelgraph bench  [--k 8] [--record DIR]      # recall@k on the frozen cases, latency, sizes
     novelgraph selftest
@@ -33,6 +34,8 @@ def main(argv: list[str] | None = None) -> int:
     s.add_argument("--method", default="heading@v1")
     s.add_argument("--mode", default="hybrid", choices=("bm25", "vec", "hybrid"))
     s.add_argument("--json", action="store_true")
+    s.add_argument("--batch", action="store_true", help="the query is a JSON list of queries; one JSON object "
+                   "{query: hits} out, the model loaded once (ask.py's novelgraph finder)")
     v = sub.add_parser("verify")
     v.add_argument("--no-rechunk", action="store_true")
     be = sub.add_parser("bench")
@@ -57,6 +60,11 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     if a.cmd == "search":
         from .search import Index, as_json, show
+        if a.batch:
+            ix = Index(a.method)
+            print(json.dumps({q: json.loads(as_json(ix.search(q, a.k, a.mode), a.method)) for q in json.loads(a.query)},
+                             ensure_ascii=False))
+            return 0
         hits = Index(a.method).search(a.query, a.k, a.mode)
         print(as_json(hits, a.method) if a.json else show(hits, a.method))
         return 0
