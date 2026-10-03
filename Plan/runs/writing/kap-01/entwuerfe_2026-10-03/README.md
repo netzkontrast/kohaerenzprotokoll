@@ -127,6 +127,23 @@ danach klingt, ist das mehr wert als die Wahl einer ganzen Fassung. Markiere sie
 
 Der Motor ist leiser als in B, aber es gibt eine Entscheidung mit Preis: Kael behält den Schmerz. Die Linderung bleibt am Rand der Fläche verfügbar, sodass jedes spätere Kapitel sie wieder anbieten kann. Mit B ließe sich E verbinden. Dann wäre der Schmerz das, was Kael durch das Wartungsfenster rettet.
 
+## Nachtrag: F — Vorkühlung, die eine Fassung
+
+**Dritter Auftrag, 2026-10-03:** Die Fassungen A–E werden mit dem Skill bewertet, und daraus entsteht eine einzige Fassung, die hakt.
+
+Die Bewertung lief mit `agent-first-pages`: fünf blinde Leser, nacheinander. Das Ergebnis steht in [Plan/runs/writing/opening/agent-first-pages_2026-10-03.md](../../opening/agent-first-pages_2026-10-03.md).
+- A wurde abgelehnt (5/10).
+- B, C, D und E wurden jeweils für 50 Seiten angefordert (7/10).
+- Alle fünf Leser fanden die Welt zu vertraut, und keiner fand „Hard SF“ auf den Seiten.
+
+[Entwurf F](entwurf-f-vorkuehlung.md) setzt dem einen eigenen Mechanismus entgegen: Vergessen kostet Wärme (Landauer), also muss die Stadt vor einer Löschung vorkühlen. Der Rest kommt aus den anderen Fassungen:
+- die haltende Hand aus E,
+- Wahl, Preis und Lauf aus B,
+- eine Zeile Systemsicht aus D,
+- das Zählen aus A.
+
+Ein frischer blinder Leser forderte F als ganzes Manuskript an (8/10), als einzige der sechs Fassungen.
+
 ## Was als Nächstes laufen kann
 
 Sobald du eine Fassung als Material ansehen willst, gibt es drei Möglichkeiten:
