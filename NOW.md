@@ -19,6 +19,7 @@ the author are collected, verbatim, in `Plan/questions-for-the-author.md`.
 
 In force until the author says otherwise; newest first.
 
+- 2026-10-03 **„Gehe mal tief in dich - und entwerfe mehrere Drafts für Kapitel 1“** — four drafts, each showing one open Weiche in prose, stand in `Plan/runs/writing/kap-01/entwuerfe_2026-10-03/` with a comparison and a recommendation. None is canon or a voice reference until the author says so, and question A below stays open.
 - 2026-09-30 **„Is the backfill usefull? If not - stop it"** — it was not, and it is stopped (`Plan/decisions/019-…`); a committed `STOP` file keeps it so.
 - 2026-09-30 **„achte auf mein Nutzungslimit - starte diese nicht parallel"** — model runs go one at a time, each recorded; Claude calls draw on the author's usage.
 - 2026-09-30 **„stop Reading document - you should Improve the Pipeline"**, and 2026-09-28 **„Dont start any new documents"** — no document is read until the author says so.
