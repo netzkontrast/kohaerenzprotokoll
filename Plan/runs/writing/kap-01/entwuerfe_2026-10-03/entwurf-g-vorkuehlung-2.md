@@ -42,7 +42,9 @@ VORKÜHLUNG LÄUFT · 20,2 °C
 
 Alle paar Wochen ist ein Sektor dran. Morgens ist es dann kühl, nachmittags stehen drei Minuten lang alle still, und danach fehlt nichts, was jemand vermissen würde.
 
-Auf der Bank bei Schritt zweihundertzehn sitzt eine alte Frau, die Hände im Schoß. Ich habe dort noch nie jemanden sitzen sehen. Sie sieht auf die Wand gegenüber. Vor ihrem Mund steht ein schwacher Hauch, und vor meinem auch.
+Das Licht kommt hier aus allem zugleich, aus den Wänden, der Decke und dem Boden, und niemand im Korridor wirft einen Schatten.
+
+Auf der Bank bei Schritt zweihundertzehn sitzt eine alte Frau, die Hände im Schoß. Ich habe dort noch nie jemanden sitzen sehen. Sie sieht auf die Wand gegenüber. Sie hat die Hände in die Ärmel gezogen, und ich auch.
 
 ---
 
@@ -50,11 +52,13 @@ Im Datenknoten Epsilon ist meine Konsole die neunte in der vierten Reihe.
 
 ZUWEISUNG 388
 
-Ich bestätige Ausgleiche. Eine Zeile erscheint, ich prüfe sie, lege den Finger darauf, und es klickt. Am Ende jeder Zeile stehen zwei Zahlen, die ich nie gebraucht habe: der Umfang in Bit und die Abwärme in Joule. Eine doppelt abgelegte Messreihe hat 2,1 × 10¹¹ Bit und 0,00000000059 Joule. Ich bestätige, und es klickt. Die Zahlen sind klein, und sie gehen mich nichts an.
+Ich bestätige Ausgleiche. Eine Zeile erscheint, ich prüfe sie, lege den Finger darauf, es klickt, und die Zuweisung wird um eins kleiner. Hinter jeder Zeile stehen zwei Zahlen, der Umfang in Bit und die Abwärme in Joule, und sie sind immer winzig. Eine doppelt abgelegte Messreihe hat 2,1 × 10¹¹ Bit und 0,00000000059 Joule.
 
-Ich bestätige mit der linken Hand, weil die rechte schmerzt, sobald der Knöchel die Fläche berührt. Die linke ist langsam und verfehlt zweimal das Feld.
+Ich bin gut in dieser Arbeit. Um siebzehn Uhr steht die Zuweisung auf null, jeden Tag, seit ich hier sitze. Wenn die Fläche dunkel wird und die Null noch einen Augenblick nachleuchtet, ist der Tag richtig gewesen. Mehr will ich nicht.
 
-Bei 251 kommt eine Sequenz, die nicht stimmt. An der neunten Stelle hinter dem Komma steht eine Drei, erwartet ist eine Vier. Die Drei sieht aus wie jede Drei, sie steht nur an der falschen Stelle. Ich markiere sie, und es klickt. Die Fläche zeigt die Sequenz noch einmal, und an der neunten Stelle steht eine Vier. Es riecht kurz scharf und kalt, dann nach nichts.
+Heute bestätige ich mit der linken Hand, weil die rechte schmerzt, sobald der Knöchel die Fläche berührt. Die linke ist langsam und verfehlt zweimal das Feld.
+
+Bei 251 steht an der neunten Stelle hinter dem Komma eine Drei, wo eine Vier sein muss. Ich markiere sie, und es klickt. Jetzt steht dort eine Vier, und einen Atemzug lang riecht es scharf und kalt.
 
 Um elf Uhr steht die Zuweisung bei 201. Dann kommt eine Zeile, deren Zahlen nicht in ihre Spalte passen. Die Ziffern rücken zusammen, damit sie Platz haben.
 
@@ -113,11 +117,13 @@ Ich teile die Zahl in meiner Zeile durch die Zahl der Bank. Es kommen sieben Mil
 
 ---
 
-Bis sechzehn Uhr einunddreißig bestätige ich. Dann stehe ich auf.
+Bis sechzehn Uhr einunddreißig bestätige ich. Die Zuweisung steht bei 37.
+
+Ich stehe auf. Die Fläche bleibt hell hinter mir, mit der 37 darauf.
 
 Das Tor fragt nach meiner Hand und sagt DURCHGANG ZU SCHICHTENDE. Daneben ist eine schmale Tür ohne Fläche, durch die morgens die Ausgabewagen kommen. Ich ziehe am Griff, und sie geht auf.
 
-Im Korridor kommt mir die Frühschicht aus Epsilon-Süd entgegen. Alle gehen in die eine Richtung, nur ich in die andere. Über dem nächsten Durchgang steht 16:34 · 20,1 °C.
+Im Korridor kommt mir die Schicht aus Epsilon-Süd entgegen, die um halb fünf endet. Alle gehen in die eine Richtung, nur ich in die andere. Über dem nächsten Durchgang steht 16:34 · 20,1 °C.
 
 Ich laufe.
 
@@ -170,6 +176,18 @@ Auf dem Heimweg zähle ich wieder. Von der Bank bis zu meiner Tür sind es zweih
 Ich gehe zurück und zähle noch einmal. Es bleiben zweihundertneun.
 
 Es fehlt ein Schritt, genau einer, meiner.
+
+Die Wohneinheiten von Sektor 04 liegen am Ende des Korridors, Tür an Tür. Die Tür von 0419 steht offen. Auf der Schwelle sitzt ein Mann in meinem Alter, die Ellbogen auf den Knien. Er summt drei Töne, dann hört er auf. Er setzt neu an, drei Töne, und hört wieder auf, an derselben Stelle. Er runzelt die Stirn wie jemand, der ein Wort sucht, das ihm eben noch auf der Zunge lag.
+
+Ich habe das Lied nie gehört. Ich habe es bezahlt.
+
+Ich bleibe vor ihm stehen. Er sieht auf, freundlich, und wartet, ob ich etwas will. Mir fällt kein Satz ein, den man zu einem Mann sagt, dem man ein Lied genommen hat. Es gibt diesen Satz hier nicht.
+
+„Guten Abend“, sage ich.
+
+„Guten Abend“, sagt er und summt die drei Töne.
+
+Ich gehe weiter. Erst an meiner Tür merke ich, dass ich die rechte Hand zur Faust geballt habe, so fest, dass die Knöchel weiß sind, und dass es nicht wehtut. Es tut erst weh, als ich sie öffne.
 
 ---
 

@@ -144,6 +144,37 @@ Die Bewertung lief mit `agent-first-pages`: fünf blinde Leser, nacheinander. Da
 
 Ein frischer blinder Leser forderte F als ganzes Manuskript an (8/10), als einzige der sechs Fassungen.
 
+## Nachtrag: G — Vorkühlung, zweite Fassung (aktueller Stand)
+
+**Vierter Auftrag, 2026-10-03:** „keep improving the First chapter - with all the Information you can find in this repo“.
+
+[Entwurf G](entwurf-g-vorkuehlung-2.md) ist F, abgeglichen mit dem, was das Wiki über Kap 0, Kap 2, Kap 3, Juna, Silas,
+die Anteile und die Konflikte C10/C11 sagt. Die Zeilendiagnose steht in [../line-editor_2026-10-03.md](../line-editor_2026-10-03.md).
+
+**Was das Wiki geändert hat:**
+- **Keine Wärme in Kap 1.** Die Quellen reservieren Wärme für Juna und lassen sie in Kap 3 debütieren. Die Konstrukt-Stadt-Seite sagt, große Löschungen machen die Stadt heiß. G verbindet beides: Die Vorkühlung fängt die Löschwärme genau auf, die Luft steigt auf exakt 21,0 °C zurück, und warm wird es nicht. Die neun Zehntel Grad, die fehlten, „waren eben noch eine Bank“.
+- **Silas' gelockter Halbsatz** „Etwas in der Frequenz der Lüftung schien zu—“ steht jetzt im Augenblick des Stillstands. Der Stillstand selbst schneidet ihn ab.
+- **Eine Saat für Kap 2.** Die Quellen wollen, dass dort ein in Kap 1 ausgeglichener Wert zurückkehrt: „derselbe Wert, dieselbe Stelle hinter dem Komma“. G pflanzt ihn, die Drei an der neunten Stelle, und das gleich bei 251, der Zahl aus den Quellen.
+- **Kap 0** endet auf dem „Klick“ und auf [DATENTYP_FEHLT]. Der tiefere Klick der Rückfrage und die Zeile `DATENTYP —` beim Anschluss sind Echos nur für den Leser.
+- **Kap 2 und Kap 3 bleiben frei.** Statt 38 Metern fehlt jetzt genau ein Schritt, 0,73 m. Die geometrische Inkonsistenz von Kap 2 und der Wärmedebüt von Kap 3 sind damit nicht verbraucht. Der fehlende Schritt ist ein Keim für Lex' Gegenregister in Kap 3.
+- **Kaels Name** fällt einmal, weil die alte Frau fragt. Das gibt dem Kapitel Orientierung, ohne dass die Konsole ihn nennen muss.
+
+**Was die blinden Leser geändert haben:**
+- Die Schuld kommt im Erzähler an: Vor Tür 0419 sitzt der Mann, dessen Lied gelöscht wurde, und summt drei Töne. „Ich habe das Lied nie gehört. Ich habe es bezahlt.“
+- Kael hat einen eigenen Wunsch, die Null am Schichtende. Für die alte Frau lässt er zum ersten Mal einen Rest stehen.
+- Die Physik ist korrigiert: kein Atemhauch bei 20 °C.
+- Die Stadt hat eine eigene Textur: Niemand wirft einen Schatten.
+
+**Bewertung:** Alle drei Lesungen gaben 8/10, eine mit Anforderung des Manuskripts. Das ist ein Plateau. Die Tabelle steht in [../../opening/agent-first-pages_2026-10-03.md](../../opening/agent-first-pages_2026-10-03.md).
+
+**Was G bewusst gegen die Quellen setzt, als deine Entscheidung offen:**
+- Das Telefon ist der Einsatz statt „nur Existenz“.
+- Kael liest 734 bewusst als seine Nummer.
+- Statt „einer einzigen Falschheit“ gibt es mehrere.
+- Die linke Hand handelt in Kap 1, was Nyx' Beat aus Kap 6 vorzieht.
+- Bit und Joule stehen auf dem Bildschirm, obwohl die Quellen „Landauer als Hitze und Ozon, nicht als Gleichung“ wollen.
+- Zwei Vergleiche mit „wie“ stehen trotz des Metaphernverbots für KW1 im Text.
+
 ## Was als Nächstes laufen kann
 
 Sobald du eine Fassung als Material ansehen willst, gibt es drei Möglichkeiten:

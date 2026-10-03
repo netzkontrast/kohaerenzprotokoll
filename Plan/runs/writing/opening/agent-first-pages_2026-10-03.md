@@ -72,3 +72,29 @@ Was der Leser von F noch bemängelt hat und wie es behandelt wurde:
   für Kap 1 und offen für W7.
 
 Diese Änderungen kamen nach der Bewertung. F wurde danach nicht erneut gelesen.
+
+## Runde 2 — Entwurf G, auf den Auftrag „keep improving the First chapter“
+
+G ist F, überarbeitet nach zwei Quellen:
+- einem Abgleich mit den Wiki-Seiten zu Kap 0, Kap 2, Kap 3, Juna, Silas, den Anteilen und den Konflikten C10 und C11,
+- der Zeilendiagnose `Plan/runs/writing/kap-01/line-editor_2026-10-03.md`.
+
+Jede Lesung ist ein frischer, blinder Leser mit derselben Aufgabe.
+
+| Fassung | Stand | Verdikt | Hook | Stimme | Orient. | Sog | Genre | Gesamt | stärkste Zeile laut Leser |
+|---|---|---|--:|--:|--:|--:|--:|--:|---|
+| G | Commit `53866f6` | Manuskript | 9 | 8 | 7 | 8 | 8 | **8** | „Es fehlt ein Schritt, genau einer, meiner.“ |
+| G, Revision 1 | Atemhauch, Zähler, Schicht, Szene vor 0419 | 50 Seiten | 9 | 7 | 7 | 8 | 8 | **8** | „Ich habe das Lied nie gehört. Ich habe es bezahlt.“ |
+| G, Revision 2 | Kaels Wunsch (die Null) und ihr Opfer | 50 Seiten | 8 | 8 | 7 | 8 | 8 | **8** | „Ich habe das Lied nie gehört. Ich habe es bezahlt.“ |
+
+Die Genre-Klarheit stieg von F zu G von 7 auf 8. Kein Leser fand Hard SF mehr unscharf, und jeder hat
+die Landauer-Rechnung nachgerechnet. Die Gesamtnote bleibt bei 8 und ist damit **ein Plateau**. Weitere
+Lesungen derselben Art messen jetzt eher die Streuung zwischen den Lesern als den Text.
+
+**Was die Leser von G noch sagten:**
+- Der Konsolen-Mittelteil verliert an Spannung. Er ist danach gestrafft worden.
+- Der Kulisse fehlt eine eigene Textur. Danach kam das schattenlose Licht dazu, aus dem „quellenlosen Licht“ der Quellen.
+- Der Tempuswechsel bei Silas' Halbsatz liest sich erst wie ein Fehler, dann wie ein Schnitt. Er ist ein Lock aus den Quellen und als bewusster Riss gesetzt. Ob er bleibt, entscheidest du.
+- Die Stimme ist kühl bis zur Farblosigkeit. Das ist die Stilebene von KW1 laut Quellen, und auch das entscheidest du.
+
+Nach Revision 2 wurde G nicht erneut gelesen. Das spart Nutzung, und das Plateau ist erreicht.
