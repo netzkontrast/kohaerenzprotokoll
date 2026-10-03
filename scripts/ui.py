@@ -1061,7 +1061,7 @@ def selftest() -> tuple[list[str], list[str]]:
         if problems:
             failures.append("the clean build is not clean: " + "; ".join(problems[:5]))
         template = TEMPLATE.read_text(encoding="utf-8")
-        anchor = '<div style="flex-grow: 1;"></div>'
+        anchor = '<div class="m-hide" style="flex-grow: 1;"></div>'
         if anchor not in template:
             return failures + ["the selftest's anchor is gone from scripts/ui.html"], unrun
         markup_cases = [

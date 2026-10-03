@@ -834,6 +834,13 @@ class Component extends DCLogic {
   componentDidUpdate() {
     if (this._reader && this._rdKey !== this._rdShown) {
       this._reader.scrollTop = 0;
+      // Narrow screens scroll the page, not the reader pane (the media query in ui.html): a new
+      // screen starts at the top, a new item on the same screen brings its text into view.
+      if (this._rdShown && window.matchMedia && window.matchMedia('(max-width: 860px)').matches) {
+        const same = this._rdShown.split(':')[0] === this._rdKey.split(':')[0];
+        if (same) this._reader.scrollIntoView({ block: 'start' });
+        else window.scrollTo(0, 0);
+      }
       this._rdShown = this._rdKey;
     }
   }

@@ -46,9 +46,13 @@ tracked files, no `.git` and no `Plan/derived/`: 94 s, all eight files written, 
 2. **A check in CI.** Add `python3 scripts/web.py --no-build --check` after a `ui.py --check` step to `checks.yml`
    once `ui.py --check` is fast enough for every push; until then the Vercel build is the check, and a failed build
    shows on the pull request as a failed Vercel status.
-3. **Fit the screen.** The frames are fixed at 1440×900 because a canvas frame is. On the website, a wrapper page
-   that scales `Main.dc.html` to the window (or a fluid root under a `web` flag in `ui.py`) — a change to the app, so
-   it is measured against the canvas: the canvas must still render byte-identical frames.
+3. **Fit the screen — [built] for phones, 2026-10-03.** The frames stay 1440×900 because a canvas frame is. Below
+   860 px wide, a media query in `scripts/ui.html` (classes `m-*`, a viewport meta tag) turns the app into one column
+   that scrolls as a page: the rail becomes a sticky row of tabs, the lists sit above the text they open, the side
+   panels below it, the graph is scaled to the width (`zoom`), wide tables scroll inside their box, and the corpus
+   rows drop their category, date and format columns. Tapping an item on the same screen scrolls its text into
+   view (`ui.js`). The canvas never reaches 860 px, so it renders as before; checked at 390×844 on every screen,
+   no horizontal scroll, and at 1440×900, unchanged. Still open: the graph's nodes are small to tap at 390 px.
 4. **Deep links.** The app switches screens in its state, so a URL cannot name a page. `ui.js` reading
    `location.hash` (`#wiki/aegis`) would make every page, conflict and question linkable — and the canvas ignores
    the hash, so it costs the canvas nothing.
