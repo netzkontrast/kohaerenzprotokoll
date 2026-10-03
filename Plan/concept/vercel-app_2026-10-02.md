@@ -53,9 +53,11 @@ tracked files, no `.git` and no `Plan/derived/`: 94 s, all eight files written, 
    rows drop their category, date and format columns. Tapping an item on the same screen scrolls its text into
    view (`ui.js`). The canvas never reaches 860 px, so it renders as before; checked at 390×844 on every screen,
    no horizontal scroll, and at 1440×900, unchanged. Still open: the graph's nodes are small to tap at 390 px.
-4. **Deep links.** The app switches screens in its state, so a URL cannot name a page. `ui.js` reading
-   `location.hash` (`#wiki/aegis`) would make every page, conflict and question linkable — and the canvas ignores
-   the hash, so it costs the canvas nothing.
+4. **Deep links — [built] 2026-10-03.** On the website the app keeps its state in the address: `#/wiki/aegis`,
+   `#/conflicts/C2`, `#/questions/agenda`, `#/corpus/<slug>`, `#/graph/conflict/C4`, `#/process/decisions/<id>` —
+   stable ids, so a link survives a rebuild, and the back button retraces the screens (`route()`/`unroute()` in
+   `ui.js`). A frame inside the canvas neither reads nor writes the address. `ui.py --check` takes every item to its
+   address and back with node (all of them round-trip), and its selftest proves that check can fail.
 5. **Runtime drift.** `web.py` refuses a runtime whose hash it does not know. A small `web.py --compare` that reads
    the canvas's current `dc-runtime.js` (from a Claude session, by the Artifact tool) and reports whether the pin is
    behind would make an update a measured step rather than a surprise.
