@@ -60,6 +60,7 @@ from __future__ import annotations
 import html
 import json
 import math
+import os
 import random
 import re
 import shutil
@@ -741,6 +742,8 @@ def export(checks: bool = True) -> dict:
     folded = measured["sources.folded"]
 
     head = subprocess.run(["git", "log", "-1", "--format=%h %cs"], cwd=ROOT, capture_output=True, text=True).stdout.split()
+    if not head and os.environ.get("VERCEL_GIT_COMMIT_SHA"):  # a Vercel build has no .git; it names the commit
+        head = [os.environ["VERCEL_GIT_COMMIT_SHA"][:7], datetime.now(timezone.utc).strftime("%Y-%m-%d")]
     return {
         "meta": {"commit": head[0] if head else "", "date": head[1] if len(head) > 1 else ""},
         "state": {k: [v["value"], v["how"]] for k, v in derived.items()},
@@ -1058,7 +1061,7 @@ def selftest() -> tuple[list[str], list[str]]:
         if problems:
             failures.append("the clean build is not clean: " + "; ".join(problems[:5]))
         template = TEMPLATE.read_text(encoding="utf-8")
-        anchor = '<div style="flex-grow: 1;"></div>'
+        anchor = '<div class="m-hide" style="flex-grow: 1;"></div>'
         if anchor not in template:
             return failures + ["the selftest's anchor is gone from scripts/ui.html"], unrun
         markup_cases = [

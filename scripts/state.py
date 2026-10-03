@@ -480,7 +480,7 @@ def _readme_scripts() -> int:
     base = ROOT / "scripts"
     entries = {p.relative_to(base).as_posix() for p in base.rglob("*")
                if p.is_file() and "__pycache__" not in p.parts and p.name != "README.md"}
-    return _index_drift(base / "README.md", entries, r"(?:rules/)?[\w.-]+\.(?:py|sh|js|html)")
+    return _index_drift(base / "README.md", entries, r"(?:rules/|web/)?[\w.-]+\.(?:py|sh|js|html)")
 
 
 @measure("readme.skills_drift", ".agents/skills/README.md against the project skills: missed plus dangling")
