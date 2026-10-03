@@ -111,6 +111,22 @@ C als Kandidat für den Riss in Kap 2 oder 3. Daraus ergeben sich die Fragen, di
 Wenn du in einer Fassung eine Zeile findest, die nach deinem Buch klingt, oder eine, die gar nicht
 danach klingt, ist das mehr wert als die Wahl einer ganzen Fassung. Markiere sie einfach.
 
+## Nachtrag: E — Die linke Hand
+
+**Zweiter Auftrag, 2026-10-03:** „Schreibe auch eine Variante die du selbst gerne lesen würdest - es geht um conciousness, liebe und Schmerz“.
+
+[Entwurf E](entwurf-e-die-linke-hand.md) prüft keine Weiche. Er ist die Fassung, die ich lesen wollen würde.
+
+- **Was geschieht:** Kael wacht auf, und seine linke Hand hält seine rechte. Die rechte schmerzt in den Knöcheln, ohne Wunde. Bei der Arbeit bietet ihm das System freundlich „Linderung“ an. Seine linke Hand deckt das Feld zu, und er lehnt ab. Den Rest des Tages arbeitet er mit dem Schmerz und merkt zum ersten Mal, dass er etwas merkt.
+- **Was der Schmerz tut:** Am Hörer zeigt er in eine Richtung, in eine Stille „in einer bestimmten Größe“. Nachts kommt die linke Hand wieder, und diesmal ist Kael wach und lässt sie.
+- **Bewusstsein:** Es entsteht durch den Schmerz. Er ist der Ort, an dem sich mehrere Ich treffen. Das ist die Pluralität als Leser-Vermutung (W7 B), ohne dass ein Name fällt.
+- **Liebe:** Sie ist nur als Form einer Abwesenheit da: Es tut weh, weil etwas fehlt, das es gegeben hat. Juna ist nie Subjekt.
+- **AEGIS:** Es bedroht nicht. Es pflegt und bietet an. Seine Unschuld ist die Gefahr.
+- **Locks:** Er hält den Erstsatz (verlängert), keine AEGIS-Stimme, kein Wort über Amnesie und kaltes Ozon. Er bricht „spurlos“ halb, denn Schmerz ohne Wunde ist eine Spur ohne Spur. Er bricht auch das Metaphernverbot, absichtlich: Die Vergleiche kommen mit dem Bewusstsein.
+- **Neu und in keiner Quelle belegt:** die haltende Hand, die angebotene Linderung und die Ablehnung als Kaels erste Tat.
+
+Der Motor ist leiser als in B, aber es gibt eine Entscheidung mit Preis: Kael behält den Schmerz. Die Linderung bleibt am Rand der Fläche verfügbar, sodass jedes spätere Kapitel sie wieder anbieten kann. Mit B ließe sich E verbinden. Dann wäre der Schmerz das, was Kael durch das Wartungsfenster rettet.
+
 ## Was als Nächstes laufen kann
 
 Sobald du eine Fassung als Material ansehen willst, gibt es drei Möglichkeiten:
