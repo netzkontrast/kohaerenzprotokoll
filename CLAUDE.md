@@ -48,7 +48,7 @@ Python** (`pip install --break-system-packages` once broke `cryptography` for th
 |---|---|---|
 | `Sources/` | research documents fetched from Drive, immutable once landed | `scripts/sources.py`, nothing else |
 | `Wiki/` | term pages derived from those sources, promoted by a human | a person, for now |
-| `Manuscript/` | the novel's drafts, one folder per chapter (decision 023) — prose, not research: no draft is canon until the author approves it, and nothing in `Wiki/` or `Sources/` reads it | the author, or a session on the author's explicit request, named in each draft's head |
+| `Manuscript/` | the novel's drafts, one folder per chapter, and plot drafts in `plot/` (decision 023) — prose, not research: no draft is canon until the author approves it, and nothing in `Wiki/` or `Sources/` reads it | the author, or a session on the author's explicit request, named in each draft's head |
 
 `Manuscript/` is not a third research layer: it is what the two layers are for. The writing skills' findings about a draft go to `Plan/runs/writing/`, never into `Manuscript/`. Everything else the project used to have is parked under `Legacy/` and read by nothing. `Sources/manifest.jsonl` is the spine: each row has `drive_id`, `title`, `slug`, `category`,
 `tier` and, once landed, `export_path` and two checksums. Anything derived traces back to a `drive_id`. `Sources/duplicates.jsonl` holds the rows that left it — Drive holds up to five exports of one document, and
