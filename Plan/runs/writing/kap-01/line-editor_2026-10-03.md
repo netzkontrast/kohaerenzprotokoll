@@ -1,6 +1,6 @@
 # line-editor — Kap 1, Entwurf F, 2026-10-03
 
-**Input:** `Plan/runs/writing/kap-01/entwuerfe_2026-10-03/entwurf-f-vorkuehlung.md` at commit `4ffb1fd`, L10–L178.
+**Input:** `Plan/runs/writing/kap-01/entwuerfe_2026-10-03/entwurf-f-vorkuehlung.md` at commit `4ffb1fd`, L10–L178 (since 2026-10-04 `Manuscript/kap-01/entwurf-f-vorkuehlung.md`).
 **Umfang:** Diagnose. Gelesen hat ihn dieselbe Sitzung, die ihn geschrieben hat. Das ist kein fremdes Auge,
 sondern eine Selbstprüfung nach dem Raster des Skills.
 

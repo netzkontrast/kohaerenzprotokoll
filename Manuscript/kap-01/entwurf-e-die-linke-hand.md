@@ -1,8 +1,8 @@
 # Kap 1 — Entwurf E: Die linke Hand
 
-*Entwurf einer Claude-Sitzung, 2026-10-03, auf Bitte des Autors: „eine Variante, die du selbst gerne
-lesen würdest – es geht um consciousness, Liebe und Schmerz“. Kein Kanon, keine Stimmreferenz, bis
-der Autor ihn freigibt. Was er voraussetzt, steht in der [README](README.md).*
+> Entwurf einer Claude-Sitzung, 2026-10-03, auf Bitte des Autors: „eine Variante, die du selbst gerne
+> lesen würdest – es geht um consciousness, Liebe und Schmerz“. Kein Kanon, keine Stimmreferenz, bis
+> der Autor ihn freigibt. Was er voraussetzt, steht in der [README](README.md).
 
 ---
 

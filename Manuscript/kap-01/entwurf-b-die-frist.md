@@ -1,7 +1,7 @@
 # Kap 1 — Entwurf B: Die Frist
 
-*Entwurf einer Claude-Sitzung, 2026-10-03, auf Bitte des Autors. Kein Kanon, keine Stimmreferenz,
-bis der Autor ihn freigibt. Was er voraussetzt und was er riskiert, steht in der [README](README.md).*
+> Entwurf einer Claude-Sitzung, 2026-10-03, auf Bitte des Autors. Kein Kanon, keine Stimmreferenz,
+> bis der Autor ihn freigibt. Was er voraussetzt und was er riskiert, steht in der [README](README.md).
 
 ---
 

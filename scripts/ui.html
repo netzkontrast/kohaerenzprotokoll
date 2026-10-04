@@ -95,6 +95,11 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <span style="flex-grow: 1;">Questions</span>
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.questions.n}}</span>
 </button>
+<button type="button" onClick="{{nav.manuscript.go}}" aria-current="{{nav.manuscript.cur}}" class="kp-hov m-navbtn" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.manuscript.bd}}; background: {{nav.manuscript.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.manuscript.fw}}; text-align: left; cursor: pointer;">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.manuscript.ic}};"><path d="M6 3.5h8.5L18 7v13.5H6z"></path><path d="M14.5 3.5V7H18"></path><path d="M8.5 11h7"></path><path d="M8.5 14h7"></path><path d="M8.5 17h4.5"></path></svg>
+<span style="flex-grow: 1;">Manuscript</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.manuscript.n}}</span>
+</button>
 <button type="button" onClick="{{nav.graph.go}}" aria-current="{{nav.graph.cur}}" class="kp-hov m-navbtn" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.graph.bd}}; background: {{nav.graph.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.graph.fw}}; text-align: left; cursor: pointer;">
 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.graph.ic}};"><circle cx="6" cy="7" r="2.3"></circle><circle cx="18" cy="6" r="2.3"></circle><circle cx="12" cy="17.5" r="2.3"></circle><path d="M7 9.1l3.9 6.3"></path><path d="M16.9 8.1L13.1 15.4"></path><path d="M8.3 6.8l7.4-.6"></path></svg>
 <span style="flex-grow: 1;">Graph</span>
@@ -283,6 +288,23 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <span style="display: flex; align-items: center; gap: 8px; font-size: 12px; color: #645F53;"><span style="padding: 1px 8px; border-radius: 10px; font-size: 11px; background: {{it.stBg}}; color: {{it.stFg}};">{{it.st}}</span><span style="min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{it.sub}}</span></span>
 </button>
 </sc-for>
+</div>
+</sc-if>
+<sc-if value="{{is.manuscript}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 18px 18px 14px; border-bottom: 1px solid #DDD6C6;">
+<span style="font-family: 'Newsreader', Georgia, serif; font-size: 19px;">{{ml.head}}</span>
+<span style="font-size: 12.5px; line-height: 1.45; color: #645F53;">{{ml.sub}}</span>
+</div>
+<div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 8px 8px 24px; display: flex; flex-direction: column; gap: 2px;">
+<sc-for list="{{ml.list}}" as="it" hint-placeholder-count="8">
+<button type="button" onClick="{{it.go}}" aria-current="{{it.cur}}" class="kp-hov" style="display: grid; grid-template-columns: 38px minmax(0, 1fr); gap: 4px 8px; width: 100%; padding: 10px 12px; box-sizing: border-box; border-radius: 7px; border: 1px solid {{it.bd}}; background: {{it.bg}}; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 13px; font-weight: 500; color: {{it.idc}}; padding-top: 1px;">{{it.id}}</span>
+<span style="font-family: 'Newsreader', Georgia, serif; font-size: 15.5px; line-height: 1.3;">{{it.main}}</span>
+<span></span>
+<span style="min-width: 0; font-size: 12px; color: #645F53; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{it.sub}}</span>
+</button>
+</sc-for>
+<sc-if value="{{ml.empty}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; font-size: 13px; color: #645F53; padding: 12px;">Manuscript/ holds no draft yet.</p></sc-if>
 </div>
 </sc-if>
 <sc-if value="{{is.questions}}" hint-placeholder-val="{{ false }}">

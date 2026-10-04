@@ -1,12 +1,12 @@
 # Kap 1 — Entwurf G: Vorkühlung, zweite Fassung
 
-*Entwurf einer Claude-Sitzung, 2026-10-03, auf den Auftrag des Autors „keep improving the First chapter - with all
-the Information you can find in this repo“. G ist F, überarbeitet nach drei Quellen:
-- der blinden Agenturlektüre von F,
-- der Zeilendiagnose ([line-editor_2026-10-03.md](../line-editor_2026-10-03.md)),
-- einem Abgleich mit den Wiki-Seiten zu Kap 0, Kap 2, Kap 3, Juna, Silas, den Anteilen und den Konflikten C10 und C11.
-
-Was sich warum geändert hat, steht in der [README](README.md). Kein Kanon, keine Stimmreferenz, bis der Autor ihn freigibt.*
+> Entwurf einer Claude-Sitzung, 2026-10-03, auf den Auftrag des Autors „keep improving the First chapter - with all
+> the Information you can find in this repo“. G ist F, überarbeitet nach drei Quellen:
+> - der blinden Agenturlektüre von F,
+> - der Zeilendiagnose ([line-editor_2026-10-03.md](../../Plan/runs/writing/kap-01/line-editor_2026-10-03.md)),
+> - einem Abgleich mit den Wiki-Seiten zu Kap 0, Kap 2, Kap 3, Juna, Silas, den Anteilen und den Konflikten C10 und C11.
+>
+> Was sich warum geändert hat, steht in der [README](README.md). Kein Kanon, keine Stimmreferenz, bis der Autor ihn freigibt.
 
 ---
 

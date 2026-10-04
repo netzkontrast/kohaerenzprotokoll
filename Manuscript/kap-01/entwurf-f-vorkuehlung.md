@@ -1,9 +1,9 @@
 # Kap 1 — Entwurf F: Vorkühlung
 
-*Entwurf einer Claude-Sitzung, 2026-10-03, auf Bitte des Autors: die fünf Fassungen A–E bewerten
-(`agent-first-pages`, fünf blinde Leser) und daraus eine einzige Fassung machen, die „poppt“ und hakt.
-Kein Kanon, keine Stimmreferenz, bis der Autor ihn freigibt. Bewertung und Herleitung:
-[Plan/runs/writing/opening/agent-first-pages_2026-10-03.md](../../opening/agent-first-pages_2026-10-03.md).*
+> Entwurf einer Claude-Sitzung, 2026-10-03, auf Bitte des Autors: die fünf Fassungen A–E bewerten
+> (`agent-first-pages`, fünf blinde Leser) und daraus eine einzige Fassung machen, die „poppt“ und hakt.
+> Kein Kanon, keine Stimmreferenz, bis der Autor ihn freigibt. Bewertung und Herleitung:
+> [Plan/runs/writing/opening/agent-first-pages_2026-10-03.md](../../Plan/runs/writing/opening/agent-first-pages_2026-10-03.md).
 
 ---
 

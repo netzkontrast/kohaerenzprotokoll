@@ -1,4 +1,4 @@
-# Kap 1 — vier Entwürfe, 2026-10-03
+# Kap 1 — die Entwürfe A bis G, 2026-10-03
 
 **Auftrag des Autors, 2026-10-03:** „Gehe mal tief in dich - und entwerfe mehrere Drafts für Kapitel 1“.
 
@@ -10,8 +10,8 @@ Weiche oder einen Konflikt. Der Schreibplan empfiehlt für Kap 1 weiterhin, dass
 umgehen das nicht. Sie sind Pole, an denen du dich reiben kannst, so wie `character-card-builder`
 dir zwei Positionen anbietet und keine davon für dich wählt.
 
-**Grundlage:** [Wiki/chapters/kap-01.md](../../../../../Wiki/chapters/kap-01.md) (18 gelesene Quellen, Konflikte C9–C11),
-die Weichen W1–W5 und W7 sowie die [Treatment-Probe](../../../../concept/treatment-probe_2026-09-30.md).
+**Grundlage:** [Wiki/chapters/kap-01.md](../../Wiki/chapters/kap-01.md) (18 gelesene Quellen, Konflikte C9–C11),
+die Weichen W1–W5 und W7 sowie die [Treatment-Probe](../../Plan/concept/treatment-probe_2026-09-30.md).
 Kein neues Dokument wurde gelesen. `Legacy/` wurde nicht geöffnet, auch nicht `Plan/runs/writing/legacy-kap-01/`.
 
 ## Die vier Fassungen auf einen Blick
@@ -131,7 +131,7 @@ Der Motor ist leiser als in B, aber es gibt eine Entscheidung mit Preis: Kael be
 
 **Dritter Auftrag, 2026-10-03:** Die Fassungen A–E werden mit dem Skill bewertet, und daraus entsteht eine einzige Fassung, die hakt.
 
-Die Bewertung lief mit `agent-first-pages`: fünf blinde Leser, nacheinander. Das Ergebnis steht in [Plan/runs/writing/opening/agent-first-pages_2026-10-03.md](../../opening/agent-first-pages_2026-10-03.md).
+Die Bewertung lief mit `agent-first-pages`: fünf blinde Leser, nacheinander. Das Ergebnis steht in [Plan/runs/writing/opening/agent-first-pages_2026-10-03.md](../../Plan/runs/writing/opening/agent-first-pages_2026-10-03.md).
 - A wurde abgelehnt (5/10).
 - B, C, D und E wurden jeweils für 50 Seiten angefordert (7/10).
 - Alle fünf Leser fanden die Welt zu vertraut, und keiner fand „Hard SF“ auf den Seiten.
@@ -149,7 +149,7 @@ Ein frischer blinder Leser forderte F als ganzes Manuskript an (8/10), als einzi
 **Vierter Auftrag, 2026-10-03:** „keep improving the First chapter - with all the Information you can find in this repo“.
 
 [Entwurf G](entwurf-g-vorkuehlung-2.md) ist F, abgeglichen mit dem, was das Wiki über Kap 0, Kap 2, Kap 3, Juna, Silas,
-die Anteile und die Konflikte C10/C11 sagt. Die Zeilendiagnose steht in [../line-editor_2026-10-03.md](../line-editor_2026-10-03.md).
+die Anteile und die Konflikte C10/C11 sagt. Die Zeilendiagnose steht in [Plan/runs/writing/kap-01/line-editor_2026-10-03.md](../../Plan/runs/writing/kap-01/line-editor_2026-10-03.md).
 
 **Was das Wiki geändert hat:**
 - **Keine Wärme in Kap 1.** Die Quellen reservieren Wärme für Juna und lassen sie in Kap 3 debütieren. Die Konstrukt-Stadt-Seite sagt, große Löschungen machen die Stadt heiß. G verbindet beides: Die Vorkühlung fängt die Löschwärme genau auf, die Luft steigt auf exakt 21,0 °C zurück, und warm wird es nicht. Die neun Zehntel Grad, die fehlten, „waren eben noch eine Bank“.
@@ -165,7 +165,7 @@ die Anteile und die Konflikte C10/C11 sagt. Die Zeilendiagnose steht in [../line
 - Die Physik ist korrigiert: kein Atemhauch bei 20 °C.
 - Die Stadt hat eine eigene Textur: Niemand wirft einen Schatten.
 
-**Bewertung:** Alle drei Lesungen gaben 8/10, eine mit Anforderung des Manuskripts. Das ist ein Plateau. Die Tabelle steht in [../../opening/agent-first-pages_2026-10-03.md](../../opening/agent-first-pages_2026-10-03.md).
+**Bewertung:** Alle drei Lesungen gaben 8/10, eine mit Anforderung des Manuskripts. Das ist ein Plateau. Die Tabelle steht in [Plan/runs/writing/opening/agent-first-pages_2026-10-03.md](../../Plan/runs/writing/opening/agent-first-pages_2026-10-03.md).
 
 **Was G bewusst gegen die Quellen setzt, als deine Entscheidung offen:**
 - Das Telefon ist der Einsatz statt „nur Existenz“.

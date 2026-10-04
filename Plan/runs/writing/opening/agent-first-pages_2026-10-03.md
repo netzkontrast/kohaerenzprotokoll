@@ -1,6 +1,6 @@
 # agent-first-pages — Kap 1, Entwürfe A–F, 2026-10-03
 
-**Input:** `Plan/runs/writing/kap-01/entwuerfe_2026-10-03/entwurf-{a,b,c,d,e}-*.md` at commit `194f0d9`,
+**Input:** `Plan/runs/writing/kap-01/entwuerfe_2026-10-03/entwurf-{a,b,c,d,e}-*.md` at commit `194f0d9` (since 2026-10-04 in `Manuscript/kap-01/`),
 and `entwurf-f-vorkuehlung.md` (written after this read, scored before its last three small fixes).
 **Auftrag:** „use the Skill to First Score your work and then improve upon it - give me only one really
 really good draft - that „Pops“ and hooks me“.

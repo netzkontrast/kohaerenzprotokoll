@@ -90,12 +90,14 @@ PAGES, CONFLICTS, QUESTIONS = subject.PAGES, subject.CONFLICTS, subject.QUESTION
 COMPARE = ROOT / "Wiki" / "compare"
 RUNS_DIR = ROOT / "Plan" / "runs"
 DECISIONS = ROOT / "Plan" / "decisions"
+MANUSCRIPT = ROOT / "Manuscript"
 TOOLS = ROOT / ".agents" / "skills" / "tools" / "SKILL.md"
 CANVAS_URL = "https://claude.ai/artifact/1EyhQkX3MpiRTw3TxjTjYL"
 
-SCREENS = ["now", "wiki", "conflicts", "questions", "graph", "corpus", "process"]
+SCREENS = ["now", "wiki", "conflicts", "questions", "manuscript", "graph", "corpus", "process"]
 FRAMES = [("Main.dc.html", "now", "Now — the app (entry)"), ("Wiki.dc.html", "wiki", "Wiki"),
           ("Conflicts.dc.html", "conflicts", "Conflicts"), ("Questions.dc.html", "questions", "Questions"),
+          ("Manuscript.dc.html", "manuscript", "Manuscript"),
           ("Graph.dc.html", "graph", "Knowledge graph"), ("Corpus.dc.html", "corpus", "Corpus"),
           ("Process.dc.html", "process", "Process")]
 WIDTH, HEIGHT = 1440, 900
@@ -444,6 +446,24 @@ def _section(text: str, head: str) -> str:
     return text[m.end():end.start() if end else len(text)]
 
 
+def _console(text: str) -> str:
+    """A paragraph whose lines hold no lowercase letter is a console's display (`ZUWEISUNG 388`,
+    `20,6 °C`): it keeps its line breaks as a preformatted block instead of running into one line."""
+    out, inside = [], False
+    for chunk in re.split(r"(\n\s*\n)", text):
+        if chunk.startswith("```") or chunk.count("```") % 2:
+            inside = not inside if chunk.count("```") % 2 else inside
+            out.append(chunk)
+            continue
+        lines = [ln for ln in chunk.split("\n") if ln.strip()]
+        if not inside and lines and not chunk.strip().startswith(("#", "|", ">", "-", "*", "[")) \
+                and all(not re.search(r"[a-zäöüß]", ln) and re.search(r"[A-ZÄÖÜ]", ln) for ln in lines):
+            out.append("```\n" + chunk.strip("\n") + "\n```")
+        else:
+            out.append(chunk)
+    return "".join(out)
+
+
 def _layout(nodes: list[dict], edges: list[list[int]]) -> None:
     """Documents pinned on an ellipse in reading order; the rest by force, seeded."""
     cx, cy, rx, ry = GRAPH_W / 2, GRAPH_H / 2, 392.0, 336.0
@@ -653,6 +673,16 @@ def export(checks: bool = True) -> dict:
         decisions.append({"id": path.stem[:3], "f": path.stem, "title": re.sub(r"^\d+ — ", "", title),
                           "date": field("Date"), "by": field("Decided by"), "status": field("Status"),
                           "lede": lede, "sec": secs})
+    # the manuscript: every draft in Manuscript/, rendered from its own markdown, nothing judged
+    manuscript = []
+    order = lambda p: (p.parent != MANUSCRIPT, p.parent.name, p.name != "README.md", p.name)  # noqa: E731
+    for path in sorted(MANUSCRIPT.rglob("*.md"), key=order) if MANUSCRIPT.is_dir() else []:
+        text = path.read_text(encoding="utf-8")
+        title, lede, secs = md.sections(_console(text))
+        manuscript.append({"f": path.relative_to(ROOT).as_posix(), "part": path.parent.name if path.parent != MANUSCRIPT else "",
+                           "t": title or path.stem, "readme": path.name == "README.md",
+                           "w": len(re.findall(r"\w+", text)), "lede": lede, "sec": secs})
+
     prin_text = (ROOT / "PRINCIPLES.md").read_text(encoding="utf-8")
     principles = []
     for chunk in re.split(r"^## ", prin_text, flags=re.M)[1:]:
@@ -750,7 +780,7 @@ def export(checks: bool = True) -> dict:
         "docs": docs, "pages": pages, "conflicts": conflicts, "questions": questions, "compare": compare,
         "agenda": agenda, "now": {"lede": now_lede, "sec": now_secs},
         "goal": {"title": goal_title, "lede": goal_lede, "sec": goal_secs},
-        "decisions": decisions, "principles": principles, "catalogue": catalogue,
+        "decisions": decisions, "principles": principles, "catalogue": catalogue, "manuscript": manuscript,
         "invariants": table_after("## 0 · Invariants"), "commands": table_after("## The commands, as combinations"),
         "phases": phases, "missing": missing,
         "checks": run_invariants(measured) if checks else [], "selftests": run_selftests() if checks else [],
@@ -832,7 +862,7 @@ def main_artboard(data: dict, template: str | None = None) -> str:
 
 def canvas_index() -> dict:
     gap, row2 = 80, HEIGHT + 420
-    place = [(0, 0), (1, 0), (2, 0), (3, 0), (0, 1), (1, 1), (2, 1)]
+    place = [(0, 0), (1, 0), (2, 0), (3, 0), (4, 0), (0, 1), (1, 1), (2, 1)]
     boards = {}
     for (name, _, title), (col, row) in zip(FRAMES, place):
         boards[name] = {"x": col * (WIDTH + gap), "y": row * row2, "w": WIDTH, "h": HEIGHT,
@@ -842,7 +872,7 @@ def canvas_index() -> dict:
         "title": "Kohärenz Protokoll UI", "launch": {"view": "canvas"}, "pages": [], "boards": boards,
         "order": [name for name, _, _ in FRAMES],
         "notes": {
-            "row1": {"x": 0, "y": -300, "kind": "title1", "maxW": 4 * WIDTH + 3 * gap,
+            "row1": {"x": 0, "y": -300, "kind": "title1", "maxW": 5 * WIDTH + 4 * gap,
                      "text": "Kohärenz Protokoll — the whole project as one app: what the sources say, and what waits on the author"},
             "row2": {"x": 0, "y": row2 - 300, "kind": "title1", "maxW": 3 * WIDTH + 2 * gap,
                      "text": "The graph, the corpus, and the process that keeps the wiki honest"},
