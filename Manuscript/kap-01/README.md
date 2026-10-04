@@ -223,6 +223,49 @@ Beide Leser haben die Physik nachgerechnet. Was sie fanden, ist korrigiert:
 
 Danach kamen zwei persönliche Preise dazu, der Posten in 734 und Dorns Schwester, und die drei Rätsel am Ende wurden zu einem zusammengelegt. Diese letzte Fassung hat niemand mehr gelesen. Die Tabelle steht in [Plan/runs/writing/opening/agent-first-pages_2026-10-03.md](../../Plan/runs/writing/opening/agent-first-pages_2026-10-03.md).
 
+## Nachtrag: I — Grauzone, frische Ideen (2026-10-04)
+
+**Auftrag:** „ein neuer Entwurf – orientiere dich nur lose an den bisherigen Entwürfen – ich brauch frische Ideen“.
+
+[Entwurf I](entwurf-i-grauzone.md) lässt bewusst weg, was A–H gemeinsam haben: das Aufwachen, Kael allein mit Konsolen
+und Zahlen, die kalte Stimme, die Hand und das Telefon. Stattdessen gibt es Dialog, andere Menschen, einen Auftrag und eine
+wärmere, trockene Erzählstimme.
+
+**Prämisse:** Wo AEGIS gelöscht hat, bleibt für einige Stunden eine graue Zone stehen, bevor die Glätter eine glatte Wand
+daraus machen. Taucher gehen am Seil hinein, mit Knoten zum Zählen und einer Partnerin, die über das Seil fragt: „Wie
+heißt du?“ Sie holen heraus, was noch nicht ganz vergessen ist, bevor sie selbst vergessen, wer sie sind.
+
+**Handlung:**
+- Frau Okonjo hat einen Kinderschuh in der Manteltasche gefunden und weiß nicht, wessen. Sie hat keine Kinder.
+- Kael taucht in ihr gelöschtes Haus. Im Kinderzimmer findet er am Türrahmen Bleistiftstriche, „TOBI 4, 5, 6“, und schneidet sie heraus, während die Glätter zu früh kommen.
+- Er entkommt im Sprung. Frau Okonjo liest den Namen, er sagt ihr nichts, und sie drückt das Holz an die Brust.
+- Abends findet Kael eine zweite Leiste in der Tasche, an die er sich nicht erinnert: „KAEL 7“. Und Mara zählt einundvierzig Knoten an einem Seil mit vierzig.
+
+**Was lose aus dem Universum kommt:**
+- Kael ohne Vergangenheit;
+- AEGIS' Konsolidierung als Vergessen mit Folgen am Ort;
+- Löschen macht warm: Mara liest die nächste Löschung am Kühlnetz ab, ein loses Echo von F/G;
+- eine Handlung, an die sich Kael nicht erinnert, als loses Echo der Anteile;
+- „Liebe bleibt, wie der Schmerz“: Frau Okonjo vermisst jemanden, den sie nicht kennt.
+
+**Neu und in keiner Quelle belegt:** die Grauzonen, die Taucher und ihre Regeln, die Glätter, Mara, Ruben, Frau
+Okonjo, Tobi und die Kranichgasse.
+
+**Bewertung**, `agent-first-pages`, blinder Leser:
+- **Ergebnis:** 7,5/10, die ersten 50 Seiten angefordert. Stärkste Zeile: „Das Seil hat einundvierzig Knoten.“
+- **Gelobt:** Die Regeln der Grauzone werden eingeführt und dann benutzt.
+- **Bemängelt:**
+  - Logiklücken: ganzes Haus oder nur das Zimmer? Ein Morse-K, das ein B war.
+  - Ein sentimentaler Abschied.
+  - Vor allem fehlt ein nachprüfbarer SF-Anker, ohne ihn liest sich das wie urbane Phantastik.
+- **Danach gebessert, aber nicht erneut gelesen:**
+  - AEGIS als das, was die Stadt rechnet und bei vollem Speicher löscht;
+  - die Kühlnetz-Vorhersage und die warmen frischen Wände;
+  - die Regel, wer draußen ist, behält, was er weiß;
+  - das richtige K;
+  - der Helm;
+  - der Abschied ohne Pointe.
+
 ## Was als Nächstes laufen kann
 
 Sobald du eine Fassung als Material ansehen willst, gibt es drei Möglichkeiten:

@@ -19,4 +19,4 @@ manuscript“ (Entscheidung 023).
 
 | Ordner | Stand |
 |---|---|
-| [kap-01/](kap-01/README.md) | acht Entwürfe: A–G, zuletzt G (KW1 als Stadt), und H, die Neuausrichtung als Space Opera (KW1 als Spindel im All); bewertet in `Plan/runs/writing/opening/agent-first-pages_2026-10-03.md` |
+| [kap-01/](kap-01/README.md) | neun Entwürfe: A–G, zuletzt G (KW1 als Stadt); H, die Neuausrichtung als Space Opera (KW1 als Spindel im All); I, frische Ideen (Grauzonentaucher); bewertet in `Plan/runs/writing/opening/agent-first-pages_2026-10-03.md` |

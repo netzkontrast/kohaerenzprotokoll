@@ -125,3 +125,25 @@ ausdrücklich die Physik prüfen. Jede Lesung ist ein frischer, blinder Leser.
   gleich Bahnrichtung) und den Posten in Wohneinheit 734 sowie Dorns Schwester ergänzt. Revision 2 wurde nicht mehr gelesen.
 - Silas' Halbsatz las sich für drei von drei Lesern dieser Runden erst wie ein Manuskriptrest. Das ist ein gelockter Riss
   aus den Quellen. Ob er so bleibt, entscheidest du.
+
+## Runde 4 — Entwurf I, frische Ideen (2026-10-04)
+
+**Input:** `Manuscript/kap-01/entwurf-i-grauzone.md`. Der Schreibtisch ist SF und Upmarket-Spannung. Die Punkte sind
+ergänzt um „Originalität der Prämisse“, und der Leser sollte die innere Logik prüfen.
+
+| Fassung | Verdikt | Hook | Stimme | Orient. | Sog | Genre | Originalität | Gesamt | stärkste Zeile laut Leser |
+|---|---|--:|--:|--:|--:|--:|--:|--:|---|
+| I | 50 Seiten | 8 | 7 | 8 | 8 | 5 | 7 | **7,5** | „Das Seil hat einundvierzig Knoten.“ |
+
+**Befunde:**
+- Die Regeln der Grauzone werden eingeführt und benutzt: laut zählen, benennen, Formen halten am längsten, kein Spiegel.
+  Der rote Faden bei 36 ist ein guter Prüfpunkt.
+- Die Nähe zu *Picknick am Wegesrand* und *Auslöschung* ist bemerkt.
+- Die Genre-Klarheit liegt bei 5: Der Text liest sich wie urbane Phantastik oder New Weird, weil AEGIS nur ein Name bleibt.
+- **Danach korrigiert, nicht erneut gelesen:**
+  - ganzes Haus statt nur des Zimmers, und die Regel, wer draußen ist, behält, was er weiß;
+  - Lang-kurz-lang statt eines B;
+  - der Helm;
+  - AEGIS als das, was die Stadt rechnet;
+  - die Kühlnetz-Vorhersage als nachprüfbarer Anker;
+  - der Abschied ohne Pointe.
