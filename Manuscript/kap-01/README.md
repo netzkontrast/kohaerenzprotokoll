@@ -175,6 +175,54 @@ die Anteile und die Konflikte C10/C11 sagt. Die Zeilendiagnose steht in [Plan/ru
 - Bit und Joule stehen auf dem Bildschirm, obwohl die Quellen „Landauer als Hitze und Ozon, nicht als Gleichung“ wollen.
 - Zwei Vergleiche mit „wie“ stehen trotz des Metaphernverbots für KW1 im Text.
 
+## Nachtrag: H — Radiator, die Neuausrichtung (2026-10-04)
+
+**Auftrag:** „eine völlige Neuausrichtung – bei gleichbleibendem Universum – aber eben mehr Space Opera, Hard-SF-Vibe, mehr konkrete Action“.
+
+[Entwurf H](entwurf-h-radiator.md) nimmt die Welt wörtlich räumlich. Logos-Prime ist eine rotierende Spindel im All
+mit einer stillstehenden Kappe. Kael ist Techniker an den Radiatorflügeln. Die Landauer-Wärme jeder Konsolidierung muss
+als Infrarot ins All abgestrahlt werden.
+
+**Handlung:**
+- Kael erwacht am Seil im Vakuum, mit elf Minuten Lücke und einem aufgerissenen Handschuh über den Knöcheln.
+- Flügel 7 klemmt bei 44 Prozent. In 19:30 Minuten beginnt eine Konsolidierung, die AEGIS nicht verschiebt, sonst steigt die Temperatur in Sektor 04 um 31 Kelvin.
+- Kael klettert den Holm hinauf und findet eine Platte, die im Schatten drei Grad warm ist.
+- Er trennt sie ab, und der Flügel fährt ganz aus. Die Konsolidierung läuft, im Infrarot glimmt der Flügel rot: „Ich sehe zu, wie wir vergessen.“
+- Einer der gelöschten Posten liegt in Wohneinheit 734, bei ihm.
+- Das Anzugprotokoll zeigt: Er hat in der Lücke selbst das Gelenk verbogen, mit der Faust. Dabei hielt er neun Minuten lang einen Funkkanal offen, ohne gesendete und empfangene Bits, in eine Richtung ohne Ziel.
+- Die abgestoßene Platte kühlt nicht ab und biegt genau in diese Richtung ab, nach Kernwelt 2, Mnemosyne.
+
+**Was gleich bleibt:**
+- der Erstsatz, verlängert;
+- Kael und 734;
+- Sektor 04 und die Konsolidierung mit ihrer Landauer-Wärme;
+- AEGIS nur in Konsolenzeilen;
+- die Knöchel (C10) und eine Hand, die ohne Kael handelt;
+- Juna als Wärme ohne Quelle und als Stille in einer offenen Leitung, nie als Subjekt;
+- Silas' Halbsatz im Rauschen des Funks;
+- Mnemosyne als Kernwelt 2.
+
+**Was H bewusst gegen die Quellen setzt, als deine Entscheidung offen:**
+- **Orte:** Die Kernwelten werden Orte im Raum. Die Kernwelten-Matrix der Quellen sagt „KEINE Geographie“, Option B von W2 und die Hard-SF-Outline dagegen bewegen sich zwischen Orten, und genau das entscheidet W8.
+- **Wärme:** Die Löschwärme ist sichtbar und physisch (W5 B).
+- **Figuren:** Mit Dorn kommt ein Mensch als Gegenüber hinzu, neu und in keiner Quelle.
+- **Telefon:** Das Telefon wird zum offenen Funkkanal.
+- **Lex:** Der Arbeitsplatz ist kein Datenknoten mehr, sondern ein Außeneinsatz. Damit entfällt die Sachbearbeiter-Linie (F1) für Kap 1.
+
+**Bewertung**, `agent-first-pages`, Schreibtisch Space Opera und Hard SF, je ein frischer blinder Leser:
+- erste Fassung: 8/10, Manuskript angefordert, Action 9;
+- nach der ersten Überarbeitung: 7/10, 50 Seiten, Genre-Klarheit 9. Die Streuung zwischen zwei Lesern ist größer als der Unterschied zwischen den Fassungen.
+
+Beide Leser haben die Physik nachgerechnet. Was sie fanden, ist korrigiert:
+- 44 statt 40 Prozent;
+- der Flügel hängt an der stehenden Kappe;
+- der Halt am Holm;
+- die Masse der Platte;
+- der Widerspruch bei der Kühlleitung;
+- die gemessene statt der geratenen Bahn.
+
+Danach kamen zwei persönliche Preise dazu, der Posten in 734 und Dorns Schwester, und die drei Rätsel am Ende wurden zu einem zusammengelegt. Diese letzte Fassung hat niemand mehr gelesen. Die Tabelle steht in [Plan/runs/writing/opening/agent-first-pages_2026-10-03.md](../../Plan/runs/writing/opening/agent-first-pages_2026-10-03.md).
+
 ## Was als Nächstes laufen kann
 
 Sobald du eine Fassung als Material ansehen willst, gibt es drei Möglichkeiten:

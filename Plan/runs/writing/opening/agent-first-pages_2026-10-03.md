@@ -98,3 +98,30 @@ Lesungen derselben Art messen jetzt eher die Streuung zwischen den Lesern als de
 - Die Stimme ist kühl bis zur Farblosigkeit. Das ist die Stilebene von KW1 laut Quellen, und auch das entscheidest du.
 
 Nach Revision 2 wurde G nicht erneut gelesen. Das spart Nutzung, und das Plateau ist erreicht.
+
+## Runde 3 — Entwurf H, die Neuausrichtung als Space Opera (2026-10-04)
+
+**Input:** `Manuscript/kap-01/entwurf-h-radiator.md`. Der Schreibtisch ist diesmal eine deutsche Agentur für Space Opera
+und Hard SF, mit Eschbach, Brandhorst, Hamilton, Reynolds, Weir und Tchaikovsky als Vergleichsrahmen. Der Leser sollte
+ausdrücklich die Physik prüfen. Jede Lesung ist ein frischer, blinder Leser.
+
+| Fassung | Verdikt | Hook | Stimme | Orient. | Sog | Genre | Action | Gesamt | stärkste Zeile laut Leser |
+|---|---|--:|--:|--:|--:|--:|--:|--:|---|
+| H | Manuskript | 9 | 8 | 8 | 8 | 7 | 9 | **8** | „Ich sehe zu, wie wir vergessen.“ |
+| H, Revision 1 | 50 Seiten | 8 | 7 | 7 | 8 | 9 | 8 | **7** | „Ich sehe zu, wie wir vergessen.“ |
+
+**Was die Leser zur Physik sagten:**
+- **Bestätigt, nachgerechnet:** Stefan-Boltzmann, 54 MW bei etwa 443 K über 24.000 m², rund drei Stunden für
+  6,1 × 10¹¹ J, 1 g bei 90 s und etwa 2 km Radius, 29 kPa Anzugdruck, kein sichtbares Glühen bei 170 °C.
+- **Gefunden und danach korrigiert:** 44 statt 40 Prozent; der Flügel hängt an der stehenden Kappe; der Halt für die
+  Faustschläge; die Masse der Platte; der Widerspruch zwischen „keine Leitung“ und der Kühlleitung; die Bahn als Messung
+  statt als Prognose.
+- **Ein Hinweis, kein Fehler:** Rechnet man 6,1 × 10¹¹ J an der Landauer-Grenze um, kommen absurde Bitmengen heraus.
+  Der Text gibt deshalb keine Bitzahl an.
+
+**Was sie sonst sagten:**
+- Revision 1 hat das Ende verbessert: Statt einer Bestätigung steht dort eine neue Frage. Es stapelten sich aber drei
+  Rätsel, und es fehlte ein persönlicher Preis für Kael. Revision 2 hat die Rätsel zu einem zusammengelegt (Funkrichtung
+  gleich Bahnrichtung) und den Posten in Wohneinheit 734 sowie Dorns Schwester ergänzt. Revision 2 wurde nicht mehr gelesen.
+- Silas' Halbsatz las sich für drei von drei Lesern dieser Runden erst wie ein Manuskriptrest. Das ist ein gelockter Riss
+  aus den Quellen. Ob er so bleibt, entscheidest du.
