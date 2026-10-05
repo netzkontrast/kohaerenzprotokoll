@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,14 @@ Position: „AEGIS' Risse / KI-Ethik (Grenzen der Kontrolle)“ ^[kohaerenz-prot
 - Story: AEGIS tries to force Co1-style geometric order on the chaos world to break Kael's refusal, and its own Guardian, the Chaos-Regulator, splits between that order and the Juna-resonance Kael offers it, then fuses the two into something new, „Kohärenz ist nicht Einheitlichkeit.“ ^[kohaerenz-protokoll.md:L1938]; the system flags the Guardian's own drift as a breach of protocol.
 - Sequence: this chapter narrates the averting of the very Beta-Rho-5 collapse that this document's Kapitel 17 — headed one cycle later, „Zyklus 2“ ^[kohaerenz-protokoll.md:L1758] — already treats as past. State it; the order does not reorder.
 - Voice: third person on Kael; the alarm stands in capitals, and the split Guardian speaks with two voices at once, „eine kalt und logisch, die andere chaotisch und emotional“ ^[kohaerenz-protokoll.md:L1910], both as dialogue.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Beobachter im System: Meta-Reflexion über AEGIS
+
+Title: the commission titles the chapter „Der Beobachter im System: Meta-Reflexion über AEGIS“ ^[kontext-outline.md:L267], placed in Act 2.
+
+- Theme: the commission's `Core Theme` is „Zweite-Ordnung-Kybernetik; Erkennen der eigenen Rolle im System“ ^[kontext-outline.md:L269]
+- Story: its `Plot Summary` plans „Erkenntnis der Wechselwirkung eigener Aktionen“ ^[kontext-outline.md:L270]
+- Foci: `Kael Sys Focus` „Argus (Meta-Beobachter) zentral“ ^[kontext-outline.md:L271]; `AEGIS Focus` „System als reaktives, selbstbeobachtendes System verstanden“ ^[kontext-outline.md:L272]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
