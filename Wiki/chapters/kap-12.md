@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -52,6 +52,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael erreicht einen kleinen, aber signifikanten Moment der internen Synthese oder Kooperation zwischen zwei zuvor widersprüchlichen 'Alters'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „Man könnte sehen, wie AEGIS versucht, Kael zu 'debuggen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „AEGIS könnte sogar versuchen, den vorherigen Konfliktzustand wiederherzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The sacred marriage
+
+Title: „Die Heilige Hochzeit“ ^[romanstruktur-und-philosophische-einleitung.md:L107]
+Position: Teil I, „Funktionale Multiplizität“ ^[romanstruktur-und-philosophische-einleitung.md:L107]
+
+- Story: „Das Ziel von Teil I ist erreicht“ ^[romanstruktur-und-philosophische-einleitung.md:L109]
+- Story: „Kael erreicht den Zustand der“ ^[romanstruktur-und-philosophische-einleitung.md:L111] functional multiplicity; „Die Amnesiebarrieren werden durchlässig.“ ^[romanstruktur-und-philosophische-einleitung.md:L111]
+- Table 1 (Teil I) on Selene: „Emergiert als führende Kraft der Integration in Kap. 12.“ ^[romanstruktur-und-philosophische-einleitung.md:L130]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
