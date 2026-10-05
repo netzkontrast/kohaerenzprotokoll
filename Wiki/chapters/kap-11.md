@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -69,6 +69,14 @@ Position: Teil I, „Logik als Werkzeug“ ^[romanstruktur-und-philosophische-ei
 - Story: the heading's title continues with the word `Männlichen` in quotation marks; „Kael erkennt, dass die Logik und die Aggression der Wächter nicht der Feind sind.“ ^[romanstruktur-und-philosophische-einleitung.md:L103]
 - Story: „Die Logik wandelt sich vom tyrannischen Herrscher zum wertvollen Werkzeug des“ ^[romanstruktur-und-philosophische-einleitung.md:L105] Self
 - Table 1 (Teil I) on Lex: „wird als Werkzeug integriert (Kap. 11)“ ^[romanstruktur-und-philosophische-einleitung.md:L125]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das Mosaik des Selbst
+
+Title: „Das Mosaik des Selbst“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L139]
+Position: Teil I; setting from the `Schauplatz` field: „Ruinen der gelöschten Archive am Rande von KW1“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L141]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Index, AEGIS-Parser“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L142]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael forscht in gelöschten Speicherbänken nach dem Ursprung von Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144] and „Kael nimmt die Existenz all seiner Alters (die TSDP-Fragmente) erstmals bewusst als Überlebensmechanismus an, anstatt sie zu fürchten“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
