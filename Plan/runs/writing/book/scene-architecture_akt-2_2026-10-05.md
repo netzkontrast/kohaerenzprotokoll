@@ -5,7 +5,9 @@
 **Was das ist:** dasselbe Raster wie für Akt I (`scene-architecture_akt-1_2026-10-05.md`). Jede Szene hat ein
 **Ziel**, einen **Widerstand** und eine **Wende** („Nein“ oder „Ja, aber“). Die **Naht** zum nächsten Kapitel ist ein
 „deshalb“ oder ein „aber“.
-**Status:** ein Vorschlag, kein Kanon, keine Prosa. **Die Storyform geht vor** (Entscheidung 025, Schritt 38).
+**Status (2026-10-05):** Arbeitsgrundlage für Akt II, kein Kanon, keine Prosa. Der Autor hat die ganze Kette übernommen,
+dazu die Spirale über den Preis, die AEGIS-Kapitel 16 und 22 und Kap 26 als Lagerwahl (Entscheidung 025, Schritt 39).
+Seine Vorlieben stehen am Ende und bleiben offen. **Die Storyform geht vor** (Schritt 38).
 
 **Grundlage:**
 - Die Signposts von Akt II:
@@ -34,7 +36,7 @@ Kap 26, Juna in der Gegenwart zu suchen (A entscheidet). Deshalb startet AEGIS i
   - Kiko erstarrt, mit Namen.
   - Lia will Juna halten und wegstoßen zugleich.
 - **Wende, „Nein“:** Die Zeile übersteht die Welle, aber KW1 stößt Kael aus. Er überquert die Grenze nach KW2, und
-  das kostet ihn etwas, das er nicht zurückbekommt (W8 A).
+  das kostet ihn etwas, das er nicht zurückbekommt (W8 A). Deine Vorliebe: die linke Hand (Antwort 2).
 - **→ deshalb:** Er ist in einer Welt, deren Regeln er nicht kennt.
 
 ### Kap 15 — Das Archipel (hard-a; A: MC Subconscious)
@@ -148,3 +150,17 @@ Kap 26, Juna in der Gegenwart zu suchen (A entscheidet). Deshalb startet AEGIS i
 3. **Die vier Menschen in Akt II:** Mara, Dorn, die alte Frau und die Kollegin leben in KW1. Bleiben sie zurück, so
    dass Kael sie verliert, oder erscheinen sie in den anderen Welten wieder, in anderer Gestalt?
 4. **Kap 18:** wie viel von der Fragmentierungsnacht, solange W12 offen ist.
+
+## Die Antworten des Autors (2026-10-05) — Vorlieben, offen, kein Kanon
+
+1. **Gerüst:** die ganze Kette, die Spirale über den Preis, die AEGIS-Kapitel 16 und 22, Kap 26 als Lagerwahl.
+2. **Der Preis der Grenze nach KW2 (Kap 14):** **die linke Hand.** Silas' Spur bleibt in KW1 zurück. Die Hand hält
+   nicht mehr, und der Anschluss ist nicht mehr geschützt.
+   - Folge für die Kette: In Kap 16 sucht AEGIS einen Anschluss, den niemand mehr hält. Der Sweep scheitert trotzdem,
+     an Mnemosyne.
+   - Kein Widerspruch zu `anteile.json`: Silas bleibt ein Anteil und spricht ab Kap 21 mit Stimme. Verloren ist nur
+     seine Spur, die Hand.
+3. **Die vier Menschen bleiben in KW1 zurück.** Kael verliert sie mit der Welt, und ihre Abwesenheit ist ein Preis.
+   Ob jemand in Akt III oder im Vortex zurückkehrt, ist offen.
+4. **Kap 18 zeigt die Nacht ohne Ursache.** Die Nacht wird von innen gezeigt: Oblivion löscht und zögert. Ob die
+   Genesis dasselbe Ereignis ist (W12), bleibt bis zum Vortex offen. Die kosmische Ebene schimmert nur.

@@ -204,6 +204,10 @@ with the consequences of each option laid out.
     `Manuscript/kanon.md` the same day: `Silas` (the left hand in Kap 1, from draft G), `Menschen` (the four people's
     wants, from Plot-Entwurf 1 — they stay in `a.json` as `want`, provisional), `Davor` and `Kap1-G` (from the scene
     list and draft G). Step 34's wants are therefore provisional, not canon.
+39. **The scene list of Akt II is the working basis (2026-10-05):** chapters 14–26
+    (`Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md`), the spiral by price, AEGIS' Kap 16 and 22, Kap 26
+    as the camps' choice. The author's preferences, open and not canon (step 38): the border to KW2 costs the left hand
+    (Silas' trace stays in KW1); the four people stay behind in KW1; Kap 18 shows the night without its cause (W12 open).
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
