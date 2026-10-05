@@ -1,6 +1,6 @@
 ---
 id: W9
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W7, W12, W15, W5]
 frage_art: standard        # schlüssel | schalter | standard | vertagt
 auslöser: "nach Pilot Kap 1–3"
@@ -62,6 +62,10 @@ noch neu verliehene Rettungsmacht. Für B ist zu prüfen, ob derselbe Moment AEG
 Modell scheitern lässt; die Throughline-Position wird dadurch noch nicht entschieden.
 
 ## Antwort und Abhängigkeiten
+
+**Beantwortet 2026-10-05: den IC-Signposts folgen.** Akt I: Juna im Davor, in erinnerten Szenen vor dem Anruf, sie spricht und will etwas (Kap 4, 11). Akt II: ihr Leben und das Schweigen laufen weiter, über Spuren (Kap 17, 25). Akt III: erste Begegnung in der Gegenwart (Kap 32). Vortex: ihre Zukunft (Kap 36, 38). Nach W0 A ist sie eine volle Figur ([Entscheidung 025](../decisions/025-dramatica-is-the-recipe.md), Schritt 26; C7 entschieden). Ob sie einen eigenen POV bekommt und ob sie Ursprungs-Ich oder Gegenüber ist (J68), ist nicht entschieden.
+
+Früher:
 
 **Ergänzung aus PR #113:** [Strukturwissen, §6](../runs/plot-2026-09-30/05-dual-storyform-structure.md)
 fordert einen Beziehungsbogen, der mehr als einen Kontrapunkt trägt.

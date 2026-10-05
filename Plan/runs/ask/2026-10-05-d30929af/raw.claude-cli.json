@@ -1,0 +1,45 @@
+{
+ "status": "answered",
+ "text": "```json\n{\n  \"answerable\": \"partly\",\n  \"claims\": [\n    {\n      \"doc\": \"roman-plot-entwicklung-mit-kohaerenzprotokoll\",\n      \"says\": \"Kael erwacht in Kapitel 1 nach einem Universal Reboot mit tiefer Desorientierung (Amnesie). Das Wegrationalisieren der durchsickernden Trauer ist dort Teil der Szene.\",\n      \"quotes\": [\n        {\"text\": \"Kael erwacht nach einem \\\"Universal Reboot\\\" mit tiefer Desorientierung (Amnesie).\", \"line_hint\": 64},\n        {\"text\": \"Kael rationalisiert dies weg.\", \"line_hint\": 64}\n      ]\n    },\n    {\n      \"doc\": \"kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md\",\n      \"says\": \"Kael ist als Mensch mit dissoziativer Identitätsstruktur (TSDP) gefasst, mindestens als Schnitt zwischen ANP (Host vor dem Trauma) und EP (Trauma-Träger-Schicht). In Akt I zeigt sich die Dissoziation als Amnesie.\",\n      \"quotes\": [\n        {\"text\": \"Mindestschnitt: ANP (Host vor dem Trauma) und EP (Trauma-Träger-Schicht).\", \"line_hint\": 87},\n        {\"text\": \"in Akt I ist Dissoziation Amnesie-Terror, kein Crew-Menü.\", \"line_hint\": 87}\n      ]\n    },\n    {\n      \"doc\": \"kael-charakterarchitektur-und-konfliktdynamik-2\",\n      \"says\": \"Nach TSDP zeigt Kael Amnesie zwischen den Zuständen der Teile. Die ANPs fürchten die Intrusion der EPs und entwickeln Phobien vor Trauma-Erinnerungen. AEGIS' Management der „Cache Kohärenz“ kann Teile triggern und die Fragmentierung verstärken.\",\n      \"quotes\": [\n        {\"text\": \"Kael zeigt typische Symptome schwerer struktureller Dissoziation: Amnesie zwischen den Zuständen der verschiedenen Teile (ANPs/EPs)\", \"line_hint\": 36},\n        {\"text\": \"ANPs fürchten die Intrusion von EPs (Überflutung durch traumatische Erinnerungen/Emotionen, Kontrollverlust) und entwickeln Phobien vor Trauma-Erinnerungen.\", \"line_hint\": 35},\n        {\"text\": \"können Teile triggern oder die Fragmentierung verstärken (Paradoxon X).\", \"line_hint\": 38}\n      ]\n    },\n    {\n      \"doc\": \"kohaerenz-protokoll-philosophischer-bericht-md\",\n      \"says\": \"Phobien gelten als zentrales TSDP-Element, das die strukturelle Dissoziation aufrechterhält. Auf der Kosmos-Ebene steht AEGIS als System-ANP gegen Juna als System-Witness.\",\n      \"quotes\": [\n        {\"text\": \"Ein zentrales Element der TSDP: Phobien halten die strukturelle Dissoziation aufrecht.\", \"line_hint\": 519},\n        {\"text\": \"AEGIS (System-ANP) ↔ Juna (System-Witness)\", \"line_hint\": 641}\n      ]\n    },\n    {\n      \"doc\": \"kohaerenz-protokoll-charakter-bibel-2026-05-08-md\",\n      \"says\": \"Die Charakter-Bibel beschreibt die Phobien als Klebstoff der Dissoziation. ANP, EP, Trigger, Bindung und Integration sind darin die gefürchteten Größen, und die Phobien aufzulösen hieße, das System zu verändern.\",\n      \"quotes\": [\n        {\"text\": \"ANP fürchtet EP, EP fürchtet Trigger, beide fürchten Bindung, alle fürchten Integration.\", \"line_hint\": 814},\n        {\"text\": \"Diese Phobien *halten* die Dissoziation.\", \"line_hint\": 814}\n      ]\n    },\n    {\n      \"doc\": \"kohaerenz-protokoll-konzeptionelle-themen-struktur\",\n      \"says\": \"Als Thema ist die Trigger-induzierte EP-Intrusion zusammen mit Phobien zwischen Anteilen geführt.\",\n      \"quotes\": [\n        {\"text\": \"Trigger-induzierte EP-Intrusion & Phobien zwischen Anteilen\", \"line_hint\": 152}\n      ]\n    },\n    {\n      \"doc\": \"duale-storyform-synthese-kohaerenz-protokoll\",\n      \"says\": \"Die Synthese nennt Amnesie-Barrieren ausdrücklich als etwas, das gehackt beziehungsweise abgebaut wird. Dieser Abbau steht der Unmöglichkeit der Juna-Verbindung gegenüber.\",\n      \"quotes\": [\n        {\"text\": \"Die physische Unmöglichkeit der Juna-Verbindung vs. das Hacken von Amnesie-Barrieren.\", \"line_hint\": 190},\n        {\"text\": \"Akzeptanz des Mosaik-Herzens (Start) vs. Abbau der Alpha-Barrieren (Stop).\", \"line_hint\": 192}\n      ]\n    },\n    {\n      \"doc\": \"kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md\",\n      \"says\": \"Im Kap-40/0-Text ist Kael das aus Komponente 734 herausgetrennte Cluster. Er ist die Hälfte, die fühlte, weil die andere das Fühlen auslagerte.\",\n      \"quotes\": [\n        {\"text\": \"Kael war das Cluster, das aus Komponente 734 herausgetrennt wurde.\", \"line_hint\": 63},\n        {\"text\": \"Er war die Hälfte, die fühlte, weil die andere Hälfte das Fühlen nicht halten konnte und es deshalb auslagerte.\", \"line_hint\": 63}\n      ]\n    },\n    {\n      \"doc\": \"kael-charakterarchitektur-und-konfliktdynamik\",\n      \"says\": \"Juna/V steht in dieser Quelle für Hoffnung, Resonanz und eine von AEGIS bekämpfte Verbindung. Der Verlust dieser Verbindung gehört zu Kaels Kernängsten.\",\n      \"quotes\": [\n        {\"text\": \"Juna/V repräsentiert Hoffnung, Resonanz und eine verbotene, von AEGIS bekämpfte Verbindung.\", \"line_hint\": 38},\n        {\"text\": \"dem Verlust der Verbindung zu Juna/V\", \"line_hint\": 35}\n      ]\n    },\n    {\n      \"doc\": \"kap0-kap40-doppelklammer-abhandlung-2026-05-08-md\",\n      \"says\": \"Als Dividende der inneren Auflösung ist festgehalten, dass Liebe bleibt und sich Junas Verbindungs-Modus etabliert.\",\n      \"quotes\": [\n        {\"text\": \"Liebe bleibt, Junas Verbindungs-Modus etabliert sich\", \"line_hint\": 59}\n      ]\n    }\n  ],\n  \"differ\": [\n    \"kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md vs. kael-charakterarchitektur-und-konfliktdynamik-2: Der Struktur-Kanon bindet die Amnesie an Akt I und lässt die volle Alter-Polyphonie erst ab Akt II wirken. Die Charakterarchitektur beschreibt die Amnesie zwischen den Zuständen der Teile als durchgehendes Symptom, ohne Aktbindung.\"\n  ],\n  \"gaps\": [\n    \"Was Kael konkret vergisst (Inhalt des Traumas, Herkunft, Verbindung zu Juna), steht im Paket nur als Amnesie im Allgemeinen. Die Kap-40-Passage deutet eine Auslagerung des Fühlens an, ohne den Gedächtnisinhalt zu benennen.\",\n    \"Welche Amnesie-Barrieren ihn halten, ist im Paket nur namentlich belegt („Amnesie-Barrieren“, „Alpha-Barrieren“). Ihre Bauart und Funktionsweise, und ob beide Begriffe dasselbe meinen, zeigt das Paket nicht.\",\n    \"Eine konkrete Liste von Kaels Phobien (welcher Anteil fürchtet was) ist nicht im Paket. Die Charakter-Bibel gibt nur die Struktur ANP/EP/Trigger/Bindung/Integration an.\",\n    \"Was die Fragmentierung auslöst, ist nur teilweise belegt: AEGIS' Management der „Cache Kohärenz“ und Trigger-induzierte EP-Intrusion. Der konkrete Auslöser in der Handlung ist nicht im Paket. Die Rolle des Big Rip als Fragmentierung (Outline 2026-05-18) habe ich nicht als Auslöser gewertet.\",\n    \"Junas eigene Haltung zu Kaels Amnesie, Phobien oder Fragmentierung ist nicht im Paket. Belegt sind nur ihre Rolle (System-Witness, Hoffnung/Resonanz, Verbindungs-Modus als Dividende) und die Spannung zwischen der Unmöglichkeit der Verbindung und dem Hacken der Barrieren.\",\n    \"Zu Kaels Herkunft (C16) liegen im Paket zwei Erzählweisen vor. Ich habe sie hier nicht gegeneinander gewichtet.\"\n  ],\n  \"need\": [\n    {\"doc\": \"kohaerenz-protokoll-charakter-bibel-2026-05-08-md\", \"lines\": [313, 345]},\n    {\"doc\": \"kohaerenz-protokoll-philosophischer-bericht-md\", \"lines\": [519, 545]},\n    {\"term\": \"Alpha-Barrieren\"}\n  ],\n  \"next\": [\n    {\"doc\": \"kohaerenz-protokoll-charakter-bibel-2026-05-08-md\", \"why\": \"Abschnitt 5.2 „Kael als Host-ANP“ und die Phobien-Passage (L814) sind gefunden, aber im Paket nur als Überschrift beziehungsweise Einzelzeile enthalten.\"},\n    {\"doc\": \"kohaerenz-protokoll-philosophischer-bericht-md\", \"why\": \"Ab L519 folgt vermutlich die Ausführung der Phobien als Vermeidungsstrategien; im Paket steht nur die Eröffnungszeile.\"},\n    {\"doc\": \"duale-storyform-synthese-kohaerenz-protokoll\", \"why\": \"Der Kontext um L190 und L192 könnte klären, was mit Amnesie- und Alpha-Barrieren gemeint ist.\"}\n  ]\n}\n```",
+ "model": "claude-cli/sonnet",
+ "seconds": 39.1,
+ "cost": 0.217941,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 32462,
+  "cache_read_input_tokens": 1395,
+  "output_tokens": 6329,
+  "output_tokens_details": {
+   "thinking_tokens": 2522
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 32462,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 6329,
+    "cache_read_input_tokens": 1395,
+    "cache_creation_input_tokens": 32462,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 32462
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "backend": "claude-cli",
+ "attempt": 0,
+ "at": "2026-10-05T21:33:11",
+ "pack_hash": "31e1dc704e1eb729a597a7d4907039bf8255e83330f448b32f99116c739b2664"
+}

@@ -11,9 +11,14 @@ script reads them and writes nothing else into them:
     disagreement — a disagreement is not an error, it is a question for the author;
   * refuses a storyweaving scaffold (`weave.json`, step 23) that leaves a signpost unwoven, a bridge without one
     of the five anchors, a bridge band overrun, a hard-b count the author did not set, or a chapter without provenance;
+  * refuses a plan of the alters' appearances (`anteile.json`, step 32) that names a part the canon (Q3) does not, a
+    channel it does not define, a chapter the weave lacks or gives to AEGIS' first person, a name before the veil
+    falls, or a part that never appears;
+  * reads the canon rows of `Manuscript/kanon.md` (the only canon, decision 023) for the players' `bio` — a player
+    without a row stays „offen“; nothing is written back;
   * writes `Plan/storyform/overview.md` (generated — never edit it) and `Plan/storyform/ncp/kohaerenz-protokoll.ncp.json`
     (NCP 3.0.0-rc.1, step 24: the core envelope, both narratives in the `dramatica:` payload, the chapters as story
-    moments; status `draft`, nothing undecided is filled in). Validate it with the author's fork:
+    moments, the alters' appearances as `event` storybeats of A; status `draft`, nothing undecided is filled in). Validate it with the author's fork:
     `node tests/validate-file.js` in netzkontrast/narrative-context-protocol.
 
     python3 scripts/storyform.py            # check, compare, write
@@ -100,7 +105,22 @@ def audit(sf):
     return errors, bad + diff
 
 
-def ncp(sf, weave=None):
+KANON = ROOT / "Manuscript" / "kanon.md"
+
+
+def kanon_rows():
+    """id -> (date, what holds, where) from the table of decisions in `Manuscript/kanon.md`."""
+    rows = {}
+    if not KANON.exists():
+        return rows
+    for line in KANON.read_text().splitlines():
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if line.startswith("| ") and len(cells) == 4 and cells[0] != "id" and not set(cells[0]) <= set("-"):
+            rows[cells[0]] = (cells[1], cells[2], cells[3].strip("`"))
+    return rows
+
+
+def ncp(sf, weave=None, kanon=None):
     k, tx = sf["storyform"].lower(), sf["texts"]
     src = f"Entscheidung des Autors ({sf['decision']})"
     persp = [{"id": PID[t], "author_structural_pov": tx["perspectives"][t][0], "summary": tx["perspectives"][t][1],
@@ -152,10 +172,12 @@ def ncp(sf, weave=None):
     for p in sf["players"]:
         pid = "player_" + "".join(ch for ch in p["name"].split()[0].lower() if ch.isalnum())
         tls = [t for t, word in (("MC", "Main Character"), ("IC", "Influence Character")) if word in p["role"]]
+        row = (kanon or {}).get(p["name"].split()[0])
         players.append({"id": pid, "name": p["name"], "role": p["role"], "visual": OPEN, "audio": OPEN,
                         "summary": f"{p['role']}; im OS: {', '.join(nf(e) for e in p['os_elements'])}",
-                        "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
-                        "storytelling": f"Herkunft: {p['by']}.",
+                        "bio": (f"Kanon `{p['name'].split()[0]}` ({row[0]}, Manuscript/kanon.md): {row[1]}" if row else
+                                "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt"),
+                        "storytelling": f"Herkunft: {p['by']}." + (f" Will: {p['want']} (Herkunft: {p['want_by']})." if p.get("want") else ""),
                         "motivations": [{"narrative_function": nf(e), "illustration": f"{p['name']} trägt {e} im OS.",
                                          "storytelling": f"Herkunft: {p['by']}."} for e in p["os_elements"]],
                         "perspectives": [{"perspective_id": PID[t]} for t in ["OS", *tls]]})
@@ -209,7 +231,7 @@ def overview(forms):
         L += ["", "Plot: " + " · ".join(f"{k} **{v}**" for k, v in plot.items()), "",
               "Besetzung: " + "; ".join(f"{p['name']} — {p['role']}" + (f" ({', '.join(p['os_elements'])})" if p["os_elements"] else "")
                                        for p in sf["players"]),
-              "", "Offen: " + "; ".join(sf["open"])]
+              "", "Offen: " + ("; ".join(sf["open"]) or "—")]
         errors, notes = audit(sf)
         L += ["", "Gegen die Ableitung D1–D7 (`dramatica.py derive`): " + ("stimmt überein." if not notes else
               "; ".join(notes))]
@@ -270,10 +292,36 @@ def weave_audit(weave, forms):
         got = sum(ch[str(n)]["route"] == "hard-b" for n in nums)
         if got != want:
             errors.append(f"act {k}: {got} hard-b chapters, the author set {want}")
+    acts = sorted(weave["acts"].values())
+    for (_, end), (start, _) in zip(acts, acts[1:]):
+        key = f"{end}/{start}"
+        t = weave.get("transitions", {}).get(key)
+        if t is not None and not (t.get("A") and t.get("B")):
+            errors.append(f"transition {key}: H11 wants A's decision and B's action, both")
+        if t is not None and key not in weave["provenance"].get("transitions", {}):
+            errors.append(f"transition {key}: no provenance")
+    if "worlds" in weave:
+        spans, last = weave["worlds"], 0
+        for w in spans:
+            lo, hi = w["chapters"]
+            if lo != last + 1 or hi < lo:
+                errors.append(f"world {w['world']}: Kap {lo}–{hi} does not follow Kap {last} without a gap or an overlap")
+            last = hi
+        if last != max(hi for _, hi in weave["acts"].values()):
+            errors.append(f"worlds end at Kap {last}, the acts at Kap {max(hi for _, hi in weave['acts'].values())}")
+        if not spans or spans[0]["world"] != "KW1" or spans[0]["chapters"][1] < weave["acts"]["1"][1]:
+            errors.append("KW1 (the Konstrukt-Stadt, C9) must carry all of Akt I")
+        if "worlds" not in weave["provenance"]:
+            errors.append("worlds: no provenance")
     prov = weave["provenance"]["chapters"]
     errors += [f"Kap {n}: no provenance" for n in ch if n not in prov]
     errors += [f"provenance for Kap {n}, which the weave does not have" for n in prov if n not in ch]
     return errors
+
+
+def world_of(weave, n):
+    """The world span a chapter lies in ({'world', 'label', 'chapters'}), or None (the frame, or no worlds set)."""
+    return next((w for w in weave.get("worlds", []) if w["chapters"][0] <= n <= w["chapters"][1]), None)
 
 
 def weave_table(weave, forms):
@@ -282,17 +330,23 @@ def weave_table(weave, forms):
          "Aus `weave.json` (Entscheidung 025, Schritt 23). Route nach dem Skill chapter-draft-engine: hard-a = Kael "
          "und die Alters, hard-b = AEGIS als Ich (W6 C), bridge = beide Ebenen in einer Szene. Ein Strang steht mit "
          "dem Signpost seines Akts. Bestätigt je Akt: "
-         + ", ".join(f"{k} {'ja' if v else 'nein'}" for k, v in weave["approved"].items()) + ".", "",
-         "| Kap | Akt | Route | A | B | Anker |", "|---|---|---|---|---|---|"]
+         + ", ".join(f"{k} {'ja' if v else 'nein'}" for k, v in weave["approved"].items()) + "."
+         + (f" Die Welten: {weave['world_kind']}; die Namen sind die des Worldbuilding-Konzepts, nicht entschieden (Q5)."
+            if weave.get("world_kind") else ""), "",
+         "| Kap | Akt | Welt | Route | A | B | Anker |", "|---|---|---|---|---|---|---|"]
     for n in range(41):
         c = weave["chapters"].get(str(n))
         if not c:
             continue
         k = act_of(weave, n) or (1 if n == weave["b_prologue"] else None)
         sp = lambda sf, t: f"{t}·{sf[t]['signposts'][k - 1]}" if k else t
-        L.append(f"| {n} | {k or '—'} | {c['route']} | {', '.join(sp(a, t) for t in c['A']) or '—'} | "
+        w = world_of(weave, n)
+        L.append(f"| {n} | {k or '—'} | {w['world'] if w else '—'} | {c['route']} | {', '.join(sp(a, t) for t in c['A']) or '—'} | "
                  f"{', '.join(sp(b, t) for t in c['B']) or '—'} | {c['anchor'] or '—'} |")
-    L += ["", "Offen: " + "; ".join(weave["open"])]
+    if weave.get("transitions"):
+        L += ["", "**Aktübergänge (H11): A entscheidet, B handelt.**", "", "| Übergang | A (Entscheidung) | B (Handlung) |", "|---|---|---|"]
+        L += [f"| {k} | {t['A']} | {t['B']} |" for k, t in weave["transitions"].items()]
+    L += ["", "Offen: " + ("; ".join(weave["open"]) or "—")]
     return L
 
 
@@ -300,10 +354,22 @@ NCP_VERSION, PROFILE_VERSION = "3.0.0-rc.1", "1.0.0-rc.1"
 NARRATIVE = {"A": "narrative-a", "B": "narrative-b"}
 
 
-def ncp3(forms, weave):
+def ncp3(forms, weave, anteile=None, kanon=None):
     """One NCP 3.0.0-rc.1 document for the book (decision 025 step 24): the core envelope, and in the `dramatica:`
-    payload one story with both narratives and the chapters as story-level moments that reference both."""
-    parts = {sf["storyform"]: ncp(sf)["story"] for sf in forms}
+    payload one story with both narratives and the chapters as story-level moments that reference both; the alters'
+    appearances (step 32) as `event` storybeats of A, referenced by the moments of their chapters."""
+    parts = {sf["storyform"]: ncp(sf, kanon=kanon)["story"] for sf in forms}
+    events = {}
+    for i, ap in enumerate((anteile or {}).get("appearances", []), 1):
+        bid = f"beat_anteil_{i:02d}"
+        parts["A"]["narratives"][0]["subtext"]["storybeats"].append({
+            "id": bid, "scope": "event", "sequence": i, "appreciation": "Auftritt eines Anteils",
+            "summary": f"Kap {', '.join(map(str, ap['chapters']))}: {', '.join(ap['parts'])} · {ap['channel']}",
+            "storytelling": f"{ap['how']} Kanal {ap['channel']}: {anteile['channels'][ap['channel']]}. "
+                            f"Herkunft: {anteile['provenance']['appearances']}",
+            "perspectives": [{"perspective_id": PID["OS"]}, {"perspective_id": PID["MC"]}]})
+        for n in ap["chapters"]:
+            events.setdefault(n, []).append(bid)
     narratives = []
     for side, st in parts.items():
         n = st["narratives"][0]
@@ -321,12 +387,15 @@ def ncp3(forms, weave):
             "id": f"moment_kap_{k:02d}", "act": act, "order": k,
             "summary": f"Kap {k} · {c['route']}" + (f" · Anker: {c['anchor']}" if c["anchor"] else ""),
             "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
-            "setting": "offen — das Treatment", "timing": "offen — das Treatment",
+            "setting": (f"{world_of(weave, k)['world']} ({world_of(weave, k)['label']}; der Name ist nicht entschieden, Q5) — "
+                        f"{weave['world_kind']}" if world_of(weave, k) else "offen — der Rahmen, in keiner Kernwelt"),
+            "timing": "offen — das Treatment",
             "imperatives": ("trägt " + "; ".join(f"{side} {TL[t]} Signpost {act} ({sig[side][t]['signposts'][act - 1]})"
                                                 for side, t in refs)) if refs else "Coda außerhalb der Akte, kein Signpost",
             "audience_experiential_pov": "first_person_central",
-            "storybeats": [{"sequence": i, "narrative_id": NARRATIVE[side], "storybeat_id": f"beat_{t.lower()}_signpost_{act}"}
-                           for i, (side, t) in enumerate(refs, 1)],
+            "storybeats": [{"sequence": i, "narrative_id": NARRATIVE[side], "storybeat_id": sid}
+                           for i, (side, sid) in enumerate([(side, f"beat_{t.lower()}_signpost_{act}") for side, t in refs]
+                                                           + [("A", b) for b in events.get(k, [])], 1)],
             "storypoints": []})
     story = {"id": "story_kohaerenz_protokoll", "title": "Kohärenz Protokoll", "logline": a["logline"], "genre": a["genre"],
              "created_at": "2026-10-05T00:00:00Z", "narratives": narratives, "moments": moments}
@@ -341,6 +410,73 @@ def ncp3(forms, weave):
             "payloads": {"dramatica:": {"namespace": "dramatica:", "profile_version": PROFILE_VERSION,
                                         "dsm_version": "the 1995/1999 chart, checked by scripts/dramatica.py — not the licensed DSM",
                                         "storyform": story}}}
+
+
+def anteile_audit(an, weave, kanon=None):
+    """Errors in the plan of the alters' appearances `anteile.json` (decision 025 step 32); [] when it holds."""
+    errors, parts, ch = [], set(an["parts"]), weave["chapters"]
+    q3 = (kanon or {}).get("Q3")
+    if q3:
+        errors += [f"part {p!r}: the canon (Q3) does not name it" for p in an["parts"] if p not in q3[1]]
+    seen = {}
+    for camp, names in an["camps"].items():
+        for p in names:
+            if p not in parts:
+                errors.append(f"camp {camp}: {p!r} is not a part")
+            if p in seen:
+                errors.append(f"{p!r} is in two camps, {seen[p]} and {camp}")
+            seen[p] = camp
+    for p, why in an.get("unassigned", {}).items():
+        if p in seen:
+            errors.append(f"{p!r} is in camp {seen[p]} and unassigned")
+        if not why:
+            errors.append(f"{p!r} is unassigned without a reason")
+        seen.setdefault(p, None)
+    errors += [f"part {p!r} is in no camp and not unassigned" for p in an["parts"] if p not in seen]
+    for n, t in an.get("camp_turns", {}).items():
+        if n not in ch:
+            errors.append(f"camp turn Kap {n}: the weave has no such chapter")
+        if t["wins"] not in an["camps"]:
+            errors.append(f"camp turn Kap {n}: {t['wins']!r} is no camp")
+    appeared = set()
+    if len(an["appearances"]) > 64:
+        errors.append("more than 64 appearances: NCP numbers events up to 64")
+    for i, ap in enumerate(an["appearances"], 1):
+        where = f"appearance {i} (Kap {', '.join(map(str, ap['chapters']))})"
+        errors += [f"{where}: {p!r} is not a part" for p in ap["parts"] if p not in parts]
+        appeared |= set(ap["parts"])
+        if ap["channel"] not in an["channels"]:
+            errors.append(f"{where}: channel {ap['channel']!r} is none of {sorted(an['channels'])}")
+        for n in ap["chapters"]:
+            c = ch.get(str(n))
+            if c is None:
+                errors.append(f"{where}: the weave has no Kap {n}")
+            elif c["route"] == "hard-b":
+                errors.append(f"{where}: Kap {n} is AEGIS' first person (hard-b)")
+            if ap["channel"] == "Stimme" and n < an["unnamed_until"]:
+                errors.append(f"{where}: a part speaks by name before Kap {an['unnamed_until']}")
+        if not ap.get("how"):
+            errors.append(f"{where}: says not how")
+    errors += [f"part {p!r} never appears" for p in an["parts"] if p != an["host"] and p not in appeared]
+    errors += [f"no provenance for {k}" for k in ("adopted", "parts", "camps", "appearances") if k not in an["provenance"]]
+    return errors
+
+
+def anteile_table(an):
+    L = ["", "## Die Anteile im Plot (Arbeitsgrundlage)", "",
+         "Aus `anteile.json` (Entscheidung 025, Schritt 32). " + " ".join(an["rules"]), "",
+         "Lager: " + "; ".join(f"**{k}** {', '.join(v)}" for k, v in an["camps"].items()) + ". Wenden: "
+         + "; ".join(f"Kap {n} {t['wins']} ({t['what']})" for n, t in an["camp_turns"].items()) + "."
+         + "".join(f" Ohne Lager: {p} — {why}" for p, why in an.get("unassigned", {}).items()), "",
+         "| Kap | Anteile | Kanal | wie |", "|---|---|---|---|"]
+    L += [f"| {', '.join(map(str, ap['chapters']))} | {', '.join(ap['parts'])} | {ap['channel']} | {ap['how']} |"
+          for ap in an["appearances"]]
+    return L
+
+
+def load_anteile():
+    p = HOME / "anteile.json"
+    return json.loads(p.read_text()) if p.exists() else None
 
 
 def load_weave():
@@ -361,9 +497,12 @@ def run(check_only=False):
         for n in notes:
             print(f"note  {sf['storyform']}: {n}")
         failed |= bool(errors)
-    weave = load_weave()
+    weave, anteile, kanon = load_weave(), load_anteile(), kanon_rows()
     for e in weave_audit(weave, forms) if weave else []:
         print(f"ERROR weave: {e}")
+        failed = True
+    for e in anteile_audit(anteile, weave, kanon) if anteile and weave else []:
+        print(f"ERROR anteile: {e}")
         failed = True
     if failed:
         print("refused: nothing written")
@@ -371,8 +510,10 @@ def run(check_only=False):
     text = overview(forms)
     if weave:
         text = text.rstrip("\n") + "\n" + "\n".join(weave_table(weave, forms)) + "\n"
+    if weave and anteile:
+        text = text.rstrip("\n") + "\n" + "\n".join(anteile_table(anteile)) + "\n"
     want = {HOME / "overview.md": text}
-    want[HOME / "ncp" / "kohaerenz-protokoll.ncp.json"] = json.dumps(ncp3(forms, weave), ensure_ascii=False, indent=2) + "\n"
+    want[HOME / "ncp" / "kohaerenz-protokoll.ncp.json"] = json.dumps(ncp3(forms, weave, anteile, kanon), ensure_ascii=False, indent=2) + "\n"
     stale = [p for p, text in want.items() if not p.exists() or p.read_text() != text]
     if check_only:
         for p in stale:
@@ -420,7 +561,12 @@ def selftest():
                                               for n in (1, 2, 3, 4)], "the band is"),
                 ("a hard-b count the author did not set", lambda w: w["chapters"]["6"].update(route="hard-a", A=["MC"]),
                  "the author set"),
-                ("a chapter without provenance", lambda w: w["provenance"]["chapters"].pop("7"), "no provenance")]:
+                ("a chapter without provenance", lambda w: w["provenance"]["chapters"].pop("7"), "no provenance"),
+                ("a gap between worlds", lambda w: w.get("worlds") and w["worlds"][1].update(chapters=[15, 22]), "gap"),
+                ("KW1 short of Akt I", lambda w: w.get("worlds") and (w["worlds"][0].update(chapters=[1, 10]),
+                                                                      w["worlds"][1].update(chapters=[11, 22])), "Akt I"),
+                ("a transition without B's action", lambda w: w.setdefault("transitions", {}).update({"13/14": {"A": "x", "B": ""}}),
+                 "both")]:
             w = json.loads(json.dumps(weave))
             edit(w)
             if not any(want in e for e in weave_audit(w, forms)):
@@ -440,6 +586,29 @@ def selftest():
             fails.append("an NCP 3 story moment names a storybeat its narrative does not have")
         if len(st["moments"]) != 41 or doc3["story"]["id"] != st["id"]:
             fails.append("the NCP 3 document lost a chapter or its story ids disagree")
+    an, kanon = load_anteile(), kanon_rows()
+    if an and weave:
+        if anteile_audit(an, weave, kanon):
+            fails.append(f"the live anteile plan is refused: {anteile_audit(an, weave, kanon)[:2]}")
+        for name, edit, want in [
+                ("a name before the veil", lambda a: a["appearances"][0].update(channel="Stimme"), "by name before"),
+                ("an appearance in AEGIS' first person", lambda a: a["appearances"][0].update(chapters=[6]), "hard-b"),
+                ("a part the canon does not name", lambda a: a["parts"].append("Nox"), "Q3"),
+                ("a part that never appears", lambda a: [ap["parts"].remove("Argus") for ap in a["appearances"]
+                                                         if "Argus" in ap["parts"]], "never appears"),
+                ("an undefined channel", lambda a: a["appearances"][0].update(channel="Traum"), "channel")]:
+            a = json.loads(json.dumps(an))
+            edit(a)
+            if not any(want in e for e in anteile_audit(a, weave, kanon)):
+                fails.append(f"{name} was accepted")
+        st = ncp3(load(), weave, an, kanon)["payloads"]["dramatica:"]["storyform"]
+        na = next(n for n in st["narratives"] if n["id"] == NARRATIVE["A"])
+        if sum(b["scope"] == "event" for b in na["subtext"]["storybeats"]) != len(an["appearances"]):
+            fails.append("an appearance did not become an NCP event")
+        if not any(r["storybeat_id"].startswith("beat_anteil_") for m in st["moments"] for r in m["storybeats"]):
+            fails.append("no moment references an appearance")
+        if "Kael" in kanon and not na["subtext"]["players"][0]["bio"].startswith("Kanon"):
+            fails.append("Kael's canon row did not become his NCP bio")
     if len({(x["throughline"], x["sequence"]) for x in beats}) != len(beats):
         fails.append("NCP signposts collide")
     for f in fails:
