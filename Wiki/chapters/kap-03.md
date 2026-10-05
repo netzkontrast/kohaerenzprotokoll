@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht eine Handlung, die eine Kernregel der Logik in seiner aktuellen Umgebung (vielleicht in KW1: LogOS) verletzt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55]
 - Story: „LogOS manifestiert sich oder interveniert direkt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55] · „eine nicht-emotionale, rein informative 'Korrektur' oder ein Regelzitat“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55]
 - Discussion: „Die Intervention wirkt unpersönlich und absolut“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L56]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The descent into the fog
+
+Title: „Der Abstieg in den Nebel“ ^[romanstruktur-und-philosophische-einleitung.md:L51]
+Position: Teil I, „Verlust der Kontrolle“ ^[romanstruktur-und-philosophische-einleitung.md:L51]
+
+- Story: the way leads „Der Weg führt tiefer in die Psyche, weg von der Logik“ ^[romanstruktur-und-philosophische-einleitung.md:L53] into KW2, the domain of Mnemosyne
+- Story: there Kael suffers a loss of control: „Kael erlebt einen massiven Kontrollverlust.“ ^[romanstruktur-und-philosophische-einleitung.md:L55]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
