@@ -5,6 +5,10 @@ und mit der Stelle, an der das steht. Nichts kommt hierher, weil eine Quelle es 
 Quellen es sagt oder weil ein Entwurf es so erzählt (Entscheidung 006). Was eine Sitzung vorschlägt, steht im
 Arbeitsstand und erst nach deinem Ja hier.
 
+**Kein Entwurf wird Kanon (der Autor, 2026-10-05: „keep decisions open - dont use drafts as Canon- storyform wins“).**
+Ein Kapitelentwurf, ein Plot-Entwurf oder eine Szenenliste liefert Vorschläge, auch wenn du einen davon gewählt hast.
+Was daraus folgt, bleibt offen. Widerspricht ein Entwurf den Storyforms in `Plan/storyform/`, gilt die Storyform.
+
 Dieses Verzeichnis ist die einzige Stelle, an der Kanon steht. Die Projekt-App liest es: Eine Karte, ein Kapitel oder
 eine Weiche gilt dort nur als Kanon, wenn sie eine `id` aus dieser Tabelle nennt.
 
@@ -24,11 +28,7 @@ eine Weiche gilt dort nur als Kanon, wenn sie eine `id` aus dieser Tabelle nennt
 | Kael | 2026-10-05 | Kaels Figurenkarte: Host-ANP von 13 Anteilen. Want — Ordnung, der Tag „richtig“, die Zuweisung abends auf null. Need — die zehn Jahre tragen, die Anteile anerkennen, sprechen, wo er schwieg, fühlen dürfen. Wunde — Bindungstrauma der Basisrealität, dann die Fragmentierungsnacht, ausgelöst durch die drohende Trennung aus Liebe; Oblivion löschte die zehn Jahre. Lügen — „Wenn ich nichts fühle, verliere ich nichts.“, „Solange der Tag richtig ist, bin ich ganz.“, „Wer mir nah ist, wird verletzt.“ Hindernis — Überidentifikation mit der Rolle des Funktionierers. Widerspruch — er schützt Juna, indem er sie vergisst; er hält fest und hält dabei nichts. | `Plan/runs/writing/book/character-card-builder_kael_2026-10-05.md` |
 | Lager | 2026-10-05 | Junas Wirkung teilt Kaels System in drei Lager und ist der Motor der Juna-Geschichte: Suche — Rhys, Kiko, Lia, Silas; Abwehr — Nyx (mit Isabelle), Alex; Vermeidung — Lex, Moros, Kael, angeführt von Oblivion; Selene vermittelt; Argus beobachtet ohne Lager (2026-10-05); weitere Anteile sind beteiligt. Kap 26 gewinnt die Suche, Kap 34 die Abwehr. | `Plan/runs/storyform-2026-10-02/tsdp-lektuere.md` |
 | Q3 | 2026-10-05 | Das Buch trägt dreizehn Anteile wie die Charakter-Bibel: Kael, Lex, Alex, Rhys, Selene, Argus, Nyx (mit Isabelle), Kiko, Lia, Moros, Silas, Oblivion. Die Zahl der Kernwelten bleibt offen. | `Wiki/questions/q3-how-many-kern-welten-and-alters.md` |
-| Silas | 2026-10-05 | Silas ist die linke Hand in Kap 1, die RÜCKFRAGE drückt und den Anschluss zu Juna schützt. | `Plan/runs/storyform-2026-10-02/alters-im-plot.md` |
-| Menschen | 2026-10-05 | Was die vier Menschen in Kaels Gegenwart wollen: Mara, dass niemand mehr verloren geht, und sie hält Kael mit „Wie heißt du?“ beim Namen fest; Dorn, dass seine Schwester in Sektor 04 nicht kocht, und er versucht Kael mit dem Löschen; die alte Frau von der Bank, dass sich jemand an sie erinnert, und sie glaubt an Kael, bevor er es tut; die Kollegin an der Konsole, dass Kaels offene RÜCKFRAGE ein Fehler ist, den sie beweisen will. | `Plan/storyform/a.json` |
 | Kernwelten | 2026-10-05 | Vier Kernwelten tragen die Akte wie im Worldbuilding-Konzept vom 2026-05-08: KW1 Kap 1–13, KW2 Kap 14–22, KW3 Kap 23–28 (über die Aktgrenze), KW4 Kap 29–39 mit dem Vortex; Kap 0 und 40 sind der Rahmen. Es sind getrennte Welten (W8 A), deren Grenzen etwas kosten. Die Namen von KW2–KW4 und die Guardians (Q5) sind nicht entschieden. | `Plan/storyform/weave.json` |
-| Davor | 2026-10-05 | Die erinnerten Szenen von Akt I: In Kap 4 will Juna etwas nur für sich, etwas, das niemandem dient. Kap 11 zeigt nur den Rand der drohenden Trennung, das Schweigen und den Moment vor der Entscheidung, abgerissen am Anruf. Die Trennung selbst und die Fragmentierungsnacht gehören Kap 18. | `Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md` |
-| Kap1-G | 2026-10-05 | Was Entwurf G von Kap 1 gegen die Quellen setzt, gilt: Die linke Hand handelt in Kap 1, das Telefon ist der Einsatz, Kael liest 734 bewusst als seine Nummer, und Bit und Joule stehen auf dem Schirm. Der Text von G ist damit nicht freigegeben. | `Manuscript/kap-01/README.md` |
 
 ## Freigegebene Kapitel
 

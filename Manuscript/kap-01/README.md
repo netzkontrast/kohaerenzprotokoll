@@ -167,7 +167,7 @@ die Anteile und die Konflikte C10/C11 sagt. Die Zeilendiagnose steht in [Plan/ru
 
 **Bewertung:** Alle drei Lesungen gaben 8/10, eine mit Anforderung des Manuskripts. Das ist ein Plateau. Die Tabelle steht in [Plan/runs/writing/opening/agent-first-pages_2026-10-03.md](../../Plan/runs/writing/opening/agent-first-pages_2026-10-03.md).
 
-**Was G bewusst gegen die Quellen setzt — entschieden 2026-10-05: alles bleibt (Kanon `Kap1-G`); der Text von G ist damit nicht freigegeben:**
+**Was G bewusst gegen die Quellen setzt, als deine Entscheidung offen** (am 2026-10-05 als Vorschlag gewählt, nicht entschieden: Kein Entwurf wird Kanon, die Storyform geht vor):
 - Das Telefon ist der Einsatz statt „nur Existenz“.
 - Kael liest 734 bewusst als seine Nummer.
 - Statt „einer einzigen Falschheit“ gibt es mehrere.

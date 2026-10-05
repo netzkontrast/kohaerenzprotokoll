@@ -184,8 +184,8 @@ with the consequences of each option laid out.
 34. **What the four people want (2026-10-05),** from the session's proposals (the archetype and Plot-Entwurf 1), all
     four taken: Mara (Guardian) that no one is lost any more, holding Kael by his name; Dorn (Contagonist) that his
     sister in Sektor 04 does not cook, tempting Kael with deletion; the old woman (Sidekick) to be remembered, believing
-    in Kael before he does; the colleague (Skeptic) to prove Kael's open query a mistake. In `a.json` (`want`), the
-    canon (`Menschen`) and the cards.
+    in Kael before he does; the colleague (Skeptic) to prove Kael's open query a mistake. In `a.json` (`want`) and the
+    cards; the canon row `Menschen` was taken out again the same day (step 38).
 35. **The Kern-Welten carry the acts (2026-10-05):** the act mapping of the worldbuilding concept of 2026-05-08 — KW1
     Kap 1–13, KW2 14–22, KW3 23–28 across the act border, KW4 29–39 with the Vortex; Kap 0 and 40 the frame. W8 answered
     A: separate worlds whose borders cost something. In `weave.json` (`worlds`, checked: no gap, no overlap, KW1 all of
@@ -195,9 +195,15 @@ with the consequences of each option laid out.
     (Kap 19–20); that he does not choose is his limit. In `anteile.json` (camp `Beobachtung`) and the canon (`Lager`).
 37. **The scene list of Akt I is the working basis (2026-10-05):** every chapter 0–13 with goal, opposition, turn and
     seam (`Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md`), the escalation by price in Kap 2, 5, 9,
-    Kap 12 → 13 as the fixed end of the act, and the four people's appearances. In the remembered scenes Juna wants
-    something only for herself (Kap 4), and Kap 11 shows only the edge of the separation; the rest is Kap 18's (canon
-    `Davor`). The four points draft G sets against the sources stand (canon `Kap1-G`).
+    Kap 12 → 13 as the fixed end of the act, and the four people's appearances. The author's preferences on it — Juna
+    wants something only for herself in Kap 4, Kap 11 shows only the edge of the separation, draft G's four points —
+    are recorded there and **stay open** (step 38).
+38. **No draft becomes canon; the storyform wins (the author, 2026-10-05):** „keep decisions open - dont use drafts as
+    Canon- storyform wins“. A chapter draft, a plot draft or a scene list yields proposals, even one the author picked;
+    what follows from it stays open. Where a draft disagrees with `Plan/storyform/`, the storyform holds. Taken out of
+    `Manuscript/kanon.md` the same day: `Silas` (the left hand in Kap 1, from draft G), `Menschen` (the four people's
+    wants, from Plot-Entwurf 1 — they stay in `a.json` as `want`, provisional), `Davor` and `Kap1-G` (from the scene
+    list and draft G). Step 34's wants are therefore provisional, not canon.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

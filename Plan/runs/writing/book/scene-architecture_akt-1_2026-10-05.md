@@ -1,8 +1,9 @@
 # scene-architecture — Akt I, Kap 0–13: die Szenenliste als Vorschlag, 2026-10-05
 
-**Status (2026-10-05):** Arbeitsgrundlage für Akt I. Der Autor hat die ganze Kette übernommen, dazu die Steigerung
-über den Preis, Kap 12 → 13 als Herzstück und die Auftritte der Menschen (Entscheidung 025, Schritt 37). Die Antworten
-stehen am Ende.
+**Status (2026-10-05):** Arbeitsgrundlage für Akt I, kein Kanon. Der Autor hat die ganze Kette übernommen, dazu die
+Steigerung über den Preis, Kap 12 → 13 als Herzstück und die Auftritte der Menschen (Entscheidung 025, Schritt 37).
+Seine Vorlieben stehen am Ende und bleiben offen. **Widerspricht die Liste den Storyforms, gilt die Storyform**
+(Schritt 38).
 
 **Auftrag des Autors (2026-10-05):** „Szenen für Akt I“, gewählt aus der Frage nach dem nächsten Dramatica-Schritt.
 
@@ -188,7 +189,7 @@ bestätigt, mit seinem Kürzel. Die Szene endet auf einem „Nein“, das ein *n
 
 Ich bewerte Ziel, Wende und Naht mit Stark, OK oder Schwach, als kalter Leser. Den Text schreibst du.
 
-## Die Antworten des Autors (2026-10-05)
+## Die Antworten des Autors (2026-10-05) — Vorlieben, offen, kein Kanon
 
 1. **Gerüst:** die ganze Kette, die Steigerung über den Preis (Kap 2, 5, 9: ein Wert, ein Bericht, ein gelöschter
    Name), Kap 12 → 13 als festen Endpunkt von Akt I und die Auftritte der Menschen (die Kollegin in 2, 5 und 9, Mara in

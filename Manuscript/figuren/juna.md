@@ -1,7 +1,7 @@
 ---
 name: Juna
 kind: figur
-kanon: [W0, C7, Juna, Davor]
+kanon: [W0, C7, Juna]
 match: ["Juna"]
 wiki: juna
 ---
