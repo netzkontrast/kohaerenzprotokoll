@@ -426,3 +426,11 @@ The methodology report treats the Guardians as functions of AEGIS and names the 
 For the fourth world the compilation gives the critique's „Kernwelt 4 (Kairos/Sophia)“ ^[ai-assisted-narrative-coherence.md:L950], and the blueprint's „Kairos-Potentialis is a generative, paradoxical world representing creativity and integration.“ ^[ai-assisted-narrative-coherence.md:L483]; neither passage calls Kairos or Sophia a Guardian.
 
 It stands with the record's first position in giving each of KW1 to KW3 a named Guardian of its own; the count of Guardians and the pairing of KW4 are not settled by this document, and the record is not changed.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report
+
+**The research report counts four Wächter, each paired with a world.**
+
+„AEGIS delegiert seine exekutive Kontrolle an vier sub-algorithmische Wächter“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L128]; the list pairs `LogOS` with KW1, `Mnemosyne` with KW2, `Cerberus` with KW3 and `Kairos / Sophia` with KW4 („Wächterin der Potenzialität (KW4).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L133]).
+
+Stands: four, paired one to one with KW1–KW4 (L128–L133); the slash in `Kairos / Sophia` is the report's.
