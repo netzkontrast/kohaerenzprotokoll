@@ -1,0 +1,76 @@
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "Leitfrage"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            26
+
+`Leitfrage` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#24]
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "Wertvollste Quellen"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Wertvollste Quellen` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#10]
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "Status Quo"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Status Quo` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#3]
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "Strategische Schlussfolgerung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Strategische Schlussfolgerung` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#1]
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "Kanon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kanon` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#1]
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "Vakant"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Vakant` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#1]
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "Zero-Trust"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`Zero-Trust` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0]
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "ground truth"
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            0
+
+`ground truth` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0]
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "Kohärenz Protokoll"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            18
+
+`Kohärenz Protokoll` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#17]
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "V"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            35
+
+`V` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#5]
+$ read.py roman-entwicklung-kohaerenz-und-leitfragen --count "Kael"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            45
+
+`Kael` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#28]
+$ stance_marker_count = 24 + 10 + 3 + 1 = 38 (Leitfrage, Wertvollste Quellen, Status Quo, Strategische Schlussfolgerung)
+$ grep -c "^[0-9]*\.  " Sources/drive/roman-entwicklung-kohaerenz-und-leitfragen.md  (numbered references, L181-L214; expect 34)
+34
+$ grep -noE "[[:alnum:]-]*\bV\b[[:alnum:]-]*"  (whole-word V lines)
+19:V
+21:V
+23:V
+34:V
+38:V
+$ profile: glued ref numbers 65, backslash escapes 102, 149 candidates, 20 standing-alone differences: copied from 01-profile.txt and census-draft.md

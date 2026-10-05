@@ -1,0 +1,253 @@
+{
+  "document": "roman-entwicklung-kohaerenz-und-leitfragen",
+  "drive_id": "1OhlTqU64wEH7oFqnidvd7YaQabegp-b-lg6ldAZUriU",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 65,
+  "backslash_escapes": 102,
+  "typographic_marks": 14,
+  "ascii_quotes": 156,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemische",
+      "Systemischer",
+      "Systemkollaps",
+      "Systemrauschen",
+      "Systems"
+    ],
+    "roman": [
+      "Roman",
+      "Romanarchitektur",
+      "Romanhälfte",
+      "Romanideen",
+      "Romanprojekts",
+      "Romans",
+      "Romanstruktur"
+    ],
+    "inter": [
+      "Interaktionen",
+      "Interface",
+      "Internal",
+      "Internalisierte",
+      "Interner",
+      "Internet"
+    ],
+    "archi": [
+      "Architectural",
+      "Architecture",
+      "Architektur",
+      "Architekturen",
+      "Archivars"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissonanz",
+      "Dissonanzen",
+      "Dissoziation",
+      "Dissoziativen"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptpapiere",
+      "Konzepts"
+    ],
+    "trans": [
+      "Transcendent",
+      "Transition",
+      "Transitions",
+      "Transportkanäle",
+      "Transzendente"
+    ],
+    "chara": [
+      "Character",
+      "Characters",
+      "Charakter",
+      "Charakterkonzepte"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionaler"
+    ],
+    "infor": [
+      "Informatik",
+      "Informationen",
+      "Informationsdosierung",
+      "Informationskontrolle"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelgenerierung",
+      "Kapiteln",
+      "Kapitelthemen"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphysical",
+      "Metaphysik"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll",
+      "Protokolls"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychology",
+      "Psychotraumatologie"
+    ],
+    "theor": [
+      "Theorems",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "welte": [
+      "Welten",
+      "Weltenbau",
+      "Weltengeschichte",
+      "Welterkundung"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysis",
+      "Analyst"
+    ],
+    "avata": [
+      "Avatar",
+      "Avatare",
+      "Avatars"
+    ],
+    "blind": [
+      "Blinde",
+      "Blinden",
+      "Blindheiten"
+    ],
+    "detai": [
+      "Detailliert",
+      "Detaillierter",
+      "Details"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokumentation",
+      "Dokumente"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbruch",
+      "Durchwühlen"
+    ],
+    "final": [
+      "Finale",
+      "Finaler",
+      "Finales"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dump",
+      "Dumps"
+    ],
+    [
+      "Eine",
+      "Einerseits"
+    ],
+    [
+      "Eins",
+      "Einsickern"
+    ],
+    [
+      "Eins",
+      "Übereinstimmung"
+    ],
+    [
+      "Eins",
+      "Bewusstseinsstruktur"
+    ],
+    [
+      "Ende",
+      "Transcendent"
+    ],
+    [
+      "Ende",
+      "Transzendente"
+    ],
+    [
+      "Ende",
+      "Kaskadierender"
+    ],
+    [
+      "Ende",
+      "Korrespondierende"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationsdosierung"
+    ],
+    [
+      "Form",
+      "Informationskontrolle"
+    ],
+    [
+      "Hier",
+      "Hierarchie"
+    ],
+    [
+      "Hier",
+      "Hierarchien"
+    ],
+    [
+      "Host",
+      "Hosts"
+    ],
+    [
+      "Info",
+      "Informatik"
+    ]
+  ]
+}
