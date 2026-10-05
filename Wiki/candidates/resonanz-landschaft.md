@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C11
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -51,6 +51,10 @@ each section is a `Guardian/Welt-Paar`.
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the row KW2 Mnemosyne-Archipel, written under the Guardian-built name only
 
 The pitch writes the second world only as `KW2: Mnemosyne-Archipel`, never as Resonanz-Landschaft; the pairing by KW number is the coordinator's judgement (J118), nothing is merged. Its logic: „Logik des Traumas, First Degree Entailment (Modellierung von Ambivalenz).“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L97]; its somatic motif: „Viszerale Bauchgefühle, plötzliche Kälte, Übelkeit, Phantomberührungen.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L97]
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the English name of Core World 2
+
+The manifest writes only the English name: „The second Core World is designated as the Resonance Landscape.“ ^[aegis-persona-and-manifest-generation.md:L73] Its physics are „non-linear, associative, and highly fluid“ ^[aegis-persona-and-manifest-generation.md:L75].
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the Mnemosyne-Archipel as server substrate and site of the climax
 
