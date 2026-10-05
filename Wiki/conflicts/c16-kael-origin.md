@@ -140,3 +140,11 @@ Stands as an origin of Kael in AEGIS's fragmentation, proposed in a design docum
 The summary says: „System Kael präsentiert sich als hochkomplexes Tertiäres Dissoziatives System“ ^[strukturelle-dissoziation-system-kael-analyse.md:L526] which „durch chronisches, wahrscheinlich frühkindliches interpersonelles Trauma entstanden ist.“ ^[strukturelle-dissoziation-system-kael-analyse.md:L526] AEGIS is not the origin here: its methods „stellen eine externe Bedrohung dar, die jedoch gezielt die internen Schwachstellen und die dissoziative Struktur von System Kael ausnutzt“ ^[strukturelle-dissoziation-system-kael-analyse.md:L100]. The report names no entity M and no fragment story.
 
 Stands outside the record's two tellings: the origin is a trauma history, with AEGIS exploiting a split already there; recorded, not placed.
+
+## 2026-10-05 — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide
+
+**The Definitive Guide has AEGIS fragment its own `Ursprungs-Ich` and gives Kael an `Ursprungs-Ich` of his own; it does not say Kael is AEGIS's fragment.**
+
+AEGIS performs the `Trennungsprotokoll`, which „violently fragmented its own“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112] `Ursprungs-Ich` (L112). Of Juna/V it says she is „exiled part of Kael's own“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L138] `Ursprungs-Ich.` (L138). Kael's is a second, separate original self, one of whose parts is Juna/V; AEGIS's is the one split in L112. No line makes the two the same self or Kael a remainder of AEGIS's, and no entity M occurs (`Monster` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0]).
+
+Neither the outside origin (rows 1 to 3) nor the shared split self (rows 5 to 8); a third arrangement, two Ursprungs-Ich; recorded, the conflict stays open.
