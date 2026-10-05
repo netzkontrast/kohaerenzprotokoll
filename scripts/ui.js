@@ -147,6 +147,7 @@ class Component extends DCLogic {
 
   componentDidMount() {
     if (!this.routable()) return;
+    this._boardDisposed = false;
     this.loadBoard();
     this._boardTimer = window.setInterval(() => { if (!document.hidden) this.loadBoard(); }, 60000);
     try {
@@ -162,6 +163,8 @@ class Component extends DCLogic {
   }
 
   componentWillUnmount() {
+    this._boardDisposed = true;
+    if (this._boardRequest) this._boardRequest.abort();
     if (this._onHash) window.removeEventListener('hashchange', this._onHash);
     if (this._boardTimer) window.clearInterval(this._boardTimer);
   }
@@ -220,13 +223,23 @@ class Component extends DCLogic {
     return { ok: !!live.ok, error: live.error || '', rows: rows, other: other, claims: claims };
   }
 
-  async loadBoard() {
+  async loadBoard(force) {
+    // Two requests per refresh: leave room under GitHub's public API limit.
+    // Only poll while Now is visible; manual refresh still shares the in-flight guard.
+    if (this._boardInFlight || this._boardDisposed) return;
+    if (!force && ((this.st().screen || this.props.screen || 'now') !== 'now'
+      || (this._boardLastTry && Date.now() - this._boardLastTry < 300000))) return;
+    this._boardInFlight = true;
+    this._boardLastTry = Date.now();
     const P = this.kp().sessions.board;
     this.setState({ boardBusy: true });
+    const controller = new AbortController();
+    this._boardRequest = controller;
+    const timeout = setTimeout(() => controller.abort(), 15000);
     let live;
     try {
       const get = async (path) => {
-        const r = await fetch(P.api + path, { headers: { Accept: 'application/vnd.github+json' } });
+        const r = await fetch(P.api + path, { signal: controller.signal, headers: { Accept: 'application/vnd.github+json' } });
         if (!r.ok) throw new Error('GitHub answered ' + r.status);
         return r.json();
       };
@@ -236,9 +249,13 @@ class Component extends DCLogic {
         pulls: pulls.map((p) => ({ number: p.number, title: p.title, body: p.body || '', branch: p.head.ref, url: p.html_url, updated: p.updated_at })),
         activity: act.map((a) => ({ ref: a.ref, type: a.activity_type, at: a.timestamp, sha: a.after })) };
     } catch (err) {
-      live = { ok: false, error: String(err && err.message || err).slice(0, 160), at: new Date().toISOString().slice(0, 19) + 'Z', pulls: [], activity: [] };
+      live = { ok: false, error: controller.signal.aborted ? 'request timed out' : String(err && err.message || err).slice(0, 160), at: new Date().toISOString().slice(0, 19) + 'Z', pulls: [], activity: [] };
+    } finally {
+      clearTimeout(timeout);
+      this._boardInFlight = false;
+      this._boardRequest = null;
     }
-    this.setState({ board: this.boardOf(live, Date.now()), boardAt: live.at, boardBusy: false });
+    if (!this._boardDisposed) this.setState({ board: this.boardOf(live, Date.now()), boardAt: live.at, boardBusy: false });
   }
 
   claimLine(id) {
@@ -289,7 +306,7 @@ class Component extends DCLogic {
     const files = String(ed.files || '').split(/[\s,]+/).filter(Boolean);
     const clean = (t) => String(t || '').replace(/\s+/g, ' ').trim();
     const title = clean(ed.title).replace(/[.:]+$/, '');
-    if (!title) return '';
+    if (!this.slugOf(title) || !clean(ed.next)) return '';
     return '- **' + title + '.** ' + (clean(ask) ? clean(ask).replace(/\*\*/g, '') + ' ' : '')
       + (files.length ? 'Files: ' + files.map((f) => '`' + f + '`').join(', ') + '. ' : '')
       + (clean(ed.next) ? '**Next:** ' + clean(ed.next).replace(/\*\*/g, '') : '');
@@ -318,15 +335,32 @@ class Component extends DCLogic {
     return out.join('\n\n');
   }
 
+  promptProblem(id, ed, ask, edited, text) {
+    if (!String(text || '').trim()) return 'The prompt is empty. Write the task before copying or saving it.';
+    if (edited != null || id !== 'free') return '';
+    if (!this.slugOf(ed.title)) return 'Name the session to give it a claim id (use at least one letter A–Z or number).';
+    if (this.kp().sessions.sessions.some((x) => x.id === this.slugOf(ed.title))) return 'This title belongs to a planned session. Rename your new session or select the planned one.';
+    if (!String(ed.next || '').trim() && !String(ask || '').trim()) return 'Add a next step or your instruction so the session has a task.';
+    return '';
+  }
+
   drafts() { const st = this.st(); return { pask: st.pask || {}, pedit: st.pedit || {}, poff: st.poff || {}, psed: st.psed || {} }; }
 
   saveDraft(kind, id, value) {
+    this.saveDrafts([[kind, id, value]]);
+  }
+
+  saveDrafts(changes) {
+    // A fork or clear changes several maps in one React event. Persist the same
+    // complete draft we enqueue, rather than re-reading state before React commits it.
     const d = this.drafts();
-    const next = Object.assign({}, d[kind]);
-    if (value == null || value === '' || (Array.isArray(value) && !value.length) || (kind === 'psed' && !value.title && !value.next && !value.files)) delete next[id];
-    else next[id] = value;
     const patch = { copied: null };
-    patch[kind] = next;
+    changes.forEach(([kind, id, value]) => {
+      const next = Object.assign({}, patch[kind] || d[kind]);
+      if (value == null || (value === '' && kind !== 'pedit') || (Array.isArray(value) && !value.length) || (kind === 'psed' && !value.title && !value.next && !value.files)) delete next[id];
+      else next[id] = value;
+      patch[kind] = next;
+    });
     this.setState(patch);
     if (!this.routable()) return;
     try {
@@ -645,8 +679,8 @@ class Component extends DCLogic {
       now.free = { bd: selId === 'free' ? '#2B4C8C' : '#E6E0D2', label: '＋ New session — title, next step, files, claim, NOW.md entry', cur: selId === 'free' ? 'true' : 'false', pick: () => this.setState({ sess: 'free', ntab: 'prompt', copied: null }) };
       const bd = s.board;
       now.board = {
-        live: !!bd, ok: !!bd && bd.ok, busy: !!s.boardBusy, refresh: () => this.loadBoard(),
-        stamp: !bd ? 'reading GitHub…' : bd.ok ? 'GitHub read ' + this.ago(s.boardAt) : 'GitHub not reached — ' + bd.error,
+        live: !!bd, ok: !!bd && bd.ok, busy: !!s.boardBusy, refresh: () => this.loadBoard(true),
+        stamp: !bd ? 'reading GitHub…' : bd.ok ? 'GitHub read ' + this.ago(s.boardAt) + ' · refreshes every 5 min on Now' : 'Claims unknown — ' + bd.error + '. Retry with Refresh.',
         showStamp: this.routable(),
         other: !bd || !bd.ok ? [] : bd.other.map((o) => ({
           branch: o.branch, when: this.ago(o.last),
@@ -674,6 +708,8 @@ class Component extends DCLogic {
       const isFree = selId === 'free';
       const composed = this.compose(src, ask, off, ed);
       const text = edited != null ? edited : composed;
+      const problem = this.promptProblem(selId, ed, ask, edited, text);
+      const entry = this.entryOf(ed, ask);
       const copied = s.copied === 'pe:' + selId;
       const failedCopy = s.copied === 'fail:pe:' + selId;
       const fixed = ['head', 'read'];
@@ -686,14 +722,19 @@ class Component extends DCLogic {
         onEdTitle: (e) => this.saveDraft('psed', 'free', Object.assign({}, ed, { title: e.target.value })),
         onEdNext: (e) => this.saveDraft('psed', 'free', Object.assign({}, ed, { next: e.target.value })),
         onEdFiles: (e) => this.saveDraft('psed', 'free', Object.assign({}, ed, { files: e.target.value })),
-        fork: () => { this.saveDraft('psed', 'free', { title: src.title, next: src.next, files: (src.files || []).join(', ') }); this.setState({ sess: 'free', copied: null }); },
-        hasEntry: isFree && !!ed.title.trim(),
+        fork: () => { this.saveDrafts([
+          ['psed', 'free', { title: src.title, next: src.next, files: (src.files || []).join(', ') }],
+          ['pedit', 'free', null], ['pask', 'free', ask], ['poff', 'free', off],
+        ]); this.setState({ sess: 'free', copied: null }); },
+        hasEntry: isFree && edited == null && !problem && !!entry,
+        problem: problem, hasProblem: !!problem, blocked: !!problem,
+        entryHint: isFree && edited == null && !!this.slugOf(ed.title) && !ed.next.trim(),
         claimLine: 'Session: ' + this.slugOf(ed.title),
-        entry: this.entryOf(ed, ask),
+        entry: entry,
         copyClaim: () => this.copy('pc:' + selId, '## Claim\n\nSession: ' + this.slugOf(ed.title)),
-        copyClaimLabel: s.copied === 'pc:' + selId ? 'Copied ✓' : 'Copy claim',
+        copyClaimLabel: s.copied === 'pc:' + selId ? 'Copied ✓' : s.copied === 'fail:pc:' + selId ? 'Copy blocked — select claim line' : 'Copy claim',
         copyEntry: () => this.copy('pn:' + selId, this.entryOf(ed, ask)),
-        copyEntryLabel: s.copied === 'pn:' + selId ? 'Copied ✓' : 'Copy NOW.md entry',
+        copyEntryLabel: s.copied === 'pn:' + selId ? 'Copied ✓' : s.copied === 'fail:pn:' + selId ? 'Copy blocked — select entry below' : 'Copy NOW.md entry',
         askId: uid + '-pe-ask', textId: uid + '-pe-text', ask: ask, text: text,
         askHint: selId === 'free' ? 'What should the session do? In your words — it goes right after “read NOW.md first”.'
           : 'Anything to add or narrow — „nur das erste Dokument“, a deadline, a question first. Goes before the task.',
@@ -703,16 +744,18 @@ class Component extends DCLogic {
           const isOn = off.indexOf(b[0]) < 0;
           return {
             label: b[1], on: isOn ? 'true' : 'false', bg: isOn ? '#2B4C8C' : 'transparent', fg: isOn ? '#FBFAF6' : '#645F53', bd: isOn ? '#2B4C8C' : '#C9C0AC',
-            dis: edited != null, tip: edited != null ? 'Edited by hand — Reset to use the blocks again' : (isOn ? 'Leave this block out' : 'Put this block in'),
+            dis: edited != null, tip: edited != null ? 'Use fields again to change the blocks' : (isOn ? 'Leave this block out' : 'Put this block in'),
             go: () => this.saveDraft('poff', selId, isOn ? off.concat([b[0]]) : off.filter((k) => k !== b[0])),
           };
         }),
         info: text.length.toLocaleString('en-US') + ' characters · ' + text.split(/\s+/).filter(Boolean).length + ' words' + (edited != null ? ' · edited by hand' : ''),
         dirty: edited != null || !!ask || off.length > 0 || (isFree && !!(ed.title || ed.next || ed.files)), edited: edited != null,
-        reset: () => { this.saveDraft('pedit', selId, null); this.saveDraft('pask', selId, null); this.saveDraft('poff', selId, null); if (isFree) this.saveDraft('psed', 'free', null); },
-        copy: () => this.copy('pe:' + selId, text),
+        useFields: () => this.saveDraft('pedit', selId, null),
+        reset: () => this.saveDrafts([['pedit', selId, null], ['pask', selId, null], ['poff', selId, null]]
+          .concat(isFree ? [['psed', 'free', null]] : [])),
+        copy: () => { if (!problem) this.copy('pe:' + selId, text); },
         copyLabel: copied ? 'Copied ✓' : failedCopy ? 'Copy blocked here — select the text' : 'Copy prompt',
-        save: () => this.download('start-prompt-' + selId + '.md', text),
+        save: () => { if (!problem) this.download('start-prompt-' + selId + '.md', text); },
       };
       now.web = this.routable();
       now.selftests = held + ' held · ' + failed + ' failed · ' + (D.selftests.length - held - failed) + ' not run in this container';
@@ -1379,6 +1422,7 @@ class Component extends DCLogic {
 
   componentDidUpdate() {
     if (this.routable()) {
+      if (typeof document !== 'undefined' && !document.hidden) this.loadBoard();
       const h = this.route();
       const cur = window.location.hash;
       // A section anchor (`#lede`, not `#/…`) stays until the state itself moves on.
