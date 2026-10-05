@@ -36,7 +36,7 @@ Conflicts with an entry from it: C6, C13, C16. Questions: Q3, Q5, Q8.
 
 ## Sweep
 
-No hit the census did not list.
+`DID` L96 reading — the AEGIS analysis names DID (L96), read on did; `Emergenz` L1175 reading — read on emergenz; `Genesis` L136 reading — the AEGIS analysis on the Genesis crisis (L136), read on genesis; `Juna` L158 reading — read on juna; `Kairos` L950 reading — KW4 as Kairos/Sophia (L950), read on kairos; `Kohärenz` L94 occurrence — the novel's title (J9); `Sophia` L950 reading — KW4 as Kairos/Sophia (L950), read on sophia.
 
 ## What the readers noticed and no record holds
 

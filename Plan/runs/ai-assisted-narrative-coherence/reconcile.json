@@ -541,7 +541,57 @@
   ],
   "judgements": [],
   "decided_by_existing_rules": "J9 (a title or heading containing a term: Anomaly Log: Subject Kael, The Splintering of the Guardians, The Living Gödel-Satz, The Inefficient Beauty of a Broken God), J12 and J16 (a compound or a qualified label is its own token: AEGIS Überwelt, AEGIS Core Logic Space, System AEGIS, System Kael, Kael-Paradoxon, Guardian Mnemosyne, Guardian Cerberus, Cerberus-Labyrinth, Mnemosyne-Archipel, Logos-Prime, Narrative Director Agent), J14 (a slash in a label is an apposition: Konstrukt-Stadt/LogOS-Prime, Integrator/Inner Self Helper), J24, J46 and J56/J23 (a plural is no boundary: Kernwelten / Kernwelt, Guardians / Guardian, Glitches / Glitch, Risse / Riss, Emotional Parts, Apparently Normal Parts), J49 (worlds named for Guardians: KW2: Mnemosyne-Archipel, KW3: Cerberus-Labyrinth), J60 (an acronym and its expansion: TSDP (Tertiäre Strukturelle Dissoziation)), J72 (a parenthetical index is part of the label: Kernwelten (Core Worlds), Nichts Rauschen (Nothingness Roaring), Discursive Logic (D2)), J100–J102 (English names placed by the sentence: Core Worlds, Nothingness Roar)",
-  "sweep": [],
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 96,
+      "decision": "reading",
+      "why": "the AEGIS analysis names DID (L96), read on did"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 1175,
+      "decision": "reading",
+      "why": "read on emergenz"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 136,
+      "decision": "reading",
+      "why": "the AEGIS analysis on the Genesis crisis (L136), read on genesis"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 158,
+      "decision": "reading",
+      "why": "read on juna"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 950,
+      "decision": "reading",
+      "why": "KW4 as Kairos/Sophia (L950), read on kairos"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 94,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 950,
+      "decision": "reading",
+      "why": "KW4 as Kairos/Sophia (L950), read on sophia"
+    }
+  ],
   "not_promoted": [
     "ARCHON and its agents (Narrative Director Agent, Self-Reflection Module) — an AI writing tool the first text proposes, not the novel's world; no page",
     "Einheit K-1123 — Kael's designation in the Kael biography (L1079); recorded on kael and on C16",

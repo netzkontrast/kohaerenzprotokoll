@@ -541,7 +541,57 @@
   ],
   "judgements": [],
   "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
-  "sweep": [],
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 96,
+      "decision": "reading",
+      "why": "the AEGIS analysis names DID (L96), read on did"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 1175,
+      "decision": "reading",
+      "why": "read on emergenz"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 136,
+      "decision": "reading",
+      "why": "the AEGIS analysis on the Genesis crisis (L136), read on genesis"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 158,
+      "decision": "reading",
+      "why": "read on juna"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 950,
+      "decision": "reading",
+      "why": "KW4 as Kairos/Sophia (L950), read on kairos"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 94,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 950,
+      "decision": "reading",
+      "why": "KW4 as Kairos/Sophia (L950), read on sophia"
+    }
+  ],
   "not_promoted": [
     "<reconciler: a candidate that got no page, and where its reading went>"
   ],
