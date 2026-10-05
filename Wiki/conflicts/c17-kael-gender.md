@@ -38,3 +38,11 @@ pages: ["kael"]
 **Found** while reconciling document 97, `2-kohaerenz-protokoll-konzeptentwicklung`; rows 2 to 4 were read before (documents 88, 91, 92) and their gender was recorded nowhere.
 
 **What would settle it:** the author's word. The question is in `Plan/questions-for-the-author.md`.
+
+## 2026-10-05 — `kohaerenz-protokoll-konzeptentwicklung`, 2025-05-04, the condensed concept
+
+**The condensed concept, the next day's rework of row 1, writes Kael female again and names the Heroine's Journey as a structure.**
+
+„Kael verkörpert diese Frage durch ihre“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L19] Multiplizität, it says of the question of identity; its genre field names „Heroine's Journey (Strukturierung der drei Akte)“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L35]. It gives no reason for the gender, as the other plans of the table do not.
+
+Stands as a seventh source of the table: a plan of 2025-05-04 with Kael female (`ihre`, the Heroine's Journey); recorded, not applied.
