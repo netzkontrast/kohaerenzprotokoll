@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: C11
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -81,6 +81,10 @@ The blueprint's heading glosses the world: „KW2: Mnemosyne-Archipel (The Reson
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — KW2, written Mnemosyne-Archipel / Resonanz-Landschaft
 
 The second Core World is written „KW2: Mnemosyne-Archipel / Resonanz-Landschaft“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97]. Its principle is „Trauma & Emotional Memory (EPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97], its sensory signature „Fluid, decaying, resonant, fragmented“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97], and its somatic truth „The body speaking the unfiltered, pre-verbal language of trauma and its true contradictions.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the second Kernwelt: McL, the EPs and trauma
+
+The Leitfragen report (an analyst's review) places the EPs in the Resonanz-Landschaft as „Welt 2“ — in its words, „Resonanz-Landschaft (Welt 2)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L48] — as its account of the project's documents. Its table row reads „Resonanz-Landschaft (McL)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93], with „EPs, Trauma, Subjektivität“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93], the Guardian Mnemosyne, the paradigm „McLaughlin-Graph, Relationalität“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93] and, for the transition, „Kaskadierender Glitch“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93] under the heading of an open mechanism. The report asks and settles nothing.
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the row KW2 Mnemosyne-Archipel, written under the Guardian-built name only
 
