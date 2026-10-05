@@ -77,6 +77,78 @@ class Component extends DCLogic {
     this.setState(patch);
   }
 
+  // The state as a URL, on the website only: `#/wiki/aegis`, `#/conflicts/C2`, `#/process/decisions/022`.
+  // Stable ids, never list positions, so a link survives the next rebuild. A frame inside the canvas
+  // (window.top !== window) neither reads nor writes the address, and a hash not starting `#/` is a
+  // section anchor in the reader, left to the browser.
+  routable() { try { return typeof window !== 'undefined' && window.top === window; } catch (e) { return false; } }
+
+  route() {
+    const D = this.kp();
+    const s = this.st();
+    const screen = s.screen || this.props.screen || 'now';
+    const e = encodeURIComponent;
+    let tail = '';
+    if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s);
+    else if (screen === 'conflicts' && s.conf != null) tail = D.conflicts[s.conf].id;
+    else if (screen === 'questions' && s.ques != null) tail = s.ques === -1 ? 'agenda' : D.questions[s.ques].id;
+    else if (screen === 'corpus' && s.crow != null && s.crow >= 0) tail = e(D.rows[s.crow].slug);
+    else if (screen === 'graph' && s.gsel != null && s.gsel >= 0) {
+      const n = D.graph.nodes[s.gsel];
+      const id = n.k === 'term' ? D.pages[n.ref].s : n.k === 'doc' ? D.docs[n.ref].slug
+        : n.k === 'conflict' ? D.conflicts[n.ref].id : D.questions[n.ref].id;
+      tail = n.k + '/' + e(id);
+    } else if (screen === 'process') {
+      const ptab = s.ptab || 'loop';
+      tail = ptab;
+      if (ptab === 'decisions' && s.pdec != null) tail += '/' + e(D.decisions[s.pdec].id);
+      if (ptab === 'principles' && s.pprin != null) tail += '/' + e(D.principles[s.pprin].id);
+      if (ptab === 'compare' && s.pcmp != null) tail += '/' + e(D.compare[s.pcmp].k);
+    }
+    return '#/' + screen + (tail ? '/' + tail : '');
+  }
+
+  unroute(hash) {
+    if (!hash || hash.indexOf('#/') !== 0) return null;
+    const D = this.kp();
+    const parts = hash.slice(2).split('/').map((x) => { try { return decodeURIComponent(x); } catch (err) { return x; } });
+    const screen = parts[0];
+    const at = (list, key, v) => list.findIndex((x) => x[key] === v);
+    const st = { screen: screen, q: '' };
+    if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) st.page = i; }
+    else if (screen === 'conflicts' && parts[1]) { const i = at(D.conflicts, 'id', parts[1]); if (i >= 0) st.conf = i; }
+    else if (screen === 'questions' && parts[1]) {
+      const i = parts[1] === 'agenda' ? -1 : at(D.questions, 'id', parts[1]);
+      if (i >= -1 && !(i === -1 && parts[1] !== 'agenda')) st.ques = i;
+    } else if (screen === 'corpus' && parts[1]) { const i = D.rowBySlug[parts[1]]; if (i != null) st.crow = i; }
+    else if (screen === 'graph' && parts[2]) {
+      const k = parts[1];
+      const ref = k === 'term' ? at(D.pages, 's', parts[2]) : k === 'doc' ? at(D.docs, 'slug', parts[2])
+        : k === 'conflict' ? at(D.conflicts, 'id', parts[2]) : k === 'question' ? at(D.questions, 'id', parts[2]) : -1;
+      const n = ref >= 0 && D.nodeOf[k] ? D.nodeOf[k][ref] : undefined;
+      if (n != null) st.gsel = n;
+    } else if (screen === 'process' && parts[1]) {
+      st.ptab = parts[1];
+      const list = { decisions: [D.decisions, 'id', 'pdec'], principles: [D.principles, 'id', 'pprin'], compare: [D.compare, 'k', 'pcmp'] }[parts[1]];
+      if (list && parts[2]) { const i = at(list[0], list[1], parts[2]); if (i >= 0) st[list[2]] = i; }
+    }
+    return ['now', 'wiki', 'conflicts', 'questions', 'graph', 'corpus', 'process'].indexOf(screen) >= 0 ? st : null;
+  }
+
+  componentDidMount() {
+    if (!this.routable()) return;
+    this._onHash = () => {
+      const st = this.unroute(window.location.hash);
+      if (st && window.location.hash !== this.route()) { this._fromUrl = true; this.setState(st); }
+    };
+    window.addEventListener('hashchange', this._onHash);
+    this._onHash();
+  }
+
+  componentWillUnmount() {
+    if (this._onHash) window.removeEventListener('hashchange', this._onHash);
+  }
+
   fmt(n) { return typeof n === 'number' ? n.toLocaleString('en-US') : String(n); }
 
   txt(rs) {
@@ -170,18 +242,18 @@ class Component extends DCLogic {
     const s = this.st();
     const V = D.val;
     const fmt = (n) => this.fmt(n);
-    const SCREENS = ['now', 'wiki', 'conflicts', 'questions', 'graph', 'corpus', 'process'];
+    const SCREENS = ['now', 'wiki', 'conflicts', 'questions', 'manuscript', 'graph', 'corpus', 'process'];
     let screen = s.screen || this.props.screen || 'now';
     if (SCREENS.indexOf(screen) < 0) screen = 'now';
     const uid = 'kp-' + (this.props.screen || 'main');
     const ptab = s.ptab || 'loop';
     const is = {
       now: screen === 'now', wiki: screen === 'wiki', conflicts: screen === 'conflicts', questions: screen === 'questions',
-      graph: screen === 'graph', corpus: screen === 'corpus', process: screen === 'process',
+      graph: screen === 'graph', corpus: screen === 'corpus', process: screen === 'process', manuscript: screen === 'manuscript',
     };
     is.procList = is.process && (ptab === 'compare' || ptab === 'decisions' || ptab === 'principles' || ptab === 'now' || ptab === 'goal');
-    is.readerLayout = is.wiki || is.conflicts || is.questions || is.process;
-    is.left = is.wiki || is.conflicts || is.questions || is.procList;
+    is.readerLayout = is.wiki || is.conflicts || is.questions || is.process || is.manuscript;
+    is.left = is.wiki || is.conflicts || is.questions || is.procList || is.manuscript;
     is.rail = is.wiki || is.conflicts || is.questions;
     is.loop = is.process && ptab === 'loop';
     is.checks = is.process && ptab === 'checks';
@@ -199,6 +271,7 @@ class Component extends DCLogic {
       wiki: navItem('wiki', String(D.pages.length)),
       conflicts: navItem('conflicts', openC + ' open'),
       questions: navItem('questions', String(D.questions.length)),
+      manuscript: navItem('manuscript', String(D.manuscript.filter((m) => !m.readme).length)),
       graph: navItem('graph', String(D.graph.nodes.length)),
       corpus: navItem('corpus', String(D.rows.length)),
       process: navItem('process', ''),
@@ -223,6 +296,7 @@ class Component extends DCLogic {
       wiki: ['Wiki', D.pages.length + ' candidate pages · every reading attributed and unmerged · where sources disagree, a page says so and stops'],
       conflicts: ['Conflicts', D.conflicts.length + ' append-only records of two sources that cannot both hold · a record decides nothing; the author does'],
       questions: ['Questions', 'What several pages ask and no source read so far answers · and everything noted for the author'],
+      manuscript: ['Manuscript', 'The novel’s drafts in Manuscript/ · none is canon or a voice reference until the author approves it'],
       graph: ['Knowledge graph', D.graph.nodes.length + ' nodes · ' + fmt(D.graph.edges.length) + ' typed edges · each carries the file line that states it; none is inferred'],
       corpus: ['Corpus', D.rows.length + ' Drive documents in the manifest · ' + V('sources.landed') + ' landed as Markdown · ' + D.docs.length + ' read'],
       process: ['Process', 'The loop that extends the wiki, the checks that keep it honest, and the rules behind both'],
@@ -312,6 +386,7 @@ class Component extends DCLogic {
     const wr = { toc: [], tocN: 0, out: [], outN: 0, outNone: true, inn: [], inN: 0, inNone: true, cx: [], hasCx: false, qx: [], hasQx: false, reads: [], sf: [], hasSf: false, evN: 0, evV: 0, evU: 0, evX: 0, ev0: 0, ev1: 0, ev2: 0, graph: null };
     const cl = { list: [], head: '', sub: '' };
     const cr = { hasNp: false, q: [], pos: [], decided: false, status: '', pages: [], pagesN: 0, qs: [], hasQs: false, path: '', first: '', src: '' };
+    const ml = { list: [], head: '', sub: '', empty: false };
     const ql = { list: [], agenda: { bg: 'transparent', bd: 'transparent', go: null, cur: undefined } };
     const qr = { isQ: false, isAgenda: false, raised: [], raisedN: 0, docs: [], docsN: 0, conf: [], hasConf: false, path: '', decided: [], counts: '', intro: [] };
     const pl = { head: '', sub: '', items: [] };
@@ -443,6 +518,33 @@ class Component extends DCLogic {
       cr.path = 'Wiki/conflicts/' + c.f + '.md';
       cr.first = c.first;
       cr.src = c.src;
+    }
+
+    if (is.manuscript) {
+      const drafts = D.manuscript.filter((m) => !m.readme).length;
+      const words = D.manuscript.filter((m) => !m.readme).reduce((n, m) => n + m.w, 0);
+      ml.head = drafts + ' drafts';
+      ml.sub = fmt(words) + ' words · rendered from Manuscript/ as written; an overview page opens each folder';
+      ml.empty = D.manuscript.length === 0;
+      const sel = s.ms == null ? Math.max(0, D.manuscript.length - 1) : s.ms;
+      ml.list = D.manuscript.map((m, i) => {
+        const on = i === sel;
+        return {
+          id: m.part ? m.part.replace(/^kap-0?/, 'K') : '—', main: m.t.replace(/^Kap \d+ — /, ''),
+          sub: m.readme ? 'overview · ' + m.f : fmt(m.w) + ' words · ' + m.f.split('/').pop(),
+          idc: m.readme ? '#645F53' : '#B0341E', bg: on ? '#FBFAF6' : 'transparent', bd: on ? '#C9C0AC' : 'transparent',
+          cur: on ? 'true' : undefined, go: () => this.setState({ ms: i }),
+        };
+      });
+      const m = D.manuscript[sel];
+      if (m) {
+        rd = {
+          kicker: 'Manuscript · ' + m.f, title: m.t.replace(/`/g, ''), tsz: m.t.length > 56 ? 30 : 36,
+          hasSub: false, sub: '',
+          chips: [m.readme ? this.chip('overview') : this.chip('draft', 'rubric'), this.chip(fmt(m.w) + ' words'), this.chip('not canon')],
+          secs: this.secs(m.lede, m.sec, uid + '-m' + sel), maxW: 700, key: 'ms:' + sel,
+        };
+      }
     }
 
     if (is.questions) {
@@ -826,12 +928,23 @@ class Component extends DCLogic {
       ids: { search: uid + '-search', wq: uid + '-wq', cq: uid + '-cq' },
       q: q, onQ: onQ, onQKey: onQKey, sr: sr,
       now: now, rd: rd, readerRef: this._refCb,
-      w: w, wr: wr, cl: cl, cr: cr, ql: ql, qr: qr, pl: pl, proc: proc, loop: loop, chk: chkv,
+      w: w, wr: wr, cl: cl, cr: cr, ml: ml, ql: ql, qr: qr, pl: pl, proc: proc, loop: loop, chk: chkv,
       g: g, cp: cp,
     };
   }
 
   componentDidUpdate() {
+    if (this.routable()) {
+      const h = this.route();
+      const cur = window.location.hash;
+      // A section anchor (`#lede`, not `#/…`) stays until the state itself moves on.
+      if (h !== cur && (cur.indexOf('#/') === 0 || this._lastRoute !== h)) {
+        if (this._fromUrl) window.history.replaceState(null, '', h);
+        else window.history.pushState(null, '', h);
+      }
+      this._lastRoute = h;
+      this._fromUrl = false;
+    }
     if (this._reader && this._rdKey !== this._rdShown) {
       this._reader.scrollTop = 0;
       // Narrow screens scroll the page, not the reader pane (the media query in ui.html): a new

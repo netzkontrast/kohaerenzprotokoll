@@ -24,6 +24,7 @@ graph and wiki that helps write the novel.
 |---|---|
 | `Sources/` | the research documents from Drive and the manifest that indexes them — the only layer that is true — and, beside each document read, its census and its note |
 | `Wiki/` | term pages derived from those sources, conflict records, question pages, and the record of each reconciliation |
+| `Manuscript/` | the novel's drafts, one folder per chapter — prose, not research, and none of it canon until the author approves it (decision 023) |
 | `Plan/` | how the work is done: concepts, decisions, learnings, and every artifact of every run |
 | `scripts/` | the tools, one job each |
 | `.agents/skills/` | this project's skills; `.claude/skills/` links to them and holds the vendored ones |

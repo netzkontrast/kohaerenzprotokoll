@@ -52,7 +52,15 @@ root sized as its `$preview`; the `support.js` head line exact; `data-props`
 valid JSON; every link, citation and relation in the data pointing at something
 that exists; and the counts equal to the measurements. The component's syntax is
 checked with `node --check` when `node` is present, and said to be unchecked when
-it is not.
+it is not; with node, every item is also taken to its address and back (below).
+
+## Addresses
+
+On the website (not inside a canvas frame) the app keeps its state in the URL:
+`#/wiki/<slug>`, `#/conflicts/C2`, `#/questions/Q3` or `#/questions/agenda`,
+`#/corpus/<slug>`, `#/graph/<term|doc|conflict|question>/<id>`, `#/process/<tab>[/<id>]`.
+Stable ids, never list positions, so a link survives a rebuild; the back button
+retraces the screens; a hash not starting `#/` is a section anchor and is left alone.
 """
 
 from __future__ import annotations
@@ -90,12 +98,14 @@ PAGES, CONFLICTS, QUESTIONS = subject.PAGES, subject.CONFLICTS, subject.QUESTION
 COMPARE = ROOT / "Wiki" / "compare"
 RUNS_DIR = ROOT / "Plan" / "runs"
 DECISIONS = ROOT / "Plan" / "decisions"
+MANUSCRIPT = ROOT / "Manuscript"
 TOOLS = ROOT / ".agents" / "skills" / "tools" / "SKILL.md"
 CANVAS_URL = "https://claude.ai/artifact/1EyhQkX3MpiRTw3TxjTjYL"
 
-SCREENS = ["now", "wiki", "conflicts", "questions", "graph", "corpus", "process"]
+SCREENS = ["now", "wiki", "conflicts", "questions", "manuscript", "graph", "corpus", "process"]
 FRAMES = [("Main.dc.html", "now", "Now — the app (entry)"), ("Wiki.dc.html", "wiki", "Wiki"),
           ("Conflicts.dc.html", "conflicts", "Conflicts"), ("Questions.dc.html", "questions", "Questions"),
+          ("Manuscript.dc.html", "manuscript", "Manuscript"),
           ("Graph.dc.html", "graph", "Knowledge graph"), ("Corpus.dc.html", "corpus", "Corpus"),
           ("Process.dc.html", "process", "Process")]
 WIDTH, HEIGHT = 1440, 900
@@ -444,6 +454,24 @@ def _section(text: str, head: str) -> str:
     return text[m.end():end.start() if end else len(text)]
 
 
+def _console(text: str) -> str:
+    """A paragraph whose lines hold no lowercase letter is a console's display (`ZUWEISUNG 388`,
+    `20,6 °C`): it keeps its line breaks as a preformatted block instead of running into one line."""
+    out, inside = [], False
+    for chunk in re.split(r"(\n\s*\n)", text):
+        if chunk.startswith("```") or chunk.count("```") % 2:
+            inside = not inside if chunk.count("```") % 2 else inside
+            out.append(chunk)
+            continue
+        lines = [ln for ln in chunk.split("\n") if ln.strip()]
+        if not inside and lines and not chunk.strip().startswith(("#", "|", ">", "-", "*", "[")) \
+                and all(not re.search(r"[a-zäöüß]", ln) and re.search(r"[A-ZÄÖÜ]", ln) for ln in lines):
+            out.append("```\n" + chunk.strip("\n") + "\n```")
+        else:
+            out.append(chunk)
+    return "".join(out)
+
+
 def _layout(nodes: list[dict], edges: list[list[int]]) -> None:
     """Documents pinned on an ellipse in reading order; the rest by force, seeded."""
     cx, cy, rx, ry = GRAPH_W / 2, GRAPH_H / 2, 392.0, 336.0
@@ -653,6 +681,16 @@ def export(checks: bool = True) -> dict:
         decisions.append({"id": path.stem[:3], "f": path.stem, "title": re.sub(r"^\d+ — ", "", title),
                           "date": field("Date"), "by": field("Decided by"), "status": field("Status"),
                           "lede": lede, "sec": secs})
+    # the manuscript: every draft in Manuscript/, rendered from its own markdown, nothing judged
+    manuscript = []
+    order = lambda p: (p.parent != MANUSCRIPT, p.parent.name, p.name != "README.md", p.name)  # noqa: E731
+    for path in sorted(MANUSCRIPT.rglob("*.md"), key=order) if MANUSCRIPT.is_dir() else []:
+        text = path.read_text(encoding="utf-8")
+        title, lede, secs = md.sections(_console(text))
+        manuscript.append({"f": path.relative_to(ROOT).as_posix(), "part": path.parent.name if path.parent != MANUSCRIPT else "",
+                           "t": title or path.stem, "readme": path.name == "README.md",
+                           "w": len(re.findall(r"\w+", text)), "lede": lede, "sec": secs})
+
     prin_text = (ROOT / "PRINCIPLES.md").read_text(encoding="utf-8")
     principles = []
     for chunk in re.split(r"^## ", prin_text, flags=re.M)[1:]:
@@ -750,7 +788,7 @@ def export(checks: bool = True) -> dict:
         "docs": docs, "pages": pages, "conflicts": conflicts, "questions": questions, "compare": compare,
         "agenda": agenda, "now": {"lede": now_lede, "sec": now_secs},
         "goal": {"title": goal_title, "lede": goal_lede, "sec": goal_secs},
-        "decisions": decisions, "principles": principles, "catalogue": catalogue,
+        "decisions": decisions, "principles": principles, "catalogue": catalogue, "manuscript": manuscript,
         "invariants": table_after("## 0 · Invariants"), "commands": table_after("## The commands, as combinations"),
         "phases": phases, "missing": missing,
         "checks": run_invariants(measured) if checks else [], "selftests": run_selftests() if checks else [],
@@ -832,7 +870,7 @@ def main_artboard(data: dict, template: str | None = None) -> str:
 
 def canvas_index() -> dict:
     gap, row2 = 80, HEIGHT + 420
-    place = [(0, 0), (1, 0), (2, 0), (3, 0), (0, 1), (1, 1), (2, 1)]
+    place = [(0, 0), (1, 0), (2, 0), (3, 0), (4, 0), (0, 1), (1, 1), (2, 1)]
     boards = {}
     for (name, _, title), (col, row) in zip(FRAMES, place):
         boards[name] = {"x": col * (WIDTH + gap), "y": row * row2, "w": WIDTH, "h": HEIGHT,
@@ -842,7 +880,7 @@ def canvas_index() -> dict:
         "title": "Kohärenz Protokoll UI", "launch": {"view": "canvas"}, "pages": [], "boards": boards,
         "order": [name for name, _, _ in FRAMES],
         "notes": {
-            "row1": {"x": 0, "y": -300, "kind": "title1", "maxW": 4 * WIDTH + 3 * gap,
+            "row1": {"x": 0, "y": -300, "kind": "title1", "maxW": 5 * WIDTH + 4 * gap,
                      "text": "Kohärenz Protokoll — the whole project as one app: what the sources say, and what waits on the author"},
             "row2": {"x": 0, "y": row2 - 300, "kind": "title1", "maxW": 3 * WIDTH + 2 * gap,
                      "text": "The graph, the corpus, and the process that keeps the wiki honest"},
@@ -1031,6 +1069,47 @@ def check_script(data: dict, js: str | None = None) -> tuple[list[str], str]:
     return [], "the component's syntax checked with node --check"
 
 
+ROUTE_HARNESS = """
+const c = new Component(); c.props = {}; c.state = {};
+const D = c.kp(); const bad = [];
+const rt = (st, label) => {
+  c.state = Object.assign({}, st); const h = c.route(); const back = c.unroute(h);
+  c.state = back || {}; const h2 = back ? c.route() : null;
+  if (h2 !== h) bad.push(label + ': ' + h + ' comes back as ' + h2);
+};
+['now', 'wiki', 'conflicts', 'questions', 'graph', 'corpus', 'process'].forEach((x) => rt({ screen: x }, 'screen ' + x));
+D.pages.forEach((x, i) => rt({ screen: 'wiki', page: i }, 'page ' + x.s));
+D.conflicts.forEach((x, i) => rt({ screen: 'conflicts', conf: i }, 'conflict ' + x.id));
+D.questions.forEach((x, i) => rt({ screen: 'questions', ques: i }, 'question ' + x.id));
+rt({ screen: 'questions', ques: -1 }, 'the agenda');
+D.rows.forEach((x, i) => rt({ screen: 'corpus', crow: i }, 'row ' + x.slug));
+D.graph.nodes.forEach((x, i) => rt({ screen: 'graph', gsel: i }, 'node ' + x.label));
+D.decisions.forEach((x, i) => rt({ screen: 'process', ptab: 'decisions', pdec: i }, 'decision ' + x.id));
+D.principles.forEach((x, i) => rt({ screen: 'process', ptab: 'principles', pprin: i }, 'principle ' + x.id));
+D.compare.forEach((x, i) => rt({ screen: 'process', ptab: 'compare', pcmp: i }, 'record ' + x.k));
+console.log(JSON.stringify(bad));
+"""
+
+
+def check_routes(data: dict, js: str | None = None) -> tuple[list[str], str]:
+    """(problems, what was checked). Every page, conflict, question, row, graph node, decision,
+    principle and record taken to its address (`route()` in ui.js) and back (`unroute()`): an
+    address that does not lead back to what made it is a link that opens the wrong thing."""
+    node = shutil.which("node")
+    if not node:
+        return [], "the addresses were NOT checked: node is not installed"
+    stub = "class DCLogic { constructor() { this.props = {}; this.state = {}; } setState(p) { Object.assign(this.state, p); } }\n"
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "routes.js"
+        path.write_text(stub + data_script(data, js) + ROUTE_HARNESS, encoding="utf-8")
+        proc = subprocess.run([node, str(path)], capture_output=True, text=True)
+    if proc.returncode:
+        return [f"addresses: {(proc.stderr.strip().splitlines() or ['the harness failed'])[-1]}"], "addresses"
+    bad = json.loads(proc.stdout.strip().splitlines()[-1])
+    return [f"address — {b}" for b in bad[:10]] + ([f"address — and {len(bad) - 10} more"] if len(bad) > 10 else []), \
+        "every item's address taken there and back with node"
+
+
 def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[str]]:
     """(problems, notes) for what `build` wrote."""
     project = out / "canvas" / "project"
@@ -1044,7 +1123,8 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
     data = data if data is not None else json.loads((out / "data.json").read_text(encoding="utf-8"))
     problems += check_data(data)
     script_problems, note = check_script(data)
-    return problems + script_problems, [note]
+    route_problems, route_note = check_routes(data) if not script_problems else ([], "addresses not checked: the syntax failed")
+    return problems + script_problems + route_problems, [note, route_note]
 
 
 # ---------------------------------------------------------------- selftest
@@ -1092,6 +1172,10 @@ def selftest() -> tuple[list[str], list[str]]:
             syntax, _ = check_script(data, broken_js)
             if not syntax:
                 failures.append("a syntax error in the component: not reported by node --check")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("if (i >= 0) st.conf = i;", "", 1)
+            lost, _ = check_routes(data, lost_js)
+            if not any("conflict C1" in p for p in lost):
+                failures.append(f"an address that loses its conflict: not reported — got {lost[:2]}")
         else:
             unrun.append("node absent: the syntax case did not run")
     return failures, unrun
@@ -1107,7 +1191,7 @@ def main(argv: list[str]) -> int:
         for u in unrun:
             print(f"  not run  {u}")
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
-              "(clean build, 6 markup, 2 data, 1 syntax)")
+              "(clean build, 6 markup, 2 data, 1 syntax, 1 address)")
         return 1 if failures else 0
     data = build(OUT, checks="--no-checks" not in argv)
     project = OUT / "canvas" / "project"

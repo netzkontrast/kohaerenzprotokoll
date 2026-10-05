@@ -22,8 +22,8 @@
 # --prose` cannot check a file that is not markdown.
 
 global_context: >
-  A German hard-SF novel and its research corpus. Only the wiki is being built;
-  the novel rests. Canon prose is German and is never translated. Sources/ is
+  A German hard-SF novel and its research corpus. The wiki is being built,
+  and the first chapter is drafted in Manuscript/. Canon prose is German and is never translated. Sources/ is
   immutable research fetched from Google Drive; Wiki/ is derived term pages a
   person promotes. Search finds a place to look — every number in a page comes
   from a counting script instead.
@@ -48,6 +48,16 @@ collections:
         file, named by slug. The corpus the wiki is derived from. Never edited,
         and duplicate exports have been folded away — a count over these files
         is a count over documents.
+
+  manuscript:
+    path: Manuscript
+    pattern: "**/*.md"
+    context:
+      "": >
+        The novel's drafts, one folder per chapter, German prose (decision 023).
+        No draft is canon until the author approves it, and none is research:
+        a passage found here says what a draft wrote, not what the sources say.
+        Each chapter's README.md says what its drafts decide against the sources.
 
   wiki:
     path: Wiki
