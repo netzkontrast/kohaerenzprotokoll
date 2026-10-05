@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -58,6 +58,14 @@ Position: Teil III; setting from the `Schauplatz` field: „Der Vorhof von AEGIS
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, alle Alters“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L317]
 - Story: the blueprint plans, in `Plot-Beats`, „AEGIS nutzt eine letzte Waffe“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L319] and „Die Alters drohen sich gegenseitig zu bekämpfen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L319]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das Fundament
+
+Title: „Das Fundament“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L401] — heading „Kontakt mit dem Urgrund“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L402]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael (erleuchtet, Gnosis)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L403]; place from `Ort`: „Das absolute Zentrum“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L405]
+
+- Story: the matrix plans „Kurz vor AEGIS berührt Kael“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L407]
+- Question: „Was liegt unter allem?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L406]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
