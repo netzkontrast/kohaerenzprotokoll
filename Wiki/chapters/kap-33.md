@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,15 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kaels Umgebung wird zu einer sich ständig verändernden Alptraumlandschaft (Architekten aus Kapitel 30).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453]
 - Story: „Traumatische Erinnerungen werden unerbittlich ausgelöst (Kapitel 28).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453]
 - Story: „Kaels Bewusstsein direkt wieder zu 'fragmentieren'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453] · „Kael wird an seine absolute Grenze getrieben“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Apotheosis
+
+Title: „Apotheose“ ^[romanstruktur-und-philosophische-einleitung.md:L252]
+Position: Teil III, „Integration von Fragment 'O'“ ^[romanstruktur-und-philosophische-einleitung.md:L252]
+
+- Story: „Er begegnet einem abgespaltenen Teil, der fundamental anders ist (Asymmetrie).“ ^[romanstruktur-und-philosophische-einleitung.md:L254]
+- Story: „Es ist nicht der verlorene Zwilling oder Seelenpartner, sondern das Fremde im Eigenen.“ ^[romanstruktur-und-philosophische-einleitung.md:L254]
+- Story: „Kael erkennt, dass Kohärenz nicht Gleichschaltung bedeutet“ ^[romanstruktur-und-philosophische-einleitung.md:L256]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
