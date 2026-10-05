@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 20
-readings: 21
+sources: 21
+readings: 22
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse"]
 gathered: "2026-09-17"
 ---
 
@@ -46,6 +46,10 @@ This is a report of another document (its reference 87). The report says the ana
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Kap 33
 
 Kap 33 of the outline of 2026-05-01 puts it at the edge of the city: „Vor ihm: das Potentialmeer“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L310] identified as `KW4`, the foundation.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — named in the Vortex directive
+
+In the Vortex directive (§4.1, step 3, `Lösung zu C.4`) Kael experiences the trauma on the mythic scale as „die Abspaltung des Ichs vom Potentialmeer“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L83]
 
 ## Open
 
