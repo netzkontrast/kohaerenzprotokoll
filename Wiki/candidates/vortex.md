@@ -1,10 +1,10 @@
 ---
 term: Vortex
 status: candidate
-sources: 31
-readings: 31
+sources: 32
+readings: 32
 conflict: C7, C11, C14
-ingested: ["dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out"]
 gathered: "2026-09-25"
 ---
 
@@ -57,6 +57,14 @@ The Genesis is told explicitly „explizit im Vortex (Kap 35–36) als gleichzei
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Act III's crescendo to Kap 36
 
 The outline of 2026-05-01 plans Act III as „Crescendo bis Kap 36 (Vortex)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L374] followed by a decrescendo; Kap 37 opens „Nach dem Vortex“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330]
+
+## Reading — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt — the Vortex as five beats set as given, with two chapter ranges
+
+The prompt sets the Vortex as a given value of Constraint Block 4, under the heading „Vortex-Architektur (Kapitel 35–36, fünf Beats — kanonisch festgelegt)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L342] The beats it lists: „Convergence — Mnemosyne-Archipel als Setting → AEGIS-Erasure-Sweep läuft an.“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L344]; the second is Pivot, with Kael switching to A-Logik; the third is „Stille als lebende Dialetheia — der Witness-Moment.“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L346]; the fifth is „Rotation — Übergang zu Algorithmischer Melancholie (AEGIS' Endzustand).“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L348]
+
+The driver pivot sits inside them: „Driver-Pivot Action→Decision flippt während dieser fünf Beats.“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L352] and the Storyform B table writes the same pivot with a range: „Action → Decision flippt am Vortex (Kapitel 35–36)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L334]
+
+The prompt's list of chapters that receive the pivot-marker block gives a wider range: „Vortex-Korridor: 33, 34, 35, 36, 37“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L561] Both ranges stand in the prompt without a remark; this reading records both and decides nothing.
 
 ## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
@@ -505,6 +513,7 @@ person or an alter's first (L805). The philosophischer Bericht has AEGIS' first 
 Storyform B collapse into the third in the Vortex (its L292, L627), and elsewhere gives AEGIS the
 third person without the storyform (L507). That touches **C14**.
 - `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29: the climax is called Vortex-Inversion and runs from Kael's dropped barriers through the Landauer Heat Spike and AEGIS' destruction by its own heat to a silence that stays intact at the end of the collapse; the audit numbers no beats (`Beat` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0]).
+- The research prompt gives the Vortex as Kapitel 35–36 with five beats (Constraint Block 4) and lists a „Vortex-Korridor: 33, 34, 35, 36, 37“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L561] among its pivot chapters.
 
 ## Open
 
