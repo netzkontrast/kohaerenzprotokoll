@@ -1,0 +1,282 @@
+{
+  "document": "outline-2",
+  "drive_id": "1I5alNL9AbvjY1L9eDko9CKtY_wHPfv2mpN-EWSYaRGM",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 44,
+  "backslash_escapes": 80,
+  "typographic_marks": 46,
+  "ascii_quotes": 16,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systemdynamik",
+      "Systeme",
+      "Systemfehler",
+      "Systemfehlers",
+      "Systemgrenzen",
+      "Systeminstabilität",
+      "Systemintervention",
+      "Systemischer",
+      "Systemisches",
+      "Systemkrise",
+      "Systemlegitimität",
+      "Systemmanipulation",
+      "Systemreaktion",
+      "Systemreaktionen",
+      "Systems",
+      "Systemtheorie",
+      "Systemverständnis",
+      "Systemweite",
+      "Systemwissen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Interfaces",
+      "Internal",
+      "Interne",
+      "Interner",
+      "Intervention"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollierte",
+      "Kontrollmechanismen",
+      "Kontrollmethoden",
+      "Kontrollobjekt",
+      "Kontrollverlust",
+      "Kontrollwunsch",
+      "Kontrollzentrum"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsebene",
+      "Bewusstseinszentrum",
+      "Bewusstwerdung"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfragmente",
+      "Erinnerungsfragmenten",
+      "Erinnerungsmanipulation",
+      "Erinnerungsrekonstruktion",
+      "Erinnerungssuche"
+    ],
+    "angst": [
+      "Angst",
+      "Angstbewältigung",
+      "Angstkonfrontation",
+      "Angstkontrolle",
+      "Angstlogik",
+      "Angstmechanismen"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionalität",
+      "Emotionen",
+      "Emotions",
+      "Emotionsanalyse"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitäts",
+      "Realitätsebene",
+      "Realitätsfragen",
+      "Realitätsnatur"
+    ],
+    "strat": [
+      "Strategie",
+      "Strategien",
+      "Strategiewechsel",
+      "Strategische",
+      "Strategischer",
+      "Strategisches"
+    ],
+    "erken": [
+      "Erkennen",
+      "Erkenntnis",
+      "Erkenntnisse",
+      "Erkenntnissen",
+      "Erkenntnistheorie"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensform",
+      "Lebenskunst",
+      "Lebensweg"
+    ],
+    "moral": [
+      "Moralbewusstsein",
+      "Moralische",
+      "Moralisches",
+      "Morality",
+      "Moralphilosophie"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbrechen",
+      "Durchbruch",
+      "Durchbrüche"
+    ],
+    "exter": [
+      "Externe",
+      "Externen",
+      "Externer",
+      "Externes"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identifiziert",
+      "Identität",
+      "Identitätskrise"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentialität",
+      "Potenzial",
+      "Potenzielle"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsttäuschung",
+      "Selbstzerstörung",
+      "Selbstzweifel"
+    ],
+    "verte": [
+      "Verteidiger",
+      "Verteidigung",
+      "Verteidigungsebene",
+      "Verteidigungslinien"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrkräfte",
+      "Abwehrmechanismen"
+    ],
+    "aktiv": [
+      "Aktive",
+      "Aktives",
+      "Aktivierung"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtet",
+      "Beobachtung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanalyse",
+      "Datenströme"
+    ],
+    "dialo": [
+      "Dialogphilosophie",
+      "Dialogszene",
+      "Dialogversuche"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Alte",
+      "Verhalten"
+    ],
+    [
+      "Alte",
+      "Gestalters"
+    ],
+    [
+      "Alte",
+      "Alternative"
+    ],
+    [
+      "Back",
+      "Flashback"
+    ],
+    [
+      "Back",
+      "Feedbackschleifen"
+    ],
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Core",
+      "Score"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Entscheidende"
+    ],
+    [
+      "Fall",
+      "Fallen"
+    ],
+    [
+      "Fall",
+      "Falling"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Info",
+      "Infos"
+    ],
+    [
+      "Info",
+      "Information"
+    ]
+  ]
+}

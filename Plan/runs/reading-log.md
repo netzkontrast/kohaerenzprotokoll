@@ -619,7 +619,7 @@ whole-novel plans named there — `monstergruppe-primzahlen-plot-blueprint`,
 - **A number after a word cannot be quoted**: „bauen 39 Kapitel“ (L41) — the footnote rule drops `39`, so `read.py --find "39 Kapitel"` refuses the line. The census writes it as a term; the rule is `quotes.py`'s, unchanged.
 - **Retrieval**: PageRank recall@8 0.637 → 0.644, only Q5.
 
-Next: every item of *Reading suggestion — next* is read. Rerun `python3 scripts/chapter_sources.py run` so the chapter tables stop listing the seven documents read since, then choose from them — or one of the four whole-novel plans named there. `chapters.py missing` still lists 103 <!--state:chapters.missing--> single-`Kap` mentions.
+Next: every item of *Reading suggestion — next* is read. Rerun `python3 scripts/chapter_sources.py run` so the chapter tables stop listing the seven documents read since, then choose from them — or one of the four whole-novel plans named there. `chapters.py missing` still lists 104 <!--state:chapters.missing--> single-`Kap` mentions.
 
 ### Previous document — the Dual-Storyform background document reconciled
 
@@ -694,7 +694,7 @@ Next, by *Reading suggestion — next*: `kohaerenz-protokoll-philosophie-im-deta
 - **Chapter readings from table rows.** The rows are numbered without `Kap`, so `chapters.py missing` cannot see them; all 39 were read from the tables.
 - **The five scan readings of it stand** (`vortex`, `kishotenketsu`, `goedel-gambit`, `residual-echos`, `komponente-734`).
 
-Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 103 <!--state:chapters.missing--> single-`Kap` mentions.
+Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 104 <!--state:chapters.missing--> single-`Kap` mentions.
 
 ### Previous document — the annotated Kap 0 reconciled
 

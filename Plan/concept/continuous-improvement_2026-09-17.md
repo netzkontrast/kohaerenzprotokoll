@@ -156,7 +156,7 @@ standing unmarked in other pages 68 times.
 
 Decision 005 closed it. The wiki now carries 684 <!--state:wiki.relations-->
 links across 106 <!--state:wiki.pages--> pages, 19 <!--state:wiki.orphans-->
-orphans and 619 <!--state:wiki.unmarked--> mentions the pass may not touch,
+orphans and 620 <!--state:wiki.unmarked--> mentions the pass may not touch,
 because their first occurrence sits inside a quotation or a citation line.
 
 So DRG's extraction and graph modules stay unused, and its evaluation module is
