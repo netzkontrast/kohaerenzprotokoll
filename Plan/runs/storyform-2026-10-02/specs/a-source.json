@@ -1,0 +1,31 @@
+{
+ "classes": {
+  "MC": "Mind",
+  "IC": "Universe",
+  "OS": "Psychology",
+  "RS": "Physics"
+ },
+ "dynamics": {
+  "story_driver": "decision",
+  "story_outcome": "success",
+  "story_judgment": "good",
+  "story_limit": "optionlock",
+  "problem_solving_style": "holistic",
+  "main_character_resolve": "change",
+  "main_character_growth": "start",
+  "main_character_approach": "be_er"
+ },
+ "IC": {
+  "concern": "Past"
+ },
+ "OS": {},
+ "RS": {},
+ "_name": "a-source",
+ "_source": "Statusbericht 2026-05-07 §II.1, unverändert",
+ "MC": {
+  "concern": "Memory",
+  "issue": "Falsehood",
+  "problem": "Avoid",
+  "solution": "Pursuit"
+ }
+}

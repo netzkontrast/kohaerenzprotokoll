@@ -1,0 +1,31 @@
+{
+ "classes": {
+  "MC": "Universe",
+  "IC": "Mind",
+  "OS": "Physics",
+  "RS": "Psychology"
+ },
+ "dynamics": {
+  "story_driver": "action",
+  "story_outcome": "failure",
+  "story_judgment": "bad",
+  "story_limit": "timelock",
+  "problem_solving_style": "linear",
+  "main_character_resolve": "steadfast",
+  "main_character_growth": "stop",
+  "main_character_approach": "do_er"
+ },
+ "IC": {
+  "concern": "Conscious"
+ },
+ "OS": {},
+ "RS": {},
+ "_name": "b-source",
+ "_source": "Statusbericht 2026-05-07 §II.1, unverändert",
+ "MC": {
+  "concern": "Progress",
+  "issue": "Fact",
+  "problem": "Logic",
+  "solution": "Feeling"
+ }
+}

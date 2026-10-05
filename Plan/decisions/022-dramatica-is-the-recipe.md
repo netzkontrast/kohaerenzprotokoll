@@ -1,0 +1,59 @@
+# 022 — Dramatica is the recipe; the dual storyform of 2026-05-07 is the model
+
+**Date:** 2026-10-02 · **Decided by:** the author, step by step in one session · **Status:** in use
+
+## What was asked
+
+A check of „what we still need on the Dramatica side, see also NCP" found the two provisional NCP files
+(`Plan/runs/plot-2026-09-30/ncp/`) schema-valid and nearly empty — 9 of about 140 storypoints, 8 of 9 dynamics,
+no players, no signposts — and four inputs in dispute. The author asked to go through them one at a time,
+with the consequences of each option laid out.
+
+## What was chosen
+
+1. **W1 — A, with B as the check afterwards.** The storyform is the recipe the treatment is written from; once a
+   treatment exists, it is diagnosed against the models. Both storyforms therefore have to be complete before
+   the treatment. (`GOAL.md` §1.5 says „Theorie ist Diagnose, nicht Rezept"; this decision overrides it for the
+   novel's planning and keeps it for the check.)
+2. **The model of the status report of 2026-05-07** (`dramatica-dual-storyform-status-2026-05-07-md`, §II.1),
+   not the synthesis of 2026-04-28. A: MC Kael (Mind), IC Juna (Universe), OS Psychology, RS Physics; Decision,
+   Optionlock, Success/Good. B: MC AEGIS (Universe), IC Kael (Mind), OS Physics, RS Psychology (Kael–AEGIS);
+   Action, Timelock, Failure/Bad. This also settles A's class distribution.
+3. **C8 — AEGIS is a Do-er in B.** Kael stays a Be-er in A: the mirror inner/outer.
+4. **B's crucial element: Logic is the solution.** AEGIS holds to the right thing and the world fails anyway; the
+   OS problem of B is then Feeling. The report's element chain for B's MC (problem Logic, solution Feeling) no
+   longer stands and is chosen again.
+5. **The rule table follows Screenplay Systems' chart of 1995/1999**, which Narrative First's analyses share
+   at the level of types, variations and elements (Progress → Fact/Fantasy, Threat/Security). The author asked
+   for the newer Narrative First/Subtxt model; its difference — the order of signposts and progressions,
+   Justification Model v5.3 — is not published, so no signpost order is computed.
+6. **Kael in A (2026-10-05):** Memory → Suspicion ↔ Evidence → problem Inertia, solution Change, focus/direction
+   Order/Chaos (the AEGIS analysis already speaks of „Kaels innere Trägheit (Inertia)").
+7. **AEGIS in B:** Progress → Fantasy ↔ Fact → problem Test, solution Trust, never taken (the sources' Zero-Trust
+   sub-function); focus/direction Ending/Unending. Recommended by the session, confirmed by the author.
+8. **The overall stories.** A: goal/concern Conceptualizing (the only Psychology type holding the crucial element
+   Inertia), issue State of Being ↔ Sense of Self, problem Inertia, solution Change. B: goal/concern Obtaining (the
+   only Physics type holding Logic), issue Approach ↔ Attitude, problem Feeling, solution Logic. WP's goal candidate
+   Becoming for A no longer fits; Obtaining for B does.
+
+Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
+Vortex-Inversion (L137) is a candidate for that change. Open: the IC issues (step 9, asked and set aside by the
+author), the RS chains, signpost order, the remaining plot story points, the players. The specs are
+`Plan/runs/storyform-2026-10-02/specs/a-author.json` and `b-author.json`.
+
+## What the check found
+
+Against the chart (`Plan/runs/storyform-2026-10-02/dramatica.py`, self-test `held`, every pair cross-checked
+against the 1995 dictionary), **both source storyforms are illegal at the element level**: A's problem Avoid is not
+under its concern Memory, and B's problem Logic is not under its concern Progress. The report's check „Fact ⊂
+Progress ✓" (L64) is right; it did not check the element level.
+
+## What was rejected
+
+The synthesis of 2026-04-28 (Kael MC in both storyforms); a single storyform; Subtxt or Dramatica Story Expert as
+the engine (the author chose a local table); Be-er for AEGIS; Logic as AEGIS' problem.
+
+## What would change our mind
+
+A treatment written from the storyform that stays eventless (the risk W1 names for option A); a published
+Justification Model that places elements differently from the 1999 chart; the author's choice of Subtxt after all.

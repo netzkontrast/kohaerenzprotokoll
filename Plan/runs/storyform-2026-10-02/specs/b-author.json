@@ -1,0 +1,36 @@
+{
+ "classes": {
+  "MC": "Universe",
+  "IC": "Mind",
+  "OS": "Physics",
+  "RS": "Psychology"
+ },
+ "dynamics": {
+  "story_driver": "action",
+  "story_outcome": "failure",
+  "story_judgment": "bad",
+  "story_limit": "timelock",
+  "problem_solving_style": "linear",
+  "main_character_resolve": "steadfast",
+  "main_character_growth": "stop",
+  "main_character_approach": "do_er"
+ },
+ "IC": {
+  "concern": "Conscious"
+ },
+ "OS": {
+  "concern": "Obtaining",
+  "problem": "Feeling",
+  "solution": "Logic",
+  "issue": "Approach"
+ },
+ "RS": {},
+ "_name": "b-author",
+ "_source": "Autor 2026-10-02/05: Modell Bericht 05-07, Do-er, Logic = OS-Lösung, MC-Kette Progress/Fantasy/Test→Trust",
+ "MC": {
+  "concern": "Progress",
+  "issue": "Fantasy",
+  "problem": "Test",
+  "solution": "Trust"
+ }
+}

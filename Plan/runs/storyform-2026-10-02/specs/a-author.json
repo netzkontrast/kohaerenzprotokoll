@@ -1,0 +1,36 @@
+{
+ "classes": {
+  "MC": "Mind",
+  "IC": "Universe",
+  "OS": "Psychology",
+  "RS": "Physics"
+ },
+ "dynamics": {
+  "story_driver": "decision",
+  "story_outcome": "success",
+  "story_judgment": "good",
+  "story_limit": "optionlock",
+  "problem_solving_style": "holistic",
+  "main_character_resolve": "change",
+  "main_character_growth": "start",
+  "main_character_approach": "be_er"
+ },
+ "IC": {
+  "concern": "Past"
+ },
+ "OS": {
+  "concern": "Conceptualizing",
+  "issue": "State of Being",
+  "problem": "Inertia",
+  "solution": "Change"
+ },
+ "RS": {},
+ "_name": "a-author",
+ "_source": "Autor 2026-10-02/05: Modell Bericht 05-07, MC-Kette Memory/Suspicion/Inertia→Change",
+ "MC": {
+  "concern": "Memory",
+  "issue": "Suspicion",
+  "problem": "Inertia",
+  "solution": "Change"
+ }
+}
