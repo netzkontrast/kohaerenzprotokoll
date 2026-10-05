@@ -342,3 +342,11 @@ Where it stands in the record's own terms: a position on order only — the comp
 This is the document other sources call the Reset-Doc. The record already quotes a pointer „(Offene Frage Reset-Doc Appendix C: Braucht es einen 4. Beat? Aktueller“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L123]; in this document the fourth-beat question stands in F9 of §9, and its Appendix C holds C.1 to C.8, none of them about the beats.
 
 Where it stands in the record's own terms: three beats are this document's CORE form, a fourth beat is its open question F9, and nothing here answers it.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 proposes the layers of the origin trauma as one twist and leaves its place open.**
+
+Open point 1: „Genesis-Krise + Komponente 734 + Trennungsprotokoll als Triple-Layer-Twist“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382] marked „Zur Diskussion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382]
+
+Stands: a proposal in the outline's open points; it gives no beat count.
