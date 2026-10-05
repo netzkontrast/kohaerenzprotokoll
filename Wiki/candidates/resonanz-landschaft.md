@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C11
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -73,6 +73,10 @@ The manifest writes only the English name: „The second Core World is designate
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the Mnemosyne-Archipel as server substrate and site of the climax
 
 The audit writes the Mnemosyne-Archipel, not the Resonanz-Landschaft by name; the passages below are placed on the page as its second name, and the audit itself does not gloss them together. It is the „server substrate“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L6] to which Landauer's Principle is applied. It is the place of the audit's Axis II claim: „In the high-entropy environment of the Mnemosyne-Archipel“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L9], where „a monolithic consciousness is a liability“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L9]. The Risse are in it: the audit orders them read „as true contradictions“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L26]. The climax is placed there: „occurring within the server core of the Mnemosyne-Archipel“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L36].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Core World 2 as the outline names it, in Kap 6
+
+Kap 6 names it as a place: „ZTEM-Protokoll, Nyx (Alter), Core World 2 (Resonanzlandschaft).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L169] The beat has the transfer: „wird Kaels Bewusstsein zwangsweise in Core World 2 transferiert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L171]
 
 ## Open
 
