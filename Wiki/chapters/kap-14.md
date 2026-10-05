@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -94,6 +94,15 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „AEGIS' Sicht auf den Stress-Test“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220]; „Das System wird zum ersten Mal unsicher“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220]
 - Encoding A: „OS · SP2 (Conceptualizing) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220]
 - Foreshadowing: „AEGIS' Asymmetrie-Hitze (Vortex-Vorbote)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — System Analysis
+
+Title: „System Analysis“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L405]
+Position: Akt II; POV: „POV: Lex.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L413]
+
+- Story: the outline plans „Er erkennt das Halteproblem als den zentralen Fluch von AEGIS“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L411]
+- Concepts: „Halteproblem, Hybrid-Architektur“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L409]
+- Pivot-Marker: „SF-A Success flackert zum ersten Mal überlegen auf“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L437]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
