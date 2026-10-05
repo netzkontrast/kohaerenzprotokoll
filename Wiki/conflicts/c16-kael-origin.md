@@ -64,3 +64,11 @@ Where it stands in the record's own terms: a new position in the second telling,
 The entity's signature resonates „mit der latenten Signatur von Komponente 734 auf (dem Echo der Unvollständigkeit)“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L119], and the Ich in the component comes to want connection with it. Scene 10's goal is „Geburt von Kael als Mosaik, geprägt von Trauma“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L177] and „der fragmentierten Erinnerung/Sehnsucht nach der Entität“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L177]; the fragments carry „Bruchstücke der Erinnerung an die Zugehörigkeit zur Entität“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L191].
 
 Where it stands in the record's own terms: an inside origin with an outside pull — Kael the remainder of AEGIS's split self, born longing for the entity; the outline never names the entity and does not say Kael is a fragment of it. Recorded, not applied.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon sets Kael's split-off inside the architecture as CORE and drops the mathematical architecture from the canon.**
+
+In §3.3, beat 2: „Kael wird als Komponente 734 abgespalten“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114] and, as the line says, „eine Funktion innerhalb der Architektur, nicht außerhalb“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114] Beat 3: „Lebt als Mensch.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L115] §10 drops, as the Kanon's decision, „VOA + Leech-Lattice rank-24 + Orbifold + Monstergruppe + Chaitin Ω + 3-Layer-Witness als kanonische Architektur.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L583] — what remains is „Der Rest ist optionales Hinterzimmer-Material“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L583] The document calls itself the „alleinige strukturelle Grundlage“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L23]; that is its claim and does not settle the record.
+
+Where it stands in the record's own terms: a source that places Kael's origin inside the architecture, with the mathematics dropped; the position is its CORE statement.
