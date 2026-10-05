@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,14 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „AEGIS setzt einen neuen Typ von Guardian ein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414] · „'Architekten' mit tieferem Zugriff auf den Kerncode der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
 - Story: „Wände verschieben sich, die Physik biegt sich unvorhersehbar“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
 - Story: „absichtliche, gezielte Realitätsverformung als Waffe“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Meeting the mentor
+
+Title: „Begegnung mit dem Mentor“ ^[romanstruktur-und-philosophische-einleitung.md:L240]
+Position: Teil III, „Fragmente des Ursprungs“ ^[romanstruktur-und-philosophische-einleitung.md:L240]
+
+- Story: „Im tiefsten Code findet Kael Überreste des ursprünglichen Programmierers oder eines früheren, gelöschten Ichs.“ ^[romanstruktur-und-philosophische-einleitung.md:L242]
+- Story: „Diese Erkenntnis erlaubt Empathie mit dem Feind.“ ^[romanstruktur-und-philosophische-einleitung.md:L242]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
