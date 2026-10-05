@@ -99,3 +99,11 @@ Lia's Kernfunktion: „"Kaleidoskop-Herz"; trägt Trauma bezüglich Vertrauen; s
 Kiko's row reads „Flight, Freeze, Attachment Cry“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L129] and Lia's „Flight, Play, Ambivalent Attachment“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L130]; `Flight` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#2] stands on those two lines alone, and Isabelle's row is „Fight/Control through Sexualization“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L131]. The guide ties a Riss to the action system of the activated part: the glitch's physical properties, „they directly correspond to the TSDP action system of the activated EP“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L87], with no list of riss types and no spatial or sensory label.
 
 The pairing Kiko and Lia (rows 1, 6, 7), by action system and not by riss row; Isabelle is not paired with Lia here; the conflict stays open.
+
+## 2026-10-05 — `roman-konzept-kohaerenz-protokoll`, 2025-05-03, the Roman-Konzept
+
+**The Roman-Konzept's table gives flight to Kiko alone, as a TSDP function of an EP, and has no riss table.**
+
+Kiko's row, typed EP, names in its concept column „EP Funktion (Angst/Flucht)“ ^[roman-konzept-kohaerenz-protokoll.md:L69]. Of the table's ten rows this is the only one with `Flucht` ^[roman-konzept-kohaerenz-protokoll.md:#3]; Lia's row reads „EP Funktion (Bindungstrauma?)“ ^[roman-konzept-kohaerenz-protokoll.md:L70] and names no flight, and `Flight` ^[roman-konzept-kohaerenz-protokoll.md:#0] and `Isabelle` ^[roman-konzept-kohaerenz-protokoll.md:#0] do not occur. The word stands twice more, in chapter fields and not on a part: „Hoffnung auf Flucht/Wahrheit“ ^[roman-konzept-kohaerenz-protokoll.md:L181] at the Riss discovery, and, in the decision at the end of Act 1, „Veränderung/Flucht“ ^[roman-konzept-kohaerenz-protokoll.md:L199]. Those are the plan's story beats, not a bearer, so the table's single row holds. `Riss` ^[roman-konzept-kohaerenz-protokoll.md:#4] stands four times and is not tied to any part.
+
+Kiko alone by action-system function (row 1 pairs Kiko and Lia as bearers, rows 2 to 5 Lia and Isabelle); recorded, 2025-05-03, not applied; the conflict stays open.
