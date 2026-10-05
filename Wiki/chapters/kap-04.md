@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -66,6 +66,14 @@ Position: Teil I, „Juna als Echo“ ^[romanstruktur-und-philosophische-einleit
 
 - Story: Juna appears as an emotional anchor to the external level, in KW2 mostly as an echo: „Im Kontext von KW2 erscheint Juna oft nur als Echo“ ^[romanstruktur-und-philosophische-einleitung.md:L61]
 - Story: the three-part analysis reads the Kael–Juna dynamic as attachment trauma: „Dies ist der Kern der psychologischen Tragödie“ ^[romanstruktur-und-philosophische-einleitung.md:L63]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Korruptionsmarkierung
+
+Title: „Die Korruptionsmarkierung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L83]
+Position: Teil I; setting from the `Schauplatz` field: „Die Nahtstelle zwischen Logos-Prime und dem Mnemosyne-Archipel (KW2)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L85]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Rhys (Caretaker)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L86]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS stuft Kaels psychologische Intrusion (ein aufkommender Flashback) fehlerhaft als Datenkorruption ein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L88] and „tritt hervor, um Kael vor dem emotionalen Aufprall in einer nebligen, feuchten Landschaft zu dämpfen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L88]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
