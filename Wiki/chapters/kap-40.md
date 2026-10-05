@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 12
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 13
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,14 @@ Position: after Teil III, the „Der Kreis schließt sich“ ^[romanstruktur-und
 - Story: „Dieses Kapitel fungiert gleichzeitig als Epilog und als der Prolog, der dem Roman vorangestellt ist.“ ^[romanstruktur-und-philosophische-einleitung.md:L288]
 - Story: „wird nicht aus Bosheit aktiviert, sondern als physikalische Notwendigkeit“ ^[romanstruktur-und-philosophische-einleitung.md:L296] – the Trennungsprotokoll; then „Kael öffnet die Augen. Er steht in KW1.“ ^[romanstruktur-und-philosophische-einleitung.md:L306]
 - The introduction names it twice: „Dieser Bericht analysiert die“ ^[romanstruktur-und-philosophische-einleitung.md:L17] chapters „als eine geschlossene, rekursive Einheit“ ^[romanstruktur-und-philosophische-einleitung.md:L17], and „Am Ende steht die Synthese im“ ^[romanstruktur-und-philosophische-einleitung.md:L25] `Kapitel 40/0`.
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the coda Kapitel 40/0
+
+Title: „Kapitel 40/0: Die Ontologie der Null“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L380]
+Position: the coda `CODA: Die Rekursive Klammer`, after Teil III; the blueprint makes Kapitel 40 and Kapitel 0 one chapter, `Kapitel 40/0`, and gives it the one set of fields shown here; setting from the `Schauplatz` field: „Das absolute Nichts“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L382]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael (Meta-Perspektive)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L383]
+- Story: the blueprint plans, in `Plot-Beats`, „Der Moment nach dem Ende löst den Anfang aus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385] and „auf die Erinnerungen der Zukunft durch, um Kapitel 1 zu generieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
