@@ -49,15 +49,35 @@ Gewählt hast du:
   die beiden zusammen- und heute 10 Jahre später droht eine Trennung aus Liebe- das ist etwas was kael erst im Verlauf der
   Geschichte erinnert- Juna ist zunächst nur eine Erinnerung“
 
+**Runde 3, Mehrfachauswahl (2026-10-05).** Gewählt hast du:
+
+- **F9, warum die Trennung heute droht, „aus Liebe“:** „Kaels Zustand“ (seine Vielheit zerreißt die Nähe), „Juna gibt
+  ihn frei“ (sie geht, damit er heilt — die Stille aus dem Davor, wiederholt) und „Kael will sie schützen“ (er glaubt,
+  er schade ihr). Alle drei zugleich.
+- **F10, was Kael vergessen hat:** „Die zehn Jahre“. Er kennt nur das Davor und den Anruf; dass sie lebt und mit ihm
+  zusammen ist, ist abgespalten. Akt I: er kennt nur den Anruf; Akt II: Spuren der zehn Jahre; Kap 32: er trifft seine
+  Partnerin und erkennt sie.
+- **F11, AEGIS und Juna:** „AEGIS löscht den Schmerz“, „Juna ist draußen“, „Oblivion will vergessen“ — und „Noch offen“.
+  Festgehalten als drei Kandidaten, keiner entschieden: die drohende Trennung löst die Fragmentierung aus und AEGIS
+  „löscht“ Juna (der Anschluss aus Kap 1 wäre die Leitung zu ihr); Juna lebt außerhalb der Simulation; Oblivion arbeitet
+  am Vergessen.
+- **F12, Junas Need:** alle vier — sich selbst wichtig nehmen; sprechen statt schweigen; die Nähe aushalten; ihn ganz
+  sehen, mit allen Anteilen.
+
+**Was die Sitzung daran bemerkt, ohne es zu entscheiden:** Der Übergang 34/35 (Schritt 27: Kael lässt Juna gehen, er
+trennt die Verbindung selbst) ist mit F9 „Kael will sie schützen“ dieselbe Bewegung — die Trennung aus Liebe kehrt in
+der Gegenwart zurück, und diesmal ist es Kael, der schweigt und geht. Und W9 (erste Begegnung in der Gegenwart in Kap 32)
+heißt jetzt: Kael begegnet der Frau, mit der er seit Jahren lebt, und erkennt sie.
+
 ## Die Karte, so weit
 
 | Feld | Stand |
 |---|---|
 | Function | IC von Storyform A (Change), Signposts Past → Progress → Present → Future (Entscheidung 025) |
 | Want | Niemandem wehtun; Kael bewahren; etwas nur für sich (F6). Ihre erste Tat im Buch ist eine Wahl: Sie wählt ihre alte Beziehung (A3); Sprechen hätte diese Beziehung aufs Spiel gesetzt und es „für beide“ sehr schwierig gemacht (A4). |
-| Need | offen — Kandidat aus F7: sich selbst so viel Gewicht geben wie den anderen. Nicht bestätigt. |
+| Need | Sich selbst wichtig nehmen; sprechen statt schweigen; die Nähe aushalten; ihn ganz sehen, mit allen Anteilen (F12). Zieht gegen ihr Want (niemandem wehtun, Kael bewahren). |
 | Wound → Lie | Lüge: „Ich bin für die anderen da, nicht für mich.“ (F7). Wunde: offen. Angst: die Wucht des Gefühls, sich in so viel Nähe zu verlieren (F5). |
 | Contradiction | Kandidat, aus A3: Sie wählt die alte Beziehung, und das Urvertrauen zu Kael bleibt unberührt. Noch nicht als Widerspruch bestätigt. |
-| Arc | Zeitlinie (F8): der Anruf → zehn Jahre → die beiden sind inzwischen ein Paar → heute droht eine Trennung aus Liebe. Kael erinnert das erst im Lauf der Geschichte; Juna ist zuerst nur Erinnerung. |
+| Arc | Zeitlinie (F8, F10): der Anruf → zehn Jahre, die Kael vergessen hat → die beiden sind inzwischen ein Paar → heute droht eine Trennung aus Liebe. Kael erinnert das erst im Lauf der Geschichte; Juna ist zuerst nur Erinnerung. Die Trennung droht aus drei Gründen zugleich (F9). |
 | Voice | offen |
 | Relationships | Kael: „schon immer bekannt“, „Instant Urvertrauen“, über Zeit hinweg; Momente, „wo einfach Dinge klar waren ohne klar sein zu müssen“ (A2). Vorfreude auf stundenlange Telefonate (A1). |
