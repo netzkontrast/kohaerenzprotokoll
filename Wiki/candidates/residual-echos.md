@@ -1,10 +1,10 @@
 ---
 term: Residual-Echos
 status: candidate
-sources: 8
-readings: 6
+sources: 9
+readings: 7
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md", "textanalyse-existenz-system-und-leid", "einleitung-genesis-der-existenz"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md", "textanalyse-existenz-system-und-leid", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz"]
 gathered: "2026-09-25"
 ---
 
@@ -23,6 +23,10 @@ are in Kap 40.
 ## Reading — `einleitung-genesis-der-existenz`, 2025-04-29, the Genesis narrative — echoes of origin that are processed, not erased
 
 The narrator says of the closure: „Die alten Echos der Herkunft“ ^[einleitung-genesis-der-existenz.md:L95] are not erased but processed (L95), and the loneliness stays as a background noise. In `Die Krise` the remains of the Ursprungs-Ich are the „latenten Echos“ ^[einleitung-genesis-der-existenz.md:L143] (L143). The narrative does not write `Residual-Echos` ^[einleitung-genesis-der-existenz.md:#0].
+
+## Reading — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline — the echo of loneliness planned in the component, then amplified
+
+The outline does not write `Residual-Echos` ^[optimierte-plotline-genesis-der-existenz.md:#0] (zero). It plans an echo in the component: „Das Echo der Einsamkeit ist ein leises Summen“ ^[optimierte-plotline-genesis-der-existenz.md:L172], in scene 7 raised by the entity's pressure, when the component feels „ansteigende Vibration tief in ihrer eigenen Struktur“ ^[optimierte-plotline-genesis-der-existenz.md:L176], the echo of loneliness being amplified.
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the echoes of origin, tolerated as function and suppressed as variance
 
