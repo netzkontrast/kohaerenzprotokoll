@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 31
-readings: 29
+sources: 32
+readings: 30
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid"]
 gathered: "2026-09-25"
 ---
 
@@ -18,6 +18,10 @@ no side. They
 differ on when it is made, before the [[trennungsprotokoll|Trennungsprotokoll]] or
 as its result (C12). One source gives the designation to [[lex|Lex]]. And the
 sources do not settle what the bare number names in Kap 1.
+
+## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the Ich-Fragment become Komponente 734 at closure, before the protocol
+
+The Textanalyse comments on one narrative and never names Kael or a chapter. **The narrative, as the Textanalyse quotes it:** „Das, was einst ein Ich-Fragment war, ist nun Komponente 734, eine Funktionseinheit...“ ^[textanalyse-existenz-system-und-leid.md:L162]. The commentary places this after the closure it calls „Der große Wandel“ ^[textanalyse-existenz-system-und-leid.md:L90] and before the crisis and the protocol. **The Textanalyse reads** the transformation as Funktionalisierung: „Diese Transformation ist eine“ ^[textanalyse-existenz-system-und-leid.md:L164], and, through the Gorgon image, as petrification: „Es verwandelt das flüssige, taumelnde“ ^[textanalyse-existenz-system-und-leid.md:L114]. Its experience in the crisis is the narrative's resonance cascade inside the component, and AEGIS reads that resonance as `Systemfehler` (L232); the narrative's component also reports the sharding: „Es ist, als würde man mir die Seele aus dem Leib reißen“ ^[textanalyse-existenz-system-und-leid.md:L258]. The document says what the component is (the functionalised Ich-Fragment) and nothing about what the number 734 names.
 
 ## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31
 
@@ -277,6 +281,7 @@ writes it in English, as Kael's gloss (its L69).
 whose (strukturierter Outline, L765); he does not remember that he was it
 (konsolidiertes Konzept, L878); he reads only a number (Plot-Konkretisierung, L88, a
 proposal).
+- `textanalyse-existenz-system-und-leid`, 2025-11-18: the component is made at closure, before the `Kohärenz Protokoll 1.0` (L90–L92, L162 against L244); the document does not write `Trennungsprotokoll`.
 
 ## Open
 
