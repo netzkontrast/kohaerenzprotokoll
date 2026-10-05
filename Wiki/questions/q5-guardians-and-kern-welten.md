@@ -347,3 +347,11 @@ In the record's terms the report pairs each Kernwelt with one name, two (`Kairos
 The methodology report: „a confrontation with the Guardian of KW1 (Logik)“ ^[ai-assisted-narrative-coherence.md:L801]. The scene outline names the same post as `LogOS`: „active resistance from the Guardian of KW1,“ ^[ai-assisted-narrative-coherence.md:L1322] `LogOS`, and the critique uses `LogOS` as the label of the world, „Kernwelt 1 (LogOS)“ ^[ai-assisted-narrative-coherence.md:L947]. For KW2 and KW3 the three-act blueprint says „actively manipulated and distorted by the Guardian Mnemosyne.“ ^[ai-assisted-narrative-coherence.md:L873] and „His struggle against the Guardian Cerberus's rigid security protocols is the external manifestation of his internal battle“ ^[ai-assisted-narrative-coherence.md:L874]. The world names vary by part: the concept document's table has `KW1: Logos-Prime`, the architecture analysis „KW1 (Konstrukt-Stadt/LogOS-Prime)“ ^[ai-assisted-narrative-coherence.md:L1725].
 
 It adds the two names of the KW1 Guardian (`Logik` in the methodology report, `LogOS` in the scene outline) to the question; Q5 stays open.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report
+
+**The research report pairs each of four Wächter with one Kernwelt and has them reside in the [[ueberwelt|Überwelt]].**
+
+„Wächter der Logik. Er bewacht die axiomatischen Grenzen (KW1) und scheitert ultimativ an Gödels Unvollständigkeitssatz.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L130] „Wächter des defensiven Bedrohungsmanagements (KW3).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L132] In the table: „Hier residieren die Wächter-Instanzen (Guardians) von AEGIS und lenken die Simulation.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L78]
+
+Stands: pairing by world, with residence in the Überwelt (L78, L130–L133).
