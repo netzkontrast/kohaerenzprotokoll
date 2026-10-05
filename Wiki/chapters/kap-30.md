@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,14 @@ Title: „Transzendenz der Logik“ ^[monstergruppe-primzahlen-plot-blueprint.md
 Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
 
 - Plot: Kael „gewinnt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L328] „die Konfrontation nicht durch Übermacht“ ^[monstergruppe-primzahlen-plot-blueprint.md:L328], „sondern indem er eine stabilere, kohärentere Existenzweise innerhalb des M-Fundaments demonstriert.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L328]
+
+## Reading — `outline`, 2025-07-30, the outline — Der logische Kollaps: Gödel's Schatten / Der letzte Echo-Lokus
+
+Title: „Der logische Kollaps: Gödel's Schatten / Der letzte Echo-Lokus“ ^[outline.md:L185] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „AEGIS (Systemversagen, Inkonsistenz manifestiert)“ ^[outline.md:L188]; journey stage under `Reisestufe`: „Die Feuerprobe“ ^[outline.md:L192]
+
+- Story: the outline plans, under `Plot`, „Kael kehrt zu einem entscheidenden Trauma-Lokus in KW2 zurück“ ^[outline.md:L187]; „was zu einer signifikanten inneren Heilung führt“ ^[outline.md:L187]
+- Question: under `Thematische Kernfrage`, „Wie zerbricht ein System, das sich selbst nicht verstehen kann?“ ^[outline.md:L189]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
