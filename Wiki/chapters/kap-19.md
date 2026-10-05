@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Patch-Bereitstellung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L266]
 - Story: „Kael versucht, ein in Kapitel 18 entdecktes Schlupfloch oder Exploit erneut zu verwenden, nur um festzustellen, dass es nicht mehr funktioniert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
 - Story: „Kael könnte sogar Zeuge werden, wie AEGIS eine Schwachstelle in Echtzeit 'patcht'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Amnesia as a safeguard
+
+Title: „Amnesie als Sicherung“ ^[romanstruktur-und-philosophische-einleitung.md:L172]
+Position: Teil II, „Dissoziation als Feature“ ^[romanstruktur-und-philosophische-einleitung.md:L172]
+
+- Story: „Erinnerung ist Datenlast. Vergessen ist Kompression.“ ^[romanstruktur-und-philosophische-einleitung.md:L174]
+- Story: „Seine Ganzheit ist eine DDoS-Attacke auf das Speichermanagement des Systems.“ ^[romanstruktur-und-philosophische-einleitung.md:L176]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
