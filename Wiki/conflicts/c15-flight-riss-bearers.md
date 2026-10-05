@@ -91,3 +91,11 @@ Lia's Kernfunktion: „"Kaleidoskop-Herz"; trägt Trauma bezüglich Vertrauen; s
 „Kiko | EP (Kind/Flucht/Freeze) | Träger von Angst/Verlassenheit/Scham" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1615]
 „Lia | EP (Kind/Ambivalenz/Flucht) | Träger von Vertrauensbruch/Ambivalenz" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1616]
 `Flight` stands 0 times (English throughout) and `Flucht` twice, both on these two rows (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify.txt`). Row 1's side, in the Assessment, one of the file's two eleven-alter reports; on no row's spatial-riss framing, since the Assessment's table names phobias, not riss types. The conflict stays open.
+
+## 2026-10-05 — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide
+
+**The Master Profile gives Flight to Kiko and to Lia as action systems, and names no riss table; Isabelle's row has no Flight.**
+
+Kiko's row reads „Flight, Freeze, Attachment Cry“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L129] and Lia's „Flight, Play, Ambivalent Attachment“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L130]; `Flight` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#2] stands on those two lines alone, and Isabelle's row is „Fight/Control through Sexualization“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L131]. The guide ties a Riss to the action system of the activated part: the glitch's physical properties, „they directly correspond to the TSDP action system of the activated EP“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L87], with no list of riss types and no spatial or sensory label.
+
+The pairing Kiko and Lia (rows 1, 6, 7), by action system and not by riss row; Isabelle is not paired with Lia here; the conflict stays open.
