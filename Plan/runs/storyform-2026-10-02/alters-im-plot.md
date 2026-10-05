@@ -1,5 +1,7 @@
 # Kael, Juna und die Anteile gegen Storyform und NCP — und wann, wie und wo sich die Anteile zeigen (2026-10-05)
 
+**Status (2026-10-05):** Teil 2 ist Arbeitsgrundlage — der Autor hat die drei Kanäle, den Lagerkampf und die Kapiteltabelle übernommen (Entscheidung 025, Schritt 32); die geprüfte Fassung ist `Plan/storyform/anteile.json`.
+
 **Auftrag des Autors (2026-10-05):** „gleiche mit dramatica und ncp ab und denk schon mal drüber nach was wir im Plot
 brauchen - wann um wie und wo sich die Alter zeigen“.
 

@@ -122,3 +122,37 @@ Aus `weave.json` (Entscheidung 025, Schritt 23). Route nach dem Skill chapter-dr
 | 34/35 | Kap 34: Nach der Begegnung (Kap 32) lässt Kael Juna gehen — er trennt die Verbindung selbst, um sie aus dem Schussfeld zu bringen; die alte Stille wiederholt sich, diesmal gewählt. Die Wendung Inertia → Change kommt erst im Vortex (Kap 35, Pivot). | Kap 35: AEGIS' Sweep konvergiert auf das, was übrig ist. |
 
 Offen: which chapter content the woven throughlines carry (the treatment)
+
+## Die Anteile im Plot (Arbeitsgrundlage)
+
+Aus `anteile.json` (Entscheidung 025, Schritt 32). Bis Kap 13 kein Name: nur Körper, Satzbau, Spur. Kein Auftritt in einem AEGIS-Ich-Kapitel (Route hard-b). Subtilität statt Spektakel; offene Wechsel nur in Krisen; kein Anteil eindimensional böse (TSDP-Analyse L395–L400).
+
+Lager: **Suche** Rhys, Kiko, Lia, Silas; **Abwehr** Nyx, Isabelle, Alex; **Vermeidung** Oblivion, Lex, Moros, Kael; **Vermittlung** Selene. Wenden: Kap 26 Suche (Kael geht zu Juna); Kap 34 Abwehr (Kael lässt Juna gehen); Kap 35 Vermittlung (Oblivion hört auf zu löschen, Selene verhandelt). Ohne Lager: Argus — Die TSDP-Analyse stellt ihn analysierend neben die Vermeidung (kael-system-tsdp-analyse-und-profile.md:L117); der Kanon (Lager) ordnet ihn keinem Lager zu — eine Frage an den Autor.
+
+| Kap | Anteile | Kanal | wie |
+|---|---|---|---|
+| 1 | Silas | Spur | Die linke Hand drückt RÜCKFRAGE und schützt den Anschluss zu Juna; der abgebrochene Satz (Entwurf G). |
+| 1 | Oblivion | Spur | Die verlorenen Minuten. |
+| 2, 5, 9 | Lex | Körper | Kälte in den Händen; Ordnung, die sich verdoppelt. |
+| 2, 5, 9 | Alex | Körper | Der Körper wappnet sich, bevor Kael Gefahr sieht. |
+| 3 | Kiko | Spur | Die Zeit stockt; Kael findet sich am Boden eines Korridors. |
+| 8 | Rhys | Satzbau | Ein „Wir“ im Satz; Fürsorge für einen Fremden, die nicht Kaels ist. |
+| 12 | Nyx | Spur | Knöchel, die bluten, und eine Wut ohne Erinnerung. |
+| 13 | Selene | Stimme | Kaels Entscheidung, nicht mehr zu bestätigen (13/14); der Schleier fällt, die Stimmen bekommen Namen; Selene zum ersten Mal: „Wenn sie auftaucht, ist es spät.“ |
+| 14, 15, 17 | Kiko, Lia | Stimme | Die erste Erasure-Welle (Zyklus 1): Kiko erstarrt; Lia will Juna halten und wegstoßen — die Trennung im Inneren. |
+| 18 | Oblivion | Stimme | Die Genesis-Rückblende ist die Fragmentierungsnacht von innen: Oblivion sieht zum ersten Mal, was er löscht. |
+| 19, 20 | Argus | Stimme | Argus bemerkt AEGIS' Fehler als Erster (Zyklus 2). |
+| 19, 20 | Lex, Nyx | Stimme | Lex und Nyx im maximalen Konflikt. |
+| 21 | Silas | Stimme | „Bin ich echt oder nur ein Echo?“ — die Moonshine-Spur der zehn Jahre. |
+| 23 | Rhys, Moros | Stimme | Rhys versucht, Moros zu retten, und scheitert. |
+| 24, 25 | Nyx, Isabelle | Spur | Kontrolle über Nähe statt Nähe — eine Spur aus den zehn Jahren mit Juna. |
+| 26 | Selene, Rhys, Kiko, Lia, Silas | Stimme | Die Entscheidung, zu Juna zu gehen (26/27): Die Suche gewinnt; Selene weiß, wer Juna war. |
+| 29 | Kiko | Körper | Die Angst des Kindes, das letzte Aufflammen vor dem Weg. |
+| 30 | Alex | Stimme | Alex schützt den Weg zu Juna gegen AEGIS' Purge (Kap 28). |
+| 31 | Oblivion, Silas | Stimme | Oblivion löscht schneller, als Silas empfängt — Landauer-Hitze. |
+| 32 | Silas | Stimme | Die erste Begegnung mit Juna in der Gegenwart: Silas erkennt sie, bevor Kael es tut. |
+| 34 | Lia, Nyx, Alex | Stimme | Kael lässt Juna gehen: Lias „Komm her / Geh weg“ entscheidet sich für „Geh“, die Abwehr gewinnt — „Wer mir nah ist, wird verletzt“ als Tat. |
+| 35 | Oblivion | Stimme | Die Wahl: weiterlöschen oder stehenlassen. Er hört auf, Kaels Amnesie bricht zusammen — der Pivot Inertia → Change. |
+| 36 | Moros, Selene | Stimme | Moros' Drachenkampf; Selene als Architektin. |
+| 37 | Lex | Stimme | Der falsche Friede: die Ordnung kehrt zurück, scheinbar. |
+| 38, 39 | Lex, Alex, Rhys, Selene, Argus, Nyx, Isabelle, Kiko, Lia, Moros, Silas, Oblivion | Stimme | Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden. |

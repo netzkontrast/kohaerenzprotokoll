@@ -170,6 +170,17 @@ with the consequences of each option laid out.
     Conscience), Sidekick **LogOS** (Support, Faith), Skeptic **Kairos** (Oppose, Disbelief); **Cerberus** carries no
     archetype. The last three by their domains, a session proposal the author took. H8 and H9 hold. All archetypes of
     both storyforms are now cast.
+32. **The alters in the plot (2026-10-05): a working basis, not canon.** From the session's proposal
+    (`Plan/runs/storyform-2026-10-02/alters-im-plot.md`, with the camps of `tsdp-lektuere.md`) the author took all
+    three parts: **three channels** — until Kap 13 a part shows only through the body, the syntax or a trace, never by
+    name; **the Juna arc as a fight of three camps** — search, defence, avoidance, Selene mediating; Kap 26 search wins,
+    Kap 34 defence, Kap 35 Oblivion stops; **the chapter table** from Akt I to the Vortex. `Plan/storyform/anteile.json`
+    holds it; `storyform.py` refuses a part the canon (Q3) does not name, a name before Kap 13, an appearance in AEGIS'
+    first person and a part that never appears, and writes every appearance into the NCP as an `event` storybeat of A.
+    Argus is in no camp: the TSDP analysis sets him analysing beside avoidance (L117), the canon does not — a question.
+33. **The NCP's player bios come from the canon (2026-10-05).** `storyform.py` reads the rows of `Manuscript/kanon.md`
+    for a player whose first name is a row's id (Kael, Juna); every other bio stays „offen“. One source, not a copy; a
+    script reading `Manuscript/` for the first time, and only the table of decisions.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

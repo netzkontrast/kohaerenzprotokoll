@@ -16,6 +16,7 @@ Bedingung."* W1 made Dramatica the recipe: the treatment is written from them, t
 | the current state, in one page | `Plan/storyform/overview.md` (generated) |
 | the source of truth, every value with its provenance | `Plan/storyform/a.json`, `b.json` |
 | the storyweaving scaffold: each chapter's route and the throughlines it carries | `Plan/storyform/weave.json` (step 23) |
+| when and how the alters show, by chapter and channel, and the camps of the Juna arc | `Plan/storyform/anteile.json` (step 32) |
 | why each value is what it is, step by step | `Plan/decisions/025-dramatica-is-the-recipe.md` |
 | the engine rules and their limits; what the sources say about signposts; the validation | `Plan/runs/storyform-2026-10-02/` — `engine-rules.md`, `signposts-in-sources.md`, `validation.md` |
 | the open decision sheets for the novel | `Plan/weichen/` (W10 casting, WP plot points, …) |

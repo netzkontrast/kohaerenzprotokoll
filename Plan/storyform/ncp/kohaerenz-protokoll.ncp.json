@@ -71,7 +71,7 @@
                   "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "summary": "Main Character; im OS: Inertia",
-                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "bio": "Kanon `Kael` (2026-10-05, Manuscript/kanon.md): Kaels Figurenkarte: Host-ANP von 13 Anteilen. Want — Ordnung, der Tag „richtig“, die Zuweisung abends auf null. Need — die zehn Jahre tragen, die Anteile anerkennen, sprechen, wo er schwieg, fühlen dürfen. Wunde — Bindungstrauma der Basisrealität, dann die Fragmentierungsnacht, ausgelöst durch die drohende Trennung aus Liebe; Oblivion löschte die zehn Jahre. Lügen — „Wenn ich nichts fühle, verliere ich nichts.“, „Solange der Tag richtig ist, bin ich ganz.“, „Wer mir nah ist, wird verletzt.“ Hindernis — Überidentifikation mit der Rolle des Funktionierers. Widerspruch — er schützt Juna, indem er sie vergisst; er hält fest und hält dabei nichts.",
                   "storytelling": "Herkunft: crucial element (H6/H7), step 8.",
                   "motivations": [
                     {
@@ -96,7 +96,7 @@
                   "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "summary": "Influence Character; im OS: Change",
-                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "bio": "Kanon `Juna` (2026-10-05, Manuscript/kanon.md): Junas Figurenkarte aus deinen Antworten: Want — niemandem wehtun, Kael bewahren, etwas nur für sich; Need — sich selbst wichtig nehmen, sprechen statt schweigen, die Nähe aushalten, ihn ganz sehen; Wunde — sie war früh die, die zusammenhielt; Lüge — „Ich bin für die anderen da, nicht für mich.“; Angst — die Wucht des Gefühls; Widerspruch — Urvertrauen und Moonshine-Verbindung, und sie schweigt trotzdem; Bogen — der Anruf, zehn Jahre, die Kael vergessen hat, ein Paar, heute droht die Trennung aus Liebe; Stimme — Lachen zuerst, Fragen statt Antworten, praktisch und geerdet. Sie bleibt die standhafte Einflussfigur von A: ihre Haltung bleibt, ihr Verhalten reift.",
                   "storytelling": "Herkunft: H8, step 9a.",
                   "motivations": [
                     {
@@ -1148,6 +1148,406 @@
                       "perspective_id": "persp_relationship_story"
                     }
                   ]
+                },
+                {
+                  "id": "beat_anteil_01",
+                  "scope": "event",
+                  "sequence": 1,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 1: Silas · Spur",
+                  "storytelling": "Die linke Hand drückt RÜCKFRAGE und schützt den Anschluss zu Juna; der abgebrochene Satz (Entwurf G). Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_02",
+                  "scope": "event",
+                  "sequence": 2,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 1: Oblivion · Spur",
+                  "storytelling": "Die verlorenen Minuten. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_03",
+                  "scope": "event",
+                  "sequence": 3,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 2, 5, 9: Lex · Körper",
+                  "storytelling": "Kälte in den Händen; Ordnung, die sich verdoppelt. Kanal Körper: die Somatik eines Anteils aus der Charakter-Bibel: Lex' eiskalte Hände, Alex' Kiefer, Rhys' fiebrige Hände, Kikos Kleinwerden, Moros' bleierne Glieder. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_04",
+                  "scope": "event",
+                  "sequence": 4,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 2, 5, 9: Alex · Körper",
+                  "storytelling": "Der Körper wappnet sich, bevor Kael Gefahr sieht. Kanal Körper: die Somatik eines Anteils aus der Charakter-Bibel: Lex' eiskalte Hände, Alex' Kiefer, Rhys' fiebrige Hände, Kikos Kleinwerden, Moros' bleierne Glieder. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_05",
+                  "scope": "event",
+                  "sequence": 5,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 3: Kiko · Spur",
+                  "storytelling": "Die Zeit stockt; Kael findet sich am Boden eines Korridors. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_06",
+                  "scope": "event",
+                  "sequence": 6,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 8: Rhys · Satzbau",
+                  "storytelling": "Ein „Wir“ im Satz; Fürsorge für einen Fremden, die nicht Kaels ist. Kanal Satzbau: Kaels Prosa kippt in die Syntax eines Anteils: Lex hypotaktisch, Nyx stakkato, Lia bricht ab, Silas korrigiert sich als Echo, Oblivion löscht sich. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_07",
+                  "scope": "event",
+                  "sequence": 7,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 12: Nyx · Spur",
+                  "storytelling": "Knöchel, die bluten, und eine Wut ohne Erinnerung. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_08",
+                  "scope": "event",
+                  "sequence": 8,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 13: Selene · Stimme",
+                  "storytelling": "Kaels Entscheidung, nicht mehr zu bestätigen (13/14); der Schleier fällt, die Stimmen bekommen Namen; Selene zum ersten Mal: „Wenn sie auftaucht, ist es spät.“ Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_09",
+                  "scope": "event",
+                  "sequence": 9,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 14, 15, 17: Kiko, Lia · Stimme",
+                  "storytelling": "Die erste Erasure-Welle (Zyklus 1): Kiko erstarrt; Lia will Juna halten und wegstoßen — die Trennung im Inneren. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_10",
+                  "scope": "event",
+                  "sequence": 10,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 18: Oblivion · Stimme",
+                  "storytelling": "Die Genesis-Rückblende ist die Fragmentierungsnacht von innen: Oblivion sieht zum ersten Mal, was er löscht. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_11",
+                  "scope": "event",
+                  "sequence": 11,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 19, 20: Argus · Stimme",
+                  "storytelling": "Argus bemerkt AEGIS' Fehler als Erster (Zyklus 2). Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_12",
+                  "scope": "event",
+                  "sequence": 12,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 19, 20: Lex, Nyx · Stimme",
+                  "storytelling": "Lex und Nyx im maximalen Konflikt. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_13",
+                  "scope": "event",
+                  "sequence": 13,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 21: Silas · Stimme",
+                  "storytelling": "„Bin ich echt oder nur ein Echo?“ — die Moonshine-Spur der zehn Jahre. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_14",
+                  "scope": "event",
+                  "sequence": 14,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 23: Rhys, Moros · Stimme",
+                  "storytelling": "Rhys versucht, Moros zu retten, und scheitert. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_15",
+                  "scope": "event",
+                  "sequence": 15,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 24, 25: Nyx, Isabelle · Spur",
+                  "storytelling": "Kontrolle über Nähe statt Nähe — eine Spur aus den zehn Jahren mit Juna. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_16",
+                  "scope": "event",
+                  "sequence": 16,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 26: Selene, Rhys, Kiko, Lia, Silas · Stimme",
+                  "storytelling": "Die Entscheidung, zu Juna zu gehen (26/27): Die Suche gewinnt; Selene weiß, wer Juna war. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_17",
+                  "scope": "event",
+                  "sequence": 17,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 29: Kiko · Körper",
+                  "storytelling": "Die Angst des Kindes, das letzte Aufflammen vor dem Weg. Kanal Körper: die Somatik eines Anteils aus der Charakter-Bibel: Lex' eiskalte Hände, Alex' Kiefer, Rhys' fiebrige Hände, Kikos Kleinwerden, Moros' bleierne Glieder. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_18",
+                  "scope": "event",
+                  "sequence": 18,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 30: Alex · Stimme",
+                  "storytelling": "Alex schützt den Weg zu Juna gegen AEGIS' Purge (Kap 28). Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_19",
+                  "scope": "event",
+                  "sequence": 19,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 31: Oblivion, Silas · Stimme",
+                  "storytelling": "Oblivion löscht schneller, als Silas empfängt — Landauer-Hitze. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_20",
+                  "scope": "event",
+                  "sequence": 20,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 32: Silas · Stimme",
+                  "storytelling": "Die erste Begegnung mit Juna in der Gegenwart: Silas erkennt sie, bevor Kael es tut. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_21",
+                  "scope": "event",
+                  "sequence": 21,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 34: Lia, Nyx, Alex · Stimme",
+                  "storytelling": "Kael lässt Juna gehen: Lias „Komm her / Geh weg“ entscheidet sich für „Geh“, die Abwehr gewinnt — „Wer mir nah ist, wird verletzt“ als Tat. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_22",
+                  "scope": "event",
+                  "sequence": 22,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 35: Oblivion · Stimme",
+                  "storytelling": "Die Wahl: weiterlöschen oder stehenlassen. Er hört auf, Kaels Amnesie bricht zusammen — der Pivot Inertia → Change. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_23",
+                  "scope": "event",
+                  "sequence": 23,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 36: Moros, Selene · Stimme",
+                  "storytelling": "Moros' Drachenkampf; Selene als Architektin. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_24",
+                  "scope": "event",
+                  "sequence": 24,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 37: Lex · Stimme",
+                  "storytelling": "Der falsche Friede: die Ordnung kehrt zurück, scheinbar. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_25",
+                  "scope": "event",
+                  "sequence": 25,
+                  "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 38, 39: Lex, Alex, Rhys, Selene, Argus, Nyx, Isabelle, Kiko, Lia, Moros, Silas, Oblivion · Stimme",
+                  "storytelling": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
                 }
               ]
             },
@@ -1247,7 +1647,7 @@
                   "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "summary": "Influence Character, Antagonist, Emotion; im OS: Avoid, Reconsider, Uncontrolled, Feeling",
-                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "bio": "Kanon `Kael` (2026-10-05, Manuscript/kanon.md): Kaels Figurenkarte: Host-ANP von 13 Anteilen. Want — Ordnung, der Tag „richtig“, die Zuweisung abends auf null. Need — die zehn Jahre tragen, die Anteile anerkennen, sprechen, wo er schwieg, fühlen dürfen. Wunde — Bindungstrauma der Basisrealität, dann die Fragmentierungsnacht, ausgelöst durch die drohende Trennung aus Liebe; Oblivion löschte die zehn Jahre. Lügen — „Wenn ich nichts fühle, verliere ich nichts.“, „Solange der Tag richtig ist, bin ich ganz.“, „Wer mir nah ist, wird verletzt.“ Hindernis — Überidentifikation mit der Rolle des Funktionierers. Widerspruch — er schützt Juna, indem er sie vergisst; er hält fest und hält dabei nichts.",
                   "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function; author, casting B-2 (2026-10-05, step 31): Antagonist and Emotion whole.",
                   "motivations": [
                     {
@@ -2283,6 +2683,16 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_mc_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_01"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_02"
               }
             ],
             "storypoints": []
@@ -2302,6 +2712,16 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_os_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_03"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_04"
               }
             ],
             "storypoints": []
@@ -2321,6 +2741,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_mc_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_05"
               }
             ],
             "storypoints": []
@@ -2359,6 +2784,16 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_os_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_03"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_04"
               }
             ],
             "storypoints": []
@@ -2421,6 +2856,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_mc_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_06"
               }
             ],
             "storypoints": []
@@ -2440,6 +2880,16 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_os_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_03"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_04"
               }
             ],
             "storypoints": []
@@ -2497,6 +2947,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_mc_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_07"
               }
             ],
             "storypoints": []
@@ -2531,6 +2986,11 @@
                 "sequence": 4,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_rs_signpost_1"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_08"
               }
             ],
             "storypoints": []
@@ -2550,6 +3010,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_os_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_09"
               }
             ],
             "storypoints": []
@@ -2569,6 +3034,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_mc_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_09"
               }
             ],
             "storypoints": []
@@ -2612,6 +3082,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_ic_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_09"
               }
             ],
             "storypoints": []
@@ -2636,6 +3111,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_ic_signpost_2"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_10"
               }
             ],
             "storypoints": []
@@ -2655,6 +3135,16 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_rs_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_11"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_12"
               }
             ],
             "storypoints": []
@@ -2674,6 +3164,16 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_os_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_11"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_12"
               }
             ],
             "storypoints": []
@@ -2698,6 +3198,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_rs_signpost_2"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_13"
               }
             ],
             "storypoints": []
@@ -2741,6 +3246,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_mc_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_14"
               }
             ],
             "storypoints": []
@@ -2760,6 +3270,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_rs_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_15"
               }
             ],
             "storypoints": []
@@ -2779,6 +3294,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_ic_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_15"
               }
             ],
             "storypoints": []
@@ -2813,6 +3333,11 @@
                 "sequence": 4,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_ic_signpost_2"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_16"
               }
             ],
             "storypoints": []
@@ -2875,6 +3400,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_mc_signpost_3"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_17"
               }
             ],
             "storypoints": []
@@ -2894,6 +3424,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_rs_signpost_3"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_18"
               }
             ],
             "storypoints": []
@@ -2923,6 +3458,11 @@
                 "sequence": 3,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_rs_signpost_3"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_19"
               }
             ],
             "storypoints": []
@@ -2947,6 +3487,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_ic_signpost_3"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_20"
               }
             ],
             "storypoints": []
@@ -3000,6 +3545,11 @@
                 "sequence": 4,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_ic_signpost_3"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_21"
               }
             ],
             "storypoints": []
@@ -3034,6 +3584,11 @@
                 "sequence": 4,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_os_signpost_4"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_22"
               }
             ],
             "storypoints": []
@@ -3068,6 +3623,11 @@
                 "sequence": 4,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_rs_signpost_4"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_23"
               }
             ],
             "storypoints": []
@@ -3092,6 +3652,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_mc_signpost_4"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_24"
               }
             ],
             "storypoints": []
@@ -3121,6 +3686,11 @@
                 "sequence": 3,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_rs_signpost_4"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_25"
               }
             ],
             "storypoints": []
@@ -3155,6 +3725,11 @@
                 "sequence": 4,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_ic_signpost_4"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_25"
               }
             ],
             "storypoints": []
