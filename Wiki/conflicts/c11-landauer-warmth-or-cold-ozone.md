@@ -420,3 +420,11 @@ The two storyforms' Driver converge on heat: „Story Driver | Action (Schmerz t
 §3.2 (CORE): „Landauer-Prinzip. Jede Bit-Löschung erzeugt minimale Wärme.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L105] The §7.2 rule: „Wärme (Landauer) ist immer sensorisch: Hitze, Ozon, Schweiß, fiebrige Hände.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L371] In Akt I the first traces of Juna come „durch Wärme an Stellen, an denen keine Wärme sein dürfte.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L598]
 
 Where it stands in the record's own terms: warmth and ozone stand in one list here, as a sensory rule; the Kanon does not set cold against them.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 inverts the ozone of Kap 1 in Kap 39 and lets Landauer diverge in Kap 35.**
+
+Kap 39: „der Geruch der heißen Reibung lebender Moleküle aneinander“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L338] Kap 35: „Landauer divergent“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L322]
+
+Stands: the outline writes both as plan and decides nothing.
