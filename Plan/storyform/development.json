@@ -1,6 +1,6 @@
 {
   "status": "proposal",
-  "provenance": "Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–41. Merged 2026-10-05 (Claude, decision 025 step 44) with the scene lists of Akt I and II and the event table: the alters by name, numbers, the three deletion targets and the deadline to the maintenance window, the clocks of A and B; Kap 35 a partial collapse (step 43).",
+  "provenance": "Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–41. Merged 2026-10-05 (Claude, decision 025 step 44) with the scene lists of Akt I and II and the event table: the alters by name, numbers, the three deletion targets and the deadline to the maintenance window, the clocks of A and B; Kap 35 a partial collapse (step 43). Kap 27, 29, 30, 31, 33, 36, 37 added 2026-10-05 (Claude, step 44) from the weave, anteile.json, the signposts of Akt III and IV and the clocks.",
   "chapters": {
     "0": {
       "status": "proposal",
@@ -963,6 +963,41 @@
         ]
       ]
     },
+    "27": {
+      "status": "proposal",
+      "sources": [
+        "Plan/storyform/weave.json",
+        "Plan/storyform/anteile.json",
+        "Plan/storyform/a.json",
+        "Plan/storyform/b.json",
+        "Manuscript/kanon.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
+      ],
+      "goal": "Im Cerberus-Labyrinth (KW3) den Weg zu Juna finden.",
+      "opposition": "Die Wachsamkeit von KW3 wertet jede Absicht als Bedrohung; die Abwehr (Nyx, Alex) reagiert schneller als er.",
+      "action": "Kael lernt, seine Reflexe zu lenken, statt sie zu unterdrücken (A-MC Preconscious): Aus einem Ausweichen wird ein Schritt.",
+      "turn": "Ja, aber: Er findet einen Riss nach KW4, und der Riss schließt sich hinter ihm.",
+      "cost": "Der Rückweg nach KW3 entfällt (die Uhr von A).",
+      "knowledge": "Er weiß, dass er handeln kann, ohne zu wissen, wer in ihm handelt.",
+      "reader": "Der Purge ist angekündigt (Forewarnings).",
+      "next": "AEGIS antwortet mit dem Purge (Kap 28).",
+      "timing": "Unmittelbar nach dem Entschluss in Kap 26; Akt III beginnt.",
+      "open": "Was zeigt der Riss nach KW4, ohne die Kernwelt zu benennen (Q5)?",
+      "storypoints": [
+        [
+          "A",
+          "Main Character Symptom"
+        ],
+        [
+          "A",
+          "Main Character Response"
+        ],
+        [
+          "A",
+          "Main Character Benchmark"
+        ]
+      ]
+    },
     "28": {
       "status": "proposal",
       "sources": [
@@ -1015,6 +1050,127 @@
         ]
       ]
     },
+    "29": {
+      "status": "proposal",
+      "sources": [
+        "Plan/storyform/weave.json",
+        "Plan/storyform/anteile.json",
+        "Plan/storyform/a.json",
+        "Plan/storyform/b.json",
+        "Manuscript/kanon.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
+      ],
+      "goal": "Im Möglichkeits-Garten (KW4) Junas Gegenwart erreichen, während der Purge läuft.",
+      "opposition": "Kikos Angst (Körper): Der Körper wird klein, das letzte Aufflammen der Vermeidung.",
+      "action": "Kael trägt Kiko, statt sie zu übergehen: Er geht langsamer, damit der Körper mitkommt.",
+      "turn": "Ja, aber: Er bleibt im Garten, doch der Purge erreicht die Verbindung vor ihm.",
+      "cost": "Zeit; Juna bleibt länger in Gefahr.",
+      "knowledge": "Er weiß, dass die Angst ein Anteil ist, und wessen.",
+      "reader": "Der Leser sieht, was der Purge mit der Verbindung tut, bevor Kael es sieht.",
+      "next": "Alex schützt den Weg (Kap 30).",
+      "timing": "KW4 beginnt (Zeile Kernwelten).",
+      "open": "Wie wird Kikos Angst sichtbar, ohne den Namen auszustellen?",
+      "storypoints": [
+        [
+          "A",
+          "Main Character Symptom"
+        ],
+        [
+          "A",
+          "Main Character Response"
+        ]
+      ]
+    },
+    "30": {
+      "status": "proposal",
+      "sources": [
+        "Plan/storyform/weave.json",
+        "Plan/storyform/anteile.json",
+        "Plan/storyform/a.json",
+        "Plan/storyform/b.json",
+        "Manuscript/kanon.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
+      ],
+      "goal": "Den Kanal zu Juna als Ressource halten (A-RS Obtaining), gegen den Purge.",
+      "opposition": "AEGIS' Purge greift die Verbindung an (Kap 28).",
+      "action": "Alex schützt den Weg, mit Stimme; Kael und Juna benutzen den Kanal zum ersten Mal beide bewusst, und sie antwortet.",
+      "turn": "Ja, aber: Der Kanal hält, und Juna weiß jetzt, wo er ist; damit ist auch sie sichtbar.",
+      "cost": "Junas Schutz durch Unwissen entfällt.",
+      "knowledge": "Er weiß, dass sie ihn hört.",
+      "reader": "Was sie haben, ist der Kanal, und er ist angreifbar.",
+      "next": "Oblivion und Silas am selben Signal (Kap 31).",
+      "timing": "Akt III, vor der Spiegel-Alter-Szene.",
+      "open": "Was überträgt der Kanal, und was nicht (Q9, W15)?",
+      "storypoints": [
+        [
+          "A",
+          "Relationship Story Symptom"
+        ],
+        [
+          "A",
+          "Relationship Story Response"
+        ],
+        [
+          "A",
+          "Relationship Story Benchmark"
+        ]
+      ]
+    },
+    "31": {
+      "status": "proposal",
+      "sources": [
+        "Plan/storyform/weave.json",
+        "Plan/storyform/anteile.json",
+        "Plan/storyform/a.json",
+        "Plan/storyform/b.json",
+        "Manuscript/kanon.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
+      ],
+      "goal": "Oblivion und Silas sollen den Kanal stabilisieren, der eine löschend, der andere empfangend.",
+      "opposition": "Oblivion löscht schneller, als Silas empfängt.",
+      "action": "Die beiden Spiegel-Anteile arbeiten gegeneinander am selben Signal; die Landauer-Hitze steigt.",
+      "turn": "Nein: Das Signal bricht. Aber in der Hitze entsteht ein Einfall (A-OS Conceiving): Das Löschen selbst lässt sich wählen.",
+      "cost": "Ein Teil des Signals ist verloren; AEGIS' Abwärmebudget sinkt (die Uhr von B).",
+      "knowledge": "Kael begreift, dass Vergessen eine Handlung ist.",
+      "reader": "AEGIS begreift das Muster (B-OS Understanding) und entwirft dagegen (B-RS Conceptualizing).",
+      "next": "Die erste Begegnung in der Gegenwart (Kap 32).",
+      "timing": "Akt III, Mitte; Brücke, Spiegel-Alter-Szene.",
+      "open": "Wie viel Hitze verträgt eine Szene, deren Höhepunkt die Landauer-Hitze erst im Vortex (Beat 4) ist?",
+      "storypoints": [
+        [
+          "A",
+          "Objective Story Symptom"
+        ],
+        [
+          "A",
+          "Objective Story Response"
+        ],
+        [
+          "A",
+          "Objective Story Benchmark"
+        ],
+        [
+          "B",
+          "Objective Story Symptom"
+        ],
+        [
+          "B",
+          "Objective Story Response"
+        ],
+        [
+          "B",
+          "Relationship Story Symptom"
+        ],
+        [
+          "B",
+          "Relationship Story Response"
+        ],
+        [
+          "B",
+          "Relationship Story Benchmark"
+        ]
+      ]
+    },
     "32": {
       "status": "proposal",
       "sources": [
@@ -1048,6 +1204,37 @@
         [
           "B",
           "Influence Character Benchmark"
+        ]
+      ]
+    },
+    "33": {
+      "status": "proposal",
+      "sources": [
+        "Plan/storyform/weave.json",
+        "Plan/storyform/anteile.json",
+        "Plan/storyform/a.json",
+        "Plan/storyform/b.json",
+        "Manuscript/kanon.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
+      ],
+      "goal": "Nach der Begegnung gemeinsam einen Ort halten, an dem beide sein können.",
+      "opposition": "Die Verbindung als Fähigkeit ersetzt keinen Wunsch (A-RS: Ability → Desire); beide wissen es und sagen es nicht.",
+      "action": "Kael und Juna teilen eine praktische Aufgabe im Garten; das Schweigen von früher wiederholt sich.",
+      "turn": "Nein: Keiner spricht aus, was er will; AEGIS' Reserve fällt sichtbar.",
+      "cost": "Die Zeit, in der Sprechen noch möglich war.",
+      "knowledge": "Beide wissen, was sie nicht sagen.",
+      "reader": "Der Leser erkennt die Wiederholung des Davor (Kap 11).",
+      "next": "Kap 34: Kael lässt Juna gehen.",
+      "timing": "Unmittelbar vor dem Vortex-Vorläufer.",
+      "open": "Welche praktische Aufgabe, die Junas eigenen Willen zeigt (W0)?",
+      "storypoints": [
+        [
+          "A",
+          "Relationship Story Symptom"
+        ],
+        [
+          "A",
+          "Relationship Story Response"
         ]
       ]
     },
@@ -1148,6 +1335,76 @@
         [
           "B",
           "Objective Story Solution"
+        ]
+      ]
+    },
+    "36": {
+      "status": "proposal",
+      "sources": [
+        "Plan/storyform/weave.json",
+        "Plan/storyform/anteile.json",
+        "Plan/storyform/a.json",
+        "Plan/storyform/b.json",
+        "Manuscript/kanon.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
+      ],
+      "goal": "Die Wiederverbindung nach dem Pivot tragen (Vortex 1, Beats 3–5).",
+      "opposition": "Moros' Schwere, sein Drachenkampf; AEGIS' letzter Sweep konvergiert.",
+      "action": "Selene baut als Architektin, Moros kämpft; Kael gibt nach, statt zu kontrollieren (B-IC Subconscious); Juna ist gegenwärtig (A-IC Future).",
+      "turn": "Ja, aber: Verstehen ohne Worte (A-RS Understanding), die Stille (Beat 3), dann die Landauer-Hitze (Beat 4); AEGIS stottert, erlischt aber noch nicht (Schritt 43).",
+      "cost": "Die Stille kostet die letzte Kontrolle; das Abwärmebudget ist erschöpft.",
+      "knowledge": "Kael versteht Juna ohne Worte.",
+      "reader": "Kaels Wandel ist die Vortex-Inversion (B-RS Becoming).",
+      "next": "Kap 37: der falsche Friede.",
+      "timing": "Vortex 1, Ende.",
+      "open": "Wie zeigt sich Juna ontologisch (A-IC Future), ohne die Begegnung von Kap 32 zu wiederholen?",
+      "storypoints": [
+        [
+          "A",
+          "Influence Character Solution"
+        ],
+        [
+          "A",
+          "Relationship Story Solution"
+        ],
+        [
+          "B",
+          "Influence Character Solution"
+        ],
+        [
+          "B",
+          "Relationship Story Solution"
+        ]
+      ]
+    },
+    "37": {
+      "status": "proposal",
+      "sources": [
+        "Plan/storyform/weave.json",
+        "Plan/storyform/anteile.json",
+        "Plan/storyform/a.json",
+        "Plan/storyform/b.json",
+        "Manuscript/kanon.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
+      ],
+      "goal": "Die neue Ordnung einrichten: Kael als Gärtner.",
+      "opposition": "Lex' Ordnung kehrt zurück, scheinbar; am Rand fasert etwas, das Rauschen.",
+      "action": "Kael richtet den Alltag des Wir ein, Lex ordnet; Oblivion wählt zum ersten Mal, was vergessen wird (Schritt 44).",
+      "turn": "Ja, aber: Es funktioniert, und genau das ist der Fehler — der Hüter hütet, was zerfällt.",
+      "cost": "Die Wachsamkeit.",
+      "knowledge": "Er weiß, was er gewonnen hat, nicht, dass es nicht reicht.",
+      "reader": "Vorzeichen des Rauschens; B ist in diesem Kapitel nicht gewoben und wirkt nur als Echo.",
+      "next": "Kap 38: Das Rauschen kommt.",
+      "timing": "Zwischen den beiden Vortex-Teilen.",
+      "open": "Wie viel Echo von B darf ein hard-a-Kapitel tragen?",
+      "storypoints": [
+        [
+          "A",
+          "Objective Story Solution"
+        ],
+        [
+          "A",
+          "Main Character Solution"
         ]
       ]
     },
