@@ -291,3 +291,5 @@
 {"document": "outline-2", "page": "konstrukt-stadt", "surface": "Konstrukt-Stadt", "line": 51, "decision": "reading", "why": "light pass: the same outline as document 88, whose reading on this page holds the same", "at": "2026-10-05"}
 {"document": "outline-2", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 505, "decision": "reading", "why": "light pass: the same outline as document 88, whose reading on this page holds the same", "at": "2026-10-05"}
 {"document": "outline-2", "page": "resonanz-landschaft", "surface": "Resonanz-Landschaft", "line": 93, "decision": "reading", "why": "light pass: the same outline as document 88, whose reading on this page holds the same", "at": "2026-10-05"}
+{"document": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title (J9)", "at": "2026-10-05"}
+{"document": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 13, "decision": "reading", "why": "the introduction's „Realitätsebenen („Welten“)“, read on realitaetsebenen", "at": "2026-10-05"}
