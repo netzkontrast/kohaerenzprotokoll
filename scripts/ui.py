@@ -1071,7 +1071,7 @@ def agent_files(data: dict, out: Path) -> list[str]:
     plan = data["sessions"]
     strip = lambda x: {k: v for k, v in x.items() if k not in ("runs", "nruns")}  # noqa: E731
     served = {"commit": data["meta"]["commit"], "date": data["meta"]["date"], "source": plan["source"],
-              "sessions": [strip(x) for x in plan["sessions"]], "notes": [strip(x) for x in plan["notes"]],
+              "sessions": [strip(x) for x in plan["sessions"]], "free": plan["free"], "notes": [strip(x) for x in plan["notes"]],
               "standing": plan["standing"]}
     items = agent_index(data)
     files = {"sessions.json": served, "index.json": {"commit": data["meta"]["commit"], "items": items},
@@ -1363,6 +1363,10 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
     for name in ("llms.txt", "agents/sessions.json", "agents/index.json", "agents/state.json", "agents/data.json"):
         if not (out / name).exists():
             problems.append(f"{name}: not written — agents get nothing")
+    if (out / "agents" / "sessions.json").exists():
+        served = json.loads((out / "agents" / "sessions.json").read_text(encoding="utf-8"))
+        if not (served.get("free") or {}).get("blocks") or any(not x.get("blocks") for x in served.get("sessions", [])):
+            problems.append("agents/sessions.json: a session or the free prompt has no blocks — agents get less than the editor")
     if (out / "agents" / "index.json").exists():
         for it in json.loads((out / "agents" / "index.json").read_text(encoding="utf-8"))["items"]:
             if not (ROOT / it["path"]).exists():
@@ -1419,6 +1423,11 @@ def selftest() -> tuple[list[str], list[str]]:
         broken["sessions"]["sessions"] = []
         if not any("NOW.md § Half-done" in p for p in check_data(broken)):
             failures.append("a NOW.md section the app needs, read empty: not reported")
+        served = json.loads((out / "agents" / "sessions.json").read_text(encoding="utf-8"))
+        served.pop("free", None)
+        (out / "agents" / "sessions.json").write_text(json.dumps(served), encoding="utf-8")
+        if not any("agents/sessions.json: a session or the free prompt has no blocks" in p for p in check(out, data)[0]):
+            failures.append("the free prompt missing from agents/sessions.json: not reported")
         (out / "agents" / "sessions.json").unlink()
         if not any("agents/sessions.json: not written" in p for p in check(out, data)[0]):
             failures.append("the agents' sessions.json missing: not reported")
@@ -1455,7 +1464,7 @@ def main(argv: list[str]) -> int:
         for u in unrun:
             print(f"  not run  {u}")
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
-              "(clean build, 6 markup, 4 data, 1 agent file, 1 syntax, 2 addresses)")
+              "(clean build, 6 markup, 4 data, 2 agent files, 1 syntax, 2 addresses)")
         return 1 if failures else 0
     data = build(OUT, checks="--no-checks" not in argv)
     project = OUT / "canvas" / "project"

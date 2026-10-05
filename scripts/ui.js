@@ -844,10 +844,14 @@ class Component extends DCLogic {
       });
       ql.agenda = { bg: sel === -1 ? '#FBFAF6' : 'transparent', bd: sel === -1 ? '#C9C0AC' : 'transparent', cur: sel === -1 ? 'true' : undefined, go: () => this.setState({ ques: -1 }), n: D.conflicts.filter((c) => c.np).length + D.agenda.unsettled.length + D.agenda.process.length };
       if (sel === -1) {
-        const rowsT = D.conflicts.filter((c) => c.np).map((c) => [[['b', c.id]], c.np.q, c.np.pos]);
+        // NOW.md once tabled every open conflict's question and positions; its rewrite of 2026-10-05 dropped the
+        // table. Without it, the open conflicts are listed from their own records, never left as an empty table.
+        const fromNow = D.conflicts.some((c) => c.np);
+        const rowsT = fromNow ? D.conflicts.filter((c) => c.np).map((c) => [[['b', c.id]], c.np.q, c.np.pos])
+          : D.conflicts.filter((c) => !c.decided).map((c) => [[['b', c.id]], [c.title.replace(/^C\d+\s*—\s*/, '')], [c.subj + (c.kind ? ' · ' + c.kind : '') + ' — Wiki/conflicts/' + c.f + '.md']]);
         const agendaSecs = [];
         if (D.agenda.decided && D.agenda.decided.length) agendaSecs.push([['Decided so far'], -1, '', [['p', D.agenda.decided]]]);
-        agendaSecs.push([['The novel — where the sources disagree'], -1, '', [['tb', [[''], ['question'], ['the positions (source, date)']], rowsT, 'lll', 'minmax(0, 0.45fr) minmax(0, 1.5fr) minmax(0, 3fr)']]]);
+        agendaSecs.push([['The novel — where the sources disagree'], -1, '', [['tb', [[''], [fromNow ? 'question' : 'conflict'], [fromNow ? 'the positions (source, date)' : 'subject · kind — the record']], rowsT, 'lll', 'minmax(0, 0.45fr) minmax(0, 1.5fr) minmax(0, 3fr)']]]);
         if (D.agenda.unsettled.length) agendaSecs.push([['The novel — what no source settles'], -1, '', [['ul', D.agenda.unsettled]]]);
         agendaSecs.push([['Questions for the author'], -1, '', [['ol', D.agenda.process]]]);
         rd = {
