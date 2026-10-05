@@ -151,3 +151,9 @@ It stands as one more place where Nexus and Überwelt are written together; it s
 Table row: „Eine abstrakte, metakognitive Ebene der reinen Datenverarbeitung oberhalb von KW1-KW4.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L78] In Akt II: „Kael verlässt die physische Simulation und steigt in den“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211] `Nexus` (die Überwelt). It does not use `Überraum`.
 
 Stands: Nexus and Überwelt are one name pair in this report (L78, L211).
+
+## 2026-10-05 — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept
+
+**The Überwelt as a digital level of its own, beside the Kern-Welten.**
+Section 5: „Rein digitale, informationsbasierte Realität; Betriebssystem/Kontrollzentrum der Simulation; Domäne von AEGIS; Fokus auf Systemintegrität, Informationsverarbeitung, Entropie-Management. Nicht für menschliche Wahrnehmung konzipiert.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L109]
+The concept writes `Überwelt` for this level and does not write `Nexus`; the question stays open.
