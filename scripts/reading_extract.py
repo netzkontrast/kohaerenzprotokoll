@@ -52,8 +52,11 @@ def stands(doc: Document, name: str) -> bool:
 # nearest heading and asks whether it names the row's chapter, so a field cannot be moved to a neighbour.
 # A heading is a markdown heading, a line in bold alone, or a short line that opens with a chapter label —
 # `Kap 38:` with its beats listed beneath (koharenz-protokoll-konzept-konsolidiert, 2026-10-05: 41 cards
-# refused before this third form was a heading). A list item is never a heading.
-HEADING = re.compile(r"^\s*(#{1,6}\s|\*\*[^*].*\*\*\s*$|(?:Kap(?:itel)?\.?|Chapter)\s*\d+\b.{0,80}$)")
+# refused before this third form was a heading). A list item is never a heading, and neither is a bold
+# line that ends in a colon unless it opens with a chapter label (`**Kap 38:**` heads its beats in
+# koharenz-protokoll-konzept-iteration-genesis-md) — a field label such as `**Encoding Storyform A — „…":**` with its values beneath
+# (kohaerenz-protokoll-kapitel-outline-erstellung, 2026-10-05: 22 cards refused while it counted as one).
+HEADING = re.compile(r"^\s*(#{1,6}\s|\*\*(?:(?:Kap(?:itel)?\.?|Chapter)\s*\d+.*|[^*].*(?<![:：]))\*\*\s*$|(?:Kap(?:itel)?\.?|Chapter)\s*\d+\b.{0,80}$)")
 
 
 def heading_scoped(template: Path) -> bool:
@@ -312,6 +315,14 @@ def selftest() -> int:
         checks.append(("a plain `Kap 38:` line heads its beats", under_heading(pdoc, 7, "Kap 38")))
         checks.append(("a beat is not moved to the next plain heading", not under_heading(pdoc, 7, "Kap 39")))
         checks.append(("a list item naming a chapter is not a heading", not HEADING.match("* Beat 1: Kap 39 beginnt")))
+        checks.append(("a bold field label ending in a colon is not a heading", not HEADING.match('**Encoding Storyform A — „Heuristics":**')))
+        checks.append(("a bold line alone is still a heading", bool(HEADING.match("**Kapitel 3 — A Fissure**"))))
+        checks.append(("a bold chapter label ending in a colon is a heading", bool(HEADING.match("**Kap 38:**"))))
+        labelled = "### Kapitel 3 — X\n\n**Encoding Storyform A:**\n\n  - Driver: Lex entscheidet.\n### Kapitel 4 — Y\n"
+        ltext = p / "labelled.md"; ltext.write_text("---\ntitle: Labelled\n---\n" + labelled, encoding="utf-8")
+        ldoc = Document("labelled", "labelled", "2026-10-05", "md", "", ltext, labelled, 4)
+        checks.append(("a value under a field label stays under its chapter", under_heading(ldoc, 8, "Kapitel 3")))
+        checks.append(("a value under a field label is not moved to the next chapter", not under_heading(ldoc, 8, "Kapitel 4")))
         checks.append(("an unscoped contract keeps its old rule", verify(odoc, template, oenv({"items": [{**card, "source": "Kapitel 3"}]}, template))["candidates"] == 1))
         source.write_text(source.read_text() + "Alpha steuert Beta.\n", encoding="utf-8")
         doc = Document("fixture", "fixture", "2026-09-30", "md", "", source,
