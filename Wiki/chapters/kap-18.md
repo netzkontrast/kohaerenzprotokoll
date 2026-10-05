@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -76,6 +76,14 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 A storyform study that rates its own two storyforms and cites a corpus it does not contain (a `Memory-Kanon`, a `PDF-Kanon`, a NotebookLM corpus); recorded, not applied.
 
 - Werk-Beleg for Storyform A's MC Resolve Change: „Die Entwicklung des „Kael-Self\_Integrator“ und die Heilung innerer Konflikte in Kapitel 8 und 18.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L100] — one entry for both chapters, not a reading of Kapitel 18 alone.
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Misalignment“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L234]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „B (AEGIS — Tragödie)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L236]
+
+- Story: the outline places: „AEGIS interpretiert die innere Disharmonie als Verfallsbeweis“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L236]; „Es fährt eine therapeutische Subroutine hoch“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L236]
+- The pacing section marks a plateau: „Plateaus in Kap 18 (AEGIS' Tragödie)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L370].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
