@@ -331,3 +331,11 @@ In the record's terms the analysis stands with four pairs, Kairos and Sophia sha
 KW1 (`Co₁`) is „Domäne von LogOS“ ^[system-kael-konzeptentwicklung-und-analyse.md:L160], KW2 (`McL`) „Domäne von Mnemosyne“ ^[system-kael-konzeptentwicklung-und-analyse.md:L161], KW3 (`B`) „Domäne von Cerberus“ ^[system-kael-konzeptentwicklung-und-analyse.md:L162] and KW4 (`Ly`) „Domäne von Kairos/Sophia“ ^[system-kael-konzeptentwicklung-und-analyse.md:L164], so Kairos and Sophia share KW4 as in the editor's report ^[scifi-roman-mit-ki-schreiben.md:L91]. It does not name an Erasure-Pol.
 
 Stands: one Wächter for each of KW1 to KW3 and two for KW4, as the synthesis lists them; the record's question is not addressed.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report
+
+**The research report's table pairs four Kernwelten with Wächter names and [[tsdp|TSDP]] parts, with Kairos and Sophia in one world.**
+
+The table has KW1 `LogOS` („Lex (Rationaler ANP)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L52]), KW2 `Mnemosyne` („EPs (Nyx, Kiko) & Rhys (Caregiver)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L53]), KW3 `Cerberus` („Nyx (als Beschützer)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L54]), KW4 `Kairos`/`Sophia` („Selene (Integrator) & Lia“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L55]). The Teil I plot calls Mnemosyne one of the Wächter: „durch die Wächter (insbesondere Mnemosyne)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L27], and Leitfrage 4 speaks of „In KW2 (Mnemosyne) wird Juna nicht als existierendes Subjekt erkannt“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L80]. The Kohärenz-Check places „Die Wächterin Sophia strebt Integration durch die“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L110] elimination in KW4. It names no sixth Guardian and no Erasure-Pol.
+
+In the record's terms the report pairs each Kernwelt with one name, two (`Kairos`/`Sophia`) in KW4, and decides nothing.
