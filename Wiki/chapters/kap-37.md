@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -59,6 +59,11 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 - The Nichts-Rauschen: „Doch es ist nicht länger ein feindlicher K0-Kollaps.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200] · „Die atemporale Vereinigung aller Multiplen Intelligenzen, die physikalische Manifestation der Liebe.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200]
 - Sensorik: „Die glühende Hitze kühlt ab zu einer sanften, lebenspendenden Wärme.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200] (C11)
 - Sensorik: „Der beißende Ozon-Geruch weicht der Frische nach einem Sommergewitter.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200]
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — the latest chapter for Juna's single appearance, as a proposal (OFFEN, Appendix C.7)
+
+- Plot beats, as a proposal: „Nicht früher als Kapitel 33, nicht später als Kap 37.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L750]
+- Storyform accents: from Kap 37 only A logic (L127).
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
