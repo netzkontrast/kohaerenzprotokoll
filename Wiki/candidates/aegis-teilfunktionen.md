@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 6
-readings: 4
+sources: 7
+readings: 5
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation"]
 gathered: "2026-09-16"
 ---
 
@@ -63,6 +63,10 @@ Safeguard`, none of the three (its reading below).
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — a Zero-Trust security paradigm of AEGIS, named in passing
 
 The document names a Zero-Trust function of AEGIS, in a compound, without explaining it: the Moonshine-Link is used „Um die rigorosen algorithmischen Partikelfilter und das Zero-Trust-Sicherheitsparadigma von AEGIS zu umgehen“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L105]. The names of the other functions stand nowhere in it: `Cognitive Firewall` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0], `Integrity Guardian` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0], `SIS` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0].
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Systemic Isolation Shield as Cerberus's
+
+The manifest names the `SIS` once, as the Systemic Isolation Shield, and gives it to a Guardian: Cerberus is the Guardian who is „the ultimate firewall and immune system of the architecture, enforcing the Systemic Isolation Shield (SIS)“ ^[aegis-persona-and-manifest-generation.md:L93]. Here the SIS is Cerberus's, a Guardian's, and not a function of AEGIS listed beside others. The manifest's matrix gives Cerberus's limitation as „Zero-trust; all novelty is inherently hostile.“ ^[aegis-persona-and-manifest-generation.md:L130].
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
