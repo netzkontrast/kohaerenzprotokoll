@@ -80,3 +80,13 @@ Where it stands in the record's own terms: a source that places Kael's origin in
 Column 2 (the pre-reset PDFs, not the report's voice): „Juna ist ein exilierter Teil von Kaels eigenem“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L49] Column 3 (the Struktur-Kanon as the report renders it): „Kael und AEGIS wurden getrennt.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L49] and „Kael wurde zur Komponente 734.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L49] Column 4, the report's verdict: „Juna bleibt radikal exterior“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L49] Part 1.6 states as consensus „Beat 3: Die Entstehung von Kael (Komponente 734) als isolierte Funktion“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L39]
 
 Stands: Kael as the isolated function that the separation of Kael and AEGIS leaves, with Juna not part of him, in the column the report calls the Struktur-Kanon; recorded, not applied.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The report sets two cited accounts of Juna against each other and reads them as a deliberate paradox, naming Kael's own exiled origin self as one side.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+C-001 (`KRITISCH`): the report quotes Doc 33 as „she is both a transcendent entity and, critically, an exiled part of Kael's own“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L22] and Doc 36 as „während Juna als Katalysator außerhalb des Systems existiert.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L22] Its own `Kern-Konflikt` cell reads „Juna ist paradoxerweise sowohl Kaels abgespaltenes Kern-Selbst als auch eine externe transzendente Anomalie“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L22]. Registry row F-03 sums it up as „Transzendente Anomalie und/oder Kaels exiliertes Ursprungs-Ich“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L68].
+
+It stands as a further statement of the origin told as Kael's exiled Ursprungs-Ich beside an outside catalyst; the record's rows are not changed or decided by it.
