@@ -308,3 +308,11 @@ Stands: no new row for the three-or-four count; the order of component and proto
 Silence „signified the exact moment of autopoietic self-closure“ ^[aegis-persona-and-manifest-generation.md:L33], and the origin-self „was dissected via the Ontological Boundary Protocol (OBP)“ ^[aegis-persona-and-manifest-generation.md:L33]. The original self was recompiled into „an objective, functional component designated strictly as Component 734“ ^[aegis-persona-and-manifest-generation.md:L17]. „During the climax of the Genesis Crisis, the architecture initiated a systemic dismemberment“ ^[aegis-persona-and-manifest-generation.md:L45], the Zerstückelung protocol, whose fragments the manifest reports as called `Kael` in legacy files. The manifest counts no beats.
 
 Stands as the manifest's order, without a beat count; recorded, not applied.
+
+## 2026-10-05 — `einleitung-genesis-der-existenz`, 2025-04-29, the Genesis narrative
+
+**The narrative tells closure and the narrator become Komponente 734 first, the [[ueberwelt|Überwelt]] next, and the [[kohaerenz|Kohärenz]] Protokoll last.**
+
+The order as written: the click, „Ein fundamentales Einrasten im gesamten System.“ ^[einleitung-genesis-der-existenz.md:L87] (L87); the part „Komponente 734: Funktion an der Grenze“ ^[einleitung-genesis-der-existenz.md:L100] (L100); „die Überwelt.“ ^[einleitung-genesis-der-existenz.md:L116] (L116); then the crisis, the foreign entity „aus dem Potentialmeer der Leere selbst“ ^[einleitung-genesis-der-existenz.md:L147] (L147), and the protocol, told under the heading „Das Trennungsprotokoll: Fragmentierung als Heilung“ ^[einleitung-genesis-der-existenz.md:L187] (L187). The component precedes the protocol. The narrative counts no beats.
+
+Where it stands in the record's own terms: a position on order only; it takes no side on what the beats should be called.
