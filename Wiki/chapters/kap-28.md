@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -46,6 +46,14 @@ Position: Teil III, „Eintritt in den Systemkern“ ^[romanstruktur-und-philoso
 
 - Story: „Kael verlässt die bekannten Kernwelten“ ^[romanstruktur-und-philosophische-einleitung.md:L234]
 - Story: „reine Datenarchitektur ohne skeuomorphe Fassaden“ ^[romanstruktur-und-philosophische-einleitung.md:L234]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Qual der Komplexität
+
+Title: „Die Qual der Komplexität“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L282]
+Position: Teil III; setting from the `Schauplatz` field: „Das Potentialmeer (Informationssturm)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L284]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Moros (Kollaps-EP)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L285]
+- Story: the blueprint plans, in `Plot-Beats`, „Die unendliche Symmetrie der Monstergruppe droht Kaels menschlichen Verstand zu zerschmettern“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L287] and „löst aus Panik vor der totalen psychischen Vernichtung eine katatonische Lähmung aus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L287]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
