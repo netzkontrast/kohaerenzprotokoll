@@ -1,0 +1,166 @@
+{
+  "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+  "calls": 29,
+  "failed_calls": 0,
+  "seconds": 177.3,
+  "input_tokens": 130421,
+  "output_tokens": 13083,
+  "cost_usd": 0.4987,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1945,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1936,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1941,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 2002,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 2018,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1924,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1887,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1873,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1973,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1852,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1910,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1779,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1905,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 2011,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1998,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1767,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1896,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1611,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1713,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1935,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1921,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 2003,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1907,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1596,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 2001,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 1941,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1294,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 1544,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 2012,
+      "ok": true
+    }
+  ]
+}
