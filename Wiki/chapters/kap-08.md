@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -74,6 +74,14 @@ Position: Teil I; setting from the `Schauplatz` field: „Praxis von Dr. Thorne 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Dr. Aris Thorne (Konstrukt), Index (Analyst-Alter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L118]
 - Story: the blueprint plans, in `Plot-Beats`, „AEGIS teleportiert Kael zurück nach KW1 zu einer Zwangstherapie“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L120] and „analysiert die Unstimmigkeiten in Thornes Aussagen und schützt Kaels Verstand“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L120]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Fall nach Innen
+
+Title: „Der Fall nach Innen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L105] — heading „Schwelle zu Mnemosyne“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L106]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (dissoziiert, schwebend)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L107]; place from `Ort`: „Transit-Schacht / Ladezone zwischen KW1 und KW2“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L109]
+
+- Story: the matrix plans „Auf der Flucht vor einer System-Korrektur fällt Kael durch einen Riss und landet in der Übergangszone“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L111]
+- Question: „Wo endet die Welt und wo beginnt der Geist?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L110]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
