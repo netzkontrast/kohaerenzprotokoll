@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -69,6 +69,14 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - AEGIS: „AEGIS kann in dieser feuchten, emotionalen Umgebung nicht mit der gleichen klinischen Präzision operieren wie in KW1.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138] · „Die ZTEM-Protokolle versagen an der Unschärfe der Daten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138]
 - Who: „Stattdessen nutzt Mnemosyne, der Guardian dieser Welt, eine perfide Form der Ermüdung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138]
 - Story: „Kael findet endlose Aufzeichnungen seines eigenen Lebens, die jedoch alle in tragischen Alternativ-Szenarien enden.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Lex Reads the System“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L222]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „A (Lex — jetzt namentlich)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L224]
+
+- Story: the outline places: „formalisiert AEGIS als universelle Turingmaschine“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L224]; „identifiziert das Halteproblem als strukturellen Fluch“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L224]
+- Pacing: „Akademisch dicht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L224].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
