@@ -12,7 +12,7 @@ are listed on `NOW.md` itself.
 
 ## Part 1 — the novel and its sources
 
-Conflicts C1–C15 are records in `Wiki/conflicts/`, questions Q1–Q9 pages in `Wiki/questions/`; `python3 scripts/relations.py` prints the
+Conflicts C1–C16 are records in `Wiki/conflicts/`, questions Q1–Q9 pages in `Wiki/questions/`; `python3 scripts/relations.py` prints the
 open ones. What follows is what the readings found beside them: differences with no record yet, and questions put to the author.
 
 ### What the newest readings left for the author (2026-09-26 to 2026-09-27)
@@ -383,6 +383,11 @@ the author wants them (*Questions for the author*).
   `Das Trennungsprotokoll` and tells the `Kohärenz Protokoll` (L161, L187, L189). Is the Trennungsprotokoll the act and the Kohärenz
   Protokoll 1.0 the program it runs, or are they one thing under two names? And the narrator stays nameless — the fragment, then
   Komponente 734: is that voice the one you want for Kap 0?
+
+- **C16, opened 2026-10-05: whose fragment is Kael?** In April 2025 he is the avatar or fragment of an external entity M (the Monster
+  group made a being) that AEGIS takes apart to analyse; from 2026 he is the remainder of AEGIS's own split self, Komponente 734;
+  one source makes Kael/M the being he becomes in Kap 32. `Wiki/conflicts/c16-kael-origin.md` has the nine rows. Is M still part of
+  the novel — as Kael's origin, as his end, or not at all?
 
 ## Part 2 — the pipeline and its tools
 

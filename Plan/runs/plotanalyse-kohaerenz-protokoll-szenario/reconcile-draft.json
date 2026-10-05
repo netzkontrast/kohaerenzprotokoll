@@ -1,0 +1,217 @@
+{
+  "document": "plotanalyse-kohaerenz-protokoll-szenario",
+  "drive_id": "1Bv-Os0WoRX1XROrCg2nLMhQUnD57ZC4AQ9xLXngOsIA",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 55,
+    "decisions": 56,
+    "decided_by_lookup": 46,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        67,
+        69,
+        70,
+        71,
+        72,
+        74,
+        125
+      ],
+      "attribution": "",
+      "note": "AEGIS as the system that analyses an external entity M through simulations, as the report reads and cites it"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        87,
+        130
+      ],
+      "attribution": "",
+      "note": "Kael's `Alters` as the parts to be integrated, unnumbered"
+    },
+    {
+      "page": "did",
+      "lines": [
+        46,
+        92,
+        130
+      ],
+      "attribution": "",
+      "note": "Kael's DID as induced by AEGIS, as the report cites its User Query"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        55,
+        115
+      ],
+      "attribution": "",
+      "note": "emergence as a possible property of the Potentialmeer and the ground of M's holism"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        52,
+        114,
+        115
+      ],
+      "attribution": "",
+      "note": "entropy as information-theoretic contrast between the Potentialmeer and AEGIS's order"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        99,
+        103
+      ],
+      "attribution": "",
+      "note": "the Kael-Juna link as central mystery and catalyst; Juna herself is not described"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        78,
+        85,
+        86,
+        92,
+        93,
+        94,
+        130
+      ],
+      "attribution": "",
+      "note": "Kael as the human manifestation of an external entity M, fragmented by AEGIS"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        46,
+        47,
+        70,
+        95,
+        119
+      ],
+      "attribution": "",
+      "note": "four simulated worlds as AEGIS's laboratories for analysing M and Kael"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        40,
+        71,
+        95
+      ],
+      "attribution": "",
+      "note": "coherence by integration (M) against coherence by demarcation (AEGIS)"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        41,
+        44,
+        97,
+        103
+      ],
+      "attribution": "",
+      "note": "the Kael-Juna link as Moonshine metaphor, entanglement metaphor and catalyst"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        51,
+        109,
+        114,
+        115
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as a meta-space of pure potentiality, with three open ontologies"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        71,
+        159
+      ],
+      "attribution": "",
+      "note": "the `Risse` as AEGIS's destabilisation under its analysis of M"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alex",
+      "surface": "Alex",
+      "line": 196,
+      "decision": "occurrence",
+      "why": "Alex Garland, the director of a film the report compares"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "reading",
+      "why": "L11 is the title (J9), but the report states two kinds of coherence, `Kohärenz durch Integration` and `Kohärenz durch Abgrenzung` (L40, L84), M's against AEGIS's — read by the sentence"
+    },
+    {
+      "page": "moonshine-link",
+      "surface": "Moonshine-Link",
+      "line": 97,
+      "decision": "reading",
+      "why": "the heading of the section on the Kael-Juna link (L97–L103), which says what the link is and does — the page's subject"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 61,
+      "decision": "occurrence",
+      "why": "a table cell naming the general question of levels of reality the simulation hypothesis raises; no statement about the page's levels"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 159,
+      "decision": "reading",
+      "why": "AEGIS's system destabilised by the analysis of M, `Risse` in quotation marks with the User Query cited (L159) — the page's subject, read by the sentence"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 61,
+      "decision": "occurrence",
+      "why": "the simulation hypothesis as a lens for the Kernwelten (L61, L119); the report never speaks of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,14 @@
+# plotanalyse-kohaerenz-protokoll-szenario
+  lines                356  (frontmatter ends at 9)
+  body words           8600
+  headings             23   bold-only lines 1
+  table rows           25   code fences 0
+  question marks       36
+  backslash escapes    235
+  typographic marks    67   ascii quotes 56
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    140
+  repeated labels      none
+  longest line         1574 chars
+

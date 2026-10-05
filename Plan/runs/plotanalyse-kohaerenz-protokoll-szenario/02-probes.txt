@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      140
+  backslash escapes      235
+  typographic marks      67
+  ascii quotes           56
+
+# inflection families -- one term, several surfaces
+  inter    Interaktion, Interaktionsmethode, Interconnectedness, Interdisziplinarität, Interkonnektivität, Internal, International, Interne, Internet, Interpretation, Interpretations, Interventions
+  infor    Informatik, Information, Informationen, Informationsgehalt, Informationsintegration, Informationsmuster, Informationsontologie, Informationsstruktur, Informationstheorie, Informationsvermittlung, Informiertes
+  syste    System, Systeme, Systemebene, Systemfehler, Systeminstabilitäten, Systemintegrität, Systemisch, Systemische, Systems, Systemtheorie
+  chara    Charakter, Charakterbögen, Charaktere, Charakteren, Charakterentwicklung, Charaktererfahrung, Charaktererfahrungen, Charakterkonstellation, Charakterpotenzial
+  poten    Potential, Potentiality, Potentialität, Potentialmeer, Potentialmeers, Potenzial, Potenziale, Potenzials, Potenzielle
+  selbs    Selbst, Selbsterhalt, Selbsterhaltung, Selbsterhaltungsstreben, Selbsterschaffung, Selbstkonsistenzbeweises, Selbstproduktion, Selbstwidersprüchlichkeit
+  philo    Philosopher, Philosophical, Philosophie, Philosophische, Philosophischer, Philosophy, PhilosophyofScience
+  psych    Psyche, Psychiatry, Psychodynamics, Psychological, Psychologie, Psychologischer, Psychology
+  quant    Quanten, Quantenfeld, Quantenmechanik, Quantennichtlokalität, Quantenverschränkung, Quantifiziert, Quantum
+  erzäh    Erzähler, Erzählers, Erzähltempo, Erzählung, Erzählungen, Erzählwelt
+  ident    Identifikation, Identity, Identität, Identitätsfrage, Identitätsparadoxien, Identitätsstörung
+  konze    Konzept, Konzepte, Konzepten, Konzeption, Konzeptionelle, Konzepts
+  metap    Metapher, Metaphern, Metaphor, Metaphorik, Metaphorische, Metaphysik
+  reali    Realisierung, Reality, Realität, Realitäten, Realitätsebene, Realitätsebenen
+  analy    Analyse, Analysefähigkeiten, Analysen, Analyseversuche, Analysezwecken
+  model    Model, Modell, Modelle, Modellen, Modellierung
+  narra    Narration, Narrative, Narrativen, Narrator, Narrators
+  theor    Theorem, Theoretical, Theoretische, Theorie, Theory
+  traum    Trauma, Traumabearbeitung, Traumata, Traumatic, Traumaüberlebenden
+  unter    Unterabschnitten, Unterfangen, Unterscheidung, Untersuchung, Untersuchungsobjekts
+  wider    Widerspruch, Widersprüche, Widersprüchen, Widerstand, Widerstands
+  wisse    Wissen, Wissens, Wissenschaftstheorie, Wissensdomänen, Wissensstreben
+  besch    Beschaffenheit, Beschreibung, Beschreibungen, Beschreibungsebene
+  diese    Diese, Diesen, Dieser, Dieses
+  funda    Fundament, Fundamental, Fundamentaler, Fundamente
+
+# substring pairs -- never one term, often merged by accident
+  Bell < Tabelle
+  Dies < Diese
+  Dies < Diesen
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Studies
+  Dump < Dumps
+  Eine < Reine
+  Eine < Seine
+  Ende < Gender
+  Ende < Tendenz
+  Ende < Folgenden
+  Ende < Tendenzen
+  Ende < Transgender
+  Ende < Wendepunkte
+  Ende < Transzendenz
+  Ende < Abschließende
+  Ende < Vergleichende
+  Ende < Traumaüberlebenden
+  Feld < Feldern

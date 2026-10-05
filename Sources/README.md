@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 64 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 64 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 65 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 65 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -460,7 +460,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kohärenz Protokoll: Plot-Entwicklungsauftrag](drive/kohaerenz-protokoll-plot-entwicklungsauftrag.md) | 2025-04-23 | 8,041 |  | Kael-Julia-Bindung 2, Potentialmeer 11, DID 17, Alters 46, Kern-Welten 33, Konstrukt-Stadt 3, Juna 13, Kohärenz 19 | PL 14, Parias 10, Kael/M 13, Multiple Personality Disorder 3, Paria 6 |
 | [Plot-Entwicklung für „Kohärenz Protokoll“](drive/plot-entwicklung-fuer-kohaerenz-protokoll.md) | 2025-04-23 | 8,792 |  | Cerberus 10, Kairos 7, Potentialmeer 6, Konstrukt-Stadt 6, Guardians 13, Mnemosyne 7, LogOS 7, Realitätsebenen 2 | Kohärenz-Insel 23, Kael-Juna Verbindung 27, Schattenlabyrinth 7, Möglichkeitsstrom 6, Resonanz-Nebel 5 |
 | [Plot-Exploration: Kohärenz Protokollkonzepte](drive/plot-exploration-kohaerenz-protokollkonzepte.md) | 2025-04-23 | 5,254 |  | Gödel-Gambit 6, Potentialmeer 7, Guardians 11, Juna 17, Kern-Welten 14, DID 2, Kohärenz 19, Emergenz 3 | Resonanz-Brücke 4, Kohärenz-Insel 14, Kael-Juna Verbindung 6, K-J-Verbindung 13, Wächter-Zwiespalt 4 |
-| [Plotanalyse: Kohärenz Protokoll Szenario](drive/plotanalyse-kohaerenz-protokoll-szenario.md) | 2025-04-23 | 8,600 |  | Potentialmeer 13, DID 10, Realitätsebenen 2, Kern-Welten 21, Alters 4, Juna 6, Emergenz† 4, Entropie† 8 | Nonlocality 19, Aristotle 8, Arrival 7, Solaris 5, Parias 6 |
+| [Plotanalyse: Kohärenz Protokoll Szenario](drive/plotanalyse-kohaerenz-protokoll-szenario.md) | 2025-04-23 | 8,600 | **read** | Potentialmeer 13, DID 10, Realitätsebenen 2, Kern-Welten 21, Alters 4, Juna 6, Emergenz† 4, Entropie† 8 | Nonlocality 19, Aristotle 8, Arrival 7, Solaris 5, Parias 6 |
 | [Romanplot „Kohärenz Protokoll“ entwickeln](drive/romanplot-kohaerenz-protokoll-entwickeln.md) | 2025-04-23 | 7,938 |  | Personas 4, Potentialmeer 8, Mnemosyne 6, Cerberus 4, Konstrukt-Stadt 4, LogOS 5, Kairos 2, Kern-Welten 21 | Kohärenz-Insel 16, Bachelard 5, Jung 16, K-J-Verbindung 29, Vogler 5 |
 | [Kohärenz Protokoll: Detaillierter Plotentwurf](drive/kohaerenz-protokoll-detaillierter-plotentwurf.md) | 2025-04-25 | 6,690 |  | Potentialmeer 8, Realitätsebenen 2, DID 5, Kern-Welten 14, Juna 9, Alters 3, Emergenz† 4, Kohärenz 21 | Innerer Anteil 3, Bell 3, Kael/M 5, Sporadic_group 4, K-J-Verbindung 12 |
 | [Kohärenz Protokoll: Plot-Konzept-Generierung](drive/kohaerenz-protokoll-plot-konzept-generierung.md) | 2025-04-25 | 6,258 |  | Potentialmeer 11, Alters 16, Juna 34, Kern-Welten 32, DID 4, Emergenz† 18, Überwelt 21, Kohärenz 25 | M-Kohärenz 11, Unburdening 18, K-J-Verbindung 35, Baby-Monster 7, Baby-Monstergruppe 4 |

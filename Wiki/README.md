@@ -26,9 +26,9 @@ check; the schema follows the pages, not the other way round.
 
 ## What is here
 
-**106 <!--state:wiki.pages--> pages, 15 <!--state:wiki.conflicts--> conflicts
+**106 <!--state:wiki.pages--> pages, 16 <!--state:wiki.conflicts--> conflicts
 and 9 <!--state:wiki.questions--> questions, from
-64 <!--state:documents.reconciled--> reconciled documents.** The wiki is built
+65 <!--state:documents.reconciled--> reconciled documents.** The wiki is built
 one document at a time: a frozen census is reconciled against the current
 pages, and the record of each reconciliation is in `compare/`. The first three
 files there are the full re-comparisons made before reconciling by lookup; each

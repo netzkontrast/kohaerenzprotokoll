@@ -2,7 +2,7 @@
   "built": "2026-10-05",
   "by": "scripts/wiki_index.py",
   "pages": 106,
-  "conflicts": 15,
+  "conflicts": 16,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -117,11 +117,12 @@
         "hard-sci-fi-cosmic-horror-research-questions",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
         "aegis-persona-and-manifest-generation",
-        "einleitung-genesis-der-existenz"
+        "einleitung-genesis-der-existenz",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 59,
-      "readings": 59,
-      "conflict": "C1, C3, C8, C14"
+      "sources": 60,
+      "readings": 60,
+      "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
       "title": "Alex",
@@ -258,10 +259,11 @@
         "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
         "flow-zustaende-und-dissoziative-identitaet",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "hard-sci-fi-cosmic-horror-research-questions"
+        "hard-sci-fi-cosmic-horror-research-questions",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 45,
-      "readings": 44,
+      "sources": 46,
+      "readings": 45,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -563,10 +565,11 @@
         "m-als-fundament-der-simulation",
         "kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "hard-sci-fi-cosmic-horror-research-questions"
+        "hard-sci-fi-cosmic-horror-research-questions",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 19,
+      "readings": 19,
       "conflict": "none yet"
     },
     "dkt": {
@@ -663,10 +666,11 @@
         "m-als-fundament-der-simulation",
         "kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "kohaerenz-protokoll-hard-sf-horror-thriller"
+        "kohaerenz-protokoll-hard-sf-horror-thriller",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 19,
+      "readings": 19,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -754,10 +758,11 @@
         "kohaerenz-protokoll-audit-und-verifizierung",
         "textanalyse-existenz-system-und-leid",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"
+        "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 38,
-      "readings": 38,
+      "sources": 39,
+      "readings": 39,
       "conflict": "C2"
     },
     "erason": {
@@ -1230,10 +1235,11 @@
         "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "hard-sci-fi-cosmic-horror-research-questions"
+        "hard-sci-fi-cosmic-horror-research-questions",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 49,
-      "readings": 49,
+      "sources": 50,
+      "readings": 50,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1349,11 +1355,12 @@
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "hard-sci-fi-cosmic-horror-research-questions",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
-        "aegis-persona-and-manifest-generation"
+        "aegis-persona-and-manifest-generation",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 55,
-      "readings": 55,
-      "conflict": "C10"
+      "sources": 56,
+      "readings": 56,
+      "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
       "title": "Kaels Wohneinheit 1.0",
@@ -1463,10 +1470,11 @@
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "aegis-persona-and-manifest-generation"
+        "aegis-persona-and-manifest-generation",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 42,
-      "readings": 41,
+      "sources": 43,
+      "readings": 42,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -1619,10 +1627,11 @@
         "textanalyse-existenz-system-und-leid",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
-        "einleitung-genesis-der-existenz"
+        "einleitung-genesis-der-existenz",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 25,
+      "readings": 25,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -1705,7 +1714,7 @@
       ],
       "sources": 34,
       "readings": 32,
-      "conflict": "C12"
+      "conflict": "C12, C16"
     },
     "konstrukt-stadt": {
       "title": "Konstrukt-Stadt",
@@ -2069,10 +2078,11 @@
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "hard-sci-fi-cosmic-horror-research-questions"
+        "hard-sci-fi-cosmic-horror-research-questions",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 42,
-      "readings": 42,
+      "sources": 43,
+      "readings": 43,
       "conflict": "none"
     },
     "moros": {
@@ -2510,10 +2520,11 @@
         "kohaerenz-protokoll",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "einleitung-genesis-der-existenz"
+        "einleitung-genesis-der-existenz",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 18,
-      "readings": 19,
+      "sources": 19,
+      "readings": 20,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -2680,10 +2691,11 @@
         "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "aegis-persona-and-manifest-generation"
+        "aegis-persona-and-manifest-generation",
+        "plotanalyse-kohaerenz-protokoll-szenario"
       ],
-      "sources": 43,
-      "readings": 43,
+      "sources": 44,
+      "readings": 44,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -2987,7 +2999,7 @@
       ],
       "sources": 36,
       "readings": 36,
-      "conflict": "C12"
+      "conflict": "C12, C16"
     },
     "truth-rotation": {
       "title": "Truth-Rotation",
@@ -3464,6 +3476,16 @@
         "kiko",
         "lia",
         "isabelle"
+      ],
+      "status": "open"
+    },
+    "C16": {
+      "subject": "Kael's origin — a fragment or avatar of an external entity M, or the remainder of AEGIS's own split self",
+      "pages": [
+        "kael",
+        "aegis",
+        "komponente-734",
+        "trennungsprotokoll"
       ],
       "status": "open"
     },
