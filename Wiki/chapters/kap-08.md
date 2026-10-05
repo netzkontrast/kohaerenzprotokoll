@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -142,6 +142,14 @@ Position: Akt I; POV: „POV: Kiko.“ ^[kohaerenz-protokoll-kapitel-outline-ers
 - Story: the outline plans „Der kindliche Alter Kiko wird an die Front gespült“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L233]
 - Story: the outline plans „versucht, den Schrein durch massive thermische Hitze“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L233]
 - Concepts: „Kiko (Alter), Bekenstein-Schranke (als visuelle Grenze)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L231]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Der Mnemosyne-Archipel
+
+Title: „Der Mnemosyne-Archipel“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L122] — „Akt I: Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L59]
+
+- Story: the dual-storyform outline plans „Eintritt in den Speicher-Nexus“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L124]
+- Storyforms: `Storyform B` (`OS: Psychology/Being`): „AEGIS definiert diese Erinnerungen als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L126]; `Storyform A` (`OS: Physics/Learning`): „Kael lernt, wie AEGIS Informationen sortiert und löscht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L127]
+- Scene and pacing: `Szenen-Keim`: „Ein Archipel aus kristallinen Datenspeicherbänken“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L128]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
