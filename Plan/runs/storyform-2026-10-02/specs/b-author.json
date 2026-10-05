@@ -24,7 +24,11 @@
    "Memory",
    "Preconscious",
    "Subconscious"
-  ]
+  ],
+  "problem": "Potentiality",
+  "solution": "Certainty",
+  "focus": "Reaction",
+  "direction": "Proaction"
  },
  "OS": {
   "concern": "Obtaining",
@@ -36,7 +40,9 @@
    "Learning",
    "Understanding",
    "Obtaining"
-  ]
+  ],
+  "focus": "Reconsideration",
+  "direction": "Consideration"
  },
  "RS": {
   "concern": "Being",
@@ -45,7 +51,12 @@
    "Conceiving",
    "Conceptualizing",
    "Becoming"
-  ]
+  ],
+  "issue": "Desire",
+  "problem": "Test",
+  "solution": "Trust",
+  "focus": "Expectation",
+  "direction": "Determination"
  },
  "_name": "b-author",
  "_source": "Autor 2026-10-02/05: Modell Bericht 05-07, Do-er, Logic = OS-Lösung, MC-Kette Progress/Fantasy/Test→Trust",
@@ -59,13 +70,17 @@
    "Present",
    "Progress",
    "Future"
-  ]
+  ],
+  "focus": "Unending",
+  "direction": "Ending"
  },
  "plot": {
   "requirements": "Doing",
   "consequence": "Becoming",
   "forewarnings": "Progress",
   "costs": "Memory",
-  "dividends": "Understanding"
+  "dividends": "Understanding",
+  "prerequisites": "Past",
+  "preconditions": "Conceiving"
  }
 }

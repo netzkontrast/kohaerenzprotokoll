@@ -44,6 +44,8 @@ STORY = {
               "MC Solution": "Kael lässt Veränderung zu.",
               "MC Issue": "Verdacht gegen Beleg: was Kael über sich und seine Anteile glaubt.",
               "IC Issue": "Was kommen wird, gegen den Versuch, es abzuwenden.",
+              "RS Problem": "Die Beziehung lebt davon, wie es scheint (Telefon-Stille, Resonanz).",
+              "RS Solution": "Sich dem stellen, was tatsächlich ist: Ist Juna real, und was ist der Link?",
               "IC Problem": "Juna steht für den Wandel, den Kael verweigert.",
               "IC Solution": "Beharren — das Gegenstück, das Juna in Kael trifft.",
               "OS Issue": "Was jemand wirklich ist gegen das Bild, das er von sich hat.",
@@ -55,7 +57,9 @@ STORY = {
                   "consequence": "Die Fragmentierungsnacht wiederholt sich.",
                   "forewarnings": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen.",
                   "costs": "Kaels funktionierende Fassade zerfällt: Host-Rolle, Alltag, Routinen.",
-                  "dividends": "Kael wird funktional plural; die Anteile werden Verbündete."},
+                  "dividends": "Kael wird funktional plural; die Anteile werden Verbündete.",
+                  "prerequisites": "Ein erstes Erinnerungsfragment, an dem Kael zu lesen beginnen kann.",
+                  "preconditions": "Kael kann nur in Zeitlücken suchen."},
     "signpost_text": {"Being": "Rollen; die Fassade hält.", "Becoming": "Das Wesen bricht auf.",
                       "Conceiving": "Der Einfall.", "Conceptualizing": "Der Plan wird entwickelt (das Ziel).",
                       "Memory": "Erinnerungslosigkeit, das Register.", "Subconscious": "Trauma-Wiederbegegnung, Sehnsucht.",
@@ -82,6 +86,11 @@ STORY = {
               "MC Issue": "Die Fantasie absoluter Reinheit gegen die Fakten wachsender Anomalien.",
               "IC Issue": "Ein Zweifel, den Untersuchung nicht auflösen kann.",
               "OS Issue": "Die Methode gegen die Haltung: rechtfertigt das Vorgehen die Haltung?",
+              "IC Problem": "Kael ist reine Möglichkeit — das Potentialmeer, der unfixbare Bug.",
+              "IC Solution": "Am Vortex legt Kael sich fest und gibt nach.",
+              "RS Issue": "Was jemand will gegen was er kann: Wächter und Host.",
+              "RS Problem": "Die Beziehung besteht aus Prüfungen; der Host wird ständig getestet.",
+              "RS Solution": "Vertrauen.",
               "OS Problem": "Gefühle, Risse, Entropie — was die Ordnung stört.",
               "OS Solution": "Logic: AEGIS hält am Richtigen fest, und die Welt scheitert trotzdem.",
               "Story Goal": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null."},
@@ -89,7 +98,9 @@ STORY = {
                   "consequence": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
                   "forewarnings": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1).",
                   "costs": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
-                  "dividends": "AEGIS versteht Kael mit jedem Zug genauer."},
+                  "dividends": "AEGIS versteht Kael mit jedem Zug genauer.",
+                  "prerequisites": "AEGIS braucht seine eigenen Aufzeichnungen, um sweepen zu können.",
+                  "preconditions": "AEGIS darf nur im Rahmen des Protokolls löschen (das Trennungsprotokoll als Regel)."},
     "signpost_text": {"Doing": "Sweeps laufen, Verluste sind im Gang.", "Learning": "Anomalien erkunden.",
                       "Understanding": "Das Muster begreifen.", "Obtaining": "Letzter Sweep; das Ziel scheitert.",
                       "Past": "Genesis-Trauma verdrängt; Erasure-Logs.", "Present": "Sweeps, Kontrollprotokoll.",
@@ -143,6 +154,10 @@ def build(key):
         for part in ("Problem", "Solution"):
             if s.get(part.lower()):
                 sp(f"{TL[t]} {part}", s[part.lower()], t, st["illus"].get(f"{t} {part}", ""), why)
+        for key, part, what in (("focus", "Symptom", "Focus: wo der Strang das Problem vermutet."),
+                                ("direction", "Response", "Direction: womit der Strang reagiert.")):
+            if s.get(key):
+                sp(f"{TL[t]} {part}", s[key], t, st["illus"].get(f"{t} {part}", what), what + " Feinstruktur 2; " + src + ".")
     crucial = spec["OS"]["problem"] if spec["dynamics"]["main_character_resolve"] == "change" else spec["OS"]["solution"]
     sp("Main Character Pivotal Element", crucial, "MC",
        "Das Crucial Element: das OS-Element, auf dem die Hauptfigur sitzt.",
@@ -153,13 +168,15 @@ def build(key):
             "consequence": ("Story Consequence", "Was eintritt, wenn das Ziel scheitert."),
             "forewarnings": ("Story Forewarnings", "Woran der Leser sieht, dass die Folgen näherkommen."),
             "costs": ("Story Costs", "Was das Verfolgen des Ziels unterwegs kostet."),
-            "dividends": ("Story Dividends", "Was das Verfolgen des Ziels unterwegs einbringt.")}
+            "dividends": ("Story Dividends", "Was das Verfolgen des Ziels unterwegs einbringt."),
+            "prerequisites": ("Story Prerequisites", "Was da sein muss, bevor die Requirements beginnen können."),
+            "preconditions": ("Story Preconditions", "Welche Bedingung zusätzlich auferlegt ist.")}
     growth = spec["dynamics"]["main_character_growth"]
     for k, (appr, what) in PLOT.items():
         if k in spec.get("plot", {}):
             sp(appr, spec["plot"][k], None, st["plot_text"][k], what + (" Stop-Story: die Folgen laufen schon."
                if k == "consequence" and growth == "stop" else " Start-Story: die Folgen drohen nur."
-               if k == "consequence" else "") + (" Schritt 14; Vorschlag der Sitzung. " if k in ("costs", "dividends") else " Schritt 13; WP-Kandidat. ") + src + ".")
+               if k == "consequence" else "") + (" Schritt 14; Vorschlag der Sitzung. " if k in ("costs", "dividends", "prerequisites", "preconditions") else " Schritt 13; WP-Kandidat. ") + src + ".")
     for s_ in sps:
         if s_["appreciation"] == "Story Goal":
             s_.pop("throughline", None)

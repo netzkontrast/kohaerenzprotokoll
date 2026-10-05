@@ -288,8 +288,13 @@ def check(spec):
                 if so and so != want:
                     errors.append(f"R5 {tl} solution {so} is not the pair of {p} ({want})")
                 rest = [x for x in q if x not in (p, want)]
-                notes.append(f"{tl}: problem {p} / solution {want} sit under {home[0]}; "
-                             f"focus/direction are {rest[0]}/{rest[1]} in some order")
+                fo, di = s.get("focus"), s.get("direction")
+                if fo or di:
+                    if sorted([fo or "", di or ""]) != sorted(rest):
+                        errors.append(f"R5 {tl} focus/direction {fo}/{di} are not the other pair {rest[0]}/{rest[1]}")
+                else:
+                    notes.append(f"{tl}: problem {p} / solution {want} sit under {home[0]}; "
+                                 f"focus/direction are {rest[0]}/{rest[1]} in some order")
         else:
             notes.append(f"{tl}: problem open — one of the four element quads under {c}: "
                          + "; ".join(f"{v}: {'/'.join(q)}" for v, q in quads.items()))

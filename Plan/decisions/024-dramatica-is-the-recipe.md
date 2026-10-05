@@ -56,10 +56,17 @@ with the consequences of each option laid out.
     memory — an opening for Kael's memory in B-IC act II), dividends Understanding (AEGIS learns Kael ever more
     precisely, the outline of 2026-05-18). A: costs Being (Kael's working façade falls apart), dividends Becoming
     (functional multiplicity as an operating state, the outline of 2026-05-18, L1029).
+15. **The fine structure.** Problem elements: A-RS Perception → Actuality (is Juna real?); B-RS issue Desire ↔ Ability,
+    Test → Trust (every meeting a test run); B-IC Kael Potentiality → Certainty (the Potentialmeer; at the Vortex he
+    commits and yields). Prerequisites/preconditions: B Past (AEGIS' own logs) / Conceiving (only within the
+    protocol); A Memory (a first fragment) / Present (only in time gaps). Focus → direction, one by one: A-MC Chaos →
+    Order, A-IC Actuality → Perception, A-OS Knowledge → Thought, A-RS Self-Aware → Aware (the author's own choice
+    against the proposal); B-MC Unending → Ending („alle Posten auf null"), B-IC Reaction → Proaction, B-OS
+    Reconsideration → Consideration, B-RS Expectation → Determination. With this `dramatica.check` reports no open slot.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
-Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: prerequisites and preconditions,
-focus/direction order, the players, logline and genre.
+Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10), logline and genre;
+the signpost order and the element choices are to be checked against the treatment (W1: B as the check).
 The specs are `Plan/runs/storyform-2026-10-02/specs/a-author.json` and `b-author.json`; the NCP documents
 `Plan/runs/storyform-2026-10-02/ncp/`, built with the ncp-author skill and valid against NCP 1.3.0.
 

@@ -1,14 +1,14 @@
 {
   "schema_version": "1.3.0",
   "story": {
-    "id": "story_kp_storyform_a",
+    "id": "story_kp_storyform_direction",
     "logline": "",
     "genre": "",
     "title": "Kohärenz Protokoll — Storyform A — Heuristik der Integration (K1)",
     "created_at": "2026-10-05T00:00:00Z",
     "narratives": [
       {
-        "id": "narrative-a",
+        "id": "narrative-direction",
         "title": "Storyform A — Heuristik der Integration (K1)",
         "status": "draft",
         "subtext": {
@@ -177,6 +177,34 @@
             },
             {
               "id": "sp_06",
+              "appreciation": "Main Character Symptom",
+              "narrative_function": "Chaos",
+              "throughline": "Main Character",
+              "illustration": "Focus: wo der Strang das Problem vermutet.",
+              "summary": "Main Character Symptom: Chaos",
+              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_07",
+              "appreciation": "Main Character Response",
+              "narrative_function": "Order",
+              "throughline": "Main Character",
+              "illustration": "Direction: womit der Strang reagiert.",
+              "summary": "Main Character Response: Order",
+              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_08",
               "appreciation": "Influence Character Domain",
               "narrative_function": "Universe",
               "throughline": "Influence Character",
@@ -190,7 +218,7 @@
               ]
             },
             {
-              "id": "sp_07",
+              "id": "sp_09",
               "appreciation": "Influence Character Concern",
               "narrative_function": "Past",
               "throughline": "Influence Character",
@@ -204,7 +232,7 @@
               ]
             },
             {
-              "id": "sp_08",
+              "id": "sp_10",
               "appreciation": "Influence Character Issue",
               "narrative_function": "Prediction",
               "throughline": "Influence Character",
@@ -218,7 +246,7 @@
               ]
             },
             {
-              "id": "sp_09",
+              "id": "sp_11",
               "appreciation": "Influence Character Problem",
               "narrative_function": "Change",
               "throughline": "Influence Character",
@@ -232,7 +260,7 @@
               ]
             },
             {
-              "id": "sp_10",
+              "id": "sp_12",
               "appreciation": "Influence Character Solution",
               "narrative_function": "Inertia",
               "throughline": "Influence Character",
@@ -246,7 +274,35 @@
               ]
             },
             {
-              "id": "sp_11",
+              "id": "sp_13",
+              "appreciation": "Influence Character Symptom",
+              "narrative_function": "Actuality",
+              "throughline": "Influence Character",
+              "illustration": "Focus: wo der Strang das Problem vermutet.",
+              "summary": "Influence Character Symptom: Actuality",
+              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_14",
+              "appreciation": "Influence Character Response",
+              "narrative_function": "Perception",
+              "throughline": "Influence Character",
+              "illustration": "Direction: womit der Strang reagiert.",
+              "summary": "Influence Character Response: Perception",
+              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_15",
               "appreciation": "Objective Story Domain",
               "narrative_function": "Psychology",
               "throughline": "Objective Story",
@@ -260,7 +316,7 @@
               ]
             },
             {
-              "id": "sp_12",
+              "id": "sp_16",
               "appreciation": "Objective Story Concern",
               "narrative_function": "Conceptualizing",
               "throughline": "Objective Story",
@@ -274,7 +330,7 @@
               ]
             },
             {
-              "id": "sp_13",
+              "id": "sp_17",
               "appreciation": "Objective Story Issue",
               "narrative_function": "State of Being",
               "throughline": "Objective Story",
@@ -288,7 +344,7 @@
               ]
             },
             {
-              "id": "sp_14",
+              "id": "sp_18",
               "appreciation": "Objective Story Problem",
               "narrative_function": "Inertia",
               "throughline": "Objective Story",
@@ -302,7 +358,7 @@
               ]
             },
             {
-              "id": "sp_15",
+              "id": "sp_19",
               "appreciation": "Objective Story Solution",
               "narrative_function": "Change",
               "throughline": "Objective Story",
@@ -316,7 +372,35 @@
               ]
             },
             {
-              "id": "sp_16",
+              "id": "sp_20",
+              "appreciation": "Objective Story Symptom",
+              "narrative_function": "Knowledge",
+              "throughline": "Objective Story",
+              "illustration": "Focus: wo der Strang das Problem vermutet.",
+              "summary": "Objective Story Symptom: Knowledge",
+              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_21",
+              "appreciation": "Objective Story Response",
+              "narrative_function": "Thought",
+              "throughline": "Objective Story",
+              "illustration": "Direction: womit der Strang reagiert.",
+              "summary": "Objective Story Response: Thought",
+              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_22",
               "appreciation": "Relationship Story Domain",
               "narrative_function": "Physics",
               "throughline": "Relationship Story",
@@ -330,7 +414,7 @@
               ]
             },
             {
-              "id": "sp_17",
+              "id": "sp_23",
               "appreciation": "Relationship Story Concern",
               "narrative_function": "Understanding",
               "throughline": "Relationship Story",
@@ -344,7 +428,7 @@
               ]
             },
             {
-              "id": "sp_18",
+              "id": "sp_24",
               "appreciation": "Relationship Story Issue",
               "narrative_function": "Senses",
               "throughline": "Relationship Story",
@@ -358,7 +442,63 @@
               ]
             },
             {
-              "id": "sp_19",
+              "id": "sp_25",
+              "appreciation": "Relationship Story Problem",
+              "narrative_function": "Perception",
+              "throughline": "Relationship Story",
+              "illustration": "Die Beziehung lebt davon, wie es scheint (Telefon-Stille, Resonanz).",
+              "summary": "Relationship Story Problem: Perception",
+              "storytelling": "Schritt 10a: verbindet den Link mit Sensorik (W5) und W9/W15.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_26",
+              "appreciation": "Relationship Story Solution",
+              "narrative_function": "Actuality",
+              "throughline": "Relationship Story",
+              "illustration": "Sich dem stellen, was tatsächlich ist: Ist Juna real, und was ist der Link?",
+              "summary": "Relationship Story Solution: Actuality",
+              "storytelling": "Schritt 10a: verbindet den Link mit Sensorik (W5) und W9/W15.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_27",
+              "appreciation": "Relationship Story Symptom",
+              "narrative_function": "Self-aware",
+              "throughline": "Relationship Story",
+              "illustration": "Focus: wo der Strang das Problem vermutet.",
+              "summary": "Relationship Story Symptom: Self-aware",
+              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_28",
+              "appreciation": "Relationship Story Response",
+              "narrative_function": "Aware",
+              "throughline": "Relationship Story",
+              "illustration": "Direction: womit der Strang reagiert.",
+              "summary": "Relationship Story Response: Aware",
+              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_29",
               "appreciation": "Main Character Pivotal Element",
               "narrative_function": "Inertia",
               "throughline": "Main Character",
@@ -372,7 +512,7 @@
               ]
             },
             {
-              "id": "sp_20",
+              "id": "sp_30",
               "appreciation": "Story Goal",
               "narrative_function": "Conceptualizing",
               "illustration": "Einen Plan, ein Konzept der Ordnung entwickeln.",
@@ -385,7 +525,7 @@
               ]
             },
             {
-              "id": "sp_21",
+              "id": "sp_31",
               "appreciation": "Story Requirements",
               "narrative_function": "Learning",
               "illustration": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
@@ -398,7 +538,7 @@
               ]
             },
             {
-              "id": "sp_22",
+              "id": "sp_32",
               "appreciation": "Story Consequence",
               "narrative_function": "Past",
               "illustration": "Die Fragmentierungsnacht wiederholt sich.",
@@ -411,7 +551,7 @@
               ]
             },
             {
-              "id": "sp_23",
+              "id": "sp_33",
               "appreciation": "Story Forewarnings",
               "narrative_function": "Preconscious",
               "illustration": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen.",
@@ -424,7 +564,7 @@
               ]
             },
             {
-              "id": "sp_24",
+              "id": "sp_34",
               "appreciation": "Story Costs",
               "narrative_function": "Being",
               "illustration": "Kaels funktionierende Fassade zerfällt: Host-Rolle, Alltag, Routinen.",
@@ -437,12 +577,38 @@
               ]
             },
             {
-              "id": "sp_25",
+              "id": "sp_35",
               "appreciation": "Story Dividends",
               "narrative_function": "Becoming",
               "illustration": "Kael wird funktional plural; die Anteile werden Verbündete.",
               "summary": "Story Dividends: Becoming",
               "storytelling": "Was das Verfolgen des Ziels unterwegs einbringt. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_36",
+              "appreciation": "Story Prerequisites",
+              "narrative_function": "Memory",
+              "illustration": "Ein erstes Erinnerungsfragment, an dem Kael zu lesen beginnen kann.",
+              "summary": "Story Prerequisites: Memory",
+              "storytelling": "Was da sein muss, bevor die Requirements beginnen können. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_37",
+              "appreciation": "Story Preconditions",
+              "narrative_function": "Present",
+              "illustration": "Kael kann nur in Zeitlücken suchen.",
+              "summary": "Story Preconditions: Present",
+              "storytelling": "Welche Bedingung zusätzlich auferlegt ist. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"

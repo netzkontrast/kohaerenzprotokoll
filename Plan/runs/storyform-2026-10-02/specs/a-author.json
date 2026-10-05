@@ -26,7 +26,9 @@
    "Progress",
    "Present",
    "Future"
-  ]
+  ],
+  "focus": "Actuality",
+  "direction": "Perception"
  },
  "OS": {
   "concern": "Conceptualizing",
@@ -38,7 +40,9 @@
    "Becoming",
    "Conceiving",
    "Conceptualizing"
-  ]
+  ],
+  "focus": "Knowledge",
+  "direction": "Thought"
  },
  "RS": {
   "concern": "Understanding",
@@ -48,7 +52,11 @@
    "Doing",
    "Obtaining",
    "Understanding"
-  ]
+  ],
+  "problem": "Perception",
+  "solution": "Actuality",
+  "focus": "Self-Aware",
+  "direction": "Aware"
  },
  "_name": "a-author",
  "_source": "Autor 2026-10-02/05: Modell Bericht 05-07, MC-Kette Memory/Suspicion/Inertia→Change",
@@ -62,13 +70,17 @@
    "Subconscious",
    "Preconscious",
    "Conscious"
-  ]
+  ],
+  "focus": "Chaos",
+  "direction": "Order"
  },
  "plot": {
   "requirements": "Learning",
   "consequence": "Past",
   "forewarnings": "Preconscious",
   "costs": "Being",
-  "dividends": "Becoming"
+  "dividends": "Becoming",
+  "prerequisites": "Memory",
+  "preconditions": "Present"
  }
 }

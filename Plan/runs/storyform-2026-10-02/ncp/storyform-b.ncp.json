@@ -1,14 +1,14 @@
 {
   "schema_version": "1.3.0",
   "story": {
-    "id": "story_kp_storyform_b",
+    "id": "story_kp_storyform_direction",
     "logline": "",
     "genre": "",
     "title": "Kohärenz Protokoll — Storyform B — Phönix-Kollaps (K0)",
     "created_at": "2026-10-05T00:00:00Z",
     "narratives": [
       {
-        "id": "narrative-b",
+        "id": "narrative-direction",
         "title": "Storyform B — Phönix-Kollaps (K0)",
         "status": "draft",
         "subtext": {
@@ -177,6 +177,34 @@
             },
             {
               "id": "sp_06",
+              "appreciation": "Main Character Symptom",
+              "narrative_function": "Unending",
+              "throughline": "Main Character",
+              "illustration": "Focus: wo der Strang das Problem vermutet.",
+              "summary": "Main Character Symptom: Unending",
+              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_07",
+              "appreciation": "Main Character Response",
+              "narrative_function": "Ending",
+              "throughline": "Main Character",
+              "illustration": "Direction: womit der Strang reagiert.",
+              "summary": "Main Character Response: Ending",
+              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_08",
               "appreciation": "Influence Character Domain",
               "narrative_function": "Mind",
               "throughline": "Influence Character",
@@ -190,7 +218,7 @@
               ]
             },
             {
-              "id": "sp_07",
+              "id": "sp_09",
               "appreciation": "Influence Character Concern",
               "narrative_function": "Conscious",
               "throughline": "Influence Character",
@@ -204,7 +232,7 @@
               ]
             },
             {
-              "id": "sp_08",
+              "id": "sp_10",
               "appreciation": "Influence Character Issue",
               "narrative_function": "Doubt",
               "throughline": "Influence Character",
@@ -218,7 +246,63 @@
               ]
             },
             {
-              "id": "sp_09",
+              "id": "sp_11",
+              "appreciation": "Influence Character Problem",
+              "narrative_function": "Potentiality",
+              "throughline": "Influence Character",
+              "illustration": "Kael ist reine Möglichkeit — das Potentialmeer, der unfixbare Bug.",
+              "summary": "Influence Character Problem: Potentiality",
+              "storytelling": "Schritt 9b: das Gödel-Gambit als Zweifel, der AEGIS' Problem Test nie enden lässt.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_12",
+              "appreciation": "Influence Character Solution",
+              "narrative_function": "Certainty",
+              "throughline": "Influence Character",
+              "illustration": "Am Vortex legt Kael sich fest und gibt nach.",
+              "summary": "Influence Character Solution: Certainty",
+              "storytelling": "Schritt 9b: das Gödel-Gambit als Zweifel, der AEGIS' Problem Test nie enden lässt.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_13",
+              "appreciation": "Influence Character Symptom",
+              "narrative_function": "Reaction",
+              "throughline": "Influence Character",
+              "illustration": "Focus: wo der Strang das Problem vermutet.",
+              "summary": "Influence Character Symptom: Reaction",
+              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_14",
+              "appreciation": "Influence Character Response",
+              "narrative_function": "Proaction",
+              "throughline": "Influence Character",
+              "illustration": "Direction: womit der Strang reagiert.",
+              "summary": "Influence Character Response: Proaction",
+              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_15",
               "appreciation": "Objective Story Domain",
               "narrative_function": "Physics",
               "throughline": "Objective Story",
@@ -232,7 +316,7 @@
               ]
             },
             {
-              "id": "sp_10",
+              "id": "sp_16",
               "appreciation": "Objective Story Concern",
               "narrative_function": "Obtaining",
               "throughline": "Objective Story",
@@ -246,7 +330,7 @@
               ]
             },
             {
-              "id": "sp_11",
+              "id": "sp_17",
               "appreciation": "Objective Story Issue",
               "narrative_function": "Approach",
               "throughline": "Objective Story",
@@ -260,7 +344,7 @@
               ]
             },
             {
-              "id": "sp_12",
+              "id": "sp_18",
               "appreciation": "Objective Story Problem",
               "narrative_function": "Feeling",
               "throughline": "Objective Story",
@@ -274,7 +358,7 @@
               ]
             },
             {
-              "id": "sp_13",
+              "id": "sp_19",
               "appreciation": "Objective Story Solution",
               "narrative_function": "Logic",
               "throughline": "Objective Story",
@@ -288,7 +372,35 @@
               ]
             },
             {
-              "id": "sp_14",
+              "id": "sp_20",
+              "appreciation": "Objective Story Symptom",
+              "narrative_function": "Reconsider",
+              "throughline": "Objective Story",
+              "illustration": "Focus: wo der Strang das Problem vermutet.",
+              "summary": "Objective Story Symptom: Reconsider",
+              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_21",
+              "appreciation": "Objective Story Response",
+              "narrative_function": "Consider",
+              "throughline": "Objective Story",
+              "illustration": "Direction: womit der Strang reagiert.",
+              "summary": "Objective Story Response: Consider",
+              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_22",
               "appreciation": "Relationship Story Domain",
               "narrative_function": "Psychology",
               "throughline": "Relationship Story",
@@ -302,7 +414,7 @@
               ]
             },
             {
-              "id": "sp_15",
+              "id": "sp_23",
               "appreciation": "Relationship Story Concern",
               "narrative_function": "Being",
               "throughline": "Relationship Story",
@@ -316,7 +428,77 @@
               ]
             },
             {
-              "id": "sp_16",
+              "id": "sp_24",
+              "appreciation": "Relationship Story Issue",
+              "narrative_function": "Desire",
+              "throughline": "Relationship Story",
+              "illustration": "Was jemand will gegen was er kann: Wächter und Host.",
+              "summary": "Relationship Story Issue: Desire",
+              "storytelling": "Schritt 10b: passt zu Do-er AEGIS und zur operativen Interiorität. Gegenpol (Counterpoint): Ability.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_25",
+              "appreciation": "Relationship Story Problem",
+              "narrative_function": "Test",
+              "throughline": "Relationship Story",
+              "illustration": "Die Beziehung besteht aus Prüfungen; der Host wird ständig getestet.",
+              "summary": "Relationship Story Problem: Test",
+              "storytelling": "Schritt 10b: passt zu Do-er AEGIS und zur operativen Interiorität.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_26",
+              "appreciation": "Relationship Story Solution",
+              "narrative_function": "Trust",
+              "throughline": "Relationship Story",
+              "illustration": "Vertrauen.",
+              "summary": "Relationship Story Solution: Trust",
+              "storytelling": "Schritt 10b: passt zu Do-er AEGIS und zur operativen Interiorität.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_27",
+              "appreciation": "Relationship Story Symptom",
+              "narrative_function": "Expectation",
+              "throughline": "Relationship Story",
+              "illustration": "Focus: wo der Strang das Problem vermutet.",
+              "summary": "Relationship Story Symptom: Expectation",
+              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_28",
+              "appreciation": "Relationship Story Response",
+              "narrative_function": "Determination",
+              "throughline": "Relationship Story",
+              "illustration": "Direction: womit der Strang reagiert.",
+              "summary": "Relationship Story Response: Determination",
+              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_29",
               "appreciation": "Main Character Pivotal Element",
               "narrative_function": "Logic",
               "throughline": "Main Character",
@@ -330,7 +512,7 @@
               ]
             },
             {
-              "id": "sp_17",
+              "id": "sp_30",
               "appreciation": "Story Goal",
               "narrative_function": "Obtaining",
               "illustration": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null.",
@@ -343,7 +525,7 @@
               ]
             },
             {
-              "id": "sp_18",
+              "id": "sp_31",
               "appreciation": "Story Requirements",
               "narrative_function": "Doing",
               "illustration": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
@@ -356,7 +538,7 @@
               ]
             },
             {
-              "id": "sp_19",
+              "id": "sp_32",
               "appreciation": "Story Consequence",
               "narrative_function": "Becoming",
               "illustration": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
@@ -369,7 +551,7 @@
               ]
             },
             {
-              "id": "sp_20",
+              "id": "sp_33",
               "appreciation": "Story Forewarnings",
               "narrative_function": "Progress",
               "illustration": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1).",
@@ -382,7 +564,7 @@
               ]
             },
             {
-              "id": "sp_21",
+              "id": "sp_34",
               "appreciation": "Story Costs",
               "narrative_function": "Memory",
               "illustration": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
@@ -395,12 +577,38 @@
               ]
             },
             {
-              "id": "sp_22",
+              "id": "sp_35",
               "appreciation": "Story Dividends",
               "narrative_function": "Understanding",
               "illustration": "AEGIS versteht Kael mit jedem Zug genauer.",
               "summary": "Story Dividends: Understanding",
               "storytelling": "Was das Verfolgen des Ziels unterwegs einbringt. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_36",
+              "appreciation": "Story Prerequisites",
+              "narrative_function": "Past",
+              "illustration": "AEGIS braucht seine eigenen Aufzeichnungen, um sweepen zu können.",
+              "summary": "Story Prerequisites: Past",
+              "storytelling": "Was da sein muss, bevor die Requirements beginnen können. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_37",
+              "appreciation": "Story Preconditions",
+              "narrative_function": "Conceiving",
+              "illustration": "AEGIS darf nur im Rahmen des Protokolls löschen (das Trennungsprotokoll als Regel).",
+              "summary": "Story Preconditions: Conceiving",
+              "storytelling": "Welche Bedingung zusätzlich auferlegt ist. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
