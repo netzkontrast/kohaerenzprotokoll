@@ -223,3 +223,11 @@
 {"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "kohaerenz", "surface": "Kohärenz", "line": 1, "decision": "occurrence", "why": "the frontmatter title (J9)", "at": "2026-10-05"}
 {"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "risse", "surface": "Glitches", "line": 109, "decision": "reading", "why": "read on risse", "at": "2026-10-05"}
 {"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "ueberwelt", "surface": "Simulation", "line": 33, "decision": "occurrence", "why": "a register row (L33); no sense of the Überwelt", "at": "2026-10-05"}
+{"document": "roman-plot-entwicklung-mit-kohaerenzprotokoll", "page": "did", "surface": "DID", "line": 397, "decision": "occurrence", "why": "a reference title (L397)", "at": "2026-10-05"}
+{"document": "roman-plot-entwicklung-mit-kohaerenzprotokoll", "page": "emergenz", "surface": "Emergenz", "line": 136, "decision": "reading", "why": "read on emergenz", "at": "2026-10-05"}
+{"document": "roman-plot-entwicklung-mit-kohaerenzprotokoll", "page": "entropie", "surface": "Entropie", "line": 44, "decision": "reading", "why": "read on entropie", "at": "2026-10-05"}
+{"document": "roman-plot-entwicklung-mit-kohaerenzprotokoll", "page": "guardians", "surface": "Guardians", "line": 417, "decision": "occurrence", "why": "a reference title (L417); the cast label `Guardian` is read on guardians", "at": "2026-10-05"}
+{"document": "roman-plot-entwicklung-mit-kohaerenzprotokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the document's title (J9)", "at": "2026-10-05"}
+{"document": "roman-plot-entwicklung-mit-kohaerenzprotokoll", "page": "konstrukt-stadt", "surface": "Konstrukt-Stadt", "line": 413, "decision": "occurrence", "why": "a reference title (L413)", "at": "2026-10-05"}
+{"document": "roman-plot-entwicklung-mit-kohaerenzprotokoll", "page": "nexus", "surface": "Nexus", "line": 195, "decision": "reading", "why": "read on nexus", "at": "2026-10-05"}
+{"document": "roman-plot-entwicklung-mit-kohaerenzprotokoll", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 372, "decision": "reading", "why": "read on realitaetsebenen", "at": "2026-10-05"}

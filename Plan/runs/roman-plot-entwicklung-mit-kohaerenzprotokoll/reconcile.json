@@ -1,0 +1,502 @@
+{
+  "document": "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+  "drive_id": "1JOffTYjc9ZxeMSJ2ZT8PavLqpBkAu0ofauCkzkpiDNg",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; rlm_ingest not run (paused); term readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-80/brief.md; chapter readings by two more, in turn, from Plan/runs/ingest-80-kap/brief.md; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 127,
+    "decisions": 131,
+    "decided_by_lookup": 108,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plot blueprint in an assistant's voice: its own words are a method (the Vier-Linsen, One-Beat-One-World, Hook-Kette) and its five chapter fields; its world is the wiki's vocabulary plus 2025–26 figures and places (Dr. Aris Thorne, Index, Epsilon-Null, Neon-Asche). Its readings went onto 34 term pages, 4 records and the chapter pages; no name is defined here that the wiki lacks.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        25,
+        37,
+        44,
+        152,
+        335,
+        359
+      ],
+      "attribution": "",
+      "note": "the analysis, the lens and the plan for AEGIS"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        102,
+        104,
+        211
+      ],
+      "attribution": "",
+      "note": "a protector Alter in Kap 6 and Kap 19"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        23,
+        36,
+        70,
+        94,
+        144,
+        285,
+        367
+      ],
+      "attribution": "",
+      "note": "the Alters as the parts the plan integrates, and how each is labelled"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        102,
+        104,
+        311
+      ],
+      "attribution": "",
+      "note": "a Guardian of KW3 in Kap 6, 7 and 31"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the architecture's frame, named once"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        136,
+        227
+      ],
+      "attribution": "",
+      "note": "emergence in Kap 10 and Kap 21"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        37,
+        44
+      ],
+      "attribution": "",
+      "note": "entropy as a lens term and as AEGIS' programme"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        195
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as Juna's form in Kap 17"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        70,
+        78,
+        94,
+        102,
+        134,
+        201,
+        306
+      ],
+      "attribution": "",
+      "note": "Guardian as a cast label, five times, and a chapter title"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        46,
+        62,
+        64,
+        110,
+        126,
+        128,
+        195,
+        235,
+        375
+      ],
+      "attribution": "",
+      "note": "Juna's several writings: Hologramm, Signatur, Echo, origin self"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        25,
+        45,
+        62,
+        64,
+        267,
+        319,
+        385
+      ],
+      "attribution": "",
+      "note": "the human lens, the waking in Kap 1, and the closing retrieval"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        125,
+        134,
+        136,
+        227
+      ],
+      "attribution": "",
+      "note": "a Guardian and a place in Kap 9 to 10 and Kap 21"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        23,
+        279,
+        335
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as AEGIS' quarantine and the falling worlds"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        70,
+        187,
+        341
+      ],
+      "attribution": "",
+      "note": "the child Alter, in Kap 2, Kap 16 and Kap 35"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        385
+      ],
+      "attribution": "",
+      "note": "the principle named in Kap 40/0"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        70,
+        72,
+        96,
+        211,
+        311
+      ],
+      "attribution": "",
+      "note": "the analyst Alter and where he acts in the plan"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        78,
+        80,
+        311
+      ],
+      "attribution": "",
+      "note": "LogOS as the system guard in Kap 3 and 31"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        85,
+        94,
+        96
+      ],
+      "attribution": "",
+      "note": "a Guardian and an archipelago in Kap 4 to 5"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        38,
+        112
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as a hard-SF anchor"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        285,
+        287
+      ],
+      "attribution": "",
+      "note": "the collapse EP in Kap 28"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        144
+      ],
+      "attribution": "",
+      "note": "the Mosaik-Herz in Kap 11"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        136,
+        367
+      ],
+      "attribution": "",
+      "note": "functional multiplicity in Kap 10 and Kap 38"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        195
+      ],
+      "attribution": "",
+      "note": "a noise-free Nexus in Kap 17"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        276,
+        277
+      ],
+      "attribution": "",
+      "note": "a cast entry of Kap 27"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        102,
+        104,
+        311
+      ],
+      "attribution": "",
+      "note": "the fighter Alter in Kap 6 and 31"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        94,
+        343
+      ],
+      "attribution": "",
+      "note": "the freeze EP in Kap 5 and Kap 35"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        203,
+        232,
+        235,
+        279,
+        335
+      ],
+      "attribution": "",
+      "note": "the sea beyond the simulation, in Kap 18 to 34"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        372,
+        375
+      ],
+      "attribution": "",
+      "note": "a new level of reality in Kap 39"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        86,
+        88
+      ],
+      "attribution": "",
+      "note": "the caretaker Alter in Kap 4"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        37,
+        235
+      ],
+      "attribution": "",
+      "note": "the Risse as digital waste heat and as the sea's search"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        193,
+        211,
+        259
+      ],
+      "attribution": "",
+      "note": "the core self in Kap 17, 19 and 25"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        201,
+        203,
+        293,
+        295
+      ],
+      "attribution": "",
+      "note": "a Guardian in Kap 18 and a renegade in Kap 29"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        13,
+        36,
+        53,
+        57,
+        164,
+        272,
+        287
+      ],
+      "attribution": "",
+      "note": "TSDP as the frame of the three parts"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        157,
+        184
+      ],
+      "attribution": "",
+      "note": "a transition zone and glitch landscapes in Kap 13 and 16"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C7",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a title containing a term: Das Kohärenz Protokoll: Narrative Architektur …), J12 and J16 (a compound is its own token: System Kael, Kohärenz-Test, Kohärenztheorie der Wahrheit, Singuläre Punkt der Kohärenz, Sünde gegen die Kohärenz, Informationsentropie, Shannon-Entropie, Kishōtenketsu-Prinzip, TEIL I / TEIL III), J34 and J43 (a slash in a name the wiki has: Juna/V), J49 (a world name built from a bearer's name is not the bearer: Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis), J69 (a match only after folding: Autonomous Entropic Gatekeeper for Integrity Systems / aegis), J92 (a clipped form names what the full form names: Aris Thorne / Thorne)",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 397,
+      "decision": "occurrence",
+      "why": "a reference title (L397)"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 136,
+      "decision": "reading",
+      "why": "read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 44,
+      "decision": "reading",
+      "why": "read on entropie"
+    },
+    {
+      "page": "guardians",
+      "surface": "Guardians",
+      "line": 417,
+      "decision": "occurrence",
+      "why": "a reference title (L417); the cast label `Guardian` is read on guardians"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the document's title (J9)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "surface": "Konstrukt-Stadt",
+      "line": 413,
+      "decision": "occurrence",
+      "why": "a reference title (L413)"
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 195,
+      "decision": "reading",
+      "why": "read on nexus"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 372,
+      "decision": "reading",
+      "why": "read on realitaetsebenen"
+    }
+  ],
+  "not_promoted": [
+    "Dr. Aris Thorne, Index (the Analyst-Alter), Epsilon-Null (the Potentialmeer beyond the simulation) — figures and places of the chapter plan; read on the chapter pages",
+    "the Vier-Linsen-Methodik and One-Beat-One-World (L40–L49) — a writing method; no page",
+    "Unit 734 (Guardian/Regel-Exekutor) — read on q7-what-734-names"
+  ],
+  "internal_tension": "it promises a „5000 Worte“ blueprint and holds about 4200 words; Kael is `Host/ANP` in Kap 1 (L62) and `Host und Self` in Kap 32 (L319); Sophia is `Guardian` in Kap 18 (L201) and `abtrünnig` in Kap 29 (L293); Juna is a hologram in Kap 1 (L62) and no longer a hologram in Kap 9 (L128)",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}
