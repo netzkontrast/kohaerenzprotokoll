@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -33,6 +33,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 - Dormanz: „Es zieht sich zurück, unfähig, die neue Realität zu verarbeiten, und wird inaktiv.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L343]
 - Adaption: „Konfrontiert mit dem unbestreitbaren Beweis seines Scheiterns und der Struktur der Moonshine-Signatur, beginnt AEGIS, seine grundlegenden Annahmen zu überdenken.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L344]
 
+## Reading — `outline`, 2025-07-30, the outline — Junas Hand: Die externe Intervention / Die Wächter des Fundaments / Konfrontation mit dem Quellcode
+
+Title: „Junas Hand: Die externe Intervention / Die Wächter des Fundaments / Konfrontation mit dem Quellcode“ ^[outline.md:L194] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Juna (aktive Rolle, Verbindung zur Realität)“ ^[outline.md:L197]; journey stage under `Reisestufe`: „Begegnung mit dem Mentor (Intern) (im generellen Kontext der Heldenreise)“ ^[outline.md:L201]
+
+- Story: the outline plans, under `Plot`, „Juna/V interveniert aktiv im Konflikt“ ^[outline.md:L196]; „trifft er auf neue, möglicherweise abstraktere oder ältere Wächter“ ^[outline.md:L196]
+- Question: under `Thematische Kernfrage`, „Kann eine höhere Wahrheit das System von innen heraus auflösen?“ ^[outline.md:L198]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -42,6 +50,39 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Juna/V schafft es, eine stabile Verbindung oder einen Eintrittspunkt in AEGIS' simulierte Realität herzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „AEGIS reagiert mit Verwirrung und Alarm“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „wodurch unbeabsichtigt eine sichere Zone für Kael und Juna/V zur Kommunikation oder Koordination entsteht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Gödel-Gambit` — one entry shared with Kap 31–33
+
+Title: „The Gödel-Gambit“ ^[ai-assisted-narrative-coherence.md:L1602] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.2 at „3.2 - AEGIS Core Processor Chamber“ ^[ai-assisted-narrative-coherence.md:L1606], POV „Kael (System) & AEGIS (Internal Logic)“ ^[ai-assisted-narrative-coherence.md:L1607]
+
+- Story (goal): the scene outline plans „To confront AEGIS's core logic and force its transformation.“ ^[ai-assisted-narrative-coherence.md:L1608]
+- Story (beat): the scene outline plans „This violates its most fundamental axiom: "Coherence arises from the elimination of contradiction."“ ^[ai-assisted-narrative-coherence.md:L1616]
+- Turn: `Outcome & Turn` has „It does not die; it is fundamentally and irrevocably transformed.“ ^[ai-assisted-narrative-coherence.md:L1618]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The temptress
+
+Title: „Die Frau als Versucherin“ ^[romanstruktur-und-philosophische-einleitung.md:L244]
+Position: Teil III, „Die Verlockung der perfekten Illusion“ ^[romanstruktur-und-philosophische-einleitung.md:L244]
+
+- Story: „Statt Gewalt bietet es das Paradies.“ ^[romanstruktur-und-philosophische-einleitung.md:L246]
+- Story: „Er wählt die Wahrheit, weil er erkennt, dass die Illusion statisch ist“ ^[romanstruktur-und-philosophische-einleitung.md:L246]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Guardian-Phalanx
+
+Title: „Die Guardian-Phalanx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L306]
+Position: Teil III; setting from the `Schauplatz` field: „Die Logik-Schleifen vor dem Systemkern“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L308]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, Cerberus, Lex, Nyx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L309]
+- Story: the blueprint plans, in `Plot-Beats`, „LogOS und Cerberus attackieren Kael in einer koordinierten Phalanx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L311] and „Diese interne Harmonie überlastet die binären Wächter“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L311]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Auflösung der Guardians
+
+Title: „Die Auflösung der Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L389] — heading „Die Assimilation“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L390]
+Position: Teil III; POV from `Perspektive & Stimme`: „Polyphon (Kael konfrontiert)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L391]; place from `Ort`: „Die zerfallenden Kernwelten“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L393]
+
+- Story: the matrix plans „Kael kämpft nicht gegen die Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L395]
+- Question: „Was passiert mit den Wächtern, wenn das Gefängnis überflüssig wird?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L394]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -75,6 +116,19 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „Er war derjenige, der die Sekunden in Kap 1, 3, 9 gestohlen hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302]; „Steh auf.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302]
 - Encoding A: „MC · SP4 (Subconscious) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302]
 - Foreshadowing: „Oblivion's Wahl wird in Kap 36 final.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — Oblivion breaks the false calm
+
+- The false ending: in Kap 30 „fällt die Erzählung in eine scheinbare Harmonie“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143] — no glitches, no heat; „Kael glaubt, Integration erreicht zu haben“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143].
+- In Kap 31 the mirror alter Oblivion breaks „diese falsche Ruhe auf“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143], which forces „den letzten Marsch in den Mnemosyne-Vortex“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143] (Kap 35). The syntax grid wakes Oblivion at the Truth-Rotation in Kap 36 instead (L128); the report states both.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Unraveling World
+
+Title: „The Unraveling World“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L908]
+Position: Akt III; POV: „POV: Kael / Oblivion.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L916]
+
+- Story: the outline plans „Oblivion, der einst gefürchtete AEGIS-Echo-Alter in Kael, erwacht und erkennt die Täuschung der Maschine.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L914]
+- Concepts: „Oblivion (Erwachen), Naturgesetze im Fluss“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L912]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,0 +1,242 @@
+{
+  "document": "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+  "drive_id": "1JOffTYjc9ZxeMSJ2ZT8PavLqpBkAu0ofauCkzkpiDNg",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 64,
+  "backslash_escapes": 28,
+  "typographic_marks": 11,
+  "ascii_quotes": 114,
+  "inflection_families": {
+    "daten": [
+      "Daten",
+      "Datenbänke",
+      "Datenernte",
+      "Datenflüsse",
+      "Datenkorruption",
+      "Datenpaket",
+      "Datenpakete",
+      "Datenpunkt",
+      "Datenpunkte",
+      "Datenströme"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemische",
+      "Systemkern",
+      "Systemlücke",
+      "Systemregel",
+      "Systems"
+    ],
+    "archi": [
+      "Archipel",
+      "Architectural",
+      "Architektur",
+      "Archiv",
+      "Archivar",
+      "Archive"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyst",
+      "Analytiker",
+      "Analytisch"
+    ],
+    "infor": [
+      "Informationsentropie",
+      "Informationssturm",
+      "Informationstheorie",
+      "Informationsüberlastung"
+    ],
+    "inter": [
+      "Interdisziplinärer",
+      "Internal",
+      "Internet",
+      "Intervention"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelgenerierung",
+      "Kapitelstruktur",
+      "Kapitelweise"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzials"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychoedukation",
+      "Psychologie",
+      "Psychologisch"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheitsdualität",
+      "Wahrheitskonzepten"
+    ],
+    "detai": [
+      "Detaillierte",
+      "Detaillierter",
+      "Details"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissonanz",
+      "Dissoziation"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionen"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropieminimierung"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entschluss",
+      "Entschlüsselung"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmentierung"
+    ],
+    "fried": [
+      "Frieden",
+      "Friedhof",
+      "Friedlich"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödelsche",
+      "Gödelsches"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollvektoren",
+      "Kontrollzentrum"
+    ],
+    "logik": [
+      "Logik",
+      "Logikfallen",
+      "Logikgatter"
+    ],
+    "parad": [
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsaspekte"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "quell": [
+      "Quellcode",
+      "Quellen",
+      "Quellenfokus"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Dual",
+      "Wahrheitsdualität"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eins",
+      "Gemeinsam"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Fall",
+      "Falle"
+    ],
+    [
+      "Fall",
+      "Fallen"
+    ],
+    [
+      "Fall",
+      "Logikfallen"
+    ],
+    [
+      "Form",
+      "Formeln"
+    ],
+    [
+      "Form",
+      "Umformung"
+    ],
+    [
+      "Form",
+      "Informationssturm"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Form",
+      "Strukturinformation"
+    ],
+    [
+      "Form",
+      "Informationsentropie"
+    ],
+    [
+      "Form",
+      "Informationsüberlastung"
+    ],
+    [
+      "Herr",
+      "Vorherrschaft"
+    ]
+  ]
+}

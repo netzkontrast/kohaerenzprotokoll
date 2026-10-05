@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 11
-readings: 11
+sources: 17
+readings: 17
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -47,6 +47,32 @@ by effect, never by identity. See [[partnerin|Partnerin]].
 
 `Cerberus` — see [[cerberus|Cerberus]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
+
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — KW3, the paranoid world of defence and isolation, and the Ego-Tod of Kap 7–9
+
+The editor's report gives the plot document's KW3 in a reference-1 sentence: „Die paranoide Welt der Abwehr und Isolation, kontrolliert von Cerberus“ ^[scifi-roman-mit-ki-schreiben.md:L90] For Kap 7–9 it writes, with the plot document's reference after the sentence, „Die beklemmende Grenzfeste (KW3) und der dort erlebte“ ^[scifi-roman-mit-ki-schreiben.md:L221] `Ego-Tod`, which it calls „ein Moment völliger Hoffnungslosigkeit und des Scheiterns seiner bisherigen Abwehrstrategien“ ^[scifi-roman-mit-ki-schreiben.md:L221]
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — KW3, Cerberus's domain, a bunker-like fortress
+
+KW3 is, in the synthesis's list of the four worlds, „Domäne von Cerberus“ ^[system-kael-konzeptentwicklung-und-analyse.md:L162]: „Eine bunkerartige, klaustrophobische Festung“ ^[system-kael-konzeptentwicklung-und-analyse.md:L162] that externalises paranoia, mistrust and the fight reaction. In its reading of the plot the Grenzfeste is where, in the line's words, Kael „betritt die Grenzfeste“ ^[system-kael-konzeptentwicklung-und-analyse.md:L208], the low point of the journey.
+
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — KW3's scene
+
+A light pass: the outline restates `scifi-roman-mit-ki-schreiben`, its only named source (L287), which is already read on this page; this reading holds only what the outline adds, its scene for the world.
+
+The outline makes KW3 „eine bunkerartige, klaustrophobische Festung oder ein Gefängnis“ ^[roman-outline-system-kael.md:L125], its architecture „brutalistisch, defensiv“ ^[roman-outline-system-kael.md:L125], with high walls, narrow corridors and surveillance; Cerberus classes the Juna connection as „gefährliche Kontamination oder feindliche Intrusion“ ^[roman-outline-system-kael.md:L127].
+
+## Reading — `outline`, 2025-07-30, the outline — Grenzfeste as KW3's name in Teil 2
+
+Teil 2's section IV names `KW3` `Grenzfeste`, with Cerberus, and describes it: „Die Umgebung ist befestigt, labyrinthisch, klaustrophobisch und dunkel.“ ^[outline.md:L132] (L132).
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the blueprint, the architecture analysis) — the name of KW3
+
+The architecture analysis pairs the name with the Labyrinth: „KW3 (Grenzfeste/Cerberus-Labyrinth)“ ^[ai-assisted-narrative-coherence.md:L1727]. The blueprint's heading gives the world as „KW3: Cerberus-Labyrinth (The Fortress of Defense)“ ^[ai-assisted-narrative-coherence.md:L477], and the three-act blueprint calls it the `Border Fortress`.
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — KW3, Die Grenzfeste / Cerberus-Labyrinth
+
+KW3 is named „Die Grenzfeste / Cerberus-Labyrinth“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L67] and described as „Ein brutalistisches, bunkerartiges Konstrukt, bewacht von Cerberus.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L67] The line adds that it is a physical manifestation of paranoia and deep mistrust.
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the row KW3 Cerberus-Labyrinth, written under the Guardian-built name only
 

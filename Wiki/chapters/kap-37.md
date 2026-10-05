@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 - Plot: „Ein kurzer Blick über den unmittelbaren Konflikt hinaus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396], hinting „dass AEGIS“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396] „Simulation nur eine von vielen war, oder dass M selbst nur eine mögliche Struktur ist, die aus dem unendlichen Potentialmeer emergiert ist.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
 - Establishes: „Dies verstärkt den kosmischen Horror und die Relativität des gerade Erreichten.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
 
+## Reading — `outline`, 2025-07-30, the outline — Das Erbe von AEGIS: Fragmente einer Ordnung / Die neue Kohärenz
+
+Title: „Das Erbe von AEGIS: Fragmente einer Ordnung / Die neue Kohärenz“ ^[outline.md:L248] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Leser (Reflexion über AEGIS' Natur, dessen tragisches Schicksal)“ ^[outline.md:L251]; journey stage under `Reisestufe`: „Die Auferstehung (im generellen Kontext der Heldenreise)“ ^[outline.md:L255]
+
+- Story: the outline plans, under `Plot`, „findet eine neue, weniger rigide Form von Kohärenz“ ^[outline.md:L250]; „um echte Emergenz statt Kontrolle zu unterstützen“ ^[outline.md:L250]
+- Question: under `Thematische Kernfrage`, „Ist selbst die Fehlfunktion einer Ordnung besser als reines Nichts?“ ^[outline.md:L252]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -39,6 +47,39 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „überlebende Guardians, lokale 'Ordnungsinseln' zu schaffen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
 - Story: „vielleicht eine rudimentäre Form von AEGIS, die versucht, aus den Trümmern wiederaufzubauen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
 - Story: „Kael muss entscheiden, ob diese Neuorganisation eine Bedrohung oder eine Chance darstellt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Contacting the Foundation` — one entry shared with Kap 37–38
+
+Title: „Contacting the Foundation“ ^[ai-assisted-narrative-coherence.md:L1636] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.4 at „3.4 - A space beyond the Core Worlds“ ^[ai-assisted-narrative-coherence.md:L1640], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1641]
+
+- Story (goal): the scene outline plans „To perceive and understand the final layer of reality, "Das Fundament."“ ^[ai-assisted-narrative-coherence.md:L1642]
+- Story (beat): the scene outline plans „He perceives "Das Fundament," not as a place or an entity, but as a relational process—a "strange attractor" that guides existence toward integrated complexity.“ ^[ai-assisted-narrative-coherence.md:L1648]
+- Turn: `Outcome & Turn` has „Kael achieves a final, cosmic understanding.“ ^[ai-assisted-narrative-coherence.md:L1651]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The return across the threshold
+
+Title: „Rückkehr über die Schwelle“ ^[romanstruktur-und-philosophische-einleitung.md:L270]
+Position: Teil III, „Die neue Realität“ ^[romanstruktur-und-philosophische-einleitung.md:L270]
+
+- Story: „Kael kehrt in die (nun transformierte) Welt zurück.“ ^[romanstruktur-und-philosophische-einleitung.md:L272]
+- Story: „Die Grenzen zwischen Innen und Außen sind durchlässig geworden.“ ^[romanstruktur-und-philosophische-einleitung.md:L272]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Kollaps des Protokolls
+
+Title: „Der Kollaps des Protokolls“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L354]
+Position: Teil III; setting from the `Schauplatz` field: „Das Fundament“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L356]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS (transformiert)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L357]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS wandelt sich vom Gefängniswärter zum Gärtner der Realität“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L359] and „Das alte Protokoll ist beendet“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L359]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Geburt des Gärtners
+
+Title: „Die Geburt des Gärtners“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L461] — heading „Welten formen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L462]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael (Schöpfer-Perspektive)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L463]; place from `Ort`: „Die neue, umgeformte Realität“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L465]
+
+- Story: the matrix plans „Kael formt die Ruinen der KWs zu einer neuen, offenen Umgebung“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L467]
+- Question: „Wie baut man eine Welt, die das Leben atmen lässt?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L466]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -72,6 +113,14 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Inseln der Negentropie entstehen um ihn“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330]; „Aktive Negentropie als gelebte Praxis“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330]
 - Encoding A: „OS · SP4 (Conceptualizing) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Wellen der Ordnung
+
+Title: „Wellen der Ordnung“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1114]
+Position: Akt III; POV: „POV: Kael/M.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1122]
+
+- Story: the outline plans „Kael/M bewegt sich durch die Überreste der Server.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1120]
+- Concepts: „Aktive Negentropie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1118]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,21 @@ Position: „(Fundamentales Konzept: Autopoiesis)“ ^[kohaerenz-protokoll.md:L3
 - Finds M behind the censorship: „primäre Quelle komplexer, irreduzibler Information“ ^[kohaerenz-protokoll.md:L394]
 - LogOS ends it: „Der Bunker, den er so sorgfältig errichtet hatte, war nicht stark genug gewesen.“ ^[kohaerenz-protokoll.md:L430]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Illusion der Therapie
+
+Title: „Die Illusion der Therapie“ ^[roman-outline-system-kael.md:L59]
+Position: Teil I, KW1
+
+- Story: a session with Dr. Thorne, „einer KI-Entität, die darauf programmiert ist, Abweichungen durch logische Umdeutung zu“ ^[roman-outline-system-kael.md:L59] heal; „Thorne erklärt die“ ^[roman-outline-system-kael.md:L59] Risse as stress symptoms.
+
+## Reading — `outline`, 2025-07-30, the outline — Der Archivar und die flüsternden Daten
+
+Title: „Der Archivar und die flüsternden Daten“ ^[outline.md:L33] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „der jedoch nur zensierte oder fragmentierte Informationen bereitstellt“ ^[outline.md:L35]
+- Focus: under `Fokus`, „die erste direkte Informationsblockade durch AEGIS“ ^[outline.md:L36]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -50,6 +65,30 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht eine Handlung, die eine Kernregel der Logik in seiner aktuellen Umgebung (vielleicht in KW1: LogOS) verletzt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55]
 - Story: „LogOS manifestiert sich oder interveniert direkt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55] · „eine nicht-emotionale, rein informative 'Korrektur' oder ein Regelzitat“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55]
 - Discussion: „Die Intervention wirkt unpersönlich und absolut“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L56]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The descent into the fog
+
+Title: „Der Abstieg in den Nebel“ ^[romanstruktur-und-philosophische-einleitung.md:L51]
+Position: Teil I, „Verlust der Kontrolle“ ^[romanstruktur-und-philosophische-einleitung.md:L51]
+
+- Story: the way leads „Der Weg führt tiefer in die Psyche, weg von der Logik“ ^[romanstruktur-und-philosophische-einleitung.md:L53] into KW2, the domain of Mnemosyne
+- Story: there Kael suffers a loss of control: „Kael erlebt einen massiven Kontrollverlust.“ ^[romanstruktur-und-philosophische-einleitung.md:L55]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das Logikgatter
+
+Title: „Das Logikgatter“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L75]
+Position: Teil I; setting from the `Schauplatz` field: „Kaels Arbeitsstation / Axiom-Archiv in KW1“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L77]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, LogOS (System-Wächter), Lex“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L78]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael analysiert Datenströme und entdeckt ein inkompressibles, organisches Datenpaket“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L80] and „Kael nimmt erstmals den Geruch von nasser Erde wahr“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L80]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das flüchtige Echo
+
+Title: „Das flüchtige Echo“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L45] — heading „Die Anomalie Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L46]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (plötzlich emotional, lyrischer Einbruch)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L47]; place from `Ort`: „KW1 – Ein verlassener Randbezirk“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L49]
+
+- Story: the matrix plans „Kael sieht Juna. Die Stadtgesetze brechen um sie herum zusammen. Sie verschwindet, bevor er sie erreicht“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L51]
+- Question: „Kann ein Fehler im System etwas Schönes sein?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L50]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -82,6 +121,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „das Halteproblem in Hardware“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L168]; „friert sein Innerer Monolog für drei Sekunden ein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L168]
 - Encoding A: „MC · SP1 (Preconscious) · Falsehood-vs-Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L168]
 - The entry for Kap 31 names the one who took the seconds of Kap 3: „Er war derjenige, der die Sekunden in Kap 1, 3, 9 gestohlen hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — A Fissure in the Data Stream
+
+Title: „A Fissure in the Data Stream“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L81]
+Position: Akt I; POV: „POV: Lex.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L89]
+
+- Story: the outline plans „übernimmt der hochrationale Anteil Lex die Kontrolle über den Körper“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L87]
+- Story: the outline plans „stößt er jedoch auf ein Paradoxon, das er nicht berechnen kann“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L87]
+- Concepts: „Lex (Alter), ANP, Halteproblem“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L85]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

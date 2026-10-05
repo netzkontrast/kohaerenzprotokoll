@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,21 @@ Position: „(Fundamentales Konzept: Symmetrie / Gödel’sche Sätze)“ ^[koha
 - Named: „Gödels Unvollständigkeitssatz, in Reinform manifestiert in den Fundamenten von Co₁.“ ^[kohaerenz-protokoll.md:L480]
 - Result: „Er hatte versagt.“ ^[kohaerenz-protokoll.md:L516]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Ruf der Tiefe
+
+Title: „Der Ruf der Tiefe“ ^[roman-outline-system-kael.md:L100]
+Position: Teil II, KW2
+
+- Story: „Ein starker Impuls der Juna-Verbindung destabilisiert Kaels Realität in KW1 vollständig.“ ^[roman-outline-system-kael.md:L100]
+
+## Reading — `outline`, 2025-07-30, the outline — Echoes aus dem See der Tränen
+
+Title: „Echoes aus dem See der Tränen“ ^[outline.md:L39] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „einen intensiven emotionalen Rückblick“ ^[outline.md:L41]
+- Focus: under `Fokus`, „Rhys, der Pfleger-ANP, tritt hervor“ ^[outline.md:L42]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -51,6 +66,39 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „bemerkt Kael subtile Anzeichen von Systeminstabilität um sich herum“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68] · „Vielleicht geringfügige visuelle Störungen, Audiostörungen oder temporäre Fehlfunktionen nahegelegener automatisierter Systeme.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Story: „Diagnose- oder niedrigstufige Eindämmungsprotokolle“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Discussion: „sein innerer Zustand destabilisiert nun aktiv das System“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L69]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The First Journey into Memory`, one entry shared with Kap 04–05
+
+Title: „The First Journey into Memory“ ^[ai-assisted-narrative-coherence.md:L1335] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.4 - Mnemosyne-Archipel (KW2), Lake of Tears“ ^[ai-assisted-narrative-coherence.md:L1339], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1340]
+
+- Story (conflict): the scene outline plans „an overwhelming sensory assault“ ^[ai-assisted-narrative-coherence.md:L1342]
+- Story (beat): the scene outline plans „and pushes through, falling from the sterile data-scape of KW1“ ^[ai-assisted-narrative-coherence.md:L1345]
+- Turn: `Outcome & Turn` has „Kael escapes the loop and retreats from KW2, terrified“ ^[ai-assisted-narrative-coherence.md:L1350]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The encounter with the shadow
+
+Title: „Die Begegnung mit dem Schatten“ ^[romanstruktur-und-philosophische-einleitung.md:L59]
+Position: Teil I, „Juna als Echo“ ^[romanstruktur-und-philosophische-einleitung.md:L59]
+
+- Story: Juna appears as an emotional anchor to the external level, in KW2 mostly as an echo: „Im Kontext von KW2 erscheint Juna oft nur als Echo“ ^[romanstruktur-und-philosophische-einleitung.md:L61]
+- Story: the three-part analysis reads the Kael–Juna dynamic as attachment trauma: „Dies ist der Kern der psychologischen Tragödie“ ^[romanstruktur-und-philosophische-einleitung.md:L63]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Korruptionsmarkierung
+
+Title: „Die Korruptionsmarkierung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L83]
+Position: Teil I; setting from the `Schauplatz` field: „Die Nahtstelle zwischen Logos-Prime und dem Mnemosyne-Archipel (KW2)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L85]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Rhys (Caretaker)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L86]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS stuft Kaels psychologische Intrusion (ein aufkommender Flashback) fehlerhaft als Datenkorruption ein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L88] and „tritt hervor, um Kael vor dem emotionalen Aufprall in einer nebligen, feuchten Landschaft zu dämpfen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L88]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die unentscheidbare Zone
+
+Title: „Die unentscheidbare Zone“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L57] — heading „Gödels Architekt“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L58]
+Position: Teil I; POV from `Perspektive & Stimme`: „AEGIS (Log-Eintrag) & Kael (Lex-dominant)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L59]; place from `Ort`: „Verstecktes Archiv in KW1“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L61]
+
+- Story: the matrix plans „Kael entdeckt Aufzeichnungen des System-Architekten“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L63]
+- Question: „Kann ein System sich selbst vollständig verstehen?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L62]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -81,6 +129,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „drei verschiedene Grundfrequenzen über sechs Stunden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]; „ein Eintrag, der weder in den Genesis-Logs noch im Eingangsstrom war“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]
 - Encoding A: „RS · SP1 (Understanding) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]
 - The seeding table lists for Kap 4 a cache anomaly: „Mnemosyne registriert ein Datum, das es nie eingespeist hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L141].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Resonant Intrusion
+
+Title: „The Resonant Intrusion“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L109]
+Position: Akt I; POV: „POV: Kael / AEGIS (Systemprotokolle).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L117]
+
+- Story: the outline plans „Aus dem Riss emittiert eine starke Hitzewelle“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L115]
+- Story: the outline plans „die erste indirekte Berührung durch Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L115]
+- Concepts: „Moonshine-Link, Phantom-Resonanz, Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L113]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

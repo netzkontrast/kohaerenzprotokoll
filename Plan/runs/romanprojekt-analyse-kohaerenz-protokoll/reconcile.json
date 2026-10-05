@@ -1,0 +1,471 @@
+{
+  "document": "romanprojekt-analyse-kohaerenz-protokoll",
+  "drive_id": "1ovMnE9TjJpi0u7zltTt4vXIpVhYgHuq4whvxmjBehaw",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; rlm_ingest not run (paused); readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-83/brief.md, keeping the quoted Doc NN cells apart from the report's own columns, and the session's own reading on kael-julia-bindung; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 99,
+    "decisions": 110,
+    "decided_by_lookup": 76,
+    "needs_judgement": 34
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Two generated reports about other documents: their own words are the apparatus of a registry (Contradiction Report, Idea Registry, Kern-Konflikt, Kernaussage, star ratings, Archivist) and labels for concepts (Holografisches Trauma, Gaslighting durch das System, Triple Helix, Polyphone Prosa); its world is the wiki's. The quoted cells are unnamed sources' words. Its readings went onto 38 pages and 7 records; no name is defined here that the wiki lacks.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        32,
+        67,
+        70,
+        82,
+        84,
+        104
+      ],
+      "attribution": "",
+      "note": "AEGIS as the registry sums it up and as the report's conflict C-005 sets two fates against each other"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        69
+      ],
+      "attribution": "",
+      "note": "Alex in the registry's list of core alters"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        32,
+        93
+      ],
+      "attribution": "",
+      "note": "Algorithmic melancholy as one side of conflict C-005 and as the effect of the Gödel-Gambit"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        23,
+        69,
+        71
+      ],
+      "attribution": "",
+      "note": "Registry row F-04's ten core alters, F-06's decanonised ones, and conflict C-002 (11 against 13 or more)"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        24,
+        69
+      ],
+      "attribution": "",
+      "note": "Argus as critic in F-04 and as the target of Silas's role in conflict C-003"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        70,
+        80
+      ],
+      "attribution": "",
+      "note": "Cerberus among the five guardians and as the lord of KW3"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        49,
+        91
+      ],
+      "attribution": "",
+      "note": "The dual kernel theory in P-01 and the source index"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "Entropy as the chaos AEGIS emerged from (W-07)"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        83,
+        122
+      ],
+      "attribution": "",
+      "note": "Köln as the base reality (W-06) and open question 3"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        25,
+        120
+      ],
+      "attribution": "",
+      "note": "Open question 1, the Genesis-Event of Kael"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        33,
+        93
+      ],
+      "attribution": "",
+      "note": "The Gödel-Gambit in P-03 and in the report's summary of C-006"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        70,
+        82,
+        116
+      ],
+      "attribution": "",
+      "note": "Five guardians over four core worlds (F-05) and the guardians' dissonance (S-04)"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        22,
+        41,
+        68
+      ],
+      "attribution": "",
+      "note": "Juna in F-03 and in the naming and nature conflicts C-001 and C-008"
+    },
+    {
+      "page": "kael-julia-bindung",
+      "lines": [
+        41,
+        122
+      ],
+      "attribution": "",
+      "note": "Julia as one of Juna's names, and a question about Köln"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        25,
+        33,
+        66,
+        93,
+        120
+      ],
+      "attribution": "",
+      "note": "Kael as host (F-01), his unclear origin trauma (C-004, open question 1) and the climax approaches (C-006)"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        70,
+        78,
+        79,
+        81
+      ],
+      "attribution": "",
+      "note": "The four core worlds KW1 to KW4 in the registry's world-building table"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        69,
+        121
+      ],
+      "attribution": "",
+      "note": "Kiko in the registry's list of core alters and in open question 2"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        78,
+        121
+      ],
+      "attribution": "",
+      "note": "KW1 as LogOS's domain, and the trigger question"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        69,
+        123
+      ],
+      "attribution": "",
+      "note": "Lex in the registry's list of core alters and in open question 4"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        69,
+        121,
+        123
+      ],
+      "attribution": "",
+      "note": "Lia in the registry's list and in open questions 2 and 4"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        70,
+        78
+      ],
+      "attribution": "",
+      "note": "LogOS as the lord of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        70,
+        79
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the lord of KW2"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "KW4 as the garden of synthesis"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        68,
+        94,
+        115
+      ],
+      "attribution": "",
+      "note": "The Moonshine-Link in P-04, F-03 and S-03"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        66,
+        105
+      ],
+      "attribution": "",
+      "note": "Functional multiplicity as the healing goal (T-04, F-01)"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        82
+      ],
+      "attribution": "",
+      "note": "The Nexus as the bracketed name of the Überwelt (W-05)"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "Das Nichts-Rauschen, row W-07"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        69,
+        121
+      ],
+      "attribution": "",
+      "note": "Nyx in the registry's list of core alters and in open question 2"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        71
+      ],
+      "attribution": "",
+      "note": "Oblivion among the decanonised alters"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "The Potentialmeer named inside row W-07"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "A higher reality level in conflict C-006"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        79
+      ],
+      "attribution": "",
+      "note": "KW2 as Mnemosyne's domain"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        24,
+        34
+      ],
+      "attribution": "",
+      "note": "Rhys in conflict C-007, swinging between carer and co-dependency"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        92
+      ],
+      "attribution": "",
+      "note": "Risse as the Landauer burn marks (P-02)"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        69,
+        81
+      ],
+      "attribution": "",
+      "note": "Selene as integration alter and as the one who starts integration in KW4"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        24,
+        71
+      ],
+      "attribution": "",
+      "note": "Silas in conflict C-003 and among the decanonised alters (F-06)"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        25,
+        49,
+        66
+      ],
+      "attribution": "",
+      "note": "TSDP in F-01, in C-004 and in the source index"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        82
+      ],
+      "attribution": "",
+      "note": "The Überwelt as a data level of the guardians (W-05)"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C11",
+    "C13",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q6",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a title containing a term: Contradiction Report — Kohärenz Protokoll), J12 and J16 (a compound or a qualified label is its own token: System Kael (Host), Juna/V Paradox, Juna vs V vs Julia, Die Wächter (Guardians), Cerberus-Labyrinth (KW3), Die Überwelt (Nexus), Externe Ebene (Köln), Gaslighting durch das System, Die 10 Kern-Alters, Dekanonisierte Alters, Konstrukt-Stadt (KW1), Resonanz-Landschaft (KW2), Möglichkeits-Garten (KW4), Genesis-Krise, Genesis-Event, Fehlausgerichtete Kohärenz, Landauer-Prinzip / Risse, Zero-Trust Execution Model), J24 and J97 (a case ending is no boundary: Kaels), J34 and J43 (a slash in a name the wiki has: Juna / V), J92 (a clipped form names what the full form names: Julia / juna)",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Zero-Trust",
+      "line": 82,
+      "decision": "occurrence",
+      "why": "W-05's basis, the Zero-Trust Execution Model (L82), read on ueberwelt"
+    },
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 23,
+      "decision": "reading",
+      "why": "C-002 (L23), read on alters"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 84,
+      "decision": "reading",
+      "why": "W-07 (L84), read on entropie"
+    },
+    {
+      "page": "externe-ebene",
+      "surface": "Externe Ebene",
+      "line": 83,
+      "decision": "reading",
+      "why": "W-06 (L83)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the report's title (J9)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "surface": "Konstrukt-Stadt",
+      "line": 78,
+      "decision": "reading",
+      "why": "W-01 (L78)"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "surface": "Möglichkeits-Garten",
+      "line": 81,
+      "decision": "reading",
+      "why": "W-04 (L81)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 33,
+      "decision": "reading",
+      "why": "C-006, a quoted source on a higher plane of reality (L33)"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "surface": "Resonanz-Landschaft",
+      "line": 79,
+      "decision": "reading",
+      "why": "W-02 (L79)"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 92,
+      "decision": "reading",
+      "why": "P-02 (L92)"
+    }
+  ],
+  "not_promoted": [
+    "Eos, Nox, Praetor — decanonised alters named in F-06 and C-002 (L23, L71); no page",
+    "Holografisches Trauma, Gaslighting durch das System, Kohärenz vs. Korrespondenz — registry concepts (L95, L102, L106); no page",
+    "the Doc NN sources — never named by title; no landed document is identified with any of them"
+  ],
+  "internal_tension": "`Die 10 Kern-Alters` (L69) against the „11er-Kanon“ (L23, L71); five guardians over four Kernwelten (L70); „30 Konzepte“ (L59) against 27 rows; Juna, V and Julia as names of one entity (L41)",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

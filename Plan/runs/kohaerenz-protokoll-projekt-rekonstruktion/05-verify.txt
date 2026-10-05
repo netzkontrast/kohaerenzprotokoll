@@ -1,0 +1,191 @@
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Datum"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Datum` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#7]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Status"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Status` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#10]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Entscheidungen (Ja)"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Entscheidungen (Ja)` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Kernthemen"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kernthemen` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "AI-Partner"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`AI-Partner` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Unbestimmt"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Unbestimmt` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#21]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "KW1"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`KW1` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#7]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "KW2"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`KW2` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "KW3"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KW3` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "KW4"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`KW4` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Anscheinend Normale Persönlichkeitsanteile"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Anscheinend Normale Persönlichkeitsanteile` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Emotionale Persönlichkeitsanteile"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Emotionale Persönlichkeitsanteile` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Dual-Kernel-Theorie"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Dual-Kernel-Theorie` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Silas"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Silas` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Oblivion-Zustand"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Oblivion-Zustand` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "IFS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`IFS` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "IFS-Integration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`IFS-Integration` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "IFS-Therapiemodells"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`IFS-Therapiemodells` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "NovelOS-Framework"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`NovelOS-Framework` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "NovelOS-Frameworks"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`NovelOS-Frameworks` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Foundation-Code"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Foundation-Code` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Foundation-Codes"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Foundation-Codes` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Julia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Julia` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Moonshine-Link"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Moonshine-Link` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Lex"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Lex` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Alex"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Alex` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-projekt-rekonstruktion --count "Kernel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            9
+
+`Kernel` ^[kohaerenz-protokoll-projekt-rekonstruktion.md:#2]
+
+Sum of stance markers: Datum 7 + Status 10 + Entscheidungen (Ja) 5 + Kernthemen 5 + AI-Partner 5 = 32
+Observed (by reading): register rows Q-01 to Q-16 at L28 to L43 = 16; reference list entries at L318 to L327 = 10; the date 2026-03-26 stands at L134, L197, L263, L303.

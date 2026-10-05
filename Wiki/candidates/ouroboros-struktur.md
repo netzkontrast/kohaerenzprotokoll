@@ -1,10 +1,10 @@
 ---
 term: Ouroboros-Struktur
 status: candidate
-sources: 28
-readings: 27
+sources: 31
+readings: 30
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 gathered: "2026-09-25"
 ---
 
@@ -19,6 +19,10 @@ where (Kap 1 ↔ Kap 39, Kap 40, or both brackets, in the philosophischer Berich
 Vortex, and in the Hard-SF-Outline a recognition in Kap 38 with nothing said to repeat). Some also use `Ouroboros` for
 something the Wir goes into in Kap 38 (in the philosophy catalogue, Kap 39), or for something the Alter architecture
 can do. Each reading is below, attributed and unmerged.
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Kap 40/0 as epilogue and prologue at once, the cycle restarting in KW1
+
+The three-part analysis titles Kap 40/0 „Der Ouroboros und das Trennungsprotokoll“ ^[romanstruktur-und-philosophische-einleitung.md:L284] and says „Dieses Kapitel fungiert gleichzeitig als Epilog und als der Prolog, der dem Roman vorangestellt ist.“ ^[romanstruktur-und-philosophische-einleitung.md:L288] It ends the chapter with the restart: „Kael öffnet die Augen. Er steht in KW1. Er weiß nicht, wer er ist.“ ^[romanstruktur-und-philosophische-einleitung.md:L306] and „Das Ende ist der Anfang.“ ^[romanstruktur-und-philosophische-einleitung.md:L310]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — a recognition in Kapitel 38: the separation was the way, the pain unchanged
 
@@ -50,6 +54,16 @@ The outline of 2026-05-01: „Eröffnung A, Schluss A — Ouroboros bleibt intak
 ## Reading — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt — the reported ending
 
 In its report of the canon trio the prompt gives the ending as „Ouroboros-Schluss“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L750] with the sentence „Die Trennung war nie real, ändert nichts am Schmerz.“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L750] The trio is not in the text.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — the ozone image, cold in Kap 1 and hot in Kap 39
+
+The report's directive (§4.5, F10): „Das kanonische Bild (F10) ist der Geruch nach Ozon, gekoppelt an Temperatur.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L134] Kap 1: „Die Welt ist kalt und steril.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L138] Kap 39: „Die Phänomenologie ist identisch (Ozon-Geruch), aber die Semantik ist invertiert.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L139] In the table, column 4 (the report's verdict) says the pre-reset fusion „widerspricht der K1-Logik der Ouroboros-Struktur“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L53]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the Ouroboros marker on Kap 1 and Kap 39 and its two meanings
+
+The outline calls it a marker: the heading of its block reads `Ouroboros-Marker (Kapitel 1 ↔ Kapitel 39)`. In Kap 1 the cold and the ozone mean isolation: „Die absolute Kälte und der beißende Geruch von Ozon symbolisieren hier Kaels radikale Isolation“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L51] The block after Kap 39 gives the same phenomena a changed meaning: „sind exakt diese Phänomene das Produkt der unaufhebbaren, heißen Reibung der Moleküle aneinander“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1200]
+
+The run's first-person reflection in Anhang D mentions the marker twice: „Den Ouroboros-Marker (Ozon/Hitze) schon ab dem Entwurf von Kapitel 1 aggressiver mit der DKT-Physik verknüpfen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1372] and, writing `Ouroboros-Struktur` once, „Die semantischen Anker der Ouroboros-Struktur noch stärker durch Akt II weben.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1396]
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

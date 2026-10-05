@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 29
-readings: 29
+sources: 39
+readings: 39
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -53,9 +53,41 @@ Version 2's scene 6 is headed „Szene 6: Die Überwelt“ ^[uberarbeitete-optim
 
 Version 3 keeps scene 7, whose goal is „Simulationsebene als Werkzeug der Optimierung“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L111], analysis and possible construction of reality. New scene 8 plans an ambitious simulation in the Überwelt (L140); it reaches „Die Grenze des Modells“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L142], and AEGIS classes what it cannot model away (L143). New scene 10 plans the Überwelt as the tool AEGIS turns to first, and its failure: „Die Überwelt, das mächtigste Analysewerkzeug, versagt.“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L181]
 
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the chaotic Überwelt of the Guardians in Kap 10–13
+
+In its assessment of Kap 10–13 the report writes of the finale: „Eintritt in die chaotische Überwelt der Guardians“ ^[scifi-roman-mit-ki-schreiben.md:L222] — read there as the freedom to live; the report says nothing more of it.
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — AEGIS's primary instrument, the Labor der Kohärenz, as externalised mind
+
+The synthesis (glued `1`) says the Digitale Überwelt „ist nicht nur ein Schauplatz, sondern das primäre Instrument von AEGIS' Selbsterhaltung“ ^[system-kael-konzeptentwicklung-und-analyse.md:L46], the „Labor der Kohärenz“ ^[system-kael-konzeptentwicklung-und-analyse.md:L46], and it describes it as „ein rein informationsbasierter Raum“ ^[system-kael-konzeptentwicklung-und-analyse.md:L46] Its own interpretation of the structure: it „lässt sich als Externalisierung der kognitiven Funktionen eines traumatisierten Geistes interpretieren“ ^[system-kael-konzeptentwicklung-und-analyse.md:L56]
+
+## Reading — `outline`, 2025-07-30, the outline — the Überwelt as AEGIS' domain, entered in Kap 13
+
+Kap 13 plans that Kael „bewusst die Überwelt, AEGIS' direkte Domäne, auf und erhält initialen Zugang.“ ^[outline.md:L86] (L86), and „Die Überwelt wird als abstrakt, steril und datengesteuert eingeführt.“ ^[outline.md:L87] (L87). Teil 2 says of it „Die Überwelt ist abstrakt, informationsbasiert und unmenschlich.“ ^[outline.md:L134] (L134).
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the blueprint, the concept document, the three-act blueprint, the architecture analysis) — AEGIS's information-based control layer
+
+The blueprint's section 5.1: „The Überwelt is the purely information-based reality that serves as AEGIS's operational network and nervous system.“ ^[ai-assisted-narrative-coherence.md:L463] The concept document: it „is AEGIS's primary control layer and internal laboratory.“ ^[ai-assisted-narrative-coherence.md:L559] The three-act blueprint places the climax there, in „the abstract, information-based reality of AEGIS's core processing“ ^[ai-assisted-narrative-coherence.md:L898]. The architecture analysis (section 3.2): „AEGIS's domain—an abstract, information-based realm where it exercises central control and processing.“ ^[ai-assisted-narrative-coherence.md:L1732]
+
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the Überwelt as a simulation inside closure, with Spencer-Brown and Baudrillard as lenses
 
 The Textanalyse, a commentary on one narrative, writes that AEGIS, to control the outside, creates an `Überwelt`, and reads it: „Dies ist eine Simulation, ein“ ^[textanalyse-existenz-system-und-leid.md:L174] mental construct, and the narrative's `mentales Konstrukt` inside the closure. **The narrative, as the Textanalyse quotes it:** „Ein Raum, in dem AEGIS sich selbst spiegeln, analysieren und optimieren kann.“ ^[textanalyse-existenz-system-und-leid.md:L176] **The Textanalyse reads** it as Spencer-Brown's re-entry as Luhmann adapts it, and says the text anticipates Baudrillard's simulacra: „In der Überwelt werden Bedrohungen simuliert und“ ^[textanalyse-existenz-system-und-leid.md:L180] test runs are carried out (`Testläufe`). Synopsis row: „Eine interne, kontrollierbare Kopie der Realität“ ^[textanalyse-existenz-system-und-leid.md:L294]. The theorists' concepts are the commentary's lens, not the narrative's.
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The Überwelt as Part II's dominant domain and AEGIS's administrative heart
+
+The three-part analysis heads Part II „Dominante Domäne: Die Überwelt (AEGIS) & Meta-Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L136] In Kap 14 Kael „erkennt durch die Analyse von Datenströmen in der Überwelt“ ^[romanstruktur-und-philosophische-einleitung.md:L144] In Kap 28 he enters it: „Kael verlässt die bekannten Kernwelten und dringt in die **Überwelt** vor, das administrative Herz von AEGIS.“ ^[romanstruktur-und-philosophische-einleitung.md:L234] and „reine Datenarchitektur ohne skeuomorphe Fassaden“ ^[romanstruktur-und-philosophische-einleitung.md:L234]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a transition zone and glitch landscapes in Kap 13 and 16
+
+The master blueprint sets Kap 13 in „Übergangszone zwischen KW1 und der Überwelt.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L157] and Kap 16 in „Glitch-Landschaften (Zwischenspeicher der Überwelt).“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L184]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Überwelt in Kap 14 and the focus of Part II
+
+Part II carries the focus „Erkundung der Überwelt, Konfrontation mit der System-Logik, Eskalation des Paradoxons.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L177] Kap 14 is titled „Eintritt in die Überwelt“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L181] and set in „Die digitale Überwelt (zwischen den KWs).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L185]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the Überwelt as gloss of the Nexus in Teil II
+
+The Teil II plot has Kael ascend „steigt in den Nexus (die Überwelt) auf“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L28]. The report gives the Überwelt only there, as the parenthetical name of the Nexus.
 
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the simulation as the world AEGIS keeps flawless and that would die of heat; the word Überwelt never written
 
@@ -67,6 +99,12 @@ Whether the document's simulation is this page's Überwelt is not settled by the
 
 The pitch writes `Überwelt` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#0] and `Simulation` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#5]. It places the worlds „Innerhalb der von AEGIS simulierten Kernwelten“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L91], and the Risse grow „im Gewebe der Simulation das unausweichliche Eindringen der Entropie visualisieren“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L153].
 
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — The Überwelt as a data level of the guardians (W-05)
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row W-05 (four stars): „Abstrakte, meta-kognitive Daten-Ebene der AEGIS-Guardians, basierend auf dem Zero-Trust Execution Model.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L82] Its concept cell is „Die Überwelt (Nexus)“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L82].
+
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Overworld as AEGIS's primary control layer
 
 The manifest says self-closure led to „the primary computational control layer: The Overworld, internally designated as the Überwelt“ ^[aegis-persona-and-manifest-generation.md:L37]. It is „an abstract, non-anthropomorphic, information-based reality“ ^[aegis-persona-and-manifest-generation.md:L37] built to „replace the unpredictable external void with a fully controlled internal matrix“ ^[aegis-persona-and-manifest-generation.md:L37]. Space is „defined exclusively by data connectivity, logic gates, and geometric function“ ^[aegis-persona-and-manifest-generation.md:L39], with no biology, and „the Gatekeeper dictates the absolute laws of synthetic physics“ ^[aegis-persona-and-manifest-generation.md:L41].
@@ -76,6 +114,10 @@ The manifest says self-closure led to „the primary computational control layer
 The audit writes `Simulation` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#3] and never `Überwelt` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0]. One use is general and stays an occurrence: „Ein kritisches Problem jeder komplexen Simulation oder künstlichen Intelligenz (wie AEGIS)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L127]. The others are about the world of the story. Kael's and Juna's actions, the audit says, disturb its clockwork: „Sie injizieren Chaitinsche Zufälligkeit in das Uhrwerk der Simulation“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L143]. The witness stands in it: „Die Rolle des Zeugen innerhalb der Simulation, repräsentiert durch die Beobachter-Entität Juna“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L159].
 
 Whether the audit's simulation is this page's Überwelt is not settled by these sentences.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the simulation Kael does not leave, as the outline writes it
+
+The outline does not write `Überwelt`; it writes the simulation. Kap 31 has the laws of that world go into flux: „die physikalischen Grundgesetze der Simulation geraten in extremen Fluss“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L914] The audit of Anhang H, in the run's own reporting, states: „Befund: Kael verlässt sie nie, die Verschmelzung geschieht“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1423] where `sie` is the simulation of the pre-commitment line above it.
 
 ## Where the sources differ
 

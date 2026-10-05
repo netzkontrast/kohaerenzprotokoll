@@ -1,16 +1,46 @@
 ---
 term: Moros
 status: candidate
-sources: 31
-readings: 31
+sources: 39
+readings: 39
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-24"
 ---
 
 # Moros
 
 One of the thirteen [[alters|Alters]] — EP, „Kollaps" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L682].
+
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the part called Der Erstarrte, the system's deepest wound
+
+The report names „Moros (Der Erstarrte)“ ^[scifi-roman-mit-ki-schreiben.md:L146] and says it „Repräsentiert die tiefste Wunde des Systems, den Zustand des völligen Kollapses und der Hoffnungslosigkeit“ ^[scifi-roman-mit-ki-schreiben.md:L146] (a reference-1 sentence, the plot document's part as the report gives it).
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — collapse, hopelessness and existential emptiness
+
+In the roster (glued `1`) Moros (Kollaps) „Verkörpert die extremste Verteidigungsreaktion des Kollapses und der Erstarrung“ ^[system-kael-konzeptentwicklung-und-analyse.md:L123] and „Trägt Gefühle von Hoffnungslosigkeit und existenzieller Leere“ ^[system-kael-konzeptentwicklung-und-analyse.md:L123]
+
+## Reading — `outline`, 2025-07-30, the outline — Moros in the list of EPs
+
+The outline plans Moros once, in Teil 2 (L116), among the EPs of the first point of its section on inner cooperation: „Kaels Anteile (ANPs wie Lex, Rhys, Alex und EPs wie Nyx, Kiko, Moros, Isabelle, Lia, Argus) entwickeln ihre Kooperation weiter“ ^[outline.md:L116] (L116). It says nothing further of him.
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline and the architecture analysis of the English compilation — Moros as the collapse part that emerges in Chapter 24
+
+Moros is in the scene outline (L1273 on) and in the architecture analysis (L1671 on). The outline titles Chapter 24 for the part and has AEGIS's attack push the system to its limit; the emergence is of an alter „who represents total collapse, existential void, and hopelessness.“ ^[ai-assisted-narrative-coherence.md:L1555] The effect on Kael is given as „Kael is plunged into a state of catatonic despair.“ ^[ai-assisted-narrative-coherence.md:L1555] In Chapter 25's council Selene reads the part's positive intention: „Moros's collapse as ultimate survival.“ ^[ai-assisted-narrative-coherence.md:L1567]
+
+The architecture analysis types the row „EP (Collapse/Shutdown)“ ^[ai-assisted-narrative-coherence.md:L1760] and describes „Represents the deepest trauma response: hopelessness, existential void, and extreme withdrawal.“ ^[ai-assisted-narrative-coherence.md:L1760]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Moros, hedged, as the exile carrying the original trauma
+
+In Kap 8 the three-part analysis does not name the bearer with certainty: the exile is „vermutlich *Moros* (Kollaps EP)“ ^[romanstruktur-und-philosophische-einleitung.md:L87] or a part hidden deeper still. Table 1 says Moros is „Träger der Kernwunde, Konfrontation in Kap. 8.“ ^[romanstruktur-und-philosophische-einleitung.md:L129]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the collapse EP in Kap 28
+
+The master blueprint casts „Moros (Kollaps-EP)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L285] in Kap 28 and plans that he triggers a paralysis: „löst aus Panik vor der totalen psychischen Vernichtung eine katatonische Lähmung aus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L287]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Moros named once, among the EP stores AEGIS mines
+
+The report names Moros once, in Leitfrage 6: AEGIS extracts the perpetrators' voices „die AEGIS aus seinen tiefsten EP-Speichern (Kiko, Moros) extrahiert hat“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L88]. It says nothing else of him.
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — Moros as an EP in an example
 
@@ -19,6 +49,10 @@ One mention, under „z.B.“: „Definition des aktuellen World States und der 
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the EP of the PICO example, AEGIS' result and not the splintering's cause, and an executor type
 
 The PICO's population parameter gives `Moros` as its example of an emotional part steering the system: „(EP) wie Moros (den Kollaps) gesteuert wird“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L31]. In the psychological proof of the critical reading he is the result of AEGIS' suppression: „Moros ist das zwingende psychobiologische Resultat der massiven Unterdrückungsmaschinerie von AEGIS“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L85]. The axis table sorts him among the EPs: „Executor-Typen (Nyx, Moros, Kiko, Lyra)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L132].
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — Moros, the ultimate traumatic shutdown
+
+Among the sub-identities beyond the primary alters: „Moros (EP) verkörpert den ultimativen traumatischen Shutdown“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L92], in a landscape of dead cold. The cleared record (Status OQ-02) says the false equation of Oblivion with Moros was corrected.
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — Moros, listed without a gloss
 

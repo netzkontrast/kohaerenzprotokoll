@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,39 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „'emotionale Volatilität', 'Netzwerkkonnektivitätsdichte'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
 - Story: „Kael erkennt, dass AEGIS aktiv versucht, menschenähnliche Züge zu minimieren, die es nicht kontrollieren oder verstehen kann.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Lex's Dilemma: The Limits of Pure Logic`
+
+Title: „Lex's Dilemma: The Limits of Pure Logic“ ^[ai-assisted-narrative-coherence.md:L1529] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the chapter has no scene fields in the outline; its prose places it after „The reclaimed memory is fragmented and paradoxical.“ ^[ai-assisted-narrative-coherence.md:L1531]
+
+- Story (beat): the scene outline plans „The reclaimed memory is fragmented and paradoxical.“ ^[ai-assisted-narrative-coherence.md:L1531]
+- Story (beat): the scene outline plans „The memory contains an emotional truth that defies his analytical framework.“ ^[ai-assisted-narrative-coherence.md:L1531]
+- Turn: the scene outline plans „This is a major turning point for his character and the internal system's dynamics.“ ^[ai-assisted-narrative-coherence.md:L1531]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Die Rückkopplung
+
+Title: „Kybernetische Rückkopplung“ ^[romanstruktur-und-philosophische-einleitung.md:L184]
+Position: Teil II, „Der Schöpfer im System“ ^[romanstruktur-und-philosophische-einleitung.md:L184]
+
+- Story: „Kael bemerkt, dass seine Gedanken und emotionalen Zustände die Realität der Simulation physisch verändern.“ ^[romanstruktur-und-philosophische-einleitung.md:L186]
+- Story: „Er realisiert, dass er nicht mehr nur Bewohner, sondern Co-Autor der Simulation ist.“ ^[romanstruktur-und-philosophische-einleitung.md:L188]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Symmetrie-Falle
+
+Title: „Die Symmetrie-Falle“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L222]
+Position: Teil II; setting from the `Schauplatz` field: „Rekursive Honeypot-Schleife von AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L224]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, Kairos“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L225]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS sperrt Kael in eine perfekt symmetrische Umgebung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L227] and „bricht Kael die Schleife durch eine völlig absurde, unlogische (emergente) Handlung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L227]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — AEGIS' Genesis-Log
+
+Title: „AEGIS' Genesis-Log“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L265] — heading „Die Tragödie der Maschine“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L266]
+Position: Teil II; POV from `Perspektive & Stimme`: „AEGIS (Interlude / Gefundenes Dokument) – streng logisch, aber auf feine Art verzweifelt“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L267]; place from `Ort`: „Außerhalb der Raumzeit (Datenarchiv)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L269]
+
+- Story: the matrix plans „Das Kapitel ist ein reiner Log-File“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271]
+- Question: „Kann ein Programm unter seinem eigenen Befehlscode leiden?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L270]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Das konstruierte Narrativ“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L99]
@@ -78,6 +111,14 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Eine Flucht, die schiefgeht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L248]; „ein Cache-Lag von 0.7 Sekunden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L252]
 - Encoding A: „RS · SP3 (Obtaining) · Falsehood-vs-Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L254]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Cache Coherence Failure
+
+Title: „The Cache Coherence Failure“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L613]
+Position: Akt II; POV: „POV: Verteiltes Bewusstsein.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L621]
+
+- Story: the outline plans „Lex trifft in einer Notsituation eine logisch makellose Entscheidung.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L619]
+- Concepts: „Zeitverzögerung, Cache-Kohärenz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L617]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

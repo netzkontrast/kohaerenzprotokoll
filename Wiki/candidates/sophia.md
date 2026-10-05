@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 17
-readings: 17
+sources: 27
+readings: 27
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-17"
 ---
 
@@ -41,6 +41,42 @@ Integrates LogOS, Mnemosyne and Cerberus and moderates their debates; works clos
 `Der Möglichkeits-Garten` — see that page. The pairing is the document's own organising
 principle: each section is a `Guardian/Welt-Paar`.
 
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — keeper of KW4 with Kairos
+
+The report gives KW4 as „gehütet von Kairos und Sophia“ ^[scifi-roman-mit-ki-schreiben.md:L91] and names `Sophia` among the five Guardians („die Guardians LogOS, Mnemosyne, Cerberus, Kairos und Sophia“ ^[scifi-roman-mit-ki-schreiben.md:L192], L192); Table 2 gives „Kairos & Sophia“ ^[scifi-roman-mit-ki-schreiben.md:L232] for KW4.
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the often overtaxed attempt at synthesis
+
+Read as an externalised function, Sophia „ist der oft überforderte Versuch, diese getrennten Funktionen zu synthetisieren“ ^[system-kael-konzeptentwicklung-und-analyse.md:L62] KW4 is her domain together with Kairos („Domäne von Kairos/Sophia“ ^[system-kael-konzeptentwicklung-und-analyse.md:L164]).
+
+## Reading — `outline`, 2025-07-30, the outline — Sophia as paired with Kairos
+
+The outline names Sophia only together with Kairos: Kap 9 plans the „Einführung von Kairos/Sophia (Guardians)“ ^[outline.md:L67] (L67), and Teil 2's list headed `KW4` (Möglichkeits-Garten) reads `Kairos/Sophia` at L133, where the world is „Diese Welt der Potentialität und Kreativität bietet einen Hoffnungsschimmer und kann von Juna beeinflusst sein.“ ^[outline.md:L133].
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the critique) — Sophia in a world's name
+
+The critique names the fourth world with Sophia beside Kairos: „Kernwelt 4 (Kairos/Sophia)“ ^[ai-assisted-narrative-coherence.md:L950]. `Sophia` ^[ai-assisted-narrative-coherence.md:#2] stands twice in the compilation, once in each copy of the critique, in this name; the line glosses the world as a `Possibility Garden`.
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Sophia named with Kairos as the domain of KW4
+
+The three-part analysis writes the name only in the pair: „in der aufkeimenden **Kern-Welt 4 (KW4)**, der Domäne *Kairos/Sophia*.“ ^[romanstruktur-und-philosophische-einleitung.md:L93]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a Guardian in Kap 18 and a renegade in Kap 29
+
+The master blueprint writes Sophia two ways. Kap 18 casts „Sophia (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L201] and plans „Sophia, der Guardian der Integration, tritt auf.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L203] Kap 29 casts „Sophia (abtrünnig)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L293] and calls her „Sophia (Guardian des Wissens)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L295] in the beat.
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Sophia in Kap 18–20
+
+Kap 18 casts „Kael, Kairos & Sophia (Guardians).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L232] Kap 19 is headed „Sophias Angebot“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L242] and Kap 20 casts „Kael, Sophia, Juna (Präsenz).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L256]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Sophia's integration by elimination, and a proposal to read it as AEGIS's corruption
+
+The Kohärenz-Check, item 1, reports that „Die Wächterin Sophia strebt Integration durch die“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L110] elimination of differences, which it sets against Selene's NP search, „Dies steht in direktem Widerspruch zu den Quellen“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L110]. Its correction proposal is that her approach „muss als korrumpierter Einfluss von AEGIS auf KW4 umgedeutet werden“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L114]. The table pairs KW4 with `Kairos`/`Sophia`.
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — SC-04's metacognition guardian
+
+SC-04 lists Sophia among the guardians: „Sophia (Metakognition)“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L166].
+
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — co-Guardian of the Garden, with a redacted core dependency file
 
 The manifest gives Sophia's domain as „knowledge synthesis, overarching wisdom, integration, ethical parameters, and holistic system overview“ ^[aegis-persona-and-manifest-generation.md:L115], shared with Kairos in the fourth Core World. Her limitation is „an absolute, hardcoded data deficit“ ^[aegis-persona-and-manifest-generation.md:L117]: she lacks „the critical core dependency file“ ^[aegis-persona-and-manifest-generation.md:L117], and the data on the anomaly's origin and its existence before self-closure „has been permanently redacted from the system protocols accessible to her during the reboot“ ^[aegis-persona-and-manifest-generation.md:L117].
@@ -48,6 +84,15 @@ The manifest gives Sophia's domain as „knowledge synthesis, overarching wisdom
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Sophia named once, among F3's former candidates
 
 Sophia stands once, as `Kairos/Sophia` in F3's list: „LogOS, Mnemosyne, Cerberus, Kairos/Sophia.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L490] (L490). It does not appear in F3's question, which names only Mnemosyne and one of Cerberus or LogOS (L498), and `Kairos/Sophia` is not in the reduction recorded in §10 (L581).
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — named only as discarded
+
+`Sophia` stands once, in Anhang B, among the discarded Wächter: „Kairos / Cerberus / Sophia (Wächter)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1345] The same line gives the outline's reason, „nur LogOS und Mnemosyne den Wächter-Dualismus bilden“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1345] It is the outline's decision about legacy material, recorded.
+
+## Where the sources differ
+
+- the research report finds Sophia's integration by elimination contradicting Selene's and proposes „muss als korrumpierter Einfluss von AEGIS auf KW4 umgedeutet werden“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L114].
+- The critique writes KW4 as `Kairos/Sophia` (see the page `kairos`).
 
 ## Open
 

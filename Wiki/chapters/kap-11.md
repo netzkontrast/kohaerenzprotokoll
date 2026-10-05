@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -43,6 +43,21 @@ Position: „(Fundamentales Konzept: Akzeptanz der Komplexität / Scherben der E
 - The pieces gathered, not erased: „Jede schmerzhafte Erfahrung, jedes Scheitern, jede Konfrontation hatte ihm eine neue Scherbe des Wissens, des Verständnisses geschenkt.“ ^[kohaerenz-protokoll.md:L1330]
 - The chapter's image: „Ein Mosaik-Herz.“ ^[kohaerenz-protokoll.md:L1326]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Welle der Unmöglichkeit
+
+Title: „Die Welle der Unmöglichkeit“ ^[roman-outline-system-kael.md:L189]
+Position: Teil IV, KW4
+
+- Story: AEGIS sees Kael developing „eine neue, unvorhersehbare und für das System unlogische Form der Kohärenz“ ^[roman-outline-system-kael.md:L189] and reads it „als den ultimativen Systemfehler, als maximale Entropie“ ^[roman-outline-system-kael.md:L189].
+
+## Reading — `outline`, 2025-07-30, the outline — Der Hilferuf aus der Leere
+
+Title: „Der Hilferuf aus der Leere“ ^[outline.md:L74] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „Kael erhält eine klarere, aber noch kryptische Nachricht von Juna/V aus der Externen Ebene“ ^[outline.md:L76]
+- Focus: under `Fokus`, „Das Kapitel mündet in eine“ ^[outline.md:L77]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -53,6 +68,40 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael wird in KW1 mit einem Problem oder einer Aufgabe konfrontiert, die eine Lösung erfordert, die auf Empathie, Intuition oder Kontextverständnis basiert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „was zu absurden, falschen oder endlos schleifenden Ergebnissen führt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „Kael findet möglicherweise eine Lösung, indem er einen 'nicht-logischen' (aus KW1s Perspektive) Ansatz anwendet“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Decision to Act`, one entry shared with Kap 11–13
+
+Title: „The Decision to Act“ ^[ai-assisted-narrative-coherence.md:L1404] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.8 - Kael's Inner World“ ^[ai-assisted-narrative-coherence.md:L1408], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1409]
+
+- Story (goal): the scene outline plans „To unify the internal system around a single, actionable purpose.“ ^[ai-assisted-narrative-coherence.md:L1410]
+- Story (beat): the scene outline plans „They agree on a single common goal: to actively investigate AEGIS and find the truth.“ ^[ai-assisted-narrative-coherence.md:L1418]
+- Turn: `Outcome & Turn` has „marking his transition from a victim to an active protagonist“ ^[ai-assisted-narrative-coherence.md:L1419]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Integration of the masculine
+
+Title: „Integration des“ ^[romanstruktur-und-philosophische-einleitung.md:L101]
+Position: Teil I, „Logik als Werkzeug“ ^[romanstruktur-und-philosophische-einleitung.md:L101]
+
+- Story: the heading's title continues with the word `Männlichen` in quotation marks; „Kael erkennt, dass die Logik und die Aggression der Wächter nicht der Feind sind.“ ^[romanstruktur-und-philosophische-einleitung.md:L103]
+- Story: „Die Logik wandelt sich vom tyrannischen Herrscher zum wertvollen Werkzeug des“ ^[romanstruktur-und-philosophische-einleitung.md:L105] Self
+- Table 1 (Teil I) on Lex: „wird als Werkzeug integriert (Kap. 11)“ ^[romanstruktur-und-philosophische-einleitung.md:L125]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das Mosaik des Selbst
+
+Title: „Das Mosaik des Selbst“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L139]
+Position: Teil I; setting from the `Schauplatz` field: „Ruinen der gelöschten Archive am Rande von KW1“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L141]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Index, AEGIS-Parser“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L142]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael forscht in gelöschten Speicherbänken nach dem Ursprung von Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144] and „Kael nimmt die Existenz all seiner Alters (die TSDP-Fragmente) erstmals bewusst als Überlebensmechanismus an, anstatt sie zu fürchten“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das zweite Echo
+
+Title: „Das zweite Echo“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L141] — heading „Die Resonanz der Anomalie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L142]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (verzweifelt, suchend)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L143]; place from `Ort`: „Das Auge des Sturms in KW2“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L145]
+
+- Story: the matrix plans „Kael droht zu ertrinken (metaphorisch/physisch). Juna leitet ihn durch Resonanz, nicht durch Worte, an einen sicheren Ort“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L147]
+- Question: „Kann Verbundenheit die Isolation der Fragmentierung durchbrechen?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L146]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -89,6 +138,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Encoding A: „MC · SP2 (Conscious) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L200]
 - Change 4 gives the chapter as „Kael spürt es kurz, AEGIS misst es als Anomalie“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L22].
 - The pacing section marks it: „Reveal-Spike Kap 11 (Mosaik-Ahnung)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L366].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Das Mosaik des Selbst
+
+Title: „Das Mosaik des Selbst“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L311]
+Position: Akt I; POV: „POV: Kael (mit Einwürfen von Lex und Selene).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L319]
+
+- Story: the outline plans „begreift das System als potenzielles Mosaik“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L317]
+- Story: the outline plans „Funktionale Multiplizität erfordert parakonsistente Logik“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L317]
+- Concepts: „Funktionale Multiplizität, Mosaik-Herz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L315]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

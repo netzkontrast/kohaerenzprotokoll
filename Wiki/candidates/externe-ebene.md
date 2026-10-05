@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 17
-readings: 17
+sources: 25
+readings: 25
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-17"
 ---
 
@@ -26,6 +26,47 @@ nature ^[kohaerenzprotokoll-aegis-und-systementropie.md:L124].
 
 **Premise, not finding.** The source takes the layer as given and reasons about
 what follows.
+
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — a postulated plane beyond the simulation's logic, reached through Juna
+
+The editor's report gives, as the plot document's (reference 1 ends the sentence), Juna's „Verbindung zu einer postulierten“ ^[scifi-roman-mit-ki-schreiben.md:L184] `Externen Ebene`, written „Externen Ebene“ ^[scifi-roman-mit-ki-schreiben.md:L184], which „die jenseits der Logik der Simulation“ ^[scifi-roman-mit-ki-schreiben.md:L184] lies. It says nothing else of the plane: not what it is, nor who stands there.
+
+## Reading — `outline`, 2025-07-30, the outline — the Externe Ebene as the place of Juna/V's message
+
+The outline plans in Kap 11 that Juna/V's message comes from the Externe Ebene (L76), and says of it „Die schwer fassbare Natur der Externen Ebene vertieft das Mysterium.“ ^[outline.md:L77] (L77). In Teil 3 it is one subplot strand, „Das Mysterium Juna/V & die Externe Ebene“ ^[outline.md:L164] (L164).
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the concept document, the architecture analysis) — a level outside AEGIS's reality, linked to Juna/V
+
+The concept document says of the Externe Ebene: „Juna/V is a transcendent entity from the“ ^[ai-assisted-narrative-coherence.md:L601] Externe Ebene, „a realm outside AEGIS's simulated reality and its capacity for understanding“ ^[ai-assisted-narrative-coherence.md:L601]. The architecture analysis (its section 3.2) separates it from the Überwelt: the Externe Ebene is „in contrast, is a mysterious reality that exists beyond AEGIS's direct control and is intrinsically linked to the entity known as Juna/V“ ^[ai-assisted-narrative-coherence.md:L1732], „representing an alternative model of order that AEGIS cannot integrate.“ ^[ai-assisted-narrative-coherence.md:L1732]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Juna's link to a reality beyond the simulation, and in Part II a hedged an outside
+
+The three-part analysis tells Kap 4 as „Juna repräsentiert die Verbindung zur“ ^[romanstruktur-und-philosophische-einleitung.md:L61] `Externen Ebene`, „einer Realität jenseits der AEGIS-Simulation“ ^[romanstruktur-und-philosophische-einleitung.md:L61]. In Kap 20 the unprovable truth Kael finds is „vielleicht die Existenz der externen Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L182] — the analysis hedges it. In Kap 26 Kael sees the simulation's structure from outside, „oder zumindest von einer höheren administrativen Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L214], and the chapter's sentence is „Es gibt ein Außen“ ^[romanstruktur-und-philosophische-einleitung.md:L216]. It does not say what the plane is.
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the Externe Ebene as Juna's form in Kap 17
+
+The master blueprint plans in Kap 17 that Juna shows her true form: „Hier offenbart sich Juna in ihrer wahren Form“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] It names her, in its own inner quotation marks, the Exilierte Ursprungs-Ich and the „Externe Ebene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195], and says she is the one „das die Gnosis (emotionale Wahrheit) der ursprünglichen Fragmentierung in sich birgt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Externe Ebene in Kap 3 and Kap 38
+
+Kap 3 plans „Setzt den emotionalen Hook und das Mysterium der“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L52] and then the term in the line's own inflection, „Externen Ebene“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L52] Kap 38 places the chapter „(Externe Ebene).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L477] and plans „Kael tritt aus dem System heraus (oder integriert es vollständig) und trifft Juna physisch.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L479] The hedge in parentheses stays.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Köln, February 2026, as the real world that escapes AEGIS
+
+The report's table of the Kernwelten gives the `Externe Ebene` as „Köln, Februar 2026. Mysteriös, chaotisch, unvorhersehbar“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56] (Karneval is its example), which „Entzieht sich der algorithmischen Kontrolle von AEGIS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56]; its row in the third column reads „Reale Welt / Basis der KPTBS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56].
+
+In Leitfrage 8 the report proposes, as scene logic, that „Kael durchbricht die Rendering-Grenzen und erwacht in Köln, Februar 2026“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]; the Externe Ebene is „Die Externe Ebene ist zutiefst gleichgültig gegenüber seinem Zustand“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]. The Teil III plot has him there recognise „wo er die schockierende Realität seiner KPTBS und DIS im Kontext der realen Juna erkennt“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L29].
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Köln as the base reality (W-06) and open question 3
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row W-06, `Externe Ebene (Köln)` (three stars): „Basisrealität, in der Kael physisch mit KPTBS, ADHS und DIS existiert, betreut von Juna.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L83] Open question 3 asks: „Wie genau interagieren Kael und Julia (Juna/V) physisch in der Basisrealität“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L122].
+
+## Where the sources differ
+
+- the research report places Köln, February 2026 as the real world, „Reale Welt / Basis der KPTBS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56], which Kael breaks into from the rendering.
+- Both parts place the Externe Ebene outside AEGIS's reach — „a realm outside AEGIS's simulated reality and its capacity for understanding“ ^[ai-assisted-narrative-coherence.md:L601] in the concept document; the architecture analysis says it lies beyond AEGIS's direct control.
 
 ## Open
 

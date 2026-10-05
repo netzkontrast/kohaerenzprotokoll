@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -43,6 +43,21 @@ Position: „(Fundamentales Konzept: Gegenwart/Präsenz (Jetzt-Raum) / Innerer F
 - Identity: „Er war Kael/M.“ ^[kohaerenz-protokoll.md:L1430]
 - Close: „Er war Kael, der Architekt seines eigenen Mosaik-Herzens, bereit, im Jetzt-Raum zu leben und zu handeln, egal welche Stürme das System entfesseln würde.“ ^[kohaerenz-protokoll.md:L1456]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Innere Rat
+
+Title: „Der Innere Rat“ ^[roman-outline-system-kael.md:L190]
+Position: Teil IV, KW4
+
+- Story: in a safe hideout Kael convenes the council of his main parts „in einem inneren Konferenzraum (E2)“ ^[roman-outline-system-kael.md:L190]: „Es kommt zu einer angespannten, aber letztlich produktiven Verhandlung“ ^[roman-outline-system-kael.md:L190].
+
+## Reading — `outline`, 2025-07-30, the outline — Die Synthese der Anteile
+
+Title: „Die Synthese der Anteile“ ^[outline.md:L79] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „einen Schritt zur funktionalen Multiplizität“ ^[outline.md:L81]
+- Focus: under `Fokus`, „Kaels wachsende Handlungsfähigkeit“ ^[outline.md:L82]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -52,6 +67,40 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael erreicht einen kleinen, aber signifikanten Moment der internen Synthese oder Kooperation zwischen zwei zuvor widersprüchlichen 'Alters'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „Man könnte sehen, wie AEGIS versucht, Kael zu 'debuggen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „AEGIS könnte sogar versuchen, den vorherigen Konfliktzustand wiederherzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Decision to Act`, one entry shared with Kap 11–13
+
+Title: „The Decision to Act“ ^[ai-assisted-narrative-coherence.md:L1404] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.8 - Kael's Inner World“ ^[ai-assisted-narrative-coherence.md:L1408], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1409]
+
+- Story (goal): the scene outline plans „To unify the internal system around a single, actionable purpose.“ ^[ai-assisted-narrative-coherence.md:L1410]
+- Story (beat): the scene outline plans „They agree on a single common goal: to actively investigate AEGIS and find the truth.“ ^[ai-assisted-narrative-coherence.md:L1418]
+- Turn: `Outcome & Turn` has „marking his transition from a victim to an active protagonist“ ^[ai-assisted-narrative-coherence.md:L1419]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The sacred marriage
+
+Title: „Die Heilige Hochzeit“ ^[romanstruktur-und-philosophische-einleitung.md:L107]
+Position: Teil I, „Funktionale Multiplizität“ ^[romanstruktur-und-philosophische-einleitung.md:L107]
+
+- Story: „Das Ziel von Teil I ist erreicht“ ^[romanstruktur-und-philosophische-einleitung.md:L109]
+- Story: „Kael erreicht den Zustand der“ ^[romanstruktur-und-philosophische-einleitung.md:L111] functional multiplicity; „Die Amnesiebarrieren werden durchlässig.“ ^[romanstruktur-und-philosophische-einleitung.md:L111]
+- Table 1 (Teil I) on Selene: „Emergiert als führende Kraft der Integration in Kap. 12.“ ^[romanstruktur-und-philosophische-einleitung.md:L130]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Paradoxie der Fürsorge
+
+Title: „Die Paradoxie der Fürsorge“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L147]
+Position: Teil I; setting from the `Schauplatz` field: „Logos-Prime, Kontrollzentrum“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L149]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS (Umweltkommunikation)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L150]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS offenbart durch Umgebungshinweise seine Kernmotivation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L152] and „Kael begreift, dass dieser Stillstand den Tod des freien Willens und der Seele bedeutet“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L152]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Zuflucht
+
+Title: „Die Zuflucht“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L153] — heading „Der Innere Rat“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L154]
+Position: Teil I; POV from `Perspektive & Stimme`: „Polyphon (Mehrere Anteile im Dialog: Kael, Lex, Alex, Rhys)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L155]; place from `Ort`: „Die mentale Repräsentation (Der Bunker/Konferenzraum)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L157]
+
+- Story: the matrix plans „Kael hält erstmals bewusst inne und kommuniziert intern mit Lex, Alex und Rhys. Ein brüchiger Waffenstillstand entsteht“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L159]
+- Question: „Wer steuert eigentlich das Schiff?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L158]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -80,6 +129,15 @@ Title: „The Profile“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md
 Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „B (AEGIS — Profilier-Routine)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]
 
 - Story: the outline places: „ein multipliziert verteiltes Bewusstsein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]; „Aus tautologischer Sicherheit“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]; „Stress-Tests werden vorbereitet“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Die Stille der Mitte
+
+Title: „Die Stille der Mitte“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L339]
+Position: Akt I; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L347]
+
+- Story: the outline plans „erreicht das System Kael einen Zustand absoluter Präsenz und Ruhe“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L345]
+- Story: the outline plans „Der Ort weist extrem hohe Kohärenz, aber null Entropie auf“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L345]
+- Concepts: „Negentropie, Der Jetzt-Raum“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L343]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

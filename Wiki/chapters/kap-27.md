@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 - Plot: „Angesichts von AEGIS' Angriff erreicht Kael den Höhepunkt seiner Integration.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298] „Seine fragmentierten Alters verschmelzen zu einem kohärenten Ganzen, das im Einklang mit seiner M-Resonanz und der Moonshine-Verbindung steht.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298]
 - Establishes: „Er erreicht die Phase“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298] of „Wissen, dass er weiß.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298]
 
+## Reading — `outline`, 2025-07-30, the outline — Sturm auf die Überwelt: Der Beginn des Angriffs / Rückkehr zum Nexus
+
+Title: „Sturm auf die Überwelt: Der Beginn des Angriffs / Rückkehr zum Nexus“ ^[outline.md:L158] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Kael (aktiver, entschlossener Protagonist)“ ^[outline.md:L161]; journey stage under `Reisestufe`: „Die gewöhnliche Welt (Neue Realität)“ ^[outline.md:L165]
+
+- Story: the outline plans, under `Plot`, „Kael beginnt mit der Umsetzung seines Plans“ ^[outline.md:L160]; „um die Konfrontation mit AEGIS zu planen“ ^[outline.md:L160]
+- Question: under `Thematische Kernfrage`, „Wie überwindet man die letzte Bastion der Kontrolle?“ ^[outline.md:L162]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -40,6 +48,41 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Guardians wechseln von Überwachung/Korrektur zu aktiver Jagd oder Eindämmung von Kael“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „seinen neuen Status als 'kritische Bedrohung' oder 'abtrünnige Entität'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Cracking the Code` — one entry shared with Kap 27–30
+
+Title: „Cracking the Code“ ^[ai-assisted-narrative-coherence.md:L1584] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.1 at „3.1 - The Überwelt, Outer Defenses“ ^[ai-assisted-narrative-coherence.md:L1588], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1589]
+
+- Story (goal): the scene outline plans „To bypass AEGIS's primary security layers and reach its core processing unit.“ ^[ai-assisted-narrative-coherence.md:L1590]
+- Story (beat): the scene outline plans „This paradox freezes the local Guardian's decision-making process, creating a momentary opening.“ ^[ai-assisted-narrative-coherence.md:L1597]
+- Turn: `Outcome & Turn` has „They have weaponized their multiplicity, proving it is a superior form of problem-solving.“ ^[ai-assisted-narrative-coherence.md:L1600]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The call to adventure
+
+Title: „Ruf zum Abenteuer“ ^[romanstruktur-und-philosophische-einleitung.md:L228]
+Position: Teil III, „Die Entscheidung zum Widerstand“ ^[romanstruktur-und-philosophische-einleitung.md:L228]
+
+- Story: „Er sendet ein Signal durch die Ebenen, eine offene Kriegserklärung an AEGIS.“ ^[romanstruktur-und-philosophische-einleitung.md:L230]
+- Story: „Die funktionale Multiplizität wird zur Waffe.“ ^[romanstruktur-und-philosophische-einleitung.md:L230]
+- Teil III as a whole: „Archetyp: Hero’s Journey (nach Joseph Campbell)“ ^[romanstruktur-und-philosophische-einleitung.md:L220]
+- and „Teil III übersetzt die inneren Einsichten (Teil I) und das systemische Wissen (Teil II) in äußeres Handeln.“ ^[romanstruktur-und-philosophische-einleitung.md:L226]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Abstieg ins Potentialmeer
+
+Title: „Abstieg ins Potentialmeer“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L274]
+Position: Teil III; setting from the `Schauplatz` field: „Epsilon-Null (Das Potentialmeer jenseits der Simulation)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L276]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Das Nichts Rauschen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L277]
+- Story: the blueprint plans, in `Plot-Beats`, „Kaels interner Rückzugsort (die Simulation) kollabiert unter der System-Entropie“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L279] and „in das rohe, mathematische Chaos des Potentialmeers eintauchen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L279]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Sprung ins Nichts
+
+Title: „Der Sprung ins Nichts“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L341] — heading „Akzeptanz der Entropie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L342]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael (akzeptierend, sartresch)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L343]; place from `Ort`: „Der Rand des Nexus, das pure Nichts“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L345]
+
+- Story: the matrix plans „Kael lässt den Versuch los, durch Logik oder Gewalt Ordnung zu erzwingen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L347]
+- Question: „Was passiert, wenn man aufhört, sich am Rand festzuhalten?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L346]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Der Sprung ins Nichts und die Kontingenz“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L115]
@@ -47,6 +90,10 @@ Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-kon
 
 - Plot: Kael „stürzt sich absichtlich in einen ungerenderten, bodenlosen Abgrund der Simulation.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L115]
 - Philosophy: „Philosophisch vollzieht er Sartres Konzept der radikalen Kontingenz“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L115].
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 8, waking in Köln (Kap 27/35)
+
+- A guiding question for Kap 27/35 — the report gives both numbers — a proposal: „Kael durchbricht die Rendering-Grenzen und erwacht in Köln, Februar 2026.“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96] He falls onto „das nasse, schmutzige Kopfsteinpflaster der Kölner Südstadt“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96], into the noise of the carnival; the external level is indifferent to him.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael lands in KW4, an overgrown ruined garden in warm light
 
@@ -69,6 +116,15 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „Dialetheismus als Waffe“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L286]; „Nyx blutet, Kiko hat seit drei Stunden nicht geatmet“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L286]
 - Encoding A: „MC · SP4 (Conscious) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L286]
 - Change 4 of the revision puts Kap 27 as „*praktizierter* Dialetheismus (Waffe)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L22]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Contradictory State
+
+Title: „The Contradictory State“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L791]
+Position: Akt III; POV: „POV: Integrierter Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L799]
+
+- Story: the outline plans „Kael nutzt die volle Kapazität seiner funktionalen Multiplizität, um unvereinbare mentale Zustände absolut gleichzeitig aufrechtzuerhalten.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L797]
+- Concepts: „Widerspruch-Denken, Dialetheismus“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L795]
+- Pivot-Marker: the outline plans Driver-Status: „SF-A Decision übernimmt sichtbar die Führung.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L821]; Limit-Marker: „SF-A Optionlock (Es gibt nur noch diesen einen Weg).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L822]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,0 +1,207 @@
+{
+  "document": "romanprojekt-analyse-kohaerenz-protokoll",
+  "drive_id": "1ovMnE9TjJpi0u7zltTt4vXIpVhYgHuq4whvxmjBehaw",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 174,
+  "typographic_marks": 7,
+  "ascii_quotes": 46,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemfehler",
+      "Systemische",
+      "Systems"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeptentwürfen",
+      "Konzeptpapier"
+    ],
+    "alter": [
+      "Alter",
+      "Alternativer",
+      "Alters"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktverortung"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychology"
+    ],
+    "trans": [
+      "Transformation",
+      "Transzendente",
+      "Transzendenz"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysiert"
+    ],
+    "archi": [
+      "Architektur",
+      "Archivist"
+    ],
+    "contr": [
+      "CONTRADICTION",
+      "Contradiction"
+    ],
+    "disso": [
+      "Dissonanz",
+      "Dissoziation"
+    ],
+    "dokum": [
+      "Dokumente",
+      "Dokumenten"
+    ],
+    "exter": [
+      "Externe",
+      "Externen"
+    ],
+    "fehla": [
+      "Fehlausgerichtete",
+      "Fehlausgerichteter"
+    ],
+    "figur": [
+      "Figur",
+      "Figuren"
+    ],
+    "heilu": [
+      "Heilungsprozess",
+      "Heilungsziel"
+    ],
+    "idea": [
+      "IDEA",
+      "Idea"
+    ],
+    "inter": [
+      "Interaction",
+      "Interaktion"
+    ],
+    "konst": [
+      "Konstrukt",
+      "Konstruktion"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollparadigmen"
+    ],
+    "kriti": [
+      "KRITISCH",
+      "Kritiker"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern"
+    ],
+    "mitte": [
+      "MITTEL",
+      "Mittel"
+    ],
+    "nicht": [
+      "Nicht",
+      "Nichts"
+    ],
+    "origi": [
+      "Origin",
+      "Original"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Ende",
+      "Fließende"
+    ],
+    [
+      "Ende",
+      "Tendenzen"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Transzendente"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "IDEA",
+      "Idea"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Kern",
+      "Kernkrieg"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernaussage"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Raum",
+      "Kindheitstrauma"
+    ],
+    [
+      "Raum",
+      "Traumapsychologie"
+    ],
+    [
+      "Satz",
+      "Ansatz"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Weltbau"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Welt",
+      "Weltenbau"
+    ]
+  ]
+}

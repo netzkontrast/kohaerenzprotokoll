@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 17
-readings: 17
+sources: 21
+readings: 21
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 gathered: "2026-09-24"
 ---
 
@@ -20,6 +20,18 @@ Storyform A (its L126). (Until it was read this said nine sources.) The Ultra-Pl
 2026-02-26 makes it Kap 34's own title and the product formed there from the fused
 [[alters]] and Juna's saved essence, not merely a place named in passing (`05-verify-readers.txt`).
 **The earliest-dated source on this page uses the name as a chapter's own title, and keeps it afterward as [[kael|Kael]]'s felt state.** The Kohärenz-Protokoll narrative of 2025-04-27 titles its own Kapitel 11 `Das Mosaik-Herz`, and returns to the name through the rest of Teil 1 and in Kapitel 23's concept header. Whether the later Kap-11 and Kap-34 uses come from it, no source says.
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — accepting complexity as strength, healing the dissociative split
+
+In the synthesis's plot reading (L209, glued `1`), in KW4 Kael begins to talk to his parts and „seine Komplexität als Stärke zu akzeptieren“ ^[system-kael-konzeptentwicklung-und-analyse.md:L209], which the line tags as the `Mosaik-Herz`. In the section on the Fundament, the healing is „Kaels eigener, schmerzhafter Prozess der inneren psychologischen Integration“ ^[system-kael-konzeptentwicklung-und-analyse.md:L228], the putting together of his `Mosaik-Herzens`.
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the Mosaik-Herz in Kap 11
+
+The master blueprint plans in Kap 11 that Kael searches „in gelöschten Speicherbänken nach dem Ursprung von Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144] and recognises „dass er kein singulärer Datenpunkt ist, sondern ein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144] „Mosaik-Herz“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144], the term set in the line's own inner quotation marks.
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Mosaik-Herz as the title of Kap 39 and what Kael injects in Kap 34
+
+Kap 39 is titled „Das Mosaik-Herz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L485] with the heading „Die Letzte Instanz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L486] In Kap 34 the plan has Kael inject his „Mosaik-Herz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431] and glosses it in parentheses: „(seine Qualia, seine unkomprimierbare Existenz)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431]
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — where true K\_1 coherence is placed
 
@@ -38,6 +50,10 @@ The heading is „Transzendenz und das Mosaik-Herz“ ^[kohaerenz-protokoll-hard
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Kap 39
 
 Kap 39 of the outline of 2026-05-01: „Das Mosaik-Herz schlägt“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L338]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — introduced in Kap 11, beating on in Kap 39
+
+The dual-storyform outline lists the concept in Kap 11 beside `Funktionale Multiplizität`: „Funktionale Multiplizität, Mosaik-Herz.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L315] and again as „Das Mosaik-Herz, Ouroboros.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1174] for Kap 39. There the beat reads: „Das Mosaik-Herz schlägt weiter, lebendig gerade wegen der Irregularität“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1176]
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 

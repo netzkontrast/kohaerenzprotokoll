@@ -1,0 +1,135 @@
+# counts for 111 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                4 word     4 in   [11, 15, 314, 325]
+  AEGIS                            47 word    48 in   [15, 55, 61, 69, 87, 97]
+                                    1      as AEGIS-Simulation
+  Kael                             79 word    90 in   [35, 39, 41, 43, 47, 49]
+                                   10      as Kaels
+                                    1      as Kael-System
+  Juna                             12 word    12 in   [59, 61, 63, 87, 127, 182]
+  Juna/V                            1 word     1 in   [214]
+  Kern-Welt 1 (KW1)                 1 word     1 in   [39]
+  Kern-Welt 2 (KW2)                 1 word     1 in   [53]
+  Kern-Welt 3 (KW3)                 1 word     1 in   [49]
+  Kern-Welt 4 (KW4)                 1 word     1 in   [93]
+  KW1                              12 word    12 in   [39, 47, 49, 53, 57, 81]
+  KW2                              11 word    11 in   [53, 55, 61, 63, 67, 69]
+  KW3                               5 word     5 in   [49, 111, 125, 126, 192]
+  KW4                               3 word     3 in   [93, 130, 186]
+  Kern-Welt                         5 word     5 in   [39, 49, 53, 93, 123]
+  Kernwelten                        3 word     3 in   [150, 234, 280]
+  Konstrukt-Stadt                   2 word     2 in   [39, 117]
+  LogOS                             3 word     3 in   [39, 53, 150]
+  Mnemosyne                         4 word     5 in   [53, 67, 127, 150]
+                                    1      as Mnemosyne-Welt
+  Cerberus                          5 word     6 in   [49, 75, 126, 150]
+                                    1      as Cerberus-Aspekte
+  Kairos/Sophia                     1 word     1 in   [93]
+  Kairos                            2 word     2 in   [93, 130]
+  Überwelt                          4 word     4 in   [136, 140, 144, 234]
+  Externen Ebene                    1 word     1 in   [61]
+  Universal Reboot                  1 word     1 in   [39]
+  Finde die Naht                    2 word     2 in   [43, 308]
+  Glitches                          3 word     3 in   [17, 43]
+  Risse                             3 word     4 in   [43, 53, 117, 162]
+                                    1      as Rissen
+  Guardians                         1 word     1 in   [47]
+  Wächter                           9 word    11 in   [45, 47, 53, 75, 103, 105]
+                                    2      as Wächtern
+  Manager                           3 word     6 in   [47, 65, 79, 97, 103, 125]
+                                    1      as Managern
+                                    1      as Manager-Strategien
+                                    1      as Manager-Anteile
+  Exilanten                         6 word     7 in   [47, 55, 79, 87, 91, 97]
+                                    1      as Exilanten-Leere
+  Firefighter                       1 word     1 in   [97]
+  Alter                             3 word     9 in   [49, 67, 73, 91, 119, 123]  <-- substring
+                                    6      as Alters
+  Alters                            6 word     6 in   [49, 73, 119, 230, 280, 298]
+  Nox                               1 word     1 in   [49]
+  Lex                              10 word    10 in   [49, 67, 69, 99, 105, 111]
+  Nyx                               6 word     6 in   [73, 97, 99, 105, 126, 230]
+  Rhys                              4 word     4 in   [73, 111, 127, 230]
+  Kiko                              3 word     3 in   [55, 73, 128]
+  Lia                               2 word     2 in   [55, 128]
+  Moros                             2 word     2 in   [87, 129]
+  Selene                            2 word     2 in   [91, 130]
+  Isabell                           1 word     1 in   [97]
+  Host                              3 word     3 in   [41, 93, 124]
+  Architekt                         1 word     7 in   [11, 15, 41, 49, 148, 192]  <-- substring
+                                    6      as Architektur
+  ANP                               3 word     3 in   [67, 109, 124]
+  EP                                3 word     3 in   [87, 109, 129]
+  Kollaps EP                        1 word     1 in   [87]
+  Alltagspersönlichkeit             1 word     1 in   [109]
+  Emotionaler Anteil                1 word     1 in   [109]
+  Selbst                            3 word     5 in   [35, 91, 105, 130, 192]
+                                    1      as Selbst-Aspekt
+                                    1      as Selbstwertgefühls
+  Sicheren Ort                      1 word     1 in   [93]
+  Kern-Trauma-Erinnerung            1 word     1 in   [85]
+  Kernwunde                         2 word     2 in   [83, 129]
+  Separation Protocol               1 word     1 in   [87]
+  Trennungsprotokoll                2 word     3 in   [242, 284, 296]
+                                    1      as Trennungsprotokolls
+  Genesis                           3 word     3 in   [81, 242, 290]
+  Fragment 'O'                      1 word     1 in   [252]
+  Gärtner-Axiom                     3 word     3 in   [224, 262, 264]
+  Kill-Switch                       2 word     2 in   [258, 260]
+  Meta-Integration                  2 word     2 in   [212, 216]
+  funktionalen Multiplizität        2 word     2 in   [75, 111]
+  Funktionale Multiplizität         2 word     2 in   [33, 107]
+  Ko-Bewusstsein                    1 word     1 in   [111]
+  Heilige Hochzeit                  2 word     2 in   [107, 109]
+  Hieros Gamos                      1 word     1 in   [109]
+  Kapitel 40/0                      3 word     3 in   [17, 25, 284]
+  Ouroboros                         1 word     1 in   [284]
+  Chaos-Reservate                   1 word     1 in   [264]
+  Potentialmeer                     1 word     1 in   [222]
+  Systemkern                        2 word     2 in   [222, 232]
+  Anomalie                          2 word     2 in   [230, 298]
+  ontologische Anomalie             1 word     1 in   [298]
+  Resonanzenergie                   1 word     1 in   [146]
+  geshardet                         1 word     1 in   [300]
+  Herz der Leere                    1 word     1 in   [294]
+  algorithmischer Melancholie       1 word     1 in   [276]
+  Parakonsistenz                    1 word     1 in   [276]
+  Entropie                          9 word    10 in   [17, 142, 144, 160, 162, 164]
+                                    1      as Entropie-Erkenntnis
+  Lärm                              1 word     1 in   [294]
+  Qualia-Verschiebung               1 word     1 in   [115]
+  Gehirn im Tank                    1 word     1 in   [146]
+  dissoziative Amnesie              2 word     2 in   [85, 174]
+  Exilanten-Leere                   1 word     1 in   [79]
+  Manager-Strategien                1 word     1 in   [79]
+  informationaler Gewalt            1 word     1 in   [300]
+  Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [15]
+  TSDP                              2 word     3 in   [15, 85, 123]
+                                    1      as TSDP-Dramaturgie
+  Heroine’s Journey                 7 word     7 in   [21, 29, 35, 57, 69, 103]
+  Hero’s Journey                    2 word     2 in   [23, 220]
+  Maureen Murdock                   1 word     2 in   [29, 35]
+  Joseph Campbell                   1 word     1 in   [220]
+  Internal Family Systems           1 word     1 in   [47]
+  IFS                               2 word     2 in   [47, 123]
+  Intellektualisierung              1 word     1 in   [67]
+  Bindungstrauma                    1 word     1 in   [63]
+  Uncanny Valley                    1 word     1 in   [41]
+  Synästhesie                       1 word     1 in   [55]
+  Hard Problem of Consciousness     1 word     1 in   [156]
+  Philosophische Zombies            1 word     1 in   [156]
+  Cogito ergo doleo                 1 word     1 in   [158]
+  Gödels Unvollständigkeitssatz     1 word     1 in   [180]
+  Imagery Rescripting               1 word     1 in   [194]
+  Cosmic Horror                     1 word     1 in   [170]
+  Solipsismus-Falle                 1 word     1 in   [188]
+  Lucid Dreamer                     1 word     1 in   [188]
+  Inciting Incident                 1 word     1 in   [43]
+  Belly of the Whale                1 word     1 in   [79]
+  Call to Action                    1 word     1 in   [230]
+  Trolley-Problem                   0 word     1 in   [238]
+                                    1      as Trolley-Problem-Varianten
+  Systemtheorie                     1 word     1 in   [208]

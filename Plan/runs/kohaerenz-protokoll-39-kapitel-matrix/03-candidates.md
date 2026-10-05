@@ -1,0 +1,101 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+Candidates of one document, a 39-chapter plot outline. The per-chapter field labels (Titel, Überschrift, Perspektive & Stimme, Charaktere, Ort, Fragestellung, Plot-Beat, Narrative Funktion, Sensorisches Leitmotiv) repeat under every chapter; they are the template and are not listed. Chapter titles are left out except where the title is itself a named thing of the world. Dr. Jian Li is listed as Jian Li to keep the list free of an ordinal-like period.
+
+## world
+- Kohärenz Protokoll
+- Kael
+- Host
+- AEGIS
+- Lex
+- LogOS
+- Juna
+- Jian Li
+- Kiko
+- EP
+- Alex
+- Rhys
+- Nyx
+- Mnemosyne
+- Lia
+- Cerberus
+- Kairos
+- Sophia
+- Argus
+- Selene
+- Guardian
+- Guardians
+- Wächter-Drohnen
+- NPCs
+- AEGIS-Agenten
+- Cerberus-Agenten
+- System Kael
+- Kael-System
+- Der Leser
+- Das andere Fragment
+- Kael/Lex
+- Kael/Selene
+- Juna/V
+- Juna/V-Verbindung
+- Kern-Welt 1
+- Konstrukt-Stadt
+- KW1
+- KW2
+- KW3
+- KW4
+- KWs
+- Kernwelten
+- Überwelt
+- Nexus
+- Nexus-Kern
+- Nexus-Core
+- Der Innere Rat
+- Externe Ebene
+- Riss
+- Nichts Rauschen
+- Rauschen
+- Potentialmeer
+- Das Fundament
+- Urgrund
+- Übergangszone
+- LogOS-Distrikt
+- AEGIS-Verarbeitungsmatrix
+- Mosaik-Herz
+- Paradoxon X
+- Gödel-Gambit
+- AEGIS-Manifest
+- Genesis-Log
+- Consensus Enforcer
+- Kairos Potentialis
+- Perfekten Kael
+- Funktionalen Multiplizität
+- funktionale Multiplizität
+- Korrespondenz-Wahrheit
+- Relationale Ontologie
+- Purge-Protokoll
+- Zeit-Glitch
+- Amnesie-Barrieren
+- Midpoint-Kollaps
+- All Is Lost
+- Epistemologische Meta-Bruch
+- Vierte Wand
+- Self
+
+## lens
+- TSDP
+- ANP
+- PTBS
+- IFS
+- Internal Family Systems
+- Qualia
+- Dialetheismus
+- P vs NP
+- Cypher
+- Matrix
+- Wittgensteinsche
+- Russellsche
+- sartresch
+- Gaslighting
+- Dissoziation
+- Katatonie
+- Entropie

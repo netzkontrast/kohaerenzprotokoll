@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 44
-readings: 44
+sources: 55
+readings: 55
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "monstergruppe-primzahlen-plot-blueprint", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "monstergruppe-primzahlen-plot-blueprint", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-16"
 ---
 
@@ -42,15 +42,55 @@ reading both.
 Recorded as an alias rather than a second term, provisionally. **If a source
 turns out to distinguish them, this page is wrong and splits.**
 
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — Kael's journey from ignorance of his Multiplizität to acceptance
+
+The report writes of Kael, in a sentence that ends in reference 1, the journey „von der Unwissenheit über seine eigene Multiplizität hin zur Akzeptanz“ ^[scifi-roman-mit-ki-schreiben.md:L135] as the central arc of Part 1.
+
+## Reading — `outline`, 2025-07-30, the outline — funktionale Multiplizität as the plotted goal of Kael's path
+
+The outline plans `funktionale Multiplizität` as the state toward which Teil 2 and Teil 3 work. It is announced early as not yet reached: „Funktionale Multiplizität ist noch nicht erreicht.“ ^[outline.md:L56] (Kap 6, L56). Teil 2's section on inner cooperation is called „entscheidend für die Darstellung von Kaels funktionaler Multiplizität“ ^[outline.md:L114] (L114). In Kap 38 Kael „erlebt die volle Realisierung funktionaler Multiplizität“ ^[outline.md:L241] (L241; the plot paragraph that also says his Anteile „verschmelzen nicht, sondern kooperieren harmonisch“ ^[outline.md:L241]), and Kap 39 closes with the Fokus „Funktionale Multiplizität ist die neue Normalität.“ ^[outline.md:L271] (L271).
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the simple guide, the strategy paper and the architecture analysis of the English compilation — functional multiplicity as Kael's goal, in English with the German form three times
+
+`funktionale Multiplizität` ^[ai-assisted-narrative-coherence.md:#3] stands three times in the document: in the strategy paper (L1157 on) twice, and in the architecture analysis' German logline (L1681). The strategy paper's table defines the term as the principle of Kael's coherence: „(functional multiplicity), achieved through the acceptance and integration of complexity.“ ^[ai-assisted-narrative-coherence.md:L1174] Later it names it as the end of his journey: „This clinical foundation lends profound psychological authenticity to his internal journey from fragmentation towards the state of“ ^[ai-assisted-narrative-coherence.md:L1184] the term.
+
+The simple guide (L219 on) gives the goal in English: „a state where all his internal Alters learn to communicate, cooperate, and work together.“ ^[ai-assisted-narrative-coherence.md:L249] The lexicon at the end of the architecture analysis defines it as „The therapeutic goal for Kael's system“ ^[ai-assisted-narrative-coherence.md:L1827] and adds „coexist harmoniously, communicating and cooperating effectively without needing to fuse into a single identity.“ ^[ai-assisted-narrative-coherence.md:L1827]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Functional multiplicity as Part I's central conflict and its goal in Kap 12
+
+The three-part analysis gives Part I the central conflict „Zentraler Konflikt: Fragmentierung vs. Funktionale Multiplizität“ ^[romanstruktur-und-philosophische-einleitung.md:L33] In Kap 12 it names the goal: „Das Ziel von Teil I ist erreicht: die **Heilige Hochzeit** (Hieros Gamos).“ ^[romanstruktur-und-philosophische-einleitung.md:L109] and „Kael erreicht den Zustand der **funktionalen Multiplizität**.“ ^[romanstruktur-und-philosophische-einleitung.md:L111] In Kap 27 it says „Die funktionale Multiplizität wird zur Waffe.“ ^[romanstruktur-und-philosophische-einleitung.md:L230]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — functional multiplicity in Kap 10 and Kap 38
+
+The master blueprint writes the term in parentheses twice. In Kap 10: „Kael und Juna teilen einen wortlosen Austausch, der Kaels zersplitterte Anteile kurzzeitig beruhigt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L136] In Kap 38 the Alters remain „Sie bleiben distinkte Persönlichkeitsaspekte“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L367] with the term in parentheses after them.
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Multiplizität: discovered in Part I, made functional in Kap 29, the defence in Kap 33
+
+Part I carries a focus on „die Entdeckung der Multiplizität.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L17] Kap 29 plans „Amnesie-Barrieren werden zu durchlässigen Wänden. Anteile teilen Wissen.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L371] and names its function with `Funktionalen Multiplizität`. Kap 33 plans „Kael widersteht durch seine funktionale Multiplizität.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L419]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — functional multiplicity as the healed and the stable state
+
+The report asks for a depiction that „funktionale Multiplizität als überlegenen, resilienten Seinszustand feiert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L17]. Teil III has Kael prove that „seine funktionale Multiplizität (parakonsistente Logik)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L29] is lower in entropy than AEGIS's order. In Leitfrage 6 AEGIS tries „um die funktionale Multiplizität wieder in isolierte, handhabbare Segmente zu zerspalten“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L88]. The Kohärenz-Check says differences may coexist: „Differenzen und Widersprüche (funktionale Multiplizität) synthetisiert koexistieren dürfen“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L110].
+
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — functional multiplicity as the value the gambit injects, and the state the Mosaik-Herz enables instead of fusion
 
 The document writes `Multiplizität` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#3] only after the qualifier functional: `funktionalen Multiplizität` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#2] and, capitalised, `Funktionalen Multiplizität` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#1]. In the axis table it is a value put into the classical logic: „Die Injektion der funktionalen Multiplizität (A und nicht-A simultan) in das Context Object zwingt die klassische Logik in eine unlösbare Antinomie“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L131]. Kael reaches it and, in the line's words, „(er ist Eins und er ist Viele simultan), wird er zu einer lebenden Dialetheie – einem wahren Widerspruch“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L160].
 
 The closing synthesis makes it what the Mosaik-Herz enables in place of fusion: „Stattdessen ermöglicht das Mosaik-Herz den Zustand der“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L170] `Funktionalen Multiplizität`, in the line's own marks. Fusion is refused on thermodynamic grounds: „Eine solche Fusion würde nach dem Landauer-Prinzip den massivsten Löschungsvorgang von Informationszuständen bedeuten“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L168].
 
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — HC-05, the choral ending that celebrates it
+
+HC-05 (Erzählstimme Finale) sets: „Das Ende wird in einer chorischen We-Voice präsentiert“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L147], which celebrates functional Multiplizität as a superior unity.
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — functional multiplicity as Kael's state and the MC's struggle
 
 Kael develops through trauma integration into a „funktionalen Multiplizität“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L41]; the goal at L133 is a „Funktionalen Multiplizität“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L133]; the MC in the Dramatica table is the „Ringen um funktionale Multiplizität“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L145]; and the conclusion has Kael integrate „multiplen inneren Perspektiven“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L169].
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Functional multiplicity as the healing goal (T-04, F-01)
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row T-04, `Funktionale Multiplizität` (five stars), says: „radikale Koexistenz der Alters als harmonisches, kooperatives Team“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L105]. Row F-01 gives Kael the task „den Weg zu funktionaler Multiplizität finden muss“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L66].
 
 ## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — multiplicity lifted from a pathological stigma to an adaptive storage architecture that withstands AEGIS' erasure directive
 
@@ -71,6 +111,14 @@ Kap 12 has AEGIS hold the term as „als pathologische Klassifikation“ ^[kohae
 ## Reading — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt — functional multiplicity as the reported end goal
 
 In its report of the canon trio the prompt writes „Funktionale Multiplizität ist Endziel, nicht Fusion.“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L747] Storyform A's reading, a given value, is „Kaels Weg zur funktionalen Multiplizität“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L293] The trio is not in the text.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — Kael reaching functional multiplicity in the heat spike
+
+In the Vortex directive (§4.1, step 2): „Da Kael nun funktionale Multiplizität (13 Alters) erreicht hat“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L82] The Ouroboros directive (§4.5) lists it among the sources of the ozone smell in Kap 39: „(Mutual Information, Funktionale Multiplizität, K0-Akzeptanz)“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L139]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — named in Kap 11, the target of the stress tests of Kap 13, a sign of life in Kap 39
+
+The dual-storyform outline introduces the concept in Kap 11: „Funktionale Multiplizität, Mosaik-Herz.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L315] AEGIS's reaction in the same chapter: „Funktionale Multiplizität erfordert parakonsistente Logik“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L317] In Kap 13 the stress tests are aimed at it: „die funktionale Multiplizität durch Überhitzung zu zerreißen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L373] In the Ouroboros-Marker block the heat of Kap 39 is „ein Zeichen für lebendige Interaktion, funktionale Multiplizität und die Akzeptanz des Kollapses“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1200]
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 

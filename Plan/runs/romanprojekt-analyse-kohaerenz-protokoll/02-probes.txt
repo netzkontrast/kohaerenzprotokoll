@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      174
+  typographic marks      7
+  ascii quotes           46
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systemfehler, Systemische, Systems
+  antei    Anteil, Anteile, Anteilen, Anteils
+  konze    Konzept, Konzepte, Konzeptentwürfen, Konzeptpapier
+  alter    Alter, Alternativer, Alters
+  konfl    Konflikt, Konflikte, Konfliktverortung
+  psych    Psyche, Psychologie, Psychology
+  trans    Transformation, Transzendente, Transzendenz
+  analy    Analyse, Analysiert
+  archi    Architektur, Archivist
+  contr    CONTRADICTION, Contradiction
+  disso    Dissonanz, Dissoziation
+  dokum    Dokumente, Dokumenten
+  exter    Externe, Externen
+  fehla    Fehlausgerichtete, Fehlausgerichteter
+  figur    Figur, Figuren
+  heilu    Heilungsprozess, Heilungsziel
+  idea     IDEA, Idea
+  inter    Interaction, Interaktion
+  konst    Konstrukt, Konstruktion
+  kontr    Kontrolle, Kontrollparadigmen
+  kriti    KRITISCH, Kritiker
+  metap    Metapher, Metaphern
+  mitte    MITTEL, Mittel
+  nicht    Nicht, Nichts
+  origi    Origin, Original
+
+# substring pairs -- never one term, often merged by accident
+  Ende < Fließende
+  Ende < Tendenzen
+  Ende < Transzendenz
+  Ende < Transzendente
+  Hero < Heroine
+  IDEA < Idea
+  Juna < Junas
+  Kael < Kaels
+  Kern < Kernel
+  Kern < Kernkrieg
+  Kern < Kernwelten
+  Kern < Kernaussage
+  Raum < Trauma
+  Raum < Kindheitstrauma
+  Raum < Traumapsychologie
+  Satz < Ansatz
+  Welt < Welten
+  Welt < Weltbau
+  Welt < Überwelt
+  Welt < Weltenbau

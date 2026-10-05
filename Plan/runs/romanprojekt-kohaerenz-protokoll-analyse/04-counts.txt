@@ -1,0 +1,116 @@
+# counts for 92 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokolls               1 word     1 in   [11]
+  Struktur-Kanon                    4 word     4 in   [15, 43, 47, 62]
+  Kanon-Hierarchie                  1 word     1 in   [43]
+  Dual-Storyform-Interferenz        1 word     1 in   [17]
+  Driver-Pivot                      3 word     3 in   [19, 52, 79]
+  Storyform A                       6 word     6 in   [19, 27, 35, 52, 69, 84]
+  Storyform B                       7 word     7 in   [19, 27, 50, 52, 79, 84]
+  Phoenix Collapse                  1 word     1 in   [19]
+  Heuristics of Integration         1 word     1 in   [19]
+  Action-Driver                     2 word     2 in   [19, 52]
+  Decision-Driver                   4 word     4 in   [19, 52, 69, 84]
+  Klein-Vierer-Gruppen-Inversion    1 word     1 in   [19]
+  Universe-Domain                   1 word     1 in   [19]
+  Mind-Domain                       1 word     1 in   [19]
+  K0                                5 word    11 in   [19, 21, 23, 31, 48, 62]  <-- substring
+  K1                                3 word    14 in   [19, 21, 23, 31, 35, 48]  <-- substring
+  Dual-Kernel-Theorie               3 word     3 in   [15, 29, 31]
+  DKT                               1 word     4 in   [31, 48, 54, 121]  <-- substring
+  AEGIS                            38 word    40 in   [19, 21, 23, 27, 31, 39]
+                                    1      as AEGIS-Löschung
+                                    1      as AEGIS-Echo
+  Kael                             24 word    30 in   [19, 27, 31, 39, 49, 52]
+                                    6      as Kaels
+  Juna                             17 word    26 in   [25, 27, 39, 48, 49, 51]
+                                    9      as Junas
+  K1-Kohärenzwächter                1 word     1 in   [23]
+  K0-Kollaps-Operator               1 word     1 in   [23]
+  Dialetheia                        1 word     3 in   [21, 23, 48]  <-- substring
+                                    1      as Dialetheia-Toleranz
+  Algorithmische Melancholie        3 word     3 in   [53, 69, 85]
+  Influence Character               1 word     1 in   [27]
+  IC-Position                       1 word     1 in   [27]
+  Witness-Funktion                  4 word     4 in   [27, 48, 51, 62]
+  Konstrukt-Stadt                   4 word     4 in   [31, 65, 71, 112]
+  Trauma-Erasure                    2 word     2 in   [31, 120]
+  Artistic Pole                     1 word     1 in   [35]
+  Aesthetic Pole                    1 word     1 in   [35]
+  Temporal Scrambling               3 word     3 in   [35, 64, 120]
+  Mosaik-Strukturen                 2 word     2 in   [35, 63]
+  Reader-Substrat                   1 word     3 in   [63, 116]  <-- substring
+                                    1      as Reader-Substrat-Funktion
+                                    1      as Reader-Substrat-Zwang
+  Genesis-Symmetrie                 1 word     1 in   [37]
+  Ur-Einheit                        1 word     1 in   [39]
+  Trennungsprotokoll                3 word     3 in   [39, 70, 83]
+  Komponente 734                    2 word     2 in   [39, 49]
+  Mutual Information                3 word     3 in   [39, 91, 139]
+  TSDP                              3 word     6 in   [15, 39, 49, 65, 83, 113]
+                                    2      as TSDP-Alter
+                                    1      as TSDP-Alters
+  Moonshine-Link                    1 word     1 in   [49]
+  Wächter-Pantheon                  1 word     1 in   [50]
+  Wächter-Dualismus                 1 word     1 in   [99]
+  LogOS                             3 word     4 in   [50, 91, 93, 104]
+                                    1      as LogOS-Scanner
+  Mnemosyne                         3 word     6 in   [50, 81, 85, 103, 143]
+                                    2      as Mnemosyne-Archipel
+                                    1      as Mnemosyne-Vortex
+  Cerberus                          3 word     3 in   [50, 104]
+  Kairos                            2 word     2 in   [50]
+  Sophia                            2 word     2 in   [50]
+  Paraiyas                          2 word     2 in   [51]
+  Psycho-ontologische Resonanz      1 word     1 in   [52]
+  Receiver of Consciousness         1 word     1 in   [53]
+  Universal Re-Connecting           1 word     1 in   [53]
+  Ouroboros                         2 word     5 in   [53, 64, 130]  <-- substring
+                                    1      as Ouroboros-Struktur
+                                    1      as Ouroboros-Inversion
+                                    1      as Ouroboros-Leitmotiv
+  Ouroboros-Inversion               1 word     1 in   [64]
+  Mnemosyne-Archipel                2 word     2 in   [81, 85]
+  Heat-Spike                        2 word     2 in   [70, 82]
+  Truth-Rotation                    3 word     3 in   [69, 85, 128]
+  Convergence                       1 word     1 in   [81]
+  Vortex                            2 word     4 in   [52, 69, 77, 143]
+  ZTEM                              2 word     2 in   [82, 114]
+  Zero Tolerance Entropic Management    2 word     2 in   [82, 114]
+  SIS                               1 word     2 in   [83, 113]
+  Secure Isolation State            2 word     2 in   [83, 113]
+  RIVE                              1 word     1 in   [112]
+  Recursive Integrity Verification    1 word     1 in   [112]
+  funktionale Multiplizität         1 word     1 in   [82]
+  Wir-Geflecht                      1 word     1 in   [84]
+  Holistic-Approach                 1 word     1 in   [84]
+  Telefonstille                     2 word     2 in   [62, 91]
+  Negative Space Writing            1 word     1 in   [87]
+  Phantom-Resonanz                  1 word     1 in   [92]
+  Selene                            1 word     1 in   [93]
+  Lex                               1 word     1 in   [125]
+  Nyx                               1 word     1 in   [126]
+  Kiko                              1 word     1 in   [127]
+  Oblivion                          3 word     3 in   [128, 143]
+  Spiegel-Alter                     1 word     1 in   [143]
+  Stil 1                            2 word     2 in   [128, 143]
+  Falsche Ende                      2 word     2 in   [130, 143]
+  Computational Class               0 word     1 in   [97]
+  Ozon                              4 word     7 in   [31, 82, 134, 138, 139]
+                                    3      as Ozon-Geruch
+  Landauer-Limit                    2 word     2 in   [29, 114]
+  Dramatica                         1 word     3 in   [15, 19, 27]  <-- substring
+                                    1      as Dramatica-Storyforms
+                                    1      as Dramatica-Quad
+  Landauer-Prinzip                  2 word     2 in   [31, 82]
+  Gödel-Satz                        2 word     2 in   [27, 62]
+  Reader-Response-Theorie           1 word     1 in   [35]
+  Iser-Mechanik                     1 word     1 in   [33]
+  Chaitin-Konstante                 1 word     1 in   [89]
+  Bekenstein-Schranke               5 word     6 in   [54, 65, 113]
+                                    1      as Bekenstein-Schranken
+  Halteproblem                      3 word     3 in   [54, 125]
+  Prehension                        1 word     1 in   [51]

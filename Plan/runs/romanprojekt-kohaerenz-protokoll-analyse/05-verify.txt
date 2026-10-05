@@ -1,0 +1,63 @@
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-analyse --count "Kanon gewinnt"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kanon gewinnt` ^[romanprojekt-kohaerenz-protokoll-analyse.md:#5]
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-analyse --count "Gap"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Gap` ^[romanprojekt-kohaerenz-protokoll-analyse.md:#4]
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-analyse --count "Inference-Check"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Inference-Check` ^[romanprojekt-kohaerenz-protokoll-analyse.md:#3]
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-analyse --count "Lösung zu"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Lösung zu` ^[romanprojekt-kohaerenz-protokoll-analyse.md:#5]
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-analyse --count "Landauer-Limit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Landauer-Limit` ^[romanprojekt-kohaerenz-protokoll-analyse.md:#2]
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-analyse --count "Landauer-Prinzip"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Landauer-Prinzip` ^[romanprojekt-kohaerenz-protokoll-analyse.md:#2]
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-analyse --count "Landauer-Grenze"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Landauer-Grenze` ^[romanprojekt-kohaerenz-protokoll-analyse.md:#1]
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-analyse --count "Computational Class"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Computational Class` ^[romanprojekt-kohaerenz-protokoll-analyse.md:#0]
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-analyse --count "Kälte"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kälte` ^[romanprojekt-kohaerenz-protokoll-analyse.md:#1]
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-analyse --count "Hitze"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`Hitze` ^[romanprojekt-kohaerenz-protokoll-analyse.md:#10]
+# stance_marker_count 17 = Kanon gewinnt 5 + Gap 4 + Inference-Check 3 + Lösung zu 5
+# 120 backslash escapes, 5 verdicts: from 01-profile.txt and the counts above
+$ python3 scripts/capture.py --count: 92 candidates (04-counts.txt header)

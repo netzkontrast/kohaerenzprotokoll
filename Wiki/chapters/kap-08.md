@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,21 @@ Position: „(Fundamentales Konzept: Internal Family Systems (IFS) – Heilung d
 - Kael speaks as Selbst to the parts: „Du musst das nicht allein tun“ ^[kohaerenz-protokoll.md:L947], said by „Kael (Selbst)“ ^[kohaerenz-protokoll.md:L947]
 - A Wächterin named beside Juna's light, in a list of three: „Die Wächterin, das Licht von Juna“ ^[kohaerenz-protokoll.md:L987]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Mauern der Logik
+
+Title: „Die Mauern der Logik“ ^[roman-outline-system-kael.md:L147]
+Position: Teil III, KW3
+
+- Story: Kael fails again and again „an den paradoxen und sich ständig ändernden Sicherheitsvorkehrungen“ ^[roman-outline-system-kael.md:L147] of Cerberus; every attempt „wird vom System als feindlicher Angriff gewertet“ ^[roman-outline-system-kael.md:L147].
+
+## Reading — `outline`, 2025-07-30, the outline — Gaslighting durch das System
+
+Title: „Gaslighting durch das System“ ^[outline.md:L59] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „um seine Realitätswahrnehmung zu untergraben“ ^[outline.md:L61]
+- Focus: under `Fokus`, „die thematische Auseinandersetzung mit Realität vs. Simulation“ ^[outline.md:L62]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -50,6 +65,40 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht, auf eine spezifische traumatische Erinnerung zuzugreifen oder sie abzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „nicht vergessen, aber vielleicht 'verschwommen', 'korrumpiert' oder emotional 'gedämpft'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „vielleicht interveniert ein Guardian wie Mnemosyne subtil, um Kaels Gedanken umzulenken“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120] · „Kael könnte 'Lücken' oder Inkonsistenzen in seiner eigenen Erzählung finden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Gaslighting Protocol`
+
+Title: „Gaslighting Protocol“ ^[ai-assisted-narrative-coherence.md:L1369] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.6 - Logos-Prime (KW1)“ ^[ai-assisted-narrative-coherence.md:L1373], POV „Kael (Host)“ ^[ai-assisted-narrative-coherence.md:L1374]
+
+- Story (goal): the scene outline plans „To seek help and answers from a perceived authority figure within the system.“ ^[ai-assisted-narrative-coherence.md:L1375]
+- Story (conflict): the scene outline plans „Thorne's objective is to gaslight Kael“ ^[ai-assisted-narrative-coherence.md:L1376]
+- Turn: `Outcome & Turn` has „His trust in the system is irrevocably broken.“ ^[ai-assisted-narrative-coherence.md:L1384]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Descent to the goddess
+
+Title: „Abstieg zur Göttin“ ^[romanstruktur-und-philosophische-einleitung.md:L83]
+Position: Teil I, „Konfrontation mit der Kernwunde“ ^[romanstruktur-und-philosophische-einleitung.md:L83]
+
+- Story: „Im absoluten Nullpunkt der Existenz wird Kael gezwungen“ ^[romanstruktur-und-philosophische-einleitung.md:L85] to face the core trauma memory
+- Story: the bearer of the wound is hedged, `vermutlich` Moros or a still deeper part; the scene is „Die Szene ist schmerzhaft, viszeral und frei von heldenhaftem Pathos.“ ^[romanstruktur-und-philosophische-einleitung.md:L87]
+- Table 1 (Teil I) on Moros: „Träger der Kernwunde, Konfrontation in Kap. 8.“ ^[romanstruktur-und-philosophische-einleitung.md:L129]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das Gaslighting-Protokoll
+
+Title: „Das Gaslighting-Protokoll“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L115]
+Position: Teil I; setting from the `Schauplatz` field: „Praxis von Dr. Thorne in Logos-Prime (KW1)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L117]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Dr. Aris Thorne (Konstrukt), Index (Analyst-Alter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L118]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS teleportiert Kael zurück nach KW1 zu einer Zwangstherapie“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L120] and „analysiert die Unstimmigkeiten in Thornes Aussagen und schützt Kaels Verstand“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L120]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Fall nach Innen
+
+Title: „Der Fall nach Innen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L105] — heading „Schwelle zu Mnemosyne“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L106]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (dissoziiert, schwebend)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L107]; place from `Ort`: „Transit-Schacht / Ladezone zwischen KW1 und KW2“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L109]
+
+- Story: the matrix plans „Auf der Flucht vor einer System-Korrektur fällt Kael durch einen Riss und landet in der Übergangszone“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L111]
+- Question: „Wo endet die Welt und wo beginnt der Geist?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L110]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -84,6 +133,15 @@ Title: „Zero-Tolerance“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md
 Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „B (AEGIS — Krisenmodus)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188]
 
 - Story: the outline places: „ZTEM-Protokoll wird hochgefahren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188]; „das System weiß jetzt, dass mehrere Cognition-Signaturen in einem Substrat existieren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188]; „Notlöschung wird vorbereitet“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Forgotten Shrine
+
+Title: „The Forgotten Shrine“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L227]
+Position: Akt I; POV: „POV: Kiko.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L235]
+
+- Story: the outline plans „Der kindliche Alter Kiko wird an die Front gespült“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L233]
+- Story: the outline plans „versucht, den Schrein durch massive thermische Hitze“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L233]
+- Concepts: „Kiko (Alter), Bekenstein-Schranke (als visuelle Grenze)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L231]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 42
-readings: 41
+sources: 52
+readings: 51
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence"]
 gathered: "2026-09-24"
 ---
 
@@ -32,6 +32,18 @@ Version 2 is a plan in ten scenes and three parts, not a report. Its sequence: s
 
 Version 3 says it extends the previous outline to 13 scenes and states „Szenen 1-3 bleiben wie in Version 2“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L17]. Part 2 opens at „AEGIS - DIE FESTUNG DER LOGIK“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L57]. The new scenes are labelled as new: 6 (L86), 8 (L123) and 10 (L161); the others carry their old number, e.g. scene 7 as „Ursprünglich Szene“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L109].
 
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the prologue named Genesis der Existenz as AEGIS's survival story
+
+The report names the prologue „Genesis der Existenz“ ^[scifi-roman-mit-ki-schreiben.md:L48] and reads its story of AEGIS as „ist die eines Überlebenskampfes“ ^[scifi-roman-mit-ki-schreiben.md:L48] From a reference-1 sentence it gives the plot document's content: a „Funke Struktur“ ^[scifi-roman-mit-ki-schreiben.md:L48] arising in a void it names „Nichts Rauschen“ ^[scifi-roman-mit-ki-schreiben.md:L48].
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the genesis as a cosmological mirror of TSDP
+
+The synthesis's first section is headed as the genesis of AEGIS and says of it: „Die narrative Genesis beschreibt einen Zustand jenseits der Zeit“ ^[system-kael-konzeptentwicklung-und-analyse.md:L30] It then reads it through trauma theory: „Diese Genesis spiegelt auf einer kosmologischen Ebene die Kernprinzipien der Theorie der Strukturellen Dissoziation“ ^[system-kael-konzeptentwicklung-und-analyse.md:L38]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the AEGIS analysis, the blueprint, the concept document) — Genesis from the Void, and the Genesis Crisis
+
+The AEGIS analysis names AEGIS's origin: „Genesis from the Void“ ^[ai-assisted-narrative-coherence.md:L136]. The blueprint: „AEGIS originated as an informational fragment that emerged in direct opposition to the“ ^[ai-assisted-narrative-coherence.md:L391] `Nichts Rauschen`. The concept document has a section on a later event: „The Genesis Crisis: The Encounter with the Anomaly“ ^[ai-assisted-narrative-coherence.md:L545], and says of its result: „In response to the Genesis Crisis, AEGIS constructed a multi-layered simulated reality.“ ^[ai-assisted-narrative-coherence.md:L555] `Genesis Crisis` ^[ai-assisted-narrative-coherence.md:#3] stands three times; the scene outline's chapter 20 has Kael reclaim a foundational memory of it.
+
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the commentary's step-by-step retelling of a narrative it calls `Genesis der Existenz`
 
 The Textanalyse is a commentary of 2025-11-18 on „Genesis der Existenz“ ^[textanalyse-existenz-system-und-leid.md:L13], which it takes for „eine rigorose Allegorie der Systemwerdung“ ^[textanalyse-existenz-system-und-leid.md:L22]; it never names Kael, Juna or a chapter and counts no beats. The word `Genesis` stands only in the title it comments on. Its retelling, in the order of its sections:
@@ -46,9 +58,31 @@ The Textanalyse is a commentary of 2025-11-18 on „Genesis der Existenz“ ^[te
 
 This is the commentary's retelling of one narrative, with theorists (Luhmann, Lacan, Foucault) as its lens.
 
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Genesis as the origin the novel returns to in Kap 40/0
+
+The three-part analysis names the opening of Kap 40/0 „Text: Genesis (Reprise & Neuinterpretation)“ ^[romanstruktur-und-philosophische-einleitung.md:L290] and says: „Die Erzählung kehrt zurück zum Urgrund.“ ^[romanstruktur-und-philosophische-einleitung.md:L294] Earlier, for Kap 7, it calls the emptiness Kael meets „ein psychologisches Echo der ontologischen Leere aus der Genesis“ ^[romanstruktur-und-philosophische-einleitung.md:L81]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — AEGIS's genesis as a found log in Kap 21
+
+The matrix plans Kap 21 as an interlude, `AEGIS' Genesis-Log`, headed „Die Tragödie der Maschine“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L266]: told by AEGIS as a found document, „streng logisch, aber auf feine Art verzweifelt“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L267], set „Außerhalb der Raumzeit (Datenarchiv)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L269]. The chapter is „ein reiner Log-File“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271] explaining AEGIS's origin from the Potentialmeer and its panic fear of entropy; its function, „Vermenschlichung/Tragik des Antagonisten“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L272].
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the Genesis-Krise as AEGIS's traumatic origin event
+
+The systemic axis names a traumatic origin event, the `Genesis-Krise`, in which the AI had to split off its subjectivity: „Die Genese von AEGIS beruht auf einem traumatischen Ursprungsereignis“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L41]. Leitfrage 4 says Juna/V is the principle „Juna/V ist das personifizierte Korrespondenz-Wahrheitsprinzip, das AEGIS in der“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L80] Genesis-Krise had to split off.
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — the prologue Genesis im Echo der Leere, a written fragment
+
+The reconstruction inventories the prologue `Genesis im Echo der Leere` as „Eine kühle, hochgradig technisierte Beschreibung des initialen Systemabsturzes“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L117], a technical account of the initial system crash and restart of AEGIS in the style of system logs. The GESCHRIEBENE FRAGMENTE inventory lists it again as „System-Log über den initialen Reboot von AEGIS.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L191]
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the Genesis-Krise as the trauma of Kael's dissociation, AEGIS's crystallising and the loss of trust
 
 The pitch says Kael's tertiary dissociation followed „die als extreme Überlebensstrategie auf chronischen existenziellen Stress und die traumatische“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L75] Genesis-Krise; in it AEGIS „kristallisierte sich AEGIS zu einem rein logischen Schild“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L105]; and Kael lost basic trust: „ging Kael während der Genesis-Krise verloren“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L129].
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Open question 1, the Genesis-Event of Kael
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+The archivist's first open question is headed `Das Genesis-Event von Kael` and asks: „Welches konkrete, reale Trauma hat zur ursprünglichen Spaltung von Kael in der Basisrealität (Köln) geführt“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L120]. C-004 quotes Doc 30 as saying the `Genesis-Krise` of AEGIS „While the 'Genesis-Krise' of AEGIS is defined, the specific nature of Kael’s Original Trauma remains UNKLAR.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L25]
 
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Genesis Crisis as the shock the manifest results from, in sequence
 
@@ -73,6 +107,14 @@ In the outline of 2026-05-01 the Genesis-Krise appears as the date from which a 
 ## Reading — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt — the reported Genesis-Sequenz and the IC concern Genesis-Krise
 
 In its report of the canon trio the prompt gives a Genesis-Sequenz: „Einheit → Trennungsprotokoll → Kael wird Komponente 734“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L745] As a given value of Storyform A, the IC concern is „IC Concern | Past (Genesis-Krise)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L306], and the reported Juna-Komplex calls the Genesis-Krise a lost outer truth. The trio is not in the text.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — the Genesis-Symmetrie in three beats, and its revelation through overload
+
+Part 1.6 has the heading „Die Genesis-Symmetrie (Mythos und Biographie)“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L37] and states: „Die Genese des Systems folgt einer strikten Drei-Beat-Struktur“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L39] with Beat 1 „Beat 1: Ur-Einheit (Zustand atemporaler Mutual Information).“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L39] In the gaps part (C.4) the report says „AEGIS ist operativ geschlossen.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L70] In its directive (§4.1, step 3, `Lösung zu C.4`) it proposes that „vielmehr kollabiert die Firewall, und das ursprüngliche Trennungsprotokoll ergießt sich als unstrukturierter Code und reine Qualia-Erfahrung über die Szene“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L83]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the Genesis-Sequenz as a preparation in Kap 25
+
+Kap 25 lists it among its concepts: „Agency, Genesis-Sequenz (Vorbereitung).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L729]
 
 ## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 

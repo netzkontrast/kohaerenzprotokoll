@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
 aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -36,6 +36,10 @@ onward. One term, two surfaces, **nothing announces the switch.**
 Its mechanism. The source lists resonance, entanglement and ontological anchoring
 as candidates ^[kohaerenzprotokoll-aegis-und-systementropie.md:L110–115] and settles on none, then names the gap as its own
 open question ^[kohaerenzprotokoll-aegis-und-systementropie.md:L239].
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Julia as one of Juna's names, and a question about Köln
+
+The report lists C-008, `Juna vs V vs Julia`, as a minor conflict; its own column: „Inkonsistente Benennung der Entität Juna in den Dokumenten“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L41] (Juna, V, Julia). Among the open questions the registry asks: „Wie genau interagieren Kael und Julia (Juna/V) physisch in der Basisrealität“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L122] — Köln 2026 — and how that time level synchronises with the simulation. It treats Julia as a name of Juna/V and leaves the bond's form open.
 
 ## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
 

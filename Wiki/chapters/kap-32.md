@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -33,6 +33,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 - Transformation: „Er nutzt seine Verbindung zu M, um die Kernwelt nach kohärenteren Prinzipien umzugestalten, AEGIS' Kontrolle zu brechen und vielleicht eine neue Art von Realität zu schaffen.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L362]
 - Harmonie/Transzendenz: „Er löst seine individuelle Form auf und geht eine tiefere Verbindung mit dem M-Fundament ein, wird Teil seiner Dynamik“ ^[monstergruppe-primzahlen-plot-blueprint.md:L363] — „ein Zustand jenseits menschlichen Verständnisses, potenziell erleuchtend oder erschreckend“ ^[monstergruppe-primzahlen-plot-blueprint.md:L363] (loss of self).
 
+## Reading — `outline`, 2025-07-30, the outline — Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS
+
+Title: „Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS“ ^[outline.md:L203] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Kael (Selene als Koordinatorin, Höhepunkt der Integration)“ ^[outline.md:L206]; journey stage under `Reisestufe`: „Überschreiten der ersten Schwelle (im generellen Kontext der Heldenreise)“ ^[outline.md:L210]
+
+- Story: the outline plans, under `Plot`, „lösen einen umfassenden Zusammenbruch in AEGIS' Kontrolle aus“ ^[outline.md:L205]; „Er konfrontiert und untergräbt LogOS“ ^[outline.md:L205]
+- Question: under `Thematische Kernfrage`, „Kann man ein neues Selbst gebären, das Widersprüche umarmt?“ ^[outline.md:L207]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -42,6 +50,39 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael inszeniert eine Situation über mehrere Standorte hinweg oder unter Einbeziehung mehrerer Guardians gleichzeitig“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „koordinierte Aktionen mit Juna/V“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „ein teilweises Einfrieren der Logik innerhalb von AEGIS' zentraler Verarbeitung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Gödel-Gambit` — one entry shared with Kap 31–33
+
+Title: „The Gödel-Gambit“ ^[ai-assisted-narrative-coherence.md:L1602] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.2 at „3.2 - AEGIS Core Processor Chamber“ ^[ai-assisted-narrative-coherence.md:L1606], POV „Kael (System) & AEGIS (Internal Logic)“ ^[ai-assisted-narrative-coherence.md:L1607]
+
+- Story (goal): the scene outline plans „To confront AEGIS's core logic and force its transformation.“ ^[ai-assisted-narrative-coherence.md:L1608]
+- Story (beat): the scene outline plans „This violates its most fundamental axiom: "Coherence arises from the elimination of contradiction."“ ^[ai-assisted-narrative-coherence.md:L1616]
+- Turn: `Outcome & Turn` has „It does not die; it is fundamentally and irrevocably transformed.“ ^[ai-assisted-narrative-coherence.md:L1618]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Atonement with the father
+
+Title: „Versöhnung mit dem Vater“ ^[romanstruktur-und-philosophische-einleitung.md:L248]
+Position: Teil III, „Dialog mit AEGIS“ ^[romanstruktur-und-philosophische-einleitung.md:L248]
+
+- Story: „Es kommt nicht zum physischen Kampf, sondern zum Diskurs.“ ^[romanstruktur-und-philosophische-einleitung.md:L250]
+- Story: „AEGIS’ Versuch, das Leben zu schützen, erstickt es.“ ^[romanstruktur-und-philosophische-einleitung.md:L250]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Spiegelkabinett der Identitäten
+
+Title: „Spiegelkabinett der Identitäten“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L314]
+Position: Teil III; setting from the `Schauplatz` field: „Der Vorhof von AEGIS' Bewusstsein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L316]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, alle Alters“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L317]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS nutzt eine letzte Waffe“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L319] and „Die Alters drohen sich gegenseitig zu bekämpfen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L319]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das Fundament
+
+Title: „Das Fundament“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L401] — heading „Kontakt mit dem Urgrund“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L402]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael (erleuchtet, Gnosis)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L403]; place from `Ort`: „Das absolute Zentrum“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L405]
+
+- Story: the matrix plans „Kurz vor AEGIS berührt Kael“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L407]
+- Question: „Was liegt unter allem?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L406]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -86,6 +127,15 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „LogOS baut endlos eine Wand auf und reißt sie ein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L306]; „Nicht gestorben — *obsolet*“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L306]
 - Encoding A: „OS · SP4 (Becoming) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L306]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Fate of the Guardians
+
+Title: „The Fate of the Guardians“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L936]
+Position: Akt III; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L944]
+
+- Story: the outline plans „Im Chaos der verfallenden Welt stößt Kael auf die verbliebenen Fragmente von LogOS und Mnemosyne.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L942]
+- Concepts: „Obsolete Wächterschleifen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L940]
+- Pivot-Marker: the outline plans Driver-Status: „SF-A Decision hat endgültig die Oberhand gewonnen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L966]; Limit-Marker: „SF-B Timelock hat für Kael keine Relevanz mehr.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L967]; Outcome-Marker: „SF-A Success / Good etabliert sich tief im Narrativ.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L968]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

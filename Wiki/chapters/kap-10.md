@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,21 @@ Position: „(Fundamentales Konzept: Symmetrie (Netzwerk/Graph in McL) / Quanten
 - Confirms and grows curious: „Ihre Analyse der dualen Knotenpunkte war korrekt.“ ^[kohaerenz-protokoll.md:L1258]
 - Impressed, wary: „Beeindruckend, Architekt“ ^[kohaerenz-protokoll.md:L1280]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Garten der flüsternden Pfade
+
+Title: „Der Garten der flüsternden Pfade“ ^[roman-outline-system-kael.md:L188]
+Position: Teil IV, KW4
+
+- Story: „Kael findet sich im Möglichkeits-Garten (E5) wieder.“ ^[roman-outline-system-kael.md:L188] At the Nexus of Whispers the oracle Sibyl gives „kryptische, aber hoffnungsvolle Prophezeiungen“ ^[roman-outline-system-kael.md:L188].
+
+## Reading — `outline`, 2025-07-30, the outline — Die Wächter an der Schwelle
+
+Title: „Die Wächter an der Schwelle“ ^[outline.md:L69] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „trifft auf einen Wächter (z.B. Argus), der als Torhüter fungiert“ ^[outline.md:L71]; „Kael versucht, eine große Schwelle zwischen den Kernwelten oder zur Überwelt zu überqueren“ ^[outline.md:L71]
+- Focus: under `Fokus`, „Das Pacing ist sanft und explorativ“ ^[outline.md:L72]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -50,6 +65,39 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht den Ort des vorherigen 'Risses' (aus Kapitel 7) erneut.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „Die Realität scheint zusammengeflickt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Story: „seltsame Restartefakte oder 'Narbengewebe' im Gewebe der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „spezialisierte 'Wartungsdrohnen' oder Guardian-Subroutinen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Discussion: „AEGIS' Reparaturen möglicherweise nicht perfekt sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L147]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Glimpse of Potential`, one entry shared with Kap 09–10
+
+Title: „Glimpse of Potential“ ^[ai-assisted-narrative-coherence.md:L1386] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.7 - Kairos-Potentialis (KW4)“ ^[ai-assisted-narrative-coherence.md:L1390], POV „Kael (Host)“ ^[ai-assisted-narrative-coherence.md:L1391]
+
+- Story (goal): the scene outline plans „To escape a containment protocol initiated by Cerberus in KW3.“ ^[ai-assisted-narrative-coherence.md:L1392]
+- Story (conflict): the scene outline plans „a place of chaotic, untamed growth and emergent possibility“ ^[ai-assisted-narrative-coherence.md:L1393]
+- Turn: `Outcome & Turn` has „Kael now has tangible proof of an alternative to“ ^[ai-assisted-narrative-coherence.md:L1402]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Healing the wound
+
+Title: „Heilung der Wunde“ ^[romanstruktur-und-philosophische-einleitung.md:L95]
+Position: Teil I, „Der Konflikt um Annahme“ ^[romanstruktur-und-philosophische-einleitung.md:L95]
+
+- Story: „Die beginnende Heilung ruft paradoxerweise neuen, heftigen Widerstand hervor.“ ^[romanstruktur-und-philosophische-einleitung.md:L97]
+- Story: „Kael muss als Mediator agieren.“ ^[romanstruktur-und-philosophische-einleitung.md:L99]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die angewandte Harmonie
+
+Title: „Die angewandte Harmonie“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L131]
+Position: Teil I; setting from the `Schauplatz` field: „Kairos-Potentialis (KW4)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L133]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna, Kairos (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L134]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael und Juna teilen einen wortlosen Austausch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L136] and „AEGIS-Protokolle greifen gewaltsam ein, trennen Kael von Juna und reißen ihn zurück in die Sterilität von KW1“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L136]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Architektur des Schmerzes
+
+Title: „Die Architektur des Schmerzes“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L129] — heading „Begegnung mit der Hüterin“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L130]
+Position: Teil I; POV from `Perspektive & Stimme`: „Nyx (kämpferisch, zynisch)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L131]; place from `Ort`: „Ein schwimmendes Konstrukt in KW2“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L133]
+
+- Story: the matrix plans „Konfrontation mit Mnemosyne“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L135]
+- Question: „Dient Verdrängung dem Überleben oder der Selbstzerstörung?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L134]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -78,6 +126,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „aus der Sicht des Speicher-Wächters“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]; „er versucht, das Trauma sauber zu archivieren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]; „Cache-Kohärenz wahren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]
 - Foreshadowing level 3 lists „Die Zahl 734 (Kap 2, Kap 10, Kap 25)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Die angewandte Harmonie
+
+Title: „Die angewandte Harmonie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L283]
+Position: Akt I; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L291]
+
+- Story: the outline plans „wendet eine neu gefundene Balance aus analytischer Kälte und empathischer Simulation an“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L289]
+- Story: the outline plans „wertet die Harmonie jedoch als hochgradig gefährliches, emergentes Verhalten“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L289]
+- Concepts: „Embodiment“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L287]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

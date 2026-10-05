@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-39-kapitel-matrix
+  lines                494  (frontmatter ends at 9)
+  body words           3381
+  headings             4   bold-only lines 40
+  table rows           0   code fences 0
+  question marks       39
+  backslash escapes    1
+  typographic marks    13   ascii quotes 74
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    47
+  repeated labels      Charaktere x39, Fragestellung x39, Narrative Funktion x39, Ort x39, Perspektive & Stimme x39, Plot-Beat x39, Sensorisches Leitmotiv x39, Titel x39, Überschrift x39
+  longest line         205 chars
+

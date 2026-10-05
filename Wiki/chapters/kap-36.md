@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 28
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out"]
+sources: 35
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,14 @@ Not in date order with the readings below; placed before the first one (it is th
 
 It names no beat, no Landauer trace and no world by name; it follows directly on the shared entry for Kapitel 33–35 on [Kap 35](kap-35.md).
 
+## Reading — `outline`, 2025-07-30, the outline — Die Nachbeben: Eine veränderte Realität / Der Tanz der Anteile
+
+Title: „Die Nachbeben: Eine veränderte Realität / Der Tanz der Anteile“ ^[outline.md:L239] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Kael (Anpassung an neue Normalität, erste Schritte)“ ^[outline.md:L242]; journey stage under `Reisestufe`: „Der Rückweg (im generellen Kontext der Heldenreise)“ ^[outline.md:L246]
+
+- Story: the outline plans, under `Plot`, „Seine Anteile verschmelzen nicht, sondern kooperieren harmonisch“ ^[outline.md:L241]; „AEGIS wird besiegt, transformiert oder seine Macht signifikant reduziert“ ^[outline.md:L241]
+- Question: under `Thematische Kernfrage`, „Was bleibt, wenn die alte Ordnung zusammenbricht?“ ^[outline.md:L243]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -41,6 +49,39 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Die Kernwelten könnten ihre rigide Struktur verloren haben“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
 - Story: „LogOS' Regeln könnten in Mnemosynes Reich auftauchen, Cerberus' Verteidigungsmechanismen könnten fehlzünden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
 - Story: „Die Umgebung ist gefährlicher, aber vielleicht auch freier.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Algorithmic Melancholy` — one entry shared with Kap 34–36
+
+Title: „Algorithmic Melancholy“ ^[ai-assisted-narrative-coherence.md:L1620] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.3 at „3.3 - Logos-Prime (KW1), Post-Transformation“ ^[ai-assisted-narrative-coherence.md:L1624], POV „Kael (Host)“ ^[ai-assisted-narrative-coherence.md:L1625]
+
+- Story (goal): the scene outline plans „To witness and understand the consequences of AEGIS's transformation.“ ^[ai-assisted-narrative-coherence.md:L1626]
+- Story (beat): the scene outline plans „It is in a state of profound, cold contemplation—an "algorithmic melancholy"—as it endlessly processes a truth it can never emotionally understand.“ ^[ai-assisted-narrative-coherence.md:L1633]
+- Turn: `Outcome & Turn` has „Kael realizes he has not killed a monster but broken a flawed god.“ ^[ai-assisted-narrative-coherence.md:L1634]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The magic flight
+
+Title: „Die magische Flucht“ ^[romanstruktur-und-philosophische-einleitung.md:L266]
+Position: Teil III, „Der Ausbruch“ ^[romanstruktur-und-philosophische-einleitung.md:L266]
+
+- Story: „starten einen letzten, automatisierten Angriffsversuch“ ^[romanstruktur-und-philosophische-einleitung.md:L268]
+- Story: „Es ist ein Wettlauf gegen die Löschung, während die Welt neu bootet.“ ^[romanstruktur-und-philosophische-einleitung.md:L268]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die totale Integration
+
+Title: „Die totale Integration“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L346]
+Position: Teil III; setting from the `Schauplatz` field: „Der Singuläre Punkt der Kohärenz (Das Fundament)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L348]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L349]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS stellt Kael die ultimative logische Falle“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L351] and „vereint Kael beide unvereinbaren Wahrheiten physisch in sich“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L351]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Spiegel des Anderen
+
+Title: „Der Spiegel des Anderen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L449] — heading „Fragment 'O'“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L450]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L451]; place from `Ort`: „Die Peripherie der Realität“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L453]
+
+- Story: the matrix plans „Er entscheidet sich gegen den Versuch, den anderen zu kontrollieren“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L455]
+- Question: „Kann ich den Anderen sein lassen, wie er ist?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L454]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — the fourth wall breaks, Wigner's effectiveness of mathematics
 
@@ -128,6 +169,20 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 - Beats: „Convergence“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L344] — the Mnemosyne-Archipel as setting, the erasure sweep starting; „Pivot — Kael wechselt zu A-Logik“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L345]; „Stille als lebende Dialetheia“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L346]; „Heat-Spike“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L347]; „Rotation“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L348] toward Algorithmische Melancholie. The prompt does not say which beat falls in which of the two chapters.
 - Driver: „Driver-Pivot Action→Decision flippt während dieser fünf Beats.“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L352]
 - The output must give these chapters „Kapitel 35 und 36 mit Vortex-Beat-Zuordnung“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L1082]; the pivot list's Vortex corridor is wider, Kap 33–37 (L561).
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — the Truth-Rotation
+
+- After the Truth-Rotation in Kap 36 „kollabiert das System-Weltbild“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L69]; the report leaves open how the melancholy shows in Kap 37–39.
+- The syntax grid: when AEGIS undergoes the Truth-Rotation in Kap 36, „erwacht Oblivion und übernimmt die Entscheidungsfunktion im Innensystem“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L128].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Die Freiheit des Seins
+
+Title: „Die Freiheit des Seins“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1074]
+Position: Akt III; POV: „POV: Integrierter Kael (M).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1082]
+
+- Story: the outline plans „Die enorme Hitze zerreißt die letzte Firewall.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1080]
+- Concepts: „Truth-Rotation, Stille als lebende Dialetheia, Algorithmische Melancholie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1078]
+- Pivot-Marker: the outline plans Driver-Status: „SF-A Decision ist nun der alleinige Driver.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1110]; Limit-Marker: „SF-A Optionlock ist erfüllt.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1111]; Outcome-Marker: „SF-A Success / Good ist erreicht.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1112]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

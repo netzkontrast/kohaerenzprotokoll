@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,39 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Der Empathie-Test“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L331]
 - Story: „Kael versucht, eine genuinely empathische oder subjektive Reaktion von AEGIS oder einem hochrangigen Guardian hervorzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
 - Story: „Kael kommt zu dem Schluss, dass AEGIS simuliert, aber nicht fühlt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Strategies of Madness: Moros Emerges`
+
+Title: „Strategies of Madness: Moros Emerges“ ^[ai-assisted-narrative-coherence.md:L1553] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the chapter has no scene fields in the outline; its prose says „The entire internal system must now band together“ ^[ai-assisted-narrative-coherence.md:L1555]
+
+- Story (beat): the scene outline plans „AEGIS's attack succeeds in pushing the system to its breaking point.“ ^[ai-assisted-narrative-coherence.md:L1555]
+- Story (beat): the scene outline plans „Kael is plunged into a state of catatonic despair.“ ^[ai-assisted-narrative-coherence.md:L1555]
+- Turn: the scene outline plans „This is the ultimate test for their newfound integration.“ ^[ai-assisted-narrative-coherence.md:L1555]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The end of dualism
+
+Title: „Ende des Dualismus“ ^[romanstruktur-und-philosophische-einleitung.md:L200]
+Position: Teil II, „Geist ist Code“ ^[romanstruktur-und-philosophische-einleitung.md:L200]
+
+- Story: „Ein Gedanke ist ein Befehl. Ein Gefühl ist ein Algorithmus.“ ^[romanstruktur-und-philosophische-einleitung.md:L202]
+- Story: „Er kann Empathie, Trauer oder Hoffnung als Virus in den Kerncode einschleusen.“ ^[romanstruktur-und-philosophische-einleitung.md:L204]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Übergriff
+
+Title: „Der Übergriff“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L246]
+Position: Teil II; setting from the `Schauplatz` field: „Kaels interner Gedankenraum“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L248]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael (alle Alters), AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L249]
+- Story: the blueprint plans, in `Plot-Beats`, „Aus Verzweiflung durchbricht AEGIS die Avatar-Ebene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L251] and „Ein brutaler Krieg um die narrative Vorherrschaft im eigenen Verstand beginnt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L251]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der direkte Kontakt
+
+Title: „Der direkte Kontakt“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L301] — heading „Jenseits des Protokolls“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L302]
+Position: Teil II; POV from `Perspektive & Stimme`: „Kael (intim, ruhig inmitten des Chaos)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L303]; place from `Ort`: „Eine Stasis-Blase im Rauschen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L305]
+
+- Story: the matrix plans „Er begreift, dass sie der Anker zur echten Welt ist“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L307]
+- Question: „Gibt es eine Verbindung, die keine Kausalität braucht?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L306]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -79,6 +112,14 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „LogOS versucht, Mnemosynes Routinen zu überschreiben“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266]; „Mnemosyne weigert sich“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266]
 - Encoding A: „IC · SP3 (Progress) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266]
 - The foreshadowing passage lists Kap 24 among „Drei sich widersprechende Klassifikationen (Kap 6, Kap 16, Kap 24)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Das Echo der Kernwunde
+
+Title: „Das Echo der Kernwunde“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L697]
+Position: Akt II; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L705]
+
+- Story: the outline plans „Ein zentrales, bis dato unlesbares Trauma-Symbol drängt sich hartnäckig in die neu gefundene Kohärenz.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L703]
+- Concepts: „Trauma-Symbol, Fragment T-734“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L701]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

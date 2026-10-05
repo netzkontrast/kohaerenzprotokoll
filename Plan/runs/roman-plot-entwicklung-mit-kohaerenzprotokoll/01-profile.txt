@@ -1,0 +1,14 @@
+# roman-plot-entwicklung-mit-kohaerenzprotokoll
+  lines                426  (frontmatter ends at 9)
+  body words           4194
+  headings             10   bold-only lines 40
+  table rows           6   code fences 0
+  question marks       18
+  backslash escapes    28
+  typographic marks    11   ascii quotes 114
+  invisible characters U+0308x1
+  math symbol lines    0
+  glued ref numbers    64
+  repeated labels      Charaktere/Linsen x40, Pacing & Atmosphäre x40, Plot-Beats x40, Schauplatz x40, Quellen x39
+  longest line         678 chars
+

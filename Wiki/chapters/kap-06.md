@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,21 @@ Position: „(Fundamentales Konzept: Cache Kohärenz (Konflikt) / Parakonsistent
 - Collapse: „Die Aufgabe war gescheitert.“ ^[kohaerenz-protokoll.md:L783]
 - Juna at the break: „In diesem Moment des absoluten Zusammenbruchs, als alle mentalen Firewalls versagten, als die Mauer zur isolierten Resonanz zerbarst, spürte er es wieder.“ ^[kohaerenz-protokoll.md:L777]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Begegnung mit Echo
+
+Title: „Begegnung mit Echo“ ^[roman-outline-system-kael.md:L104]
+Position: Teil II, KW2
+
+- Story: Kael meets „der verängstigten Kind-Manifestation“ ^[roman-outline-system-kael.md:L104] Echo; „Seine Versuche, Echo mit der kalten Logik von Lex zu beruhigen, scheitern kläglich.“ ^[roman-outline-system-kael.md:L104]
+
+## Reading — `outline`, 2025-07-30, the outline — Der Innere Bunker
+
+Title: „Der Innere Bunker“ ^[outline.md:L49] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „wo Nox (EP) als Verkörperung seiner Angst und Abwehrreaktionen eingeführt wird“ ^[outline.md:L51]
+- Focus: under `Fokus`, „Der Bunker ist eine thematische Darstellung von Isolation und Schutz“ ^[outline.md:L52]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -49,6 +64,39 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht ein Gebiet, das für seine perfekte Ordnung und Vorhersagbarkeit bekannt ist (vielleicht innerhalb von KW1 oder einer stark regulierten Zone).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „kein 'Riss', aber vielleicht eine plötzliche Kaskade kleinerer Systemfehler“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94] · „Der Vorfall wird schnell von AEGIS/Guardians eingedämmt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „Vielleicht findet Kael Restspuren einer größeren 'Aufräumaktion'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Fortress of Fear`, one entry shared with Kap 06–07
+
+Title: „The Fortress of Fear“ ^[ai-assisted-narrative-coherence.md:L1352] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.5 - Cerberus-Labyrinth (KW3), Outer Walls“ ^[ai-assisted-narrative-coherence.md:L1356], POV „Kael (Host, influenced by Alex)“ ^[ai-assisted-narrative-coherence.md:L1357]
+
+- Story (goal): the scene outline plans „To find a safe, defensible space to recover from the emotional overflow of KW2“ ^[ai-assisted-narrative-coherence.md:L1358]
+- Story (conflict): the scene outline plans „tries to contain him within a paradoxical maze“ ^[ai-assisted-narrative-coherence.md:L1359]
+- Turn: `Outcome & Turn` has „Kael is temporarily safe but trapped.“ ^[ai-assisted-narrative-coherence.md:L1367]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The initiation
+
+Title: „Die Initiation“ ^[romanstruktur-und-philosophische-einleitung.md:L71]
+Position: Teil I, „Annahme der Fragmentierung“ ^[romanstruktur-und-philosophische-einleitung.md:L71]
+
+- Story: „Kael akzeptiert zum ersten Mal bewusst“ ^[romanstruktur-und-philosophische-einleitung.md:L73] that he is many, not one
+- Story: „Diese Akzeptanz markiert die Initiation in eine neue Form des Seins.“ ^[romanstruktur-und-philosophische-einleitung.md:L75]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Architektur der Isolation
+
+Title: „Die Architektur der Isolation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L99]
+Position: Teil I; setting from the `Schauplatz` field: „Cerberus-Labyrinth (KW3) – Brutalistische Außenmauern“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L101]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Alex (Protektor), Nyx (Kämpfer), Cerberus (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L102]
+- Story: the blueprint plans, in `Plot-Beats`, „zieht sich Kael in die Festungswelt KW3 zurück, das topologische Äquivalent seiner Abwehrmechanismen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L104] and „zwingt Kael in einen temporären Bunker“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L104]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Sprachliche Schatten
+
+Title: „Sprachliche Schatten“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L81] — heading „Der Verlust des Sagbaren“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L82]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (kämpft um die Kontrolle mit Alex, dem Beschützer)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L83]; place from `Ort`: „Eine der Hauptverkehrsadern von KW1“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L85]
+
+- Story: the matrix plans „Kael bemerkt, dass bestimmte Wörter (Schmerz, Vergangenheit) von der Umgebung buchstäblich nicht gehört oder ausgesprochen werden können“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L87]
+- Question: „Ist Sprache ein Werkzeug der Wahrheit oder der Kontrolle?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L86]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -78,6 +126,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „in Sektor B-7 hat sich ein Korridor stabilisiert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L180]; „Beide Reports widersprechen sich in der Klassifikation“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L180]
 - The seeding table lists for Kap 6 a code cooling island: „LogOS findet Sektor mit Null-Erasure-Aktivität“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L143].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Shattering of Logos
+
+Title: „The Shattering of Logos“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L165]
+Position: Akt I; POV: „POV: Nyx.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L173]
+
+- Story: the outline plans „wird Kaels Bewusstsein zwangsweise in Core World 2 transferiert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L171]
+- Story: the outline plans „bricht an die Oberfläche und flieht durch den zerfallenden Code“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L171]
+- Concepts: „ZTEM-Protokoll, Nyx (Alter), Core World 2 (Resonanzlandschaft)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L169]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

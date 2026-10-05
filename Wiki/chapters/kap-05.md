@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,21 @@ Position: „(Fundamentales Konzept: Kernwelten als Simulationen)“ ^[kohaerenz
 - Sensorik: „Eine Annäherung an einen hell leuchtenden Knotenpunkt brachte einen Hauch von… Ozon und warmer Elektrizität?“ ^[kohaerenz-protokoll.md:L562] — warmth and ozone together, at a bright McL node.
 - The false success, named: „Die Illusion des Erfolgs war verlockend, aber die Saat des Zweifels war gesät.“ ^[kohaerenz-protokoll.md:L653]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Schwelle und der Wächter
+
+Title: „Die Schwelle und der Wächter“ ^[roman-outline-system-kael.md:L102]
+Position: Teil II, KW2
+
+- Story: at the border Kael meets „den Grenzwärter“ ^[roman-outline-system-kael.md:L102] Argus, „eine Manifestation seines metakognitiven, perfektionistischen Anteils“ ^[roman-outline-system-kael.md:L102], and falls through into the Resonanz-Landschaft.
+
+## Reading — `outline`, 2025-07-30, the outline — Die Jagd in den Datenströmen
+
+Title: „Die Jagd in den Datenströmen“ ^[outline.md:L44] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „beginnen eine subtile Verfolgung“ ^[outline.md:L46]
+- Focus: under `Fokus`, „Das Gefühl von Isolation und Klaustrophobie für Kael verstärkt sich“ ^[outline.md:L47]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -49,6 +64,40 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „trifft eine Wahl in einem simulierten Café“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81] · „Lichter passen sich zu perfekt an Kaels Blick an“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Story: „Kael könnte ein vages Gefühl haben, antizipiert oder verwaltet zu werden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Discussion: „Die Umgebung selbst wird Teil des Kontroll- und Überwachungsapparates“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L82]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The First Journey into Memory`, one entry shared with Kap 04–05
+
+Title: „The First Journey into Memory“ ^[ai-assisted-narrative-coherence.md:L1335] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.4 - Mnemosyne-Archipel (KW2), Lake of Tears“ ^[ai-assisted-narrative-coherence.md:L1339], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1340]
+
+- Story (conflict): the scene outline plans „an overwhelming sensory assault“ ^[ai-assisted-narrative-coherence.md:L1342]
+- Story (beat): the scene outline plans „and pushes through, falling from the sterile data-scape of KW1“ ^[ai-assisted-narrative-coherence.md:L1345]
+- Turn: `Outcome & Turn` has „Kael escapes the loop and retreats from KW2, terrified“ ^[ai-assisted-narrative-coherence.md:L1350]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The illusion of strength
+
+Title: „Die Illusion der Stärke“ ^[romanstruktur-und-philosophische-einleitung.md:L65]
+Position: Teil I, „Das Scheitern der Manager“ ^[romanstruktur-und-philosophische-einleitung.md:L65]
+
+- Story: Kael falls back on Lex: „Dies ist der klassische Versuch der Psyche, das Trauma intellektuell zu bewältigen, ohne es zu fühlen“ ^[romanstruktur-und-philosophische-einleitung.md:L67]
+- Story: „Das Kapitel demonstriert das katastrophale Scheitern dieser Strategie.“ ^[romanstruktur-und-philosophische-einleitung.md:L69]
+- Table 1 (Teil I) gives Lex's development: „Scheitert an Emotion (Kap. 5)“ ^[romanstruktur-und-philosophische-einleitung.md:L125]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der See der Tränen
+
+Title: „Der See der Tränen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L91]
+Position: Teil I; setting from the `Schauplatz` field: „Mnemosyne-Archipel (KW2) – Eine traumgleiche, neblige Ruinenlandschaft“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L93]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Mnemosyne (Guardian), Oblivion (Freeze-EP), Lex“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L94]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael wird von verdrängten Traumata überflutet“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L96] and „gelingt Kael die Flucht“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L96]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das Rauschen
+
+Title: „Das Rauschen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L69] — heading „Der Druck der Leere“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L70]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (Kiko bricht durch - ängstlich, kindlich)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L71]; place from `Ort`: „am Rande von KW1“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L73]
+
+- Story: the matrix plans „Kael bekommt eine Panikattacke, Kiko (EP) übernimmt kurz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L75]
+- Question: „Was passiert, wenn die Ordnung der Welt Risse bekommt?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L74]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -78,6 +127,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „sein innerer Tonfall wird warm, anpassungsfähig, fast charmant“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]; „fällt Staub sehr langsam durch einen Lichtstrahl hinter dem Evaluator“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]
 - Encoding A: „OS · SP1 (Being) · Falsehood · Decision (Maskerade)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]
 - The seeding table lists for Kap 5 a dust grain: „Staub fällt zu langsam — Kael nimmt es im Augenwinkel wahr“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L142].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Unseen Observer
+
+Title: „The Unseen Observer“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L137]
+Position: Akt I; POV: „POV: Alex.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L145]
+
+- Story: the outline plans „übernimmt der Anteil Alex die Führung, der auf soziale Anpassung programmiert ist“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L143]
+- Story: the outline plans „interagiert er mit dem SIS-Protokoll von AEGIS“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L143]
+- Concepts: „Alex (Alter), SIS-Protokoll, Discursive Logic“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L141]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

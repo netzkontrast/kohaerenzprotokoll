@@ -1,0 +1,14 @@
+# roman-outline-system-kael
+  lines                288  (frontmatter ends at 9)
+  body words           4187
+  headings             24   bold-only lines 0
+  table rows           48   code fences 0
+  question marks       14
+  backslash escapes    144
+  typographic marks    87   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    30
+  repeated labels      none
+  longest line         952 chars
+

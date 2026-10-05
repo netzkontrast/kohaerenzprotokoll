@@ -1,0 +1,106 @@
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Tabelle"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Tabelle` ^[scifi-roman-mit-ki-schreiben.md:#4]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Basierend auf"
+whole word, case-sensitive     2
+whole word, case-insensitive   6
+including compounds            2
+
+`Basierend auf` ^[scifi-roman-mit-ki-schreiben.md:#2]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Schlussfolgerung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schlussfolgerung` ^[scifi-roman-mit-ki-schreiben.md:#1]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Ebene"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Ebene` ^[scifi-roman-mit-ki-schreiben.md:#2]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "DID"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`DID` ^[scifi-roman-mit-ki-schreiben.md:#0]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Sophia"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Sophia` ^[scifi-roman-mit-ki-schreiben.md:#4]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Möglichkeits-Garten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Möglichkeits-Garten` ^[scifi-roman-mit-ki-schreiben.md:#3]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Dr. Thorne"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Dr. Thorne` ^[scifi-roman-mit-ki-schreiben.md:#3]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Garten d. Möglichkeiten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Garten d. Möglichkeiten` ^[scifi-roman-mit-ki-schreiben.md:#1]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Abgrund d. Ängste"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Abgrund d. Ängste` ^[scifi-roman-mit-ki-schreiben.md:#1]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Virtuelles Büro Dr. Thorne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Virtuelles Büro Dr. Thorne` ^[scifi-roman-mit-ki-schreiben.md:#1]
+
+$ python3 scripts/read.py scifi-roman-mit-ki-schreiben --count "Mnemosyne-Archiv"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Mnemosyne-Archiv` ^[scifi-roman-mit-ki-schreiben.md:#1]
+
+stance_marker_count 7 = Tabelle 4 + Basierend auf 2 + Schlussfolgerung 1 (case-sensitive whole word)
+
+$ grep -n "?" lines (profile: 24 question marks; lines):
+161:| \* 162:| \* 163:| \* 164:| \* 165:| \* 166:| \* 262:| 8  264:| 10 265:| 11 267:| 13 285:| 12 322:  -  327:  -  341:6.   347:12.  357:22.  
+$ grep -c "end list"
+6
+Profile numbers (01-profile.txt): 60 glued ref numbers, 40 backslash escapes, 24 question marks, 358 lines
+2:  lines                358  (frontmatter ends at 9)
+4:  headings             23   bold-only lines 0
+6:  question marks       24
+7:  backslash escapes    40
+10:  math symbol lines    1
+11:  glued ref numbers    60
+
+Counts of 04-counts.txt: candidates 110 (incl. 10 lens); zeros 0
+# counts for 110 candidates
+hand count of the four period-lines: Dr. Thorne 3, Garten d. Möglichkeiten 1, Abgrund d. Ängste 1, Virtuelles Büro Dr. Thorne 1 (above)
+Sophia lines (4): L78 L91 L192 L232
+78:AE
+91:  
+192:A
+232:|

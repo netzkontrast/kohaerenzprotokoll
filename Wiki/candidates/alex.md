@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 28
-readings: 28
+sources: 37
+readings: 37
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-24"
 ---
 
@@ -12,12 +12,56 @@ gathered: "2026-09-24"
 
 One of the thirteen [[alters|Alters]] — ANP, „Protektor" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L396].
 
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — one of the complementary ANP pair with Rhys, and a protective or persecutor part of KW3
+
+The editor's report gives, as the plot document's (a reference-1 sentence), that „Bilden ein komplementäres Paar, das alternative, pro-soziale ANP-Strategien aufzeigt“ ^[scifi-roman-mit-ki-schreiben.md:L137] — the pair is `Alex (Beschützer) & Rhys (Pfleger)`, listed among the ANPs. In the Kern-Welten list it places `Alex` with `Nyx` in KW3: the world „externalisiert die psychologischen Abwehrmechanismen und die Schutz- oder Verfolgeranteile des Systems“ ^[scifi-roman-mit-ki-schreiben.md:L90]
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — Beschützer, core phobia helplessness
+
+In the roster of the eleven parts, which the synthesis gives with the glued `1` of its reference 1, Alex is listed among the ANPs as `Beschützer`: „Ein pragmatischer Verteidiger, der für die Sicherheit des Systems sorgt“ ^[system-kael-konzeptentwicklung-und-analyse.md:L110] His core phobia is given as „die Hilflosigkeit und das Versagen, die verletzlichen Anteile schützen zu können“ ^[system-kael-konzeptentwicklung-und-analyse.md:L110]
+
+## Reading — `outline`, 2025-07-30, the outline — Alex in the list of ANPs
+
+The outline plans Alex once, in Teil 2 (L116), among the ANPs of the first point of its section on inner cooperation: „Kaels Anteile (ANPs wie Lex, Rhys, Alex und EPs wie Nyx, Kiko, Moros, Isabelle, Lia, Argus) entwickeln ihre Kooperation weiter“ ^[outline.md:L116] (L116). It lists Lex, Rhys and Alex as ANPs and Nyx, Kiko, Moros, Isabelle, Lia and Argus as EPs, and says nothing further of Alex.
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline and the architecture analysis of the English compilation — Alex as protector in two scenes of Act I, and a row of the eleven-row table
+
+Alex appears only in the later parts of the compilation: in the scene outline (L1273 on) and in the table of the architecture analysis (L1671 on). In the scene outline, scene 1.2 (Act I) has Alex run the defence under the Guardian's interrogation: „assesses the Guardian as a high-level threat, running crisis management protocols“ ^[ai-assisted-narrative-coherence.md:L1312]. In scene 1.5, set in the Cerberus-Labyrinth (KW3), where the outline names Alex and Nyx as the dominant protector alters, the beat reads „takes the lead, assessing threats and seeking fortifications.“ ^[ai-assisted-narrative-coherence.md:L1363]
+
+The architecture analysis (L1671 on) gives Alex a row in its alter table, typed „Secondary ANP“ ^[ai-assisted-narrative-coherence.md:L1762] and described as „The calculated protector and crisis manager“ ^[ai-assisted-narrative-coherence.md:L1762].
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a protector Alter in Kap 6 and Kap 19
+
+The master blueprint casts Alex in Kap 6 as „Alex (Protektor)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L102] and plans that he takes over when Kael flees into KW3: „übernimmt die Navigation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L104] In Kap 19 it plans the switching of fronting, in which „blockt System-Resets“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Alex as the protector in Kap 6 and Kap 15–17, and one voice of the Inner Council in Kap 12
+
+Kap 6 plans a struggle for control: „Kael (kämpft um die Kontrolle mit Alex, dem Beschützer).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L83] Kap 15 gives Alex the perspective: „Alex (ANP-Beschützer) – hyper-vigilant, militärisch.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L195] and the beat „Alex zwingt Kael in den Hintergrund.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L199] Its function line reads „Analyse des Beschützer-Anteils; Abwehr als selbstzerstörerisches Element.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L200]
+
+Kap 17 plans his failure: „Alex scheitert an einem Logik-Paradoxon des Systems.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L223] and a change of voice to „Wechsel zu Lia (Kind-EP).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L219] In Kap 12 he is one of the parts that talk: „Kael hält erstmals bewusst inne und kommuniziert intern mit Lex, Alex und Rhys.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L159]
+
+A plan in a fixed grid of nine fields; recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — the protector among the alters
+
+The reconstruction lists the third primary alter as „Der Wächter (Alex)“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L82], described as „Ein robuster Protektor, der das fragile interne System vor Überwältigung abschirmt“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L82]. SC-06 lists him in the same form, `Wächter (Alex)`.
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Alex in the registry's list of core alters
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Registry row F-04 lists Alex with a role: „Das System Kael besteht aus Lex (Logik), Nyx (Kampf), Kiko (Freeze), Alex (Schutz), Rhys (Pflege), Selene (Integration), Argus (Kritiker), Lia, Isabelle und Moros.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L69]
+
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Alex in Appendix B, a Protector
 In Appendix B (the Kanon's own full specification of the alter system) Alex is placed among the ANPs: „Protector. Somatik: Hypertonus, Bruxismus.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L636] The arc is given in the same line (L636); the line is the whole entry.
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — a mode first, named in Kap 13, no longer protecting in Kap 33
 
 The outline of 2026-05-01 plans Alex as a mode before it is a name. Its alter timeline gives the first covert trace in Kap 5 as „sozial-protektiver Modus“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L112] and the first named appearance in Kap 14. Kap 5's entry says the hidden thing is „Dass dieser Modus Alex ist“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]; the name itself is among those Kael speaks in Kap 13 (see the page `alters`). For Kap 33 it writes „Alex schützt nicht mehr“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L310] — he now shapes.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the Alter of social adaptation, planned for Kap 5; the generic label dropped
+
+The dual-storyform outline lists the concepts of Kap 5 as „Alex (Alter), SIS-Protokoll, Discursive Logic.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L141] and plans the beat in these words: „übernimmt der Anteil Alex die Führung, der auf soziale Anpassung programmiert ist“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L143] The outline's Anhang B, its list of discarded legacy material, says of a generic count of Alters that „das System verwendet ausschließlich die kanonisch definierten Namen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1349] — a decision of the outline, which names `Alex` among the Namen it keeps.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

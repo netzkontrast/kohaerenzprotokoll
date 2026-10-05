@@ -1,0 +1,499 @@
+{
+  "document": "kohaerenz-protokoll-39-kapitel-matrix",
+  "drive_id": "1LVVAUeUCrxgGvyddLOPnh2pSCN6_R6jLJfv3oTEHJgQ",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 94,
+    "decisions": 113,
+    "decided_by_lookup": 70,
+    "needs_judgement": 43
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        24,
+        40,
+        136,
+        205,
+        212,
+        270,
+        271,
+        272,
+        283,
+        431,
+        443,
+        444,
+        491
+      ],
+      "attribution": "",
+      "note": "AEGIS as a log, an enforcer, a tragic antagonist and a frozen end, across the grid"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        83,
+        159,
+        195,
+        199,
+        200,
+        219,
+        223
+      ],
+      "attribution": "",
+      "note": "Alex as the protector in Kap 6 and Kap 15–17, and one voice of the Inner Council in Kap 12"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        437,
+        438,
+        443,
+        445
+      ],
+      "attribution": "",
+      "note": "Kap 35 carries the term as its title"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        279,
+        283
+      ],
+      "attribution": "",
+      "note": "Argus as the observing voice of Kap 22"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        193,
+        196,
+        208,
+        392
+      ],
+      "attribution": "",
+      "note": "Cerberus in Kap 15, 16 and 31"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        467
+      ],
+      "attribution": "",
+      "note": "Emergenz in Kap 37, as what the new world allows"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        187,
+        271,
+        283,
+        342
+      ],
+      "attribution": "",
+      "note": "Entropie in Kap 14, 21, 22 and 27"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        52,
+        477,
+        479
+      ],
+      "attribution": "",
+      "note": "Externe Ebene in Kap 3 and Kap 38"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        266,
+        267,
+        269,
+        271,
+        272
+      ],
+      "attribution": "",
+      "note": "AEGIS's genesis as a found log in Kap 21"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        337,
+        377,
+        383,
+        384
+      ],
+      "attribution": "",
+      "note": "Das Gödel-Gambit as Kap 30 and as the focus of Part III"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        120,
+        196,
+        232,
+        389,
+        395,
+        396
+      ],
+      "attribution": "",
+      "note": "The Guardians in the grid: labelled in Kap 9, 15 and 18, dissolved in Kap 31"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        46,
+        48,
+        51,
+        144,
+        147,
+        256,
+        304,
+        307,
+        473,
+        479,
+        480
+      ],
+      "attribution": "",
+      "note": "Juna in the matrix: a fleeting echo in Kap 3, a presence in Kap 11, 20, 24, and the bridge to her in Kap 38"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        27,
+        172,
+        347,
+        431,
+        443,
+        485,
+        487
+      ],
+      "attribution": "",
+      "note": "Kael across the grid, from the Erwachen-Zyklus in Kap 1 to the Mosaik-Herz in Kap 39"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        229,
+        232,
+        236
+      ],
+      "attribution": "",
+      "note": "Kairos in Kap 18"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        25,
+        121,
+        233,
+        393
+      ],
+      "attribution": "",
+      "note": "The worlds in the matrix's Ort fields: Kern-Welt 1 to 4, then KW1"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        71,
+        72,
+        75
+      ],
+      "attribution": "",
+      "note": "Kiko in Kap 5, recorded twice with two labels"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        25,
+        27
+      ],
+      "attribution": "",
+      "note": "Konstrukt-Stadt as the place of Kap 1"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        35,
+        59,
+        95,
+        99,
+        100,
+        187,
+        279
+      ],
+      "attribution": "",
+      "note": "Lex in Kap 2, 4, 7, 14 and 22"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        219,
+        220,
+        223
+      ],
+      "attribution": "",
+      "note": "Lia in Kap 17"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        36,
+        97,
+        392
+      ],
+      "attribution": "",
+      "note": "LogOS in Kap 2, 7 and 31"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        106,
+        117,
+        120,
+        135
+      ],
+      "attribution": "",
+      "note": "Mnemosyne in Kap 8–10"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        431,
+        485,
+        486
+      ],
+      "attribution": "",
+      "note": "Mosaik-Herz as the title of Kap 39 and what Kael injects in Kap 34"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        17,
+        371,
+        419
+      ],
+      "attribution": "",
+      "note": "Multiplizität: discovered in Part I, made functional in Kap 29, the defence in Kap 33"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        317,
+        319,
+        345,
+        381,
+        417
+      ],
+      "attribution": "",
+      "note": "Nexus in Kap 25, 27, 30 and 33"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        75,
+        77
+      ],
+      "attribution": "",
+      "note": "Nichts Rauschen in Kap 5"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        119,
+        123,
+        131,
+        295
+      ],
+      "attribution": "",
+      "note": "Nyx in Kap 9, 10 and 23"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        271
+      ],
+      "attribution": "",
+      "note": "Potentialmeer in Kap 21 as AEGIS's origin"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        108,
+        155
+      ],
+      "attribution": "",
+      "note": "Rhys in Kap 8 and 12"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        74,
+        111,
+        217
+      ],
+      "attribution": "",
+      "note": "Risse in Kap 5, 8 and 17"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "Sektor 04 as the place of Kap 1"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        353,
+        355,
+        359,
+        367
+      ],
+      "attribution": "",
+      "note": "Selene in Kap 28 as the integrated self or the healed host state"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        232,
+        242,
+        256
+      ],
+      "attribution": "",
+      "note": "Sophia in Kap 18–20"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        76,
+        160
+      ],
+      "attribution": "",
+      "note": "TSDP in Kap 5 and Kap 12"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        177,
+        181,
+        185
+      ],
+      "attribution": "",
+      "note": "Überwelt in Kap 14 and the focus of Part II"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C7"
+  ],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "algorithmische-melancholie",
+      "surface": "Algorithmische Melancholie",
+      "line": 437,
+      "decision": "reading",
+      "why": "Kap 35's title; read on algorithmische-melancholie"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 467,
+      "decision": "reading",
+      "why": "read on emergenz"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 28,
+      "decision": "occurrence",
+      "why": "Kap 1's narrative function, the cold of the Kohärenz (L28) — a sense of the word, not the page's"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 74,
+      "decision": "reading",
+      "why": "read on risse"
+    },
+    {
+      "page": "sektor-04",
+      "surface": "Sektor 04",
+      "line": 25,
+      "decision": "reading",
+      "why": "read on sektor-04"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

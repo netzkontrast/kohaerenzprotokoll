@@ -331,3 +331,35 @@ Where it stands in the record's own terms: a proposal, marked as such in the doc
 Kap 1: „ein Wort, das aus dem Nichts auftaucht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L21] and the table's „Name ohne Referent“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L137] Before Kap 7 the rule is „nur Wirkung, nie Ursache“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L148] then „ist sie ein Ereignis“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L148] In Kap 33 „Sie wird nicht beschrieben“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L314]
 
 Stands: the outline of 2026-05-01 takes no position on the first appearance as a record; it plans three stages.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report
+
+**The Synthese-Report gives Juna one appearance, in Kap 33/34, written by exclusion, as its `Lösung zu C.7`**
+
+„In Kapitel 33/34 betritt Juna den Raum, wird aber durch absolute Exklusions-Deskription geschrieben.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] The room reacts to „ein plötzliches gravitationsähnliches Zentrum“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] and „der Text benennt sie nie direkt“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93]
+
+Stands: one appearance in Kap 33/34, as the report proposes it; it names no later appearance.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline
+
+**The outline lets Juna be present from Kap 4, as an indirect touch, and enters her undescribed in Kap 33.**
+
+The blurb names her without a chapter: „eine stumme, paradoxe Präsenz namens Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L17] The first chapter block that carries her is Kap 4, where Kael receives „die erste indirekte Berührung durch Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L115] The Kap 4 concept line is „Moonshine-Link, Phantom-Resonanz, Juna.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L113] Kap 33 plans her entrance: „Dann betritt Juna den Raum. Sie wird nicht beschrieben.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L976]
+
+In the record's terms: the outline has no scene it calls her first direct appearance; it gives an indirect touch in Kap 4 and an undescribed entrance in Kap 33, and decides nothing.
+
+## 2026-10-05 — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint
+
+**The master blueprint plans Juna in Kap 1 as a hologram that flickers at a formal check-in.**
+
+Kap 1 casts „Juna (Hologramm)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L62] and plans „Während des formalen Check-ins mit dem Juna-Hologramm erlebt Kael eine unerklärliche Trauer-Intrusion“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L64] In Kap 9 the plan says that Kael now perceives her differently: „nimmt er Juna/V zum ersten Mal nicht als Hologramm, sondern als reale, externe Präsenz wahr“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L128]
+
+Stands as a plan that opens with Juna as a hologram in Kap 1; it is a plan of 2026-02-23, recorded, not applied.
+
+## 2026-10-05 — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix
+
+**The matrix plans Juna in Kap 3 as a fleeting echo, and physically in Kap 38.**
+
+Kap 3 is headed „Die Anomalie Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L46] and casts „Kael, Juna (als flüchtiges Hologramm/Echo).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L48] The beat is „Kael sieht Juna.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L51] She is cast again in Kap 11, 20 and 24. Kap 33, the chapter of the confrontation, casts „Kael, AEGIS.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L168] Kap 38 is titled „Die Brücke zu Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L473] and plans „Kael tritt aus dem System heraus (oder integriert es vollständig) und trifft Juna physisch.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L479]
+
+Stands as a plan of 2026-02-25 with Juna first in Kap 3 and physically in Kap 38, recorded, not applied.

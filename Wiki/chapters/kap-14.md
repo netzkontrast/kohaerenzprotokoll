@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,10 @@ Position: „AEGIS' Fragilität / Risse / Cache Kohärenz (Konflikt)“ ^[kohaer
 - Voice: third person on Kael; AEGIS' commands stand in capitals, and his inner Anteile speak in italics.
 - Close: „Der Bruch war geschehen. Die Realität seiner Situation war klar. Der Zyklus hatte begonnen.“ ^[kohaerenz-protokoll.md:L1588]
 
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — `Phase 1: Der Bruch`, the start of a cycle
+
+- Position: the synthesis cites the plot of Part 1 for a cyclic structure, „Phase 1: Der Bruch“ ^[system-kael-konzeptentwicklung-und-analyse.md:L211] in Kapitel 14, and reads it as the cycles of trauma healing — stability, confrontation, crisis, deeper integration — not a linear process. It says nothing else of the chapter.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -50,6 +54,40 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Punkte verbinden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L201]
 - Story: „Ausgelöst durch die Ereignisse von Teil 1“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
 - Story: „Etwas betreibt diesen Ort. Etwas Intelligentes.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202] · „Er gibt ihm einen Namen (oder erfährt seinen Namen): AEGIS.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Mnemosyne's Archipelago: In the Flow of Memories`
+
+Title: „Mnemosyne's Archipelago: In the Flow of Memories“ ^[ai-assisted-narrative-coherence.md:L1430] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the scene outline plans the scene at „2.1 - Mnemosyne-Archipel (KW2)“ ^[ai-assisted-narrative-coherence.md:L1434], POV „Kael (with Rhys prominent)“ ^[ai-assisted-narrative-coherence.md:L1435]
+
+- Story (goal): the scene outline plans „To deliberately navigate KW2 and confront a specific traumatic memory fragment“ ^[ai-assisted-narrative-coherence.md:L1436]
+- Story (beat): the scene outline plans „Kael is able to observe the memory without being consumed by it“ ^[ai-assisted-narrative-coherence.md:L1444]
+- Turn: `Outcome & Turn` has „Kael successfully breaks the loop and extracts a key piece of information from the memory.“ ^[ai-assisted-narrative-coherence.md:L1445]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — System initiation
+
+Title: „System-Initiation“ ^[romanstruktur-und-philosophische-einleitung.md:L142]
+Position: Teil II, „Das Entropie-Erkenntnis“ ^[romanstruktur-und-philosophische-einleitung.md:L142]
+
+- Story: „Der Auftakt zu Teil II ist ein intellektueller Schock“ ^[romanstruktur-und-philosophische-einleitung.md:L144]
+- Story: „Kael erkennt durch die Analyse von Datenströmen in der Überwelt“ ^[romanstruktur-und-philosophische-einleitung.md:L144] that entropy is a control element
+- Back-reference from Kap 17: „Er wendet die Erkenntnis aus Kapitel 14 gegen das System an“ ^[romanstruktur-und-philosophische-einleitung.md:L164]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Riss im Habitat
+
+Title: „Der Riss im Habitat“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L166]
+Position: Teil II; setting from the `Schauplatz` field: „Kaels desintegrierendes Apartment (KW1)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L168]
+
+- Cast: the `Charaktere/Linsen` field lists „AEGIS, Kael, Juna (Soziale Linse), Leser (Spiegel-Linse)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L169]
+- Story: the blueprint plans, in `Plot-Beats`, „Der Regelbruch aus Kapitel 13 führt zu extremen physischen Anomalien“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L171] and „Die Gravitation versagt lokal“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L171]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Eintritt in die Überwelt
+
+Title: „Eintritt in die Überwelt“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L181] — heading „Der Blick hinter die Kulissen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L182]
+Position: Teil II; POV from `Perspektive & Stimme`: „AEGIS (kaltes Log, das eine Störung registriert) & Kael“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L183]; place from `Ort`: „Die digitale Überwelt (zwischen den KWs)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L185]
+
+- Story: the matrix plans „Kael und Lex navigieren durch die rohen Datenströme von AEGIS. Sie erkennen das gigantische Ausmaß der Entropie-Verwaltung“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L187]
+- Question: „Wie sieht die Realität ohne den Filter der menschlichen Sinne aus?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L186]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -81,6 +119,15 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „AEGIS' Sicht auf den Stress-Test“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220]; „Das System wird zum ersten Mal unsicher“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220]
 - Encoding A: „OS · SP2 (Conceptualizing) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220]
 - Foreshadowing: „AEGIS' Asymmetrie-Hitze (Vortex-Vorbote)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — System Analysis
+
+Title: „System Analysis“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L405]
+Position: Akt II; POV: „POV: Lex.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L413]
+
+- Story: the outline plans „Er erkennt das Halteproblem als den zentralen Fluch von AEGIS“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L411]
+- Concepts: „Halteproblem, Hybrid-Architektur“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L409]
+- Pivot-Marker: „SF-A Success flackert zum ersten Mal überlegen auf“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L437]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

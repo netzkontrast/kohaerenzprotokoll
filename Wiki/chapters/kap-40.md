@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 11
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 13
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -21,6 +21,23 @@ novel follows is the author's call. All chapters side by side:
 Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
 
 Die Coda steht laut der Storyform-Outline außerhalb der Zählung der Heldenreise, ist laut strukturierter Outline und Kapitel-Kompendium das Ketsu und schließt die Genesis-Klammer, die das Kapitel-Kompendium die Außen-Klammer des Erzählers zum Anfang nennt; in Dramatica sind laut Kapitel-Kompendium und Storyform-Outline A-Outcome Success und B-Dividend zugleich wahr, die Doppel-Klammer Abhandlung akzentuiert Driver Decision und Approach Be-er, und die Spec kennt dieses Kapitel nicht. Sie erzählt dieselben Ereignisse wie die Genesis am Anfang des Romans, aber aus der Position der vollzogenen pluralen Heilung, mit Wir-AEGIS-plural als bezeugender, nicht handelnder Erzählstimme, deutlich kürzer als der Anfang und ruhig, akzeptierend. In Bewegungen, die die Genesis spiegeln, kehrt der Erzähler bezeugend zurück, Junas Resonanz wird als Geburt erkannt statt als Angriff, und der Schmerz des Trennungsprotokolls bleibt als Preis statt als Tragödie; die Erstfassung zeigt Kael als das Cluster, das aus Komponente 734 herausgetrennt wurde. Das letzte Bild ist laut Konzept-Iteration und konsolidiertem Konzept, dass Wir die Welt tragen, laut strukturierter Outline, Storyform-Outline und Doppel-Klammer Abhandlung, dass Wir die Scherben tragen, die das Mosaik sind, das die Welt hält, und die Erstfassung hat die Scherben und das Universum, das hält, ohne diesen Satz. Kapitel-Kompendium und Storyform-Outline verlangen, dass die Coda Reset und Transfiguration als Lesarten zulässt und keine bestätigt, laut der Plot-Konkretisierung kehrt der Klick genau einmal wieder, ohne Ozon, und laut Kernwelten vollständig wirft sie den Leser in die Genesis zurück, während der annotierte Entwurf fragt, ob sie sich ändern muss, wenn die Erzählstimme schon am Anfang wiederkehrt.
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Kapitel 40/0 as epilogue and prologue (Kap 40 and Kap 0 are one chapter)
+
+Title: „Der Ouroboros und das Trennungsprotokoll“ ^[romanstruktur-und-philosophische-einleitung.md:L284]
+Position: after Teil III, the „Der Kreis schließt sich“ ^[romanstruktur-und-philosophische-einleitung.md:L286]; the three-part analysis makes Kap 0 and Kap 40 one chapter, `Kapitel 40/0`.
+
+- Story: „Dieses Kapitel fungiert gleichzeitig als Epilog und als der Prolog, der dem Roman vorangestellt ist.“ ^[romanstruktur-und-philosophische-einleitung.md:L288]
+- Story: „wird nicht aus Bosheit aktiviert, sondern als physikalische Notwendigkeit“ ^[romanstruktur-und-philosophische-einleitung.md:L296] – the Trennungsprotokoll; then „Kael öffnet die Augen. Er steht in KW1.“ ^[romanstruktur-und-philosophische-einleitung.md:L306]
+- The introduction names it twice: „Dieser Bericht analysiert die“ ^[romanstruktur-und-philosophische-einleitung.md:L17] chapters „als eine geschlossene, rekursive Einheit“ ^[romanstruktur-und-philosophische-einleitung.md:L17], and „Am Ende steht die Synthese im“ ^[romanstruktur-und-philosophische-einleitung.md:L25] `Kapitel 40/0`.
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the coda Kapitel 40/0
+
+Title: „Kapitel 40/0: Die Ontologie der Null“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L380]
+Position: the coda `CODA: Die Rekursive Klammer`, after Teil III; the blueprint makes Kapitel 40 and Kapitel 0 one chapter, `Kapitel 40/0`, and gives it the one set of fields shown here; setting from the `Schauplatz` field: „Das absolute Nichts“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L382]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael (Meta-Perspektive)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L383]
+- Story: the blueprint plans, in `Plot-Beats`, „Der Moment nach dem Ende löst den Anfang aus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385] and „auf die Erinnerungen der Zukunft durch, um Kapitel 1 zu generieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

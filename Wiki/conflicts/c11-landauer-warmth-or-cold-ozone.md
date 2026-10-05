@@ -428,3 +428,55 @@ Where it stands in the record's own terms: warmth and ozone stand in one list he
 Kap 39: „der Geruch der heißen Reibung lebender Moleküle aneinander“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L338] Kap 35: „Landauer divergent“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L322]
 
 Stands: the outline writes both as plan and decides nothing.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report
+
+**The Synthese-Report directs one ozone smell in Kap 1 and Kap 39 with inverted meaning, cold at the start and hot at the end; it ties heat to AEGIS and cold to Juna.**
+
+Kap 1 (§4.5, the report's directive): „Der Ozon-Geruch steht für die absolute Isolation durch K1-Perfektion“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L138] and „ein Raum, in dem Atome auf Nullpunkt heruntergekühlt sind und Reibung (Interaktion) unmöglich ist“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L138] Kap 39: „Der Raum ist heiß und dicht.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L139] and „Der Ozon-Geruch resultiert nun aus der permanenten, unaufhebbaren“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L139]
+
+Heat and cold of the Landauer trace (§4.2): „Überall dort, wo AEGIS operiert, entsteht Hitze (Erasure = Entropie).“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L92] and „Überall dort, wo Junas Einfluss in Kaels System wirkt, entsteht“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L92] cold. Part 1.4 states as consensus that „Trauma-Erasure riecht nach Ozon“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L31]
+
+Stands: the report gives the ozone as cold in Kap 1 and hot in Kap 39 and places the Landauer heat with AEGIS and cold with Juna; it does not name the record's question for Kap 6, and nothing is decided here.
+
+## 2026-10-05 — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis
+
+**The synthesis states the Landauer principle and gives a digital heat as a conditional by-product of AEGIS's erasures; it gives no sensory warmth or cold.**
+
+The principle: „jeder logisch irreversible Vorgang“ ^[system-kael-konzeptentwicklung-und-analyse.md:L80] raises the thermodynamic entropy of the environment. Of AEGIS: if the physics of the Überwelt follows it, „erzeugt jede ordnende Handlung von AEGIS zwangsläufig eine Form von“ ^[system-kael-konzeptentwicklung-und-analyse.md:L82] waste entropy, written there as digital waste entropy or digital heat. Heat stands once, as „digitaler Wärme“ ^[system-kael-konzeptentwicklung-und-analyse.md:L82], and `Ozon` ^[system-kael-konzeptentwicklung-und-analyse.md:#0] stands nowhere; the synthesis does not place the heat in a chapter or a scene.
+
+Stands: the synthesis says heat only as the conditional digital waste heat of the [[ueberwelt|Überwelt]]'s substrate; it does not say warm or cold for a scene, and nothing is decided here.
+
+## 2026-10-05 — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline
+
+**The outline gives Juna's trace in KW1 as warmth.**
+
+In the logic world KW1 the outline has the Juna echoes appear „als unerklärliche, irrationale“ ^[roman-outline-system-kael.md:L39] warmth or as logical anomalies (L39) — warmth as Juna's trace, not AEGIS's. It says nothing of ozone or of the Landauer heat. One 2025 outline, restating `scifi-roman-mit-ki-schreiben`, whose Table 2 gives the same cell; recorded, nothing decided.
+
+In the record's terms it places warmth with Juna, not with AEGIS's erasure, and decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline
+
+**The outline gives the Ouroboros marker, ozone and heat, a meaning in Kap 1 and a changed one in Kap 39.**
+
+Kap 1: „Die absolute Kälte und der beißende Geruch von Ozon symbolisieren hier Kaels radikale Isolation“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L51] The foreshadowing of that chapter names the heat: „Foreshadowing für Landauer-Hitze“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L33] Kap 35 has the heat come with burning ozone: „die Atmosphäre füllt sich mit brennendem Ozon“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1041] The marker block of Kap 39: „sind exakt diese Phänomene das Produkt der unaufhebbaren, heißen Reibung der Moleküle aneinander“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1200] The run's reflection in Anhang D: „Den Ouroboros-Marker (Ozon/Hitze) schon ab dem Entwurf von Kapitel 1 aggressiver mit der DKT-Physik verknüpfen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1372]
+
+In the record's terms: the outline writes the ozone as cold in Kap 1 and as the product of hot friction in Kap 39, in the same marker, and decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction
+
+**The reconstruction puts the Landauer heat on the side of repression, and Juna's manifestation in thermal cracks.**
+
+Physikgesetze, Landauer-Prinzip: „Das bewusste Löschen von Informationen (psychologische Verdrängung) generiert immense Hitze“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L176], which splits KW1 as thermische Risse. HC-09 sets Juna's existence as manifest through „Gravitation, thermische Risse, Sehnsucht“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L151].
+
+Stands on the heat side, in an audit dated 2026-03-26; recorded, not applied.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The registry states the Landauer principle as waste heat burning [[risse|Risse]] into the simulation, without a sensory colour.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+P-02 (five stars, `Landauer-Prinzip / Risse`): „Die thermodynamische Regel: Informationslöschung (mentale Verdrängung) erzeugt physikalische Abwärme; psychologische Konflikte brennen Risse in die Simulation.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L92]
+
+It stands as a statement of heat (Abwärme), without saying warmth or cold in the narrative; the record's rows are not changed.

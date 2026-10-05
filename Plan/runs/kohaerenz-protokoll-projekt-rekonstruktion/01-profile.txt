@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-projekt-rekonstruktion
+  lines                328  (frontmatter ends at 0)
+  body words           4889
+  headings             26   bold-only lines 5
+  table rows           54   code fences 0
+  question marks       20
+  backslash escapes    79
+  typographic marks    89   ascii quotes 36
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    19
+  repeated labels      AI-Partner x5, Datum x5, Entscheidungen (Ja) x5, Kernthemen x5, Status x5
+  longest line         1106 chars
+

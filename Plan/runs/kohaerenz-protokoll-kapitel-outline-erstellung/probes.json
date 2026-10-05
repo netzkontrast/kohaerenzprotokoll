@@ -1,0 +1,270 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-outline-erstellung",
+  "drive_id": "19lTlPLBdBX9K3HPGUUbjKotNY48pw6xsRoBy9JD79CQ",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 165,
+  "backslash_escapes": 21,
+  "typographic_marks": 249,
+  "ascii_quotes": 172,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systematik",
+      "Systemdokument",
+      "Systemdruck",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemherausforderung",
+      "Systeminterferenz",
+      "Systemkern",
+      "Systempanik",
+      "Systemprotokoll",
+      "Systemprotokolle",
+      "Systems"
+    ],
+    "daten": [
+      "Daten",
+      "Datenabruf",
+      "Datenarchitektur",
+      "Datenbestand",
+      "Datenlogik",
+      "Datensatz",
+      "Datenstrom"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentation",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierung",
+      "Fragmentierungsnacht",
+      "Fragments"
+    ],
+    "lösch": [
+      "Lösch",
+      "Löschprozess",
+      "Löschroutinen",
+      "Löschung",
+      "Löschungen",
+      "Löschvorgang",
+      "Löschvorgänge"
+    ],
+    "archi": [
+      "Archipel",
+      "Archipelago",
+      "Archipels",
+      "Architektur",
+      "Architekturanker",
+      "Archiv"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstandes",
+      "Verstehen",
+      "Verständnis",
+      "Verständnisses"
+    ],
+    "überl": [
+      "Überladung",
+      "Überlagerung",
+      "Überleben",
+      "Überlebens",
+      "Überlebensmechanismen"
+    ],
+    "algor": [
+      "Algorithmic",
+      "Algorithmische",
+      "Algorithmischer",
+      "Algorithmus"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entschleunigung",
+      "Entschlossener",
+      "Entschluss"
+    ],
+    "fluch": [
+      "Fluch",
+      "Flucht",
+      "Fluchtroute",
+      "Fluchtzeit"
+    ],
+    "hitze": [
+      "Hitze",
+      "Hitzeentladung",
+      "Hitzewelle",
+      "Hitzewellen"
+    ],
+    "integ": [
+      "Integration",
+      "Integrierte",
+      "Integrierter",
+      "Integrity"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interdisciplinary",
+      "Interface",
+      "Interner"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollgatter",
+      "Kontrollzyklen"
+    ],
+    "konze": [
+      "Konzentration",
+      "Konzept",
+      "Konzepte",
+      "Konzepten"
+    ],
+    "logik": [
+      "Logik",
+      "Logikfehlern",
+      "Logikfestung",
+      "Logikgatter"
+    ],
+    "masch": [
+      "Maschine",
+      "Maschinell",
+      "Maschinenkrieg",
+      "Maschinenlogik"
+    ],
+    "mecha": [
+      "Mechanik",
+      "Mechanischer",
+      "Mechanismen",
+      "Mechanismus"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxie",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "phäno": [
+      "Phänomenalen",
+      "Phänomenales",
+      "Phänomene",
+      "Phänomenologie"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonant",
+      "Resonanz",
+      "Resonanzlandschaft"
+    ],
+    "roman": [
+      "Roman",
+      "Romanprojekt",
+      "Romans",
+      "Romanstruktur"
+    ],
+    "schwe": [
+      "Schweigen",
+      "Schwelle",
+      "Schwer",
+      "Schwerelose"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbetrug",
+      "Selbstisolation",
+      "Selbstmodell"
+    ],
+    "speic": [
+      "Speicher",
+      "Speicherkerns",
+      "Speichern",
+      "Speichers"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Alte",
+      "Alter"
+    ],
+    [
+      "Alte",
+      "Alters"
+    ],
+    [
+      "Alte",
+      "Inhalte"
+    ],
+    [
+      "Alte",
+      "Gestalter"
+    ],
+    [
+      "Alte",
+      "Verhalten"
+    ],
+    [
+      "Alte",
+      "Halteproblem"
+    ],
+    [
+      "Atem",
+      "Atemlosigkeit"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dual",
+      "Dualismus"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Reine"
+    ],
+    [
+      "Ende",
+      "Endes"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Eskalierendes"
+    ],
+    [
+      "Ende",
+      "Kaskadierende"
+    ]
+  ]
+}

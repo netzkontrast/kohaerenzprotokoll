@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,39 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Verwirrung, Lähmung oder erratischen Verhaltens“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
 - Story: „Kael nutzt dieses Fenster der Störung, um ein spezifisches Ziel zu erreichen (Flucht, Informationszugriff usw.).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Splintering of the Guardians: A System Fractures`
+
+Title: „The Splintering of the Guardians: A System Fractures“ ^[ai-assisted-narrative-coherence.md:L1532] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the chapter has no scene fields in the outline; its prose says „A Guardian is ordered to perform an action it calculates will lead to catastrophic system instability.“ ^[ai-assisted-narrative-coherence.md:L1534]
+
+- Story (beat): the scene outline plans „This chapter shifts perspective to show the consequences of AEGIS's actions on its own agents.“ ^[ai-assisted-narrative-coherence.md:L1534]
+- Story (beat): the scene outline plans „It experiences a logical conflict between its orders and its function to preserve the system.“ ^[ai-assisted-narrative-coherence.md:L1534]
+- Turn: the scene outline plans „This shows the first cracks in AEGIS's monolithic control.“ ^[ai-assisted-narrative-coherence.md:L1534]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The world as wound
+
+Title: „Spiegel des Traumas“ ^[romanstruktur-und-philosophische-einleitung.md:L190]
+Position: Teil II, „Die Welt als Wunde“ ^[romanstruktur-und-philosophische-einleitung.md:L190]
+
+- Story: „offenbaren sich endgültig als symbolische Darstellungen von Kaels verdrängten Erinnerungen“ ^[romanstruktur-und-philosophische-einleitung.md:L192]
+- Story: „Der Kampf verlagert sich von Waffen auf Bedeutung.“ ^[romanstruktur-und-philosophische-einleitung.md:L194]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Junas Opfer-Mythos
+
+Title: „Junas Opfer-Mythos“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L230]
+Position: Teil II; setting from the `Schauplatz` field: „Die ontologische Grenze (Epsilon-Null) zum Potentialmeer“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L232]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L233]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael erreicht den absoluten Rand der Simulation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235] and „AEGIS hat keinen inhärenten Sinn, es existiert rein apophatisch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das Paradoxon X
+
+Title: „Das Paradoxon X“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L277] — heading „Die Erkenntnis des Fehlers“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L278]
+Position: Teil II; POV from `Perspektive & Stimme`: „Lex (triumphiert) & Argus (beobachtend)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L279]; place from `Ort`: „Der Innere Rat“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L281]
+
+- Story: the matrix plans „AEGIS erzeugt durch seine Kontrollwut erst die Entropie, die es bekämpft“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L283]
+- Question: „Wie besiegt man ein unfehlbares System?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L282]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Die Planck-Barriere durchbrochen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L101]
@@ -78,6 +111,14 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Das System hat den Cache-Lag erkannt und exploitiert ihn“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L258]; „Mnemosyne, gegen Direktive, beginnt zu archivieren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L258]
 - Encoding A: „RS · SP3 (Obtaining) · Falsehood-vs-Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L258]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Logic of the Guardians
+
+Title: „The Logic of the Guardians“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L641]
+Position: Akt II; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L649]
+
+- Story: the outline plans „Schwer verletzt hinterfragt Kael die Kohärenz von AEGIS und nutzt die Erkenntnisse aus dem Dossier (Kapitel 14), um die interne Spaltung der KI anzustacheln: LogOS (der Lösch-Pol) prallt operativ auf Mnemosyne (den Speicher-Pol).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L647]
+- Concepts: „LogOS vs. Mnemosyne, Bekenstein-Schranke, Pixelierung“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L645]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

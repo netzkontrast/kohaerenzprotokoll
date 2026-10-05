@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 28
-readings: 28
+sources: 36
+readings: 36
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-24"
 ---
 
@@ -12,12 +12,48 @@ gathered: "2026-09-24"
 
 One of the thirteen [[alters|Alters]] — Sonder-Kategorie, „Meta-Kognitiv" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L500].
 
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the border warden at an unstable Threshold Zone in Kap 4–6
+
+For the chapter assessment the report writes, of Kap 4–6 and the plot document's draft (reference 1 follows the sentence), Kael's flight from AEGIS units and „die Konfrontation mit dem Grenzwärter Argus an einer instabilen“ ^[scifi-roman-mit-ki-schreiben.md:L220] Threshold Zone, which it reads as the crossing of the first threshold of a hero's journey. The report's own advice later places `Argus` among threshold figures; Table 3 and Table 4 are the plot document's, reproduced, and name `Argus` in chapter 5 (L259, L278).
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — a metacognitive part, core phobia imperfection
+
+Among the `Sonderformen/Integrierende Anteile` the roster (reference 1, glued `1`) lists Argus as `Beobachter`: „Ein metakognitiver Anteil, der das System kritisch analysiert“ ^[system-kael-konzeptentwicklung-und-analyse.md:L132] with the core phobia „die Imperfektion und das Machen von Fehlern“ ^[system-kael-konzeptentwicklung-und-analyse.md:L132]
+
+## Reading — `outline`, 2025-07-30, the outline — Argus as an example Wächter (Kap 10) and as an EP (Teil 2)
+
+Two places, recorded side by side and not reconciled. In Kap 10 Kael „trifft auf einen Wächter (z.B. Argus), der als Torhüter fungiert“ ^[outline.md:L71] (L71): the name is an example, and the Fokus line of the chapter speaks of the „Wächter als personalisierte konzeptionelle Herausforderungen“ ^[outline.md:L72] (L72). In Teil 2 the same name stands in the list of Kael's Anteile: „Kaels Anteile (ANPs wie Lex, Rhys, Alex und EPs wie Nyx, Kiko, Moros, Isabelle, Lia, Argus) entwickeln ihre Kooperation weiter“ ^[outline.md:L116] (L116), where it closes the list of EPs.
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline and the architecture analysis of the English compilation — Argus as the observer and the one who times the breach
+
+Argus appears in the scene outline (L1273 on) and in the architecture analysis (L1671 on), not in the earlier alter tables. In the outline's Act I scene in Dr. Thorne's office (Chapter 8), after the therapy session, the beat reads: „(the observer) remains suspicious.“ ^[ai-assisted-narrative-coherence.md:L1383] In Act III the breach of the firewall is divided among the alters, and the outline gives Argus the timing: „identifies the precise timing of the opening, and Kael (Host) executes the breach.“ ^[ai-assisted-narrative-coherence.md:L1598]
+
+The architecture analysis gives the row „The meta-observer; provides self-reflexive analysis of the system's internal dynamics and AEGIS's failures.“ ^[ai-assisted-narrative-coherence.md:L1764] and, in its summary of Part 2, names two rational alters: „Kael's rational alters, Lex and Argus, analyze the recurring patterns“ ^[ai-assisted-narrative-coherence.md:L1802].
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Argus as the observing voice of Kap 22
+
+Kap 22 plans the perspective „Lex (triumphiert) & Argus (beobachtend).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L279] and the beat „Lex und Argus analysieren den Log-File.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L283]
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — the observer, Archivar der Narben; Silas's role transferred to him
+
+The seventh primary alter is „Der Beobachter (Argus / ANP)“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L86]; the line adds that he is described as „Archivar der Narben“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L86]. On Silas, section 2.3 says the role of the internal skeptic and boundary-keeper „wurde formal auf die Figur“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L78] Argus transferred, and the decision log (Synthese 2026-03-26, Auflösung Silas/Argus) says Silas's skeptic characteristics were taken over by Argus, the `Archivar der Narben`.
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Argus as critic in F-04 and as the target of Silas's role in conflict C-003
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row F-04: „Das System Kael besteht aus Lex (Logik), Nyx (Kampf), Kiko (Freeze), Alex (Schutz), Rhys (Pflege), Selene (Integration), Argus (Kritiker), Lia, Isabelle und Moros.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L69] In C-003 the report quotes Doc 44 as „Die Rolle des internen Skeptikers und Grenzwärters von der ehemals definierten Figur“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L24] having been formally transferred to Argus; the report's `Kern-Konflikt` cell says: „Es herrscht Unklarheit darüber, in welchem kanonischen Alter der dekanonisierte Silas tatsächlich aufgegangen ist (Rhys vs. Argus).“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L24]
+
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Argus in Appendix B, a Sonderform
 Appendix B sets Argus apart from the ANPs and EPs under `Sonderform`: „Meta-Kognitiv. Somatik: offen.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L658] The arc is towards constructive criticism (L658).
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — fortress walls first, Argus later
 
 The outline of 2026-05-01 gives the timeline's first covert trace of Argus as „Festungswände“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L120], in Kap 9, and the first named appearance in Kap 14. Kap 9 writes them without the name: „Argus-artige Festungswände schließen sich hinter ihm“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L192] while Kael runs. In Kap 33, „Argus übt nicht mehr Festung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L310] — he practises critique.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the Wächter-Alter of Core World 3, planned for Kap 9
+
+For Kap 9 the dual-storyform outline plans: „Der Wächter-Alter Argus aktiviert strenge interne Grenzkontrollen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L261] Its Pacing line for that chapter gives the reader-side effect: „welche Daten Argus aktiv aus dem Bewusstsein filtert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L265] The POV of Kap 9 is `Argus` (L263).
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -155,3 +191,7 @@ Kapitel 9, against AEGIS' PMAS protocol: „Argus, die metakognitive Instanz, pu
 An English file of about fourteen reports of 2025. Argus stands in the Blueprint's and the Assessment's eleven-alter tables and not in the eight-alter tables of the Guide, the Framework or `An Architecture of the Self` (see [[alters]]). The Blueprint: „Argus | ANP/EP (Observer) - A detached, meta-cognitive critic observing the system itself." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L853] „Motivation: Understand the system to prevent errors." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L853] „Fear: Imperfection, repeating mistakes." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L853] „His critical observations can be helpful to Lex but grating to Kael and Rhys. He is deeply skeptical of the integration process, seeing it as another potential source of error." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L853]
 
 The Assessment's table gives him a hybrid, emerging classification: „Argus | Entst. ANP/EP (Meta-Kognitiv) | Internes Korrektiv, Meta-Perspektive | Fehler, Imperfektion, Emotionale Instabilität, Kontrollverlust (indirekt)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1622]
+
+## Where the sources differ
+
+- `outline`: Argus appears as an example Wächter at a threshold (Kap 10, „z.B. Argus“ ^[outline.md:L71]) and, elsewhere, among the EPs of Kael's Anteile (L116); the outline does not say whether these are one figure.

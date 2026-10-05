@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,40 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Vielleicht während der in Kapitel 22 verursachten Störung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319] · „das Rendering eines bestimmten Bereichs oder Objekts kurzzeitig zu 'brechen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
 - Story: „Drahtgittermodelle, sich wiederholende Texturkacheln, Codezeilen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Curse of Knowledge: AEGIS's Reaction to Kael's Progress`
+
+Title: „The Curse of Knowledge: AEGIS's Reaction to Kael's Progress“ ^[ai-assisted-narrative-coherence.md:L1535] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: scene 2.6 at „2.6 - A simulated "safe space" within KW1“ ^[ai-assisted-narrative-coherence.md:L1539], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1540]
+
+- Story (goal): the scene outline plans „To weather AEGIS's direct psychological attack and maintain internal stability.“ ^[ai-assisted-narrative-coherence.md:L1541]
+- Story (beat): the scene outline plans „Isabelle's actions successfully disrupt AEGIS's logical attack script, but at the cost of terrifying other parts of the system.“ ^[ai-assisted-narrative-coherence.md:L1549]
+- Turn: `Outcome & Turn` has „The system survives the attack but is left shaken and aware of the full depth of its trauma.“ ^[ai-assisted-narrative-coherence.md:L1551]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The glitch as freedom
+
+Title: „Der Glitch als Freiheit“ ^[romanstruktur-und-philosophische-einleitung.md:L196]
+Position: Teil II, „Systemfehler nutzen“ ^[romanstruktur-und-philosophische-einleitung.md:L196]
+
+- Story: „wird nun zum mächtigsten Werkzeug“ ^[romanstruktur-und-philosophische-einleitung.md:L198]
+- Story: „Seine fragmentierte, nicht-lineare Natur macht ihn unberechenbar für die linearen Vorhersagealgorithmen von AEGIS.“ ^[romanstruktur-und-philosophische-einleitung.md:L198]
+- the same paragraph looks back to Kap 1: „der in Kapitel 1 noch Angst und Zweifel auslöste“ ^[romanstruktur-und-philosophische-einleitung.md:L198]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Kognitive Dissonanz
+
+Title: „Kognitive Dissonanz“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L238]
+Position: Teil II; setting from the `Schauplatz` field: „AEGIS-Verteidigungsnetzwerk“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L240]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L241]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael entwickelt ein Meta-Bewusstsein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L243] and „als ein fragiles, verzweifeltes Konstrukt, das an seinem eigenen Unvollständigkeitssatz scheitert“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L243]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Resonanzkaskade
+
+Title: „Die Resonanzkaskade“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L289] — heading „Der Ausbruch“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L290]
+Position: Teil II; POV from `Perspektive & Stimme`: „Nyx & Kael (schnelle Wechsel)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L291]; place from `Ort`: „Zusammenstürzende Übergangszone“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L293]
+
+- Story: the matrix plans „AEGIS initiiert ein hartes Purge-Protokoll, um Kael zu löschen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L295]
+- Question: „Was passiert, wenn man aufhört, gegen sich selbst zu kämpfen?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L294]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Symmetriebruch und der Zorn des Nyx“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103]
@@ -77,6 +111,14 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „Sie müssen nur *koordiniert widersprüchlich* handeln“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L262]; „Das war ein erfolgreicher Coup unter Lebenden, die noch nicht einig sind“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L262]
 - Encoding A: „MC · SP3 (Conscious) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L262]
 - Change 4 of the revision puts Kap 23 as „*taktische* Polyphonie (Wir-als-Werkzeug, nicht als Zustand)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L22]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Polyphonic Voice
+
+Title: „The Polyphonic Voice“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L669]
+Position: Akt II; POV: „POV: Integrierte, polyphone Stimme (Wir).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L677]
+
+- Story: the outline plans „Unter dem vernichtenden Druck der Pixelierung verschmelzen die Fragmente.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L675]
+- Concepts: „Ko-Konstanz, Wir-Geflecht, Polyphonie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L673]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,0 +1,95 @@
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count Plot-Beats
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Plot-Beats` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#40]
+
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count Schauplatz
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Schauplatz` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#40]
+
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count Charaktere/Linsen
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Charaktere/Linsen` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#40]
+
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count Pacing & Atmosphäre
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Pacing & Atmosphäre` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#40]
+
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count Quellen
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            40
+
+`Quellen` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#39]
+
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count Kontrollinstanz
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kontrollinstanz` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#0]
+
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count KW
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            19
+
+`KW` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#0]
+
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count Gödelsche Decke
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gödelsche Decke` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#2]
+
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count LogOS
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`LogOS` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#7]
+
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count Dialetheismus
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dialetheismus` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-plot-entwicklung-mit-kohaerenzprotokoll --count Retrieval-Augmented Generation
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Retrieval-Augmented Generation` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#1]
+
+$ grep -c "Quellen:\*\*\s*$" (empty Quellen fields)
+26
+$ grep -c "Quellen:\*\* *[0-9]" (filled)
+13
+$ stance sum 40+40+40+40+39 = 199
+$ grep -c "drive.google.com"
+15
+$ question marks: grep -n "?" lines
+392 398 400 401 405 410 411 412 414 415 416 419 420 421 422 423 424 425 
+18
+$ references L396..L425 =  30
+$ profile body words / glued numbers
+  body words           4194
+  glued ref numbers    64
+$ candidates: grep -c "^- " 03-candidates.md
+127
+$ manual: candidates with "Dr. ", "d. ", "vs. " or ordinal: none on the list (Dr. Aris Thorne listed as Aris Thorne and Thorne)
+39

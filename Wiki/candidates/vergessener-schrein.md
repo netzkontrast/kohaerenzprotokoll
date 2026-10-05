@@ -1,10 +1,10 @@
 ---
 term: Vergessener Schrein
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline"]
 aliases: ["Vergessener Schrein (Trauma-Lokus)", "Trauma-Lokus"]
 gathered: "2026-09-17"
 ---
@@ -40,6 +40,10 @@ spiegelt die dissoziierte Natur der Erinnerung wider." ^[roman-lokalitaeten-konz
 
 That sentence is hedged (`vielleicht`) and is the only per-level account of what
 a Riss looks like anywhere read so far. See [[risse]].
+
+## Reading — `outline`, 2025-07-30, the outline — a Trauma-Lokus in KW2 returned to in Kap 30
+
+The outline's Kap 30 plans: „Kael kehrt zu einem entscheidenden Trauma-Lokus in“ ^[outline.md:L187] `KW2` and confronts a central traumatic memory (L187); the chapter is titled with an `Echo-Lokus` (L186). The line does not call it a shrine; whether it is the page's forgotten shrine is not stated.
 
 ## Open
 

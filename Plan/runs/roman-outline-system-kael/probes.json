@@ -1,0 +1,257 @@
+{
+  "document": "roman-outline-system-kael",
+  "drive_id": "1g9GmHtugee33U-ema8l5S9XviEfRDDH0msae_J6WMi8",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 30,
+  "backslash_escapes": 144,
+  "typographic_marks": 87,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemausfälle",
+      "Systemblockade",
+      "Systemdynamiken",
+      "Systemfehler",
+      "Systemic",
+      "Systemintegrität",
+      "Systemkonformität",
+      "Systemlogik",
+      "Systemprotokolle",
+      "Systems",
+      "Systemweite",
+      "Systemzustand"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfiguren",
+      "Erinnerungsfragmenten",
+      "Erinnerungskorruption",
+      "Erinnerungslandschaft",
+      "Erinnerungsresonanz"
+    ],
+    "siche": [
+      "Sicherer",
+      "Sicherheit",
+      "Sicherheitsbedürfnis",
+      "Sicherheitslücken",
+      "Sicherheitsvorkehrungen",
+      "Sicherheitswächter",
+      "Sicherstellung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbank",
+      "Datenkorruption",
+      "Datenriss",
+      "Datenstrukturen",
+      "Datenströme"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrhaltung",
+      "Abwehrmaßnahmen",
+      "Abwehrmechanismen",
+      "Abwehrreaktionen"
+    ],
+    "archi": [
+      "Architekt",
+      "Architektur",
+      "Archiv",
+      "Archivar",
+      "Archive"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollfassade",
+      "Kontrollgleichgewichts",
+      "Kontrollierte",
+      "Kontrollverlust"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterdynamiken",
+      "Charakterentwicklung",
+      "Charakterinteraktionen"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionalen",
+      "Emotionen"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzfeste",
+      "Grenzwärter"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsentscheidungen",
+      "Handlungsmöglichkeiten"
+    ],
+    "hoffn": [
+      "Hoffnung",
+      "Hoffnungslosigkeit",
+      "Hoffnungsschimmer",
+      "Hoffnungsvoll"
+    ],
+    "spieg": [
+      "Spiegel",
+      "Spiegelbild",
+      "Spiegelscherben",
+      "Spiegelt"
+    ],
+    "zusam": [
+      "Zusammenarbeit",
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenfassung"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwachungsanlagen",
+      "Überwelt",
+      "Überwältigung"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationssuche"
+    ],
+    "inner": [
+      "Innere",
+      "Inneren",
+      "Innerer"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsmatrix",
+      "Integrationsprozess"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interner"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapiteln",
+      "Kapitulation"
+    ],
+    "konta": [
+      "Kontakt",
+      "Kontaminant",
+      "Kontamination"
+    ],
+    "misst": [
+      "Misstrauen",
+      "Misstrauens",
+      "Misstraut"
+    ],
+    "poten": [
+      "Potenzial",
+      "Potenzials",
+      "Potenzielle"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological",
+      "Psychologische"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anya",
+      "Anyas"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Ende",
+      "Legende"
+    ],
+    [
+      "Ende",
+      "Fehlende"
+    ],
+    [
+      "Ende",
+      "Entscheidende"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationssuche"
+    ],
+    [
+      "Form",
+      "Systemkonformität"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kerndaten"
+    ],
+    [
+      "Kern",
+      "Kernphobie"
+    ],
+    [
+      "Kern",
+      "Kernsymbol"
+    ],
+    [
+      "Kern",
+      "Kernphobien"
+    ],
+    [
+      "Kind",
+      "Schattenkind"
+    ],
+    [
+      "Kind",
+      "Schattenkindes"
+    ],
+    [
+      "Orte",
+      "Orten"
+    ],
+    [
+      "Orte",
+      "Ortes"
+    ]
+  ]
+}
