@@ -132,3 +132,11 @@ Stands as the report's own reading and open question about the link's kind; it n
 Appendix C.2 (OFFEN): „Wer kann den Link spüren, wer nicht?“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L699] Clear in the document are Kael yes and AEGIS no; open are other alters, other humans, and the reach. The Empfehlung, a recommendation: „Empfehlung: Silas spürt ihn als Erster, andere Alter im Verlauf von Akt II.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L709]
 
 Where it stands in the record's own terms: open in the document, with a recommendation.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 names the Moonshine-Link once, in Kap 36.**
+
+„Der Moonshine-Link ist diese Form“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L326]
+
+Stands: one line, no boundary drawn.
