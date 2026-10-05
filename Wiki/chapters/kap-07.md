@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -66,6 +66,14 @@ Position: Teil I, „Erwachen zur Leere“ ^[romanstruktur-und-philosophische-ei
 
 - Story: „Dieses Kapitel stellt den dramatischen Tiefpunkt der ersten Hälfte dar“ ^[romanstruktur-und-philosophische-einleitung.md:L79]
 - Story: „Es ist der spirituelle Tod, der der Wiedergeburt vorausgehen muss.“ ^[romanstruktur-und-philosophische-einleitung.md:L81]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das Gefängnis der Sicherheit
+
+Title: „Das Gefängnis der Sicherheit“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L107]
+Position: Teil I; setting from the `Schauplatz` field: „Innerer Bunker im Cerberus-Labyrinth (KW3)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L109]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Cerberus, Nyx, Juna (Signatur)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L110]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael erkennt, dass AEGIS seine Isolations-Phobie nutzt, um ihn zu kontrollieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L112] and „Der Bunker ist Zuflucht und Gefängnis zugleich“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L112]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
