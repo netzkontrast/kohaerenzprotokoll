@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 33
-readings: 33
+sources: 34
+readings: 34
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-24"
 ---
 
@@ -19,6 +19,10 @@ The report gives the pair „Alex (Beschützer) & Rhys (Pfleger)“ ^[scifi-roma
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the caring ANP, core phobia unhealable pain
 
 In the roster (glued `1`) Rhys (Fürsorger) is „Ein empathischer Anteil, der nach Harmonie und Verbindung strebt“ ^[system-kael-konzeptentwicklung-und-analyse.md:L111] and his core phobia is „die Konfrontation mit unheilbarem Schmerz“ ^[system-kael-konzeptentwicklung-und-analyse.md:L111]
+
+## Reading — `outline`, 2025-07-30, the outline — Rhys as the caretaker ANP, mediator of co-presence
+
+The outline plans Rhys as „der Pfleger-ANP“ ^[outline.md:L42] (L42, Kap 5), who steps forward to keep inner harmony. In Kap 10 the moments of rudimentary co-consciousness are „oft vermittelt durch Rhys“ ^[outline.md:L72] (L72), and in Kap 12 two Anteile, „z.B. Lex und Rhys“ ^[outline.md:L82] (L82), are named as an example for a state of co-consciousness. Rhys is one of the ANPs of L116 (list quoted under [[alex]] and the other pages of that list), and in Kap 30 Kael is supported by integrated Anteile, „insbesondere Echo, Rhys“ ^[outline.md:L187] (L187).
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the blueprint, the narrative distillation, the scene outline and the architecture analysis of the English compilation — Rhys as the caregiver and mediator, an ANP
 
