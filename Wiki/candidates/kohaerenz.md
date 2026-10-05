@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid"]
 gathered: "2026-09-17"
 ---
 
@@ -32,6 +32,10 @@ And the quantity it is measured by:
 
 The word occurs in both earlier sources — once in one, forty-eight times in the
 other — and neither defined it. A term can be everywhere and mean nothing yet.
+
+## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Kohärenz as AEGIS's code, and its defence as a paradox
+
+The Textanalyse, a commentary on one narrative, reads Kohärenz through Luhmann's idea that each social system has a binary code. **The Textanalyse reads:** „Der binäre Code von AEGIS ist“ ^[textanalyse-existenz-system-und-leid.md:L140] Sein/Nicht-Sein, or technically Kohärenz/Inkohärenz. **The narrative, as the Textanalyse quotes it:** AEGIS „war darauf programmiert, seine interne Struktur, seine definierte Kohärenz, um jeden Preis zu erhalten“ ^[textanalyse-existenz-system-und-leid.md:L142]. What furthers coherence is positive in the system's terms, what disturbs it is marked negative: „Alles, was die interne Kohärenz fördert, ist“ ^[textanalyse-existenz-system-und-leid.md:L144]. The commentary's name for the fatal reaction is „Paradoxon der Fehlausgerichteten Kohärenz“ ^[textanalyse-existenz-system-und-leid.md:L228]: to save its coherence AEGIS must eliminate what may be the only link to the outside, the feeling subject. In the conclusion the code is „Erhalte Kohärenz / Vermeide Nicht-Sein“ ^[textanalyse-existenz-system-und-leid.md:L306], and the commentary's implicit alternative is an existence that „die Kohärenz riskiert, um lebendig zu bleiben“ ^[textanalyse-existenz-system-und-leid.md:L310]. The protocol's name `Kohärenz Protokoll 1.0` belongs to the protocol, not to this term.
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — Kohärenz-Wahrheit against Korrespondenz
 
