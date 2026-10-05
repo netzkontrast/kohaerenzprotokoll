@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen"]
 gathered: "2026-09-16"
 ---
 
@@ -66,6 +66,10 @@ The critical review (L652 on) lists among the novel's strengths „Offers a resp
 ## Reading — `hard-sci-fi-cosmic-horror-research-questions`, 2026-01-02, the Cosmic-Horror research report — DID as reported from an analysed Plotanalyse
 
 This is a report of another document (its reference 87, the analysed Plotanalyse). The report says that document uses Internal Family Systems for „The structure of Kael's fragmented mind (DID)“ ^[hard-sci-fi-cosmic-horror-research-questions.md:L199], and that the fragmentation (DID) of Kael's psyche results from AEGIS's attempts to force M into a reductionist box (L205).
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — DIS/DID as the condition behind the main figure
+
+The Leitfragen report names the clinical picture once, in its opening: because the main figure Kael and „Dissoziativen Identitätsstörung (DIS/DID)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L17] have „einen tiefen, persönlichen Hintergrund“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L17], the report says it treats the psychological coherence with the highest analytical precision and sensitivity. The line states the background; it gives no content to it.
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Compositional Anomaly as AEGIS's first term
 
