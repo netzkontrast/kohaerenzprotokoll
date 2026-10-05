@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -68,6 +68,14 @@ Position: Teil I, „Funktionale Multiplizität“ ^[romanstruktur-und-philosoph
 - Story: „Das Ziel von Teil I ist erreicht“ ^[romanstruktur-und-philosophische-einleitung.md:L109]
 - Story: „Kael erreicht den Zustand der“ ^[romanstruktur-und-philosophische-einleitung.md:L111] functional multiplicity; „Die Amnesiebarrieren werden durchlässig.“ ^[romanstruktur-und-philosophische-einleitung.md:L111]
 - Table 1 (Teil I) on Selene: „Emergiert als führende Kraft der Integration in Kap. 12.“ ^[romanstruktur-und-philosophische-einleitung.md:L130]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Paradoxie der Fürsorge
+
+Title: „Die Paradoxie der Fürsorge“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L147]
+Position: Teil I; setting from the `Schauplatz` field: „Logos-Prime, Kontrollzentrum“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L149]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS (Umweltkommunikation)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L150]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS offenbart durch Umgebungshinweise seine Kernmotivation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L152] and „Kael begreift, dass dieser Stillstand den Tod des freien Willens und der Seele bedeutet“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L152]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
