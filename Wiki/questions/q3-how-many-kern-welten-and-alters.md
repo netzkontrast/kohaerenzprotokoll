@@ -481,3 +481,11 @@ Four Kern-Welten, with two further levels beside them; the number of alters is n
 Chapter 17 brings Kael „in eine neue, bisher unbekannte Konstrukt-Welt“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L230], and Chapter 7 names the groups: „Apparently Normal Parts (ANPs: Kael/Host, Lex, Alex, Rhys)“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L106] against „Emotional Parts (EPs: Kiko, Lia, Moros)“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L106]. The outline does not say that one world corresponds to one Anteil.
 
 Where it stands: four worlds are planned and the ANP and EP groups are listed for that chapter; the correspondence is not addressed.
+
+## 2026-10-05 — `charaktere`, 2025-07-29, the character concept
+
+**The character concept counts eleven Anteile, names a twelfth, `Nox`, once, and four Kernwelten.**
+
+The second answer heads its section „Elf Seelen in einem System“ ^[charaktere.md:L125] (L125). The first answer names among the persecutory parts „Nox (als Kritiker konzipiert) oder ein namenloser“ ^[charaktere.md:L96] introject (L96). The `Kernwelten` run from KW1 to KW4: „Kernwelten (KW1-KW4)“ ^[charaktere.md:L116] (L116).
+
+Stands as eleven Anteile with Nox a twelfth name used once, and four Kernwelten; recorded, not applied.
