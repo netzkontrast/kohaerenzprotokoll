@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
 records: ["C12", "C10"]
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,12 @@ Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“, Ende ^[rom
 
 - Plot: „Der Roman schließt nicht mit einem traditionellen Epilog, sondern mit einem maschinellen AEGIS-Systembericht, generiert aus dem Post-Quantum-Zustand.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139]
 - Establishes: „Die Anomalien wurden nicht eliminiert, sondern als“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139] Mosaik-Herz integriert. „Zielkohärenz v2.0 erreicht. Residuale Entropie innerhalb der lebensnotwendigen Parameter.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139] „Die Simulation endet nicht, sie beginnt zu leben.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139]
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — existential fusion, and a post-quantum log
+
+- SC-01, Soft Canon: Kap 39 presents „ein AEGIS-Log im Post-Quantum-Zustand (Wissen ohne subjektives Empfinden)“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L163].
+- The decision log fixes the novel's end point as existential fusion: „Es ist keine Rückkehr zur Normalität“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L186].
+- Register row Q-07: „der existenziellen Fusion als Endpunkt in Kapitel 39“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L34].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael wakes at 21°C in functional multiplicity, his knuckle scars healed
 
