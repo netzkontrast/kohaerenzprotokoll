@@ -37,6 +37,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`leserzentrierte-roman-outline-generierung-kohaeren`](leserzentrierte-roman-outline-generierung-kohaeren/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | n.s. |  |  |  |  |  |  |
 | [`mining-report-kohaerenz-protokoll-narrative-building-blocks`](mining-report-kohaerenz-protokoll-narrative-building-blocks/contracts.md) |  |  |  |  |  |  | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 25 | 51 |  |  |  |  |
 | [`monstergruppe-primzahlen-plot-blueprint`](monstergruppe-primzahlen-plot-blueprint/contracts.md) |  |  |  |  |  |  |  |  | 103 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [`outline`](outline/contracts.md) |  |  |  |  |  |  |  |  | 81 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`roman-konzept-dualitaet-kohaerenz-spannung`](roman-konzept-dualitaet-kohaerenz-spannung/contracts.md) |  |  |  |  |  |  |  |  | 84 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`roman-plot-entwicklung-mit-kohaerenzprotokoll`](roman-plot-entwicklung-mit-kohaerenzprotokoll/contracts.md) |  |  |  |  |  |  |  |  | 130 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`romanstruktur-und-philosophische-einleitung`](romanstruktur-und-philosophische-einleitung/contracts.md) |  |  |  |  |  |  |  |  | 95 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -47,4 +48,4 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`three-mode-architecture-39-chapters-md`](three-mode-architecture-39-chapters-md/contracts.md) |  |  |  |  |  |  |  |  | 45 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-178 runs on 42 sources: 153 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+179 runs on 43 sources: 154 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.

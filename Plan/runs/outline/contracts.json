@@ -1,0 +1,36 @@
+{
+ "source": "outline",
+ "runs": [
+  {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 29,
+   "failed_calls": 0,
+   "chunks": 29,
+   "failed_chunks": 0,
+   "cost_usd": 0.6435,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+   "rows": 87,
+   "candidates": 81,
+   "refused": {
+    "surface absent from document": 4,
+    "ambiguous quote: choose its passage": 2
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  }
+ ]
+}

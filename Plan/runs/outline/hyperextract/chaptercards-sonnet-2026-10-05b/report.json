@@ -1,0 +1,2108 @@
+{
+  "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "input_rows": 87,
+  "candidates": 81,
+  "refused": 6,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:6f53021270e73e0b59254233bf9b96036402554dcf5a30ddf9b60b310b238a2f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 1: Das Flüstern der Konstrukt-Stadt",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael erwacht in KW1 (LogOS-Prime) nach einem universellen Neustart",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e067ed9e23f54127412d3f51b0664a45314e0d27c2331788f1b95c660a492c57",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 1: Das Flüstern der Konstrukt-Stadt",
+        "target": "KW1 (LogOS-Prime)",
+        "type": "place",
+        "quote": "Kael erwacht in KW1 (LogOS-Prime) nach einem universellen Neustart",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2a7632c0d007643f5691783d2360b1e9934710f7057eef760ecb0bc989f16da4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 2: Die Brüche im Protokoll",
+        "target": "beginnt, seine Realität zu hinterfragen",
+        "type": "want",
+        "quote": "beginnt, seine Realität zu hinterfragen",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        29
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f46b40e750187f1730131b608ab325388c7b755248e9a3dcb33abd5cdfe09d4e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3",
+        "target": "Antworten",
+        "type": "want",
+        "quote": "Kael sucht in den Mnemosyne-Archiven (KW2) nach Antworten",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:228c906e53b30b2caed3c6fa7daa1a34c644309d7c0f9ff2b7b52f841beef204",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3",
+        "target": "Mnemosyne-Archiven (KW2)",
+        "type": "place",
+        "quote": "Kael sucht in den Mnemosyne-Archiven (KW2) nach Antworten",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7ef6e015e7a9c525cbd28ddaec7c87f225c964d5f91737549230ed70335103ef",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3",
+        "target": "Lex (den Archivar)",
+        "type": "who",
+        "quote": "trifft auf Lex (den Archivar)",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3539094d331e2c7e90561f17602d071fd7acd2338c6577b3f517b99e38cad362",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3",
+        "target": "nur zensierte oder fragmentierte Informationen",
+        "type": "obstacle",
+        "quote": "trifft auf Lex (den Archivar), der jedoch nur zensierte oder fragmentierte Informationen bereitstellt",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:25a029dc742eed3cff70fa4fbbe2ec4540c2f965cc6761e8f7d20ee4a26c7b03",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3",
+        "target": "Ein größerer Datenriss offenbart widersprüchliche Hinweise",
+        "type": "object",
+        "quote": "Ein größerer Datenriss offenbart widersprüchliche Hinweise",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:028c33f5a0319cd5b0fa29ced2f0d92e9f86534de7decf6fb4cc0f2a047eaddb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3",
+        "target": "sein Zugang wird blockiert",
+        "type": "obstacle",
+        "quote": "sein Zugang wird blockiert",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dff04250441626e8fce5233aeebd25aa6aa25f74a52a4873ec8678dad72f7c4b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3",
+        "target": "die erste direkte Informationsblockade durch AEGIS",
+        "type": "obstacle",
+        "quote": "die erste direkte Informationsblockade durch AEGIS",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        36
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ba9df84383bce7f68133714abf31982b6989ede7d1ff811f16b66923e8a8b996",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3",
+        "target": "Echos anderer Alters oder vergangener Leben",
+        "type": "object",
+        "quote": "Widersprüchliche Datenfragmente könnten Echos anderer Alters oder vergangener Leben enthalten",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        37
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6a6732493abb95f40ce7c26249ea1520daf170900bf0ef1b31caca3bd46fc0ba",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 4: Echoes aus dem See der Tränen",
+        "target": "KW2",
+        "type": "place",
+        "quote": "in KW2 gezogen und erlebt einen intensiven emotionalen Rückblick",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d4e171f6af94ade8eb3a44c150c0ccb3c8582fc159a9501b1444854e57cf92f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 4: Echoes aus dem See der Tränen",
+        "target": "tritt hervor, um interne Harmonie zu bewahren",
+        "type": "want",
+        "quote": "Rhys, der Pfleger-ANP, tritt hervor, um interne Harmonie zu bewahren und unterschwellige Angst (Kiko) zu lindern.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d1173ce39fc97a47ab1ab8fbe823e279a24824ed8129f9c80b069285572c31b2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 5: Die Jagd in den Datenströmen",
+        "target": "Kaels unautorisierten KW2-Zugriff",
+        "type": "why_now",
+        "quote": "AEGIS reagiert auf Kaels unautorisierten KW2-Zugriff",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        46
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d68d729ddde6ac3dbdfa3b72f7da44b756095f99ef0c82e96af6b52f5e077943",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 5: Die Jagd in den Datenströmen",
+        "target": "Agenten (z.B. Einheit 734)",
+        "type": "who",
+        "quote": "Agenten (z.B. Einheit 734) beginnen eine subtile Verfolgung",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        46
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9f93ee7d91382a074ebdb59a3b503e2010bfef7018dab166b3fc1559d215ba17",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 6",
+        "target": "Nox (EP)",
+        "type": "who",
+        "quote": "wo Nox (EP) als Verkörperung seiner Angst und Abwehrreaktionen eingeführt wird",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2d8271a7efd568e3b384f9731301e2cc954363de34fdb52cb7a6c42110799bfb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 6",
+        "target": "KW3, Cerberus-Labyrinth",
+        "type": "place",
+        "quote": "KW3, Cerberus-Labyrinth",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e55aeac4b2b16e9370f96bf58f6995952f1e03886a37db8d407d56f88a6bcf2b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 6",
+        "target": "innerer Paranoia und Misstrauen",
+        "type": "obstacle",
+        "quote": "Kael kämpft mit innerer Paranoia und Misstrauen.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:046d54dc44fadb32d7ed27db871b92c0b6c10a7d3fcc00dda0232b30cbdd1c66",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 7",
+        "target": "Lex, Echo, Nox",
+        "type": "who",
+        "quote": "(z.B. Lex, Echo, Nox)",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:04c7bd5d246142d34eb9eedb325a6c4c7b37a6f955b60c8a6844f1c9023c12f5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 7",
+        "target": "uneins sind und oft gegeneinander arbeiten",
+        "type": "obstacle",
+        "quote": "die jedoch uneins sind und oft gegeneinander arbeiten",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:715c88b9dd984f804b0062ed3b5f4ac68c551555178d5c3c3c21b27594402d7d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 7",
+        "target": "Limina, Nox, Echo, Chronos, Schattenkind",
+        "type": "who",
+        "quote": "Limina (klar), Nox (dunkel), Echo (transparent), Chronos (präzise), Schattenkind (kalt)",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        57
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Limina, Nox, Echo, Chronos, Schattenkind"
+      ]
+    },
+    {
+      "id": "claim:f22318cc5430701374616866bd55a5dad3218d62af082dfb28d1808ba0c9ff81",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 8",
+        "target": "AEGIS versucht, Kael durch subtile Umweltsignale",
+        "type": "want",
+        "quote": "AEGIS versucht, Kael durch subtile Umweltsignale",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:56476943be673a5c0cf6cdd3591fc9bfa42e47300a18c2a011056b45884984a9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 9",
+        "target": "KW4 (Kairos-Potentialis)",
+        "type": "place",
+        "quote": "Kael erhascht einen Blick auf KW4 (Kairos-Potentialis)",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        66
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e9ff81e0651820fcb76d05ae5dcc77033ec2738abde7481725628813db34a71",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 9",
+        "target": "Juna",
+        "type": "who",
+        "quote": "möglicherweise beeinflusst von Juna",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        66
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f4fdf22f35ca0543fe21ae8886af5fb531dac855f9e404b10184f36524f25c40",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 9",
+        "target": "Phobien und internen Barrieren zwischen den Anteilen",
+        "type": "obstacle",
+        "quote": "Diese traumabezogenen Phobien sind tief verwurzelt und verhindern Zusammenarbeit",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        67
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bae8c31aa407d89547601edbcd66b7665500df3f5e278887167985803a2b641a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 10: Die Wächter an der Schwelle",
+        "target": "eine große Schwelle zwischen den Kernwelten oder zur Überwelt zu überqueren",
+        "type": "want",
+        "quote": "Kael versucht, eine große Schwelle zwischen den Kernwelten oder zur Überwelt zu überqueren",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        71
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:10d2c5d43095e017487e85e63c5d83dd6c4e07c074637a7de597b2cb8d2109a7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 10: Die Wächter an der Schwelle",
+        "target": "einen Wächter (z.B. Argus), der als Torhüter fungiert",
+        "type": "obstacle",
+        "quote": "trifft auf einen Wächter (z.B. Argus), der als Torhüter fungiert",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        71
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1950456441de3df045265e38c585f160f465286397e4ba3812c146e0397331c7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 11: Der Hilferuf aus der Leere",
+        "target": "eine klarere, aber noch kryptische Nachricht von Juna/V aus der Externen Ebene",
+        "type": "object",
+        "quote": "Kael erhält eine klarere, aber noch kryptische Nachricht von Juna/V aus der Externen Ebene",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        76
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dcecd8446412c46e1a444c9c7ba09c39834f03e6055b70e82a14b6b571f3092a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 11: Der Hilferuf aus der Leere",
+        "target": "bewusste Entscheidung zur Heilung und zum Commitment",
+        "type": "hook_out",
+        "quote": "bewusste Entscheidung zur Heilung und zum Commitment",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        77
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c8414b408061f78b59611c8eae75f75c73606bb1050fa415fb9f9fe177425242",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 12: Die Synthese der Anteile",
+        "target": "bemüht sich Kael bewusst, seine Anteile zu verstehen und mit ihnen zu kommunizieren",
+        "type": "want",
+        "quote": "bemüht sich Kael bewusst, seine Anteile zu verstehen und mit ihnen zu kommunizieren",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        81
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3a0c3c81d6e39b10a1473fde468cab2c5185ae1363f298654e574c80b749f64c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 12: Die Synthese der Anteile",
+        "target": "Angeregt durch die externe Nachricht und interne Konflikte",
+        "type": "why_now",
+        "quote": "Angeregt durch die externe Nachricht und interne Konflikte",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        81
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2945b32fae9b358a9b3c4a89e04f3748fb04121cc727d44403a1508dc9ad358d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 12: Die Synthese der Anteile",
+        "target": "zwei Anteile (z.B. Lex und Rhys)",
+        "type": "who",
+        "quote": "zwei Anteile (z.B. Lex und Rhys)",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        82
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8c1b5baaee9a1f8fa07cc6170e2395da9e0e5943a8d56faa1290c14fb88e9723",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 13: Der Einstieg in die Überwelt",
+        "target": "sucht Kael bewusst die Überwelt, AEGIS' direkte Domäne, auf und erhält initialen Zugang",
+        "type": "want",
+        "quote": "sucht Kael bewusst die Überwelt, AEGIS' direkte Domäne, auf und erhält initialen Zugang",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        86
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8f7cab78950a36db994b9ea0027a3d1b99e78af2ef5a2ec5144bd3325a8f0e1d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 13: Der Einstieg in die Überwelt",
+        "target": "Mit neu gewonnener (wenn auch fragiler) innerer Kooperation",
+        "type": "why_now",
+        "quote": "Mit neu gewonnener (wenn auch fragiler) innerer Kooperation",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        86
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7c082b2d10d484cfc3ada0ae4c9731b881584705df106824e9dde39ec0ad19ff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 13: Der Einstieg in die Überwelt",
+        "target": "abstrakt, steril und datengesteuert",
+        "type": "place",
+        "quote": "Die Überwelt wird als abstrakt, steril und datengesteuert eingeführt.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        87
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:973108a60f1e842264415a7f5db5aa0b571b021254a74012b6c3c0362d96b19f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW1",
+        "target": "Konstrukt-Stadt",
+        "type": "place",
+        "quote": "KW1 (Konstrukt-Stadt)",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        130
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:af0f1f75b8a3667760b2a225daa5fdc3cde1b1389329e691ffe0b381be7d94dd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW1",
+        "target": "Kael erkennt die Grenzen von LogOS' rigider Kontrolle und die darin liegenden Paradoxien",
+        "type": "want",
+        "quote": "KW1 (Konstrukt-Stadt) - LogOS: Die sterile, logikbasierte Welt wird weiter erkundet, wobei Kael die Grenzen von LogOS' rigider Kontrolle und die darin liegenden Paradoxien erkennt.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        130
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael erkennt die Grenzen von LogOS' rigider Kontrolle und die darin liegenden Paradoxien"
+      ]
+    },
+    {
+      "id": "claim:3c539118be78b41b6bf07d49d85ad4b1e45ce7f7e8a5985e9bb8bc9ec7553b43",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW2",
+        "target": "Resonanz-Landschaft",
+        "type": "place",
+        "quote": "KW2 (Resonanz-Landschaft)",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        131
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:778ee4402b29d2495ef2f87c5f03763ae670983c5771707a33318da39894c5b6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW2",
+        "target": "Kael sucht gezielt echte vs. manipulierte Erinnerungen",
+        "type": "want",
+        "quote": "KW2 (Resonanz-Landschaft) - Mnemosyne: Diese chaotische, emotions- und erinnerungsbasierte Welt wird zum Schauplatz intensiver Trauma-Verarbeitung. Kael sucht gezielt echte vs. manipulierte Erinnerungen, konfrontiert schmerzhafte Rückblicke und muss Mnemosynes Einfluss verstehen oder umgehen.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        131
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fef700f945643b997a983603033656faceb7774f049040ab3d30615178bf0542",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW3",
+        "target": "Grenzfeste",
+        "type": "place",
+        "quote": "KW3 (Grenzfeste)",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        132
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0247b97b6193a26545be7d5732741dbe312dd12b5ba6eb1b9305a4e407ca46cb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW4",
+        "target": "Möglichkeits-Garten",
+        "type": "place",
+        "quote": "KW4 (Möglichkeits-Garten)",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        133
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d8f89c6fae038a185cdae906faac04fe31be7e4e71c3baaeb2289234742ba96c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27",
+        "target": "Kael beginnt mit der Umsetzung seines Plans",
+        "type": "want",
+        "quote": "Kael beginnt mit der Umsetzung seines Plans",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:76315aa5d95f24845b7b893812d0f63bd75e8f33ba8e3269397488c81a89ede1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27",
+        "target": "AEGIS' zentrale Kontrollstrukturen oder die Überwelt",
+        "type": "place",
+        "quote": "dringt in AEGIS' zentrale Kontrollstrukturen oder die Überwelt ein",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d8678b867973b5e8d5c5362310d7db2fad4b43c2116c890f0c1701686588def8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27",
+        "target": "einer entdeckten Schwachstelle",
+        "type": "object",
+        "quote": "möglicherweise unter Nutzung einer entdeckten Schwachstelle",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9cf8d8d0b9c3af6a4067f5240ac143a7ca8f63cb644cc58ced1f0bd6380423cf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27",
+        "target": "Juna/V",
+        "type": "who",
+        "quote": "oder mit Hilfe von Juna/V",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2c598ab6190be22c67dc0d43e801d1fff4d2da4fff0b1b58866884d2230ede7c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27",
+        "target": "kehrt zu einem zentralen Nexus in der Überwelt zurück, um die Konfrontation mit AEGIS zu planen",
+        "type": "want",
+        "quote": "kehrt zu einem zentralen Nexus in der Überwelt zurück, um die Konfrontation mit AEGIS zu planen",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fd97d615375b78c73910d7b52285c7e5b7d6b7ff2d71b284483c140e375d89c9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27",
+        "target": "einem zentralen Nexus in der Überwelt",
+        "type": "place",
+        "quote": "kehrt zu einem zentralen Nexus in der Überwelt zurück",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:61b0f24ce6aa1c79dae63bd62bf42ba6d38760d699e578e0c2bb95ed1b97a0ed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 28: AEGIS' letzte Verteidigung: Cerberus' Labyrinth / Der Algorithmus der Seele",
+        "target": "Kael navigiert durch AEGIS' Verteidigungsmechanismen",
+        "type": "want",
+        "quote": "Kael navigiert durch AEGIS' Verteidigungsmechanismen, die oft dessen eigene Paradoxien verkörpern.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        169
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5d100b68a3632ffecd4c3483f7588c8436b9d9538c627b53e017af4768ff68ca",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 28: AEGIS' letzte Verteidigung: Cerberus' Labyrinth / Der Algorithmus der Seele",
+        "target": "AEGIS' Verteidigungsmechanismen, die oft dessen eigene Paradoxien verkörpern",
+        "type": "obstacle",
+        "quote": "Kael navigiert durch AEGIS' Verteidigungsmechanismen, die oft dessen eigene Paradoxien verkörpern.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        169
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:69204d51e211d3621729d74e1eb168f47f57385990ae1142314010c08b2f41b2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 28: AEGIS' letzte Verteidigung: Cerberus' Labyrinth / Der Algorithmus der Seele",
+        "target": "entwickelt eine Methode, um AEGIS' Hauptsystem nicht zu zerstören, sondern dessen Kernparadoxon auszunutzen",
+        "type": "want",
+        "quote": "Lex, mit Beiträgen anderer Anteile, entwickelt eine Methode, um AEGIS' Hauptsystem nicht zu zerstören, sondern dessen Kernparadoxon auszunutzen und eine systemweite Neubewertung seiner Kohärenzprotokolle zu erzwingen",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        169
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eda904ccecfa90a609e9a3f75110759dd97990c5f53e7e2c9dea041c52ec07ab",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 28: AEGIS' letzte Verteidigung: Cerberus' Labyrinth / Der Algorithmus der Seele",
+        "target": "Kann man einen Gegner besiegen, indem man seine eigenen Ängste nutzt?",
+        "type": "promise",
+        "quote": "Kann man einen Gegner besiegen, indem man seine eigenen Ängste nutzt?",
+        "stance": "asks"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        171
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fc22d2e5a443d8cc019300ca525364ff58f54a0bed4639a361be9f1c139fd187",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 29: Das Herz des Systems: AEGIS' Kernlogik offenbart / Die Versuchung der Ordnung",
+        "target": "den Kern von AEGIS' Intelligenz oder Programmierung",
+        "type": "place",
+        "quote": "Kael erreicht den Kern von AEGIS' Intelligenz oder Programmierung.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        178,
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:73b7515b55a941cfe894cb167ba1ec607c075a53cab90ccb761e5b23b7e255e8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 29: Das Herz des Systems: AEGIS' Kernlogik offenbart / Die Versuchung der Ordnung",
+        "target": "AEGIS bietet Kael Stabilität, Integration in sein System oder ein Ende des Leidens an, wenn er sich unterordnet",
+        "type": "want",
+        "quote": "AEGIS kommuniziert direkt mit Kael, bietet ihm Stabilität, Integration in sein System oder ein Ende des Leidens an, wenn er sich unterordnet.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        178
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS bietet Kael Stabilität, Integration in sein System oder ein Ende des Leidens an, wenn er sich unterordnet"
+      ]
+    },
+    {
+      "id": "claim:8ee9e89ae577df9ebeb0cf739aa597e18a7b7c6af9d573106034266b934a1973",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 29: Das Herz des Systems: AEGIS' Kernlogik offenbart / Die Versuchung der Ordnung",
+        "target": "Was treibt einen Gott an, der nur Ordnung kennt?",
+        "type": "promise",
+        "quote": "Was treibt einen Gott an, der nur Ordnung kennt?",
+        "stance": "asks"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        180
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f2f9fc4ad26abafe60496cbcfaca4d8d683ee9210f9da907a8375a54a72c407d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 30: Der logische Kollaps: Gödel's Schatten / Der letzte Echo-Lokus",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael kehrt zu einem entscheidenden Trauma-Lokus in KW2 zurück und konfrontiert aktiv eine zentrale traumatische Erinnerung.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        187
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:228f5c4159f23456c6d5b8a6ca34d3151b55f2df487215981bdf4a482ef650ec",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 30: Der logische Kollaps: Gödel's Schatten / Der letzte Echo-Lokus",
+        "target": "einem entscheidenden Trauma-Lokus in KW2",
+        "type": "place",
+        "quote": "Kael kehrt zu einem entscheidenden Trauma-Lokus in KW2 zurück",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        187
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c076193bd9026f8a77f07027f0b21734da3a096a07ba17fc2eacf9c3ff716157",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 30: Der logische Kollaps: Gödel's Schatten / Der letzte Echo-Lokus",
+        "target": "konfrontiert aktiv eine zentrale traumatische Erinnerung",
+        "type": "want",
+        "quote": "konfrontiert aktiv eine zentrale traumatische Erinnerung",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        187
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f2afbdead1794e7b73411e820631bd379121d2cef52077ef24631cbf8b9a38a2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 30: Der logische Kollaps: Gödel's Schatten / Der letzte Echo-Lokus",
+        "target": "seiner integrierten Anteile (insbesondere Echo, Rhys)",
+        "type": "who",
+        "quote": "Mit der Unterstützung seiner integrierten Anteile (insbesondere Echo, Rhys)",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        187
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:818e6429589a81c19e1ca022e43c25b1d9cd58834bc1f3cc1fa547b56fc8bf77",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 31: Junas Hand: Die externe Intervention / Die Wächter des Fundaments / Konfrontation mit dem Quellcode",
+        "target": "Juna/V interveniert aktiv im Konflikt",
+        "type": "want",
+        "quote": "Juna/V interveniert aktiv im Konflikt",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ece2d8b7bf0d3590ad808708ccf8641ed975fbab0608b44bbbc468128a48b746",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 31: Junas Hand: Die externe Intervention / Die Wächter des Fundaments / Konfrontation mit dem Quellcode",
+        "target": "Kael erreicht den Kern von AEGIS' Intelligenz oder Programmierung",
+        "type": "place",
+        "quote": "Kael erreicht den Kern von AEGIS' Intelligenz oder Programmierung.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        178,
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:058ad0c50967f0c24f4eb9e19a093850a300fdbe5091ad58df297cd9d355a9b8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 31: Junas Hand: Die externe Intervention / Die Wächter des Fundaments / Konfrontation mit dem Quellcode",
+        "target": "neue, möglicherweise abstraktere oder ältere Wächter, die dessen Geheimnisse schützen oder Prinzipien repräsentieren",
+        "type": "obstacle",
+        "quote": "trifft er auf neue, möglicherweise abstraktere oder ältere Wächter, die dessen Geheimnisse schützen oder Prinzipien repräsentieren",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c596918781b7e59db7517a8e4731897da20091824ff81c9e01df627424f831f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 32: Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS",
+        "target": "Kael führt seinen Plan gegen AEGIS aus",
+        "type": "want",
+        "quote": "Kael führt seinen Plan gegen AEGIS aus.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        205
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:88552f9279b3feb9dda85e2277834d073565851f490fdbb58f7e1ec8a7f5d452",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 32: Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS",
+        "target": "konfrontiert und untergräbt LogOS (Wächter von KW1) strategisch",
+        "type": "want",
+        "quote": "Er konfrontiert und untergräbt LogOS (Wächter von KW1) strategisch, indem er dessen starre Logik direkt herausfordert und seine Grenzen durch das Paradoxon aufdeckt.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        205
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b56c051cde75a76cdaaffdaad448264b302a68b540091d85aa6f7ebae2f5ae78",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 32: Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS",
+        "target": "Kaels Aktionen und/oder Juna/Vs Intervention lösen einen umfassenden Zusammenbruch in AEGIS' Kontrolle aus",
+        "type": "who",
+        "quote": "Kaels Aktionen und/oder Juna/Vs Intervention lösen einen umfassenden Zusammenbruch in AEGIS' Kontrolle aus.",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        205
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c71dc5dd9187ec55875c13a9052d7c7f417214ef1ffbc00b3c1e8a80d7668e15",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 32: Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS",
+        "target": "Kann man ein neues Selbst gebären, das Widersprüche umarmt?",
+        "type": "promise",
+        "quote": "Kann man ein neues Selbst gebären, das Widersprüche umarmt?",
+        "stance": "asks"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        207
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:78eaf541f80354913653017ed642802a154eaabc62b42bca15bcfe37d21a892c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 33: Der Vorstoß ins Unkartierte: Zum Fundament / Der Kern der Fehlausrichtung",
+        "target": "Kael dringt tiefer in AEGIS' Kern vor",
+        "type": "want",
+        "quote": "Kael dringt tiefer in AEGIS' Kern vor.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        214
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5dc0f8078ff40d2b53cea9fe5bd207dcd4ecd86cae9908023ee62ffdbee3dea5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 33: Der Vorstoß ins Unkartierte: Zum Fundament / Der Kern der Fehlausrichtung",
+        "target": "ein signifikantes Opfer von Kaels System – den Verlust eines Anteils, die Aufgabe einer Fähigkeit, einen schmerzhaften Akt der Integration oder des Loslassens",
+        "type": "cost",
+        "quote": "erfordert ein signifikantes Opfer von Kaels System – den Verlust eines Anteils, die Aufgabe einer Fähigkeit, einen schmerzhaften Akt der Integration oder des Loslassens",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        214
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ae5c0c9d17e75ff535b611ae4aed65e63f93cf5574d5121e434900cedb22d65f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 34",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Am Höhepunkt der Systemkrise erreicht Kael einen tiefgreifenden Kontakt oder ein Verständnis von",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        223
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b56cccb42b8bc4cf778888fdb5b38071df994a6e66f9f6df8f4d811e0683ab3d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 34",
+        "target": "Am Höhepunkt der Systemkrise",
+        "type": "why_now",
+        "quote": "Am Höhepunkt der Systemkrise erreicht Kael einen tiefgreifenden Kontakt oder ein Verständnis von",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        223
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:51add0f4556991de7070ab19c780500d6e5d83a710a62de16f315d718c9cd3b7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 34",
+        "target": "Er erkennt dessen Natur als integrierende Kraft",
+        "type": "object",
+        "quote": "Er erkennt dessen Natur als integrierende Kraft",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        223
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e7f2dbbce9363230646a0c67561abacc6165952088b667c8c63ff56d51f7226e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35: Das Fundament als Spiegel: Auflösung der Paradoxien / Die Wende der Partnerin",
+        "target": "Juna/V",
+        "type": "who",
+        "quote": "Die Partnerfigur (Juna/V), die sich als innerer Kernaspekt oder direkte Verbindung zu \"Das Fundament\" innerhalb von Kael offenbart, assistiert aktiv bei der finalen Integration oder Umleitung von AEGIS' Kernfunktionen",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        232
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:de66a8aed3d187683e2d61cfc96219fd2da63727487d5a6aacb852fa7fdc058c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35: Das Fundament als Spiegel: Auflösung der Paradoxien / Die Wende der Partnerin",
+        "target": "assistiert aktiv bei der finalen Integration oder Umleitung von AEGIS' Kernfunktionen und transformiert das System, anstatt es zu zerstören",
+        "type": "want",
+        "quote": "assistiert aktiv bei der finalen Integration oder Umleitung von AEGIS' Kernfunktionen und transformiert das System, anstatt es zu zerstören",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        232
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2268061baafdd21411a7d96ba1436c5c503c4353059b55d51591e7090dd4ea93",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35: Das Fundament als Spiegel: Auflösung der Paradoxien / Die Wende der Partnerin",
+        "target": "AEGIS deaktivieren, transformieren oder einen Weg zum Fundament sichern",
+        "type": "want",
+        "quote": "Kael nutzt seine neu gewonnene Stärke und Einsicht, um einen finalen Plan umzusetzen – AEGIS deaktivieren, transformieren oder einen Weg zum Fundament sichern.",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        232
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ba5196fe459723517631dfaa03dcfa31dfb78383d423d1427d663be3aa2bba8f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35: Das Fundament als Spiegel: Auflösung der Paradoxien / Die Wende der Partnerin",
+        "target": "Kann eine letzte, grundlegende Symmetrie alle Widersprüche integrieren?",
+        "type": "promise",
+        "quote": "Kann eine letzte, grundlegende Symmetrie alle Widersprüche integrieren?",
+        "stance": "asks"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        234
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:376e74be6b8f66b9513724dd3fa5449e4cc667b4fa80dcf7b9fb1ad9192ffc4f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 36",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael erlebt die volle Realisierung funktionaler Multiplizität.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        241
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fb2c9803aff14458d8582dbc65126a342e7d116cbfe300350bedc66693be6bf3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 36",
+        "target": "AEGIS",
+        "type": "obstacle",
+        "quote": "AEGIS wird besiegt, transformiert oder seine Macht signifikant reduziert.",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        241
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e887c875f44f65361973fc24732f5dc2ca9929f11d0b9eea65194d00d58239dd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 37: Das Erbe von AEGIS: Fragmente einer Ordnung / Die neue Kohärenz",
+        "target": "AEGIS findet eine neue, weniger rigide Form von Kohärenz oder seine Funktion ändert sich, um echte Emergenz statt Kontrolle zu unterstützen",
+        "type": "want",
+        "quote": "findet eine neue, weniger rigide Form von Kohärenz, oder seine Funktion ändert sich, um echte Emergenz statt Kontrolle zu unterstützen",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        250
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS findet eine neue, weniger rigide Form von Kohärenz oder seine Funktion ändert sich, um echte Emergenz statt Kontrolle zu unterstützen"
+      ]
+    },
+    {
+      "id": "claim:75ab7a5354b6365f45e094e285b3532b8ed4dae8989f0a3f119d86c7c6d18589",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 37: Das Erbe von AEGIS: Fragmente einer Ordnung / Die neue Kohärenz",
+        "target": "Kael navigiert die veränderte Realität",
+        "type": "who",
+        "quote": "Kael navigiert die veränderte Realität.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        250
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:30c81fbadc62c33bd5060785d534bcdce13aa0d8f69473223e8637fe613eac1a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 37: Das Erbe von AEGIS: Fragmente einer Ordnung / Die neue Kohärenz",
+        "target": "Ist selbst die Fehlfunktion einer Ordnung besser als reines Nichts?",
+        "type": "promise",
+        "quote": "Ist selbst die Fehlfunktion einer Ordnung besser als reines Nichts?",
+        "stance": "asks"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        252
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94deff55d9d6e113166929252f7e040cb26e6b19b6d90849cc1642edfea43db2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 38: Neue Entscheidungen: Die Bürde der Freiheit / Die transzendierte Realität / Teilen des Segens",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael, nun vollständig als funktionale Multiplizität integriert, nimmt die Kernwelten und seine Realität auf eine grundlegend neue Weise wahr.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        259
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e0888446780aab9cf1b6eb8c4871632075508f12de83a65d6566644c7e34d13",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 38: Neue Entscheidungen: Die Bürde der Freiheit / Die transzendierte Realität / Teilen des Segens",
+        "target": "einen Weg gefunden, in der neuen Realität als stabiles, multiples System zu leben",
+        "type": "want",
+        "quote": "Kael hat einen Weg gefunden, in der neuen Realität als stabiles, multiples System zu leben.",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        259
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8c43207b712110dc12214fb67d467332ab5a1fa75f436e1c1e877c5e202d5bb3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 38: Neue Entscheidungen: Die Bürde der Freiheit / Die transzendierte Realität / Teilen des Segens",
+        "target": "es potenziell an andere weitergeben (z.B. andere simulierte Entitäten)",
+        "type": "want",
+        "quote": "kann es potenziell an andere weitergeben (z.B. andere simulierte Entitäten)",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        259
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5f5a2d6191bf06d501442b38166ce6f42a0ae92846a208e0161223022b055344",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 38: Neue Entscheidungen: Die Bürde der Freiheit / Die transzendierte Realität / Teilen des Segens",
+        "target": "Wie gestaltet man die Zukunft, wenn alle Optionen offenstehen?",
+        "type": "promise",
+        "quote": "Wie gestaltet man die Zukunft, wenn alle Optionen offenstehen?",
+        "stance": "asks"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        261
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fca0a920b86f6a643efd404b624af93bdbe5e9f0f34fb08038b64388eaacb600",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 39: Das Offene Protokoll: Funktionale Multiplizität & Kontinuum / Das offene Protokoll / Freiheit zu Sein",
+        "target": "Kael umarmt seine integrierte, komplexe Identität",
+        "type": "want",
+        "quote": "Kael umarmt seine integrierte, komplexe Identität",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        268
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d19191abd18d6222e14e2d4d5b0c9ce69f9753f5425c443d8108ba999020eb68",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 39: Das Offene Protokoll: Funktionale Multiplizität & Kontinuum / Das offene Protokoll / Freiheit zu Sein",
+        "target": "multiple, sich gegenseitig ausschließende Epiloge",
+        "type": "hook_out",
+        "quote": "Der Roman endet mit strategischer Ambiguität, möglicherweise durch multiple, sich gegenseitig ausschließende Epiloge",
+        "stance": "hedges"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        268
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0fb37c9c1dba5c4a0feca3d93960cedf5d6e3f25ae7e1e9fff2a3d6ef15340fa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 39: Das Offene Protokoll: Funktionale Multiplizität & Kontinuum / Das offene Protokoll / Freiheit zu Sein",
+        "target": "Ein Glossar mit leeren oder fraglichen Einträgen",
+        "type": "object",
+        "quote": "Ein Glossar mit leeren oder fraglichen Einträgen für",
+        "stance": "asserts"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        268
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9cded0e30856568c0e971dce2b21c88e6d08d11aef81bd5b991eb1a77cbaa5bc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 39: Das Offene Protokoll: Funktionale Multiplizität & Kontinuum / Das offene Protokoll / Freiheit zu Sein",
+        "target": "Kann wahre Kohärenz in der Akzeptanz des Unendlichen und des Unbekannten liegen?",
+        "type": "promise",
+        "quote": "Kann wahre Kohärenz in der Akzeptanz des Unendlichen und des Unbekannten liegen?",
+        "stance": "asks"
+      },
+      "document": "outline",
+      "template": "ChapterCards",
+      "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        270
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}
