@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -56,6 +56,14 @@ Position: Teil II, „Dissoziation als Feature“ ^[romanstruktur-und-philosophi
 
 - Story: „Erinnerung ist Datenlast. Vergessen ist Kompression.“ ^[romanstruktur-und-philosophische-einleitung.md:L174]
 - Story: „Seine Ganzheit ist eine DDoS-Attacke auf das Speichermanagement des Systems.“ ^[romanstruktur-und-philosophische-einleitung.md:L176]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der erste bewusste Switch
+
+Title: „Der erste bewusste Switch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L206]
+Position: Teil II; setting from the `Schauplatz` field: „in verschiedenen KW-Zonen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L208]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Lex, Alex, Kiko, Selene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L209]
+- Story: the blueprint plans, in `Plot-Beats`, „Um den aggressiven Überwachungssonden von AEGIS zu entgehen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211] and „hackt Logikfallen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
