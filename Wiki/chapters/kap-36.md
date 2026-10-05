@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 30
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung"]
+sources: 31
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -141,6 +141,15 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 
 - After the Truth-Rotation in Kap 36 „kollabiert das System-Weltbild“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L69]; the report leaves open how the melancholy shows in Kap 37–39.
 - The syntax grid: when AEGIS undergoes the Truth-Rotation in Kap 36, „erwacht Oblivion und übernimmt die Entscheidungsfunktion im Innensystem“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L128].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Die Freiheit des Seins
+
+Title: „Die Freiheit des Seins“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1074]
+Position: Akt III; POV: „POV: Integrierter Kael (M).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1082]
+
+- Story: the outline plans „Die enorme Hitze zerreißt die letzte Firewall.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1080]
+- Concepts: „Truth-Rotation, Stille als lebende Dialetheia, Algorithmische Melancholie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1078]
+- Pivot-Marker: the outline plans Driver-Status: „SF-A Decision ist nun der alleinige Driver.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1110]; Limit-Marker: „SF-A Optionlock ist erfüllt.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1111]; Outcome-Marker: „SF-A Success / Good ist erreicht.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1112]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
