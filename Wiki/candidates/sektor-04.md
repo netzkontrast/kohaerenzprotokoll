@@ -1,10 +1,10 @@
 ---
 term: Sektor 04
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,10 @@ gathered: "2026-09-24"
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Kap 8 renders it
 
 Kap 8 of the outline of 2026-05-01: „Sektor 04 wird gerendert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188] The POV table lists „Notlöschung Sektor 04“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L65] for Kap 9.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the heat in Sektor 04 in Kap 24
+
+Kap 24 places the rising temperature there: „Die Temperatur in Sektor 04 steigt rapide“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L703]
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
