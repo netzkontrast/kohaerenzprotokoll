@@ -2,7 +2,7 @@
 id: C7
 subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
-status: open
+status: decided — first direct encounter in the present in Akt III (Kap 32), by the author, 2026-10-05 (W9)
 first_seen: "2026-09-24"
 sources: 36
 pages: ["juna"]
@@ -10,7 +10,7 @@ pages: ["juna"]
 
 # C7 — Juna appears once in Kap 33, or first in Kap 38
 
-**Append-only.** This record decides nothing.
+**Append-only.** This record decides nothing; the author decided it on 2026-10-05 (section at the end).
 
 | # | where | source | line |
 |--:|---|---|--:|
@@ -363,3 +363,16 @@ Stands as a plan that opens with Juna as a hologram in Kap 1; it is a plan of 20
 Kap 3 is headed „Die Anomalie Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L46] and casts „Kael, Juna (als flüchtiges Hologramm/Echo).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L48] The beat is „Kael sieht Juna.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L51] She is cast again in Kap 11, 20 and 24. Kap 33, the chapter of the confrontation, casts „Kael, AEGIS.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L168] Kap 38 is titled „Die Brücke zu Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L473] and plans „Kael tritt aus dem System heraus (oder integriert es vollständig) und trifft Juna physisch.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L479]
 
 Stands as a plan of 2026-02-25 with Juna first in Kap 3 and physically in Kap 38, recorded, not applied.
+
+## 2026-10-05 — decided by the author: Juna follows her signposts
+
+Asked *Wann und wie tritt Juna auf?* with the options of [W9](../../Plan/weichen/w9-juna.md), after
+[W0](../../Plan/weichen/w0-kern.md) had made her a full figure, the author chose that her appearance follows her
+influence-character signposts in Storyform A (Past → Progress → Present → Future, decision 025 step 26): in Akt I she
+appears in remembered scenes before the call (Kap 4, 11), in Akt II her life and the silence go on (Kap 17, 25), and
+the **first direct encounter in the present is in Akt III, Kap 32**; the Vortex (Kap 36, 38) holds their future.
+
+**What this decides:** the chapter of the first direct appearance in the present. Kap 33 (the character bible) and
+Kap 38 (the outline) stay on this record as what those documents said, dated, and are no longer the arrangement. That
+Juna appears earlier in remembered scenes and speaks is W0's answer, not a source's.
+
