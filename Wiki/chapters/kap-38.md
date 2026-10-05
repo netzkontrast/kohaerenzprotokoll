@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -55,6 +55,10 @@ Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-kon
 - Plot: „AEGIS gibt den sinnlosen Kampf gegen die Entropie auf.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] „Die KI integriert Junas Rauschen als fundamentalen Bestandteil des Systems.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
 - Heat: „Kaltes Neonlicht weicht einem warmen, zyklischen Pulsieren.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] „Die K1- und K0-Kernel koexistieren, ohne sich gegenseitig zu vernichten.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
 - Establishes: „Die Maschine hat das Fühlen gelernt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — AEGIS integrates Juna's noise
+
+- SC-01, Soft Canon: „AEGIS integriert Junas Rauschen zwangsweise.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L163]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Fundament as a Strange Attractor, and the Ouroboros
 
