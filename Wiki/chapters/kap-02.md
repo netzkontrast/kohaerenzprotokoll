@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -74,6 +74,14 @@ Position: Teil I; setting from the `Schauplatz` field: „Transit-Korridor in Lo
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Unit 734 (Guardian/Regel-Exekutor), Lex (Analytiker), Kiko (Kind-Alter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L70]
 - Story: the blueprint plans, in `Plot-Beats`, „Unit 734 stoppt Kael für einen Kohärenz-Test“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L72] and „Kael besteht knapp, ist nun aber markiert“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L72]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Geometrie der Isolation
+
+Title: „Geometrie der Isolation“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L33] — heading „Der erste Systemfehler“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L34]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (mit ersten Einbrüchen von Lex' kühler Analytik)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L35]; place from `Ort`: „KW1 – Datenverarbeitungs-Zentrum“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L37]
+
+- Story: the matrix plans „Kael versucht, einer System-Routine zu folgen, weicht aber intuitiv ab“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L39]
+- Question: „Wie reagiert das System auf eine Variable, die nicht passt?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L38]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
