@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,14 @@ Position: „Trauma Response (Flight/Freeze) / IFS (Firefighter/Manager - Vermei
 - Story: AEGIS answers Kael's refusal not with punishment but by intensifying the world's chaos, and an old defensive part seizes control and reactivates a dissociative retreat, „Rückzug, signalisierte dieser Teil mit unwiderstehlicher Kraft. Abschottung. Minimierung des Inputs. Aktivierung des Bunkers.“ ^[kohaerenz-protokoll.md:L1620]
 - Effect: the retreat cuts him off from every inner Anteil and from Juna, „Der Rückfall war vollständig. Die Vermeidung war total.“ ^[kohaerenz-protokoll.md:L1652]
 - Voice: third person on Kael, his inner Anteile in italics; AEGIS acts through the environment rather than speaking.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Das Echo im System: Identifikation von Mustern und Zyklen
+
+Title: the commission titles the chapter „Das Echo im System: Identifikation von Mustern und Zyklen“ ^[kontext-outline.md:L234], placed in Act 2.
+
+- Theme: the commission's `Core Theme` is „Feedbackschleifen; Systemisches Lernen“ ^[kontext-outline.md:L236]
+- Story: its `Plot Summary` plans „in rigiden Feedbackschleifen gefangen“ ^[kontext-outline.md:L237]
+- Foci: `Kael Sys Focus` „Lex/Argus identifizieren Muster“ ^[kontext-outline.md:L238]; `AEGIS Focus` „Lernalgorithmen/Feedbackschleifen sichtbar“ ^[kontext-outline.md:L239]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
