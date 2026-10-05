@@ -182,6 +182,6 @@ skill (`.agents/skills/dspy/`) is how to work with the DSPy ones.
 
 | file | does | writes |
 |---|---|---|
-| `ui.py` | Derives the whole project into one interactive app — pages, conflicts, questions, the graph, the manifest, the invariants as they ran — as the files of a claude.ai Design canvas. `--check` reads them back the way the canvas does. | `Plan/derived/ui/` |
+| `ui.py` | Derives the whole project into one interactive app — pages, conflicts, questions, the graph, the manifest, the invariants as they ran, and the novel's workspace (canon from `Manuscript/kanon.md`, drafts, cards, Weichen, writing findings; decision 024) — as the files of a claude.ai Design canvas. `--check` reads them back the way the canvas does. | `Plan/derived/ui/` |
 | `ui.html`, `ui.js` | The app's markup and its component logic. `ui.py` fills them with the data; nothing else reads them. | — |
 | `web.py` | The app as a website: runs `ui.py --no-checks`, then copies the frames beside `web/support.js`, the canvas's runtime, vendored and pinned by sha256. What Vercel builds (`vercel.json`, decision 022). `--no-build`, `--check`. | `Plan/derived/web/` |
