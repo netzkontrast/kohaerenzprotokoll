@@ -1,10 +1,10 @@
 ---
 term: Sektor 04
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,10 @@ gathered: "2026-09-24"
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Sektor 04 as the place of Kap 1
 
 Kap 1 sets „Kern-Welt 1 (Konstrukt-Stadt) – Sektor 04.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L25]
+
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Sektor 04 in Akt I
+
+The research report (8.1) places `Sektor 04` among the limits Kael meets in Akt I: „aufgrund beschränkter Datenübertragung (Sektor 04)“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L205], as the example of `kausale Horizonte`.
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Kap 8 renders it
 
