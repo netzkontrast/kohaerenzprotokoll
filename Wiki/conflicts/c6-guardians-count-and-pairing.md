@@ -406,3 +406,13 @@ Stands as one more listing of the Guardians by chapter; the document gives no to
 Its Charaktere lines read „Kael, Nyx, Mnemosyne (Guardian).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L120] in Kap 9, „Alex, Kael, Cerberus (Guardian).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L196] in Kap 15 and „Kael, Kairos & Sophia (Guardians).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L232] in Kap 18. LogOS stands in Kap 2 as „Kael, LogOS (als ferne Instanz).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L36] The worlds in its Ort lines are „Kern-Welt 2 (Chaos, Wasser, Fragmente von Erinnerungen).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L121] for Mnemosyne's chapter, „Kern-Welt 3 (Dunkelheit, Enge, Bedrohung).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L197] for Cerberus's and „Kern-Welt 4 (Surreal, endlos mutierend).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L233] for Kairos and Sophia. Kap 31, „Die Auflösung der Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L389] plans „Kael kämpft nicht gegen die Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L395]
 
 Stands as a plan that names Mnemosyne, Cerberus, Kairos, Sophia and LogOS and dissolves them by integration; recorded, not applied.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The registry names five guardians over four core worlds, and does not pair them.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+F-05: „LogOS, Mnemosyne, Cerberus, Kairos und Sophia wachen über die 4 Kernwelten und repräsentieren AEGIS' Kontrollparadigmen.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L70] Rows W-01 and W-02 name LogOS and Mnemosyne as lords of KW1 and KW2: „Domäne von LogOS. Eine sterile, hyper-logische Umgebung für ANPs, die Metaphern verbietet und Trauma unterdrückt.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L78]
+
+It stands with the five-guardian count of the record's first position, stated without a pairing for Kairos and Sophia; the record is not changed.
