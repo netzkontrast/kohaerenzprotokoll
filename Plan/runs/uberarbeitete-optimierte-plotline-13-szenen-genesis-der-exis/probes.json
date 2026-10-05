@@ -1,0 +1,236 @@
+{
+  "document": "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
+  "drive_id": "1DcXO6z_Hjp_hiMIefaBixrcQWJdSiMwOB2zZrmxX7W0",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 24,
+  "backslash_escapes": 0,
+  "typographic_marks": 3,
+  "ascii_quotes": 40,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabstürzen",
+      "Systemdiagnose",
+      "Systeme",
+      "Systemfehler",
+      "Systemische",
+      "Systemischer",
+      "Systemreaktion",
+      "Systemresonanz",
+      "Systems",
+      "Systemstabilisierung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenmuster",
+      "Datenmustern",
+      "Datenpunkten",
+      "Datenströme",
+      "Datenverarbeitung"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmentierte",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "infor": [
+      "Information",
+      "Informationsfluss",
+      "Informationskonstrukte",
+      "Informationsmuster",
+      "Informationszerfall"
+    ],
+    "logik": [
+      "LOGIK",
+      "Logik",
+      "Logikfehler",
+      "Logikmodelle",
+      "Logikpakete"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationsebene",
+      "Simulationsfehler",
+      "Simulationsparameter"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalisierung",
+      "Funktionsbereitschaft",
+      "Funktionseinheit"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interne",
+      "Interpretation"
+    ],
+    "model": [
+      "Modelle",
+      "Modellierung",
+      "Modellierungsfähigkeit",
+      "Modells"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefähigkeit",
+      "Analysewerkzeug"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungspotenzial"
+    ],
+    "diagn": [
+      "Diagnose",
+      "Diagnosesysteme",
+      "Diagnosezyklus"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzüberwachung"
+    ],
+    "parad": [
+      "Paradoxe",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "rausc": [
+      "RAUSCHEN",
+      "Rauschen",
+      "Rauschens"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbezogenheit",
+      "Selbstüberwachung"
+    ],
+    "versu": [
+      "Versuch",
+      "Versuche",
+      "Versuchs"
+    ],
+    "werkz": [
+      "Werkzeug",
+      "Werkzeuge",
+      "Werkzeugen"
+    ],
+    "aktiv": [
+      "Aktivere",
+      "Aktivität"
+    ],
+    "alarm": [
+      "Alarm",
+      "Alarmstufe"
+    ],
+    "anzie": [
+      "Anziehung",
+      "Anziehungsquelle"
+    ],
+    "beoba": [
+      "Beobachten",
+      "Beobachtung"
+    ],
+    "dynam": [
+      "Dynamik",
+      "Dynamische"
+    ],
+    "einfü": [
+      "Einfügen",
+      "Einführung"
+    ],
+    "einhe": [
+      "Einheit",
+      "Einheiten"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auch",
+      "Eintauchen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Drohende"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsfluss"
+    ],
+    [
+      "Form",
+      "Informationsmuster"
+    ],
+    [
+      "Form",
+      "Informationszerfall"
+    ],
+    [
+      "Form",
+      "Informationskonstrukte"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernaxiome"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernkonflikt"
+    ],
+    [
+      "Kern",
+      "Kernprinzips"
+    ],
+    [
+      "NEUE",
+      "Neue"
+    ],
+    [
+      "NEUE",
+      "Neues"
+    ],
+    [
+      "Neue",
+      "Neues"
+    ],
+    [
+      "Raum",
+      "Raums"
+    ]
+  ]
+}

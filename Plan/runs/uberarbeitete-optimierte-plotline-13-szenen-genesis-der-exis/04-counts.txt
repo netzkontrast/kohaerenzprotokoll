@@ -1,0 +1,51 @@
+# counts for 39 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            40 word    40 in   [13, 57, 59, 61, 69, 75]
+  Komponente 734                    9 word     9 in   [73, 103, 104, 107, 140, 141]
+  734s                              2 word     2 in   [105, 157]
+  Kael                              4 word     5 in   [209, 211, 217, 220]
+                                    1      as Kaels
+  Nichts Rauschens                  3 word     3 in   [21, 140, 142]
+  Rauschen                          1 word     5 in   [21, 28, 66, 140, 142]  <-- substring
+                                    4      as Rauschens
+  Überwelt                          8 word     9 in   [109, 116, 125, 140, 141, 163]
+                                    1      as Überwelt-Thematik
+  Der Große Angriff                 1 word     1 in   [66]
+  Klick                             1 word     1 in   [68]
+  Sog der Ordnung                   1 word     1 in   [46]
+  Operationale Schließung           1 word     1 in   [69]
+  Das unterdrückte Echo             1 word     1 in   [83]
+  Echo der Unvollständigkeit        1 word     1 in   [105]
+  latente Signatur                  2 word     2 in   [83, 107]
+  Varianz                           5 word     5 in   [83, 105, 106]
+  Entität                          14 word    14 in   [61, 120, 131, 150, 158, 163]
+  Kohärenz-Fragment                 1 word     1 in   [157]
+  Fragment                          0 word     6 in   [21, 53, 157, 198, 206, 217]  <-- substring
+                                    2      as Fragmente
+                                    1      as Fragments
+                                    1      as Fragmentierung
+                                    1      as fragmentierter
+  Cluster                           4 word     4 in   [46, 52, 53, 55]
+  Kernaxiome                        1 word     1 in   [179]
+  Kernwelten                        1 word     1 in   [219]
+  Protokoll                         1 word     1 in   [194]
+  Zerstückelung                     1 word     1 in   [196]
+  Mosaik                            2 word     2 in   [211, 220]
+  Systemdiagnose                    1 word     1 in   [86]
+  Routine-Zyklus                    1 word     1 in   [103]
+  Logikpakete                       1 word     1 in   [81]
+  Systemischer Lockdown             1 word     1 in   [203]
+  Die Schnitte                      2 word     2 in   [204, 205]
+  Paradoxe Signatur                 1 word     1 in   [156]
+  unsimulierbar                     1 word     1 in   [180]
+  Hybris                            1 word     1 in   [125]
+  Ich                               9 word    10 in   [27, 69, 150, 158, 181, 185]
+  Unvollständigkeit                 5 word     5 in   [29, 41, 71, 83, 105]
+  Kernprinzips                      1 word     1 in   [61]
+  Funktionseinheit                  1 word     1 in   [80]
+  Stille im Kern                    1 word     1 in   [86]
+  Das Unmodellierbare               1 word     1 in   [123]
+  Updates                           1 word     1 in   [84]

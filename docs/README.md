@@ -13,7 +13,7 @@ reads it, writes a candidate list, a census, a note, and a reconciliation puts i
 graph (`graph.py`, `askdb.py`) is built afterwards — from the wiki, and from what `askextract.py` can read off the raw
 lines. Two consequences, both measured:
 
-- **Most of the corpus is in no graph that knows its structure.** 67 <!--state:documents.with_census--> of 586 <!--state:sources.landed--> documents have a census; the rest enter
+- **Most of the corpus is in no graph that knows its structure.** 68 <!--state:documents.with_census--> of 586 <!--state:sources.landed--> documents have a census; the rest enter
   `ask.db` as lines, paragraphs and mentions of the wiki's own surfaces, and nothing more. A question whose evidence is in
   an unread document is answered from flat text (`Plan/concept/evaluation-audit_2026-09-30.md`, §0.2: discovery cannot
   even be scored).

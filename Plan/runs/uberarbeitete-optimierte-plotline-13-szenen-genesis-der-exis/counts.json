@@ -1,0 +1,386 @@
+{
+  "document": "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
+  "drive_id": "1DcXO6z_Hjp_hiMIefaBixrcQWJdSiMwOB2zZrmxX7W0",
+  "step": "counts",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 40,
+      "n_including_compounds": 40,
+      "lines": [
+        13,
+        57,
+        59,
+        61,
+        69,
+        75,
+        88,
+        93,
+        94,
+        103,
+        106,
+        118,
+        120,
+        125,
+        131,
+        132,
+        140,
+        143,
+        144,
+        150,
+        157,
+        159,
+        163,
+        168,
+        169,
+        177,
+        179,
+        180,
+        181,
+        185,
+        191,
+        193,
+        198,
+        204,
+        207,
+        220
+      ]
+    },
+    "Komponente 734": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        73,
+        103,
+        104,
+        107,
+        140,
+        141,
+        144,
+        178,
+        190
+      ]
+    },
+    "734s": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        157
+      ]
+    },
+    "Kael": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        209,
+        211,
+        217,
+        220
+      ]
+    },
+    "Nichts Rauschens": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        140,
+        142
+      ]
+    },
+    "Rauschen": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        28,
+        66,
+        140,
+        142
+      ]
+    },
+    "Überwelt": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        109,
+        116,
+        125,
+        140,
+        141,
+        163,
+        177,
+        178,
+        181
+      ]
+    },
+    "Der Große Angriff": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Klick": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Sog der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Operationale Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Das unterdrückte Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Echo der Unvollständigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "latente Signatur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        107
+      ]
+    },
+    "Varianz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        83,
+        105,
+        106
+      ]
+    },
+    "Entität": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        61,
+        120,
+        131,
+        150,
+        158,
+        163,
+        178,
+        179,
+        180,
+        181,
+        185,
+        190,
+        191,
+        217
+      ]
+    },
+    "Kohärenz-Fragment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        157
+      ]
+    },
+    "Fragment": {
+      "n": 0,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        53,
+        157,
+        198,
+        206,
+        217
+      ]
+    },
+    "Cluster": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        46,
+        52,
+        53,
+        55
+      ]
+    },
+    "Kernaxiome": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Zerstückelung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Mosaik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        211,
+        220
+      ]
+    },
+    "Systemdiagnose": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Routine-Zyklus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Logikpakete": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Systemischer Lockdown": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "Die Schnitte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        204,
+        205
+      ]
+    },
+    "Paradoxe Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "unsimulierbar": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Hybris": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Ich": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        27,
+        69,
+        150,
+        158,
+        181,
+        185,
+        190,
+        193,
+        198,
+        205
+      ]
+    },
+    "Unvollständigkeit": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        29,
+        41,
+        71,
+        83,
+        105
+      ]
+    },
+    "Kernprinzips": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Funktionseinheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Stille im Kern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Das Unmodellierbare": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Updates": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis
+  lines                221  (frontmatter ends at 9)
+  body words           1788
+  headings             1   bold-only lines 11
+  table rows           0   code fences 0
+  question marks       6
+  backslash escapes    0
+  typographic marks    3   ascii quotes 40
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    24
+  repeated labels      Beats x13, Ziel x13, Anmerkungen x3
+  longest line         439 chars
+
