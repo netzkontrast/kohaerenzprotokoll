@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 27
-readings: 27
+sources: 28
+readings: 28
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 gathered: "2026-09-17"
 ---
 
@@ -64,6 +64,10 @@ Cerberus stands in F3 only, among the former candidates: „LogOS, Mnemosyne, Ce
 ## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — five Wächter in the pre-reset column; Cerberus subsumed into LogOS's pole
 
 The table's column 2 (pre-reset PDFs) lists „Fünf Wächter kontrollieren die Realität: LogOS, Mnemosyne, Cerberus, Kairos, Sophia.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L50] Column 4, the report's verdict, says „Cerberus, Kairos und Sophia entfallen restlos.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L50] In its own directive (§4.3, `Lösung zu F3`) the report proposes the pole „Der Lösch-Pol (Cerberus subsumiert).“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L104]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — named only as discarded
+
+`Cerberus` stands in the outline only in the appendices. Anhang B lists it as discarded together with two others: „Kairos / Cerberus / Sophia (Wächter)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1345] and gives the reason it reports from its canon source: „nur LogOS und Mnemosyne den Wächter-Dualismus bilden“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1345] Anhang F repeats the removal: „Nox zu Silas umgewandelt; Kairos/Cerberus gestrichen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1409] The removal is the outline's decision, recorded and not applied.
 
 ## Open
 
