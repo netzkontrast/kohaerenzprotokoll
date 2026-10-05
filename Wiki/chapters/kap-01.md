@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -80,6 +80,11 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Heat and ozone (C11): „greift die Umgebungsbedingung AEGIS ein“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] · „Ohne Vorwarnung schnellt die Temperatur lokal in tödliche Höhen, ein beißender Ozon-Geruch erfüllt die Luft.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] · „Es ist die thermodynamische Abwärme einer Landauer-Löschung.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94]
 - What it establishes: „Das Blut an seinen Händen ist verschwunden, ebenso die Wunde und jegliche emotionale Resonanz an den Schmerz.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94]
 - Checklist, Fixpunkt 1: „Glitch (blutige Knöchel, Zeitverlust), Hitze + Ozon, AEGIS löscht, Leerstelle“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215] · „Der Glitch zeigt blutige Knöchel.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215] · „Es folgt die Landauer-Hitze und Ozon, die das Blut und die Erinnerung daran restlos löschen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215] · „Rein deskriptiv, ohne DKT-Jargon.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215]
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — the first image, to return inverted in Kap 39 (CORE, §3.5)
+
+- Structure: the last image or sentence of Kapitel 39 „ist identisch zum ersten Bild oder Satz von Kapitel 1, mit einer einzigen Inversions-Operation“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L135]
+- Open: which image of Kap 1 returns is F10 (OFFEN); its candidates begin „Kandidaten: Telefon-Stille“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L566]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
