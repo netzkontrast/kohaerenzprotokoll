@@ -262,3 +262,10 @@ places them at Kap 0, 6, 16, 22 and 28 (`Plan/storyform/weave.json`, decision 02
 row 6's never `Ich`, stay on this record as what those documents said, dated, and are no longer the arrangement.
 What the `Ich` may know, and how it sounds, is not decided here (W7, W3).
 
+## 2026-10-05 — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development
+
+**The concept development plans Chapter P in a distanced, almost mythical perspective, not as AEGIS's first person.**
+
+The strategy field of Chapter P reads „Erzählt aus einer distanzierten, fast mythischen Perspektive“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47], to establish the cosmic dimension. The field does not name an `Ich` of AEGIS or an inside view; it says that the plan shows AEGIS's emergence „sondern als verzweifelten Versuch der Ordnungsschaffung aus Angst“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47], from outside, as myth.
+
+Where it stands in the record's own terms: Chapter P is planned in a distant mythic perspective; the document gives no first-person chapter for AEGIS in these lines; recorded, not applied.
