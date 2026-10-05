@@ -347,3 +347,11 @@ Stands: one appearance in Kap 33/34, as the report proposes it; it names no late
 The blurb names her without a chapter: „eine stumme, paradoxe Präsenz namens Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L17] The first chapter block that carries her is Kap 4, where Kael receives „die erste indirekte Berührung durch Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L115] The Kap 4 concept line is „Moonshine-Link, Phantom-Resonanz, Juna.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L113] Kap 33 plans her entrance: „Dann betritt Juna den Raum. Sie wird nicht beschrieben.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L976]
 
 In the record's terms: the outline has no scene it calls her first direct appearance; it gives an indirect touch in Kap 4 and an undescribed entrance in Kap 33, and decides nothing.
+
+## 2026-10-05 — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint
+
+**The master blueprint plans Juna in Kap 1 as a hologram that flickers at a formal check-in.**
+
+Kap 1 casts „Juna (Hologramm)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L62] and plans „Während des formalen Check-ins mit dem Juna-Hologramm erlebt Kael eine unerklärliche Trauer-Intrusion“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L64] In Kap 9 the plan says that Kael now perceives her differently: „nimmt er Juna/V zum ersten Mal nicht als Hologramm, sondern als reale, externe Präsenz wahr“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L128]
+
+Stands as a plan that opens with Juna as a hologram in Kap 1; it is a plan of 2026-02-23, recorded, not applied.
