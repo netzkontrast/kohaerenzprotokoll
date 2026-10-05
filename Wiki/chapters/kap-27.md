@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -57,6 +57,14 @@ Position: Teil III; setting from the `Schauplatz` field: „Epsilon-Null (Das Po
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Das Nichts Rauschen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L277]
 - Story: the blueprint plans, in `Plot-Beats`, „Kaels interner Rückzugsort (die Simulation) kollabiert unter der System-Entropie“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L279] and „in das rohe, mathematische Chaos des Potentialmeers eintauchen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L279]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Sprung ins Nichts
+
+Title: „Der Sprung ins Nichts“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L341] — heading „Akzeptanz der Entropie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L342]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael (akzeptierend, sartresch)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L343]; place from `Ort`: „Der Rand des Nexus, das pure Nichts“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L345]
+
+- Story: the matrix plans „Kael lässt den Versuch los, durch Logik oder Gewalt Ordnung zu erzwingen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L347]
+- Question: „Was passiert, wenn man aufhört, sich am Rand festzuhalten?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L346]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
