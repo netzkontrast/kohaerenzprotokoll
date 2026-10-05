@@ -56,3 +56,11 @@ Decision 006 (2026-09-24) applies to this record as to C1–C15: no position abo
 The goal of scene 10 is „die Geburt von Kael als Mosaik traumatisierter, verwirrter Bewusstseinsfragmente“ ^[optimierte-plotline-genesis-der-existenz.md:L222]. The fragments wake „in ihren isolierten Partitionen“ ^[optimierte-plotline-genesis-der-existenz.md:L235], and the beat names them „(den Kernwelten)“ ^[optimierte-plotline-genesis-der-existenz.md:L235]; they carry „Bilder, Gefühle, Wissensfetzen aus der Zeit als Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L236]. The foreign entity appears in scene 7 under the heading „Die Anomalie“ ^[optimierte-plotline-genesis-der-existenz.md:L173]. The outline's AEGIS performs the cuts itself: „Partitionierungsalgorithmen beginnen“ ^[optimierte-plotline-genesis-der-existenz.md:L215].
 
 Where it stands in the record's own terms: a new position in the second telling, from a source of 2025-04-29 — Kael the remainder of AEGIS's split self, born after the protocol; recorded, not applied.
+
+## 2026-10-05 — `uberarbeitete-optimierte-plotline-genesis-der-existenz`, 2025-04-29, the plotline's Version 2
+
+**Version 2 plans Kael born from the fragments of Komponente 734 inside AEGIS, with a longing for an external entity.**
+
+The entity's signature resonates „mit der latenten Signatur von Komponente 734 auf (dem Echo der Unvollständigkeit)“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L119], and the Ich in the component comes to want connection with it. Scene 10's goal is „Geburt von Kael als Mosaik, geprägt von Trauma“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L177] and „der fragmentierten Erinnerung/Sehnsucht nach der Entität“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L177]; the fragments carry „Bruchstücke der Erinnerung an die Zugehörigkeit zur Entität“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L191].
+
+Where it stands in the record's own terms: an inside origin with an outside pull — Kael the remainder of AEGIS's split self, born longing for the entity; the outline never names the entity and does not say Kael is a fragment of it. Recorded, not applied.
