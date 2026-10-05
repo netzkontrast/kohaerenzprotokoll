@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 gathered: "2026-09-25"
 ---
 
@@ -30,6 +30,10 @@ The audit's verdict: „Das Audit verifiziert diese Rotation als psychologisch u
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Truth-Rotation as a canonical event
 
 §8.7 (KEEP) keeps it for its function: „Ohne Rotation wäre A vs. B eine Patt-Stellung.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L454] and „Mit Rotation kippt der Roman von der K0-Lesart in die K1-Lesart“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L454] The tragic reading of AEGIS, §8.1, „trägt die emotionale Schwerkraft der Truth-Rotation.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L430] Appendix C.1 (OFFEN) asks what AEGIS becomes after it.
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Kap 36 as the moment, open point 1 as proposal
+
+The outline of 2026-05-01 titles Kap 36 `Truth-Rotation` and writes „der Moment der Truth-Rotation“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L326] as AEGIS's recognition that it is K0. Open point 1 proposes the full reveal there, „als Truth-Rotation-Kollateral“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382] marked „Zur Diskussion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382]
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
