@@ -498,3 +498,12 @@ Oblivion (`kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, L298) — the aut
 Kael (host), Lex, Alex, Rhys, Selene, Argus, Nyx (with Isabelle as part of her, decision 025 step 29), Kiko, Lia, Moros,
 Silas, Oblivion. **This answers the alter count only.** How many Kern-Welten there are, and whether a Kern-Welt
 corresponds to an alter, stays open; so does the question's status.
+
+## 2026-10-05 — the author: four Kern-Welten, carrying the acts (the other count of Q3)
+
+Asked *Welche Kernwelt trägt welchen Akt?* with three mappings the sources give, the author chose the one of
+`worldbuilding-konzept-kohaerenzprotokoll-md` (2026-05-08): KW1 Kap 1–13, KW2 Kap 14–22, KW3 Kap 23–28, KW4 Kap 29–39
+with the Vortex — „KW1 dominiert Akt I (Ch1–13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496] — and, on
+W8, separate worlds whose borders cost something (decision 025, step 35). **The count of Kern-Welten is four.** Whether
+a Kern-Welt corresponds to an alter stays open, and so do the names of KW2–KW4 and the Guardians (Q5); the question
+stays open for that one part.
