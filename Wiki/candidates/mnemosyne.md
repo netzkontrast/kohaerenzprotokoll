@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 32
-readings: 32
+sources: 33
+readings: 33
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
 gathered: "2026-09-17"
 ---
 
@@ -44,6 +44,16 @@ principle: each section is a `Guardian/Welt-Paar`.
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — Guardian of the Resonance Landscape, who maps the wound as a closed scar
 
 The manifest says the administration of the Resonance Landscape „is delegated to the Guardian subsystem designated as Mnemosyne“ ^[aegis-persona-and-manifest-generation.md:L77], whose domain „encompasses memory, emotion, subjective experience, empathy, and historical data archiving“ ^[aegis-persona-and-manifest-generation.md:L77]; she is „the archivist of the internal world“ ^[aegis-persona-and-manifest-generation.md:L77]. Her limitation: she „identifies the systemic wound but categorizes it as a closed scar rather than an active, ongoing structural breach“ ^[aegis-persona-and-manifest-generation.md:L83].
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Mnemosyne-Archipel as the pivot's setting, and Mnemosyne against one erasing pole
+
+§8.3, a KEEP aspect, names the place: „Mnemosyne-Archipel als Vortex-Setting“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L436] (L436). Its function: „Erinnerung als Schauplatz, nicht als Inhalt.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L438] and the reason: „Hier kann Erasure nicht greifen, weil das Setting selbst gespeicherte K1 ist.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L438] (L438). Appendix A puts the approach in Act III: „Kapitel 27–34: Annäherung an Mnemosyne-Archipel.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L614] (L614).
+
+In F3, tier `OFFEN`, the plot task is „Mnemosyne wird zum Setting für den Klimax.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L494] (L494). The research question sets Mnemosyne as „Erinnerungs-Hüter“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L131] in conflict with one erasing pole, `Cerberus` or `LogOS` (L498); §10 records, as the Kanon's decision, that the Guardian sociopolitics is reduced to Mnemosyne and one erasing pole (L581). The document speaks of the Archipel as a setting and of Mnemosyne as a Guardian; it does not say how the two relate.
+
+## Where the sources differ
+
+- `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30: Mnemosyne is the one Guardian the Kanon keeps (L581), and the Archipel is the setting of the climax (L494).
 
 ## Open
 
