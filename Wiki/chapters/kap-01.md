@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -120,6 +120,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 ## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — the Ouroboros image, cold
 
 - Directive for the first paragraph: „Die Welt ist kalt und steril“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L138] — ozone as the isolation of K1 perfection; „Pronomen: Ein vereinzeltes, amnestisches“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L138] I. Kap 39 returns the same smell inverted (L139).
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Rebooted Self
+
+Title: „The Rebooted Self“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L23]
+Position: Akt I; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L31]
+
+- Story: the outline plans „Kael erwacht nach einem universellen System-Reboot in einer völlig sterilen Umgebung“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L29]
+- Concepts: „Konstrukt-Stadt, AEGIS, RIVE-Protokoll, K1-Kohärenz, Dual-Kernel-Theorie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L27]
+- It also carries an Ouroboros marker tying the chapter to Kap 39: „Die absolute Kälte und der beißende Geruch von Ozon symbolisieren hier Kaels radikale Isolation“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L51]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
