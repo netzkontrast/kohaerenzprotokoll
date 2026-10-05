@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      47
+  backslash escapes      1
+  typographic marks      13
+  ascii quotes           74
+
+# inflection families -- one term, several surfaces
+  daten    Daten, Datenarchiv, Datenkaskaden, Datenlast, Datenmüll, Datenströme, Datenverarbeitungs
+  archi    Archipel, Architekt, Architekten, Architektur, Archiv
+  syste    System, Systemfehler, Systemisches, Systems
+  fragm    Fragment, Fragmente, Fragmentierung
+  himme    Himmel, Himmels, Himmelsfragmente
+  inner    Innere, Innerer, Innerhalb
+  inter    Interfaces, Interlude, Internal
+  konst    Konstruierte, Konstrukt, Konstrukts
+  kontr    Kontrolle, Kontrollmechanismen, Kontrollwut
+  parad    Paradoxie, Paradoxon, Paradoxons
+  poten    Potentialis, Potentialmeer, Potenzial
+  proto    PROTOKOLL, Protokoll, Protokolls
+  schwe    Schwelle, Schwerelosigkeit, Schwerkraft
+  wider    Widerspruch, Widersprüche, Widerstand
+  wächt    Wächter, Wächtern, Wächters
+  analy    Analyse, Analytik
+  antei    Anteile, Anteils
+  barri    Barriere, Barrieren
+  dunke    Dunkelheit, Dunkeln
+  einbr    Einbruch, Einbrüchen
+  eintr    Eintrag, Eintritt
+  erinn    Erinnerung, Erinnerungen
+  erste    Erste, Erster
+  exter    Externe, Externen
+  falle    Falle, Fallende
+
+# substring pairs -- never one term, often merged by accident
+  Auge < Augenwinkel
+  Code < Befehlscode
+  Code < Maschinencode
+  Echo < Echos
+  Eine < Keine
+  Ende < Fallende
+  Ende < Glühende
+  Ende < Glühender
+  Ende < Fließender
+  Ende < Wendepunkt
+  Ende < Zerbrechendes
+  Ende < Zusammenstürzende
+  Fall < Falle
+  Fall < Fallende
+  Gold < Goldener
+  Herz < Herzschlag
+  Kael < Kaels
+  Kern < Flackernde
+  Kern < Kernwelten
+  Kind < Kinderlachen

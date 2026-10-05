@@ -1,0 +1,218 @@
+{
+  "document": "kohaerenz-protokoll-39-kapitel-matrix",
+  "drive_id": "1LVVAUeUCrxgGvyddLOPnh2pSCN6_R6jLJfv3oTEHJgQ",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 47,
+  "backslash_escapes": 1,
+  "typographic_marks": 13,
+  "ascii_quotes": 74,
+  "inflection_families": {
+    "daten": [
+      "Daten",
+      "Datenarchiv",
+      "Datenkaskaden",
+      "Datenlast",
+      "Datenmüll",
+      "Datenströme",
+      "Datenverarbeitungs"
+    ],
+    "archi": [
+      "Archipel",
+      "Architekt",
+      "Architekten",
+      "Architektur",
+      "Archiv"
+    ],
+    "syste": [
+      "System",
+      "Systemfehler",
+      "Systemisches",
+      "Systems"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmentierung"
+    ],
+    "himme": [
+      "Himmel",
+      "Himmels",
+      "Himmelsfragmente"
+    ],
+    "inner": [
+      "Innere",
+      "Innerer",
+      "Innerhalb"
+    ],
+    "inter": [
+      "Interfaces",
+      "Interlude",
+      "Internal"
+    ],
+    "konst": [
+      "Konstruierte",
+      "Konstrukt",
+      "Konstrukts"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollwut"
+    ],
+    "parad": [
+      "Paradoxie",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentialmeer",
+      "Potenzial"
+    ],
+    "proto": [
+      "PROTOKOLL",
+      "Protokoll",
+      "Protokolls"
+    ],
+    "schwe": [
+      "Schwelle",
+      "Schwerelosigkeit",
+      "Schwerkraft"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widerstand"
+    ],
+    "wächt": [
+      "Wächter",
+      "Wächtern",
+      "Wächters"
+    ],
+    "analy": [
+      "Analyse",
+      "Analytik"
+    ],
+    "antei": [
+      "Anteile",
+      "Anteils"
+    ],
+    "barri": [
+      "Barriere",
+      "Barrieren"
+    ],
+    "dunke": [
+      "Dunkelheit",
+      "Dunkeln"
+    ],
+    "einbr": [
+      "Einbruch",
+      "Einbrüchen"
+    ],
+    "eintr": [
+      "Eintrag",
+      "Eintritt"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen"
+    ],
+    "erste": [
+      "Erste",
+      "Erster"
+    ],
+    "exter": [
+      "Externe",
+      "Externen"
+    ],
+    "falle": [
+      "Falle",
+      "Fallende"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auge",
+      "Augenwinkel"
+    ],
+    [
+      "Code",
+      "Befehlscode"
+    ],
+    [
+      "Code",
+      "Maschinencode"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Ende",
+      "Fallende"
+    ],
+    [
+      "Ende",
+      "Glühende"
+    ],
+    [
+      "Ende",
+      "Glühender"
+    ],
+    [
+      "Ende",
+      "Fließender"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Zerbrechendes"
+    ],
+    [
+      "Ende",
+      "Zusammenstürzende"
+    ],
+    [
+      "Fall",
+      "Falle"
+    ],
+    [
+      "Fall",
+      "Fallende"
+    ],
+    [
+      "Gold",
+      "Goldener"
+    ],
+    [
+      "Herz",
+      "Herzschlag"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Flackernde"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kind",
+      "Kinderlachen"
+    ]
+  ]
+}

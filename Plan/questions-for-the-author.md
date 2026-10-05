@@ -428,6 +428,11 @@ the author wants them (*Questions for the author*).
   own Hard Canon says Juna is never described directly (HC-09, L151) and later sources hold her back until Kap 7 or 33 (C7).
   Does Kael speak with a projection of Juna in Kap 1?
 
+- **Document 81, `kohaerenz-protokoll-39-kapitel-matrix`, the 39-chapter matrix of 2026-02-25:** it plans Kap 38 as the
+  threshold to the real world, where Kael steps out of the system — „(oder integriert es vollständig)" — and meets Juna
+  physically (L477–L479). The later outlines keep Juna undescribed and Kael inside the simulation. Does the book ever leave
+  the simulation, and does Kael meet Juna in body?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*
