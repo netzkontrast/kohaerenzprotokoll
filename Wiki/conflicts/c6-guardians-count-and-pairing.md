@@ -374,3 +374,11 @@ It names „die Guardians LogOS, Mnemosyne, Cerberus, Kairos und Sophia“ ^[sci
 The pairing is the one of Q5 (L88–L91, L229–L232), given as the plot document's.
 
 In the record's terms the report stands with the five-Guardian, four-pair arrangement of 2025; it is a later report on the plot document, takes no side beyond giving it, and decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline
+
+**The outline keeps two Wächter, LogOS and Mnemosyne, and reports five as legacy drift.**
+
+Anhang C, the outline's Kanon-Drift-Log: „Drift zwischen 5 Wächtern (Legacy) und 2 Wächtern (LogOS, Mnemosyne).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1353] Anhang B discards three named Wächter: „Kairos / Cerberus / Sophia (Wächter)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1345] with the reason „nur LogOS und Mnemosyne den Wächter-Dualismus bilden“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1345] Anhang F: „Nox zu Silas umgewandelt; Kairos/Cerberus gestrichen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1409]
+
+In the record's terms: the outline chose two, as its own decision from its canon source, and decides nothing for the record.
