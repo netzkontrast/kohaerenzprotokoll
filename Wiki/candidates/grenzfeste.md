@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -47,6 +47,10 @@ by effect, never by identity. See [[partnerin|Partnerin]].
 
 `Cerberus` — see [[cerberus|Cerberus]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
+
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — KW3, the paranoid world of defence and isolation, and the Ego-Tod of Kap 7–9
+
+The editor's report gives the plot document's KW3 in a reference-1 sentence: „Die paranoide Welt der Abwehr und Isolation, kontrolliert von Cerberus“ ^[scifi-roman-mit-ki-schreiben.md:L90] For Kap 7–9 it writes, with the plot document's reference after the sentence, „Die beklemmende Grenzfeste (KW3) und der dort erlebte“ ^[scifi-roman-mit-ki-schreiben.md:L221] `Ego-Tod`, which it calls „ein Moment völliger Hoffnungslosigkeit und des Scheiterns seiner bisherigen Abwehrstrategien“ ^[scifi-roman-mit-ki-schreiben.md:L221]
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the row KW3 Cerberus-Labyrinth, written under the Guardian-built name only
 
