@@ -1,10 +1,10 @@
 ---
 term: LogOS
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"]
 gathered: "2026-09-17"
 ---
 
@@ -40,6 +40,10 @@ Respects Sophia; debates Mnemosyne over „Ungenauigkeit" and Kairos over „Cha
 
 `Die Konstrukt-Stadt` — see that page. The pairing is the document's own organising
 principle: each section is a `Guardian/Welt-Paar`.
+
+## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — LogOS as a subsystem of the writing assistant
+
+This document is a software specification for a writing assistant that borrows the novel's names. Its table lists the subsystem `LogOS` with the status ANP and the task „Erzwingt absolute geometrische Ordnung.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L186] It watches the line budgets and the YAML metadata, and „Jeder Token-Überlauf wird als feindlicher Akt gewertet“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L186].
 
 ## Open
 
@@ -179,7 +183,7 @@ The world table's first row: „Konstrukt-Stadt (KW1) | LogOS (Rationalismus) | 
 
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — Co₁'s supervisor, never called Guardian by name, and a limit even AEGIS could not get past
 
-**Supervisor of Co₁, coupled directly to Kael's own mind — never called `Guardian`.** „Eine
+**Supervisor of Co₁, coupled directly to [[kael|Kael]]'s own mind — never called `Guardian`.** „Eine
 direkte Schnittstelle zwischen seinem kognitiven Kern und LogOS, dem Supervisor für Kohärenz und
 Struktur in diesem Sektor." ^[kohaerenz-protokoll.md:L438] Where the Netzweber and the
 Chaos-Regulator each get the explicit label in this document (`guardians`), LogOS never does; the
