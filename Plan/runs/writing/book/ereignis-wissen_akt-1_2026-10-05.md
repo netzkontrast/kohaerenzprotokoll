@@ -64,7 +64,7 @@ Durchsicht.
 | 9 | die Löschung aus Kap 8 | ihr Fenster | Er kann sie nicht zurücknehmen. | — | Er versucht es. | Der Körper flieht, bevor er entscheidet (Alex). | **Ein gelöschter Name** (Stufe 3) | 10 |
 | 10 | — | — | Die alte Frau erinnert sich an ihn; Junas Präsenz ist ihm vertraut. | — | Er lässt sie bleiben, gegen „Wer mir nah ist, wird verletzt“. | Der Anschluss klickt einmal. | Vertrautheit ohne Erinnerung | 11 |
 | 11 [G: C7] | — | — | Es gab ein Davor. | Der Rand der Trennung: Schweigen und der Moment vor der Entscheidung, abgerissen am Anruf. | — | Die Erinnerung reißt ab (Oblivion). | Er hält das Nichtwissen nicht mehr aus. | 12 |
-| 12 | **seine eigene Zeile** [V] | das Wartungsfenster von Sektor 04 [V] | **Der Anschluss ist er:** Prüfungsergebnis Komponente 734, darin die zehn Jahre, bestätigt mit seinem Kürzel [V]. | — | Er will hinein und findet nichts. | Die Knöchel bluten, eine Wut ohne Erinnerung (Nyx). | Er weiß, was er verliert. | 13 |
+| 12 | **seine eigene Zeile** [V] | das Wartungsfenster von Sektor 04 [V] | **Der Anschluss ist er:** Prüfungsergebnis Komponente 734, darin die zehn Jahre, bestätigt mit seinem Kürzel [V]. Hängt an Q7: Seit W12 stammt AEGIS aus 734. | — | Er will hinein und findet nichts. | Die Knöchel bluten, eine Wut ohne Erinnerung (Nyx). | Er weiß, was er verliert. | 13 |
 | 13 [G: Übergang 13/14] | seine eigene Zeile | das Fenster | Die Stimmen haben Namen; Selene: „Wenn sie auftaucht, ist es spät.“ | AEGIS sieht den Bug bewusst (B: IC Conscious). | **Er bestätigt nicht. Die RÜCKFRAGE bleibt offen, für immer** [G]. | — | Andere zahlen; er ist ein Fehler im System [G]. | 14 |
 
 ## Was die Tabelle prüfbar macht
