@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 26
-readings: 26
+sources: 27
+readings: 27
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
 gathered: "2026-09-17"
 ---
 
@@ -80,6 +80,10 @@ The audit writes neither `Korrespondenz` ^[kohaerenz-protokoll-audit-und-verifiz
 The coherence AEGIS strives for is a different one, and the audit says it is entropic: „Ein System, das nach puristischer Kohärenz durch Exklusion und Löschung strebt (), muss zwangsläufig massiv entropisch und hitzeintensiv sein“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L37]. The research mandate's truth-rotation gives the true coherence to Kael's chaos and psychological multiplicity: they „repräsentieren die wahre -Kohärenz, da sie das Fortbestehen von Mutual Information durch modulare Anpassung an eine extrem feindliche Umgebung garantieren“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83].
 
 The paragraph that opens with the Protokoll's argument about the silence at the end goes on: „In einem Zustand perfekter Kohärenz und ungestörter gegenseitiger Resonanz werden keine expliziten, zu übertragenden Datenmengen mehr benötigt, um die Verbindung aufrechtzuerhalten“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L185].
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — K1 and love as the ultimate coherent structure
+
+AEGIS „Glaubt, K1 (Kohärenz-Wächter) zu sein.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L91] The synthesis thesis: „Liebe ist die ultimative kohärente Struktur“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L53]
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
