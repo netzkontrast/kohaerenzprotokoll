@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 94 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 94 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 95 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 95 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -576,7 +576,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [The Coherence Protocol: A Definitive Guide to the Narrative Architecture](drive/the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md) | 2025-11-03 | 3,715 |  | Kollaps-Kernel 9, Kohärenz-Kernel 8, Lia 6, Trennungsprotokoll† 2, Rhys 7, Cache-Kohärenz† 2, Dual-Kernel-Theorie† 3, Isabelle 2 | Corrective Wavelet 2, Correspondence 5, decoherence 3, Isolation Objection 2, Worlds 7 |
 | [The Coherence Protocol: A Narrative Mosaic](drive/the-coherence-protocol-a-narrative-mosaic.md) | 2025-11-03 | 6,053 |  | Isabelle 4, Potentialmeer† 7, Rhys 9, Argus 4, Alex 5, Moonshine-Link 5, Lia 3, Nichts-Rauschen† 4 | Child EP 4, Core Trauma 4, Enforcer 5, THE GUARDIANS 6, Protector ANP 2 |
 | [The Coherence Protocol: A Proposal for a 39-Story Narrative Mosaic](drive/the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md) | 2025-11-03 | 5,100 |  | Rhys 14, Argus 6, Moros 5, Selene 5, Lex 15, Alex 3, Algorithmische Melancholie† 2, Kiko 6 | EP Collapse 2, SystemTheory 4, Corrective Wavelet 3, EP-Fight 2, Core World 4 |
-| [The Kohärenz Protokoll: A Definitive Guide to Narrative Architecture](drive/the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md) | 2025-11-03 | 2,961 |  | Kohärenz-Kernel 3, Trennungsprotokoll† 2, Rhys 6, Kollaps-Kernel 2, Lia 3, Algorithmische Melancholie† 2, Dual-Kernel-Theorie† 2, Guardians 4 | Core World 3, Exclusionary Order 2, Worlds 6, Self-Reference 2, Core Worlds 3 |
+| [The Kohärenz Protokoll: A Definitive Guide to Narrative Architecture](drive/the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md) | 2025-11-03 | 2,961 | **read** | Kohärenz-Kernel 3, Trennungsprotokoll† 2, Rhys 6, Kollaps-Kernel 2, Lia 3, Algorithmische Melancholie† 2, Dual-Kernel-Theorie† 2, Guardians 4 | Core World 3, Exclusionary Order 2, Worlds 6, Self-Reference 2, Core Worlds 3 |
 | [The "Kohärenz Protokoll" Writer's Bible: A Definitive Guide to the Narrative Architecture](drive/the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md) | 2025-11-03 | 3,966 |  | Kollaps-Kernel 6, Kohärenz-Kernel 6, Cache-Kohärenz† 3, Externe Ebene† 3, Dual-Kernel-Theorie† 5, Rhys 8, Trennungsprotokoll† 2, Lia 4 | Transcendence 4, Correspondence 9, Isolation Objection 3, SystemTheory 3, Corrective Wavelet 2 |
 | [Gravity as Narrative Metaphor for Reality](drive/gravity-as-narrative-metaphor-for-reality.md) | 2025-11-25 | 6,664 |  | DID 2, Entropie† 22, Emergenz† 2, Überwelt 3 | Brane 12, Wormhole 11, EPR 10, Witten 4, Spacetime 8 |
 | [Kapitel 1 Generierungsprozess](drive/kapitel-1-generierungsprozess.md) | 2025-11-25 | 5,418 |  | Negentropie 5, Nyx 8, Dual-Kernel-Theorie† 2, Juna 10, TSDP 3, Risse 15, Entropie 6, Überwelt 8 | Z-Fighting 13, Z-Buffer 5, Brane 5, Ergosphäre 4, Gamma 6 |

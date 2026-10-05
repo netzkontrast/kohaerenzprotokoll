@@ -1,0 +1,64 @@
+$ python3 scripts/read.py the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch --count "shall"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`shall` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#5]
+$ python3 scripts/read.py the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch --count "must"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`must` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#5]
+$ python3 scripts/read.py the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch --count "canonical"
+whole word, case-sensitive     3
+whole word, case-insensitive   7
+including compounds            3
+
+`canonical` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#3]
+$ python3 scripts/read.py the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch --count "Canonical"
+whole word, case-sensitive     4
+whole word, case-insensitive   7
+including compounds            4
+
+`Canonical` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#4]
+$ python3 scripts/read.py the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch --count "39"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`39` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#1]
+$ python3 scripts/read.py the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch --count "Hüter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Hüter` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0]
+$ python3 scripts/read.py the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kernwelt` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0]
+$ python3 scripts/read.py the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch --count "Guardian"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Guardian` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#4]
+$ python3 scripts/read.py the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Guardians` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#2]
+$ python3 scripts/read.py the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch --count "Juna/V"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Juna/V` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#5]
+stance_marker_count 17 = shall 5 + must 5 + canonical (case-insensitive) 7
+$ grep -c . lines: eleven alters (Kael Lex Alex Rhys Nyx Kiko Lia Isabelle Moros Selene Argus), counted by hand from L124-L134
+$ grep -o '\\\*' Sources/drive/the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md | wc -l
+198

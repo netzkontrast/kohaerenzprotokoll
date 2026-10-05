@@ -1,0 +1,100 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+- Kohärenz Protokoll
+- AEGIS
+- Kael
+- System Kael
+- Juna/V
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Guardians
+- Kernwelten
+- Core Worlds
+- Psycho-Architectures
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Konstrukt-Stadt
+- LogOS
+- Mnemosyne-Archipel
+- Resonanz-Landschaft
+- Mnemosyne
+- Cerberus-Labyrinth
+- Grenzfeste
+- Cerberus
+- Kairos-Potentialis
+- Kairos/Sophia
+- Risse
+- Riss
+- Protocol Ontology
+- Dual Kernel Theory
+- Collapse Kernel
+- Coherence Kernel
+- Coherons
+- Corrective Wavelet
+- correspondence check
+- quantum decoherence
+- Sea of Potentiality
+- Das Potentialmeer
+- Nichts Rauschen
+- Rauschen
+- Das Fundament
+- Foundation
+- strange attractor
+- informational void
+- Genesis-Krise
+- Ich-Fragmenten
+- algorithmic dismemberment
+- Trennungsprotokoll
+- Separation Protocol
+- Ursprungs-Ich
+- Component 734
+- Autonomous Entropic Gatekeeper
+- Coherence Theory of Truth
+- ANP-EP Phobia
+- Apparently Normal Parts
+- Emotional Parts
+- Moonshine-Link
+- Paraiyas
+- gnosis
+- episteme
+- living Gödel-Satz
+- algorithmic melancholy
+- Guardian's Dilemma
+- Wächter-Zwiespalt
+- functional multiplicity
+- Exclusionary Order
+- Emergent Order
+- Self-Referential Logic
+- Integrative Logic
+- Operational Closure
+- Correspondence-Based Truth
+- ontological autarky
+- Polyphonic Prose
+- Environmental Storytelling
+- Metafiction & The Reader's Protocol
+- Project Codex
+- Canonical Three-Act Structure
+
+## lens
+
+- Tertiary Structural Dissociation of Personality
+- TSDP
+- Internal Family Systems
+- IFS
+- Principle of Explosion
+- paraconsistent
+- dialetheic
+- chaos theory
+
+The document is English prose with German names in quotation marks and in brackets: Rauschen, Das Potentialmeer, Nichts Rauschen, Das Fundament, Wächter-Zwiespalt, Genesis-Krise, Ich-Fragmenten, Trennungsprotokoll, Ursprungs-Ich, Kernwelten. The subscripted K₀ and K₁ are written with subscripts. Core World headings are table cells with KW1 to KW4 and a clipped line break artefact. The document calls itself the single authoritative Project Codex and the single source of truth; recorded, not applied. Story 22 and Story 25 are named as evidence, and the 39 stories as a mosaic.
