@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
 gathered: "2026-09-17"
 ---
 
@@ -61,6 +61,10 @@ The master blueprint writes Sophia two ways. Kap 18 casts „Sophia (Guardian)�
 
 Kap 18 casts „Kael, Kairos & Sophia (Guardians).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L232] Kap 19 is headed „Sophias Angebot“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L242] and Kap 20 casts „Kael, Sophia, Juna (Präsenz).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L256]
 
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Sophia's integration by elimination, and a proposal to read it as AEGIS's corruption
+
+The Kohärenz-Check, item 1, reports that „Die Wächterin Sophia strebt Integration durch die“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L110] elimination of differences, which it sets against Selene's NP search, „Dies steht in direktem Widerspruch zu den Quellen“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L110]. Its correction proposal is that her approach „muss als korrumpierter Einfluss von AEGIS auf KW4 umgedeutet werden“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L114]. The table pairs KW4 with `Kairos`/`Sophia`.
+
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — SC-04's metacognition guardian
 
 SC-04 lists Sophia among the guardians: „Sophia (Metakognition)“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L166].
@@ -76,6 +80,10 @@ Sophia stands once, as `Kairos/Sophia` in F3's list: „LogOS, Mnemosyne, Cerber
 ## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — named only as discarded
 
 `Sophia` stands once, in Anhang B, among the discarded Wächter: „Kairos / Cerberus / Sophia (Wächter)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1345] The same line gives the outline's reason, „nur LogOS und Mnemosyne den Wächter-Dualismus bilden“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1345] It is the outline's decision about legacy material, recorded.
+
+## Where the sources differ
+
+- the research report finds Sophia's integration by elimination contradicting Selene's and proposes „muss als korrumpierter Einfluss von AEGIS auf KW4 umgedeutet werden“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L114].
 
 ## Open
 
