@@ -302,3 +302,16 @@ Stands as the manifest's own pairing, four worlds and five Guardians; recorded, 
 The Erasure-Pol appears as F3's open question: „Welcher der beiden ist der Lösch-Pol mit dem stärksten Reibungspotenzial?“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L498] (L498), the choice between `Cerberus` and `LogOS`. The Archipel of Mnemosyne is the setting of the climax: „Mnemosyne wird zum Setting für den Klimax.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L494] (L494). The acts are tied to worlds KW1, KW2–3 and KW4 in Appendix A (L596, L604, L612), without Guardian names.
 
 Where it stands in the record's own terms: it does not answer the pairing; it narrows the question to a single erasing pole, which the Kanon leaves open. The count was decided on 2026-09-24, after this document.
+
+## 2026-10-05 — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report
+
+**The editor's report gives one Guardian per Kern-Welt as the plot document has it: LogOS, Mnemosyne, Cerberus, Kairos and Sophia.**
+
+- KW1: „regiert von Guardian LogOS“ ^[scifi-roman-mit-ki-schreiben.md:L88]
+- KW2: „Die fluide Welt der Emotionen und Erinnerungen, überwacht von Mnemosyne“ ^[scifi-roman-mit-ki-schreiben.md:L89]
+- KW3: „Die paranoide Welt der Abwehr und Isolation, kontrolliert von Cerberus“ ^[scifi-roman-mit-ki-schreiben.md:L90]
+- KW4: „gehütet von Kairos und Sophia“ ^[scifi-roman-mit-ki-schreiben.md:L91]
+
+Table 2 repeats the pairing (L229–L232) and, as a reproduction of the plot document, says it rests on reference 1.
+
+The report decides nothing about Q5; it reports four pairs, with Kairos and Sophia sharing KW4, and does not mention an Erasure-Pol.
