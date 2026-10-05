@@ -1,0 +1,216 @@
+{
+  "document": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+  "drive_id": "1ZURfydgC6FIdwBs5uaMAqyLgi7GGve3XJciP_zaC294",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 16,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "daten": [
+      "Datenfluss",
+      "Datenkorruption",
+      "Datenmanipulation",
+      "Datenpakete",
+      "Datenstrukturen",
+      "Datenströme",
+      "Datenvisualisierung"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrastierend",
+      "Kontrollanspruch",
+      "Kontrollbedürfnis",
+      "Kontrolle",
+      "Kontrollzentrum"
+    ],
+    "infor": [
+      "Informationsdichte",
+      "Informationsfehler",
+      "Informationsfluss",
+      "Informationsomnipräsenz",
+      "Informationsverarbeitung"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionen",
+      "Emotionslosigkeit"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "grenz": [
+      "Grenzen",
+      "Grenzfeste",
+      "Grenzkontrolle"
+    ],
+    "inten": [
+      "Intensiv",
+      "Intensive",
+      "Intention"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokollen",
+      "Protokollfehler"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheitsmechanismen",
+      "Sicherheitsrisiko"
+    ],
+    "überw": [
+      "Überwachungsfehler",
+      "Überwelt",
+      "Überwindung"
+    ],
+    "alarm": [
+      "Alarmbereitschaft",
+      "Alarme"
+    ],
+    "ambiv": [
+      "Ambivalent",
+      "Ambivalenz"
+    ],
+    "bedro": [
+      "Bedrohlich",
+      "Bedrohung"
+    ],
+    "bekle": [
+      "Beklemmend",
+      "Beklemmung"
+    ],
+    "ebene": [
+      "Ebene",
+      "Ebenen"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen"
+    ],
+    "extre": [
+      "Extrem",
+      "Extreme"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlern"
+    ],
+    "funkt": [
+      "Funktionale",
+      "Funktionen"
+    ],
+    "gener": [
+      "Generatives",
+      "Generell"
+    ],
+    "hinde": [
+      "Hindernis",
+      "Hindernissen"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationspotenzial"
+    ],
+    "klick": [
+      "Klicken",
+      "Klicks"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzeptueller"
+    ],
+    "licht": [
+      "Licht",
+      "Lichtstrukturen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Form",
+      "Informationsfluss"
+    ],
+    [
+      "Form",
+      "Informationsdichte"
+    ],
+    [
+      "Form",
+      "Informationsfehler"
+    ],
+    [
+      "Form",
+      "Informationsomnipräsenz"
+    ],
+    [
+      "Form",
+      "Informationsverarbeitung"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Sinn",
+      "Sinnsuche"
+    ],
+    [
+      "Sinn",
+      "Sinnfindung"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Welt",
+      "Weltenkonzept"
+    ],
+    [
+      "Ebene",
+      "Ebenen"
+    ],
+    [
+      "Ebene",
+      "Realitätsebenen"
+    ],
+    [
+      "Licht",
+      "Lichtstrukturen"
+    ],
+    [
+      "Logik",
+      "Unlogik"
+    ],
+    [
+      "Nicht",
+      "Nichtlokalität"
+    ],
+    [
+      "Suche",
+      "Sinnsuche"
+    ],
+    [
+      "Anteil",
+      "Anteile"
+    ]
+  ]
+}

@@ -46,6 +46,44 @@ def stands(doc: Document, name: str) -> bool:
     return any(alone.search(quotes.normalise(line)) for line in doc.lines())
 
 
+# A contract tagged `heading-scoped` (ChapterCards, 2026-10-05) may name the chapter in the heading above
+# the quoted line rather than in the line itself: outlines write `### Chapter 8: …` and the fields beneath.
+# The model is not believed about which heading that is: code walks up from the placed line to the
+# nearest heading and asks whether it names the row's chapter, so a field cannot be moved to a neighbour.
+HEADING = re.compile(r"^\s*(#{1,6}\s|\*\*[^*].*\*\*\s*$)")
+
+
+def heading_scoped(template: Path) -> bool:
+    try:
+        text = template.read_text(encoding="utf-8")
+    except OSError:
+        return False
+    return bool(re.search(r"^tags:.*\bheading-scoped\b", text, re.M))
+
+
+def _plain(text: str) -> str:
+    return " ".join(re.sub(r"[*#\\_`]", " ", text).lower().split())
+
+
+def names_chapter(line: str, chapter: str) -> bool:
+    want = _plain(chapter)
+    return bool(want) and re.search(r"(?<!\w)" + re.escape(want) + r"(?![\w])", _plain(line)) is not None
+
+
+def under_heading(doc: Document, line: int, chapter: str) -> bool:
+    """Whether the placed line, or the nearest heading above it, names the chapter."""
+    rows = doc.lines()
+    index = line - doc.offset
+    if not 0 <= index < len(rows):
+        return False
+    if names_chapter(rows[index], chapter):
+        return True
+    for above in range(index - 1, -1, -1):
+        if HEADING.match(rows[above]):
+            return names_chapter(rows[above], chapter)
+    return False
+
+
 def digest(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
@@ -130,6 +168,7 @@ def verify(doc: Document, template: Path, envelope: dict) -> dict:
     if not isinstance(extractor, str) or not extractor.strip():
         raise ValueError("extractor/model identifier required")
     rows = candidates(envelope.get("data"))
+    scoped = heading_scoped(template)
     seen = set()
     output = []
     for item in rows:
@@ -143,7 +182,10 @@ def verify(doc: Document, template: Path, envelope: dict) -> dict:
         identifier = "claim:" + hashlib.sha256(signature.encode()).hexdigest()
         reason = ("joined or shortened quote" if re.search(r"\[.*?\]|…|\.\.\.", quote) else
                   "quote not placed" if not lines else "surface absent from document" if absent
-                  else "ambiguous quote: choose its passage" if len(lines) > 1 else None)
+                  else "ambiguous quote: choose its passage" if len(lines) > 1
+                  else "chapter is neither on the quoted line nor the heading above it"
+                  if scoped and item["kind"] == "relation_reading" and not under_heading(doc, lines[0], raw["source"])
+                  else None)
         status = "refused" if reason else "duplicate" if identifier in seen else "candidate"
         seen.add(identifier)
         output.append({"id": identifier, **item, "document": doc.slug, "template": template.stem,
@@ -248,6 +290,20 @@ def selftest() -> int:
                 checks.append(("run path escape refused", True))
         finally:
             ROOT = original_root
+        outline = p / "outline.md"
+        body = "### Kapitel 2: Die Flucht\n- Plot: Alpha flieht vor Beta.\n### Kapitel 3: Das Bleiben\n- Plot: Beta bleibt.\n"
+        outline.write_text("---\ntitle: Outline\n---\n" + body, encoding="utf-8")
+        odoc = Document("outline", "outline", "2026-10-05", "md", "", outline, body, 4)
+        scoped = p / "scoped.yaml"
+        scoped.write_text("tags: [chapters, heading-scoped]\n", encoding="utf-8")
+        def oenv(data, t=scoped):
+            return {"document": odoc.slug, "source_sha256": digest(outline), "template_sha256": digest(t),
+                    "extractor": "offline-fixture", "data": data}
+        card = {"source": "Kapitel 2", "target": "Alpha", "type": "who", "quote": "Alpha flieht vor Beta.", "stance": "asserts"}
+        checks.append(("a field under its chapter's heading is placed", verify(odoc, scoped, oenv({"items": [card]}))["candidates"] == 1))
+        checks.append(("a field moved to the next chapter is refused", verify(odoc, scoped, oenv({"items": [{**card, "source": "Kapitel 3"}]}))["refused"] == 1))
+        checks.append(("Kapitel 2 does not match a heading for Kapitel 23", not names_chapter("### Kapitel 23: X", "Kapitel 2")))
+        checks.append(("an unscoped contract keeps its old rule", verify(odoc, template, oenv({"items": [{**card, "source": "Kapitel 3"}]}, template))["candidates"] == 1))
         source.write_text(source.read_text() + "Alpha steuert Beta.\n", encoding="utf-8")
         doc = Document("fixture", "fixture", "2026-09-30", "md", "", source,
                        "Alpha steuert Beta.\nVielleicht schützt Alpha Beta.\nLex hält Alpha.\nAlpha steuert Beta.\n", 4)

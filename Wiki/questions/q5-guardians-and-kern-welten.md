@@ -347,3 +347,33 @@ In the record's terms the report pairs each Kernwelt with one name, two (`Kairos
 The methodology report: „a confrontation with the Guardian of KW1 (Logik)“ ^[ai-assisted-narrative-coherence.md:L801]. The scene outline names the same post as `LogOS`: „active resistance from the Guardian of KW1,“ ^[ai-assisted-narrative-coherence.md:L1322] `LogOS`, and the critique uses `LogOS` as the label of the world, „Kernwelt 1 (LogOS)“ ^[ai-assisted-narrative-coherence.md:L947]. For KW2 and KW3 the three-act blueprint says „actively manipulated and distorted by the Guardian Mnemosyne.“ ^[ai-assisted-narrative-coherence.md:L873] and „His struggle against the Guardian Cerberus's rigid security protocols is the external manifestation of his internal battle“ ^[ai-assisted-narrative-coherence.md:L874]. The world names vary by part: the concept document's table has `KW1: Logos-Prime`, the architecture analysis „KW1 (Konstrukt-Stadt/LogOS-Prime)“ ^[ai-assisted-narrative-coherence.md:L1725].
 
 It adds the two names of the KW1 Guardian (`Logik` in the methodology report, `LogOS` in the scene outline) to the question; Q5 stays open.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report
+
+**The research report pairs each of four Wächter with one Kernwelt and has them reside in the [[ueberwelt|Überwelt]].**
+
+„Wächter der Logik. Er bewacht die axiomatischen Grenzen (KW1) und scheitert ultimativ an Gödels Unvollständigkeitssatz.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L130] „Wächter des defensiven Bedrohungsmanagements (KW3).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L132] In the table: „Hier residieren die Wächter-Instanzen (Guardians) von AEGIS und lenken die Simulation.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L78]
+
+Stands: pairing by world, with residence in the Überwelt (L78, L130–L133).
+
+## 2026-10-05 — `kontext-outline`, 2025-05-03, the outline commission
+
+**The commission briefs a pairing: each of the first three worlds has one Guardian, the fourth two.**
+
+The commission's glossary lists the worlds with one guardian each, and the fourth with two: „Sterile, logikbasierte Welt. Guardian: LogOS.“ ^[kontext-outline.md:L30] „Chaotische, emotions-/erinnerungsbasierte Welt. Guardian: Mnemosyne.“ ^[kontext-outline.md:L31] „Verteidigungs-/angstbasierte Welt. Guardian: Cerberus.“ ^[kontext-outline.md:L32] „Kreativitäts-/potenzialbasierte Welt. Guardians: Kairos & Sophia.“ ^[kontext-outline.md:L33] The collective entry names the five: „AEGIS-Entitäten, die die KWs verwalten/kontrollieren“ ^[kontext-outline.md:L48]. The glossary is a basis for the author to refine, so this is the briefing's gloss.
+
+Where it stands: the pairing is briefed for an author to refine, not decided; the Erasure-Pol is not named.
+
+## 2026-10-05 — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept
+
+**The Guardian by world, in each section heading.**
+„Konstrukt-Stadt (Guardian: LogOS)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L19]; „Resonanz-Landschaft (Guardian: Mnemosyne)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L41]; „Grenzfeste (Guardian: Cerberus)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L63]; „Möglichkeits-Garten (Guardian: Kairos/Sophia)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L85]. The overview speaks of the Kern-Welten as „die Aspekte von Kaels Psyche repräsentieren“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17].
+The question stays open; this document pairs each Kern-Welt with its Guardian.
+
+## 2026-10-05 — `charaktere`, 2025-07-29, the character concept
+
+**The character concept pairs one Guardian with each Kernwelt and gives KW4 two.**
+
+„Jeder Guardian ist einer spezifischen Kernwelt zugeordnet“ ^[charaktere.md:L363] (L363). `LogOS` stands for KW1, `Mnemosyne` for KW2, `Cerberus` for KW3 (L365–L367), and for KW4: „Die Wächter der KW4 (Kairos-Potentialis), einer kreativitäts- und potenzialbasierten Welt“ ^[charaktere.md:L368], `Kairos & Sophia` (L368).
+
+Stands as four worlds with five named Guardians, two of them in KW4; recorded, not applied.

@@ -1,0 +1,131 @@
+{
+  "document": "romanstruktur-und-philosophische-einleitung",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "48a2b196e61104f529cff9d3bac8123a29c5d495971f1fe394976950b7c37e75",
+  "calls": 22,
+  "failed_calls": 0,
+  "seconds": 248.8,
+  "input_tokens": 97504,
+  "output_tokens": 32202,
+  "cost_usd": 0.5953,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 2044,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1872,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1320,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1695,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1740,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1685,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1819,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1659,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1984,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1893,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1811,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1790,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1754,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1816,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1728,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1964,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1994,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1647,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 2009,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 2007,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 2019,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1476,
+      "ok": true
+    }
+  ]
+}

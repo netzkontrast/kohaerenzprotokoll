@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,14 @@ Position: „(Fundamentales Konzept: Autopoiesis)“ ^[kohaerenz-protokoll.md:L3
 - Studies the system's own metrics: „die RIVE, die Recursive Integrity Validation Engine“ ^[kohaerenz-protokoll.md:L380]
 - Finds M behind the censorship: „primäre Quelle komplexer, irreduzibler Information“ ^[kohaerenz-protokoll.md:L394]
 - LogOS ends it: „Der Bunker, den er so sorgfältig errichtet hatte, war nicht stark genug gewesen.“ ^[kohaerenz-protokoll.md:L430]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Schatten des Beschützers
+
+Title: the commission titles the chapter „Der Schatten des Beschützers“ ^[kontext-outline.md:L98], placed in Act 1.
+
+- Theme: the commission's `Core Theme` is „Die Notwendigkeit der Abwehr“ ^[kontext-outline.md:L100]
+- Story: its `Plot Summary` plans „Identifiziert System als feindlich, Misstrauen, Abwehr“ ^[kontext-outline.md:L101]
+- Foci: `Kael Sys Focus` „Erster ANP-Konflikt (Lex vs. Alex)“ ^[kontext-outline.md:L102]; `AEGIS Focus` „Reagiert auf Widerstand/Abwehr (Eskalation?)“ ^[kontext-outline.md:L103]
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Illusion der Therapie
 
@@ -130,6 +138,14 @@ Position: Akt I; POV: „POV: Lex.“ ^[kohaerenz-protokoll-kapitel-outline-erst
 - Story: the outline plans „übernimmt der hochrationale Anteil Lex die Kontrolle über den Körper“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L87]
 - Story: the outline plans „stößt er jedoch auf ein Paradoxon, das er nicht berechnen kann“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L87]
 - Concepts: „Lex (Alter), ANP, Halteproblem“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L85]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Die Juna-Anomalie
+
+Title: „Die Juna-Anomalie“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L81] — „Akt I: Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L59]
+
+- Story: the dual-storyform outline plans „Kael begegnet einer flüchtigen Silhouette“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83]
+- Storyforms: `Storyform B` (`IC: Mind/Conscious`): „Juna übt Druck auf Kaels Bewusstsein aus“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L85]; `Storyform A` (`IC: Universe/Past`): „Sie ist die äußere, verlorene Wahrheit“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L86]
+- Scene and pacing: `Szenen-Keim`: „Ein Telefon in einer verlassenen Lobby“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L87]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

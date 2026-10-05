@@ -1,0 +1,500 @@
+{
+  "document": "roman-entwicklung-kohaerenz-protokoll-json",
+  "drive_id": "1Ioo7rdrW4nhE-P6E_oRDAZftIFR6KdGr9uXqiqMYMlk",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 123,
+    "decisions": 127,
+    "decided_by_lookup": 110,
+    "needs_judgement": 17
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        31,
+        39,
+        113,
+        117,
+        124,
+        128,
+        144,
+        153,
+        217
+      ],
+      "attribution": "",
+      "note": "the antagonist in its report, from kernel to Purge"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        93,
+        187
+      ],
+      "attribution": "",
+      "note": "Alex as Protektor-ANP"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        153
+      ],
+      "attribution": "",
+      "note": "the learning signpost of the Objective Story (7.1)"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        85,
+        165,
+        211
+      ],
+      "attribution": "",
+      "note": "eleven Alters in three groups, ANP, EP, ISH"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        95
+      ],
+      "attribution": "",
+      "note": "Argus as Meta-Beobachter-ANP"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        76,
+        132
+      ],
+      "attribution": "",
+      "note": "Cerberus as Wächter of KW3 and the labyrinth"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        29,
+        33
+      ],
+      "attribution": "",
+      "note": "section 2.1, the Dual-Kernel-Theorie"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        31,
+        145
+      ],
+      "attribution": "",
+      "note": "Emergenz in section 2.1 and section 9"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        31,
+        221
+      ],
+      "attribution": "",
+      "note": "Entropie in section 2.1"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        79,
+        217
+      ],
+      "attribution": "",
+      "note": "the table row, Köln, Februar 2026, and the break-through of Akt III"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        17,
+        57,
+        181,
+        217
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit in sections 1, 3.2, 7.3 and Akt III"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        78,
+        128,
+        131,
+        132,
+        133,
+        211
+      ],
+      "attribution": "",
+      "note": "section 6.2: four sub-algorithmic Wächter, each with a world"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        104,
+        211
+      ],
+      "attribution": "",
+      "note": "Isabelle as sexualised EP"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        31,
+        55,
+        79,
+        171,
+        172,
+        173,
+        181
+      ],
+      "attribution": "",
+      "note": "Juna as Impact Character and as partner"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        85,
+        157,
+        158,
+        205,
+        211,
+        217
+      ],
+      "attribution": "",
+      "note": "System Kael across sections 5, 7.2 and 8"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        77,
+        133
+      ],
+      "attribution": "",
+      "note": "`Kairos / Sophia` as Wächterin of KW4"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        67,
+        74,
+        75,
+        76,
+        77
+      ],
+      "attribution": "",
+      "note": "section 4: four Kernwelten, KW1 to KW4, with their logic and diction"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        102
+      ],
+      "attribution": "",
+      "note": "Kiko as child EP, freeze response"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Kernel in section 2.1"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kernel in section 2.1"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        74,
+        205
+      ],
+      "attribution": "",
+      "note": "KW1 in the table of section 4"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        92
+      ],
+      "attribution": "",
+      "note": "Lex as rational ANP"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        103,
+        187
+      ],
+      "attribution": "",
+      "note": "Lia as child EP, ambivalent attachment"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        130,
+        211
+      ],
+      "attribution": "",
+      "note": "LogOS, Wächter of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        75,
+        131,
+        211
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as Wächterin of KW2, and the archipelago"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        172,
+        185,
+        195
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link in 7.3 and 7.4"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        105,
+        211
+      ],
+      "attribution": "",
+      "note": "Moros as collapse EP"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        211
+      ],
+      "attribution": "",
+      "note": "Mosaik-Herz as Juna unmasked in Akt II"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        17,
+        85,
+        217
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the goal"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        78,
+        211,
+        217
+      ],
+      "attribution": "",
+      "note": "the Überwelt named Nexus; the ascent of Akt II"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        37,
+        39
+      ],
+      "attribution": "",
+      "note": "section 2.2"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        101,
+        187
+      ],
+      "attribution": "",
+      "note": "Nyx as fight-response EP"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        79,
+        217
+      ],
+      "attribution": "",
+      "note": "Juna as Kael's partner"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        37,
+        144
+      ],
+      "attribution": "",
+      "note": "section 2.2 and the Objective Story"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        94,
+        211
+      ],
+      "attribution": "",
+      "note": "Rhys as caring ANP"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        120
+      ],
+      "attribution": "",
+      "note": "`Glitches` in 6.1"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        205
+      ],
+      "attribution": "",
+      "note": "Sektor 04 in Akt I"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        109
+      ],
+      "attribution": "",
+      "note": "Selene as ISH, integrator"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        133
+      ],
+      "attribution": "",
+      "note": "`Kairos / Sophia` as Wächterin of KW4"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17,
+        83
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical frame of System Kael"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        78,
+        128,
+        207,
+        211
+      ],
+      "attribution": "",
+      "note": "the table row `Überwelt (Nexus)` and Akt II"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q6",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 31,
+      "decision": "reading",
+      "why": "section 2.1, read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 31,
+      "decision": "reading",
+      "why": "section 2.1, read on entropie"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 133,
+      "decision": "reading",
+      "why": "„Kairos / Sophia“, Wächterin of KW4 (L133)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 17,
+      "decision": "reading",
+      "why": "the goal of System Kael, read on multiplizitaet"
+    },
+    {
+      "page": "partnerin",
+      "surface": "Partnerin",
+      "line": 79,
+      "decision": "reading",
+      "why": "Juna as Kael's partner in the Externe Ebene (L79)"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 120,
+      "decision": "occurrence",
+      "why": "the word without a statement of what the glitches are; the page's own reading rests on L205's prose"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 133,
+      "decision": "reading",
+      "why": "„Kairos / Sophia“, Wächterin of KW4 (L133)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

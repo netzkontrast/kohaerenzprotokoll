@@ -208,3 +208,9 @@ Kapitel 8, „Dialog im Inneren Garten" ^[kohaerenz-protokoll.md:L861], names it
 **Position 1's side, in English — the whole fourth Kern-Welt, named twice over, and no place of that name inside it.**
 „Representing the potential for creativity and integration, Kernwelt 4, the Möglichkeits-Garten, is the psycho-architectural space of Juna/V's influence." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L77] Its heading gives the same identity: „Kernwelt 4 (KW4) - Kairos-Potentialis: The Garden of Emergent Possibilities" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L75].
 No sub-location of KW4 is named and no containment word stands beside the name (`Garten der Möglichkeiten`, `Bereich`, `Areal` 0, `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`). Position 1's side, by the world's own name. The conflict stays open.
+
+## 2026-10-05 — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept
+
+**KW4 as one of four [[kern-welten|Kern-Welten]] — position 1's side.**
+Section 4 is headed „Möglichkeits-Garten (Guardian: Kairos/Sophia)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L85], and the overview counts it among „vier Kern-Welten (KW1-4)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17]. It gives the garden its own laws and Risse toward other worlds: „Verbindungen zu anderen Welten werden instabil (Eindringen von Angst aus KW3, Emotionen aus KW2).“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L99]
+No place inside KW4 is named. Position 1's side, by the world's own name; the conflict stays open.

@@ -1,0 +1,103 @@
+# counts for 72 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Nichts Rauschen                   4 word     4 in   [15, 20, 421, 447]
+  Komponente 734                    7 word     7 in   [15, 267, 425, 434, 460]
+  AEGIS                           196 word   204 in   [15, 17, 19, 20, 21, 24]
+                                    4      as AEGIS-Überwelt
+                                    2      as AEGIS-Interface
+                                    1      as AEGIS-Paradoxons
+                                    1      as AEGIS-System
+  Echo                              6 word    12 in   [15, 18, 69, 72, 95, 219]
+                                    6      as Echos
+  Kohärenz Protokoll                2 word     3 in   [11, 15, 106]
+  Kael                            204 word   264 in   [15, 18, 21, 24, 30, 33]
+                                   57      as Kaels
+                                    2      as Kael-System
+                                    1      as Kael-Systems
+  Selene                           16 word    19 in   [18, 141, 144, 278, 281, 291]
+                                    3      as Selenes
+  Juna/V                           45 word    45 in   [15, 21, 24, 56, 154, 158]
+  Fehlausgerichtete Kohärenz        2 word     2 in   [19, 317]
+  Fehlausgerichteten Kohärenz       2 word     2 in   [267, 269]
+  Kernparadoxon                    10 word    11 in   [19, 52, 154, 193, 206, 267]
+                                    1      as Kernparadoxons
+  Überlebensparadoxon               1 word     1 in   [17]
+  Fundament                        16 word    25 in   [21, 173, 180, 186, 254, 330]
+                                    6      as Fundaments
+                                    3      as fundamentalen
+                                    2      as fundamentale
+                                    2      as fundamental
+  Überwelt                         27 word    32 in   [20, 154, 185, 193, 197, 198]
+                                    1      as Überwelt-Analyse
+  Konstrukt-Welt 1                  1 word     1 in   [30]
+  Logos-Prime                       6 word     6 in   [30, 34, 35, 48, 61, 122]
+  KW1                              15 word    15 in   [34, 35, 43, 48, 56, 61]
+  Konstrukt-Welt 2                  1 word     1 in   [82]
+  Mnemosyne-Archipel                7 word     7 in   [82, 87, 98, 111, 219, 224]
+  KW2                              16 word    16 in   [84, 85, 86, 87, 93, 98]
+  KW3                              12 word    12 in   [128, 130, 132, 133, 141, 304]
+  Cerberus-Labyrinth                5 word     5 in   [128, 133, 304, 309, 413]
+  KW4                              13 word    13 in   [185, 230, 234, 235, 236, 243]
+  Kairos-Potentialis                2 word     2 in   [230, 235]
+  Lex                              43 word    43 in   [30, 33, 43, 45, 46, 49]
+  Alex                             27 word    27 in   [56, 58, 59, 60, 61, 64]
+  Rhys                             30 word    30 in   [69, 71, 72, 73, 78, 82]
+  Argus                            20 word    20 in   [154, 157, 167, 170, 193, 196]
+  Kiko                             12 word    14 in   [82, 85, 93, 96, 106, 128]
+                                    2      as Kikos
+  Lia                               6 word     6 in   [93, 96, 106, 233, 374, 397]
+  Moros                             6 word     6 in   [82, 85, 93, 96, 106, 397]
+  Nyx                               5 word     5 in   [128, 131, 304, 408, 411]
+  Guardian LogOS                    1 word     1 in   [43]
+  LogOS                            21 word    21 in   [43, 45, 47, 48, 49, 51]
+                                    6      as Logos-Prime
+  Mnemosyne                        22 word    30 in   [82, 86, 87, 88, 91, 93]
+                                    7      as Mnemosyne-Archipel
+                                    1      as Mnemosynes
+  Cerberus                         17 word    22 in   [128, 130, 132, 133, 134, 136]
+                                    5      as Cerberus-Labyrinth
+  Kairos                            3 word     5 in   [230, 234, 235, 236]
+                                    2      as Kairos-Potentialis
+  Sophia                            3 word     3 in   [230, 234, 236]
+  Guardians                        16 word    16 in   [49, 88, 99, 134, 193, 225]
+  Host                              6 word     6 in   [30, 33, 82, 85, 106, 120]
+  Apparently Normal Parts           1 word     1 in   [106]
+  Emotional Parts                   1 word     1 in   [106]
+  ANPs                             14 word    14 in   [49, 59, 69, 72, 73, 93]
+  EPs                              18 word    18 in   [69, 72, 73, 85, 93, 96]
+  TSDP                              2 word     2 in   [106, 108]
+  Glitches                          7 word     7 in   [30, 34, 36, 43, 82, 154]
+  Riss                             11 word    21 in   [154, 157, 158, 159, 160, 162]
+                                    5      as Risses
+                                    4      as Risse
+                                    1      as Riss-Manifestation
+  Meta-Beobachter                   6 word     7 in   [154, 157, 167, 170, 193, 243]
+                                    1      as Meta-Beobachter-Anteil
+  Inneres Refugium                  1 word     1 in   [74]
+  Inneres Konferenzzimmer           1 word     1 in   [146]
+  Inneres Hauptquartier             1 word     1 in   [348]
+  Sicherer Ort                      1 word     1 in   [146]
+  Ko-Bewusstsein                    3 word     3 in   [141, 144, 502]
+  funktionaler Multiplizität        2 word     2 in   [141, 501]
+  Funktionale Multiplizität         1 word     1 in   [513]
+  Switches                          2 word     2 in   [106, 109]
+  Fronting                          1 word     1 in   [109]
+  Archäologie der Seele             1 word     1 in   [219]
+  Externen Ebene                    3 word     3 in   [256, 259, 335]
+  Kael Integration                 36 word    36 in   [21, 36, 49, 62, 75, 88]
+  AEGIS Paradoxon                  33 word    33 in   [21, 36, 49, 62, 75, 88]
+  Wendepunkt                        3 word     3 in   [154, 188, 351]
+  Kernprozessor                     1 word     1 in   [322]
+  Quellcode-Matrix                  1 word     1 in   [426]
+  Bewusstseinszentrum               1 word     1 in   [426]
+  Task Force                        1 word     1 in   [183]
+  Schutz-Cluster                    1 word     1 in   [15]
+  Gaslighting                       7 word     8 in   [117, 121, 123, 125, 128, 171]
+                                    1      as Gaslighting-Techniken
+  Panoptismus                       1 word     1 in   [34]
+  Zweite-Ordnung-Kybernetik         3 word     3 in   [243, 245, 250]
+  Heroine's Journey                 1 word     1 in   [26]
+  Hero's Journey                    1 word     1 in   [354]

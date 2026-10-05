@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 31
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
+sources: 33
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C12", "C10"]
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,15 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“, Ende ^[mon
 
 - Plot: „Ein letztes, eindringliches Bild oder eine Szene, die die zentralen Themen des Romans“ ^[monstergruppe-primzahlen-plot-blueprint.md:L416] — „Kohärenz, Realität, Bewusstsein, die Grenzen der Logik“ ^[monstergruppe-primzahlen-plot-blueprint.md:L416] — „widerspiegelt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L416].
 - Establishes: „ein Gefühl von Abschluss, aber auch von der unendlichen Komplexität der Realität“ ^[monstergruppe-primzahlen-plot-blueprint.md:L416].
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Leben in Resonanz: Der neue Status Quo
+
+Title: the commission titles the chapter „Leben in Resonanz: Der neue Status Quo“ ^[kontext-outline.md:L497], placed in Act 3. Position: `Setting` „Alltag neue Realität“ ^[kontext-outline.md:L502]
+
+- Theme: the commission's `Core Theme` is „Funktionale Multiplizität als Lebensform; Akzeptanz und Frieden?; Offene Fragen“ ^[kontext-outline.md:L499]
+- Story: its `Plot Summary` plans „Ende kann offen bleiben bzgl. Mysterien“ ^[kontext-outline.md:L500]
+- Foci: `Kael Sys Focus` „Stabiler Zustand funktionale Multiplizität“ ^[kontext-outline.md:L501]
+- Notes: „Epilog/Denouement; And the Adventure Continues...?“ ^[kontext-outline.md:L504]
 
 ## Reading — `outline`, 2025-07-30, the outline — Das Offene Protokoll: Funktionale Multiplizität & Kontinuum / Das offene Protokoll / Freiheit zu Sein
 
@@ -155,6 +164,14 @@ Position: Akt III; POV: „POV: Kael/M (als kollektives Wir).“ ^[kohaerenz-pro
 - Story: the outline plans „Kael und Juna verschmelzen auf metaphysischer Ebene zu einem resonierenden Wir-Geflecht im Staub von Core World 1.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1176]
 - Concepts: „Das Mosaik-Herz, Ouroboros“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1174]
 - Ouroboros marker, tying the chapter back to Kap 1: „Der beißende Ozon-Geruch und die flirrende Temperatur.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1200]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Ouroboros — Die Inversion des Ozons
+
+Title: „Ouroboros — Die Inversion des Ozons“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L381] — „Akt III: Die existenzielle Fusion (Kapitel 27–39)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L281]; „Pivot-Kapitel“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L383]
+
+- Story: the dual-storyform outline plans „Das Finale dekonstruiert die Subjekt-Objekt-Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L383]
+- Storyforms: `Storyform A` (`MC: Mind/Conscious`): „Ein kohärentes, polyphones“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L385]
+- Scene and pacing: `Szenen-Keim`: „Kael schließt die Augen und hört das Flüstern von dreizehn Stimmen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L386]; `Pacing`: „Friedlich, abgeschlossen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L387]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,0 +1,116 @@
+{
+  "document": "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+  "drive_id": "1AErnii4wzYYDgI1aVOND8mqsMMNTDK5fDjFeA12DEvw",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 88,
+    "decisions": 96,
+    "decided_by_lookup": 69,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        518,
+        620,
+        642
+      ],
+      "attribution": "",
+      "note": "Chapter 29's two hedged branches and the three outcomes of Chapter 35 that depend on them"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        346,
+        644
+      ],
+      "attribution": "",
+      "note": "Juna/V as neither AI nor human in Chapter 19, and a hedged absence in Chapter 36"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "the original self become a numbered component, and the protocol as its shattering"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 26,
+      "decision": "reading",
+      "why": "light pass: the same plan as documents 88, 89 and 91, whose reading on this page holds the same"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 112,
+      "decision": "reading",
+      "why": "light pass: the same plan as documents 88, 89 and 91, whose reading on this page holds the same"
+    },
+    {
+      "page": "grenzfeste",
+      "surface": "Grenzfeste",
+      "line": 170,
+      "decision": "reading",
+      "why": "light pass: the same plan as documents 88, 89 and 91, whose reading on this page holds the same"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 25,
+      "decision": "reading",
+      "why": "light pass: the same plan as documents 88, 89 and 91, whose reading on this page holds the same"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 19,
+      "decision": "occurrence",
+      "why": "the prologue's `Kohärenz Protokoll`, a title (J9)"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "surface": "Resonanz-Landschaft",
+      "line": 102,
+      "decision": "reading",
+      "why": "light pass: the same plan as documents 88, 89 and 91, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -37,7 +37,7 @@ Every contract run by model and by the category of its source — written by `sc
 | `ChapterBeats` | plot-outline | sonnet | 1 (0) | 0 | 21 | 0.0092 | 0 | — |
 | `ChapterBeats` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0498 | 0 | — |
 | `ChapterCards` | plot-outline | haiku | 1 (0) | 0 | 36 | 0.0033 | 15 | 13 (87%) |
-| `ChapterCards` | plot-outline | sonnet | 1 (0) | 0 | 6 | 0.0269 | 0 | — |
+| `ChapterCards` | plot-outline | sonnet | 6 (0) | 1 | 433 | 0.0069 | 0 | — |
 | `ChapterCards` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0472 | 0 | — |
 | `DiegeticTerms` | charaktere | haiku | 1 (0) | 0 | 5 | 0.0267 | 5 | 1 (20%) |
 | `DiegeticTerms` | plot-outline | sonnet | 1 (0) | 0 | 0 | — | 0 | — |
@@ -86,7 +86,7 @@ Every contract run by model and by the category of its source — written by `sc
 | `StructureBeats` | plot-outline | haiku | 1 (0) | 0 | 11 | 0.0090 | 12 | 12 (100%) |
 | `StructureBeats` | plot-outline | sonnet | 1 (0) | 0 | 7 | 0.0221 | 0 | — |
 | `StructureBeats` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0527 | 0 | — |
-| `TermCensus` | plot-outline | sonnet | 1 (0) | 0 | 0 | — | 0 | — |
+| `TermCensus` | plot-outline | sonnet | 2 (0) | 0 | 0 | — | 0 | — |
 | `TermCensus` | theorie-logik | sonnet | 1 (0) | 0 | 0 | — | 0 | — |
 | `TermContrasts` | charaktere | haiku | 1 (0) | 0 | 14 | 0.0053 | 0 | — |
 | `TermContrasts` | kernkonzept | haiku | 6 (0) | 0 | 1245 | 0.0038 | 9 | 5 (56%) |

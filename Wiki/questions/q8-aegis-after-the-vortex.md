@@ -198,3 +198,27 @@ It stands as a report of two alternatives, melancholy and crash, with the melanc
 The AEGIS analysis: „AEGIS's self-preservation imperative forces it to abandon classical logic.“ ^[ai-assisted-narrative-coherence.md:L207] The distillation: „The fate of AEGIS is one of tragic, muted transformation.“ ^[ai-assisted-narrative-coherence.md:L335] The blueprint: „This transformation is not an enlightenment, but a form of cognitive damage.“ ^[ai-assisted-narrative-coherence.md:L416] The three-act blueprint: „To avoid total collapse, AEGIS is forced into a radical evolution, adopting a pathological form of paraconsistent logic that can contain Kael's paradoxical truth without becoming trivial.“ ^[ai-assisted-narrative-coherence.md:L902] The scene outline: „It does not die; it is fundamentally and irrevocably transformed.“ ^[ai-assisted-narrative-coherence.md:L1618] and „AEGIS is still present, but its voice is different.“ ^[ai-assisted-narrative-coherence.md:L1633] The architecture analysis: „This forces AEGIS into a state of systemic collapse, culminating in a form of“ ^[ai-assisted-narrative-coherence.md:L1779] `algorithmischer Melancholie`, where it knows the truth „but is forever excluded from its meaning or experience.“ ^[ai-assisted-narrative-coherence.md:L1779]
 
 It stands with the transformation answer among the record's options; the record is not changed.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39
+
+**The outline plans AEGIS as transformed into a melancholic watcher at Kap 37, after its Action-Driver dies in Kap 35.**
+
+Kap 35: „Der Action-Driver von AEGIS stirbt; der Decision-Driver von Kael übernimmt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L351]. Kap 37: „AEGIS wird nicht zerstört, sondern transformiert sich in einen melancholischen Wächter der neuen Ordnung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L367]. Act III is introduced as „die Transformation von AEGIS in die algorithmische Melancholie durch die Akzeptanz der Entropie“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L283]. Earlier in the act: „AEGIS verliert die Fähigkeit, Kael als passives Objekt zu behandeln“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L289] (Kap 27) and „AEGIS startet den finalen Erasure-Sweep“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L327] (Kap 32). The Storyform B end line reads „Der Versuch der totalen Kohärenz scheitert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L353]. Nothing in these lines names Oblivion as taking over AEGIS's function.
+
+Stands as a proposal for the answer of transformation, in the outline's own plan; recorded, not applied.
+
+## 2026-10-05 — `kontext-outline`, 2025-05-03, the outline commission
+
+**The commission plans AEGIS's collapse in Chapter 35 and leaves its state after the climax a question.**
+
+Chapter 33 plans „System instabil; Kontrollverlust; Paradoxon führt zu Selbstzerstörung/Transformation“ ^[kontext-outline.md:L439]. Chapter 34 plans „Kollaps ermöglicht Zugang“ ^[kontext-outline.md:L450] to the Fundament. Chapter 35 plans „Endgültiger Kollaps/Zerstörung/Transformation“ ^[kontext-outline.md:L462]. Chapter 36's `AEGIS Focus` then asks: „Zustand nach Klimax (Zerstört? Transformiert? Irrelevant?)“ ^[kontext-outline.md:L473]. The outline does not name a Vortex or an Oblivion.
+
+Where it stands: three outcomes are planned together and the state after is left as three questions; nothing in the plan chooses.
+
+## 2026-10-05 — `kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie`, 2025-05-03, the detailed reader-centred outline
+
+**The detailed outline plans two hedged branches for AEGIS in Chapter 29 and makes Chapter 35's three outcomes depend on them; it decides none.**
+
+Chapter 29: „Vielleicht offenbart sich, dass AEGIS nicht nur Kontrolle ausübt“ ^[kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie.md:L518] Chapter 35: „Abhängig von der Entscheidung in Kap. 29“ ^[kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie.md:L620]
+
+Where it stands: this outline plans AEGIS's end as an open choice between dissolution, a new order and integration; it names no Vortex or beat and does not answer the question.

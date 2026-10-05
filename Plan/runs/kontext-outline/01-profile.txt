@@ -1,0 +1,14 @@
+# kontext-outline
+  lines                505  (frontmatter ends at 9)
+  body words           4661
+  headings             40   bold-only lines 6
+  table rows           0   code fences 0
+  question marks       88
+  backslash escapes    80
+  typographic marks    34   ascii quotes 32
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    44
+  repeated labels      Core Theme x40, Kael Sys Focus x40, Plot Summary x40, Setting x40, AEGIS Focus x37
+  longest line         1030 chars
+

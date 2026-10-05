@@ -364,6 +364,14 @@ Kap 3 is headed „Die Anomalie Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.
 
 Stands as a plan of 2026-02-25 with Juna first in Kap 3 and physically in Kap 38, recorded, not applied.
 
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39
+
+**The outline puts Juna in a chapter first at Kap 3, `Die Juna-Anomalie`.**
+
+Kap 3: „Kael begegnet einer flüchtigen Silhouette, die vom System als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83] „Syntaxfehler“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83] classified: „Es ist Juna.“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83]. The essay sections name her earlier, but not in a chapter.
+
+Stands as an outline that places Juna's first appearance in Kap 3; recorded, not applied.
+
 ## 2026-10-05 — decided by the author: Juna follows her signposts
 
 Asked *Wann und wie tritt Juna auf?* with the options of [W9](../../Plan/weichen/w9-juna.md), after
@@ -372,7 +380,6 @@ influence-character signposts in Storyform A (Past → Progress → Present → 
 appears in remembered scenes before the call (Kap 4, 11), in Akt II her life and the silence go on (Kap 17, 25), and
 the **first direct encounter in the present is in Akt III, Kap 32**; the Vortex (Kap 36, 38) holds their future.
 
-**What this decides:** the chapter of the first direct appearance in the present. Kap 33 (the character bible) and
-Kap 38 (the outline) stay on this record as what those documents said, dated, and are no longer the arrangement. That
+**What this decides:** the chapter of the first direct appearance in the present. Kap 33 (the character bible),
+Kap 38 (the outline) and Kap 3 (the dual-storyform outline of 2026-04-30) stay on this record as what those documents said, dated, and are no longer the arrangement. That
 Juna appears earlier in remembered scenes and speaks is W0's answer, not a source's.
-

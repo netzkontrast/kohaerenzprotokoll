@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,15 @@ Title: „Kollidierende Realitäten“ ^[monstergruppe-primzahlen-plot-blueprint
 Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
 
 - Plot: „Der Höhepunkt der Konfrontation.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318] „Kael (verkörpert M-Integration) und AEGIS (verkörpert reduktionistische Kontrolle) treffen direkt aufeinander“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318] — „ein Aufeinanderprallen inkompatibler Seinsweisen und Logiken.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Das Paradox der Toleranz: Ethisches Dilemma
+
+Title: the commission titles the chapter „Das Paradox der Toleranz: Ethisches Dilemma“ ^[kontext-outline.md:L391], placed in Act 3. Position: `Setting` „Moment der Reflexion inmitten des Konflikts“ ^[kontext-outline.md:L397]
+
+- Theme: the commission's `Core Theme` is „Verantwortung für Konsequenzen; Zerstörung vs. Transformation“ ^[kontext-outline.md:L393]
+- Story: its `Plot Summary` plans „AEGIS stellt Kael nach Sieg über LogOS vor ethisches Dilemma/paradoxe Wahl“ ^[kontext-outline.md:L394]
+- Foci: `Kael Sys Focus` „Selene als ethischer Kompass?“ ^[kontext-outline.md:L395]; `AEGIS Focus` „Stellt Kael vor schwierige Wahl; Versuch moralischer Kompromittierung“ ^[kontext-outline.md:L396]
+- Notes: „Paradox der Toleranz (Popper)“ ^[kontext-outline.md:L399]
 
 ## Reading — `outline`, 2025-07-30, the outline — Das Herz des Systems: AEGIS' Kernlogik offenbart / Die Versuchung der Ordnung
 
@@ -115,6 +124,14 @@ Position: Akt III; POV: „POV: Kael (geführt von Juna).“ ^[kohaerenz-protoko
 
 - Story: the outline plans „Er präsentiert sich als lebender Gödel-Satz: Eine Entität, die zweifelsfrei innerhalb der AEGIS-Parameter existiert, deren Kohärenz aber von der Maschine nicht bewiesen oder berechnet werden kann.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L858]
 - Concepts: „Gödel-Gambit, Gödel-Eigenschaft“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L856]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Alles-oder-Nichts
+
+Title: „Alles-oder-Nichts“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L301] — „Akt III: Die existenzielle Fusion (Kapitel 27–39)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L281]
+
+- Story: the dual-storyform outline plans „AEGIS zieht alle verbleibenden Ressourcen im Mnemosyne-Zentrum zusammen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L303]
+- Storyforms: `Storyform B` (`RS: Physics/Doing`): „Massive Interferenz der AEGIS-Signale“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L305]; `Storyform A` (`RS: Psychology/Becoming`): „Der Moonshine-Link zwischen Kael und Juna wird unzerstörbar“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L306]
+- Scene and pacing: `Pacing`: „Fokussiert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L307]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

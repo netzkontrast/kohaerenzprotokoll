@@ -1,0 +1,131 @@
+{
+  "document": "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "12d090564441167f8b381aadf1f176bc2d11f3f804dd771eb494877238a30160",
+  "calls": 22,
+  "failed_calls": 0,
+  "seconds": 266.3,
+  "input_tokens": 97283,
+  "output_tokens": 35254,
+  "cost_usd": 0.625,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1441,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1190,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1930,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1443,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1540,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1442,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1531,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 2025,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1971,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1631,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 2006,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1971,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1767,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1956,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1843,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1911,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1919,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1802,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1104,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1947,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1983,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 387,
+      "ok": true
+    }
+  ]
+}

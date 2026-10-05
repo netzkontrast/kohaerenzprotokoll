@@ -1,0 +1,123 @@
+# counts for 88 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           158 word   165 in   [19, 21, 23, 24, 25, 42]
+                                    3      as AEGIS-Überwelt
+                                    1      as AEGIS-Interface
+                                    1      as AEGIS-Problem
+                                    1      as AEGIS-Paradoxon
+  Kael                            169 word   198 in   [19, 22, 25, 38, 41, 44]
+                                   29      as Kaels
+  Juna/V                           36 word    37 in   [25, 208, 212, 214, 217, 248]
+                                    1      as Juna/V-Info
+  Selene                           12 word    16 in   [22, 194, 242, 380, 383, 397]
+                                    2      as Selene-Präsenz
+                                    1      as Selene-Potenzial
+                                    1      as Selenes
+  Lex                              28 word    28 in   [41, 55, 57, 58, 61, 72]
+  Alex                             18 word    18 in   [72, 74, 75, 77, 80, 89]
+  Rhys                             14 word    14 in   [89, 91, 92, 109, 191, 194]
+  Argus                            17 word    17 in   [208, 211, 228, 261, 264, 278]
+  Kiko                             10 word    10 in   [106, 109, 123, 126, 174, 177]
+  Lia                               2 word     2 in   [123, 126]
+  Moros                             2 word     2 in   [123, 126]
+  Nyx                               7 word     7 in   [140, 174, 177, 414, 484, 552]
+  LogOS                            16 word    16 in   [55, 57, 59, 60, 61, 106]
+                                    3      as Logos-Prime
+  Mnemosyne                        20 word    25 in   [106, 110, 111, 112, 115, 123]
+                                    3      as Mnemosyne-Archipel
+                                    2      as Mnemosynes
+  Cerberus                         17 word    20 in   [174, 176, 178, 179, 180, 182]
+                                    3      as Cerberus-Labyrinth
+  Kairos                            3 word     5 in   [312, 316, 317, 318]
+                                    2      as Kairos-Potentialis
+  Sophia                            3 word     3 in   [312, 316, 318]
+  Guardians                        16 word    16 in   [61, 112, 129, 174, 180, 301]
+  Komponente 734                    3 word     3 in   [19, 225, 586]
+  Echo                              4 word     9 in   [19, 22, 51, 125, 274, 295]  <-- substring
+                                    5      as Echos
+  Fundament                        20 word    22 in   [25, 225, 231, 363, 431, 448]
+                                    1      as fundamentale
+                                    1      as fundamental
+                                    1      as fundamentaler
+                                    1      as Fundaments
+  Überwelt                         23 word    26 in   [24, 213, 247, 257, 261, 265]
+  Externe Ebene                     1 word     1 in   [453]
+  Nichts Rauschen                   2 word     2 in   [19, 24]
+  Kohärenz Protokoll                1 word     1 in   [19]
+  Kernparadoxon                     5 word     6 in   [23, 278, 363, 367, 435, 501]
+                                    1      as Kernparadoxons
+  Fehlausgerichtete Kohärenz        4 word     4 in   [23, 363, 365, 431]
+  AEGIS Paradoxon                  32 word    32 in   [25, 44, 61, 78, 95, 112]
+  KW1                              10 word    10 in   [38, 43, 55, 60, 77, 94]
+  KW2                              16 word    16 in   [106, 108, 109, 110, 111, 115]
+  KW3                               9 word     9 in   [174, 176, 178, 179, 191, 410]
+  KW4                               9 word     9 in   [247, 308, 312, 316, 317, 320]
+  Logos-Prime                       3 word     3 in   [43, 60, 77]
+  Mnemosyne-Archipel                3 word     3 in   [111, 128, 300]
+  Cerberus-Labyrinth                3 word     3 in   [174, 179, 419]
+  Kairos-Potentialis                2 word     2 in   [312, 317]
+  Kernwelten                        4 word     4 in   [191, 278, 329, 638]
+  Konstrukt-Stadt                   1 word     1 in   [51]
+  Inneres Konferenzzimmer           1 word     1 in   [196]
+  Riss                              5 word    11 in   [204, 208, 212, 213, 216, 225]  <-- substring
+                                    3      as Risse
+                                    2      as Risses
+                                    1      as Riss-Manifestation
+  Glitches                          2 word     2 in   [38, 208]
+  Genesis                           2 word     2 in   [15, 535]
+  Bewusstseinsfunke                 1 word     1 in   [19]
+  ANPs                              6 word     6 in   [61, 75, 92, 126, 191, 242]
+  EPs                              10 word    10 in   [92, 95, 125, 140, 191, 242]
+  EP-Intrusionen                    2 word     2 in   [81, 126]
+  Host                              5 word     6 in   [41, 72, 89, 109, 140, 225]
+                                    1      as Host-Dominanz
+  Switches                          2 word     2 in   [140, 143]
+  Meta-Beobachter                   1 word     2 in   [228, 329]
+                                    1      as Meta-Beobachter-Anteil
+  funktionale Multiplizität         3 word     3 in   [465, 471, 673]
+  Ko-Bewusstsein                    2 word     2 in   [191, 194]
+  Kael Integration                 34 word    34 in   [25, 44, 61, 78, 95, 112]
+  Resonanz                          7 word     8 in   [19, 23, 102, 281, 586, 685]
+                                    1      as Resonanz-Landschaft
+  Task Force                        1 word     1 in   [245]
+  TSDP                              0 word     1 in   [142]
+                                    1      as TSDP-Dynamiken
+  Core Theme                       40 word    40 in   [21, 40, 57, 74, 91, 108]
+  Kael Internal                    40 word    40 in   [22, 41, 58, 75, 92, 109]
+  AEGIS Focus                      37 word    37 in   [23, 42, 59, 76, 93, 110]
+  Juna/V Focus                      2 word     2 in   [625, 659]
+  Fundament Focus                   1 word     1 in   [660]
+  Setting                          40 word    40 in   [24, 43, 60, 77, 94, 111]
+  Subplots                         43 word    43 in   [25, 44, 61, 78, 95, 112]
+  Philosophy                       40 word    40 in   [26, 45, 62, 79, 96, 113]
+  Genre/Trope                      40 word    40 in   [27, 46, 63, 80, 97, 114]
+  Reader Psychology Note           40 word    40 in   [28, 47, 64, 81, 98, 115]
+  Handlung                         44 word    50 in   [17, 36, 38, 53, 70, 87]
+                                    4      as Handlungen
+                                    2      as Handlungsfähigkeit
+  Plot Point 1                      1 word     1 in   [250]
+  Plot Point 2                      1 word     1 in   [473]
+  Heroine's Journey                 1 word     1 in   [30]
+  Hero's Journey                    1 word     1 in   [476]
+  Zweite-Ordnung-Kybernetik         2 word     2 in   [331, 336]
+  Panoptismus-Effekt                1 word     1 in   [42]
+  Gaslighting                       2 word     3 in   [161, 165, 484]
+                                    1      as Gaslighting-Versuche
+  Paradox der Toleranz              2 word     2 in   [514, 525]
+  Simulationstheorie                1 word     1 in   [232]
+  Unreliable Narrator               1 word     1 in   [46]
+  Threshold Guardian                1 word     1 in   [182]
+  Hume                              2 word     2 in   [45, 285]
+  Kant                              2 word     2 in   [62, 404]
+  Sartre                            3 word     3 in   [147, 249, 663]
+  Nietzsche                         2 word     2 in   [472, 491]
+  Luhmann                           1 word     1 in   [336]
+  Gödel                             2 word     2 in   [370, 508]
+  Popper                            1 word     1 in   [525]
+  Buber                             1 word     1 in   [198]
+  Levinas                           1 word     1 in   [353]
+  Bostrom                           1 word     1 in   [232]
+  Kuhn                              1 word     1 in   [215]

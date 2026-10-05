@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 8
-readings: 7
+sources: 9
+readings: 8
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 gathered: "2026-09-16"
 ---
 
@@ -96,3 +96,6 @@ Kap 37 of the outline of 2026-05-01: „Inseln der Negentropie entstehen um ihn�
 ## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — a zero-entropy enclave in Kap 12 and islands of order in Kap 37
 
 Kap 12 lists it among its concepts: „Negentropie, Der Jetzt-Raum.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L343] The beat has AEGIS scan the enclave and find „Der Ort weist extrem hohe Kohärenz, aber null Entropie auf.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L345] In Kap 37 the plan has order grow around Kael: „entstehen um ihn herum Inseln der Negentropie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1120] The run's own reflection in Anhang D says the pairing with Embodiment structures chapters 10 to 13: „überhaupt erst sinnvoll strukturiert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1377]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — Negentropie as Kael's state in Kap 37
+Kap 37, `Der Klimax — Zielkohärenz`, plans that the system Kael reaches „einen Zustand psychischer Negentropie“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L367]; the same line plans that AEGIS „AEGIS wird nicht zerstört, sondern transformiert sich in einen melancholischen Wächter der neuen Ordnung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L367].

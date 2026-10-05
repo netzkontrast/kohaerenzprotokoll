@@ -1,0 +1,1937 @@
+{
+  "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "input_rows": 80,
+  "candidates": 69,
+  "refused": 11,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:f4a5ffafedf92ff0f4bdcbedeb70731a8aad13c08d01ffcc4524f446e52a7877",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 5",
+        "target": "der falsche Erfolg",
+        "type": "falsehood",
+        "quote": "Beförderung Kap 5, der falsche Erfolg",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        52
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:122518665640a6184912a8888bf3eff4d8e95bd92392615daa98f9c29a7c04d9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "2 — Das Gegenregister",
+        "target": "ein zweites, privates Protokoll zu führen",
+        "type": "want",
+        "quote": "Kael beginnt — ohne es je zu begründen, die Amnesie wird nie erwähnt \\[K\\] — ein zweites, privates Protokoll zu führen",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d5f6d9a16038f0367e7d26f7efcf83fe689f63a5fe00f58e582ab3c9c3331ad4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "3 — Fundsachen aus einer Stadt ohne Namen",
+        "target": "sammelt die Fundsachen in einer Kiste",
+        "type": "want",
+        "quote": "Kael sammelt die Fundsachen in einer Kiste",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:873069f33b187718933657f47e586b50928af21f4e7046ac0aa05d37065cc751",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "3 — Fundsachen aus einer Stadt ohne Namen",
+        "target": "der erste Verlust, der wehtut",
+        "type": "cost",
+        "quote": "die Kiste wird in Akt II Ziel eines Wartungsfensters (Idee 5): der erste Verlust, der wehtut",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dfc4373e752c2270903995b03436fc1c7c45660fd7d3aa735d7b488e6c560af8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11",
+        "target": "Mosaik-Ordnung der Kiste",
+        "type": "object",
+        "quote": "11 (Mosaik-Ordnung der Kiste)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d1546bd466173f67d5732ac5dc5f60597035d390421107b3e23d67b2b94b3712",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 7",
+        "target": "spricht zum ersten Mal hinein",
+        "type": "want",
+        "quote": "In Kap 7 spricht er zum ersten Mal hinein.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        64
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "spricht zum ersten Mal hinein"
+      ]
+    },
+    {
+      "id": "claim:b04579db4ffd339479a905bfc3276fb3bc6ba24221bcbc2747c0b0c813c9db54",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6 — Das fehlgeleitete Ticket",
+        "target": "Ein Wartungs-Ticket wird an Kaels Kennung fehlgeroutet",
+        "type": "object",
+        "quote": "Ein Wartungs-Ticket wird an Kaels Kennung fehlgeroutet und gibt ihm Lese-Rechte auf das Lernarchiv Theta-9",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        72
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ffaabb8d7f9fc63386379f72a9dcff8185d23badf40d053ef983c9af100cccec",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6 — Das fehlgeleitete Ticket",
+        "target": "Lernarchiv Theta-9",
+        "type": "place",
+        "quote": "Ein Wartungs-Ticket wird an Kaels Kennung fehlgeroutet und gibt ihm Lese-Rechte auf das Lernarchiv Theta-9",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        72
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a3310ba1c8403ac047896bd78e666865722a3f298771932d65809c575d7e3d3e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6 — Das fehlgeleitete Ticket",
+        "target": "Er meldet den Fehler nicht",
+        "type": "want",
+        "quote": "Er meldet den Fehler nicht",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        72
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:03cabad07db2dfb4918d1a1cdacc9cbf8488658b900e6e5b96530de9cd03ab68",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6 — Das fehlgeleitete Ticket",
+        "target": "AEGIS registriert die Anomalie als „Selbstdiagnose des Systems“",
+        "type": "falsehood",
+        "quote": "AEGIS registriert die Anomalie als „Selbstdiagnose des Systems“",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "AEGIS registriert die Anomalie als „Selbstdiagnose des Systems“"
+      ]
+    },
+    {
+      "id": "claim:75f11de9c55fc08f7a54c88e63bc74be98442f072220d03c4142e1d0abab48ed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "7 — Oblivions Hand",
+        "target": "Oblivion löscht Kaels Beweise schneller, als er sie sammelt",
+        "type": "obstacle",
+        "quote": "Oblivion löscht Kaels Beweise schneller, als er sie sammelt",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        76
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1881d52535aebff708f8770776c314a29509303194a1be797f59293a1eb9a8c0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "7 — Oblivions Hand",
+        "target": "ein einziger Eintrag unangetastet im Register",
+        "type": "object",
+        "quote": "eines Morgens steht ein einziger Eintrag unangetastet im Register",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        76
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fcba757c0b7380d873cfc6254a0d9d4649f3d301593a5e5e8becfbb2605b0e98",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "7 — Oblivions Hand",
+        "target": "das Gegenregister",
+        "type": "object",
+        "quote": "Berichte eingereicht, Sequenzen bestätigt, das Gegenregister geleert, die Kiste umgeräumt",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        76
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:163ac95b9042ccf3a638a170029b199f2d16e76bd4d7e5177adc0eae06c4a376",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "8 — Der Mann, der entgegenkommt",
+        "target": "Transitkorridor Delta-7",
+        "type": "place",
+        "quote": "ein Pendler im Transitkorridor Delta-7",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        80
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:33573fd9ebc8c709231e7d1236391347be3a8ed2657d1b08e21ea61252f40571",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "8 — Der Mann, der entgegenkommt",
+        "target": "minimal wärmer",
+        "type": "object",
+        "quote": "Wo er stand, ist es minimal wärmer",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        80
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0c7143d9d87923b8276e1bb2f8c7dd8822627dedde1c0dd118ea359d2f4dad4c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap-22",
+        "target": "Aktenfund",
+        "type": "object",
+        "quote": "Kap-22-Reveal \\[K, Genesis-Flashback Komp 734\\] als Aktenfund",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        88
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:835c3bbf44eb95b78f2a3735615acffd2c52f9c5388da9aefbf03e5fa89e1cdb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "33",
+        "target": "das Original-Dokument",
+        "type": "object",
+        "quote": "33 (am Kern: das Original-Dokument)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        88
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:97ff78d863dc43bbabaa1b970eb80df57419d85f4a07f96c5142cb835dd1ce92",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11 — Zwei Geschenke",
+        "target": "öffnet das vollständige Archiv",
+        "type": "want",
+        "quote": "Mnemosyne** öffnet das vollständige Archiv",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        92
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6408ab5508b0c3c160f8a6a2efb57cf50a0b02eb70f99408b71cee2a92d6701d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11 — Zwei Geschenke",
+        "target": "die Löschung der eigenen Akte",
+        "type": "want",
+        "quote": "Erasure-Pol** bietet das Gegenteil — die Löschung der eigenen Akte",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        92
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:26b9d10d0082cdfcc88ae31de33fd225f82768899d85c5a4b88dce0364799508",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11 — Zwei Geschenke",
+        "target": "absorbiert beide Prinzipien, indem er beide ablehnt und beide behält",
+        "type": "want",
+        "quote": "Kael absorbiert beide Prinzipien, indem er beide ablehnt und beide behält",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        92
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:18e36a0b50e8e4e48696ad76a2eb7d8cc3aeb3076c916b79c2d8fba67b0e5aa7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "12 — Eine Löschung, von innen",
+        "target": "führt eine Routine-Konsolidierung durch",
+        "type": "want",
+        "quote": "AEGIS führt eine Routine-Konsolidierung durch",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        96
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b2562e82b761596ce972a781a5ed10f108d9d2ae4e94ad1a42a067f72fd5da69",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "12 — Eine Löschung, von innen",
+        "target": "ein Restwert, den keine Kategorie aufnimmt",
+        "type": "object",
+        "quote": "Am Ende der Operation bleibt ein Restwert, den keine Kategorie aufnimmt.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        96
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:929f89f3bd73bdea6f0626ec6d17a6441810a2f8774186dd467b80417d3b6201",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "12 — Eine Löschung, von innen",
+        "target": "klassifiziert ihn als Rundungsfehler und legt eine Ausnahme an",
+        "type": "want",
+        "quote": "AEGIS klassifiziert ihn als Rundungsfehler und legt eine Ausnahme an.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        96
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4a2199e4eb5eabe5e739e30d2a48cf67ba7bb083fb52d67e7735c24722a301ed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "schreibt den letzten Bericht von Hand zu Ende",
+        "type": "want",
+        "quote": "bis Kap 39: Kael schreibt den letzten Bericht von Hand zu Ende",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        100
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a7e4465cf337b97b7d96498fdd3f07288f31103c0d4c7757918c35e3e7d1fad5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "27",
+        "target": "Autoren-Feder",
+        "type": "object",
+        "quote": "27 (Autoren-Feder",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        100
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1611199b76239eb4199277d2628419a60c644c895babff380f6e896682b577a1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "*bestätigt*, dass die Welt stimmt",
+        "type": "want",
+        "quote": "Kael *bestätigt*, dass die Welt stimmt.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        124
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:545982ec4f08d63755adc4ddc3d1fb0b55acb7a2462e89318a4019979394a4a4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "*bezeugt*, dass die Welt ist",
+        "type": "want",
+        "quote": "Kael *bezeugt*, dass die Welt ist.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        125
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:84cca65abc751c691ed1a8192adea49f7152d8441257e9957c108b3cba423ee5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 8",
+        "target": "erst lesen ohne Auftrag",
+        "type": "want",
+        "quote": "erst lesen ohne Auftrag (Kap 8)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        182
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d483f8a8c575b1c8852d6490df60ef96fdb5cf7acefd4804fc0440a1593f7aeb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 20",
+        "target": "kopieren vor dem Klick",
+        "type": "want",
+        "quote": "dann kopieren vor dem Klick (Kap 20)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        182
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2513c3e96e1a68a294eb50474bec9c5680616b64527d36265cedbaf056a6b808",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 23",
+        "target": "den eigenen Bestand anlegen",
+        "type": "want",
+        "quote": "dann den eigenen Bestand anlegen (Kap 23)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        182
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c3d5516df7ef033dd6f87e4f2ce4f51482650e4b48e76f3eb0c8204662ed01a7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35",
+        "target": "den Antrag auf sich selbst halten statt bedienen",
+        "type": "want",
+        "quote": "schließlich den Antrag auf sich selbst \\*halten\\* statt bedienen (Kap 35)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        182
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7804a5fb162e5b6ff0f68ff1754a25a9138637caae591ff2c5eae230f2476501",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "Der Apparat verliert sein Zentrum",
+        "type": "cost",
+        "quote": "Der Apparat verliert sein Zentrum (Kap 36)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        188
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4d873457ccb359c0bbe711bba9be64ffed3101498a912c544d3ef571a8922147",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "wird kosmische Funktion",
+        "type": "cost",
+        "quote": "Das Gegenregister — die private Buchführung des Wir — wird kosmische Funktion (Kap 39)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        188
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7bbd676c96685b9af47f6ddf1e186a9ccd243b4b61ace078b786c7722f43e78b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "Sequenz-Prüfung",
+        "type": "object",
+        "quote": "Stufe 1 Sequenz-Prüfung (Kap 1, v0.3)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        198
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:11bc9ba87412c77c041d75b1e2903f876b017482bde4c8a3d3e412b1cb034864",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 5",
+        "target": "Bestandspflege",
+        "type": "object",
+        "quote": "Stufe 2 Bestandspflege (Kap 5: ältere Bestände, mehr Kontext pro Datensatz",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        198
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fccc431ce4c6b00a11bdc078425c36a9d4105d9807e293d851fbb0d091b6b8c2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 5",
+        "target": "gefährlichere Arbeit, als Auszeichnung verpackt",
+        "type": "falsehood",
+        "quote": "Kap 5: ältere Bestände, mehr Kontext pro Datensatz — gefährlichere Arbeit, als Auszeichnung verpackt",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        198
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6268f6170dde01ff31227485730ff35fa76f25836a535142f98a348060c8f886",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 4",
+        "target": "Regel-Exekutor",
+        "type": "who",
+        "quote": "Ein Regel-Exekutor \\[S\\] taucht erst im Audit (Kap 4) auf",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        202
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d4f9f62c0a06e9935d6ac7fe3ed2e06b4577a4dd8be98b71b0b5f8b00e946dc8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35",
+        "target": "der letzte verbleibende Eintrag",
+        "type": "object",
+        "quote": "In Kap 35 ist er der letzte verbleibende Eintrag.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        206
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f5885377a32572b6b0f5cfa714ae8340ccd20abd3c87b97eda223eb192467699",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "ohne Zahl",
+        "type": "object",
+        "quote": "In Kap 38 ist sie ohne Zahl.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3909bb2c6fdc9d3c6002910bddbf74bdb3cf39c73b1aed5f05a949be3153507c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 6",
+        "target": "der erste nicht ausgeführte Ausgleich",
+        "type": "object",
+        "quote": "der erste nicht ausgeführte Ausgleich (Kap 6)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        216
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a28ad395f43fe7bc89f568e3851415f86a87463059a0196062589b51aa9ca32e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "Abweichung 114, der Sprung auf 251",
+        "type": "object",
+        "quote": "Abweichung 114, der Sprung auf 251",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1821db19f023bfad682d15c933752fbaab82bdaa0aa0cab022a242ffe1911bb5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 2",
+        "target": "eine in Kap 1 ausgeglichene Abweichung kehrt wieder",
+        "type": "object",
+        "quote": "eine in Kap 1 ausgeglichene Abweichung kehrt wieder",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a0160e42d9e4eac334f6ff6dabe8eea78b1765155fd284001d7f1bdfbd127c4e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 2",
+        "target": "Das System nimmt die zweite Markierung kommentarlos.",
+        "type": "obstacle",
+        "quote": "Das System nimmt die zweite Markierung kommentarlos.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c15aa59853b8f47db3a493eae9f134393afb9d28d5691a8e992d0048e0c17729",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 2",
+        "target": "abends findet er den Wert in seinem Entwurfsordner notiert",
+        "type": "object",
+        "quote": "abends findet er den Wert in seinem Entwurfsordner notiert",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b0d9c600af3e4f6b25d89927487efcefba5313d919e5e2742a1be1cfc5cff22d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 3",
+        "target": "Das Gegenregister beginnt",
+        "type": "want",
+        "quote": "Das Gegenregister beginnt (Idee 2)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:78b7ea66414c4b09b05c870ef5e509a009d95399d6e1ff17f419cb122e489a4f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 3",
+        "target": "auf dem Heimweg im Transitkorridor",
+        "type": "place",
+        "quote": "auf dem Heimweg im Transitkorridor",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bacbb566d7e45fc907681a3863d4ca8ca07c45fd8fb152075ddfbba31064a4ac",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 4",
+        "target": "Kaels Bestätigungslatenz ist um Millisekunden gestiegen",
+        "type": "object",
+        "quote": "Kaels Bestätigungslatenz ist um Millisekunden gestiegen",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c5923858a5b14b702263cf82a5f9caff75558d2cc49454056c742945c1b0c13e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 4",
+        "target": "korrumpierte Textdateien = Zuweisungen, deren Inhalt beim Öffnen zerfällt",
+        "type": "object",
+        "quote": "korrumpierte Textdateien \\[K\\] = Zuweisungen, deren Inhalt beim Öffnen zerfällt",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": [
+        "korrumpierte Textdateien = Zuweisungen, deren Inhalt beim Öffnen zerfällt"
+      ]
+    },
+    {
+      "id": "claim:084ef7d8dea4e5ceafaabc3492d0234268be86f10673f9d19851f7a7e8823515",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 5",
+        "target": "die Beförderung als falscher Erfolg",
+        "type": "falsehood",
+        "quote": "die Beförderung als falscher Erfolg",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b970eeb496ef2fcdc0a8f128da600e76e3e85a5feb2b9714e463b1d877e2b090",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 5",
+        "target": "Erste Stufe-2-Zuweisung: ein Bestand mit Kontext",
+        "type": "object",
+        "quote": "Erste Stufe-2-Zuweisung: ein Bestand mit Kontext",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a368395fb03a2f8d94b3853b0d9378532415e50ced4657c5d6115178aae2b3b9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 5",
+        "target": "Kael spürt zum ersten Mal das Gewicht eines Datensatzes, bevor er klickt",
+        "type": "want",
+        "quote": "Kael spürt zum ersten Mal das Gewicht eines Datensatzes, bevor er klickt",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:48f6bc3d2b28b51cf30c088c356979106e8d594a83c4d5cdc0cbacc2a66cd67c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 6",
+        "target": "zwei Zuweisungen widersprechen sich",
+        "type": "object",
+        "quote": "Kap 6**: Der Doppel-Antrag — zwei Zuweisungen widersprechen sich",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0ba725c98dbd200176c9cfa74ff1594fafebbeca0c16e1cc7fcc78c9f664d136",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 8",
+        "target": "Kael bleibt nach Dienstschluss und liest ausgeglichene Bestände",
+        "type": "want",
+        "quote": "Kap 8**: Nach Dienstschluss bleibt Kael und liest ausgeglichene Bestände",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael bleibt nach Dienstschluss und liest ausgeglichene Bestände"
+      ]
+    },
+    {
+      "id": "claim:5296ca4fe657087bf9379113e5065342e536bc8fdf43d0ea414d419c0750679f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 9",
+        "target": "Arbeitsteilung an der Konsole",
+        "type": "object",
+        "quote": "Kap 9**: Arbeitsteilung an der Konsole",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        217,
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1f1efd2db79d21a4f8147cee24f31ed7ec644b9ac374d2ef684808e1384c9308",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 10",
+        "target": "Kael hält einen Datensatz, ohne zu klicken",
+        "type": "want",
+        "quote": "Kap 10**: Moonshine am Arbeitsplatz: Kael hält einen Datensatz, ohne zu klicken",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:210c2001a91232bd26cdd83785d490ac0e79c65db877eb27861d624fdc1b4f8b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 11",
+        "target": "Kael ordnet seine gelesenen Bestände neu",
+        "type": "want",
+        "quote": "Kap 11**: Die Ordnung des Verworfenen — Kael ordnet seine gelesenen Bestände neu",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:56ba2d9a3b64c19263989d5bf891292977c7b0a78e508de133497e296f45f3f2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 13",
+        "target": "Kael dreht die Konsole um drei Grad",
+        "type": "want",
+        "quote": "Kap 13**: Kael dreht die Konsole um drei Grad.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7e8eb5d26f787e250a2850a1f0e187e69c54fbadd96a02ff23c8de36b17929b0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 14",
+        "target": "Das fehlgeleitete Ticket",
+        "type": "object",
+        "quote": "Kap 14**: Das fehlgeleitete Ticket",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:846ec81852559353be9ae940632243a2d5153ac5c199f5baf7d70763059ec048",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 13",
+        "target": "Kael dreht die Konsole um drei Grad.",
+        "type": "want",
+        "quote": "Kap 13**: Kael dreht die Konsole um drei Grad.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1e72957b1c22a0b5f41147dd9e68eea47482e1e5fa3efa58bf04b764619e870a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 14",
+        "target": "Das fehlgeleitete Ticket",
+        "type": "object",
+        "quote": "Kap 14**: Das fehlgeleitete Ticket (Idee 6)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f851ce5bd46c75e1aedb72bc3d7139a0862e3d720ce6aaa9b87fedc10ef3c835",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 15",
+        "target": "das Halteproblem-Dossier",
+        "type": "object",
+        "quote": "Kap 15**: Lektüre I — das Halteproblem-Dossier",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9e0d9a4af25fbee3a9c187692282c8fbbd066e343c154b50d97688f1f9ceef22",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 16",
+        "target": "das Komplexitäts-Budget",
+        "type": "object",
+        "quote": "Kap 16**: Lektüre II — das Komplexitäts-Budget",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:75043488786f2b2f60896be2ebe0f37150aa045a6848c636cdb2c67b18521fcf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 17",
+        "target": "Rendering vs. Prozess-Kern",
+        "type": "object",
+        "quote": "Kap 17**: Lektüre III — Rendering vs. Prozess-Kern",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6bb981f50cb83bc99b24e3956fcfaa9f7ed5d1cc933dd7a5ff595f3ae1a9db53",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 18",
+        "target": "Der unbedienbare Datensatz erscheint",
+        "type": "object",
+        "quote": "Kap 18**: Der unbedienbare Datensatz erscheint (§3, Datentyp leer).",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d3dff24c1b5b01aa866911d4a82b77bb7a059b6464b1fda999ff24a83976bb38",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 20",
+        "target": "Kael bestätigt einen Selbst-Bestand, nachdem er ihn kopiert hat",
+        "type": "falsehood",
+        "quote": "Kap 20**: Die erste Fälschung — Kael bestätigt einen Selbst-Bestand, *nachdem* er ihn kopiert hat.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:390334a61bb9ea36ba70e77f29ea31bd668df84887b2d750f764436b93eafd63",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 22",
+        "target": "Seriennummer 734",
+        "type": "object",
+        "quote": "Kap 22**: Seriennummer 734 (Idee 10)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5b49e6069d7bacb960e4d1f3d550c45fb21d8bdb51aa485206ac4b4cf18130e6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 23",
+        "target": "Kael legt den ersten Datensatz an, den die Welt nicht zugewiesen hat",
+        "type": "want",
+        "quote": "Kap 23**: Der eigene Bestand — Kael legt den ersten Datensatz an, den die Welt nicht zugewiesen hat",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4ed736cb9292684d52aa071b95dbf6a66a2866b8cbf5616640b51011483574a3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 24",
+        "target": "Kael verteilt das Register auf die inneren Stimmen",
+        "type": "want",
+        "quote": "Kap 24**: Wartung der Leitung (Idee 4) und Angriff auf den Bestand: Kael verteilt das Register auf die inneren Stimmen",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7269a059d40bee1323e8b7db8993d7064e900778b6a2e95d44349699beb29ce0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 25",
+        "target": "Kael bestätigt nichts mehr",
+        "type": "want",
+        "quote": "Kap 25**: Die Niederlegung — Kael bestätigt nichts mehr.",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c457f236085ce0a318747bf71160b7245d03df17eb1124af954f01e01d1abd48",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 26",
+        "target": "Der Apparat reklassifiziert",
+        "type": "obstacle",
+        "quote": "Kap 26**: Der Apparat reklassifiziert",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:50c2099f644f72f3f52b12989371c0f1a8efd5fc588f7cbe93142fcf364a2033",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 27",
+        "target": "Kael schreibt seinen ersten Bericht, den niemand angefordert hat",
+        "type": "want",
+        "quote": "Kap 27**: Die Autoren-Feder \\[K\\] — das Delikt wird Absicht: Kael schreibt seinen ersten Bericht, den niemand angefordert hat",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b9b63aa5093c9eb7f20149b400b5b9b146fd267d20bf739a8f3dbc59546f0772",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 30",
+        "target": "Junas Kanal",
+        "type": "object",
+        "quote": "Kap 30**: Junas Kanal",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e9f0ecbf0d93532d09d265e0432c7a905500d0d9aa6c83a157d67994df913757",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "Zwei Geschenke",
+        "type": "object",
+        "quote": "Kap 31**: Zwei Geschenke (Idee 11)",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:26d412b8d2d17a64fe01c0790ea3646390b2e6e7cfd0e86675a971f091eebd35",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "Kael unterschreibt keines und verlässt den Raum mit beiden Prinzipien",
+        "type": "want",
+        "quote": "Kael unterschreibt keines und verlässt den Raum mit beiden Prinzipien",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c737d7a9db2c6baa04ef88df399a3e1e5497ddf167b267361be790f3de789ba7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 32",
+        "target": "in der Schlange erscheinen Bestände mit Kaels Signatur, die er nie angelegt hat",
+        "type": "falsehood",
+        "quote": "Kap 32**: Der Wahrheits-Test \\[K\\] — in der Schlange erscheinen Bestände mit Kaels Signatur, die er nie angelegt hat",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:01783d8b3074ca637ea83c1d1228477382514abf3f414f9d090dc20c19e1423a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 33",
+        "target": "die Wurzel der Schlange — die erste Zuweisung des Universums, das Original",
+        "type": "object",
+        "quote": "Kap 33**: Am Kern: die Wurzel der Schlange — die erste Zuweisung des Universums, das Original",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0dcbaf9213ca7327585e744842eab6919e2a9c476044e0389ae840e64d96d628",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 34",
+        "target": "AEGIS' Makro-Log listet Kael als offenen Posten",
+        "type": "obstacle",
+        "quote": "Kap 34**: Konfrontation \\[K\\]: AEGIS' Makro-Log listet Kael als offenen Posten",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:03536215d4075c88c70ed78a7319e3e64abce0165e4307a19c9f5e2ec8b651f0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35 (Beats 1–3)",
+        "target": "Kael nimmt die Hand von der Konsole",
+        "type": "want",
+        "quote": "Kael nimmt die Hand von der Konsole",
+        "stance": "hedges"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:50e85db45cbbfd3395844460bb22c52928b0879163e4210dadfa50883c705e76",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 37",
+        "target": "Kael baut einen sanften Apparat",
+        "type": "want",
+        "quote": "Kap 37**: Der Gärtner als Sachbearbeiter — Kael baut einen sanften Apparat",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2dbfac842d49faa11cce0709cdf4a655e6ee7608a4b9652e8303b0abe722921e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Das Rauschen kommt als unendliche Zuweisung",
+        "type": "obstacle",
+        "quote": "Kap 38**: Das Rauschen kommt als unendliche Zuweisung",
+        "stance": "asserts"
+      },
+      "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

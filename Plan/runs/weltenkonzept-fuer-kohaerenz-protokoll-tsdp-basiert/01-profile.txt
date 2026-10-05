@@ -1,0 +1,14 @@
+# weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert
+  lines                156  (frontmatter ends at 9)
+  body words           1318
+  headings             1   bold-only lines 7
+  table rows           0   code fences 0
+  question marks       12
+  backslash escapes    0
+  typographic marks    16   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      Atmosphäre x6, Beziehung zu Anteilen x6, Eigenschaften x6, Gesetzmäßigkeiten x6, Konzeptueller Kern x6, Sensorik x6, Ästhetik x6, Schnittstellen/Risse x5, Konflikt x4, Resonanz x4
+  longest line         429 chars
+

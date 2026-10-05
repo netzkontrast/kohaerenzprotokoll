@@ -1,0 +1,131 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+Read in full, L10 to L233. The document is German prose with English labels (Dramatica fields, KW English names). It is a research report about the novel project, and it states the plot as a 39-chapter progression. Characters are given as ANPs, EPs and an ISH; the guardians as four bullets. The signposts are numbered lists whose ordinals are not listed. Digits are subscripted nowhere: KW1 is written with a plain digit, and the export dropped some symbols (L47 has an empty bracket after Landauer-Prinzip, L221 an empty bracket before Entropie). Quotation marks in prose mark either the document's own coinages or phrases from the novel.
+
+- Kohärenz Protokoll
+- Grand Argument Story
+- ontologischen Isomorphismus
+- System Kael
+- Kael
+- Juna
+- Die Anomalie
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- funktionalen Multiplizität
+- Funktionalen Multiplizität
+- Tertiären Strukturellen Dissoziation
+- TSDP
+- Gödel-Gambit
+- Dual-Kernel-Theorie
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Kernwelten
+- Nichts-Rauschen
+- Nothingness Roaring
+- Potentialmeer
+- Das Fundament
+- The Foundation
+- Gärtner
+- Kohärenz-Checkliste
+- Gödel-Gefängnis
+- dialetheischen Kognition
+- Dialetheische Kognition
+- Dialetheic Cognition
+- Syntaxfehler
+- Systemfehler
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Logos-Prime
+- Mnemosyne-Archipel
+- Resonance Landscape
+- Cerberus-Labyrinth
+- The Fortress
+- Kairos-Potentialis
+- Garden of Possibility
+- Überwelt
+- Nexus
+- Externe Ebene
+- Köln
+- Mediterana
+- P-Zeit
+- NP-hart
+- NP-Suche
+- Anscheinend Normalen Persönlichkeitsanteile
+- ANPs
+- Emotionalen Persönlichkeitsanteile
+- EPs
+- Internal Self Helper
+- ISH
+- Alters
+- Trauma-Zeit
+- Fragmentierungsamnesie
+- Lex
+- Alex
+- Rhys
+- Argus
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Primärdirektive
+- Prime Directive
+- Paradoxon der fehlausgerichteten Kohärenz
+- Tragic Flaw
+- Core Classical Logic Engine
+- LFI
+- Discursive Logic
+- Adaptive RL Layer
+- Wächter-Instanzen
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos / Sophia
+- Phänomenale Selbstmodell
+- Phänomenales Selbstmodell
+- PSM
+- Orientierungswissenschaft
+- Moonshine-Link
+- Mosaik-Herz
+- Universal Reboot
+- Beobachter-Instanz
+- Algorithmic Melancholy
+- algorithmische Melancholie
+- Purge
+- Sektor 04
+- kausale Horizonte
+- Gödelsche Sackgassen
+- Messer im Bewusstsein
+- Dramatica-Storyform
+- Objective Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Unique Ability
+- Gnosis Transmission
+- Problem / Solution
+- Catalyst / Inhibitor
+- Throughlines
+- Signposts
+- Narrativer Modus
+- Heroine's Journey
+- Hero's Journey
+- Zyklisches Modell
+- Epistemologische Eskalation
+
+## lens
+
+- Landauer-Prinzip
+- Hawking-Strahlung
+- Dialetheismus
+- Dramatica-Theorie
+- Traveling Salesperson Problem
+- Prinzip der Explosion
+- Logics of Formal Inconsistency
+- Sein zum Tode
+- Unvollständigkeitssätzen

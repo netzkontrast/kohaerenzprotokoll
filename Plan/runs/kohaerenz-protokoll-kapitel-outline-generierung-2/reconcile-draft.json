@@ -1,0 +1,464 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-outline-generierung-2",
+  "drive_id": "1lWAxppD_us_aRWlsQRVcIuJOG87Afzoq00WzwjTbs2o",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 114,
+    "decisions": 116,
+    "decided_by_lookup": 93,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        21,
+        25,
+        37,
+        61,
+        283,
+        319,
+        335,
+        343,
+        351,
+        367
+      ],
+      "attribution": "",
+      "note": "AEGIS as kernel guardian, driver of Storyform B, and the transformed watcher"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "one row of the alter table"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        37,
+        258,
+        283
+      ],
+      "attribution": "",
+      "note": "the melancholy as the state AEGIS is driven into"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        41,
+        57,
+        148
+      ],
+      "attribution": "",
+      "note": "the ten-row alter table"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "one row of the alter table"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        185,
+        188
+      ],
+      "attribution": "",
+      "note": "Kap 15 as the discovery of irreducible randomness"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        17,
+        45
+      ],
+      "attribution": "",
+      "note": "the DKT as the outline's definition of the reality substrate"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        13,
+        53,
+        57,
+        173,
+        283
+      ],
+      "attribution": "",
+      "note": "entropy as the outline's theme, and what Act III plans for it"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        135,
+        322
+      ],
+      "attribution": "",
+      "note": "the Genesis hinted in Kap 9 and recognised in Kap 31"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        156,
+        258
+      ],
+      "attribution": "",
+      "note": "two guardian encounters in Act I and II"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "one row of the alter table"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        17,
+        37,
+        48,
+        83,
+        85,
+        86,
+        132,
+        188,
+        338,
+        345
+      ],
+      "attribution": "",
+      "note": "Juna as the Collapse-Kernel figure, the Gödel sentence, and her chapter beats"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        21,
+        25,
+        41,
+        57,
+        135,
+        343,
+        351
+      ],
+      "attribution": "",
+      "note": "Kael as a TSDP system, the goal of functional multiplicity, and the Struktur-Kanon-Reset claim"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        50,
+        94,
+        234
+      ],
+      "attribution": "",
+      "note": "the table row and two chapter beats"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "the coherence kernel as the domain of reversible computation"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "the collapse kernel as the domain of irreversible processes"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        135
+      ],
+      "attribution": "",
+      "note": "Komponente 734 as Kael's hinted true genesis"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        61,
+        225,
+        370
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt in the acts"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        46,
+        107,
+        110,
+        195
+      ],
+      "attribution": "",
+      "note": "the table row and chapter beats"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "one row of the alter table"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        156,
+        250
+      ],
+      "attribution": "",
+      "note": "LogOS as a guardian offering deletion"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        201,
+        303
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as place and as actor"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        33,
+        306
+      ],
+      "attribution": "",
+      "note": "the Moonshine Link as Storyform A's relationship story"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        53,
+        143
+      ],
+      "attribution": "",
+      "note": "the table row and one chapter beat"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "the goal of the narrative"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        367
+      ],
+      "attribution": "",
+      "note": "Negentropie as Kael's state in Kap 37"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        124
+      ],
+      "attribution": "",
+      "note": "the Nexus as memory store"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        49,
+        148
+      ],
+      "attribution": "",
+      "note": "the table row and chapter beats"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        41,
+        319
+      ],
+      "attribution": "",
+      "note": "a systemic Trojan, and Kap 31"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "one row of the alter table"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        17,
+        109,
+        295
+      ],
+      "attribution": "",
+      "note": "the Risse in the simulation"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        54
+      ],
+      "attribution": "",
+      "note": "one row of the alter table"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        132,
+        148
+      ],
+      "attribution": "",
+      "note": "Kap 9 and Kap 11"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        266
+      ],
+      "attribution": "",
+      "note": "the Trennungsprotokoll in Kap 25"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        351
+      ],
+      "attribution": "",
+      "note": "Kap 35 named the Truth-Rotation"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        41,
+        173
+      ],
+      "attribution": "",
+      "note": "Kael as a TSDP system"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        335,
+        391
+      ],
+      "attribution": "",
+      "note": "the Vortex chapters and the closing mechanics section"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C7",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 135,
+      "decision": "reading",
+      "why": "Kael's „wahre Genesis“ as Komponente 734 (Kap 9), read on genesis with L322"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "the outline's „duale Simulationsarchitektur“, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

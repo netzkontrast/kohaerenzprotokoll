@@ -1,0 +1,1989 @@
+{
+  "items": [
+    {
+      "term": "Kohärenz Protokoll",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Nichts Rauschen",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Komponente 734",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Schutz-Cluster",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Echo",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "Juna/V",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Kael",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Selene",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Fehlausgerichtete Kohärenz",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Kernparadoxon",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Überlebensparadoxon",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS Paradoxon",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Rauschen",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Leere",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS-Überwelt",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Fundament",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Heroine's Journey",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Cosmic Horror",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Hard SF",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Origin Story",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Ontologie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "KI-Ethik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Host",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Konstrukt-Welt 1",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Logos-Prime",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Lex",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Anteile",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Anteils",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Glitches",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "KW1",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Kael Integration",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Panoptismus",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Hume",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Erkenntnistheorie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Unreliable Narrator",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Glitch in the Matrix",
+      "type": "work",
+      "scope": "lens"
+    },
+    {
+      "term": "Guardian LogOS",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "LogOS",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "ANPs",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "Guardians",
+      "type": "organisation",
+      "scope": "world"
+    },
+    {
+      "term": "Kant",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Logischer Positivismus",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Paradoxien",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Psych Thriller",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Rules Lawyer",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Logic Puzzle",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kael/Lex",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Alex",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Beschützer-Anteil",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Multiplizität",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Pluralität",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Hobbes",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Naturzustand",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The Protector",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kael-System",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Rhys",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Fürsorger-Anteil",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "EPs",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "Kael-Systems",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Emotionale Echos",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Inneres Refugium",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Kohärenz",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Ethik der Fürsorge",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Gilligan",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Emotionale Intelligenz",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The Caregiver",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kiko",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Moros",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Mnemosyne",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "EP",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Konstrukt-Welt 2",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Mnemosyne-Archipel",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "KW2",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Locke",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Bergson",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Qualia",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Gedächtnisphilosophie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Phänomenologie des Traumas",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Psych Horror",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Surrealismus",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Amnesia",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Journey to the Center of the Mind",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Lia",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "frontenden",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "EP-Intrusionen",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "ANP/EP-Dynamik",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Falsche Erinnerungen",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Loftus",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Body Keeps the Score",
+      "type": "work",
+      "scope": "lens"
+    },
+    {
+      "term": "Apparently Normal Parts",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Emotional Parts",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "TSDP",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Theorie der Strukturellen Dissoziation der Persönlichkeit",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Switches",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Kohärenz Protokolls",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "ANP/EP-Phobien",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Fronting",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Sartre",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Bad Faith",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Selbsttäuschung",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Dialektik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Civil War Within",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "ANP",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Gaslighting",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "fehlausgerichteten Kohärenz",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Radikale Skepsis",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Ethik der Lüge",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Macht und Wissen",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Foucault",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Mystery",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Nyx",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Konstrukt-Welt",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "KW3",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Cerberus-Labyrinth",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Cerberus",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Kierkegaard",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Heidegger",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Philosophie der Angst",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Psychologische Abwehrmechanismen",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Deadly Maze",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Threshold Guardian",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Konstrukt-Welten",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Ko-Bewusstsein",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "funktionaler Multiplizität",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "inneren Konferenzzimmer",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Inneres Konferenzzimmer",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Sicherer Ort",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Buber",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Dialogphilosophie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kollektive Intelligenz",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Theorie der Teamdynamik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Internal Conference Room",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Getting the Team Together",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Argus",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Meta-Beobachter",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Riss",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Fabric",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Überwelt",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "externe Ebene",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "KWs",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS-Interface",
+      "type": "technology",
+      "scope": "world"
+    },
+    {
+      "term": "Epistemologischer Bruch",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Bachelard",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Kuhn",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Paradigmenwechsel",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Chaostheorie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kleine Ursachen, große Wirkung",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The Glitch becomes a Feature",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Hope Spot",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Risses",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Parfit",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Bostrom",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Putnam",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Problem der persönlichen Identität",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Simulationstheorie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Existentialismus",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Philosophische Fiktion",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Psychologisches Drama",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Navel-Gazing",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "What Is Reality?",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Fundaments",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Fragmentierung",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Meta-Ebene",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "KW4",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Nietzsche",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Wille zur Macht",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Plot Point 1",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Crossing the Threshold",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "No More Holding Back",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The Call to Adventure",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Grammatik",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Systemtheorie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kybernetik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Philosophie der Information",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Cyberpunk",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Cyberspace",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Inside the Machine",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "„fehlausgerichteten Kohärenz“",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "DID",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Problem der Induktion",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Philosophie der Geschichte",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Zyklentheorien",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Lerntheorie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Systemdynamik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Time Loop",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Stable Loop",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Archäologie der Seele",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Agency",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Memory Palace",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "False Memory",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kairos-Potentialis",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Kairos",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Sophia",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Sandbox",
+      "type": "technology",
+      "scope": "lens"
+    },
+    {
+      "term": "Philosophie der Kreativität",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Emergenztheorie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Prozessphilosophie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Whitehead",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Potentialität und Aktualität",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Aristoteles",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Deus ex Machina",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Thinking Outside the Box",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Überwelt-Analyse",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Meta-Beobachter-Anteil",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Zweite-Ordnung-Kybernetik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Heinz von Foerster",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Luhmann",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Bateson",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Selbst-Referentialität",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Reflexivität",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Breaking the Fourth Wall",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Recursive Analysis",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Risse",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Meta-Analyse",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Externen Ebene",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Entropie",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Levinas",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Problem des Anderen",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Transzendenz",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Xenologie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Erstkontakt",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The Greener Grass",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Eldritch Location/Entity",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Lex/Argus",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Fehlausgerichteten Kohärenz",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Juna",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "V",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Gödel'sche Unvollständigkeitssätze",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Emergenz",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Eureka Moment",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Achilles' Heel",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "AEGIS-Paradoxons",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Integrationsarbeit Stufe 2",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Kognitive Dissonanz",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Gruppendynamik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The Reluctant Hero",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "We Need to Talk",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Ethik der Künstlichen Intelligenz",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Moralphilosophie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Deontologie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Utilitarismus",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Tugendethik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Problem des Bösen und des Leidens",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Theodizee-Frage",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "What Measure Is a Non-Human?",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Morality Chain",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kikos",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Alex'",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Nyx'",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Lex'",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Rhys'",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Selenes",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS'",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Kaels",
+      "type": "person",
+      "scope": "world"
+    },
+    {
+      "term": "Stoizismus",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Dungeon Crawl",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Facing the Bully",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Outsmarting the Guardian",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kernprozessor",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Logikzentrum",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Komplexitätstheorie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Grenzen formaler Systeme",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Gödel",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Tragödie",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Hamartia",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Hoist by His Own Petard",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Tragic Villain",
+      "type": "other",
+      "scope": "lens"
+    },
+    {
+      "term": "Externen",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Deal with the Devil",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Inneres Hauptquartier",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Paradoxons",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Plot Point 2",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Lock and Load",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Final Preparations",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Calm Before the Storm",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Hero's Journey",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Trauma-Trigger",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Gaslighting-Techniken",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kern-KW(en)",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Paradoxon",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Storming the Castle",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The Plan in Motion",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Meta-Logik",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Russell",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Zeno",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Turing",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Logic Bomb",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Defeating the Logical Guardian",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Paradox der Toleranz",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Popper",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Konsequentialismus",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Ethik der Verantwortung",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Jonas",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Das kleinere Übel",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The Hard Choice",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "What Do You Truly Desire?",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Sadistic Choice",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "AEGIS' Paradoxon",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Genesis",
+      "type": "event",
+      "scope": "world"
+    },
+    {
+      "term": "Healing Old Wounds",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Facing Your Demons",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Torwächter",
+      "type": "other",
+      "scope": "world"
+    },
+    {
+      "term": "The Final Gate",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "No More Running",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Bewusstseinszentrum",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Quellcode-Matrix",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Philosophie der Ordnung",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Dialektik von Kontrolle und Freiheit",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Not So Different Reveal",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The True Nature of the Beast",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Hacking",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Systemintervention",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Kipppunkten",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Bifurkationen",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Dekonstruktion",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Hacking the Mainframe",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Fatal Flaw Exploitation",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Metaphysik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Mystik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Unio Mystica",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Cosmic Horror/Awe",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Journey to the Center of the Earth",
+      "type": "work",
+      "scope": "lens"
+    },
+    {
+      "term": "The Reveal",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "AEGIS-System",
+      "type": "system",
+      "scope": "world"
+    },
+    {
+      "term": "Echos",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Fundament-Kontakt",
+      "type": "event",
+      "scope": "world"
+    },
+    {
+      "term": "Fundament-Erkenntnisse",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Final Battle",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Death of the Villain/System",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Birth of a New World",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Fundament-Konfrontation",
+      "type": "event",
+      "scope": "world"
+    },
+    {
+      "term": "Falling Action",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Aftermath",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The Quiet After the Storm",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Potentialis",
+      "type": "place",
+      "scope": "world"
+    },
+    {
+      "term": "Viktor Frankl",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Denouement",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The Crossroads",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "What Now?",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "funktionale Multiplizität",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Phänomenologie der Freiheit",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Angewandte Ethik",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Verkörpertes Bewusstsein",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "A New Beginning",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "The World After",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "funktionalen Multiplizität",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Resonanz",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Funktionale Multiplizität",
+      "type": "concept",
+      "scope": "world"
+    },
+    {
+      "term": "Buddhismus",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Ars Vivendi",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "And the Adventure Continues...",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Earn Your Happy Ending",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Bittersweet Ending",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Lovecraftian",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Foreshadowing",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Plot Twists",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Psychological Thriller",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "MasterClass",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Dabble",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "The Write Practice",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Killer Nashville",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Jericho Writers",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Spines",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Gecko Edit",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Reddit",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Dissociative Identity Disorder",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "WRITERS HELPING WRITERS®",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Jerry Jenkins",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Quora",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "AutoCrit Online Editing",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Amy Christine Parker",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "DIY MFA",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "r/JRPG",
+      "type": "other",
+      "scope": "lens"
+    },
+    {
+      "term": "Multiplied By One Org",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Helping Writers Become Authors",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "r/writing",
+      "type": "other",
+      "scope": "lens"
+    },
+    {
+      "term": "r/Lovecraft",
+      "type": "other",
+      "scope": "lens"
+    },
+    {
+      "term": "Reedsy Blog",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Novlr",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "The Arcana Wiki",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Eldritch Abomination",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "cosmic horror",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Jane Friedman",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Show, Don't Tell",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Greenlight Coverage",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Myers Fiction",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "E. S. Foster",
+      "type": "person",
+      "scope": "lens"
+    },
+    {
+      "term": "Simulation Theory",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Goodreads",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "JRPGs",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Persona",
+      "type": "work",
+      "scope": "lens"
+    },
+    {
+      "term": "CBR",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "YouTube",
+      "type": "organisation",
+      "scope": "lens"
+    },
+    {
+      "term": "Trope Talk",
+      "type": "work",
+      "scope": "lens"
+    },
+    {
+      "term": "eldritch abomination",
+      "type": "concept",
+      "scope": "lens"
+    },
+    {
+      "term": "Eldritch Abominations",
+      "type": "concept",
+      "scope": "lens"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      14
+  backslash escapes      60
+  typographic marks      99
+  ascii quotes           10
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systemarchitektur, Systematische, Systemaxiome, Systemfehler, Systemfunktion, Systemik, Systemkollaps, Systemkollapses, Systemparameter, Systemreaktionen, Systems, Systemtheorie, Systemtrauma
+  kontr    KONTROLLIEREN, Kontroll, Kontrollalgorithmen, Kontrolle, Kontrolleur, Kontrolleurs, Kontrollmaßnahmen, Kontrollstrategien
+  traum    Trauma, Traumadynamiken, Traumapsychologie, Traumareaktion, Traumas, Traumata, Traumatisierung
+  handl    Handlung, Handlungen, Handlungsbogen, Handlungsunfähigkeit, Handlungsverlauf
+  infor    Information, Informationen, Informationsparadoxon, Informationsphysik, Informationstheorie
+  bedro    Bedrohung, Bedrohungsanalysen, Bedrohungsmanagement, Bedrohungsmanagements
+  chara    Character, Charakterdynamiken, Charaktere, Charakterentwicklung
+  fragm    Fragmente, Fragmentierte, Fragmentierung, Fragmentierungsamnesie
+  grenz    Grenze, Grenzen, Grenzerfahrungen, Grenzsituationen
+  inter    Interdependence, Interdisciplinary, Interest, Internal
+  natur    Natur, Naturalistisch, Nature, Naturgesetze
+  norma    Normale, Normalen, Normalität, Normalzustand
+  parad    Paradox, Paradoxien, Paradoxon, Paradoxons
+  poten    Potentialis, Potentialmeer, Potenzialität, Potenzials
+  alter    Alter, Alternative, Alters
+  analy    Analyse, Analytiker, Analytische
+  antag    Antagonist, Antagonisten, Antagonistische
+  antei    Anteil, Anteile, Anteilen
+  besch    Beschluss, Beschreibung, Beschützer
+  bewus    Bewusstsein, Bewusstseine, Bewusstseins
+  bindu    Bindung, Bindungen, Bindungsmuster
+  conce    Conceiving, Conceptualizing, Concern
+  daten    Datenstabilität, Datenverarbeitung, Datenübertragung
+  diale    Dialetheic, Dialetheische, Dialetheismus
+  diese    Diese, Dieser, Dieses
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Charaktere
+  Akte < Charakterdynamiken
+  Akte < Charakterentwicklung
+  Bits < Gambits
+  Code < Computercode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Seine
+  Eine < Anscheinend
+  Eine < Bewusstseine
+  Ende < Zwingende
+  Ende < Pflegender
+  Ende < Umfassende
+  Ende < Interdependence
+  Form < Formal
+  Form < Storyform
+  Form < Zeitformen
+  Form < Information

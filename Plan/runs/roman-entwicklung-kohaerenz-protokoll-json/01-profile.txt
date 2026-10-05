@@ -1,0 +1,14 @@
+# roman-entwicklung-kohaerenz-protokoll-json
+  lines                233  (frontmatter ends at 9)
+  body words           4050
+  headings             28   bold-only lines 0
+  table rows           9   code fences 0
+  question marks       1
+  backslash escapes    60
+  typographic marks    99   ascii quotes 10
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    14
+  repeated labels      Domain x4, Signposts x4, Narrativer Modus x3, Problem / Solution x3, Progression x3, Thematischer Fokus x3
+  longest line         2018 chars
+

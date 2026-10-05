@@ -256,7 +256,7 @@ the markup did not mark. What the survey rejected was a model *inferring* edges,
 and it said in the same line that canon links must be **explicit**. Decision 005
 separated the two marks and ran the migration:
 684 <!--state:wiki.relations--> links, 19 <!--state:wiki.orphans--> orphans,
-609 <!--state:wiki.unmarked--> still unmarked because a quotation may not gain
+643 <!--state:wiki.unmarked--> still unmarked because a quotation may not gain
 markup a source did not have.
 
 ## What is not yet possible, stated plainly

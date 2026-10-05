@@ -327,9 +327,9 @@
    "labels": {},
    "model_choice": null,
    "outcome": "yielded",
-   "template": "current",
+   "template": "changed",
    "source": "current",
-   "stale": false,
+   "stale": true,
    "category": "theorie-logik"
   },
   {

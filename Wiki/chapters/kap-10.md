@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,14 @@ Position: „(Fundamentales Konzept: Symmetrie (Netzwerk/Graph in McL) / Quanten
 - The Guardian questions him: „Woher stammt dieser Zugang, Architekt?“ ^[kohaerenz-protokoll.md:L1244]
 - Confirms and grows curious: „Ihre Analyse der dualen Knotenpunkte war korrekt.“ ^[kohaerenz-protokoll.md:L1258]
 - Impressed, wary: „Beeindruckend, Architekt“ ^[kohaerenz-protokoll.md:L1280]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Tanz der Anteile
+
+Title: the commission titles the chapter „Der Tanz der Anteile“ ^[kontext-outline.md:L175], placed in Act 1.
+
+- Theme: the commission's `Core Theme` is „Erste bewusste Versuche der Ko-Präsenz und Kooperation“ ^[kontext-outline.md:L177]
+- Story: its `Plot Summary` plans „Unbeholfen, konfliktreich, aber erster Schritt zu Ko-Bewusstsein“ ^[kontext-outline.md:L178]
+- Foci: `Kael Sys Focus` „Rhys aktiv (Vermittler)“ ^[kontext-outline.md:L179]; `AEGIS Focus` „Beobachtet interne Veränderungen“ ^[kontext-outline.md:L180]
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Garten der flüsternden Pfade
 
@@ -135,6 +143,14 @@ Position: Akt I; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-ers
 - Story: the outline plans „wendet eine neu gefundene Balance aus analytischer Kälte und empathischer Simulation an“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L289]
 - Story: the outline plans „wertet die Harmonie jedoch als hochgradig gefährliches, emergentes Verhalten“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L289]
 - Concepts: „Embodiment“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L287]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Die Bekenstein-Klaustrophobie
+
+Title: „Die Bekenstein-Klaustrophobie“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L138] — „Akt I: Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L59]
+
+- Story: the dual-storyform outline plans „AEGIS erzwingt räumliche Blockaden“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L140]
+- Storyforms: `Storyform B` (`MC: Universe/Present`): „Die unmittelbare Situation ist von Daten-Rationierung geprägt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L142]; `Storyform A` (`MC: Mind/Preconscious`): „Moros (Freeze-Alter) wird aktiviert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L143]
+- Scene and pacing: `Szenen-Keim`: „Die Wände rücken näher“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L144]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

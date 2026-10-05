@@ -1,7 +1,7 @@
 {
  "at": "2026-10-05",
  "pages": 106,
- "read_documents": 84,
+ "read_documents": 93,
  "per_page": {
   "aegis-metriken": {
    "named_in": 1,
@@ -13,10 +13,10 @@
   },
   "aegis-teilfunktionen": {
    "named_in": 56,
-   "read_on": 12,
+   "read_on": 13,
    "read_not_on": 2,
-   "unread": 44,
-   "coverage": 0.214,
+   "unread": 43,
+   "coverage": 0.232,
    "unread_top": [
     [
      "digitale-uberwelt",
@@ -42,10 +42,10 @@
   },
   "aegis": {
    "named_in": 492,
-   "read_on": 78,
+   "read_on": 87,
    "read_not_on": 2,
-   "unread": 412,
-   "coverage": 0.159,
+   "unread": 403,
+   "coverage": 0.177,
    "unread_top": [
     [
      "aegis-singularitaet-jenseits-entropiegleichung-2",
@@ -71,10 +71,10 @@
   },
   "alex": {
    "named_in": 157,
-   "read_on": 37,
-   "read_not_on": 3,
-   "unread": 116,
-   "coverage": 0.236,
+   "read_on": 42,
+   "read_not_on": 7,
+   "unread": 107,
+   "coverage": 0.268,
    "unread_top": [
     [
      "roman-outline-fuer-kohaerenz-protokoll",
@@ -100,10 +100,10 @@
   },
   "algorithmische-melancholie": {
    "named_in": 62,
-   "read_on": 43,
+   "read_on": 45,
    "read_not_on": 0,
-   "unread": 30,
-   "coverage": 0.694,
+   "unread": 29,
+   "coverage": 0.726,
    "unread_top": [
     [
      "research-prompt-dramatica-dual-storyform-synthese-aegis-thro",
@@ -129,10 +129,10 @@
   },
   "alters": {
    "named_in": 203,
-   "read_on": 57,
+   "read_on": 60,
    "read_not_on": 1,
-   "unread": 164,
-   "coverage": 0.281,
+   "unread": 161,
+   "coverage": 0.296,
    "unread_top": [
     [
      "charakterkonzepte-fuer-kohaerenz-protokoll",
@@ -191,10 +191,10 @@
   },
   "argus": {
    "named_in": 127,
-   "read_on": 36,
-   "read_not_on": 2,
-   "unread": 90,
-   "coverage": 0.283,
+   "read_on": 42,
+   "read_not_on": 5,
+   "unread": 81,
+   "coverage": 0.331,
    "unread_top": [
     [
      "argus-chronist-der-wandlung",
@@ -249,10 +249,10 @@
   },
   "cache-kohaerenz": {
    "named_in": 13,
-   "read_on": 6,
+   "read_on": 7,
    "read_not_on": 0,
    "unread": 9,
-   "coverage": 0.462,
+   "coverage": 0.538,
    "unread_top": [
     [
      "kohaerenz-protokoll-analyse-und-verstaendnis",
@@ -278,10 +278,10 @@
   },
   "cerberus": {
    "named_in": 150,
-   "read_on": 35,
-   "read_not_on": 3,
-   "unread": 115,
-   "coverage": 0.233,
+   "read_on": 39,
+   "read_not_on": 7,
+   "unread": 107,
+   "coverage": 0.26,
    "unread_top": [
     [
      "kohaerenz-protokoll-plot-blueprint-erstellung",
@@ -307,10 +307,10 @@
   },
   "chaitin-konstante": {
    "named_in": 17,
-   "read_on": 15,
+   "read_on": 16,
    "read_not_on": 2,
-   "unread": 9,
-   "coverage": 0.882,
+   "unread": 8,
+   "coverage": 0.941,
    "unread_top": [
     [
      "kohaerenz-protokoll-architecture-synthesis",
@@ -373,10 +373,10 @@
   },
   "did": {
    "named_in": 167,
-   "read_on": 22,
+   "read_on": 23,
    "read_not_on": 1,
-   "unread": 147,
-   "coverage": 0.132,
+   "unread": 145,
+   "coverage": 0.138,
    "unread_top": [
     [
      "kohaerenz-protokoll-konzept",
@@ -402,7 +402,7 @@
   },
   "dkt": {
    "named_in": 0,
-   "read_on": 37,
+   "read_on": 39,
    "read_not_on": 0,
    "unread": 0,
    "coverage": null,
@@ -426,10 +426,10 @@
   },
   "emergenz": {
    "named_in": 222,
-   "read_on": 24,
+   "read_on": 27,
    "read_not_on": 0,
-   "unread": 191,
-   "coverage": 0.108,
+   "unread": 184,
+   "coverage": 0.122,
    "unread_top": [
     [
      "emergenz-autonomer-systeme-aegis-forschung",
@@ -484,10 +484,10 @@
   },
   "entropie": {
    "named_in": 269,
-   "read_on": 54,
+   "read_on": 58,
    "read_not_on": 1,
-   "unread": 218,
-   "coverage": 0.201,
+   "unread": 211,
+   "coverage": 0.216,
    "unread_top": [
     [
      "emergenz-autonomer-systeme-aegis-forschung",
@@ -555,10 +555,10 @@
   },
   "externe-ebene": {
    "named_in": 74,
-   "read_on": 25,
-   "read_not_on": 2,
-   "unread": 56,
-   "coverage": 0.338,
+   "read_on": 28,
+   "read_not_on": 4,
+   "unread": 51,
+   "coverage": 0.378,
    "unread_top": [
     [
      "junas-liebe-kaels-trauma-aegis-docx",
@@ -608,10 +608,10 @@
   },
   "genesis": {
    "named_in": 146,
-   "read_on": 52,
-   "read_not_on": 1,
-   "unread": 107,
-   "coverage": 0.356,
+   "read_on": 56,
+   "read_not_on": 3,
+   "unread": 100,
+   "coverage": 0.384,
    "unread_top": [
     [
      "roman-plot-konzept-kohaerenz-protokoll",
@@ -637,10 +637,10 @@
   },
   "goedel-gambit": {
    "named_in": 94,
-   "read_on": 34,
+   "read_on": 35,
    "read_not_on": 0,
-   "unread": 69,
-   "coverage": 0.362,
+   "unread": 68,
+   "coverage": 0.372,
    "unread_top": [
     [
      "plot-exploration-kohaerenz-protokollkonzepte",
@@ -666,10 +666,10 @@
   },
   "grenzfeste": {
    "named_in": 69,
-   "read_on": 17,
+   "read_on": 19,
    "read_not_on": 0,
-   "unread": 56,
-   "coverage": 0.246,
+   "unread": 50,
+   "coverage": 0.275,
    "unread_top": [
     [
      "charakterkonzepte-fuer-kohaerenz-protokoll",
@@ -724,10 +724,10 @@
   },
   "guardians": {
    "named_in": 208,
-   "read_on": 53,
-   "read_not_on": 1,
-   "unread": 159,
-   "coverage": 0.255,
+   "read_on": 59,
+   "read_not_on": 3,
+   "unread": 152,
+   "coverage": 0.284,
    "unread_top": [
     [
      "roman-blueprint-seelen-kohaerenz-protokoll",
@@ -761,10 +761,10 @@
   },
   "isabelle": {
    "named_in": 104,
-   "read_on": 36,
+   "read_on": 40,
    "read_not_on": 4,
-   "unread": 67,
-   "coverage": 0.346,
+   "unread": 63,
+   "coverage": 0.385,
    "unread_top": [
     [
      "kael-system-tsdp-analyse-und-profile",
@@ -790,10 +790,10 @@
   },
   "juna": {
    "named_in": 420,
-   "read_on": 65,
+   "read_on": 74,
    "read_not_on": 3,
-   "unread": 354,
-   "coverage": 0.155,
+   "unread": 345,
+   "coverage": 0.176,
    "unread_top": [
     [
      "juna-resilienz-zyklus-konzeptentwicklung",
@@ -860,30 +860,30 @@
   },
   "kael": {
    "named_in": 481,
-   "read_on": 74,
-   "read_not_on": 3,
-   "unread": 405,
-   "coverage": 0.154,
+   "read_on": 80,
+   "read_not_on": 6,
+   "unread": 396,
+   "coverage": 0.166,
    "unread_top": [
     [
      "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
      216
     ],
     [
-     "leserzentrierte-roman-outline-generierung-kohaeren",
-     204
-    ],
-    [
      "romanarchitektur-kael-aegis-entropie-docx",
      172
     ],
     [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     169
-    ],
-    [
      "kohaerenz-protokoll-scene-by-scene-outline",
      167
+    ],
+    [
+     "romanplot-kohaerenz-protokoll-entwicklung",
+     161
+    ],
+    [
+     "kohaerenz-protokoll-plot-blueprint-erstellung",
+     158
     ]
    ]
   },
@@ -918,10 +918,10 @@
   },
   "kairos": {
    "named_in": 130,
-   "read_on": 29,
-   "read_not_on": 4,
-   "unread": 99,
-   "coverage": 0.223,
+   "read_on": 33,
+   "read_not_on": 8,
+   "unread": 91,
+   "coverage": 0.254,
    "unread_top": [
     [
      "kohaerenz-protokoll-plot-blueprint-erstellung",
@@ -947,10 +947,10 @@
   },
   "kern-welten": {
    "named_in": 43,
-   "read_on": 57,
+   "read_on": 60,
    "read_not_on": 1,
-   "unread": 34,
-   "coverage": 1.326,
+   "unread": 33,
+   "coverage": 1.395,
    "unread_top": [
     [
      "lokalitaeten-konzept-fuer-roman-simulation",
@@ -976,10 +976,10 @@
   },
   "kiko": {
    "named_in": 241,
-   "read_on": 47,
-   "read_not_on": 3,
-   "unread": 192,
-   "coverage": 0.195,
+   "read_on": 52,
+   "read_not_on": 7,
+   "unread": 183,
+   "coverage": 0.216,
    "unread_top": [
     [
      "kael-system-tsdp-analyse-und-profile",
@@ -1034,10 +1034,10 @@
   },
   "kohaerenz-kernel": {
    "named_in": 45,
-   "read_on": 25,
+   "read_on": 27,
    "read_not_on": 1,
-   "unread": 33,
-   "coverage": 0.556,
+   "unread": 31,
+   "coverage": 0.6,
    "unread_top": [
     [
      "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
@@ -1082,7 +1082,7 @@
    "named_in": 516,
    "read_on": 27,
    "read_not_on": 4,
-   "unread": 442,
+   "unread": 433,
    "coverage": 0.052,
    "unread_top": [
     [
@@ -1109,7 +1109,7 @@
   },
   "kollaps-kernel": {
    "named_in": 0,
-   "read_on": 24,
+   "read_on": 26,
    "read_not_on": 0,
    "unread": 0,
    "coverage": null,
@@ -1117,10 +1117,10 @@
   },
   "komponente-734": {
    "named_in": 54,
-   "read_on": 41,
-   "read_not_on": 0,
-   "unread": 29,
-   "coverage": 0.759,
+   "read_on": 46,
+   "read_not_on": 1,
+   "unread": 23,
+   "coverage": 0.852,
    "unread_top": [
     [
      "genesis-ein-implementierungsleitfaden-prosa-version",
@@ -1146,10 +1146,10 @@
   },
   "konstrukt-stadt": {
    "named_in": 134,
-   "read_on": 46,
-   "read_not_on": 0,
-   "unread": 98,
-   "coverage": 0.343,
+   "read_on": 50,
+   "read_not_on": 1,
+   "unread": 92,
+   "coverage": 0.373,
    "unread_top": [
     [
      "charakterkonzepte-fuer-kohaerenz-protokoll",
@@ -1183,10 +1183,10 @@
   },
   "lex": {
    "named_in": 259,
-   "read_on": 50,
-   "read_not_on": 3,
-   "unread": 208,
-   "coverage": 0.193,
+   "read_on": 55,
+   "read_not_on": 7,
+   "unread": 199,
+   "coverage": 0.212,
    "unread_top": [
     [
      "strukturelle-dissoziation-system-kael-analyse",
@@ -1212,10 +1212,10 @@
   },
   "lia": {
    "named_in": 141,
-   "read_on": 41,
-   "read_not_on": 4,
-   "unread": 97,
-   "coverage": 0.291,
+   "read_on": 46,
+   "read_not_on": 8,
+   "unread": 88,
+   "coverage": 0.326,
    "unread_top": [
     [
      "kael-system-tsdp-analyse-und-profile",
@@ -1234,17 +1234,17 @@
      24
     ],
     [
-     "charaktere",
-     16
+     "kernwelten-und-fragmentierte-wahrnehmung",
+     14
     ]
    ]
   },
   "logos": {
    "named_in": 170,
-   "read_on": 39,
-   "read_not_on": 3,
-   "unread": 130,
-   "coverage": 0.229,
+   "read_on": 44,
+   "read_not_on": 7,
+   "unread": 121,
+   "coverage": 0.259,
    "unread_top": [
     [
      "kohaerenz-protokoll-plot-blueprint-erstellung",
@@ -1263,8 +1263,8 @@
      23
     ],
     [
-     "leserzentrierte-roman-outline-generierung-kohaeren",
-     21
+     "digitale-uberwelt",
+     20
     ]
    ]
   },
@@ -1278,39 +1278,39 @@
   },
   "mnemosyne": {
    "named_in": 174,
-   "read_on": 47,
-   "read_not_on": 2,
-   "unread": 127,
-   "coverage": 0.27,
+   "read_on": 52,
+   "read_not_on": 6,
+   "unread": 118,
+   "coverage": 0.299,
    "unread_top": [
-    [
-     "leserzentrierte-roman-outline-generierung-kohaeren",
-     22
-    ],
-    [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     20
-    ],
     [
      "kohaerenz-protokoll-plot-blueprint-erstellung",
      19
     ],
     [
-     "outline-3",
-     19
+     "kohaerenz-protokoll-gesamtkonzept-entwicklung",
+     17
     ],
     [
-     "kontext-outline",
-     18
+     "kohaerenz-protokoll-konzeptentwicklung",
+     15
+    ],
+    [
+     "digitale-uberwelt",
+     14
+    ],
+    [
+     "2-kohaerenz-protokoll-konzeptentwicklung",
+     14
     ]
    ]
   },
   "moeglichkeits-garten": {
    "named_in": 49,
-   "read_on": 30,
+   "read_on": 31,
    "read_not_on": 0,
-   "unread": 28,
-   "coverage": 0.612,
+   "unread": 27,
+   "coverage": 0.633,
    "unread_top": [
     [
      "roman-blueprint-seelen-kohaerenz-protokoll",
@@ -1336,10 +1336,10 @@
   },
   "moonshine-link": {
    "named_in": 181,
-   "read_on": 53,
+   "read_on": 56,
    "read_not_on": 0,
-   "unread": 136,
-   "coverage": 0.293,
+   "unread": 133,
+   "coverage": 0.309,
    "unread_top": [
     [
      "the-k-j-connection-defining-the-non-algorithmic-mechanism-of",
@@ -1365,10 +1365,10 @@
   },
   "moros": {
    "named_in": 161,
-   "read_on": 39,
-   "read_not_on": 4,
-   "unread": 119,
-   "coverage": 0.242,
+   "read_on": 44,
+   "read_not_on": 8,
+   "unread": 110,
+   "coverage": 0.273,
    "unread_top": [
     [
      "strukturelle-dissoziation-system-kael-analyse",
@@ -1387,17 +1387,17 @@
      20
     ],
     [
-     "charaktere",
-     15
+     "kernwelten-und-fragmentierte-wahrnehmung",
+     14
     ]
    ]
   },
   "mosaik-herz": {
    "named_in": 48,
-   "read_on": 21,
+   "read_on": 22,
    "read_not_on": 2,
-   "unread": 25,
-   "coverage": 0.438,
+   "unread": 24,
+   "coverage": 0.458,
    "unread_top": [
     [
      "romanarchitektur-validierung-und-synthese",
@@ -1423,10 +1423,10 @@
   },
   "multiplizitaet": {
    "named_in": 207,
-   "read_on": 55,
-   "read_not_on": 2,
-   "unread": 163,
-   "coverage": 0.266,
+   "read_on": 59,
+   "read_not_on": 6,
+   "unread": 155,
+   "coverage": 0.285,
    "unread_top": [
     [
      "romanarchitektur-kael-aegis-entropie-docx",
@@ -1452,10 +1452,10 @@
   },
   "negentropie": {
    "named_in": 33,
-   "read_on": 8,
+   "read_on": 9,
    "read_not_on": 0,
-   "unread": 27,
-   "coverage": 0.242,
+   "unread": 26,
+   "coverage": 0.273,
    "unread_top": [
     [
      "aegis-singularitaet-jenseits-entropiegleichung-2",
@@ -1481,10 +1481,10 @@
   },
   "nexus": {
    "named_in": 54,
-   "read_on": 15,
+   "read_on": 17,
    "read_not_on": 1,
-   "unread": 38,
-   "coverage": 0.278,
+   "unread": 36,
+   "coverage": 0.315,
    "unread_top": [
     [
      "roman-blueprint-seelen-kohaerenz-protokoll",
@@ -1510,10 +1510,10 @@
   },
   "nichts-rauschen": {
    "named_in": 44,
-   "read_on": 45,
+   "read_on": 48,
    "read_not_on": 0,
-   "unread": 22,
-   "coverage": 1.023,
+   "unread": 21,
+   "coverage": 1.091,
    "unread_top": [
     [
      "roman-refactoring-kohaerenz-und-charakterentwicklung",
@@ -1547,10 +1547,10 @@
   },
   "nyx": {
    "named_in": 258,
-   "read_on": 48,
-   "read_not_on": 4,
-   "unread": 207,
-   "coverage": 0.186,
+   "read_on": 53,
+   "read_not_on": 8,
+   "unread": 198,
+   "coverage": 0.205,
    "unread_top": [
     [
      "tsdp-analyse-kaels-innere-welt",
@@ -1576,10 +1576,10 @@
   },
   "oblivion": {
    "named_in": 69,
-   "read_on": 39,
+   "read_on": 40,
    "read_not_on": 2,
-   "unread": 29,
-   "coverage": 0.565,
+   "unread": 28,
+   "coverage": 0.58,
    "unread_top": [
     [
      "kohaerenz-protokoll-kapitel-outline-generierung",
@@ -1618,10 +1618,10 @@
   },
   "partnerin": {
    "named_in": 32,
-   "read_on": 4,
+   "read_on": 5,
    "read_not_on": 0,
-   "unread": 29,
-   "coverage": 0.125,
+   "unread": 28,
+   "coverage": 0.156,
    "unread_top": [
     [
      "roman-blueprint-seelen-kohaerenz-protokoll",
@@ -1666,7 +1666,7 @@
    "named_in": 55,
    "read_on": 1,
    "read_not_on": 0,
-   "unread": 52,
+   "unread": 50,
    "coverage": 0.018,
    "unread_top": [
     [
@@ -1701,10 +1701,10 @@
   },
   "potentialmeer": {
    "named_in": 136,
-   "read_on": 28,
+   "read_on": 30,
    "read_not_on": 0,
-   "unread": 112,
-   "coverage": 0.206,
+   "unread": 111,
+   "coverage": 0.221,
    "unread_top": [
     [
      "kohaerenz-protokoll-plotideen-extraktion",
@@ -1751,10 +1751,10 @@
   },
   "realitaetsebenen": {
    "named_in": 94,
-   "read_on": 8,
+   "read_on": 11,
    "read_not_on": 0,
-   "unread": 83,
-   "coverage": 0.085,
+   "unread": 77,
+   "coverage": 0.117,
    "unread_top": [
     [
      "orte-konzept-fuer-kohaerenz-protokoll",
@@ -1788,10 +1788,10 @@
   },
   "resonanz-landschaft": {
    "named_in": 61,
-   "read_on": 20,
+   "read_on": 22,
    "read_not_on": 0,
-   "unread": 50,
-   "coverage": 0.328,
+   "unread": 45,
+   "coverage": 0.361,
    "unread_top": [
     [
      "romanentwurf-ruf-des-abenteuers",
@@ -1817,10 +1817,10 @@
   },
   "rhys": {
    "named_in": 171,
-   "read_on": 34,
-   "read_not_on": 4,
-   "unread": 134,
-   "coverage": 0.199,
+   "read_on": 39,
+   "read_not_on": 8,
+   "unread": 125,
+   "coverage": 0.228,
    "unread_top": [
     [
      "strukturelle-dissoziation-system-kael-analyse",
@@ -1846,10 +1846,10 @@
   },
   "risse": {
    "named_in": 386,
-   "read_on": 60,
-   "read_not_on": 3,
-   "unread": 330,
-   "coverage": 0.155,
+   "read_on": 64,
+   "read_not_on": 7,
+   "unread": 322,
+   "coverage": 0.166,
    "unread_top": [
     [
      "orte-konzept-fuer-kohaerenz-protokoll",
@@ -1891,10 +1891,10 @@
   },
   "sektor-04": {
    "named_in": 17,
-   "read_on": 8,
+   "read_on": 9,
    "read_not_on": 2,
-   "unread": 7,
-   "coverage": 0.471,
+   "unread": 6,
+   "coverage": 0.529,
    "unread_top": [
     [
      "kohaerenz-protokoll-kapitel-outline-generierung",
@@ -1913,17 +1913,17 @@
      1
     ],
     [
-     "roman-entwicklung-kohaerenz-protokoll-json",
+     "roman-konzeptentwicklung-kohaerenz-protokoll",
      1
     ]
    ]
   },
   "selene": {
    "named_in": 180,
-   "read_on": 41,
-   "read_not_on": 4,
-   "unread": 136,
-   "coverage": 0.228,
+   "read_on": 47,
+   "read_not_on": 7,
+   "unread": 127,
+   "coverage": 0.261,
    "unread_top": [
     [
      "strukturelle-dissoziation-system-kael-analyse",
@@ -1949,10 +1949,10 @@
   },
   "silas": {
    "named_in": 80,
-   "read_on": 38,
+   "read_on": 39,
    "read_not_on": 2,
-   "unread": 41,
-   "coverage": 0.475,
+   "unread": 40,
+   "coverage": 0.487,
    "unread_top": [
     [
      "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
@@ -1986,10 +1986,10 @@
   },
   "sophia": {
    "named_in": 118,
-   "read_on": 27,
-   "read_not_on": 4,
-   "unread": 87,
-   "coverage": 0.229,
+   "read_on": 31,
+   "read_not_on": 8,
+   "unread": 79,
+   "coverage": 0.263,
    "unread_top": [
     [
      "orte-konzept-fuer-kohaerenz-protokoll",
@@ -2056,10 +2056,10 @@
   },
   "trennungsprotokoll": {
    "named_in": 62,
-   "read_on": 46,
+   "read_on": 47,
    "read_not_on": 0,
-   "unread": 28,
-   "coverage": 0.742,
+   "unread": 27,
+   "coverage": 0.758,
    "unread_top": [
     [
      "coherence-critique-and-question-generation",
@@ -2085,10 +2085,10 @@
   },
   "truth-rotation": {
    "named_in": 30,
-   "read_on": 22,
+   "read_on": 23,
    "read_not_on": 0,
-   "unread": 10,
-   "coverage": 0.733,
+   "unread": 9,
+   "coverage": 0.767,
    "unread_top": [
     [
      "research-prompt-kohaerenz-protokoll-final-architecture-md",
@@ -2114,10 +2114,10 @@
   },
   "tsdp": {
    "named_in": 266,
-   "read_on": 47,
-   "read_not_on": 0,
-   "unread": 224,
-   "coverage": 0.177,
+   "read_on": 54,
+   "read_not_on": 1,
+   "unread": 218,
+   "coverage": 0.203,
    "unread_top": [
     [
      "2-kohaerenz-protokoll-konzeptentwicklung",
@@ -2172,10 +2172,10 @@
   },
   "ueberwelt": {
    "named_in": 384,
-   "read_on": 39,
-   "read_not_on": 7,
-   "unread": 320,
-   "coverage": 0.102,
+   "read_on": 42,
+   "read_not_on": 11,
+   "unread": 311,
+   "coverage": 0.109,
    "unread_top": [
     [
      "physik-fuer-simulierte-realitaet",
@@ -2259,10 +2259,10 @@
   },
   "vortex": {
    "named_in": 44,
-   "read_on": 34,
+   "read_on": 35,
    "read_not_on": 0,
-   "unread": 13,
-   "coverage": 0.773,
+   "unread": 12,
+   "coverage": 0.795,
    "unread_top": [
     [
      "research-prompt-kohaerenz-protokoll-final-architecture-md",
@@ -2306,8 +2306,8 @@
   "entropie",
   "lex",
   "nyx",
-  "kiko",
   "emergenz",
+  "kiko",
   "alters",
   "multiplizitaet",
   "guardians"
@@ -2370,13 +2370,6 @@
      ]
     ],
     [
-     "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-     [
-      "kael",
-      "nyx"
-     ]
-    ],
-    [
      "kael-s-dissociative-architecture-analysis",
      [
       "kael",
@@ -2427,6 +2420,13 @@
     ],
     [
      "critical-plot-interrogatories-for-kohaerenz-protokoll",
+     [
+      "kael",
+      "nyx"
+     ]
+    ],
+    [
+     "the-coherence-protocol-a-worldbuilding-bible",
      [
       "kael",
       "nyx"
@@ -2517,14 +2517,6 @@
      ]
     ],
     [
-     "kohaerenz-protokoll-kapitel-outline-generierung-2",
-     [
-      "oblivion",
-      "risse",
-      "silas"
-     ]
-    ],
-    [
      "the-coherence-protocol-a-world-bible",
      [
       "oblivion",
@@ -2558,6 +2550,14 @@
     ],
     [
      "roman-entwicklung-kohaerenz-und-leitfragen",
+     [
+      "oblivion",
+      "risse",
+      "silas"
+     ]
+    ],
+    [
+     "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
      [
       "oblivion",
       "risse",
@@ -2598,15 +2598,6 @@
    "unread_writing_two_or_more": [
     [
      "plot-generation-framework-for-the-coherence-protocol",
-     [
-      "isabelle",
-      "kiko",
-      "lia",
-      "risse"
-     ]
-    ],
-    [
-     "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
      [
       "isabelle",
       "kiko",
@@ -2723,7 +2714,16 @@
      ]
     ],
     [
-     "kohaerenz-protokoll-kapitel-outline-generierung-2",
+     "kernwelten-und-fragmentierte-wahrnehmung",
+     [
+      "isabelle",
+      "kiko",
+      "lia",
+      "risse"
+     ]
+    ],
+    [
+     "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
      [
       "isabelle",
       "kiko",
@@ -2744,15 +2744,6 @@
    "unread_writing_two_or_more": [
     [
      "kohaerenz-protokoll-kapitel-outline-generierung",
-     [
-      "aegis",
-      "kael",
-      "komponente-734",
-      "trennungsprotokoll"
-     ]
-    ],
-    [
-     "kohaerenz-protokoll-kapitel-outline-generierung-2",
      [
       "aegis",
       "kael",
@@ -2826,30 +2817,6 @@
      ]
     ],
     [
-     "leserzentrierte-roman-outline-generierung-kohaeren",
-     [
-      "aegis",
-      "kael",
-      "komponente-734"
-     ]
-    ],
-    [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     [
-      "aegis",
-      "kael",
-      "komponente-734"
-     ]
-    ],
-    [
-     "outline-3",
-     [
-      "aegis",
-      "kael",
-      "komponente-734"
-     ]
-    ],
-    [
      "narrative-blueprint-the-coherence-protocol",
      [
       "aegis",
@@ -2858,7 +2825,39 @@
      ]
     ],
     [
-     "outline-2",
+     "genesis-ein-implementierungsleitfaden-prosa-version",
+     [
+      "aegis",
+      "kael",
+      "komponente-734"
+     ]
+    ],
+    [
+     "genesis-mehrstufige-recherche-und-ausformulierung",
+     [
+      "aegis",
+      "kael",
+      "komponente-734"
+     ]
+    ],
+    [
+     "kohaerenz-protokoll-architecture-synthesis",
+     [
+      "aegis",
+      "kael",
+      "trennungsprotokoll"
+     ]
+    ],
+    [
+     "prosaversion-von-genesis-erstellen",
+     [
+      "aegis",
+      "kael",
+      "komponente-734"
+     ]
+    ],
+    [
+     "genesis-logik-krise-zerstueckelung",
      [
       "aegis",
       "kael",
@@ -3249,16 +3248,6 @@
      ]
     ],
     [
-     "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-     [
-      "kairos",
-      "kern-welten",
-      "moeglichkeits-garten",
-      "realitaetsebenen",
-      "sophia"
-     ]
-    ],
-    [
      "kohaerenz-protokoll-plot-blueprint-erstellung",
      [
       "kairos",
@@ -3344,6 +3333,15 @@
     ],
     [
      "orte-konzept-fuer-kohaerenz-protokoll",
+     [
+      "kairos",
+      "kern-welten",
+      "realitaetsebenen",
+      "sophia"
+     ]
+    ],
+    [
+     "welten",
      [
       "kairos",
       "kern-welten",
@@ -3597,13 +3595,6 @@
      ]
     ],
     [
-     "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-     [
-      "kern-welten",
-      "konstrukt-stadt"
-     ]
-    ],
-    [
      "plot-analyse-und-romanentwicklung",
      [
       "kern-welten",
@@ -3668,6 +3659,13 @@
     ],
     [
      "romanentwurf-kohaerenz-protokoll-teil-1",
+     [
+      "kern-welten",
+      "konstrukt-stadt"
+     ]
+    ],
+    [
+     "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
      [
       "kern-welten",
       "konstrukt-stadt"
@@ -3956,13 +3954,6 @@
      ]
     ],
     [
-     "kohaerenz-protokoll-kapitel-outline-generierung-2",
-     [
-      "aegis",
-      "trennungsprotokoll"
-     ]
-    ],
-    [
      "operationalizing-system-collapse-a-strategic-guide-to-aegis",
      [
       "aegis",
@@ -4003,6 +3994,13 @@
       "aegis",
       "trennungsprotokoll"
      ]
+    ],
+    [
+     "storyforms-system-mind-bewusstsein",
+     [
+      "aegis",
+      "trennungsprotokoll"
+     ]
     ]
    ]
   },
@@ -4014,6 +4012,7 @@
     "alters",
     "argus",
     "cerberus",
+    "externe-ebene",
     "grenzfeste",
     "guardians",
     "juna",
@@ -4035,36 +4034,13 @@
    ],
    "unread_writing_two_or_more": [
     [
-     "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-     [
-      "aegis",
-      "alex",
-      "argus",
-      "cerberus",
-      "grenzfeste",
-      "juna",
-      "kael",
-      "kern-welten",
-      "kiko",
-      "konstrukt-stadt",
-      "logos",
-      "mnemosyne",
-      "moeglichkeits-garten",
-      "moros",
-      "realitaetsebenen",
-      "resonanz-landschaft",
-      "rhys",
-      "selene",
-      "ueberwelt"
-     ]
-    ],
-    [
      "romanarchitektur-kael-aegis-entropie-docx",
      [
       "aegis",
       "alex",
       "argus",
       "cerberus",
+      "externe-ebene",
       "grenzfeste",
       "guardians",
       "juna",
@@ -4074,29 +4050,6 @@
       "logos",
       "mnemosyne",
       "moeglichkeits-garten",
-      "moros",
-      "realitaetsebenen",
-      "resonanz-landschaft",
-      "rhys",
-      "selene",
-      "ueberwelt"
-     ]
-    ],
-    [
-     "outline-2",
-     [
-      "aegis",
-      "alex",
-      "argus",
-      "cerberus",
-      "grenzfeste",
-      "guardians",
-      "juna",
-      "kael",
-      "kiko",
-      "konstrukt-stadt",
-      "logos",
-      "mnemosyne",
       "moros",
       "realitaetsebenen",
       "resonanz-landschaft",
@@ -4112,6 +4065,7 @@
       "alex",
       "argus",
       "cerberus",
+      "externe-ebene",
       "grenzfeste",
       "guardians",
       "juna",
@@ -4129,57 +4083,101 @@
      ]
     ],
     [
-     "kontext-outline",
+     "lokalitaeten-konzept-fuer-roman-simulation",
      [
       "aegis",
-      "alex",
-      "argus",
+      "alters",
       "cerberus",
+      "externe-ebene",
       "grenzfeste",
       "guardians",
       "juna",
       "kael",
-      "kiko",
+      "kern-welten",
       "konstrukt-stadt",
       "logos",
       "mnemosyne",
-      "moros",
+      "moeglichkeits-garten",
+      "oblivion",
       "realitaetsebenen",
       "resonanz-landschaft",
-      "rhys",
-      "selene",
       "ueberwelt"
      ]
     ],
     [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+     "roman-lokalitaeten-konzept-und-ausarbeitung-2",
      [
       "aegis",
-      "alex",
-      "argus",
+      "alters",
       "cerberus",
+      "externe-ebene",
       "grenzfeste",
       "guardians",
       "juna",
       "kael",
-      "kiko",
+      "kern-welten",
       "konstrukt-stadt",
       "logos",
       "mnemosyne",
-      "moros",
+      "moeglichkeits-garten",
+      "oblivion",
+      "realitaetsebenen",
       "resonanz-landschaft",
-      "rhys",
-      "selene",
       "ueberwelt"
      ]
     ],
     [
-     "outline-3",
+     "roman-lokalitaeten-konzept-und-ausarbeitung-3",
+     [
+      "aegis",
+      "alters",
+      "cerberus",
+      "externe-ebene",
+      "grenzfeste",
+      "guardians",
+      "juna",
+      "kael",
+      "kern-welten",
+      "konstrukt-stadt",
+      "logos",
+      "mnemosyne",
+      "moeglichkeits-garten",
+      "oblivion",
+      "realitaetsebenen",
+      "resonanz-landschaft",
+      "ueberwelt"
+     ]
+    ],
+    [
+     "plot-analyse-und-romanentwicklung",
+     [
+      "aegis",
+      "alters",
+      "cerberus",
+      "externe-ebene",
+      "grenzfeste",
+      "guardians",
+      "juna",
+      "kael",
+      "kern-welten",
+      "konstrukt-stadt",
+      "logos",
+      "mnemosyne",
+      "moeglichkeits-garten",
+      "mosaik-herz",
+      "oblivion",
+      "resonanz-landschaft",
+      "ueberwelt"
+     ]
+    ],
+    [
+     "roman-outline-fuer-kohaerenz-protokoll",
      [
       "aegis",
       "alex",
       "argus",
       "cerberus",
+      "externe-ebene",
       "grenzfeste",
       "guardians",
       "juna",
@@ -4189,7 +4187,6 @@
       "mnemosyne",
       "moros",
       "realitaetsebenen",
-      "resonanz-landschaft",
       "rhys",
       "selene",
       "ueberwelt"
@@ -4212,6 +4209,94 @@
       "moros",
       "realitaetsebenen",
       "resonanz-landschaft",
+      "rhys",
+      "selene",
+      "ueberwelt"
+     ]
+    ],
+    [
+     "2-kohaerenz-protokoll-konzeptentwicklung",
+     [
+      "aegis",
+      "alex",
+      "argus",
+      "cerberus",
+      "externe-ebene",
+      "grenzfeste",
+      "guardians",
+      "juna",
+      "kael",
+      "kiko",
+      "logos",
+      "mnemosyne",
+      "moros",
+      "realitaetsebenen",
+      "rhys",
+      "selene",
+      "ueberwelt"
+     ]
+    ],
+    [
+     "kohaerenz-protokoll-plot-blueprint-erstellung",
+     [
+      "aegis",
+      "alters",
+      "cerberus",
+      "externe-ebene",
+      "grenzfeste",
+      "guardians",
+      "juna",
+      "kael",
+      "kern-welten",
+      "konstrukt-stadt",
+      "logos",
+      "mnemosyne",
+      "moeglichkeits-garten",
+      "oblivion",
+      "realitaetsebenen",
+      "resonanz-landschaft",
+      "ueberwelt"
+     ]
+    ],
+    [
+     "kohaerenz-protokoll-konzeptentwicklung",
+     [
+      "aegis",
+      "alex",
+      "argus",
+      "cerberus",
+      "externe-ebene",
+      "grenzfeste",
+      "guardians",
+      "juna",
+      "kael",
+      "kiko",
+      "logos",
+      "mnemosyne",
+      "moros",
+      "realitaetsebenen",
+      "rhys",
+      "selene",
+      "ueberwelt"
+     ]
+    ],
+    [
+     "roman-konzept-kohaerenz-protokoll",
+     [
+      "aegis",
+      "alex",
+      "argus",
+      "cerberus",
+      "externe-ebene",
+      "grenzfeste",
+      "guardians",
+      "juna",
+      "kael",
+      "kiko",
+      "logos",
+      "mnemosyne",
+      "moros",
+      "realitaetsebenen",
       "rhys",
       "selene",
       "ueberwelt"
@@ -4262,35 +4347,14 @@
      ]
     ],
     [
-     "roman-entwicklung-kohaerenz-protokoll-json",
+     "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
      [
       "aegis",
       "alex",
       "alters",
       "argus",
       "cerberus",
-      "guardians",
-      "juna",
-      "kael",
-      "kiko",
-      "konstrukt-stadt",
-      "logos",
-      "mnemosyne",
-      "moros",
-      "mosaik-herz",
-      "rhys",
-      "selene",
-      "ueberwelt"
-     ]
-    ],
-    [
-     "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
-     [
-      "aegis",
-      "alex",
-      "alters",
-      "argus",
-      "cerberus",
+      "externe-ebene",
       "grenzfeste",
       "guardians",
       "juna",
@@ -4299,72 +4363,8 @@
       "konstrukt-stadt",
       "logos",
       "mnemosyne",
-      "moros",
       "resonanz-landschaft",
       "rhys",
-      "selene"
-     ]
-    ],
-    [
-     "lokalitaeten-konzept-fuer-roman-simulation",
-     [
-      "aegis",
-      "alters",
-      "cerberus",
-      "grenzfeste",
-      "guardians",
-      "juna",
-      "kael",
-      "kern-welten",
-      "konstrukt-stadt",
-      "logos",
-      "mnemosyne",
-      "moeglichkeits-garten",
-      "oblivion",
-      "realitaetsebenen",
-      "resonanz-landschaft",
-      "ueberwelt"
-     ]
-    ],
-    [
-     "roman-lokalitaeten-konzept-und-ausarbeitung-2",
-     [
-      "aegis",
-      "alters",
-      "cerberus",
-      "grenzfeste",
-      "guardians",
-      "juna",
-      "kael",
-      "kern-welten",
-      "konstrukt-stadt",
-      "logos",
-      "mnemosyne",
-      "moeglichkeits-garten",
-      "oblivion",
-      "realitaetsebenen",
-      "resonanz-landschaft",
-      "ueberwelt"
-     ]
-    ],
-    [
-     "roman-lokalitaeten-konzept-und-ausarbeitung-3",
-     [
-      "aegis",
-      "alters",
-      "cerberus",
-      "grenzfeste",
-      "guardians",
-      "juna",
-      "kael",
-      "kern-welten",
-      "konstrukt-stadt",
-      "logos",
-      "mnemosyne",
-      "moeglichkeits-garten",
-      "oblivion",
-      "realitaetsebenen",
-      "resonanz-landschaft",
       "ueberwelt"
      ]
     ]
@@ -4385,34 +4385,6 @@
     "selene"
    ],
    "unread_writing_two_or_more": [
-    [
-     "leserzentrierte-roman-outline-generierung-kohaeren",
-     [
-      "aegis",
-      "alex",
-      "genesis",
-      "grenzfeste",
-      "guardians",
-      "kael",
-      "mnemosyne",
-      "personas",
-      "selene"
-     ]
-    ],
-    [
-     "charaktere",
-     [
-      "aegis",
-      "alex",
-      "alters",
-      "genesis",
-      "guardians",
-      "kael",
-      "mnemosyne",
-      "personas",
-      "selene"
-     ]
-    ],
     [
      "aegis-manifest-genesis-krise-reboot-2",
      [
@@ -4441,32 +4413,6 @@
     ],
     [
      "roman-outline-1-13-fuer-kohaerenz-protokoll",
-     [
-      "aegis",
-      "alex",
-      "genesis",
-      "grenzfeste",
-      "guardians",
-      "kael",
-      "mnemosyne",
-      "selene"
-     ]
-    ],
-    [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     [
-      "aegis",
-      "alex",
-      "genesis",
-      "grenzfeste",
-      "guardians",
-      "kael",
-      "mnemosyne",
-      "selene"
-     ]
-    ],
-    [
-     "outline-3",
      [
       "aegis",
       "alex",
@@ -4518,33 +4464,7 @@
      ]
     ],
     [
-     "outline-2",
-     [
-      "aegis",
-      "alex",
-      "genesis",
-      "grenzfeste",
-      "guardians",
-      "kael",
-      "mnemosyne",
-      "selene"
-     ]
-    ],
-    [
      "kohaerenz-protokoll-scene-by-scene-outline",
-     [
-      "aegis",
-      "alex",
-      "genesis",
-      "grenzfeste",
-      "guardians",
-      "kael",
-      "mnemosyne",
-      "selene"
-     ]
-    ],
-    [
-     "kontext-outline",
      [
       "aegis",
       "alex",
@@ -4581,6 +4501,81 @@
       "mnemosyne",
       "selene"
      ]
+    ],
+    [
+     "roman-entwicklung-kohaerenz-und-leitfragen",
+     [
+      "aegis",
+      "alters",
+      "genesis",
+      "grenzfeste",
+      "guardians",
+      "kael",
+      "mnemosyne",
+      "personas"
+     ]
+    ],
+    [
+     "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+     [
+      "aegis",
+      "alex",
+      "alters",
+      "grenzfeste",
+      "guardians",
+      "kael",
+      "mnemosyne",
+      "selene"
+     ]
+    ],
+    [
+     "project-codex-the-canonical-narrative-architecture-of-kohaer",
+     [
+      "aegis",
+      "alex",
+      "alters",
+      "grenzfeste",
+      "guardians",
+      "kael",
+      "mnemosyne",
+      "selene"
+     ]
+    ],
+    [
+     "aegis-genesis-crisis-self-definition",
+     [
+      "aegis",
+      "genesis",
+      "grenzfeste",
+      "guardians",
+      "kael",
+      "mnemosyne",
+      "personas"
+     ]
+    ],
+    [
+     "lokalitaeten-konzept-fuer-roman-simulation",
+     [
+      "aegis",
+      "alters",
+      "grenzfeste",
+      "guardians",
+      "kael",
+      "mnemosyne",
+      "personas"
+     ]
+    ],
+    [
+     "deconstructing-reality-s-architecture",
+     [
+      "aegis",
+      "alex",
+      "alters",
+      "genesis",
+      "kael",
+      "mnemosyne",
+      "selene"
+     ]
     ]
    ]
   },
@@ -4602,6 +4597,7 @@
     "resonanz-landschaft",
     "sophia",
     "tsdp",
+    "ueberwelt",
     "vortex"
    ],
    "unread_writing_two_or_more": [
@@ -4622,7 +4618,8 @@
       "moeglichkeits-garten",
       "resonanz-landschaft",
       "sophia",
-      "tsdp"
+      "tsdp",
+      "ueberwelt"
      ]
     ],
     [
@@ -4641,7 +4638,8 @@
       "mnemosyne",
       "moeglichkeits-garten",
       "resonanz-landschaft",
-      "sophia"
+      "sophia",
+      "ueberwelt"
      ]
     ],
     [
@@ -4660,7 +4658,8 @@
       "mnemosyne",
       "moeglichkeits-garten",
       "resonanz-landschaft",
-      "sophia"
+      "sophia",
+      "ueberwelt"
      ]
     ],
     [
@@ -4679,7 +4678,8 @@
       "mnemosyne",
       "moeglichkeits-garten",
       "resonanz-landschaft",
-      "sophia"
+      "sophia",
+      "ueberwelt"
      ]
     ],
     [
@@ -4698,7 +4698,8 @@
       "mnemosyne",
       "moeglichkeits-garten",
       "resonanz-landschaft",
-      "sophia"
+      "sophia",
+      "ueberwelt"
      ]
     ],
     [
@@ -4717,7 +4718,8 @@
       "mnemosyne",
       "moeglichkeits-garten",
       "resonanz-landschaft",
-      "sophia"
+      "sophia",
+      "ueberwelt"
      ]
     ],
     [
@@ -4736,7 +4738,8 @@
       "moeglichkeits-garten",
       "resonanz-landschaft",
       "sophia",
-      "tsdp"
+      "tsdp",
+      "ueberwelt"
      ]
     ],
     [
@@ -4755,7 +4758,8 @@
       "mnemosyne",
       "moeglichkeits-garten",
       "resonanz-landschaft",
-      "sophia"
+      "sophia",
+      "ueberwelt"
      ]
     ],
     [
@@ -4774,7 +4778,8 @@
       "mnemosyne",
       "moeglichkeits-garten",
       "resonanz-landschaft",
-      "sophia"
+      "sophia",
+      "ueberwelt"
      ]
     ],
     [
@@ -4793,7 +4798,8 @@
       "moeglichkeits-garten",
       "resonanz-landschaft",
       "sophia",
-      "tsdp"
+      "tsdp",
+      "ueberwelt"
      ]
     ],
     [
@@ -4812,25 +4818,8 @@
       "mnemosyne",
       "moeglichkeits-garten",
       "resonanz-landschaft",
-      "sophia"
-     ]
-    ],
-    [
-     "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-     [
-      "aegis",
-      "cerberus",
-      "grenzfeste",
-      "juna",
-      "kael",
-      "kairos",
-      "kern-welten",
-      "konstrukt-stadt",
-      "logos",
-      "mnemosyne",
-      "moeglichkeits-garten",
-      "resonanz-landschaft",
-      "sophia"
+      "sophia",
+      "ueberwelt"
      ]
     ],
     [
@@ -4848,25 +4837,8 @@
       "mnemosyne",
       "moeglichkeits-garten",
       "resonanz-landschaft",
-      "sophia"
-     ]
-    ],
-    [
-     "kontext-outline",
-     [
-      "aegis",
-      "cerberus",
-      "grenzfeste",
-      "guardians",
-      "juna",
-      "kael",
-      "kairos",
-      "konstrukt-stadt",
-      "logos",
-      "mnemosyne",
-      "resonanz-landschaft",
       "sophia",
-      "tsdp"
+      "ueberwelt"
      ]
     ],
     [
@@ -4884,7 +4856,46 @@
       "logos",
       "mnemosyne",
       "resonanz-landschaft",
-      "sophia"
+      "sophia",
+      "ueberwelt"
+     ]
+    ],
+    [
+     "kohaerenz-protokoll-narrative-architektur-2",
+     [
+      "aegis",
+      "cerberus",
+      "grenzfeste",
+      "juna",
+      "kael",
+      "kairos",
+      "konstrukt-stadt",
+      "logos",
+      "mnemosyne",
+      "moeglichkeits-garten",
+      "resonanz-landschaft",
+      "sophia",
+      "tsdp",
+      "ueberwelt"
+     ]
+    ],
+    [
+     "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
+     [
+      "aegis",
+      "cerberus",
+      "grenzfeste",
+      "guardians",
+      "juna",
+      "kael",
+      "kairos",
+      "konstrukt-stadt",
+      "logos",
+      "mnemosyne",
+      "resonanz-landschaft",
+      "sophia",
+      "tsdp",
+      "ueberwelt"
      ]
     ]
    ]
@@ -5050,18 +5061,6 @@
      ]
     ],
     [
-     "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-     [
-      "aegis",
-      "externe-ebene",
-      "juna",
-      "kael",
-      "kern-welten",
-      "moeglichkeits-garten",
-      "ueberwelt"
-     ]
-    ],
-    [
      "romanarchitektur-kael-aegis-entropie-docx",
      [
       "aegis",
@@ -5096,6 +5095,18 @@
       "kern-welten",
       "ueberwelt"
      ]
+    ],
+    [
+     "kohaerenz-protokoll-weltkonzept-synthese",
+     [
+      "aegis",
+      "externe-ebene",
+      "guardians",
+      "juna",
+      "kael",
+      "nexus",
+      "ueberwelt"
+     ]
     ]
    ]
   },
@@ -5113,17 +5124,6 @@
    "unread_writing_two_or_more": [
     [
      "kohaerenz-protokoll-kapitel-outline-generierung",
-     [
-      "aegis",
-      "genesis",
-      "kael",
-      "komponente-734",
-      "lex",
-      "trennungsprotokoll"
-     ]
-    ],
-    [
-     "kohaerenz-protokoll-kapitel-outline-generierung-2",
      [
       "aegis",
       "genesis",
@@ -5154,57 +5154,7 @@
      ]
     ],
     [
-     "leserzentrierte-roman-outline-generierung-kohaeren",
-     [
-      "aegis",
-      "genesis",
-      "kael",
-      "komponente-734",
-      "lex"
-     ]
-    ],
-    [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     [
-      "aegis",
-      "genesis",
-      "kael",
-      "komponente-734",
-      "lex"
-     ]
-    ],
-    [
-     "outline-3",
-     [
-      "aegis",
-      "genesis",
-      "kael",
-      "komponente-734",
-      "lex"
-     ]
-    ],
-    [
      "narrative-blueprint-the-coherence-protocol",
-     [
-      "aegis",
-      "genesis",
-      "kael",
-      "komponente-734",
-      "lex"
-     ]
-    ],
-    [
-     "outline-2",
-     [
-      "aegis",
-      "genesis",
-      "kael",
-      "komponente-734",
-      "lex"
-     ]
-    ],
-    [
-     "kontext-outline",
      [
       "aegis",
       "genesis",
@@ -5262,6 +5212,64 @@
       "lex",
       "trennungsprotokoll"
      ]
+    ],
+    [
+     "strategic-narrative-analysis-forging-a-compelling-story-from",
+     [
+      "aegis",
+      "genesis",
+      "kael",
+      "komponente-734",
+      "lex"
+     ]
+    ],
+    [
+     "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me",
+     [
+      "aegis",
+      "genesis",
+      "kael",
+      "lex",
+      "trennungsprotokoll"
+     ]
+    ],
+    [
+     "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
+     [
+      "aegis",
+      "genesis",
+      "kael",
+      "lex",
+      "trennungsprotokoll"
+     ]
+    ],
+    [
+     "strategic-narrative-solutions-for-kohaerenz-protokoll",
+     [
+      "aegis",
+      "genesis",
+      "kael",
+      "lex",
+      "trennungsprotokoll"
+     ]
+    ],
+    [
+     "aegis",
+     [
+      "aegis",
+      "genesis",
+      "kael",
+      "komponente-734"
+     ]
+    ],
+    [
+     "aegis-genesis-crisis-self-definition",
+     [
+      "aegis",
+      "genesis",
+      "kael",
+      "trennungsprotokoll"
+     ]
     ]
    ]
   },
@@ -5279,17 +5287,6 @@
    "unread_writing_two_or_more": [
     [
      "kohaerenz-protokoll-kapitel-outline-generierung",
-     [
-      "aegis",
-      "algorithmische-melancholie",
-      "kael",
-      "oblivion",
-      "truth-rotation",
-      "vortex"
-     ]
-    ],
-    [
-     "kohaerenz-protokoll-kapitel-outline-generierung-2",
      [
       "aegis",
       "algorithmische-melancholie",
@@ -5423,6 +5420,15 @@
       "goedel-gambit",
       "kael"
      ]
+    ],
+    [
+     "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet",
+     [
+      "aegis",
+      "algorithmische-melancholie",
+      "goedel-gambit",
+      "kael"
+     ]
     ]
    ]
   },
@@ -5527,17 +5533,6 @@
      ]
     ],
     [
-     "kohaerenz-protokoll-kapitel-outline-generierung-2",
-     [
-      "aegis",
-      "genesis",
-      "juna",
-      "kael",
-      "moonshine-link",
-      "silas"
-     ]
-    ],
-    [
      "the-coherence-protocol-a-world-bible",
      [
       "aegis",
@@ -5602,200 +5597,22 @@
       "kael",
       "moonshine-link"
      ]
+    ],
+    [
+     "strategic-narrative-analysis-forging-a-compelling-story-from",
+     [
+      "aegis",
+      "externe-ebene",
+      "genesis",
+      "juna",
+      "kael",
+      "moonshine-link"
+     ]
     ]
    ]
   }
  },
  "reading_queue": [
-  {
-   "document": "kohaerenz-protokoll-kapitel-outline-generierung-2",
-   "records": [
-    "C10",
-    "C11",
-    "C15",
-    "C16",
-    "C4",
-    "C6",
-    "Q1",
-    "Q2",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 30
-  },
-  {
-   "document": "roman-entwicklung-kohaerenz-protokoll-json",
-   "records": [
-    "C10",
-    "C15",
-    "C16",
-    "C3",
-    "C4",
-    "C5",
-    "C6",
-    "Q1",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 30
-  },
-  {
-   "document": "kontext-outline",
-   "records": [
-    "C10",
-    "C15",
-    "C16",
-    "C3",
-    "C4",
-    "C5",
-    "C6",
-    "Q1",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 29
-  },
-  {
-   "document": "outline-2",
-   "records": [
-    "C10",
-    "C15",
-    "C16",
-    "C3",
-    "C4",
-    "C5",
-    "C6",
-    "Q1",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 28
-  },
-  {
-   "document": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-   "records": [
-    "C10",
-    "C15",
-    "C16",
-    "C4",
-    "C5",
-    "C6",
-    "C9",
-    "Q1",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 27
-  },
-  {
-   "document": "leserzentrierte-roman-outline-generierung-kohaeren",
-   "records": [
-    "C10",
-    "C15",
-    "C16",
-    "C3",
-    "C4",
-    "C5",
-    "C6",
-    "Q1",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 27
-  },
-  {
-   "document": "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-   "records": [
-    "C10",
-    "C15",
-    "C16",
-    "C3",
-    "C4",
-    "C5",
-    "C6",
-    "Q1",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 27
-  },
-  {
-   "document": "outline-3",
-   "records": [
-    "C10",
-    "C15",
-    "C16",
-    "C3",
-    "C4",
-    "C5",
-    "C6",
-    "Q1",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 27
-  },
-  {
-   "document": "charaktere",
-   "records": [
-    "C10",
-    "C15",
-    "C16",
-    "C3",
-    "C4",
-    "C5",
-    "C6",
-    "Q1",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 27
-  },
   {
    "document": "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
    "records": [
@@ -5921,6 +5738,195 @@
     "Q9"
    ],
    "pages": 25
+  },
+  {
+   "document": "kohaerenz-protokoll-gesamtkonzept-entwicklung",
+   "records": [
+    "C10",
+    "C15",
+    "C16",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 25
+  },
+  {
+   "document": "finales-kausales-plot-geruest",
+   "records": [
+    "C10",
+    "C15",
+    "C16",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 25
+  },
+  {
+   "document": "romanprojekt-analyse-synthese",
+   "records": [
+    "C10",
+    "C11",
+    "C15",
+    "C16",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 25
+  },
+  {
+   "document": "project-codex-the-canonical-narrative-architecture-of-kohaer",
+   "records": [
+    "C10",
+    "C15",
+    "C16",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 25
+  },
+  {
+   "document": "the-coherence-protocol-a-definitive-guide-to-the-narrative-a",
+   "records": [
+    "C10",
+    "C15",
+    "C16",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 24
+  },
+  {
+   "document": "concept-paper-the-architectural-foundations-of-kohaerenz-pro",
+   "records": [
+    "C10",
+    "C15",
+    "C16",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 23
+  },
+  {
+   "document": "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte",
+   "records": [
+    "C10",
+    "C15",
+    "C16",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 23
+  },
+  {
+   "document": "the-coherence-protocol-a-definitive-guide-to-narrative-archi",
+   "records": [
+    "C10",
+    "C15",
+    "C16",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 23
+  },
+  {
+   "document": "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+   "records": [
+    "C10",
+    "C15",
+    "C16",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 23
   }
  ]
 }

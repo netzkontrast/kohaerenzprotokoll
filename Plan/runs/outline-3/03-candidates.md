@@ -1,0 +1,100 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+The document is a chapter outline in German with English act headings: Prologue, 39 chapters, three acts. Each chapter carries two labelled blocks, [Handlung] and [Konzeptionelles], and the second one is a template of seven fixed field labels (Core Theme, Kael Internal, AEGIS Focus, Setting, Subplots, Philosophy, Genre/Trope). Those labels repeat under every chapter and are the template, not terms of the world, so they are not listed. Many statements are hedged with „möglicherweise“, „evtl.“ and question marks: the outline proposes. Kael's parts are named only by first name; the abbreviations ANP and EP are never spelled out here. The export dropped the digit after „KW“ in some places the reader sees, and glued numbers like KW1 stand in the text; chapter numbers are written „Chapter 1:“ and „Kap. 14/15“. Ordinals and digits glued to words are counted by the tool, not by hand.
+
+- AEGIS
+- Komponente 734
+- Vorläufer-Ich
+- Nichts Rauschen
+- Echo
+- Kohärenz Protokoll
+- System Kael
+- Schutz-Clustern
+- Juna/V
+- Kael
+- Host
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Moros
+- Selene
+- Argus
+- ANP
+- ANPs
+- EP
+- EPs
+- TSDP
+- Switches
+- Ko-Bewusstsein
+- Ko-Präsenz
+- funktionaler Multiplizität
+- Funktionale Multiplizität
+- Phobien
+- Task Force
+- Inneres Konferenzzimmer
+- Glitches
+- Riss
+- Risse
+- KW1
+- KW2
+- KW3
+- KW4
+- Kernwelten
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Überwelt
+- AEGIS-Überwelt
+- Meta-Ebene
+- Fundament
+- Externen Ebene
+- Guardians
+- Guardian LogOS
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kernparadoxon
+- AEGIS Paradoxon
+- Fehlausgerichtete Kohärenz
+- Kael Integration
+- Gaslighting
+- Panoptismus
+- Kerntraumata
+- Genesis
+
+## lens
+
+- Heroine's Journey
+- Hero's Journey
+- Plot Point 1
+- Plot Point 2
+- Care Ethics
+- Zweite-Ordnung-Kybernetik
+- Hume
+- Kant
+- Hobbes
+- Locke
+- Bergson
+- Sartre
+- Kierkegaard
+- Buber
+- Kuhn
+- Parfit
+- Bostrom
+- Levinas
+- Russell
+- Gödel
+- Nietzsche
+- Popper
+- Luhmann
+- von Foerster
+- Aristoteles
+- Logischer Positivismus
+- Kybernetik
+- Cosmic Horror

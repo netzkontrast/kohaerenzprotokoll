@@ -18,7 +18,7 @@ Every HyperExtract contract run on this source, one line per run — written by 
 | `CausalLinks` | `causallinks-haiku-2026-09-30` | haiku | refused | 6 | 0 | 6 surface absent from document | — | $0.035 |
 | `CausalLinks` | `causallinks-sonnet-2026-10-01` | sonnet | yielded | 5 | 5 | — | 3 | $0.073 |
 | `ChapterBeats` | `chapterbeats-sonnet-2026-10-01` | sonnet | yielded | 1 | 1 | — | 3 | $0.050 |
-| `ChapterCards` | `chaptercards-sonnet-2026-10-01` | sonnet | yielded | 1 | 1 | — | 3 | $0.047 |
+| `ChapterCards` | `chaptercards-sonnet-2026-10-01` | sonnet | yielded · stale (template changed, source current) | 1 | 1 | — | 3 | $0.047 |
 | `DiegeticTerms` | `diegeticterms-sonnet-2026-10-01` | sonnet | yielded | 1 | 1 | — | 3 | $0.051 |
 | `EntityFacts` | `entityfacts-sonnet-2026-10-01` | sonnet | yielded | 4 | 4 | — | 3 | $0.058 |
 | `Knowledge` | `knowledge-haiku-2026-09-30` | haiku | yielded | 12 | 2 | 10 surface absent from document | — | $0.037 |

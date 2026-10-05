@@ -1,16 +1,28 @@
 ---
 term: Argus
 status: candidate
-sources: 36
-readings: 36
+sources: 42
+readings: 42
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "leserzentrierte-roman-outline-generierung-kohaeren", "charaktere"]
 gathered: "2026-09-24"
 ---
 
 # Argus
 
 One of the thirteen [[alters|Alters]] — Sonder-Kategorie, „Meta-Kognitiv" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L500].
+
+## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Argus as pattern recogniser, always hedged
+
+The world concept gives Argus the function `Mustererkennung` and always hedges it. In KW1: „Argus könnte die logischen Fehler analysieren“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L39]. In KW4: „potenziell Argus (Mustererkennung)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L104]. For the Überwelt it holds a direct resonance unlikely „außer vielleicht für Argus (Mustererkennung)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L129].
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — the glossary gloss and Argus in the analytic chapters
+
+The glossary glosses Argus as „Meta-Beobachter/Analytiker.“ ^[kontext-outline.md:L42] Chapter 11 plans „Lex/Argus analysieren“ ^[kontext-outline.md:L190], and Chapter 12 keeps the figure open with a question mark: „Argus (Meta-Beobachter) aktiv?“ ^[kontext-outline.md:L202]. Chapter 18 plans the figure as the focus: „Argus (Meta-Beobachter) zentral“ ^[kontext-outline.md:L271].
+
+## Reading — `leserzentrierte-roman-outline-generierung-kohaeren`, 2025-05-03, the reader-centred outline — Argus as the newly appearing meta-observer
+
+In Chapter 11 the plan has the rift recognised by „die analytischen Anteile Lex und der neu auftauchende Meta-Beobachter Argus“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L154]. The `kontext-outline` reading on this page records the glossary's gloss of Argus as a meta-observer ^[kontext-outline.md:L42] and Argus „aktiv?“ in Chapter 12; this document has Argus arrive in Chapter 11, with Lex, as a new figure.
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the border warden at an unstable Threshold Zone in Kap 4–6
 
@@ -19,6 +31,10 @@ For the chapter assessment the report writes, of Kap 4–6 and the plot document
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — a metacognitive part, core phobia imperfection
 
 Among the `Sonderformen/Integrierende Anteile` the roster (reference 1, glued `1`) lists Argus as `Beobachter`: „Ein metakognitiver Anteil, der das System kritisch analysiert“ ^[system-kael-konzeptentwicklung-und-analyse.md:L132] with the core phobia „die Imperfektion und das Machen von Fehlern“ ^[system-kael-konzeptentwicklung-und-analyse.md:L132]
+
+## Reading — `charaktere`, 2025-07-29, the character concept — Argus as observer and critic
+
+The character concept lists Argus last (eleventh) in all three answers, as an emerging ANP/EP mix. First answer: „Bietet die Fähigkeit zur Selbstreflexion und Mustererkennung des Systems“ ^[charaktere.md:L82] (L82). Third answer: „Internes Korrektiv, Meta-Beobachter“ ^[charaktere.md:L338] (L338), and toward integration „Skeptisch und analytisch gegenüber dem Prozess“ ^[charaktere.md:L341] (L341).
 
 ## Reading — `outline`, 2025-07-30, the outline — Argus as an example Wächter (Kap 10) and as an EP (Teil 2)
 
@@ -33,6 +49,10 @@ The architecture analysis gives the row „The meta-observer; provides self-refl
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Argus as the observing voice of Kap 22
 
 Kap 22 plans the perspective „Lex (triumphiert) & Argus (beobachtend).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L279] and the beat „Lex und Argus analysieren den Log-File.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L283]
+
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Argus as Meta-Beobachter-ANP
+
+The research report (5.1) describes `Argus` as „Die distanzierte Systemanalyse-Instanz.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L95] It says he observes the system from outside, „was jedoch oft zu Handlungsunfähigkeit führt“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L95]
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — the observer, Archivar der Narben; Silas's role transferred to him
 
@@ -54,6 +74,9 @@ The outline of 2026-05-01 gives the timeline's first covert trace of Argus as �
 ## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the Wächter-Alter of Core World 3, planned for Kap 9
 
 For Kap 9 the dual-storyform outline plans: „Der Wächter-Alter Argus aktiviert strenge interne Grenzkontrollen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L261] Its Pacing line for that chapter gives the reader-side effect: „welche Daten Argus aktiv aus dem Bewusstsein filtert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L265] The POV of Kap 9 is `Argus` (L263).
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — one row of the alter table
+In its alter table (L44–L55, columns `Alter Name`, `TSDP-Aktionssystem`, `Funktionale Rolle`, `DKT-Korrelat`; the export lost the symbol in some cells) Argus has the action system „Überwachung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L55], the role „Sicherheit / Grenzschutz“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L55]; the DKT correlate cell reads a lost symbol followed by „-Interface“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L55].
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

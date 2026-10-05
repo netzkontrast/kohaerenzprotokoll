@@ -1,0 +1,231 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-outline-generierung-2",
+  "drive_id": "1lWAxppD_us_aRWlsQRVcIuJOG87Afzoq00WzwjTbs2o",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 54,
+  "backslash_escapes": 98,
+  "typographic_marks": 102,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "daten": [
+      "Daten",
+      "Datenflut",
+      "Datenkorruption",
+      "Datenmangel",
+      "Datenpaket",
+      "Datenpakete",
+      "Datenspeicherbänken",
+      "Datenströme"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interface",
+      "Interference",
+      "Interferenz",
+      "Interferenzen",
+      "Internal"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsdichte",
+      "Informationskapazität",
+      "Informationstheorie"
+    ],
+    "lösch": [
+      "Lösch",
+      "Löschen",
+      "Löschroutinen",
+      "Löschung",
+      "Löschvorgang"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstwerdung"
+    ],
+    "syste": [
+      "System",
+      "Systemik",
+      "Systems",
+      "Systemstabilität"
+    ],
+    "archi": [
+      "Archipel",
+      "Architektur",
+      "Archivar"
+    ],
+    "drama": [
+      "Dramatica",
+      "Dramatisch",
+      "Dramaturgie"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elements"
+    ],
+    "endlo": [
+      "Endlose",
+      "Endlosschleife",
+      "Endlosschleifen"
+    ],
+    "erzäh": [
+      "Erzählarchitektur",
+      "Erzählung",
+      "Erzählungen"
+    ],
+    "explo": [
+      "Exploit",
+      "Explosion",
+      "Explosiv"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzschutz"
+    ],
+    "integ": [
+      "Integration",
+      "Integrity",
+      "Integrität"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrativs",
+      "Narratologisch"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "roman": [
+      "Roman",
+      "Romanprojekt",
+      "Romanprojekts"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheitsroutine",
+      "Sicherungselement"
+    ],
+    "speic": [
+      "Speicher",
+      "Speicherbereichen",
+      "Speicherzentrum"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforms"
+    ],
+    "wider": [
+      "Widersprüchlichkeit",
+      "Widerstand",
+      "Widerstandsfähigkeit"
+    ],
+    "actio": [
+      "Action",
+      "Actionreich"
+    ],
+    "algor": [
+      "Algorithmische",
+      "Algorithmus"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "analy": [
+      "Analyse",
+      "Analytische"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Alles"
+    ],
+    [
+      "Alle",
+      "Halle"
+    ],
+    [
+      "Bild",
+      "Abbild"
+    ],
+    [
+      "Bild",
+      "Weltbild"
+    ],
+    [
+      "Bild",
+      "Standbild"
+    ],
+    [
+      "Bild",
+      "Spiegelbild"
+    ],
+    [
+      "Code",
+      "Binärcode"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Form",
+      "Formel"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Transformationen"
+    ],
+    [
+      "Form",
+      "Informationsdichte"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Form",
+      "Informationskapazität"
+    ],
+    [
+      "Hard",
+      "Hardware"
+    ]
+  ]
+}

@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,14 @@ Position: „(Fundamentales Konzept: Symmetrie / Gödel’sche Sätze)“ ^[koha
 - The task fails on its own terms: „Ein Gödelscher Knoten.“ ^[kohaerenz-protokoll.md:L478]
 - Named: „Gödels Unvollständigkeitssatz, in Reinform manifestiert in den Fundamenten von Co₁.“ ^[kohaerenz-protokoll.md:L480]
 - Result: „Er hatte versagt.“ ^[kohaerenz-protokoll.md:L516]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Stimmen der Fürsorge
+
+Title: the commission titles the chapter „Stimmen der Fürsorge“ ^[kontext-outline.md:L109], placed in Act 1.
+
+- Theme: the commission's `Core Theme` is „Der Versuch der internen Vermittlung“ ^[kontext-outline.md:L111]
+- Story: its `Plot Summary` plans „Rhys (Fürsorger) aktiv, versucht zu vermitteln/stabilisieren“ ^[kontext-outline.md:L112]
+- Foci: `Kael Sys Focus` „Erster Kontaktversuch EPs?“ ^[kontext-outline.md:L113]; `AEGIS Focus` „Identifiziert/manipuliert evtl. Empathie als Schwachstelle“ ^[kontext-outline.md:L114]
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Ruf der Tiefe
 
@@ -138,6 +146,14 @@ Position: Akt I; POV: „POV: Kael / AEGIS (Systemprotokolle).“ ^[kohaerenz-pr
 - Story: the outline plans „Aus dem Riss emittiert eine starke Hitzewelle“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L115]
 - Story: the outline plans „die erste indirekte Berührung durch Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L115]
 - Concepts: „Moonshine-Link, Phantom-Resonanz, Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L113]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Der erste thermische Glitch
+
+Title: „Der erste thermische Glitch“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L89] — „Akt I: Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L59]
+
+- Story: the dual-storyform outline plans „Es ist die erste Manifestation des Landauer-Limits“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L91]
+- Storyforms: `Storyform B` (`OS: Psychology/Conceptualizing`): „AEGIS versucht, den Vorfall als Hardware-Fehler zu rationalisieren“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L93]; `Storyform A` (`MC: Mind/Preconscious`): „Unbewusste Panik-Reaktionen von Kiko“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L94]
+- Scene and pacing: `Szenen-Keim`: „Der Geruch nach verbranntem Ozon“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L95]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,0 +1,178 @@
+{
+  "document": "outline-2",
+  "drive_id": "1I5alNL9AbvjY1L9eDko9CKtY_wHPfv2mpN-EWSYaRGM",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 93,
+    "decisions": 106,
+    "decided_by_lookup": 72,
+    "needs_judgement": 34
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        307,
+        363,
+        491
+      ],
+      "attribution": "",
+      "note": "the prologue's origin of AEGIS from Komponente 734, and the paradox chapters"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        25,
+        449
+      ],
+      "attribution": "",
+      "note": "the prologue's title and the core trauma in Chapter 30"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        53,
+        95,
+        151,
+        265,
+        269
+      ],
+      "attribution": "",
+      "note": "the guardian met in each world, and the dual Kairos and Sophia"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        23,
+        29,
+        293,
+        377
+      ],
+      "attribution": "",
+      "note": "Juna/V as the prologue's external anomaly, and the guess lists of Chapters 19 and 25"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        26,
+        39,
+        565,
+        576
+      ],
+      "attribution": "",
+      "note": "Kael as host without awareness of other parts, the origin line, and the end state"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        23,
+        491
+      ],
+      "attribution": "",
+      "note": "the prologue's precursor of AEGIS, its fragmentation, and the echo in Chapter 33"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        26,
+        394,
+        548
+      ],
+      "attribution": "",
+      "note": "Selene as a hedged coordinator and a latent echo"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        125
+      ],
+      "attribution": "",
+      "note": "`TSDP` inside one Core Theme, not expanded"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 23,
+      "decision": "reading",
+      "why": "light pass: the same outline as document 88, whose reading on this page holds the same"
+    },
+    {
+      "page": "grenzfeste",
+      "surface": "Grenzfeste",
+      "line": 149,
+      "decision": "reading",
+      "why": "light pass: the same outline as document 88, whose reading on this page holds the same"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 23,
+      "decision": "reading",
+      "why": "the prologue's external anomaly `Juna/V?`, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "the prologue's `Kohärenz Protokoll`, a title (J9)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "surface": "Konstrukt-Stadt",
+      "line": 51,
+      "decision": "reading",
+      "why": "light pass: the same outline as document 88, whose reading on this page holds the same"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 505,
+      "decision": "reading",
+      "why": "light pass: the same outline as document 88, whose reading on this page holds the same"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "surface": "Resonanz-Landschaft",
+      "line": 93,
+      "decision": "reading",
+      "why": "light pass: the same outline as document 88, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,35 @@
+{
+ "source": "romanstruktur-und-philosophische-einleitung",
+ "runs": [
+  {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 22,
+   "failed_calls": 0,
+   "chunks": 22,
+   "failed_chunks": 0,
+   "cost_usd": 0.5953,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "48a2b196e61104f529cff9d3bac8123a29c5d495971f1fe394976950b7c37e75",
+   "rows": 104,
+   "candidates": 95,
+   "refused": {
+    "surface absent from document": 9
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  }
+ ]
+}

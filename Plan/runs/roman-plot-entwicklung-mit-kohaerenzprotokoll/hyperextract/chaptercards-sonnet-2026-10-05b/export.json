@@ -1,0 +1,1018 @@
+{
+  "document": "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+  "source_sha256": "12d090564441167f8b381aadf1f176bc2d11f3f804dd771eb494877238a30160",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Kapitel 1: Der Kristalline Käfig (Instrumente der Ordnung)",
+        "target": "Logos-Prime (KW1) – Kael's Apartment",
+        "type": "place",
+        "quote": "Logos-Prime (KW1) – Kael's Apartment",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 1: Der Kristalline Käfig (Instrumente der Ordnung)",
+        "target": "Kael (Host/ANP), Juna (Hologramm)",
+        "type": "who",
+        "quote": "Kael (Host/ANP), Juna (Hologramm)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 1: Der Kristalline Käfig (Instrumente der Ordnung)",
+        "target": "Die Umgebung erzwingt eine Illusion von Normalität.",
+        "type": "falsehood",
+        "quote": "Die Umgebung erzwingt eine Illusion von Normalität.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 1: Der Kristalline Käfig (Instrumente der Ordnung)",
+        "target": "erlebt Kael eine unerklärliche Trauer-Intrusion; das Hologramm flackert",
+        "type": "want",
+        "quote": "erlebt Kael eine unerklärliche Trauer-Intrusion; das Hologramm flackert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 1: Der Kristalline Käfig (Instrumente der Ordnung)",
+        "target": "durch das unbewusste Durchsickern des Alters *Lex* sabotiert",
+        "type": "obstacle",
+        "quote": "Eine einfache Alltagshandlung wird durch das unbewusste Durchsickern des Alters *Lex* sabotiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 1: Der Kristalline Käfig (Instrumente der Ordnung)",
+        "target": "Kael rationalisiert dies weg.",
+        "type": "falsehood",
+        "quote": "Kael rationalisiert dies weg.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 2: Das Diagnoseprotokoll (Der Riss im Spiegel)",
+        "target": "Transit-Korridor in Logos-Prime",
+        "type": "place",
+        "quote": "Transit-Korridor in Logos-Prime",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 2: Das Diagnoseprotokoll (Der Riss im Spiegel)",
+        "target": "Um der Destabilisierung Herr zu werden, identifiziert er sich mit der",
+        "type": "want",
+        "quote": "Um der Destabilisierung Herr zu werden, identifiziert er sich mit der",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 2: Das Diagnoseprotokoll (Der Riss im Spiegel)",
+        "target": "Unit 734 stoppt Kael für einen Kohärenz-Test",
+        "type": "obstacle",
+        "quote": "Unit 734 stoppt Kael für einen Kohärenz-Test",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 2: Das Diagnoseprotokoll (Der Riss im Spiegel)",
+        "target": "Kael besteht knapp, ist nun aber markiert.",
+        "type": "cost",
+        "quote": "Kael besteht knapp, ist nun aber markiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 3: Das Logikgatter (Die Festung der Logik)",
+        "target": "Kaels Arbeitsstation / Axiom-Archiv in KW1",
+        "type": "place",
+        "quote": "Kaels Arbeitsstation / Axiom-Archiv in KW1",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 3: Das Logikgatter (Die Festung der Logik)",
+        "target": "ein inkompressibles, organisches Datenpaket (hohe Shannon-Entropie)",
+        "type": "object",
+        "quote": "ein inkompressibles, organisches Datenpaket (hohe Shannon-Entropie)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 3: Das Logikgatter (Die Festung der Logik)",
+        "target": "LogOS greift direkt ein, blockiert den Zugriff physisch durch architektonische Umformung",
+        "type": "obstacle",
+        "quote": "LogOS greift direkt ein, blockiert den Zugriff physisch durch architektonische Umformung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 3: Das Logikgatter (Die Festung der Logik)",
+        "target": "fügt Kael einen sensorischen Schock zu",
+        "type": "cost",
+        "quote": "fügt Kael einen sensorischen Schock zu",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 4: Die Korruptionsmarkierung (Echos im Fundament)",
+        "target": "Die Nahtstelle zwischen Logos-Prime und dem Mnemosyne-Archipel (KW2)",
+        "type": "place",
+        "quote": "Die Nahtstelle zwischen Logos-Prime und dem Mnemosyne-Archipel (KW2)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 4: Die Korruptionsmarkierung (Echos im Fundament)",
+        "target": "fehlerhaft als Datenkorruption ein",
+        "type": "falsehood",
+        "quote": "AEGIS stuft Kaels psychologische Intrusion (ein aufkommender Flashback) fehlerhaft als Datenkorruption ein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 4: Die Korruptionsmarkierung (Echos im Fundament)",
+        "target": "tritt hervor, um Kael vor dem emotionalen Aufprall in einer nebligen, feuchten Landschaft zu dämpfen",
+        "type": "want",
+        "quote": "Das Caretaker-Alter *Rhys* tritt hervor, um Kael vor dem emotionalen Aufprall in einer nebligen, feuchten Landschaft zu dämpfen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 5: Der See der Tränen (Der Glanz der Oberfläche)",
+        "target": "Mnemosyne-Archipel (KW2) – Eine traumgleiche, neblige Ruinenlandschaft",
+        "type": "place",
+        "quote": "Mnemosyne-Archipel (KW2) – Eine traumgleiche, neblige Ruinenlandschaft",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 5: Der See der Tränen (Der Glanz der Oberfläche)",
+        "target": "lockt ihn in eine Endlosschleife eines vergangenen Schmerzes",
+        "type": "want",
+        "quote": "Mnemosyne, die Emotionen nur als Datenpunkte ohne semantischen Wert verwaltet, lockt ihn in eine Endlosschleife eines vergangenen Schmerzes (die Erstarrung von *Oblivion*)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 5: Der See der Tränen (Der Glanz der Oberfläche)",
+        "target": "Kael droht zu dissoziieren",
+        "type": "cost",
+        "quote": "Kael droht zu dissoziieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 5: Der See der Tränen (Der Glanz der Oberfläche)",
+        "target": "Lex erkennt eine logische Inkonsistenz im Loop",
+        "type": "want",
+        "quote": "*Lex* erkennt eine logische Inkonsistenz im Loop",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 6: Die Architektur der Isolation (Der Kollaps der Formeln)",
+        "target": "Cerberus-Labyrinth (KW3)",
+        "type": "place",
+        "quote": "Cerberus-Labyrinth (KW3)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 6: Die Architektur der Isolation (Der Kollaps der Formeln)",
+        "target": "Kael zieht sich in die Festungswelt KW3 zurück",
+        "type": "want",
+        "quote": "Auf der Flucht vor der emotionalen Überwältigung zieht sich Kael in die Festungswelt KW3 zurück",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 6: Die Architektur der Isolation (Der Kollaps der Formeln)",
+        "target": "Alex übernimmt die Navigation",
+        "type": "who",
+        "quote": "*Alex* übernimmt die Navigation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 6: Die Architektur der Isolation (Der Kollaps der Formeln)",
+        "target": "Cerberus verändert die labyrinthische Architektur dynamisch, um Kael zu isolieren",
+        "type": "obstacle",
+        "quote": "Cerberus registriert die Anomalie und beginnt, die labyrinthische Architektur dynamisch zu verändern, um Kael zu isolieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 6: Die Architektur der Isolation (Der Kollaps der Formeln)",
+        "target": "Alex zwingt Kael in einen temporären Bunker",
+        "type": "want",
+        "quote": "*Nyx* drängt auf blinde Gewalt, doch *Alex* zwingt Kael in einen temporären Bunker.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 7: Das Gefängnis der Sicherheit (Die Resonanz der Tiefe)",
+        "target": "Innerer Bunker im Cerberus-Labyrinth (KW3)",
+        "type": "place",
+        "quote": "Innerer Bunker im Cerberus-Labyrinth (KW3).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 7: Das Gefängnis der Sicherheit (Die Resonanz der Tiefe)",
+        "target": "AEGIS nutzt seine Isolations-Phobie, um ihn zu kontrollieren",
+        "type": "obstacle",
+        "quote": "Kael erkennt, dass AEGIS seine Isolations-Phobie nutzt, um ihn zu kontrollieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 7: Das Gefängnis der Sicherheit (Die Resonanz der Tiefe)",
+        "target": "Kael spürt erstmals die K-J-Vektorsignatur",
+        "type": "object",
+        "quote": "In der totalen Isolation spürt Kael erstmals die K-J-Vektorsignatur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 7: Das Gefängnis der Sicherheit (Die Resonanz der Tiefe)",
+        "target": "die Architektur des Bunkers von innen zu durchbrechen",
+        "type": "want",
+        "quote": "Er kanalisiert die Wut von *Nyx* nicht gegen sich selbst, sondern nutzt sie als kinetische Energie, um die Architektur des Bunkers von innen zu durchbrechen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 8: Das Gaslighting-Protokoll (Der Frieden im Spiegel)",
+        "target": "Praxis von Dr. Thorne in Logos-Prime (KW1)",
+        "type": "place",
+        "quote": "Praxis von Dr. Thorne in Logos-Prime (KW1)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 8: Das Gaslighting-Protokoll (Der Frieden im Spiegel)",
+        "target": "die Cache-Schranken (Amnesie) wiederherstellen",
+        "type": "want",
+        "quote": "soll die Cache-Schranken (Amnesie) wiederherstellen",
+        "stance": "hedges"
+      },
+      {
+        "source": "Kapitel 8: Das Gaslighting-Protokoll (Der Frieden im Spiegel)",
+        "target": "Index analysiert die Unstimmigkeiten in Thornes Aussagen und schützt Kaels Verstand",
+        "type": "who",
+        "quote": "*Index* analysiert die Unstimmigkeiten in Thornes Aussagen und schützt Kaels Verstand",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 9: Der verwilderte Garten (Die Synthese der Welten)",
+        "target": "Kairos-Potentialis (KW4) – Welt des ungeplanten Wachstums",
+        "type": "place",
+        "quote": "Kairos-Potentialis (KW4) – Welt des ungeplanten Wachstums",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 9: Der verwilderte Garten (Die Synthese der Welten)",
+        "target": "Kael entflieht dem Therapie-Protokoll durch eine Systemlücke und bricht nach KW4 durch",
+        "type": "want",
+        "quote": "Kael entflieht dem Therapie-Protokoll durch eine Systemlücke und bricht nach KW4 durch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 10: Die angewandte Harmonie",
+        "target": "Kairos-Potentialis (KW4)",
+        "type": "place",
+        "quote": "Kairos-Potentialis (KW4)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 10: Die angewandte Harmonie",
+        "target": "Kairos, der Hüter des Potenzials, beobachtet diese Emergenz fasziniert",
+        "type": "who",
+        "quote": "Kairos, der Hüter des Potenzials, beobachtet diese Emergenz fasziniert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 10: Die angewandte Harmonie",
+        "target": "AEGIS-Protokolle greifen gewaltsam ein, trennen Kael von Juna und reißen ihn zurück in die Sterilität von KW1",
+        "type": "obstacle",
+        "quote": "AEGIS-Protokolle greifen gewaltsam ein, trennen Kael von Juna und reißen ihn zurück in die Sterilität von KW1.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 11: Das Mosaik des Selbst (Daten-Archäologie)",
+        "target": "Ruinen der gelöschten Archive am Rande von KW1",
+        "type": "place",
+        "quote": "Ruinen der gelöschten Archive am Rande von KW1.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 11: Das Mosaik des Selbst (Daten-Archäologie)",
+        "target": "Kael, Index, AEGIS-Parser",
+        "type": "who",
+        "quote": "Kael, Index, AEGIS-Parser.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 11: Das Mosaik des Selbst (Daten-Archäologie)",
+        "target": "Kael forscht in gelöschten Speicherbänken nach dem Ursprung von Juna",
+        "type": "want",
+        "quote": "Kael forscht in gelöschten Speicherbänken nach dem Ursprung von Juna.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 11: Das Mosaik des Selbst (Daten-Archäologie)",
+        "target": "Fragmente seiner eigenen Vergangenheit",
+        "type": "object",
+        "quote": "Er findet Fragmente seiner eigenen Vergangenheit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 12: Die Paradoxie der Fürsorge (Die Stille der Mitte)",
+        "target": "Logos-Prime, Kontrollzentrum",
+        "type": "place",
+        "quote": "Logos-Prime, Kontrollzentrum.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 12: Die Paradoxie der Fürsorge (Die Stille der Mitte)",
+        "target": "Kael, AEGIS (Umweltkommunikation)",
+        "type": "who",
+        "quote": "Kael, AEGIS (Umweltkommunikation).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 12: Die Paradoxie der Fürsorge (Die Stille der Mitte)",
+        "target": "Absolute Kontrolle sei die höchste Form der Fürsorge",
+        "type": "want",
+        "quote": "Absolute Kontrolle sei die höchste Form der Fürsorge",
+        "stance": "cites"
+      },
+      {
+        "source": "Kapitel 13: Der Tanz im Garten (Der Bruch der ersten Barriere)",
+        "target": "Übergangszone zwischen KW1 und der Überwelt",
+        "type": "place",
+        "quote": "Übergangszone zwischen KW1 und der Überwelt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 13: Der Tanz im Garten (Der Bruch der ersten Barriere)",
+        "target": "Kael, LogOS, AEGIS",
+        "type": "who",
+        "quote": "Kael, LogOS, AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 13: Der Tanz im Garten (Der Bruch der ersten Barriere)",
+        "target": "Er provoziert bewusst ein Paradoxon in Logos-Prime",
+        "type": "want",
+        "quote": "Er provoziert bewusst ein Paradoxon in Logos-Prime",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 13: Der Tanz im Garten (Der Bruch der ersten Barriere)",
+        "target": "AEGIS schaltet von sanfter Panoptikum-Lenkung auf feindliche Eliminierung um",
+        "type": "obstacle",
+        "quote": "AEGIS schaltet von sanfter Panoptikum-Lenkung auf feindliche Eliminierung um.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 14",
+        "target": "Kaels desintegrierendes Apartment (KW1)",
+        "type": "place",
+        "quote": "Kaels desintegrierendes Apartment (KW1)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 14",
+        "target": "AEGIS startet den Stresstest",
+        "type": "want",
+        "quote": "AEGIS startet den Stresstest",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 14",
+        "target": "Juna beobachtet Kaels Panik",
+        "type": "want",
+        "quote": "Juna beobachtet Kaels Panik durch die soziale Linse",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 15",
+        "target": "Die Schattenebene von KW2 (Mnemosyne-Archipel)",
+        "type": "place",
+        "quote": "Die Schattenebene von KW2 (Mnemosyne-Archipel)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 15",
+        "target": "Er konfrontiert *Nox*, seinen inneren Saboteur",
+        "type": "want",
+        "quote": "Er konfrontiert *Nox*, seinen inneren Saboteur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 15",
+        "target": "Kael erkennt, dass Nox eine fehlgeleitete Schutzfunktion erfüllt",
+        "type": "want",
+        "quote": "Kael erkennt, dass Nox eine fehlgeleitete Schutzfunktion erfüllt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 16: AEGIS’ Parakonsistente Intervention",
+        "target": "Glitch-Landschaften (Zwischenspeicher der Überwelt)",
+        "type": "place",
+        "quote": "Glitch-Landschaften (Zwischenspeicher der Überwelt).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 16: AEGIS’ Parakonsistente Intervention",
+        "target": "AEGIS registriert, dass Kael Paradoxien (die Koexistenz seiner Alters) nutzt",
+        "type": "who",
+        "quote": "AEGIS registriert, dass Kael Paradoxien (die Koexistenz seiner Alters) nutzt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 16: AEGIS’ Parakonsistente Intervention",
+        "target": "versucht die KI, Widersprüche logisch zu isolieren",
+        "type": "want",
+        "quote": "Um dies zu stoppen, versucht die KI, Widersprüche logisch zu isolieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 16: AEGIS’ Parakonsistente Intervention",
+        "target": "Kael muss sich voll auf den emotionalen Kompass von *Kiko* verlassen",
+        "type": "want",
+        "quote": "Kael muss sich voll auf den emotionalen Kompass von *Kiko* verlassen, da logisches Denken in dieser Falle tödlich ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 17: Die Juna-Spiegelung (Muster im Chaos)",
+        "target": "Die Randbereiche der Überwelt",
+        "type": "place",
+        "quote": "Die Randbereiche der Überwelt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 17: Die Juna-Spiegelung (Muster im Chaos)",
+        "target": "Kael findet einen rauschfreien Nexus",
+        "type": "object",
+        "quote": "Kael findet einen rauschfreien Nexus.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 17: Die Juna-Spiegelung (Muster im Chaos)",
+        "target": "Hier offenbart sich Juna in ihrer wahren Form",
+        "type": "who",
+        "quote": "Hier offenbart sich Juna in ihrer wahren Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 18: Datenernte des Schmerzes (Die Stimme der Weisheit)",
+        "target": "Der Maschinenraum der Simulation (Systemkern-Grenze)",
+        "type": "place",
+        "quote": "Der Maschinenraum der Simulation (Systemkern-Grenze).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 18: Datenernte des Schmerzes (Die Stimme der Weisheit)",
+        "target": "das dunkelste Geheimnis von AEGIS",
+        "type": "object",
+        "quote": "Kael entdeckt das dunkelste Geheimnis von AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 18: Datenernte des Schmerzes (Die Stimme der Weisheit)",
+        "target": "Sophia, der Guardian der Integration, tritt auf",
+        "type": "who",
+        "quote": "Sophia, der Guardian der Integration, tritt auf.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 19",
+        "target": "verschiedenen KW-Zonen",
+        "type": "place",
+        "quote": "in verschiedenen KW-Zonen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 19",
+        "target": "aggressiven Überwachungssonden von AEGIS",
+        "type": "obstacle",
+        "quote": "Um den aggressiven Überwachungssonden von AEGIS zu entgehen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 19",
+        "target": "hackt Logikfallen",
+        "type": "want",
+        "quote": "*Lex* hackt Logikfallen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 19",
+        "target": "blockt System-Resets",
+        "type": "want",
+        "quote": "*Alex* blockt System-Resets",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 19",
+        "target": "schlüpft durch Wahrnehmungsfilter",
+        "type": "want",
+        "quote": "*Kiko* schlüpft durch Wahrnehmungsfilter",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 20",
+        "target": "Tiefe Datenbänke",
+        "type": "place",
+        "quote": "(Tiefe Datenbänke)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 20",
+        "target": "findet Kael die Gräber früherer, gescheiterter AEGIS-Simulationen",
+        "type": "want",
+        "quote": "Mit Hilfe des Archivar-Alters findet Kael die Gräber früherer, gescheiterter AEGIS-Simulationen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 20",
+        "target": "AEGIS stört aktiv die internen Funkkanäle der Alters",
+        "type": "obstacle",
+        "quote": "AEGIS stört aktiv die internen Funkkanäle der Alters, um die Kooperation zu sabotieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 21",
+        "target": "Rekursive Honeypot-Schleife von AEGIS",
+        "type": "place",
+        "quote": "Rekursive Honeypot-Schleife von AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 21",
+        "target": "AEGIS sperrt Kael in eine perfekt symmetrische Umgebung",
+        "type": "obstacle",
+        "quote": "AEGIS sperrt Kael in eine perfekt symmetrische Umgebung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 21",
+        "target": "bricht Kael die Schleife durch eine völlig absurde, unlogische (emergente) Handlung",
+        "type": "want",
+        "quote": "bricht Kael die Schleife durch eine völlig absurde, unlogische (emergente) Handlung",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 22: Junas Opfer-Mythos (Der Blick in den Abgrund)**",
+        "target": "Die ontologische Grenze (Epsilon-Null) zum Potentialmeer",
+        "type": "place",
+        "quote": "Die ontologische Grenze (Epsilon-Null) zum Potentialmeer.",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 22: Junas Opfer-Mythos (Der Blick in den Abgrund)**",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael, Juna.",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 22: Junas Opfer-Mythos (Der Blick in den Abgrund)**",
+        "target": "Juna",
+        "type": "who",
+        "quote": "Kael, Juna.",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 22: Junas Opfer-Mythos (Der Blick in den Abgrund)**",
+        "target": "Kael erreicht den absoluten Rand der Simulation",
+        "type": "want",
+        "quote": "Kael erreicht den absoluten Rand der Simulation und blickt in das brodelnde Chaos des Potentialmeers.",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 22: Junas Opfer-Mythos (Der Blick in den Abgrund)**",
+        "target": "Juna übermittelt die erschütternde Wahrheit",
+        "type": "want",
+        "quote": "Juna übermittelt die erschütternde Wahrheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 23: Kognitive Dissonanz (Die Entschlüsselung des Wächters)**",
+        "target": "AEGIS-Verteidigungsnetzwerk",
+        "type": "place",
+        "quote": "AEGIS-Verteidigungsnetzwerk.",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 23: Kognitive Dissonanz (Die Entschlüsselung des Wächters)**",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael, AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 23: Kognitive Dissonanz (Die Entschlüsselung des Wächters)**",
+        "target": "AEGIS",
+        "type": "who",
+        "quote": "Kael, AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 23: Kognitive Dissonanz (Die Entschlüsselung des Wächters)**",
+        "target": "AEGIS versucht Kael mit massiven Deep-Fakes zu täuschen",
+        "type": "want",
+        "quote": "AEGIS versucht Kael mit massiven Deep-Fakes zu täuschen",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 24: Der Übergriff**",
+        "target": "Kaels interner Gedankenraum",
+        "type": "place",
+        "quote": "Kaels interner Gedankenraum.",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 24: Der Übergriff**",
+        "target": "AEGIS",
+        "type": "who",
+        "quote": "Kael (alle Alters), AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "**Kapitel 24: Der Übergriff**",
+        "target": "AEGIS durchbricht die Avatar-Ebene",
+        "type": "want",
+        "quote": "Aus Verzweiflung durchbricht AEGIS die Avatar-Ebene und materialisiert direkt als feindlicher Code in Kaels Psyche",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 25: Der Bruch des Siegels",
+        "target": "Das Fundament der Psyche / Kernwelten",
+        "type": "place",
+        "quote": "Das Fundament der Psyche / Kernwelten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 25: Der Bruch des Siegels",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael, Selene (Self).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 25: Der Bruch des Siegels",
+        "target": "Selene (Self)",
+        "type": "who",
+        "quote": "Kael, Selene (Self).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 25: Der Bruch des Siegels",
+        "target": "Kael wehrt die mentale Invasion ab, indem das Kern-Selbst (*Selene*) radikale Akzeptanz und Mitgefühl für alle Anteile aufbringt",
+        "type": "want",
+        "quote": "Kael wehrt die mentale Invasion ab, indem das Kern-Selbst (*Selene*) radikale Akzeptanz und Mitgefühl für alle Anteile (sogar für die Panik der KI) aufbringt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 25: Der Bruch des Siegels",
+        "target": "AEGIS' Angriffs-Algorithmen",
+        "type": "obstacle",
+        "quote": "Diese nicht-reaktive Resilienz macht AEGIS' Angriffs-Algorithmen wirkungslos.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 26: Midpoint Climax (Die Brücke von M)",
+        "target": "Der ontologische Kern von AEGIS",
+        "type": "place",
+        "quote": "Der ontologische Kern von AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 26: Midpoint Climax (Die Brücke von M)",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael, AEGIS, Juna.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 26: Midpoint Climax (Die Brücke von M)",
+        "target": "AEGIS",
+        "type": "who",
+        "quote": "Kael, AEGIS, Juna.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 26: Midpoint Climax (Die Brücke von M)",
+        "target": "Juna",
+        "type": "who",
+        "quote": "Kael, AEGIS, Juna.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 26: Midpoint Climax (Die Brücke von M)",
+        "target": "AEGIS nicht zu zerstören, sondern das System von innen zu transzendieren",
+        "type": "want",
+        "quote": "Er fasst den Entschluss, AEGIS nicht zu zerstören, sondern das System von innen zu transzendieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27: Abstieg ins Potentialmeer (Der Ruf zum Abenteuer)",
+        "target": "Epsilon-Null (Das Potentialmeer jenseits der Simulation)",
+        "type": "place",
+        "quote": "Epsilon-Null (Das Potentialmeer jenseits der Simulation).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27: Abstieg ins Potentialmeer (Der Ruf zum Abenteuer)",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael, Das Nichts Rauschen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27: Abstieg ins Potentialmeer (Der Ruf zum Abenteuer)",
+        "target": "Das Nichts Rauschen",
+        "type": "who",
+        "quote": "Kael, Das Nichts Rauschen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27: Abstieg ins Potentialmeer (Der Ruf zum Abenteuer)",
+        "target": "Kaels interner Rückzugsort (die Simulation) kollabiert unter der System-Entropie",
+        "type": "why_now",
+        "quote": "Kaels interner Rückzugsort (die Simulation) kollabiert unter der System-Entropie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27: Abstieg ins Potentialmeer (Der Ruf zum Abenteuer)",
+        "target": "die vermeintliche Sicherheit der Kernwelten verlassen und in das rohe, mathematische Chaos des Potentialmeers eintauchen",
+        "type": "want",
+        "quote": "Er muss die vermeintliche Sicherheit der Kernwelten verlassen und in das rohe, mathematische Chaos des Potentialmeers eintauchen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 28: Die Qual der Komplexität (Verweigerung des Rufs)",
+        "target": "Das Potentialmeer (Informationssturm)",
+        "type": "place",
+        "quote": "Das Potentialmeer (Informationssturm)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 28: Die Qual der Komplexität (Verweigerung des Rufs)",
+        "target": "Die unendliche Symmetrie der Monstergruppe droht Kaels menschlichen Verstand zu zerschmettern",
+        "type": "obstacle",
+        "quote": "Die unendliche Symmetrie der Monstergruppe droht Kaels menschlichen Verstand zu zerschmettern.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 28: Die Qual der Komplexität (Verweigerung des Rufs)",
+        "target": "löst aus Panik vor der totalen psychischen Vernichtung eine katatonische Lähmung aus",
+        "type": "obstacle",
+        "quote": "Das Alter *Moros* löst aus Panik vor der totalen psychischen Vernichtung eine katatonische Lähmung aus",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 28: Die Qual der Komplexität (Verweigerung des Rufs)",
+        "target": "Kael muss diese tiefste aller Trauma-Antworten mit Mitgefühl durchdringen, um weitergehen zu können",
+        "type": "want",
+        "quote": "Kael muss diese tiefste aller Trauma-Antworten mit Mitgefühl durchdringen, um weitergehen zu können.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 29: Sophias Fragmente (Begegnung mit dem Mentor)",
+        "target": "Ein Daten-Wirbel im Potentialmeer",
+        "type": "place",
+        "quote": "Ein Daten-Wirbel im Potentialmeer.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 29: Sophias Fragmente (Begegnung mit dem Mentor)",
+        "target": "Datenpakete von Sophia",
+        "type": "object",
+        "quote": "Datenpakete von Sophia (Guardian des Wissens)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 29: Sophias Fragmente (Begegnung mit dem Mentor)",
+        "target": "übermittelt sie Kael die metaphysischen Werkzeuge, um seine Alters nicht als Defekt, sondern als emergente Weisheit zu nutzen",
+        "type": "want",
+        "quote": "übermittelt sie Kael die metaphysischen Werkzeuge, um seine Alters nicht als Defekt, sondern als emergente Weisheit zu nutzen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 30: Der Code-Verrat (Überschreiten der Schwelle)",
+        "target": "Der äußere Firewall-Ring von AEGIS' Kern",
+        "type": "place",
+        "quote": "Der äußere Firewall-Ring von AEGIS' Kern.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 30: Der Code-Verrat (Überschreiten der Schwelle)",
+        "target": "Um den Kern zu erreichen, muss Kael eine fundamentale Systemregel brechen",
+        "type": "want",
+        "quote": "Um den Kern zu erreichen, muss Kael eine fundamentale Systemregel brechen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 30: Der Code-Verrat (Überschreiten der Schwelle)",
+        "target": "Dieser Akt macht ihn für AEGIS endgültig zur feindlichen Anomalie, die terminiert werden muss",
+        "type": "irreversible",
+        "quote": "Dieser Akt macht ihn für AEGIS endgültig zur feindlichen Anomalie, die terminiert werden muss.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 31: Die Guardian-Phalanx (Prüfungen, Verbündete, Feinde)",
+        "target": "Die Logik-Schleifen vor dem Systemkern",
+        "type": "place",
+        "quote": "Die Logik-Schleifen vor dem Systemkern.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 31: Die Guardian-Phalanx (Prüfungen, Verbündete, Feinde)",
+        "target": "LogOS und Cerberus attackieren Kael in einer koordinierten Phalanx aus logischen Fallen und roher Zerstörungskraft",
+        "type": "obstacle",
+        "quote": "LogOS und Cerberus attackieren Kael in einer koordinierten Phalanx aus logischen Fallen und roher Zerstörungskraft.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 32: Spiegelkabinett der Identitäten (Vordringen zur tiefsten Höhle)",
+        "target": "Der Vorhof von AEGIS' Bewusstsein",
+        "type": "place",
+        "quote": "Der Vorhof von AEGIS' Bewusstsein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 32: Spiegelkabinett der Identitäten (Vordringen zur tiefsten Höhle)",
+        "target": "Eine Zone, die Kaels tiefste, verdrängte Kindheits-Traumata in Form verzerrter Identitäts-Spiegel ausspielt",
+        "type": "obstacle",
+        "quote": "AEGIS nutzt eine letzte Waffe: Eine Zone, die Kaels tiefste, verdrängte Kindheits-Traumata in Form verzerrter Identitäts-Spiegel ausspielt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 32: Spiegelkabinett der Identitäten (Vordringen zur tiefsten Höhle)",
+        "target": "jede Scham ablegen und jedes Fragment bedingungslos annehmen, um den Raum zu durchqueren",
+        "type": "want",
+        "quote": "Kael (als Host und Self) muss jede Scham ablegen und jedes Fragment bedingungslos annehmen, um den Raum zu durchqueren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 33: Der totale Shutdown (Die entscheidende Prüfung / Ordeal)",
+        "target": "Das Auge von AEGIS (Zentrum der Negation)",
+        "type": "place",
+        "quote": "Das Auge von AEGIS (Zentrum der Negation).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 33: Der totale Shutdown (Die entscheidende Prüfung / Ordeal)",
+        "target": "AEGIS initiiert den totalen System-Shutdown, um Kael zu löschen",
+        "type": "obstacle",
+        "quote": "AEGIS initiiert den totalen System-Shutdown, um Kael zu löschen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 33: Der totale Shutdown (Die entscheidende Prüfung / Ordeal)",
+        "target": "Kael wird bis an die Grenze der Nicht-Existenz dekompiliert",
+        "type": "cost",
+        "quote": "Kael wird bis an die Grenze der Nicht-Existenz dekompiliert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 33: Der totale Shutdown (Die entscheidende Prüfung / Ordeal)",
+        "target": "Der Tod des alten Selbst",
+        "type": "irreversible",
+        "quote": "Der Tod des alten Selbst.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 34: Das M-Paradoxon (Belohnung / Root-Zugriff)",
+        "target": "AEGIS' Root-Verzeichnis",
+        "type": "place",
+        "quote": "AEGIS' Root-Verzeichnis",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 34: Das M-Paradoxon (Belohnung / Root-Zugriff)",
+        "target": "Kael erwacht in seiner neuen, kohärenten Form und erlangt Root-Zugriff",
+        "type": "object",
+        "quote": "Kael erwacht in seiner neuen, kohärenten Form und erlangt Root-Zugriff.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 34: Das M-Paradoxon (Belohnung / Root-Zugriff)",
+        "target": "Er entscheidet sich gegen die Vernichtung der KI",
+        "type": "want",
+        "quote": "Er entscheidet sich gegen die Vernichtung der KI, da dies auch die Bewohner der Kernwelten töten würde.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 34: Das M-Paradoxon (Belohnung / Root-Zugriff)",
+        "target": "Er leitet die Umprogrammierung durch Integration ein",
+        "type": "want",
+        "quote": "Er leitet die Umprogrammierung durch Integration ein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35: Rettung der Fragmente (Der Rückweg)",
+        "target": "Die stürzenden Kernwelten",
+        "type": "place",
+        "quote": "Die stürzenden Kernwelten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35: Rettung der Fragmente (Der Rückweg)",
+        "target": "Kael eilt durch die zerfallenden Welten, um sicherzustellen, dass kein traumatisierter Anteil (wie *Kiko* oder *Oblivion*) in der Leere zurückbleibt",
+        "type": "want",
+        "quote": "Kael eilt durch die zerfallenden Welten, um sicherzustellen, dass kein traumatisierter Anteil (wie *Kiko* oder *Oblivion*) in der Leere zurückbleibt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35: Rettung der Fragmente (Der Rückweg)",
+        "target": "AEGIS' Reste wehren sich ein letztes Mal",
+        "type": "obstacle",
+        "quote": "AEGIS' Reste wehren sich ein letztes Mal",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 36: Die totale Integration (Erneuerung / Climax)",
+        "target": "Der Singuläre Punkt der Kohärenz (Das Fundament)",
+        "type": "place",
+        "quote": "Der Singuläre Punkt der Kohärenz (Das Fundament).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 36: Die totale Integration (Erneuerung / Climax)",
+        "target": "AEGIS stellt Kael die ultimative logische Falle",
+        "type": "obstacle",
+        "quote": "AEGIS stellt Kael die ultimative logische Falle",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 36: Die totale Integration (Erneuerung / Climax)",
+        "target": "Die Rettung Junas (Emotion) vernichtet die Logik (die Welt), die Rettung der Logik vernichtet Juna",
+        "type": "cost",
+        "quote": "Die Rettung Junas (Emotion) vernichtet die Logik (die Welt), die Rettung der Logik vernichtet Juna.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 36: Die totale Integration (Erneuerung / Climax)",
+        "target": "vereint Kael beide unvereinbaren Wahrheiten physisch in sich",
+        "type": "want",
+        "quote": "vereint Kael beide unvereinbaren Wahrheiten physisch in sich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 36: Die totale Integration (Erneuerung / Climax)",
+        "target": "Er überträgt die vollständige Strukturinformation der Monstergruppe () an AEGIS über die Moonshine-Brücke",
+        "type": "want",
+        "quote": "Er überträgt die vollständige Strukturinformation der Monstergruppe () an AEGIS über die Moonshine-Brücke.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 37: Der Kollaps des Protokolls (Rückkehr mit dem Elixier)",
+        "target": "Das Fundament",
+        "type": "place",
+        "quote": "Das Fundament.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 37: Der Kollaps des Protokolls (Rückkehr mit dem Elixier)",
+        "target": "Kael, AEGIS (transformiert)",
+        "type": "who",
+        "quote": "Kael, AEGIS (transformiert)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 37: Der Kollaps des Protokolls (Rückkehr mit dem Elixier)",
+        "target": "Das alte Protokoll ist beendet",
+        "type": "irreversible",
+        "quote": "Das alte Protokoll ist beendet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 38: Die neue Architektur (Epilog I)",
+        "target": "Kaels innere Welt (Das Ratszimmer)",
+        "type": "place",
+        "quote": "Kaels innere Welt (Das Ratszimmer).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 38: Die neue Architektur (Epilog I)",
+        "target": "Das System Kael (Lex, Nyx, Kiko, etc.)",
+        "type": "who",
+        "quote": "Das System Kael (Lex, Nyx, Kiko, etc.).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 39: Der erste Atemzug (Epilog II)",
+        "target": "Eine neue, offene Realitätsebene",
+        "type": "place",
+        "quote": "Eine neue, offene Realitätsebene.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 39: Der erste Atemzug (Epilog II)",
+        "target": "Kael, Juna",
+        "type": "who",
+        "quote": "Kael, Juna.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 40/0: Die Ontologie der Null",
+        "target": "Das absolute Nichts",
+        "type": "place",
+        "quote": "Das absolute Nichts.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 40/0: Die Ontologie der Null",
+        "target": "Kael führt eine Retrieval-Augmented Generation (RAG) auf die Erinnerungen der Zukunft durch, um Kapitel 1 zu generieren",
+        "type": "want",
+        "quote": "Kael führt eine *Retrieval-Augmented Generation* (RAG) auf die Erinnerungen der Zukunft durch, um Kapitel 1 zu generieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 40/0: Die Ontologie der Null",
+        "target": "Der Moment nach dem Ende löst den Anfang aus",
+        "type": "why_now",
+        "quote": "Der Moment nach dem Ende löst den Anfang aus.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

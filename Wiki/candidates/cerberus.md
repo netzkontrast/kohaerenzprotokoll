@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 35
-readings: 35
+sources: 39
+readings: 39
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere"]
 gathered: "2026-09-17"
 ---
 
@@ -41,6 +41,14 @@ Leans on LogOS' structural data; warns Mnemosyne about „riskant" emotional sta
 `Die Grenzfeste` — see that page. The pairing is the document's own organising
 principle: each section is a `Guardian/Welt-Paar`.
 
+## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Cerberus as Guardian of KW3, a reactive environment
+
+Cerberus is the Guardian in the heading „Grenzfeste (Guardian: Cerberus)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L63]. In the laws of KW3: „Cerberus reagiert aktiv auf Regelverstöße (reaktive Umgebung)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L76].
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — KW3's guardian and the planned confrontations
+
+The glossary pairs Cerberus with the third world: „Verteidigungs-/angstbasierte Welt. Guardian: Cerberus.“ ^[kontext-outline.md:L32] Chapter 9 plans the entry with a confrontation of „Konfrontation mit Fallen, Illusionen, Angriffen, Guardian Cerberus“ ^[kontext-outline.md:L167] and an `AEGIS Focus` of „Cerberus als Verkörperung Angst/Kontrolle“ ^[kontext-outline.md:L169]. Chapter 23 returns to „Cerberus als aktive Verteidigung“ ^[kontext-outline.md:L329], and Chapter 31 plans „Cerberus als letzte Verteidigung“ ^[kontext-outline.md:L418].
+
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — controls KW3 Grenzfeste and isolates an unknown intrusion
 
 The editor's report gives the plot document's KW3: „Die paranoide Welt der Abwehr und Isolation, kontrolliert von Cerberus“ ^[scifi-roman-mit-ki-schreiben.md:L90] In its list of the Guardians' misreadings of Juna's influence, `Cerberus` (Sicherheit) takes the manifestation for an intrusion and „versucht, sie zu isolieren und zu neutralisieren“ ^[scifi-roman-mit-ki-schreiben.md:L198]
@@ -48,6 +56,10 @@ The editor's report gives the plot document's KW3: „Die paranoide Welt der Abw
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the hypervigilant, paranoid defence, domain of KW3
 
 Where the synthesis reads the Wächter as externalised functions of a traumatised mind, Cerberus is „der hypervigilante, paranoide Abwehrmechanismus“ ^[system-kael-konzeptentwicklung-und-analyse.md:L60] KW3 is his domain („Domäne von Cerberus“ ^[system-kael-konzeptentwicklung-und-analyse.md:L162]), and in its reading of the plot the Grenzfeste confronts Kael with „der repressiven Kontrolle von Cerberus“ ^[system-kael-konzeptentwicklung-und-analyse.md:L208]
+
+## Reading — `charaktere`, 2025-07-29, the character concept — Guardian of KW3
+
+In section V (third answer) the character concept lists `Cerberus`: „Der Wächter der KW3 (Cerberus-Labyrinth), einer verteidigungs- und angstbasierten Welt“ ^[charaktere.md:L367]. It adds: „Er symbolisiert Abwehr, Kontrolle und die Grenzen des Selbst“ ^[charaktere.md:L367].
 
 ## Reading — `outline`, 2025-07-30, the outline — Cerberus as the world of KW3 and the labyrinth of Kap 28
 
@@ -72,6 +84,10 @@ Kap 15 is titled „Das Cerberus-Labyrinth“ ^[kohaerenz-protokoll-39-kapitel-m
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — KW3 as a fortress of defence
 
 In the report's table KW3 `Cerberus` is „Festung der Abwehr und Paranoia“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L54], its part of the TSDP is given as „Nyx (als Beschützer)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L54]. In Leitfrage 2 the scene logic has Nyx triggered in KW3: „Ein Trigger aktiviert Nyx (EP - Kampf) in KW3, während Lex (ANP) in KW1 versucht, Normalität zu wahren“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L72].
+
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Cerberus as Wächter of KW3 and the labyrinth
+
+The research report (6.2) writes of `Cerberus`: „Wächter des defensiven Bedrohungsmanagements (KW3).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L132] and „Ein heuristischer Filteralgorithmus, der eine verheerende Resonanz mit Kaels Nyx-Anteil erzeugt.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L132] The table names KW3 `Cerberus-Labyrinth` (`The Fortress`): „Eine Manifestation von Kaels inneren Verteidigungsmechanismen.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L76]
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — KW3 as the Cerberus-Labyrinth, guarded by Cerberus
 
