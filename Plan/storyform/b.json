@@ -40,7 +40,10 @@
    "Present",
    "Progress",
    "Future"
-  ]
+  ],
+  "benchmark": "Progress",
+  "unique_ability": "Control",
+  "critical_flaw": "Oppose"
  },
  "IC": {
   "concern": "Subconscious",
@@ -54,7 +57,10 @@
    "Memory",
    "Preconscious",
    "Subconscious"
-  ]
+  ],
+  "benchmark": "Memory",
+  "unique_ability": "Faith",
+  "critical_flaw": "Temptation"
  },
  "OS": {
   "concern": "Obtaining",
@@ -68,7 +74,8 @@
    "Obtaining"
   ],
   "focus": "Reconsideration",
-  "direction": "Consideration"
+  "direction": "Consideration",
+  "benchmark": "Doing"
  },
  "RS": {
   "concern": "Becoming",
@@ -82,7 +89,8 @@
    "Becoming"
   ],
   "focus": "Hinder",
-  "direction": "Help"
+  "direction": "Help",
+  "benchmark": "Conceiving"
  },
  "plot": {
   "requirements": "Doing",
@@ -281,6 +289,22 @@
   "RS.focus": "author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic)",
   "RS.direction": "author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic)",
   "logline": "author, 2026-10-05, logline (session draft from goal, consequence, costs and outcome)",
-  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)"
- }
+  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)",
+  "OS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — die Sweeps und ihre Verluste, als Zahlen im Log; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "MC.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — die wachsende Instabilität trotz aller Sweeps, als Wert im Log, der fällt — die Bruchkurve; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "IC.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — wie viel Kael erinnert, das AEGIS gelöscht hatte; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "RS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — wie AEGIS Kael umdeutet: von 734 zur Anomalie, zu „unkontrollierbar“; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "MC.unique_ability": "author, 2026-10-05 (step 41): lückenlose Kontrolle: jeder Posten schließbar, jeder Sweep vollziehbar (session's options from the element quads under the concern; the placement rule is not public)",
+  "MC.critical_flaw": "author, 2026-10-05 (step 41): es stellt sich gegen jede Bewegung — „Bewegung ist Verlöschen“ (session's options; the placement rule is not public)",
+  "IC.unique_ability": "author, 2026-10-05 (step 41): er kann glauben, ohne zu prüfen — die Lösung, die AEGIS nie annimmt (session's options from the element quads under the concern; the placement rule is not public)",
+  "IC.critical_flaw": "author, 2026-10-05 (step 41): das Vergessen lockt: „Lösch, was dich bremst“, Oblivions Angebot (session's options; the placement rule is not public)",
+  "story.catalyst": "author, 2026-10-05 (step 41): offene Posten: jede offene Zeile ist Beweis einer Anomalie und löst den nächsten Sweep aus (a variation; the author chose the idea, then its variation)",
+  "story.inhibitor": "author, 2026-10-05 (step 41): Mnemosyne: sie hält sicher, was AEGIS löschen will (a variation; the author chose the idea, then its variation)",
+  "clock": "author, 2026-10-05 (step 43): the concrete timelock, the session's proposal from DS L238 („begrenzte thermodynamische Reserve“), Entwurf G's Abwärmebudget and A's catalyst Threat"
+ },
+ "story": {
+  "catalyst": "Evidence",
+  "inhibitor": "Security"
+ },
+ "clock": "das Abwärmebudget: AEGIS' thermodynamische Reserve; jeder Sweep verbraucht sie, am Vortex ist sie aufgebraucht (Beat 4, die Landauer-Hitze)"
 }

@@ -1,0 +1,170 @@
+{
+  "about": "Die Journeys: der Übergang von Signpost zu Signpost, drei je Strang, an den drei Aktübergängen. Richtung aus den Signposts, Inhalt ein Vorschlag der Sitzung (Entscheidung 025, Schritt 44). Geprüft von scripts/storyform.py.",
+  "provenance": "author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon",
+  "journeys": {
+    "A": {
+      "OS": [
+        {
+          "from": "Being",
+          "to": "Becoming",
+          "at": "13/14",
+          "text": "Die Fassade der Rollen bricht: Aus Anteilen, die ihre Rolle halten, wird ein Ensemble, das aufbricht; die erste Welle."
+        },
+        {
+          "from": "Becoming",
+          "to": "Conceiving",
+          "at": "26/27",
+          "text": "Aus dem Aufbrechen wird ein Einfall: Die Lager, die sich in Kap 26 entschieden haben, suchen eine neue Idee vom Wir."
+        },
+        {
+          "from": "Conceiving",
+          "to": "Conceptualizing",
+          "at": "34/35",
+          "text": "Aus dem Einfall wird ein Plan: Im Vortex entwirft sich das Wir als Ziel des Ganzen."
+        }
+      ],
+      "MC": [
+        {
+          "from": "Memory",
+          "to": "Subconscious",
+          "at": "13/14",
+          "text": "Von der Erinnerungslosigkeit zur Sehnsucht: Kael verlässt das Register und stößt auf das, was er will."
+        },
+        {
+          "from": "Subconscious",
+          "to": "Preconscious",
+          "at": "26/27",
+          "text": "Von der Sehnsucht zu den Reflexen: Was er will, muss er im Labyrinth unter Stress tun, mit Absicht."
+        },
+        {
+          "from": "Preconscious",
+          "to": "Conscious",
+          "at": "34/35",
+          "text": "Von den Reflexen zur bewussten Entscheidung: Im Vortex erkennt er wieder, was er war, und entscheidet."
+        }
+      ],
+      "IC": [
+        {
+          "from": "Past",
+          "to": "Progress",
+          "at": "13/14",
+          "text": "Junas Resonanz wird Bewegung: Aus der Erinnerung an das Davor wird ein Leben, das weiterläuft."
+        },
+        {
+          "from": "Progress",
+          "to": "Present",
+          "at": "26/27",
+          "text": "Aus dem weiterlaufenden Leben wird Gegenwart: Juna ist erreichbar; die Begegnung in Kap 32."
+        },
+        {
+          "from": "Present",
+          "to": "Future",
+          "at": "34/35",
+          "text": "Aus der Gegenwart wird Zukunft: Juna manifestiert sich, ihre Zukunft und seine."
+        }
+      ],
+      "RS": [
+        {
+          "from": "Learning",
+          "to": "Doing",
+          "at": "13/14",
+          "text": "Von der gespürten Präsenz zum Werkzeug: Die Verbindung wird benutzt."
+        },
+        {
+          "from": "Doing",
+          "to": "Obtaining",
+          "at": "26/27",
+          "text": "Vom Werkzeug zur Ressource: Was sie haben, ist der Kanal, und er ist angreifbar."
+        },
+        {
+          "from": "Obtaining",
+          "to": "Understanding",
+          "at": "34/35",
+          "text": "Von der Ressource zum Verstehen ohne Worte: Sie hören auf, den Kanal zu benutzen, und verstehen."
+        }
+      ]
+    },
+    "B": {
+      "OS": [
+        {
+          "from": "Doing",
+          "to": "Learning",
+          "at": "13/14",
+          "text": "Von den Sweeps zum Erkunden: Was sich nicht löschen lässt, muss AEGIS untersuchen."
+        },
+        {
+          "from": "Learning",
+          "to": "Understanding",
+          "at": "26/27",
+          "text": "Vom Erkunden zum Begreifen: AEGIS begreift das Muster der Anomalien."
+        },
+        {
+          "from": "Understanding",
+          "to": "Obtaining",
+          "at": "34/35",
+          "text": "Vom Begreifen zum letzten Sweep: Das Ziel scheitert, das Abwärmebudget ist aufgebraucht."
+        }
+      ],
+      "MC": [
+        {
+          "from": "Past",
+          "to": "Present",
+          "at": "13/14",
+          "text": "Vom verdrängten Genesis-Trauma zum Kontrollprotokoll: Die Vergangenheit wird das Jetzt der Sweeps."
+        },
+        {
+          "from": "Present",
+          "to": "Progress",
+          "at": "26/27",
+          "text": "Vom Jetzt zum Countdown: Die Architektur degradiert sichtbar, das Abwärmebudget fällt."
+        },
+        {
+          "from": "Progress",
+          "to": "Future",
+          "at": "34/35",
+          "text": "Vom Countdown zum Ende der Operativität: AEGIS-monolithisch erlischt und wird plural, in Kap 39."
+        }
+      ],
+      "IC": [
+        {
+          "from": "Conscious",
+          "to": "Memory",
+          "at": "13/14",
+          "text": "Vom unfixbaren Bug zur Erinnerung als Druck: Kael erinnert, was AEGIS gelöscht hat."
+        },
+        {
+          "from": "Memory",
+          "to": "Preconscious",
+          "at": "26/27",
+          "text": "Von der Erinnerung zur reflexhaften Eskalation: Kael wird für AEGIS unberechenbar."
+        },
+        {
+          "from": "Preconscious",
+          "to": "Subconscious",
+          "at": "34/35",
+          "text": "Von der Eskalation zum Nachgeben: Kael gibt nach, und darin verbindet er wieder."
+        }
+      ],
+      "RS": [
+        {
+          "from": "Being",
+          "to": "Conceiving",
+          "at": "13/14",
+          "text": "Von den Rollen Wächter und Host zur Umdeutung: AEGIS formuliert Kael als unkontrollierbar."
+        },
+        {
+          "from": "Conceiving",
+          "to": "Conceptualizing",
+          "at": "26/27",
+          "text": "Von der Umdeutung zu Plänen gegeneinander: Wächter und Host entwerfen sich als Gegner."
+        },
+        {
+          "from": "Conceptualizing",
+          "to": "Becoming",
+          "at": "34/35",
+          "text": "Von den Plänen zur Verwandlung: die Vortex-Inversion, Kaels Wandel."
+        }
+      ]
+    }
+  }
+}

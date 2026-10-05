@@ -209,3 +209,11 @@ Stands as a design proposal in which 734 is an external archivist construct, not
 In the Genesis-Krise AEGIS fragments its own `Ursprungs-Ich`, and the line ends: the conscious I „was sublimated into the functional designation“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112] `Component 734` (L112). The `Ursprungs-Ich` here is AEGIS's. `Component 734` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#1] stands once, and `Wohneinheit` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] not at all, so the document does not say what the number labels in the world.
 
 734 as AEGIS's own designation, not Kael's and not a dwelling; recorded, the question stays open.
+
+## 2026-10-05 — the author, through W12: AEGIS emerged from Komponente 734
+
+Asked who is what after the separation, with three readings the sources give (Kael is 734, Kael grows out of 734,
+AEGIS emerged from 734), the author chose the reading of the early outline commission: AEGIS, „entstanden aus
+Komponente 734“ ^[kontext-outline.md:L26]. **This answers where AEGIS comes from, not what the number labels in
+Kael's world.** Whether Kael's dwelling or designation carries 734, and what Kael's own relation to the component
+is, stays open, and so does the question's status.

@@ -1,7 +1,7 @@
 ---
 name: Mara
 kind: figur
-kanon: [Menschen, W10-A]
+kanon: [W10-A]
 match: ["Mara"]
 ---
 
@@ -12,7 +12,6 @@ Seilfrau, Kaels Partnerin am Seil. Erfunden in einer Claude-Sitzung (Entwurf I u
 ## Kanon
 
 - **Funktion** (W10-A): Guardian-Archetyp (Help, Conscience).
-- **Will** (Menschen, 2026-10-05): dass niemand mehr verloren geht; sie hält Kael mit „Wie heißt du?“ beim Namen fest, gegen das Vergessen.
 
 ## Arbeitsstand
 
@@ -20,5 +19,7 @@ Seilfrau, Kaels Partnerin am Seil. Erfunden in einer Claude-Sitzung (Entwurf I u
 - **Plot-Entwurf 1** (`plot/plot-entwurf-01-die-rueckgabe.md`): will, dass niemand mehr am Seil verloren geht, seit Ruben; bleibt in der Stadt und wird Kaels Stimme von außen. Ihre Frage „Wie heißt du?“ trägt das Buch.
 
 ## Offen
+
+- **Will, als Vorschlag** (gewählt 2026-10-05, offen; in `Plan/storyform/a.json`, Entscheidung 025 Schritt 34): dass niemand mehr verloren geht — seit sie jemanden am Seil verlor; ihr Gewissen ist die Frage „Wie heißt du?“, sie hält Kael beim Namen fest gegen das Vergessen.
 
 - Ihre Stelle im Plot über das Wollen hinaus; was aus Plot-Entwurf 1 gilt, ist nicht entschieden.

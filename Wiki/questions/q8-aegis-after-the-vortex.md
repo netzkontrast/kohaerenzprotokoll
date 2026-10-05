@@ -1,7 +1,7 @@
 ---
 id: Q8
 question: What is AEGIS after the Vortex's fifth beat — a living relic, extinguished, transformed, taken over by a plural form — and does Oblivion take over its function inside Kael?
-status: open
+status: decided — the monolithic AEGIS goes out and becomes plural in Kap 39; Oblivion takes over its function inside Kael, choosing instead of erasing; by the author, 2026-10-05
 raised_by: ["algorithmische-melancholie", "aegis", "vortex", "oblivion"]
 documents: ["dramatica-storyform-synthese-aegis-analyse", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 conflict: none — the sources offer several answers and most mark their own as a proposal; whether any two conflict is a person's call, not made here
@@ -246,3 +246,20 @@ Where it stands in the record's own terms: collapse or transformation left open 
 This is the report's account of documents it numbers (its sources 9, 10 and 13). The word `Vortex` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0] does not stand in it (a count). Of the model: Kael wakes after a Universal Reboot, „ohne Erinnerung erwacht“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L117], and „Am Ende, in Kapitel 40/0, befindet sich Kael in den“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L117] Neon Ashes of New Zenith. The Kishōtenketsu ending runs to „der zirkulären Rekursion, in der das Ende zum Neuanfang wird“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L153]; Kael, caught in a Race Condition, „und den Zyklus neu startet“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L155]. Leitfrage 9 asks how the arc passes „in den rekursiven Reset (Kapitel 40/0) überführt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L157].
 
 Stands: AEGIS's state at the end is not addressed; the report asks only about tone and the transition into the reset, as an unanswered question; recorded, not applied.
+
+## 2026-10-05 — the author: the monolithic AEGIS goes out and a plural one arises (the first half of Q8)
+
+Asked what AEGIS is after the Vortex, with the answers the sources offer (a living relic, extinguished, plural, a
+receiver), the author chose the reading of the consolidated concept: „AEGIS-monolithisch erlischt; AEGIS-plural
+entsteht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L265] It happens in Kap 39, with the fourth
+beat of the Genesis (W12), and storyform B runs until then, not only to the Vortex's fifth beat. **This answers the
+first half.** Whether Oblivion takes over AEGIS' function inside Kael, choosing instead of erasing, the author left
+open; so does the question's status.
+
+## 2026-10-05 — the author: Oblivion takes over, choosing (the second half of Q8)
+
+Asked whether Oblivion takes over AEGIS' function inside Kael after the Vortex, the author chose the answer every source
+that names his role gives: „Empfehlung: Oblivion übernimmt als interne Wachheit, die entscheidet statt löscht.“
+^[dual-storyform-hintergruende-md.md:L428] **With the first half (above), Q8 is answered**: outside, the monolithic
+AEGIS goes out and becomes plural in Kap 39; inside, Oblivion keeps the function of forgetting, but as a choice.
+

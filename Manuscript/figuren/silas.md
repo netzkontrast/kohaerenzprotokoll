@@ -1,7 +1,7 @@
 ---
 name: Silas
 kind: figur
-kanon: [Silas, Lager]
+kanon: [Lager]
 match: ["Silas"]
 wiki: silas
 ---
@@ -12,7 +12,6 @@ In den Quellen ein Spiegel-Anteil und ein Echo der Bindung. In den Entwürfen nu
 
 ## Kanon
 
-- **Silas (2026-10-05):** Er ist die linke Hand in Kap 1, die RÜCKFRAGE drückt und den Anschluss zu Juna schützt.
 - **Lager:** Er gehört zum Lager der Suche.
 
 ## Arbeitsstand
@@ -21,5 +20,7 @@ In den Quellen ein Spiegel-Anteil und ein Echo der Bindung. In den Entwürfen nu
 - **Plot-Entwürfe 1 und 2:** kein Platz (Frage 6 von Plot-Entwurf 1).
 
 ## Offen
+
+- **Die linke Hand in Kap 1** (Entwurf G; als Vorschlag gewählt 2026-10-05, offen): Silas drückt die RÜCKFRAGE und schützt den Anschluss zu Juna. Kein Kanon, weil es aus einem Entwurf kommt.
 
 - Gibt es ihn, und wenn ja, wo? Weiche W10.
