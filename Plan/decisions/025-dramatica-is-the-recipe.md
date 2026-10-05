@@ -50,8 +50,9 @@ with the consequences of each option laid out.
 13. **The plot story points** (WP's candidates, put one at a time with their consequences). B: requirements Doing
     (the sweeps), consequence Becoming (the system becomes entropic — a Stop story, so it is already under way),
     forewarnings Progress (maintenance windows grow denser; the visible clock of the timelock). A: requirements Learning
-    (Kael reads his own history), consequence Past (the night of fragmentation repeats — a Start story, so it only
-    threatens), forewarnings Preconscious (alters break through; time gaps). The chart checks only their level (R8).
+    (Kael reads his own history), consequence Past (the night of fragmentation repeats — written as „a Start story, so it
+    only threatens"; corrected 2026-10-05: since step 16 A is a Stop story, so the consequence is already under way — the
+    night has happened, triggered by the threatened separation, and its repetition threatens; `alters-im-plot.md`), forewarnings Preconscious (alters break through; time gaps). The chart checks only their level (R8).
 14. **Costs and dividends** (proposals of the session; WP has none). B: costs Memory (every sweep eats AEGIS' own
     memory — an opening for Kael's memory in B-IC act II), dividends Understanding (AEGIS learns Kael ever more
     precisely, the outline of 2026-05-18). A: costs Being (Kael's working façade falls apart), dividends Becoming
