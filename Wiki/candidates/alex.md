@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 33
-readings: 33
+sources: 34
+readings: 34
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 gathered: "2026-09-24"
 ---
 
@@ -23,6 +23,14 @@ In the roster of the eleven parts, which the synthesis gives with the glued `1` 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a protector Alter in Kap 6 and Kap 19
 
 The master blueprint casts Alex in Kap 6 as „Alex (Protektor)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L102] and plans that he takes over when Kael flees into KW3: „übernimmt die Navigation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L104] In Kap 19 it plans the switching of fronting, in which „blockt System-Resets“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Alex as the protector in Kap 6 and Kap 15–17, and one voice of the Inner Council in Kap 12
+
+Kap 6 plans a struggle for control: „Kael (kämpft um die Kontrolle mit Alex, dem Beschützer).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L83] Kap 15 gives Alex the perspective: „Alex (ANP-Beschützer) – hyper-vigilant, militärisch.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L195] and the beat „Alex zwingt Kael in den Hintergrund.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L199] Its function line reads „Analyse des Beschützer-Anteils; Abwehr als selbstzerstörerisches Element.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L200]
+
+Kap 17 plans his failure: „Alex scheitert an einem Logik-Paradoxon des Systems.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L223] and a change of voice to „Wechsel zu Lia (Kind-EP).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L219] In Kap 12 he is one of the parts that talk: „Kael hält erstmals bewusst inne und kommuniziert intern mit Lex, Alex und Rhys.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L159]
+
+A plan in a fixed grid of nine fields; recorded, not applied.
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — the protector among the alters
 
