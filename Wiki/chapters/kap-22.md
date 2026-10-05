@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael schafft absichtlich eine Situation, die AEGIS (oder einen bestimmten Guardian) zwingt, sich dem in Kapitel 17 identifizierten Kernparadoxon zu stellen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
 - Story: „Verwirrung, Lähmung oder erratischen Verhaltens“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
 - Story: „Kael nutzt dieses Fenster der Störung, um ein spezifisches Ziel zu erreichen (Flucht, Informationszugriff usw.).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The world as wound
+
+Title: „Spiegel des Traumas“ ^[romanstruktur-und-philosophische-einleitung.md:L190]
+Position: Teil II, „Die Welt als Wunde“ ^[romanstruktur-und-philosophische-einleitung.md:L190]
+
+- Story: „offenbaren sich endgültig als symbolische Darstellungen von Kaels verdrängten Erinnerungen“ ^[romanstruktur-und-philosophische-einleitung.md:L192]
+- Story: „Der Kampf verlagert sich von Waffen auf Bedeutung.“ ^[romanstruktur-und-philosophische-einleitung.md:L194]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
