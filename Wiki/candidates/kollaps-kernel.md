@@ -1,10 +1,10 @@
 ---
 term: Kollaps-Kernel (K₀)
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"]
 gathered: "2026-09-24"
 ---
 
@@ -29,6 +29,10 @@ Under the canonical reading AEGIS takes Kael's fragmentation for the enemy kerne
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the Erasure Field, the Nichts Rauschen and the precondition of consciousness
 
 The pitch introduces the second kernel: „Der direkte ontologische Antagonist dieser sterilen Ordnung ist der“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L27] Kollaps-Kernel, and it embodies the principle of „irreversiblen Löschung, des totalen Informationsverlusts, der thermodynamischen Entropie und des unausweichlichen Zeitpfeils“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L27]. It stands for the correspondence theory of truth; narratively it appears as the `Nichts Rauschen`, the trauma and the EPs. The pitch says it is, paradoxically, „die unabdingbare Voraussetzung für Bewusstsein und evolutionäre Emergenz“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L29]; the EP row lists „Irreversible Löschung, Entropie, Korrespondenztheorie der Wahrheit, Chaos.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L85]
+
+## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — the Kollaps-Kernel as thermodynamic counterforce
+
+This document is a software specification for a writing assistant that borrows the novel's names. Its catalogue sets the Kollaps-Kernel against the Kohärenz-Kernel: „Ihm entgegen steht der -Kernel, der Kollaps-Kernel, welcher die absolute thermodynamische Gegenkraft darstellt“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L21], whose function is „Seine Funktion ist die irreversible Berechnung und die Zerstörung wechselseitiger Struktur, was physikalisch dem Wärmetod und der Entropie entspricht.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L21]
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the Erasure Kernel as the engine of history
 
