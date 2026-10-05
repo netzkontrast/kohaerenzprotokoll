@@ -238,3 +238,11 @@ Transformed into a permanent state, the third variant of the record, with no Vor
 Chapter 35, `Finale Transformation`: Kael uses her integrated power „um den Kollaps/die Transformation von AEGIS zu vollenden oder zu lenken“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L291]. Chapter 36, `Der Zustand danach`, plans a transition into a new, uncertain state „ohne AEGIS' dominante Kontrolle“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L298], and the strategy field puts it after „dem Fall oder der Transformation von AEGIS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L299], with the open question about the world after: „Selbstorganisation? Chaos?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L300]. The document names no `Vortex` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0] and no beat, and it does not say who takes over AEGIS's function.
 
 Where it stands in the record's own terms: collapse or transformation left open in the plan's own words, and what remains is a state without AEGIS's dominant control; recorded, the question stays open.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report
+
+**The Leitfragen report describes the end as a recursive reset, Kapitel 40/0, and asks how it follows the Gödel-Gambit; it has no Vortex and names no fate for AEGIS.**
+
+This is the report's account of documents it numbers (its sources 9, 10 and 13). The word `Vortex` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0] does not stand in it (a count). Of the model: Kael wakes after a Universal Reboot, „ohne Erinnerung erwacht“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L117], and „Am Ende, in Kapitel 40/0, befindet sich Kael in den“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L117] Neon Ashes of New Zenith. The Kishōtenketsu ending runs to „der zirkulären Rekursion, in der das Ende zum Neuanfang wird“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L153]; Kael, caught in a Race Condition, „und den Zyklus neu startet“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L155]. Leitfrage 9 asks how the arc passes „in den rekursiven Reset (Kapitel 40/0) überführt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L157].
+
+Stands: AEGIS's state at the end is not addressed; the report asks only about tone and the transition into the reset, as an unanswered question; recorded, not applied.
