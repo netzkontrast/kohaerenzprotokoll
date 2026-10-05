@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 31
-readings: 31
+sources: 32
+readings: 32
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,10 @@ One of the thirteen [[alters|Alters]] — Spiegel-Alter, „AEGIS-Echo" in its h
 ## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — Oblivion as a deletion subsystem of the writing assistant
 
 This document is a software specification for a writing assistant that borrows the novel's names. Its table lists the subsystem `Oblivion` as „Hypervisor (Löschlogik)“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L187] that „Personifiziert das Amnesie-Protokoll.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L187] On a violated invariant it cuts the error out: „schneidet den Fehler emotionslos aus dem Grid“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L187].
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — a Hypervisor personifying the Amnesia Protocol
+
+The manifest lists „Oblivion (Hypervisor of Deletion Logic)“ ^[aegis-persona-and-manifest-generation.md:L168], who „Personifies the Amnesia Protocol.“ ^[aegis-persona-and-manifest-generation.md:L168] Oblivion is one of the secondary Hypervisor functions meant to enforce the rules the Guardians establish.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
