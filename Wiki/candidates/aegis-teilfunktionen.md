@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 8
-readings: 6
+sources: 9
+readings: 7
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 gathered: "2026-09-16"
 ---
 
@@ -71,6 +71,10 @@ The manifest names the `SIS` once, as the Systemic Isolation Shield, and gives i
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — twelve protocols reduced to three
 
 F2 lists twelve protocols as former candidates, `IntegrityGuardian` and `SIS` among them (L478), and asks which three or fewer show „Erasure-Sweep“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L206], consensus enforcement and a cognitive firewall so that AEGIS's function becomes legible (L486). §10 records the Kanon's decision: „AEGIS-Protokolle als Lore-Inventar.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L582] are reduced to three (L582).
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — SIS in the pre-assessment and the evaluation
+
+The outline of 2026-05-01 lists SIS in its POV table at Kap 4 as „SIS-Vorabbewertung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L60] and at Kap 5 as „SIS-Evaluation“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L61]. In Kap 4 the entry: „SIS analysiert Kaels Datenstrom in Vorbereitung der Pflicht-Evaluation.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172] — and „SIS klassifiziert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172] the three fundamental frequencies as `biorhythmisches Drift`.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
