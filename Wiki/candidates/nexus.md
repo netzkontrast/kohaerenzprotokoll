@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline"]
 gathered: "2026-09-17"
 ---
 
@@ -36,6 +36,10 @@ instances open `Im Überraum…`**. `Nexus` 11 occurrences, `Überraum` 5.
 The pattern is too regular to be accident — a field name in one vocabulary,
 filled in another. **The document never states they are one space.** Kept as two
 pages and cross-referenced rather than merged: J18.
+
+## Reading — `outline`, 2025-07-30, the outline — the Nexus as the place Kael returns to in Kap 27
+
+Kap 27 is titled „Sturm auf die Überwelt: Der Beginn des Angriffs / Rückkehr zum Nexus“ ^[outline.md:L158] (L158); the plot line says Kael „kehrt zu einem zentralen Nexus in der Überwelt zurück, um die Konfrontation mit AEGIS zu planen.“ ^[outline.md:L160] (L160).
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a noise-free Nexus in Kap 17
 
