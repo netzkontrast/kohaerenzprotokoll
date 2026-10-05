@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 7
-readings: 6
+sources: 8
+readings: 7
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence"]
 gathered: "2026-09-16"
 ---
 
@@ -70,6 +70,10 @@ The untitled three-act text applies the same term to the same mechanism:
 
 English throughout; the German name for the flaw stands untranslated inside both
 English passages.
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the three-act blueprint) — the Negentropie-Fehlinterpretation named and explained
+
+The three-act blueprint (Act I, the antagonist's gaze) says what the misreading is: AEGIS's blindness makes it „misinterpret any emergent, life-affirming complexity (negentropy)“ ^[ai-assisted-narrative-coherence.md:L855], „such as the emotional resonance of the Juna connection or the first steps of Kael's psychological integration“ ^[ai-assisted-narrative-coherence.md:L855], as chaos (entropy). It names the flaw: „This core logical flaw, the Negentropie-Fehlinterpretation, is the engine of the entire conflict.“ ^[ai-assisted-narrative-coherence.md:L855]
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Negentropie as the order the minimal being holds against Rauschen
 
