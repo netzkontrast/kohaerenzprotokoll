@@ -132,3 +132,11 @@ Stands as one more answer to the record's question, given for System 2 and only 
 The audit numbers no beats (`Beat` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0]) and names no Oblivion (`Oblivion` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0]); nothing in it says another takes over AEGIS' function.
 
 Stands as one more answer to the record's question, destruction and a frozen state in the same passage; the audit does not say which of the two is what remains after the climax. The record stays open.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon lists three readings of AEGIS after the [[truth-rotation|Truth-Rotation]] and recommends the first, with traces of the second, before encoding.**
+
+Appendix C.1 (OFFEN): „AEGIS funktioniert weiter, aber als trauernder Gott.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L689] (1), „AEGIS löscht sich selbst — ironisch konsequent, weil Erasure sein einziges Werkzeug ist.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L690] (2), and a transformation into the K1 reading, which „Würde die Storyform-B-Logik brechen.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L691] (3). The Empfehlung, a recommendation, is „Empfehlung tendiert zu (1), kombiniert mit Spuren von (2) am Ende.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L695] and the document adds „Aber: zu klären vor Encoding.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L695]
+
+Where it stands in the record's own terms: open in the document itself, with a recommendation for reading 1.
