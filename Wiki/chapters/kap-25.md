@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C9", "C11", "C14", "C6"]
 gathered: "2026-09-25"
 ---
@@ -53,6 +53,14 @@ Position: Teil II; setting from the `Schauplatz` field: „Das Fundament der Psy
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Selene (Self)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L257]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael wehrt die mentale Invasion ab“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L259] and „Diese nicht-reaktive Resilienz macht AEGIS' Angriffs-Algorithmen wirkungslos“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L259]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Fall des Himmels
+
+Title: „Der Fall des Himmels“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L313] — heading „Die Wahrheit der Simulation“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L314]
+Position: Teil II; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L315]; place from `Ort`: „Der Nexus (Das Zentrum von AEGIS)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L317]
+
+- Story: the matrix plans „Kael durchbricht die letzte Barriere und betritt den Nexus“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L319]
+- Question: „Wie sieht das Erwachen aus der Matrix aus?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L318]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
