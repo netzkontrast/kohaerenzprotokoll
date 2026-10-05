@@ -1,0 +1,457 @@
+{
+  "document": "kontext-outline",
+  "drive_id": "1ci5TNH4nAXZUYniv6IKM3VbRSThBroLDAUGx2MkT4y4",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 87,
+    "decisions": 97,
+    "decided_by_lookup": 69,
+    "needs_judgement": 28
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        18,
+        26,
+        51,
+        66,
+        293,
+        340,
+        426,
+        439,
+        462,
+        473
+      ],
+      "attribution": "",
+      "note": "the briefing's gloss, its origin and paradox lines, and the planned end"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        40,
+        102
+      ],
+      "attribution": "",
+      "note": "the glossary gloss and the plan for Chapter 3"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        42,
+        190,
+        202,
+        271
+      ],
+      "attribution": "",
+      "note": "the glossary gloss and Argus in the analytic chapters"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        32,
+        167,
+        169,
+        329,
+        418
+      ],
+      "attribution": "",
+      "note": "KW3's guardian and the planned confrontations"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        71,
+        293
+      ],
+      "attribution": "",
+      "note": "`Emergenz` as a philosophical hint and a paradox's object"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        281,
+        352,
+        494
+      ],
+      "attribution": "",
+      "note": "the two lines that name the external level"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        63,
+        65,
+        405
+      ],
+      "attribution": "",
+      "note": "the prologue's title and the core trauma in Chapter 30"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        164,
+        166
+      ],
+      "attribution": "",
+      "note": "a chapter title, not a glossary entry"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        30,
+        32,
+        33,
+        48,
+        169,
+        261,
+        375
+      ],
+      "attribution": "",
+      "note": "the glossary's five Guardians over four worlds"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        49,
+        70,
+        282,
+        349,
+        460,
+        463
+      ],
+      "attribution": "",
+      "note": "Juna/V as the briefing's external entity and the planned contact chapters"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        34,
+        38,
+        79,
+        360,
+        501
+      ],
+      "attribution": "",
+      "note": "the glossary's gloss on Kael and the planned integration arc"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        33,
+        259,
+        261
+      ],
+      "attribution": "",
+      "note": "KW4's guardian pair and Chapter 17"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        47,
+        134,
+        168
+      ],
+      "attribution": "",
+      "note": "one of three named EPs"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        26,
+        66
+      ],
+      "attribution": "",
+      "note": "the glossary's single mention of the component"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        87
+      ],
+      "attribution": "",
+      "note": "a chapter title, not a glossary entry"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        39,
+        79,
+        91,
+        102,
+        227
+      ],
+      "attribution": "",
+      "note": "the glossary gloss and Lex in the chapter plans"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        47,
+        134
+      ],
+      "attribution": "",
+      "note": "one of three named EPs"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        30,
+        380,
+        383
+      ],
+      "attribution": "",
+      "note": "KW1's guardian and the planned confrontation"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        31,
+        123,
+        407
+      ],
+      "attribution": "",
+      "note": "KW2's guardian, from the glossary and the two planned Mnemosyne chapters"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        47,
+        123,
+        134
+      ],
+      "attribution": "",
+      "note": "one of three named EPs"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        364,
+        501
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the planned end state"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        69
+      ],
+      "attribution": "",
+      "note": "the prologue's setting"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        43,
+        168
+      ],
+      "attribution": "",
+      "note": "the glossary gloss, with its question mark"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        18,
+        50,
+        455
+      ],
+      "attribution": "",
+      "note": "the Fundament glossed as the deepest level of reality"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        120,
+        122
+      ],
+      "attribution": "",
+      "note": "a chapter title, not a glossary entry"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        41,
+        112,
+        179,
+        306
+      ],
+      "attribution": "",
+      "note": "the glossary gloss and Rhys in Chapters 4, 10 and 21"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        79,
+        189
+      ],
+      "attribution": "",
+      "note": "`Glitches` in the plan, set against the later Riss"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        44,
+        67,
+        179,
+        361,
+        481
+      ],
+      "attribution": "",
+      "note": "a potential, hedged figure at the end"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        33,
+        259,
+        261
+      ],
+      "attribution": "",
+      "note": "KW4's second guardian"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        18,
+        52,
+        144
+      ],
+      "attribution": "",
+      "note": "the glossary entry and the project context"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        53,
+        69,
+        223,
+        228,
+        229
+      ],
+      "attribution": "",
+      "note": "the glossary's gloss on the Überwelt and Act 2's entry into it"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 71,
+      "decision": "reading",
+      "why": "read on emergenz"
+    },
+    {
+      "page": "grenzfeste",
+      "surface": "Grenzfeste",
+      "line": 164,
+      "decision": "reading",
+      "why": "Chapter 9's title, read on grenzfeste"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "surface": "Konstrukt-Stadt",
+      "line": 87,
+      "decision": "reading",
+      "why": "Chapter 2's title, read on konstrukt-stadt"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 18,
+      "decision": "reading",
+      "why": "read on realitaetsebenen"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "surface": "Resonanz-Landschaft",
+      "line": 120,
+      "decision": "reading",
+      "why": "Chapter 5's title, read on resonanz-landschaft"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

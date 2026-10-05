@@ -1,0 +1,269 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py kontext-outline --count "Core Theme"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Core Theme` ^[kontext-outline.md:#40]
+$ python3 scripts/read.py kontext-outline --count "Plot Summary"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Plot Summary` ^[kontext-outline.md:#40]
+$ python3 scripts/read.py kontext-outline --count "Kael Sys Focus"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Kael Sys Focus` ^[kontext-outline.md:#40]
+$ python3 scripts/read.py kontext-outline --count "Setting"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Setting` ^[kontext-outline.md:#40]
+$ python3 scripts/read.py kontext-outline --count "AEGIS Focus"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            37
+
+`AEGIS Focus` ^[kontext-outline.md:#37]
+$ python3 scripts/read.py kontext-outline --count "Philo Hint"
+whole word, case-sensitive     33
+whole word, case-insensitive   33
+including compounds            33
+
+`Philo Hint` ^[kontext-outline.md:#33]
+$ python3 scripts/read.py kontext-outline --count "Trope Note"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Trope Note` ^[kontext-outline.md:#40]
+$ python3 scripts/read.py kontext-outline --count "Zur Orientierung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Zur Orientierung` ^[kontext-outline.md:#2]
+$ python3 scripts/read.py kontext-outline --count "?"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            88
+
+`?` ^[kontext-outline.md:#4]
+$ python3 scripts/read.py kontext-outline --count "Komponente 734"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Komponente 734` ^[kontext-outline.md:#1]
+$ python3 scripts/read.py kontext-outline --count "Konstrukt-Welt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Welt` ^[kontext-outline.md:#1]
+$ python3 scripts/read.py kontext-outline --count "KW1"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            12
+
+`KW1` ^[kontext-outline.md:#11]
+$ python3 scripts/read.py kontext-outline --count "KW2"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`KW2` ^[kontext-outline.md:#15]
+$ python3 scripts/read.py kontext-outline --count "KW3"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`KW3` ^[kontext-outline.md:#10]
+$ python3 scripts/read.py kontext-outline --count "KW4"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`KW4` ^[kontext-outline.md:#8]
+$ python3 scripts/read.py kontext-outline --count "KW"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            51
+
+`KW` ^[kontext-outline.md:#2]
+$ python3 scripts/read.py kontext-outline --count "KWs"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`KWs` ^[kontext-outline.md:#4]
+$ python3 scripts/read.py kontext-outline --count "Guardians"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Guardians` ^[kontext-outline.md:#16]
+$ python3 scripts/read.py kontext-outline --count "Guardian"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            25
+
+`Guardian` ^[kontext-outline.md:#9]
+$ python3 scripts/read.py kontext-outline --count "Fundament"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            14
+
+`Fundament` ^[kontext-outline.md:#12]
+$ python3 scripts/read.py kontext-outline --count "TSDP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`TSDP` ^[kontext-outline.md:#1]
+$ python3 scripts/read.py kontext-outline --count "Juna"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            29
+
+`Juna` ^[kontext-outline.md:#29]
+$ python3 scripts/read.py kontext-outline --count "Juna/V"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            29
+
+`Juna/V` ^[kontext-outline.md:#29]
+$ python3 scripts/read.py kontext-outline --count "Entropie"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Entropie` ^[kontext-outline.md:#0]
+$ python3 scripts/read.py kontext-outline --count "Entropiequelle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entropiequelle` ^[kontext-outline.md:#1]
+$ python3 scripts/read.py kontext-outline --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Fehlausgerichtete Kohärenz` ^[kontext-outline.md:#4]
+$ python3 scripts/read.py kontext-outline --count "Fehlausgerichteten Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fehlausgerichteten Kohärenz` ^[kontext-outline.md:#2]
+$ python3 scripts/read.py kontext-outline --count "funktionale Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`funktionale Multiplizität` ^[kontext-outline.md:#2]
+$ python3 scripts/read.py kontext-outline --count "funktionaler Multiplizität"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`funktionaler Multiplizität` ^[kontext-outline.md:#3]
+$ python3 scripts/read.py kontext-outline --count "Kernparadoxon"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kernparadoxon` ^[kontext-outline.md:#5]
+$ python3 scripts/read.py kontext-outline --count "AEGIS Paradoxon"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`AEGIS Paradoxon` ^[kontext-outline.md:#20]
+$ python3 scripts/read.py kontext-outline --count "EPs"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`EPs` ^[kontext-outline.md:#11]
+$ python3 scripts/read.py kontext-outline --count "ANPs"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`ANPs` ^[kontext-outline.md:#4]
+$ python3 scripts/read.py kontext-outline --count "Juna/V Focus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna/V Focus` ^[kontext-outline.md:#2]
+$ python3 scripts/read.py kontext-outline --count "Fundament Focus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fundament Focus` ^[kontext-outline.md:#1]
+$ python3 scripts/read.py kontext-outline --count "Kael"
+whole word, case-sensitive     107
+whole word, case-insensitive   107
+including compounds            114
+
+`Kael` ^[kontext-outline.md:#107]
+$ python3 scripts/read.py kontext-outline --count "Kaels"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kaels` ^[kontext-outline.md:#7]
+$ python3 scripts/read.py kontext-outline --count "Anteile"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            14
+
+`Anteile` ^[kontext-outline.md:#9]
+$ python3 scripts/read.py kontext-outline --count "Anteilen"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Anteilen` ^[kontext-outline.md:#4]
+$ python3 scripts/read.py kontext-outline --count "Echos"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Echos` ^[kontext-outline.md:#2]
+$ python3 scripts/read.py kontext-outline --count "Risse"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Risse` ^[kontext-outline.md:#3]
+$ python3 scripts/read.py kontext-outline --count "Phobien"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`Phobien` ^[kontext-outline.md:#5]
+$ python3 scripts/read.py kontext-outline --count "Selene"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            12
+
+`Selene` ^[kontext-outline.md:#11]
+$ grep -c "?" Sources/drive/kontext-outline.md  (lines holding a question mark)
+68
+$ grep -c "\\\\" Sources/drive/kontext-outline.md (lines with a backslash); profile says 80 escapes
+46
+$ grep -c "Chapter [0-9]*:" (chapter headings with a digit)
+39
+$ grep -n "AEGIS Focus" last line
+473:  - **AEGIS Focus:** Zustand nach Kl
+profile: question marks 88, backslash escapes 80, glued ref numbers 44 (01-profile.txt)
+03 lists 87 candidates (04-counts.txt header)
