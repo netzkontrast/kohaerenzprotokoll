@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"]
 gathered: "2026-09-17"
 ---
 
@@ -56,6 +56,10 @@ The coherence the document sets against it is a coherence of purpose: „Das Mos
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — coherence as an embodied process, AEGIS's mathematical coherence, and coherence by addition
 
 The pitch poses the novel as a test of whether „ob wahre Kohärenz durch die Eliminierung von Fehlern durch Subtraktion oder durch die Integration von dissonanten Teilen durch Addition erreicht wird“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L31]. It says: „Wahre Kohärenz ist im Projekt ein zutiefst verkörperter Prozess (Embodiment)“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L91]. AEGIS's coherence is the other kind: „Die angestrebte mathematische Kohärenz von AEGIS wird im Projekt durch die hochkomplexe Metapher der Monstergruppe“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L119] symbolised, and it falls into the `Paradox der fehlausgerichteten Kohärenz`. The conclusion answers its question: „Wahre, belastbare Kohärenz wird ausschließlich durch Addition erreicht“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L169].
+
+## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — coherence as the assistant's enforced order
+
+This document is a software specification for a writing assistant that borrows the novel's names. Where it reports the novel, AEGIS is the figure that embodies „absolute Kohärenz und den Ausschluss jeglicher Entropie verkörpert“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L59]; the Kohärenz-Kernel is „die universelle Instanz der Ordnung, Symmetrie und der reversiblen Berechnung.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L21] In the spec's own voice, the deterministic runtime forces generative fuzziness into strict coherence, and the closing line is „Die Kohärenz der Welt wird unter allen Umständen aufrechterhalten.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L201] That line is the assistant's rule in AEGIS's voice, not a statement of the novel.
 
 ## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — coherence as informational coherence: perfect and undisturbed in the kernel of reversible computation, apparent when kept by exclusion, true in Kael's multiplicity
 
