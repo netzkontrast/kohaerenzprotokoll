@@ -156,3 +156,11 @@ Stands: the outline's answer is a plan, not canon.
 §4.1, step 5 (the report's `Lösung zu C.1`): „AEGIS löscht sich nicht.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L85] and „Es verwaltet fortan eine Welt, von der es weiß, dass sie auf einem fehlerhaften Axiom ruht.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L85] The gaps part (§3.2): „Die Empfehlung des Kanons tendiert zu Option 1 (Algorithmische Melancholie als Dauerzustand)“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L69] Table, column 3: „oder legt sich selbst still (C.1)“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L53] On Oblivion (§4.4): „erwacht Oblivion und übernimmt die Entscheidungsfunktion im Innensystem“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L128]
 
 Stands: AEGIS persists, melancholic, and Oblivion takes over its decision function, as the report proposes it; the record's other answers are not weighed here.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline
+
+**The outline ends AEGIS in melancholy, not in destruction, and discards the utopian merger.**
+
+Anhang C: „AEGIS-Endzustand: Drift zwischen Zerstörung im Kampf und“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1354] (the line goes on with the second state in quotation marks), then „Version: Melancholie verwendet.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1354] Anhang B lists the merger as discarded: „Utopische Verschmelzung (AEGIS als Partner)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1348] Kap 36 has AEGIS „kollabiert leise in die Algorithmische Melancholie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1080] and Kap 37 has it silent: „AEGIS ist stumm, lediglich ein melancholisches Summen erinnert an seine Herrschaft.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1120] Anhang H's finding: „Befund: AEGIS handelt aus Tautologie, was in Melancholie mündet“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1425]
+
+In the record's terms: the outline answers the question with melancholy as its own decision from its canon source, and decides nothing.
