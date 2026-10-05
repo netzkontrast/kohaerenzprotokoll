@@ -462,3 +462,11 @@ In the record's terms it places warmth with Juna, not with AEGIS's erasure, and 
 Kap 1: „Die absolute Kälte und der beißende Geruch von Ozon symbolisieren hier Kaels radikale Isolation“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L51] The foreshadowing of that chapter names the heat: „Foreshadowing für Landauer-Hitze“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L33] Kap 35 has the heat come with burning ozone: „die Atmosphäre füllt sich mit brennendem Ozon“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1041] The marker block of Kap 39: „sind exakt diese Phänomene das Produkt der unaufhebbaren, heißen Reibung der Moleküle aneinander“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1200] The run's reflection in Anhang D: „Den Ouroboros-Marker (Ozon/Hitze) schon ab dem Entwurf von Kapitel 1 aggressiver mit der DKT-Physik verknüpfen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1372]
 
 In the record's terms: the outline writes the ozone as cold in Kap 1 and as the product of hot friction in Kap 39, in the same marker, and decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction
+
+**The reconstruction puts the Landauer heat on the side of repression, and Juna's manifestation in thermal cracks.**
+
+Physikgesetze, Landauer-Prinzip: „Das bewusste Löschen von Informationen (psychologische Verdrängung) generiert immense Hitze“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L176], which splits KW1 as thermische Risse. HC-09 sets Juna's existence as manifest through „Gravitation, thermische Risse, Sehnsucht“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L151].
+
+Stands on the heat side, in an audit dated 2026-03-26; recorded, not applied.
