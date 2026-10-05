@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 33
-readings: 33
+sources: 34
+readings: 34
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,10 @@ One of the thirteen [[alters|Alters]] — EP, „Sexualisiert / Fight-via-Contro
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — named in the roster of EPs only
 
 `Isabelle` stands once in the report, in the sentence that gives the plot document's EPs (a reference-1 sentence): „die EPs (Nyx, Kiko, Lia, Isabelle, Moros)“ ^[scifi-roman-mit-ki-schreiben.md:L121] Nothing else is said of her.
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — named in the roster of EPs
+
+In the roster of eleven parts (glued `1`, reference 1) Isabelle is listed among the EPs: „Nutzt Sexualität als Abwehr und Mittel zur Kontrolle, um erlittene Ohnmacht umzukehren“ ^[system-kael-konzeptentwicklung-und-analyse.md:L122]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Isabell among the aggressive protectors
 
