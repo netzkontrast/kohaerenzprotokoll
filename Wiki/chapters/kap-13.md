@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael handelt mit neu gefundener Entschlossenheit oder innerer Konsistenz“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185] · „Alte prädiktive Modelle werden als 'veraltet' markiert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185]
 - Story: „Kael bemerkt möglicherweise eine Veränderung in der 'Haltung' des Systems ihm gegenüber – weniger abweisend, wachsamer.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185]
 - Discussion: „Dies markiert einen Wendepunkt in der Kael-AEGIS-Dynamik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186] · „Es erhöht den Einsatz für Teil 2 erheblich.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — End of the inner journey
+
+Title: „Ende der Inneren Reise“ ^[romanstruktur-und-philosophische-einleitung.md:L113]
+Position: Teil I, „Die neue Perspektive“ ^[romanstruktur-und-philosophische-einleitung.md:L113]
+
+- Story: „Das Abschlusskapitel von Teil I fungiert als Scharnier zum nächsten Teil.“ ^[romanstruktur-und-philosophische-einleitung.md:L115]
+- Story: „Er erkennt die Künstlichkeit der Welt, die Pixel, den Code hinter der Textur.“ ^[romanstruktur-und-philosophische-einleitung.md:L117]
+- the same paragraph looks back: Kael sees KW1 „nicht mehr als perfekten Ort (wie in Kap. 1)“ ^[romanstruktur-und-philosophische-einleitung.md:L117]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
