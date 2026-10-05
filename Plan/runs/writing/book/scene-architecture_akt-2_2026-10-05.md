@@ -1,3 +1,6 @@
+> **Seit 2026-10-05 Quelle, nicht mehr Ausführung:** Die Liste ist in `Plan/storyform/development.json` zusammengeführt
+> (Entscheidung 025, Schritt 44; Vergleich in `plot-vergleich_2026-10-05.md`). Was gilt, steht dort.
+
 # scene-architecture — Akt II, Kap 14–26: die Szenenliste als Vorschlag, 2026-10-05
 
 **Auftrag des Autors (2026-10-05):** „Continue“, nach der Szenenliste für Akt I.

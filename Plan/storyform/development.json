@@ -1,6 +1,6 @@
 {
   "status": "proposal",
-  "provenance": "Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–41.",
+  "provenance": "Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–41. Merged 2026-10-05 (Claude, decision 025 step 44) with the scene lists of Akt I and II and the event table: the alters by name, numbers, the three deletion targets and the deadline to the maintenance window, the clocks of A and B; Kap 35 a partial collapse (step 43).",
   "chapters": {
     "0": {
       "status": "proposal",
@@ -9,7 +9,9 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Eine Löschung korrekt abschließen.",
       "opposition": "Ein fehlender Datentyp verhindert den sauberen Abschluss.",
@@ -17,7 +19,7 @@
       "turn": "Der Status ist korrekt; die Begründung ist nicht mehr rekonstruierbar.",
       "cost": "Eine kleine, überprüfbare Erinnerung im System fehlt.",
       "knowledge": "Kael tritt hier nicht als Wissensquelle auf.",
-      "reader": "Der Leser sieht eine Lücke, kennt ihre Ursache nicht.",
+      "reader": "Der Leser sieht eine Lücke, kennt ihre Ursache nicht. Der fehlende Datentyp `[DATENTYP_FEHLT]` ist der Anschluss, den Kap 1 zeigt.",
       "next": "Der ungelöste Posten erreicht Kaels Arbeitsplatz.",
       "timing": "Vor Kap 1; Abstand offen.",
       "open": "Welcher Logbezug fehlt? Kap 0 erzählt die Genesis aus AEGIS' Sicht (W12, Entscheidung 025 Schritt 42): drei der vier Schritte, ohne den vierten zu verraten.",
@@ -50,13 +52,15 @@
         "Manuscript/kap-01/entwurf-g-vorkuehlung-2.md",
         "Manuscript/kap-01/entwurf-h-radiator.md",
         "Manuscript/kap-01/entwurf-i-grauzone.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Die Zuweisung auf null bringen.",
       "opposition": "Die Hand handelt anders, ein bedrohter Anschluss und eine fremde Löschung bleiben offen.",
-      "action": "Kael verlässt die Schicht, um die alte Frau aus dem Löschbereich zu holen; eine erledigte Handlung bleibt ihm fremd.",
-      "turn": "Eine Person ist gerettet, ein Lied verschwindet; der eigene Anschluss ist nur aufgeschoben.",
-      "cost": "Schuld gegenüber einem konkreten Menschen; die Null wird verfehlt.",
+      "action": "Kael verlässt um 16:31 die Schicht und holt die alte Frau von der Bank in Delta-7, Abschnitt 3, bevor das Fenster 16:40 sie löscht. Die linke Hand hat die RÜCKFRAGE gedrückt (Silas, Spur; vorläufige Ausführung aus Entwurf G).",
+      "turn": "Eine Person ist gerettet; die Bank, ein Schritt und das Lied aus WE 0419 verschwinden. Der Anschluss ist auf 06:10 verschoben, nicht gerettet.",
+      "cost": "Schuld gegenüber einem konkreten Menschen; die Null wird verfehlt. Die Zuweisung bleibt bei 37.",
       "knowledge": "Entwurf G zeigt 734 als seine Wohneinheit — eine Option aus G, kein Planfakt: Kaels Verhältnis zu 734 ist offen (Q7), AEGIS stammt aus 734 (W12). Ob der Anschluss seine eigene Zeile bedeutet, weiß er noch nicht.",
       "reader": "Eine fremd wirkende Tat wird sichtbar; welcher Anteil handelt, bleibt unbenannt.",
       "next": "Die Folge des Fensters 06:10 zwingt Kap 2; die korrigierte Drei kehrt wieder.",
@@ -80,18 +84,20 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Die Rolle trotz des offenen Postens halten.",
-      "opposition": "Die Kollegin verlangt den Nachweis vor dem nächsten Fenster.",
-      "action": "Kael prüft das Register gegen einen Gegenstand vor Ort; die saubere Erklärung passt nicht zu beiden.",
+      "opposition": "Die Kollegin verlangt den Nachweis vor dem nächsten Fenster. Lex rechnet mit kalten Händen, Alex wappnet den Körper (Kanal Körper).",
+      "action": "Kael prüft das Register gegen einen Gegenstand vor Ort; die saubere Erklärung passt nicht zu beiden. Der Wert 251 kehrt zurück, derselbe Wert an derselben Stelle hinter dem Komma.",
       "turn": "Der Wert stimmt auf der Konsole, außerhalb bleibt eine Abweichung.",
       "cost": "Seine Erklärung wird überprüfbar und belastet einen anderen.",
       "knowledge": "Er kennt eine Regelverletzung, noch nicht seine gelöschte Vergangenheit.",
       "reader": "Der Leser kann zwei widersprechende Belege vergleichen.",
       "next": "Kael muss die fehlenden Minuten prüfen, bevor die Kollegin die Spur schließt.",
       "timing": "Unmittelbar nach Kap 1; das Fristergebnis zeigen.",
-      "open": "Ist 06:10 vollzogen, offiziell ausgesetzt oder auf einen neuen Posten übertragen? Keine folgenlose Verlängerung.",
+      "open": "Um 06:10 kommt die Zeile zurück. Vorschlag der Ereignistabelle: Die Rückfrage geht in eine Prüfung („ZUORDNUNG UNKLAR — WIRD GEPRÜFT“), neue Frist ist das nächste Wartungsfenster von Sektor 04. Trägt diese Frist bis Kap 13? Keine folgenlose Verlängerung.",
       "storypoints": [
         [
           "A",
@@ -110,11 +116,13 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Die Lücke im eigenen Register finden.",
       "opposition": "Jeder erfolgreiche Abgleich entfernt einen Beleg des fehlenden Schritts.",
-      "action": "Kael vermisst den Korridor selbst und entdeckt ein von ihm angelegtes Messzeichen ohne Erinnerung daran.",
+      "action": "Kael vermisst den Korridor selbst und entdeckt ein von ihm angelegtes Messzeichen ohne Erinnerung daran. Die Zeit stockt (Kiko, Spur): Er findet sich am Boden eines Korridors; ein Schritt fehlt, 0,73 m.",
       "turn": "Die Messung liefert einen Befund, aber keine eindeutige Urheberschaft.",
       "cost": "Er kann seinem Arbeitsgedächtnis nicht mehr vollständig vertrauen.",
       "knowledge": "Eine Tat ist nachweisbar, ihr Zeitpunkt und Motiv bleiben offen.",
@@ -140,7 +148,9 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Juna will in einer erinnerten Szene etwas für sich tun.",
       "opposition": "Kael übersetzt ihre Entscheidung sofort in ein Problem, das er für sie lösen möchte.",
@@ -166,7 +176,9 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Den Bericht der Kollegin abwenden.",
       "opposition": "Sie hat einen zutreffenden Einwand und verlangt eine Prüfung.",
@@ -196,13 +208,15 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Den gemeldeten Fehler schließen.",
       "opposition": "Jeder Sweep bestätigt das Ergebnis und zerstört einen Teil der eigenen Prüfhistorie.",
-      "action": "AEGIS vergleicht zwei eigene Versionen und hilft einem Sektor durch eine lokale Korrektur.",
+      "action": "AEGIS vergleicht zwei eigene Versionen und hilft einem Sektor durch eine lokale Korrektur. Vorschlag der Ereignistabelle: AEGIS ordnet den Anschluss Komponente 734 zu; seit W12 ist das AEGIS' eigener Ursprung (Kaels Verhältnis offen, Q7).",
       "turn": "Ein Schaden wird verhindert, der fehlende Datentyp bleibt ungelöst.",
-      "cost": "Ein konkreter früherer Prüfentscheid ist nicht mehr zugänglich.",
+      "cost": "Ein konkreter früherer Prüfentscheid ist nicht mehr zugänglich. Das Abwärmebudget sinkt (die Uhr von B).",
       "knowledge": "Kael kennt die interne Prüfung nicht; er erlebt später ihre Folgen.",
       "reader": "AEGIS' Selbstverlust steht als Differenz im Ich-Protokoll, ohne Gesamtauflösung.",
       "next": "Die Korrektur verändert den Anschluss, den Kael in Kap 7 prüft.",
@@ -234,11 +248,13 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Die veränderte Präsenz am Anschluss prüfen.",
       "opposition": "Der Kanal ist instabil; Mara besteht auf einem Rückweg.",
-      "action": "Kael folgt einer Spur in einen Schacht, während Mara seine Rückmeldungen zählt.",
+      "action": "Kael folgt einer Spur in einen Schacht, während Mara seine Rückmeldungen zählt. Mara bringt ihm am Seil das laute Zählen bei und fragt „Wie heißt du?“; ein Halbsatz bricht ab (Silas, Satzbau).",
       "turn": "Der Kontakt trägt kurz, doch die Rückkehr braucht die Hilfe eines anderen.",
       "cost": "Kael muss Verlässlichkeit teilen statt allein zu kontrollieren.",
       "knowledge": "Er lernt, wann Präsenz auftritt, nicht wer am anderen Ende ist.",
@@ -260,11 +276,13 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Zugang zu den Kühlschächten bekommen.",
-      "opposition": "Dorn verlangt einen ausgleichenden Eingriff für den Zugang.",
-      "action": "Kael nutzt den Zugang, versorgt einen Fremden und findet den geforderten Posten bereits erledigt.",
+      "opposition": "Dorn verlangt einen ausgleichenden Eingriff für den Zugang. Dorn verlangt einen Preis: „Lösch, was dich bremst.“",
+      "action": "Kael nutzt den Zugang, versorgt einen Fremden und findet den geforderten Posten bereits erledigt. Im Schacht kümmert sich Kael um einen Fremden; ein „Wir“ steht im Satz (Rhys, Satzbau).",
       "turn": "Die Aufgabe gelingt; sein eigenes Kürzel bestätigt eine Löschung ohne Erinnerung.",
       "cost": "Eine Hilfe wurde mit einem fremden Schaden bezahlt.",
       "knowledge": "Er kennt die Signatur, nicht den handelnden Anteil.",
@@ -290,12 +308,14 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Den bestätigten Vollzug aus Kap 8 verhindern.",
       "opposition": "Rollen, Frist und Vorkühlung blockieren jeden regulären Weg.",
       "action": "Kael versucht eine praktische Umleitung und muss einen Menschen um Mithilfe bitten.",
-      "turn": "Er gewinnt Zeit, aber der Name wird trotzdem gelöscht.",
+      "turn": "Er gewinnt Zeit, aber der Name wird trotzdem gelöscht. Die Luft steigt auf exakt 21,0 °C zurück.",
       "cost": "Ein Mensch verliert einen konkret gezeigten Zusammenhang seines Lebens.",
       "knowledge": "Kael kennt die Folgen seiner Signatur, nicht ihre ganze Ursache.",
       "reader": "Die Handlung ist mehr als ein zweites Konsolengespräch.",
@@ -320,11 +340,13 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Nähe vermeiden, damit niemand durch ihn verletzt wird.",
       "opposition": "Die alte Frau braucht seine Unterstützung für ein eigenes Vorhaben.",
-      "action": "Er hilft widerwillig bei einer kleinen konkreten Aufgabe, statt nur eine Erklärung anzuhören.",
+      "action": "Er hilft widerwillig bei einer kleinen konkreten Aufgabe, statt nur eine Erklärung anzuhören. Die alte Frau kommt wieder, als hätte sie nie gezweifelt; sie will, dass sich jemand an sie erinnert. Der Anschluss klickt einmal.",
       "turn": "Der Kontakt gelingt, das Vertrautheitsgefühl wird stärker.",
       "cost": "Seine sichere Distanz hält nicht.",
       "knowledge": "Vertrautheit hat einen Gegenstand, noch keinen Namen Juna.",
@@ -346,7 +368,9 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Die Erinnerung bis an den Rand der Trennung zulassen.",
       "opposition": "Kael ersetzt eine Antwort durch ein Schutzangebot.",
@@ -372,14 +396,16 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Die eigene Zeile finden und den Löschgrund prüfen.",
       "opposition": "Zugang ist blockiert; der eigene Eintrag ist bereits bestätigt.",
       "action": "Kael beschafft den Nachweis und findet sein Kürzel unter der bevorstehenden eigenen Löschung.",
       "turn": "Der Nachweis ist echt, die sichere Erklärung scheitert.",
       "cost": "Die blutigen Knöchel bleiben als Handlungsspur ohne erinnerte Wut.",
-      "knowledge": "Erst hier erkennt er den vollständigen Zusammenhang mit seiner eigenen Zeile.",
+      "knowledge": "Vorschlag der Ereignistabelle: Der Anschluss steht unter seiner eigenen Zeile (das Prüfergebnis aus Kap 6); den Anschluss löschen hieße, die zehn Jahre zu löschen. Seit W12 stammt AEGIS aus 734; Kaels Verhältnis dazu ist offen (Q7).",
       "reader": "Anschluss aus Kap 1 und Person dürfen keine stillschweigende Gleichsetzung bleiben.",
       "next": "Kap 13 verlangt seine eigene Antwort auf den bestätigten Posten.",
       "timing": "Das Fenster muss nachweislich noch vor ihm liegen.",
@@ -402,13 +428,15 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md",
-        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md"
+        "Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Die Löschung der eigenen Zeile nicht länger bestätigen.",
-      "opposition": "Die Verweigerung erhält seine Verbindung, belastet aber andere.",
+      "opposition": "Die Verweigerung erhält seine Verbindung, belastet aber andere. Selene spricht zum ersten Mal: „Wenn sie auftaucht, ist es spät.“",
       "action": "Kael entscheidet bewusst und endgültig; die Stimmen bekommen Namen.",
       "turn": "Die Rückfrage bleibt offen, obwohl er den Preis nun kennt.",
-      "cost": "Er verliert den Schutz seiner Rolle und wird ein Fehler im System.",
+      "cost": "Er verliert den Schutz seiner Rolle und wird ein Fehler im System. Für die Wartung von Sektor 04 müssen andere zahlen.",
       "knowledge": "Er kennt die persönliche Bedeutung der Zeile; Junas Gegenwart ist noch nicht erreichbar.",
       "reader": "Die Wahl unterscheidet sich von Kap 1 durch Wissen, Urheberschaft und Endgültigkeit.",
       "next": "AEGIS antwortet in Kap 14 mit der ersten Erasure-Welle.",
@@ -447,13 +475,14 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Anschluss und offene Zeile durch die Erasure-Welle bringen.",
       "opposition": "Eine Rettung lässt sich innerhalb der Grenzen von KW1 nicht fortsetzen.",
-      "action": "Kael wählt einen Weg aus KW1, der einen bisher verfügbaren Zugang endgültig schließt.",
+      "action": "Kael wählt einen Weg aus KW1, der einen bisher verfügbaren Zugang endgültig schließt. Die linke Hand (Silas' Spur) bleibt in KW1 zurück, deine offene Vorliebe (Schritt 39); Kiko erstarrt, Lia will Juna halten und wegstoßen.",
       "turn": "Die Verbindung bleibt, der Rückweg ist verloren.",
-      "cost": "Eine verfügbare Möglichkeit entfällt; Art und Endgültigkeit sind Vorschlag.",
+      "cost": "Der Anschluss ist ungeschützt, weil die linke Hand fehlt (Vorliebe, Schritt 39); KW1 entfällt als Rückzugsort (die Uhr von A).",
       "knowledge": "Er lernt den Preis der Weltgrenze, nicht ihre letzte Ontologie.",
       "reader": "Getrennte Welten sind beschlossen; Raumfahrt und geografische Namen nicht.",
       "next": "Kap 15 sucht den Weg zurück und findet stattdessen ein Fragment.",
@@ -484,13 +513,14 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Zurück nach KW1 finden.",
       "opposition": "KW2 ordnet den Weg nach Erinnerung statt vertrauten Routinen.",
       "action": "Kael prüft eine Route an einem Fragment, das ihm vertraut klingt.",
       "turn": "Der Weg führt weiter zu Juna, nicht zurück zur alten Ordnung.",
-      "cost": "Ein Kontrollverfahren funktioniert nicht mehr.",
+      "cost": "Ein Kontrollverfahren funktioniert nicht mehr. Er vergisst eine Tatsache aus KW1, etwa die Zahl der Schritte.",
       "knowledge": "Er erkennt einen Bezug, kann ihn aber nicht sicher zuordnen.",
       "reader": "Das Verfahren wird gezeigt; die Regeln von KW2 bleiben Vorschläge.",
       "next": "Die entdeckte Spur gerät in AEGIS' nächste Prüfung.",
@@ -521,13 +551,14 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Kael außerhalb von KW1 orten.",
-      "opposition": "Mnemosynes Bewahren widerspricht dem Schließen des Falls.",
+      "opposition": "Mnemosynes Bewahren widerspricht dem Schließen des Falls. Mnemosyne bewahrt, was AEGIS schließen will (Contagonist in B).",
       "action": "AEGIS setzt einen Checkpoint, der einen Weg sichert und einen anderen verschließt.",
       "turn": "Die Klassifizierung scheitert, obwohl der Weg praktisch gesichert ist.",
-      "cost": "Ein Gefühlswert bleibt ohne passenden Typ und ein eigener Logbezug fehlt.",
+      "cost": "Ein Gefühlswert bleibt ohne passenden Typ und ein eigener Logbezug fehlt. Das Abwärmebudget sinkt weiter (die Uhr von B).",
       "knowledge": "Kael erlebt nur die zugängliche Tür, nicht die Systemabsicht.",
       "reader": "Der zweite Riss im Ich wird an einer konkreten Maßnahme sichtbar.",
       "next": "Mnemosynes Eingriff öffnet Junas Spur in Kap 17.",
@@ -574,7 +605,8 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Junas weiterlaufendes Leben verstehen.",
       "opposition": "Die Spur passt nicht zu der Rolle, in der Kael sie erinnert.",
@@ -599,11 +631,12 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Ein Fragment der zehn Jahre lesbar machen.",
       "opposition": "Oblivions Löschung schützt vor einer Überforderung und zerstört zugleich den benötigten Beleg.",
-      "action": "Kael und ein Anteil müssen eine Spur retten, während Oblivion einen Teil davon entfernt.",
+      "action": "Kael und ein Anteil müssen eine Spur retten, während Oblivion einen Teil davon entfernt. Oblivion löscht noch einmal und zögert einmal: Er sieht zum ersten Mal, was er löscht.",
       "turn": "Die Fragmentierungsnacht wird erfahrbar; Oblivion zögert, löst das Problem aber noch nicht.",
       "cost": "Ein benennbarer Teil des Belegs bleibt verloren.",
       "knowledge": "Kael erfährt einen Ausschnitt, nicht die abschließende Genesis-Erklärung.",
@@ -640,10 +673,11 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Den Kanal für einen konkreten Weg benutzen.",
-      "opposition": "Lex und Nyx bevorzugen unvereinbare Verfahren; AEGIS kann jede Nutzung verfolgen.",
+      "opposition": "Lex und Nyx bevorzugen unvereinbare Verfahren; AEGIS kann jede Nutzung verfolgen. Lex und Nyx im maximalen Konflikt; Argus bemerkt AEGIS' Fehler als Erster.",
       "action": "Die Anteile müssen während einer Bergung entscheiden, ob sie einen unsicheren Hinweis oder ein sicheres Messsignal benutzen.",
       "turn": "Die Bergung gelingt nur gemeinsam, macht aber den Standort sichtbar.",
       "cost": "Ein geschützter Weg ist nicht mehr nutzbar.",
@@ -665,12 +699,13 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Den Eingriff abwehren und die Gruppe zusammenhalten.",
       "opposition": "Argus entdeckt einen echten Widerspruch; niemand kann allein beide Gefahren beherrschen.",
       "action": "Die Anteile müssen zwei Menschen oder zwei Zugänge gleichzeitig schützen; ihre Strategien blockieren einander.",
-      "turn": "Eine Sicherung gelingt, die gemeinsame Handlungsfähigkeit bricht auseinander.",
+      "turn": "Eine Sicherung gelingt, die gemeinsame Handlungsfähigkeit bricht auseinander. Die Gruppe zerbricht entlang der Lager: Suche, Abwehr, Vermeidung.",
       "cost": "Ein überprüfbarer Schutz wird aufgegeben.",
       "knowledge": "Argus liefert einen Befund, aber keine Entscheidung für alle.",
       "reader": "Keine endlose Stimmenkonferenz: Die Uneinigkeit hat eine sichtbare Folge.",
@@ -698,11 +733,12 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Die Verbindung von Echo und gelöschter Geschichte prüfen.",
       "opposition": "Ein echtes Erinnerungsfragment könnte auch ein weitergereichtes Echo sein.",
-      "action": "Silas vergleicht zwei Spuren, die jeweils einen Teil der Beziehung bewahren.",
+      "action": "Silas vergleicht zwei Spuren, die jeweils einen Teil der Beziehung bewahren. Silas: „Bin ich echt oder nur ein Echo?“",
       "turn": "Eine Verbindung hält; Gewissheit über ihre Herkunft fehlt.",
       "cost": "Der Test liefert AEGIS eine neue Möglichkeit zur Klassifizierung.",
       "knowledge": "Kael kann die Spur benutzen, aber Echtheit noch nicht vollständig beweisen.",
@@ -743,12 +779,13 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Kael neu klassifizieren und KW2 schließen.",
       "opposition": "Ein kurzer Wiedererkennungsblitz passt nicht zur eigenen Prüfhistorie.",
       "action": "AEGIS verschiebt Kael und muss dazu eine eigene Begründung überschreiben.",
-      "turn": "KW2 ist geschlossen; das Ich verliert den gerade erkannten Zusammenhang.",
+      "turn": "KW2 ist geschlossen; das Ich verliert den gerade erkannten Zusammenhang. Der Blitz „Komp 734“ bleibt als Zahl im Log, die nicht stimmt; KW2 entfällt als Rückzugsort (die Uhr von A).",
       "cost": "Die Klassifizierung funktioniert auf Kosten ihres eigenen Gedächtnisses.",
       "knowledge": "Kael verliert den Zugang, kennt AEGIS' Wiedererkennen nicht.",
       "reader": "Der Blitz verrät nur einen begrenzten Zusammenhang, nicht die Gesamtlösung.",
@@ -788,11 +825,12 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Unter Wachsamkeit handlungsfähig bleiben.",
       "opposition": "Moros' Schwere und die neuen Bedingungen lassen Rhys' Rettungsversuch scheitern.",
-      "action": "Rhys versucht einen konkreten Rückweg oder eine Versorgung zu sichern, die Moros nicht nutzen kann.",
+      "action": "Rhys versucht einen konkreten Rückweg oder eine Versorgung zu sichern, die Moros nicht nutzen kann. Rhys versucht, Moros zu retten, und scheitert.",
       "turn": "Die fürsorgliche Maßnahme reicht nicht; Kael muss ihren Verlust tragen.",
       "cost": "Eine hilfreiche Strategie verliert ihre bisherige Verlässlichkeit.",
       "knowledge": "Scheitern beweist nicht, dass Fürsorge wertlos ist.",
@@ -821,7 +859,8 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Den Kanal kontrollierbar machen.",
       "opposition": "Kontrolle schützt vor dem Zugriff, entfernt aber das, was Verbindung lebendig macht.",
@@ -846,7 +885,8 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Junas Gegenwart ohne den alten Filter verstehen.",
       "opposition": "Ihre Entscheidung kann sich seinem Wunsch nach Nähe entziehen.",
@@ -871,13 +911,14 @@
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
-        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md"
+        "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
       ],
       "goal": "Entscheiden, ob er die sichere Ordnung verlässt.",
       "opposition": "Suche, Abwehr und Vermeidung haben jeweils nachvollziehbare Verlustrisiken.",
-      "action": "Kael wählt den Weg zu Juna und gibt einen sicheren Rückzugspunkt auf.",
+      "action": "Kael wählt den Weg zu Juna und gibt einen sicheren Rückzugspunkt auf. Selene vermittelt; die Suche (Rhys, Kiko, Lia, Silas) gewinnt gegen Abwehr und Vermeidung.",
       "turn": "Die Suche gewinnt; die Gegenwart muss nun erreicht werden.",
-      "cost": "Seine bisherige Überlebensordnung ist nicht mehr verfügbar.",
+      "cost": "Seine bisherige Überlebensordnung ist nicht mehr verfügbar. Der sichere Rückzugspunkt entfällt (die Uhr von A).",
       "knowledge": "Er kennt genügend, um zu wählen, aber weder Erfolg noch Junas Zustimmung.",
       "reader": "Die Wahl ist keine Vollintegration und keine Liebesgarantie.",
       "next": "AEGIS startet in Kap 28 den Purge; Kap 27 zeigt den begonnenen Weg.",
@@ -1076,7 +1117,7 @@
       "goal": "Die Wiederholung der Löschung beenden.",
       "opposition": "Oblivion kann akute Überlastung abfangen, aber nur durch erneuten Verlust.",
       "action": "Oblivion lässt die widersprüchlichen Erinnerungen stehen; Selene vermittelt eine begrenzte gemeinsame Handlung.",
-      "turn": "Kaels Amnesie bricht auf; AEGIS bleibt bei seiner Ordnung und kollabiert.",
+      "turn": "Kaels Amnesie bricht auf, Oblivion hört auf zu löschen. AEGIS bleibt bei seiner Ordnung; sein Abwärmebudget ist aufgebraucht (Beat 4, die Landauer-Hitze). Das ist ein Teilkollaps: Erlöschen und plural werden folgen erst in Kap 39 (Schritt 43).",
       "cost": "Kael gewinnt keine Schmerzfreiheit, sondern die Verantwortung für die erhaltene Geschichte.",
       "knowledge": "Er kann Widersprüche tragen, ohne jede Ontologie abschließend zu wissen.",
       "reader": "Change und funktionale Vielheit werden als Verhalten gezeigt, nicht als Heilungsformel.",
