@@ -470,3 +470,13 @@ In the record's terms: the outline writes the ozone as cold in Kap 1 and as the 
 Physikgesetze, Landauer-Prinzip: „Das bewusste Löschen von Informationen (psychologische Verdrängung) generiert immense Hitze“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L176], which splits KW1 as thermische Risse. HC-09 sets Juna's existence as manifest through „Gravitation, thermische Risse, Sehnsucht“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L151].
 
 Stands on the heat side, in an audit dated 2026-03-26; recorded, not applied.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The registry states the Landauer principle as waste heat burning [[risse|Risse]] into the simulation, without a sensory colour.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+P-02 (five stars, `Landauer-Prinzip / Risse`): „Die thermodynamische Regel: Informationslöschung (mentale Verdrängung) erzeugt physikalische Abwärme; psychologische Konflikte brennen Risse in die Simulation.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L92]
+
+It stands as a statement of heat (Abwärme), without saying warmth or cold in the narrative; the record's rows are not changed.
