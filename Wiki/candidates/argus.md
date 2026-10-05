@@ -1,16 +1,20 @@
 ---
 term: Argus
 status: candidate
-sources: 28
-readings: 28
+sources: 29
+readings: 29
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben"]
 gathered: "2026-09-24"
 ---
 
 # Argus
 
 One of the thirteen [[alters|Alters]] — Sonder-Kategorie, „Meta-Kognitiv" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L500].
+
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the border warden at an unstable Threshold Zone in Kap 4–6
+
+For the chapter assessment the report writes, of Kap 4–6 and the plot document's draft (reference 1 follows the sentence), Kael's flight from AEGIS units and „die Konfrontation mit dem Grenzwärter Argus an einer instabilen“ ^[scifi-roman-mit-ki-schreiben.md:L220] Threshold Zone, which it reads as the crossing of the first threshold of a hero's journey. The report's own advice later places `Argus` among threshold figures; Table 3 and Table 4 are the plot document's, reproduced, and name `Argus` in chapter 5 (L259, L278).
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Argus in Appendix B, a Sonderform
 Appendix B sets Argus apart from the ANPs and EPs under `Sonderform`: „Meta-Kognitiv. Somatik: offen.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L658] The arc is towards constructive criticism (L658).
