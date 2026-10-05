@@ -294,3 +294,11 @@ Elsewhere the same four pairs stand under the worlds' own names, „KW1: Logos-P
 „The administration of the Construct City is delegated to the Guardian subsystem designated as LogOS.“ ^[aegis-persona-and-manifest-generation.md:L61] „The administration of the Resonance Landscape is delegated to the Guardian subsystem designated as Mnemosyne.“ ^[aegis-persona-and-manifest-generation.md:L77] „The administration of the Boundary Fortress is delegated to the Guardian subsystem designated as Cerberus.“ ^[aegis-persona-and-manifest-generation.md:L93] „The administration of the Garden of Possibilities is uniquely delegated to a dual-Guardian protocol: Kairos and Sophia.“ ^[aegis-persona-and-manifest-generation.md:L109] The matrix lists „KW4: Garden of Possibilities“ ^[aegis-persona-and-manifest-generation.md:L131] twice, once for each of the two. The manifest names no Erasure-Pol (`Erasure-Pol` ^[aegis-persona-and-manifest-generation.md:#0]).
 
 Stands as the manifest's own pairing, four worlds and five Guardians; recorded, not applied.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon names one erasing pole as a question and pairs no Guardian with a Kern-Welt.**
+
+The Erasure-Pol appears as F3's open question: „Welcher der beiden ist der Lösch-Pol mit dem stärksten Reibungspotenzial?“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L498] (L498), the choice between `Cerberus` and `LogOS`. The Archipel of Mnemosyne is the setting of the climax: „Mnemosyne wird zum Setting für den Klimax.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L494] (L494). The acts are tied to worlds KW1, KW2–3 and KW4 in Appendix A (L596, L604, L612), without Guardian names.
+
+Where it stands in the record's own terms: it does not answer the pairing; it narrows the question to a single erasing pole, which the Kanon leaves open. The count was decided on 2026-09-24, after this document.
