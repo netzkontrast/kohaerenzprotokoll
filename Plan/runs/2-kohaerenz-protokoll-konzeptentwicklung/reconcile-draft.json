@@ -1,0 +1,460 @@
+{
+  "document": "2-kohaerenz-protokoll-konzeptentwicklung",
+  "drive_id": "1nNZkE611B6LzdAe6jilJFqQbDcZUzvWeH2u0MmNb3SE",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 99,
+    "decided_by_lookup": 62,
+    "needs_judgement": 37
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        9,
+        16,
+        37,
+        46,
+        47,
+        186,
+        188,
+        214,
+        270
+      ],
+      "attribution": "",
+      "note": "AEGIS as a controlling system whose core paradox the plan builds chapters on"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        67,
+        69,
+        110
+      ],
+      "attribution": "",
+      "note": "Alex as the protector part, activated by threat, in conflict with Lex"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        131,
+        132,
+        145,
+        243
+      ],
+      "attribution": "",
+      "note": "Argus as a possible meta-observer, paired with Lex"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        110,
+        111,
+        207,
+        265
+      ],
+      "attribution": "",
+      "note": "Cerberus as Guardian of KW3 and the threshold guardian, returning in Chapters 23 and 31"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        16,
+        188
+      ],
+      "attribution": "",
+      "note": "emergence as the outcome of rigid control"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        181
+      ],
+      "attribution": "",
+      "note": "Juna/V as a possible source of entropy or of new order"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        180,
+        314
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as an open question, twice"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        46,
+        47
+      ],
+      "attribution": "",
+      "note": "Genesis as the title of Chapter P"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        109,
+        110
+      ],
+      "attribution": "",
+      "note": "Grenzfeste only in a chapter title, beside KW3 named Cerberus-Labyrinth"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        39,
+        166,
+        167
+      ],
+      "attribution": "",
+      "note": "a plan that makes the Guardians aspects of AEGIS' control philosophy"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        9,
+        38,
+        179,
+        180,
+        221
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external connection and a mystery subplot"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        9,
+        15,
+        30,
+        47,
+        54,
+        228,
+        305
+      ],
+      "attribution": "",
+      "note": "System Kael written female, modelled on TSDP, with an inner journey to integration"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        166,
+        168
+      ],
+      "attribution": "",
+      "note": "Kairos as one of KW4's dual Guardians, Kairos-Potentialis"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        82,
+        89,
+        110,
+        264
+      ],
+      "attribution": "",
+      "note": "Kiko as an emotional part holding fear, named with a question mark"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        60,
+        61,
+        62,
+        68,
+        103,
+        146
+      ],
+      "attribution": "",
+      "note": "Lex as Kael's analytic part: decoding KW1, conflict with Alex, hedged dominance"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        89,
+        257
+      ],
+      "attribution": "",
+      "note": "Lia named only as one of three EPs"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        61,
+        103,
+        242
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of KW1, written with a question mark once"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        82,
+        83,
+        89,
+        158,
+        256
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as AEGIS' agent for emotion analysis in KW2, a possible manipulator of memories"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        82,
+        89,
+        257
+      ],
+      "attribution": "",
+      "note": "Moros as the part tied to grief, first with a question mark"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        15,
+        312,
+        319
+      ],
+      "attribution": "",
+      "note": "multiplicity of consciousness, and functional multiplicity as the planned end state"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        47,
+        48
+      ],
+      "attribution": "",
+      "note": "the origin of AEGIS from the `Nichts Rauschen`"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        110,
+        111,
+        208,
+        250
+      ],
+      "attribution": "",
+      "note": "Nyx as an aggression and fight part, hedged, beside Alex"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        9
+      ],
+      "attribution": "",
+      "note": "one named level, the Fundament as the ultimate level of reality"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        74,
+        76,
+        117,
+        118,
+        257
+      ],
+      "attribution": "",
+      "note": "Rhys as the caring part that mediates between parts"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        37,
+        123
+      ],
+      "attribution": "",
+      "note": "Glitches and Risse as signs of AEGIS's instability"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        118,
+        194,
+        229,
+        230,
+        237
+      ],
+      "attribution": "",
+      "note": "Selene as a possible integrating, coordinating part, always hedged"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        166,
+        168
+      ],
+      "attribution": "",
+      "note": "Sophia as the second dual Guardian of KW4, her function marked with a question mark"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15,
+        36,
+        76,
+        118
+      ],
+      "attribution": "",
+      "note": "TSDP as the psychological core model and the phases of the main subplot"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        144,
+        145
+      ],
+      "attribution": "",
+      "note": "Chapter 14 enters the Überwelt as a meta level"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C3",
+    "C7",
+    "C14",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 56,
+      "decision": "occurrence",
+      "why": "only in Chapter 1's keyword line, `Passive Influence DID/OSDD`; the block says nothing more"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 181,
+      "decision": "reading",
+      "why": "Juna/V as a source of potential entropy or new order; read on entropie"
+    },
+    {
+      "page": "externe-ebene",
+      "surface": "Externe Ebene",
+      "line": 314,
+      "decision": "reading",
+      "why": "one of three guesses at the new reality in Chapter 38, with a question mark; read on externe-ebene"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 44,
+      "decision": "reading",
+      "why": "Chapter P is titled [Genesis], AEGIS's emergence from chaos and fear; read on genesis"
+    },
+    {
+      "page": "grenzfeste",
+      "surface": "Grenzfeste",
+      "line": 107,
+      "decision": "reading",
+      "why": "Chapter 9's title „Die Mauern der Grenzfeste“ beside KW3 `Cerberus-Labyrinth`; read on grenzfeste"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 9,
+      "decision": "reading",
+      "why": "`Juna/V`, the mysterious external connection of the premise; read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 15,
+      "decision": "reading",
+      "why": "the potential multiplicity of consciousness; read on multiplizitaet with L312, L319"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 9,
+      "decision": "reading",
+      "why": "the search for an ultimate level of reality, glossed as the Fundament; read on realitaetsebenen"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

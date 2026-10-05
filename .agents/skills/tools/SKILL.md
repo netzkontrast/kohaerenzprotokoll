@@ -249,7 +249,7 @@ ledger specified in three places whose directory does not exist.
   nothing has been promoted, and there is no rule yet for what happens when a new
   source contradicts a page a person signed off.
 - **Extraction is not yet trained.** `scripts/gold.py` rules
-  97 <!--state:trainset.gold_candidate_lists--> `Plan/runs/<slug>/03-candidates.md`
+  98 <!--state:trainset.gold_candidate_lists--> `Plan/runs/<slug>/03-candidates.md`
   gold — documents 5 to 51, the twelve lists of step 6's sample, written by
   document-readers while reading (2026-09-29; „documents 5 to 14" stood here
   until 2026-09-30), and six more from the gold run of 2026-09-30, steps 1–3

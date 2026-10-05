@@ -153,10 +153,11 @@
         "outline-3",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 89,
-      "readings": 89,
+      "sources": 90,
+      "readings": 90,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -209,10 +210,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 44,
-      "readings": 44,
+      "sources": 45,
+      "readings": 45,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -439,10 +441,11 @@
         "leserzentrierte-roman-outline-generierung-kohaeren",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 44,
-      "readings": 44,
+      "sources": 45,
+      "readings": 45,
       "conflict": "none"
     },
     "ars": {
@@ -573,10 +576,11 @@
         "kontext-outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 40,
-      "readings": 40,
+      "sources": 41,
+      "readings": 41,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -815,10 +819,11 @@
         "outline",
         "roman-entwicklung-kohaerenz-protokoll-json",
         "kontext-outline",
-        "charaktere"
+        "charaktere",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 28,
+      "readings": 28,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -927,10 +932,11 @@
         "roman-entwicklung-kohaerenz-protokoll-json",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 59,
-      "readings": 59,
+      "sources": 60,
+      "readings": 60,
       "conflict": "C2"
     },
     "erason": {
@@ -1012,10 +1018,11 @@
         "outline",
         "roman-entwicklung-kohaerenz-protokoll-json",
         "kontext-outline",
-        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 29,
+      "readings": 29,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -1154,10 +1161,11 @@
         "kontext-outline",
         "outline-2",
         "charaktere",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 57,
-      "readings": 56,
+      "sources": 58,
+      "readings": 57,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -1235,10 +1243,11 @@
         "outline",
         "kontext-outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 20,
-      "readings": 20,
+      "sources": 21,
+      "readings": 21,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -1324,10 +1333,11 @@
         "outline-2",
         "leserzentrierte-roman-outline-generierung-kohaeren",
         "charaktere",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 61,
+      "readings": 61,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -1512,10 +1522,11 @@
         "outline-3",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 76,
-      "readings": 76,
+      "sources": 77,
+      "readings": 77,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1659,10 +1670,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 82,
-      "readings": 82,
+      "sources": 83,
+      "readings": 83,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -1734,10 +1746,11 @@
         "kontext-outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 34,
-      "readings": 34,
+      "sources": 35,
+      "readings": 35,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -1875,10 +1888,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 54,
-      "readings": 54,
+      "sources": 55,
+      "readings": 55,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -2271,10 +2285,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 57,
-      "readings": 57,
+      "sources": 58,
+      "readings": 58,
       "conflict": "none"
     },
     "lia": {
@@ -2331,10 +2346,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 48,
-      "readings": 48,
+      "sources": 49,
+      "readings": 49,
       "conflict": "C15"
     },
     "logos": {
@@ -2388,10 +2404,11 @@
         "kontext-outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 45,
-      "readings": 45,
+      "sources": 46,
+      "readings": 46,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -2471,10 +2488,11 @@
         "kontext-outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 53,
-      "readings": 53,
+      "sources": 54,
+      "readings": 54,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -2643,10 +2661,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 46,
-      "readings": 46,
+      "sources": 47,
+      "readings": 47,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -2751,10 +2770,11 @@
         "kontext-outline",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 61,
-      "readings": 61,
+      "sources": 62,
+      "readings": 62,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -2863,10 +2883,11 @@
         "roman-entwicklung-kohaerenz-protokoll-json",
         "kontext-outline",
         "charaktere",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 49,
-      "readings": 49,
+      "sources": 50,
+      "readings": 50,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -2943,10 +2964,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 55,
-      "readings": 55,
+      "sources": 56,
+      "readings": 56,
       "conflict": "C10"
     },
     "oblivion": {
@@ -3185,10 +3207,11 @@
         "romanprojekt-analyse-kohaerenz-protokoll",
         "kontext-outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-        "charaktere"
+        "charaktere",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "none"
     },
     "residual-echos": {
@@ -3296,10 +3319,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 41,
-      "readings": 41,
+      "sources": 42,
+      "readings": 42,
       "conflict": "none"
     },
     "risse": {
@@ -3375,10 +3399,11 @@
         "roman-entwicklung-kohaerenz-protokoll-json",
         "kontext-outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 65,
-      "readings": 65,
+      "sources": 66,
+      "readings": 66,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -3484,10 +3509,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 49,
-      "readings": 49,
+      "sources": 50,
+      "readings": 50,
       "conflict": "none"
     },
     "silas": {
@@ -3592,10 +3618,11 @@
         "kontext-outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 32,
-      "readings": 32,
+      "sources": 33,
+      "readings": 33,
       "conflict": "C4, C6"
     },
     "system-monitor": {
@@ -3847,10 +3874,11 @@
         "leserzentrierte-roman-outline-generierung-kohaeren",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 56,
-      "readings": 55,
+      "sources": 57,
+      "readings": 56,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -3916,10 +3944,11 @@
         "outline",
         "roman-entwicklung-kohaerenz-protokoll-json",
         "kontext-outline",
-        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "2-kohaerenz-protokoll-konzeptentwicklung"
       ],
-      "sources": 42,
-      "readings": 42,
+      "sources": 43,
+      "readings": 43,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
