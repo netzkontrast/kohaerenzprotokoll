@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 33
-readings: 33
+sources: 34
+readings: 34
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -68,6 +68,10 @@ The Textanalyse, a commentary on one narrative, writes that AEGIS, to control th
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The Überwelt as Part II's dominant domain and AEGIS's administrative heart
 
 The three-part analysis heads Part II „Dominante Domäne: Die Überwelt (AEGIS) & Meta-Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L136] In Kap 14 Kael „erkennt durch die Analyse von Datenströmen in der Überwelt“ ^[romanstruktur-und-philosophische-einleitung.md:L144] In Kap 28 he enters it: „Kael verlässt die bekannten Kernwelten und dringt in die **Überwelt** vor, das administrative Herz von AEGIS.“ ^[romanstruktur-und-philosophische-einleitung.md:L234] and „reine Datenarchitektur ohne skeuomorphe Fassaden“ ^[romanstruktur-und-philosophische-einleitung.md:L234]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a transition zone and glitch landscapes in Kap 13 and 16
+
+The master blueprint sets Kap 13 in „Übergangszone zwischen KW1 und der Überwelt.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L157] and Kap 16 in „Glitch-Landschaften (Zwischenspeicher der Überwelt).“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L184]
 
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the simulation as the world AEGIS keeps flawless and that would die of heat; the word Überwelt never written
 
