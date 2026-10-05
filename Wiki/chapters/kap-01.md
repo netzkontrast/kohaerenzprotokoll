@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -54,6 +54,16 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht eine geringfügige Abweichung von seiner Routine oder äußert einen leicht unkonventionellen Gedanken/Wunsch.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29]
 - Story: „Es erfolgt keine direkte Bestrafung, aber subtile Umgebungshinweise“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29] · „führen Kael sanft zur 'Norm' zurück. Kael könnte diese Ereignisse als bloße Seltsamkeiten abtun.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29]
 - Discussion: „Dieser Subplot führt AEGIS' Kontrolle subtil ein, ohne das System direkt zu offenbaren.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L30]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The deceptive order
+
+Title: „Die trügerische Ordnung“ ^[romanstruktur-und-philosophische-einleitung.md:L37]
+Position: Teil I, „Separation vom Alten“ ^[romanstruktur-und-philosophische-einleitung.md:L37]
+
+- Story: the three-part analysis tells that Kael wakes in the construct city and that this world is a world without disturbance: „Es gibt keinen Staub, keine Gerüche“ ^[romanstruktur-und-philosophische-einleitung.md:L41]
+- Story: it ends in an inciting incident from within: „Eine kryptische, interne Stimme gibt die Anweisung“ ^[romanstruktur-und-philosophische-einleitung.md:L43]
+- Back-reference from Kap 13: Kael sees KW1 „nicht mehr als perfekten Ort (wie in Kap. 1)“ ^[romanstruktur-und-philosophische-einleitung.md:L117]
+- `Kapitel 40/0` returns to this chapter's scene: „Er steht in KW1.“ ^[romanstruktur-und-philosophische-einleitung.md:L306]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
