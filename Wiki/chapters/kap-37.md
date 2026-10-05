@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -47,6 +47,14 @@ Position: Teil III, „Die neue Realität“ ^[romanstruktur-und-philosophische-
 
 - Story: „Kael kehrt in die (nun transformierte) Welt zurück.“ ^[romanstruktur-und-philosophische-einleitung.md:L272]
 - Story: „Die Grenzen zwischen Innen und Außen sind durchlässig geworden.“ ^[romanstruktur-und-philosophische-einleitung.md:L272]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Kollaps des Protokolls
+
+Title: „Der Kollaps des Protokolls“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L354]
+Position: Teil III; setting from the `Schauplatz` field: „Das Fundament“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L356]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS (transformiert)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L357]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS wandelt sich vom Gefängniswärter zum Gärtner der Realität“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L359] and „Das alte Protokoll ist beendet“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L359]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
