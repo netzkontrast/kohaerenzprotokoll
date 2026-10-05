@@ -358,3 +358,11 @@ Studying RIVE's model, Kael finds its limit stated flatly: „Sie hatten keinen 
 **Mutual blindness, Kael and AEGIS each unable to register the other as a subject — and no Guardian named at all.**
 „Sie kommunizieren niemals direkt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L304] „Die Struktur der vollkommenen I/You-Blindheit wurde als unantastbares Fundament der Synthese verriegelt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L304] AEGIS' own side of it: „Umgekehrt registriert AEGIS die Präsenz von Kael nicht als fühlendes Subjekt, sondern rein als algorithmisches Störsignal, als funktionale Entropie und als erratischen Kalorienverbrauch, der zu fatalen Speicherlecks führt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L17]
 `Guardian` and `Wächter` stand 0 times (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). Neither position 1 (AEGIS' blindness alone) nor position 2 (each Guardian's own) as written: the incapacity is named for both AEGIS and Kael, symmetrically, and no Guardian exists in this document to bear one. The conflict stays open.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report
+
+**The Leitfragen report puts the blind spot with the Guardians, whom it calls AEGIS's agents, and asks it of Cerberus, [[kairos|Kairos]] and [[sophia|Sophia]].**
+
+The record's question is whose blind spot it is. The report, reviewing documents it numbers (its sources 31 and 32), writes: „Die Guardians fungieren als die Agenten von AEGIS, als Diagnose-Instanzen, die die Kernwelten regulieren“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]. For LogOS and Mnemosyne the blind spot toward the Partnerin (Juna) is „gegenüber der Partnerin (Juna) tief in ihrer jeweiligen Erkenntnistheorie verwurzelt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]. Leitfrage 5 asks how the blind spots show „von Cerberus, Kairos und Sophia in konkreten Handlungen und Konflikten“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L109]. In these lines the bearers are the Guardians, set under AEGIS as its agents; the report does not set AEGIS's own blindness beside them.
+
+Stands as an account of the first bearer-position, the Guardians', with the Guardians placed as AEGIS's agents; recorded, not applied, and no relation is decided here.
