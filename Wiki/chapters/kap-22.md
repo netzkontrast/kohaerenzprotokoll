@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -64,6 +64,14 @@ Position: Teil II; setting from the `Schauplatz` field: „Die ontologische Gren
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L233]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael erreicht den absoluten Rand der Simulation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235] and „AEGIS hat keinen inhärenten Sinn, es existiert rein apophatisch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das Paradoxon X
+
+Title: „Das Paradoxon X“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L277] — heading „Die Erkenntnis des Fehlers“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L278]
+Position: Teil II; POV from `Perspektive & Stimme`: „Lex (triumphiert) & Argus (beobachtend)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L279]; place from `Ort`: „Der Innere Rat“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L281]
+
+- Story: the matrix plans „AEGIS erzeugt durch seine Kontrollwut erst die Entropie, die es bekämpft“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L283]
+- Question: „Wie besiegt man ein unfehlbares System?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L282]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
