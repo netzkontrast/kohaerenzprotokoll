@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,14 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „um Bedingungen nachzubilden, die mit vergangenen Traumata verbunden sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Alternativ könnte AEGIS einen Guardian wie Mnemosyne verwenden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388] · „(Umkehrung der Effekte aus Kapitel 8)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Kael kämpft darum, seinen integrierten Zustand gegen diesen Ansturm aufrechtzuerhalten.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Crossing the threshold
+
+Title: „Überwindung der Schwelle“ ^[romanstruktur-und-philosophische-einleitung.md:L232]
+Position: Teil III, „Eintritt in den Systemkern“ ^[romanstruktur-und-philosophische-einleitung.md:L232]
+
+- Story: „Kael verlässt die bekannten Kernwelten“ ^[romanstruktur-und-philosophische-einleitung.md:L234]
+- Story: „reine Datenarchitektur ohne skeuomorphe Fassaden“ ^[romanstruktur-und-philosophische-einleitung.md:L234]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
