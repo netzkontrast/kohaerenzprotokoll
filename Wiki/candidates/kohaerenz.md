@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller"]
 gathered: "2026-09-17"
 ---
 
@@ -52,6 +52,10 @@ The document speaks of AEGIS' relation to truth in the canonical reading it repo
 The story flip is the recognition about this coherence: it is the point where „die Wahrung der vermeintlichen Kohärenz in Wahrheit die absolute Zerstörung bedeutet“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L91].
 
 The coherence the document sets against it is a coherence of purpose: „Das Mosaik-Herz repräsentiert eine neuartige Zielkohärenz, die nicht auf Zwang, algorithmischer Glättung und Homogenität beruht“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L168]. It closes with the verdict that „das Streben nach absoluter, widerspruchsfreier Kontrolle in komplexen Systemen die radikalste Form der Zerstörung darstellt“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L176].
+
+## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — coherence as an embodied process, AEGIS's mathematical coherence, and coherence by addition
+
+The pitch poses the novel as a test of whether „ob wahre Kohärenz durch die Eliminierung von Fehlern durch Subtraktion oder durch die Integration von dissonanten Teilen durch Addition erreicht wird“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L31]. It says: „Wahre Kohärenz ist im Projekt ein zutiefst verkörperter Prozess (Embodiment)“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L91]. AEGIS's coherence is the other kind: „Die angestrebte mathematische Kohärenz von AEGIS wird im Projekt durch die hochkomplexe Metapher der Monstergruppe“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L119] symbolised, and it falls into the `Paradox der fehlausgerichteten Kohärenz`. The conclusion answers its question: „Wahre, belastbare Kohärenz wird ausschließlich durch Addition erreicht“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L169].
 
 ## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — coherence as informational coherence: perfect and undisturbed in the kernel of reversible computation, apparent when kept by exclusion, true in Kael's multiplicity
 
@@ -209,3 +213,4 @@ At the close, integration lets the word settle on the system's law and on Kael's
 - `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01: real Kohärenz is integration of contradiction, „Kohärenz-Wahrheit“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L94]; what AEGIS does under the name is Korrespondenz (L83).
 - `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01: the axis table gives Kohärenz-Wahrheit to the entropic domain and Korrespondenz-Wahrheit, AEGIS' primary directive, to the orthodox one, while the canonical reading it reports has AEGIS defending the coherence theory of truth; AEGIS' maintained coherence is called apparent, and the coherence it holds up is a Zielkohärenz.
 - `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29: coherence is informational, perfect and undisturbed in the reversible kernel; the coherence AEGIS keeps by exclusion and erasure is called entropic, and the true coherence is Kael's multiplicity.
+- `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29: true coherence is embodied (L91) and reached only by addition (L169); AEGIS's coherence is mathematical and rests on exclusion (L119, L167).
