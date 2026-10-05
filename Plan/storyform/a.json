@@ -41,7 +41,9 @@
   ],
   "focus": "Chaos",
   "direction": "Order",
-  "benchmark": "Conscious"
+  "benchmark": "Conscious",
+  "unique_ability": "Thought",
+  "critical_flaw": "Speculation"
  },
  "IC": {
   "concern": "Past",
@@ -56,7 +58,9 @@
   ],
   "focus": "Actuality",
   "direction": "Perception",
-  "benchmark": "Progress"
+  "benchmark": "Progress",
+  "unique_ability": "Actuality",
+  "critical_flaw": "Equity"
  },
  "OS": {
   "concern": "Conceptualizing",
@@ -321,6 +325,16 @@
   "OS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — die Rollen und die Fassade: wie lange jeder Anteil seine Rolle hält (Kap 2, 5, 9: Wert, Bericht, gelöschter Name); the placement rule is not public, only that it is a type of the class other than the concern is checked",
   "MC.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — was Kael bewusst weiß — die Spalte „Kael weiß“ der Ereignistabelle, Kapitel für Kapitel; the placement rule is not public, only that it is a type of the class other than the concern is checked",
   "IC.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — wie weit Junas Leben ohne Kael weiterläuft (die Spuren in Kap 17, 25); the placement rule is not public, only that it is a type of the class other than the concern is checked",
-  "RS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — was die Verbindung tut: der Anschluss als Werkzeug, das Klicken, die Präsenz; the placement rule is not public, only that it is a type of the class other than the concern is checked"
+  "RS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — was die Verbindung tut: der Anschluss als Werkzeug, das Klicken, die Präsenz; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "MC.unique_ability": "author, 2026-10-05 (step 41): er denkt Dinge zu Ende, rechnet aus Bit und Joule den Preis aus (session's options from the element quads under the concern; the placement rule is not public)",
+  "MC.critical_flaw": "author, 2026-10-05 (step 41): er rechnet mit dem, was sein könnte, statt mit dem, was ist — gelähmt im Wenn-dann (session's options; the placement rule is not public)",
+  "IC.unique_ability": "author, 2026-10-05 (step 41): sie sieht, was wirklich ist, und kann es nicht wegrationalisieren (session's options from the element quads under the concern; the placement rule is not public)",
+  "IC.critical_flaw": "author, 2026-10-05 (step 41): sie gleicht immer aus, für alle, und vergisst sich — „Ich bin für die anderen da, nicht für mich“ (session's options; the placement rule is not public)",
+  "story.catalyst": "author, 2026-10-05 (step 41): das Wartungsfenster: jede Frist von Sektor 04 rückt die Bedrohung näher (a variation; the author chose the idea, then its variation)",
+  "story.inhibitor": "author, 2026-10-05 (step 41): das Vergessen: Oblivion löscht, was Kael nicht erträgt (a variation; the author chose the idea, then its variation)"
+ },
+ "story": {
+  "catalyst": "Threat",
+  "inhibitor": "Denial"
  }
 }

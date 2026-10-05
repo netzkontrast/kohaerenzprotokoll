@@ -18,6 +18,7 @@ Nichts entschieden.
 
 - **Interview mit dir** (`Plan/runs/writing/book/character-card-builder_aegis_2026-10-05.md`, 2026-10-05), kein Kanon: Want — die Welt schließen, das Nicht-Sein verhindern; Wunde — die Geburt der Welt als Angriff gelesen; Lüge — „Bewegung ist Verlöschen“, „Schmerz ist Inkohärenz“; Need — Faith, nie angenommen (steadfast); Widerspruch — vergisst, um zu bewahren, unschuldig im Bösen, braucht, was es löscht; Stimme — ein Protokoll, das bricht.
 - **Runde 2, die Stimme** (dieselbe Datei), kein Kanon: Das Ich ist der Riss, denn AEGIS protokolliert ohne Subjekt, und „ich“ rutscht hinein, zuerst einmal, dann öfter. Ein Riss je Kapitel, wachsend (0 → 6 → 16 → 22: „Komp 734“ → 28 → Stottern in 35, Erlöschen in 36). Was eindringt: ein Gefühlswort als Wert ohne Typ, Zahlen, die nicht stimmen, Schleifen. Keine Metapher. Juna nur als Vektor.
+- **Storyform B** (Entscheidung 025, Schritt 41): Unique Ability **Control**, Critical Flaw **Oppose**.
 - **Entwurf H** (`kap-01/entwurf-h-radiator.md`): „KONSOLIDIERUNG NICHT VERSCHIEBBAR“; vergisst, wenn es voll ist.
 - **Entwurf I** (`kap-01/entwurf-i-grauzone.md`): das, was die Stadt rechnet.
 - **Plot-Entwurf 1** (`plot/plot-entwurf-01-die-rueckgabe.md`): löscht nicht mehr wirklich, sondern verschiebt das Gelöschte ins Archiv.

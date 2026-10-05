@@ -67,6 +67,7 @@ def leaves(sf):
     for t in TL:
         out.update({f"{t}.{k}": v for k, v in sf[t].items()})
     out.update({f"plot.{k}": v for k, v in sf["plot"].items()})
+    out.update({f"story.{k}": v for k, v in sf.get("story", {}).items()})
     out.update({k: sf[k] for k in ("logline", "genre") if sf.get(k)})
     return out
 
@@ -103,6 +104,15 @@ def audit(sf):
         b = sf[t].get("benchmark")
         if b is not None and (b not in dramatica.type_quad(sf["classes"][t]) or b == sf[t]["concern"]):
             errors.append(f"{t}.benchmark {b!r} is not a type of {sf['classes'][t]} other than the concern (step 40)")
+    for t in ("MC", "IC"):
+        for key in ("unique_ability", "critical_flaw"):
+            e = sf[t].get(key)
+            # every element sits in every class, so "an element" is all the chart can check
+            if e is not None and not any(w.startswith("element") for w in dramatica.where(e)):
+                errors.append(f"{t}.{key} {e!r} is not an element (step 41)")
+    for key, v in sf.get("story", {}).items():
+        if not any(w.startswith("variation") for w in dramatica.where(v)):
+            errors.append(f"story.{key} {v!r} is not a variation (step 41)")
     have, prov = leaves(sf), sf.get("provenance", {})
     errors += [f"no provenance for {p}" for p in have if p not in prov]
     errors += [f"provenance for {p}, which states no value" for p in prov if p not in have]
@@ -145,7 +155,8 @@ def ncp(sf, weave=None, kanon=None):
         s, why = sf[t], tx["why"][t]
         sp(f"{TL[t]} Domain", sf["classes"][t], t, tx["perspectives"][t][2], why)
         for key, part in (("concern", "Concern"), ("issue", "Issue"), ("problem", "Problem"), ("solution", "Solution"),
-                          ("focus", "Symptom"), ("direction", "Response"), ("benchmark", "Benchmark")):
+                          ("focus", "Symptom"), ("direction", "Response"), ("benchmark", "Benchmark"),
+                          ("unique_ability", "Unique Ability"), ("critical_flaw", "Critical Flaw")):
             if key in s:
                 story = f"{why} Herkunft: {prov[f'{t}.{key}']}."
                 if key == "issue":
@@ -164,6 +175,9 @@ def ncp(sf, weave=None, kanon=None):
                 story += (" Stop-Story: die Folgen laufen schon." if sf["dynamics"]["main_character_growth"] == "stop"
                           else " Start-Story: die Folgen drohen nur.")
             sp(appr, plot[key], None, il.get("Story Goal") if key == "goal" else tx["plot"].get(key, ""), story)
+    for key, appr in (("catalyst", "Objective Story Catalyst"), ("inhibitor", "Objective Story Inhibitor")):
+        if key in sf.get("story", {}):     # the NCP profile files them under the objective story
+            sp(appr, sf["story"][key], "OS", tx["plot"].get(key, appr), f"Herkunft: {prov[f'story.{key}']}.")
     beats = []
     for t in TL:
         for i, typ in enumerate(sf[t].get("signposts", []), 1):
@@ -234,7 +248,13 @@ def overview(forms):
                      f"{s.get('benchmark', '—')} | "
                      f"{' → '.join(s.get('signposts', [])) or '—'} |")
         plot = {"goal": sf["OS"]["concern"], **sf["plot"]}
-        L += ["", "Plot: " + " · ".join(f"{k} **{v}**" for k, v in plot.items()), "",
+        L += ["", "Plot: " + " · ".join(f"{k} **{v}**" for k, v in plot.items()), ""]
+        L += ["Unique Ability / Critical Flaw: " + " · ".join(f"{t} **{sf[t]['unique_ability']}** / **{sf[t]['critical_flaw']}**"
+                                                          for t in ("MC", "IC") if "unique_ability" in sf[t]), ""] \
+            if any("unique_ability" in sf[t] for t in ("MC", "IC")) else []
+        L += ["Catalyst / Inhibitor: " + " / ".join(f"**{sf['story'][k]}**" for k in ("catalyst", "inhibitor")
+                                                    if k in sf["story"]), ""] if sf.get("story") else []
+        L += [
               "Besetzung: " + "; ".join(f"{p['name']} — {p['role']}" + (f" ({', '.join(p['os_elements'])})" if p["os_elements"] else "")
                                        for p in sf["players"]),
               "", "Offen: " + ("; ".join(sf["open"]) or "—")]
@@ -643,6 +663,14 @@ def selftest():
     off["MC"]["benchmark"] = "Past"                          # a type of another class
     if not any("benchmark" in e for e in audit(off)[0]):
         fails.append("a benchmark outside its class was accepted")
+    off = json.loads(json.dumps(good))
+    off["MC"]["unique_ability"] = "Threat"                  # a variation, not an element
+    if not any("unique_ability" in e for e in audit(off)[0]):
+        fails.append("a variation accepted as unique ability")
+    off = json.loads(json.dumps(good))
+    off.setdefault("story", {})["catalyst"] = "Faith"      # an element, not a variation
+    if not any("story.catalyst" in e for e in audit(off)[0]):
+        fails.append("an element accepted as catalyst")
     drift = json.loads(json.dumps(good))
     drift["MC"].update({"issue": "Truth"})                  # still legal by the chart? no — Inertia is under Suspicion
     if not audit(drift)[0] and not audit(drift)[1]:

@@ -36,6 +36,10 @@
 
 Plot: goal **Conceptualizing** · requirements **Learning** · consequence **Past** · forewarnings **Preconscious** · costs **Being** · dividends **Becoming** · prerequisites **Memory** · preconditions **Present**
 
+Unique Ability / Critical Flaw: MC **Thought** / **Speculation** · IC **Actuality** / **Equity**
+
+Catalyst / Inhibitor: **Threat** / **Denial**
+
 Besetzung: Kael — Main Character (Inertia); Juna — Influence Character (Change); Selene (Alter) — Protagonist (Pursuit, Consideration); Oblivion (Alter) — Antagonist (Avoid, Reconsideration); Lex (Alter) — Reason (Control, Logic); Nyx (Alter) — Emotion (Uncontrolled, Feeling); Mara — Guardian-Archetyp (Help, Conscience); Dorn — Contagonist (Hinder, Temptation); Die alte Frau von der Bank — Sidekick (Support, Faith); Die Kollegin an der Konsole — Skeptic (Oppose, Disbelief)
 
 Offen: —
@@ -56,6 +60,10 @@ Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 | RS | Psychology | Becoming | Rationalization | Feeling → Logic | Hinder → Help | Conceiving | Being → Conceiving → Conceptualizing → Becoming |
 
 Plot: goal **Obtaining** · requirements **Doing** · consequence **Becoming** · forewarnings **Progress** · costs **Memory** · dividends **Understanding** · prerequisites **Past** · preconditions **Conceiving**
+
+Unique Ability / Critical Flaw: MC **Control** / **Oppose** · IC **Faith** / **Temptation**
+
+Catalyst / Inhibitor: **Evidence** / **Security**
 
 Besetzung: AEGIS — Main Character, Protagonist, Reason (Pursuit, Consideration, Control, Logic); Kael — Influence Character, Antagonist, Emotion (Avoid, Reconsideration, Uncontrolled, Feeling); Mnemosyne (Guardian) — Contagonist (Hinder, Temptation); Sophia (Guardian) — Guardian-Archetyp (Help, Conscience); LogOS (Guardian) — Sidekick (Support, Faith); Kairos (Guardian) — Skeptic (Oppose, Disbelief); Cerberus (Guardian) — no archetype — border and tool
 
