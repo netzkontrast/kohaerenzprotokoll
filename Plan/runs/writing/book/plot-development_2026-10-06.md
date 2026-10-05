@@ -135,6 +135,11 @@ Nachweis einer individuellen Gedächtnislücke. Befund und Lesart unterscheiden 
 
 ## Nächste Arbeit
 
-Den Unterschied der drei Löschziele klären, dann Kap 1–13 mit Fristfolgen als Treatment ausführen. Danach Bergung,
-Abwehr und Filterung von Kap 19/20/24 konkretisieren. Ideen können ersetzt werden, ohne Storyform-Werte zu ändern.
-Nur eine ausdrückliche neue Entscheidung schreibt Kanon oder Struktur um.
+Der [Vergleich der Löschziele und der 06:10-Folgen](scene-architecture_loeschziele_2026-10-06.md) liegt als
+Entscheidungsvorlage vor (PR #171). Empfehlung: verschiedene, nachweisbar verknüpfte Posten; um 06:10 eine
+offizielle Zuordnungsprüfung mit sofortigem Rollenverlust für Kael. Die Alternativen bleiben offen. Die Verknüpfung
+entscheidet weder Q7 noch „Kael ist Komponente 734“. Nach deiner Wahl den Nachweis in Kap 12, den noch wirksamen
+Bestätigungsschritt in Kap 13 und den festen Termin bestimmen; dann `development.json` und NCP aktualisieren
+und Kap 1–13 als Treatment ausführen. Danach Bergung, Abwehr und Filterung von Kap 19/20/24 konkretisieren.
+Ideen können ersetzt werden, ohne Storyform-Werte zu ändern. Nur eine ausdrückliche neue Entscheidung schreibt
+Kanon oder Struktur um.
