@@ -50,7 +50,10 @@ def stands(doc: Document, name: str) -> bool:
 # the quoted line rather than in the line itself: outlines write `### Chapter 8: …` and the fields beneath.
 # The model is not believed about which heading that is: code walks up from the placed line to the
 # nearest heading and asks whether it names the row's chapter, so a field cannot be moved to a neighbour.
-HEADING = re.compile(r"^\s*(#{1,6}\s|\*\*[^*].*\*\*\s*$)")
+# A heading is a markdown heading, a line in bold alone, or a short line that opens with a chapter label —
+# `Kap 38:` with its beats listed beneath (koharenz-protokoll-konzept-konsolidiert, 2026-10-05: 41 cards
+# refused before this third form was a heading). A list item is never a heading.
+HEADING = re.compile(r"^\s*(#{1,6}\s|\*\*[^*].*\*\*\s*$|(?:Kap(?:itel)?\.?|Chapter)\s*\d+\b.{0,80}$)")
 
 
 def heading_scoped(template: Path) -> bool:
@@ -303,6 +306,12 @@ def selftest() -> int:
         checks.append(("a field under its chapter's heading is placed", verify(odoc, scoped, oenv({"items": [card]}))["candidates"] == 1))
         checks.append(("a field moved to the next chapter is refused", verify(odoc, scoped, oenv({"items": [{**card, "source": "Kapitel 3"}]}))["refused"] == 1))
         checks.append(("Kapitel 2 does not match a heading for Kapitel 23", not names_chapter("### Kapitel 23: X", "Kapitel 2")))
+        plain = "Kap 38:\n\n* Beat 1: das Rauschen kommt.\n* Beat 2: Alpha geht.\nKap 39:\n* Beat 1: Beta bleibt.\n"
+        ptext = p / "plain.md"; ptext.write_text("---\ntitle: Plain\n---\n" + plain, encoding="utf-8")
+        pdoc = Document("plain", "plain", "2026-10-05", "md", "", ptext, plain, 4)
+        checks.append(("a plain `Kap 38:` line heads its beats", under_heading(pdoc, 7, "Kap 38")))
+        checks.append(("a beat is not moved to the next plain heading", not under_heading(pdoc, 7, "Kap 39")))
+        checks.append(("a list item naming a chapter is not a heading", not HEADING.match("* Beat 1: Kap 39 beginnt")))
         checks.append(("an unscoped contract keeps its old rule", verify(odoc, template, oenv({"items": [{**card, "source": "Kapitel 3"}]}, template))["candidates"] == 1))
         source.write_text(source.read_text() + "Alpha steuert Beta.\n", encoding="utf-8")
         doc = Document("fixture", "fixture", "2026-09-30", "md", "", source,
