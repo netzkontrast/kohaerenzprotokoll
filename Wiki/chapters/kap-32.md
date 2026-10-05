@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,14 @@ Position: Teil III, „Dialog mit AEGIS“ ^[romanstruktur-und-philosophische-ei
 
 - Story: „Es kommt nicht zum physischen Kampf, sondern zum Diskurs.“ ^[romanstruktur-und-philosophische-einleitung.md:L250]
 - Story: „AEGIS’ Versuch, das Leben zu schützen, erstickt es.“ ^[romanstruktur-und-philosophische-einleitung.md:L250]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Spiegelkabinett der Identitäten
+
+Title: „Spiegelkabinett der Identitäten“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L314]
+Position: Teil III; setting from the `Schauplatz` field: „Der Vorhof von AEGIS' Bewusstsein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L316]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, alle Alters“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L317]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS nutzt eine letzte Waffe“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L319] and „Die Alters drohen sich gegenseitig zu bekämpfen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L319]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
