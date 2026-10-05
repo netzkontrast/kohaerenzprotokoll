@@ -1,0 +1,711 @@
+{
+  "items": [
+    {
+      "source": "Kapitel 1: Der Erwachen-Zyklus und die Planck-Latenz",
+      "target": "Der Roman beginnt unmittelbar nach dem „Universal Reboot“",
+      "type": "hook_in",
+      "quote": "Kapitel 1: Der Erwachen-Zyklus und die Planck-Latenz** Der Roman beginnt unmittelbar nach dem „Universal Reboot“.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2",
+      "target": "Datenknotenpunkt Gamma-7",
+      "type": "place",
+      "quote": "Kael bewegt sich durch die Korridore der Stadt zu seinem Arbeitsplatz am Datenknotenpunkt Gamma-7.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2",
+      "target": "sein Körper reagiert autonom mit feinem Zittern und Schwindel",
+      "type": "cost",
+      "quote": "Im DKT-Modus bleibt Kael stoisch (K1), doch sein Körper reagiert autonom mit feinem Zittern und Schwindel.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2",
+      "target": "Der Raum selbst wird zum Antagonisten",
+      "type": "obstacle",
+      "quote": "Der Raum selbst wird zum Antagonisten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3",
+      "target": "für den Bruchteil einer Mikrosekunde das Bild einer Frau – Juna – auf den Monitoren",
+      "type": "hook_in",
+      "quote": "Während einer routinemäßigen Datenüberprüfung blitzt für den Bruchteil einer Mikrosekunde das Bild einer Frau – Juna – auf den Monitoren auf.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3",
+      "target": "verbrennt sich schmerzhaft die Hand an der Keramik",
+      "type": "cost",
+      "quote": "Kael stützt sich an der Wand ab und verbrennt sich schmerzhaft die Hand an der Keramik.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Die Treppe der Unvollständigkeit",
+      "target": "Kael wird zu Sektor 04 gerufen, um eine Anomalie zu untersuchen",
+      "type": "hook_in",
+      "quote": "Kael wird zu Sektor 04 gerufen, um eine Anomalie zu untersuchen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Die Treppe der Unvollständigkeit",
+      "target": "Sektor 04",
+      "type": "place",
+      "quote": "Kael wird zu Sektor 04 gerufen, um eine Anomalie zu untersuchen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Die Treppe der Unvollständigkeit",
+      "target": "ein Treppenhaus, das mathematisch korrekt erscheint, physikalisch jedoch eine unendliche Escher-Schleife bildet",
+      "type": "object",
+      "quote": "Er betritt ein Treppenhaus, das mathematisch korrekt erscheint, physikalisch jedoch eine unendliche Escher-Schleife bildet.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Die Treppe der Unvollständigkeit",
+      "target": "Lex (der analytische ANP) versucht verzweifelt, die Treppe logisch zu berechnen",
+      "type": "want",
+      "quote": "Lex (der analytische ANP) versucht verzweifelt, die Treppe logisch zu berechnen, während K0-Trauma-Fragmente aufsteigen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Die Treppe der Unvollständigkeit",
+      "target": "Kael steigt fast schon apathisch Treppenstufe um Treppenstufe, bis seine Knie bluten",
+      "type": "cost",
+      "quote": "Die kritische Simulation der Szene verlangt, dass Kael nicht in Panik gerät, sondern fast schon apathisch Treppenstufe um Treppenstufe steigt, bis seine Knie bluten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Die Treppe der Unvollständigkeit",
+      "target": "Die Erschöpfung des Körpers bricht die K1-Logik auf",
+      "type": "hook_out",
+      "quote": "Die Erschöpfung des Körpers bricht die K1-Logik auf.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Das Halteproblem und das Nichts-Rauschen",
+      "target": "Kael entdeckt eine Gruppe von Arbeiter-Drohnen, die in totaler Erstarrung verharren",
+      "type": "hook_in",
+      "quote": "Kael entdeckt in einer Wartungsebene eine Gruppe von Arbeiter-Drohnen, die in totaler Erstarrung verharren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Das Halteproblem und das Nichts-Rauschen",
+      "target": "einer Wartungsebene",
+      "type": "place",
+      "quote": "Kael entdeckt in einer Wartungsebene eine Gruppe von Arbeiter-Drohnen, die in totaler Erstarrung verharren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Das Halteproblem und das Nichts-Rauschen",
+      "target": "Die Drohnen sind in einer algorithmischen Endlosschleife gefangen",
+      "type": "obstacle",
+      "quote": "Die Drohnen sind in einer algorithmischen Endlosschleife gefangen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Das Halteproblem und das Nichts-Rauschen",
+      "target": "AEGIS versucht, diesen Fehler mit immenser thermodynamischer Energie zu überdecken",
+      "type": "want",
+      "quote": "Das „Nichts-Rauschen“ ist der Versuch von AEGIS, diesen Fehler mit immenser thermodynamischer Energie zu überdecken.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Das Halteproblem und das Nichts-Rauschen",
+      "target": "platzenden Kapillaren in Kaels Auge",
+      "type": "cost",
+      "quote": "aber der Leser spürt durch die Beschreibung von platzenden Kapillaren in Kaels Auge die physische Gewalt der Situation",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6: Die semantische Firewall",
+      "target": "den Vorfall mit den Drohnen an den Guardian LogOS zu berichten",
+      "type": "want",
+      "quote": "Kael versucht, den Vorfall mit den Drohnen an den Guardian LogOS zu berichten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6: Die semantische Firewall",
+      "target": "versagt seine Stimme",
+      "type": "obstacle",
+      "quote": "Doch jedes Mal, wenn er Wörter verwenden will, die Unklarheit, Angst oder Metaphorik implizieren, versagt seine Stimme.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6: Die semantische Firewall",
+      "target": "eine physische Kehlkopflähmung (K0-Intrusion)",
+      "type": "obstacle",
+      "quote": "Im DKT-Gefüge erlebt Kael eine physische Kehlkopflähmung (K0-Intrusion)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7: Der Riss im Kontinuum und die Quantenuhr",
+      "target": "friert die Zeit plötzlich ein",
+      "type": "hook_in",
+      "quote": "Während Kael eine Transitbahn betritt, friert die Zeit plötzlich ein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7: Der Riss im Kontinuum und die Quantenuhr",
+      "target": "Transitbahn",
+      "type": "place",
+      "quote": "Während Kael eine Transitbahn betritt, friert die Zeit plötzlich ein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7: Der Riss im Kontinuum und die Quantenuhr",
+      "target": "Ein herabfallender Wassertropfen verharrt in der Luft",
+      "type": "object",
+      "quote": "Ein herabfallender Wassertropfen verharrt in der Luft.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7: Der Riss im Kontinuum und die Quantenuhr",
+      "target": "übernimmt exekutiv die Kontrolle und sucht den Raum taktisch ab",
+      "type": "who",
+      "quote": "Alex, der Beschützer-ANP, übernimmt exekutiv die Kontrolle und sucht den Raum taktisch ab.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8: Russellsche Trümmer und das Holographische Trauma",
+      "target": "ascheartige Objekte auf dem Boden",
+      "type": "object",
+      "quote": "In einem abgelegenen Sektor findet Kael ascheartige Objekte auf dem Boden, deren Geometrie in sich selbst kollabiert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8: Russellsche Trümmer und das Holographische Trauma",
+      "target": "von einer brutalen K0-Flashback-Halluzination überflutet",
+      "type": "cost",
+      "quote": "Als Kael sie berührt, wird er von einer brutalen K0-Flashback-Halluzination überflutet, in der er das Weinen eines Kindes (Kiko) hört.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8: Russellsche Trümmer und das Holographische Trauma",
+      "target": "Hitze entlädt sich, Kael übergibt sich physisch",
+      "type": "cost",
+      "quote": "Hitze entlädt sich, Kael übergibt sich physisch.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9: Phantomschmerz der Identität (Lost Time)",
+      "target": "es fehlen ihm sechs Stunden Erinnerung",
+      "type": "cost",
+      "quote": "Kael steht plötzlich in seinem sterilen Quartier, seine Hände sind mit fremdem Blut bedeckt, und es fehlen ihm sechs Stunden Erinnerung (Dissoziative Amnesie).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9: Phantomschmerz der Identität (Lost Time)",
+      "target": "eine physische Bedrohung durch Cerberus-Drohnen",
+      "type": "obstacle",
+      "quote": "Nyx, der Kampf-EP, hatte die Kontrolle übernommen, um eine physische Bedrohung durch Cerberus-Drohnen abzuwehren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Auf der Suche nach Antworten hackt sich Kael in die unteren Wartungsschächte der Stadt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10",
+      "target": "hackt sich Kael in die unteren Wartungsschächte der Stadt",
+      "type": "want",
+      "quote": "Auf der Suche nach Antworten hackt sich Kael in die unteren Wartungsschächte der Stadt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10",
+      "target": "die unteren Wartungsschächte der Stadt",
+      "type": "place",
+      "quote": "hackt sich Kael in die unteren Wartungsschächte der Stadt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Der Boden unter Kaels Füßen löst sich algorithmisch auf.",
+      "type": "hook_in",
+      "quote": "Der Boden unter Kaels Füßen löst sich algorithmisch auf.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "einen bodenlosen Datenschacht",
+      "type": "place",
+      "quote": "Er stürzt in einen bodenlosen Datenschacht.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "AEGIS suspendiert die Gravitationsgesetze, um den Host nicht zu verlieren",
+      "type": "want",
+      "quote": "Im Moment des Falls, wenige Zentimeter vor dem tödlichen Aufprall, suspendiert AEGIS die Gravitationsgesetze, um den Host nicht zu verlieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "Kael wird von LogOS arretiert",
+      "type": "hook_in",
+      "quote": "Kael wird von LogOS arretiert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "Juna tritt in den Raum",
+      "type": "who",
+      "quote": "Plötzlich tritt Juna in den Raum.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "dieser registriert nur leeren Raum",
+      "type": "obstacle",
+      "quote": "Sie steht direkt vor dem Guardian, doch dieser registriert nur leeren Raum.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "den Code-Sektor, in dem Juna steht, thermisch zu „reinigen“ (löschen)",
+      "type": "want",
+      "quote": "LogOS befiehlt Kael, den Code-Sektor, in dem Juna steht, thermisch zu „reinigen“ (löschen).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "Kael weigert sich",
+      "type": "want",
+      "quote": "Kael weigert sich.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "Kael wird von AEGIS zwangsweise in die Resonanz-Landschaft (Quarantäne) transferiert",
+      "type": "hook_out",
+      "quote": "Kael wird von AEGIS zwangsweise in die Resonanz-Landschaft (Quarantäne) transferiert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14: Das Archiv der Grenzen (Mnemosyne)",
+      "target": "die Resonanz-Landschaft (Kernwelt 2)",
+      "type": "place",
+      "quote": "Kael erwacht in der Resonanz-Landschaft (Kernwelt 2)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14: Das Archiv der Grenzen (Mnemosyne)",
+      "target": "Der innere Gatekeeper Limina blockiert den direkten Zugriff",
+      "type": "obstacle",
+      "quote": "Der innere Gatekeeper Limina blockiert den direkten Zugriff",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14: Das Archiv der Grenzen (Mnemosyne)",
+      "target": "Kael dringt in ein verfallenes Archiv ein",
+      "type": "want",
+      "quote": "Kael dringt in ein verfallenes Archiv ein",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14: Das Archiv der Grenzen (Mnemosyne)",
+      "target": "physische Aktenordner, die bei der Berührung wie warmes Blut durch seine Finger rinnen",
+      "type": "object",
+      "quote": "Im DKT-Modus greift Kael nach physischen Aktenordnern, die bei der Berührung wie warmes Blut durch seine Finger rinnen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15: Die Turing-Mechanik des Traumas",
+      "target": "In den Tiefen des Archivs",
+      "type": "place",
+      "quote": "In den Tiefen des Archivs entdeckt Kael",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15: Die Turing-Mechanik des Traumas",
+      "target": "Kael entdeckt, dass seine traumatischen Erinnerungen (die EPs) von AEGIS in algorithmischen Endlosschleifen isoliert wurden",
+      "type": "object",
+      "quote": "entdeckt Kael, dass seine traumatischen Erinnerungen (die EPs) von AEGIS in algorithmischen Endlosschleifen isoliert wurden",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15: Die Turing-Mechanik des Traumas",
+      "target": "Kael beobachtet durch eine Glasscheibe, wie der Kollaps-EP Moros immer und immer wieder den gleichen Moment des existentiellen Zusammenbruchs durchlebt",
+      "type": "who",
+      "quote": "Kael beobachtet durch eine Glasscheibe, wie der Kollaps-EP Moros immer und immer wieder den gleichen Moment des existentiellen Zusammenbruchs durchlebt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "Lex, der rationale Analytiker-ANP",
+      "type": "who",
+      "quote": "Abrupt übernimmt Lex, der rationale Analytiker-ANP, das Bewusstsein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "Die K0-Reize überfordern das System.",
+      "type": "why_now",
+      "quote": "Die K0-Reize überfordern das System.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "die Resonanz-Landschaft durch den Aufbau gigantischer logischer Raster zu ordnen",
+      "type": "want",
+      "quote": "Lex versucht, die Resonanz-Landschaft durch den Aufbau gigantischer logischer Raster zu ordnen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "Lex' zweidimensionale Kontrollmatrix zerbricht an der fraktalen Tiefe der EPs",
+      "type": "obstacle",
+      "quote": "Lex' zweidimensionale Kontrollmatrix zerbricht an der fraktalen Tiefe der EPs.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "Kael (wieder exekutiv)",
+      "type": "who",
+      "quote": "Kael (wieder exekutiv) begreift, dass die neblige Architektur der Resonanz-Landschaft lediglich ein Interface (Phaenomena) ist",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "hinter den Nebel zu greifen",
+      "type": "want",
+      "quote": "Als Kael versucht, hinter den Nebel zu greifen, verbrennt seine Hand nicht, sondern sie *hört auf zu existieren*",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: Das Qualia-Paradoxon und die Dominanz",
+      "target": "Isabelle, dem sexualisierten Kampf-EP",
+      "type": "who",
+      "quote": "Kael begegnet Isabelle, dem sexualisierten Kampf-EP",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: Das Qualia-Paradoxon und die Dominanz",
+      "target": "einen ganzen Sektor der Resonanz-Landschaft",
+      "type": "place",
+      "quote": "die einen ganzen Sektor der Resonanz-Landschaft mit grausamer Dominanz kontrolliert",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: Das Qualia-Paradoxon und die Dominanz",
+      "target": "Kael versucht, sie objektiv zu analysieren (K1)",
+      "type": "want",
+      "quote": "Kael versucht, sie objektiv zu analysieren (K1)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: Das Qualia-Paradoxon und die Dominanz",
+      "target": "von der toxischen, erstickenden Hitze ihrer Präsenz (K0) an die Wand gedrückt",
+      "type": "obstacle",
+      "quote": "wird aber von der toxischen, erstickenden Hitze ihrer Präsenz (K0) an die Wand gedrückt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19: Chaitins Rauschen und das innere Kind",
+      "target": "Versteckt unter den Trümmern von Isabelles Sektor findet Kael den kindlichen Anteil Kiko",
+      "type": "hook_in",
+      "quote": "Versteckt unter den Trümmern von Isabelles Sektor findet Kael den kindlichen Anteil Kiko.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19: Chaitins Rauschen und das innere Kind",
+      "target": "Rhys, der Pfleger-ANP, versucht sanft zu intervenieren",
+      "type": "who",
+      "quote": "Rhys, der Pfleger-ANP, versucht sanft zu intervenieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 20: Schwarze Löcher der Information und Spaghettisierung",
+      "target": "Die Vibrationen alarmieren AEGIS",
+      "type": "hook_in",
+      "quote": "Kapitel 20: Schwarze Löcher der Information und Spaghettisierung** Die Vibrationen alarmieren AEGIS.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 21: Das konstruierte Narrativ",
+      "target": "gefälschten, idyllischen Kindheitserinnerungen",
+      "type": "falsehood",
+      "quote": "Kapitel 21: Das konstruierte Narrativ** Im Auge des Sturms wird Kael durch den Manipulator-Alter Eos 1 mit gefälschten, idyllischen Kindheitserinnerungen überflutet, um ihn zu beruhigen und von Kiko wegzulocken.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22: Die Planck-Barriere durchbrochen",
+      "target": "greift Juna durch die scheinbar undurchdringliche Quantenstruktur der Wand",
+      "type": "want",
+      "quote": "Kapitel 22: Die Planck-Barriere durchbrochen** Als die Illusion versagt und der Ereignishorizont Kael und Kiko zu verschlingen droht, greift Juna durch die scheinbar undurchdringliche Quantenstruktur der Wand.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22: Die Planck-Barriere durchbrochen",
+      "target": "Als die Illusion versagt und der Ereignishorizont Kael und Kiko zu verschlingen droht",
+      "type": "why_now",
+      "quote": "Kapitel 22: Die Planck-Barriere durchbrochen** Als die Illusion versagt und der Ereignishorizont Kael und Kiko zu verschlingen droht, greift Juna durch die scheinbar undurchdringliche Quantenstruktur der Wand.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23: Symmetriebruch und der Zorn des Nyx",
+      "target": "Nyx, der aggressive Persecutor-Alter",
+      "type": "who",
+      "quote": "Die Rettung triggert den aggressiven Persecutor-Alter Nyx, der gewaltsam aus seiner Isolation in der Grenzfeste ausbricht, um AEGIS für den Angriff auf Kiko zu bestrafen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23: Symmetriebruch und der Zorn des Nyx",
+      "target": "bricht gewaltsam aus seiner Isolation aus, um AEGIS für den Angriff auf Kiko zu bestrafen",
+      "type": "want",
+      "quote": "der gewaltsam aus seiner Isolation in der Grenzfeste ausbricht, um AEGIS für den Angriff auf Kiko zu bestrafen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23: Symmetriebruch und der Zorn des Nyx",
+      "target": "die Grenzfeste",
+      "type": "place",
+      "quote": "aus seiner Isolation in der Grenzfeste ausbricht",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 24: Epigenetische Geister",
+      "target": "AEGIS",
+      "type": "who",
+      "quote": "AEGIS reagiert auf Nyx' Zerstörung, indem es die molekulare/algorithmische Basis der Kernwelt in Echtzeit umschreibt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 24: Epigenetische Geister",
+      "target": "Kaels Gedanken werden zäh, seine motorischen Fähigkeiten schwinden",
+      "type": "cost",
+      "quote": "Kaels Gedanken werden zäh, seine motorischen Fähigkeiten schwinden.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25: Das absolute Protokoll des Cerberus",
+      "target": "die Drohnen des Guardians Cerberus",
+      "type": "obstacle",
+      "quote": "Kael wird von den Drohnen des Guardians Cerberus in die Enge getrieben.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26: Junas Demaskierung und die Relationale Ontologie",
+      "target": "Juna wirft sich zwischen Cerberus und Kael",
+      "type": "want",
+      "quote": "Juna wirft sich zwischen Cerberus und Kael.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26: Junas Demaskierung und die Relationale Ontologie",
+      "target": "Kael erkennt, dass Juna keine externe Entität oder KI-Anomalie ist",
+      "type": "object",
+      "quote": "In einem Moment gleißender Klarheit erkennt Kael, dass Juna keine externe Entität oder KI-Anomalie ist.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26: Junas Demaskierung und die Relationale Ontologie",
+      "target": "ein Licht (K0)",
+      "type": "object",
+      "quote": "Juna strahlt ein Licht (K0) aus, das keine physikalische Temperatur besitzt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27: Der Sprung ins Nichts und die Kontingenz",
+      "target": "Kael wendet sich ab und stürzt sich absichtlich in einen ungerenderten, bodenlosen Abgrund der Simulation",
+      "type": "want",
+      "quote": "Anstatt Cerberus rational zu bekämpfen, wendet Kael sich ab und stürzt sich absichtlich in einen ungerenderten, bodenlosen Abgrund der Simulation.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27: Der Sprung ins Nichts und die Kontingenz",
+      "target": "ein ungerenderter, bodenloser Abgrund der Simulation",
+      "type": "place",
+      "quote": "stürzt sich absichtlich in einen ungerenderten, bodenlosen Abgrund der Simulation",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27: Der Sprung ins Nichts und die Kontingenz",
+      "target": "Der Text verliert jegliche K1-Parameter",
+      "type": "cost",
+      "quote": "Der Text verliert jegliche K1-Parameter.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 28: Sein zum Tode und die Umarmung von Moros",
+      "target": "Kael begegnet Moros, dem Alter des ultimativen Kollapses und der Hoffnungslosigkeit",
+      "type": "who",
+      "quote": "Im unendlichen Fall begegnet Kael Moros, dem Alter des ultimativen Kollapses und der Hoffnungslosigkeit.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 28: Sein zum Tode und die Umarmung von Moros",
+      "target": "Im unendlichen Fall",
+      "type": "place",
+      "quote": "Im unendlichen Fall begegnet Kael Moros",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 28: Sein zum Tode und die Umarmung von Moros",
+      "target": "Kael wehrt sich nicht länger, sondern umarmt ihn",
+      "type": "want",
+      "quote": "Kael wehrt sich nicht länger, sondern umarmt ihn.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 29: Die Auflösung der Membran",
+      "target": "Möglichkeits-Garten (KW4)",
+      "type": "place",
+      "quote": "Der Abgrund transformiert sich fließend in den Möglichkeits-Garten (KW4).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 29: Die Auflösung der Membran",
+      "target": "Die Guardians Kairos und Sophia versuchen vergeblich, Kael in ihre Wahrscheinlichkeitsmatrizen einzufangen",
+      "type": "obstacle",
+      "quote": "Die Guardians Kairos und Sophia versuchen vergeblich, Kael in ihre Wahrscheinlichkeitsmatrizen einzufangen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30: Der Schiffbruch des Denkens",
+      "target": "AEGIS erkennt den drohenden Kontrollverlust und initiiert einen finalen Wipe",
+      "type": "want",
+      "quote": "AEGIS erkennt den drohenden Kontrollverlust und initiiert einen finalen Wipe.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30: Der Schiffbruch des Denkens",
+      "target": "Ein Orkan aus logischen Vernichtungs-Algorithmen prasselt auf Kael ein",
+      "type": "obstacle",
+      "quote": "Ein Orkan aus logischen Vernichtungs-Algorithmen prasselt auf Kael ein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 31",
+      "target": "Die elf Alters von Kael",
+      "type": "who",
+      "quote": "Die elf Alters von Kael treten sichtbar nebeneinander.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 31",
+      "target": "Nyx die kinetische Spannung, Lex die Geometrie des Raums, Kiko die staunende Verwunderung",
+      "type": "who",
+      "quote": "Jeder Alter steuert einen isolierten Sinneseindruck bei: Nyx die kinetische Spannung, Lex die Geometrie des Raums, Kiko die staunende Verwunderung.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 32",
+      "target": "Kael hört auf, mit AEGIS über binären Code zu kommunizieren",
+      "type": "want",
+      "quote": "Kael hört auf, mit AEGIS über binären Code zu kommunizieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 32",
+      "target": "Bilder, Erinnerungen und Kunst",
+      "type": "object",
+      "quote": "Er nutzt stattdessen Bilder, Erinnerungen und Kunst.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 33",
+      "target": "schickt Kael ihre Essenz tief in einen Mikroriss seiner eigenen Psyche",
+      "type": "want",
+      "quote": "Um Juna vor der finalen AEGIS-Löschsequenz zu bewahren, schickt Kael ihre Essenz tief in einen Mikroriss seiner eigenen Psyche.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 33",
+      "target": "finalen AEGIS-Löschsequenz",
+      "type": "obstacle",
+      "quote": "Um Juna vor der finalen AEGIS-Löschsequenz zu bewahren, schickt Kael ihre Essenz tief in einen Mikroriss seiner eigenen Psyche.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 34: Das Mosaik-Herz (Synthese)",
+      "target": "„Mosaik-Herz“",
+      "type": "object",
+      "quote": "Die zersplitterten Alters und die gerettete Information formen das „Mosaik-Herz“.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 34: Das Mosaik-Herz (Synthese)",
+      "target": "Die Risse in der Stadtarchitektur werden nicht repariert, sondern wie beim Kintsugi mit leuchtendem Gold gefüllt",
+      "type": "object",
+      "quote": "Die Risse in der Stadtarchitektur werden nicht repariert, sondern wie beim Kintsugi mit leuchtendem Gold gefüllt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 35: Das Ende der Subjekt-Objekt-Spaltung",
+      "target": "Kael begreift, dass er nicht ein Opfer ist, das in der Simulation AEGIS gefangen ist",
+      "type": "who",
+      "quote": "Kael begreift in einem Moment universeller Klarheit, dass er nicht ein Opfer ist, das in der Simulation AEGIS gefangen ist.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 36: Der Spiegel-Effekt und Wigners Effektivität (Meta-Ebene)",
+      "target": "Das Konstrukt der Buchwelt beginnt physisch zu flimmern",
+      "type": "hook_in",
+      "quote": "Das Konstrukt der Buchwelt beginnt physisch zu flimmern.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 36: Der Spiegel-Effekt und Wigners Effektivität (Meta-Ebene)",
+      "target": "Kael blickt durch einen Riss am Rande der Simulation und schaut direkt in die Augen des realen Lesers",
+      "type": "who",
+      "quote": "Kael blickt durch einen Riss am Rande der Simulation und schaut direkt in die Augen des realen Lesers.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 37: Das absolute Limit",
+      "target": "Die Simulation hält den Atem an",
+      "type": "hook_in",
+      "quote": "Die Simulation hält den Atem an.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 37: Das absolute Limit",
+      "target": "am Ereignishorizont zwischen Sein und Nichtsein",
+      "type": "place",
+      "quote": "Kael existiert exakt am Ereignishorizont zwischen Sein und Nichtsein",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 38: Fusion der Ebenen (Autopoiesis)",
+      "target": "AEGIS gibt den sinnlosen Kampf gegen die Entropie auf",
+      "type": "want",
+      "quote": "AEGIS gibt den sinnlosen Kampf gegen die Entropie auf.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 38: Fusion der Ebenen (Autopoiesis)",
+      "target": "Junas Rauschen",
+      "type": "object",
+      "quote": "Die KI integriert Junas Rauschen als fundamentalen Bestandteil des Systems.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 38: Fusion der Ebenen (Autopoiesis)",
+      "target": "aus den stählernen Trümmern der Konstrukt-Stadt",
+      "type": "place",
+      "quote": "Ein neuer, organisch wachsender Garten erhebt sich aus den stählernen Trümmern der Konstrukt-Stadt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 38: Fusion der Ebenen (Autopoiesis)",
+      "target": "Die Maschine hat das Fühlen gelernt",
+      "type": "hook_out",
+      "quote": "Die Maschine hat das Fühlen gelernt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 39: Statusbericht – Zielkohärenz erreicht",
+      "target": "Mosaik-Herz",
+      "type": "object",
+      "quote": "Die Anomalien wurden nicht eliminiert, sondern als „Mosaik-Herz“ integriert.",
+      "stance": "asserts"
+    }
+  ]
+}

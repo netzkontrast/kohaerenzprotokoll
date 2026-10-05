@@ -1,0 +1,136 @@
+{
+  "document": "roman-konzept-dualitaet-kohaerenz-spannung",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "4ba0bf83750121e3cb8f68335096c060b762a326eebc57c2294ee8970b5cf028",
+  "calls": 23,
+  "failed_calls": 0,
+  "seconds": 236.9,
+  "input_tokens": 100365,
+  "output_tokens": 29063,
+  "cost_usd": 0.5701,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1659,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1695,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 2024,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1982,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1735,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1817,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1640,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1585,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1504,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1420,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1599,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1402,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1391,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1460,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 2038,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1900,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1601,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1930,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1929,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1847,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1714,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1736,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1744,
+      "ok": true
+    }
+  ]
+}

@@ -29,6 +29,8 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`](kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md/contracts.md) |  |  |  |  |  |  |  |  | 69 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`leserzentrierte-roman-outline-generierung-kohaeren`](leserzentrierte-roman-outline-generierung-kohaeren/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | n.s. |  |  |  |  |  |  |
 | [`mining-report-kohaerenz-protokoll-narrative-building-blocks`](mining-report-kohaerenz-protokoll-narrative-building-blocks/contracts.md) |  |  |  |  |  |  | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 25 | 51 |  |  |  |  |
+| [`monstergruppe-primzahlen-plot-blueprint`](monstergruppe-primzahlen-plot-blueprint/contracts.md) |  |  |  |  |  |  |  |  | 103 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [`roman-konzept-dualitaet-kohaerenz-spannung`](roman-konzept-dualitaet-kohaerenz-spannung/contracts.md) |  |  |  |  |  |  |  |  | 84 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`roman-plot-entwicklung-mit-kohaerenzprotokoll`](roman-plot-entwicklung-mit-kohaerenzprotokoll/contracts.md) |  |  |  |  |  |  |  |  | 130 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`romanstruktur-und-philosophische-einleitung`](romanstruktur-und-philosophische-einleitung/contracts.md) |  |  |  |  |  |  |  |  | 95 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`systemic-architecture-specification-the-coherence-protocol-w`](systemic-architecture-specification-the-coherence-protocol-w/contracts.md) |  |  |  |  |  |  | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 16 | 31 |  |  |  |  |
@@ -38,4 +40,4 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`three-mode-architecture-39-chapters-md`](three-mode-architecture-39-chapters-md/contracts.md) |  |  |  |  |  |  |  |  | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-164 runs on 33 sources: 139 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+166 runs on 35 sources: 141 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
