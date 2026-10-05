@@ -118,10 +118,11 @@
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
         "aegis-persona-and-manifest-generation",
         "einleitung-genesis-der-existenz",
-        "plotanalyse-kohaerenz-protokoll-szenario"
+        "plotanalyse-kohaerenz-protokoll-szenario",
+        "optimierte-plotline-genesis-der-existenz"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 61,
+      "readings": 61,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -953,10 +954,11 @@
         "textanalyse-existenz-system-und-leid",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "aegis-persona-and-manifest-generation",
-        "einleitung-genesis-der-existenz"
+        "einleitung-genesis-der-existenz",
+        "optimierte-plotline-genesis-der-existenz"
       ],
-      "sources": 36,
-      "readings": 35,
+      "sources": 37,
+      "readings": 36,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -1356,10 +1358,11 @@
         "hard-sci-fi-cosmic-horror-research-questions",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
         "aegis-persona-and-manifest-generation",
-        "plotanalyse-kohaerenz-protokoll-szenario"
+        "plotanalyse-kohaerenz-protokoll-szenario",
+        "optimierte-plotline-genesis-der-existenz"
       ],
-      "sources": 56,
-      "readings": 56,
+      "sources": 57,
+      "readings": 57,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -1471,10 +1474,11 @@
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "aegis-persona-and-manifest-generation",
-        "plotanalyse-kohaerenz-protokoll-szenario"
+        "plotanalyse-kohaerenz-protokoll-szenario",
+        "optimierte-plotline-genesis-der-existenz"
       ],
-      "sources": 43,
-      "readings": 42,
+      "sources": 44,
+      "readings": 43,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -1710,10 +1714,11 @@
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "textanalyse-existenz-system-und-leid",
         "aegis-persona-and-manifest-generation",
-        "einleitung-genesis-der-existenz"
+        "einleitung-genesis-der-existenz",
+        "optimierte-plotline-genesis-der-existenz"
       ],
-      "sources": 34,
-      "readings": 32,
+      "sources": 35,
+      "readings": 33,
       "conflict": "C12, C16"
     },
     "konstrukt-stadt": {
@@ -2287,10 +2292,11 @@
         "kohaerenz-protokoll-audit-und-verifizierung",
         "textanalyse-existenz-system-und-leid",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "einleitung-genesis-der-existenz"
+        "einleitung-genesis-der-existenz",
+        "optimierte-plotline-genesis-der-existenz"
       ],
-      "sources": 33,
-      "readings": 33,
+      "sources": 34,
+      "readings": 34,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -2574,10 +2580,11 @@
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "three-mode-architecture-39-chapters-md",
         "textanalyse-existenz-system-und-leid",
-        "einleitung-genesis-der-existenz"
+        "einleitung-genesis-der-existenz",
+        "optimierte-plotline-genesis-der-existenz"
       ],
-      "sources": 8,
-      "readings": 6,
+      "sources": 9,
+      "readings": 7,
       "conflict": "none yet"
     },
     "resonanz-landschaft": {
@@ -2995,10 +3002,11 @@
         "textanalyse-existenz-system-und-leid",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
         "aegis-persona-and-manifest-generation",
-        "einleitung-genesis-der-existenz"
+        "einleitung-genesis-der-existenz",
+        "optimierte-plotline-genesis-der-existenz"
       ],
-      "sources": 36,
-      "readings": 36,
+      "sources": 37,
+      "readings": 37,
       "conflict": "C12, C16"
     },
     "truth-rotation": {
@@ -3122,10 +3130,11 @@
         "textanalyse-existenz-system-und-leid",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "aegis-persona-and-manifest-generation",
-        "einleitung-genesis-der-existenz"
+        "einleitung-genesis-der-existenz",
+        "optimierte-plotline-genesis-der-existenz"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 27,
+      "readings": 27,
       "conflict": "none yet"
     },
     "vergessener-schrein": {

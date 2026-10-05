@@ -1,0 +1,14 @@
+# optimierte-plotline-genesis-der-existenz
+  lines                240  (frontmatter ends at 9)
+  body words           2640
+  headings             1   bold-only lines 13
+  table rows           0   code fences 0
+  question marks       9
+  backslash escapes    0
+  typographic marks    12   ascii quotes 92
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    19
+  repeated labels      Anmerkungen x10, Beats x10, Ziel x10
+  longest line         496 chars
+
