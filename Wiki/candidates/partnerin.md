@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen"]
 gathered: "2026-09-17"
 ---
 
@@ -46,6 +46,10 @@ five blindnesses are five different failures to perceive one thing.
 ## Reading — `outline`, 2025-07-30, the outline — Die Wende der Partnerin, Kap 35
 
 Kap 35 is titled „Das Fundament als Spiegel: Auflösung der Paradoxien / Die Wende der Partnerin“ ^[outline.md:L230] (L230). The plot line names the partner figure as Juna/V (L232), and the Fokus says „Kaels ultimative innere Integration wird durch Verbindung erreicht.“ ^[outline.md:L235] (L235).
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the Partnerin (Juna) as the one the Guardians misread
+
+The Leitfragen report (an analyst's review) names Juna as the `Partnerin` in its account of the Guardians: the blind spot of LogOS and Mnemosyne toward her is „tief in ihrer jeweiligen Erkenntnistheorie verwurzelt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]. It reports that, as the line has it, LogOS errs „da Juna nicht in logische Operatoren passt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103] and that Mnemosyne reads her presence as a past scar: „Mnemosyne die aktuelle Präsenz der Partnerin als bloße vergangene Narbe fehldeutet“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]. This is the report's account of other documents.
 
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the real Juna as Kael's overloaded partner in Köln
 
