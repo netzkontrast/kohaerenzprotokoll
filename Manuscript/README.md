@@ -21,3 +21,4 @@ manuscript“ (Entscheidung 023).
 |---|---|
 | [kap-01/](kap-01/README.md) | neun Entwürfe: A–G, zuletzt G (KW1 als Stadt); H, die Neuausrichtung als Space Opera (KW1 als Spindel im All); I, frische Ideen (Grauzonentaucher); bewertet in `Plan/runs/writing/opening/agent-first-pages_2026-10-03.md` |
 | [plot/](plot/plot-entwurf-01-die-rueckgabe.md) | Plot-Entwurf 1, „Die Rückgabe“: ein vollständig neuer Plot für den ganzen Roman (33 Kapitel in vier Teilen); ein Vorschlag, kein Treatment |
+| [plot/](plot/plot-entwurf-02-die-mauer.md) | Plot-Entwurf 2, „Die Mauer“: eine ganz andere Geschichte im selben Universum, erzählt von einer Grenzsoldatin in KW3 (29 Kapitel und fünf Prüfprotokolle in drei Teilen); Kael nur am Rand; ein Vorschlag, kein Treatment |
