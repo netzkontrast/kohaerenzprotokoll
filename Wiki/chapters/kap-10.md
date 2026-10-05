@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -93,6 +93,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „aus der Sicht des Speicher-Wächters“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]; „er versucht, das Trauma sauber zu archivieren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]; „Cache-Kohärenz wahren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]
 - Foreshadowing level 3 lists „Die Zahl 734 (Kap 2, Kap 10, Kap 25)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Die angewandte Harmonie
+
+Title: „Die angewandte Harmonie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L283]
+Position: Akt I; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L291]
+
+- Story: the outline plans „wendet eine neu gefundene Balance aus analytischer Kälte und empathischer Simulation an“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L289]
+- Story: the outline plans „wertet die Harmonie jedoch als hochgradig gefährliches, emergentes Verhalten“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L289]
+- Concepts: „Embodiment“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L287]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
