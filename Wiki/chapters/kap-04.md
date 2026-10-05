@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -51,6 +51,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „bemerkt Kael subtile Anzeichen von Systeminstabilität um sich herum“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68] · „Vielleicht geringfügige visuelle Störungen, Audiostörungen oder temporäre Fehlfunktionen nahegelegener automatisierter Systeme.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Story: „Diagnose- oder niedrigstufige Eindämmungsprotokolle“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Discussion: „sein innerer Zustand destabilisiert nun aktiv das System“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L69]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The encounter with the shadow
+
+Title: „Die Begegnung mit dem Schatten“ ^[romanstruktur-und-philosophische-einleitung.md:L59]
+Position: Teil I, „Juna als Echo“ ^[romanstruktur-und-philosophische-einleitung.md:L59]
+
+- Story: Juna appears as an emotional anchor to the external level, in KW2 mostly as an echo: „Im Kontext von KW2 erscheint Juna oft nur als Echo“ ^[romanstruktur-und-philosophische-einleitung.md:L61]
+- Story: the three-part analysis reads the Kael–Juna dynamic as attachment trauma: „Dies ist der Kern der psychologischen Tragödie“ ^[romanstruktur-und-philosophische-einleitung.md:L63]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
