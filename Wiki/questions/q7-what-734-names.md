@@ -201,3 +201,12 @@ Where it stands: in this outline the number labels a component, the numbered for
 In KW1 stands „Ein humanoider Konstrukt in KW1, präzise, effizient und emotionslos“ ^[charaktere.md:L371], listed in L371 as `Der Archivar / Einheit 734 / Lex (Externe Entität)`. The Narrative Architect's note (L373) says of the same name beside Kael's inner part Lex: „Dieser Widerspruch ist kein Fehler im Bauplan, sondern eine bewusste Setzung“ ^[charaktere.md:L373].
 
 Stands as a design proposal in which 734 is an external archivist construct, not Kael's origin; recorded, not applied.
+
+## 2026-10-05 — the author, through W12: AEGIS emerged from Komponente 734
+
+Asked who is what after the separation, with three readings the sources give (Kael is 734, Kael grows out of 734,
+AEGIS emerged from 734), the author chose the reading of the early outline commission: AEGIS, „entstanden aus
+Komponente 734“ ^[kontext-outline.md:L26]. **This answers where AEGIS comes from, not what the number labels in
+Kael's world.** Whether Kael's dwelling or designation carries 734, and what Kael's own relation to the component
+is, stays open, and so does the question's status.
+
