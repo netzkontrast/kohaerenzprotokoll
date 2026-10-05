@@ -1,0 +1,154 @@
+# counts for 125 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                9 word    11 in   [1, 5, 21, 47, 96, 132]
+  Kohärenz Protokolls               2 word     2 in   [21, 96]
+  System Kael                       4 word     4 in   [5, 33, 214, 321]
+  NovelOS                           3 word     5 in   [7, 36, 130, 304, 314]
+                                    1      as NovelOS-Frameworks
+                                    1      as NovelOS-Protokolls
+  NovelOS-Framework                 0 word     1 in   [130]
+                                    1      as NovelOS-Frameworks
+  Context Rot                       3 word     3 in   [5, 36, 305]
+  Golden Sources                    4 word     4 in   [7, 128, 305, 306]
+  Golden-Source-Dokumente           2 word     2 in   [9, 314]
+  K-Juna-Paradoxon                  1 word     2 in   [7, 33]
+                                    1      as K-Juna-Paradoxons
+  AEGIS                            38 word    44 in   [7, 28, 31, 37, 53, 55]
+                                    2      as AEGIS-Subplots
+                                    1      as AEGIS-Evolution
+                                    1      as AEGIS-Ende
+                                    1      as AEGIS-Log
+  Kael                             21 word    34 in   [5, 28, 33, 41, 43, 53]
+                                   12      as Kaels
+                                    1      as Kael-System
+  Juna                             16 word    19 in   [7, 33, 55, 90, 101, 118]
+                                    1      as Junas
+  Hard Canon                        5 word     5 in   [21, 49, 51, 61, 275]
+  Soft Canon                        4 word     4 in   [21, 59, 61, 257]
+  Moonshine-Link                    2 word     3 in   [30, 55, 255]
+                                    1      as Moonshine-Links
+  The Foundation                    2 word     2 in   [30, 255]
+  Foundation-Code                   0 word     1 in   [205]
+                                    1      as Foundation-Codes
+  External Level                    1 word     1 in   [30]
+  Nichts Rauschen                   2 word     2 in   [57, 154]
+  ontologische Vertigo              2 word     2 in   [57, 154]
+  Algorithmische Melancholie        2 word     2 in   [144, 223]
+  Algorithmischen Melancholie       1 word     1 in   [53]
+  pathologisches Lernen             1 word     1 in   [53]
+  parakonsistente Logik             1 word     1 in   [53]
+  Syntaxfehler                      1 word     1 in   [55]
+  Zombie-System                     1 word     1 in   [53]
+  tragischer Gott                   1 word     1 in   [53]
+  tragischer Schöpfergott           1 word     1 in   [156]
+  Der Juna/V-Exploit                1 word     1 in   [155]
+  ontologischen Exploit             1 word     1 in   [55]
+  Kernwelten                        3 word     3 in   [31, 61, 282]
+  Core Worlds                       1 word     1 in   [61]
+  KW1                               7 word     8 in   [31, 65, 84, 107, 165, 176]
+  KW2                               4 word     4 in   [66, 165, 215, 247]
+  KW3                               3 word     3 in   [67, 89, 165]
+  KW4                               3 word     4 in   [31, 68, 165, 282]
+  Logos-Prime                       4 word     4 in   [65, 80, 192, 231]
+  Mnemosyne-Archipel                2 word     2 in   [66, 215]
+  Die Grenzfeste / Cerberus-Labyrinth    1 word     1 in   [67]
+  Cerberus-Labyrinth                2 word     2 in   [67, 89]
+  Kairos-Potentialis                1 word     1 in   [68]
+  LogOS                             3 word     3 in   [65, 152, 166]
+                                    4      as Logos-Prime
+  Mnemosyne                         3 word     5 in   [66, 152, 166, 215]
+                                    2      as Mnemosyne-Archipel
+  Cerberus                          2 word     4 in   [67, 89, 166]
+                                    2      as Cerberus-Labyrinth
+  Kairos                            1 word     2 in   [68, 166]
+                                    1      as Kairos-Potentialis
+  Sophia                            1 word     1 in   [166]
+  Guardians                         3 word     3 in   [72, 152, 166]
+  Guardian LogOS                    1 word     1 in   [65]
+  Konstrukt-Stadt                   1 word     1 in   [108]
+  dialethische Logik                1 word     1 in   [68]
+  akustischer Druck ohne Ton        1 word     1 in   [70]
+  Ästhetik der Ohnmacht             1 word     1 in   [70]
+  Alters                            9 word    13 in   [35, 43, 74, 78, 143, 146]
+  Alter-Topografie                  1 word     1 in   [306]
+  Peripherie-Alters                 1 word     1 in   [243]
+  Anscheinend Normale Persönlichkeitsanteile    3 word     3 in   [35, 65, 78]
+  ANP                               5 word     9 in   [35, 65, 78, 80, 81, 84]
+  Emotionale Persönlichkeitsanteile    2 word     2 in   [35, 78]
+  EP                                5 word     6 in   [35, 78, 83, 92, 179, 259]
+  funktionale Multiplizität         1 word     1 in   [147]
+  funktionalen Multiplizität        1 word     1 in   [76]
+  Der Suchende / Host               1 word     1 in   [80]
+  Der Architekt                     1 word     1 in   [81]
+  Der Wächter (Alex)                1 word     1 in   [82]
+  Das Kind (Echo / EP)              1 word     1 in   [83]
+  Der Analytiker (Lex / ANP)        1 word     1 in   [84]
+  Die Schatten-Instanz (Nyx / Persecutor)    1 word     1 in   [85]
+  Der Beobachter (Argus / ANP)      1 word     1 in   [86]
+  Der Vermittler                    1 word     1 in   [87]
+  Die Erinnerungs-Säule             1 word     1 in   [88]
+  Der Taktiker                      1 word     1 in   [89]
+  Das Fragment (V-Bezug)            1 word     1 in   [90]
+  Archivar der Narben               2 word     2 in   [86, 184]
+  Silas                             6 word     7 in   [40, 78, 184, 259, 290]
+                                    1      as Silas-Funktion
+  Lex                               5 word     5 in   [43, 84, 123, 168, 274]
+  Alex                              5 word     5 in   [43, 82, 123, 168, 274]
+  Echo                              8 word     8 in   [43, 83, 110, 117, 168, 191]
+  Nyx                               4 word     4 in   [43, 85, 168, 184]
+  Argus                            11 word    11 in   [35, 40, 43, 78, 86, 168]
+  Moros                             4 word     4 in   [35, 92, 247, 259]
+  Rhys                              5 word     5 in   [39, 92, 247, 325]
+  Selene                            2 word     2 in   [35, 92]
+  Lia                               2 word     2 in   [243, 247]
+  Oblivion                          4 word     5 in   [41, 80, 243, 247, 259]
+                                    1      as Oblivion-Zustand
+  Oblivion-Zustand                  1 word     1 in   [80]
+  Universal Reboot                  2 word     2 in   [41, 80]
+  Kudzu-Metapher                    1 word     1 in   [39]
+  Dual-Kernel-Theorie               5 word     5 in   [32, 84, 98, 164, 281]
+  DKT                               2 word     2 in   [32, 98]
+  Kernel                            2 word     9 in   [32, 84, 98, 100, 101, 164]  <-- substring
+  Narrative Hard Rules              2 word     2 in   [96, 171]
+  thermische Risse                  2 word     2 in   [151, 176]
+  Landauer-Risse                    1 word     1 in   [231]
+  Quanten-Unitarität                1 word     1 in   [178]
+  Schwarzschild-Protokoll           2 word     2 in   [110, 179]
+  Bekenstein-Schranke               3 word     3 in   [109, 180, 281]
+  Unsichtbares Panoptikum           1 word     1 in   [169]
+  unsichtbares Panoptikum           2 word     2 in   [72, 290]
+  Entropie-Fehler                   1 word     1 in   [37]
+  Existenzielle Fusion              1 word     1 in   [186]
+  Foreshadowing-System              1 word     1 in   [120]
+  Resonanzmatrix                    1 word     1 in   [124]
+  Therapeutische Isomorphie         1 word     1 in   [126]
+  Host-ANP                          1 word     1 in   [122]
+  Genesis im Echo der Leere         2 word     2 in   [117, 191]
+  Instrumente der Ordnung           2 word     2 in   [118, 192]
+  Vorwort                           4 word     4 in   [42, 116, 190, 297]
+  Prolog                            3 word     4 in   [42, 117, 191, 297]
+  ENTSCHEIDUNGS-LOG                 1 word     1 in   [182]
+  neue Kohärenz                     1 word     1 in   [223]
+  Heldinnenreise                    1 word     1 in   [33]
+  Architectural Storytelling        1 word     1 in   [108]
+  TSDP                              4 word     8 in   [5, 28, 72, 76, 126, 143]
+                                    1      as TSDP-Modells
+                                    1      as TSDP-Zustand
+                                    1      as TSDP-Behandlung
+                                    1      as TSDP-Systems
+  Theorie der strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [76]
+  IFS                               0 word     3 in   [28, 143, 273]  <-- substring
+  Internal Family Systems           1 word     1 in   [143]
+  Landauer-Prinzip                  2 word     4 in   [32, 107, 176, 281]
+                                    2      as Landauer-Prinzips
+  Gödelsche Unvollständigkeitssatz    1 word     1 in   [108]
+  Gödelsche Unvollständigkeit       1 word     2 in   [108, 177]
+  Quantenverschränkung              2 word     2 in   [55, 155]
+  Prehension                        1 word     1 in   [55]
+  Alfred North Whiteheads           1 word     1 in   [55]
+  Depersonalisation                 1 word     1 in   [86]
+  ergodische Strukturen             1 word     1 in   [149]
+  Persecutor                        1 word     1 in   [85]

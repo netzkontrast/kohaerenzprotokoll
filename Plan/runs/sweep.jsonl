@@ -215,3 +215,11 @@
 {"document": "kohaerenz-protokoll-kapitel-outline-erstellung", "page": "sophia", "surface": "Sophia", "line": 1345, "decision": "reading", "why": "discarded (L1345)", "at": "2026-10-05"}
 {"document": "kohaerenz-protokoll-kapitel-outline-erstellung", "page": "trennungsprotokoll", "surface": "Trennungsprotokoll", "line": 1007, "decision": "reading", "why": "Kap 34 (L1007); read on trennungsprotokoll", "at": "2026-10-05"}
 {"document": "kohaerenz-protokoll-kapitel-outline-erstellung", "page": "ueberwelt", "surface": "Simulation", "line": 289, "decision": "occurrence", "why": "`empathischer Simulation` in Kap 10 (L289) — not the Überwelt", "at": "2026-10-05"}
+{"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "dkt", "surface": "Dual-Kernel-Theorie (DKT)", "line": 32, "decision": "reading", "why": "read on dkt (L98, L164)", "at": "2026-10-05"}
+{"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "emergenz", "surface": "Emergenz", "line": 123, "decision": "occurrence", "why": "the foreshadowing strand `Die Emergenz von Lex und Alex` (L123)", "at": "2026-10-05"}
+{"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "entropie", "surface": "Entropie", "line": 5, "decision": "reading", "why": "read on entropie (L100)", "at": "2026-10-05"}
+{"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "genesis", "surface": "Genesis", "line": 117, "decision": "reading", "why": "the prologue Genesis im Echo der Leere (L117)", "at": "2026-10-05"}
+{"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "grenzfeste", "surface": "Die Grenzfeste", "line": 67, "decision": "reading", "why": "KW3 (L67)", "at": "2026-10-05"}
+{"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "kohaerenz", "surface": "Kohärenz", "line": 1, "decision": "occurrence", "why": "the frontmatter title (J9)", "at": "2026-10-05"}
+{"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "risse", "surface": "Glitches", "line": 109, "decision": "reading", "why": "read on risse", "at": "2026-10-05"}
+{"document": "kohaerenz-protokoll-projekt-rekonstruktion", "page": "ueberwelt", "surface": "Simulation", "line": 33, "decision": "occurrence", "why": "a register row (L33); no sense of the Überwelt", "at": "2026-10-05"}

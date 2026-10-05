@@ -1,0 +1,132 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+Candidate list of the whole document, written while reading L1 to L328. The document is a synthesis report that restates a project's canon and ends in three embedded „Golden Source“ documents. Digits glued to words are lost in the export (KW1 to KW4 read as KW in the lines), and the Greek kernel symbols are lost (Kernel names stand with a gap). The source codes Q-01 to Q-16, HC-01 to HC-14, SC-01 to SC-07 and OQ-01 to OQ-08 are left off: they are the document's row labels, not terms of the world.
+
+- Kohärenz Protokoll
+- Kohärenz Protokolls
+- System Kael
+- NovelOS
+- NovelOS-Framework
+- Context Rot
+- Golden Sources
+- Golden-Source-Dokumente
+- K-Juna-Paradoxon
+- AEGIS
+- Kael
+- Juna
+- Hard Canon
+- Soft Canon
+- Moonshine-Link
+- The Foundation
+- Foundation-Code
+- External Level
+- Nichts Rauschen
+- ontologische Vertigo
+- Algorithmische Melancholie
+- Algorithmischen Melancholie
+- pathologisches Lernen
+- parakonsistente Logik
+- Syntaxfehler
+- Zombie-System
+- tragischer Gott
+- tragischer Schöpfergott
+- Der Juna/V-Exploit
+- ontologischen Exploit
+- Kernwelten
+- Core Worlds
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Die Grenzfeste / Cerberus-Labyrinth
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Guardians
+- Guardian LogOS
+- Konstrukt-Stadt
+- dialethische Logik
+- akustischer Druck ohne Ton
+- Ästhetik der Ohnmacht
+- Alters
+- Alter-Topografie
+- Peripherie-Alters
+- Anscheinend Normale Persönlichkeitsanteile
+- ANP
+- Emotionale Persönlichkeitsanteile
+- EP
+- funktionale Multiplizität
+- funktionalen Multiplizität
+- Der Suchende / Host
+- Der Architekt
+- Der Wächter (Alex)
+- Das Kind (Echo / EP)
+- Der Analytiker (Lex / ANP)
+- Die Schatten-Instanz (Nyx / Persecutor)
+- Der Beobachter (Argus / ANP)
+- Der Vermittler
+- Die Erinnerungs-Säule
+- Der Taktiker
+- Das Fragment (V-Bezug)
+- Archivar der Narben
+- Silas
+- Lex
+- Alex
+- Echo
+- Nyx
+- Argus
+- Moros
+- Rhys
+- Selene
+- Lia
+- Oblivion
+- Oblivion-Zustand
+- Universal Reboot
+- Kudzu-Metapher
+- Dual-Kernel-Theorie
+- DKT
+- Kernel
+- Narrative Hard Rules
+- thermische Risse
+- Landauer-Risse
+- Quanten-Unitarität
+- Schwarzschild-Protokoll
+- Bekenstein-Schranke
+- Unsichtbares Panoptikum
+- unsichtbares Panoptikum
+- Entropie-Fehler
+- Existenzielle Fusion
+- Foreshadowing-System
+- Resonanzmatrix
+- Therapeutische Isomorphie
+- Host-ANP
+- Genesis im Echo der Leere
+- Instrumente der Ordnung
+- Vorwort
+- Prolog
+- ENTSCHEIDUNGS-LOG
+- neue Kohärenz
+- Heldinnenreise
+- Architectural Storytelling
+
+## lens
+
+- TSDP
+- Theorie der strukturellen Dissoziation der Persönlichkeit
+- IFS
+- Internal Family Systems
+- Landauer-Prinzip
+- Gödelsche Unvollständigkeitssatz
+- Gödelsche Unvollständigkeit
+- Quantenverschränkung
+- Prehension
+- Alfred North Whiteheads
+- Depersonalisation
+- ergodische Strukturen
+- Persecutor

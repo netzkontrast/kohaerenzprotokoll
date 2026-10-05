@@ -423,6 +423,11 @@ the author wants them (*Questions for the author*).
   brings `Silas Oblivion`, Kap 31 has Oblivion wake, and the outline never says whether they are one figure; it also turned
   the dropped name Nox into Silas, a perpetrator mimic (L1344). Are Silas and Oblivion one alter or two?
 
+- **Document 79, `kohaerenz-protokoll-projekt-rekonstruktion`, the project reconstruction of 2026-03-26:** it lists a written
+  Kap 1, `Instrumente der Ordnung`, with „ein formalisierter Dialog mit einer Wandprojektion von Juna" (L118, L192), while its
+  own Hard Canon says Juna is never described directly (HC-09, L151) and later sources hold her back until Kap 7 or 33 (C7).
+  Does Kael speak with a projection of Juna in Kap 1?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*

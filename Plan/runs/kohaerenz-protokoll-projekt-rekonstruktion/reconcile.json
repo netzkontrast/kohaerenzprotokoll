@@ -1,0 +1,400 @@
+{
+  "document": "kohaerenz-protokoll-projekt-rekonstruktion",
+  "drive_id": "1eFcWv-ocVo0YkB28wS-ZjsG91iSupow3dHfygifsK0M",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; rlm_ingest not run (paused); readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-79/brief.md, naming the document's row codes; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 124,
+    "decisions": 138,
+    "decided_by_lookup": 90,
+    "needs_judgement": 48
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An audit that generates a canon: its own words are the apparatus of an inventory and its tiers (the register Q-01 to Q-16, Hard Canon HC, Soft Canon SC, OQ, Golden Sources, NovelOS) and names for the worlds built from their bearers (Logos-Prime, Kairos-Potentialis); its world is the wiki's. Its readings went onto 32 pages and 5 records; no name is defined here that the wiki lacks.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        130,
+        134,
+        144,
+        153,
+        156,
+        163,
+        169,
+        314
+      ],
+      "attribution": "",
+      "note": "an audit that declares its own tier list and calls itself binding"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        82
+      ],
+      "attribution": "",
+      "note": "the protector among the alters"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        144,
+        223
+      ],
+      "attribution": "",
+      "note": "HC-02 sets it as AEGIS's fate; OQ-04 asks what it is"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        78,
+        143,
+        146,
+        168
+      ],
+      "attribution": "",
+      "note": "eleven primary instances in a numbered list, and `11+` in HC-01"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        78,
+        86
+      ],
+      "attribution": "",
+      "note": "the observer, Archivar der Narben; Silas's role transferred to him"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        67,
+        166
+      ],
+      "attribution": "",
+      "note": "KW3 as the Cerberus-Labyrinth, guarded by Cerberus"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        98,
+        164
+      ],
+      "attribution": "",
+      "note": "DKT at the centre of the narrative physics"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        100
+      ],
+      "attribution": "",
+      "note": "the kernel that strives to eliminate entropy"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        117,
+        191
+      ],
+      "attribution": "",
+      "note": "the prologue Genesis im Echo der Leere, a written fragment"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        67
+      ],
+      "attribution": "",
+      "note": "KW3, Die Grenzfeste / Cerberus-Labyrinth"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        152,
+        166
+      ],
+      "attribution": "",
+      "note": "HC-10 autonomy and SC-04's roster"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        151,
+        155,
+        205,
+        206
+      ],
+      "attribution": "",
+      "note": "HC-09 and HC-13 as Hard Canon, OQ-01 as an open question"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        80,
+        143,
+        145
+      ],
+      "attribution": "",
+      "note": "HC-01, HC-03 and the waking in Oblivion"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        68,
+        166
+      ],
+      "attribution": "",
+      "note": "KW4 and SC-04's guardian"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        65,
+        165
+      ],
+      "attribution": "",
+      "note": "the four worlds and SC-03"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "KW1 as a sterile metropolis"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "the analyst"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        247
+      ],
+      "attribution": "",
+      "note": "OQ-07 on the peripheral alters Lia and Oblivion"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        166
+      ],
+      "attribution": "",
+      "note": "KW1 under LogOS, and SC-04's order"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        66,
+        166
+      ],
+      "attribution": "",
+      "note": "KW2 under Mnemosyne"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "the Kael-Juna link, internally so called"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        92
+      ],
+      "attribution": "",
+      "note": "Moros, the ultimate traumatic shutdown"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        147
+      ],
+      "attribution": "",
+      "note": "HC-05, the choral ending that celebrates it"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        154
+      ],
+      "attribution": "",
+      "note": "HC-12, an information vacuum"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "the shadow instance"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        247,
+        259
+      ],
+      "attribution": "",
+      "note": "an amnesia state, a peripheral name in OQ-07, and a corrected equation"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        92
+      ],
+      "attribution": "",
+      "note": "a co-dependent caregiver, with the Kudzu image"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        176
+      ],
+      "attribution": "",
+      "note": "thermal cracks from the Landauer principle"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        92
+      ],
+      "attribution": "",
+      "note": "named as an instance that leads the system toward coherence"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        78,
+        184,
+        259
+      ],
+      "attribution": "",
+      "note": "three wordings of one resolution"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        166
+      ],
+      "attribution": "",
+      "note": "SC-04's metacognition guardian"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        126
+      ],
+      "attribution": "",
+      "note": "the three parts mirror TSDP's clinical phases"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      9,
+      26,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C11",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a title containing a term: Kohärenz Protokoll), J12 and J16 (a compound or a qualified label is its own token: System Kael, NovelOS-Framework, K-Juna-Paradoxon, Der Juna/V-Exploit, Guardian LogOS, Peripherie-Alters, Der Wächter (Alex), Das Kind (Echo / EP), Die Schatten-Instanz (Nyx / Persecutor), Der Beobachter (Argus / ANP), Oblivion-Zustand, Genesis im Echo der Leere, thermische Risse, Landauer-Risse, Entropie-Fehler, neue Kohärenz), J24 and J97 (a plural or case ending is no boundary: Kohärenz Protokolls, funktionalen Multiplizität, Gödelsche Unvollständigkeit), J34 (a slash between two names is a pair: Die Grenzfeste / Cerberus-Labyrinth), J49 (a world name built from a bearer's name is not the bearer: Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis), J69 (a match only after folding: Kernel / dkt, Der Architekt / mnemosyne-server-architektur, Der Vermittler / vermittler-stimme, Echo / residual-echos, Depersonalisation / personas)",
+  "sweep": [
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 32,
+      "decision": "reading",
+      "why": "read on dkt (L98, L164)"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 123,
+      "decision": "occurrence",
+      "why": "the foreshadowing strand `Die Emergenz von Lex und Alex` (L123)"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 5,
+      "decision": "reading",
+      "why": "read on entropie (L100)"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 117,
+      "decision": "reading",
+      "why": "the prologue Genesis im Echo der Leere (L117)"
+    },
+    {
+      "page": "grenzfeste",
+      "surface": "Die Grenzfeste",
+      "line": 67,
+      "decision": "reading",
+      "why": "KW3 (L67)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the frontmatter title (J9)"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 109,
+      "decision": "reading",
+      "why": "read on risse"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 33,
+      "decision": "occurrence",
+      "why": "a register row (L33); no sense of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "Logos-Prime, Kairos-Potentialis — the worlds' names (L65, L68); read on kern-welten",
+    "Der Architekt, Der Vermittler, Die Erinnerungs-Säule, Der Taktiker, Das Fragment (V-Bezug) — five of the eleven alters with no name (L81–L90); read on alters",
+    "Schwarzschild-Protokoll, Quanten-Unitarität — narrative physics laws (L110, L178–L179); no page",
+    "NovelOS, Golden Sources, the register Q-01 to Q-16 — the audit's apparatus; no page"
+  ],
+  "internal_tension": "the Hard Canon is named HC-01 to HC-10 (L51) and the table carries HC-11 to HC-14; `11 primäre` alters (L78, L168) and `11+ Kern-Alters` (L143); Silas's role „übertragen“ to Argus (L78), Silas „eliminiert“ and kept as a synonym for Nyx (L184), „ersetzt“ (L259); Juna's link stated as fact (HC-13, L155) while OQ-01 asks what she is; HC-02 no physical destruction (L144) while OQ-04 calls AEGIS „das besiegte System“ (L223)",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}
