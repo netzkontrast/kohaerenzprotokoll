@@ -64,14 +64,16 @@ def main() -> int:
     print(f"   The smallest true mean effect shown with 80 % power by a two-sided 90 % interval: about {2.49 * se:.3f} (2.49 standard errors).")
     print(f"   The measured gain is {st.mean(effect):+.3f}: it stands at the detection limit, and one of four limits (10, 20, 40, 80) was picked for it.")
 
-    bench = json.loads((AFTER / "default-interim14.json").read_text(encoding="utf-8"))["rows"]
+    recorded = json.loads((AFTER / "default-interim14.json").read_text(encoding="utf-8"))
+    bench = recorded["rows"]
     gold_docs = [r["gold_docs"] for r in bench]
     recall = [r["doc_recall"] for r in bench]
     print(f"\nC. Spearman(gold documents of a case, the default pack's document recall) = {spearman(gold_docs, recall):+.2f} over {len(bench)} cases")
     print(f"   gold documents per case: min {min(gold_docs)}, median {st.median(gold_docs)}, max {max(gold_docs)}; "
-          f"the pack holds {st.median([r['pack_docs'] for r in bench])} documents (median) within a budget of {ask.BUDGET:,} characters")
+          f"the pack holds {st.median([r['pack_docs'] for r in bench])} documents (median) within a budget of {recorded['budget']:,} characters")
 
-    cases = [c for c in ask.bench_cases() if c["gold"]]
+    import benchset  # the frozen cases (SPEC.md step 2); identical to the records' at freezing
+    cases = [c for c in benchset.cases() if c["gold"]]
     docs = {c["id"]: {d for d, _ in c["gold"]} for c in cases}
     ids = sorted(docs)
     jaccard = [len(docs[a] & docs[b]) / len(docs[a] | docs[b]) for i, a in enumerate(ids) for b in ids[i + 1:]]

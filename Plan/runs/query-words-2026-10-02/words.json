@@ -1,0 +1,1721 @@
+{
+ "C1": {
+  "question": "AEGIS is expanded incompatibly",
+  "new": [
+   "aegis",
+   "expanded",
+   "incompatibly"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "aegis",
+    "expanded",
+    "incompatibly"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "aegis",
+    "is",
+    "expanded",
+    "incompatibly"
+   ],
+   "added": [],
+   "dropped": [
+    "is"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "aegis",
+    "expanded",
+    "incompatibly"
+   ],
+   "added": [],
+   "dropped": []
+  }
+ },
+ "C10": {
+  "question": "do the knuckles bleed in Kap 1?",
+  "new": [
+   "knuckles",
+   "bleed",
+   "kap"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "knuckles",
+    "bleed",
+    "kap"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "do",
+    "the",
+    "knuckles",
+    "bleed",
+    "in",
+    "kap",
+    "1"
+   ],
+   "added": [],
+   "dropped": [
+    "do",
+    "the",
+    "in",
+    "1"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "do",
+    "knuckles",
+    "bleed",
+    "kap"
+   ],
+   "added": [],
+   "dropped": [
+    "do"
+   ]
+  }
+ },
+ "C11": {
+  "question": "Landauer warmth in Kap 6 and Kap 36, or cold ozone",
+  "new": [
+   "landauer",
+   "warmth",
+   "kap",
+   "36",
+   "cold",
+   "ozone"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "landauer",
+    "warmth",
+    "kap",
+    "cold",
+    "ozone"
+   ],
+   "added": [
+    "36"
+   ],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "landauer",
+    "warmth",
+    "in",
+    "kap",
+    "6",
+    "and",
+    "kap",
+    "36",
+    "or",
+    "cold",
+    "ozone"
+   ],
+   "added": [],
+   "dropped": [
+    "in",
+    "6",
+    "and",
+    "or"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "landauer",
+    "warmth",
+    "kap",
+    "kap",
+    "36",
+    "cold",
+    "ozone"
+   ],
+   "added": [],
+   "dropped": []
+  }
+ },
+ "C12": {
+  "question": "three Genesis beats, or four",
+  "new": [
+   "three",
+   "genesis",
+   "beats",
+   "four"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "three",
+    "genesis",
+    "beats",
+    "four"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "three",
+    "genesis",
+    "beats",
+    "or",
+    "four"
+   ],
+   "added": [],
+   "dropped": [
+    "or"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "three",
+    "genesis",
+    "beats",
+    "four"
+   ],
+   "added": [],
+   "dropped": []
+  }
+ },
+ "C13": {
+  "question": "Köln 2026 beyond the simulation, or not outside it",
+  "new": [
+   "köln",
+   "2026",
+   "beyond",
+   "simulation",
+   "outside"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "köln",
+    "2026",
+    "beyond",
+    "simulation",
+    "not",
+    "outside"
+   ],
+   "added": [],
+   "dropped": [
+    "not"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "köln",
+    "2026",
+    "beyond",
+    "the",
+    "simulation",
+    "or",
+    "not",
+    "outside",
+    "it"
+   ],
+   "added": [],
+   "dropped": [
+    "the",
+    "or",
+    "not",
+    "it"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "köln",
+    "2026",
+    "beyond",
+    "simulation",
+    "outside"
+   ],
+   "added": [],
+   "dropped": []
+  }
+ },
+ "C14": {
+  "question": "does AEGIS get a first-person chapter?",
+  "new": [
+   "aegis",
+   "get",
+   "first-person",
+   "chapter"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "does",
+    "aegis",
+    "get",
+    "first-person",
+    "chapter"
+   ],
+   "added": [],
+   "dropped": [
+    "does"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "does",
+    "aegis",
+    "get",
+    "a",
+    "first",
+    "person",
+    "chapter"
+   ],
+   "added": [
+    "first-person"
+   ],
+   "dropped": [
+    "does",
+    "a",
+    "first",
+    "person"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "does",
+    "aegis",
+    "get",
+    "first",
+    "person",
+    "chapter"
+   ],
+   "added": [
+    "first-person"
+   ],
+   "dropped": [
+    "does",
+    "first",
+    "person"
+   ]
+  }
+ },
+ "C15": {
+  "question": "who carries Flight?",
+  "new": [
+   "carries",
+   "flight"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "carries",
+    "flight"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "who",
+    "carries",
+    "flight"
+   ],
+   "added": [],
+   "dropped": [
+    "who"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "who",
+    "carries",
+    "flight"
+   ],
+   "added": [],
+   "dropped": [
+    "who"
+   ]
+  }
+ },
+ "C2": {
+  "question": "Entropie means two incompatible things",
+  "new": [
+   "entropie",
+   "means",
+   "two",
+   "incompatible",
+   "things"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "entropie",
+    "means",
+    "two",
+    "incompatible",
+    "things"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "entropie",
+    "means",
+    "two",
+    "incompatible",
+    "things"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "entropie",
+    "means",
+    "two",
+    "incompatible",
+    "things"
+   ],
+   "added": [],
+   "dropped": []
+  }
+ },
+ "C3": {
+  "question": "AEGIS emerges, and the two sources mean opposite things by it",
+  "new": [
+   "aegis",
+   "emerges",
+   "two",
+   "sources",
+   "mean",
+   "opposite",
+   "things"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "aegis",
+    "emerges",
+    "two",
+    "sources",
+    "mean",
+    "opposite",
+    "things"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "aegis",
+    "emerges",
+    "and",
+    "the",
+    "two",
+    "sources",
+    "mean",
+    "opposite",
+    "things",
+    "by",
+    "it"
+   ],
+   "added": [],
+   "dropped": [
+    "and",
+    "the",
+    "by",
+    "it"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "aegis",
+    "emerges",
+    "two",
+    "sources",
+    "mean",
+    "opposite",
+    "things"
+   ],
+   "added": [],
+   "dropped": []
+  }
+ },
+ "C4": {
+  "question": "the blind spot has two bearers, and the documents do not know about each other",
+  "new": [
+   "blind",
+   "spot",
+   "two",
+   "bearers",
+   "documents",
+   "know",
+   "about",
+   "each",
+   "other"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "blind",
+    "spot",
+    "has",
+    "two",
+    "bearers",
+    "documents",
+    "not",
+    "know",
+    "about",
+    "each",
+    "other"
+   ],
+   "added": [],
+   "dropped": [
+    "has",
+    "not"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "the",
+    "blind",
+    "spot",
+    "has",
+    "two",
+    "bearers",
+    "and",
+    "the",
+    "documents",
+    "do",
+    "not",
+    "know",
+    "about",
+    "each",
+    "other"
+   ],
+   "added": [],
+   "dropped": [
+    "the",
+    "has",
+    "and",
+    "do",
+    "not"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "blind",
+    "spot",
+    "two",
+    "bearers",
+    "documents",
+    "do",
+    "know",
+    "about",
+    "each",
+    "other"
+   ],
+   "added": [],
+   "dropped": [
+    "do"
+   ]
+  }
+ },
+ "C5": {
+  "question": "a world in one document is a place inside that world in another",
+  "new": [
+   "world",
+   "one",
+   "document",
+   "place",
+   "inside",
+   "another"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "world",
+    "one",
+    "document",
+    "place",
+    "inside",
+    "that",
+    "another"
+   ],
+   "added": [],
+   "dropped": [
+    "that"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "a",
+    "world",
+    "in",
+    "one",
+    "document",
+    "is",
+    "a",
+    "place",
+    "inside",
+    "that",
+    "world",
+    "in",
+    "another"
+   ],
+   "added": [],
+   "dropped": [
+    "a",
+    "in",
+    "is",
+    "that"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "world",
+    "one",
+    "document",
+    "place",
+    "inside",
+    "world",
+    "another"
+   ],
+   "added": [],
+   "dropped": []
+  }
+ },
+ "C6": {
+  "question": "five Guardians, one per world; or two, and `KEIN Guardian-1:1`",
+  "new": [
+   "five",
+   "guardians",
+   "one",
+   "per",
+   "world",
+   "two",
+   "kein",
+   "guardian-1"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "five",
+    "guardians",
+    "one",
+    "per",
+    "world",
+    "two",
+    "kein",
+    "guardian-1"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "five",
+    "guardians",
+    "one",
+    "per",
+    "world",
+    "or",
+    "two",
+    "and",
+    "kein",
+    "guardian",
+    "1",
+    "1"
+   ],
+   "added": [
+    "guardian-1"
+   ],
+   "dropped": [
+    "or",
+    "and",
+    "guardian",
+    "1"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "five",
+    "guardians",
+    "one",
+    "per",
+    "world",
+    "two",
+    "kein",
+    "guardian"
+   ],
+   "added": [
+    "guardian-1"
+   ],
+   "dropped": [
+    "guardian"
+   ]
+  }
+ },
+ "C7": {
+  "question": "Juna appears once in Kap 33, or first in Kap 38",
+  "new": [
+   "juna",
+   "appears",
+   "once",
+   "kap",
+   "33",
+   "first",
+   "38"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "juna",
+    "appears",
+    "once",
+    "kap",
+    "first"
+   ],
+   "added": [
+    "33",
+    "38"
+   ],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "juna",
+    "appears",
+    "once",
+    "in",
+    "kap",
+    "33",
+    "or",
+    "first",
+    "in",
+    "kap",
+    "38"
+   ],
+   "added": [],
+   "dropped": [
+    "in",
+    "or"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "juna",
+    "appears",
+    "once",
+    "kap",
+    "33",
+    "first",
+    "kap",
+    "38"
+   ],
+   "added": [],
+   "dropped": []
+  }
+ },
+ "C8": {
+  "question": "Be-er or Do-er",
+  "new": [
+   "be-er",
+   "do-er"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "be-er",
+    "do-er"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "be",
+    "er",
+    "or",
+    "do",
+    "er"
+   ],
+   "added": [
+    "be-er",
+    "do-er"
+   ],
+   "dropped": [
+    "be",
+    "er",
+    "or",
+    "do"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "do"
+   ],
+   "added": [
+    "be-er",
+    "do-er"
+   ],
+   "dropped": [
+    "do"
+   ]
+  }
+ },
+ "C9": {
+  "question": "the whole simulation, or KW1",
+  "new": [
+   "whole",
+   "simulation",
+   "kw1"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "whole",
+    "simulation",
+    "kw1"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "the",
+    "whole",
+    "simulation",
+    "or",
+    "kw1"
+   ],
+   "added": [],
+   "dropped": [
+    "the",
+    "or"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "whole",
+    "simulation",
+    "kw1"
+   ],
+   "added": [],
+   "dropped": []
+  }
+ },
+ "Q1": {
+  "question": "How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?",
+  "new": [
+   "guardians",
+   "relate",
+   "aegis",
+   "components",
+   "peers",
+   "design",
+   "replaced"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "guardians",
+    "relate",
+    "aegis",
+    "components",
+    "peers",
+    "design",
+    "replaced"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "how",
+    "do",
+    "the",
+    "guardians",
+    "relate",
+    "to",
+    "aegis",
+    "components",
+    "of",
+    "it",
+    "peers",
+    "or",
+    "a",
+    "design",
+    "it",
+    "replaced"
+   ],
+   "added": [],
+   "dropped": [
+    "how",
+    "do",
+    "the",
+    "to",
+    "of",
+    "it",
+    "or",
+    "a"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "do",
+    "guardians",
+    "relate",
+    "aegis",
+    "components",
+    "peers",
+    "design",
+    "replaced"
+   ],
+   "added": [],
+   "dropped": [
+    "do"
+   ]
+  }
+ },
+ "Q2": {
+  "question": "Do the seven protocol terms ever appear as project vocabulary, or do they only ever appear as objects of criticism?",
+  "new": [
+   "seven",
+   "protocol",
+   "terms",
+   "ever",
+   "appear",
+   "project",
+   "vocabulary",
+   "only",
+   "objects",
+   "criticism"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "seven",
+    "protocol",
+    "terms",
+    "ever",
+    "appear",
+    "project",
+    "vocabulary",
+    "they",
+    "only",
+    "objects",
+    "criticism"
+   ],
+   "added": [],
+   "dropped": [
+    "they"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "do",
+    "the",
+    "seven",
+    "protocol",
+    "terms",
+    "ever",
+    "appear",
+    "as",
+    "project",
+    "vocabulary",
+    "or",
+    "do",
+    "they",
+    "only",
+    "ever",
+    "appear",
+    "as",
+    "objects",
+    "of",
+    "criticism"
+   ],
+   "added": [],
+   "dropped": [
+    "do",
+    "the",
+    "as",
+    "or",
+    "they",
+    "of"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "do",
+    "seven",
+    "protocol",
+    "terms",
+    "ever",
+    "appear",
+    "project",
+    "vocabulary",
+    "do",
+    "only",
+    "ever",
+    "appear",
+    "objects",
+    "criticism"
+   ],
+   "added": [],
+   "dropped": [
+    "do"
+   ]
+  }
+ },
+ "Q3": {
+  "question": "How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?",
+  "new": [
+   "many",
+   "kern-welten",
+   "exist",
+   "alters",
+   "one",
+   "kern-welt",
+   "correspond",
+   "alter"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "many",
+    "kern-welten",
+    "exist",
+    "alters",
+    "does",
+    "one",
+    "kern-welt",
+    "correspond",
+    "alter"
+   ],
+   "added": [],
+   "dropped": [
+    "does"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "how",
+    "many",
+    "kern",
+    "welten",
+    "exist",
+    "how",
+    "many",
+    "alters",
+    "and",
+    "does",
+    "one",
+    "kern",
+    "welt",
+    "correspond",
+    "to",
+    "one",
+    "alter"
+   ],
+   "added": [
+    "kern-welten",
+    "kern-welt"
+   ],
+   "dropped": [
+    "how",
+    "kern",
+    "welten",
+    "and",
+    "does",
+    "welt",
+    "to"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "many",
+    "kern",
+    "welten",
+    "exist",
+    "many",
+    "alters",
+    "does",
+    "one",
+    "kern",
+    "welt",
+    "correspond",
+    "one",
+    "alter"
+   ],
+   "added": [
+    "kern-welten",
+    "kern-welt"
+   ],
+   "dropped": [
+    "kern",
+    "welten",
+    "does",
+    "welt"
+   ]
+  }
+ },
+ "Q4": {
+  "question": "Which of the four things the corpus calls Wächter is the term, and how do the pages avoid claiming the word?",
+  "new": [
+   "four",
+   "things",
+   "corpus",
+   "calls",
+   "wächter",
+   "term",
+   "pages",
+   "avoid",
+   "claiming",
+   "word"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "four",
+    "things",
+    "corpus",
+    "calls",
+    "wächter",
+    "term",
+    "pages",
+    "avoid",
+    "claiming",
+    "word"
+   ],
+   "added": [],
+   "dropped": []
+  },
+  "kg.search": {
+   "old": [
+    "which",
+    "of",
+    "the",
+    "four",
+    "things",
+    "the",
+    "corpus",
+    "calls",
+    "wächter",
+    "is",
+    "the",
+    "term",
+    "and",
+    "how",
+    "do",
+    "the",
+    "pages",
+    "avoid",
+    "claiming",
+    "the",
+    "word"
+   ],
+   "added": [],
+   "dropped": [
+    "which",
+    "of",
+    "the",
+    "is",
+    "and",
+    "how",
+    "do"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "four",
+    "things",
+    "corpus",
+    "calls",
+    "wächter",
+    "term",
+    "do",
+    "pages",
+    "avoid",
+    "claiming",
+    "word"
+   ],
+   "added": [],
+   "dropped": [
+    "do"
+   ]
+  }
+ },
+ "Q5": {
+  "question": "Five Guardians, four Kern-Welten — is each Guardian paired with a world, and what is the Erasure-Pol?",
+  "new": [
+   "five",
+   "guardians",
+   "four",
+   "kern-welten",
+   "each",
+   "guardian",
+   "paired",
+   "world",
+   "erasure-pol"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "five",
+    "guardians",
+    "four",
+    "kern-welten",
+    "each",
+    "guardian",
+    "paired",
+    "with",
+    "world",
+    "erasure-pol"
+   ],
+   "added": [],
+   "dropped": [
+    "with"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "five",
+    "guardians",
+    "four",
+    "kern",
+    "welten",
+    "is",
+    "each",
+    "guardian",
+    "paired",
+    "with",
+    "a",
+    "world",
+    "and",
+    "what",
+    "is",
+    "the",
+    "erasure",
+    "pol"
+   ],
+   "added": [
+    "kern-welten",
+    "erasure-pol"
+   ],
+   "dropped": [
+    "kern",
+    "welten",
+    "is",
+    "with",
+    "a",
+    "and",
+    "what",
+    "the",
+    "erasure",
+    "pol"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "five",
+    "guardians",
+    "four",
+    "kern",
+    "welten",
+    "each",
+    "guardian",
+    "paired",
+    "world",
+    "erasure",
+    "pol"
+   ],
+   "added": [
+    "kern-welten",
+    "erasure-pol"
+   ],
+   "dropped": [
+    "kern",
+    "welten",
+    "erasure",
+    "pol"
+   ]
+  }
+ },
+ "Q6": {
+  "question": "How do the Nexus, the Überraum and the Überwelt relate — one space, one inside another, or three — and does any source say so?",
+  "new": [
+   "nexus",
+   "überraum",
+   "überwelt",
+   "relate",
+   "one",
+   "space",
+   "inside",
+   "another",
+   "three",
+   "any",
+   "source",
+   "say"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "nexus",
+    "überraum",
+    "überwelt",
+    "relate",
+    "one",
+    "space",
+    "inside",
+    "another",
+    "three",
+    "does",
+    "any",
+    "source",
+    "say"
+   ],
+   "added": [],
+   "dropped": [
+    "does"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "how",
+    "do",
+    "the",
+    "nexus",
+    "the",
+    "überraum",
+    "and",
+    "the",
+    "überwelt",
+    "relate",
+    "one",
+    "space",
+    "one",
+    "inside",
+    "another",
+    "or",
+    "three",
+    "and",
+    "does",
+    "any",
+    "source",
+    "say",
+    "so"
+   ],
+   "added": [],
+   "dropped": [
+    "how",
+    "do",
+    "the",
+    "and",
+    "or",
+    "does",
+    "so"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "do",
+    "nexus",
+    "überraum",
+    "überwelt",
+    "relate",
+    "one",
+    "space",
+    "one",
+    "inside",
+    "another",
+    "three",
+    "does",
+    "any",
+    "source",
+    "say"
+   ],
+   "added": [],
+   "dropped": [
+    "do",
+    "does"
+   ]
+  }
+ },
+ "Q7": {
+  "question": "What does the number 734 name inside the simulation — Komponente 734, Kael's designation; Wohneinheit 734, his dwelling; both on purpose, or something else — and does any source say?",
+  "new": [
+   "number",
+   "734",
+   "name",
+   "inside",
+   "simulation",
+   "komponente",
+   "kael",
+   "designation",
+   "wohneinheit",
+   "his",
+   "dwelling",
+   "both",
+   "purpose",
+   "something",
+   "else",
+   "any",
+   "source",
+   "say"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "does",
+    "number",
+    "734",
+    "name",
+    "inside",
+    "simulation",
+    "komponente",
+    "kael",
+    "designation",
+    "wohneinheit",
+    "his",
+    "dwelling",
+    "both",
+    "purpose",
+    "something",
+    "else",
+    "any",
+    "source",
+    "say"
+   ],
+   "added": [],
+   "dropped": [
+    "does"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "what",
+    "does",
+    "the",
+    "number",
+    "734",
+    "name",
+    "inside",
+    "the",
+    "simulation",
+    "komponente",
+    "734",
+    "kael",
+    "s",
+    "designation",
+    "wohneinheit",
+    "734",
+    "his",
+    "dwelling",
+    "both",
+    "on",
+    "purpose",
+    "or",
+    "something",
+    "else",
+    "and",
+    "does",
+    "any",
+    "source",
+    "say"
+   ],
+   "added": [],
+   "dropped": [
+    "what",
+    "does",
+    "the",
+    "s",
+    "on",
+    "or",
+    "and"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "does",
+    "number",
+    "734",
+    "name",
+    "inside",
+    "simulation",
+    "komponente",
+    "734",
+    "kael",
+    "designation",
+    "wohneinheit",
+    "734",
+    "his",
+    "dwelling",
+    "both",
+    "purpose",
+    "something",
+    "else",
+    "does",
+    "any",
+    "source",
+    "say"
+   ],
+   "added": [],
+   "dropped": [
+    "does"
+   ]
+  }
+ },
+ "Q8": {
+  "question": "What is AEGIS after the Vortex's fifth beat — a living relic, extinguished, transformed, taken over by a plural form — and does Oblivion take over its function inside Kael?",
+  "new": [
+   "aegis",
+   "after",
+   "vortex",
+   "fifth",
+   "beat",
+   "living",
+   "relic",
+   "extinguished",
+   "transformed",
+   "taken",
+   "over",
+   "plural",
+   "form",
+   "oblivion",
+   "take",
+   "function",
+   "inside",
+   "kael"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "aegis",
+    "after",
+    "vortex",
+    "fifth",
+    "beat",
+    "living",
+    "relic",
+    "extinguished",
+    "transformed",
+    "taken",
+    "over",
+    "plural",
+    "form",
+    "does",
+    "oblivion",
+    "take",
+    "its",
+    "function",
+    "inside",
+    "kael"
+   ],
+   "added": [],
+   "dropped": [
+    "does",
+    "its"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "what",
+    "is",
+    "aegis",
+    "after",
+    "the",
+    "vortex",
+    "s",
+    "fifth",
+    "beat",
+    "a",
+    "living",
+    "relic",
+    "extinguished",
+    "transformed",
+    "taken",
+    "over",
+    "by",
+    "a",
+    "plural",
+    "form",
+    "and",
+    "does",
+    "oblivion",
+    "take",
+    "over",
+    "its",
+    "function",
+    "inside",
+    "kael"
+   ],
+   "added": [],
+   "dropped": [
+    "what",
+    "is",
+    "the",
+    "s",
+    "a",
+    "by",
+    "and",
+    "does",
+    "its"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "aegis",
+    "after",
+    "vortex",
+    "fifth",
+    "beat",
+    "living",
+    "relic",
+    "extinguished",
+    "transformed",
+    "taken",
+    "over",
+    "plural",
+    "form",
+    "does",
+    "oblivion",
+    "take",
+    "over",
+    "function",
+    "inside",
+    "kael"
+   ],
+   "added": [],
+   "dropped": [
+    "does"
+   ]
+  }
+ },
+ "Q9": {
+  "question": "Where is the Moonshine-Link's boundary — what can it carry across from the Externe Ebene, who inside Kael's system can feel it besides Silas and where, and is it exclusive to Kael and Juna or universal?",
+  "new": [
+   "where",
+   "moonshine-link",
+   "boundary",
+   "carry",
+   "across",
+   "externe",
+   "ebene",
+   "inside",
+   "kael",
+   "system",
+   "feel",
+   "besides",
+   "silas",
+   "exclusive",
+   "juna",
+   "universal"
+  ],
+  "ask/bm25rel (askdb.fts_query)": {
+   "old": [
+    "where",
+    "moonshine-link",
+    "boundary",
+    "can",
+    "carry",
+    "across",
+    "from",
+    "externe",
+    "ebene",
+    "inside",
+    "kael",
+    "system",
+    "feel",
+    "besides",
+    "silas",
+    "where",
+    "exclusive",
+    "juna",
+    "universal"
+   ],
+   "added": [],
+   "dropped": [
+    "can",
+    "from"
+   ]
+  },
+  "kg.search": {
+   "old": [
+    "where",
+    "is",
+    "the",
+    "moonshine",
+    "link",
+    "s",
+    "boundary",
+    "what",
+    "can",
+    "it",
+    "carry",
+    "across",
+    "from",
+    "the",
+    "externe",
+    "ebene",
+    "who",
+    "inside",
+    "kael",
+    "s",
+    "system",
+    "can",
+    "feel",
+    "it",
+    "besides",
+    "silas",
+    "and",
+    "where",
+    "and",
+    "is",
+    "it",
+    "exclusive",
+    "to",
+    "kael",
+    "and",
+    "juna",
+    "or",
+    "universal"
+   ],
+   "added": [
+    "moonshine-link"
+   ],
+   "dropped": [
+    "is",
+    "the",
+    "moonshine",
+    "link",
+    "s",
+    "what",
+    "can",
+    "it",
+    "from",
+    "who",
+    "and",
+    "to",
+    "or"
+   ]
+  },
+  "novelgraph Index.bm25": {
+   "old": [
+    "where",
+    "moonshine",
+    "link",
+    "boundary",
+    "carry",
+    "across",
+    "externe",
+    "ebene",
+    "who",
+    "inside",
+    "kael",
+    "system",
+    "feel",
+    "besides",
+    "silas",
+    "where",
+    "exclusive",
+    "kael",
+    "juna",
+    "universal"
+   ],
+   "added": [
+    "moonshine-link"
+   ],
+   "dropped": [
+    "moonshine",
+    "link",
+    "who"
+   ]
+  }
+ }
+}

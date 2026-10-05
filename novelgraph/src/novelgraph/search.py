@@ -16,10 +16,9 @@ from functools import lru_cache
 import numpy as np
 
 from . import build, chunkers, lex, store
-from .repo import documents, read_jsonl, refresh_documents, catalogue_stat
+from .repo import documents, read_jsonl, refresh_documents, catalogue_stat, query_words
 
 MODES = ("bm25", "vec", "hybrid")
-QWORD = re.compile(r"[^\W_][\w]*", re.UNICODE)
 
 
 class Stale(SystemExit):
@@ -91,7 +90,7 @@ class Index:
 
     # ── the two retrievers ─────────────────────────────────────────────────
     def bm25(self, query: str, n: int) -> list[tuple[int, float]]:
-        words = [w.lower() for w in QWORD.findall(query) if w.lower() not in lex.STOP and len(w) > 1]
+        words = query_words(query)   # the repository's one tokenizer and stop list (askdb.query_words)
         lemmata = lex.query_lemmata(query)
         if not words and not lemmata:
             return []

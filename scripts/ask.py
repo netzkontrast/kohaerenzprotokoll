@@ -43,6 +43,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -59,12 +60,17 @@ SKILL_DIRS = [ROOT / ".agents" / "skills"]
 WINDOW = 3            # lines on each side of an anchor when its paragraph is too long
 PER_PARA = 6          # a paragraph up to 13 lines is shown whole
 PER_DOC = 60          # at most this many lines of one document
-BUDGET = 60_000       # characters of source windows in one pack
+BUDGET = 72_000       # UTF-8 bytes of the whole serialized pack (SPEC.md §4.3; was 60 000 characters of windows alone)
+DOC_SHARE = 4         # one document's block may take at most 1/DOC_SHARE of the bytes left for source windows
 BM25_HITS = 30
 KINDS = ("locate", "position", "compare", "explain")
-# what finds lines for a pack. `he-lines` is measured (`graphlab.py`, `ask.py bench --with he-lines`) before it is on.
-FINDERS = ("graph-evidence", "bm25-lines", "entity-unread", "co-mention", "parallel", "he-lines")
-DEFAULT_FINDERS = FINDERS[:-1]
+# what finds lines for a pack. `he-lines` is measured (`graphlab.py`, `ask.py bench --with he-lines`) before it is on;
+# `novelgraph` (SPEC.md step 6) asks the chunk index in its own venv and is off until it earns a place (gate G2).
+FINDERS = ("graph-evidence", "bm25-lines", "entity-unread", "co-mention", "parallel", "he-lines", "novelgraph")
+DEFAULT_FINDERS = FINDERS[:-2]
+NOVELGRAPH = ROOT / ".venv-novelgraph" / "bin" / "novelgraph"
+NOVELGRAPH_K = 8      # chunks per question, `heading@v1` hybrid — the size `Plan/runs/rlm-chunks-2026-10-01/` kept
+_NOVELGRAPH: dict[str, list[dict]] = {}
 HE_LINES = 40         # at most this many lines of the contracts' readings
 # At most this many paragraphs where the seed terms stand together. 40 until 2026-09-30, when the bench
 # (`Plan/runs/graph-lab-2026-09-30/ask-finders/`) found the finder lowering document recall of the pack by 0.029
@@ -164,6 +170,11 @@ def route(question: str, kind: str, store=None, graph: dict | None = None,
     if "he-lines" in finders:
         for r in s.he_lines([f"term:{t}" if not t.startswith("term:") else t for t in seeds[:6]], limit=HE_LINES):
             anchors.append({"doc": r["slug"], "line": r["line"], "finder": "he-lines"})
+    # chunks of the novelgraph index, every line of each a hit (its own Stale check refuses a changed source)
+    if "novelgraph" in finders:
+        for h in novelgraph_hits([question])[question]:
+            for n in range(h["line_start"], h["line_end"] + 1):
+                anchors.append({"doc": h["slug"], "line": n, "finder": "novelgraph"})
     # the same passage carried into other documents (learned `parallel` hyperedges)
     if "parallel" in finders:
         for a in [a for a in anchors if a["finder"] in ("graph-evidence", "co-mention")][:15]:
@@ -191,10 +202,25 @@ def route(question: str, kind: str, store=None, graph: dict | None = None,
 
 # ── pack ──────────────────────────────────────────────────────────────────────
 
+def novelgraph_hits(questions: list[str], k: int = NOVELGRAPH_K) -> dict[str, list[dict]]:
+    """novelgraph's hybrid hits for each question, from one subprocess that loads the model once (about 10 s
+    cold); remembered for the process. A finder that was asked for and cannot run refuses — never a silent skip."""
+    missing = [q for q in dict.fromkeys(questions) if q not in _NOVELGRAPH]
+    if missing:
+        if not NOVELGRAPH.exists():
+            raise SystemExit("the novelgraph finder needs .venv-novelgraph and a built index (CLAUDE.md, the chunk index)")
+        done = subprocess.run([str(NOVELGRAPH), "search", json.dumps(missing, ensure_ascii=False), "--batch",
+                               "-k", str(k)], capture_output=True, text=True, cwd=ROOT)
+        if done.returncode:
+            raise SystemExit(f"novelgraph search refused: {(done.stderr or done.stdout).strip()[-400:]}")
+        _NOVELGRAPH.update(json.loads(done.stdout))
+    return {q: _NOVELGRAPH[q] for q in questions}
+
+
 def skills_for(question: str, k: int = 2) -> list[dict]:
     """The skills whose description shares the most content words with the question."""
     import askdb
-    words = {w.lower() for w in re.findall(r"\w[\w-]{3,}", question)} - askdb.STOP
+    words = set(askdb.query_words(question, min_len=4))
     scored = []
     for base in SKILL_DIRS:
         for p in sorted(base.glob("*/SKILL.md")):
@@ -215,9 +241,10 @@ def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store
     extraction lab) reuses the same pack, `verify` and `render` rather than a second verifier."""
     import graphrag
     import askdb
+    import pack
     s = store or askdb.Store()
     r = route(question, kind, s, graph, finders, comention, pr_comention)
-    parts, sent, cut, used, shown = [], [], [], 0, {}
+    parts = []
     parts.append(f"# Frage\n\n{question}\n\nArt der Frage: `{kind}`\n")
     parts.append(rules)
     parts.append("## Was das Wiki schon weiß (Graph)\n\n" + graphrag.render(r["evidence"]) + "\n")
@@ -228,45 +255,50 @@ def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store
     when = dates()
     tiers = {r["slug"]: r.get("tier", "") for r in askdb.manifest()}
     windows = ["## Quellen — Zeilen mit ihrer Nummer\n"]
-    for d in r["docs"]:
-        spans = []
-        for line in sorted(d["lines"]):
-            para = s.paragraph(d["doc"], line)
-            lo, hi = (para if para and para[1] - para[0] <= 2 * PER_PARA else (line - WINDOW, line + WINDOW))
-            lo, hi = max(1, min(lo, line - 1)), max(hi, line + 1)
-            if spans and lo <= spans[-1][1] + 1:
-                spans[-1][1] = max(spans[-1][1], hi)
-            else:
-                spans.append([lo, hi])
-        rows, n = [], 0
-        for lo, hi in spans:
-            for number, text in s.window(d["doc"], lo, hi):
+    blocks = []
+    for doc, doc_hits in pack.by_document(pack.hits(r, s)):
+        rows, n, lines = [], 0, []
+        for h in doc_hits:
+            for number, text in s.window(doc, h["line_start"], h["line_end"]):
                 if n >= PER_DOC:
                     break
                 rows.append(f"L{number}: {text}")
-                shown.setdefault(d["doc"], []).append(number)
+                lines.append(number)
                 n += 1
             rows.append("…")
-        read = "gelesen" if d["doc"] in r["evidence_docs"] else "ungelesen"
-        block = (f"\n### `{d['doc']}` — {when.get(d['doc']) or 'undatiert'}, {tiers.get(d['doc'], '')}, {read}; "
-                 f"gefunden von: {', '.join(sorted(d['finders']))}\n\n" + "\n".join(rows) + "\n")
-        if used + len(block) > budget:
-            cut.append(d["doc"])
-            shown.pop(d["doc"], None)
-            continue
-        used += len(block)
-        windows.append(block)
-        sent.append(d["doc"])
-    parts.append("".join(windows))
+        read = "gelesen" if doc in r["evidence_docs"] else "ungelesen"
+        blocks.append({"doc": doc, "lines": lines,
+                       "text": (f"\n### `{doc}` — {when.get(doc) or 'undatiert'}, {tiers.get(doc, '')}, {read}; "
+                                f"gefunden von: {', '.join(doc_hits[0]['finders'])}\n\n" + "\n".join(rows) + "\n")})
     skills = skills_for(question)
     if skills:
-        parts.append("## Passende Skills (Auszug)\n\n" + "\n".join(
-            f"- **{x['skill']}**: {x['description']}" for x in skills) + "\n")
+        skill_part = "## Passende Skills (Auszug)\n\n" + "\n".join(
+            f"- **{x['skill']}**: {x['description']}" for x in skills) + "\n"
+    # the budget covers the whole serialized pack: everything but the windows is fixed and never cut; if it alone
+    # does not fit, the pack is refused. The note naming what was left out is reserved at its longest.
+    fixed = "\n".join(parts + ["".join(windows)] + ([skill_part] if skills else []) + [schema]) + "\n"
+    note = lambda docs: ("\n_Nicht gesendet, das Budget reichte nicht: " + ", ".join(f"`{d}`" for d in docs)  # noqa: E731
+                         + "._\n") if docs else ""
+    room = budget - pack.size(fixed) - pack.size(note([b["doc"] for b in blocks]))
+    if room < 0:
+        raise pack.Refused(f"the question, rules, graph evidence and schema alone need {pack.size(fixed)} bytes; "
+                           f"the budget is {budget}")
+    # no one document may take more than a share of the windows: one block of very long lines once took 44 000 of
+    # 64 000 bytes and pushed 19 documents out (C6); a larger block is left out and named, never truncated
+    cap = room // DOC_SHARE
+    kept, omitted, used = pack.fit(blocks, room, lambda b: pack.size(b["text"]) if pack.size(b["text"]) <= cap else room + 1)
+    windows += [b["text"] for b in kept] + [note([b["doc"] for b in omitted])]
+    sent, cut = [b["doc"] for b in kept], [b["doc"] for b in omitted]
+    shown = {b["doc"]: b["lines"] for b in kept}
+    parts.append("".join(windows))
+    if skills:
+        parts.append(skill_part)
     parts.append(schema)
     text = "\n".join(parts)
     meta = {"id": ask_id(question, kind), "question": question, "kind": kind, "built": now(),
-            "sends_text_of": sent, "cut_by_budget": cut, "budget": budget, "chars": len(text),
-            "window_chars": used, "finders": {d["doc"]: sorted(d["finders"]) for d in r["docs"]},
+            "status": pack.status(kept, omitted), "sends_text_of": sent, "cut_by_budget": cut,
+            "budget": budget, "unit": "bytes", "bytes": pack.size(text), "chars": len(text),
+            "window_bytes": used, "frontmatter_anchors_dropped": pack.frontmatter_anchors(r), "finders": {d["doc"]: sorted(d["finders"]) for d in r["docs"]},
             "seeds": [x["term"] for x in r["evidence"]["seeds"]], "skills": [x["skill"] for x in skills],
             "hash": hashlib.sha256(text.encode()).hexdigest(), "shown": shown}
     return text, meta
@@ -287,7 +319,7 @@ def cmd_pack(question: str, kind: str) -> str:
     (d / "question.txt").write_text(question + "\n", encoding="utf-8")
     (d / "pack.md").write_text(text, encoding="utf-8")
     (d / "pack.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{meta['id']}: {meta['chars']} chars, {len(meta['sends_text_of'])} documents, "
+    print(f"{meta['id']}: {meta['status']}, {meta['bytes']} of {meta['budget']} bytes, {len(meta['sends_text_of'])} documents, "
           f"{len(meta['cut_by_budget'])} cut by budget → {d.relative_to(ROOT)}/pack.md")
     return meta["id"]
 
@@ -604,17 +636,20 @@ def bench_cases() -> list[dict]:
 
 
 def bench(budget: int = BUDGET, finders: tuple[str, ...] = DEFAULT_FINDERS, comention: int = COMENTION,
-          he_lines: int = HE_LINES, pr_comention: float = 0.0) -> dict:
+          he_lines: int = HE_LINES, pr_comention: float = 0.0, live: bool = False) -> dict:
+    """Pack recall on the frozen cases (`benchset.cases`, SPEC.md step 2); `live` reads the records instead."""
     global HE_LINES
     HE_LINES = he_lines
     import askdb
     import graph as kg
     import graphrag
+    import benchset
     s, g = askdb.Store(), kg.build()
     rows = []
-    for c in bench_cases():
-        if not c["gold"]:
-            continue
+    cases = [c for c in benchset.cases(live=live) if c["gold"]]
+    if "novelgraph" in finders:   # one subprocess for all questions; the model loads once
+        novelgraph_hits([c["question"] for c in cases])
+    for c in cases:
         _, meta = build_pack(c["question"], "position", budget, s, graphrag.without(g, c["key"]), finders=finders,
                              comention=comention, pr_comention=pr_comention)
         docs = {d for d, _ in c["gold"]}
@@ -628,12 +663,96 @@ def bench(budget: int = BUDGET, finders: tuple[str, ...] = DEFAULT_FINDERS, come
               f"pack {len(shown):3} docs {meta['chars']:6} chars", flush=True)
     mean = lambda k: round(sum(r[k] for r in rows) / len(rows), 3)
     result = {"cases": len(rows), "doc_recall": mean("doc_recall"), "line_recall": mean("line_recall"),
-              "budget": budget, "finders": list(finders), "comention": comention, "he_lines": he_lines, "pr_comention": pr_comention, "rows": rows}
+              **benchset.identity(live), "budget": budget, "finders": list(finders), "comention": comention, "he_lines": he_lines, "pr_comention": pr_comention, "rows": rows}
     print(f"\n{len(rows)} cases: document recall {result['doc_recall']}, line recall {result['line_recall']}")
     return result
 
 
 # ── self-test ─────────────────────────────────────────────────────────────────
+
+def pack_selftest() -> list[str]:
+    """The pack contract on build_pack itself (SPEC.md §4.3), with routing and the store stubbed: the whole pack fits
+    the byte budget, a document that does not fit is named and the pack says `incomplete`, no one document takes more
+    than its share, a frontmatter anchor is never sent, and a budget the fixed parts alone exceed is refused."""
+    import sys
+    import types
+    import pack
+    import subject
+    fails = []
+    body = {"d": ["a" * 300] * 40, "e": ["ä" * 150] * 40, "f": ["b" * 300] * 40, "s": ["c" * 30] * 40}
+
+    class Store:
+        def paragraph(self, doc, line):
+            return None
+
+        def window(self, doc, lo, hi):
+            return [(n, body[doc][n - 1]) for n in range(lo, hi + 1) if 1 <= n <= len(body[doc])]
+    fake_route = {"evidence": {"seeds": []}, "path": [], "evidence_docs": set(),
+                  "docs": [{"doc": d, "lines": {2, 20} if d == "d" else {20}, "finders": {"bm25-lines"}}
+                           for d in ("d", "e", "f", "s")]}
+    offsets = {"d": 5, "e": 1, "f": 1, "s": 1}
+    g = globals()
+    saved = (g["route"], g["dates"], g["skills_for"], g["DOC_SHARE"], subject.document,
+             {k: sys.modules.get(k) for k in ("askdb", "graphrag")})
+    try:
+        g["route"], g["dates"], g["skills_for"] = (lambda *a, **k: fake_route), (lambda: {}), (lambda q: [])
+        subject.document = lambda slug: types.SimpleNamespace(offset=offsets[slug])
+        sys.modules["askdb"] = types.SimpleNamespace(Store=Store, manifest=lambda: [])
+        sys.modules["graphrag"] = types.SimpleNamespace(render=lambda ev: "(keine)")
+        g["DOC_SHARE"] = 1                      # no share cap: the budget alone decides
+        text, meta = build_pack("Frage?", "explain", 7_000, Store())
+        if pack.size(text) > 7_000 or meta["bytes"] != pack.size(text):
+            fails.append(f"the pack ({pack.size(text)} bytes) is not held to its budget of 7000")
+        if meta["status"] != "incomplete" or meta["cut_by_budget"] != ["f"] or "`f`" not in text.split("## Antwortschema")[0][-400:]:
+            fails.append(f"a document left out was not named in the pack: {meta['status']}, {meta['cut_by_budget']}")
+        if any(n < 5 for n in meta["shown"].get("d", [])) or meta["frontmatter_anchors_dropped"] != 1:
+            fails.append(f"a frontmatter anchor was sent: {meta['shown'].get('d', [])[:5]}")
+        g["DOC_SHARE"] = 4                      # a block over a quarter of the window budget is left out, and named
+        _, capped = build_pack("Frage?", "explain", 7_000, Store())
+        if capped["sends_text_of"] != ["s"] or capped["cut_by_budget"] != ["d", "e", "f"]:
+            fails.append(f"a document over its share was sent: {capped['sends_text_of']}")
+        _, whole = build_pack("Frage?", "explain", 200_000, Store())
+        if whole["status"] != "complete" or whole["cut_by_budget"]:
+            fails.append(f"a pack with room for everything is not complete: {whole['status']}")
+        try:
+            build_pack("Frage?", "explain", 500, Store())
+            fails.append("a budget smaller than the fixed parts was not refused")
+        except pack.Refused:
+            pass
+    finally:
+        g["route"], g["dates"], g["skills_for"], g["DOC_SHARE"], subject.document = saved[:5]
+        for k, v in saved[5].items():
+            if v is None:
+                sys.modules.pop(k, None)
+            else:
+                sys.modules[k] = v
+    return fails
+
+
+def novelgraph_selftest() -> list[str]:
+    """The novelgraph finder's contract without the index: off by default, a remembered answer needs no subprocess,
+    and a finder asked for without its venv refuses instead of being skipped."""
+    fails = []
+    g = globals()
+    saved = (g["NOVELGRAPH"], dict(_NOVELGRAPH))
+    try:
+        if "novelgraph" in DEFAULT_FINDERS or "novelgraph" not in FINDERS:
+            fails.append("novelgraph must be a finder and off by default (SPEC.md step 6, gate G2)")
+        g["NOVELGRAPH"] = ROOT / "no-such-venv" / "novelgraph"
+        _NOVELGRAPH["schon gefragt"] = [{"slug": "d", "line_start": 3, "line_end": 4}]
+        if novelgraph_hits(["schon gefragt"]) != {"schon gefragt": [{"slug": "d", "line_start": 3, "line_end": 4}]}:
+            fails.append("a remembered question was asked again")
+        try:
+            novelgraph_hits(["neu"])
+            fails.append("the finder was skipped silently without its venv")
+        except SystemExit:
+            pass
+    finally:
+        g["NOVELGRAPH"] = saved[0]
+        _NOVELGRAPH.clear()
+        _NOVELGRAPH.update(saved[1])
+    return fails
+
 
 def selftest() -> list[str]:
     fails = []
@@ -761,6 +880,19 @@ def main(argv: list[str]) -> int:
     positional = [a for i, a in enumerate(rest) if not a.startswith("--") and (i == 0 or not rest[i - 1].startswith("--"))]
     backend = opt("--backend", "claude-cli")
     attempt = int(opt("--attempt", 0))
+    if cmd == "novelgraph-selftest":
+        fails = novelgraph_selftest()
+        for f in fails:
+            print("FAIL", f)
+        print(f"ask novelgraph finder: {'held' if not fails else 'FAILED'} (off by default, remembered, refuses without its venv)")
+        return 1 if fails else 0
+    if cmd == "pack-selftest":
+        fails = pack_selftest()
+        for f in fails:
+            print("FAIL", f)
+        print(f"ask pack contract: {'held' if not fails else 'FAILED'} (byte budget over the whole pack, "
+              "incomplete names what it left out, one document's share, no frontmatter anchor, refusal)")
+        return 1 if fails else 0
     if cmd == "selftest":
         fails = selftest()
         for f in fails:
@@ -772,8 +904,8 @@ def main(argv: list[str]) -> int:
         chosen = tuple(f for f in DEFAULT_FINDERS if f not in (opt("--without", "") or "").split(","))
         chosen += tuple(f for f in (opt("--with", "") or "").split(",") if f in FINDERS and f not in chosen)
         co, hl, pc = int(opt("--comention", COMENTION)), int(opt("--he-lines", HE_LINES)), float(opt("--pr-comention", 0.0))
-        res = bench(int(opt("--budget", BUDGET)), chosen, co, hl, pc)
-        tag = "" if chosen == DEFAULT_FINDERS else "-" + "+".join(f.replace("-", "") for f in chosen)[:60]
+        res = bench(int(opt("--budget", BUDGET)), chosen, co, hl, pc, live="--live" in rest)
+        tag = ("-live" if "--live" in rest else "") + ("" if chosen == DEFAULT_FINDERS else "-" + "+".join(f.replace("-", "") for f in chosen)[:60])
         tag += (f"-co{co}" if co != COMENTION else "") + (f"-he{hl}" if hl != HE_LINES else "") + (f"-pr{pc:g}" if pc else "")
         # the store the bench ran on is in the name: the same finders on a later store are another measurement, and
         # a run on the same day no longer overwrites the record of the one before it (the first scaled-pass benches did)

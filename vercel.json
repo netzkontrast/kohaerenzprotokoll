@@ -1,0 +1,19 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "true",
+  "buildCommand": "python3 scripts/web.py",
+  "outputDirectory": "Plan/derived/web",
+  "cleanUrls": false,
+  "rewrites": [
+    { "source": "/", "destination": "/Main.dc.html" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+      ]
+    }
+  ]
+}

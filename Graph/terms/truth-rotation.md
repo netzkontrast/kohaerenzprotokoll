@@ -22,6 +22,7 @@ Wiki-Verlinkungen zeigen eine Verbindung zwischen Seiten; sie behaupten keine Gl
 - [Kishōtenketsu](../terms/kishotenketsu.md)
 - [Kohärenz](../terms/kohaerenz.md)
 - [Kohärenz-Kernel (K₁)](../terms/kohaerenz-kernel.md)
+- [Multiplizität](../terms/multiplizitaet.md)
 - [Nichts-Rauschen](../terms/nichts-rauschen.md)
 - [Oblivion](../terms/oblivion.md)
 - [Ouroboros-Struktur](../terms/ouroboros-struktur.md)
@@ -47,6 +48,7 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Dual_Storyform_Hintergruende.md](../../Sources/drive/dual-storyform-hintergruende-md.md) | 2026-05-08 | ja | ja |
 | [Editorial Style Dossier: Somatic and Linguistic Implementation of the Kael System](../../Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md) | 2026-05-08 | ja | ja |
 | [Kapitel-Kompendium_Gather_2026-05-31.md](../../Sources/drive/kapitel-kompendium-gather-2026-05-31-md.md) | 2026-05-30 | ja | ja |
+| [Kohärenz-Protokoll Audit und Verifizierung](../../Sources/drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | ja | ja |
 | [kohaerenz-protokoll_begriffe-und-konzepte_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [kohaerenz_protokoll_konzept_master.md](../../Sources/drive/kohaerenz-protokoll-konzept-master-md.md) | 2026-05-08 | ja | ja |
 | [kohaerenz-protokoll-philosophischer-bericht.md](../../Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md) | 2026-05-08 | ja | ja |

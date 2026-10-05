@@ -27,6 +27,7 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 |---|---|---|---|
 | [Entropie aegis](../../Sources/drive/entropie-aegis.md) | 2025-04-17 | ja | ja |
 | [Hard-SF-Roman-Outline: DKT-Physik, Cosmic Horror](../../Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md) | 2026-04-08 | ja | ja |
+| [KI-Narrative: Kollaps, Kohärenz, Paradoxie](../../Sources/drive/ki-narrative-kollaps-kohaerenz-paradoxie.md) | 2026-03-01 | ja | ja |
 | [kohaerenz-protokoll_kernwelten-vollstaendig_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [Kohärenzprotokoll: AEGIS und Systementropie](../../Sources/drive/kohaerenzprotokoll-aegis-und-systementropie.md) | 2025-04-19 | ja | ja |
 | [Mining Report: "Kohärenz Protokoll" — Narrative Building Blocks & Structural Seeds](../../Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md) | 2026-05-08 | ja | ja |

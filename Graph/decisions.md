@@ -44,4 +44,7 @@ Die verlinkten Akten enthalten das Urteil und seine Reichweite; ein Dateiname is
 - [016 — Decision sheets are cross-read first and put to the author in rounds](../Plan/decisions/016-decision-sheets-worked-in-rounds.md)
 - [017 — `ask` answers are logged and treated like sources; OpenRouter and Jules may answer](../Plan/decisions/017-ask-answers-are-sources.md)
 - [018 — The open process questions, answered by the session on the author's delegation](../Plan/decisions/018-remaining-questions-by-delegation.md)
+- [019 — The HyperExtract backfill is stopped after 14 of 137 runs](../Plan/decisions/019-the-hyperextract-backfill-stopped.md)
+- [020 — HyperExtract is ported into the pipeline; the upstream package only checks the port](../Plan/decisions/020-hyperextract-ported.md)
+- [021 — `SPEC.md` is the project's architecture; E4 may run; `GOAL.md` is annotated](../Plan/decisions/021-the-architecture-spec-adopted.md)
 - [`Plan/decisions/` — one file per decision, kept for good](../Plan/decisions/README.md)

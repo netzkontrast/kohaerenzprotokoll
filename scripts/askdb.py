@@ -312,7 +312,8 @@ def publish(data, db, hashes, lines, verify_inputs=False):
             conn.execute("INSERT INTO kp_evidence VALUES (?,?)", (key, compact(row)))
             if row["status"] == "verified":
                 conn.execute("INSERT INTO kp_fts VALUES (?,?,?,?)", (key, row["quote"], row["page"], row.get("section") or ""))
-        meta = {"version": SCHEMA_VERSION, "inputs": hashes,
+        # kp_meta describes the graph for kg.py; the inputs are recorded once, as stats.input_hash below
+        meta = {"version": SCHEMA_VERSION,
                 "core_nodes": len(data["core"]["nodes"]), "core_edges": len(data["core"]["edges"]),
                 "evidence": len(data["evidence"]),
                 "verified": sum(r["status"] == "verified" for r in data["evidence"].values())}
@@ -414,8 +415,9 @@ def content_hash(data: dict, tables: str) -> str:
     return h.hexdigest()
 
 
-def fresh(db: Path = DB) -> str | None:
-    """None when the store was built from the files as they are now, else why not."""
+def fresh(db: Path = DB, root: Path = ROOT) -> str | None:
+    """None when the store was built from the files as they are now, else why not. The store's one freshness
+    record (`meta.stats.input_hash`); `kg.freshness` asks this, it keeps none of its own (SPEC.md step 3)."""
     name = db.relative_to(ROOT) if db.is_relative_to(ROOT) else db
     if not db.exists():
         return f"{name} does not exist: run askdb.py build"
@@ -426,7 +428,7 @@ def fresh(db: Path = DB) -> str | None:
     if stored.get("version") != SCHEMA_VERSION:
         return f"{name} has an old schema: run askdb.py build"
     have = stored.get("input_hash")
-    if have != input_hash():
+    if have != hashlib.sha256(compact(inputs(root)).encode()).hexdigest():
         return (f"{name} is stale: its inputs changed since it was built "
                 "(or it predates input hashes); run askdb.py build")
     return None
@@ -620,15 +622,27 @@ class Store:
                                 "ORDER BY line", (slug, first, last)).fetchall()
 
 
-STOP = set("der die das und oder ein eine einer eines ist sind wird werden wie was wer wann wo "
-           "warum welche welcher welches mit von zu im in am an auf aus für bei nicht nur auch "
-           "the a an of and or is are to in on for what when who how why which".split())
+# the one stop list of the lexical finders (SPEC.md step 5): what askdb, novelgraph's lex.py and the question words
+# of ask.skills_for each kept apart before — German and English function words, never a term of the novel
+STOP = set("der die das den dem des und oder aber ein eine einer eines einem einen ist sind war wird werden wurde "
+           "sei sein hat haben kann wie was wer wann wo warum welche welcher welches mit von zu zum zur im in am an "
+           "auf aus für bei nicht nur auch als es er sie sich dass nach um noch über so vor bis mehr durch man ihre "
+           "seine diese dieser dieses wenn "
+           "the a an of and or but is are was were be been to in on at by for from with as into than that this these "
+           "it its their they we not what when who how why which have has can will such more do does did".split())
+WORD = re.compile(r"[^\W_][\w-]*", re.UNICODE)
+
+
+def query_words(text: str, min_len: int = 2) -> list[str]:
+    """The content words of a query — lowercased, in order, each once, no stop word, at least `min_len` characters.
+    The one tokenizer every lexical finder asks (`fts_query`, `kg.search`, novelgraph's `Index.bm25`,
+    `ask.skills_for`); two characters keep the corpus' short names (KI, K0, KW)."""
+    return list(dict.fromkeys(w.lower() for w in WORD.findall(text) if len(w) >= min_len and w.lower() not in STOP))
 
 
 def fts_query(text: str) -> str:
     """Content words as an OR query, each quoted, so no FTS5 syntax slips in."""
-    words = [w for w in re.findall(r"\w[\w-]*", text) if len(w) > 2 and w.lower() not in STOP]
-    return " OR ".join(f'"{w}"' for w in dict.fromkeys(words))
+    return " OR ".join('"' + w.replace('"', '""') + '"' for w in query_words(text))
 
 
 # ── the decision sheets as a graph (§3.8) ─────────────────────────────────────
@@ -679,8 +693,11 @@ def selftest() -> list[str]:
     named = sheet_names("[C12](../../Wiki/conflicts/c12-genesis-beats.md), Q7, [[vortex]] ^[kontext-outline.md:L26] W12 C8b")
     if named != {"conflict:C12", "question:Q7", "term:vortex", "doc:kontext-outline"}:
         fails.append(f"sheet_names: {sorted(named)}")
+    got = query_words('Do Kael\'s KI-Kerne in Kap 36 not leak? the KI-Kerne again')
+    if got != ["kael", "ki-kerne", "kap", "36", "leak", "again"]:
+        fails.append(f"query_words: stop words, short names, numbers, hyphens or order wrong: {got}")
     probe = fts_query('Juna AND "x" NEAR(')
-    if probe != '"Juna" OR "NEAR"':
+    if probe != '"juna" OR "near"':   # lowercased by query_words; FTS5 matches case-insensitively
         fails.append(f"fts_query leaked syntax: {probe!r}")
     with tempfile.TemporaryDirectory() as d:
         db = Path(d) / "t.db"

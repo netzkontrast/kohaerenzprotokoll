@@ -56,6 +56,7 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Dual_Storyform_Hintergruende.md](../../Sources/drive/dual-storyform-hintergruende-md.md) | 2026-05-08 | ja | ja |
 | [Kapitel-Kompendium_Gather_2026-05-31.md](../../Sources/drive/kapitel-kompendium-gather-2026-05-31-md.md) | 2026-05-30 | ja | ja |
 | [kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md) | 2026-06-10 | ja | ja |
+| [Kohärenz-Protokoll Audit und Verifizierung](../../Sources/drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | ja | ja |
 | [kohaerenz-protokoll_begriffe-und-konzepte_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [Kohaerenz_Protokoll_Charakter_Bibel_2026-05-08.md](../../Sources/drive/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md) | 2026-05-08 | ja | ja |
 | [kohaerenz-protokoll_kernwelten-vollstaendig_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md) | 2026-06-10 | ja | ja |
