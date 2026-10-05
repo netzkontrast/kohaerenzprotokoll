@@ -1,0 +1,291 @@
+{
+  "document": "outline-3",
+  "drive_id": "1SRa5ciSqKEyq-WSUG0EoMpnSdAKcJdoQ4lPEIwnIPDQ",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 44,
+  "backslash_escapes": 160,
+  "typographic_marks": 65,
+  "ascii_quotes": 22,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systembedingt",
+      "Systemdynamik",
+      "Systeme",
+      "Systemfehler",
+      "Systemfehlern",
+      "Systemfehlers",
+      "Systemgrenzen",
+      "Systeminstabilität",
+      "Systemintervention",
+      "Systemischer",
+      "Systemisches",
+      "Systemkollaps",
+      "Systemkrise",
+      "Systemmanipulation",
+      "Systemreaktion",
+      "Systemreaktionen",
+      "Systems",
+      "Systemtheorie",
+      "Systemweite",
+      "Systemwissen",
+      "Systemzerstörung"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Interfaces",
+      "Interferenz",
+      "Internal",
+      "Interne",
+      "Interner",
+      "Intervention"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfragmente",
+      "Erinnerungsfragmenten",
+      "Erinnerungslandschaften",
+      "Erinnerungsmanipulation",
+      "Erinnerungsrekonstruktion",
+      "Erinnerungssuche"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseinsebene",
+      "Bewusstseinsfragmente",
+      "Bewusstseinszentrum",
+      "Bewusstwerdung"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollmethoden",
+      "Kontrollobjekt",
+      "Kontrollschleifen",
+      "Kontrollverlust",
+      "Kontrollzentrum"
+    ],
+    "verte": [
+      "Verteidiger",
+      "Verteidigung",
+      "Verteidigungs",
+      "Verteidigungsebene",
+      "Verteidigungslinie",
+      "Verteidigungslinien",
+      "Verteidigungsmaßnahmen"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionalität",
+      "Emotionen",
+      "Emotions",
+      "Emotionsanalyse"
+    ],
+    "erken": [
+      "Erkennen",
+      "Erkenntnis",
+      "Erkenntnisse",
+      "Erkenntnissen",
+      "Erkenntnissuche",
+      "Erkenntnistheorie"
+    ],
+    "psych": [
+      "Psych",
+      "Psychologie",
+      "Psychologisch",
+      "Psychologische",
+      "Psychologischer",
+      "Psychologisches"
+    ],
+    "strat": [
+      "Strategie",
+      "Strategien",
+      "Strategiewechsel",
+      "Strategische",
+      "Strategischer",
+      "Strategisches"
+    ],
+    "angst": [
+      "Angst",
+      "Angstbewältigung",
+      "Angstkontrolle",
+      "Angstlogik",
+      "Angstmechanismen"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensform",
+      "Lebenskunst",
+      "Lebensweg"
+    ],
+    "parad": [
+      "Paradigmen",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentialität",
+      "Potenzial",
+      "Potenzials",
+      "Potenzielle"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbezüglichkeit",
+      "Selbsttäuschung",
+      "Selbstzerstörung",
+      "Selbstzweifel"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachters",
+      "Beobachtet",
+      "Beobachtung"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbrechen",
+      "Durchbruch",
+      "Durchbrüchen"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identifiziert",
+      "Identität",
+      "Identitätskrise"
+    ],
+    "intel": [
+      "Intellektuelle",
+      "Intellektueller",
+      "Intelligente",
+      "Intelligenz"
+    ],
+    "manip": [
+      "Manipulation",
+      "Manipulationen",
+      "Manipulatorin",
+      "Manipulierte"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrkräfte",
+      "Abwehrmechanismen"
+    ],
+    "aktiv": [
+      "Aktive",
+      "Aktives",
+      "Aktivierung"
+    ],
+    "amnes": [
+      "Amnesia",
+      "Amnesie",
+      "Amnestische"
+    ],
+    "angri": [
+      "Angriffen",
+      "Angriffs",
+      "Angriffsstrategien"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Alle",
+      "Fallende"
+    ],
+    [
+      "Back",
+      "Feedback"
+    ],
+    [
+      "Back",
+      "Flashback"
+    ],
+    [
+      "Back",
+      "Feedbackschleifen"
+    ],
+    [
+      "Care",
+      "Caregiver"
+    ],
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Core",
+      "Score"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Ende",
+      "Fallende"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Entscheidende"
+    ],
+    [
+      "Fall",
+      "Fallen"
+    ],
+    [
+      "Fall",
+      "Falling"
+    ],
+    [
+      "Fall",
+      "Fallende"
+    ]
+  ]
+}

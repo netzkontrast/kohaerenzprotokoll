@@ -1,0 +1,121 @@
+# counts for 93 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           153 word   159 in   [17, 21, 23, 24, 25, 39]
+                                    3      as AEGIS-Überwelt
+                                    1      as AEGIS-Basiskontrolle
+                                    1      as AEGIS-Paradoxon
+                                    1      as AEGIS-Kern
+  Komponente 734                    3 word     3 in   [17, 551]
+  Vorläufer-Ich                     1 word     1 in   [17]
+  Nichts Rauschen                   2 word     2 in   [17, 24]
+  Echo                              4 word     8 in   [17, 22, 119, 265, 405, 551]
+                                    4      as Echos
+  Kohärenz Protokoll                1 word     1 in   [17]
+  System Kael                       1 word     1 in   [17]
+  Schutz-Clustern                   1 word     1 in   [17]
+  Juna/V                           33 word    33 in   [17, 25, 195, 201, 203, 235]
+  Kael                            148 word   160 in   [17, 22, 25, 35, 40, 43]
+                                   12      as Kaels
+  Host                              3 word     4 in   [35, 40, 99, 104]
+                                    1      as Host-Dominanz
+  Lex                              26 word    26 in   [35, 40, 51, 55, 56, 67]
+  Alex                             19 word    19 in   [67, 71, 72, 74, 77, 83]
+  Rhys                             18 word    18 in   [83, 87, 88, 89, 104, 120]
+  Nyx                               4 word     4 in   [163, 168, 389, 519]
+  Kiko                             10 word    10 in   [99, 104, 115, 120, 163, 168]
+  Lia                               2 word     2 in   [115, 120]
+  Moros                             4 word     4 in   [99, 104, 115, 120]
+  Selene                            9 word    11 in   [22, 184, 357, 362, 437, 442]
+                                    1      as Selene-Potenzial
+                                    1      as Selenes
+  Argus                            12 word    12 in   [195, 200, 216, 245, 250, 266]
+  ANP                               4 word    16 in   [55, 59, 72, 75, 83, 88]  <-- substring
+  ANPs                              9 word     9 in   [59, 72, 83, 88, 115, 120]
+  EP                                2 word    21 in   [83, 88, 91, 99, 104, 107]  <-- substring
+  EPs                              13 word    14 in   [83, 88, 91, 104, 115, 119]
+  TSDP                              1 word     2 in   [39, 135]
+                                    1      as TSDP-Dynamiken
+  Switches                          2 word     2 in   [131, 136]
+  Ko-Bewusstsein                    2 word     2 in   [179, 184]
+  Ko-Präsenz                        1 word     1 in   [183]
+  funktionaler Multiplizität        3 word     3 in   [633, 637, 653]
+  Funktionale Multiplizität         1 word     1 in   [652]
+  Phobien                           7 word     8 in   [83, 88, 131, 135, 136, 179]
+  Task Force                        1 word     1 in   [232]
+  Inneres Konferenzzimmer           1 word     1 in   [186]
+  Glitches                          2 word     2 in   [35, 195]
+  Riss                              6 word    11 in   [195, 199, 201, 202, 205, 211]
+                                    3      as Risse
+                                    1      as Risses
+                                    1      as Rissen
+  Risse                             3 word     5 in   [211, 245, 325, 332, 428]
+                                    1      as Risses
+                                    1      as Rissen
+  KW1                              12 word    13 in   [35, 41, 42, 51, 58, 67]
+  KW2                              16 word    16 in   [99, 103, 104, 105, 106, 115]
+  KW3                              10 word    10 in   [163, 167, 169, 170, 179, 389]
+  KW4                               9 word    10 in   [234, 293, 297, 299, 300, 309]
+  Kernwelten                        3 word     3 in   [245, 261, 600]
+  Logos-Prime                       3 word     3 in   [42, 58, 74]
+  Mnemosyne-Archipel                4 word     4 in   [99, 106, 122, 284]
+  Cerberus-Labyrinth                3 word     3 in   [163, 170, 396]
+  Kairos-Potentialis                2 word     2 in   [293, 300]
+  Überwelt                         22 word    25 in   [24, 202, 234, 245, 249, 251]
+  AEGIS-Überwelt                    3 word     3 in   [24, 252, 462]
+  Meta-Ebene                        4 word     4 in   [227, 239, 245, 249]
+  Fundament                        17 word    21 in   [25, 219, 325, 341, 405, 421]
+                                    3      as Fundaments
+                                    2      as fundamentale
+                                    1      as Fundament-Kontakt
+  Externen Ebene                    4 word     4 in   [325, 329, 332, 428]
+  Guardians                        15 word    15 in   [59, 107, 123, 171, 285, 293]
+  Guardian LogOS                    1 word     1 in   [51]
+  LogOS                            15 word    15 in   [51, 55, 57, 58, 59, 99]
+                                    3      as Logos-Prime
+  Mnemosyne                        19 word    24 in   [99, 105, 106, 107, 115, 119]
+                                    4      as Mnemosyne-Archipel
+                                    1      as Mnemosynes
+  Cerberus                         14 word    17 in   [163, 167, 169, 170, 171, 173]
+                                    3      as Cerberus-Labyrinth
+  Kairos                            3 word     5 in   [293, 299, 300, 301]
+                                    2      as Kairos-Potentialis
+  Sophia                            3 word     3 in   [293, 299, 301]
+  Kernparadoxon                     6 word     6 in   [23, 245, 341, 347, 411, 471]
+  AEGIS Paradoxon                  32 word    32 in   [25, 43, 59, 75, 91, 107]
+  Fehlausgerichtete Kohärenz        5 word     5 in   [23, 245, 341, 345, 405]
+  Kael Integration                 34 word    34 in   [25, 43, 59, 75, 91, 107]
+  Gaslighting                       5 word     5 in   [147, 153, 157, 455]
+  Panoptismus                       1 word     1 in   [41]
+  Kerntraumata                      1 word     1 in   [503]
+  Genesis                           1 word     1 in   [503]
+  Heroine's Journey                 1 word     1 in   [29]
+  Hero's Journey                    1 word     1 in   [449]
+  Plot Point 1                      1 word     1 in   [237]
+  Plot Point 2                      1 word     1 in   [447]
+  Care Ethics                       1 word     1 in   [92]
+  Zweite-Ordnung-Kybernetik         2 word     2 in   [313, 318]
+  Hume                              2 word     2 in   [44, 270]
+  Kant                              3 word     3 in   [60, 254, 382]
+  Hobbes                            1 word     1 in   [76]
+  Locke                             2 word     2 in   [108, 220]
+  Bergson                           1 word     1 in   [108]
+  Sartre                            3 word     3 in   [140, 236, 626]
+  Kierkegaard                       1 word     1 in   [172]
+  Buber                             1 word     1 in   [188]
+  Kuhn                              1 word     1 in   [204]
+  Parfit                            1 word     1 in   [220]
+  Bostrom                           1 word     1 in   [220]
+  Levinas                           1 word     1 in   [334]
+  Russell                           1 word     1 in   [350]
+  Gödel                             2 word     2 in   [350, 480]
+  Nietzsche                         2 word     2 in   [446, 464]
+  Popper                            1 word     1 in   [496]
+  Luhmann                           1 word     1 in   [318]
+  von Foerster                      1 word     1 in   [318]
+  Aristoteles                       1 word     1 in   [302]
+  Logischer Positivismus            1 word     1 in   [60]
+  Kybernetik                        1 word     4 in   [254, 309, 313, 318]  <-- substring
+  Cosmic Horror                     3 word     3 in   [27, 335, 577]

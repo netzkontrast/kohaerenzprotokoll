@@ -1,0 +1,14 @@
+# outline-3
+  lines                659  (frontmatter ends at 9)
+  body words           6959
+  headings             0   bold-only lines 4
+  table rows           0   code fences 0
+  question marks       112
+  backslash escapes    160
+  typographic marks    65   ascii quotes 22
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    44
+  repeated labels      none
+  longest line         695 chars
+
