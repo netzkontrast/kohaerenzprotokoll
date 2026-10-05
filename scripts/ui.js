@@ -151,7 +151,7 @@ class Component extends DCLogic {
     this._boardTimer = window.setInterval(() => { if (!document.hidden) this.loadBoard(); }, 60000);
     try {
       const saved = JSON.parse(window.localStorage.getItem('kp-prompt-drafts') || 'null');
-      if (saved && typeof saved === 'object') this.setState({ pask: saved.pask || {}, pedit: saved.pedit || {}, poff: saved.poff || {} });
+      if (saved && typeof saved === 'object') this.setState({ pask: saved.pask || {}, pedit: saved.pedit || {}, poff: saved.poff || {}, psed: saved.psed || {} });
     } catch (err) { /* no storage: start empty */ }
     this._onHash = () => {
       const st = this.unroute(window.location.hash);
@@ -272,22 +272,58 @@ class Component extends DCLogic {
     return id === 'free' ? P.free : P.sessions.find((x) => x.id === id) || P.free;
   }
 
-  compose(x, ask, off) {
+  // The session editor's id and NOW.md entry: the same rules as scripts/sessions.py (`slug`, `derive`), which
+  // ui.py's check_editor runs both ways. The id is never typed: it is the slug of the title, because that is
+  // the id NOW.md's entry will be given, and a claim under another id would claim nothing.
+  slugOf(title) {
+    const words = String(title || '').toLowerCase().normalize('NFKD').replace(/[^\x00-\x7f]/g, '').match(/[a-z0-9]+/g) || [];
+    let out = '';
+    for (let i = 0; i < words.length; i += 1) {
+      if (out && out.length + 1 + words[i].length > 48) break;
+      out = out ? out + '-' + words[i] : words[i];
+    }
+    return out;
+  }
+
+  entryOf(ed, ask) {
+    const files = String(ed.files || '').split(/[\s,]+/).filter(Boolean);
+    const clean = (t) => String(t || '').replace(/\s+/g, ' ').trim();
+    const title = clean(ed.title).replace(/[.:]+$/, '');
+    if (!title) return '';
+    return '- **' + title + '.** ' + (clean(ask) ? clean(ask).replace(/\*\*/g, '') + ' ' : '')
+      + (files.length ? 'Files: ' + files.map((f) => '`' + f + '`').join(', ') + '. ' : '')
+      + (clean(ed.next) ? '**Next:** ' + clean(ed.next).replace(/\*\*/g, '') : '');
+  }
+
+  compose(x, ask, off, ed) {
     const out = [];
+    const free = x.id === 'free' && ed && ed.title && ed.title.trim();
+    const repo = this.kp().sessions.board.repo;
     x.blocks.forEach((b) => {
       if (off.indexOf(b[0]) >= 0) return;
-      out.push(b[2]);
-      if (b[0] === 'read' && ask.trim()) out.push('The author\'s instruction for this session:\n' + ask.trim());
+      let text = b[2];
+      if (free && b[0] === 'head') text = 'Session for ' + repo + ': ' + ed.title.trim();
+      if (free && b[0] === 'rules') text = text.replace('Session: free', 'Session: ' + this.slugOf(ed.title));
+      out.push(text);
+      if (b[0] === 'read') {
+        if (ask.trim()) out.push('The author\'s instruction for this session:\n' + ask.trim());
+        if (free) {
+          out.push('The task: ' + ed.title.trim());
+          if ((ed.next || '').trim()) out.push('Start with: ' + ed.next.trim());
+          const files = String(ed.files || '').split(/[\s,]+/).filter(Boolean);
+          if (files.length) out.push('Open first: ' + files.join(', '));
+        }
+      }
     });
     return out.join('\n\n');
   }
 
-  drafts() { const st = this.st(); return { pask: st.pask || {}, pedit: st.pedit || {}, poff: st.poff || {} }; }
+  drafts() { const st = this.st(); return { pask: st.pask || {}, pedit: st.pedit || {}, poff: st.poff || {}, psed: st.psed || {} }; }
 
   saveDraft(kind, id, value) {
     const d = this.drafts();
     const next = Object.assign({}, d[kind]);
-    if (value == null || value === '' || (Array.isArray(value) && !value.length)) delete next[id];
+    if (value == null || value === '' || (Array.isArray(value) && !value.length) || (kind === 'psed' && !value.title && !value.next && !value.files)) delete next[id];
     else next[id] = value;
     const patch = { copied: null };
     patch[kind] = next;
@@ -295,7 +331,7 @@ class Component extends DCLogic {
     if (!this.routable()) return;
     try {
       const all = Object.assign({}, d, patch);
-      window.localStorage.setItem('kp-prompt-drafts', JSON.stringify({ pask: all.pask, pedit: all.pedit, poff: all.poff }));
+      window.localStorage.setItem('kp-prompt-drafts', JSON.stringify({ pask: all.pask, pedit: all.pedit, poff: all.poff, psed: all.psed }));
     } catch (err) { /* storage refused: the draft lives for this visit */ }
   }
 
@@ -606,7 +642,7 @@ class Component extends DCLogic {
           pick: () => this.setState({ sess: x.id, ntab: 'prompt', copied: null }),
         };
       });
-      now.free = { bd: selId === 'free' ? '#2B4C8C' : '#E6E0D2', cur: selId === 'free' ? 'true' : 'false', pick: () => this.setState({ sess: 'free', ntab: 'prompt', copied: null }) };
+      now.free = { bd: selId === 'free' ? '#2B4C8C' : '#E6E0D2', label: '＋ New session — title, next step, files, claim, NOW.md entry', cur: selId === 'free' ? 'true' : 'false', pick: () => this.setState({ sess: 'free', ntab: 'prompt', copied: null }) };
       const bd = s.board;
       now.board = {
         live: !!bd, ok: !!bd && bd.ok, busy: !!s.boardBusy, refresh: () => this.loadBoard(),
@@ -634,15 +670,30 @@ class Component extends DCLogic {
       const ask = d.pask[selId] || '';
       const off = d.poff[selId] || [];
       const edited = d.pedit[selId];
-      const composed = this.compose(src, ask, off);
+      const ed = Object.assign({ title: '', next: '', files: '' }, d.psed.free || {});
+      const isFree = selId === 'free';
+      const composed = this.compose(src, ask, off, ed);
       const text = edited != null ? edited : composed;
       const copied = s.copied === 'pe:' + selId;
       const failedCopy = s.copied === 'fail:pe:' + selId;
       const fixed = ['head', 'read'];
       now.pe = {
-        kicker: selId === 'free' ? 'Free prompt · your words, with the rules every session keeps'
+        kicker: selId === 'free' ? 'Session editor · a session of your own, with the rules every session keeps'
           : 'Session ' + src.n + ' · ' + src.status + ' · from NOW.md § Half-done',
-        title: selId === 'free' ? 'A session you name yourself' : src.title,
+        title: selId === 'free' ? (ed.title.trim() || 'A session you name yourself') : src.title,
+        isFree: isFree, canFork: !isFree,
+        edTitle: ed.title, edNext: ed.next, edFiles: ed.files, edId: this.slugOf(ed.title) || '—',
+        onEdTitle: (e) => this.saveDraft('psed', 'free', Object.assign({}, ed, { title: e.target.value })),
+        onEdNext: (e) => this.saveDraft('psed', 'free', Object.assign({}, ed, { next: e.target.value })),
+        onEdFiles: (e) => this.saveDraft('psed', 'free', Object.assign({}, ed, { files: e.target.value })),
+        fork: () => { this.saveDraft('psed', 'free', { title: src.title, next: src.next, files: (src.files || []).join(', ') }); this.setState({ sess: 'free', copied: null }); },
+        hasEntry: isFree && !!ed.title.trim(),
+        claimLine: 'Session: ' + this.slugOf(ed.title),
+        entry: this.entryOf(ed, ask),
+        copyClaim: () => this.copy('pc:' + selId, '## Claim\n\nSession: ' + this.slugOf(ed.title)),
+        copyClaimLabel: s.copied === 'pc:' + selId ? 'Copied ✓' : 'Copy claim',
+        copyEntry: () => this.copy('pn:' + selId, this.entryOf(ed, ask)),
+        copyEntryLabel: s.copied === 'pn:' + selId ? 'Copied ✓' : 'Copy NOW.md entry',
         askId: uid + '-pe-ask', textId: uid + '-pe-text', ask: ask, text: text,
         askHint: selId === 'free' ? 'What should the session do? In your words — it goes right after “read NOW.md first”.'
           : 'Anything to add or narrow — „nur das erste Dokument“, a deadline, a question first. Goes before the task.',
@@ -657,8 +708,8 @@ class Component extends DCLogic {
           };
         }),
         info: text.length.toLocaleString('en-US') + ' characters · ' + text.split(/\s+/).filter(Boolean).length + ' words' + (edited != null ? ' · edited by hand' : ''),
-        dirty: edited != null || !!ask || off.length > 0, edited: edited != null,
-        reset: () => { this.saveDraft('pedit', selId, null); this.saveDraft('pask', selId, null); this.saveDraft('poff', selId, null); },
+        dirty: edited != null || !!ask || off.length > 0 || (isFree && !!(ed.title || ed.next || ed.files)), edited: edited != null,
+        reset: () => { this.saveDraft('pedit', selId, null); this.saveDraft('pask', selId, null); this.saveDraft('poff', selId, null); if (isFree) this.saveDraft('psed', 'free', null); },
         copy: () => this.copy('pe:' + selId, text),
         copyLabel: copied ? 'Copied ✓' : failedCopy ? 'Copy blocked here — select the text' : 'Copy prompt',
         save: () => this.download('start-prompt-' + selId + '.md', text),

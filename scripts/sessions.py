@@ -157,7 +157,7 @@ def derive(text: str | None = None, root: Path = ROOT) -> dict:
         s["prompt"] = prompt(s, notes, standing)
         s["blocks"] = blocks(s, notes, standing)
     free = dict(FREE, blocks=blocks(FREE, notes, standing))
-    return {"source": "NOW.md § Half-done — where the next session starts", "board": {"claim": CLAIM, "hours": ACTIVE_HOURS, "api": API, "page": PAGE}, "sessions": sessions,
+    return {"source": "NOW.md § Half-done — where the next session starts", "board": {"claim": CLAIM, "hours": ACTIVE_HOURS, "api": API, "page": PAGE, "repo": REPO}, "sessions": sessions,
             "notes": notes, "standing": standing, "free": free}
 
 

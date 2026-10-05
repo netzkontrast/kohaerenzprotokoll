@@ -1387,6 +1387,48 @@ def check_board(data: dict, js: str | None = None) -> tuple[list[str], str]:
     return problems, "the board's two implementations compared on one case, with node"
 
 
+EDITOR_CASES = [  # title, next step, files — umlauts, a long title, a colon, a title that ends in a full stop
+    ("Das Wahrnehmungs-Kapitel überarbeiten", "Kap 1 gegen Weiche W3 lesen", "NOW.md"),
+    ("Storyform: Besetzung, Logline und Genre", "the players (W10) first", "NOW.md, scripts/storyform.py"),
+    ("Ein sehr langer Titel, der weit über achtundvierzig Zeichen hinausgeht und gekürzt werden muss", "Start", ""),
+    ("Ends with a stop.", "Read record 70", "NOW.md"),
+]
+EDITOR_HARNESS = """
+const c = new Component(); c.props = {}; c.state = {};
+const cases = %s; const out = [];
+cases.forEach((k) => out.push({ slug: c.slugOf(k[0]), entry: c.entryOf({ title: k[0], next: k[1], files: k[2] }, '') }));
+console.log(JSON.stringify(out));
+"""
+
+
+def check_editor(data: dict, js: str | None = None) -> tuple[list[str], str]:
+    """(problems, what was checked). The session editor writes a NOW.md entry and a claim id in JavaScript; the
+    plan reads NOW.md in Python. Both directions on one set of cases: ui.js's id must equal `sessions.slug`, and an
+    entry the page wrote must come back from `sessions.derive` as one session with that id and that next step —
+    otherwise a claim made under the editor's id claims nothing."""
+    node = shutil.which("node")
+    if not node:
+        return [], "the session editor's entry was NOT checked against sessions.py: node is not installed"
+    stub = "class DCLogic { constructor() { this.props = {}; this.state = {}; } setState(p) { Object.assign(this.state, p); } }\n"
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "editor.js"
+        path.write_text(stub + data_script(data, js) + EDITOR_HARNESS % json.dumps([list(c) for c in EDITOR_CASES]), encoding="utf-8")
+        proc = subprocess.run([node, str(path)], capture_output=True, text=True)
+    if proc.returncode:
+        return [f"editor: {(proc.stderr.strip().splitlines() or ['the harness failed'])[-1]}"], "editor"
+    problems = []
+    for (title, nxt, _), got in zip(EDITOR_CASES, json.loads(proc.stdout.strip().splitlines()[-1])):
+        want_id = session_plan.slug(title.rstrip(".:"))
+        if got["slug"] != want_id:
+            problems.append(f"editor: the id of „{title[:40]}“ is {got['slug']!r} in ui.js, {want_id!r} in sessions.py")
+        text = "## Half-done — where the next session starts\n\n" + got["entry"] + "\n"
+        read = session_plan.derive(f"## The author's standing instructions\n\n## Half-done — x\n\n{got['entry']}\n")["sessions"]
+        if len(read) != 1 or read[0]["id"] != want_id or read[0]["next"] != nxt:
+            problems.append(f"editor: the entry for „{title[:40]}“ is read back as "
+                            f"{[(r['id'], r['next']) for r in read]}, not {[(want_id, nxt)]}")
+    return problems, "the session editor's id and NOW.md entry read back by sessions.py, with node"
+
+
 def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[str]]:
     """(problems, notes) for what `build` wrote."""
     project = out / "canvas" / "project"
@@ -1413,7 +1455,9 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
     script_problems, note = check_script(data)
     route_problems, route_note = check_routes(data) if not script_problems else ([], "addresses not checked: the syntax failed")
     board_problems, board_note = check_board(data) if not script_problems else ([], "board not compared: the syntax failed")
-    return problems + script_problems + route_problems + board_problems, [note, route_note, board_note]
+    editor_problems, editor_note = check_editor(data) if not script_problems else ([], "editor not checked: the syntax failed")
+    return (problems + script_problems + route_problems + board_problems + editor_problems,
+            [note, route_note, board_note, editor_note])
 
 
 # ---------------------------------------------------------------- selftest
@@ -1488,6 +1532,18 @@ def selftest() -> tuple[list[str], list[str]]:
             drift, _ = check_board(data, lost_js)
             if not any("active branches differ" in p or "ui.js says" in p for p in drift):
                 failures.append(f"a board rule that drifts in ui.js (pushes by any type): not reported — got {drift[:2]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("'**Next:** '", "'Next: '", 1)
+            drift, _ = check_editor(data, lost_js)
+            if drift:
+                failures.append(f"a harmless variant of the Next marker was reported: {drift[:1]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("'- **' + title + '.** '", "'- ' + title + ' '", 1)
+            drift, _ = check_editor(data, lost_js)
+            if not any("is read back as" in p for p in drift):
+                failures.append(f"a NOW.md entry the plan cannot read back (no bold title): not reported — got {drift[:2]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("if (out && out.length + 1 + words[i].length > 48) break;", "", 1)
+            drift, _ = check_editor(data, lost_js)
+            if not any("sessions.py" in p for p in drift):
+                failures.append(f"an id that differs from sessions.slug (no length cut): not reported — got {drift[:2]}")
             lost_js = COMPONENT.read_text(encoding="utf-8").replace(
                 "st.msel = parts[2];", "st.msel = parts[2] + 'x';", 1)
             lost, _ = check_routes(data, lost_js)
@@ -1508,7 +1564,7 @@ def main(argv: list[str]) -> int:
         for u in unrun:
             print(f"  not run  {u}")
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
-              "(clean build, 6 markup, 4 data, 2 agent files, 1 syntax, 2 addresses, 1 board drift)")
+              "(clean build, 6 markup, 4 data, 2 agent files, 1 syntax, 2 addresses, 1 board drift, 2 editor)")
         return 1 if failures else 0
     data = build(OUT, checks="--no-checks" not in argv)
     project = OUT / "canvas" / "project"
