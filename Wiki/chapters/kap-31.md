@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -42,6 +42,15 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Juna/V schafft es, eine stabile Verbindung oder einen Eintrittspunkt in AEGIS' simulierte Realität herzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „AEGIS reagiert mit Verwirrung und Alarm“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „wodurch unbeabsichtigt eine sichere Zone für Kael und Juna/V zur Kommunikation oder Koordination entsteht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Gödel-Gambit` — one entry shared with Kap 31–33
+
+Title: „The Gödel-Gambit“ ^[ai-assisted-narrative-coherence.md:L1602] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.2 at „3.2 - AEGIS Core Processor Chamber“ ^[ai-assisted-narrative-coherence.md:L1606], POV „Kael (System) & AEGIS (Internal Logic)“ ^[ai-assisted-narrative-coherence.md:L1607]
+
+- Story (goal): the scene outline plans „To confront AEGIS's core logic and force its transformation.“ ^[ai-assisted-narrative-coherence.md:L1608]
+- Story (beat): the scene outline plans „This violates its most fundamental axiom: "Coherence arises from the elimination of contradiction."“ ^[ai-assisted-narrative-coherence.md:L1616]
+- Turn: `Outcome & Turn` has „It does not die; it is fundamentally and irrevocably transformed.“ ^[ai-assisted-narrative-coherence.md:L1618]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The temptress
 
