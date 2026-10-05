@@ -1,7 +1,7 @@
 ---
 id: Q8
 question: What is AEGIS after the Vortex's fifth beat — a living relic, extinguished, transformed, taken over by a plural form — and does Oblivion take over its function inside Kael?
-status: open
+status: decided — the monolithic AEGIS goes out and becomes plural in Kap 39; Oblivion takes over its function inside Kael, choosing instead of erasing; by the author, 2026-10-05
 raised_by: ["algorithmische-melancholie", "aegis", "vortex", "oblivion"]
 documents: ["dramatica-storyform-synthese-aegis-analyse", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 conflict: none — the sources offer several answers and most mark their own as a proposal; whether any two conflict is a person's call, not made here
@@ -239,4 +239,11 @@ entsteht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L265] It
 beat of the Genesis (W12), and storyform B runs until then, not only to the Vortex's fifth beat. **This answers the
 first half.** Whether Oblivion takes over AEGIS' function inside Kael, choosing instead of erasing, the author left
 open; so does the question's status.
+
+## 2026-10-05 — the author: Oblivion takes over, choosing (the second half of Q8)
+
+Asked whether Oblivion takes over AEGIS' function inside Kael after the Vortex, the author chose the answer every source
+that names his role gives: „Empfehlung: Oblivion übernimmt als interne Wachheit, die entscheidet statt löscht.“
+^[dual-storyform-hintergruende-md.md:L428] **With the first half (above), Q8 is answered**: outside, the monolithic
+AEGIS goes out and becomes plural in Kap 39; inside, Oblivion keeps the function of forgetting, but as a choice.
 
