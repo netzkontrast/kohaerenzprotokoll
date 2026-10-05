@@ -446,3 +446,11 @@ Stands: the report gives the ozone as cold in Kap 1 and hot in Kap 39 and places
 The principle: „jeder logisch irreversible Vorgang“ ^[system-kael-konzeptentwicklung-und-analyse.md:L80] raises the thermodynamic entropy of the environment. Of AEGIS: if the physics of the Überwelt follows it, „erzeugt jede ordnende Handlung von AEGIS zwangsläufig eine Form von“ ^[system-kael-konzeptentwicklung-und-analyse.md:L82] waste entropy, written there as digital waste entropy or digital heat. Heat stands once, as „digitaler Wärme“ ^[system-kael-konzeptentwicklung-und-analyse.md:L82], and `Ozon` ^[system-kael-konzeptentwicklung-und-analyse.md:#0] stands nowhere; the synthesis does not place the heat in a chapter or a scene.
 
 Stands: the synthesis says heat only as the conditional digital waste heat of the [[ueberwelt|Überwelt]]'s substrate; it does not say warm or cold for a scene, and nothing is decided here.
+
+## 2026-10-05 — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline
+
+**The outline gives Juna's trace in KW1 as warmth.**
+
+In the logic world KW1 the outline has the Juna echoes appear „als unerklärliche, irrationale“ ^[roman-outline-system-kael.md:L39] warmth or as logical anomalies (L39) — warmth as Juna's trace, not AEGIS's. It says nothing of ozone or of the Landauer heat. One 2025 outline, restating `scifi-roman-mit-ki-schreiben`, whose Table 2 gives the same cell; recorded, nothing decided.
+
+In the record's terms it places warmth with Juna, not with AEGIS's erasure, and decides nothing.
