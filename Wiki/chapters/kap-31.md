@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -88,6 +88,14 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 
 - The false ending: in Kap 30 „fällt die Erzählung in eine scheinbare Harmonie“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143] — no glitches, no heat; „Kael glaubt, Integration erreicht zu haben“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143].
 - In Kap 31 the mirror alter Oblivion breaks „diese falsche Ruhe auf“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143], which forces „den letzten Marsch in den Mnemosyne-Vortex“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143] (Kap 35). The syntax grid wakes Oblivion at the Truth-Rotation in Kap 36 instead (L128); the report states both.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Unraveling World
+
+Title: „The Unraveling World“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L908]
+Position: Akt III; POV: „POV: Kael / Oblivion.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L916]
+
+- Story: the outline plans „Oblivion, der einst gefürchtete AEGIS-Echo-Alter in Kael, erwacht und erkennt die Täuschung der Maschine.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L914]
+- Concepts: „Oblivion (Erwachen), Naturgesetze im Fluss“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L912]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
