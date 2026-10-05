@@ -116,3 +116,11 @@ read for this page.
 „Die Verbindung zwischen Kael und Juna operiert nicht-algorithmisch.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125] It rests on an analogy to entanglement through ER=EPR, which allows „Dies ermöglicht zeitlose, nicht-lokale Korrelationen“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125], „wodurch emotionale Zustände und Schmerz ohne zeitliche Verzögerung zwischen ihnen geteilt werden“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125]. For AEGIS it is „einen nicht-modellierbaren ontologischen Exploit“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125], which AEGIS classifies as an irrelevant anomaly.
 
 Stands as a statement of what crosses and between whom (Kael and Juna); the pitch gives no rule for where the link ends and no statement that it is the pair's alone or the substrate's.
+
+## 2026-10-05 — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse
+
+**The Plotanalyse gives the link as non-local and cross-simulation, with what it might carry named as resonance, compassion or information, and leaves its kind open; it does not ask who else can feel it.**
+
+The crossing, in the report's terms: entanglement as „Metapher/Mechanismus für die instantane, simulationsübergreifende K-J-Verbindung“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L44] (L44). The report asks what kind of link it is: „Ist sie ein kausaler Einfluss oder ein Ausdruck der gemeinsamen, unteilbaren M-Essenz von Kael und Juna?“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L102] (L102). What it may carry: „Sie könnte die nötige externe Resonanz, das Mitgefühl“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L103] or information to Kael (L103).
+
+Stands as the report's own reading and open question about the link's kind; it names no boundary and no one but Kael and Juna.
