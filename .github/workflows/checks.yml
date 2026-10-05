@@ -68,6 +68,9 @@ jobs:
       - name: sources overview (overview.py --check)
         if: always()
         run: python3 scripts/overview.py --check
+      - name: storyforms (storyform.py --check)
+        if: always()
+        run: python3 scripts/storyform.py --check
       - name: standard-library self-tests (selftests.py --only std)
         if: always()
         run: python3 scripts/selftests.py --only std

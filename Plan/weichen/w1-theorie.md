@@ -1,6 +1,6 @@
 ---
 id: W1
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: []
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: ""
@@ -50,6 +50,8 @@ Lesererwartung, Ursache oder Preis? Nur diese braucht eine Entscheidung.
 
 ## Antwort und Abhängigkeiten
 
-Noch offen. Antwortformat: W1 A/B/C oder frei; bei C die bindenden Wendungen nennen.
+**Beantwortet 2026-10-02: A — und später B als Kontrolle** ([Entscheidung 025](../decisions/025-dramatica-is-the-recipe.md)). Beide Storyforms werden vor dem Treatment vervollständigt; das fertige Treatment wird danach gegen die Modelle diagnostiziert.
+
+Früher: Noch offen. Antwortformat: W1 A/B/C oder frei; bei C die bindenden Wendungen nennen.
 Eine Antwort betrifft den Treatment-Abgleich und die Rolle eines späteren NCP.
 Sie entscheidet weder AEGIS' Stimme (W6) noch seine Ontologie (W12/W13).
