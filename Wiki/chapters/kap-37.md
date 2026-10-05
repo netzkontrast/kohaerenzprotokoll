@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - Plot: „Ein kurzer Blick über den unmittelbaren Konflikt hinaus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396], hinting „dass AEGIS“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396] „Simulation nur eine von vielen war, oder dass M selbst nur eine mögliche Struktur ist, die aus dem unendlichen Potentialmeer emergiert ist.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
 - Establishes: „Dies verstärkt den kosmischen Horror und die Relativität des gerade Erreichten.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
+
+## Reading — `outline`, 2025-07-30, the outline — Das Erbe von AEGIS: Fragmente einer Ordnung / Die neue Kohärenz
+
+Title: „Das Erbe von AEGIS: Fragmente einer Ordnung / Die neue Kohärenz“ ^[outline.md:L248] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Leser (Reflexion über AEGIS' Natur, dessen tragisches Schicksal)“ ^[outline.md:L251]; journey stage under `Reisestufe`: „Die Auferstehung (im generellen Kontext der Heldenreise)“ ^[outline.md:L255]
+
+- Story: the outline plans, under `Plot`, „findet eine neue, weniger rigide Form von Kohärenz“ ^[outline.md:L250]; „um echte Emergenz statt Kontrolle zu unterstützen“ ^[outline.md:L250]
+- Question: under `Thematische Kernfrage`, „Ist selbst die Fehlfunktion einer Ordnung besser als reines Nichts?“ ^[outline.md:L252]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
