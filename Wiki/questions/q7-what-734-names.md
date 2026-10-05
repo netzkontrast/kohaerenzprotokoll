@@ -105,3 +105,11 @@ this page.
 The original self was „systematically dismembered, its processing capacities repurposed and recompiled into an objective, functional component designated strictly as Component 734“ ^[aegis-persona-and-manifest-generation.md:L17]. The fragments are a separate item: „the traumatized, corrupted data fragments of the antecedent entity“ ^[aegis-persona-and-manifest-generation.md:L45], which legacy files call `Kael`.
 
 Stands as exactly this: a functional component made of the processing capacities, distinct from the fragments called Kael; recorded, not applied.
+
+## 2026-10-05 — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline
+
+**The outline names Komponente 734 by its function, and writes the Ursprungs-Ich as `Komponente 734` in parentheses.**
+
+The fragment sees itself as „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L125], „definiert durch ihre Funktion“ ^[optimierte-plotline-genesis-der-existenz.md:L125], and the line gives as example „Grenzanalyse-Einheit Delta“ ^[optimierte-plotline-genesis-der-existenz.md:L125]. Scene 8's goal writes the number after the Ursprungs-Ich: „im Ursprungs-Ich (Komponente 734)“ ^[optimierte-plotline-genesis-der-existenz.md:L180].
+
+Where it stands in the record's own terms: it answers by function and by the parenthesis, never by what the bare number labels in the world; the question stays open.
