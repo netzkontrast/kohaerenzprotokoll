@@ -473,3 +473,11 @@ Where it stands: four worlds are listed and the correspondence is not addressed;
 **Four Kern-Welten.**
 The overview: „vier Kern-Welten (KW1-4), die Aspekte von Kaels Psyche repräsentieren“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17]; besides them, „eine digitale Überwelt, die Domäne von AEGIS“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17] and „eine externe Ebene, verbunden mit Juna/V“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17].
 Four Kern-Welten, with two further levels beside them; the number of alters is not given here, and the question stays open.
+
+## 2026-10-05 — `leserzentrierte-roman-outline-generierung-kohaeren`, 2025-05-03, the reader-centred outline
+
+**The outline plans a fourth world and groups the Anteile of Chapter 7 as ANPs and EPs.**
+
+Chapter 17 brings Kael „in eine neue, bisher unbekannte Konstrukt-Welt“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L230], and Chapter 7 names the groups: „Apparently Normal Parts (ANPs: Kael/Host, Lex, Alex, Rhys)“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L106] against „Emotional Parts (EPs: Kiko, Lia, Moros)“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L106]. The outline does not say that one world corresponds to one Anteil.
+
+Where it stands: four worlds are planned and the ANP and EP groups are listed for that chapter; the correspondence is not addressed.
