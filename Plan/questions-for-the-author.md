@@ -355,6 +355,12 @@ the author wants them (*Questions for the author*).
 - **Document 60: is the commentary's alternative a direction you want?** Its conclusion says the text implicitly asks for an existence
   founded on the *Integration* of the void (Śūnyatā) rather than its *Abwehr* (AEGIS) (L310). No read source states that as the
   novel's resolution; recorded on `aegis`, decided nowhere.
+- **Document 61, `kohaerenz-protokoll-hard-sf-horror-thriller` (2026-03-29): Isabella or Isabelle, ANP or EP?** The pitch lists
+  `Isabella (Daten-Spezialistin)` among the ANPs, beside Kael and Lex, the part that strips traumatic events of their emotional context
+  (L84, L87); every other read source spells her `Isabelle` and makes her an EP. One figure in two drafts, or two figures? Read onto
+  `isabelle` by J121, decided nowhere.
+- **Document 61: six parts, or more?** The pitch names six parts in two camps — Kael, Lex, Isabella; Nyx, Kiko, Moros — with no total
+  (Q3 holds the eleven and thirteen of other sources). Is the six a sample, or an earlier cast?
 
 ## Part 2 — the pipeline and its tools
 

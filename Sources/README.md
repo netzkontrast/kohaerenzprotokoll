@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 59 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 59 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 60 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 60 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -693,7 +693,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | document | date | words | status | wiki names | other names |
 |---|---|--:|---|---|---|
 | [Hard Sci-Fi Cosmic Horror Research Questions](drive/hard-sci-fi-cosmic-horror-research-questions.md) | 2026-01-02 | 7,516 |  | DID 2, Juna 2, Risse 2, Überwelt 2, Kael 6, AEGIS 9 | Blindsight 20, Panpsychism 9, Blind Brain Theory 4, Peter Watts 11, Paperclip Maximizer 3 |
-| [Kohärenz Protokoll: Hard-SF, Horror, Thriller](drive/kohaerenz-protokoll-hard-sf-horror-thriller.md) | 2026-03-29 | 4,379 |  | Mosaik-Herz 2, Gödel-Gambit 3, Dual-Kernel-Theorie 4, AEGIS' four sub-functions 2, Multiplizität 4, Nichts-Rauschen 2, Moonshine-Link 2, Lex 3 | Psycho-Architektur 2, Replica Wormholes 2, Isabella 2, Jaspers 2, Psychologische Kriegsführung 2 |
+| [Kohärenz Protokoll: Hard-SF, Horror, Thriller](drive/kohaerenz-protokoll-hard-sf-horror-thriller.md) | 2026-03-29 | 4,379 | **read** | Mosaik-Herz 2, Gödel-Gambit 3, Dual-Kernel-Theorie 4, AEGIS' four sub-functions 2, Multiplizität 4, Nichts-Rauschen 2, Moonshine-Link 2, Lex 3 | Psycho-Architektur 2, Replica Wormholes 2, Isabella 2, Jaspers 2, Psychologische Kriegsführung 2 |
 
 ### theorie-logik
 
