@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael interagiert mit einem Guardian (z.B. Mnemosyne, verantwortlich für Erinnerung).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „die Integrität der Erinnerung zu wahren vs. einer AEGIS-Direktive zu gehorchen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „Kael beobachtet, wie Mnemosyne Zögern, inkonsistentes Verhalten oder vielleicht sogar eine Antwort zeigt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Gödel's limit
+
+Title: „Gödels Grenze“ ^[romanstruktur-und-philosophische-einleitung.md:L178]
+Position: Teil II, „Das unbeweisbare Wahre“ ^[romanstruktur-und-philosophische-einleitung.md:L178]
+
+- Story: „AEGIS ist logisch, aber nicht allwissend; es hat blinde Flecken.“ ^[romanstruktur-und-philosophische-einleitung.md:L180]
+- Story: the unprovable truth is hedged with `vielleicht`: „Kael identifiziert eine solche Wahrheit“ ^[romanstruktur-und-philosophische-einleitung.md:L182] – the external level or the nature of love
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
