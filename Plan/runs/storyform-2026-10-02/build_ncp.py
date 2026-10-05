@@ -53,7 +53,9 @@ STORY = {
               "RS Issue": "Was man wahrnimmt (Telefon-Stille, Körpersignale) gegen was man daraus liest."},
     "plot_text": {"requirements": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
                   "consequence": "Die Fragmentierungsnacht wiederholt sich.",
-                  "forewarnings": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen."},
+                  "forewarnings": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen.",
+                  "costs": "Kaels funktionierende Fassade zerfällt: Host-Rolle, Alltag, Routinen.",
+                  "dividends": "Kael wird funktional plural; die Anteile werden Verbündete."},
     "signpost_text": {"Being": "Rollen; die Fassade hält.", "Becoming": "Das Wesen bricht auf.",
                       "Conceiving": "Der Einfall.", "Conceptualizing": "Der Plan wird entwickelt (das Ziel).",
                       "Memory": "Erinnerungslosigkeit, das Register.", "Subconscious": "Trauma-Wiederbegegnung, Sehnsucht.",
@@ -85,7 +87,9 @@ STORY = {
               "Story Goal": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null."},
     "plot_text": {"requirements": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
                   "consequence": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
-                  "forewarnings": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1)."},
+                  "forewarnings": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1).",
+                  "costs": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
+                  "dividends": "AEGIS versteht Kael mit jedem Zug genauer."},
     "signpost_text": {"Doing": "Sweeps laufen, Verluste sind im Gang.", "Learning": "Anomalien erkunden.",
                       "Understanding": "Das Muster begreifen.", "Obtaining": "Letzter Sweep; das Ziel scheitert.",
                       "Past": "Genesis-Trauma verdrängt; Erasure-Logs.", "Present": "Sweeps, Kontrollprotokoll.",
@@ -147,13 +151,15 @@ def build(key):
        "Das Ziel liegt auf dem OS-Concern; durch das Crucial Element festgelegt (Schritt 8). " + src + ".")
     PLOT = {"requirements": ("Story Requirements", "Was geschehen muss, damit das Ziel erreichbar wird."),
             "consequence": ("Story Consequence", "Was eintritt, wenn das Ziel scheitert."),
-            "forewarnings": ("Story Forewarnings", "Woran der Leser sieht, dass die Folgen näherkommen.")}
+            "forewarnings": ("Story Forewarnings", "Woran der Leser sieht, dass die Folgen näherkommen."),
+            "costs": ("Story Costs", "Was das Verfolgen des Ziels unterwegs kostet."),
+            "dividends": ("Story Dividends", "Was das Verfolgen des Ziels unterwegs einbringt.")}
     growth = spec["dynamics"]["main_character_growth"]
     for k, (appr, what) in PLOT.items():
         if k in spec.get("plot", {}):
             sp(appr, spec["plot"][k], None, st["plot_text"][k], what + (" Stop-Story: die Folgen laufen schon."
                if k == "consequence" and growth == "stop" else " Start-Story: die Folgen drohen nur."
-               if k == "consequence" else "") + " Schritt 13; WP-Kandidat. " + src + ".")
+               if k == "consequence" else "") + (" Schritt 14; Vorschlag der Sitzung. " if k in ("costs", "dividends") else " Schritt 13; WP-Kandidat. ") + src + ".")
     for s_ in sps:
         if s_["appreciation"] == "Story Goal":
             s_.pop("throughline", None)

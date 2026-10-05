@@ -380,6 +380,32 @@
                   "perspective_id": "persp_objective_story"
                 }
               ]
+            },
+            {
+              "id": "sp_21",
+              "appreciation": "Story Costs",
+              "narrative_function": "Memory",
+              "illustration": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
+              "summary": "Story Costs: Memory",
+              "storytelling": "Was das Verfolgen des Ziels unterwegs kostet. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_22",
+              "appreciation": "Story Dividends",
+              "narrative_function": "Understanding",
+              "illustration": "AEGIS versteht Kael mit jedem Zug genauer.",
+              "summary": "Story Dividends: Understanding",
+              "storytelling": "Was das Verfolgen des Ziels unterwegs einbringt. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
             }
           ],
           "storybeats": [

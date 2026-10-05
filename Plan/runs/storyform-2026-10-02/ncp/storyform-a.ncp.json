@@ -422,6 +422,32 @@
                   "perspective_id": "persp_objective_story"
                 }
               ]
+            },
+            {
+              "id": "sp_24",
+              "appreciation": "Story Costs",
+              "narrative_function": "Being",
+              "illustration": "Kaels funktionierende Fassade zerfällt: Host-Rolle, Alltag, Routinen.",
+              "summary": "Story Costs: Being",
+              "storytelling": "Was das Verfolgen des Ziels unterwegs kostet. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_25",
+              "appreciation": "Story Dividends",
+              "narrative_function": "Becoming",
+              "illustration": "Kael wird funktional plural; die Anteile werden Verbündete.",
+              "summary": "Story Dividends: Becoming",
+              "storytelling": "Was das Verfolgen des Ziels unterwegs einbringt. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
             }
           ],
           "storybeats": [

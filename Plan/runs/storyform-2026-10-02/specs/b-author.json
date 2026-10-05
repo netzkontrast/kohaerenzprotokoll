@@ -64,6 +64,8 @@
  "plot": {
   "requirements": "Doing",
   "consequence": "Becoming",
-  "forewarnings": "Progress"
+  "forewarnings": "Progress",
+  "costs": "Memory",
+  "dividends": "Understanding"
  }
 }

@@ -52,10 +52,14 @@ with the consequences of each option laid out.
     forewarnings Progress (maintenance windows grow denser; the visible clock of the timelock). A: requirements Learning
     (Kael reads his own history), consequence Past (the night of fragmentation repeats — a Start story, so it only
     threatens), forewarnings Preconscious (alters break through; time gaps). The chart checks only their level (R8).
+14. **Costs and dividends** (proposals of the session; WP has none). B: costs Memory (every sweep eats AEGIS' own
+    memory — an opening for Kael's memory in B-IC act II), dividends Understanding (AEGIS learns Kael ever more
+    precisely, the outline of 2026-05-18). A: costs Being (Kael's working façade falls apart), dividends Becoming
+    (functional multiplicity as an operating state, the outline of 2026-05-18, L1029).
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
-Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: costs, dividends, prerequisites and
-preconditions, focus/direction order, the players, logline and genre.
+Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: prerequisites and preconditions,
+focus/direction order, the players, logline and genre.
 The specs are `Plan/runs/storyform-2026-10-02/specs/a-author.json` and `b-author.json`; the NCP documents
 `Plan/runs/storyform-2026-10-02/ncp/`, built with the ncp-author skill and valid against NCP 1.3.0.
 

@@ -67,6 +67,8 @@
  "plot": {
   "requirements": "Learning",
   "consequence": "Past",
-  "forewarnings": "Preconscious"
+  "forewarnings": "Preconscious",
+  "costs": "Being",
+  "dividends": "Becoming"
  }
 }
