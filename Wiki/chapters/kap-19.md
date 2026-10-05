@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -122,6 +122,14 @@ Position: Akt II; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-er
 - Story: the outline plans „Juna greift nicht in die Stadt ein, liefert Kael aber Gnosis“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L557]
 - Story: the outline plans „Juna wird nur im Negativraum beschrieben“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L561]
 - Concepts: „Gnosis, Vertex-Operator-Algebra“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L555]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Die thermische Inversion
+
+Title: „Die thermische Inversion“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L215] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]
+
+- Story: the dual-storyform outline plans „Kael stellt fest, dass Junas Nähe die Umgebung kühlt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L217]
+- Storyforms: `Storyform B` (`MC: Universe/Progress`): „Die physische Instabilität der Stadt nimmt zu“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L219]; `Storyform A` (`MC: Mind/Preconscious`): „Kael bereitet sich innerlich auf den Widerstand vor“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L220]
+- Scene and pacing: `Szenen-Keim`: „Ein Raum, der zur Hälfte glüht und zur Hälfte mit Raureif bedeckt ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L221]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
