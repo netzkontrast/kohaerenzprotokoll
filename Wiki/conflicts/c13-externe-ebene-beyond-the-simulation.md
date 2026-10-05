@@ -102,3 +102,11 @@ In the record's terms the report stands with a level reported beyond the simulat
 In Kap 4: Juna stands for a reality „jenseits der AEGIS-Simulation, die für das Kael-System jedoch unerreichbar scheint.“ ^[romanstruktur-und-philosophische-einleitung.md:L61] In Kap 20 the analysis has Kael identify an unprovable truth, hedged: „vielleicht die Existenz der externen Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L182] In Kap 26 it says Kael sees the structure from outside, `von außen`, `oder zumindest von einer höheren administrativen Ebene`, and: „Er weiß nun definitiv: Es gibt ein Außen.“ ^[romanstruktur-und-philosophische-einleitung.md:L216]
 
 In the record's terms the analysis stands with a level beyond the simulation, in a retelling built on the concept papers it cites; it decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction
+
+**The reconstruction leaves open whether Juna is a real person outside the simulation.**
+
+OQ-01 asks: „eine reale Person in der Welt außerhalb der Simulation“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L205], an emergent anomaly or a manifestation of Kael's relational essence. It is filed as KRITISCH and a decision is needed before the outlines of Teil II.
+
+Stands open in the document's own OFFENE FRAGEN, dated 2026-03-26.
