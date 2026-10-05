@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-17"
 ---
 
@@ -30,6 +30,10 @@ what follows.
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — a postulated plane beyond the simulation's logic, reached through Juna
 
 The editor's report gives, as the plot document's (reference 1 ends the sentence), Juna's „Verbindung zu einer postulierten“ ^[scifi-roman-mit-ki-schreiben.md:L184] `Externen Ebene`, written „Externen Ebene“ ^[scifi-roman-mit-ki-schreiben.md:L184], which „die jenseits der Logik der Simulation“ ^[scifi-roman-mit-ki-schreiben.md:L184] lies. It says nothing else of the plane: not what it is, nor who stands there.
+
+## Reading — `outline`, 2025-07-30, the outline — the Externe Ebene as the place of Juna/V's message
+
+The outline plans in Kap 11 that Juna/V's message comes from the Externe Ebene (L76), and says of it „Die schwer fassbare Natur der Externen Ebene vertieft das Mysterium.“ ^[outline.md:L77] (L77). In Teil 3 it is one subplot strand, „Das Mysterium Juna/V & die Externe Ebene“ ^[outline.md:L164] (L164).
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the concept document, the architecture analysis) — a level outside AEGIS's reality, linked to Juna/V
 
