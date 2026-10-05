@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 89 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 89 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 90 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 90 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -497,7 +497,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kohärenz Protokoll: Detailliertes Roman-Outline (Leserzentriert)](drive/kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie.md) | 2025-05-03 | 7,933 |  | Argus 17, Cerberus 17, Alex 18, Komponente 734 3, Mnemosyne 20, Rhys 14, LogOS 16, Selene 15 | AEGIS-Paradoxon 36, Fehlausgerichtete Kohärenz 4, Zweite-Ordnung-Kybernetik 2, AEGIS-Kern 5, Nietzsche 2 |
 | [Kohärenz Protokoll: Listen der Tropes, Subplots & Konzepte](drive/kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md) | 2025-05-03 | 1,549 |  | Selene 4, Argus 2, Mnemosyne 3, Cerberus 2, Guardians 3, LogOS 2, DID 2, Multiplizität 2 | Kontrollproblem 2, Künstliche Intelligenz 3, Heidegger 2, Kant 2, AEGIS-Paradoxon 2 |
 | [Kontext outline](drive/kontext-outline.md) | 2025-05-03 | 4,661 | **read** | Argus 11, Cerberus 12, Mnemosyne 18, Realitätsebenen 4, Rhys 12, Sophia 5, Alex 9, LogOS 13 | AEGIS-Paradoxon 21, KWs 4, Fehlausgerichtete Kohärenz 4, Zweite-Ordnung-Kybernetik 2, Paradox der Toleranz 2 |
-| [Leserzentrierte Roman-Outline-Generierung „Kohären...](drive/leserzentrierte-roman-outline-generierung-kohaeren.md) | 2025-05-03 | 13,907 |  | Komponente 734 7, Argus 20, Alex 27, Rhys 30, Cerberus 17, Mnemosyne 22, LogOS 21, Selene 16 | AEGIS-Paradoxon 36, Konstrukt-Welten 3, Zweite-Ordnung-Kybernetik 3, Nietzsche 3, KWs 4 |
+| [Leserzentrierte Roman-Outline-Generierung „Kohären...](drive/leserzentrierte-roman-outline-generierung-kohaeren.md) | 2025-05-03 | 13,907 | **read** | Komponente 734 7, Argus 20, Alex 27, Rhys 30, Cerberus 17, Mnemosyne 22, LogOS 21, Selene 16 | AEGIS-Paradoxon 36, Konstrukt-Welten 3, Zweite-Ordnung-Kybernetik 3, Nietzsche 3, KWs 4 |
 | [Outline](drive/outline-2.md) | 2025-05-03 | 5,021 | **read** | Argus 12, Komponente 734 3, Alex 17, Cerberus 11, Mnemosyne 18, Rhys 13, LogOS 14, Selene 11 | AEGIS-Paradoxon 33, Zweite-Ordnung-Kybernetik 3, Fehlausgerichtete Kohärenz 4, Nietzsche 2, Paradox der Toleranz 2 |
 | [Outline](drive/outline-3.md) | 2025-05-03 | 6,959 |  | Argus 12, Alex 19, Komponente 734 3, Cerberus 13, Rhys 18, Mnemosyne 19, LogOS 15, Selene 10 | AEGIS-Paradoxon 34, Fehlausgerichtete Kohärenz 5, Zweite-Ordnung-Kybernetik 2, Nietzsche 2, Paradox der Toleranz 2 |
 | [Roman-Konzept: Kohärenz Protokoll](drive/roman-konzept-kohaerenz-protokoll.md) | 2025-05-03 | 7,028 |  | Argus 8, Alex 11, Realitätsebenen 4, Cerberus 8, Rhys 11, Mnemosyne 11, Multiplizität 12, Selene 8 | Ligotti 7, Action Systems 6, Sartre 10, Thomas 6, AEGIS-Paradoxon 7 |

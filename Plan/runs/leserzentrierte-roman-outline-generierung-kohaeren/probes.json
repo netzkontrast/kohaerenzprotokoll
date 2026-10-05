@@ -1,0 +1,328 @@
+{
+  "document": "leserzentrierte-roman-outline-generierung-kohaeren",
+  "drive_id": "1UEG_Df7UL2QBZhHZC9VPtNBa3V9JrrAVenK41Gpvec4",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 50,
+  "backslash_escapes": 130,
+  "typographic_marks": 183,
+  "ascii_quotes": 46,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabwehr",
+      "Systemanalyse",
+      "Systemdynamik",
+      "Systeme",
+      "Systemebenen",
+      "Systemfehler",
+      "Systemfehlers",
+      "Systeminstabilität",
+      "Systeminstanz",
+      "Systemintervention",
+      "Systemkollaps",
+      "Systemkrise",
+      "Systemlogik",
+      "Systemmanipulation",
+      "Systemreaktion",
+      "Systems",
+      "Systemtheorie",
+      "Systemveränderung",
+      "Systemwarnungen",
+      "Systemweite",
+      "Systemwissen",
+      "Systemänderungen"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbestimmung",
+      "Selbstentdeckung",
+      "Selbsterhaltung",
+      "Selbstermächtigung",
+      "Selbstfindung",
+      "Selbstnegation",
+      "Selbstorganisation",
+      "Selbsttäuschung",
+      "Selbstvertrauen",
+      "Selbstvertrauens",
+      "Selbstzerstörung",
+      "Selbstzerstörungslogik",
+      "Selbstzweifel",
+      "Selbstüberwindung"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollebene",
+      "Kontrolllogik",
+      "Kontrollmechanismen",
+      "Kontrollmethoden",
+      "Kontrollprotokolle",
+      "Kontrollraum",
+      "Kontrollsystem",
+      "Kontrollverlust",
+      "Kontrollzentrum"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionspartner",
+      "Interdimensionale",
+      "Interface",
+      "Interfaces",
+      "Internal",
+      "Interne",
+      "Interner",
+      "Intervention"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusster",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsebene",
+      "Bewusstseinsknoten",
+      "Bewusstseinszentrum",
+      "Bewusstwerdung"
+    ],
+    "verte": [
+      "Verteidiger",
+      "Verteidigung",
+      "Verteidigungsanlagen",
+      "Verteidigungsebene",
+      "Verteidigungslinie",
+      "Verteidigungslinien",
+      "Verteidigungsmaßnahmen",
+      "Verteidigungszone"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfetzen",
+      "Erinnerungsfragmente",
+      "Erinnerungsfragmenten",
+      "Erinnerungsmanipulation",
+      "Erinnerungsrekonstruktion"
+    ],
+    "psych": [
+      "Psych",
+      "Psyche",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychologisches",
+      "Psychology"
+    ],
+    "überl": [
+      "Überleben",
+      "Überlebenskampf",
+      "Überlebensmechanismus",
+      "Überlebensparadoxon",
+      "Überlebensstrategien",
+      "Überlegenheit",
+      "Überlistung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenarchiv",
+      "Datenstrom",
+      "Datenströme",
+      "Datenströmen",
+      "Datenvisualisierung"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktebenen",
+      "Konflikten",
+      "Konfliktfreiheit",
+      "Konflikts"
+    ],
+    "manip": [
+      "Manipulation",
+      "Manipulationen",
+      "Manipulationsansatz",
+      "Manipulationsstrategien",
+      "Manipulationstechniken",
+      "Manipulatorin"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentialität",
+      "Potenzial",
+      "Potenzials",
+      "Potenzialströmen",
+      "Potenzielle"
+    ],
+    "regel": [
+      "Regel",
+      "Regeln",
+      "Regelsetzung",
+      "Regelwerk",
+      "Regelwerks",
+      "Regeländerungen"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstanden",
+      "Verstehen",
+      "Verständigung",
+      "Verständnis",
+      "Verständnisses"
+    ],
+    "angst": [
+      "Angst",
+      "Angstbewältigung",
+      "Angstkontrolle",
+      "Angstlogik",
+      "Angstmechanismen"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbrechen",
+      "Durchbruch",
+      "Durchbrüche",
+      "Durchsetzungsfähigkeiten"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionalität",
+      "Emotionen"
+    ],
+    "erken": [
+      "Erkennen",
+      "Erkenntnis",
+      "Erkenntnisse",
+      "Erkenntnissen",
+      "Erkenntnistheorie"
+    ],
+    "haupt": [
+      "Hauptereignissen",
+      "Hauptkonflikt",
+      "Hauptkonflikts",
+      "Hauptquartier",
+      "Hauptverteidiger"
+    ],
+    "moral": [
+      "Moralbewusstsein",
+      "Moralisches",
+      "Morality",
+      "Moralität",
+      "Moralphilosophie"
+    ],
+    "myste": [
+      "Mysterien",
+      "Mysterium",
+      "Mysteriums",
+      "Mysteriös",
+      "Mystery"
+    ],
+    "parad": [
+      "Paradigmenwechsel",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitäten",
+      "Realitätsebene",
+      "Realitätswahrnehmung"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzfunktion",
+      "Schutzimpuls",
+      "Schutzinstinkt",
+      "Schutzmechanismen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Alle",
+      "Parallelen"
+    ],
+    [
+      "Back",
+      "Flashback"
+    ],
+    [
+      "Back",
+      "Flashbacks"
+    ],
+    [
+      "Back",
+      "Feedbackschleifen"
+    ],
+    [
+      "Best",
+      "Bestätigung"
+    ],
+    [
+      "Best",
+      "Selbstbestimmung"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Weltbild"
+    ],
+    [
+      "Bild",
+      "Modellbildung"
+    ],
+    [
+      "Bild",
+      "Strategiebildung"
+    ],
+    [
+      "Böse",
+      "Bösen"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Core",
+      "Score"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Diesmal"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ]
+  ]
+}

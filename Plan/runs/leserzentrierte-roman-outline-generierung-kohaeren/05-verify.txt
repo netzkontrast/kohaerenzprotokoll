@@ -1,0 +1,164 @@
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Handlung"
+whole word, case-sensitive     43
+whole word, case-insensitive   43
+including compounds            50
+
+`Handlung` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#43]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Core Theme"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Core Theme` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#40]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Reader Psychology Note"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Reader Psychology Note` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#40]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Genre/Trope"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Genre/Trope` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#40]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Philosophy"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Philosophy` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#40]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Kael Internal"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Kael Internal` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#40]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "AEGIS Focus"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            37
+
+`AEGIS Focus` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#37]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Setting"
+whole word, case-sensitive     41
+whole word, case-insensitive   41
+including compounds            41
+
+`Setting` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#41]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Subplots"
+whole word, case-sensitive     42
+whole word, case-insensitive   42
+including compounds            43
+
+`Subplots` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#42]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "möglicherweise"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`möglicherweise` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#40]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "vielleicht"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`vielleicht` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#40]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kohärenz Protokoll` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#2]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Selene"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            19
+
+`Selene` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#16]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Juna/V"
+whole word, case-sensitive     45
+whole word, case-insensitive   45
+including compounds            45
+
+`Juna/V` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#45]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "KW1"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`KW1` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#15]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "KW2"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`KW2` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#16]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "KW3"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`KW3` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#12]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "KW4"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`KW4` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#13]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Konstrukt-Welt 1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Welt 1` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#1]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Konstrukt-Welt 2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Welt 2` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#1]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Konstrukt-Welt 3"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Konstrukt-Welt 3` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#0]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Konstrukt-Welt 4"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Konstrukt-Welt 4` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#0]
+
+$ python3 scripts/read.py leserzentrierte-roman-outline-generierung-kohaeren --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fehlausgerichtete Kohärenz` ^[leserzentrierte-roman-outline-generierung-kohaeren.md:#2]
+
+stance_marker_count 123 = Handlung 43 + Core Theme 40 + Reader Psychology Note 40
+$ grep -nw Setting Sources/drive/leserzentrierte-roman-outline-generierung-kohaeren.md (lines outside label lines): L523 only
+$ grep -nw Handlung ... outside \[Handlung\]: L163, L176, L400
