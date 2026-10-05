@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C9", "C11", "C14", "C6"]
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die umgeschriebene Geschichte“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L344]
 - Story: „Er findet die Aufzeichnungen subtil verändert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L345]
 - Story: „beharrt AEGIS darauf, dass die Aufzeichnungen korrekt sind und Kaels Gedächtnis fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L345]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The paradox of control
+
+Title: „Das Paradox der Kontrolle“ ^[romanstruktur-und-philosophische-einleitung.md:L206]
+Position: Teil II, „Kollaps durch Rigidität“ ^[romanstruktur-und-philosophische-einleitung.md:L206]
+
+- Story: „AEGIS reagiert auf Kaels wachsenden Einfluss mit totalitärer Kontrolle.“ ^[romanstruktur-und-philosophische-einleitung.md:L208]
+- Story: „Kael provoziert diesen Zustand aktiv.“ ^[romanstruktur-und-philosophische-einleitung.md:L210]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
