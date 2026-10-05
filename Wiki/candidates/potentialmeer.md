@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 18
-readings: 19
+sources: 19
+readings: 20
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario"]
 gathered: "2026-09-17"
 ---
 
@@ -24,6 +24,10 @@ a structure within the Holomovement ^[kohaerenzprotokoll-aegis-und-systementropi
 The consequence for [[aegis|AEGIS]] is the point: it operates „ausschließlich innerhalb der
 expliziten Ordnung" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L58] and so cannot reach what is anchored in the
 implicate one. See [[blinder-fleck|Ontologischer blinder Fleck]].
+
+## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — the Potentialmeer as a meta-space of pure potentiality, with three open ontologies
+
+As the report cites its User Query: „ist kein physischer Raum, sondern ein Meta-Raum reiner Potentialität, prä-realer Möglichkeit, hoher Entropie und Tendenz zur Auflösung von Strukturen“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L109] The Plotanalyse then asks, as questions and not positions, what its ontology is: Aristotelian potentiality, with AEGIS as an attempt to hold a fragile actuality against it (L113); an informational field, where „Dann wäre AEGIS ein komplexes Informationsmuster, das gegen informationelle Entropie (Rauschen, Zerfall) kämpft“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L114]; or a quantum-field vacuum: „oder eine ähnliche physikalische Konzeption von Potentialität?“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L115] The report adds that the choice matters: „Die Wahl der Ontologie beeinflusst die Metaphysik der Welt und die Natur des Konflikts.“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L115] Its matrix row reads: „Natur des Potentialmeers; AEGIS' Existenzkampf; M als stabile Aktualität“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L51]
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint — the state beyond M, unstructured and unbegreiflich, that AEGIS fears and M is drawn from
 
