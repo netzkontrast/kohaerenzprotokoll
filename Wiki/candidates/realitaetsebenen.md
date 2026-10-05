@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 6
-readings: 6
+sources: 8
+readings: 8
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -61,6 +61,16 @@ and each is given a different kind of reactivity:
 
 That second sentence is hedged and is design advice; the six-level enumeration
 above is not.
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a new level of reality in Kap 39
+
+The master blueprint sets Kap 39 in „Eine neue, offene Realitätsebene.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L372] and plans Kael and Juna to exist in „in einer Realität, die Chaos und Ordnung in Balance hält“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L375]
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — A higher reality level in conflict C-006
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+In C-006 the report quotes Doc 42 on one climax approach: „Kael verlässt die AEGIS-Realität und transzendiert zu einer höheren Realitätsebene“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L33]. Its own summary: „Flucht in die externe Realität vs. interne Konfrontation und Umprogrammierung der Simulation durch das Gödel-Gambit.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L33]
 
 ## Open
 

@@ -1,0 +1,132 @@
+# counts for 106 candidates
+# line numbers are FILE lines, as a citation writes them
+# 2 `- ` line(s) read as prose and not counted: Dr. Thorne · Show, don't tell
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             60 word   113 in   [11, 13, 19, 23, 24, 25]
+                                   53      as Kaels
+  AEGIS                            68 word    69 in   [19, 24, 36, 46, 47, 61]
+                                    1      as AEGIS-Konflikts
+  KW1                               8 word     8 in   [23, 24, 25, 30, 67, 130]
+  KW2                               4 word     6 in   [35, 41, 42, 46, 131, 187]
+  KW3                               4 word     4 in   [51, 67, 132]
+  KW4                               2 word     3 in   [66, 72, 133]
+  LogOS-Prime                       1 word     1 in   [23]
+  LogOS                             4 word     5 in   [23, 130, 203, 205]
+                                    1      as LogOS-Prime
+  Mnemosyne                         1 word     3 in   [35, 131]  <-- substring
+                                    1      as Mnemosyne-Archiven
+                                    1      as Mnemosynes
+  Cerberus                          3 word     4 in   [51, 132, 167, 170]
+                                    1      as Cerberus-Labyrinth
+  Cerberus-Labyrinth                1 word     1 in   [51]
+  Kairos-Potentialis                1 word     1 in   [66]
+  Kairos/Sophia                     2 word     2 in   [67, 133]
+  Kairos                            2 word     3 in   [66, 67, 133]
+                                    1      as Kairos-Potentialis
+  Sophia                            2 word     2 in   [67, 133]
+  Juna/V                           14 word    16 in   [67, 76, 142, 160, 164, 196]
+                                    1      as Juna/Vs
+                                    1      as Juna/V-Subplots
+  Juna                             20 word    22 in   [66, 67, 76, 77, 133, 142]
+                                    2      as Junas
+  Lex                              18 word    18 in   [29, 30, 35, 36, 56, 77]
+  Rhys                              5 word     5 in   [42, 72, 82, 116, 187]
+  Nox                               3 word     3 in   [51, 56, 57]
+  Nyx                               2 word     2 in   [116, 122]
+  Echo                              4 word    10 in   [17, 37, 39, 41, 42, 56]  <-- substring
+                                    4      as Echos
+                                    1      as Echoes
+                                    1      as Echo-Lokus
+  Kiko                              3 word     3 in   [42, 116, 121]
+  Limina                            1 word     1 in   [57]
+  Chronos                           1 word     1 in   [57]
+  Schattenkind                      1 word     1 in   [57]
+  Selene                            3 word     3 in   [142, 203, 206]
+  Argus                             2 word     2 in   [71, 116]
+  Alex                              1 word     1 in   [116]
+  Moros                             1 word     1 in   [116]
+  Isabelle                          1 word     1 in   [116]
+  Lia                               1 word     1 in   [116]
+  Einheit 734                       1 word     1 in   [46]
+  Überwelt                          9 word     9 in   [71, 84, 86, 87, 134, 158]
+  Externe Ebene                     6 word     6 in   [164, 200, 209, 236, 263, 272]
+  Externen Ebene                    3 word     3 in   [76, 77, 268]
+  Das Fundament                    13 word    13 in   [196, 200, 218, 221, 223, 227]
+  Nexus                             2 word     2 in   [158, 160]
+  Kernwelten                        7 word     7 in   [71, 105, 106, 126, 128, 205]
+  Kernwelten (KWs)                  1 word     1 in   [128]
+  Guardians                         4 word     4 in   [67, 128, 134, 173]
+  Wächter                          11 word    11 in   [69, 71, 72, 173, 194, 196]
+  Inneren Bunker                    1 word     1 in   [51]
+  innere Konferenzraum              1 word     1 in   [57]
+  See der Tränen                    2 word     2 in   [39, 41]
+  Paradoxon X                       2 word     2 in   [134, 214]
+  Paradoxons der Fehlausgerichteten Kohärenz    1 word     1 in   [241]
+  Nichts Rauschen                   1 word     1 in   [223]
+  Seele=Info                        1 word     1 in   [169]
+  System Kael                       2 word     3 in   [52, 112, 144]
+  funktionaler Multiplizität        3 word     3 in   [87, 114, 241]
+  Funktionalen Multiplizität        6 word     6 in   [164, 191, 218, 245, 263, 272]
+  Ko-Bewusstseins                   2 word     2 in   [82, 117]
+  Kohärenz Protokoll                3 word     4 in   [11, 13, 95, 146]
+  Kohärenzprotokollen               1 word     1 in   [105]
+  Entropie-Management               1 word     1 in   [105]
+  Risse                             2 word     4 in   [25, 30, 36, 95]
+                                    1      as Risses
+                                    1      as Rissen
+  Riss                              3 word     7 in   [25, 30, 36, 37, 77, 95]  <-- substring
+                                    2      as Risse
+                                    1      as Risses
+                                    1      as Rissen
+  Glitches                          1 word     1 in   [23]
+  Cache Coherence issues            1 word     1 in   [29]
+  Alters                            3 word     3 in   [37, 57, 99]
+  Anteile                          16 word    22 in   [47, 52, 56, 67, 72, 79]
+                                    6      as Anteilen
+  ANP                               2 word     8 in   [19, 24, 36, 42, 57, 67]  <-- substring
+  ANPs                              3 word     3 in   [19, 67, 116]
+  EP                                2 word     9 in   [19, 41, 51, 57, 67, 77]  <-- substring
+  EPs                               5 word     5 in   [19, 67, 77, 116]
+  ANP-EP Phobien                    2 word     2 in   [19, 57]
+  TSDP                              2 word     3 in   [19, 23, 57]
+                                    1      as TSDP-Fragmentierung
+  DID                               1 word     3 in   [37, 57, 82]  <-- substring
+  Amnesie                           4 word     4 in   [19, 31, 82, 117]
+  Switching-Mechanismen             1 word     1 in   [19]
+  Archivar                          3 word     3 in   [33, 35, 36]
+  Polyphone Prosa                   1 word     1 in   [118]
+  Traumainduzierte Fragmentierung    1 word     1 in   [30]
+  Pseudo-Anpassung und Oberflächenfunktionalität    1 word     1 in   [52]
+  Abwehrmechanismen und dissoziative Kompartmentalisierung    1 word     1 in   [36]
+  Konfrontation und Integration     2 word     2 in   [148, 154]
+  Integration & Enthüllung          1 word     1 in   [148]
+  Fragmentierung und erste Echos    1 word     1 in   [17]
+  Systemanalyse und Mustererkennung    2 word     2 in   [91, 93]
+  Die Anatomie des Zerfalls         1 word     1 in   [93]
+  Das Offene Protokoll              1 word     1 in   [266]
+  Lex' Systemanalyse & AEGIS' Paradoxon    7 word     7 in   [164, 173, 182, 209, 218, 236]
+  Das Mysterium Juna/V & die Externe Ebene    6 word     6 in   [164, 200, 209, 236, 263, 272]
+  Die Wächter als Agenten & Charaktere    5 word     5 in   [173, 200, 209, 218, 245]
+  Kaels Weg zur Funktionalen Multiplizität    6 word     6 in   [164, 191, 218, 245, 263, 272]
+  Das Fundament & die ultimative Realität    7 word     7 in   [200, 218, 227, 236, 254, 263]
+  Heldinnenreise (Heroine's Journey nach Schmidt)    1 word     1 in   [19]
+  Heldenreise nach Campbell/Vogler    1 word     1 in   [148]
+  Tertiären Strukturellen Dissoziation (TSDP)    1 word     1 in   [19]
+  Environmental Storytelling        1 word     1 in   [24]
+  Algorithmic Information Theory (AIT)    1 word     1 in   [105]
+  First Degree Entailment (FDE)     1 word     1 in   [131]
+  P versus NP Problem               1 word     1 in   [134]
+  MESI                              1 word     1 in   [105]
+  Token Coherence                   1 word     1 in   [105]
+  Delta Coherence                   1 word     1 in   [105]
+  Logic Bomb                        1 word     1 in   [214]
+  Found Footage                     1 word     1 in   [268]
+  Fatal Flaw Exploitation           1 word     1 in   [208]
+  Healing Old Wounds                1 word     1 in   [190]
+  Hoist by His Own Petard           1 word     1 in   [217]
+  Gödel's Schatten                  1 word     1 in   [185]
+  Maskulin/Feminin                  1 word     1 in   [19]
+  Kosmischer Horror                 2 word     2 in   [107, 226]
+  Hard Science-Fiction              1 word     1 in   [105]

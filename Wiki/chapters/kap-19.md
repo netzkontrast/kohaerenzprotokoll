@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,39 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael versucht, ein in Kapitel 18 entdecktes Schlupfloch oder Exploit erneut zu verwenden, nur um festzustellen, dass es nicht mehr funktioniert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
 - Story: „Kael könnte sogar Zeuge werden, wie AEGIS eine Schwachstelle in Echtzeit 'patcht'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Voice of the Echo: A New Juna-Connection`
+
+Title: „The Voice of the Echo: A New Juna-Connection“ ^[ai-assisted-narrative-coherence.md:L1509] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the scene outline plans the scene at „2.5 - An interface space between KW1 and KW4“ ^[ai-assisted-narrative-coherence.md:L1513], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1514]
+
+- Story (goal): the scene outline plans „To establish a clearer connection with Juna/V, seeking guidance and hope.“ ^[ai-assisted-narrative-coherence.md:L1515]
+- Story (conflict): the scene outline plans „a child alter embodying ambivalent attachment“ ^[ai-assisted-narrative-coherence.md:L1516]
+- Turn: `Outcome & Turn` has „He has a new internal motivation: finding a connection that feels safe for Lia.“ ^[ai-assisted-narrative-coherence.md:L1524]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Amnesia as a safeguard
+
+Title: „Amnesie als Sicherung“ ^[romanstruktur-und-philosophische-einleitung.md:L172]
+Position: Teil II, „Dissoziation als Feature“ ^[romanstruktur-und-philosophische-einleitung.md:L172]
+
+- Story: „Erinnerung ist Datenlast. Vergessen ist Kompression.“ ^[romanstruktur-und-philosophische-einleitung.md:L174]
+- Story: „Seine Ganzheit ist eine DDoS-Attacke auf das Speichermanagement des Systems.“ ^[romanstruktur-und-philosophische-einleitung.md:L176]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der erste bewusste Switch
+
+Title: „Der erste bewusste Switch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L206]
+Position: Teil II; setting from the `Schauplatz` field: „in verschiedenen KW-Zonen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L208]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Lex, Alex, Kiko, Selene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L209]
+- Story: the blueprint plans, in `Plot-Beats`, „Um den aggressiven Überwachungssonden von AEGIS zu entgehen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211] and „hackt Logikfallen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der verführerische Loop
+
+Title: „Der verführerische Loop“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L241] — heading „Sophias Angebot“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L242]
+Position: Teil II; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L243]; place from `Ort`: „Das Auge von KW4“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L245]
+
+- Story: the matrix plans „Sophia bietet Kael eine permanente Existenz in einer schmerzfreien“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L247]
+- Question: „Würdest du in einer perfekten Lüge bleiben, wenn sie keinen Schmerz enthält?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L246]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -57,6 +90,10 @@ Title: „Chaitins Rauschen und das innere Kind“ ^[roman-konzept-dualitaet-koh
 
 - Who: „Kiko weint ununterbrochen, scheinbar ohne logische Kausalität“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
 - Establishes: „Rhys, der Pfleger-ANP, versucht sanft zu intervenieren“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 3, the Moonshine-Link
+
+- A guiding question for Kap 19, a proposal: the link is not on screens or voices; Kael is flooded by qualia — „Der Geschmack von rheinischem Regen, der Geruch von verbranntem Zucker (Köln)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L76] — and the feeling „dass eine Hand seine eigene hält“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L76].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS floods the Archiv's lower levels with Sinnleere
 
@@ -76,6 +113,15 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Selene tritt zum ersten Mal hervor“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L240]; „Er imitiert Härte, weil Härte überlebt hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L240]
 - The pacing section marks a plateau: „Kap 19 (Selene/Silas)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L370].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Moonshine Anomaly
+
+Title: „The Moonshine Anomaly“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L551]
+Position: Akt II; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L559]
+
+- Story: the outline plans „Juna greift nicht in die Stadt ein, liefert Kael aber Gnosis“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L557]
+- Story: the outline plans „Juna wird nur im Negativraum beschrieben“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L561]
+- Concepts: „Gnosis, Vertex-Operator-Algebra“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L555]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

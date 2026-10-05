@@ -1,0 +1,141 @@
+{
+  "document": "roman-outline-system-kael",
+  "drive_id": "1g9GmHtugee33U-ema8l5S9XviEfRDDH0msae_J6WMi8",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 101,
+    "decisions": 113,
+    "decided_by_lookup": 81,
+    "needs_judgement": 32
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "grenzfeste",
+      "lines": [
+        125,
+        127
+      ],
+      "attribution": "",
+      "note": "KW3's scene"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "KW1's scene"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        170,
+        172
+      ],
+      "attribution": "",
+      "note": "KW4's scene"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        80,
+        82
+      ],
+      "attribution": "",
+      "note": "KW2's scene"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        39,
+        82,
+        127,
+        172
+      ],
+      "attribution": "",
+      "note": "the Risse, world by world"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C11"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Zero-Trust",
+      "line": 58,
+      "decision": "reading",
+      "why": "light pass: the outline restates scifi-roman-mit-ki-schreiben (record 74), whose reading on this page holds the same"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 189,
+      "decision": "reading",
+      "why": "light pass: the outline restates scifi-roman-mit-ki-schreiben (record 74), whose reading on this page holds the same"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 18,
+      "decision": "occurrence",
+      "why": "the introduction's heading, `Die Architektur der Reise zur Kohärenz` (J9)"
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 188,
+      "decision": "occurrence",
+      "why": "`Nexus of Whispers`, a locality (J12)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 39,
+      "decision": "reading",
+      "why": "light pass: the outline restates scifi-roman-mit-ki-schreiben (record 74), whose reading on this page holds the same — the Juna echoes hinting at another plane of reality (L39)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

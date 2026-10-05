@@ -1,16 +1,34 @@
 ---
 term: Silas
 status: candidate
-sources: 33
-readings: 33
+sources: 38
+readings: 38
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "romanprojekt-analyse-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
 # Silas
 
 One of the thirteen [[alters|Alters]] — Spiegel-Alter, „Juna-Echo" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L724].
+
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — integrated in the plot draft; the Glitching Market for the meeting
+
+In its advice the report says the plot draft „integriert bereits Lex, Echo, Silas und Anya“ ^[scifi-roman-mit-ki-schreiben.md:L244] and proposes a place for each scene, for example the „Glitching Market“ ^[scifi-roman-mit-ki-schreiben.md:L246] „für die Begegnung mit Silas“ ^[scifi-roman-mit-ki-schreiben.md:L246]
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — a figure of the plot outline through whom parts are externalised
+
+Silas stands once, in the synthesis's reading of the plot of Part 1 (glued `1`): Kael meets his aggressive and protecting parts in the Grenzfeste, „externalisiert durch Figuren wie Silas“ ^[system-kael-konzeptentwicklung-und-analyse.md:L208]
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — three wordings of one resolution
+
+The reconstruction words the Silas resolution three ways. Section 2.3: the skeptic's role „wurde formal auf die Figur“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L78] Argus transferred. The decision log: „Die Entität Silas wurde in ihrer Funktion als Skeptiker eliminiert.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L184], with Silas at most a synonym: „Silas fungiert, falls erwähnt, maximal noch als Synonym für die Schatten-Instanz Nyx“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L184]. The cleared entry Status OQ-02: „Silas wurde durch Argus als Skeptiker ersetzt.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L259] Transferred, eliminated and replaced stand together in the one document.
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Silas in conflict C-003 and among the decanonised alters (F-06)
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+In C-003 the report quotes Doc 30 as „Silas is likely a prototype/alias for Rhys“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L24]; its own `Kern-Konflikt` cell reads „Es herrscht Unklarheit darüber, in welchem kanonischen Alter der dekanonisierte Silas tatsächlich aufgegangen ist (Rhys vs. Argus).“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L24] Registry row F-06 lists him with the removed alters: „Charaktere wie Silas, Oblivion, Eos, Nox und Praetor sind narrative Redundanzen und erzählerisch toxisch für den aktuellen 11er-Kanon.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L71]
 
 ## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — Silas as a repair subsystem of the writing assistant
 
@@ -27,6 +45,10 @@ Appendix B lists Silas under `Spiegel-Alter`: „Juna-Echo. Interner Resonanzkö
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — warm surfaces, a whisper, named in Kap 19
 
 The outline of 2026-05-01 lists Silas's first covert trace as „warme Oberflächen, Flüstern“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L121], in Kap 4 and 6, and the first named appearance in Kap 19. Kap 4's hidden layer says „Die warme Oberfläche = Silas“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]. In Kap 19 „Die Alter wollen Silas zerstören“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L240]; in Kap 33 „Silas ist offen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L310].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the hostile Alter of Kap 18, converted from `Nox`
+
+For Kap 18 the dual-storyform outline plans: „Der feindseligste Anteil, Silas, sabotiert die Kooperation der Alters von innen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L529] and, at the end of the chapter, „Silas bricht seine Sabotage-Routinen ab“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L549] The chapter's concept line writes `Silas Oblivion` (L527) next to `Oblivion` in Kap 31 (L912); the outline does not say whether the two are one figure. Anhang B reports the origin of the name: „umgewandelt zu Silas (Perpetrator Mimic / Täter-Imitator)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1344] — `Nox` was discarded, the outline reports, because the name stood on a list of decanonised names.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -207,3 +229,8 @@ A compilation that audits its sources and lists eleven, not thirteen, canonical 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — Pfleger of Resonanz-Landschaft, a role Rhys also carries in the same document
 
 A report addressed to the author; recorded, not applied. The table names him „Silas (Pfleger)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L41], of Resonanz-Landschaft (KW2) under Mnemosyne, „Manager & Caretaker" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L41] (see [[alters]]). `Silas` stands only in the table (`grep -cw Silas`: 1, `Plan/runs/roman-konzept-dualitaet-kohaerenz-spannung/05-verify.txt`); Kapitel 19 gives the same Pfleger role to [[rhys|Rhys]] instead (above), an internal tension the document does not resolve.
+
+## Where the sources differ
+
+- The outline converts `Nox` to `Silas` (Perpetrator Mimic / Täter-Imitator) and writes `Silas Oblivion` without saying whether it is `Oblivion`.
+- The reconstruction records Silas as transferred to [[argus|Argus]], eliminated as skeptic and replaced by Argus, with at most a synonym role for Nyx.

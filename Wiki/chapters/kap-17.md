@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -52,6 +52,40 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Direktive A: "Bewahre bewusste Integrität innerhalb stabiler Parameter."“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241] · „Direktive B: "Eliminiere alle Quellen unvorhersehbarer Entropie."“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
 - Story: „was AEGIS in eine logische Zwickmühle zwingt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `AEGIS's Misalignment: A Paradox Becomes Visible`
+
+Title: „AEGIS's Misalignment: A Paradox Becomes Visible“ ^[ai-assisted-narrative-coherence.md:L1489] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the scene outline plans the scene at „2.4 - AEGIS Core Logic Space“ ^[ai-assisted-narrative-coherence.md:L1493], POV „AEGIS (Analytical)“ ^[ai-assisted-narrative-coherence.md:L1494]
+
+- Story (conflict): the scene outline plans „This is the paradox of misaligned coherence in action.“ ^[ai-assisted-narrative-coherence.md:L1496]
+- Story (beat): the scene outline plans „Initiate direct psychological attacks designed to re-traumatize Kiko“ ^[ai-assisted-narrative-coherence.md:L1503]
+- Turn: `Outcome & Turn` has „leads it to declare war on“ ^[ai-assisted-narrative-coherence.md:L1504]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Entropy as a weapon
+
+Title: „Entropie als Waffe“ ^[romanstruktur-und-philosophische-einleitung.md:L160]
+Position: Teil II, „Der Zerfall der Simulation“ ^[romanstruktur-und-philosophische-einleitung.md:L160]
+
+- Story: „Die informationelle Entropie steigt exponentiell an.“ ^[romanstruktur-und-philosophische-einleitung.md:L162]; the cause is hedged: „vermutlich durch die Komplexität von Kaels eigener Integration“ ^[romanstruktur-und-philosophische-einleitung.md:L162]
+- Story: „Er füttert das System mit Datenmüll, um es zu verlangsamen und Ressourcen zu binden.“ ^[romanstruktur-und-philosophische-einleitung.md:L164]
+- the chapter points back to Kap 14: „Er wendet die Erkenntnis aus Kapitel 14 gegen das System an“ ^[romanstruktur-und-philosophische-einleitung.md:L164]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Juna-Spiegelung
+
+Title: „Die Juna-Spiegelung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L190]
+Position: Teil II; setting from the `Schauplatz` field: „Die Randbereiche der Überwelt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L192]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna/V, Selene (Self)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L193]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael findet einen rauschfreien Nexus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] and „Hier offenbart sich Juna in ihrer wahren Form“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Riss im Schild
+
+Title: „Der Riss im Schild“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L217] — heading „Die Überforderung des Wächters“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L218]
+Position: Teil II; POV from `Perspektive & Stimme`: „Alex (bricht zusammen)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L219]; place from `Ort`: „Tief im Labyrinth von KW3“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L221]
+
+- Story: the matrix plans „Alex scheitert an einem Logik-Paradoxon des Systems. Lia bricht durch und löst die Situation nicht durch Kampf, sondern durch Intuition/Spiel“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L223]
+- Question: „Was passiert, wenn die stärkste Mauer bricht?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L222]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -78,6 +112,14 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Im Mosaik-Innenraum: Streit“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232]; „AEGIS schickt elektrische Feedback-Loops in das Substrat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232]
 - Pacing: „Polyphonie-Bruch in jedem Absatz“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — AEGIS's Misalignment
+
+Title: „AEGIS's Misalignment“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L495]
+Position: Akt II; POV: „POV: AEGIS (Systemprotokolle).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L503]
+
+- Story: the outline plans „interpretiert die Integration der Alters als Vorboten des absoluten entropischen Kollapses“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L501]
+- Concepts: „Algorithmische Melancholie (Prä-Stadium), Kohärenztheorie der Wahrheit“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L499]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

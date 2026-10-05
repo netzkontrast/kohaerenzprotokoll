@@ -1,0 +1,14 @@
+# romanstruktur-und-philosophische-einleitung
+  lines                326  (frontmatter ends at 9)
+  body words           5362
+  headings             49   bold-only lines 1
+  table rows           10   code fences 0
+  question marks       10
+  backslash escapes    44
+  typographic marks    191   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    60
+  repeated labels      none
+  longest line         815 chars
+

@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,21 @@ Title: „Der Riss wird zum Tor“ ^[monstergruppe-primzahlen-plot-blueprint.md:
 - Establishes: „Ende von Akt I: Kael hat einen potenziellen Weg erkannt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L150]
 - Establishes: „zu einem potenziellen Übergang oder einer Schwachstelle in AEGIS' Kontrolle“ ^[monstergruppe-primzahlen-plot-blueprint.md:L150]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Kontakt
+
+Title: „Kapitel 13: Kontakt“ ^[roman-outline-system-kael.md:L191]
+Position: Teil IV, KW4
+
+- Story: „Gemeinsam navigieren Kael und seine inneren und äußeren Verbündeten die chaotische, zerbrechende Überwelt“ ^[roman-outline-system-kael.md:L191] to the AEGIS hub; Part 1 ends with Kael as the Wir of his system making contact.
+
+## Reading — `outline`, 2025-07-30, the outline — Der Einstieg in die Überwelt
+
+Title: „Der Einstieg in die Überwelt“ ^[outline.md:L84] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „sucht Kael bewusst die Überwelt, AEGIS' direkte Domäne, auf und erhält initialen Zugang“ ^[outline.md:L86]
+- Focus: under `Fokus`, „Die Überwelt wird als abstrakt, steril und datengesteuert eingeführt“ ^[outline.md:L87]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -41,6 +56,40 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael handelt mit neu gefundener Entschlossenheit oder innerer Konsistenz“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185] · „Alte prädiktive Modelle werden als 'veraltet' markiert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185]
 - Story: „Kael bemerkt möglicherweise eine Veränderung in der 'Haltung' des Systems ihm gegenüber – weniger abweisend, wachsamer.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185]
 - Discussion: „Dies markiert einen Wendepunkt in der Kael-AEGIS-Dynamik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186] · „Es erhöht den Einsatz für Teil 2 erheblich.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Decision to Act`, one entry shared with Kap 11–13
+
+Title: „The Decision to Act“ ^[ai-assisted-narrative-coherence.md:L1404] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.8 - Kael's Inner World“ ^[ai-assisted-narrative-coherence.md:L1408], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1409]
+
+- Story (goal): the scene outline plans „To unify the internal system around a single, actionable purpose.“ ^[ai-assisted-narrative-coherence.md:L1410]
+- Story (beat): the scene outline plans „They agree on a single common goal: to actively investigate AEGIS and find the truth.“ ^[ai-assisted-narrative-coherence.md:L1418]
+- Turn: `Outcome & Turn` has „marking his transition from a victim to an active protagonist“ ^[ai-assisted-narrative-coherence.md:L1419]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — End of the inner journey
+
+Title: „Ende der Inneren Reise“ ^[romanstruktur-und-philosophische-einleitung.md:L113]
+Position: Teil I, „Die neue Perspektive“ ^[romanstruktur-und-philosophische-einleitung.md:L113]
+
+- Story: „Das Abschlusskapitel von Teil I fungiert als Scharnier zum nächsten Teil.“ ^[romanstruktur-und-philosophische-einleitung.md:L115]
+- Story: „Er erkennt die Künstlichkeit der Welt, die Pixel, den Code hinter der Textur.“ ^[romanstruktur-und-philosophische-einleitung.md:L117]
+- the same paragraph looks back: Kael sees KW1 „nicht mehr als perfekten Ort (wie in Kap. 1)“ ^[romanstruktur-und-philosophische-einleitung.md:L117]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Tanz im Garten
+
+Title: „Der Tanz im Garten“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L155]
+Position: Teil I; setting from the `Schauplatz` field: „Übergangszone zwischen KW1 und der Überwelt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L157]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L158]
+- Story: the blueprint plans, in `Plot-Beats`, „Er hört auf, sein Trauma zu vermeiden“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L160] and „AEGIS schaltet von sanfter Panoptikum-Lenkung auf feindliche Eliminierung um“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L160]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Abgrund-Entscheidung
+
+Title: „Die Abgrund-Entscheidung“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L165] — heading „Ende der Passivität“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L166]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (entschlossen, aber fragil)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L167]; place from `Ort`: „Die Grenze von KW2 zu KW3“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L169]
+
+- Story: the matrix plans „Das System greift die Zuflucht an. Anstatt zu fliehen oder zu dissoziieren, wählt Kael den bewussten Schritt tiefer ins System (Richtung KW3)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L171]
+- Question: „Freiheit im Schmerz oder Gefangenschaft in der Betäubung?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L170]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -80,6 +129,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Change 2 ends the veil here: „Erst Kap 13 fällt der Vorhang“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L20].
 - The POV rules say: „Vor Kap 13 wird kein Alter beim Namen genannt“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L126].
 - The pacing section calls it: „Kap 13 = Zäsur, kein Cliffhanger“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L366].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Der Tanz im Garten
+
+Title: „Der Tanz im Garten“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L367]
+Position: Akt I; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L375]
+
+- Story: the outline plans „eine innere Routine, um die Balance der Alters zu pflegen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L373]
+- Concepts: „Gardener's Axiom“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L371]
+- Pivot-Marker: „Action (AEGIS) dominiert den Takt, Kael reagiert ausweichend“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L397]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

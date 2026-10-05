@@ -1,0 +1,426 @@
+{
+  "document": "romanprojekt-kohaerenz-protokoll-analyse",
+  "drive_id": "18v17G9Kg0H0O-1qmkB3XzdEH2AzcdR6Y8-XDvNPN8to",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 92,
+    "decisions": 92,
+    "decided_by_lookup": 81,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        83,
+        112,
+        113,
+        114
+      ],
+      "attribution": "",
+      "note": "SIS, RIVE and ZTEM as the three protocols"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        23,
+        48,
+        85
+      ],
+      "attribution": "",
+      "note": "not an intentional antagonist, a closed autopoietic system that believes K1 and operates as K0"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        23,
+        53,
+        69,
+        85
+      ],
+      "attribution": "",
+      "note": "the table's end state, the Option 1 recommendation, and the Vortex's fifth beat"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        65,
+        82,
+        121
+      ],
+      "attribution": "",
+      "note": "thirteen TSDP alters against the Bekenstein bound, and the 13-alter syntax grid"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        50,
+        104
+      ],
+      "attribution": "",
+      "note": "five Wächter in the pre-reset column; Cerberus subsumed into LogOS's pole"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "Juna as the Chaitin constant of the novel"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        31,
+        54,
+        121
+      ],
+      "attribution": "",
+      "note": "the DKT as diegetic natural law, and its vocabulary kept out of the text"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        23,
+        48,
+        92
+      ],
+      "attribution": "",
+      "note": "AEGIS's control acts produce the entropy"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        37,
+        39,
+        70,
+        83
+      ],
+      "attribution": "",
+      "note": "the Genesis-Symmetrie in three beats, and its revelation through overload"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        27,
+        49,
+        89,
+        91,
+        93
+      ],
+      "attribution": "",
+      "note": "IC in both storyforms, the unmodellable rest, the Telefonstille, one appearance"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        39,
+        84,
+        128,
+        138,
+        139
+      ],
+      "attribution": "",
+      "note": "Komponente 734, the pivot decision, Oblivion as AEGIS's echo, the Ouroboros pronouns"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        127
+      ],
+      "attribution": "",
+      "note": "the syntax grid: Freeze and the square centimetre of floor"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        39,
+        49
+      ],
+      "attribution": "",
+      "note": "Beat 3 of the Genesis, and the table's genesis row"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        71,
+        112
+      ],
+      "attribution": "",
+      "note": "the solipsistic vacuum chamber, and the Nichts-Rauschen at its edges"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        125
+      ],
+      "attribution": "",
+      "note": "the syntax grid: rationalist, hypotactic cascades"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        91,
+        93,
+        104
+      ],
+      "attribution": "",
+      "note": "the erasing pole with Cerberus subsumed, and the scanners"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        81,
+        85,
+        103
+      ],
+      "attribution": "",
+      "note": "the Archipel as AEGIS's storage substrate, the static cold pole, the equilibrium"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        49
+      ],
+      "attribution": "",
+      "note": "named in the table's verdict column"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        82,
+        139
+      ],
+      "attribution": "",
+      "note": "Kael reaching functional multiplicity in the heat spike"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        112
+      ],
+      "attribution": "",
+      "note": "RIVE's phenomenology"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        126
+      ],
+      "attribution": "",
+      "note": "the syntax grid: Fight and asyndetic series"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        128,
+        143
+      ],
+      "attribution": "",
+      "note": "the AEGIS echo in Kael, and the mirror-alter of Kap 31"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        53,
+        134,
+        138,
+        139
+      ],
+      "attribution": "",
+      "note": "the ozone image, cold in Kap 1 and hot in Kap 39"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "named in the Vortex directive"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        52,
+        114
+      ],
+      "attribution": "",
+      "note": "the Risse as symptom, and ZTEM's Glitches"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        93
+      ],
+      "attribution": "",
+      "note": "Selene among the alters in Juna's one appearance"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        62,
+        91
+      ],
+      "attribution": "",
+      "note": "the Telefonstille as anchor mode, and as a gap"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        39,
+        83
+      ],
+      "attribution": "",
+      "note": "Beat 2 of the Genesis, and the protocol pouring out of the failed firewall"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        69,
+        85,
+        128
+      ],
+      "attribution": "",
+      "note": "the collapse of the system's worldview, and the recognition of K0"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        39,
+        49,
+        65
+      ],
+      "attribution": "",
+      "note": "TSDP as the biographical scale, and thirteen alters"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        52,
+        79,
+        143
+      ],
+      "attribution": "",
+      "note": "the Vortex as a strictly physical event, and the table's driver-pivot row"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      30,
+      31,
+      33,
+      34,
+      35,
+      36,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C7",
+    "C11",
+    "C12",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 82,
+      "decision": "reading",
+      "why": "13 alters reached in the heat spike (L82), read on alters and multiplizitaet"
+    },
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 31,
+      "decision": "reading",
+      "why": "DKT as diegetic natural law (L31)"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 23,
+      "decision": "reading",
+      "why": "AEGIS's control acts producing the entropy (L23)"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 39,
+      "decision": "reading",
+      "why": "the Genesis-Symmetrie, three beats (L37–L39)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the document's title (J9)"
+    },
+    {
+      "page": "nichts-rauschen",
+      "surface": "Nichts-Rauschen",
+      "line": 112,
+      "decision": "reading",
+      "why": "RIVE's phenomenology at the city's edges (L112)"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "surface": "Ouroboros-Struktur",
+      "line": 53,
+      "decision": "reading",
+      "why": "the ozone inversion of Kap 1 and Kap 39 (L134–L139)"
+    },
+    {
+      "page": "potentialmeer",
+      "surface": "Potentialmeer",
+      "line": 83,
+      "decision": "reading",
+      "why": "the report's own directive at L83"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 52,
+      "decision": "reading",
+      "why": "the table's driver-pivot row and ZTEM's heat and Glitches (L52, L114)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 53,
+      "decision": "occurrence",
+      "why": "the table's pre-reset column (L53)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

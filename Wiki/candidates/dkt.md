@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 31
-readings: 31
+sources: 37
+readings: 37
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -13,9 +13,17 @@ gathered: "2026-09-24"
 **The physics of the novel's world: two computational substrates, [[kohaerenz-kernel|K₁]]
 and [[kollaps-kernel|K₀]], and reality as the tension between them.**
 
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the architecture's frame, named once
+
+The master blueprint's analysis names the theory as the novel's frame. It writes the „Dual Kernel Theory“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L21] in parentheses as `DKT`, and it says what the architecture uses it for: „um die psychologische Realität der Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP) isomorph in einer digitalen Simulation abzubilden“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L21] The document gives no further account of the theory.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — the physics as prose style
 
 „Diese psychologische Architektur wird durch die Dual-Kernel-Theorie (DKT) stilistisch manifestiert." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L45] „Der Kohärenz-Kernel (K1) dominiert die Welten von AEGIS." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L45] „Szenen unter K1-Einfluss müssen in einem objektiven, minimalistischen und parataktischen Stil verfasst werden." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L45] „Bricht jedoch das Trauma oder die Anomalie Juna durch, wechselt das System in den Kollaps-Kernel (K0)." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L45] „Der Stil wechselt abrupt in einen maximalistischen, hypotaktischen Deep POV, der von rohen, synästhetischen Körperempfindungen dominiert wird" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L45]. No line names the theory again; every chapter that follows marks its DKT level only as `K1` or `K0` in the plot summary.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the DKT as the valid in-world metaphysics, the Λ-Canon as pseudoscience
+
+The Kohärenz-Check, item 3, claims of the Dual Kernel Theory (K1 vs. K0) that it „ist die gültige, in-world wahre Metaphysik, die TSDP abbildet“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L126], while the Λ-Canon is, in the report's words, classified „wird hingegen explizit als pseudowissenschaftliche“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L126] private cosmology. The line ends in reference 5 and so reports another source's classification. The report's own correction proposal is that „darf der Λ-Canon nicht versehentlich als wahres Erklärungsmodell genutzt werden“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L130] in Teil 2. These are the report's claims and proposals; the page records them and applies none.
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — the Ontologische Inversion inside the Dual-Kernel-Theorie
 
@@ -27,11 +35,21 @@ The document names the theory as `Dual-Kernel-Theorie` ^[ki-narrative-kollaps-ko
 
 The next sentence says what the architecture is taken to be: „Der externe kosmologische Kollaps einer simulierten Welt spiegelt exakt die interne psychologische Fragmentierung einer menschlichen Identität wider“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L19], an isomorphism that „nutzt die Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP) als Quellcode für Charakterdynamiken und die Informationstheorie als Basis für die Physik der Welt“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L19].
 
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — DKT at the centre of the narrative physics
+
+Section 2.4 opens its account of the narrative physics with „Im Zentrum dieser Metaphysik steht die“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L98] Dual-Kernel-Theorie (DKT). The two kernel symbols before `-Kernel` are lost in the export, so the passages naming them are not quoted. SC-02 (Dual-Kernel-Theorie, Soft Canon) sets that the two kernels „dienen als stilistisches Prinzip für das Worldbuilding und den Sprachduktus.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L164]
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the DKT as the ontological heart, two kernels, consciousness at their interface, a war of truth theories
 
 The pitch opens its theory section with the claim: „Das theoretische und ontologische Herzstück des gesamten Universums“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L23] is the `Dual Kernel Theorie (DKT)`. The reality of the simulation consists, it says, not of static matter but arises „aus der permanenten Interferenz zweier fundamentaler, gegensätzlicher Operatoren hervorgeht“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L23]. These laws are also a stage: „Diese physikalischen Gesetze fungieren gleichzeitig als metaphysische Bühne für das psychologische Drama“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L23], and by a process of „semantischen Neuaneignung“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L23] they become „in unumstößliche ontologische Imperative verwandelt werden“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L23].
 
 The two kernels follow: the ordering one is „der sogenannte Kohärenz-Kernel“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L25] (reversible computation, structure preservation; the coherence theory of truth), the other is introduced as „Der direkte ontologische Antagonist dieser sterilen Ordnung“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L27], the Kollaps-Kernel (irreversible erasure, entropy, the arrow of time, the correspondence theory). Consciousness: „Wahres Bewusstsein – das Erleben von Qualia – entsteht in dieser Erzählung erst an der Interface-Grenzfläche“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L29], where the structural system fights „aktiv und unter massiven Reibungsverlusten gegen seine eigene entropische Auflösung“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L29]. In the plot the duality becomes „ein physischer Krieg der Wahrheitstheorien“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L31].
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — The dual kernel theory in P-01 and the source index
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row P-01 (five stars): „Der physikalische Kampf zwischen K1 (Kohärenz, Ordnung, Selbsterhalt) und K0 (Kollaps, Entropie, Dekohärenz/Trauma).“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L91] The source index rates one group of cited texts „Hoch (Erklärt DKT und TSDP tiefgehend)“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L49].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the literal ontology of information, seen as physics in Akt II
 
@@ -59,6 +77,14 @@ The audit's own verdicts that touch it are separate. It verifies the heat spike 
 ## Reading — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt — DKT as the reported ontological foundation
 
 The prompt does not explain the theory. In its report of what the canon trio defines it lists first a „Ontologisches Fundament — Dual-Kernel-Theorie (DKT)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L743], with K1 as „Coherence-Domain, AEGIS-territorium, Konstrukt-Stadt“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L743] set against K0 as „Collapse-Domain, Juna-Resonanz, Risse“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L743], and gives a key formula with the gloss „Maß für Suppression-Effizienz“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L743] (the symbols are lost in the export). The blurb is to carry no theory vocabulary; the trio is not in the prompt's text.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — the DKT as diegetic natural law, and its vocabulary kept out of the text
+
+Part 1 (§1.4) states as consensus: „Die Dual-Kernel-Theorie (DKT) ist keine Metapher, sondern diegetisches Naturgesetz“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L31] In the table's row on the role of the DKT concepts, column 3 (the Struktur-Kanon as the report renders it) says „Komplexe physikalische Begriffe dürfen auf den ersten 50 Seiten nicht fallen.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L54] and column 4, the report's verdict `Synthese`, says „Die theoretische Physik bleibt literal, verschwindet aber als explizite Vokabel aus dem Text.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L54] In §4.4 the correlates „Die physikalischen DKT-Korrelate bleiben private Autorensysteme zur Rhythmisierung“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L121]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the physics invoked in Kap 12
+
+The outline lists `Dual-Kernel-Theorie` among Kap 1's concepts and in Kap 12, where AEGIS meets a zone of coherence without entropy, the plan says: „Dies widerspricht den Grundfesten der DKT-Physik, da Kontrolle normalerweise Hitze erzeugt.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L345]
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
@@ -182,3 +208,7 @@ It names no author, no Coheron, Erason or PAL, and writes the kernels only as `K
 
 Not in date order with the readings above; placed after the last one. A research report; each hypothesis's verdict is its own. **It settles an objection about AEGIS' consciousness**: „Die Entkräftung dieses Einwands erfolgte über die Dual-Kernel Theory: AEGIS besitzt ein Proto-Bewusstsein an der Interface-Grenze, das jedoch durch die Genesis-Krise korrumpiert wurde." ^[dramatica-storyform-synthese-aegis-analyse.md:L35] The kernel it names there has its symbol lost in the export: „Wenn Storyform B den "Phoenix Collapse" – das Scheitern des -Kerns – kartographiert, muss die narrative Linse zwingend auf der Entität liegen, die diesen Kollaps erfährt." ^[dramatica-storyform-synthese-aegis-analyse.md:L35] A second hypothesis is rejected on the same theory: „Die Falsifikations-Versuche stützten sich primär auf die First-Principles Decomposition der Dual-Kernel Theory." ^[dramatica-storyform-synthese-aegis-analyse.md:L43] „Der -Kern zeichnet sich durch seine absolute, monolithische Kompromisslosigkeit aus." ^[dramatica-storyform-synthese-aegis-analyse.md:L43] The winning hypothesis is bound by the theory's physical limit: „Hypothese H1 […] die physikalischen Grenzen des Landauer-Limits ehrt und die perfekte 5D-Interferenz mit Storyform A ermöglicht." ^[dramatica-storyform-synthese-aegis-analyse.md:L47]
 It writes `Dual-Kernel Theory` in English and never `Dual-Kernel-Theorie`, and names no author, no Coheron, Erason or PAL (`Giannakopoulos`, `Coheron`, `Erason`, `PAL` 0; `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`).
+
+## Where the sources differ
+
+- the research report claims the DKT is „ist die gültige, in-world wahre Metaphysik, die TSDP abbildet“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L126] and proposes the Λ-Canon only as a red herring.

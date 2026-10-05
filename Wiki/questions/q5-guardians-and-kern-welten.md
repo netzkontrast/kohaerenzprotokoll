@@ -302,3 +302,48 @@ Stands as the manifest's own pairing, four worlds and five Guardians; recorded, 
 The Erasure-Pol appears as F3's open question: „Welcher der beiden ist der Lösch-Pol mit dem stärksten Reibungspotenzial?“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L498] (L498), the choice between `Cerberus` and `LogOS`. The Archipel of Mnemosyne is the setting of the climax: „Mnemosyne wird zum Setting für den Klimax.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L494] (L494). The acts are tied to worlds KW1, KW2–3 and KW4 in Appendix A (L596, L604, L612), without Guardian names.
 
 Where it stands in the record's own terms: it does not answer the pairing; it narrows the question to a single erasing pole, which the Kanon leaves open. The count was decided on 2026-09-24, after this document.
+
+## 2026-10-05 — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report
+
+**The editor's report gives one Guardian per Kern-Welt as the plot document has it: LogOS, Mnemosyne, Cerberus, Kairos and Sophia.**
+
+- KW1: „regiert von Guardian LogOS“ ^[scifi-roman-mit-ki-schreiben.md:L88]
+- KW2: „Die fluide Welt der Emotionen und Erinnerungen, überwacht von Mnemosyne“ ^[scifi-roman-mit-ki-schreiben.md:L89]
+- KW3: „Die paranoide Welt der Abwehr und Isolation, kontrolliert von Cerberus“ ^[scifi-roman-mit-ki-schreiben.md:L90]
+- KW4: „gehütet von Kairos und Sophia“ ^[scifi-roman-mit-ki-schreiben.md:L91]
+
+Table 2 repeats the pairing (L229–L232) and, as a reproduction of the plot document, says it rests on reference 1.
+
+The report decides nothing about Q5; it reports four pairs, with Kairos and Sophia sharing KW4, and does not mention an Erasure-Pol.
+
+## 2026-10-05 — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis
+
+**The three-part analysis pairs LogOS with KW1, Cerberus with KW3, Mnemosyne with KW2 and Kairos/Sophia with KW4.**
+
+KW1: „Diese Umgebung ist die Manifestation der Domäne *LogOS*“ ^[romanstruktur-und-philosophische-einleitung.md:L39] KW3: „Dies ist der Übergang zur **Kern-Welt 3 (KW3)**, der Domäne *Cerberus*.“ ^[romanstruktur-und-philosophische-einleitung.md:L49] KW2: „die **Kern-Welt 2 (KW2)**, die Domäne *Mnemosyne*.“ ^[romanstruktur-und-philosophische-einleitung.md:L53] KW4: „in der aufkeimenden **Kern-Welt 4 (KW4)**, der Domäne *Kairos/Sophia*.“ ^[romanstruktur-und-philosophische-einleitung.md:L93] In Part II the three are called Wächter and read as code: „die Wächter der Kernwelten (LogOS, Mnemosyne, Cerberus)“ ^[romanstruktur-und-philosophische-einleitung.md:L150]
+
+In the record's terms the analysis stands with four pairs, Kairos and Sophia sharing KW4; it retells a plot from the concept papers it lists, and says nothing of an Erasure-Pol.
+
+## 2026-10-05 — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis
+
+**The synthesis gives the same pairing of Wächter and worlds as the editor's report ^[scifi-roman-mit-ki-schreiben.md:L88], with the code names; it decides nothing.**
+
+KW1 (`Co₁`) is „Domäne von LogOS“ ^[system-kael-konzeptentwicklung-und-analyse.md:L160], KW2 (`McL`) „Domäne von Mnemosyne“ ^[system-kael-konzeptentwicklung-und-analyse.md:L161], KW3 (`B`) „Domäne von Cerberus“ ^[system-kael-konzeptentwicklung-und-analyse.md:L162] and KW4 (`Ly`) „Domäne von Kairos/Sophia“ ^[system-kael-konzeptentwicklung-und-analyse.md:L164], so Kairos and Sophia share KW4 as in the editor's report ^[scifi-roman-mit-ki-schreiben.md:L91]. It does not name an Erasure-Pol.
+
+Stands: one Wächter for each of KW1 to KW3 and two for KW4, as the synthesis lists them; the record's question is not addressed.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report
+
+**The research report's table pairs four Kernwelten with Wächter names and [[tsdp|TSDP]] parts, with Kairos and Sophia in one world.**
+
+The table has KW1 `LogOS` („Lex (Rationaler ANP)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L52]), KW2 `Mnemosyne` („EPs (Nyx, Kiko) & Rhys (Caregiver)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L53]), KW3 `Cerberus` („Nyx (als Beschützer)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L54]), KW4 `Kairos`/`Sophia` („Selene (Integrator) & Lia“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L55]). The Teil I plot calls Mnemosyne one of the Wächter: „durch die Wächter (insbesondere Mnemosyne)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L27], and Leitfrage 4 speaks of „In KW2 (Mnemosyne) wird Juna nicht als existierendes Subjekt erkannt“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L80]. The Kohärenz-Check places „Die Wächterin Sophia strebt Integration durch die“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L110] elimination in KW4. It names no sixth Guardian and no Erasure-Pol.
+
+In the record's terms the report pairs each Kernwelt with one name, two (`Kairos`/`Sophia`) in KW4, and decides nothing.
+
+## 2026-10-05 — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the methodology report, the three-act blueprint, the scene outline, the critique)
+
+**The parts pair Guardians with the first three worlds, and the KW1 Guardian has two names in them.**
+
+The methodology report: „a confrontation with the Guardian of KW1 (Logik)“ ^[ai-assisted-narrative-coherence.md:L801]. The scene outline names the same post as `LogOS`: „active resistance from the Guardian of KW1,“ ^[ai-assisted-narrative-coherence.md:L1322] `LogOS`, and the critique uses `LogOS` as the label of the world, „Kernwelt 1 (LogOS)“ ^[ai-assisted-narrative-coherence.md:L947]. For KW2 and KW3 the three-act blueprint says „actively manipulated and distorted by the Guardian Mnemosyne.“ ^[ai-assisted-narrative-coherence.md:L873] and „His struggle against the Guardian Cerberus's rigid security protocols is the external manifestation of his internal battle“ ^[ai-assisted-narrative-coherence.md:L874]. The world names vary by part: the concept document's table has `KW1: Logos-Prime`, the architecture analysis „KW1 (Konstrukt-Stadt/LogOS-Prime)“ ^[ai-assisted-narrative-coherence.md:L1725].
+
+It adds the two names of the KW1 Guardian (`Logik` in the methodology report, `LogOS` in the scene outline) to the question; Q5 stays open.

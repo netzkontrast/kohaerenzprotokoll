@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 36
-readings: 36
+sources: 45
+readings: 45
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-24"
 ---
 
@@ -25,9 +25,33 @@ Scene 1 states as its goal the establishing of the „Nichts Rauschens“ ^[opti
 
 Version 2's scene 1 plans the threat in beat 3: „Rauschen intensiviert sich, drohende Auflösung, aktives Festhalten der Form.“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L28] Scene 4 opens with „Der Große Angriff: Massive Welle des Rauschens, Zerstörung, drohender Kollaps.“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L66] The goal of scene 1, `Nichts Rauschens` in the document's own inner marks, is its coined term.
 
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the hostile, dissolving void of the Genesis prologue
+
+The report gives the plot document's prologue (reference 1): a spark of structure arises „in einer als feindlich und auflösend empfundenen Leere“ ^[scifi-roman-mit-ki-schreiben.md:L48] named „Nichts Rauschen“ ^[scifi-roman-mit-ki-schreiben.md:L48].
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the state before the system, and its reading as a metaphor
+
+The synthesis, reporting the narrative genesis (glued `1`), says the state is „nicht als leeres Vakuum“ ^[system-kael-konzeptentwicklung-und-analyse.md:L30] but defined as `Nichts Rauschen`, „eine aktive, drückende Potentialität, deren fundamentale Vibration droht, jede Form von Struktur auszulöschen“ ^[system-kael-konzeptentwicklung-und-analyse.md:L30] Its own interpretation: the `Nichts Rauschen` „kann als Metapher für diese überwältigende traumatische Erfahrung verstanden werden“ ^[system-kael-konzeptentwicklung-und-analyse.md:L38]
+
+## Reading — `outline`, 2025-07-30, the outline — the `Nichts Rauschen` as no absence in Kap 34
+
+Kap 34 plans that Kael confirms that the `Nichts Rauschen` (Leere) „keine Abwesenheit ist, sondern ein primordialer Zustand von Potenzial oder integrierten Paradoxien.“ ^[outline.md:L223] (L223).
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the AEGIS analysis, the simple guide, the concept document, the lexicon) — three English glosses of one German name
+
+The parts write the name with different English glosses. The AEGIS analysis: „(Nothingness Noise)“ ^[ai-assisted-narrative-coherence.md:L136] followed by „—a high-entropy, pre-cosmic void that perpetually threatens to dissolve any form of order.“ ^[ai-assisted-narrative-coherence.md:L136] The simple guide: „(Nothingness Roaring)“ ^[ai-assisted-narrative-coherence.md:L229]. The concept document: „(Nothing Noise)“ ^[ai-assisted-narrative-coherence.md:L533], „This is not a passive void but an active, high-entropy potentiality“ ^[ai-assisted-narrative-coherence.md:L533]. The blueprint's table has the heading „The Nothingness Roar (Das Nichts Rauschen)“ ^[ai-assisted-narrative-coherence.md:L368]; the lexicon writes the gloss `Nothingness Roaring` and defines the term as „The primordial, undifferentiated, high-entropy substrate of pure potentiality.“ ^[ai-assisted-narrative-coherence.md:L1833]
+
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the narrative's Nichts and Rauschen, read as emptiness and as entropy
 
 The Textanalyse comments on one narrative and does not name the Nichts-Rauschen as one term; it reads two of the narrative's words together. **The narrative, as the Textanalyse quotes it:** the opening on the Nichts, „Ein Abgrund, getarnt als Begriff“ ^[textanalyse-existenz-system-und-leid.md:L24]. The fragment lives in a „Meer der Leere“ ^[textanalyse-existenz-system-und-leid.md:L48] interrupted by „Lärm reiner Information ohne Sinn“ ^[textanalyse-existenz-system-und-leid.md:L48]. **The Textanalyse reads** the Rauschen as „nicht nur metaphysisch, sondern auch informationstheoretisch zu deuten“ ^[textanalyse-existenz-system-und-leid.md:L46], as Entropie, and, reporting Luhmann, as the environment which the system must turn into Sinn by selection. The Nichts is felt as threat: „Kraft, die auslöschen will“ ^[textanalyse-existenz-system-und-leid.md:L34] is its phrase, and the synopsis row says: „Das Nichts ist hier nicht neutrale Leere, sondern aggressive Entropie“ ^[textanalyse-existenz-system-und-leid.md:L289]. This is the commentary's sense, attributed to it.
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a cast entry of Kap 27
+
+The master blueprint casts the Nichts Rauschen in Kap 27 as a figure beside Kael: „Kael, Das Nichts Rauschen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L277] The setting is „Epsilon-Null (Das Potentialmeer jenseits der Simulation)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L276]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Nichts Rauschen in Kap 5
+
+Kap 5 plans that a glitch reveals the term: „Ein schwerer Glitch offenbart das“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L75] „Nichts Rauschen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L75] The motif is „Statisches Rauschen, das Gefühl von fallendem Druck.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L77]
 
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — what AEGIS reads Kael's fragmentation as, the noise it deletes, and what the story flip makes of it
 
@@ -35,9 +59,19 @@ In the canonical reading the protagonist's fragmentation is, for AEGIS, „als a
 
 The story flip rereads it: the supposed symptom, „die psychologische Fragmentierung, das Rauschen und das Trauma“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L97], becomes a survival achievement. And what the chaos is, in the document's words: „Das Chaos (die subjektiven Qualia und das Trauma) offenbart sich als die einzige verbleibende Quelle von echter wechselseitiger Information im Universum“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L115].
 
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — HC-12, an information vacuum
+
+HC-12 (Ontologie der Leere) sets that the `Nichts Rauschen` „existiert als physikalisches Informationsvakuum“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L154] at the edge of the simulation, triggering ontological vertigo.
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the Kollaps-Kernel narratively, and what AEGIS shields against
 
 The Kollaps-Kernel appears narratively as the `Nichts Rauschen` (L27, „Nichts Rauschen“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L27]), with trauma and the EPs; in the Genesis-Krise AEGIS crystallised to prevent the total collapse „Nichts Rauschen“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L105].
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Das Nichts-Rauschen, row W-07
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row W-07, whose concept cell is „Das Nichts-Rauschen“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L84], sums it up: „Das absolute informationelle Chaos/Entropie (Potentialmeer), aus dem AEGIS aus ontologischer Angst hervorging.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L84]
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the reader's effort against the static
 
@@ -52,6 +86,10 @@ The audit's verdict on the synthesis: „Das Audit bewertet diese Synthese aus l
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — one trace of the unity
 
 Beat 1 of the Genesis: „Im Roman erscheint dieser Zustand nur als Spur (Telefonstille, das Nichts-Rauschen, atemporales MI-Feld).“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L113]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — RIVE's phenomenology
+
+In the report's protocol directive (§4.3, `Lösung zu F2`) `RIVE` is „Der dauerhafte Hintergrund-Scan.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L112] and its phenomenology is a quiet `Nichts-Rauschen` „an den Rändern der Konstrukt-Stadt“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L112]
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -70,6 +108,7 @@ goes silent — „Nichts-Rauschen wird absolute Stille" ^[kohaerenz-protokoll-s
 
 - `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01: the noise is AEGIS' name for [[kael|Kael]]'s fragmentation, trauma and ambivalence, and the story flip rereads it as adaptive survival and as the only remaining source of real mutual information.
 - `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29: the Nichts-Rauschen is the all-devouring entropy that threatens the simulated universe, and the reader's cognitive effort is an external thermostat against it.
+- The compilation glosses the name three ways: `Nothingness Noise` in the AEGIS analysis, `Nothingness Roaring` in the simple guide and the lexicon, `Nothing Noise` in the concept document.
 
 ## Open
 

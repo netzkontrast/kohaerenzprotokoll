@@ -1,0 +1,14 @@
+# system-kael-konzeptentwicklung-und-analyse
+  lines                296  (frontmatter ends at 9)
+  body words           5234
+  headings             16   bold-only lines 1
+  table rows           9   code fences 0
+  question marks       32
+  backslash escapes    24
+  typographic marks    140   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    36
+  repeated labels      none
+  longest line         1444 chars
+

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      64
+  backslash escapes      28
+  typographic marks      11
+  ascii quotes           114
+
+# inflection families -- one term, several surfaces
+  daten    Daten, Datenbänke, Datenernte, Datenflüsse, Datenkorruption, Datenpaket, Datenpakete, Datenpunkt, Datenpunkte, Datenströme
+  syste    System, Systeme, Systemische, Systemkern, Systemlücke, Systemregel, Systems
+  archi    Archipel, Architectural, Architektur, Archiv, Archivar, Archive
+  analy    Analyse, Analyst, Analytiker, Analytisch
+  infor    Informationsentropie, Informationssturm, Informationstheorie, Informationsüberlastung
+  inter    Interdisziplinärer, Internal, Internet, Intervention
+  kapit    Kapitel, Kapitelgenerierung, Kapitelstruktur, Kapitelweise
+  poten    Potentialis, Potentialmeer, Potentialmeers, Potenzials
+  psych    Psyche, Psychoedukation, Psychologie, Psychologisch
+  wahrh    Wahrheit, Wahrheiten, Wahrheitsdualität, Wahrheitskonzepten
+  detai    Detaillierte, Detaillierter, Details
+  diese    Diese, Dieser, Dieses
+  disso    Dissociation, Dissonanz, Dissoziation
+  emoti    Emotion, Emotionale, Emotionen
+  entro    Entropic, Entropie, Entropieminimierung
+  entsc    Entscheidung, Entschluss, Entschlüsselung
+  fragm    Fragment, Fragmente, Fragmentierung
+  fried    Frieden, Friedhof, Friedlich
+  gödel    Gödel, Gödelsche, Gödelsches
+  kontr    Kontrolle, Kontrollvektoren, Kontrollzentrum
+  logik    Logik, Logikfallen, Logikgatter
+  parad    Paradoxie, Paradoxien, Paradoxon
+  persö    Persönlichkeit, Persönlichkeitsanteile, Persönlichkeitsaspekte
+  proto    Protokoll, Protokolle, Protokolls
+  quell    Quellcode, Quellen, Quellenfokus
+
+# substring pairs -- never one term, often merged by accident
+  Beat < Beats
+  Code < Quellcode
+  Dual < Wahrheitsdualität
+  Echo < Echos
+  Eine < Meine
+  Eine < Seine
+  Eine < Anscheinend
+  Eins < Gemeinsam
+  Ende < Folgenden
+  Fall < Falle
+  Fall < Fallen
+  Fall < Logikfallen
+  Form < Formeln
+  Form < Umformung
+  Form < Informationssturm
+  Form < Informationstheorie
+  Form < Strukturinformation
+  Form < Informationsentropie
+  Form < Informationsüberlastung
+  Herr < Vorherrschaft

@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 20
-readings: 20
+sources: 22
+readings: 22
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-16"
 ---
 
@@ -44,6 +44,16 @@ See [[multiplizitaet|Multiplizität]].
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — Kael's DID as induced by AEGIS, as the report cites its User Query
 
 The report's own matrix row gives Kael's state as „Kaels psychischer Zustand (von AEGIS induziert); Kernwelten als Repräsentation der Fragmente“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L46] (L46). In its section on M and Kael it writes, citing its User Query: „Kaels Dissoziative Identitätsstörung (DID) ist explizit keine natürlich entstandene Störung, sondern das“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L92] result of an attempt, as the line continues, „AEGIS' Versuch, die Komplexität von M in isolierbare Komponenten zu zerlegen und auf eine menschliche Psyche abzubilden“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L92] The Plotanalyse reads this as a perversion of DID therapy, which aims at integration. In the identity section it repeats: „Seine von AEGIS induzierte DID stellt die Frage nach der Natur des Selbst“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L130]
+
+## Reading — `outline`, 2025-07-30, the outline — DID as a depiction labelled in Kap 3, Kap 6 and Kap 12
+
+`DID` stands in labels and notes of Teil 1. Kap 3's psychological note is headed „DID-Darstellung“ ^[outline.md:L37] (L37), where the Riss is described as an intrusion overlaying Kael's thoughts and triggering depersonalisation. Kap 6's Fokus holds that the success or failure of the inner negotiation shows Kael's progress „im Umgang mit seiner DID“ ^[outline.md:L57] (L57). In Kap 12 co-consciousness is called „ein Schlüsselziel in der DID-Therapie“ ^[outline.md:L82] (L82), because it reduces amnesia and enables cooperation.
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the ARCHON proposal, the simple guide, the critical review, the three-act blueprint and the strategy paper of the English compilation — DID as the clinical name for Kael's condition
+
+`DID` ^[ai-assisted-narrative-coherence.md:#5] stands in five lines. The ARCHON proposal says the protagonist's „Dissociative Identity Disorder (DID) is modeled on the“ ^[ai-assisted-narrative-coherence.md:L96] Theory of Structural Dissociation; the simple guide (L219 on) writes that tertiary dissociation is „the theory's model for what is clinically known as Dissociative Identity Disorder (DID).“ ^[ai-assisted-narrative-coherence.md:L244]
+
+The critical review (L652 on) lists among the novel's strengths „Offers a respectful and credible depiction of DID.“ ^[ai-assisted-narrative-coherence.md:L728] The three-act blueprint (L831 on) reads the first symptoms of the awakening as „These are not symptoms of simple confusion but the first intrusions from the other Alters within his Dissociative Identity Disorder (DID) system“ ^[ai-assisted-narrative-coherence.md:L847]. The strategy paper (L1157 on) names an ethical task: „the profound challenge of sensitively representing trauma and“ ^[ai-assisted-narrative-coherence.md:L1215] the disorder.
 
 ## Reading — `hard-sci-fi-cosmic-horror-research-questions`, 2026-01-02, the Cosmic-Horror research report — DID as reported from an analysed Plotanalyse
 

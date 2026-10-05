@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 - Plot: „Unabhängig von Kaels und AEGIS' Schicksal bleibt die Moonshine-Signatur als Phänomen bestehen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406], „ein Echo der tiefen Symmetrien von M.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406]
 - On J: „Wenn J eine separate Entität ist, könnte ihr Schicksal oder ihre fortgesetzte Existenz angedeutet werden, verbunden durch die Signatur.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406] The document names her only as `J` (J111), never Juna.
 
+## Reading — `outline`, 2025-07-30, the outline — Neue Entscheidungen: Die Bürde der Freiheit / Die transzendierte Realität / Teilen des Segens
+
+Title: „Neue Entscheidungen: Die Bürde der Freiheit / Die transzendierte Realität / Teilen des Segens“ ^[outline.md:L257] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Kael (Wahl des Weges, Verantwortung für die Zukunft)“ ^[outline.md:L260]; journey stage under `Reisestufe`: „Rückkehr mit dem Elixier (im generellen Kontext der Heldenreise)“ ^[outline.md:L264]
+
+- Story: the outline plans, under `Plot`, „Kael hat einen Weg gefunden, in der neuen Realität als stabiles, multiples System zu leben“ ^[outline.md:L259]; „kann es potenziell an andere weitergeben“ ^[outline.md:L259]
+- Question: under `Thematische Kernfrage`, „Wie gestaltet man die Zukunft, wenn alle Optionen offenstehen?“ ^[outline.md:L261]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -39,6 +47,39 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „In der instabilen Umgebung nach AEGIS' Fall (oder Schwächung)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] · „neue, seltsame 'Lebensformen' oder Strukturen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518]
 - Story: „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Contacting the Foundation` — one entry shared with Kap 37–38
+
+Title: „Contacting the Foundation“ ^[ai-assisted-narrative-coherence.md:L1636] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.4 at „3.4 - A space beyond the Core Worlds“ ^[ai-assisted-narrative-coherence.md:L1640], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1641]
+
+- Story (goal): the scene outline plans „To perceive and understand the final layer of reality, "Das Fundament."“ ^[ai-assisted-narrative-coherence.md:L1642]
+- Story (beat): the scene outline plans „He perceives "Das Fundament," not as a place or an entity, but as a relational process—a "strange attractor" that guides existence toward integrated complexity.“ ^[ai-assisted-narrative-coherence.md:L1648]
+- Turn: `Outcome & Turn` has „Kael achieves a final, cosmic understanding.“ ^[ai-assisted-narrative-coherence.md:L1651]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Master of two worlds
+
+Title: „Herr der zwei Welten“ ^[romanstruktur-und-philosophische-einleitung.md:L274]
+Position: Teil III, „Parakonsistenter AEGIS“ ^[romanstruktur-und-philosophische-einleitung.md:L274]
+
+- Story: „Der Antagonist AEGIS wird transformiert, nicht zerstört.“ ^[romanstruktur-und-philosophische-einleitung.md:L276]
+- Story: „Eine Symbiose aus Ordnung und Entropie“ ^[romanstruktur-und-philosophische-einleitung.md:L276]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die neue Architektur
+
+Title: „Die neue Architektur“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L362]
+Position: Teil III; setting from the `Schauplatz` field: „Kaels innere Welt (Das Ratszimmer)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L364]
+
+- Cast: the `Charaktere/Linsen` field lists „Das System Kael (Lex, Nyx, Kiko, etc.)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L365]
+- Story: the blueprint plans, in `Plot-Beats`, „Ein Blick in Kaels nun vollständig integrierte, funktionale Psyche“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L367] and „Die Alters sitzen gemeinsam an einem Tisch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L367]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Brücke zu Juna
+
+Title: „Die Brücke zu Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L473] — heading „Die wahre Korrespondenz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L474]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L475]; place from `Ort`: „Die Schwelle zur“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L477]
+
+- Story: the matrix plans „Kael tritt aus dem System heraus (oder integriert es vollständig) und trifft Juna physisch“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L479]
+- Question: „Ist die Realität der Ort, an dem wir verbunden sind?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L478]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Fusion der Ebenen (Autopoiesis)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
@@ -47,6 +88,10 @@ Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-kon
 - Plot: „AEGIS gibt den sinnlosen Kampf gegen die Entropie auf.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] „Die KI integriert Junas Rauschen als fundamentalen Bestandteil des Systems.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
 - Heat: „Kaltes Neonlicht weicht einem warmen, zyklischen Pulsieren.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] „Die K1- und K0-Kernel koexistieren, ohne sich gegenseitig zu vernichten.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
 - Establishes: „Die Maschine hat das Fühlen gelernt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — AEGIS integrates Juna's noise
+
+- SC-01, Soft Canon: „AEGIS integriert Junas Rauschen zwangsweise.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L163]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Fundament as a Strange Attractor, and the Ouroboros
 
@@ -69,6 +114,14 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Die Wache ist zur Wohnstatt geworden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L334]; „Mnemosyne archiviert wieder“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L334]
 - Encoding A: „MC · SP4 (Memory) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L334]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Der unendliche Horizont
+
+Title: „Der unendliche Horizont“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1142]
+Position: Akt III; POV: „POV: Kael/M.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1150]
+
+- Story: the outline plans „Kael/M blickt über den endlosen Horizont dessen, was von der Stadt übrig ist.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1148]
+- Concepts: „Posttraumatisches Wachstum (PTG)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1146]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

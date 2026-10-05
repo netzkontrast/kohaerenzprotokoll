@@ -1,0 +1,172 @@
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Er beantwortet die Frage"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Er beantwortet die Frage` ^[system-kael-konzeptentwicklung-und-analyse.md:#2]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Offene Fragen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Offene Fragen` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Nichts Rauschens"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nichts Rauschens` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "ZTEM-Validierung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ZTEM-Validierung` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Wächtern"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Wächtern` ^[system-kael-konzeptentwicklung-und-analyse.md:#2]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Wächterin"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wächterin` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Rissen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rissen` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Kaels"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kaels` ^[system-kael-konzeptentwicklung-und-analyse.md:#6]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Juna-Echos"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna-Echos` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "KW1-4"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KW1-4` ^[system-kael-konzeptentwicklung-und-analyse.md:#2]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Mosaik-Herzens"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mosaik-Herzens` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Kernphobien"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernphobien` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "TSDP-basierte"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP-basierte` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "entropieerzeugend"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`entropieerzeugend` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Aktionssystemen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Aktionssystemen` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Integrity Guardian"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Integrity Guardian` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Echo"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Echo` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Silas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Silas` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Dokument"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Dokument` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Dokumenten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dokumenten` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Nutzer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Nutzer` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Nutzers"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nutzers` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Maya"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Maya` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Brahman"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Brahman` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Schwarzes Loch"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Schwarzes Loch` ^[system-kael-konzeptentwicklung-und-analyse.md:#0]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Zero-Trust Execution Model"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zero-Trust Execution Model` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Behavioral Proof-of-Function"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Behavioral Proof-of-Function` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ python3 scripts/read.py system-kael-konzeptentwicklung-und-analyse --count "Encrypted Intent Channels"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Encrypted Intent Channels` ^[system-kael-konzeptentwicklung-und-analyse.md:#1]
+$ grep -c '^[0-9]*\.  ' reference entries L273-L295 = 23 lines (L273 to L295 inclusive)
+23
+profile glued ref numbers 36, from 01-profile.txt
+  glued ref numbers    36

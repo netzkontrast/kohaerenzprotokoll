@@ -1,16 +1,60 @@
 ---
 term: Rhys
 status: candidate
-sources: 24
-readings: 24
+sources: 34
+readings: 34
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-24"
 ---
 
 # Rhys
 
 One of the thirteen [[alters|Alters]] — ANP, „Caregiver" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L431].
+
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the caring ANP, with Alex a pro-social pair; sees a chance for connection
+
+The report gives the pair „Alex (Beschützer) & Rhys (Pfleger)“ ^[scifi-roman-mit-ki-schreiben.md:L137] as the plot document's, and says on how the parts read an event: „Rhys mag eine Chance zur Verbindung sehen“ ^[scifi-roman-mit-ki-schreiben.md:L156] It places him in KW4 with „mit Anteilen wie Rhys, Selene und Lia assoziiert sind“ ^[scifi-roman-mit-ki-schreiben.md:L91]
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the caring ANP, core phobia unhealable pain
+
+In the roster (glued `1`) Rhys (Fürsorger) is „Ein empathischer Anteil, der nach Harmonie und Verbindung strebt“ ^[system-kael-konzeptentwicklung-und-analyse.md:L111] and his core phobia is „die Konfrontation mit unheilbarem Schmerz“ ^[system-kael-konzeptentwicklung-und-analyse.md:L111]
+
+## Reading — `outline`, 2025-07-30, the outline — Rhys as the caretaker ANP, mediator of co-presence
+
+The outline plans Rhys as „der Pfleger-ANP“ ^[outline.md:L42] (L42, Kap 5), who steps forward to keep inner harmony. In Kap 10 the moments of rudimentary co-consciousness are „oft vermittelt durch Rhys“ ^[outline.md:L72] (L72), and in Kap 12 two Anteile, „z.B. Lex und Rhys“ ^[outline.md:L82] (L82), are named as an example for a state of co-consciousness. Rhys is one of the ANPs of L116 (list quoted under [[alex]] and the other pages of that list), and in Kap 30 Kael is supported by integrated Anteile, „insbesondere Echo, Rhys“ ^[outline.md:L187] (L187).
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the blueprint, the narrative distillation, the scene outline and the architecture analysis of the English compilation — Rhys as the caregiver and mediator, an ANP
+
+The narrative distillation (L279 on) names Rhys as the one who mediates between the analytical and the aggressive parts: „mediated by the empathic ANP, Rhys“ ^[ai-assisted-narrative-coherence.md:L299]. The blueprint's table row types the part „ANP - Carer/Social Mediator. Focused on empathy and connection.“ ^[ai-assisted-narrative-coherence.md:L444] and says of its outward reach „Is most open to external connections like Juna/V.“ ^[ai-assisted-narrative-coherence.md:L444]
+
+In the scene outline (L1273 on), Chapter 16's scene 2.3 turns on Rhys: „realizes this only strengthens the fear and shifts their strategy from combat to protection.“ ^[ai-assisted-narrative-coherence.md:L1484] The architecture analysis (L1671 on) lists the part as „The caregiver; focuses on empathy, connection, and internal harmony.“ ^[ai-assisted-narrative-coherence.md:L1763]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Rhys as the empathic carer, bridge to the emotions
+
+The three-part analysis introduces him in Kap 6 as „*Rhys* (der empathische Pfleger)“ ^[romanstruktur-und-philosophische-einleitung.md:L73] and Table 1 says he is „Brücke zu den Emotionen, hält den Kontakt zu Juna.“ ^[romanstruktur-und-philosophische-einleitung.md:L127] In Kap 12: „Kael kann auf die Fähigkeiten von *Rhys* (Empathie) und *Lex* (Analyse) gleichzeitig zugreifen“ ^[romanstruktur-und-philosophische-einleitung.md:L111]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the caretaker Alter in Kap 4
+
+The master blueprint casts „Rhys (Caretaker)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L86] in Kap 4 and plans that he cushions the fall: „tritt hervor, um Kael vor dem emotionalen Aufprall in einer nebligen, feuchten Landschaft zu dämpfen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L88]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Rhys in Kap 8 and 12
+
+Kap 8 casts „Kael, Rhys (Fürsorger-Stimme).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L108] Kap 12 lists him among the parts in dialogue: „Polyphon (Mehrere Anteile im Dialog: Kael, Lex, Alex, Rhys).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L155]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Rhys as caregiver in KW2 and a helper out of the loop
+
+The table puts Rhys in KW2: „EPs (Nyx, Kiko) & Rhys (Caregiver)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L53]. In Leitfrage 6 the next-session question is „Wie gelingt es Selene und Rhys, Kael aus diesem künstlich induzierten Trauma-Loop zu befreien“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L88].
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — a co-dependent caregiver, with the Kudzu image
+
+Among the sub-identities: „Rhys operiert als grenzwertig co-abhängiger Pfleger-Anteil (ANP)“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L92], driven by fear of rejection and likened to a Kudzu vine.
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Rhys in conflict C-007, swinging between carer and co-dependency
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+In C-007 the report quotes Doc 33 as „Rhys - ANP (Carer) - Attachment, Caregiving, Social Interaction“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L34] and Doc 44 as „Verwendung der Kudzu-Metapher zur Illustration co-abhängiger Tendenzen im System.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L34] Its own `Kern-Konflikt` cell: „Die Darstellung des Pfleger-Anteils Rhys schwankt zwischen einem rein positiven, harmonisierenden Anteil und einer toxischen Co-Abhängigkeit, die das System erstickt.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L34] In C-003 it quotes Doc 30 as „Silas is likely a prototype/alias for Rhys“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L24].
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Rhys in Appendix B, a Caregiver
 Appendix B lists Rhys among the ANPs: „Caregiver. Somatik: Schweiß, fiebrige Hände.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L637] The arc runs through the Kanon's Acts I and II (L637).
@@ -136,3 +180,7 @@ An English file of about fourteen reports of 2025. Every roster it gives keeps h
 The thematic analysis and the Comparative Case Study both call him the Relational ANP: „Rhys (The Relational ANP): A functional part oriented toward empathy, connection, and care. He often serves as a mediator between the more rigid and defensive parts." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1203] The Case Study's own words for the same role: „Another functional part, Rhys is oriented toward empathy, connection, and care. His motivations often bring him into conflict with the more rigid, defensive, or emotionally detached parts of the system, as he seeks to build bridges both internally and externally." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1303]
 
 The Assessment gives AEGIS a way to exploit him: „AEGIS exploits Rhys's empathy by presenting him with overwhelming evidence of the system's suffering, leading to caretaker burnout." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1660]
+
+## Where the sources differ
+
+- The report reads the presentation of Rhys as swinging between a positive and a toxic figure (C-007).

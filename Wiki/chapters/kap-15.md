@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -51,6 +51,39 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Er beginnt, eine mentale (oder tatsächliche) Karte des Überwachungsnetzes zu erstellen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Discussion: „Dieser Subplot macht Kael zu einem aktiven Ermittler des Systems.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L216]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Architecture of Control: Analysis of the Overworld`
+
+Title: „The Architecture of Control: Analysis of the Overworld“ ^[ai-assisted-narrative-coherence.md:L1451] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the scene outline plans the scene at „2.2 - AEGIS Überwelt (Log Entry)“ ^[ai-assisted-narrative-coherence.md:L1455], POV „AEGIS (Log Format)“ ^[ai-assisted-narrative-coherence.md:L1456]
+
+- Story (conflict): the scene outline plans „His actions are increasingly unpredictable because they are not the product of a single mind“ ^[ai-assisted-narrative-coherence.md:L1458]
+- Story (beat): the scene outline plans „escalate surveillance and deploy“ ^[ai-assisted-narrative-coherence.md:L1465]
+- Turn: `Outcome & Turn` has „The narrative tension escalates as the antagonist begins to actively hunt the protagonist.“ ^[ai-assisted-narrative-coherence.md:L1466]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The architecture of the guardians
+
+Title: „Die Architektur der Wächter“ ^[romanstruktur-und-philosophische-einleitung.md:L148]
+Position: Teil II, „Dekonstruktion“ ^[romanstruktur-und-philosophische-einleitung.md:L148]
+
+- Story: „Er erkennt, dass sie keine bewussten Wesen, sondern Subroutinen und Algorithmen von AEGIS sind“ ^[romanstruktur-und-philosophische-einleitung.md:L150]
+- Story: „Es ist eine Phase der Entmystifizierung der eigenen Hölle.“ ^[romanstruktur-und-philosophische-einleitung.md:L152]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Begegnung mit dem Paria
+
+Title: „Die Begegnung mit dem Paria“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L174]
+Position: Teil II; setting from the `Schauplatz` field: „Die Schattenebene von KW2 (Mnemosyne-Archipel)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L176]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Nox (Persecutor/Verfolger), AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L177]
+- Story: the blueprint plans, in `Plot-Beats`, „Unter dem extremen Stress von AEGIS regrediert Kael und fällt in eine traumatische Endlosschleife“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L179] and „Kael erkennt, dass Nox eine fehlgeleitete Schutzfunktion erfüllt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L179]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das Cerberus-Labyrinth
+
+Title: „Das Cerberus-Labyrinth“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L193] — heading „Konstruierte Paranoia“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L194]
+Position: Teil II; POV from `Perspektive & Stimme`: „Alex (ANP-Beschützer) – hyper-vigilant, militärisch“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L195]; place from `Ort`: „Kern-Welt 3 (Dunkelheit, Enge, Bedrohung)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L197]
+
+- Story: the matrix plans „Eintritt in KW3. Alex zwingt Kael in den Hintergrund. Die Welt spiegelt Kaels eigene PTBS-Paranoia wider“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L199]
+- Question: „Wenn die Abwehr zur Falle wird, wer schützt uns dann?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L198]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -77,6 +110,15 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „formalisiert AEGIS als universelle Turingmaschine“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L224]; „identifiziert das Halteproblem als strukturellen Fluch“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L224]
 - Pacing: „Akademisch dicht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L224].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Society of Alters
+
+Title: „The Society of Alters“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L439]
+Position: Akt II; POV: „POV: Interner Wechsel (Lex, Nyx).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L447]
+
+- Story: the outline plans „Nyx (Firefighter) will die neu gefundenen Schwachstellen nutzen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L445]
+- Story: the outline plans „während Lex (Manager) auf absolute Zurückhaltung plädiert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L445]
+- Concepts: „Manager vs. Firefighter, Nyx“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L443]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

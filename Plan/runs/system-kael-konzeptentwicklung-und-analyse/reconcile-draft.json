@@ -1,0 +1,379 @@
+{
+  "document": "system-kael-konzeptentwicklung-und-analyse",
+  "drive_id": "1DTn94pg899ebXOWniuNRZgjWg3BI4_NsebdWXAMkrwU",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 85,
+    "decisions": 91,
+    "decided_by_lookup": 75,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        48,
+        50,
+        51,
+        52,
+        82
+      ],
+      "attribution": "",
+      "note": "the Guardian-Interface protocols and the Integrity Guardian"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        30,
+        32,
+        36,
+        38,
+        80,
+        84,
+        177,
+        261
+      ],
+      "attribution": "",
+      "note": "the genesis as negation, the core sentence, the toxic manager and the self-fuelled Risse"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        110
+      ],
+      "attribution": "",
+      "note": "Beschützer, core phobia helplessness"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        132
+      ],
+      "attribution": "",
+      "note": "a metacognitive part, core phobia imperfection"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        60,
+        162,
+        208
+      ],
+      "attribution": "",
+      "note": "the hypervigilant, paranoid defence, domain of KW3"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        72,
+        74,
+        75,
+        76,
+        84
+      ],
+      "attribution": "",
+      "note": "three levels, and the force AEGIS fights"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        30,
+        38
+      ],
+      "attribution": "",
+      "note": "the genesis as a cosmological mirror of TSDP"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        162,
+        208
+      ],
+      "attribution": "",
+      "note": "KW3, Cerberus's domain, a bunker-like fortress"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        122
+      ],
+      "attribution": "",
+      "note": "named in the roster of EPs"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        179,
+        181
+      ],
+      "attribution": "",
+      "note": "the safe, co-regulating bond, and the central conflict as a struggle for bonding"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        108,
+        167,
+        188,
+        228,
+        232
+      ],
+      "attribution": "",
+      "note": "host and primary manager, bound to the toxic bond, healing himself"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "suppressed, potentially chaotic creative potential"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        156,
+        167
+      ],
+      "attribution": "",
+      "note": "the four worlds as externalisations, code names and domains"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        120
+      ],
+      "attribution": "",
+      "note": "flight and freeze"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        160
+      ],
+      "attribution": "",
+      "note": "KW1, LogOS's domain, the world of the ANPs"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        80,
+        82
+      ],
+      "attribution": "",
+      "note": "the principle stated, and AEGIS's erasures producing entropy"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        58,
+        109
+      ],
+      "attribution": "",
+      "note": "an analyst part; LogOS comparable to him"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        121
+      ],
+      "attribution": "",
+      "note": "ambivalent attachment"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        58,
+        252
+      ],
+      "attribution": "",
+      "note": "pure logic cut off from emotion"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "archived but unintegrated emotional memory"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        164,
+        209
+      ],
+      "attribution": "",
+      "note": "KW4, Kairos/Sophia, potential and integration"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        123
+      ],
+      "attribution": "",
+      "note": "collapse, hopelessness and existential emptiness"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        209,
+        228
+      ],
+      "attribution": "",
+      "note": "accepting complexity as strength, healing the dissociative split"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        30,
+        38
+      ],
+      "attribution": "",
+      "note": "the state before the system, and its reading as a metaphor"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        119
+      ],
+      "attribution": "",
+      "note": "the fight reaction"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        161
+      ],
+      "attribution": "",
+      "note": "KW2, Mnemosyne's domain, emotional memory and trauma"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        111
+      ],
+      "attribution": "",
+      "note": "the caring ANP, core phobia unhealable pain"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        78,
+        84
+      ],
+      "attribution": "",
+      "note": "active processes of decay, and AEGIS's own by-product"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        131,
+        142
+      ],
+      "attribution": "",
+      "note": "among the integrating parts, and ANP-Regulator in Tabelle 1"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        208
+      ],
+      "attribution": "",
+      "note": "a figure of the plot outline through whom parts are externalised"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        62,
+        164
+      ],
+      "attribution": "",
+      "note": "the often overtaxed attempt at synthesis"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        38,
+        100,
+        102
+      ],
+      "attribution": "",
+      "note": "eleven parts sorted into ANPs, EPs and integrating forms"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        46,
+        56
+      ],
+      "attribution": "",
+      "note": "AEGIS's primary instrument, the Labor der Kohärenz, as externalised mind"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      14
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C11"
+  ],
+  "questions_changed": [
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 283,
+      "decision": "occurrence",
+      "why": "a reference title (L283)"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 26,
+      "decision": "reading",
+      "why": "the genesis heading and its paragraphs (L26–L38)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the document's title (J9)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Überwelt",
+      "line": 42,
+      "decision": "reading",
+      "why": "the Digitale Überwelt and its Wächter (L42–L56)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

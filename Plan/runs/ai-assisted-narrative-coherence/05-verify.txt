@@ -1,0 +1,221 @@
+# every number the note and census state, with the command that produced it (2026-10-05)
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "ARCHON"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`ARCHON` ^[ai-assisted-narrative-coherence.md:#21]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Narrative Context Protocol"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Narrative Context Protocol` ^[ai-assisted-narrative-coherence.md:#5]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Kohärenz Protokoll"
+whole word, case-sensitive     51
+whole word, case-insensitive   51
+including compounds            51
+
+`Kohärenz Protokoll` ^[ai-assisted-narrative-coherence.md:#51]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Coherence Protocol"
+whole word, case-sensitive     11
+whole word, case-insensitive   12
+including compounds            11
+
+`Coherence Protocol` ^[ai-assisted-narrative-coherence.md:#11]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Kohärenz-Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz-Protokoll` ^[ai-assisted-narrative-coherence.md:#0]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Gödel-Gambit"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Gödel-Gambit` ^[ai-assisted-narrative-coherence.md:#13]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "39 chapters"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`39 chapters` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "functional multiplicity"
+whole word, case-sensitive     30
+whole word, case-insensitive   40
+including compounds            30
+
+`functional multiplicity` ^[ai-assisted-narrative-coherence.md:#30]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Functional Multiplicity"
+whole word, case-sensitive     10
+whole word, case-insensitive   40
+including compounds            10
+
+`Functional Multiplicity` ^[ai-assisted-narrative-coherence.md:#10]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Nothingness Roaring"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nothingness Roaring` ^[ai-assisted-narrative-coherence.md:#3]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Nothingness Noise"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nothingness Noise` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Nothing Noise"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nothing Noise` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "K-1123"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K-1123` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Kohärenz-Verifikator"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz-Verifikator` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Externe Ebene"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Externe Ebene` ^[ai-assisted-narrative-coherence.md:#3]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "The Externe Ebene"
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            0
+
+`The Externe Ebene` ^[ai-assisted-narrative-coherence.md:#0]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Perspective Shift"
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            1
+
+`Perspective Shift` ^[ai-assisted-narrative-coherence.md:#0]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Perspective Shifts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Perspective Shifts` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Show, Don't Tell"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`Show, Don't Tell` ^[ai-assisted-narrative-coherence.md:#4]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Dr. Thorne"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dr. Thorne` ^[ai-assisted-narrative-coherence.md:#2]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Dr. Aris Thorne"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dr. Aris Thorne` ^[ai-assisted-narrative-coherence.md:#2]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Research Proposal"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Research Proposal` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Concept Document"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Concept Document` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Scene-by-Scene Outline"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Scene-by-Scene Outline` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Lexicon of Core Concepts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lexicon of Core Concepts` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "official logline"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`official logline` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "canonical architectural blueprint"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`canonical architectural blueprint` ^[ai-assisted-narrative-coherence.md:#1]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Überwelt"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Überwelt` ^[ai-assisted-narrative-coherence.md:#11]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Potentialmeer"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Potentialmeer` ^[ai-assisted-narrative-coherence.md:#8]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Das Fundament"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Das Fundament` ^[ai-assisted-narrative-coherence.md:#10]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Moonshine-Link"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Moonshine-Link` ^[ai-assisted-narrative-coherence.md:#9]
+$ python3 scripts/read.py ai-assisted-narrative-coherence --count "Autonomous Entropic Gatekeeper for Integrity Systems"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Autonomous Entropic Gatekeeper for Integrity Systems` ^[ai-assisted-narrative-coherence.md:#2]
+$ grep -n "^# " Sources/drive/ai-assisted-narrative-coherence.md   # fourteen H1 headings
+11:# **Research Proposal: The ARCHON Framework for AI-Assisted Narrative Coherence**
+124:# **The Tragic Architecture of AEGIS: A Character Analysis**
+219:# **The Core Concepts of Coherence Protocol: A Simple Guide**
+279:# **The Coherence Protocol: A Narrative Distillation**
+339:# **The Coherence Protocol: A Definitive Narrative & Conceptual Blueprint**
+525:# **Concept Document: The Nature of the Foundation, Juna/V, and the Origin of the Simu
+652:# **An Architecture of the Self: A Critical Review of 'Kohärenz Protokoll'**
+732:# **Report: Narrative Methodology for "Kohärenz Protokoll"**
+831:# **Coherence Protocol: A Three-Act Narrative Blueprint**
+931:# **The Architecture of a Fractured Soul: A Critique of "Kohärenz Protokoll"**
+1073:# **The Architecture of a Self: Kael's Journey to Coherence**
+1157:# **Strategic Analysis of the Narrative Architecture: Kohärenz Protokoll**
+1273:# **Kohärenz Protokoll: Scene-by-Scene Outline**
+1671:# **Coherence Protocol: A Narrative Architecture Analysis**
+$ grep -n "ARCHON" ... (line numbers)
+11 19 27 39 41 43 47 57 75 83 93 94 101 108 110 113 116 122 
+$ grep -n "?" ... (11 question marks, line numbers)
+35 36 37 79 277 678 689 981 1051 
+$ grep -n Alex
+1312 1313 1357 1359 1363 1366 1762 
+stance_marker_count 6 = six markers, 1 each: Research Proposal, Concept Document, Scene-by-Scene Outline, Lexicon of Core Concepts, official logline, canonical architectural blueprint (counts above)
+eleven alters: table rows L1754-L1764 (11 lines); six rows L440-L445; five rows L1106-L1110
+eleven lexicon terms: rows L1825-L1835 (AEGIS ... TSDP)
+$ sed -n 1750,1766p Sources/drive/ai-assisted-narrative-coherence.md | grep -c "^| "   -> 14 = blank header, separator, "Alter Name" header, 11 alter rows
+$ sed -n 1822,1836p ... | grep -c "^| [A-Z]"  -> 12 = "Term | Definition" header + 11 term rows
+
+Correction by the session, 2026-10-05: two candidates were typed in a case the document does not use — `The Externe Ebene` (a duplicate of `Externe Ebene` with the article of a heading) removed, `Perspective Shift` corrected to the document's `perspective shift` (L710). Counted again; the census rows follow the recount.

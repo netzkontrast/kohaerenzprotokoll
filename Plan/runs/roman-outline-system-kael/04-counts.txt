@@ -1,0 +1,131 @@
+# counts for 101 candidates
+# line numbers are FILE lines, as a citation writes them
+# 5 `- ` line(s) read as prose and not counted: Dr. Thorne · Ext. Schnittstelle · Kontrolle vs. Akzeptanz · Logik vs. Resonanz · Fragmentierung vs. Ganzheit
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             53 word    79 in   [13, 22, 24, 37, 43, 47]
+                                   26      as Kaels
+  Juna                              5 word    17 in   [24, 39, 59, 67, 82, 100]  <-- substring
+                                    7      as Juna-Verbindung
+                                    2      as Juna-Echos
+                                    1      as Juna-Echo
+                                    1      as Juna-Kontakt
+  AEGIS                            21 word    23 in   [24, 39, 56, 57, 59, 67]
+                                    1      as AEGIS-Hub
+                                    1      as AEGIS-Überwachung
+  LogOS                             3 word     3 in   [37, 58, 234]
+  Mnemosyne                         4 word     7 in   [37, 57, 80, 103, 104, 235]
+                                    2      as Mnemosyne-Archive
+                                    1      as Mnemosyne-Archiv
+  Cerberus                          5 word     5 in   [125, 127, 147, 149, 236]
+  Kairos                            3 word     3 in   [170, 189, 237]
+  Sophia                            3 word     3 in   [170, 189, 237]
+  Lex                              11 word    11 in   [47, 57, 104, 148, 190, 191]
+  Nyx                               9 word     9 in   [135, 137, 146, 148, 180, 190]
+  Alex                              1 word     1 in   [135]
+  Silas                             7 word     7 in   [135, 146, 190, 247, 277]
+  Isabelle                          1 word     1 in   [137]
+  Rhys                              7 word     7 in   [92, 180, 190, 191, 217, 222]
+  Selene                            4 word     4 in   [180, 190, 217, 223]
+  Kiko                              5 word     5 in   [80, 90, 190, 217, 221]
+  Lia                               1 word     1 in   [80]
+  Echo                             10 word    18 in   [39, 55, 56, 82, 90, 92]
+                                    4      as Echos
+                                    1      as Echo-Anteil
+  Echos                             4 word     6 in   [39, 55, 56, 82, 92, 227]
+  Schattenkind                      3 word     4 in   [56, 149, 247, 279]
+                                    1      as Schattenkindes
+  Schattenkindes                    1 word     1 in   [56]
+  Argus                             4 word     4 in   [102, 247, 275]
+  Thorne                            5 word     5 in   [59, 247, 279]
+  Sibyl                             4 word     4 in   [188, 247, 280]
+  Anya                              4 word     5 in   [147, 190, 191, 247, 278]
+                                    1      as Anyas
+  Limina                            1 word     1 in   [247]
+  Nox                               1 word     1 in   [247]
+  Chronos                           1 word     1 in   [247]
+  Einheit 734                       3 word     3 in   [101, 247, 275]
+  Host-Anteil Kael                  1 word     1 in   [47]
+  Anscheinend Normalen Persönlichkeitsanteilen    1 word     1 in   [37]
+  ANPs                              4 word     4 in   [37, 47, 92]
+  Emotionalen Persönlichkeitsanteile    2 word     2 in   [47, 80]
+  EPs                               4 word     4 in   [47, 80, 90]
+  Kernphobie                        2 word     3 in   [47, 90, 211]
+                                    1      as Kernphobien
+  Juna-Echos                        2 word     2 in   [39, 227]
+  Juna-Verbindung                   7 word     7 in   [59, 67, 82, 100, 127, 172]
+  K-Juna-Paradoxon                  1 word     1 in   [24]
+  Paradoxon X                       1 word     1 in   [191]
+  System-Entropie                   1 word     1 in   [24]
+  Risse                            13 word    14 in   [24, 39, 47, 55, 57, 59]
+                                    1      as Rissen
+  Kern-Welten                       4 word     4 in   [22, 24, 189, 225]
+  Kern-Welt                         5 word    10 in   [22, 24, 37, 80, 125, 170]
+                                    4      as Kern-Welten
+                                    1      as Kern-Weltmechanik
+  KW1                               7 word     7 in   [28, 33, 37, 39, 90, 100]
+  KW2                              10 word    10 in   [71, 76, 80, 90, 102, 103]
+  KW3                               5 word     5 in   [116, 121, 125, 145, 236]
+  KW4                               5 word     5 in   [161, 166, 170, 189, 237]
+  Konstrukt-Stadt                   4 word     4 in   [28, 33, 37, 234]
+  Resonanz-Landschaft               5 word     5 in   [71, 76, 80, 102, 235]
+  Grenzfeste                        5 word     5 in   [116, 121, 125, 147, 236]
+  Möglichkeits-Garten               5 word     5 in   [161, 166, 170, 188, 237]
+  Threshold Zone                    2 word     2 in   [100, 275]
+  Glitching Market                  3 word     3 in   [145, 277]
+  Garten der Möglichkeiten          1 word     1 in   [147]
+  Abgrund der Ängste                1 word     1 in   [148]
+  Nexus of Whispers                 2 word     2 in   [188, 280]
+  Mnemosyne-Archive                 2 word     2 in   [37, 273]
+  Mnemosyne-Archiv                  1 word     3 in   [37, 57, 273]  <-- substring
+                                    2      as Mnemosyne-Archive
+  Kaels Apartment                   2 word     2 in   [37, 271]
+  Spiegelscherben-Korridor          1 word     1 in   [271]
+  Sektor Gamma                      2 word     2 in   [272, 274]
+  Sektor Alpha                      2 word     2 in   [189, 281]
+  Zentralplatz                      2 word     2 in   [189, 281]
+  AEGIS Hub                         2 word     2 in   [281, 283]
+  Entropie-Knotenpunkt              1 word     1 in   [283]
+  Innerer Konferenzraum             1 word     1 in   [282]
+  Sicherer Unterschlupf             1 word     1 in   [282]
+  Chaos-Zone                        1 word     1 in   [275]
+  Überwelt                          1 word     1 in   [191]
+  Fundaments                        1 word     1 in   [188]
+  Ego-Tod                           2 word     2 in   [148]
+  Innere Rat                        1 word     1 in   [190]
+  Inneren Rat                       1 word     1 in   [190]
+  Wir-Geflecht                      1 word     1 in   [190]
+  Mosaik-Herz                       1 word     1 in   [180]
+  Welle von Unmöglichkeit           1 word     1 in   [189]
+  Zero-Trust Execution Model        1 word     1 in   [58]
+  ZTEM                              1 word     1 in   [58]
+  System-Neustart                   1 word     1 in   [55]
+  Kern-KI                           1 word     1 in   [191]
+  Guardian Blind Spot               1 word     1 in   [233]
+  Guardians                         1 word     1 in   [225]
+  Wächter                           7 word    11 in   [37, 57, 80, 102, 125, 170]
+                                    3      as Wächters
+                                    1      as Wächter-Anteil
+  Welle der Unmöglichkeit           1 word     1 in   [189]
+  Plot-Blueprint                    1 word     1 in   [22]
+  Set the Scene                     4 word     4 in   [33, 76, 121, 166]
+  Plot Progression & Systemic Reaction    4 word     4 in   [51, 96, 141, 184]
+  Thematische Resonanz              4 word     4 in   [63, 108, 153, 195]
+  Referenzmatrizen                  1 word     1 in   [203]
+  Charakter-Integrationsmatrix      1 word     1 in   [239]
+  Lokalitäten-Aktivierung           1 word     1 in   [262]
+  Matrix Interner Konflikte und Phobien    1 word     1 in   [209]
+  Heldinnenreise                    2 word     2 in   [22, 157]
+  Environmental Storytelling        3 word     3 in   [39, 172, 264]
+  EST                               1 word     1 in   [39]
+  psychologischen Horrors           1 word     1 in   [82]
+  DIS                               1 word     1 in   [233]
+  DID                               0 word     1 in   [271]
+  Trauma                            1 word    10 in   [22, 56, 80, 82, 104, 112]  <-- substring
+                                    3      as traumatischen
+                                    2      as Traumas
+                                    1      as Trauma-Anteile
+                                    1      as Trauma-Landschaft
+  Depersonalisation                 2 word     2 in   [55, 271]
+  Multiplizität                     2 word     2 in   [180, 190]

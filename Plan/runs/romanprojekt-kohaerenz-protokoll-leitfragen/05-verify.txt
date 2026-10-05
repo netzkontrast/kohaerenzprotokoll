@@ -1,0 +1,275 @@
+# 05-verify — every number the census and note state
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Wertvollste Quellen"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Wertvollste Quellen` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#10]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Szenen-Logik & Somatisches Erleben"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Szenen-Logik & Somatisches Erleben` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#10]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Ziel für nächste Session"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Ziel für nächste Session` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#10]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Korrektur-Vorschlag"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Korrektur-Vorschlag` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#3]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Kontext"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Kontext` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#12]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "AEGIS"
+whole word, case-sensitive     42
+whole word, case-insensitive   42
+including compounds            44
+
+`AEGIS` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#42]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "ANP"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`ANP` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#5]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "EP"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            9
+
+`EP` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#5]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "KPTBS"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KPTBS` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#3]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "DIS"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`DIS` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#2]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "ADHS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ADHS` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Lia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lia` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Rhys"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Rhys` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#2]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Riss"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+
+`Riss` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#2]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Risse` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#2]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Kap"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            22
+
+`Kap` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#2]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Kairos"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kairos` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#2]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Nexus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nexus` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Überwelt` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "PMAS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PMAS` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Zero-Trust"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Zero-Trust` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#0]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Zero-Trust-Prinzipien"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zero-Trust-Prinzipien` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "K₀"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K₀` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Juna"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Juna` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#14]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Juna/V"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna/V` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#4]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Kaels"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kaels` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#10]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Risses"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Risses` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "EPs"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`EPs` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#3]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "D2-Attacke"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`D2-Attacke` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "LFI-Kern"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`LFI-Kern` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "funktionale Multiplizität"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`funktionale Multiplizität` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#4]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "funktionaler Multiplizität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`funktionaler Multiplizität` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Externe Ebene"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Externe Ebene` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#2]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Externen Ebene"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Externen Ebene` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#2]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Moros"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moros` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+$ python3 scripts/read.py romanprojekt-kohaerenz-protokoll-leitfragen --count "Paraiyas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paraiyas` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#1]
+
+stance_marker_count 33 = 10+10+10+3 (the four labels above)
+
+$ profile (01-profile.txt): glued ref numbers 40, longest line 6592, lines 155 (frontmatter ends at 9)
+  lines                155  (frontmatter ends at 9)
+  headings             21   bold-only lines 2
+  math symbol lines    0
+  glued ref numbers    40
+  longest line         6592 chars
+
+Chapter ranges are read by eye: L19 'Kapitel 14 bis 23', L28 'Kapitel 14–26', L86 Kapitel 28, L94 Kapitel 27/35; the 'ca. Kap. 20-26' at L100 counted by
+$ grep -n 'Kap\.' Sources/drive/romanprojekt-kohaerenz-protokoll-leitfragen.md  -> lines 68 and 100 (Kap. 1-4 at L68)
+68:**Kontext:**
+100:**Kontext:*
+
+Ten Leitfragen: 11 'Leitfrage' words (one in the check at L122 'Leitfrage 5 und 2'), see count above
+`Leitfrage` ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:#11]
+reference list: seven numbered titles L140-L146 (read)
+The 'Quelle'/'Quellen' lines L110, L118:
+110:1.  **Die Natur der Integr
+118:1.  **Die Gefahr der metap
+Kontext lines: 13 (heading) and 29 (plot sentence), 10 template labels L68-L104 (grep -n Kontext)

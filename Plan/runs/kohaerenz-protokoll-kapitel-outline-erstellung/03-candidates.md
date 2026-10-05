@@ -1,0 +1,167 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+The document is a 39-chapter outline with a back matter of appendices A to H; each chapter repeats the same labelled fields (Worum geht es, Eingeführte Konzepte, Was passiert, POV, Foreshadowing / Pacing / Reader-Substrate, Encoding Storyform A and B). Those field labels are the template and are listed only where they are also terms the appendices use. Throughline codes (MC, OS, RS, IC) are listed as written. The words Core World with a digit, and Stil with a digit, are asked from the text before the count; the find tool drops the digit. Manager and Firefighter are listed separately because the joined form carries "vs. " and would be read as prose. Persons and figures first, then world, then the document's own mechanics, then the lens.
+
+## world
+- Kael
+- Juna
+- Lex
+- Lex (Alter)
+- Alex
+- Alex (Alter)
+- Kiko
+- Kiko (Alter)
+- Nyx
+- Nyx (Alter)
+- Argus
+- Argus (Alter)
+- Selene
+- Silas
+- Silas Oblivion
+- Oblivion
+- Oblivion (Erwachen)
+- Mnemosyne
+- LogOS
+- AEGIS
+- Konstrukt-Stadt
+- RIVE-Protokoll
+- K1-Kohärenz
+- Dual-Kernel-Theorie
+- Controlled Fragmentation Protocol (CFP)
+- Controlled Fragmentation Protocol
+- CFP
+- TSDP
+- ANP
+- EPs (Emotionale Anteile)
+- Moonshine-Link
+- Phantom-Resonanz
+- SIS-Protokoll
+- Discursive Logic
+- ZTEM-Protokoll
+- Zero Tolerance Entropic Management
+- Core World 1
+- Core World 2 (Resonanzlandschaft)
+- Core World 3 (KW3)
+- KW3
+- Core Worlds
+- Fragmentierungsnacht
+- Embodiment
+- Funktionale Multiplizität
+- Mosaik-Herz
+- Das Mosaik-Herz
+- Negentropie
+- Aktive Negentropie
+- Der Jetzt-Raum
+- Gardener's Axiom
+- Hybrid-Architektur
+- Manager
+- Firefighter
+- Parakonsistenz
+- Algorithmische Melancholie
+- Algorithmische Melancholie (Prä-Stadium)
+- Algorithmischer Melancholie
+- Täter-Imitator (Perpetrator Mimic)
+- Perpetrator Mimic
+- Gnosis
+- Vertex-Operator-Algebra
+- Witness-Funktion
+- Mosaik-Sprung
+- Phänomenales Selbstmodell
+- Zeitverzögerung
+- Cache-Kohärenz
+- Pixelierung
+- Bekenstein-Schranke
+- Ko-Konstanz
+- Wir-Geflecht
+- Polyphonie
+- Trauma-Symbol
+- Fragment T-734
+- Agency
+- Genesis-Sequenz (Vorbereitung)
+- Algorithmus-Horror
+- K0-Kollaps
+- Widerspruch-Denken
+- Dialetheismus
+- Logik-Tumor
+- Tautologische Vollständigkeit
+- Gödel-Gambit
+- Gödel-Eigenschaft
+- Falsches Ende
+- Stil 1 (steril)
+- Naturgesetze im Fluss
+- Obsolete Wächterschleifen
+- Potentialmeer
+- Negative Space Writing
+- Vorbereitung Vortex
+- Trennungsprotokoll (Vorschattung)
+- Mnemosyne-Archipel
+- Mnemosyne-Archipel (Hardware)
+- Landauer-Hitze
+- Landauer-Effekt
+- Landauer-Prinzip
+- Truth-Rotation
+- Stille als lebende Dialetheia
+- Posttraumatisches Wachstum (PTG)
+- Ouroboros
+- Temporal Scrambling
+- Vergessenen Schrein
+- We-Voice
+- K0
+- K1
+- DKT-Physik
+
+## document's own mechanics
+- Dual-Storyform-Encoding
+- Encoding Storyform A
+- Encoding Storyform B
+- Heuristics of Integration
+- Phoenix Collapse
+- Throughline
+- Signpost
+- Concern
+- Issue
+- Driver-Trigger
+- MC
+- OS
+- RS
+- IC
+- Ouroboros-Marker
+- Pivot-Marker
+- Driver-Status
+- Limit-Marker
+- Outcome-Marker
+- Timelock
+- Optionlock
+- SF-A
+- SF-B
+- Vortex
+- Vortex-Beat-Zuordnung
+- Convergence
+- Heat-Spike
+- Pivot
+- Rotation
+- Reader-Substrate
+- Iser-Mechanik
+- Kanon-Trio
+- NotebookLM-Source
+- Dekanonisiert-Liste
+- Kanon-Drift-Log
+- Contradiction Log
+- Cross-Pollination Log
+- Query Expansion Log
+- Reflection History
+- Source Triangulation
+- Pre-Synthesis Integrity Check
+- Quellen-Inventar
+- Triangulationsstatus
+- Wächter-Dualismus
+- Mutual-Information-Volumen
+
+## lens
+- Dramatica
+- Halteproblem
+- Gödel-Satz
+- Zero-Knowledge Proof
+- Kohärenztheorie der Wahrheit
+- universelle Turingmaschine
+- autopoietische Automaten

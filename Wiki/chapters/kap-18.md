@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,38 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „eine Regel, die von LogOS in KW1 streng durchgesetzt wird, von Cerberus in KW3 leicht anders oder weniger rigoros interpretiert wird“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
 - Story: „eine mentale (oder versteckte physische/digitale) Liste dieser kleineren Exploits und Inkonsistenzen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Oracle in KW4: Creativity and Potentials`
+
+Title: „The Oracle in KW4: Creativity and Potentials“ ^[ai-assisted-narrative-coherence.md:L1506] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the chapter has no scene fields in the outline; it is a prose paragraph, placing the chapter's action in KW4: „He uses the blind spot he discovered to deliberately enter KW4“ ^[ai-assisted-narrative-coherence.md:L1508]
+
+- Story (beat): the scene outline plans „He uses the blind spot he discovered to deliberately enter KW4 (Kairos-Potentialis).“ ^[ai-assisted-narrative-coherence.md:L1508]
+- Story (beat): the scene outline plans „demonstrating the power of intuition over rigid logic“ ^[ai-assisted-narrative-coherence.md:L1508]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Cosmic horror
+
+Title: „Kosmischer Horror“ ^[romanstruktur-und-philosophische-einleitung.md:L166]
+Position: Teil II, „Die Gleichgültigkeit des Algorithmus“ ^[romanstruktur-und-philosophische-einleitung.md:L166]
+
+- Story: the insight comes hedged: „In einem Moment tiefer Einsicht (vielleicht durch einen Hack in den Kerncode)“ ^[romanstruktur-und-philosophische-einleitung.md:L168]
+- Story: AEGIS is „ein kalter, indifferenter Optimierungsalgorithmus“ ^[romanstruktur-und-philosophische-einleitung.md:L168]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Datenernte des Schmerzes
+
+Title: „Datenernte des Schmerzes“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L198]
+Position: Teil II; setting from the `Schauplatz` field: „Der Maschinenraum der Simulation (Systemkern-Grenze)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L200]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Sophia (Guardian), AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L201]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael entdeckt das dunkelste Geheimnis von AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L203] and „der Guardian der Integration, tritt auf“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L203]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Kairos Potentialis
+
+Title: „Kairos Potentialis“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L229] — heading „Die Welt der Was-wäre-wenn“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L230]
+Position: Teil II; POV from `Perspektive & Stimme`: „Kael (staunend, aber misstrauisch)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L231]; place from `Ort`: „Kern-Welt 4 (Surreal, endlos mutierend)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L233]
+
+- Story: the matrix plans „Kael betritt KW4. Hier testet AEGIS Wahrscheinlichkeiten. Kael sieht unzählige Leben, die er hätte führen können“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L235]
+- Question: „Ist grenzenloses Potenzial Befreiung oder Wahnsinn?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L234]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -84,6 +116,15 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „AEGIS interpretiert die innere Disharmonie als Verfallsbeweis“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L236]; „Es fährt eine therapeutische Subroutine hoch“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L236]
 - The pacing section marks a plateau: „Plateaus in Kap 18 (AEGIS' Tragödie)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L370].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Positive Intent of the Persecutor
+
+Title: „The Positive Intent of the Persecutor“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L523]
+Position: Akt II; POV: „POV: Selene / Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L531]
+
+- Story: the outline plans „Der feindseligste Anteil, Silas, sabotiert die Kooperation der Alters von innen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L529]
+- Story: the outline plans „Er ahmt die Grausamkeit eines früheren Traumas nach“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L529]
+- Concepts: „Täter-Imitator (Perpetrator Mimic), Silas Oblivion“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L527]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

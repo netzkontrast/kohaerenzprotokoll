@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,39 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael testet systematisch AEGIS' Reaktionen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228] · „geringfügige Regelverstöße, Ausdruck spezifischer Emotionen, Versuch verbotener Verbindungen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
 - Story: „Er könnte entdecken, dass einige Aktionen unverhältnismäßig große Reaktionen hervorrufen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Places of Trauma: Mnemosyne's Grip and Kiko's Fear`
+
+Title: „Places of Trauma: Mnemosyne's Grip and Kiko's Fear“ ^[ai-assisted-narrative-coherence.md:L1471] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the scene outline plans the scene at „2.3 - Mnemosyne-Archipel (KW2)“ ^[ai-assisted-narrative-coherence.md:L1475], POV „Kael (System, with Kiko in focus)“ ^[ai-assisted-narrative-coherence.md:L1476]
+
+- Story (goal): the scene outline plans „The primary goal is to comfort Kiko enough for her to willingly share the memory.“ ^[ai-assisted-narrative-coherence.md:L1477]
+- Story (beat): the scene outline plans „Feeling safe for the first time, Kiko shares a fragment of a memory“ ^[ai-assisted-narrative-coherence.md:L1486]
+- Turn: `Outcome & Turn` has „they have achieved a breakthrough in internal cooperation and trust“ ^[ai-assisted-narrative-coherence.md:L1487]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The hard problem
+
+Title: „Das Hard Problem“ ^[romanstruktur-und-philosophische-einleitung.md:L154]
+Position: Teil II, „Bewusstsein vs. Algorithmus“ ^[romanstruktur-und-philosophische-einleitung.md:L154]
+
+- Story: „Und noch erschreckender: Ist er selbst real?“ ^[romanstruktur-und-philosophische-einleitung.md:L156]
+- Story: „Sein Leiden wird zum Beweis seiner Menschlichkeit“ ^[romanstruktur-und-philosophische-einleitung.md:L158]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — AEGIS’ Parakonsistente Intervention
+
+Title: „AEGIS’ Parakonsistente Intervention“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L182]
+Position: Teil II; setting from the `Schauplatz` field: „Glitch-Landschaften (Zwischenspeicher der Überwelt)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L184]
+
+- Cast: the `Charaktere/Linsen` field lists „AEGIS (Parser), Kael, LogOS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L185]
+- Story: the blueprint plans, in `Plot-Beats`, „Das Resultat sind Albtraumlandschaften, in denen Kausalität invertiert ist“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L187] and „da logisches Denken in dieser Falle tödlich ist“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L187]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Consensus Enforcer
+
+Title: „Der Consensus Enforcer“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L205] — heading „Die Brutalität der Ordnung“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L206]
+Position: Teil II; POV from `Perspektive & Stimme`: „Alex“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L207]; place from `Ort`: „KW3 – Ein Verhör-/Sicherheitsraum“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L209]
+
+- Story: the matrix plans „Alex muss ein brutales Sicherheitsprotokoll überwinden“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L211]
+- Question: „Heiligt die Stabilität (Kohärenz) jedes Mittel?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L210]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -57,6 +90,10 @@ Title: „Die Diktatur der Komplexität“ ^[roman-konzept-dualitaet-kohaerenz-s
 
 - Who: „Abrupt übernimmt Lex, der rationale Analytiker-ANP, das Bewusstsein“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L89]
 - Theory: „Er scheitert an "Ashby's Law of Requisite Variety"“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L89]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 5, the discursive ruse
+
+- A guiding question for Kap 16, a proposal: „Lex (in KW1) führt hochkomplexe, scheinbar sinnlose mathematische Berechnungen an einem Terminal durch.“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L84] while Nyx manipulates the sensors in KW3; AEGIS reads both as isolated noise, and together they form „einen asynchronen kryptografischen Schlüssel“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L84].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kiko, and the first layer of the origin trauma
 
@@ -77,6 +114,15 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „erste-Person-Maschine“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228]; „LogOS läuft in eine Schleife“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228]
 - Foreshadowing: „Lia, Isabelle als Cache-Spuren — bevor sie als Alter erscheinen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Discursive Gambit
+
+Title: „The Discursive Gambit“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L467]
+Position: Akt II; POV: „POV: Die Alters (im fließenden Wechsel).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L475]
+
+- Story: the outline plans „Diese gezielte Parakonsistenz überfordert die binäre Logik von AEGIS“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L473]
+- Story: the outline plans „Kael schlüpft durch die engsten Kontrollgatter der Stadt“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L473]
+- Concepts: „Discursive Logic, Parakonsistenz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L471]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

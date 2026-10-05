@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 11
-readings: 11
+sources: 13
+readings: 13
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence"]
 gathered: "2026-09-25"
 ---
 
@@ -17,6 +17,14 @@ the ending is a synthesis rather than a victory.** Where each part falls in the
 chapters is laid out per source in the plot overview
 ([plot.md](../overview/plot.md)); this page holds what the sources say the structure
 is and does.
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the architecture analysis) — a non-Western structure for Kael's integration
+
+The architecture analysis lists it among the key narrative techniques under the label „Nicht-Westliche Architekturen (Non-Western Architectures)“ ^[ai-assisted-narrative-coherence.md:L1814], and says the concept „structures Kael's integration not as a conflict-driven victory, but as a synthesis of contradictions“ ^[ai-assisted-narrative-coherence.md:L1814].
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the principle named in Kap 40/0
+
+The master blueprint names the principle in the coda: „Das Kishōtenketsu-Prinzip vollzieht sich“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385] and says what it does there: „Der Moment nach dem Ende löst den Anfang aus.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385]
 
 ## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28
 

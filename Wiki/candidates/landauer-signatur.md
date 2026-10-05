@@ -1,16 +1,20 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 33
-readings: 33
+sources: 35
+readings: 35
 conflict: C11
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 gathered: "2026-09-24"
 ---
 
 # Landauer-Signatur
 
 **The sensory mark of [[aegis|AEGIS]]' suppression: cold ozone.**
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the principle stated, and AEGIS's erasures producing entropy
+
+The synthesis states the Landauer principle (glued `1`): „jeder logisch irreversible Vorgang“ ^[system-kael-konzeptentwicklung-und-analyse.md:L80] — „insbesondere das Löschen von Information“ ^[system-kael-konzeptentwicklung-und-analyse.md:L80] — brings a rise in thermodynamic entropy in the environment. It applies it to AEGIS: its core function is ordering by deleting information, and if the physics of the Überwelt follows the principle, „erzeugt jede ordnende Handlung von AEGIS zwangsläufig eine Form von“ ^[system-kael-konzeptentwicklung-und-analyse.md:L82] waste entropy or digital heat on the substrate level. The synthesis writes this as a conditional, and gives no sensory trace (a smell or a felt temperature) of it.
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — the bridge, felt and never an equation
 
@@ -19,6 +23,10 @@ gathered: "2026-09-24"
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Landauer divergent in Kap 35
 
 Kap 35 of the outline of 2026-05-01: „ZTEM-Sweep eskaliert ins Unendliche (Landauer divergent)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L322] Kap 1 lists `Ozon (Landauer)` among its foreshadowing.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — ozone foreshadows Landauer heat in Kap 1; Landauer named in Kap 8 and Kap 35
+
+The dual-storyform outline's Foreshadowing line for Kap 1 reads: „Foreshadowing für Landauer-Hitze“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L33] In Kap 8 AEGIS burns the shrine out „durch massive thermische Hitze (Landauer-Effekt) auszubrennen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L233] and in Kap 35 the heat is stated as a principle: „Die Hitze divergiert sofort ins Unendliche (Landauer-Prinzip)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1041] The same Kap 35 beat adds „die Atmosphäre füllt sich mit brennendem Ozon“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1041] Anhang E logs a query on „Information thermodynamics Landauer limit Dramatica OS physics“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1403]
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 

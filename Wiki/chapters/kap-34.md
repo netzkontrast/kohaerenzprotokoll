@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,14 @@ In der äußeren Heldenreise ist das laut der Konzept-Iteration die fortgesetzte
 
 Not this chapter alone: „Kapitel 33-35: Konsequenzen und Entfaltung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L373] names one entry for Kapitel 33, 34 and 35 together — „Diese Kapitel entfalten die Konsequenzen der in 31 und 32 getroffenen Entscheidungen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376], resolving Kael's chosen ending on the Kernwelt, J and AEGIS, with no beat assigned to Kapitel 34 on its own.
 
+## Reading — `outline`, 2025-07-30, the outline — Blick in den Abgrund/Ursprung: Erster klarer Kontakt mit dem Fundament / Das Fundament – Die Leere ist nicht leer
+
+Title: „Blick in den Abgrund/Ursprung: Erster klarer Kontakt mit dem Fundament / Das Fundament – Die Leere ist nicht leer“ ^[outline.md:L221] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Kael (ontologische Konfrontation, überwältigende Erkenntnis)“ ^[outline.md:L224]; journey stage under `Reisestufe`: „Vordringen zur tiefsten Höhle (im generellen Kontext der Heldenreise)“ ^[outline.md:L228]
+
+- Story: the outline plans, under `Plot`, „Er erkennt dessen Natur als integrierende Kraft“ ^[outline.md:L223]; „ein primordialer Zustand von Potenzial oder integrierten Paradoxien“ ^[outline.md:L223]
+- Question: under `Thematische Kernfrage`, „Wie verarbeitet man eine Wahrheit, die alles bisherige Verständnis sprengt?“ ^[outline.md:L225]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -35,6 +43,39 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael durchdringt AEGIS' letzte Verteidigungsanlagen und erreicht einen konzeptuellen oder simulierten Raum, der AEGIS' Kern repräsentiert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
 - Story: „Hier konfrontiert Kael die ultimative Quelle des Paradoxons (Kapitel 17)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
 - Story: „Die Konfrontation könnte weniger ein Kampf als ein Moment des Verstehens, der Intervention oder des Erzwingens einer fundamentalen Wahl für AEGIS sein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Algorithmic Melancholy` — one entry shared with Kap 34–36
+
+Title: „Algorithmic Melancholy“ ^[ai-assisted-narrative-coherence.md:L1620] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.3 at „3.3 - Logos-Prime (KW1), Post-Transformation“ ^[ai-assisted-narrative-coherence.md:L1624], POV „Kael (Host)“ ^[ai-assisted-narrative-coherence.md:L1625]
+
+- Story (goal): the scene outline plans „To witness and understand the consequences of AEGIS's transformation.“ ^[ai-assisted-narrative-coherence.md:L1626]
+- Story (beat): the scene outline plans „It is in a state of profound, cold contemplation—an "algorithmic melancholy"—as it endlessly processes a truth it can never emotionally understand.“ ^[ai-assisted-narrative-coherence.md:L1633]
+- Turn: `Outcome & Turn` has „Kael realizes he has not killed a monster but broken a flawed god.“ ^[ai-assisted-narrative-coherence.md:L1634]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The ultimate boon
+
+Title: „Das ultimative Geschenk“ ^[romanstruktur-und-philosophische-einleitung.md:L258]
+Position: Teil III, „Der Kill-Switch“ ^[romanstruktur-und-philosophische-einleitung.md:L258]
+
+- Story: „Er hält das Schicksal der Simulation und von AEGIS in Händen.“ ^[romanstruktur-und-philosophische-einleitung.md:L260]
+- Story: „Er könnte alles beenden und ins Nichts zurückkehren oder sich selbst zum Gott machen.“ ^[romanstruktur-und-philosophische-einleitung.md:L260]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das M-Paradoxon
+
+Title: „Das M-Paradoxon“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L330]
+Position: Teil III; setting from the `Schauplatz` field: „AEGIS' Root-Verzeichnis“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L332]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L333]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael erwacht in seiner neuen, kohärenten Form und erlangt Root-Zugriff“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L335] and „Er leitet die Umprogrammierung durch Integration ein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L335]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — the logic-symbol chapter
+
+Title: the logic-symbol title of line 425 (not quoted here); heading „Der Einspeisungs-Schock“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L426]
+Position: Teil III; POV from `Perspektive & Stimme`: „AEGIS (die Stimme bricht, stottert, wird emotional)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L427]; place from `Ort`: „Innerhalb der AEGIS-Verarbeitungsmatrix“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L429]
+
+- Story: the matrix plans „AEGIS kann die Unvollständigkeit nicht verarbeiten“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431]
+- Question: „Wie fühlt sich ein System-Crash an?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L430]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -68,6 +109,19 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „das Original-Trennungsprotokoll, eingefroren seit der Genesis-Krise, wird reaktiviert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L318]; „Nicht aus Boshaftigkeit — aus Verzweiflung.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L318]
 - Encoding A: „RS · SP4 (Understanding) · Falsehood · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L318]
 - The foreshadowing passage lists Kap 34 for „Refragmentierung (Kap 12, Kap 14, Kap 34)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — Juna's one appearance, Kap 33/34
+
+- Juna's one appearance, `Lösung zu C.7` in the report's terms: in Kap 33/34 she „betritt Juna den Raum“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] and „wird aber durch absolute Exklusions-Deskription geschrieben“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] — only the room, the dust, the light, the scanners, the alters' relaxation are described. The report also says she never intervenes physically (L27).
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Dissonant Resonance
+
+Title: „The Dissonant Resonance“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1003]
+Position: Akt III; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1011]
+
+- Story: the outline plans „Trotz des Friedens in der Begegnung spürt Kael eine kaum wahrnehmbare, aber extrem schmerzhafte Dissonanz im Substrat der Simulation.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1009]
+- Concepts: „Vorbereitung Vortex, Trennungsprotokoll (Vorschattung)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1007]
+- Pivot-Marker: the outline plans Driver-Status: „Absolute Fokussierung auf den kommenden Vortex.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1033]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

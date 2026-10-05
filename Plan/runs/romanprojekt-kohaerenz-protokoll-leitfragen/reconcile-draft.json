@@ -1,0 +1,415 @@
+{
+  "document": "romanprojekt-kohaerenz-protokoll-leitfragen",
+  "drive_id": "1W7evJJI_YVcV9fIZIgB9D7XO5WCDi7LU2GcGcEea1kY",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 144,
+    "decisions": 143,
+    "decided_by_lookup": 123,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        54
+      ],
+      "attribution": "",
+      "note": "the Zero-Trust principle in the Cerberus row of the table"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        27,
+        28,
+        29,
+        41,
+        92
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic autopoietic system, not a malicious antagonist"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        28,
+        92,
+        130
+      ],
+      "attribution": "",
+      "note": "the Alters as what AEGIS misreads, and a possibly unreliable Alter"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        54,
+        72
+      ],
+      "attribution": "",
+      "note": "KW3 as a fortress of defence"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        126,
+        130
+      ],
+      "attribution": "",
+      "note": "the DKT as the valid in-world metaphysics, the Λ-Canon as pseudoscience"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        29,
+        55
+      ],
+      "attribution": "",
+      "note": "emergence as what Kael accepts, in the garden of the Kairos world"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        29,
+        92
+      ],
+      "attribution": "",
+      "note": "entropy as noise AEGIS filters and Kael accepts"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        29,
+        56,
+        96
+      ],
+      "attribution": "",
+      "note": "Köln, February 2026, as the real world that escapes AEGIS"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        41,
+        80
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as AEGIS's traumatic origin event"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        29,
+        60,
+        90,
+        92,
+        118
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as the culmination of Teil III and its staging"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        27,
+        28,
+        41,
+        80,
+        96
+      ],
+      "attribution": "",
+      "note": "Juna/V as the personified correspondence-truth principle"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        27,
+        28,
+        29,
+        96
+      ],
+      "attribution": "",
+      "note": "Kael from amnesiac victim to investigator to the Köln awakening"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        55,
+        100
+      ],
+      "attribution": "",
+      "note": "Kairos as the oracle of the tropes and part of KW4"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        45,
+        52,
+        53,
+        54,
+        55
+      ],
+      "attribution": "",
+      "note": "a table of four Kernwelten and the Externe Ebene with their TSDP parts"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        37,
+        53,
+        88,
+        122
+      ],
+      "attribution": "",
+      "note": "Kiko as the non-deterministic complexity of the freeze"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        27,
+        68,
+        72
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as sterile starting place and a rendering that tears"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        37,
+        52,
+        84
+      ],
+      "attribution": "",
+      "note": "Lex as the rational ANP"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "Lia beside Selene in KW4"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        52,
+        68
+      ],
+      "attribution": "",
+      "note": "LogOS as KW1, sterile and predictable"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        27,
+        53,
+        88
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as KW2 and as the keeper of the amnesia"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        28,
+        76
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as an ontological exploit through entanglement and Gnosis"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "Moros named once, among the EP stores AEGIS mines"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        17,
+        29,
+        88,
+        110
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the healed and the stable state"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        28
+      ],
+      "attribution": "",
+      "note": "Kael ascending into the Nexus, glossed as the Überwelt"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        37,
+        54,
+        72
+      ],
+      "attribution": "",
+      "note": "Nyx as the EP of threat defence, and the protector in KW3"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        96
+      ],
+      "attribution": "",
+      "note": "the real Juna as Kael's overloaded partner in Köln"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        29,
+        104
+      ],
+      "attribution": "",
+      "note": "Kael as the gardener in the Potentialmeer"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        53,
+        88
+      ],
+      "attribution": "",
+      "note": "Rhys as caregiver in KW2 and a helper out of the loop"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        70,
+        72,
+        100
+      ],
+      "attribution": "",
+      "note": "the cache incoherence staged as a Riss"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        37,
+        55,
+        110,
+        114
+      ],
+      "attribution": "",
+      "note": "Selene as the integrator of KW4 and the check's task for her"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        110,
+        114
+      ],
+      "attribution": "",
+      "note": "Sophia's integration by elimination, and a proposal to read it as AEGIS's corruption"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "the separation protocol that created Juna/V"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17,
+        28,
+        37,
+        72
+      ],
+      "attribution": "",
+      "note": "TSDP as the model of Kael's consciousness and its externalisation"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        28
+      ],
+      "attribution": "",
+      "note": "the Überwelt as gloss of the Nexus in Teil II"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      7,
+      16,
+      19,
+      27,
+      28,
+      33,
+      35,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 29,
+      "decision": "reading",
+      "why": "read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 92,
+      "decision": "reading",
+      "why": "read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "the report's own goal sentence about the protocol's integrity (L21)"
+    },
+    {
+      "page": "partnerin",
+      "surface": "Partnerin",
+      "line": 96,
+      "decision": "reading",
+      "why": "read on partnerin (L96)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

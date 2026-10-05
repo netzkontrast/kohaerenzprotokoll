@@ -148,3 +148,53 @@ Where it stands in the record's own terms: open in the document itself, with a r
 Kap 37: „AEGIS ist stumm, melancholisch summend“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330] Kap 38: „Die Wache ist zur Wohnstatt geworden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L334]
 
 Stands: the outline's answer is a plan, not canon.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report
+
+**The Synthese-Report proposes that AEGIS does not delete itself and keeps administering a world it knows rests on a faulty axiom; it tends to Option 1, and Oblivion takes over the decision function.**
+
+§4.1, step 5 (the report's `Lösung zu C.1`): „AEGIS löscht sich nicht.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L85] and „Es verwaltet fortan eine Welt, von der es weiß, dass sie auf einem fehlerhaften Axiom ruht.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L85] The gaps part (§3.2): „Die Empfehlung des Kanons tendiert zu Option 1 (Algorithmische Melancholie als Dauerzustand)“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L69] Table, column 3: „oder legt sich selbst still (C.1)“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L53] On Oblivion (§4.4): „erwacht Oblivion und übernimmt die Entscheidungsfunktion im Innensystem“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L128]
+
+Stands: AEGIS persists, melancholic, and Oblivion takes over its decision function, as the report proposes it; the record's other answers are not weighed here.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline
+
+**The outline ends AEGIS in melancholy, not in destruction, and discards the utopian merger.**
+
+Anhang C: „AEGIS-Endzustand: Drift zwischen Zerstörung im Kampf und“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1354] (the line goes on with the second state in quotation marks), then „Version: Melancholie verwendet.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1354] Anhang B lists the merger as discarded: „Utopische Verschmelzung (AEGIS als Partner)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1348] Kap 36 has AEGIS „kollabiert leise in die Algorithmische Melancholie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1080] and Kap 37 has it silent: „AEGIS ist stumm, lediglich ein melancholisches Summen erinnert an seine Herrschaft.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1120] Anhang H's finding: „Befund: AEGIS handelt aus Tautologie, was in Melancholie mündet“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1425]
+
+In the record's terms: the outline answers the question with melancholy as its own decision from its canon source, and decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction
+
+**The reconstruction sets AEGIS's end as no destruction and asks what follows.**
+
+HC-02: „Keine physische Zerstörung.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L144] SC-01: „Kapitel 39 präsentiert ein AEGIS-Log im Post-Quantum-Zustand“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L163]. OQ-04 asks whether the Algorithmische Melancholie means „eine Form ewiger Folter für die KI“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L223], a question.
+
+Stands as Hard Canon and Soft Canon rows plus an open question, dated 2026-03-26; recorded, not applied.
+
+## 2026-10-05 — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix
+
+**The matrix has AEGIS overloaded in Kap 34 and frozen, not destroyed, in Kap 35.**
+
+Kap 34 is titled `¬∘(AEGIS\_Protokoll)` (the symbols stand around the quotation) and plans „AEGIS kann die Unvollständigkeit nicht verarbeiten.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431] with the motif „Blue Screen of Death, berstende Server, Stille.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L433] Kap 35, „Algorithmische Melancholie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L437] plans „AEGIS ist nicht tot, sondern erstarrt in paradoxer Schönheit“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L443] with the function „Friedliche, ethische Auflösung des Konflikts. Keine Rache.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L444]
+
+Stands as a plan of 2026-02-25 in which AEGIS remains as a frozen figure after its protocol fails; recorded, not applied.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The report records two fates for AEGIS and notes that the transformation was fixed but the crash still circulates.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+C-005: Doc 42 as quoted by the report: „Hypothese B (Klassischer Kollaps): AEGIS' binäre Logik zerbricht am Paradoxon“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L32]; Doc 30 as quoted: „AEGIS is not destroyed by a system crash“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L32]. The report's own summary: „Alternativer Ausfallmodus von AEGIS am Ende der Geschichte“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L32] and „schwirrt aber in den Docs noch herum“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L32].
+
+It stands as a report of two alternatives, melancholy and crash, with the melancholy marked as fixed by the report; the question's answer is not changed.
+
+## 2026-10-05 — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the AEGIS analysis, the distillation, the blueprint, the three-act blueprint, the scene outline, the architecture analysis)
+
+**The parts cited here give AEGIS's end as a transformation into a paraconsistent, melancholy state, not as an extinction.**
+
+The AEGIS analysis: „AEGIS's self-preservation imperative forces it to abandon classical logic.“ ^[ai-assisted-narrative-coherence.md:L207] The distillation: „The fate of AEGIS is one of tragic, muted transformation.“ ^[ai-assisted-narrative-coherence.md:L335] The blueprint: „This transformation is not an enlightenment, but a form of cognitive damage.“ ^[ai-assisted-narrative-coherence.md:L416] The three-act blueprint: „To avoid total collapse, AEGIS is forced into a radical evolution, adopting a pathological form of paraconsistent logic that can contain Kael's paradoxical truth without becoming trivial.“ ^[ai-assisted-narrative-coherence.md:L902] The scene outline: „It does not die; it is fundamentally and irrevocably transformed.“ ^[ai-assisted-narrative-coherence.md:L1618] and „AEGIS is still present, but its voice is different.“ ^[ai-assisted-narrative-coherence.md:L1633] The architecture analysis: „This forces AEGIS into a state of systemic collapse, culminating in a form of“ ^[ai-assisted-narrative-coherence.md:L1779] `algorithmischer Melancholie`, where it knows the truth „but is forever excluded from its meaning or experience.“ ^[ai-assisted-narrative-coherence.md:L1779]
+
+It stands with the transformation answer among the record's options; the record is not changed.

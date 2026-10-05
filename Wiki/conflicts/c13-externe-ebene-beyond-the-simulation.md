@@ -86,3 +86,61 @@ It writes the `Externe Ebene` side's name in English and the worldbuilding conce
 **Neither row — the text names the very question this record holds and leaves it open, in English, without Köln 2026 or `Basisrealität`.**
 Juna/V comes from an „External Level" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L25], and „The text deliberately avoids a clear definition." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L27] Its own candidates are a higher dimension of reality, „a different layer of the simulation that AEGIS is unaware of" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L27], or the real world breaking through into the artificial one — the last of which is the row-1 side (beyond the simulation), stated as a live possibility rather than a position taken.
 `Köln`, `Cologne` and `Basisrealität` stand 0 times (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`), so this speaks to the External Level Juna/V is from rather than naming Köln 2026 itself. On neither row: the document states the question C13 asks rather than answering it. The conflict stays open.
+
+## 2026-10-05 — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report
+
+**The editor's report gives Juna a connection to a postulated Externen Ebene that lies beyond the simulation's logic.**
+
+The sentence, which ends in reference 1 and so reports the plot document: „authentische Verbindung, nicht-quantifizierbare Emotionen und eine Verbindung zu einer postulierten“ ^[scifi-roman-mit-ki-schreiben.md:L184] „Externen Ebene“ ^[scifi-roman-mit-ki-schreiben.md:L184], which in the same sentence is placed beyond the logic of the simulation.
+
+In the record's terms the report stands with a level reported beyond the simulation's logic; it says nothing of whether the level is outside the simulation, and decides nothing.
+
+## 2026-10-05 — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis
+
+**The three-part analysis places the Externe Ebene beyond the [[aegis|AEGIS]] simulation, and hedges once.**
+
+In Kap 4: Juna stands for a reality „jenseits der AEGIS-Simulation, die für das Kael-System jedoch unerreichbar scheint.“ ^[romanstruktur-und-philosophische-einleitung.md:L61] In Kap 20 the analysis has Kael identify an unprovable truth, hedged: „vielleicht die Existenz der externen Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L182] In Kap 26 it says Kael sees the structure from outside, `von außen`, `oder zumindest von einer höheren administrativen Ebene`, and: „Er weiß nun definitiv: Es gibt ein Außen.“ ^[romanstruktur-und-philosophische-einleitung.md:L216]
+
+In the record's terms the analysis stands with a level beyond the simulation, in a retelling built on the concept papers it cites; it decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction
+
+**The reconstruction leaves open whether Juna is a real person outside the simulation.**
+
+OQ-01 asks: „eine reale Person in der Welt außerhalb der Simulation“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L205], an emergent anomaly or a manifestation of Kael's relational essence. It is filed as KRITISCH and a decision is needed before the outlines of Teil II.
+
+Stands open in the document's own OFFENE FRAGEN, dated 2026-03-26.
+
+## 2026-10-05 — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint
+
+**The master blueprint names the Externe Ebene once, as Juna's form in Kap 17, and sets a sea beyond the simulation in Kap 27.**
+
+Kap 17 plans: „Hier offenbart sich Juna in ihrer wahren Form“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] and names her „Externe Ebene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195], the one „das die Gnosis (emotionale Wahrheit) der ursprünglichen Fragmentierung in sich birgt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] Kap 27 sets „Epsilon-Null (Das Potentialmeer jenseits der Simulation)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L276]
+
+Stands as the term written for Juna in Kap 17, with a sea beyond the simulation in Kap 27; recorded, not decided.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report
+
+**The research report gives the Externe Ebene as Köln, February 2026, the real world that escapes AEGIS's control, and has Kael wake there.**
+
+The table: „Köln, Februar 2026. Mysteriös, chaotisch, unvorhersehbar“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56], „Entzieht sich der algorithmischen Kontrolle von AEGIS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56], third column „Reale Welt / Basis der KPTBS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56]. Leitfrage 8 (Kap 27/35): „Kael durchbricht die Rendering-Grenzen und erwacht in Köln, Februar 2026“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]; the contrast is between „Der Kontrast zwischen der Simulation und der Realität muss extrem sein“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96].
+
+In the record's terms the report places Köln 2026 as the real world set against the simulation; it names the level `Externe Ebene`, and decides nothing.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The report sums up the external level as Köln, a base reality in which Kael lives, and lists two climax strategies, one fleeing to the external reality.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+W-06 (three stars): „Basisrealität, in der Kael physisch mit KPTBS, ADHS und DIS existiert, betreut von Juna.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L83] Open question 3: „Wie genau interagieren Kael und Julia (Juna/V) physisch in der Basisrealität“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L122]. C-006: the report's summary of the climax: „Flucht in die externe Realität vs. interne Konfrontation und Umprogrammierung der Simulation durch das Gödel-Gambit.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L33]
+
+It stands as a base-reality reading under the name `Externe Ebene (Köln)`, with the place left a question by the report itself; it does not say whether the level is beyond the simulation.
+
+## 2026-10-05 — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the concept document and the architecture analysis)
+
+**Both parts set the Externe Ebene outside AEGIS's reach and tie it to Juna/V.**
+
+The concept document, section 4.1: „Juna/V is a transcendent entity from the“ ^[ai-assisted-narrative-coherence.md:L601] Externe Ebene, „a realm outside AEGIS's simulated reality and its capacity for understanding“ ^[ai-assisted-narrative-coherence.md:L601]. The architecture analysis, section 3.2, separates it from the Überwelt: the Externe Ebene is „in contrast, is a mysterious reality that exists beyond AEGIS's direct control and is intrinsically linked to the entity known as Juna/V“ ^[ai-assisted-narrative-coherence.md:L1732].
+
+The concept document's words are „a realm outside AEGIS's simulated reality and its capacity for understanding“ ^[ai-assisted-narrative-coherence.md:L601]; this is a new position for the record's table, on the side of a level beyond what AEGIS simulates, and the record is not changed.

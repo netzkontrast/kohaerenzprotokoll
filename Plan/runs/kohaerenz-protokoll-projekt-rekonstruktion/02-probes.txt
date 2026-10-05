@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      19
+  backslash escapes      79
+  typographic marks      89
+  ascii quotes           36
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturzes, Systemanalyse, Systemanteile, Systemanteilen, Systembesetzung, Systemdialog, Systemfunktionen, Systemische, Systemparameter, Systemrauschen, Systems, Systemtrennung, Systemzerstörung
+  archi    Archipel, Architectural, Architekt, Architektur, Architekturdokumente, Architekturen, Architekturentwicklungen, Architekturmustern, Architekturphase, Archivar, Archivarische
+  konze    Konzept, Konzepte, Konzepten, Konzeptentwicklung, Konzeption, Konzeptlisten, Konzeptpapier, Konzepts
+  infor    Information, Informationen, Informationsfragmentierung, Informationsspeicher, Informationssperren, Informationsvakuum, Informationsverarbeitung
+  proje    Project, Projekt, Projektinitialisierung, Projektion, Projekts, Projektzustand, Projektzustands
+  ident    Identifikation, Identität, Identitäten, Identitäts, Identitätsparadoxons, Identitätsstörung
+  analy    Analyse, Analysen, Analytiker, Analytikers, Analytische
+  metap    Metapher, Metaphern, Metaphysik, Metaphysische, Metaphysischer
+  chara    Charakter, Charakterisierung, Charakteristika, Charakterkonzepte
+  daten    Daten, Datenpunkte, Datenstrukturen, Datenübertragung
+  detai    Detail, Detaillierte, Detailliertes, Detaillierung
+  dokum    Dokument, Dokumentation, Dokumente, Dokumenten
+  entsc    ENTSCHEIDUNGS, Entscheidung, Entscheidungen, Entscheidungsdaten
+  erinn    Erinnerung, Erinnerungen, Erinnerungs, Erinnerungssäule
+  fragm    FRAGMENTE, Fragment, Fragmente, Fragmentierung
+  parad    Paradigmen, Paradox, Paradoxon, Paradoxons
+  roman    Roman, Romanprojekts, Romans, Romanwelt
+  urspr    Ursprung, Ursprungsarchiv, Ursprungstrauma, Ursprungstraumas
+  antei    Anteil, Anteile, Anteils
+  arbei    Arbeitsmethode, Arbeitssitzung, Arbeitssitzungen
+  diese    Diese, Dieser, Dieses
+  disso    Dissonanzen, Dissoziation, Dissoziativen
+  fehle    Fehlen, Fehler, Fehlerkorrektur
+  frage    FRAGEN, Frage, Fragen
+  funda    Fundament, Fundamentale, Fundamente
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Kristalle
+  Chat < Schatten
+  Code < Codes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Bausteine
+  Eine < Anscheinend
+  Eine < Verfeinerungen
+  Ende < Suchende
+  Ende < Folgenden
+  Ende < Laufender
+  Ende < Rendering
+  Ende < Tendenzen
+  Ende < Abschließende
+  Erst < Erstellung
+  Erst < Zerstörung
+  Erst < Verständnis
+  Erst < Meisterstück

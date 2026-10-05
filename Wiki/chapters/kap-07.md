@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,21 @@ Position: „(Fundamentales Konzept: Monstrous Moonshine / K-J Verbindung (Bewus
 - The support named: „Die Unterstützung war da.“ ^[kohaerenz-protokoll.md:L847]
 - Kael and M: „Er war ein Fragment von M, verbunden mit Juna durch einen unerklärlichen Link“ ^[kohaerenz-protokoll.md:L853]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Glitching Market
+
+Title: „Der Glitching Market“ ^[roman-outline-system-kael.md:L145]
+Position: Teil III, KW3
+
+- Story: fleeing KW2, Kael reaches the Glitching Market, „einen Ort des Misstrauens, des Schwarzhandels mit korrumpierten Informationen und der Paranoia“ ^[roman-outline-system-kael.md:L145].
+
+## Reading — `outline`, 2025-07-30, the outline — Der erste innere Rat
+
+Title: „Der erste innere Rat“ ^[outline.md:L54] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „Funktionale Multiplizität ist noch nicht erreicht“ ^[outline.md:L56]
+- Focus: under `Fokus`, „Das Pacing ist dialoggetrieben“ ^[outline.md:L57]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -52,6 +67,39 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael könnte kurzzeitig etwas 'außerhalb' oder 'unterhalb' der Simulation wahrnehmen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „AEGIS/Guardians könnten aktiv versuchen, den Riss einzudämmen oder zu reparieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
 - Discussion: „liefert Kael unbestreitbare Beweise dafür, dass seine Welt konstruiert und fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L108]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Fortress of Fear`, one entry shared with Kap 06–07
+
+Title: „The Fortress of Fear“ ^[ai-assisted-narrative-coherence.md:L1352] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.5 - Cerberus-Labyrinth (KW3), Outer Walls“ ^[ai-assisted-narrative-coherence.md:L1356], POV „Kael (Host, influenced by Alex)“ ^[ai-assisted-narrative-coherence.md:L1357]
+
+- Story (goal): the scene outline plans „To find a safe, defensible space to recover from the emotional overflow of KW2“ ^[ai-assisted-narrative-coherence.md:L1358]
+- Story (conflict): the scene outline plans „tries to contain him within a paradoxical maze“ ^[ai-assisted-narrative-coherence.md:L1359]
+- Turn: `Outcome & Turn` has „Kael is temporarily safe but trapped.“ ^[ai-assisted-narrative-coherence.md:L1367]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Death of the old identity
+
+Title: „Tod der alten Identität“ ^[romanstruktur-und-philosophische-einleitung.md:L77]
+Position: Teil I, „Erwachen zur Leere“ ^[romanstruktur-und-philosophische-einleitung.md:L77]
+
+- Story: „Dieses Kapitel stellt den dramatischen Tiefpunkt der ersten Hälfte dar“ ^[romanstruktur-und-philosophische-einleitung.md:L79]
+- Story: „Es ist der spirituelle Tod, der der Wiedergeburt vorausgehen muss.“ ^[romanstruktur-und-philosophische-einleitung.md:L81]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das Gefängnis der Sicherheit
+
+Title: „Das Gefängnis der Sicherheit“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L107]
+Position: Teil I; setting from the `Schauplatz` field: „Innerer Bunker im Cerberus-Labyrinth (KW3)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L109]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Cerberus, Nyx, Juna (Signatur)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L110]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael erkennt, dass AEGIS seine Isolations-Phobie nutzt, um ihn zu kontrollieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L112] and „Der Bunker ist Zuflucht und Gefängnis zugleich“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L112]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Russellsche Trümmer
+
+Title: „Russellsche Trümmer“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L93] — heading „Der Widerstand der Logik“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L94]
+Position: Teil I; POV from `Perspektive & Stimme`: „Lex (ANP) – kühl, berechnend, aber frustriert“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L95]; place from `Ort`: „Das Herz des LogOS-Distrikts“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L97]
+
+- Story: the matrix plans „Lex versucht das System zu hacken, löst aber ein Paradoxon aus, das einen System-Reset in seinem Sektor erzwingt“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L99]
+- Question: „Wohin führt Logik, die sich selbst widerspricht?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L98]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -60,6 +108,10 @@ Title: „Der Riss im Kontinuum und die Quantenuhr“ ^[roman-konzept-dualitaet-
 
 - Establishes: „Ein herabfallender Wassertropfen verharrt in der Luft“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67]
 - Switching: „Alex, der Beschützer-ANP, übernimmt exekutiv die Kontrolle“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 2, the Riss as cache incoherence (Kap 7–10)
+
+- A guiding question for Kap 7–10, a proposal: „Ein Trigger aktiviert Nyx (EP - Kampf) in KW3, während Lex (ANP) in KW1 versucht, Normalität zu wahren.“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L72] Kael's hand exists for a fraction of a second in two places, and the textures of the Konstrukt-Stadt tear open on „das rohe Drahtgittermodell und die dahinterliegende Leere“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L72].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Nyx out of the shadows, a monster of the simulation
 
@@ -82,6 +134,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Encoding A: „RS · SP1 (Understanding) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L184]
 - The seeding table calls it „Erste volle Resonanz-Berührung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L144].
 - Change 3 puts it: „Erst Kap 7 manifestiert sie als Resonanzbruch im Schrein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L21].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Mnemosyne Archipelago
+
+Title: „The Mnemosyne Archipelago“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L193]
+Position: Akt I; POV: „POV: Nyx / Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L201]
+
+- Story: the outline plans „nicht als Feind, sondern als manipulative Kuratorin“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L199]
+- Concepts: „Mnemosyne, EPs (Emotionale Anteile)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L197]
+- Pivot-Marker: „SF-B Tendenz zu Failure, da Mnemosyne die EPs nicht eindämmen kann“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L225]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

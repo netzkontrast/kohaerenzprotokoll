@@ -1,0 +1,167 @@
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Archetyp"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Dominante Domäne"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Zentraler Konflikt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "vermutlich"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "vielleicht"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "möglicherweise"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Kern-Welt 1 (KW1)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "KW1"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Wächter"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            11
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Alters"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "funktionalen Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Funktionale Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Finde die Naht"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Separation Protocol"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Trennungsprotokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Ground Truth"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Trolley-Problem"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Bericht"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Analyse"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Prolog"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Epilog"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Architekt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            7
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Architektur"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+
+$ python3 scripts/read.py romanstruktur-und-philosophische-einleitung --count "Kaels"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+
+stance_marker_count = 4 + 3 + 3 = 10
+$ grep -c . on 03-candidates "- " lines
+111
+$ glued ref numbers, backslash escapes, headings: from 01-profile.txt
+  lines                326  (frontmatter ends at 9)
+  headings             49   bold-only lines 1
+  backslash escapes    44
+  math symbol lines    0
+  glued ref numbers    60
+$ grep -o "\\\\\*" count
+44

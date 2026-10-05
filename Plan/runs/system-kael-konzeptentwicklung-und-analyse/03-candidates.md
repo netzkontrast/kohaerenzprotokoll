@@ -1,0 +1,94 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+The document is a German analysis of a novel concept in four parts (L18, L88, L192, L236). Its candidates are the world's figures and places, the document's own bolded or defined terms, and the borrowed concepts it applies to the world, listed under the lens heading. The two quoted cited works (Silent Hill 2, Inception) and the reference titles are left out as titles of cited works. "Kapitel 1-3" style ranges are left out because they carry numbers and ranges only.
+
+## world
+
+- AEGIS
+- Nichts Rauschen
+- Sogs der Ordnung
+- Einrasten
+- Digitale Überwelt
+- Labor der Kohärenz
+- Guardian-Interface-Protokollen
+- Zero-Trust Execution Model
+- ZTEM
+- Behavioral Proof-of-Function
+- BPoF
+- Encrypted Intent Channels
+- EIC
+- EICs
+- Wächter
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Integrity Guardian
+- Risse
+- Abfallentropie
+- System Kael
+- Kael
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Echo
+- Silas
+- Kern-Welten
+- KW1
+- KW2
+- KW3
+- KW4
+- Co₁
+- McL
+- Ly
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Juna
+- Juna/V-Verbindung
+- Juna-Echos
+- Wir-Geflecht
+- Mosaik-Herz
+- Jetzt-Raum
+- Das Fundament
+- Paraiyas
+- Paradoxon X
+- Externe Ebene
+- funktionale Multiplizität
+- toxischer Manager
+- Kernphobie
+- Aktionssysteme
+- Anscheinend Normale Persönlichkeitsanteile
+- ANPs
+- Emotionale Persönlichkeitsanteile
+- EPs
+
+## lens
+
+- Theorie der Strukturellen Dissoziation
+- TSDP
+- Tertiären Strukturellen Dissoziation
+- Heldinnenreise
+- Landauer'sche Prinzip
+- Shannon-Entropie
+- Entropie
+- Bit Rot
+- Software Rot
+- Nicht-Dualität
+- Advaita Vedanta
+- Maya
+- Brahman
+- Spontane Symmetriebrechung
+- Parakonsistente Logik
+- Prinzip der Explosion
+- P=NP
+- Deus ex Machina

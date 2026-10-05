@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 10
-readings: 10
+sources: 15
+readings: 15
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline"]
 gathered: "2026-09-17"
 ---
 
@@ -36,6 +36,28 @@ instances open `Im Überraum…`**. `Nexus` 11 occurrences, `Überraum` 5.
 The pattern is too regular to be accident — a field name in one vocabulary,
 filled in another. **The document never states they are one space.** Kept as two
 pages and cross-referenced rather than merged: J18.
+
+## Reading — `outline`, 2025-07-30, the outline — the Nexus as the place Kael returns to in Kap 27
+
+Kap 27 is titled „Sturm auf die Überwelt: Der Beginn des Angriffs / Rückkehr zum Nexus“ ^[outline.md:L158] (L158); the plot line says Kael „kehrt zu einem zentralen Nexus in der Überwelt zurück, um die Konfrontation mit AEGIS zu planen.“ ^[outline.md:L160] (L160).
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a noise-free Nexus in Kap 17
+
+The master blueprint plans for Kap 17: „Kael findet einen rauschfreien Nexus.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] It is the place where Juna shows her true form.
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Nexus in Kap 25, 27, 30 and 33
+
+Kap 25 sets the place „Der Nexus (Das Zentrum von AEGIS).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L317] and plans „Kael durchbricht die letzte Barriere und betritt den Nexus.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L319] Kap 27 is set at „Der Rand des Nexus, das pure Nichts.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L345] Kap 30 at „Der Aufstieg zurück zum Nexus-Kern.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L381] and Kap 33 at „Der Nexus-Core.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L417]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Kael ascending into the Nexus, glossed as the Überwelt
+
+The Teil II plot has Kael turn from victim to investigator, name AEGIS and „steigt in den Nexus (die Überwelt) auf“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L28]. The report gives the Nexus only there, glossed in its own parenthesis as the Überwelt.
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — The Nexus as the bracketed name of the Überwelt (W-05)
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row W-05 is titled „Die Überwelt (Nexus)“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L82] and sums it up as „Abstrakte, meta-kognitive Daten-Ebene der AEGIS-Guardians, basierend auf dem Zero-Trust Execution Model.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L82]
 
 ## Open
 

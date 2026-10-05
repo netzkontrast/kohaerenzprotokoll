@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -51,6 +51,38 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „die Integrität der Erinnerung zu wahren vs. einer AEGIS-Direktive zu gehorchen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „Kael beobachtet, wie Mnemosyne Zögern, inkonsistentes Verhalten oder vielleicht sogar eine Antwort zeigt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Fight for Memory: Confrontation with Mnemosyne`
+
+Title: „The Fight for Memory: Confrontation with Mnemosyne“ ^[ai-assisted-narrative-coherence.md:L1526] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the chapter has no scene fields in the outline; its prose places the action in KW2: „Kael returns to KW2 for a direct confrontation with Mnemosyne.“ ^[ai-assisted-narrative-coherence.md:L1528]
+
+- Story (beat): the scene outline plans „He doesn't try to fight her power but outsmarts her.“ ^[ai-assisted-narrative-coherence.md:L1528]
+- Story (beat): the scene outline plans „Kael accesses a core memory node and reclaims a foundational memory about the“ ^[ai-assisted-narrative-coherence.md:L1528]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Gödel's limit
+
+Title: „Gödels Grenze“ ^[romanstruktur-und-philosophische-einleitung.md:L178]
+Position: Teil II, „Das unbeweisbare Wahre“ ^[romanstruktur-und-philosophische-einleitung.md:L178]
+
+- Story: „AEGIS ist logisch, aber nicht allwissend; es hat blinde Flecken.“ ^[romanstruktur-und-philosophische-einleitung.md:L180]
+- Story: the unprovable truth is hedged with `vielleicht`: „Kael identifiziert eine solche Wahrheit“ ^[romanstruktur-und-philosophische-einleitung.md:L182] – the external level or the nature of love
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Echo der Sporadicity
+
+Title: „Echo der Sporadicity“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L214]
+Position: Teil II; setting from the `Schauplatz` field: „(Tiefe Datenbänke)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L216]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Chronos (Archivar-Alter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L217]
+- Story: the blueprint plans, in `Plot-Beats`, „Mit Hilfe des Archivar-Alters findet Kael die Gräber früherer, gescheiterter AEGIS-Simulationen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L219] and „AEGIS stört aktiv die internen Funkkanäle der Alters, um die Kooperation zu sabotieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L219]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Weigerung
+
+Title: „Die Weigerung“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L253] — heading „Qualia als Widerstand“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L254]
+Position: Teil II; POV from `Perspektive & Stimme`: „Kael & alle EPs simultan“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L255]; place from `Ort`: „Das zerbrechende KW4“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L257]
+
+- Story: the matrix plans „Er beruft sich auf seine echten Emotionen (Qualia)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L259]
+- Question: „Warum ist der Schmerz unkomprimierbar?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L258]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Schwarze Löcher der Information und Spaghettisierung“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L97]
@@ -81,6 +113,15 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „Aus der Perspektive eines maschinellen Vorhersagemodells“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L244]; „Kael bewegt sich nach Mustern, die kein modellierbares Optimierungsziel haben“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L244]
 - The chapter's finding concerns „die Kompressibilität“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L244].
 - Foreshadowing: „Chaitin-Resonanz, Vortex-Material“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L244].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Unreliable Narrator
+
+Title: „The Unreliable Narrator“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L579]
+Position: Akt II; POV: „POV: Lex, Kiko, Nyx.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L587]
+
+- Story: the outline plans „Ein kritisches Ereignis auf der Flucht wird dreimal hintereinander geschildert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L585]
+- Concepts: „Mosaik-Sprung, Phänomenales Selbstmodell“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L583]
+- Pivot-Marker: „Chaos — Action und Decision interferieren destruktiv“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L609]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

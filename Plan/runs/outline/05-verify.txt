@@ -1,0 +1,363 @@
+$ python3 scripts/read.py outline --count Inhalt
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Inhalt` ^[outline.md:#13]
+
+$ python3 scripts/read.py outline --count Fokus
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            32
+
+`Fokus` ^[outline.md:#32]
+
+$ python3 scripts/read.py outline --count Plot
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Plot` ^[outline.md:#13]
+
+$ python3 scripts/read.py outline --count Erzählperspektive
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Erzählperspektive` ^[outline.md:#13]
+
+$ python3 scripts/read.py outline --count Thematische Kernfrage
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Thematische Kernfrage` ^[outline.md:#13]
+
+$ python3 scripts/read.py outline --count Subplot-Integration
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Subplot-Integration` ^[outline.md:#13]
+
+$ python3 scripts/read.py outline --count Reisestufe
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Reisestufe` ^[outline.md:#13]
+
+$ python3 scripts/read.py outline --count Funktionalen Multiplizität
+whole word, case-sensitive     6
+whole word, case-insensitive   9
+including compounds            6
+
+`Funktionalen Multiplizität` ^[outline.md:#6]
+
+$ python3 scripts/read.py outline --count Anteile
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            22
+
+`Anteile` ^[outline.md:#16]
+
+$ python3 scripts/read.py outline --count Anteilen
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Anteilen` ^[outline.md:#6]
+
+$ python3 scripts/read.py outline --count Alters
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Alters` ^[outline.md:#3]
+
+$ python3 scripts/read.py outline --count TSDP
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`TSDP` ^[outline.md:#2]
+
+$ python3 scripts/read.py outline --count Externen Ebene
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Externen Ebene` ^[outline.md:#3]
+
+$ python3 scripts/read.py outline --count Externe Ebene
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Externe Ebene` ^[outline.md:#6]
+
+$ python3 scripts/read.py outline --count Nichts Rauschen
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nichts Rauschen` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Quelle
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Quelle` ^[outline.md:#0]
+
+$ python3 scripts/read.py outline --count Quellen
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Quellen` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Glossar
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Glossar` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Selene
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Selene` ^[outline.md:#3]
+
+$ python3 scripts/read.py outline --count Nexus
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nexus` ^[outline.md:#2]
+
+$ python3 scripts/read.py outline --count Kaels
+whole word, case-sensitive     53
+whole word, case-insensitive   53
+including compounds            53
+
+`Kaels` ^[outline.md:#53]
+
+$ python3 scripts/read.py outline --count Kael
+whole word, case-sensitive     60
+whole word, case-insensitive   60
+including compounds            113
+
+`Kael` ^[outline.md:#60]
+
+$ python3 scripts/read.py outline --count Echo
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            10
+
+`Echo` ^[outline.md:#4]
+
+$ python3 scripts/read.py outline --count Echos
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Echos` ^[outline.md:#4]
+
+$ python3 scripts/read.py outline --count ANP
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            8
+
+`ANP` ^[outline.md:#2]
+
+$ python3 scripts/read.py outline --count ANPs
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`ANPs` ^[outline.md:#3]
+
+$ python3 scripts/read.py outline --count EPs
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`EPs` ^[outline.md:#5]
+
+$ python3 scripts/read.py outline --count ANP-EP
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ANP-EP` ^[outline.md:#2]
+
+$ python3 scripts/read.py outline --count Riss
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            7
+
+`Riss` ^[outline.md:#3]
+
+$ python3 scripts/read.py outline --count Risse
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Risse` ^[outline.md:#2]
+
+$ python3 scripts/read.py outline --count Rissen
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rissen` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Risses
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Risses` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Dr. Thorne
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dr. Thorne` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Show, don't tell
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Show, don't tell` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count DID-Darstellung
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DID-Darstellung` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Narrative Ziele
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Narrative Ziele` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Psychologischer Zustand
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Psychologischer Zustand` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count P versus NP Problem
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`P versus NP Problem` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Healing Old Wounds
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Healing Old Wounds` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Fatal Flaw Exploitation
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fatal Flaw Exploitation` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count Hoist by His Own Petard
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hoist by His Own Petard` ^[outline.md:#1]
+
+$ python3 scripts/read.py outline --count KW1
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`KW1` ^[outline.md:#8]
+
+$ python3 scripts/read.py outline --count KW2
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`KW2` ^[outline.md:#4]
+
+$ python3 scripts/read.py outline --count KW3
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`KW3` ^[outline.md:#4]
+
+$ python3 scripts/read.py outline --count KW4
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`KW4` ^[outline.md:#2]
+
+$ python3 scripts/read.py outline --count Das Fundament & die ultimative Realität
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Das Fundament & die ultimative Realität` ^[outline.md:#7]
+
+$ python3 scripts/read.py outline --count Das Mysterium Juna/V & die Externe Ebene
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Das Mysterium Juna/V & die Externe Ebene` ^[outline.md:#6]
+
+$ python3 scripts/read.py outline --count Kaels Weg zur Funktionalen Multiplizität
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kaels Weg zur Funktionalen Multiplizität` ^[outline.md:#6]
+
+$ python3 scripts/read.py outline --count Wächtern
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Wächtern` ^[outline.md:#0]
+
+$ grep -c "\*\*Fokus:\*\*" Sources/drive/outline.md
+27
+$ grep -n "?" Sources/drive/outline.md | cut -c1-40   (13 lines, all Thematische Kernfrage)
+162:  - **Thematische Kernfrage:** Wie �
+171:  - **Thematische Kernfrage:** Kann 
+180:  - **Thematische Kernfrage:** Was t
+189:  - **Thematische Kernfrage:** Wie z
+198:  - **Thematische Kernfrage:** Kann 
+207:  - **Thematische Kernfrage:** Kann 
+216:  - **Thematische Kernfrage:** Was l
+225:  - **Thematische Kernfrage:** Wie v
+234:  - **Thematische Kernfrage:** Kann 
+243:  - **Thematische Kernfrage:** Was b
+252:  - **Thematische Kernfrage:** Ist s
+261:  - **Thematische Kernfrage:** Wie g
+270:  - **Thematische Kernfrage:** Kann 
+$ grep -nE "^\*\*([0-9]+\. )?Kapitel" Sources/drive/outline.md | wc -l
+26
+stance_marker_count 110 = 13*6 + 32 (Inhalt, Plot, Erzählperspektive, Thematische Kernfrage, Subplot-Integration, Reisestufe = 13 each; Fokus = 32)
+profile (01-profile.txt): ascii quotes 108, glued ref numbers 49, question marks 13

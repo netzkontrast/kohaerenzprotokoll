@@ -1,0 +1,382 @@
+{
+  "document": "system-kael-konzeptentwicklung-und-analyse",
+  "drive_id": "1DTn94pg899ebXOWniuNRZgjWg3BI4_NsebdWXAMkrwU",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; rlm_ingest not run (paused); readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-76/brief.md, told to add only what record 74's readings do not hold; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 85,
+    "decisions": 91,
+    "decided_by_lookup": 75,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A concept analysis: its own words are trauma-theory and philosophy frames (TSDP's ANP and EP, Aktionssysteme, Kernphobien, the toxic manager, Advaita Vedanta, spontaneous symmetry breaking, P=NP) and the Guardian-Interface protocols (ZTEM, BPoF, EIC), which `aegis-teilfunktionen` holds. Its readings went onto 33 pages and 2 records; no name is defined here that the wiki lacks.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        48,
+        50,
+        51,
+        52,
+        82
+      ],
+      "attribution": "",
+      "note": "the Guardian-Interface protocols and the Integrity Guardian"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        30,
+        32,
+        36,
+        38,
+        80,
+        84,
+        177,
+        261
+      ],
+      "attribution": "",
+      "note": "the genesis as negation, the core sentence, the toxic manager and the self-fuelled Risse"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        110
+      ],
+      "attribution": "",
+      "note": "Beschützer, core phobia helplessness"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        132
+      ],
+      "attribution": "",
+      "note": "a metacognitive part, core phobia imperfection"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        60,
+        162,
+        208
+      ],
+      "attribution": "",
+      "note": "the hypervigilant, paranoid defence, domain of KW3"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        72,
+        74,
+        75,
+        76,
+        84
+      ],
+      "attribution": "",
+      "note": "three levels, and the force AEGIS fights"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        30,
+        38
+      ],
+      "attribution": "",
+      "note": "the genesis as a cosmological mirror of TSDP"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        162,
+        208
+      ],
+      "attribution": "",
+      "note": "KW3, Cerberus's domain, a bunker-like fortress"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        122
+      ],
+      "attribution": "",
+      "note": "named in the roster of EPs"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        179,
+        181
+      ],
+      "attribution": "",
+      "note": "the safe, co-regulating bond, and the central conflict as a struggle for bonding"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        108,
+        167,
+        188,
+        228,
+        232
+      ],
+      "attribution": "",
+      "note": "host and primary manager, bound to the toxic bond, healing himself"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "suppressed, potentially chaotic creative potential"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        156,
+        167
+      ],
+      "attribution": "",
+      "note": "the four worlds as externalisations, code names and domains"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        120
+      ],
+      "attribution": "",
+      "note": "flight and freeze"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        160
+      ],
+      "attribution": "",
+      "note": "KW1, LogOS's domain, the world of the ANPs"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        80,
+        82
+      ],
+      "attribution": "",
+      "note": "the principle stated, and AEGIS's erasures producing entropy"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        58,
+        109
+      ],
+      "attribution": "",
+      "note": "an analyst part; LogOS comparable to him"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        121
+      ],
+      "attribution": "",
+      "note": "ambivalent attachment"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        58,
+        252
+      ],
+      "attribution": "",
+      "note": "pure logic cut off from emotion"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "archived but unintegrated emotional memory"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        164,
+        209
+      ],
+      "attribution": "",
+      "note": "KW4, Kairos/Sophia, potential and integration"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        123
+      ],
+      "attribution": "",
+      "note": "collapse, hopelessness and existential emptiness"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        209,
+        228
+      ],
+      "attribution": "",
+      "note": "accepting complexity as strength, healing the dissociative split"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        30,
+        38
+      ],
+      "attribution": "",
+      "note": "the state before the system, and its reading as a metaphor"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        119
+      ],
+      "attribution": "",
+      "note": "the fight reaction"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        161
+      ],
+      "attribution": "",
+      "note": "KW2, Mnemosyne's domain, emotional memory and trauma"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        111
+      ],
+      "attribution": "",
+      "note": "the caring ANP, core phobia unhealable pain"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        78,
+        84
+      ],
+      "attribution": "",
+      "note": "active processes of decay, and AEGIS's own by-product"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        131,
+        142
+      ],
+      "attribution": "",
+      "note": "among the integrating parts, and ANP-Regulator in Tabelle 1"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        208
+      ],
+      "attribution": "",
+      "note": "a figure of the plot outline through whom parts are externalised"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        62,
+        164
+      ],
+      "attribution": "",
+      "note": "the often overtaxed attempt at synthesis"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        38,
+        100,
+        102
+      ],
+      "attribution": "",
+      "note": "eleven parts sorted into ANPs, EPs and integrating forms"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        46,
+        56
+      ],
+      "attribution": "",
+      "note": "AEGIS's primary instrument, the Labor der Kohärenz, as externalised mind"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      14
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C11"
+  ],
+  "questions_changed": [
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a title containing a term: Das Kohärenz Protokoll: Eine Konzeptionelle Synthese), J12 and J16 (a compound is its own token: Abfallentropie, Shannon-Entropie, System Kael, Juna/V-Verbindung, Juna-Echos, Digitale Überwelt, Labor der Kohärenz, Zero-Trust Execution Model), J34 and J43 (a slash in a name the wiki has: Juna/V), J69 (a match only after folding: Wächter / aegis, Echo / residual-echos)",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 283,
+      "decision": "occurrence",
+      "why": "a reference title (L283)"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 26,
+      "decision": "reading",
+      "why": "the genesis heading and its paragraphs (L26–L38)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the document's title (J9)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Überwelt",
+      "line": 42,
+      "decision": "reading",
+      "why": "the Digitale Überwelt and its Wächter (L42–L56)"
+    }
+  ],
+  "not_promoted": [
+    "Das Fundament — read through three principles (non-duality, symmetry breaking, paraconsistent logic) and a non-interventionist role (L219–L232); no page",
+    "the Heldinnenreise mapping of Kap 1–13 (L204–L211); no page",
+    "Co₁, McL, B, Ly — the four worlds' code names (L160–L164); read on kern-welten",
+    "Externe Ebene, funktionale Multiplizität — only inside the open questions (L264, L266); not read"
+  ],
+  "internal_tension": "Selene is an integrating part in the roster (L131) and `ANP-Regulator` in Tabelle 1 (L142); KW4 belongs to `Kairos/Sophia` together while every other world has one Wächter; AEGIS is a cosmological trauma response (L38) and a toxic manager (L177)",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

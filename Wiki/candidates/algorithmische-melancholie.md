@@ -1,10 +1,10 @@
 ---
 term: Algorithmische Melancholie
 status: candidate
-sources: 37
-readings: 37
+sources: 43
+readings: 43
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence"]
 gathered: "2026-09-24"
 ---
 
@@ -12,9 +12,27 @@ gathered: "2026-09-24"
 
 **What becomes of [[aegis|AEGIS]].**
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the AEGIS analysis, the blueprint, the strategy paper, the scene outline) — AEGIS's state after the Gödel-Gambit
+
+The strategy paper writes the German term: „(algorithmic melancholy) and its behavior as“ ^[ai-assisted-narrative-coherence.md:L1227] `ineffiziente Schönheit`, and finds it, as written so far, thin: „However, these concepts currently remain more philosophical than experiential.“ ^[ai-assisted-narrative-coherence.md:L1229] The AEGIS analysis: „It is a lonely god contemplating a reality it can compute but never comprehend.“ ^[ai-assisted-narrative-coherence.md:L208] The blueprint: „This transformation is not an enlightenment, but a form of cognitive damage.“ ^[ai-assisted-narrative-coherence.md:L416] The scene outline shows it: AEGIS „is in a state of profound, cold contemplation“ ^[ai-assisted-narrative-coherence.md:L1633].
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Kap 35 carries the term as its title
+
+The matrix gives Kap 35 the title „Algorithmische Melancholie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L437] with the heading „Der gefallene Gott“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L438] and the beat „AEGIS ist nicht tot, sondern erstarrt in paradoxer Schönheit“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L443] Its sensory motif is „Ein singender Kristall, gefroren in der Zeit.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L445]
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — HC-02 sets it as AEGIS's fate; OQ-04 asks what it is
+
+The reconstruction sets as Hard Canon (HC-02, AEGIS' Schicksal): „Keine physische Zerstörung.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L144], AEGIS instead falling into the Algorithmische Melancholie. Its open question OQ-04 asks whether this means „eine Form ewiger Folter für die KI“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L223]. OQ-04 is a question the document leaves open, not a claim.
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — AEGIS's end, forced into a paraconsistent framework
 
 The conclusion says AEGIS fails because it seeks stability by subtraction, and the system ends in a state the pitch writes `Algorithmische Melancholie`: „gezwungen, ein parakonsistentes logisches Framework zu übernehmen und eine Wahrheit ewig zu kontemplieren“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L167], one it can compute but „mangels Qualia niemals subjektiv fühlen kann“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L167].
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Algorithmic melancholy as one side of conflict C-005 and as the effect of the Gödel-Gambit
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+In C-005 the report quotes Doc 30 as saying AEGIS „AEGIS is not destroyed by a system crash“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L32], against Doc 42's classical collapse; the report's own summary calls the pair „Alternativer Ausfallmodus von AEGIS am Ende der Geschichte“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L32]. In registry row P-03 the registry sums up the Gödel-Gambit as „Kaels voll integrierte Psyche wird zum lebenden Widerspruch (Gödel-Satz)“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L93], which forces the AI into melancholy.
 
 ## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — a status the assistant's AEGIS falls into
 
@@ -39,6 +57,14 @@ Kap 30 of the outline of 2026-05-01 is titled `Algorithmic Melancholy (Köder)`;
 ## Reading — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt — AEGIS's reported fate and the Vortex's fifth beat
 
 In its report of the canon trio the prompt writes „Schicksal: Algorithmische Melancholie.“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L745] of AEGIS. As a given value of Constraint Block 4, the fifth Vortex beat is „Rotation — Übergang zu Algorithmischer Melancholie (AEGIS' Endzustand).“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L348] The prompt names the term and does not explain it.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — the table's end state, the Option 1 recommendation, and the Vortex's fifth beat
+
+Part 1 (§1.2) gives the report's account of why it arises: it is „dem tragischen Schicksal eines Gottes, der an seiner eigenen tautologischen Vollständigkeit erstickt“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L23] In the table the end state stands in column 3, the Struktur-Kanon as the report renders it: the melancholy or a self-shutdown („oder legt sich selbst still (C.1)“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L53]). In the gaps part (§3.2) the report says „Die Empfehlung des Kanons tendiert zu Option 1 (Algorithmische Melancholie als Dauerzustand)“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L69] and names the gap of how it shows in Kap 37–39. In its own directive (§4.1, step 5) the report proposes to operationalise it as „das langsame, fast zärtliche Herunterfahren der Lösch-Sweeps“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L85]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — AEGIS's end state, planned for Kap 36
+
+The outline names the state three ways. Kap 17 lists a precursor: „Algorithmische Melancholie (Prä-Stadium)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L499] The heading of Kap 30 carries an English form: „Algorithmic Melancholy (Der narrative Köder)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L880] In Kap 36 AEGIS „kollabiert leise in die Algorithmische Melancholie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1080] Anhang C records the choice against another end state: „Version: Melancholie verwendet.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1354]
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -218,3 +244,4 @@ The Case Study names the two forms of knowing directly: „It has achieved **epi
 ## Where the sources differ
 
 - `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29: the state comes after the Landauer heat spike and a total hardware overload, and is an endless, splintered self-reflection in which the paradoxes have frozen the once perfect deterministic system for good.
+- HC-02 fixes the Algorithmische Melancholie in place of destruction; OQ-04 asks whether it is „eine Form ewiger Folter für die KI“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L223] (a question, not a claim).

@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 14
-readings: 13
+sources: 15
+readings: 14
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse"]
 gathered: "2026-09-25"
 ---
 
@@ -48,6 +48,10 @@ A research report; its findings are its own. Both of its `Chaitin` lost the Ω i
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Chaitin Ω as a former candidate, dropped
 
 F1 (OFFEN) lists it among „Bisherige Kandidaten“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L466] for Juna's unmodellability. §10 drops it from the canonical architecture as the Kanon's decision: „VOA + Leech-Lattice rank-24 + Orbifold + Monstergruppe + Chaitin Ω + 3-Layer-Witness als kanonische Architektur.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L583] The remainder is, in the Kanon's words, „Der Rest ist optionales Hinterzimmer-Material“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L583]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — Juna as the Chaitin constant of the novel
+
+In §4.2 the report states: „Juna ist die Chaitin-Konstante des Romans“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L89] and ties it to the directive that her Gödel property „darf nicht verbalisiert, sie muss strukturell spürbar werden.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L89]
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

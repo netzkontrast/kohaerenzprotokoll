@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 46
-readings: 46
+sources: 53
+readings: 53
 conflict: none
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out"]
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence"]
 gathered: "2026-09-24"
 ---
 
@@ -16,9 +16,21 @@ gathered: "2026-09-24"
 
 The report's section on the link is headed „Kael-Juna-Verbindung (Der Moonshine-Link)“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L97] Its matrix reads Monstrous Moonshine as a „Metapher für eine tiefe, nicht-lokale, sub-protokollarische, für AEGIS unerklärliche Verbindung“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L41] (L41), and entanglement as „Metapher/Mechanismus für die instantane, simulationsübergreifende K-J-Verbindung“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L44] (L44). In the section the Plotanalyse reads it as a deep, resonant link that, as cited from the User Query, defies AEGIS's logic and observation, and leaves open whether it is a causal influence or an expression of a shared M-essence (L102). Its function: „Die K-J-Verbindung fungiert als“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L103] catalyst or anchor of Kael's integration (L103).
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the simple guide, the blueprint, the concept document, the lexicon) — Kael's non-local link to Juna/V
+
+The simple guide: „a non-local connection that operates on principles entirely foreign to AEGIS's logic“ ^[ai-assisted-narrative-coherence.md:L265]. The blueprint's table of thematic pillars says it „demonstrates that true coherence arises from ontological connection“ ^[ai-assisted-narrative-coherence.md:L353]. The concept document: „The connection between Kael and Juna/V is a non-local, sub-protocol“ ^[ai-assisted-narrative-coherence.md:L605]. The lexicon: „The metaphor for the non-local, acausal, and deeply resonant connection between Kael and Juna/V, which is invisible and incomprehensible to AEGIS's logic.“ ^[ai-assisted-narrative-coherence.md:L1832]
+
 ## Reading — `hard-sci-fi-cosmic-horror-research-questions`, 2026-01-02, the Cosmic-Horror research report — Monstrous Moonshine as the link's mechanism, as reported
 
 This is a report of another document (its reference 87). The report says the analysed Plotanalyse maps Monstrous Moonshine to „The mechanism of the Kael-Juna connection.“ ^[hard-sci-fi-cosmic-horror-research-questions.md:L197] and reads it as „A metaphor for non-local, acausal connection“ ^[hard-sci-fi-cosmic-horror-research-questions.md:L197], a „hidden order“ ^[hard-sci-fi-cosmic-horror-research-questions.md:L197] that bypasses AEGIS's protocols. The report writes `Moonshine`, not `Moonshine-Link`.
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the Moonshine-Link as a hard-SF anchor
+
+The master blueprint's research table sets as the validation aim for the manuscript „(Kael-Juna) als Hard-Sci-Fi-Element, das Quantenverschränkung (ER=EPR) mit Symmetrien verknüpft“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L38] The line puts the Moonshine-Link in its own inner quotation marks. Kap 7 plans that Kael feels it: „spürt Kael erstmals die K-J-Vektorsignatur“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L112]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the Moonshine-Link as an ontological exploit through entanglement and Gnosis
+
+Leitfrage 3 (Kap 19) is headed by its mechanics and somatics, and its context calls the link „Der Moonshine-Link zwischen Kael und Juna/V ist das zentrale ontologische Schlupfloch“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L76], one that „auf Quantenverschränkung und Gnosis basiert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L76]. In the Teil II plot it is „zu Juna etabliert sich als ontologischer Exploit, der Gnosis in ein auf Episteme basierendes System injiziert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L28]; that sentence ends in reference 4.
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — the Moonshine-Link as an example of an intervention
 
@@ -32,9 +44,19 @@ What it carries and to whom: „Stattdessen agiert er als asymmetrischer Out-of-
 
 The document names `Juna` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0] nowhere.
 
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — the Kael-Juna link, internally so called
+
+Section 2.1 calls the link between Kael and Juna internally `Moonshine-Link` and says it „basiert metaphysisch auf dem Prinzip der Quantenverschränkung“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L55]. The open question OQ-08 asks whether the Foundation that makes the Moonshine-Link possible is a force with teleology or a neutral mathematical axiom.
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the blind spot of AEGIS, non-algorithmic, ER=EPR as analogy
 
 The pitch calls it „Der blinde Fleck dieser rigiden AEGIS-Architektur“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L123], `K-J Connection` or `Moonshine-Link`. It is „Die Verbindung zwischen Kael und Juna operiert nicht-algorithmisch.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125], based on an analogy to entanglement; it lets „wodurch emotionale Zustände und Schmerz ohne zeitliche Verzögerung zwischen ihnen geteilt werden“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125]. „Für AEGIS stellt dieser Moonshine-Link einen nicht-modellierbaren ontologischen Exploit dar“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125]. Juna is in the Dramatica table „Katalysator der Transzendenz, Trägerin der Moonshine-Resonanz“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L146].
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — The Moonshine-Link in P-04, F-03 and S-03
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row P-04 (four stars): „Nicht-lokale, sub-protokollarische Verbindung zwischen Kael und Juna, basierend auf Quantenverschränkung und Whiteheads“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L94] prehension. Row F-03 has Juna acting through it: „als Katalysator (Gnosis) wirkt“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L68]. Row S-03 names it the relationship story: „RS (Psychology - Moonshine-Link)“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L115].
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — love as a living dialetheia, and the VOA over the Leech lattice
 
@@ -61,6 +83,14 @@ In Kap 36 of the outline of 2026-05-01 love is the form of information that eras
 ## Reading — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt — the RS of Storyform A
 
 As a given value of Constraint Block 4, the RS throughline of Storyform A is „Physics (Moonshine-Link; Träger: Kael ↔ Juna)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L308] The term is named and not explained there.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — named in the table's verdict column
+
+In the table's genesis row it is column 4, the report's own verdict, that names it: „was die nicht-lokale Bindung (Moonshine-Link) erst logisch zwingend macht“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L49]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Juna's link as a stabiliser, from Kap 4 to Kap 36
+
+Kap 4 introduces it: „Moonshine-Link, Phantom-Resonanz, Juna.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L113] In Kap 11 the plan has it calm the city: „Junas Moonshine-Link – beruhigt die Struktur.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L317] In Kap 19: „Der Moonshine-Link zu Juna stabilisiert sich.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L557] In Kap 36 it is given as what love becomes: „Liebe manifestiert sich nicht als Gefühl, sondern als unlöschbarer Moonshine-Link, als Information, die Hitze trotzt.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1080]
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

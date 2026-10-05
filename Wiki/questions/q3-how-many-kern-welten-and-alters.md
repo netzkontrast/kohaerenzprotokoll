@@ -415,3 +415,31 @@ Stands: both numbers appear, each stated apart; Q3 remains open.
 It reports the canon trio as defining a „13-Alter-System“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L747]. Constraint Block 3 excludes from the output „Computational Class (KW1=P / KW2=Parakonsistent / KW3=NP-Hard / KW4=Generativ)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L278], and „Somatic Rulebook (KW1=Atem / KW2=Bauch / KW3=Muskel / KW4=Hände)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L279], both as belonging to a later phase; four worlds appear only inside these excluded lists.
 
 Where it stands in the record's own terms: a reported 13 alters, and four worlds named only in lists the prompt keeps out of its output; this reading decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction
+
+**The reconstruction names four worlds and eleven primary alters, and writes `11+` in HC-01.**
+
+The four worlds are named in section 2.2, KW1 Logos-Prime to KW4 Kairos-Potentialis. The alters: „Die finale, kanonische Struktur umfasst“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L78] `11 primäre Systemanteile`; SC-06: „Host (Kael), Architekt, Wächter (Alex), Kind (Echo), Analytiker (Lex), Schatten (Nyx), Beobachter (Argus), Vermittler, Erinnerungssäule, Taktiker, Fragment (V).“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L168] HC-01: „Kael fungiert als unwissender Host eines TSDP-Systems mit 11+ Kern-Alters.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L143]
+
+Stands as four worlds and eleven primary alters beside an `11+` wording, in one document dated 2026-03-26.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The report sets eleven alters against thirteen or more, lists ten core alters, and names four core worlds under five guardians.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+C-002: the report quotes Doc 30 as „The current canonical registry identifies 11 distinct entities within the system.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L23]; its summary: „Die Alter-Liste variiert zwischen dem streng definierten 11er-Kanon des“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L23] canon and „und älteren Konzeptentwürfen mit 13 oder mehr Anteilen“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L23]. Row F-04 lists ten: „Das System Kael besteht aus Lex (Logik), Nyx (Kampf), Kiko (Freeze), Alex (Schutz), Rhys (Pflege), Selene (Integration), Argus (Kritiker), Lia, Isabelle und Moros.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L69] Row F-06 speaks of „erzählerisch toxisch für den aktuellen 11er-Kanon“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L71]. Row F-05 names five guardians who „wachen über die 4 Kernwelten und repräsentieren AEGIS' Kontrollparadigmen“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L70].
+
+It stands as a count of alters held in two figures, ten and eleven, and four worlds beside five guardians; the report does not reconcile them.
+
+## 2026-10-05 — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the blueprint, the Kael biography, the architecture analysis)
+
+**The parts give four worlds, and for the alters a count of eleven against tables of six, five and a longer list.**
+
+Worlds: „The four Kernwelten (Core Worlds) are simulated realities created by AEGIS as“ ^[ai-assisted-narrative-coherence.md:L467] laboratories (the blueprint).
+
+Alters: the blueprint says „the existence of eleven identified alters“ ^[ai-assisted-narrative-coherence.md:L431], and in the next section „The following table profiles the most significant alters within“ ^[ai-assisted-narrative-coherence.md:L435] System Kael, with rows for Kael, Lex, Nyx, Kiko, Rhys and Selene. The Kael biography: „The table below profiles the five most significant alters who define Kael's internal landscape and his path toward integration.“ ^[ai-assisted-narrative-coherence.md:L1101] — Kael, Lex, Nyx, Kiko and Selene. The architecture analysis's table, under „Kael's psyche is modeled on the Theory of Tertiary Structural Dissociation (TSDP)“ ^[ai-assisted-narrative-coherence.md:L1749], lists Kael, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Lex, Alex, Rhys and Argus.
+
+It stands with the record's open count: the same compilation says eleven and tabulates fewer in two parts; the record is not changed.

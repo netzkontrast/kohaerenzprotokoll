@@ -1,0 +1,300 @@
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Kanon-Trio"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kanon-Trio` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "NotebookLM-Source"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`NotebookLM-Source` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Verworfen"
+whole word, case-sensitive     6
+whole word, case-insensitive   8
+including compounds            7
+
+`Verworfen` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Dekanonisiert-Liste"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dekanonisiert-Liste` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Pivot-Marker"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Pivot-Marker` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#11]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "12 Pivot-Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`12 Pivot-Kapitel` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Kapitel"
+whole word, case-sensitive     67
+whole word, case-insensitive   67
+including compounds            89
+
+`Kapitel` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#67]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Kap. 35/36"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kap. 35/36` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Nox"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nox` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Kairos"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kairos` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Cerberus"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Cerberus` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Sophia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sophia` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Nova"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nova` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Sweep"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            5
+
+`Sweep` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Landauer-Hitze"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Landauer-Hitze` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Landauer-Effekt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Landauer-Effekt` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Landauer-Prinzip"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Landauer-Prinzip` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Algorithmische Melancholie"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Algorithmische Melancholie` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Algorithmischer Melancholie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Algorithmischer Melancholie` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Anhang"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Anhang` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#8]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Quellen-Typ"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Quellen-Typ` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#14]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Drive-Dokument"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Drive-Dokument` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Triangulationsstatus"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Triangulationsstatus` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#14]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Worum geht es"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Worum geht es` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#39]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Was passiert"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Was passiert` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#39]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Eingeführte Konzepte"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Eingeführte Konzepte` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Vortex-Beat-Zuordnung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Vortex-Beat-Zuordnung` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Limit-Marker"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Limit-Marker` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#10]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Outcome-Marker"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Outcome-Marker` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#8]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Driver-Status"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Driver-Status` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#11]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "S\_W48"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`S\_W48` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "S\_B17"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`S\_B17` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "S\_D1"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`S\_D1` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "urspüngliche"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`urspüngliche` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Encoding Storyform A"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Encoding Storyform A` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#39]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --count "Phoenix Collapse"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Phoenix Collapse` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#39]
+
+# stance_marker_count 17 = Kanon-Trio 3 + NotebookLM-Source 6 + Verworfen 6 + Dekanonisiert-Liste 2
+# question marks: grep -n '?' Sources/drive/kohaerenz-protokoll-kapitel-outline-erstellung.md -> only L17; profile says 2 (both on L17)
+17:Während 
+# Pivot-Marker lines: census row lists 221 395 433 607 781 819 964 998 1031 1068 1108 (11)
+
+# reference list entries: lines L1431 to L1434 are the four numbered entries (python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-erstellung --from 1431 --to 1434)
+# K1 / K0 subscript forms:
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K₁` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#0]
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K₀` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#0]
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            24
+
+`Kapitel 1` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#9]
+1429| #### **Referenzen**
+1430| 
+1431| 1.  Romanprojekt Kohärenz Protokoll Analyse
+1432| 2.  Romanprojekt Analyse & Synthese
+1433| 3.  Dramatica Dual-Storyform Mapping Analyse
+1434| 4.  The Fluid Self: Interdisciplinary Frontiers of Human Identity
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ZTEM-Sweep` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#2]
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`RIVE-Sweep` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#1]
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hintergrund-Sweep` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#1]
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sweeps` ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:#1]

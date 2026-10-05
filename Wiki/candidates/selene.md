@@ -1,16 +1,50 @@
 ---
 term: Selene
 status: candidate
-sources: 29
-readings: 29
+sources: 41
+readings: 41
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
 gathered: "2026-09-24"
 ---
 
 # Selene
 
 One of the thirteen [[alters|Alters]] — ANP, „Integrator / ISH" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L466].
+
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — guardian-integrator, a potential catalyst, labelled ANP-Regulator in Table 1
+
+The report names `Selene (Wächterin/Integratorin)` and says she „Fungiert als potenzieller Katalysator für Heilung“ ^[scifi-roman-mit-ki-schreiben.md:L154] and „Ihre ambivalente Rolle zwischen dem Schutz des Systems durch rigide Blockade von Trauma-Inhalten und ihrem Potenzial für Mitgefühl und Weisheit ist ein zentrales Mysterium und eine Quelle der Hoffnung“ ^[scifi-roman-mit-ki-schreiben.md:L154] Table 1, the plot-document-based matrix, heads her column „Selene (ANP-Regulator)“ ^[scifi-roman-mit-ki-schreiben.md:L160] — both labels are the report's.
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — among the integrating parts, and ANP-Regulator in Tabelle 1
+
+The roster (glued `1`, reference 1) lists Selene (Regulatorin) under `Sonderformen/Integrierende Anteile`: she „Agiert als innere Wächterin, die das System vor Überflutung schützt“ ^[system-kael-konzeptentwicklung-und-analyse.md:L131] and „repräsentiert das Potenzial zur Integration und Selbstregulation“ ^[system-kael-konzeptentwicklung-und-analyse.md:L131] Tabelle 1 writes the same part as „Selene (ANP-Regulator)“ ^[system-kael-konzeptentwicklung-und-analyse.md:L142] in its header row. The document gives both labels and does not reconcile them.
+
+## Reading — `outline`, 2025-07-30, the outline — Selene as coordinator, in Teil 2's close and Kap 32
+
+The outline plans Selene only as a coordinator who comes into being late. At the end of Teil 2 Kael consolidates, „möglicherweise mit Selene als aufkeimender Koordinatorin“ ^[outline.md:L142] (L142); the hedge is the outline's. Kap 32 is titled „Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS“ ^[outline.md:L203] (L203), and its Erzählperspektive reads „Kael (Selene als Koordinatorin, Höhepunkt der Integration).“ ^[outline.md:L206] (L206).
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the blueprint, the scene outline and the architecture analysis of the English compilation — Selene as the integrator, and two spellings of her ISH title
+
+The blueprint's table row reads „Integrator/Inner Self Helper (ISH). Functions as an internal ethical compass and facilitator.“ ^[ai-assisted-narrative-coherence.md:L445] and adds „The only alter who understands and actively works towards integration.“ ^[ai-assisted-narrative-coherence.md:L445] The architecture analysis (L1671 on) writes the title as „Acts as an Internal Self Helper (ISH) and gatekeeper, guiding the system toward harmony and integration.“ ^[ai-assisted-narrative-coherence.md:L1755] and types her „Integrative (Mixed ANP/EP)“ ^[ai-assisted-narrative-coherence.md:L1755].
+
+In the scene outline (L1273 on), at the end of Act I, a stalled internal conference ends when „a calm, clear presence emerges“ ^[ai-assisted-narrative-coherence.md:L1415]. At the end of Chapter 25's council the outline gives her the lead: „is explicitly named as the leader and ethical core of this new, integrated state.“ ^[ai-assisted-narrative-coherence.md:L1570]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Selene as the self-aspect leading integration
+
+The three-part analysis associates the Selbst with her: „dem werdenden Integrations-Zentrum, assoziiert mit dem Alter *Selene*“ ^[romanstruktur-und-philosophische-einleitung.md:L91] Table 1 gives her role as Selbst-Aspekt and her development as „Emergiert als führende Kraft der Integration in Kap. 12.“ ^[romanstruktur-und-philosophische-einleitung.md:L130]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the core self in Kap 17, 19 and 25
+
+The master blueprint casts „Selene (Self)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L193] in Kap 17. In Kap 19 it writes the core self as „Das Kern-Selbst (Selene) dirigiert diese funktionale Multiplizität“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211] and in Kap 25 it plans that she wards off the invasion: „das Kern-Selbst (Selene) radikale Akzeptanz und Mitgefühl für alle Anteile“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L259]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Selene in Kap 28 as the integrated self or the healed host state
+
+Kap 28 is titled „Die Geburt von Selene“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L353] and gives the perspective „Selene (Das integrierte Kern-Selbst) – ruhig, weise, umfassend.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L355] The beat names the alternative in parentheses: „(oder der geheilte Host-Zustand).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L359] Kap 29 follows with „Kael/Selene“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L367] The matrix records both readings of Selene, the integrated core self and the healed host state, and chooses neither.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Selene as the integrator of KW4 and the check's task for her
+
+The table gives KW4's part of the TSDP as „Selene (Integrator) & Lia“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L55]. The psychological axis says healing comes through Selene's NP search rather than fusion: „Die Heilung im Roman ist keine Fusion im Sinne einer Löschung“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L37]. The Kohärenz-Check holds that „dass das Alter Selene (ebenfalls in KW4 beheimatet) Integration durch“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L110] NP-Search seeks, and its correction proposal is „Selenes wahre Aufgabe ist es, diese fehlerhafte Integration zu überwinden“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L114], a proposal.
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — the Integrator-Agent as the stress test's success case
 
@@ -20,12 +54,30 @@ Selene appears once, in the third step of the template's check, a stress test th
 
 The document's third check step, the Gödelian stress test, names her as its success criterion: „Ein Erfolg zeichnet sich ab, wenn ein Integrator-Agent (wie Selene) die Kontradiktion aufnimmt und über parakonsistente Logik-Gatter (First Degree Entailment) puffert“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L50]. In its closing synthesis she is no longer a controlling figure: „Der Integrator-Agent (Selene) fungiert nicht länger als kontrollierender Diktator, sondern als Mediator (Internal Self-Helper)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L170].
 
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — named as an instance that leads the system toward coherence
+
+The line on Selene says she is „eine jener Instanzen genannt, deren Wirken maßgeblich ist“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L92] to lead the system later to a real coherence and a functioning co-consciousness.
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Selene as integration alter and as the one who starts integration in KW4
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row F-04: „Das System Kael besteht aus Lex (Logik), Nyx (Kampf), Kiko (Freeze), Alex (Schutz), Rhys (Pflege), Selene (Integration), Argus (Kritiker), Lia, Isabelle und Moros.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L69] Row W-04 describes KW4 as „Organischer Garten der Synthese und dialethischen Logik, in dem Selene die Integration einleitet.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L81]
+
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Selene in Appendix B, an Internal Self Helper
 Appendix B lists Selene among the ANPs as „Internal Self Helper.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L638] Her somatics are given as relaxing hands, her arc as a mediator (L638).
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — quiet in the background (Kap 12), the one who waits and leads
 
 The outline of 2026-05-01 lists Selene's first covert trace as „Hintergrund: ungewöhnliche Ruhe“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L114], in Kap 12, and the first named appearance in Kap 18. In Kap 18 AEGIS tries to refragment into her as a container: „Selene hält still. Sie wartet.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L236] Kap 19's POV line is „Selene + Silas — beide jetzt benannt“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L240] (the timeline gives Silas's first named appearance as Kap 19 and Selene's as Kap 18). In Kap 25 she speaks to Kael: „Das, was wir suchen, ist älter als die Stadt. Es ist älter als ich.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L270] In Kap 33 „Selene führt das System“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L310].
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — Selene among the alters in Juna's one appearance
+
+In the directive `Lösung zu C.7` (§4.2) the room reacts to Juna through „die somatische Entspannung der Alter (z.B. Selene, die Hände öffnet“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the guide of Kap 18, with a share of the POV of Kap 11
+
+The dual-storyform outline gives `Selene` the lead in Kap 18: „Geführt von Selene, wehren die anderen Alters ihn nicht ab“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L529] Its decision marker for the chapter reads „Selene wählt bewusste Empathie statt Unterdrückung“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L541] In Kap 11 she is a secondary voice: „Kael (mit Einwürfen von Lex und Selene).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L319]
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -174,3 +226,5 @@ An English file of about fourteen reports of 2025. The Guide's eight-alter table
 ## Where the sources differ
 
 - `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01: Selene as the Integrator-Agent that buffers a contradiction, „parakonsistente Logik-Gatter“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L123], as the stress test's success case (L123).
+- `system-kael-konzeptentwicklung-und-analyse` (2025-06-24) places Selene among the integrating parts in its roster and labels her „Selene (ANP-Regulator)“ ^[system-kael-konzeptentwicklung-und-analyse.md:L142] in Tabelle 1.
+- The blueprint's row writes „Integrator/Inner Self Helper (ISH). Functions as an internal ethical compass and facilitator.“ ^[ai-assisted-narrative-coherence.md:L445]; the architecture analysis writes „Acts as an Internal Self Helper (ISH) and gatekeeper, guiding the system toward harmony and integration.“ ^[ai-assisted-narrative-coherence.md:L1755] — Inner against Internal Self Helper, and ethical compass against gatekeeper.

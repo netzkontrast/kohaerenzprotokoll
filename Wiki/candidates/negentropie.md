@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 6
-readings: 5
+sources: 8
+readings: 7
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence"]
 gathered: "2026-09-16"
 ---
 
@@ -71,6 +71,10 @@ The untitled three-act text applies the same term to the same mechanism:
 English throughout; the German name for the flaw stands untranslated inside both
 English passages.
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the three-act blueprint) — the Negentropie-Fehlinterpretation named and explained
+
+The three-act blueprint (Act I, the antagonist's gaze) says what the misreading is: AEGIS's blindness makes it „misinterpret any emergent, life-affirming complexity (negentropy)“ ^[ai-assisted-narrative-coherence.md:L855], „such as the emotional resonance of the Juna connection or the first steps of Kael's psychological integration“ ^[ai-assisted-narrative-coherence.md:L855], as chaos (entropy). It names the flaw: „This core logical flaw, the Negentropie-Fehlinterpretation, is the engine of the entire conflict.“ ^[ai-assisted-narrative-coherence.md:L855]
+
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Negentropie as the order the minimal being holds against Rauschen
 
 The Textanalyse, a commentary on one narrative, reads the narrative's „minimale Sein“ ^[textanalyse-existenz-system-und-leid.md:L52] as an attempt „lokale Negentropie (Ordnung) gegen die universelle Entropie (Rauschen) aufrechtzuerhalten“ ^[textanalyse-existenz-system-und-leid.md:L52], and adds that this is a struggle „das Wesen des Lebens selbst beschreibt“ ^[textanalyse-existenz-system-und-leid.md:L52], naming Schrödinger. The reading is the commentary's own and borrows a physical sense; the narrative is quoted only for the „Widerstand gegen diesen Druck“ ^[textanalyse-existenz-system-und-leid.md:L52].
@@ -88,3 +92,7 @@ the project's uncertainty into its position.
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — islands around Kael/M
 
 Kap 37 of the outline of 2026-05-01: „Inseln der Negentropie entstehen um ihn“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330] — around `Kael/M`, glossed as practice.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — a zero-entropy enclave in Kap 12 and islands of order in Kap 37
+
+Kap 12 lists it among its concepts: „Negentropie, Der Jetzt-Raum.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L343] The beat has AEGIS scan the enclave and find „Der Ort weist extrem hohe Kohärenz, aber null Entropie auf.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L345] In Kap 37 the plan has order grow around Kael: „entstehen um ihn herum Inseln der Negentropie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1120] The run's own reflection in Anhang D says the pairing with Embodiment structures chapters 10 to 13: „überhaupt erst sinnvoll strukturiert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1377]

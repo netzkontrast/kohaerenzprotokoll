@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 2
-readings: 2
+sources: 4
+readings: 4
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline"]
 gathered: "2026-09-17"
 ---
 
@@ -42,6 +42,14 @@ requiring reintegration — which is precisely what Mnemosyne cannot see ^[guard
 
 This is the document's stated purpose ^[guardians-und-kern-welten-konzept.md:L17] and its closing claim ^[guardians-und-kern-welten-konzept.md:L137]. The
 five blindnesses are five different failures to perceive one thing.
+
+## Reading — `outline`, 2025-07-30, the outline — Die Wende der Partnerin, Kap 35
+
+Kap 35 is titled „Das Fundament als Spiegel: Auflösung der Paradoxien / Die Wende der Partnerin“ ^[outline.md:L230] (L230). The plot line names the partner figure as Juna/V (L232), and the Fokus says „Kaels ultimative innere Integration wird durch Verbindung erreicht.“ ^[outline.md:L235] (L235).
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the real Juna as Kael's overloaded partner in Köln
+
+Leitfrage 8 gives, as its aim for the next session, „Die exakten emotionalen Beats, wenn Kael realisiert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96] this: „dass Juna keine Anomalie, sondern seine reale, überlastete Partnerin ist“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]. It is a question the report puts for a later session, and the line ends in reference 1.
 
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Partner, a name from corrupted legacy files
 

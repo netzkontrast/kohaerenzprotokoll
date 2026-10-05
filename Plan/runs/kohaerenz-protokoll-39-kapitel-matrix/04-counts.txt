@@ -1,0 +1,123 @@
+# counts for 94 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                1 word     1 in   [63]
+  Kael                            102 word   105 in   [23, 24, 27, 35, 36, 39]
+                                    2      as Kaels
+                                    1      as Kael-System
+  Host                              2 word     3 in   [23, 24, 359]
+                                    1      as Host-Zustand
+  AEGIS                            32 word    39 in   [24, 40, 59, 64, 100, 135]
+                                    2      as AEGIS-Agenten
+                                    1      as AEGIS-Methode
+                                    1      as AEGIS-Logik
+                                    1      as AEGIS-Manifest
+  Lex                              14 word    15 in   [35, 59, 60, 95, 96, 99]
+  LogOS                             3 word     4 in   [36, 96, 97, 392]
+                                    1      as LogOS-Distrikts
+  Juna                             13 word    14 in   [46, 48, 51, 144, 147, 148]
+                                    1      as Juna-Subplots
+  Jian Li                           1 word     1 in   [60]
+  Kiko                              3 word     3 in   [71, 72, 75]
+  EP                                1 word     3 in   [75, 219, 255]  <-- substring
+  Alex                             13 word    13 in   [83, 84, 155, 159, 195, 196]
+  Rhys                              3 word     3 in   [108, 155, 159]
+  Nyx                               8 word     8 in   [119, 120, 123, 131, 132, 291]
+  Mnemosyne                         4 word     5 in   [106, 117, 120, 132, 135]
+                                    1      as Mnemosynes
+  Lia                               3 word     3 in   [219, 220, 223]
+  Cerberus                          2 word     4 in   [193, 196, 208, 392]
+                                    1      as Cerberus-Labyrinth
+                                    1      as Cerberus-Agenten
+  Kairos                            2 word     2 in   [229, 232]
+  Sophia                            4 word     5 in   [232, 242, 244, 247, 256]
+                                    1      as Sophias
+  Argus                             3 word     3 in   [279, 280, 283]
+  Selene                            6 word     6 in   [353, 355, 356, 359, 367, 379]
+  Guardian                          2 word     5 in   [120, 196, 232, 389, 395]  <-- substring
+                                    3      as Guardians
+  Guardians                         3 word     3 in   [232, 389, 395]
+  Wächter-Drohnen                   1 word     1 in   [72]
+  NPCs                              2 word     2 in   [84, 89]
+  AEGIS-Agenten                     2 word     2 in   [168, 292]
+  Cerberus-Agenten                  1 word     1 in   [208]
+  System Kael                       4 word     4 in   [156, 328, 368, 380]
+  Kael-System                       1 word     1 in   [371]
+  Der Leser                         2 word     2 in   [488, 492]
+  Das andere Fragment               1 word     1 in   [452]
+  Kael/Lex                          1 word     1 in   [60]
+  Kael/Selene                       1 word     1 in   [367]
+  Juna/V                            1 word     2 in   [148, 304]
+                                    1      as Juna/V-Verbindung
+  Juna/V-Verbindung                 1 word     1 in   [148]
+  Kern-Welt 1                       1 word     1 in   [25]
+  Konstrukt-Stadt                   1 word     1 in   [25]
+  KW1                               6 word     6 in   [37, 49, 61, 73, 85, 109]
+  KW2                               5 word     5 in   [109, 123, 133, 145, 169]
+  KW3                               5 word     5 in   [169, 171, 199, 209, 221]
+  KW4                               3 word     3 in   [235, 245, 257]
+  KWs                               2 word     2 in   [185, 467]
+  Kernwelten                        1 word     1 in   [393]
+  Überwelt                          3 word     3 in   [177, 181, 185]
+  Nexus                             5 word     7 in   [317, 319, 329, 345, 381, 417]
+                                    1      as Nexus-Kern
+                                    1      as Nexus-Core
+  Nexus-Kern                        1 word     1 in   [381]
+  Nexus-Core                        1 word     1 in   [417]
+  Der Innere Rat                    2 word     2 in   [154, 281]
+  Externe Ebene                     1 word     1 in   [477]
+  Riss                              3 word     5 in   [73, 74, 111, 217, 259]
+                                    2      as Risse
+  Nichts Rauschen                   1 word     1 in   [75]
+  Rauschen                          7 word     7 in   [69, 75, 77, 149, 305, 333]
+  Potentialmeer                     1 word     1 in   [271]
+  Das Fundament                     2 word     2 in   [401, 407]
+  Urgrund                           1 word     1 in   [402]
+  Übergangszone                     2 word     2 in   [111, 293]
+  LogOS-Distrikt                    0 word     1 in   [97]
+                                    1      as LogOS-Distrikts
+  AEGIS-Verarbeitungsmatrix         1 word     1 in   [429]
+  Mosaik-Herz                       2 word     2 in   [431, 485]
+  Paradoxon X                       3 word     3 in   [64, 277, 283]
+  Gödel-Gambit                      2 word     2 in   [337, 377]
+  AEGIS-Manifest                    1 word     1 in   [272]
+  Genesis-Log                       1 word     1 in   [265]
+  Consensus Enforcer                1 word     1 in   [205]
+  Kairos Potentialis                1 word     1 in   [229]
+  Perfekten Kael                    1 word     1 in   [247]
+  Funktionalen Multiplizität        1 word     1 in   [372]
+  funktionale Multiplizität         1 word     1 in   [419]
+  Korrespondenz-Wahrheit            2 word     2 in   [308, 408]
+  Relationale Ontologie             1 word     1 in   [407]
+  Purge-Protokoll                   1 word     1 in   [295]
+  Zeit-Glitch                       1 word     1 in   [27]
+  Amnesie-Barrieren                 1 word     1 in   [371]
+  Midpoint-Kollaps                  1 word     1 in   [320]
+  All Is Lost                       1 word     1 in   [332]
+  Epistemologische Meta-Bruch       1 word     1 in   [492]
+  Vierte Wand                       1 word     1 in   [487]
+  Self                              1 word     1 in   [360]
+  TSDP                              0 word     2 in   [76, 160]
+                                    1      as TSDP-Symptomatik
+                                    1      as TSDP-Heilungsweg
+  ANP                               1 word     3 in   [95, 100, 195]  <-- substring
+  PTBS                              0 word     1 in   [199]
+                                    1      as PTBS-Paranoia
+  IFS                               0 word     1 in   [360]
+  Internal Family Systems           1 word     1 in   [360]
+  Qualia                            5 word     5 in   [254, 259, 260, 431, 491]
+  Dialetheismus                     1 word     1 in   [383]
+  P vs NP                           1 word     1 in   [236]
+  Cypher                            0 word     1 in   [248]
+                                    1      as Cypher-Rolle
+  Matrix                            2 word     2 in   [248, 318]
+  Wittgensteinsche                  1 word     1 in   [88]
+  Russellsche                       1 word     1 in   [93]
+  sartresch                         1 word     1 in   [343]
+  Gaslighting                       1 word     1 in   [39]
+  Dissoziation                      1 word     1 in   [331]
+  Katatonie                         1 word     1 in   [331]
+  Entropie                          3 word     4 in   [187, 271, 283, 342]
+                                    1      as Entropie-Verwaltung

@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,20 @@ Position: „(Fundamentales Konzept: Dissoziative Identitätsstörung)“ ^[koha
 - Juna erased: „Der Name *Juna* wurde zu einem bedeutungslosen Echo, einem gelöschten Datenfragment.“ ^[kohaerenz-protokoll.md:L264]
 - What is left: „Er war immer noch K-1123, der Kohärenz-Verifikator, der Logiker.“ ^[kohaerenz-protokoll.md:L268]
 
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Logik der Risse
+
+Title: „Die Logik der Risse“ ^[roman-outline-system-kael.md:L57]
+Position: Teil I, KW1
+
+- Story: in the Mnemosyne-Archiv Kael meets „den Archivar“ ^[roman-outline-system-kael.md:L57] Lex, who „weist Kaels Sorgen als subjektive Fehlwahrnehmung zurück“ ^[roman-outline-system-kael.md:L57].
+
+## Reading — `outline`, 2025-07-30, the outline — Die Brüche im Protokoll
+
+Title: „Die Brüche im Protokoll“ ^[outline.md:L27] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „Kael erlebt deutlichere Systemfehler“ ^[outline.md:L29]; „beginnt, seine Realität zu hinterfragen“ ^[outline.md:L29]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -52,6 +66,30 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „'nicht-kritische Abweichungen' oder 'unterschwelliges emotionales Rauschen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42] · „Es wird keine sofortige Aktion ausgelöst, aber die Daten werden protokolliert und korreliert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42]
 - Discussion: „es sieht Syntax, keine Semantik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L43]
 
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The guardians of the threshold
+
+Title: „Die Wächter der Schwelle“ ^[romanstruktur-und-philosophische-einleitung.md:L45]
+Position: Teil I, „Identifikation des“ ^[romanstruktur-und-philosophische-einleitung.md:L45]
+
+- Story: the Guardians are introduced as Managers in IFS terms, parts „deren Aufgabe es ist, das System funktionstüchtig zu halten“ ^[romanstruktur-und-philosophische-einleitung.md:L47]
+- Story: the periphery of KW1 turns into the domain of Cerberus: „Cerberus steht für Abwehrmechanismen, Paranoia und rigide Grenzen.“ ^[romanstruktur-und-philosophische-einleitung.md:L49]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das Diagnoseprotokoll
+
+Title: „Das Diagnoseprotokoll“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L67]
+Position: Teil I; setting from the `Schauplatz` field: „Transit-Korridor in Logos-Prime (Sichtbare Datenflüsse)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L69]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Unit 734 (Guardian/Regel-Exekutor), Lex (Analytiker), Kiko (Kind-Alter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L70]
+- Story: the blueprint plans, in `Plot-Beats`, „Unit 734 stoppt Kael für einen Kohärenz-Test“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L72] and „Kael besteht knapp, ist nun aber markiert“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L72]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Geometrie der Isolation
+
+Title: „Geometrie der Isolation“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L33] — heading „Der erste Systemfehler“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L34]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (mit ersten Einbrüchen von Lex' kühler Analytik)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L35]; place from `Ort`: „KW1 – Datenverarbeitungs-Zentrum“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L37]
+
+- Story: the matrix plans „Kael versucht, einer System-Routine zu folgen, weicht aber intuitiv ab“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L39]
+- Question: „Wie reagiert das System auf eine Variable, die nicht passt?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L38]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -61,6 +99,10 @@ Title: „Nicht-euklidische Isolation und das Kachelproblem“ ^[roman-konzept-d
 - Where: „Kael bewegt sich durch die Korridore der Stadt zu seinem Arbeitsplatz am Datenknotenpunkt Gamma-7“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]
 - Establishes: „das algorithmische „Kachelproblem““ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]
 - DKT: „Im DKT-Modus bleibt Kael stoisch (K1), doch sein Körper reagiert autonom mit feinem Zittern und Schwindel“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — Lex and Alex emerge
+
+- Among the foreshadowing strands: „Das sukzessive Auftreten des Analytikers und des Protektors in Kapitel 2“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L123] — Lex and Alex — prepares the reader for the system's inner power struggles.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — a deviation, the city's gaslighting, and Lex breaks through
 
@@ -83,6 +125,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Encoding A: „OS · SP1 (Conceptualizing) · Falsehood · Decision (im Hintergrund — Kael nicht im Bild)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L164]
 - Change 3 gives the chapter's seed as a „Phantom-Resonanz mit ausgleichender Erasure-Bilanz“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L21].
 - Foreshadowing level 3 lists „Die Zahl 734 (Kap 2, Kap 10, Kap 25)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Logic of the City
+
+Title: „The Logic of the City“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L53]
+Position: Akt I; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L61]
+
+- Story: the outline plans „wird das Controlled Fragmentation Protocol ausgelöst“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L59]
+- Story: the outline plans „Kael spürt unter immensem mentalem Schmerz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L59]
+- Concepts: „Controlled Fragmentation Protocol (CFP), LogOS, TSDP“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L57]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,0 +1,101 @@
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Fokus"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Fokus` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Plot-Beat"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Plot-Beat` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#39]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Narrative Funktion"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Narrative Funktion` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#39]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Fragestellung"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Fragestellung` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#39]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Kern-Welt"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kern-Welt` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "KW1"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`KW1` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#6]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Quelle"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Quelle` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "LogOS-Distrikt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`LogOS-Distrikt` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "TSDP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`TSDP` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "PTBS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`PTBS` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "IFS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`IFS` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Cypher"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Cypher` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Kapitel"
+whole word, case-sensitive     43
+whole word, case-insensitive   43
+including compounds            43
+
+`Kapitel` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#43]
+$ python3 scripts/read.py kohaerenz-protokoll-39-kapitel-matrix --count "Titel"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Titel` ^[kohaerenz-protokoll-39-kapitel-matrix.md:#39]
+stance_marker_count 120 = Plot-Beat 39 + Narrative Funktion 39 + Fragestellung 39 + Fokus 3
+candidates 94: grep -c '^- ' 03-candidates.md
+94
+hand count (ordinal-like): Dr. Jian Li, document writes it once:
+1

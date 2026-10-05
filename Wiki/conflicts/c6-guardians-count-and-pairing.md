@@ -357,3 +357,72 @@ Stands: two acting Guardians, LogOS and Mnemosyne, in the B chapters; C6's count
 „zwei oder drei Pole, exakte Zahl im Kanon-Trio nachschlagen“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L745]
 
 Where it stands in the record's own terms: a report of a position with two or three poles and no named pairing, the trio itself not in the text; the count stays the author's.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report
+
+**The Synthese-Report directs exactly two poles, Mnemosyne and LogOS with Cerberus subsumed; the five Wächter stand in the table's pre-reset column.**
+
+Column 2 of the table (the pre-reset PDFs, not the report's voice): „Fünf Wächter kontrollieren die Realität: LogOS, Mnemosyne, Cerberus, Kairos, Sophia.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L50] The report's verdict, column 4: „Cerberus, Kairos und Sophia entfallen restlos.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L50] In its own directive (§4.3, `Lösung zu F3`): „Es existieren exakt zwei Pole.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L99] with „Der Speicher-Pol. Statisch, erhaltend, kalt.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L103] and „Der Lösch-Pol (Cerberus subsumiert).“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L104] The report names no pairing with worlds.
+
+Stands: two Guardians, Mnemosyne and an erasing pole, as the report proposes it; no pairing is named.
+
+## 2026-10-05 — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report
+
+**The editor's report names five Guardians, pairs them with four worlds, and lists four misreadings.**
+
+It names „die Guardians LogOS, Mnemosyne, Cerberus, Kairos und Sophia“ ^[scifi-roman-mit-ki-schreiben.md:L192] and says they „sind keine willentlich bösen Antagonisten“ ^[scifi-roman-mit-ki-schreiben.md:L192] Its numbered list of misreadings has entries for LogOS, Mnemosyne, Cerberus and Kairos and none for Sophia, and ends in the reading „Die Risse sind nicht die Krankheit, sondern die Symptome der falschen Behandlung“ ^[scifi-roman-mit-ki-schreiben.md:L201]
+The pairing is the one of Q5 (L88–L91, L229–L232), given as the plot document's.
+
+In the record's terms the report stands with the five-Guardian, four-pair arrangement of 2025; it is a later report on the plot document, takes no side beyond giving it, and decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline
+
+**The outline keeps two Wächter, LogOS and Mnemosyne, and reports five as legacy drift.**
+
+Anhang C, the outline's Kanon-Drift-Log: „Drift zwischen 5 Wächtern (Legacy) und 2 Wächtern (LogOS, Mnemosyne).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1353] Anhang B discards three named Wächter: „Kairos / Cerberus / Sophia (Wächter)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1345] with the reason „nur LogOS und Mnemosyne den Wächter-Dualismus bilden“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1345] Anhang F: „Nox zu Silas umgewandelt; Kairos/Cerberus gestrichen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1409]
+
+In the record's terms: the outline chose two, as its own decision from its canon source, and decides nothing for the record.
+
+## 2026-10-05 — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction
+
+**The reconstruction sets the guardians' autonomy as Hard Canon HC-10 and their roster as Soft Canon SC-04.**
+
+HC-10 (Autonomie der Wächter): „Die Guardians (LogOS, Mnemosyne etc.) sind kanonisch aktiv, empfinden Zweifel und sind zu Dissens und Allianzen fähig.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L152] SC-04 (Besetzung der Guardians): „LogOS (Ordnung), Mnemosyne (Erinnerung), Cerberus (Aggression/Abwehr), Kairos (Integration), Sophia (Metakognition).“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L166]
+
+Stands as an audit's tiered rows dated 2026-03-26, with the document's own claim to bind; recorded, not applied.
+
+## 2026-10-05 — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint
+
+**The master blueprint labels five figures `Guardian` in its cast fields and writes Sophia as Guardian in Kap 18 and renegade in Kap 29.**
+
+The labels stand in the cast fields: „Mnemosyne (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L94] in Kap 5, „Cerberus (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L102] in Kap 6, „Kairos (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L134] in Kap 10 and „Sophia (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L201] in Kap 18. Kap 2 also labels „Unit 734 (Guardian/Regel-Exekutor)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L70] LogOS is cast otherwise: „LogOS (System-Wächter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L78] Kap 29 casts „Sophia (abtrünnig)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L293] and the beat names her „Sophia (Guardian des Wissens)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L295] The pairing the document writes is Mnemosyne with Kap 5, Cerberus with Kap 6, Kairos with Kap 10, Sophia with Kap 18 and Kap 29.
+
+Stands as one more listing of the Guardians by chapter; the document gives no total and decides no count.
+
+## 2026-10-05 — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix
+
+**The matrix labels three Guardian groups in its casts and dissolves the Guardians in Kap 31.**
+
+Its Charaktere lines read „Kael, Nyx, Mnemosyne (Guardian).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L120] in Kap 9, „Alex, Kael, Cerberus (Guardian).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L196] in Kap 15 and „Kael, Kairos & Sophia (Guardians).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L232] in Kap 18. LogOS stands in Kap 2 as „Kael, LogOS (als ferne Instanz).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L36] The worlds in its Ort lines are „Kern-Welt 2 (Chaos, Wasser, Fragmente von Erinnerungen).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L121] for Mnemosyne's chapter, „Kern-Welt 3 (Dunkelheit, Enge, Bedrohung).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L197] for Cerberus's and „Kern-Welt 4 (Surreal, endlos mutierend).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L233] for Kairos and Sophia. Kap 31, „Die Auflösung der Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L389] plans „Kael kämpft nicht gegen die Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L395]
+
+Stands as a plan that names Mnemosyne, Cerberus, Kairos, Sophia and LogOS and dissolves them by integration; recorded, not applied.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The registry names five guardians over four core worlds, and does not pair them.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+F-05: „LogOS, Mnemosyne, Cerberus, Kairos und Sophia wachen über die 4 Kernwelten und repräsentieren AEGIS' Kontrollparadigmen.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L70] Rows W-01 and W-02 name LogOS and Mnemosyne as lords of KW1 and KW2: „Domäne von LogOS. Eine sterile, hyper-logische Umgebung für ANPs, die Metaphern verbietet und Trauma unterdrückt.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L78]
+
+It stands with the five-guardian count of the record's first position, stated without a pairing for Kairos and Sophia; the record is not changed.
+
+## 2026-10-05 — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the methodology report, the three-act blueprint, the scene outline)
+
+**The parts name a Guardian for each of the first three worlds, and give KW4 a keeper's name only as part of the world's name.**
+
+The methodology report treats the Guardians as functions of AEGIS and names the first by world: „a confrontation with the Guardian of KW1 (Logik) is not a simple battle but a targeted assault on the logical frameworks of Kael's analytical part, Lex.“ ^[ai-assisted-narrative-coherence.md:L801] The three-act blueprint puts the next two in Act II: „actively manipulated and distorted by the Guardian Mnemosyne.“ ^[ai-assisted-narrative-coherence.md:L873] in KW2, and „His struggle against the Guardian Cerberus's rigid security protocols is the external manifestation of his internal battle“ ^[ai-assisted-narrative-coherence.md:L874] in KW3. The scene outline names the KW1 Guardian `LogOS`: „His attempt to isolate the packet is blocked by system protocols overseen by the Guardian LogOS.“ ^[ai-assisted-narrative-coherence.md:L1327]
+
+For the fourth world the compilation gives the critique's „Kernwelt 4 (Kairos/Sophia)“ ^[ai-assisted-narrative-coherence.md:L950], and the blueprint's „Kairos-Potentialis is a generative, paradoxical world representing creativity and integration.“ ^[ai-assisted-narrative-coherence.md:L483]; neither passage calls Kairos or Sophia a Guardian.
+
+It stands with the record's first position in giving each of KW1 to KW3 a named Guardian of its own; the count of Guardians and the pairing of KW4 are not settled by this document, and the record is not changed.

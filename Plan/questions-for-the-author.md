@@ -411,6 +411,33 @@ the author wants them (*Questions for the author*).
   Juna a Doppel-IC, Storyform B = Mind/Conscious (L746). Who is AEGIS's Impact Character in Storyform B — Kael, Juna, or Juna
   as she exists inside Kael?
 
+- **Document 73, `romanprojekt-kohaerenz-protokoll-analyse`, the Synthese-Report:** it wakes Oblivion twice — when AEGIS
+  undergoes the Truth-Rotation in Kap 36 (L128), and as the mirror alter who breaks the false calm in Kap 31 (L143), where
+  the outline revision of 2026-05-01 also puts him. In which chapter does Oblivion first speak?
+
+- **Document 74, `scifi-roman-mit-ki-schreiben`, the editor's report of 2025-06-24:** it proposes `Einheit 734` as a recurring,
+  faceless antagonist — AEGIS's units, met in Kap 5 (L245, L278) — while later sources make 734 Kael's component number. Is
+  there an AEGIS unit called 734 in the book, or does the number belong to Kael alone (Q7)?
+
+- **Document 78, `kohaerenz-protokoll-kapitel-outline-erstellung`, the dual-storyform outline of 2026-04-30:** Kap 18
+  brings `Silas Oblivion`, Kap 31 has Oblivion wake, and the outline never says whether they are one figure; it also turned
+  the dropped name Nox into Silas, a perpetrator mimic (L1344). Are Silas and Oblivion one alter or two?
+
+- **Document 79, `kohaerenz-protokoll-projekt-rekonstruktion`, the project reconstruction of 2026-03-26:** it lists a written
+  Kap 1, `Instrumente der Ordnung`, with „ein formalisierter Dialog mit einer Wandprojektion von Juna" (L118, L192), while its
+  own Hard Canon says Juna is never described directly (HC-09, L151) and later sources hold her back until Kap 7 or 33 (C7).
+  Does Kael speak with a projection of Juna in Kap 1?
+
+- **Document 81, `kohaerenz-protokoll-39-kapitel-matrix`, the 39-chapter matrix of 2026-02-25:** it plans Kap 38 as the
+  threshold to the real world, where Kael steps out of the system — „(oder integriert es vollständig)" — and meets Juna
+  physically (L477–L479). The later outlines keep Juna undescribed and Kael inside the simulation. Does the book ever leave
+  the simulation, and does Kael meet Juna in body?
+
+- **Document 84, `ai-assisted-narrative-coherence`, the English compilation of 2025-10-15:** its three-act blueprint names
+  the protagonist Dr. Aris Thorne, the apparently normal part who goes by Lex (L835); its scene outline makes Dr. Aris Thorne
+  an AEGIS construct who gaslights Kael in a therapy session in Kap 8, scene 1.6 (L1369–L1376). Is Dr. Aris Thorne Lex, a
+  construct of AEGIS, or not in the book?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*

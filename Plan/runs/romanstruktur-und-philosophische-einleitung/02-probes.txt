@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      60
+  backslash escapes      44
+  typographic marks      191
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemakte, Systemanalyse, Systemanalytiker, Systeme, Systemen, Systemfehler, Systemische, Systemkern, Systems, Systemsicherung, Systemtheorie, Systemverteidiger
+  daten    Datenarchitektur, Datenbank, Datendiebstahl, Datenfragment, Datenlast, Datenmüll, Datensatz, Datenströme, Datenströmen
+  schut    Schutz, Schutzfunktion, Schutzmechanismen, Schutzmechanismus, Schutzschild
+  siche    Sicheren, Sicherheit, Sicherheitsrisiko, Sicherheitsroutinen, Sicherung
+  archi    Archipel, Architekt, Architektur, Archivierung
+  emoti    Emotion, Emotionalen, Emotionaler, Emotionen
+  fragm    Fragment, Fragmente, Fragmentierung, Fragments
+  kontr    Kontrast, Kontroll, Kontrolle, Kontrollverlust
+  leben    Leben, Lebendigkeit, Lebens, Lebensgefahr
+  parad    Paradies, Paradox, Paradoxien, Paradoxon
+  versc    Verschiebung, Verschiebungen, Verschmelzung, Verschwimmen
+  abweh    Abwehr, Abwehrmechanismen, Abwehrmechanismus
+  diese    Diese, Dieser, Dieses
+  durch    Durch, Durchbluten, Durchbruch
+  erinn    Erinnerung, Erinnerungen, Erinnerungswiedererlangung
+  inter    Interaktion, Internal, Intervention
+  konst    Konstanten, Konstrukt, Konstruktion
+  proje    Projekt, Projektion, Projektor
+  proto    Protocol, Protokoll, Protokolle
+  strat    Strategen, Strategie, Strategien
+  struk    Struktur, Strukturellen, Strukturen
+  traum    Trauma, Traumas, Traumdeutung
+  trenn    Trennung, Trennungsprotokoll, Trennungsprotokolls
+  unter    Unterdrücker, Unterschied, Untersuchung
+  versu    Versuch, Versuche, Versucherin
+
+# substring pairs -- never one term, often merged by accident
+  Auge < Augen
+  Auge < Augenwinkel
+  Code < Kerncode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Paradies
+  Echo < Echos
+  Eine < Keine
+  Eine < Seine
+  Ende < Wendepunkt
+  Ende < Transzendenz
+  Ende < Unbedeutenden
+  Exil < Exilanten
+  Form < Formen
+  Form < Information
+  Form < Transformation
+  Form < Ausformulierung
+  Form < Informationslogik
+  Held < Heldin

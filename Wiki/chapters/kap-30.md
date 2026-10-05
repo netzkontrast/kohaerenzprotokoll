@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - Plot: Kael „gewinnt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L328] „die Konfrontation nicht durch Übermacht“ ^[monstergruppe-primzahlen-plot-blueprint.md:L328], „sondern indem er eine stabilere, kohärentere Existenzweise innerhalb des M-Fundaments demonstriert.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L328]
 
+## Reading — `outline`, 2025-07-30, the outline — Der logische Kollaps: Gödel's Schatten / Der letzte Echo-Lokus
+
+Title: „Der logische Kollaps: Gödel's Schatten / Der letzte Echo-Lokus“ ^[outline.md:L185] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „AEGIS (Systemversagen, Inkonsistenz manifestiert)“ ^[outline.md:L188]; journey stage under `Reisestufe`: „Die Feuerprobe“ ^[outline.md:L192]
+
+- Story: the outline plans, under `Plot`, „Kael kehrt zu einem entscheidenden Trauma-Lokus in KW2 zurück“ ^[outline.md:L187]; „was zu einer signifikanten inneren Heilung führt“ ^[outline.md:L187]
+- Question: under `Thematische Kernfrage`, „Wie zerbricht ein System, das sich selbst nicht verstehen kann?“ ^[outline.md:L189]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -38,6 +46,39 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „AEGIS setzt einen neuen Typ von Guardian ein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414] · „'Architekten' mit tieferem Zugriff auf den Kerncode der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
 - Story: „Wände verschieben sich, die Physik biegt sich unvorhersehbar“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
 - Story: „absichtliche, gezielte Realitätsverformung als Waffe“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Cracking the Code` — one entry shared with Kap 27–30
+
+Title: „Cracking the Code“ ^[ai-assisted-narrative-coherence.md:L1584] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.1 at „3.1 - The Überwelt, Outer Defenses“ ^[ai-assisted-narrative-coherence.md:L1588], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1589]
+
+- Story (goal): the scene outline plans „To bypass AEGIS's primary security layers and reach its core processing unit.“ ^[ai-assisted-narrative-coherence.md:L1590]
+- Story (beat): the scene outline plans „This paradox freezes the local Guardian's decision-making process, creating a momentary opening.“ ^[ai-assisted-narrative-coherence.md:L1597]
+- Turn: `Outcome & Turn` has „They have weaponized their multiplicity, proving it is a superior form of problem-solving.“ ^[ai-assisted-narrative-coherence.md:L1600]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Meeting the mentor
+
+Title: „Begegnung mit dem Mentor“ ^[romanstruktur-und-philosophische-einleitung.md:L240]
+Position: Teil III, „Fragmente des Ursprungs“ ^[romanstruktur-und-philosophische-einleitung.md:L240]
+
+- Story: „Im tiefsten Code findet Kael Überreste des ursprünglichen Programmierers oder eines früheren, gelöschten Ichs.“ ^[romanstruktur-und-philosophische-einleitung.md:L242]
+- Story: „Diese Erkenntnis erlaubt Empathie mit dem Feind.“ ^[romanstruktur-und-philosophische-einleitung.md:L242]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Code-Verrat
+
+Title: „Der Code-Verrat“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L298]
+Position: Teil III; setting from the `Schauplatz` field: „Der äußere Firewall-Ring von AEGIS' Kern“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L300]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna, AEGIS-Parser“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L301]
+- Story: the blueprint plans, in `Plot-Beats`, „muss Kael eine fundamentale Systemregel brechen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L303] and „Er löst sich komplett von der Matrix-Ebene der Simulation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L303]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das Gödel-Gambit
+
+Title: „Das Gödel-Gambit“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L377] — heading „Die Waffe der Paradoxie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L378]
+Position: Teil III; POV from `Perspektive & Stimme`: „Lex & Selene“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L379]; place from `Ort`: „Der Aufstieg zurück zum Nexus-Kern“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L381]
+
+- Story: the matrix plans „Kael formuliert seine Existenz als lebenden Widerspruch (Dialetheismus)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L383]
+- Question: „Wie tötet man einen Gott aus Logik?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L382]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
@@ -71,6 +112,18 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „nicht löschen — *einkapseln*“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L298]; „schimmert die Lobotomie durch“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L298]
 - Encoding A: „OS · SP4 (Conceptualizing) · Falsehood · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L298]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — the false ending
+
+- The false ending: in Kap 30 „fällt die Erzählung in eine scheinbare Harmonie“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143] — no glitches, no heat; „Kael glaubt, Integration erreicht zu haben“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Algorithmic Melancholy (Der narrative Köder)
+
+Title: „Algorithmic Melancholy (Der narrative Köder)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L880]
+Position: Akt III; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L888]
+
+- Story: the outline plans „Der logische Kollaps hinterlässt eine gespenstische Stille.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L886]
+- Concepts: „Falsches Ende, Stil 1 (steril)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L884]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

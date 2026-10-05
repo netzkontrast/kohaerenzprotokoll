@@ -1,0 +1,1034 @@
+{
+  "document": "scifi-roman-mit-ki-schreiben",
+  "drive_id": "1j40FHfhMWbwlBp22eeLHji12YH8OnlNHCEkTojGzmnQ",
+  "step": "counts",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Dr. Thorne",
+    "Garten d. Möglichkeiten",
+    "Abgrund d. Ängste",
+    "Virtuelles Büro Dr. Thorne"
+  ],
+  "counts": {
+    "AEGIS": {
+      "n": 34,
+      "n_including_compounds": 36,
+      "lines": [
+        24,
+        36,
+        44,
+        48,
+        50,
+        58,
+        62,
+        70,
+        74,
+        78,
+        95,
+        136,
+        156,
+        172,
+        184,
+        188,
+        192,
+        220,
+        245,
+        267,
+        275,
+        278,
+        284,
+        286
+      ]
+    },
+    "Das Fundament": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        24,
+        28,
+        36,
+        54,
+        60,
+        319
+      ]
+    },
+    "Fundaments": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        319
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        13,
+        22,
+        62,
+        95,
+        300,
+        304,
+        332,
+        336
+      ]
+    },
+    "Genesis der Existenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Funke Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Verhinderung des Nicht-Seins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Externen Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Kael": {
+      "n": 32,
+      "n_including_compounds": 53,
+      "lines": [
+        50,
+        62,
+        86,
+        88,
+        91,
+        93,
+        95,
+        97,
+        105,
+        109,
+        113,
+        121,
+        129,
+        135,
+        156,
+        160,
+        161,
+        168,
+        176,
+        184,
+        192,
+        201,
+        217,
+        219,
+        220,
+        222,
+        224,
+        228,
+        234,
+        245,
+        254,
+        274,
+        275,
+        278,
+        279,
+        280,
+        281,
+        282,
+        284,
+        285,
+        286,
+        309,
+        318,
+        320,
+        326
+      ]
+    },
+    "System Kael": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        109,
+        121,
+        129,
+        156,
+        168,
+        176
+      ]
+    },
+    "Juna": {
+      "n": 8,
+      "n_including_compounds": 12,
+      "lines": [
+        156,
+        172,
+        180,
+        184,
+        194,
+        220,
+        228,
+        229,
+        230,
+        232,
+        254,
+        277
+      ]
+    },
+    "Lex": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        88,
+        121,
+        136,
+        156,
+        160,
+        162,
+        219,
+        244,
+        254,
+        327
+      ]
+    },
+    "Alex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        90,
+        121,
+        137
+      ]
+    },
+    "Rhys": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        91,
+        121,
+        137,
+        156,
+        160,
+        165,
+        184
+      ]
+    },
+    "Nyx": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        90,
+        121,
+        145,
+        156,
+        160,
+        163
+      ]
+    },
+    "Kiko": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        89,
+        121,
+        145,
+        160,
+        164
+      ]
+    },
+    "Lia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        121
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Moros": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        89,
+        121,
+        146
+      ]
+    },
+    "Selene": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        91,
+        154,
+        160,
+        166
+      ]
+    },
+    "Echo": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        89,
+        220,
+        228,
+        230,
+        244,
+        254,
+        279,
+        326
+      ]
+    },
+    "Echo/Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Limina": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        254,
+        326
+      ]
+    },
+    "Nox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        254,
+        326
+      ]
+    },
+    "Chronos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        254
+      ]
+    },
+    "Schattenkind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        254,
+        282
+      ]
+    },
+    "Einheit 734": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        245,
+        254,
+        278
+      ]
+    },
+    "Argus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        220,
+        245,
+        254,
+        278
+      ]
+    },
+    "Grenzwärter Argus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        220,
+        245
+      ]
+    },
+    "Sibyl": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        245,
+        254,
+        283
+      ]
+    },
+    "Orakel Sibyl": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        245
+      ]
+    },
+    "Silas": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        244,
+        246,
+        254,
+        280
+      ]
+    },
+    "Anya": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        244,
+        254,
+        281
+      ]
+    },
+    "Guardians": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        78,
+        172,
+        188,
+        192,
+        201,
+        222,
+        234
+      ]
+    },
+    "LogOS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        78,
+        88,
+        192,
+        196,
+        229
+      ]
+    },
+    "Mnemosyne": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        78,
+        89,
+        192,
+        197,
+        230,
+        276,
+        328
+      ]
+    },
+    "Cerberus": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        78,
+        90,
+        192,
+        198,
+        231
+      ]
+    },
+    "Kairos": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        78,
+        91,
+        192,
+        199,
+        232
+      ]
+    },
+    "Sophia": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        78,
+        91,
+        192,
+        232
+      ]
+    },
+    "Kern-Welten": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        66,
+        82,
+        86,
+        217,
+        234
+      ]
+    },
+    "Kern-Welt": {
+      "n": 1,
+      "n_including_compounds": 7,
+      "lines": [
+        66,
+        82,
+        86,
+        217,
+        228,
+        234
+      ]
+    },
+    "KW1": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        88,
+        217,
+        229
+      ]
+    },
+    "KW2": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        89,
+        217,
+        220,
+        230
+      ]
+    },
+    "KW3": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        90,
+        217,
+        221,
+        231
+      ]
+    },
+    "KW4": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        91,
+        217,
+        222,
+        232
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        88,
+        219,
+        229
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        89,
+        220,
+        230
+      ]
+    },
+    "Grenzfeste": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        90,
+        221,
+        231
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        91,
+        222,
+        232
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        222
+      ]
+    },
+    "Risse": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        78,
+        201,
+        219,
+        228,
+        275
+      ]
+    },
+    "Entropie": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        78,
+        95,
+        184,
+        286
+      ]
+    },
+    "Anscheinend Normalen Persönlichkeitsanteilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Emotionalen Persönlichkeitsanteilen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        121
+      ]
+    },
+    "ANPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        62,
+        88,
+        121,
+        131,
+        219
+      ]
+    },
+    "EPs": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        62,
+        89,
+        121,
+        141
+      ]
+    },
+    "Kern-Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "TSDP": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        62,
+        86,
+        113,
+        117,
+        304
+      ]
+    },
+    "DIS": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        228,
+        353
+      ]
+    },
+    "Host": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        135,
+        160
+      ]
+    },
+    "Manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Trauma-Halter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Integrative Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "innere Rat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        222
+      ]
+    },
+    "Gnostische Maschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Funktionale Antagonisten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    },
+    "Externalisierte Psyche": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Systemkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "psychologische Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Kernprogrammierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "blinden Flecken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "Guardian Blind Spot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Kern-Weltmechanik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Architekt-Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Funke-Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        232
+      ]
+    },
+    "Kontrollfassade": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Threshold Zone": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        220,
+        278
+      ]
+    },
+    "Chaos-Zone": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        278
+      ]
+    },
+    "Glitching Market": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        246,
+        280
+      ]
+    },
+    "Nexus of Whispers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        283
+      ]
+    },
+    "Entropie-Knotenpunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        286
+      ]
+    },
+    "AEGIS Hub": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        284,
+        286
+      ]
+    },
+    "Spiegelscherben-Korridor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        274
+      ]
+    },
+    "Kaels Apartment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        274
+      ]
+    },
+    "Erinnerungslandschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        279
+      ]
+    },
+    "Informationsarchiv": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "Mnemosyne-Archive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        276
+      ]
+    },
+    "Sektor Gamma": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        275,
+        277
+      ]
+    },
+    "Zentralplatz Sektor Alpha": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        284
+      ]
+    },
+    "Sicherer Unterschlupf": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        285
+      ]
+    },
+    "Innerer Konferenzraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        285
+      ]
+    },
+    "Fluchtroute": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        278
+      ]
+    },
+    "Datenriss": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        276,
+        328
+      ]
+    },
+    "Ego-Tod": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Phantomschmerz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        246
+      ]
+    },
+    "Gnostizismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        304
+      ]
+    },
+    "Demiurg": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        44,
+        50,
+        58
+      ]
+    },
+    "Pleroma": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        50,
+        54,
+        58,
+        60
+      ]
+    },
+    "Prozessphilosophie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Whitehead": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        60,
+        342,
+        346
+      ]
+    },
+    "Kybernetik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        70,
+        304
+      ]
+    },
+    "Homöostase": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Heldenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        320,
+        356
+      ]
+    },
+    "Strukturellen Dissoziation": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        24,
+        62,
+        86,
+        113,
+        117
+      ]
+    }
+  }
+}

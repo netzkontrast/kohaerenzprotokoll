@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - Plot: AEGIS' „großangelegte Aktion (Reset, Angriff, etc.) schlägt fehl oder hat katastrophale unbeabsichtigte Folgen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L308] and „destabilisiert das M-Fundament noch weiter und beschleunigt den Kollaps der Simulation.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L308]
 
+## Reading — `outline`, 2025-07-30, the outline — AEGIS' letzte Verteidigung: Cerberus' Labyrinth / Der Algorithmus der Seele
+
+Title: „AEGIS' letzte Verteidigung: Cerberus' Labyrinth / Der Algorithmus der Seele“ ^[outline.md:L167] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Kael (Konfrontation mit Cerberus, Ausnutzung von Ängsten)“ ^[outline.md:L170]; journey stage under `Reisestufe`: „Der Ruf zum Abenteuer (Innerer Impuls)“ ^[outline.md:L174]
+
+- Story: the outline plans, under `Plot`, „Kael navigiert durch AEGIS' Verteidigungsmechanismen“ ^[outline.md:L169]; „dessen Kernparadoxon auszunutzen“ ^[outline.md:L169]
+- Question: under `Thematische Kernfrage`, „Kann man einen Gegner besiegen, indem man seine eigenen Ängste nutzt?“ ^[outline.md:L171]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -39,6 +47,39 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Alternativ könnte AEGIS einen Guardian wie Mnemosyne verwenden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388] · „(Umkehrung der Effekte aus Kapitel 8)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Kael kämpft darum, seinen integrierten Zustand gegen diesen Ansturm aufrechtzuerhalten.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Cracking the Code` — one entry shared with Kap 27–30
+
+Title: „Cracking the Code“ ^[ai-assisted-narrative-coherence.md:L1584] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.1 at „3.1 - The Überwelt, Outer Defenses“ ^[ai-assisted-narrative-coherence.md:L1588], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1589]
+
+- Story (goal): the scene outline plans „To bypass AEGIS's primary security layers and reach its core processing unit.“ ^[ai-assisted-narrative-coherence.md:L1590]
+- Story (beat): the scene outline plans „This paradox freezes the local Guardian's decision-making process, creating a momentary opening.“ ^[ai-assisted-narrative-coherence.md:L1597]
+- Turn: `Outcome & Turn` has „They have weaponized their multiplicity, proving it is a superior form of problem-solving.“ ^[ai-assisted-narrative-coherence.md:L1600]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Crossing the threshold
+
+Title: „Überwindung der Schwelle“ ^[romanstruktur-und-philosophische-einleitung.md:L232]
+Position: Teil III, „Eintritt in den Systemkern“ ^[romanstruktur-und-philosophische-einleitung.md:L232]
+
+- Story: „Kael verlässt die bekannten Kernwelten“ ^[romanstruktur-und-philosophische-einleitung.md:L234]
+- Story: „reine Datenarchitektur ohne skeuomorphe Fassaden“ ^[romanstruktur-und-philosophische-einleitung.md:L234]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Qual der Komplexität
+
+Title: „Die Qual der Komplexität“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L282]
+Position: Teil III; setting from the `Schauplatz` field: „Das Potentialmeer (Informationssturm)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L284]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Moros (Kollaps-EP)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L285]
+- Story: the blueprint plans, in `Plot-Beats`, „Die unendliche Symmetrie der Monstergruppe droht Kaels menschlichen Verstand zu zerschmettern“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L287] and „löst aus Panik vor der totalen psychischen Vernichtung eine katatonische Lähmung aus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L287]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Geburt von Selene
+
+Title: „Die Geburt von Selene“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L353] — heading „Das Selbst erwacht“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L354]
+Position: Teil III; POV from `Perspektive & Stimme`: „Selene (Das integrierte Kern-Selbst) – ruhig, weise, umfassend“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L355]; place from `Ort`: „Das Zentrum des Nichts (Innerer Raum)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L357]
+
+- Story: the matrix plans „Sie sammelt die zersprengten Anteile ohne Zwang auf“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L359]
+- Question: „Wie sieht das Orchester aus, wenn es einen Dirigenten hat?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L358]
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Sein zum Tode und die Umarmung von Moros“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117]
@@ -46,6 +87,10 @@ Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-kon
 
 - Plot: Im unendlichen Fall „begegnet Kael Moros, dem Alter des ultimativen Kollapses und der Hoffnungslosigkeit.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117]
 - Philosophy: „Heideggers fundamentalontologisches“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] „Sein zum Tode“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] „wird hier realisiert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117]: only accepting his own finitude lets Kael's fall slow.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 6, weaponised retraumatisation
+
+- A guiding question for Kap 28, a proposal: AEGIS uses Mnemosyne's trauma data against Kael; „Der Raum verschwindet nicht, sondern wird von der Vergangenheit“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L88] overwritten — „Dies ist der Moment höchsten psychologischen Horrors.“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L88]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Bekenstein trap flattens KW4's garden into a hologram
 
@@ -73,6 +118,14 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Es findet seinen eigenen Logik-Tumor“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L290]; „AEGIS *sieht* zum ersten Mal, dass es K0 ist und nicht K1“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L290]
 - Encoding A: „RS · SP4 (Learning) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L290]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Logic Tumor
+
+Title: „The Logic Tumor“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L824]
+Position: Akt III; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L832]
+
+- Story: the outline plans „Kael erreicht das Vorzimmer des Kerns“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L830]
+- Concepts: „Logik-Tumor, Tautologische Vollständigkeit“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L828]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
