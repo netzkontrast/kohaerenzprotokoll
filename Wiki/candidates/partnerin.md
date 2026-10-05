@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation"]
 gathered: "2026-09-17"
 ---
 
@@ -42,6 +42,10 @@ requiring reintegration — which is precisely what Mnemosyne cannot see ^[L53].
 
 This is the document's stated purpose ^[L17] and its closing claim ^[L137]. The
 five blindnesses are five different failures to perceive one thing.
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Partner, a name from corrupted legacy files
+
+The manifest names the anomaly LogOS cannot process as „the relational entity designated in corrupted legacy files as“ ^[aegis-persona-and-manifest-generation.md:L65] `Partner` (inner marks the manifest's), and gives its qualities as „empathy or intuitive connection“ ^[aegis-persona-and-manifest-generation.md:L65]. The manifest never names her otherwise.
 
 ## Open — and a surface question
 
