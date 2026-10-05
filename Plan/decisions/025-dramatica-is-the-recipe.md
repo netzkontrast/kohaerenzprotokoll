@@ -246,6 +246,14 @@ with the consequences of each option laid out.
     `clock`). Inside Kael, **Oblivion takes over AEGIS' function, choosing instead of erasing** — Q8 decided. The
     author also chose: the two plot executions merge into `development.json` (the scene lists become its sources), the
     missing storypoints are filled by the act rhythm, the journeys are written, and Kap 27–39 get the same frame.
+45. **Storypoints by the author's decision, not the rule (2026-10-05).** Where A's new values act: Kael's unique ability
+    **Thought** in Kap 1 (he reckons the price from bit and joule), his critical flaw **Speculation** in Kap 13 (the
+    what-if before refusing); the catalyst **Threat** in Kap 2, 13, 27 (the deadline, the window, the closing rift); the
+    inhibitor **Denial** in Kap 4, 11, 18 (Oblivion's cuts); the consequence in Kap 34 (the night repeats for a moment);
+    the forewarnings in Kap 12 and 23. A's Story Costs stay only at the turns, Kap 9, 13, 26, 34 (ten references
+    removed); B's stay in AEGIS' own chapters, where they are the memory its clock costs. Catalyst and inhibitor count as
+    story-wide in the weave check, though the NCP profile files them under the objective story. The act-rhythm
+    references remain as proposals beside these decisions.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

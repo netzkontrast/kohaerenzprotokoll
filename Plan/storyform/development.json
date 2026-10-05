@@ -1,6 +1,6 @@
 {
   "status": "proposal",
-  "provenance": "Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–41. Merged 2026-10-05 (Claude, decision 025 step 44) with the scene lists of Akt I and II and the event table: the alters by name, numbers, the three deletion targets and the deadline to the maintenance window, the clocks of A and B; Kap 35 a partial collapse (step 43). Kap 27, 29, 30, 31, 33, 36, 37 added 2026-10-05 (Claude, step 44) from the weave, anteile.json, the signposts of Akt III and IV and the clocks.",
+  "provenance": "Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–41. Merged 2026-10-05 (Claude, decision 025 step 44) with the scene lists of Akt I and II and the event table: the alters by name, numbers, the three deletion targets and the deadline to the maintenance window, the clocks of A and B; Kap 35 a partial collapse (step 43). Kap 27, 29, 30, 31, 33, 36, 37 added 2026-10-05 (Claude, step 44) from the weave, anteile.json, the signposts of Akt III and IV and the clocks. Storypoints decided by the author 2026-10-05 (step 45): Kael's unique ability Thought in Kap 1, his critical flaw Speculation in Kap 13; catalyst Threat in Kap 2, 13, 27; inhibitor Denial in Kap 4, 11, 18; consequence in Kap 34; forewarnings in Kap 12, 23; A's Story Costs only at the turns 9, 13, 26, 34.",
   "chapters": {
     "0": {
       "status": "proposal",
@@ -74,6 +74,10 @@
         [
           "A",
           "Story Requirements"
+        ],
+        [
+          "A",
+          "Main Character Unique Ability"
         ]
       ]
     },
@@ -101,11 +105,11 @@
       "storypoints": [
         [
           "A",
-          "Story Costs"
+          "Objective Story Concern"
         ],
         [
           "A",
-          "Objective Story Concern"
+          "Objective Story Catalyst"
         ]
       ]
     },
@@ -166,6 +170,10 @@
         [
           "A",
           "Influence Character Concern"
+        ],
+        [
+          "A",
+          "Objective Story Inhibitor"
         ]
       ]
     },
@@ -191,10 +199,6 @@
       "timing": "Vor einem festgelegten Berichtsschluss; konkrete Uhrzeit offen.",
       "open": "Was riskiert die Kollegin selbst bei einem ungeprüften Rest? Ihr Want bleibt Vorschlag.",
       "storypoints": [
-        [
-          "A",
-          "Story Costs"
-        ],
         [
           "A",
           "Objective Story Concern"
@@ -293,10 +297,6 @@
       "storypoints": [
         [
           "A",
-          "Story Costs"
-        ],
-        [
-          "A",
           "Main Character Concern"
         ]
       ]
@@ -386,6 +386,10 @@
         [
           "A",
           "Influence Character Concern"
+        ],
+        [
+          "A",
+          "Objective Story Inhibitor"
         ]
       ]
     },
@@ -418,6 +422,10 @@
         [
           "A",
           "Story Requirements"
+        ],
+        [
+          "A",
+          "Story Forewarnings"
         ]
       ]
     },
@@ -466,6 +474,14 @@
         [
           "B",
           "Relationship Story Concern"
+        ],
+        [
+          "A",
+          "Main Character Critical Flaw"
+        ],
+        [
+          "A",
+          "Objective Story Catalyst"
         ]
       ]
     },
@@ -489,10 +505,6 @@
       "timing": "Nach der Welle; Reisedauer und Mechanismus offen.",
       "open": "Welcher Zugang geht verloren? Nicht unbemerkt eine Fähigkeit oder Person löschen. Schritt 39: Die linke Hand als Preis ist die offene Vorliebe des Autors; kein beschlossener Kanon und kein pauschaler Verlust des Anteils Silas.",
       "storypoints": [
-        [
-          "A",
-          "Story Costs"
-        ],
         [
           "A",
           "Objective Story Issue"
@@ -527,10 +539,6 @@
       "timing": "Nach Grenzübertritt; Dauer offen.",
       "open": "Welcher erkennbare Wegmechanismus vermeidet ein abstraktes Erinnerungsarchipel?",
       "storypoints": [
-        [
-          "A",
-          "Story Costs"
-        ],
         [
           "A",
           "Main Character Issue"
@@ -664,6 +672,10 @@
         [
           "B",
           "Influence Character Benchmark"
+        ],
+        [
+          "A",
+          "Objective Story Inhibitor"
         ]
       ]
     },
@@ -715,10 +727,6 @@
       "storypoints": [
         [
           "A",
-          "Story Costs"
-        ],
-        [
-          "A",
           "Objective Story Issue"
         ],
         [
@@ -747,10 +755,6 @@
       "timing": "Genesis-Flashback: das Trennungsprotokoll, dasselbe Ereignis wie die Nacht (W12, Entscheidung 025 Schritt 42).",
       "open": "Welche zwei Lesarten verdienen Bestand? Junas Ontologie nicht heimlich lösen.",
       "storypoints": [
-        [
-          "A",
-          "Story Costs"
-        ],
         [
           "A",
           "Relationship Story Issue"
@@ -841,15 +845,15 @@
       "storypoints": [
         [
           "A",
-          "Story Costs"
-        ],
-        [
-          "A",
           "Main Character Issue"
         ],
         [
           "A",
           "Main Character Problem"
+        ],
+        [
+          "A",
+          "Story Forewarnings"
         ]
       ]
     },
@@ -995,6 +999,10 @@
         [
           "A",
           "Main Character Benchmark"
+        ],
+        [
+          "A",
+          "Objective Story Catalyst"
         ]
       ]
     },
@@ -1291,6 +1299,10 @@
         [
           "B",
           "Influence Character Response"
+        ],
+        [
+          "A",
+          "Story Consequence"
         ]
       ]
     },
@@ -1312,10 +1324,6 @@
       "timing": "Beschlossener Vortex-Pivot, Ausführung offen.",
       "open": "Was kann das System jetzt gemeinsam tun, das vorher an der Löschentscheidung scheiterte?",
       "storypoints": [
-        [
-          "A",
-          "Story Costs"
-        ],
         [
           "A",
           "Main Character Problem"
@@ -1458,10 +1466,6 @@
       "timing": "Ende des vierten Akts; Coda außerhalb der Signposts.",
       "open": "Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden. Wie Storyform B hier endet, hängt an Q8.",
       "storypoints": [
-        [
-          "A",
-          "Story Costs"
-        ],
         [
           "A",
           "Main Character Problem"

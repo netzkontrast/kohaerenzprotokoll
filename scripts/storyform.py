@@ -468,11 +468,13 @@ def development_audit(dev, weave, forms):
                     line = next((t for t, name in TL.items() if ref[1].startswith(name)), None)
                     if not woven and key != str(weave["b_prologue"]):
                         errors.append(f"{prefix}: {ref!r} — the weave gives storyform {ref[0]} nothing in this chapter")
-                    elif line and line not in woven:
+                    elif line and line not in woven and ref[1] not in STORY_WIDE:
                         errors.append(f"{prefix}: {ref!r} — the weave gives {ref[0]} only {woven} here, not {line}")
     return errors
 
 
+# Catalyst and inhibitor act on the whole story; the NCP profile only files them under the objective story.
+STORY_WIDE = {"Objective Story Catalyst", "Objective Story Inhibitor"}
 ACT_RHYTHM = {1: ["Concern"], 2: ["Issue", "Problem"], 3: ["Symptom", "Response"], 4: ["Solution"]}
 
 
