@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -57,6 +57,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht, auf eine spezifische traumatische Erinnerung zuzugreifen oder sie abzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „nicht vergessen, aber vielleicht 'verschwommen', 'korrumpiert' oder emotional 'gedämpft'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „vielleicht interveniert ein Guardian wie Mnemosyne subtil, um Kaels Gedanken umzulenken“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120] · „Kael könnte 'Lücken' oder Inkonsistenzen in seiner eigenen Erzählung finden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Gaslighting Protocol`
+
+Title: „Gaslighting Protocol“ ^[ai-assisted-narrative-coherence.md:L1369] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.6 - Logos-Prime (KW1)“ ^[ai-assisted-narrative-coherence.md:L1373], POV „Kael (Host)“ ^[ai-assisted-narrative-coherence.md:L1374]
+
+- Story (goal): the scene outline plans „To seek help and answers from a perceived authority figure within the system.“ ^[ai-assisted-narrative-coherence.md:L1375]
+- Story (conflict): the scene outline plans „Thorne's objective is to gaslight Kael“ ^[ai-assisted-narrative-coherence.md:L1376]
+- Turn: `Outcome & Turn` has „His trust in the system is irrevocably broken.“ ^[ai-assisted-narrative-coherence.md:L1384]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Descent to the goddess
 
