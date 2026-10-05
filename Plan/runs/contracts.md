@@ -12,6 +12,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`hard-sf-roman-outline-dkt-physik-cosmic-horror`](hard-sf-roman-outline-dkt-physik-cosmic-horror/contracts.md) |  |  |  |  |  |  | 53 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 75 | 97 |  |  |  |  |
 | [`kohaerenz-protokoll`](kohaerenz-protokoll/contracts.md) |  |  |  |  |  |  | 355 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 655 | 189 |  |  |  |  |
 | [`kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`](kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 119 | 174 |  |  |  |  |
+| [`kohaerenz-protokoll-kapitel-outline-generierung-2`](kohaerenz-protokoll-kapitel-outline-generierung-2/contracts.md) |  |  |  |  |  |  |  |  | 103 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`](kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md/contracts.md) |  |  |  |  |  |  |  |  | 47 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kohaerenz-protokoll-konzept-master-md`](kohaerenz-protokoll-konzept-master-md/contracts.md) |  |  |  |  |  |  | 61 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 128 | 128 |  |  |  |  |
 | [`kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`](kohaerenz-protokoll-meta-foreshadowing-beobachter-logik/contracts.md) | 3 | 0 | ∅ | 2 | 5 | 6 | 5 | 1 | 1* | 1 | 4 | 6 | ∅ | ∅ | ∅ | ∅ | ∅ | 4 | 5 | 31 | 5 | ∅ | 16 | ∅ | 1 | n.s. | 4 | 8 | 22 | ∅ | 5 | 3 |
@@ -41,4 +42,4 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`three-mode-architecture-39-chapters-md`](three-mode-architecture-39-chapters-md/contracts.md) |  |  |  |  |  |  |  |  | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-167 runs on 36 sources: 142 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+168 runs on 37 sources: 143 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
