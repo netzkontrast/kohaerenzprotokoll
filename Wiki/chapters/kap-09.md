@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -72,6 +72,14 @@ Position: Teil I; setting from the `Schauplatz` field: „Kairos-Potentialis (KW
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Juna/V (Echo)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L126]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael entflieht dem Therapie-Protokoll durch eine Systemlücke und bricht nach KW4 durch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L128] and „Hier nimmt er Juna/V zum ersten Mal nicht als Hologramm, sondern als reale, externe Präsenz wahr“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L128]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Mnemosynes Archipel
+
+Title: „Mnemosynes Archipel“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L117] — heading „Das Meer der verlorenen Zeit“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L118]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (überwältigt) & Nyx (wütend)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L119]; place from `Ort`: „Kern-Welt 2 (Chaos, Wasser, Fragmente von Erinnerungen)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L121]
+
+- Story: the matrix plans „Kael landet in KW2. Die Umgebung ist instabil und greift ihn mit Trauma-Erinnerungen an. Nyx übernimmt die Abwehr“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L123]
+- Question: „Ist Erinnerung Wahrheit oder Rekonstruktion?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L122]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
