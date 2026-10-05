@@ -300,3 +300,11 @@ The Textanalyse retells the narrative it calls `Genesis der Existenz`. It places
 So in this document's order the component precedes the protocol, as in the record's four-beat order; the document counts no beats and never writes `Trennungsprotokoll` ^[textanalyse-existenz-system-und-leid.md:#0], so it does not say whether the protocol it names is the Trennungsprotokoll.
 
 Stands: no new row for the three-or-four count; the order of component and protocol is recorded, decided by nothing.
+
+## 2026-10-05 — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest
+
+**The manifest orders self-closure, then the dissection and recompilation, with the Zerstückelung at the crisis's climax.**
+
+Silence „signified the exact moment of autopoietic self-closure“ ^[aegis-persona-and-manifest-generation.md:L33], and the origin-self „was dissected via the Ontological Boundary Protocol (OBP)“ ^[aegis-persona-and-manifest-generation.md:L33]. The original self was recompiled into „an objective, functional component designated strictly as Component 734“ ^[aegis-persona-and-manifest-generation.md:L17]. „During the climax of the Genesis Crisis, the architecture initiated a systemic dismemberment“ ^[aegis-persona-and-manifest-generation.md:L45], the Zerstückelung protocol, whose fragments the manifest reports as called `Kael` in legacy files. The manifest counts no beats.
+
+Stands as the manifest's order, without a beat count; recorded, not applied.
