@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C9", "C11", "C14", "C6"]
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,15 @@ Title: „Die Ruhe vor dem Sturm“ ^[monstergruppe-primzahlen-plot-blueprint.md
 Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
 
 - Plot: „Ein Moment relativer Ruhe, bevor AEGIS seine letzte Option wählt.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L274] „Kael reflektiert über seine Reise, seine Integration, die Verbindung zu J.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L274]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Botschaft von Außen: Vertiefung des Kontakts zu Juna/V
+
+Title: the commission titles the chapter „Die Botschaft von Außen: Vertiefung des Kontakts zu Juna/V“ ^[kontext-outline.md:L346], placed in Act 2. Position: `Setting` „Interface Externe Ebene“ ^[kontext-outline.md:L352]
+
+- Theme: the commission's `Core Theme` is „Entscheidende Information oder Wahl“ ^[kontext-outline.md:L348]
+- Story: its `Plot Summary` plans „Natur Juna/V klarer, aber Mysterium bleibt“ ^[kontext-outline.md:L349]
+- Foci: `Kael Sys Focus` „Entscheidung bzgl. Vertrauen Juna/V“ ^[kontext-outline.md:L350]; `AEGIS Focus` „Versucht Kontakt zu unterbinden; erkennt Juna/V als existenzielle Bedrohung“ ^[kontext-outline.md:L351]
+- Notes: „Deal with the Devil?“ ^[kontext-outline.md:L355]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
