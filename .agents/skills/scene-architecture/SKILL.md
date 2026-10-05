@@ -6,7 +6,9 @@ description: >-
   author's German attempts and scores each Strong, OK or Weak, honouring the exceptions
   the treatment declares. Use it when the author writes and wants to train how scenes
   are built (Szenenbau, Szenentraining). It coaches and ranks the author's attempts; it
-  never writes or rewrites the author's prose.
+  never writes or rewrites the author's prose. Also use its repository planning/review
+  mode for causal chapter beats and comparison of variants against the approved
+  storyform, without launching drills when the author asks for plot development.
 license: MIT
 metadata:
   category: craft
@@ -21,6 +23,16 @@ piece of scene structure you're working on, one targeted drill, you write it, an
 scored read of your attempt against clear criteria — then the next drill, pitched to
 what you just showed. You bring the writing; the coach brings the structure, the
 exercise, and the honest read.
+
+## Choose the mode before the first response
+
+- **Training:** use the coaching loop below only when the author asks to practise.
+- **Planning/review:** for a chapter plan, existing variants or stronger plot beats,
+  use the repository mode below. Do the requested analysis; do not require an intake
+  interview or a fresh writing exercise before reading existing material.
+
+Both modes protect the author's prose. Planning may describe a beat and its
+consequence in work language; it must not supply finished manuscript passages.
 
 ## The one rule
 
@@ -248,8 +260,9 @@ The rules all thirteen skills share here are in `writing-skills`: what counts as
 book's canon, the wiki as research, designed cracks, German, where findings go and
 how lines are cited. Read it first. For this skill:
 
-- **It drills the writer, not the manuscript.** Diagnosing the book's own scenes is
-  `developmental-editor`'s job.
+- **Training drills the writer.** Whole-draft diagnosis stays with
+  `developmental-editor`; chapter-beat planning and variant comparison use the mode
+  below, without pretending an undrafted act is a completed manuscript.
 - **Declared exceptions come from the treatment.** The treatment may declare a chapter
   or a beat outside goal, conflict and disaster: a frame chapter, a pause the structure
   requires, a chapter allowed to end in silence. Grade those against that intent, as in
@@ -257,3 +270,49 @@ how lines are cited. Read it first. For this skill:
 - **German.** Drills and reads are in German.
 - **Output**, if the author wants a round kept:
   `Plan/runs/writing/drills/scene-architecture_<date>.md`.
+
+
+## Repository planning/review mode
+
+Read `writing-skills` and `storyform` first. The approved storyform is the structural
+contract; scene/sequel is an execution lens and cannot overrule it. Use current
+`weave.json`, `anteile.json`, relevant decision steps and canon rows to identify the
+chapter's route, world, throughlines, signposts and boundary conditions. A chosen
+scene list is a working basis, not automatic canon (decision 025 step 38).
+
+1. **Inventory and read.** Enumerate all variants with `rg --files`; read complete
+   drafts, including each ending, before comparison. Keep evidence from each variant
+   separate. For Kap 1 account for A–I and any subsequently added variants; a README's
+   preferred version is a recommendation, not the result of this review.
+2. **Make the causal unit visible.** State the immediate goal, the opposing figure's
+   own want or the world's enforceable constraint, attempted action, turn and concrete
+   cost. Then state what that turn makes necessary or impossible next. A scene with
+   a useful quiet function may be evaluated against that declared function instead.
+3. **Separate three readings.** Report structural compatibility with the approved
+   storyform, effectiveness of the scene's causal execution, and the experience of
+   a reader who has only the text so far. Good compliance can still read flat; a
+   gripping variant can depend on an undecided mechanic. Neither verdict cancels
+   the other. Cite exact lines for draft observations and the authority for a
+   structural verdict; do not invent numerical quality scores.
+4. **Track knowledge and costs across the seam.** Record who knows what before/after,
+   what the reader can infer, what physical/social state changed, and what remains
+   unavailable. Carry a local clock through intermediate scenes or leave its
+   enforcement as an explicit open mechanism; do not confuse it with Optionlock.
+   Test that early resistance remains distinct from the later decisive driver.
+5. **Offer beat changes with tradeoffs.** Recommend a causal operation rather than
+   finished prose: change the opposed goal, require a sacrifice, reveal a trace via
+   a failed action, let another figure's want frustrate Kael, or make a success worsen
+   the next problem. Tie any invented operation to proposal status. Reuse established
+   stakes before adding spectacle, terms or world rules. Keep AEGIS' B pursuit and
+   Juna's independent wants in view without assuming undecided knowledge or intent.
+6. **Keep a reviewable artifact.** Write findings in German under
+   `Plan/runs/writing/<target>/scene-architecture_<YYYY-MM-DD>.md`. For a comparison,
+   use one row per variant: scene goal, opposition, turn/cost, storyform compatibility,
+   reader effect, uncertain assumption and recommendation. Include complete input
+   inventory, commit and line references. Transfer authorized planning proposals to
+   `Plan/storyform/development.json` using its actual schema; regenerate NCP with
+   `scripts/storyform.py` and check freshness rather than editing generated fields.
+
+Leave undecided content as an open question and continue independent planning.
+Do not name an alter early, import draft inventions into canon, require a disastrous
+ending for every quiet beat, or diagnose Change/Be-er from a single physical action.
