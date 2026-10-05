@@ -156,3 +156,11 @@ Neither the outside origin (rows 1 to 3) nor the shared split self (rows 5 to 8)
 The focus field of Chapter P ties AEGIS's origin to Kael: the implementation of the paradox „die gleichzeitig den Samen für zukünftige Instabilität und Kaels traumatischer Fragmentierung legt.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L46] The strategy field says „wird als gewaltsamer Akt der Fragmentierung dargestellt“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47] of Kael's `Geburt`, to awaken empathy. The application field puts the two together: AEGIS's act of controlling chaos „durch rigide Logik und Fragmentierung (von“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L48] `Echo` and Kael, and it states „ist das ursprüngliche Ganze / die Quelle der EPs“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L48] of the `Echo`. The same line adds that Kael's fragmentation is the starting point of her TSDP structure.
 
 Where it stands in the record's own terms: a plan in which AEGIS fragments an original whole (the `Echo`), from which Kael and the emotional parts follow; it is the AEGIS-side origin and does not say whether the `Echo` is AEGIS's own precursor; recorded, not applied; the document writes Kael female throughout (`C17`).
+
+## 2026-10-05 — `kohaerenz-protokoll-konzeptentwicklung`, 2025-05-04, the condensed concept
+
+**The condensed concept plans the fragmentation of the `Echo` (Kael) in the Prologue as AEGIS's control attempt, and names a trigger with a question mark.**
+
+The Prologue field tells „Erzählt AEGIS' Entstehung aus Angst/Chaos“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L61] and the fragmentation as a desperate attempt at control „nach externem Trigger (Juna/V?)“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L61]. The trigger is named only as a question; no entity M and no Komponente 734 stand in that line.
+
+Where it stands in the record's own terms: the AEGIS-side origin of the previous day's concept development, with an external trigger asked about and not stated (`C17` for the gender); recorded, not applied.
