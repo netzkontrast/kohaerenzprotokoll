@@ -500,9 +500,9 @@ Stands as one more count and one more set of Kernwelt names in the record's term
 ## 2026-10-05 — the author: thirteen alters (one part of Q3)
 
 Asked *Wie viele Anteile trägt das Buch?* with the two counts the sources give — eleven in the TSDP analysis of
-2025-04-28 (`kael-system-tsdp-analyse-und-profile`, L15) and thirteen in the character bible of 2026-05-08 with Silas and
+2025-04-28 (`kael-system-tsdp-analyse-und-profile`, L15) and thirteen in the character bible of 2026-05-08 with [[silas|Silas]] and
 Oblivion (`kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, L298) — the author chose **thirteen, as the bible**:
-Kael (host), Lex, Alex, Rhys, Selene, Argus, Nyx (with Isabelle as part of her, decision 025 step 29), Kiko, Lia, Moros,
+Kael (host), Lex, Alex, Rhys, Selene, Argus, Nyx (with [[isabelle|Isabelle]] as part of her, decision 025 step 29), Kiko, Lia, Moros,
 Silas, Oblivion. **This answers the alter count only.** How many Kern-Welten there are, and whether a Kern-Welt
 corresponds to an alter, stays open; so does the question's status.
 
@@ -514,3 +514,11 @@ with the Vortex — „KW1 dominiert Akt I (Ch1–13).“ ^[worldbuilding-konzep
 W8, separate worlds whose borders cost something (decision 025, step 35). **The count of Kern-Welten is four.** Whether
 a Kern-Welt corresponds to an alter stays open, and so do the names of KW2–KW4 and the Guardians (Q5); the question
 stays open for that one part.
+
+## 2026-10-05 — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide
+
+**The Definitive Guide tabulates eleven alters, without Silas and Oblivion, and four Core Worlds, each with one psychological principle; it predates the author's two answers of 2026-10-05 and changes neither.**
+
+Its „Master Profile of Alters“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L119] has one row each for Kael, Lex, Alex, Rhys, Nyx, Kiko, Lia, Isabelle, Moros, Selene and Argus (L124–L134); `Silas` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] and `Oblivion` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] do not occur. The Core Worlds, it says, „(Core Worlds) are not settings but direct, externalized“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L78] psycho-architectures, and the Sensory Rulebook, „Each Core World manifests a specific aspect of Kael's internal system“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L91], has four rows, KW1 to KW4 (L96–L99), each with one principle: „Rationalization & Control (ANPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96], „Trauma & Emotional Memory (EPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97], „Defense & Hypervigilance (Protectors)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], „Integration & Creative Potential“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L99]. The principles name ANPs, EPs and Protectors, but no row pairs a world with an alter, and the document states no number of worlds or of alters.
+
+Eleven alters and four worlds with one principle each, an arrangement of the correspondence and not a statement of it; recorded, 2025-11-03, before and not against the author's thirteen alters and four Kern-Welten carrying the acts, which stand; the question stays open.
