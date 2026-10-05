@@ -1,4 +1,4 @@
-# 022 — Dramatica is the recipe; the dual storyform of 2026-05-07 is the model
+# 024 — Dramatica is the recipe; the dual storyform of 2026-05-07 is the model
 
 **Date:** 2026-10-02 · **Decided by:** the author, step by step in one session · **Status:** in use
 
@@ -47,10 +47,15 @@ with the consequences of each option laid out.
     Doing → Obtaining → Understanding (as 2026-06-10 and 2026-05-18); B-MC Past → Present → Progress → Future (as
     both); B-IC Conscious → Memory → Preconscious → Subconscious; B-RS Being → Conceiving → Conceptualizing → Becoming.
     Acts map to chapters as the sources do: I 1–13, II 14–26, III 27–34, Vortex 35–39.
+13. **The plot story points** (WP's candidates, put one at a time with their consequences). B: requirements Doing
+    (the sweeps), consequence Becoming (the system becomes entropic — a Stop story, so it is already under way),
+    forewarnings Progress (maintenance windows grow denser; the visible clock of the timelock). A: requirements Learning
+    (Kael reads his own history), consequence Past (the night of fragmentation repeats — a Start story, so it only
+    threatens), forewarnings Preconscious (alters break through; time gaps). The chart checks only their level (R8).
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
-Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the remaining plot story points
-(requirements, consequences, forewarnings, costs, dividends), focus/direction order, the players, logline and genre.
+Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: costs, dividends, prerequisites and
+preconditions, focus/direction order, the players, logline and genre.
 The specs are `Plan/runs/storyform-2026-10-02/specs/a-author.json` and `b-author.json`; the NCP documents
 `Plan/runs/storyform-2026-10-02/ncp/`, built with the ncp-author skill and valid against NCP 1.3.0.
 

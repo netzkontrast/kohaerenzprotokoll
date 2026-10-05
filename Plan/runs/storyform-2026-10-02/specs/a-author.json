@@ -63,5 +63,10 @@
    "Preconscious",
    "Conscious"
   ]
+ },
+ "plot": {
+  "requirements": "Learning",
+  "consequence": "Past",
+  "forewarnings": "Preconscious"
  }
 }

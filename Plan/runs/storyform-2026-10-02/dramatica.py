@@ -30,6 +30,7 @@ What `check` enforces — only rules the chart itself carries:
       same element quad
   R6  IC resolve is the opposite of MC resolve
   R7  the four signposts of a throughline are the four types of its class
+  R8  each plot story point (requirements, consequence, forewarnings, …) is a type
 What it does not enforce, because neither chart states it: how the four
 throughlines' concerns relate to each other, which element is crucial, and the
 plot story points beyond their being types.
@@ -295,6 +296,9 @@ def check(spec):
         sp = s.get("signposts")
         if sp and sorted(sp) != sorted(type_quad(cls[tl])):
             errors.append(f"R7 {tl} signposts {sp} are not the four types of {cls[tl]}")
+    for k, v in spec.get("plot", {}).items():
+        if v not in types:
+            errors.append(f"R8 plot story point {k} = {v} is not a type")
     return errors, notes
 
 

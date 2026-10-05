@@ -166,7 +166,7 @@ It gives AEGIS the MC-B slot by test — „Die erste Hypothese verortet AEGIS i
 
 Asked *Wie löst AEGIS als MC von B seine Probleme?*, with the consequences laid out (Do-er: B carries the visible
 action chain and mirrors [[kael|Kael]]'s Be-er in A; Be-er: B turns inward and the action must come from the OS),
-the author answered **Do-er**, within the model of the status report of 2026-05-07 (decision 022).
+the author answered **Do-er**, within the model of the status report of 2026-05-07 (decision 024).
 
 **What this decides:** AEGIS' MC Approach in Storyform B. The Be-er reading of the Charakter-Bibel stays on this
 record as what that document said, dated, and is no longer the arrangement.

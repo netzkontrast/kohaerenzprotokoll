@@ -45,63 +45,63 @@
               "dynamic": "story_driver",
               "vector": "decision",
               "summary": "story_driver = decision",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
             },
             {
               "id": "dyn_story_outcome",
               "dynamic": "story_outcome",
               "vector": "success",
               "summary": "story_outcome = success",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
             },
             {
               "id": "dyn_story_judgment",
               "dynamic": "story_judgment",
               "vector": "good",
               "summary": "story_judgment = good",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
             },
             {
               "id": "dyn_story_limit",
               "dynamic": "story_limit",
               "vector": "optionlock",
               "summary": "story_limit = optionlock",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
             },
             {
               "id": "dyn_problem_solving_style",
               "dynamic": "problem_solving_style",
               "vector": "holistic",
               "summary": "problem_solving_style = holistic",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
             },
             {
               "id": "dyn_main_character_resolve",
               "dynamic": "main_character_resolve",
               "vector": "change",
               "summary": "main_character_resolve = change",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
             },
             {
               "id": "dyn_influence_character_resolve",
               "dynamic": "influence_character_resolve",
               "vector": "steadfast",
               "summary": "influence_character_resolve = steadfast",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md) — abgeleitet: Gegenteil von main_character_resolve (Regel R6)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md) — abgeleitet: Gegenteil von main_character_resolve (Regel R6)."
             },
             {
               "id": "dyn_main_character_growth",
               "dynamic": "main_character_growth",
               "vector": "start",
               "summary": "main_character_growth = start",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
             },
             {
               "id": "dyn_main_character_approach",
               "dynamic": "main_character_approach",
               "vector": "be_er",
               "summary": "main_character_approach = be_er",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
             }
           ],
           "storypoints": [
@@ -364,7 +364,7 @@
               "throughline": "Main Character",
               "illustration": "Das Crucial Element: das OS-Element, auf dem die Hauptfigur sitzt.",
               "summary": "Main Character Pivotal Element: Inertia",
-              "storytelling": "Change → das OS-Problem, das die Hauptfigur aufgibt; Steadfast → die OS-Lösung, an der sie festhält. Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md).",
+              "storytelling": "Change → das OS-Problem, das die Hauptfigur aufgibt; Steadfast → die OS-Lösung, an der sie festhält. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -377,7 +377,46 @@
               "narrative_function": "Conceptualizing",
               "illustration": "Einen Plan, ein Konzept der Ordnung entwickeln.",
               "summary": "Story Goal: Conceptualizing",
-              "storytelling": "Das Ziel liegt auf dem OS-Concern; durch das Crucial Element festgelegt (Schritt 8). Entscheidung des Autors (Plan/decisions/022-dramatica-is-the-recipe.md).",
+              "storytelling": "Das Ziel liegt auf dem OS-Concern; durch das Crucial Element festgelegt (Schritt 8). Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_21",
+              "appreciation": "Story Requirements",
+              "narrative_function": "Learning",
+              "illustration": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
+              "summary": "Story Requirements: Learning",
+              "storytelling": "Was geschehen muss, damit das Ziel erreichbar wird. Schritt 13; WP-Kandidat. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_22",
+              "appreciation": "Story Consequence",
+              "narrative_function": "Past",
+              "illustration": "Die Fragmentierungsnacht wiederholt sich.",
+              "summary": "Story Consequence: Past",
+              "storytelling": "Was eintritt, wenn das Ziel scheitert. Start-Story: die Folgen drohen nur. Schritt 13; WP-Kandidat. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_23",
+              "appreciation": "Story Forewarnings",
+              "narrative_function": "Preconscious",
+              "illustration": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen.",
+              "summary": "Story Forewarnings: Preconscious",
+              "storytelling": "Woran der Leser sieht, dass die Folgen näherkommen. Schritt 13; WP-Kandidat. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"

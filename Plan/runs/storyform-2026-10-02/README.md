@@ -1,6 +1,6 @@
 # Storyform-Prüfung — 2026-10-02/05
 
-**Entscheidungen des Autors stehen in [Entscheidung 022](../../decisions/022-dramatica-is-the-recipe.md); dieses Verzeichnis hält das Werkzeug und die Spezifikationen.**
+**Entscheidungen des Autors stehen in [Entscheidung 024](../../decisions/024-dramatica-is-the-recipe.md); dieses Verzeichnis hält das Werkzeug und die Spezifikationen.**
 
 - `dramatica.py` — die Dramatica Table of Story Elements (Screenplay Systems, 1995/1999) als Daten, von Hand abgeschrieben, mit Selbsttest (`selftest`: 64 Elemente je Klasse, jedes Paar auf einer Diagonale, und der Checker muss die Quell-Storyform A ablehnen) und Prüfer (`check <spec>`, Regeln R1–R7 im Docstring). Gegen das Wörterbuch von 1995 gegengeprüft: 258 Paare, 0 Abweichungen (eine Meldung war ein Seitenumbruch-Artefakt).
 - `specs/a-source.json`, `specs/b-source.json` — die Werte des Statusberichts vom 2026-05-07, unverändert: beide scheitern an R5 (Problem-Element nicht unter dem Concern).

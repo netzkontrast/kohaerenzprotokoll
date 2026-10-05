@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the NCP documents of Storyform A and B from the author's specs (decision 022).
+"""Build the NCP documents of Storyform A and B from the author's specs (decision 024).
 
 Reads `specs/a-author.json` and `specs/b-author.json`, refuses to build if
 `dramatica.check` finds an error, and writes `ncp/storyform-a.ncp.json` and
@@ -18,7 +18,7 @@ import json, pathlib, sys
 import dramatica
 
 HERE = pathlib.Path(__file__).parent
-DEC = "Plan/decisions/022-dramatica-is-the-recipe.md"
+DEC = "Plan/decisions/024-dramatica-is-the-recipe.md"
 # the 1999 chart's spelling -> NCP 1.3.0's canonical_narrative_function
 NCP_NAME = {"Consideration": "Consider", "Reconsideration": "Reconsider",
             "Non-Acceptance": "Non-acceptance", "Non-Accurate": "Non-accurate",
@@ -51,6 +51,9 @@ STORY = {
               "OS Solution": "Veränderung des Bestehenden.",
               "Story Goal": "Einen Plan, ein Konzept der Ordnung entwickeln.",
               "RS Issue": "Was man wahrnimmt (Telefon-Stille, Körpersignale) gegen was man daraus liest."},
+    "plot_text": {"requirements": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
+                  "consequence": "Die Fragmentierungsnacht wiederholt sich.",
+                  "forewarnings": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen."},
     "signpost_text": {"Being": "Rollen; die Fassade hält.", "Becoming": "Das Wesen bricht auf.",
                       "Conceiving": "Der Einfall.", "Conceptualizing": "Der Plan wird entwickelt (das Ziel).",
                       "Memory": "Erinnerungslosigkeit, das Register.", "Subconscious": "Trauma-Wiederbegegnung, Sehnsucht.",
@@ -80,6 +83,9 @@ STORY = {
               "OS Problem": "Gefühle, Risse, Entropie — was die Ordnung stört.",
               "OS Solution": "Logic: AEGIS hält am Richtigen fest, und die Welt scheitert trotzdem.",
               "Story Goal": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null."},
+    "plot_text": {"requirements": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
+                  "consequence": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
+                  "forewarnings": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1)."},
     "signpost_text": {"Doing": "Sweeps laufen, Verluste sind im Gang.", "Learning": "Anomalien erkunden.",
                       "Understanding": "Das Muster begreifen.", "Obtaining": "Letzter Sweep; das Ziel scheitert.",
                       "Past": "Genesis-Trauma verdrängt; Erasure-Logs.", "Present": "Sweeps, Kontrollprotokoll.",
@@ -139,6 +145,15 @@ def build(key):
        "Change → das OS-Problem, das die Hauptfigur aufgibt; Steadfast → die OS-Lösung, an der sie festhält. " + src + ".")
     sp("Story Goal", spec["OS"]["concern"], None, st["illus"]["Story Goal"],
        "Das Ziel liegt auf dem OS-Concern; durch das Crucial Element festgelegt (Schritt 8). " + src + ".")
+    PLOT = {"requirements": ("Story Requirements", "Was geschehen muss, damit das Ziel erreichbar wird."),
+            "consequence": ("Story Consequence", "Was eintritt, wenn das Ziel scheitert."),
+            "forewarnings": ("Story Forewarnings", "Woran der Leser sieht, dass die Folgen näherkommen.")}
+    growth = spec["dynamics"]["main_character_growth"]
+    for k, (appr, what) in PLOT.items():
+        if k in spec.get("plot", {}):
+            sp(appr, spec["plot"][k], None, st["plot_text"][k], what + (" Stop-Story: die Folgen laufen schon."
+               if k == "consequence" and growth == "stop" else " Start-Story: die Folgen drohen nur."
+               if k == "consequence" else "") + " Schritt 13; WP-Kandidat. " + src + ".")
     for s_ in sps:
         if s_["appreciation"] == "Story Goal":
             s_.pop("throughline", None)

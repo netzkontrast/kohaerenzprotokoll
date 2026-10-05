@@ -60,5 +60,10 @@
    "Progress",
    "Future"
   ]
+ },
+ "plot": {
+  "requirements": "Doing",
+  "consequence": "Becoming",
+  "forewarnings": "Progress"
  }
 }
