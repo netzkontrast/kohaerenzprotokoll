@@ -43,6 +43,10 @@
  "IC": {
   "concern": "Subconscious",
   "issue": "Dream",
+  "problem": "Disbelief",
+  "solution": "Faith",
+  "focus": "Oppose",
+  "direction": "Support",
   "signposts": [
    "Conscious",
    "Memory",
@@ -74,7 +78,9 @@
    "Conceiving",
    "Conceptualizing",
    "Becoming"
-  ]
+  ],
+  "focus": "Hinder",
+  "direction": "Help"
  },
  "plot": {
   "requirements": "Doing",
@@ -104,7 +110,6 @@
   }
  ],
  "open": [
-  "IC problem element (not derived by D1–D7)",
   "the other archetypes (W10)",
   "logline, genre"
  ],
@@ -117,7 +122,7 @@
    ],
    "IC": [
     "you",
-    "Kael (IC, Mind/Conscious)",
+    "Kael (IC, Mind/Subconscious)",
     "Kael wirkt aus innersten Wünschen (Subconscious, Dream ↔ Hope); er ändert sich am Vortex."
    ],
    "OS": [
@@ -148,7 +153,11 @@
    "RS Solution": "Logik.",
    "OS Problem": "Gefühle, Risse, Entropie — was die Ordnung stört.",
    "OS Solution": "Logic: AEGIS hält am Richtigen fest, und die Welt scheitert trotzdem.",
-   "Story Goal": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null."
+   "Story Goal": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null.",
+   "IC Problem": "Unglaube — Kael trägt dasselbe Problem wie AEGIS: er traut nichts, auch sich selbst nicht.",
+   "IC Solution": "Glaube — am Vortex legt Kael sich fest und gibt nach; er wird, was AEGIS hätte werden können.",
+   "RS Focus": "Behinderung: Sweeps gegen Risse, Risse gegen Ordnung — jeder steht dem anderen im Weg.",
+   "RS Direction": "Hilfe: Wartung, Schutzmodus — sie helfen einander und verfehlen das Gefühl zwischen ihnen."
   },
   "plot": {
    "requirements": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
@@ -217,6 +226,12 @@
   "plot.costs": "author step 14 (session proposal)",
   "plot.dividends": "author step 14 (session proposal)",
   "plot.prerequisites": "author, fine structure 2b",
-  "plot.preconditions": "author, fine structure 2b"
+  "plot.preconditions": "author, fine structure 2b",
+  "IC.problem": "author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem)",
+  "IC.solution": "author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); its pair",
+  "IC.focus": "author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); the other pair of the quad",
+  "IC.direction": "author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); the other pair of the quad",
+  "RS.focus": "author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic)",
+  "RS.direction": "author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic)"
  }
 }

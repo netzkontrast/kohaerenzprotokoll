@@ -78,7 +78,9 @@
    "Understanding"
   ],
   "problem": "Ability",
-  "solution": "Desire"
+  "solution": "Desire",
+  "focus": "Thought",
+  "direction": "Knowledge"
  },
  "plot": {
   "requirements": "Learning",
@@ -126,7 +128,6 @@
   }
  ],
  "open": [
-  "RS focus/direction: the pair Knowledge/Thought, order open",
   "logline, genre"
  ],
  "texts": {
@@ -171,7 +172,9 @@
    "OS Problem": "Das System hält am Bestehenden fest — das Crucial Element, das Kael aufgibt.",
    "OS Solution": "Veränderung des Bestehenden.",
    "Story Goal": "Einen Plan, ein Konzept der Ordnung entwickeln.",
-   "RS Issue": "Instinkt gegen Konditionierung: was der Link von selbst tut gegen was er gelernt hat."
+   "RS Issue": "Instinkt gegen Konditionierung: was der Link von selbst tut gegen was er gelernt hat.",
+   "RS Focus": "Grübeln: Kael und Juna denken übereinander nach — ist Juna echt?",
+   "RS Direction": "Gewissheit: sie suchen Belege, statt zu wollen."
   },
   "plot": {
    "requirements": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
@@ -244,6 +247,8 @@
   "plot.costs": "author step 14 (session proposal)",
   "plot.dividends": "author step 14 (session proposal)",
   "plot.prerequisites": "author, fine structure 2b",
-  "plot.preconditions": "author, fine structure 2b"
+  "plot.preconditions": "author, fine structure 2b",
+  "RS.focus": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)",
+  "RS.direction": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)"
  }
 }

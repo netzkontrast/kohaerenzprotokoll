@@ -94,6 +94,22 @@ with the consequences of each option laid out.
     (`02-characters.md`): the dramatica-vocabulary skill's table gives Reason „Logic + Knowledge" and Emotion „Feeling
     + Ability", which the book does not (Control-Logic, Uncontrolled-Feeling). **Naming:** the Dramatica archetype is
     written *Guardian-Archetyp*; the novel's five Guardians are a different thing.
+19. **B's IC problem (2026-10-05).** After the re-derivation (step 16) Kael's IC issue is Dream; his problem is
+    taken from its quad (Faith, Support, Oppose, Disbelief) — an assumption, as for the MC, whose problem sits under its
+    issue (D3/D4); no rule D1–D7 fixes it, and the sources only name models with
+    AEGIS or Juna as IC. The author chose **Disbelief → Faith**, focus/direction **Oppose → Support**: Kael carries
+    AEGIS' own problem; he changes at the Vortex, AEGIS stays steadfast and fails — the one who changes shows what AEGIS
+    could have become. This replaces step 15's „Potentiality → Certainty" and „Reaction → Proaction", which belonged to
+    the chain step 16 replaced.
+20. **A's RS focus/direction (2026-10-05).** The pair Knowledge/Thought was fixed by the re-derived chain (Instinct,
+    Ability → Desire); the order was open. The author chose **Thought → Knowledge**: Kael and Juna see the trouble in
+    thinking about each other („is Juna real?") and look for certainty — the mirror of the OS's Knowledge → Thought,
+    and from inside to outside as in step 15's earlier choice (Self-Aware → Aware, which belonged to the replaced chain).
+21. **B's RS focus/direction (2026-10-05).** The RS problem Feeling → Logic (D5) sits under Obligation, whose quad leaves
+    one pair, Help/Hinder; step 15's „Expectation → Determination" belonged to the replaced chain. The author chose
+    **Hinder → Help**: host and system see the trouble in obstructing each other (sweeps against cracks, cracks against
+    order) and try to help each other (maintenance, protective mode), missing the feeling between them — in step with
+    Kael's Oppose → Support (step 19).
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10), logline and genre;
