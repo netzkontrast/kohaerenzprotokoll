@@ -331,3 +331,11 @@ Where it stands in the record's own terms: a proposal, marked as such in the doc
 Kap 1: „ein Wort, das aus dem Nichts auftaucht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L21] and the table's „Name ohne Referent“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L137] Before Kap 7 the rule is „nur Wirkung, nie Ursache“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L148] then „ist sie ein Ereignis“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L148] In Kap 33 „Sie wird nicht beschrieben“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L314]
 
 Stands: the outline of 2026-05-01 takes no position on the first appearance as a record; it plans three stages.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report
+
+**The Synthese-Report gives Juna one appearance, in Kap 33/34, written by exclusion, as its `Lösung zu C.7`**
+
+„In Kapitel 33/34 betritt Juna den Raum, wird aber durch absolute Exklusions-Deskription geschrieben.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] The room reacts to „ein plötzliches gravitationsähnliches Zentrum“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] and „der Text benennt sie nie direkt“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93]
+
+Stands: one appearance in Kap 33/34, as the report proposes it; it names no later appearance.
