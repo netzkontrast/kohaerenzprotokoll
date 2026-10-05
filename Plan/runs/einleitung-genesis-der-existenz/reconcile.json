@@ -1,0 +1,176 @@
+{
+  "document": "einleitung-genesis-der-existenz",
+  "drive_id": "1Th-R0KQZgP_WADrOWljDgnj4MdsgUpR0u2Brp_rDNaA",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task (steps 1–4); its own report of eleven read.py --count queries before the list is kept beside the run (deviation.md); the session read the note against L87–L197 and corrected nothing; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-65/brief.md; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 59,
+    "decisions": 63,
+    "decided_by_lookup": 40,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A narrative: its candidates are the steps of the Genesis the wiki already pages (Rauschen, Cluster, the click, AEGIS's principle, Komponente 734, the Überwelt, the protocol, the Ursprungs-Ich) and the narrator's images (Triade, Selbstverstärkung, Risiko-Assessment-Marker, Binnen-Physik). Each went on the page whose subject it tells; a narrative's image is an occurrence of a name, not a definition, so none opens a page.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        87,
+        89,
+        93,
+        114,
+        141,
+        157,
+        159,
+        197
+      ],
+      "attribution": "",
+      "note": "AEGIS as the closure the fragment becomes part of, and as the structure that misreads its own echo"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        13,
+        29,
+        33
+      ],
+      "attribution": "",
+      "note": "its own sequence from the Nichts to the protocol"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        114,
+        157,
+        159,
+        197
+      ],
+      "attribution": "",
+      "note": "coherence as inner order, and as what kills the narrator"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        100,
+        102,
+        104,
+        106,
+        108,
+        126
+      ],
+      "attribution": "",
+      "note": "the narrator become a component at the border, before the crisis"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        33,
+        39,
+        141
+      ],
+      "attribution": "",
+      "note": "the Rauschen the narrator is, and AEGIS's name for the void"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        141,
+        147
+      ],
+      "attribution": "",
+      "note": "the void as a sea of states"
+    },
+    {
+      "page": "residual-echos",
+      "lines": [
+        95,
+        143
+      ],
+      "attribution": "",
+      "note": "echoes of origin that are processed, not erased"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        161,
+        187,
+        189,
+        197
+      ],
+      "attribution": "",
+      "note": "a protocol told under the heading Trennungsprotokoll"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        116,
+        118,
+        122,
+        124
+      ],
+      "attribution": "",
+      "note": "the Überwelt as a simulated inner space"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C12"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a heading containing a term is not its surface: Komponente 734: Funktion an der Grenze, Die Stille Wacht: AEGIS vor dem Sturm, Das Trennungsprotokoll: Fragmentierung als Heilung), J12 and J16 (a compound is its own token: Kohärenzfeld, Kohärenzmetriken), J24 and J97 (a plural or case ending is no boundary: Ursprungs-Ichs, Kohärenz Protokolls, Clusters), J57 (a compound naming a protocol is not the property: Kohärenz Protokoll / Kohärenz), J69 (a match only after folding: autopoietische / ars, Entität / did), J114 (a protocol doing what a page's protocol does is placed on that page by the sentence: the Kohärenz Protokoll on trennungsprotokoll)",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 147,
+      "decision": "occurrence",
+      "why": "the alien entity's manifestation, `eine Emergenz aus dem Potentialmeer`, not AEGIS's emergence, which is the page's (and C3's) subject"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 106,
+      "decision": "occurrence",
+      "why": "`gezielter Export von Entropie` as the component's routine at the border, one phrase; the narrative says nothing about what entropy is"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 114,
+      "decision": "reading",
+      "why": "AEGIS's turn inward: true stability requires deeper, inner coherence (L114), and its essence is the maintenance of inner coherence (L141) — the page's subject, read by the sentence"
+    },
+    {
+      "page": "potentialmeer",
+      "surface": "Potentialmeer",
+      "line": 141,
+      "decision": "reading",
+      "why": "the void described as a substrate, `ein Potentialmeer unendlicher Zustände` (L141), from which the entity emerges (L147) — the page's subject"
+    }
+  ],
+  "not_promoted": [
+    "Triade, Selbstverstärkung — steps of cluster formation (L55, L65); read on genesis",
+    "Risiko-Assessment-Marker — fear functionalised in the component (L108); read on komponente-734",
+    "fremde Entität — the foreign entity of the crisis (L147); read on genesis and potentialmeer; the narrative never names it",
+    "the writer's working remarks (nicht Spoilern, besserer Begriff?, Satz löschen, oder weniger foreshadowing) — the draft's, not the story's; recorded in the note"
+  ],
+  "internal_tension": "the protocol is told as the Kohärenz Protokoll (L161, L189) under a heading naming the Trennungsprotokoll (L187), and the narrative does not say whether they are one; the self is `minimalen Selbst` and `minimale Selbst` (L175, L167)",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.531, PageRank 0.689 over 24 cases — unchanged; no case moved"
+}

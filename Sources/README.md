@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 63 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 63 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 64 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 64 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -754,7 +754,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 |---|---|--:|---|---|---|
 | [Narrativ Existenzieller Kohärenz: NZT-Protokoll Σ](drive/narrativ-existenzieller-kohaerenz-nzt-protokoll.md) | 2025-04-25 | 9,159 |  | Personas 2, Realitätsebenen 2, Emergenz† 61, Entropie† 13, Risse 21, Kohärenz 14, Überwelt 8 | Advaita Vedanta 19, Advaita 10, Schwellenkonzepte 5, Nāgārjuna 12, Kolmogorov 6 |
 | [Narrative Plot-Exploration: Existenzielle Kohärenz](drive/narrative-plot-exploration-existenzielle-kohaerenz.md) | 2025-04-26 | 7,322 |  | Potentialmeer 21, Guardians 14, Realitätsebenen 2, Emergenz† 17, Alters 4, DID 2, Überwelt 23, Juna 3 | OSR 17, Madhyamaka 12, Simulation Sigma 3, Floridi 5, Juna-Verbindung 11 |
-| [Einleitung: Genesis der Existenz](drive/einleitung-genesis-der-existenz.md) | 2025-04-29 | 5,222 |  | Komponente 734 6, Nichts-Rauschen 3, Potentialmeer 2, Überwelt 12, Kohärenz 11, AEGIS 44 | Funke 3, Echo 8, Selbstorganisation 2, Rauschen 12, Schmerz 7 |
+| [Einleitung: Genesis der Existenz](drive/einleitung-genesis-der-existenz.md) | 2025-04-29 | 5,222 | **read** | Komponente 734 6, Nichts-Rauschen 3, Potentialmeer 2, Überwelt 12, Kohärenz 11, AEGIS 44 | Funke 3, Echo 8, Selbstorganisation 2, Rauschen 12, Schmerz 7 |
 | [Optimierte Plotline: Genesis der Existenz](drive/optimierte-plotline-genesis-der-existenz.md) | 2025-04-29 | 2,640 |  | Komponente 734 21, Genesis 6, Überwelt 11, Kern-Welten 2, Kohärenz 5, AEGIS 25, Kael 3 | Resonanz-Kaskade 3, Echo 5, Rauschen 7, Qualia 2, Protokoll 2 |
 | [Überarbeitete Optimierte Plotline (13 Szenen): Genesis der Existenz](drive/uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md) | 2025-04-29 | 1,788 |  | Komponente 734 9, Überwelt 27, AEGIS 37, Kohärenz 3, Kael 4 | 734s 2, Echo 4, AEGIS-Logik 2, Rauschen 2, Analyse 10 |
 | [Überarbeitete Optimierte Plotline: Genesis der Existenz](drive/uberarbeitete-optimierte-plotline-genesis-der-existenz.md) | 2025-04-29 | 1,792 |  | Komponente 734 9, Kern-Welten 2, Kohärenz 8, Überwelt 3, AEGIS 30, Kael 6 | AEGIS-Logik 5, Echo 4, Rauschen 3, Schmerz 2, Analyse 5 |

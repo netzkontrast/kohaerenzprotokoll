@@ -379,6 +379,11 @@ the author wants them (*Questions for the author*).
   Isabelle AEGIS's Hypervisors (L166–L170); the character bible makes them alters of Kael, Oblivion an „AEGIS-Echo“. One figure seen
   from two sides, or two drafts? And does Component 734 come from the Ursprungs-Ich while Kael is the shattered fragments (L17, L45)?
 
+- **Document 65, `einleitung-genesis-der-existenz` (2025-04-29), the Genesis narrative itself:** its crisis part is headed
+  `Das Trennungsprotokoll` and tells the `Kohärenz Protokoll` (L161, L187, L189). Is the Trennungsprotokoll the act and the Kohärenz
+  Protokoll 1.0 the program it runs, or are they one thing under two names? And the narrator stays nameless — the fragment, then
+  Komponente 734: is that voice the one you want for Kap 0?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*
