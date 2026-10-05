@@ -40,7 +40,8 @@
    "Conscious"
   ],
   "focus": "Chaos",
-  "direction": "Order"
+  "direction": "Order",
+  "benchmark": "Conscious"
  },
  "IC": {
   "concern": "Past",
@@ -54,7 +55,8 @@
    "Future"
   ],
   "focus": "Actuality",
-  "direction": "Perception"
+  "direction": "Perception",
+  "benchmark": "Progress"
  },
  "OS": {
   "concern": "Conceptualizing",
@@ -68,7 +70,8 @@
    "Conceptualizing"
   ],
   "focus": "Knowledge",
-  "direction": "Thought"
+  "direction": "Thought",
+  "benchmark": "Being"
  },
  "RS": {
   "concern": "Understanding",
@@ -82,7 +85,8 @@
   "problem": "Ability",
   "solution": "Desire",
   "focus": "Thought",
-  "direction": "Knowledge"
+  "direction": "Knowledge",
+  "benchmark": "Doing"
  },
  "plot": {
   "requirements": "Learning",
@@ -313,6 +317,10 @@
   "RS.focus": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)",
   "RS.direction": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)",
   "logline": "author, 2026-10-05, logline (session draft from goal, consequence, costs and outcome)",
-  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)"
+  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)",
+  "OS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — die Rollen und die Fassade: wie lange jeder Anteil seine Rolle hält (Kap 2, 5, 9: Wert, Bericht, gelöschter Name); the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "MC.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — was Kael bewusst weiß — die Spalte „Kael weiß“ der Ereignistabelle, Kapitel für Kapitel; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "IC.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — wie weit Junas Leben ohne Kael weiterläuft (die Spuren in Kap 17, 25); the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "RS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — was die Verbindung tut: der Anschluss als Werkzeug, das Klicken, die Präsenz; the placement rule is not public, only that it is a type of the class other than the concern is checked"
  }
 }

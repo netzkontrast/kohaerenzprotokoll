@@ -40,7 +40,8 @@
    "Present",
    "Progress",
    "Future"
-  ]
+  ],
+  "benchmark": "Progress"
  },
  "IC": {
   "concern": "Subconscious",
@@ -54,7 +55,8 @@
    "Memory",
    "Preconscious",
    "Subconscious"
-  ]
+  ],
+  "benchmark": "Memory"
  },
  "OS": {
   "concern": "Obtaining",
@@ -68,7 +70,8 @@
    "Obtaining"
   ],
   "focus": "Reconsideration",
-  "direction": "Consideration"
+  "direction": "Consideration",
+  "benchmark": "Doing"
  },
  "RS": {
   "concern": "Becoming",
@@ -82,7 +85,8 @@
    "Becoming"
   ],
   "focus": "Hinder",
-  "direction": "Help"
+  "direction": "Help",
+  "benchmark": "Conceiving"
  },
  "plot": {
   "requirements": "Doing",
@@ -281,6 +285,10 @@
   "RS.focus": "author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic)",
   "RS.direction": "author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic)",
   "logline": "author, 2026-10-05, logline (session draft from goal, consequence, costs and outcome)",
-  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)"
+  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)",
+  "OS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — die Sweeps und ihre Verluste, als Zahlen im Log; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "MC.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — die wachsende Instabilität trotz aller Sweeps, als Wert im Log, der fällt — die Bruchkurve; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "IC.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — wie viel Kael erinnert, das AEGIS gelöscht hatte; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "RS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — wie AEGIS Kael umdeutet: von 734 zur Anomalie, zu „unkontrollierbar“; the placement rule is not public, only that it is a type of the class other than the concern is checked"
  }
 }

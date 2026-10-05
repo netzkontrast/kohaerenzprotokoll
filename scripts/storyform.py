@@ -98,6 +98,10 @@ def compare(sf):
 def audit(sf):
     """(errors, disagreements) for one storyform."""
     errors, _ = dramatica.check(sf)
+    for t in TL:
+        b = sf[t].get("benchmark")
+        if b is not None and (b not in dramatica.type_quad(sf["classes"][t]) or b == sf[t]["concern"]):
+            errors.append(f"{t}.benchmark {b!r} is not a type of {sf['classes'][t]} other than the concern (step 40)")
     have, prov = leaves(sf), sf.get("provenance", {})
     errors += [f"no provenance for {p}" for p in have if p not in prov]
     errors += [f"provenance for {p}, which states no value" for p in prov if p not in have]
@@ -140,7 +144,7 @@ def ncp(sf, weave=None, kanon=None):
         s, why = sf[t], tx["why"][t]
         sp(f"{TL[t]} Domain", sf["classes"][t], t, tx["perspectives"][t][2], why)
         for key, part in (("concern", "Concern"), ("issue", "Issue"), ("problem", "Problem"), ("solution", "Solution"),
-                          ("focus", "Symptom"), ("direction", "Response")):
+                          ("focus", "Symptom"), ("direction", "Response"), ("benchmark", "Benchmark")):
             if key in s:
                 story = f"{why} Herkunft: {prov[f'{t}.{key}']}."
                 if key == "issue":
@@ -221,11 +225,12 @@ def overview(forms):
         L += ["", f"## {sf['title']}", ""]
         L += [f"**Logline:** „{sf['logline']}\"", ""] if sf.get("logline") else []
         L += [f"**Genre:** {sf['genre']}", ""] if sf.get("genre") else []
-        L += ["| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |", "|---|---|---|---|---|---|---|"]
+        L += ["| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Benchmark | Akte |", "|---|---|---|---|---|---|---|---|"]
         for t in TL:
             s = sf[t]
             L.append(f"| {t} | {sf['classes'][t]} | {s.get('concern', '—')} | {s.get('issue', '—')} | "
                      f"{s.get('problem', '—')} → {s.get('solution', '—')} | {s.get('focus', '—')} → {s.get('direction', '—')} | "
+                     f"{s.get('benchmark', '—')} | "
                      f"{' → '.join(s.get('signposts', [])) or '—'} |")
         plot = {"goal": sf["OS"]["concern"], **sf["plot"]}
         L += ["", "Plot: " + " · ".join(f"{k} **{v}**" for k, v in plot.items()), "",
@@ -544,6 +549,13 @@ def selftest():
     ghost["provenance"]["MC.ghost"] = "x"
     if not any("states no value" in e for e in audit(ghost)[0]):
         fails.append("a provenance without a value was accepted")
+    off = json.loads(json.dumps(good))
+    off["MC"]["benchmark"] = off["MC"]["concern"]           # the concern cannot be its own benchmark
+    if not any("benchmark" in e for e in audit(off)[0]):
+        fails.append("a benchmark equal to the concern was accepted")
+    off["MC"]["benchmark"] = "Past"                          # a type of another class
+    if not any("benchmark" in e for e in audit(off)[0]):
+        fails.append("a benchmark outside its class was accepted")
     drift = json.loads(json.dumps(good))
     drift["MC"].update({"issue": "Truth"})                  # still legal by the chart? no — Inertia is under Suspicion
     if not audit(drift)[0] and not audit(drift)[1]:

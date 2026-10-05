@@ -21,7 +21,7 @@
 
 ## Was fehlt
 
-### 1. Benchmark, vier je Storyform
+### 1. Benchmark, vier je Storyform — **erledigt 2026-10-05** (Schritt 40)
 - **Was:** Woran sich der Fortschritt einer Throughline messen lässt. Der Benchmark ist ein Type.
 - **Wozu:** Das Treatment braucht für jeden Strang eine Messlatte. Für A-MC könnte das sein, wie viele Lücken Kael
   füllen kann, bevor die Ordnung kippt.
