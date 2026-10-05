@@ -2,7 +2,7 @@
   "document": "hard-sci-fi-cosmic-horror-research-questions",
   "drive_id": "1-3kN4oeJkXRAHs0IofGEWMGzEtMiNkkxwvEEH0KnICc",
   "step": "counts",
-  "at": "2026-09-29",
+  "at": "2026-10-05",
   "by": "scripts/capture.py",
   "candidate_source": "written-while-reading",
   "usable_as_baseline": true,
