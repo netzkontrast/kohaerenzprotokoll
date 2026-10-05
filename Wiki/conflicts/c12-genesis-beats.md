@@ -316,3 +316,11 @@ Stands as the manifest's order, without a beat count; recorded, not applied.
 The order as written: the click, „Ein fundamentales Einrasten im gesamten System.“ ^[einleitung-genesis-der-existenz.md:L87] (L87); the part „Komponente 734: Funktion an der Grenze“ ^[einleitung-genesis-der-existenz.md:L100] (L100); „die Überwelt.“ ^[einleitung-genesis-der-existenz.md:L116] (L116); then the crisis, the foreign entity „aus dem Potentialmeer der Leere selbst“ ^[einleitung-genesis-der-existenz.md:L147] (L147), and the protocol, told under the heading „Das Trennungsprotokoll: Fragmentierung als Heilung“ ^[einleitung-genesis-der-existenz.md:L187] (L187). The component precedes the protocol. The narrative counts no beats.
 
 Where it stands in the record's own terms: a position on order only; it takes no side on what the beats should be called.
+
+## 2026-10-05 — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline
+
+**The outline plans Komponente 734 in scene 5, the crisis in scenes 7–8, the protocol in scene 9, and Kael's birth from the fragments in scene 10.**
+
+Scene 5 is headed „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L109]. The crisis begins in scene 7 with „Die Anomalie“ ^[optimierte-plotline-genesis-der-existenz.md:L173], and scene 8 plans „Entscheidung für das Protokoll“ ^[optimierte-plotline-genesis-der-existenz.md:L197]. Scene 9 plans „Partitionierungsalgorithmen beginnen“ ^[optimierte-plotline-genesis-der-existenz.md:L215] to cut the connections to the component. Scene 10 plans „die Geburt von Kael als Mosaik traumatisierter, verwirrter Bewusstseinsfragmente“ ^[optimierte-plotline-genesis-der-existenz.md:L222]. The component precedes the protocol; Kael follows it.
+
+Where it stands in the record's own terms: a position on order only — the component before the protocol, Kael after it; the outline counts ten scenes of its own and takes no side on three beats or four.
