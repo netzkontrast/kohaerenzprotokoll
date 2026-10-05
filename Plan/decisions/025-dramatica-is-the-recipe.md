@@ -162,6 +162,13 @@ with the consequences of each option laid out.
     be built with the author (`character-card-builder`). The author asked whether Juna could be the Sidekick; the session
     advised against it — she is memory and traces until Kap 32, and an overall-story role needs presence — and the
     author chose the old woman. All eight archetypes of A are now cast; H9 holds (no player carries both halves of a pair).
+31. **Casting B (2026-10-05): the five Guardians as AEGIS' ensemble** — the mirror of A, whose overall story is carried
+    by Kael's parts. AEGIS is Protagonist and Reason whole (Pursuit, Consideration, Control, Logic), Kael Antagonist and
+    Emotion whole (Avoid, Reconsideration, Uncontrolled, Feeling). Contagonist **Mnemosyne** (Hinder, Temptation — she
+    keeps what AEGIS would close, and tempts with deletion: Charakter-Bibel §3.2–3.3), Guardian-Archetyp **Sophia** (Help,
+    Conscience), Sidekick **LogOS** (Support, Faith), Skeptic **Kairos** (Oppose, Disbelief); **Cerberus** carries no
+    archetype. The last three by their domains, a session proposal the author took. H8 and H9 hold. All archetypes of
+    both storyforms are now cast.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

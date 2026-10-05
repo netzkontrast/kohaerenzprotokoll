@@ -19,6 +19,7 @@ eine Weiche gilt dort nur als Kanon, wenn sie eine `id` aus dieser Tabelle nennt
 | W0 | 2026-10-05 | Der Kern wird frei erzählt: Das Davor, der Anruf und das Danach werden Szenen, Juna ist eine volle Figur. Block 4 bleibt die Grenze für Namen, Orte und Biographisches. | `Plan/weichen/w0-kern.md` |
 | C7, W9 | 2026-10-05 | Juna folgt ihren IC-Signposts: Akt I erinnerte Szenen vor dem Anruf (Kap 4, 11), Akt II Spuren ihres weiterlaufenden Lebens (Kap 17, 25), Akt III die erste Begegnung in der Gegenwart (Kap 32), Vortex ihre Zukunft (Kap 36, 38). | `Wiki/conflicts/c7-juna-first-appearance.md`, `Plan/weichen/w9-juna.md` |
 | W10 (A) | 2026-10-05 | Die Archetypen von Storyform A: Protagonist Selene, Antagonist Oblivion, Reason Lex, Emotion Nyx (Isabelle ist Teil von Nyx) — alles Anteile; Guardian-Archetyp Mara, Contagonist Dorn, Sidekick die alte Frau von der Bank, Skeptic die Kollegin an der Konsole — Menschen in Kaels Gegenwart. Ihre Wünsche sind nicht entschieden. | `Plan/storyform/a.json`, Entscheidung 025 Schritte 18, 28–30 |
+| W10 (B) | 2026-10-05 | Die Archetypen von Storyform B: AEGIS Protagonist und Reason, Kael Antagonist und Emotion; die Guardians als AEGIS' Ensemble — Mnemosyne Contagonist, Sophia Guardian-Archetyp, LogOS Sidekick, Kairos Skeptic, Cerberus ohne Archetyp. | `Plan/storyform/b.json`, Entscheidung 025 Schritt 31 |
 
 ## Freigegebene Kapitel
 

@@ -96,24 +96,70 @@
  "players": [
   {
    "name": "AEGIS",
-   "role": "Main Character, Protagonist",
+   "role": "Main Character, Protagonist, Reason",
    "os_elements": [
+    "Pursuit",
+    "Consideration",
+    "Control",
     "Logic"
    ],
-   "by": "author, casting 3; Logic = crucial element (step 3b), the Reason function"
+   "by": "author, casting 3; Logic = crucial element (step 3b), the Reason function; author, casting B-2 (2026-10-05, step 31): Protagonist and Reason whole"
   },
   {
    "name": "Kael",
-   "role": "Influence Character, Antagonist",
+   "role": "Influence Character, Antagonist, Emotion",
    "os_elements": [
+    "Avoid",
+    "Reconsideration",
+    "Uncontrolled",
     "Feeling"
    ],
-   "by": "author, casting 3; H8: the pair partner of Logic, the Emotion function"
+   "by": "author, casting 3; H8: the pair partner of Logic, the Emotion function; author, casting B-2 (2026-10-05, step 31): Antagonist and Emotion whole"
+  },
+  {
+   "name": "Mnemosyne (Guardian)",
+   "role": "Contagonist",
+   "os_elements": [
+    "Hinder",
+    "Temptation"
+   ],
+   "by": "author, casting B-2 (2026-10-05, step 31); Charakter-Bibel §3.2–3.3 (L192–L202): Mnemosyne „trägt die Erinnerungen, die AEGIS löschen will“; ihr Angebot, „den Schmerz zu löschen“"
+  },
+  {
+   "name": "Sophia (Guardian)",
+   "role": "Guardian-Archetyp",
+   "os_elements": [
+    "Help",
+    "Conscience"
+   ],
+   "by": "author, casting B-2 (2026-10-05, step 31); session proposal from her domain (Wissen, Synthese)"
+  },
+  {
+   "name": "LogOS (Guardian)",
+   "role": "Sidekick",
+   "os_elements": [
+    "Support",
+    "Faith"
+   ],
+   "by": "author, casting B-2 (2026-10-05, step 31); session proposal from his domain (Struktur, Regeln)"
+  },
+  {
+   "name": "Kairos (Guardian)",
+   "role": "Skeptic",
+   "os_elements": [
+    "Oppose",
+    "Disbelief"
+   ],
+   "by": "author, casting B-2 (2026-10-05, step 31); session proposal from his domain (das Unvorhersehbare)"
+  },
+  {
+   "name": "Cerberus (Guardian)",
+   "role": "no archetype — border and tool",
+   "os_elements": [],
+   "by": "author, casting B-2 (2026-10-05, step 31)"
   }
  ],
- "open": [
-  "the other archetypes (W10)"
- ],
+ "open": [],
  "texts": {
   "perspectives": {
    "MC": [

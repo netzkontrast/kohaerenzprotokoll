@@ -57,9 +57,9 @@ Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 
 Plot: goal **Obtaining** · requirements **Doing** · consequence **Becoming** · forewarnings **Progress** · costs **Memory** · dividends **Understanding** · prerequisites **Past** · preconditions **Conceiving**
 
-Besetzung: AEGIS — Main Character, Protagonist (Logic); Kael — Influence Character, Antagonist (Feeling)
+Besetzung: AEGIS — Main Character, Protagonist, Reason (Pursuit, Consideration, Control, Logic); Kael — Influence Character, Antagonist, Emotion (Avoid, Reconsideration, Uncontrolled, Feeling); Mnemosyne (Guardian) — Contagonist (Hinder, Temptation); Sophia (Guardian) — Guardian-Archetyp (Help, Conscience); LogOS (Guardian) — Sidekick (Support, Faith); Kairos (Guardian) — Skeptic (Oppose, Disbelief); Cerberus (Guardian) — no archetype — border and tool
 
-Offen: the other archetypes (W10)
+Offen: —
 
 Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 

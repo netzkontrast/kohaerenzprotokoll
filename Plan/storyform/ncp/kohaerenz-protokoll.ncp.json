@@ -1203,17 +1203,32 @@
                 {
                   "id": "player_aegis",
                   "name": "AEGIS",
-                  "role": "Main Character, Protagonist",
+                  "role": "Main Character, Protagonist, Reason",
                   "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
-                  "summary": "Main Character, Protagonist; im OS: Logic",
+                  "summary": "Main Character, Protagonist, Reason; im OS: Pursuit, Consider, Control, Logic",
                   "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
-                  "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function.",
+                  "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function; author, casting B-2 (2026-10-05, step 31): Protagonist and Reason whole.",
                   "motivations": [
+                    {
+                      "narrative_function": "Pursuit",
+                      "illustration": "AEGIS trägt Pursuit im OS.",
+                      "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function; author, casting B-2 (2026-10-05, step 31): Protagonist and Reason whole."
+                    },
+                    {
+                      "narrative_function": "Consider",
+                      "illustration": "AEGIS trägt Consideration im OS.",
+                      "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function; author, casting B-2 (2026-10-05, step 31): Protagonist and Reason whole."
+                    },
+                    {
+                      "narrative_function": "Control",
+                      "illustration": "AEGIS trägt Control im OS.",
+                      "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function; author, casting B-2 (2026-10-05, step 31): Protagonist and Reason whole."
+                    },
                     {
                       "narrative_function": "Logic",
                       "illustration": "AEGIS trägt Logic im OS.",
-                      "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function."
+                      "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function; author, casting B-2 (2026-10-05, step 31): Protagonist and Reason whole."
                     }
                   ],
                   "perspectives": [
@@ -1228,17 +1243,32 @@
                 {
                   "id": "player_kael",
                   "name": "Kael",
-                  "role": "Influence Character, Antagonist",
+                  "role": "Influence Character, Antagonist, Emotion",
                   "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
-                  "summary": "Influence Character, Antagonist; im OS: Feeling",
+                  "summary": "Influence Character, Antagonist, Emotion; im OS: Avoid, Reconsider, Uncontrolled, Feeling",
                   "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
-                  "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function.",
+                  "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function; author, casting B-2 (2026-10-05, step 31): Antagonist and Emotion whole.",
                   "motivations": [
+                    {
+                      "narrative_function": "Avoid",
+                      "illustration": "Kael trägt Avoid im OS.",
+                      "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function; author, casting B-2 (2026-10-05, step 31): Antagonist and Emotion whole."
+                    },
+                    {
+                      "narrative_function": "Reconsider",
+                      "illustration": "Kael trägt Reconsideration im OS.",
+                      "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function; author, casting B-2 (2026-10-05, step 31): Antagonist and Emotion whole."
+                    },
+                    {
+                      "narrative_function": "Uncontrolled",
+                      "illustration": "Kael trägt Uncontrolled im OS.",
+                      "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function; author, casting B-2 (2026-10-05, step 31): Antagonist and Emotion whole."
+                    },
                     {
                       "narrative_function": "Feeling",
                       "illustration": "Kael trägt Feeling im OS.",
-                      "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function."
+                      "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function; author, casting B-2 (2026-10-05, step 31): Antagonist and Emotion whole."
                     }
                   ],
                   "perspectives": [
@@ -1247,6 +1277,130 @@
                     },
                     {
                       "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_mnemosyne",
+                  "name": "Mnemosyne (Guardian)",
+                  "role": "Contagonist",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Contagonist; im OS: Hinder, Temptation",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); Charakter-Bibel §3.2–3.3 (L192–L202): Mnemosyne „trägt die Erinnerungen, die AEGIS löschen will“; ihr Angebot, „den Schmerz zu löschen“.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Hinder",
+                      "illustration": "Mnemosyne (Guardian) trägt Hinder im OS.",
+                      "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); Charakter-Bibel §3.2–3.3 (L192–L202): Mnemosyne „trägt die Erinnerungen, die AEGIS löschen will“; ihr Angebot, „den Schmerz zu löschen“."
+                    },
+                    {
+                      "narrative_function": "Temptation",
+                      "illustration": "Mnemosyne (Guardian) trägt Temptation im OS.",
+                      "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); Charakter-Bibel §3.2–3.3 (L192–L202): Mnemosyne „trägt die Erinnerungen, die AEGIS löschen will“; ihr Angebot, „den Schmerz zu löschen“."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_sophia",
+                  "name": "Sophia (Guardian)",
+                  "role": "Guardian-Archetyp",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Guardian-Archetyp; im OS: Help, Conscience",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); session proposal from her domain (Wissen, Synthese).",
+                  "motivations": [
+                    {
+                      "narrative_function": "Help",
+                      "illustration": "Sophia (Guardian) trägt Help im OS.",
+                      "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); session proposal from her domain (Wissen, Synthese)."
+                    },
+                    {
+                      "narrative_function": "Conscience",
+                      "illustration": "Sophia (Guardian) trägt Conscience im OS.",
+                      "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); session proposal from her domain (Wissen, Synthese)."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_logos",
+                  "name": "LogOS (Guardian)",
+                  "role": "Sidekick",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Sidekick; im OS: Support, Faith",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); session proposal from his domain (Struktur, Regeln).",
+                  "motivations": [
+                    {
+                      "narrative_function": "Support",
+                      "illustration": "LogOS (Guardian) trägt Support im OS.",
+                      "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); session proposal from his domain (Struktur, Regeln)."
+                    },
+                    {
+                      "narrative_function": "Faith",
+                      "illustration": "LogOS (Guardian) trägt Faith im OS.",
+                      "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); session proposal from his domain (Struktur, Regeln)."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_kairos",
+                  "name": "Kairos (Guardian)",
+                  "role": "Skeptic",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Skeptic; im OS: Oppose, Disbelief",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); session proposal from his domain (das Unvorhersehbare).",
+                  "motivations": [
+                    {
+                      "narrative_function": "Oppose",
+                      "illustration": "Kairos (Guardian) trägt Oppose im OS.",
+                      "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); session proposal from his domain (das Unvorhersehbare)."
+                    },
+                    {
+                      "narrative_function": "Disbelief",
+                      "illustration": "Kairos (Guardian) trägt Disbelief im OS.",
+                      "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31); session proposal from his domain (das Unvorhersehbare)."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_cerberus",
+                  "name": "Cerberus (Guardian)",
+                  "role": "no archetype — border and tool",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "no archetype — border and tool; im OS: ",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting B-2 (2026-10-05, step 31).",
+                  "motivations": [],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
                     }
                   ]
                 }
