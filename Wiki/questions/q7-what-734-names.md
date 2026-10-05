@@ -137,3 +137,11 @@ Where it stands in the record's own terms: it names 734 a component and does not
 Kap 2: „Controlled-Fragmentation-Protocol gegen Host \#734“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L164] Kap 25: „Fragment T-734“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L270] Foreshadowing level 3 calls the number among „Strukturelle Markierungen (sichtbar nur retrospektiv)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358]
 
 Stands: three uses, no definition.
+
+## 2026-10-05 — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report
+
+**The editor's report proposes `Einheit 734` as a recurring faceless antagonist and the plot document's Table 4 names it as [[aegis|AEGIS]] units in Kap 5.**
+
+In its advice the report writes that „sollte als wiederkehrender, gesichtsloser Antagonist auftreten, der die eskalierende Macht von AEGIS verkörpert“ ^[scifi-roman-mit-ki-schreiben.md:L245] (L245), the report's own proposal. Table 4, reproduced from the plot document, lists for chapter 5 „Konflikt: Kael vs. AEGIS (Einheit 734), Kael vs. Argus“ ^[scifi-roman-mit-ki-schreiben.md:L278] (L278), and Table 3 has a column `Einheit 734` (L254). The words `Einheit 734` ^[scifi-roman-mit-ki-schreiben.md:#3] stand on those three lines only. Here the number labels units of AEGIS, a third sense beside the component and Kael's designation; the document does not say how it relates to them.
+
+In the record's terms this is a further use of 734, open: the question what the number names stays open.
