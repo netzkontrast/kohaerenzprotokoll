@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -47,6 +47,14 @@ Title: „Der Glitching Market“ ^[roman-outline-system-kael.md:L145]
 Position: Teil III, KW3
 
 - Story: fleeing KW2, Kael reaches the Glitching Market, „einen Ort des Misstrauens, des Schwarzhandels mit korrumpierten Informationen und der Paranoia“ ^[roman-outline-system-kael.md:L145].
+
+## Reading — `outline`, 2025-07-30, the outline — Der erste innere Rat
+
+Title: „Der erste innere Rat“ ^[outline.md:L54] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „Funktionale Multiplizität ist noch nicht erreicht“ ^[outline.md:L56]
+- Focus: under `Fokus`, „Das Pacing ist dialoggetrieben“ ^[outline.md:L57]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
