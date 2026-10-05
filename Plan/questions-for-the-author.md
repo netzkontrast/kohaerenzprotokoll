@@ -438,6 +438,11 @@ the author wants them (*Questions for the author*).
   an AEGIS construct who gaslights Kael in a therapy session in Kap 8, scene 1.6 (L1369–L1376). Is Dr. Aris Thorne Lex, a
   construct of AEGIS, or not in the book?
 
+- **Document 97, `2-kohaerenz-protokoll-konzeptentwicklung`, the concept development of 2025-05-03 (C17):** it writes System
+  Kael as „einer Protagonistin" (L9) and as `sie` through its chapter blocks (L235), as do three outlines of the same day
+  (documents 88, 91, 92); before and after them Kael is male, and the codex of 2025-11-03 resolves *Protagonist Identity* as
+  „the male host" (L43). Kael is male in your figure card of 2026-10-05 — may C17 record that as its resolution?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*

@@ -2,7 +2,7 @@
   "built": "2026-10-05",
   "by": "scripts/wiki_index.py",
   "pages": 106,
-  "conflicts": 16,
+  "conflicts": 17,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -43,10 +43,15 @@
         "kohaerenzprotokoll-aegis-und-systementropie",
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"
       ],
-      "sources": 8,
-      "readings": 6,
+      "sources": 13,
+      "readings": 11,
       "conflict": "none"
     },
     "aegis": {
@@ -123,10 +128,35 @@
         "optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "outline-2",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "leserzentrierte-roman-outline-generierung-kohaeren",
+        "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+        "outline-3",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 64,
-      "readings": 64,
+      "sources": 89,
+      "readings": 89,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -162,10 +192,27 @@
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "scifi-roman-mit-ki-schreiben",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 44,
+      "readings": 44,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -209,10 +256,21 @@
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 35,
-      "readings": 35,
+      "sources": 46,
+      "readings": 46,
       "conflict": "none"
     },
     "alters": {
@@ -267,10 +325,25 @@
         "flow-zustaende-und-dissoziative-identitaet",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "hard-sci-fi-cosmic-horror-research-questions",
-        "plotanalyse-kohaerenz-protokoll-szenario"
+        "plotanalyse-kohaerenz-protokoll-szenario",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "romanstruktur-und-philosophische-einleitung",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 46,
-      "readings": 45,
+      "sources": 61,
+      "readings": 60,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -349,10 +422,27 @@
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "scifi-roman-mit-ki-schreiben",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "leserzentrierte-roman-outline-generierung-kohaeren",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 44,
+      "readings": 44,
       "conflict": "none"
     },
     "ars": {
@@ -428,10 +518,13 @@
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-philosophischer-bericht-md",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "charaktere"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "cerberus": {
@@ -463,10 +556,27 @@
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 40,
+      "readings": 40,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -489,10 +599,12 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
         "kohaerenz-protokoll-audit-und-verifizierung",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2"
       ],
-      "sources": 14,
-      "readings": 13,
+      "sources": 16,
+      "readings": 15,
       "conflict": "none yet"
     },
     "coheron": {
@@ -525,10 +637,11 @@
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "ki-narrative-kollaps-kohaerenz-paradoxie",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 25,
+      "readings": 25,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -577,10 +690,15 @@
         "kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "hard-sci-fi-cosmic-horror-research-questions",
-        "plotanalyse-kohaerenz-protokoll-szenario"
+        "plotanalyse-kohaerenz-protokoll-szenario",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse"
       ],
-      "sources": 19,
-      "readings": 19,
+      "sources": 24,
+      "readings": 24,
       "conflict": "none yet"
     },
     "dkt": {
@@ -619,10 +737,20 @@
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 30,
-      "readings": 30,
+      "sources": 40,
+      "readings": 40,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -679,10 +807,18 @@
         "kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "plotanalyse-kohaerenz-protokoll-szenario"
+        "plotanalyse-kohaerenz-protokoll-szenario",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "charaktere"
       ],
-      "sources": 19,
-      "readings": 19,
+      "sources": 27,
+      "readings": 27,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -772,10 +908,29 @@
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
         "plotanalyse-kohaerenz-protokoll-szenario",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 40,
-      "readings": 40,
+      "sources": 59,
+      "readings": 59,
       "conflict": "C2"
     },
     "erason": {
@@ -846,10 +1001,21 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
-        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"
+        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 28,
+      "readings": 28,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -971,10 +1137,27 @@
         "optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "kontext-outline",
+        "outline-2",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 40,
-      "readings": 39,
+      "sources": 57,
+      "readings": 56,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -1012,10 +1195,17 @@
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "hard-sci-fi-cosmic-horror-research-questions",
-        "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"
+        "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 29,
-      "readings": 27,
+      "sources": 36,
+      "readings": 34,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -1036,10 +1226,19 @@
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "aegis-persona-and-manifest-generation"
+        "aegis-persona-and-manifest-generation",
+        "scifi-roman-mit-ki-schreiben",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "roman-outline-system-kael",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 20,
+      "readings": 20,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -1107,10 +1306,28 @@
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "outline-2",
+        "leserzentrierte-roman-outline-generierung-kohaeren",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 42,
-      "readings": 42,
+      "sources": 60,
+      "readings": 60,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -1151,10 +1368,11 @@
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
         "ki-prompt-analyse-hard-problem-of-consciousness",
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-kapitel-outline-erstellung"
       ],
-      "sources": 32,
-      "readings": 31,
+      "sources": 33,
+      "readings": 32,
       "conflict": "C11"
     },
     "isabelle": {
@@ -1193,10 +1411,22 @@
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 30,
-      "readings": 30,
+      "sources": 42,
+      "readings": 42,
       "conflict": "C15"
     },
     "juna": {
@@ -1257,10 +1487,35 @@
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "hard-sci-fi-cosmic-horror-research-questions",
         "plotanalyse-kohaerenz-protokoll-szenario",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "outline-2",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "leserzentrierte-roman-outline-generierung-kohaeren",
+        "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+        "outline-3",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 51,
-      "readings": 51,
+      "sources": 76,
+      "readings": 76,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1308,10 +1563,11 @@
         "kohaerenzprotokoll-aegis-und-systementropie",
         "kapitel-kompendium-gather-2026-05-31-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+        "romanprojekt-analyse-kohaerenz-protokoll"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none yet"
     },
     "kael": {
@@ -1381,10 +1637,32 @@
         "optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "outline-2",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 82,
+      "readings": 82,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -1441,10 +1719,25 @@
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 19,
-      "readings": 19,
+      "sources": 34,
+      "readings": 34,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -1499,10 +1792,27 @@
         "aegis-persona-and-manifest-generation",
         "plotanalyse-kohaerenz-protokoll-szenario",
         "optimierte-plotline-genesis-der-existenz",
-        "uberarbeitete-optimierte-plotline-genesis-der-existenz"
+        "uberarbeitete-optimierte-plotline-genesis-der-existenz",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 45,
-      "readings": 44,
+      "sources": 62,
+      "readings": 61,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -1546,10 +1856,29 @@
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 35,
-      "readings": 35,
+      "sources": 54,
+      "readings": 54,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -1569,10 +1898,12 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"
+        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "ai-assisted-narrative-coherence"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none yet"
     },
     "kohaerenz-kernel": {
@@ -1607,10 +1938,13 @@
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"
+        "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 25,
-      "readings": 25,
+      "sources": 28,
+      "readings": 28,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -1695,10 +2029,13 @@
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"
+        "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 27,
+      "readings": 27,
       "conflict": "none"
     },
     "komponente-734": {
@@ -1745,10 +2082,19 @@
         "optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "kontext-outline",
+        "outline-2",
+        "leserzentrierte-roman-outline-generierung-kohaeren",
+        "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 38,
-      "readings": 36,
+      "sources": 47,
+      "readings": 45,
       "conflict": "C12, C16"
     },
     "konstrukt-stadt": {
@@ -1790,10 +2136,29 @@
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "roman-outline-system-kael",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 32,
-      "readings": 32,
+      "sources": 51,
+      "readings": 51,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -1834,10 +2199,13 @@
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
         "ki-prompt-analyse-hard-problem-of-consciousness",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung"
       ],
-      "sources": 32,
-      "readings": 32,
+      "sources": 35,
+      "readings": 35,
       "conflict": "C11"
     },
     "lex": {
@@ -1883,10 +2251,30 @@
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 37,
-      "readings": 37,
+      "sources": 57,
+      "readings": 57,
       "conflict": "none"
     },
     "lia": {
@@ -1926,10 +2314,27 @@
         "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-audit-und-verifizierung",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 31,
-      "readings": 31,
+      "sources": 48,
+      "readings": 48,
       "conflict": "C15"
     },
     "logos": {
@@ -1964,10 +2369,29 @@
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 45,
+      "readings": 45,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -2027,10 +2451,30 @@
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 33,
-      "readings": 33,
+      "sources": 53,
+      "readings": 53,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -2065,10 +2509,17 @@
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "aegis-persona-and-manifest-generation"
+        "aegis-persona-and-manifest-generation",
+        "scifi-roman-mit-ki-schreiben",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "roman-outline-system-kael",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 31,
+      "readings": 31,
       "conflict": "C5, C11"
     },
     "moonshine-link": {
@@ -2121,10 +2572,23 @@
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "hard-sci-fi-cosmic-horror-research-questions",
         "plotanalyse-kohaerenz-protokoll-szenario",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 44,
-      "readings": 44,
+      "sources": 57,
+      "readings": 57,
       "conflict": "none"
     },
     "moros": {
@@ -2163,10 +2627,26 @@
         "ontologische-inversion-von-aegis-kritisches-framework",
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 30,
-      "readings": 30,
+      "sources": 46,
+      "readings": 46,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -2191,10 +2671,16 @@
         "kohaerenz-protokoll",
         "ontologische-inversion-von-aegis-kritisches-framework",
         "ki-narrative-kollaps-kohaerenz-paradoxie",
-        "kohaerenz-protokoll-hard-sf-horror-thriller"
+        "kohaerenz-protokoll-hard-sf-horror-thriller",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "roman-entwicklung-kohaerenz-protokoll-json"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 22,
+      "readings": 22,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -2246,10 +2732,29 @@
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 42,
-      "readings": 42,
+      "sources": 61,
+      "readings": 61,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -2263,10 +2768,14 @@
         "kohaerenzprotokoll-aegis-und-systementropie",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "textanalyse-existenz-system-und-leid"
+        "textanalyse-existenz-system-und-leid",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "ai-assisted-narrative-coherence",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2"
       ],
-      "sources": 5,
-      "readings": 4,
+      "sources": 9,
+      "readings": 8,
       "conflict": "none yet"
     },
     "nexus": {
@@ -2285,10 +2794,17 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "kohaerenz-protokoll-philosophischer-bericht-md",
-        "dramatica-storyform-synthese-aegis-analyse-2"
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 17,
+      "readings": 17,
       "conflict": "none"
     },
     "nichts-rauschen": {
@@ -2334,10 +2850,23 @@
         "einleitung-genesis-der-existenz",
         "optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-genesis-der-existenz",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 36,
-      "readings": 36,
+      "sources": 49,
+      "readings": 49,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -2394,10 +2923,30 @@
         "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 35,
-      "readings": 35,
+      "sources": 55,
+      "readings": 55,
       "conflict": "C10"
     },
     "oblivion": {
@@ -2439,10 +2988,17 @@
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2"
       ],
-      "sources": 33,
-      "readings": 33,
+      "sources": 40,
+      "readings": 40,
       "conflict": "C11"
     },
     "ouroboros-struktur": {
@@ -2477,10 +3033,15 @@
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "romanstruktur-und-philosophische-einleitung",
+        "kohaerenz-protokoll-kapitel-outline-erstellung"
       ],
-      "sources": 26,
-      "readings": 25,
+      "sources": 31,
+      "readings": 30,
       "conflict": "none yet"
     },
     "partnerin": {
@@ -2491,10 +3052,13 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "aegis-persona-and-manifest-generation"
+        "aegis-persona-and-manifest-generation",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "outline",
+        "roman-entwicklung-kohaerenz-protokoll-json"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "persistenzgleichung": {
@@ -2571,10 +3135,22 @@
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "einleitung-genesis-der-existenz",
-        "plotanalyse-kohaerenz-protokoll-szenario"
+        "plotanalyse-kohaerenz-protokoll-szenario",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "romanstruktur-und-philosophische-einleitung",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 19,
-      "readings": 20,
+      "sources": 31,
+      "readings": 32,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -2604,10 +3180,15 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
-        "kohaerenz-protokoll-philosophischer-bericht-md"
+        "kohaerenz-protokoll-philosophischer-bericht-md",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 11,
+      "readings": 11,
       "conflict": "none"
     },
     "residual-echos": {
@@ -2652,10 +3233,20 @@
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "aegis-persona-and-manifest-generation"
+        "aegis-persona-and-manifest-generation",
+        "scifi-roman-mit-ki-schreiben",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "roman-outline-system-kael",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 23,
+      "readings": 23,
       "conflict": "C11"
     },
     "rhys": {
@@ -2687,10 +3278,28 @@
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 41,
+      "readings": 41,
       "conflict": "none"
     },
     "risse": {
@@ -2746,10 +3355,30 @@
         "kohaerenz-protokoll-hard-sf-horror-thriller",
         "aegis-persona-and-manifest-generation",
         "plotanalyse-kohaerenz-protokoll-szenario",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "roman-outline-system-kael",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 45,
-      "readings": 45,
+      "sources": 65,
+      "readings": 65,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -2790,10 +3419,14 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "dramatica-storyform-synthese-aegis-analyse-2",
-        "roman-konzept-dualitaet-kohaerenz-spannung"
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "roman-entwicklung-kohaerenz-protokoll-json"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "selene": {
@@ -2830,10 +3463,31 @@
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "ontologische-inversion-von-aegis-kritisches-framework",
         "ki-narrative-kollaps-kohaerenz-paradoxie",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "outline-2",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 49,
+      "readings": 49,
       "conflict": "none"
     },
     "silas": {
@@ -2874,10 +3528,17 @@
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "scifi-roman-mit-ki-schreiben",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2"
       ],
-      "sources": 32,
-      "readings": 32,
+      "sources": 39,
+      "readings": 39,
       "conflict": "C11"
     },
     "snk": {
@@ -2916,10 +3577,25 @@
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "aegis-persona-and-manifest-generation",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "charaktere",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 32,
+      "readings": 32,
       "conflict": "C4, C6"
     },
     "system-monitor": {
@@ -2974,10 +3650,13 @@
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
         "kohaerenz-protokoll-audit-und-verifizierung",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse"
       ],
-      "sources": 31,
-      "readings": 31,
+      "sources": 34,
+      "readings": 34,
       "conflict": "none"
     },
     "therapie-schnittstelle-alpha": {
@@ -3057,10 +3736,18 @@
         "optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "romanstruktur-und-philosophische-einleitung",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 40,
-      "readings": 40,
+      "sources": 48,
+      "readings": 48,
       "conflict": "C12, C16"
     },
     "truth-rotation": {
@@ -3088,10 +3775,14 @@
         "dramatica-storyform-synthese-aegis-analyse",
         "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
         "kohaerenz-protokoll-audit-und-verifizierung",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2"
       ],
-      "sources": 19,
-      "readings": 19,
+      "sources": 23,
+      "readings": 23,
       "conflict": "none yet"
     },
     "tsdp": {
@@ -3133,10 +3824,33 @@
         "ki-narrative-kollaps-kohaerenz-paradoxie",
         "kohaerenz-protokoll-audit-und-verifizierung",
         "kohaerenz-protokoll-hard-sf-horror-thriller",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-projekt-rekonstruktion",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "outline-2",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "leserzentrierte-roman-outline-generierung-kohaeren",
+        "charaktere",
+        "strukturelle-dissoziation-system-kael-analyse",
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
       ],
-      "sources": 33,
-      "readings": 32,
+      "sources": 56,
+      "readings": 55,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -3189,10 +3903,23 @@
         "einleitung-genesis-der-existenz",
         "optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-genesis-der-existenz",
-        "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis"
+        "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
+        "scifi-roman-mit-ki-schreiben",
+        "romanstruktur-und-philosophische-einleitung",
+        "system-kael-konzeptentwicklung-und-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+        "kohaerenz-protokoll-39-kapitel-matrix",
+        "romanprojekt-kohaerenz-protokoll-leitfragen",
+        "romanprojekt-analyse-kohaerenz-protokoll",
+        "ai-assisted-narrative-coherence",
+        "outline",
+        "roman-entwicklung-kohaerenz-protokoll-json",
+        "kontext-outline",
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"
       ],
-      "sources": 29,
-      "readings": 29,
+      "sources": 42,
+      "readings": 42,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
@@ -3206,10 +3933,11 @@
       "ingested": [
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "systems-narrative-analysis-the-coherence-protocol-kanon-2026"
+        "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+        "outline"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "vermittler-stimme": {
@@ -3287,10 +4015,15 @@
         "dramatica-storyform-synthese-aegis-analyse",
         "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
         "kohaerenz-protokoll-audit-und-verifizierung",
-        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"
+        "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+        "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+        "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+        "romanprojekt-kohaerenz-protokoll-analyse",
+        "kohaerenz-protokoll-kapitel-outline-erstellung",
+        "kohaerenz-protokoll-kapitel-outline-generierung-2"
       ],
-      "sources": 30,
-      "readings": 30,
+      "sources": 35,
+      "readings": 35,
       "conflict": "C7, C11, C14"
     },
     "ztv": {
@@ -3535,7 +4268,7 @@
       "pages": [
         "aegis"
       ],
-      "status": "open"
+      "status": "decided — an explicit AEGIS-Ich, by the author, 2026-10-05 (W6 C)"
     },
     "C15": {
       "subject": "the Flight riss — Lia with Isabelle, or with Kiko",
@@ -3554,6 +4287,13 @@
         "aegis",
         "komponente-734",
         "trennungsprotokoll"
+      ],
+      "status": "open"
+    },
+    "C17": {
+      "subject": "Kael's gender — a female protagonist in four plans of 2025-05-03, a male host before and after them",
+      "pages": [
+        "kael"
       ],
       "status": "open"
     },
@@ -3616,14 +4356,14 @@
       "pages": [
         "juna"
       ],
-      "status": "open"
+      "status": "decided — first direct encounter in the present in Akt III (Kap 32), by the author, 2026-10-05 (W9)"
     },
     "C8": {
       "subject": "AEGIS' Approach in Storyform B",
       "pages": [
         "aegis"
       ],
-      "status": "open"
+      "status": "decided — Do-er, by the author, 2026-10-02"
     },
     "C9": {
       "subject": "Konstrukt-Stadt",
