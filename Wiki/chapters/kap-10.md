@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht den Ort des vorherigen 'Risses' (aus Kapitel 7) erneut.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „Die Realität scheint zusammengeflickt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Story: „seltsame Restartefakte oder 'Narbengewebe' im Gewebe der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „spezialisierte 'Wartungsdrohnen' oder Guardian-Subroutinen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Discussion: „AEGIS' Reparaturen möglicherweise nicht perfekt sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L147]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Healing the wound
+
+Title: „Heilung der Wunde“ ^[romanstruktur-und-philosophische-einleitung.md:L95]
+Position: Teil I, „Der Konflikt um Annahme“ ^[romanstruktur-und-philosophische-einleitung.md:L95]
+
+- Story: „Die beginnende Heilung ruft paradoxerweise neuen, heftigen Widerstand hervor.“ ^[romanstruktur-und-philosophische-einleitung.md:L97]
+- Story: „Kael muss als Mediator agieren.“ ^[romanstruktur-und-philosophische-einleitung.md:L99]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
