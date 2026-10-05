@@ -451,3 +451,11 @@ It stands with the record's open count: the same compilation says eleven and tab
 The section on the Kael system says the Struktur-Kanon „spezifiziert ein Profil von 10 funktionalen Anteilen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L41], and the table's columns are „Alter Name“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45], „TSDP-Aktionssystem“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45], „Funktionale Rolle“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45] and „DKT-Korrelat“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45]. The rows (L46–L55) run from Lex to Argus; no row names a Kern-Welt.
 
 Stands as one more table of alters with a one-per-row layout of functional roles; recorded, not applied, and the open question stays open.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report
+
+**The research report counts four Kernwelten, with the Überwelt and the [[externe-ebene|Externe Ebene]] as further levels, and eleven alters.**
+
+It says „streng in vier Kernwelten (KW1 bis KW4) sowie externe Meta-Schichten unterteilt“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L67]; its table lists the Überwelt and the Externe Ebene after them. For the alters: „Das System besteht aus elf hochspezialisierten Anteilen (Alters), die in ständigen, phobischen Vermeidungszyklen voneinander isoliert operieren.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L85]
+
+Stands: four Kernwelten plus two levels, and eleven alters, recorded as this report's counts (L67, L85).
