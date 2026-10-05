@@ -1,0 +1,14 @@
+# einleitung-genesis-der-existenz
+  lines                198  (frontmatter ends at 9)
+  body words           5222
+  headings             4   bold-only lines 14
+  table rows           0   code fences 0
+  question marks       28
+  backslash escapes    22
+  typographic marks    64   ascii quotes 31
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    22
+  repeated labels      none
+  longest line         1100 chars
+

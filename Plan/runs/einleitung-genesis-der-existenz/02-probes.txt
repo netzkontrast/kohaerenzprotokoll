@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      22
+  backslash escapes      22
+  typographic marks      64
+  ascii quotes           31
+
+# inflection families -- one term, several surfaces
+  syste    System, Systematisiert, Systematisierung, Systemfehler, Systemischer, Systemkollaps, Systemrauschen, Systems, Systemwarnungen
+  daten    Daten, Datenflüssen, Datenkorruption, Datenpakete, Datenpunkt, Datenpunkte, Datenströme, Datenverarbeitungszentren
+  infor    Information, Informationen, Informationsflüsse, Informationsfragments, Informationsmuster, Informationssignatur
+  selbs    Selbst, Selbsterlebens, Selbstorganisation, Selbstreparatur, Selbstverstärkung, Selbstverteidigung
+  abweh    Abwehr, Abwehren, Abwehrmechanismen, Abwehrreaktion, Abwehrversuche
+  fragm    Fragment, Fragmente, Fragmenten, Fragmentierung, Fragments
+  kontr    Kontrast, Kontrolle, Kontrollmaßnahmen, Kontrollmechanismen, Kontrollverlust
+  reson    Resonanz, Resonanzeigenschaften, Resonanzen, Resonanzkaskade, Resonanzmuster
+  funkt    Funktion, Funktionalität, Funktionseinheit, Funktionsweise
+  grund    Grund, Grundlage, Grundrauschen, Grundzustand
+  inner    Innere, Inneren, Innerhalb, Innersten
+  kommu    Kommunikation, Kommunikationskanäle, Kommunikationspfade, Kommunikationswege
+  struk    Struktur, Strukturanpassung, Strukturen, Strukturinformation
+  vorhe    Vorhersagbarkeit, Vorhersage, Vorhersagealgorithmen, Vorhersagemodelle
+  algor    Algorithmen, Algorithmischer, Algorithmus
+  angri    Angriff, Angriffe, Angriffs
+  bedro    Bedrohung, Bedrohungen, Bedrohungsvektoren
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsfragments
+  energ    Energie, Energieprofile, Energiequelle
+  entsc    Entscheidung, Entscheidungen, Entscheidungsprozess
+  erinn    Erinnerung, Erinnerungen, Erinnerungsfragmente
+  gesam    Gesamtprozess, Gesamtstruktur, Gesamtsystem
+  gesch    Gescheiterter, Geschichte, Geschlossenheit
+  grenz    Grenze, Grenzen, Grenzwacht
+  inter    Interaktion, Interaktionen, Interpretation
+
+# substring pairs -- never one term, often merged by accident
+  Code < Codes
+  Echo < Echos
+  Echo < Echoschrei
+  Eine < Einen
+  Eine < Keine
+  Eine < Meine
+  Eine < Seine
+  Eine < Kleine
+  Eine < Bausteine
+  Feld < Feldes
+  Feld < Feldern
+  Feld < Kohärenzfeld
+  Form < Information
+  Form < Formlosigkeit
+  Form < Informationen
+  Form < Desinformation
+  Form < Informationsflüsse
+  Form < Informationsmuster
+  Form < Strukturinformation
+  Form < Informationssignatur
