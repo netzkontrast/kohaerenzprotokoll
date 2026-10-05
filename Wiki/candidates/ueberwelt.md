@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 31
-readings: 31
+sources: 32
+readings: 32
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -56,6 +56,10 @@ Version 3 keeps scene 7, whose goal is „Simulationsebene als Werkzeug der Opti
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the chaotic Überwelt of the Guardians in Kap 10–13
 
 In its assessment of Kap 10–13 the report writes of the finale: „Eintritt in die chaotische Überwelt der Guardians“ ^[scifi-roman-mit-ki-schreiben.md:L222] — read there as the freedom to live; the report says nothing more of it.
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — AEGIS's primary instrument, the Labor der Kohärenz, as externalised mind
+
+The synthesis (glued `1`) says the Digitale Überwelt „ist nicht nur ein Schauplatz, sondern das primäre Instrument von AEGIS' Selbsterhaltung“ ^[system-kael-konzeptentwicklung-und-analyse.md:L46], the „Labor der Kohärenz“ ^[system-kael-konzeptentwicklung-und-analyse.md:L46], and it describes it as „ein rein informationsbasierter Raum“ ^[system-kael-konzeptentwicklung-und-analyse.md:L46] Its own interpretation of the structure: it „lässt sich als Externalisierung der kognitiven Funktionen eines traumatisierten Geistes interpretieren“ ^[system-kael-konzeptentwicklung-und-analyse.md:L56]
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the Überwelt as a simulation inside closure, with Spencer-Brown and Baudrillard as lenses
 
