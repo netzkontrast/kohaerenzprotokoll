@@ -1,0 +1,351 @@
+{
+  "document": "monstergruppe-primzahlen-plot-blueprint",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "7568a45176f46312e97beff16912f1672fd6d881d6cbf81f6a85a2dac52b8def",
+  "calls": 66,
+  "failed_calls": 0,
+  "seconds": 444.1,
+  "input_tokens": 277173,
+  "output_tokens": 39052,
+  "cost_usd": 1.1491,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1473,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1683,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1454,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1342,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 2021,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 37,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 2034,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1958,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 183,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 2034,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 39,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1906,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 199,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 34,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1910,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 150,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 35,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1536,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1246,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 35,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1856,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 191,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 49,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 2012,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 126,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1951,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 1819,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 1825,
+      "ok": true
+    },
+    {
+      "chunk": 29,
+      "characters": 520,
+      "ok": true
+    },
+    {
+      "chunk": 30,
+      "characters": 1524,
+      "ok": true
+    },
+    {
+      "chunk": 31,
+      "characters": 950,
+      "ok": true
+    },
+    {
+      "chunk": 32,
+      "characters": 33,
+      "ok": true
+    },
+    {
+      "chunk": 33,
+      "characters": 1900,
+      "ok": true
+    },
+    {
+      "chunk": 34,
+      "characters": 145,
+      "ok": true
+    },
+    {
+      "chunk": 35,
+      "characters": 1881,
+      "ok": true
+    },
+    {
+      "chunk": 36,
+      "characters": 1886,
+      "ok": true
+    },
+    {
+      "chunk": 37,
+      "characters": 272,
+      "ok": true
+    },
+    {
+      "chunk": 38,
+      "characters": 1908,
+      "ok": true
+    },
+    {
+      "chunk": 39,
+      "characters": 2010,
+      "ok": true
+    },
+    {
+      "chunk": 40,
+      "characters": 1325,
+      "ok": true
+    },
+    {
+      "chunk": 41,
+      "characters": 991,
+      "ok": true
+    },
+    {
+      "chunk": 42,
+      "characters": 1728,
+      "ok": true
+    },
+    {
+      "chunk": 43,
+      "characters": 1752,
+      "ok": true
+    },
+    {
+      "chunk": 44,
+      "characters": 1761,
+      "ok": true
+    },
+    {
+      "chunk": 45,
+      "characters": 1530,
+      "ok": true
+    },
+    {
+      "chunk": 46,
+      "characters": 1061,
+      "ok": true
+    },
+    {
+      "chunk": 47,
+      "characters": 1833,
+      "ok": true
+    },
+    {
+      "chunk": 48,
+      "characters": 1750,
+      "ok": true
+    },
+    {
+      "chunk": 49,
+      "characters": 1556,
+      "ok": true
+    },
+    {
+      "chunk": 50,
+      "characters": 1685,
+      "ok": true
+    },
+    {
+      "chunk": 51,
+      "characters": 1765,
+      "ok": true
+    },
+    {
+      "chunk": 52,
+      "characters": 1898,
+      "ok": true
+    },
+    {
+      "chunk": 53,
+      "characters": 1542,
+      "ok": true
+    },
+    {
+      "chunk": 54,
+      "characters": 1119,
+      "ok": true
+    },
+    {
+      "chunk": 55,
+      "characters": 1116,
+      "ok": true
+    },
+    {
+      "chunk": 56,
+      "characters": 2004,
+      "ok": true
+    },
+    {
+      "chunk": 57,
+      "characters": 1227,
+      "ok": true
+    },
+    {
+      "chunk": 58,
+      "characters": 1982,
+      "ok": true
+    },
+    {
+      "chunk": 59,
+      "characters": 2040,
+      "ok": true
+    },
+    {
+      "chunk": 60,
+      "characters": 1901,
+      "ok": true
+    },
+    {
+      "chunk": 61,
+      "characters": 1984,
+      "ok": true
+    },
+    {
+      "chunk": 62,
+      "characters": 2030,
+      "ok": true
+    },
+    {
+      "chunk": 63,
+      "characters": 1958,
+      "ok": true
+    },
+    {
+      "chunk": 64,
+      "characters": 1983,
+      "ok": true
+    },
+    {
+      "chunk": 65,
+      "characters": 1961,
+      "ok": true
+    }
+  ]
+}

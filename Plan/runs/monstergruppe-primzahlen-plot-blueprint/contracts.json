@@ -1,0 +1,35 @@
+{
+ "source": "monstergruppe-primzahlen-plot-blueprint",
+ "runs": [
+  {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 66,
+   "failed_calls": 0,
+   "chunks": 66,
+   "failed_chunks": 0,
+   "cost_usd": 1.1491,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "7568a45176f46312e97beff16912f1672fd6d881d6cbf81f6a85a2dac52b8def",
+   "rows": 110,
+   "candidates": 103,
+   "refused": {
+    "surface absent from document": 6
+   },
+   "duplicates": 1,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "theorie-mathematik"
+  }
+ ]
+}
