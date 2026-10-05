@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,14 @@ Position: Teil II; setting from the `Schauplatz` field: „Rekursive Honeypot-Sc
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, Kairos“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L225]
 - Story: the blueprint plans, in `Plot-Beats`, „AEGIS sperrt Kael in eine perfekt symmetrische Umgebung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L227] and „bricht Kael die Schleife durch eine völlig absurde, unlogische (emergente) Handlung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L227]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — AEGIS' Genesis-Log
+
+Title: „AEGIS' Genesis-Log“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L265] — heading „Die Tragödie der Maschine“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L266]
+Position: Teil II; POV from `Perspektive & Stimme`: „AEGIS (Interlude / Gefundenes Dokument) – streng logisch, aber auf feine Art verzweifelt“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L267]; place from `Ort`: „Außerhalb der Raumzeit (Datenarchiv)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L269]
+
+- Story: the matrix plans „Das Kapitel ist ein reiner Log-File“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271]
+- Question: „Kann ein Programm unter seinem eigenen Befehlscode leiden?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L270]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
