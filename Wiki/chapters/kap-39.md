@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 27
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 28
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C12", "C10"]
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,14 @@ Position: „(Das finale Kapitel)“ ^[kohaerenz-protokoll-meta-foreshadowing-be
 - Plot beats: „In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet.“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L48] „Die Sätze werden kürzer, die Ränder der Seite werden dunkel.“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L48] „Er weiß: Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen.“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L48]
 - The shock: „Kael bittet den Leser nicht darum, weiterzulesen, sondern akzeptiert sein Schicksal als“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L49] „Gedanke eines Fremden“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L49]
 - Framing: „Das Zuklappen des Buches wird als der“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L46] „Wärmetod des Universums“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L46] (Entropie) geframt.
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das Mosaik-Herz
+
+Title: „Das Mosaik-Herz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L485] — heading „Die Letzte Instanz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L486]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael (bricht die Vierte Wand)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L487]; place from `Ort`: „Meta-Ebene (Das Buch selbst)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L489]
+
+- Story: the matrix plans „Die Erzählung wendet sich direkt an den Leser“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L491]
+- Question: „Wer beobachtet das System jetzt?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L490]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
