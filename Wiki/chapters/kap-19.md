@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -47,6 +47,13 @@ Title: the commission titles the chapter „Das Flüstern von Außen: Erster Kon
 - Theme: the commission's `Core Theme` is „Das Mysterium der Externen Ebene; Hoffnung oder neue Gefahr?“ ^[kontext-outline.md:L281]
 - Story: its `Plot Summary` plans „erster bewusster, fragmentarischer Kontakt zu Juna/V“ ^[kontext-outline.md:L282]
 - Foci: `Kael Sys Focus` „Reaktion auf das Fremde; Hoffnung vs. Angst“ ^[kontext-outline.md:L283]; `AEGIS Focus` „Alarmiert durch externen Kontakt“ ^[kontext-outline.md:L284]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Das Flüstern von Außen: Erster Kontakt mit Juna/V`
+
+Focus: `Das externe Mysterium`, „Der erste bewusste, wenn auch fragmentarische, Kontakt mit der externen Entität Juna/V“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L179]
+
+- Story: „Ist Juna/V eine Hilfe, eine weitere Täuschung oder etwas völlig Fremdes?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L180]
+- Concept: „Für AEGIS stellt Juna/V eine existenzielle Bedrohung dar“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L181] (concept tag: `Simulation Hypothesis` and the `Problem des Anderen`)
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

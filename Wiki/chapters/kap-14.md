@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,13 @@ Title: the commission titles the chapter „Die Grammatik der Kontrolle: Eintrit
 - Theme: the commission's `Core Theme` is „Systemanalyse beginnen“ ^[kontext-outline.md:L225]
 - Story: its `Plot Summary` plans „beginnt systematische Untersuchung AEGIS' Meta-Ebene“ ^[kontext-outline.md:L226]
 - Foci: `Kael Sys Focus` „Lex/Argus dominant“ ^[kontext-outline.md:L227]; `AEGIS Focus` „Überwelt als Kontrollzentrum“ ^[kontext-outline.md:L228]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Die Grammatik der Kontrolle: Eintritt in die Meta-Ebene (Überwelt)`
+
+Focus: `Systemanalyse`, „Der Beginn der systematischen Untersuchung von AEGIS' Kontrollmechanismen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L144]
+
+- Story: „dringt in die abstrakte, datenbasierte Überwelt von AEGIS ein“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L145]
+- Concept: „Kybernetik erster Ordnung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L146] (concept tag: first-order cybernetics)
 
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — `Phase 1: Der Bruch`, the start of a cycle
 

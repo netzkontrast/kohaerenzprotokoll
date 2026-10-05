@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,13 @@ Title: the commission titles the chapter „Stimmen der Fürsorge“ ^[kontext-o
 - Theme: the commission's `Core Theme` is „Der Versuch der internen Vermittlung“ ^[kontext-outline.md:L111]
 - Story: its `Plot Summary` plans „Rhys (Fürsorger) aktiv, versucht zu vermitteln/stabilisieren“ ^[kontext-outline.md:L112]
 - Foci: `Kael Sys Focus` „Erster Kontaktversuch EPs?“ ^[kontext-outline.md:L113]; `AEGIS Focus` „Identifiziert/manipuliert evtl. Empathie als Schwachstelle“ ^[kontext-outline.md:L114]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Interne Vermittlung`
+
+Focus: `Interne Vermittlung`, „Der Versuch des Fürsorger-Anteils (Rhys), interne Konflikte zu moderieren“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L74]
+
+- Story: „Ein erster, vorsichtiger Kontaktversuch zu EPs könnte dargestellt werden“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L75]
+- Concept: „Sein Versuch, zwischen ANPs zu vermitteln und Kontakt zu EPs herzustellen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L76] (concept tag: `Phase 1 der TSDP-Behandlung (Stabilisierung)`)
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Ruf der Tiefe
 

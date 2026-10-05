@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -47,6 +47,13 @@ Title: the commission titles the chapter „Der Ruf der Resonanz-Landschaft“ ^
 - Theme: the commission's `Core Theme` is „Konfrontation mit unterdrückter Emotionalität“ ^[kontext-outline.md:L122]
 - Story: its `Plot Summary` plans „Systemfehler/EP-Intrusion wirft Kael“ ^[kontext-outline.md:L123]
 - Foci: `Kael Sys Focus` „Übergang nach“ ^[kontext-outline.md:L124]; `AEGIS Focus` „KW2 als Emotionsanalyse/-kontrollwerkzeug“ ^[kontext-outline.md:L125]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Konfrontation mit Emotionalität`
+
+Focus: `Konfrontation mit Emotionalität`, „die erste direkte, schmerzhafte Begegnung mit unterdrückten Emotionen und Erinnerungsfragmenten“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L81]
+
+- Story: „Ein Systemfehler oder eine EP-Intrusion katapultiert Kael nach“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L82]; „Angst - Kiko?, Trauer - Moros?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L82]
+- Concept: „symbolisiert den Kontakt mit den“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L83] (concept tag: the `Emotional Parts (EPs)`)
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Schwelle und der Wächter
 

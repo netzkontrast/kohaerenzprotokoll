@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 37
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 38
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,13 @@ Title: the commission titles the chapter „Das Echo der Stille: Auflösung des 
 - Story: its `Plot Summary` plans „Leere, Erschöpfung, potenziell Befreiung“ ^[kontext-outline.md:L471]
 - Foci: `Kael Sys Focus` „Gefühl Befreiung/Unsicherheit“ ^[kontext-outline.md:L472]; `AEGIS Focus` „Zerstört? Transformiert? Irrelevant?“ ^[kontext-outline.md:L473]
 - Notes: „The Quiet After the Storm“ ^[kontext-outline.md:L475]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Der Zustand danach`
+
+Focus: `Der Zustand danach`, „ohne AEGIS' dominante Kontrolle“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L298]
+
+- Story: „Die unmittelbare Zeit nach dem Klimax“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L299]
+- Concept: „Beginn der Falling Action“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L300] (concept tag: `Falling Action`)
 
 ## Reading — `outline`, 2025-07-30, the outline — Die Nachbeben: Eine veränderte Realität / Der Tanz der Anteile
 

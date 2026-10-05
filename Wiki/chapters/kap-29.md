@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,13 @@ Title: the commission titles the chapter „Das Paradox der Toleranz: Ethisches 
 - Story: its `Plot Summary` plans „AEGIS stellt Kael nach Sieg über LogOS vor ethisches Dilemma/paradoxe Wahl“ ^[kontext-outline.md:L394]
 - Foci: `Kael Sys Focus` „Selene als ethischer Kompass?“ ^[kontext-outline.md:L395]; `AEGIS Focus` „Stellt Kael vor schwierige Wahl; Versuch moralischer Kompromittierung“ ^[kontext-outline.md:L396]
 - Notes: „Paradox der Toleranz (Popper)“ ^[kontext-outline.md:L399]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Ethische Grenzüberschreitung?`
+
+Focus: `Ethische Grenzüberschreitung?`, „Die Konfrontation mit dem Paradox der Toleranz“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L249]
+
+- Story: „Zerstörung von AEGIS vs. riskante Transformation?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L250]
+- Concept: „Direkte Anwendung des Paradox of Tolerance von Karl Popper“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L251] (concept tag: `Paradox of Tolerance`)
 
 ## Reading — `outline`, 2025-07-30, the outline — Das Herz des Systems: AEGIS' Kernlogik offenbart / Die Versuchung der Ordnung
 

@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,13 @@ Title: the commission titles the chapter „Die Logik des Gaslichts“ ^[kontext
 - Theme: the commission's `Core Theme` is „AEGIS' subtile Manipulation der Wahrnehmung“ ^[kontext-outline.md:L155]
 - Story: its `Plot Summary` plans „stellt Wahrnehmung in Frage, deutet Erfahrungen um“ ^[kontext-outline.md:L156]
 - Foci: `Kael Sys Focus` „Verwirrung, Selbstzweifel; Rationalisierung scheitert“ ^[kontext-outline.md:L157]; `AEGIS Focus` „Aktives Gaslighting; Wahrheitsmanipulation“ ^[kontext-outline.md:L158]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Die Logik des Gaslichts`
+
+Focus: `Wahrnehmungsmanipulation`, „AEGIS' gezielter Einsatz von Gaslighting“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L102]
+
+- Story: „Kael (möglicherweise Lex dominant, versucht verzweifelt Ordnung zu schaffen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L103]; „wird von AEGIS (LogOS?) subtil manipuliert“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L103]
+- Concept: „AEGIS erzeugt aktiv Inkohärenz (durch Täuschung), um scheinbare Kohärenz (Kontrolle) zu erzwingen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L104] (concept tag: the `AEGIS-Paradoxon`)
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Mauern der Logik
 

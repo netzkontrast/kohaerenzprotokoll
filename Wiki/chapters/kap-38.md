@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,13 @@ Title: the commission titles the chapter „Der Moment der Veränderung: Konkret
 - Story: its `Plot Summary` plans „Wie lebt Kael mit funktionaler Multiplizität?“ ^[kontext-outline.md:L492]
 - Foci: `Kael Sys Focus` „Erleben integrierten Zustands“ ^[kontext-outline.md:L493]
 - Notes: „Denouement; A New Beginning, The World After“ ^[kontext-outline.md:L495]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Der Moment der Veränderung: Konkretisierung des neuen Zustands`
+
+Focus: `Gelebte Integration`, „funktionaler Multiplizität und ohne die alte Kontrolle“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L312]
+
+- Story: „Wie lebt Kael nun mit ihrer funktionalen Multiplizität“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L313]
+- Concept: „Konkrete Darstellung des Zustands der“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L314] (concept tag: `funktionale Multiplizität`, TSDP)
 
 ## Reading — `outline`, 2025-07-30, the outline — Neue Entscheidungen: Die Bürde der Freiheit / Die transzendierte Realität / Teilen des Segens
 

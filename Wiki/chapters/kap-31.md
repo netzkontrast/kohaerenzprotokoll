@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,13 @@ Title: the commission titles the chapter „Die Fesseln sprengen: Durchbrechen d
 - Story: its `Plot Summary` plans „Kael dringt in Cerberus' Domäne (KW“ ^[kontext-outline.md:L416]
 - Foci: `Kael Sys Focus` „Kooperation Angst-, Wut-, Schutz-Anteile“ ^[kontext-outline.md:L417]; `AEGIS Focus` „Cerberus als letzte Verteidigung; Verzweifelter Versuch Kael aufzuhalten“ ^[kontext-outline.md:L418]
 - Notes: „The Final Gate“ ^[kontext-outline.md:L421]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Die Fesseln sprengen: Durchbrechen der letzten Verteidigung (Cerberus)`
+
+Focus: `Überwindung der Angst`, „Der finale Durchbruch durch AEGIS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L263]
+
+- Story: „Kael dringt in Cerberus“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L264]
+- Concept: „Cerberus repräsentiert die letzte Bastion“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L265] (concept tag: TSDP integration, `Verteidigungs-Action-Systems`)
 
 ## Reading — `outline`, 2025-07-30, the outline — Junas Hand: Die externe Intervention / Die Wächter des Fundaments / Konfrontation mit dem Quellcode
 

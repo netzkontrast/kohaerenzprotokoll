@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,13 @@ Title: the commission titles the chapter „Der Preis der Wahrheit: Interne Konf
 - Story: its `Plot Summary` plans „Stößt auf Widerstand bei Anteilen (Angst? Kontrollwunsch? Misstrauen?)“ ^[kontext-outline.md:L305]
 - Foci: `Kael Sys Focus` „Selene/Rhys als Integrationsförderer“ ^[kontext-outline.md:L306]; `AEGIS Focus` „Beobachtet interne Dissonanz, versucht Nutzung“ ^[kontext-outline.md:L307]
 - Notes: „The Reluctant Hero (Anteile)“ ^[kontext-outline.md:L311]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Der Preis der Wahrheit: Interne Konflikte bei der Integration neuen Wissens`
+
+Focus: `Integrationswiderstand`, „neues, potenziell destabilisierendes Wissen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L193]
+
+- Story: „Rhys und/oder die sich entwickelnde Selene müssen vermitteln“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L194]
+- Concept: „Im TSDP-Kontext“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L195] (concept tag: `kognitive Dissonanz`, TSDP phase 2/3)
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

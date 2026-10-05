@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,13 @@ Title: the commission titles the chapter „Echos in der Konstrukt-Stadt“ ^[ko
 - Theme: the commission's `Core Theme` is „Die Suche nach Mustern in der sterilen Ordnung“ ^[kontext-outline.md:L89]
 - Story: its `Plot Summary` plans „Erste Konfrontation mit AEGIS-Logik“ ^[kontext-outline.md:L90]
 - Foci: `Kael Sys Focus` „Lex aktiver (rationaler Kontrollversuch)“ ^[kontext-outline.md:L91]; `AEGIS Focus` „LogOS repräsentiert rigide Logik“ ^[kontext-outline.md:L92]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Grenzen der Ratio`
+
+Focus: `Grenzen der Ratio`, „Der Versuch, ein inhärent paradoxes System“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L60]
+
+- Story: „Verlagerung des Fokus auf Kaels analytischen Anteil (Lex)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61]; „ersten direkten, wenn auch subtilen, Konfrontationen mit Guardian LogOS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61]
+- Concept: „Die Konfrontation mit LogOS zeigt AEGIS' rigide, aber potenziell fehlerhafte Logik“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L62] (concept tag: the `AEGIS-Paradoxon`)
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Logik der Risse
 

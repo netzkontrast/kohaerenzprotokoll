@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,13 @@ Title: the commission titles the chapter „Die Logik brechen: Konfrontation mit
 - Story: its `Plot Summary` plans „Sieg über LogOS destabilisiert AEGIS“ ^[kontext-outline.md:L383]
 - Foci: `Kael Sys Focus` „Lex/Argus führen logischen Kampf; andere Anteile unterstützen“ ^[kontext-outline.md:L384]; `AEGIS Focus` „LogOS als Verteidiger Kernlogik; Paradoxon als Waffe gegen ihn“ ^[kontext-outline.md:L385]
 - Notes: „Paradoxien, Grenzen formaler Logik (Gödel)“ ^[kontext-outline.md:L388]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Meta-Logik vs. Rigide Logik`
+
+Focus: `Meta-Logik vs. Rigide Logik`, „durch die Konfrontation mit dessen Verkörperung, LogOS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L242]
+
+- Story: „um LogOS' eigene rigide Logik gegen ihn zu wenden“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L243]
+- Concept: „Nutzt Erkenntnisse über die“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L244] (concept tag: `Gödel` analogies, `Logic Bomb`)
 
 ## Reading — `outline`, 2025-07-30, the outline — AEGIS' letzte Verteidigung: Cerberus' Labyrinth / Der Algorithmus der Seele
 

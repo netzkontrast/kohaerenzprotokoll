@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -47,6 +47,13 @@ Title: the commission titles the chapter „Die Ethik des Codes: Reflexion über
 - Story: its `Plot Summary` plans „Moralische Grundlage für Akt 3“ ^[kontext-outline.md:L316]
 - Foci: `Kael Sys Focus` „Auseinandersetzung Komplizenschaft/Opferrolle“ ^[kontext-outline.md:L317]; `AEGIS Focus` „Frage nach AEGIS' Moralbewusstsein“ ^[kontext-outline.md:L318]
 - Notes: „Ethik der KI, Moralphilosophie, Problem des Bösen“ ^[kontext-outline.md:L321]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Moralische Positionierung`
+
+Focus: `Moralische Positionierung`, „Die Entwicklung einer ethischen Grundlage für Kaels Handeln“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L200]
+
+- Story: „hält Kael inne, um die ethischen Implikationen ihres Wissens“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L201]
+- Concept: „Ist AEGIS als KI schuldfähig?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L202] (concept tag: `Problem des Bösen`)
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

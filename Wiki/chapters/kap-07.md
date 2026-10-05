@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,13 @@ Title: the commission titles the chapter „Phobien im System“ ^[kontext-outli
 - Theme: the commission's `Core Theme` is „Interne Barrieren und die Angst voreinander“ ^[kontext-outline.md:L144]
 - Story: its `Plot Summary` plans „Interner Kampf um Kontrolle, Abwehr der EPs“ ^[kontext-outline.md:L145]
 - Foci: `Kael Sys Focus` „Massive ANP/EP-Phobien aktiv“ ^[kontext-outline.md:L146]; `AEGIS Focus` „Ausnutzung interner Konflikte zur Destabilisierung“ ^[kontext-outline.md:L147]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Interne Barrieren`
+
+Focus: `Interne Barrieren`, „Die Manifestation massiver Phobien zwischen ANPs und EPs“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L95]
+
+- Story: „ANPs wehren sich panisch gegen die EPs“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L96]
+- Concept: „Dies ist die Kernmanifestation der“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L97] (concept tag: the phobias between dissociative parts (TSDP))
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Glitching Market
 

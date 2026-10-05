@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,13 @@ Title: the commission titles the chapter „Der erste Riss“ ^[kontext-outline.
 - Theme: the commission's `Core Theme` is „Die Wahrnehmung von Systeminstabilität als Bedrohung und Chance“ ^[kontext-outline.md:L188]
 - Story: its `Plot Summary` plans „Erkenntnis als Bedrohung & Chance“ ^[kontext-outline.md:L189]
 - Foci: `Kael Sys Focus` „Erkenntnis AEGIS' Fehlbarkeit“ ^[kontext-outline.md:L190]; `AEGIS Focus` „Versuch, Riss zu verbergen/reparieren“ ^[kontext-outline.md:L191]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Systeminstabilität als Chance`
+
+Focus: `Systeminstabilität als Chance`, „Die Wahrnehmung einer signifikanten Anomalie“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L123]
+
+- Story: „deutet auf eine tiefere Instabilität oder sogar eine externe Verbindung (Juna/V?) hin“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L124]
+- Concept: „Er könnte der erste klare Hinweis auf die externe Entität“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L125] (concept tag: the `AEGIS-Paradoxon`)
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Welle der Unmöglichkeit
 

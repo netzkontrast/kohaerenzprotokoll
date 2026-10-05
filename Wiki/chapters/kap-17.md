@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,13 @@ Title: the commission titles the chapter „Der Garten der Möglichkeiten: Erkun
 - Theme: the commission's `Core Theme` is „Kreativität vs. Chaos; Potenzial für Veränderung“ ^[kontext-outline.md:L258]
 - Story: its `Plot Summary` plans „Weniger rigide Kontrolle, aber chaotischer“ ^[kontext-outline.md:L259]
 - Foci: `Kael Sys Focus` „Aktivierung kreativer Anteile?“ ^[kontext-outline.md:L260]; `AEGIS Focus` „Kairos/Sophia als ambivalente Wächter“ ^[kontext-outline.md:L261]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Der Garten der Möglichkeiten: Erkundung von KW4`
+
+Focus: `Potenzialität vs. Chaos`, „als Raum der Kreativität und des ungenutzten Potenzials“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L165]
+
+- Story: „Kael interagiert mit den dualen Guardians Kairos (Potenzial/Chance) und Sophia (Weisheit/Struktur?)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L166]
+- Concept: „Kann wahre Kreativität unter Kontrolle existieren?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L167] (concept tag: the `AEGIS-Paradoxon`)
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,13 @@ Title: the commission titles the chapter „Im Auge des Sturms: Konfrontation mi
 - Story: its `Plot Summary` plans „Ist AEGIS nur Monster?“ ^[kontext-outline.md:L426]
 - Foci: `Kael Sys Focus` „Erkennen Grautöne?“ ^[kontext-outline.md:L427]; `AEGIS Focus` „präsentiert evtl. Argumente für eigene Notwendigkeit“ ^[kontext-outline.md:L428]
 - Notes: „Not So Different Reveal?“ ^[kontext-outline.md:L432]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Ambivalenz der Ordnung`
+
+Focus: `Ambivalenz der Ordnung`, „die Grautöne jenseits einer reinen Monster-Darstellung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L270]
+
+- Story: „Statt eines einfachen Endgegners findet sie“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L271]
+- Concept: „Finale Auseinandersetzung mit der Natur des“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L272] (concept tag: `Ordnung vs. Freiheit`)
 
 ## Reading — `outline`, 2025-07-30, the outline — Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS
 

@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,14 @@ Title: the commission titles the chapter „Die Ruhe vor dem Sturm: Finale Integ
 - Story: its `Plot Summary` plans „Anteile kooperieren unter Selene?“ ^[kontext-outline.md:L360]
 - Foci: `Kael Sys Focus` „Selene als Koordinatorin?“ ^[kontext-outline.md:L361]; `AEGIS Focus` „Bereitet finale Verteidigung/Angriff vor; evtl. Täuschung“ ^[kontext-outline.md:L362]
 - Notes: „Höhepunkt funktionale Multiplizität“ ^[kontext-outline.md:L364]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Konsolidierte Handlungsfähigkeit`
+
+Focus: `Konsolidierte Handlungsfähigkeit`, „als Voraussetzung für die finale Konfrontation“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L228]
+
+- Story: „Anteile arbeiten zusammen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L229]
+- Concept: „Höhepunkt der Kael Integration im Sinne der TSDP“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L230] (concept tag: `Phase 3`)
+- Act: „Ende von Akt. Kael (als“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L229]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
