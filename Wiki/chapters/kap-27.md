@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -79,6 +79,15 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „Dialetheismus als Waffe“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L286]; „Nyx blutet, Kiko hat seit drei Stunden nicht geatmet“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L286]
 - Encoding A: „MC · SP4 (Conscious) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L286]
 - Change 4 of the revision puts Kap 27 as „*praktizierter* Dialetheismus (Waffe)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L22]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Contradictory State
+
+Title: „The Contradictory State“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L791]
+Position: Akt III; POV: „POV: Integrierter Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L799]
+
+- Story: the outline plans „Kael nutzt die volle Kapazität seiner funktionalen Multiplizität, um unvereinbare mentale Zustände absolut gleichzeitig aufrechtzuerhalten.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L797]
+- Concepts: „Widerspruch-Denken, Dialetheismus“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L795]
+- Pivot-Marker: the outline plans Driver-Status: „SF-A Decision übernimmt sichtbar die Führung.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L821]; Limit-Marker: „SF-A Optionlock (Es gibt nur noch diesen einen Weg).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L822]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
