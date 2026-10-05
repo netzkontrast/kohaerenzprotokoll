@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
@@ -87,6 +87,14 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „LogOS versucht, Mnemosynes Routinen zu überschreiben“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266]; „Mnemosyne weigert sich“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266]
 - Encoding A: „IC · SP3 (Progress) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266]
 - The foreshadowing passage lists Kap 24 among „Drei sich widersprechende Klassifikationen (Kap 6, Kap 16, Kap 24)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Das Echo der Kernwunde
+
+Title: „Das Echo der Kernwunde“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L697]
+Position: Akt II; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L705]
+
+- Story: the outline plans „Ein zentrales, bis dato unlesbares Trauma-Symbol drängt sich hartnäckig in die neu gefundene Kohärenz.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L703]
+- Concepts: „Trauma-Symbol, Fragment T-734“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L701]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
