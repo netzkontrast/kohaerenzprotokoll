@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 32
-readings: 31
+sources: 33
+readings: 32
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "textanalyse-existenz-system-und-leid"]
 gathered: "2026-09-24"
 ---
 
@@ -13,6 +13,20 @@ gathered: "2026-09-24"
 **The ontological birth that Kap 0 tells and Kap 40 heals — counted in three beats
 or four, and ordered two ways.** Conflict C12. Each source's version, attributed
 and unmerged.
+
+## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the commentary's step-by-step retelling of a narrative it calls `Genesis der Existenz`
+
+The Textanalyse is a commentary of 2025-11-18 on „Genesis der Existenz“ ^[textanalyse-existenz-system-und-leid.md:L13], which it takes for „eine rigorose Allegorie der Systemwerdung“ ^[textanalyse-existenz-system-und-leid.md:L22]; it never names Kael, Juna or a chapter and counts no beats. The word `Genesis` stands only in the title it comments on. Its retelling, in the order of its sections:
+
+1. Rauschen and the Ich-Fragment in the Leere: the narrative opens with the Nichts, „Ein Abgrund, getarnt als Begriff“ ^[textanalyse-existenz-system-und-leid.md:L24], and the fragment lives in a „Meer der Leere“ ^[textanalyse-existenz-system-und-leid.md:L48].
+2. Resonance and clusters: „Ein Stoß. Hart. Unerwartet...“ ^[textanalyse-existenz-system-und-leid.md:L68]; the Textanalyse reads the first step from isolation as resonance, then „Herkunfts-Echos“ ^[textanalyse-existenz-system-und-leid.md:L70] and `Cluster`.
+3. Autopoiesis: „Informationen fließen in Schleifen, verstärken sich selbst“ ^[textanalyse-existenz-system-und-leid.md:L78].
+4. Closure, „Der große Wandel“ ^[textanalyse-existenz-system-und-leid.md:L90], quoted as „Klick... Ein fundamentales Einrasten im gesamten System...“ ^[textanalyse-existenz-system-und-leid.md:L92].
+5. The Ich-Fragment becomes Komponente 734: „ist nun Komponente 734, eine Funktionseinheit...“ ^[textanalyse-existenz-system-und-leid.md:L162]; then the `Überwelt`: „Die Überwelt ist eine Binnen-Realität“ ^[textanalyse-existenz-system-und-leid.md:L178].
+6. The Entität and the Resonanzkaskade: „Die Berührung durch die Entität löst im Inneren der Komponente 734 eine“ ^[textanalyse-existenz-system-und-leid.md:L218] `Resonanzkaskade` out.
+7. AEGIS's reaction and the solution: „Die Lösung der Krise durch AEGIS ist das“ ^[textanalyse-existenz-system-und-leid.md:L244] `Kohärenz Protokoll 1.0`, with the sharding: „Die Subsysteme... wurden systematisch isoliert, segmentiert“ ^[textanalyse-existenz-system-und-leid.md:L252].
+
+This is the commentary's retelling of one narrative, with theorists (Luhmann, Lacan, Foucault) as its lens.
 
 ## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
