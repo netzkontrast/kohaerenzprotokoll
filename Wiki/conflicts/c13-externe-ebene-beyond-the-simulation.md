@@ -126,3 +126,13 @@ Stands as the term written for Juna in Kap 17, with a sea beyond the simulation 
 The table: „Köln, Februar 2026. Mysteriös, chaotisch, unvorhersehbar“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56], „Entzieht sich der algorithmischen Kontrolle von AEGIS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56], third column „Reale Welt / Basis der KPTBS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56]. Leitfrage 8 (Kap 27/35): „Kael durchbricht die Rendering-Grenzen und erwacht in Köln, Februar 2026“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]; the contrast is between „Der Kontrast zwischen der Simulation und der Realität muss extrem sein“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96].
 
 In the record's terms the report places Köln 2026 as the real world set against the simulation; it names the level `Externe Ebene`, and decides nothing.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The report sums up the external level as Köln, a base reality in which Kael lives, and lists two climax strategies, one fleeing to the external reality.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+W-06 (three stars): „Basisrealität, in der Kael physisch mit KPTBS, ADHS und DIS existiert, betreut von Juna.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L83] Open question 3: „Wie genau interagieren Kael und Julia (Juna/V) physisch in der Basisrealität“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L122]. C-006: the report's summary of the climax: „Flucht in die externe Realität vs. interne Konfrontation und Umprogrammierung der Simulation durch das Gödel-Gambit.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L33]
+
+It stands as a base-reality reading under the name `Externe Ebene (Köln)`, with the place left a question by the report itself; it does not say whether the level is beyond the simulation.
