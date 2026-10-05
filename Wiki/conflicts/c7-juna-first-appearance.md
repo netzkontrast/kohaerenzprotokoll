@@ -391,3 +391,11 @@ Juna appears earlier in remembered scenes and speaks is W0's answer, not a sourc
 Chapter 19 is titled „Das Flüstern von Außen: Erster Kontakt mit Juna/V“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L177]. Its focus field reads „Der erste bewusste, wenn auch fragmentarische, Kontakt mit der externen Entität Juna/V“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L179], and the strategy field makes it come through the `Risse` or the Überwelt: „gelingt Kael ein erster, flüchtiger Kontakt zu Juna/V“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L180]. The nature of the contact is left open: „Die Natur der externen Ebene bleibt unklar“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L180]. Chapter 25 plans an intensification: „Die Intensivierung des Kontakts zu Juna/V liefert entscheidende Informationen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L221], with the hedge „Kael erhält möglicherweise spezifische Informationen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L222], and „Die Natur von Juna/V wird etwas deutlicher, aber ein Rest Mysterium sollte bleiben“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L222].
 
 Where it stands in the record's own terms: a plan that places Juna/V's first contact in Chapter 19, as a contact and not a scene of her presence; recorded, not applied.
+
+## 2026-10-05 — `kohaerenz-protokoll-konzeptentwicklung`, 2025-05-04, the condensed concept
+
+**The condensed concept plans a first clear hint at Juna/V in Chapter 11 and a first conscious, fragmentary contact in Chapter 19; it places no scene of her presence.**
+
+Chapter 11 closes with „Erster klarer Hinweis auf Juna/V als externe Kraft“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L193]. Chapter 19, titled „Das Flüstern von Außen: Erster Kontakt mit Juna/V“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L281], plans „gelingt Kael ein erster bewusster, aber fragmentarischer Kontakt zu Juna/V“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L287] through the `Risse` or the Überwelt.
+
+Stands as a plan with a hint in Chapter 11 and a first contact in Chapter 19, neither a presence in a scene; recorded, not applied.
