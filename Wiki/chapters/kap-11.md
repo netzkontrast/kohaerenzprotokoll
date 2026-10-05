@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -42,6 +42,13 @@ Position: „(Fundamentales Konzept: Akzeptanz der Komplexität / Scherben der E
 - M reconsidered: „Er verstand nun auch die Natur von M, der Monstergruppe, anders.“ ^[kohaerenz-protokoll.md:L1350]
 - The pieces gathered, not erased: „Jede schmerzhafte Erfahrung, jedes Scheitern, jede Konfrontation hatte ihm eine neue Scherbe des Wissens, des Verständnisses geschenkt.“ ^[kohaerenz-protokoll.md:L1330]
 - The chapter's image: „Ein Mosaik-Herz.“ ^[kohaerenz-protokoll.md:L1326]
+
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Welle der Unmöglichkeit
+
+Title: „Die Welle der Unmöglichkeit“ ^[roman-outline-system-kael.md:L189]
+Position: Teil IV, KW4
+
+- Story: AEGIS sees Kael developing „eine neue, unvorhersehbare und für das System unlogische Form der Kohärenz“ ^[roman-outline-system-kael.md:L189] and reads it „als den ultimativen Systemfehler, als maximale Entropie“ ^[roman-outline-system-kael.md:L189].
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
