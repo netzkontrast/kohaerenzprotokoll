@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -69,6 +69,15 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Where: „Während einer Routineerkundung manifestiert sich ein schwerer Systemfehler in einem isolierten Sektor von KW1.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104]
 - Story: „Kael und Lex entdecken Datenströme, die Fragmente menschlicher Erinnerungen – verschwommene Bilder eines Kinderzimmers – enthalten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104] · „Diese Entdeckung erschüttert die Prämisse einer außerirdischen Simulation.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104]
 - Who: „doch Kael spürt eine tiefe, unerklärliche Resonanz, die Lex nicht quantifizieren kann“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Unseen Observer“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L174]
+Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „A (Kael — sozialer Modus übernimmt)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]
+
+- Story: the outline places: „sein innerer Tonfall wird warm, anpassungsfähig, fast charmant“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]; „fällt Staub sehr langsam durch einen Lichtstrahl hinter dem Evaluator“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]
+- Encoding A: „OS · SP1 (Being) · Falsehood · Decision (Maskerade)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]
+- The seeding table lists for Kap 5 a dust grain: „Staub fällt zu langsam — Kael nimmt es im Augenwinkel wahr“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L142].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
