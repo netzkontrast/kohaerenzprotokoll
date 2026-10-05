@@ -2,7 +2,7 @@
   "document": "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
   "drive_id": "1_nYuB-9lZFjRDBvq2-eKA-sVm1TEaK2wTLtSSu7Ru0g",
   "step": "counts",
-  "at": "2026-09-29",
+  "at": "2026-10-05",
   "by": "scripts/capture.py",
   "candidate_source": "written-while-reading",
   "usable_as_baseline": true,

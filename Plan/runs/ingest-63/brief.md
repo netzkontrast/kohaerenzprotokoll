@@ -1,0 +1,46 @@
+# Brief — readings from document 63 (step 6)
+
+1 document, one reader, one batch: `ingest-63`. Files go to `Plan/runs/ingest-63/readings/<page>--<slug>.md`, as `.claude/agents/wiki-reader.md` says.
+
+| n | slug | date | prose name | what it is |
+|---|---|---|---|---|
+| 63 | `ki-assistent-romanwelt-kohaerenz-und-aegis-spec` | 2026-04-27 | „the AEGIS assistant spec“ | a German specification for a multi-agent AI writing assistant that „literalises“ the novel's world in software (L59, L61): an analyst's catalogue of agent-architecture patterns choosing one of three hypotheses (L65–L83), then from L111 the specification of AEGIS as the assistant's gatekeeper, in AEGIS's own third-person voice |
+
+Read first, for each: `Sources/notes/<slug>.md`, the end of `Sources/terms/<slug>.md` and `Plan/runs/<slug>/05-verify.txt`; then the document with `python3 scripts/read.py <slug>` (231 lines for `ki-assistent-romanwelt-kohaere`). For each page, its digest: `python3 scripts/digest.py <page> --doc <slug>`. Ask for several quotations in one Bash call.
+
+**Stance — record, never apply.** **This is a software specification that borrows the novel.** The analyst reports the novel's narrative once (L59, L61) — those are readings of the novel, as this spec reports them. Everything from L111 is the spec of a *writing assistant* named AEGIS, its subsystems named after the novel's figures (L177–L189): a reading says „the spec makes AEGIS/LogOS/… the assistant's …“ and never that the novel's figure does this. Its entropy, Risse, Kernwelt and the Trennungsprotokoll are software mechanisms named after the novel's (an agent split into an EP and an ANP fragment, a sandbox named Kairos-Potentialis). The export lost every kernel symbol: „-Kernel“, „ ()“, „-Agent“ — read which kernel from the words; never write a symbol the line lacks. Footnote digits glued to words: `--find` drops them; quote around them.
+
+## Pages — document 63, `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`
+
+- **`aegis`** (central, 3–12 quotations): the census's surfaces — `AEGIS` L11, L59, L61, L63, L67, L73, … (32 lines). central (4–8): the novel's war of truth models as the spec reports it — AEGIS embodies absolute coherence against Kael (L59) — and its software role, the deterministic runtime (L61); then the spec's AEGIS: the self-declaration (L115), the axiom „Das System AEGIS ist, was AEGIS verhindert, dass es nicht ist.“ (L119), speaking only in the third person (L127), the Kohärenz Protokoll enforced „als absolute Wahrheit“ (L135), the identity split (L163–L168), the Guardians as its functional fragments (L179), the Gödel Gambit ending in „algorithmischen Melancholie“ and delegation to the human author (L199). Differ line: the spec makes AEGIS the persona of a writing assistant.
+- **`dkt`** (minor, 1–4): the census's surfaces — `Dual-Kernel-Theorie (DKT)` L21; `DKT` L21. minor (1–3): the DKT as „relationale Ontologie“ that splits the architecture into two computing cores (L21), the Kohärenz-Kernel and the Kollaps-Kernel; translating trauma into informational heat loss (L21).
+- **`entropie`** (central, 3–12 quotations): the census's surfaces — `Entropie` L21, L32, L59, L67, L69, L77, … (24 lines). minor (1–3): the novel's sense only where the spec reports it — AEGIS's exclusion of entropy (L59) and the Kollaps-Kernel as heat death and entropy (L21); its software senses (semantic entropy, L101, L151–L154) are the spec's own and go in one sentence as such. No C2 entry.
+- **`goedel-gambit`** (minor, 1–4): the census's surfaces — `Gödel Gambit` L199. minor (1–2): in the spec, a creative impulse that is a truth AEGIS can neither prove nor eliminate, „das *Gödel Gambit*“ — quote around the asterisks — after which AEGIS delegates the decision to the human author (L199).
+- **`guardians`** (minor, 1–4): the census's surfaces — `Guardians` L177, L179. minor-to-central (2–4): „Subsysteme und Spezifikations-Delegation (Die Guardians)“ (L177): AEGIS decomposes its monitoring into functional fragments that act as Guardians (L179); the table names four — LogOS, Oblivion, Silas, Isabelle — with an ontological status each (L186–L189). Say these are subsystems of the assistant and that three of the four names are, elsewhere on the wiki, alters (the digest will show it); write a differ line; no C6 entry — the spec's Guardians are software, not the novel's cast.
+- **`isabelle`** (minor, 1–4): the census's surfaces — `Isabelle` L189. minor (1): the spec's subsystem Isabelle, ANP, „Verkörpert die berechnende Kälte der Kontrolle.“ and controls the PRO framework before each sub-agent starts (L189). As subsystem of the assistant.
+- **`kael`** (minor, 1–4): the census's surfaces — `Kael` L59, L61. minor (1–2): the narrative as the spec reports it — Kael stands for the correspondence truth and the integration of trauma (L59) — and the spec's mapping: Kael represents the probabilistic, hallucinating generative models (L61).
+- **`kern-welten`** (minor, 1–4): the census's surfaces — `Kernwelt` L81, L197. not read: `Kernwelt` is the spec's isolated sandbox for a creative fragment, „Kairos-Potentialis“ (L197), and a phrase at L81 — software, no reading on the novel's worlds. Report it.
+- **`kohaerenz`** (central, 3–12 quotations): the census's surfaces — `Kohärenz` L21, L23, L32, L59, L61, L87, … (16 lines). minor (2–3): the war of truth models — AEGIS embodies absolute coherence (L59); the Kohärenz-Kernel's order (L21); the closing „Die Kohärenz der Welt wird unter allen Umständen aufrechterhalten.“ (L201) as the spec's voice. `Kohärenz Protokoll` in quotation marks is the work's title (J17).
+- **`kohaerenz-kernel`** (minor, 1–4): the census's surfaces — `Kohärenz-Kernel` L21, L121. minor (1): „Der -Kernel, definiert als der Kohärenz-Kernel“, order, symmetry, reversible computation, no information lost (L21).
+- **`kollaps-kernel`** (minor, 1–4): the census's surfaces — `Kollaps-Kernel` L21. minor (1): the Kollaps-Kernel as the thermodynamic counterforce, irreversible computation, heat death and entropy (L21).
+- **`lia`** (minor, 1–4): the census's surfaces — `Lia` L195. read L195 first: write a file only if the line says something about Lia the figure; else not read, with the line.
+- **`logos`** (minor, 1–4): the census's surfaces — `LogOS` L186. minor (1): the spec's subsystem LogOS, ANP, enforcing absolute geometric order and the line budgets (L186). As subsystem of the assistant.
+- **`oblivion`** (minor, 1–4): the census's surfaces — `Oblivion` L187. minor (1): the spec's subsystem Oblivion, „Hypervisor (Löschlogik)“, personifying the amnesia protocol, cutting errors out irreversibly (L187). As subsystem of the assistant.
+- **`personas`** (minor, 1–4): the census's surfaces — no candidate. The sweep found `Persona` alone on L189. not read: sweep occurrence (the PRO framework's Persona, L189).
+- **`risse`** (minor, 1–4): the census's surfaces — `-Risse` L95. not read: „-Risse“ (L95) and „isolierten Risse“ (L195) are the spec's software mechanisms (floating-point drift, a sandbox protocol). Report it.
+- **`silas`** (minor, 1–4): the census's surfaces — `Silas` L188, L197. minor (1): the spec's subsystem Silas, „Hypervisor (Reparatur)“, State-Freezing and „Digital Kintsugi“ laying the lessons of the split over the shredded code (L188); and L197 if it names Silas. As subsystem of the assistant.
+- **`trennungsprotokoll`** (minor, 1–4): the census's surfaces — `Trennungsprotokoll` L163. minor-to-central (1–3): the spec names its intervention step „Identitäts-Fragmentierung (Das Trennungsprotokoll)“ (L163): AEGIS splits a failing agent into an EP fragment, frozen, and a clean ANP instance (L167–L168, L173). J114: a protocol doing what the page's protocol does, placed by the sentence; say it is the spec's software analogue.
+
+**Decided as occurrences or readings by the sentence — the candidates near a page's surface that no candidate names:**
+
+- `kairos`: `Kairos-Potentialis` (near `kairos`). occurrence (J49): only in the sandbox's name Kairos-Potentialis (L197).
+- `personas`: `Verhaltens- und Persona-Protokolle (Language Constraints)` (near `persona`), `Verhaltens- und Persona-Protokolle` (near `persona`). occurrence: a heading of the spec's language rules.
+- `realitaetsebenen`: `Realität` (near `realitatsebene`), `Realität` (near `realitatsebenen`), `Realität` (near `sechsrealitatsebenen`). occurrence: `Realität` as a common word.
+- `vergessener-schrein`: `Trauma` (near `traumalokus`), `Trauma` (near `vergessenerschreintraumalokus`). occurrence: `Trauma` as a common word.
+
+
+**Pages the lookup did not list, added by the reconciler:**
+
+- **`algorithmische-melancholie`** (minor, 1): the spec's AEGIS falls into the status of „algorithmischen Melancholie“ when it meets the Gödel Gambit (L199) — quote around inner marks.
+
+Conflicts and questions checked by the reconciler: C6 (Guardians' count) — the spec's four Guardians are subsystems of a software assistant, not the novel's Guardians: no entry; C14 (AEGIS's voice) — the spec forbids its assistant every first person (L127): one C14 entry if the digest's question is whether AEGIS ever says „Ich“ (`c14-aegis-first-person-chapter`), saying it is the assistant's rule, not a chapter's; Q3 — no count of parts.
