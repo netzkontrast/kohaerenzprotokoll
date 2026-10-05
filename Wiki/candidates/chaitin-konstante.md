@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 13
-readings: 12
+sources: 14
+readings: 13
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
 gathered: "2026-09-25"
 ---
 
@@ -44,6 +44,10 @@ And for [[kael|Kael]], in the first seed of AEGIS' throughline in Storyform B: A
 ## Reading — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse — AEGIS' own unresolvable limit, its glyph lost, at the melancholy's two poles
 
 A research report; its findings are its own. Both of its `Chaitin` lost the Ω in the export (`Chaitin` on L118, L134; `Ω` 0; `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`). Here the constant is AEGIS' own limit, not Juna's or Kael's: at the melancholy's onset, „AEGIS kann die Unberechenbarkeit (Chaitins ) nicht auflösen und stürzt in die Algorithmische Melancholie – eine paralysierende Endlosschleife aus Rauschen und fruchtloser Analyse." ^[dramatica-storyform-synthese-aegis-analyse.md:L118] And at its verdict: „Sie ist das Resultat eines Systems, das an der Inkompressibilität von Chaitins  zerschellt ist." ^[dramatica-storyform-synthese-aegis-analyse.md:L134] — answering the document's own question whether the melancholy is „ein echter iterativer oder adaptiver Bewusstseinszustand" ^[dramatica-storyform-synthese-aegis-analyse.md:L134], which it says it is not. Neither line ties the constant to Juna; the sentence after the first names what survives instead: „Das Kael-System rotiert als kohärente, widerstandsfähige Einheit aus den glühenden Trümmern in die neue, undefinierte Existenz." ^[dramatica-storyform-synthese-aegis-analyse.md:L118] It names no chapter for the constant (`Kap` 0, same file).
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Chaitin Ω as a former candidate, dropped
+
+F1 (OFFEN) lists it among „Bisherige Kandidaten“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L466] for Juna's unmodellability. §10 drops it from the canonical architecture as the Kanon's decision: „VOA + Leech-Lattice rank-24 + Orbifold + Monstergruppe + Chaitin Ω + 3-Layer-Witness als kanonische Architektur.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L583] The remainder is, in the Kanon's words, „Der Rest ist optionales Hinterzimmer-Material“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L583]
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
