@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -46,6 +46,10 @@ The Textanalyse, a commentary on one narrative, writes that AEGIS, to control th
 The document never writes `Überwelt` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0]. It writes `Simulation` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#9] for the constructed world of the story, and these are its sentences that bear on this page's subject. The world AEGIS keeps clean: AEGIS acts „Um die Simulation gemäß seinen klassischen logischen Axiomen“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L73] to keep it `makellos` (the line's own quotation marks), and its directive concerns order „innerhalb der simulierten Kernwelten (KW1 bis KW4)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L61]. The world that dies of heat: „Indem AEGIS eine absolute Rigidität erzwingt, initiiert es gezielt den Wärmetod der narrativen Simulation“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L81]. The whole that would crash: the Gödel-Gambit is used „Um einen katastrophalen Absturz der gesamten Simulation bei einem solchen Kollaps zu verhindern“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L156].
 
 Whether the document's simulation is this page's Überwelt is not settled by these sentences. The compound `Simulationstransparenz`, which the critical reading uses in its account of the canonical assignment, names AEGIS' self-perception and is not read here.
+
+## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the simulation AEGIS's Kernwelten sit in, written Simulation, never Überwelt
+
+The pitch writes `Überwelt` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#0] and `Simulation` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#5]. It places the worlds „Innerhalb der von AEGIS simulierten Kernwelten“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L91], and the Risse grow „im Gewebe der Simulation das unausweichliche Eindringen der Entropie visualisieren“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L153].
 
 ## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — the simulation as the world whose clockwork Kael and Juna disturb and in which the witness stands; the word Überwelt never written
 
