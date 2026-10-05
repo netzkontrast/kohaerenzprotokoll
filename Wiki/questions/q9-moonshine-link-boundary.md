@@ -140,3 +140,11 @@ Where it stands in the record's own terms: open in the document, with a recommen
 „Der Moonshine-Link ist diese Form“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L326]
 
 Stands: one line, no boundary drawn.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report
+
+**The research report makes the Moonshine-Link the Subjective Story throughline, and also Juna's proof of connection.**
+
+7.3: „Juna beweist durch den Moonshine-Link nicht-lokale, echte Verbindung.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L172] 7.4, `Der Moonshine-Link`: „Ein tiefenpsychologisches Ringen zwischen Vertrauen und Misstrauen in der Ausbildung echter Bindungen.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L185]
+
+Stands: the report places the link in both the Impact and the Subjective throughline; it draws no boundary (L172, L185).
