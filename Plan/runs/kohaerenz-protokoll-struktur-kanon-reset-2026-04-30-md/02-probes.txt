@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      34
+  backslash escapes      172
+  typographic marks      172
+  ascii quotes           44
+
+# inflection families -- one term, several surfaces
+  erinn    Erinnerung, Erinnerungen, Erinnerungs, Erinnerungsfragmente, Erinnerungsorte, Erinnerungsspuren
+  struk    Struktur, Strukturell, Strukturelle, Strukturen, Strukturschicht, Strukturschluss
+  funkt    Funktion, Funktionale, Funktionalen, Funktioniert, Funktionsweise
+  story    Storyform, Storyforms, Storymind, Storyminds, Storyweaving
+  erzäh    Erzählebene, Erzähler, Erzählhaltung, Erzählung
+  opera    Operation, Operationalisierung, Operativ, Operator
+  schre    Schreib, Schreibanweisung, Schreibtechnik, Schreibwerkzeuge
+  selbs    Selbst, Selbstkorrigierende, Selbstmodell, Selbstoffenbarung
+  archi    Archipel, Architektonische, Architektur
+  argum    Argument, Argumentation, Argumentationslast
+  bewus    Bewusstsein, Bewusstseinsinhalt, Bewusstseinszustand
+  coher    Coherence, Coheron, Coherons
+  gesch    Geschichte, Geschlossenheit, Geschmack
+  ident    Identität, Identitäts, Identitätsstruktur
+  innen    Innen, Innenseite, Innensystem
+  inter    Interferenz, Internal, Interner
+  inver    Inversion, Inversionen, Inversions
+  korre    Korrekt, Korrektur, Korrelate
+  leser    Leser, Lesers, Lesersteuerung
+  mecha    Mechanik, Mechanismen, Mechanismus
+  minde    Mindestelemente, Mindestforderung, Mindestschnitt
+  offen    OFFEN, Offen, Offene
+  proto    Protocol, Protokoll, Protokolle
+  roman    Roman, Romanprojekts, Romans
+  schwe    Schweiß, Schwere, Schwerkraft
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Falle
+  Atem < Atemporal
+  Beat < Beats
+  Edit < Edits
+  Ende < Transzendenz
+  Ende < Selbstkorrigierende
+  Form < Storyform
+  Form < Sonderform
+  Form < Storyforms
+  Form < Information
+  Form < Transformation
+  Halt < Inhalt
+  Halt < Erhalten
+  Halt < Halteproblem
+  Halt < Erzählhaltung
+  Halt < Aufrechterhaltung
+  Halt < Bewusstseinsinhalt
+  Hier < Hierarchie
+  Jede < Jeder
+  Juna < Junas

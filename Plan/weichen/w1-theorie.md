@@ -50,7 +50,7 @@ Lesererwartung, Ursache oder Preis? Nur diese braucht eine Entscheidung.
 
 ## Antwort und Abhängigkeiten
 
-**Beantwortet 2026-10-02: A — und später B als Kontrolle** ([Entscheidung 024](../decisions/024-dramatica-is-the-recipe.md)). Beide Storyforms werden vor dem Treatment vervollständigt; das fertige Treatment wird danach gegen die Modelle diagnostiziert.
+**Beantwortet 2026-10-02: A — und später B als Kontrolle** ([Entscheidung 025](../decisions/025-dramatica-is-the-recipe.md)). Beide Storyforms werden vor dem Treatment vervollständigt; das fertige Treatment wird danach gegen die Modelle diagnostiziert.
 
 Früher: Noch offen. Antwortformat: W1 A/B/C oder frei; bei C die bindenden Wendungen nennen.
 Eine Antwort betrifft den Treatment-Abgleich und die Rolle eines späteren NCP.

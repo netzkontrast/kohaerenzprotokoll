@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 4
-readings: 3
+sources: 6
+readings: 5
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 gathered: "2026-09-16"
 ---
 
@@ -71,6 +71,10 @@ The untitled three-act text applies the same term to the same mechanism:
 English throughout; the German name for the flaw stands untranslated inside both
 English passages.
 
+## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Negentropie as the order the minimal being holds against Rauschen
+
+The Textanalyse, a commentary on one narrative, reads the narrative's „minimale Sein“ ^[textanalyse-existenz-system-und-leid.md:L52] as an attempt „lokale Negentropie (Ordnung) gegen die universelle Entropie (Rauschen) aufrechtzuerhalten“ ^[textanalyse-existenz-system-und-leid.md:L52], and adds that this is a struggle „das Wesen des Lebens selbst beschreibt“ ^[textanalyse-existenz-system-und-leid.md:L52], naming Schrödinger. The reading is the commentary's own and borrows a physical sense; the narrative is quoted only for the „Widerstand gegen diesen Druck“ ^[textanalyse-existenz-system-und-leid.md:L52].
+
 ## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — Storyform A's outcome, new order patterns replacing AEGIS' toxic structure
 
 A research report; recorded, not applied. It gives negentropy as Storyform A's `Outcome: Success` evidence, a year after the two 2025 readings: „Outcome: Success — Werk-Beleg: AEGIS' toxische Struktur wird überwunden, und neue Ordnungsmuster (Negentropie) etablieren sich." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L84] So it is an assertion, not a question — the first read source to state that negentropic order emerges, where it names AEGIS' own structure as what is overcome rather than the Kael-Juna bond as what supplies it. It does not use the word again and does not relate it to [[aegis|AEGIS]]' blind spot (`Negentropie` on that line only; `Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`).
@@ -80,3 +84,7 @@ A research report; recorded, not applied. It gives negentropy as Storyform A's `
 `readings: 0` was deliberate while it lasted. A term that a source only asks about has no reading
 in that source — and a page that recorded the question as a reading would turn
 the project's uncertainty into its position.
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — islands around Kael/M
+
+Kap 37 of the outline of 2026-05-01: „Inseln der Negentropie entstehen um ihn“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330] — around `Kael/M`, glossed as practice.

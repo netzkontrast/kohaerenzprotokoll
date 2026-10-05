@@ -45,63 +45,63 @@
               "dynamic": "story_driver",
               "vector": "action",
               "summary": "story_driver = action",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source (report 2026-05-07), kept in step 2."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source (report 2026-05-07), kept in step 2."
             },
             {
               "id": "dyn_story_outcome",
               "dynamic": "story_outcome",
               "vector": "failure",
               "summary": "story_outcome = failure",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_story_judgment",
               "dynamic": "story_judgment",
               "vector": "bad",
               "summary": "story_judgment = bad",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_story_limit",
               "dynamic": "story_limit",
               "vector": "timelock",
               "summary": "story_limit = timelock",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_problem_solving_style",
               "dynamic": "problem_solving_style",
               "vector": "linear",
               "summary": "problem_solving_style = linear",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_main_character_resolve",
               "dynamic": "main_character_resolve",
               "vector": "steadfast",
               "summary": "main_character_resolve = steadfast",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_influence_character_resolve",
               "dynamic": "influence_character_resolve",
               "vector": "change",
               "summary": "influence_character_resolve = change",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); derived, rule R6."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); derived, rule R6."
             },
             {
               "id": "dyn_main_character_growth",
               "dynamic": "main_character_growth",
               "vector": "stop",
               "summary": "main_character_growth = stop",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_main_character_approach",
               "dynamic": "main_character_approach",
               "vector": "do_er",
               "summary": "main_character_approach = do_er",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); author step 3a (C8: Do-er)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); author step 3a (C8: Do-er)."
             }
           ],
           "storypoints": [

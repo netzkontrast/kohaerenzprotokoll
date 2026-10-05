@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      19
+  backslash escapes      120
+  typographic marks      62
+  ascii quotes           4
+
+# inflection families -- one term, several surfaces
+  syste    System, Systematik, Systemfehler, Systemik, Systems, Systemstabilität
+  daten    Daten, Datenpakete, Datenträger, Datenverschiebung, Datenvolumens
+  archi    Archipel, Architektur, Architekturthese, Archiv
+  erinn    Erinnerung, Erinnerungen, Erinnerungs, Erinnerungsdatei
+  axiom    Axiom, Axiomatik, Axiomensystem
+  diese    Diese, Dieser, Dieses
+  entit    Entität, Entitäten, Entitäts
+  erzäh    Erzählarchitektur, Erzähler, Erzählung
+  gleic    Gleichgewichts, Gleichung, Gleichzeitig
+  infor    Information, Informationsdichte, Informationslimit
+  kapit    Kapitel, Kapiteln, Kapitels
+  kohär    Kohärenz, Kohärenztheorie, Kohärenzwächter
+  konse    Konsens, Konsenses, Konsequenz
+  konst    Konstante, Konstrukt, Konstruktionsmechanismen
+  kontr    Kontradiktions, Kontroll, Kontrolle
+  konze    Konzept, Konzepte, Konzeptueller
+  leser    Leser, Lesers, Leserätsel
+  opera    Operationalisierung, Operationen, Operator
+  proto    Protokoll, Protokolle, Protokolls
+  selbs    Selbstmodell, Selbstoffenbarung, Selbstreferenz
+  speic    Speicher, Speichermanagement, Speichersubstrat
+  struk    Struktur, Strukturen, Strukturschluss
+  trenn    Trennung, Trennungsaktes, Trennungsprotokoll
+  wider    Widerspruch, Widersprüche, Widerstand
+  algor    Algorithmische, Algorithmischen
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Charaktere
+  Akte < Trennungsaktes
+  Bild < Weltbild
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dual < Dualismus
+  Eine < Keine
+  Eine < Seine
+  Hard < Hardware
+  Hier < Hierarchie
+  Jede < Jeder
+  Juna < Junas
+  Kael < Kaels
+  Kein < Keine
+  Lese < Leser
+  Lese < Lesers
+  Lese < Leserätsel
+  Lese < Leseerfahrung
+  Lore < Lores

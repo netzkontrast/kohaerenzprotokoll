@@ -1,0 +1,77 @@
+# every number the census and note state
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "User Query"
+whole word, case-sensitive     62
+whole word, case-insensitive   62
+including compounds            62
+
+`User Query` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#62]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "AEGIS"
+whole word, case-sensitive     125
+whole word, case-insensitive   127
+including compounds            126
+
+`AEGIS` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#125]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "Aegis"
+whole word, case-sensitive     2
+whole word, case-insensitive   127
+including compounds            2
+
+`Aegis` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#2]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "Monstergruppe"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Monstergruppe` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#13]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "K-J-Verbindung"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`K-J-Verbindung` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#14]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "Kael-Juna-Verbindung"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kael-Juna-Verbindung` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#6]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "Kernwelten"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            21
+
+`Kernwelten` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#20]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "Potentialmeer"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            24
+
+`Potentialmeer` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#13]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "Rissen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rissen` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#1]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "Risse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Risse` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#1]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "Kohärenz durch Abgrenzung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz durch Abgrenzung` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#2]
+$ read.py plotanalyse-kohaerenz-protokoll-szenario --count "Kohärenz durch Integration"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz durch Integration` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#3]
+$ sed -n 40,61p Sources/drive/plotanalyse-kohaerenz-protokoll-szenario.md | grep -c "^| "   # table rows L40-L61 (note: 22)
+22
+$ sed -n 257,355p Sources/drive/plotanalyse-kohaerenz-protokoll-szenario.md | grep -cE "^[0-9]+\. "   # numbered references (note: 99)
+99

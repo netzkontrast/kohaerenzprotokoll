@@ -33,7 +33,8 @@ decision files are missing from it or listed here without existing, and
 | `021-the-architecture-spec-adopted.md` | 2026-10-01 | `SPEC.md` adopted, its migration order binding; E4 may run on Claude for $20 after steps 2 and 4; `GOAL.md` annotated, not rewritten |
 | `022-the-app-on-vercel.md` | 2026-10-02 | The project app is also a website on Vercel, built from the repository on every push, behind the author's Vercel login; only the canvas runtime is vendored |
 | `023-the-manuscript-folder.md` | 2026-10-04 | The novel's drafts live in `Manuscript/`, one folder per chapter, and the project app has a „Manuscript“ screen; findings about drafts stay in `Plan/runs/writing/` |
-| `024-dramatica-is-the-recipe.md` | 2026-10-02 | Dramatica is the recipe (W1 A, B as check); the 2026-05-07 dual-storyform model; AEGIS Do-er (C8); Logic B's OS solution; element chains of A and B chosen step by step |
+| `024-the-novel-workspace.md` | 2026-10-05 | `Manuscript/` becomes the novel's workspace: canon in one ledger (`kanon.md`), cards for cast and world, and the app's Manuscript screen in tabs — only canon and working drafts, never a wiki reading |
+| `025-dramatica-is-the-recipe.md` | 2026-10-02 | Dramatica is the recipe (W1 A, B as check); the 2026-05-07 dual-storyform model; AEGIS Do-er (C8); Logic B's OS solution; element chains of A and B chosen step by step |
 
 A decision the author still has to make is not here: it is a question under
 `NOW.md`, *Questions for the author*, until it is answered.

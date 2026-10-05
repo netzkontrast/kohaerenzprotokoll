@@ -1,10 +1,10 @@
 ---
 term: Residual-Echos
 status: candidate
-sources: 6
-readings: 4
+sources: 10
+readings: 8
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md", "textanalyse-existenz-system-und-leid", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz"]
 gathered: "2026-09-25"
 ---
 
@@ -19,6 +19,22 @@ annotated draft and `koharenz-protokoll-kapitel-0-v2-md` — the second, read on
 Doppel-Klammer Abhandlung, nine days earlier, describes echoes of the
 Ursprungs-Ich in Kap 0 that AEGIS classifies the same way, and it says what they
 are in Kap 40.
+
+## Reading — `einleitung-genesis-der-existenz`, 2025-04-29, the Genesis narrative — echoes of origin that are processed, not erased
+
+The narrator says of the closure: „Die alten Echos der Herkunft“ ^[einleitung-genesis-der-existenz.md:L95] are not erased but processed (L95), and the loneliness stays as a background noise. In `Die Krise` the remains of the Ursprungs-Ich are the „latenten Echos“ ^[einleitung-genesis-der-existenz.md:L143] (L143). The narrative does not write `Residual-Echos` ^[einleitung-genesis-der-existenz.md:#0].
+
+## Reading — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline — the echo of loneliness planned in the component, then amplified
+
+The outline does not write `Residual-Echos` ^[optimierte-plotline-genesis-der-existenz.md:#0] (zero). It plans an echo in the component: „Das Echo der Einsamkeit ist ein leises Summen“ ^[optimierte-plotline-genesis-der-existenz.md:L172], in scene 7 raised by the entity's pressure, when the component feels „ansteigende Vibration tief in ihrer eigenen Struktur“ ^[optimierte-plotline-genesis-der-existenz.md:L176], the echo of loneliness being amplified.
+
+## Reading — `uberarbeitete-optimierte-plotline-genesis-der-existenz`, 2025-04-29, the plotline's Version 2 — the echo of absence, planned as a latent signature
+
+Version 2's scene 1 plans „Flüchtiger Eindruck einer verlorenen Ordnung“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L29] and a vague feeling of incompleteness, and in scene 7 the entity resonates with the latent signature of Komponente 734, „mit der latenten Signatur von Komponente 734 auf (dem Echo der Unvollständigkeit)“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L119]. The outline writes `Residual-Echos` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#0] never: the zero is a true absence of that term; `Echo` and `Echos` stand.
+
+## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the echoes of origin, tolerated as function and suppressed as variance
+
+The document does not write `Residual-Echos` ^[textanalyse-existenz-system-und-leid.md:#0]; read by the sentence, it speaks of the same thing. The Textanalyse, commentary on one narrative, reads that in the functionalisation the component's individual properties („Echos der Herkunft“ ^[textanalyse-existenz-system-und-leid.md:L164]) are tolerated only as far as they are useful, and that everything else is filtered out: „Alles andere – Angst, Einsamkeit, Sehnsucht – wird als“ ^[textanalyse-existenz-system-und-leid.md:L164] `irrelevante Varianz` filtered out. In the crisis it reads: „die verdrängten Erinnerungen an das Ursprungs-Ich, an Verlust und Sehnsucht“ ^[textanalyse-existenz-system-und-leid.md:L218], the `latenten Echos`, break out. The first is the narrative's phrase as quoted, the sentence around it the commentary's.
 
 ## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08 — as the echoes of the Ursprungs-Ich
 

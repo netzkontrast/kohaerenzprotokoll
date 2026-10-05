@@ -1,16 +1,36 @@
 ---
 term: Oblivion
 status: candidate
-sources: 30
-readings: 30
+sources: 34
+readings: 34
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 gathered: "2026-09-24"
 ---
 
 # Oblivion
 
 One of the thirteen [[alters|Alters]] — Spiegel-Alter, „AEGIS-Echo" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L760].
+
+## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — Oblivion as a deletion subsystem of the writing assistant
+
+This document is a software specification for a writing assistant that borrows the novel's names. Its table lists the subsystem `Oblivion` as „Hypervisor (Löschlogik)“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L187] that „Personifiziert das Amnesie-Protokoll.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L187] On a violated invariant it cuts the error out: „schneidet den Fehler emotionslos aus dem Grid“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L187].
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — a Hypervisor personifying the Amnesia Protocol
+
+The manifest lists „Oblivion (Hypervisor of Deletion Logic)“ ^[aegis-persona-and-manifest-generation.md:L168], who „Personifies the Amnesia Protocol.“ ^[aegis-persona-and-manifest-generation.md:L168] Oblivion is one of the secondary Hypervisor functions meant to enforce the rules the Guardians establish.
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Oblivion, AEGIS-Echo; two readings of what happens when AEGIS collapses
+
+Appendix B lists Oblivion under `Spiegel-Alter`: „AEGIS-Echo.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L667] The arc runs „Automat (I) → Bewusstsein (II) → Entscheidung (III).“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L667] and the part „Repräsentiert die Frage, ob Kael selbst zu AEGIS wird, wenn er nicht aufpasst.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L667] (L667).
+
+C.5 is an open point, not CORE. It asks what becomes of Oblivion when AEGIS collapses in the Truth-Rotation and offers two readings: Oblivion disappears („mechanisch, aber unbefriedigend“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L733], L733), or Oblivion takes over AEGIS's function inside Kael — „als interne Wachheit, die nicht mehr automatisch löscht, sondern entscheidet“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L734] (L734). The Kanon judges: „Die zweite Lesart ist stärker.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L738] (L738). The judgement stands in the open-points section; it is the Kanon's lean, recorded here, not applied.
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — a trace in Kap 1, an explicit appearance in Kap 31
+
+The outline of 2026-05-01 says two different things about Oblivion's first showing, and both are recorded here as written. The alter timeline has two columns, „Erste verdeckte Spur“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L109] and „Erste benannte Erscheinung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L109]. Oblivion's row gives „verlorene Sekunden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L122] in Kap 1 as the trace and Kap 31 as the first named appearance. Kap 1's entry says the second lost after the word `Juna` is „ein Oblivion-Vorgang ist“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L160]; Kap 9 hides „Die vier verlorenen Minuten = Oblivion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L192].
+
+Kap 31, titled „Oblivion erwacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L300], is tagged „erste explizite Erscheinung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302]. There the entry says „Er war derjenige, der die Sekunden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302] of Kap 1, 3 and 9 stole. So the timeline's column calls Kap 31 a named appearance and the chapter entry calls it an explicit one; the document does not say whether it treats the two words as one. A trace (Kap 1, 3, 9: seconds lost, unattributed) and an appearance (Kap 31: a voice speaking to Kael) are what the two lines separately describe.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -195,3 +215,7 @@ An English file of about fourteen reports of 2025. Oblivion stands in the eight-
 The report `An Architecture of the Self` puts him among the EPs of its own three-column table: „Kael (Host) | Nyx | Selene" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1713] „Rhys | Oblivion |" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1715] and names his state a phobia the whole system shares: „Oblivion's state of utter hopelessness represents a form of psychological collapse that threatens the core motivation of every other alter, making him a figure of profound dread for caretakers like Rhys and pragmatists like Kael." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1725]
 
 No warmth, heat or ozone is given to him in the document: `warm`, `heat`, `ozone` and `Landauer` each stand 0 times in the whole file (`grep -cw -- warm Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md`: 0; `grep -ciw`: 0) (C11).
+
+## Where the sources differ
+
+- the outline of 2026-05-01 gives Oblivion a covert trace from Kap 1 and a first named appearance in Kap 31, tagged „erste explizite Erscheinung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302] in the chapter entry

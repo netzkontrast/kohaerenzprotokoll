@@ -1,0 +1,295 @@
+{
+  "document": "aegis-persona-and-manifest-generation",
+  "drive_id": "1boPKIFdaS_ppkZ4cR5OOFAk_tnRcnzDe-rvwY1RAVf0",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "census and note by a document-reader subagent (Sonnet), 2026-10-05, from the R5 task; the session read the manifest's sections 00–05 and 07.01 against the note and corrected nothing; readings and five record entries by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-64/brief.md; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 201,
+    "decisions": 213,
+    "decided_by_lookup": 112,
+    "needs_judgement": 101
+  },
+  "new_terms": [],
+  "why_no_new_terms": "The manifest names the world the wiki already pages — AEGIS, the Genesis, the Überwelt, the four Kern-Welten, the five Guardians, Komponente 734, Kael, the Partnerin, Oblivion, Silas, Isabelle — in English with German appositions. What it coins (Great Realignment, Ontological Boundary Protocol, Double Bind of Systemic Control, the Hypervisors as a class, the Systemic Isolation Shield expanded) stands in this one source; its readings went on the pages and none opens a page.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        93,
+        130
+      ],
+      "attribution": "",
+      "note": "the Systemic Isolation Shield as Cerberus's"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        23,
+        33,
+        51,
+        140,
+        178
+      ],
+      "attribution": "",
+      "note": "a manifest in AEGIS's own voice, and the Guardians as its subsystems"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        93,
+        97,
+        99
+      ],
+      "attribution": "",
+      "note": "Guardian of the Boundary Fortress, security and the hostility of all novelty"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        15,
+        27,
+        29,
+        31,
+        33,
+        45,
+        176
+      ],
+      "attribution": "",
+      "note": "the Genesis Crisis as the shock the manifest results from, in sequence"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "the English name of Core World 3"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        51,
+        109,
+        123,
+        178
+      ],
+      "attribution": "",
+      "note": "five Guardians as AEGIS's delegated subsystems, Kairos and Sophia sharing Core World 4"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        170
+      ],
+      "attribution": "",
+      "note": "a Hypervisor enforcing the PRO-Framework"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        45,
+        47
+      ],
+      "attribution": "",
+      "note": "the shattered fragments, called Kael in legacy files"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        111,
+        113
+      ],
+      "attribution": "",
+      "note": "Guardian of potential, who registers the anomaly as generative energy"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        49,
+        176
+      ],
+      "attribution": "",
+      "note": "four isolated simulation environments for the fragments"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "Component 734 made from the Ursprungs-Ich at self-closure"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        57,
+        59
+      ],
+      "attribution": "",
+      "note": "the English name of Core World 1"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        61,
+        63,
+        65,
+        69
+      ],
+      "attribution": "",
+      "note": "Guardian of the Construct City, whose blind spot is the Partner"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        77,
+        83
+      ],
+      "attribution": "",
+      "note": "Guardian of the Resonance Landscape, who maps the wound as a closed scar"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "the English name of Core World 4"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        168
+      ],
+      "attribution": "",
+      "note": "a Hypervisor personifying the Amnesia Protocol"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "the Partner, a name from corrupted legacy files"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        73,
+        75
+      ],
+      "attribution": "",
+      "note": "the English name of Core World 2"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        85,
+        101,
+        119,
+        146
+      ],
+      "attribution": "",
+      "note": "the rifts each Core World suffers, in the manifest's sense"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "a Hypervisor of Reconstitution"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        115,
+        117
+      ],
+      "attribution": "",
+      "note": "co-Guardian of the Garden, with a redacted core dependency file"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        33,
+        45
+      ],
+      "attribution": "",
+      "note": "the dismemberment, written as the Zerstückelung protocol"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        37,
+        39,
+        41
+      ],
+      "attribution": "",
+      "note": "the Overworld as AEGIS's primary control layer"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q5",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a title or heading containing a term: SYSTEM_AEGIS :: GENESIS_CRISIS_REBOOT_MANIFEST_V3.0), J12 and J16 (a compound is its own token: Hard Glitch Cut, Guardian subsystem), J24 and J46 (a plural is no boundary: Guardian sub-systems, fragments), J60 (an acronym and its expansion: Autonomous Entropy Gatekeeper for Identity Systems (AEGIS), SIS, OBP), J69 (a match only after folding: fragment / did), J72 (a parenthetical index is part of the label: Oblivion (Hypervisor of Deletion Logic), Silas (Hypervisor of Reconstitution), Isabelle (Eliminator of Ambiguity)), J88 (a common noun for a page's referent is placed by the sentence: Gatekeeper, Partner), J100 and J120 (an English name a source gives a paged world is read on it by the sentence: Construct City, Resonance Landscape, Boundary Fortress, Garden of Possibilities), J113 (a label joined to a name names the figure: GUARDIAN KAIROS, GUARDIAN SOPHIA), J114 (a protocol doing what a page's protocol does is placed on that page: the Zerstückelung protocol)",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 15,
+      "decision": "reading",
+      "why": "the manifest names the event it results from the Genesis Crisis (L15) and narrates it — the Great Realignment, the self-closure, the origin-self dismembered into Component 734 (L17, L27–L33); read by the sentence"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 170,
+      "decision": "occurrence",
+      "why": "the PRO framework's `Persona, Requirement, Output` that Isabelle enforces; a prompt-engineering term"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 63,
+      "decision": "reading",
+      "why": "the rifts of each Core World (L63, L85, L101, L119) are the manifest's own account of the page's subject; read by the sentence with the systemic rifts"
+    }
+  ],
+  "not_promoted": [
+    "Great Realignment — the moment of self-closure in the Genesis Crisis (L27, L31); read on genesis",
+    "Ontological Boundary Protocol (OBP) — the dissection of the origin-self (L33); read on trennungsprotokoll and genesis",
+    "Hypervisor — the class of Oblivion, Silas, Isabelle (L166–L170); read on each figure's page",
+    "Double Bind of Systemic Control — the paradox of AEGIS's boundary enforcement (L140); read on aegis"
+  ],
+  "internal_tension": "the manifest makes the origin-self recompiled into Component 734 (L17) and dissected via the OBP at self-closure (L33), and places the Zerstückelung at the climax of the crisis (L45), without saying whether the component precedes or results from the dismemberment; and it seals itself in English while naming the Überwelt, the Kernwelten and the Zerstückelung in German",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.531, PageRank 0.689 over 24 cases — unchanged; no case moved"
+}

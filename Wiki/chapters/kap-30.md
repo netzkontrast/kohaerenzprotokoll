@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -59,6 +59,18 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 - The temptation: „Sie zeigen Kael die Schönheit der Schmerzlosigkeit, die absolute Ruhe, die eintritt, wenn er sich AEGIS ergibt und das Vergessen wählt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178]
 - Journey stage: „Meeting with the Goddess/Temptress“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178]
 - Who: „Kael, getragen von der Widerstandskraft von Nyx und Rhys, weist die Verführung der Taubheit zurück.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178]
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — a proposed false ending (OFFEN, Appendix C.6)
+
+- Plot beats, as a proposal (`Vorschlag`): „In Kapitel 30 erscheint ein scheinbarer Abschluss“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L742] — Kael seems to integrate the alters, AEGIS seems beaten, Juna seems reached; „Es ist ein Köder.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L742]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Algorithmic Melancholy (Köder)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L296]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „B (AEGIS — perverser Erfolg)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L298]
+
+- Story: the outline places: „nicht löschen — *einkapseln*“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L298]; „schimmert die Lobotomie durch“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L298]
+- Encoding A: „OS · SP4 (Conceptualizing) · Falsehood · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L298]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

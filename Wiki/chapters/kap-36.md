@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 26
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2"]
+sources: 28
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -111,6 +111,23 @@ A storyform report that tests three hypotheses for AEGIS' throughline position i
 - Witness layers in Beats 2, 3 and 5: „Layer 1 (Quantum Entanglement Witness): Dieser Layer wird in *Beat 2 (Pivot)* aktiv.“ ^[dramatica-storyform-synthese-aegis-analyse.md:L124] „Layer 2 (ZK-Verifier): Aktiviert in *Beat 3 (Stille)*.“ ^[dramatica-storyform-synthese-aegis-analyse.md:L125] „Layer 3 (Husserlian Disinterested Spectator): Entfaltet sich in *Beat 5 (Rotation)*.“ ^[dramatica-storyform-synthese-aegis-analyse.md:L126]
 - Post-Vortex AEGIS, a broken loop and not a consciousness: „AEGIS kann die Unberechenbarkeit (Chaitins ) nicht auflösen und stürzt in die Algorithmische Melancholie“ ^[dramatica-storyform-synthese-aegis-analyse.md:L118] „Die Melancholie ist kein echter iterativer oder adaptiver Bewusstseinszustand.“ ^[dramatica-storyform-synthese-aegis-analyse.md:L134]
 - Growth recommended Stop for Storyform A: „Es wird empfohlen, Growth für Storyform A in der finalen Dokumentation auf "Stop" zu korrigieren“ ^[dramatica-storyform-synthese-aegis-analyse.md:L160]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Truth-Rotation“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L324]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „B (AEGIS — letzte Selbstwahrnehmung)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L326]
+
+- Story: the outline places: „AEGIS erkennt — und das ist der Moment der **Truth-Rotation** — dass es selbst K0 ist“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L326]; „fällt in Algorithmische Melancholie“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L326]
+- Encoding A: „MC · SP4 (Conscious) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L326]
+- Pacing: „Crescendo bis Kap 36 (Vortex), dann *Decrescendo* — sanftes Ausatmen.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L374]
+- Open point 1 proposes „volles Reveal Kap 36 als Truth-Rotation-Kollateral“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382]
+
+## Reading — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt — the Vortex's five beats, set across Kap 35–36
+
+- Position: the prompt sets the Vortex in Kap 35–36 as five beats, „Vortex-Architektur (Kapitel 35–36, fünf Beats“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L342], given as values, not derived (Constraint Block 4).
+- Beats: „Convergence“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L344] — the Mnemosyne-Archipel as setting, the erasure sweep starting; „Pivot — Kael wechselt zu A-Logik“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L345]; „Stille als lebende Dialetheia“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L346]; „Heat-Spike“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L347]; „Rotation“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L348] toward Algorithmische Melancholie. The prompt does not say which beat falls in which of the two chapters.
+- Driver: „Driver-Pivot Action→Decision flippt während dieser fünf Beats.“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L352]
+- The output must give these chapters „Kapitel 35 und 36 mit Vortex-Beat-Zuordnung“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L1082]; the pivot list's Vortex corridor is wider, Kap 33–37 (L561).
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -2,7 +2,7 @@
 """The novel's two Dramatica storyforms: check them, compare them with the derivation, and write what follows.
 
 The storyforms live in `Plan/storyform/a.json` and `b.json` — the source of truth, every value the author's
-decision, a source's position or a derivation, and every value carrying its provenance (decision 024). This
+decision, a source's position or a derivation, and every value carrying its provenance (decision 025). This
 script reads them and writes nothing else into them:
 
   * refuses a storyform `dramatica.check` finds an error in (the chart's rules R1–R8);

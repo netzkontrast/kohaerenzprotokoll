@@ -98,6 +98,9 @@ class Component extends DCLogic {
       const id = n.k === 'term' ? D.pages[n.ref].s : n.k === 'doc' ? D.docs[n.ref].slug
         : n.k === 'conflict' ? D.conflicts[n.ref].id : D.questions[n.ref].id;
       tail = n.k + '/' + e(id);
+    } else if (screen === 'manuscript') {
+      tail = s.mtab || 'overview';
+      if (s.msel) tail += '/' + e(s.msel);
     } else if (screen === 'process') {
       const ptab = s.ptab || 'loop';
       tail = ptab;
@@ -127,12 +130,17 @@ class Component extends DCLogic {
         : k === 'conflict' ? at(D.conflicts, 'id', parts[2]) : k === 'question' ? at(D.questions, 'id', parts[2]) : -1;
       const n = ref >= 0 && D.nodeOf[k] ? D.nodeOf[k][ref] : undefined;
       if (n != null) st.gsel = n;
+    } else if (screen === 'manuscript' && parts[1]) {
+      if (this.novelTabs().some((t) => t[0] === parts[1])) {
+        st.mtab = parts[1];
+        if (parts[2] && this.novelEntries(parts[1]).some((x) => x.key === parts[2])) st.msel = parts[2];
+      }
     } else if (screen === 'process' && parts[1]) {
       st.ptab = parts[1];
       const list = { decisions: [D.decisions, 'id', 'pdec'], principles: [D.principles, 'id', 'pprin'], compare: [D.compare, 'k', 'pcmp'] }[parts[1]];
       if (list && parts[2]) { const i = at(list[0], list[1], parts[2]); if (i >= 0) st[list[2]] = i; }
     }
-    return ['now', 'wiki', 'conflicts', 'questions', 'graph', 'corpus', 'process'].indexOf(screen) >= 0 ? st : null;
+    return ['now', 'wiki', 'conflicts', 'questions', 'manuscript', 'graph', 'corpus', 'process'].indexOf(screen) >= 0 ? st : null;
   }
 
   componentDidMount() {
@@ -232,6 +240,63 @@ class Component extends DCLogic {
     return { x: x, bg: k[0], fg: k[1], bd: k[2] };
   }
 
+  // The novel's workspace (decision 024): its tabs, and each tab's entries with a stable key, so the
+  // list, the reader and the address all read the same thing. Only canon and working drafts: canon is
+  // what Manuscript/kanon.md lists; a wiki page is a link out, never content.
+  novelTabs() {
+    return [['overview', 'Overview'], ['chapters', 'Chapters'], ['cast', 'Cast'], ['world', 'World'], ['plot', 'Plot'], ['decisions', 'Decisions'], ['findings', 'Findings']];
+  }
+
+  novelDecided(w) {
+    const N = this.kp().novel;
+    return w.status === 'beantwortet' || N.kanon.some((k) => k.id === w.id);
+  }
+
+  novelEntries(tab) {
+    const D = this.kp();
+    const N = D.novel;
+    const out = [];
+    const fin = (j) => ({ key: N.findings[j].f, kind: 'finding', ref: j });
+    if (tab === 'chapters') {
+      N.chapters.forEach((c) => {
+        out.push({ group: 'Kap ' + c.n });
+        if (c.readme >= 0) out.push({ key: D.manuscript[c.readme].f, kind: 'draft', ref: c.readme });
+        c.drafts.forEach((i) => out.push({ key: D.manuscript[i].f, kind: 'draft', ref: i }));
+        if (c.findings.length) {
+          out.push({ group: 'Findings on Kap ' + c.n });
+          c.findings.forEach((j) => out.push(fin(j)));
+        }
+      });
+    } else if (tab === 'cast' || tab === 'world') {
+      const kind = tab === 'cast' ? 'figuren' : 'welt';
+      const cards = N.cards.map((c, i) => ({ c: c, i: i })).filter((o) => o.c.kind === kind);
+      [['Canon', (c) => c.kanon.length > 0], ['In the sources — nothing decided', (c) => !c.kanon.length && c.wiki >= 0],
+        ['Invented in a draft', (c) => !c.kanon.length && c.wiki < 0]].forEach((g) => {
+        const these = cards.filter((o) => g[1](o.c));
+        if (these.length) {
+          out.push({ group: g[0] });
+          these.forEach((o) => out.push({ key: o.c.s, kind: 'card', ref: o.i }));
+        }
+      });
+    } else if (tab === 'plot') {
+      D.manuscript.forEach((m, i) => { if (m.part === 'plot') out.push({ key: m.f, kind: 'draft', ref: i }); });
+    } else if (tab === 'decisions') {
+      if (N.ledger) { out.push({ group: 'Canon' }); out.push({ key: 'kanon', kind: 'ledger', ref: 0 }); }
+      const all = N.weichen.map((w, i) => ({ w: w, i: i }));
+      const open = all.filter((o) => !this.novelDecided(o.w));
+      const done = all.filter((o) => this.novelDecided(o.w));
+      if (open.length) { out.push({ group: 'Weichen — open' }); open.forEach((o) => out.push({ key: o.w.id, kind: 'weiche', ref: o.i })); }
+      if (done.length) { out.push({ group: 'Weichen — decided' }); done.forEach((o) => out.push({ key: o.w.id, kind: 'weiche', ref: o.i })); }
+    } else if (tab === 'findings') {
+      const idx = N.findings.map((x, j) => j);
+      const own = idx.filter((j) => !N.findings[j].legacy);
+      const leg = idx.filter((j) => N.findings[j].legacy);
+      if (own.length) { out.push({ group: 'On the drafts and the material' }); own.forEach((j) => out.push(fin(j))); }
+      if (leg.length) { out.push({ group: 'On the parked Legacy draft' }); leg.forEach((j) => out.push(fin(j))); }
+    }
+    return out;
+  }
+
   pageChip(i) {
     const p = this.kp().pages[i];
     return { t: p.t, go: () => this.go('wiki', { page: i }) };
@@ -247,13 +312,15 @@ class Component extends DCLogic {
     if (SCREENS.indexOf(screen) < 0) screen = 'now';
     const uid = 'kp-' + (this.props.screen || 'main');
     const ptab = s.ptab || 'loop';
+    const mtab = s.mtab || 'overview';
     const is = {
       now: screen === 'now', wiki: screen === 'wiki', conflicts: screen === 'conflicts', questions: screen === 'questions',
       graph: screen === 'graph', corpus: screen === 'corpus', process: screen === 'process', manuscript: screen === 'manuscript',
     };
-    is.procList = is.process && (ptab === 'compare' || ptab === 'decisions' || ptab === 'principles' || ptab === 'now' || ptab === 'goal');
+    is.procList = (is.process && (ptab === 'compare' || ptab === 'decisions' || ptab === 'principles' || ptab === 'now' || ptab === 'goal'))
+      || (is.manuscript && mtab !== 'overview');
     is.readerLayout = is.wiki || is.conflicts || is.questions || is.process || is.manuscript;
-    is.left = is.wiki || is.conflicts || is.questions || is.procList || is.manuscript;
+    is.left = is.wiki || is.conflicts || is.questions || is.procList;
     is.rail = is.wiki || is.conflicts || is.questions;
     is.loop = is.process && ptab === 'loop';
     is.checks = is.process && ptab === 'checks';
@@ -271,7 +338,7 @@ class Component extends DCLogic {
       wiki: navItem('wiki', String(D.pages.length)),
       conflicts: navItem('conflicts', openC + ' open'),
       questions: navItem('questions', String(D.questions.length)),
-      manuscript: navItem('manuscript', String(D.manuscript.filter((m) => !m.readme).length)),
+      manuscript: navItem('manuscript', String(D.novel.kanon.length) + ' canon'),
       graph: navItem('graph', String(D.graph.nodes.length)),
       corpus: navItem('corpus', String(D.rows.length)),
       process: navItem('process', ''),
@@ -296,7 +363,7 @@ class Component extends DCLogic {
       wiki: ['Wiki', D.pages.length + ' candidate pages · every reading attributed and unmerged · where sources disagree, a page says so and stops'],
       conflicts: ['Conflicts', D.conflicts.length + ' append-only records of two sources that cannot both hold · a record decides nothing; the author does'],
       questions: ['Questions', 'What several pages ask and no source read so far answers · and everything noted for the author'],
-      manuscript: ['Manuscript', 'The novel’s drafts in Manuscript/ · none is canon or a voice reference until the author approves it'],
+      manuscript: ['Manuscript', 'The novel’s workspace · only canon and working drafts · canon is what Manuscript/kanon.md lists; research lives in the Wiki'],
       graph: ['Knowledge graph', D.graph.nodes.length + ' nodes · ' + fmt(D.graph.edges.length) + ' typed edges · each carries the file line that states it; none is inferred'],
       corpus: ['Corpus', D.rows.length + ' Drive documents in the manifest · ' + V('sources.landed') + ' landed as Markdown · ' + D.docs.length + ' read'],
       process: ['Process', 'The loop that extends the wiki, the checks that keep it honest, and the rules behind both'],
@@ -386,7 +453,7 @@ class Component extends DCLogic {
     const wr = { toc: [], tocN: 0, out: [], outN: 0, outNone: true, inn: [], inN: 0, inNone: true, cx: [], hasCx: false, qx: [], hasQx: false, reads: [], sf: [], hasSf: false, evN: 0, evV: 0, evU: 0, evX: 0, ev0: 0, ev1: 0, ev2: 0, graph: null };
     const cl = { list: [], head: '', sub: '' };
     const cr = { hasNp: false, q: [], pos: [], decided: false, status: '', pages: [], pagesN: 0, qs: [], hasQs: false, path: '', first: '', src: '' };
-    const ml = { list: [], head: '', sub: '', empty: false };
+    const nv = { tabs: [], isOverview: false, tiles: [] };
     const ql = { list: [], agenda: { bg: 'transparent', bd: 'transparent', go: null, cur: undefined } };
     const qr = { isQ: false, isAgenda: false, raised: [], raisedN: 0, docs: [], docsN: 0, conf: [], hasConf: false, path: '', decided: [], counts: '', intro: [] };
     const pl = { head: '', sub: '', items: [] };
@@ -521,29 +588,130 @@ class Component extends DCLogic {
     }
 
     if (is.manuscript) {
-      const drafts = D.manuscript.filter((m) => !m.readme).length;
-      const words = D.manuscript.filter((m) => !m.readme).reduce((n, m) => n + m.w, 0);
-      ml.head = drafts + ' drafts';
-      ml.sub = fmt(words) + ' words · rendered from Manuscript/ as written; an overview page opens each folder';
-      ml.empty = D.manuscript.length === 0;
-      const sel = s.ms == null ? Math.max(0, D.manuscript.length - 1) : s.ms;
-      ml.list = D.manuscript.map((m, i) => {
-        const on = i === sel;
-        return {
-          id: m.part ? m.part.replace(/^kap-0?/, 'K') : '—', main: m.t.replace(/^Kap \d+ — /, ''),
-          sub: m.readme ? 'overview · ' + m.f : fmt(m.w) + ' words · ' + m.f.split('/').pop(),
-          idc: m.readme ? '#645F53' : '#B0341E', bg: on ? '#FBFAF6' : 'transparent', bd: on ? '#C9C0AC' : 'transparent',
-          cur: on ? 'true' : undefined, go: () => this.setState({ ms: i }),
-        };
-      });
-      const m = D.manuscript[sel];
-      if (m) {
+      const N = D.novel;
+      const item = (k, t, sub, on, go, kc) => ({ isBtn: true, isGroup: false, isLink: false, k: k, t: t, s: sub || '', hasS: !!sub, kc: kc || '#645F53', bg: on ? '#FBFAF6' : 'transparent', bd: on ? '#C9C0AC' : 'transparent', go: go });
+      const group = (t) => ({ isBtn: false, isGroup: true, isLink: false, t: t });
+      const cards = (kind) => N.cards.filter((c) => c.kind === kind).length;
+      const plots = D.manuscript.filter((m) => m.part === 'plot');
+      const chDrafts = N.chapters.reduce((n, c) => n + c.drafts.length, 0);
+      const openW = N.weichen.filter((w) => !this.novelDecided(w));
+      const own = N.findings.filter((x) => !x.legacy);
+      const counts = { overview: '', chapters: N.chapters.length, cast: cards('figuren'), world: cards('welt'), plot: plots.length, decisions: openW.length + ' open', findings: N.findings.length };
+      nv.tabs = this.novelTabs().map((t) => ({
+        label: t[1] + (counts[t[0]] !== '' ? ' · ' + counts[t[0]] : ''), on: mtab === t[0], bd: mtab === t[0] ? '#B0341E' : 'transparent',
+        fw: mtab === t[0] ? 600 : 400, fg: mtab === t[0] ? '#1C1B18' : '#4A463E', go: () => this.setState({ mtab: t[0], msel: null }),
+      }));
+      const draftId = (m) => {
+        if (m.readme) return '—';
+        const b = m.f.split('/').pop();
+        const pm = b.match(/^plot-entwurf-0*(\d+)/);
+        if (pm) return 'P' + pm[1];
+        const em = b.match(/^entwurf-([a-z])-/);
+        return em ? em[1].toUpperCase() : '·';
+      };
+      const isApproved = (m) => N.approved.indexOf(m.f.replace(/^Manuscript\//, '')) >= 0;
+      const short = (t) => t.replace(/^Kap \d+ — (Entwurf [A-Z]: )?/, '').replace(/^Plot-Entwurf \d+: /, '').replace(/`/g, '');
+      const occOf = (c) => c.occ.reduce((n, o) => n + o[1], 0);
+      const nOf = (n, one, many) => n + ' ' + (n === 1 ? one : many);
+      if (mtab === 'overview') {
+        nv.isOverview = true;
+        const tile = (label, big, cap, path, color, go) => ({ label: label, big: String(big), cap: cap, path: path, color: color, go: go });
+        nv.tiles = [
+          tile('canon', N.kanon.length, 'decisions of yours · ' + N.kanon.map((k) => k.id).join(', '), 'Manuscript/kanon.md', '#1C1B18', () => this.setState({ mtab: 'decisions', msel: 'kanon' })),
+          tile('approved', N.approved.length, 'chapters approved, of ' + N.chapters.length + ' begun', 'kanon.md · Freigegebene Kapitel', '#B0341E', () => this.setState({ mtab: 'chapters', msel: null })),
+          tile('drafts', chDrafts, 'chapter drafts · working, none canon', 'Manuscript/kap-NN/', '#4A463E', () => this.setState({ mtab: 'chapters', msel: null })),
+          tile('plot', plots.length, 'plot drafts · proposals, not a treatment', 'Manuscript/plot/', '#4A463E', () => this.setState({ mtab: 'plot', msel: null })),
+          tile('cards', cards('figuren') + cards('welt'), cards('figuren') + ' cast · ' + cards('welt') + ' world', 'Manuscript/figuren/ · welt/', '#4A463E', () => this.setState({ mtab: 'cast', msel: null })),
+          tile('weichen', openW.length, 'open decisions · ' + (openW.length ? openW[0].id + ' first' : 'none'), 'Plan/weichen/', '#B0341E', () => this.setState({ mtab: 'decisions', msel: openW.length ? openW[0].id : null })),
+          tile('findings', own.length, 'readings of the drafts by the writing skills', 'Plan/runs/writing/', '#2B4C8C', () => this.setState({ mtab: 'findings', msel: null })),
+        ];
+        const readme = D.manuscript.find((m) => m.f === 'Manuscript/README.md');
+        const ledgerTable = ['tb', [['id'], ['date'], ['what holds']], N.kanon.map((k) => [[['b', k.id]], [k.date], k.what]), 'lll', 'minmax(0, 0.35fr) minmax(0, 0.7fr) minmax(0, 3.2fr)'];
         rd = {
-          kicker: 'Manuscript · ' + m.f, title: m.t.replace(/`/g, ''), tsz: m.t.length > 56 ? 30 : 36,
-          hasSub: false, sub: '',
-          chips: [m.readme ? this.chip('overview') : this.chip('draft', 'rubric'), this.chip(fmt(m.w) + ' words'), this.chip('not canon')],
-          secs: this.secs(m.lede, m.sec, uid + '-m' + sel), maxW: 700, key: 'ms:' + sel,
+          kicker: 'Manuscript/ · the novel’s workspace', title: 'The novel', tsz: 44, hasSub: true,
+          sub: 'Only canon and working drafts. Canon is what you decided or approved, listed once in Manuscript/kanon.md; everything else waits on your yes.',
+          chips: [this.chip(N.kanon.length + ' canon entries', 'ink'), this.chip(N.approved.length + ' chapters approved', N.approved.length ? 'blue' : 'rubric'), this.chip(openW.length + ' Weichen open', 'rubric')],
+          secs: this.secs(null, [[['Canon, as it stands'], -1, '', [ledgerTable, ['p', [N.approved.length ? N.approved.length + ' chapters approved.' : 'No chapter is approved yet.']]]]], uid + '-nvk')
+            .concat(readme ? this.secs(readme.lede, readme.sec, uid + '-nvr') : []),
+          maxW: 980, key: 'nv:overview',
         };
+      } else {
+        const entries = this.novelEntries(mtab);
+        const firsts = entries.filter((x) => !x.group);
+        const selKey = s.msel && firsts.some((x) => x.key === s.msel) ? s.msel : (firsts.length ? firsts[0].key : null);
+        const sel = (k) => () => this.setState({ msel: k });
+        pl.head = { chapters: nOf(N.chapters.length, 'chapter', 'chapters') + ' begun', cast: cards('figuren') + ' cards — the cast', world: cards('welt') + ' cards — the world', plot: plots.length + ' plot drafts', decisions: N.kanon.length + ' canon · ' + openW.length + ' Weichen open', findings: N.findings.length + ' findings' }[mtab];
+        pl.sub = {
+          chapters: 'Each chapter folder with its drafts and the findings that read them. A draft is canon only when Manuscript/kanon.md lists it.',
+          cast: 'One card per figure: what you decided, what the drafts make of it, what is open. The wiki holds the research.',
+          world: 'One card per place, rule or mechanism, built like the cast cards.',
+          plot: 'Whole-novel plot drafts. Proposals, never a treatment, until you approve one.',
+          decisions: 'The canon ledger, and the decision sheets in Plan/weichen/ — each open until you answer it.',
+          findings: 'What the writing skills said about the drafts and the material. Readings, never canon; they live in Plan/runs/writing/.',
+        }[mtab];
+        pl.items = entries.map((x) => {
+          if (x.group) return group(x.group);
+          const on = x.key === selKey;
+          if (x.kind === 'draft') {
+            const m = D.manuscript[x.ref];
+            return item(draftId(m), short(m.t), m.readme ? 'the folder’s overview' : this.fmt(m.w) + ' words · ' + (isApproved(m) ? 'canon' : 'working draft'), on, sel(x.key), isApproved(m) ? '#2B4C8C' : '#B0341E');
+          }
+          if (x.kind === 'finding') {
+            const f = N.findings[x.ref];
+            return item(f.date.slice(5), f.t.replace(/^[a-z-]+ — /, '').replace(/`/g, ''), f.skill + ' · ' + f.target, on, sel(x.key), f.legacy ? '#9A9384' : '#2B4C8C');
+          }
+          if (x.kind === 'card') {
+            const c = N.cards[x.ref];
+            const n = occOf(c);
+            return item(c.kanon.length ? c.kanon.join(' ') : '—', c.t, n ? nOf(n, 'mention', 'mentions') + ' in ' + nOf(c.occ.length, 'draft', 'drafts') : 'in no draft yet', on, sel(x.key), c.kanon.length ? '#1C1B18' : '#B0341E');
+          }
+          if (x.kind === 'ledger') return item('§', 'The canon ledger', N.kanon.length + ' decisions · ' + N.approved.length + ' chapters approved', on, sel(x.key), '#1C1B18');
+          const w = N.weichen[x.ref];
+          return item(w.id, w.t.replace(/`/g, ''), (w.rec ? 'recommended ' + w.rec + ' · ' : '') + (this.novelDecided(w) ? 'decided' : 'open'), on, sel(x.key), '#B0341E');
+        });
+        const cur = entries.find((x) => !x.group && x.key === selKey);
+        if (cur && cur.kind === 'draft') {
+          const m = D.manuscript[cur.ref];
+          rd = {
+            kicker: 'Manuscript · ' + m.f, title: m.t.replace(/`/g, ''), tsz: m.t.length > 56 ? 30 : 36, hasSub: false, sub: '',
+            chips: [m.readme ? this.chip('overview') : isApproved(m) ? this.chip('canon', 'ink') : this.chip('working draft', 'rubric'), this.chip(this.fmt(m.w) + ' words')],
+            secs: this.secs(m.lede, m.sec, uid + '-m' + cur.ref), maxW: 700, key: 'ms:' + cur.key,
+          };
+        } else if (cur && cur.kind === 'finding') {
+          const f = N.findings[cur.ref];
+          rd = {
+            kicker: 'Finding · ' + f.f, title: f.t.replace(/`/g, ''), tsz: f.t.length > 60 ? 28 : 34, hasSub: true,
+            sub: f.legacy ? 'A reading of the parked Legacy draft — kept as a measurement, never a voice reference.' : 'A reading of the drafts or the material by a writing skill. It proposes; you decide.',
+            chips: [this.chip(f.skill, 'blue'), this.chip(f.target), this.chip(f.date || 'undated'), this.chip('not canon', 'rubric')],
+            secs: this.secs(f.lede, f.sec, uid + '-f' + cur.ref), maxW: 760, key: 'mf:' + cur.key,
+          };
+        } else if (cur && cur.kind === 'card') {
+          const c = N.cards[cur.ref];
+          const occTable = ['tb', [['draft'], ['mentions']], c.occ.map((o) => [[D.manuscript[o[0]].t.replace(/`/g, '')], [String(o[1])]]), 'lr', 'minmax(0, 3fr) minmax(0, 0.6fr)'];
+          const extra = [[['In the drafts'], -1, '', [['p', ['How often ' + c.match.map((x) => '„' + x + '“').join(', ') + ' occurs in each draft — counted, not read.']], c.occ.length ? occTable : ['p', ['In no draft yet.']]]]];
+          if (c.wiki >= 0) extra.push([['Research'], -1, '', [['p', ['The wiki collects what the sources say. None of it holds here until you decide it: ', ['l', D.pages[c.wiki].t + ' in the wiki', c.wiki], '.']]]]);
+          rd = {
+            kicker: (c.kind === 'figuren' ? 'Cast' : 'World') + ' · ' + c.f, title: c.t, tsz: 40, hasSub: false, sub: '',
+            chips: (c.kanon.length ? c.kanon.map((k) => this.chip('canon · ' + k, 'ink')) : [this.chip('nothing decided', 'rubric')]).concat([this.chip(c.wiki >= 0 ? 'in the sources' : 'invented in a draft')]),
+            secs: this.secs(c.lede, c.sec.concat(extra), uid + '-c' + cur.ref), maxW: 720, key: 'mc:' + cur.key,
+          };
+        } else if (cur && cur.kind === 'ledger') {
+          rd = {
+            kicker: 'Canon · ' + N.ledger.f, title: N.ledger.t || 'Kanon', tsz: 40, hasSub: true,
+            sub: 'The one place canon is stated. A card, chapter or Weiche counts as canon only by naming an id from it.',
+            chips: [this.chip(N.kanon.length + ' decisions', 'ink'), this.chip(N.approved.length + ' chapters approved', N.approved.length ? 'blue' : 'rubric')],
+            secs: this.secs(N.ledger.lede, N.ledger.sec, uid + '-k'), maxW: 760, key: 'mk',
+          };
+        } else if (cur && cur.kind === 'weiche') {
+          const w = N.weichen[cur.ref];
+          rd = {
+            kicker: 'Weiche ' + w.id + ' · ' + w.f, title: w.t.replace(/`/g, ''), tsz: w.t.length > 60 ? 28 : 34, hasSub: false, sub: '',
+            chips: [this.novelDecided(w) ? this.chip('decided', 'ink') : this.chip('open', 'rubric'), this.chip(w.rec ? 'recommended ' + w.rec : 'no recommendation'), this.chip(w.kind || '—')],
+            secs: this.secs(w.lede, w.sec, uid + '-w' + cur.ref), maxW: 760, key: 'mw:' + cur.key,
+          };
+        } else {
+          rd = { kicker: 'Manuscript', title: 'Nothing here yet', tsz: 36, hasSub: false, sub: '', chips: [], secs: [], maxW: 700, key: 'nv:empty' };
+        }
       }
     }
 
@@ -928,7 +1096,7 @@ class Component extends DCLogic {
       ids: { search: uid + '-search', wq: uid + '-wq', cq: uid + '-cq' },
       q: q, onQ: onQ, onQKey: onQKey, sr: sr,
       now: now, rd: rd, readerRef: this._refCb,
-      w: w, wr: wr, cl: cl, cr: cr, ml: ml, ql: ql, qr: qr, pl: pl, proc: proc, loop: loop, chk: chkv,
+      w: w, wr: wr, cl: cl, cr: cr, nv: nv, ql: ql, qr: qr, pl: pl, proc: proc, loop: loop, chk: chkv,
       g: g, cp: cp,
     };
   }

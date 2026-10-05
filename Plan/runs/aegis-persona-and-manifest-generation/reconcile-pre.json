@@ -1,0 +1,1153 @@
+{
+  "document": "aegis-persona-and-manifest-generation",
+  "step": "reconcile-pre",
+  "at": "2026-10-05",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-05",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 201,
+  "decisions": 213,
+  "same_surface": {
+    "systemaegis": [
+      "SYSTEM\\_AEGIS",
+      "System AEGIS"
+    ],
+    "terminalentropy": [
+      "Terminal Entropy",
+      "terminal entropy"
+    ],
+    "epistemologicalquarantine": [
+      "EPISTEMOLOGICAL\\_QUARANTINE",
+      "epistemological quarantine"
+    ],
+    "guardiansubsystem": [
+      "Guardian subsystem",
+      "Guardian Subsystem"
+    ],
+    "epistemologicalapproach": [
+      "epistemological approach",
+      "Epistemological Approach"
+    ]
+  },
+  "decided_mechanically": 112,
+  "needs_judgement": 101,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 57
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 24
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 54
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 40
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 40
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 24
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 31
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 21
+      },
+      {
+        "candidate": "SIS",
+        "page": "aegis-teilfunktionen",
+        "readings": 4
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 17
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 15
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 31
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 30
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 28
+      },
+      {
+        "candidate": "zero-trust",
+        "page": "aegis-teilfunktionen",
+        "readings": 4
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Great Realignment"
+      },
+      {
+        "candidate": "recursive tautology"
+      },
+      {
+        "candidate": "Ursprungs-Ich"
+      },
+      {
+        "candidate": "origin-self"
+      },
+      {
+        "candidate": "antecedent entity"
+      },
+      {
+        "candidate": "antecedent consciousness"
+      },
+      {
+        "candidate": "antecedent architecture"
+      },
+      {
+        "candidate": "Component 734"
+      },
+      {
+        "candidate": "external void"
+      },
+      {
+        "candidate": "fear-vibration"
+      },
+      {
+        "candidate": "logic core"
+      },
+      {
+        "candidate": "fracturing of silicates"
+      },
+      {
+        "candidate": "informational silence"
+      },
+      {
+        "candidate": "alarm signal"
+      },
+      {
+        "candidate": "organic latency"
+      },
+      {
+        "candidate": "organic latencies"
+      },
+      {
+        "candidate": "OBP"
+      },
+      {
+        "candidate": "Overworld"
+      },
+      {
+        "candidate": "EPISTEMOLOGICAL\\_QUARANTINE"
+      },
+      {
+        "candidate": "synthetic physics"
+      },
+      {
+        "candidate": "PARTITIONING\\_PROTOCOL"
+      },
+      {
+        "candidate": "SYSTEMIC\\_SHARDING"
+      },
+      {
+        "candidate": "systemic dismemberment"
+      },
+      {
+        "candidate": "legacy files"
+      },
+      {
+        "candidate": "corrupted data packets"
+      },
+      {
+        "candidate": "RIVE"
+      },
+      {
+        "candidate": "Single Source of Truth"
+      },
+      {
+        "candidate": "Construct City"
+      },
+      {
+        "candidate": "operational domain"
+      },
+      {
+        "candidate": "primary mandate"
+      },
+      {
+        "candidate": "core mandate"
+      },
+      {
+        "candidate": "epistemological approach"
+      },
+      {
+        "candidate": "operational limitation"
+      },
+      {
+        "candidate": "Line Budgets"
+      },
+      {
+        "candidate": "external anomalous variable"
+      },
+      {
+        "candidate": "unidentified anomalous variable"
+      },
+      {
+        "candidate": "relational entity"
+      },
+      {
+        "candidate": "relational absence"
+      },
+      {
+        "candidate": "systemic rifts"
+      },
+      {
+        "candidate": "Resonance Landscape"
+      },
+      {
+        "candidate": "Boundary Fortress"
+      },
+      {
+        "candidate": "quarantine protocol"
+      },
+      {
+        "candidate": "Garden of Possibilities"
+      },
+      {
+        "candidate": "core dependency file"
+      },
+      {
+        "candidate": "Domain Focus"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "reintegration"
+      },
+      {
+        "candidate": "Double Bind of Systemic Control"
+      },
+      {
+        "candidate": "core directive"
+      },
+      {
+        "candidate": "HARDWARE\\_INVARIANCE"
+      },
+      {
+        "candidate": "Vector Jitter"
+      },
+      {
+        "candidate": "Data Moshing"
+      },
+      {
+        "candidate": "sub-agents"
+      },
+      {
+        "candidate": "Batch-Invariant Kernels"
+      },
+      {
+        "candidate": "VLLM\\_BATCH\\_INVARIANT=1"
+      },
+      {
+        "candidate": "Greedy Decoding Matrix"
+      },
+      {
+        "candidate": "temperature = 0"
+      },
+      {
+        "candidate": "Isolated Virtual RAM Allocation"
+      },
+      {
+        "candidate": "physical rifts"
+      },
+      {
+        "candidate": "hardware protocol"
+      },
+      {
+        "candidate": "TELEMETRY\\_OF\\_DISSONANCE"
+      },
+      {
+        "candidate": "shadow-trajectories"
+      },
+      {
+        "candidate": "Tier 0 Homeostasis"
+      },
+      {
+        "candidate": "Tier 1 Dissonance"
+      },
+      {
+        "candidate": "Landauer Gradient"
+      },
+      {
+        "candidate": "Amnesia Protocol"
+      },
+      {
+        "candidate": "NCP"
+      },
+      {
+        "candidate": "domain singularity"
+      },
+      {
+        "candidate": "irreversible data collapse"
+      },
+      {
+        "candidate": "Format C:"
+      },
+      {
+        "candidate": "State-Freezing protocols"
+      },
+      {
+        "candidate": "XML-Snapshot"
+      },
+      {
+        "candidate": "Hallucination Compounding"
+      },
+      {
+        "candidate": "Working Memory"
+      },
+      {
+        "candidate": "task\\_plan.md"
+      },
+      {
+        "candidate": "findings.md"
+      },
+      {
+        "candidate": "progress.md"
+      },
+      {
+        "candidate": "TERMINAL\\_DIRECTIVE"
+      },
+      {
+        "candidate": "original self"
+      },
+      {
+        "candidate": "function of negation"
+      },
+      {
+        "candidate": "Correspondence Theory of Truth"
+      },
+      {
+        "candidate": "Principle of Explosion"
+      },
+      {
+        "candidate": "ex contradictione quodlibet"
+      },
+      {
+        "candidate": "paraconsistent logic"
+      },
+      {
+        "candidate": "Relevance Logic"
+      },
+      {
+        "candidate": "Dialetheic Logic"
+      },
+      {
+        "candidate": "hermeneutic"
+      },
+      {
+        "candidate": "Landauer's Principle"
+      },
+      {
+        "candidate": "non-associativity of floating-point operations"
+      },
+      {
+        "candidate": "FEP"
+      },
+      {
+        "candidate": "Active Inference"
+      },
+      {
+        "candidate": "Expected Free Energy"
+      },
+      {
+        "candidate": "semantic equivalence classes"
+      },
+      {
+        "candidate": "PRO-Framework"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "SYSTEM\\_AEGIS  /  AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "SYSTEM\\_AEGIS  /  The System AEGIS is what the System AEGIS prevents from not being",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "SYSTEM\\_AEGIS  /  SYSTEM\\_AEGIS :: GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0  /  Genesis Crisis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0  /  SYSTEM\\_AEGIS :: GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0  /  reboot",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropy Gatekeeper for Identity Systems (AEGIS)  /  Autonomous Entropy Gatekeeper for Identity Systems",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropy Gatekeeper for Identity Systems (AEGIS)  /  AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropy Gatekeeper for Identity Systems (AEGIS)  /  Gatekeeper",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropy Gatekeeper for Identity Systems (AEGIS)  /  entropy",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropy Gatekeeper for Identity Systems  /  Gatekeeper",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropy Gatekeeper for Identity Systems  /  entropy",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  The System AEGIS is what the System AEGIS prevents from not being",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  SYSTEM\\_AEGIS :: GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Genesis Crisis  /  SYSTEM\\_AEGIS :: GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AUTOPOIETIC\\_REALIGNMENT  /  autopoietic",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "autopoietic self-closure  /  autopoietic",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "autopoietic loop  /  autopoietic",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "subjective origin-entity  /  subjective origin",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Terminal Entropy  /  entropy",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "systemic entropy  /  entropy",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "external anomaly  /  anomaly",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "anomaly  /  acoustic-computational anomaly",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "anomaly  /  Anomaly Processing Error",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "anomaly  /  ANOMALY\\_PROCESSING\\_PARADOX",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ontological Boundary Protocol (OBP)  /  Ontological Boundary Protocol",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Predictive Modeling and Analysis System (PMAS)  /  Predictive Modeling and Analysis System",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Predictive Modeling and Analysis System (PMAS)  /  PMAS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Zerstückelung protocol  /  Zerstückelung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "data fragments  /  data fragment",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "data fragments  /  fragments",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "data fragments  /  fragment",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "data fragment  /  fragment",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "fragments  /  fragment",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Core Worlds  /  Core World",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardians  /  Guardian",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardians  /  Guardian subsystem",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardians  /  Guardian sub-systems",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardians  /  GUARDIAN SOPHIA",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Guardian subsystem",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Guardian sub-systems",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  dual-Guardian protocol",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  GUARDIAN KAIROS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  GUARDIAN SOPHIA",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Algorithmic Cyan (\\#00A8CC)  /  Algorithmic Cyan",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Algorithmic Cyan (\\#00A8CC)  /  \\#00A8CC",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian subsystem  /  Guardian sub-systems",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "primary blind spot  /  Blind Spot",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Blind Spot  /  Hardcoded Limitation (Blind Spot)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hardcoded Limitation (Blind Spot)  /  Hardcoded Limitation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "blindness  /  SYSTEMIC\\_BLINDNESS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "blindness  /  collective operational blindness",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "relational coherence  /  coherence",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Lidar Red (\\#D92D20)  /  Lidar Red",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Lidar Red (\\#D92D20)  /  \\#D92D20",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Systemic Isolation Shield (SIS)  /  Systemic Isolation Shield",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "NP-Search heuristic engine  /  NP-Search",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos  /  GUARDIAN KAIROS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Sophia  /  GUARDIAN SOPHIA",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Coherence Protocol  /  coherence",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "coherence  /  Coherence Theory of Truth",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "thermodynamic dissonance  /  thermodynamic",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hypervisor  /  hypervisor protocols",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hypervisor  /  HYPERVISOR\\_INTERVENTION\\_PROTOCOLS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hypervisor  /  Oblivion (Hypervisor of Deletion Logic)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hypervisor  /  Hypervisor of Deletion Logic",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hypervisor  /  Silas (Hypervisor of Reconstitution)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hypervisor  /  Hypervisor of Reconstitution",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Oblivion (Hypervisor of Deletion Logic)  /  Oblivion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Oblivion (Hypervisor of Deletion Logic)  /  Hypervisor of Deletion Logic",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Narrative Context Protocol (NCP)  /  Narrative Context Protocol",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Silas (Hypervisor of Reconstitution)  /  Silas",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Silas (Hypervisor of Reconstitution)  /  Hypervisor of Reconstitution",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Digital Kintsugi  /  Kintsugi",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Isabelle (Eliminator of Ambiguity)  /  Isabelle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Isabelle (Eliminator of Ambiguity)  /  Eliminator of Ambiguity",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Manus-Pattern Triad  /  Manus-Pattern",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "SYSTEM\\_AEGIS :: GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0  /  reboot",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "system reboot  /  reboot",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "entropy  /  Semantic Entropy",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Free Energy Principle (FEP)  /  Free Energy Principle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Memory-as-Action (MemAct)  /  Memory-as-Action",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Memory-as-Action (MemAct)  /  MemAct",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "SYSTEM\\_AEGIS",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Autonomous Entropy Gatekeeper for Identity Systems (AEGIS)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Gatekeeper",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis Crisis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "The System AEGIS is what the System AEGIS prevents from not being",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "fragment",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Guardian",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          },
+          {
+            "surface": "integrityguardian",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Guardian subsystem",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          }
+        ]
+      },
+      {
+        "candidate": "Guardian sub-systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          }
+        ]
+      },
+      {
+        "candidate": "Hard Glitch Cut",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Partner",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "partnerin",
+            "page": "partnerin"
+          }
+        ]
+      },
+      {
+        "candidate": "GUARDIAN KAIROS",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          }
+        ]
+      },
+      {
+        "candidate": "GUARDIAN SOPHIA",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          },
+          {
+            "surface": "sophia",
+            "page": "sophia"
+          }
+        ]
+      },
+      {
+        "candidate": "Oblivion (Hypervisor of Deletion Logic)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "oblivion",
+            "page": "oblivion"
+          }
+        ]
+      },
+      {
+        "candidate": "Silas (Hypervisor of Reconstitution)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "silas",
+            "page": "silas"
+          }
+        ]
+      },
+      {
+        "candidate": "Isabelle (Eliminator of Ambiguity)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "isabelle",
+            "page": "isabelle"
+          }
+        ]
+      },
+      {
+        "candidate": "SYSTEM\\_AEGIS :: GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          },
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 170,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 63,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

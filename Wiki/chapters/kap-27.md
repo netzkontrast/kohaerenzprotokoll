@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -60,6 +60,15 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 - Place: „Er steht in einem überwucherten Ruinengarten, dessen Erde feucht ist und der dezent nach Ozon des Werdens riecht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
 - Establishes: „Es ist die Generative Computational Class, der einzige Raum im System, in dem neues Leben und neue Information entstehen können.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
 - The alters: „Die Stimmen der Alters in Kaels Geist sind nun kein Rauschen mehr, sondern ein vielstimmiger, klarer Chor.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Contradictory State“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L284]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „A (Wir, dialetheistisch)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L286]
+
+- Story: the outline places: „Dialetheismus als Waffe“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L286]; „Nyx blutet, Kiko hat seit drei Stunden nicht geatmet“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L286]
+- Encoding A: „MC · SP4 (Conscious) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L286]
+- Change 4 of the revision puts Kap 27 as „*praktizierter* Dialetheismus (Waffe)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L22]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

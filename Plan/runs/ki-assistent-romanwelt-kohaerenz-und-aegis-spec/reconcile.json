@@ -1,0 +1,193 @@
+{
+  "document": "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
+  "drive_id": "1_nYuB-9lZFjRDBvq2-eKA-sVm1TEaK2wTLtSSu7Ru0g",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "census and note by a document-reader subagent (Sonnet), 2026-10-05, from the R5 task; the session read the specification half (L111–L201) and the analyst's report of the novel (L21, L59, L61) against the note and corrected nothing; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-63/brief.md, two of its seventeen files dropped by the reconciler (Plan/runs/ingest-63/dropped/README.md); reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 248,
+    "decisions": 258,
+    "decided_by_lookup": 153,
+    "needs_judgement": 105
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A specification for a multi-agent writing assistant: its candidates are software patterns (Spec-Driven Development, Harness-in-Harness, Progressive Disclosure, Manus-Pattern, State Freezing, Semantic Entropy, Free Energy Principle, batch-invariant kernels) and the assistant's own mechanisms. The novel's names it borrows already have pages and took readings framed as the spec's; nothing it coins is a term of the novel's world.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        59,
+        61,
+        115,
+        119,
+        127,
+        135,
+        179,
+        199,
+        201
+      ],
+      "attribution": "",
+      "note": "the novel's AEGIS as reported, and AEGIS as a writing assistant's gatekeeper"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        199
+      ],
+      "attribution": "",
+      "note": "a status the assistant's AEGIS falls into"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the DKT as the spec's frame for two computing cores"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        21,
+        59,
+        101,
+        121,
+        154
+      ],
+      "attribution": "",
+      "note": "entropy as the novel's term reported, and as a software measure"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        199
+      ],
+      "attribution": "",
+      "note": "the Gödel Gambit as the case that sends the decision to the human author"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        177,
+        179
+      ],
+      "attribution": "",
+      "note": "four subsystems of a writing assistant called Guardians"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        189
+      ],
+      "attribution": "",
+      "note": "Isabelle as a subsystem of the writing assistant"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        59,
+        61
+      ],
+      "attribution": "",
+      "note": "Kael as reported, and as a symbol for generative models"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Kernel as one of two computing cores"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        21,
+        59,
+        201
+      ],
+      "attribution": "",
+      "note": "coherence as the assistant's enforced order"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kernel as thermodynamic counterforce"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        186
+      ],
+      "attribution": "",
+      "note": "LogOS as a subsystem of the writing assistant"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        187
+      ],
+      "attribution": "",
+      "note": "Oblivion as a deletion subsystem of the writing assistant"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        188,
+        197
+      ],
+      "attribution": "",
+      "note": "Silas as a repair subsystem of the writing assistant"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        163,
+        167,
+        168,
+        173
+      ],
+      "attribution": "",
+      "note": "a software analogue: splitting a failing agent"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 and J17 (a title naming the work: AEGIS Spezifikation, Kohärenz Protokoll in quotation marks), J12 and J16 (a compound is its own token: Entropie-Katalysator, Rest-Entropie, Hard Glitch Cut), J28 and J32 (a compound is placed by what it names: Autopoietische Entropie-Regulation durch thermodynamische Inferenz, isolierten Risse), J49 (a world name built from a bearer's name is not the bearer: Kairos-Potentialis), J60 (an acronym and its expansion: DKT, NCP, FEP), J69 (a match only after folding: Realität / realitaetsebenen, Trauma / vergessener-schrein), J72 (a parenthetical index is part of the label: Guardian (Subsystem), Identitäts-Fragmentierung (Das Trennungsprotokoll)), J88 (a common noun for a page's referent is placed by the sentence: Der Gatekeeper, -Kernel), J114 (a protocol doing what a page's protocol does is placed on that page by the sentence: the spec's Trennungsprotokoll)",
+  "sweep": [
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 189,
+      "decision": "occurrence",
+      "why": "the PRO framework's `Persona, Requirement, Output` that the subsystem Isabelle checks before a sub-agent starts; a prompt-engineering term, not the novel's personas"
+    }
+  ],
+  "not_promoted": [
+    "Narrative Context Protocol (NCP), Story Mind — the writing engine's vocabulary (L23); no page, a question the author already has (NOW.md, graph question 6)",
+    "Harness-in-Harness, Spec-Driven Development, State Freezing — software patterns, no page",
+    "Lia — named at L195 only as an example of a quarantined EP agent inside the spec's software example: an occurrence, the drafted reading dropped"
+  ],
+  "internal_tension": "none: the analyst's half selects its third hypothesis (L77, L79) and the specification half states it; the kernel symbols are lost throughout the export",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.531, PageRank 0.689 over 24 cases — unchanged; no case moved"
+}

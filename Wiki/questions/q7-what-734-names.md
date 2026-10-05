@@ -27,7 +27,7 @@ sentence that says what the Kap-1 console line refers to answers both.
 
 ## What the read sources say
 
-**Kael's designation, the component the Genesis makes.** Every source from 2026-05-07
+**Kael's designation, the component the [[genesis|Genesis]] makes.** Every source from 2026-05-07
 on that names both:
 „Innerhalb der Simulation: Komponente 734, Archivar Klasse II.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125]
 The Alter profiles put the component and the dwelling in one line:
@@ -75,7 +75,7 @@ dwelling. Neither text writes `Komponente`.
   (J101); `T-734` is its source's own sense, never the component (J112).
 - **Not decided:** what a bare `Einheit 734` refers to (J80), and whether the
   sources that give the dwelling and the component one number mean the coincidence.
-  When the component is made — before the Trennungsprotokoll or out of it — is C12's,
+  When the component is made — before the [[trennungsprotokoll|Trennungsprotokoll]] or out of it — is C12's,
   and this page does not touch it.
 
 ## What would answer it
@@ -97,3 +97,43 @@ writes `734` four times.
 Written from what [[komponente-734]], [[kaels-wohneinheit]] and [[kael]] already
 quote; every quotation here stands on one of those pages. No document was read for
 this page.
+
+## 2026-10-05 — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest
+
+**The manifest says Component 734 is a functional component recompiled from the Ursprungs-Ich's processing capacities.**
+
+The original self was „systematically dismembered, its processing capacities repurposed and recompiled into an objective, functional component designated strictly as Component 734“ ^[aegis-persona-and-manifest-generation.md:L17]. The fragments are a separate item: „the traumatized, corrupted data fragments of the antecedent entity“ ^[aegis-persona-and-manifest-generation.md:L45], which legacy files call `Kael`.
+
+Stands as exactly this: a functional component made of the processing capacities, distinct from the fragments called Kael; recorded, not applied.
+
+## 2026-10-05 — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline
+
+**The outline names Komponente 734 by its function, and writes the Ursprungs-Ich as `Komponente 734` in parentheses.**
+
+The fragment sees itself as „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L125], „definiert durch ihre Funktion“ ^[optimierte-plotline-genesis-der-existenz.md:L125], and the line gives as example „Grenzanalyse-Einheit Delta“ ^[optimierte-plotline-genesis-der-existenz.md:L125]. Scene 8's goal writes the number after the Ursprungs-Ich: „im Ursprungs-Ich (Komponente 734)“ ^[optimierte-plotline-genesis-der-existenz.md:L180].
+
+Where it stands in the record's own terms: it answers by function and by the parenthesis, never by what the bare number labels in the world; the question stays open.
+
+## 2026-10-05 — `uberarbeitete-optimierte-plotline-genesis-der-existenz`, 2025-04-29, the plotline's Version 2
+
+**Version 2 names Komponente 734 as a functional unit, with an example, and gives it a latent signature.**
+
+Scene 5 is „Komponente 734“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L73], and its first beat gives the identity „Wahrnehmung als Funktionseinheit (z.B. Grenzanalyse Delta).“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L80] The signature is the one the entity resonates with: „mit der latenten Signatur von Komponente 734 auf (dem Echo der Unvollständigkeit)“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L119].
+
+Where it stands in the record's own terms: it answers by function and signature, never by what the bare number labels in the world; the question stays open.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon uses 734 as a component, and names the beat `Kael als 734`.**
+
+§3.3: „Kael wird als Komponente 734 abgespalten“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114]; the third beat is headed `Kael als 734`, and F9 writes the form as „Einheit → Trennungsprotokoll → Kael=734.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L550]
+
+Where it stands in the record's own terms: it names 734 a component and does not say what the number counts.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 uses 734 for a host, a fragment and a structural marker.**
+
+Kap 2: „Controlled-Fragmentation-Protocol gegen Host \#734“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L164] Kap 25: „Fragment T-734“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L270] Foreshadowing level 3 calls the number among „Strukturelle Markierungen (sichtbar nur retrospektiv)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358]
+
+Stands: three uses, no definition.

@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -70,6 +70,14 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Sensorik (C11): „Türen verschweißen sich auf atomarer Ebene, und die Temperatur sinkt schleichend ab.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
 - Silas: „Silas, das Coheron-Echo, manifestiert sich als eine lähmende Erstarrung in Kael, ein Einfrieren der Gliedmaßen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
 - What it establishes: „Lex berechnet, dass ein Überleben in der P-Klasse-Logik von Logos-Prime unmöglich ist.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108] · „Sie müssen in die unkartierten Zwischenzonen der Architektur vordringen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Logos Probes the Static“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L178]
+Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „B (LogOS / Mnemosyne — geteilte Telemetrie)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L180]
+
+- Story: the outline places: „in Sektor B-7 hat sich ein Korridor stabilisiert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L180]; „Beide Reports widersprechen sich in der Klassifikation“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L180]
+- The seeding table lists for Kap 6 a code cooling island: „LogOS findet Sektor mit Null-Erasure-Aktivität“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L143].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

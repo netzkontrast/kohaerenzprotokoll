@@ -1,0 +1,131 @@
+# 05-verify — every number the census and note state, with the command and its output (run 2026-10-05, Sonnet)
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "Konzeptdokument"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konzeptdokument` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "Konzept-Pitch"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konzept-Pitch` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "Genesis-Krise"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Genesis-Krise` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "K-J Connection"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`K-J Connection` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "Moonshine-Link"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Link` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "Beat"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Beat` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "Lex"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lex` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-hard-sf-horror-thriller --count "Kael"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            32
+
+`Kael` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#28]
+
+# stance_marker_count 3 = Konzeptdokument 1 + Konzept-Pitch 1 + Referenzen 1
+
+$ grep -n '?' Sources/drive/kohaerenz-protokoll-hard-sf-horror-thriller.md | cut -c1-60   # the four question marks: L63 and three links
+63:Innerhalb der Handlung unterscheidet die Erzählung präz
+173:1.  Kohärenz Protokoll: Synthese & Integration, <https:
+176:4.  Plot Narrative Bausteine für Cosmic Horror , <https
+180:8.  Roman-Konzept: Dualität, Kohärenz, Spannung, <http
+
+$ grep -o '\\\*' Sources/drive/kohaerenz-protokoll-hard-sf-horror-thriller.md | wc -l   # 88 escaped asterisks
+88
+
+$ grep -n '()' Sources/drive/kohaerenz-protokoll-hard-sf-horror-thriller.md | cut -c1-6   # three empty pairs of parentheses: L29 twice, L119
+29:()
+29:()
+119:()
+
+$ grep -n -E '^[0-9]\.  ' Sources/drive/kohaerenz-protokoll-hard-sf-horror-thriller.md | cut -c1-8   # nine reference entries
+173:1.  
+174:2.  
+175:3.  
+176:4.  
+177:5.  
+178:6.  
+179:7.  
+180:8.  
+181:9.  
+
+$ grep -n -o 'Kaels' Sources/drive/kohaerenz-protokoll-hard-sf-horror-thriller.md   # four genitives
+47:Kaels
+91:Kaels
+115:Kaels
+151:Kaels
+
+$ grep -n -o -w 'EPR\|ANPs\|EPs' Sources/drive/kohaerenz-protokoll-hard-sf-horror-thriller.md
+25:ANPs
+27:EPs
+47:ANPs
+63:ANPs
+87:ANPs
+87:EPs
+87:EPs
+87:ANPs
+125:EPR
+
+$ grep -n -o 'Kernels\|Kohärenz-Kernel\|Kollaps-Kernel\|K-Kernel' Sources/drive/kohaerenz-protokoll-hard-sf-horror-thriller.md
+25:Kohärenz-Kernel
+27:Kollaps-Kernel
+63:Kernels
+79:Kernels
+83:K-Kernel
+
+# profile figures (census.py draft): backslash escapes 88, glued ref numbers 9, question marks 4, 301 candidates

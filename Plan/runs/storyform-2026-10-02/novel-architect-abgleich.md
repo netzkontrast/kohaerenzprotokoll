@@ -2,7 +2,7 @@
 
 **Auf Wunsch des Autors** („prüfe was du bisher hast"). Gelesen, vollständig: der Kanon des Skills
 (`references/canon/kohaerenz-protokoll.ncp.json`, `canon-meta.md`, `open-questions.md`, `progress.md`), **Stand
-2026-05-03**. Verglichen mit `Plan/storyform/` (Entscheidung 024, Stand 2026-10-05).
+2026-05-03**. Verglichen mit `Plan/storyform/` (Entscheidung 025, Stand 2026-10-05).
 
 **Rang:** Im Repository gilt Entscheidung 006 — kein Datum und kein Anspruch, Kanon zu sein, entscheidet etwas;
 was gilt, hat der Autor entschieden. Der Skill-Kanon ist deshalb hier eine *Quellenposition vom 3. Mai*, keine
@@ -19,7 +19,7 @@ Vorgabe; die Antworten des Autors von 2026-10-02/05 gehen ihm vor.
 
 ## Wo der Skill-Kanon anders ist — und warum
 
-| Punkt | Skill (2026-05-03) | jetzt (Entscheidung 024) | Grund |
+| Punkt | Skill (2026-05-03) | jetzt (Entscheidung 025) | Grund |
 |---|---|---|---|
 | Approach | A Do-er, B Be-er | A Be-er, B Do-er | Lock-in 2026-05-07 („Approach-Korrektur"), C8. **Mit den Skill-Werten wären beide Storyforms ungültig**: D2 legte die MC-Klasse von A auf Universe, die von B auf Mind; B bräche zusätzlich D1. |
 | A Growth | Start | Stop | D1 (Start + Be-er verlangt OS Universe/Physics); Autor, Schritt 16 |

@@ -1,4 +1,4 @@
-# 024 — Dramatica is the recipe; the dual storyform of 2026-05-07 is the model
+# 025 — Dramatica is the recipe; the dual storyform of 2026-05-07 is the model
 
 **Date:** 2026-10-02 · **Decided by:** the author, step by step in one session · **Status:** in use
 

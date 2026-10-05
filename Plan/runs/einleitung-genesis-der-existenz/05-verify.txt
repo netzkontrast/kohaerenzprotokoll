@@ -1,0 +1,134 @@
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "nicht Spoilern"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`nicht Spoilern` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "besserer Begriff?"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`besserer Begriff?` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Satz löschen, oder weniger foreshadowing"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Satz löschen, oder weniger foreshadowing` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Überwelt"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Überwelt` ^[einleitung-genesis-der-existenz.md:#6]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Nichts Rauschen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nichts Rauschen` ^[einleitung-genesis-der-existenz.md:#3]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kohärenz Protokoll` ^[einleitung-genesis-der-existenz.md:#2]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Kohärenz Protokolls"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokolls` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Kohärenz Protokoll 1.0"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll 1.0` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Klick"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Klick` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Ich-Fragment"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ich-Fragment` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Trennungsprotokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Trennungsprotokoll` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Ursprungs-Ich"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Ursprungs-Ich` ^[einleitung-genesis-der-existenz.md:#4]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Ursprungs-Ichs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Ursprungs-Ichs` ^[einleitung-genesis-der-existenz.md:#2]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Parmenides"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Parmenides` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Śūnyatā"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Śūnyatā` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Cluster 2"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Cluster 2` ^[einleitung-genesis-der-existenz.md:#2]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Cluster 6"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cluster 6` ^[einleitung-genesis-der-existenz.md:#1]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Clusters"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Clusters` ^[einleitung-genesis-der-existenz.md:#4]
+
+$ python3 scripts/read.py einleitung-genesis-der-existenz --count "Selbsterlebens"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selbsterlebens` ^[einleitung-genesis-der-existenz.md:#1]
+
+stance_marker_count 3 = 1+1+1 (the three counts above)

@@ -1,6 +1,6 @@
 # `Plan/storyform/` — the novel's two Dramatica storyforms
 
-The plot's structure, as the author decided it step by step (decision 024). Start with **`overview.md`**.
+The plot's structure, as the author decided it step by step (decision 025). Start with **`overview.md`**.
 
 | file | what | who writes it |
 |---|---|---|

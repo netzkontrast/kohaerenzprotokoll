@@ -1,0 +1,740 @@
+{
+  "document": "plotanalyse-kohaerenz-protokoll-szenario",
+  "drive_id": "1Bv-Os0WoRX1XROrCg2nLMhQUnD57ZC4AQ9xLXngOsIA",
+  "step": "counts",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 125,
+      "n_including_compounds": 126,
+      "lines": [
+        11,
+        17,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        48,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        58,
+        59,
+        60,
+        65,
+        67,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        78,
+        84,
+        85,
+        86,
+        88,
+        92,
+        93,
+        94,
+        101,
+        102,
+        103,
+        113,
+        114,
+        115,
+        119,
+        125,
+        130,
+        131,
+        135,
+        136,
+        143,
+        148,
+        149,
+        150,
+        158,
+        159,
+        161,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        205,
+        206,
+        207,
+        208,
+        219,
+        225,
+        227,
+        246,
+        247,
+        248
+      ]
+    },
+    "Aegis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69
+      ]
+    },
+    "Monstergruppe": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        40,
+        80,
+        88,
+        101,
+        125,
+        142,
+        166,
+        172,
+        173,
+        227,
+        241
+      ]
+    },
+    "Kael": {
+      "n": 29,
+      "n_including_compounds": 64,
+      "lines": [
+        11,
+        17,
+        40,
+        41,
+        44,
+        46,
+        47,
+        48,
+        49,
+        54,
+        56,
+        70,
+        73,
+        74,
+        76,
+        78,
+        84,
+        85,
+        86,
+        87,
+        92,
+        93,
+        94,
+        95,
+        97,
+        99,
+        101,
+        102,
+        103,
+        119,
+        130,
+        136,
+        148,
+        149,
+        159,
+        165,
+        174,
+        175,
+        176,
+        178,
+        206,
+        225,
+        227,
+        245,
+        246
+      ]
+    },
+    "Juna": {
+      "n": 6,
+      "n_including_compounds": 13,
+      "lines": [
+        11,
+        17,
+        41,
+        44,
+        73,
+        97,
+        99,
+        101,
+        102,
+        148,
+        150,
+        225
+      ]
+    },
+    "Kael-Juna-Verbindung": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        41,
+        44,
+        73,
+        97,
+        101
+      ]
+    },
+    "K-J-Verbindung": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        44,
+        47,
+        57,
+        93,
+        102,
+        103,
+        135,
+        136,
+        158,
+        174,
+        177,
+        247,
+        248
+      ]
+    },
+    "K-J": {
+      "n": 8,
+      "n_including_compounds": 23,
+      "lines": [
+        41,
+        44,
+        47,
+        53,
+        57,
+        59,
+        93,
+        101,
+        102,
+        103,
+        135,
+        136,
+        158,
+        174,
+        177,
+        247,
+        248
+      ]
+    },
+    "Kernwelten": {
+      "n": 20,
+      "n_including_compounds": 21,
+      "lines": [
+        46,
+        47,
+        48,
+        61,
+        70,
+        92,
+        93,
+        94,
+        102,
+        105,
+        119,
+        136,
+        159,
+        165,
+        207,
+        208,
+        227,
+        246,
+        247
+      ]
+    },
+    "Kernwelt 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "KW3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        93
+      ]
+    },
+    "Potentialmeer": {
+      "n": 13,
+      "n_including_compounds": 24,
+      "lines": [
+        51,
+        52,
+        55,
+        58,
+        69,
+        105,
+        109,
+        115,
+        136,
+        143,
+        158,
+        161,
+        165,
+        174,
+        177,
+        207,
+        209,
+        227,
+        247
+      ]
+    },
+    "Kern-Selbst": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        47,
+        93,
+        103,
+        130
+      ]
+    },
+    "Rissen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "sub-protokollarische": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        101
+      ]
+    },
+    "Alters": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        46,
+        87,
+        92,
+        130
+      ]
+    },
+    "Parias": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        40,
+        49,
+        87,
+        95
+      ]
+    },
+    "Moonshine-Modul": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Kohärenz durch Abgrenzung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        143
+      ]
+    },
+    "Kohärenz durch Integration": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        71,
+        143
+      ]
+    },
+    "User Query": {
+      "n": 62,
+      "n_including_compounds": 62,
+      "lines": [
+        17,
+        21,
+        25,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        80,
+        84,
+        85,
+        86,
+        87,
+        92,
+        93,
+        95,
+        101,
+        102,
+        103,
+        109,
+        119,
+        125,
+        131,
+        135,
+        136,
+        143,
+        148,
+        149,
+        158,
+        159,
+        161,
+        165,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178
+      ]
+    },
+    "Konzept-Plot-Verknüpfungsmatrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        41,
+        101,
+        261
+      ]
+    },
+    "Gödel'sche Unvollständigkeitssätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        71
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Quanten-Nichtlokalität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        102
+      ]
+    },
+    "Autopoiesis": {
+      "n": 13,
+      "n_including_compounds": 14,
+      "lines": [
+        45,
+        69,
+        70,
+        142,
+        172,
+        241,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293
+      ]
+    },
+    "strukturelle Kopplung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        69,
+        70
+      ]
+    },
+    "Dissoziative Identitätsstörung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        46,
+        92
+      ]
+    },
+    "DID": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        46,
+        92,
+        130,
+        142,
+        148,
+        175,
+        301
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        93
+      ]
+    },
+    "IFS": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        21,
+        47,
+        93,
+        103,
+        119,
+        142,
+        148,
+        175,
+        227,
+        302
+      ]
+    },
+    "Manager": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        93
+      ]
+    },
+    "Firefighter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        93
+      ]
+    },
+    "Exiles": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        93
+      ]
+    },
+    "Narrative Expositionstherapie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        94
+      ]
+    },
+    "NET": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        48,
+        94,
+        148,
+        227,
+        304,
+        305,
+        306
+      ]
+    },
+    "Jung'scher Schatten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        95
+      ]
+    },
+    "Holismus": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        50,
+        125,
+        142,
+        160,
+        172,
+        178,
+        235,
+        241
+      ]
+    },
+    "Reduktionismus": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        50,
+        125,
+        142,
+        160,
+        178,
+        235,
+        241
+      ]
+    },
+    "Potentialität": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        51,
+        109,
+        113,
+        115,
+        142
+      ]
+    },
+    "Aristotelische Potentialität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Entropie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        52,
+        69,
+        109,
+        114,
+        115
+      ]
+    },
+    "Church-Turing-These": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Schiff des Theseus": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        130
+      ]
+    },
+    "Emergenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        115,
+        125
+      ]
+    },
+    "Bindungsproblem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        136
+      ]
+    },
+    "transpersonalen Psychologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Non-Dualität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        136
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        119
+      ]
+    },
+    "KI-Alignment": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        74
+      ]
+    },
+    "Epistemologie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        59,
+        135
+      ]
+    },
+    "Ontologie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        58,
+        109,
+        115
+      ]
+    }
+  }
+}

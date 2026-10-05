@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      90
+  backslash escapes      408
+  typographic marks      248
+  ascii quotes           115
+
+# inflection families -- one term, several surfaces
+  check    CHECK, CHECKLIST, Check, Checkpoint, Checkpoints, Checks
+  konfl    Konflikt, Konflikte, Konflikten, Konfliktregel, Konflikts, Konfliktursache
+  story    Story, Storyform, Storyforming, Storyforms, Storypoint, Storypoints
+  block    BLOCK, BLOCKS, Block, Blockade, Blocks
+  chara    Character, Charakter, Charakterarchitektur, Charakteren, Charakteristika
+  metho    METHODS, Method, Methode, Methoden, Methodology
+  struk    Struktur, Strukturelle, Strukturen, Strukturieren, Strukturierte
+  guard    Guard, Guardian, Guardians, Guards
+  integ    INTEGRITY, Integration, Integrity, IntegrityGuardian
+  itera    ITERATION, Iteration, Iterationen, Iterations
+  leser    Leser, Leserpsychologie, Lesersog, Lesersteuerung
+  phase    Phase, Phasen, Phasenplan, Phasenstruktur
+  refle    Reflection, Reflektion, Reflektionen, Reflektions
+  roman    Roman, Romanautor, Romanprojekt, Romans
+  trian    Triangulation, Triangulations, Triangulationsstatus, Trianguliere
+  arbei    Arbeit, Arbeitsnotizen, Arbeitstitel
+  archi    Archipel, Architect, Architektur
+  begri    Begriff, Begriffe, Begriffen
+  bestä    Bestätige, Bestätigung, Bestätigungen
+  const    CONSTRAINT, Constraint, Constraints
+  defin    Definition, Definitionen, Definitionsmismatch
+  diese    Diese, Dieser, Dieses
+  dokum    Dokument, Dokumente, Dokumenten
+  extra    Extraction, Extrahiere, Extraktion
+  funkt    Funktion, Funktionale, Funktionen
+
+# substring pairs -- never one term, often merged by accident
+  AUSF < Ausführung
+  Akte < Akten
+  Akte < Charakter
+  Akte < Charakteren
+  Akte < Charakteristika
+  Akte < Charakterarchitektur
+  Alle < Falle
+  Anti < Antinomie
+  Atem < Restatement
+  Beat < Beats
+  Bild < Bilder
+  Bild < Bildern
+  Eine < Deine
+  Eine < Keine
+  Eine < Keiner
+  Ende < Endet
+  Ende < Tendenz
+  Ende < ÜHRENDE
+  Ende < Verwende
+  Erst < Erste

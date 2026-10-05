@@ -1,6 +1,6 @@
 # Prüfung nach dem dramatica-theory-Skill — 2026-10-05
 
-**Geprüft:** `specs/a-author.json` und `specs/b-author.json` (Entscheidung 024, Schritte 1–15), nach `00-storyform-validation.md` (harte Regeln H1–H12, weiche Checks S1–S8) und `11-anti-patterns.md`. Die harten Regeln, die `dramatica.py` mechanisch prüft, sind markiert; alles andere ist eine Lesung dieser Sitzung.
+**Geprüft:** `specs/a-author.json` und `specs/b-author.json` (Entscheidung 025, Schritte 1–15), nach `00-storyform-validation.md` (harte Regeln H1–H12, weiche Checks S1–S8) und `11-anti-patterns.md`. Die harten Regeln, die `dramatica.py` mechanisch prüft, sind markiert; alles andere ist eine Lesung dieser Sitzung.
 
 ## Harte Regeln
 
@@ -38,7 +38,7 @@
 2. **AP-11, Storyform zu früh verriegelt.** Der Skill rät, die Element-Ebene erst beim Schreiben festzulegen. W1 = A (Rezept) hat sich bewusst anders entschieden; B als Kontrolle ist genau der Punkt, an dem Elemente wieder geändert werden dürfen. Das ist hier vermerkt, nicht neu entschieden.
 3. **Doppel-Storyform.** Der Skill beschreibt *eine* Grand Argument Story je Storyform; zwei vollständige Storyforms in einem Buch kennt er nicht. Jede Storyform ist für sich gültig; wie die beiden ein Argument ergeben, ist S1 — die Prämisse.
 
-## Nachtrag: die Prämisse (Entscheidung 024, Schritt 0)
+## Nachtrag: die Prämisse (Entscheidung 025, Schritt 0)
 
 **„Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung."** S1 ist damit erfüllt.
 

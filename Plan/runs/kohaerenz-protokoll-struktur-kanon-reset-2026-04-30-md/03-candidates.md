@@ -1,0 +1,175 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+- Kohärenz Protokoll
+- Struktur-Kanon
+- CORE
+- KEEP
+- OFFEN
+- Die sechs Lasten
+- Dual-Storyform
+- Wahrheits-Inversion
+- Junas Rolle
+- Genesis
+- Ouroboros
+- Liebe bleibt
+- Kael
+- AEGIS
+- Juna
+- TSDP
+- ANP
+- EP
+- Appendix B
+- K1
+- K0
+- Kohärenz-Wächter
+- Kollaps-Operator
+- Coherons
+- Erasonen
+- Dual-Kernel-Theorie
+- Landauer-Prinzip
+- Landauer-Wärme
+- Brücke
+- Erasure
+- Mutual Information
+- Zeitpfeil
+- Komponente 734
+- Kael als 734
+- Kael=734
+- Trennungsprotokoll
+- Einheit
+- Ur-Einheit
+- Fragmentierungsnacht
+- Telefonstille
+- Telefon-Stille
+- Driver-Pivot
+- Mnemosyne-Archipel
+- Mnemosyne
+- Moonshine-Link
+- Moonshine
+- Storyform A
+- Storyform B
+- Heuristics of Integration
+- Phoenix Collapse
+- Phoenix Mode
+- Funktionale Multiplizität
+- Funktionalen Multiplizität
+- Multiplizität
+- Wir-Geflecht
+- Wir-Geflecht-These
+- A-These
+- B-These
+- Coherence Protocol
+- Erasure Protocol
+- Domain-Inversion
+- Klein-Vierer-Operation
+- Klein-Vierer-Gruppen-Mapping
+- Doppel-IC-Position
+- Diegetische Ebene
+- Storyform-Ebene
+- Erscheinungsmodi
+- Anomale Erasure-Bilanz
+- Phantom-Resonanz
+- Silas
+- Oblivion
+- Algorithmische Melancholie
+- Truth-Rotation
+- Convergence
+- Pivot
+- Stille
+- Heat-Spike
+- Rotation
+- Reader als Substrat-Funktion
+- Substrat-Funktion
+- Reader-Substrat-Funktion
+- 5. Position
+- Artistic Pole
+- Aesthetic Pole
+- Riss-Mandat
+- Somatic Rulebook
+- Computational Class
+- Parakonsistent
+- NP-Hard
+- Generativ
+- Polyphonie
+- Stilebenen
+- Lex
+- Alex
+- Rhys
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Argus
+- Spiegel-Alter
+- Sonderform
+- ANPs (Apparently Normal Parts)
+- EPs (Emotional Parts)
+- Apparently Normal Parts
+- Emotional Parts
+- tragischer Gott
+- Fundament
+- Strange Attractor
+- Witness-Funktion
+- Gödel-Eigenschaft
+- Witness Function
+- Quanten-Entanglement-Witness
+- Crypto-ZK-Verifier
+- Husserl Spectator
+- Gödel-Satz
+- Chaitin Ω
+- Monstrous Moonshine
+- Orbifold
+- Monstergruppe
+- Leech-Lattice
+- AEGIS-Protokolle
+- ZTEM
+- RTSV
+- BPoF
+- EIC
+- IntegrityGuardian
+- CogFirewall
+- ConsensusEnf
+- SIS
+- EntropicMgmt
+- RIVE
+- PMAS
+- SARM
+- Guardians
+- LogOS
+- Cerberus
+- Kairos/Sophia
+- Kairos
+- Sophia
+- Lösch-Pol
+- Erasure-Sweep
+- Hubble-Volumen
+- Maxwellscher Dämon
+- Wormholes
+- Erinnerungs-Versiegelung
+- Konstrukt-Stadt
+- Köln
+- Vortex
+- Epigenetische Geister
+- Optionlock
+- Timelock
+- Kudzu
+- Dekanonisiert
+- Telefonstille als Anker-Modus
+
+## lens
+
+- Dramatica
+- Storyform
+- Storymind
+- Throughline
+- Iser'sche Reader-Response-Theorie
+- Occam-Prinzip
+- Dialetheia
+- Ted-Chiang-Maßstab
+- Egan-Falle
+- Landauer
+- Gödel
+
+Observations. The document calls itself the sole structural basis of the novel project after the reset of 30 April 2026 and sets a hierarchy (this document, memory slots, training knowledge); that is a canon claim about its own standing and is recorded, not applied. It sorts material into CORE, KEEP and OFFEN, lists research questions F1 to F10 with repeated labels (Bisherige Kandidaten, Plot-Aufgabe, Forschungsfrage), and has a section of what has fallen away and a list of decanonised alter names. Tables are escaped with backslash asterisks. K1 and K0 are written with plain digits. Telefonstille and Telefon-Stille both occur. The last entry of the list above (Telefonstille als Anker-Modus) was a slip of mine: it is a phrase of the argument, not a term, and is not defended. Terms standing only in questions or in the lists of dropped material (the F1 candidates, the 12 protocols, the decanonised names) are mentioned rather than defined.

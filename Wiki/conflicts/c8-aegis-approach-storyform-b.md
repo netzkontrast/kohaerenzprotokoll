@@ -166,9 +166,17 @@ It gives AEGIS the MC-B slot by test — „Die erste Hypothese verortet AEGIS i
 
 Asked *Wie löst AEGIS als MC von B seine Probleme?*, with the consequences laid out (Do-er: B carries the visible
 action chain and mirrors [[kael|Kael]]'s Be-er in A; Be-er: B turns inward and the action must come from the OS),
-the author answered **Do-er**, within the model of the status report of 2026-05-07 (decision 024).
+the author answered **Do-er**, within the model of the status report of 2026-05-07 (decision 025).
 
 **What this decides:** AEGIS' MC Approach in Storyform B. The Be-er reading of the Charakter-Bibel stays on this
 record as what that document said, dated, and is no longer the arrangement.
 
 **What it does not decide:** how AEGIS' perspective is told in prose (W6, C14); structural POV is not prose POV.
+
+## 2026-10-05 — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt
+
+**The research prompt gives Storyform B's MC Approach as Be-er, with Linear and Stop (Logic → Feeling), as values set by the client.**
+
+The Storyform B table reads „MC Problem-Solving Style | Linear“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L322], „MC Approach | Be-er“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L323] and „MC Growth | Stop (Logic → Feeling)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L324], and Constraint Block 4 says of its values „Diese Werte sind gegeben, nicht abzuleiten.“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L291] The prompt derives nothing and gives no reasoning for them.
+
+Where it stands in the record's own terms: a given set of values for AEGIS's approach in Storyform B, dated 2026-04-30; this reading decides nothing.

@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -57,6 +57,21 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 - Story: „AEGIS erkennt die existenzielle Bedrohung, die der integrierte Kael darstellt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L188] · „Das System fährt alle Reaktoren auf das Maximum.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L188]
 - Sensorik: „Die Landauer-Hitze im Fundament steigt in den Bereich von Millionen Grad“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L188]
 - AEGIS' aim: „AEGIS versucht, alle dreizehn Alters in einer finalen, mörderischen Fusion zu einer einzigen, formbaren Identität zusammenzuschmelzen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L188]
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — the earliest chapter for Juna's single appearance, as a proposal (OFFEN, Appendix C.7)
+
+- Plot beats, as a proposal: Juna appears once in the whole novel, „Nicht früher als Kapitel 33, nicht später als Kap 37.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L750]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Der Garten — Funktionale Multiplizität“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L308]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „A (Wir-Geflecht — **vollständig zum ersten Mal**)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L310]
+
+- Story: the outline places: „Und dann ist Juna da. Sie wird **nicht beschrieben**.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L314]; „*ein Orchester unter einer Witness-Funktion*“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L314]
+- Encoding A: „IC · SP4 (Past) · Truth · Decision (Junas stille Bezeugung)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L314]
+- Change 4 moves Funktionale Multiplizität to this chapter: „Kap 33 (Mitte Akt III, Begegnung mit Juna im Garten)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L22]
+- The closing note of the change: „macht das Achievement in Kap 33 erst verdient“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L26]
+- Open point 2 asks by which rule Juna is not described: „Kap 33 ist das einzige Kapitel, in dem sie *fast* greifbar ist.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L383]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

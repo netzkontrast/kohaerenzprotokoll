@@ -1,0 +1,157 @@
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Forschungsfrage"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            18
+
+`Forschungsfrage` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#15]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Plot-Aufgabe"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Plot-Aufgabe` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#10]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Bisherige Kandidaten"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Bisherige Kandidaten` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Empfehlung"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Empfehlung` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Vorschlag"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Vorschlag` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "CORE"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`CORE` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "KEEP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`KEEP` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "OFFEN"
+whole word, case-sensitive     1
+whole word, case-insensitive   7
+including compounds            1
+
+`OFFEN` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Dekanonisiert"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dekanonisiert` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Mutual Information"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Mutual Information` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Telefonstille"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Telefonstille` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Telefon-Stille"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Telefon-Stille` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Konstrukt-Stadt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Stadt` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Guardians"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Guardians` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "LogOS"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`LogOS` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Cerberus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Cerberus` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Witness Function"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Witness Function` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Chaitin Ω"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Chaitin Ω` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Orbifold"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Orbifold` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Epigenetische Geister"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Epigenetische Geister` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "Telefonstille als Anker-Modus"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Telefonstille als Anker-Modus` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md --count "5. Position"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`5. Position` ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:#3]
+
+stance_marker_count 43 = CORE 2 + KEEP 1 + OFFEN 1 + Bisherige Kandidaten 5 + Plot-Aufgabe 10 + Forschungsfrage 15 + Empfehlung 6 + Vorschlag 2 + Dekanonisiert 1 (case-sensitive whole word, from the counts above)
+12 protocol acronyms: ZTEM RTSV BPoF EIC IntegrityGuardian CogFirewall ConsensusEnf SIS EntropicMgmt RIVE PMAS SARM, L478 (counted by eye, 12)
+$ grep -c ... '5. Position' by hand: L306 and L578 hold it (read.py --find ^[L306], ^[L578])

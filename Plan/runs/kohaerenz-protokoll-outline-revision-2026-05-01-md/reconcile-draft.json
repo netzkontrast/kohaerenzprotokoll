@@ -1,0 +1,597 @@
+{
+  "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+  "drive_id": "1DQWbQdL73R09Q7IZNi0OSEKJZPLHbERM6UK4YlhcxOo",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 106,
+    "decisions": 111,
+    "decided_by_lookup": 80,
+    "needs_judgement": 31
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        60,
+        61,
+        172
+      ],
+      "attribution": "",
+      "note": "SIS in the pre-assessment and the evaluation"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        20,
+        74,
+        188,
+        204,
+        290,
+        298,
+        326,
+        334
+      ],
+      "attribution": "",
+      "note": "AEGIS told chapter by chapter from its own POV"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        112,
+        176,
+        310
+      ],
+      "attribution": "",
+      "note": "a mode first, named in Kap 13, no longer protecting in Kap 33"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        298,
+        326
+      ],
+      "attribution": "",
+      "note": "a lure in Kap 30, a fall in Kap 36"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        20,
+        105,
+        109,
+        126,
+        208,
+        224
+      ],
+      "attribution": "",
+      "note": "the Alter-Surface-Timeline, and a veil rule it states two ways"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        120,
+        192,
+        310
+      ],
+      "attribution": "",
+      "note": "fortress walls first, Argus later"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        196,
+        254
+      ],
+      "attribution": "",
+      "note": "Mnemosyne's duty, Moros's failure"
+    },
+    {
+      "page": "did",
+      "lines": [
+        20,
+        188
+      ],
+      "attribution": "",
+      "note": "Compositional Anomaly as AEGIS's first term"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        290
+      ],
+      "attribution": "",
+      "note": "Kap 28's logic tumor"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        318,
+        382
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise in the outline's Kap 34 and open point 1"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        19,
+        88,
+        180,
+        266,
+        306
+      ],
+      "attribution": "",
+      "note": "the B chapters' side, and LogOS and Mnemosyne in action"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        228,
+        232,
+        310
+      ],
+      "attribution": "",
+      "note": "a hypersensitive trace in Kap 16, named in Kap 17"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        21,
+        137,
+        144,
+        148,
+        184,
+        294,
+        314,
+        338,
+        383
+      ],
+      "attribution": "",
+      "note": "Juna seeded as effect from Kap 1, an event in Kap 7, present undescribed in Kap 33"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        20,
+        160,
+        208,
+        270,
+        294,
+        338
+      ],
+      "attribution": "",
+      "note": "Kael unmarked as a system until Kap 13"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        156,
+        216,
+        282,
+        310
+      ],
+      "attribution": "",
+      "note": "Kernwelt per act"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        116,
+        200,
+        253,
+        310
+      ],
+      "attribution": "",
+      "note": "the child's terror from Kap 11, trust in Kap 33"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        196,
+        354,
+        382
+      ],
+      "attribution": "",
+      "note": "Komponente 734 as a directive, a word and a layer"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        160
+      ],
+      "attribution": "",
+      "note": "Kap 1 setting"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        322
+      ],
+      "attribution": "",
+      "note": "Landauer divergent in Kap 35"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        111,
+        168,
+        224,
+        252
+      ],
+      "attribution": "",
+      "note": "a cold mode from Kap 3, named in Kap 15"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        228,
+        232
+      ],
+      "attribution": "",
+      "note": "ambivalence in the caches (Kap 16), a voice in Kap 17"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        164,
+        228,
+        266,
+        274,
+        306
+      ],
+      "attribution": "",
+      "note": "the filter that overrides, then loops, then builds and tears down"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        196,
+        266,
+        274,
+        306,
+        322,
+        334
+      ],
+      "attribution": "",
+      "note": "the curator that refuses, and a pronoun that changes"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        326
+      ],
+      "attribution": "",
+      "note": "Kap 36 names the form"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        119,
+        254,
+        310
+      ],
+      "attribution": "",
+      "note": "first graspable at the collapse of Kap 21"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        338
+      ],
+      "attribution": "",
+      "note": "Kap 39"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        22,
+        26,
+        204,
+        262,
+        286,
+        314
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität moved to Kap 33"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        330
+      ],
+      "attribution": "",
+      "note": "islands around Kael/M"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        115,
+        192,
+        254,
+        310
+      ],
+      "attribution": "",
+      "note": "an imperative voice from Kap 9, holding the threshold in Kap 33"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        109,
+        122,
+        160,
+        192,
+        300,
+        302
+      ],
+      "attribution": "",
+      "note": "a trace in Kap 1, an explicit appearance in Kap 31"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        99,
+        342,
+        384
+      ],
+      "attribution": "",
+      "note": "opening A, closing A, one word exchanged"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        310
+      ],
+      "attribution": "",
+      "note": "Kap 33"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        113,
+        310
+      ],
+      "attribution": "",
+      "note": "the anchor that carries, from Kap 1"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        156,
+        160
+      ],
+      "attribution": "",
+      "note": "Glitches in Act I, a tiny Riss in Kap 1"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        65,
+        188
+      ],
+      "attribution": "",
+      "note": "Kap 8 renders it"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        114,
+        236,
+        240,
+        270,
+        310
+      ],
+      "attribution": "",
+      "note": "quiet in the background (Kap 12), the one who waits and leads"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        121,
+        172,
+        240,
+        310
+      ],
+      "attribution": "",
+      "note": "warm surfaces, a whisper, named in Kap 19"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        144,
+        184,
+        350
+      ],
+      "attribution": "",
+      "note": "Telefon-Stille as seeding and anchor"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        196,
+        318,
+        382
+      ],
+      "attribution": "",
+      "note": "the Trennungsprotokoll reactivated in Kap 34"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        326,
+        382
+      ],
+      "attribution": "",
+      "note": "Kap 36 as the moment, open point 1 as proposal"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        20
+      ],
+      "attribution": "",
+      "note": "among the words that do not fall"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        330,
+        374
+      ],
+      "attribution": "",
+      "note": "Act III's crescendo to Kap 36"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C7",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q7",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "cache-kohaerenz",
+      "surface": "Cache-Kohärenz",
+      "line": 196,
+      "decision": "reading",
+      "why": "Mnemosyne keeping Cache-Kohärenz in Kap 10 (L196) and the Cache-Kohärenz-Versagen of Kap 21 (L254)"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 188,
+      "decision": "reading",
+      "why": "Compositional Anomaly as the first term AEGIS has for DID, Kap 8 (L188)"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 290,
+      "decision": "reading",
+      "why": "Kap 28, every control operation produces the entropy it should prevent (L290)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the document's title (J9)"
+    },
+    {
+      "page": "komponente-734",
+      "surface": "Komponente 734",
+      "line": 196,
+      "decision": "reading",
+      "why": "the directive „Schrein 734 nicht öffnen“ (L196) and open point 1's triple-layer twist (L382)"
+    },
+    {
+      "page": "mosaik-herz",
+      "surface": "Mosaik-Herz",
+      "line": 338,
+      "decision": "reading",
+      "why": "Kap 39 names the Mosaik-Herz in the final scene (L338)"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 156,
+      "decision": "reading",
+      "why": "Act I's punctual Glitches (L156) and the organic Riss of Kap 1 (L160)"
+    },
+    {
+      "page": "sektor-04",
+      "surface": "Sektor 04",
+      "line": 65,
+      "decision": "reading",
+      "why": "the Notlöschung of the POV table (L65) and Kap 8's rendering of Sektor 04 (L188)"
+    },
+    {
+      "page": "telefon-stille",
+      "surface": "Telefon-Stille",
+      "line": 21,
+      "decision": "reading",
+      "why": "Juna's seeding and Kap 7's „Stille mit Gewicht“ like a telephone (L21, L144, L184)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 94,
+      "decision": "occurrence",
+      "why": "only the POV label `Simulation in Ruhezustand` of Kap 38 (L94, L334); no sense of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

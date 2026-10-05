@@ -5,7 +5,7 @@ description: Work on the novel's plot structure — the two Dramatica storyforms
 
 # The storyforms
 
-The novel runs on two complete Dramatica storyforms (decision 024): **A**, Kael's healing (Triumph), and
+The novel runs on two complete Dramatica storyforms (decision 025): **A**, Kael's healing (Triumph), and
 **B**, AEGIS' collapse (Tragedy), under one premise — *„Vielheit ist keine Störung der Ordnung, sondern ihre
 Bedingung."* W1 made Dramatica the recipe: the treatment is written from them, then checked against them.
 
@@ -15,7 +15,7 @@ Bedingung."* W1 made Dramatica the recipe: the treatment is written from them, t
 |---|---|
 | the current state, in one page | `Plan/storyform/overview.md` (generated) |
 | the source of truth, every value with its provenance | `Plan/storyform/a.json`, `b.json` |
-| why each value is what it is, step by step | `Plan/decisions/024-dramatica-is-the-recipe.md` |
+| why each value is what it is, step by step | `Plan/decisions/025-dramatica-is-the-recipe.md` |
 | the engine rules and their limits; what the sources say about signposts; the validation | `Plan/runs/storyform-2026-10-02/` — `engine-rules.md`, `signposts-in-sources.md`, `validation.md` |
 | the open decision sheets for the novel | `Plan/weichen/` (W10 casting, WP plot points, …) |
 
@@ -49,7 +49,7 @@ python3 scripts/dramatica.py derive twelve.json    # what the engine fixes from 
    recommendation the author did not see.
 3. **Record** the answer in the JSON: the value, its `provenance` entry (`author, <date>, <what>` / `derived D… ` /
    `source <slug>`), and the work-language texts the NCP needs. Then run `storyform.py`.
-4. **Write it down** in decision 024 (a new numbered step), or a new decision when an answer reverses an earlier one,
+4. **Write it down** in decision 025 (a new numbered step), or a new decision when an answer reverses an earlier one,
    and refresh the storyform line of `NOW.md`.
 5. **Commit** naming the change; a revised Wiki page (a conflict a decision settles, like C8) gets its own commit.
 

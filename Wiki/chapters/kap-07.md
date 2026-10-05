@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -72,6 +72,16 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Who: „Hier tritt Nyx aus den Schatten – wild, aggressiv und getrieben von einem endlosen, stummen Zorn.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L112]
 - Reader's view: „Für den Leser ist sie ein korrumpiertes Programm“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L112]
 - What it establishes: „spürt dabei jedoch eine erschreckende Symmetrie in ihren Bewegungen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L112]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Resonant Intrusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L182]
+Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „A (Kael, allein, in einem Korridor zwischen Schichten)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L184]
+
+- Story: the outline places: „Kein Modus übernimmt“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L184]; „Wie ein Telefon, in dem jemand atmet“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L184]
+- Encoding A: „RS · SP1 (Understanding) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L184]
+- The seeding table calls it „Erste volle Resonanz-Berührung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L144].
+- Change 3 puts it: „Erst Kap 7 manifestiert sie als Resonanzbruch im Schrein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L21].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

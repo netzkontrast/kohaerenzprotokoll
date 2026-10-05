@@ -1,0 +1,177 @@
+{
+  "document": "optimierte-plotline-genesis-der-existenz",
+  "drive_id": "14RVIXJzM0AIOI23YZjP8l9cuytpE_t4WRTpFNVmVJiM",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 39,
+    "decisions": 40,
+    "decided_by_lookup": 28,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        83,
+        87,
+        104,
+        147,
+        149,
+        194,
+        196,
+        197,
+        215,
+        218
+      ],
+      "attribution": "",
+      "note": "AEGIS planned as a click, a simulating process, a misdiagnosis and a protocol"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        13,
+        17,
+        35,
+        61,
+        109,
+        131,
+        173,
+        222
+      ],
+      "attribution": "",
+      "note": "the Genesis re-planned in ten scenes and three parts"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        220,
+        222,
+        235,
+        236,
+        239
+      ],
+      "attribution": "",
+      "note": "Kael planned as the mosaic born in the last scene"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        235,
+        238
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as the isolated partitions where the fragments wake"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        109,
+        125,
+        127,
+        129,
+        147,
+        149,
+        180,
+        195,
+        197,
+        216
+      ],
+      "attribution": "",
+      "note": "Komponente 734 as a scene, a function, and the Ursprungs-Ich in parentheses"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        19,
+        34,
+        38,
+        175
+      ],
+      "attribution": "",
+      "note": "the Rauschen as an active force at the opening"
+    },
+    {
+      "page": "residual-echos",
+      "lines": [
+        172,
+        176
+      ],
+      "attribution": "",
+      "note": "the echo of loneliness planned in the component, then amplified"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        197,
+        215,
+        216,
+        217,
+        218
+      ],
+      "attribution": "",
+      "note": "the Protokoll decided, run and marked complete, never named Trennungsprotokoll"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        131,
+        147,
+        149,
+        150,
+        151
+      ],
+      "attribution": "",
+      "note": "the Überwelt as a simulation space planned in scene 6"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C12",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "decision": "reading",
+      "why": "the title names the narrative the outline restructures scene by scene (L13) — from the fragment in the Rauschen to Kael's birth from the fragments (L222); read by the sentence, the outline's sequence"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 35,
+      "decision": "occurrence",
+      "why": "`ein plötzliches Aufflackern von Kohärenz` — the fragment's first feeling of `Ich bin`, a passing word; the outline says nothing of what coherence is"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,14 @@
+# research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out
+  lines                1299  (frontmatter ends at 9)
+  body words           6371
+  headings             50   bold-only lines 24
+  table rows           37   code fences 0
+  question marks       19
+  backslash escapes    408
+  typographic marks    248   ascii quotes 115
+  invisible characters U+00ADx1
+  math symbol lines    30
+  glued ref numbers    90
+  repeated labels      Wann stoppen x4, Warum es im Prompt ist x4, Was es ist x4, Wie anwenden — Schritt für Schritt x4
+  longest line         469 chars
+

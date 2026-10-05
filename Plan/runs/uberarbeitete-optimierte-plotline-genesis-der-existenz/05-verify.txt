@@ -1,0 +1,117 @@
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Annotation"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Annotation` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#19]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Anmerkungen"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Anmerkungen` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#5]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Balanceakt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Balanceakt` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#3]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Ausblick"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ausblick` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#1]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Status"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Status` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#2]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Ziel"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Ziel` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#12]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Beats"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Beats` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#10]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Entität"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Entität` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#22]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Ich"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            15
+
+`Ich` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#10]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Ichs"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Ichs` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#5]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Protokoll` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#1]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Kohärenzprinzip"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenzprinzip` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#1]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Überwelt` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#1]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#2]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Kael"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kael` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#6]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Ich bin"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ich bin` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#1]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "Fragmente"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Fragmente` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#4]
+$ read.py uberarbeitete-optimierte-plotline-genesis-der-existenz --count "fehlendes Stück"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`fehlendes Stück` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#1]
+stance_marker_count 30 = Annotation 19 + Anmerkungen 5 + Balanceakt 3 + Ausblick 1 + Status 2 (sum by hand: 19+5+3+1+2=30)
+profile: Beats x10, Ziel x10, Anmerkungen x4 (from 01-profile.txt)
+census: Ich 10 alone/15 anywhere, Rauschen 2/5, Resonanz 15/16, Kohärenz 7/9, Simulation 2/4 (from 04-counts.txt); Ichs 5 lines L13,109,130,151,161 (from 04-counts: Ich row + grep -no 'Ich[A-Za-z]*')
+scenes: 10 (Szene count above in separate call)
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`Szene` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#10]

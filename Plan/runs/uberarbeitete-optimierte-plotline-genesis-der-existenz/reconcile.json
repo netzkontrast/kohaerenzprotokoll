@@ -1,0 +1,174 @@
+{
+  "document": "uberarbeitete-optimierte-plotline-genesis-der-existenz",
+  "drive_id": "1z6cYDzS4XoPWHKW6dE36ck0T8rw2isxZG4y-zE_jpeg",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; the session read scenes 5–10 (L73–L194) against the note and corrected nothing; readings and entries on C12, C16 and Q7 by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-68/brief.md; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 48,
+    "decisions": 53,
+    "decided_by_lookup": 37,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Version 2 of the Genesis outline: its new candidates are the story's new turns — the external entity's resonance with what 734 lacks, the Ich waking in 734, its longing — told in common words (Entität, Ich, Resonanz, fehlendes Stück, latente Signatur) on pages the wiki has; its apparatus (Ziel, Beats, Annotation, Balanceakt) is the outline's. No name is defined that opens a page.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        119,
+        121,
+        139,
+        144,
+        145,
+        152,
+        170,
+        173
+      ],
+      "attribution": "",
+      "note": "a misreading of the entity's resonance with 734, and a protocol newly reasoned"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        29,
+        73,
+        118,
+        138,
+        152,
+        177
+      ],
+      "attribution": "",
+      "note": "the sequence with the component, the entity's arrival, the Ich's waking and the protocol"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        177,
+        182,
+        191
+      ],
+      "attribution": "",
+      "note": "Kael born with a longing for the external entity"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        190,
+        193
+      ],
+      "attribution": "",
+      "note": "where the fragments wake, and a broken reality"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        144,
+        173
+      ],
+      "attribution": "",
+      "note": "the entity as a threat to the principle, coherence restored by AEGIS's definition"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        73,
+        80,
+        83,
+        119,
+        138,
+        145,
+        152
+      ],
+      "attribution": "",
+      "note": "a unit with a latent signature, then a will to connect, then isolation"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        28,
+        66
+      ],
+      "attribution": "",
+      "note": "the Rauschen as pressure and as the great attack"
+    },
+    {
+      "page": "residual-echos",
+      "lines": [
+        29,
+        119
+      ],
+      "attribution": "",
+      "note": "the echo of absence, planned as a latent signature"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        152,
+        170,
+        171,
+        172
+      ],
+      "attribution": "",
+      "note": "the protocol decided, newly reasoned, and cut from both sides"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        86,
+        88,
+        98
+      ],
+      "attribution": "",
+      "note": "the Überwelt scene as a simulation tool"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C12",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a scene heading containing a term: Szene 5: Komponente 734, Szene 10: Kael - Dämmerung in Scherben), J12 and J16 (a compound is its own token: Kohärenzprinzip, Potenziell kompatibles Kohärenz-Fragment, Echo in der Simulation), J24 and J97 (a plural or case ending is no boundary: Ichs, Rauschens, latenten Signatur, fehlende Stück), J69 (a match only after folding: Resonanz / entropie-resonanz, resonanz-landschaft; Protokoll / nullpunkt-protokoll, protokoll-v14; Mosaik / mosaik-herz), J88 (a common noun for a page's referent is placed by the sentence: Entität, Fragment), J114 (a protocol doing what a page's protocol does is placed on that page by the sentence: the outline's Protokoll on trennungsprotokoll)",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "decision": "reading",
+      "why": "the title names the narrative this Version 2 outline restructures scene by scene (L13) — fragment, AEGIS, Komponente 734, the entity, the protocol, Kael's birth (L177); read by the sentence"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 139,
+      "decision": "occurrence",
+      "why": "the entity appears to AEGIS as order and as `maximaler Unverständlichkeit/Entropie` at once — a passing word in its description; the outline says nothing of what entropy is"
+    }
+  ],
+  "not_promoted": [
+    "the external entity — unnamed; its signature resonates with 734's latent signature (L119), it is indivisible with contradictory symmetries (L139); read on aegis, komponente-734, kael and C16, never named Juna or M",
+    "das fehlende Stück / die latente Signatur — 734's incompleteness (L29, L119); read on residual-echos and komponente-734",
+    "Balanceakt — the outline's note label; no page"
+  ],
+  "internal_tension": "none: it plans one sequence; it keeps its predecessor's scenes and reasons the protocol anew — AEGIS decides it against a component striving toward the threat (L145, L152), not only against falling coherence",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, PageRank 0.681 over 25 cases — unchanged; no case moved"
+}

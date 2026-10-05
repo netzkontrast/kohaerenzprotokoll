@@ -1683,3 +1683,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „KW1: Logos-Prime \<br/\> (The Construct City)“ (L876) and the same for KW2–KW4; KW4 is also „(The Garden of Potential)“ (L971). Each glosses a Guardian-built name in the position J118 places on the paged world.
 
 **Result.** read on konstrukt-stadt, resonanz-landschaft, grenzfeste and moeglichkeits-garten by the sentence, as English names for the paged worlds (J118); none becomes a surface from one source — a translation pair enters through bilingual.jsonl or a second read source (J100)
+
+## J121 — Isabella / Isabelle
+
+**judgement** · kohaerenz-protokoll-hard-sf-horror-thriller · 2026-10-05 · replay: `judgement`
+
+- **rule:** a name a source gives a part of Kael's system that differs from a page's name by one letter is placed on that page by the sentence when the system and the function agree; one source's spelling is not a surface (J100, J119), and a different role is a reading, not a new figure (J51)
+- **mechanised by:** `nothing`
+- **features:** spelling-variant, proper-name, role-differs
+
+**Question.** is the pitch's Isabella the wiki's Isabelle?
+
+**What was done.** „Kael (Host), Lex (Rationalist, Systemadministrator), Isabella (Daten-Spezialistin)“ (L84) names her among the ANPs of Kael's system; the page's figure is one of the alters, EP in the character bible. `Isabella` stands in 12 landed documents, `Isabelle` in 104 (corpus.py count, 2026-10-05).
+
+**Result.** read on isabelle by the sentence — a named part of Kael's system, its spelling and its ANP camp recorded as this source's; no surface from one read source, and the camp difference goes to `## Where the sources differ`

@@ -12,7 +12,7 @@ Kanon-Dateien des Skills werden zu Historie.
 > 3. **Strukturellen Kanon im Repository lesen, nicht hier halten.** Die Plot-Struktur — Storyform A und B mit
 >    allen Werten, Herkunft je Wert, Besetzung, offenen Punkten — lebt im Repository `netzkontrast/kohaerenzprotokoll`
 >    unter `Plan/storyform/` (`overview.md` zuerst, Quelle `a.json`/`b.json`, generiert `ncp/`). Warum jeder Wert so
->    ist: `Plan/decisions/024-dramatica-is-the-recipe.md`. Wie man ihn ändert: der Repo-Skill `storyform` (eine
+>    ist: `Plan/decisions/025-dramatica-is-the-recipe.md`. Wie man ihn ändert: der Repo-Skill `storyform` (eine
 >    Frage an den Autor nach der anderen; `python3 scripts/storyform.py` prüft und schreibt). Die Dateien unter
 >    `references/canon/` und `canon-meta.md` sind der Stand vom 2026-05-03 — Historie, kein Kanon.
 

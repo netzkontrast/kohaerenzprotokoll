@@ -1,0 +1,56 @@
+# counts for 39 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            28 word    28 in   [83, 85, 87, 93, 111, 116]
+  Kael                              3 word     3 in   [220, 222, 239]
+  Komponente 734                   21 word    21 in   [109, 125, 127, 129, 147, 149]
+  Grenzanalyse-Einheit Delta        1 word     1 in   [125]
+  Überwelt                          5 word     5 in   [131, 138, 150, 152]
+  Interne Kohärenz-Simulation Gamma    1 word     1 in   [147]
+  Kernwelten                        2 word     2 in   [235, 238]
+  Nichts Rauschens                  1 word     1 in   [19]
+  Rauschen                          7 word    10 in   [19, 36, 38, 58, 78, 81]
+                                    3      as Rauschens
+  Hintergrundrauschen               2 word     2 in   [56, 152]
+  Fragment                         13 word    34 in   [19, 26, 35, 36, 38, 48]  <-- substring
+                                    9      as Fragmente
+                                    8      as Fragments
+                                    3      as Fragmentierung
+                                    1      as Fragmentierte
+  Ursprungsfragment                 1 word     2 in   [103, 107]
+                                    1      as Ursprungsfragments
+  Ursprungs-Ich                     1 word     1 in   [180]
+  Cluster                           7 word    11 in   [47, 63, 68, 69, 78, 79]
+                                    2      as Clusters
+                                    1      as Clusterbildung
+                                    1      as Cluster-Dynamik
+  Triade                            1 word     1 in   [78]
+  Sogs der Ordnung                  1 word     1 in   [63]
+  Der Große Angriff                 1 word     1 in   [102]
+  Klick                             1 word     3 in   [58, 87, 104]  <-- substring
+                                    1      as Klicken
+                                    1      as Klicks
+  Neues Prinzip                     1 word     1 in   [105]
+  Die Grenze wird aktiv             1 word     1 in   [106]
+  Echo der Einsamkeit               3 word     3 in   [128, 172, 176]
+  Echos der Vergangenheit           1 word     1 in   [37]
+  Herkunfts-Echos                   2 word     2 in   [37, 107]
+  Resonanzkaskade                   3 word     3 in   [180, 195, 218]
+  Kohärenzmetriken                  2 word     2 in   [197, 218]
+  Grenzsonden                       1 word     1 in   [173]
+  Die Anomalie                      1 word     1 in   [173]
+  Ontologischer Druck               1 word     1 in   [175]
+  Entität                           6 word     6 in   [87, 158, 163, 173, 175, 194]
+  Fehldiagnose                      2 word     2 in   [194, 195]
+  Protokoll                         2 word     5 in   [197, 217, 218, 238]  <-- substring
+                                    3      as Protokolls
+  Systemischer Lockdown             1 word     1 in   [214]
+  Partitionierungsalgorithmen       1 word     1 in   [215]
+  Quell-Subsystemen                 1 word     1 in   [215]
+  digitalen Narben                  1 word     1 in   [238]
+  Mosaik                            2 word     2 in   [222, 239]
+  Leere                             4 word     4 in   [34, 127, 128, 149]
+  Kernlogik                         1 word     1 in   [194]
+  Qualia                            2 word     2 in   [58, 194]

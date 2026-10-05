@@ -1,0 +1,157 @@
+# every number the census and note state, with the command that produced it (2026-10-05)
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Ouroboros"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            7
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "IFS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Erasure-Sweep"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Falsehood vs. Truth"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Fact vs. Fantasy"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Philip K. Dick"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "5. Position"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "verbindlich"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "gelockt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Brücke"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Vorschlag"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            11
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "nicht in Quellen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Pivot-Vorschlag"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "single-source"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Index"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Nox"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Echo"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Flicker"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Limina"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Praetor"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Eos"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Elara"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Aris"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Mina"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Lyra"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Soren"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Tariq"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Nova"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Sentinel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out --count "Kernfrage"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+# stance_marker_count 34 = 6+1+8+6+3+3+7 (verbindlich, gelockt, Brücke, Vorschlag, nicht in Quellen, Pivot-Vorschlag, single-source), whole-word case-sensitive counts above
+$ profile: question marks 19, backslash escapes 408, glued ref numbers 90, invisible U+00AD x1 (01-profile.txt)
+  question marks       19
+  backslash escapes    408
+  invisible characters U+00ADx1
+  glued ref numbers    90
+$ L864 names after the label: Kael, Lex, Alex, Rhys, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Argus, Silas, Oblivion = 13 (by hand)
+ 864| **Figuren-System (13 Alter — siehe Kanon-Dok 1 für vollständige Liste):** Kael, Lex, Alex, Rhys, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Argus, Silas, Oblivion, ANP, EP, TSDP, Funktionale Multiplizität, Host, Wir-Geflecht, We-Voice, Polyphonie
+$ L743-L752 numbered canon points = 10 (by hand)
+ 743| 1.  **Ontologisches Fundament** �
+ 744| 2.  **39-Kapitel-Phasenstruktur** 
+ 745| 3.  **AEGIS-Komplex** — autopoie
+ 746| 4.  **Juna-Komplex** — Witness-F
+ 747| 5.  **13-Alter-System (TSDP, Terti
+ 748| 6.  **Storyform-A/B-Throughline-Ve
+ 749| 7.  **Kernfrage des Romans**: „I
+ 750| 8.  **Ende**: Ouroboros-Schluss, �
+ 751| 9.  **Genre-Anker**: Greg Egan + T
+ 752| 10. **Mosaik-Form**: 39 Kapitel mi
+$ pivots: 4+5+3 = 12 (L560-L562)
+ 560|   - **Akt-Übergänge**: 13, 14, 26, 27
+ 561|   - **Vortex-Korridor**: 33, 34, 35, 36, 37
+ 562|   - **Mid-Akt-Breakpoints**: 7, 20, 32
+$ 15 dekanonisiert names, L266
+ 266|   - Bezeichnungen aus der Liste **dekanonisiert** (siehe Suchbegriffs-Liste, Step 2): Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel — diese Namen sind ungültig und werden bei Auftauchen verworfen, nicht als „alternative Bezeichnung" interpretiert.
+$ self-verification checklist items L1276-L1286 = 11 bullets; header says (11 Items) L1270
+1270| ## SELF-VERIFICATION CHECKLIST FÜR DIE AUSFÜHRENDE KI (11 Items)
+11
+$ Reflection questions Q1-Q5 L200-L216 = 5
+5
+$ compounds of Ouroboros: 7 lines
+including compounds            7
+$ 39 Kapitel, 3 Akte: L971 exakt 39-mal
+
+Correction by the session, 2026-10-05: `Optionlock` stood twice in 03-candidates.md (L140, L207) and twice in the census table; the second of each removed. The term, its count and its lines are unchanged.

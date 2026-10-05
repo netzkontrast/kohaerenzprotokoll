@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -70,6 +70,14 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - Story: „AEGIS aktiviert eine Verteidigung, die auf Verlindes entropischer Gravitation basiert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L154]
 - Story: „löscht die Zitadelle in atemberaubender Geschwindigkeit Informationszustände in Kaels unmittelbarer Umgebung.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L154]
 - Who: „Kael und Rhys werden buchstäblich vom Gewicht der schwindenden Realität zu Boden zerquetscht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L154]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Three Versions of the Same Minute“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L246]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „A (Lex / Kiko / Nyx — drei Versionen desselben Ereignisses)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L248]
+
+- Story: the outline places: „Eine Flucht, die schiefgeht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L248]; „ein Cache-Lag von 0.7 Sekunden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L252]
+- Encoding A: „RS · SP3 (Obtaining) · Falsehood-vs-Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L254]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

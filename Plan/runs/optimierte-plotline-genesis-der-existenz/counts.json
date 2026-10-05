@@ -1,0 +1,402 @@
+{
+  "document": "optimierte-plotline-genesis-der-existenz",
+  "drive_id": "14RVIXJzM0AIOI23YZjP8l9cuytpE_t4WRTpFNVmVJiM",
+  "step": "counts",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 28,
+      "n_including_compounds": 28,
+      "lines": [
+        83,
+        85,
+        87,
+        93,
+        111,
+        116,
+        117,
+        126,
+        129,
+        133,
+        149,
+        158,
+        163,
+        164,
+        172,
+        174,
+        180,
+        194,
+        196,
+        197,
+        201,
+        214,
+        215,
+        218,
+        238
+      ]
+    },
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        220,
+        222,
+        239
+      ]
+    },
+    "Komponente 734": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        109,
+        125,
+        127,
+        129,
+        147,
+        149,
+        150,
+        151,
+        172,
+        173,
+        174,
+        175,
+        176,
+        180,
+        194,
+        195,
+        196,
+        197,
+        215,
+        236
+      ]
+    },
+    "Grenzanalyse-Einheit Delta": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Überwelt": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        131,
+        138,
+        150,
+        152
+      ]
+    },
+    "Interne Kohärenz-Simulation Gamma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        235,
+        238
+      ]
+    },
+    "Nichts Rauschens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Rauschen": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        19,
+        36,
+        38,
+        58,
+        78,
+        81,
+        102,
+        106,
+        175
+      ]
+    },
+    "Hintergrundrauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        152
+      ]
+    },
+    "Fragment": {
+      "n": 13,
+      "n_including_compounds": 34,
+      "lines": [
+        19,
+        26,
+        35,
+        36,
+        38,
+        48,
+        56,
+        57,
+        58,
+        59,
+        77,
+        78,
+        79,
+        102,
+        103,
+        106,
+        111,
+        125,
+        201,
+        216,
+        217,
+        222,
+        227,
+        235,
+        236,
+        237,
+        239
+      ]
+    },
+    "Ursprungsfragment": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        107
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Cluster": {
+      "n": 7,
+      "n_including_compounds": 11,
+      "lines": [
+        47,
+        63,
+        68,
+        69,
+        78,
+        79,
+        80,
+        81,
+        93,
+        102
+      ]
+    },
+    "Triade": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Sogs der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Der Große Angriff": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Klick": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        58,
+        87,
+        104
+      ]
+    },
+    "Neues Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Die Grenze wird aktiv": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Echo der Einsamkeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        128,
+        172,
+        176
+      ]
+    },
+    "Echos der Vergangenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Herkunfts-Echos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        107
+      ]
+    },
+    "Resonanzkaskade": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        180,
+        195,
+        218
+      ]
+    },
+    "Kohärenzmetriken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        197,
+        218
+      ]
+    },
+    "Grenzsonden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Die Anomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Ontologischer Druck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Entität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        87,
+        158,
+        163,
+        173,
+        175,
+        194
+      ]
+    },
+    "Fehldiagnose": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        194,
+        195
+      ]
+    },
+    "Protokoll": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        197,
+        217,
+        218,
+        238
+      ]
+    },
+    "Systemischer Lockdown": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "Partitionierungsalgorithmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "Quell-Subsystemen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "digitalen Narben": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        238
+      ]
+    },
+    "Mosaik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        222,
+        239
+      ]
+    },
+    "Leere": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        34,
+        127,
+        128,
+        149
+      ]
+    },
+    "Kernlogik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Qualia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        194
+      ]
+    }
+  }
+}

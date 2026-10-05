@@ -27,7 +27,7 @@ Kein vorheriger Kontext überlebt. Alles, was du weißt, musst du aus den Quelle
 > **Ist-Stand 2026-09-23 — du fängst nicht bei null an.** Seit dem Reset (Entscheidung `Plan/decisions/001-reset-to-two-layers.md`, 2026-09-16) baut dieses Repository ein Begriffs-Wiki aus den Drive-Quellen, mit denselben Grundsätzen, die dieser Auftrag verlangt: Provenienz auf jeder Aussage, kein stilles Glätten, Konflikte als eigene Records, abgeleitetes Wissen markiert. Es gibt:
 >
 > - `Sources/`: 587 <!--state:sources.total--> Drive-Dokumente im Manifest, 586 <!--state:sources.landed--> als Markdown gelandet und dedupliziert.
-> - `Wiki/`: 106 <!--state:wiki.pages--> Begriffsseiten, 15 <!--state:wiki.conflicts--> Konflikt-Records und 9 <!--state:wiki.questions--> Fragen-Seiten, jede Aussage mit Zitat und Zeilennummer.
+> - `Wiki/`: 106 <!--state:wiki.pages--> Begriffsseiten, 16 <!--state:wiki.conflicts--> Konflikt-Records und 9 <!--state:wiki.questions--> Fragen-Seiten, jede Aussage mit Zitat und Zeilennummer.
 > - Einen abgeleiteten Knowledge Graph (`scripts/graph.py`) und GraphRAG-Retrieval (`scripts/graphrag.py`), die nur zurückgeben, was die Seiten belegen.
 > - Eine DSPy-Werkzeugkette, die bisher kein Modell aufgerufen hat.
 >
@@ -203,10 +203,10 @@ SPEC.md               # Phase 0
 > | Soll | Existiert als | Deckt ab |
 > |---|---|---|
 > | `kg/sources/manifest.jsonl`, `kg/raw/` | `Sources/manifest.jsonl`, `Sources/drive/*.md`, `Sources/duplicates.jsonl` | Katalog, Checksummen, Dedupe. Legacy-Kanon und Manuskript fehlen. |
-> | `claims.jsonl` | `Sources/terms/*.md` (Census), `Sources/notes/*.md` (Notes mit `^[Lnn]`-Zitaten) für 58 <!--state:documents.with_census--> Dokumente | Aussagen mit Zitat und Zeile. Noch ohne Prädikat-Vokabular. |
-> | `entities.jsonl`, `edges.jsonl` | abgeleitet von `scripts/graph.py`: 187 <!--state:graph.nodes--> Knoten, 4599 <!--state:graph.edges--> Kanten, jede mit Datei:Zeile | Begriffe, Dokumente, Konflikte, Fragen. Noch ohne Kapitel, Locks, Figuren-Typen. |
-> | Entitäts-Kandidaten, `aliases.yaml` | `Plan/entities/` (Modell nennt, Code platziert), `Plan/runs/bilingual/stated.jsonl`, `Plan/runs/judgements.jsonl` | 300 <!--state:proposals.entities--> Entitäten aus Leselisten; 120 <!--state:judgements.total--> Entscheidungen „ein Begriff oder zwei“, jede mit Regel in Worten. |
-> | `conflicts.jsonl` | `Wiki/conflicts/c1…c5` (Entscheidung 003: ein Record pro Streitfall, append-only) | 15 <!--state:wiki.conflicts--> Records. Kein Detektor, bisher jeder von einer Person gelesen. |
+> | `claims.jsonl` | `Sources/terms/*.md` (Census), `Sources/notes/*.md` (Notes mit `^[Lnn]`-Zitaten) für 71 <!--state:documents.with_census--> Dokumente | Aussagen mit Zitat und Zeile. Noch ohne Prädikat-Vokabular. |
+> | `entities.jsonl`, `edges.jsonl` | abgeleitet von `scripts/graph.py`: 201 <!--state:graph.nodes--> Knoten, 5079 <!--state:graph.edges--> Kanten, jede mit Datei:Zeile | Begriffe, Dokumente, Konflikte, Fragen. Noch ohne Kapitel, Locks, Figuren-Typen. |
+> | Entitäts-Kandidaten, `aliases.yaml` | `Plan/entities/` (Modell nennt, Code platziert), `Plan/runs/bilingual/stated.jsonl`, `Plan/runs/judgements.jsonl` | 300 <!--state:proposals.entities--> Entitäten aus Leselisten; 121 <!--state:judgements.total--> Entscheidungen „ein Begriff oder zwei“, jede mit Regel in Worten. |
+> | `conflicts.jsonl` | `Wiki/conflicts/c1…c5` (Entscheidung 003: ein Record pro Streitfall, append-only) | 16 <!--state:wiki.conflicts--> Records. Kein Detektor, bisher jeder von einer Person gelesen. |
 > | `questions.jsonl` | `Wiki/questions/q1…q9`, dazu jede `## Open`-Sektion einer Seite | 9 <!--state:wiki.questions--> Fragen-Seiten und die offenen Aussagen, die `relations.py --open` erntet. |
 > | `wiki/konzepte/` | `Wiki/candidates/*.md` | 106 <!--state:wiki.pages--> Seiten, noch keine promoviert (`Wiki/terms/` existiert nicht). |
 > | `kp ask` | `python3 scripts/graphrag.py ask "…"` | Gibt nur belegte Zitate zurück, nie Prosa. `--answer` lässt ein Modell nur Belegnummern wählen. |
@@ -576,12 +576,12 @@ Nach jeder Phase: Commit, kurzer Statusbericht an den Autor, ein Eintrag in `lea
 > |---|---|
 > | 0 · Recon und Spec | Zugangs-Inventur weitgehend erledigt (§2 oben): Drive läuft über den Katalog in `Sources/`. Offen: die claude.ai-Exporte, die Entscheidungen in Anhang C. **Ergänzt 2026-10-01:** `agency` ist gelesen, `SPEC.md` existiert und ist angenommen (Entscheidung 021). |
 > | 1 · Ingest und Katalog | **Katalog vollständig** (`Sources/manifest.jsonl`, 587 <!--state:sources.total--> Einträge), gelandet und dedupliziert sind 586 <!--state:sources.landed-->. **Die Kanon-Stände sind gelandet** (2026-09-24): 33 <!--state:sources.canon_era_landed--> von 33 <!--state:sources.canon_era--> Einträgen ab Mai 2026. Gelesen sind davon acht, `storyform-und-outline`, die `charakter-bibel`, das `konzept-konsolidiert`, das `kapitel-kompendium`, `kernwelten-vollstaendig`, der `dramatica-dual-storyform-status`, die `begriffe-und-konzepte` und der `strukturierter-outline` (2026-09-24). Außerhalb des Katalogs fehlen die claude.ai-Exporte und der Weg für Manuskript und NCP (C1). |
-> | 2 · Claims und Entitäten | Für 58 <!--state:documents.with_census--> Recherche-Dokumente als Census und Note. Kein Prädikat-Vokabular, keine Kanon-Quelle. |
-> | 3 · Konflikte | 15 <!--state:wiki.conflicts--> Records von Hand. Kein Detektor, keine Fixture aus Anhang B getestet. |
+> | 2 · Claims und Entitäten | Für 71 <!--state:documents.with_census--> Recherche-Dokumente als Census und Note. Kein Prädikat-Vokabular, keine Kanon-Quelle. |
+> | 3 · Konflikte | 16 <!--state:wiki.conflicts--> Records von Hand. Kein Detektor, keine Fixture aus Anhang B getestet. |
 > | 4 · Plot-Modell | Nicht begonnen. Die Kapitel-Köpfe im Manuskript (`Outline`, `Beats`, `Locks`) sind der naheliegende erste Datensatz. |
 > | 5 · Selbstfragen | Fragen-Seiten und `## Open`-Sektionen existieren, kein Loop. |
 > | 6 · Wiki und CLI | Begriffs-Wiki existiert. Kapitel-Dossiers und `kp` existieren nicht, `graphrag.py ask` deckt einen Teil von `kp ask` ab. |
-> | 7 · Evaluation | `graphrag.py bench`: 24 <!--state:graphrag.cases--> Fälle, Recall@8 69 <!--state:graphrag.recall_ppr-->%. Keine Gold-Q&A. |
+> | 7 · Evaluation | `graphrag.py bench`: 25 <!--state:graphrag.cases--> Fälle, Recall@8 68 <!--state:graphrag.recall_ppr-->%. Keine Gold-Q&A. |
 >
 > Die „learnings.md“ aus §6 gibt es als `Plan/learnings/`, eine Datei pro Schritt. `NOW.md` ist die Übergabe zwischen Sitzungen.
 

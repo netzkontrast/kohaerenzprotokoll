@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -58,6 +58,15 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - Story: „reagiert auf den drohenden Autonomiegewinn mit der totalen Vernichtung von KW3.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
 - Sensorik: „Eine gewaltige Landauer-Explosion aus Ozon und Hitze fegt die Zitadelle hinweg.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
 - Exit: „Kael und sein innerer Chor fliehen durch die schmelzenden Wände hindurch und stürzen sich in den Riss, der direkt in die vierte und letzte Kernwelt führt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Final Defenses“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L272]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „B (AEGIS — letzte Mobilisierung)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L274]
+
+- Story: the outline places: „AEGIS erkennt, dass Kael auf den Kern zusteuert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L274]; „Mnemosyne weigert sich, mitzumachen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L274]
+- Encoding A: „OS · SP3 (Being) · Falsehood · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L274]
+- Pacing: „Kap 26 = vollster Action-Spike vor dem Pivot“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L370]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

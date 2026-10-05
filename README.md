@@ -24,7 +24,7 @@ graph and wiki that helps write the novel.
 |---|---|
 | `Sources/` | the research documents from Drive and the manifest that indexes them — the only layer that is true — and, beside each document read, its census and its note |
 | `Wiki/` | term pages derived from those sources, conflict records, question pages, and the record of each reconciliation |
-| `Manuscript/` | the novel's drafts, one folder per chapter — prose, not research, and none of it canon until the author approves it (decision 023) |
+| `Manuscript/` | the novel's workspace: the canon ledger, the drafts one folder per chapter, plot drafts and cards for cast and world — only canon and working drafts, and nothing canon unless `kanon.md` lists it (decisions 023, 024) |
 | `Plan/` | how the work is done: concepts, decisions, learnings, and every artifact of every run |
 | `scripts/` | the tools, one job each |
 | `.agents/skills/` | this project's skills; `.claude/skills/` links to them and holds the vendored ones |
@@ -35,9 +35,9 @@ Each of these but `Legacy/` has a README that says what is in it.
 ## Where things stand
 
 **586 <!--state:sources.landed--> of 587 <!--state:sources.total--> documents
-are landed, 58 <!--state:documents.reconciled--> are read and reconciled, and
+are landed, 71 <!--state:documents.reconciled--> are read and reconciled, and
 the wiki holds 106 <!--state:wiki.pages--> pages,
-15 <!--state:wiki.conflicts--> conflicts and 9 <!--state:wiki.questions-->
+16 <!--state:wiki.conflicts--> conflicts and 9 <!--state:wiki.questions-->
 questions.** Every number here is measured, and checked:
 
 ```bash

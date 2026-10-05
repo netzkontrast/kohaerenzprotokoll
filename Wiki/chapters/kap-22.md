@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -70,6 +70,14 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - Story: „die emergente Gravitation kollabiert, und Kael kann sich erheben.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156]
 - Establishes: „Die Liebe als physikalisches Prinzip – die atemporale Vereinigung von Information – offenbart ihre Macht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156]
 - Juna elsewhere in this plan: in Kapitel 3 „flackert das Bild von Juna auf“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L98], and in Kapitel 34 „Sie tritt in das System Kael ein“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190] (C7).
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Latency as Weapon“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L256]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „B (AEGIS' Tactical Layer)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L258]
+
+- Story: the outline places: „Das System hat den Cache-Lag erkannt und exploitiert ihn“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L258]; „Mnemosyne, gegen Direktive, beginnt zu archivieren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L258]
+- Encoding A: „RS · SP3 (Obtaining) · Falsehood-vs-Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L258]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

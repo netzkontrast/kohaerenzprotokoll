@@ -1,0 +1,21 @@
+The document speaks throughout as one expository voice describing a novel project in the present tense; it carries no lock, no plan list and no question of its own, and it labels itself in its title and in the last sentence of the preamble's second paragraph. The title line reads „Konzeptdokument und Ontologischer Pitch“ ^[L11], and the preamble says the analysis „dient dem Autor als unverrückbare Referenz“ ^[L19]. That is the document's claim about its own standing and is recorded here, not applied.
+
+**L11 to L19, the preamble.** A pitch that calls the project „eine hochkomplexe, transdisziplinäre Synthese“ ^[L15] and describes three levels of the work (a diegetic, a psychological, a hermeneutic one); the voice is promotional and descriptive, and it addresses publishers and the author in the third person ^[L19].
+
+**L21 to L31, the Dual Kernel Theorie.** A theory passage in the document's own voice: the Dual Kernel Theorie is given as the centre of the fictional universe („bildet die Dual Kernel Theorie (DKT)“ ^[L23]) and the novel is called „ein dramatisiertes metaphysisches Beweisverfahren“ ^[L31]. Real philosophical positions (coherence and correspondence theories of truth, the Lacanian Real) are applied to the two kernels in the same sentences ^[L25] ^[L27].
+
+**L33 to L53, the hard limits.** Descriptive: each mathematical or physical result (Gödel, Landauer, Bekenstein, Hawking radiation, replica wormholes) is named and then said to act in the plot. The Gödel passage names the climax, „dem „Gödel-Gambit““ ^[L41]; the physics is borrowed and applied to the fiction, so a name here may be a lens and not the novel's own.
+
+**L55 to L69, existential philosophy.** Jaspers and Heidegger are reported and then applied to the figures: „Für Karl Jaspers ist die menschliche Realität strukturell durch unvermeidbare „Grenzsituationen“ determiniert.“ ^[L61] begins as a report of Jaspers. The one question the narrative text quotes is Kael's: „Wer bin ich, wenn keine meiner Stützen mehr hält?“ ^[L63]
+
+**L71 to L101, System Kael and the Sensory Rulebook.** Prose plus two tables. The first table (L81 to L85) sets the two kinds of part, ANP and EP, against narrative representatives and a kernel; the second (L93 to L99) sets four simulated core worlds against a logic, a somatic motif and an epistemic indication. Both tables begin with an empty header row of four empty cells (L81, L93) and the real column titles stand in the second row.
+
+**L103 to L125, AEGIS.** The document reports the manifesto of AEGIS in a numbered list: „Die Kernpunkte des AEGIS-Manifests untermauern diese paranoide, nicht-anthropomorphe Architektur“ ^[L109], items at L111 to L113. The document sets AEGIS's definition in quotation marks and follows it with a footnote number: „Aegis ist das, was Aegis daran hindert, nicht zu sein“ ^[L109]. The Monstergruppe and the K-J Connection passages are descriptive and metaphorical (L119, L123).
+
+**L127 to L133, emotional anchors.** Descriptive, with the Erikson and Frankl references named in the text (L129, L133) and without a footnote number glued to the sentences of L129.
+
+**L135 to L161, method, genre fusion and the reader.** The Dramatica Storyform is applied to the project: a table (L141 to L147) maps four throughlines onto the four matrices and the genres. The text then describes the intended structure („Frakturierte Untersuchung“ ^[L155]) and a demand on the reader (L157 to L161).
+
+**L163 to L169, the conclusion.** A summarising claim in the document's own voice: „ein literarischer, transdisziplinärer Formalbeweis“ ^[L165]. Again a self-description, recorded and not applied.
+
+**L171 to L181, the references.** Nine numbered entries. Their form differs: entries 1, 4 and 8 are a title with a Drive link (L173, L176, L180), entry 2 is a bare title (L174), and entries 3, 5, 6, 7 and 9 begin with a retrieval remark and an upload label ending in an escaped line break (L175, L177 to L179, L181). The digits glued to the body sentences (the 1 and 2 after full stops) point to these entries; the body text therefore reports its sources through numbers and not through named speakers.
