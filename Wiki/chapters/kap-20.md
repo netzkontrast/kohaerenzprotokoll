@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -58,6 +58,14 @@ Position: Teil II, „Das unbeweisbare Wahre“ ^[romanstruktur-und-philosophisc
 
 - Story: „AEGIS ist logisch, aber nicht allwissend; es hat blinde Flecken.“ ^[romanstruktur-und-philosophische-einleitung.md:L180]
 - Story: the unprovable truth is hedged with `vielleicht`: „Kael identifiziert eine solche Wahrheit“ ^[romanstruktur-und-philosophische-einleitung.md:L182] – the external level or the nature of love
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Echo der Sporadicity
+
+Title: „Echo der Sporadicity“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L214]
+Position: Teil II; setting from the `Schauplatz` field: „(Tiefe Datenbänke)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L216]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Chronos (Archivar-Alter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L217]
+- Story: the blueprint plans, in `Plot-Beats`, „Mit Hilfe des Archivar-Alters findet Kael die Gräber früherer, gescheiterter AEGIS-Simulationen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L219] and „AEGIS stört aktiv die internen Funkkanäle der Alters, um die Kooperation zu sabotieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L219]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
