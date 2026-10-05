@@ -1,0 +1,292 @@
+{
+  "document": "aegis-persona-and-manifest-generation",
+  "drive_id": "1boPKIFdaS_ppkZ4cR5OOFAk_tnRcnzDe-rvwY1RAVf0",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 201,
+    "decisions": 213,
+    "decided_by_lookup": 112,
+    "needs_judgement": 101
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        93,
+        130
+      ],
+      "attribution": "",
+      "note": "the Systemic Isolation Shield as Cerberus's"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        23,
+        33,
+        51,
+        140,
+        178
+      ],
+      "attribution": "",
+      "note": "a manifest in AEGIS's own voice, and the Guardians as its subsystems"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        93,
+        97,
+        99
+      ],
+      "attribution": "",
+      "note": "Guardian of the Boundary Fortress, security and the hostility of all novelty"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        15,
+        27,
+        29,
+        31,
+        33,
+        45,
+        176
+      ],
+      "attribution": "",
+      "note": "the Genesis Crisis as the shock the manifest results from, in sequence"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "the English name of Core World 3"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        51,
+        109,
+        123,
+        178
+      ],
+      "attribution": "",
+      "note": "five Guardians as AEGIS's delegated subsystems, Kairos and Sophia sharing Core World 4"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        170
+      ],
+      "attribution": "",
+      "note": "a Hypervisor enforcing the PRO-Framework"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        45,
+        47
+      ],
+      "attribution": "",
+      "note": "the shattered fragments, called Kael in legacy files"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        111,
+        113
+      ],
+      "attribution": "",
+      "note": "Guardian of potential, who registers the anomaly as generative energy"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        49,
+        176
+      ],
+      "attribution": "",
+      "note": "four isolated simulation environments for the fragments"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "Component 734 made from the Ursprungs-Ich at self-closure"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        57,
+        59
+      ],
+      "attribution": "",
+      "note": "the English name of Core World 1"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        61,
+        63,
+        65,
+        69
+      ],
+      "attribution": "",
+      "note": "Guardian of the Construct City, whose blind spot is the Partner"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        77,
+        83
+      ],
+      "attribution": "",
+      "note": "Guardian of the Resonance Landscape, who maps the wound as a closed scar"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "the English name of Core World 4"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        168
+      ],
+      "attribution": "",
+      "note": "a Hypervisor personifying the Amnesia Protocol"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "the Partner, a name from corrupted legacy files"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        73,
+        75
+      ],
+      "attribution": "",
+      "note": "the English name of Core World 2"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        85,
+        101,
+        119,
+        146
+      ],
+      "attribution": "",
+      "note": "the rifts each Core World suffers, in the manifest's sense"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "a Hypervisor of Reconstitution"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        115,
+        117
+      ],
+      "attribution": "",
+      "note": "co-Guardian of the Garden, with a redacted core dependency file"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        33,
+        45
+      ],
+      "attribution": "",
+      "note": "the dismemberment, written as the Zerstückelung protocol"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        37,
+        39,
+        41
+      ],
+      "attribution": "",
+      "note": "the Overworld as AEGIS's primary control layer"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q5",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 15,
+      "decision": "reading",
+      "why": "the manifest names the event it results from the Genesis Crisis (L15) and narrates it — the Great Realignment, the self-closure, the origin-self dismembered into Component 734 (L17, L27–L33); read by the sentence"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 170,
+      "decision": "occurrence",
+      "why": "the PRO framework's `Persona, Requirement, Output` that Isabelle enforces; a prompt-engineering term"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 63,
+      "decision": "reading",
+      "why": "the rifts of each Core World (L63, L85, L101, L119) are the manifest's own account of the page's subject; read by the sentence with the systemic rifts"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

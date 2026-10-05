@@ -374,6 +374,11 @@ the author wants them (*Questions for the author*).
   spec's. Should documents of this kind (the writing engine's own specs, NCP and Story Mind) be read onto the novel's pages at all,
   or kept apart — the same question as graph question 6 in `NOW.md`?
 
+- **Document 64, `aegis-persona-and-manifest-generation` (2026-04-27): are Oblivion, Silas and Isabelle alters, or AEGIS's?** The
+  manifest — which names exactly your five Guardians and pairs Kairos and Sophia on the fourth world — makes Oblivion, Silas and
+  Isabelle AEGIS's Hypervisors (L166–L170); the character bible makes them alters of Kael, Oblivion an „AEGIS-Echo“. One figure seen
+  from two sides, or two drafts? And does Component 734 come from the Ursprungs-Ich while Kael is the shattered fragments (L17, L45)?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*
