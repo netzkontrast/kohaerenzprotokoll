@@ -1,10 +1,10 @@
 ---
 term: Residual-Echos
 status: candidate
-sources: 6
-readings: 4
+sources: 7
+readings: 5
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md", "textanalyse-existenz-system-und-leid"]
 gathered: "2026-09-25"
 ---
 
@@ -19,6 +19,10 @@ annotated draft and `koharenz-protokoll-kapitel-0-v2-md` — the second, read on
 Doppel-Klammer Abhandlung, nine days earlier, describes echoes of the
 Ursprungs-Ich in Kap 0 that AEGIS classifies the same way, and it says what they
 are in Kap 40.
+
+## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the echoes of origin, tolerated as function and suppressed as variance
+
+The document does not write `Residual-Echos` ^[textanalyse-existenz-system-und-leid.md:#0]; read by the sentence, it speaks of the same thing. The Textanalyse, commentary on one narrative, reads that in the functionalisation the component's individual properties („Echos der Herkunft“ ^[textanalyse-existenz-system-und-leid.md:L164]) are tolerated only as far as they are useful, and that everything else is filtered out: „Alles andere – Angst, Einsamkeit, Sehnsucht – wird als“ ^[textanalyse-existenz-system-und-leid.md:L164] `irrelevante Varianz` filtered out. In the crisis it reads: „die verdrängten Erinnerungen an das Ursprungs-Ich, an Verlust und Sehnsucht“ ^[textanalyse-existenz-system-und-leid.md:L218], the `latenten Echos`, break out. The first is the narrative's phrase as quoted, the sentence around it the commentary's.
 
 ## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08 — as the echoes of the Ursprungs-Ich
 
