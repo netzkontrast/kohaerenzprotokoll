@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -34,6 +34,10 @@ The editor's report gives, as the plot document's (reference 1 ends the sentence
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Juna's link to a reality beyond the simulation, and in Part II a hedged an outside
 
 The three-part analysis tells Kap 4 as „Juna repräsentiert die Verbindung zur“ ^[romanstruktur-und-philosophische-einleitung.md:L61] `Externen Ebene`, „einer Realität jenseits der AEGIS-Simulation“ ^[romanstruktur-und-philosophische-einleitung.md:L61]. In Kap 20 the unprovable truth Kael finds is „vielleicht die Existenz der externen Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L182] — the analysis hedges it. In Kap 26 Kael sees the simulation's structure from outside, „oder zumindest von einer höheren administrativen Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L214], and the chapter's sentence is „Es gibt ein Außen“ ^[romanstruktur-und-philosophische-einleitung.md:L216]. It does not say what the plane is.
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the Externe Ebene as Juna's form in Kap 17
+
+The master blueprint plans in Kap 17 that Juna shows her true form: „Hier offenbart sich Juna in ihrer wahren Form“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] It names her, in its own inner quotation marks, the Exilierte Ursprungs-Ich and the „Externe Ebene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195], and says she is the one „das die Gnosis (emotionale Wahrheit) der ursprünglichen Fragmentierung in sich birgt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195]
 
 ## Open
 
