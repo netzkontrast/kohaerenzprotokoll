@@ -131,7 +131,7 @@ Lager: **Suche** Rhys, Kiko, Lia, Silas; **Abwehr** Nyx, Isabelle, Alex; **Verme
 
 | Kap | Anteile | Kanal | wie |
 |---|---|---|---|
-| 1 | Silas | Spur | Die linke Hand drückt RÜCKFRAGE und schützt den Anschluss zu Juna; der abgebrochene Satz (Entwurf G). |
+| 1 | Silas | Spur | Die linke Hand drückt RÜCKFRAGE und schützt den Anschluss zu Juna; der abgebrochene Satz. Vorläufige Ausführung aus Entwurf G, kein Gerüst (Schritt 38). |
 | 1 | Oblivion | Spur | Die verlorenen Minuten. |
 | 2, 5, 9 | Lex | Körper | Kälte in den Händen; Ordnung, die sich verdoppelt. |
 | 2, 5, 9 | Alex | Körper | Der Körper wappnet sich, bevor Kael Gefahr sieht. |

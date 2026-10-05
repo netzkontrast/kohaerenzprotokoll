@@ -21,9 +21,14 @@ wie er ist.
 
 ---
 
-## 1. Bestätigt — G und die Storyform sagen Verschiedenes
+## 1. Bestätigt oder offen — G und die Storyform sagen Verschiedenes
 
-### 1.1 Die offene RÜCKFRAGE verbraucht den Übergang von Kap 13 (Struktur, Wissensstand) — hohe Sicherheit
+### 1.1 Die offene RÜCKFRAGE nimmt den Übergang von Kap 13 vorweg, wenn der Unterschied fehlt (Struktur, Wissensstand) — mittlere Sicherheit
+
+*Korrigiert 2026-10-05 nach der Durchsicht auf PR #169. „Verbraucht“ war zu kategorisch. In G drückt eine fremd
+wirkende Hand; Kap 13 verlangt Kaels eigene, endgültige Entscheidung. Kap 1 kann das vorbereiten. Was fehlt, ist der
+Unterschied in Gegenstand, Wissen und Handlungsspielraum zwischen Kap 1 und Kap 13.*
+
 - **Storyform:** `Plan/storyform/weave.json`, Übergang 13/14, A: „Kap 13: Kael entscheidet sich endgültig, die
   Löschung seiner eigenen Zeile nicht mehr zu bestätigen — der Anschluss, der in keinem Plan steht, bleibt (RÜCKFRAGE
   offen, für immer).“
@@ -41,7 +46,12 @@ wie er ist.
   hält Kap 13 als *seine* Entscheidung? Oder soll Kap 1 die eigene Zeile noch nicht zeigen?
 - Was gilt, entscheidest du. Nach Schritt 38 geht die Storyform vor.
 
-### 1.2 Die Spur von Oblivion fehlt (Anteile) — mittlere Sicherheit
+### 1.2 Die Spur von Oblivion ist unklar (Anteile) — geringe Sicherheit
+
+*Korrigiert 2026-10-05 nach der Durchsicht auf PR #169. G springt von 16:39 auf 16:43 und bricht einen Satz ab. Das
+ist aber zugleich das allgemeine Wartungsfenster und belegt keinen Zeitraum, den nur Kael verliert. Es fehlt ein
+Merkmal, das beide Ursachen unterscheidet. Einen Namen oder eine Erklärung braucht die Prosa dafür nicht.*
+
 - **anteile.json:** Kap 1 hat zwei Spuren: Silas (die linke Hand) und Oblivion, „Die verlorenen Minuten“.
 - **G:** Silas' Spur steht da:
   - „meine linke Hand hält meine rechte“ (`:L13`);
