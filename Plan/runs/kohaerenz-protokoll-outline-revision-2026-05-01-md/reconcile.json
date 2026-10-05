@@ -455,7 +455,47 @@
     }
   ],
   "chapters": {
-    "readings_on": []
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
   },
   "plot_overview": {
     "lines": []
@@ -477,7 +517,78 @@
   ],
   "judgements": [],
   "decided_by_existing_rules": "J9 (a title or heading containing a term: Kohärenz Protokoll — 39-Kapitel-Outline, Kapitel 35 — Mnemosyne-Archipel — Hardware), J12 and J16 (a compound is its own token: Alex-Modus, Kiko-Modus, Lex-Modus, Mosaik-Ahnung, Juna-Seeding-Layer, Alter-Surface-Timeline, Multiplizitäts-Schleier, Vortex-Beat, Ouroboros-Anker, Erasure-Bilanz, Encoding-Backbone, Genesis-Krise, Junas Witness-Effekt), J24 and J97 (a plural or case ending is no boundary: Junas, Kaels), J49 (a world name built from a bearer's name is not the bearer: Mnemosyne-Archipel), J69 (a match only after folding: Signatur, Komponente, Landauer, Ouroboros, Fragment), J88 (a common noun for a page's referent is placed by the sentence: Alter, Fragment), J92 (a clipped form names what the full form names: Host #734, Fragment T-734)",
-  "sweep": [],
+  "sweep": [
+    {
+      "page": "cache-kohaerenz",
+      "surface": "Cache-Kohärenz",
+      "line": 196,
+      "decision": "reading",
+      "why": "Mnemosyne keeping Cache-Kohärenz in Kap 10 (L196) and the Cache-Kohärenz-Versagen of Kap 21 (L254)"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 188,
+      "decision": "reading",
+      "why": "Compositional Anomaly as the first term AEGIS has for DID, Kap 8 (L188)"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 290,
+      "decision": "reading",
+      "why": "Kap 28, every control operation produces the entropy it should prevent (L290)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the document's title (J9)"
+    },
+    {
+      "page": "komponente-734",
+      "surface": "Komponente 734",
+      "line": 196,
+      "decision": "reading",
+      "why": "the directive „Schrein 734 nicht öffnen“ (L196) and open point 1's triple-layer twist (L382)"
+    },
+    {
+      "page": "mosaik-herz",
+      "surface": "Mosaik-Herz",
+      "line": 338,
+      "decision": "reading",
+      "why": "Kap 39 names the Mosaik-Herz in the final scene (L338)"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 156,
+      "decision": "reading",
+      "why": "Act I's punctual Glitches (L156) and the organic Riss of Kap 1 (L160)"
+    },
+    {
+      "page": "sektor-04",
+      "surface": "Sektor 04",
+      "line": 65,
+      "decision": "reading",
+      "why": "the Notlöschung of the POV table (L65) and Kap 8's rendering of Sektor 04 (L188)"
+    },
+    {
+      "page": "telefon-stille",
+      "surface": "Telefon-Stille",
+      "line": 21,
+      "decision": "reading",
+      "why": "Juna's seeding and Kap 7's „Stille mit Gewicht“ like a telephone (L21, L144, L184)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 94,
+      "decision": "occurrence",
+      "why": "only the POV label `Simulation in Ruhezustand` of Kap 38 (L94, L334); no sense of the Überwelt"
+    }
+  ],
   "not_promoted": [
     "ZTEM, RIVE-Sweep — AEGIS's sweeps, named in the POV table and Kap 1, 2, 8, 35 (L57, L64, L160, L188, L322); read on aegis and sektor-04; no page",
     "Phantom-Bilanz / Phantom-Resonanz — Juna's seeding as AEGIS measures it (L21, L138–L139, L164); read on juna",
