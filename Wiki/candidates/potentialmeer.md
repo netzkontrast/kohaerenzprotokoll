@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 26
-readings: 27
+sources: 27
+readings: 28
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -60,6 +60,12 @@ Kap 21 plans a log that explains „Das Kapitel ist ein reiner Log-File, der AEG
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Kael as the gardener in the Potentialmeer
 
 The Teil III plot has Kael become a gardener „Anstatt AEGIS zu vernichten, wird Kael zum“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L29] in the Potentialmeer who accepts entropy-noise „als lebensnotwendige Quelle für Emergenz akzeptiert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L29]. Leitfrage 10 proposes the ending: „Der Roman endet nicht mit einem sauberen Sieg, sondern mit einer Meta-Reflexion“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L104], with Kael „Kael pflanzt als“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L104] gardener the seeds without controlling what grows.
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — The Potentialmeer named inside row W-07
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row W-07: „Das absolute informationelle Chaos/Entropie (Potentialmeer), aus dem AEGIS aus ontologischer Angst hervorging.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L84]
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Kap 33
 
