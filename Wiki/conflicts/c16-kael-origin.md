@@ -124,3 +124,11 @@ Where it stands: this is a plan of an origin from within AEGIS's own split self,
 The prologue paragraph: AEGIS „unterdrückt die ursprüngliche, emotionale Komponente 734 gewaltsam“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L15], and activating the protocol leads „zur gewaltsamen Fragmentierung von Komponente 734 führt“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L15] – „die traumatische Geburtsstunde des Protagonistensystems Kael.“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L15] The trigger is an anomaly marked „implizit Juna/V“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L15].
 
 Where it stands: this is a plan of an origin from within a split entity, with Juna/V as an implied trigger and not as Kael's source.
+
+## 2026-10-05 — `charaktere`, 2025-07-29, the character concept
+
+**The character concept names AEGIS's Genesis-Krise as the primary cause of Kael's fragmentation.**
+
+Second answer (L116): „primäre Ursache für Kaels Fragmentierung“ ^[charaktere.md:L116]. Third answer (L349): the crisis leads „zur Emergenz von Kael als Fragment“ ^[charaktere.md:L349] from AEGIS's Ursprungs-Ich.
+
+Stands as an origin of Kael in AEGIS's fragmentation, proposed in a design document; recorded, not applied.
