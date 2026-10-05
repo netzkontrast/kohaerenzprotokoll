@@ -5,6 +5,7 @@ The plot's structure, as the author decided it step by step (decision 025). Star
 | file | what | who writes it |
 |---|---|---|
 | `a.json`, `b.json` | the source of truth: classes, dynamics, the four throughlines, plot story points, signposts, casting, open points, the work-language texts for NCP, and a `provenance` entry for every value | the author's answers, recorded by a session |
+| `journeys.json` | the journeys: three per throughline, from signpost to signpost at the act transitions 13/14, 26/27, 34/35, each with a proposed text; checked by `storyform.py` against the signposts and the weave, written into the overview and the NCP as `progression` storybeats (decision 025 step 44) | the author's choice „Die Journeys“, the texts the session's proposals |
 | `anteile.json` | when, how and where Kael's alters show: the thirteen parts, the three channels (body, syntax, trace; a name only from Kap 13), the camps of the Juna arc and the appearances by chapter, checked by `storyform.py` against the weave and the canon (decision 025 step 32) | the author's working basis of 2026-10-05, from the session's proposal |
 | `weave.json` | the storyweaving scaffold: every chapter 0–40 with its route (hard-a, hard-b, bridge and its anchor) and the throughlines of A and B it carries, checked by `storyform.py` (decision 025 step 23) | the author's answers, recorded by a session |
 | `overview.md` | everything above on one page, plus where it disagrees with the engine derivation | `scripts/storyform.py` — never by hand |

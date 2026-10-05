@@ -231,6 +231,35 @@ with the consequences of each option laid out.
     (the reading of `kontext-outline`, not „Kael is 734“); Kael's own relation to 734 stays open (Q7). **Four beats**,
     the fourth (Wir-AEGIS-plural) completed in Kap 39 — C12 decided. Consequence for the event table of Akt I: the
     line AEGIS files under 734 in Kap 6 points at AEGIS' own origin, not simply at Kael.
+43. **Q8, the end of B, and B's clock (2026-10-05).** After the Vortex the monolithic AEGIS goes out and a plural one
+    arises, in Kap 39 with the fourth beat (W12); the reading of the consolidated concept (L265). **Storyform B runs
+    until Kap 39**, not only to the Vortex's fifth beat as the status report of 2026-05-07 has it (L279, L363): the
+    weave stays as it is, Kap 38 and 39 bridges, Kap 37 hard-a. Whether Oblivion takes over AEGIS' function inside
+    Kael the author left open (the second half of Q8). **B's timelock is the waste-heat budget** — AEGIS' thermodynamic
+    reserve, spent by every sweep, exhausted at the Vortex (Beat 4, the Landauer heat); `b.json` `clock`, in the
+    overview and the NCP. A's optionlock has no concrete limit yet. `storyform.py` now also refuses a chapter proposal
+    in `development.json` whose storypoint the weave does not give that chapter, and notes woven throughlines no
+    proposal references (39 at present).
+44. **A's clock and Oblivion (2026-10-05).** A's optionlock is **the places of retreat and the rifts**: every turn takes
+    from Kael a place he could go back to (KW1 in Kap 14, KW2 in Kap 22, the safe retreat in Kap 26, the shelter of
+    defence in Kap 34), and every rift he takes closes behind him; at the Vortex only integration is left (`a.json`
+    `clock`). Inside Kael, **Oblivion takes over AEGIS' function, choosing instead of erasing** — Q8 decided. The
+    author also chose: the two plot executions merge into `development.json` (the scene lists become its sources), the
+    missing storypoints are filled by the act rhythm, the journeys are written, and Kap 27–39 get the same frame.
+45. **Storypoints by the author's decision, not the rule (2026-10-05).** Where A's new values act: Kael's unique ability
+    **Thought** in Kap 1 (he reckons the price from bit and joule), his critical flaw **Speculation** in Kap 13 (the
+    what-if before refusing); the catalyst **Threat** in Kap 2, 13, 27 (the deadline, the window, the closing rift); the
+    inhibitor **Denial** in Kap 4, 11, 18 (Oblivion's cuts); the consequence in Kap 34 (the night repeats for a moment);
+    the forewarnings in Kap 12 and 23. A's Story Costs stay only at the turns, Kap 9, 13, 26, 34 (ten references
+    removed); B's stay in AEGIS' own chapters, where they are the memory its clock costs. Catalyst and inhibitor count as
+    story-wide in the weave check, though the NCP profile files them under the objective story. The act-rhythm
+    references remain as proposals beside these decisions.
+46. **Storypoints, round 2 (2026-10-05).** AEGIS' unique ability **Control** in Kap 6 (the first sweep succeeds), its
+    critical flaw **Oppose** in Kap 28 (the purge against every movement); Juna's unique ability **Actuality** in Kap 32
+    (she sees what is real), her critical flaw **Equity** in Kap 11 (she balances for everyone, against herself). Kap 32
+    carries A-IC symptom and response like the rest of Akt III, not the concern Past. B's forewarnings in Kap 16 and 22,
+    its consequence in Kap 39 (AEGIS becomes plural), its dividends in Kap 31 (AEGIS grasps the pattern), its
+    requirements only in Kap 0 and 28, the first and the last sweep.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
