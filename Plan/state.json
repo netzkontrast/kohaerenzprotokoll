@@ -11,15 +11,15 @@
       "how": "`## Reading` sections across the chapter pages, one per document per chapter"
     },
     "documents.reconciled": {
-      "value": 60,
+      "value": 61,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 60,
+      "value": 61,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 60,
+      "value": 61,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -39,19 +39,19 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 4681,
+      "value": 4695,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 9660,
+      "value": 9679,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 9660,
+      "value": 9679,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 189,
+      "value": 190,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
@@ -107,7 +107,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 22319,
+      "value": 22380,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -183,7 +183,7 @@
       "how": "landed files that do not open with the eight lines of provenance"
     },
     "sweep.decided": {
-      "value": 136,
+      "value": 138,
       "how": "sweep hits recorded in Plan/runs/sweep.jsonl as a reading or an occurrence"
     },
     "sweep.open": {

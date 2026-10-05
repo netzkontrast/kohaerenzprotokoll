@@ -362,6 +362,12 @@ the author wants them (*Questions for the author*).
 - **Document 61: six parts, or more?** The pitch names six parts in two camps — Kael, Lex, Isabella; Nyx, Kiko, Moros — with no total
   (Q3 holds the eleven and thirteen of other sources). Is the six a sample, or an earlier cast?
 
+- **Document 62, `hard-sci-fi-cosmic-horror-research-questions` (2026-01-02): read the Plotanalyse it reports?** The report's
+  case study makes Kael, in the analysed `Plotanalyse: Kohärenz Protokoll Szenario`, a human avatar of a cosmic entity M — the
+  Monster Group — whose parts are the Monster's subgroups (L187, L196, L199). That analysed document is landed and unread
+  (`plotanalyse-kohaerenz-protokoll-szenario`). Is the entity M, with Kael as its avatar, a line you still want, and should that
+  document be read next?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*
