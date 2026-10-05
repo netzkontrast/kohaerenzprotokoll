@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -96,6 +96,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „drei verschiedene Grundfrequenzen über sechs Stunden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]; „ein Eintrag, der weder in den Genesis-Logs noch im Eingangsstrom war“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]
 - Encoding A: „RS · SP1 (Understanding) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]
 - The seeding table lists for Kap 4 a cache anomaly: „Mnemosyne registriert ein Datum, das es nie eingespeist hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L141].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Resonant Intrusion
+
+Title: „The Resonant Intrusion“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L109]
+Position: Akt I; POV: „POV: Kael / AEGIS (Systemprotokolle).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L117]
+
+- Story: the outline plans „Aus dem Riss emittiert eine starke Hitzewelle“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L115]
+- Story: the outline plans „die erste indirekte Berührung durch Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L115]
+- Concepts: „Moonshine-Link, Phantom-Resonanz, Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L113]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
