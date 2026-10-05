@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -63,6 +63,14 @@ Position: Teil II, „Das Entropie-Erkenntnis“ ^[romanstruktur-und-philosophis
 - Story: „Der Auftakt zu Teil II ist ein intellektueller Schock“ ^[romanstruktur-und-philosophische-einleitung.md:L144]
 - Story: „Kael erkennt durch die Analyse von Datenströmen in der Überwelt“ ^[romanstruktur-und-philosophische-einleitung.md:L144] that entropy is a control element
 - Back-reference from Kap 17: „Er wendet die Erkenntnis aus Kapitel 14 gegen das System an“ ^[romanstruktur-und-philosophische-einleitung.md:L164]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Riss im Habitat
+
+Title: „Der Riss im Habitat“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L166]
+Position: Teil II; setting from the `Schauplatz` field: „Kaels desintegrierendes Apartment (KW1)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L168]
+
+- Cast: the `Charaktere/Linsen` field lists „AEGIS, Kael, Juna (Soziale Linse), Leser (Spiegel-Linse)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L169]
+- Story: the blueprint plans, in `Plot-Beats`, „Der Regelbruch aus Kapitel 13 führt zu extremen physischen Anomalien“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L171] and „Die Gravitation versagt lokal“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L171]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
