@@ -375,3 +375,11 @@ Stands as eleven parts, the document's own count, and four worlds; on the corres
 „Die im System agierenden Entitäten – Lex, Nyx, Kiko und Lia – fungieren nicht als metaphorisch“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L72] `gebrochene` fragments of a psyche (the line's own marks), „sondern werden strikt als präzise diskrete, funktionale Module behandelt“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L72]. The witness section names the four again, as „Alter-Persönlichkeiten (Lex, Nyx, Kiko, Lia)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L162] that Juna differentiates. No fifth is named. The document writes `Alters` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0], `Kernwelt` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0], `Kernwelten` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0] and `Kern-Welt` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0] not at all.
 
 Stands as a document that gives four alters, named; it says nothing on the number of Kern-Welten or on a correspondence.
+
+## 2026-10-05 — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch
+
+**The pitch gives four simulated Kernwelten, KW1 to KW4, and names six parts in two camps, with no count of parts and no pairing of a part to a world.**
+
+The worlds: „etabliert spezifische somatische Mess-Motive für die vier simulierten Kernwelten“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L91], listed at L96–L99 as `KW1: Logos-Prime`, `KW2: Mnemosyne-Archipel`, `KW3: Cerberus-Labyrinth` and `KW4: Kairos-Potentialis`. The parts: „Kael (Host), Lex (Rationalist, Systemadministrator), Isabella (Daten-Spezialistin)“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L84] as ANPs, and „Nyx (Protector/Rage), Kiko (Exile/Vulnerability), Moros“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L85] as EPs; the word `Alters` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#0] does not stand in the pitch, and Juna/V is placed outside the two camps, as the exiled original self (L123).
+
+Stands as four worlds and six named parts in two camps, the pitch's own listing; it states no total of parts and no correspondence between a part and a world.
