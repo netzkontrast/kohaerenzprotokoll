@@ -389,6 +389,11 @@ the author wants them (*Questions for the author*).
   one source makes Kael/M the being he becomes in Kap 32. `Wiki/conflicts/c16-kael-origin.md` has the nine rows. Is M still part of
   the novel — as Kael's origin, as his end, or not at all?
 
+- **Document 68, `uberarbeitete-optimierte-plotline-genesis-der-existenz` (2025-04-29): who is the entity?** Version 2 of the
+  Genesis outline brings an external entity whose signature resonates with what Komponente 734 lacks — „dem Echo der
+  Unvollständigkeit" — indivisible, of contradictory symmetries; Kael is born longing for it (L119, L139, L177). It is never named.
+  Is it M, is it Juna, or one before the other became two (C16)?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*

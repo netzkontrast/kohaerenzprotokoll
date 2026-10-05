@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 66 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 66 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 67 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 67 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -757,7 +757,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Einleitung: Genesis der Existenz](drive/einleitung-genesis-der-existenz.md) | 2025-04-29 | 5,222 | **read** | Komponente 734 6, Nichts-Rauschen 3, Potentialmeer 2, Überwelt 12, Kohärenz 11, AEGIS 44 | Funke 3, Echo 8, Selbstorganisation 2, Rauschen 12, Schmerz 7 |
 | [Optimierte Plotline: Genesis der Existenz](drive/optimierte-plotline-genesis-der-existenz.md) | 2025-04-29 | 2,640 | **read** | Komponente 734 21, Genesis 6, Überwelt 11, Kern-Welten 2, Kohärenz 5, AEGIS 25, Kael 3 | Resonanz-Kaskade 3, Echo 5, Rauschen 7, Qualia 2, Protokoll 2 |
 | [Überarbeitete Optimierte Plotline (13 Szenen): Genesis der Existenz](drive/uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md) | 2025-04-29 | 1,788 |  | Komponente 734 9, Überwelt 27, AEGIS 37, Kohärenz 3, Kael 4 | 734s 2, Echo 4, AEGIS-Logik 2, Rauschen 2, Analyse 10 |
-| [Überarbeitete Optimierte Plotline: Genesis der Existenz](drive/uberarbeitete-optimierte-plotline-genesis-der-existenz.md) | 2025-04-29 | 1,792 |  | Komponente 734 9, Kern-Welten 2, Kohärenz 8, Überwelt 3, AEGIS 30, Kael 6 | AEGIS-Logik 5, Echo 4, Rauschen 3, Schmerz 2, Analyse 5 |
+| [Überarbeitete Optimierte Plotline: Genesis der Existenz](drive/uberarbeitete-optimierte-plotline-genesis-der-existenz.md) | 2025-04-29 | 1,792 | **read** | Komponente 734 9, Kern-Welten 2, Kohärenz 8, Überwelt 3, AEGIS 30, Kael 6 | AEGIS-Logik 5, Echo 4, Rauschen 3, Schmerz 2, Analyse 5 |
 | [Protokoll der Offenbarung](drive/protokoll-der-offenbarung.md) | 2025-05-20 | 7,458 |  | Argus 13, Lia 7, Juna 16, Kiko 3, Risse 7, Kael 25 | Data-Kollektiv 8, Stefan 25, Argus-Kollektiv 6, Michaels Protokoll 4, Isabella 12 |
 | [Existenzforschung für Roman: Kohärenz Protokoll](drive/existenzforschung-fuer-roman-kohaerenz-protokoll.md) | 2025-10-15 | 9,525 |  | Kohärenz 40, Überwelt 16, Emergenz 2, Entropie 2, Risse 3 | RNA 13, Abiogenese 11, RNA-Welt 7, NCC 3, Allgemeine Relativitätstheorie 5 |
 | [Roman-Finale: Ethik, Existenz, Schöpfer-Geschöpf-Beziehung](drive/roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md) | 2025-10-16 | 3,906 |  | Negentropie 5, Multiplizität 3, Nyx 2, Lex 2, Entropie† 5, Kael 35, AEGIS 14 | Logotherapie 22, Frankl 14, Wabi-Sabi 6, Albert Camus 6, Camus 6 |

@@ -1,0 +1,64 @@
+# counts for 48 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            36 word    36 in   [57, 59, 61, 75, 83, 95]
+  Komponente 734                    9 word     9 in   [73, 119, 120, 121, 138, 145]
+  Kael                              6 word     6 in   [175, 177, 182, 191, 194]
+  Entität                          22 word    22 in   [13, 29, 61, 104, 119, 120]
+  Ich                              10 word    15 in   [13, 27, 69, 104, 109, 120]
+  Fragment                          0 word     8 in   [21, 53, 119, 156, 172, 190]  <-- substring
+                                    4      as Fragmente
+                                    2      as fragmentierten
+                                    1      as Fragments
+                                    1      as Fragmentierung
+  Nichts Rauschens                  1 word     1 in   [21]
+  Rauschen                          2 word     5 in   [21, 28, 41, 66, 94]  <-- substring
+                                    3      as Rauschens
+  Resonanz                         15 word    16 in   [29, 30, 32, 41, 51, 54]
+                                    1      as Resonanzen
+                                    1      as resonanzfähig
+  Kohärenz                          7 word     9 in   [27, 40, 68, 97, 119, 139]
+                                    1      as Kohärenz-Fragment
+                                    1      as Kohärenzprinzip
+  Unvollständigkeit                 6 word     6 in   [29, 41, 71, 83, 98, 119]
+  fehlendes Stück                   1 word     1 in   [29]
+  fehlende Stück                    1 word     1 in   [120]
+  Echos der Vergangenheit & des Fehlens    1 word     1 in   [29]
+  Sog der Ordnung                   1 word     1 in   [46]
+  Cluster                           3 word     3 in   [46, 52, 53]
+  Triade                            1 word     1 in   [52]
+  Der Große Angriff                 1 word     1 in   [66]
+  Klick                             1 word     1 in   [68]
+  Ich bin die Abwehr des Nicht-Seins    0 word     0 in   []
+  Operationale Schließung           1 word     1 in   [69]
+  Grenzanalyse Delta                1 word     1 in   [80]
+  Das unterdrückte Echo             1 word     1 in   [83]
+  Echo in der Simulation            1 word     1 in   [98]
+  latente Signatur                  2 word     2 in   [83, 98]
+  latenten Signatur                 1 word     1 in   [119]
+  Überwelt                          1 word     1 in   [86]
+  Simulation                        2 word     4 in   [88, 93, 95, 98]
+                                    1      as Simulationsebene
+                                    1      as Simulationen
+  Außenwelt                         1 word     1 in   [94]
+  Die Anomalie erscheint            1 word     1 in   [118]
+  Potenziell kompatibles Kohärenz-Fragment    1 word     1 in   [119]
+  Das Ich erwacht                   1 word     1 in   [138]
+  ontologisches Paradoxon           1 word     1 in   [144]
+  Kohärenzprinzip                   1 word     1 in   [144]
+  Protokoll                         1 word     1 in   [152]
+  Systemischer Lockdown             1 word     1 in   [169]
+  Die Schnitte                      2 word     2 in   [170, 171]
+  Zerstückelung                     2 word     2 in   [154, 191]
+  Kernwelten                        2 word     2 in   [190, 193]
+  Mosaik                            2 word     2 in   [177, 194]
+  Subjektivität                     8 word     8 in   [71, 83, 98, 119, 125, 138]
+  Dissonanz                         3 word     3 in   [40, 83, 123]
+  Updates                           1 word     1 in   [84]
+  Balanceakt                        3 word     3 in   [109, 130, 161]
+  Annotation                       19 word    19 in   [26, 29, 41, 68, 71, 83]
+  Anmerkungen                       5 word     5 in   [13, 105, 126, 157, 178]
+  Ziel                             12 word    12 in   [21, 26, 34, 46, 61, 75]
+  Beats                            10 word    10 in   [22, 35, 47, 62, 76, 89]

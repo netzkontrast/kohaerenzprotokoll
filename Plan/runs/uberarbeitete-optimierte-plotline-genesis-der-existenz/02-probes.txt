@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      15
+  backslash escapes      0
+  typographic marks      1
+  ascii quotes           50
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemen, Systemische, Systemischer, Systemkonflikt, Systemstabilisierung
+  daten    Daten, Datenmuster, Datenmustern, Datenpunkten, Datenströme
+  fragm    Fragment, Fragmente, Fragmentierte, Fragmentierung, Fragments
+  aktiv    Aktivere, Aktives, Aktivität
+  erwac    ERWACHEN, Erwachen, Erwachens
+  infor    Information, Informationsfluss, Informationswesen
+  inter    Interaktion, Interaktionen, Interne
+  rausc    RAUSCHEN, Rauschen, Rauschens
+  selbs    Selbst, Selbsterhaltung, Selbstorganisation
+  signa    Signal, Signatur, Signaturen
+  simul    Simulation, Simulationen, Simulationsebene
+  algor    Algorithmen, Algorithmischer
+  analy    Analyse, Analysesysteme
+  ander    Andere, Andersartigkeit
+  balan    Balance, Balanceakt
+  bedro    Bedrohung, Bedrohungen
+  diese    Diese, Diesen
+  dynam    Dynamik, Dynamische
+  effiz    Effizienz, Effizienzsteigerung
+  eleme    Element, Elemente
+  erste    Erste, Erster
+  fehle    Fehlen, Fehlens
+  flüch    Flüchtige, Flüchtiger
+  funkt    Funktion, Funktionseinheit
+  gefüh    Gefühl, Gefühls
+
+# substring pairs -- never one term, often merged by accident
+  Auch < Eintauchen
+  Dies < Diese
+  Dies < Diesen
+  Echo < Echos
+  Eine < Keine
+  Ende < Passende
+  Form < Information
+  Form < Transformation
+  Form < Informationsfluss
+  Form < Informationswesen
+  Form < Strukturinformation
+  Kein < Keine
+  Klar < Klare
+  Neue < Neues
+  Plot < Plotline
+  Raum < Raums
+  Raum < Trauma
+  TEIL < Teil
+  TEIL < Geteilte
+  TEIL < Teilnahme
