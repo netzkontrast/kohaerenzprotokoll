@@ -349,3 +349,11 @@ Where it stands in the record's own terms: a position with two Guardians, dated 
 Kap 6: „Beide Guardians verfassen Reports an die übergeordnete AEGIS-Instanz.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L180] Kap 24: „Erstmals: zwei Guardians gegeneinander.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266] Kap 32: „Die Guardians sind allein. Nicht gestorben“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L306]
 
 Stands: two acting Guardians, LogOS and Mnemosyne, in the B chapters; C6's count stays decided by the author and the pairing stays Q5.
+
+## 2026-10-05 — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt
+
+**The research prompt reports the canon trio as giving two or three Guardians and leaves the number to it.**
+
+„zwei oder drei Pole, exakte Zahl im Kanon-Trio nachschlagen“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L745]
+
+Where it stands in the record's own terms: a report of a position with two or three poles and no named pairing, the trio itself not in the text; the count stays the author's.
