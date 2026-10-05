@@ -323,3 +323,11 @@ This document's chapters are its own — Kapitel 1–12 and 14–23, with no Kap
 Appendix C.7 (OFFEN) is headed as a plot idea and opens „Vorschlag:“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L750]; the window: „Nicht früher als Kapitel 33, nicht später als Kap 37.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L750] Elsewhere the Kanon holds her never physically described: „Wird nie physisch beschrieben, nur durch Wirkung sichtbar.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L95] and „Juna nie physisch beschreiben, nur durch Wirkung.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L417]
 
 Where it stands in the record's own terms: a proposal, marked as such in the document, for one appearance within Kap 33 to 37.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 gives three stages: a word and a silence from Kap 1, an event in Kap 7, undescribed presence in Kap 33.**
+
+Kap 1: „ein Wort, das aus dem Nichts auftaucht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L21] and the table's „Name ohne Referent“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L137] Before Kap 7 the rule is „nur Wirkung, nie Ursache“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L148] then „ist sie ein Ereignis“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L148] In Kap 33 „Sie wird nicht beschrieben“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L314]
+
+Stands: the outline of 2026-05-01 takes no position on the first appearance as a record; it plans three stages.
