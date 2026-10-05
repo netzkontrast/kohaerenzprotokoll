@@ -136,3 +136,11 @@ The document is a generated report about other texts that it names only by numbe
 W-06 (three stars): „Basisrealität, in der Kael physisch mit KPTBS, ADHS und DIS existiert, betreut von Juna.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L83] Open question 3: „Wie genau interagieren Kael und Julia (Juna/V) physisch in der Basisrealität“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L122]. C-006: the report's summary of the climax: „Flucht in die externe Realität vs. interne Konfrontation und Umprogrammierung der Simulation durch das Gödel-Gambit.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L33]
 
 It stands as a base-reality reading under the name `Externe Ebene (Köln)`, with the place left a question by the report itself; it does not say whether the level is beyond the simulation.
+
+## 2026-10-05 — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the concept document and the architecture analysis)
+
+**Both parts set the Externe Ebene outside AEGIS's reach and tie it to Juna/V.**
+
+The concept document, section 4.1: „Juna/V is a transcendent entity from the“ ^[ai-assisted-narrative-coherence.md:L601] Externe Ebene, „a realm outside AEGIS's simulated reality and its capacity for understanding“ ^[ai-assisted-narrative-coherence.md:L601]. The architecture analysis, section 3.2, separates it from the Überwelt: the Externe Ebene is „in contrast, is a mysterious reality that exists beyond AEGIS's direct control and is intrinsically linked to the entity known as Juna/V“ ^[ai-assisted-narrative-coherence.md:L1732].
+
+The concept document's words are „a realm outside AEGIS's simulated reality and its capacity for understanding“ ^[ai-assisted-narrative-coherence.md:L601]; this is a new position for the record's table, on the side of a level beyond what AEGIS simulates, and the record is not changed.
