@@ -92,8 +92,8 @@
             {
               "id": "dyn_main_character_growth",
               "dynamic": "main_character_growth",
-              "vector": "start",
-              "summary": "main_character_growth = start",
+              "vector": "stop",
+              "summary": "main_character_growth = stop",
               "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
             },
             {
@@ -406,7 +406,7 @@
               "throughline": "Relationship Story",
               "illustration": "Die Beziehung ringt darum, einander über eine trennende Grenze zu verstehen.",
               "summary": "Relationship Story Domain: Physics",
-              "storytelling": "Schritt 10a: verbindet den Link mit Sensorik (W5) und W9/W15.",
+              "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7).",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -420,7 +420,7 @@
               "throughline": "Relationship Story",
               "illustration": "Die Beziehung ringt darum, einander über eine trennende Grenze zu verstehen.",
               "summary": "Relationship Story Concern: Understanding",
-              "storytelling": "Schritt 10a: verbindet den Link mit Sensorik (W5) und W9/W15.",
+              "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7).",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -430,11 +430,11 @@
             {
               "id": "sp_24",
               "appreciation": "Relationship Story Issue",
-              "narrative_function": "Senses",
+              "narrative_function": "Instinct",
               "throughline": "Relationship Story",
-              "illustration": "Was man wahrnimmt (Telefon-Stille, Körpersignale) gegen was man daraus liest.",
-              "summary": "Relationship Story Issue: Senses",
-              "storytelling": "Schritt 10a: verbindet den Link mit Sensorik (W5) und W9/W15. Gegenpol (Counterpoint): Interpretation.",
+              "illustration": "Instinkt gegen Konditionierung: was der Link von selbst tut gegen was er gelernt hat.",
+              "summary": "Relationship Story Issue: Instinct",
+              "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7). Gegenpol (Counterpoint): Conditioning.",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -444,11 +444,11 @@
             {
               "id": "sp_25",
               "appreciation": "Relationship Story Problem",
-              "narrative_function": "Perception",
+              "narrative_function": "Ability",
               "throughline": "Relationship Story",
-              "illustration": "Die Beziehung lebt davon, wie es scheint (Telefon-Stille, Resonanz).",
-              "summary": "Relationship Story Problem: Perception",
-              "storytelling": "Schritt 10a: verbindet den Link mit Sensorik (W5) und W9/W15.",
+              "illustration": "Was beide können — der Kanal als Fähigkeit — ist das Problem der Beziehung.",
+              "summary": "Relationship Story Problem: Ability",
+              "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7).",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -458,11 +458,11 @@
             {
               "id": "sp_26",
               "appreciation": "Relationship Story Solution",
-              "narrative_function": "Actuality",
+              "narrative_function": "Desire",
               "throughline": "Relationship Story",
-              "illustration": "Sich dem stellen, was tatsächlich ist: Ist Juna real, und was ist der Link?",
-              "summary": "Relationship Story Solution: Actuality",
-              "storytelling": "Schritt 10a: verbindet den Link mit Sensorik (W5) und W9/W15.",
+              "illustration": "Dem folgen, was beide wollen.",
+              "summary": "Relationship Story Solution: Desire",
+              "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7).",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -471,34 +471,6 @@
             },
             {
               "id": "sp_27",
-              "appreciation": "Relationship Story Symptom",
-              "narrative_function": "Self-aware",
-              "throughline": "Relationship Story",
-              "illustration": "Focus: wo der Strang das Problem vermutet.",
-              "summary": "Relationship Story Symptom: Self-aware",
-              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_relationship_story"
-                }
-              ]
-            },
-            {
-              "id": "sp_28",
-              "appreciation": "Relationship Story Response",
-              "narrative_function": "Aware",
-              "throughline": "Relationship Story",
-              "illustration": "Direction: womit der Strang reagiert.",
-              "summary": "Relationship Story Response: Aware",
-              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_relationship_story"
-                }
-              ]
-            },
-            {
-              "id": "sp_29",
               "appreciation": "Main Character Pivotal Element",
               "narrative_function": "Inertia",
               "throughline": "Main Character",
@@ -512,7 +484,7 @@
               ]
             },
             {
-              "id": "sp_30",
+              "id": "sp_28",
               "appreciation": "Story Goal",
               "narrative_function": "Conceptualizing",
               "illustration": "Einen Plan, ein Konzept der Ordnung entwickeln.",
@@ -525,7 +497,7 @@
               ]
             },
             {
-              "id": "sp_31",
+              "id": "sp_29",
               "appreciation": "Story Requirements",
               "narrative_function": "Learning",
               "illustration": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
@@ -538,12 +510,12 @@
               ]
             },
             {
-              "id": "sp_32",
+              "id": "sp_30",
               "appreciation": "Story Consequence",
               "narrative_function": "Past",
               "illustration": "Die Fragmentierungsnacht wiederholt sich.",
               "summary": "Story Consequence: Past",
-              "storytelling": "Was eintritt, wenn das Ziel scheitert. Start-Story: die Folgen drohen nur. Schritt 13; WP-Kandidat. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Was eintritt, wenn das Ziel scheitert. Stop-Story: die Folgen laufen schon. Schritt 13; WP-Kandidat. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -551,7 +523,7 @@
               ]
             },
             {
-              "id": "sp_33",
+              "id": "sp_31",
               "appreciation": "Story Forewarnings",
               "narrative_function": "Preconscious",
               "illustration": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen.",
@@ -564,7 +536,7 @@
               ]
             },
             {
-              "id": "sp_34",
+              "id": "sp_32",
               "appreciation": "Story Costs",
               "narrative_function": "Being",
               "illustration": "Kaels funktionierende Fassade zerfällt: Host-Rolle, Alltag, Routinen.",
@@ -577,7 +549,7 @@
               ]
             },
             {
-              "id": "sp_35",
+              "id": "sp_33",
               "appreciation": "Story Dividends",
               "narrative_function": "Becoming",
               "illustration": "Kael wird funktional plural; die Anteile werden Verbündete.",
@@ -590,7 +562,7 @@
               ]
             },
             {
-              "id": "sp_36",
+              "id": "sp_34",
               "appreciation": "Story Prerequisites",
               "narrative_function": "Memory",
               "illustration": "Ein erstes Erinnerungsfragment, an dem Kael zu lesen beginnen kann.",
@@ -603,7 +575,7 @@
               ]
             },
             {
-              "id": "sp_37",
+              "id": "sp_35",
               "appreciation": "Story Preconditions",
               "narrative_function": "Present",
               "illustration": "Kael kann nur in Zeitlücken suchen.",

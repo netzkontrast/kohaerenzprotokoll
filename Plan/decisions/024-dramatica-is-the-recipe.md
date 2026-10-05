@@ -67,6 +67,17 @@ with the consequences of each option laid out.
    **„Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung."** A argues it (Kael becomes functionally plural,
    Triumph); B argues it from the other side (AEGIS seeks closure and collapses, Tragedy). Chosen over „Wandel statt
    Ordnung" and „Kohärenz braucht Vertrauen".
+16. **The engine's derivation, rebuilt without the Dramatica platform** (2026-10-05, the author's instruction;
+    `Plan/runs/storyform-2026-10-02/engine-rules.md`). A Dramatica storyform is fixed by twelve answers; everything
+    below them is derived. Rules reverse-engineered by a user of the Dramatica forum, rebuilt as `dramatica.py derive`
+    and tested on all worked cases of that thread: A broke D1 (Start + Be-er needs OS Universe/Physics) — **the
+    author changed A's growth to Stop**; A's hand-chosen chains then match the derivation except the RS, which the
+    author let be derived (Instinct, Ability → Desire). **B was re-derived on the author's word**: AEGIS Future /
+    Openness / Disbelief → Faith (replacing Progress / Fantasy / Test → Trust of step 7), Kael (IC) Subconscious /
+    Dream (replacing Conscious / Doubt), host and system Becoming / Rationalization / Feeling → Logic (replacing
+    Being / Desire / Test). Not derivable: B's IC problem, A's RS focus/direction order, and **the signposts** — their
+    function is licensed Dramatica intelligence (the author's NCP fork says so: `profiles/dramatica/semantic-boundary.md`);
+    the signposts of steps 11–12 stay as chosen, each still the four types of its class.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10), logline and genre;

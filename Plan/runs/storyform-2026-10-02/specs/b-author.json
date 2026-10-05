@@ -17,18 +17,14 @@
   "influence_character_resolve": "change"
  },
  "IC": {
-  "concern": "Conscious",
-  "issue": "Doubt",
+  "concern": "Subconscious",
+  "issue": "Dream",
   "signposts": [
    "Conscious",
    "Memory",
    "Preconscious",
    "Subconscious"
-  ],
-  "problem": "Potentiality",
-  "solution": "Certainty",
-  "focus": "Reaction",
-  "direction": "Proaction"
+  ]
  },
  "OS": {
   "concern": "Obtaining",
@@ -45,34 +41,32 @@
   "direction": "Consideration"
  },
  "RS": {
-  "concern": "Being",
+  "concern": "Becoming",
+  "issue": "Rationalization",
+  "problem": "Feeling",
+  "solution": "Logic",
   "signposts": [
    "Being",
    "Conceiving",
    "Conceptualizing",
    "Becoming"
-  ],
-  "issue": "Desire",
-  "problem": "Test",
-  "solution": "Trust",
-  "focus": "Expectation",
-  "direction": "Determination"
+  ]
  },
  "_name": "b-author",
  "_source": "Autor 2026-10-02/05: Modell Bericht 05-07, Do-er, Logic = OS-Lösung, MC-Kette Progress/Fantasy/Test→Trust",
  "MC": {
-  "concern": "Progress",
-  "issue": "Fantasy",
-  "problem": "Test",
-  "solution": "Trust",
+  "concern": "Future",
+  "issue": "Openness",
+  "problem": "Disbelief",
+  "solution": "Faith",
+  "focus": "Reconsideration",
+  "direction": "Consideration",
   "signposts": [
    "Past",
    "Present",
    "Progress",
    "Future"
-  ],
-  "focus": "Unending",
-  "direction": "Ending"
+  ]
  },
  "plot": {
   "requirements": "Doing",

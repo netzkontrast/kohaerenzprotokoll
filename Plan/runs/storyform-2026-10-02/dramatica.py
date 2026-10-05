@@ -246,6 +246,9 @@ def selftest():
         out, _ = derive(dict(base, resolve="change", approach="do_er", growth="stop", outcome=oc))
         if out["RS"]["problem"] != want:
             fails.append(f"derive RS problem ({oc}): {out['RS']['problem']}, the thread has {want}")
+    out, _ = derive(dict(base, resolve="change", approach="do_er", growth="stop"))
+    if out["RS"]["issue(D7)"] != "Truth":
+        fails.append(f"derive RS issue: {out['RS']['issue(D7)']}, the thread has Truth")
     if not derive(dict(base, resolve="change", approach="do_er", growth="start"))[1]:
         fails.append("derive accepted start + do_er with OS Universe (D1)")
     for f in fails:
@@ -338,6 +341,7 @@ def check(spec):
 #   D5  RS problem: Outcome Failure -> the OS problem; Success -> in the RS class, the quad holding the
 #       OS focus/direction pair, the element of the other pair in the same row as the OS problem
 #   D6  RS concern = the type in the OS concern's quad position, in the RS class
+#   D7  RS issue = the variation in the OS issue's quad position, under the RS concern (thread: Fate -> Truth)
 # Not derived here (unknown): IC problem, RS issue when D5 leaves the D6 quad, focus vs direction
 # order, plot story points, and every signpost.
 EXTERNAL = {"Universe", "Physics"}
@@ -389,7 +393,10 @@ def derive(answers):
     else:
         t, v, q = _home(rs_cls, ofd[0])
         p = next(x for x in q if x not in ofd and q.index(x) // 2 == row)
-    out["RS"] = {"concern(D6)": rs_concern, "problem quad (D5)": f"{t}/{v}", "problem": p, "solution": pair_of(p, q)}
+    os_vq = [x for x, _ in TABLE[os_cls][type_quad(os_cls).index(ot)][2]]
+    rs_vq = [x for x, _ in TABLE[rs_cls][type_quad(rs_cls).index(rs_concern)][2]]
+    out["RS"] = {"concern(D6)": rs_concern, "issue(D7)": rs_vq[os_vq.index(a["os_issue"])],
+                 "problem quad (D5)": f"{t}/{v}", "problem": p, "solution": pair_of(p, q)}
     if t != rs_concern:
         bad.append(f"D5/D6 disagree: RS problem {p} sits under {t}, the RS concern by position is {rs_concern}")
     return out, bad

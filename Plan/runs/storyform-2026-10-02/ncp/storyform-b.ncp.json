@@ -17,13 +17,13 @@
               "id": "persp_main_character",
               "author_structural_pov": "i",
               "summary": "AEGIS (MC, Universe)",
-              "storytelling": "AEGIS' Linie: Progress, Fantasy ↔ Fact, Test, nie Trust. Strukturelle Sicht, keine Ich-Prosa (W6)."
+              "storytelling": "AEGIS' Linie: Future, Openness ↔ Delay, Disbelief, nie Faith. Strukturelle Sicht, keine Ich-Prosa (W6)."
             },
             {
               "id": "persp_influence_character",
               "author_structural_pov": "you",
               "summary": "Kael (IC, Mind/Conscious)",
-              "storytelling": "Kael sät Zweifel, den AEGIS nicht auflösen kann; er ändert sich am Vortex."
+              "storytelling": "Kael wirkt aus innersten Wünschen (Subconscious, Dream ↔ Hope); er ändert sich am Vortex."
             },
             {
               "id": "persp_objective_story",
@@ -35,7 +35,7 @@
               "id": "persp_relationship_story",
               "author_structural_pov": "we",
               "summary": "Kael und AEGIS: Host und System (Psychology)",
-              "storytelling": "Beide spielen einander Rollen vor; die Beziehung zerbricht, wenn die Rollen fallen."
+              "storytelling": "Die Beziehung verändert, was beide sind (Becoming); ihr Problem ist dasselbe wie das des OS: Feeling."
             }
           ],
           "players": [],
@@ -110,9 +110,9 @@
               "appreciation": "Main Character Domain",
               "narrative_function": "Universe",
               "throughline": "Main Character",
-              "illustration": "AEGIS' Linie: Progress, Fantasy ↔ Fact, Test, nie Trust. Strukturelle Sicht, keine Ich-Prosa (W6).",
+              "illustration": "AEGIS' Linie: Future, Openness ↔ Delay, Disbelief, nie Faith. Strukturelle Sicht, keine Ich-Prosa (W6).",
               "summary": "Main Character Domain: Universe",
-              "storytelling": "Schritt 7: Zero-Trust als Dramatica-Haltung; erzeugt Prüfläufe, Quarantänen, Sweeps.",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -122,11 +122,11 @@
             {
               "id": "sp_02",
               "appreciation": "Main Character Concern",
-              "narrative_function": "Progress",
+              "narrative_function": "Future",
               "throughline": "Main Character",
-              "illustration": "AEGIS' Linie: Progress, Fantasy ↔ Fact, Test, nie Trust. Strukturelle Sicht, keine Ich-Prosa (W6).",
-              "summary": "Main Character Concern: Progress",
-              "storytelling": "Schritt 7: Zero-Trust als Dramatica-Haltung; erzeugt Prüfläufe, Quarantänen, Sweeps.",
+              "illustration": "AEGIS' Linie: Future, Openness ↔ Delay, Disbelief, nie Faith. Strukturelle Sicht, keine Ich-Prosa (W6).",
+              "summary": "Main Character Concern: Future",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -136,11 +136,11 @@
             {
               "id": "sp_03",
               "appreciation": "Main Character Issue",
-              "narrative_function": "Fantasy",
+              "narrative_function": "Openness",
               "throughline": "Main Character",
-              "illustration": "Die Fantasie absoluter Reinheit gegen die Fakten wachsender Anomalien.",
-              "summary": "Main Character Issue: Fantasy",
-              "storytelling": "Schritt 7: Zero-Trust als Dramatica-Haltung; erzeugt Prüfläufe, Quarantänen, Sweeps. Gegenpol (Counterpoint): Fact.",
+              "illustration": "Offenheit gegen Aufschub: AEGIS hält die Zukunft offen, indem es jede Entscheidung vertagt.",
+              "summary": "Main Character Issue: Openness",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Gegenpol (Counterpoint): Preconception.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -150,11 +150,11 @@
             {
               "id": "sp_04",
               "appreciation": "Main Character Problem",
-              "narrative_function": "Test",
+              "narrative_function": "Disbelief",
               "throughline": "Main Character",
-              "illustration": "AEGIS prüft und verifiziert alles und vertraut nie.",
-              "summary": "Main Character Problem: Test",
-              "storytelling": "Schritt 7: Zero-Trust als Dramatica-Haltung; erzeugt Prüfläufe, Quarantänen, Sweeps.",
+              "illustration": "AEGIS glaubt nichts, was nicht bewiesen ist — Unglaube als Betriebsprinzip (Zero-Trust).",
+              "summary": "Main Character Problem: Disbelief",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -164,11 +164,11 @@
             {
               "id": "sp_05",
               "appreciation": "Main Character Solution",
-              "narrative_function": "Trust",
+              "narrative_function": "Faith",
               "throughline": "Main Character",
-              "illustration": "Vertrauen — die Lösung, die AEGIS nie ergreift.",
-              "summary": "Main Character Solution: Trust",
-              "storytelling": "Schritt 7: Zero-Trust als Dramatica-Haltung; erzeugt Prüfläufe, Quarantänen, Sweeps.",
+              "illustration": "Glaube — die Lösung, die AEGIS nie ergreift.",
+              "summary": "Main Character Solution: Faith",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -178,10 +178,10 @@
             {
               "id": "sp_06",
               "appreciation": "Main Character Symptom",
-              "narrative_function": "Unending",
+              "narrative_function": "Reconsider",
               "throughline": "Main Character",
               "illustration": "Focus: wo der Strang das Problem vermutet.",
-              "summary": "Main Character Symptom: Unending",
+              "summary": "Main Character Symptom: Reconsider",
               "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
               "perspectives": [
                 {
@@ -192,10 +192,10 @@
             {
               "id": "sp_07",
               "appreciation": "Main Character Response",
-              "narrative_function": "Ending",
+              "narrative_function": "Consider",
               "throughline": "Main Character",
               "illustration": "Direction: womit der Strang reagiert.",
-              "summary": "Main Character Response: Ending",
+              "summary": "Main Character Response: Consider",
               "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
               "perspectives": [
                 {
@@ -208,9 +208,9 @@
               "appreciation": "Influence Character Domain",
               "narrative_function": "Mind",
               "throughline": "Influence Character",
-              "illustration": "Kael sät Zweifel, den AEGIS nicht auflösen kann; er ändert sich am Vortex.",
+              "illustration": "Kael wirkt aus innersten Wünschen (Subconscious, Dream ↔ Hope); er ändert sich am Vortex.",
               "summary": "Influence Character Domain: Mind",
-              "storytelling": "Schritt 9b: das Gödel-Gambit als Zweifel, der AEGIS' Problem Test nie enden lässt.",
+              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind.",
               "perspectives": [
                 {
                   "perspective_id": "persp_influence_character"
@@ -220,11 +220,11 @@
             {
               "id": "sp_09",
               "appreciation": "Influence Character Concern",
-              "narrative_function": "Conscious",
+              "narrative_function": "Subconscious",
               "throughline": "Influence Character",
-              "illustration": "Kael sät Zweifel, den AEGIS nicht auflösen kann; er ändert sich am Vortex.",
-              "summary": "Influence Character Concern: Conscious",
-              "storytelling": "Schritt 9b: das Gödel-Gambit als Zweifel, der AEGIS' Problem Test nie enden lässt.",
+              "illustration": "Kael wirkt aus innersten Wünschen (Subconscious, Dream ↔ Hope); er ändert sich am Vortex.",
+              "summary": "Influence Character Concern: Subconscious",
+              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind.",
               "perspectives": [
                 {
                   "perspective_id": "persp_influence_character"
@@ -234,11 +234,11 @@
             {
               "id": "sp_10",
               "appreciation": "Influence Character Issue",
-              "narrative_function": "Doubt",
+              "narrative_function": "Dream",
               "throughline": "Influence Character",
-              "illustration": "Ein Zweifel, den Untersuchung nicht auflösen kann.",
-              "summary": "Influence Character Issue: Doubt",
-              "storytelling": "Schritt 9b: das Gödel-Gambit als Zweifel, der AEGIS' Problem Test nie enden lässt. Gegenpol (Counterpoint): Investigation.",
+              "illustration": "Traum gegen Hoffnung: Kael wirkt aus dem, was er sich wünscht, nicht aus dem, was er erwartet.",
+              "summary": "Influence Character Issue: Dream",
+              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Gegenpol (Counterpoint): Hope.",
               "perspectives": [
                 {
                   "perspective_id": "persp_influence_character"
@@ -247,62 +247,6 @@
             },
             {
               "id": "sp_11",
-              "appreciation": "Influence Character Problem",
-              "narrative_function": "Potentiality",
-              "throughline": "Influence Character",
-              "illustration": "Kael ist reine Möglichkeit — das Potentialmeer, der unfixbare Bug.",
-              "summary": "Influence Character Problem: Potentiality",
-              "storytelling": "Schritt 9b: das Gödel-Gambit als Zweifel, der AEGIS' Problem Test nie enden lässt.",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_influence_character"
-                }
-              ]
-            },
-            {
-              "id": "sp_12",
-              "appreciation": "Influence Character Solution",
-              "narrative_function": "Certainty",
-              "throughline": "Influence Character",
-              "illustration": "Am Vortex legt Kael sich fest und gibt nach.",
-              "summary": "Influence Character Solution: Certainty",
-              "storytelling": "Schritt 9b: das Gödel-Gambit als Zweifel, der AEGIS' Problem Test nie enden lässt.",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_influence_character"
-                }
-              ]
-            },
-            {
-              "id": "sp_13",
-              "appreciation": "Influence Character Symptom",
-              "narrative_function": "Reaction",
-              "throughline": "Influence Character",
-              "illustration": "Focus: wo der Strang das Problem vermutet.",
-              "summary": "Influence Character Symptom: Reaction",
-              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_influence_character"
-                }
-              ]
-            },
-            {
-              "id": "sp_14",
-              "appreciation": "Influence Character Response",
-              "narrative_function": "Proaction",
-              "throughline": "Influence Character",
-              "illustration": "Direction: womit der Strang reagiert.",
-              "summary": "Influence Character Response: Proaction",
-              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_influence_character"
-                }
-              ]
-            },
-            {
-              "id": "sp_15",
               "appreciation": "Objective Story Domain",
               "narrative_function": "Physics",
               "throughline": "Objective Story",
@@ -316,7 +260,7 @@
               ]
             },
             {
-              "id": "sp_16",
+              "id": "sp_12",
               "appreciation": "Objective Story Concern",
               "narrative_function": "Obtaining",
               "throughline": "Objective Story",
@@ -330,7 +274,7 @@
               ]
             },
             {
-              "id": "sp_17",
+              "id": "sp_13",
               "appreciation": "Objective Story Issue",
               "narrative_function": "Approach",
               "throughline": "Objective Story",
@@ -344,7 +288,7 @@
               ]
             },
             {
-              "id": "sp_18",
+              "id": "sp_14",
               "appreciation": "Objective Story Problem",
               "narrative_function": "Feeling",
               "throughline": "Objective Story",
@@ -358,7 +302,7 @@
               ]
             },
             {
-              "id": "sp_19",
+              "id": "sp_15",
               "appreciation": "Objective Story Solution",
               "narrative_function": "Logic",
               "throughline": "Objective Story",
@@ -372,7 +316,7 @@
               ]
             },
             {
-              "id": "sp_20",
+              "id": "sp_16",
               "appreciation": "Objective Story Symptom",
               "narrative_function": "Reconsider",
               "throughline": "Objective Story",
@@ -386,7 +330,7 @@
               ]
             },
             {
-              "id": "sp_21",
+              "id": "sp_17",
               "appreciation": "Objective Story Response",
               "narrative_function": "Consider",
               "throughline": "Objective Story",
@@ -400,13 +344,69 @@
               ]
             },
             {
-              "id": "sp_22",
+              "id": "sp_18",
               "appreciation": "Relationship Story Domain",
               "narrative_function": "Psychology",
               "throughline": "Relationship Story",
-              "illustration": "Beide spielen einander Rollen vor; die Beziehung zerbricht, wenn die Rollen fallen.",
+              "illustration": "Die Beziehung verändert, was beide sind (Becoming); ihr Problem ist dasselbe wie das des OS: Feeling.",
               "summary": "Relationship Story Domain: Psychology",
-              "storytelling": "Schritt 10b: passt zu Do-er AEGIS und zur operativen Interiorität.",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_19",
+              "appreciation": "Relationship Story Concern",
+              "narrative_function": "Becoming",
+              "throughline": "Relationship Story",
+              "illustration": "Die Beziehung verändert, was beide sind (Becoming); ihr Problem ist dasselbe wie das des OS: Feeling.",
+              "summary": "Relationship Story Concern: Becoming",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_20",
+              "appreciation": "Relationship Story Issue",
+              "narrative_function": "Rationalization",
+              "throughline": "Relationship Story",
+              "illustration": "Rationalisierung gegen Verpflichtung: Host und System begründen, was sie einander schulden.",
+              "summary": "Relationship Story Issue: Rationalization",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Gegenpol (Counterpoint): Obligation.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_21",
+              "appreciation": "Relationship Story Problem",
+              "narrative_function": "Feeling",
+              "throughline": "Relationship Story",
+              "illustration": "Gefühl — dasselbe, was AEGIS im OS ausschließen will, steht zwischen Host und System.",
+              "summary": "Relationship Story Problem: Feeling",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_22",
+              "appreciation": "Relationship Story Solution",
+              "narrative_function": "Logic",
+              "throughline": "Relationship Story",
+              "illustration": "Logik.",
+              "summary": "Relationship Story Solution: Logic",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position.",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -415,90 +415,6 @@
             },
             {
               "id": "sp_23",
-              "appreciation": "Relationship Story Concern",
-              "narrative_function": "Being",
-              "throughline": "Relationship Story",
-              "illustration": "Beide spielen einander Rollen vor; die Beziehung zerbricht, wenn die Rollen fallen.",
-              "summary": "Relationship Story Concern: Being",
-              "storytelling": "Schritt 10b: passt zu Do-er AEGIS und zur operativen Interiorität.",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_relationship_story"
-                }
-              ]
-            },
-            {
-              "id": "sp_24",
-              "appreciation": "Relationship Story Issue",
-              "narrative_function": "Desire",
-              "throughline": "Relationship Story",
-              "illustration": "Was jemand will gegen was er kann: Wächter und Host.",
-              "summary": "Relationship Story Issue: Desire",
-              "storytelling": "Schritt 10b: passt zu Do-er AEGIS und zur operativen Interiorität. Gegenpol (Counterpoint): Ability.",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_relationship_story"
-                }
-              ]
-            },
-            {
-              "id": "sp_25",
-              "appreciation": "Relationship Story Problem",
-              "narrative_function": "Test",
-              "throughline": "Relationship Story",
-              "illustration": "Die Beziehung besteht aus Prüfungen; der Host wird ständig getestet.",
-              "summary": "Relationship Story Problem: Test",
-              "storytelling": "Schritt 10b: passt zu Do-er AEGIS und zur operativen Interiorität.",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_relationship_story"
-                }
-              ]
-            },
-            {
-              "id": "sp_26",
-              "appreciation": "Relationship Story Solution",
-              "narrative_function": "Trust",
-              "throughline": "Relationship Story",
-              "illustration": "Vertrauen.",
-              "summary": "Relationship Story Solution: Trust",
-              "storytelling": "Schritt 10b: passt zu Do-er AEGIS und zur operativen Interiorität.",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_relationship_story"
-                }
-              ]
-            },
-            {
-              "id": "sp_27",
-              "appreciation": "Relationship Story Symptom",
-              "narrative_function": "Expectation",
-              "throughline": "Relationship Story",
-              "illustration": "Focus: wo der Strang das Problem vermutet.",
-              "summary": "Relationship Story Symptom: Expectation",
-              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_relationship_story"
-                }
-              ]
-            },
-            {
-              "id": "sp_28",
-              "appreciation": "Relationship Story Response",
-              "narrative_function": "Determination",
-              "throughline": "Relationship Story",
-              "illustration": "Direction: womit der Strang reagiert.",
-              "summary": "Relationship Story Response: Determination",
-              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
-              "perspectives": [
-                {
-                  "perspective_id": "persp_relationship_story"
-                }
-              ]
-            },
-            {
-              "id": "sp_29",
               "appreciation": "Main Character Pivotal Element",
               "narrative_function": "Logic",
               "throughline": "Main Character",
@@ -512,7 +428,7 @@
               ]
             },
             {
-              "id": "sp_30",
+              "id": "sp_24",
               "appreciation": "Story Goal",
               "narrative_function": "Obtaining",
               "illustration": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null.",
@@ -525,7 +441,7 @@
               ]
             },
             {
-              "id": "sp_31",
+              "id": "sp_25",
               "appreciation": "Story Requirements",
               "narrative_function": "Doing",
               "illustration": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
@@ -538,7 +454,7 @@
               ]
             },
             {
-              "id": "sp_32",
+              "id": "sp_26",
               "appreciation": "Story Consequence",
               "narrative_function": "Becoming",
               "illustration": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
@@ -551,7 +467,7 @@
               ]
             },
             {
-              "id": "sp_33",
+              "id": "sp_27",
               "appreciation": "Story Forewarnings",
               "narrative_function": "Progress",
               "illustration": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1).",
@@ -564,7 +480,7 @@
               ]
             },
             {
-              "id": "sp_34",
+              "id": "sp_28",
               "appreciation": "Story Costs",
               "narrative_function": "Memory",
               "illustration": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
@@ -577,7 +493,7 @@
               ]
             },
             {
-              "id": "sp_35",
+              "id": "sp_29",
               "appreciation": "Story Dividends",
               "narrative_function": "Understanding",
               "illustration": "AEGIS versteht Kael mit jedem Zug genauer.",
@@ -590,7 +506,7 @@
               ]
             },
             {
-              "id": "sp_36",
+              "id": "sp_30",
               "appreciation": "Story Prerequisites",
               "narrative_function": "Past",
               "illustration": "AEGIS braucht seine eigenen Aufzeichnungen, um sweepen zu können.",
@@ -603,7 +519,7 @@
               ]
             },
             {
-              "id": "sp_37",
+              "id": "sp_31",
               "appreciation": "Story Preconditions",
               "narrative_function": "Conceiving",
               "illustration": "AEGIS darf nur im Rahmen des Protokolls löschen (das Trennungsprotokoll als Regel).",
