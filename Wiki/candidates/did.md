@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario"]
 gathered: "2026-09-16"
 ---
 
@@ -40,6 +40,10 @@ This is asked, not answered, and it is the hinge of the whole reading: if the tw
 cannot be told apart, [[aegis|AEGIS]] classifying DID as entropy is not obviously an error.
 
 See [[multiplizitaet|Multiplizität]].
+
+## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — Kael's DID as induced by AEGIS, as the report cites its User Query
+
+The report's own matrix row gives Kael's state as „Kaels psychischer Zustand (von AEGIS induziert); Kernwelten als Repräsentation der Fragmente“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L46] (L46). In its section on M and Kael it writes, citing its User Query: „Kaels Dissoziative Identitätsstörung (DID) ist explizit keine natürlich entstandene Störung, sondern das“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L92] result of an attempt, as the line continues, „AEGIS' Versuch, die Komplexität von M in isolierbare Komponenten zu zerlegen und auf eine menschliche Psyche abzubilden“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L92] The Plotanalyse reads this as a perversion of DID therapy, which aims at integration. In the identity section it repeats: „Seine von AEGIS induzierte DID stellt die Frage nach der Natur des Selbst“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L130]
 
 ## Reading — `hard-sci-fi-cosmic-horror-research-questions`, 2026-01-02, the Cosmic-Horror research report — DID as reported from an analysed Plotanalyse
 
