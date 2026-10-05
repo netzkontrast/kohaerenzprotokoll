@@ -29,6 +29,14 @@
         [
           "B",
           "Story Requirements"
+        ],
+        [
+          "B",
+          "Main Character Concern"
+        ],
+        [
+          "B",
+          "Objective Story Concern"
         ]
       ]
     },
@@ -88,6 +96,10 @@
         [
           "A",
           "Story Costs"
+        ],
+        [
+          "A",
+          "Objective Story Concern"
         ]
       ]
     },
@@ -170,6 +182,10 @@
         [
           "A",
           "Story Costs"
+        ],
+        [
+          "A",
+          "Objective Story Concern"
         ]
       ]
     },
@@ -200,6 +216,14 @@
         [
           "B",
           "Story Requirements"
+        ],
+        [
+          "B",
+          "Main Character Concern"
+        ],
+        [
+          "B",
+          "Objective Story Concern"
         ]
       ]
     },
@@ -252,6 +276,10 @@
         [
           "A",
           "Story Costs"
+        ],
+        [
+          "A",
+          "Main Character Concern"
         ]
       ]
     },
@@ -278,6 +306,10 @@
         [
           "A",
           "Story Costs"
+        ],
+        [
+          "A",
+          "Objective Story Concern"
         ]
       ]
     },
@@ -394,6 +426,18 @@
         [
           "A",
           "Main Character Solution"
+        ],
+        [
+          "A",
+          "Relationship Story Concern"
+        ],
+        [
+          "B",
+          "Influence Character Concern"
+        ],
+        [
+          "B",
+          "Relationship Story Concern"
         ]
       ]
     },
@@ -419,6 +463,18 @@
         [
           "A",
           "Story Costs"
+        ],
+        [
+          "A",
+          "Objective Story Issue"
+        ],
+        [
+          "A",
+          "Objective Story Problem"
+        ],
+        [
+          "A",
+          "Objective Story Benchmark"
         ]
       ]
     },
@@ -444,6 +500,18 @@
         [
           "A",
           "Story Costs"
+        ],
+        [
+          "A",
+          "Main Character Issue"
+        ],
+        [
+          "A",
+          "Main Character Problem"
+        ],
+        [
+          "A",
+          "Main Character Benchmark"
         ]
       ]
     },
@@ -473,6 +541,30 @@
         [
           "B",
           "Story Requirements"
+        ],
+        [
+          "B",
+          "Main Character Issue"
+        ],
+        [
+          "B",
+          "Main Character Problem"
+        ],
+        [
+          "B",
+          "Main Character Benchmark"
+        ],
+        [
+          "B",
+          "Objective Story Issue"
+        ],
+        [
+          "B",
+          "Objective Story Problem"
+        ],
+        [
+          "B",
+          "Objective Story Benchmark"
         ]
       ]
     },
@@ -527,6 +619,18 @@
         [
           "A",
           "Story Requirements"
+        ],
+        [
+          "B",
+          "Influence Character Issue"
+        ],
+        [
+          "B",
+          "Influence Character Problem"
+        ],
+        [
+          "B",
+          "Influence Character Benchmark"
         ]
       ]
     },
@@ -577,6 +681,14 @@
         [
           "A",
           "Story Costs"
+        ],
+        [
+          "A",
+          "Objective Story Issue"
+        ],
+        [
+          "A",
+          "Objective Story Problem"
         ]
       ]
     },
@@ -602,6 +714,26 @@
         [
           "A",
           "Story Costs"
+        ],
+        [
+          "A",
+          "Relationship Story Issue"
+        ],
+        [
+          "A",
+          "Relationship Story Problem"
+        ],
+        [
+          "B",
+          "Relationship Story Issue"
+        ],
+        [
+          "B",
+          "Relationship Story Problem"
+        ],
+        [
+          "B",
+          "Relationship Story Benchmark"
         ]
       ]
     },
@@ -631,6 +763,22 @@
         [
           "B",
           "Story Requirements"
+        ],
+        [
+          "B",
+          "Main Character Issue"
+        ],
+        [
+          "B",
+          "Main Character Problem"
+        ],
+        [
+          "B",
+          "Objective Story Issue"
+        ],
+        [
+          "B",
+          "Objective Story Problem"
         ]
       ]
     },
@@ -656,6 +804,14 @@
         [
           "A",
           "Story Costs"
+        ],
+        [
+          "A",
+          "Main Character Issue"
+        ],
+        [
+          "A",
+          "Main Character Problem"
         ]
       ]
     },
@@ -739,6 +895,30 @@
         [
           "A",
           "Main Character Solution"
+        ],
+        [
+          "A",
+          "Objective Story Issue"
+        ],
+        [
+          "A",
+          "Objective Story Problem"
+        ],
+        [
+          "B",
+          "Main Character Issue"
+        ],
+        [
+          "B",
+          "Main Character Problem"
+        ],
+        [
+          "B",
+          "Influence Character Issue"
+        ],
+        [
+          "B",
+          "Influence Character Problem"
         ]
       ]
     },
@@ -767,6 +947,30 @@
         [
           "B",
           "Story Requirements"
+        ],
+        [
+          "B",
+          "Main Character Symptom"
+        ],
+        [
+          "B",
+          "Main Character Response"
+        ],
+        [
+          "B",
+          "Main Character Benchmark"
+        ],
+        [
+          "B",
+          "Objective Story Symptom"
+        ],
+        [
+          "B",
+          "Objective Story Response"
+        ],
+        [
+          "B",
+          "Objective Story Benchmark"
         ]
       ]
     },
@@ -791,6 +995,18 @@
         [
           "A",
           "Influence Character Concern"
+        ],
+        [
+          "B",
+          "Influence Character Symptom"
+        ],
+        [
+          "B",
+          "Influence Character Response"
+        ],
+        [
+          "B",
+          "Influence Character Benchmark"
         ]
       ]
     },
@@ -823,6 +1039,30 @@
         [
           "A",
           "Main Character Solution"
+        ],
+        [
+          "A",
+          "Objective Story Symptom"
+        ],
+        [
+          "A",
+          "Objective Story Response"
+        ],
+        [
+          "B",
+          "Main Character Symptom"
+        ],
+        [
+          "B",
+          "Main Character Response"
+        ],
+        [
+          "B",
+          "Influence Character Symptom"
+        ],
+        [
+          "B",
+          "Influence Character Response"
         ]
       ]
     },
@@ -855,6 +1095,18 @@
         [
           "A",
           "Main Character Solution"
+        ],
+        [
+          "A",
+          "Objective Story Solution"
+        ],
+        [
+          "B",
+          "Main Character Solution"
+        ],
+        [
+          "B",
+          "Objective Story Solution"
         ]
       ]
     },
@@ -879,6 +1131,14 @@
         [
           "A",
           "Relationship Story Concern"
+        ],
+        [
+          "A",
+          "Influence Character Solution"
+        ],
+        [
+          "B",
+          "Relationship Story Solution"
         ]
       ]
     },
@@ -911,6 +1171,18 @@
         [
           "A",
           "Main Character Solution"
+        ],
+        [
+          "A",
+          "Objective Story Solution"
+        ],
+        [
+          "B",
+          "Main Character Solution"
+        ],
+        [
+          "B",
+          "Influence Character Solution"
         ]
       ]
     }

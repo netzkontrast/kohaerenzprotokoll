@@ -443,6 +443,43 @@ def development_audit(dev, weave, forms):
     return errors
 
 
+ACT_RHYTHM = {1: ["Concern"], 2: ["Issue", "Problem"], 3: ["Symptom", "Response"], 4: ["Solution"]}
+
+
+def act_rhythm_refs(weave, key):
+    """The storypoints the act rhythm (decision 025 step 44) proposes for one chapter's woven throughlines:
+    Akt I the concern, Akt II issue and problem, Akt III symptom and response, the Vortex the solution;
+    the benchmark joins in the throughline's first chapter of Akt II and Akt III, where progress is measured."""
+    c, n = weave["chapters"][key], int(key)
+    act = act_of(weave, n) or (1 if n == weave["b_prologue"] else None)
+    if act is None:
+        return []
+    refs = []
+    for side in ("A", "B"):
+        for t in c[side]:
+            parts = list(ACT_RHYTHM[act])
+            if act in (2, 3):
+                first = min(m for m in map(int, weave["chapters"]) if act_of(weave, m) == act and t in weave["chapters"][str(m)][side])
+                if n == first:
+                    parts.append("Benchmark")
+            refs += [[side, f"{TL[t]} {p}"] for p in parts]
+    return refs
+
+
+def fill_storypoints(dev, weave):
+    """Add the act-rhythm storypoints for every woven throughline a chapter's proposal does not reference yet;
+    returns the number added. A throughline already referenced in that chapter is left as it is."""
+    added = 0
+    for key, row in dev["chapters"].items():
+        refs = row["storypoints"]
+        missing = [(side, name) for side, name in act_rhythm_refs(weave, key)
+                   if not any(r[0] == side and r[1].startswith(" ".join(name.split()[:2])) for r in refs)]
+        for side, name in missing:
+            refs.append([side, name])
+            added += 1
+    return added
+
+
 def development_notes(dev, weave):
     """Woven throughlines a chapter's proposal never references — a gap to look at, not an error."""
     notes = []
@@ -763,6 +800,16 @@ def selftest():
             fails.append("no moment references an appearance")
         if "Kael" in kanon and not na["subtext"]["players"][0]["bio"].startswith("Kanon"):
             fails.append("Kael's canon row did not become his NCP bio")
+    dv, wv = load_development(), load_weave()
+    if dv and wv:
+        dv = json.loads(json.dumps(dv))
+        for row in dv["chapters"].values():
+            row["storypoints"] = row["storypoints"][:1]
+        fill_storypoints(dv, wv)
+        if development_notes(dv, wv) or fill_storypoints(dv, wv):
+            fails.append("the act-rhythm fill left a gap or is not idempotent")
+        if development_audit(dv, wv, load()):
+            fails.append(f"the act-rhythm fill wrote a reference the weave refuses: {development_audit(dv, wv, load())[:1]}")
     if len({(x["throughline"], x["sequence"]) for x in beats}) != len(beats):
         fails.append("NCP signposts collide")
     dev = load_development()
@@ -813,4 +860,10 @@ if __name__ == "__main__":
     arg = sys.argv[1:]
     if arg[:1] == ["selftest"]:
         sys.exit(selftest())
+    if arg[:1] == ["fill-storypoints"]:
+        dev, weave = load_development(), load_weave()
+        n = fill_storypoints(dev, weave)
+        (HOME / "development.json").write_text(json.dumps(dev, ensure_ascii=False, indent=2) + "\n")
+        print(f"added {n} act-rhythm storypoints (decision 025 step 44); run python3 scripts/storyform.py")
+        sys.exit(0)
     sys.exit(run(check_only="--check" in arg))
