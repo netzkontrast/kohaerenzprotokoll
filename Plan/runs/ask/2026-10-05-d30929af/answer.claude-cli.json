@@ -1,0 +1,232 @@
+{
+ "status": "answered",
+ "answerable": "partly",
+ "claims": [
+  {
+   "doc": "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+   "says": "Kael erwacht in Kapitel 1 nach einem Universal Reboot mit tiefer Desorientierung (Amnesie). Das Wegrationalisieren der durchsickernden Trauer ist dort Teil der Szene.",
+   "quotes": [
+    {
+     "text": "Kael erwacht nach einem \"Universal Reboot\" mit tiefer Desorientierung (Amnesie).",
+     "status": "placed",
+     "line": 64,
+     "why": null
+    },
+    {
+     "text": "Kael rationalisiert dies weg.",
+     "status": "placed",
+     "line": 64,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+   "says": "Kael ist als Mensch mit dissoziativer Identitätsstruktur (TSDP) gefasst, mindestens als Schnitt zwischen ANP (Host vor dem Trauma) und EP (Trauma-Träger-Schicht). In Akt I zeigt sich die Dissoziation als Amnesie.",
+   "quotes": [
+    {
+     "text": "Mindestschnitt: ANP (Host vor dem Trauma) und EP (Trauma-Träger-Schicht).",
+     "status": "placed",
+     "line": 87,
+     "why": null
+    },
+    {
+     "text": "in Akt I ist Dissoziation Amnesie-Terror, kein Crew-Menü.",
+     "status": "placed",
+     "line": 87,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kael-charakterarchitektur-und-konfliktdynamik-2",
+   "says": "Nach TSDP zeigt Kael Amnesie zwischen den Zuständen der Teile. Die ANPs fürchten die Intrusion der EPs und entwickeln Phobien vor Trauma-Erinnerungen. AEGIS' Management der „Cache Kohärenz“ kann Teile triggern und die Fragmentierung verstärken.",
+   "quotes": [
+    {
+     "text": "Kael zeigt typische Symptome schwerer struktureller Dissoziation: Amnesie zwischen den Zuständen der verschiedenen Teile (ANPs/EPs)",
+     "status": "placed",
+     "line": 36,
+     "why": null
+    },
+    {
+     "text": "ANPs fürchten die Intrusion von EPs (Überflutung durch traumatische Erinnerungen/Emotionen, Kontrollverlust) und entwickeln Phobien vor Trauma-Erinnerungen.",
+     "status": "placed",
+     "line": 35,
+     "why": null
+    },
+    {
+     "text": "können Teile triggern oder die Fragmentierung verstärken (Paradoxon X).",
+     "status": "placed",
+     "line": 38,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-philosophischer-bericht-md",
+   "says": "Phobien gelten als zentrales TSDP-Element, das die strukturelle Dissoziation aufrechterhält. Auf der Kosmos-Ebene steht AEGIS als System-ANP gegen Juna als System-Witness.",
+   "quotes": [
+    {
+     "text": "Ein zentrales Element der TSDP: Phobien halten die strukturelle Dissoziation aufrecht.",
+     "status": "placed",
+     "line": 519,
+     "why": null
+    },
+    {
+     "text": "AEGIS (System-ANP) ↔ Juna (System-Witness)",
+     "status": "placed",
+     "line": 641,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+   "says": "Die Charakter-Bibel beschreibt die Phobien als Klebstoff der Dissoziation. ANP, EP, Trigger, Bindung und Integration sind darin die gefürchteten Größen, und die Phobien aufzulösen hieße, das System zu verändern.",
+   "quotes": [
+    {
+     "text": "ANP fürchtet EP, EP fürchtet Trigger, beide fürchten Bindung, alle fürchten Integration.",
+     "status": "placed",
+     "line": 814,
+     "why": null
+    },
+    {
+     "text": "Diese Phobien *halten* die Dissoziation.",
+     "status": "placed",
+     "line": 814,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-konzeptionelle-themen-struktur",
+   "says": "Als Thema ist die Trigger-induzierte EP-Intrusion zusammen mit Phobien zwischen Anteilen geführt.",
+   "quotes": [
+    {
+     "text": "Trigger-induzierte EP-Intrusion & Phobien zwischen Anteilen",
+     "status": "placed",
+     "line": 152,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "duale-storyform-synthese-kohaerenz-protokoll",
+   "says": "Die Synthese nennt Amnesie-Barrieren ausdrücklich als etwas, das gehackt beziehungsweise abgebaut wird. Dieser Abbau steht der Unmöglichkeit der Juna-Verbindung gegenüber.",
+   "quotes": [
+    {
+     "text": "Die physische Unmöglichkeit der Juna-Verbindung vs. das Hacken von Amnesie-Barrieren.",
+     "status": "placed",
+     "line": 190,
+     "why": null
+    },
+    {
+     "text": "Akzeptanz des Mosaik-Herzens (Start) vs. Abbau der Alpha-Barrieren (Stop).",
+     "status": "placed",
+     "line": 192,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "says": "Im Kap-40/0-Text ist Kael das aus Komponente 734 herausgetrennte Cluster. Er ist die Hälfte, die fühlte, weil die andere das Fühlen auslagerte.",
+   "quotes": [
+    {
+     "text": "Kael war das Cluster, das aus Komponente 734 herausgetrennt wurde.",
+     "status": "placed",
+     "line": 63,
+     "why": null
+    },
+    {
+     "text": "Er war die Hälfte, die fühlte, weil die andere Hälfte das Fühlen nicht halten konnte und es deshalb auslagerte.",
+     "status": "placed",
+     "line": 63,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kael-charakterarchitektur-und-konfliktdynamik",
+   "says": "Juna/V steht in dieser Quelle für Hoffnung, Resonanz und eine von AEGIS bekämpfte Verbindung. Der Verlust dieser Verbindung gehört zu Kaels Kernängsten.",
+   "quotes": [
+    {
+     "text": "Juna/V repräsentiert Hoffnung, Resonanz und eine verbotene, von AEGIS bekämpfte Verbindung.",
+     "status": "placed",
+     "line": 38,
+     "why": null
+    },
+    {
+     "text": "dem Verlust der Verbindung zu Juna/V",
+     "status": "placed",
+     "line": 35,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "says": "Als Dividende der inneren Auflösung ist festgehalten, dass Liebe bleibt und sich Junas Verbindungs-Modus etabliert.",
+   "quotes": [
+    {
+     "text": "Liebe bleibt, Junas Verbindungs-Modus etabliert sich",
+     "status": "placed",
+     "line": 59,
+     "why": null
+    }
+   ]
+  }
+ ],
+ "unsupported": [],
+ "differ": [
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md vs. kael-charakterarchitektur-und-konfliktdynamik-2: Der Struktur-Kanon bindet die Amnesie an Akt I und lässt die volle Alter-Polyphonie erst ab Akt II wirken. Die Charakterarchitektur beschreibt die Amnesie zwischen den Zuständen der Teile als durchgehendes Symptom, ohne Aktbindung."
+ ],
+ "differ_dropped": [],
+ "gaps": [
+  "Was Kael konkret vergisst (Inhalt des Traumas, Herkunft, Verbindung zu Juna), steht im Paket nur als Amnesie im Allgemeinen. Die Kap-40-Passage deutet eine Auslagerung des Fühlens an, ohne den Gedächtnisinhalt zu benennen.",
+  "Welche Amnesie-Barrieren ihn halten, ist im Paket nur namentlich belegt („Amnesie-Barrieren“, „Alpha-Barrieren“). Ihre Bauart und Funktionsweise, und ob beide Begriffe dasselbe meinen, zeigt das Paket nicht.",
+  "Eine konkrete Liste von Kaels Phobien (welcher Anteil fürchtet was) ist nicht im Paket. Die Charakter-Bibel gibt nur die Struktur ANP/EP/Trigger/Bindung/Integration an.",
+  "Was die Fragmentierung auslöst, ist nur teilweise belegt: AEGIS' Management der „Cache Kohärenz“ und Trigger-induzierte EP-Intrusion. Der konkrete Auslöser in der Handlung ist nicht im Paket. Die Rolle des Big Rip als Fragmentierung (Outline 2026-05-18) habe ich nicht als Auslöser gewertet.",
+  "Junas eigene Haltung zu Kaels Amnesie, Phobien oder Fragmentierung ist nicht im Paket. Belegt sind nur ihre Rolle (System-Witness, Hoffnung/Resonanz, Verbindungs-Modus als Dividende) und die Spannung zwischen der Unmöglichkeit der Verbindung und dem Hacken der Barrieren.",
+  "Zu Kaels Herkunft (C16) liegen im Paket zwei Erzählweisen vor. Ich habe sie hier nicht gegeneinander gewichtet."
+ ],
+ "next": [
+  {
+   "doc": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+   "why": "Abschnitt 5.2 „Kael als Host-ANP“ und die Phobien-Passage (L814) sind gefunden, aber im Paket nur als Überschrift beziehungsweise Einzelzeile enthalten."
+  },
+  {
+   "doc": "kohaerenz-protokoll-philosophischer-bericht-md",
+   "why": "Ab L519 folgt vermutlich die Ausführung der Phobien als Vermeidungsstrategien; im Paket steht nur die Eröffnungszeile."
+  },
+  {
+   "doc": "duale-storyform-synthese-kohaerenz-protokoll",
+   "why": "Der Kontext um L190 und L192 könnte klären, was mit Amnesie- und Alpha-Barrieren gemeint ist."
+  }
+ ],
+ "need": [
+  {
+   "doc": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+   "lines": [
+    313,
+    345
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-philosophischer-bericht-md",
+   "lines": [
+    519,
+    545
+   ]
+  },
+  {
+   "term": "Alpha-Barrieren"
+  }
+ ],
+ "counts": {
+  "placed": 19,
+  "unresolved": 0,
+  "outside-pack": 0,
+  "outside-window": 0
+ }
+}
