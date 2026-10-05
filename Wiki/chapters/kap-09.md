@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -56,6 +56,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „(vielleicht Cerberus, fokussiert auf 'Sicherheit')“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L133]
 - Story: „wenn Kael eine zaghafte Verbindung zu einer externen Anomalie (Vorläufer von Juna/V) herstellt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L133]
 - Discussion: „Kaels Heilungsprozess wird vom System aktiv bekämpft“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L134]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Glimpse of Potential`, one entry shared with Kap 09–10
+
+Title: „Glimpse of Potential“ ^[ai-assisted-narrative-coherence.md:L1386] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.7 - Kairos-Potentialis (KW4)“ ^[ai-assisted-narrative-coherence.md:L1390], POV „Kael (Host)“ ^[ai-assisted-narrative-coherence.md:L1391]
+
+- Story (goal): the scene outline plans „To escape a containment protocol initiated by Cerberus in KW3.“ ^[ai-assisted-narrative-coherence.md:L1392]
+- Story (conflict): the scene outline plans „a place of chaotic, untamed growth and emergent possibility“ ^[ai-assisted-narrative-coherence.md:L1393]
+- Turn: `Outcome & Turn` has „Kael now has tangible proof of an alternative to“ ^[ai-assisted-narrative-coherence.md:L1402]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Longing for reconnection
 
