@@ -203,3 +203,9 @@ Agrees with the author's decision (KW1 only, 2026-09-24). Nothing to change.
 **KW1, as decided — `The Construct City`, in English, the same identity the author later confirmed.**
 „KW1: Logos-Prime (The Construct City)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L968]
 `Konstrukt-Stadt` stands 0 times and `Construct City` 5, always naming KW1 alone (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify.txt`, `Sources/terms/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md`). Agrees with the author's decision (KW1 only, 2026-09-24). Nothing to change.
+
+## 2026-10-05 — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept
+
+**Konstrukt-Stadt as KW1 only — a world, not a place.**
+Section 1 is headed „Konstrukt-Stadt (Guardian: LogOS)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L19], the first of „vier Kern-Welten (KW1-4)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17]. The concept names no place inside it.
+The world side, in the record's terms; the conflict stays open.
