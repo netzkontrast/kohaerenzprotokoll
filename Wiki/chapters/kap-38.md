@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - Plot: „Unabhängig von Kaels und AEGIS' Schicksal bleibt die Moonshine-Signatur als Phänomen bestehen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406], „ein Echo der tiefen Symmetrien von M.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406]
 - On J: „Wenn J eine separate Entität ist, könnte ihr Schicksal oder ihre fortgesetzte Existenz angedeutet werden, verbunden durch die Signatur.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406] The document names her only as `J` (J111), never Juna.
+
+## Reading — `outline`, 2025-07-30, the outline — Neue Entscheidungen: Die Bürde der Freiheit / Die transzendierte Realität / Teilen des Segens
+
+Title: „Neue Entscheidungen: Die Bürde der Freiheit / Die transzendierte Realität / Teilen des Segens“ ^[outline.md:L257] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Kael (Wahl des Weges, Verantwortung für die Zukunft)“ ^[outline.md:L260]; journey stage under `Reisestufe`: „Rückkehr mit dem Elixier (im generellen Kontext der Heldenreise)“ ^[outline.md:L264]
+
+- Story: the outline plans, under `Plot`, „Kael hat einen Weg gefunden, in der neuen Realität als stabiles, multiples System zu leben“ ^[outline.md:L259]; „kann es potenziell an andere weitergeben“ ^[outline.md:L259]
+- Question: under `Thematische Kernfrage`, „Wie gestaltet man die Zukunft, wenn alle Optionen offenstehen?“ ^[outline.md:L261]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
