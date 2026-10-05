@@ -92,6 +92,7 @@ from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
@@ -1024,6 +1025,9 @@ def agent_index(data: dict) -> list[dict]:
                "address": f"#/process/decisions/{d['id']}", "status": d["status"]} for d in data["decisions"]]
     items += [{"kind": "draft", "id": m["f"], "title": m["t"], "path": m["f"], "address": "#/manuscript/chapters"}
               for m in data["manuscript"]]
+    items += [{"kind": "finding", "id": f["s"], "title": f["t"], "path": f["f"],
+               "address": "#/manuscript/findings/" + quote(f["f"], safe="")}
+              for f in data["novel"]["findings"]]
     items += [{"kind": "session", "id": x["id"], "title": x["title"], "path": "NOW.md", "address": f"#/now/session/{x['id']}",
                "status": x["status"]} for x in data["sessions"]["sessions"]]
     return items
@@ -1045,7 +1049,7 @@ container without the author's decision.
 - [sessions.json](agents/sessions.json): the next sessions, derived from NOW.md § Half-done in its order — each
   with its next step, whether it waits on the author, the files to open first, and a self-contained prompt.
   {n_ready} ready, {n_gated} waiting on the author.
-- [index.json](agents/index.json): {n_items} items (pages, conflicts, questions, records, decisions, drafts,
+- [index.json](agents/index.json): {n_items} items (pages, conflicts, questions, records, decisions, drafts, findings,
   sessions), each with its repository path and its address in this app.
 - [state.json](agents/state.json): every measurement `scripts/state.py` made for this snapshot, with how it was measured.
 - [data.json](agents/data.json): everything the app renders, as one document.
@@ -1476,9 +1480,15 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
         if not (served.get("free") or {}).get("blocks") or any(not x.get("blocks") for x in served.get("sessions", [])):
             problems.append("agents/sessions.json: a session or the free prompt has no blocks — agents get less than the editor")
     if (out / "agents" / "index.json").exists():
-        for it in json.loads((out / "agents" / "index.json").read_text(encoding="utf-8"))["items"]:
+        items = json.loads((out / "agents" / "index.json").read_text(encoding="utf-8"))["items"]
+        for it in items:
             if not (ROOT / it["path"]).exists():
                 problems.append(f"agents/index.json: {it['kind']} {it['id']} names {it['path']}, which does not exist")
+        findings = {it["path"]: it["address"] for it in items if it["kind"] == "finding"}
+        for finding in data["novel"]["findings"]:
+            address = "#/manuscript/findings/" + quote(finding["f"], safe="")
+            if findings.get(finding["f"]) != address:
+                problems.append(f"agents/index.json: finding {finding['f']} missing or misaddressed — agents get less than the app")
     script_problems, note = check_script(data)
     route_problems, route_note = check_routes(data) if not script_problems else ([], "addresses not checked: the syntax failed")
     board_problems, board_note = check_board(data) if not script_problems else ([], "board not compared: the syntax failed")
@@ -1543,6 +1553,12 @@ def selftest() -> tuple[list[str], list[str]]:
         (out / "agents" / "sessions.json").unlink()
         if not any("agents/sessions.json: not written" in p for p in check(out, data)[0]):
             failures.append("the agents' sessions.json missing: not reported")
+        index_path = out / "agents" / "index.json"
+        indexed = json.loads(index_path.read_text(encoding="utf-8"))
+        indexed["items"] = [it for it in indexed["items"] if it["kind"] != "finding"]
+        index_path.write_text(json.dumps(indexed), encoding="utf-8")
+        if data["novel"]["findings"] and not any("missing or misaddressed" in p for p in check(out, data)[0]):
+            failures.append("findings absent from the agent index: not reported")
         broken = json.loads(json.dumps(data))
         broken["pages"].pop()
         if not any("wiki.pages" in p for p in check_data(broken)):
@@ -1604,7 +1620,7 @@ def main(argv: list[str]) -> int:
         for u in unrun:
             print(f"  not run  {u}")
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
-              "(clean build, 6 markup, 4 data, 2 agent files, 1 syntax, 2 addresses, 1 board drift, 2 editor)")
+              "(clean build, 6 markup, 4 data, 3 agent files, 1 syntax, 2 addresses, 1 board drift, 2 editor)")
         return 1 if failures else 0
     data = build(OUT, checks="--no-checks" not in argv)
     project = OUT / "canvas" / "project"
