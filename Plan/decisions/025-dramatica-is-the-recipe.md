@@ -260,6 +260,15 @@ with the consequences of each option laid out.
     carries A-IC symptom and response like the rest of Akt III, not the concern Past. B's forewarnings in Kap 16 and 22,
     its consequence in Kap 39 (AEGIS becomes plural), its dividends in Kap 31 (AEGIS grasps the pattern), its
     requirements only in Kap 0 and 28, the first and the last sweep.
+47. **The treatment's Akt I, by the author's answers to the developmental-editor and scene-architecture reviews
+    (2026-10-05).** The Dramatica labels leave the event sentences: each paragraph of the treatment tells events only,
+    and its storypoints stand on a line of their own. Juna in Kap 4 says aloud, for the first time, that she wants a
+    place of her own; Kael hears it and does not answer; in Kap 11 she gives that place up for everyone. In Kap 5 the
+    colleague's report pulls the Sektor 04 maintenance window forward, so the deadline of Kap 2 presses again. Kap 2, 3
+    and 7 each carry a small choice of Kael's with a price (the wording of each choice is the session's proposal). Kap
+    18 is Kael's first active choice: he goes down into the archive on his own decision. **Q7: Kael is the cluster
+    cut out of Komponente 734** (`Wiki/questions/q7-what-734-names.md`); AEGIS and Kael share one origin. What the
+    number labels in Kael's daily world stays open.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
