@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -84,6 +84,11 @@ Position: „Teil I: Die Ästhetik des Unerklärlichen (Kapitel 1–13)“ ^[rom
 - Style: „Die DKT-Implementierung erfordert hier eine reine K1-Stilistik: Parataktische Sätze, keine Emotionen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55]
 
 No knuckles: this document never writes `Knöchel` (0 matches whole document, `05-verify.txt`); it opens on a mirror-lag glitch, not a wound. (C10)
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — a written fragment, `Instrumente der Ordnung`
+
+- The reconstruction lists Kap 1 as written: „Eine detailliert ausformulierte Szene, die Kaels desorientiertes Erwachen in seinem hyper-sterilen Apartment schildert“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L118], with „ein formalisierter Dialog mit einer Wandprojektion von Juna“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L118] that is corrupted by Kael's rising loss and longing.
+- The fragment inventory: Kael waking in Logos-Prime, the sterile transit corridor, „den korrumpierten Systemdialog mit der Projektion von Juna“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L192].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael wakes in Logos-Prime, the bloody knuckles, and the heat and ozone that erase them
 
