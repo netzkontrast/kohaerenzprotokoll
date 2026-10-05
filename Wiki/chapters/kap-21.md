@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -86,6 +86,14 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Eine Flucht, die schiefgeht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L248]; „ein Cache-Lag von 0.7 Sekunden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L252]
 - Encoding A: „RS · SP3 (Obtaining) · Falsehood-vs-Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L254]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Cache Coherence Failure
+
+Title: „The Cache Coherence Failure“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L613]
+Position: Akt II; POV: „POV: Verteiltes Bewusstsein.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L621]
+
+- Story: the outline plans „Lex trifft in einer Notsituation eine logisch makellose Entscheidung.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L619]
+- Concepts: „Zeitverzögerung, Cache-Kohärenz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L617]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
