@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Der präventive Gegenschlag“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L357]
 - Story: „Bevor er handeln kann, macht AEGIS einen präventiven Schritt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] · „ein Guardian wird eingesetzt, um Kael abzufangen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358]
 - Story: „Kael erkennt, dass AEGIS nicht nur reagiert hat; es hat seine Absicht vorhergesagt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Behind the curtain
+
+Title: „Der Blick hinter den Vorhang“ ^[romanstruktur-und-philosophische-einleitung.md:L212]
+Position: Teil II, „Meta-Integration“ ^[romanstruktur-und-philosophische-einleitung.md:L212]
+
+- Story: „Das Finale von Teil II.“ ^[romanstruktur-und-philosophische-einleitung.md:L214]
+- Story: „Und AEGIS ist nur ein Wärter, nicht Gott.“ ^[romanstruktur-und-philosophische-einleitung.md:L216]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
