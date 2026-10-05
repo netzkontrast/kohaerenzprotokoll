@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -147,6 +147,14 @@ Position: Akt I; POV: „POV: Kael (mit Einwürfen von Lex und Selene).“ ^[koh
 - Story: the outline plans „begreift das System als potenzielles Mosaik“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L317]
 - Story: the outline plans „Funktionale Multiplizität erfordert parakonsistente Logik“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L317]
 - Concepts: „Funktionale Multiplizität, Mosaik-Herz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L315]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Nyx’ Erwachen
+
+Title: „Nyx’ Erwachen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L146] — „Akt I: Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L59]
+
+- Story: the dual-storyform outline plans „Der erste gewaltsame Ausbruch eines Trauma-Alters“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L148]
+- Storyforms: `Storyform B` (`OS: Psychology/Becoming`): „Das System sieht sich mit einer unvorhersehbaren Aggression konfrontiert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L150]; `Storyform A` (`OS: Physics/Doing`): „Der Kampf gegen die Lösch-Sweeps wird physisch“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L151]
+- Scene and pacing: `Pacing`: „Actionreich, hektisch“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L152]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
