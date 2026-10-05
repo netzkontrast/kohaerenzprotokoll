@@ -12,7 +12,7 @@
   "story_limit": "optionlock",
   "problem_solving_style": "holistic",
   "main_character_resolve": "change",
-  "main_character_growth": "start",
+  "main_character_growth": "stop",
   "main_character_approach": "be_er",
   "influence_character_resolve": "steadfast"
  },

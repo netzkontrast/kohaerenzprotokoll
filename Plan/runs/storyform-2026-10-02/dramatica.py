@@ -231,6 +231,23 @@ def selftest():
            "dynamics": {"main_character_resolve": "change"}}
     if not any("R5" in m for m in check(bad)[0]):
         fails.append("check() accepted Avoid under Memory")
+    # derive() against the thread's worked example: OS Universe / Past / Fate / Knowledge
+    base = {"os_domain": "Universe", "os_concern": "Past", "os_issue": "Fate", "os_problem": "Knowledge",
+            "outcome": "success"}
+    for r, ap, g, want in (("change", "do_er", "stop", ("Physics", "Instinct", "State of Being")),
+                           ("change", "be_er", "start", ("Psychology", "State of Being", "Instinct")),
+                           ("steadfast", "do_er", "stop", ("Physics", "Interpretation", "Circumstances")),
+                           ("steadfast", "be_er", "start", ("Psychology", "Situation", "Senses"))):
+        out, _ = derive(dict(base, resolve=r, approach=ap, growth=g))
+        got = (out["classes"]["MC"], out["MC"]["issue"], out["IC"]["issue"])
+        if got != want:
+            fails.append(f"derive {r}/{ap}: {got}, the thread has {want}")
+    for oc, want in (("success", "Inertia"), ("failure", "Knowledge")):
+        out, _ = derive(dict(base, resolve="change", approach="do_er", growth="stop", outcome=oc))
+        if out["RS"]["problem"] != want:
+            fails.append(f"derive RS problem ({oc}): {out['RS']['problem']}, the thread has {want}")
+    if not derive(dict(base, resolve="change", approach="do_er", growth="start"))[1]:
+        fails.append("derive accepted start + do_er with OS Universe (D1)")
     for f in fails:
         print("FAIL", f)
     print("held" if not fails else f"FAILED ({len(fails)})")
@@ -307,6 +324,77 @@ def check(spec):
     return errors, notes
 
 
+# --- what the engine derives from the twelve answers -------------------------------------------
+# Reverse-engineered rules, NOT official (bobRaskoph, discuss.dramatica.com/t/499, 2016); see
+# engine-rules.md. D1 is the one bit that halves 2^16 to the official 32 768 storyforms.
+#   D1  Stop+Do-er or Start+Be-er -> OS in {Universe, Physics}; otherwise OS in {Mind, Psychology}
+#   D2  Do-er -> MC in the external class of the MC/IC pair (Universe, Physics); Be-er -> internal
+#   D3  Change: MC problem = OS problem; MC issue/concern = the variation/type above it in the MC
+#       class; IC issue/concern = above it in the IC class
+#   D4  Steadfast: MC focus/direction pair = the OS pair; MC issue/concern above it in the MC class,
+#       MC problem = the element of the other pair in the same row as the OS problem
+#   D3/D4 IC issue/concern = the variation/type above the MC problem in the IC class (both resolves;
+#       checked against all four worked cases of the thread in selftest)
+#   D5  RS problem: Outcome Failure -> the OS problem; Success -> in the RS class, the quad holding the
+#       OS focus/direction pair, the element of the other pair in the same row as the OS problem
+#   D6  RS concern = the type in the OS concern's quad position, in the RS class
+# Not derived here (unknown): IC problem, RS issue when D5 leaves the D6 quad, focus vs direction
+# order, plot story points, and every signpost.
+EXTERNAL = {"Universe", "Physics"}
+POS = {0: "TL", 1: "TR", 2: "BL", 3: "BR"}
+
+
+def _home(cls, element):
+    for t, _, vs in TABLE[cls]:
+        for v, q in vs:
+            if element in q:
+                return t, v, q
+    raise KeyError(element)
+
+
+def derive(answers):
+    """Derive what the rules D1-D6 fix from the twelve answers; return (values, violations)."""
+    a, out, bad = answers, {}, []
+    os_cls, grow, appr = a["os_domain"], a["growth"], a["approach"]
+    want = {"Universe", "Physics"} if (grow, appr) in (("stop", "do_er"), ("start", "be_er")) else {"Mind", "Psychology"}
+    if os_cls not in want:
+        bad.append(f"D1 growth {grow} + approach {appr} needs OS in {sorted(want)}, not {os_cls}")
+    pair = {c: d for x, y in CLASS_PAIRS for c, d in ((x, y), (y, x))}
+    rs_cls = pair[os_cls]
+    mi = [c for c in TABLE if c not in (os_cls, rs_cls)]
+    mc_cls = next(c for c in mi if (c in EXTERNAL) == (appr == "do_er"))
+    ic_cls = pair[mc_cls]
+    out["classes"] = {"MC": mc_cls, "IC": ic_cls, "OS": os_cls, "RS": rs_cls}
+    ot, ov, oq = _home(os_cls, a["os_problem"])
+    if ot != a["os_concern"]:
+        bad.append(f"OS problem {a['os_problem']} is not under OS concern {a['os_concern']}")
+    osol = pair_of(a["os_problem"], oq)
+    ofd = [x for x in oq if x not in (a["os_problem"], osol)]
+    row = oq.index(a["os_problem"]) // 2
+    out["OS"] = {"concern": ot, "issue": a["os_issue"], "problem": a["os_problem"], "solution": osol,
+                 "focus/direction": ofd}
+    if a["resolve"] == "change":
+        t, v, _ = _home(mc_cls, a["os_problem"]); out["MC"] = {"concern": t, "issue": v, "problem": a["os_problem"],
+                                                            "solution": osol}
+        t, v, _ = _home(ic_cls, a["os_problem"]); out["IC"] = {"concern": t, "issue": v}
+    else:
+        t, v, q = _home(mc_cls, ofd[0])
+        rest = [x for x in q if x not in ofd]
+        p = next(x for x in rest if q.index(x) // 2 == row)
+        out["MC"] = {"concern": t, "issue": v, "problem": p, "solution": pair_of(p, q), "focus/direction": ofd}
+        t, v, _ = _home(ic_cls, p); out["IC"] = {"concern": t, "issue": v}
+    rs_concern = type_quad(rs_cls)[type_quad(os_cls).index(ot)]
+    if a["outcome"] == "failure":
+        t, v, q = _home(rs_cls, a["os_problem"]); p = a["os_problem"]
+    else:
+        t, v, q = _home(rs_cls, ofd[0])
+        p = next(x for x in q if x not in ofd and q.index(x) // 2 == row)
+    out["RS"] = {"concern(D6)": rs_concern, "problem quad (D5)": f"{t}/{v}", "problem": p, "solution": pair_of(p, q)}
+    if t != rs_concern:
+        bad.append(f"D5/D6 disagree: RS problem {p} sits under {t}, the RS concern by position is {rs_concern}")
+    return out, bad
+
+
 def main(argv):
     if not argv or argv[0] == "selftest":
         return 0 if selftest() else 1
@@ -319,6 +407,12 @@ def main(argv):
             print("note ", n)
         print("ok" if not errors else f"{len(errors)} error(s)")
         return 1 if errors else 0
+    if argv[0] == "derive":
+        out, bad = derive(json.load(open(argv[1])))
+        print(json.dumps(out, ensure_ascii=False, indent=1))
+        for b in bad:
+            print("NOTE", b)
+        return 0
     if argv[0] == "under":
         cls, alias, vs = under(argv[1])
         print(f"{argv[1]} ({alias}), class {cls}")

@@ -39,3 +39,20 @@ Forum-Thread „Story Engine mechanics + games", Beitrag von *bobRaskoph*, 2016 
 | OS Domain / Concern / Issue / Problem | Psychology / Conceptualizing / State of Being / Inertia | Physics / Obtaining / Approach / Feeling |
 
 A ist nach Regel 1 keine der 32 768 Storyforms; B ist es.
+
+## Nachbau: `dramatica.py derive` (2026-10-05)
+
+Die Regeln D1–D6 stehen im Code; der Selbsttest prüft sie an allen vier durchgerechneten Fällen des Threads und an beiden RS-Fällen. Der erste Lauf wich bei Steadfast ab und zeigte die richtige Regel: **die Gegenfigur (IC) sitzt über dem Problem-Element der Hauptfigur** — bei Change wie bei Steadfast.
+
+A nach der Entscheidung des Autors mit **Growth Stop** (D1 erfüllt). Aus den 12 Antworten abgeleitet, gegen unsere Handwahl:
+
+| | abgeleitet | von Hand gewählt |
+|---|---|---|
+| A-MC | Memory / Suspicion / Inertia → Change | gleich ✓ |
+| A-IC | Past / Prediction | gleich ✓ |
+| A-RS | Understanding / Instinct / Ability → Desire | Understanding ✓ / Senses / Perception → Actuality ✗ |
+| B-MC | Future / Openness / Disbelief → Faith (Focus/Direction Consideration/Reconsideration) | Progress / Fantasy / Test → Trust ✗ |
+| B-IC | Subconscious / Dream | Conscious / Doubt ✗ |
+| B-RS | Becoming / (Problem unter Obligation) Feeling → Logic | Being / Desire / Test → Trust ✗ |
+
+**Signposts:** auch mit D1–D6 nicht berechenbar — ihre Funktion ist nicht veröffentlicht, und öffentliche Analysen geben Signposts als Ereignisse, nicht mit den 12 Antworten (geprüft: Narrative First lädt seine Raster dynamisch; Glen Strathy und dramaticapedia beschreiben Ereignisse).
