@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -123,6 +123,14 @@ Position: Akt II; POV: „POV: Die Alters (im fließenden Wechsel).“ ^[kohaere
 - Story: the outline plans „Diese gezielte Parakonsistenz überfordert die binäre Logik von AEGIS“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L473]
 - Story: the outline plans „Kael schlüpft durch die engsten Kontrollgatter der Stadt“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L473]
 - Concepts: „Discursive Logic, Parakonsistenz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L471]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Das Halteproblem
+
+Title: „Das Halteproblem“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L191] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]
+
+- Story: the dual-storyform outline plans „Lex analysiert Kaels eigene Unfähigkeit, den Ausgang der Simulation vorherzusagen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L193]
+- Storyforms: `Storyform B` (`OS: Psychology/Being`): „Das System AEGIS gerät in eine Endlosschleife“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L195]; `Storyform A` (`MC: Mind/Memory`): „Fragmente der Kindheit vor der Simulation tauchen auf“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L196]
+- Scene and pacing: `Pacing`: „Stetig, intellektuell fordernd“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L197]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
