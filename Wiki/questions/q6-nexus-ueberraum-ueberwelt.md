@@ -125,3 +125,11 @@ pages. No document was read for this page.
 Part II is headed „Dominante Domäne: Die Überwelt (AEGIS) & Meta-Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L136] In Kap 28: „Kael verlässt die bekannten Kernwelten und dringt in die **Überwelt** vor, das administrative Herz von AEGIS.“ ^[romanstruktur-und-philosophische-einleitung.md:L234]
 
 In the record's terms the analysis relates the Überwelt to the Kernwelten (entered from them) and relates it to no other name; it decides nothing.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report
+
+**The research report writes the Nexus once and glosses it as the Überwelt; it names no Überraum.**
+
+Teil II of its plot: Kael „steigt in den Nexus (die Überwelt) auf“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L28].
+
+In the record's terms the report relates the Nexus to the Überwelt by a parenthesis and to no other name; it decides nothing.
