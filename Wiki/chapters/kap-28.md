@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -54,6 +54,14 @@ Position: Teil III; setting from the `Schauplatz` field: „Das Potentialmeer (I
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Moros (Kollaps-EP)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L285]
 - Story: the blueprint plans, in `Plot-Beats`, „Die unendliche Symmetrie der Monstergruppe droht Kaels menschlichen Verstand zu zerschmettern“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L287] and „löst aus Panik vor der totalen psychischen Vernichtung eine katatonische Lähmung aus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L287]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Geburt von Selene
+
+Title: „Die Geburt von Selene“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L353] — heading „Das Selbst erwacht“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L354]
+Position: Teil III; POV from `Perspektive & Stimme`: „Selene (Das integrierte Kern-Selbst) – ruhig, weise, umfassend“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L355]; place from `Ort`: „Das Zentrum des Nichts (Innerer Raum)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L357]
+
+- Story: the matrix plans „Sie sammelt die zersprengten Anteile ohne Zwang auf“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L359]
+- Question: „Wie sieht das Orchester aus, wenn es einen Dirigenten hat?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L358]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
