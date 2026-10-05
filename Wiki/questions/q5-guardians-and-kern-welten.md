@@ -286,3 +286,11 @@ Under [[aegis|AEGIS]]' own entry: „Die Guardians:" ^[charakter-kompilation-fue
 „Kernwelt 4 (Kairos/Sophia): A "Possibility Garden" of chaotic growth and emergence, representing the potential for creativity, healing, and integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1246]
 Elsewhere the same four pairs stand under the worlds' own names, „KW1: Logos-Prime" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L876] through „KW4: Kairos-Potentialis" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L879], each with its bearer in parentheses in the Concept Paper's table.
 `Erasure-Pol` stands 0 times (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`). On the pairing: yes, one Guardian per world for all four, Kairos and Sophia sharing the fourth, as in the Ultra-Plot, the Hard-SF-Outline, the Charakter-Kompilation and the Sensory Rulebook above. On the pole: nothing to place. On the world names: the Guardian-based ones — Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis — glossed in English (J120); `Konstrukt-Stadt`, `Resonanz-Landschaft` and `Grenzfeste` stand 0 times.
+
+## 2026-10-05 — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest
+
+**The manifest pairs each Core World with a Guardian, Kairos and Sophia sharing the fourth.**
+
+„The administration of the Construct City is delegated to the Guardian subsystem designated as LogOS.“ ^[aegis-persona-and-manifest-generation.md:L61] „The administration of the Resonance Landscape is delegated to the Guardian subsystem designated as Mnemosyne.“ ^[aegis-persona-and-manifest-generation.md:L77] „The administration of the Boundary Fortress is delegated to the Guardian subsystem designated as Cerberus.“ ^[aegis-persona-and-manifest-generation.md:L93] „The administration of the Garden of Possibilities is uniquely delegated to a dual-Guardian protocol: Kairos and Sophia.“ ^[aegis-persona-and-manifest-generation.md:L109] The matrix lists „KW4: Garden of Possibilities“ ^[aegis-persona-and-manifest-generation.md:L131] twice, once for each of the two. The manifest names no Erasure-Pol (`Erasure-Pol` ^[aegis-persona-and-manifest-generation.md:#0]).
+
+Stands as the manifest's own pairing, four worlds and five Guardians; recorded, not applied.
