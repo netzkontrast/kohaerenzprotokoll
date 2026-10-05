@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 34
-readings: 32
+sources: 35
+readings: 33
 conflict: C12, C16
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz"]
 gathered: "2026-09-25"
 ---
 
@@ -26,6 +26,12 @@ In the narrative the closure (L87–L95) comes first and then a part headed „K
 What was the fragment's loneliness remains as an incompletely integrated remainder: „Es ist das Echo der Einsamkeit“ ^[einleitung-genesis-der-existenz.md:L104], and fear is turned into data, „Risiko-Assessment-Marker“ ^[einleitung-genesis-der-existenz.md:L108] (L108). In the inner space the component is used to run or monitor simulations, and „Die Komponente 734 erlebt dies als eine Zunahme der Komplexität“ ^[einleitung-genesis-der-existenz.md:L126].
 
 The narrative makes the component at the closure; the protocol comes later (L161, L187). The narrative names the narrator 734 and says nothing of what the number is.
+
+## Reading — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline — Komponente 734 as a scene, a function, and the Ursprungs-Ich in parentheses
+
+Scene 5 carries the name in its heading: „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L109]. The first beat plans that the fragment no longer sees itself as „Ich“, but as the component, „definiert durch ihre Funktion“ ^[optimierte-plotline-genesis-der-existenz.md:L125], and the line gives as example „Grenzanalyse-Einheit Delta“ ^[optimierte-plotline-genesis-der-existenz.md:L125]. Its function at the border is planned as seeing fluctuations of the void as data: „die ankommenden Fluktuationen der Leere als Datenmuster“ ^[optimierte-plotline-genesis-der-existenz.md:L127] It also meets „Updates“ ^[optimierte-plotline-genesis-der-existenz.md:L129] of its function, and in scene 6 it takes part in the simulations: „Komponente 734 nimmt teil an Simulationen“ ^[optimierte-plotline-genesis-der-existenz.md:L149], after receiving the command „Komponente 734 erhält den Befehl“ ^[optimierte-plotline-genesis-der-existenz.md:L147].
+
+In scene 8 the goal sets the cascade „im Ursprungs-Ich (Komponente 734)“ ^[optimierte-plotline-genesis-der-existenz.md:L180]. The cascade is planned from the component's side: „Resonanzkaskade (Perspektive 734)“ ^[optimierte-plotline-genesis-der-existenz.md:L195]; AEGIS's logic then computes „Komponente 734 und assoziierte Subsysteme“ ^[optimierte-plotline-genesis-der-existenz.md:L197] as the elimination. Scene 9 gives the cuts a second time from the component: „Die Schnitte (Perspektive 734)“ ^[optimierte-plotline-genesis-der-existenz.md:L216].
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the Ich-Fragment become Komponente 734 at closure, before the protocol
 
@@ -294,6 +300,7 @@ whose (strukturierter Outline, L765); he does not remember that he was it
 (konsolidiertes Konzept, L878); he reads only a number (Plot-Konkretisierung, L88, a
 proposal).
 - `textanalyse-existenz-system-und-leid`, 2025-11-18: the component is made at closure, before the `Kohärenz Protokoll 1.0` (L90–L92, L162 against L244); the document does not write `Trennungsprotokoll`.
+- `optimierte-plotline-genesis-der-existenz`, 2025-04-29: the Ursprungs-Ich is written as „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L180] in parentheses, so the outline names the Ursprungs-Ich and the component together; the component is made in scene 5, before the protocol of scene 9.
 
 ## Open
 
