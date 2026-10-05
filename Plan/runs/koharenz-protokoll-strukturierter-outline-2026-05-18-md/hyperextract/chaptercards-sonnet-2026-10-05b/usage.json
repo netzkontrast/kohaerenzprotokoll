@@ -1,0 +1,221 @@
+{
+  "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+  "calls": 40,
+  "failed_calls": 0,
+  "seconds": 386.2,
+  "input_tokens": 180581,
+  "output_tokens": 43407,
+  "cost_usd": 0.9442,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1905,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1871,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1681,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 2041,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1710,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1885,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1551,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1978,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1903,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1858,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1777,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1953,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 2001,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1997,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1882,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 2037,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1988,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1801,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1980,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 2008,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1983,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1965,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1820,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1967,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 1808,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 1862,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1991,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 1758,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 1921,
+      "ok": true
+    },
+    {
+      "chunk": 29,
+      "characters": 2034,
+      "ok": true
+    },
+    {
+      "chunk": 30,
+      "characters": 1906,
+      "ok": true
+    },
+    {
+      "chunk": 31,
+      "characters": 1991,
+      "ok": true
+    },
+    {
+      "chunk": 32,
+      "characters": 152,
+      "ok": true
+    },
+    {
+      "chunk": 33,
+      "characters": 2037,
+      "ok": true
+    },
+    {
+      "chunk": 34,
+      "characters": 2031,
+      "ok": true
+    },
+    {
+      "chunk": 35,
+      "characters": 471,
+      "ok": true
+    },
+    {
+      "chunk": 36,
+      "characters": 1739,
+      "ok": true
+    },
+    {
+      "chunk": 37,
+      "characters": 2040,
+      "ok": true
+    },
+    {
+      "chunk": 38,
+      "characters": 1950,
+      "ok": true
+    },
+    {
+      "chunk": 39,
+      "characters": 430,
+      "ok": true
+    }
+  ]
+}

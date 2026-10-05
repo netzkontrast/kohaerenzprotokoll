@@ -30,6 +30,38 @@
    "category": "plot-outline"
   },
   {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 40,
+   "failed_calls": 0,
+   "chunks": 40,
+   "failed_chunks": 0,
+   "cost_usd": 0.9442,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+   "rows": 144,
+   "candidates": 130,
+   "refused": {
+    "ambiguous quote: choose its passage": 1,
+    "chapter is neither on the quoted line nor the heading above it": 12,
+    "surface absent from document": 1
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  },
+  {
    "run": "termcontrasts-haiku-2026-09-30",
    "contract": "TermContrasts",
    "model": "claude-cli/haiku",
