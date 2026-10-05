@@ -36,6 +36,7 @@ Every contract run by model and by the category of its source — written by `sc
 | `ChapterBeats` | plot-outline | haiku | 1 (0) | 0 | 32 | 0.0032 | 15 | 14 (93%) |
 | `ChapterBeats` | plot-outline | sonnet | 1 (0) | 0 | 21 | 0.0092 | 0 | — |
 | `ChapterBeats` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0498 | 0 | — |
+| `ChapterCards` | kernkonzept | sonnet | 1 (0) | 0 | 26 | 0.0381 | 0 | — |
 | `ChapterCards` | plot-outline | haiku | 1 (0) | 0 | 36 | 0.0033 | 15 | 13 (87%) |
 | `ChapterCards` | plot-outline | sonnet | 7 (0) | 1 | 563 | 0.0070 | 0 | — |
 | `ChapterCards` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0472 | 0 | — |
