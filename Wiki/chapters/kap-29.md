@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -74,6 +74,14 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Kael präsentiert sich AEGIS als lebender Gödel-Satz“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L294]; „Architekturanker brechen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L294]
 - Encoding A: „IC · SP4 (Present) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L294]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Living Paradox
+
+Title: „The Living Paradox“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L852]
+Position: Akt III; POV: „POV: Kael (geführt von Juna).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L860]
+
+- Story: the outline plans „Er präsentiert sich als lebender Gödel-Satz: Eine Entität, die zweifelsfrei innerhalb der AEGIS-Parameter existiert, deren Kohärenz aber von der Maschine nicht bewiesen oder berechnet werden kann.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L858]
+- Concepts: „Gödel-Gambit, Gödel-Eigenschaft“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L856]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
