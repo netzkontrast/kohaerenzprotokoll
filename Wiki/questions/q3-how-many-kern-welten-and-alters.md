@@ -415,3 +415,11 @@ Stands: both numbers appear, each stated apart; Q3 remains open.
 It reports the canon trio as defining a „13-Alter-System“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L747]. Constraint Block 3 excludes from the output „Computational Class (KW1=P / KW2=Parakonsistent / KW3=NP-Hard / KW4=Generativ)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L278], and „Somatic Rulebook (KW1=Atem / KW2=Bauch / KW3=Muskel / KW4=Hände)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L279], both as belonging to a later phase; four worlds appear only inside these excluded lists.
 
 Where it stands in the record's own terms: a reported 13 alters, and four worlds named only in lists the prompt keeps out of its output; this reading decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction
+
+**The reconstruction names four worlds and eleven primary alters, and writes `11+` in HC-01.**
+
+The four worlds are named in section 2.2, KW1 Logos-Prime to KW4 Kairos-Potentialis. The alters: „Die finale, kanonische Struktur umfasst“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L78] `11 primäre Systemanteile`; SC-06: „Host (Kael), Architekt, Wächter (Alex), Kind (Echo), Analytiker (Lex), Schatten (Nyx), Beobachter (Argus), Vermittler, Erinnerungssäule, Taktiker, Fragment (V).“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L168] HC-01: „Kael fungiert als unwissender Host eines TSDP-Systems mit 11+ Kern-Alters.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L143]
+
+Stands as four worlds and eleven primary alters beside an `11+` wording, in one document dated 2026-03-26.
