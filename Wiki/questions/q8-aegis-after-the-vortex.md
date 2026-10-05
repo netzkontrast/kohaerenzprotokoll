@@ -148,3 +148,11 @@ Where it stands in the record's own terms: open in the document itself, with a r
 Kap 37: „AEGIS ist stumm, melancholisch summend“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330] Kap 38: „Die Wache ist zur Wohnstatt geworden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L334]
 
 Stands: the outline's answer is a plan, not canon.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report
+
+**The Synthese-Report proposes that AEGIS does not delete itself and keeps administering a world it knows rests on a faulty axiom; it tends to Option 1, and Oblivion takes over the decision function.**
+
+§4.1, step 5 (the report's `Lösung zu C.1`): „AEGIS löscht sich nicht.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L85] and „Es verwaltet fortan eine Welt, von der es weiß, dass sie auf einem fehlerhaften Axiom ruht.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L85] The gaps part (§3.2): „Die Empfehlung des Kanons tendiert zu Option 1 (Algorithmische Melancholie als Dauerzustand)“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L69] Table, column 3: „oder legt sich selbst still (C.1)“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L53] On Oblivion (§4.4): „erwacht Oblivion und übernimmt die Entscheidungsfunktion im Innensystem“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L128]
+
+Stands: AEGIS persists, melancholic, and Oblivion takes over its decision function, as the report proposes it; the record's other answers are not weighed here.
