@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -119,6 +119,14 @@ Position: Akt II; POV: „POV: Integrierte, polyphone Stimme (Wir).“ ^[kohaere
 
 - Story: the outline plans „Unter dem vernichtenden Druck der Pixelierung verschmelzen die Fragmente.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L675]
 - Concepts: „Ko-Konstanz, Wir-Geflecht, Polyphonie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L673]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Verrat der Logik
+
+Title: „Verrat der Logik“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L248] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]
+
+- Story: the dual-storyform outline plans „Gaslighting auf systemischer Ebene“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L250]
+- Storyforms: `Storyform B` (`RS: Physics/Obtaining`): „AEGIS versucht, Juna als Datenpaket zu“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L252]; `Storyform A` (`RS: Psychology/Conceiving`): „Kael begreift, dass Juna radikal exterior ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L253]
+- Scene and pacing: `Pacing`: „Emotional schwer“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L254]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
