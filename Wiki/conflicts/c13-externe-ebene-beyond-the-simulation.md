@@ -94,3 +94,11 @@ Juna/V comes from an „External Level" ^[an-inquiry-into-the-unresolved-questio
 The sentence, which ends in reference 1 and so reports the plot document: „authentische Verbindung, nicht-quantifizierbare Emotionen und eine Verbindung zu einer postulierten“ ^[scifi-roman-mit-ki-schreiben.md:L184] „Externen Ebene“ ^[scifi-roman-mit-ki-schreiben.md:L184], which in the same sentence is placed beyond the logic of the simulation.
 
 In the record's terms the report stands with a level reported beyond the simulation's logic; it says nothing of whether the level is outside the simulation, and decides nothing.
+
+## 2026-10-05 — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis
+
+**The three-part analysis places the Externe Ebene beyond the [[aegis|AEGIS]] simulation, and hedges once.**
+
+In Kap 4: Juna stands for a reality „jenseits der AEGIS-Simulation, die für das Kael-System jedoch unerreichbar scheint.“ ^[romanstruktur-und-philosophische-einleitung.md:L61] In Kap 20 the analysis has Kael identify an unprovable truth, hedged: „vielleicht die Existenz der externen Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L182] In Kap 26 it says Kael sees the structure from outside, `von außen`, `oder zumindest von einer höheren administrativen Ebene`, and: „Er weiß nun definitiv: Es gibt ein Außen.“ ^[romanstruktur-und-philosophische-einleitung.md:L216]
+
+In the record's terms the analysis stands with a level beyond the simulation, in a retelling built on the concept papers it cites; it decides nothing.
