@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -59,6 +59,15 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — the last chapter in B logic before the pivot (CORE, §3.4)
 
 - Storyform accents: „Bis Kapitel 34 läuft die Erzählung in B-Logik (Action-Driver).“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L127]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Der dissonante Druck“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L316]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „B (AEGIS — Restaktivität)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L318]
+
+- Story: the outline places: „das Original-Trennungsprotokoll, eingefroren seit der Genesis-Krise, wird reaktiviert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L318]; „Nicht aus Boshaftigkeit — aus Verzweiflung.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L318]
+- Encoding A: „RS · SP4 (Understanding) · Falsehood · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L318]
+- The foreshadowing passage lists Kap 34 for „Refragmentierung (Kap 12, Kap 14, Kap 34)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
