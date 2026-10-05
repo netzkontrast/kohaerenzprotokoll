@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,14 @@ Position: Teil I, „Das Scheitern der Manager“ ^[romanstruktur-und-philosophi
 - Story: Kael falls back on Lex: „Dies ist der klassische Versuch der Psyche, das Trauma intellektuell zu bewältigen, ohne es zu fühlen“ ^[romanstruktur-und-philosophische-einleitung.md:L67]
 - Story: „Das Kapitel demonstriert das katastrophale Scheitern dieser Strategie.“ ^[romanstruktur-und-philosophische-einleitung.md:L69]
 - Table 1 (Teil I) gives Lex's development: „Scheitert an Emotion (Kap. 5)“ ^[romanstruktur-und-philosophische-einleitung.md:L125]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der See der Tränen
+
+Title: „Der See der Tränen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L91]
+Position: Teil I; setting from the `Schauplatz` field: „Mnemosyne-Archipel (KW2) – Eine traumgleiche, neblige Ruinenlandschaft“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L93]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Mnemosyne (Guardian), Oblivion (Freeze-EP), Lex“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L94]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael wird von verdrängten Traumata überflutet“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L96] and „gelingt Kael die Flucht“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L96]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
