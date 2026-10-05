@@ -438,6 +438,19 @@ the author wants them (*Questions for the author*).
   an AEGIS construct who gaslights Kael in a therapy session in Kap 8, scene 1.6 (L1369–L1376). Is Dr. Aris Thorne Lex, a
   construct of AEGIS, or not in the book?
 
+### Chapter execution — deletion targets and 06:10 (2026-10-06)
+
+**Which explanation should carry chapters 1/12/13, and what happens at 06:10 in chapter 2?**
+The decision-ready comparison is in
+`Plan/runs/writing/book/scene-architecture_loeschziele_2026-10-06.md` (PR #171).
+It compares linked entries whose personal consequence is proved in chapter 12,
+one personal entry understood from the opening, and a different opening stake.
+Recommendation: linked entries, with a formal assignment review at 06:10 and an
+immediate, attributable cost to Kael's flawless role. No alternative is selected.
+Q7 stays open: an operative link does not identify Kael with Komponente 734.
+After the choice, specify the chapter-12 proof, the confirmation step still
+available in chapter 13, and the fixed next deadline before updating NCP.
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*
