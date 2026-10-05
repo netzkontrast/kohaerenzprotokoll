@@ -350,3 +350,11 @@ Where it stands in the record's own terms: three beats are this document's CORE 
 Open point 1: „Genesis-Krise + Komponente 734 + Trennungsprotokoll als Triple-Layer-Twist“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382] marked „Zur Diskussion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382]
 
 Stands: a proposal in the outline's open points; it gives no beat count.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report
+
+**The Synthese-Report states three beats as consensus: Ur-Einheit, Trennungsprotokoll, Kael as Komponente 734.**
+
+„Die Genese des Systems folgt einer strikten Drei-Beat-Struktur“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L39] with „Beat 1: Ur-Einheit (Zustand atemporaler Mutual Information).“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L39] „Beat 2: Trennungsprotokoll (AEGIS missdeutet Qualia als Rauschen und leitet die Löschung ein).“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L39] and „Beat 3: Die Entstehung von Kael (Komponente 734) als isolierte Funktion“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L39]
+
+Stands: three beats, as the report states them in part 1; it names no fourth.
