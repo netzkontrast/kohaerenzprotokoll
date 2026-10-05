@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -119,6 +119,14 @@ Position: Akt II; POV: „POV: Interner Wechsel (Lex, Nyx).“ ^[kohaerenz-proto
 - Story: the outline plans „Nyx (Firefighter) will die neu gefundenen Schwachstellen nutzen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L445]
 - Story: the outline plans „während Lex (Manager) auf absolute Zurückhaltung plädiert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L445]
 - Concepts: „Manager vs. Firefighter, Nyx“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L443]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Die Chaitin-Konstante
+
+Title: „Die Chaitin-Konstante“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L183] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]
+
+- Story: the dual-storyform outline plans „Entdeckung der irreduziblen Zufälligkeit im Quellcode“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L185]
+- Storyforms: `Storyform B` (`MC: Universe/Past`): „Die Vergangenheit wird als mathematische Notwendigkeit sichtbar“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L187]; `Storyform A` (`RS: Psychology/Being`): „Juna manifestiert sich als diese Zufälligkeit“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L188]
+- Scene and pacing: `Szenen-Keim`: „Ein Brunnen, aus dem keine Wasser, sondern glühende Binärzahlen sprudeln“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L189]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
