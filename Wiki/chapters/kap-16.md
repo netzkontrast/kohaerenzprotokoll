@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -81,6 +81,10 @@ Title: „Die Diktatur der Komplexität“ ^[roman-konzept-dualitaet-kohaerenz-s
 
 - Who: „Abrupt übernimmt Lex, der rationale Analytiker-ANP, das Bewusstsein“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L89]
 - Theory: „Er scheitert an "Ashby's Law of Requisite Variety"“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L89]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 5, the discursive ruse
+
+- A guiding question for Kap 16, a proposal: „Lex (in KW1) führt hochkomplexe, scheinbar sinnlose mathematische Berechnungen an einem Terminal durch.“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L84] while Nyx manipulates the sensors in KW3; AEGIS reads both as isolated noise, and together they form „einen asynchronen kryptografischen Schlüssel“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L84].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kiko, and the first layer of the origin trauma
 
