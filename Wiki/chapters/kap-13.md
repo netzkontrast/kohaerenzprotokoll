@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -69,6 +69,17 @@ A model's report that rates its own two storyforms (A 5.0, B 4.75) and cites a c
 
 - Among the passages that most support the K1-storyform: „Der „Dance in the Garden“ in Kapitel 13, bei dem Kael als Gärtner seine inneren Welten ordnet und mediiert, anstatt in der physischen Realität zu kämpfen.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L102]
 - MC Approach, Storyform A vs. B — this chapter named: „"Dance in the Garden" (Kap 13) vs. Die harte Aktivierung von Firewalls und Glitch-Reparaturen.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L193]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Ich bin ein System“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L206]
+Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „A (Kael — Reveal)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L208]
+
+- Story: the outline places: „Er nennt sie zum ersten Mal beim Namen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L208]; „Kael — jetzt zum ersten Mal bewusst als System“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L208]
+- Encoding A: „MC · SP2 (Memory) · Truth · Decision (bewusste Akzeptanz der Pluralität)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L208]
+- Change 2 ends the veil here: „Erst Kap 13 fällt der Vorhang“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L20].
+- The POV rules say: „Vor Kap 13 wird kein Alter beim Namen genannt“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L126].
+- The pacing section calls it: „Kap 13 = Zäsur, kein Cliffhanger“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L366].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
