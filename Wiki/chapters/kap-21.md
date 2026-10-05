@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael erhält Zugang (vielleicht durch eine Guardian-Interaktion, einen tiefen Riss oder das Finden eines Kernsystemprotokolls)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
 - Story: „'emotionale Volatilität', 'Netzwerkkonnektivitätsdichte'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
 - Story: „Kael erkennt, dass AEGIS aktiv versucht, menschenähnliche Züge zu minimieren, die es nicht kontrollieren oder verstehen kann.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Lex's Dilemma: The Limits of Pure Logic`
+
+Title: „Lex's Dilemma: The Limits of Pure Logic“ ^[ai-assisted-narrative-coherence.md:L1529] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the chapter has no scene fields in the outline; its prose places it after „The reclaimed memory is fragmented and paradoxical.“ ^[ai-assisted-narrative-coherence.md:L1531]
+
+- Story (beat): the scene outline plans „The reclaimed memory is fragmented and paradoxical.“ ^[ai-assisted-narrative-coherence.md:L1531]
+- Story (beat): the scene outline plans „The memory contains an emotional truth that defies his analytical framework.“ ^[ai-assisted-narrative-coherence.md:L1531]
+- Turn: the scene outline plans „This is a major turning point for his character and the internal system's dynamics.“ ^[ai-assisted-narrative-coherence.md:L1531]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Die Rückkopplung
 
