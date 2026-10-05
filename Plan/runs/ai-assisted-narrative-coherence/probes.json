@@ -1,0 +1,257 @@
+{
+  "document": "ai-assisted-narrative-coherence",
+  "drive_id": "12jtCMmBv8I86XSimRH-xuXTANqTQYgwAEpC5TcBVu3w",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 92,
+  "backslash_escapes": 484,
+  "typographic_marks": 276,
+  "ascii_quotes": 1235,
+  "inflection_families": {
+    "multi": [
+      "Multi",
+      "Multimodality",
+      "Multimodalität",
+      "Multiple",
+      "Multiplicity",
+      "Multiplizität",
+      "Multisensory"
+    ],
+    "archi": [
+      "Archipel",
+      "Archipelago",
+      "Architect",
+      "Architecture",
+      "Architectures",
+      "Architekturen"
+    ],
+    "integ": [
+      "Integrated",
+      "Integrates",
+      "Integration",
+      "Integrative",
+      "Integrator",
+      "Integrity"
+    ],
+    "trans": [
+      "Transcendence",
+      "Transcendent",
+      "Transformation",
+      "Transforms",
+      "Transit",
+      "Transitional"
+    ],
+    "defin": [
+      "Defined",
+      "Defines",
+      "Defining",
+      "Definition",
+      "Definitive"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent",
+      "Emergenz",
+      "Emerges",
+      "Emerging"
+    ],
+    "exter": [
+      "External",
+      "Externalized",
+      "Externalizing",
+      "Externally",
+      "Externe"
+    ],
+    "funct": [
+      "Function",
+      "Functional",
+      "Functionally",
+      "Functioning",
+      "Functions"
+    ],
+    "perfo": [
+      "Perform",
+      "Performative",
+      "Performativist",
+      "Performing",
+      "Performs"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentiality",
+      "Potentialmeer",
+      "Potentials"
+    ],
+    "diale": [
+      "Dialectic",
+      "Dialetheic",
+      "Dialetheical",
+      "Dialetheism"
+    ],
+    "engin": [
+      "Engine",
+      "Engineer",
+      "Engineered",
+      "Engineering"
+    ],
+    "forma": [
+      "Formal",
+      "Formalism",
+      "Formalize",
+      "Format"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmented",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "ident": [
+      "Identification",
+      "Identifying",
+      "Identity",
+      "Identität"
+    ],
+    "inter": [
+      "Interaction",
+      "Internal",
+      "Internally",
+      "Interpretation"
+    ],
+    "logic": [
+      "Logic",
+      "Logical",
+      "Logician",
+      "Logics"
+    ],
+    "manag": [
+      "Management",
+      "Manager",
+      "Manages",
+      "Managing"
+    ],
+    "narra": [
+      "Narration",
+      "Narrative",
+      "Narratives",
+      "Narrator"
+    ],
+    "opera": [
+      "Operates",
+      "Operational",
+      "Operationalizing",
+      "Operationally"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological",
+      "Psychologically",
+      "Psychology"
+    ],
+    "achie": [
+      "Achieve",
+      "Achieved",
+      "Achieves"
+    ],
+    "agent": [
+      "Agent",
+      "Agentic",
+      "Agents"
+    ],
+    "aggre": [
+      "Aggregates",
+      "Aggressive",
+      "Aggressor"
+    ],
+    "analy": [
+      "Analysis",
+      "Analyst",
+      "Analytical"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Call",
+      "Specifically"
+    ],
+    [
+      "Call",
+      "Thematically"
+    ],
+    [
+      "Call",
+      "Psychologically"
+    ],
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Deep",
+      "Deeper"
+    ],
+    [
+      "Deep",
+      "Deeply"
+    ],
+    [
+      "Deep",
+      "Deepens"
+    ],
+    [
+      "Deep",
+      "Deepening"
+    ],
+    [
+      "Each",
+      "Reaching"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Echo",
+      "Echoes"
+    ],
+    [
+      "Even",
+      "Events"
+    ],
+    [
+      "Here",
+      "Coherent"
+    ],
+    [
+      "Here",
+      "Inherent"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "High",
+      "Highlights"
+    ],
+    [
+      "Hold",
+      "Holds"
+    ],
+    [
+      "Kind",
+      "Kinds"
+    ],
+    [
+      "Laws",
+      "Flaws"
+    ]
+  ]
+}

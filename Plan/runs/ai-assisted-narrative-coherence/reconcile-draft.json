@@ -1,0 +1,550 @@
+{
+  "document": "ai-assisted-narrative-coherence",
+  "drive_id": "12jtCMmBv8I86XSimRH-xuXTANqTQYgwAEpC5TcBVu3w",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 376,
+    "decisions": 414,
+    "decided_by_lookup": 280,
+    "needs_judgement": 134
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        128,
+        137,
+        152,
+        205,
+        343,
+        387,
+        581,
+        1618,
+        1825
+      ],
+      "attribution": "",
+      "note": "a tragic antagonist, transformed rather than destroyed"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        1312,
+        1363,
+        1762
+      ],
+      "attribution": "",
+      "note": "Alex as protector in two scenes of Act I, and a row of the eleven-row table"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        208,
+        416,
+        1227,
+        1229,
+        1633
+      ],
+      "attribution": "",
+      "note": "AEGIS's state after the Gödel-Gambit"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        96,
+        242,
+        431,
+        435,
+        1101,
+        1749
+      ],
+      "attribution": "",
+      "note": "three alter tables of different lengths, and a stated count of eleven"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        1383,
+        1598,
+        1764,
+        1802
+      ],
+      "attribution": "",
+      "note": "Argus as the observer and the one who times the breach"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        874,
+        949,
+        1364,
+        1365
+      ],
+      "attribution": "",
+      "note": "KW3 and its Guardian"
+    },
+    {
+      "page": "did",
+      "lines": [
+        96,
+        244,
+        728,
+        847,
+        1215
+      ],
+      "attribution": "",
+      "note": "DID as the clinical name for Kael's condition"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        1175,
+        1702,
+        1773
+      ],
+      "attribution": "",
+      "note": "Emergenz durch Negation explained as AEGIS's method"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        1724,
+        1725,
+        1726,
+        1728
+      ],
+      "attribution": "",
+      "note": "Entropie as a column of the world table"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        601,
+        1732
+      ],
+      "attribution": "",
+      "note": "a level outside AEGIS's reality, linked to Juna/V"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        136,
+        391,
+        545,
+        555
+      ],
+      "attribution": "",
+      "note": "Genesis from the Void, and the Genesis Crisis"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        259,
+        321,
+        414,
+        1602,
+        1609,
+        1681,
+        1828
+      ],
+      "attribution": "",
+      "note": "a logical climax"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        477,
+        1727
+      ],
+      "attribution": "",
+      "note": "the name of KW3"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        793,
+        801,
+        873,
+        904,
+        1304
+      ],
+      "attribution": "",
+      "note": "Guardians as thematic probes"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        1542,
+        1549,
+        1567,
+        1759
+      ],
+      "attribution": "",
+      "note": "Isabelle as a sexualized emotional part that answers AEGIS's attack"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        547,
+        601,
+        614,
+        1083,
+        1089,
+        1190,
+        1293,
+        1830
+      ],
+      "attribution": "",
+      "note": "a transcendent entity, an echo, a hologram"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        563,
+        581,
+        910,
+        1079,
+        1089,
+        1126,
+        1143,
+        1667
+      ],
+      "attribution": "",
+      "note": "a verifier cog, a fragment of AEGIS, a gardener"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        483,
+        950,
+        1393
+      ],
+      "attribution": "",
+      "note": "KW4 as Kairos-Potentialis, and as Kairos/Sophia"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        467,
+        563,
+        950,
+        1720,
+        1725,
+        1831
+      ],
+      "attribution": "",
+      "note": "four simulated worlds made by AEGIS"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        247,
+        443,
+        1477,
+        1486,
+        1757
+      ],
+      "attribution": "",
+      "note": "Kiko as the child part, typed Freeze Response in one table and Freeze/Flight in another"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        1814
+      ],
+      "attribution": "",
+      "note": "a non-Western structure for Kael's integration"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        812,
+        847,
+        1725
+      ],
+      "attribution": "",
+      "note": "the name of KW1"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        441,
+        801,
+        835,
+        968,
+        1116,
+        1373,
+        1376,
+        1531
+      ],
+      "attribution": "",
+      "note": "Lex as the analyst ANP, and two incompatible placements of Dr. Aris Thorne"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        1516,
+        1523,
+        1758
+      ],
+      "attribution": "",
+      "note": "Lia as a child alter of ambivalent attachment"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        801,
+        847,
+        947,
+        1327
+      ],
+      "attribution": "",
+      "note": "KW1, and the Guardian of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        475,
+        873,
+        1347,
+        1437
+      ],
+      "attribution": "",
+      "note": "KW2 and its Guardian"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        481,
+        1728
+      ],
+      "attribution": "",
+      "note": "the name of KW4"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        265,
+        353,
+        605,
+        1832
+      ],
+      "attribution": "",
+      "note": "Kael's non-local link to Juna/V"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        1555,
+        1567,
+        1760
+      ],
+      "attribution": "",
+      "note": "Moros as the collapse part that emerges in Chapter 24"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        249,
+        1174,
+        1184,
+        1827
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's goal, in English with the German form three times"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        855
+      ],
+      "attribution": "",
+      "note": "the Negentropie-Fehlinterpretation named and explained"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        136,
+        229,
+        368,
+        533,
+        1833
+      ],
+      "attribution": "",
+      "note": "three English glosses of one German name"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        309,
+        442,
+        1484,
+        1596,
+        1756
+      ],
+      "attribution": "",
+      "note": "Nyx as the fight-response protector whose aggression serves the vulnerable parts"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        533,
+        541,
+        1665,
+        1738
+      ],
+      "attribution": "",
+      "note": "the primordial state"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        473,
+        1726
+      ],
+      "attribution": "",
+      "note": "the name of KW2"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        299,
+        444,
+        1484,
+        1763
+      ],
+      "attribution": "",
+      "note": "Rhys as the caregiver and mediator, an ANP"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        287,
+        463,
+        813,
+        1264,
+        1710
+      ],
+      "attribution": "",
+      "note": "rifts as intrusions, errors and a style instruction"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        445,
+        1415,
+        1570,
+        1755
+      ],
+      "attribution": "",
+      "note": "Selene as the integrator, and two spellings of her ISH title"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        950
+      ],
+      "attribution": "",
+      "note": "Sophia in a world's name"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        96,
+        244,
+        426,
+        695,
+        1184,
+        1749,
+        1835
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical model of Kael's psyche, stated in the parts as tertiary dissociation"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        463,
+        559,
+        898,
+        1732
+      ],
+      "attribution": "",
+      "note": "AEGIS's information-based control layer"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C13",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

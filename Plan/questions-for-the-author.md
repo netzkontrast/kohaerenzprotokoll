@@ -433,6 +433,11 @@ the author wants them (*Questions for the author*).
   physically (L477–L479). The later outlines keep Juna undescribed and Kael inside the simulation. Does the book ever leave
   the simulation, and does Kael meet Juna in body?
 
+- **Document 84, `ai-assisted-narrative-coherence`, the English compilation of 2025-10-15:** its three-act blueprint names
+  the protagonist Dr. Aris Thorne, the apparently normal part who goes by Lex (L835); its scene outline makes Dr. Aris Thorne
+  an AEGIS construct who gaslights Kael in a therapy session in Kap 8, scene 1.6 (L1369–L1376). Is Dr. Aris Thorne Lex, a
+  construct of AEGIS, or not in the book?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*

@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 82 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 82 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 83 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 83 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -536,7 +536,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kohärenz-Protokoll als algorithmische Grundlage für narrative Systeme.pdf](drive/kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md) | 2025-08-20 | 3,554 |  | Kohärenz 21 | Berkeley 3, NCP 5, Narrative Context Protocol 3, Storyform 3, Dramatica-Theorie 2 |
 | [Projekt Kohärenz-Protokoll: Narrative Dekonstruktion](drive/projekt-kohaerenz-protokoll-narrative-dekonstruktion.md) | 2025-10-06 | 3,072 |  | Risse 4, Kael 2, AEGIS 3 | Strukturalismus 3, Dekonstruktion 20, Katharsis 2, Protokoll 3, Fundament 3 |
 | [A Definitive Architectural Blueprint of the 'Kohärenz Protokoll' Narrative Universe](drive/a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md) | 2025-10-15 | 2,532 |  | Gödel-Gambit 3, Algorithmische Melancholie† 2, Genesis 2, Alters 6, Moonshine-Link 2, Nyx 3, Lex 3, Kern-Welten 5 | D2 2, Meta-Narrative 2, Introject 2, Prime 3, Co-consciousness 2 |
-| [AI-Assisted Narrative Coherence](drive/ai-assisted-narrative-coherence.md) | 2025-10-15 | 39,164 |  | Gödel-Gambit 15, Algorithmische Melancholie† 21, Isabelle 8, Rhys 25, Selene 25, Potentialmeer† 10, Argus 7, Externe Ebene† 4 | ARCHON 21, NCP 19, Action Systems 5, Archipelago 5, Thorne 7 |
+| [AI-Assisted Narrative Coherence](drive/ai-assisted-narrative-coherence.md) | 2025-10-15 | 39,164 | **read** | Gödel-Gambit 15, Algorithmische Melancholie† 21, Isabelle 8, Rhys 25, Selene 25, Potentialmeer† 10, Argus 7, Externe Ebene† 4 | ARCHON 21, NCP 19, Action Systems 5, Archipelago 5, Thorne 7 |
 | [ARCHON: AI Narrative Coherence Framework](drive/archon-ai-narrative-coherence-framework.md) | 2025-10-15 | 5,924 |  | DID 3, TSDP 5, AEGIS 2 | ARCHON 36, Novelcrafter 8, LLM 25, LLMs 19, NCP 16 |
 | [Beyond ChatGPT: 4 Mind-Bending Concepts for AI-Powered Storytelling](drive/beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md) | 2025-10-15 | 1,244 |  | Algorithmische Melancholie† 2, Risse† 3, AEGIS 4, Kael 2 | ARCHON 4, NCP 4, Kohärenz-Protokoll 4 |
 | [Blueprint for Narrative Coherence](drive/blueprint-for-narrative-coherence.md) | 2025-10-15 | 1,574 |  | Konstrukt-Stadt† 2, Kiko 2, Risse 2, Kael 7, AEGIS 2 | Analyst 3, Coherence Protocol 3, Constant 2, Protocol 3, Memory 2 |

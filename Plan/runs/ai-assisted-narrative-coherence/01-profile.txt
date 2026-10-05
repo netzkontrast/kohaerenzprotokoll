@@ -1,0 +1,14 @@
+# ai-assisted-narrative-coherence
+  lines                1836  (frontmatter ends at 9)
+  body words           39164
+  headings             190   bold-only lines 1
+  table rows           128   code fences 0
+  question marks       11
+  backslash escapes    484
+  typographic marks    276   ascii quotes 1235
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    92
+  repeated labels      The Analogy x3
+  longest line         1123 chars
+
