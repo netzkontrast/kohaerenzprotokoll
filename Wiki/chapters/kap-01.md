@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -44,6 +44,13 @@ Title: „Kristalliner Käfig“ ^[kohaerenz-protokoll.md:L124]
 - Wakes: „Kael lag auf der Ruhefläche seines Wohnmoduls.“ ^[kohaerenz-protokoll.md:L128]
 - Glitch: „Ein warmes, goldenes Licht.“ ^[kohaerenz-protokoll.md:L176] — the name *Juna* surfaces the same line, an echo with no referent yet.
 - Close: „Der erste Riss war da.“ ^[kohaerenz-protokoll.md:L194]
+
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Das Erwachen im Spiegel
+
+Title: „Das Erwachen im Spiegel“ ^[roman-outline-system-kael.md:L55]
+Position: Teil I, KW1
+
+- Story: Kael wakes „in seinem sterilen Apartment (E1) nach einem System-Neustart“ ^[roman-outline-system-kael.md:L55]; „ein Spiegelbild, das nicht vollständig synchron agiert“ ^[roman-outline-system-kael.md:L55].
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
