@@ -30,6 +30,40 @@
    "category": "storyform"
   },
   {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 31,
+   "failed_calls": 0,
+   "chunks": 31,
+   "failed_chunks": 0,
+   "cost_usd": 0.6428,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+   "rows": 40,
+   "candidates": 33,
+   "refused": {
+    "surface absent from document": 1,
+    "joined or shortened quote": 1,
+    "ambiguous quote: choose its passage": 1,
+    "quote not placed": 2,
+    "chapter is neither on the quoted line nor the heading above it": 2
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "storyform"
+  },
+  {
    "run": "termcontrasts-haiku-2026-09-30",
    "contract": "TermContrasts",
    "model": "claude-cli/haiku",

@@ -16,7 +16,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`](kohaerenz-protokoll-meta-foreshadowing-beobachter-logik/contracts.md) | 3 | 0 | ∅ | 2 | 5 | 6 | 5 | 1 | 1* | 1 | 4 | 6 | ∅ | ∅ | ∅ | ∅ | ∅ | 4 | 5 | 31 | 5 | ∅ | 16 | ∅ | 1 | n.s. | 4 | 8 | 22 | ∅ | 5 | 3 |
 | [`kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`](kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md/contracts.md) |  |  |  |  |  |  | 70 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 129 | 98 |  |  |  |  |
 | [`kohaerenz-protokoll-philosophischer-bericht-md`](kohaerenz-protokoll-philosophischer-bericht-md/contracts.md) |  |  |  |  |  |  | 80 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 131 | 158 |  |  |  |  |
-| [`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`](kohaerenz-protokoll-storyform-und-outline-2026-06-10-md/contracts.md) |  |  |  |  |  |  | 34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 110 | 84 |  |  |  |  |
+| [`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`](kohaerenz-protokoll-storyform-und-outline-2026-06-10-md/contracts.md) |  |  |  |  |  |  | 34 |  | 33 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 110 | 84 |  |  |  |  |
 | [`kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`](kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md/contracts.md) |  |  |  |  |  |  | 29 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 115 | 132 |  |  |  |  |
 | [`kohaerenz-protokoll-weltkonzept-synthese`](kohaerenz-protokoll-weltkonzept-synthese/contracts.md) | 32 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 62 | 90 |  |  |  |  |
 | [`koharenz-protokoll-konzept-iteration-genesis-md`](koharenz-protokoll-konzept-iteration-genesis-md/contracts.md) |  |  |  |  |  |  |  |  | 76 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -36,4 +36,4 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`the-coherence-protocol-the-hidden-rules-that-hold-reality-to`](the-coherence-protocol-the-hidden-rules-that-hold-reality-to/contracts.md) |  | 15 |  |  |  |  |  |  |  |  |  |  |  | ? |  |  |  |  | ? |  | 16 |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-161 runs on 31 sources: 136 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+162 runs on 31 sources: 137 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.

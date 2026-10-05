@@ -1,0 +1,284 @@
+{
+  "items": [
+    {
+      "source": "Kap 39",
+      "target": "Kael verfasst die Zeile „Das Licht ist schon da, als ich erwache.“ als letzte",
+      "type": "hook_out",
+      "quote": "Kael verfasst sie in Kap 39 als letzte",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "Verlust der Privatheit des Wir",
+      "type": "cost",
+      "quote": "Verlust der Privatheit des Wir (innere Polyphonie wird kosmische Bewahrungs-Funktion) — manifest Kap 39",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 36",
+      "target": "AEGIS-monolithisch erlischt",
+      "type": "cost",
+      "quote": "AEGIS-monolithisch erlischt — manifest Kap 36",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "pluralen Bewahrungsform",
+      "type": "object",
+      "quote": "In Kap 39 wird dieses Wir zur pluralen Bewahrungsform — **Wir-AEGIS-plural**",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "Juna-Seed",
+      "type": "object",
+      "quote": "Juna-Seed seit Kap 1, aber namenlos",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Wärme, Fülle, schließlich direkt",
+      "type": "object",
+      "quote": "Wärme, Fülle, schließlich direkt in Kap 38",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "Telefon-Stille",
+      "type": "object",
+      "quote": "Telefon-Stille** (ruht bis Vortex, eingelöst Kap 39)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 0",
+      "target": "Ich falle... in unzählige Scherben…",
+      "type": "hook_out",
+      "quote": "Ich falle... in unzählige Scherben…",
+      "stance": "asserts"
+    },
+    {
+      "source": "1.  **Erwachen in der Konstrukt-Stadt**",
+      "target": "Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7",
+      "type": "place",
+      "quote": "Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7",
+      "stance": "asserts"
+    },
+    {
+      "source": "1.  **Erwachen in der Konstrukt-Stadt**",
+      "target": "eine einzige konkrete Falschheit",
+      "type": "falsehood",
+      "quote": "eine einzige konkrete Falschheit",
+      "stance": "asserts"
+    },
+    {
+      "source": "1.  **Erwachen in der Konstrukt-Stadt**",
+      "target": "„Das Licht ist schon da, als ich erwache.“",
+      "type": "hook_in",
+      "quote": "Erstsatz „Das Licht ist schon da, als ich erwache.“",
+      "stance": "asserts"
+    },
+    {
+      "source": "2.  **Der erste Riss**",
+      "target": "erste Begegnung mit der Systemlüge",
+      "type": "falsehood",
+      "quote": "erste Begegnung mit der Systemlüge",
+      "stance": "asserts"
+    },
+    {
+      "source": "3.  **Bunker-Bau**",
+      "target": "verdoppelt Kontrolle/Ordnung",
+      "type": "want",
+      "quote": "Kael (Lex-dominant) verdoppelt Kontrolle/Ordnung",
+      "stance": "asserts"
+    },
+    {
+      "source": "6.  **Echos im Fundament**",
+      "target": "die einseitige Logik scheitert an einem komplexen Problem",
+      "type": "obstacle",
+      "quote": "6.  **Echos im Fundament** (Tod einer Einstellung) · KW1→KW2-Vorschein · A:MC-Solution (Pursuit erste Andeutung), B:OS (AEGIS' Logik zeigt Schwächen). „Cache-Konflikt“: die einseitige Logik scheitert an einem komplexen Problem",
+      "stance": "asserts"
+    },
+    {
+      "source": "12. **Stille der Mitte**",
+      "target": "AEGIS scannt diesen Zustand",
+      "type": "want",
+      "quote": "12. **Stille der Mitte** (Jetzt-Raum) · KW1 · A:MC-Concern, B:OS latent (AEGIS scannt diesen Zustand)",
+      "stance": "asserts"
+    },
+    {
+      "source": "13. **Tanz im Garten**",
+      "target": "AEGIS bereitet Phase-2-Stress-Tests vor",
+      "type": "want",
+      "quote": "13. **Tanz im Garten** (neue innere Welt) · KW1→Übergang · A:MC-Concern, B:OS (AEGIS bereitet Phase-2-Stress-Tests vor)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 14 — Das Archiv der Grenzen",
+      "target": "KW2 betreten",
+      "type": "place",
+      "quote": "Kap 14 — Das Archiv der Grenzen** (Modus-Wechsel / 1. Szene des zyklischen Modus; Teil-IX-Arbeitstitel: *Bruch des Gleichgewichts*): alte Wunden reißen auf; erste Erasure-Welle; Kael erhält Zugang zu AEGIS' technischen Dossiers (Lernarchiv Theta-9); **KW2 betreten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 15 — Turing-Mechanik",
+      "target": "die Stadt als universelle Turingmaschine",
+      "type": "object",
+      "quote": "Kap 15 — Turing-Mechanik** (Zyklus-Funktion: Z1-Trigger): die Stadt als universelle Turingmaschine",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 20 — Z2-Lyons-Kreativität",
+      "target": "erste bewusste Pursuit-Bewegung",
+      "type": "want",
+      "quote": "Kap 20 — Z2-Lyons-Kreativität:** erste bewusste Pursuit-Bewegung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 22",
+      "target": "Erasure-Kosten sichtbar",
+      "type": "cost",
+      "quote": "Kap 22 — Z3-AEGIS-Eskalation + Genesis-Flashback: Komp 734.** Berechenbarkeitsgrenzen; Erasure-Kosten sichtbar",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 24",
+      "target": "AEGIS",
+      "type": "obstacle",
+      "quote": "Kap 24 — Telefon-Stille** (wiederkehrendes K-J-Thema): K-J-Verbindung wird zyklisch von AEGIS gestört",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 26",
+      "target": "Entscheidung zur Befreiung",
+      "type": "want",
+      "quote": "Kap 26 — Schritt ins Ungewisse:** der Tritt darüber; Entscheidung zur Befreiung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 26",
+      "target": "Erasure-Vorbereitung eskaliert",
+      "type": "obstacle",
+      "quote": "Kap 26 — Schritt ins Ungewisse:** der Tritt darüber; Entscheidung zur Befreiung; Erasure-Vorbereitung eskaliert",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 28",
+      "target": "Purge-Drohung",
+      "type": "obstacle",
+      "quote": "Kap 28 — AEGIS' Eskalation** (HR 2: Call to Adventure): Purge-Drohung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 28",
+      "target": "ewige Fragmentierung",
+      "type": "cost",
+      "quote": "Kap 28 — AEGIS' Eskalation** (HR 2: Call to Adventure): Purge-Drohung, Juna in Gefahr; **A-Consequence akut** (ewige Fragmentierung droht)",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 31",
+      "target": "Kael absorbiert Guardian-Prinzipien gesund",
+      "type": "want",
+      "quote": "Kap 31 — Auflösung der Guardians** (HR 5: Crossing the First Threshold): Kael absorbiert Guardian-Prinzipien gesund",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "AEGIS' Kern",
+      "type": "place",
+      "quote": "Kap 33 — Approach Inmost Cave** (HR 7): Vordringen zu AEGIS' Kern",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 34",
+      "target": "AEGIS (Makro-Log)",
+      "type": "obstacle",
+      "quote": "Kap 34 — Konfrontation: Zwei Arten der Kohärenz** (HR 8: Ordeal-Annäherung): Kael (Wir) vs. AEGIS (Makro-Log)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 36",
+      "target": "AEGIS-monolithisch erlischt",
+      "type": "cost",
+      "quote": "B-Cost: AEGIS-monolithisch erlischt (Kap 36)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 37",
+      "target": "falscher Frieden",
+      "type": "falsehood",
+      "quote": "Klassischer Reward-Beat als falscher Frieden.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "das Rauschen",
+      "type": "obstacle",
+      "quote": "das Rauschen kommt — sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Juna",
+      "type": "who",
+      "quote": "Junas erste direkte Erscheinung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "plurale Bewahrung als Lösung",
+      "type": "object",
+      "quote": "Wir und Juna teilen die Erkenntnis durch geteilten Raum: plurale Bewahrung als Lösung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "das Wir entscheidet, ins Ouroboros zu gehen",
+      "type": "want",
+      "quote": "das Wir entscheidet, ins Ouroboros zu gehen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Ouroboros",
+      "type": "place",
+      "quote": "das Wir entscheidet, ins Ouroboros zu gehen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39 — Wir-AEGIS",
+      "target": "AEGIS-monolithisch erlischt",
+      "type": "irreversible",
+      "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39 — Wir-AEGIS",
+      "target": "als letzten Satz setzt er den gelockten Kap-1-Erstsatz",
+      "type": "hook_out",
+      "quote": "als letzten Satz setzt er den gelockten Kap-1-Erstsatz",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 40 — Geheilte Genesis (Coda)",
+      "target": "der Schmerz bleibt, als Preis",
+      "type": "cost",
+      "quote": "der Schmerz bleibt, als Preis, nicht mehr als Tragödie",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 0",
+      "target": "Nyx",
+      "type": "who",
+      "quote": "der Faden lebt in **Kap 0 allein** (Knöchel-Eruption, Nyx)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap-39",
+      "target": "Kael schreibt",
+      "type": "want",
+      "quote": "Kap-39-Schreib-Moment:** exakte Inszenierung (schreibt Kael buchstäblich?",
+      "stance": "asks"
+    }
+  ]
+}
