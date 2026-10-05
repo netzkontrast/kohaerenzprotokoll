@@ -412,3 +412,11 @@ KW2's is „plötzliche Kälte oder Wärme in Traumabereichen" ^[the-sensory-rul
 **Heat as Storyform B's Driver, AEGIS felt by Kael only as falling temperature — no ozone, no cold-warm polarity, no Kap 6 or Kap 36.**
 The two storyforms' Driver converge on heat: „Story Driver | Action (Schmerz treibt) | Action (Hitze treibt) | Nein (Konvergenz)" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L195] — pain drives A, heat drives B, and the document calls the two the same Action. Kael never meets AEGIS directly: „Kael erfährt die autopoietische Präsenz von AEGIS ausschließlich als manipulierten Umweltdruck, als sinkende Umgebungstemperatur und als physikalische Raumzeitkrümmung." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L17] — AEGIS is a temperature drop for Kael, not a warmth.
 `Ozon`, `kalt` and `Kap 6` stand 0 times, `Landauer` on several lines always as `Landauer-Wärme`, heat rather than cold (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). Neither row's chapter is named, so row 1's warmth in Kap 6 and Kap 36 is neither held nor denied; heat is Storyform B's own driving force here, not opposed to a named cold. The conflict stays open.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon makes the Landauer heat always sensory, and lists warmth and ozone together.**
+
+§3.2 (CORE): „Landauer-Prinzip. Jede Bit-Löschung erzeugt minimale Wärme.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L105] The §7.2 rule: „Wärme (Landauer) ist immer sensorisch: Hitze, Ozon, Schweiß, fiebrige Hände.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L371] In Akt I the first traces of Juna come „durch Wärme an Stellen, an denen keine Wärme sein dürfte.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L598]
+
+Where it stands in the record's own terms: warmth and ozone stand in one list here, as a sensory rule; the Kanon does not set cold against them.
