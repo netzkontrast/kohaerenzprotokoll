@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,14 @@ In der äußeren Heldenreise ist das laut der Konzept-Iteration die fortgesetzte
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Not this chapter alone: „Kapitel 33-35: Konsequenzen und Entfaltung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L373] names one entry for Kapitel 33, 34 and 35 together — „Diese Kapitel entfalten die Konsequenzen der in 31 und 32 getroffenen Entscheidungen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376], resolving Kael's chosen ending on the Kernwelt, J and AEGIS, with no beat assigned to Kapitel 34 on its own.
+
+## Reading — `outline`, 2025-07-30, the outline — Blick in den Abgrund/Ursprung: Erster klarer Kontakt mit dem Fundament / Das Fundament – Die Leere ist nicht leer
+
+Title: „Blick in den Abgrund/Ursprung: Erster klarer Kontakt mit dem Fundament / Das Fundament – Die Leere ist nicht leer“ ^[outline.md:L221] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Kael (ontologische Konfrontation, überwältigende Erkenntnis)“ ^[outline.md:L224]; journey stage under `Reisestufe`: „Vordringen zur tiefsten Höhle (im generellen Kontext der Heldenreise)“ ^[outline.md:L228]
+
+- Story: the outline plans, under `Plot`, „Er erkennt dessen Natur als integrierende Kraft“ ^[outline.md:L223]; „ein primordialer Zustand von Potenzial oder integrierten Paradoxien“ ^[outline.md:L223]
+- Question: under `Thematische Kernfrage`, „Wie verarbeitet man eine Wahrheit, die alles bisherige Verständnis sprengt?“ ^[outline.md:L225]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
