@@ -121,3 +121,11 @@ Where it stands in the record's own terms: it answers by function and by the par
 Scene 5 is „Komponente 734“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L73], and its first beat gives the identity „Wahrnehmung als Funktionseinheit (z.B. Grenzanalyse Delta).“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L80] The signature is the one the entity resonates with: „mit der latenten Signatur von Komponente 734 auf (dem Echo der Unvollständigkeit)“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L119].
 
 Where it stands in the record's own terms: it answers by function and signature, never by what the bare number labels in the world; the question stays open.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon uses 734 as a component, and names the beat `Kael als 734`.**
+
+§3.3: „Kael wird als Komponente 734 abgespalten“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114]; the third beat is headed `Kael als 734`, and F9 writes the form as „Einheit → Trennungsprotokoll → Kael=734.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L550]
+
+Where it stands in the record's own terms: it names 734 a component and does not say what the number counts.
