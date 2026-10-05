@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 32
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 33
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -58,6 +58,14 @@ Position: Teil III; setting from the `Schauplatz` field: „Die stürzenden Kern
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, EPs (Kiko, Oblivion)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L341]
 - Story: the blueprint plans, in `Plot-Beats`, „Die alte AEGIS-Infrastruktur bricht zusammen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L343] and „dass kein traumatisierter Anteil“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L343]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Algorithmische Melancholie
+
+Title: „Algorithmische Melancholie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L437] — heading „Der gefallene Gott“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L438]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael (mitfühlend)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L439]; place from `Ort`: „Die Ruinen des Nexus“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L441]
+
+- Story: the matrix plans „Kael zerstört es nicht, sondern lässt es sein“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L443]
+- Question: „Gibt es Gnade für eine Maschine?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L442]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — Kael realises he is AEGIS
 
