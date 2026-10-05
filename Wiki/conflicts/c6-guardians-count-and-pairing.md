@@ -434,3 +434,11 @@ It stands with the record's first position in giving each of KW1 to KW3 a named 
 „AEGIS delegiert seine exekutive Kontrolle an vier sub-algorithmische Wächter“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L128]; the list pairs `LogOS` with KW1, `Mnemosyne` with KW2, `Cerberus` with KW3 and `Kairos / Sophia` with KW4 („Wächterin der Potenzialität (KW4).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L133]).
 
 Stands: four, paired one to one with KW1–KW4 (L128–L133); the slash in `Kairos / Sophia` is the report's.
+
+## 2026-10-05 — `kontext-outline`, 2025-05-03, the outline commission
+
+**The commission briefs five Guardians paired over four worlds, Kairos and Sophia sharing the fourth.**
+
+The commission's glossary lists the worlds with one guardian each, and the fourth with two: „Sterile, logikbasierte Welt. Guardian: LogOS.“ ^[kontext-outline.md:L30] „Chaotische, emotions-/erinnerungsbasierte Welt. Guardian: Mnemosyne.“ ^[kontext-outline.md:L31] „Verteidigungs-/angstbasierte Welt. Guardian: Cerberus.“ ^[kontext-outline.md:L32] „Kreativitäts-/potenzialbasierte Welt. Guardians: Kairos & Sophia.“ ^[kontext-outline.md:L33] The collective entry names the five: „AEGIS-Entitäten, die die KWs verwalten/kontrollieren“ ^[kontext-outline.md:L48]. The glossary is a basis for the author to refine, so this is the briefing's gloss.
+
+Where it stands: one more document with the five-name, four-pair arrangement; it counts no Erasure-Pol and takes no side on the record's other positions.
