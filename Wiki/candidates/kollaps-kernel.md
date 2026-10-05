@@ -1,10 +1,10 @@
 ---
 term: Kollaps-Kernel (K₀)
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 gathered: "2026-09-24"
 ---
 
@@ -43,6 +43,9 @@ The audit names the kernel in Axis I as the „Erasure Kernel“ ^[technical-aud
 The audit's names for the kernel are `Löschungs-Kern` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#2] in its table and opening, and `Kollaps-Kern` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#1] in a parenthesis; in running text it writes `-Kern` with the symbol lost to the export, and the sentence gives the kernel, erasing being this one. The table row lists it as „Kollaps, Irreversibilität, Zerfall, Messung“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L47], „Auslöschung von Struktur und Kausalität, Untraceability“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L47] and „Massive Entropie-Generierung (Wärme)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L47].
 
 In the running text, presented as part of the theory: „Der -Kern hingegen ist die Domäne des absoluten Datenverlusts“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L51], „Es ist das Feld, das quantenmechanische Wellenfunktionen bei einer Messung dekohärieren lässt“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L51], and „Die Zeit hat nur deshalb eine Richtung, weil der -Kern irreversible Übergänge erzwingt“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L51]. On the Protokoll it reports: „Jeder narrative Fortschritt repräsentiert eine physikalische Löschung im -Kern“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L27].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — the collapse kernel as the domain of irreversible processes
+„Der Kollaps-Kernel hingegen ist der Bereich der irreversiblen Prozesse und der Entropie“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L17], represented by Juna and the thermal Risse (L17). The kernel's symbol is lost in the export (empty `()` in the same line).
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
