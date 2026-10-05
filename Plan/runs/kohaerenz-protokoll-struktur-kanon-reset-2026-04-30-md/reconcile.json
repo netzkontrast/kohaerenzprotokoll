@@ -1,0 +1,533 @@
+{
+  "document": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+  "drive_id": "1huoMUaO-JF6FqdXaUOYfj0nZHhqX5LvoBLNYpNc4aKU",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; the session read §0–§10 and Appendices A–D against the note and corrected nothing; readings by two wiki-reader subagents (Sonnet), one after the other, from Plan/runs/ingest-70/brief.md; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 166,
+    "decisions": 173,
+    "decided_by_lookup": 116,
+    "needs_judgement": 57
+  },
+  "new_terms": [],
+  "why_no_new_terms": "The Struktur-Kanon names the world the wiki pages and reduces it: its own new labels are the apparatus of a canon (CORE, KEEP, OFFEN, Lasten, Driver-Pivot, Reader-Substrat-Funktion, Riss-Mandat, Somatic Rulebook, Computational Class) or a research question (F1–F10). Its readings went onto 55 pages, 13 records and 8 chapter pages; a structural label in one canon document defines no term of the world, so none opens a page.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        206,
+        582
+      ],
+      "attribution": "",
+      "note": "twelve protocols reduced to three"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        37,
+        91,
+        215,
+        430,
+        626,
+        689,
+        690,
+        691,
+        695
+      ],
+      "attribution": "",
+      "note": "AEGIS as K0 believing itself K1, a tragic god"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        636
+      ],
+      "attribution": "",
+      "note": "Alex in Appendix B, a Protector"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        91,
+        279,
+        434,
+        689
+      ],
+      "attribution": "",
+      "note": "AEGIS' fate and Juna's effect"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        658
+      ],
+      "attribution": "",
+      "note": "Argus in Appendix B, a Sonderform"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        490,
+        498
+      ],
+      "attribution": "",
+      "note": "Cerberus as a candidate for the one erasing pole"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        466,
+        583
+      ],
+      "attribution": "",
+      "note": "Chaitin Ω as a former candidate, dropped"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        103,
+        415
+      ],
+      "attribution": "",
+      "note": "K1 as Coherons"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        99,
+        415
+      ],
+      "attribution": "",
+      "note": "DKT as literal law, minimal"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        215
+      ],
+      "attribution": "",
+      "note": "control produces the entropy it fights"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        104
+      ],
+      "attribution": "",
+      "note": "K0 as Erasonen"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        75,
+        113,
+        114,
+        115,
+        119,
+        550,
+        558,
+        587,
+        725
+      ],
+      "attribution": "",
+      "note": "one genesis in three beats, told twice"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        23,
+        490,
+        494,
+        498,
+        581,
+        626
+      ],
+      "attribution": "",
+      "note": "the Guardians reduced, as its decision, to Mnemosyne and one erasing pole"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        649
+      ],
+      "attribution": "",
+      "note": "Isabelle in Appendix B, Sexualisiert"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        95,
+        261,
+        266,
+        279,
+        291,
+        293,
+        294,
+        470,
+        542,
+        546,
+        579,
+        750
+      ],
+      "attribution": "",
+      "note": "Juna as witness, and IC in both storyforms"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        87,
+        114,
+        115,
+        580,
+        598,
+        634
+      ],
+      "attribution": "",
+      "note": "Kael as human with dissociative structure, split off as 734"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        490
+      ],
+      "attribution": "",
+      "note": "Kairos named once, among F3's former candidates"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        647
+      ],
+      "attribution": "",
+      "note": "Kiko in Appendix B, Freeze"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        53,
+        91
+      ],
+      "attribution": "",
+      "note": "K1 and love as the ultimate coherent structure"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        114,
+        115,
+        550
+      ],
+      "attribution": "",
+      "note": "734 as a function inside the architecture"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        598,
+        717
+      ],
+      "attribution": "",
+      "note": "the city and the solipsistic air"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        105,
+        371
+      ],
+      "attribution": "",
+      "note": "the bridge, felt and never an equation"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        635
+      ],
+      "attribution": "",
+      "note": "Lex in Appendix B, a Rationalist"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        648
+      ],
+      "attribution": "",
+      "note": "Lia in Appendix B, Ambivalent"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        490,
+        498
+      ],
+      "attribution": "",
+      "note": "LogOS as a candidate for the one erasing pole"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        131,
+        436,
+        438,
+        494,
+        614
+      ],
+      "attribution": "",
+      "note": "Mnemosyne-Archipel as the pivot's setting, and Mnemosyne against one erasing pole"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        143,
+        147,
+        666,
+        699,
+        709
+      ],
+      "attribution": "",
+      "note": "a link whose existence carries the argument"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        650
+      ],
+      "attribution": "",
+      "note": "Moros in Appendix B, Kollaps"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        618,
+        671
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität, never fusion"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        113
+      ],
+      "attribution": "",
+      "note": "one trace of the unity"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        646
+      ],
+      "attribution": "",
+      "note": "Nyx in Appendix B, Fight"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        667,
+        733,
+        734,
+        738
+      ],
+      "attribution": "",
+      "note": "Oblivion, AEGIS-Echo; two readings of what happens when AEGIS collapses"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        57,
+        135
+      ],
+      "attribution": "",
+      "note": "the last image is the first, inverted"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        637
+      ],
+      "attribution": "",
+      "note": "Rhys in Appendix B, a Caregiver"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        347,
+        598
+      ],
+      "attribution": "",
+      "note": "Risse in the text and in Akt I"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        638
+      ],
+      "attribution": "",
+      "note": "Selene in Appendix B, an Internal Self Helper"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        666
+      ],
+      "attribution": "",
+      "note": "Silas, Juna-Echo, who carries the Moonshine-Link on the inside"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        490
+      ],
+      "attribution": "",
+      "note": "Sophia named once, among F3's former candidates"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        113,
+        147,
+        291,
+        566,
+        780
+      ],
+      "attribution": "",
+      "note": "the anchor of the bond and of Juna's appearance"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        114,
+        550
+      ],
+      "attribution": "",
+      "note": "beat 2 of three"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        430,
+        454
+      ],
+      "attribution": "",
+      "note": "Truth-Rotation as a canonical event"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        87,
+        115
+      ],
+      "attribution": "",
+      "note": "TSDP as Kael's structure"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        119,
+        127,
+        614,
+        725
+      ],
+      "attribution": "",
+      "note": "setting and pivot of the ending"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      24,
+      30,
+      31,
+      33,
+      34,
+      37,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C7",
+    "C11",
+    "C12",
+    "C14",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q7",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a title or heading containing a term: Kohärenz Protokoll, Struktur-Kanon — Reset 2026-04-30), J12 and J16 (a compound is its own token: Kohärenz-Wächter, AEGIS-Protokolle, Erasure-Sweep), J24 and J97 (a plural or case ending is no boundary: Coherons, Erasonen, Kaels, Junas), J26 (a hyphen inside a compound is no boundary: Telefon-Stille / Telefonstille), J34 and J43 (a slash between two names the wiki has is an alias or a pair: Kairos/Sophia), J49 (a world name built from a bearer's name is not the bearer: Mnemosyne-Archipel), J69 (a match only after folding: CORE, KEEP, Einheit, Stille, Rotation), J88 (a common noun for a page's referent is placed by the sentence: Gödel, Landauer, Moonshine, Ouroboros), J92 (a clipped form names what the full form names: Kael=734, Kael als 734)",
+  "sweep": [
+    {
+      "page": "coheron",
+      "surface": "Coheron",
+      "line": 415,
+      "decision": "reading",
+      "why": "K1 as `Coherons`, self-correcting mutual-information loops (L103), and the writing rule that no DKT term, `Coheron` among them, stands in the first 50 pages (L415) — read by the sentence"
+    },
+    {
+      "page": "erason",
+      "surface": "Erason",
+      "line": 415,
+      "decision": "reading",
+      "why": "K0 as `Erasonen`, irreversible erasure that makes the arrow of time and releases heat (L104), and the same first-50-pages rule (L415)"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 73,
+      "decision": "reading",
+      "why": "the proof of the truth inversion: AEGIS's act of control itself produces the entropy it fights (L73) — the page's subject"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "reading",
+      "why": "L11 is the title (J9), but AEGIS believes itself K1, `Kohärenz-Wächter` (L91), and love is `die ultimative kohärente Struktur` (L53) — read by the sentence"
+    },
+    {
+      "page": "nichts-rauschen",
+      "surface": "Nichts-Rauschen",
+      "line": 113,
+      "decision": "reading",
+      "why": "the original unity appears in the novel only as a trace, the Nichts-Rauschen among them (L113)"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 326,
+      "decision": "reading",
+      "why": "contradictory footnotes as simulated `Risse` for the reader (L326) and the `Riss-Mandat` of section 7.1, each dissociative mode a distortion of the text (L345–L358)"
+    }
+  ],
+  "not_promoted": [
+    "Reader-Substrat-Funktion — the reader as the substrate of the dual storyform, replacing the 5. Position (§6, L304–L335); no page, recorded here",
+    "Driver-Pivot — the switch from Action to Decision driver in Kap 35–36 (§3.4, L121–L131); read on vortex",
+    "Riss-Mandat, Somatic Rulebook, Computational Class — writing discipline, stated as style, not world (§7, L341–L385); read on risse and landauer-signatur",
+    "the fifteen decanonised alter names (L675) — read on Q3; no page",
+    "Appendix D — a private anchor; one line of it on telefon-stille, nothing more"
+  ],
+  "internal_tension": "the fourth-beat question stands in F9 (§9) here, while the character bible points to it as `Reset-Doc Appendix C`; this document's Appendix C (C.1–C.8) does not hold it. And the Kanon calls itself the sole foundation, fixed until an explicit edit (L23, L37, L792), while sending ten questions and eight open points to be settled before encoding",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

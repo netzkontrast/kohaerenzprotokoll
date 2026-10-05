@@ -394,6 +394,12 @@ the author wants them (*Questions for the author*).
   Unvollständigkeit" — indivisible, of contradictory symmetries; Kael is born longing for it (L119, L139, L177). It is never named.
   Is it M, is it Juna, or one before the other became two (C16)?
 
+- **Document 70, `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, your Struktur-Kanon of 2026-04-30:** it reduces the
+  Guardians to Mnemosyne and one erasing pole (F3, §10), sets Kael's origin inside AEGIS and drops the Monster group (L114, L583),
+  makes Juna the IC of both storyforms (§5), and leaves ten research questions F1–F10 and eight open points C.1–C.8 to settle
+  before encoding. Your decision of 2026-09-24 for five Guardians came after it. Which of its CORE, and which of its
+  recommendations, still hold for you? (The character bible points to its fourth-beat question as „Appendix C"; it stands in F9.)
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*

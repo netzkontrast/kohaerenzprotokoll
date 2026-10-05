@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md
+  lines                793  (frontmatter ends at 9)
+  body words           4779
+  headings             60   bold-only lines 9
+  table rows           89   code fences 0
+  question marks       29
+  backslash escapes    172
+  typographic marks    172   ascii quotes 44
+  invisible characters none
+  math symbol lines    18
+  glued ref numbers    34
+  repeated labels      Forschungsfrage x10, Plot-Aufgabe x10, Bisherige Kandidaten x5
+  longest line         453 chars
+
