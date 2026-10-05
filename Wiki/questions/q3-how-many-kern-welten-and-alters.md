@@ -433,3 +433,13 @@ The document is a generated report about other texts that it names only by numbe
 C-002: the report quotes Doc 30 as „The current canonical registry identifies 11 distinct entities within the system.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L23]; its summary: „Die Alter-Liste variiert zwischen dem streng definierten 11er-Kanon des“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L23] canon and „und älteren Konzeptentwürfen mit 13 oder mehr Anteilen“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L23]. Row F-04 lists ten: „Das System Kael besteht aus Lex (Logik), Nyx (Kampf), Kiko (Freeze), Alex (Schutz), Rhys (Pflege), Selene (Integration), Argus (Kritiker), Lia, Isabelle und Moros.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L69] Row F-06 speaks of „erzählerisch toxisch für den aktuellen 11er-Kanon“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L71]. Row F-05 names five guardians who „wachen über die 4 Kernwelten und repräsentieren AEGIS' Kontrollparadigmen“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L70].
 
 It stands as a count of alters held in two figures, ten and eleven, and four worlds beside five guardians; the report does not reconcile them.
+
+## 2026-10-05 — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the blueprint, the Kael biography, the architecture analysis)
+
+**The parts give four worlds, and for the alters a count of eleven against tables of six, five and a longer list.**
+
+Worlds: „The four Kernwelten (Core Worlds) are simulated realities created by AEGIS as“ ^[ai-assisted-narrative-coherence.md:L467] laboratories (the blueprint).
+
+Alters: the blueprint says „the existence of eleven identified alters“ ^[ai-assisted-narrative-coherence.md:L431], and in the next section „The following table profiles the most significant alters within“ ^[ai-assisted-narrative-coherence.md:L435] System Kael, with rows for Kael, Lex, Nyx, Kiko, Rhys and Selene. The Kael biography: „The table below profiles the five most significant alters who define Kael's internal landscape and his path toward integration.“ ^[ai-assisted-narrative-coherence.md:L1101] — Kael, Lex, Nyx, Kiko and Selene. The architecture analysis's table, under „Kael's psyche is modeled on the Theory of Tertiary Structural Dissociation (TSDP)“ ^[ai-assisted-narrative-coherence.md:L1749], lists Kael, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Lex, Alex, Rhys and Argus.
+
+It stands with the record's open count: the same compilation says eleven and tabulates fewer in two parts; the record is not changed.
