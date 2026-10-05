@@ -27,6 +27,8 @@
 
 **Genre:** Hard-SF / Philosophical Horror / Psychological Thriller
 
+**Die Uhr (optionlock):** die Rückzugsorte und die Risse: jede Wende nimmt Kael einen Ort, an den er zurück könnte (KW1 in Kap 14, KW2 in Kap 22, den sicheren Rückzugspunkt in Kap 26, den Schutz der Abwehr in Kap 34), und jeder Riss, den er nimmt, schließt sich hinter ihm; am Vortex bleibt nur die Integration
+
 | Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Benchmark | Akte |
 |---|---|---|---|---|---|---|---|
 | MC | Mind | Memory | Suspicion | Inertia → Change | Chaos → Order | Conscious | Memory → Subconscious → Preconscious → Conscious |

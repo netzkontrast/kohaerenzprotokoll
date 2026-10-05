@@ -240,6 +240,12 @@ with the consequences of each option laid out.
     overview and the NCP. A's optionlock has no concrete limit yet. `storyform.py` now also refuses a chapter proposal
     in `development.json` whose storypoint the weave does not give that chapter, and notes woven throughlines no
     proposal references (39 at present).
+44. **A's clock and Oblivion (2026-10-05).** A's optionlock is **the places of retreat and the rifts**: every turn takes
+    from Kael a place he could go back to (KW1 in Kap 14, KW2 in Kap 22, the safe retreat in Kap 26, the shelter of
+    defence in Kap 34), and every rift he takes closes behind him; at the Vortex only integration is left (`a.json`
+    `clock`). Inside Kael, **Oblivion takes over AEGIS' function, choosing instead of erasing** — Q8 decided. The
+    author also chose: the two plot executions merge into `development.json` (the scene lists become its sources), the
+    missing storypoints are filled by the act rhythm, the journeys are written, and Kap 27–39 get the same frame.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
