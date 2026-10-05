@@ -90,3 +90,13 @@ Durchsicht.
 3. **Kap 2:** Ist „die Prüfung laufen lassen“ Kaels erste eigene kleine Wahl, oder soll Kap 2 noch ganz ohne eigene
    Entscheidung bleiben?
 4. **Der Leser sieht Juna in Kap 4, Kael nicht:** Gilt diese Asymmetrie, oder sieht Kael sie in der Erinnerung auch?
+
+## Nachtrag (2026-10-05): W12 ändert die Lesart von 734
+
+Du hast W12 beantwortet (Entscheidung 025, Schritt 42): **AEGIS stammt aus Komponente 734.** Der Vorschlag oben, nach
+dem AEGIS in Kap 6 den Anschluss Komponente 734 zuordnet, bekommt damit eine zweite Bedeutung. Der Anschluss steht
+dann unter AEGIS' eigenem Ursprung, nicht einfach unter Kael. In Kap 12 erfährt Kael dann womöglich mehr, als dass der
+Anschluss er selbst ist: Er und AEGIS hängen an derselben Zeile.
+- Ob das gilt, hängt an Kaels Verhältnis zu 734, und das ist offen (Q7).
+- Die Spalte „Kael weiß“ in Kap 12 ist darum markiert als „hängt an Q7“.
+

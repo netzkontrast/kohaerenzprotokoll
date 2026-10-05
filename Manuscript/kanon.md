@@ -29,6 +29,7 @@ eine Weiche gilt dort nur als Kanon, wenn sie eine `id` aus dieser Tabelle nennt
 | Lager | 2026-10-05 | Junas Wirkung teilt Kaels System in drei Lager und ist der Motor der Juna-Geschichte: Suche — Rhys, Kiko, Lia, Silas; Abwehr — Nyx (mit Isabelle), Alex; Vermeidung — Lex, Moros, Kael, angeführt von Oblivion; Selene vermittelt; Argus beobachtet ohne Lager (2026-10-05); weitere Anteile sind beteiligt. Kap 26 gewinnt die Suche, Kap 34 die Abwehr. | `Plan/runs/storyform-2026-10-02/tsdp-lektuere.md` |
 | Q3 | 2026-10-05 | Das Buch trägt dreizehn Anteile wie die Charakter-Bibel: Kael, Lex, Alex, Rhys, Selene, Argus, Nyx (mit Isabelle), Kiko, Lia, Moros, Silas, Oblivion. Die Zahl der Kernwelten bleibt offen. | `Wiki/questions/q3-how-many-kern-welten-and-alters.md` |
 | Kernwelten | 2026-10-05 | Vier Kernwelten tragen die Akte wie im Worldbuilding-Konzept vom 2026-05-08: KW1 Kap 1–13, KW2 Kap 14–22, KW3 Kap 23–28 (über die Aktgrenze), KW4 Kap 29–39 mit dem Vortex; Kap 0 und 40 sind der Rahmen. Es sind getrennte Welten (W8 A), deren Grenzen etwas kosten. Die Namen von KW2–KW4 und die Guardians (Q5) sind nicht entschieden. | `Plan/storyform/weave.json` |
+| W12 | 2026-10-05 | Die Genesis und Kaels Fragmentierungsnacht sind ein Ereignis auf zwei Ebenen. AEGIS stammt aus Komponente 734. Die Genesis hat vier Schritte: Einheit, Cluster, Trennungsprotokoll, Wir-AEGIS-plural, der vierte vollzogen in Kap 39. Kaels Verhältnis zu 734 bleibt offen (Q7). | `Plan/weichen/w12-genesis.md` |
 
 ## Freigegebene Kapitel
 

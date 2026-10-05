@@ -62,7 +62,7 @@
 
 | Weiche | was offen ist | betrifft |
 |---|---|---|
-| W12 | Genesis und Fragmentierungsnacht: ein Ereignis oder zwei | B-MC Signpost 1 (Past), Kap 0, 18, 40 |
+| W12 | **beantwortet 2026-10-05** (Schritt 42): ein Ereignis, zwei Ebenen; AEGIS aus 734; vier Schritte | B-MC Signpost 1 (Past), Kap 0, 18, 40 |
 | C14 | was das AEGIS-Ich wissen darf | B-MC, Kap 0, 6, 16, 22, 28 |
 | Q8 | AEGIS nach dem Vortex | B-Ausgang Failure, Kap 36–40 |
 | Q5 | Namen von KW2–KW4, die Guardians | Schauplätze, B-Ensemble |

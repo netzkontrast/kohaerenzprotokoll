@@ -225,6 +225,12 @@ with the consequences of each option laid out.
     variation. `storyform.py` checks only that a unique ability or flaw is an element and a catalyst or inhibitor a
     variation — every element sits in every class, so the chart can check no more — and writes them into the
     overview and the NCP, where the profile files catalyst and inhibitor under the objective story.
+42. **W12, the Genesis (2026-10-05).** One event on two levels: the Genesis and Kael's fragmentation night are the same
+    event — Kap 0 tells it from AEGIS' side, Kap 18 from inside, Kap 40 healed; B's MC signpost Past and A's IC
+    signpost Past („Junas Resonanz löst die Genesis-Krise aus“) share it. **AEGIS emerged from Komponente 734**
+    (the reading of `kontext-outline`, not „Kael is 734“); Kael's own relation to 734 stays open (Q7). **Four beats**,
+    the fourth (Wir-AEGIS-plural) completed in Kap 39 — C12 decided. Consequence for the event table of Akt I: the
+    line AEGIS files under 734 in Kap 6 points at AEGIS' own origin, not simply at Kael.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
