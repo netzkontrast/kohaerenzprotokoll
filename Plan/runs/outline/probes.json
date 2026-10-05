@@ -1,0 +1,248 @@
+{
+  "document": "outline",
+  "drive_id": "1AkSUMdzG2HFsfxNhFfo6YWRNJ-rQaXtsZFzje1LP0vc",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 49,
+  "backslash_escapes": 0,
+  "typographic_marks": 18,
+  "ascii_quotes": 108,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systemauflösung",
+      "Systembestandteilen",
+      "Systemfehler",
+      "Systeminstabilität",
+      "Systemkrise",
+      "Systemlogik",
+      "Systems",
+      "Systemstörung",
+      "Systemversagen",
+      "Systemüberlastung"
+    ],
+    "archi": [
+      "Architekt",
+      "Architektur",
+      "Archivar",
+      "Archive",
+      "Archiven"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalen",
+      "Funktionen",
+      "Funktionsweise"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Intern",
+      "Interpretation",
+      "Intervention"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrollagenten",
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollstrukturen"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfragmente",
+      "Datenriss",
+      "Datenströmen"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entscheidungen",
+      "Entscheidungspunkt",
+      "Entschlossenheit"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählperspektive",
+      "Erzähltempo",
+      "Erzählung"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsbeschaffung",
+      "Informationsblockade"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzdefinition",
+      "Kohärenzprotokolle",
+      "Kohärenzprotokollen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konflikts"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentialität",
+      "Potenzial",
+      "Potenzials"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumaerfahrung",
+      "Traumainduzierte",
+      "Traumata"
+    ],
+    "wider": [
+      "Widersprüche",
+      "Widersprüchliche",
+      "Widerstand",
+      "Widerstands"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismen",
+      "Abwehrreaktionen"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstsein",
+      "Bewusstseins"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbrechen",
+      "Durchbruch"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzfeste"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit"
+    ],
+    "hilfe": [
+      "Hilfe",
+      "Hilfen",
+      "Hilferuf"
+    ],
+    "horro": [
+      "Horror",
+      "Horrorelemente",
+      "Horrors"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identität",
+      "Identitätsverwirrung"
+    ],
+    "inner": [
+      "Innere",
+      "Inneren",
+      "Innerer"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Echo",
+      "Echoes"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Weinen"
+    ],
+    [
+      "Ende",
+      "Wende"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Erbe",
+      "Cerberus"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Performance"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Transformationsplan"
+    ],
+    [
+      "Form",
+      "Informationsblockade"
+    ],
+    [
+      "Form",
+      "Informationsbeschaffung"
+    ],
+    [
+      "Hand",
+      "Handlung"
+    ],
+    [
+      "Hand",
+      "Handlungen"
+    ]
+  ]
+}

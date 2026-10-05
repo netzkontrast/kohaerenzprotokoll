@@ -1,0 +1,14 @@
+# outline
+  lines                276  (frontmatter ends at 9)
+  body words           5348
+  headings             9   bold-only lines 26
+  table rows           0   code fences 0
+  question marks       13
+  backslash escapes    0
+  typographic marks    18   ascii quotes 108
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    49
+  repeated labels      Fokus x27, Erzählperspektive x13, Inhalt x13, Plot x13, Reisestufe x13, Subplot-Integration x13, Thematische Kernfrage x13
+  longest line         880 chars
+

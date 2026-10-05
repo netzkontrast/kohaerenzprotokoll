@@ -1,0 +1,505 @@
+{
+  "document": "outline",
+  "drive_id": "1AkSUMdzG2HFsfxNhFfo6YWRNJ-rQaXtsZFzje1LP0vc",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 106,
+    "decisions": 122,
+    "decided_by_lookup": 82,
+    "needs_judgement": 40
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        24,
+        47,
+        61,
+        62,
+        142,
+        169,
+        178,
+        241,
+        250
+      ],
+      "attribution": "",
+      "note": "what the outline plans for AEGIS from KW1 control to its end"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        116
+      ],
+      "attribution": "",
+      "note": "Alex in the list of ANPs"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        37,
+        56,
+        57,
+        99,
+        116
+      ],
+      "attribution": "",
+      "note": "the alters as Anteile, and the ANP/EP division"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        71,
+        72,
+        116
+      ],
+      "attribution": "",
+      "note": "Argus as an example Wächter (Kap 10) and as an EP (Teil 2)"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        51,
+        132,
+        167,
+        170
+      ],
+      "attribution": "",
+      "note": "Cerberus as the world of KW3 and the labyrinth of Kap 28"
+    },
+    {
+      "page": "did",
+      "lines": [
+        37,
+        57,
+        82
+      ],
+      "attribution": "",
+      "note": "DID as a depiction labelled in Kap 3, Kap 6 and Kap 12"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        89,
+        250
+      ],
+      "attribution": "",
+      "note": "Emergenz against control, in the summary and in Kap 37"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "entropy named in Teil 2's Hard-SF strand"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        77,
+        164
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as the place of Juna/V's message"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        132
+      ],
+      "attribution": "",
+      "note": "Grenzfeste as KW3's name in Teil 2"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        67,
+        72,
+        134,
+        173
+      ],
+      "attribution": "",
+      "note": "the Wächter as personalised conceptual challenges and as agents"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        116
+      ],
+      "attribution": "",
+      "note": "Isabelle in the list of EPs"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        76,
+        77,
+        164,
+        194,
+        196,
+        232,
+        235
+      ],
+      "attribution": "",
+      "note": "Juna/V in the outline: the message, the intervention, the partner's turn"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        23,
+        87,
+        156,
+        259,
+        268
+      ],
+      "attribution": "",
+      "note": "Kael's planned path from the awakening to functional multiplicity"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        66,
+        67,
+        133
+      ],
+      "attribution": "",
+      "note": "Kairos as KW4's name and with Sophia"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        23,
+        66,
+        106,
+        126
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as the outline names and uses them"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        42,
+        116,
+        121
+      ],
+      "attribution": "",
+      "note": "Kiko as the anxiety felt in Kap 5 and the child's voice in Teil 2"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        21,
+        130
+      ],
+      "attribution": "",
+      "note": "Konstrukt-Stadt in a title and as KW1's name"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        29,
+        35,
+        120,
+        164,
+        169,
+        172
+      ],
+      "attribution": "",
+      "note": "Lex as the logical part and analyst, and his subplot's climax"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        116
+      ],
+      "attribution": "",
+      "note": "Lia in the list of EPs"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        130,
+        203,
+        205
+      ],
+      "attribution": "",
+      "note": "LogOS as KW1's world and as a Wächter Kael undermines"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        35,
+        131
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as archive and as KW2's world"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        64,
+        133
+      ],
+      "attribution": "",
+      "note": "Möglichkeits-Garten as KW4's name; the garden title of Kap 9"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        116
+      ],
+      "attribution": "",
+      "note": "Moros in the list of EPs"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        56,
+        114,
+        241,
+        271
+      ],
+      "attribution": "",
+      "note": "funktionale Multiplizität as the plotted goal of Kael's path"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        158,
+        160
+      ],
+      "attribution": "",
+      "note": "the Nexus as the place Kael returns to in Kap 27"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        223
+      ],
+      "attribution": "",
+      "note": "the `Nichts Rauschen` as no absence in Kap 34"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        116,
+        122
+      ],
+      "attribution": "",
+      "note": "Nyx as an EP and the Beschützer with a staccato style"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        230,
+        235
+      ],
+      "attribution": "",
+      "note": "Die Wende der Partnerin, Kap 35"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        131
+      ],
+      "attribution": "",
+      "note": "Resonanz-Landschaft as KW2's name"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        42,
+        72,
+        82,
+        187
+      ],
+      "attribution": "",
+      "note": "Rhys as the caretaker ANP, mediator of co-presence"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "the Riss in Kap 3 as a massive intrusion"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        142,
+        203,
+        206
+      ],
+      "attribution": "",
+      "note": "Selene as coordinator, in Teil 2's close and Kap 32"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        67,
+        133
+      ],
+      "attribution": "",
+      "note": "Sophia as paired with Kairos"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        19,
+        23,
+        57
+      ],
+      "attribution": "",
+      "note": "TSDP as the concept set Teil 1 dramatises"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        86,
+        87,
+        134
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS' domain, entered in Kap 13"
+    },
+    {
+      "page": "vergessener-schrein",
+      "lines": [
+        187
+      ],
+      "attribution": "",
+      "note": "a Trauma-Lokus in KW2 returned to in Kap 30"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 89,
+      "decision": "reading",
+      "why": "Teil 2's thematic architecture, read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 105,
+      "decision": "reading",
+      "why": "read on entropie"
+    },
+    {
+      "page": "grenzfeste",
+      "surface": "Grenzfeste",
+      "line": 132,
+      "decision": "reading",
+      "why": "section IV on the worlds, read on grenzfeste"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "surface": "Konstrukt-Stadt",
+      "line": 21,
+      "decision": "reading",
+      "why": "Kap 1's title, read on konstrukt-stadt"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "surface": "Möglichkeits-Garten",
+      "line": 133,
+      "decision": "reading",
+      "why": "section IV, read on moeglichkeits-garten"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 56,
+      "decision": "reading",
+      "why": "read on multiplizitaet"
+    },
+    {
+      "page": "partnerin",
+      "surface": "Partnerin",
+      "line": 230,
+      "decision": "reading",
+      "why": "Kap 35, Die Wende der Partnerin, read on partnerin"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "surface": "Resonanz-Landschaft",
+      "line": 131,
+      "decision": "reading",
+      "why": "section IV, read on resonanz-landschaft"
+    },
+    {
+      "page": "vergessener-schrein",
+      "surface": "Trauma-Lokus",
+      "line": 187,
+      "decision": "reading",
+      "why": "Kap 30's Trauma-Lokus in KW2, an alias of the page; the line does not say shrine"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
