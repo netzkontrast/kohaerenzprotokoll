@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -91,6 +91,10 @@ Title: „Der Riss im Kontinuum und die Quantenuhr“ ^[roman-konzept-dualitaet-
 
 - Establishes: „Ein herabfallender Wassertropfen verharrt in der Luft“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67]
 - Switching: „Alex, der Beschützer-ANP, übernimmt exekutiv die Kontrolle“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 2, the Riss as cache incoherence (Kap 7–10)
+
+- A guiding question for Kap 7–10, a proposal: „Ein Trigger aktiviert Nyx (EP - Kampf) in KW3, während Lex (ANP) in KW1 versucht, Normalität zu wahren.“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L72] Kael's hand exists for a fraction of a second in two places, and the textures of the Konstrukt-Stadt tear open on „das rohe Drahtgittermodell und die dahinterliegende Leere“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L72].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Nyx out of the shadows, a monster of the simulation
 
