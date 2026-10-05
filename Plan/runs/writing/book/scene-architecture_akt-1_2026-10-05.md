@@ -1,5 +1,10 @@
 # scene-architecture — Akt I, Kap 0–13: die Szenenliste als Vorschlag, 2026-10-05
 
+**Status (2026-10-05):** Arbeitsgrundlage für Akt I, kein Kanon. Der Autor hat die ganze Kette übernommen, dazu die
+Steigerung über den Preis, Kap 12 → 13 als Herzstück und die Auftritte der Menschen (Entscheidung 025, Schritt 37).
+Seine Vorlieben stehen am Ende und bleiben offen. **Widerspricht die Liste den Storyforms, gilt die Storyform**
+(Schritt 38).
+
 **Auftrag des Autors (2026-10-05):** „Szenen für Akt I“, gewählt aus der Frage nach dem nächsten Dramatica-Schritt.
 
 **Was das ist:** Für jedes Kapitel gibt es eine Zeile Struktur nach dem Modell von Swain und Bickham, das der Skill
@@ -13,9 +18,10 @@ Vorschlag, bis du Ja sagst. Der Skill selbst ist ein Trainingsraum: Am Ende steh
 - Storyform A und B, Signposts von Akt I. A: OS Being, MC Memory, IC Past, RS Learning. B: OS Doing, MC Past, IC
   Conscious, RS Being.
 - das Weaving, also Route und Stränge je Kapitel, und der Übergang 13/14 (Entscheidung 025, Schritte 23 und 27).
-- `anteile.json`: drei Kanäle und kein Name vor Kap 13. Kanon: C7 (Juna in Kap 4 und 11), Kael, Juna, Menschen,
-  Kernwelten (alles in KW1), C14 (AEGIS-Ich in Kap 0 und 6).
-- Entwurf G von Kap 1 für das, was dort schon steht.
+- `anteile.json`: drei Kanäle und kein Name vor Kap 13. Kanon: C7 (Juna in Kap 4 und 11), Kael, Juna, Kernwelten
+  (alles in KW1), C14 (AEGIS-Ich in Kap 0 und 6). Die Wünsche der vier Menschen sind vorläufig (`a.json`, Schritt 38).
+- Entwurf G von Kap 1 ist eine **vorläufige Ausführung**, keine Grundlage. Wo diese Liste mit G übereinstimmt, ist das
+  keine unabhängige Bestätigung, denn die Kap-1-Zeile stammt aus G (Nachtrag vom 2026-10-05, unten).
 
 **Block 4:** Das Davor mit Juna besteht nur aus erfundenen Entsprechungen. Kein Ort, kein Name und kein Detail aus
 deinem Leben kommt hinein.
@@ -41,7 +47,7 @@ Kanal aus `anteile.json`.
   Ende auf dem „Klick“). Das Genesis-Trauma, verdrängt, steht in den Erasure-Logs (B-MC Past).
 - **→ aber:** Der fehlende Datentyp ist Kaels Anschluss. Kap 1 öffnet bei ihm.
 
-### Kap 1 — Vorkühlung (hard-a; A: MC Memory; Entwurf G steht)
+### Kap 1 — Vorkühlung (hard-a; A: MC Memory; vorläufige Ausführung: Entwurf G)
 - **Ziel:** Die Zuweisung bis Schichtende auf null bringen, wie jeden Tag.
 - **Widerstand:** die linke Hand (Silas, Spur), verlorene Minuten (Oblivion, Spur) und die alte Frau auf der Bank,
   deren Löschung ansteht.
@@ -80,7 +86,7 @@ Kanal aus `anteile.json`.
 
 ### Kap 5 — Die Kollegin (hard-a; A: OS Being)
 - **Ziel:** Die Rolle hält vor der Kollegin. Er muss ihr eine saubere Erklärung für die RÜCKFRAGE geben.
-- **Widerstand:** Sie will den Fehler beweisen (Skeptic, Kanon „Menschen“). Lex rechnet für ihn mit kalten Händen,
+- **Widerstand:** Sie will den Fehler beweisen (Skeptic, W10-A; ihr Wunsch ist vorläufig). Lex rechnet für ihn mit kalten Händen,
   Alex' Kiefer ist gespannt (beides Körper). Seine Erklärung ist zu gut, und genau das fällt auf.
 - **Wende, „Ja, aber“:** Er überzeugt sie für heute. Ihr Bericht geht trotzdem an das System.
 - **→ deshalb:** Der Bericht erreicht AEGIS. Kap 6 ist AEGIS' Antwort.
@@ -183,3 +189,35 @@ bestätigt, mit seinem Kürzel. Die Szene endet auf einem „Nein“, das ein *n
 - **Erfolgsbild:** Der letzte Satz macht Kap 13 unvermeidlich, ohne es anzukündigen.
 
 Ich bewerte Ziel, Wende und Naht mit Stark, OK oder Schwach, als kalter Leser. Den Text schreibst du.
+
+## Die Antworten des Autors (2026-10-05) — Vorlieben, offen, kein Kanon
+
+1. **Gerüst:** die ganze Kette, die Steigerung über den Preis (Kap 2, 5, 9: ein Wert, ein Bericht, ein gelöschter
+   Name), Kap 12 → 13 als festen Endpunkt von Akt I und die Auftritte der Menschen (die Kollegin in 2, 5 und 9, Mara in
+   7, Dorn in 8, die alte Frau in 1 und 10).
+2. **Juna in Kap 4** will **etwas nur für sich**, etwas, das niemandem dient. Kael spürt es und kann es später nicht
+   mehr einordnen.
+3. **Kap 11** zeigt **nur den Rand**: das Schweigen und den Moment vor der Entscheidung, abgerissen am Anruf. Die
+   Trennung selbst und die Fragmentierungsnacht gehören Kap 18.
+4. **Entwurf G:** Alle vier Punkte bleiben. Die linke Hand handelt in Kap 1, das Telefon ist der Einsatz, Kael liest
+   734 bewusst als seine Nummer, und Bit und Joule stehen auf dem Schirm.
+
+## Nachtrag (2026-10-05): Gerüst, vorläufige Ausführung, offene Folge
+
+Nach der Durchsicht aller neun Kap-1-Entwürfe auf PR #169 trennt die Liste drei Ebenen:
+- **beschlossenes Gerüst:** Storyform, Weaving, Übergang 13/14, Kanon;
+- **vorläufige Ausführung:** was aus Entwurf G stammt, etwa die linke Hand als Silas, die Rückfrage in Kap 1, die
+  Saat 251 und die alte Frau auf der Bank;
+- **offene Folge:** was der Plan daraus noch klären muss.
+
+Das verhindert einen Zirkelschluss: Ein Entwurf erzeugt den Plan, und der Plan bestätigt den Entwurf.
+
+**Offen, aus derselben Durchsicht:**
+- Sind Anschluss, Wohneinheit 734 und Kaels eigene Zeile **verschiedene Ziele** der Löschung? Wenn ja, muss der Plan
+  sagen, wie sie zusammenhängen. Wenn nein, zeigt G die Bedrohung früher, als Kap 12 sie annimmt.
+- **Die Frist 06:10** aus Kap 1 muss in Kap 2 eintreten, oder ihre Änderung muss begründet werden. Ein zurückkehrender
+  Wert ersetzt das nicht.
+- **Kap 2, 5, 9:** Jede Stufe der Steigerung braucht eine eigene Aufgabe und eine eigene unumkehrbare Folge, nicht nur
+  eine größere Anzeige.
+- Der nächste Schritt dafür ist eine **Ereignis- und Wissenstabelle für Kap 1–13** (Löschziel, Frist, Kaels Wissen,
+  Leserwissen, bewusste Entscheidung, fremde Tat, Preis, Folgekapitel).

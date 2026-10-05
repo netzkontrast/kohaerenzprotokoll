@@ -1,6 +1,6 @@
 ---
 id: W12
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: []
 frage_art: standard        # schlüssel | schalter | standard | vertagt
 auslöser: "vor dem Treatment von Kap 0 und der Flashbacks in Akt II"
@@ -68,6 +68,16 @@ Quelle entscheidet über die andere.
 Prüfpunkt: Kann eine Szene in Akt II zeigen, was die Trennung gekostet hat, ohne sie zu erklären?
 
 ## Antwort und Abhängigkeiten
+
+**Beantwortet 2026-10-05:**
+- **Ein Ereignis, zwei Ebenen:** Die Genesis und Kaels Fragmentierungsnacht sind dasselbe Ereignis. Kap 0 erzählt es
+  aus AEGIS' Sicht, Kap 18 von innen, Kap 40 geheilt.
+- **AEGIS stammt aus Komponente 734** (die Lesart von `kontext-outline`, L26). Kaels eigenes Verhältnis zu 734 bleibt
+  offen (Q7).
+- **Vier Schritte**, der vierte (Wir-AEGIS-plural) wird erst in Kap 39 vollzogen. C12 ist damit entschieden.
+- Siehe [Entscheidung 025](../decisions/025-dramatica-is-the-recipe.md), Schritt 42.
+
+Früher:
 
 Noch offen. Antwortformat: W12 A/B/C oder frei; bei C: Kael = 734 / wächst aus 734 / Rest,
 und wer der Rest ist. Hängt an keinem anderen Blatt; W4 (Rahmen) hängt an diesem. Schaltet W4, W7 (was der Leser wann über die Herkunft weiß) und W9

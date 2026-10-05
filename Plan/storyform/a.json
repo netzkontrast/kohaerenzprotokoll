@@ -40,7 +40,10 @@
    "Conscious"
   ],
   "focus": "Chaos",
-  "direction": "Order"
+  "direction": "Order",
+  "benchmark": "Conscious",
+  "unique_ability": "Thought",
+  "critical_flaw": "Speculation"
  },
  "IC": {
   "concern": "Past",
@@ -54,7 +57,10 @@
    "Future"
   ],
   "focus": "Actuality",
-  "direction": "Perception"
+  "direction": "Perception",
+  "benchmark": "Progress",
+  "unique_ability": "Actuality",
+  "critical_flaw": "Equity"
  },
  "OS": {
   "concern": "Conceptualizing",
@@ -68,7 +74,8 @@
    "Conceptualizing"
   ],
   "focus": "Knowledge",
-  "direction": "Thought"
+  "direction": "Thought",
+  "benchmark": "Being"
  },
  "RS": {
   "concern": "Understanding",
@@ -82,7 +89,8 @@
   "problem": "Ability",
   "solution": "Desire",
   "focus": "Thought",
-  "direction": "Knowledge"
+  "direction": "Knowledge",
+  "benchmark": "Doing"
  },
  "plot": {
   "requirements": "Learning",
@@ -155,7 +163,7 @@
    ],
    "by": "author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the rope woman, invented in a session (Entwurf I, Plot-Entwurf 1), no source",
    "want": "dass niemand mehr verloren geht — seit sie jemanden am Seil verlor; ihr Gewissen ist die Frage „Wie heißt du?“, sie hält Kael beim Namen fest gegen das Vergessen",
-   "want_by": "author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, taken"
+   "want_by": "author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)"
   },
   {
    "name": "Dorn",
@@ -166,7 +174,7 @@
    ],
    "by": "author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the cynic who believes in thermodynamics, invented in a session (Entwurf H, Plot-Entwurf 1), no source; to be carried into the city",
    "want": "dass seine Schwester in Sektor 04 nicht kocht; seine Versuchung: lösch, was dich bremst, die Physik verzeiht nichts — er zieht Kael zum Vergessen, ohne böse zu sein",
-   "want_by": "author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, taken"
+   "want_by": "author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)"
   },
   {
    "name": "Die alte Frau von der Bank",
@@ -177,7 +185,7 @@
    ],
    "by": "author, casting A-4 (2026-10-05, step 30): the woman Kael saves in Kap 1 (Entwurf G), invented in a session, no source; her want is not yet found",
    "want": "dass sich jemand an sie erinnert; sie glaubt an Kael, bevor er es tut, und kommt wieder, als hätte sie nie gezweifelt",
-   "want_by": "author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, taken"
+   "want_by": "author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)"
   },
   {
    "name": "Die Kollegin an der Konsole",
@@ -188,7 +196,7 @@
    ],
    "by": "author, casting A-4 (2026-10-05, step 30): new — holds Kael's open query for a mistake and wants to prove it",
    "want": "beweisen, dass Kaels offene RÜCKFRAGE ein Fehler ist, und so die Ordnung der Konsole schützen — AEGIS' Zweifel in Menschengestalt",
-   "want_by": "author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, taken"
+   "want_by": "author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)"
   }
  ],
  "open": [],
@@ -313,6 +321,20 @@
   "RS.focus": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)",
   "RS.direction": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)",
   "logline": "author, 2026-10-05, logline (session draft from goal, consequence, costs and outcome)",
-  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)"
+  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)",
+  "OS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — die Rollen und die Fassade: wie lange jeder Anteil seine Rolle hält (Kap 2, 5, 9: Wert, Bericht, gelöschter Name); the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "MC.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — was Kael bewusst weiß — die Spalte „Kael weiß“ der Ereignistabelle, Kapitel für Kapitel; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "IC.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — wie weit Junas Leben ohne Kael weiterläuft (die Spuren in Kap 17, 25); the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "RS.benchmark": "author, 2026-10-05 (step 40): the session's proposal taken — was die Verbindung tut: der Anschluss als Werkzeug, das Klicken, die Präsenz; the placement rule is not public, only that it is a type of the class other than the concern is checked",
+  "MC.unique_ability": "author, 2026-10-05 (step 41): er denkt Dinge zu Ende, rechnet aus Bit und Joule den Preis aus (session's options from the element quads under the concern; the placement rule is not public)",
+  "MC.critical_flaw": "author, 2026-10-05 (step 41): er rechnet mit dem, was sein könnte, statt mit dem, was ist — gelähmt im Wenn-dann (session's options; the placement rule is not public)",
+  "IC.unique_ability": "author, 2026-10-05 (step 41): sie sieht, was wirklich ist, und kann es nicht wegrationalisieren (session's options from the element quads under the concern; the placement rule is not public)",
+  "IC.critical_flaw": "author, 2026-10-05 (step 41): sie gleicht immer aus, für alle, und vergisst sich — „Ich bin für die anderen da, nicht für mich“ (session's options; the placement rule is not public)",
+  "story.catalyst": "author, 2026-10-05 (step 41): das Wartungsfenster: jede Frist von Sektor 04 rückt die Bedrohung näher (a variation; the author chose the idea, then its variation)",
+  "story.inhibitor": "author, 2026-10-05 (step 41): das Vergessen: Oblivion löscht, was Kael nicht erträgt (a variation; the author chose the idea, then its variation)"
+ },
+ "story": {
+  "catalyst": "Threat",
+  "inhibitor": "Denial"
  }
 }

@@ -184,8 +184,8 @@ with the consequences of each option laid out.
 34. **What the four people want (2026-10-05),** from the session's proposals (the archetype and Plot-Entwurf 1), all
     four taken: Mara (Guardian) that no one is lost any more, holding Kael by his name; Dorn (Contagonist) that his
     sister in Sektor 04 does not cook, tempting Kael with deletion; the old woman (Sidekick) to be remembered, believing
-    in Kael before he does; the colleague (Skeptic) to prove Kael's open query a mistake. In `a.json` (`want`), the
-    canon (`Menschen`) and the cards.
+    in Kael before he does; the colleague (Skeptic) to prove Kael's open query a mistake. In `a.json` (`want`) and the
+    cards; the canon row `Menschen` was taken out again the same day (step 38).
 35. **The Kern-Welten carry the acts (2026-10-05):** the act mapping of the worldbuilding concept of 2026-05-08 — KW1
     Kap 1–13, KW2 14–22, KW3 23–28 across the act border, KW4 29–39 with the Vortex; Kap 0 and 40 the frame. W8 answered
     A: separate worlds whose borders cost something. In `weave.json` (`worlds`, checked: no gap, no overlap, KW1 all of
@@ -193,6 +193,44 @@ with the consequences of each option laid out.
     are not decided.
 36. **Argus observes and belongs to no camp (2026-10-05):** he analyses all three and first notices AEGIS' error
     (Kap 19–20); that he does not choose is his limit. In `anteile.json` (camp `Beobachtung`) and the canon (`Lager`).
+37. **The scene list of Akt I is the working basis (2026-10-05):** every chapter 0–13 with goal, opposition, turn and
+    seam (`Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md`), the escalation by price in Kap 2, 5, 9,
+    Kap 12 → 13 as the fixed end of the act, and the four people's appearances. The author's preferences on it — Juna
+    wants something only for herself in Kap 4, Kap 11 shows only the edge of the separation, draft G's four points —
+    are recorded there and **stay open** (step 38).
+38. **No draft becomes canon; the storyform wins (the author, 2026-10-05):** „keep decisions open - dont use drafts as
+    Canon- storyform wins“. A chapter draft, a plot draft or a scene list yields proposals, even one the author picked;
+    what follows from it stays open. Where a draft disagrees with `Plan/storyform/`, the storyform holds. Taken out of
+    `Manuscript/kanon.md` the same day: `Silas` (the left hand in Kap 1, from draft G), `Menschen` (the four people's
+    wants, from Plot-Entwurf 1 — they stay in `a.json` as `want`, provisional), `Davor` and `Kap1-G` (from the scene
+    list and draft G). Step 34's wants are therefore provisional, not canon.
+39. **The scene list of Akt II is the working basis (2026-10-05):** chapters 14–26
+    (`Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md`), the spiral by price, AEGIS' Kap 16 and 22, Kap 26
+    as the camps' choice. The author's preferences, open and not canon (step 38): the border to KW2 costs the left hand
+    (Silas' trace stays in KW1); the four people stay behind in KW1; Kap 18 shows the night without its cause (W12 open).
+40. **The benchmarks (2026-10-05),** the session's proposals taken, one per throughline. A: OS **Being** (how long each
+    part holds its role), MC **Conscious** (what Kael knows, chapter by chapter), IC **Progress** (how far Juna's life
+    moves on without him), RS **Doing** (what the connection does). B: OS **Doing** (the sweeps and their losses), MC
+    **Progress** (the instability that grows despite every sweep), IC **Memory** (what Kael remembers that AEGIS had
+    deleted), RS **Conceiving** (how AEGIS reconceives Kael). The placement rule is in the licensed DSM and not
+    public; `storyform.py` checks only that a benchmark is a type of its class other than the concern, and writes it
+    into the overview and the NCP.
+41. **Unique ability and critical flaw, catalyst and inhibitor (2026-10-05),** chosen by the author from the session's
+    options. A: Kael **Thought** / **Speculation** (he thinks things through, reckons the price from bit and joule /
+    he reckons with what could be, not with what is); Juna **Actuality** / **Equity** (she sees what is real / she
+    always balances, for everyone, and forgets herself). B: AEGIS **Control** / **Oppose** (seamless control / it
+    opposes every movement); Kael **Faith** / **Temptation** (he can believe without checking — the solution AEGIS
+    never takes / forgetting tempts him). Catalyst and inhibitor: A **Threat** (the maintenance window) / **Denial**
+    (forgetting); B **Evidence** (open entries) / **Security** (Mnemosyne). The author chose the idea first, then its
+    variation. `storyform.py` checks only that a unique ability or flaw is an element and a catalyst or inhibitor a
+    variation — every element sits in every class, so the chart can check no more — and writes them into the
+    overview and the NCP, where the profile files catalyst and inhibitor under the objective story.
+42. **W12, the Genesis (2026-10-05).** One event on two levels: the Genesis and Kael's fragmentation night are the same
+    event — Kap 0 tells it from AEGIS' side, Kap 18 from inside, Kap 40 healed; B's MC signpost Past and A's IC
+    signpost Past („Junas Resonanz löst die Genesis-Krise aus“) share it. **AEGIS emerged from Komponente 734**
+    (the reading of `kontext-outline`, not „Kael is 734“); Kael's own relation to 734 stays open (Q7). **Four beats**,
+    the fourth (Wir-AEGIS-plural) completed in Kap 39 — C12 decided. Consequence for the event table of Akt I: the
+    line AEGIS files under 734 in Kap 6 points at AEGIS' own origin, not simply at Kael.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
