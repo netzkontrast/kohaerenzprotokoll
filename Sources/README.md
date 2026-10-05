@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 61 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 61 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 62 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 62 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -277,7 +277,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [AEGIS Manifest: Genesis Krise Reboot](drive/aegis-manifest-genesis-krise-reboot.md) | 2026-04-27 | 5,421 |  | Oblivion 11, Silas 12, Dual-Kernel-Theorie† 12, Isabelle 7, LogOS 11, AEGIS' four sub-functions 2, Moros 3, Selene 3 | Harness 8, Hypervisor 5, Active Inference 7, Realignment 4, Gatekeeper 16 |
 | [Aegis Manifest: Genesis Krise Reboot](drive/aegis-manifest-genesis-krise-reboot-2.md) | 2026-04-27 | 5,557 |  | Silas 10, Oblivion 8, AEGIS' four sub-functions 4, Isabelle 6, LogOS 9, Trennungsprotokoll† 2, Moros 3, Dual-Kernel-Theorie† 2 | Hypervisor 5, K1-Proxy 3, Realignment 5, Harness 3, MemAct 3 |
 | [AEGIS Persona and Manifest Generation](drive/aegis-persona-and-manifest-generation.md) | 2026-04-27 | 4,984 |  | Resonanz-Landschaft† 6, Kairos 12, Sophia 9, Cerberus 15, LogOS 21, AEGIS' four sub-functions 3, Oblivion 3, Silas 3 | Boundary Fortress 6, Garden of Possibilities 7, Hypervisor 3, QUARANTINE 8, Realignment 3 |
-| [KI-Assistent: Romanwelt-Kohärenz und AEGIS-Spec](drive/ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md) | 2026-04-27 | 4,346 |  | Oblivion 3, Silas 3, Personas 2, Dual-Kernel-Theorie 4, Isabelle 2, Entropie† 33, LogOS 2, Guardians 2 | Subagenten 9, Harness 7, State-Freezing 6, Free Energy Principle 8, Active Inference 8 |
+| [KI-Assistent: Romanwelt-Kohärenz und AEGIS-Spec](drive/ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md) | 2026-04-27 | 4,346 | **read** | Oblivion 3, Silas 3, Personas 2, Dual-Kernel-Theorie 4, Isabelle 2, Entropie† 33, LogOS 2, Guardians 2 | Subagenten 9, Harness 7, State-Freezing 6, Free Energy Principle 8, Active Inference 8 |
 
 ### audit
 
@@ -916,7 +916,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Drei ontologische Schichten](../Wiki/candidates/drei-ontologische-schichten.md) | [research-prompt-kohaerenz-protokoll-dramatica-dual-storyform](drive/research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md), [roman-konzept-reduktion-und-kernfindung](drive/roman-konzept-reduktion-und-kernfindung.md) |
 | [ECR](../Wiki/candidates/ecr.md) | — |
 | [Emergenz](../Wiki/candidates/emergenz.md) | [emergenz-autonomer-systeme-aegis-forschung](drive/emergenz-autonomer-systeme-aegis-forschung.md), [narrativ-existenzieller-kohaerenz-nzt-protokoll](drive/narrativ-existenzieller-kohaerenz-nzt-protokoll.md), [interdisziplinaere-recherche-fuer-kohaerenz-protokoll](drive/interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md), [spannungsfelder-und-aegis-meta-framework-analyse-docx](drive/spannungsfelder-und-aegis-meta-framework-analyse-docx.md), [emergenz-aegis-und-selbststrukturierung](drive/emergenz-aegis-und-selbststrukturierung.md), [kohaerenz-protokoll-umfassendes-konzept-mit-prin](drive/kohaerenz-protokoll-umfassendes-konzept-mit-prin.md) |
-| [Entropie](../Wiki/candidates/entropie.md) | [aegis-singularitaet-jenseits-entropiegleichung-2](drive/aegis-singularitaet-jenseits-entropiegleichung-2.md), [kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern](drive/kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern.md), [ki-assistent-romanwelt-kohaerenz-und-aegis-spec](drive/ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md), [kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest](drive/kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md), [kohaerenz-protokoll-2](drive/kohaerenz-protokoll-2.md), [kohaerenz-protokoll-system-realitaet-leser](drive/kohaerenz-protokoll-system-realitaet-leser.md) |
+| [Entropie](../Wiki/candidates/entropie.md) | [aegis-singularitaet-jenseits-entropiegleichung-2](drive/aegis-singularitaet-jenseits-entropiegleichung-2.md), [kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern](drive/kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern.md), [kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest](drive/kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md), [kohaerenz-protokoll-2](drive/kohaerenz-protokoll-2.md), [kohaerenz-protokoll-system-realitaet-leser](drive/kohaerenz-protokoll-system-realitaet-leser.md), [emergenz-autonomer-systeme-aegis-forschung](drive/emergenz-autonomer-systeme-aegis-forschung.md) |
 | [Maximale Entropie-Katastrophe](../Wiki/candidates/entropie-katastrophe.md) | [paradoxien-der-kohaerenz-protokoll-entwicklung](drive/paradoxien-der-kohaerenz-protokoll-entwicklung.md), [welten](drive/welten.md) |
 | [Entropie-Resonanz / Entropie-Resonanz-Protokolle](../Wiki/candidates/entropie-resonanz.md) | — |
 | [Entropie-Signatur](../Wiki/candidates/entropie-signatur.md) | [romananalyse-kohaerenz-plot-kritik](drive/romananalyse-kohaerenz-plot-kritik.md) |

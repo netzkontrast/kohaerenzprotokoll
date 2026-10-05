@@ -368,6 +368,12 @@ the author wants them (*Questions for the author*).
   (`plotanalyse-kohaerenz-protokoll-szenario`). Is the entity M, with Kael as its avatar, a line you still want, and should that
   document be read next?
 
+- **Document 63, `ki-assistent-romanwelt-kohaerenz-und-aegis-spec` (2026-04-27): the writing assistant as AEGIS — research for the
+  novel, or for the tool?** The spec builds a writing assistant whose gatekeeper is AEGIS and whose subsystems are LogOS, Oblivion,
+  Silas and Isabelle (L177–L189) — three of them alters of Kael on the wiki. Its readings are kept on the pages, framed as the
+  spec's. Should documents of this kind (the writing engine's own specs, NCP and Story Mind) be read onto the novel's pages at all,
+  or kept apart — the same question as graph question 6 in `NOW.md`?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*
