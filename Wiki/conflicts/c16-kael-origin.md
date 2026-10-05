@@ -100,3 +100,11 @@ The concept document, section 3.1: AEGIS executed the `Kohärenz Protokoll`, an 
 The Kael biography begins him inside the system, with no earlier origin: „an efficient and willing cog in the vast machine of the AI system, AEGIS“ ^[ai-assisted-narrative-coherence.md:L1079], under the designation `K-1123` ^[ai-assisted-narrative-coherence.md:#1].
 
 It adds a position to the record's table: Kael as the remainder of AEGIS's own division, in the concept document; the biography's verifier unit is a start, not an origin the part gives; the record is not changed.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39
+
+**The outline plans Kael's true genesis as „Komponente 734“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135], hinted in Kap 9, and a genesis recognised as shared trauma of human and machine in Kap 31.**
+
+Kap 9: „Die wahre Genesis von Kael als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135] „Komponente 734“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135], „wird angedeutet“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135]. Kap 31: „Die Genesis wird als gemeinsames Trauma von Mensch und Maschine erkannt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L322], in the chapter where Oblivion shows „dass AEGIS selbst traumatisiert ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L319].
+
+Stands as a plan that links Kael's origin to Komponente 734 and to AEGIS's trauma, without telling the origin out; recorded, not applied.
