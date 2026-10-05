@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 25
-readings: 25
+sources: 26
+readings: 26
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung"]
 gathered: "2026-09-17"
 ---
 
@@ -44,6 +44,10 @@ principle: each section is a `Guardian/Welt-Paar`.
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — controls KW3 Grenzfeste and isolates an unknown intrusion
 
 The editor's report gives the plot document's KW3: „Die paranoide Welt der Abwehr und Isolation, kontrolliert von Cerberus“ ^[scifi-roman-mit-ki-schreiben.md:L90] In its list of the Guardians' misreadings of Juna's influence, `Cerberus` (Sicherheit) takes the manifestation for an intrusion and „versucht, sie zu isolieren und zu neutralisieren“ ^[scifi-roman-mit-ki-schreiben.md:L198]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — KW3 as the domain of Cerberus: defence, paranoia, rigid borders; later a Wächter read as code
+
+In Kap 2 the three-part analysis places Cerberus in the third Kern-Welt: „Cerberus steht für Abwehrmechanismen, Paranoia und rigide Grenzen.“ ^[romanstruktur-und-philosophische-einleitung.md:L49] In Kap 6 the Cerberus aspects soften: „Die bedrohlichen Wächter (Cerberus-Aspekte) werden weniger aggressiv, da ihre Schutzfunktion anerkannt wird.“ ^[romanstruktur-und-philosophische-einleitung.md:L75] In Kap 15 Cerberus is read as a mechanism of AEGIS: it „ist der Abwehrmechanismus, externalisiert als Code“ ^[romanstruktur-und-philosophische-einleitung.md:L150]
 
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — Guardian of the Boundary Fortress, security and the hostility of all novelty
 
