@@ -1,0 +1,80 @@
+# Every number the note and census state, with the command that produced it
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "Szenen-Keim"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Szenen-Keim` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#25]
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "Pivot-Kapitel"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Pivot-Kapitel` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#14]
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "Pacing"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`Pacing` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#23]
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "Citat"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Citat` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#1]
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "Storyform A"
+whole word, case-sensitive     43
+whole word, case-insensitive   43
+including compounds            43
+
+`Storyform A` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#43]
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "Storyform B"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Storyform B` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#39]
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "Hitze"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Hitze` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#10]
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "dreizehn"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`dreizehn` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#1]
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "Throughlines"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Throughlines` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#1]
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "thermischen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`thermischen` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#2]
+$ read.py kohaerenz-protokoll-kapitel-outline-generierung-2 --count "Kael"
+whole word, case-sensitive     67
+whole word, case-insensitive   67
+including compounds            79
+
+`Kael` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#67]
+$ stance_marker_count 63 = 25 + 14 + 23 + 1 (Szenen-Keim, Pivot-Kapitel, Pacing, Citat)
+$ grep -c "^  - \*\*Pacing" Sources/drive/kohaerenz-protokoll-kapitel-outline-generierung-2.md  (labels: 21; plus L61 and L339 = 23)
+21
+$ grep -c "?id=" (question marks all in URLs; profile 5)
+5
+$ table rows of alters: L46..L55 = 10 rows
+$ read.py --count "Mnemosyne-Archipel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Mnemosyne-Archipel` ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:#3]
+$ awk over chapter headings: chapters 1-36 each have a Storyform B and a Storyform A line; 37 and 39 one A line, 38 two A lines

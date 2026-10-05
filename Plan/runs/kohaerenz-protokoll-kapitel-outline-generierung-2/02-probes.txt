@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      54
+  backslash escapes      98
+  typographic marks      102
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  daten    Daten, Datenflut, Datenkorruption, Datenmangel, Datenpaket, Datenpakete, Datenspeicherbänken, Datenströme
+  inter    Interaktion, Interface, Interference, Interferenz, Interferenzen, Internal
+  infor    Information, Informationen, Informationsdichte, Informationskapazität, Informationstheorie
+  lösch    Lösch, Löschen, Löschroutinen, Löschung, Löschvorgang
+  bewus    Bewusstheit, Bewusstsein, Bewusstseins, Bewusstwerdung
+  syste    System, Systemik, Systems, Systemstabilität
+  archi    Archipel, Architektur, Archivar
+  drama    Dramatica, Dramatisch, Dramaturgie
+  eleme    Element, Elemente, Elements
+  endlo    Endlose, Endlosschleife, Endlosschleifen
+  erzäh    Erzählarchitektur, Erzählung, Erzählungen
+  explo    Exploit, Explosion, Explosiv
+  grenz    Grenze, Grenzen, Grenzschutz
+  integ    Integration, Integrity, Integrität
+  narra    Narrativ, Narrativs, Narratologisch
+  proto    Protokoll, Protokolle, Protokolls
+  roman    Roman, Romanprojekt, Romanprojekts
+  siche    Sicherheit, Sicherheitsroutine, Sicherungselement
+  speic    Speicher, Speicherbereichen, Speicherzentrum
+  story    Story, Storyform, Storyforms
+  wider    Widersprüchlichkeit, Widerstand, Widerstandsfähigkeit
+  actio    Action, Actionreich
+  algor    Algorithmische, Algorithmus
+  alter    Alter, Alters
+  analy    Analyse, Analytische
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Alles
+  Alle < Halle
+  Bild < Abbild
+  Bild < Weltbild
+  Bild < Standbild
+  Bild < Spiegelbild
+  Code < Binärcode
+  Code < Quellcode
+  Dies < Diese
+  Form < Formel
+  Form < Storyform
+  Form < Storyforms
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Transformationen
+  Form < Informationsdichte
+  Form < Informationstheorie
+  Form < Informationskapazität
+  Hard < Hardware

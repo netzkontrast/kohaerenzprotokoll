@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-kapitel-outline-generierung-2
+  lines                415  (frontmatter ends at 9)
+  body words           3836
+  headings             49   bold-only lines 0
+  table rows           22   code fences 0
+  question marks       5
+  backslash escapes    98
+  typographic marks    102   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    54
+  repeated labels      Szenen-Keim x25, Pacing x21, Pivot-Kapitel x14, Storyform A (IC: Universe/Past) x7, Storyform A (MC: Mind/Conscious) x6, Storyform A (RS: Psychology/Becoming) x5, Storyform B (IC: Mind/Conscious) x5, Storyform B (RS: Physics/Doing) x5, Storyform A (MC: Mind/Preconscious) x4, Storyform B (MC: Universe/Present) x4, Storyform B (OS: Psychology/Being) x4, Storyform A (OS: Physics/Understanding) x3, Storyform A (RS: Psychology/Being) x3, Storyform B (MC: Universe/Future) x3, Storyform B (OS: Psychology/Becoming) x3
+  longest line         769 chars
+

@@ -50,8 +50,8 @@ treatment, the briefs, the rulebook), is German.
 
 | | |
 |---|---|
-| **Sources** | 586 <!--state:sources.landed--> of 587 <!--state:sources.total--> landed, 84 <!--state:documents.reconciled--> read and reconciled. **Reading is paused on the author's word of 2026-09-28**: „Dont start any new documents" (`NOW.md`). |
-| **Wiki** | 106 <!--state:wiki.pages--> term pages, 16 <!--state:wiki.conflicts--> conflict records, 9 <!--state:wiki.questions--> question pages, and 41 <!--state:wiki.chapters--> chapter pages holding 894 <!--state:chapters.readings--> readings |
+| **Sources** | 586 <!--state:sources.landed--> of 587 <!--state:sources.total--> landed, 85 <!--state:documents.reconciled--> read and reconciled. **Reading is paused on the author's word of 2026-09-28**: „Dont start any new documents" (`NOW.md`). |
+| **Wiki** | 106 <!--state:wiki.pages--> term pages, 16 <!--state:wiki.conflicts--> conflict records, 9 <!--state:wiki.questions--> question pages, and 41 <!--state:wiki.chapters--> chapter pages holding 933 <!--state:chapters.readings--> readings |
 | **Where the sources part** | 156 bullets under `## Where the sources differ` on the chapter pages, and 8 on `Wiki/overview/plot.md` |
 | **What they agree on** | Three parts of thirteen chapters: 1–13, 14–26, 27–39. Akt II's cycles Z1–Z3 fall in 15–17, 18–20 and 21–23, with the Genesis flashbacks in 18–22. Most 2026 plans add a frame, Kap 0 and Kap 40, and the endgame: 27–34, Vortex 1 in 35–36, a false victory in 37, Vortex 2 in 38–39 (`plot.md`, *Where the sources agree*). |
 | **What is decided** | C6, the count only: five Guardians. C9: the Konstrukt-Stadt is KW1. Both were decided by the author on 2026-09-24, and C6's pairing is open in Q5. Decision 006 puts every earlier draft back in question. |
