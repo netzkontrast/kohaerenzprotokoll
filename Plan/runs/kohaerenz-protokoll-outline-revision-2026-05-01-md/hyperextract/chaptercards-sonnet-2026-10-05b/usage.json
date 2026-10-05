@@ -1,0 +1,186 @@
+{
+  "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+  "calls": 33,
+  "failed_calls": 0,
+  "seconds": 391.9,
+  "input_tokens": 143750,
+  "output_tokens": 47054,
+  "cost_usd": 0.8705,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1987,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1501,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 2002,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 900,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1135,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1496,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1187,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 2040,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1139,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1147,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1247,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1282,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1164,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1126,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1208,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1345,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1224,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 2035,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1712,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1894,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 2043,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1176,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1991,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1830,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 1895,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 2012,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1525,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 2007,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 1599,
+      "ok": true
+    },
+    {
+      "chunk": 29,
+      "characters": 1699,
+      "ok": true
+    },
+    {
+      "chunk": 30,
+      "characters": 2027,
+      "ok": true
+    },
+    {
+      "chunk": 31,
+      "characters": 1848,
+      "ok": true
+    },
+    {
+      "chunk": 32,
+      "characters": 1238,
+      "ok": true
+    }
+  ]
+}

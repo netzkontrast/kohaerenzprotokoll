@@ -15,6 +15,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`](kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md/contracts.md) |  |  |  |  |  |  |  |  | 47 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kohaerenz-protokoll-konzept-master-md`](kohaerenz-protokoll-konzept-master-md/contracts.md) |  |  |  |  |  |  | 61 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 128 | 128 |  |  |  |  |
 | [`kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`](kohaerenz-protokoll-meta-foreshadowing-beobachter-logik/contracts.md) | 3 | 0 | ∅ | 2 | 5 | 6 | 5 | 1 | 1* | 1 | 4 | 6 | ∅ | ∅ | ∅ | ∅ | ∅ | 4 | 5 | 31 | 5 | ∅ | 16 | ∅ | 1 | n.s. | 4 | 8 | 22 | ∅ | 5 | 3 |
+| [`kohaerenz-protokoll-outline-revision-2026-05-01-md`](kohaerenz-protokoll-outline-revision-2026-05-01-md/contracts.md) |  |  |  |  |  |  |  |  | 145 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`](kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md/contracts.md) |  |  |  |  |  |  | 70 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 129 | 98 |  |  |  |  |
 | [`kohaerenz-protokoll-philosophischer-bericht-md`](kohaerenz-protokoll-philosophischer-bericht-md/contracts.md) |  |  |  |  |  |  | 80 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 131 | 158 |  |  |  |  |
 | [`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`](kohaerenz-protokoll-storyform-und-outline-2026-06-10-md/contracts.md) |  |  |  |  |  |  | 34 |  | 33 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 110 | 84 |  |  |  |  |
@@ -40,4 +41,4 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`three-mode-architecture-39-chapters-md`](three-mode-architecture-39-chapters-md/contracts.md) |  |  |  |  |  |  |  |  | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-166 runs on 35 sources: 141 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+167 runs on 36 sources: 142 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.

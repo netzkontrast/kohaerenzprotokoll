@@ -1,0 +1,37 @@
+{
+ "source": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+ "runs": [
+  {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 33,
+   "failed_calls": 0,
+   "chunks": 33,
+   "failed_chunks": 0,
+   "cost_usd": 0.8705,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+   "rows": 164,
+   "candidates": 145,
+   "refused": {
+    "surface absent from document": 16,
+    "ambiguous quote: choose its passage": 2,
+    "quote not placed": 1
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  }
+ ]
+}
