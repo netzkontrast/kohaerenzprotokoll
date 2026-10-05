@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 gathered: "2026-09-24"
 ---
 
@@ -42,6 +42,10 @@ The heading is „Transzendenz und das Mosaik-Herz“ ^[kohaerenz-protokoll-hard
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Kap 39
 
 Kap 39 of the outline of 2026-05-01: „Das Mosaik-Herz schlägt“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L338]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — introduced in Kap 11, beating on in Kap 39
+
+The dual-storyform outline lists the concept in Kap 11 beside `Funktionale Multiplizität`: „Funktionale Multiplizität, Mosaik-Herz.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L315] and again as „Das Mosaik-Herz, Ouroboros.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1174] for Kap 39. There the beat reads: „Das Mosaik-Herz schlägt weiter, lebendig gerade wegen der Irregularität“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1176]
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
