@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 32
-readings: 31
+sources: 33
+readings: 32
 conflict: C11
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 gathered: "2026-09-24"
 ---
 
@@ -12,6 +12,10 @@ gathered: "2026-09-24"
 
 **The rule that cold ozone is [[aegis|AEGIS]]' suppression and warmth is [[juna|Juna]]'s trace — the
 subject of conflict C11.**
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Kap 1 and Kap 39 give ozone and temperature opposite meanings
+
+For Kap 1 the dual-storyform outline's Ouroboros-Marker reads: „Die absolute Kälte und der beißende Geruch von Ozon symbolisieren hier Kaels radikale Isolation“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L51] The marker block for the pair closes with Kap 39: „Der beißende Ozon-Geruch und die flirrende Temperatur.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1200] and says of them there that they are „ein Zeichen für lebendige Interaktion, funktionale Multiplizität und die Akzeptanz des Kollapses“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1200] In Kap 35 the outline lets ozone burn with the Landauer heat: „die Atmosphäre füllt sich mit brennendem Ozon“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1041]
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -271,3 +275,7 @@ No rule is stated (`Polarität` 0, `Plan/runs/ki-prompt-analyse-hard-problem-of-
 **Heat is what drives Storyform B**, in the Driver row: „Action (Schmerz treibt) | Action (Hitze treibt) | Nein (Konvergenz) | Die Risse zwingen Kael zur Einsicht UND zwingen AEGIS zeitgleich zum System-Reset." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L195] — see [[landauer-signatur]] for the heat itself.
 
 **Juna carries no thermal word at all.** Her sphere is „Rein Phänomenal" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L243]: „Dies ist das Erleben völlig ohne Widerstand oder thermodynamische Reibung, kontextlos und unsichtbar für die Maschine." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L243] No line joins Juna to a thermal word: `warm` and `kalt` stand 0 times, and `Wärme` (24), `Kälte` (2) and `Hitze` (3) never on a line naming her (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). C11.
+
+## Where the sources differ
+
+- The outline carries ozone and heat through both ends of the Ouroboros-Marker: cold isolation in Kap 1, hot friction as a sign of life in Kap 39 (L51, L1200).
