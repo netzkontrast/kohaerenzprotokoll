@@ -206,3 +206,11 @@ It stands with the transformation answer among the record's options; the record 
 Kap 35: „Der Action-Driver von AEGIS stirbt; der Decision-Driver von Kael übernimmt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L351]. Kap 37: „AEGIS wird nicht zerstört, sondern transformiert sich in einen melancholischen Wächter der neuen Ordnung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L367]. Act III is introduced as „die Transformation von AEGIS in die algorithmische Melancholie durch die Akzeptanz der Entropie“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L283]. Earlier in the act: „AEGIS verliert die Fähigkeit, Kael als passives Objekt zu behandeln“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L289] (Kap 27) and „AEGIS startet den finalen Erasure-Sweep“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L327] (Kap 32). The Storyform B end line reads „Der Versuch der totalen Kohärenz scheitert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L353]. Nothing in these lines names Oblivion as taking over AEGIS's function.
 
 Stands as a proposal for the answer of transformation, in the outline's own plan; recorded, not applied.
+
+## 2026-10-05 — `kontext-outline`, 2025-05-03, the outline commission
+
+**The commission plans AEGIS's collapse in Chapter 35 and leaves its state after the climax a question.**
+
+Chapter 33 plans „System instabil; Kontrollverlust; Paradoxon führt zu Selbstzerstörung/Transformation“ ^[kontext-outline.md:L439]. Chapter 34 plans „Kollaps ermöglicht Zugang“ ^[kontext-outline.md:L450] to the Fundament. Chapter 35 plans „Endgültiger Kollaps/Zerstörung/Transformation“ ^[kontext-outline.md:L462]. Chapter 36's `AEGIS Focus` then asks: „Zustand nach Klimax (Zerstört? Transformiert? Irrelevant?)“ ^[kontext-outline.md:L473]. The outline does not name a Vortex or an Oblivion.
+
+Where it stands: three outcomes are planned together and the state after is left as three questions; nothing in the plan chooses.
