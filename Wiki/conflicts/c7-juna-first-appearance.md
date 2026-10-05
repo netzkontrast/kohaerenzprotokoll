@@ -206,7 +206,7 @@ The master report's position, on its date: a revelation in Akt II, neither Kap 3
 **No appearance placed — a first hint in Kap 3, and Juna never an acting figure.**
 The chapter table's Kap 3: „Erste Juna-Andeutung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L697]. Its rules, under §9.2 and §6.3, both labelled `[K]`: „Juna wird nie als handelnde Figur geschrieben." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L445] „Juna wird nie beschrieben. Sie wird durch ihre Wirkung sichtbar" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L327]
 Kap 33 is „Direkte Berührung der K₁-Reinform" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L721] — „Kap 33 ist aletheia (direkte Berührung der K₁-Reinform)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180] — and whether that touch is Juna the document does not say: the Kap-33 row does not name her, and her own correlate in the figure table is „Coheron / Zeit-Prinzip" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L666]. Kap 38 is „Wir-Geflecht entscheidet zur pluralen Bewahrung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L733], without her. The chapter that names her besides Kap 3 is Kap 30: „K-J-Kanal stabil; Junas implizite Vermittlung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L718].
-Neither Kap 33 nor Kap 38; a hint in Kap 3, where the Konzept-Iteration Genesis has Kael see her first as an echo. The conflict stays open.
+Neither Kap 33 nor Kap 38; a hint in Kap 3, where the Konzept-Iteration [[genesis|Genesis]] has Kael see her first as an echo. The conflict stays open.
 
 ## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
 
@@ -315,3 +315,11 @@ Neither Kap 33 nor Kap 38: this is the open-nature question C7's companion asks,
 **Neither row — a fourth chaptering that has no Kap 33 and no Kap 38, and Juna never appears in body; her one voiced word is a whisper in Kapitel 18.**
 „Widerstehe" ^[kohaerenz-protokoll.md:L1892] — flüsterte eine Stimme aus dem goldenen Licht, named in the same sentence, in „Kapitel 18: Systemantwort" ^[kohaerenz-protokoll.md:L1864]. Before it she is only the light and a name: „Ein warmes, goldenes Licht" ^[kohaerenz-protokoll.md:L176]. Whether she has a body at all is a question the text itself leaves open, once beyond the seam: „War Juna eine Entität innerhalb des Meeres? Oder war sie das Meer?" ^[kohaerenz-protokoll.md:L2298]
 This document's chapters are its own — Kapitel 1–12 and 14–23, with no Kapitel 13 and no Kapitel 33 or 38 to place her in — so the record's two chapters are simply absent rather than contested. On the shared claim, never in body, it agrees with every canon-era source; unlike them it gives her one direct word, whispered rather than „einfach da" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1174]. The conflict stays open.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon proposes that Juna appears once, not earlier than Kap 33 and not later than Kap 37.**
+
+Appendix C.7 (OFFEN) is headed as a plot idea and opens „Vorschlag:“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L750]; the window: „Nicht früher als Kapitel 33, nicht später als Kap 37.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L750] Elsewhere the Kanon holds her never physically described: „Wird nie physisch beschrieben, nur durch Wirkung sichtbar.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L95] and „Juna nie physisch beschreiben, nur durch Wirkung.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L417]
+
+Where it stands in the record's own terms: a proposal, marked as such in the document, for one appearance within Kap 33 to 37.
