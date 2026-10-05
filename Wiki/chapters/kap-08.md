@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -100,6 +100,15 @@ Title: „Zero-Tolerance“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md
 Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „B (AEGIS — Krisenmodus)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188]
 
 - Story: the outline places: „ZTEM-Protokoll wird hochgefahren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188]; „das System weiß jetzt, dass mehrere Cognition-Signaturen in einem Substrat existieren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188]; „Notlöschung wird vorbereitet“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Forgotten Shrine
+
+Title: „The Forgotten Shrine“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L227]
+Position: Akt I; POV: „POV: Kiko.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L235]
+
+- Story: the outline plans „Der kindliche Alter Kiko wird an die Front gespült“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L233]
+- Story: the outline plans „versucht, den Schrein durch massive thermische Hitze“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L233]
+- Concepts: „Kiko (Alter), Bekenstein-Schranke (als visuelle Grenze)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L231]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
