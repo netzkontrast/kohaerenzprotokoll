@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json"]
 gathered: "2026-09-17"
 ---
 
@@ -52,6 +52,10 @@ Kap 25 sets the place „Der Nexus (Das Zentrum von AEGIS).“ ^[kohaerenz-proto
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Kael ascending into the Nexus, glossed as the Überwelt
 
 The Teil II plot has Kael turn from victim to investigator, name AEGIS and „steigt in den Nexus (die Überwelt) auf“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L28]. The report gives the Nexus only there, glossed in its own parenthesis as the Überwelt.
+
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — the Überwelt named Nexus; the ascent of Akt II
+
+The research report gives `Nexus` as the name of the Überwelt in a table row — „Eine abstrakte, metakognitive Ebene der reinen Datenverarbeitung oberhalb von KW1-KW4.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L78] — and in Akt II: „Kael verlässt die physische Simulation und steigt in den“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211] `Nexus` (die Überwelt). In Akt III the collapse reaches it: „Die Membranen zwischen KW1-4, dem Nexus und der Basisrealität zerreißen.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L217]
 
 ## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — The Nexus as the bracketed name of the Überwelt (W-05)
 
