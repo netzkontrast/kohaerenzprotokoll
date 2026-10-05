@@ -1,0 +1,118 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+The document is an analytical report on the novel's 39 chapters plus a cyclic Kapitel 40/0, in three parts, each with an Archetyp, a Dominante Domäne and a Zentraler Konflikt. Terms below are the world's names, the document's own terms, and under the lens heading the borrowed frameworks it applies. The references list at the end names other Drive documents; their titles are left out.
+
+## world
+- Kohärenz Protokoll
+- AEGIS
+- Kael
+- Juna
+- Juna/V
+- Kern-Welt 1 (KW1)
+- Kern-Welt 2 (KW2)
+- Kern-Welt 3 (KW3)
+- Kern-Welt 4 (KW4)
+- KW1
+- KW2
+- KW3
+- KW4
+- Kern-Welt
+- Kernwelten
+- Konstrukt-Stadt
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Kairos
+- Überwelt
+- Externen Ebene
+- Universal Reboot
+- Finde die Naht
+- Glitches
+- Risse
+- Guardians
+- Wächter
+- Manager
+- Exilanten
+- Firefighter
+- Alter
+- Alters
+- Nox
+- Lex
+- Nyx
+- Rhys
+- Kiko
+- Lia
+- Moros
+- Selene
+- Isabell
+- Host
+- Architekt
+- ANP
+- EP
+- Kollaps EP
+- Alltagspersönlichkeit
+- Emotionaler Anteil
+- Selbst
+- Sicheren Ort
+- Kern-Trauma-Erinnerung
+- Kernwunde
+- Separation Protocol
+- Trennungsprotokoll
+- Genesis
+- Fragment 'O'
+- Gärtner-Axiom
+- Kill-Switch
+- Meta-Integration
+- funktionalen Multiplizität
+- Funktionale Multiplizität
+- Ko-Bewusstsein
+- Heilige Hochzeit
+- Hieros Gamos
+- Kapitel 40/0
+- Ouroboros
+- Chaos-Reservate
+- Potentialmeer
+- Systemkern
+- Anomalie
+- ontologische Anomalie
+- Resonanzenergie
+- geshardet
+- Herz der Leere
+- algorithmischer Melancholie
+- Parakonsistenz
+- Entropie
+- Lärm
+- Qualia-Verschiebung
+- Gehirn im Tank
+- dissoziative Amnesie
+- Exilanten-Leere
+- Manager-Strategien
+- informationaler Gewalt
+- Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+
+## lens
+- Heroine’s Journey
+- Hero’s Journey
+- Maureen Murdock
+- Joseph Campbell
+- Internal Family Systems
+- IFS
+- Intellektualisierung
+- Bindungstrauma
+- Uncanny Valley
+- Synästhesie
+- Hard Problem of Consciousness
+- Philosophische Zombies
+- Cogito ergo doleo
+- Gödels Unvollständigkeitssatz
+- Imagery Rescripting
+- Cosmic Horror
+- Solipsismus-Falle
+- Lucid Dreamer
+- Inciting Incident
+- Belly of the Whale
+- Call to Action
+- Trolley-Problem
+- Systemtheorie

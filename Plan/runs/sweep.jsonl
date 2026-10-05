@@ -191,3 +191,6 @@
 {"document": "scifi-roman-mit-ki-schreiben", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the document's title (J9)", "at": "2026-10-05"}
 {"document": "scifi-roman-mit-ki-schreiben", "page": "multiplizitaet", "surface": "Multiplizität", "line": 135, "decision": "reading", "why": "Kael's journey from ignorance of his Multiplizität to acceptance (L135)", "at": "2026-10-05"}
 {"document": "scifi-roman-mit-ki-schreiben", "page": "nexus", "surface": "Nexus", "line": 283, "decision": "occurrence", "why": "`Nexus of Whispers`, a locality of Table 4 (L283) (J12)", "at": "2026-10-05"}
+{"document": "romanstruktur-und-philosophische-einleitung", "page": "emergenz", "surface": "Emergenz", "line": 264, "decision": "occurrence", "why": "Kap 35, the constants recalibrated „um Emergenz zu ermöglichen“ (L264); nothing said of what emerges", "at": "2026-10-05"}
+{"document": "romanstruktur-und-philosophische-einleitung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the document's title (J9)", "at": "2026-10-05"}
+{"document": "romanstruktur-und-philosophische-einleitung", "page": "sophia", "surface": "Sophia", "line": 93, "decision": "reading", "why": "KW4 as `Kairos/Sophia` (L93)", "at": "2026-10-05"}

@@ -1,0 +1,418 @@
+{
+  "document": "romanstruktur-und-philosophische-einleitung",
+  "drive_id": "1BlzTiPzm0K92CmbrKvGv751XNn8kA4oRdB4l3HKsycE",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 111,
+    "decisions": 117,
+    "decided_by_lookup": 92,
+    "needs_judgement": 25
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        39,
+        69,
+        150,
+        168,
+        174,
+        242,
+        246,
+        276,
+        296
+      ],
+      "attribution": "",
+      "note": "AEGIS as the logic of the Überwelt, a system whose guardians are subroutines, offered as paradise, and finally transformed"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        119,
+        125,
+        280
+      ],
+      "attribution": "",
+      "note": "Tabelle 1 maps the alters of Part I by role, world and development"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        49,
+        75,
+        150
+      ],
+      "attribution": "",
+      "note": "KW3 as the domain of Cerberus: defence, paranoia, rigid borders; later a Wächter read as code"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        144,
+        162,
+        164
+      ],
+      "attribution": "",
+      "note": "Entropy as AEGIS's steering element in Kap 14, a weapon in Kap 17"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        61,
+        182,
+        214,
+        216
+      ],
+      "attribution": "",
+      "note": "Juna's link to a reality beyond the simulation, and in Part II a hedged an outside"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        81,
+        290,
+        294
+      ],
+      "attribution": "",
+      "note": "Genesis as the origin the novel returns to in Kap 40/0"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "The Guardians introduced in Kap 2, read as the IFS managers"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "Isabell among the aggressive protectors"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        61,
+        63,
+        214,
+        246
+      ],
+      "attribution": "",
+      "note": "Juna as external reference and emotional anchor, a fearful-avoidant bond, and a real entity outside the system"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        39,
+        73,
+        99,
+        124,
+        140,
+        188,
+        272,
+        306
+      ],
+      "attribution": "",
+      "note": "Kael as the one who wakes in KW1, accepts being many, becomes analyst, and wakes again in KW1 in Kap 40/0"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        93,
+        130
+      ],
+      "attribution": "",
+      "note": "KW4 as the domain of Kairos/Sophia; Selene's world in Table 1"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        39,
+        49,
+        55,
+        93,
+        234,
+        280
+      ],
+      "attribution": "",
+      "note": "KW1 to KW4 in the order Kael meets them, and the Überwelt beyond them"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        55,
+        128
+      ],
+      "attribution": "",
+      "note": "Kiko and Lia as exiled child parts"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        117
+      ],
+      "attribution": "",
+      "note": "KW1 as the Konstrukt-Stadt, first perfect, then seen as a construct"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        49,
+        67,
+        69,
+        99,
+        105,
+        125,
+        180,
+        230
+      ],
+      "attribution": "",
+      "note": "Lex as the analyst who fails at emotion in Kap 5 and becomes a tool"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        55,
+        128
+      ],
+      "attribution": "",
+      "note": "Lia as an exiled child part"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        53,
+        150
+      ],
+      "attribution": "",
+      "note": "LogOS as the domain of KW1, and as one of three Wächter that are subroutines"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        53,
+        127,
+        150
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the domain of KW2 and, in Kap 15, an archive routine"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        87,
+        129
+      ],
+      "attribution": "",
+      "note": "Moros, hedged, as the exile carrying the original trauma"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        33,
+        109,
+        111,
+        230
+      ],
+      "attribution": "",
+      "note": "Functional multiplicity as Part I's central conflict and its goal in Kap 12"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        99,
+        126,
+        230
+      ],
+      "attribution": "",
+      "note": "Nyx as the fighter who turns from attacker to defender"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        284,
+        288,
+        306,
+        310
+      ],
+      "attribution": "",
+      "note": "Kap 40/0 as epilogue and prologue at once, the cycle restarting in KW1"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        222
+      ],
+      "attribution": "",
+      "note": "The Potentialmeer named as part of Part III's dominant domain"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        73,
+        111,
+        127
+      ],
+      "attribution": "",
+      "note": "Rhys as the empathic carer, bridge to the emotions"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        43,
+        117,
+        198
+      ],
+      "attribution": "",
+      "note": "Glitches as repressed content bleeding through in Kap 1, and as the most powerful tool in Kap 23"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        91,
+        130
+      ],
+      "attribution": "",
+      "note": "Selene as the self-aspect leading integration"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        93
+      ],
+      "attribution": "",
+      "note": "Sophia named with Kairos as the domain of KW4"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        284,
+        296
+      ],
+      "attribution": "",
+      "note": "The Trennungsprotokoll as the title of Kap 40/0, activated by necessity not malice"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15,
+        85
+      ],
+      "attribution": "",
+      "note": "TSDP as the model behind the collision with AEGIS and the core-trauma memory as its heart"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        136,
+        144,
+        234
+      ],
+      "attribution": "",
+      "note": "The Überwelt as Part II's dominant domain and AEGIS's administrative heart"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C12",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 264,
+      "decision": "occurrence",
+      "why": "Kap 35, the constants recalibrated „um Emergenz zu ermöglichen“ (L264); nothing said of what emerges"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the document's title (J9)"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 93,
+      "decision": "reading",
+      "why": "KW4 as `Kairos/Sophia` (L93)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

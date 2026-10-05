@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 73 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 73 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 74 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 74 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -583,7 +583,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kohärenz Protokoll: Konzeptionelle Themen & Struktur](drive/kohaerenz-protokoll-konzeptionelle-themen-struktur.md) | 2025-11-25 | 3,732 |  | Negentropie 2, Kollaps-Kernel 2, Moros 3, Rhys 3, Algorithmische Melancholie 2, Dual-Kernel-Theorie† 2, TSDP 9, Cerberus 2 | Ergosphäre 5, Brane 4, Protokoll-Ontologie 3, Bulk 4, Photonensphäre 2 |
 | [Roman Kapitel 1 Generierungsprozess](drive/roman-kapitel-1-generierungsprozess.md) | 2025-11-25 | 4,499 |  | Negentropie 4, Silas 2, Nyx 6, Konstrukt-Stadt 2, Moros 2, Juna 8, Risse 14, Entropie 5 | Ergosphäre 7, Z-Fighting 5, Brane 4, Photonensphäre 3, Bulk 4 |
 | [Romanstruktur: 3 Teile, 39 Kapitel, 1 Anfang](drive/romanstruktur-3-teile-39-kapitel-1-anfang.md) | 2025-12-18 | 4,745 |  | Kishōtenketsu 11, Cache-Kohärenz† 5, DID 2, TSDP 3, Kael 52, Risse 5, Überwelt 5, AEGIS 27 | LeanRAG 14, Ketsu 6, Retrieval-Augmented 2, NP 12, Orakel 4 |
-| [Romanstruktur und philosophische Einleitung](drive/romanstruktur-und-philosophische-einleitung.md) | 2025-12-18 | 5,362 |  | Trennungsprotokoll† 3, Cerberus 6, Mnemosyne 5, Genesis 3, Rhys 4, Multiplizität 5, Lex 10, Kairos 2 | Exilanten 7, Maureen 2, Gott 4, Manager 5, Wächter 9 |
+| [Romanstruktur und philosophische Einleitung](drive/romanstruktur-und-philosophische-einleitung.md) | 2025-12-18 | 5,362 | **read** | Trennungsprotokoll† 3, Cerberus 6, Mnemosyne 5, Genesis 3, Rhys 4, Multiplizität 5, Lex 10, Kairos 2 | Exilanten 7, Maureen 2, Gott 4, Manager 5, Wächter 9 |
 | [Kohärenz-Analyse: Kapitel 2](drive/kohaerenz-analyse-kapitel-2.md) | 2025-12-28 | 2,681 |  | Oblivion 3, Genesis 6, Konstrukt-Stadt 7, Grenzfeste 2, Cache-Kohärenz 2, Resonanz-Landschaft 2, Cerberus 4, LogOS 6 | Wir-Geflecht 3, Blinder Fleck 3, Praetor 3, Nox 3, Limina 2 |
 | [Roman-Kapitel 1 Erstellung & Analyse](drive/roman-kapitel-1-erstellung-analyse.md) | 2025-12-28 | 3,443 |  | Cache-Kohärenz 3, Konstrukt-Stadt 9, LogOS 10, Kairos 4, Cerberus 3, Mnemosyne 3, Guardians 3, Juna 8 | Nox 7, Zero-Trust-Architektur 2, Stadt 11, Depersonalisation 2, Kohärenz-Protokolls 3 |
 | [KI-Architektur für Kohärenz und Skalierbarkeit](drive/ki-architektur-fuer-kohaerenz-und-skalierbarkeit.md) | 2026-01-02 | 3,940 |  | Vortex 3, Personas 2, Entropie 8, Kohärenz 8 | KG 4, Constitutional AI 3, Neo4j 3, LLM 17, Graph 9 |
