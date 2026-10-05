@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -97,6 +97,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Encoding A: „RS · SP1 (Understanding) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L184]
 - The seeding table calls it „Erste volle Resonanz-Berührung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L144].
 - Change 3 puts it: „Erst Kap 7 manifestiert sie als Resonanzbruch im Schrein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L21].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Mnemosyne Archipelago
+
+Title: „The Mnemosyne Archipelago“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L193]
+Position: Akt I; POV: „POV: Nyx / Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L201]
+
+- Story: the outline plans „nicht als Feind, sondern als manipulative Kuratorin“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L199]
+- Concepts: „Mnemosyne, EPs (Emotionale Anteile)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L197]
+- Pivot-Marker: „SF-B Tendenz zu Failure, da Mnemosyne die EPs nicht eindämmen kann“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L225]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
