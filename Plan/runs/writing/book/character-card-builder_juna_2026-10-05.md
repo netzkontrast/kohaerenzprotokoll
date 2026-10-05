@@ -21,15 +21,24 @@ Sekunden des Anrufs von ihr?
 **A2.** „Kael und Juna empfinden sich als schon immer bekannt- Instant Urvertrauen- und das Gefühl hat uns verbunden -
 auch über Zeit hinweg - also gab es auch diese Momente wo einfach Dinge klar waren ohne klar sein zu müssen-“
 
+**F3.** Erzähl mir einen einzigen solchen Moment zwischen Kael und Juna. Was war da klar, ohne dass es jemand
+aussprach, und was tat Juna in dem Moment?
+
+**A3.** „Sie sagte nichts - und ich auch nicht- obwohl wir wussten das wir ein paar werden würden wenn einer was sagt-
+und nach wirklich langer Wartezeit- sagt sie ihm das sie ihre alte Beziehung wählt- und dennoch war irgendwie klar dass
+das nichts an ihrem Urvertrauen ineinander ändern kann“
+→ im Buch: der Anruf. Beide schweigen, obwohl beide wissen, dass sie ein Paar würden, wenn einer spräche. Nach langer
+Wartezeit sagt Juna, dass sie ihre alte Beziehung wählt. Klar bleibt, dass das ihr Urvertrauen ineinander nicht ändert.
+
 ## Die Karte, so weit
 
 | Feld | Stand |
 |---|---|
 | Function | IC von Storyform A (Change), Signposts Past → Progress → Present → Future (Entscheidung 025) |
-| Want | offen |
+| Want | offen. Ihre erste Tat im Buch ist eine Wahl: Sie wählt ihre alte Beziehung (A3). |
 | Need | offen |
 | Wound → Lie | offen |
-| Contradiction | offen |
+| Contradiction | Kandidat, aus A3: Sie wählt die alte Beziehung, und das Urvertrauen zu Kael bleibt unberührt. Noch nicht als Widerspruch bestätigt. |
 | Arc | offen |
 | Voice | offen |
 | Relationships | Kael: „schon immer bekannt“, „Instant Urvertrauen“, über Zeit hinweg; Momente, „wo einfach Dinge klar waren ohne klar sein zu müssen“ (A2). Vorfreude auf stundenlange Telefonate (A1). |
