@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -122,6 +122,14 @@ Position: Akt II; POV: „POV: Lex, Kiko, Nyx.“ ^[kohaerenz-protokoll-kapitel-
 - Story: the outline plans „Ein kritisches Ereignis auf der Flucht wird dreimal hintereinander geschildert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L585]
 - Concepts: „Mosaik-Sprung, Phänomenales Selbstmodell“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L583]
 - Pivot-Marker: „Chaos — Action und Decision interferieren destruktiv“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L609]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Der Midpoint — Das Parakonsistente Gambit
+
+Title: „Der Midpoint — Das Parakonsistente Gambit“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L223] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]; „Pivot-Kapitel“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L225]
+
+- Story: the dual-storyform outline plans „Die Konstrukt-Stadt ist AEGIS’ Versuch, Kaels Trauma zu“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L225]
+- Storyforms: `Storyform B` (`OS: Psychology/Conceptualizing`): „AEGIS’ Weltbild bekommt erste Risse“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L227]; `Storyform A` (`OS: Physics/Learning`): „Kael lernt, die parakonsistente Logik als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L228]
+- Scene and pacing: `Szenen-Keim`: „Ein brennendes Buch“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L229]; `Pacing`: „Hektisch, Schock-Elemente“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L230]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
