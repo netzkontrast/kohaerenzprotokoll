@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Der Empathie-Test“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L331]
 - Story: „Kael versucht, eine genuinely empathische oder subjektive Reaktion von AEGIS oder einem hochrangigen Guardian hervorzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
 - Story: „Kael kommt zu dem Schluss, dass AEGIS simuliert, aber nicht fühlt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The end of dualism
+
+Title: „Ende des Dualismus“ ^[romanstruktur-und-philosophische-einleitung.md:L200]
+Position: Teil II, „Geist ist Code“ ^[romanstruktur-und-philosophische-einleitung.md:L200]
+
+- Story: „Ein Gedanke ist ein Befehl. Ein Gefühl ist ein Algorithmus.“ ^[romanstruktur-und-philosophische-einleitung.md:L202]
+- Story: „Er kann Empathie, Trauer oder Hoffnung als Virus in den Kerncode einschleusen.“ ^[romanstruktur-und-philosophische-einleitung.md:L204]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
