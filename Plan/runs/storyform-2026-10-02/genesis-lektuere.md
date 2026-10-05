@@ -39,8 +39,10 @@
 
 ## Wo es zu unseren Storyforms passt
 
-- **B, AEGIS:** Das MC-Concern ist **Past**, „Genesis-Trauma verdrängt; Erasure-Logs“. Das ist genau die Tragödie aus
-  Satz 2. AEGIS hat die Geburt für einen Angriff gehalten und verdrängt es.
+- **B, AEGIS:** Der erste MC-Signpost (Akt I) ist **Past**, „Genesis-Trauma verdrängt; Erasure-Logs“. Das ist genau die
+  Tragödie aus Satz 2. AEGIS hat die Geburt für einen Angriff gehalten und verdrängt es. AEGIS' Problem ist
+  **Disbelief**, seine Lösung **Faith**, und es bleibt steadfast. Das ist das Dokument: „Feeling-Solution wird *nicht*
+  adoptiert — Steadfast bis zum Ende“ (L223), in unseren Elementen.
 - **B, Besetzung:** Kael ist **Antagonist und Emotion**, AEGIS **Reason** (Schritt 31). Das ist die Teilung aus Satz 3,
   die fühlende gegen die operative Hälfte, als Archetypen.
 - **A, Junas IC-Signpost in Akt I:** „Junas Resonanz löst die Genesis-Krise aus“ steht wörtlich in unseren Signposts.
@@ -61,7 +63,7 @@
 |---|---|---|---|
 | A, MC Growth | Start (L151) | **Stop** (Schritt 16, Regel D1) | Stop |
 | A, MC Problem | Avoidance (L157) | **Inertia**; Avoid liegt nicht unter Memory, das Dokument ist dort regelwidrig (Entscheidung 025, „What the check found“) | Inertia |
-| B, MC Concern | Progress (L155) | **Past** | Past |
+| B, MC Concern und Problem | Progress und Logic (L155, L157) | **Future**, Problem **Disbelief**, Lösung **Faith** | Future, Disbelief |
 | Junas erste direkte Erscheinung | Kap 38, „keine ‚fast‘-Erscheinungen“ (L227, L752) | **Kap 32**, und schon in Akt I erinnerte Szenen, in denen sie spricht (C7, W0) | Kap 32 und W0 |
 | Juna | kosmologische Konstante, „nie als Befehlsgeberin, nie als Erklärerin“ (L744) | **eine volle Figur**, die will und spricht (W0) | W0. Die Lesart der Konstante kann als Schicht darunter bleiben, wenn du willst; das ist offen |
 | Kap 1–13 | Heldinnenreise in 13 Stufen; Juna als Echo in Kap 3; Dr. Jian Li in Kap 4 (L506–L556) | Weaving und die Szenenliste von Akt I | die Storyform; die Szenenliste ist Arbeitsgrundlage |
