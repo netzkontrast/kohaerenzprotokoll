@@ -9,8 +9,12 @@ script reads them and writes nothing else into them:
   * refuses a value without provenance, and a provenance naming no value;
   * compares the values with what `dramatica.derive` fixes from the twelve answers (D1–D7) and reports every
     disagreement — a disagreement is not an error, it is a question for the author;
-  * writes `Plan/storyform/overview.md` (generated — never edit it) and `Plan/storyform/ncp/storyform-{a,b}.ncp.json`
-    (NCP 1.3.0, the shape of the ncp-author skill; status `draft`, nothing undecided is filled in).
+  * refuses a storyweaving scaffold (`weave.json`, step 23) that leaves a signpost unwoven, a bridge without one
+    of the five anchors, a bridge band overrun, a hard-b count the author did not set, or a chapter without provenance;
+  * writes `Plan/storyform/overview.md` (generated — never edit it) and `Plan/storyform/ncp/kohaerenz-protokoll.ncp.json`
+    (NCP 3.0.0-rc.1, step 24: the core envelope, both narratives in the `dramatica:` payload, the chapters as story
+    moments; status `draft`, nothing undecided is filled in). Validate it with the author's fork:
+    `node tests/validate-file.js` in netzkontrast/narrative-context-protocol.
 
     python3 scripts/storyform.py            # check, compare, write
     python3 scripts/storyform.py --check    # exit 1 if anything is refused or a written file is stale
@@ -57,6 +61,7 @@ def leaves(sf):
     for t in TL:
         out.update({f"{t}.{k}": v for k, v in sf[t].items()})
     out.update({f"plot.{k}": v for k, v in sf["plot"].items()})
+    out.update({k: sf[k] for k in ("logline", "genre") if sf.get(k)})
     return out
 
 
@@ -95,7 +100,7 @@ def audit(sf):
     return errors, bad + diff
 
 
-def ncp(sf):
+def ncp(sf, weave=None):
     k, tx = sf["storyform"].lower(), sf["texts"]
     src = f"Entscheidung des Autors ({sf['decision']})"
     persp = [{"id": PID[t], "author_structural_pov": tx["perspectives"][t][0], "summary": tx["perspectives"][t][1],
@@ -142,13 +147,43 @@ def ncp(sf):
                           "summary": tx["signposts"].get(f"{t}.{typ}", tx["signposts"].get(typ, typ)),
                           "storytelling": f"{sf['chapters'][str(i)]}. Herkunft: {prov[f'{t}.signposts']}; nicht berechnet.",
                           "perspectives": [{"perspective_id": PID[t]}]})
+    OPEN = "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)"
+    players = []
+    for p in sf["players"]:
+        pid = "player_" + "".join(ch for ch in p["name"].split()[0].lower() if ch.isalnum())
+        tls = [t for t, word in (("MC", "Main Character"), ("IC", "Influence Character")) if word in p["role"]]
+        players.append({"id": pid, "name": p["name"], "role": p["role"], "visual": OPEN, "audio": OPEN,
+                        "summary": f"{p['role']}; im OS: {', '.join(nf(e) for e in p['os_elements'])}",
+                        "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                        "storytelling": f"Herkunft: {p['by']}.",
+                        "motivations": [{"narrative_function": nf(e), "illustration": f"{p['name']} trägt {e} im OS.",
+                                         "storytelling": f"Herkunft: {p['by']}."} for e in p["os_elements"]],
+                        "perspectives": [{"perspective_id": PID[t]} for t in ["OS", *tls]]})
+    overviews = [{"id": f"overview_{k}_{label.lower()}", "label": label, "summary": sf[key],
+                  "storytelling": f"Herkunft: {prov[key]}."}
+                 for label, key in (("Logline", "logline"), ("Genre", "genre")) if sf.get(key)]
+    moments = []
+    side = sf["storyform"]
+    for n in range(41):
+        c = (weave or {}).get("chapters", {}).get(str(n))
+        if not c or not c[side]:
+            continue
+        a = act_of(weave, n) or 1
+        moments.append({"id": f"moment_kap_{n:02d}", "act": a, "order": n,
+                        "summary": f"Kap {n} · {c['route']}" + (f" · Anker: {c['anchor']}" if c["anchor"] else ""),
+                        "synopsis": OPEN, "setting": OPEN, "timing": OPEN,
+                        "imperatives": "trägt " + ", ".join(f"{TL[t]} Signpost {a} ({sf[t]['signposts'][a - 1]})"
+                                                            for t in c[side]),
+                        "audience_experiential_pov": "first_person_central",
+                        "storybeats": [{"sequence": i, "storybeat_id": f"beat_{t.lower()}_signpost_{a}"}
+                                       for i, t in enumerate(c[side], 1)]})
     return {"schema_version": "1.3.0", "story": {
-        "id": f"story_kp_storyform_{k}", "title": "Kohärenz Protokoll — " + sf["title"], "logline": "", "genre": "",
+        "id": f"story_kp_storyform_{k}", "title": "Kohärenz Protokoll — " + sf["title"], "logline": sf.get("logline", ""), "genre": sf.get("genre", ""),
         "created_at": "2026-10-05T00:00:00Z",
         "narratives": [{"id": f"narrative-{k}", "title": sf["title"], "status": "draft",
-                        "subtext": {"perspectives": persp, "players": [], "dynamics": dyn, "storypoints": sps,
+                        "subtext": {"perspectives": persp, "players": players, "dynamics": dyn, "storypoints": sps,
                                     "storybeats": beats},
-                        "storytelling": {"overviews": [], "moments": []}}]}}
+                        "storytelling": {"overviews": overviews, "moments": moments}}]}}
 
 
 def overview(forms):
@@ -161,8 +196,10 @@ def overview(forms):
     for k in twelve(a):
         L.append(f"| {k} | {twelve(a)[k]} | {twelve(b)[k]} |")
     for sf in forms:
-        L += ["", f"## {sf['title']}", "",
-              "| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |", "|---|---|---|---|---|---|---|"]
+        L += ["", f"## {sf['title']}", ""]
+        L += [f"**Logline:** „{sf['logline']}\"", ""] if sf.get("logline") else []
+        L += [f"**Genre:** {sf['genre']}", ""] if sf.get("genre") else []
+        L += ["| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |", "|---|---|---|---|---|---|---|"]
         for t in TL:
             s = sf[t]
             L.append(f"| {t} | {sf['classes'][t]} | {s.get('concern', '—')} | {s.get('issue', '—')} | "
@@ -180,6 +217,137 @@ def overview(forms):
     return "\n".join(L)
 
 
+ROUTES = {"hard-a", "hard-b", "bridge"}
+
+
+def act_of(weave, n):
+    """The act (1–4) a chapter's signposts belong to; B's prologue (Kap 0) is B's act 1; None outside the acts."""
+    for k, (lo, hi) in weave["acts"].items():
+        if lo <= n <= hi:
+            return int(k)
+    return None
+
+
+def weave_audit(weave, forms):
+    """Errors in the storyweaving scaffold `weave.json` (decision 025 step 23); [] when it holds."""
+    errors, ch = [], weave["chapters"]
+    missing = [n for n in range(41) if str(n) not in ch]
+    if missing:
+        errors.append(f"chapters missing: {missing}")
+    for key, c in ch.items():
+        n = int(key)
+        if c["route"] not in ROUTES:
+            errors.append(f"Kap {n}: route {c['route']!r} is none of {sorted(ROUTES)}")
+        if (c["route"] == "bridge") != (c["anchor"] is not None):
+            errors.append(f"Kap {n}: a bridge names an anchor, nothing else does")
+        if c["anchor"] is not None and c["anchor"] not in weave["anchors"]:
+            errors.append(f"Kap {n}: anchor {c['anchor']!r} is not one of the five")
+        for side in ("A", "B"):
+            bad = [t for t in c[side] if t not in TL]
+            if bad:
+                errors.append(f"Kap {n}: {side} names {bad}, not a throughline")
+        inside = act_of(weave, n) is not None or n == weave["b_prologue"]
+        if inside and c["route"] in ("hard-a", "bridge") and not c["A"]:
+            errors.append(f"Kap {n}: route {c['route']} carries no throughline of A")
+        if inside and c["route"] in ("hard-b", "bridge") and not c["B"]:
+            errors.append(f"Kap {n}: route {c['route']} carries no throughline of B")
+        if n == weave["b_prologue"] and c["A"]:
+            errors.append(f"Kap {n}: the prologue is B's alone")
+    for k in weave["acts"]:
+        for side in ("A", "B"):
+            nums = [n for n in map(int, ch) if act_of(weave, n) == int(k) or (side == "B" and k == "1" and n == weave["b_prologue"])]
+            have = {t for n in nums for t in ch[str(n)][side]}
+            if have != set(TL):
+                errors.append(f"act {k}: {side} never carries {sorted(set(TL) - have)} — its signpost goes unwoven")
+    for block, want in weave["bands"].items():
+        lo, hi = map(int, block.split("-"))
+        nums = [n for n in range(lo, hi + 1) if str(n) in ch]
+        share = 100 * sum(ch[str(n)]["route"] == "bridge" for n in nums) / max(len(nums), 1)
+        if abs(share - want) > weave["band_tolerance"]:
+            errors.append(f"Kap {block}: bridges {share:.0f} %, the band is {want} ± {weave['band_tolerance']}")
+    for k, want in weave["hard_b"].items():
+        nums = [n for n in map(int, ch) if (n == weave["b_prologue"] if k == "0" else act_of(weave, n) == int(k) and n != weave["b_prologue"])]
+        got = sum(ch[str(n)]["route"] == "hard-b" for n in nums)
+        if got != want:
+            errors.append(f"act {k}: {got} hard-b chapters, the author set {want}")
+    prov = weave["provenance"]["chapters"]
+    errors += [f"Kap {n}: no provenance" for n in ch if n not in prov]
+    errors += [f"provenance for Kap {n}, which the weave does not have" for n in prov if n not in ch]
+    return errors
+
+
+def weave_table(weave, forms):
+    a, b = forms
+    L = ["", "## Storyweaving (Gerüst)", "",
+         "Aus `weave.json` (Entscheidung 025, Schritt 23). Route nach dem Skill chapter-draft-engine: hard-a = Kael "
+         "und die Alters, hard-b = AEGIS als Ich (W6 C), bridge = beide Ebenen in einer Szene. Ein Strang steht mit "
+         "dem Signpost seines Akts. Bestätigt je Akt: "
+         + ", ".join(f"{k} {'ja' if v else 'nein'}" for k, v in weave["approved"].items()) + ".", "",
+         "| Kap | Akt | Route | A | B | Anker |", "|---|---|---|---|---|---|"]
+    for n in range(41):
+        c = weave["chapters"].get(str(n))
+        if not c:
+            continue
+        k = act_of(weave, n) or (1 if n == weave["b_prologue"] else None)
+        sp = lambda sf, t: f"{t}·{sf[t]['signposts'][k - 1]}" if k else t
+        L.append(f"| {n} | {k or '—'} | {c['route']} | {', '.join(sp(a, t) for t in c['A']) or '—'} | "
+                 f"{', '.join(sp(b, t) for t in c['B']) or '—'} | {c['anchor'] or '—'} |")
+    L += ["", "Offen: " + "; ".join(weave["open"])]
+    return L
+
+
+NCP_VERSION, PROFILE_VERSION = "3.0.0-rc.1", "1.0.0-rc.1"
+NARRATIVE = {"A": "narrative-a", "B": "narrative-b"}
+
+
+def ncp3(forms, weave):
+    """One NCP 3.0.0-rc.1 document for the book (decision 025 step 24): the core envelope, and in the `dramatica:`
+    payload one story with both narratives and the chapters as story-level moments that reference both."""
+    parts = {sf["storyform"]: ncp(sf)["story"] for sf in forms}
+    narratives = []
+    for side, st in parts.items():
+        n = st["narratives"][0]
+        n["id"] = NARRATIVE[side]
+        n["storytelling"] = {"overviews": n["storytelling"]["overviews"]}
+        narratives.append(n)
+    a = forms[0]
+    moments = []
+    for k in range(41):
+        c = weave["chapters"][str(k)]
+        act = act_of(weave, k) or 1
+        refs = [(side, t) for side in ("A", "B") for t in c[side]]
+        sig = {sf["storyform"]: sf for sf in forms}
+        moments.append({
+            "id": f"moment_kap_{k:02d}", "act": act, "order": k,
+            "summary": f"Kap {k} · {c['route']}" + (f" · Anker: {c['anchor']}" if c["anchor"] else ""),
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment", "timing": "offen — das Treatment",
+            "imperatives": ("trägt " + "; ".join(f"{side} {TL[t]} Signpost {act} ({sig[side][t]['signposts'][act - 1]})"
+                                                for side, t in refs)) if refs else "Coda außerhalb der Akte, kein Signpost",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [{"sequence": i, "narrative_id": NARRATIVE[side], "storybeat_id": f"beat_{t.lower()}_signpost_{act}"}
+                           for i, (side, t) in enumerate(refs, 1)],
+            "storypoints": []})
+    story = {"id": "story_kohaerenz_protokoll", "title": "Kohärenz Protokoll", "logline": a["logline"], "genre": a["genre"],
+             "created_at": "2026-10-05T00:00:00Z", "narratives": narratives, "moments": moments}
+    return {"ncp_version": NCP_VERSION,
+            "document": {"id": "document_kohaerenz_protokoll", "created_at": "2026-10-05T00:00:00Z",
+                         "provenance": [{"at": "2026-10-05T00:00:00Z",
+                                         "action": "written by scripts/storyform.py from Plan/storyform/a.json, b.json and "
+                                                   "weave.json (decision 025); migrated from two NCP 1.3.0 files (step 24)"}]},
+            "story": {"id": "story_kohaerenz_protokoll"},
+            "profiles": [{"namespace": "dramatica:", "profile_version": PROFILE_VERSION,
+                          "schema": f"https://narrativecontextprotocol.com/profiles/dramatica/{PROFILE_VERSION}/profile-schema.json"}],
+            "payloads": {"dramatica:": {"namespace": "dramatica:", "profile_version": PROFILE_VERSION,
+                                        "dsm_version": "the 1995/1999 chart, checked by scripts/dramatica.py — not the licensed DSM",
+                                        "storyform": story}}}
+
+
+def load_weave():
+    p = HOME / "weave.json"
+    return json.loads(p.read_text()) if p.exists() else None
+
+
 def load():
     return [json.load(open(HOME / f"{k}.json")) for k in "ab"]
 
@@ -193,12 +361,18 @@ def run(check_only=False):
         for n in notes:
             print(f"note  {sf['storyform']}: {n}")
         failed |= bool(errors)
+    weave = load_weave()
+    for e in weave_audit(weave, forms) if weave else []:
+        print(f"ERROR weave: {e}")
+        failed = True
     if failed:
         print("refused: nothing written")
         return 1
-    want = {HOME / "overview.md": overview(forms)}
-    for sf in forms:
-        want[HOME / "ncp" / f"storyform-{sf['storyform'].lower()}.ncp.json"] = json.dumps(ncp(sf), ensure_ascii=False, indent=2) + "\n"
+    text = overview(forms)
+    if weave:
+        text = text.rstrip("\n") + "\n" + "\n".join(weave_table(weave, forms)) + "\n"
+    want = {HOME / "overview.md": text}
+    want[HOME / "ncp" / "kohaerenz-protokoll.ncp.json"] = json.dumps(ncp3(forms, weave), ensure_ascii=False, indent=2) + "\n"
     stale = [p for p, text in want.items() if not p.exists() or p.read_text() != text]
     if check_only:
         for p in stale:
@@ -233,8 +407,39 @@ def selftest():
     drift["MC"].update({"issue": "Truth"})                  # still legal by the chart? no — Inertia is under Suspicion
     if not audit(drift)[0] and not audit(drift)[1]:
         fails.append("a changed issue went unnoticed")
-    doc = ncp(good)
+    weave = load_weave()
+    if weave:
+        forms = load()
+        if weave_audit(weave, forms):
+            fails.append(f"the live weave is refused: {weave_audit(weave, forms)[:2]}")
+        for name, edit, want in [
+                ("a throughline left unwoven", lambda w: [w["chapters"][str(n)].update(A=["MC"]) for n in range(1, 14)
+                                                          if w["chapters"][str(n)]["A"]], "never carries"),
+                ("a bridge without an anchor", lambda w: w["chapters"]["13"].update(anchor=None), "anchor"),
+                ("a band overrun", lambda w: [w["chapters"][str(n)].update(route="bridge", anchor="Riss-Szene", B=["MC"])
+                                              for n in (1, 2, 3, 4)], "the band is"),
+                ("a hard-b count the author did not set", lambda w: w["chapters"]["6"].update(route="hard-a", A=["MC"]),
+                 "the author set"),
+                ("a chapter without provenance", lambda w: w["provenance"]["chapters"].pop("7"), "no provenance")]:
+            w = json.loads(json.dumps(weave))
+            edit(w)
+            if not any(want in e for e in weave_audit(w, forms)):
+                fails.append(f"{name} was accepted")
+    doc = ncp(good, weave)
     beats = doc["story"]["narratives"][0]["subtext"]["storybeats"]
+    moments = doc["story"]["narratives"][0]["storytelling"]["moments"]
+    if weave and not moments:
+        fails.append("the weave wrote no NCP moment")
+    if {r["storybeat_id"] for m in moments for r in m["storybeats"]} - {b["id"] for b in beats}:
+        fails.append("an NCP moment names a storybeat that does not exist")
+    if weave:
+        doc3 = ncp3(load(), weave)
+        st = doc3["payloads"]["dramatica:"]["storyform"]
+        have = {(n["id"], b["id"]) for n in st["narratives"] for b in n["subtext"]["storybeats"]}
+        if {(r["narrative_id"], r["storybeat_id"]) for m in st["moments"] for r in m["storybeats"]} - have:
+            fails.append("an NCP 3 story moment names a storybeat its narrative does not have")
+        if len(st["moments"]) != 41 or doc3["story"]["id"] != st["id"]:
+            fails.append("the NCP 3 document lost a chapter or its story ids disagree")
     if len({(x["throughline"], x["sequence"]) for x in beats}) != len(beats):
         fails.append("NCP signposts collide")
     for f in fails:

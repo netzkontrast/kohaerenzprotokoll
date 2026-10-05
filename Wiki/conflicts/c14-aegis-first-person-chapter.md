@@ -2,7 +2,7 @@
 id: C14
 subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
-status: open
+status: decided — an explicit AEGIS-Ich, by the author, 2026-10-05 (W6 C)
 first_seen: "2026-09-25"
 sources: 31
 pages: ["aegis"]
@@ -10,7 +10,7 @@ pages: ["aegis"]
 
 # C14 — does AEGIS get a first-person chapter?
 
-**Append-only.** This record decides nothing.
+**Append-only.** This record decides nothing; the author decided it on 2026-10-05 (section at the end).
 
 | # | [[aegis|AEGIS]]' voice | source | line |
 |--:|---|---|--:|
@@ -248,3 +248,17 @@ Where it stands in the record's own terms: the document takes the third-person s
 Kap 16: „Erstmals reflektiert das Erzählen aus dem Algorithmus heraus“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228] Kap 28: „Erstmals reflektiert AEGIS aus der Innenperspektive über sich selbst“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L290]
 
 Stands: the outline of 2026-05-01 writes both and decides nothing.
+
+## 2026-10-05 — decided by the author: an explicit AEGIS-Ich (W6 C)
+
+Asked *Wie nah darf der Leser an AEGIS heran?* with the four options of
+[W6](../../Plan/weichen/w6-aegis-perspektive.md) and what each means for the storyweaving (A: outside effects and logs,
+no AEGIS chapter but the prologue; B: an operative inner scene, third person or subjectless; C: an explicit `Ich`;
+D: free), the author answered **C — an explicit AEGIS-Ich**, and then how often: **one chapter per act, growing** —
+the prologue Kap 0, one in Akt I inside the slot Kap 5–8, two in Akt II, one in Akt III. The storyweaving scaffold
+places them at Kap 0, 6, 16, 22 and 28 (`Plan/storyform/weave.json`, decision 025 step 23).
+
+**What this decides:** AEGIS speaks as `Ich` in its own chapters. The third-person rule of rows 1, 2, 5 and 7, and
+row 6's never `Ich`, stay on this record as what those documents said, dated, and are no longer the arrangement.
+What the `Ich` may know, and how it sounds, is not decided here (W7, W3).
+

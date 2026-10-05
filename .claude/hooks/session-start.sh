@@ -23,4 +23,9 @@ else
   cat "$LOG"
   echo "session-start: initialization incomplete — inspect capability failures before reading; rerun knowledge.py init"
 fi
+# The session board: NOW.md's plan against GitHub — which session a pull request has claimed, which branches are
+# being pushed to. Read it before choosing work; claim yours with a pull request holding `Session: <id>`.
+# Never blocks: offline, it says the live state is unknown.
+echo
+timeout 25 python3 scripts/sessions.py board 2>&1 || echo "session-start: the session board could not run — check https://kohaerenzprotokoll.vercel.app/#/now by hand before taking a session"
 exit 0

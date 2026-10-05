@@ -89,7 +89,8 @@ class Component extends DCLogic {
     const screen = s.screen || this.props.screen || 'now';
     const e = encodeURIComponent;
     let tail = '';
-    if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s);
+    if (screen === 'now' && s.sess) tail = 'session/' + e(s.sess);
+    else if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s);
     else if (screen === 'conflicts' && s.conf != null) tail = D.conflicts[s.conf].id;
     else if (screen === 'questions' && s.ques != null) tail = s.ques === -1 ? 'agenda' : D.questions[s.ques].id;
     else if (screen === 'corpus' && s.crow != null && s.crow >= 0) tail = e(D.rows[s.crow].slug);
@@ -118,7 +119,8 @@ class Component extends DCLogic {
     const screen = parts[0];
     const at = (list, key, v) => list.findIndex((x) => x[key] === v);
     const st = { screen: screen, q: '' };
-    if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) st.page = i; }
+    if (screen === 'now' && parts[1] === 'session' && parts[2]) { if (parts[2] === 'free' || at(D.sessions.sessions, 'id', parts[2]) >= 0) st.sess = parts[2]; }
+    else if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) st.page = i; }
     else if (screen === 'conflicts' && parts[1]) { const i = at(D.conflicts, 'id', parts[1]); if (i >= 0) st.conf = i; }
     else if (screen === 'questions' && parts[1]) {
       const i = parts[1] === 'agenda' ? -1 : at(D.questions, 'id', parts[1]);
@@ -145,6 +147,12 @@ class Component extends DCLogic {
 
   componentDidMount() {
     if (!this.routable()) return;
+    this.loadBoard();
+    this._boardTimer = window.setInterval(() => { if (!document.hidden) this.loadBoard(); }, 60000);
+    try {
+      const saved = JSON.parse(window.localStorage.getItem('kp-prompt-drafts') || 'null');
+      if (saved && typeof saved === 'object') this.setState({ pask: saved.pask || {}, pedit: saved.pedit || {}, poff: saved.poff || {}, psed: saved.psed || {} });
+    } catch (err) { /* no storage: start empty */ }
     this._onHash = () => {
       const st = this.unroute(window.location.hash);
       if (st && window.location.hash !== this.route()) { this._fromUrl = true; this.setState(st); }
@@ -155,9 +163,188 @@ class Component extends DCLogic {
 
   componentWillUnmount() {
     if (this._onHash) window.removeEventListener('hashchange', this._onHash);
+    if (this._boardTimer) window.clearInterval(this._boardTimer);
   }
 
   fmt(n) { return typeof n === 'number' ? n.toLocaleString('en-US') : String(n); }
+
+  // A prompt to the clipboard. A canvas frame may refuse the clipboard; then the button says so
+  // instead of claiming a copy, and the prompt stays in the editor, selectable.
+  copy(id, text) {
+    const done = (ok) => this.setState({ copied: ok ? id : 'fail:' + id });
+    try {
+      if (typeof navigator !== 'undefined' && navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => done(true), () => done(false));
+        return;
+      }
+    } catch (err) { /* fall through */ }
+    done(false);
+  }
+
+  // ---- the session board: NOW.md's plan against GitHub (the same rule as scripts/sessions.py `board()`;
+  // ui.py's check_board runs both on one case). Pure: the live state and the clock come in as arguments.
+  boardOf(live, nowMs) {
+    const P = this.kp().sessions;
+    const re = new RegExp(P.board.claim, 'g');
+    const hours = P.board.hours;
+    const branches = {};
+    (live.activity || []).forEach((a) => {
+      if (a.type !== 'push' || a.ref.indexOf('refs/heads/') !== 0 || a.ref === 'refs/heads/main') return;
+      if (nowMs - Date.parse(a.at) > hours * 3600000) return;
+      const name = a.ref.slice('refs/heads/'.length);
+      const b = branches[name] || (branches[name] = { pushes: 0, last: a.at, sha: a.sha });
+      b.pushes += 1;
+      if (a.at > b.last) { b.last = a.at; b.sha = a.sha; }
+    });
+    const claims = (live.pulls || []).map((p) => {
+      const ids = []; const text = p.title + '\n' + p.body; let m;
+      re.lastIndex = 0;
+      while ((m = re.exec(text)) !== null) ids.push(m[1].toLowerCase());
+      const b = branches[p.branch];
+      return { pr: p.number, title: p.title, url: p.url, branch: p.branch, ids: ids, last: b ? b.last : p.updated, active: !!b };
+    });
+    const planned = {};
+    P.sessions.forEach((x) => { planned[x.id] = true; });
+    const rows = P.sessions.map((x) => {
+      const by = claims.filter((c) => c.ids.indexOf(x.id) >= 0);
+      return { id: x.id, state: !live.ok ? 'unknown' : by.length ? 'claimed' : 'free', by: by };
+    });
+    const claimedBranches = {};
+    claims.forEach((c) => { if (c.ids.some((i) => planned[i])) claimedBranches[c.branch] = true; });
+    const other = Object.keys(branches).filter((n) => !claimedBranches[n])
+      .sort((a, b) => (branches[a].last < branches[b].last ? 1 : branches[a].last > branches[b].last ? -1 : 0))
+      .map((n) => {
+        const pr = claims.find((c) => c.branch === n);
+        return { branch: n, last: branches[n].last, pr: pr ? pr.pr : null, title: pr ? pr.title : '', ids: pr ? pr.ids : [] };
+      });
+    return { ok: !!live.ok, error: live.error || '', rows: rows, other: other, claims: claims };
+  }
+
+  async loadBoard() {
+    const P = this.kp().sessions.board;
+    this.setState({ boardBusy: true });
+    let live;
+    try {
+      const get = async (path) => {
+        const r = await fetch(P.api + path, { headers: { Accept: 'application/vnd.github+json' } });
+        if (!r.ok) throw new Error('GitHub answered ' + r.status);
+        return r.json();
+      };
+      const pulls = await get('/pulls?state=open&per_page=100');
+      const act = await get('/activity?per_page=100&time_period=day');
+      live = { ok: true, error: '', at: new Date().toISOString().slice(0, 19) + 'Z',
+        pulls: pulls.map((p) => ({ number: p.number, title: p.title, body: p.body || '', branch: p.head.ref, url: p.html_url, updated: p.updated_at })),
+        activity: act.map((a) => ({ ref: a.ref, type: a.activity_type, at: a.timestamp, sha: a.after })) };
+    } catch (err) {
+      live = { ok: false, error: String(err && err.message || err).slice(0, 160), at: new Date().toISOString().slice(0, 19) + 'Z', pulls: [], activity: [] };
+    }
+    this.setState({ board: this.boardOf(live, Date.now()), boardAt: live.at, boardBusy: false });
+  }
+
+  claimLine(id) {
+    const bd = this.st().board;
+    if (!bd) return this.routable() ? 'checking claims…' : '';
+    const r = bd.rows.find((x) => x.id === id);
+    if (!bd.ok || !r) return 'claim unknown';
+    if (r.state === 'free') return 'no claim';
+    const c = r.by[0];
+    return 'claimed · #' + c.pr + ' ' + c.branch + (c.active ? ' · pushed ' + this.ago(c.last) : ' · quiet');
+  }
+
+  claimTone(id) {
+    const bd = this.st().board;
+    const r = bd && bd.ok ? bd.rows.find((x) => x.id === id) : null;
+    if (!r) return ['#EFEBE1', '#645F53'];
+    return r.state === 'claimed' ? ['#F6E4DC', '#9A2D1A'] : ['#E4EDDF', '#2F5D2A'];
+  }
+
+  ago(iso) {
+    const m = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000));
+    return m < 90 ? m + ' min ago' : Math.round(m / 60) + ' h ago';
+  }
+
+  // ---- the start-prompt editor on the Now screen
+  // A prompt is its session's blocks (scripts/sessions.py), those switched off left out, the author's own
+  // instruction after the read-first block. Text edited by hand wins until Reset. Drafts are kept in this
+  // browser only (website; a canvas frame keeps them for the visit) — never in the repository.
+  promptSource(id) {
+    const P = this.kp().sessions;
+    return id === 'free' ? P.free : P.sessions.find((x) => x.id === id) || P.free;
+  }
+
+  // The session editor's id and NOW.md entry: the same rules as scripts/sessions.py (`slug`, `derive`), which
+  // ui.py's check_editor runs both ways. The id is never typed: it is the slug of the title, because that is
+  // the id NOW.md's entry will be given, and a claim under another id would claim nothing.
+  slugOf(title) {
+    const words = String(title || '').toLowerCase().normalize('NFKD').replace(/[^\x00-\x7f]/g, '').match(/[a-z0-9]+/g) || [];
+    let out = '';
+    for (let i = 0; i < words.length; i += 1) {
+      if (out && out.length + 1 + words[i].length > 48) break;
+      out = out ? out + '-' + words[i] : words[i];
+    }
+    return out;
+  }
+
+  entryOf(ed, ask) {
+    const files = String(ed.files || '').split(/[\s,]+/).filter(Boolean);
+    const clean = (t) => String(t || '').replace(/\s+/g, ' ').trim();
+    const title = clean(ed.title).replace(/[.:]+$/, '');
+    if (!title) return '';
+    return '- **' + title + '.** ' + (clean(ask) ? clean(ask).replace(/\*\*/g, '') + ' ' : '')
+      + (files.length ? 'Files: ' + files.map((f) => '`' + f + '`').join(', ') + '. ' : '')
+      + (clean(ed.next) ? '**Next:** ' + clean(ed.next).replace(/\*\*/g, '') : '');
+  }
+
+  compose(x, ask, off, ed) {
+    const out = [];
+    const free = x.id === 'free' && ed && ed.title && ed.title.trim();
+    const repo = this.kp().sessions.board.repo;
+    x.blocks.forEach((b) => {
+      if (off.indexOf(b[0]) >= 0) return;
+      let text = b[2];
+      if (free && b[0] === 'head') text = 'Session for ' + repo + ': ' + ed.title.trim();
+      if (free && b[0] === 'rules') text = text.replace('Session: free', 'Session: ' + this.slugOf(ed.title));
+      out.push(text);
+      if (b[0] === 'read') {
+        if (ask.trim()) out.push('The author\'s instruction for this session:\n' + ask.trim());
+        if (free) {
+          out.push('The task: ' + ed.title.trim());
+          if ((ed.next || '').trim()) out.push('Start with: ' + ed.next.trim());
+          const files = String(ed.files || '').split(/[\s,]+/).filter(Boolean);
+          if (files.length) out.push('Open first: ' + files.join(', '));
+        }
+      }
+    });
+    return out.join('\n\n');
+  }
+
+  drafts() { const st = this.st(); return { pask: st.pask || {}, pedit: st.pedit || {}, poff: st.poff || {}, psed: st.psed || {} }; }
+
+  saveDraft(kind, id, value) {
+    const d = this.drafts();
+    const next = Object.assign({}, d[kind]);
+    if (value == null || value === '' || (Array.isArray(value) && !value.length) || (kind === 'psed' && !value.title && !value.next && !value.files)) delete next[id];
+    else next[id] = value;
+    const patch = { copied: null };
+    patch[kind] = next;
+    this.setState(patch);
+    if (!this.routable()) return;
+    try {
+      const all = Object.assign({}, d, patch);
+      window.localStorage.setItem('kp-prompt-drafts', JSON.stringify({ pask: all.pask, pedit: all.pedit, poff: all.poff, psed: all.psed }));
+    } catch (err) { /* storage refused: the draft lives for this visit */ }
+  }
+
+  download(name, text) {
+    try {
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(new Blob([text], { type: 'text/markdown;charset=utf-8' }));
+      a.download = name;
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 0);
+    } catch (err) { /* nothing to save to */ }
+  }
 
   txt(rs) {
     return (rs || []).map((r) => (typeof r === 'string' ? r : r[0] === 'r' ? '' : r[1])).join('').replace(/\s+/g, ' ').trim();
@@ -398,7 +585,7 @@ class Component extends DCLogic {
     const onQKey = (e) => { if (e.key === 'Escape') this.setState({ q: '' }); };
 
     // ------------------------------------------------------------ now
-    const now = { tiles: [], agenda: [], unsettled: [], log: [], handover: [], l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
+    const now = { board: { live: false, other: [], hasOther: false, caution: false, showStamp: false, busy: false, stamp: '', hours: 24, refresh: null }, tiles: [], agenda: [], asks: [], log: [], sessions: [], sessSub: '', web: false, free: {}, pe: { chips: [] }, tabs: [], tabPrompt: true, tabLog: false, l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
     if (is.now) {
       const total = V('sources.total');
       const landed = V('sources.landed');
@@ -430,7 +617,7 @@ class Component extends DCLogic {
         });
       });
       now.agenda = ag.filter((a) => a.order === 0).concat(ag.filter((a) => a.order === 1));
-      now.unsettled = D.agenda.unsettled.map((u) => ({ runs: this.runs(u) }));
+      now.asks = D.agenda.process.map((u) => ({ runs: this.runs(u) }));
       const mt = Math.max.apply(null, D.docs.map((d) => d.terms).concat([1]));
       const mr = Math.max.apply(null, D.docs.map((d) => d.readings).concat([1]));
       const mc = Math.max.apply(null, D.docs.map((d) => d.conflicts).concat([1]));
@@ -442,7 +629,92 @@ class Component extends DCLogic {
       }));
       const canonN = D.docs.filter((d) => d.canon).length;
       now.logSub = (D.docs.length - canonN) + ' before the canon era · ' + canonN + ' from it';
-      now.handover = D.agenda.handover.map((h) => ({ runs: this.runs(h) }));
+      const plan = D.sessions;
+      const firstReady = plan.sessions.find((x) => x.status === 'ready');
+      const selId = s.sess || (firstReady ? firstReady.id : 'free');
+      now.sessions = plan.sessions.map((x) => {
+        const on = selId === x.id;
+        const ready = x.status === 'ready';
+        return {
+          dom: uid + '-sess-' + x.id, n: String(x.n), t: x.title, st: x.status, stBg: ready ? '#E4E9F2' : '#F6E4DC', stFg: ready ? '#2B4C8C' : '#9A2D1A',
+          claim: this.claimLine(x.id), claimBg: this.claimTone(x.id)[0], claimFg: this.claimTone(x.id)[1],
+          next: this.runs(x.nruns), bd: on ? '#2B4C8C' : '#E6E0D2', bg: on ? '#FFFFFF' : 'transparent', cur: on ? 'true' : 'false',
+          pick: () => this.setState({ sess: x.id, ntab: 'prompt', copied: null }),
+        };
+      });
+      now.free = { bd: selId === 'free' ? '#2B4C8C' : '#E6E0D2', label: '＋ New session — title, next step, files, claim, NOW.md entry', cur: selId === 'free' ? 'true' : 'false', pick: () => this.setState({ sess: 'free', ntab: 'prompt', copied: null }) };
+      const bd = s.board;
+      now.board = {
+        live: !!bd, ok: !!bd && bd.ok, busy: !!s.boardBusy, refresh: () => this.loadBoard(),
+        stamp: !bd ? 'reading GitHub…' : bd.ok ? 'GitHub read ' + this.ago(s.boardAt) : 'GitHub not reached — ' + bd.error,
+        showStamp: this.routable(),
+        other: !bd || !bd.ok ? [] : bd.other.map((o) => ({
+          branch: o.branch, when: this.ago(o.last),
+          pr: o.pr ? '#' + o.pr + ' ' + o.title + (o.ids.length ? ' · Session: ' + o.ids.join(', ') : '') : 'no pull request — no claim',
+          tone: o.pr ? '#4A463E' : '#9A2D1A',
+        })),
+        hasOther: !!bd && bd.ok && bd.other.length > 0,
+        caution: !!bd && bd.ok && bd.other.some((o) => !o.pr) && bd.rows.some((r) => r.state === 'free'),
+        hours: plan.board.hours,
+      };
+      const readyN = plan.sessions.filter((x) => x.status === 'ready').length;
+      now.sessSub = readyN + ' ready · ' + (plan.sessions.length - readyN) + ' wait on the author · ' + plan.notes.length + ' notes bind all';
+      now.tabPrompt = (s.ntab || 'prompt') === 'prompt';
+      now.tabLog = !now.tabPrompt;
+      now.tabs = [['prompt', 'Start prompt'], ['log', 'Reading log']].map((t) => {
+        const on = (s.ntab || 'prompt') === t[0];
+        return { label: t[1], on: on ? 'true' : 'false', bd: on ? '#1C1B18' : 'transparent', fg: on ? '#1C1B18' : '#645F53', go: () => this.setState({ ntab: t[0] }) };
+      });
+      const src = this.promptSource(selId);
+      const d = this.drafts();
+      const ask = d.pask[selId] || '';
+      const off = d.poff[selId] || [];
+      const edited = d.pedit[selId];
+      const ed = Object.assign({ title: '', next: '', files: '' }, d.psed.free || {});
+      const isFree = selId === 'free';
+      const composed = this.compose(src, ask, off, ed);
+      const text = edited != null ? edited : composed;
+      const copied = s.copied === 'pe:' + selId;
+      const failedCopy = s.copied === 'fail:pe:' + selId;
+      const fixed = ['head', 'read'];
+      now.pe = {
+        kicker: selId === 'free' ? 'Session editor · a session of your own, with the rules every session keeps'
+          : 'Session ' + src.n + ' · ' + src.status + ' · from NOW.md § Half-done',
+        title: selId === 'free' ? (ed.title.trim() || 'A session you name yourself') : src.title,
+        isFree: isFree, canFork: !isFree,
+        edTitle: ed.title, edNext: ed.next, edFiles: ed.files, edId: this.slugOf(ed.title) || '—',
+        onEdTitle: (e) => this.saveDraft('psed', 'free', Object.assign({}, ed, { title: e.target.value })),
+        onEdNext: (e) => this.saveDraft('psed', 'free', Object.assign({}, ed, { next: e.target.value })),
+        onEdFiles: (e) => this.saveDraft('psed', 'free', Object.assign({}, ed, { files: e.target.value })),
+        fork: () => { this.saveDraft('psed', 'free', { title: src.title, next: src.next, files: (src.files || []).join(', ') }); this.setState({ sess: 'free', copied: null }); },
+        hasEntry: isFree && !!ed.title.trim(),
+        claimLine: 'Session: ' + this.slugOf(ed.title),
+        entry: this.entryOf(ed, ask),
+        copyClaim: () => this.copy('pc:' + selId, '## Claim\n\nSession: ' + this.slugOf(ed.title)),
+        copyClaimLabel: s.copied === 'pc:' + selId ? 'Copied ✓' : 'Copy claim',
+        copyEntry: () => this.copy('pn:' + selId, this.entryOf(ed, ask)),
+        copyEntryLabel: s.copied === 'pn:' + selId ? 'Copied ✓' : 'Copy NOW.md entry',
+        askId: uid + '-pe-ask', textId: uid + '-pe-text', ask: ask, text: text,
+        askHint: selId === 'free' ? 'What should the session do? In your words — it goes right after “read NOW.md first”.'
+          : 'Anything to add or narrow — „nur das erste Dokument“, a deadline, a question first. Goes before the task.',
+        onAsk: (e) => this.saveDraft('pask', selId, e.target.value),
+        onText: (e) => this.saveDraft('pedit', selId, e.target.value),
+        chips: src.blocks.filter((b) => fixed.indexOf(b[0]) < 0).map((b) => {
+          const isOn = off.indexOf(b[0]) < 0;
+          return {
+            label: b[1], on: isOn ? 'true' : 'false', bg: isOn ? '#2B4C8C' : 'transparent', fg: isOn ? '#FBFAF6' : '#645F53', bd: isOn ? '#2B4C8C' : '#C9C0AC',
+            dis: edited != null, tip: edited != null ? 'Edited by hand — Reset to use the blocks again' : (isOn ? 'Leave this block out' : 'Put this block in'),
+            go: () => this.saveDraft('poff', selId, isOn ? off.concat([b[0]]) : off.filter((k) => k !== b[0])),
+          };
+        }),
+        info: text.length.toLocaleString('en-US') + ' characters · ' + text.split(/\s+/).filter(Boolean).length + ' words' + (edited != null ? ' · edited by hand' : ''),
+        dirty: edited != null || !!ask || off.length > 0 || (isFree && !!(ed.title || ed.next || ed.files)), edited: edited != null,
+        reset: () => { this.saveDraft('pedit', selId, null); this.saveDraft('pask', selId, null); this.saveDraft('poff', selId, null); if (isFree) this.saveDraft('psed', 'free', null); },
+        copy: () => this.copy('pe:' + selId, text),
+        copyLabel: copied ? 'Copied ✓' : failedCopy ? 'Copy blocked here — select the text' : 'Copy prompt',
+        save: () => this.download('start-prompt-' + selId + '.md', text),
+      };
+      now.web = this.routable();
       now.selftests = held + ' held · ' + failed + ' failed · ' + (D.selftests.length - held - failed) + ' not run in this container';
       now.stDot = failed ? '#B0341E' : '#2B4C8C';
     }
@@ -723,22 +995,26 @@ class Component extends DCLogic {
       });
       ql.agenda = { bg: sel === -1 ? '#FBFAF6' : 'transparent', bd: sel === -1 ? '#C9C0AC' : 'transparent', cur: sel === -1 ? 'true' : undefined, go: () => this.setState({ ques: -1 }), n: D.conflicts.filter((c) => c.np).length + D.agenda.unsettled.length + D.agenda.process.length };
       if (sel === -1) {
-        const rowsT = D.conflicts.filter((c) => c.np).map((c) => [[['b', c.id]], c.np.q, c.np.pos]);
+        // NOW.md once tabled every open conflict's question and positions; its rewrite of 2026-10-05 dropped the
+        // table. Without it, the open conflicts are listed from their own records, never left as an empty table.
+        const fromNow = D.conflicts.some((c) => c.np);
+        const rowsT = fromNow ? D.conflicts.filter((c) => c.np).map((c) => [[['b', c.id]], c.np.q, c.np.pos])
+          : D.conflicts.filter((c) => !c.decided).map((c) => [[['b', c.id]], [c.title.replace(/^C\d+\s*—\s*/, '')], [c.subj + (c.kind ? ' · ' + c.kind : '') + ' — Wiki/conflicts/' + c.f + '.md']]);
         const agendaSecs = [];
         if (D.agenda.decided && D.agenda.decided.length) agendaSecs.push([['Decided so far'], -1, '', [['p', D.agenda.decided]]]);
-        agendaSecs.push([['The novel — where the sources disagree'], -1, '', [['tb', [[''], ['question'], ['the positions (source, date)']], rowsT, 'lll', 'minmax(0, 0.45fr) minmax(0, 1.5fr) minmax(0, 3fr)']]]);
-        agendaSecs.push([['The novel — what no source settles'], -1, '', [['ul', D.agenda.unsettled]]]);
-        agendaSecs.push([['The process — the author’s call'], -1, '', [['ul', D.agenda.process]]]);
+        agendaSecs.push([['The novel — where the sources disagree'], -1, '', [['tb', [[''], [fromNow ? 'question' : 'conflict'], [fromNow ? 'the positions (source, date)' : 'subject · kind — the record']], rowsT, 'lll', 'minmax(0, 0.45fr) minmax(0, 1.5fr) minmax(0, 3fr)']]]);
+        if (D.agenda.unsettled.length) agendaSecs.push([['The novel — what no source settles'], -1, '', [['ul', D.agenda.unsettled]]]);
+        agendaSecs.push([['Questions for the author'], -1, '', [['ol', D.agenda.process]]]);
         rd = {
           kicker: 'NOW.md · Questions for the author — noted, not waited on', title: 'Everything waiting on the author', tsz: 40,
           hasSub: true, sub: 'Every open question, with where it came from. The work continues without waiting for the answer; when one arrives it is recorded where the question lives.',
-          chips: [this.chip(rowsT.length + ' open conflicts', 'rubric'), this.chip(D.agenda.unsettled.length + ' unsettled'), this.chip(D.agenda.process.length + ' about the process')],
+          chips: [this.chip(rowsT.length + ' open conflicts', 'rubric'), this.chip(D.agenda.process.length + ' questions in NOW.md')],
           secs: this.secs(null, agendaSecs, uid + '-ag'), maxW: 760, key: 'agenda',
         };
         qr.isAgenda = true;
         qr.decided = this.runs(D.agenda.decided);
         qr.intro = this.runs(D.agenda.intro);
-        qr.counts = rowsT.length + ' conflicts, ' + D.agenda.unsettled.length + ' questions about the novel, ' + D.agenda.process.length + ' about the process';
+        qr.counts = rowsT.length + ' conflicts, ' + D.agenda.process.length + ' questions in NOW.md';
       } else {
         const x = D.questions[sel];
         rd = {
@@ -1113,6 +1389,13 @@ class Component extends DCLogic {
       this._lastRoute = h;
       this._fromUrl = false;
     }
+    // A session opened by its address or its card is brought into view inside the panel.
+    const sess = this.st().sess;
+    if (sess && sess !== this._sessShown && typeof document !== 'undefined') {
+      const el = document.getElementById('kp-' + (this.props.screen || 'main') + '-sess-' + sess);
+      if (el && el.scrollIntoView) el.scrollIntoView({ block: 'nearest' });
+    }
+    this._sessShown = sess;
     if (this._reader && this._rdKey !== this._rdShown) {
       this._reader.scrollTop = 0;
       // Narrow screens scroll the page, not the reader pane (the media query in ui.html): a new

@@ -62,9 +62,18 @@ it is not; with node, every item is also taken to its address and back (below).
 On the website (not inside a canvas frame) the app keeps its state in the URL:
 `#/wiki/<slug>`, `#/conflicts/C2`, `#/questions/Q3` or `#/questions/agenda`,
 `#/corpus/<slug>`, `#/graph/<term|doc|conflict|question>/<id>`, `#/process/<tab>[/<id>]`,
-`#/manuscript/<tab>[/<key>]` (the novel's workspace, decision 024).
+`#/manuscript/<tab>[/<key>]` (the novel's workspace, decision 024), and
+`#/now/session/<id>` — one of the next sessions, opened with its prompt.
 Stable ids, never list positions, so a link survives a rebuild; the back button
 retraces the screens; a hash not starting `#/` is a section anchor and is left alone.
+
+## For agents
+
+Beside the frames, `build` writes `llms.txt` and `agents/` — `sessions.json` (the next
+sessions, `scripts/sessions.py` reading NOW.md § Half-done), `index.json` (every item with
+its repository path and its address), `state.json` and `data.json` — the same snapshot,
+for an agent that reads the website instead of the screen. `web.py` serves them.
+`--check` writes `stamp.json`, which the pre-PR hook reads (`scripts/appstamp.py`).
 """
 
 from __future__ import annotations
@@ -88,7 +97,9 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 import graph  # noqa: E402
 import quotes  # noqa: E402
+import appstamp  # noqa: E402
 import selftests  # noqa: E402
+import sessions as session_plan  # noqa: E402
 import state  # noqa: E402
 import subject  # noqa: E402
 import wiki_index  # noqa: E402
@@ -728,9 +739,15 @@ def export(checks: bool = True) -> dict:
 
     intro = [b[1] for b in md.blocks(_section(now_text, "Questions for the author")) if b[0] == "p"]
     decided = re.search(r"\*\*Decided so far:\*\*(.*?)\n\n", now_text, re.S)
+    # NOW.md's headings move; each list names the heading it read, and `check_data` refuses an empty one
+    # it requires (the 2026-10-05 rewrite emptied three panels without a word from any check).
     agenda = {"intro": intro[0] if intro else [], "decided": md.runs("**Decided so far:**" + decided.group(1)) if decided else [],
-              "unsettled": listed("The novel — what no source settles"), "process": listed("The process — the author"),
-              "handover": listed("Handover — the next session starts here")}
+              "unsettled": listed("The novel — what no source settles"), "process": listed("Questions for the author")}
+    plan = session_plan.derive(now_text)
+    for x in plan["sessions"]:
+        x["runs"], x["nruns"] = md.runs(x["md"]), md.runs(x["next_md"])
+    for x in plan["notes"]:
+        x["runs"] = md.runs(x["md"])
     _, now_lede, now_secs = md.sections(now_text)
     goal_title, goal_lede, goal_secs = md.sections((ROOT / "GOAL.md").read_text(encoding="utf-8"))
 
@@ -884,7 +901,7 @@ def export(checks: bool = True) -> dict:
         "meta": {"commit": head[0] if head else "", "date": head[1] if len(head) > 1 else ""},
         "state": {k: [v["value"], v["how"]] for k, v in derived.items()},
         "docs": docs, "pages": pages, "conflicts": conflicts, "questions": questions, "compare": compare,
-        "agenda": agenda, "now": {"lede": now_lede, "sec": now_secs},
+        "agenda": agenda, "sessions": plan, "now": {"lede": now_lede, "sec": now_secs},
         "goal": {"title": goal_title, "lede": goal_lede, "sec": goal_secs},
         "decisions": decisions, "principles": principles, "catalogue": catalogue, "manuscript": manuscript, "novel": novel,
         "invariants": table_after("## 0 · Invariants"), "commands": table_after("## The commands, as combinations"),
@@ -992,6 +1009,85 @@ def canvas_index() -> dict:
     }
 
 
+def agent_index(data: dict) -> list[dict]:
+    """Every item the app holds that has an address, with the repository file it was rendered from."""
+    rel = lambda path: path.relative_to(ROOT).as_posix()  # noqa: E731
+    items = [{"kind": "page", "id": p["s"], "title": p["t"], "path": rel(PAGES / f"{p['s']}.md"), "address": f"#/wiki/{p['s']}"}
+             for p in data["pages"]]
+    items += [{"kind": "conflict", "id": c["id"], "title": c["title"], "path": rel(CONFLICTS / f"{c['f']}.md"),
+               "address": f"#/conflicts/{c['id']}", "status": c["status"]} for c in data["conflicts"]]
+    items += [{"kind": "question", "id": q["id"], "title": q["title"], "path": rel(QUESTIONS / f"{q['f']}.md"),
+               "address": f"#/questions/{q['id']}", "status": q["status"]} for q in data["questions"]]
+    items += [{"kind": "record", "id": c["k"], "title": c["title"], "path": rel(COMPARE / f"{c['f']}.md"),
+               "address": f"#/process/compare/{c['k']}"} for c in data["compare"]]
+    items += [{"kind": "decision", "id": d["id"], "title": d["title"], "path": rel(DECISIONS / f"{d['f']}.md"),
+               "address": f"#/process/decisions/{d['id']}", "status": d["status"]} for d in data["decisions"]]
+    items += [{"kind": "draft", "id": m["f"], "title": m["t"], "path": m["f"], "address": "#/manuscript/chapters"}
+              for m in data["manuscript"]]
+    items += [{"kind": "session", "id": x["id"], "title": x["title"], "path": "NOW.md", "address": f"#/now/session/{x['id']}",
+               "status": x["status"]} for x in data["sessions"]["sessions"]]
+    return items
+
+
+LLMS = """# Kohärenz Protokoll — the project app
+
+> A German hard-SF novel and its research corpus, as one app: the wiki's term pages, conflicts and questions,
+> the reconciliation records, the knowledge graph, the corpus manifest, the novel's workspace, and what the
+> next sessions are to do. Snapshot of commit {commit} ({date}), derived by `scripts/ui.py`; it infers nothing.
+
+The repository is the source of truth: https://github.com/netzkontrast/kohaerenzprotokoll — every item below names
+the file it was rendered from, and a change is a commit there, never an edit here. Canon prose is German and is
+never translated; nothing in the wiki is canon (`Manuscript/kanon.md` lists what is). No corpus text leaves the
+container without the author's decision.
+
+## For agents
+
+- [sessions.json](agents/sessions.json): the next sessions, derived from NOW.md § Half-done in its order — each
+  with its next step, whether it waits on the author, the files to open first, and a self-contained prompt.
+  {n_ready} ready, {n_gated} waiting on the author.
+- [index.json](agents/index.json): {n_items} items (pages, conflicts, questions, records, decisions, drafts,
+  sessions), each with its repository path and its address in this app.
+- [state.json](agents/state.json): every measurement `scripts/state.py` made for this snapshot, with how it was measured.
+- [data.json](agents/data.json): everything the app renders, as one document.
+
+## Addresses
+
+Open `Main.dc.html` with a hash: `#/wiki/<slug>`, `#/conflicts/C2`, `#/questions/Q3`, `#/questions/agenda`,
+`#/corpus/<slug>`, `#/graph/<term|doc|conflict|question>/<id>`, `#/process/<tab>[/<id>]`,
+`#/manuscript/<tab>[/<key>]`, `#/now/session/<id>`.
+
+## The next sessions
+
+{sessions}
+"""
+
+
+def agent_files(data: dict, out: Path) -> list[str]:
+    """`llms.txt` and `agents/*.json` — the app's content for an agent, the same snapshot as the frames."""
+    agents = out / "agents"
+    if agents.exists():
+        shutil.rmtree(agents)
+    agents.mkdir(parents=True)
+    plan = data["sessions"]
+    strip = lambda x: {k: v for k, v in x.items() if k not in ("runs", "nruns")}  # noqa: E731
+    served = {"commit": data["meta"]["commit"], "date": data["meta"]["date"], "source": plan["source"],
+              "sessions": [strip(x) for x in plan["sessions"]], "free": plan["free"], "notes": [strip(x) for x in plan["notes"]],
+              "standing": plan["standing"]}
+    items = agent_index(data)
+    files = {"sessions.json": served, "index.json": {"commit": data["meta"]["commit"], "items": items},
+             "state.json": {"commit": data["meta"]["commit"], "measurements": data["state"]}, "data.json": data}
+    for name, body in files.items():
+        (agents / name).write_text(json.dumps(body, ensure_ascii=False, indent=None if name == "data.json" else 1),
+                                   encoding="utf-8")
+    ready = [x for x in plan["sessions"] if x["status"] == "ready"]
+    lines = [f"{x['n']}. [{x['title']}](Main.dc.html#/now/session/{x['id']}) — {x['status']}: {x['next']}"
+             for x in plan["sessions"]]
+    (out / "llms.txt").write_text(LLMS.format(commit=data["meta"]["commit"], date=data["meta"]["date"],
+                                              n_ready=len(ready), n_gated=len(plan["sessions"]) - len(ready),
+                                              n_items=len(items), sessions="\n".join(lines)), encoding="utf-8")
+    return ["llms.txt"] + [f"agents/{n}" for n in files]
+
+
 def build(out: Path = OUT, checks: bool = True) -> dict:
     data = export(checks)
     project = out / "canvas" / "project"
@@ -1003,6 +1099,7 @@ def build(out: Path = OUT, checks: bool = True) -> dict:
         (project / name).write_text(FRAME.format(title=title, screen=screen, w=WIDTH, h=HEIGHT), encoding="utf-8")
     (project / "canvas.json").write_text(json.dumps(canvas_index(), ensure_ascii=False, indent=1), encoding="utf-8")
     (out / "data.json").write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    agent_files(data, out)
     return data
 
 
@@ -1166,6 +1263,13 @@ def check_data(data: dict) -> list[str]:
     for a in novel.get("approved", []):
         if not (MANUSCRIPT / a).exists():
             problems.append(f"Manuscript/kanon.md: approves {a}, which does not exist")
+    for key, have in (("agenda.process — NOW.md § Questions for the author", data["agenda"]["process"]),
+                      ("sessions — NOW.md § Half-done", data["sessions"]["sessions"])):
+        if not have:
+            problems.append(f"{key}: empty — the heading moved or its list is gone, and a panel of the app is blank")
+    for x in data["sessions"]["sessions"]:
+        walk(x["runs"], f"session {x['id']}")
+        walk(x["nruns"], f"session {x['id']}")
     measured = {k: v[0] for k, v in data["state"].items()}
     unread = data["graph"].get("unread") or {"docs": [], "edges": 0}
     for key, have in (("wiki.pages", n_pages), ("wiki.conflicts", len(data["conflicts"])),
@@ -1215,6 +1319,8 @@ D.graph.nodes.forEach((x, i) => rt({ screen: 'graph', gsel: i }, 'node ' + x.lab
 D.decisions.forEach((x, i) => rt({ screen: 'process', ptab: 'decisions', pdec: i }, 'decision ' + x.id));
 D.principles.forEach((x, i) => rt({ screen: 'process', ptab: 'principles', pprin: i }, 'principle ' + x.id));
 D.compare.forEach((x, i) => rt({ screen: 'process', ptab: 'compare', pcmp: i }, 'record ' + x.k));
+D.sessions.sessions.forEach((x) => rt({ screen: 'now', sess: x.id }, 'session ' + x.id));
+rt({ screen: 'now', sess: 'free' }, 'the free prompt');
 c.novelTabs().forEach((t) => {
   rt({ screen: 'manuscript', mtab: t[0] }, 'workspace tab ' + t[0]);
   c.novelEntries(t[0]).filter((x) => !x.group).forEach((x) => rt({ screen: 'manuscript', mtab: t[0], msel: x.key }, t[0] + ' ' + x.key));
@@ -1242,6 +1348,87 @@ def check_routes(data: dict, js: str | None = None) -> tuple[list[str], str]:
         "every item's address taken there and back with node"
 
 
+BOARD_HARNESS = """
+const c = new Component(); c.props = {}; c.state = {};
+const live = %s; const nowMs = %d;
+console.log(JSON.stringify(c.boardOf(live, nowMs)));
+"""
+
+
+def check_board(data: dict, js: str | None = None) -> tuple[list[str], str]:
+    """(problems, what was checked). The Now page's `boardOf` (ui.js) and `board()` (sessions.py) are one rule
+    written twice; both are run on one case — a claim, a claim by an id outside the plan, a silent branch, an
+    old branch, main, and GitHub unreachable — and must agree on every state, claim and branch."""
+    node = shutil.which("node")
+    if not node:
+        return [], "the board's two implementations were NOT compared: node is not installed"
+    plan = data["sessions"]
+    if len(plan["sessions"]) < 3:
+        return ["board: the plan has fewer than three sessions — the case cannot be built"], "board"
+    stub = "class DCLogic { constructor() { this.props = {}; this.state = {}; } setState(p) { Object.assign(this.state, p); } }\n"
+    problems = []
+    for label, live in (("a claim and silent work", session_plan.fixture_live(plan["sessions"][2]["id"])),
+                        ("GitHub unreachable", {"ok": False, "error": "offline", "at": "x", "pulls": [], "activity": []})):
+        want = session_plan.board(plan, live, session_plan.FIXTURE_NOW)
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "board.js"
+            path.write_text(stub + data_script(data, js) + BOARD_HARNESS % (
+                json.dumps(live), int(session_plan.FIXTURE_NOW.timestamp() * 1000)), encoding="utf-8")
+            proc = subprocess.run([node, str(path)], capture_output=True, text=True)
+        if proc.returncode:
+            return [f"board: {(proc.stderr.strip().splitlines() or ['the harness failed'])[-1]}"], "board"
+        got = json.loads(proc.stdout.strip().splitlines()[-1])
+        shape = lambda rows: [(r["id"], r["state"], [c["pr"] for c in r["by"]]) for r in rows]  # noqa: E731
+        if shape(got["rows"]) != shape(want["rows"]):
+            problems.append(f"board ({label}): ui.js says {shape(got['rows'])}, sessions.py says {shape(want['rows'])}")
+        if [o["branch"] for o in got["other"]] != [o["branch"] for o in want["other"]]:
+            problems.append(f"board ({label}): active branches differ — ui.js {[o['branch'] for o in got['other']]}, "
+                            f"sessions.py {[o['branch'] for o in want['other']]}")
+    return problems, "the board's two implementations compared on one case, with node"
+
+
+EDITOR_CASES = [  # title, next step, files — umlauts, a long title, a colon, a title that ends in a full stop
+    ("Das Wahrnehmungs-Kapitel überarbeiten", "Kap 1 gegen Weiche W3 lesen", "NOW.md"),
+    ("Storyform: Besetzung, Logline und Genre", "the players (W10) first", "NOW.md, scripts/storyform.py"),
+    ("Ein sehr langer Titel, der weit über achtundvierzig Zeichen hinausgeht und gekürzt werden muss", "Start", ""),
+    ("Ends with a stop.", "Read record 70", "NOW.md"),
+]
+EDITOR_HARNESS = """
+const c = new Component(); c.props = {}; c.state = {};
+const cases = %s; const out = [];
+cases.forEach((k) => out.push({ slug: c.slugOf(k[0]), entry: c.entryOf({ title: k[0], next: k[1], files: k[2] }, '') }));
+console.log(JSON.stringify(out));
+"""
+
+
+def check_editor(data: dict, js: str | None = None) -> tuple[list[str], str]:
+    """(problems, what was checked). The session editor writes a NOW.md entry and a claim id in JavaScript; the
+    plan reads NOW.md in Python. Both directions on one set of cases: ui.js's id must equal `sessions.slug`, and an
+    entry the page wrote must come back from `sessions.derive` as one session with that id and that next step —
+    otherwise a claim made under the editor's id claims nothing."""
+    node = shutil.which("node")
+    if not node:
+        return [], "the session editor's entry was NOT checked against sessions.py: node is not installed"
+    stub = "class DCLogic { constructor() { this.props = {}; this.state = {}; } setState(p) { Object.assign(this.state, p); } }\n"
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "editor.js"
+        path.write_text(stub + data_script(data, js) + EDITOR_HARNESS % json.dumps([list(c) for c in EDITOR_CASES]), encoding="utf-8")
+        proc = subprocess.run([node, str(path)], capture_output=True, text=True)
+    if proc.returncode:
+        return [f"editor: {(proc.stderr.strip().splitlines() or ['the harness failed'])[-1]}"], "editor"
+    problems = []
+    for (title, nxt, _), got in zip(EDITOR_CASES, json.loads(proc.stdout.strip().splitlines()[-1])):
+        want_id = session_plan.slug(title.rstrip(".:"))
+        if got["slug"] != want_id:
+            problems.append(f"editor: the id of „{title[:40]}“ is {got['slug']!r} in ui.js, {want_id!r} in sessions.py")
+        text = "## Half-done — where the next session starts\n\n" + got["entry"] + "\n"
+        read = session_plan.derive(f"## The author's standing instructions\n\n## Half-done — x\n\n{got['entry']}\n")["sessions"]
+        if len(read) != 1 or read[0]["id"] != want_id or read[0]["next"] != nxt:
+            problems.append(f"editor: the entry for „{title[:40]}“ is read back as "
+                            f"{[(r['id'], r['next']) for r in read]}, not {[(want_id, nxt)]}")
+    return problems, "the session editor's id and NOW.md entry read back by sessions.py, with node"
+
+
 def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[str]]:
     """(problems, notes) for what `build` wrote."""
     project = out / "canvas" / "project"
@@ -1254,9 +1441,23 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
             problems.append(f"canvas.json: {name} has no file")
     data = data if data is not None else json.loads((out / "data.json").read_text(encoding="utf-8"))
     problems += check_data(data)
+    for name in ("llms.txt", "agents/sessions.json", "agents/index.json", "agents/state.json", "agents/data.json"):
+        if not (out / name).exists():
+            problems.append(f"{name}: not written — agents get nothing")
+    if (out / "agents" / "sessions.json").exists():
+        served = json.loads((out / "agents" / "sessions.json").read_text(encoding="utf-8"))
+        if not (served.get("free") or {}).get("blocks") or any(not x.get("blocks") for x in served.get("sessions", [])):
+            problems.append("agents/sessions.json: a session or the free prompt has no blocks — agents get less than the editor")
+    if (out / "agents" / "index.json").exists():
+        for it in json.loads((out / "agents" / "index.json").read_text(encoding="utf-8"))["items"]:
+            if not (ROOT / it["path"]).exists():
+                problems.append(f"agents/index.json: {it['kind']} {it['id']} names {it['path']}, which does not exist")
     script_problems, note = check_script(data)
     route_problems, route_note = check_routes(data) if not script_problems else ([], "addresses not checked: the syntax failed")
-    return problems + script_problems + route_problems, [note, route_note]
+    board_problems, board_note = check_board(data) if not script_problems else ([], "board not compared: the syntax failed")
+    editor_problems, editor_note = check_editor(data) if not script_problems else ([], "editor not checked: the syntax failed")
+    return (problems + script_problems + route_problems + board_problems + editor_problems,
+            [note, route_note, board_note, editor_note])
 
 
 # ---------------------------------------------------------------- selftest
@@ -1303,6 +1504,18 @@ def selftest() -> tuple[list[str], list[str]]:
         else:
             unrun.append("no card in Manuscript/: the canon-claim case did not run")
         broken = json.loads(json.dumps(data))
+        broken["sessions"]["sessions"] = []
+        if not any("NOW.md § Half-done" in p for p in check_data(broken)):
+            failures.append("a NOW.md section the app needs, read empty: not reported")
+        served = json.loads((out / "agents" / "sessions.json").read_text(encoding="utf-8"))
+        served.pop("free", None)
+        (out / "agents" / "sessions.json").write_text(json.dumps(served), encoding="utf-8")
+        if not any("agents/sessions.json: a session or the free prompt has no blocks" in p for p in check(out, data)[0]):
+            failures.append("the free prompt missing from agents/sessions.json: not reported")
+        (out / "agents" / "sessions.json").unlink()
+        if not any("agents/sessions.json: not written" in p for p in check(out, data)[0]):
+            failures.append("the agents' sessions.json missing: not reported")
+        broken = json.loads(json.dumps(data))
         broken["pages"].pop()
         if not any("wiki.pages" in p for p in check_data(broken)):
             failures.append("a page missing from the app: not reported against wiki.pages")
@@ -1315,6 +1528,22 @@ def selftest() -> tuple[list[str], list[str]]:
             lost, _ = check_routes(data, lost_js)
             if not any("conflict C1" in p for p in lost):
                 failures.append(f"an address that loses its conflict: not reported — got {lost[:2]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("if (a.type !== 'push' ||", "if (a.type === 'x' ||", 1)
+            drift, _ = check_board(data, lost_js)
+            if not any("active branches differ" in p or "ui.js says" in p for p in drift):
+                failures.append(f"a board rule that drifts in ui.js (pushes by any type): not reported — got {drift[:2]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("'**Next:** '", "'Next: '", 1)
+            drift, _ = check_editor(data, lost_js)
+            if drift:
+                failures.append(f"a harmless variant of the Next marker was reported: {drift[:1]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("'- **' + title + '.** '", "'- ' + title + ' '", 1)
+            drift, _ = check_editor(data, lost_js)
+            if not any("is read back as" in p for p in drift):
+                failures.append(f"a NOW.md entry the plan cannot read back (no bold title): not reported — got {drift[:2]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("if (out && out.length + 1 + words[i].length > 48) break;", "", 1)
+            drift, _ = check_editor(data, lost_js)
+            if not any("sessions.py" in p for p in drift):
+                failures.append(f"an id that differs from sessions.slug (no length cut): not reported — got {drift[:2]}")
             lost_js = COMPONENT.read_text(encoding="utf-8").replace(
                 "st.msel = parts[2];", "st.msel = parts[2] + 'x';", 1)
             lost, _ = check_routes(data, lost_js)
@@ -1335,7 +1564,7 @@ def main(argv: list[str]) -> int:
         for u in unrun:
             print(f"  not run  {u}")
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
-              "(clean build, 6 markup, 3 data, 1 syntax, 2 addresses)")
+              "(clean build, 6 markup, 4 data, 2 agent files, 1 syntax, 2 addresses, 1 board drift, 2 editor)")
         return 1 if failures else 0
     data = build(OUT, checks="--no-checks" not in argv)
     project = OUT / "canvas" / "project"
@@ -1352,6 +1581,9 @@ def main(argv: list[str]) -> int:
         for n in notes:
             print(f"  {n}")
         print(f"{len(problems)} defects in what was written")
+        appstamp.write("clean" if not problems else "defects", len(problems))
+        print(f"  stamp: {appstamp.STAMP.relative_to(ROOT)} — {'clean' if not problems else 'defects'} for HEAD's tree "
+              "(the pre-PR hook reads it)")
         if problems:
             return 1
     print(f"publish from a Claude session: Artifact url {CANVAS_URL}, root {OUT.relative_to(ROOT)}/canvas, "

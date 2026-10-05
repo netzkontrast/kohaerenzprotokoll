@@ -89,14 +89,53 @@ with the consequences of each option laid out.
     Recorded under `players` in `Plan/storyform/a.json` and `b.json`.
 18. **Casting A (W10, 2026-10-05).** Protagonist **Selene** (Pursuit, Consideration — „Architektin innerer
     Harmonie" pursues the plan); antagonist **Oblivion** (Avoid, Reconsideration — „Internalisierte Löschlogik", AEGIS
-    inside Kael, the structural bridge to B). The other six archetypes wait for the treatment pilot (W10 C); the
-    session's proposal is kept in `a.json` as an open point. Archetype elements follow the Dramatica book
+    inside Kael, the structural bridge to B). The other six archetypes wait for the treatment pilot (W10 C) and
+    are an open point in `a.json` (corrected 2026-10-05: this said the session's proposal was kept there; it never was,
+    and the open point itself had been dropped). Archetype elements follow the Dramatica book
     (`02-characters.md`): the dramatica-vocabulary skill's table gives Reason „Logic + Knowledge" and Emotion „Feeling
     + Ability", which the book does not (Control-Logic, Uncontrolled-Feeling). **Naming:** the Dramatica archetype is
     written *Guardian-Archetyp*; the novel's five Guardians are a different thing.
+19. **B's IC problem (2026-10-05).** After the re-derivation (step 16) Kael's IC issue is Dream; his problem is
+    taken from its quad (Faith, Support, Oppose, Disbelief) — an assumption, as for the MC, whose problem sits under its
+    issue (D3/D4); no rule D1–D7 fixes it, and the sources only name models with
+    AEGIS or Juna as IC. The author chose **Disbelief → Faith**, focus/direction **Oppose → Support**: Kael carries
+    AEGIS' own problem; he changes at the Vortex, AEGIS stays steadfast and fails — the one who changes shows what AEGIS
+    could have become. This replaces step 15's „Potentiality → Certainty" and „Reaction → Proaction", which belonged to
+    the chain step 16 replaced.
+20. **A's RS focus/direction (2026-10-05).** The pair Knowledge/Thought was fixed by the re-derived chain (Instinct,
+    Ability → Desire); the order was open. The author chose **Thought → Knowledge**: Kael and Juna see the trouble in
+    thinking about each other („is Juna real?") and look for certainty — the mirror of the OS's Knowledge → Thought,
+    and from inside to outside as in step 15's earlier choice (Self-Aware → Aware, which belonged to the replaced chain).
+21. **B's RS focus/direction (2026-10-05).** The RS problem Feeling → Logic (D5) sits under Obligation, whose quad leaves
+    one pair, Help/Hinder; step 15's „Expectation → Determination" belonged to the replaced chain. The author chose
+    **Hinder → Help**: host and system see the trouble in obstructing each other (sweeps against cracks, cracks against
+    order) and try to help each other (maintenance, protective mode), missing the feeling between them — in step with
+    Kael's Oppose → Support (step 19).
+22. **Genre and logline (2026-10-05).** Genre for both storyforms: **Hard-SF / Philosophical Horror / Psychological
+    Thriller**, in that order, as the canon-era sources write it (`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`
+    L2, `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md` L719). No canon-era source has a logline for the book
+    (the 2026-06-10 „Prämisse in einem Satz" is the F1 thread's; the 2025 loglines assume an older model), so the
+    author took one session draft per storyform, built from goal, consequence, costs and outcome — work text for NCP,
+    not canon prose. Both stand in `a.json`/`b.json` and the overview.
+23. **The storyweaving scaffold (2026-10-05).** Woven fresh from the storyforms (not by re-tagging the 2026-06-10
+    outline, whose chapter codes belong to the earlier storyform), with the chapter-draft-engine skill's routes: hard-a
+    (Kael and the alters), hard-b (AEGIS), bridge (both levels in one scene, one of five anchors). **W6 answered C — an
+    explicit AEGIS-Ich** (C14 decided), one hard-b chapter per act, growing: Kap 0, 6, 16, 22, 28. Bridges by the
+    outline's bands (I ≈ 10 %, II ≈ 25 %, III-A ≈ 40 %, Vortex 100 %, counted as the share of chapters): 13; 18, 21, 26;
+    31, 32, 34; 35, 36, 38, 39; Kap 37 hard-a, Kap 40 the coda outside the acts. Every throughline of both storyforms is
+    carried in every act; B's fourth signpost runs to Kap 39 (collapse 35/36, echo 38/39). The session proposed the
+    distribution, the author approved it act by act. `Plan/storyform/weave.json`; `storyform.py` refuses a weave that
+    leaves a signpost unwoven, a bridge without an anchor, a band overrun or a hard-b count the author did not set.
+    Open: the driver event at each act transition (H11), and the content — the treatment.
+24. **NCP 3 (2026-10-05).** The author chose to move to the format of the fork `netzkontrast/narrative-context-protocol`
+    (`Plan/runs/storyform-2026-10-02/ncp3-delta.md`): one NCP 3.0.0-rc.1 document, `Plan/storyform/ncp/kohaerenz-protokoll.ncp.json`,
+    with the core envelope and, in the `dramatica:` profile payload (1.0.0-rc.1), one story holding both narratives and
+    the 41 chapters as story-level moments whose storybeat references name their narrative — a bridge is one moment
+    across A and B. It replaces the two 1.3.0 files. `dsm_version` says what checked it: the 1999 chart in
+    `dramatica.py`, not the licensed DSM. Risk accepted: a release candidate may still change before 3.0.0.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
-Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10), logline and genre;
+Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
 the signpost order and the element choices are to be checked against the treatment (W1: B as the check).
 The storyforms live in `Plan/storyform/` (`a.json`, `b.json`, the generated `overview.md` and NCP files), checked by
 `scripts/storyform.py`; how to change them is the skill `storyform`.

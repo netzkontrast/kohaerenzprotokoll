@@ -3,6 +3,8 @@
  "title": "Storyform A — Heuristik der Integration (K1)",
  "decision": "Plan/decisions/025-dramatica-is-the-recipe.md",
  "premise": "Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung — und Liebe ist die Ordnung, die Vielheit trägt.",
+ "logline": "Ein Mann, der beruflich die Risse einer simulierten Stadt glättet, muss seine eigene zersplitterte Geschichte lesen, bevor sich die Nacht seiner Fragmentierung wiederholt — und erfahren, dass seine Vielheit nicht die Störung ist, sondern die Bedingung seiner Heilung.",
+ "genre": "Hard-SF / Philosophical Horror / Psychological Thriller",
  "chapters": {
   "1": "Akt I, Kap 1–13",
   "2": "Akt II, Kap 14–26",
@@ -78,7 +80,9 @@
    "Understanding"
   ],
   "problem": "Ability",
-  "solution": "Desire"
+  "solution": "Desire",
+  "focus": "Thought",
+  "direction": "Knowledge"
  },
  "plot": {
   "requirements": "Learning",
@@ -126,8 +130,7 @@
   }
  ],
  "open": [
-  "RS focus/direction: the pair Knowledge/Thought, order open",
-  "logline, genre"
+  "the other six archetypes — Guardian-Archetyp, Contagonist, Reason, Emotion, Sidekick, Skeptic (W10 C, via the treatment pilot)"
  ],
  "texts": {
   "perspectives": {
@@ -171,7 +174,9 @@
    "OS Problem": "Das System hält am Bestehenden fest — das Crucial Element, das Kael aufgibt.",
    "OS Solution": "Veränderung des Bestehenden.",
    "Story Goal": "Einen Plan, ein Konzept der Ordnung entwickeln.",
-   "RS Issue": "Instinkt gegen Konditionierung: was der Link von selbst tut gegen was er gelernt hat."
+   "RS Issue": "Instinkt gegen Konditionierung: was der Link von selbst tut gegen was er gelernt hat.",
+   "RS Focus": "Grübeln: Kael und Juna denken übereinander nach — ist Juna echt?",
+   "RS Direction": "Gewissheit: sie suchen Belege, statt zu wollen."
   },
   "plot": {
    "requirements": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
@@ -244,6 +249,10 @@
   "plot.costs": "author step 14 (session proposal)",
   "plot.dividends": "author step 14 (session proposal)",
   "plot.prerequisites": "author, fine structure 2b",
-  "plot.preconditions": "author, fine structure 2b"
+  "plot.preconditions": "author, fine structure 2b",
+  "RS.focus": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)",
+  "RS.direction": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)",
+  "logline": "author, 2026-10-05, logline (session draft from goal, consequence, costs and outcome)",
+  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)"
  }
 }
