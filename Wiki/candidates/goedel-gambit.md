@@ -1,10 +1,10 @@
 ---
 term: Gödel-Gambit
 status: candidate
-sources: 32
-readings: 30
+sources: 33
+readings: 31
 conflict: none yet
-ingested: ["kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll-konzept-master-md", "aegis-subplots-kapitelweise-system-exploration-docx", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "hard-sci-fi-cosmic-horror-research-questions", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
+ingested: ["kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll-konzept-master-md", "aegis-subplots-kapitelweise-system-exploration-docx", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "hard-sci-fi-cosmic-horror-research-questions", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll"]
 gathered: "2026-09-25"
 ---
 
@@ -74,6 +74,12 @@ It places the completion in the final act and links it to the reader: „Wenn im
 AEGIS' fate, in its profile: „Wird durch das" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L316] Gambit
 „Kaels nicht zerstört" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L316];
 „es muss eine paradoxe Wahrheit anerkennen, die es logisch nicht erfassen kann (ineffiziente Schönheit)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L316]
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — The Gödel-Gambit in P-03 and in the report's summary of C-006
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row P-03 (five stars): „Kaels voll integrierte Psyche wird zum lebenden Widerspruch (Gödel-Satz)“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L93]. In C-006 the report's own summary names the internal approach as „Umprogrammierung der Simulation durch das Gödel-Gambit“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L33].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Gambit named as such, Kael a living Gödel statement inside AEGIS' P-class logic, and its own chapter titles
 
