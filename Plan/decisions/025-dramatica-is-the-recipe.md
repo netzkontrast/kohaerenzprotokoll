@@ -117,6 +117,16 @@ with the consequences of each option laid out.
     (the 2026-06-10 „Prämisse in einem Satz" is the F1 thread's; the 2025 loglines assume an older model), so the
     author took one session draft per storyform, built from goal, consequence, costs and outcome — work text for NCP,
     not canon prose. Both stand in `a.json`/`b.json` and the overview.
+23. **The storyweaving scaffold (2026-10-05).** Woven fresh from the storyforms (not by re-tagging the 2026-06-10
+    outline, whose chapter codes belong to the earlier storyform), with the chapter-draft-engine skill's routes: hard-a
+    (Kael and the alters), hard-b (AEGIS), bridge (both levels in one scene, one of five anchors). **W6 answered C — an
+    explicit AEGIS-Ich** (C14 decided), one hard-b chapter per act, growing: Kap 0, 6, 16, 22, 28. Bridges by the
+    outline's bands (I ≈ 10 %, II ≈ 25 %, III-A ≈ 40 %, Vortex 100 %, counted as the share of chapters): 13; 18, 21, 26;
+    31, 32, 34; 35, 36, 38, 39; Kap 37 hard-a, Kap 40 the coda outside the acts. Every throughline of both storyforms is
+    carried in every act; B's fourth signpost runs to Kap 39 (collapse 35/36, echo 38/39). The session proposed the
+    distribution, the author approved it act by act. `Plan/storyform/weave.json`; `storyform.py` refuses a weave that
+    leaves a signpost unwoven, a bridge without an anchor, a band overrun or a hard-b count the author did not set.
+    Open: the driver event at each act transition (H11), and the content — the treatment.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

@@ -1,6 +1,6 @@
 ---
 id: W6
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W3, W7, W5, W4, C8, C14]
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: ""
@@ -58,6 +58,10 @@ Irrtum des Systems, kann Kaels verborgenes Problem aber noch nicht benennen.
 Die alternative Fassung A muss denselben Eingriff durch seine Folgen tragen können.
 
 ## Antwort und Abhängigkeiten
+
+**Beantwortet 2026-10-05: C — ausdrückliches AEGIS-Ich**, eins je Akt, wachsend: Kap 0, 6, 16, 22, 28 ([Entscheidung 025](../decisions/025-dramatica-is-the-recipe.md), Schritt 23; `Plan/storyform/weave.json`). Was das Ich wissen darf, bleibt W7; wie es klingt, W3.
+
+Früher:
 
 **Ergänzung aus PR #113:** [Strukturwissen, §5](../runs/plot-2026-09-30/05-dual-storyform-structure.md)
 empfiehlt B als Ereignis in Kaels Sicht, später Spiegel-Alters und erst nach
