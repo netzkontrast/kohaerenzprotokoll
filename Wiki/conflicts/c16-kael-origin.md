@@ -148,3 +148,11 @@ Stands outside the record's two tellings: the origin is a trauma history, with A
 AEGIS performs the `Trennungsprotokoll`, which „violently fragmented its own“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112] `Ursprungs-Ich` (L112). Of Juna/V it says she is „exiled part of Kael's own“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L138] `Ursprungs-Ich.` (L138). Kael's is a second, separate original self, one of whose parts is Juna/V; AEGIS's is the one split in L112. No line makes the two the same self or Kael a remainder of AEGIS's, and no entity M occurs (`Monster` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0]).
 
 Neither the outside origin (rows 1 to 3) nor the shared split self (rows 5 to 8); a third arrangement, two Ursprungs-Ich; recorded, the conflict stays open.
+
+## 2026-10-05 — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development
+
+**The concept development plans Kael's origin in Chapter P as a fragmentation by AEGIS, with a „Echo“ as the original whole; it names no entity M and no Komponente 734 in those lines.**
+
+The focus field of Chapter P ties AEGIS's origin to Kael: the implementation of the paradox „die gleichzeitig den Samen für zukünftige Instabilität und Kaels traumatischer Fragmentierung legt.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L46] The strategy field says „wird als gewaltsamer Akt der Fragmentierung dargestellt“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47] of Kael's `Geburt`, to awaken empathy. The application field puts the two together: AEGIS's act of controlling chaos „durch rigide Logik und Fragmentierung (von“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L48] `Echo` and Kael, and it states „ist das ursprüngliche Ganze / die Quelle der EPs“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L48] of the `Echo`. The same line adds that Kael's fragmentation is the starting point of her TSDP structure.
+
+Where it stands in the record's own terms: a plan in which AEGIS fragments an original whole (the `Echo`), from which Kael and the emotional parts follow; it is the AEGIS-side origin and does not say whether the `Echo` is AEGIS's own precursor; recorded, not applied; the document writes Kael female throughout (`C17`).
