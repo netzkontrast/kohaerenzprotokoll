@@ -459,3 +459,11 @@ Stands as one more table of alters with a one-per-row layout of functional roles
 It says „streng in vier Kernwelten (KW1 bis KW4) sowie externe Meta-Schichten unterteilt“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L67]; its table lists the Überwelt and the Externe Ebene after them. For the alters: „Das System besteht aus elf hochspezialisierten Anteilen (Alters), die in ständigen, phobischen Vermeidungszyklen voneinander isoliert operieren.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L85]
 
 Stands: four Kernwelten plus two levels, and eleven alters, recorded as this report's counts (L67, L85).
+
+## 2026-10-05 — `kontext-outline`, 2025-05-03, the outline commission
+
+**The commission briefs four worlds and a list of Anteile in which Nyx is marked open.**
+
+The glossary lists four worlds, the fourth as „Kreativitäts-/potenzialbasierte Welt. Guardians: Kairos & Sophia.“ ^[kontext-outline.md:L33] The Anteile are „Verschiedene Ich-Zustände innerhalb von System Kael“ ^[kontext-outline.md:L34], with the Host and Lex, Alex, Rhys, Argus, Nyx and Selene as ANPs and Kiko, Lia and Moros under the EPs. Nyx is the one marked open: „Aggressiver/kämpferischer Anteil (?)“ ^[kontext-outline.md:L43]. Selene is hedged: „Potenziell integrierter/koordinierender Anteil am Ende“ ^[kontext-outline.md:L44]. The briefing does not say one world corresponds to one Anteil.
+
+Where it stands: four worlds are listed and the correspondence is not addressed; the Anteile list carries its own question mark at Nyx.
