@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -46,6 +46,14 @@ Title: „Begegnung mit Echo“ ^[roman-outline-system-kael.md:L104]
 Position: Teil II, KW2
 
 - Story: Kael meets „der verängstigten Kind-Manifestation“ ^[roman-outline-system-kael.md:L104] Echo; „Seine Versuche, Echo mit der kalten Logik von Lex zu beruhigen, scheitern kläglich.“ ^[roman-outline-system-kael.md:L104]
+
+## Reading — `outline`, 2025-07-30, the outline — Der Innere Bunker
+
+Title: „Der Innere Bunker“ ^[outline.md:L49] — Teil 1, headed „Fragmentierung und erste Echos“ ^[outline.md:L17]
+Position: the outline gives no `Erzählperspektive` for this chapter; its fields are `Inhalt` and `Fokus`
+
+- Story: the outline plans, under `Inhalt`, „wo Nox (EP) als Verkörperung seiner Angst und Abwehrreaktionen eingeführt wird“ ^[outline.md:L51]
+- Focus: under `Fokus`, „Der Bunker ist eine thematische Darstellung von Isolation und Schutz“ ^[outline.md:L52]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
