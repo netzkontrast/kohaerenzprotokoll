@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -85,6 +85,10 @@ The architecture analysis pairs the name with the Labyrinth: „KW3 (Grenzfeste/
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — KW3, written Cerberus-Labyrinth / Grenzfeste
 
 The third Core World is written „KW3: Cerberus-Labyrinth / Grenzfeste“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98]. Its principle is „Defense & Hypervigilance (Protectors)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], its sensory signature „Oppressive, militaristic, jarring, monitored“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], and its somatic truth is bracing for impact: „The body as armor, revealing that physical security does not equal psychological safety.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the third Kernwelt: B, protectors, Cerberus
+
+The Leitfragen report (an analyst's review) gives, as its account of other documents, one table row for the Grenzfeste: „Grenzfeste (B)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94], with „Protektoren, Paranoia, Abwehr“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94], the Guardian Cerberus, the paradigm „Baby-Monster-Gruppe, Nicht-linearität“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94], and a transition marked as open: „Überwindung der Zero-Trust-Firewall“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94]. Cerberus is named with it again as „Cerberus (Grenzfeste)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105].
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — KW3, Die Grenzfeste / Cerberus-Labyrinth
 
