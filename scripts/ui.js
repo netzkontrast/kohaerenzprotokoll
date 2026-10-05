@@ -242,18 +242,18 @@ class Component extends DCLogic {
     const s = this.st();
     const V = D.val;
     const fmt = (n) => this.fmt(n);
-    const SCREENS = ['now', 'wiki', 'conflicts', 'questions', 'graph', 'corpus', 'process'];
+    const SCREENS = ['now', 'wiki', 'conflicts', 'questions', 'manuscript', 'graph', 'corpus', 'process'];
     let screen = s.screen || this.props.screen || 'now';
     if (SCREENS.indexOf(screen) < 0) screen = 'now';
     const uid = 'kp-' + (this.props.screen || 'main');
     const ptab = s.ptab || 'loop';
     const is = {
       now: screen === 'now', wiki: screen === 'wiki', conflicts: screen === 'conflicts', questions: screen === 'questions',
-      graph: screen === 'graph', corpus: screen === 'corpus', process: screen === 'process',
+      graph: screen === 'graph', corpus: screen === 'corpus', process: screen === 'process', manuscript: screen === 'manuscript',
     };
     is.procList = is.process && (ptab === 'compare' || ptab === 'decisions' || ptab === 'principles' || ptab === 'now' || ptab === 'goal');
-    is.readerLayout = is.wiki || is.conflicts || is.questions || is.process;
-    is.left = is.wiki || is.conflicts || is.questions || is.procList;
+    is.readerLayout = is.wiki || is.conflicts || is.questions || is.process || is.manuscript;
+    is.left = is.wiki || is.conflicts || is.questions || is.procList || is.manuscript;
     is.rail = is.wiki || is.conflicts || is.questions;
     is.loop = is.process && ptab === 'loop';
     is.checks = is.process && ptab === 'checks';
@@ -271,6 +271,7 @@ class Component extends DCLogic {
       wiki: navItem('wiki', String(D.pages.length)),
       conflicts: navItem('conflicts', openC + ' open'),
       questions: navItem('questions', String(D.questions.length)),
+      manuscript: navItem('manuscript', String(D.manuscript.filter((m) => !m.readme).length)),
       graph: navItem('graph', String(D.graph.nodes.length)),
       corpus: navItem('corpus', String(D.rows.length)),
       process: navItem('process', ''),
@@ -295,6 +296,7 @@ class Component extends DCLogic {
       wiki: ['Wiki', D.pages.length + ' candidate pages · every reading attributed and unmerged · where sources disagree, a page says so and stops'],
       conflicts: ['Conflicts', D.conflicts.length + ' append-only records of two sources that cannot both hold · a record decides nothing; the author does'],
       questions: ['Questions', 'What several pages ask and no source read so far answers · and everything noted for the author'],
+      manuscript: ['Manuscript', 'The novel’s drafts in Manuscript/ · none is canon or a voice reference until the author approves it'],
       graph: ['Knowledge graph', D.graph.nodes.length + ' nodes · ' + fmt(D.graph.edges.length) + ' typed edges · each carries the file line that states it; none is inferred'],
       corpus: ['Corpus', D.rows.length + ' Drive documents in the manifest · ' + V('sources.landed') + ' landed as Markdown · ' + D.docs.length + ' read'],
       process: ['Process', 'The loop that extends the wiki, the checks that keep it honest, and the rules behind both'],
@@ -384,6 +386,7 @@ class Component extends DCLogic {
     const wr = { toc: [], tocN: 0, out: [], outN: 0, outNone: true, inn: [], inN: 0, inNone: true, cx: [], hasCx: false, qx: [], hasQx: false, reads: [], sf: [], hasSf: false, evN: 0, evV: 0, evU: 0, evX: 0, ev0: 0, ev1: 0, ev2: 0, graph: null };
     const cl = { list: [], head: '', sub: '' };
     const cr = { hasNp: false, q: [], pos: [], decided: false, status: '', pages: [], pagesN: 0, qs: [], hasQs: false, path: '', first: '', src: '' };
+    const ml = { list: [], head: '', sub: '', empty: false };
     const ql = { list: [], agenda: { bg: 'transparent', bd: 'transparent', go: null, cur: undefined } };
     const qr = { isQ: false, isAgenda: false, raised: [], raisedN: 0, docs: [], docsN: 0, conf: [], hasConf: false, path: '', decided: [], counts: '', intro: [] };
     const pl = { head: '', sub: '', items: [] };
@@ -515,6 +518,33 @@ class Component extends DCLogic {
       cr.path = 'Wiki/conflicts/' + c.f + '.md';
       cr.first = c.first;
       cr.src = c.src;
+    }
+
+    if (is.manuscript) {
+      const drafts = D.manuscript.filter((m) => !m.readme).length;
+      const words = D.manuscript.filter((m) => !m.readme).reduce((n, m) => n + m.w, 0);
+      ml.head = drafts + ' drafts';
+      ml.sub = fmt(words) + ' words · rendered from Manuscript/ as written; an overview page opens each folder';
+      ml.empty = D.manuscript.length === 0;
+      const sel = s.ms == null ? Math.max(0, D.manuscript.length - 1) : s.ms;
+      ml.list = D.manuscript.map((m, i) => {
+        const on = i === sel;
+        return {
+          id: m.part ? m.part.replace(/^kap-0?/, 'K') : '—', main: m.t.replace(/^Kap \d+ — /, ''),
+          sub: m.readme ? 'overview · ' + m.f : fmt(m.w) + ' words · ' + m.f.split('/').pop(),
+          idc: m.readme ? '#645F53' : '#B0341E', bg: on ? '#FBFAF6' : 'transparent', bd: on ? '#C9C0AC' : 'transparent',
+          cur: on ? 'true' : undefined, go: () => this.setState({ ms: i }),
+        };
+      });
+      const m = D.manuscript[sel];
+      if (m) {
+        rd = {
+          kicker: 'Manuscript · ' + m.f, title: m.t.replace(/`/g, ''), tsz: m.t.length > 56 ? 30 : 36,
+          hasSub: false, sub: '',
+          chips: [m.readme ? this.chip('overview') : this.chip('draft', 'rubric'), this.chip(fmt(m.w) + ' words'), this.chip('not canon')],
+          secs: this.secs(m.lede, m.sec, uid + '-m' + sel), maxW: 700, key: 'ms:' + sel,
+        };
+      }
     }
 
     if (is.questions) {
@@ -898,7 +928,7 @@ class Component extends DCLogic {
       ids: { search: uid + '-search', wq: uid + '-wq', cq: uid + '-cq' },
       q: q, onQ: onQ, onQKey: onQKey, sr: sr,
       now: now, rd: rd, readerRef: this._refCb,
-      w: w, wr: wr, cl: cl, cr: cr, ql: ql, qr: qr, pl: pl, proc: proc, loop: loop, chk: chkv,
+      w: w, wr: wr, cl: cl, cr: cr, ml: ml, ql: ql, qr: qr, pl: pl, proc: proc, loop: loop, chk: chkv,
       g: g, cp: cp,
     };
   }

@@ -19,6 +19,8 @@ the author are collected, verbatim, in `Plan/questions-for-the-author.md`.
 
 In force until the author says otherwise; newest first.
 
+- 2026-10-04 **„Füge eine manuscript Section in der [App] ein - und speichere deine Entwürfe in einem Ordner manuscript“** — the drafts live in `Manuscript/` (Kap 1: A–G, current G), and the project app has a „Manuscript“ screen (decision 023).
+- 2026-10-03 **„Gehe mal tief in dich - und entwerfe mehrere Drafts für Kapitel 1“** — four drafts, each showing one open Weiche in prose, stand in `Manuscript/kap-01/` with a comparison and a recommendation. None is canon or a voice reference until the author says so, and question A below stays open.
 - 2026-09-30 **„Is the backfill usefull? If not - stop it"** — it was not, and it is stopped (`Plan/decisions/019-…`); a committed `STOP` file keeps it so.
 - 2026-09-30 **„achte auf mein Nutzungslimit - starte diese nicht parallel"** — model runs go one at a time, each recorded; Claude calls draw on the author's usage.
 - 2026-09-30 **„stop Reading document - you should Improve the Pipeline"**, and 2026-09-28 **„Dont start any new documents"** — no document is read until the author says so.
@@ -35,7 +37,7 @@ None of these blocks the pipeline. The full context of each is where it is named
 1. **The novel-writing plan** (`Plan/concept/novel-writing-plan_2026-09-29.md`; nothing in it is decided). Four questions come first, options and the case for each in its §11:
    **A** who writes the prose (the session whole chapters / scene by scene on beats the author approved / the author, with the writing skills critiquing — recommended: not whole chapters);
    **B** the September draft's ideas (land its premise and drafting record as research, or leave all of it parked — recommended: land them);
-   **C** where the book lives (a new top-level `Novel/` / inside `Wiki/` / a repository of its own — recommended: `Novel/`);
+   **C** where the book lives — **answered 2026-10-04: `Manuscript/`**, a top-level folder shown in the app (decision 023);
    **D** reading on demand while writing (for the chapter in hand / each document on the author's yes / none until the first draft — recommended: each document on the author's yes).
    Then the sixteen Weichen W1–W16 in four rounds: sheets for W1–W10, W12, W15 and WP stand in `Plan/weichen/` (options, gains, costs, a recommendation, dependencies; none is a decision),
    and `Plan/concept/treatment-probe_2026-09-30.md` makes the recommendations concrete; W11, W13, W14 and W16 have no sheet yet. The plot question of 2026-09-29
