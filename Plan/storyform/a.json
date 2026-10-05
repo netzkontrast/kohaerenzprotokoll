@@ -3,6 +3,8 @@
  "title": "Storyform A — Heuristik der Integration (K1)",
  "decision": "Plan/decisions/025-dramatica-is-the-recipe.md",
  "premise": "Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung — und Liebe ist die Ordnung, die Vielheit trägt.",
+ "logline": "Ein Mann, der beruflich die Risse einer simulierten Stadt glättet, muss seine eigene zersplitterte Geschichte lesen, bevor sich die Nacht seiner Fragmentierung wiederholt — und erfahren, dass seine Vielheit nicht die Störung ist, sondern die Bedingung seiner Heilung.",
+ "genre": "Hard-SF / Philosophical Horror / Psychological Thriller",
  "chapters": {
   "1": "Akt I, Kap 1–13",
   "2": "Akt II, Kap 14–26",
@@ -128,7 +130,7 @@
   }
  ],
  "open": [
-  "logline, genre"
+  "the other six archetypes — Guardian-Archetyp, Contagonist, Reason, Emotion, Sidekick, Skeptic (W10 C, via the treatment pilot)"
  ],
  "texts": {
   "perspectives": {
@@ -249,6 +251,8 @@
   "plot.prerequisites": "author, fine structure 2b",
   "plot.preconditions": "author, fine structure 2b",
   "RS.focus": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)",
-  "RS.direction": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)"
+  "RS.direction": "author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order)",
+  "logline": "author, 2026-10-05, logline (session draft from goal, consequence, costs and outcome)",
+  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)"
  }
 }

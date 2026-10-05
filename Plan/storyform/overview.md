@@ -23,6 +23,10 @@
 
 ## Storyform A — Heuristik der Integration (K1)
 
+**Logline:** „Ein Mann, der beruflich die Risse einer simulierten Stadt glättet, muss seine eigene zersplitterte Geschichte lesen, bevor sich die Nacht seiner Fragmentierung wiederholt — und erfahren, dass seine Vielheit nicht die Störung ist, sondern die Bedingung seiner Heilung."
+
+**Genre:** Hard-SF / Philosophical Horror / Psychological Thriller
+
 | Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |
 |---|---|---|---|---|---|---|
 | MC | Mind | Memory | Suspicion | Inertia → Change | Chaos → Order | Memory → Subconscious → Preconscious → Conscious |
@@ -34,11 +38,15 @@ Plot: goal **Conceptualizing** · requirements **Learning** · consequence **Pas
 
 Besetzung: Kael — Main Character (Inertia); Juna — Influence Character (Change); Selene (Alter) — Protagonist (Pursuit, Consideration); Oblivion (Alter) — Antagonist (Avoid, Reconsideration)
 
-Offen: logline, genre
+Offen: the other six archetypes — Guardian-Archetyp, Contagonist, Reason, Emotion, Sidekick, Skeptic (W10 C, via the treatment pilot)
 
 Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 
 ## Storyform B — Phönix-Kollaps (K0)
+
+**Logline:** „Eine KI, die ihre Welt durch lückenlose Sweeps schließen will, verliert mit jedem Sweep ihr eigenes Gedächtnis — und scheitert an dem einen Host, der lernt, was sie nie kann: zu glauben."
+
+**Genre:** Hard-SF / Philosophical Horror / Psychological Thriller
 
 | Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |
 |---|---|---|---|---|---|---|
@@ -51,7 +59,7 @@ Plot: goal **Obtaining** · requirements **Doing** · consequence **Becoming** �
 
 Besetzung: AEGIS — Main Character, Protagonist (Logic); Kael — Influence Character, Antagonist (Feeling)
 
-Offen: the other archetypes (W10); logline, genre
+Offen: the other archetypes (W10)
 
 Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 
