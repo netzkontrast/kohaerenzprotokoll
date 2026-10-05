@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -64,6 +64,14 @@ Position: Teil II; setting from the `Schauplatz` field: „Glitch-Landschaften (
 
 - Cast: the `Charaktere/Linsen` field lists „AEGIS (Parser), Kael, LogOS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L185]
 - Story: the blueprint plans, in `Plot-Beats`, „Das Resultat sind Albtraumlandschaften, in denen Kausalität invertiert ist“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L187] and „da logisches Denken in dieser Falle tödlich ist“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L187]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Consensus Enforcer
+
+Title: „Der Consensus Enforcer“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L205] — heading „Die Brutalität der Ordnung“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L206]
+Position: Teil II; POV from `Perspektive & Stimme`: „Alex“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L207]; place from `Ort`: „KW3 – Ein Verhör-/Sicherheitsraum“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L209]
+
+- Story: the matrix plans „Alex muss ein brutales Sicherheitsprotokoll überwinden“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L211]
+- Question: „Heiligt die Stabilität (Kohärenz) jedes Mittel?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L210]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
