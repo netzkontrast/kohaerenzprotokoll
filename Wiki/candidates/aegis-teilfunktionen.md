@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 9
-readings: 7
+sources: 10
+readings: 8
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse"]
 gathered: "2026-09-16"
 ---
 
@@ -75,6 +75,10 @@ F2 lists twelve protocols as former candidates, `IntegrityGuardian` and `SIS` am
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — SIS in the pre-assessment and the evaluation
 
 The outline of 2026-05-01 lists SIS in its POV table at Kap 4 as „SIS-Vorabbewertung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L60] and at Kap 5 as „SIS-Evaluation“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L61]. In Kap 4 the entry: „SIS analysiert Kaels Datenstrom in Vorbereitung der Pflicht-Evaluation.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172] — and „SIS klassifiziert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172] the three fundamental frequencies as `biorhythmisches Drift`.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — SIS, RIVE and ZTEM as the three protocols
+
+The report directs a reduction of the protocol lore to three (§4.3). `SIS` is „Die kognitive Firewall.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L113] In the Vortex the heat „Die Hitze zwingt das SIS-Protokoll (Secure Isolation State) zum Absturz.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L83] The other two: `RIVE` is „Der dauerhafte Hintergrund-Scan.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L112] and `ZTEM` is „Der aktive Lösch-Sweep.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L114]
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
