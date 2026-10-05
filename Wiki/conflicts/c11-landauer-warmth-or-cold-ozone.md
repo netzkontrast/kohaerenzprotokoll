@@ -428,3 +428,13 @@ Where it stands in the record's own terms: warmth and ozone stand in one list he
 Kap 39: „der Geruch der heißen Reibung lebender Moleküle aneinander“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L338] Kap 35: „Landauer divergent“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L322]
 
 Stands: the outline writes both as plan and decides nothing.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report
+
+**The Synthese-Report directs one ozone smell in Kap 1 and Kap 39 with inverted meaning, cold at the start and hot at the end; it ties heat to AEGIS and cold to Juna.**
+
+Kap 1 (§4.5, the report's directive): „Der Ozon-Geruch steht für die absolute Isolation durch K1-Perfektion“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L138] and „ein Raum, in dem Atome auf Nullpunkt heruntergekühlt sind und Reibung (Interaktion) unmöglich ist“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L138] Kap 39: „Der Raum ist heiß und dicht.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L139] and „Der Ozon-Geruch resultiert nun aus der permanenten, unaufhebbaren“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L139]
+
+Heat and cold of the Landauer trace (§4.2): „Überall dort, wo AEGIS operiert, entsteht Hitze (Erasure = Entropie).“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L92] and „Überall dort, wo Junas Einfluss in Kaels System wirkt, entsteht“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L92] cold. Part 1.4 states as consensus that „Trauma-Erasure riecht nach Ozon“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L31]
+
+Stands: the report gives the ozone as cold in Kap 1 and hot in Kap 39 and places the Landauer heat with AEGIS and cold with Juna; it does not name the record's question for Kap 6, and nothing is decided here.
