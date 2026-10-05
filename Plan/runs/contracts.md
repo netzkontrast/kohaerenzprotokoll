@@ -35,6 +35,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`systems-narrative-analysis-the-coherence-protocol-kanon-2026`](systems-narrative-analysis-the-coherence-protocol-kanon-2026/contracts.md) |  |  |  |  |  |  | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 24 | 39 |  |  |  |  |
 | [`the-architecture-of-fracture-a-compendium-of-the-kael-system`](the-architecture-of-fracture-a-compendium-of-the-kael-system/contracts.md) |  |  |  |  |  |  | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 | 21 |  |  |  |  |
 | [`the-coherence-protocol-the-hidden-rules-that-hold-reality-to`](the-coherence-protocol-the-hidden-rules-that-hold-reality-to/contracts.md) |  | 15 |  |  |  |  |  |  |  |  |  |  |  | ? |  |  |  |  | ? |  | 16 |  |  |  |  |  |  |  |  |  |  |  |
+| [`three-mode-architecture-39-chapters-md`](three-mode-architecture-39-chapters-md/contracts.md) |  |  |  |  |  |  |  |  | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-163 runs on 32 sources: 138 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+164 runs on 33 sources: 139 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.

@@ -40,7 +40,7 @@ Every contract run by model and by the category of its source — written by `sc
 | `ChapterCards` | kernkonzept | — | 1 (0) | 0 | 65 | 0.0000 | 0 | — |
 | `ChapterCards` | kernkonzept | sonnet | 1 (0) | 0 | 26 | 0.0381 | 0 | — |
 | `ChapterCards` | plot-outline | haiku | 1 (0) | 0 | 36 | 0.0033 | 15 | 13 (87%) |
-| `ChapterCards` | plot-outline | sonnet | 7 (0) | 1 | 563 | 0.0070 | 0 | — |
+| `ChapterCards` | plot-outline | sonnet | 8 (0) | 1 | 606 | 0.0073 | 0 | — |
 | `ChapterCards` | storyform | sonnet | 1 (0) | 0 | 33 | 0.0195 | 0 | — |
 | `ChapterCards` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0472 | 0 | — |
 | `ChapterCards` | worldbuilding | sonnet | 1 (0) | 0 | 47 | 0.0141 | 0 | — |

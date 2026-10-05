@@ -1,0 +1,151 @@
+{
+  "document": "three-mode-architecture-39-chapters-md",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "087bb8c560631a5bf51cd1a4075fb78e3f50eb90a4e8f9c601a97076feedfb6f",
+  "calls": 26,
+  "failed_calls": 0,
+  "seconds": 202.0,
+  "input_tokens": 114134,
+  "output_tokens": 19345,
+  "cost_usd": 0.5121,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 2029,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1459,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1855,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1919,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1936,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 534,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1921,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1059,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1946,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 2004,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 270,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1907,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 960,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1684,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1579,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 776,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 2017,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 970,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 2010,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1748,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 2013,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1903,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 2024,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1889,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 1937,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 598,
+      "ok": true
+    }
+  ]
+}
