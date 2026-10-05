@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -129,6 +129,14 @@ Position: Akt III; POV: „POV: Kael / Oblivion.“ ^[kohaerenz-protokoll-kapite
 
 - Story: the outline plans „Oblivion, der einst gefürchtete AEGIS-Echo-Alter in Kael, erwacht und erkennt die Täuschung der Maschine.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L914]
 - Concepts: „Oblivion (Erwachen), Naturgesetze im Fluss“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L912]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Oblivions Erwachen
+
+Title: „Oblivions Erwachen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L317] — „Akt III: Die existenzielle Fusion (Kapitel 27–39)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L281]; „Pivot-Kapitel“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L319]
+
+- Story: the dual-storyform outline plans „Der systemische Trojaner Oblivion erwacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L319]
+- Storyforms: `Storyform B` (`IC: Mind/Conscious`): „AEGIS’ Bewusstsein wird für Kael transparent“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L321]; `Storyform A` (`IC: Universe/Past`): „Die Genesis wird als gemeinsames Trauma von Mensch und Maschine erkannt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L322]
+- Scene and pacing: `Pacing`: „Still, erkenntnisreich“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L323]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
