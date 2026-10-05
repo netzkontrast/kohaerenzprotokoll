@@ -26,6 +26,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`kp-kap25-2026-09-14-md`](kp-kap25-2026-09-14-md/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |
 | [`leserzentrierte-roman-outline-generierung-kohaeren`](leserzentrierte-roman-outline-generierung-kohaeren/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | n.s. |  |  |  |  |  |  |
 | [`mining-report-kohaerenz-protokoll-narrative-building-blocks`](mining-report-kohaerenz-protokoll-narrative-building-blocks/contracts.md) |  |  |  |  |  |  | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 25 | 51 |  |  |  |  |
+| [`roman-plot-entwicklung-mit-kohaerenzprotokoll`](roman-plot-entwicklung-mit-kohaerenzprotokoll/contracts.md) |  |  |  |  |  |  |  |  | 130 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`romanstruktur-und-philosophische-einleitung`](romanstruktur-und-philosophische-einleitung/contracts.md) |  |  |  |  |  |  |  |  | 95 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`systemic-architecture-specification-the-coherence-protocol-w`](systemic-architecture-specification-the-coherence-protocol-w/contracts.md) |  |  |  |  |  |  | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 16 | 31 |  |  |  |  |
 | [`systems-narrative-analysis-the-coherence-protocol-kanon-2026`](systems-narrative-analysis-the-coherence-protocol-kanon-2026/contracts.md) |  |  |  |  |  |  | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 24 | 39 |  |  |  |  |
@@ -33,4 +34,4 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`the-coherence-protocol-the-hidden-rules-that-hold-reality-to`](the-coherence-protocol-the-hidden-rules-that-hold-reality-to/contracts.md) |  | 15 |  |  |  |  |  |  |  |  |  |  |  | ? |  |  |  |  | ? |  | 16 |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-155 runs on 28 sources: 130 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+156 runs on 29 sources: 131 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
