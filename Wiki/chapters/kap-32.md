@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -94,6 +94,15 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „LogOS baut endlos eine Wand auf und reißt sie ein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L306]; „Nicht gestorben — *obsolet*“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L306]
 - Encoding A: „OS · SP4 (Becoming) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L306]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Fate of the Guardians
+
+Title: „The Fate of the Guardians“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L936]
+Position: Akt III; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L944]
+
+- Story: the outline plans „Im Chaos der verfallenden Welt stößt Kael auf die verbliebenen Fragmente von LogOS und Mnemosyne.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L942]
+- Concepts: „Obsolete Wächterschleifen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L940]
+- Pivot-Marker: the outline plans Driver-Status: „SF-A Decision hat endgültig die Oberhand gewonnen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L966]; Limit-Marker: „SF-B Timelock hat für Kael keine Relevanz mehr.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L967]; Outcome-Marker: „SF-A Success / Good etabliert sich tief im Narrativ.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L968]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
