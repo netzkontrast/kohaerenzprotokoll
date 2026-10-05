@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 - Flucht: „Er nutzt sein Verständnis von M und das "Tor", um die Simulation zu verlassen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L361] (raising questions about the „äußere“ ^[monstergruppe-primzahlen-plot-blueprint.md:L361] reality).
 - Transformation: „Er nutzt seine Verbindung zu M, um die Kernwelt nach kohärenteren Prinzipien umzugestalten, AEGIS' Kontrolle zu brechen und vielleicht eine neue Art von Realität zu schaffen.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L362]
 - Harmonie/Transzendenz: „Er löst seine individuelle Form auf und geht eine tiefere Verbindung mit dem M-Fundament ein, wird Teil seiner Dynamik“ ^[monstergruppe-primzahlen-plot-blueprint.md:L363] — „ein Zustand jenseits menschlichen Verständnisses, potenziell erleuchtend oder erschreckend“ ^[monstergruppe-primzahlen-plot-blueprint.md:L363] (loss of self).
+
+## Reading — `outline`, 2025-07-30, the outline — Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS
+
+Title: „Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS“ ^[outline.md:L203] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Kael (Selene als Koordinatorin, Höhepunkt der Integration)“ ^[outline.md:L206]; journey stage under `Reisestufe`: „Überschreiten der ersten Schwelle (im generellen Kontext der Heldenreise)“ ^[outline.md:L210]
+
+- Story: the outline plans, under `Plot`, „lösen einen umfassenden Zusammenbruch in AEGIS' Kontrolle aus“ ^[outline.md:L205]; „Er konfrontiert und untergräbt LogOS“ ^[outline.md:L205]
+- Question: under `Thematische Kernfrage`, „Kann man ein neues Selbst gebären, das Widersprüche umarmt?“ ^[outline.md:L207]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
