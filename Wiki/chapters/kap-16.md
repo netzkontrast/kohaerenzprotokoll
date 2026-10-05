@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Reaktionsschwelle sondieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L227]
 - Story: „Kael testet systematisch AEGIS' Reaktionen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228] · „geringfügige Regelverstöße, Ausdruck spezifischer Emotionen, Versuch verbotener Verbindungen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
 - Story: „Er könnte entdecken, dass einige Aktionen unverhältnismäßig große Reaktionen hervorrufen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Places of Trauma: Mnemosyne's Grip and Kiko's Fear`
+
+Title: „Places of Trauma: Mnemosyne's Grip and Kiko's Fear“ ^[ai-assisted-narrative-coherence.md:L1471] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the scene outline plans the scene at „2.3 - Mnemosyne-Archipel (KW2)“ ^[ai-assisted-narrative-coherence.md:L1475], POV „Kael (System, with Kiko in focus)“ ^[ai-assisted-narrative-coherence.md:L1476]
+
+- Story (goal): the scene outline plans „The primary goal is to comfort Kiko enough for her to willingly share the memory.“ ^[ai-assisted-narrative-coherence.md:L1477]
+- Story (beat): the scene outline plans „Feeling safe for the first time, Kiko shares a fragment of a memory“ ^[ai-assisted-narrative-coherence.md:L1486]
+- Turn: `Outcome & Turn` has „they have achieved a breakthrough in internal cooperation and trust“ ^[ai-assisted-narrative-coherence.md:L1487]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The hard problem
 
