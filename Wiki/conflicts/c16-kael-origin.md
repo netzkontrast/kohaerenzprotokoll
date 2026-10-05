@@ -164,3 +164,11 @@ Where it stands in the record's own terms: a plan in which AEGIS fragments an or
 The Prologue field tells „Erzählt AEGIS' Entstehung aus Angst/Chaos“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L61] and the fragmentation as a desperate attempt at control „nach externem Trigger (Juna/V?)“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L61]. The trigger is named only as a question; no entity M and no Komponente 734 stand in that line.
 
 Where it stands in the record's own terms: the AEGIS-side origin of the previous day's concept development, with an external trigger asked about and not stated (`C17` for the gender); recorded, not applied.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report
+
+**The Leitfragen report asks whether Kael is a simulated avatar, a psychological construct or a sub-process of Dr. Aris Thorne, and does not answer.**
+
+The report cites two layers (its sources 11 and 9), not a position of its own. Of the early drafts: „wird in frühen Entwürfen die reale Welt etabliert“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L115], with „Dr. Aris Thorne ist ein geächteter Computerphysiker“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L115]. Of the developing model: „Kael ist der Protagonist, ein fragmentiertes System (TSDP) innerhalb der Simulation von AEGIS“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L117]. Its question: „Ist Kael ein simulierter Avatar, ein psychologisches Konstrukt oder ein Sub-Prozess von Dr. Aris Thorne?“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L119]. It then asks whether the lab accident equals the reboot „den AEGIS im Vorwort initiiert, weil das“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L119] Nichts Rauschen broke in. It says nothing here of an external entity M or of Komponente 734.
+
+Stands as a new question set beside the record's origins: Kael as an avatar, a construct or a sub-process of a physicist of the early drafts; recorded, not applied.
