@@ -467,3 +467,9 @@ Stands: four Kernwelten plus two levels, and eleven alters, recorded as this rep
 The glossary lists four worlds, the fourth as „Kreativitäts-/potenzialbasierte Welt. Guardians: Kairos & Sophia.“ ^[kontext-outline.md:L33] The Anteile are „Verschiedene Ich-Zustände innerhalb von System Kael“ ^[kontext-outline.md:L34], with the Host and Lex, Alex, Rhys, Argus, Nyx and Selene as ANPs and Kiko, Lia and Moros under the EPs. Nyx is the one marked open: „Aggressiver/kämpferischer Anteil (?)“ ^[kontext-outline.md:L43]. Selene is hedged: „Potenziell integrierter/koordinierender Anteil am Ende“ ^[kontext-outline.md:L44]. The briefing does not say one world corresponds to one Anteil.
 
 Where it stands: four worlds are listed and the correspondence is not addressed; the Anteile list carries its own question mark at Nyx.
+
+## 2026-10-05 — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept
+
+**Four Kern-Welten.**
+The overview: „vier Kern-Welten (KW1-4), die Aspekte von Kaels Psyche repräsentieren“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17]; besides them, „eine digitale Überwelt, die Domäne von AEGIS“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17] and „eine externe Ebene, verbunden mit Juna/V“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17].
+Four Kern-Welten, with two further levels beside them; the number of alters is not given here, and the question stays open.
