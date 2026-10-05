@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,10 @@ Position: „AEGIS' Fragilität / Risse / Cache Kohärenz (Konflikt)“ ^[kohaer
 - Story: AEGIS orders him to destroy the Juna connection it blames for the world's entropy cascade, „BEFEHL: K-1123. PRIORISIERE IDENTIFIKATION UND NEUTRALISIERUNG DER SUB-PROTOKOLLARISCHEN SIGNATUR.“ ^[kohaerenz-protokoll.md:L1544], and he refuses it, „Nein, dachte Kael, und diesmal war es keine Stimme eines Teils, sondern seine eigene, integrierte Stimme.“ ^[kohaerenz-protokoll.md:L1578]
 - Voice: third person on Kael; AEGIS' commands stand in capitals, and his inner Anteile speak in italics.
 - Close: „Der Bruch war geschehen. Die Realität seiner Situation war klar. Der Zyklus hatte begonnen.“ ^[kohaerenz-protokoll.md:L1588]
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — `Phase 1: Der Bruch`, the start of a cycle
+
+- Position: the synthesis cites the plot of Part 1 for a cyclic structure, „Phase 1: Der Bruch“ ^[system-kael-konzeptentwicklung-und-analyse.md:L211] in Kapitel 14, and reads it as the cycles of trauma healing — stability, confrontation, crisis, deeper integration — not a linear process. It says nothing else of the chapter.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
