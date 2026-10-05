@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 27
-readings: 27
+sources: 28
+readings: 28
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"]
 gathered: "2026-09-17"
 ---
 
@@ -26,6 +26,12 @@ nature ^[kohaerenzprotokoll-aegis-und-systementropie.md:L124].
 
 **Premise, not finding.** The source takes the layer as given and reasons about
 what follows.
+
+## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — section 6: a reality outside AEGIS's control, laws `Unbekannt`
+
+Section 6 describes the Externe Ebene as „Realität außerhalb von AEGIS' Kontrolle“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L133], its nature „unbekannt, aber im Kontrast zur Simulation“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L133]; it represents „potenziell basierend auf Emotion, Verbindung, Bewusstsein oder anderer Physik/Metaphysik.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L133] Its look and senses are written as questions: „Stark kontrastierend zur Simulation (organisch? warm? lichtvoll? anders abstrakt?).“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L138]
+
+For its laws the field reads „Unbekannt; basieren nicht auf AEGIS-Logik; potenziell auf Empathie, Bewusstsein, Resonanz, Nichtlokalität.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L144] and adds „Entropie/Risse im AEGIS-Sinn nicht anwendbar.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L144] The field `Schnittstellen/Überlappungen` names the way in: „Manifestiert sich innerhalb der Simulation möglicherweise durch "Ankerpunkte" (siehe Roman-Lokalitäten Konzept) oder durch die Verbindung V selbst, die AEGIS' System durchdringt.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L145] The referenced concept is not quoted by this document.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — the two lines that name the external level
 
