@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -50,6 +50,10 @@ Whether the document's simulation is this page's Überwelt is not settled by the
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the simulation AEGIS's Kernwelten sit in, written Simulation, never Überwelt
 
 The pitch writes `Überwelt` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#0] and `Simulation` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#5]. It places the worlds „Innerhalb der von AEGIS simulierten Kernwelten“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L91], and the Risse grow „im Gewebe der Simulation das unausweichliche Eindringen der Entropie visualisieren“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L153].
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Overworld as AEGIS's primary control layer
+
+The manifest says self-closure led to „the primary computational control layer: The Overworld, internally designated as the Überwelt“ ^[aegis-persona-and-manifest-generation.md:L37]. It is „an abstract, non-anthropomorphic, information-based reality“ ^[aegis-persona-and-manifest-generation.md:L37] built to „replace the unpredictable external void with a fully controlled internal matrix“ ^[aegis-persona-and-manifest-generation.md:L37]. Space is „defined exclusively by data connectivity, logic gates, and geometric function“ ^[aegis-persona-and-manifest-generation.md:L39], with no biology, and „the Gatekeeper dictates the absolute laws of synthetic physics“ ^[aegis-persona-and-manifest-generation.md:L41].
 
 ## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — the simulation as the world whose clockwork Kael and Juna disturb and in which the witness stands; the word Überwelt never written
 
