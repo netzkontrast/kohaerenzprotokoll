@@ -290,3 +290,13 @@ On no row as written: neither three beats nor four, no Wir-AEGIS-plural (`Wir-AE
 **No beat counted — Kael himself, not a precursor, as what the Genesis Crisis's self-mutilation resulted in, and a case number of his own.**
 Kael is „that resulted from AEGIS's own act of self-mutilation" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L71] (`Zerstückelung`, the `Genesis Crisis`) — the fragment the separation produces, not a precursor before it, nearest row 1's identity of Kael and the component. The Assessment gives the case its own number: „734-K-1123" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1565], and names the partitioning „erzwungenen Kohärenz-Partitionierung" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1584] (J114, on [[trennungsprotokoll|Trennungsprotokoll]]).
 `Beat` and `Wir-AEGIS` stand 0 times, `Trennungsprotokoll` 0 (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`); the document counts no beats and orders none. On no row by count: no beats are named; on the component, nearest row 1 — Kael the fragment the separation produces. The conflict stays open.
+
+## 2026-10-05 — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse
+
+**A commentary on one narrative orders closure, then the component, then the crisis, then the protocol; it counts no beats and does not write `Trennungsprotokoll`.**
+
+The Textanalyse retells the narrative it calls `Genesis der Existenz`. It places closure first: „Der Höhepunkt der Systemwerdung ist das Ereignis, das der Text als“ ^[textanalyse-existenz-system-und-leid.md:L90] `Der große Wandel` describes. Then the narrative, as the Textanalyse quotes it: „Das, was einst ein Ich-Fragment war, ist nun Komponente 734, eine Funktionseinheit...“ ^[textanalyse-existenz-system-und-leid.md:L162]. Only after the Entität and the Resonanzkaskade does AEGIS answer: „Die Lösung der Krise durch AEGIS ist das“ ^[textanalyse-existenz-system-und-leid.md:L244] `Kohärenz Protokoll 1.0`, which the commentary reads as sharding.
+
+So in this document's order the component precedes the protocol, as in the record's four-beat order; the document counts no beats and never writes `Trennungsprotokoll` ^[textanalyse-existenz-system-und-leid.md:#0], so it does not say whether the protocol it names is the Trennungsprotokoll.
+
+Stands: no new row for the three-or-four count; the order of component and protocol is recorded, decided by nothing.
