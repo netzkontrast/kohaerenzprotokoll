@@ -1,16 +1,20 @@
 ---
 term: Selene
 status: candidate
-sources: 30
-readings: 30
+sources: 31
+readings: 31
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben"]
 gathered: "2026-09-24"
 ---
 
 # Selene
 
 One of the thirteen [[alters|Alters]] — ANP, „Integrator / ISH" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L466].
+
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — guardian-integrator, a potential catalyst, labelled ANP-Regulator in Table 1
+
+The report names `Selene (Wächterin/Integratorin)` and says she „Fungiert als potenzieller Katalysator für Heilung“ ^[scifi-roman-mit-ki-schreiben.md:L154] and „Ihre ambivalente Rolle zwischen dem Schutz des Systems durch rigide Blockade von Trauma-Inhalten und ihrem Potenzial für Mitgefühl und Weisheit ist ein zentrales Mysterium und eine Quelle der Hoffnung“ ^[scifi-roman-mit-ki-schreiben.md:L154] Table 1, the plot-document-based matrix, heads her column „Selene (ANP-Regulator)“ ^[scifi-roman-mit-ki-schreiben.md:L160] — both labels are the report's.
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — the Integrator-Agent as the stress test's success case
 
