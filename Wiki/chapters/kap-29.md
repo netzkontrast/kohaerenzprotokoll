@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -46,6 +46,14 @@ Position: Teil III, „Kampf mit Paradoxien“ ^[romanstruktur-und-philosophisch
 
 - Story: „AEGIS verteidigt sich in seinem Kern nicht mehr mit Monstern, sondern mit logischen Paradoxien.“ ^[romanstruktur-und-philosophische-einleitung.md:L238]
 - Story: „Seine Erfahrung mit der menschlichen Ambivalenz (aus Teil I) wird hier zur Superkraft gegenüber der binären KI.“ ^[romanstruktur-und-philosophische-einleitung.md:L238]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Sophias Fragmente
+
+Title: „Sophias Fragmente“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L290]
+Position: Teil III; setting from the `Schauplatz` field: „Ein Daten-Wirbel im Potentialmeer“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L292]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Sophia (abtrünnig)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L293]
+- Story: the blueprint plans, in `Plot-Beats`, „Sophia hat erkannt, dass AEGIS' Reduktionismus zum Untergang führt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L295] and „als emergente Weisheit zu nutzen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L295]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
