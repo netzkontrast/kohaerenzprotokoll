@@ -1,10 +1,10 @@
 ---
 term: Residual-Echos
 status: candidate
-sources: 9
-readings: 7
+sources: 10
+readings: 8
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md", "textanalyse-existenz-system-und-leid", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md", "textanalyse-existenz-system-und-leid", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz"]
 gathered: "2026-09-25"
 ---
 
@@ -27,6 +27,10 @@ The narrator says of the closure: „Die alten Echos der Herkunft“ ^[einleitun
 ## Reading — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline — the echo of loneliness planned in the component, then amplified
 
 The outline does not write `Residual-Echos` ^[optimierte-plotline-genesis-der-existenz.md:#0] (zero). It plans an echo in the component: „Das Echo der Einsamkeit ist ein leises Summen“ ^[optimierte-plotline-genesis-der-existenz.md:L172], in scene 7 raised by the entity's pressure, when the component feels „ansteigende Vibration tief in ihrer eigenen Struktur“ ^[optimierte-plotline-genesis-der-existenz.md:L176], the echo of loneliness being amplified.
+
+## Reading — `uberarbeitete-optimierte-plotline-genesis-der-existenz`, 2025-04-29, the plotline's Version 2 — the echo of absence, planned as a latent signature
+
+Version 2's scene 1 plans „Flüchtiger Eindruck einer verlorenen Ordnung“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L29] and a vague feeling of incompleteness, and in scene 7 the entity resonates with the latent signature of Komponente 734, „mit der latenten Signatur von Komponente 734 auf (dem Echo der Unvollständigkeit)“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L119]. The outline writes `Residual-Echos` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#0] never: the zero is a true absence of that term; `Echo` and `Echos` stand.
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the echoes of origin, tolerated as function and suppressed as variance
 
