@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -56,6 +56,14 @@ Position: Teil II, „Die Welt als Wunde“ ^[romanstruktur-und-philosophische-e
 
 - Story: „offenbaren sich endgültig als symbolische Darstellungen von Kaels verdrängten Erinnerungen“ ^[romanstruktur-und-philosophische-einleitung.md:L192]
 - Story: „Der Kampf verlagert sich von Waffen auf Bedeutung.“ ^[romanstruktur-und-philosophische-einleitung.md:L194]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Junas Opfer-Mythos
+
+Title: „Junas Opfer-Mythos“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L230]
+Position: Teil II; setting from the `Schauplatz` field: „Die ontologische Grenze (Epsilon-Null) zum Potentialmeer“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L232]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L233]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael erreicht den absoluten Rand der Simulation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235] and „AEGIS hat keinen inhärenten Sinn, es existiert rein apophatisch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
