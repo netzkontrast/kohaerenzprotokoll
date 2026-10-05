@@ -442,3 +442,9 @@ Stands: four, paired one to one with KW1–KW4 (L128–L133); the slash in `Kair
 The commission's glossary lists the worlds with one guardian each, and the fourth with two: „Sterile, logikbasierte Welt. Guardian: LogOS.“ ^[kontext-outline.md:L30] „Chaotische, emotions-/erinnerungsbasierte Welt. Guardian: Mnemosyne.“ ^[kontext-outline.md:L31] „Verteidigungs-/angstbasierte Welt. Guardian: Cerberus.“ ^[kontext-outline.md:L32] „Kreativitäts-/potenzialbasierte Welt. Guardians: Kairos & Sophia.“ ^[kontext-outline.md:L33] The collective entry names the five: „AEGIS-Entitäten, die die KWs verwalten/kontrollieren“ ^[kontext-outline.md:L48]. The glossary is a basis for the author to refine, so this is the briefing's gloss.
 
 Where it stands: one more document with the five-name, four-pair arrangement; it counts no Erasure-Pol and takes no side on the record's other positions.
+
+## 2026-10-05 — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept
+
+**One Guardian or pair per Kern-Welt: LogOS, Mnemosyne, Cerberus, Kairos/Sophia.**
+The headings pair them: „Konstrukt-Stadt (Guardian: LogOS)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L19], „Resonanz-Landschaft (Guardian: Mnemosyne)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L41], „Grenzfeste (Guardian: Cerberus)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L63] and „Möglichkeits-Garten (Guardian: Kairos/Sophia)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L85].
+Four worlds, with Kairos and Sophia together in one; it adds a pairing, and decides nothing.
