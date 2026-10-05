@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -51,6 +51,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael begegnet einem 'Riss' oder wird darin gefangen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „die Realität selbst scheint auszufransen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
 - Story: „Kael könnte kurzzeitig etwas 'außerhalb' oder 'unterhalb' der Simulation wahrnehmen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „AEGIS/Guardians könnten aktiv versuchen, den Riss einzudämmen oder zu reparieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
 - Discussion: „liefert Kael unbestreitbare Beweise dafür, dass seine Welt konstruiert und fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L108]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Death of the old identity
+
+Title: „Tod der alten Identität“ ^[romanstruktur-und-philosophische-einleitung.md:L77]
+Position: Teil I, „Erwachen zur Leere“ ^[romanstruktur-und-philosophische-einleitung.md:L77]
+
+- Story: „Dieses Kapitel stellt den dramatischen Tiefpunkt der ersten Hälfte dar“ ^[romanstruktur-und-philosophische-einleitung.md:L79]
+- Story: „Es ist der spirituelle Tod, der der Wiedergeburt vorausgehen muss.“ ^[romanstruktur-und-philosophische-einleitung.md:L81]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
