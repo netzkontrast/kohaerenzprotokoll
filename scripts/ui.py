@@ -1348,6 +1348,45 @@ def check_routes(data: dict, js: str | None = None) -> tuple[list[str], str]:
         "every item's address taken there and back with node"
 
 
+BOARD_HARNESS = """
+const c = new Component(); c.props = {}; c.state = {};
+const live = %s; const nowMs = %d;
+console.log(JSON.stringify(c.boardOf(live, nowMs)));
+"""
+
+
+def check_board(data: dict, js: str | None = None) -> tuple[list[str], str]:
+    """(problems, what was checked). The Now page's `boardOf` (ui.js) and `board()` (sessions.py) are one rule
+    written twice; both are run on one case — a claim, a claim by an id outside the plan, a silent branch, an
+    old branch, main, and GitHub unreachable — and must agree on every state, claim and branch."""
+    node = shutil.which("node")
+    if not node:
+        return [], "the board's two implementations were NOT compared: node is not installed"
+    plan = data["sessions"]
+    if len(plan["sessions"]) < 3:
+        return ["board: the plan has fewer than three sessions — the case cannot be built"], "board"
+    stub = "class DCLogic { constructor() { this.props = {}; this.state = {}; } setState(p) { Object.assign(this.state, p); } }\n"
+    problems = []
+    for label, live in (("a claim and silent work", session_plan.fixture_live(plan["sessions"][2]["id"])),
+                        ("GitHub unreachable", {"ok": False, "error": "offline", "at": "x", "pulls": [], "activity": []})):
+        want = session_plan.board(plan, live, session_plan.FIXTURE_NOW)
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "board.js"
+            path.write_text(stub + data_script(data, js) + BOARD_HARNESS % (
+                json.dumps(live), int(session_plan.FIXTURE_NOW.timestamp() * 1000)), encoding="utf-8")
+            proc = subprocess.run([node, str(path)], capture_output=True, text=True)
+        if proc.returncode:
+            return [f"board: {(proc.stderr.strip().splitlines() or ['the harness failed'])[-1]}"], "board"
+        got = json.loads(proc.stdout.strip().splitlines()[-1])
+        shape = lambda rows: [(r["id"], r["state"], [c["pr"] for c in r["by"]]) for r in rows]  # noqa: E731
+        if shape(got["rows"]) != shape(want["rows"]):
+            problems.append(f"board ({label}): ui.js says {shape(got['rows'])}, sessions.py says {shape(want['rows'])}")
+        if [o["branch"] for o in got["other"]] != [o["branch"] for o in want["other"]]:
+            problems.append(f"board ({label}): active branches differ — ui.js {[o['branch'] for o in got['other']]}, "
+                            f"sessions.py {[o['branch'] for o in want['other']]}")
+    return problems, "the board's two implementations compared on one case, with node"
+
+
 def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[str]]:
     """(problems, notes) for what `build` wrote."""
     project = out / "canvas" / "project"
@@ -1373,7 +1412,8 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
                 problems.append(f"agents/index.json: {it['kind']} {it['id']} names {it['path']}, which does not exist")
     script_problems, note = check_script(data)
     route_problems, route_note = check_routes(data) if not script_problems else ([], "addresses not checked: the syntax failed")
-    return problems + script_problems + route_problems, [note, route_note]
+    board_problems, board_note = check_board(data) if not script_problems else ([], "board not compared: the syntax failed")
+    return problems + script_problems + route_problems + board_problems, [note, route_note, board_note]
 
 
 # ---------------------------------------------------------------- selftest
@@ -1444,6 +1484,10 @@ def selftest() -> tuple[list[str], list[str]]:
             lost, _ = check_routes(data, lost_js)
             if not any("conflict C1" in p for p in lost):
                 failures.append(f"an address that loses its conflict: not reported — got {lost[:2]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("if (a.type !== 'push' ||", "if (a.type === 'x' ||", 1)
+            drift, _ = check_board(data, lost_js)
+            if not any("active branches differ" in p or "ui.js says" in p for p in drift):
+                failures.append(f"a board rule that drifts in ui.js (pushes by any type): not reported — got {drift[:2]}")
             lost_js = COMPONENT.read_text(encoding="utf-8").replace(
                 "st.msel = parts[2];", "st.msel = parts[2] + 'x';", 1)
             lost, _ = check_routes(data, lost_js)
@@ -1464,7 +1508,7 @@ def main(argv: list[str]) -> int:
         for u in unrun:
             print(f"  not run  {u}")
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
-              "(clean build, 6 markup, 4 data, 2 agent files, 1 syntax, 2 addresses)")
+              "(clean build, 6 markup, 4 data, 2 agent files, 1 syntax, 2 addresses, 1 board drift)")
         return 1 if failures else 0
     data = build(OUT, checks="--no-checks" not in argv)
     project = OUT / "canvas" / "project"

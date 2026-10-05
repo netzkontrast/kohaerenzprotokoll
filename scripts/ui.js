@@ -147,6 +147,8 @@ class Component extends DCLogic {
 
   componentDidMount() {
     if (!this.routable()) return;
+    this.loadBoard();
+    this._boardTimer = window.setInterval(() => { if (!document.hidden) this.loadBoard(); }, 60000);
     try {
       const saved = JSON.parse(window.localStorage.getItem('kp-prompt-drafts') || 'null');
       if (saved && typeof saved === 'object') this.setState({ pask: saved.pask || {}, pedit: saved.pedit || {}, poff: saved.poff || {} });
@@ -161,6 +163,7 @@ class Component extends DCLogic {
 
   componentWillUnmount() {
     if (this._onHash) window.removeEventListener('hashchange', this._onHash);
+    if (this._boardTimer) window.clearInterval(this._boardTimer);
   }
 
   fmt(n) { return typeof n === 'number' ? n.toLocaleString('en-US') : String(n); }
@@ -176,6 +179,88 @@ class Component extends DCLogic {
       }
     } catch (err) { /* fall through */ }
     done(false);
+  }
+
+  // ---- the session board: NOW.md's plan against GitHub (the same rule as scripts/sessions.py `board()`;
+  // ui.py's check_board runs both on one case). Pure: the live state and the clock come in as arguments.
+  boardOf(live, nowMs) {
+    const P = this.kp().sessions;
+    const re = new RegExp(P.board.claim, 'g');
+    const hours = P.board.hours;
+    const branches = {};
+    (live.activity || []).forEach((a) => {
+      if (a.type !== 'push' || a.ref.indexOf('refs/heads/') !== 0 || a.ref === 'refs/heads/main') return;
+      if (nowMs - Date.parse(a.at) > hours * 3600000) return;
+      const name = a.ref.slice('refs/heads/'.length);
+      const b = branches[name] || (branches[name] = { pushes: 0, last: a.at, sha: a.sha });
+      b.pushes += 1;
+      if (a.at > b.last) { b.last = a.at; b.sha = a.sha; }
+    });
+    const claims = (live.pulls || []).map((p) => {
+      const ids = []; const text = p.title + '\n' + p.body; let m;
+      re.lastIndex = 0;
+      while ((m = re.exec(text)) !== null) ids.push(m[1].toLowerCase());
+      const b = branches[p.branch];
+      return { pr: p.number, title: p.title, url: p.url, branch: p.branch, ids: ids, last: b ? b.last : p.updated, active: !!b };
+    });
+    const planned = {};
+    P.sessions.forEach((x) => { planned[x.id] = true; });
+    const rows = P.sessions.map((x) => {
+      const by = claims.filter((c) => c.ids.indexOf(x.id) >= 0);
+      return { id: x.id, state: !live.ok ? 'unknown' : by.length ? 'claimed' : 'free', by: by };
+    });
+    const claimedBranches = {};
+    claims.forEach((c) => { if (c.ids.some((i) => planned[i])) claimedBranches[c.branch] = true; });
+    const other = Object.keys(branches).filter((n) => !claimedBranches[n])
+      .sort((a, b) => (branches[a].last < branches[b].last ? 1 : branches[a].last > branches[b].last ? -1 : 0))
+      .map((n) => {
+        const pr = claims.find((c) => c.branch === n);
+        return { branch: n, last: branches[n].last, pr: pr ? pr.pr : null, title: pr ? pr.title : '', ids: pr ? pr.ids : [] };
+      });
+    return { ok: !!live.ok, error: live.error || '', rows: rows, other: other, claims: claims };
+  }
+
+  async loadBoard() {
+    const P = this.kp().sessions.board;
+    this.setState({ boardBusy: true });
+    let live;
+    try {
+      const get = async (path) => {
+        const r = await fetch(P.api + path, { headers: { Accept: 'application/vnd.github+json' } });
+        if (!r.ok) throw new Error('GitHub answered ' + r.status);
+        return r.json();
+      };
+      const pulls = await get('/pulls?state=open&per_page=100');
+      const act = await get('/activity?per_page=100&time_period=day');
+      live = { ok: true, error: '', at: new Date().toISOString().slice(0, 19) + 'Z',
+        pulls: pulls.map((p) => ({ number: p.number, title: p.title, body: p.body || '', branch: p.head.ref, url: p.html_url, updated: p.updated_at })),
+        activity: act.map((a) => ({ ref: a.ref, type: a.activity_type, at: a.timestamp, sha: a.after })) };
+    } catch (err) {
+      live = { ok: false, error: String(err && err.message || err).slice(0, 160), at: new Date().toISOString().slice(0, 19) + 'Z', pulls: [], activity: [] };
+    }
+    this.setState({ board: this.boardOf(live, Date.now()), boardAt: live.at, boardBusy: false });
+  }
+
+  claimLine(id) {
+    const bd = this.st().board;
+    if (!bd) return this.routable() ? 'checking claims…' : '';
+    const r = bd.rows.find((x) => x.id === id);
+    if (!bd.ok || !r) return 'claim unknown';
+    if (r.state === 'free') return 'no claim';
+    const c = r.by[0];
+    return 'claimed · #' + c.pr + ' ' + c.branch + (c.active ? ' · pushed ' + this.ago(c.last) : ' · quiet');
+  }
+
+  claimTone(id) {
+    const bd = this.st().board;
+    const r = bd && bd.ok ? bd.rows.find((x) => x.id === id) : null;
+    if (!r) return ['#EFEBE1', '#645F53'];
+    return r.state === 'claimed' ? ['#F6E4DC', '#9A2D1A'] : ['#E4EDDF', '#2F5D2A'];
+  }
+
+  ago(iso) {
+    const m = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000));
+    return m < 90 ? m + ' min ago' : Math.round(m / 60) + ' h ago';
   }
 
   // ---- the start-prompt editor on the Now screen
@@ -464,7 +549,7 @@ class Component extends DCLogic {
     const onQKey = (e) => { if (e.key === 'Escape') this.setState({ q: '' }); };
 
     // ------------------------------------------------------------ now
-    const now = { tiles: [], agenda: [], asks: [], log: [], sessions: [], sessSub: '', web: false, free: {}, pe: { chips: [] }, tabs: [], tabPrompt: true, tabLog: false, l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
+    const now = { board: { live: false, other: [], hasOther: false, caution: false, showStamp: false, busy: false, stamp: '', hours: 24, refresh: null }, tiles: [], agenda: [], asks: [], log: [], sessions: [], sessSub: '', web: false, free: {}, pe: { chips: [] }, tabs: [], tabPrompt: true, tabLog: false, l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
     if (is.now) {
       const total = V('sources.total');
       const landed = V('sources.landed');
@@ -516,11 +601,26 @@ class Component extends DCLogic {
         const ready = x.status === 'ready';
         return {
           dom: uid + '-sess-' + x.id, n: String(x.n), t: x.title, st: x.status, stBg: ready ? '#E4E9F2' : '#F6E4DC', stFg: ready ? '#2B4C8C' : '#9A2D1A',
+          claim: this.claimLine(x.id), claimBg: this.claimTone(x.id)[0], claimFg: this.claimTone(x.id)[1],
           next: this.runs(x.nruns), bd: on ? '#2B4C8C' : '#E6E0D2', bg: on ? '#FFFFFF' : 'transparent', cur: on ? 'true' : 'false',
           pick: () => this.setState({ sess: x.id, ntab: 'prompt', copied: null }),
         };
       });
       now.free = { bd: selId === 'free' ? '#2B4C8C' : '#E6E0D2', cur: selId === 'free' ? 'true' : 'false', pick: () => this.setState({ sess: 'free', ntab: 'prompt', copied: null }) };
+      const bd = s.board;
+      now.board = {
+        live: !!bd, ok: !!bd && bd.ok, busy: !!s.boardBusy, refresh: () => this.loadBoard(),
+        stamp: !bd ? 'reading GitHub…' : bd.ok ? 'GitHub read ' + this.ago(s.boardAt) : 'GitHub not reached — ' + bd.error,
+        showStamp: this.routable(),
+        other: !bd || !bd.ok ? [] : bd.other.map((o) => ({
+          branch: o.branch, when: this.ago(o.last),
+          pr: o.pr ? '#' + o.pr + ' ' + o.title + (o.ids.length ? ' · Session: ' + o.ids.join(', ') : '') : 'no pull request — no claim',
+          tone: o.pr ? '#4A463E' : '#9A2D1A',
+        })),
+        hasOther: !!bd && bd.ok && bd.other.length > 0,
+        caution: !!bd && bd.ok && bd.other.some((o) => !o.pr) && bd.rows.some((r) => r.state === 'free'),
+        hours: plan.board.hours,
+      };
       const readyN = plan.sessions.filter((x) => x.status === 'ready').length;
       now.sessSub = readyN + ' ready · ' + (plan.sessions.length - readyN) + ' wait on the author · ' + plan.notes.length + ' notes bind all';
       now.tabPrompt = (s.ntab || 'prompt') === 'prompt';

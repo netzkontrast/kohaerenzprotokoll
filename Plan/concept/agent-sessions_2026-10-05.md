@@ -52,6 +52,25 @@ of *Half-done* is the order of the sessions, a `Next:` makes an item a session, 
 deployment shows the new plan. Comments left with the Vercel toolbar on a preview could be a second channel a session
 reads; the connector could not list them on 2026-10-05 (below).
 
+## 3b · Coordinating the running sessions — the board **[built]**
+
+Two sessions once read the same documents because both handovers named the same next one. The board (the author,
+2026-10-05: *„Use the Page … to create an interactive Session ui where you hook the Page into Claude.md as Session start —
+coordinate your work there"*) is how that stops: `scripts/sessions.py board` sets NOW.md's plan against GitHub's public
+API, prints at every session start (`.claude/hooks/session-start.sh`, `CLAUDE.md` § Read this first) and is live on the
+Now page (`#/now`, read in the browser every minute, with a Refresh button).
+
+- **A claim** is an open pull request whose body holds a line `Session: <id>` — the id the board prints, or the session's
+  own for work NOW.md does not name. A session claims first, with the pull request, then works.
+- **Active** is a branch pushed to in the last 24 h. Active work that holds no claim is listed apart, and raises a caution
+  beside every *no claim* session: when it was built, the ingest and storyform branches were pushing with no pull request,
+  so „free" for their sessions would have been false.
+- **Not inferred:** a branch named like a session has not claimed it. **Offline** (GitHub unreachable) every session reads
+  *unknown*, never *free*.
+- **Limits:** the unauthenticated API allows 60 requests an hour per address and caches a minute, so the page reads two
+  endpoints per minute only while it is open and visible, and a session start reads two. A claim made in a pull request
+  body is only as current as the session keeping it; a pull request closed or merged leaves the board at once.
+
 ## 4 · What was measured, and what could not be
 
 - The Vercel connector lists the project (`prj_9BQOM2YBSbbiLU2EjB5aIrKYnQmF`, team `team_ihXVTS84lsnPnxS8WmqPbgbv`) but

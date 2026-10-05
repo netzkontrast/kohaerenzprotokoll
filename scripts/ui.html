@@ -177,7 +177,7 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 </button>
 </sc-for>
 </div>
-<div class="m-cols" style="flex-grow: 1; min-height: 0; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.45fr) minmax(0, 0.85fr); gap: 14px;">
+<div class="m-cols" style="flex-grow: 1; min-height: 0; display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.3fr) minmax(0, 1.1fr); gap: 14px;">
 <section aria-label="For the author" style="display: flex; flex-direction: column; min-height: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden;">
 <div style="display: flex; align-items: baseline; gap: 10px; padding: 14px 18px 12px; border-bottom: 1px solid #E6E0D2;">
 <h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.2; font-weight: 500;">For the author</h2>
@@ -256,7 +256,20 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">NOW.md § Half-done</span>
 </div>
 <p style="margin: 0; padding: 8px 18px 0; font-size: 12px; line-height: 1.45; color: #645F53;">{{now.sessSub}} — in NOW.md's order. Pick one to build its start prompt.</p>
+<sc-if value="{{now.board.showStamp}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; align-items: center; gap: 8px; padding: 6px 18px 0; flex-wrap: wrap;">
+<span style="flex-grow: 1; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; color: #645F53;">{{now.board.stamp}}</span>
+<button type="button" onClick="{{now.board.refresh}}" disabled="{{now.board.busy}}" class="kp-hov" style="min-height: 28px; padding: 0 10px; border: 1px solid #C9C0AC; border-radius: 6px; background: transparent; cursor: pointer; font-family: inherit; font-size: 12px; color: #4A463E;">Refresh</button>
+</div>
+</sc-if>
+<sc-if value="{{now.board.caution}}" hint-placeholder-val="{{ false }}"><p style="margin: 0 0 0; padding: 8px 10px; border-radius: 6px; background: #F6E4DC; font-size: 12px; line-height: 1.45; color: #9A2D1A;">Branches below were pushed in the last {{now.board.hours}} h with no pull request: a session marked “no claim” may be running there. Look before taking it, and claim yours first.</p></sc-if>
 <div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 8px 10px 12px; display: flex; flex-direction: column; gap: 6px;">
+<sc-if value="{{now.board.hasOther}}" hint-placeholder-val="{{ false }}">
+<h3 style="margin: 12px 2px 4px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Active, outside the plan</h3>
+<sc-for list="{{now.board.other}}" as="o" hint-placeholder-count="3">
+<div style="margin: 0 2px 6px; padding: 6px 8px; border: 1px solid #E6E0D2; border-radius: 6px; font-size: 12px; line-height: 1.4;"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; overflow-wrap: anywhere;">{{o.branch}}</span><br><span style="color: {{o.tone}};">{{o.pr}}</span><span style="color: #645F53;"> · pushed {{o.when}}</span></div>
+</sc-for>
+</sc-if>
 <button type="button" onClick="{{now.free.pick}}" aria-pressed="{{now.free.cur}}" class="kp-hov" style="display: flex; align-items: center; gap: 8px; width: 100%; min-height: 38px; padding: 0 10px; box-sizing: border-box; border: 1px dashed {{now.free.bd}}; border-radius: 8px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; font-size: 13px; color: #2B4C8C;">＋ Free prompt — a session you name yourself</button>
 <sc-for list="{{now.sessions}}" as="x" hint-placeholder-count="4">
 <div id="{{x.dom}}" style="border: 1px solid {{x.bd}}; border-radius: 8px; background: {{x.bg}};">
@@ -266,6 +279,7 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <span style="padding: 1px 7px; border-radius: 10px; font-size: 11px; white-space: nowrap; background: {{x.stBg}}; color: {{x.stFg}};">{{x.st}}</span>
 </button>
 <p style="margin: 0; padding: 0 10px 9px 40px; font-size: 12.5px; line-height: 1.45; color: #4A463E;"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; letter-spacing: 0.06em; text-transform: uppercase; color: #645F53;">next · </span>@RUNS(x.next)@</p>
+<sc-if value="{{x.claim}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; padding: 0 10px 9px 40px;"><span style="display: inline-block; padding: 1px 8px; border-radius: 10px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; background: {{x.claimBg}}; color: {{x.claimFg}};">{{x.claim}}</span></p></sc-if>
 </div>
 </sc-for>
 <sc-if value="{{now.web}}" hint-placeholder-val="{{ false }}"><p style="margin: 6px 4px 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">for agents: <a href="./llms.txt" style="color: #2B4C8C;">llms.txt</a> · <a href="./agents/sessions.json" style="color: #2B4C8C;">sessions.json</a> · <a href="./agents/index.json" style="color: #2B4C8C;">index.json</a></p></sc-if>

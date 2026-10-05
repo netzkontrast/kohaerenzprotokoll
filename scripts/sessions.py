@@ -306,6 +306,24 @@ def board_text(b: dict, now: datetime | None = None) -> str:
 
 # ---------------------------------------------------------------- selftest
 
+# One clock and one live state, built for the third session of whatever plan it is given. Shared by this
+# self-test and by `ui.py`'s check that the Now page's JavaScript board answers exactly as `board()` does —
+# two implementations of one rule, held together by one case.
+FIXTURE_NOW = datetime(2026, 10, 5, 20, 0, tzinfo=timezone.utc)
+
+
+def fixture_live(claimed: str) -> dict:
+    return {"ok": True, "at": "2026-10-05T20:00:00Z", "pulls": [
+        {"number": 7, "title": "Ingest", "body": f"## Claim\nSession: `{claimed}`\n", "branch": "claude/ingest", "url": "u7", "updated": "2026-10-05T19:00:00Z"},
+        {"number": 8, "title": "My own task", "body": "Session: board-ui", "branch": "claude/ui", "url": "u8", "updated": "2026-10-05T19:00:00Z"}],
+        "activity": [
+        {"ref": "refs/heads/claude/ingest", "type": "push", "at": "2026-10-05T19:50:00Z", "sha": "a"},
+        {"ref": "refs/heads/claude/ui", "type": "push", "at": "2026-10-05T19:40:00Z", "sha": "b"},
+        {"ref": "refs/heads/claude/storyform", "type": "push", "at": "2026-10-05T19:30:00Z", "sha": "c"},
+        {"ref": "refs/heads/claude/old", "type": "push", "at": "2026-10-03T19:30:00Z", "sha": "d"},
+        {"ref": "refs/heads/main", "type": "pr_merge", "at": "2026-10-05T19:55:00Z", "sha": "e"}]}
+
+
 FIXTURE = """# Now
 
 ## The author's standing instructions
@@ -373,16 +391,7 @@ def selftest() -> list[str]:
         fail.append(f"the free prompt's blocks: got {[b[0] for b in plan['free']['blocks']]}")
     if "Session: entity-lists" not in ent.get("prompt", "") or "Session: free" not in "\n".join(b[2] for b in plan["free"]["blocks"]):
         fail.append("the rules block does not name the claim line `Session: <id>`")
-    now = datetime(2026, 10, 5, 20, 0, tzinfo=timezone.utc)
-    live = {"ok": True, "at": "2026-10-05T20:00:00Z", "pulls": [
-        {"number": 7, "title": "Ingest", "body": "## Claim\nSession: `the-ingest-continues`\n", "branch": "claude/ingest", "url": "u7", "updated": "2026-10-05T19:00:00Z"},
-        {"number": 8, "title": "My own task", "body": "Session: board-ui", "branch": "claude/ui", "url": "u8", "updated": "2026-10-05T19:00:00Z"}],
-        "activity": [
-        {"ref": "refs/heads/claude/ingest", "type": "push", "at": "2026-10-05T19:50:00Z", "sha": "a"},
-        {"ref": "refs/heads/claude/ui", "type": "push", "at": "2026-10-05T19:40:00Z", "sha": "b"},
-        {"ref": "refs/heads/claude/storyform", "type": "push", "at": "2026-10-05T19:30:00Z", "sha": "c"},
-        {"ref": "refs/heads/claude/old", "type": "push", "at": "2026-10-03T19:30:00Z", "sha": "d"},
-        {"ref": "refs/heads/main", "type": "pr_merge", "at": "2026-10-05T19:55:00Z", "sha": "e"}]}
+    now, live = FIXTURE_NOW, fixture_live(plan["sessions"][2]["id"])
     bd = board(plan, live, now)
     st = {r["id"]: r for r in bd["rows"]}
     if st["the-ingest-continues"]["state"] != "claimed" or st["the-ingest-continues"]["by"][0]["pr"] != 7:
