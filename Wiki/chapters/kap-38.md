@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -54,6 +54,14 @@ Position: Teil III; setting from the `Schauplatz` field: „Kaels innere Welt (D
 
 - Cast: the `Charaktere/Linsen` field lists „Das System Kael (Lex, Nyx, Kiko, etc.)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L365]
 - Story: the blueprint plans, in `Plot-Beats`, „Ein Blick in Kaels nun vollständig integrierte, funktionale Psyche“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L367] and „Die Alters sitzen gemeinsam an einem Tisch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L367]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Brücke zu Juna
+
+Title: „Die Brücke zu Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L473] — heading „Die wahre Korrespondenz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L474]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L475]; place from `Ort`: „Die Schwelle zur“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L477]
+
+- Story: the matrix plans „Kael tritt aus dem System heraus (oder integriert es vollständig) und trifft Juna physisch“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L479]
+- Question: „Ist die Realität der Ort, an dem wir verbunden sind?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L478]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
