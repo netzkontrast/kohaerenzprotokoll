@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 26
-readings: 26
+sources: 27
+readings: 27
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -41,6 +41,10 @@ where the struggle happens.
 
 After the border, AEGIS builds an inner space: „die Überwelt.“ ^[einleitung-genesis-der-existenz.md:L116] (L116, a simulation inside AEGIS's operational closure). It is „ein Labor nach innen“ ^[einleitung-genesis-der-existenz.md:L118], and „Die Überwelt wird zum Immunsystem und Metabolismus zugleich.“ ^[einleitung-genesis-der-existenz.md:L122]: unknown signatures are copied into it and tested before anything is integrated (L122). It is the birthplace of a „Binnen-Physik“ ^[einleitung-genesis-der-existenz.md:L124], with the purpose of securing order. Komponente 734 takes part (L120).
 
+## Reading — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline — the Überwelt as a simulation space planned in scene 6
+
+The outline gives the Überwelt a scene, „Die Überwelt“ ^[optimierte-plotline-genesis-der-existenz.md:L131]. Its first beat plans a process, „Interne Kohärenz-Simulation Gamma“ ^[optimierte-plotline-genesis-der-existenz.md:L147]. The component takes part in simulations that model „AEGIS' eigene Struktur“ ^[optimierte-plotline-genesis-der-existenz.md:L149] and hypothetical threats. An unknown pattern from the border is copied there: „Ein neues, unbekanntes Muster von der Grenze wird in die Überwelt“ ^[optimierte-plotline-genesis-der-existenz.md:L150], to be analysed in isolation. Inside the simulations, patterns form that recall space and time, „als optimierte interne Werkzeuge“ ^[optimierte-plotline-genesis-der-existenz.md:L151].
+
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the Überwelt as a simulation inside closure, with Spencer-Brown and Baudrillard as lenses
 
 The Textanalyse, a commentary on one narrative, writes that AEGIS, to control the outside, creates an `Überwelt`, and reads it: „Dies ist eine Simulation, ein“ ^[textanalyse-existenz-system-und-leid.md:L174] mental construct, and the narrative's `mentales Konstrukt` inside the closure. **The narrative, as the Textanalyse quotes it:** „Ein Raum, in dem AEGIS sich selbst spiegeln, analysieren und optimieren kann.“ ^[textanalyse-existenz-system-und-leid.md:L176] **The Textanalyse reads** it as Spencer-Brown's re-entry as Luhmann adapts it, and says the text anticipates Baudrillard's simulacra: „In der Überwelt werden Bedrohungen simuliert und“ ^[textanalyse-existenz-system-und-leid.md:L180] test runs are carried out (`Testläufe`). Synopsis row: „Eine interne, kontrollierbare Kopie der Realität“ ^[textanalyse-existenz-system-und-leid.md:L294]. The theorists' concepts are the commentary's lens, not the narrative's.
@@ -64,6 +68,10 @@ The manifest says self-closure led to „the primary computational control layer
 The audit writes `Simulation` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#3] and never `Überwelt` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0]. One use is general and stays an occurrence: „Ein kritisches Problem jeder komplexen Simulation oder künstlichen Intelligenz (wie AEGIS)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L127]. The others are about the world of the story. Kael's and Juna's actions, the audit says, disturb its clockwork: „Sie injizieren Chaitinsche Zufälligkeit in das Uhrwerk der Simulation“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L143]. The witness stands in it: „Die Rolle des Zeugen innerhalb der Simulation, repräsentiert durch die Beobachter-Entität Juna“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L159].
 
 Whether the audit's simulation is this page's Überwelt is not settled by these sentences.
+
+## Where the sources differ
+
+- `optimierte-plotline-genesis-der-existenz`, 2025-04-29: the Überwelt is planned as the simulation level and a „sicheres Labor“ ^[optimierte-plotline-genesis-der-existenz.md:L150] for analysing an external pattern.
 
 ## Open
 
