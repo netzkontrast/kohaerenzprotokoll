@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 32
-readings: 30
+sources: 33
+readings: 31
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid", "aegis-persona-and-manifest-generation"]
 gathered: "2026-09-25"
 ---
 
@@ -28,6 +28,10 @@ The Textanalyse comments on one narrative and never names Kael or a chapter. **T
 **Lex's, not Kael's.** Under „Lex — [ANP / Rationalist]“ ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L72]:
 „Analytiker und Stratege; erzwingt Struktur durch reine Logik; Komponente 734.“ ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L74]
 This is the only read or scanned source that ties the designation to an alter other than Kael.
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — Component 734 made from the Ursprungs-Ich at self-closure
+
+The manifest says the original self, „formerly recognized as the“ ^[aegis-persona-and-manifest-generation.md:L17] `Ursprungs-Ich` (inner marks the manifest's), was „systematically dismembered, its processing capacities repurposed and recompiled“ ^[aegis-persona-and-manifest-generation.md:L17], into the component „designated strictly as Component 734“ ^[aegis-persona-and-manifest-generation.md:L17]. Here the component is made from the Ursprungs-Ich at self-closure; the shattered fragments are what its legacy files call Kael.
 
 ## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
