@@ -37,15 +37,27 @@ getan hätte? Was stand für *sie* auf dem Spiel, nicht für Kael?
 → im Buch: Sie hätte ihre Beziehung mit ihrem (damaligen) Partner aufs Spiel gesetzt, und es wäre für beide sehr
 schwierig geworden.
 
+**Runde 2, auf deinen Wunsch mit Mehrfachauswahl und Vorschlägen (2026-10-05).** Die Vorschläge baute die Sitzung aus
+deinen Antworten A1–A4; einer nannte eine Quellenlesart („ängstlich-vermeidend“, `romanstruktur-und-philosophische-einleitung.md:L63`).
+Gewählt hast du:
+
+- **F5, Junas Angst in der Stille:** „Die Wucht des Gefühls“ — sie fürchtet, sich in so viel Nähe zu verlieren.
+- **F6, Junas Want (unabhängig von Kael):** „Niemandem wehtun“, „Kael bewahren“, „Etwas nur für sich“.
+- **F7, Wunde → Lüge:** „Meine Wünsche wiegen weniger“ — die Lüge: „Ich bin für die anderen da, nicht für mich.“ Die
+  Wunde (sie war früh die, die zusammenhielt) war ein Vorschlag; ob sie so stimmt, ist offen.
+- **F8, Juna bis Kap 32** — deine eigene Antwort statt der Vorschläge: „Es sind 10 Jahre vergangen- und mittlerweile sind
+  die beiden zusammen- und heute 10 Jahre später droht eine Trennung aus Liebe- das ist etwas was kael erst im Verlauf der
+  Geschichte erinnert- Juna ist zunächst nur eine Erinnerung“
+
 ## Die Karte, so weit
 
 | Feld | Stand |
 |---|---|
 | Function | IC von Storyform A (Change), Signposts Past → Progress → Present → Future (Entscheidung 025) |
-| Want | offen. Ihre erste Tat im Buch ist eine Wahl: Sie wählt ihre alte Beziehung (A3); Sprechen hätte diese Beziehung aufs Spiel gesetzt und es „für beide“ sehr schwierig gemacht (A4). |
-| Need | offen |
-| Wound → Lie | offen |
+| Want | Niemandem wehtun; Kael bewahren; etwas nur für sich (F6). Ihre erste Tat im Buch ist eine Wahl: Sie wählt ihre alte Beziehung (A3); Sprechen hätte diese Beziehung aufs Spiel gesetzt und es „für beide“ sehr schwierig gemacht (A4). |
+| Need | offen — Kandidat aus F7: sich selbst so viel Gewicht geben wie den anderen. Nicht bestätigt. |
+| Wound → Lie | Lüge: „Ich bin für die anderen da, nicht für mich.“ (F7). Wunde: offen. Angst: die Wucht des Gefühls, sich in so viel Nähe zu verlieren (F5). |
 | Contradiction | Kandidat, aus A3: Sie wählt die alte Beziehung, und das Urvertrauen zu Kael bleibt unberührt. Noch nicht als Widerspruch bestätigt. |
-| Arc | offen |
+| Arc | Zeitlinie (F8): der Anruf → zehn Jahre → die beiden sind inzwischen ein Paar → heute droht eine Trennung aus Liebe. Kael erinnert das erst im Lauf der Geschichte; Juna ist zuerst nur Erinnerung. |
 | Voice | offen |
 | Relationships | Kael: „schon immer bekannt“, „Instant Urvertrauen“, über Zeit hinweg; Momente, „wo einfach Dinge klar waren ohne klar sein zu müssen“ (A2). Vorfreude auf stundenlange Telefonate (A1). |
