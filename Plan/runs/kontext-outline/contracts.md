@@ -6,6 +6,6 @@ Every HyperExtract contract run on this source, one line per run — written by 
 
 | contract | run | model | outcome | rows | candidates | refused | chunks | cost |
 |---|---|---|---|---|---|---|---|---|
-| `ChapterCards` | `chaptercards-sonnet-2026-10-05` | sonnet | found nothing | 0 | 0 | — | 23 | $0.339 |
+| `ChapterCards` | `chaptercards-sonnet-2026-10-05` | sonnet | found nothing · stale (template changed, source current) | 0 | 0 | — | 23 | $0.339 |
 
 **Never run on this source:** `AliasPairs`, `Analogies`, `Anchors`, `Attributions`, `CardFields`, `CastRoles`, `CausalLinks`, `ChapterBeats`, `DiegeticTerms`, `EntityFacts`, `Knowledge`, `LocationRegistry`, `Locks`, `OpenPoints`, `Pitch`, `Precedence`, `ProseRules`, `Quantities`, `RelationReadings`, `Rules`, `StandingClaims`, `StatedRelations`, `Storypoints`, `StructureBeats`, `TermCensus`, `TermContrasts`, `TermDefinitions`, `TermReadings`, `TermTaxonomy`, `ThemeMotifs`, `Utterances`.

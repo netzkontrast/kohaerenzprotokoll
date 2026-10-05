@@ -1,6 +1,9 @@
 # ChapterCards — what a source says a chapter's story is — who, what they want, what stands in the way, what it costs, how it begins and ends.
 #
-# provisional — first design, 2026-09-30; never run on the corpus
+# provisional — first design, 2026-09-30; on 2026-10-05 it found no card on `kontext-outline`, whose chapters are
+#   headings with their fields on the lines below, because the chapter had to stand on the field's own line;
+#   since then a field under the heading that names its chapter counts too (tag `heading-scoped`), and
+#   reading_extract.under_heading checks by code that the heading above the placed line names the row's chapter
 # derived from: the plan's treatment (Phase 2b: one paragraph per movement — who, what the figure wants and does, with which object and where, what it
 #   costs and what cannot be undone, hook-in and hook-out as events, in Akt I the chapter's one concrete falsehood) and
 #   the September packet's scene load (GOAL.md 5.5: a local goal, two counterforces, two bad options, irreversibility). The
@@ -11,7 +14,7 @@
 language: en
 name: ChapterCards
 type: list
-tags: [chapters, treatment, scenes, plot, german]
+tags: [chapters, treatment, scenes, plot, german, heading-scoped]
 description: "What a source says a chapter's story is — who, what they want, what stands in the way, what it costs, how it begins and ends, each copied from one German document."
 
 output:
@@ -31,7 +34,7 @@ output:
       required: true
     - name: quote
       type: str
-      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      description: "Exact contiguous words from ONE source line, containing the field's content, and the chapter too unless the chapter is the heading above that line; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
       required: true
     - name: stance
       type: str
@@ -41,11 +44,11 @@ output:
 guideline:
   target: "You read one German plan for a novel and collect, verbatim, what it says a chapter is made of, so that a person can set the plans side by side before a treatment is written."
   rules:
-    - "Record a field only when ONE sentence or one list line names the chapter by number and gives the field."
-    - "The chapter and the content both stand inside the quote; the chapter is copied as written."
+    - "Record a field only when ONE sentence or one list line gives it and the chapter is named by number either in that line or in the heading directly above it (a heading such as `### Chapter 8: …` or `**Kapitel 8**` with the field lines beneath, before the next heading)."
+    - "The content stands inside the quote; source copies the chapter as written, from the line or from that heading. Take a chapter from a heading only when the heading stands in the passage you were given."
     - "Events are events, not themes: an action, a discovery, a loss. A theme is not a hook."
     - "A field the plan marks as planned, possible or open is recorded with stance hedges."
-    - "Never infer a field from the chapter's neighbours, from its title, or from background knowledge; never merge two chapters' lines."
+    - "Never infer a field from the chapter's neighbours, from its title, or from background knowledge; never merge two chapters' lines; never carry a chapter past the next heading."
     - "When the words do not tie the field to a numbered chapter, omit the record rather than fabricate evidence."
 
 options:

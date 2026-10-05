@@ -24,9 +24,9 @@
     "reason": "named by the caller"
    },
    "outcome": "found nothing",
-   "template": "current",
+   "template": "changed",
    "source": "current",
-   "stale": false,
+   "stale": true,
    "category": "plot-outline"
   }
  ]
