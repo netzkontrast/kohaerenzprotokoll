@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
@@ -120,6 +120,14 @@ Position: Akt II; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-er
 
 - Story: the outline plans „Ein zentrales, bis dato unlesbares Trauma-Symbol drängt sich hartnäckig in die neu gefundene Kohärenz.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L703]
 - Concepts: „Trauma-Symbol, Fragment T-734“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L701]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Algorithmische Melancholie
+
+Title: „Algorithmische Melancholie“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L256] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]
+
+- Story: the dual-storyform outline plans „Begegnung mit einem Guardian, der den Lösch-Sweep verweigert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L258]
+- Storyforms: `Storyform B` (`OS: Psychology/Being`): „Die innere Spaltung von AEGIS beginnt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L260]; `Storyform A` (`MC: Mind/Conscious`): „Kael empfindet erstmals Empathie für die Maschine“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L261]
+- Scene and pacing: `Szenen-Keim`: „Ein einsamer Roboter, der in einer staubigen Halle mathematische Beweise an die Wand schreibt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L262]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
