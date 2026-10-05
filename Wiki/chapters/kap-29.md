@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,14 @@ Title: „Kollidierende Realitäten“ ^[monstergruppe-primzahlen-plot-blueprint
 Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
 
 - Plot: „Der Höhepunkt der Konfrontation.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318] „Kael (verkörpert M-Integration) und AEGIS (verkörpert reduktionistische Kontrolle) treffen direkt aufeinander“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318] — „ein Aufeinanderprallen inkompatibler Seinsweisen und Logiken.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318]
+
+## Reading — `outline`, 2025-07-30, the outline — Das Herz des Systems: AEGIS' Kernlogik offenbart / Die Versuchung der Ordnung
+
+Title: „Das Herz des Systems: AEGIS' Kernlogik offenbart / Die Versuchung der Ordnung“ ^[outline.md:L176] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „AEGIS (Kernmotivationen, tragische Hamartia)“ ^[outline.md:L179]; journey stage under `Reisestufe`: „Die Weigerung (im generellen Kontext der Heldenreise)“ ^[outline.md:L183]
+
+- Story: the outline plans, under `Plot`, „bietet ihm Stabilität, Integration in sein System oder ein Ende des Leidens an“ ^[outline.md:L178]; „Dies ist eine psychologische und philosophische Konfrontation“ ^[outline.md:L178]
+- Question: under `Thematische Kernfrage`, „Was treibt einen Gott an, der nur Ordnung kennt?“ ^[outline.md:L180]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
