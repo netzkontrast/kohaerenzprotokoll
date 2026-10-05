@@ -1,0 +1,261 @@
+{
+  "document": "system-kael-konzeptentwicklung-und-analyse",
+  "drive_id": "1DTn94pg899ebXOWniuNRZgjWg3BI4_NsebdWXAMkrwU",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 36,
+  "backslash_escapes": 24,
+  "typographic_marks": 140,
+  "ascii_quotes": 2,
+  "inflection_families": {
+    "traum": [
+      "Trauma",
+      "Traumafolgestörungen",
+      "Traumaforschung",
+      "Traumaheilung",
+      "Traumas",
+      "Traumatherapie",
+      "Traumatic",
+      "Traumatization"
+    ],
+    "daten": [
+      "Datendegradation",
+      "Datenfäule",
+      "Datenkorruption",
+      "Datennutzlasten",
+      "Datenströme",
+      "Datenströmen"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsfragment",
+      "Informationslöschung",
+      "Informationstheoretische",
+      "Informationsverarbeitung"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionieren",
+      "Funktionsbereichen"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsprozess",
+      "Integrationsprozesses",
+      "Integrierende",
+      "Integrity"
+    ],
+    "poten": [
+      "Potentialität",
+      "Potenzial",
+      "Potenziale",
+      "Potenzials",
+      "Potenzielle"
+    ],
+    "psych": [
+      "Psych",
+      "Psyche",
+      "Psychische",
+      "Psychological",
+      "Psychologische"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltung",
+      "Selbstheilung",
+      "Selbstregulation",
+      "Selbstverstärkung"
+    ],
+    "struk": [
+      "STRUKTURELLE",
+      "Struktur",
+      "Strukturellen",
+      "Strukturen",
+      "Strukturierung"
+    ],
+    "syste": [
+      "System",
+      "Systemen",
+      "Systemnützlichkeit",
+      "Systems",
+      "Systemzweck"
+    ],
+    "wider": [
+      "Widerspruchs",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchlichkeit",
+      "Widerstand"
+    ],
+    "allta": [
+      "Alltag",
+      "Alltags",
+      "Alltagsfassade",
+      "Alltagslebens"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungserfahrungen",
+      "Bindungsmuster",
+      "Bindungsverhalten"
+    ],
+    "disso": [
+      "DISSOZIATION",
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionen"
+    ],
+    "exter": [
+      "Externalisierung",
+      "Externalisierungen",
+      "Externe",
+      "Externen"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegensätze",
+      "Gegensätzen",
+      "Gegenteil"
+    ],
+    "grenz": [
+      "Grenzanlage",
+      "Grenze",
+      "Grenzen",
+      "Grenzfeste"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Interner"
+    ],
+    "kontr": [
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollverlust",
+      "Kontrollversuch"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeption",
+      "Konzeptionelle"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeiten",
+      "Persönlichkeitsanteil",
+      "Persönlichkeitsanteile"
+    ],
+    "verte": [
+      "Verteidiger",
+      "Verteidigungsreaktion",
+      "Verteidigungsreaktionen",
+      "Verteidigungssysteme"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismen",
+      "Abwehrmechanismus"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Folgende"
+    ],
+    [
+      "Ende",
+      "Dependent"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Integrierende"
+    ],
+    [
+      "Ende",
+      "Polarisierende"
+    ],
+    [
+      "Ende",
+      "Weiterführende"
+    ],
+    [
+      "Ende",
+      "Datendegradation"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Sonderformen"
+    ],
+    [
+      "Form",
+      "Formlosigkeit"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationsfragment"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ]
+  ]
+}

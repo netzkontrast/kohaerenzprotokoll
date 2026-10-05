@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 74 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 74 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 75 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 75 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -321,7 +321,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Argus: Chronist der Wandlung](drive/argus-chronist-der-wandlung.md) | 2025-05-13 | 9,945 |  | Argus 173, Isabelle 9, Alex 15, Moros 11, Lia 8, Rhys 11, Selene 11, Lex 14 | Chronist 11, Panoptikum 19, Archivar 12, Heldinnenreise 18, Kritiker 14 |
 | [Juna: Resilienz-Zyklus-Konzeptentwicklung](drive/juna-resilienz-zyklus-konzeptentwicklung.md) | 2025-05-13 | 8,616 |  | Isabelle 5, Argus 7, Lia 6, Rhys 9, Moros 7, Juna 95, Alex 6, Selene 5 | JUNA 4, Album 3, Arrival 2, Emptiness 4, Echo 46 |
 | [Roman-Outline: System Kael](drive/roman-outline-system-kael.md) | 2025-06-24 | 4,187 |  | Möglichkeits-Garten 4, Silas 7, Grenzfeste 5, Resonanz-Landschaft 5, Argus 4, Rhys 7, Cerberus 5, Sophia 3 | E1 11, E5 4, AEGIS Hub 3, E0 3, E4 3 |
-| [System Kael: Konzeptentwicklung und Analyse](drive/system-kael-konzeptentwicklung-und-analyse.md) | 2025-06-24 | 5,234 |  | Möglichkeits-Garten 2, Grenzfeste 2, Cerberus 5, Genesis 4, Sophia 3, Resonanz-Landschaft 2, Rhys 5, Kairos 3 | Vedanta 3, Symmetriebrechung 7, Silent Hill 2 4, Advaita Vedanta 3, Inception 3 |
+| [System Kael: Konzeptentwicklung und Analyse](drive/system-kael-konzeptentwicklung-und-analyse.md) | 2025-06-24 | 5,234 | **read** | Möglichkeits-Garten 2, Grenzfeste 2, Cerberus 5, Genesis 4, Sophia 3, Resonanz-Landschaft 2, Rhys 5, Kairos 3 | Vedanta 3, Symmetriebrechung 7, Silent Hill 2 4, Advaita Vedanta 3, Inception 3 |
 | [Charaktere](drive/charaktere.md) | 2025-07-29 | 6,610 |  | Lia 16, Isabelle 6, Moros 15, Rhys 16, Alex 10, Selene 11, Kiko 23, Argus 4 | Sekundärer ANP 6, Primärer ANP 6, ANP-EP-Phobien 4, EP-Kind 2, Beobachter/Kritiker 2 |
 | [Juna](drive/juna.md) | 2025-07-30 | 2,872 |  | Moonshine-Link 2, Emergenz 2, Kael 23, Kohärenz 4, Überwelt 3, AEGIS 40 | Ontologischer Exploit 4, Moonshine-Links 3, Paradoxon X 3, Deus Ex Machina 6, Juna/V 39 |
 | [Juna-Kael-System Analyse und Rettungsplan .docx](drive/juna-kael-system-analyse-und-rettungsplan-docx.md) | 2025-08-05 | 13,618 |  | Partnerin 4, Moros 20, DID 19, Rhys 12, Selene 12, Juna 88, Argus 3, Isabelle 2 | Kael-System 51, Kollaps-Anteil 4, Täterintrojekte 2, Ko-Bewusstseins 3, Liebe 35 |
