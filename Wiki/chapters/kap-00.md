@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 15
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "2-kohaerenz-protokoll-konzeptentwicklung"]
+sources: 16
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen"]
 records: ["C3", "C10", "C12", "C7", "C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -45,6 +45,11 @@ Position: the coda `CODA: Die Rekursive Klammer`, after Teil III; the blueprint 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael (Meta-Perspektive)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L383]
 - Story: the blueprint plans, in `Plot-Beats`, „Der Moment nach dem Ende löst den Anfang aus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385] and „auf die Erinnerungen der Zukunft durch, um Kapitel 1 zu generieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — Kapitel 40/0, the end that is the beginning
+
+- under Leitfrage 6, from documents it numbers: „Wenn Kapitel 40/0 das Ende und der zirkuläre Neuanfang ist“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L119], the nature of the reset must be coherent; it asks whether the lab accident Nova Ardent is causally identical with the `Universal Reboot` AEGIS initiates in the foreword.
+- The report writes the chapter only as `Kapitel 40/0`: Kap 0 here is Kap 40 read as the restart — see Kap 40.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
