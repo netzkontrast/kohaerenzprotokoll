@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 28
-readings: 28
+sources: 29
+readings: 29
 conflict: C5, C11
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "romanprojekt-analyse-kohaerenz-protokoll"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -72,6 +72,10 @@ KW4 is „Domäne von Kairos/Sophia“ ^[system-kael-konzeptentwicklung-und-anal
 A light pass: the outline restates `scifi-roman-mit-ki-schreiben`, its only named source (L287), which is already read on this page; this reading holds only what the outline adds, its scene for the world.
 
 The outline's KW4 has no fixed architecture but a „prozesshaft und sich ständig wandelnd“ ^[roman-outline-system-kael.md:L170] one — „ein Garten, eine Werkstatt, eine Kunstgalerie“ ^[roman-outline-system-kael.md:L170]; the Juna connection shows here „am stärksten und reinsten“ ^[roman-outline-system-kael.md:L172].
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the blueprint, the architecture analysis, the critique) — the name of KW4
+
+The architecture analysis pairs the name with Kairos-Potentialis: „KW4 (Möglichkeits-Garten/Kairos-Potentialis)“ ^[ai-assisted-narrative-coherence.md:L1728]. The blueprint's heading glosses the same world in English: „KW4: Kairos-Potentialis (The Garden of Potential)“ ^[ai-assisted-narrative-coherence.md:L481]; the critique calls it a `Possibility Garden`.
 
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — Kernwelt 4 named Kairos-Potentialis and the Garten, where technology and organic entropy fuse
 
