@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -71,6 +71,14 @@ Position: Teil I, „Separation vom Alten“ ^[romanstruktur-und-philosophische-
 - Story: it ends in an inciting incident from within: „Eine kryptische, interne Stimme gibt die Anweisung“ ^[romanstruktur-und-philosophische-einleitung.md:L43]
 - Back-reference from Kap 13: Kael sees KW1 „nicht mehr als perfekten Ort (wie in Kap. 1)“ ^[romanstruktur-und-philosophische-einleitung.md:L117]
 - `Kapitel 40/0` returns to this chapter's scene: „Er steht in KW1.“ ^[romanstruktur-und-philosophische-einleitung.md:L306]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Kristalline Käfig
+
+Title: „Der Kristalline Käfig“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L59]
+Position: Teil I; setting from the `Schauplatz` field: „Logos-Prime (KW1) – Kael's Apartment“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L61]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael (Host/ANP), Juna (Hologramm), AEGIS-Protokolle“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L62]
+- Story: the blueprint plans, in `Plot-Beats`, „Während des formalen Check-ins mit dem Juna-Hologramm erlebt Kael eine unerklärliche Trauer-Intrusion“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L64] and „Kael rationalisiert dies weg“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L64]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
