@@ -1,5 +1,9 @@
 # scene-architecture — Akt I, Kap 0–13: die Szenenliste als Vorschlag, 2026-10-05
 
+**Status (2026-10-05):** Arbeitsgrundlage für Akt I. Der Autor hat die ganze Kette übernommen, dazu die Steigerung
+über den Preis, Kap 12 → 13 als Herzstück und die Auftritte der Menschen (Entscheidung 025, Schritt 37). Die Antworten
+stehen am Ende.
+
 **Auftrag des Autors (2026-10-05):** „Szenen für Akt I“, gewählt aus der Frage nach dem nächsten Dramatica-Schritt.
 
 **Was das ist:** Für jedes Kapitel gibt es eine Zeile Struktur nach dem Modell von Swain und Bickham, das der Skill
@@ -183,3 +187,15 @@ bestätigt, mit seinem Kürzel. Die Szene endet auf einem „Nein“, das ein *n
 - **Erfolgsbild:** Der letzte Satz macht Kap 13 unvermeidlich, ohne es anzukündigen.
 
 Ich bewerte Ziel, Wende und Naht mit Stark, OK oder Schwach, als kalter Leser. Den Text schreibst du.
+
+## Die Antworten des Autors (2026-10-05)
+
+1. **Gerüst:** die ganze Kette, die Steigerung über den Preis (Kap 2, 5, 9: ein Wert, ein Bericht, ein gelöschter
+   Name), Kap 12 → 13 als festen Endpunkt von Akt I und die Auftritte der Menschen (die Kollegin in 2, 5 und 9, Mara in
+   7, Dorn in 8, die alte Frau in 1 und 10).
+2. **Juna in Kap 4** will **etwas nur für sich**, etwas, das niemandem dient. Kael spürt es und kann es später nicht
+   mehr einordnen.
+3. **Kap 11** zeigt **nur den Rand**: das Schweigen und den Moment vor der Entscheidung, abgerissen am Anruf. Die
+   Trennung selbst und die Fragmentierungsnacht gehören Kap 18.
+4. **Entwurf G:** Alle vier Punkte bleiben. Die linke Hand handelt in Kap 1, das Telefon ist der Einsatz, Kael liest
+   734 bewusst als seine Nummer, und Bit und Joule stehen auf dem Schirm.
