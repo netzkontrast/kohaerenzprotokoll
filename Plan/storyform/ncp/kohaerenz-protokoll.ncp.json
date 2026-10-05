@@ -511,6 +511,34 @@
                 },
                 {
                   "id": "sp_09",
+                  "appreciation": "Main Character Unique Ability",
+                  "narrative_function": "Thought",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Unique Ability",
+                  "summary": "Main Character Unique Ability: Thought",
+                  "storytelling": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist. Herkunft: author, 2026-10-05 (step 41): er denkt Dinge zu Ende, rechnet aus Bit und Joule den Preis aus (session's options from the element quads under the concern; the placement rule is not public).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_10",
+                  "appreciation": "Main Character Critical Flaw",
+                  "narrative_function": "Speculation",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Critical Flaw",
+                  "summary": "Main Character Critical Flaw: Speculation",
+                  "storytelling": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist. Herkunft: author, 2026-10-05 (step 41): er rechnet mit dem, was sein könnte, statt mit dem, was ist — gelähmt im Wenn-dann (session's options; the placement rule is not public).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_11",
                   "appreciation": "Influence Character Domain",
                   "narrative_function": "Universe",
                   "throughline": "Influence Character",
@@ -524,7 +552,7 @@
                   ]
                 },
                 {
-                  "id": "sp_10",
+                  "id": "sp_12",
                   "appreciation": "Influence Character Concern",
                   "narrative_function": "Past",
                   "throughline": "Influence Character",
@@ -538,7 +566,7 @@
                   ]
                 },
                 {
-                  "id": "sp_11",
+                  "id": "sp_13",
                   "appreciation": "Influence Character Issue",
                   "narrative_function": "Prediction",
                   "throughline": "Influence Character",
@@ -552,7 +580,7 @@
                   ]
                 },
                 {
-                  "id": "sp_12",
+                  "id": "sp_14",
                   "appreciation": "Influence Character Problem",
                   "narrative_function": "Change",
                   "throughline": "Influence Character",
@@ -566,7 +594,7 @@
                   ]
                 },
                 {
-                  "id": "sp_13",
+                  "id": "sp_15",
                   "appreciation": "Influence Character Solution",
                   "narrative_function": "Inertia",
                   "throughline": "Influence Character",
@@ -580,7 +608,7 @@
                   ]
                 },
                 {
-                  "id": "sp_14",
+                  "id": "sp_16",
                   "appreciation": "Influence Character Symptom",
                   "narrative_function": "Actuality",
                   "throughline": "Influence Character",
@@ -594,7 +622,7 @@
                   ]
                 },
                 {
-                  "id": "sp_15",
+                  "id": "sp_17",
                   "appreciation": "Influence Character Response",
                   "narrative_function": "Perception",
                   "throughline": "Influence Character",
@@ -608,7 +636,7 @@
                   ]
                 },
                 {
-                  "id": "sp_16",
+                  "id": "sp_18",
                   "appreciation": "Influence Character Benchmark",
                   "narrative_function": "Progress",
                   "throughline": "Influence Character",
@@ -622,7 +650,35 @@
                   ]
                 },
                 {
-                  "id": "sp_17",
+                  "id": "sp_19",
+                  "appreciation": "Influence Character Unique Ability",
+                  "narrative_function": "Actuality",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Unique Ability",
+                  "summary": "Influence Character Unique Ability: Actuality",
+                  "storytelling": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia. Herkunft: author, 2026-10-05 (step 41): sie sieht, was wirklich ist, und kann es nicht wegrationalisieren (session's options from the element quads under the concern; the placement rule is not public).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_20",
+                  "appreciation": "Influence Character Critical Flaw",
+                  "narrative_function": "Equity",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Critical Flaw",
+                  "summary": "Influence Character Critical Flaw: Equity",
+                  "storytelling": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia. Herkunft: author, 2026-10-05 (step 41): sie gleicht immer aus, für alle, und vergisst sich — „Ich bin für die anderen da, nicht für mich“ (session's options; the placement rule is not public).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_21",
                   "appreciation": "Objective Story Domain",
                   "narrative_function": "Psychology",
                   "throughline": "Objective Story",
@@ -636,7 +692,7 @@
                   ]
                 },
                 {
-                  "id": "sp_18",
+                  "id": "sp_22",
                   "appreciation": "Objective Story Concern",
                   "narrative_function": "Conceptualizing",
                   "throughline": "Objective Story",
@@ -650,7 +706,7 @@
                   ]
                 },
                 {
-                  "id": "sp_19",
+                  "id": "sp_23",
                   "appreciation": "Objective Story Issue",
                   "narrative_function": "State of Being",
                   "throughline": "Objective Story",
@@ -664,7 +720,7 @@
                   ]
                 },
                 {
-                  "id": "sp_20",
+                  "id": "sp_24",
                   "appreciation": "Objective Story Problem",
                   "narrative_function": "Inertia",
                   "throughline": "Objective Story",
@@ -678,7 +734,7 @@
                   ]
                 },
                 {
-                  "id": "sp_21",
+                  "id": "sp_25",
                   "appreciation": "Objective Story Solution",
                   "narrative_function": "Change",
                   "throughline": "Objective Story",
@@ -692,7 +748,7 @@
                   ]
                 },
                 {
-                  "id": "sp_22",
+                  "id": "sp_26",
                   "appreciation": "Objective Story Symptom",
                   "narrative_function": "Knowledge",
                   "throughline": "Objective Story",
@@ -706,7 +762,7 @@
                   ]
                 },
                 {
-                  "id": "sp_23",
+                  "id": "sp_27",
                   "appreciation": "Objective Story Response",
                   "narrative_function": "Thought",
                   "throughline": "Objective Story",
@@ -720,7 +776,7 @@
                   ]
                 },
                 {
-                  "id": "sp_24",
+                  "id": "sp_28",
                   "appreciation": "Objective Story Benchmark",
                   "narrative_function": "Being",
                   "throughline": "Objective Story",
@@ -734,7 +790,7 @@
                   ]
                 },
                 {
-                  "id": "sp_25",
+                  "id": "sp_29",
                   "appreciation": "Relationship Story Domain",
                   "narrative_function": "Physics",
                   "throughline": "Relationship Story",
@@ -748,7 +804,7 @@
                   ]
                 },
                 {
-                  "id": "sp_26",
+                  "id": "sp_30",
                   "appreciation": "Relationship Story Concern",
                   "narrative_function": "Understanding",
                   "throughline": "Relationship Story",
@@ -762,7 +818,7 @@
                   ]
                 },
                 {
-                  "id": "sp_27",
+                  "id": "sp_31",
                   "appreciation": "Relationship Story Issue",
                   "narrative_function": "Instinct",
                   "throughline": "Relationship Story",
@@ -776,7 +832,7 @@
                   ]
                 },
                 {
-                  "id": "sp_28",
+                  "id": "sp_32",
                   "appreciation": "Relationship Story Problem",
                   "narrative_function": "Ability",
                   "throughline": "Relationship Story",
@@ -790,7 +846,7 @@
                   ]
                 },
                 {
-                  "id": "sp_29",
+                  "id": "sp_33",
                   "appreciation": "Relationship Story Solution",
                   "narrative_function": "Desire",
                   "throughline": "Relationship Story",
@@ -804,7 +860,7 @@
                   ]
                 },
                 {
-                  "id": "sp_30",
+                  "id": "sp_34",
                   "appreciation": "Relationship Story Symptom",
                   "narrative_function": "Thought",
                   "throughline": "Relationship Story",
@@ -818,7 +874,7 @@
                   ]
                 },
                 {
-                  "id": "sp_31",
+                  "id": "sp_35",
                   "appreciation": "Relationship Story Response",
                   "narrative_function": "Knowledge",
                   "throughline": "Relationship Story",
@@ -832,7 +888,7 @@
                   ]
                 },
                 {
-                  "id": "sp_32",
+                  "id": "sp_36",
                   "appreciation": "Relationship Story Benchmark",
                   "narrative_function": "Doing",
                   "throughline": "Relationship Story",
@@ -846,7 +902,7 @@
                   ]
                 },
                 {
-                  "id": "sp_33",
+                  "id": "sp_37",
                   "appreciation": "Main Character Pivotal Element",
                   "narrative_function": "Inertia",
                   "throughline": "Main Character",
@@ -860,7 +916,7 @@
                   ]
                 },
                 {
-                  "id": "sp_34",
+                  "id": "sp_38",
                   "appreciation": "Story Goal",
                   "narrative_function": "Conceptualizing",
                   "illustration": "Einen Plan, ein Konzept der Ordnung entwickeln.",
@@ -873,7 +929,7 @@
                   ]
                 },
                 {
-                  "id": "sp_35",
+                  "id": "sp_39",
                   "appreciation": "Story Requirements",
                   "narrative_function": "Learning",
                   "illustration": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
@@ -886,7 +942,7 @@
                   ]
                 },
                 {
-                  "id": "sp_36",
+                  "id": "sp_40",
                   "appreciation": "Story Consequence",
                   "narrative_function": "Past",
                   "illustration": "Die Fragmentierungsnacht wiederholt sich.",
@@ -899,7 +955,7 @@
                   ]
                 },
                 {
-                  "id": "sp_37",
+                  "id": "sp_41",
                   "appreciation": "Story Forewarnings",
                   "narrative_function": "Preconscious",
                   "illustration": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen.",
@@ -912,7 +968,7 @@
                   ]
                 },
                 {
-                  "id": "sp_38",
+                  "id": "sp_42",
                   "appreciation": "Story Costs",
                   "narrative_function": "Being",
                   "illustration": "Kaels funktionierende Fassade zerfällt: Host-Rolle, Alltag, Routinen.",
@@ -925,7 +981,7 @@
                   ]
                 },
                 {
-                  "id": "sp_39",
+                  "id": "sp_43",
                   "appreciation": "Story Dividends",
                   "narrative_function": "Becoming",
                   "illustration": "Kael wird funktional plural; die Anteile werden Verbündete.",
@@ -938,7 +994,7 @@
                   ]
                 },
                 {
-                  "id": "sp_40",
+                  "id": "sp_44",
                   "appreciation": "Story Prerequisites",
                   "narrative_function": "Memory",
                   "illustration": "Ein erstes Erinnerungsfragment, an dem Kael zu lesen beginnen kann.",
@@ -951,12 +1007,40 @@
                   ]
                 },
                 {
-                  "id": "sp_41",
+                  "id": "sp_45",
                   "appreciation": "Story Preconditions",
                   "narrative_function": "Present",
                   "illustration": "Kael kann nur in Zeitlücken suchen.",
                   "summary": "Story Preconditions: Present",
                   "storytelling": "Herkunft: author, fine structure 2b.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_46",
+                  "appreciation": "Objective Story Catalyst",
+                  "narrative_function": "Threat",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Catalyst",
+                  "summary": "Objective Story Catalyst: Threat",
+                  "storytelling": "Herkunft: author, 2026-10-05 (step 41): das Wartungsfenster: jede Frist von Sektor 04 rückt die Bedrohung näher (a variation; the author chose the idea, then its variation).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_47",
+                  "appreciation": "Objective Story Inhibitor",
+                  "narrative_function": "Denial",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Inhibitor",
+                  "summary": "Objective Story Inhibitor: Denial",
+                  "storytelling": "Herkunft: author, 2026-10-05 (step 41): das Vergessen: Oblivion löscht, was Kael nicht erträgt (a variation; the author chose the idea, then its variation).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -2041,6 +2125,34 @@
                 },
                 {
                   "id": "sp_09",
+                  "appreciation": "Main Character Unique Ability",
+                  "narrative_function": "Control",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Unique Ability",
+                  "summary": "Main Character Unique Ability: Control",
+                  "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: author, 2026-10-05 (step 41): lückenlose Kontrolle: jeder Posten schließbar, jeder Sweep vollziehbar (session's options from the element quads under the concern; the placement rule is not public).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_10",
+                  "appreciation": "Main Character Critical Flaw",
+                  "narrative_function": "Oppose",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Critical Flaw",
+                  "summary": "Main Character Critical Flaw: Oppose",
+                  "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: author, 2026-10-05 (step 41): es stellt sich gegen jede Bewegung — „Bewegung ist Verlöschen“ (session's options; the placement rule is not public).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_11",
                   "appreciation": "Influence Character Domain",
                   "narrative_function": "Mind",
                   "throughline": "Influence Character",
@@ -2054,7 +2166,7 @@
                   ]
                 },
                 {
-                  "id": "sp_10",
+                  "id": "sp_12",
                   "appreciation": "Influence Character Concern",
                   "narrative_function": "Subconscious",
                   "throughline": "Influence Character",
@@ -2068,7 +2180,7 @@
                   ]
                 },
                 {
-                  "id": "sp_11",
+                  "id": "sp_13",
                   "appreciation": "Influence Character Issue",
                   "narrative_function": "Dream",
                   "throughline": "Influence Character",
@@ -2082,7 +2194,7 @@
                   ]
                 },
                 {
-                  "id": "sp_12",
+                  "id": "sp_14",
                   "appreciation": "Influence Character Problem",
                   "narrative_function": "Disbelief",
                   "throughline": "Influence Character",
@@ -2096,7 +2208,7 @@
                   ]
                 },
                 {
-                  "id": "sp_13",
+                  "id": "sp_15",
                   "appreciation": "Influence Character Solution",
                   "narrative_function": "Faith",
                   "throughline": "Influence Character",
@@ -2110,7 +2222,7 @@
                   ]
                 },
                 {
-                  "id": "sp_14",
+                  "id": "sp_16",
                   "appreciation": "Influence Character Symptom",
                   "narrative_function": "Oppose",
                   "throughline": "Influence Character",
@@ -2124,7 +2236,7 @@
                   ]
                 },
                 {
-                  "id": "sp_15",
+                  "id": "sp_17",
                   "appreciation": "Influence Character Response",
                   "narrative_function": "Support",
                   "throughline": "Influence Character",
@@ -2138,7 +2250,7 @@
                   ]
                 },
                 {
-                  "id": "sp_16",
+                  "id": "sp_18",
                   "appreciation": "Influence Character Benchmark",
                   "narrative_function": "Memory",
                   "throughline": "Influence Character",
@@ -2152,7 +2264,35 @@
                   ]
                 },
                 {
-                  "id": "sp_17",
+                  "id": "sp_19",
+                  "appreciation": "Influence Character Unique Ability",
+                  "narrative_function": "Faith",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Unique Ability",
+                  "summary": "Influence Character Unique Ability: Faith",
+                  "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05 (step 41): er kann glauben, ohne zu prüfen — die Lösung, die AEGIS nie annimmt (session's options from the element quads under the concern; the placement rule is not public).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_20",
+                  "appreciation": "Influence Character Critical Flaw",
+                  "narrative_function": "Temptation",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Critical Flaw",
+                  "summary": "Influence Character Critical Flaw: Temptation",
+                  "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05 (step 41): das Vergessen lockt: „Lösch, was dich bremst“, Oblivions Angebot (session's options; the placement rule is not public).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_21",
                   "appreciation": "Objective Story Domain",
                   "narrative_function": "Physics",
                   "throughline": "Objective Story",
@@ -2166,7 +2306,7 @@
                   ]
                 },
                 {
-                  "id": "sp_18",
+                  "id": "sp_22",
                   "appreciation": "Objective Story Concern",
                   "narrative_function": "Obtaining",
                   "throughline": "Objective Story",
@@ -2180,7 +2320,7 @@
                   ]
                 },
                 {
-                  "id": "sp_19",
+                  "id": "sp_23",
                   "appreciation": "Objective Story Issue",
                   "narrative_function": "Approach",
                   "throughline": "Objective Story",
@@ -2194,7 +2334,7 @@
                   ]
                 },
                 {
-                  "id": "sp_20",
+                  "id": "sp_24",
                   "appreciation": "Objective Story Problem",
                   "narrative_function": "Feeling",
                   "throughline": "Objective Story",
@@ -2208,7 +2348,7 @@
                   ]
                 },
                 {
-                  "id": "sp_21",
+                  "id": "sp_25",
                   "appreciation": "Objective Story Solution",
                   "narrative_function": "Logic",
                   "throughline": "Objective Story",
@@ -2222,7 +2362,7 @@
                   ]
                 },
                 {
-                  "id": "sp_22",
+                  "id": "sp_26",
                   "appreciation": "Objective Story Symptom",
                   "narrative_function": "Reconsider",
                   "throughline": "Objective Story",
@@ -2236,7 +2376,7 @@
                   ]
                 },
                 {
-                  "id": "sp_23",
+                  "id": "sp_27",
                   "appreciation": "Objective Story Response",
                   "narrative_function": "Consider",
                   "throughline": "Objective Story",
@@ -2250,7 +2390,7 @@
                   ]
                 },
                 {
-                  "id": "sp_24",
+                  "id": "sp_28",
                   "appreciation": "Objective Story Benchmark",
                   "narrative_function": "Doing",
                   "throughline": "Objective Story",
@@ -2264,7 +2404,7 @@
                   ]
                 },
                 {
-                  "id": "sp_25",
+                  "id": "sp_29",
                   "appreciation": "Relationship Story Domain",
                   "narrative_function": "Psychology",
                   "throughline": "Relationship Story",
@@ -2278,7 +2418,7 @@
                   ]
                 },
                 {
-                  "id": "sp_26",
+                  "id": "sp_30",
                   "appreciation": "Relationship Story Concern",
                   "narrative_function": "Becoming",
                   "throughline": "Relationship Story",
@@ -2292,7 +2432,7 @@
                   ]
                 },
                 {
-                  "id": "sp_27",
+                  "id": "sp_31",
                   "appreciation": "Relationship Story Issue",
                   "narrative_function": "Rationalization",
                   "throughline": "Relationship Story",
@@ -2306,7 +2446,7 @@
                   ]
                 },
                 {
-                  "id": "sp_28",
+                  "id": "sp_32",
                   "appreciation": "Relationship Story Problem",
                   "narrative_function": "Feeling",
                   "throughline": "Relationship Story",
@@ -2320,7 +2460,7 @@
                   ]
                 },
                 {
-                  "id": "sp_29",
+                  "id": "sp_33",
                   "appreciation": "Relationship Story Solution",
                   "narrative_function": "Logic",
                   "throughline": "Relationship Story",
@@ -2334,7 +2474,7 @@
                   ]
                 },
                 {
-                  "id": "sp_30",
+                  "id": "sp_34",
                   "appreciation": "Relationship Story Symptom",
                   "narrative_function": "Hinder",
                   "throughline": "Relationship Story",
@@ -2348,7 +2488,7 @@
                   ]
                 },
                 {
-                  "id": "sp_31",
+                  "id": "sp_35",
                   "appreciation": "Relationship Story Response",
                   "narrative_function": "Help",
                   "throughline": "Relationship Story",
@@ -2362,7 +2502,7 @@
                   ]
                 },
                 {
-                  "id": "sp_32",
+                  "id": "sp_36",
                   "appreciation": "Relationship Story Benchmark",
                   "narrative_function": "Conceiving",
                   "throughline": "Relationship Story",
@@ -2376,7 +2516,7 @@
                   ]
                 },
                 {
-                  "id": "sp_33",
+                  "id": "sp_37",
                   "appreciation": "Main Character Pivotal Element",
                   "narrative_function": "Logic",
                   "throughline": "Main Character",
@@ -2390,7 +2530,7 @@
                   ]
                 },
                 {
-                  "id": "sp_34",
+                  "id": "sp_38",
                   "appreciation": "Story Goal",
                   "narrative_function": "Obtaining",
                   "illustration": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null.",
@@ -2403,7 +2543,7 @@
                   ]
                 },
                 {
-                  "id": "sp_35",
+                  "id": "sp_39",
                   "appreciation": "Story Requirements",
                   "narrative_function": "Doing",
                   "illustration": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
@@ -2416,7 +2556,7 @@
                   ]
                 },
                 {
-                  "id": "sp_36",
+                  "id": "sp_40",
                   "appreciation": "Story Consequence",
                   "narrative_function": "Becoming",
                   "illustration": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
@@ -2429,7 +2569,7 @@
                   ]
                 },
                 {
-                  "id": "sp_37",
+                  "id": "sp_41",
                   "appreciation": "Story Forewarnings",
                   "narrative_function": "Progress",
                   "illustration": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1).",
@@ -2442,7 +2582,7 @@
                   ]
                 },
                 {
-                  "id": "sp_38",
+                  "id": "sp_42",
                   "appreciation": "Story Costs",
                   "narrative_function": "Memory",
                   "illustration": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
@@ -2455,7 +2595,7 @@
                   ]
                 },
                 {
-                  "id": "sp_39",
+                  "id": "sp_43",
                   "appreciation": "Story Dividends",
                   "narrative_function": "Understanding",
                   "illustration": "AEGIS versteht Kael mit jedem Zug genauer.",
@@ -2468,7 +2608,7 @@
                   ]
                 },
                 {
-                  "id": "sp_40",
+                  "id": "sp_44",
                   "appreciation": "Story Prerequisites",
                   "narrative_function": "Past",
                   "illustration": "AEGIS braucht seine eigenen Aufzeichnungen, um sweepen zu können.",
@@ -2481,12 +2621,40 @@
                   ]
                 },
                 {
-                  "id": "sp_41",
+                  "id": "sp_45",
                   "appreciation": "Story Preconditions",
                   "narrative_function": "Conceiving",
                   "illustration": "AEGIS darf nur im Rahmen des Protokolls löschen (das Trennungsprotokoll als Regel).",
                   "summary": "Story Preconditions: Conceiving",
                   "storytelling": "Herkunft: author, fine structure 2b.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_46",
+                  "appreciation": "Objective Story Catalyst",
+                  "narrative_function": "Evidence",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Catalyst",
+                  "summary": "Objective Story Catalyst: Evidence",
+                  "storytelling": "Herkunft: author, 2026-10-05 (step 41): offene Posten: jede offene Zeile ist Beweis einer Anomalie und löst den nächsten Sweep aus (a variation; the author chose the idea, then its variation).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_47",
+                  "appreciation": "Objective Story Inhibitor",
+                  "narrative_function": "Security",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Inhibitor",
+                  "summary": "Objective Story Inhibitor: Security",
+                  "storytelling": "Herkunft: author, 2026-10-05 (step 41): Mnemosyne: sie hält sicher, was AEGIS löschen will (a variation; the author chose the idea, then its variation).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"

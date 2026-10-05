@@ -28,14 +28,14 @@
 - **Prüfbar:** Dass es ein Type ist, ja. Welcher Type, nach Regel, nein, denn die Zuordnung steht nur in der
   lizenzierten DSM. Es bleibt deine Wahl, wie bei den Signposts.
 
-### 2. Unique Ability und Critical Flaw von MC und IC, je Storyform
+### 2. Unique Ability und Critical Flaw von MC und IC, je Storyform — **erledigt 2026-10-05** (Schritt 41)
 - **Was:** Die eine Fähigkeit, ohne die die Figur nicht gewinnen kann, und der eine Fehler, der sie aufhält. Beides
   sind Elemente.
 - **Wozu:** Die Karten von Kael, Juna und AEGIS bekämpfen sich heute nur über Want und Need. Die Ability gibt Kael ein
   Werkzeug für Kap 13 und den Vortex. Der Flaw gibt AEGIS den Grund, warum es steadfast scheitert.
 - **Prüfbar:** nur, dass es ein Element ist. Die Wahl ist deine.
 
-### 3. Catalyst und Inhibitor, je Storyform
+### 3. Catalyst und Inhibitor, je Storyform — **erledigt 2026-10-05** (Schritt 41)
 - **Was:** Was die Geschichte beschleunigt und was sie bremst. Das sind Variationen.
 - **Wozu:** Sie sind das Werkzeug für das Tempo, gerade für Akt II mit seinen drei Zyklen. Ein Kandidat für A ist das
   Wartungsfenster als Catalyst (aus der Ereignistabelle), ein Kandidat für den Inhibitor das Vergessen selbst.

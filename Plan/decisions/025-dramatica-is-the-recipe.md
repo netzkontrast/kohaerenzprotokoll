@@ -215,6 +215,16 @@ with the consequences of each option laid out.
     deleted), RS **Conceiving** (how AEGIS reconceives Kael). The placement rule is in the licensed DSM and not
     public; `storyform.py` checks only that a benchmark is a type of its class other than the concern, and writes it
     into the overview and the NCP.
+41. **Unique ability and critical flaw, catalyst and inhibitor (2026-10-05),** chosen by the author from the session's
+    options. A: Kael **Thought** / **Speculation** (he thinks things through, reckons the price from bit and joule /
+    he reckons with what could be, not with what is); Juna **Actuality** / **Equity** (she sees what is real / she
+    always balances, for everyone, and forgets herself). B: AEGIS **Control** / **Oppose** (seamless control / it
+    opposes every movement); Kael **Faith** / **Temptation** (he can believe without checking — the solution AEGIS
+    never takes / forgetting tempts him). Catalyst and inhibitor: A **Threat** (the maintenance window) / **Denial**
+    (forgetting); B **Evidence** (open entries) / **Security** (Mnemosyne). The author chose the idea first, then its
+    variation. `storyform.py` checks only that a unique ability or flaw is an element and a catalyst or inhibitor a
+    variation — every element sits in every class, so the chart can check no more — and writes them into the
+    overview and the NCP, where the profile files catalyst and inhibitor under the objective story.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
