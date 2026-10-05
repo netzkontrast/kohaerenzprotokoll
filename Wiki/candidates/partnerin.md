@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json"]
 gathered: "2026-09-17"
 ---
 
@@ -50,6 +50,10 @@ Kap 35 is titled „Das Fundament als Spiegel: Auflösung der Paradoxien / Die W
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the real Juna as Kael's overloaded partner in Köln
 
 Leitfrage 8 gives, as its aim for the next session, „Die exakten emotionalen Beats, wenn Kael realisiert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96] this: „dass Juna keine Anomalie, sondern seine reale, überlastete Partnerin ist“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]. It is a question the report puts for a later session, and the line ends in reference 1.
+
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Juna as Kael's partner
+
+The research report names the relation in the table row for the Externe Ebene (L79): Kael exists there „betreut von seiner Partnerin Juna.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L79] In Akt III it repeats it with the effect on her: „Juna ist seine reale, physisch und emotional massiv erschöpfte Partnerin.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L217]
 
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Partner, a name from corrupted legacy files
 
