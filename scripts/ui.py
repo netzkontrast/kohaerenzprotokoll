@@ -5,10 +5,13 @@ Every screen shows what the repository already states, and nothing else: the
 pages, conflicts and questions in `Wiki/`, the reconciliation records in
 `Wiki/compare/`, the typed graph from `scripts/graph.py`, every number from
 `scripts/state.py`, the manifest, `NOW.md`, `GOAL.md`, `PRINCIPLES.md`, the
-decisions, and the loop and invariants of the `tools` skill. Nothing is inferred
-and nothing is summarised: a page is rendered from its own markdown, a relation
-is an edge `graph.py` derived, a count is a measurement, and a reading-log row is
-the document's own `reconcile.json`.
+decisions, the loop and invariants of the `tools` skill, and the novel's
+workspace in `Manuscript/` — the canon ledger, the drafts, the cards, the Weichen
+of `Plan/weichen/` and the findings of `Plan/runs/writing/` (decision 024). Nothing
+is inferred and nothing is summarised: a page is rendered from its own markdown, a
+relation is an edge `graph.py` derived, a count is a measurement, a reading-log row
+is the document's own `reconcile.json`, and canon is what `Manuscript/kanon.md`
+lists and nothing else.
 
 What it writes is derived, so it goes where derived things go and is never
 committed (`Plan/derived/`, git-ignored). One component, `project/Main.dc.html`,
@@ -58,7 +61,8 @@ it is not; with node, every item is also taken to its address and back (below).
 
 On the website (not inside a canvas frame) the app keeps its state in the URL:
 `#/wiki/<slug>`, `#/conflicts/C2`, `#/questions/Q3` or `#/questions/agenda`,
-`#/corpus/<slug>`, `#/graph/<term|doc|conflict|question>/<id>`, `#/process/<tab>[/<id>]`.
+`#/corpus/<slug>`, `#/graph/<term|doc|conflict|question>/<id>`, `#/process/<tab>[/<id>]`,
+`#/manuscript/<tab>[/<key>]` (the novel's workspace, decision 024).
 Stable ids, never list positions, so a link survives a rebuild; the back button
 retraces the screens; a hash not starting `#/` is a section anchor and is left alone.
 """
@@ -99,6 +103,9 @@ COMPARE = ROOT / "Wiki" / "compare"
 RUNS_DIR = ROOT / "Plan" / "runs"
 DECISIONS = ROOT / "Plan" / "decisions"
 MANUSCRIPT = ROOT / "Manuscript"
+WRITING = ROOT / "Plan" / "runs" / "writing"
+WEICHEN = ROOT / "Plan" / "weichen"
+CARDS = ("figuren", "welt")
 TOOLS = ROOT / ".agents" / "skills" / "tools" / "SKILL.md"
 CANVAS_URL = "https://claude.ai/artifact/1EyhQkX3MpiRTw3TxjTjYL"
 
@@ -531,6 +538,93 @@ def _layout(nodes: list[dict], edges: list[list[int]]) -> None:
         n["x"], n["y"] = round(pos[i][0], 1), round(pos[i][1], 1)
 
 
+def _meta(text: str) -> dict:
+    """The front matter, with a trailing `# comment` cut from every scalar (the Weichen sheets carry one)."""
+    return {k: (v.split(" #")[0].strip() if isinstance(v, str) else v) for k, v in wiki_index.frontmatter(text).items()}
+
+
+def _weiche_key(wid: str) -> tuple:
+    m = re.match(r"W(\d+)$", wid)
+    return (0, int(m.group(1)), "") if m else (1, 0, wid)
+
+
+def novel_export(md: "Renderer", manuscript: list, pidx: dict) -> dict:
+    """The novel's workspace (decision 024): only canon and working drafts.
+
+    Canon is what `Manuscript/kanon.md` lists and nothing else: a card, chapter or Weiche is canon
+    only by naming a ledger id. Cards come from `Manuscript/figuren/` and `Manuscript/welt/`; the
+    occurrence table under each is a count of its `match` surfaces in every draft, never a reading.
+    Findings are `Plan/runs/writing/`, shown beside the drafts and never written into `Manuscript/`.
+    """
+    out = {"kanon": [], "ledger": None, "approved": [], "cards": [], "chapters": [], "weichen": [], "findings": []}
+    ledger = MANUSCRIPT / "kanon.md"
+    if ledger.exists():
+        text = ledger.read_text(encoding="utf-8")
+        title, lede, secs = md.sections(text)
+        out["ledger"] = {"f": ledger.relative_to(ROOT).as_posix(), "t": title, "lede": lede, "sec": secs}
+        rows = [ln for ln in _section(text, "Entscheidungen").splitlines() if ln.startswith("|")]
+        for cells in [md._row(r) for r in rows[2:]]:
+            if len(cells) >= 4 and cells[0]:
+                out["kanon"].append({"id": cells[0].strip("` "), "date": cells[1], "what": md.runs(cells[2]),
+                                     "where": cells[3].strip("` ")})
+        out["approved"] = re.findall(r"`(kap-\d+/[^`]+\.md)`", _section(text, "Freigegebene Kapitel"))
+    drafts = [i for i, m in enumerate(manuscript) if not m["readme"]]
+    texts = {i: (ROOT / manuscript[i]["f"]).read_text(encoding="utf-8") for i in drafts}
+    for kind in CARDS:
+        for path in sorted((MANUSCRIPT / kind).glob("*.md")) if (MANUSCRIPT / kind).is_dir() else []:
+            text = path.read_text(encoding="utf-8")
+            meta = _meta(text)
+            body, _ = subject._split(text)
+            title, lede, secs = md.sections(_console(body))
+            match = sorted(meta.get("match") or [], key=len, reverse=True)
+            occ = []
+            if match:
+                pat = re.compile(r"(?<![\wÄÖÜäöüß])(?:" + "|".join(re.escape(x) for x in match) + ")")
+                occ = [[i, len(pat.findall(texts[i]))] for i in drafts]
+                occ = [o for o in occ if o[1]]
+            wiki = meta.get("wiki") or ""
+            out["cards"].append({"f": path.relative_to(ROOT).as_posix(), "s": path.stem, "kind": kind,
+                                 "t": meta.get("name") or title or path.stem, "kanon": meta.get("kanon") or [],
+                                 "match": meta.get("match") or [], "wiki": pidx.get(wiki, -1) if wiki else -1,
+                                 "wikiSlug": wiki, "occ": occ, "lede": lede, "sec": secs})
+    for folder in sorted(MANUSCRIPT.glob("kap-*")) if MANUSCRIPT.is_dir() else []:
+        if not folder.is_dir():
+            continue
+        n = int(re.sub(r"\D", "", folder.name) or 0)
+        own = [i for i, m in enumerate(manuscript) if m["part"] == folder.name]
+        readme = next((i for i in own if manuscript[i]["readme"]), -1)
+        out["chapters"].append({"id": folder.name, "n": n, "readme": readme,
+                                "t": manuscript[readme]["t"] if readme >= 0 else folder.name,
+                                "drafts": [i for i in own if not manuscript[i]["readme"]],
+                                "approved": [a for a in out["approved"] if a.startswith(folder.name + "/")]})
+    for path in sorted(WEICHEN.glob("*.md")) if WEICHEN.is_dir() else []:
+        text = path.read_text(encoding="utf-8")
+        meta = _meta(text)
+        body, _ = subject._split(text)
+        title, lede, secs = md.sections(body)
+        wid = meta.get("id") or path.stem.split("-")[0].upper()
+        out["weichen"].append({"id": wid, "f": path.relative_to(ROOT).as_posix(), "t": re.sub(r"^\S+ — ", "", title),
+                               "status": meta.get("status", ""), "rec": meta.get("empfehlung", ""),
+                               "kind": meta.get("frage_art", ""), "lede": lede, "sec": secs})
+    out["weichen"].sort(key=lambda w: _weiche_key(w["id"]))
+    for path in sorted(WRITING.rglob("*.md")) if WRITING.is_dir() else []:
+        text = path.read_text(encoding="utf-8")
+        title, lede, secs = md.sections(text)
+        stem = path.stem
+        skill, _, date = stem.rpartition("_")
+        target = path.parent.relative_to(WRITING).parts[0]
+        out["findings"].append({"f": path.relative_to(ROOT).as_posix(), "s": target + "/" + stem, "target": target,
+                                "skill": skill or stem, "date": date if DATE.fullmatch(date) else "",
+                                "legacy": target.startswith("legacy"), "t": title or stem,
+                                "w": len(re.findall(r"\w+", text)), "lede": lede, "sec": secs})
+    out["findings"].sort(key=lambda x: x["date"], reverse=True)
+    out["findings"].sort(key=lambda x: x["legacy"])
+    for ch in out["chapters"]:
+        ch["findings"] = [j for j, x in enumerate(out["findings"])
+                          if x["target"] == ch["id"] or (x["target"] == "opening" and ch["n"] <= 1)]
+    return out
+
+
 def export(checks: bool = True) -> dict:
     """Everything the app shows, as one JSON-able dict."""
     read = reading_order()
@@ -685,11 +779,15 @@ def export(checks: bool = True) -> dict:
     manuscript = []
     order = lambda p: (p.parent != MANUSCRIPT, p.parent.name, p.name != "README.md", p.name)  # noqa: E731
     for path in sorted(MANUSCRIPT.rglob("*.md"), key=order) if MANUSCRIPT.is_dir() else []:
+        if path.parent.name in CARDS or path.name == "kanon.md":
+            continue  # cards and the canon ledger are the workspace's, below
         text = path.read_text(encoding="utf-8")
         title, lede, secs = md.sections(_console(text))
         manuscript.append({"f": path.relative_to(ROOT).as_posix(), "part": path.parent.name if path.parent != MANUSCRIPT else "",
                            "t": title or path.stem, "readme": path.name == "README.md",
                            "w": len(re.findall(r"\w+", text)), "lede": lede, "sec": secs})
+
+    novel = novel_export(md, manuscript, pidx)
 
     prin_text = (ROOT / "PRINCIPLES.md").read_text(encoding="utf-8")
     principles = []
@@ -788,7 +886,7 @@ def export(checks: bool = True) -> dict:
         "docs": docs, "pages": pages, "conflicts": conflicts, "questions": questions, "compare": compare,
         "agenda": agenda, "now": {"lede": now_lede, "sec": now_secs},
         "goal": {"title": goal_title, "lede": goal_lede, "sec": goal_secs},
-        "decisions": decisions, "principles": principles, "catalogue": catalogue, "manuscript": manuscript,
+        "decisions": decisions, "principles": principles, "catalogue": catalogue, "manuscript": manuscript, "novel": novel,
         "invariants": table_after("## 0 · Invariants"), "commands": table_after("## The commands, as combinations"),
         "phases": phases, "missing": missing,
         "checks": run_invariants(measured) if checks else [], "selftests": run_selftests() if checks else [],
@@ -1038,6 +1136,36 @@ def check_data(data: dict) -> list[str]:
             bad = [i for i in p[key] if not 0 <= i < limit]
             if bad:
                 problems.append(f"page {p['s']}: {key} points at nothing — {bad}")
+    novel = data.get("novel") or {}
+    ledger_ids = {k["id"] for k in novel.get("kanon", [])}
+    n_ms = len(data["manuscript"])
+    novel_records = [(f"card {c['f']}", c) for c in novel.get("cards", [])] + \
+                    [(f"finding {x['f']}", x) for x in novel.get("findings", [])] + \
+                    [(f"weiche {w['f']}", w) for w in novel.get("weichen", [])] + \
+                    ([("Manuscript/kanon.md", novel["ledger"])] if novel.get("ledger") else [])
+    for where, rec in novel_records:
+        blocks(rec["lede"], where)
+        for sec in rec["sec"]:
+            walk(sec[0], where)
+            blocks(sec[3], where)
+    for k in novel.get("kanon", []):
+        walk(k["what"], f"canon {k['id']}")
+        if not (ROOT / k["where"]).exists():
+            problems.append(f"canon {k['id']}: it stands in {k['where']}, which does not exist")
+    for c in novel.get("cards", []):
+        for kid in c["kanon"]:
+            if kid not in ledger_ids:
+                problems.append(f"card {c['f']}: claims canon {kid}, which Manuscript/kanon.md does not list")
+        if c["wikiSlug"] and not 0 <= c["wiki"] < n_pages:
+            problems.append(f"card {c['f']}: its wiki page {c['wikiSlug']} does not exist")
+        if any(not 0 <= o[0] < n_ms for o in c["occ"]):
+            problems.append(f"card {c['f']}: counts a draft the app does not hold")
+    for ch in novel.get("chapters", []):
+        if any(not 0 <= i < n_ms for i in ch["drafts"]) or any(not 0 <= j < len(novel["findings"]) for j in ch["findings"]):
+            problems.append(f"chapter {ch['id']}: points at a draft or finding the app does not hold")
+    for a in novel.get("approved", []):
+        if not (MANUSCRIPT / a).exists():
+            problems.append(f"Manuscript/kanon.md: approves {a}, which does not exist")
     measured = {k: v[0] for k, v in data["state"].items()}
     unread = data["graph"].get("unread") or {"docs": [], "edges": 0}
     for key, have in (("wiki.pages", n_pages), ("wiki.conflicts", len(data["conflicts"])),
@@ -1077,7 +1205,7 @@ const rt = (st, label) => {
   c.state = back || {}; const h2 = back ? c.route() : null;
   if (h2 !== h) bad.push(label + ': ' + h + ' comes back as ' + h2);
 };
-['now', 'wiki', 'conflicts', 'questions', 'graph', 'corpus', 'process'].forEach((x) => rt({ screen: x }, 'screen ' + x));
+['now', 'wiki', 'conflicts', 'questions', 'manuscript', 'graph', 'corpus', 'process'].forEach((x) => rt({ screen: x }, 'screen ' + x));
 D.pages.forEach((x, i) => rt({ screen: 'wiki', page: i }, 'page ' + x.s));
 D.conflicts.forEach((x, i) => rt({ screen: 'conflicts', conf: i }, 'conflict ' + x.id));
 D.questions.forEach((x, i) => rt({ screen: 'questions', ques: i }, 'question ' + x.id));
@@ -1087,6 +1215,10 @@ D.graph.nodes.forEach((x, i) => rt({ screen: 'graph', gsel: i }, 'node ' + x.lab
 D.decisions.forEach((x, i) => rt({ screen: 'process', ptab: 'decisions', pdec: i }, 'decision ' + x.id));
 D.principles.forEach((x, i) => rt({ screen: 'process', ptab: 'principles', pprin: i }, 'principle ' + x.id));
 D.compare.forEach((x, i) => rt({ screen: 'process', ptab: 'compare', pcmp: i }, 'record ' + x.k));
+c.novelTabs().forEach((t) => {
+  rt({ screen: 'manuscript', mtab: t[0] }, 'workspace tab ' + t[0]);
+  c.novelEntries(t[0]).filter((x) => !x.group).forEach((x) => rt({ screen: 'manuscript', mtab: t[0], msel: x.key }, t[0] + ' ' + x.key));
+});
 console.log(JSON.stringify(bad));
 """
 
@@ -1164,6 +1296,13 @@ def selftest() -> tuple[list[str], list[str]]:
         if not any("link to no page" in p for p in check_data(broken)):
             failures.append("a link to no page: not reported")
         broken = json.loads(json.dumps(data))
+        if broken["novel"]["cards"]:
+            broken["novel"]["cards"][0]["kanon"] = ["C999"]
+            if not any("claims canon C999" in p for p in check_data(broken)):
+                failures.append("a card claiming canon the ledger does not hold: not reported")
+        else:
+            unrun.append("no card in Manuscript/: the canon-claim case did not run")
+        broken = json.loads(json.dumps(data))
         broken["pages"].pop()
         if not any("wiki.pages" in p for p in check_data(broken)):
             failures.append("a page missing from the app: not reported against wiki.pages")
@@ -1176,6 +1315,11 @@ def selftest() -> tuple[list[str], list[str]]:
             lost, _ = check_routes(data, lost_js)
             if not any("conflict C1" in p for p in lost):
                 failures.append(f"an address that loses its conflict: not reported — got {lost[:2]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace(
+                "st.msel = parts[2];", "st.msel = parts[2] + 'x';", 1)
+            lost, _ = check_routes(data, lost_js)
+            if not any("cast " in p or "chapters " in p for p in lost):
+                failures.append(f"an address that loses its workspace item: not reported — got {lost[:2]}")
         else:
             unrun.append("node absent: the syntax case did not run")
     return failures, unrun
@@ -1191,7 +1335,7 @@ def main(argv: list[str]) -> int:
         for u in unrun:
             print(f"  not run  {u}")
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
-              "(clean build, 6 markup, 2 data, 1 syntax, 1 address)")
+              "(clean build, 6 markup, 3 data, 1 syntax, 2 addresses)")
         return 1 if failures else 0
     data = build(OUT, checks="--no-checks" not in argv)
     project = OUT / "canvas" / "project"

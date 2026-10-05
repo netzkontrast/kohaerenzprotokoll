@@ -19,6 +19,7 @@ the author are collected, verbatim, in `Plan/questions-for-the-author.md`.
 
 In force until the author says otherwise; newest first.
 
+- 2026-10-05 **„Bau das in die ui ein… eine Sektion nur für Manuskript und die chapter die Charaktere etc.. ähnlich dem Wiki nur hier nur Canon und Arbeitsdruck“** — `Manuscript/` is the novel's workspace: canon only in `Manuscript/kanon.md`, cards in `figuren/` and `welt/`, and the app's Manuscript screen in seven tabs (decision 024). The assessment of the material (`Plan/runs/writing/book/developmental-editor_2026-10-05.md`) proposes **W0, the core**, before every other Weiche (`Plan/weichen/w0-kern.md`); until it is decided no session writes new plots or Kap-1 drafts.
 - 2026-10-04 **„Füge eine manuscript Section in der [App] ein - und speichere deine Entwürfe in einem Ordner manuscript“** — the drafts live in `Manuscript/` (Kap 1: A–G, current G), and the project app has a „Manuscript“ screen (decision 023).
 - 2026-10-03 **„Gehe mal tief in dich - und entwerfe mehrere Drafts für Kapitel 1“** — four drafts, each showing one open Weiche in prose, stand in `Manuscript/kap-01/` with a comparison and a recommendation. None is canon or a voice reference until the author says so, and question A below stays open.
 - 2026-09-30 **„Is the backfill usefull? If not - stop it"** — it was not, and it is stopped (`Plan/decisions/019-…`); a committed `STOP` file keeps it so.
@@ -39,7 +40,7 @@ None of these blocks the pipeline. The full context of each is where it is named
    **B** the September draft's ideas (land its premise and drafting record as research, or leave all of it parked — recommended: land them);
    **C** where the book lives — **answered 2026-10-04: `Manuscript/`**, a top-level folder shown in the app (decision 023);
    **D** reading on demand while writing (for the chapter in hand / each document on the author's yes / none until the first draft — recommended: each document on the author's yes).
-   Then the sixteen Weichen W1–W16 in four rounds: sheets for W1–W10, W12, W15 and WP stand in `Plan/weichen/` (options, gains, costs, a recommendation, dependencies; none is a decision),
+   Then the Weichen: W0, the core, proposed by the assessment of 2026-10-05 to come first, and the sixteen W1–W16 in four rounds: sheets for W0–W10, W12, W15 and WP stand in `Plan/weichen/` (options, gains, costs, a recommendation, dependencies; none is a decision),
    and `Plan/concept/treatment-probe_2026-09-30.md` makes the recommendations concrete; W11, W13, W14 and W16 have no sheet yet. The plot question of 2026-09-29
    („I dont Like that the novel does Not Flow Like a scifi novel - i want more Action - its a question of the Plot") opens round 1 at W2.
 2. **Six graph questions** (`Plan/concept/graph-contracts_2026-09-30.md` §8): (1) the normalised co-mention relation in `graphrag`'s walk — on at weight 3, at 10–30 for conflicts and questions only, off, or wait for more labelled cases;
