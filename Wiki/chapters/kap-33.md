@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -72,6 +72,10 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 - Change 4 moves Funktionale Multiplizität to this chapter: „Kap 33 (Mitte Akt III, Begegnung mit Juna im Garten)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L22]
 - The closing note of the change: „macht das Achievement in Kap 33 erst verdient“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L26]
 - Open point 2 asks by which rule Juna is not described: „Kap 33 ist das einzige Kapitel, in dem sie *fast* greifbar ist.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L383]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — Juna's one appearance, Kap 33/34
+
+- Juna's one appearance, `Lösung zu C.7` in the report's terms: in Kap 33/34 she „betritt Juna den Raum“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] and „wird aber durch absolute Exklusions-Deskription geschrieben“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] — only the room, the dust, the light, the scanners, the alters' relaxation are described. The report also says she never intervenes physically (L27).
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
