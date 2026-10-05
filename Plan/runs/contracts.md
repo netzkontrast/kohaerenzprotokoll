@@ -6,11 +6,13 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | [`2026-09-14-kap25-vertiefung-md`](2026-09-14-kap25-vertiefung-md/contracts.md) | 8 | ∅ | 7 | 3 | 1 | 2 | 2 | 21 | 6* | 0 | 14 | 1 | n.s. | 1 | 7 | 1 | 2 | 11 | 30 | 85 | 5 | 5 | 19 | 3 | 7 | n.s. | 7 | 11 | 65 | 7 | 2 | 5 |
 | [`aegis-subplots-kapitelweise-system-exploration-docx`](aegis-subplots-kapitelweise-system-exploration-docx/contracts.md) |  |  |  |  |  |  |  |  | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [`ai-assisted-narrative-coherence`](ai-assisted-narrative-coherence/contracts.md) |  |  |  |  |  |  |  |  | 55 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`briefing-core-concepts-of-the-kohaerenz-protokoll-project`](briefing-core-concepts-of-the-kohaerenz-protokoll-project/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ? |  |  |  |  |  | ? |  |  |  |  |  |  |  |  |  |  |
 | [`detaillierte-kapiteluebersicht`](detaillierte-kapiteluebersicht/contracts.md) |  |  | 14 |  |  | 15 |  | 32 | 36* |  |  |  |  |  |  |  | 33 |  |  |  |  |  |  |  | 11 |  |  |  |  |  |  |  |
 | [`dramatica-storyform-synthese-aegis-analyse-2`](dramatica-storyform-synthese-aegis-analyse-2/contracts.md) |  |  |  |  |  |  | 75 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 117 | 135 |  |  |  |  |
 | [`dual-storyform-hintergruende-md`](dual-storyform-hintergruende-md/contracts.md) |  |  |  |  |  |  | 33 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 11 |  |  | 67 | 59 |  |  |  |  |
 | [`hard-sf-roman-outline-dkt-physik-cosmic-horror`](hard-sf-roman-outline-dkt-physik-cosmic-horror/contracts.md) |  |  |  |  |  |  | 53 |  | 82 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 75 | 97 |  |  |  |  |
+| [`kapitel-kompendium-gather-2026-05-31-md`](kapitel-kompendium-gather-2026-05-31-md/contracts.md) |  |  |  |  |  |  |  |  | 17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kohaerenz-protokoll`](kohaerenz-protokoll/contracts.md) |  |  |  |  |  |  | 355 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 655 | 189 |  |  |  |  |
 | [`kohaerenz-protokoll-39-kapitel-matrix`](kohaerenz-protokoll-39-kapitel-matrix/contracts.md) |  |  |  |  |  |  |  |  | 144 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`](kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 119 | 174 |  |  |  |  |
@@ -42,7 +44,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`systems-narrative-analysis-the-coherence-protocol-kanon-2026`](systems-narrative-analysis-the-coherence-protocol-kanon-2026/contracts.md) |  |  |  |  |  |  | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 24 | 39 |  |  |  |  |
 | [`the-architecture-of-fracture-a-compendium-of-the-kael-system`](the-architecture-of-fracture-a-compendium-of-the-kael-system/contracts.md) |  |  |  |  |  |  | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 | 21 |  |  |  |  |
 | [`the-coherence-protocol-the-hidden-rules-that-hold-reality-to`](the-coherence-protocol-the-hidden-rules-that-hold-reality-to/contracts.md) |  | 15 |  |  |  |  |  |  |  |  |  |  |  | ? |  |  |  |  | ? |  | 16 |  |  |  |  |  |  |  |  |  |  |  |
-| [`three-mode-architecture-39-chapters-md`](three-mode-architecture-39-chapters-md/contracts.md) |  |  |  |  |  |  |  |  | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [`three-mode-architecture-39-chapters-md`](three-mode-architecture-39-chapters-md/contracts.md) |  |  |  |  |  |  |  |  | 45 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-174 runs on 40 sources: 149 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+178 runs on 42 sources: 153 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.

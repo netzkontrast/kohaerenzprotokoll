@@ -1,22 +1,24 @@
 {
- "source": "three-mode-architecture-39-chapters-md",
+ "source": "ai-assisted-narrative-coherence",
  "runs": [
   {
    "run": "chaptercards-sonnet-2026-10-05b",
    "contract": "ChapterCards",
    "model": "claude-cli/sonnet",
    "date": "2026-10-05",
-   "calls": 26,
+   "calls": 171,
    "failed_calls": 0,
-   "chunks": 26,
+   "chunks": 171,
    "failed_chunks": 0,
-   "cost_usd": 0.5121,
+   "cost_usd": 2.1832,
    "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
-   "source_sha256": "087bb8c560631a5bf51cd1a4075fb78e3f50eb90a4e8f9c601a97076feedfb6f",
-   "rows": 45,
-   "candidates": 43,
+   "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+   "rows": 72,
+   "candidates": 34,
    "refused": {
-    "chapter is neither on the quoted line nor the heading above it": 2
+    "surface absent from document": 5,
+    "chapter is neither on the quoted line nor the heading above it": 31,
+    "ambiguous quote: choose its passage": 2
    },
    "duplicates": 0,
    "labels": {},
@@ -42,10 +44,14 @@
    "failed_chunks": null,
    "cost_usd": 0.0,
    "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
-   "source_sha256": "087bb8c560631a5bf51cd1a4075fb78e3f50eb90a4e8f9c601a97076feedfb6f",
-   "rows": 45,
-   "candidates": 45,
-   "refused": {},
+   "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+   "rows": 72,
+   "candidates": 55,
+   "refused": {
+    "surface absent from document": 5,
+    "ambiguous quote: choose its passage": 2,
+    "chapter is neither on the quoted line nor the heading above it": 10
+   },
    "duplicates": 0,
    "labels": {},
    "model_choice": null,

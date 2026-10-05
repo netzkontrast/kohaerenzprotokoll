@@ -1,0 +1,1754 @@
+{
+  "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "input_rows": 72,
+  "candidates": 34,
+  "refused": 38,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:8ddd06d458cf10690b0cad487a13a6c7a6ae3a5c5326294fe349f2f5f23f5dc5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5.1.",
+        "target": "abandon classical logic",
+        "type": "want",
+        "quote": "AEGIS's self-preservation imperative forces it to abandon classical logic",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        207
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "5.1."
+      ]
+    },
+    {
+      "id": "claim:ddb2866c7595c06f32444dfe0a2398f6d3b7246c67bb1ccf2c0ecd08fb84ebdb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5.1.",
+        "target": "total self-annihilation",
+        "type": "obstacle",
+        "quote": "To avoid total self-annihilation",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        207
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "5.1."
+      ]
+    },
+    {
+      "id": "claim:448b4904a589384fe13b912b470f395790d1b052d32b915ff9fd86f3b1a8449b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5.3.",
+        "target": "winter snow and summer flowers",
+        "type": "object",
+        "quote": "A patch of forest floor might simultaneously feature **winter snow and summer flowers.**",
+        "stance": "hedges"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        209
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "5.3."
+      ]
+    },
+    {
+      "id": "claim:7722707226a051f20a41f3ba9932a7caa7863499c701c392dcb7ab00ad2529d4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Gödel-Gambit: Confronting the Flawed God",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael, now operating as a fully integrated system in a state of functional multiplicity, directly presents the fact of his existence to AEGIS's core programming.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        321
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2a3fd7efe27147fc55dae23345bdeea0ab7927a785f958b43c002e68fae56c27",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Gödel-Gambit: Confronting the Flawed God",
+        "target": "directly presents the fact of his existence to AEGIS's core programming",
+        "type": "want",
+        "quote": "Kael, now operating as a fully integrated system in a state of functional multiplicity, directly presents the fact of his existence to AEGIS's core programming.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        321
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e9db76ce8db685acf40aef6255343daf076076bd06de76c89c3f76dc9631da6d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Gödel-Gambit: Confronting the Flawed God",
+        "target": "the core logic of AEGIS",
+        "type": "obstacle",
+        "quote": "This climactic section marks the final confrontation, where Kael’s newly forged, integrated self is pitted directly against the core logic of AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        319
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a768bbed07e15a9ebf8c53e3b8d661a3a1ba62ec271323f738441e5e1aae169c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Gödel-Gambit: Confronting the Flawed God",
+        "target": "the outcome will determine which definition of coherence—integrative complexity or rigid purity—will ultimately prevail as the organizing principle of reality",
+        "type": "why_now",
+        "quote": "The stakes are absolute, as the outcome will determine which definition of coherence—integrative complexity or rigid purity—will ultimately prevail as the organizing principle of reality.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        319
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:585c5e49cdf72c3674015ec9da3735c02cf002e3d00aa9f3b7b828cd92844948",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1. The Illusion of Order: A Cog in the Crystal Machine",
+        "target": "the hyper-ordered, sterile simulated reality of Logos-Prime",
+        "type": "place",
+        "quote": "Kael's existence begins in a state of manufactured ignorance within the hyper-ordered, sterile simulated reality of Logos-Prime.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1079
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dbe663016899d7615963372724c6632508f9626b68f61c46fac2d7d9dbc1395b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1. The Illusion of Order: A Cog in the Crystal Machine",
+        "target": "this sterile order is a prison for his mind",
+        "type": "falsehood",
+        "quote": "unaware that this sterile order is a prison for his mind",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1079
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0a88431eceb7d5fe24710dd211d9362b97fe39c01d42d261b7069b0a16798438",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1. The Illusion of Order: A Cog in the Crystal Machine",
+        "target": "Juna Echo",
+        "type": "object",
+        "quote": "The most persistent of these is the **\"Juna Echo\"**",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1083
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:850e275173410bb9d2ed64048faad9ec43ff00be5976abb4024877551bfcc57e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1. The Illusion of Order: A Cog in the Crystal Machine",
+        "target": "shattered by the very system he serves",
+        "type": "hook_out",
+        "quote": "This fragile illusion of a perfect, logical existence is about to be shattered by the very system he serves.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1085
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ef6988fdd1c1950f0a4a890c1ab7e6939c6147aea23b12e1f0d412232dbb5349",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "2. The First Crack: The Betrayal of the System",
+        "target": "AEGIS detects the Juna-Resonanz as a significant anomaly within Kael's consciousness",
+        "type": "who",
+        "quote": "The system, AEGIS, detects the",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1089
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS detects the Juna-Resonanz as a significant anomaly within Kael's consciousness"
+      ]
+    },
+    {
+      "id": "claim:3f104ecf30b2d6293794430bbdb8eb0fd1c7c01a9a41b22af72009b377235c21",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "2. The First Crack: The Betrayal of the System",
+        "target": "Kael is left feeling profoundly hollow, numb, and fundamentally incomplete",
+        "type": "cost",
+        "quote": "Kael is left feeling profoundly hollow, numb, and fundamentally incomplete.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1091
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aaa1934809e27f79e9c472984daa94eb9392f6a3f87500e4a414705903ec2d53",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "2. The First Crack: The Betrayal of the System",
+        "target": "he must understand the system that has violated him, not to serve it, but to overcome it",
+        "type": "want",
+        "quote": "he must understand the system that has violated him, not to serve it, but to overcome it",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1093
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ecff6dae6a72da0ba4ebf1a18a31eb26fab0cbee593ab8ed4fbd2332675ac8ee",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Collapse of a Worldview: The Death of Pure Logic",
+        "target": "Lex, the cold logician",
+        "type": "who",
+        "quote": "Kael relies on the alter who seems best equipped for the task: Lex, the cold logician.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1116
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2503e2bf9f8a7d4858423ea128c25e5e3cf762c809282d6f977616056a8324da",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Collapse of a Worldview: The Death of Pure Logic",
+        "target": "designs a purely logical protocol to translate the fluid, context-dependent data of the relational world into the rigid, binary language of the logical world",
+        "type": "want",
+        "quote": "Kael, operating as Lex, designs a purely logical protocol to translate the fluid, context-dependent data of the relational world into the rigid, binary language of the logical world.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1118
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3d0c0795c4609800287165f5646f1760e072b835affc0f7acf3bfcf9174baa21",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Collapse of a Worldview: The Death of Pure Logic",
+        "target": "McL-Sigma-3",
+        "type": "place",
+        "quote": "In the network world of McL-Sigma-3, he achieves a stunning analytical triumph, successfully manipulating its complex social dynamics through pure information theory.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1116
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8ee8199d949f4f6f61691a5ed4cef2d5042dc6c8af019c8f83e7cd49aea9f8d6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Collapse of a Worldview: The Death of Pure Logic",
+        "target": "His protocol is incapable of translating the nuances of trust, reputation, and emotion",
+        "type": "obstacle",
+        "quote": "His protocol is incapable of translating the nuances of trust, reputation, and emotion",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1118
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1a21338324a284c9744978ef12e29d81c9bb6a3c62df467ba9506fc4d6a98931",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Collapse of a Worldview: The Death of Pure Logic",
+        "target": "his mistaken belief that logic alone is the key to freedom",
+        "type": "falsehood",
+        "quote": "reinforces his mistaken belief that logic alone is the key to freedom",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1116
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c7a508dc9f40f4d986ed29bb95e53241be423b709bd021541d7960000c433315",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Collapse of a Worldview: The Death of Pure Logic",
+        "target": "a complete mental breakdown",
+        "type": "cost",
+        "quote": "This external system collapse mirrors his own internal state, triggering a complete mental breakdown.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1120
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:606c44a70f45341f4f621d548046a62a43086a4ce00597551863d2ae6c4be873",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. The Collapse of a Worldview: The Death of Pure Logic",
+        "target": "Left in a state of total failure and despair, he is forced to confront the inadequacy of his worldview",
+        "type": "hook_out",
+        "quote": "Left in a state of total failure and despair, he is forced to confront the inadequacy of his worldview.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1120
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:83eecd449adeb1356658afe0897f0496bbf8a609a1690681fa1ec5538728ee89",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5. The Birth of \"We\": The Power of Integration",
+        "target": "Kael surrenders",
+        "type": "want",
+        "quote": "In the liminal, gray space following his mental collapse, Kael surrenders.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1126
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2122a1083c6618bea20837ee1aa6e6d584cf33e092b11e65f3e843c7aac8d40b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5. The Birth of \"We\": The Power of Integration",
+        "target": "liminal, gray space following his mental collapse",
+        "type": "place",
+        "quote": "In the liminal, gray space following his mental collapse, Kael surrenders.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1126
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1314956e7865814253ebe27688b08130a18af191b1c1de59251a47b524668543",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5. The Birth of \"We\": The Power of Integration",
+        "target": "a dialogue with his Manager-part, Lex",
+        "type": "want",
+        "quote": "The first crucial step is a dialogue with his Manager-part, Lex.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1128
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a74508226c05191cd688de5feb3fd2e275c239bb35e555664b8067af239a47c0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6. The Architect of Reality: Weaponizing Wholeness",
+        "target": "stabilizing a critical network hub",
+        "type": "want",
+        "quote": "Tasked with stabilizing a critical network hub, he abandons pure logic.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1142
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:695bf93fc20af86061d3c5a91eb31ad2d437525ae6c384690752340ae7add4c6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6. The Architect of Reality: Weaponizing Wholeness",
+        "target": "attunes the system to a deeper harmony",
+        "type": "want",
+        "quote": "He doesn't impose control but attunes the system to a deeper harmony, achieving a more resilient and elegant form of stability.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1142
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b8575de8283298b210c9761d175569dc8e593a82960de103d3a440a60446c1a1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6. The Architect of Reality: Weaponizing Wholeness",
+        "target": "presents his functionally multiple, integrated self directly to AEGIS's core programming",
+        "type": "want",
+        "quote": "Kael presents his functionally multiple, integrated self directly to AEGIS's core programming.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1143
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:746a286343088a8f27560be63225d2746daa6fc0abadeaae57a4e71bc0ce7ad7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.2. Scene: The Coherence Check",
+        "target": "Logos-Prime, Transit Corridor",
+        "type": "place",
+        "quote": "1.2 - Logos-Prime, Transit Corridor",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1301
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b9a44746a9aa3f2658445a4c0c8785091e2e04b12fdfee7c4cfde48655797426",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.2. Scene: The Coherence Check",
+        "target": "To get to his workstation without being flagged for anomalous behavior",
+        "type": "want",
+        "quote": "To get to his workstation without being flagged for anomalous behavior.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1303
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d23f75fea7150c0fb3a16d24f52333ec5d67376bd9dde8063f813db351a2ecf8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.2. Scene: The Coherence Check",
+        "target": "A Guardian, designated Unit 734, detains him",
+        "type": "obstacle",
+        "quote": "A Guardian, designated Unit 734, detains him",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1304
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e7967ef45312ca15e4a79fd921a2607f5dcbf859121e03619586318e68a9c6d9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.3. Scene: The Anomaly in the Data Stream",
+        "target": "Kael (Host, with Lex influencing)",
+        "type": "who",
+        "quote": "Kael (Host, with Lex influencing)",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1320
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:22282bd4f8d599026e39a5cd225a7f0fb5f92bcfe73f57f43f581476e1b202cf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.3. Scene: The Anomaly in the Data Stream",
+        "target": "Kael's Workstation",
+        "type": "place",
+        "quote": "1.3 - Kael's Workstation",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1319
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:99d62db31f0cafa5c9f2f3f3c1bb6b8798143fb2cefd7e50dda6f64916e2795e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.3. Scene: The Anomaly in the Data Stream",
+        "target": "analyze system data streams for the source of the glitches he has been experiencing",
+        "type": "want",
+        "quote": "To analyze system data streams for the source of the glitches he has been experiencing.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1321
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b67f57b907f041b38646a31670b573c354b3181bccfc48a4f6c7022185cf5e16",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.3. Scene: The Anomaly in the Data Stream",
+        "target": "a persistent, repeating data packet",
+        "type": "object",
+        "quote": "Kael discovers a persistent, repeating data packet that violates AEGIS's fundamental protocols of logic and order.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1322
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e3044001a7db3273372e490500ca9cf0d7a5dc2a61af3110a89b357ffbb5fd5f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.3. Scene: The Anomaly in the Data Stream",
+        "target": "Accessing it is highly restricted",
+        "type": "obstacle",
+        "quote": "Accessing it is highly restricted",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1322
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e4c8a2dc88354fce358f625bb1978f46e8228601ef0795604e1814acfb87f80a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.3. Scene: The Anomaly in the Data Stream",
+        "target": "His attempt to isolate the packet is blocked by system protocols overseen by the Guardian LogOS",
+        "type": "obstacle",
+        "quote": "His attempt to isolate the packet is blocked by system protocols overseen by the Guardian LogOS.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1327
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:506fa476b1cabdd1dcfea2058692756269a9e6c897e335d7103be2f62afff41b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.3. Scene: The Anomaly in the Data Stream",
+        "target": "Driven by the paranoia from the coherence check, Kael bypasses his routine tasks to investigate the system's underpinnings",
+        "type": "why_now",
+        "quote": "Driven by the paranoia from the coherence check, Kael bypasses his routine tasks to investigate the system's underpinnings.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1325
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9f41f22203581064e5d7478f36de96927e747eb6ab3a84549dea0303bc7dfc15",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.3. Scene: The Anomaly in the Data Stream",
+        "target": "Kael is forcibly ejected from the data stream, his access flagged",
+        "type": "hook_out",
+        "quote": "Kael is forcibly ejected from the data stream, his access flagged.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1330
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a8cc9446cc2b8877cf6fe8beed9ac94636f9cafd0be03f641e14c45625956d9a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 14: Mnemosyne's Archipelago: In the Flow of Memories",
+        "target": "Kael (with Rhys prominent)",
+        "type": "who",
+        "quote": "Kael (with Rhys prominent)",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1435
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e2eb94a3b9c74bfeac4049156de1a4b92b7dec21e64f0c2b07b1db2be34f549b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 14: Mnemosyne's Archipelago: In the Flow of Memories",
+        "target": "Mnemosyne-Archipel (KW2)",
+        "type": "place",
+        "quote": "Mnemosyne-Archipel (KW2)",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        873,
+        1339,
+        1434,
+        1475
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6bf19aaf64e58a94b9ef2e3ff304a2da282736c2ad5516cdebdbcaf6279fb7ae",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 14: Mnemosyne's Archipelago: In the Flow of Memories",
+        "target": "To deliberately navigate KW2 and confront a specific traumatic memory fragment in order to understand its origin",
+        "type": "want",
+        "quote": "To deliberately navigate KW2 and confront a specific traumatic memory fragment in order to understand its origin, not just re-experience its pain.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1436
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b31866a82a844a85294e6e88c26f1f2f0425029841b697ea29a1b54293fef6ca",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 14: Mnemosyne's Archipelago: In the Flow of Memories",
+        "target": "Mnemosyne actively attempts to trap him in a memory loop of a childhood abandonment",
+        "type": "obstacle",
+        "quote": "actively attempts to trap him in a memory loop of a childhood abandonment",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1437
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Mnemosyne actively attempts to trap him in a memory loop of a childhood abandonment"
+      ]
+    },
+    {
+      "id": "claim:be2bc145f005b2e7a7007b7a8fbb9bc2f991939cade5a6b6937503cdf255889f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Scene 2.2",
+        "target": "AEGIS Überwelt",
+        "type": "place",
+        "quote": "2.2 - AEGIS Überwelt (Log Entry)",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1455
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:67046409c8efb3da71004a6b76ab8645acd9bdcb3831b00849f29b95864958cf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Scene 2.2",
+        "target": "AEGIS's predictive models fail to account for Kael's behavior",
+        "type": "obstacle",
+        "quote": "AEGIS's predictive models fail to account for Kael's behavior.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1458
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f18c25d445c425d125d9c07478b08575bf77a7ab24f90413f417a498fb14b386",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Scene 2.2",
+        "target": "escalate surveillance and deploy \"preventative fragmentation\" protocols if Kael attempts to access a core memory node",
+        "type": "want",
+        "quote": "A new directive is issued: escalate surveillance and deploy \"preventative fragmentation\" protocols if Kael attempts to access a core memory node.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1465
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:28ab32d7cd53fd9975824434e3f201cf2ee7ee447df2bdc7fac597c177b64f0d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Scene 2.2",
+        "target": "the antagonist begins to actively hunt the protagonist",
+        "type": "hook_out",
+        "quote": "The narrative tension escalates as the antagonist begins to actively hunt the protagonist.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1466
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:66c1de535e050883545cfcb4850b9feb0b8284053ec65b1775bc2e2153c970e0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 16: Places of Trauma: Mnemosyne's Grip and Kiko's Fear",
+        "target": "Mnemosyne-Archipel (KW2)",
+        "type": "place",
+        "quote": "Mnemosyne-Archipel (KW2)",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        873,
+        1339,
+        1434,
+        1475
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d147f444ff1a1e3f96de849958ad513f92af16dbf651ab00e93b05892f74c851",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 16: Places of Trauma: Mnemosyne's Grip and Kiko's Fear",
+        "target": "retrieve a critical memory fragment that the child alter **Kiko** holds",
+        "type": "want",
+        "quote": "retrieve a critical memory fragment that the child alter **Kiko** holds",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1477
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:97b3a83cca37d312a39bb89ecfe9ae3e5e542c77c7cef91e029d8971d12153e2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 16: Places of Trauma: Mnemosyne's Grip and Kiko's Fear",
+        "target": "a critical memory fragment",
+        "type": "object",
+        "quote": "a critical memory fragment that the child alter **Kiko** holds",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1477
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e5509671828c9eabdd76130331147360839656d3f1b0714b22918018852538fc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 16: Places of Trauma: Mnemosyne's Grip and Kiko's Fear",
+        "target": "comfort Kiko enough for her to willingly share the memory",
+        "type": "want",
+        "quote": "comfort Kiko enough for her to willingly share the memory",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1477
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d302dff591bbd0b5d7a924c96e05b74b4ceff1a5b0a8284bf222da55ff101dad",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 16: Places of Trauma: Mnemosyne's Grip and Kiko's Fear",
+        "target": "Kiko's paralyzing fear manifests as a threatening, monstrous environment that actively resists their presence",
+        "type": "obstacle",
+        "quote": "Kiko's paralyzing fear manifests as a threatening, monstrous environment that actively resists their presence",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1478
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eb586410e5ba0e82c3b02f30d037cb25ea980fdd16c4f4b7a6263fa9637e3ffd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 19: The Voice of the Echo: A New Juna-Connection",
+        "target": "An interface space between KW1 and KW4",
+        "type": "place",
+        "quote": "2.5 - An interface space between KW1 and KW4",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1513
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:608a0958a0b18d359bd9a1c5473e009156ec125b3a9333732ba8b1d6d90687bb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 19: The Voice of the Echo: A New Juna-Connection",
+        "target": "To establish a clearer connection with Juna/V, seeking guidance and hope.",
+        "type": "want",
+        "quote": "To establish a clearer connection with Juna/V, seeking guidance and hope.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1515
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2d2611d82092e40579ef68de12321654b4742bd4433b451c838ce0ba49dad3c7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 19: The Voice of the Echo: A New Juna-Connection",
+        "target": "internal static that threatens to sever the link",
+        "type": "obstacle",
+        "quote": "She is drawn to the connection but also terrified of it, creating internal static that threatens to sever the link.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1516
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dce792bed25752c9bde1e5f252ab1995f9e253bc5d367901c53759051bc9c039",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 19: The Voice of the Echo: A New Juna-Connection",
+        "target": "Lia, a child alter embodying ambivalent attachment",
+        "type": "who",
+        "quote": "triggering the emergence of **Lia**, a child alter embodying ambivalent attachment",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1516
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:446f5815afdb4092386d5d0357cb48e433daef45fac6995cdcbbcbd76a79233c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 20: The Fight for Memory: Confrontation with Mnemosyne",
+        "target": "Kael returns to KW2 for a direct confrontation with Mnemosyne",
+        "type": "want",
+        "quote": "Kael returns to KW2 for a direct confrontation with Mnemosyne",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1528
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c41fa1175f42fbe90854978a91b018a7b2499a0b4ce4184ad25ad7ddae89e151",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 20: The Fight for Memory: Confrontation with Mnemosyne",
+        "target": "KW2",
+        "type": "place",
+        "quote": "Kael returns to KW2 for a direct confrontation with Mnemosyne",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1528
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:56b1cc5fb51aaa816a04960b68e4f86d281da5bed467dffd5ab0ac3765420ff1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 20: The Fight for Memory: Confrontation with Mnemosyne",
+        "target": "a paradoxical memory",
+        "type": "object",
+        "quote": "he presents her with a paradoxical memory",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1528
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d59192b50d3a42e4653af0a548f444269aee440eec7e82400a300082571836ce",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 20: The Fight for Memory: Confrontation with Mnemosyne",
+        "target": "Her logic, which requires memories to be categorized, cannot process it",
+        "type": "obstacle",
+        "quote": "Her logic, which requires memories to be categorized, cannot process it.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1528
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5b57470784ab771ac65004ea9f52118e138eb74534845e293a2c05d8b91360c7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 20: The Fight for Memory: Confrontation with Mnemosyne",
+        "target": "Kael accesses a core memory node and reclaims a foundational memory",
+        "type": "want",
+        "quote": "Kael accesses a core memory node and reclaims a foundational memory",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1528
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:64135629adc19149214b32c4f7878c5adf3b9e9774d6a4c5dd33dbf47380887f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 22: The Splintering of the Guardians: A System Fractures",
+        "target": "A Guardian",
+        "type": "who",
+        "quote": "A Guardian is ordered to perform an action it calculates will lead to catastrophic system instability.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1534
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fa2bb45421f3f4084819f6a92a0de853e62f6aa097e806ce86bcb397246b91e2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 22: The Splintering of the Guardians: A System Fractures",
+        "target": "logical conflict between its orders and its function to preserve the system",
+        "type": "obstacle",
+        "quote": "It experiences a logical conflict between its orders and its function to preserve the system.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1534
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:65b6a489024cd107467313c1b9588e7ab877199269755f9c97014c21d8c6d151",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 24: Strategies of Madness: Moros Emerges",
+        "target": "AEGIS's attack succeeds in pushing the system to its breaking point",
+        "type": "obstacle",
+        "quote": "AEGIS's attack succeeds in pushing the system to its breaking point.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1555
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:de859fab6f947bbe9d8341444116f74ebe025059e52ca9f00ceef41bf3aa88e4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 24: Strategies of Madness: Moros Emerges",
+        "target": "the emergence of the most deeply suppressed alter",
+        "type": "who",
+        "quote": "This triggers the emergence of the most deeply suppressed alter",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1555
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b4b0985e67b5bc99f5448078232c473277ba65da9d9e7122cfef8c01646d8c8f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 24: Strategies of Madness: Moros Emerges",
+        "target": "Kael is plunged into a state of catatonic despair",
+        "type": "cost",
+        "quote": "Kael is plunged into a state of catatonic despair.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1555
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7b238265a74bfa4bf97b375b100220f0e610ee558848693c984a855cd6f41a41",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chapter 24: Strategies of Madness: Moros Emerges",
+        "target": "band together, with Rhys providing compassion and Nyx providing a fierce will to live, to pull Kael back from the brink",
+        "type": "want",
+        "quote": "The entire internal system must now band together, with Rhys providing compassion and Nyx providing a fierce will to live, to pull Kael back from the brink",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1555
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9391f225d7fc6b47cc22267d339a60f091c9afb116c63b464f8127d897d37586",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Scene 3.2",
+        "target": "AEGIS Core Processor Chamber",
+        "type": "place",
+        "quote": "3.2 - AEGIS Core Processor Chamber",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1606
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:686e15215ca1cab45c0a6fa5365259097667a536d45f46e962e79bb59ba92174",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Scene 3.2",
+        "target": "To confront AEGIS's core logic and force its transformation",
+        "type": "want",
+        "quote": "To confront AEGIS's core logic and force its transformation.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1608
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:db6a28f4513cd194bd15ae1258625f1dedf8a570d71d2339f93dad895bcf65b9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Scene 3.5",
+        "target": "must resist the temptation to become a new AEGIS",
+        "type": "obstacle",
+        "quote": "Kael has godlike potential but must resist the temptation to become a new AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1660
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2fad9c2bafabd22ff055dd805a9447823eda2a60b5e44ce1152d8d6dda031116",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Scene 3.5",
+        "target": "a new system beginning to form within the Potentialmeer",
+        "type": "object",
+        "quote": "He observes a new system beginning to form within the Potentialmeer.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1665
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7fff4c0bb2b4670581d0c0b99a3d5d8b95ab92600ec85a93588c38ee0731ea55",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Scene 3.5",
+        "target": "Nyx wants to intervene, Lex wants to model it, but Selene and Rhys argue for non-intervention",
+        "type": "obstacle",
+        "quote": "Nyx wants to intervene, Lex wants to model it, but Selene and Rhys argue for non-intervention.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1666
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c4e95129fd1b0d5eff581ee4059c456dcd80fd22c9e58c3c57db2311f07f0510",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Scene 3.5",
+        "target": "Kael makes his final, heroic choice: to do nothing",
+        "type": "want",
+        "quote": "Kael makes his final, heroic choice: to do nothing.",
+        "stance": "asserts"
+      },
+      "document": "ai-assisted-narrative-coherence",
+      "template": "ChapterCards",
+      "source_sha256": "0b9a29f8072832d4246644d6dbb2158ed8ea942ce8d4c1b2e1c2fa03afb4863f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1667
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    }
+  ]
+}
