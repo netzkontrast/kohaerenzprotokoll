@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,14 @@ Position: Teil II; setting from the `Schauplatz` field: „AEGIS-Verteidigungsne
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L241]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael entwickelt ein Meta-Bewusstsein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L243] and „als ein fragiles, verzweifeltes Konstrukt, das an seinem eigenen Unvollständigkeitssatz scheitert“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L243]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Resonanzkaskade
+
+Title: „Die Resonanzkaskade“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L289] — heading „Der Ausbruch“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L290]
+Position: Teil II; POV from `Perspektive & Stimme`: „Nyx & Kael (schnelle Wechsel)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L291]; place from `Ort`: „Zusammenstürzende Übergangszone“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L293]
+
+- Story: the matrix plans „AEGIS initiiert ein hartes Purge-Protokoll, um Kael zu löschen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L295]
+- Question: „Was passiert, wenn man aufhört, gegen sich selbst zu kämpfen?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L294]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
