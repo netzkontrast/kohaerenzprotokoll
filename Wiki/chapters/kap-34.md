@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -80,6 +80,15 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 ## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — Juna's one appearance, Kap 33/34
 
 - Juna's one appearance, `Lösung zu C.7` in the report's terms: in Kap 33/34 she „betritt Juna den Raum“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] and „wird aber durch absolute Exklusions-Deskription geschrieben“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] — only the room, the dust, the light, the scanners, the alters' relaxation are described. The report also says she never intervenes physically (L27).
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Dissonant Resonance
+
+Title: „The Dissonant Resonance“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1003]
+Position: Akt III; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1011]
+
+- Story: the outline plans „Trotz des Friedens in der Begegnung spürt Kael eine kaum wahrnehmbare, aber extrem schmerzhafte Dissonanz im Substrat der Simulation.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1009]
+- Concepts: „Vorbereitung Vortex, Trennungsprotokoll (Vorschattung)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1007]
+- Pivot-Marker: the outline plans Driver-Status: „Absolute Fokussierung auf den kommenden Vortex.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1033]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
