@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -54,6 +54,14 @@ Position: Teil III; setting from the `Schauplatz` field: „Ein Daten-Wirbel im 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Sophia (abtrünnig)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L293]
 - Story: the blueprint plans, in `Plot-Beats`, „Sophia hat erkannt, dass AEGIS' Reduktionismus zum Untergang führt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L295] and „als emergente Weisheit zu nutzen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L295]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die semipermeable Membran
+
+Title: „Die semipermeable Membran“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L365] — heading „Neue Grenzen ziehen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L366]
+Position: Teil III; POV from `Perspektive & Stimme`: „Kael/Selene“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L367]; place from `Ort`: „Wiederaufbau einer eigenen, inneren Architektur“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L369]
+
+- Story: the matrix plans „Das Kael-System errichtet neue, flexible Grenzen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L371]
+- Question: „Wie schützt man sich, ohne sich einzusperren?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L370]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
