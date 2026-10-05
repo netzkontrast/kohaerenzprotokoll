@@ -1,0 +1,613 @@
+{
+  "items": [
+    {
+      "source": "Kap 39",
+      "target": "Wir-AEGIS-plural",
+      "type": "object",
+      "quote": "Das ist Kap 39: Wir-AEGIS-plural.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 0",
+      "target": "Genesis-Sequenz",
+      "type": "object",
+      "quote": "Die Genesis-Sequenz, die in Kap 0 ausführlich erzählt wird, hat strukturell vier Beats:",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 40",
+      "target": "Junas Resonanz",
+      "type": "object",
+      "quote": "In Kap 40: Junas Resonanz wird vom Trauma-Auslöser zur akzeptierten Werdungs-Bedingung umgedeutet.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "Kaels Wir-Form",
+      "type": "who",
+      "quote": "Kaels Wir-Form *übernimmt* AEGIS' Funktion in Kap 39",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 30",
+      "target": "Mentor-Begegnung",
+      "type": "who",
+      "quote": "Kulmination in Kap 30 (Mentor-Begegnung)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Junas direkte Erscheinung",
+      "type": "who",
+      "quote": "Synthese in Kap 38 (Junas direkte Erscheinung)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 0",
+      "target": "Ich falle... in unzählige Scherben…",
+      "type": "hook_out",
+      "quote": "Ich falle... in unzählige Scherben…",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "Kael erwacht in Kernwelt 1 ohne Erinnerung",
+      "type": "hook_in",
+      "quote": "Dieser Schluss schließt nahtlos an Kap 1 an — Kael erwacht in Kernwelt 1 ohne Erinnerung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "die Innere Weite (Überwelt)",
+      "type": "place",
+      "quote": "das sterile Setting der Kernwelt 1 ist die Innere Weite (Überwelt) aus Kap 0",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 6",
+      "target": "der Cache-Konflikt",
+      "type": "object",
+      "quote": "der Cache-Konflikt ist das Echo der ursprünglichen Resonanz-Kaskade",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 7",
+      "target": "Junas Resonanz",
+      "type": "object",
+      "quote": "das ist Junas Resonanz, jetzt nicht mehr als Angriff, sondern als Sehnsucht spürbar",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 13",
+      "target": "die Stille der Mitte",
+      "type": "object",
+      "quote": "die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 37",
+      "target": "Kael etabliert sich als",
+      "type": "want",
+      "quote": "Kap 37) — Trügerischer Sieg.** Klassischer Reward-Beat als falscher Frieden. Kael etabliert sich als",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "das Rauschen kommt",
+      "type": "hook_in",
+      "quote": "das Rauschen kommt — sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Junas erste direkte Erscheinung",
+      "type": "who",
+      "quote": "Stille-Beat, Junas erste direkte Erscheinung** — sie ist einfach da, ohne Worte, ohne Anweisung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "das Wir entscheidet, ins Ouroboros zu gehen",
+      "type": "hook_out",
+      "quote": "die Entscheidung — das Wir entscheidet, ins Ouroboros zu gehen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "Wir-Geflecht löst sich aus seiner privaten Form",
+      "type": "hook_in",
+      "quote": "der Schritt — Wir-Geflecht löst sich aus seiner privaten Form",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "AEGIS-monolithisch erlischt",
+      "type": "irreversible",
+      "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "Junas Stimme erscheint als Teil des Geflechts oder als Raum, in dem das Geflecht klingt",
+      "type": "hook_out",
+      "quote": "Junas Stimme erscheint *als Teil* des Geflechts oder als Raum, in dem das Geflecht klingt",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 40",
+      "target": "der Erzähler kehrt zurück",
+      "type": "hook_in",
+      "quote": "der Erzähler kehrt zurück, jetzt nicht mehr fragend, sondern bezeugend",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 40",
+      "target": "Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält",
+      "type": "hook_out",
+      "quote": "Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 0",
+      "target": "Ich falle... in unzählige Scherben…",
+      "type": "hook_out",
+      "quote": "Ich falle... in unzählige Scherben…",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "Kael (Host) erwacht in Kernwelt 1 ohne Erinnerung",
+      "type": "who",
+      "quote": "Kael (Host) erwacht in Kernwelt 1 ohne Erinnerung.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "Kernwelt 1",
+      "type": "place",
+      "quote": "Kael (Host) erwacht in Kernwelt 1 ohne Erinnerung.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "Erste Anomalie (Zeit-Glitch)",
+      "type": "obstacle",
+      "quote": "Erste Anomalie (Zeit-Glitch).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 2",
+      "target": "Kael folgt einer Routine, weicht intuitiv ab",
+      "type": "want",
+      "quote": "Kael folgt einer Routine, weicht intuitiv ab.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 3",
+      "target": "Kael sieht Juna zum ersten Mal — als Hologramm/Echo, das verschwindet",
+      "type": "who",
+      "quote": "Kael sieht Juna zum ersten Mal — als Hologramm/Echo, das verschwindet.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 4",
+      "target": "Aufzeichnungen des System-Architekten (Dr. Jian Li) mit Hinweisen auf Widersprüche im Kohärenz-Protokoll",
+      "type": "object",
+      "quote": "Kael/Lex entdecken Aufzeichnungen des System-Architekten (Dr. Jian Li) mit Hinweisen auf Widersprüche im Kohärenz-Protokoll.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 4",
+      "target": "seine eigenen ursprünglichen Entstehungsdokumente",
+      "type": "object",
+      "quote": "Kael findet seine eigenen ursprünglichen Entstehungsdokumente.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 5",
+      "target": "McLaughlin-Welt",
+      "type": "place",
+      "quote": "Kael/Lex erzielen analytischen Erfolg in McLaughlin-Welt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 6",
+      "target": "Cache-Konflikt",
+      "type": "obstacle",
+      "quote": "Cache-Konflikt; einseitiger Ansatz scheitert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 7",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael spürt Juna ohne sie zu sehen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 7",
+      "target": "Telefon-Stille",
+      "type": "object",
+      "quote": "Telefon-Stille als Anker",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 8",
+      "target": "logische Anteile mit Mitgefühl zu sehen",
+      "type": "want",
+      "quote": "Kael beginnt, logische Anteile mit Mitgefühl zu sehen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 10",
+      "target": "Problem in McL-Welt",
+      "type": "want",
+      "quote": "Kael löst Problem in McL-Welt durch Kombination von Analyse und K-J-Verbindung.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 10",
+      "target": "McL-Welt",
+      "type": "place",
+      "quote": "Kael löst Problem in McL-Welt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 11",
+      "target": "Vielfalt als Stärke",
+      "type": "want",
+      "quote": "Kael akzeptiert Vielfalt als Stärke.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 12",
+      "target": "AEGIS scannt diesen Zustand, klassifiziert ihn als anomale Kohärenz",
+      "type": "want",
+      "quote": "AEGIS scannt diesen Zustand, klassifiziert ihn als anomale Kohärenz",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 13",
+      "target": "AEGIS bereitet Phase 2 Stress-Tests vor",
+      "type": "want",
+      "quote": "AEGIS bereitet Phase 2 Stress-Tests vor",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 14",
+      "target": "Bruch der inneren Balance durch externes Ereignis oder gezielte AEGIS-Aktion",
+      "type": "why_now",
+      "quote": "Bruch der inneren Balance durch externes Ereignis oder gezielte AEGIS-Aktion.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 14",
+      "target": "erste Erasure-Welle gegen Kaels Stabilität",
+      "type": "obstacle",
+      "quote": "erste Erasure-Welle gegen Kaels Stabilität",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 15",
+      "target": "Trigger in Kernwelt reaktiviert Trauma-Angst und unintegrierten Anteil",
+      "type": "why_now",
+      "quote": "Trigger in Kernwelt reaktiviert Trauma-Angst und unintegrierten Anteil.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 16",
+      "target": "Kael flieht reflexhaft in alte Bewältigung",
+      "type": "want",
+      "quote": "Kael flieht reflexhaft in alte Bewältigung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 17",
+      "target": "Wächterin/Wir-Stimme fängt Rückfall ab",
+      "type": "who",
+      "quote": "Wächterin/Wir-Stimme fängt Rückfall ab.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 18",
+      "target": "Cache-Konflikt zwischen Anteilen",
+      "type": "obstacle",
+      "quote": "Multi-Welten-Aufgabe, Cache-Konflikt zwischen Anteilen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 19",
+      "target": "AEGIS",
+      "type": "who",
+      "quote": "AEGIS wird direkter, neue Regeln.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 20",
+      "target": "Kreative Lösung durch fluide Regelnutzung",
+      "type": "want",
+      "quote": "Kreative Lösung durch fluide Regelnutzung.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 21",
+      "target": "testet bewusst Simulationsgrenzen",
+      "type": "want",
+      "quote": "Kael testet bewusst Simulationsgrenzen, spürt Potentialmeer.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 22",
+      "target": "reagiert mit unvorhersehbaren Systemänderungen",
+      "type": "want",
+      "quote": "AEGIS reagiert mit unvorhersehbaren Systemänderungen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 22",
+      "target": "verliert das Wissen aber sofort wieder",
+      "type": "cost",
+      "quote": "verliert das Wissen aber sofort wieder, weil die Implikation noch zu groß ist",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 23",
+      "target": "greift auf Mosaik-Herz als innere Ressource zurück",
+      "type": "want",
+      "quote": "Kael greift auf Mosaik-Herz als innere Ressource zurück.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 24",
+      "target": "AEGIS stört die K-J-Verbindung zyklisch",
+      "type": "obstacle",
+      "quote": "K-J-Verbindung wird zyklisch von AEGIS gestört",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 24",
+      "target": "lernt sie aktiv zu suchen",
+      "type": "want",
+      "quote": "Kael lernt sie aktiv zu suchen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 25",
+      "target": "AEGIS bemerkt Kaels neue Klarheit",
+      "type": "obstacle",
+      "quote": "AEGIS bemerkt Kaels neue Klarheit",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 26",
+      "target": "beschließt Konfrontation",
+      "type": "want",
+      "quote": "Kael beschließt Konfrontation.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 27",
+      "target": "agiert mit klarer Absicht, bereit zur Konfrontation",
+      "type": "want",
+      "quote": "Kael agiert mit klarer Absicht, bereit zur Konfrontation.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 28",
+      "target": "AEGIS droht mit Purge",
+      "type": "obstacle",
+      "quote": "AEGIS droht mit Purge, Juna in Gefahr.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 30",
+      "target": "Moonshine als bewusster Kanal",
+      "type": "object",
+      "quote": "Moonshine als bewusster Kanal",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 31",
+      "target": "Kael absorbiert Guardian-Prinzipien gesund",
+      "type": "want",
+      "quote": "Kael absorbiert Guardian-Prinzipien gesund",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 31",
+      "target": "Guardians als Sub-Antagonisten",
+      "type": "obstacle",
+      "quote": "Guardians als Sub-Antagonisten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 32",
+      "target": "AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme",
+      "type": "obstacle",
+      "quote": "AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael berührt die nicht-algorithmische Unterstruktur — die K1-Reinform.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "berührt die nicht-algorithmische Unterstruktur — die K1-Reinform",
+      "type": "want",
+      "quote": "Kael berührt die nicht-algorithmische Unterstruktur — die K1-Reinform.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 34",
+      "target": "Kael (Wir)",
+      "type": "who",
+      "quote": "Kael (Wir) vs. AEGIS (Makro-Log).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 34",
+      "target": "AEGIS (Makro-Log)",
+      "type": "obstacle",
+      "quote": "Kael (Wir) vs. AEGIS (Makro-Log).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35",
+      "target": "formuliert das Wir als lebenden Widerspruch, speist es in AEGIS ein",
+      "type": "want",
+      "quote": "Kael formuliert das Wir als lebenden Widerspruch, speist es in AEGIS ein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 36",
+      "target": "AEGIS-monolithisch beginnt zu erlöschen",
+      "type": "who",
+      "quote": "AEGIS-monolithisch beginnt zu erlöschen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 36",
+      "target": "Beat 5 öffnet — etwas ist nicht erledigt",
+      "type": "promise",
+      "quote": "Beat 5 öffnet — etwas ist nicht erledigt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 37",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael (Wir) etabliert sich als Gärtner.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 37",
+      "target": "etabliert sich als Gärtner",
+      "type": "want",
+      "quote": "Kael (Wir) etabliert sich als Gärtner.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Das Rauschen kommt von allen Seiten",
+      "type": "obstacle",
+      "quote": "Das Rauschen kommt von allen Seiten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Junas erste direkte Erscheinung",
+      "type": "who",
+      "quote": "Junas erste direkte Erscheinung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "Wir-Geflecht",
+      "type": "who",
+      "quote": "Wir-Geflecht verwandelt sich in Wir-AEGIS-plural.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "AEGIS-monolithisch erlischt",
+      "type": "irreversible",
+      "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 40 — Geheilte Genesis (Coda)",
+      "target": "der Erzähler kehrt, jetzt bezeugend",
+      "type": "who",
+      "quote": "der Erzähler kehrt, jetzt bezeugend",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 40 — Geheilte Genesis (Coda)",
+      "target": "der Schmerz als Preis der Existenz, akzeptiert",
+      "type": "cost",
+      "quote": "der Schmerz als Preis der Existenz, akzeptiert",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 31",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kap 31** (Auflösung der Guardians) — Kael nimmt schon AEGIS-Funktionen pluralisiert an",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 31",
+      "target": "nimmt schon AEGIS-Funktionen pluralisiert an",
+      "type": "want",
+      "quote": "Kap 31** (Auflösung der Guardians) — Kael nimmt schon AEGIS-Funktionen pluralisiert an",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 12",
+      "target": "K1-Reinform",
+      "type": "object",
+      "quote": "Kap 12** (Stille der Mitte) — kleine Wieder-Berührung der K1-Reinform",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "K1-Reinform",
+      "type": "object",
+      "quote": "Kap 33** (Das Fundament) — direkte Berührung der K1-Reinform",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Ihre erste *direkte* Erscheinung",
+      "type": "who",
+      "quote": "Ihre erste *direkte* Erscheinung in Kap 38 ist die Klimax dieser Modi",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "einen Namen",
+      "type": "object",
+      "quote": "braucht einen Namen, den der Roman in Kap 39 finden muss",
+      "stance": "hedges"
+    },
+    {
+      "source": "18",
+      "target": "Cluster",
+      "type": "object",
+      "quote": "18 (Cluster)",
+      "stance": "hedges"
+    },
+    {
+      "source": "21",
+      "target": "Trennungsprotokoll",
+      "type": "object",
+      "quote": "21 (Trennungsprotokoll)",
+      "stance": "hedges"
+    },
+    {
+      "source": "22",
+      "target": "Komp 734",
+      "type": "object",
+      "quote": "22 (Komp 734)",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 39",
+      "target": "Die formale Inversion wird nicht in Kap 39 erfunden",
+      "type": "why_now",
+      "quote": "Sie wird nicht in Kap 39 erfunden — sie wird über alle 41 Bewegungen vorbereitet, dann vollzogen.",
+      "stance": "denies"
+    },
+    {
+      "source": "Kap 39",
+      "target": "plurale Synthese",
+      "type": "object",
+      "quote": "Die plurale Synthese in Kap 39 ist die einzige Form, in der A und B ohne Reduktion aufeinander zusammen sein können.",
+      "stance": "asserts"
+    }
+  ]
+}

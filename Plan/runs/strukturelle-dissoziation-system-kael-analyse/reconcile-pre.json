@@ -1,0 +1,658 @@
+{
+  "document": "strukturelle-dissoziation-system-kael-analyse",
+  "step": "reconcile-pre",
+  "at": "2026-10-05",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-05",
+  "state": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 105,
+  "decisions": 113,
+  "same_surface": {},
+  "decided_mechanically": 86,
+  "needs_judgement": 27,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 60
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 28
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 35
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 35
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 31
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 30
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 30
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 27
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 23
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 37
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 27
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 64
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 44
+      },
+      {
+        "candidate": "Michael",
+        "page": "kael",
+        "readings": 60
+      },
+      {
+        "candidate": "funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 42
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 32
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 19
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Co₁"
+      },
+      {
+        "candidate": "McL"
+      },
+      {
+        "candidate": "B"
+      },
+      {
+        "candidate": "Ly"
+      },
+      {
+        "candidate": "Die Wächterin"
+      },
+      {
+        "candidate": "Shadow"
+      },
+      {
+        "candidate": "Der Kleine"
+      },
+      {
+        "candidate": "Isabella"
+      },
+      {
+        "candidate": "The Lost One"
+      },
+      {
+        "candidate": "Stefan"
+      },
+      {
+        "candidate": "Data"
+      },
+      {
+        "candidate": "Beobachter/Kritiker"
+      },
+      {
+        "candidate": "Anteile"
+      },
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "Sexual Alter"
+      },
+      {
+        "candidate": "Spannungspunkte"
+      },
+      {
+        "candidate": "Pressure Points"
+      },
+      {
+        "candidate": "Konfliktdyaden"
+      },
+      {
+        "candidate": "Aktionssysteme"
+      },
+      {
+        "candidate": "Kern-Aktionssystem"
+      },
+      {
+        "candidate": "Kernpsychodynamik"
+      },
+      {
+        "candidate": "Phobie vor den EPs und den traumatischen Erinnerungen"
+      },
+      {
+        "candidate": "Phobie vor ANP-Kontrolle und Invalidierung"
+      },
+      {
+        "candidate": "Phobie vor Bindung und Intimität"
+      },
+      {
+        "candidate": "Phobie vor mentalen Aktionen"
+      },
+      {
+        "candidate": "Phobie vor Ohnmacht/Hilflosigkeit"
+      },
+      {
+        "candidate": "Konflikt/Trigger"
+      },
+      {
+        "candidate": "Potenzielle Entwicklung"
+      },
+      {
+        "candidate": "Primärer ANP"
+      },
+      {
+        "candidate": "Sekundärer ANP"
+      },
+      {
+        "candidate": "Modifizierter ANP"
+      },
+      {
+        "candidate": "Metakognitiver Anteil"
+      },
+      {
+        "candidate": "Kind-EP"
+      },
+      {
+        "candidate": "Subsystem-Dynamik"
+      },
+      {
+        "candidate": "Analyse-Paralyse"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "dysfunktionalen Homöostase"
+      },
+      {
+        "candidate": "Ko-Bewusstheit"
+      },
+      {
+        "candidate": "Amnesiebarrieren"
+      },
+      {
+        "candidate": "lost time"
+      },
+      {
+        "candidate": "Switching"
+      },
+      {
+        "candidate": "Insight 5"
+      },
+      {
+        "candidate": "noetic knowledge"
+      },
+      {
+        "candidate": "Realisation und Synthese"
+      },
+      {
+        "candidate": "Traumaverarbeitung"
+      },
+      {
+        "candidate": "Fusion"
+      },
+      {
+        "candidate": "Theorie der Strukturellen Dissoziation"
+      },
+      {
+        "candidate": "Strukturelle Dissoziation"
+      },
+      {
+        "candidate": "Tertiären Strukturellen Dissoziation"
+      },
+      {
+        "candidate": "Anscheinend Normalen Persönlichkeitsanteil"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "ANPs"
+      },
+      {
+        "candidate": "Emotionalen Persönlichkeitsanteil"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "Primäre SD"
+      },
+      {
+        "candidate": "Sekundäre SD"
+      },
+      {
+        "candidate": "Tertiäre SD"
+      },
+      {
+        "candidate": "OSDD-1"
+      },
+      {
+        "candidate": "Verteidigungssystem"
+      },
+      {
+        "candidate": "Totstellreflex"
+      },
+      {
+        "candidate": "Defense Cascade"
+      },
+      {
+        "candidate": "Internal Family Systems"
+      },
+      {
+        "candidate": "IFS"
+      },
+      {
+        "candidate": "Bindungstheorie"
+      },
+      {
+        "candidate": "Desorganisierte Bindungsmuster"
+      },
+      {
+        "candidate": "Derealisation"
+      },
+      {
+        "candidate": "Systemtheoretische Aspekte"
+      },
+      {
+        "candidate": "phasenorientierten Ansatz"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "System Kael  /  Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Selene  /  Selene (Integration Potential)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Selene  /  Stance on Integration & Selene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alex  /  Alexander",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Argus  /  Argus (Observer)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Beziehung zu AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V  /  Beziehung zu Juna/V",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Integrationspotenzial  /  Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Selene (Integration Potential)  /  Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Phobie vor Integration und Veränderung  /  Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Phobie vor unkontrollierbarer Destabilisierung  /  Stabilisierung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Resonanz  /  Resonanz/Trigger",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "TSDP Klassifikation  /  TSDP",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Stance on Integration & Selene  /  Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Integration und Rehabilitation  /  Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "System Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Alexander",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alex",
+            "page": "alex"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Selene (Integration Potential)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "selene",
+            "page": "selene"
+          }
+        ]
+      },
+      {
+        "candidate": "Argus (Observer)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "argus",
+            "page": "argus"
+          }
+        ]
+      },
+      {
+        "candidate": "Resonanz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanz",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "resonanzlandschaft",
+            "page": "resonanz-landschaft"
+          }
+        ]
+      },
+      {
+        "candidate": "TSDP Klassifikation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "tsdp",
+            "page": "tsdp"
+          }
+        ]
+      },
+      {
+        "candidate": "Beziehung zu AEGIS",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Beziehung zu Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Stance on Integration & Selene",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "selene",
+            "page": "selene"
+          }
+        ]
+      },
+      {
+        "candidate": "Depersonalisation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 89,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
