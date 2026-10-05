@@ -1,0 +1,38 @@
+{
+ "source": "koharenz-protokoll-konzept-iteration-genesis-md",
+ "runs": [
+  {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 36,
+   "failed_calls": 0,
+   "chunks": 36,
+   "failed_chunks": 0,
+   "cost_usd": 0.7733,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "f81417c6b3fbdda446d07068ba1d6a29121d8dba9fb2afd94d96b8b9e1b7dff2",
+   "rows": 87,
+   "candidates": 76,
+   "refused": {
+    "joined or shortened quote": 2,
+    "ambiguous quote: choose its passage": 6,
+    "surface absent from document": 2,
+    "quote not placed": 1
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "charaktere"
+  }
+ ]
+}
