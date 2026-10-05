@@ -52,7 +52,12 @@ drei Prüfungen.
 - **Risiko:** Ein rc kann sich bis 3.0.0 noch ändern (`RELEASE_STATUS.md`, „What may change“). Der Skill `ncp-author` und
   der `novel-architect` auf claude.ai kennen nur 1.3.0.
 
-## Offen — deine Entscheidung
+## Entschieden — 2026-10-05
+
+**Umstieg.** Das Repo schreibt seit Entscheidung 025, Schritt 24, eine Datei im 3.0.0-rc.1-Umschlag:
+`Plan/storyform/ncp/kohaerenz-protokoll.ncp.json`. Core und Profil des Forks melden PASS.
+
+Die Frage war:
 
 Bleibt das Repo bei 1.3.0 mit zwei Dateien, oder wechselt es auf das Format deines Forks: eine Datei, Story-Moments, als
 Legacy 1.3.0 oder gleich im 3.0.0-rc.1-Umschlag?

@@ -20,7 +20,7 @@ Bedingung."* W1 made Dramatica the recipe: the treatment is written from them, t
 | the engine rules and their limits; what the sources say about signposts; the validation | `Plan/runs/storyform-2026-10-02/` — `engine-rules.md`, `signposts-in-sources.md`, `validation.md` |
 | the open decision sheets for the novel | `Plan/weichen/` (W10 casting, WP plot points, …) |
 
-Dramatica theory itself: the `dramatica-theory` skill (Anthropic skills); NCP fields: the `ncp-author` skill.
+Dramatica theory itself: the `dramatica-theory` skill (Anthropic skills); NCP fields: the `ncp-author` skill (it knows 1.3.0; the file is 3.0.0-rc.1 since step 24 — `Plan/runs/storyform-2026-10-02/ncp3-delta.md` has the difference and the validator).
 
 ## The tools, and how to read them
 

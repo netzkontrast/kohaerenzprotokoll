@@ -11,8 +11,10 @@ script reads them and writes nothing else into them:
     disagreement — a disagreement is not an error, it is a question for the author;
   * refuses a storyweaving scaffold (`weave.json`, step 23) that leaves a signpost unwoven, a bridge without one
     of the five anchors, a bridge band overrun, a hard-b count the author did not set, or a chapter without provenance;
-  * writes `Plan/storyform/overview.md` (generated — never edit it) and `Plan/storyform/ncp/storyform-{a,b}.ncp.json`
-    (NCP 1.3.0, the shape of the ncp-author skill; status `draft`, nothing undecided is filled in).
+  * writes `Plan/storyform/overview.md` (generated — never edit it) and `Plan/storyform/ncp/kohaerenz-protokoll.ncp.json`
+    (NCP 3.0.0-rc.1, step 24: the core envelope, both narratives in the `dramatica:` payload, the chapters as story
+    moments; status `draft`, nothing undecided is filled in). Validate it with the author's fork:
+    `node tests/validate-file.js` in netzkontrast/narrative-context-protocol.
 
     python3 scripts/storyform.py            # check, compare, write
     python3 scripts/storyform.py --check    # exit 1 if anything is refused or a written file is stale
@@ -294,6 +296,53 @@ def weave_table(weave, forms):
     return L
 
 
+NCP_VERSION, PROFILE_VERSION = "3.0.0-rc.1", "1.0.0-rc.1"
+NARRATIVE = {"A": "narrative-a", "B": "narrative-b"}
+
+
+def ncp3(forms, weave):
+    """One NCP 3.0.0-rc.1 document for the book (decision 025 step 24): the core envelope, and in the `dramatica:`
+    payload one story with both narratives and the chapters as story-level moments that reference both."""
+    parts = {sf["storyform"]: ncp(sf)["story"] for sf in forms}
+    narratives = []
+    for side, st in parts.items():
+        n = st["narratives"][0]
+        n["id"] = NARRATIVE[side]
+        n["storytelling"] = {"overviews": n["storytelling"]["overviews"]}
+        narratives.append(n)
+    a = forms[0]
+    moments = []
+    for k in range(41):
+        c = weave["chapters"][str(k)]
+        act = act_of(weave, k) or 1
+        refs = [(side, t) for side in ("A", "B") for t in c[side]]
+        sig = {sf["storyform"]: sf for sf in forms}
+        moments.append({
+            "id": f"moment_kap_{k:02d}", "act": act, "order": k,
+            "summary": f"Kap {k} · {c['route']}" + (f" · Anker: {c['anchor']}" if c["anchor"] else ""),
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment", "timing": "offen — das Treatment",
+            "imperatives": ("trägt " + "; ".join(f"{side} {TL[t]} Signpost {act} ({sig[side][t]['signposts'][act - 1]})"
+                                                for side, t in refs)) if refs else "Coda außerhalb der Akte, kein Signpost",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [{"sequence": i, "narrative_id": NARRATIVE[side], "storybeat_id": f"beat_{t.lower()}_signpost_{act}"}
+                           for i, (side, t) in enumerate(refs, 1)],
+            "storypoints": []})
+    story = {"id": "story_kohaerenz_protokoll", "title": "Kohärenz Protokoll", "logline": a["logline"], "genre": a["genre"],
+             "created_at": "2026-10-05T00:00:00Z", "narratives": narratives, "moments": moments}
+    return {"ncp_version": NCP_VERSION,
+            "document": {"id": "document_kohaerenz_protokoll", "created_at": "2026-10-05T00:00:00Z",
+                         "provenance": [{"at": "2026-10-05T00:00:00Z",
+                                         "action": "written by scripts/storyform.py from Plan/storyform/a.json, b.json and "
+                                                   "weave.json (decision 025); migrated from two NCP 1.3.0 files (step 24)"}]},
+            "story": {"id": "story_kohaerenz_protokoll"},
+            "profiles": [{"namespace": "dramatica:", "profile_version": PROFILE_VERSION,
+                          "schema": f"https://narrativecontextprotocol.com/profiles/dramatica/{PROFILE_VERSION}/profile-schema.json"}],
+            "payloads": {"dramatica:": {"namespace": "dramatica:", "profile_version": PROFILE_VERSION,
+                                        "dsm_version": "the 1995/1999 chart, checked by scripts/dramatica.py — not the licensed DSM",
+                                        "storyform": story}}}
+
+
 def load_weave():
     p = HOME / "weave.json"
     return json.loads(p.read_text()) if p.exists() else None
@@ -323,8 +372,7 @@ def run(check_only=False):
     if weave:
         text = text.rstrip("\n") + "\n" + "\n".join(weave_table(weave, forms)) + "\n"
     want = {HOME / "overview.md": text}
-    for sf in forms:
-        want[HOME / "ncp" / f"storyform-{sf['storyform'].lower()}.ncp.json"] = json.dumps(ncp(sf, weave), ensure_ascii=False, indent=2) + "\n"
+    want[HOME / "ncp" / "kohaerenz-protokoll.ncp.json"] = json.dumps(ncp3(forms, weave), ensure_ascii=False, indent=2) + "\n"
     stale = [p for p, text in want.items() if not p.exists() or p.read_text() != text]
     if check_only:
         for p in stale:
@@ -384,6 +432,14 @@ def selftest():
         fails.append("the weave wrote no NCP moment")
     if {r["storybeat_id"] for m in moments for r in m["storybeats"]} - {b["id"] for b in beats}:
         fails.append("an NCP moment names a storybeat that does not exist")
+    if weave:
+        doc3 = ncp3(load(), weave)
+        st = doc3["payloads"]["dramatica:"]["storyform"]
+        have = {(n["id"], b["id"]) for n in st["narratives"] for b in n["subtext"]["storybeats"]}
+        if {(r["narrative_id"], r["storybeat_id"]) for m in st["moments"] for r in m["storybeats"]} - have:
+            fails.append("an NCP 3 story moment names a storybeat its narrative does not have")
+        if len(st["moments"]) != 41 or doc3["story"]["id"] != st["id"]:
+            fails.append("the NCP 3 document lost a chapter or its story ids disagree")
     if len({(x["throughline"], x["sequence"]) for x in beats}) != len(beats):
         fails.append("NCP signposts collide")
     for f in fails:

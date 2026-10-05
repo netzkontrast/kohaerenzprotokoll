@@ -127,6 +127,12 @@ with the consequences of each option laid out.
     distribution, the author approved it act by act. `Plan/storyform/weave.json`; `storyform.py` refuses a weave that
     leaves a signpost unwoven, a bridge without an anchor, a band overrun or a hard-b count the author did not set.
     Open: the driver event at each act transition (H11), and the content — the treatment.
+24. **NCP 3 (2026-10-05).** The author chose to move to the format of the fork `netzkontrast/narrative-context-protocol`
+    (`Plan/runs/storyform-2026-10-02/ncp3-delta.md`): one NCP 3.0.0-rc.1 document, `Plan/storyform/ncp/kohaerenz-protokoll.ncp.json`,
+    with the core envelope and, in the `dramatica:` profile payload (1.0.0-rc.1), one story holding both narratives and
+    the 41 chapters as story-level moments whose storybeat references name their narrative — a bridge is one moment
+    across A and B. It replaces the two 1.3.0 files. `dsm_version` says what checked it: the 1999 chart in
+    `dramatica.py`, not the licensed DSM. Risk accepted: a release candidate may still change before 3.0.0.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
