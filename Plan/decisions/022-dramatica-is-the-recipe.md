@@ -36,10 +36,23 @@ with the consequences of each option laid out.
    only Physics type holding Logic), issue Approach ↔ Attitude, problem Feeling, solution Logic. WP's goal candidate
    Becoming for A no longer fits; Obtaining for B does.
 
+9. **The influence characters.** A: Juna, Past, issue Prediction ↔ Interdiction, carrying Change against Kael's
+   Inertia. B: Kael, Conscious, issue Doubt ↔ Investigation (the Gödel gambit as a doubt AEGIS' Test never ends).
+10. **The relationships.** A: Moonshine-Link, concern Understanding (issue Senses ↔ Interpretation as candidate).
+    B: host and system, concern Being — both play roles for each other.
+11. **The overall-story acts.** A: Being → Becoming → Conceiving → Conceptualizing (no source gives a Psychology
+    order). B: Doing → Learning → Understanding → Obtaining (the outline of 2026-05-18 has S1 Doing, S2 Learning).
+12. **The other acts, after a search of the sources the author asked for** (`Plan/runs/storyform-2026-10-02/signposts-in-sources.md`):
+    A-MC Memory → Subconscious → Preconscious → Conscious; A-IC Past → Progress → Present → Future; A-RS Learning →
+    Doing → Obtaining → Understanding (as 2026-06-10 and 2026-05-18); B-MC Past → Present → Progress → Future (as
+    both); B-IC Conscious → Memory → Preconscious → Subconscious; B-RS Being → Conceiving → Conceptualizing → Becoming.
+    Acts map to chapters as the sources do: I 1–13, II 14–26, III 27–34, Vortex 35–39.
+
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
-Vortex-Inversion (L137) is a candidate for that change. Open: the IC issues (step 9, asked and set aside by the
-author), the RS chains, signpost order, the remaining plot story points, the players. The specs are
-`Plan/runs/storyform-2026-10-02/specs/a-author.json` and `b-author.json`.
+Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the remaining plot story points
+(requirements, consequences, forewarnings, costs, dividends), focus/direction order, the players, logline and genre.
+The specs are `Plan/runs/storyform-2026-10-02/specs/a-author.json` and `b-author.json`; the NCP documents
+`Plan/runs/storyform-2026-10-02/ncp/`, built with the ncp-author skill and valid against NCP 1.3.0.
 
 ## What the check found
 

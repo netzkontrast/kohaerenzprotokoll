@@ -18,7 +18,13 @@
  },
  "IC": {
   "concern": "Conscious",
-  "issue": "Doubt"
+  "issue": "Doubt",
+  "signposts": [
+   "Conscious",
+   "Memory",
+   "Preconscious",
+   "Subconscious"
+  ]
  },
  "OS": {
   "concern": "Obtaining",
@@ -33,7 +39,13 @@
   ]
  },
  "RS": {
-  "concern": "Being"
+  "concern": "Being",
+  "signposts": [
+   "Being",
+   "Conceiving",
+   "Conceptualizing",
+   "Becoming"
+  ]
  },
  "_name": "b-author",
  "_source": "Autor 2026-10-02/05: Modell Bericht 05-07, Do-er, Logic = OS-Lösung, MC-Kette Progress/Fantasy/Test→Trust",
@@ -41,6 +53,12 @@
   "concern": "Progress",
   "issue": "Fantasy",
   "problem": "Test",
-  "solution": "Trust"
+  "solution": "Trust",
+  "signposts": [
+   "Past",
+   "Present",
+   "Progress",
+   "Future"
+  ]
  }
 }

@@ -387,6 +387,126 @@
           ],
           "storybeats": [
             {
+              "id": "beat_mc_signpost_1",
+              "scope": "signpost",
+              "sequence": 1,
+              "throughline": "Main Character",
+              "appreciation": "Main Character Signpost 1",
+              "narrative_function": "Memory",
+              "summary": "Erinnerungslosigkeit, das Register.",
+              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_mc_signpost_2",
+              "scope": "signpost",
+              "sequence": 2,
+              "throughline": "Main Character",
+              "appreciation": "Main Character Signpost 2",
+              "narrative_function": "Subconscious",
+              "summary": "Trauma-Wiederbegegnung, Sehnsucht.",
+              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_mc_signpost_3",
+              "scope": "signpost",
+              "sequence": 3,
+              "throughline": "Main Character",
+              "appreciation": "Main Character Signpost 3",
+              "narrative_function": "Preconscious",
+              "summary": "Reflexe unter Stress, aber mit Absicht.",
+              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_mc_signpost_4",
+              "scope": "signpost",
+              "sequence": 4,
+              "throughline": "Main Character",
+              "appreciation": "Main Character Signpost 4",
+              "narrative_function": "Conscious",
+              "summary": "Bewusste Entscheidung, Wieder-Erkennen.",
+              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_ic_signpost_1",
+              "scope": "signpost",
+              "sequence": 1,
+              "throughline": "Influence Character",
+              "appreciation": "Influence Character Signpost 1",
+              "narrative_function": "Past",
+              "summary": "Junas Resonanz löst die Genesis-Krise aus.",
+              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_ic_signpost_2",
+              "scope": "signpost",
+              "sequence": 2,
+              "throughline": "Influence Character",
+              "appreciation": "Influence Character Signpost 2",
+              "narrative_function": "Progress",
+              "summary": "Der Wandel rückt näher.",
+              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_ic_signpost_3",
+              "scope": "signpost",
+              "sequence": 3,
+              "throughline": "Influence Character",
+              "appreciation": "Influence Character Signpost 3",
+              "narrative_function": "Present",
+              "summary": "Reine Präsenz, Telefon-Stille.",
+              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_ic_signpost_4",
+              "scope": "signpost",
+              "sequence": 4,
+              "throughline": "Influence Character",
+              "appreciation": "Influence Character Signpost 4",
+              "narrative_function": "Future",
+              "summary": "Juna manifestiert ontologisch.",
+              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
               "id": "beat_os_signpost_1",
               "scope": "signpost",
               "sequence": 1,
@@ -394,7 +514,7 @@
               "appreciation": "Objective Story Signpost 1",
               "narrative_function": "Being",
               "summary": "Rollen; die Fassade hält.",
-              "storytelling": "Akt I. Reihenfolge vom Autor gewählt (Schritt 11); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -409,7 +529,7 @@
               "appreciation": "Objective Story Signpost 2",
               "narrative_function": "Becoming",
               "summary": "Das Wesen bricht auf.",
-              "storytelling": "Akt II. Reihenfolge vom Autor gewählt (Schritt 11); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -424,7 +544,7 @@
               "appreciation": "Objective Story Signpost 3",
               "narrative_function": "Conceiving",
               "summary": "Der Einfall.",
-              "storytelling": "Akt III. Reihenfolge vom Autor gewählt (Schritt 11); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -439,10 +559,70 @@
               "appreciation": "Objective Story Signpost 4",
               "narrative_function": "Conceptualizing",
               "summary": "Der Plan wird entwickelt (das Ziel).",
-              "storytelling": "Akt IV. Reihenfolge vom Autor gewählt (Schritt 11); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "beat_rs_signpost_1",
+              "scope": "signpost",
+              "sequence": 1,
+              "throughline": "Relationship Story",
+              "appreciation": "Relationship Story Signpost 1",
+              "narrative_function": "Learning",
+              "summary": "Junas Präsenz spüren.",
+              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "beat_rs_signpost_2",
+              "scope": "signpost",
+              "sequence": 2,
+              "throughline": "Relationship Story",
+              "appreciation": "Relationship Story Signpost 2",
+              "narrative_function": "Doing",
+              "summary": "Die Verbindung als Werkzeug.",
+              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "beat_rs_signpost_3",
+              "scope": "signpost",
+              "sequence": 3,
+              "throughline": "Relationship Story",
+              "appreciation": "Relationship Story Signpost 3",
+              "narrative_function": "Obtaining",
+              "summary": "Der Kanal als Ressource.",
+              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "beat_rs_signpost_4",
+              "scope": "signpost",
+              "sequence": 4,
+              "throughline": "Relationship Story",
+              "appreciation": "Relationship Story Signpost 4",
+              "narrative_function": "Understanding",
+              "summary": "Verstehen ohne Worte.",
+              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
                 }
               ]
             }

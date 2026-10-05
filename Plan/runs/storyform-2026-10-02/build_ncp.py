@@ -52,7 +52,13 @@ STORY = {
               "Story Goal": "Einen Plan, ein Konzept der Ordnung entwickeln.",
               "RS Issue": "Was man wahrnimmt (Telefon-Stille, Körpersignale) gegen was man daraus liest."},
     "signpost_text": {"Being": "Rollen; die Fassade hält.", "Becoming": "Das Wesen bricht auf.",
-                      "Conceiving": "Der Einfall.", "Conceptualizing": "Der Plan wird entwickelt (das Ziel)."},
+                      "Conceiving": "Der Einfall.", "Conceptualizing": "Der Plan wird entwickelt (das Ziel).",
+                      "Memory": "Erinnerungslosigkeit, das Register.", "Subconscious": "Trauma-Wiederbegegnung, Sehnsucht.",
+                      "Preconscious": "Reflexe unter Stress, aber mit Absicht.", "Conscious": "Bewusste Entscheidung, Wieder-Erkennen.",
+                      "Past": "Junas Resonanz löst die Genesis-Krise aus.", "Progress": "Der Wandel rückt näher.",
+                      "Present": "Reine Präsenz, Telefon-Stille.", "Future": "Juna manifestiert ontologisch.",
+                      "Learning": "Junas Präsenz spüren.", "Doing": "Die Verbindung als Werkzeug.",
+                      "Obtaining": "Der Kanal als Ressource.", "Understanding": "Verstehen ohne Worte."},
   },
   "b": {
     "title": "Storyform B — Phönix-Kollaps (K0)",
@@ -75,7 +81,13 @@ STORY = {
               "OS Solution": "Logic: AEGIS hält am Richtigen fest, und die Welt scheitert trotzdem.",
               "Story Goal": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null."},
     "signpost_text": {"Doing": "Sweeps laufen, Verluste sind im Gang.", "Learning": "Anomalien erkunden.",
-                      "Understanding": "Das Muster begreifen.", "Obtaining": "Letzter Sweep; das Ziel scheitert."},
+                      "Understanding": "Das Muster begreifen.", "Obtaining": "Letzter Sweep; das Ziel scheitert.",
+                      "Past": "Genesis-Trauma verdrängt; Erasure-Logs.", "Present": "Sweeps, Kontrollprotokoll.",
+                      "Progress": "Countdown; die Architektur degradiert sichtbar.", "Future": "Ende der Operativität; Phoenix-Collapse.",
+                      "Conscious": "Kael, der unfixbare Bug.", "Memory": "Kaels Erinnerung als Druck auf AEGIS.",
+                      "Preconscious": "Reflexhafte Eskalation.", "Subconscious": "Wieder-Verbinden; Kael gibt nach.",
+                      "Being": "Rollen: Wächter und Host.", "Conceiving": "AEGIS formuliert Kael als unkontrollierbar um.",
+                      "Conceptualizing": "Pläne gegeneinander.", "Becoming": "Kaels Wandel, die Vortex-Inversion."},
   },
 }
 
@@ -136,7 +148,8 @@ def build(key):
             beats.append({"id": f"beat_{t.lower()}_signpost_{i}", "scope": "signpost", "sequence": i,
                           "throughline": TL[t], "appreciation": f"{TL[t]} Signpost {i}", "narrative_function": nf(typ),
                           "summary": st["signpost_text"].get(typ, typ),
-                          "storytelling": f"Akt {['I', 'II', 'III', 'IV'][i - 1]}. Reihenfolge vom Autor gewählt (Schritt 11); "
+                          "storytelling": f"{['Akt I (Kap 1–13)', 'Akt II (Kap 14–26)', 'Akt III (Kap 27–34)', 'Vortex (Kap 35–39)'][i - 1]}. "
+                                          "Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); "
                                           "nicht berechnet, wird gegen das Treatment geprüft.",
                           "perspectives": [{"perspective_id": PID[t]}]})
     return {"schema_version": "1.3.0", "story": {

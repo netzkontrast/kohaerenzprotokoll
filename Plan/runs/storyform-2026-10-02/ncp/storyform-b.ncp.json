@@ -345,6 +345,126 @@
           ],
           "storybeats": [
             {
+              "id": "beat_mc_signpost_1",
+              "scope": "signpost",
+              "sequence": 1,
+              "throughline": "Main Character",
+              "appreciation": "Main Character Signpost 1",
+              "narrative_function": "Past",
+              "summary": "Genesis-Trauma verdrängt; Erasure-Logs.",
+              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_mc_signpost_2",
+              "scope": "signpost",
+              "sequence": 2,
+              "throughline": "Main Character",
+              "appreciation": "Main Character Signpost 2",
+              "narrative_function": "Present",
+              "summary": "Sweeps, Kontrollprotokoll.",
+              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_mc_signpost_3",
+              "scope": "signpost",
+              "sequence": 3,
+              "throughline": "Main Character",
+              "appreciation": "Main Character Signpost 3",
+              "narrative_function": "Progress",
+              "summary": "Countdown; die Architektur degradiert sichtbar.",
+              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_mc_signpost_4",
+              "scope": "signpost",
+              "sequence": 4,
+              "throughline": "Main Character",
+              "appreciation": "Main Character Signpost 4",
+              "narrative_function": "Future",
+              "summary": "Ende der Operativität; Phoenix-Collapse.",
+              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_ic_signpost_1",
+              "scope": "signpost",
+              "sequence": 1,
+              "throughline": "Influence Character",
+              "appreciation": "Influence Character Signpost 1",
+              "narrative_function": "Conscious",
+              "summary": "Kael, der unfixbare Bug.",
+              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_ic_signpost_2",
+              "scope": "signpost",
+              "sequence": 2,
+              "throughline": "Influence Character",
+              "appreciation": "Influence Character Signpost 2",
+              "narrative_function": "Memory",
+              "summary": "Kaels Erinnerung als Druck auf AEGIS.",
+              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_ic_signpost_3",
+              "scope": "signpost",
+              "sequence": 3,
+              "throughline": "Influence Character",
+              "appreciation": "Influence Character Signpost 3",
+              "narrative_function": "Preconscious",
+              "summary": "Reflexhafte Eskalation.",
+              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "beat_ic_signpost_4",
+              "scope": "signpost",
+              "sequence": 4,
+              "throughline": "Influence Character",
+              "appreciation": "Influence Character Signpost 4",
+              "narrative_function": "Subconscious",
+              "summary": "Wieder-Verbinden; Kael gibt nach.",
+              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
               "id": "beat_os_signpost_1",
               "scope": "signpost",
               "sequence": 1,
@@ -352,7 +472,7 @@
               "appreciation": "Objective Story Signpost 1",
               "narrative_function": "Doing",
               "summary": "Sweeps laufen, Verluste sind im Gang.",
-              "storytelling": "Akt I. Reihenfolge vom Autor gewählt (Schritt 11); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -367,7 +487,7 @@
               "appreciation": "Objective Story Signpost 2",
               "narrative_function": "Learning",
               "summary": "Anomalien erkunden.",
-              "storytelling": "Akt II. Reihenfolge vom Autor gewählt (Schritt 11); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -382,7 +502,7 @@
               "appreciation": "Objective Story Signpost 3",
               "narrative_function": "Understanding",
               "summary": "Das Muster begreifen.",
-              "storytelling": "Akt III. Reihenfolge vom Autor gewählt (Schritt 11); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -397,10 +517,70 @@
               "appreciation": "Objective Story Signpost 4",
               "narrative_function": "Obtaining",
               "summary": "Letzter Sweep; das Ziel scheitert.",
-              "storytelling": "Akt IV. Reihenfolge vom Autor gewählt (Schritt 11); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
+                }
+              ]
+            },
+            {
+              "id": "beat_rs_signpost_1",
+              "scope": "signpost",
+              "sequence": 1,
+              "throughline": "Relationship Story",
+              "appreciation": "Relationship Story Signpost 1",
+              "narrative_function": "Being",
+              "summary": "Rollen: Wächter und Host.",
+              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "beat_rs_signpost_2",
+              "scope": "signpost",
+              "sequence": 2,
+              "throughline": "Relationship Story",
+              "appreciation": "Relationship Story Signpost 2",
+              "narrative_function": "Conceiving",
+              "summary": "AEGIS formuliert Kael als unkontrollierbar um.",
+              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "beat_rs_signpost_3",
+              "scope": "signpost",
+              "sequence": 3,
+              "throughline": "Relationship Story",
+              "appreciation": "Relationship Story Signpost 3",
+              "narrative_function": "Conceptualizing",
+              "summary": "Pläne gegeneinander.",
+              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "beat_rs_signpost_4",
+              "scope": "signpost",
+              "sequence": 4,
+              "throughline": "Relationship Story",
+              "appreciation": "Relationship Story Signpost 4",
+              "narrative_function": "Becoming",
+              "summary": "Kaels Wandel, die Vortex-Inversion.",
+              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
                 }
               ]
             }
