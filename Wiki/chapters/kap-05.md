@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -136,6 +136,14 @@ Position: Akt I; POV: „POV: Alex.“ ^[kohaerenz-protokoll-kapitel-outline-ers
 - Story: the outline plans „übernimmt der Anteil Alex die Führung, der auf soziale Anpassung programmiert ist“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L143]
 - Story: the outline plans „interagiert er mit dem SIS-Protokoll von AEGIS“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L143]
 - Concepts: „Alex (Alter), SIS-Protokoll, Discursive Logic“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L141]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Die semantische Firewall
+
+Title: „Die semantische Firewall“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L97] — „Akt I: Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L59]
+
+- Story: the dual-storyform outline plans „Kael versucht, die Anomalie zu melden, aber seine Sprache versagt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L99]
+- Storyforms: `Storyform B` (`RS: Physics/Doing`): „Das System greift physisch ein“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L101]; `Storyform A` (`RS: Psychology/Being`): „Juna kommuniziert durch die Lücken in seiner Sprache“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L102]
+- Scene and pacing: `Pacing`: „Beklemmend, stockend“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L103]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
