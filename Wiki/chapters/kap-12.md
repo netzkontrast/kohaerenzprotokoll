@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -73,6 +73,13 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Story: „Der Abstieg durch die Schleuse ist eine physische Agonie.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L126] · „wird für Kael als reißender physischer Schmerz erfahrbar“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L126], of the separation from Lex
 - Journey: „das Ende der Illusion, dass reine Kontrolle Rettung bringt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L126]
 - Sensorik: „Die sterilen Wände blättern ab, organischer Rost und Verfall übernehmen die Textur der Welt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L126]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Profile“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L202]
+Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „B (AEGIS — Profilier-Routine)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]
+
+- Story: the outline places: „ein multipliziert verteiltes Bewusstsein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]; „Aus tautologischer Sicherheit“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]; „Stress-Tests werden vorbereitet“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
