@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 30
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung"]
+sources: 31
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -137,6 +137,15 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 ## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — the march into the Vortex
 
 - „Narratologische Mechanik des Vortex“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L77] (Kap 35–36): „Der Driver-Pivot von Storyform B zu A ist das singuläre Herzstück des Romans“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L79], staged as a physical event; Oblivion's break in Kap 31 forces „den letzten Marsch in den Mnemosyne-Vortex“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143] in Kap 35.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Die dissipative Schwelle
+
+Title: „Die dissipative Schwelle“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1035]
+Position: Akt III; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1043]
+
+- Story: the outline plans „Kael betritt das Mnemosyne-Archipel in seiner wahren Form: als K1-Cache-Bänke und physische Hardware von AEGIS.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1041]
+- Concepts: „Mnemosyne-Archipel (Hardware), Landauer-Hitze“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1039]
+- Pivot-Marker: the outline plans Driver-Status: „Der Action-zu-Decision-Flip beginnt; Action (AEGIS) zerstört sich selbst an Kaels Decision.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1070]; Limit-Marker: „SF-B Timelock läuft sichtbar im flüssigen Metall ab.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1071]; Outcome-Marker: „SF-B Failure ist unausweichlich besiegelt.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1072]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
