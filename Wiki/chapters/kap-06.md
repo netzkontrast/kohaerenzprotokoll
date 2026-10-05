@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -39,6 +39,13 @@ Position: „(Fundamentales Konzept: Cache Kohärenz (Konflikt) / Parakonsistent
 - Somatic marker: „Kalter Schweiß brach auf seiner Stirn aus, obwohl die Umgebungstemperatur konstant war.“ ^[kohaerenz-protokoll.md:L761]
 - Collapse: „Die Aufgabe war gescheitert.“ ^[kohaerenz-protokoll.md:L783]
 - Juna at the break: „In diesem Moment des absoluten Zusammenbruchs, als alle mentalen Firewalls versagten, als die Mauer zur isolierten Resonanz zerbarst, spürte er es wieder.“ ^[kohaerenz-protokoll.md:L777]
+
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Begegnung mit Echo
+
+Title: „Begegnung mit Echo“ ^[roman-outline-system-kael.md:L104]
+Position: Teil II, KW2
+
+- Story: Kael meets „der verängstigten Kind-Manifestation“ ^[roman-outline-system-kael.md:L104] Echo; „Seine Versuche, Echo mit der kalten Logik von Lex zu beruhigen, scheitern kläglich.“ ^[roman-outline-system-kael.md:L104]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
