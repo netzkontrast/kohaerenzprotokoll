@@ -472,7 +472,9 @@
    "13/14": "author, 2026-10-05 (H11, decision 025 step 27)",
    "26/27": "author, 2026-10-05 (H11, decision 025 step 27)",
    "34/35": "author, 2026-10-05 (H11, decision 025 step 27)"
-  }
+  },
+  "worlds": "author, 2026-10-05 (step 35): the act mapping of worldbuilding-konzept-kohaerenzprotokoll-md (2026-05-08, L496, L539, L582, L624); KW4 also carries the Vortex (Kap 35–36 lie in no span there); the labels are that source's, the names are not decided (Q5); Kap 0 and 40 are the frame, in no world",
+  "world_kind": "author, 2026-10-05 (step 35): W8 answered A"
  },
  "transitions": {
   "13/14": {
@@ -487,5 +489,40 @@
    "A": "Kap 34: Nach der Begegnung (Kap 32) lässt Kael Juna gehen — er trennt die Verbindung selbst, um sie aus dem Schussfeld zu bringen; die alte Stille wiederholt sich, diesmal gewählt. Die Wendung Inertia → Change kommt erst im Vortex (Kap 35, Pivot).",
    "B": "Kap 35: AEGIS' Sweep konvergiert auf das, was übrig ist."
   }
- }
+ },
+ "worlds": [
+  {
+   "world": "KW1",
+   "label": "Konstrukt-Stadt",
+   "chapters": [
+    1,
+    13
+   ]
+  },
+  {
+   "world": "KW2",
+   "label": "Mnemosyne-Archipel",
+   "chapters": [
+    14,
+    22
+   ]
+  },
+  {
+   "world": "KW3",
+   "label": "Cerberus-Labyrinth",
+   "chapters": [
+    23,
+    28
+   ]
+  },
+  {
+   "world": "KW4",
+   "label": "Möglichkeits-Garten",
+   "chapters": [
+    29,
+    39
+   ]
+  }
+ ],
+ "world_kind": "getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas"
 }

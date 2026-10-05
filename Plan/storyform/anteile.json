@@ -43,10 +43,10 @@
     ],
     "Vermittlung": [
       "Selene"
+    ],
+    "Beobachtung": [
+      "Argus"
     ]
-  },
-  "unassigned": {
-    "Argus": "Die TSDP-Analyse stellt ihn analysierend neben die Vermeidung (kael-system-tsdp-analyse-und-profile.md:L117); der Kanon (Lager) ordnet ihn keinem Lager zu — eine Frage an den Autor."
   },
   "camp_turns": {
     "26": {
@@ -355,7 +355,7 @@
   "provenance": {
     "adopted": "Der Autor, 2026-10-05: „Drei Kanäle“, „Juna-Bogen als Lagerkampf“, „Kapiteltabelle Akt I–Vortex“ als Arbeitsgrundlage (Entscheidung 025, Schritt 32).",
     "parts": "Q3 (Kanon, 2026-10-05): dreizehn Anteile wie die Charakter-Bibel, Isabelle als Teil von Nyx.",
-    "camps": "Lager (Kanon, 2026-10-05); Isabelle mit Nyx in der Abwehr.",
+    "camps": "Lager (Kanon, 2026-10-05); Isabelle mit Nyx in der Abwehr. Argus beobachtet ohne Lager: der Autor, 2026-10-05 (Schritt 36).",
     "appearances": "Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
     "camp_turns": "Lager (Kanon) für Kap 26 und 34; Kap 35 aus der Kapiteltabelle (Oblivion hört auf)."
   }

@@ -181,6 +181,18 @@ with the consequences of each option laid out.
 33. **The NCP's player bios come from the canon (2026-10-05).** `storyform.py` reads the rows of `Manuscript/kanon.md`
     for a player whose first name is a row's id (Kael, Juna); every other bio stays „offen“. One source, not a copy; a
     script reading `Manuscript/` for the first time, and only the table of decisions.
+34. **What the four people want (2026-10-05),** from the session's proposals (the archetype and Plot-Entwurf 1), all
+    four taken: Mara (Guardian) that no one is lost any more, holding Kael by his name; Dorn (Contagonist) that his
+    sister in Sektor 04 does not cook, tempting Kael with deletion; the old woman (Sidekick) to be remembered, believing
+    in Kael before he does; the colleague (Skeptic) to prove Kael's open query a mistake. In `a.json` (`want`), the
+    canon (`Menschen`) and the cards.
+35. **The Kern-Welten carry the acts (2026-10-05):** the act mapping of the worldbuilding concept of 2026-05-08 — KW1
+    Kap 1–13, KW2 14–22, KW3 23–28 across the act border, KW4 29–39 with the Vortex; Kap 0 and 40 the frame. W8 answered
+    A: separate worlds whose borders cost something. In `weave.json` (`worlds`, checked: no gap, no overlap, KW1 all of
+    Akt I) and the NCP moments' `setting`. Four worlds is now the count; the names of KW2–KW4 and the Guardians (Q5)
+    are not decided.
+36. **Argus observes and belongs to no camp (2026-10-05):** he analyses all three and first notices AEGIS' error
+    (Kap 19–20); that he does not choose is his limit. In `anteile.json` (camp `Beobachtung`) and the canon (`Lager`).
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

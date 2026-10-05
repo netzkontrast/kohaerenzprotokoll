@@ -177,7 +177,7 @@ def ncp(sf, weave=None, kanon=None):
                         "summary": f"{p['role']}; im OS: {', '.join(nf(e) for e in p['os_elements'])}",
                         "bio": (f"Kanon `{p['name'].split()[0]}` ({row[0]}, Manuscript/kanon.md): {row[1]}" if row else
                                 "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt"),
-                        "storytelling": f"Herkunft: {p['by']}.",
+                        "storytelling": f"Herkunft: {p['by']}." + (f" Will: {p['want']} (Herkunft: {p['want_by']})." if p.get("want") else ""),
                         "motivations": [{"narrative_function": nf(e), "illustration": f"{p['name']} trägt {e} im OS.",
                                          "storytelling": f"Herkunft: {p['by']}."} for e in p["os_elements"]],
                         "perspectives": [{"perspective_id": PID[t]} for t in ["OS", *tls]]})
@@ -300,10 +300,28 @@ def weave_audit(weave, forms):
             errors.append(f"transition {key}: H11 wants A's decision and B's action, both")
         if t is not None and key not in weave["provenance"].get("transitions", {}):
             errors.append(f"transition {key}: no provenance")
+    if "worlds" in weave:
+        spans, last = weave["worlds"], 0
+        for w in spans:
+            lo, hi = w["chapters"]
+            if lo != last + 1 or hi < lo:
+                errors.append(f"world {w['world']}: Kap {lo}–{hi} does not follow Kap {last} without a gap or an overlap")
+            last = hi
+        if last != max(hi for _, hi in weave["acts"].values()):
+            errors.append(f"worlds end at Kap {last}, the acts at Kap {max(hi for _, hi in weave['acts'].values())}")
+        if not spans or spans[0]["world"] != "KW1" or spans[0]["chapters"][1] < weave["acts"]["1"][1]:
+            errors.append("KW1 (the Konstrukt-Stadt, C9) must carry all of Akt I")
+        if "worlds" not in weave["provenance"]:
+            errors.append("worlds: no provenance")
     prov = weave["provenance"]["chapters"]
     errors += [f"Kap {n}: no provenance" for n in ch if n not in prov]
     errors += [f"provenance for Kap {n}, which the weave does not have" for n in prov if n not in ch]
     return errors
+
+
+def world_of(weave, n):
+    """The world span a chapter lies in ({'world', 'label', 'chapters'}), or None (the frame, or no worlds set)."""
+    return next((w for w in weave.get("worlds", []) if w["chapters"][0] <= n <= w["chapters"][1]), None)
 
 
 def weave_table(weave, forms):
@@ -312,15 +330,18 @@ def weave_table(weave, forms):
          "Aus `weave.json` (Entscheidung 025, Schritt 23). Route nach dem Skill chapter-draft-engine: hard-a = Kael "
          "und die Alters, hard-b = AEGIS als Ich (W6 C), bridge = beide Ebenen in einer Szene. Ein Strang steht mit "
          "dem Signpost seines Akts. Bestätigt je Akt: "
-         + ", ".join(f"{k} {'ja' if v else 'nein'}" for k, v in weave["approved"].items()) + ".", "",
-         "| Kap | Akt | Route | A | B | Anker |", "|---|---|---|---|---|---|"]
+         + ", ".join(f"{k} {'ja' if v else 'nein'}" for k, v in weave["approved"].items()) + "."
+         + (f" Die Welten: {weave['world_kind']}; die Namen sind die des Worldbuilding-Konzepts, nicht entschieden (Q5)."
+            if weave.get("world_kind") else ""), "",
+         "| Kap | Akt | Welt | Route | A | B | Anker |", "|---|---|---|---|---|---|---|"]
     for n in range(41):
         c = weave["chapters"].get(str(n))
         if not c:
             continue
         k = act_of(weave, n) or (1 if n == weave["b_prologue"] else None)
         sp = lambda sf, t: f"{t}·{sf[t]['signposts'][k - 1]}" if k else t
-        L.append(f"| {n} | {k or '—'} | {c['route']} | {', '.join(sp(a, t) for t in c['A']) or '—'} | "
+        w = world_of(weave, n)
+        L.append(f"| {n} | {k or '—'} | {w['world'] if w else '—'} | {c['route']} | {', '.join(sp(a, t) for t in c['A']) or '—'} | "
                  f"{', '.join(sp(b, t) for t in c['B']) or '—'} | {c['anchor'] or '—'} |")
     if weave.get("transitions"):
         L += ["", "**Aktübergänge (H11): A entscheidet, B handelt.**", "", "| Übergang | A (Entscheidung) | B (Handlung) |", "|---|---|---|"]
@@ -366,7 +387,9 @@ def ncp3(forms, weave, anteile=None, kanon=None):
             "id": f"moment_kap_{k:02d}", "act": act, "order": k,
             "summary": f"Kap {k} · {c['route']}" + (f" · Anker: {c['anchor']}" if c["anchor"] else ""),
             "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
-            "setting": "offen — das Treatment", "timing": "offen — das Treatment",
+            "setting": (f"{world_of(weave, k)['world']} ({world_of(weave, k)['label']}; der Name ist nicht entschieden, Q5) — "
+                        f"{weave['world_kind']}" if world_of(weave, k) else "offen — der Rahmen, in keiner Kernwelt"),
+            "timing": "offen — das Treatment",
             "imperatives": ("trägt " + "; ".join(f"{side} {TL[t]} Signpost {act} ({sig[side][t]['signposts'][act - 1]})"
                                                 for side, t in refs)) if refs else "Coda außerhalb der Akte, kein Signpost",
             "audience_experiential_pov": "first_person_central",
@@ -539,6 +562,9 @@ def selftest():
                 ("a hard-b count the author did not set", lambda w: w["chapters"]["6"].update(route="hard-a", A=["MC"]),
                  "the author set"),
                 ("a chapter without provenance", lambda w: w["provenance"]["chapters"].pop("7"), "no provenance"),
+                ("a gap between worlds", lambda w: w.get("worlds") and w["worlds"][1].update(chapters=[15, 22]), "gap"),
+                ("KW1 short of Akt I", lambda w: w.get("worlds") and (w["worlds"][0].update(chapters=[1, 10]),
+                                                                      w["worlds"][1].update(chapters=[11, 22])), "Akt I"),
                 ("a transition without B's action", lambda w: w.setdefault("transitions", {}).update({"13/14": {"A": "x", "B": ""}}),
                  "both")]:
             w = json.loads(json.dumps(weave))

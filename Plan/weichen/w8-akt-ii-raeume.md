@@ -1,6 +1,6 @@
 ---
 id: W8
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W2, W5, W7, W11]
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: ""
@@ -58,6 +58,13 @@ zwingt. Ob das Kap 27 oder 29 wird, folgt dem Treatment; KW3 kann über eine
 Aktgrenze reichen. Weltgrenze und Aktgrenze sind nicht dasselbe.
 
 ## Antwort und Abhängigkeiten
+
+**Beantwortet 2026-10-05: A, getrennte Kernwelten.** Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten
+etwas. Die Welten tragen die Akte wie im Worldbuilding-Konzept vom 2026-05-08: KW1 Kap 1–13, KW2 Kap 14–22, KW3 Kap 23–28
+(über die Aktgrenze 26/27), KW4 Kap 29–39 mit dem Vortex ([Entscheidung 025](../decisions/025-dramatica-is-the-recipe.md),
+Schritt 35; `Plan/storyform/weave.json`). Offen bleiben der Auslöser jedes Übergangs und die Namen von KW2–KW4 (Q5).
+
+Früher:
 
 **Ergänzung aus PR #113:** [Action-Material, §7](../runs/plot-2026-09-30/04-action-material.md)
 bietet Türsperren, Einbruch, Flucht und Jagd als unterschiedlich belegten Stoff.
