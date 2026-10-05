@@ -355,3 +355,11 @@ In the record's terms: the outline has no scene it calls her first direct appear
 Kap 1 casts „Juna (Hologramm)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L62] and plans „Während des formalen Check-ins mit dem Juna-Hologramm erlebt Kael eine unerklärliche Trauer-Intrusion“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L64] In Kap 9 the plan says that Kael now perceives her differently: „nimmt er Juna/V zum ersten Mal nicht als Hologramm, sondern als reale, externe Präsenz wahr“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L128]
 
 Stands as a plan that opens with Juna as a hologram in Kap 1; it is a plan of 2026-02-23, recorded, not applied.
+
+## 2026-10-05 — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix
+
+**The matrix plans Juna in Kap 3 as a fleeting echo, and physically in Kap 38.**
+
+Kap 3 is headed „Die Anomalie Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L46] and casts „Kael, Juna (als flüchtiges Hologramm/Echo).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L48] The beat is „Kael sieht Juna.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L51] She is cast again in Kap 11, 20 and 24. Kap 33, the chapter of the confrontation, casts „Kael, AEGIS.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L168] Kap 38 is titled „Die Brücke zu Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L473] and plans „Kael tritt aus dem System heraus (oder integriert es vollständig) und trifft Juna physisch.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L479]
+
+Stands as a plan of 2026-02-25 with Juna first in Kap 3 and physically in Kap 38, recorded, not applied.
