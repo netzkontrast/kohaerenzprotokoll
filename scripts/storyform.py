@@ -270,6 +270,14 @@ def weave_audit(weave, forms):
         got = sum(ch[str(n)]["route"] == "hard-b" for n in nums)
         if got != want:
             errors.append(f"act {k}: {got} hard-b chapters, the author set {want}")
+    acts = sorted(weave["acts"].values())
+    for (_, end), (start, _) in zip(acts, acts[1:]):
+        key = f"{end}/{start}"
+        t = weave.get("transitions", {}).get(key)
+        if t is not None and not (t.get("A") and t.get("B")):
+            errors.append(f"transition {key}: H11 wants A's decision and B's action, both")
+        if t is not None and key not in weave["provenance"].get("transitions", {}):
+            errors.append(f"transition {key}: no provenance")
     prov = weave["provenance"]["chapters"]
     errors += [f"Kap {n}: no provenance" for n in ch if n not in prov]
     errors += [f"provenance for Kap {n}, which the weave does not have" for n in prov if n not in ch]
@@ -292,7 +300,10 @@ def weave_table(weave, forms):
         sp = lambda sf, t: f"{t}·{sf[t]['signposts'][k - 1]}" if k else t
         L.append(f"| {n} | {k or '—'} | {c['route']} | {', '.join(sp(a, t) for t in c['A']) or '—'} | "
                  f"{', '.join(sp(b, t) for t in c['B']) or '—'} | {c['anchor'] or '—'} |")
-    L += ["", "Offen: " + "; ".join(weave["open"])]
+    if weave.get("transitions"):
+        L += ["", "**Aktübergänge (H11): A entscheidet, B handelt.**", "", "| Übergang | A (Entscheidung) | B (Handlung) |", "|---|---|---|"]
+        L += [f"| {k} | {t['A']} | {t['B']} |" for k, t in weave["transitions"].items()]
+    L += ["", "Offen: " + ("; ".join(weave["open"]) or "—")]
     return L
 
 
@@ -420,7 +431,9 @@ def selftest():
                                               for n in (1, 2, 3, 4)], "the band is"),
                 ("a hard-b count the author did not set", lambda w: w["chapters"]["6"].update(route="hard-a", A=["MC"]),
                  "the author set"),
-                ("a chapter without provenance", lambda w: w["provenance"]["chapters"].pop("7"), "no provenance")]:
+                ("a chapter without provenance", lambda w: w["provenance"]["chapters"].pop("7"), "no provenance"),
+                ("a transition without B's action", lambda w: w.setdefault("transitions", {}).update({"13/14": {"A": "x", "B": ""}}),
+                 "both")]:
             w = json.loads(json.dumps(weave))
             edit(w)
             if not any(want in e for e in weave_audit(w, forms)):

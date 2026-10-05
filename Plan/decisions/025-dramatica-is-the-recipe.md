@@ -141,6 +141,13 @@ with the consequences of each option laid out.
     wants (Kap 4, 11, IC·Past); Akt II: her life and the silence go on, in traces (Kap 17, 25, IC·Progress); Akt III: the
     first direct encounter in the present (Kap 32, IC·Present); the Vortex: their future (Kap 36, 38, IC·Future). C7
     decided. Open: a POV of her own, and whether she is the original self or a counterpart (J68).
+27. **The driver events at the act transitions (H11, 2026-10-05).** A decides, B acts, at each transition. 13/14: Kael
+    will no longer confirm the deletion of his own line (the connection to Juna stays; others pay) → AEGIS' first
+    erasure wave. 26/27: Kael decides to go to Juna in the present → AEGIS' purge against the connection (Kap 28, Juna in
+    danger). 34/35: after the encounter (Kap 32) Kael lets Juna go and cuts the connection himself — the old silence,
+    this time chosen — → the sweep converges on what is left (Kap 35). The session noted the tension with Change: Kael
+    chooses the old pattern once more, so the turn Inertia → Change falls inside the Vortex (Kap 35, the pivot); the
+    author chose it. In `weave.json`, `transitions`; `storyform.py` refuses a transition without both halves.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

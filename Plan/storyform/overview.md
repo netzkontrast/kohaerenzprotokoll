@@ -113,4 +113,12 @@ Aus `weave.json` (Entscheidung 025, Schritt 23). Route nach dem Skill chapter-dr
 | 39 | 4 | bridge | MC·Conscious, OS·Conceptualizing | MC·Future, IC·Subconscious | Vortex selbst |
 | 40 | — | bridge | — | — | Genesis-Flashback |
 
-Offen: the driver event at each act transition (H11): A a decision, B an action — 13/14, 26/27, 34/35; which chapter content the woven throughlines carry (the treatment)
+**Aktübergänge (H11): A entscheidet, B handelt.**
+
+| Übergang | A (Entscheidung) | B (Handlung) |
+|---|---|---|
+| 13/14 | Kap 13: Kael entscheidet sich endgültig, die Löschung seiner eigenen Zeile nicht mehr zu bestätigen — der Anschluss, der in keinem Plan steht, bleibt (RÜCKFRAGE offen, für immer). Andere zahlen dafür; er ist jetzt ein Fehler im System. | Kap 14: AEGIS antwortet mit der ersten Erasure-Welle. |
+| 26/27 | Kap 26: Kael beschließt, zu Juna zu gehen — sie in der Gegenwart zu suchen; er gibt die Ordnung auf, in der er überlebt hat. | Kap 28 (AEGIS-Ich): der Purge gegen die Verbindung; Juna gerät in Gefahr. |
+| 34/35 | Kap 34: Nach der Begegnung (Kap 32) lässt Kael Juna gehen — er trennt die Verbindung selbst, um sie aus dem Schussfeld zu bringen; die alte Stille wiederholt sich, diesmal gewählt. Die Wendung Inertia → Change kommt erst im Vortex (Kap 35, Pivot). | Kap 35: AEGIS' Sweep konvergiert auf das, was übrig ist. |
+
+Offen: which chapter content the woven throughlines carry (the treatment)
