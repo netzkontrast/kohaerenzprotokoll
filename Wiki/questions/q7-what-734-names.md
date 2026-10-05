@@ -161,3 +161,11 @@ Stands as one more sense of the number, the unit as a guard in Kap 2, recorded a
 Kap 9, Storyform A (IC: Universe/Past): „Die wahre Genesis von Kael als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135] „Komponente 734“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135], „wird angedeutet“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135].
 
 Stands as one source that names Komponente 734 as Kael's origin and says nothing of a dwelling; recorded, not applied.
+
+## 2026-10-05 — `kontext-outline`, 2025-05-03, the outline commission
+
+**The commission's glossary writes the component once, as AEGIS's origin, and says nothing of Wohneinheit 734.**
+
+The glossary has AEGIS as „Antagonistisches KI-System/Kollektiv; entstanden aus Komponente 734“ ^[kontext-outline.md:L26]. The prologue's plan of the origin does not name it: „AEGIS (oder Vorläufer) entsteht aus Chaos/Angst, sucht Ganzheit“ ^[kontext-outline.md:L66].
+
+Where it stands: Komponente 734 is AEGIS's origin in this briefing; it is not Kael's designation here, and the question of what the number labels is untouched.
