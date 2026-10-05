@@ -357,3 +357,11 @@ Stands: two acting Guardians, LogOS and Mnemosyne, in the B chapters; C6's count
 „zwei oder drei Pole, exakte Zahl im Kanon-Trio nachschlagen“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L745]
 
 Where it stands in the record's own terms: a report of a position with two or three poles and no named pairing, the trio itself not in the text; the count stays the author's.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report
+
+**The Synthese-Report directs exactly two poles, Mnemosyne and LogOS with Cerberus subsumed; the five Wächter stand in the table's pre-reset column.**
+
+Column 2 of the table (the pre-reset PDFs, not the report's voice): „Fünf Wächter kontrollieren die Realität: LogOS, Mnemosyne, Cerberus, Kairos, Sophia.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L50] The report's verdict, column 4: „Cerberus, Kairos und Sophia entfallen restlos.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L50] In its own directive (§4.3, `Lösung zu F3`): „Es existieren exakt zwei Pole.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L99] with „Der Speicher-Pol. Statisch, erhaltend, kalt.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L103] and „Der Lösch-Pol (Cerberus subsumiert).“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L104] The report names no pairing with worlds.
+
+Stands: two Guardians, Mnemosyne and an erasing pole, as the report proposes it; no pairing is named.
