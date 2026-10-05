@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -59,6 +59,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael erreicht einen kleinen, aber signifikanten Moment der internen Synthese oder Kooperation zwischen zwei zuvor widersprüchlichen 'Alters'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „Man könnte sehen, wie AEGIS versucht, Kael zu 'debuggen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „AEGIS könnte sogar versuchen, den vorherigen Konfliktzustand wiederherzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Decision to Act`, one entry shared with Kap 11–13
+
+Title: „The Decision to Act“ ^[ai-assisted-narrative-coherence.md:L1404] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.8 - Kael's Inner World“ ^[ai-assisted-narrative-coherence.md:L1408], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1409]
+
+- Story (goal): the scene outline plans „To unify the internal system around a single, actionable purpose.“ ^[ai-assisted-narrative-coherence.md:L1410]
+- Story (beat): the scene outline plans „They agree on a single common goal: to actively investigate AEGIS and find the truth.“ ^[ai-assisted-narrative-coherence.md:L1418]
+- Turn: `Outcome & Turn` has „marking his transition from a victim to an active protagonist“ ^[ai-assisted-narrative-coherence.md:L1419]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The sacred marriage
 
