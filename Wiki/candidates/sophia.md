@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 25
-readings: 25
+sources: 26
+readings: 26
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence"]
 gathered: "2026-09-17"
 ---
 
@@ -49,6 +49,10 @@ The report gives KW4 as „gehütet von Kairos und Sophia“ ^[scifi-roman-mit-k
 
 Read as an externalised function, Sophia „ist der oft überforderte Versuch, diese getrennten Funktionen zu synthetisieren“ ^[system-kael-konzeptentwicklung-und-analyse.md:L62] KW4 is her domain together with Kairos („Domäne von Kairos/Sophia“ ^[system-kael-konzeptentwicklung-und-analyse.md:L164]).
 
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the critique) — Sophia in a world's name
+
+The critique names the fourth world with Sophia beside Kairos: „Kernwelt 4 (Kairos/Sophia)“ ^[ai-assisted-narrative-coherence.md:L950]. `Sophia` ^[ai-assisted-narrative-coherence.md:#2] stands twice in the compilation, once in each copy of the critique, in this name; the line glosses the world as a `Possibility Garden`.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Sophia named with Kairos as the domain of KW4
 
 The three-part analysis writes the name only in the pair: „in der aufkeimenden **Kern-Welt 4 (KW4)**, der Domäne *Kairos/Sophia*.“ ^[romanstruktur-und-philosophische-einleitung.md:L93]
@@ -84,6 +88,7 @@ Sophia stands once, as `Kairos/Sophia` in F3's list: „LogOS, Mnemosyne, Cerber
 ## Where the sources differ
 
 - the research report finds Sophia's integration by elimination contradicting Selene's and proposes „muss als korrumpierter Einfluss von AEGIS auf KW4 umgedeutet werden“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L114].
+- The critique writes KW4 as `Kairos/Sophia` (see the page `kairos`).
 
 ## Open
 
