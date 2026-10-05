@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -60,6 +60,14 @@ Position: Teil II, „Der Zerfall der Simulation“ ^[romanstruktur-und-philosop
 - Story: „Die informationelle Entropie steigt exponentiell an.“ ^[romanstruktur-und-philosophische-einleitung.md:L162]; the cause is hedged: „vermutlich durch die Komplexität von Kaels eigener Integration“ ^[romanstruktur-und-philosophische-einleitung.md:L162]
 - Story: „Er füttert das System mit Datenmüll, um es zu verlangsamen und Ressourcen zu binden.“ ^[romanstruktur-und-philosophische-einleitung.md:L164]
 - the chapter points back to Kap 14: „Er wendet die Erkenntnis aus Kapitel 14 gegen das System an“ ^[romanstruktur-und-philosophische-einleitung.md:L164]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Juna-Spiegelung
+
+Title: „Die Juna-Spiegelung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L190]
+Position: Teil II; setting from the `Schauplatz` field: „Die Randbereiche der Überwelt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L192]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna/V, Selene (Self)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L193]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael findet einen rauschfreien Nexus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] and „Hier offenbart sich Juna in ihrer wahren Form“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
