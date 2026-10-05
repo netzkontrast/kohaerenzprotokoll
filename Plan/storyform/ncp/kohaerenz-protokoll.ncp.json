@@ -1,0 +1,2863 @@
+{
+  "ncp_version": "3.0.0-rc.1",
+  "document": {
+    "id": "document_kohaerenz_protokoll",
+    "created_at": "2026-10-05T00:00:00Z",
+    "provenance": [
+      {
+        "at": "2026-10-05T00:00:00Z",
+        "action": "written by scripts/storyform.py from Plan/storyform/a.json, b.json and weave.json (decision 025); migrated from two NCP 1.3.0 files (step 24)"
+      }
+    ]
+  },
+  "story": {
+    "id": "story_kohaerenz_protokoll"
+  },
+  "profiles": [
+    {
+      "namespace": "dramatica:",
+      "profile_version": "1.0.0-rc.1",
+      "schema": "https://narrativecontextprotocol.com/profiles/dramatica/1.0.0-rc.1/profile-schema.json"
+    }
+  ],
+  "payloads": {
+    "dramatica:": {
+      "namespace": "dramatica:",
+      "profile_version": "1.0.0-rc.1",
+      "dsm_version": "the 1995/1999 chart, checked by scripts/dramatica.py — not the licensed DSM",
+      "storyform": {
+        "id": "story_kohaerenz_protokoll",
+        "title": "Kohärenz Protokoll",
+        "logline": "Ein Mann, der beruflich die Risse einer simulierten Stadt glättet, muss seine eigene zersplitterte Geschichte lesen, bevor sich die Nacht seiner Fragmentierung wiederholt — und erfahren, dass seine Vielheit nicht die Störung ist, sondern die Bedingung seiner Heilung.",
+        "genre": "Hard-SF / Philosophical Horror / Psychological Thriller",
+        "created_at": "2026-10-05T00:00:00Z",
+        "narratives": [
+          {
+            "id": "narrative-a",
+            "title": "Storyform A — Heuristik der Integration (K1)",
+            "status": "draft",
+            "subtext": {
+              "perspectives": [
+                {
+                  "id": "persp_main_character",
+                  "author_structural_pov": "i",
+                  "summary": "Kael (MC, Mind)",
+                  "storytelling": "Kaels innere Linie: Memory, Suspicion ↔ Evidence, Inertia → Change."
+                },
+                {
+                  "id": "persp_influence_character",
+                  "author_structural_pov": "you",
+                  "summary": "Juna (IC, Universe/Past)",
+                  "storytelling": "Juna bezeugt, ohne zu zwingen; sie verkörpert Change gegen Kaels Inertia."
+                },
+                {
+                  "id": "persp_objective_story",
+                  "author_structural_pov": "they",
+                  "summary": "AEGIS, Guardians und System: Manipulation der Simulation (Psychology)",
+                  "storytelling": "Ziel Conceptualizing; alle ringen um State of Being ↔ Sense of Self."
+                },
+                {
+                  "id": "persp_relationship_story",
+                  "author_structural_pov": "we",
+                  "summary": "Kael und Juna: der Moonshine-Link (Physics)",
+                  "storytelling": "Die Beziehung ringt darum, einander über eine trennende Grenze zu verstehen."
+                }
+              ],
+              "players": [
+                {
+                  "id": "player_kael",
+                  "name": "Kael",
+                  "role": "Main Character",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Main Character; im OS: Inertia",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: crucial element (H6/H7), step 8.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Inertia",
+                      "illustration": "Kael trägt Inertia im OS.",
+                      "storytelling": "Herkunft: crucial element (H6/H7), step 8."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_juna",
+                  "name": "Juna",
+                  "role": "Influence Character",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Influence Character; im OS: Change",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: H8, step 9a.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Change",
+                      "illustration": "Juna trägt Change im OS.",
+                      "storytelling": "Herkunft: H8, step 9a."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_selene",
+                  "name": "Selene (Alter)",
+                  "role": "Protagonist",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Protagonist; im OS: Pursuit, Consider",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting A-1 (2026-10-05): „Architektin innerer Harmonie“ (Charakter-Bibel L494) pursues the plan.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Pursuit",
+                      "illustration": "Selene (Alter) trägt Pursuit im OS.",
+                      "storytelling": "Herkunft: author, casting A-1 (2026-10-05): „Architektin innerer Harmonie“ (Charakter-Bibel L494) pursues the plan."
+                    },
+                    {
+                      "narrative_function": "Consider",
+                      "illustration": "Selene (Alter) trägt Consideration im OS.",
+                      "storytelling": "Herkunft: author, casting A-1 (2026-10-05): „Architektin innerer Harmonie“ (Charakter-Bibel L494) pursues the plan."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_oblivion",
+                  "name": "Oblivion (Alter)",
+                  "role": "Antagonist",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Antagonist; im OS: Avoid, Reconsider",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting A-2 (2026-10-05): „Internalisierte Löschlogik“ (Charakter-Bibel L762) — AEGIS inside Kael, the bridge to B.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Avoid",
+                      "illustration": "Oblivion (Alter) trägt Avoid im OS.",
+                      "storytelling": "Herkunft: author, casting A-2 (2026-10-05): „Internalisierte Löschlogik“ (Charakter-Bibel L762) — AEGIS inside Kael, the bridge to B."
+                    },
+                    {
+                      "narrative_function": "Reconsider",
+                      "illustration": "Oblivion (Alter) trägt Reconsideration im OS.",
+                      "storytelling": "Herkunft: author, casting A-2 (2026-10-05): „Internalisierte Löschlogik“ (Charakter-Bibel L762) — AEGIS inside Kael, the bridge to B."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                }
+              ],
+              "dynamics": [
+                {
+                  "id": "dyn_story_driver",
+                  "dynamic": "story_driver",
+                  "vector": "decision",
+                  "summary": "story_driver = decision",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source (report 2026-05-07), kept in step 2."
+                },
+                {
+                  "id": "dyn_story_outcome",
+                  "dynamic": "story_outcome",
+                  "vector": "success",
+                  "summary": "story_outcome = success",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_story_judgment",
+                  "dynamic": "story_judgment",
+                  "vector": "good",
+                  "summary": "story_judgment = good",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_story_limit",
+                  "dynamic": "story_limit",
+                  "vector": "optionlock",
+                  "summary": "story_limit = optionlock",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_problem_solving_style",
+                  "dynamic": "problem_solving_style",
+                  "vector": "holistic",
+                  "summary": "problem_solving_style = holistic",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_main_character_resolve",
+                  "dynamic": "main_character_resolve",
+                  "vector": "change",
+                  "summary": "main_character_resolve = change",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_influence_character_resolve",
+                  "dynamic": "influence_character_resolve",
+                  "vector": "steadfast",
+                  "summary": "influence_character_resolve = steadfast",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); derived, rule R6."
+                },
+                {
+                  "id": "dyn_main_character_growth",
+                  "dynamic": "main_character_growth",
+                  "vector": "stop",
+                  "summary": "main_character_growth = stop",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); author, step 16 (Stop instead of Start: rule D1)."
+                },
+                {
+                  "id": "dyn_main_character_approach",
+                  "dynamic": "main_character_approach",
+                  "vector": "be_er",
+                  "summary": "main_character_approach = be_er",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                }
+              ],
+              "storypoints": [
+                {
+                  "id": "sp_01",
+                  "appreciation": "Main Character Domain",
+                  "narrative_function": "Mind",
+                  "throughline": "Main Character",
+                  "illustration": "Kaels innere Linie: Memory, Suspicion ↔ Evidence, Inertia → Change.",
+                  "summary": "Main Character Domain: Mind",
+                  "storytelling": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_02",
+                  "appreciation": "Main Character Concern",
+                  "narrative_function": "Memory",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Concern",
+                  "summary": "Main Character Concern: Memory",
+                  "storytelling": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist. Herkunft: author step 6; derived D3 agrees.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_03",
+                  "appreciation": "Main Character Issue",
+                  "narrative_function": "Suspicion",
+                  "throughline": "Main Character",
+                  "illustration": "Verdacht gegen Beleg: was Kael über sich und seine Anteile glaubt.",
+                  "summary": "Main Character Issue: Suspicion",
+                  "storytelling": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist. Herkunft: author step 6; derived D3 agrees. Gegenpol (Counterpoint): Evidence.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_04",
+                  "appreciation": "Main Character Problem",
+                  "narrative_function": "Inertia",
+                  "throughline": "Main Character",
+                  "illustration": "Kael hält am Bestehenden fest, auch wenn es zerfällt.",
+                  "summary": "Main Character Problem: Inertia",
+                  "storytelling": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist. Herkunft: author step 6; derived D3 agrees.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_05",
+                  "appreciation": "Main Character Solution",
+                  "narrative_function": "Change",
+                  "throughline": "Main Character",
+                  "illustration": "Kael lässt Veränderung zu.",
+                  "summary": "Main Character Solution: Change",
+                  "storytelling": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist. Herkunft: author step 6; derived D3 agrees.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_06",
+                  "appreciation": "Main Character Symptom",
+                  "narrative_function": "Chaos",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Symptom",
+                  "summary": "Main Character Symptom: Chaos",
+                  "storytelling": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist. Herkunft: author, fine structure 2.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_07",
+                  "appreciation": "Main Character Response",
+                  "narrative_function": "Order",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Response",
+                  "summary": "Main Character Response: Order",
+                  "storytelling": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist. Herkunft: author, fine structure 2.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_08",
+                  "appreciation": "Influence Character Domain",
+                  "narrative_function": "Universe",
+                  "throughline": "Influence Character",
+                  "illustration": "Juna bezeugt, ohne zu zwingen; sie verkörpert Change gegen Kaels Inertia.",
+                  "summary": "Influence Character Domain: Universe",
+                  "storytelling": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_09",
+                  "appreciation": "Influence Character Concern",
+                  "narrative_function": "Past",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Concern",
+                  "summary": "Influence Character Concern: Past",
+                  "storytelling": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia. Herkunft: source (report); derived D3 agrees.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_10",
+                  "appreciation": "Influence Character Issue",
+                  "narrative_function": "Prediction",
+                  "throughline": "Influence Character",
+                  "illustration": "Was kommen wird, gegen den Versuch, es abzuwenden.",
+                  "summary": "Influence Character Issue: Prediction",
+                  "storytelling": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia. Herkunft: author step 9a; derived D3 agrees. Gegenpol (Counterpoint): Interdiction.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_11",
+                  "appreciation": "Influence Character Problem",
+                  "narrative_function": "Change",
+                  "throughline": "Influence Character",
+                  "illustration": "Juna steht für den Wandel, den Kael verweigert.",
+                  "summary": "Influence Character Problem: Change",
+                  "storytelling": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia. Herkunft: author step 9a (carries Change against Kael's Inertia).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_12",
+                  "appreciation": "Influence Character Solution",
+                  "narrative_function": "Inertia",
+                  "throughline": "Influence Character",
+                  "illustration": "Beharren — das Gegenstück, das Juna in Kael trifft.",
+                  "summary": "Influence Character Solution: Inertia",
+                  "storytelling": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia. Herkunft: author step 9a.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_13",
+                  "appreciation": "Influence Character Symptom",
+                  "narrative_function": "Actuality",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Symptom",
+                  "summary": "Influence Character Symptom: Actuality",
+                  "storytelling": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia. Herkunft: author, fine structure 2.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_14",
+                  "appreciation": "Influence Character Response",
+                  "narrative_function": "Perception",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Response",
+                  "summary": "Influence Character Response: Perception",
+                  "storytelling": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia. Herkunft: author, fine structure 2.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_15",
+                  "appreciation": "Objective Story Domain",
+                  "narrative_function": "Psychology",
+                  "throughline": "Objective Story",
+                  "illustration": "Ziel Conceptualizing; alle ringen um State of Being ↔ Sense of Self.",
+                  "summary": "Objective Story Domain: Psychology",
+                  "storytelling": "Schritt 8a: Thema und Crucial Element greifen im selben Quad ineinander.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_16",
+                  "appreciation": "Objective Story Concern",
+                  "narrative_function": "Conceptualizing",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Concern",
+                  "summary": "Objective Story Concern: Conceptualizing",
+                  "storytelling": "Schritt 8a: Thema und Crucial Element greifen im selben Quad ineinander. Herkunft: session, step 8 (the only Psychology type holding the crucial element).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_17",
+                  "appreciation": "Objective Story Issue",
+                  "narrative_function": "State of Being",
+                  "throughline": "Objective Story",
+                  "illustration": "Was jemand wirklich ist gegen das Bild, das er von sich hat.",
+                  "summary": "Objective Story Issue: State of Being",
+                  "storytelling": "Schritt 8a: Thema und Crucial Element greifen im selben Quad ineinander. Herkunft: author step 8a. Gegenpol (Counterpoint): Sense of Self.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_18",
+                  "appreciation": "Objective Story Problem",
+                  "narrative_function": "Inertia",
+                  "throughline": "Objective Story",
+                  "illustration": "Das System hält am Bestehenden fest — das Crucial Element, das Kael aufgibt.",
+                  "summary": "Objective Story Problem: Inertia",
+                  "storytelling": "Schritt 8a: Thema und Crucial Element greifen im selben Quad ineinander. Herkunft: crucial element, step 8.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_19",
+                  "appreciation": "Objective Story Solution",
+                  "narrative_function": "Change",
+                  "throughline": "Objective Story",
+                  "illustration": "Veränderung des Bestehenden.",
+                  "summary": "Objective Story Solution: Change",
+                  "storytelling": "Schritt 8a: Thema und Crucial Element greifen im selben Quad ineinander. Herkunft: pair of the problem.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_20",
+                  "appreciation": "Objective Story Symptom",
+                  "narrative_function": "Knowledge",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Symptom",
+                  "summary": "Objective Story Symptom: Knowledge",
+                  "storytelling": "Schritt 8a: Thema und Crucial Element greifen im selben Quad ineinander. Herkunft: author, fine structure 2.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_21",
+                  "appreciation": "Objective Story Response",
+                  "narrative_function": "Thought",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Response",
+                  "summary": "Objective Story Response: Thought",
+                  "storytelling": "Schritt 8a: Thema und Crucial Element greifen im selben Quad ineinander. Herkunft: author, fine structure 2.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_22",
+                  "appreciation": "Relationship Story Domain",
+                  "narrative_function": "Physics",
+                  "throughline": "Relationship Story",
+                  "illustration": "Die Beziehung ringt darum, einander über eine trennende Grenze zu verstehen.",
+                  "summary": "Relationship Story Domain: Physics",
+                  "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_23",
+                  "appreciation": "Relationship Story Concern",
+                  "narrative_function": "Understanding",
+                  "throughline": "Relationship Story",
+                  "illustration": "Relationship Story Concern",
+                  "summary": "Relationship Story Concern: Understanding",
+                  "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7). Herkunft: author step 10a; derived D6 agrees.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_24",
+                  "appreciation": "Relationship Story Issue",
+                  "narrative_function": "Instinct",
+                  "throughline": "Relationship Story",
+                  "illustration": "Instinkt gegen Konditionierung: was der Link von selbst tut gegen was er gelernt hat.",
+                  "summary": "Relationship Story Issue: Instinct",
+                  "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7). Herkunft: derived D7, author step 16. Gegenpol (Counterpoint): Conditioning.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_25",
+                  "appreciation": "Relationship Story Problem",
+                  "narrative_function": "Ability",
+                  "throughline": "Relationship Story",
+                  "illustration": "Was beide können — der Kanal als Fähigkeit — ist das Problem der Beziehung.",
+                  "summary": "Relationship Story Problem: Ability",
+                  "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7). Herkunft: derived D5, author step 16.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_26",
+                  "appreciation": "Relationship Story Solution",
+                  "narrative_function": "Desire",
+                  "throughline": "Relationship Story",
+                  "illustration": "Dem folgen, was beide wollen.",
+                  "summary": "Relationship Story Solution: Desire",
+                  "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7). Herkunft: derived D5, author step 16.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_27",
+                  "appreciation": "Relationship Story Symptom",
+                  "narrative_function": "Thought",
+                  "throughline": "Relationship Story",
+                  "illustration": "Grübeln: Kael und Juna denken übereinander nach — ist Juna echt?",
+                  "summary": "Relationship Story Symptom: Thought",
+                  "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7). Herkunft: author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_28",
+                  "appreciation": "Relationship Story Response",
+                  "narrative_function": "Knowledge",
+                  "throughline": "Relationship Story",
+                  "illustration": "Gewissheit: sie suchen Belege, statt zu wollen.",
+                  "summary": "Relationship Story Response: Knowledge",
+                  "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7). Herkunft: author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_29",
+                  "appreciation": "Main Character Pivotal Element",
+                  "narrative_function": "Inertia",
+                  "throughline": "Main Character",
+                  "illustration": "Das Crucial Element: das OS-Element, auf dem die Hauptfigur sitzt.",
+                  "summary": "Main Character Pivotal Element: Inertia",
+                  "storytelling": "Change → das OS-Problem, das die Hauptfigur aufgibt; Steadfast → die OS-Lösung, an der sie festhält.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_30",
+                  "appreciation": "Story Goal",
+                  "narrative_function": "Conceptualizing",
+                  "illustration": "Einen Plan, ein Konzept der Ordnung entwickeln.",
+                  "summary": "Story Goal: Conceptualizing",
+                  "storytelling": "Das Ziel liegt auf dem OS-Concern.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_31",
+                  "appreciation": "Story Requirements",
+                  "narrative_function": "Learning",
+                  "illustration": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
+                  "summary": "Story Requirements: Learning",
+                  "storytelling": "Herkunft: author step 13 (WP candidate).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_32",
+                  "appreciation": "Story Consequence",
+                  "narrative_function": "Past",
+                  "illustration": "Die Fragmentierungsnacht wiederholt sich.",
+                  "summary": "Story Consequence: Past",
+                  "storytelling": "Herkunft: author step 13 (WP candidate). Stop-Story: die Folgen laufen schon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_33",
+                  "appreciation": "Story Forewarnings",
+                  "narrative_function": "Preconscious",
+                  "illustration": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen.",
+                  "summary": "Story Forewarnings: Preconscious",
+                  "storytelling": "Herkunft: author step 13 (WP candidate).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_34",
+                  "appreciation": "Story Costs",
+                  "narrative_function": "Being",
+                  "illustration": "Kaels funktionierende Fassade zerfällt: Host-Rolle, Alltag, Routinen.",
+                  "summary": "Story Costs: Being",
+                  "storytelling": "Herkunft: author step 14 (session proposal).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_35",
+                  "appreciation": "Story Dividends",
+                  "narrative_function": "Becoming",
+                  "illustration": "Kael wird funktional plural; die Anteile werden Verbündete.",
+                  "summary": "Story Dividends: Becoming",
+                  "storytelling": "Herkunft: author step 14 (session proposal).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_36",
+                  "appreciation": "Story Prerequisites",
+                  "narrative_function": "Memory",
+                  "illustration": "Ein erstes Erinnerungsfragment, an dem Kael zu lesen beginnen kann.",
+                  "summary": "Story Prerequisites: Memory",
+                  "storytelling": "Herkunft: author, fine structure 2b.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_37",
+                  "appreciation": "Story Preconditions",
+                  "narrative_function": "Present",
+                  "illustration": "Kael kann nur in Zeitlücken suchen.",
+                  "summary": "Story Preconditions: Present",
+                  "storytelling": "Herkunft: author, fine structure 2b.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                }
+              ],
+              "storybeats": [
+                {
+                  "id": "beat_mc_signpost_1",
+                  "scope": "signpost",
+                  "sequence": 1,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Signpost 1",
+                  "narrative_function": "Memory",
+                  "summary": "Erinnerungslosigkeit, das Register.",
+                  "storytelling": "Akt I, Kap 1–13. Herkunft: author step 12 after a source search; nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_signpost_2",
+                  "scope": "signpost",
+                  "sequence": 2,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Signpost 2",
+                  "narrative_function": "Subconscious",
+                  "summary": "Trauma-Wiederbegegnung, Sehnsucht.",
+                  "storytelling": "Akt II, Kap 14–26. Herkunft: author step 12 after a source search; nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_signpost_3",
+                  "scope": "signpost",
+                  "sequence": 3,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Signpost 3",
+                  "narrative_function": "Preconscious",
+                  "summary": "Reflexe unter Stress, aber mit Absicht.",
+                  "storytelling": "Akt III, Kap 27–34. Herkunft: author step 12 after a source search; nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_signpost_4",
+                  "scope": "signpost",
+                  "sequence": 4,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Signpost 4",
+                  "narrative_function": "Conscious",
+                  "summary": "Bewusste Entscheidung, Wieder-Erkennen.",
+                  "storytelling": "Vortex, Kap 35–39. Herkunft: author step 12 after a source search; nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_signpost_1",
+                  "scope": "signpost",
+                  "sequence": 1,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Signpost 1",
+                  "narrative_function": "Past",
+                  "summary": "Junas Resonanz löst die Genesis-Krise aus.",
+                  "storytelling": "Akt I, Kap 1–13. Herkunft: author step 12 (S1/S4 from the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_signpost_2",
+                  "scope": "signpost",
+                  "sequence": 2,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Signpost 2",
+                  "narrative_function": "Progress",
+                  "summary": "Der Wandel rückt näher.",
+                  "storytelling": "Akt II, Kap 14–26. Herkunft: author step 12 (S1/S4 from the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_signpost_3",
+                  "scope": "signpost",
+                  "sequence": 3,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Signpost 3",
+                  "narrative_function": "Present",
+                  "summary": "Reine Präsenz, Telefon-Stille.",
+                  "storytelling": "Akt III, Kap 27–34. Herkunft: author step 12 (S1/S4 from the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_signpost_4",
+                  "scope": "signpost",
+                  "sequence": 4,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Signpost 4",
+                  "narrative_function": "Future",
+                  "summary": "Juna manifestiert ontologisch.",
+                  "storytelling": "Vortex, Kap 35–39. Herkunft: author step 12 (S1/S4 from the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_signpost_1",
+                  "scope": "signpost",
+                  "sequence": 1,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Signpost 1",
+                  "narrative_function": "Being",
+                  "summary": "Rollen; die Fassade hält.",
+                  "storytelling": "Akt I, Kap 1–13. Herkunft: author step 11 (no source gives a Psychology order); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_signpost_2",
+                  "scope": "signpost",
+                  "sequence": 2,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Signpost 2",
+                  "narrative_function": "Becoming",
+                  "summary": "Das Wesen bricht auf.",
+                  "storytelling": "Akt II, Kap 14–26. Herkunft: author step 11 (no source gives a Psychology order); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_signpost_3",
+                  "scope": "signpost",
+                  "sequence": 3,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Signpost 3",
+                  "narrative_function": "Conceiving",
+                  "summary": "Der Einfall.",
+                  "storytelling": "Akt III, Kap 27–34. Herkunft: author step 11 (no source gives a Psychology order); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_signpost_4",
+                  "scope": "signpost",
+                  "sequence": 4,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Signpost 4",
+                  "narrative_function": "Conceptualizing",
+                  "summary": "Der Plan wird entwickelt (das Ziel).",
+                  "storytelling": "Vortex, Kap 35–39. Herkunft: author step 11 (no source gives a Psychology order); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_signpost_1",
+                  "scope": "signpost",
+                  "sequence": 1,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Signpost 1",
+                  "narrative_function": "Learning",
+                  "summary": "Junas Präsenz spüren.",
+                  "storytelling": "Akt I, Kap 1–13. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_signpost_2",
+                  "scope": "signpost",
+                  "sequence": 2,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Signpost 2",
+                  "narrative_function": "Doing",
+                  "summary": "Die Verbindung als Werkzeug.",
+                  "storytelling": "Akt II, Kap 14–26. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_signpost_3",
+                  "scope": "signpost",
+                  "sequence": 3,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Signpost 3",
+                  "narrative_function": "Obtaining",
+                  "summary": "Der Kanal als Ressource.",
+                  "storytelling": "Akt III, Kap 27–34. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_signpost_4",
+                  "scope": "signpost",
+                  "sequence": 4,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Signpost 4",
+                  "narrative_function": "Understanding",
+                  "summary": "Verstehen ohne Worte.",
+                  "storytelling": "Vortex, Kap 35–39. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                }
+              ]
+            },
+            "storytelling": {
+              "overviews": [
+                {
+                  "id": "overview_a_logline",
+                  "label": "Logline",
+                  "summary": "Ein Mann, der beruflich die Risse einer simulierten Stadt glättet, muss seine eigene zersplitterte Geschichte lesen, bevor sich die Nacht seiner Fragmentierung wiederholt — und erfahren, dass seine Vielheit nicht die Störung ist, sondern die Bedingung seiner Heilung.",
+                  "storytelling": "Herkunft: author, 2026-10-05, logline (session draft from goal, consequence, costs and outcome)."
+                },
+                {
+                  "id": "overview_a_genre",
+                  "label": "Genre",
+                  "summary": "Hard-SF / Philosophical Horror / Psychological Thriller",
+                  "storytelling": "Herkunft: author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)."
+                }
+              ]
+            }
+          },
+          {
+            "id": "narrative-b",
+            "title": "Storyform B — Phönix-Kollaps (K0)",
+            "status": "draft",
+            "subtext": {
+              "perspectives": [
+                {
+                  "id": "persp_main_character",
+                  "author_structural_pov": "i",
+                  "summary": "AEGIS (MC, Universe)",
+                  "storytelling": "AEGIS' Linie: Future, Openness ↔ Delay, Disbelief, nie Faith. Strukturelle Sicht, keine Ich-Prosa (W6)."
+                },
+                {
+                  "id": "persp_influence_character",
+                  "author_structural_pov": "you",
+                  "summary": "Kael (IC, Mind/Subconscious)",
+                  "storytelling": "Kael wirkt aus innersten Wünschen (Subconscious, Dream ↔ Hope); er ändert sich am Vortex."
+                },
+                {
+                  "id": "persp_objective_story",
+                  "author_structural_pov": "they",
+                  "summary": "Kybernetischer Krieg: Sweeps, Guardian-Operationen (Physics)",
+                  "storytelling": "Ziel Obtaining; der Kampf um Approach ↔ Attitude."
+                },
+                {
+                  "id": "persp_relationship_story",
+                  "author_structural_pov": "we",
+                  "summary": "Kael und AEGIS: Host und System (Psychology)",
+                  "storytelling": "Die Beziehung verändert, was beide sind (Becoming); ihr Problem ist dasselbe wie das des OS: Feeling."
+                }
+              ],
+              "players": [
+                {
+                  "id": "player_aegis",
+                  "name": "AEGIS",
+                  "role": "Main Character, Protagonist",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Main Character, Protagonist; im OS: Logic",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Logic",
+                      "illustration": "AEGIS trägt Logic im OS.",
+                      "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_kael",
+                  "name": "Kael",
+                  "role": "Influence Character, Antagonist",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Influence Character, Antagonist; im OS: Feeling",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Feeling",
+                      "illustration": "Kael trägt Feeling im OS.",
+                      "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                }
+              ],
+              "dynamics": [
+                {
+                  "id": "dyn_story_driver",
+                  "dynamic": "story_driver",
+                  "vector": "action",
+                  "summary": "story_driver = action",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source (report 2026-05-07), kept in step 2."
+                },
+                {
+                  "id": "dyn_story_outcome",
+                  "dynamic": "story_outcome",
+                  "vector": "failure",
+                  "summary": "story_outcome = failure",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_story_judgment",
+                  "dynamic": "story_judgment",
+                  "vector": "bad",
+                  "summary": "story_judgment = bad",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_story_limit",
+                  "dynamic": "story_limit",
+                  "vector": "timelock",
+                  "summary": "story_limit = timelock",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_problem_solving_style",
+                  "dynamic": "problem_solving_style",
+                  "vector": "linear",
+                  "summary": "problem_solving_style = linear",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_main_character_resolve",
+                  "dynamic": "main_character_resolve",
+                  "vector": "steadfast",
+                  "summary": "main_character_resolve = steadfast",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_influence_character_resolve",
+                  "dynamic": "influence_character_resolve",
+                  "vector": "change",
+                  "summary": "influence_character_resolve = change",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); derived, rule R6."
+                },
+                {
+                  "id": "dyn_main_character_growth",
+                  "dynamic": "main_character_growth",
+                  "vector": "stop",
+                  "summary": "main_character_growth = stop",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); source, step 2."
+                },
+                {
+                  "id": "dyn_main_character_approach",
+                  "dynamic": "main_character_approach",
+                  "vector": "do_er",
+                  "summary": "main_character_approach = do_er",
+                  "storytelling": "Entscheidung des Autors (Plan/decisions/025-dramatica-is-the-recipe.md); author step 3a (C8: Do-er)."
+                }
+              ],
+              "storypoints": [
+                {
+                  "id": "sp_01",
+                  "appreciation": "Main Character Domain",
+                  "narrative_function": "Universe",
+                  "throughline": "Main Character",
+                  "illustration": "AEGIS' Linie: Future, Openness ↔ Delay, Disbelief, nie Faith. Strukturelle Sicht, keine Ich-Prosa (W6).",
+                  "summary": "Main Character Domain: Universe",
+                  "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_02",
+                  "appreciation": "Main Character Concern",
+                  "narrative_function": "Future",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Concern",
+                  "summary": "Main Character Concern: Future",
+                  "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4, author step 16.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_03",
+                  "appreciation": "Main Character Issue",
+                  "narrative_function": "Openness",
+                  "throughline": "Main Character",
+                  "illustration": "Offenheit gegen Aufschub: AEGIS hält die Zukunft offen, indem es jede Entscheidung vertagt.",
+                  "summary": "Main Character Issue: Openness",
+                  "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4, author step 16. Gegenpol (Counterpoint): Preconception.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_04",
+                  "appreciation": "Main Character Problem",
+                  "narrative_function": "Disbelief",
+                  "throughline": "Main Character",
+                  "illustration": "AEGIS glaubt nichts, was nicht bewiesen ist — Unglaube als Betriebsprinzip (Zero-Trust).",
+                  "summary": "Main Character Problem: Disbelief",
+                  "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4, author step 16.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_05",
+                  "appreciation": "Main Character Solution",
+                  "narrative_function": "Faith",
+                  "throughline": "Main Character",
+                  "illustration": "Glaube — die Lösung, die AEGIS nie ergreift.",
+                  "summary": "Main Character Solution: Faith",
+                  "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4, author step 16.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_06",
+                  "appreciation": "Main Character Symptom",
+                  "narrative_function": "Reconsider",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Symptom",
+                  "summary": "Main Character Symptom: Reconsider",
+                  "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4 (shares the OS pair) in the author's OS order.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_07",
+                  "appreciation": "Main Character Response",
+                  "narrative_function": "Consider",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Response",
+                  "summary": "Main Character Response: Consider",
+                  "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_08",
+                  "appreciation": "Influence Character Domain",
+                  "narrative_function": "Mind",
+                  "throughline": "Influence Character",
+                  "illustration": "Kael wirkt aus innersten Wünschen (Subconscious, Dream ↔ Hope); er ändert sich am Vortex.",
+                  "summary": "Influence Character Domain: Mind",
+                  "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_09",
+                  "appreciation": "Influence Character Concern",
+                  "narrative_function": "Subconscious",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Concern",
+                  "summary": "Influence Character Concern: Subconscious",
+                  "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: derived D3/D4, author step 16.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_10",
+                  "appreciation": "Influence Character Issue",
+                  "narrative_function": "Dream",
+                  "throughline": "Influence Character",
+                  "illustration": "Traum gegen Hoffnung: Kael wirkt aus dem, was er sich wünscht, nicht aus dem, was er erwartet.",
+                  "summary": "Influence Character Issue: Dream",
+                  "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: derived D3/D4, author step 16. Gegenpol (Counterpoint): Hope.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_11",
+                  "appreciation": "Influence Character Problem",
+                  "narrative_function": "Disbelief",
+                  "throughline": "Influence Character",
+                  "illustration": "Unglaube — Kael trägt dasselbe Problem wie AEGIS: er traut nichts, auch sich selbst nicht.",
+                  "summary": "Influence Character Problem: Disbelief",
+                  "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_12",
+                  "appreciation": "Influence Character Solution",
+                  "narrative_function": "Faith",
+                  "throughline": "Influence Character",
+                  "illustration": "Glaube — am Vortex legt Kael sich fest und gibt nach; er wird, was AEGIS hätte werden können.",
+                  "summary": "Influence Character Solution: Faith",
+                  "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); its pair.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_13",
+                  "appreciation": "Influence Character Symptom",
+                  "narrative_function": "Oppose",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Symptom",
+                  "summary": "Influence Character Symptom: Oppose",
+                  "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); the other pair of the quad.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_14",
+                  "appreciation": "Influence Character Response",
+                  "narrative_function": "Support",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Response",
+                  "summary": "Influence Character Response: Support",
+                  "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); the other pair of the quad.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_15",
+                  "appreciation": "Objective Story Domain",
+                  "narrative_function": "Physics",
+                  "throughline": "Objective Story",
+                  "illustration": "Ziel Obtaining; der Kampf um Approach ↔ Attitude.",
+                  "summary": "Objective Story Domain: Physics",
+                  "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_16",
+                  "appreciation": "Objective Story Concern",
+                  "narrative_function": "Obtaining",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Concern",
+                  "summary": "Objective Story Concern: Obtaining",
+                  "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: session, step 8 (the only Physics type holding Logic).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_17",
+                  "appreciation": "Objective Story Issue",
+                  "narrative_function": "Approach",
+                  "throughline": "Objective Story",
+                  "illustration": "Die Methode gegen die Haltung: rechtfertigt das Vorgehen die Haltung?",
+                  "summary": "Objective Story Issue: Approach",
+                  "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: author step 8b. Gegenpol (Counterpoint): Attitude.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_18",
+                  "appreciation": "Objective Story Problem",
+                  "narrative_function": "Feeling",
+                  "throughline": "Objective Story",
+                  "illustration": "Gefühle, Risse, Entropie — was die Ordnung stört.",
+                  "summary": "Objective Story Problem: Feeling",
+                  "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: pair of the solution.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_19",
+                  "appreciation": "Objective Story Solution",
+                  "narrative_function": "Logic",
+                  "throughline": "Objective Story",
+                  "illustration": "Logic: AEGIS hält am Richtigen fest, und die Welt scheitert trotzdem.",
+                  "summary": "Objective Story Solution: Logic",
+                  "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: author step 3b: crucial element Logic is the solution.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_20",
+                  "appreciation": "Objective Story Symptom",
+                  "narrative_function": "Reconsider",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Symptom",
+                  "summary": "Objective Story Symptom: Reconsider",
+                  "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: author, fine structure 2.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_21",
+                  "appreciation": "Objective Story Response",
+                  "narrative_function": "Consider",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Response",
+                  "summary": "Objective Story Response: Consider",
+                  "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: author, fine structure 2.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_22",
+                  "appreciation": "Relationship Story Domain",
+                  "narrative_function": "Psychology",
+                  "throughline": "Relationship Story",
+                  "illustration": "Die Beziehung verändert, was beide sind (Becoming); ihr Problem ist dasselbe wie das des OS: Feeling.",
+                  "summary": "Relationship Story Domain: Psychology",
+                  "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_23",
+                  "appreciation": "Relationship Story Concern",
+                  "narrative_function": "Becoming",
+                  "throughline": "Relationship Story",
+                  "illustration": "Relationship Story Concern",
+                  "summary": "Relationship Story Concern: Becoming",
+                  "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: derived D6, author step 16.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_24",
+                  "appreciation": "Relationship Story Issue",
+                  "narrative_function": "Rationalization",
+                  "throughline": "Relationship Story",
+                  "illustration": "Rationalisierung gegen Verpflichtung: Host und System begründen, was sie einander schulden.",
+                  "summary": "Relationship Story Issue: Rationalization",
+                  "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: derived D7, author step 16. Gegenpol (Counterpoint): Obligation.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_25",
+                  "appreciation": "Relationship Story Problem",
+                  "narrative_function": "Feeling",
+                  "throughline": "Relationship Story",
+                  "illustration": "Gefühl — dasselbe, was AEGIS im OS ausschließen will, steht zwischen Host und System.",
+                  "summary": "Relationship Story Problem: Feeling",
+                  "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: derived D5, author step 16.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_26",
+                  "appreciation": "Relationship Story Solution",
+                  "narrative_function": "Logic",
+                  "throughline": "Relationship Story",
+                  "illustration": "Logik.",
+                  "summary": "Relationship Story Solution: Logic",
+                  "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: derived D5, author step 16.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_27",
+                  "appreciation": "Relationship Story Symptom",
+                  "narrative_function": "Hinder",
+                  "throughline": "Relationship Story",
+                  "illustration": "Behinderung: Sweeps gegen Risse, Risse gegen Ordnung — jeder steht dem anderen im Weg.",
+                  "summary": "Relationship Story Symptom: Hinder",
+                  "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_28",
+                  "appreciation": "Relationship Story Response",
+                  "narrative_function": "Help",
+                  "throughline": "Relationship Story",
+                  "illustration": "Hilfe: Wartung, Schutzmodus — sie helfen einander und verfehlen das Gefühl zwischen ihnen.",
+                  "summary": "Relationship Story Response: Help",
+                  "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_29",
+                  "appreciation": "Main Character Pivotal Element",
+                  "narrative_function": "Logic",
+                  "throughline": "Main Character",
+                  "illustration": "Das Crucial Element: das OS-Element, auf dem die Hauptfigur sitzt.",
+                  "summary": "Main Character Pivotal Element: Logic",
+                  "storytelling": "Change → das OS-Problem, das die Hauptfigur aufgibt; Steadfast → die OS-Lösung, an der sie festhält.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_30",
+                  "appreciation": "Story Goal",
+                  "narrative_function": "Obtaining",
+                  "illustration": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null.",
+                  "summary": "Story Goal: Obtaining",
+                  "storytelling": "Das Ziel liegt auf dem OS-Concern.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_31",
+                  "appreciation": "Story Requirements",
+                  "narrative_function": "Doing",
+                  "illustration": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
+                  "summary": "Story Requirements: Doing",
+                  "storytelling": "Herkunft: author step 13 (WP candidate).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_32",
+                  "appreciation": "Story Consequence",
+                  "narrative_function": "Becoming",
+                  "illustration": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
+                  "summary": "Story Consequence: Becoming",
+                  "storytelling": "Herkunft: author step 13 (WP candidate). Stop-Story: die Folgen laufen schon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_33",
+                  "appreciation": "Story Forewarnings",
+                  "narrative_function": "Progress",
+                  "illustration": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1).",
+                  "summary": "Story Forewarnings: Progress",
+                  "storytelling": "Herkunft: author step 13 (WP candidate).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_34",
+                  "appreciation": "Story Costs",
+                  "narrative_function": "Memory",
+                  "illustration": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
+                  "summary": "Story Costs: Memory",
+                  "storytelling": "Herkunft: author step 14 (session proposal).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_35",
+                  "appreciation": "Story Dividends",
+                  "narrative_function": "Understanding",
+                  "illustration": "AEGIS versteht Kael mit jedem Zug genauer.",
+                  "summary": "Story Dividends: Understanding",
+                  "storytelling": "Herkunft: author step 14 (session proposal).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_36",
+                  "appreciation": "Story Prerequisites",
+                  "narrative_function": "Past",
+                  "illustration": "AEGIS braucht seine eigenen Aufzeichnungen, um sweepen zu können.",
+                  "summary": "Story Prerequisites: Past",
+                  "storytelling": "Herkunft: author, fine structure 2b.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_37",
+                  "appreciation": "Story Preconditions",
+                  "narrative_function": "Conceiving",
+                  "illustration": "AEGIS darf nur im Rahmen des Protokolls löschen (das Trennungsprotokoll als Regel).",
+                  "summary": "Story Preconditions: Conceiving",
+                  "storytelling": "Herkunft: author, fine structure 2b.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                }
+              ],
+              "storybeats": [
+                {
+                  "id": "beat_mc_signpost_1",
+                  "scope": "signpost",
+                  "sequence": 1,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Signpost 1",
+                  "narrative_function": "Past",
+                  "summary": "Genesis-Trauma verdrängt; Erasure-Logs.",
+                  "storytelling": "Akt I, Kap 1–13. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_signpost_2",
+                  "scope": "signpost",
+                  "sequence": 2,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Signpost 2",
+                  "narrative_function": "Present",
+                  "summary": "Sweeps, Kontrollprotokoll.",
+                  "storytelling": "Akt II, Kap 14–26. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_signpost_3",
+                  "scope": "signpost",
+                  "sequence": 3,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Signpost 3",
+                  "narrative_function": "Progress",
+                  "summary": "Countdown; die Architektur degradiert sichtbar.",
+                  "storytelling": "Akt III, Kap 27–34. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_signpost_4",
+                  "scope": "signpost",
+                  "sequence": 4,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Signpost 4",
+                  "narrative_function": "Future",
+                  "summary": "Ende der Operativität; Phoenix-Collapse.",
+                  "storytelling": "Vortex, Kap 35–39. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_signpost_1",
+                  "scope": "signpost",
+                  "sequence": 1,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Signpost 1",
+                  "narrative_function": "Conscious",
+                  "summary": "Kael, der unfixbare Bug.",
+                  "storytelling": "Akt I, Kap 1–13. Herkunft: author step 12 (S1/S2 from 2026-06-10); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_signpost_2",
+                  "scope": "signpost",
+                  "sequence": 2,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Signpost 2",
+                  "narrative_function": "Memory",
+                  "summary": "Kaels Erinnerung als Druck auf AEGIS.",
+                  "storytelling": "Akt II, Kap 14–26. Herkunft: author step 12 (S1/S2 from 2026-06-10); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_signpost_3",
+                  "scope": "signpost",
+                  "sequence": 3,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Signpost 3",
+                  "narrative_function": "Preconscious",
+                  "summary": "Reflexhafte Eskalation.",
+                  "storytelling": "Akt III, Kap 27–34. Herkunft: author step 12 (S1/S2 from 2026-06-10); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_signpost_4",
+                  "scope": "signpost",
+                  "sequence": 4,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Signpost 4",
+                  "narrative_function": "Subconscious",
+                  "summary": "Wieder-Verbinden; Kael gibt nach.",
+                  "storytelling": "Vortex, Kap 35–39. Herkunft: author step 12 (S1/S2 from 2026-06-10); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_signpost_1",
+                  "scope": "signpost",
+                  "sequence": 1,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Signpost 1",
+                  "narrative_function": "Doing",
+                  "summary": "Sweeps laufen, Verluste sind im Gang.",
+                  "storytelling": "Akt I, Kap 1–13. Herkunft: author step 11 (S1/S2 as the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_signpost_2",
+                  "scope": "signpost",
+                  "sequence": 2,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Signpost 2",
+                  "narrative_function": "Learning",
+                  "summary": "Anomalien erkunden.",
+                  "storytelling": "Akt II, Kap 14–26. Herkunft: author step 11 (S1/S2 as the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_signpost_3",
+                  "scope": "signpost",
+                  "sequence": 3,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Signpost 3",
+                  "narrative_function": "Understanding",
+                  "summary": "Das Muster begreifen.",
+                  "storytelling": "Akt III, Kap 27–34. Herkunft: author step 11 (S1/S2 as the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_signpost_4",
+                  "scope": "signpost",
+                  "sequence": 4,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Signpost 4",
+                  "narrative_function": "Obtaining",
+                  "summary": "Letzter Sweep; das Ziel scheitert.",
+                  "storytelling": "Vortex, Kap 35–39. Herkunft: author step 11 (S1/S2 as the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_signpost_1",
+                  "scope": "signpost",
+                  "sequence": 1,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Signpost 1",
+                  "narrative_function": "Being",
+                  "summary": "Rollen: Wächter und Host.",
+                  "storytelling": "Akt I, Kap 1–13. Herkunft: author step 12 (S1/S2 from the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_signpost_2",
+                  "scope": "signpost",
+                  "sequence": 2,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Signpost 2",
+                  "narrative_function": "Conceiving",
+                  "summary": "AEGIS formuliert Kael als unkontrollierbar um.",
+                  "storytelling": "Akt II, Kap 14–26. Herkunft: author step 12 (S1/S2 from the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_signpost_3",
+                  "scope": "signpost",
+                  "sequence": 3,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Signpost 3",
+                  "narrative_function": "Conceptualizing",
+                  "summary": "Pläne gegeneinander.",
+                  "storytelling": "Akt III, Kap 27–34. Herkunft: author step 12 (S1/S2 from the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_signpost_4",
+                  "scope": "signpost",
+                  "sequence": 4,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Signpost 4",
+                  "narrative_function": "Becoming",
+                  "summary": "Kaels Wandel, die Vortex-Inversion.",
+                  "storytelling": "Vortex, Kap 35–39. Herkunft: author step 12 (S1/S2 from the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                }
+              ]
+            },
+            "storytelling": {
+              "overviews": [
+                {
+                  "id": "overview_b_logline",
+                  "label": "Logline",
+                  "summary": "Eine KI, die ihre Welt durch lückenlose Sweeps schließen will, verliert mit jedem Sweep ihr eigenes Gedächtnis — und scheitert an dem einen Host, der lernt, was sie nie kann: zu glauben.",
+                  "storytelling": "Herkunft: author, 2026-10-05, logline (session draft from goal, consequence, costs and outcome)."
+                },
+                {
+                  "id": "overview_b_genre",
+                  "label": "Genre",
+                  "summary": "Hard-SF / Philosophical Horror / Psychological Thriller",
+                  "storytelling": "Herkunft: author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)."
+                }
+              ]
+            }
+          }
+        ],
+        "moments": [
+          {
+            "id": "moment_kap_00",
+            "act": 1,
+            "order": 0,
+            "summary": "Kap 0 · hard-b",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt B Main Character Signpost 1 (Past); B Objective Story Signpost 1 (Doing)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_mc_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_os_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_01",
+            "act": 1,
+            "order": 1,
+            "summary": "Kap 1 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 1 (Memory)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_02",
+            "act": 1,
+            "order": 2,
+            "summary": "Kap 2 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Objective Story Signpost 1 (Being)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_03",
+            "act": 1,
+            "order": 3,
+            "summary": "Kap 3 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 1 (Memory)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_04",
+            "act": 1,
+            "order": 4,
+            "summary": "Kap 4 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Influence Character Signpost 1 (Past)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_ic_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_05",
+            "act": 1,
+            "order": 5,
+            "summary": "Kap 5 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Objective Story Signpost 1 (Being)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_06",
+            "act": 1,
+            "order": 6,
+            "summary": "Kap 6 · hard-b",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt B Main Character Signpost 1 (Past); B Objective Story Signpost 1 (Doing)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_mc_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_os_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_07",
+            "act": 1,
+            "order": 7,
+            "summary": "Kap 7 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Relationship Story Signpost 1 (Learning)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_rs_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_08",
+            "act": 1,
+            "order": 8,
+            "summary": "Kap 8 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 1 (Memory)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_09",
+            "act": 1,
+            "order": 9,
+            "summary": "Kap 9 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Objective Story Signpost 1 (Being)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_10",
+            "act": 1,
+            "order": 10,
+            "summary": "Kap 10 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Relationship Story Signpost 1 (Learning)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_rs_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_11",
+            "act": 1,
+            "order": 11,
+            "summary": "Kap 11 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Influence Character Signpost 1 (Past)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_ic_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_12",
+            "act": 1,
+            "order": 12,
+            "summary": "Kap 12 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 1 (Memory)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_13",
+            "act": 1,
+            "order": 13,
+            "summary": "Kap 13 · bridge · Anker: Vortex-Vorläufer",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 1 (Memory); A Relationship Story Signpost 1 (Learning); B Influence Character Signpost 1 (Conscious); B Relationship Story Signpost 1 (Being)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_rs_signpost_1"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_ic_signpost_1"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_rs_signpost_1"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_14",
+            "act": 2,
+            "order": 14,
+            "summary": "Kap 14 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Objective Story Signpost 2 (Becoming)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_15",
+            "act": 2,
+            "order": 15,
+            "summary": "Kap 15 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 2 (Subconscious)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_16",
+            "act": 2,
+            "order": 16,
+            "summary": "Kap 16 · hard-b",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt B Main Character Signpost 2 (Present); B Objective Story Signpost 2 (Learning)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_mc_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_os_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_17",
+            "act": 2,
+            "order": 17,
+            "summary": "Kap 17 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Influence Character Signpost 2 (Progress)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_ic_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_18",
+            "act": 2,
+            "order": 18,
+            "summary": "Kap 18 · bridge · Anker: Genesis-Flashback",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 2 (Subconscious); B Influence Character Signpost 2 (Memory)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_ic_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_19",
+            "act": 2,
+            "order": 19,
+            "summary": "Kap 19 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Relationship Story Signpost 2 (Doing)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_rs_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_20",
+            "act": 2,
+            "order": 20,
+            "summary": "Kap 20 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Objective Story Signpost 2 (Becoming)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_21",
+            "act": 2,
+            "order": 21,
+            "summary": "Kap 21 · bridge · Anker: Genesis-Flashback",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Relationship Story Signpost 2 (Doing); B Relationship Story Signpost 2 (Conceiving)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_rs_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_rs_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_22",
+            "act": 2,
+            "order": 22,
+            "summary": "Kap 22 · hard-b",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt B Main Character Signpost 2 (Present); B Objective Story Signpost 2 (Learning)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_mc_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_os_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_23",
+            "act": 2,
+            "order": 23,
+            "summary": "Kap 23 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 2 (Subconscious)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_24",
+            "act": 2,
+            "order": 24,
+            "summary": "Kap 24 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Relationship Story Signpost 2 (Doing)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_rs_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_25",
+            "act": 2,
+            "order": 25,
+            "summary": "Kap 25 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Influence Character Signpost 2 (Progress)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_ic_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_26",
+            "act": 2,
+            "order": 26,
+            "summary": "Kap 26 · bridge · Anker: Vortex-Vorläufer",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 2 (Subconscious); A Objective Story Signpost 2 (Becoming); B Main Character Signpost 2 (Present); B Influence Character Signpost 2 (Memory)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_2"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_2"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_mc_signpost_2"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_ic_signpost_2"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_27",
+            "act": 3,
+            "order": 27,
+            "summary": "Kap 27 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 3 (Preconscious)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_3"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_28",
+            "act": 3,
+            "order": 28,
+            "summary": "Kap 28 · hard-b",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt B Main Character Signpost 3 (Progress); B Objective Story Signpost 3 (Understanding)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_mc_signpost_3"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_os_signpost_3"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_29",
+            "act": 3,
+            "order": 29,
+            "summary": "Kap 29 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 3 (Preconscious)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_3"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_30",
+            "act": 3,
+            "order": 30,
+            "summary": "Kap 30 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Relationship Story Signpost 3 (Obtaining)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_rs_signpost_3"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_31",
+            "act": 3,
+            "order": 31,
+            "summary": "Kap 31 · bridge · Anker: Spiegel-Alter-Szene",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Objective Story Signpost 3 (Conceiving); B Objective Story Signpost 3 (Understanding); B Relationship Story Signpost 3 (Conceptualizing)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_3"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_os_signpost_3"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_rs_signpost_3"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_32",
+            "act": 3,
+            "order": 32,
+            "summary": "Kap 32 · bridge · Anker: Spiegel-Alter-Szene",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Influence Character Signpost 3 (Present); B Influence Character Signpost 3 (Preconscious)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_ic_signpost_3"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_ic_signpost_3"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_33",
+            "act": 3,
+            "order": 33,
+            "summary": "Kap 33 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Relationship Story Signpost 3 (Obtaining)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_rs_signpost_3"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_34",
+            "act": 3,
+            "order": 34,
+            "summary": "Kap 34 · bridge · Anker: Vortex-Vorläufer",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 3 (Preconscious); A Objective Story Signpost 3 (Conceiving); B Main Character Signpost 3 (Progress); B Influence Character Signpost 3 (Preconscious)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_3"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_3"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_mc_signpost_3"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_ic_signpost_3"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_35",
+            "act": 4,
+            "order": 35,
+            "summary": "Kap 35 · bridge · Anker: Vortex selbst",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 4 (Conscious); A Objective Story Signpost 4 (Conceptualizing); B Main Character Signpost 4 (Future); B Objective Story Signpost 4 (Obtaining)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_4"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_4"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_mc_signpost_4"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_os_signpost_4"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_36",
+            "act": 4,
+            "order": 36,
+            "summary": "Kap 36 · bridge · Anker: Vortex selbst",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Influence Character Signpost 4 (Future); A Relationship Story Signpost 4 (Understanding); B Influence Character Signpost 4 (Subconscious); B Relationship Story Signpost 4 (Becoming)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_ic_signpost_4"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_rs_signpost_4"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_ic_signpost_4"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_rs_signpost_4"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_37",
+            "act": 4,
+            "order": 37,
+            "summary": "Kap 37 · hard-a",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Objective Story Signpost 4 (Conceptualizing); A Main Character Signpost 4 (Conscious)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_4"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_4"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_38",
+            "act": 4,
+            "order": 38,
+            "summary": "Kap 38 · bridge · Anker: Vortex selbst",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Relationship Story Signpost 4 (Understanding); A Influence Character Signpost 4 (Future); B Relationship Story Signpost 4 (Becoming)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_rs_signpost_4"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_ic_signpost_4"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_rs_signpost_4"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_39",
+            "act": 4,
+            "order": 39,
+            "summary": "Kap 39 · bridge · Anker: Vortex selbst",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "trägt A Main Character Signpost 4 (Conscious); A Objective Story Signpost 4 (Conceptualizing); B Main Character Signpost 4 (Future); B Influence Character Signpost 4 (Subconscious)",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_mc_signpost_4"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_os_signpost_4"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_mc_signpost_4"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_ic_signpost_4"
+              }
+            ],
+            "storypoints": []
+          },
+          {
+            "id": "moment_kap_40",
+            "act": 1,
+            "order": 40,
+            "summary": "Kap 40 · bridge · Anker: Genesis-Flashback",
+            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "setting": "offen — das Treatment",
+            "timing": "offen — das Treatment",
+            "imperatives": "Coda außerhalb der Akte, kein Signpost",
+            "audience_experiential_pov": "first_person_central",
+            "storybeats": [],
+            "storypoints": []
+          }
+        ]
+      }
+    }
+  }
+}

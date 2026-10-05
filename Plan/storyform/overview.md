@@ -64,3 +64,53 @@ Offen: the other archetypes (W10)
 Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 
 Akte und Kapitel: Akt I = Akt I, Kap 1–13 · Akt II = Akt II, Kap 14–26 · Akt III = Akt III, Kap 27–34 · Vortex = Vortex, Kap 35–39
+
+## Storyweaving (Gerüst)
+
+Aus `weave.json` (Entscheidung 025, Schritt 23). Route nach dem Skill chapter-draft-engine: hard-a = Kael und die Alters, hard-b = AEGIS als Ich (W6 C), bridge = beide Ebenen in einer Szene. Ein Strang steht mit dem Signpost seines Akts. Bestätigt je Akt: 1 ja, 2 ja, 3 ja, 4 ja.
+
+| Kap | Akt | Route | A | B | Anker |
+|---|---|---|---|---|---|
+| 0 | 1 | hard-b | — | MC·Past, OS·Doing | — |
+| 1 | 1 | hard-a | MC·Memory | — | — |
+| 2 | 1 | hard-a | OS·Being | — | — |
+| 3 | 1 | hard-a | MC·Memory | — | — |
+| 4 | 1 | hard-a | IC·Past | — | — |
+| 5 | 1 | hard-a | OS·Being | — | — |
+| 6 | 1 | hard-b | — | MC·Past, OS·Doing | — |
+| 7 | 1 | hard-a | RS·Learning | — | — |
+| 8 | 1 | hard-a | MC·Memory | — | — |
+| 9 | 1 | hard-a | OS·Being | — | — |
+| 10 | 1 | hard-a | RS·Learning | — | — |
+| 11 | 1 | hard-a | IC·Past | — | — |
+| 12 | 1 | hard-a | MC·Memory | — | — |
+| 13 | 1 | bridge | MC·Memory, RS·Learning | IC·Conscious, RS·Being | Vortex-Vorläufer |
+| 14 | 2 | hard-a | OS·Becoming | — | — |
+| 15 | 2 | hard-a | MC·Subconscious | — | — |
+| 16 | 2 | hard-b | — | MC·Present, OS·Learning | — |
+| 17 | 2 | hard-a | IC·Progress | — | — |
+| 18 | 2 | bridge | MC·Subconscious | IC·Memory | Genesis-Flashback |
+| 19 | 2 | hard-a | RS·Doing | — | — |
+| 20 | 2 | hard-a | OS·Becoming | — | — |
+| 21 | 2 | bridge | RS·Doing | RS·Conceiving | Genesis-Flashback |
+| 22 | 2 | hard-b | — | MC·Present, OS·Learning | — |
+| 23 | 2 | hard-a | MC·Subconscious | — | — |
+| 24 | 2 | hard-a | RS·Doing | — | — |
+| 25 | 2 | hard-a | IC·Progress | — | — |
+| 26 | 2 | bridge | MC·Subconscious, OS·Becoming | MC·Present, IC·Memory | Vortex-Vorläufer |
+| 27 | 3 | hard-a | MC·Preconscious | — | — |
+| 28 | 3 | hard-b | — | MC·Progress, OS·Understanding | — |
+| 29 | 3 | hard-a | MC·Preconscious | — | — |
+| 30 | 3 | hard-a | RS·Obtaining | — | — |
+| 31 | 3 | bridge | OS·Conceiving | OS·Understanding, RS·Conceptualizing | Spiegel-Alter-Szene |
+| 32 | 3 | bridge | IC·Present | IC·Preconscious | Spiegel-Alter-Szene |
+| 33 | 3 | hard-a | RS·Obtaining | — | — |
+| 34 | 3 | bridge | MC·Preconscious, OS·Conceiving | MC·Progress, IC·Preconscious | Vortex-Vorläufer |
+| 35 | 4 | bridge | MC·Conscious, OS·Conceptualizing | MC·Future, OS·Obtaining | Vortex selbst |
+| 36 | 4 | bridge | IC·Future, RS·Understanding | IC·Subconscious, RS·Becoming | Vortex selbst |
+| 37 | 4 | hard-a | OS·Conceptualizing, MC·Conscious | — | — |
+| 38 | 4 | bridge | RS·Understanding, IC·Future | RS·Becoming | Vortex selbst |
+| 39 | 4 | bridge | MC·Conscious, OS·Conceptualizing | MC·Future, IC·Subconscious | Vortex selbst |
+| 40 | — | bridge | — | — | Genesis-Flashback |
+
+Offen: the driver event at each act transition (H11): A a decision, B an action — 13/14, 26/27, 34/35; which chapter content the woven throughlines carry (the treatment)
