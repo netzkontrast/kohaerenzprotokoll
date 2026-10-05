@@ -13,18 +13,28 @@
   "problem_solving_style": "linear",
   "main_character_resolve": "steadfast",
   "main_character_growth": "stop",
-  "main_character_approach": "do_er"
+  "main_character_approach": "do_er",
+  "influence_character_resolve": "change"
  },
  "IC": {
-  "concern": "Conscious"
+  "concern": "Conscious",
+  "issue": "Doubt"
  },
  "OS": {
   "concern": "Obtaining",
   "problem": "Feeling",
   "solution": "Logic",
-  "issue": "Approach"
+  "issue": "Approach",
+  "signposts": [
+   "Doing",
+   "Learning",
+   "Understanding",
+   "Obtaining"
+  ]
  },
- "RS": {},
+ "RS": {
+  "concern": "Being"
+ },
  "_name": "b-author",
  "_source": "Autor 2026-10-02/05: Modell Bericht 05-07, Do-er, Logic = OS-Lösung, MC-Kette Progress/Fantasy/Test→Trust",
  "MC": {

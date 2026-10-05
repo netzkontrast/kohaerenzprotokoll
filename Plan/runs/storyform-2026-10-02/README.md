@@ -13,4 +13,6 @@ python3 dramatica.py check specs/a-author.json
 python3 dramatica.py where Inertia
 ```
 
-Nicht berechnet: Signpost-Reihenfolge, Beziehung der Concerns untereinander, Plot-Story-Points jenseits ihrer Ebene. Die NCP-Dateien in `../plot-2026-09-30/ncp/` sind noch nicht neu gebaut.
+- `build_ncp.py` → `ncp/storyform-a.ncp.json`, `ncp/storyform-b.ncp.json`: NCP 1.3.0 nach dem `ncp-author`-Skill (Stufen 0, 2, 3, 5, 6), Status `draft` — vier Perspektiven, neun Dynamiken, die gewählten Storypoints, die vier OS-Signposts. Das Skript baut nicht, wenn `dramatica.check` einen Fehler findet; nicht Entschiedenes bleibt leer. Schema-Validator des Skills: PASS; Checkliste §8: keine Befunde. Acht Element-Namen schreibt NCP anders (Consider, Reconsider, Self Interest, Selflessness für Morality, …); die Abbildung steht im Skript.
+
+Nicht berechnet: Signpost-Reihenfolge, Beziehung der Concerns untereinander, Plot-Story-Points jenseits ihrer Ebene. Die vorläufigen Dateien in `../plot-2026-09-30/ncp/` bleiben als Quellenposition stehen; diese hier lösen sie für die Arbeit ab.
