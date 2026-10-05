@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 7
-readings: 5
+sources: 8
+readings: 6
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
 gathered: "2026-09-16"
 ---
 
@@ -67,6 +67,10 @@ The document names a Zero-Trust function of AEGIS, in a compound, without explai
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Systemic Isolation Shield as Cerberus's
 
 The manifest names the `SIS` once, as the Systemic Isolation Shield, and gives it to a Guardian: Cerberus is the Guardian who is „the ultimate firewall and immune system of the architecture, enforcing the Systemic Isolation Shield (SIS)“ ^[aegis-persona-and-manifest-generation.md:L93]. Here the SIS is Cerberus's, a Guardian's, and not a function of AEGIS listed beside others. The manifest's matrix gives Cerberus's limitation as „Zero-trust; all novelty is inherently hostile.“ ^[aegis-persona-and-manifest-generation.md:L130].
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — twelve protocols reduced to three
+
+F2 lists twelve protocols as former candidates, `IntegrityGuardian` and `SIS` among them (L478), and asks which three or fewer show „Erasure-Sweep“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L206], consensus enforcement and a cognitive firewall so that AEGIS's function becomes legible (L486). §10 records the Kanon's decision: „AEGIS-Protokolle als Lore-Inventar.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L582] are reduced to three (L582).
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
