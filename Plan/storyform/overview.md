@@ -32,9 +32,9 @@
 
 Plot: goal **Conceptualizing** · requirements **Learning** · consequence **Past** · forewarnings **Preconscious** · costs **Being** · dividends **Becoming** · prerequisites **Memory** · preconditions **Present**
 
-Besetzung: Kael — Main Character (Inertia); Juna — Influence Character (Change); ein Alter Kaels (z. B. Lex) — offen, welches — Protagonist
+Besetzung: Kael — Main Character (Inertia); Juna — Influence Character (Change); Selene (Alter) — Protagonist (Pursuit, Consideration); Oblivion (Alter) — Antagonist (Avoid, Reconsideration)
 
-Offen: RS focus/direction: the pair Knowledge/Thought, order open; which alter is the protagonist; antagonist and the other archetypes (W10); logline, genre
+Offen: RS focus/direction: the pair Knowledge/Thought, order open; logline, genre
 
 Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 

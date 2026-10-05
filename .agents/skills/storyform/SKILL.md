@@ -35,6 +35,8 @@ python3 scripts/dramatica.py derive twelve.json    # what the engine fixes from 
   has no provenance. Fix the JSON.
 - **`note`** — the stated value differs from what the reverse-engineered engine rules (D1–D7) derive. **That is a
   question for the author, never a silent fix**: present both, with what each means for the plot.
+- **Two Guardians.** The Dramatica archetype is the *Guardian-Archetyp*; the novel's five Guardians (LogOS, Mnemosyne,
+  Cerberus, Kairos, Sophia) are characters of the world. Never write one for the other.
 - **What no tool can give:** the signpost order (licensed Dramatica intelligence, not published), B's IC problem,
   and every meaning. Those are the author's — chosen after searching the sources (`qmd`, `grep`, `read.py --find`).
 

@@ -83,6 +83,13 @@ with the consequences of each option laid out.
     have multiple personalities" — Sybil); A's protagonist is an alter (which one is open — Lex was the example);
     in B, AEGIS is protagonist and holds Logic (the Reason function), Kael is antagonist and holds Feeling (Emotion).
     Recorded under `players` in `Plan/storyform/a.json` and `b.json`.
+18. **Casting A (W10, 2026-10-05).** Protagonist **Selene** (Pursuit, Consideration — „Architektin innerer
+    Harmonie" pursues the plan); antagonist **Oblivion** (Avoid, Reconsideration — „Internalisierte Löschlogik", AEGIS
+    inside Kael, the structural bridge to B). The other six archetypes wait for the treatment pilot (W10 C); the
+    session's proposal is kept in `a.json` as an open point. Archetype elements follow the Dramatica book
+    (`02-characters.md`): the dramatica-vocabulary skill's table gives Reason „Logic + Knowledge" and Emotion „Feeling
+    + Ability", which the book does not (Control-Logic, Uncontrolled-Feeling). **Naming:** the Dramatica archetype is
+    written *Guardian-Archetyp*; the novel's five Guardians are a different thing.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10), logline and genre;

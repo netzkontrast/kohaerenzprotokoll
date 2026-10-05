@@ -107,15 +107,26 @@
    "by": "H8, step 9a"
   },
   {
-   "name": "ein Alter Kaels (z. B. Lex) — offen, welches",
+   "name": "Selene (Alter)",
    "role": "Protagonist",
-   "os_elements": [],
-   "by": "author, casting 2 (2026-10-05): an alter pursues the goal; alters are OS characters in Kael's player"
+   "os_elements": [
+    "Pursuit",
+    "Consideration"
+   ],
+   "by": "author, casting A-1 (2026-10-05): „Architektin innerer Harmonie“ (Charakter-Bibel L494) pursues the plan"
+  },
+  {
+   "name": "Oblivion (Alter)",
+   "role": "Antagonist",
+   "os_elements": [
+    "Avoid",
+    "Reconsideration"
+   ],
+   "by": "author, casting A-2 (2026-10-05): „Internalisierte Löschlogik“ (Charakter-Bibel L762) — AEGIS inside Kael, the bridge to B"
   }
  ],
  "open": [
   "RS focus/direction: the pair Knowledge/Thought, order open",
-  "which alter is the protagonist; antagonist and the other archetypes (W10)",
   "logline, genre"
  ],
  "texts": {
