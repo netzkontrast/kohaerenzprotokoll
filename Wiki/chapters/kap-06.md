@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -93,6 +93,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „in Sektor B-7 hat sich ein Korridor stabilisiert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L180]; „Beide Reports widersprechen sich in der Klassifikation“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L180]
 - The seeding table lists for Kap 6 a code cooling island: „LogOS findet Sektor mit Null-Erasure-Aktivität“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L143].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Shattering of Logos
+
+Title: „The Shattering of Logos“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L165]
+Position: Akt I; POV: „POV: Nyx.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L173]
+
+- Story: the outline plans „wird Kaels Bewusstsein zwangsweise in Core World 2 transferiert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L171]
+- Story: the outline plans „bricht an die Oberfläche und flieht durch den zerfallenden Code“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L171]
+- Concepts: „ZTEM-Protokoll, Nyx (Alter), Core World 2 (Resonanzlandschaft)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L169]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
