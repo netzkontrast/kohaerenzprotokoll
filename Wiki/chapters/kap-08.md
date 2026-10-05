@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht, auf eine spezifische traumatische Erinnerung zuzugreifen oder sie abzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „nicht vergessen, aber vielleicht 'verschwommen', 'korrumpiert' oder emotional 'gedämpft'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „vielleicht interveniert ein Guardian wie Mnemosyne subtil, um Kaels Gedanken umzulenken“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120] · „Kael könnte 'Lücken' oder Inkonsistenzen in seiner eigenen Erzählung finden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Descent to the goddess
+
+Title: „Abstieg zur Göttin“ ^[romanstruktur-und-philosophische-einleitung.md:L83]
+Position: Teil I, „Konfrontation mit der Kernwunde“ ^[romanstruktur-und-philosophische-einleitung.md:L83]
+
+- Story: „Im absoluten Nullpunkt der Existenz wird Kael gezwungen“ ^[romanstruktur-und-philosophische-einleitung.md:L85] to face the core trauma memory
+- Story: the bearer of the wound is hedged, `vermutlich` Moros or a still deeper part; the scene is „Die Szene ist schmerzhaft, viszeral und frei von heldenhaftem Pathos.“ ^[romanstruktur-und-philosophische-einleitung.md:L87]
+- Table 1 (Teil I) on Moros: „Träger der Kernwunde, Konfrontation in Kap. 8.“ ^[romanstruktur-und-philosophische-einleitung.md:L129]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
