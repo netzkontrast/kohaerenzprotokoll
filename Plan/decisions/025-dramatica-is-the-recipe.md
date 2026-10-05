@@ -231,6 +231,15 @@ with the consequences of each option laid out.
     (the reading of `kontext-outline`, not „Kael is 734“); Kael's own relation to 734 stays open (Q7). **Four beats**,
     the fourth (Wir-AEGIS-plural) completed in Kap 39 — C12 decided. Consequence for the event table of Akt I: the
     line AEGIS files under 734 in Kap 6 points at AEGIS' own origin, not simply at Kael.
+43. **Q8, the end of B, and B's clock (2026-10-05).** After the Vortex the monolithic AEGIS goes out and a plural one
+    arises, in Kap 39 with the fourth beat (W12); the reading of the consolidated concept (L265). **Storyform B runs
+    until Kap 39**, not only to the Vortex's fifth beat as the status report of 2026-05-07 has it (L279, L363): the
+    weave stays as it is, Kap 38 and 39 bridges, Kap 37 hard-a. Whether Oblivion takes over AEGIS' function inside
+    Kael the author left open (the second half of Q8). **B's timelock is the waste-heat budget** — AEGIS' thermodynamic
+    reserve, spent by every sweep, exhausted at the Vortex (Beat 4, the Landauer heat); `b.json` `clock`, in the
+    overview and the NCP. A's optionlock has no concrete limit yet. `storyform.py` now also refuses a chapter proposal
+    in `development.json` whose storypoint the weave does not give that chapter, and notes woven throughlines no
+    proposal references (39 at present).
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

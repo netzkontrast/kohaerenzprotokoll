@@ -68,7 +68,7 @@ def leaves(sf):
         out.update({f"{t}.{k}": v for k, v in sf[t].items()})
     out.update({f"plot.{k}": v for k, v in sf["plot"].items()})
     out.update({f"story.{k}": v for k, v in sf.get("story", {}).items()})
-    out.update({k: sf[k] for k in ("logline", "genre") if sf.get(k)})
+    out.update({k: sf[k] for k in ("logline", "genre", "clock") if sf.get(k)})
     return out
 
 
@@ -141,7 +141,9 @@ def ncp(sf, weave=None, kanon=None):
     persp = [{"id": PID[t], "author_structural_pov": tx["perspectives"][t][0], "summary": tx["perspectives"][t][1],
               "storytelling": tx["perspectives"][t][2]} for t in TL]
     dyn = [{"id": f"dyn_{d}", "dynamic": d, "vector": sf["dynamics"][d], "summary": f"{d} = {sf['dynamics'][d]}",
-            "storytelling": f"{src}; {sf['provenance'][f'dynamics.{d}']}."} for d in DYN_ORDER]
+            "storytelling": f"{src}; {sf['provenance'][f'dynamics.{d}']}."
+                            + (f" Die Uhr: {sf['clock']} (Herkunft: {sf['provenance']['clock']})." if d == "story_limit" and sf.get("clock") else "")}
+           for d in DYN_ORDER]
     sps = []
 
     def sp(appr, fn, tl, illus, story):
@@ -240,6 +242,7 @@ def overview(forms):
         L += ["", f"## {sf['title']}", ""]
         L += [f"**Logline:** „{sf['logline']}\"", ""] if sf.get("logline") else []
         L += [f"**Genre:** {sf['genre']}", ""] if sf.get("genre") else []
+        L += [f"**Die Uhr ({sf['dynamics']['story_limit']}):** {sf['clock']}", ""] if sf.get("clock") else []
         L += ["| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Benchmark | Akte |", "|---|---|---|---|---|---|---|---|"]
         for t in TL:
             s = sf[t]
@@ -431,7 +434,28 @@ def development_audit(dev, weave, forms):
                     errors.append(f"{prefix}: duplicate storypoint {ref!r}")
                 else:
                     seen.add(tuple(ref))
+                    woven = weave["chapters"].get(key, {}).get(ref[0], [])
+                    line = next((t for t, name in TL.items() if ref[1].startswith(name)), None)
+                    if not woven and key != str(weave["b_prologue"]):
+                        errors.append(f"{prefix}: {ref!r} — the weave gives storyform {ref[0]} nothing in this chapter")
+                    elif line and line not in woven:
+                        errors.append(f"{prefix}: {ref!r} — the weave gives {ref[0]} only {woven} here, not {line}")
     return errors
+
+
+def development_notes(dev, weave):
+    """Woven throughlines a chapter's proposal never references — a gap to look at, not an error."""
+    notes = []
+    for key, row in (dev or {}).get("chapters", {}).items():
+        c = weave["chapters"].get(key)
+        if not c or not isinstance(row, dict):
+            continue
+        refs = row.get("storypoints") or []
+        for side in ("A", "B"):
+            for t in c[side]:
+                if not any(r[0] == side and r[1].startswith(TL[t]) for r in refs):
+                    notes.append(f"Kap {key}: {side}-{t} is woven but no {TL[t]} point is referenced")
+    return notes
 
 
 def development_synopsis(row):
@@ -614,6 +638,9 @@ def run(check_only=False):
     for e in development_audit(development, weave, forms) if development and weave else []:
         print(f"ERROR {e}")
         failed = True
+    gaps = development_notes(development, weave) if development and weave else []
+    if gaps:
+        print(f"note  development: {len(gaps)} woven throughlines no proposal references, e.g. {gaps[0]}")
     if failed:
         print("refused: nothing written")
         return 1
@@ -750,6 +777,10 @@ def selftest():
             ("unknown chapter", lambda d: d["chapters"].update({"99": d["chapters"]["1"]}), "no woven chapter"),
             ("missing source", lambda d: d["chapters"]["1"].update(sources=["Plan/nonexistent-source.md"]), "missing or invalid source"),
             ("unknown storypoint", lambda d: d["chapters"]["1"].update(storypoints=[["A", "Invented Point"]]), "unknown storypoint"),
+            ("a B point where the weave gives B nothing", lambda d: d["chapters"]["1"].update(storypoints=[["B", "Story Costs"]]),
+             "gives storyform B nothing"),
+            ("a throughline point the weave does not give", lambda d: d["chapters"]["1"].update(
+                storypoints=[["A", "Relationship Story Concern"]]), "not RS"),
             ("structural override", lambda d: d["chapters"]["1"].update(route="hard-b"), "structural overrides"),
             ("empty knowledge", lambda d: d["chapters"]["1"].update(knowledge=""), "empty knowledge")
         ]:

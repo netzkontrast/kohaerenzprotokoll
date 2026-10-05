@@ -30,6 +30,7 @@ eine Weiche gilt dort nur als Kanon, wenn sie eine `id` aus dieser Tabelle nennt
 | Q3 | 2026-10-05 | Das Buch trägt dreizehn Anteile: Kael, Lex, Alex, Rhys, Selene, Argus, Nyx, Isabelle, Kiko, Lia, Moros, Silas, Oblivion. Isabelle ist gemäß W10-A Teil von Nyx; die ausgeschriebene Liste ändert diese Zuordnung nicht. Die Weltzahl ist seit Schritt 35 vier (Zeile Kernwelten); offen sind Namen und Zuordnung der Guardians, nicht mehr die Zahl. | `Plan/decisions/025-dramatica-is-the-recipe.md` |
 | Kernwelten | 2026-10-05 | Vier Kernwelten tragen die Akte wie im Worldbuilding-Konzept vom 2026-05-08: KW1 Kap 1–13, KW2 Kap 14–22, KW3 Kap 23–28 (über die Aktgrenze), KW4 Kap 29–39 mit dem Vortex; Kap 0 und 40 sind der Rahmen. Es sind getrennte Welten (W8 A), deren Grenzen etwas kosten. Die Namen von KW2–KW4 und die Guardians (Q5) sind nicht entschieden. | `Plan/storyform/weave.json` |
 | W12 | 2026-10-05 | Die Genesis und Kaels Fragmentierungsnacht sind ein Ereignis auf zwei Ebenen. AEGIS stammt aus Komponente 734. Die Genesis hat vier Schritte: Einheit, Cluster, Trennungsprotokoll, Wir-AEGIS-plural, der vierte vollzogen in Kap 39. Kaels Verhältnis zu 734 bleibt offen (Q7). | `Plan/weichen/w12-genesis.md` |
+| Q8 | 2026-10-05 | Nach dem Vortex erlischt AEGIS-monolithisch, und AEGIS-plural entsteht, in Kap 39 mit dem vierten Schritt der Genesis. Storyform B läuft bis Kap 39. Ihre Uhr ist das Abwärmebudget. Ob Oblivion AEGIS' Funktion in Kael übernimmt, bleibt offen. | `Wiki/questions/q8-aegis-after-the-vortex.md` |
 
 ## Freigegebene Kapitel
 
