@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C12", "C10"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,14 @@ Position: Teil III, „Offener Ausblick“ ^[romanstruktur-und-philosophische-ei
 - Story: „Der Roman endet mit einem Zustand der Offenheit.“ ^[romanstruktur-und-philosophische-einleitung.md:L280]
 - Story: „Das Ende ist ambivalent: Die Freiheit ist anstrengend.“ ^[romanstruktur-und-philosophische-einleitung.md:L282]
 - Kapitel 40/0 looks back at it: „am Ende von Kapitel 39 in seiner Freiheit“ ^[romanstruktur-und-philosophische-einleitung.md:L294]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der erste Atemzug
+
+Title: „Der erste Atemzug“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L370]
+Position: Teil III; setting from the `Schauplatz` field: „Eine neue, offene Realitätsebene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L372]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L373]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael und Juna existieren physisch vereint in einer Realität“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L375] and „Kael nimmt den ersten bewussten Atemzug in echter“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L375]
 
 ## Reading — `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`, 2026-02-25, the Meta-Foreshadowing plan — a plan; what the final chapter must describe
 
