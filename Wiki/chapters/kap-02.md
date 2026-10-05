@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -98,6 +98,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Encoding A: „OS · SP1 (Conceptualizing) · Falsehood · Decision (im Hintergrund — Kael nicht im Bild)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L164]
 - Change 3 gives the chapter's seed as a „Phantom-Resonanz mit ausgleichender Erasure-Bilanz“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L21].
 - Foreshadowing level 3 lists „Die Zahl 734 (Kap 2, Kap 10, Kap 25)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Logic of the City
+
+Title: „The Logic of the City“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L53]
+Position: Akt I; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L61]
+
+- Story: the outline plans „wird das Controlled Fragmentation Protocol ausgelöst“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L59]
+- Story: the outline plans „Kael spürt unter immensem mentalem Schmerz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L59]
+- Concepts: „Controlled Fragmentation Protocol (CFP), LogOS, TSDP“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L57]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
