@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 25
-readings: 25
+sources: 26
+readings: 26
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json"]
 gathered: "2026-09-17"
 ---
 
@@ -57,6 +57,12 @@ The report's table of the Kernwelten gives the `Externe Ebene` as „Köln, Febr
 
 In Leitfrage 8 the report proposes, as scene logic, that „Kael durchbricht die Rendering-Grenzen und erwacht in Köln, Februar 2026“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]; the Externe Ebene is „Die Externe Ebene ist zutiefst gleichgültig gegenüber seinem Zustand“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]. The Teil III plot has him there recognise „wo er die schockierende Realität seiner KPTBS und DIS im Kontext der realen Juna erkennt“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L29].
 
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — the table row, Köln, Februar 2026, and the break-through of Akt III
+
+The research report lists the Externe Ebene as the last row of its table of levels, with the label `Externe Ebene (Köln, Februar 2026)`: „in der Kael als traumatisierter Patient mit KPTBS, ADHS und DIS existiert, betreut von seiner Partnerin Juna.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L79] Its physics column reads „Normale irdische Physik, begrenzt durch die metabolischen und kognitiven Schranken der menschlichen Biologie.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L79]
+
+In Akt III (8.3) the report has Kael break in: „Kael bricht in die Externe Ebene durch und“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L217] wake in Köln in February 2026. It states what he grasps there as „Die allmächtige KI AEGIS war niemals eine externe Maschine“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L217] — a reading of the level as the place where the simulation is understood as his own mental effort, which the report states as fact of its account of the plot without calling the level inside or outside the simulation.
+
 ## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Köln as the base reality (W-06) and open question 3
 
 The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
@@ -67,6 +73,7 @@ Row W-06, `Externe Ebene (Köln)` (three stars): „Basisrealität, in der Kael 
 
 - the research report places Köln, February 2026 as the real world, „Reale Welt / Basis der KPTBS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56], which Kael breaks into from the rendering.
 - Both parts place the Externe Ebene outside AEGIS's reach — „a realm outside AEGIS's simulated reality and its capacity for understanding“ ^[ai-assisted-narrative-coherence.md:L601] in the concept document; the architecture analysis says it lies beyond AEGIS's direct control.
+- the research report places the Externe Ebene as the physical reality of a patient in Köln, Februar 2026 (L79), reached by a break-through in Akt III (L217); it does not use `Basisrealität`
 
 ## Open
 
