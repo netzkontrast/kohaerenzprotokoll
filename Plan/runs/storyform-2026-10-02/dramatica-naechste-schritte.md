@@ -40,12 +40,12 @@
 - **Wozu:** Sie sind das Werkzeug für das Tempo, gerade für Akt II mit seinen drei Zyklen. Ein Kandidat für A ist das
   Wartungsfenster als Catalyst (aus der Ereignistabelle), ein Kandidat für den Inhibitor das Vergessen selbst.
 
-### 4. Die Journeys, drei je Throughline
+### 4. Die Journeys, drei je Throughline — **erledigt 2026-10-05** (Schritt 44, `journeys.json`)
 - **Was:** die Übergänge zwischen den Signposts, 1→2, 2→3, 3→4.
 - **Wozu:** Sie sind die Brücke zwischen der Szenenliste und dem Treatment. Für Akt I und II sind sie in den Listen
   implizit, für Akt III und den Vortex fehlen sie.
 
-### 5. Szenenlisten für Akt III (Kap 27–34) und den Vortex (Kap 35–39)
+### 5. Szenenlisten für Akt III (Kap 27–34) und den Vortex (Kap 35–39) — **erledigt 2026-10-05** (Schritt 44, in `development.json`)
 - **Wozu:** Damit stehen alle 41 Bewegungen im selben Raster.
 - **Hängt an:**
   - der Übergang 34/35 (H11 steht);

@@ -169,6 +169,37 @@ Lager: **Suche** Rhys, Kiko, Lia, Silas; **Abwehr** Nyx, Isabelle, Alex; **Verme
 | 37 | Lex | Stimme | Der falsche Friede: die Ordnung kehrt zurück, scheinbar. |
 | 38, 39 | Lex, Alex, Rhys, Selene, Argus, Nyx, Isabelle, Kiko, Lia, Moros, Silas, Oblivion | Stimme | Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden. |
 
+## Die Journeys (Vorschlag)
+
+Aus `journeys.json` (Entscheidung 025, Schritt 44): der Übergang von Signpost zu Signpost an den Aktübergängen. Die Richtung folgt aus den Signposts, der Inhalt ist ein Vorschlag.
+
+| | Strang | Übergang | von → nach | Inhalt |
+|---|---|---|---|---|
+| A | OS | 13/14 | Being → Becoming | Die Fassade der Rollen bricht: Aus Anteilen, die ihre Rolle halten, wird ein Ensemble, das aufbricht; die erste Welle. |
+| A | OS | 26/27 | Becoming → Conceiving | Aus dem Aufbrechen wird ein Einfall: Die Lager, die sich in Kap 26 entschieden haben, suchen eine neue Idee vom Wir. |
+| A | OS | 34/35 | Conceiving → Conceptualizing | Aus dem Einfall wird ein Plan: Im Vortex entwirft sich das Wir als Ziel des Ganzen. |
+| A | MC | 13/14 | Memory → Subconscious | Von der Erinnerungslosigkeit zur Sehnsucht: Kael verlässt das Register und stößt auf das, was er will. |
+| A | MC | 26/27 | Subconscious → Preconscious | Von der Sehnsucht zu den Reflexen: Was er will, muss er im Labyrinth unter Stress tun, mit Absicht. |
+| A | MC | 34/35 | Preconscious → Conscious | Von den Reflexen zur bewussten Entscheidung: Im Vortex erkennt er wieder, was er war, und entscheidet. |
+| A | IC | 13/14 | Past → Progress | Junas Resonanz wird Bewegung: Aus der Erinnerung an das Davor wird ein Leben, das weiterläuft. |
+| A | IC | 26/27 | Progress → Present | Aus dem weiterlaufenden Leben wird Gegenwart: Juna ist erreichbar; die Begegnung in Kap 32. |
+| A | IC | 34/35 | Present → Future | Aus der Gegenwart wird Zukunft: Juna manifestiert sich, ihre Zukunft und seine. |
+| A | RS | 13/14 | Learning → Doing | Von der gespürten Präsenz zum Werkzeug: Die Verbindung wird benutzt. |
+| A | RS | 26/27 | Doing → Obtaining | Vom Werkzeug zur Ressource: Was sie haben, ist der Kanal, und er ist angreifbar. |
+| A | RS | 34/35 | Obtaining → Understanding | Von der Ressource zum Verstehen ohne Worte: Sie hören auf, den Kanal zu benutzen, und verstehen. |
+| B | OS | 13/14 | Doing → Learning | Von den Sweeps zum Erkunden: Was sich nicht löschen lässt, muss AEGIS untersuchen. |
+| B | OS | 26/27 | Learning → Understanding | Vom Erkunden zum Begreifen: AEGIS begreift das Muster der Anomalien. |
+| B | OS | 34/35 | Understanding → Obtaining | Vom Begreifen zum letzten Sweep: Das Ziel scheitert, das Abwärmebudget ist aufgebraucht. |
+| B | MC | 13/14 | Past → Present | Vom verdrängten Genesis-Trauma zum Kontrollprotokoll: Die Vergangenheit wird das Jetzt der Sweeps. |
+| B | MC | 26/27 | Present → Progress | Vom Jetzt zum Countdown: Die Architektur degradiert sichtbar, das Abwärmebudget fällt. |
+| B | MC | 34/35 | Progress → Future | Vom Countdown zum Ende der Operativität: AEGIS-monolithisch erlischt und wird plural, in Kap 39. |
+| B | IC | 13/14 | Conscious → Memory | Vom unfixbaren Bug zur Erinnerung als Druck: Kael erinnert, was AEGIS gelöscht hat. |
+| B | IC | 26/27 | Memory → Preconscious | Von der Erinnerung zur reflexhaften Eskalation: Kael wird für AEGIS unberechenbar. |
+| B | IC | 34/35 | Preconscious → Subconscious | Von der Eskalation zum Nachgeben: Kael gibt nach, und darin verbindet er wieder. |
+| B | RS | 13/14 | Being → Conceiving | Von den Rollen Wächter und Host zur Umdeutung: AEGIS formuliert Kael als unkontrollierbar. |
+| B | RS | 26/27 | Conceiving → Conceptualizing | Von der Umdeutung zu Plänen gegeneinander: Wächter und Host entwerfen sich als Gegner. |
+| B | RS | 34/35 | Conceptualizing → Becoming | Von den Plänen zur Verwandlung: die Vortex-Inversion, Kaels Wandel. |
+
 ## Kapitelentwicklung (Vorschläge)
 
 Aus `development.json`. Alle Ausführungen sind offen; Struktur und Kanon werden daraus nicht geändert.

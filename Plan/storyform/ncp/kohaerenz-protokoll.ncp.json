@@ -1294,6 +1294,186 @@
                   ]
                 },
                 {
+                  "id": "beat_os_journey_1",
+                  "scope": "progression",
+                  "sequence": 1,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Journey 1",
+                  "narrative_function": "Becoming",
+                  "summary": "Being → Becoming (13/14)",
+                  "storytelling": "Die Fassade der Rollen bricht: Aus Anteilen, die ihre Rolle halten, wird ein Ensemble, das aufbricht; die erste Welle. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_journey_2",
+                  "scope": "progression",
+                  "sequence": 2,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Journey 2",
+                  "narrative_function": "Conceiving",
+                  "summary": "Becoming → Conceiving (26/27)",
+                  "storytelling": "Aus dem Aufbrechen wird ein Einfall: Die Lager, die sich in Kap 26 entschieden haben, suchen eine neue Idee vom Wir. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_journey_3",
+                  "scope": "progression",
+                  "sequence": 3,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Journey 3",
+                  "narrative_function": "Conceptualizing",
+                  "summary": "Conceiving → Conceptualizing (34/35)",
+                  "storytelling": "Aus dem Einfall wird ein Plan: Im Vortex entwirft sich das Wir als Ziel des Ganzen. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_journey_1",
+                  "scope": "progression",
+                  "sequence": 1,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Journey 1",
+                  "narrative_function": "Subconscious",
+                  "summary": "Memory → Subconscious (13/14)",
+                  "storytelling": "Von der Erinnerungslosigkeit zur Sehnsucht: Kael verlässt das Register und stößt auf das, was er will. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_journey_2",
+                  "scope": "progression",
+                  "sequence": 2,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Journey 2",
+                  "narrative_function": "Preconscious",
+                  "summary": "Subconscious → Preconscious (26/27)",
+                  "storytelling": "Von der Sehnsucht zu den Reflexen: Was er will, muss er im Labyrinth unter Stress tun, mit Absicht. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_journey_3",
+                  "scope": "progression",
+                  "sequence": 3,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Journey 3",
+                  "narrative_function": "Conscious",
+                  "summary": "Preconscious → Conscious (34/35)",
+                  "storytelling": "Von den Reflexen zur bewussten Entscheidung: Im Vortex erkennt er wieder, was er war, und entscheidet. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_journey_1",
+                  "scope": "progression",
+                  "sequence": 1,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Journey 1",
+                  "narrative_function": "Progress",
+                  "summary": "Past → Progress (13/14)",
+                  "storytelling": "Junas Resonanz wird Bewegung: Aus der Erinnerung an das Davor wird ein Leben, das weiterläuft. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_journey_2",
+                  "scope": "progression",
+                  "sequence": 2,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Journey 2",
+                  "narrative_function": "Present",
+                  "summary": "Progress → Present (26/27)",
+                  "storytelling": "Aus dem weiterlaufenden Leben wird Gegenwart: Juna ist erreichbar; die Begegnung in Kap 32. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_journey_3",
+                  "scope": "progression",
+                  "sequence": 3,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Journey 3",
+                  "narrative_function": "Future",
+                  "summary": "Present → Future (34/35)",
+                  "storytelling": "Aus der Gegenwart wird Zukunft: Juna manifestiert sich, ihre Zukunft und seine. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_journey_1",
+                  "scope": "progression",
+                  "sequence": 1,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Journey 1",
+                  "narrative_function": "Doing",
+                  "summary": "Learning → Doing (13/14)",
+                  "storytelling": "Von der gespürten Präsenz zum Werkzeug: Die Verbindung wird benutzt. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_journey_2",
+                  "scope": "progression",
+                  "sequence": 2,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Journey 2",
+                  "narrative_function": "Obtaining",
+                  "summary": "Doing → Obtaining (26/27)",
+                  "storytelling": "Vom Werkzeug zur Ressource: Was sie haben, ist der Kanal, und er ist angreifbar. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_journey_3",
+                  "scope": "progression",
+                  "sequence": 3,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Journey 3",
+                  "narrative_function": "Understanding",
+                  "summary": "Obtaining → Understanding (34/35)",
+                  "storytelling": "Von der Ressource zum Verstehen ohne Worte: Sie hören auf, den Kanal zu benutzen, und verstehen. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
                   "id": "beat_anteil_01",
                   "scope": "event",
                   "sequence": 1,
@@ -2901,6 +3081,186 @@
                   "narrative_function": "Becoming",
                   "summary": "Kaels Wandel, die Vortex-Inversion.",
                   "storytelling": "Vortex, Kap 35–39. Herkunft: author step 12 (S1/S2 from the outline 2026-05-18); nicht berechnet.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_journey_1",
+                  "scope": "progression",
+                  "sequence": 1,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Journey 1",
+                  "narrative_function": "Learning",
+                  "summary": "Doing → Learning (13/14)",
+                  "storytelling": "Von den Sweeps zum Erkunden: Was sich nicht löschen lässt, muss AEGIS untersuchen. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_journey_2",
+                  "scope": "progression",
+                  "sequence": 2,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Journey 2",
+                  "narrative_function": "Understanding",
+                  "summary": "Learning → Understanding (26/27)",
+                  "storytelling": "Vom Erkunden zum Begreifen: AEGIS begreift das Muster der Anomalien. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_os_journey_3",
+                  "scope": "progression",
+                  "sequence": 3,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Journey 3",
+                  "narrative_function": "Obtaining",
+                  "summary": "Understanding → Obtaining (34/35)",
+                  "storytelling": "Vom Begreifen zum letzten Sweep: Das Ziel scheitert, das Abwärmebudget ist aufgebraucht. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_journey_1",
+                  "scope": "progression",
+                  "sequence": 1,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Journey 1",
+                  "narrative_function": "Present",
+                  "summary": "Past → Present (13/14)",
+                  "storytelling": "Vom verdrängten Genesis-Trauma zum Kontrollprotokoll: Die Vergangenheit wird das Jetzt der Sweeps. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_journey_2",
+                  "scope": "progression",
+                  "sequence": 2,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Journey 2",
+                  "narrative_function": "Progress",
+                  "summary": "Present → Progress (26/27)",
+                  "storytelling": "Vom Jetzt zum Countdown: Die Architektur degradiert sichtbar, das Abwärmebudget fällt. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_mc_journey_3",
+                  "scope": "progression",
+                  "sequence": 3,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Journey 3",
+                  "narrative_function": "Future",
+                  "summary": "Progress → Future (34/35)",
+                  "storytelling": "Vom Countdown zum Ende der Operativität: AEGIS-monolithisch erlischt und wird plural, in Kap 39. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_journey_1",
+                  "scope": "progression",
+                  "sequence": 1,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Journey 1",
+                  "narrative_function": "Memory",
+                  "summary": "Conscious → Memory (13/14)",
+                  "storytelling": "Vom unfixbaren Bug zur Erinnerung als Druck: Kael erinnert, was AEGIS gelöscht hat. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_journey_2",
+                  "scope": "progression",
+                  "sequence": 2,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Journey 2",
+                  "narrative_function": "Preconscious",
+                  "summary": "Memory → Preconscious (26/27)",
+                  "storytelling": "Von der Erinnerung zur reflexhaften Eskalation: Kael wird für AEGIS unberechenbar. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_ic_journey_3",
+                  "scope": "progression",
+                  "sequence": 3,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Journey 3",
+                  "narrative_function": "Subconscious",
+                  "summary": "Preconscious → Subconscious (34/35)",
+                  "storytelling": "Von der Eskalation zum Nachgeben: Kael gibt nach, und darin verbindet er wieder. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_journey_1",
+                  "scope": "progression",
+                  "sequence": 1,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Journey 1",
+                  "narrative_function": "Conceiving",
+                  "summary": "Being → Conceiving (13/14)",
+                  "storytelling": "Von den Rollen Wächter und Host zur Umdeutung: AEGIS formuliert Kael als unkontrollierbar. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_journey_2",
+                  "scope": "progression",
+                  "sequence": 2,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Journey 2",
+                  "narrative_function": "Conceptualizing",
+                  "summary": "Conceiving → Conceptualizing (26/27)",
+                  "storytelling": "Von der Umdeutung zu Plänen gegeneinander: Wächter und Host entwerfen sich als Gegner. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_rs_journey_3",
+                  "scope": "progression",
+                  "sequence": 3,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Journey 3",
+                  "narrative_function": "Becoming",
+                  "summary": "Conceptualizing → Becoming (34/35)",
+                  "storytelling": "Von den Plänen zur Verwandlung: die Vortex-Inversion, Kaels Wandel. Herkunft: author, 2026-10-05 (step 44): „Die Journeys“ chosen; the texts are the session's proposals from the signpost texts, the weave's transitions and development.json — not canon.",
                   "perspectives": [
                     {
                       "perspective_id": "persp_relationship_story"
