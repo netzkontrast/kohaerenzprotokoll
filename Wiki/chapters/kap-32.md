@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,15 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 - Flucht: „Er nutzt sein Verständnis von M und das "Tor", um die Simulation zu verlassen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L361] (raising questions about the „äußere“ ^[monstergruppe-primzahlen-plot-blueprint.md:L361] reality).
 - Transformation: „Er nutzt seine Verbindung zu M, um die Kernwelt nach kohärenteren Prinzipien umzugestalten, AEGIS' Kontrolle zu brechen und vielleicht eine neue Art von Realität zu schaffen.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L362]
 - Harmonie/Transzendenz: „Er löst seine individuelle Form auf und geht eine tiefere Verbindung mit dem M-Fundament ein, wird Teil seiner Dynamik“ ^[monstergruppe-primzahlen-plot-blueprint.md:L363] — „ein Zustand jenseits menschlichen Verständnisses, potenziell erleuchtend oder erschreckend“ ^[monstergruppe-primzahlen-plot-blueprint.md:L363] (loss of self).
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Im Auge des Sturms: Konfrontation mit AEGIS' Kern
+
+Title: the commission titles the chapter „Im Auge des Sturms: Konfrontation mit AEGIS' Kern“ ^[kontext-outline.md:L423], placed in Act 3. Position: `Setting` „Kern der Überwelt“ ^[kontext-outline.md:L429]
+
+- Theme: the commission's `Core Theme` is „Ambivalenz von Ordnung und Kontrolle; Finale Reflexion“ ^[kontext-outline.md:L425]
+- Story: its `Plot Summary` plans „Ist AEGIS nur Monster?“ ^[kontext-outline.md:L426]
+- Foci: `Kael Sys Focus` „Erkennen Grautöne?“ ^[kontext-outline.md:L427]; `AEGIS Focus` „präsentiert evtl. Argumente für eigene Notwendigkeit“ ^[kontext-outline.md:L428]
+- Notes: „Not So Different Reveal?“ ^[kontext-outline.md:L432]
 
 ## Reading — `outline`, 2025-07-30, the outline — Die Geburt der Selene: Integration am Wendepunkt / Der Sturz des LogOS
 
