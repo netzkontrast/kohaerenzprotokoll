@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -64,6 +64,14 @@ Position: Teil I, „Annahme der Fragmentierung“ ^[romanstruktur-und-philosoph
 
 - Story: „Kael akzeptiert zum ersten Mal bewusst“ ^[romanstruktur-und-philosophische-einleitung.md:L73] that he is many, not one
 - Story: „Diese Akzeptanz markiert die Initiation in eine neue Form des Seins.“ ^[romanstruktur-und-philosophische-einleitung.md:L75]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Architektur der Isolation
+
+Title: „Die Architektur der Isolation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L99]
+Position: Teil I; setting from the `Schauplatz` field: „Cerberus-Labyrinth (KW3) – Brutalistische Außenmauern“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L101]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Alex (Protektor), Nyx (Kämpfer), Cerberus (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L102]
+- Story: the blueprint plans, in `Plot-Beats`, „zieht sich Kael in die Festungswelt KW3 zurück, das topologische Äquivalent seiner Abwehrmechanismen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L104] and „zwingt Kael in einen temporären Bunker“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L104]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
