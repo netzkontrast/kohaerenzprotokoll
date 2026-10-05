@@ -1,0 +1,88 @@
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Genesis der Existenz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Genesis der Existenz` ^[textanalyse-existenz-system-und-leid.md:#5]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "interpretiere ich"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`interpretiere ich` ^[textanalyse-existenz-system-und-leid.md:#1]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Der große Wandel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Der große Wandel` ^[textanalyse-existenz-system-und-leid.md:#1]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Überwelt"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Überwelt` ^[textanalyse-existenz-system-und-leid.md:#5]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Komponente 734"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Komponente 734` ^[textanalyse-existenz-system-und-leid.md:#6]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Resonanzkaskade"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Resonanzkaskade` ^[textanalyse-existenz-system-und-leid.md:#2]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz Protokoll` ^[textanalyse-existenz-system-und-leid.md:#2]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kohärenz-Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz-Protokoll` ^[textanalyse-existenz-system-und-leid.md:#1]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Kohärenz Protokoll 1.0"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll 1.0` ^[textanalyse-existenz-system-und-leid.md:#1]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Floridi"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Floridi` ^[textanalyse-existenz-system-und-leid.md:#2]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Abwehr des Nichts"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Abwehr des Nichts` ^[textanalyse-existenz-system-und-leid.md:#0]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "Integration der Leere"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Integration der Leere` ^[textanalyse-existenz-system-und-leid.md:#0]
+$ python3 scripts/read.py textanalyse-existenz-system-und-leid --count "ground truth"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`ground truth` ^[textanalyse-existenz-system-und-leid.md:#0]
+$ grep -n "?" Sources/drive/textanalyse-existenz-system-und-leid.md | cut -c1-12   (question marks: 8 in profile)
+24:Die Erzä
+310:Die Antw
+319:6.  What
+328:15. Nikl
+344:31. Auto
+346:33. Soci
+349:36. Hunt
+351:38. What
+stance_marker_count 6 = 5 (Genesis der Existenz) + 1 (interpretiere ich)
