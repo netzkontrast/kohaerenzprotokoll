@@ -124,3 +124,11 @@ Stands as a statement of what crosses and between whom (Kael and Juna); the pitc
 The crossing, in the report's terms: entanglement as „Metapher/Mechanismus für die instantane, simulationsübergreifende K-J-Verbindung“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L44] (L44). The report asks what kind of link it is: „Ist sie ein kausaler Einfluss oder ein Ausdruck der gemeinsamen, unteilbaren M-Essenz von Kael und Juna?“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L102] (L102). What it may carry: „Sie könnte die nötige externe Resonanz, das Mitgefühl“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L103] or information to Kael (L103).
 
 Stands as the report's own reading and open question about the link's kind; it names no boundary and no one but Kael and Juna.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon asks who can feel the Moonshine-Link and recommends that Silas feels it first.**
+
+Appendix C.2 (OFFEN): „Wer kann den Link spüren, wer nicht?“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L699] Clear in the document are Kael yes and AEGIS no; open are other alters, other humans, and the reach. The Empfehlung, a recommendation: „Empfehlung: Silas spürt ihn als Erster, andere Alter im Verlauf von Akt II.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L709]
+
+Where it stands in the record's own terms: open in the document, with a recommendation.
