@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -57,6 +57,14 @@ Position: Teil II, „Der Schöpfer im System“ ^[romanstruktur-und-philosophis
 
 - Story: „Kael bemerkt, dass seine Gedanken und emotionalen Zustände die Realität der Simulation physisch verändern.“ ^[romanstruktur-und-philosophische-einleitung.md:L186]
 - Story: „Er realisiert, dass er nicht mehr nur Bewohner, sondern Co-Autor der Simulation ist.“ ^[romanstruktur-und-philosophische-einleitung.md:L188]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Symmetrie-Falle
+
+Title: „Die Symmetrie-Falle“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L222]
+Position: Teil II; setting from the `Schauplatz` field: „Rekursive Honeypot-Schleife von AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L224]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, Kairos“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L225]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS sperrt Kael in eine perfekt symmetrische Umgebung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L227] and „bricht Kael die Schleife durch eine völlig absurde, unlogische (emergente) Handlung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L227]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
