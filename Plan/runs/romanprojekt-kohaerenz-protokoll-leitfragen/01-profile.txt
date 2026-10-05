@@ -1,0 +1,14 @@
+# romanprojekt-kohaerenz-protokoll-leitfragen
+  lines                155  (frontmatter ends at 9)
+  body words           4615
+  headings             21   bold-only lines 2
+  table rows           8   code fences 0
+  question marks       7
+  backslash escapes    41
+  typographic marks    15   ascii quotes 167
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    40
+  repeated labels      Kontext x10, Szenen-Logik & Somatisches Erleben x10, Wertvollste Quellen x10, Ziel für nächste Session x10
+  longest line         6592 chars
+

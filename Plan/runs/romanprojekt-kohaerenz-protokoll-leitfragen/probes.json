@@ -1,0 +1,229 @@
+{
+  "document": "romanprojekt-kohaerenz-protokoll-leitfragen",
+  "drive_id": "1W7evJJI_YVcV9fIZIgB9D7XO5WCDi7LU2GcGcEea1kY",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 40,
+  "backslash_escapes": 41,
+  "typographic_marks": 15,
+  "ascii_quotes": 167,
+  "inflection_families": {
+    "korre": [
+      "Korrektur",
+      "Korrekturen",
+      "Korrespondenz",
+      "Korrespondenzfehler",
+      "Korrespondenztheorie"
+    ],
+    "syste": [
+      "System",
+      "Systemische",
+      "Systemkollaps",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsarchitektur",
+      "Bewusstseinsebene"
+    ],
+    "infor": [
+      "Information",
+      "Informational",
+      "Informationen",
+      "Informationskanäle"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator",
+      "Integrity",
+      "Integrität"
+    ],
+    "mecha": [
+      "Mechanik",
+      "Mechaniken",
+      "Mechanism",
+      "Mechanismen"
+    ],
+    "quell": [
+      "Quellcode",
+      "Quelle",
+      "Quellen",
+      "Quellenlandschaft"
+    ],
+    "archi": [
+      "Architecture",
+      "Architekten",
+      "Architektur"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbereinigung",
+      "Datentransfer"
+    ],
+    "dialo": [
+      "Dialog",
+      "Dialogführung",
+      "Dialogs"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfragmenten"
+    ],
+    "explo": [
+      "Exploit",
+      "Exploration",
+      "Explorationen"
+    ],
+    "gesam": [
+      "Gesamtarchitektur",
+      "Gesamtplot",
+      "Gesamtplots"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödelsche",
+      "Gödelschen"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelbereiche",
+      "Kapiteln"
+    ],
+    "konsi": [
+      "Konsistenz",
+      "Konsistenzoperator",
+      "Konsistenzoperatoren"
+    ],
+    "logik": [
+      "Logik",
+      "Logiken",
+      "Logikkern"
+    ],
+    "narra": [
+      "Narrative",
+      "Narrativer",
+      "Narrativs"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolls"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantenverschränkung",
+      "Quantum"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitätsabgleich"
+    ],
+    "signa": [
+      "Signal",
+      "Signale",
+      "Signalzerfall"
+    ],
+    "synth": [
+      "Synthese",
+      "Synthesefehler",
+      "Syntheseleistung"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumafolgestörung",
+      "Traumata"
+    ],
+    "achse": [
+      "Achse",
+      "Achsen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Ende",
+      "Rendering"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Flut",
+      "Überflutung"
+    ],
+    [
+      "Flut",
+      "Reizüberflutung"
+    ],
+    [
+      "Hand",
+      "Handlungen"
+    ],
+    [
+      "Hard",
+      "Hardware"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Logikkern"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernfunktion"
+    ],
+    [
+      "Köln",
+      "Kölner"
+    ],
+    [
+      "Link",
+      "Links"
+    ],
+    [
+      "Meta",
+      "Metaphysik"
+    ],
+    [
+      "Meta",
+      "Metaphysics"
+    ]
+  ]
+}

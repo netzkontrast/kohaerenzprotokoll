@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 80 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 80 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 81 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 81 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -610,7 +610,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [KI-Roman-Assistent: Web-App-Entwurf](drive/ki-roman-assistent-web-app-entwurf.md) | 2026-02-26 | 4,371 |  | Dual-Kernel-Theorie 5, Kollaps-Kernel 2, Selene 4, Lia 2, Moros 2, TSDP 6, Nyx 3, Lex 3 | Axis Mundi 6, Claude 42, API 10, JSON 10, Gelb 5 |
 | [Roman-Entwicklung: Kohärenz Protokoll JSON](drive/roman-entwicklung-kohaerenz-protokoll-json.md) | 2026-02-26 | 4,050 |  | Nexus 3, Partnerin 2, Gödel-Gambit 3, Externe Ebene 2, Multiplizität 6, Isabelle 2, Potentialmeer 3, Moros 3 | Garden of Possibility 2, Metzinger 2, Tertiären Strukturellen Dissoziation 3, NP 4, K-PTBS 2 |
 | [Roman-Konzeptentwicklung: Kohärenz Protokoll](drive/roman-konzeptentwicklung-kohaerenz-protokoll.md) | 2026-02-26 | 3,313 |  | Kishōtenketsu 14, Cache-Kohärenz† 10, Nexus 3, Konstrukt-Stadt 7, LogOS 8, Juna 18, Mnemosyne 3, Nichts-Rauschen 2 | System Mind 4, Dialetheism 7, Resonanz-Kontinuum 2, Redis 2, Ketsu 3 |
-| [Romanprojekt Kohärenz Protokoll: Leitfragen](drive/romanprojekt-kohaerenz-protokoll-leitfragen.md) | 2026-02-26 | 4,615 |  | Gödel-Gambit 4, Sophia 3, Externe Ebene 2, Mnemosyne 5, Dual-Kernel-Theorie† 3, Selene 4, Konstrukt-Stadt 3, Multiplizität 5 | Directory 4, decoherence 7, D2 4, Rationaler ANP 2, K-PTBS 3 |
+| [Romanprojekt Kohärenz Protokoll: Leitfragen](drive/romanprojekt-kohaerenz-protokoll-leitfragen.md) | 2026-02-26 | 4,615 | **read** | Gödel-Gambit 4, Sophia 3, Externe Ebene 2, Mnemosyne 5, Dual-Kernel-Theorie† 3, Selene 4, Konstrukt-Stadt 3, Multiplizität 5 | Directory 4, decoherence 7, D2 4, Rationaler ANP 2, K-PTBS 3 |
 | [KI-gestützter Roman-Assistent: Projektplanung](drive/ki-gestuetzter-roman-assistent-projektplanung.md) | 2026-02-27 | 3,388 |  | Lia 2, Kiko 4, Selene 2, Nyx 3, Juna 3, TSDP 2, Kern-Welten 2, Risse† 3 | Gelb 19, API 10, Claude 17, JSON 8, Anthropic 4 |
 | [Kohärenz Protokoll: Architektur & Implementierung](drive/kohaerenz-protokoll-architektur-implementierung.md) | 2026-02-27 | 3,362 |  | Kollaps-Kernel 2, Lex 5, TSDP 5, Kiko 3, Nyx 3, Entropie 5, Überwelt 2, Kohärenz 2 | ZeroClaw 37, Rust 19, Nanobot 2, RAG 5, Phänomenale Selbstmodell 2 |
 | [UI-Konzept für Roman-Entwicklungssystem](drive/ui-konzept-fuer-roman-entwicklungssystem.md) | 2026-02-27 | 4,673 |  | Personas 3, Dual-Kernel-Theorie 6, Kollaps-Kernel 2, Selene 3, Moros 2, Juna 9, TSDP 7, Nichts-Rauschen 2 | Novelcrafter 17, Codex 26, Worker 2, Neo4j 2, Knowledge Graph 3 |
