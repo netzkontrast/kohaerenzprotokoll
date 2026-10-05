@@ -76,6 +76,19 @@ drafts stay in the browser's storage, never in the repository. `agents/sessions.
 second list. When `python3 scripts/sessions.py` prints something NOW.md did not mean, fix the wording in NOW.md or
 the rule in `sessions.py` (with its selftest case), not the output.
 
+**The session board** — the Now page also coordinates the sessions (the author, 2026-10-05: *„coordinate your work there"*).
+`python3 scripts/sessions.py board` (printed at every session start) and the page's *The next sessions* column set the plan
+against GitHub's public API: a pull request claims a session with a line `Session: <id>` in its body, a branch pushed in
+the last 24 h is active, and active work with no pull request raises a caution beside every session marked *no claim*.
+`boardOf` in `ui.js` and `board()` in `sessions.py` are one rule written twice; `ui.py --check` runs both on one case and
+fails when they differ — change the rule in both, with the case. Offline the board says *unknown*, never *free*.
+
+**The session editor** — the page's *New session* tab (and *Edit as a session of its own* on a planned session) takes a
+title, a next step and files, and gives the prompt, the claim line and an entry for NOW.md § Half-done. The id is the slug
+of the title (never typed), because that is the id `sessions.py` will give the entry; `ui.py --check` writes entries with
+the page's JavaScript and reads them back with `derive()` — change `slugOf`/`entryOf` and `slug`/`derive` together.
+The plan stays in NOW.md: the editor never stores a session, it hands the entry over.
+
 ## 5 · Publish
 
 - **The canvas** — https://claude.ai/artifact/1EyhQkX3MpiRTw3TxjTjYL, private to the author. A data refresh

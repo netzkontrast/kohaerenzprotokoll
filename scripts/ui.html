@@ -177,7 +177,7 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 </button>
 </sc-for>
 </div>
-<div class="m-cols" style="flex-grow: 1; min-height: 0; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.45fr) minmax(0, 0.85fr); gap: 14px;">
+<div class="m-cols" style="flex-grow: 1; min-height: 0; display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.3fr) minmax(0, 1.1fr); gap: 14px;">
 <section aria-label="For the author" style="display: flex; flex-direction: column; min-height: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden;">
 <div style="display: flex; align-items: baseline; gap: 10px; padding: 14px 18px 12px; border-bottom: 1px solid #E6E0D2;">
 <h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.2; font-weight: 500;">For the author</h2>
@@ -210,11 +210,20 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <sc-if value="{{now.tabLog}}" hint-placeholder-val="{{ false }}"><span style="padding-bottom: 12px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{now.logSub}}</span></sc-if>
 </div>
 <sc-if value="{{now.tabPrompt}}" hint-placeholder-val="{{ true }}">
-<div style="flex-grow: 1; min-height: 0; display: flex; flex-direction: column; gap: 9px; padding: 12px 16px 14px;">
+<div style="flex-grow: 1; min-height: 0; overflow-y: auto; display: flex; flex-direction: column; gap: 9px; padding: 12px 16px 14px;">
 <div style="display: flex; flex-direction: column; gap: 2px;">
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; letter-spacing: 0.06em; text-transform: uppercase; color: #645F53;">{{now.pe.kicker}}</span>
 <span style="font-family: 'Newsreader', Georgia, serif; font-size: 18px; line-height: 1.25;">{{now.pe.title}}</span>
 </div>
+<sc-if value="{{now.pe.canFork}}" hint-placeholder-val="{{ true }}"><button type="button" onClick="{{now.pe.fork}}" class="kp-hov" style="align-self: flex-start; min-height: 28px; padding: 0 10px; border: 1px solid #C9C0AC; border-radius: 6px; background: transparent; cursor: pointer; font-family: inherit; font-size: 12px; color: #2B4C8C;">Edit as a session of its own →</button></sc-if>
+<sc-if value="{{now.pe.isFree}}" hint-placeholder-val="{{ false }}">
+<div style="display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px;">
+<label style="display: flex; flex-direction: column; gap: 3px; font-size: 12px; font-weight: 600; color: #3A3730;">Title<input type="text" value="{{now.pe.edTitle}}" onChange="{{now.pe.onEdTitle}}" placeholder="What the session is called" autocomplete="off" style="height: 34px; box-sizing: border-box; padding: 0 9px; border-radius: 7px; border: 1px solid #C9C0AC; background: #FFFFFF; font-family: inherit; font-size: 13px; font-weight: 400; color: #1C1B18;"></label>
+<label style="display: flex; flex-direction: column; gap: 3px; font-size: 12px; font-weight: 600; color: #3A3730;">Id — from the title<span style="height: 34px; box-sizing: border-box; padding: 8px 9px 0; border-radius: 7px; background: #EFEBE1; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11.5px; font-weight: 400; color: #4A463E; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{{now.pe.edId}}</span></label>
+</div>
+<label style="display: flex; flex-direction: column; gap: 3px; font-size: 12px; font-weight: 600; color: #3A3730;">Next step<input type="text" value="{{now.pe.edNext}}" onChange="{{now.pe.onEdNext}}" placeholder="The first thing the session does" autocomplete="off" style="height: 34px; box-sizing: border-box; padding: 0 9px; border-radius: 7px; border: 1px solid #C9C0AC; background: #FFFFFF; font-family: inherit; font-size: 13px; font-weight: 400; color: #1C1B18;"></label>
+<label style="display: flex; flex-direction: column; gap: 3px; font-size: 12px; font-weight: 600; color: #3A3730;">Files to open first<input type="text" value="{{now.pe.edFiles}}" onChange="{{now.pe.onEdFiles}}" placeholder="Plan/storyform/overview.md, scripts/storyform.py" autocomplete="off" style="height: 34px; box-sizing: border-box; padding: 0 9px; border-radius: 7px; border: 1px solid #C9C0AC; background: #FFFFFF; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; font-weight: 400; color: #1C1B18;"></label>
+</sc-if>
 <label for="{{now.pe.askId}}" style="font-size: 12px; font-weight: 600; color: #3A3730;">Your instruction</label>
 <textarea id="{{now.pe.askId}}" rows="2" value="{{now.pe.ask}}" onChange="{{now.pe.onAsk}}" placeholder="{{now.pe.askHint}}" style="width: 100%; box-sizing: border-box; resize: vertical; padding: 8px 10px; border-radius: 7px; border: 1px solid #C9C0AC; background: #FFFFFF; color: #1C1B18; font-family: inherit; font-size: 13.5px; line-height: 1.45;"></textarea>
 <div role="group" aria-label="Blocks of the prompt" style="display: flex; flex-wrap: wrap; gap: 6px;">
@@ -229,7 +238,14 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <sc-if value="{{now.web}}" hint-placeholder-val="{{ false }}"><button type="button" onClick="{{now.pe.save}}" class="kp-hov" style="min-height: 30px; padding: 0 10px; border: 1px solid #C9C0AC; border-radius: 6px; background: transparent; cursor: pointer; font-family: inherit; font-size: 12px; color: #4A463E;">Save .md</button></sc-if>
 <button type="button" onClick="{{now.pe.copy}}" style="min-height: 30px; padding: 0 12px; border: 1px solid #2B4C8C; border-radius: 6px; background: #2B4C8C; color: #FBFAF6; cursor: pointer; font-family: inherit; font-size: 12.5px;">{{now.pe.copyLabel}}</button>
 </div>
-<textarea id="{{now.pe.textId}}" value="{{now.pe.text}}" onChange="{{now.pe.onText}}" spellcheck="false" style="flex-grow: 1; min-height: 140px; width: 100%; box-sizing: border-box; resize: none; padding: 9px 11px; border-radius: 7px; border: 1px solid #C9C0AC; background: #FFFFFF; color: #2A2823; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11.5px; line-height: 1.55;"></textarea>
+<textarea id="{{now.pe.textId}}" value="{{now.pe.text}}" onChange="{{now.pe.onText}}" spellcheck="false" style="flex-grow: 1; flex-shrink: 0; min-height: 200px; width: 100%; box-sizing: border-box; resize: none; padding: 9px 11px; border-radius: 7px; border: 1px solid #C9C0AC; background: #FFFFFF; color: #2A2823; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11.5px; line-height: 1.55;"></textarea>
+<sc-if value="{{now.pe.hasEntry}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap; padding: 7px 9px; border: 1px dashed #C9C0AC; border-radius: 7px;">
+<span style="flex-grow: 1; min-width: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; line-height: 1.5; color: #4A463E; overflow-wrap: anywhere;">{{now.pe.claimLine}} — open the pull request with it under “## Claim”; to make it part of the plan, add the entry to NOW.md § Half-done.</span>
+<button type="button" onClick="{{now.pe.copyClaim}}" class="kp-hov" style="min-height: 28px; padding: 0 10px; border: 1px solid #C9C0AC; border-radius: 6px; background: transparent; cursor: pointer; font-family: inherit; font-size: 12px; color: #2B4C8C;">{{now.pe.copyClaimLabel}}</button>
+<button type="button" onClick="{{now.pe.copyEntry}}" class="kp-hov" style="min-height: 28px; padding: 0 10px; border: 1px solid #C9C0AC; border-radius: 6px; background: transparent; cursor: pointer; font-family: inherit; font-size: 12px; color: #2B4C8C;">{{now.pe.copyEntryLabel}}</button>
+</div>
+</sc-if>
 <sc-if value="{{now.pe.edited}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; font-size: 11.5px; color: #9A2D1A;">Edited by hand: the blocks and your instruction apply again after Reset. Drafts stay in this browser, never in the repository.</p></sc-if>
 </div>
 </sc-if>
@@ -256,8 +272,21 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">NOW.md § Half-done</span>
 </div>
 <p style="margin: 0; padding: 8px 18px 0; font-size: 12px; line-height: 1.45; color: #645F53;">{{now.sessSub}} — in NOW.md's order. Pick one to build its start prompt.</p>
+<sc-if value="{{now.board.showStamp}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; align-items: center; gap: 8px; padding: 6px 18px 0; flex-wrap: wrap;">
+<span style="flex-grow: 1; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; color: #645F53;">{{now.board.stamp}}</span>
+<button type="button" onClick="{{now.board.refresh}}" disabled="{{now.board.busy}}" class="kp-hov" style="min-height: 28px; padding: 0 10px; border: 1px solid #C9C0AC; border-radius: 6px; background: transparent; cursor: pointer; font-family: inherit; font-size: 12px; color: #4A463E;">Refresh</button>
+</div>
+</sc-if>
+<sc-if value="{{now.board.caution}}" hint-placeholder-val="{{ false }}"><p style="margin: 0 0 0; padding: 8px 10px; border-radius: 6px; background: #F6E4DC; font-size: 12px; line-height: 1.45; color: #9A2D1A;">Branches below were pushed in the last {{now.board.hours}} h with no pull request: a session marked “no claim” may be running there. Look before taking it, and claim yours first.</p></sc-if>
 <div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 8px 10px 12px; display: flex; flex-direction: column; gap: 6px;">
-<button type="button" onClick="{{now.free.pick}}" aria-pressed="{{now.free.cur}}" class="kp-hov" style="display: flex; align-items: center; gap: 8px; width: 100%; min-height: 38px; padding: 0 10px; box-sizing: border-box; border: 1px dashed {{now.free.bd}}; border-radius: 8px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; font-size: 13px; color: #2B4C8C;">＋ Free prompt — a session you name yourself</button>
+<sc-if value="{{now.board.hasOther}}" hint-placeholder-val="{{ false }}">
+<h3 style="margin: 12px 2px 4px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Active, outside the plan</h3>
+<sc-for list="{{now.board.other}}" as="o" hint-placeholder-count="3">
+<div style="margin: 0 2px 6px; padding: 6px 8px; border: 1px solid #E6E0D2; border-radius: 6px; font-size: 12px; line-height: 1.4;"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; overflow-wrap: anywhere;">{{o.branch}}</span><br><span style="color: {{o.tone}};">{{o.pr}}</span><span style="color: #645F53;"> · pushed {{o.when}}</span></div>
+</sc-for>
+</sc-if>
+<button type="button" onClick="{{now.free.pick}}" aria-pressed="{{now.free.cur}}" class="kp-hov" style="display: flex; align-items: center; gap: 8px; width: 100%; min-height: 38px; padding: 0 10px; box-sizing: border-box; border: 1px dashed {{now.free.bd}}; border-radius: 8px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; font-size: 13px; color: #2B4C8C;">{{now.free.label}}</button>
 <sc-for list="{{now.sessions}}" as="x" hint-placeholder-count="4">
 <div id="{{x.dom}}" style="border: 1px solid {{x.bd}}; border-radius: 8px; background: {{x.bg}};">
 <button type="button" onClick="{{x.pick}}" aria-pressed="{{x.cur}}" class="kp-hov" style="display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; gap: 8px; align-items: start; width: 100%; padding: 9px 10px 4px; box-sizing: border-box; border: 0; border-radius: 8px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
@@ -266,6 +295,7 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <span style="padding: 1px 7px; border-radius: 10px; font-size: 11px; white-space: nowrap; background: {{x.stBg}}; color: {{x.stFg}};">{{x.st}}</span>
 </button>
 <p style="margin: 0; padding: 0 10px 9px 40px; font-size: 12.5px; line-height: 1.45; color: #4A463E;"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; letter-spacing: 0.06em; text-transform: uppercase; color: #645F53;">next · </span>@RUNS(x.next)@</p>
+<sc-if value="{{x.claim}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; padding: 0 10px 9px 40px;"><span style="display: inline-block; padding: 1px 8px; border-radius: 10px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; background: {{x.claimBg}}; color: {{x.claimFg}};">{{x.claim}}</span></p></sc-if>
 </div>
 </sc-for>
 <sc-if value="{{now.web}}" hint-placeholder-val="{{ false }}"><p style="margin: 6px 4px 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">for agents: <a href="./llms.txt" style="color: #2B4C8C;">llms.txt</a> · <a href="./agents/sessions.json" style="color: #2B4C8C;">sessions.json</a> · <a href="./agents/index.json" style="color: #2B4C8C;">index.json</a></p></sc-if>
