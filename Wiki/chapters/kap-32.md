@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -42,6 +42,14 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael inszeniert eine Situation über mehrere Standorte hinweg oder unter Einbeziehung mehrerer Guardians gleichzeitig“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „koordinierte Aktionen mit Juna/V“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „ein teilweises Einfrieren der Logik innerhalb von AEGIS' zentraler Verarbeitung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Atonement with the father
+
+Title: „Versöhnung mit dem Vater“ ^[romanstruktur-und-philosophische-einleitung.md:L248]
+Position: Teil III, „Dialog mit AEGIS“ ^[romanstruktur-und-philosophische-einleitung.md:L248]
+
+- Story: „Es kommt nicht zum physischen Kampf, sondern zum Diskurs.“ ^[romanstruktur-und-philosophische-einleitung.md:L250]
+- Story: „AEGIS’ Versuch, das Leben zu schützen, erstickt es.“ ^[romanstruktur-und-philosophische-einleitung.md:L250]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
