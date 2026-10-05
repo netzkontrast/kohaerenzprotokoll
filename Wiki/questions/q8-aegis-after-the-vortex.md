@@ -172,3 +172,11 @@ In the record's terms: the outline answers the question with melancholy as its o
 HC-02: „Keine physische Zerstörung.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L144] SC-01: „Kapitel 39 präsentiert ein AEGIS-Log im Post-Quantum-Zustand“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L163]. OQ-04 asks whether the Algorithmische Melancholie means „eine Form ewiger Folter für die KI“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L223], a question.
 
 Stands as Hard Canon and Soft Canon rows plus an open question, dated 2026-03-26; recorded, not applied.
+
+## 2026-10-05 — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix
+
+**The matrix has AEGIS overloaded in Kap 34 and frozen, not destroyed, in Kap 35.**
+
+Kap 34 is titled `¬∘(AEGIS\_Protokoll)` (the symbols stand around the quotation) and plans „AEGIS kann die Unvollständigkeit nicht verarbeiten.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431] with the motif „Blue Screen of Death, berstende Server, Stille.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L433] Kap 35, „Algorithmische Melancholie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L437] plans „AEGIS ist nicht tot, sondern erstarrt in paradoxer Schönheit“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L443] with the function „Friedliche, ethische Auflösung des Konflikts. Keine Rache.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L444]
+
+Stands as a plan of 2026-02-25 in which AEGIS remains as a frozen figure after its protocol fails; recorded, not applied.
