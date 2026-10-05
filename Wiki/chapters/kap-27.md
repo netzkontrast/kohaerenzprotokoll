@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,6 +39,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Umgebungskontrollen werden offen feindselig oder restriktiv, zuvor zugängliche Bereiche werden abgeriegelt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „Guardians wechseln von Überwachung/Korrektur zu aktiver Jagd oder Eindämmung von Kael“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „seinen neuen Status als 'kritische Bedrohung' oder 'abtrünnige Entität'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The call to adventure
+
+Title: „Ruf zum Abenteuer“ ^[romanstruktur-und-philosophische-einleitung.md:L228]
+Position: Teil III, „Die Entscheidung zum Widerstand“ ^[romanstruktur-und-philosophische-einleitung.md:L228]
+
+- Story: „Er sendet ein Signal durch die Ebenen, eine offene Kriegserklärung an AEGIS.“ ^[romanstruktur-und-philosophische-einleitung.md:L230]
+- Story: „Die funktionale Multiplizität wird zur Waffe.“ ^[romanstruktur-und-philosophische-einleitung.md:L230]
+- Teil III as a whole: „Archetyp: Hero’s Journey (nach Joseph Campbell)“ ^[romanstruktur-und-philosophische-einleitung.md:L220]
+- and „Teil III übersetzt die inneren Einsichten (Teil I) und das systemische Wissen (Teil II) in äußeres Handeln.“ ^[romanstruktur-und-philosophische-einleitung.md:L226]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
