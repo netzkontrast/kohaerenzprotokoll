@@ -152,3 +152,9 @@ The concept document's words are „a realm outside AEGIS's simulated reality an
 Table row: „in der Kael als traumatisierter Patient mit KPTBS, ADHS und DIS existiert, betreut von seiner Partnerin Juna.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L79] In Akt III: „Kael bricht in die Externe Ebene durch und“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L217] wakes there. The report does not say the level is outside or inside the simulation; it reports that „Die allmächtige KI AEGIS war niemals eine externe Maschine“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L217].
 
 Stands: a seventh row beyond/not-outside is not decided; the report's wording `durchbricht` is recorded, undecided.
+
+## 2026-10-05 — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept
+
+**A reality outside AEGIS's control, nature unknown.**
+Section 6: „Realität außerhalb von AEGIS' Kontrolle; verbunden mit Juna; Natur unbekannt, aber im Kontrast zur Simulation“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L133]. Its laws: „Unbekannt; basieren nicht auf AEGIS-Logik; potenziell auf Empathie, Bewusstsein, Resonanz, Nichtlokalität.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L144]
+It places the Externe Ebene beyond the simulation, hedged with `potenziell`; the conflict stays open.
