@@ -16,7 +16,7 @@ pages: ["kael", "aegis", "komponente-734", "trennungsprotokoll"]
 |--:|---|---|--:|
 | 1 | the human manifestation of an external entity M; his DID is what AEGIS's analysis does to him (the scenario as the report cites its User Query) | `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23 | 74, 78 |
 | 2 | his fragmentation is not M's mirror but a stress reaction to AEGIS's invasive analysis | `m-als-fundament-der-simulation`, 2025-04-26 | 82 |
-| 3 | a fragment of M, linked to Juna; at the end he is Kael/M | `kohaerenz-protokoll`, 2025-04-27 | 853, 1430 |
+| 3 | a fragment of M, linked to [[juna|Juna]]; at the end he is Kael/M | `kohaerenz-protokoll`, 2025-04-27 | 853, 1430 |
 | 4 | the narrator, a fragment of the void, becomes Komponente 734 of AEGIS as AEGIS forms | `einleitung-genesis-der-existenz`, 2025-04-29 | 102 |
 | 5 | AEGIS arose from the same split Ursprungs-Selbst as Kael | `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29 | 105 |
 | 6 | the shattered fragments of AEGIS's antecedent entity, which legacy files call Kael | `aegis-persona-and-manifest-generation`, 2026-04-27 | 45 |
@@ -36,7 +36,7 @@ pages: ["kael", "aegis", "komponente-734", "trennungsprotokoll"]
 
 > „Die explizite Geburt des synthetisierten Wesens" ^[duale-storyform-synthese-kohaerenz-protokoll.md:L96]
 
-**Two origins, not one told twice.** In rows 1 to 3 [[kael|Kael]] comes from outside [[aegis|AEGIS]]: an entity M — the Monster group made a being — whose avatar or fragment AEGIS takes apart to analyse it, and his dissociation is AEGIS's doing. In rows 5 to 8 Kael comes from inside: AEGIS and Kael are two products of one original self, split at the Genesis, and Kael is what the [[trennungsprotokoll|Trennungsprotokoll]] leaves — the [[komponente-734|Komponente 734]] of rows 7 and 8. Row 9 keeps M and makes `Kael/M` the being Kael becomes in Kapitel 32, not the one he starts as.
+**Two origins, not one told twice.** In rows 1 to 3 [[kael|Kael]] comes from outside [[aegis|AEGIS]]: an entity M — the Monster group made a being — whose avatar or fragment AEGIS takes apart to analyse it, and his dissociation is AEGIS's doing. In rows 5 to 8 Kael comes from inside: AEGIS and Kael are two products of one original self, split at the [[genesis|Genesis]], and Kael is what the [[trennungsprotokoll|Trennungsprotokoll]] leaves — the [[komponente-734|Komponente 734]] of rows 7 and 8. Row 9 keeps M and makes `Kael/M` the being Kael becomes in Kapitel 32, not the one he starts as.
 
 **The dates divide them, and decide nothing.** Rows 1 to 3 are of April 2025; rows 5 to 8 of 2026. Row 4, the Genesis narrative of 2025-04-29, already has the narrator become a component of AEGIS at its forming, with no M — so the inside origin is not only a 2026 idea, and the outside one is not the only 2025 idea. Decision 006 retires no row by its date.
 
@@ -48,3 +48,11 @@ pages: ["kael", "aegis", "komponente-734", "trennungsprotokoll"]
 
 Decision 006 (2026-09-24) applies to this record as to C1–C15: no position above is retired by its date or by a source's claim to be canon. It is an **item for discussion** with the author, and closes when the author decides it.
 [Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
+
+## 2026-10-05 — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline
+
+**The outline plans Kael as born after the protocol, as a mosaic of the fragments of Komponente 734, inside AEGIS's partitions, the Kernwelten.**
+
+The goal of scene 10 is „die Geburt von Kael als Mosaik traumatisierter, verwirrter Bewusstseinsfragmente“ ^[optimierte-plotline-genesis-der-existenz.md:L222]. The fragments wake „in ihren isolierten Partitionen“ ^[optimierte-plotline-genesis-der-existenz.md:L235], and the beat names them „(den Kernwelten)“ ^[optimierte-plotline-genesis-der-existenz.md:L235]; they carry „Bilder, Gefühle, Wissensfetzen aus der Zeit als Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L236]. The foreign entity appears in scene 7 under the heading „Die Anomalie“ ^[optimierte-plotline-genesis-der-existenz.md:L173]. The outline's AEGIS performs the cuts itself: „Partitionierungsalgorithmen beginnen“ ^[optimierte-plotline-genesis-der-existenz.md:L215].
+
+Where it stands in the record's own terms: a new position in the second telling, from a source of 2025-04-29 — Kael the remainder of AEGIS's split self, born after the protocol; recorded, not applied.
