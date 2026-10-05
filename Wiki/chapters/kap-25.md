@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C9", "C11", "C14", "C6"]
 gathered: "2026-09-25"
 ---
@@ -45,6 +45,14 @@ Position: Teil II, „Kollaps durch Rigidität“ ^[romanstruktur-und-philosophi
 
 - Story: „AEGIS reagiert auf Kaels wachsenden Einfluss mit totalitärer Kontrolle.“ ^[romanstruktur-und-philosophische-einleitung.md:L208]
 - Story: „Kael provoziert diesen Zustand aktiv.“ ^[romanstruktur-und-philosophische-einleitung.md:L210]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Bruch des Siegels
+
+Title: „Der Bruch des Siegels“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L254]
+Position: Teil II; setting from the `Schauplatz` field: „Das Fundament der Psyche / Kernwelten“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L256]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Selene (Self)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L257]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael wehrt die mentale Invasion ab“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L259] and „Diese nicht-reaktive Resilienz macht AEGIS' Angriffs-Algorithmen wirkungslos“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L259]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
