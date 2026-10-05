@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen"]
 gathered: "2026-09-17"
 ---
 
@@ -44,6 +44,10 @@ Kap 27 is titled „Sturm auf die Überwelt: Der Beginn des Angriffs / Rückkehr
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a noise-free Nexus in Kap 17
 
 The master blueprint plans for Kap 17: „Kael findet einen rauschfreien Nexus.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] It is the place where Juna shows her true form.
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — only the slash: Möglichkeits-Garten / Nexus
+
+The Leitfragen report (an analyst's review) writes the world of Kairos and Sophia as „Möglichkeits-Garten / Nexus“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105], in a sentence on the weaker Guardian profiles. It explains neither the slash nor what Nexus is; the table gives the same world as „Möglichkeits-Garten (Ly)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95].
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Nexus in Kap 25, 27, 30 and 33
 
