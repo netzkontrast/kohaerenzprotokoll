@@ -1,14 +1,14 @@
 {
   "schema_version": "1.3.0",
   "story": {
-    "id": "story_kp_storyform_direction",
+    "id": "story_kp_storyform_b",
+    "title": "Kohärenz Protokoll — Storyform B — Phönix-Kollaps (K0)",
     "logline": "",
     "genre": "",
-    "title": "Kohärenz Protokoll — Storyform B — Phönix-Kollaps (K0)",
     "created_at": "2026-10-05T00:00:00Z",
     "narratives": [
       {
-        "id": "narrative-direction",
+        "id": "narrative-b",
         "title": "Storyform B — Phönix-Kollaps (K0)",
         "status": "draft",
         "subtext": {
@@ -45,63 +45,63 @@
               "dynamic": "story_driver",
               "vector": "action",
               "summary": "story_driver = action",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source (report 2026-05-07), kept in step 2."
             },
             {
               "id": "dyn_story_outcome",
               "dynamic": "story_outcome",
               "vector": "failure",
               "summary": "story_outcome = failure",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_story_judgment",
               "dynamic": "story_judgment",
               "vector": "bad",
               "summary": "story_judgment = bad",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_story_limit",
               "dynamic": "story_limit",
               "vector": "timelock",
               "summary": "story_limit = timelock",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_problem_solving_style",
               "dynamic": "problem_solving_style",
               "vector": "linear",
               "summary": "problem_solving_style = linear",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_main_character_resolve",
               "dynamic": "main_character_resolve",
               "vector": "steadfast",
               "summary": "main_character_resolve = steadfast",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_influence_character_resolve",
               "dynamic": "influence_character_resolve",
               "vector": "change",
               "summary": "influence_character_resolve = change",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md) — abgeleitet: Gegenteil von main_character_resolve (Regel R6)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); derived, rule R6."
             },
             {
               "id": "dyn_main_character_growth",
               "dynamic": "main_character_growth",
               "vector": "stop",
               "summary": "main_character_growth = stop",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); source, step 2."
             },
             {
               "id": "dyn_main_character_approach",
               "dynamic": "main_character_approach",
               "vector": "do_er",
               "summary": "main_character_approach = do_er",
-              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md)."
+              "storytelling": "Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md); author step 3a (C8: Do-er)."
             }
           ],
           "storypoints": [
@@ -124,9 +124,9 @@
               "appreciation": "Main Character Concern",
               "narrative_function": "Future",
               "throughline": "Main Character",
-              "illustration": "AEGIS' Linie: Future, Openness ↔ Delay, Disbelief, nie Faith. Strukturelle Sicht, keine Ich-Prosa (W6).",
+              "illustration": "Main Character Concern",
               "summary": "Main Character Concern: Future",
-              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube.",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4, author step 16.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -140,7 +140,7 @@
               "throughline": "Main Character",
               "illustration": "Offenheit gegen Aufschub: AEGIS hält die Zukunft offen, indem es jede Entscheidung vertagt.",
               "summary": "Main Character Issue: Openness",
-              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Gegenpol (Counterpoint): Preconception.",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4, author step 16. Gegenpol (Counterpoint): Preconception.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -154,7 +154,7 @@
               "throughline": "Main Character",
               "illustration": "AEGIS glaubt nichts, was nicht bewiesen ist — Unglaube als Betriebsprinzip (Zero-Trust).",
               "summary": "Main Character Problem: Disbelief",
-              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube.",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4, author step 16.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -168,7 +168,7 @@
               "throughline": "Main Character",
               "illustration": "Glaube — die Lösung, die AEGIS nie ergreift.",
               "summary": "Main Character Solution: Faith",
-              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube.",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4, author step 16.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -180,9 +180,9 @@
               "appreciation": "Main Character Symptom",
               "narrative_function": "Reconsider",
               "throughline": "Main Character",
-              "illustration": "Focus: wo der Strang das Problem vermutet.",
+              "illustration": "Main Character Symptom",
               "summary": "Main Character Symptom: Reconsider",
-              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4 (shares the OS pair) in the author's OS order.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -194,9 +194,9 @@
               "appreciation": "Main Character Response",
               "narrative_function": "Consider",
               "throughline": "Main Character",
-              "illustration": "Direction: womit der Strang reagiert.",
+              "illustration": "Main Character Response",
               "summary": "Main Character Response: Consider",
-              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: derived D4.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -222,9 +222,9 @@
               "appreciation": "Influence Character Concern",
               "narrative_function": "Subconscious",
               "throughline": "Influence Character",
-              "illustration": "Kael wirkt aus innersten Wünschen (Subconscious, Dream ↔ Hope); er ändert sich am Vortex.",
+              "illustration": "Influence Character Concern",
               "summary": "Influence Character Concern: Subconscious",
-              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind.",
+              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: derived D3/D4, author step 16.",
               "perspectives": [
                 {
                   "perspective_id": "persp_influence_character"
@@ -238,7 +238,7 @@
               "throughline": "Influence Character",
               "illustration": "Traum gegen Hoffnung: Kael wirkt aus dem, was er sich wünscht, nicht aus dem, was er erwartet.",
               "summary": "Influence Character Issue: Dream",
-              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Gegenpol (Counterpoint): Hope.",
+              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: derived D3/D4, author step 16. Gegenpol (Counterpoint): Hope.",
               "perspectives": [
                 {
                   "perspective_id": "persp_influence_character"
@@ -264,9 +264,9 @@
               "appreciation": "Objective Story Concern",
               "narrative_function": "Obtaining",
               "throughline": "Objective Story",
-              "illustration": "Ziel Obtaining; der Kampf um Approach ↔ Attitude.",
+              "illustration": "Objective Story Concern",
               "summary": "Objective Story Concern: Obtaining",
-              "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad.",
+              "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: session, step 8 (the only Physics type holding Logic).",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -280,7 +280,7 @@
               "throughline": "Objective Story",
               "illustration": "Die Methode gegen die Haltung: rechtfertigt das Vorgehen die Haltung?",
               "summary": "Objective Story Issue: Approach",
-              "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Gegenpol (Counterpoint): Attitude.",
+              "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: author step 8b. Gegenpol (Counterpoint): Attitude.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -294,7 +294,7 @@
               "throughline": "Objective Story",
               "illustration": "Gefühle, Risse, Entropie — was die Ordnung stört.",
               "summary": "Objective Story Problem: Feeling",
-              "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad.",
+              "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: pair of the solution.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -308,7 +308,7 @@
               "throughline": "Objective Story",
               "illustration": "Logic: AEGIS hält am Richtigen fest, und die Welt scheitert trotzdem.",
               "summary": "Objective Story Solution: Logic",
-              "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad.",
+              "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: author step 3b: crucial element Logic is the solution.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -320,9 +320,9 @@
               "appreciation": "Objective Story Symptom",
               "narrative_function": "Reconsider",
               "throughline": "Objective Story",
-              "illustration": "Focus: wo der Strang das Problem vermutet.",
+              "illustration": "Objective Story Symptom",
               "summary": "Objective Story Symptom: Reconsider",
-              "storytelling": "Focus: wo der Strang das Problem vermutet. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: author, fine structure 2.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -334,9 +334,9 @@
               "appreciation": "Objective Story Response",
               "narrative_function": "Consider",
               "throughline": "Objective Story",
-              "illustration": "Direction: womit der Strang reagiert.",
+              "illustration": "Objective Story Response",
               "summary": "Objective Story Response: Consider",
-              "storytelling": "Direction: womit der Strang reagiert. Feinstruktur 2; Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: author, fine structure 2.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -362,9 +362,9 @@
               "appreciation": "Relationship Story Concern",
               "narrative_function": "Becoming",
               "throughline": "Relationship Story",
-              "illustration": "Die Beziehung verändert, was beide sind (Becoming); ihr Problem ist dasselbe wie das des OS: Feeling.",
+              "illustration": "Relationship Story Concern",
               "summary": "Relationship Story Concern: Becoming",
-              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position.",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: derived D6, author step 16.",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -378,7 +378,7 @@
               "throughline": "Relationship Story",
               "illustration": "Rationalisierung gegen Verpflichtung: Host und System begründen, was sie einander schulden.",
               "summary": "Relationship Story Issue: Rationalization",
-              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Gegenpol (Counterpoint): Obligation.",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: derived D7, author step 16. Gegenpol (Counterpoint): Obligation.",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -392,7 +392,7 @@
               "throughline": "Relationship Story",
               "illustration": "Gefühl — dasselbe, was AEGIS im OS ausschließen will, steht zwischen Host und System.",
               "summary": "Relationship Story Problem: Feeling",
-              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position.",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: derived D5, author step 16.",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -406,7 +406,7 @@
               "throughline": "Relationship Story",
               "illustration": "Logik.",
               "summary": "Relationship Story Solution: Logic",
-              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position.",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: derived D5, author step 16.",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -420,7 +420,7 @@
               "throughline": "Main Character",
               "illustration": "Das Crucial Element: das OS-Element, auf dem die Hauptfigur sitzt.",
               "summary": "Main Character Pivotal Element: Logic",
-              "storytelling": "Change → das OS-Problem, das die Hauptfigur aufgibt; Steadfast → die OS-Lösung, an der sie festhält. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Change → das OS-Problem, das die Hauptfigur aufgibt; Steadfast → die OS-Lösung, an der sie festhält.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -433,7 +433,7 @@
               "narrative_function": "Obtaining",
               "illustration": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null.",
               "summary": "Story Goal: Obtaining",
-              "storytelling": "Das Ziel liegt auf dem OS-Concern; durch das Crucial Element festgelegt (Schritt 8). Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Das Ziel liegt auf dem OS-Concern.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -446,7 +446,7 @@
               "narrative_function": "Doing",
               "illustration": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
               "summary": "Story Requirements: Doing",
-              "storytelling": "Was geschehen muss, damit das Ziel erreichbar wird. Schritt 13; WP-Kandidat. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Herkunft: author step 13 (WP candidate).",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -459,7 +459,7 @@
               "narrative_function": "Becoming",
               "illustration": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
               "summary": "Story Consequence: Becoming",
-              "storytelling": "Was eintritt, wenn das Ziel scheitert. Stop-Story: die Folgen laufen schon. Schritt 13; WP-Kandidat. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Herkunft: author step 13 (WP candidate). Stop-Story: die Folgen laufen schon.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -472,7 +472,7 @@
               "narrative_function": "Progress",
               "illustration": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1).",
               "summary": "Story Forewarnings: Progress",
-              "storytelling": "Woran der Leser sieht, dass die Folgen näherkommen. Schritt 13; WP-Kandidat. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Herkunft: author step 13 (WP candidate).",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -485,7 +485,7 @@
               "narrative_function": "Memory",
               "illustration": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
               "summary": "Story Costs: Memory",
-              "storytelling": "Was das Verfolgen des Ziels unterwegs kostet. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Herkunft: author step 14 (session proposal).",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -498,7 +498,7 @@
               "narrative_function": "Understanding",
               "illustration": "AEGIS versteht Kael mit jedem Zug genauer.",
               "summary": "Story Dividends: Understanding",
-              "storytelling": "Was das Verfolgen des Ziels unterwegs einbringt. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Herkunft: author step 14 (session proposal).",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -511,7 +511,7 @@
               "narrative_function": "Past",
               "illustration": "AEGIS braucht seine eigenen Aufzeichnungen, um sweepen zu können.",
               "summary": "Story Prerequisites: Past",
-              "storytelling": "Was da sein muss, bevor die Requirements beginnen können. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Herkunft: author, fine structure 2b.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -524,7 +524,7 @@
               "narrative_function": "Conceiving",
               "illustration": "AEGIS darf nur im Rahmen des Protokolls löschen (das Trennungsprotokoll als Regel).",
               "summary": "Story Preconditions: Conceiving",
-              "storytelling": "Welche Bedingung zusätzlich auferlegt ist. Schritt 14; Vorschlag der Sitzung. Entscheidung des Autors (Plan/decisions/024-dramatica-is-the-recipe.md).",
+              "storytelling": "Herkunft: author, fine structure 2b.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -541,7 +541,7 @@
               "appreciation": "Main Character Signpost 1",
               "narrative_function": "Past",
               "summary": "Genesis-Trauma verdrängt; Erasure-Logs.",
-              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt I, Kap 1–13. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -556,7 +556,7 @@
               "appreciation": "Main Character Signpost 2",
               "narrative_function": "Present",
               "summary": "Sweeps, Kontrollprotokoll.",
-              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt II, Kap 14–26. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -571,7 +571,7 @@
               "appreciation": "Main Character Signpost 3",
               "narrative_function": "Progress",
               "summary": "Countdown; die Architektur degradiert sichtbar.",
-              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt III, Kap 27–34. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -586,7 +586,7 @@
               "appreciation": "Main Character Signpost 4",
               "narrative_function": "Future",
               "summary": "Ende der Operativität; Phoenix-Collapse.",
-              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Vortex, Kap 35–39. Herkunft: author step 12 (as 2026-06-10 and 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_main_character"
@@ -601,7 +601,7 @@
               "appreciation": "Influence Character Signpost 1",
               "narrative_function": "Conscious",
               "summary": "Kael, der unfixbare Bug.",
-              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt I, Kap 1–13. Herkunft: author step 12 (S1/S2 from 2026-06-10); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_influence_character"
@@ -616,7 +616,7 @@
               "appreciation": "Influence Character Signpost 2",
               "narrative_function": "Memory",
               "summary": "Kaels Erinnerung als Druck auf AEGIS.",
-              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt II, Kap 14–26. Herkunft: author step 12 (S1/S2 from 2026-06-10); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_influence_character"
@@ -631,7 +631,7 @@
               "appreciation": "Influence Character Signpost 3",
               "narrative_function": "Preconscious",
               "summary": "Reflexhafte Eskalation.",
-              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt III, Kap 27–34. Herkunft: author step 12 (S1/S2 from 2026-06-10); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_influence_character"
@@ -646,7 +646,7 @@
               "appreciation": "Influence Character Signpost 4",
               "narrative_function": "Subconscious",
               "summary": "Wieder-Verbinden; Kael gibt nach.",
-              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Vortex, Kap 35–39. Herkunft: author step 12 (S1/S2 from 2026-06-10); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_influence_character"
@@ -661,7 +661,7 @@
               "appreciation": "Objective Story Signpost 1",
               "narrative_function": "Doing",
               "summary": "Sweeps laufen, Verluste sind im Gang.",
-              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt I, Kap 1–13. Herkunft: author step 11 (S1/S2 as the outline 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -676,7 +676,7 @@
               "appreciation": "Objective Story Signpost 2",
               "narrative_function": "Learning",
               "summary": "Anomalien erkunden.",
-              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt II, Kap 14–26. Herkunft: author step 11 (S1/S2 as the outline 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -691,7 +691,7 @@
               "appreciation": "Objective Story Signpost 3",
               "narrative_function": "Understanding",
               "summary": "Das Muster begreifen.",
-              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt III, Kap 27–34. Herkunft: author step 11 (S1/S2 as the outline 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -706,7 +706,7 @@
               "appreciation": "Objective Story Signpost 4",
               "narrative_function": "Obtaining",
               "summary": "Letzter Sweep; das Ziel scheitert.",
-              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Vortex, Kap 35–39. Herkunft: author step 11 (S1/S2 as the outline 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_objective_story"
@@ -721,7 +721,7 @@
               "appreciation": "Relationship Story Signpost 1",
               "narrative_function": "Being",
               "summary": "Rollen: Wächter und Host.",
-              "storytelling": "Akt I (Kap 1–13). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt I, Kap 1–13. Herkunft: author step 12 (S1/S2 from the outline 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -736,7 +736,7 @@
               "appreciation": "Relationship Story Signpost 2",
               "narrative_function": "Conceiving",
               "summary": "AEGIS formuliert Kael als unkontrollierbar um.",
-              "storytelling": "Akt II (Kap 14–26). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt II, Kap 14–26. Herkunft: author step 12 (S1/S2 from the outline 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -751,7 +751,7 @@
               "appreciation": "Relationship Story Signpost 3",
               "narrative_function": "Conceptualizing",
               "summary": "Pläne gegeneinander.",
-              "storytelling": "Akt III (Kap 27–34). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Akt III, Kap 27–34. Herkunft: author step 12 (S1/S2 from the outline 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"
@@ -766,7 +766,7 @@
               "appreciation": "Relationship Story Signpost 4",
               "narrative_function": "Becoming",
               "summary": "Kaels Wandel, die Vortex-Inversion.",
-              "storytelling": "Vortex (Kap 35–39). Reihenfolge vom Autor gewählt (Schritte 11–12, signposts-in-sources.md); nicht berechnet, wird gegen das Treatment geprüft.",
+              "storytelling": "Vortex, Kap 35–39. Herkunft: author step 12 (S1/S2 from the outline 2026-05-18); nicht berechnet.",
               "perspectives": [
                 {
                   "perspective_id": "persp_relationship_story"

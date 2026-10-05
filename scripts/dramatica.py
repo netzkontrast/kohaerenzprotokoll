@@ -35,10 +35,11 @@ What it does not enforce, because neither chart states it: how the four
 throughlines' concerns relate to each other, which element is crucial, and the
 plot story points beyond their being types.
 
-    python3 dramatica.py selftest
-    python3 dramatica.py check <spec.json>
-    python3 dramatica.py under <Type>            # variations and element quads of a type
-    python3 dramatica.py where <Element|Variation>
+    python3 scripts/dramatica.py selftest
+    python3 scripts/dramatica.py check <spec.json>
+    python3 scripts/dramatica.py under <Type>            # variations and element quads of a type
+    python3 scripts/dramatica.py where <Element|Variation>
+    python3 scripts/dramatica.py derive <twelve.json>   # what the engine derives (D1–D7, see below)
 """
 import json, sys
 

@@ -78,16 +78,21 @@ with the consequences of each option laid out.
     Being / Desire / Test). Not derivable: B's IC problem, A's RS focus/direction order, and **the signposts** — their
     function is licensed Dramatica intelligence (the author's NCP fork says so: `profiles/dramatica/semantic-boundary.md`);
     the signposts of steps 11–12 stay as chosen, each still the four types of its class.
+17. **Casting, first round (W10, 2026-10-05).** Kael's alters are overall-story characters in Kael's player
+    (the book: „If more than one Overall Story Character is placed into a single player, the player will appear to
+    have multiple personalities" — Sybil); A's protagonist is an alter (which one is open — Lex was the example);
+    in B, AEGIS is protagonist and holds Logic (the Reason function), Kael is antagonist and holds Feeling (Emotion).
+    Recorded under `players` in `Plan/storyform/a.json` and `b.json`.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10), logline and genre;
 the signpost order and the element choices are to be checked against the treatment (W1: B as the check).
-The specs are `Plan/runs/storyform-2026-10-02/specs/a-author.json` and `b-author.json`; the NCP documents
-`Plan/runs/storyform-2026-10-02/ncp/`, built with the ncp-author skill and valid against NCP 1.3.0.
+The storyforms live in `Plan/storyform/` (`a.json`, `b.json`, the generated `overview.md` and NCP files), checked by
+`scripts/storyform.py`; how to change them is the skill `storyform`.
 
 ## What the check found
 
-Against the chart (`Plan/runs/storyform-2026-10-02/dramatica.py`, self-test `held`, every pair cross-checked
+Against the chart (`scripts/dramatica.py`, self-test `held`, every pair cross-checked
 against the 1995 dictionary), **both source storyforms are illegal at the element level**: A's problem Avoid is not
 under its concern Memory, and B's problem Logic is not under its concern Progress. The report's check „Fact ⊂
 Progress ✓" (L64) is right; it did not check the element level.

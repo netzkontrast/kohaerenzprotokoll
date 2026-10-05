@@ -1,0 +1,238 @@
+{
+ "storyform": "A",
+ "title": "Storyform A — Heuristik der Integration (K1)",
+ "decision": "Plan/decisions/024-dramatica-is-the-recipe.md",
+ "premise": "Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung.",
+ "chapters": {
+  "1": "Akt I, Kap 1–13",
+  "2": "Akt II, Kap 14–26",
+  "3": "Akt III, Kap 27–34",
+  "4": "Vortex, Kap 35–39"
+ },
+ "classes": {
+  "MC": "Mind",
+  "IC": "Universe",
+  "OS": "Psychology",
+  "RS": "Physics"
+ },
+ "dynamics": {
+  "story_driver": "decision",
+  "story_outcome": "success",
+  "story_judgment": "good",
+  "story_limit": "optionlock",
+  "problem_solving_style": "holistic",
+  "main_character_resolve": "change",
+  "main_character_growth": "stop",
+  "main_character_approach": "be_er",
+  "influence_character_resolve": "steadfast"
+ },
+ "MC": {
+  "concern": "Memory",
+  "issue": "Suspicion",
+  "problem": "Inertia",
+  "solution": "Change",
+  "signposts": [
+   "Memory",
+   "Subconscious",
+   "Preconscious",
+   "Conscious"
+  ],
+  "focus": "Chaos",
+  "direction": "Order"
+ },
+ "IC": {
+  "concern": "Past",
+  "issue": "Prediction",
+  "problem": "Change",
+  "solution": "Inertia",
+  "signposts": [
+   "Past",
+   "Progress",
+   "Present",
+   "Future"
+  ],
+  "focus": "Actuality",
+  "direction": "Perception"
+ },
+ "OS": {
+  "concern": "Conceptualizing",
+  "issue": "State of Being",
+  "problem": "Inertia",
+  "solution": "Change",
+  "signposts": [
+   "Being",
+   "Becoming",
+   "Conceiving",
+   "Conceptualizing"
+  ],
+  "focus": "Knowledge",
+  "direction": "Thought"
+ },
+ "RS": {
+  "concern": "Understanding",
+  "issue": "Instinct",
+  "signposts": [
+   "Learning",
+   "Doing",
+   "Obtaining",
+   "Understanding"
+  ],
+  "problem": "Ability",
+  "solution": "Desire"
+ },
+ "plot": {
+  "requirements": "Learning",
+  "consequence": "Past",
+  "forewarnings": "Preconscious",
+  "costs": "Being",
+  "dividends": "Becoming",
+  "prerequisites": "Memory",
+  "preconditions": "Present"
+ },
+ "players": [
+  {
+   "name": "Kael",
+   "role": "Main Character",
+   "os_elements": [
+    "Inertia"
+   ],
+   "by": "crucial element (H6/H7), step 8"
+  },
+  {
+   "name": "Juna",
+   "role": "Influence Character",
+   "os_elements": [
+    "Change"
+   ],
+   "by": "H8, step 9a"
+  },
+  {
+   "name": "ein Alter Kaels (z. B. Lex) — offen, welches",
+   "role": "Protagonist",
+   "os_elements": [],
+   "by": "author, casting 2 (2026-10-05): an alter pursues the goal; alters are OS characters in Kael's player"
+  }
+ ],
+ "open": [
+  "RS focus/direction: the pair Knowledge/Thought, order open",
+  "which alter is the protagonist; antagonist and the other archetypes (W10)",
+  "logline, genre"
+ ],
+ "texts": {
+  "perspectives": {
+   "MC": [
+    "i",
+    "Kael (MC, Mind)",
+    "Kaels innere Linie: Memory, Suspicion ↔ Evidence, Inertia → Change."
+   ],
+   "IC": [
+    "you",
+    "Juna (IC, Universe/Past)",
+    "Juna bezeugt, ohne zu zwingen; sie verkörpert Change gegen Kaels Inertia."
+   ],
+   "OS": [
+    "they",
+    "AEGIS, Guardians und System: Manipulation der Simulation (Psychology)",
+    "Ziel Conceptualizing; alle ringen um State of Being ↔ Sense of Self."
+   ],
+   "RS": [
+    "we",
+    "Kael und Juna: der Moonshine-Link (Physics)",
+    "Die Beziehung ringt darum, einander über eine trennende Grenze zu verstehen."
+   ]
+  },
+  "why": {
+   "MC": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist.",
+   "IC": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia.",
+   "OS": "Schritt 8a: Thema und Crucial Element greifen im selben Quad ineinander.",
+   "RS": "Schritt 10a; Issue und Problem abgeleitet (D5, D7)."
+  },
+  "illustrations": {
+   "MC Problem": "Kael hält am Bestehenden fest, auch wenn es zerfällt.",
+   "MC Solution": "Kael lässt Veränderung zu.",
+   "MC Issue": "Verdacht gegen Beleg: was Kael über sich und seine Anteile glaubt.",
+   "IC Issue": "Was kommen wird, gegen den Versuch, es abzuwenden.",
+   "RS Problem": "Was beide können — der Kanal als Fähigkeit — ist das Problem der Beziehung.",
+   "RS Solution": "Dem folgen, was beide wollen.",
+   "IC Problem": "Juna steht für den Wandel, den Kael verweigert.",
+   "IC Solution": "Beharren — das Gegenstück, das Juna in Kael trifft.",
+   "OS Issue": "Was jemand wirklich ist gegen das Bild, das er von sich hat.",
+   "OS Problem": "Das System hält am Bestehenden fest — das Crucial Element, das Kael aufgibt.",
+   "OS Solution": "Veränderung des Bestehenden.",
+   "Story Goal": "Einen Plan, ein Konzept der Ordnung entwickeln.",
+   "RS Issue": "Instinkt gegen Konditionierung: was der Link von selbst tut gegen was er gelernt hat."
+  },
+  "plot": {
+   "requirements": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
+   "consequence": "Die Fragmentierungsnacht wiederholt sich.",
+   "forewarnings": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen.",
+   "costs": "Kaels funktionierende Fassade zerfällt: Host-Rolle, Alltag, Routinen.",
+   "dividends": "Kael wird funktional plural; die Anteile werden Verbündete.",
+   "prerequisites": "Ein erstes Erinnerungsfragment, an dem Kael zu lesen beginnen kann.",
+   "preconditions": "Kael kann nur in Zeitlücken suchen."
+  },
+  "signposts": {
+   "Being": "Rollen; die Fassade hält.",
+   "Becoming": "Das Wesen bricht auf.",
+   "Conceiving": "Der Einfall.",
+   "Conceptualizing": "Der Plan wird entwickelt (das Ziel).",
+   "Memory": "Erinnerungslosigkeit, das Register.",
+   "Subconscious": "Trauma-Wiederbegegnung, Sehnsucht.",
+   "Preconscious": "Reflexe unter Stress, aber mit Absicht.",
+   "Conscious": "Bewusste Entscheidung, Wieder-Erkennen.",
+   "Past": "Junas Resonanz löst die Genesis-Krise aus.",
+   "Progress": "Der Wandel rückt näher.",
+   "Present": "Reine Präsenz, Telefon-Stille.",
+   "Future": "Juna manifestiert ontologisch.",
+   "Learning": "Junas Präsenz spüren.",
+   "Doing": "Die Verbindung als Werkzeug.",
+   "Obtaining": "Der Kanal als Ressource.",
+   "Understanding": "Verstehen ohne Worte."
+  }
+ },
+ "provenance": {
+  "classes": "author, step 2 (model of the status report 2026-05-07)",
+  "dynamics.story_driver": "source (report 2026-05-07), kept in step 2",
+  "dynamics.story_outcome": "source, step 2",
+  "dynamics.story_judgment": "source, step 2",
+  "dynamics.story_limit": "source, step 2",
+  "dynamics.problem_solving_style": "source, step 2",
+  "dynamics.main_character_resolve": "source, step 2",
+  "dynamics.main_character_growth": "author, step 16 (Stop instead of Start: rule D1)",
+  "dynamics.main_character_approach": "source, step 2",
+  "dynamics.influence_character_resolve": "derived, rule R6",
+  "MC.concern": "author step 6; derived D3 agrees",
+  "MC.issue": "author step 6; derived D3 agrees",
+  "MC.problem": "author step 6; derived D3 agrees",
+  "MC.solution": "author step 6; derived D3 agrees",
+  "MC.focus": "author, fine structure 2",
+  "MC.direction": "author, fine structure 2",
+  "MC.signposts": "author step 12 after a source search",
+  "IC.concern": "source (report); derived D3 agrees",
+  "IC.issue": "author step 9a; derived D3 agrees",
+  "IC.problem": "author step 9a (carries Change against Kael's Inertia)",
+  "IC.solution": "author step 9a",
+  "IC.focus": "author, fine structure 2",
+  "IC.direction": "author, fine structure 2",
+  "IC.signposts": "author step 12 (S1/S4 from the outline 2026-05-18)",
+  "OS.concern": "session, step 8 (the only Psychology type holding the crucial element)",
+  "OS.issue": "author step 8a",
+  "OS.problem": "crucial element, step 8",
+  "OS.solution": "pair of the problem",
+  "OS.focus": "author, fine structure 2",
+  "OS.direction": "author, fine structure 2",
+  "OS.signposts": "author step 11 (no source gives a Psychology order)",
+  "RS.concern": "author step 10a; derived D6 agrees",
+  "RS.issue": "derived D7, author step 16",
+  "RS.problem": "derived D5, author step 16",
+  "RS.solution": "derived D5, author step 16",
+  "RS.signposts": "author step 12 (as 2026-06-10 and 2026-05-18)",
+  "plot.requirements": "author step 13 (WP candidate)",
+  "plot.consequence": "author step 13 (WP candidate)",
+  "plot.forewarnings": "author step 13 (WP candidate)",
+  "plot.costs": "author step 14 (session proposal)",
+  "plot.dividends": "author step 14 (session proposal)",
+  "plot.prerequisites": "author, fine structure 2b",
+  "plot.preconditions": "author, fine structure 2b"
+ }
+}

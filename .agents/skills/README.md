@@ -19,6 +19,7 @@ skills are missing from it or listed here without existing, and
 | `qmd/SKILL.md` | search and read the German corpus with qmd: which collection answers which question |
 | `dspy/SKILL.md` | write or change anything that imports `dspy` or `gepa`, or calls a model — DSPy 3.3.1 as this repository uses it |
 | `typesafe/SKILL.md` | build with TypeSafe's Jev, a model that answers typed questions |
+| `storyform/SKILL.md` | read and change the novel's two Dramatica storyforms in `Plan/storyform/`: one question to the author at a time, every value with its provenance |
 | `jules/SKILL.md` | spawn a Google Jules session on a GitHub repository, drive it through its plan, and verify it pushed |
 
 `ingest`, `dspy`, `typesafe`, `jules` and `writing-skills` end in a *Provisional* block: what the skill may
