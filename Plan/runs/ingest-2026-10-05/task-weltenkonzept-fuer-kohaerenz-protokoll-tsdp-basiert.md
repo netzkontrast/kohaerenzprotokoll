@@ -1,7 +1,7 @@
 <!-- 2026-10-05 ingest, a document with no run yet: steps 1–4 on the R5 setup, on Sonnet, one reader at a time. -->
 Work in /home/user/kohaerenzprotokoll. Today is 2026-10-05. **You run on Sonnet.** Name it wherever your definition asks for the model: `written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count` and in the note's `read:` „… by a document-reader subagent (Sonnet)“.
 
-Your document: slug `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert` (category plot-outline, 155 lines). Nobody has read it; there is no run folder yet.
+Your document: slug `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert` (category theorie-psychologie, 155 lines). Nobody has read it; there is no run folder yet.
 
 **Your rulebook is `Plan/runs/reader-lab-2026-09-30/card.md`** plus steps 1–3 of `.agents/skills/ingest/SKILL.md` (sections *1 · Open the run* to *3 · Count, then write the census*) for the candidate list. Read, in this order: the card, `.agents/skills/reader-tools/references/failures.md`, the two ingest sections, `Plan/briefings/extract.md`; then open the run and read the document. Never read a script's source, `Wiki/`, `NOW.md`, or another document's files.
 
