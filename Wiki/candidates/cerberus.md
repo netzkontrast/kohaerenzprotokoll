@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation"]
 gathered: "2026-09-17"
 ---
 
@@ -40,6 +40,10 @@ Leans on LogOS' structural data; warns Mnemosyne about „riskant" emotional sta
 
 `Die Grenzfeste` — see that page. The pairing is the document's own organising
 principle: each section is a `Guardian/Welt-Paar`.
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — Guardian of the Boundary Fortress, security and the hostility of all novelty
+
+The manifest says the administration of the Boundary Fortress, Core World 3, „is delegated to the Guardian subsystem designated as Cerberus“ ^[aegis-persona-and-manifest-generation.md:L93]. His domain „covers security, defense, systemic boundaries, and integrity protocols“ ^[aegis-persona-and-manifest-generation.md:L93], and he is the „ultimate firewall and immune system of the architecture“ ^[aegis-persona-and-manifest-generation.md:L93]. His limitation is a „hardcoded algorithm that mandates the classification of all novelty, ambiguity, and deviation from the established baseline as an immediate hostile threat“ ^[aegis-persona-and-manifest-generation.md:L97]. Facing the anomaly he „processes it strictly as an unidentifiable intrusion penetrating system boundaries“ ^[aegis-persona-and-manifest-generation.md:L99]; the manifest adds that he „actively works against system resolution by isolating and neutralizing the anomaly's signals“ ^[aegis-persona-and-manifest-generation.md:L99].
 
 ## Open
 
