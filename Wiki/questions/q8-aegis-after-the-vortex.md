@@ -180,3 +180,13 @@ Stands as Hard Canon and Soft Canon rows plus an open question, dated 2026-03-26
 Kap 34 is titled `¬∘(AEGIS\_Protokoll)` (the symbols stand around the quotation) and plans „AEGIS kann die Unvollständigkeit nicht verarbeiten.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431] with the motif „Blue Screen of Death, berstende Server, Stille.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L433] Kap 35, „Algorithmische Melancholie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L437] plans „AEGIS ist nicht tot, sondern erstarrt in paradoxer Schönheit“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L443] with the function „Friedliche, ethische Auflösung des Konflikts. Keine Rache.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L444]
 
 Stands as a plan of 2026-02-25 in which AEGIS remains as a frozen figure after its protocol fails; recorded, not applied.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The report records two fates for AEGIS and notes that the transformation was fixed but the crash still circulates.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+C-005: Doc 42 as quoted by the report: „Hypothese B (Klassischer Kollaps): AEGIS' binäre Logik zerbricht am Paradoxon“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L32]; Doc 30 as quoted: „AEGIS is not destroyed by a system crash“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L32]. The report's own summary: „Alternativer Ausfallmodus von AEGIS am Ende der Geschichte“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L32] and „schwirrt aber in den Docs noch herum“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L32].
+
+It stands as a report of two alternatives, melancholy and crash, with the melancholy marked as fixed by the report; the question's answer is not changed.
