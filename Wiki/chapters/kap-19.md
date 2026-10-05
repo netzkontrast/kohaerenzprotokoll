@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -68,6 +68,14 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - Cause: „Die Manipulation der parakonsistenten Logik zieht die Aufmerksamkeit von AEGIS auf sich.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
 - Story: „Die ConsensusEnf-Protokolle leiten eine massive Flutung der unteren Bibliotheksebenen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148] · the substance is „einer zähflüssigen, grauen Substanz, die beim Berühren jegliche emotionale Bedeutung aus Erinnerungen saugt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
 - Who: „Kael muss mit Kiko auf dem Rücken über wankende Büchertürme fliehen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Persecutor's Whisper“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L238]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „A (Selene + Silas — beide jetzt benannt)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L240]
+
+- Story: the outline places: „Selene tritt zum ersten Mal hervor“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L240]; „Er imitiert Härte, weil Härte überlebt hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L240]
+- The pacing section marks a plateau: „Kap 19 (Selene/Silas)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L370].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
