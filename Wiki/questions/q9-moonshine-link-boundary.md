@@ -23,7 +23,7 @@ Dual-Storyform background document restates it. By a whole-word count over the l
 The sources ask it three ways, and every way is about the same edge:
 
 1. **What crosses** — which kinds of thing the link carries and which it does not.
-2. **Who feels it, and where** — whether [[silas|Silas]] alone inside Kael's system
+2. **Who feels it, and where** — whether [[silas|Silas]] alone inside [[kael|Kael]]'s system
    senses it, and whether it is felt everywhere or only at particular places.
 3. **Whose it is** — the Kael–Juna pair's alone, or a property of the world's
    substrate that anyone could in principle use.
@@ -55,7 +55,7 @@ open:
 The master report writes it with its lock open (L597–L603, above), and the
 worldbuilding concept under „Boundary Conditions (offen, Appendix C):" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L330],
 restating it as a proposal: „Moonshine-Link-Boundary. Vorgeschlagen: nur MI/Witness, keine Daten/Materie. Final-Lock-In offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L891]
-The Konzept-Iteration Genesis, of the same date, draws the line elsewhere:
+The Konzept-Iteration [[genesis|Genesis]], of the same date, draws the line elsewhere:
 „er überträgt Resonanz, nicht Information“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L802] — where the three lists count mutual
 information as carried. The philosophy catalogue gives the image: „Telefon-Stille als MI ohne Daten ist das prototypische Bild." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L513]
 
@@ -101,10 +101,18 @@ Reset-Doc's Appendix C, which is landed and unread: `kohaerenz-protokoll-struktu
 whose Appendix C has a heading C.2 on the Moonshine-Link's boundary (its L697; a
 heading looked up for orientation, not read). The one other unread document that writes `Moonshine-Boundary` is
 `research-prompt-dramatica-dual-storyform-synthese-aegis-thro` (2026-04-29), twice — by
-its title a research prompt for a dual-storyform synthesis of AEGIS' throughline.
+its title a research prompt for a dual-storyform synthesis of [[aegis|AEGIS]]' throughline.
 
 ## 2026-09-29 — gathered from the pages
 
 Written from what [[moonshine-link]], [[silas]], [[juna]] and [[externe-ebene]]
 already quote; every quotation here stands on one of those pages. No document was
 read for this page.
+
+## 2026-10-05 — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch
+
+**The pitch says what crosses the Moonshine-Link: emotional states and pain, without time delay, between Kael and Juna.**
+
+„Die Verbindung zwischen Kael und Juna operiert nicht-algorithmisch.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125] It rests on an analogy to entanglement through ER=EPR, which allows „Dies ermöglicht zeitlose, nicht-lokale Korrelationen“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125], „wodurch emotionale Zustände und Schmerz ohne zeitliche Verzögerung zwischen ihnen geteilt werden“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125]. For AEGIS it is „einen nicht-modellierbaren ontologischen Exploit“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L125], which AEGIS classifies as an irrelevant anomaly.
+
+Stands as a statement of what crosses and between whom (Kael and Juna); the pitch gives no rule for where the link ends and no statement that it is the pair's alone or the substrate's.
