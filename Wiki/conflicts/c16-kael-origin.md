@@ -72,3 +72,11 @@ Where it stands in the record's own terms: an inside origin with an outside pull
 In §3.3, beat 2: „Kael wird als Komponente 734 abgespalten“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114] and, as the line says, „eine Funktion innerhalb der Architektur, nicht außerhalb“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114] Beat 3: „Lebt als Mensch.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L115] §10 drops, as the Kanon's decision, „VOA + Leech-Lattice rank-24 + Orbifold + Monstergruppe + Chaitin Ω + 3-Layer-Witness als kanonische Architektur.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L583] — what remains is „Der Rest ist optionales Hinterzimmer-Material“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L583] The document calls itself the „alleinige strukturelle Grundlage“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L23]; that is its claim and does not settle the record.
 
 Where it stands in the record's own terms: a source that places Kael's origin inside the architecture, with the mathematics dropped; the position is its CORE statement.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report
+
+**The Synthese-Report's table sets, in column 2, Juna as an exiled part of Kael's Ursprungs-Ich against, in column 3, Kael and AEGIS separated with Juna the unmodellable rest; its verdict is `Kanon gewinnt`.**
+
+Column 2 (the pre-reset PDFs, not the report's voice): „Juna ist ein exilierter Teil von Kaels eigenem“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L49] Column 3 (the Struktur-Kanon as the report renders it): „Kael und AEGIS wurden getrennt.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L49] and „Kael wurde zur Komponente 734.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L49] Column 4, the report's verdict: „Juna bleibt radikal exterior“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L49] Part 1.6 states as consensus „Beat 3: Die Entstehung von Kael (Komponente 734) als isolierte Funktion“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L39]
+
+Stands: Kael as the isolated function that the separation of Kael and AEGIS leaves, with Juna not part of him, in the column the report calls the Struktur-Kanon; recorded, not applied.
