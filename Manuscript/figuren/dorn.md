@@ -1,7 +1,7 @@
 ---
 name: Dorn
 kind: figur
-kanon: []
+kanon: [Menschen, W10-A]
 match: ["Dorn"]
 ---
 
@@ -11,7 +11,8 @@ Alter Radiatortechniker, zynisch, glaubt an Thermodynamik. Erfunden in einer Cla
 
 ## Kanon
 
-Nichts entschieden.
+- **Funktion** (W10-A): Contagonist (Hinder, Temptation).
+- **Will** (Menschen, 2026-10-05): dass seine Schwester in Sektor 04 nicht kocht; seine Versuchung für Kael: lösch, was dich bremst, die Physik verzeiht nichts.
 
 ## Arbeitsstand
 
@@ -20,4 +21,4 @@ Nichts entschieden.
 
 ## Offen
 
-- Gehört die Figur in deinen Roman? Erst dein Ja macht sie zu mehr als einem Vorschlag.
+- Seine Stelle im Plot über das Wollen hinaus; was aus Plot-Entwurf 1 gilt, ist nicht entschieden.

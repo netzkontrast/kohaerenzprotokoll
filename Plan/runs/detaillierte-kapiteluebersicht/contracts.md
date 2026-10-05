@@ -9,7 +9,7 @@ Every HyperExtract contract run on this source, one line per run — written by 
 | `Anchors` | `anchors-haiku-2026-09-30` | haiku | yielded | 26 | 14 | 12 surface absent from document | — | $0.097 |
 | `CastRoles` | `castroles-haiku-2026-09-30` | haiku | yielded | 24 | 15 | 9 surface absent from document | — | $0.094 |
 | `ChapterBeats` | `chapterbeats-haiku-2026-09-30` | haiku | yielded | 43 | 32 | 1 quote not placed, 10 surface absent from document | — | $0.103 |
-| `ChapterCards` | `chaptercards-haiku-2026-09-30` | haiku | yielded | 71 | 36 | 3 quote not placed, 31 surface absent from document | — | $0.118 |
+| `ChapterCards` | `chaptercards-haiku-2026-09-30` | haiku | yielded · stale (template changed, source current) | 71 | 36 | 3 quote not placed, 31 surface absent from document | — | $0.118 |
 | `Precedence` | `precedence-haiku-2026-09-30` | haiku | yielded | 39 | 33 | 1 quote not placed, 5 surface absent from document | — | $0.101 |
 | `StructureBeats` | `structurebeats-haiku-2026-09-30` | haiku | yielded | 29 | 11 | 1 quote not placed, 17 surface absent from document | — | $0.099 |
 

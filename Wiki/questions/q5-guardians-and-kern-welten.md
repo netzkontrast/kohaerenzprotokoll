@@ -369,3 +369,11 @@ Where it stands: the pairing is briefed for an author to refine, not decided; th
 **The Guardian by world, in each section heading.**
 „Konstrukt-Stadt (Guardian: LogOS)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L19]; „Resonanz-Landschaft (Guardian: Mnemosyne)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L41]; „Grenzfeste (Guardian: Cerberus)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L63]; „Möglichkeits-Garten (Guardian: Kairos/Sophia)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L85]. The overview speaks of the Kern-Welten as „die Aspekte von Kaels Psyche repräsentieren“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17].
 The question stays open; this document pairs each Kern-Welt with its Guardian.
+
+## 2026-10-05 — `charaktere`, 2025-07-29, the character concept
+
+**The character concept pairs one Guardian with each Kernwelt and gives KW4 two.**
+
+„Jeder Guardian ist einer spezifischen Kernwelt zugeordnet“ ^[charaktere.md:L363] (L363). `LogOS` stands for KW1, `Mnemosyne` for KW2, `Cerberus` for KW3 (L365–L367), and for KW4: „Die Wächter der KW4 (Kairos-Potentialis), einer kreativitäts- und potenzialbasierten Welt“ ^[charaktere.md:L368], `Kairos & Sophia` (L368).
+
+Stands as four worlds with five named Guardians, two of them in KW4; recorded, not applied.

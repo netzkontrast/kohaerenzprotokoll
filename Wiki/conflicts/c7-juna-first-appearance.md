@@ -2,7 +2,7 @@
 id: C7
 subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
-status: open
+status: decided — first direct encounter in the present in Akt III (Kap 32), by the author, 2026-10-05 (W9)
 first_seen: "2026-09-24"
 sources: 36
 pages: ["juna"]
@@ -10,7 +10,7 @@ pages: ["juna"]
 
 # C7 — Juna appears once in Kap 33, or first in Kap 38
 
-**Append-only.** This record decides nothing.
+**Append-only.** This record decides nothing; the author decided it on 2026-10-05 (section at the end).
 
 | # | where | source | line |
 |--:|---|---|--:|
@@ -371,3 +371,15 @@ Stands as a plan of 2026-02-25 with Juna first in Kap 3 and physically in Kap 38
 Kap 3: „Kael begegnet einer flüchtigen Silhouette, die vom System als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83] „Syntaxfehler“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83] classified: „Es ist Juna.“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83]. The essay sections name her earlier, but not in a chapter.
 
 Stands as an outline that places Juna's first appearance in Kap 3; recorded, not applied.
+
+## 2026-10-05 — decided by the author: Juna follows her signposts
+
+Asked *Wann und wie tritt Juna auf?* with the options of [W9](../../Plan/weichen/w9-juna.md), after
+[W0](../../Plan/weichen/w0-kern.md) had made her a full figure, the author chose that her appearance follows her
+influence-character signposts in Storyform A (Past → Progress → Present → Future, decision 025 step 26): in Akt I she
+appears in remembered scenes before the call (Kap 4, 11), in Akt II her life and the silence go on (Kap 17, 25), and
+the **first direct encounter in the present is in Akt III, Kap 32**; the Vortex (Kap 36, 38) holds their future.
+
+**What this decides:** the chapter of the first direct appearance in the present. Kap 33 (the character bible),
+Kap 38 (the outline) and Kap 3 (the dual-storyform outline of 2026-04-30) stay on this record as what those documents said, dated, and are no longer the arrangement. That
+Juna appears earlier in remembered scenes and speaks is W0's answer, not a source's.

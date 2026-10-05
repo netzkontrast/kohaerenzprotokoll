@@ -1,0 +1,14 @@
+# charaktere
+  lines                398  (frontmatter ends at 9)
+  body words           6610
+  headings             6   bold-only lines 10
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    158   ascii quotes 32
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      Funktion & Ursprung x11, Motivation/Angst x11, TSDP-Typ x11
+  longest line         1349 chars
+

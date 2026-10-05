@@ -14,7 +14,7 @@ Every HyperExtract contract run on this source, one line per run — written by 
 | `CastRoles` | `castroles-sonnet-2026-10-01` | sonnet | yielded | 2 | 2 | — | 8 | $0.136 |
 | `CausalLinks` | `causallinks-sonnet-2026-10-01` | sonnet | yielded | 2 | 2 | — | 8 | $0.149 |
 | `ChapterBeats` | `chapterbeats-sonnet-2026-10-01` | sonnet | yielded | 23 | 21 | 2 quote not placed | 8 | $0.193 |
-| `ChapterCards` | `chaptercards-sonnet-2026-10-01` | sonnet | yielded | 6 | 6 | — | 8 | $0.162 |
+| `ChapterCards` | `chaptercards-sonnet-2026-10-01` | sonnet | yielded · stale (template changed, source current) | 6 | 6 | — | 8 | $0.162 |
 | `DiegeticTerms` | `diegeticterms-sonnet-2026-10-01` | sonnet | refused | 1 | 0 | 1 quote not placed | 8 | $0.129 |
 | `EntityFacts` | `entityfacts-sonnet-2026-10-01` | sonnet | yielded | 17 | 14 | 3 surface absent from document | 8 | $0.191 |
 | `Knowledge` | `knowledge-sonnet-2026-10-01` | sonnet | yielded | 3 | 1 | 2 quote not placed | 8 | $0.130 |

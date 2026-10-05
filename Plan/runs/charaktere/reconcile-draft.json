@@ -1,0 +1,420 @@
+{
+  "document": "charaktere",
+  "drive_id": "15VM3ulq9pxlLMr9GyMGmWyYkZj_aMew_2_M56LSN9rI",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 130,
+    "decisions": 143,
+    "decided_by_lookup": 91,
+    "needs_judgement": 52
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        21,
+        116,
+        346,
+        348,
+        350,
+        363
+      ],
+      "attribution": "",
+      "note": "AEGIS as the cause of Kael's fragmentation, and its paradox"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        67,
+        189,
+        306
+      ],
+      "attribution": "",
+      "note": "Alex as protector-ANP"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        27,
+        96,
+        125,
+        262,
+        342
+      ],
+      "attribution": "",
+      "note": "the Anteile, called Alters in the third answer, and a twelfth name"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        82,
+        338,
+        341
+      ],
+      "attribution": "",
+      "note": "Argus as observer and critic"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "Kael's Cache Kohärenz problem"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        367
+      ],
+      "attribution": "",
+      "note": "Guardian of KW3"
+    },
+    {
+      "page": "did",
+      "lines": [
+        228,
+        263
+      ],
+      "attribution": "",
+      "note": "DID as the research base of the profiles"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        392
+      ],
+      "attribution": "",
+      "note": "Kontrolle vs. Emergenz"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        230
+      ],
+      "attribution": "",
+      "note": "AEGIS reads Kael's transformation as maximal entropy"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        17,
+        116,
+        349
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise of AEGIS as the cause of Kael's fragmentation"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        246,
+        363,
+        368
+      ],
+      "attribution": "",
+      "note": "section V: one Guardian per Kernwelt, two in KW4"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        57,
+        327
+      ],
+      "attribution": "",
+      "note": "Isabelle as sexualised EP"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        100,
+        356,
+        357
+      ],
+      "attribution": "",
+      "note": "Juna/V as an alliance point and as a hedged external entity"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        23,
+        32,
+        116,
+        234,
+        242,
+        349,
+        356
+      ],
+      "attribution": "",
+      "note": "Kael's trauma biography through AEGIS, and the way to functional multiplicity"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        368
+      ],
+      "attribution": "",
+      "note": "Kairos & Sophia as the Guardians of KW4"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        116,
+        246
+      ],
+      "attribution": "",
+      "note": "four Kernwelten as externalisations of psychic domains"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        47,
+        48,
+        162,
+        296
+      ],
+      "attribution": "",
+      "note": "Kiko as the child part of fear and freeze"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        77,
+        205,
+        288,
+        371,
+        373
+      ],
+      "attribution": "",
+      "note": "the rational ANP in three answers, and a second, external Lex"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        52,
+        170,
+        317
+      ],
+      "attribution": "",
+      "note": "Lia as the ambivalent child part"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        365
+      ],
+      "attribution": "",
+      "note": "Guardian of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        366
+      ],
+      "attribution": "",
+      "note": "Guardian of KW2"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        356
+      ],
+      "attribution": "",
+      "note": "a metaphor for the Juna/V connection"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        62,
+        334
+      ],
+      "attribution": "",
+      "note": "Moros as collapse"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        234,
+        242,
+        383
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the goal, not fusion"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "AEGIS defined by negating it"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        42,
+        153,
+        282
+      ],
+      "attribution": "",
+      "note": "Nyx, the fighter, with two genders"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "named beside the Nichts Rauschen"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        393
+      ],
+      "attribution": "",
+      "note": "layered levels of reality"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        72,
+        310
+      ],
+      "attribution": "",
+      "note": "Rhys as caretaker-ANP"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        37,
+        141,
+        145,
+        274
+      ],
+      "attribution": "",
+      "note": "Selene as core self and inner helper"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        368
+      ],
+      "attribution": "",
+      "note": "Kairos & Sophia as the Guardians of KW4"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        27,
+        114,
+        263
+      ],
+      "attribution": "",
+      "note": "TSDP as the foundation of Kael's fragmentation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 349,
+      "decision": "reading",
+      "why": "read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 230,
+      "decision": "reading",
+      "why": "read on entropie"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 17,
+      "decision": "reading",
+      "why": "section I's heading, Die Genesis der Fragmentierung; read on genesis with L116"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 368,
+      "decision": "reading",
+      "why": "KW4's guardians, Kairos & Sophia (L367–L368)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 327,
+      "decision": "occurrence",
+      "why": "an Anteil's persona, not the Bewusstseinsinstanzen"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 393,
+      "decision": "reading",
+      "why": "read on realitaetsebenen"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 368,
+      "decision": "reading",
+      "why": "KW4's guardians, Kairos & Sophia (L367–L368)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 393,
+      "decision": "occurrence",
+      "why": "the heading „Realität & Simulation“, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

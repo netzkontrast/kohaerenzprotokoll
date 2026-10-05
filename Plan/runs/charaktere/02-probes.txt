@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      158
+  ascii quotes           32
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemagent, Systemanalytiker, Systeme, Systemfehler, Systemkohärenz, Systemlogik, Systemperspektive, Systems, Systemsicht, Systemtheorie
+  chara    Charakter, Charakterdokuments, Charaktere, Charakteren, Charakterentwicklung, Charakterideen, Charakterkonzepte, Charakterkonzeption, Charakterlogik, Charakterprofile
+  bindu    Bindung, Bindungen, Bindungsaufbau, Bindungsbedürfnis, Bindungskapazitäten, Bindungsreaktion, Bindungsruf, Bindungsverhalten
+  integ    Integration, Integratives, Integratorin, Integriert, Integrierte, Integrity, Integrität
+  inter    Interaktion, Interaktionen, Interaktionspunkte, Interne, Interner, Internes, Interventionen
+  konfl    Konflikt, Konfliktdynamiken, Konflikte, Konflikten, Konfliktmotoren, Konflikttreiber, Konfliktvermeidung
+  selbs    Selbst, Selbstbehauptung, Selbstbeobachtung, Selbstreflexion, Selbstregulation, Selbstvalidierung, Selbstzustände
+  traum    Trauma, Traumafolgestörung, Traumareaktion, Traumas, Traumata, Traumatisierung, Traumaverarbeitung
+  emoti    Emotion, Emotionale, Emotionalen, Emotionen, Emotionskontrolle, Emotionslosigkeit
+  kontr    Kontrollbedürfnis, Kontrolle, Kontrollmethoden, Kontrollsystem, Kontrollverlust, Kontrollversuchs
+  persö    Persönlichkeit, Persönlichkeiten, Persönlichkeitsanteile, Persönlichkeitsanteilen, Persönlichkeitsentwicklung, Persönlichkeitsintegration
+  schut    Schutz, Schutzes, Schutzfunktion, Schutzinstinkt, Schutzmechanismus, Schutzschild
+  wider    Widerspruch, Widersprüche, Widersprüchen, Widersprüchliche, Widerstand, Widerstandsmuster
+  archi    Archipel, Architekt, Architekten, Architektur, Archivar
+  fragm    Fragment, Fragmente, Fragmenten, Fragmentierung, Fragmentierungsanker
+  funkt    Funktion, Funktionalen, Funktionen, Funktionieren, Funktionsfähigkeit
+  ident    Identität, Identitätsbildung, Identitätsphilosophie, Identitätsstruktur, Identitätsverlust
+  struk    Struktur, Strukturanalyse, Strukturelle, Strukturellen, Strukturen
+  unter    Unterbau, Unterdrückt, Unterstützer, Unterstützung, Unterwerfung
+  überl    Überleben, Überlebens, Überlebensmechanismus, Überlebensreaktion, Überlebensstrategie
+  allta    Alltagsbewältigung, Alltagsfunktion, Alltagsleben, Alltagsmanager
+  antei    Anteil, Anteile, Anteilen, Anteils
+  bezie    Beziehung, Beziehungen, Beziehungsdynamiken, Beziehungsmuster
+  harmo    Harmonie, Harmoniebedürfnis, Harmonisierer, Harmonisierung
+  infor    Informationen, Informationsbeschaffung, Informationsquelle, Informationsvakuum
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Kleinen
+  Eine < Anscheinend
+  Eine < Verfeinerung
+  Form < Formalen
+  Form < Performanz
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsquelle
+  Form < Informationsvakuum
+  Form < Informationsbeschaffung
+  Hand < Handlungen
+  Hand < Vorhandensein
+  Hand < Handlungsfähigkeit
+  Hand < Handlungsstrategien
+  Jede < Jedem
+  Jede < Jeder

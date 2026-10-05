@@ -1,0 +1,429 @@
+{
+ "id": "2026-10-05-d30929af",
+ "question": "Was sagen die Quellen über Kael als Host-ANP nach TSDP: was er vergisst und welche Amnesie-Barrieren ihn halten, welche Phobien ihn steuern, was die Fragmentierung auslöst, und wie Juna dazu steht?",
+ "kind": "explain",
+ "built": "2026-10-05T21:32:31",
+ "status": "incomplete",
+ "sends_text_of": [
+  "kohaerenz-protokoll-philosophischer-bericht-md",
+  "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+  "kohaerenz-protokoll-synthese",
+  "kohaerenz-protokoll-konzeptentwicklung",
+  "tropenanalyse-fuer-kohaerenz-protokoll",
+  "kael-charakterarchitektur-und-konfliktdynamik",
+  "kael-charakterarchitektur-und-konfliktdynamik-2",
+  "kael-charakterarchitektur-und-konfliktdynamik-3",
+  "duale-storyform-synthese-kohaerenz-protokoll",
+  "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+  "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+  "kp-kap25-2026-09-14-md",
+  "kohaerenz-protokoll-architecture-synthesis",
+  "romanarchitektur-validierung-und-synthese",
+  "charaktere",
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+  "kohaerenz-protokoll-konzeptionelle-themen-struktur"
+ ],
+ "cut_by_budget": [
+  "roman-outline-transformation-in-keyword-tags",
+  "charakterkonzepte-fuer-kohaerenz-protokoll",
+  "kohaerenz-analyse-kapitel-2",
+  "2-kohaerenz-protokoll-konzeptentwicklung",
+  "argus-chronist-der-wandlung",
+  "juna-kael-system-analyse-und-rettungsplan-docx",
+  "kohaerenz-protokoll",
+  "kohaerenz-protokoll-gesamtkonzept-entwicklung",
+  "outline",
+  "projekt-kohaerenz-protokoll-tiefenanalyse",
+  "protokoll-der-offenbarung",
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+  "research-prompt-kohaerenz-protokoll-final-architecture-md",
+  "roman-outline-1-13-fuer-kohaerenz-protokoll",
+  "roman-outline-kohaerenz-protokoll-uberarbeitung",
+  "roman-pitch-reduktion-auf-kern",
+  "romanstruktur-duale-erzaehlung-und-kishotenketsu",
+  "sozialrechtliche-strategien-bei-traumafolgestoerungen",
+  "strukturelle-dissoziation-system-kael-analyse",
+  "tsdp-analyse-kaels-innere-welt"
+ ],
+ "budget": 72000,
+ "unit": "bytes",
+ "bytes": 71089,
+ "chars": 70088,
+ "window_bytes": 61267,
+ "frontmatter_anchors_dropped": 0,
+ "finders": {
+  "kohaerenz-protokoll-philosophischer-bericht-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "roman-plot-entwicklung-mit-kohaerenzprotokoll": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-synthese": [
+   "co-mention",
+   "parallel"
+  ],
+  "kohaerenz-protokoll-konzeptentwicklung": [
+   "bm25-lines",
+   "co-mention"
+  ],
+  "tropenanalyse-fuer-kohaerenz-protokoll": [
+   "co-mention",
+   "parallel"
+  ],
+  "kael-charakterarchitektur-und-konfliktdynamik": [
+   "co-mention",
+   "parallel"
+  ],
+  "kael-charakterarchitektur-und-konfliktdynamik-2": [
+   "co-mention",
+   "parallel"
+  ],
+  "kael-charakterarchitektur-und-konfliktdynamik-3": [
+   "co-mention",
+   "parallel"
+  ],
+  "duale-storyform-synthese-kohaerenz-protokoll": [
+   "graph-evidence"
+  ],
+  "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md": [
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md": [
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   "graph-evidence"
+  ],
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md": [
+   "graph-evidence"
+  ],
+  "kp-kap25-2026-09-14-md": [
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-architecture-synthesis": [
+   "parallel"
+  ],
+  "romanarchitektur-validierung-und-synthese": [
+   "parallel"
+  ],
+  "roman-outline-transformation-in-keyword-tags": [
+   "bm25-lines"
+  ],
+  "charaktere": [
+   "bm25-lines"
+  ],
+  "charakterkonzepte-fuer-kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "kohaerenz-analyse-kapitel-2": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+   "bm25-lines"
+  ],
+  "2-kohaerenz-protokoll-konzeptentwicklung": [
+   "bm25-lines"
+  ],
+  "argus-chronist-der-wandlung": [
+   "bm25-lines"
+  ],
+  "juna-kael-system-analyse-und-rettungsplan-docx": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-gesamtkonzept-entwicklung": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-konzeptionelle-themen-struktur": [
+   "bm25-lines"
+  ],
+  "outline": [
+   "parallel"
+  ],
+  "projekt-kohaerenz-protokoll-tiefenanalyse": [
+   "bm25-lines"
+  ],
+  "protokoll-der-offenbarung": [
+   "bm25-lines"
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   "bm25-lines"
+  ],
+  "research-prompt-kohaerenz-protokoll-final-architecture-md": [
+   "parallel"
+  ],
+  "roman-outline-1-13-fuer-kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "roman-outline-kohaerenz-protokoll-uberarbeitung": [
+   "bm25-lines"
+  ],
+  "roman-pitch-reduktion-auf-kern": [
+   "co-mention"
+  ],
+  "romanstruktur-duale-erzaehlung-und-kishotenketsu": [
+   "bm25-lines"
+  ],
+  "sozialrechtliche-strategien-bei-traumafolgestoerungen": [
+   "bm25-lines"
+  ],
+  "strukturelle-dissoziation-system-kael-analyse": [
+   "co-mention"
+  ],
+  "tsdp-analyse-kaels-innere-welt": [
+   "bm25-lines"
+  ]
+ },
+ "seeds": [
+  "term:juna",
+  "term:kael",
+  "term:tsdp",
+  "term:did",
+  "term:kael-julia-bindung"
+ ],
+ "skills": [
+  "character-card-builder"
+ ],
+ "hash": "31e1dc704e1eb729a597a7d4907039bf8255e83330f448b32f99116c739b2664",
+ "shown": {
+  "kohaerenz-protokoll-philosophischer-bericht-md": [
+   519,
+   641,
+   642,
+   753,
+   754,
+   755,
+   756,
+   757
+  ],
+  "roman-plot-entwicklung-mit-kohaerenzprotokoll": [
+   61,
+   62,
+   63,
+   64,
+   65
+  ],
+  "kohaerenz-protokoll-synthese": [
+   185,
+   186,
+   187,
+   188,
+   189,
+   193,
+   194,
+   195,
+   196,
+   197,
+   201,
+   202,
+   203,
+   204,
+   205,
+   209,
+   210,
+   211,
+   212,
+   213,
+   217,
+   218,
+   219,
+   220,
+   221
+  ],
+  "kohaerenz-protokoll-konzeptentwicklung": [
+   11,
+   12,
+   13,
+   31,
+   32,
+   33,
+   34,
+   35,
+   140,
+   179,
+   180,
+   181,
+   182
+  ],
+  "tropenanalyse-fuer-kohaerenz-protokoll": [
+   15,
+   16,
+   17,
+   18,
+   124,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145
+  ],
+  "kael-charakterarchitektur-und-konfliktdynamik": [
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "kael-charakterarchitektur-und-konfliktdynamik-2": [
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "kael-charakterarchitektur-und-konfliktdynamik-3": [
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "duale-storyform-synthese-kohaerenz-protokoll": [
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193
+  ],
+  "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md": [
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59
+  ],
+  "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md": [
+   63
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   87
+  ],
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md": [
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136
+  ],
+  "kp-kap25-2026-09-14-md": [
+   259
+  ],
+  "kohaerenz-protokoll-architecture-synthesis": [
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   228,
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   238,
+   239,
+   240,
+   241,
+   242,
+   246,
+   247,
+   248,
+   249,
+   250,
+   251,
+   252,
+   256,
+   257,
+   258,
+   259,
+   260,
+   261,
+   262
+  ],
+  "romanarchitektur-validierung-und-synthese": [
+   256,
+   257,
+   258,
+   259,
+   260,
+   264,
+   265,
+   266,
+   267,
+   268,
+   272,
+   273,
+   274,
+   275,
+   276,
+   280,
+   281,
+   282,
+   283,
+   284,
+   288,
+   289,
+   290,
+   291,
+   292
+  ],
+  "charaktere": [
+   87,
+   112
+  ],
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+   313,
+   814
+  ],
+  "kohaerenz-protokoll-konzeptionelle-themen-struktur": [
+   152
+  ]
+ }
+}

@@ -1,0 +1,362 @@
+{
+  "about": "Wann, wie und wo sich Kaels Anteile zeigen — die Arbeitsgrundlage des Autors vom 2026-10-05 (Entscheidung 025, Schritt 32), aus Plan/runs/storyform-2026-10-02/alters-im-plot.md und tsdp-lektuere.md. Geprüft von scripts/storyform.py, ins NCP als storybeats (scope event) von Storyform A.",
+  "parts": [
+    "Kael",
+    "Lex",
+    "Alex",
+    "Rhys",
+    "Selene",
+    "Argus",
+    "Nyx",
+    "Isabelle",
+    "Kiko",
+    "Lia",
+    "Moros",
+    "Silas",
+    "Oblivion"
+  ],
+  "host": "Kael",
+  "unnamed_until": 13,
+  "channels": {
+    "Körper": "die Somatik eines Anteils aus der Charakter-Bibel: Lex' eiskalte Hände, Alex' Kiefer, Rhys' fiebrige Hände, Kikos Kleinwerden, Moros' bleierne Glieder",
+    "Satzbau": "Kaels Prosa kippt in die Syntax eines Anteils: Lex hypotaktisch, Nyx stakkato, Lia bricht ab, Silas korrigiert sich als Echo, Oblivion löscht sich",
+    "Spur": "eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut",
+    "Stimme": "der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt"
+  },
+  "camps": {
+    "Suche": [
+      "Rhys",
+      "Kiko",
+      "Lia",
+      "Silas"
+    ],
+    "Abwehr": [
+      "Nyx",
+      "Isabelle",
+      "Alex"
+    ],
+    "Vermeidung": [
+      "Oblivion",
+      "Lex",
+      "Moros",
+      "Kael"
+    ],
+    "Vermittlung": [
+      "Selene"
+    ],
+    "Beobachtung": [
+      "Argus"
+    ]
+  },
+  "camp_turns": {
+    "26": {
+      "wins": "Suche",
+      "what": "Kael geht zu Juna"
+    },
+    "34": {
+      "wins": "Abwehr",
+      "what": "Kael lässt Juna gehen"
+    },
+    "35": {
+      "wins": "Vermittlung",
+      "what": "Oblivion hört auf zu löschen, Selene verhandelt"
+    }
+  },
+  "appearances": [
+    {
+      "chapters": [
+        1
+      ],
+      "parts": [
+        "Silas"
+      ],
+      "channel": "Spur",
+      "how": "Die linke Hand drückt RÜCKFRAGE und schützt den Anschluss zu Juna; der abgebrochene Satz (Entwurf G)."
+    },
+    {
+      "chapters": [
+        1
+      ],
+      "parts": [
+        "Oblivion"
+      ],
+      "channel": "Spur",
+      "how": "Die verlorenen Minuten."
+    },
+    {
+      "chapters": [
+        2,
+        5,
+        9
+      ],
+      "parts": [
+        "Lex"
+      ],
+      "channel": "Körper",
+      "how": "Kälte in den Händen; Ordnung, die sich verdoppelt."
+    },
+    {
+      "chapters": [
+        2,
+        5,
+        9
+      ],
+      "parts": [
+        "Alex"
+      ],
+      "channel": "Körper",
+      "how": "Der Körper wappnet sich, bevor Kael Gefahr sieht."
+    },
+    {
+      "chapters": [
+        3
+      ],
+      "parts": [
+        "Kiko"
+      ],
+      "channel": "Spur",
+      "how": "Die Zeit stockt; Kael findet sich am Boden eines Korridors."
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "parts": [
+        "Rhys"
+      ],
+      "channel": "Satzbau",
+      "how": "Ein „Wir“ im Satz; Fürsorge für einen Fremden, die nicht Kaels ist."
+    },
+    {
+      "chapters": [
+        12
+      ],
+      "parts": [
+        "Nyx"
+      ],
+      "channel": "Spur",
+      "how": "Knöchel, die bluten, und eine Wut ohne Erinnerung."
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "parts": [
+        "Selene"
+      ],
+      "channel": "Stimme",
+      "how": "Kaels Entscheidung, nicht mehr zu bestätigen (13/14); der Schleier fällt, die Stimmen bekommen Namen; Selene zum ersten Mal: „Wenn sie auftaucht, ist es spät.“"
+    },
+    {
+      "chapters": [
+        14,
+        15,
+        17
+      ],
+      "parts": [
+        "Kiko",
+        "Lia"
+      ],
+      "channel": "Stimme",
+      "how": "Die erste Erasure-Welle (Zyklus 1): Kiko erstarrt; Lia will Juna halten und wegstoßen — die Trennung im Inneren."
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "parts": [
+        "Oblivion"
+      ],
+      "channel": "Stimme",
+      "how": "Die Genesis-Rückblende ist die Fragmentierungsnacht von innen: Oblivion sieht zum ersten Mal, was er löscht."
+    },
+    {
+      "chapters": [
+        19,
+        20
+      ],
+      "parts": [
+        "Argus"
+      ],
+      "channel": "Stimme",
+      "how": "Argus bemerkt AEGIS' Fehler als Erster (Zyklus 2)."
+    },
+    {
+      "chapters": [
+        19,
+        20
+      ],
+      "parts": [
+        "Lex",
+        "Nyx"
+      ],
+      "channel": "Stimme",
+      "how": "Lex und Nyx im maximalen Konflikt."
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "parts": [
+        "Silas"
+      ],
+      "channel": "Stimme",
+      "how": "„Bin ich echt oder nur ein Echo?“ — die Moonshine-Spur der zehn Jahre."
+    },
+    {
+      "chapters": [
+        23
+      ],
+      "parts": [
+        "Rhys",
+        "Moros"
+      ],
+      "channel": "Stimme",
+      "how": "Rhys versucht, Moros zu retten, und scheitert."
+    },
+    {
+      "chapters": [
+        24,
+        25
+      ],
+      "parts": [
+        "Nyx",
+        "Isabelle"
+      ],
+      "channel": "Spur",
+      "how": "Kontrolle über Nähe statt Nähe — eine Spur aus den zehn Jahren mit Juna."
+    },
+    {
+      "chapters": [
+        26
+      ],
+      "parts": [
+        "Selene",
+        "Rhys",
+        "Kiko",
+        "Lia",
+        "Silas"
+      ],
+      "channel": "Stimme",
+      "how": "Die Entscheidung, zu Juna zu gehen (26/27): Die Suche gewinnt; Selene weiß, wer Juna war."
+    },
+    {
+      "chapters": [
+        29
+      ],
+      "parts": [
+        "Kiko"
+      ],
+      "channel": "Körper",
+      "how": "Die Angst des Kindes, das letzte Aufflammen vor dem Weg."
+    },
+    {
+      "chapters": [
+        30
+      ],
+      "parts": [
+        "Alex"
+      ],
+      "channel": "Stimme",
+      "how": "Alex schützt den Weg zu Juna gegen AEGIS' Purge (Kap 28)."
+    },
+    {
+      "chapters": [
+        31
+      ],
+      "parts": [
+        "Oblivion",
+        "Silas"
+      ],
+      "channel": "Stimme",
+      "how": "Oblivion löscht schneller, als Silas empfängt — Landauer-Hitze."
+    },
+    {
+      "chapters": [
+        32
+      ],
+      "parts": [
+        "Silas"
+      ],
+      "channel": "Stimme",
+      "how": "Die erste Begegnung mit Juna in der Gegenwart: Silas erkennt sie, bevor Kael es tut."
+    },
+    {
+      "chapters": [
+        34
+      ],
+      "parts": [
+        "Lia",
+        "Nyx",
+        "Alex"
+      ],
+      "channel": "Stimme",
+      "how": "Kael lässt Juna gehen: Lias „Komm her / Geh weg“ entscheidet sich für „Geh“, die Abwehr gewinnt — „Wer mir nah ist, wird verletzt“ als Tat."
+    },
+    {
+      "chapters": [
+        35
+      ],
+      "parts": [
+        "Oblivion"
+      ],
+      "channel": "Stimme",
+      "how": "Die Wahl: weiterlöschen oder stehenlassen. Er hört auf, Kaels Amnesie bricht zusammen — der Pivot Inertia → Change."
+    },
+    {
+      "chapters": [
+        36
+      ],
+      "parts": [
+        "Moros",
+        "Selene"
+      ],
+      "channel": "Stimme",
+      "how": "Moros' Drachenkampf; Selene als Architektin."
+    },
+    {
+      "chapters": [
+        37
+      ],
+      "parts": [
+        "Lex"
+      ],
+      "channel": "Stimme",
+      "how": "Der falsche Friede: die Ordnung kehrt zurück, scheinbar."
+    },
+    {
+      "chapters": [
+        38,
+        39
+      ],
+      "parts": [
+        "Lex",
+        "Alex",
+        "Rhys",
+        "Selene",
+        "Argus",
+        "Nyx",
+        "Isabelle",
+        "Kiko",
+        "Lia",
+        "Moros",
+        "Silas",
+        "Oblivion"
+      ],
+      "channel": "Stimme",
+      "how": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden."
+    }
+  ],
+  "rules": [
+    "Bis Kap 13 kein Name: nur Körper, Satzbau, Spur.",
+    "Kein Auftritt in einem AEGIS-Ich-Kapitel (Route hard-b).",
+    "Subtilität statt Spektakel; offene Wechsel nur in Krisen; kein Anteil eindimensional böse (TSDP-Analyse L395–L400)."
+  ],
+  "provenance": {
+    "adopted": "Der Autor, 2026-10-05: „Drei Kanäle“, „Juna-Bogen als Lagerkampf“, „Kapiteltabelle Akt I–Vortex“ als Arbeitsgrundlage (Entscheidung 025, Schritt 32).",
+    "parts": "Q3 (Kanon, 2026-10-05): dreizehn Anteile wie die Charakter-Bibel, Isabelle als Teil von Nyx.",
+    "camps": "Lager (Kanon, 2026-10-05); Isabelle mit Nyx in der Abwehr. Argus beobachtet ohne Lager: der Autor, 2026-10-05 (Schritt 36).",
+    "appearances": "Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+    "camp_turns": "Lager (Kanon) für Kap 26 und 34; Kap 35 aus der Kapiteltabelle (Oblivion hört auf)."
+  }
+}

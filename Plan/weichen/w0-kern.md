@@ -1,6 +1,6 @@
 ---
 id: W0
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: []
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: "das Gutachten zum Material, 2026-10-05"
@@ -48,3 +48,11 @@ für dich richtig anfühlt, trägt B. Ein Weg dorthin steht im Gutachten, Abschn
 - **W9, Juna.** Mit A oder B darf sie handeln; die Regel „nie Subjekt“ fällt oder wird eng.
 - **W7, der Schleier.** Was der Leser wann über das Davor erfährt.
 - **Frage A des Schreibplans, wer schreibt.** Je näher am Kern, desto mehr spricht für deine eigene Hand.
+
+## Antwort
+
+**Beantwortet 2026-10-05: A — frei erzählt.** Das Davor, der Anruf und das Danach werden Szenen; Juna ist eine volle
+Figur, die handelt, spricht und verweigern kann. Gefragt war mit der Folge für die Struktur: In Storyform A trägt Juna
+7 IC-Kapitel und die Beziehung Kael–Juna 10 RS-Kapitel (Entscheidung 025, Schritte 23 und 25). Block 4 bleibt die Grenze
+für Namen, Orte und biographische Einzelheiten; was auf die Seite kommt, ist erfunden.
+

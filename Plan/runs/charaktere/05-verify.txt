@@ -1,0 +1,196 @@
+$ python3 scripts/read.py charaktere --count "Nicht explizit"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nicht explizit` ^[charaktere.md:#3]
+
+$ python3 scripts/read.py charaktere --count "Anmerkung des Narrativen Architekten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Anmerkung des Narrativen Architekten` ^[charaktere.md:#1]
+
+$ python3 scripts/read.py charaktere --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[charaktere.md:#0]
+
+$ python3 scripts/read.py charaktere --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[charaktere.md:#0]
+
+$ python3 scripts/read.py charaktere --count "Beat"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Beat` ^[charaktere.md:#0]
+
+$ python3 scripts/read.py charaktere --count "Nox"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nox` ^[charaktere.md:#1]
+
+$ python3 scripts/read.py charaktere --count "Kaels"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Kaels` ^[charaktere.md:#40]
+
+$ python3 scripts/read.py charaktere --count "Kikos"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kikos` ^[charaktere.md:#2]
+
+$ python3 scripts/read.py charaktere --count "Persecutory"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Persecutory` ^[charaktere.md:#1]
+
+$ python3 scripts/read.py charaktere --count "Anteilen"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Anteilen` ^[charaktere.md:#5]
+
+$ python3 scripts/read.py charaktere --count "TSDP-Typ"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`TSDP-Typ` ^[charaktere.md:#11]
+
+$ python3 scripts/read.py charaktere --count "Alters"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Alters` ^[charaktere.md:#5]
+
+$ python3 scripts/read.py charaktere --count "Funktion & Ursprung"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Funktion & Ursprung` ^[charaktere.md:#22]
+
+$ python3 scripts/read.py charaktere --count "Trauma-Fokus"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Trauma-Fokus` ^[charaktere.md:#22]
+
+$ python3 scripts/read.py charaktere --count "Schlüssel-Phobie(n)"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Schlüssel-Phobie(n)` ^[charaktere.md:#11]
+
+$ python3 scripts/read.py charaktere --count "Motivation/Angst"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Motivation/Angst` ^[charaktere.md:#11]
+
+$ python3 scripts/read.py charaktere --count "Kern-Phobien"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kern-Phobien` ^[charaktere.md:#11]
+
+$ python3 scripts/read.py charaktere --count "Integrierte Rolle"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Integrierte Rolle` ^[charaktere.md:#11]
+
+$ python3 scripts/read.py charaktere --count "Beziehung zu AEGIS"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Beziehung zu AEGIS` ^[charaktere.md:#11]
+
+$ python3 scripts/read.py charaktere --count "Kernrolle/Funktion"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kernrolle/Funktion` ^[charaktere.md:#11]
+
+$ python3 scripts/read.py charaktere --count "Haltung zur Integration"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Haltung zur Integration` ^[charaktere.md:#11]
+
+$ python3 scripts/read.py charaktere --count "TSDP"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            27
+
+`TSDP` ^[charaktere.md:#15]
+
+$ grep -o -E "\bAEGIS[A-Za-zäöü-]+" Sources/drive/charaktere.md | sort | uniq -c
+      1 AEGIS-Entitäten
+      1 AEGIS-Interventionen
+      1 AEGIS-Kontrolle
+      1 AEGIS-Systems
+      1 AEGIS-konforme
+$ grep -n "?" Sources/drive/charaktere.md | cut -c1-12
+373:        
+$ grep -o -E "[A-Za-zäöü-]*(ANP|EP|Anteile)[A-Za-zäöüß-]*" | sort | uniq -c (compounds of ANP EP Anteile)
+     31 Anteile
+     21 EP
+     20 ANP
+     15 TSDP
+     15 EPs
+     11 TSDP-Typ
+      9 ANPs
+      5 Anteilen
+      3 Kind-Anteile
+      3 DID
+      2 EP-Intrusion
+      2 ANP-EP-Phobien
+      2 ANP-EP
+      1 TSDP-basiert
+      1 Protektor-ANP
+      1 EP-�
+      1 EP-Mix
+      1 EP-Konfliktdynamiken
+      1 EP-Inhalte
+      1 DID-Forschungen
+      1 DID-Forschung
+      1 ANP-Strategiekonflikte
+      1 ANP-EP-Phobie
+$ grep -c "Kohärenz Protokolls" ; grep -o Lexika
+1
+Lexika
+$ read.py --find for the order lines
+^[L74]  10. Lex (Rationaler ANP):
+NOT IN THIS DOCUMENT, on any single line. Nearest:
+  L286  100% in common  4. Lex:
+^[L49]  5. Lia (Kind/Ambivalenz):
+NOT IN THIS DOCUMENT, on any single line. Nearest:
+  L314  100% in common  8. Lia:

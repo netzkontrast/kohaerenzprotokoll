@@ -1,0 +1,1004 @@
+{
+  "document": "kontext-outline",
+  "source_sha256": "7834f6b84d80c9c4a85d45e915ebfac07a25a4cbcadb6e882d96234ddc95110c",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "extractor": "claude-cli/sonnet",
+  "data": {
+    "items": [
+      {
+        "source": "Chapter Prologue: \\[Genesis\\]",
+        "target": "sucht Ganzheit",
+        "type": "want",
+        "quote": "AEGIS (oder Vorläufer) entsteht aus Chaos/Angst, sucht Ganzheit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter Prologue: \\[Genesis\\]",
+        "target": "Externe Resonanz (Juna/V?) löst Krise aus",
+        "type": "why_now",
+        "quote": "Externe Resonanz (Juna/V?) löst Krise aus.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter Prologue: \\[Genesis\\]",
+        "target": "Leere; frühe AEGIS-Überwelt",
+        "type": "place",
+        "quote": "Leere; frühe AEGIS-Überwelt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 1",
+        "target": "Kael (Host)",
+        "type": "who",
+        "quote": "Kael (Host) in KW1 erlebt Desorientierung, Amnesie, spürt Glitches & unsichtbare Kontrolle.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 1",
+        "target": "KW1 (Logos-Prime)",
+        "type": "place",
+        "quote": "KW1 (Logos-Prime) - steril, logisch, kontrolliert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 2",
+        "target": "KW1-Regeln zu entschlüsseln",
+        "type": "want",
+        "quote": "Kael/Lex versucht KW1-Regeln zu entschlüsseln.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 2",
+        "target": "Guardian LogOS",
+        "type": "obstacle",
+        "quote": "Erste Konfrontation mit AEGIS-Logik (Guardian LogOS), erkennt Paradoxien.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 2",
+        "target": "KW1 (Logos-Prime)",
+        "type": "place",
+        "quote": "KW1 (Logos-Prime) – Exploration Regeln/Grenzen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 3: \\[Der Schatten des Beschützers\\]",
+        "target": "Störung in KW1",
+        "type": "why_now",
+        "quote": "Störung in KW1 aktiviert Alex (Beschützer).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 3: \\[Der Schatten des Beschützers\\]",
+        "target": "Alex (Beschützer)",
+        "type": "who",
+        "quote": "Störung in KW1 aktiviert Alex (Beschützer).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 3: \\[Der Schatten des Beschützers\\]",
+        "target": "Konflikt mit Lex",
+        "type": "obstacle",
+        "quote": "Konflikt mit Lex.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 3: \\[Der Schatten des Beschützers\\]",
+        "target": "KW1",
+        "type": "place",
+        "quote": "KW1, Wahrnehmung durch Alex' Misstrauen gefärbt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 4: \\[Stimmen der Fürsorge\\]",
+        "target": "Rhys (Fürsorger) aktiv, versucht zu vermitteln/stabilisieren",
+        "type": "want",
+        "quote": "Rhys (Fürsorger) aktiv, versucht zu vermitteln/stabilisieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 4: \\[Stimmen der Fürsorge\\]",
+        "target": "AEGIS könnte Empathie manipulieren",
+        "type": "obstacle",
+        "quote": "AEGIS könnte Empathie manipulieren.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 4: \\[Stimmen der Fürsorge\\]",
+        "target": "Kontaktversuch zu EPs triggert Phobien",
+        "type": "obstacle",
+        "quote": "Kontaktversuch zu EPs triggert Phobien.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 4: \\[Stimmen der Fürsorge\\]",
+        "target": "KW1 oder interner mentaler Raum",
+        "type": "place",
+        "quote": "KW1 oder interner mentaler Raum",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 5",
+        "target": "Systemfehler/EP-Intrusion wirft Kael nach KW2",
+        "type": "hook_in",
+        "quote": "Systemfehler/EP-Intrusion wirft Kael nach KW2 (Emotionen/Erinnerungen).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 5",
+        "target": "schmerzhafte Amnesie wird bewusst",
+        "type": "object",
+        "quote": "schmerzhafte Amnesie wird bewusst",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 5",
+        "target": "Kiko/Moros",
+        "type": "who",
+        "quote": "Konfrontation mit Gefühlen (Kiko/Moros?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 5",
+        "target": "Mnemosyne",
+        "type": "who",
+        "quote": "Einfluss Mnemosyne (Guardian KW2) beginnt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 5",
+        "target": "Rhys",
+        "type": "who",
+        "quote": "Rhys evtl. aktiv",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 5",
+        "target": "KW2 (Mnemosyne-Archipel)",
+        "type": "place",
+        "quote": "KW2 (Mnemosyne-Archipel) – chaotisch, emotional, fragmentiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 6",
+        "target": "Intensivere traumatische Erinnerungsfragmente",
+        "type": "object",
+        "quote": "In KW2: Intensivere traumatische Erinnerungsfragmente (EPs: Kiko, Lia, Moros?).",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 6",
+        "target": "ANPs werden von Emotionen überflutet",
+        "type": "object",
+        "quote": "ANPs werden von Emotionen überflutet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 6",
+        "target": "Mnemosyne manipuliert evtl. Erinnerungen",
+        "type": "who",
+        "quote": "Mnemosyne manipuliert evtl. Erinnerungen.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 6",
+        "target": "KW2 – Spezifische Trauma-Orte",
+        "type": "place",
+        "quote": "KW2 – Spezifische Trauma-Orte.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 7",
+        "target": "Trauma-Konfrontation in KW2 aktiviert massive ANP/EP-Phobien",
+        "type": "why_now",
+        "quote": "Trauma-Konfrontation in KW2 aktiviert massive ANP/EP-Phobien.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 7",
+        "target": "Kommunikationsblockaden",
+        "type": "obstacle",
+        "quote": "Switches, Kommunikationsblockaden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 7",
+        "target": "AEGIS nutzt Chaos",
+        "type": "want",
+        "quote": "AEGIS nutzt Chaos.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 7",
+        "target": "KW2 oder interner mentaler Raum",
+        "type": "place",
+        "quote": "KW2 oder interner mentaler Raum – Visualisierung internes Chaos.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 8",
+        "target": "Kael (Lex?) versucht verzweifelt, Chaos logisch zu fassen",
+        "type": "want",
+        "quote": "Kael (Lex?) versucht verzweifelt, Chaos logisch zu fassen (Rückkehr KW1?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 8",
+        "target": "AEGIS (LogOS?) nutzt dies für gezieltes Gaslighting",
+        "type": "want",
+        "quote": "AEGIS (LogOS?) nutzt dies für gezieltes Gaslighting: stellt Wahrnehmung in Frage, deutet Erfahrungen um.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 8",
+        "target": "KW1 (Schein-Ordnung) oder AEGIS-Interface",
+        "type": "place",
+        "quote": "KW1 (Schein-Ordnung) oder AEGIS-Interface.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 9",
+        "target": "KW3 (Cerberus-Labyrinth)",
+        "type": "place",
+        "quote": "KW3 (Cerberus-Labyrinth)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 9",
+        "target": "Fallen, Illusionen, Angriffen, Guardian Cerberus",
+        "type": "obstacle",
+        "quote": "Konfrontation mit Fallen, Illusionen, Angriffen, Guardian Cerberus.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 9",
+        "target": "Alex/Nyx (Wut/Kampf) aktiv?",
+        "type": "who",
+        "quote": "Alex/Nyx (Wut/Kampf) aktiv?",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 9",
+        "target": "Konfrontation mit Angst (Kiko?)",
+        "type": "want",
+        "quote": "Konfrontation mit Angst (Kiko?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 10",
+        "target": "Interner mentaler Raum („Inneres Konferenzzimmer“)",
+        "type": "place",
+        "quote": "Interner mentaler Raum („Inneres Konferenzzimmer“)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 10",
+        "target": "Rhys aktiv (Vermittler)",
+        "type": "who",
+        "quote": "Rhys aktiv (Vermittler)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 10",
+        "target": "Versuch Kommunikation ANP/EP",
+        "type": "want",
+        "quote": "Versuch Kommunikation ANP/EP",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 10",
+        "target": "Selene-Potenzial?",
+        "type": "who",
+        "quote": "Selene-Potenzial?",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 10",
+        "target": "versucht evtl. Kooperation zu stören",
+        "type": "obstacle",
+        "quote": "versucht evtl. Kooperation zu stören",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 11: \\[Der erste Riss\\]",
+        "target": "Signifikanter „Riss“/Anomalie im System",
+        "type": "object",
+        "quote": "Signifikanter „Riss“/Anomalie im System entdeckt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 11: \\[Der erste Riss\\]",
+        "target": "Versuch, Riss zu verbergen/reparieren",
+        "type": "want",
+        "quote": "Versuch, Riss zu verbergen/reparieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 11: \\[Der erste Riss\\]",
+        "target": "Überwelt-Interface",
+        "type": "place",
+        "quote": "Ort der Riss-Manifestation (Überwelt-Interface?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 12: \\[Die Frage nach dem Selbst\\]",
+        "target": "Interner mentaler Raum / Ort der Kontemplation",
+        "type": "place",
+        "quote": "Interner mentaler Raum / Ort der Kontemplation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 12: \\[Die Frage nach dem Selbst\\]",
+        "target": "Zweifel zu zerstreuen",
+        "type": "want",
+        "quote": "Könnte versuchen, Zweifel zu zerstreuen (Manipulation).",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 13",
+        "target": "Alte Strategien versagen",
+        "type": "obstacle",
+        "quote": "Alte Strategien versagen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 13",
+        "target": "Aktive Suche nach Antworten, AEGIS verstehen, Veränderung/Flucht finden",
+        "type": "want",
+        "quote": "Kael (System/Koalition) trifft Entscheidung: Aktive Suche nach Antworten, AEGIS verstehen, Veränderung/Flucht finden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 13",
+        "target": "bereitet aktiveren Widerstand vor",
+        "type": "want",
+        "quote": "Registriert Strategiewechsel; bereitet aktiveren Widerstand vor.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 13",
+        "target": "Interface Überwelt? KW4?",
+        "type": "place",
+        "quote": "Symbolischer Ort des Übergangs (Interface Überwelt? KW4?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 13",
+        "target": "Bildung interner „Task Force“",
+        "type": "want",
+        "quote": "Bildung interner „Task Force“?",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 14",
+        "target": "systematische Untersuchung AEGIS' Meta-Ebene (Überwelt)",
+        "type": "want",
+        "quote": "Kael (Lex/Argus) beginnt systematische Untersuchung AEGIS' Meta-Ebene (Überwelt).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 14",
+        "target": "System bemerkt Intrusion",
+        "type": "obstacle",
+        "quote": "System bemerkt Intrusion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 14",
+        "target": "AEGIS-Überwelt (abstrakt, datenbasiert, logisch)",
+        "type": "place",
+        "quote": "AEGIS-Überwelt (abstrakt, datenbasiert, logisch)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 15",
+        "target": "wiederkehrende Muster/Zyklen in AEGIS' Verhalten",
+        "type": "object",
+        "quote": "Analyse der Überwelt offenbart wiederkehrende Muster/Zyklen in AEGIS' Verhalten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 15",
+        "target": "Lex/Argus",
+        "type": "who",
+        "quote": "Lex/Argus identifizieren Muster",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 15",
+        "target": "Überwelt oder interner Analyse-Raum",
+        "type": "place",
+        "quote": "Überwelt oder interner Analyse-Raum",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 16",
+        "target": "sucht gezielt echte vs. manipulierte Erinnerungen",
+        "type": "want",
+        "quote": "sucht gezielt echte vs. manipulierte Erinnerungen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 16",
+        "target": "Konfrontation mit Mnemosyne",
+        "type": "obstacle",
+        "quote": "Mögliche Konfrontation mit Mnemosyne.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 16",
+        "target": "Mnemosyne verteidigt Domäne",
+        "type": "obstacle",
+        "quote": "Mnemosyne verteidigt Domäne",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 16",
+        "target": "KW2 (Mnemosyne-Archipel)",
+        "type": "place",
+        "quote": "KW2 (Mnemosyne-Archipel)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 16",
+        "target": "Lex/Rhys/EPs",
+        "type": "who",
+        "quote": "Zusammenarbeit Lex/Rhys/EPs",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 17",
+        "target": "KW4",
+        "type": "place",
+        "quote": "Kael betritt KW4 (Kreativität/Potenzial)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 17",
+        "target": "Kairos & Sophia",
+        "type": "who",
+        "quote": "Interaktion mit dualen Guardians Kairos & Sophia",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 17",
+        "target": "Suche nach neuen Lösungen, Wegen, AEGIS zu durchbrechen",
+        "type": "want",
+        "quote": "Suche nach neuen Lösungen, Wegen, AEGIS zu durchbrechen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 18",
+        "target": "Kael (Lex/Argus) entwickelt tieferes Verständnis für AEGIS' systemische Prinzipien",
+        "type": "want",
+        "quote": "Aufbauend auf Erkenntnissen entwickelt Kael (Lex/Argus) tieferes Verständnis für AEGIS' systemische Prinzipien.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 18",
+        "target": "Überwelt oder interner Analyse-Raum",
+        "type": "place",
+        "quote": "Überwelt oder interner Analyse-Raum",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 19",
+        "target": "erster bewusster, fragmentarischer Kontakt zu Juna/V & Externer Ebene",
+        "type": "want",
+        "quote": "gelingt Kael erster bewusster, fragmentarischer Kontakt zu Juna/V & Externer Ebene",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 19",
+        "target": "Natur unklar (Andere Simulation? Höhere Realität?)",
+        "type": "promise",
+        "quote": "Natur unklar (Andere Simulation? Höhere Realität?).",
+        "stance": "asks"
+      },
+      {
+        "source": "Chapter 19",
+        "target": "Versuch der Unterbindung",
+        "type": "obstacle",
+        "quote": "Alarmiert durch externen Kontakt; Versuch der Unterbindung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 19",
+        "target": "Interface zur Externen Ebene",
+        "type": "place",
+        "quote": "Interface zur Externen Ebene",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 20",
+        "target": "AEGIS' Kernparadoxon",
+        "type": "object",
+        "quote": "Interaktion mit Juna/V oder Analyse liefert entscheidende Hinweise auf AEGIS' Kernparadoxon",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 20",
+        "target": "Überwelt oder interner Analyse-Raum",
+        "type": "place",
+        "quote": "Überwelt oder interner Analyse-Raum.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 21",
+        "target": "Kael versucht, Wissen über Paradoxon & Juna/V intern zu kommunizieren",
+        "type": "want",
+        "quote": "Kael versucht, Wissen über Paradoxon & Juna/V intern zu kommunizieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 21",
+        "target": "Widerstand bei Anteilen",
+        "type": "obstacle",
+        "quote": "Stößt auf Widerstand bei Anteilen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 21",
+        "target": "Rhys/Selene vermitteln",
+        "type": "who",
+        "quote": "Rhys/Selene vermitteln.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 21",
+        "target": "Interner mentaler Raum",
+        "type": "place",
+        "quote": "Interner mentaler Raum.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 21",
+        "target": "Beobachtet interne Dissonanz, versucht Nutzung",
+        "type": "want",
+        "quote": "Beobachtet interne Dissonanz, versucht Nutzung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 22",
+        "target": "Kael reflektiert ethische Implikationen",
+        "type": "want",
+        "quote": "Kael reflektiert ethische Implikationen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 22",
+        "target": "Kontemplativer Ort / Dialogszene",
+        "type": "place",
+        "quote": "Kontemplativer Ort / Dialogszene.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 23",
+        "target": "Kael kehrt bewusst nach KW3 zurück, stellt sich Cerberus/Ängsten strategisch",
+        "type": "want",
+        "quote": "Kael kehrt bewusst nach KW3 zurück, stellt sich Cerberus/Ängsten strategisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 23",
+        "target": "Überlisten/Neutralisieren, Zugang zu Blockiertem finden",
+        "type": "want",
+        "quote": "Ziel: Überlisten/Neutralisieren, Zugang zu Blockiertem finden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 23",
+        "target": "Cerberus als aktive Verteidigung",
+        "type": "obstacle",
+        "quote": "Cerberus als aktive Verteidigung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 23",
+        "target": "KW3 (Cerberus-Labyrinth)",
+        "type": "place",
+        "quote": "KW3 (Cerberus-Labyrinth) – als strategisches Feld.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 24",
+        "target": "Kael dringt tiefer in Überwelt/AEGIS' Kernlogik",
+        "type": "want",
+        "quote": "Kael dringt tiefer in Überwelt/AEGIS' Kernlogik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 24",
+        "target": "Tiefe Schichten Überwelt",
+        "type": "place",
+        "quote": "Tiefe Schichten Überwelt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 24",
+        "target": "Simulationen in Simulation",
+        "type": "place",
+        "quote": "Simulationen in Simulation?",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 25",
+        "target": "Interface Externe Ebene",
+        "type": "place",
+        "quote": "Interface Externe Ebene",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 25",
+        "target": "Versucht Kontakt zu unterbinden",
+        "type": "want",
+        "quote": "Versucht Kontakt zu unterbinden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 25",
+        "target": "Liefert Impuls/Puzzleteil für Finale.",
+        "type": "object",
+        "quote": "Liefert Impuls/Puzzleteil für Finale.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 25",
+        "target": "Kael erhält klarere Infos (Plan? Warnung?)",
+        "type": "object",
+        "quote": "Kael erhält klarere Infos (Plan? Warnung?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 25",
+        "target": "Evtl. schwierige Wahl bzgl. Juna/V.",
+        "type": "obstacle",
+        "quote": "Evtl. schwierige Wahl bzgl. Juna/V.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 26",
+        "target": "Kael (integriertes System) bereitet finale Konfrontation vor.",
+        "type": "want",
+        "quote": "Kael (integriertes System) bereitet finale Konfrontation vor.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 26",
+        "target": "Sicherer interner Raum / KW4?",
+        "type": "place",
+        "quote": "Sicherer interner Raum / KW4?",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 26",
+        "target": "Bereitet finale Verteidigung/Angriff vor",
+        "type": "want",
+        "quote": "Bereitet finale Verteidigung/Angriff vor",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 26",
+        "target": "Selene als Koordinatorin?",
+        "type": "who",
+        "quote": "Selene als Koordinatorin?",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 27",
+        "target": "initiiert finalen Plan",
+        "type": "want",
+        "quote": "Kael initiiert finalen Plan",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 27",
+        "target": "AEGIS-Kernbereiche",
+        "type": "place",
+        "quote": "dringt in AEGIS-Kernbereiche ein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 27",
+        "target": "massive Verteidigung (Guardians, psychologische Angriffe)",
+        "type": "obstacle",
+        "quote": "AEGIS reagiert mit massiver Verteidigung (Guardians, psychologische Angriffe).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 27",
+        "target": "Selene",
+        "type": "who",
+        "quote": "Anteile koordiniert (Selene?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 27",
+        "target": "AEGIS-Überwelt / kritische KW(en) unter Belagerung",
+        "type": "place",
+        "quote": "AEGIS-Überwelt / kritische KW(en) unter Belagerung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 28",
+        "target": "stellt LogOS mit Wissen um Paradoxon",
+        "type": "want",
+        "quote": "Kael stellt LogOS mit Wissen um Paradoxon.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 28",
+        "target": "Logik gegen ihn zu wenden oder durch unlogische Manöver (Emotion/Kreativität?) zu überwinden",
+        "type": "want",
+        "quote": "Versucht, Logik gegen ihn zu wenden oder durch unlogische Manöver (Emotion/Kreativität?) zu überwinden.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 28",
+        "target": "Lex/Argus",
+        "type": "who",
+        "quote": "Lex/Argus führen logischen Kampf",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 28",
+        "target": "LogOS als Verteidiger Kernlogik",
+        "type": "obstacle",
+        "quote": "LogOS als Verteidiger Kernlogik",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 28",
+        "target": "Logische Domäne Überwelt / KW1",
+        "type": "place",
+        "quote": "Logische Domäne Überwelt / KW1 (transformiert?)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 29",
+        "target": "AEGIS stellt Kael nach Sieg über LogOS vor ethisches Dilemma/paradoxe Wahl",
+        "type": "want",
+        "quote": "AEGIS stellt Kael nach Sieg über LogOS vor ethisches Dilemma/paradoxe Wahl (Zerstörung vs. kompromittierende Transformation?).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 29",
+        "target": "nach Sieg über LogOS",
+        "type": "why_now",
+        "quote": "AEGIS stellt Kael nach Sieg über LogOS vor ethisches Dilemma/paradoxe Wahl",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 29",
+        "target": "Stellt Kael vor schwierige Wahl",
+        "type": "obstacle",
+        "quote": "Stellt Kael vor schwierige Wahl; Versuch moralischer Kompromittierung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 29",
+        "target": "Selene als ethischer Kompass?",
+        "type": "who",
+        "quote": "Selene als ethischer Kompass?.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 30",
+        "target": "Kael konfrontiert Mnemosyne erneut",
+        "type": "want",
+        "quote": "Kael konfrontiert Mnemosyne erneut.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 30",
+        "target": "Emotionale Kontrollmechanismen neutralisieren, eigene Blockaden lösen",
+        "type": "want",
+        "quote": "Ziel: Emotionale Kontrollmechanismen neutralisieren, eigene Blockaden lösen, evtl. Verarbeitung Kerntrauma (Genesis?).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 30",
+        "target": "Verarbeitung Kerntrauma (Genesis?)",
+        "type": "object",
+        "quote": "evtl. Verarbeitung Kerntrauma (Genesis?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 30",
+        "target": "Rhys & EPs",
+        "type": "who",
+        "quote": "Rhys & EPs zentral.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 30",
+        "target": "Versuch Kael durch Trauma-Trigger zu stoppen",
+        "type": "obstacle",
+        "quote": "Mnemosyne als letzte Bastion emotionaler Kontrolle; Versuch Kael durch Trauma-Trigger zu stoppen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 30",
+        "target": "KW2 (transformiert?)",
+        "type": "place",
+        "quote": "KW2 (transformiert?) / emotionale Ebene Überwelt.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 31",
+        "target": "Kael dringt in Cerberus' Domäne (KW3/Verteidigungsebene) ein",
+        "type": "want",
+        "quote": "Kael dringt in Cerberus' Domäne (KW3/Verteidigungsebene) ein, durchbricht letzte Verteidigungslinien (Angst, Kontrolle).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 31",
+        "target": "letzte Verteidigungslinien (Angst, Kontrolle)",
+        "type": "obstacle",
+        "quote": "durchbricht letzte Verteidigungslinien (Angst, Kontrolle)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 31",
+        "target": "Verzweifelter Versuch Kael aufzuhalten",
+        "type": "obstacle",
+        "quote": "Verzweifelter Versuch Kael aufzuhalten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 31",
+        "target": "KW3 (transformiert?) / Verteidigungsebene Überwelt",
+        "type": "place",
+        "quote": "KW3 (transformiert?) / Verteidigungsebene Überwelt.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 32",
+        "target": "Kael erreicht Kern von AEGIS",
+        "type": "want",
+        "quote": "Kael erreicht Kern von AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 32",
+        "target": "Ist AEGIS nur Monster?",
+        "type": "promise",
+        "quote": "Ist AEGIS nur Monster?",
+        "stance": "asks"
+      },
+      {
+        "source": "Chapter 32",
+        "target": "präsentiert evtl. Argumente für eigene Notwendigkeit",
+        "type": "want",
+        "quote": "präsentiert evtl. Argumente für eigene Notwendigkeit.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 32",
+        "target": "Kern der Überwelt",
+        "type": "place",
+        "quote": "Kern der Überwelt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 33",
+        "target": "Kael nutzt Wissen um Paradoxon/Schwachstellen aktiv zur Destabilisierung/Transformation von AEGIS von innen",
+        "type": "want",
+        "quote": "Kael nutzt Wissen um Paradoxon/Schwachstellen aktiv zur Destabilisierung/Transformation von AEGIS von innen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 33",
+        "target": "Überwelt; AEGIS-Kern",
+        "type": "place",
+        "quote": "Überwelt; AEGIS-Kern.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 34",
+        "target": "Das Fundament (oder Interface dazu)",
+        "type": "place",
+        "quote": "Das Fundament (oder Interface dazu).",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 35",
+        "target": "Kael nutzt Fundament-Erkenntnisse & volle Kraft integrierten Systems für finalen Schlag/Lenkung Übergang",
+        "type": "want",
+        "quote": "Kael nutzt Fundament-Erkenntnisse & volle Kraft integrierten Systems für finalen Schlag/Lenkung Übergang.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 35",
+        "target": "Juna/V",
+        "type": "who",
+        "quote": "Juna/V spielt entscheidende Rolle.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 35",
+        "target": "kollabierendem/transformierendem AEGIS",
+        "type": "obstacle",
+        "quote": "Höhepunkte Konfrontation mit kollabierendem/transformierendem AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 35",
+        "target": "Kern Überwelt im Chaos/Übergang",
+        "type": "place",
+        "quote": "Kern Überwelt im Chaos/Übergang.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 36",
+        "target": "Veränderte Überwelt/Simulation",
+        "type": "place",
+        "quote": "Veränderte Überwelt/Simulation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 37",
+        "target": "Zukunft entscheiden",
+        "type": "want",
+        "quote": "Kael (integriertes System, Selene?) muss Zukunft entscheiden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chapter 37",
+        "target": "Rückkehr Fundament? Neue Realität gestalten? Anderen helfen?",
+        "type": "promise",
+        "quote": "Rückkehr Fundament? Neue Realität gestalten? Anderen helfen?",
+        "stance": "asks"
+      },
+      {
+        "source": "Chapter 37",
+        "target": "Selene führt",
+        "type": "who",
+        "quote": "Selene führt?",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 37",
+        "target": "Juna/V: letzte Interaktion/Angebot",
+        "type": "who",
+        "quote": "Mögliche letzte Interaktion/Angebot.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 37",
+        "target": "Ort der Entscheidung; KW4",
+        "type": "place",
+        "quote": "Ort der Entscheidung; KW4?.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 38",
+        "target": "Welt ohne alte Kontrolle",
+        "type": "promise",
+        "quote": "Wie fühlt sich Welt ohne alte Kontrolle an?",
+        "stance": "asks"
+      },
+      {
+        "source": "Chapter 38",
+        "target": "Kael mit funktionaler Multiplizität",
+        "type": "promise",
+        "quote": "Wie lebt Kael mit funktionaler Multiplizität?",
+        "stance": "asks"
+      },
+      {
+        "source": "Chapter 38",
+        "target": "veränderte Simulation? Externe Ebene? Nähe Fundament?",
+        "type": "place",
+        "quote": "Neue Realität (veränderte Simulation? Externe Ebene? Nähe Fundament?).",
+        "stance": "hedges"
+      },
+      {
+        "source": "Chapter 39",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael lebt mit Komplexität & Realitätsnatur im Gleichgewicht.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

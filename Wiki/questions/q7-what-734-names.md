@@ -185,3 +185,19 @@ Where it stands: in this outline the number labels a component, AEGIS's precurso
 The prologue plan: „ringt eine prä-bewusste Entität, Komponente 734, um Emergenz“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L15], later fragmented „zur gewaltsamen Fragmentierung von Komponente 734 führt“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L15]
 
 Where it stands: in this outline the number labels a component, an entity before consciousness; what it labels elsewhere in the world is not touched.
+
+## 2026-10-05 — `kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie`, 2025-05-03, the detailed reader-centred outline
+
+**The detailed outline's prologue has the original self become a numbered component; it says nothing of Wohneinheit 734.**
+
+The prologue: „Das ursprüngliche Ich wird zu einer nummerierten Komponente (734)“ ^[kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie.md:L19]
+
+Where it stands: in this outline the number labels a component, the numbered form of the original self; what it labels elsewhere in the world is not touched.
+
+## 2026-10-05 — `charaktere`, 2025-07-29, the character concept
+
+**The character concept names an external construct, Einheit 734, in KW1 and calls the double use of Lex deliberate.**
+
+In KW1 stands „Ein humanoider Konstrukt in KW1, präzise, effizient und emotionslos“ ^[charaktere.md:L371], listed in L371 as `Der Archivar / Einheit 734 / Lex (Externe Entität)`. The Narrative Architect's note (L373) says of the same name beside Kael's inner part Lex: „Dieser Widerspruch ist kein Fehler im Bauplan, sondern eine bewusste Setzung“ ^[charaktere.md:L373].
+
+Stands as a design proposal in which 734 is an external archivist construct, not Kael's origin; recorded, not applied.

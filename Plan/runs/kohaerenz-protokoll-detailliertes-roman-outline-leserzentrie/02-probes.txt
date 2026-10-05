@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      44
+  backslash escapes      160
+  typographic marks      79
+  ascii quotes           18
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabwehr, Systemanalyse, Systemdynamik, Systeme, Systemfehler, Systemfehlers, Systemgrenzen, Systeminstabilität, Systemintervention, Systemischer, Systemisches, Systemkollaps, Systemkrise, Systemmanipulation, Systemordnung, Systemreaktion, Systems, Systemtheorie, Systemweite, Systemwissen
+  inter    Interaktion, Interaktionen, Interface, Interfaces, Interferenz, Internal, Interne, Interner, Interpretation, Intervention
+  kontr    Kontrast, Kontrollarchitektur, Kontrolle, Kontrollierten, Kontrollmethoden, Kontrollobjekt, Kontrollprotokolle, Kontrollrückgewinnung, Kontrollverlust, Kontrollzentrum
+  erinn    Erinnerung, Erinnerungen, Erinnerungsfetzen, Erinnerungsfragmenten, Erinnerungskontrolle, Erinnerungslandschaft, Erinnerungsmanipulation, Erinnerungsrekonstruktion, Erinnerungssuche
+  bewus    Bewusste, Bewusstsein, Bewusstseine, Bewusstseins, Bewusstseinsfunke, Bewusstseinszentrum, Bewusstwerdung
+  leben    Leben, Lebendiges, Lebens, Lebensform, Lebenskunst, Lebensweg, Lebensweise
+  angst    Angst, Angstbewältigung, Angstkonfrontation, Angstkontrolle, Angstlogik, Angstmechanismen
+  emoti    Emotion, Emotionale, Emotionaler, Emotionalität, Emotionen, Emotions
+  manip    Manipulation, Manipulationen, Manipulationstechniken, Manipulative, Manipulatorin, Manipulierbarkeit
+  strat    Strategie, Strategien, Strategiewechsel, Strategische, Strategischer, Strategisches
+  abweh    Abwehr, Abwehrkräfte, Abwehrmaßnahme, Abwehrmaßnahmen, Abwehrmechanismen
+  ident    Identifikation, Identifiziert, Identity, Identität, Identitätskrise
+  intel    Intellektuell, Intellektuelle, Intellektueller, Intelligente, Intelligenz
+  psych    Psych, Psychologie, Psychologischer, Psychologisches, Psychology
+  analy    Analyse, Analysen, Analyseversuche, Analysis
+  angri    Angriff, Angriffe, Angriffen, Angriffs
+  beoba    Beobachter, Beobachtet, Beobachtung, Beobachtungslogik
+  entsc    Entscheidende, Entscheidung, Entschlossenheit, Entschlüsselung
+  erken    Erkennen, Erkenntnis, Erkenntnisse, Erkenntnistheorie
+  integ    Integration, Integrationsarbeit, Integrationsförderer, Integrationsprozess
+  kompl    Komplexes, Komplexität, Komplexitätstheorie, Komplizenschaft
+  moral    Moralisches, Morality, Moralität, Moralphilosophie
+  parad    Paradox, Paradoxien, Paradoxon, Paradoxons
+  poten    Potentialis, Potentialität, Potenzial, Potenzielle
+  reali    Reality, Realität, Realitätsfragen, Realitätsstruktur
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Falle
+  Alle < Fallen
+  Alle < Fallende
+  Back < Backdoors
+  Back < Flashback
+  Back < Flashbacks
+  Back < Feedbackschleifen
+  Cast < Castle
+  Code < Codes
+  Core < Score
+  Dies < Diese
+  Dies < Dieses
+  Dies < Diesmal
+  Echo < Echos
+  Eine < Bewusstseine
+  Ende < Tendenz
+  Ende < Fallende
+  Ende < Wendepunkt
+  Ende < Transzendenz
+  Ende < Befriedigende

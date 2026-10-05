@@ -1,0 +1,223 @@
+# 05-verify: every number the census and note state, with the command that produced it (2026-10-05)
+## python3 scripts/read.py outline-3 --count "Handlung"
+whole word, case-sensitive     42
+whole word, case-insensitive   42
+including compounds            45
+`Handlung` ^[outline-3.md:#42]
+## python3 scripts/read.py outline-3 --count "Konzeptionelles"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+`Konzeptionelles` ^[outline-3.md:#40]
+## python3 scripts/read.py outline-3 --count "AEGIS Focus"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            37
+`AEGIS Focus` ^[outline-3.md:#37]
+## python3 scripts/read.py outline-3 --count "Core Theme"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+`Core Theme` ^[outline-3.md:#40]
+## python3 scripts/read.py outline-3 --count "Kael Internal"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+`Kael Internal` ^[outline-3.md:#40]
+## python3 scripts/read.py outline-3 --count "Juna/V"
+whole word, case-sensitive     33
+whole word, case-insensitive   33
+including compounds            33
+`Juna/V` ^[outline-3.md:#33]
+## python3 scripts/read.py outline-3 --count "Selene"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            11
+`Selene` ^[outline-3.md:#9]
+## python3 scripts/read.py outline-3 --count "Heilung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Heilung` ^[outline-3.md:#2]
+## python3 scripts/read.py outline-3 --count "Fusion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Fusion` ^[outline-3.md:#1]
+## python3 scripts/read.py outline-3 --count "Kernwelten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Kernwelten` ^[outline-3.md:#3]
+## python3 scripts/read.py outline-3 --count "Fundament"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            21
+`Fundament` ^[outline-3.md:#17]
+## python3 scripts/read.py outline-3 --count "Phobie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            9
+`Phobie` ^[outline-3.md:#1]
+## python3 scripts/read.py outline-3 --count "Phobien"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+`Phobien` ^[outline-3.md:#7]
+## python3 scripts/read.py outline-3 --count "Argus"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+`Argus` ^[outline-3.md:#12]
+## python3 scripts/read.py outline-3 --count "Meta-Beobachter"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Meta-Beobachter` ^[outline-3.md:#2]
+## python3 scripts/read.py outline-3 --count "Task Force"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Task Force` ^[outline-3.md:#1]
+## python3 scripts/read.py outline-3 --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Nichts Rauschen` ^[outline-3.md:#2]
+## python3 scripts/read.py outline-3 --count "Komponente 734"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Komponente 734` ^[outline-3.md:#3]
+## python3 scripts/read.py outline-3 --count "Kohärenz Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Kohärenz Protokoll` ^[outline-3.md:#1]
+## python3 scripts/read.py outline-3 --count "System Kael"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`System Kael` ^[outline-3.md:#1]
+## python3 scripts/read.py outline-3 --count "Funktionale Multiplizität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Funktionale Multiplizität` ^[outline-3.md:#1]
+## python3 scripts/read.py outline-3 --count "funktionaler Multiplizität"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`funktionaler Multiplizität` ^[outline-3.md:#3]
+## python3 scripts/read.py outline-3 --count "Chapter"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+`Chapter` ^[outline-3.md:#40]
+## python3 scripts/read.py outline-3 --count "Kap"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+`Kap` ^[outline-3.md:#6]
+## python3 scripts/read.py outline-3 --count "Kael Integration"
+whole word, case-sensitive     34
+whole word, case-insensitive   34
+including compounds            34
+`Kael Integration` ^[outline-3.md:#34]
+## python3 scripts/read.py outline-3 --count "AEGIS Paradoxon"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            32
+`AEGIS Paradoxon` ^[outline-3.md:#32]
+## python3 scripts/read.py outline-3 --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+`Fehlausgerichtete Kohärenz` ^[outline-3.md:#5]
+## python3 scripts/read.py outline-3 --count "Kernparadoxon"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+`Kernparadoxon` ^[outline-3.md:#6]
+## python3 scripts/read.py outline-3 --count "Guardians"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+`Guardians` ^[outline-3.md:#15]
+## python3 scripts/read.py outline-3 --count "Selbstbezüglichkeit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Selbstbezüglichkeit` ^[outline-3.md:#1]
+## python3 scripts/read.py outline-3 --count "Canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Canon` ^[outline-3.md:#0]
+## python3 scripts/read.py outline-3 --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Kanon` ^[outline-3.md:#0]
+## python3 scripts/read.py outline-3 --count "Kohärenz-Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Kohärenz-Protokoll` ^[outline-3.md:#0]
+## python3 scripts/read.py outline-3 --count "Rhys"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+`Rhys` ^[outline-3.md:#18]
+## python3 scripts/read.py outline-3 --count "Alex"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+`Alex` ^[outline-3.md:#19]
+## python3 scripts/read.py outline-3 --count "Risse"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+`Risse` ^[outline-3.md:#3]
+## python3 scripts/read.py outline-3 --count "Echos"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+`Echos` ^[outline-3.md:#4]
+## python3 scripts/read.py outline-3 --count "Fundaments"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Fundaments` ^[outline-3.md:#3]
+## python3 scripts/read.py outline-3 --count "fundamentale"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`fundamentale` ^[outline-3.md:#2]
+## python3 scripts/read.py outline-3 --count "Kernwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+`Kernwelt` ^[outline-3.md:#2]
+## python3 scripts/read.py outline-3 --count "Wiederkehr"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Wiederkehr` ^[outline-3.md:#1]
+## grep -c "\\[Handlung" Sources/drive/outline-3.md
+40
+## grep -o "\\\\\\[" | wc -l (80 brackets each)
+80
+80
+## lines holding a question mark: grep -c "?"
+82
+## python3 scripts/profile.py outline-3 (question marks 112, escapes 160, ascii quotes 22, typographic 65, glued ref numbers 44)
+  headings             0   bold-only lines 4
+  question marks       112
+  backslash escapes    160
+  typographic marks    65   ascii quotes 22
+  glued ref numbers    44
+## candidates 93, zeros 0: grep -c " 0 word" Plan/runs/outline-3/04-counts.txt
+0
+## chapters 39 + prologue: Chapter 40 (above); bold act lines
+4
