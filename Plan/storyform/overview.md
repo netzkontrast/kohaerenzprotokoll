@@ -23,35 +23,43 @@
 
 ## Storyform A — Heuristik der Integration (K1)
 
+**Logline:** „Ein Mann, der beruflich die Risse einer simulierten Stadt glättet, muss seine eigene zersplitterte Geschichte lesen, bevor sich die Nacht seiner Fragmentierung wiederholt — und erfahren, dass seine Vielheit nicht die Störung ist, sondern die Bedingung seiner Heilung."
+
+**Genre:** Hard-SF / Philosophical Horror / Psychological Thriller
+
 | Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |
 |---|---|---|---|---|---|---|
 | MC | Mind | Memory | Suspicion | Inertia → Change | Chaos → Order | Memory → Subconscious → Preconscious → Conscious |
 | IC | Universe | Past | Prediction | Change → Inertia | Actuality → Perception | Past → Progress → Present → Future |
 | OS | Psychology | Conceptualizing | State of Being | Inertia → Change | Knowledge → Thought | Being → Becoming → Conceiving → Conceptualizing |
-| RS | Physics | Understanding | Instinct | Ability → Desire | — → — | Learning → Doing → Obtaining → Understanding |
+| RS | Physics | Understanding | Instinct | Ability → Desire | Thought → Knowledge | Learning → Doing → Obtaining → Understanding |
 
 Plot: goal **Conceptualizing** · requirements **Learning** · consequence **Past** · forewarnings **Preconscious** · costs **Being** · dividends **Becoming** · prerequisites **Memory** · preconditions **Present**
 
 Besetzung: Kael — Main Character (Inertia); Juna — Influence Character (Change); Selene (Alter) — Protagonist (Pursuit, Consideration); Oblivion (Alter) — Antagonist (Avoid, Reconsideration)
 
-Offen: RS focus/direction: the pair Knowledge/Thought, order open; logline, genre
+Offen: the other six archetypes — Guardian-Archetyp, Contagonist, Reason, Emotion, Sidekick, Skeptic (W10 C, via the treatment pilot)
 
 Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 
 ## Storyform B — Phönix-Kollaps (K0)
 
+**Logline:** „Eine KI, die ihre Welt durch lückenlose Sweeps schließen will, verliert mit jedem Sweep ihr eigenes Gedächtnis — und scheitert an dem einen Host, der lernt, was sie nie kann: zu glauben."
+
+**Genre:** Hard-SF / Philosophical Horror / Psychological Thriller
+
 | Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |
 |---|---|---|---|---|---|---|
 | MC | Universe | Future | Openness | Disbelief → Faith | Reconsideration → Consideration | Past → Present → Progress → Future |
-| IC | Mind | Subconscious | Dream | — → — | — → — | Conscious → Memory → Preconscious → Subconscious |
+| IC | Mind | Subconscious | Dream | Disbelief → Faith | Oppose → Support | Conscious → Memory → Preconscious → Subconscious |
 | OS | Physics | Obtaining | Approach | Feeling → Logic | Reconsideration → Consideration | Doing → Learning → Understanding → Obtaining |
-| RS | Psychology | Becoming | Rationalization | Feeling → Logic | — → — | Being → Conceiving → Conceptualizing → Becoming |
+| RS | Psychology | Becoming | Rationalization | Feeling → Logic | Hinder → Help | Being → Conceiving → Conceptualizing → Becoming |
 
 Plot: goal **Obtaining** · requirements **Doing** · consequence **Becoming** · forewarnings **Progress** · costs **Memory** · dividends **Understanding** · prerequisites **Past** · preconditions **Conceiving**
 
 Besetzung: AEGIS — Main Character, Protagonist (Logic); Kael — Influence Character, Antagonist (Feeling)
 
-Offen: IC problem element (not derived by D1–D7); the other archetypes (W10); logline, genre
+Offen: the other archetypes (W10)
 
 Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 
