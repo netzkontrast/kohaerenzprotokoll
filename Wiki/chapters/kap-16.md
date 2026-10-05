@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Reaktionsschwelle sondieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L227]
 - Story: „Kael testet systematisch AEGIS' Reaktionen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228] · „geringfügige Regelverstöße, Ausdruck spezifischer Emotionen, Versuch verbotener Verbindungen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
 - Story: „Er könnte entdecken, dass einige Aktionen unverhältnismäßig große Reaktionen hervorrufen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The hard problem
+
+Title: „Das Hard Problem“ ^[romanstruktur-und-philosophische-einleitung.md:L154]
+Position: Teil II, „Bewusstsein vs. Algorithmus“ ^[romanstruktur-und-philosophische-einleitung.md:L154]
+
+- Story: „Und noch erschreckender: Ist er selbst real?“ ^[romanstruktur-und-philosophische-einleitung.md:L156]
+- Story: „Sein Leiden wird zum Beweis seiner Menschlichkeit“ ^[romanstruktur-und-philosophische-einleitung.md:L158]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
