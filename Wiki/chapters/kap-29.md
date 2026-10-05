@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,15 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael wird von LogOS (oder einem anderen logikbasierten Guardian) in die Enge getrieben.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
 - Story: „eine perfekt logische, aber selbstwidersprüchliche Aussage“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
 - Story: „gerät in eine Verarbeitungsschleife oder einen temporären Absturzzustand, was Kael ermöglicht, ihn zu umgehen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Cracking the Code` — one entry shared with Kap 27–30
+
+Title: „Cracking the Code“ ^[ai-assisted-narrative-coherence.md:L1584] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
+Position: scene 3.1 at „3.1 - The Überwelt, Outer Defenses“ ^[ai-assisted-narrative-coherence.md:L1588], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1589]
+
+- Story (goal): the scene outline plans „To bypass AEGIS's primary security layers and reach its core processing unit.“ ^[ai-assisted-narrative-coherence.md:L1590]
+- Story (beat): the scene outline plans „This paradox freezes the local Guardian's decision-making process, creating a momentary opening.“ ^[ai-assisted-narrative-coherence.md:L1597]
+- Turn: `Outcome & Turn` has „They have weaponized their multiplicity, proving it is a superior form of problem-solving.“ ^[ai-assisted-narrative-coherence.md:L1600]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The road of trials
 
