@@ -365,3 +365,12 @@ Where it stands in the record's own terms: a report of a position with two or th
 Column 2 of the table (the pre-reset PDFs, not the report's voice): „Fünf Wächter kontrollieren die Realität: LogOS, Mnemosyne, Cerberus, Kairos, Sophia.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L50] The report's verdict, column 4: „Cerberus, Kairos und Sophia entfallen restlos.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L50] In its own directive (§4.3, `Lösung zu F3`): „Es existieren exakt zwei Pole.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L99] with „Der Speicher-Pol. Statisch, erhaltend, kalt.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L103] and „Der Lösch-Pol (Cerberus subsumiert).“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L104] The report names no pairing with worlds.
 
 Stands: two Guardians, Mnemosyne and an erasing pole, as the report proposes it; no pairing is named.
+
+## 2026-10-05 — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report
+
+**The editor's report names five Guardians, pairs them with four worlds, and lists four misreadings.**
+
+It names „die Guardians LogOS, Mnemosyne, Cerberus, Kairos und Sophia“ ^[scifi-roman-mit-ki-schreiben.md:L192] and says they „sind keine willentlich bösen Antagonisten“ ^[scifi-roman-mit-ki-schreiben.md:L192] Its numbered list of misreadings has entries for LogOS, Mnemosyne, Cerberus and Kairos and none for Sophia, and ends in the reading „Die Risse sind nicht die Krankheit, sondern die Symptome der falschen Behandlung“ ^[scifi-roman-mit-ki-schreiben.md:L201]
+The pairing is the one of Q5 (L88–L91, L229–L232), given as the plot document's.
+
+In the record's terms the report stands with the five-Guardian, four-pair arrangement of 2025; it is a later report on the plot document, takes no side beyond giving it, and decides nothing.
