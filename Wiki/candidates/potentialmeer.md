@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 24
-readings: 25
+sources: 25
+readings: 26
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 gathered: "2026-09-17"
 ---
 
@@ -52,6 +52,10 @@ This is a report of another document (its reference 87). The report says the ana
 The master blueprint plans the Potentialmeer as what lies beyond the simulation and what AEGIS is set against. Kap 18 plans that AEGIS uses Kael's EPs as computing power „um die Unendlichkeit des Potentialmeers zu analysieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L203] Kap 22 sets the border: „Die ontologische Grenze (Epsilon-Null) zum Potentialmeer.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L232] and plans Kael to look „in das brodelnde Chaos des Potentialmeers“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235] In the same chapter the Risse arise because „Die Risse entstehen, weil das Potentialmeer nach der Ganzheit von“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235] (a symbol is lost after `Ganzheit` in the export).
 
 Kap 27 is titled for a descent into it and plans Kael to dive „in das rohe, mathematische Chaos des Potentialmeers eintauchen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L279] Kap 34 plans the paradox: „AEGIS (die Negation) existiert nur, weil das Potentialmeer existiert“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L335]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Potentialmeer in Kap 21 as AEGIS's origin
+
+Kap 21 plans a log that explains „Das Kapitel ist ein reiner Log-File, der AEGIS' Entstehung aus dem“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271] „Potentialmeer“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271] „und seine panische Angst vor Entropie erklärt.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271]
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Kap 33
 
