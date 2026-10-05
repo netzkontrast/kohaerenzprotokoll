@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,15 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - Plot: „Ein kurzer Blick über den unmittelbaren Konflikt hinaus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396], hinting „dass AEGIS“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396] „Simulation nur eine von vielen war, oder dass M selbst nur eine mögliche Struktur ist, die aus dem unendlichen Potentialmeer emergiert ist.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
 - Establishes: „Dies verstärkt den kosmischen Horror und die Relativität des gerade Erreichten.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Bürde der Freiheit: Entscheidung über die Zukunft
+
+Title: the commission titles the chapter „Die Bürde der Freiheit: Entscheidung über die Zukunft“ ^[kontext-outline.md:L477], placed in Act 3. Position: `Setting` „Ort der Entscheidung; KW“ ^[kontext-outline.md:L484]
+
+- Theme: the commission's `Core Theme` is „Sinnfindung nach dem Kampf; Verantwortung des Gestalters“ ^[kontext-outline.md:L479]
+- Story: its `Plot Summary` plans „Kael (integriertes System, Selene?) muss Zukunft entscheiden“ ^[kontext-outline.md:L480]
+- Foci: `Kael Sys Focus` „Selene führt?“ ^[kontext-outline.md:L481]; `AEGIS Focus` „Mögliche letzte Interaktion/Angebot“ ^[kontext-outline.md:L482]
+- Notes: „Existenzielle Freiheit (Sartre)“ ^[kontext-outline.md:L485]
 
 ## Reading — `outline`, 2025-07-30, the outline — Das Erbe von AEGIS: Fragmente einer Ordnung / Die neue Kohärenz
 
