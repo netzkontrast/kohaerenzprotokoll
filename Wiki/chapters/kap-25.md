@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: ["C9", "C11", "C14", "C6"]
 gathered: "2026-09-25"
 ---
@@ -108,6 +108,14 @@ Position: Akt II; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-er
 
 - Story: the outline plans „Kael begreift, dass Flucht und Subversion das System nicht aufhalten werden.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L731]
 - Concepts: „Agency, Genesis-Sequenz (Vorbereitung)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L729]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Ontologischer Selbstmord (II)
+
+Title: „Ontologischer Selbstmord (II)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L264] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]
+
+- Story: the dual-storyform outline plans „Kael entdeckt das Trennungsprotokoll“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L266]
+- Storyforms: `Storyform B` (`MC: Universe/Present`): „Die Entscheidung gegen das System ist gefallen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L268]; `Storyform A` (`MC: Mind/Impulsive Responses`): „Ein Akt des existenziellen Trotzes“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L269]
+- Scene and pacing: `Pacing`: „Drängend“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L270]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
