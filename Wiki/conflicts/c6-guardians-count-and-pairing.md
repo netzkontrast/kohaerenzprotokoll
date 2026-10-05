@@ -325,3 +325,11 @@ On neither row's count — four, not five and not two, and three names (`Netzweb
 „Kernwelt 1 (LogOS): A world of sterile, brutalist architecture, representing the rigid, emotionally avoidant logic of Kael’s Apparently Normal Parts." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1243]
 „Kernwelt 4 (Kairos/Sophia): A "Possibility Garden" of chaotic growth and emergence, representing the potential for creativity, healing, and integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1246]
 `Erasure-Pol` and `Wächter` stand 0 times (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`); no reduction is told. The author's decision for five (2026-09-24) stands; this document agrees with row 1's and row 2's count and pairing.
+
+## 2026-10-05 — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest
+
+**The manifest names five Guardians, with the fourth Core World held by two.**
+
+The terminal directive names „The Guardians—LogOS, Mnemosyne, Cerberus, Kairos, and Sophia—are commissioned“ ^[aegis-persona-and-manifest-generation.md:L178]. The fourth world „is uniquely delegated to a dual-Guardian protocol: Kairos and Sophia“ ^[aegis-persona-and-manifest-generation.md:L109]. The pairing is taken up in Q5.
+
+Stands as a manifest in AEGIS's own voice that gives the count of five and the double hold of the fourth world; recorded, not applied.
