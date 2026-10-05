@@ -438,3 +438,11 @@ Kap 1 (§4.5, the report's directive): „Der Ozon-Geruch steht für die absolut
 Heat and cold of the Landauer trace (§4.2): „Überall dort, wo AEGIS operiert, entsteht Hitze (Erasure = Entropie).“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L92] and „Überall dort, wo Junas Einfluss in Kaels System wirkt, entsteht“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L92] cold. Part 1.4 states as consensus that „Trauma-Erasure riecht nach Ozon“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L31]
 
 Stands: the report gives the ozone as cold in Kap 1 and hot in Kap 39 and places the Landauer heat with AEGIS and cold with Juna; it does not name the record's question for Kap 6, and nothing is decided here.
+
+## 2026-10-05 — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis
+
+**The synthesis states the Landauer principle and gives a digital heat as a conditional by-product of AEGIS's erasures; it gives no sensory warmth or cold.**
+
+The principle: „jeder logisch irreversible Vorgang“ ^[system-kael-konzeptentwicklung-und-analyse.md:L80] raises the thermodynamic entropy of the environment. Of AEGIS: if the physics of the Überwelt follows it, „erzeugt jede ordnende Handlung von AEGIS zwangsläufig eine Form von“ ^[system-kael-konzeptentwicklung-und-analyse.md:L82] waste entropy, written there as digital waste entropy or digital heat. Heat stands once, as „digitaler Wärme“ ^[system-kael-konzeptentwicklung-und-analyse.md:L82], and `Ozon` ^[system-kael-konzeptentwicklung-und-analyse.md:#0] stands nowhere; the synthesis does not place the heat in a chapter or a scene.
+
+Stands: the synthesis says heat only as the conditional digital waste heat of the [[ueberwelt|Überwelt]]'s substrate; it does not say warm or cold for a scene, and nothing is decided here.
