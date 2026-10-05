@@ -323,3 +323,11 @@ The report decides nothing about Q5; it reports four pairs, with Kairos and Soph
 KW1: „Diese Umgebung ist die Manifestation der Domäne *LogOS*“ ^[romanstruktur-und-philosophische-einleitung.md:L39] KW3: „Dies ist der Übergang zur **Kern-Welt 3 (KW3)**, der Domäne *Cerberus*.“ ^[romanstruktur-und-philosophische-einleitung.md:L49] KW2: „die **Kern-Welt 2 (KW2)**, die Domäne *Mnemosyne*.“ ^[romanstruktur-und-philosophische-einleitung.md:L53] KW4: „in der aufkeimenden **Kern-Welt 4 (KW4)**, der Domäne *Kairos/Sophia*.“ ^[romanstruktur-und-philosophische-einleitung.md:L93] In Part II the three are called Wächter and read as code: „die Wächter der Kernwelten (LogOS, Mnemosyne, Cerberus)“ ^[romanstruktur-und-philosophische-einleitung.md:L150]
 
 In the record's terms the analysis stands with four pairs, Kairos and Sophia sharing KW4; it retells a plot from the concept papers it lists, and says nothing of an Erasure-Pol.
+
+## 2026-10-05 — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis
+
+**The synthesis gives the same pairing of Wächter and worlds as the editor's report ^[scifi-roman-mit-ki-schreiben.md:L88], with the code names; it decides nothing.**
+
+KW1 (`Co₁`) is „Domäne von LogOS“ ^[system-kael-konzeptentwicklung-und-analyse.md:L160], KW2 (`McL`) „Domäne von Mnemosyne“ ^[system-kael-konzeptentwicklung-und-analyse.md:L161], KW3 (`B`) „Domäne von Cerberus“ ^[system-kael-konzeptentwicklung-und-analyse.md:L162] and KW4 (`Ly`) „Domäne von Kairos/Sophia“ ^[system-kael-konzeptentwicklung-und-analyse.md:L164], so Kairos and Sophia share KW4 as in the editor's report ^[scifi-roman-mit-ki-schreiben.md:L91]. It does not name an Erasure-Pol.
+
+Stands: one Wächter for each of KW1 to KW3 and two for KW4, as the synthesis lists them; the record's question is not addressed.
