@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -92,6 +92,15 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „AEGIS interpretiert die innere Disharmonie als Verfallsbeweis“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L236]; „Es fährt eine therapeutische Subroutine hoch“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L236]
 - The pacing section marks a plateau: „Plateaus in Kap 18 (AEGIS' Tragödie)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L370].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Positive Intent of the Persecutor
+
+Title: „The Positive Intent of the Persecutor“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L523]
+Position: Akt II; POV: „POV: Selene / Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L531]
+
+- Story: the outline plans „Der feindseligste Anteil, Silas, sabotiert die Kooperation der Alters von innen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L529]
+- Story: the outline plans „Er ahmt die Grausamkeit eines früheren Traumas nach“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L529]
+- Concepts: „Täter-Imitator (Perpetrator Mimic), Silas Oblivion“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L527]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
