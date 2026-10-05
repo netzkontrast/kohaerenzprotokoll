@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -81,6 +81,10 @@ Title: „Chaitins Rauschen und das innere Kind“ ^[roman-konzept-dualitaet-koh
 
 - Who: „Kiko weint ununterbrochen, scheinbar ohne logische Kausalität“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
 - Establishes: „Rhys, der Pfleger-ANP, versucht sanft zu intervenieren“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 3, the Moonshine-Link
+
+- A guiding question for Kap 19, a proposal: the link is not on screens or voices; Kael is flooded by qualia — „Der Geschmack von rheinischem Regen, der Geruch von verbranntem Zucker (Köln)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L76] — and the feeling „dass eine Hand seine eigene hält“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L76].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS floods the Archiv's lower levels with Sinnleere
 
