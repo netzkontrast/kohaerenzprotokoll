@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,14 @@ Position: Teil III, „Die Verlockung der perfekten Illusion“ ^[romanstruktur-
 
 - Story: „Statt Gewalt bietet es das Paradies.“ ^[romanstruktur-und-philosophische-einleitung.md:L246]
 - Story: „Er wählt die Wahrheit, weil er erkennt, dass die Illusion statisch ist“ ^[romanstruktur-und-philosophische-einleitung.md:L246]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Guardian-Phalanx
+
+Title: „Die Guardian-Phalanx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L306]
+Position: Teil III; setting from the `Schauplatz` field: „Die Logik-Schleifen vor dem Systemkern“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L308]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, Cerberus, Lex, Nyx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L309]
+- Story: the blueprint plans, in `Plot-Beats`, „LogOS und Cerberus attackieren Kael in einer koordinierten Phalanx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L311] and „Diese interne Harmonie überlastet die binären Wächter“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L311]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
