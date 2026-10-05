@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael interagiert mit einem Guardian (z.B. Mnemosyne, verantwortlich für Erinnerung).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „die Integrität der Erinnerung zu wahren vs. einer AEGIS-Direktive zu gehorchen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „Kael beobachtet, wie Mnemosyne Zögern, inkonsistentes Verhalten oder vielleicht sogar eine Antwort zeigt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Fight for Memory: Confrontation with Mnemosyne`
+
+Title: „The Fight for Memory: Confrontation with Mnemosyne“ ^[ai-assisted-narrative-coherence.md:L1526] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the chapter has no scene fields in the outline; its prose places the action in KW2: „Kael returns to KW2 for a direct confrontation with Mnemosyne.“ ^[ai-assisted-narrative-coherence.md:L1528]
+
+- Story (beat): the scene outline plans „He doesn't try to fight her power but outsmarts her.“ ^[ai-assisted-narrative-coherence.md:L1528]
+- Story (beat): the scene outline plans „Kael accesses a core memory node and reclaims a foundational memory about the“ ^[ai-assisted-narrative-coherence.md:L1528]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Gödel's limit
 
