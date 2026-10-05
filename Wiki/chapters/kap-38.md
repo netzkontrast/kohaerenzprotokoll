@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -61,6 +61,14 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 - Establishes: „Die Erkenntnis manifestiert sich als Ouroboros“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204] · „Die gewaltsame Trennung seiner Seele war nie das Ende, sondern der notwendige Weg zu einer höheren Komplexität.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204]
 - Establishes: „Es ändert nichts an dem erlittenen Schmerz, aber es nimmt ihm die Zerstörungskraft.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204]
 - Checklist, Fixpunkt 6: „Resolution: Fundament = Strange Attractor, Trennung nie real, ändert nichts am Schmerz. Ouroboros.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220] · „Die Fraktur war Rettung, der Schmerz bleibt real und gültig.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Der unendliche Horizont“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L332]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „B (Simulation in Ruhezustand — letzte System-POV)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L334]
+
+- Story: the outline places: „Die Wache ist zur Wohnstatt geworden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L334]; „Mnemosyne archiviert wieder“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L334]
+- Encoding A: „MC · SP4 (Memory) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L334]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
