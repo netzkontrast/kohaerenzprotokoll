@@ -1,0 +1,1056 @@
+{
+  "document": "kohaerenz-protokoll",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "a452bdc67612bfb6bca5c0657f830ea4ab9c2724b27104023e409a9e6bc87820",
+  "calls": 207,
+  "failed_calls": 0,
+  "seconds": 932.7,
+  "input_tokens": 916232,
+  "output_tokens": 41396,
+  "cost_usd": 2.9808,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1854,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1578,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1516,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1953,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1392,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 2019,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1793,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1777,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1703,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1597,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1499,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1705,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1831,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1985,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 2003,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1174,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1289,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1812,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1895,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1535,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1932,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1769,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1758,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 2024,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 1923,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 1767,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1991,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 1954,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 1978,
+      "ok": true
+    },
+    {
+      "chunk": 29,
+      "characters": 1996,
+      "ok": true
+    },
+    {
+      "chunk": 30,
+      "characters": 1719,
+      "ok": true
+    },
+    {
+      "chunk": 31,
+      "characters": 1980,
+      "ok": true
+    },
+    {
+      "chunk": 32,
+      "characters": 2009,
+      "ok": true
+    },
+    {
+      "chunk": 33,
+      "characters": 1746,
+      "ok": true
+    },
+    {
+      "chunk": 34,
+      "characters": 1963,
+      "ok": true
+    },
+    {
+      "chunk": 35,
+      "characters": 1853,
+      "ok": true
+    },
+    {
+      "chunk": 36,
+      "characters": 1764,
+      "ok": true
+    },
+    {
+      "chunk": 37,
+      "characters": 1911,
+      "ok": true
+    },
+    {
+      "chunk": 38,
+      "characters": 1586,
+      "ok": true
+    },
+    {
+      "chunk": 39,
+      "characters": 1763,
+      "ok": true
+    },
+    {
+      "chunk": 40,
+      "characters": 1737,
+      "ok": true
+    },
+    {
+      "chunk": 41,
+      "characters": 2027,
+      "ok": true
+    },
+    {
+      "chunk": 42,
+      "characters": 1761,
+      "ok": true
+    },
+    {
+      "chunk": 43,
+      "characters": 1920,
+      "ok": true
+    },
+    {
+      "chunk": 44,
+      "characters": 1696,
+      "ok": true
+    },
+    {
+      "chunk": 45,
+      "characters": 1936,
+      "ok": true
+    },
+    {
+      "chunk": 46,
+      "characters": 2031,
+      "ok": true
+    },
+    {
+      "chunk": 47,
+      "characters": 1917,
+      "ok": true
+    },
+    {
+      "chunk": 48,
+      "characters": 1847,
+      "ok": true
+    },
+    {
+      "chunk": 49,
+      "characters": 1813,
+      "ok": true
+    },
+    {
+      "chunk": 50,
+      "characters": 1867,
+      "ok": true
+    },
+    {
+      "chunk": 51,
+      "characters": 1739,
+      "ok": true
+    },
+    {
+      "chunk": 52,
+      "characters": 1763,
+      "ok": true
+    },
+    {
+      "chunk": 53,
+      "characters": 1843,
+      "ok": true
+    },
+    {
+      "chunk": 54,
+      "characters": 1301,
+      "ok": true
+    },
+    {
+      "chunk": 55,
+      "characters": 1880,
+      "ok": true
+    },
+    {
+      "chunk": 56,
+      "characters": 1548,
+      "ok": true
+    },
+    {
+      "chunk": 57,
+      "characters": 1982,
+      "ok": true
+    },
+    {
+      "chunk": 58,
+      "characters": 2028,
+      "ok": true
+    },
+    {
+      "chunk": 59,
+      "characters": 1831,
+      "ok": true
+    },
+    {
+      "chunk": 60,
+      "characters": 1908,
+      "ok": true
+    },
+    {
+      "chunk": 61,
+      "characters": 1998,
+      "ok": true
+    },
+    {
+      "chunk": 62,
+      "characters": 1827,
+      "ok": true
+    },
+    {
+      "chunk": 63,
+      "characters": 1912,
+      "ok": true
+    },
+    {
+      "chunk": 64,
+      "characters": 1783,
+      "ok": true
+    },
+    {
+      "chunk": 65,
+      "characters": 1857,
+      "ok": true
+    },
+    {
+      "chunk": 66,
+      "characters": 1795,
+      "ok": true
+    },
+    {
+      "chunk": 67,
+      "characters": 2020,
+      "ok": true
+    },
+    {
+      "chunk": 68,
+      "characters": 1821,
+      "ok": true
+    },
+    {
+      "chunk": 69,
+      "characters": 1951,
+      "ok": true
+    },
+    {
+      "chunk": 70,
+      "characters": 1968,
+      "ok": true
+    },
+    {
+      "chunk": 71,
+      "characters": 2039,
+      "ok": true
+    },
+    {
+      "chunk": 72,
+      "characters": 1990,
+      "ok": true
+    },
+    {
+      "chunk": 73,
+      "characters": 1995,
+      "ok": true
+    },
+    {
+      "chunk": 74,
+      "characters": 2015,
+      "ok": true
+    },
+    {
+      "chunk": 75,
+      "characters": 1896,
+      "ok": true
+    },
+    {
+      "chunk": 76,
+      "characters": 1652,
+      "ok": true
+    },
+    {
+      "chunk": 77,
+      "characters": 1731,
+      "ok": true
+    },
+    {
+      "chunk": 78,
+      "characters": 2004,
+      "ok": true
+    },
+    {
+      "chunk": 79,
+      "characters": 1894,
+      "ok": true
+    },
+    {
+      "chunk": 80,
+      "characters": 1984,
+      "ok": true
+    },
+    {
+      "chunk": 81,
+      "characters": 1682,
+      "ok": true
+    },
+    {
+      "chunk": 82,
+      "characters": 1480,
+      "ok": true
+    },
+    {
+      "chunk": 83,
+      "characters": 1881,
+      "ok": true
+    },
+    {
+      "chunk": 84,
+      "characters": 1983,
+      "ok": true
+    },
+    {
+      "chunk": 85,
+      "characters": 1875,
+      "ok": true
+    },
+    {
+      "chunk": 86,
+      "characters": 2009,
+      "ok": true
+    },
+    {
+      "chunk": 87,
+      "characters": 1944,
+      "ok": true
+    },
+    {
+      "chunk": 88,
+      "characters": 2016,
+      "ok": true
+    },
+    {
+      "chunk": 89,
+      "characters": 1986,
+      "ok": true
+    },
+    {
+      "chunk": 90,
+      "characters": 1973,
+      "ok": true
+    },
+    {
+      "chunk": 91,
+      "characters": 1646,
+      "ok": true
+    },
+    {
+      "chunk": 92,
+      "characters": 1844,
+      "ok": true
+    },
+    {
+      "chunk": 93,
+      "characters": 2040,
+      "ok": true
+    },
+    {
+      "chunk": 94,
+      "characters": 2032,
+      "ok": true
+    },
+    {
+      "chunk": 95,
+      "characters": 1920,
+      "ok": true
+    },
+    {
+      "chunk": 96,
+      "characters": 228,
+      "ok": true
+    },
+    {
+      "chunk": 97,
+      "characters": 1571,
+      "ok": true
+    },
+    {
+      "chunk": 98,
+      "characters": 642,
+      "ok": true
+    },
+    {
+      "chunk": 99,
+      "characters": 1926,
+      "ok": true
+    },
+    {
+      "chunk": 100,
+      "characters": 2000,
+      "ok": true
+    },
+    {
+      "chunk": 101,
+      "characters": 2020,
+      "ok": true
+    },
+    {
+      "chunk": 102,
+      "characters": 1495,
+      "ok": true
+    },
+    {
+      "chunk": 103,
+      "characters": 1783,
+      "ok": true
+    },
+    {
+      "chunk": 104,
+      "characters": 2003,
+      "ok": true
+    },
+    {
+      "chunk": 105,
+      "characters": 1890,
+      "ok": true
+    },
+    {
+      "chunk": 106,
+      "characters": 1793,
+      "ok": true
+    },
+    {
+      "chunk": 107,
+      "characters": 1627,
+      "ok": true
+    },
+    {
+      "chunk": 108,
+      "characters": 1791,
+      "ok": true
+    },
+    {
+      "chunk": 109,
+      "characters": 1973,
+      "ok": true
+    },
+    {
+      "chunk": 110,
+      "characters": 1734,
+      "ok": true
+    },
+    {
+      "chunk": 111,
+      "characters": 1887,
+      "ok": true
+    },
+    {
+      "chunk": 112,
+      "characters": 1837,
+      "ok": true
+    },
+    {
+      "chunk": 113,
+      "characters": 1979,
+      "ok": true
+    },
+    {
+      "chunk": 114,
+      "characters": 1990,
+      "ok": true
+    },
+    {
+      "chunk": 115,
+      "characters": 2007,
+      "ok": true
+    },
+    {
+      "chunk": 116,
+      "characters": 1866,
+      "ok": true
+    },
+    {
+      "chunk": 117,
+      "characters": 1691,
+      "ok": true
+    },
+    {
+      "chunk": 118,
+      "characters": 1984,
+      "ok": true
+    },
+    {
+      "chunk": 119,
+      "characters": 1745,
+      "ok": true
+    },
+    {
+      "chunk": 120,
+      "characters": 1998,
+      "ok": true
+    },
+    {
+      "chunk": 121,
+      "characters": 1998,
+      "ok": true
+    },
+    {
+      "chunk": 122,
+      "characters": 1893,
+      "ok": true
+    },
+    {
+      "chunk": 123,
+      "characters": 1548,
+      "ok": true
+    },
+    {
+      "chunk": 124,
+      "characters": 1690,
+      "ok": true
+    },
+    {
+      "chunk": 125,
+      "characters": 1978,
+      "ok": true
+    },
+    {
+      "chunk": 126,
+      "characters": 1977,
+      "ok": true
+    },
+    {
+      "chunk": 127,
+      "characters": 1803,
+      "ok": true
+    },
+    {
+      "chunk": 128,
+      "characters": 2020,
+      "ok": true
+    },
+    {
+      "chunk": 129,
+      "characters": 1326,
+      "ok": true
+    },
+    {
+      "chunk": 130,
+      "characters": 1774,
+      "ok": true
+    },
+    {
+      "chunk": 131,
+      "characters": 1798,
+      "ok": true
+    },
+    {
+      "chunk": 132,
+      "characters": 1827,
+      "ok": true
+    },
+    {
+      "chunk": 133,
+      "characters": 1974,
+      "ok": true
+    },
+    {
+      "chunk": 134,
+      "characters": 2027,
+      "ok": true
+    },
+    {
+      "chunk": 135,
+      "characters": 1900,
+      "ok": true
+    },
+    {
+      "chunk": 136,
+      "characters": 1678,
+      "ok": true
+    },
+    {
+      "chunk": 137,
+      "characters": 1879,
+      "ok": true
+    },
+    {
+      "chunk": 138,
+      "characters": 1931,
+      "ok": true
+    },
+    {
+      "chunk": 139,
+      "characters": 2042,
+      "ok": true
+    },
+    {
+      "chunk": 140,
+      "characters": 1693,
+      "ok": true
+    },
+    {
+      "chunk": 141,
+      "characters": 1902,
+      "ok": true
+    },
+    {
+      "chunk": 142,
+      "characters": 1769,
+      "ok": true
+    },
+    {
+      "chunk": 143,
+      "characters": 1988,
+      "ok": true
+    },
+    {
+      "chunk": 144,
+      "characters": 1465,
+      "ok": true
+    },
+    {
+      "chunk": 145,
+      "characters": 1902,
+      "ok": true
+    },
+    {
+      "chunk": 146,
+      "characters": 1787,
+      "ok": true
+    },
+    {
+      "chunk": 147,
+      "characters": 1784,
+      "ok": true
+    },
+    {
+      "chunk": 148,
+      "characters": 1916,
+      "ok": true
+    },
+    {
+      "chunk": 149,
+      "characters": 1727,
+      "ok": true
+    },
+    {
+      "chunk": 150,
+      "characters": 2046,
+      "ok": true
+    },
+    {
+      "chunk": 151,
+      "characters": 1814,
+      "ok": true
+    },
+    {
+      "chunk": 152,
+      "characters": 1843,
+      "ok": true
+    },
+    {
+      "chunk": 153,
+      "characters": 2029,
+      "ok": true
+    },
+    {
+      "chunk": 154,
+      "characters": 1814,
+      "ok": true
+    },
+    {
+      "chunk": 155,
+      "characters": 1954,
+      "ok": true
+    },
+    {
+      "chunk": 156,
+      "characters": 1850,
+      "ok": true
+    },
+    {
+      "chunk": 157,
+      "characters": 1842,
+      "ok": true
+    },
+    {
+      "chunk": 158,
+      "characters": 2005,
+      "ok": true
+    },
+    {
+      "chunk": 159,
+      "characters": 1764,
+      "ok": true
+    },
+    {
+      "chunk": 160,
+      "characters": 2013,
+      "ok": true
+    },
+    {
+      "chunk": 161,
+      "characters": 1848,
+      "ok": true
+    },
+    {
+      "chunk": 162,
+      "characters": 1951,
+      "ok": true
+    },
+    {
+      "chunk": 163,
+      "characters": 1940,
+      "ok": true
+    },
+    {
+      "chunk": 164,
+      "characters": 1897,
+      "ok": true
+    },
+    {
+      "chunk": 165,
+      "characters": 1936,
+      "ok": true
+    },
+    {
+      "chunk": 166,
+      "characters": 1999,
+      "ok": true
+    },
+    {
+      "chunk": 167,
+      "characters": 1085,
+      "ok": true
+    },
+    {
+      "chunk": 168,
+      "characters": 1713,
+      "ok": true
+    },
+    {
+      "chunk": 169,
+      "characters": 1898,
+      "ok": true
+    },
+    {
+      "chunk": 170,
+      "characters": 1590,
+      "ok": true
+    },
+    {
+      "chunk": 171,
+      "characters": 1738,
+      "ok": true
+    },
+    {
+      "chunk": 172,
+      "characters": 1877,
+      "ok": true
+    },
+    {
+      "chunk": 173,
+      "characters": 1770,
+      "ok": true
+    },
+    {
+      "chunk": 174,
+      "characters": 1820,
+      "ok": true
+    },
+    {
+      "chunk": 175,
+      "characters": 1837,
+      "ok": true
+    },
+    {
+      "chunk": 176,
+      "characters": 1903,
+      "ok": true
+    },
+    {
+      "chunk": 177,
+      "characters": 2009,
+      "ok": true
+    },
+    {
+      "chunk": 178,
+      "characters": 1547,
+      "ok": true
+    },
+    {
+      "chunk": 179,
+      "characters": 1895,
+      "ok": true
+    },
+    {
+      "chunk": 180,
+      "characters": 1883,
+      "ok": true
+    },
+    {
+      "chunk": 181,
+      "characters": 1851,
+      "ok": true
+    },
+    {
+      "chunk": 182,
+      "characters": 1755,
+      "ok": true
+    },
+    {
+      "chunk": 183,
+      "characters": 1939,
+      "ok": true
+    },
+    {
+      "chunk": 184,
+      "characters": 1844,
+      "ok": true
+    },
+    {
+      "chunk": 185,
+      "characters": 1919,
+      "ok": true
+    },
+    {
+      "chunk": 186,
+      "characters": 1854,
+      "ok": true
+    },
+    {
+      "chunk": 187,
+      "characters": 1782,
+      "ok": true
+    },
+    {
+      "chunk": 188,
+      "characters": 1947,
+      "ok": true
+    },
+    {
+      "chunk": 189,
+      "characters": 1747,
+      "ok": true
+    },
+    {
+      "chunk": 190,
+      "characters": 1893,
+      "ok": true
+    },
+    {
+      "chunk": 191,
+      "characters": 1982,
+      "ok": true
+    },
+    {
+      "chunk": 192,
+      "characters": 1719,
+      "ok": true
+    },
+    {
+      "chunk": 193,
+      "characters": 1874,
+      "ok": true
+    },
+    {
+      "chunk": 194,
+      "characters": 1766,
+      "ok": true
+    },
+    {
+      "chunk": 195,
+      "characters": 1451,
+      "ok": true
+    },
+    {
+      "chunk": 196,
+      "characters": 1940,
+      "ok": true
+    },
+    {
+      "chunk": 197,
+      "characters": 1892,
+      "ok": true
+    },
+    {
+      "chunk": 198,
+      "characters": 1610,
+      "ok": true
+    },
+    {
+      "chunk": 199,
+      "characters": 1729,
+      "ok": true
+    },
+    {
+      "chunk": 200,
+      "characters": 1878,
+      "ok": true
+    },
+    {
+      "chunk": 201,
+      "characters": 1983,
+      "ok": true
+    },
+    {
+      "chunk": 202,
+      "characters": 1801,
+      "ok": true
+    },
+    {
+      "chunk": 203,
+      "characters": 2010,
+      "ok": true
+    },
+    {
+      "chunk": 204,
+      "characters": 1836,
+      "ok": true
+    },
+    {
+      "chunk": 205,
+      "characters": 1939,
+      "ok": true
+    },
+    {
+      "chunk": 206,
+      "characters": 1601,
+      "ok": true
+    }
+  ]
+}

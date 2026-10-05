@@ -39,7 +39,7 @@ Every contract run by model and by the category of its source — written by `sc
 | `ChapterCards` | aegis | sonnet | 1 (0) | 0 | 12 | 0.1227 | 0 | — |
 | `ChapterCards` | charaktere | sonnet | 2 (0) | 0 | 122 | 0.0100 | 0 | — |
 | `ChapterCards` | kernkonzept | — | 1 (0) | 0 | 65 | 0.0000 | 0 | — |
-| `ChapterCards` | kernkonzept | sonnet | 2 (0) | 0 | 41 | 0.0363 | 0 | — |
+| `ChapterCards` | kernkonzept | sonnet | 3 (0) | 0 | 126 | 0.0355 | 0 | — |
 | `ChapterCards` | plot-outline | — | 4 (0) | 0 | 373 | 0.0000 | 0 | — |
 | `ChapterCards` | plot-outline | haiku | 1 (0) | 0 | 36 | 0.0033 | 15 | 13 (87%) |
 | `ChapterCards` | plot-outline | sonnet | 15 (0) | 1 | 1239 | 0.0084 | 0 | — |
