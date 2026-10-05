@@ -69,6 +69,14 @@ trennt die Verbindung selbst) ist mit F9 „Kael will sie schützen“ dieselbe 
 der Gegenwart zurück, und diesmal ist es Kael, der schweigt und geht. Und W9 (erste Begegnung in der Gegenwart in Kap 32)
 heißt jetzt: Kael begegnet der Frau, mit der er seit Jahren lebt, und erkennt sie.
 
+**Runde 4, Mehrfachauswahl (2026-10-05).** Gewählt hast du:
+
+- **F13, Junas Wunde:** „Die, die zusammenhielt“ — frühe Verantwortung in ihrer Familie; ihre eigenen Wünsche störten.
+- **F14, Junas Stimme:** „Lachen zuerst“ (die Freude hört man vor dem Wort), „Fragen statt Antworten“ (sie lässt Kael die
+  Dinge selbst finden), „Praktisch, geerdet“ (das Große steht zwischen dem Konkreten).
+- **F15, ihr Widerspruch** — deine eigene Antwort statt „Ja, so“: „Ihr Urvertrauen und ihre moonshine Verbindung“. Was
+  dem gegenübersteht, ist noch nicht gesagt (F16).
+
 ## Die Karte, so weit
 
 | Feld | Stand |
@@ -76,8 +84,8 @@ heißt jetzt: Kael begegnet der Frau, mit der er seit Jahren lebt, und erkennt s
 | Function | IC von Storyform A (Change), Signposts Past → Progress → Present → Future (Entscheidung 025) |
 | Want | Niemandem wehtun; Kael bewahren; etwas nur für sich (F6). Ihre erste Tat im Buch ist eine Wahl: Sie wählt ihre alte Beziehung (A3); Sprechen hätte diese Beziehung aufs Spiel gesetzt und es „für beide“ sehr schwierig gemacht (A4). |
 | Need | Sich selbst wichtig nehmen; sprechen statt schweigen; die Nähe aushalten; ihn ganz sehen, mit allen Anteilen (F12). Zieht gegen ihr Want (niemandem wehtun, Kael bewahren). |
-| Wound → Lie | Lüge: „Ich bin für die anderen da, nicht für mich.“ (F7). Wunde: offen. Angst: die Wucht des Gefühls, sich in so viel Nähe zu verlieren (F5). |
-| Contradiction | Kandidat, aus A3: Sie wählt die alte Beziehung, und das Urvertrauen zu Kael bleibt unberührt. Noch nicht als Widerspruch bestätigt. |
+| Wound → Lie | Wunde: Sie war früh die, die in ihrer Familie zusammenhielt; ihre eigenen Wünsche störten (F13). Lüge: „Ich bin für die anderen da, nicht für mich.“ (F7). Angst: die Wucht des Gefühls, sich in so viel Nähe zu verlieren (F5). |
+| Contradiction | „Ihr Urvertrauen und ihre moonshine Verbindung“ (F15) — die Gegenseite ist offen (F16). Kandidat aus A3: Sie wählt die alte Beziehung, und das Urvertrauen bleibt unberührt. |
 | Arc | Zeitlinie (F8, F10): der Anruf → zehn Jahre, die Kael vergessen hat → die beiden sind inzwischen ein Paar → heute droht eine Trennung aus Liebe. Kael erinnert das erst im Lauf der Geschichte; Juna ist zuerst nur Erinnerung. Die Trennung droht aus drei Gründen zugleich (F9). |
-| Voice | offen |
+| Voice | Lachen zuerst; Fragen statt Antworten; praktisch, geerdet — das Große zwischen dem Konkreten (F14). |
 | Relationships | Kael: „schon immer bekannt“, „Instant Urvertrauen“, über Zeit hinweg; Momente, „wo einfach Dinge klar waren ohne klar sein zu müssen“ (A2). Vorfreude auf stundenlange Telefonate (A1). |
