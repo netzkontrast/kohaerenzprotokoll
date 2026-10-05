@@ -1,16 +1,20 @@
 ---
 term: Rhys
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben"]
 gathered: "2026-09-24"
 ---
 
 # Rhys
 
 One of the thirteen [[alters|Alters]] — ANP, „Caregiver" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L431].
+
+## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the caring ANP, with Alex a pro-social pair; sees a chance for connection
+
+The report gives the pair „Alex (Beschützer) & Rhys (Pfleger)“ ^[scifi-roman-mit-ki-schreiben.md:L137] as the plot document's, and says on how the parts read an event: „Rhys mag eine Chance zur Verbindung sehen“ ^[scifi-roman-mit-ki-schreiben.md:L156] It places him in KW4 with „mit Anteilen wie Rhys, Selene und Lia assoziiert sind“ ^[scifi-roman-mit-ki-schreiben.md:L91]
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Rhys in Appendix B, a Caregiver
 Appendix B lists Rhys among the ANPs: „Caregiver. Somatik: Schweiß, fiebrige Hände.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L637] The arc runs through the Kanon's Acts I and II (L637).
