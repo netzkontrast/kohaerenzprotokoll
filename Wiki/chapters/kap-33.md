@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -71,6 +71,10 @@ Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-kon
 
 - Plot: to save Juna from AEGIS' final erasure, Kael „schickt Kael ihre Essenz tief in einen Mikroriss seiner eigenen Psyche“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127].
 - Science: „Die Quanteninformation der Liebe (Juna) wird holografisch in der ausstrahlenden Hawking-Strahlung seines Bewusstseins codiert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127]; „Kael sieht buchstäblich glühende Silberfäden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127] (quantum entanglement) connecting the collapsing space to his heart.
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 7, the Gödel-Gambit
+
+- A guiding question for Kap 33, a proposal: AEGIS's logic core as a mandala of consistency operators; „Kael greift nicht physisch an.“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L92] He stops suppressing his alters, „Er fühlt Liebe und Hass, Logik und Panik gleichzeitig (Dialetheismus).“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L92]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS tries to fuse the thirteen alters in the heat of the Fundament
 
