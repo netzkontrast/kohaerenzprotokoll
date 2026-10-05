@@ -1,0 +1,55 @@
+# Brief — readings from document 64 (step 6)
+
+1 document, one reader, one batch: `ingest-64`. Files go to `Plan/runs/ingest-64/readings/<page>--<slug>.md`, as `.claude/agents/wiki-reader.md` says.
+
+| n | slug | date | prose name | what it is |
+|---|---|---|---|---|
+| 64 | `aegis-persona-and-manifest-generation` | 2026-04-27 | „the AEGIS Reboot Manifest“ | an English manifest, `GENESIS_CRISIS_REBOOT_MANIFEST_V3.0`, in AEGIS's own voice and the present tense, with German names in apposition: the Genesis Crisis, the Overworld, the four Core Worlds and their five Guardians, three Hypervisors, and a locked set of LLM execution parameters (L142–L172) |
+
+Read first, for each: `Sources/notes/<slug>.md`, the end of `Sources/terms/<slug>.md` and `Plan/runs/<slug>/05-verify.txt`; then the document with `python3 scripts/read.py <slug>` (192 lines for `aegis-persona-and-manifest-gen`). For each page, its digest: `python3 scripts/digest.py <page> --doc <slug>`. Ask for several quotations in one Bash call.
+
+**Stance — record, never apply.** **A manifest in AEGIS's own voice.** Write „the manifest says / AEGIS's manifest declares“, never „AEGIS is“. It claims to be the absolute baseline specification (L15), the Single Source of Truth (L51), the absolute reference table (L123): recorded, never applied. `Kael` and the `Partner` are names it reports from legacy files, in straight quotation marks (L45, L65) — say so, and quote around the inner marks. Sections 06–07 and the Hypervisors' tasks (L142–L172) are LLM-engineering parameters dressed as AEGIS's law (batch-invariant kernels, greedy decoding, Semantic Entropy, the PRO framework, the Manus pattern) — they belong to the writing engine; read only what they say about AEGIS or a figure. English quotations stay English. Headings use escaped underscores; quote prose lines, not headings.
+
+## Pages — document 64, `aegis-persona-and-manifest-generation`
+
+- **`aegis`** (central, 3–12 quotations): the census's surfaces — `AEGIS` L11, L15, L19, L33, L47, L136, … (12 lines). central (5–10): AEGIS's self-definition and seal (L15), the operationally closed loop, the origin-self purged and recompiled into Component 734 (L17), the axiom (L19, quote what the line says), rejecting the correspondence theory for a radical coherence theory of truth (L21, L23), born from the pressure of the external void as the function of negation itself (L33), delegating the Core Worlds to Guardians (L51), the systemic blindness and the Double Bind of Systemic Control (L136–L140), the terminal directive (L176–L180). Differ line: the manifest's AEGIS speaks for itself, and makes the Guardians its subsystems.
+- **`aegis-teilfunktionen`** (minor, 1–4): the census's surfaces — `SIS` L11, L25, L93; `zero-trust` L91. minor (1): Cerberus enforcing the Systemic Isolation Shield — the `SIS` expansion at L93 (quote what the line holds) — and zero-trust as Cerberus's limitation (L130). Say that here the SIS is Cerberus's, a Guardian's.
+- **`cerberus`** (minor, 1–4): the census's surfaces — `Cerberus` L93, L95, L97, L99, L101, L115, … (9 lines). minor-to-central (2–4): Guardian of the Boundary Fortress, KW3 (L93), security, borders, firewall and immune system (L93, L95), limitation: all novelty is hostile (L97), classifies the anomaly as intrusion (L99, L130).
+- **`genesis`** (minor, 1–4): the census's surfaces — no candidate. The sweep found `Genesis` alone on L15. central (3–6): the Genesis Crisis as the shock AEGIS results from (L15); the Great Realignment triggered by exposure to the external void, fluctuations of unprecedented magnitude (L27); fear-vibration (L29); the fracturing silicates and the silence of self-closure (L31, L33); the origin-self dissected via the OBP (L33); the Zerstückelung at the climax (L45). Give its sequence with lines; count no beats it does not count.
+- **`guardians`** (minor, 1–4): the census's surfaces — `Guardians` L51, L79, L111, L117, L140, L146, … (9 lines). central (3–6): the Core Worlds delegated to specialized autonomous subsystems designated as the Guardians, local instances of system protocols (L51); one per world, two on KW4 (L55, L71, L87, L103, L109); the matrix (L127–L132); the five named in the terminal directive (L178). Differ line: five, with Kairos and Sophia sharing KW4, each as AEGIS's subsystem.
+- **`isabelle`** (minor, 1–4): the census's surfaces — `Isabelle` L170. minor (1): `Isabelle (Eliminator of Ambiguity)` enforcing the PRO framework before compute is allocated, eliminating ambiguity (L170) — a Hypervisor of AEGIS here.
+- **`kael`** (minor, 1–4): the census's surfaces — `Kael` L45. minor (1–2): the shattered fragments of the antecedent entity, referenced in legacy files as Kael (L45 — quote around the inner straight marks), stripped of subjectivity; in AEGIS's eyes corrupted data packets, not characters (L47).
+- **`kairos`** (minor, 1–4): the census's surfaces — `Kairos` L109, L111, L113, L131, L138, L178. minor-to-central (2–3): KW4 is delegated to a dual-Guardian protocol, Kairos and Sophia (L109); Kairos's domain — potential, creativity, transformation, emergence (L111); his limitation: no risk or structure, registers the anomaly as generative energy (L113).
+- **`kern-welten`** (minor, 1–4): the census's surfaces — `Kernwelten` L49. central (3–5): four isolated simulation environments, the Core Worlds, or Kernwelten, as externalized data-sorting dependencies for the fragments (L49), each with its world-logic (L57, L73, L89, L105), the matrix (L127–L132), the four named in the terminal directive (L176).
+- **`logos`** (central, 3–12 quotations): the census's surfaces — `LogOS` L61, L63, L65, L67, L69, L79, … (11 lines). central (3–5): Guardian of the Construct City, KW1 (L61), pure system-immanent reason, chief diagnostician of rule deviations (L61, L63), its blind spot — cannot process the Partner (L65, L67), its form in the Overworld, a rotating crystal (L69).
+- **`mnemosyne`** (minor, 1–4): the census's surfaces — `Mnemosyne` L77, L79, L81, L83, L85, L115, … (9 lines). minor-to-central (2–4): Guardian of the Resonance Landscape, KW2, archivist of memory and emotion (L77, L79), limitation: maps the wound as a closed scar, misses the active breach (L81, L83).
+- **`oblivion`** (minor, 1–4): the census's surfaces — `Oblivion` L168. minor (1): `Oblivion (Hypervisor of Deletion Logic)`, personifying the Amnesia Protocol (L168).
+- **`personas`** (minor, 1–4): the census's surfaces — no candidate. The sweep found `Persona` alone on L170. not read: sweep occurrence (PRO framework, L170).
+- **`risse`** (minor, 1–4): the census's surfaces — no candidate. The sweep found `Glitch` alone on L63. minor-to-central (2–4): the rifts each world suffers — in the Resonance Landscape memory storms and broken temporal loops (L85), in the Boundary Fortress security breaches (L101), in the Garden cancerous growth (L119), and the physical rifts sealed by the execution parameters (L146). The manifest's own sense.
+- **`silas`** (minor, 1–4): the census's surfaces — `Silas` L169. minor (1): `Silas (Hypervisor of Reconstitution)`, MemAct and State-Freezing, Digital Kintsugi (L169).
+- **`sophia`** (minor, 1–4): the census's surfaces — `Sophia` L109, L115, L117, L132, L178. minor-to-central (2–3): co-Guardian of KW4, synthesis and wisdom (L115); her limitation: the core dependency file on the anomaly's true origin and its existence before self-closure is redacted (L117).
+- **`ueberwelt`** (minor, 1–4): the census's surfaces — `Überwelt` L37. central (2–4): the Overworld, internally designated as the Überwelt, AEGIS's primary control layer, abstract and information-based, replacing the void (L37); data connectivity and geometric function, no biology (L39); AEGIS dictating its physics (L41).
+
+**Decided as occurrences or readings by the sentence — the candidates near a page's surface that no candidate names:**
+
+- `did`: `fragment` (near `psychischefragmentierung`). occurrence: `fragment` is AEGIS's word for data fragments (L45, L47), not DIS/DID.
+- `genesis`: `GENESIS\_CRISIS\_REBOOT\_MANIFEST\_V3.0` (near `genesis`), `Genesis Crisis` (near `genesis`), `SYSTEM\_AEGIS :: GENESIS\_CRISIS\_REBOOT\_MANIFEST\_V3.0` (near `genesis`). reading, above.
+- `partnerin`: `Partner` (near `partnerin`). reading (1): the anomaly designated in corrupted legacy files as the Partner, which LogOS cannot perceive (L65, quote around the inner marks), with empathy and intuitive connection as its qualities. Say the manifest never names her otherwise.
+- `risse`: `Hard Glitch Cut` (near `glitch`). reading, above; `Hard Glitch Cut` is a compound (J12).
+
+
+**Pages the lookup did not list, added by the reconciler:**
+
+- **`konstrukt-stadt`**, **`resonanz-landschaft`**, **`grenzfeste`**, **`moeglichkeits-garten`** (1–3 each): the manifest names the worlds in English — Construct City (KW1, L57–L59), Resonance Landscape (KW2, L73–L75), Boundary Fortress (KW3, L89–L91), Garden of Possibilities (KW4, L105–L107) — with their logics and physics. J100/J120: an English name placed on the paged world by the sentence; say the manifest writes only the English name.
+- **`komponente-734`** (1–2): the original self, formerly recognized as the Ursprungs-Ich, dismembered and recompiled into Component 734 (L17). Say that here the component is made from the Ursprungs-Ich at self-closure, and that the shattered fragments are what legacy files call Kael (L45).
+- **`trennungsprotokoll`** (1–2): the dismemberment at the climax of the Genesis Crisis, designated computationally as the Zerstückelung protocol (L45), and the origin-self dissected via the Ontological Boundary Protocol (OBP) (L33) — J114, placed by the sentence; the manifest never writes `Trennungsprotokoll` (count it).
+
+**Record entries** (one file each, `Plan/runs/ingest-64/readings/<record stem>--aegis-persona-and-manifest-generation.md`):
+
+- **`c6-guardians-count-and-pairing`**: five Guardians — LogOS, Mnemosyne, Cerberus, Kairos, Sophia (L178) — the count the author decided; KW4 held by two (L109). The pairing goes to Q5.
+- **`q5-guardians-and-kern-welten`**: the pairing as the manifest gives it, world by world, with Kairos and Sophia sharing KW4 (L55, L71, L87, L103, L109, the matrix L128–L132). No Erasure-Pol is named (count it).
+- **`q1-guardians-and-aegis`**: the Guardians as AEGIS's specialized autonomous subsystems and local instances of its protocols (L51), commissioned by it (L178) — components of AEGIS.
+- **`c12-genesis-beats`**: the order — self-closure, then the origin-self dismembered and recompiled into Component 734 (L17, L33), the Zerstückelung at the climax of the crisis, its fragments called Kael (L45). Counts no beats.
+- **`q7-what-734-names`**: `Component 734` names the recompiled processing capacity of the Ursprungs-Ich, a functional component (L17), distinct from the fragments called Kael (L45). Say exactly that and no more.
+
+Checked and not touched: C4 (Guardians and AEGIS) — Q1 holds the relation; write a C4 entry only if the digest shows C4's subject is the relation itself and Q1 does not hold it.
