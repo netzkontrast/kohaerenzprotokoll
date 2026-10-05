@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation"]
 gathered: "2026-09-17"
 ---
 
@@ -40,6 +40,10 @@ Integrates LogOS, Mnemosyne and Cerberus and moderates their debates; works clos
 
 `Der Möglichkeits-Garten` — see that page. The pairing is the document's own organising
 principle: each section is a `Guardian/Welt-Paar`.
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — co-Guardian of the Garden, with a redacted core dependency file
+
+The manifest gives Sophia's domain as „knowledge synthesis, overarching wisdom, integration, ethical parameters, and holistic system overview“ ^[aegis-persona-and-manifest-generation.md:L115], shared with Kairos in the fourth Core World. Her limitation is „an absolute, hardcoded data deficit“ ^[aegis-persona-and-manifest-generation.md:L117]: she lacks „the critical core dependency file“ ^[aegis-persona-and-manifest-generation.md:L117], and the data on the anomaly's origin and its existence before self-closure „has been permanently redacted from the system protocols accessible to her during the reboot“ ^[aegis-persona-and-manifest-generation.md:L117].
 
 ## Open
 
