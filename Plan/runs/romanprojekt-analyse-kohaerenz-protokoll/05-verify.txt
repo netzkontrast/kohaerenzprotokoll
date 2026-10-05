@@ -1,0 +1,163 @@
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "KRITISCH"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KRITISCH` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#1]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "MITTEL"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`MITTEL` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#1]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "MINOR"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`MINOR` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#1]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Kern-Konflikt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kern-Konflikt` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#3]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Kernaussage"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kernaussage` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#5]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Stärke"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Stärke` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#5]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Quelle A (Zitat)"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Quelle A (Zitat)` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#3]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Quelle B (Zitat)"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Quelle B (Zitat)` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#3]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Hard Canon"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Hard Canon` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#3]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Doc"
+whole word, case-sensitive     47
+whole word, case-insensitive   47
+including compounds            48
+
+`Doc` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#47]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Guardians` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#2]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#1]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Wächter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Wächter` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#1]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "EP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`EP` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#0]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "EPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#2]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Silas"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Silas` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#6]
+
+$ read.py romanprojekt-analyse-kohaerenz-protokoll --count "Kael"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            22
+
+`Kael` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#18]
+
+$ grep -cE '^\| C-0[0-9]+ ' Sources/drive/romanprojekt-analyse-kohaerenz-protokoll.md
+8
+
+$ grep -cE '^\| F-0[0-9]+ ' Sources/drive/romanprojekt-analyse-kohaerenz-protokoll.md
+6
+
+$ grep -cE '^\| W-0[0-9]+ ' Sources/drive/romanprojekt-analyse-kohaerenz-protokoll.md
+7
+
+$ grep -cE '^\| P-0[0-9]+ ' Sources/drive/romanprojekt-analyse-kohaerenz-protokoll.md
+5
+
+$ grep -cE '^\| T-0[0-9]+ ' Sources/drive/romanprojekt-analyse-kohaerenz-protokoll.md
+5
+
+$ grep -cE '^\| S-0[0-9]+ ' Sources/drive/romanprojekt-analyse-kohaerenz-protokoll.md
+4
+
+$ grep -cE '^\| [FWPTS]-0[0-9]+ ' Sources/drive/romanprojekt-analyse-kohaerenz-protokoll.md
+27
+
+$ grep -n "?" Sources/drive/romanprojekt-analyse-kohaerenz-protokoll.md | cut -c1-10
+120:1.  **
+121:2.  **
+122:3.  **
+123:4.  **
+$ grep -nwo "EP" file (substring lines)
+103:EP
+11:EP
+79:EP
+103:EP
+121:EP
+
+stance_marker_count 22 = KRITISCH 1 + MITTEL 1 (case-sensitive) + MINOR 1 + Quelle A (Zitat) 3 + Quelle B (Zitat) 3 + Kern-Konflikt 3 + Stärke 5 + Kernaussage 5 = 22 (counts above)
+conflict rows 8 = KRITISCH C-001..C-004 (4) + MITTEL C-005..C-007 (3) + MINOR C-008 (1); grep -cE '^\| C-0' above gives 8
+idea rows 27 = F 6 + W 7 + P 5 + T 5 + S 4 (greps above); L59 states 30
+ten names at L69: Lex, Nyx, Kiko, Alex, Rhys, Selene, Argus, Lia, Isabelle, Moros (counted by hand from the line)
+five guardians at L70: LogOS, Mnemosyne, Cerberus, Kairos, Sophia (by hand); Kernwelten 1 (count above); the line gives the number of worlds as four
+by-hand counts for the candidate "Kohärenz vs. Korrespondenz" (not counted by capture.py): whole word 1, in 1, L102 (read.py --count output above, mark #1)
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz vs. Korrespondenz` ^[romanprojekt-analyse-kohaerenz-protokoll.md:#1]

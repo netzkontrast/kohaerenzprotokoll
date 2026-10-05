@@ -1,0 +1,794 @@
+{
+  "document": "romanprojekt-analyse-kohaerenz-protokoll",
+  "drive_id": "1ovMnE9TjJpi0u7zltTt4vXIpVhYgHuq4whvxmjBehaw",
+  "step": "counts",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Kohärenz vs. Korrespondenz"
+  ],
+  "counts": {
+    "Kael": {
+      "n": 18,
+      "n_including_compounds": 22,
+      "lines": [
+        22,
+        25,
+        33,
+        66,
+        68,
+        69,
+        83,
+        93,
+        94,
+        102,
+        106,
+        115,
+        120,
+        122,
+        123
+      ]
+    },
+    "System Kael (Host)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Kaels": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        22,
+        68,
+        93,
+        106
+      ]
+    },
+    "AEGIS": {
+      "n": 17,
+      "n_including_compounds": 19,
+      "lines": [
+        25,
+        32,
+        33,
+        67,
+        70,
+        82,
+        84,
+        93,
+        95,
+        102,
+        104,
+        106,
+        115,
+        116,
+        120
+      ]
+    },
+    "Juna": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        22,
+        41,
+        68,
+        83,
+        94,
+        115,
+        122
+      ]
+    },
+    "Juna / V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Juna/V Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Juna vs V vs Julia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Julia": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        41,
+        122
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        68
+      ]
+    },
+    "Silas": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        24,
+        71
+      ]
+    },
+    "Rhys": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        24,
+        34,
+        69,
+        123
+      ]
+    },
+    "Argus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        69
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        123
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        121
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        121
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Selene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        81
+      ]
+    },
+    "Lia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        121,
+        123
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Oblivion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Eos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        71
+      ]
+    },
+    "Nox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        71
+      ]
+    },
+    "Praetor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        71
+      ]
+    },
+    "Die 10 Kern-Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Dekanonisierte Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Hard Canon": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        32,
+        48
+      ]
+    },
+    "11er-Kanon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        71
+      ]
+    },
+    "Die Wächter (Guardians)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Guardians": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        70,
+        82,
+        116
+      ]
+    },
+    "LogOS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        70,
+        78
+      ]
+    },
+    "Mnemosyne": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        70,
+        79
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        70,
+        80
+      ]
+    },
+    "Kairos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Konstrukt-Stadt (KW1)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Resonanz-Landschaft (KW2)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Cerberus-Labyrinth (KW3)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Möglichkeits-Garten (KW4)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Die Überwelt (Nexus)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Nexus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Externe Ebene (Köln)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Köln": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        120,
+        122
+      ]
+    },
+    "Basisrealität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        120,
+        122
+      ]
+    },
+    "Das Nichts-Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Dual-Kernel-Theorie (DKT)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "DKT": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        49,
+        86,
+        91,
+        121
+      ]
+    },
+    "K1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "K0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        49,
+        66
+      ]
+    },
+    "ANP": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        34,
+        78,
+        103,
+        114
+      ]
+    },
+    "EP": {
+      "n": 0,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        79,
+        103,
+        121
+      ]
+    },
+    "EPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        121
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        94,
+        115
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        93
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        93
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Fehlausgerichteter Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Fehlausgerichtete Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Holografisches Trauma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Gaslighting durch das System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Wächter-Zwiespalt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Polyphone Prosa": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "39-Kapitel-Matrix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        113
+      ]
+    },
+    "Triple Helix Methode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Protektor-Raum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Trigger-Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Genesis-Event": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Switching-Signale": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Somatische Marker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Hypothese B (Klassischer Kollaps)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Ansatz A (Konfrontation & Transformation)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Ansatz B (Transzendenz & Flucht)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Quellen-Index": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Kern-Konflikt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        31,
+        40
+      ]
+    },
+    "Offene Fragen (vom Archivist identifiziert)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Landauer-Prinzip / Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Hawking-Strahlung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Prehension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Whiteheads": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Zero-Trust Execution Model": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Kudzu-Metapher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Dramatica-Storyform": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Heroine's Journey": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Hero's Journey": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Gaslighting": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        106
+      ]
+    }
+  }
+}

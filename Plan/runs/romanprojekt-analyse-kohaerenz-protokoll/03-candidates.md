@@ -1,0 +1,107 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+The document is two machine-made reports in one export: a Contradiction Report and an Idea Registry, both over "Doc NN" numbers. Candidates are the names of figures, worlds and physics the tables carry, the labels the tables use as their own, and the lens concepts they apply. Joined forms "A (B)" are listed whole and by part. The document writes KW1 to KW4 and K1, K0 with plain digits, never subscripted. Doc numbers are references to other texts and are not listed.
+
+- Kael
+- System Kael (Host)
+- Kaels
+- AEGIS
+- Juna
+- Juna / V
+- Juna/V Paradox
+- Juna vs V vs Julia
+- Julia
+- Ursprungs-Ich
+- Silas
+- Rhys
+- Argus
+- Lex
+- Nyx
+- Kiko
+- Alex
+- Selene
+- Lia
+- Isabelle
+- Moros
+- Oblivion
+- Eos
+- Nox
+- Praetor
+- Die 10 Kern-Alters
+- Dekanonisierte Alters
+- Hard Canon
+- 11er-Kanon
+- Die Wächter (Guardians)
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kernwelten
+- Konstrukt-Stadt (KW1)
+- KW1
+- Resonanz-Landschaft (KW2)
+- KW2
+- Cerberus-Labyrinth (KW3)
+- KW3
+- Möglichkeits-Garten (KW4)
+- KW4
+- Die Überwelt (Nexus)
+- Überwelt
+- Nexus
+- Externe Ebene (Köln)
+- Köln
+- Basisrealität
+- Das Nichts-Rauschen
+- Potentialmeer
+- Dual-Kernel-Theorie (DKT)
+- DKT
+- K1
+- K0
+- TSDP
+- ANP
+- EP
+- EPs
+- ANPs
+- Moonshine-Link
+- Gödel-Gambit
+- Algorithmische Melancholie
+- Genesis-Krise
+- Fehlausgerichteter Kohärenz
+- Fehlausgerichtete Kohärenz
+- Funktionale Multiplizität
+- Tertiäre Strukturelle Dissoziation
+- Holografisches Trauma
+- Gaslighting durch das System
+- Wächter-Zwiespalt
+- Polyphone Prosa
+- 39-Kapitel-Matrix
+- Triple Helix Methode
+- Protektor-Raum
+- Trigger-Matrix
+- Genesis-Event
+- Switching-Signale
+- Somatische Marker
+- Hypothese B (Klassischer Kollaps)
+- Ansatz A (Konfrontation & Transformation)
+- Ansatz B (Transzendenz & Flucht)
+- Quellen-Index
+- Kern-Konflikt
+- Offene Fragen (vom Archivist identifiziert)
+
+## lens
+
+- Landauer-Prinzip / Risse
+- Gödel-Satz
+- Hawking-Strahlung
+- Prehension
+- Whiteheads
+- Quantenverschränkung
+- Zero-Trust Execution Model
+- Kudzu-Metapher
+- Dramatica-Storyform
+- Heroine's Journey
+- Hero's Journey
+- Kohärenz vs. Korrespondenz
+- Gaslighting
