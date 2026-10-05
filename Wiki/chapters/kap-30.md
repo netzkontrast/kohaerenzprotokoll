@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -46,6 +46,14 @@ Position: Teil III, „Fragmente des Ursprungs“ ^[romanstruktur-und-philosophi
 
 - Story: „Im tiefsten Code findet Kael Überreste des ursprünglichen Programmierers oder eines früheren, gelöschten Ichs.“ ^[romanstruktur-und-philosophische-einleitung.md:L242]
 - Story: „Diese Erkenntnis erlaubt Empathie mit dem Feind.“ ^[romanstruktur-und-philosophische-einleitung.md:L242]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Code-Verrat
+
+Title: „Der Code-Verrat“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L298]
+Position: Teil III; setting from the `Schauplatz` field: „Der äußere Firewall-Ring von AEGIS' Kern“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L300]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna, AEGIS-Parser“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L301]
+- Story: the blueprint plans, in `Plot-Beats`, „muss Kael eine fundamentale Systemregel brechen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L303] and „Er löst sich komplett von der Matrix-Ebene der Simulation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L303]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
