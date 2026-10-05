@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,14 @@ Position: Teil I, „Verlust der Kontrolle“ ^[romanstruktur-und-philosophische
 
 - Story: the way leads „Der Weg führt tiefer in die Psyche, weg von der Logik“ ^[romanstruktur-und-philosophische-einleitung.md:L53] into KW2, the domain of Mnemosyne
 - Story: there Kael suffers a loss of control: „Kael erlebt einen massiven Kontrollverlust.“ ^[romanstruktur-und-philosophische-einleitung.md:L55]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das Logikgatter
+
+Title: „Das Logikgatter“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L75]
+Position: Teil I; setting from the `Schauplatz` field: „Kaels Arbeitsstation / Axiom-Archiv in KW1“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L77]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, LogOS (System-Wächter), Lex“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L78]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael analysiert Datenströme und entdeckt ein inkompressibles, organisches Datenpaket“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L80] and „Kael nimmt erstmals den Geruch von nasser Erde wahr“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L80]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
