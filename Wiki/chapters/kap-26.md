@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -54,6 +54,10 @@ Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“, Ende ^[rom
 
 - Plot: „Juna wirft sich zwischen Cerberus und Kael.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109] „In einem Moment gleißender Klarheit erkennt Kael, dass Juna keine externe Entität oder KI-Anomalie ist. Sie ist die unzerstörbare relationale Essenz zwischen seinen eigenen gespaltenen Anteilen.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109]
 - Establishes: „Dies ist der Durchbruch zur Relationalen Ontologie“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109]; „Juna strahlt ein Licht (K0) aus, das keine physikalische Temperatur besitzt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109], felt as unshakeable certainty.
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — an outside, or the psyche's own creative power
+
+- OQ-01, an open question: if Juna is real, „ist Kapitel 26 die Entdeckung einer Außenwelt“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L206]; if she is a construct, „ist Kapitel 26 die Erkenntnis der eigenen psychologischen Schöpferkraft“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L206]. The reconstruction leaves it open.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS destroys KW3, and the fall into the fourth Kernwelt
 
