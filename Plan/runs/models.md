@@ -36,9 +36,15 @@ Every contract run by model and by the category of its source — written by `sc
 | `ChapterBeats` | plot-outline | haiku | 1 (0) | 0 | 32 | 0.0032 | 15 | 14 (93%) |
 | `ChapterBeats` | plot-outline | sonnet | 1 (0) | 0 | 21 | 0.0092 | 0 | — |
 | `ChapterBeats` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0498 | 0 | — |
+| `ChapterCards` | charaktere | sonnet | 1 (0) | 0 | 76 | 0.0102 | 0 | — |
+| `ChapterCards` | kernkonzept | — | 1 (0) | 0 | 65 | 0.0000 | 0 | — |
+| `ChapterCards` | kernkonzept | sonnet | 1 (0) | 0 | 26 | 0.0381 | 0 | — |
 | `ChapterCards` | plot-outline | haiku | 1 (0) | 0 | 36 | 0.0033 | 15 | 13 (87%) |
-| `ChapterCards` | plot-outline | sonnet | 6 (0) | 1 | 433 | 0.0069 | 0 | — |
-| `ChapterCards` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0472 | 0 | — |
+| `ChapterCards` | plot-outline | sonnet | 8 (0) | 1 | 606 | 0.0073 | 0 | — |
+| `ChapterCards` | storyform | sonnet | 1 (0) | 0 | 33 | 0.0195 | 0 | — |
+| `ChapterCards` | theorie-logik | sonnet | 2 (0) | 0 | 85 | 0.0073 | 0 | — |
+| `ChapterCards` | theorie-mathematik | sonnet | 1 (0) | 0 | 103 | 0.0112 | 0 | — |
+| `ChapterCards` | worldbuilding | sonnet | 1 (0) | 0 | 47 | 0.0141 | 0 | — |
 | `DiegeticTerms` | charaktere | haiku | 1 (0) | 0 | 5 | 0.0267 | 5 | 1 (20%) |
 | `DiegeticTerms` | plot-outline | sonnet | 1 (0) | 0 | 0 | — | 0 | — |
 | `DiegeticTerms` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0515 | 0 | — |

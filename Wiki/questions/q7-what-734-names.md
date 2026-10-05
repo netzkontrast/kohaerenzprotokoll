@@ -201,3 +201,11 @@ Where it stands: in this outline the number labels a component, the numbered for
 In KW1 stands „Ein humanoider Konstrukt in KW1, präzise, effizient und emotionslos“ ^[charaktere.md:L371], listed in L371 as `Der Archivar / Einheit 734 / Lex (Externe Entität)`. The Narrative Architect's note (L373) says of the same name beside Kael's inner part Lex: „Dieser Widerspruch ist kein Fehler im Bauplan, sondern eine bewusste Setzung“ ^[charaktere.md:L373].
 
 Stands as a design proposal in which 734 is an external archivist construct, not Kael's origin; recorded, not applied.
+
+## 2026-10-05 — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide
+
+**AEGIS's conscious I was sublimated into `Component 734`; the document does not write Kael as 734 and has no dwelling 734.**
+
+In the Genesis-Krise AEGIS fragments its own `Ursprungs-Ich`, and the line ends: the conscious I „was sublimated into the functional designation“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112] `Component 734` (L112). The `Ursprungs-Ich` here is AEGIS's. `Component 734` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#1] stands once, and `Wohneinheit` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] not at all, so the document does not say what the number labels in the world.
+
+734 as AEGIS's own designation, not Kael's and not a dwelling; recorded, the question stays open.

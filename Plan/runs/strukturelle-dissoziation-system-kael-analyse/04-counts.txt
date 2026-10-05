@@ -1,0 +1,130 @@
+# counts for 105 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  System Kael                      19 word    19 in   [11, 15, 36, 60, 100, 102]
+  Kael                             74 word    78 in   [11, 15, 19, 25, 29, 31]
+                                    4      as Kaels
+  Selene                           46 word    55 in   [15, 42, 54, 93, 115, 135]
+                                    9      as Selenes
+  Nyx                              63 word    63 in   [15, 25, 30, 32, 40, 45]
+  Kiko                             45 word    52 in   [15, 25, 32, 43, 55, 67]
+                                    7      as Kikos
+  Lia                              33 word    38 in   [15, 25, 32, 44, 67, 84]
+  Isabelle                         18 word    24 in   [15, 25, 30, 44, 84, 94]
+                                    6      as Isabelles
+  Moros                            47 word    47 in   [15, 25, 31, 41, 53, 76]
+  Alex                             39 word    40 in   [15, 25, 36, 45, 56, 85]
+                                    1      as Alexander
+  Rhys                             59 word    59 in   [15, 25, 31, 32, 36, 41]
+  Lex                              68 word    68 in   [15, 25, 29, 33, 36, 40]
+  Argus                            14 word    14 in   [15, 75, 116, 136, 168, 196]
+  AEGIS                            75 word    75 in   [15, 98, 100, 102, 104, 106]
+  Juna/V                           44 word    44 in   [15, 120, 122, 124, 126, 127]
+  Kernwelten                       10 word    10 in   [15, 58, 60, 96, 530, 540]
+  Co₁                               9 word     9 in   [15, 60, 62, 67, 540, 559]
+  McL                               6 word     6 in   [15, 60, 71, 76, 559, 561]
+  B                                24 word   279 in   [15, 19, 23, 25, 29, 30]  <-- substring
+  Ly                                7 word     7 in   [15, 60, 89, 94, 540, 559]
+  Michael                           1 word     1 in   [246]
+  Die Wächterin                     1 word     1 in   [272]
+  Shadow                            1 word     1 in   [295]
+  Der Kleine                        1 word     1 in   [321]
+  Isabella                          2 word     2 in   [347, 372]
+  The Lost One                      1 word     1 in   [397]
+  Alexander                         1 word     1 in   [422]
+  Stefan                            1 word     1 in   [447]
+  Data                              1 word     1 in   [473]
+  Beobachter/Kritiker               1 word     1 in   [499]
+  Kohärenz Protokoll                3 word     3 in   [15, 522, 568]
+  Anteile                          66 word    94 in   [15, 21, 23, 27, 31, 32]
+                                   28      as Anteilen
+  Host                              8 word     8 in   [36, 54, 76, 106, 126, 209]
+  Integrationspotenzial             1 word     3 in   [42, 93, 274]  <-- substring
+                                    2      as Integrationspotenzials
+  Selene (Integration Potential)    3 word     3 in   [115, 135, 169]
+  Argus (Observer)                  3 word     3 in   [116, 136, 168]
+  Sexual Alter                      1 word     1 in   [372]
+  Spannungspunkte                  14 word    14 in   [11, 15, 17, 19, 21, 58]
+  Pressure Points                   1 word     1 in   [15]
+  Konfliktdyaden                    2 word     2 in   [38, 47]
+  Aktionssysteme                   20 word    22 in   [23, 40, 45, 52, 60, 67]
+                                    2      as Aktionssystemen
+  Kern-Aktionssystem                1 word     1 in   [231]
+  Kernpsychodynamik                11 word    11 in   [250, 276, 299, 325, 351, 376]
+  Phobie vor den EPs und den traumatischen Erinnerungen    1 word     1 in   [250]
+  Phobie vor ANP-Kontrolle und Invalidierung    1 word     1 in   [30]
+  Phobie vor Bindung und Intimität    1 word     1 in   [32]
+  Phobie vor mentalen Aktionen      1 word     1 in   [33]
+  Phobie vor Integration und Veränderung    1 word     1 in   [34]
+  Phobie vor Ohnmacht/Hilflosigkeit    1 word     1 in   [299]
+  Phobie vor unkontrollierbarer Destabilisierung    1 word     1 in   [276]
+  Resonanz                          6 word     8 in   [60, 66, 75, 84, 93, 126]
+                                    1      as Resonanzboden
+                                    1      as Resonanzräume
+  Konflikt/Trigger                  3 word     3 in   [67, 76, 94]
+  Resonanz/Trigger                  1 word     1 in   [84]
+  TSDP Klassifikation              11 word    11 in   [248, 274, 297, 323, 349, 374]
+  Beziehung zu AEGIS               11 word    11 in   [264, 287, 313, 339, 364, 389]
+  Beziehung zu Juna/V              14 word    14 in   [138, 221, 265, 288, 314, 340]
+  Stance on Integration & Selene   11 word    11 in   [266, 289, 315, 341, 366, 391]
+  Potenzielle Entwicklung          11 word    11 in   [267, 290, 316, 342, 367, 392]
+  Primärer ANP                      7 word     7 in   [52, 54, 55, 232, 241, 248]
+  Sekundärer ANP                    6 word     6 in   [53, 56, 239, 240, 424, 449]
+  Modifizierter ANP                 1 word     1 in   [274]
+  Metakognitiver Anteil             1 word     1 in   [501]
+  Kind-EP                           2 word     2 in   [323, 349]
+  Subsystem-Dynamik                 1 word     1 in   [210]
+  Analyse-Paralyse                  2 word     2 in   [514, 517]
+  Gaslighting                       6 word     7 in   [100, 102, 106, 264, 530, 592]
+                                    1      as Gaslightings
+  dysfunktionalen Homöostase        1 word     1 in   [530]
+  funktionale Multiplizität         2 word     2 in   [142, 211]
+  Ko-Bewusstheit                    3 word     3 in   [36, 142, 209]
+  Amnesiebarrieren                  1 word     1 in   [209]
+  lost time                         1 word     1 in   [209]
+  Switching                         2 word     2 in   [209, 549]
+  Insight 5                         4 word     4 in   [265, 314, 466, 492]
+  noetic knowledge                  1 word     1 in   [76]
+  Realisation und Synthese          1 word     1 in   [216]
+  Stabilisierung                    2 word     2 in   [215, 425]
+  Traumaverarbeitung                1 word     1 in   [216]
+  Integration und Rehabilitation    1 word     1 in   [217]
+  Integration                      64 word    81 in   [27, 34, 42, 54, 76, 89]
+                                    9      as Integrationsprozess
+                                    2      as Integrationspotenzials
+                                    1      as Integrationspotenzial
+                                    1      as Integrationsprozesses
+  Fusion                            1 word     1 in   [142]
+  Theorie der Strukturellen Dissoziation    4 word     4 in   [11, 15, 179, 566]
+  TSDP                             22 word    29 in   [15, 17, 19, 51, 142, 144]
+                                    1      as TSDP-Fokus
+                                    1      as TSDP-basiert
+                                    1      as TSDP-Rolle
+                                    1      as TSDP-Konzepte
+  Strukturelle Dissoziation         1 word     1 in   [181]
+  Tertiären Strukturellen Dissoziation    2 word     2 in   [15, 36]
+  Anscheinend Normalen Persönlichkeitsanteil    1 word     1 in   [181]
+  ANP                              43 word    74 in   [15, 23, 25, 29, 30, 33]
+  ANPs                             28 word    28 in   [15, 23, 25, 29, 30, 33]
+  Emotionalen Persönlichkeitsanteil    1 word     1 in   [181]
+  EP                               41 word   104 in   [15, 23, 25, 29, 30, 31]  <-- substring
+  EPs                              51 word    51 in   [15, 23, 25, 29, 30, 31]
+  Primäre SD                        1 word     1 in   [194]
+  Sekundäre SD                      1 word     1 in   [195]
+  Tertiäre SD                       1 word     1 in   [196]
+  DID                               5 word    10 in   [15, 196, 573, 575, 580, 594]
+  OSDD-1                            2 word     2 in   [195, 196]
+  Verteidigungssystem               1 word     2 in   [23, 200]
+                                    1      as Verteidigungssystems
+  Totstellreflex                    2 word     2 in   [23, 400]
+  Defense Cascade                   1 word     1 in   [202]
+  Internal Family Systems           1 word     1 in   [274]
+  IFS                               1 word     1 in   [274]
+  Bindungstheorie                   1 word     1 in   [202]
+  Desorganisierte Bindungsmuster    1 word     1 in   [202]
+  Depersonalisation                 2 word     2 in   [102, 549]
+  Derealisation                     2 word     2 in   [102, 549]
+  Systemtheoretische Aspekte        1 word     1 in   [221]
+  phasenorientierten Ansatz         1 word     1 in   [211]

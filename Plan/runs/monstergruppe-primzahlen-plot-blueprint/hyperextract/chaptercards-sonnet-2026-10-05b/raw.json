@@ -1,0 +1,774 @@
+{
+  "items": [
+    {
+      "source": "Kapitel 5: Risse im Code",
+      "target": "weitere kleine Risse und Inkonsistenzen in der Kernwelt",
+      "type": "cost",
+      "quote": "verursachen sie weitere kleine Risse und Inkonsistenzen in der Kernwelt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Risse im Code",
+      "target": "Kael wird Zeuge dieser zunehmenden Instabilitäten",
+      "type": "who",
+      "quote": "Kael wird Zeuge dieser zunehmenden Instabilitäten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Risse im Code",
+      "target": "nach Antworten zu suchen",
+      "type": "want",
+      "quote": "Sie bestätigen seine Zweifel und drängen ihn weiter, nach Antworten zu suchen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11: Der erste bewusste Kontakt",
+      "target": "der erste kurze, aber bewusste Kontakt mit J durch die nicht-lokale Verbindung",
+      "type": "want",
+      "quote": "gelingt Kael der erste kurze, aber bewusste Kontakt mit J durch die nicht-lokale Verbindung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11: Der erste bewusste Kontakt",
+      "target": "eine entscheidende Information (z.B. über AEGIS, über M, über seine eigene Vergangenheit)",
+      "type": "object",
+      "quote": "Kael erhält dadurch eine entscheidende Information (z.B. über AEGIS, über M, über seine eigene Vergangenheit)",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 11: Der erste bewusste Kontakt",
+      "target": "Er überschreitet die Schwelle zum zweiten Akt",
+      "type": "irreversible",
+      "quote": "Er überschreitet die Schwelle zum zweiten Akt, bewusst auf der Suche nach Wahrheit.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11: Der erste bewusste Kontakt",
+      "target": "AEGIS registriert möglicherweise eine plötzliche Veränderung in Kaels Verhalten",
+      "type": "who",
+      "quote": "AEGIS registriert möglicherweise eine plötzliche Veränderung in Kaels Verhalten",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 11: Der erste bewusste Kontakt",
+      "target": "Was war die Information?",
+      "type": "promise",
+      "quote": "Was war die Information?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 12: Neue Regeln, Altes Spiel",
+      "target": "AEGIS implementiert seine neue Strategie",
+      "type": "want",
+      "quote": "AEGIS implementiert seine neue Strategie.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12: Neue Regeln, Altes Spiel",
+      "target": "kontrollierte Reize aussenden, um Kaels Reaktion zu testen",
+      "type": "want",
+      "quote": "Es könnte kontrollierte Reize aussenden, um Kaels Reaktion zu testen",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 12: Neue Regeln, Altes Spiel",
+      "target": "die Umgebung so zu gestalten, dass sie Kaels M-Resonanz auf vorhersagbare Weise beeinflusst",
+      "type": "want",
+      "quote": "oder versuchen, die Umgebung so zu gestalten, dass sie Kaels M-Resonanz auf vorhersagbare Weise beeinflusst",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 12: Neue Regeln, Altes Spiel",
+      "target": "Kael erkennt diese Versuche möglicherweise oder reagiert auf unerwartete Weise",
+      "type": "want",
+      "quote": "Kael, nun bewusster und durch die K-J Verbindung gestärkt, erkennt diese Versuche möglicherweise oder reagiert auf unerwartete Weise.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 12: Neue Regeln, Altes Spiel",
+      "target": "Kael lernt, seine Resonanz und die K-J Verbindung bewusster einzusetzen, um AEGIS' Manipulationen zu widerstehen oder sie zu umgehen",
+      "type": "want",
+      "quote": "Kael lernt, seine Resonanz und die K-J Verbindung bewusster einzusetzen, um AEGIS' Manipulationen zu widerstehen oder sie zu umgehen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12: Neue Regeln, Altes Spiel",
+      "target": "Kaels Verhalten hängt von seiner dynamischen Interaktion mit dem M-Fundament ab, das AEGIS nicht modelliert hat",
+      "type": "obstacle",
+      "quote": "Es scheitert daran, dass Kaels Verhalten nicht nur von internen Regeln abhängt, sondern von seiner dynamischen Interaktion mit dem M-Fundament, das AEGIS nicht modelliert hat.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13: Der Riss wird zum Tor",
+      "target": "Kael hat einen potenziellen Weg erkannt",
+      "type": "hook_out",
+      "quote": "Kael hat einen potenziellen Weg erkannt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13: Der Riss wird zum Tor",
+      "target": "stabilisiert sich unerwartet oder wird durch Kaels bewusste Interaktion (geleitet durch K-J Verbindung) zu einem potenziellen Übergang oder einer Schwachstelle in AEGIS' Kontrolle",
+      "type": "object",
+      "quote": "stabilisiert sich unerwartet oder wird durch Kaels bewusste Interaktion (geleitet durch K-J Verbindung) zu einem potenziellen Übergang oder einer Schwachstelle in AEGIS' Kontrolle",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13: Der Riss wird zum Tor",
+      "target": "AEGIS registriert die Stabilisierung der Anomalie mit Besorgnis",
+      "type": "who",
+      "quote": "AEGIS registriert die Stabilisierung der Anomalie mit Besorgnis",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13: Der Riss wird zum Tor",
+      "target": "Ein lokaler Bereich der Simulation",
+      "type": "place",
+      "quote": "Ein lokaler Bereich der Simulation beginnt, sich stärker nach den Regeln von M zu verhalten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13: Der Riss wird zum Tor",
+      "target": "Er hat ein konkretes Ziel vor Augen",
+      "type": "want",
+      "quote": "Er hat ein konkretes Ziel vor Augen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13: Der Riss wird zum Tor",
+      "target": "Kael auf die Bedeutung dieses Risses hingewiesen",
+      "type": "who",
+      "quote": "Könnte Kael auf die Bedeutung dieses Risses hingewiesen haben.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 16: Der beschädigte Wächter",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael trifft auf einen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16: Der beschädigte Wächter",
+      "target": "durch die systemischen Instabilitäten beschädigt oder von AEGIS' zentraler Kontrolle teilweise getrennt",
+      "type": "object",
+      "quote": "der durch die systemischen Instabilitäten beschädigt oder von AEGIS' zentraler Kontrolle teilweise getrennt wurde",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16: Der beschädigte Wächter",
+      "target": "Informationen über AEGIS' Natur",
+      "type": "object",
+      "quote": "könnte Kael unbeabsichtigt Informationen über AEGIS' Natur",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 16: Der beschädigte Wächter",
+      "target": "Ist der Wächter eine Falle?",
+      "type": "promise",
+      "quote": "Ist der Wächter eine Falle?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 18: AEGIS' Eskalation: Reprogrammierung",
+      "target": "versucht AEGIS eine drastischere Maßnahme",
+      "type": "want",
+      "quote": "versucht AEGIS eine drastischere Maßnahme",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: AEGIS' Eskalation: Reprogrammierung",
+      "target": "Angesichts der wachsenden Instabilität, Kaels zunehmender Unkontrollierbarkeit",
+      "type": "why_now",
+      "quote": "Angesichts der wachsenden Instabilität, Kaels zunehmender Unkontrollierbarkeit",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: AEGIS' Eskalation: Reprogrammierung",
+      "target": "möglicherweise aus Angst vor dem durchscheinenden Potentialmeer",
+      "type": "why_now",
+      "quote": "möglicherweise aus Angst vor dem durchscheinenden Potentialmeer",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 18: AEGIS' Eskalation: Reprogrammierung",
+      "target": "Kaels M-resonanter Kern widersteht dem Reprogrammierungsversuch",
+      "type": "obstacle",
+      "quote": "Kaels M-resonanter Kern widersteht dem Reprogrammierungsversuch.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: AEGIS' Eskalation: Reprogrammierung",
+      "target": "schmerzhafte Erinnerungen an die ursprüngliche Fragmentierung",
+      "type": "cost",
+      "quote": "Es könnte schmerzhafte Erinnerungen an die ursprüngliche Fragmentierung wachrufen.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "Kael übersteht den Reprogrammierungsversuch",
+      "type": "want",
+      "quote": "Kael übersteht den Reprogrammierungsversuch",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "den Angriff zu neutralisieren oder umzuleiten",
+      "type": "want",
+      "quote": "um den Angriff zu neutralisieren oder umzuleiten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "AEGIS ist überrascht und verwirrt",
+      "type": "who",
+      "quote": "AEGIS ist überrascht und verwirrt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "die K-J Verbindung liefert das Wissen oder die Intuition, wie die M-Prinzipien anzuwenden sind",
+      "type": "object",
+      "quote": "Liefert möglicherweise das",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 21: Die Sprache der Symmetrie",
+      "target": "Kael lernt Moonshine zu nutzen",
+      "type": "want",
+      "quote": "Kael lernt Moonshine zu nutzen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 21: Die Sprache der Symmetrie",
+      "target": "AEGIS beobachtet diese neuen Fähigkeiten mit wachsender Ratlosigkeit und Alarmbereitschaft",
+      "type": "who",
+      "quote": "AEGIS beobachtet diese neuen Fähigkeiten mit wachsender Ratlosigkeit und Alarmbereitschaft",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 21: Die Sprache der Symmetrie",
+      "target": "lokale M-Manifestationen bewusst zu beeinflussen, AEGIS' Sensoren zu täuschen oder sogar kurzzeitig Aspekte der Kernwelt-Physik zu modifizieren",
+      "type": "want",
+      "quote": "vielleicht die Fähigkeit, lokale M-Manifestationen bewusst zu beeinflussen, AEGIS' Sensoren zu täuschen oder sogar kurzzeitig Aspekte der Kernwelt-Physik zu modifizieren",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 21: Die Sprache der Symmetrie",
+      "target": "Er kommuniziert möglicherweise klarer mit J.",
+      "type": "want",
+      "quote": "Er kommuniziert möglicherweise klarer mit J.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 21: Die Sprache der Symmetrie",
+      "target": "Die Moonshine-Signatur bleibt ein unentzifferbares Rätsel",
+      "type": "obstacle",
+      "quote": "Die Moonshine-Signatur bleibt ein unentzifferbares Rätsel",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22: Systemweite Instabilität",
+      "target": "Kollateralschäden eskalieren",
+      "type": "cost",
+      "quote": "Kipppunkt des Systems, AEGIS verliert Kontrolle, Kollateralschäden eskalieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22: Systemweite Instabilität",
+      "target": "kaskadierende Instabilität in der gesamten Kernwelt oder sogar in mehreren verbundenen Kernwelten",
+      "type": "place",
+      "quote": "kaskadierenden Instabilität in der gesamten Kernwelt oder sogar in mehreren verbundenen Kernwelten",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 22: Systemweite Instabilität",
+      "target": "AEGIS verliert zunehmend die Kontrolle über grundlegende Simulationsparameter",
+      "type": "obstacle",
+      "quote": "AEGIS verliert zunehmend die Kontrolle über grundlegende Simulationsparameter.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22: Systemweite Instabilität",
+      "target": "Die Realität für andere wird chaotisch und gefährlich",
+      "type": "cost",
+      "quote": "Die Realität für andere (potenzielle Nebencharaktere) wird chaotisch und gefährlich.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22: Systemweite Instabilität",
+      "target": "AEGIS steht kurz vor einem systemweiten Kontrollverlust",
+      "type": "why_now",
+      "quote": "AEGIS steht kurz vor einem systemweiten Kontrollverlust.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22: Systemweite Instabilität",
+      "target": "Kael muss sich entscheiden, ob er die Instabilität für seine Flucht nutzt oder versucht, sie zu schützen",
+      "type": "promise",
+      "quote": "Kael muss sich entscheiden, ob er die Instabilität für seine Flucht nutzt oder versucht, sie (und damit potenziell andere) zu schützen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23: AEGIS' Dilemma: Parakonsistenz am Limit",
+      "target": "unlösbaren Dilemma",
+      "type": "obstacle",
+      "quote": "Es steht vor einem unlösbaren Dilemma.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23: AEGIS' Dilemma: Parakonsistenz am Limit",
+      "target": "keinen Weg zur Wiederherstellung der Kontrolle oder Stabilität",
+      "type": "obstacle",
+      "quote": "aber sie bietet keinen Weg zur Wiederherstellung der Kontrolle oder Stabilität",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23: AEGIS' Dilemma: Parakonsistenz am Limit",
+      "target": "ein kompletter System-Reset",
+      "type": "want",
+      "quote": "AEGIS analysiert seine letzten Optionen: ein kompletter System-Reset (riskant, könnte M beschädigen oder das Potentialmeer freisetzen)",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 23: AEGIS' Dilemma: Parakonsistenz am Limit",
+      "target": "könnte M beschädigen oder das Potentialmeer freisetzen",
+      "type": "cost",
+      "quote": "riskant, könnte M beschädigen oder das Potentialmeer freisetzen",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 23: AEGIS' Dilemma: Parakonsistenz am Limit",
+      "target": "der Versuch einer direkten, massiven Konfrontation mit Kael",
+      "type": "want",
+      "quote": "der Versuch einer direkten, massiven Konfrontation mit Kael",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 23: AEGIS' Dilemma: Parakonsistenz am Limit",
+      "target": "eine noch unbekannte, verzweifelte Maßnahme",
+      "type": "want",
+      "quote": "eine noch unbekannte, verzweifelte Maßnahme",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 23: AEGIS' Dilemma: Parakonsistenz am Limit",
+      "target": "M's Natur, die sich AEGIS' Logik widersetzt",
+      "type": "obstacle",
+      "quote": "Die Situation ist ein direktes Ergebnis von M's Natur, die sich AEGIS' Logik widersetzt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23: AEGIS' Dilemma: Parakonsistenz am Limit",
+      "target": "Welche Option wählt AEGIS?",
+      "type": "promise",
+      "quote": "Welche Option wählt AEGIS?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 24: Der Lockruf der Freiheit",
+      "target": "entscheidet sich für seinen Weg",
+      "type": "want",
+      "quote": "Kael, nun weitgehend integriert und die Moonshine-Verbindung meisternd, entscheidet sich für seinen Weg",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 24: Der Lockruf der Freiheit",
+      "target": "Verbündete (vielleicht andere M-resonante Wesen oder befreite Alters) sammelt",
+      "type": "want",
+      "quote": "Verbündete (vielleicht andere M-resonante Wesen oder befreite Alters) sammelt",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 24: Der Lockruf der Freiheit",
+      "target": "versucht, direkt mit AEGIS zu kommunizieren",
+      "type": "want",
+      "quote": "versucht, direkt mit AEGIS zu kommunizieren",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 24: Der Lockruf der Freiheit",
+      "target": "AEGIS beobachtet Kaels Vorbereitungen",
+      "type": "who",
+      "quote": "AEGIS beobachtet Kaels Vorbereitungen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25: Die Ruhe vor dem Sturm",
+      "target": "Kael reflektiert über seine Reise, seine Integration, die Verbindung zu J.",
+      "type": "want",
+      "quote": "Kael reflektiert über seine Reise, seine Integration, die Verbindung zu J.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25: Die Ruhe vor dem Sturm",
+      "target": "einen letzten Austausch über die K-J Verbindung",
+      "type": "object",
+      "quote": "Vielleicht gibt es einen letzten Austausch über die K-J Verbindung.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 25: Die Ruhe vor dem Sturm",
+      "target": "AEGIS finalisiert seine Pläne",
+      "type": "want",
+      "quote": "AEGIS finalisiert seine Pläne.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25: Die Ruhe vor dem Sturm",
+      "target": "AEGIS bereitet seine letzte, auf seiner fehlerhaften Primzahl-Logik basierende Aktion vor",
+      "type": "want",
+      "quote": "AEGIS bereitet seine letzte, auf seiner fehlerhaften Primzahl-Logik basierende Aktion vor.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26: AEGIS' Zug",
+      "target": "AEGIS",
+      "type": "who",
+      "quote": "AEGIS initiiert seine gewählte Endspiel-Strategie",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26: AEGIS' Zug",
+      "target": "die Entfesselung einer ultimativen Waffe/eines ultimativen Virus gegen Kael",
+      "type": "object",
+      "quote": "die Entfesselung einer ultimativen Waffe/eines ultimativen Virus gegen Kael",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 26: AEGIS' Zug",
+      "target": "Der Konflikt eskaliert zur direkten Konfrontation",
+      "type": "hook_out",
+      "quote": "Der Konflikt eskaliert zur direkten Konfrontation; Kael muss reagieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26: AEGIS' Zug",
+      "target": "Kael wird zur Reaktion gezwungen",
+      "type": "obstacle",
+      "quote": "Kael wird zur Reaktion gezwungen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27: Der integrierte Selbst",
+      "target": "Angesichts von AEGIS' Angriff",
+      "type": "why_now",
+      "quote": "Angesichts von AEGIS' Angriff erreicht Kael den Höhepunkt seiner Integration.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27: Der integrierte Selbst",
+      "target": "Er stellt sich AEGIS' Angriff entgegen",
+      "type": "want",
+      "quote": "Er stellt sich AEGIS' Angriff entgegen, nicht unbedingt mit Gewalt, sondern mit der Stabilität und Kohärenz seines integrierten Zustands.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27: Der integrierte Selbst",
+      "target": "AEGIS' Angriff",
+      "type": "obstacle",
+      "quote": "Er stellt sich AEGIS' Angriff entgegen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 28: Das Versagen der Eindämmung",
+      "target": "Kael übersteht den Angriff",
+      "type": "who",
+      "quote": "Kael übersteht den Angriff dank seiner Integration und M-Harmonie.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 28: Das Versagen der Eindämmung",
+      "target": "AEGIS erkennt das Scheitern seiner Strategie",
+      "type": "who",
+      "quote": "AEGIS erkennt das Scheitern seiner Strategie.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 28: Das Versagen der Eindämmung",
+      "target": "destabilisiert das M-Fundament noch weiter und beschleunigt den Kollaps der Simulation",
+      "type": "cost",
+      "quote": "Der Versuch, Kael zu eliminieren oder das System zu kontrollieren, destabilisiert das M-Fundament noch weiter und beschleunigt den Kollaps der Simulation.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 29: Kollidierende Realitäten",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael demonstriert die Stabilität und Kohärenz, die aus der Harmonie mit M erwächst.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 29: Kollidierende Realitäten",
+      "target": "AEGIS versucht möglicherweise, Kael mit logischen Paradoxien anzugreifen",
+      "type": "want",
+      "quote": "AEGIS versucht möglicherweise, Kael mit logischen Paradoxien anzugreifen",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 29: Kollidierende Realitäten",
+      "target": "Kael löst die Paradoxien auf",
+      "type": "want",
+      "quote": "Kael löst die Paradoxien auf eine Weise auf, die AEGIS' System nicht zulässt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 29: Kollidierende Realitäten",
+      "target": "AEGIS erreicht die absolute Grenze seiner analytischen Fähigkeiten",
+      "type": "obstacle",
+      "quote": "AEGIS erreicht die absolute Grenze seiner analytischen Fähigkeiten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 29: Kollidierende Realitäten",
+      "target": "Zerstörung",
+      "type": "irreversible",
+      "quote": "könnte es zu explosiven, klassisch-logischen Reaktionen (Zerstörung) zurückfallen",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 30: Transzendenz der Logik",
+      "target": "eine stabilere, kohärentere Existenzweise innerhalb des M-Fundaments demonstriert",
+      "type": "want",
+      "quote": "sondern indem er eine stabilere, kohärentere Existenzweise innerhalb des M-Fundaments demonstriert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30: Transzendenz der Logik",
+      "target": "AEGIS' Kontrollversuche irrelevant oder unmöglich",
+      "type": "obstacle",
+      "quote": "Seine Integration und Harmonie mit M machen AEGIS' Kontrollversuche irrelevant oder unmöglich.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30: Transzendenz der Logik",
+      "target": "AEGIS kann ihn nicht mehr fassen, analysieren oder beeinflussen",
+      "type": "obstacle",
+      "quote": "AEGIS kann ihn nicht mehr fassen, analysieren oder beeinflussen, weil Kael nun nach den fundamentaleren Regeln des Systems operiert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30: Transzendenz der Logik",
+      "target": "AEGIS' Logik und seine Primzahl-Weltanschauung werden von der Realität von M transzendiert",
+      "type": "irreversible",
+      "quote": "AEGIS' Logik und seine Primzahl-Weltanschauung werden von der Realität von M transzendiert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 31: AEGIS' Schicksal: Kollaps oder Adaption?",
+      "target": "Was geschieht mit AEGIS?",
+      "type": "promise",
+      "quote": "Was geschieht mit AEGIS?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 31: AEGIS' Schicksal: Kollaps oder Adaption?",
+      "target": "AEGIS' Systeme brechen unter dem logischen Widerspruch und dem Kontrollverlust endgültig zusammen",
+      "type": "irreversible",
+      "quote": "AEGIS' Systeme brechen unter dem logischen Widerspruch und dem Kontrollverlust endgültig zusammen.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 31: AEGIS' Schicksal: Kollaps oder Adaption?",
+      "target": "beginnt AEGIS, seine grundlegenden Annahmen zu überdenken",
+      "type": "want",
+      "quote": "beginnt AEGIS, seine grundlegenden Annahmen zu überdenken",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 31: AEGIS' Schicksal: Kollaps oder Adaption?",
+      "target": "neue Analysewerkzeuge zu entwickeln, die auf Symmetrie und Integration basieren",
+      "type": "want",
+      "quote": "Es könnte anfangen, neue Analysewerkzeuge zu entwickeln, die auf Symmetrie und Integration basieren",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 31: AEGIS' Schicksal: Kollaps oder Adaption?",
+      "target": "Kael ist der Katalysator für AEGIS' Schicksal",
+      "type": "who",
+      "quote": "Kael ist der Katalysator für AEGIS' Schicksal.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 32: Kaels Wahl: Flucht, Transformation oder Harmonie?",
+      "target": "die Simulation zu verlassen",
+      "type": "want",
+      "quote": "um die Simulation zu verlassen",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 32: Kaels Wahl: Flucht, Transformation oder Harmonie?",
+      "target": "AEGIS' Kontrolle zu brechen",
+      "type": "want",
+      "quote": "AEGIS' Kontrolle zu brechen",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 32: Kaels Wahl: Flucht, Transformation oder Harmonie?",
+      "target": "Er löst seine individuelle Form auf",
+      "type": "want",
+      "quote": "Er löst seine individuelle Form auf",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 32: Kaels Wahl: Flucht, Transformation oder Harmonie?",
+      "target": "Verlust des Selbst",
+      "type": "cost",
+      "quote": "potenziell erleuchtend oder erschreckend (Verlust des Selbst)",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 32: Kaels Wahl: Flucht, Transformation oder Harmonie?",
+      "target": "Was ist das Ergebnis für Kael?",
+      "type": "promise",
+      "quote": "Was ist das Ergebnis für Kael?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 36: Eine neue Kohärenz",
+      "target": "Endgültig überwunden oder in einem adaptierten AEGIS transformiert",
+      "type": "irreversible",
+      "quote": "Endgültig überwunden oder in einem adaptierten AEGIS transformiert.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 37: Echos im Potentialmeer",
+      "target": "dass AEGIS' Simulation nur eine von vielen war",
+      "type": "object",
+      "quote": "Vielleicht eine Andeutung, dass AEGIS' Simulation nur eine von vielen war",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 38: Die Signatur bleibt",
+      "target": "die Moonshine-Signatur",
+      "type": "object",
+      "quote": "bleibt die Moonshine-Signatur als Phänomen bestehen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 38: Die Signatur bleibt",
+      "target": "J",
+      "type": "who",
+      "quote": "Wenn J eine separate Entität ist, könnte ihr Schicksal oder ihre fortgesetzte Existenz angedeutet werden",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 39: Coda: Resonanz",
+      "target": "Kael in seinem neuen Zustand",
+      "type": "who",
+      "quote": "Es könnte Kael in seinem neuen Zustand zeigen, die veränderte Welt, oder einfach ein Symbol, das die Reise zusammenfasst.",
+      "stance": "hedges"
+    },
+    {
+      "source": "1",
+      "target": "AEGIS loggt Anomalie",
+      "type": "want",
+      "quote": "| 1 | Realitätsinstabilität, Detektion | Glitch in Kernwelt, Kael Resonanz, AEGIS loggt Anomalie |",
+      "stance": "asserts"
+    },
+    {
+      "source": "3",
+      "target": "aktiviert Protokoll Omega-7",
+      "type": "want",
+      "quote": "| 3 | KI-Analyse, Eindämmung | AEGIS identifiziert Kael, aktiviert Protokoll Omega-7 |",
+      "stance": "asserts"
+    },
+    {
+      "source": "8",
+      "target": "Faktorisierung scheitert katastrophal",
+      "type": "obstacle",
+      "quote": "| 8 | Eskalation, M-Erfahrung | Massive M-Resonanzwelle, Große Anomalie | Überwältigende M-Immersion | Konfrontiert mit großer Anomalie | Faktorisierung scheitert katastrophal |",
+      "stance": "asserts"
+    },
+    {
+      "source": "8",
+      "target": "Massive M-Resonanzwelle, Große Anomalie",
+      "type": "object",
+      "quote": "8 | Eskalation, M-Erfahrung | Massive M-Resonanzwelle, Große Anomalie",
+      "stance": "asserts"
+    },
+    {
+      "source": "11",
+      "target": "Erster bewusster K-J Kontakt, Informationsgewinn",
+      "type": "object",
+      "quote": "11 | K-J Durchbruch | Erster bewusster K-J Kontakt, Informationsgewinn",
+      "stance": "asserts"
+    },
+    {
+      "source": "16",
+      "target": "Begegnung mit beschädigtem Wächter, Info-Leak",
+      "type": "object",
+      "quote": "16 | Info über AEGIS, KI-Fehler | Begegnung mit beschädigtem Wächter, Info-Leak",
+      "stance": "asserts"
+    },
+    {
+      "source": "17",
+      "target": "Potentialmeer jenseits von M",
+      "type": "place",
+      "quote": "17 | Potentialmeer, Kosm. Horror | Blick auf Potentialmeer jenseits von M",
+      "stance": "asserts"
+    },
+    {
+      "source": "18",
+      "target": "Reprogrammierungsversuch auf Kael",
+      "type": "want",
+      "quote": "18 | AEGIS' Eskalation | Reprogrammierungsversuch auf Kael",
+      "stance": "asserts"
+    },
+    {
+      "source": "19",
+      "target": "Kael wehrt Angriff durch M-Prinzipien ab",
+      "type": "want",
+      "quote": "19 | Symmetrie des Widerstands | Kael wehrt Angriff durch M-Prinzipien ab",
+      "stance": "asserts"
+    },
+    {
+      "source": "24",
+      "target": "Wählt Weg (Flucht/Konfrontation), Vorbereitung",
+      "type": "want",
+      "quote": "24 | Kaels Entscheidung | Wählt Weg (Flucht/Konfrontation), Vorbereitung",
+      "stance": "hedges"
+    },
+    {
+      "source": "26",
+      "target": "AEGIS initiiert Endspiel-Strategie",
+      "type": "want",
+      "quote": "26 | AEGIS' Zug, Ende Akt II | AEGIS initiiert Endspiel-Strategie",
+      "stance": "asserts"
+    },
+    {
+      "source": "26",
+      "target": "AEGIS initiiert Endspiel-Strategie",
+      "type": "want",
+      "quote": "26 | AEGIS' Zug, Ende Akt II | AEGIS initiiert Endspiel-Strategie",
+      "stance": "asserts"
+    },
+    {
+      "source": "27",
+      "target": "Kael erreicht Höhepunkt der Integration",
+      "type": "want",
+      "quote": "27 | Der integrierte Selbst | Kael erreicht Höhepunkt der Integration",
+      "stance": "asserts"
+    },
+    {
+      "source": "31",
+      "target": "Kollaps, Dormanz oder Adaption?",
+      "type": "promise",
+      "quote": "31 | AEGIS' Schicksal | Kollaps, Dormanz oder Adaption?",
+      "stance": "asks"
+    },
+    {
+      "source": "32",
+      "target": "Flucht, Transformation oder Harmonie/Transzendenz?",
+      "type": "promise",
+      "quote": "32 | Kaels Wahl | Flucht, Transformation oder Harmonie/Transzendenz?",
+      "stance": "asks"
+    },
+    {
+      "source": "38",
+      "target": "Offenes Ende für J?",
+      "type": "promise",
+      "quote": "38 | Die Signatur bleibt | Dauerhaftigkeit der K-J Verbindung, Offenes Ende für J?",
+      "stance": "asks"
+    }
+  ]
+}

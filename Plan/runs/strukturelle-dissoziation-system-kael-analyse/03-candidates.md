@@ -1,0 +1,114 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+Candidate list for the document read whole through read.py (L1 to L607). The document is a German analysis of a "fictional psychological system" with eleven named Anteile, written through the lens of structural dissociation; every sentence about the Anteile is a hypothesis in the document's own voice ("wahrscheinlich", "könnte"). Provenance brackets of the form [Insight 5] stand in the profiles and are not terms. The reference list (L572 to L606) is titles of cited works and is left out. The subscript in Co₁ is written with a subscript digit in this export, so it is listed as written.
+
+## figures of the novel's world
+- System Kael
+- Kael
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Alex
+- Rhys
+- Lex
+- Argus
+- AEGIS
+- Juna/V
+- Kernwelten
+- Co₁
+- McL
+- B
+- Ly
+- Michael
+- Die Wächterin
+- Shadow
+- Der Kleine
+- Isabella
+- The Lost One
+- Alexander
+- Stefan
+- Data
+- Beobachter/Kritiker
+- Kohärenz Protokoll
+- Anteile
+- Host
+- Integrationspotenzial
+- Selene (Integration Potential)
+- Argus (Observer)
+- Sexual Alter
+
+## the document's own terms
+- Spannungspunkte
+- Pressure Points
+- Konfliktdyaden
+- Aktionssysteme
+- Kern-Aktionssystem
+- Kernpsychodynamik
+- Phobie vor den EPs und den traumatischen Erinnerungen
+- Phobie vor ANP-Kontrolle und Invalidierung
+- Phobie vor Bindung und Intimität
+- Phobie vor mentalen Aktionen
+- Phobie vor Integration und Veränderung
+- Phobie vor Ohnmacht/Hilflosigkeit
+- Phobie vor unkontrollierbarer Destabilisierung
+- Resonanz
+- Konflikt/Trigger
+- Resonanz/Trigger
+- TSDP Klassifikation
+- Beziehung zu AEGIS
+- Beziehung zu Juna/V
+- Stance on Integration & Selene
+- Potenzielle Entwicklung
+- Primärer ANP
+- Sekundärer ANP
+- Modifizierter ANP
+- Metakognitiver Anteil
+- Kind-EP
+- Subsystem-Dynamik
+- Analyse-Paralyse
+- Gaslighting
+- dysfunktionalen Homöostase
+- funktionale Multiplizität
+- Ko-Bewusstheit
+- Amnesiebarrieren
+- lost time
+- Switching
+- Insight 5
+- noetic knowledge
+- Realisation und Synthese
+- Stabilisierung
+- Traumaverarbeitung
+- Integration und Rehabilitation
+- Integration
+- Fusion
+
+## lens
+- Theorie der Strukturellen Dissoziation
+- TSDP
+- Strukturelle Dissoziation
+- Tertiären Strukturellen Dissoziation
+- Anscheinend Normalen Persönlichkeitsanteil
+- ANP
+- ANPs
+- Emotionalen Persönlichkeitsanteil
+- EP
+- EPs
+- Primäre SD
+- Sekundäre SD
+- Tertiäre SD
+- DID
+- OSDD-1
+- Verteidigungssystem
+- Totstellreflex
+- Defense Cascade
+- Internal Family Systems
+- IFS
+- Bindungstheorie
+- Desorganisierte Bindungsmuster
+- Depersonalisation
+- Derealisation
+- Systemtheoretische Aspekte
+- phasenorientierten Ansatz

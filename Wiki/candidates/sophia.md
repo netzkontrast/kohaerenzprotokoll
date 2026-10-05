@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 31
-readings: 31
+sources: 32
+readings: 32
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
 gathered: "2026-09-17"
 ---
 
@@ -68,6 +68,10 @@ The outline names Sophia only together with Kairos: Kap 9 plans the „Einführu
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the critique) — Sophia in a world's name
 
 The critique names the fourth world with Sophia beside Kairos: „Kernwelt 4 (Kairos/Sophia)“ ^[ai-assisted-narrative-coherence.md:L950]. `Sophia` ^[ai-assisted-narrative-coherence.md:#2] stands twice in the compilation, once in each copy of the critique, in this name; the line glosses the world as a `Possibility Garden`.
+
+## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — Sophia only in the slash form Kairos/Sophia, the guardian of KW4
+
+The guide writes `Sophia` once, and only as part of the slash form „Kairos/Sophia“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L99], the guardian named in brackets under KW4 „Kairos-Potentialis“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L99]. The three other Core Worlds each name one guardian in the same position; this one is written as one name with a slash. The guide does not say whether the slash names one guardian or two, and the record here decides nothing.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Sophia named with Kairos as the domain of KW4
 

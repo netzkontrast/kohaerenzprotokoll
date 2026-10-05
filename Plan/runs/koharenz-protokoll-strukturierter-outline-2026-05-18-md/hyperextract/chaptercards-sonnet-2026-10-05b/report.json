@@ -1,0 +1,3469 @@
+{
+  "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "input_rows": 144,
+  "candidates": 130,
+  "refused": 14,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:5bd6b810461c4c2dae1a4edb7ec0a0ae7bf3d514561f1d1a94c5e1d15a4eb73d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Erste direkte Erscheinung",
+        "type": "who",
+        "quote": "Erste direkte Erscheinung erst in Kap 38 Beat 3 — als Stille, als Da-Sein ohne Worte.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        121
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fdb70595cb8b3ba4276fe25dcc15aba6357a31546e1ae0db17cb33af32ffaf03",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0",
+        "target": "Trennungsprotokoll",
+        "type": "object",
+        "quote": "Trennungsprotokoll als exekutierte Action",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        217
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ecbf10ff5d9de88897b6de677c256936f7fc772c5ca84de3d2d94e954b2c8fbe",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime), fragmentiert ohne Erinnerung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        257
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e396a38d80ebdf9c47216e47d5b2eb8e0757326e8b0c87e2b07cf18b935cf718",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "Kernwelt 1 (KW1 — Logos-Prime)",
+        "type": "place",
+        "quote": "Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        257
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5ad2e58f95de1c65fdb0de4dcc3cf881d7d7ecef8727e9cc599a065f5ee023e3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "Wohneinheit 14/Sektor 7",
+        "type": "place",
+        "quote": "Lebt als Komp 734 in Wohneinheit 14/Sektor 7.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        257
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:19475894fa7c6bea0f5da1b9fbd32d1bfc7893ee30497687e62edf22f445ad5d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "ein Wort ohne Referent (*Juna*)",
+        "type": "object",
+        "quote": "Phantom-Resonanz, ein Wort ohne Referent (*Juna*).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        257
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:195eca3f48b737ca78aa3201003c7a5db88f829bfcaf5aeb9c82c13e03a798fb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 2 — Der erste Riss",
+        "target": "erste Begegnung mit der Systemlüge",
+        "type": "falsehood",
+        "quote": "erste Begegnung mit der Systemlüge",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        277
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4f41e8ccaff1a91a59f769237eda38990f577003b487fb6f8feef9185d3f399b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 2 — Der erste Riss",
+        "target": "Die Zahl 734 taucht erstmals als Foreshadowing auf",
+        "type": "object",
+        "quote": "Die Zahl 734 taucht erstmals als Foreshadowing auf.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        281
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2c542e4caa935c542732bceb8b17800f2bf1041a6d96ee1594ad9ad392c0443f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 2 — Der erste Riss",
+        "target": "Lex (erste Stilcode-Einbruch)",
+        "type": "who",
+        "quote": "Lex (erste Stilcode-Einbruch)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        285
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2de7d67271aeab3ea502f8db192f2d0f906e75ca361122512a687e5ed9a18df1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 3 — Bunker-Bau",
+        "target": "Kael (Lex-dominant) versucht Stärke in AEGIS' Methoden zu finden — Logik, Kontrolle",
+        "type": "want",
+        "quote": "Kael (Lex-dominant) versucht Stärke in AEGIS' Methoden zu finden — Logik, Kontrolle.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        305
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dc046c59d250575256530596d0db921764788075a4450fb4178edb1c591e16f9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 3 — Bunker-Bau",
+        "target": "Werkzeuge aus dem Außen (Kernwelten) werden gesammelt",
+        "type": "object",
+        "quote": "Werkzeuge aus dem Außen (Kernwelten) werden gesammelt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        305
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:caaed40dc6425d754879eafe3ce9ebad2217afbfd58d74e9ae24cfe2f27f1435",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 4 — Pforten der Verurteilung",
+        "target": "Kael wird für seine neue (Lex-dominierte) Identität getestet",
+        "type": "who",
+        "quote": "Kael wird für seine neue (Lex-dominierte) Identität getestet.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        329
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:11ebe81cf5f91b466f82553b61f238014cc99b2201771abc176b0cca3fe55668",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 4 — Pforten der Verurteilung",
+        "target": "Logische Fallen",
+        "type": "obstacle",
+        "quote": "Logische Fallen in KW1.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        329
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:616ad8f9db65a067ffb1ea5a141c8ccd75e35da52d75a47e067da5fed449d9ed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 4 — Pforten der Verurteilung",
+        "target": "KW1",
+        "type": "place",
+        "quote": "Logische Fallen in KW1.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        329
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7888dd44b2904f420575bf244364dfa3885d8d0a979e780e1a8a07f2aeaf9127",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 5 — Auge des Sturms",
+        "target": "Kael erzielt einen Erfolg in einer anderen Kernwelt (Übergang KW1 → KW2-Rand)",
+        "type": "place",
+        "quote": "Kael erzielt einen Erfolg in einer anderen Kernwelt (Übergang KW1 → KW2-Rand).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        353
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4384a231562ea161a0d8261fb271809067b990331cb076291c89b29446324e80",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 5 — Auge des Sturms",
+        "target": "Erinnerungslosigkeit",
+        "type": "obstacle",
+        "quote": "Erinnerungslosigkeit bleibt, wird aber durch Performance überdeckt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        353
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94e2c820db75e67a5840856b79d05205659f4a12a5bd68a2d155ba664d54eb77",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 5 — Auge des Sturms",
+        "target": "Rhys",
+        "type": "who",
+        "quote": "erste Schatten von Rhys (Caregiver) als Wärme die er nicht versteht",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        357
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:614c322c974bf985f5400254c59e89d5a8bbb8e84ccf2e31f48aa5308619b01a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 6",
+        "target": "einem komplexen Problem",
+        "type": "obstacle",
+        "quote": "Cache-Konflikt: Kaels einseitiger Logik-Ansatz scheitert an einem komplexen Problem.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        377
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1c8428a711c6ce0c6fdcf63825cb9fb97dad98a3f9e5e03f9b8161c97ff7b579",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 6",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael, Lex (scheitert), Rhys, Alex, Nyx (erste Andeutung)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        381
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9a493d1525387361ebf48f9da74ad7d5c754045af18d7ae81ed0f25c4f0064d7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 7",
+        "target": "Telefon-Stille",
+        "type": "object",
+        "quote": "Telefon-Stille als erster expliziter Anker.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        401
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c821096bc14bf45fed451d53d858734e771c952028a298992a8dc549214a4c73",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 7",
+        "target": "Kael sehnt sich nach etwas, das er nicht benennen kann",
+        "type": "want",
+        "quote": "Kael sehnt sich nach etwas, das er nicht benennen kann.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        401
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:76ef226fd8aeae5aaf273c008638d4b0662edf99d94a33f23200460acfd90a88",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 8 — Die Wächterin",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael beginnt, die logischen/kontrollierenden Anteile (Lex, Alex) mit Mitgefühl zu sehen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        425
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:69a523472f0f91225131ec90ed224ee82131c641178f07ccd7912bae16731624",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 8 — Die Wächterin",
+        "target": "die logischen/kontrollierenden Anteile (Lex, Alex) mit Mitgefühl zu sehen",
+        "type": "want",
+        "quote": "Kael beginnt, die logischen/kontrollierenden Anteile (Lex, Alex) mit Mitgefühl zu sehen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        425
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:091539d5bbebc7847f7df8043f72572825bceae2f42970b17b5cc2f031481651",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 8 — Die Wächterin",
+        "target": "Selene",
+        "type": "who",
+        "quote": "Selene tritt erstmals als ISH-Funktion auf — vermittelt, ohne zu kämpfen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        425
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7a4cecc759756feb7aaf8c5b825197b5c17bb968ee8753eb633869f311a81819",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 8 — Die Wächterin",
+        "target": "Kael, Lex, Alex, Selene",
+        "type": "who",
+        "quote": "Kael, Lex, Alex, Selene (erste klare Präsenz)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        429
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:55ddb270865b2ac1ceab32130b5d50579c1007d2929e45c41be1d2ece0e1699e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 9 — Wir",
+        "target": "Kael, Lex, Rhys, Selene, Alex",
+        "type": "who",
+        "quote": "Kael, Lex, Rhys, Selene, Alex (alle in inner-dialogischer Polyphonie)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        453
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:158d692465326d32c0da64df6a534747ef401221adc204e64f89b16a53c16b8a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 10 — Die erste Brücke",
+        "target": "Kael löst ein Problem durch die Kombination von Lex-Analyse und intuitiver K-J-Verbindung",
+        "type": "want",
+        "quote": "Kael löst ein Problem durch die Kombination von Lex-Analyse und intuitiver K-J-Verbindung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        473
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4a31ca468aafb6304723c81d8b3ec6c08d4d17a50b245b59b6e98d260fc9de76",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 10 — Die erste Brücke",
+        "target": "Die Zahl 734 taucht zum zweiten Mal auf",
+        "type": "object",
+        "quote": "Die Zahl 734 taucht zum zweiten Mal auf — somatisch verankert, ohne erklärt zu werden.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        473
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d5ca25dc253694b1d79680ebf7a4eb78163125a34188f1ab335c2ebce94336d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 11 — Mosaik des Selbst",
+        "target": "Kael akzeptiert seine innere Vielfalt als Stärke, nicht als Fehler",
+        "type": "want",
+        "quote": "Kael akzeptiert seine innere Vielfalt als Stärke, nicht als Fehler.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        497
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:543ffa66aa41182c094ed14177d60845d807b3a767f9e1642921c600300630c2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 12",
+        "target": "Kael erreicht einen Zustand innerer Balance",
+        "type": "who",
+        "quote": "Kael erreicht einen Zustand innerer Balance.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        521
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e8078386b07824d510db6a5fbf91781882abdb91a31ea1f2d9fc3cf88e33656",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 12",
+        "target": "AEGIS scannt — und scheitert",
+        "type": "who",
+        "quote": "AEGIS scannt — und scheitert.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        521
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6b33fd2acf52eee0ce6df64dbec8aaacffa28958d2b36d4ae928e4f098c84d6d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 13",
+        "target": "Kael etabliert eine neue bewusste Beziehung zu seiner inneren Landschaft",
+        "type": "who",
+        "quote": "Kael etabliert eine neue bewusste Beziehung zu seiner inneren Landschaft.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        545
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c13b05d56172a646462a3e9ca9c3454a43f3f18e9d44ec94071d4078a89be172",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 13",
+        "target": "AEGIS bereitet Phase 2 vor",
+        "type": "want",
+        "quote": "AEGIS bereitet Phase 2 vor — Stress-Test Delta-7, moralisches Dilemma.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        545
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9c1d6fd8bdae46e6c284c0cb7e8dfe8c1885cb359157152f2cf6ce076619ccec",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 13",
+        "target": "Stress-Test Delta-7",
+        "type": "object",
+        "quote": "AEGIS bereitet Phase 2 vor — Stress-Test Delta-7, moralisches Dilemma.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        545
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ce58712e4b1692e219922315239617d5ac89fdd5760ce45e859c9d3bcf102592",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 14",
+        "target": "AEGIS initiiert Phase 2",
+        "type": "want",
+        "quote": "AEGIS initiiert Phase 2: Stress-Test Delta-7 (moralisches Dilemma).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        573
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9a91daf24321ea394c84e499e9f12714c3f4fccc76f51009390d084584219dd3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 14",
+        "target": "Stress-Test Delta-7 (moralisches Dilemma)",
+        "type": "object",
+        "quote": "AEGIS initiiert Phase 2: Stress-Test Delta-7 (moralisches Dilemma).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        573
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d035f10a68369f792765332d8d319d1f85da8cbd6da8c6bb0e25a31ead9cc703",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 14",
+        "target": "Kaels neu gefundene Balance wird getestet",
+        "type": "obstacle",
+        "quote": "Kaels neu gefundene Balance wird getestet.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        573
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:794cf90b68a0b47868d9d3d33642ba0706e164e5ffda5d8f6a7640b023d62e88",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 14",
+        "target": "will Kael emotional destabilisieren oder in der Vergangenheit fixieren",
+        "type": "want",
+        "quote": "will Kael emotional destabilisieren oder in der Vergangenheit fixieren",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        573
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c1d747ea88d2d5f984901e97bddde27608ffa9e6892b0d8d017591f805242a47",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 15",
+        "target": "Kernwelt (KW2-Rand)",
+        "type": "place",
+        "quote": "Ein Trigger in einer Kernwelt (KW2-Rand) reaktiviert Trauma-Angst.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        597
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9bdf104f51b632c2085d468c4b182300ca797d622c28c09a4e8577ff40a5919d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 15",
+        "target": "Ein Trigger in einer Kernwelt (KW2-Rand) reaktiviert Trauma-Angst",
+        "type": "why_now",
+        "quote": "Ein Trigger in einer Kernwelt (KW2-Rand) reaktiviert Trauma-Angst.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        597
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6741b99cf6834d257fceb61f223059422cfb84f9ea54b707cb66b615a43c44d2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 16 — Z1-Reaktion: Bunker reaktiv",
+        "target": "Kael greift reflexhaft auf alte Bewältigungsstrategie zurück",
+        "type": "want",
+        "quote": "Kael greift reflexhaft auf alte Bewältigungsstrategie zurück",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        621
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:78ff74827056f57a644fbb38549b9aba2a7442342188091e8c5b281fe80d417f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 16 — Z1-Reaktion: Bunker reaktiv",
+        "target": "Schwere zieht im Hintergrund alles herunter",
+        "type": "obstacle",
+        "quote": "Schwere zieht im Hintergrund alles herunter",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        621
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f214cae42c326dbff6e28a00ca6faa20dfe90421adb5ab01d29496e9fb5302da",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 16 — Z1-Reaktion: Bunker reaktiv",
+        "target": "AEGIS interpretiert den Rückfall fälschlich als Stabilisierung",
+        "type": "falsehood",
+        "quote": "AEGIS interpretiert den Rückfall fälschlich als Stabilisierung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        621
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e60ae20b7f7392eceb0128ff2546c4f21dc8c03666a14fc3c4e59f60cf6a0a17",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 17 — Z1-Korrektur: Wächterin",
+        "target": "aktiv anschauen statt fliehen",
+        "type": "want",
+        "quote": "aktiv anschauen statt fliehen",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        641
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:daac88923e2fe1977a317f40c80bfbf18a6f16f9c619ed8a40580d3206fabd2c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 18",
+        "target": "Kael versucht eine komplexe Aufgabe über mehrere Kernwelten zu lösen",
+        "type": "want",
+        "quote": "Kael versucht eine komplexe Aufgabe über mehrere Kernwelten zu lösen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        669
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:58bb829a8cbcdf882de36bca313bd2d501a0b5f3a87842c1207adaf813ebdb99",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 18",
+        "target": "Cache-Konflikt zwischen Anteilen",
+        "type": "obstacle",
+        "quote": "Cache-Konflikt zwischen Anteilen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        669
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5dcb3e1ae9fcee8cc837c15e7def13e1f5b014734e28a2c6b11b42236cc75c59",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 18",
+        "target": "fragmentierte Erinnerung an die Cluster-Differenzierung",
+        "type": "object",
+        "quote": "Kael bekommt fragmentierte Erinnerung an die Cluster-Differenzierung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        669
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dc0147d81079a7e705aaad5caf7aef757ce77ddb20b4e3d401332431d00ba5e2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 19",
+        "target": "AEGIS bemerkt Kaels wachsende Kohärenz und versucht aktiv, sie zu stören",
+        "type": "want",
+        "quote": "AEGIS bemerkt Kaels wachsende Kohärenz und versucht aktiv, sie zu stören",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        693
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:353a4c47ef9380fe07d5c0c9f77f06290f8623515e3133812e72458c82172ec7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 19",
+        "target": "neue Regeln, widersprüchliche Informationen",
+        "type": "obstacle",
+        "quote": "neue Regeln, widersprüchliche Informationen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        693
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5d6354cc262d0f8c66799679c86f408b00ccfb0342fc91291d8c92b2fc59df10",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 19",
+        "target": "nutzt Junas Erinnerung gegen Kael",
+        "type": "want",
+        "quote": "Mnemosyne agiert manipulativ, nutzt Junas Erinnerung gegen Kael.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        693
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:30fdc8a488ee6aec20d22d736099e763b3109376da70833197579988c0799133",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 20",
+        "target": "Kael nutzt fluide Regeln (Lyons-Welt, KW4-Vorgriff) um AEGIS' Interventionen kreativ zu umgehen",
+        "type": "want",
+        "quote": "Kael nutzt fluide Regeln (Lyons-Welt, KW4-Vorgriff) um AEGIS' Interventionen kreativ zu umgehen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        717
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:89bfb6c2494a5c0546fe378517daaf7af9eef66a9d18884db7e92ab862e4c6f4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 20",
+        "target": "AEGIS' Interventionen",
+        "type": "obstacle",
+        "quote": "um AEGIS' Interventionen kreativ zu umgehen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        717
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9b306001973e08090490bab5bc38104a275c14115b29544b5f7623fb7fc6576a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 20",
+        "target": "fluide Regeln",
+        "type": "object",
+        "quote": "Kael nutzt fluide Regeln (Lyons-Welt, KW4-Vorgriff)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        717
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:54b27d4ce8ead1a337afe5206cb7a19c4058e488721f9ee4fa99d7d6f9051221",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 21",
+        "target": "Kael testet bewusst die Grenzen der Simulation",
+        "type": "want",
+        "quote": "Kael testet bewusst die Grenzen der Simulation.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        741
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f7367327cf187f61207e536b32ef3aad72c0a39455eb65230311c01745b0d07d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 21",
+        "target": "Zweiter Genesis-Flashback (Bridge): Trennungsprotokoll",
+        "type": "object",
+        "quote": "Zweiter Genesis-Flashback (Bridge): Trennungsprotokoll.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        741
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6b6611aca0dbcf5db02f38bd984d572527859eef5ece5c7d6cfe0489480231d1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 21",
+        "target": "Kael bekommt fragmentierte Erinnerung an den Moment, in dem das Cluster getrennt wurde",
+        "type": "object",
+        "quote": "Kael bekommt fragmentierte Erinnerung an den Moment, in dem das Cluster getrennt wurde.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        741
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1794ea1d35b2cb88730b52f358fe274025ff170995b4196bcdbed49682a044b2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 21",
+        "target": "AEGIS reformuliert Kael als unkontrollierbar",
+        "type": "obstacle",
+        "quote": "AEGIS reformuliert Kael als unkontrollierbar",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        737,
+        1322
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0c43ee3c80f09f900a86f7deaac63b4409f6a1450738d4df874774b50774fbb7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 22",
+        "target": "AEGIS reagiert auf Kaels Grenzüberschreitungen mit unvorhersehbaren Systemänderungen",
+        "type": "want",
+        "quote": "AEGIS reagiert auf Kaels Grenzüberschreitungen mit unvorhersehbaren Systemänderungen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        765
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1920014cafa65f6ef02a850d9fd1dd522247ac1e805b58ca8ef808a8f59946f2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 22",
+        "target": "fragmentierte Erinnerung an den Moment der Funktionsdefinition",
+        "type": "object",
+        "quote": "Kael bekommt fragmentierte Erinnerung an den Moment der Funktionsdefinition",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        765
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6694d65f6a49d8983c3a3ef0ad832a0959a668cd555b1cce9dc37e23f2524d31",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 22",
+        "target": "das System lügt",
+        "type": "falsehood",
+        "quote": "Kael spürt, dass das System lügt",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        761
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cab899f1e711519dacd9f0fdaea2077c490f4badfe496240d36a75947cbda8eb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 22",
+        "target": "Erasure-Kosten sichtbar",
+        "type": "cost",
+        "quote": "Erasure-Kosten sichtbar",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        761
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:820f5febcf12430de8e8dadf04b37744b4a3c483bd70c61e2f674bbde925633b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 23",
+        "target": "Kael greift auf seine innere Vielfalt zurück, um die Krise zu meistern",
+        "type": "want",
+        "quote": "Kael greift auf seine innere Vielfalt zurück, um die Krise zu meistern.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        789
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:83e96f4a9b1e326939813b84f873837ec48354494f1bd5926b6728f270f977ad",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 24",
+        "target": "Kael lernt, sie aktiv zu suchen und zu nutzen",
+        "type": "want",
+        "quote": "Kael lernt, sie aktiv zu suchen und zu nutzen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        813
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2aaca3a82d115f610cb3860a85d723cd11e39caaaf1a4a2cd9deecd26698e054",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 24",
+        "target": "AEGIS",
+        "type": "obstacle",
+        "quote": "Die K-J-Verbindung wird zyklisch von AEGIS gestört",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        813
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7953924300fdf190c22dceea433574d9f4d14dd921696c2d30f89743b457f553",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 24",
+        "target": "Juna (Witness-Modus)",
+        "type": "who",
+        "quote": "Juna (Witness-Modus)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        817
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:394703ab1bdcb5659c48e8c82b49dde63d65499fcfef4669018f0e3d5656fe8c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 24",
+        "target": "Silas (Resonanzkörper)",
+        "type": "who",
+        "quote": "Silas (Resonanzkörper)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        817
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eabdc82f97ee4e209045097d8dba817a33b847ea955100da23ab7c217db5b480",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 25",
+        "target": "AEGIS bemerkt Kaels neue Klarheit; Erasure-Drohung intensiviert",
+        "type": "obstacle",
+        "quote": "AEGIS bemerkt Kaels neue Klarheit; Erasure-Drohung intensiviert",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        833
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a81941fd48491c000170141d50b74c8849a4e92cedff52df4c9f9d1c26f52ae1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 25",
+        "target": "viele Optionen sind weg",
+        "type": "cost",
+        "quote": "Optionlock spürbar — viele Optionen sind weg.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        837
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5bc537efef2133a3e711a071f360bac43d25b41e672d55083a824a46e95aecf7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 25",
+        "target": "Die Zahl 734",
+        "type": "object",
+        "quote": "Die Zahl 734 erscheint zum dritten Mal",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        837
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b4b9be8b323c04c0e55a526a6b9e781324c32e803b0871c46578025f124b0cec",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 26 — Wendepunkt: Entscheidung zur Befreiung",
+        "target": "Kael beschließt, die Konfrontation zu suchen",
+        "type": "want",
+        "quote": "Kael beschließt, die Konfrontation zu suchen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        861
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:160336ba4bcc297b4e4237906c5f4075db7c383b29cad9162ba3cdbc59e12ff9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 27 — Ordinary World: Entschlossenheit",
+        "target": "AEGIS spürt Kaels neue Linearität",
+        "type": "who",
+        "quote": "AEGIS spürt Kaels neue Linearität",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        885
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4a96eb87552a8d4d52ac8526feec15cb9984a8e092c4379ce3ed127f1c6da539",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 28",
+        "target": "AEGIS droht mit Purge, oder Juna ist bedroht",
+        "type": "why_now",
+        "quote": "Ein Ereignis (AEGIS droht mit Purge, oder Juna ist bedroht — OQ-B-abhängig) zwingt Kael zum sofortigen Handeln.",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        913
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b52146e1bbb04b278afc5b21c5f8fd0afd06ce448d527563d5fb3de3b9ec6a3c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 30",
+        "target": "Moonshine als bewusster Kanal",
+        "type": "object",
+        "quote": "Moonshine als bewusster Kanal",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        957
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:687292218f6bdcbab4a3fad442bca05810a9c48e768bd4cdc85b6cd5f04f245a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 30",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael, Juna (Witness in voller Form, ohne physisch zu sein), Silas (intern resonant)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        965
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ef5b602772b62e10857dbd5b5629665840adad812ab87e9dc85f9963e8892ed7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 30",
+        "target": "Juna (Witness in voller Form, ohne physisch zu sein)",
+        "type": "who",
+        "quote": "Juna (Witness in voller Form, ohne physisch zu sein)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        965
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e6f4999a6a6642a30589f76252a0f8fc5064b69fdb5798f6d2c303ea041949aa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 30",
+        "target": "Silas (intern resonant)",
+        "type": "who",
+        "quote": "Silas (intern resonant)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        965
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d1442ead920d9283ede5b6e12aaaf193b813ab63c097a7e1eb711d776f6a9432",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "Kael (Wir, aktiv)",
+        "type": "who",
+        "quote": "Kael (Wir, aktiv)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        977
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aff642f4d5c4f0d9949878bff50c6d328ed739010a98daae2e291a9cc846e0ac",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "Silas (erste längere POV-Szene, OQ-E)",
+        "type": "who",
+        "quote": "**Silas** (erste längere POV-Szene, OQ-E)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        977
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7ce521bf351609bdf21e339e3121413ec5d9a25e0bc49e0914da7ac4caf7d4e4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "AEGIS' Kernsystem anzugreifen",
+        "type": "want",
+        "quote": "Kael beginnt aktiv, AEGIS' Kernsystem anzugreifen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        985
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5871976898a44d00fc1cc40a7ac10704a2479e410c608aebd012b21d2ca4a67c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "AEGIS' Verteidigung greift",
+        "type": "obstacle",
+        "quote": "AEGIS' Verteidigung greift",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        981
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b3940e63de6040bcd1a6d2536af7d80e2e8205eba69d2b36f9694b9960a64149",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "Mnemosyne-Archipel",
+        "type": "place",
+        "quote": "Mnemosyne-Archipel beginnt sich am Horizont zu zeigen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        985
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c522d4303f741793c1d982c373112d9fc0990219db8c898865c843a8ec7d6692",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 32",
+        "target": "AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme",
+        "type": "obstacle",
+        "quote": "Kael muss AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme überwinden.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1009
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ba2a956b6e1c86dbf17cf683dfa11fbfd81256409a69f5542fa23d77fe9f0ca3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 32",
+        "target": "Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)",
+        "type": "obstacle",
+        "quote": "Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1005
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a87a51030f87bf161484b307ddf71cb3b250dd73086ce35e8f2482ecf6108231",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 32",
+        "target": "Echo-Räume, in denen Kaels eigene Stimme imitiert wird",
+        "type": "place",
+        "quote": "Echo-Räume, in denen Kaels eigene Stimme imitiert wird.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1009
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:373b1e8c3ede583827d493e3e416b08c50172b5d190a4212ea6a251ec4a0d43d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 33 — Approach Inmost Cave: Vordringen zu AEGIS' Kern",
+        "target": "Kael erreicht den Kern von AEGIS' Logik",
+        "type": "want",
+        "quote": "Kael erreicht den Kern von AEGIS' Logik.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1033
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f50960e41b788c6845778d1389eb6768c6b484cb69a70f2dc58cf8c51fa366c9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 33 — Approach Inmost Cave: Vordringen zu AEGIS' Kern",
+        "target": "Kern von AEGIS' Logik",
+        "type": "place",
+        "quote": "Kael erreicht den Kern von AEGIS' Logik.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1033
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4448d5c65e7365cffd7cab1ebc33cb5702e6a5ee9696ce97da5a15a79defd5b3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 33 — Approach Inmost Cave: Vordringen zu AEGIS' Kern",
+        "target": "alle 13 Alters in Kooperation",
+        "type": "who",
+        "quote": "alle 13 Alters in Kooperation",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1037
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f1ced7bded6f7a7e42174558141e6960aeae879ac5465df35fca0e93a1db3b79",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35 — Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst",
+        "target": "Mnemosyne-Archipel",
+        "type": "place",
+        "quote": "Setting: Mnemosyne-Archipel.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1085
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fff8513e55c886d6fafe821dd1f2ee056fb775af76b9522c3d2f6e14757a16bb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35 — Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst",
+        "target": "AEGIS exekutiert finalen Erasure-Sweep",
+        "type": "want",
+        "quote": "AEGIS exekutiert finalen Erasure-Sweep.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1085
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dbdfa1fadc04c79ee59552eeb329b13b7605480da4bd39edc11715f6ceb47282",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35 — Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst",
+        "target": "Kael formuliert das Wir als lebenden Widerspruch",
+        "type": "want",
+        "quote": "Kael formuliert das Wir als lebenden Widerspruch",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1085
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:528aeba1386f5038a613f7380fe5a144ae782edec9d73a09a1072b464622d38a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35 — Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst",
+        "target": "Kael lässt ANP/EP-Barrieren fallen, integriert Trauma",
+        "type": "want",
+        "quote": "Kael lässt ANP/EP-Barrieren fallen, integriert Trauma.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1086
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ad1a7ec79c8ef6abed36e2c7dedc6d18f7866e4698c4e302f46e8d9e9680527d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35 — Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst",
+        "target": "AEGIS muss die Genesis zeigen, weil ihm die Lösch-Kapazität ausgeht",
+        "type": "why_now",
+        "quote": "AEGIS muss die Genesis zeigen, weil ihm die Lösch-Kapazität ausgeht",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1087
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d5bd1312cc9fa371b56e38921fcd2e3b42604670839c717dc9796c1a9e7bf50d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "B versucht das Action-Mandat zu vollenden",
+        "type": "want",
+        "quote": "B versucht das Action-Mandat zu vollenden",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1115
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:72178aa8ac2282dd8e33ee7162ce9d3bdb42fbd3f9a82044035047342c72f435",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "thermodynamische Kosten manifestieren sich als Wärme-Phänomen (Landauer-Hitze)",
+        "type": "cost",
+        "quote": "thermodynamische Kosten manifestieren sich als Wärme-Phänomen (Landauer-Hitze)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1115
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fcaeca497fcda44f9daf01746ff898038479091362c71ed69d37b93f709b5920",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "Limit-B (Timelock) erreicht",
+        "type": "obstacle",
+        "quote": "Limit-B (Timelock) erreicht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1115
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:23be45196413a8b22e2811ad85dd45a9f4f1f969868922f9437ec6794925a500",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "AEGIS-monolithisch erlischt — als operative Form.",
+        "type": "irreversible",
+        "quote": "AEGIS-monolithisch erlischt — als operative Form.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1116
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1b4ca945a6170e2f01b88b47cf69f4887b8838ac13d3fca84afd2fb8c45c976c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "Das Universum, das AEGIS schützen wollte, ist damit ungeschützt.",
+        "type": "cost",
+        "quote": "Das Universum, das AEGIS schützen wollte, ist damit ungeschützt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1120
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c83252378fd13e5bfad10b116d96ba69866dd74de95735967f92fbbdde89d12f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "Oblivion übernimmt AEGIS' Funktion in Kaels Innensystem",
+        "type": "who",
+        "quote": "Oblivion (übernimmt AEGIS' Funktion in Kaels Innensystem — als Wachheit, die entscheidet statt automatisch löscht)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1124
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Oblivion übernimmt AEGIS' Funktion in Kaels Innensystem"
+      ]
+    },
+    {
+      "id": "claim:4d6cc89738aa6394501cd5c5171c9b3a2959c95749da6d0d501017fbd885e242",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 37 — Der Gärtner / Trügerischer Sieg",
+        "target": "falscher Frieden",
+        "type": "falsehood",
+        "quote": "Klassischer Reward-Beat als falscher Frieden.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1144
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d076fa791b48867f79df0226d43f4ad9d005ca769cac6db2a255175b11f716cf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 37 — Der Gärtner / Trügerischer Sieg",
+        "target": "das ist nicht das Ende",
+        "type": "promise",
+        "quote": "Der Reader spürt: das ist nicht das Ende.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1144
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:70b02ffec081fe53f21cdce4cd13d59b0624ecc230e968e85d00064da65b2fee",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Juna",
+        "type": "who",
+        "quote": "sie ist einfach da, ohne Worte, ohne Anweisung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1174
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d17bb02b5d8777d68777e6b0aefde0550e468874995c8998c22dd9e00166efd3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Kael erkennt sie wieder",
+        "type": "who",
+        "quote": "Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1175
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2176151c1ff747ea3d76b6115ca4c429b78f3d7d42adfbbf34f8534c2067cf03",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "das Wir entscheidet, ins Ouroboros zu gehen",
+        "type": "want",
+        "quote": "das Wir entscheidet, ins Ouroboros zu gehen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1176
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:995c56f9c1c7e63c5afcdbb4eb1f664ee2dfb8555ce842a1757209567789ebc9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Verlust der Privatheit des Wir",
+        "type": "cost",
+        "quote": "Cost vollzogen: Verlust der Privatheit des Wir",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8564e8277493a258b8aa8f95723e0e3a13669302a8c942a98011c021e8dbc60e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "AEGIS-monolithisch erlischt",
+        "type": "irreversible",
+        "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1206
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ab5d28b2dfab7f345e96fdb1e022a5ca635ae70322b4a76cdcf8dcf344dcc99a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Juna (als Teil des Geflechts oder Raum)",
+        "type": "who",
+        "quote": "Juna (als Teil des Geflechts oder Raum)",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1216
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:981235acf6a1eb1c75ef291095a901f089fcdaba25b8442fdfd5e8e11677c793",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Junas Stimme erscheint als Teil des Geflechts oder als Raum, in dem das Geflecht klingt",
+        "type": "hook_out",
+        "quote": "Junas Stimme erscheint als Teil des Geflechts oder als Raum, in dem das Geflecht klingt.",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1208
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6adcfcb98ed05a97770bdd9aa07f50449deff85a6462d2c15f5a2894a38d8783",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 40",
+        "target": "der Erzähler kehrt zurück, jetzt nicht mehr fragend, sondern bezeugend",
+        "type": "hook_in",
+        "quote": "der Erzähler kehrt zurück, jetzt nicht mehr fragend, sondern bezeugend",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1240
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:16e6a4f9c7fb34d4ce44812561336e1563beedb0a3cbf04988aeffd652723578",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 40",
+        "target": "Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält.",
+        "type": "hook_out",
+        "quote": "Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1244
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:791681a9456d9887f5897ff5f59e783cfc6d6c877da2cce242c4cd0aee810827",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "0",
+        "target": "AEGIS, Juna (Resonanz), Komp 734",
+        "type": "who",
+        "quote": "0 | Ki (Setup) | Außerhalb / Prolog | nur B | spezifisch | Funken-Ich ↔ AEGIS | AEGIS, Juna (Resonanz), Komp 734",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1267
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:784d0ba4fd192fec34da76bab5b4685aaf2109814453f7d61de0bf7be11da157",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1",
+        "target": "Kael",
+        "type": "who",
+        "quote": "1 | Ki | HR Stufe 1 | A dom | Default | Kael (Host) | Kael",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1268
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e8f8801c559626c6f92a2a4f6a9457a2382a1c717e1f57444de445be8da619f2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "2",
+        "target": "Kael, Lex",
+        "type": "who",
+        "quote": "2 | Ki | HR Stufe 2 | A dom | Default | Kael + Lex-Einbruch | Kael, Lex",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1269
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:83b09597bf8abfd94c8aa7a79fc7c3570b9e2659cf379c7489221f57b0c85e25",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "3",
+        "target": "Kael, Lex",
+        "type": "who",
+        "quote": "3 | Ki | HR Stufe 3 | A dom | Default | Kael (Lex-dom) | Kael, Lex",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1270
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8fa2a8ce030aeb88b5ec5da4cba59607d6a6335dd6fd01ae2be308c2ba36a854",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4",
+        "target": "Kael, Lex, AEGIS (Atmos)",
+        "type": "who",
+        "quote": "4 | Ki | HR Stufe 4 | A dom | Default | Kael/Lex | Kael, Lex, AEGIS (Atmos)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1271
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cd4912398ebcea7742a6f3e692a217273bdb53bca4a8ae3b3c928869d15bb4ce",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5",
+        "target": "Kael, Lex",
+        "type": "who",
+        "quote": "5 | Ki | HR Stufe 5 | A dom | Default | Kael (Lex-dom) | Kael, Lex",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1272
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:db8e8d6a466a90dd91016c790359bfa4243b9e413dc9c8cc4952b2e0d7cfe38a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5",
+        "target": "Rhys (latent)",
+        "type": "who",
+        "quote": "5 | Ki | HR Stufe 5 | A dom | Default | Kael (Lex-dom) | Kael, Lex, Rhys (latent)",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1272
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:944a75789ffdba1e65cc163a416522199786f0d17882083af698bebd3d548305",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6",
+        "target": "Kael, Lex, Rhys, Alex, Nyx",
+        "type": "who",
+        "quote": "6 | Ki | HR Stufe 6 | A dom | Default | Kael (polyphon) | Kael, Lex, Rhys, Alex, Nyx",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1273
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cd6b3bbb8252fbf6c4510ad2b178b1b7792bb690cbe6fd2b17d728eb95db889e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "7",
+        "target": "Kael, Juna (Wirkung)",
+        "type": "who",
+        "quote": "7 | Ki | HR Stufe 7 | A | Default | Kael (emotional) | Kael, Juna (Wirkung)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1274
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aa6baff4567af04efc693d5bf73a6b729e7a21c234a8de587c6f0a497c230dea",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "8",
+        "target": "Kael, Lex, Alex, Selene",
+        "type": "who",
+        "quote": "8 | Ki | HR Stufe 8 | A | Default | Kael + Selene | Kael, Lex, Alex, Selene",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1275
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c44b4eae6da6eda6d3cd431f33212b04cf580d3ad371385ee413ff2eea6e12e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "9",
+        "target": "Kael, Lex, Rhys, Selene, Alex",
+        "type": "who",
+        "quote": "9 | Ki | HR Stufe 9 | A | Default | Kael (Wir-Anfang) | Kael, Lex, Rhys, Selene, Alex",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1276
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:592d55396ee79aecca5dd815e528a6d6f6357ecccca55e92670883eb218e7aeb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "10",
+        "target": "Kael, Lex, Selene, Juna, Silas",
+        "type": "who",
+        "quote": "10 | Ki | HR Erw 1 | A | Default | Kael (kooperativ) | Kael, Lex, Selene, Juna, Silas",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1277
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:02f9c27f223d5123833df919a03d2ee283deba1e24f794aebf4affcdef3875f0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11",
+        "target": "Kael, alle ANPs, Kiko (leise)",
+        "type": "who",
+        "quote": "11 | Ki | HR Erw 2 | A | Default | Kael (Wir) | Kael, alle ANPs, Kiko (leise)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1278
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7aa696aa8c6c7c7281ffb060f42ad7132c965b10f8a2adde2289668584e4c644",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "12",
+        "target": "Kael, Wir-Geflecht, AEGIS",
+        "type": "who",
+        "quote": "12 | Ki | HR Erw 3 | A | Default | Kael (gesammelt) | Kael, Wir-Geflecht, AEGIS",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1279
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:862d8552db0c21bc18402ce5bfbfc26a0fb88988023a3bf8a8c22ed8b09d1d4a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "13",
+        "target": "Kael, Wir-Geflecht, AEGIS",
+        "type": "who",
+        "quote": "13 | Ki | HR Stufe 13 | A | Default | Kael (Wir-stabil) | Kael, Wir-Geflecht, AEGIS",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1280
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2dfbd54d9e0b3aab3b976ee9b05ae6d636d5ec6f26741429f6bb0e7adc737a34",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "14",
+        "target": "Kael, Lex, Rhys, AEGIS, Mnemosyne",
+        "type": "who",
+        "quote": "14 | Shō | Bruch | A‖B beginnt | Default | Kael, AEGIS möglich | Kael, Lex, Rhys, AEGIS, Mnemosyne",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1281
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4bf2e0177a474bb10d1fabf142cad0bb6813cea17b7133a71f4faa4c6c95a311",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "14",
+        "target": "AEGIS möglich",
+        "type": "who",
+        "quote": "14 | Shō | Bruch | A‖B beginnt | Default | Kael, AEGIS möglich",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1281
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f89535ed53392384e735d9902ce454dfad77c8303e0eaaa351866bad91e72db7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "15",
+        "target": "Kael, Nyx",
+        "type": "who",
+        "quote": "15 | Shō | Z1-Destab | A | Default | Kael, Schatten | Kael, Nyx",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1282
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ca9eda333b291842f83c887ae10e9d0e62f61392c924f1edad85d19426a11d69",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "15",
+        "target": "Kiko (latent)",
+        "type": "who",
+        "quote": "15 | Shō | Z1-Destab | A | Default | Kael, Schatten | Kael, Nyx, Kiko (latent)",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1282
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7ee9830c981ce5bbc03cab0cea3327ad21119a8a2e5a0c68a35727c6c59531b7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "16",
+        "target": "Kael, Lex, Selene, Moros (HG)",
+        "type": "who",
+        "quote": "16 | Shō | Z1-Reaktion | A | Default | Kael (Lex+Selene) | Kael, Lex, Selene, Moros (HG)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1283
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:27bd8da421f910cdfa1eb24cffa34e33d4b1eaa37fe735a55026c608c4683d24",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "17",
+        "target": "Kael, Selene, Rhys, Lex",
+        "type": "who",
+        "quote": "17 | Shō | Z1-Korrektur | A | Default | Kael (Wir) | Kael, Selene, Rhys, Lex",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1284
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cd6f3aa6a900387355a1448ee454dc5b313523a3e378a50680b9bc565f644159",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "18",
+        "target": "Kael, polyphon, Genesis-Stimme",
+        "type": "who",
+        "quote": "18 | Shō | Z2-Destab + Flashback | A‖B | \\*\\*Bridge\\*\\* | Kael + Genesis-Stimme | Kael, polyphon, Genesis-Stimme",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1285
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:010f0d0c839c131df6d119385fa3474154a0c8c37fc725f40a643bf308fbf866",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "19",
+        "target": "Kael, AEGIS, Mnemosyne",
+        "type": "who",
+        "quote": "19 | Shō | Z2-Reaktion | A‖B | \\*\\*Bridge\\*\\* | Kael, AEGIS direkt | Kael, AEGIS, Mnemosyne",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1286
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9557449892ed643227c0ec945d84eabfd2ee652704a9e574a7db06ebcad5077a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "20",
+        "target": "Kael, Selene",
+        "type": "who",
+        "quote": "20 | Shō | Z2-Korrektur | A | Default | Kael (kreativ) | Kael, Selene",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1287
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:014410c04ccabf067572a691709e864753c982810ad81b009c1ed92ccec747cf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 21",
+        "target": "Kael testet die Simulationsgrenzen",
+        "type": "want",
+        "quote": "Kael testet die Simulationsgrenzen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1324
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0c1e42dd85b70b46fef9a86910f00e160a23a669fcd563124bf98f34b2dd66e9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0",
+        "target": "AEGIS (1.P)",
+        "type": "who",
+        "quote": "Kap 0:** AEGIS (1.P), Juna (Resonanz), Komp 734",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1346
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:981f4ca53fa5839d29805ae848eb98a314507d9204ce4623404e1f8ab49eedea",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1–5",
+        "target": "Kael-Host primär, Lex einbrechend",
+        "type": "who",
+        "quote": "Kap 1–5:** Kael-Host primär, Lex einbrechend",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1347
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6a123d9f7e83209cdc930632b01fc8eb2a30748d339ea9e19e5bf80971934906",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 14–17",
+        "target": "Nyx",
+        "type": "who",
+        "quote": "Kap 14–17:** Nyx tritt deutlich auf",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1350
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3fbdacd8eae5053baad17eef1f3708b8dc6127de03f1f5c7adab9595e1cf75f8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35–36",
+        "target": "Kael-Wir vs. AEGIS",
+        "type": "who",
+        "quote": "Kap 35–36:** Kael-Wir vs. AEGIS",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1355
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:87ffcf5d0eb899a3087867b79fcf187f10219f6ca6e8cd62bd01cfd385953aa9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 37",
+        "target": "Kael-Wir-Gärtner, AEGIS als Echo",
+        "type": "who",
+        "quote": "Kap 37:** Kael-Wir-Gärtner, AEGIS als Echo",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1356
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:445684707eb060a969c16ec2486219d024817250f4ed1e92e2ddb9d05efc2246",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38–39",
+        "target": "Juna in direkter Erscheinung",
+        "type": "who",
+        "quote": "Kap 38–39:** Wir-Geflecht → Wir-AEGIS-plural, Juna in direkter Erscheinung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1357
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fb1c473536bdb7bb6f119374baa8566093af34eda77218096681a75cf3250504",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 40",
+        "target": "Wir-AEGIS-plural als bezeugende Stimme",
+        "type": "who",
+        "quote": "Kap 40:** Wir-AEGIS-plural als bezeugende Stimme",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1358
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dca845436508ca40d3e6fa5e26e030a98f82b44dabe51f497076ecec95c7be10",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Wir-AEGIS-plural",
+        "type": "object",
+        "quote": "„Wir-AEGIS-plural\" ist Arbeitsbegriff; in Kap 39 zu finalisieren",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1369
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:abc5e987b545232ceb15954220925e4c376984cdc59a5e69c975cb62e2f9a0c8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "Silas-POV",
+        "type": "who",
+        "quote": "Kap 31 (Silas-POV), Kap 32 (Oblivion-POV) sind Vorschläge",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1373
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:15570dd7e655c68eff64d97b4a6ad73926f462d561d181ab4121d9c1fa3e289f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 32",
+        "target": "Oblivion-POV",
+        "type": "who",
+        "quote": "Kap 31 (Silas-POV), Kap 32 (Oblivion-POV) sind Vorschläge",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+      "template": "ChapterCards",
+      "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1373
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

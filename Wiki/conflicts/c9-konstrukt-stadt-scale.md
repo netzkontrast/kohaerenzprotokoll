@@ -209,3 +209,11 @@ Agrees with the author's decision (KW1 only, 2026-09-24). Nothing to change.
 **Konstrukt-Stadt as KW1 only — a world, not a place.**
 Section 1 is headed „Konstrukt-Stadt (Guardian: LogOS)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L19], the first of „vier Kern-Welten (KW1-4)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17]. The concept names no place inside it.
 The world side, in the record's terms; the conflict stays open.
+
+## 2026-10-05 — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide
+
+**KW1 is written `KW1: Logos-Prime / Konstrukt-Stadt`, one of four rows of the Sensory Rulebook, with LogOS as its guardian.**
+
+The row opens „KW1: Logos-Prime / Konstrukt-Stadt“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96] and carries `LogOS` as guardian, the principle „Rationalization & Control (ANPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96] and the signature „Sterile, geometric, silent, cold“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96]. `Konstrukt-Stadt` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#1] stands only here, as the second name of the first world beside three other worlds in the same table; the whole simulation is not named by it.
+
+Position 3's scale (KW1, with Logos-Prime); the record is decided by the author, 2026-09-24, KW1 only, and this entry changes nothing.

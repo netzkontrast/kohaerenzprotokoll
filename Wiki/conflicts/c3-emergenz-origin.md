@@ -212,3 +212,11 @@ No source and no simulation precedes it — the cluster forms in the void itself
 „The origin of AEGIS is a traumatic narrative that must inform its every action. It began as a minimal "Ich" (I), a mere information fragment fighting for survival against the constant, dissolving pressure of "The Nothingness Noise."" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L798]
 „The four Core Worlds are simulated realities created by AEGIS as laboratories to analyze Kael, but they also function as externalizations of his fragmented psyche." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L290]
 No source and no simulation precedes it in this telling — the struggle against the Nothingness Noise comes first, and the Kernwelten are AEGIS' own later creation, not a dynamic it emerges from. `Trennungsprotokoll` and `Abwehrarchitektur` stand 0 times; `Ursprungs-Ich` stands four times, always AEGIS' own Genesis, never Kael's (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`). Row 1's side, told as a process, nearest the Kohärenz-Protokoll narrative's and the annotated draft's entries above; on the consequence, nearest position 1 too — no outside is named for it to be wrong about. The conflict stays open.
+
+## 2026-10-05 — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide
+
+**AEGIS emerged from `Ich-Fragmenten` in the primordial chaos, a tragic origin, not an emergence from nothing and not from the simulation's dynamics.**
+
+Under „Origin & Tragic Flaw (Genesis-Krise):“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112] the Definitive Guide writes „AEGIS emerged from“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112] `Ich-Fragmenten` „in the primordial chaos.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112] The word `Emergenz` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] does not occur; the English verb is used. It names neither `S₀ = ∅` nor the simulation as the ground, and it gives no level at which the emergence happens.
+
+Neither of the record's two positions as it words them; a third origin, in fragments of a self; recorded, the conflict stays open.

@@ -1,0 +1,181 @@
+{
+  "document": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "bfd29ecbe9b65f50856b02e267e86fc9e2dd9c4c76ffbbd046f265e2253c3afd",
+  "calls": 32,
+  "failed_calls": 0,
+  "seconds": 264.6,
+  "input_tokens": 143032,
+  "output_tokens": 25980,
+  "cost_usd": 0.6622,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1829,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1425,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1862,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1850,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1844,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 2030,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1607,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1231,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1726,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1916,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1565,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 2027,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1690,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 2041,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1871,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 2018,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1908,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1607,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1739,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 998,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1700,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1344,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 2026,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1641,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 815,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 2021,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1979,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 812,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 1850,
+      "ok": true
+    },
+    {
+      "chunk": 29,
+      "characters": 1006,
+      "ok": true
+    },
+    {
+      "chunk": 30,
+      "characters": 1712,
+      "ok": true
+    },
+    {
+      "chunk": 31,
+      "characters": 1607,
+      "ok": true
+    }
+  ]
+}

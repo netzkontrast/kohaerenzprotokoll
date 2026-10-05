@@ -377,3 +377,11 @@ The question stays open; this document pairs each Kern-Welt with its Guardian.
 „Jeder Guardian ist einer spezifischen Kernwelt zugeordnet“ ^[charaktere.md:L363] (L363). `LogOS` stands for KW1, `Mnemosyne` for KW2, `Cerberus` for KW3 (L365–L367), and for KW4: „Die Wächter der KW4 (Kairos-Potentialis), einer kreativitäts- und potenzialbasierten Welt“ ^[charaktere.md:L368], `Kairos & Sophia` (L368).
 
 Stands as four worlds with five named Guardians, two of them in KW4; recorded, not applied.
+
+## 2026-10-05 — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide
+
+**The Definitive Guide pairs four guardians with four worlds: LogOS, Mnemosyne, Cerberus and `Kairos/Sophia` on KW4.**
+
+The table is headed „Core World & Guardian“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L95], and the rows give the guardian after each world: LogOS beside „KW1: Logos-Prime / Konstrukt-Stadt“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96], `Mnemosyne` beside `KW2: Mnemosyne-Archipel / Resonanz-Landschaft` (L97), `Cerberus` beside „KW3: Cerberus-Labyrinth / Grenzfeste“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], and beside „KW4: Kairos-Potentialis“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L99] the single form „Kairos/Sophia“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L99]. The slash is the document's; it writes `Kairos` and `Sophia` only there, as one guardian entry of one row, and does not say whether it means one figure or two. It names no Erasure-Pol and no fifth guardian; in the plot it speaks of the „Guardian's Dilemma“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L46] among enforcers (L154).
+
+Four worlds with one guardian entry each, KW4's written as one slash form; the question of five guardians stays open.

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      2
+  backslash escapes      198
+  typographic marks      16
+  ascii quotes           106
+
+# inflection families -- one term, several surfaces
+  prote    Protect, Protection, Protector, Protectors, Protects
+  poten    Potential, Potentialis, Potentiality, Potentialmeer
+  archi    Archipel, Architecture, Architectures
+  integ    Integration, Integrative, Integrator
+  ratio    Rationale, Rationalist, Rationalization
+  syste    System, Systemic, Systems
+  aegis    AEGIS, Aegis
+  alter    Alter, Alters
+  ambiv    Ambivalence, Ambivalent
+  careg    Caregiver, Caregiving
+  coher    Coherence, Coherons
+  confl    Conflict, Conflicts
+  contr    Contradiction, Control
+  corre    Corrective, Correspondence
+  criti    Criticism, Criticizes
+  defin    Defining, Definitive
+  estab    Establishes, Establishing
+  explo    Exploration, Explosion
+  guard    Guardian, Guardians
+  guide    Guide, Guided
+  inter    Interaction, Internal
+  logos    LogOS, Logos
+  metaf    Metafiction, Metafictional
+  ontol    Ontological, Ontology
+  origi    Origin, Original
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Duality
+  Fear < Fears
+  Form < Transformation
+  Meta < Metafiction
+  Meta < Metacognitive
+  Meta < Metafictional
+  Part < Parts
+  Riss < Risse
+  Seek < Seeks
+  AEGIS < Aegis
+  Alter < Alters
+  Guide < Guided
+  LogOS < Logos
+  Logic < Ontological
+  Logic < Psychological
+  Story < Storytelling
+  World < Worlds
+  Action < Reaction
+  Action < Reactions
+  Action < Interaction
