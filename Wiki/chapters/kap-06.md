@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht ein Gebiet, das für seine perfekte Ordnung und Vorhersagbarkeit bekannt ist (vielleicht innerhalb von KW1 oder einer stark regulierten Zone).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „kein 'Riss', aber vielleicht eine plötzliche Kaskade kleinerer Systemfehler“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94] · „Der Vorfall wird schnell von AEGIS/Guardians eingedämmt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „Vielleicht findet Kael Restspuren einer größeren 'Aufräumaktion'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The initiation
+
+Title: „Die Initiation“ ^[romanstruktur-und-philosophische-einleitung.md:L71]
+Position: Teil I, „Annahme der Fragmentierung“ ^[romanstruktur-und-philosophische-einleitung.md:L71]
+
+- Story: „Kael akzeptiert zum ersten Mal bewusst“ ^[romanstruktur-und-philosophische-einleitung.md:L73] that he is many, not one
+- Story: „Diese Akzeptanz markiert die Initiation in eine neue Form des Seins.“ ^[romanstruktur-und-philosophische-einleitung.md:L75]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
