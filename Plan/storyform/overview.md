@@ -2,7 +2,7 @@
 
 *Generiert von `python3 scripts/storyform.py` aus `a.json` und `b.json`. Nicht von Hand ändern — eine Änderung geht in die JSON-Datei, mit Herkunft (Skill `storyform`).*
 
-**Prämisse:** „Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung."
+**Prämisse:** „Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung — und Liebe ist die Ordnung, die Vielheit trägt."
 
 ## Die zwölf Antworten
 

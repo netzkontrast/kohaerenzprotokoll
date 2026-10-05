@@ -66,7 +66,11 @@ with the consequences of each option laid out.
 0. **The premise** (Step 0 of the dramatica-theory skill, asked after the validation found it missing):
    **„Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung."** A argues it (Kael becomes functionally plural,
    Triumph); B argues it from the other side (AEGIS seeks closure and collapses, Tragedy). Chosen over „Wandel statt
-   Ordnung" and „Kohärenz braucht Vertrauen".
+   Ordnung" and „Kohärenz braucht Vertrauen". **Extended 2026-10-05** after the comparison with the novel-architect
+   skill (its central question: „Ist Liebe Information — oder das, was Information zerstört?"): **„Vielheit ist keine
+   Störung der Ordnung, sondern ihre Bedingung — und Liebe ist die Ordnung, die Vielheit trägt."** The Moonshine-Link
+   (A-RS, Ability → Desire) carries the second half. The author also chose that the repository is the one source:
+   the skill is to point here (`Plan/runs/storyform-2026-10-02/novel-architect-update.md`).
 16. **The engine's derivation, rebuilt without the Dramatica platform** (2026-10-05, the author's instruction;
     `Plan/runs/storyform-2026-10-02/engine-rules.md`). A Dramatica storyform is fixed by twelve answers; everything
     below them is derived. Rules reverse-engineered by a user of the Dramatica forum, rebuilt as `dramatica.py derive`
