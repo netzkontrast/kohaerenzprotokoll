@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 5
-readings: 4
+sources: 6
+readings: 5
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 gathered: "2026-09-16"
 ---
 
@@ -84,3 +84,7 @@ A research report; recorded, not applied. It gives negentropy as Storyform A's `
 `readings: 0` was deliberate while it lasted. A term that a source only asks about has no reading
 in that source — and a page that recorded the question as a reading would turn
 the project's uncertainty into its position.
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — islands around Kael/M
+
+Kap 37 of the outline of 2026-05-01: „Inseln der Negentropie entstehen um ihn“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330] — around `Kael/M`, glossed as practice.
