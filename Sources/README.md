@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 58 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 58 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 59 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 59 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -766,7 +766,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Protokoll-Ontologie: Roman-Konzeptentwicklung](drive/protokoll-ontologie-roman-konzeptentwicklung.md) | 2025-11-03 | 2,911 |  | Cache-Kohärenz 3, Dual-Kernel-Theorie† 4, Kollaps-Kernel 2, Kohärenz 15, Risse 2, AEGIS 6 | Protokoll-Ontologie 9, Corrective Wavelet 4, Dekohärenz 6, Korrespondenz 7, Wavelets 3 |
 | [The Juna Vector: An Ontological and Narrative Analysis for 'Kohärenz Protokoll'](drive/the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md) | 2025-11-03 | 2,733 |  | Moonshine-Link 6, Juna 29, Gödel-Gambit 2, Algorithmische Melancholie† 2, Potentialmeer 2, Entropie† 5, Kael 44, AEGIS 52 | Prehension 3, Impact Character 2, Quantum Entanglement 3, Junas 13, "living Gödel-Satz" 2 |
 | [Fragen zu Existenz, Agency und Realität](drive/fragen-zu-existenz-agency-und-realitaet.md) | 2025-11-13 | 3,970 |  | Komponente 734 5, Kollaps-Kernel 4, Genesis 6, Potentialmeer 4, Kohärenz-Kernel 2, Rhys 5, Multiplizität 6, Nyx 5 | Agency-Protokoll 3, TOE 3, Betreuer-ANP 2, RNA 2, Abiogenese 2 |
-| [Textanalyse: Existenz, System und Leid](drive/textanalyse-existenz-system-und-leid.md) | 2025-11-18 | 4,245 |  | Komponente 734 6, Überwelt 9, Kohärenz 10, Entropie† 4, AEGIS 49 | Ontological Friction 3, Parmenides 10, Lacan 4, Luhmann 18, Nāgārjuna 3 |
+| [Textanalyse: Existenz, System und Leid](drive/textanalyse-existenz-system-und-leid.md) | 2025-11-18 | 4,245 | **read** | Komponente 734 6, Überwelt 9, Kohärenz 10, Entropie† 4, AEGIS 49 | Ontological Friction 3, Parmenides 10, Lacan 4, Luhmann 18, Nāgārjuna 3 |
 | [Ontologische Inversion von AEGIS: Kritisches Framework](drive/ontologische-inversion-von-aegis-kritisches-framework.md) | 2026-03-01 | 946 | **read** | Lex 2, Entropie 5, Kohärenz 8, AEGIS 11 | CSI 3, Harmonisierungs-Bias 2, Korrespondenz 6, Trivialismus 2, NCP 3 |
 | [KI-Prompt-Analyse: Hard Problem of Consciousness](drive/ki-prompt-analyse-hard-problem-of-consciousness.md) | 2026-04-28 | 7,792 | **read** | Trennungsprotokoll 17, Gödel-Gambit 6, Algorithmische Melancholie 4, Dual-Kernel-Theorie† 3, Multiplizität 6, Genesis 2, Moonshine-Link 3, Juna 5 | They-Kreuz-Spiegelung 4, Landauer-Wärme 26, K0 77, K1 62, Predictive Processing 4 |
 

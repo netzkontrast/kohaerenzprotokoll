@@ -344,6 +344,18 @@ the author wants them (*Questions for the author*).
   self-mutilation (L78, on `genesis`); the Assessment's partitioning isolates Juna's resonance from Kael rather
   than splitting AEGIS' Ursprungs-Ich (on `trennungsprotokoll`).
 
+### Raised by the ingest of 2026-10-05 (documents 60 on), one at a time
+
+- **Document 60, `textanalyse-existenz-system-und-leid` (2025-11-18): is `Genesis der Existenz` an earlier Kap 0?** The commentary
+  retells a narrative of that name — Rauschen, clusters, `Der große Wandel`, the Ich-Fragment become Komponente 734, the Überwelt,
+  an Entität, a Resonanzkaskade, AEGIS's `Kohärenz Protokoll 1.0` as sharding — which is the Genesis the wiki's `genesis` page
+  collects, half a year before the canon era. The narrative itself is landed and unread (`einleitung-genesis-der-existenz`, and three
+  plotlines of the same name). Should its texts be read next as the Genesis' earliest version, and does its order — component before
+  protocol — count for C12?
+- **Document 60: is the commentary's alternative a direction you want?** Its conclusion says the text implicitly asks for an existence
+  founded on the *Integration* of the void (Śūnyatā) rather than its *Abwehr* (AEGIS) (L310). No read source states that as the
+  novel's resolution; recorded on `aegis`, decided nowhere.
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*

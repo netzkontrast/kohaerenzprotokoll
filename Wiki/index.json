@@ -1,5 +1,5 @@
 {
-  "built": "2026-09-30",
+  "built": "2026-10-05",
   "by": "scripts/wiki_index.py",
   "pages": 106,
   "conflicts": 15,
@@ -40,10 +40,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "ki-narrative-kollaps-kohaerenz-paradoxie"
       ],
-      "sources": 5,
-      "readings": 3,
+      "sources": 6,
+      "readings": 4,
       "conflict": "none"
     },
     "aegis": {
@@ -107,10 +108,13 @@
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
         "ontologische-inversion-von-aegis-kritisches-framework",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung",
+        "textanalyse-existenz-system-und-leid"
       ],
-      "sources": 51,
-      "readings": 51,
+      "sources": 54,
+      "readings": 54,
       "conflict": "C1, C3, C8, C14"
     },
     "alex": {
@@ -188,10 +192,11 @@
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 31,
-      "readings": 31,
+      "sources": 32,
+      "readings": 32,
       "conflict": "none"
     },
     "alters": {
@@ -242,10 +247,11 @@
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "flow-zustaende-und-dissoziative-identitaet"
       ],
-      "sources": 42,
-      "readings": 41,
+      "sources": 43,
+      "readings": 42,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -459,10 +465,11 @@
         "dramatica-storyform-synthese-aegis-analyse-2",
         "dramatica-storyform-synthese-aegis-analyse",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 12,
-      "readings": 11,
+      "sources": 13,
+      "readings": 12,
       "conflict": "none yet"
     },
     "coheron": {
@@ -493,10 +500,11 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
-        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "ki-narrative-kollaps-kohaerenz-paradoxie"
       ],
-      "sources": 22,
-      "readings": 22,
+      "sources": 23,
+      "readings": 23,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -580,10 +588,12 @@
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
         "ontologische-inversion-von-aegis-kritisches-framework",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 25,
-      "readings": 25,
+      "sources": 27,
+      "readings": 27,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -723,10 +733,14 @@
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
-        "ontologische-inversion-von-aegis-kritisches-framework"
+        "ontologische-inversion-von-aegis-kritisches-framework",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "flow-zustaende-und-dissoziative-identitaet",
+        "kohaerenz-protokoll-audit-und-verifizierung",
+        "textanalyse-existenz-system-und-leid"
       ],
-      "sources": 32,
-      "readings": 32,
+      "sources": 36,
+      "readings": 36,
       "conflict": "C2"
     },
     "erason": {
@@ -913,10 +927,11 @@
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "textanalyse-existenz-system-und-leid"
       ],
-      "sources": 32,
-      "readings": 31,
+      "sources": 33,
+      "readings": 32,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -950,10 +965,11 @@
         "dramatica-storyform-synthese-aegis-analyse-2",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "kohaerenz-protokoll-konzept-master-md",
-        "aegis-subplots-kapitelweise-system-exploration-docx"
+        "aegis-subplots-kapitelweise-system-exploration-docx",
+        "ki-narrative-kollaps-kohaerenz-paradoxie"
       ],
-      "sources": 25,
-      "readings": 23,
+      "sources": 26,
+      "readings": 24,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -1180,10 +1196,11 @@
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 46,
-      "readings": 46,
+      "sources": 47,
+      "readings": 47,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1293,10 +1310,12 @@
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
         "ontologische-inversion-von-aegis-kritisches-framework",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 49,
-      "readings": 49,
+      "sources": 51,
+      "readings": 51,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -1403,10 +1422,11 @@
         "m-als-fundament-der-simulation",
         "kohaerenz-protokoll",
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
-        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"
+        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
+        "ki-narrative-kollaps-kohaerenz-paradoxie"
       ],
-      "sources": 39,
-      "readings": 38,
+      "sources": 40,
+      "readings": 39,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -1446,10 +1466,12 @@
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 31,
-      "readings": 31,
+      "sources": 33,
+      "readings": 33,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -1503,10 +1525,12 @@
         "dramatica-storyform-synthese-aegis-analyse",
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "ontologische-inversion-von-aegis-kritisches-framework",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 21,
-      "readings": 21,
+      "sources": 23,
+      "readings": 23,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -1546,10 +1570,13 @@
         "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
         "kohaerenz-protokoll-philosophischer-bericht-md",
         "kohaerenz-protokoll",
-        "ontologische-inversion-von-aegis-kritisches-framework"
+        "ontologische-inversion-von-aegis-kritisches-framework",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung",
+        "textanalyse-existenz-system-und-leid"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 21,
+      "readings": 21,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -1578,10 +1605,12 @@
         "dramatica-storyform-synthese-aegis-analyse",
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "ontologische-inversion-von-aegis-kritisches-framework",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 20,
-      "readings": 20,
+      "sources": 22,
+      "readings": 22,
       "conflict": "none"
     },
     "komponente-734": {
@@ -1621,10 +1650,11 @@
         "duale-storyform-synthese-kohaerenz-protokoll",
         "kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "ki-prompt-analyse-hard-problem-of-consciousness"
+        "ki-prompt-analyse-hard-problem-of-consciousness",
+        "textanalyse-existenz-system-und-leid"
       ],
-      "sources": 31,
-      "readings": 29,
+      "sources": 32,
+      "readings": 30,
       "conflict": "C12"
     },
     "konstrukt-stadt": {
@@ -1751,10 +1781,12 @@
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "ontologische-inversion-von-aegis-kritisches-framework",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 33,
-      "readings": 33,
+      "sources": 35,
+      "readings": 35,
       "conflict": "none"
     },
     "lia": {
@@ -1791,10 +1823,12 @@
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 30,
+      "readings": 30,
       "conflict": "C15"
     },
     "logos": {
@@ -1843,10 +1877,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "mnemosyne": {
@@ -1921,10 +1956,11 @@
         "dramatica-storyform-synthese-aegis-analyse-2",
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
-        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"
+        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
+        "ki-narrative-kollaps-kohaerenz-paradoxie"
       ],
-      "sources": 21,
-      "readings": 21,
+      "sources": 22,
+      "readings": 22,
       "conflict": "C5, C11"
     },
     "moonshine-link": {
@@ -1971,10 +2007,12 @@
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "ontologische-inversion-von-aegis-kritisches-framework",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 38,
-      "readings": 38,
+      "sources": 40,
+      "readings": 40,
       "conflict": "none"
     },
     "moros": {
@@ -2010,10 +2048,11 @@
         "dramatica-storyform-synthese-aegis-analyse",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "ontologische-inversion-von-aegis-kritisches-framework"
+        "ontologische-inversion-von-aegis-kritisches-framework",
+        "ki-narrative-kollaps-kohaerenz-paradoxie"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 28,
+      "readings": 28,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -2036,10 +2075,11 @@
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "kohaerenz-protokoll",
-        "ontologische-inversion-von-aegis-kritisches-framework"
+        "ontologische-inversion-von-aegis-kritisches-framework",
+        "ki-narrative-kollaps-kohaerenz-paradoxie"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -2087,10 +2127,12 @@
         "dramatica-storyform-synthese-aegis-analyse",
         "kohaerenz-protokoll",
         "ki-prompt-analyse-hard-problem-of-consciousness",
-        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"
+        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 38,
-      "readings": 38,
+      "sources": 40,
+      "readings": 40,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -2103,10 +2145,11 @@
         "entropie-aegis",
         "kohaerenzprotokoll-aegis-und-systementropie",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "duale-storyform-synthese-kohaerenz-protokoll"
+        "duale-storyform-synthese-kohaerenz-protokoll",
+        "textanalyse-existenz-system-und-leid"
       ],
-      "sources": 4,
-      "readings": 3,
+      "sources": 5,
+      "readings": 4,
       "conflict": "none yet"
     },
     "nexus": {
@@ -2166,10 +2209,13 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "dramatica-storyform-synthese-aegis-analyse-2",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung",
+        "textanalyse-existenz-system-und-leid"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 31,
+      "readings": 31,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -2223,10 +2269,11 @@
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 32,
-      "readings": 32,
+      "sources": 33,
+      "readings": 33,
       "conflict": "C10"
     },
     "oblivion": {
@@ -2444,10 +2491,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "koharenz-protokoll-kapitel-0-v2-md",
         "roman-konzept-dualitaet-kohaerenz-spannung",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "textanalyse-existenz-system-und-leid"
       ],
-      "sources": 6,
-      "readings": 4,
+      "sources": 7,
+      "readings": 5,
       "conflict": "none yet"
     },
     "resonanz-landschaft": {
@@ -2556,10 +2604,11 @@
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 40,
-      "readings": 40,
+      "sources": 41,
+      "readings": 41,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -2638,10 +2687,11 @@
         "duale-storyform-synthese-kohaerenz-protokoll",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
-        "ontologische-inversion-von-aegis-kritisches-framework"
+        "ontologische-inversion-von-aegis-kritisches-framework",
+        "ki-narrative-kollaps-kohaerenz-paradoxie"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 27,
+      "readings": 27,
       "conflict": "none"
     },
     "silas": {
@@ -2775,10 +2825,11 @@
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "ki-prompt-analyse-hard-problem-of-consciousness",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 29,
-      "readings": 29,
+      "sources": 30,
+      "readings": 30,
       "conflict": "none"
     },
     "therapie-schnittstelle-alpha": {
@@ -2850,10 +2901,11 @@
         "kohaerenz-protokoll",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "ki-prompt-analyse-hard-problem-of-consciousness",
-        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"
+        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
+        "textanalyse-existenz-system-und-leid"
       ],
-      "sources": 32,
-      "readings": 32,
+      "sources": 33,
+      "readings": 33,
       "conflict": "C12"
     },
     "truth-rotation": {
@@ -2879,10 +2931,11 @@
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "dramatica-storyform-synthese-aegis-analyse",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 18,
+      "readings": 18,
       "conflict": "none yet"
     },
     "tsdp": {
@@ -2920,10 +2973,12 @@
         "dramatica-storyform-synthese-aegis-analyse",
         "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 29,
-      "readings": 28,
+      "sources": 31,
+      "readings": 30,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -2967,10 +3022,13 @@
         "kohaerenz-protokoll-philosophischer-bericht-md",
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "kohaerenz-protokoll",
-        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"
+        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
+        "ki-narrative-kollaps-kohaerenz-paradoxie",
+        "kohaerenz-protokoll-audit-und-verifizierung",
+        "textanalyse-existenz-system-und-leid"
       ],
-      "sources": 20,
-      "readings": 20,
+      "sources": 23,
+      "readings": 23,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
@@ -3063,10 +3121,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "dramatica-storyform-synthese-aegis-analyse",
-        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"
+        "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+        "kohaerenz-protokoll-audit-und-verifizierung"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 29,
+      "readings": 29,
       "conflict": "C7, C11, C14"
     },
     "ztv": {

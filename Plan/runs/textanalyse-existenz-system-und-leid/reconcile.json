@@ -1,0 +1,201 @@
+{
+  "document": "textanalyse-existenz-system-und-leid",
+  "drive_id": "1jSyqfYKPYqPwj9-w8W04Nb8ago2kiqptK5Z7TkKa9rc",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "census and note by a document-reader subagent (Sonnet), 2026-10-05, from the R5 task (Plan/runs/ingest-2026-10-05/task-textanalyse-existenz-system-und-leid.md), corrected by the session's review (3 claims, corrections.jsonl); readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-60/brief.md; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 232,
+    "decisions": 241,
+    "decided_by_lookup": 136,
+    "needs_judgement": 105
+  },
+  "new_terms": [],
+  "why_no_new_terms": "The document is a commentary through Luhmann, Lacan, Sartre, Heidegger, Baudrillard and Foucault: most of its candidates are borrowed concepts (operationale Geschlossenheit, Re-entry, Dasein, das Reale, Biopolitik) or the narrative's words for steps the wiki already pages (closure, Komponente 734, Überwelt, the protocol). The narrative's own new names — Der große Wandel, Resonanzkaskade, ontologische Anomalie, Sharding, Paradoxon der Fehlausgerichteten Kohärenz — stand in one commentary on one narrative; their readings went on genesis, komponente-734, aegis, kohaerenz and trennungsprotokoll, and none is opened as a page from a single quoted occurrence.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        96,
+        104,
+        114,
+        130,
+        140,
+        142,
+        144,
+        228,
+        232,
+        244,
+        306,
+        310
+      ],
+      "attribution": "",
+      "note": "AEGIS read through myth, a navy weapon system and Luhmann's code, as a commentary on a narrative"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        46,
+        52,
+        289
+      ],
+      "attribution": "",
+      "note": "Entropie as the information-theoretic lens on the narrative's Rauschen"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        13,
+        22,
+        24,
+        48,
+        68,
+        70,
+        78,
+        90,
+        92,
+        162,
+        178,
+        218,
+        244,
+        252
+      ],
+      "attribution": "",
+      "note": "the commentary's step-by-step retelling of a narrative it calls `Genesis der Existenz`"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        140,
+        142,
+        144,
+        228,
+        306,
+        310
+      ],
+      "attribution": "",
+      "note": "Kohärenz as AEGIS's code, and its defence as a paradox"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        90,
+        114,
+        162,
+        164,
+        258
+      ],
+      "attribution": "",
+      "note": "the Ich-Fragment become Komponente 734 at closure, before the protocol"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "Negentropie as the order the minimal being holds against Rauschen"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        24,
+        34,
+        46,
+        48,
+        289
+      ],
+      "attribution": "",
+      "note": "the narrative's Nichts and Rauschen, read as emptiness and as entropy"
+    },
+    {
+      "page": "residual-echos",
+      "lines": [
+        164,
+        218
+      ],
+      "attribution": "",
+      "note": "the echoes of origin, tolerated as function and suppressed as variance"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        244,
+        252,
+        254,
+        256,
+        258,
+        296
+      ],
+      "attribution": "",
+      "note": "the narrative's `Kohärenz Protokoll 1.0` as sharding, never named Trennungsprotokoll"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        174,
+        176,
+        180,
+        294
+      ],
+      "attribution": "",
+      "note": "the Überwelt as a simulation inside closure, with Spencer-Brown and Baudrillard as lenses"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C12"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J5 (a negation prefix makes a new term: Kohärenz / Inkohärenz, Sein / Nicht-Sein, svabhava / asvabhava), J9 (a title containing a term: Strukturierte Synopse der Kernkonzepte; Genesis der Existenz), J12 and J16 (a compound is its own token: Rauschen / Umwelt-Rauschen, Resonanz / Resonanzkaskade, Cluster / Clusterbildung), J14 and J34 (a slash is an alias or a role: Das Nichts / Rauschen, Schmerz/Warnung, Kohärenz/Inkohärenz), J24 and J97 (a plural or case ending is no boundary: Fragment / Fragmente, binären Code / binäre Code, Ontologischen Reibung), J28 and J32 (a compound is placed by what it names: Paradoxon der Fehlausgerichteten Kohärenz, Herrschaft des Codes, Einsamkeit des Codes), J42 (a set is not its largest subset: Erhalte Kohärenz / Vermeide Nicht-Sein), J57 (a compound naming a protocol is not the property it is named for: Kohärenz Protokoll 1.0 / Kohärenz), J59 (a compound naming an entity is not the thing it contains: Kybernetisierung des Zeus-Schildes / Zeus; AEGIS Combat System / AEGIS), J69 (a match that exists only after folding: Nagarjuna / juna, Sein / evaluierungseinheit, Bewusstsein / personas), J72 (a parenthetical index is part of the label: Rauschen (Noise), Bewusstsein (psychisches System), Außenwelt (Leere)), J83 (a head used alone for the compound's content: Komponente / Komponente 734), J88 (a common noun for a page's referent is placed by the sentence: Fragment, Entität, Resonanz, Grenze), J114 (a protocol a source describes doing what a page's protocol does is placed on that page by the sentence: Kohärenz Protokoll 1.0 → trennungsprotokoll)",
+  "sweep": [
+    {
+      "page": "alex",
+      "surface": "Alex",
+      "line": 332,
+      "decision": "occurrence",
+      "why": "Alex Reid, the author of a cited blog post in the reference list; not the novel's figure"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "„der Emergenz von Ordnung“ names one of the questions the commentary will ask, once, in its opening sentence; the document says nothing further under that word"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 13,
+      "decision": "reading",
+      "why": "the title names the narrative „Genesis der Existenz“ the commentary retells — closure, Komponente 734, the Überwelt, the Entität, the Kohärenz Protokoll 1.0 — which is the page's subject, the ontological birth; read by the sentence, not by the title (J9)"
+    }
+  ],
+  "not_promoted": [
+    "Der große Wandel — the closure event; read on genesis and komponente-734 (L90)",
+    "Resonanzkaskade — inside Komponente 734 (L218); read on komponente-734, genesis and residual-echos",
+    "Sharding — the commentary's word for the protocol's dismantling (L248–L256); read on trennungsprotokoll",
+    "Paradoxon der Fehlausgerichteten Kohärenz — read on kohaerenz and aegis (L234)",
+    "Ontologische Reibung — Floridi's term (L222), borrowed; no page",
+    "Entität / ontologische Anomalie — the narrative's anomaly (L206); read on genesis; no page from one commentary"
+  ],
+  "internal_tension": "The protocol is spelled three ways (Kohärenz Protokoll 1.0 L244, Kohärenz Protokoll L296, Kohärenz-Protokoll L240), and AEGIS's binary code is given as Sein/Nicht-Sein and Kohärenz/Inkohärenz (L140) and as Erhalte Kohärenz / Vermeide Nicht-Sein (L306) — the same code in two wordings, not a contradiction.",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.531, PageRank 0.689 over 24 cases — unchanged; no case moved"
+}
