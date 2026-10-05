@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -64,6 +64,14 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 
 - Plot beats, as a proposal: „Nicht früher als Kapitel 33, nicht später als Kap 37.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L750]
 - Storyform accents: from Kap 37 only A logic (L127).
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Wellen der Ordnung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L328]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „A (Wir/M)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330]
+
+- Story: the outline places: „Inseln der Negentropie entstehen um ihn“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330]; „Aktive Negentropie als gelebte Praxis“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330]
+- Encoding A: „OS · SP4 (Conceptualizing) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
