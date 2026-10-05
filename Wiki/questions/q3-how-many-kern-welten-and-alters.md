@@ -443,3 +443,13 @@ Worlds: „The four Kernwelten (Core Worlds) are simulated realities created by 
 Alters: the blueprint says „the existence of eleven identified alters“ ^[ai-assisted-narrative-coherence.md:L431], and in the next section „The following table profiles the most significant alters within“ ^[ai-assisted-narrative-coherence.md:L435] System Kael, with rows for Kael, Lex, Nyx, Kiko, Rhys and Selene. The Kael biography: „The table below profiles the five most significant alters who define Kael's internal landscape and his path toward integration.“ ^[ai-assisted-narrative-coherence.md:L1101] — Kael, Lex, Nyx, Kiko and Selene. The architecture analysis's table, under „Kael's psyche is modeled on the Theory of Tertiary Structural Dissociation (TSDP)“ ^[ai-assisted-narrative-coherence.md:L1749], lists Kael, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Lex, Alex, Rhys and Argus.
 
 It stands with the record's open count: the same compilation says eleven and tabulates fewer in two parts; the record is not changed.
+
+## 2026-10-05 — the author: thirteen alters (one part of Q3)
+
+Asked *Wie viele Anteile trägt das Buch?* with the two counts the sources give — eleven in the TSDP analysis of
+2025-04-28 (`kael-system-tsdp-analyse-und-profile`, L15) and thirteen in the character bible of 2026-05-08 with Silas and
+Oblivion (`kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, L298) — the author chose **thirteen, as the bible**:
+Kael (host), Lex, Alex, Rhys, Selene, Argus, Nyx (with Isabelle as part of her, decision 025 step 29), Kiko, Lia, Moros,
+Silas, Oblivion. **This answers the alter count only.** How many Kern-Welten there are, and whether a Kern-Welt
+corresponds to an alter, stays open; so does the question's status.
+
