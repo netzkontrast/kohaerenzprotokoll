@@ -133,3 +133,13 @@ In the record's terms the analysis relates the Überwelt to the Kernwelten (ente
 Teil II of its plot: Kael „steigt in den Nexus (die Überwelt) auf“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L28].
 
 In the record's terms the report relates the Nexus to the Überwelt by a parenthesis and to no other name; it decides nothing.
+
+## 2026-10-05 — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry
+
+**The registry gives the Überwelt the name Nexus in brackets and describes it as the guardians' data level.**
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+W-05 (four stars), concept cell „Die Überwelt (Nexus)“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L82]: „Abstrakte, meta-kognitive Daten-Ebene der AEGIS-Guardians, basierend auf dem Zero-Trust Execution Model.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L82]
+
+It stands as one more place where Nexus and Überwelt are written together; it says nothing of the Überraum.
