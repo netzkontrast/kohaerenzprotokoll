@@ -1,6 +1,6 @@
 {
   "status": "proposal",
-  "provenance": "Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–41. Merged 2026-10-05 (Claude, decision 025 step 44) with the scene lists of Akt I and II and the event table: the alters by name, numbers, the three deletion targets and the deadline to the maintenance window, the clocks of A and B; Kap 35 a partial collapse (step 43). Kap 27, 29, 30, 31, 33, 36, 37 added 2026-10-05 (Claude, step 44) from the weave, anteile.json, the signposts of Akt III and IV and the clocks. Storypoints decided by the author 2026-10-05 (step 45): Kael's unique ability Thought in Kap 1, his critical flaw Speculation in Kap 13; catalyst Threat in Kap 2, 13, 27; inhibitor Denial in Kap 4, 11, 18; consequence in Kap 34; forewarnings in Kap 12, 23; A's Story Costs only at the turns 9, 13, 26, 34.",
+  "provenance": "Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–41. Merged 2026-10-05 (Claude, decision 025 step 44) with the scene lists of Akt I and II and the event table: the alters by name, numbers, the three deletion targets and the deadline to the maintenance window, the clocks of A and B; Kap 35 a partial collapse (step 43). Kap 27, 29, 30, 31, 33, 36, 37 added 2026-10-05 (Claude, step 44) from the weave, anteile.json, the signposts of Akt III and IV and the clocks. Storypoints decided by the author 2026-10-05 (step 45): Kael's unique ability Thought in Kap 1, his critical flaw Speculation in Kap 13; catalyst Threat in Kap 2, 13, 27; inhibitor Denial in Kap 4, 11, 18; consequence in Kap 34; forewarnings in Kap 12, 23; A's Story Costs only at the turns 9, 13, 26, 34. Round 2 by the author 2026-10-05 (step 46): AEGIS' unique ability Control in Kap 6, critical flaw Oppose in Kap 28; Juna's unique ability Actuality in Kap 32, critical flaw Equity in Kap 11; Kap 32 carries A-IC symptom and response, not the concern Past; B's forewarnings in Kap 16, 22, consequence in Kap 39, dividends in Kap 31, requirements only in Kap 0 and 28.",
   "chapters": {
     "0": {
       "status": "proposal",
@@ -233,15 +233,15 @@
         ],
         [
           "B",
-          "Story Requirements"
-        ],
-        [
-          "B",
           "Main Character Concern"
         ],
         [
           "B",
           "Objective Story Concern"
+        ],
+        [
+          "B",
+          "Main Character Unique Ability"
         ]
       ]
     },
@@ -390,6 +390,10 @@
         [
           "A",
           "Objective Story Inhibitor"
+        ],
+        [
+          "A",
+          "Influence Character Critical Flaw"
         ]
       ]
     },
@@ -579,10 +583,6 @@
         ],
         [
           "B",
-          "Story Requirements"
-        ],
-        [
-          "B",
           "Main Character Issue"
         ],
         [
@@ -604,6 +604,10 @@
         [
           "B",
           "Objective Story Benchmark"
+        ],
+        [
+          "B",
+          "Story Forewarnings"
         ]
       ]
     },
@@ -803,10 +807,6 @@
         ],
         [
           "B",
-          "Story Requirements"
-        ],
-        [
-          "B",
           "Main Character Issue"
         ],
         [
@@ -820,6 +820,10 @@
         [
           "B",
           "Objective Story Problem"
+        ],
+        [
+          "B",
+          "Story Forewarnings"
         ]
       ]
     },
@@ -1055,6 +1059,10 @@
         [
           "B",
           "Objective Story Benchmark"
+        ],
+        [
+          "B",
+          "Main Character Critical Flaw"
         ]
       ]
     },
@@ -1176,6 +1184,10 @@
         [
           "B",
           "Relationship Story Benchmark"
+        ],
+        [
+          "B",
+          "Story Dividends"
         ]
       ]
     },
@@ -1198,10 +1210,6 @@
       "open": "Welche Antwort zeigt ihre Haltung und wahrt zugleich ihre Freiheit?",
       "storypoints": [
         [
-          "A",
-          "Influence Character Concern"
-        ],
-        [
           "B",
           "Influence Character Symptom"
         ],
@@ -1212,6 +1220,18 @@
         [
           "B",
           "Influence Character Benchmark"
+        ],
+        [
+          "A",
+          "Influence Character Unique Ability"
+        ],
+        [
+          "A",
+          "Influence Character Symptom"
+        ],
+        [
+          "A",
+          "Influence Character Response"
         ]
       ]
     },
@@ -1485,6 +1505,10 @@
         [
           "B",
           "Influence Character Solution"
+        ],
+        [
+          "B",
+          "Story Consequence"
         ]
       ]
     }

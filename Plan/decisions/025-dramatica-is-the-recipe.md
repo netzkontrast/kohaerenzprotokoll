@@ -254,6 +254,12 @@ with the consequences of each option laid out.
     removed); B's stay in AEGIS' own chapters, where they are the memory its clock costs. Catalyst and inhibitor count as
     story-wide in the weave check, though the NCP profile files them under the objective story. The act-rhythm
     references remain as proposals beside these decisions.
+46. **Storypoints, round 2 (2026-10-05).** AEGIS' unique ability **Control** in Kap 6 (the first sweep succeeds), its
+    critical flaw **Oppose** in Kap 28 (the purge against every movement); Juna's unique ability **Actuality** in Kap 32
+    (she sees what is real), her critical flaw **Equity** in Kap 11 (she balances for everyone, against herself). Kap 32
+    carries A-IC symptom and response like the rest of Akt III, not the concern Past. B's forewarnings in Kap 16 and 22,
+    its consequence in Kap 39 (AEGIS becomes plural), its dividends in Kap 31 (AEGIS grasps the pattern), its
+    requirements only in Kap 0 and 28, the first and the last sweep.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
