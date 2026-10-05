@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -54,6 +54,14 @@ Position: Teil II; setting from the `Schauplatz` field: „Der ontologische Kern
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS, Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L265]
 - Story: the blueprint plans, in `Plot-Beats`, „Die ultimative Erkenntnis des zweiten Aktes“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L267] and „Er fasst den Entschluss, AEGIS nicht zu zerstören, sondern das System von innen zu transzendieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L267]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Systemisches Trauma
+
+Title: „Systemisches Trauma“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L325] — heading „Der Preis des Wissens“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L326]
+Position: Teil II; POV from `Perspektive & Stimme`: „Polyphon (Schockzustand)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L327]; place from `Ort`: „Der Nexus“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L329]
+
+- Story: the matrix plans „Die Anteile streiten, Kael droht in eine finale Dissoziation (Katatonie) zu verfallen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L331]
+- Question: „Reicht es aus, die Wahrheit zu wissen, um geheilt zu sein?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L330]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
