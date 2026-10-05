@@ -1,0 +1,137 @@
+# counts for 107 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                2 word     2 in   [11, 17]
+  System Kael                       2 word     2 in   [17, 55]
+  Kael                             49 word    85 in   [17, 23, 24, 25, 27, 33]
+                                   36      as Kaels
+  AEGIS                            90 word   100 in   [17, 23, 24, 25, 27, 34]
+                                    3      as AEGIS-Paradoxons
+                                    1      as AEGIS-Kontrollmethoden
+                                    1      as AEGIS-Logik
+                                    1      as AEGIS-Kontrolle
+  Fehlausgerichtete Kohärenz        4 word     4 in   [24, 27, 83, 261]
+  Fehlausgerichteten Kohärenz       1 word     1 in   [17]
+  Kernparadoxon                     4 word     6 in   [17, 24, 83, 261, 299, 334]
+                                    2      as Kernparadoxons
+  Kernparadoxons                    2 word     2 in   [261, 299]
+  AEGIS Paradoxon                   4 word     4 in   [48, 183, 300, 381]
+  Paradoxon                        34 word    46 in   [17, 24, 34, 48, 84, 102]
+                                    7      as Paradoxons
+                                    1      as Paradoxon-Symptom
+  Konstrukt-Welten                  1 word     1 in   [24]
+  KWs                               4 word     4 in   [24, 235, 406]
+  KW1                               5 word     7 in   [91, 92, 100, 101, 109, 127]
+  KW2                               7 word     7 in   [127, 128, 136, 145, 226, 334]
+  KW3                               5 word     5 in   [163, 164, 289, 361]
+  KW4                               4 word     4 in   [230, 235, 236, 334]
+  Überwelt                          7 word     7 in   [203, 208, 217, 253, 298]
+  Fundament                        11 word    13 in   [17, 25, 34, 35, 50, 307]
+                                    2      as fundamental
+                                    1      as Fundaments
+                                    1      as fundamentale
+                                    1      as Fundament-Erkenntnisse
+  Juna/V                           29 word    29 in   [17, 25, 35, 50, 82, 83]
+  Riss                              4 word     5 in   [181, 182, 183, 190, 253]
+                                    1      as Risse
+  Glitches                          4 word     4 in   [27, 91, 92, 181]
+  Echo                              3 word     4 in   [82, 83, 136, 379]
+                                    1      as Echos
+  Genesis                           3 word     3 in   [77, 352, 456]
+  Guardians                         3 word     3 in   [49, 235, 325]
+  Guardian                          5 word     8 in   [49, 100, 127, 163, 165, 235]
+                                    3      as Guardians
+  LogOS                             8 word     8 in   [100, 101, 154, 156, 334, 343]
+  Mnemosyne                        11 word    13 in   [127, 128, 129, 136, 137, 138]
+                                    2      as Mnemosynes
+  Cerberus                          9 word     9 in   [163, 164, 165, 289, 291, 356]
+  Kairos                            2 word     2 in   [235, 237]
+  Sophia                            2 word     2 in   [235, 237]
+  Host                              2 word     3 in   [62, 91, 127]
+                                    1      as Host-Perspektive
+  Lex                              16 word    16 in   [63, 64, 91, 100, 101, 109]
+  Alex                             11 word    11 in   [63, 64, 108, 109, 110, 154]
+  Rhys                             11 word    11 in   [65, 118, 119, 172, 173, 226]
+  Argus                             8 word     8 in   [66, 181, 190, 191, 208, 244]
+  Nyx                               4 word     4 in   [67, 163, 289, 361]
+  Selene                            8 word     8 in   [68, 173, 271, 272, 316, 317]
+  Kiko                              6 word     6 in   [69, 127, 136, 163, 164, 289]
+  Lia                               2 word     2 in   [70, 136]
+  Moros                             3 word     3 in   [71, 127, 136]
+  ANP                              27 word    48 in   [23, 25, 27, 61, 62, 63]
+  ANPs                             11 word    11 in   [23, 25, 27, 69, 70, 71]
+  EP                               18 word    45 in   [23, 25, 27, 61, 62, 63]  <-- substring
+  EPs                              15 word    15 in   [23, 25, 62, 63, 92, 117]
+  Apparently Normal Parts           1 word     1 in   [23]
+  Emotional Parts                   1 word     1 in   [23]
+  Phobien                          12 word    13 in   [17, 25, 61, 118, 144, 145]
+  Switches                          2 word     2 in   [145, 146]
+  Funktionale Multiplizität         5 word     5 in   [174, 318, 426, 434, 435]
+  funktionale Multiplizität         1 word     1 in   [432]
+  funktionaler Multiplizität        3 word     3 in   [173, 423, 433]
+  Ko-Bewusstsein                    3 word     3 in   [171, 173, 174]
+  Konferenzzimmer                   1 word     1 in   [172]
+  Internal Conference Room          2 word     2 in   [47, 174]
+  Meta-Beobachter                   2 word     2 in   [66, 191]
+  Meta-Analyse                      2 word     2 in   [17, 66]
+  Innere Reise                      1 word     1 in   [17]
+  Äußere Konfrontation              1 word     1 in   [17]
+  Drei-Akt-Struktur                 1 word     1 in   [17]
+  Plot Point 1                      1 word     1 in   [199]
+  Kael Integration                  1 word     1 in   [47]
+  Guardians (Mini-Bosse)            1 word     1 in   [49]
+  Central Conceptual Focus         40 word    40 in   [81, 90, 99, 108, 117, 126]
+  Narrative & Reader Psychology Strategy   40 word    40 in   [82, 91, 100, 109, 118, 127]
+  Research & Concept Application   40 word    40 in   [83, 92, 101, 110, 119, 128]
+  Recherche-Keywords               40 word    40 in   [84, 93, 102, 111, 120, 129]
+  Kernprämisse                      1 word     1 in   [15]
+  Kernthemen                        2 word     2 in   [29, 31]
+  Das Fragmentierte Selbst und die Suche nach Kohärenz    1 word     1 in   [33]
+  Das Paradox der Kontrolle in komplexen Realitäten    1 word     1 in   [34]
+  Sinnfindung im Indifferenten Kosmos    1 word     1 in   [35]
+  Emergenz                         14 word    14 in   [37, 83, 84, 236, 237, 262]
+  Verteidigungs-Action-Systems      1 word     1 in   [108]
+  Verteidigungs-Action-System       1 word     3 in   [108, 110, 164]  <-- substring
+                                    1      as Verteidigungs-Action-Systems
+                                    1      as Verteidigungs-Action-Systeme
+  Action Systems                    5 word     5 in   [111, 120, 165, 218, 290]
+  TSDP                             37 word    46 in   [17, 23, 25, 33, 47, 55]
+                                    3      as TSDP-Behandlung
+                                    1      as TSDP-Dynamiken
+                                    1      as TSDP-basierte
+                                    1      as TSDP-Prinzipien
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [17]
+  Heldenreise                       4 word     4 in   [17, 47, 201, 318]
+  Heroine's Journey                 2 word     2 in   [17, 198]
+  Kybernetik zweiter Ordnung        3 word     3 in   [24, 245, 246]
+  Systemtheorie                    10 word    10 in   [24, 48, 84, 209, 210, 218]
+  Simulationstheorie                7 word     7 in   [24, 93, 183, 191, 192, 389]
+  Harte Problem des Bewusstseins    1 word     1 in   [23]
+  Qualia                            5 word     5 in   [23, 43, 129, 263, 472]
+  Gaslighting                       5 word     5 in   [24, 52, 154, 155, 156]
+  Panoptismus                       2 word     2 in   [91, 93]
+  Locke                             3 word     3 in   [23, 191, 444]
+  Parfit                            1 word     1 in   [191]
+  Hume                              3 word     3 in   [93, 218, 219]
+  Hobbes                            2 word     2 in   [110, 111]
+  Buber                             1 word     1 in   [173]
+  Kuhn                              1 word     1 in   [182]
+  Levinas                           1 word     1 in   [254]
+  Sartre                            8 word     8 in   [200, 201, 416, 417, 464, 465]
+                                    1      as sartre-existentialisme
+  Gödel                             3 word     3 in   [24, 335, 336]
+  Russell                           6 word     6 in   [24, 335, 336, 457, 458]
+                                    1      as russell-paradox
+  Popper                            2 word     2 in   [344, 345]
+  Heinz von Foerster                2 word     2 in   [246, 453]
+  Luhmann                           1 word     1 in   [246]
+  Aristoteles                       1 word     1 in   [236]
+  Paradox der Toleranz              2 word     2 in   [344, 345]
+  Cosmic Horror                    11 word    11 in   [17, 35, 50, 84, 254, 255]
+  Hard Science Fiction              1 word     1 in   [17]
+  Psychologischer Thriller          1 word     1 in   [156]
+  Philosophischer Fiktion           1 word     1 in   [17]
+  Cyberspace                        2 word     2 in   [51, 210]
+  Unreliable Narrator               2 word     2 in   [52, 93]

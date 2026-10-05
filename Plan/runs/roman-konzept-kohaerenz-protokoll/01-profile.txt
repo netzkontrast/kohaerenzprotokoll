@@ -1,0 +1,14 @@
+# roman-konzept-kohaerenz-protokoll
+  lines                477  (frontmatter ends at 9)
+  body words           7028
+  headings             44   bold-only lines 6
+  table rows           13   code fences 0
+  question marks       70
+  backslash escapes    165
+  typographic marks    20   ascii quotes 36
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    93
+  repeated labels      Central Conceptual Focus x40, Narrative & Reader Psychology Strategy x40, Recherche-Keywords x40, Research & Concept Application x40
+  longest line         1684 chars
+

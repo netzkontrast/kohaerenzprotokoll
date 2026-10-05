@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      93
+  backslash escapes      165
+  typographic marks      20
+  ascii quotes           36
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systeme, Systemen, Systemfehler, Systemgrenzen, Systemhomöostase, Systeminstabilität, Systemische, Systemischer, Systemkollaps, Systemmanipulation, Systemregeln, Systems, Systemtheorie, Systemtransformation, Systemwissen
+  kontr    Kontrast, Kontroll, Kontrolle, Kontrollinstanz, Kontrollinstrument, Kontrollmechanismen, Kontrollmechanismus, Kontrollmethoden, Kontrollsystem, Kontrollverlust, Kontrollversuche, Kontrollwunsch
+  reali    Realistischer, Reality, Realität, Realitäten, Realitäts, Realitätsebene, Realitätsebenen, Realitätskrise, Realitätssinns
+  erinn    Erinnerung, Erinnerungen, Erinnerungsarbeit, Erinnerungsauthentizität, Erinnerungsfragmente, Erinnerungsfragmenten, Erinnerungsfragmentierung, Erinnerungsrekonstruktion
+  psych    Psychedelic, Psychological, Psychologie, Psychologische, Psychologischem, Psychologischer, Psychologisches, Psychology
+  exist    Existence, Existentialism, Existentialisme, Existenz, Existenzialismus, Existenzialistische, Existenzielle
+  parad    Paradigmen, Paradox, Paradoxe, Paradoxes, Paradoxien, Paradoxon, Paradoxons
+  bewus    Bewusste, Bewusstheit, Bewusstsein, Bewusstseins, Bewusstseinskontinuität, Bewusstwerdung
+  emoti    Emotion, Emotional, Emotionale, Emotionaler, Emotionalität, Emotionen
+  ident    Identifikation, Identity, Identität, Identitäts, Identitätsalteration, Identitätskonzepte
+  inter    Interaktion, Internal, Interne, Interner, Internet, Intervention
+  strat    Strategie, Strategieentwicklung, Strategien, Strategiewechsel, Strategisches, Strategy
+  beoba    Beobachter, Beobachterposition, Beobachterrolle, Beobachtet, Beobachtung
+  chara    Charakter, Charakterdynamik, Charakterentwicklung, Charakterreife, Charakterwahl
+  disso    Dissociation, Dissociative, Dissonanz, Dissoziation, Dissoziative
+  erken    Erkennen, Erkenntnis, Erkenntnisse, Erkenntnistheoretische, Erkenntnistheorie
+  intel    Intellektualisierung, Intellektuelle, Intellektueller, Intelligence, Intelligenz
+  selbs    Selbst, Selbsterkenntnis, Selbstorganisation, Selbstverteidigung, Selbstzweifel
+  verte    Verteidigung, Verteidigungs, Verteidigungsebene, Verteidigungslinien, Verteidigungssystem
+  wider    Widerspruch, Widersprüche, Widerstand, Widerstands, Widerstandskraft
+  überw    Überwachung, Überwachungssysteme, Überwelt, Überwindung, Überwältigung
+  fragm    Fragmentation, Fragmente, Fragmentierte, Fragmentierung
+  konze    Konzept, Konzepte, Konzepten, Konzeptionen
+  leben    Leben, Lebens, Lebenskunst, Lebensweg
+  moral    Moral, Moralische, Moralisches, Moralphilosophie
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Akteurin
+  Akte < Charakter
+  Akte < Charakterwahl
+  Akte < Charakterreife
+  Akte < Charakterdynamik
+  Akte < Charakterentwicklung
+  Alte < Inhalte
+  Alte < Verhalten
+  Alte < Identitätsalteration
+  Dies < Diese
+  Dies < Dieses
+  Echo < Echos
+  Ende < Tendenz
+  Ende < Wendepunkt
+  Ende < Einleitendes
+  Ende < Konfliktende
+  Ende < Transzendenz
+  Ende < Abschließendes
+  Ende < Integrierender
+  Evan < Relevante

@@ -35,7 +35,7 @@ Each of these but `Legacy/` has a README that says what is in it.
 ## Where things stand
 
 **586 <!--state:sources.landed--> of 587 <!--state:sources.total--> documents
-are landed, 97 <!--state:documents.reconciled--> are read and reconciled, and
+are landed, 98 <!--state:documents.reconciled--> are read and reconciled, and
 the wiki holds 106 <!--state:wiki.pages--> pages,
 17 <!--state:wiki.conflicts--> conflicts and 9 <!--state:wiki.questions-->
 questions.** Every number here is measured, and checked:
