@@ -57,6 +57,7 @@ def leaves(sf):
     for t in TL:
         out.update({f"{t}.{k}": v for k, v in sf[t].items()})
     out.update({f"plot.{k}": v for k, v in sf["plot"].items()})
+    out.update({k: sf[k] for k in ("logline", "genre") if sf.get(k)})
     return out
 
 
@@ -143,7 +144,7 @@ def ncp(sf):
                           "storytelling": f"{sf['chapters'][str(i)]}. Herkunft: {prov[f'{t}.signposts']}; nicht berechnet.",
                           "perspectives": [{"perspective_id": PID[t]}]})
     return {"schema_version": "1.3.0", "story": {
-        "id": f"story_kp_storyform_{k}", "title": "Kohärenz Protokoll — " + sf["title"], "logline": "", "genre": "",
+        "id": f"story_kp_storyform_{k}", "title": "Kohärenz Protokoll — " + sf["title"], "logline": sf.get("logline", ""), "genre": sf.get("genre", ""),
         "created_at": "2026-10-05T00:00:00Z",
         "narratives": [{"id": f"narrative-{k}", "title": sf["title"], "status": "draft",
                         "subtext": {"perspectives": persp, "players": [], "dynamics": dyn, "storypoints": sps,
@@ -161,8 +162,10 @@ def overview(forms):
     for k in twelve(a):
         L.append(f"| {k} | {twelve(a)[k]} | {twelve(b)[k]} |")
     for sf in forms:
-        L += ["", f"## {sf['title']}", "",
-              "| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |", "|---|---|---|---|---|---|---|"]
+        L += ["", f"## {sf['title']}", ""]
+        L += [f"**Logline:** „{sf['logline']}\"", ""] if sf.get("logline") else []
+        L += [f"**Genre:** {sf['genre']}", ""] if sf.get("genre") else []
+        L += ["| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |", "|---|---|---|---|---|---|---|"]
         for t in TL:
             s = sf[t]
             L.append(f"| {t} | {sf['classes'][t]} | {s.get('concern', '—')} | {s.get('issue', '—')} | "

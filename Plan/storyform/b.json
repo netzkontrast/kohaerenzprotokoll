@@ -3,6 +3,8 @@
  "title": "Storyform B — Phönix-Kollaps (K0)",
  "decision": "Plan/decisions/025-dramatica-is-the-recipe.md",
  "premise": "Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung — und Liebe ist die Ordnung, die Vielheit trägt.",
+ "logline": "Eine KI, die ihre Welt durch lückenlose Sweeps schließen will, verliert mit jedem Sweep ihr eigenes Gedächtnis — und scheitert an dem einen Host, der lernt, was sie nie kann: zu glauben.",
+ "genre": "Hard-SF / Philosophical Horror / Psychological Thriller",
  "chapters": {
   "1": "Akt I, Kap 1–13",
   "2": "Akt II, Kap 14–26",
@@ -110,8 +112,7 @@
   }
  ],
  "open": [
-  "the other archetypes (W10)",
-  "logline, genre"
+  "the other archetypes (W10)"
  ],
  "texts": {
   "perspectives": {
@@ -232,6 +233,8 @@
   "IC.focus": "author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); the other pair of the quad",
   "IC.direction": "author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); the other pair of the quad",
   "RS.focus": "author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic)",
-  "RS.direction": "author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic)"
+  "RS.direction": "author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic)",
+  "logline": "author, 2026-10-05, logline (session draft from goal, consequence, costs and outcome)",
+  "genre": "author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)"
  }
 }
