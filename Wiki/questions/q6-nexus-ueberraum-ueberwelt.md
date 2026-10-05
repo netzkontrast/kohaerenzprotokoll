@@ -143,3 +143,11 @@ The document is a generated report about other texts that it names only by numbe
 W-05 (four stars), concept cell „Die Überwelt (Nexus)“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L82]: „Abstrakte, meta-kognitive Daten-Ebene der AEGIS-Guardians, basierend auf dem Zero-Trust Execution Model.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L82]
 
 It stands as one more place where Nexus and Überwelt are written together; it says nothing of the Überraum.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report
+
+**The research report writes `Überwelt (Nexus)` as one level.**
+
+Table row: „Eine abstrakte, metakognitive Ebene der reinen Datenverarbeitung oberhalb von KW1-KW4.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L78] In Akt II: „Kael verlässt die physische Simulation und steigt in den“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211] `Nexus` (die Überwelt). It does not use `Überraum`.
+
+Stands: Nexus and Überwelt are one name pair in this report (L78, L211).
