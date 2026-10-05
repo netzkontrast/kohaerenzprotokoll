@@ -1,10 +1,10 @@
 ---
 term: LogOS
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation"]
 gathered: "2026-09-17"
 ---
 
@@ -44,6 +44,10 @@ principle: each section is a `Guardian/Welt-Paar`.
 ## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — LogOS as a subsystem of the writing assistant
 
 This document is a software specification for a writing assistant that borrows the novel's names. Its table lists the subsystem `LogOS` with the status ANP and the task „Erzwingt absolute geometrische Ordnung.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L186] It watches the line budgets and the YAML metadata, and „Jeder Token-Überlauf wird als feindlicher Akt gewertet“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L186].
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — Guardian of the Construct City, whose blind spot is the Partner
+
+The manifest says the Construct City „is delegated to the Guardian subsystem designated as LogOS“ ^[aegis-persona-and-manifest-generation.md:L61], which is „the embodiment of pure, system-immanent reason“ ^[aegis-persona-and-manifest-generation.md:L61]. It „functions as the chief diagnostician for all errors manifesting as deviations from defined rules, protocols, or architectural blueprints“ ^[aegis-persona-and-manifest-generation.md:L63]. Its blind spot is „its fundamental inability to process ambiguity, unresolvable paradoxes, emotional data, intuition, or holistic relational concepts that defy boolean categorization“ ^[aegis-persona-and-manifest-generation.md:L65]. As a consequence LogOS „cannot perceive or process any external anomalous variable“ ^[aegis-persona-and-manifest-generation.md:L65], and the manifest names such a variable as the relational entity designated in corrupted legacy files as `Partner` (inner marks the manifest's). In the Overworld the manifest says LogOS is „a perfectly rotating crystal or a complex, continuously reconfiguring structure of light lines and data streams“ ^[aegis-persona-and-manifest-generation.md:L69]. It also says LogOS enforces the `Line Budgets` through a `Hard Glitch Cut`, in the manifest's own execution vocabulary.
 
 ## Open
 
