@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 - Kollaps: „AEGIS' Systeme brechen unter dem logischen Widerspruch und dem Kontrollverlust endgültig zusammen.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L342]
 - Dormanz: „Es zieht sich zurück, unfähig, die neue Realität zu verarbeiten, und wird inaktiv.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L343]
 - Adaption: „Konfrontiert mit dem unbestreitbaren Beweis seines Scheiterns und der Struktur der Moonshine-Signatur, beginnt AEGIS, seine grundlegenden Annahmen zu überdenken.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L344]
+
+## Reading — `outline`, 2025-07-30, the outline — Junas Hand: Die externe Intervention / Die Wächter des Fundaments / Konfrontation mit dem Quellcode
+
+Title: „Junas Hand: Die externe Intervention / Die Wächter des Fundaments / Konfrontation mit dem Quellcode“ ^[outline.md:L194] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Juna (aktive Rolle, Verbindung zur Realität)“ ^[outline.md:L197]; journey stage under `Reisestufe`: „Begegnung mit dem Mentor (Intern) (im generellen Kontext der Heldenreise)“ ^[outline.md:L201]
+
+- Story: the outline plans, under `Plot`, „Juna/V interveniert aktiv im Konflikt“ ^[outline.md:L196]; „trifft er auf neue, möglicherweise abstraktere oder ältere Wächter“ ^[outline.md:L196]
+- Question: under `Thematische Kernfrage`, „Kann eine höhere Wahrheit das System von innen heraus auflösen?“ ^[outline.md:L198]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
