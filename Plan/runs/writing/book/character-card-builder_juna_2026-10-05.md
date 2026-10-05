@@ -30,12 +30,19 @@ das nichts an ihrem Urvertrauen ineinander ändern kann“
 → im Buch: der Anruf. Beide schweigen, obwohl beide wissen, dass sie ein Paar würden, wenn einer spräche. Nach langer
 Wartezeit sagt Juna, dass sie ihre alte Beziehung wählt. Klar bleibt, dass das ihr Urvertrauen ineinander nicht ändert.
 
+**F4.** In dieser langen Wartezeit hätte Juna als Erste sprechen können. Was hätte sie aufs Spiel gesetzt, wenn sie es
+getan hätte? Was stand für *sie* auf dem Spiel, nicht für Kael?
+
+**A4.** „Ihre Beziehung mit ihrem ex-Partner- und es wäre einfach auch sehr schwierig für uns beide geworden“
+→ im Buch: Sie hätte ihre Beziehung mit ihrem (damaligen) Partner aufs Spiel gesetzt, und es wäre für beide sehr
+schwierig geworden.
+
 ## Die Karte, so weit
 
 | Feld | Stand |
 |---|---|
 | Function | IC von Storyform A (Change), Signposts Past → Progress → Present → Future (Entscheidung 025) |
-| Want | offen. Ihre erste Tat im Buch ist eine Wahl: Sie wählt ihre alte Beziehung (A3). |
+| Want | offen. Ihre erste Tat im Buch ist eine Wahl: Sie wählt ihre alte Beziehung (A3); Sprechen hätte diese Beziehung aufs Spiel gesetzt und es „für beide“ sehr schwierig gemacht (A4). |
 | Need | offen |
 | Wound → Lie | offen |
 | Contradiction | Kandidat, aus A3: Sie wählt die alte Beziehung, und das Urvertrauen zu Kael bleibt unberührt. Noch nicht als Widerspruch bestätigt. |
