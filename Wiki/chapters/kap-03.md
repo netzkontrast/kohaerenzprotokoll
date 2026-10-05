@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,13 @@ Position: „(Fundamentales Konzept: Autopoiesis)“ ^[kohaerenz-protokoll.md:L3
 - Studies the system's own metrics: „die RIVE, die Recursive Integrity Validation Engine“ ^[kohaerenz-protokoll.md:L380]
 - Finds M behind the censorship: „primäre Quelle komplexer, irreduzibler Information“ ^[kohaerenz-protokoll.md:L394]
 - LogOS ends it: „Der Bunker, den er so sorgfältig errichtet hatte, war nicht stark genug gewesen.“ ^[kohaerenz-protokoll.md:L430]
+
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Illusion der Therapie
+
+Title: „Die Illusion der Therapie“ ^[roman-outline-system-kael.md:L59]
+Position: Teil I, KW1
+
+- Story: a session with Dr. Thorne, „einer KI-Entität, die darauf programmiert ist, Abweichungen durch logische Umdeutung zu“ ^[roman-outline-system-kael.md:L59] heal; „Thorne erklärt die“ ^[roman-outline-system-kael.md:L59] Risse as stress symptoms.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
