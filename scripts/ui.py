@@ -52,7 +52,15 @@ root sized as its `$preview`; the `support.js` head line exact; `data-props`
 valid JSON; every link, citation and relation in the data pointing at something
 that exists; and the counts equal to the measurements. The component's syntax is
 checked with `node --check` when `node` is present, and said to be unchecked when
-it is not.
+it is not; with node, every item is also taken to its address and back (below).
+
+## Addresses
+
+On the website (not inside a canvas frame) the app keeps its state in the URL:
+`#/wiki/<slug>`, `#/conflicts/C2`, `#/questions/Q3` or `#/questions/agenda`,
+`#/corpus/<slug>`, `#/graph/<term|doc|conflict|question>/<id>`, `#/process/<tab>[/<id>]`.
+Stable ids, never list positions, so a link survives a rebuild; the back button
+retraces the screens; a hash not starting `#/` is a section anchor and is left alone.
 """
 
 from __future__ import annotations
@@ -1061,6 +1069,47 @@ def check_script(data: dict, js: str | None = None) -> tuple[list[str], str]:
     return [], "the component's syntax checked with node --check"
 
 
+ROUTE_HARNESS = """
+const c = new Component(); c.props = {}; c.state = {};
+const D = c.kp(); const bad = [];
+const rt = (st, label) => {
+  c.state = Object.assign({}, st); const h = c.route(); const back = c.unroute(h);
+  c.state = back || {}; const h2 = back ? c.route() : null;
+  if (h2 !== h) bad.push(label + ': ' + h + ' comes back as ' + h2);
+};
+['now', 'wiki', 'conflicts', 'questions', 'graph', 'corpus', 'process'].forEach((x) => rt({ screen: x }, 'screen ' + x));
+D.pages.forEach((x, i) => rt({ screen: 'wiki', page: i }, 'page ' + x.s));
+D.conflicts.forEach((x, i) => rt({ screen: 'conflicts', conf: i }, 'conflict ' + x.id));
+D.questions.forEach((x, i) => rt({ screen: 'questions', ques: i }, 'question ' + x.id));
+rt({ screen: 'questions', ques: -1 }, 'the agenda');
+D.rows.forEach((x, i) => rt({ screen: 'corpus', crow: i }, 'row ' + x.slug));
+D.graph.nodes.forEach((x, i) => rt({ screen: 'graph', gsel: i }, 'node ' + x.label));
+D.decisions.forEach((x, i) => rt({ screen: 'process', ptab: 'decisions', pdec: i }, 'decision ' + x.id));
+D.principles.forEach((x, i) => rt({ screen: 'process', ptab: 'principles', pprin: i }, 'principle ' + x.id));
+D.compare.forEach((x, i) => rt({ screen: 'process', ptab: 'compare', pcmp: i }, 'record ' + x.k));
+console.log(JSON.stringify(bad));
+"""
+
+
+def check_routes(data: dict, js: str | None = None) -> tuple[list[str], str]:
+    """(problems, what was checked). Every page, conflict, question, row, graph node, decision,
+    principle and record taken to its address (`route()` in ui.js) and back (`unroute()`): an
+    address that does not lead back to what made it is a link that opens the wrong thing."""
+    node = shutil.which("node")
+    if not node:
+        return [], "the addresses were NOT checked: node is not installed"
+    stub = "class DCLogic { constructor() { this.props = {}; this.state = {}; } setState(p) { Object.assign(this.state, p); } }\n"
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "routes.js"
+        path.write_text(stub + data_script(data, js) + ROUTE_HARNESS, encoding="utf-8")
+        proc = subprocess.run([node, str(path)], capture_output=True, text=True)
+    if proc.returncode:
+        return [f"addresses: {(proc.stderr.strip().splitlines() or ['the harness failed'])[-1]}"], "addresses"
+    bad = json.loads(proc.stdout.strip().splitlines()[-1])
+    return [f"address — {b}" for b in bad[:10]] + ([f"address — and {len(bad) - 10} more"] if len(bad) > 10 else []), \
+        "every item's address taken there and back with node"
+
+
 def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[str]]:
     """(problems, notes) for what `build` wrote."""
     project = out / "canvas" / "project"
@@ -1074,7 +1123,8 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
     data = data if data is not None else json.loads((out / "data.json").read_text(encoding="utf-8"))
     problems += check_data(data)
     script_problems, note = check_script(data)
-    return problems + script_problems, [note]
+    route_problems, route_note = check_routes(data) if not script_problems else ([], "addresses not checked: the syntax failed")
+    return problems + script_problems + route_problems, [note, route_note]
 
 
 # ---------------------------------------------------------------- selftest
@@ -1122,6 +1172,10 @@ def selftest() -> tuple[list[str], list[str]]:
             syntax, _ = check_script(data, broken_js)
             if not syntax:
                 failures.append("a syntax error in the component: not reported by node --check")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("if (i >= 0) st.conf = i;", "", 1)
+            lost, _ = check_routes(data, lost_js)
+            if not any("conflict C1" in p for p in lost):
+                failures.append(f"an address that loses its conflict: not reported — got {lost[:2]}")
         else:
             unrun.append("node absent: the syntax case did not run")
     return failures, unrun
@@ -1137,7 +1191,7 @@ def main(argv: list[str]) -> int:
         for u in unrun:
             print(f"  not run  {u}")
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
-              "(clean build, 6 markup, 2 data, 1 syntax)")
+              "(clean build, 6 markup, 2 data, 1 syntax, 1 address)")
         return 1 if failures else 0
     data = build(OUT, checks="--no-checks" not in argv)
     project = OUT / "canvas" / "project"

@@ -64,6 +64,10 @@ from here — those are decisions, and an ingest proposes rather than resolves.
   whole corpus document to OpenRouter (`NOW.md`).
 - **The key comes from the environment**, as `CLAUDE.md` says, and from `.env`
   only as a fallback.
+- **Every call through `lmrun`** (2026-10-02, SPEC.md step 7). The LM is built by
+  `lmrun.make_lm` and the program run by `lmrun.call`, so a run leaves one record in
+  `Plan/runs/<slug>/lm/rlm-ingest.jsonl` — raw output, status, usage, cost — and a call that
+  fails leaves its record and no candidate list. `--approval` stays this script's own (decision 008).
 - **A forced answer is never a reading** (2026-09-24). When `max_iters` runs
   out, `dspy.RLM` has an extract step build the outputs from the trajectory and
   sets `final_reasoning` to „Extract forced final output"; the list looks like
@@ -240,30 +244,43 @@ def verified(slug: str, rows: list[tuple[str, int]]) -> tuple[list[str], list[st
 
 
 def run(slug: str, model: str, iters: int, calls: int, sub_model: str | None,
-        approval: str | None) -> Path:
+        approval: str | None, lm=None, interpreter_factory=None, runs: Path = RUNS) -> Path | None:
+    """One reading. Every model call goes through `lmrun.call` (SPEC.md step 7): approval and cache checks,
+    one record per call under `<runs>/<slug>/lm/rlm-ingest.jsonl` with raw outputs, status, usage and cost — a
+    call that is `unreachable`, `unparsed` or `refused` leaves its record and no candidate list. `lm` and
+    `interpreter_factory` are the offline fixture's way in (`--loop-selftest`)."""
     import dspy
+    import lmrun
     if not approval:
         raise SystemExit("--approval is required: this sends a whole corpus document to "
                          "OpenRouter. Name the author's decision that allows it (NOW.md).")
     skills, instructions = briefing()
-    lm = dspy.LM(model, api_key=api_key(), api_base=BASE, max_tokens=16000, temperature=0,
-                 cache=False)
-    sub = (dspy.LM(sub_model, api_key=api_key(), api_base=BASE, max_tokens=8000,
-                   temperature=0, cache=False) if sub_model else None)
-    dspy.configure(lm=lm)
+    if lm is None:
+        provider = {} if model.startswith(("claude-cli/", "route/")) else {"api_key": api_key(), "api_base": BASE}
+        lm = lmrun.make_lm(model, max_tokens=16000, temperature=0, **provider)
+    sub = (lmrun.make_lm(sub_model, max_tokens=8000, temperature=0,
+                         **({} if sub_model.startswith(("claude-cli/", "route/")) else {"api_key": api_key(), "api_base": BASE}))
+           if sub_model else None)
+    kw = {"interpreter_factory": interpreter_factory} if interpreter_factory else {}
     rlm = dspy.RLM("document: str, task: str -> candidates: str", max_iters=iters,
-                   max_llm_calls=calls, tools=tools_for(slug), sub_lm=sub)
+                   max_llm_calls=calls, tools=tools_for(slug), sub_lm=sub, **kw)
 
     started = time.time()
-    with dspy.track_usage() as usage:
-        result = rlm(document=numbered(slug),
-                     task=TASK.format(skills=skills, instructions=instructions)
-                     + "\n\nTwo tools are available in the REPL: `find_line(words)` returns "
-                       "the ^[Lnn] of the lines holding those exact words, and `count(term)` "
-                       "the number of lines holding a term. Prefer `find_line` to reading a "
-                       "number off a prefix.")
+    with dspy.context(lm=lm):
+        result, record = lmrun.call(
+            rlm, step="rlm-ingest", subject=slug, approval=approval, out_dir=runs / slug / "lm",
+            document=numbered(slug),
+            task=TASK.format(skills=skills, instructions=instructions)
+            + "\n\nTwo tools are available in the REPL: `find_line(words)` returns "
+              "the ^[Lnn] of the lines holding those exact words, and `count(term)` "
+              "the number of lines holding a term. Prefer `find_line` to reading a "
+              "number off a prefix.")
     elapsed = time.time() - started
-    tokens = usage.get_total_tokens() if usage else {}
+    tokens = record["usage"]
+    if result is None or record["status"] != "answered":
+        print(f"{record['status']}: no candidate list written; the call is recorded in "
+              f"{runs / slug / 'lm' / 'rlm-ingest.jsonl'} ({record['error'] or '; '.join(record['problems'])})")
+        return None
 
     rows, unread, uncited = [], [], []
     for raw in str(result.candidates).splitlines():
@@ -285,7 +302,7 @@ def run(slug: str, model: str, iters: int, calls: int, sub_model: str | None,
     forced = str(getattr(result, "final_reasoning", "")) == FORCED
     quality = judge(share, unread, uncited, tier2["share"], forced)
 
-    out = RUNS / slug / "03-candidates-rlm.md"
+    out = runs / slug / "03-candidates-rlm.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(
         f"written_by: dspy.RLM, model {model}, {iters} iterations, {elapsed:.0f}s — {quality}\n"
@@ -294,7 +311,7 @@ def run(slug: str, model: str, iters: int, calls: int, sub_model: str | None,
         f"reach: verified citations go to L{tier2['furthest']} of L{tier2['last']} "
         f"({tier2['share']:.0%}), in {tier2['tenths']} of 10 tenths of the document\n"
         f"forced: {'yes — the REPL ran out of iterations and DSPy extracted this answer from the trajectory' if forced else 'no'}\n"
-        f"cost: {tokens}\n"
+        f"cost: {tokens}, ${record['cost']:.4f}\n"
         f"approval: {approval}\n\n"
         f"# Candidates (model) — {slug}\n\n"
         "> **Not a gold list.** A gold candidate list is written by a reader while\n"
@@ -308,7 +325,7 @@ def run(slug: str, model: str, iters: int, calls: int, sub_model: str | None,
            + "\n".join(f"- {u}" for u in unread) if unread else "") + "\n",
         encoding="utf-8")
     print(f"{len(good)} verified of {total} in {elapsed:.0f}s "
-          f"({len(bad)} unverified, {len(uncited)} uncited) -> {out.relative_to(ROOT)}")
+          f"({len(bad)} unverified, {len(uncited)} uncited) -> {out}")
     if unread:
         print("the model reported unread parts:", "; ".join(unread)[:200])
     if forced:
@@ -366,8 +383,8 @@ def main(argv: list[str]) -> int:
     args = parser.parse_args(argv)
     if args.score:
         return score(args.slug)
-    run(args.slug, args.model, args.iters, args.calls, args.sub_model, args.approval)
-    return 0
+    out = run(args.slug, args.model, args.iters, args.calls, args.sub_model, args.approval)
+    return 0 if out else 1
 
 
 def selftest() -> int:
@@ -449,10 +466,31 @@ def loop_selftest() -> int:
         failures.append("an exhausted loop was not marked forced")
     if judge(1.0, [], [], 1.0, forced=True).startswith("a reading"):
         failures.append("a forced answer passed the reading gate")
+
+    # run() itself, through lmrun.call (SPEC.md step 7): an answered and an unparsed run each leave one record;
+    # only the answered one writes a candidate list
+    import json
+    import tempfile
+    slug = min((d.slug for d in __import__("subject").documents()), key=lambda d: (ROOT / "Sources" / "drive" / f"{d}.md").stat().st_size)
+    code = "SUBMIT(candidates='- Wort  ^[L1]')"
+
+    class Submit(ScriptedInterpreter):
+        def execute(self, code_, variables=None):
+            return FinalOutput({"candidates": "- Wort  ^[L1]"})
+    for label, lm, want_list in (("answered", FixtureLM(lambda m: chat(reasoning="Ich lese.", code=code)), True),
+                                 ("unparsed", FixtureLM(lambda m: "kein Format"), False)):
+        with tempfile.TemporaryDirectory() as tmp, offline(lm):
+            out = run(slug, "fixture", 2, 3, None, "fixture", lm=lm, interpreter_factory=Submit, runs=Path(tmp))
+            ledger = Path(tmp) / slug / "lm" / "rlm-ingest.jsonl"
+            rows = [json.loads(x) for x in ledger.read_text().splitlines()] if ledger.exists() else []
+            if len(rows) != 1 or rows[0]["status"] != label:
+                failures.append(f"{label} run: {len(rows)} records, {[r['status'] for r in rows]}")
+            if bool(out) != want_list or (Path(tmp) / slug / "03-candidates-rlm.md").exists() != want_list:
+                failures.append(f"{label} run: candidate list written {bool(out)}, wanted {want_list}")
     for failure in failures:
         print(f"  FAIL  {failure}")
-    print(f"rlm_ingest loop: {3 - len(failures)} of 3 offline cases hold "
-          "(submitted answer, forced answer, reading gate)")
+    print(f"rlm_ingest loop: {5 - len(failures)} of 5 offline cases hold "
+          "(submitted answer, forced answer, reading gate, an answered and an unparsed run recorded by lmrun)")
     return 1 if failures else 0
 
 
