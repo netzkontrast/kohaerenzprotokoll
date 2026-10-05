@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -53,6 +53,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael wird in KW1 mit einem Problem oder einer Aufgabe konfrontiert, die eine Lösung erfordert, die auf Empathie, Intuition oder Kontextverständnis basiert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „was zu absurden, falschen oder endlos schleifenden Ergebnissen führt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „Kael findet möglicherweise eine Lösung, indem er einen 'nicht-logischen' (aus KW1s Perspektive) Ansatz anwendet“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Integration of the masculine
+
+Title: „Integration des“ ^[romanstruktur-und-philosophische-einleitung.md:L101]
+Position: Teil I, „Logik als Werkzeug“ ^[romanstruktur-und-philosophische-einleitung.md:L101]
+
+- Story: the heading's title continues with the word `Männlichen` in quotation marks; „Kael erkennt, dass die Logik und die Aggression der Wächter nicht der Feind sind.“ ^[romanstruktur-und-philosophische-einleitung.md:L103]
+- Story: „Die Logik wandelt sich vom tyrannischen Herrscher zum wertvollen Werkzeug des“ ^[romanstruktur-und-philosophische-einleitung.md:L105] Self
+- Table 1 (Teil I) on Lex: „wird als Werkzeug integriert (Kap. 11)“ ^[romanstruktur-und-philosophische-einleitung.md:L125]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
