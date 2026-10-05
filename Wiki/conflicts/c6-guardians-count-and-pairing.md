@@ -341,3 +341,11 @@ Stands as a manifest in AEGIS's own voice that gives the count of five and the d
 §10 drops „Vier-Guardian-Soziopolitik mit Wächter-Zwiespalt und Rebellen-Fraktion.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L581] and records it as „Reduziert auf Mnemosyne“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L581] plus one erasing pole (L581). F3, tier `OFFEN`, asks whether „Reicht eine duale Guardian-Konstellation“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L498] is enough, with `Cerberus` or `LogOS` as the pole (L498); its former candidates are „LogOS, Mnemosyne, Cerberus, Kairos/Sophia.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L490] (L490). The Kanon pairs no Guardian with a world; the only link it draws is that Mnemosyne's Archipel is the setting of the climax (L494).
 
 Where it stands in the record's own terms: a position with two Guardians, dated 2026-04-30; the author decided the count on 2026-09-24, after this document, and this reading decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 lets two Guardians act, LogOS and Mnemosyne, and writes no pairing in these lines.**
+
+Kap 6: „Beide Guardians verfassen Reports an die übergeordnete AEGIS-Instanz.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L180] Kap 24: „Erstmals: zwei Guardians gegeneinander.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266] Kap 32: „Die Guardians sind allein. Nicht gestorben“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L306]
+
+Stands: two acting Guardians, LogOS and Mnemosyne, in the B chapters; C6's count stays decided by the author and the pairing stays Q5.
