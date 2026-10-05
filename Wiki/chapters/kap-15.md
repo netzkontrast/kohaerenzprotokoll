@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael führt absichtlich Aktionen durch, von denen er weiß, dass AEGIS sie überwacht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Story: „Er beginnt, eine mentale (oder tatsächliche) Karte des Überwachungsnetzes zu erstellen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Discussion: „Dieser Subplot macht Kael zu einem aktiven Ermittler des Systems.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L216]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The architecture of the guardians
+
+Title: „Die Architektur der Wächter“ ^[romanstruktur-und-philosophische-einleitung.md:L148]
+Position: Teil II, „Dekonstruktion“ ^[romanstruktur-und-philosophische-einleitung.md:L148]
+
+- Story: „Er erkennt, dass sie keine bewussten Wesen, sondern Subroutinen und Algorithmen von AEGIS sind“ ^[romanstruktur-und-philosophische-einleitung.md:L150]
+- Story: „Es ist eine Phase der Entmystifizierung der eigenen Hölle.“ ^[romanstruktur-und-philosophische-einleitung.md:L152]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
