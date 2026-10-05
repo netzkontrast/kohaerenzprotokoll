@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -52,6 +52,10 @@ Read as an externalised function of a traumatised mind, Kairos „ist das unterd
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — KW4 as the domain of Kairos/Sophia; Selene's world in Table 1
 
 In Kap 9 the three-part analysis has the parts gather, hedged with `vielleicht`, in what it calls the fourth Kern-Welt: „in der aufkeimenden **Kern-Welt 4 (KW4)**, der Domäne *Kairos/Sophia*.“ ^[romanstruktur-und-philosophische-einleitung.md:L93] Table 1 gives Selene's dominant world as „KW4 (Kairos)“ ^[romanstruktur-und-philosophische-einleitung.md:L130]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a Guardian and a place in Kap 9 to 10 and Kap 21
+
+The master blueprint sets Kap 9 and Kap 10 in „Kairos-Potentialis (KW4)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L125] and casts „Kairos (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L134] In Kap 10 he is „Kairos, der Hüter des Potenzials“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L136] In Kap 21 it is the creative guardian who inspires Kael's escape from AEGIS' loop: „bricht Kael die Schleife durch eine völlig absurde, unlogische (emergente) Handlung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L227]
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — KW4 and SC-04's guardian
 
