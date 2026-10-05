@@ -1,0 +1,83 @@
+Numbers stated in the note and census, each from the command that produced it.
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "Was passiert"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Was passiert` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#39]
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "Was verborgen bleibt"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Was verborgen bleibt` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#12]
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "Vorschlag"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Vorschlag` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#2]
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "Zur Diskussion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zur Diskussion` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#1]
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "Funktionale Multiplizität"
+whole word, case-sensitive     5
+whole word, case-insensitive   7
+including compounds            5
+
+`Funktionale Multiplizität` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#5]
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "funktionale Multiplizität"
+whole word, case-sensitive     1
+whole word, case-insensitive   7
+including compounds            1
+
+`funktionale Multiplizität` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#1]
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "Compositional Anomaly"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Compositional Anomaly` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#3]
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "Refragmentierung"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Refragmentierung` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#6]
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "Host"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            15
+
+`Host` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#10]
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "Mosaik"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            5
+
+`Mosaik` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#0]
+$ read.py kohaerenz-protokoll-outline-revision-2026-05-01-md --count "Mosaik-Ahnung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Mosaik-Ahnung` ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:#2]
+stance_marker_count 54 = Was passiert 39 + Was verborgen bleibt 12 + Vorschlag 2 + Zur Diskussion 1 (counts above).
+$ grep -n 'Host \\#734' Sources/drive/kohaerenz-protokoll-outline-revision-2026-05-01-md.md | cut -c1-8
+164:**PO
+188:**PO
+204:**PO
+228:**PO
+$ grep -n '?' Sources/drive/kohaerenz-protokoll-outline-revision-2026-05-01-md.md | cut -c1-8   (question marks, profile says 5)
+46:Ist L
+254:  - 
+382:1.  
+383:2.  
+384:3.  
+Profile (01-profile.txt): backslash escapes 60, glued ref numbers 58, question marks 5.
+$ grep -n 'Mosaik-' (line 22 holds Mosaik-*Ahnung*)
+22:Mosaik-*Ahnung*
+Note: 13 alter in the table L110-L122 (Kael, Lex, Alex, Rhys, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Argus, Silas, Oblivion) - not stated as a count in prose except the document's own "13".

@@ -1,0 +1,234 @@
+{
+  "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+  "drive_id": "1DQWbQdL73R09Q7IZNi0OSEKJZPLHbERM6UK4YlhcxOo",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 58,
+  "backslash_escapes": 60,
+  "typographic_marks": 259,
+  "ascii_quotes": 38,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemfehler",
+      "Systempanik",
+      "Systemrauschen",
+      "Systems",
+      "Systemsicht"
+    ],
+    "daten": [
+      "Datenanalyse",
+      "Datenarchitektur",
+      "Datenkorruption",
+      "Datenpunkte",
+      "Datenstrom"
+    ],
+    "senso": [
+      "Sensor",
+      "Sensorausfall",
+      "Sensoren",
+      "Sensorik",
+      "Sensorrauschen"
+    ],
+    "archi": [
+      "Archipel",
+      "Archipels",
+      "Architektur",
+      "Architekturanker"
+    ],
+    "erzäh": [
+      "Erzählen",
+      "Erzähler",
+      "Erzählerstimme",
+      "Erzählinstanz"
+    ],
+    "masch": [
+      "Maschine",
+      "Maschinell",
+      "Maschinen",
+      "Maschinenkrieg"
+    ],
+    "multi": [
+      "MULTIPLIZIT",
+      "Multi",
+      "Multiplizität",
+      "Multiplizitäts"
+    ],
+    "selbs": [
+      "Selbstdiagnose",
+      "Selbstverletzung",
+      "Selbstverweigerung",
+      "Selbstwahrnehmung"
+    ],
+    "speic": [
+      "Speicher",
+      "Speicherkern",
+      "Speichersystem",
+      "Speicherung"
+    ],
+    "algor": [
+      "Algorithmic",
+      "Algorithmische",
+      "Algorithmus"
+    ],
+    "anoma": [
+      "Anomalie",
+      "Anomalien",
+      "Anomaly"
+    ],
+    "antwo": [
+      "Antwort",
+      "Antworten",
+      "Antwortlatenzen"
+    ],
+    "festu": [
+      "Festung",
+      "Festungs",
+      "Festungswände"
+    ],
+    "funkt": [
+      "FUNKTIONALE",
+      "Funktion",
+      "Funktionale"
+    ],
+    "hinte": [
+      "Hintergrund",
+      "Hintergrundprozesse",
+      "Hintergrundrauschen"
+    ],
+    "hitze": [
+      "Hitze",
+      "Hitzewelle",
+      "Hitzewellen"
+    ],
+    "inner": [
+      "Inneren",
+      "Innerer",
+      "Inneres"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten",
+      "Kernwunde"
+    ],
+    "nicht": [
+      "NICHT",
+      "Nicht",
+      "Nichts"
+    ],
+    "pflic": [
+      "Pflicht",
+      "Pflichten",
+      "Pflichtverletzung"
+    ],
+    "profi": [
+      "Profil",
+      "Profile",
+      "Profilier"
+    ],
+    "reson": [
+      "Resonant",
+      "Resonanz",
+      "Resonanzbruch"
+    ],
+    "schwe": [
+      "Schweigen",
+      "Schwelle",
+      "Schwerelose"
+    ],
+    "sekun": [
+      "Sekunde",
+      "Sekunden",
+      "Sekundenverluste"
+    ],
+    "stadt": [
+      "Stadt",
+      "Stadtarchitektur",
+      "Stadtwände"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Atem",
+      "Atempause"
+    ],
+    [
+      "Atem",
+      "Atempausen"
+    ],
+    [
+      "Drei",
+      "Dreizehn"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Ende",
+      "Pendel"
+    ],
+    [
+      "Ende",
+      "Lebenden"
+    ],
+    [
+      "Ende",
+      "Eskalierendes"
+    ],
+    [
+      "Ende",
+      "Akkumulierende"
+    ],
+    [
+      "Erst",
+      "Erste"
+    ],
+    [
+      "Erst",
+      "Erstmals"
+    ],
+    [
+      "Erst",
+      "Verstand"
+    ],
+    [
+      "Erst",
+      "Leerstelle"
+    ],
+    [
+      "Erst",
+      "Verstörung"
+    ],
+    [
+      "Erst",
+      "Understanding"
+    ],
+    [
+      "Erst",
+      "Erzählerstimme"
+    ],
+    [
+      "Erst",
+      "Lesersteuerung"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Information"
+    ]
+  ]
+}

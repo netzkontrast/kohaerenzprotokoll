@@ -400,6 +400,12 @@ the author wants them (*Questions for the author*).
   before encoding. Your decision of 2026-09-24 for five Guardians came after it. Which of its CORE, and which of its
   recommendations, still hold for you? (The character bible points to its fourth-beat question as „Appendix C"; it stands in F9.)
 
+- **Document 71, `kohaerenz-protokoll-outline-revision-2026-05-01-md`, the outline revision of 2026-05-01:** its even
+  chapters are told from AEGIS's and the Guardians' side, Kap 16 as „erste-Person-Maschine" from inside LogOS (L228) and Kap 28
+  from inside AEGIS (L290) — one day after your Struktur-Kanon wrote „AEGIS und Guardians in 3. Person." (C14). And it keeps
+  every alter unnamed until Kap 13 (L126) while its own timeline names Lex, Alex and Nyx only in Kap 14–15 (L111–L115). Does the
+  system side get a first person, and in which chapter does each alter first carry a name?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*

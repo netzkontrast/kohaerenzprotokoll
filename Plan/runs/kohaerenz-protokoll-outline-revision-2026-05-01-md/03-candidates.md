@@ -1,0 +1,113 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+Candidates are listed as the outline writes them. Characters, systems and places of the novel's world first, then the document's own structural vocabulary, then the lens concepts. Chapter titles and encoding codes (OS, MC, IC, RS, SP1 to SP4) are left out as titles and template fields; the Encoding A/B and Was passiert labels repeat under every chapter and are the template. Ordinal-led passages such as the numbered diff list are not listed.
+
+- Kael
+- Juna
+- AEGIS
+- LogOS
+- Mnemosyne
+- Guardians
+- SIS
+- RIVE-Sweep
+- ZTEM
+- Controlled-Fragmentation-Protocol
+- CFP
+- Konstrukt-Stadt
+- Mnemosyne-Archipel
+- Schrein 734
+- Host #734
+- Komponente
+- Signatur
+- Alter
+- Lex
+- Alex
+- Rhys
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Argus
+- Silas
+- Oblivion
+- Lex-Modus
+- Alex-Modus
+- Nyx-Modus
+- Kiko-Modus
+- Wir-Stimme
+- Wir-Geflecht
+- Mosaik
+- Mosaik-Ahnung
+- Funktionale Multiplizität
+- Multiplizitäts-Schleier
+- Phantom-Resonanz
+- Phantom-Bilanz
+- Erasure-Bilanz
+- Code-Kühlinsel
+- Compositional Anomaly
+- Refragmentierung
+- Genesis-Krise
+- Trennungsprotokoll
+- Fragment T-734
+- Potentialmeer
+- Core World 1
+- Kernwelt
+- Vakuumkammer
+- K1-Zone
+- Moonshine-Link
+- Truth-Rotation
+- Algorithmische Melancholie
+- Logik-Tumor
+- Vortex
+- Vortex-Beat
+- Bekenstein-Schranke
+- Landauer
+- Witness-Funktion
+- Junas Witness-Effekt
+- Dialetheismus
+- Dialetheia
+- Mutual-Information
+- Negentropie
+- Ouroboros
+- Ouroboros-Anker
+- Pivot-Marker
+- Akt-Eigenschaften
+- Stilebene
+- Computational Class
+- Somatik
+- Dramatica
+- Storyform A POV
+- Storyform B POV
+- Encoding A
+- Encoding B
+- Encoding-Backbone
+- Driver
+- Foreshadowing
+- Pacing
+- Was verborgen bleibt
+- Juna-Seeding-Layer
+- Alter-Surface-Timeline
+- Reveal
+- ANP
+- EP
+- TSDP
+- Fragment
+- K0
+- K1
+- KW1
+- KW4
+- Fundament
+
+## lens
+
+- Halteproblem
+- Turingmaschine
+- Gödel-Satz
+- Iser-Mechanik
+- Erasure
+- Kompressibilität
+- Parakonsistent
+- NP-Hard
+- Triple-Layer-Twist
