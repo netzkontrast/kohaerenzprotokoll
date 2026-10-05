@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -57,6 +57,14 @@ Position: Teil I, „Die neue Perspektive“ ^[romanstruktur-und-philosophische-
 - Story: „Das Abschlusskapitel von Teil I fungiert als Scharnier zum nächsten Teil.“ ^[romanstruktur-und-philosophische-einleitung.md:L115]
 - Story: „Er erkennt die Künstlichkeit der Welt, die Pixel, den Code hinter der Textur.“ ^[romanstruktur-und-philosophische-einleitung.md:L117]
 - the same paragraph looks back: Kael sees KW1 „nicht mehr als perfekten Ort (wie in Kap. 1)“ ^[romanstruktur-und-philosophische-einleitung.md:L117]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Tanz im Garten
+
+Title: „Der Tanz im Garten“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L155]
+Position: Teil I; setting from the `Schauplatz` field: „Übergangszone zwischen KW1 und der Überwelt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L157]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L158]
+- Story: the blueprint plans, in `Plot-Beats`, „Er hört auf, sein Trauma zu vermeiden“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L160] and „AEGIS schaltet von sanfter Panoptikum-Lenkung auf feindliche Eliminierung um“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L160]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
