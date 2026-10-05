@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -46,6 +46,14 @@ Position: Teil II, „Meta-Integration“ ^[romanstruktur-und-philosophische-ein
 
 - Story: „Das Finale von Teil II.“ ^[romanstruktur-und-philosophische-einleitung.md:L214]
 - Story: „Und AEGIS ist nur ein Wärter, nicht Gott.“ ^[romanstruktur-und-philosophische-einleitung.md:L216]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Midpoint Climax
+
+Title: „Midpoint Climax“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L262]
+Position: Teil II; setting from the `Schauplatz` field: „Der ontologische Kern von AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L264]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS, Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L265]
+- Story: the blueprint plans, in `Plot-Beats`, „Die ultimative Erkenntnis des zweiten Aktes“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L267] and „Er fasst den Entschluss, AEGIS nicht zu zerstören, sondern das System von innen zu transzendieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L267]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
