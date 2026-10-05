@@ -69,8 +69,10 @@ corpus text: handing it on must send nothing that has not already left the conta
 
 `scripts/sessions.py` reads NOW.md § *Half-done — where the next session starts* and nothing else: each item with
 a next step is a session, in NOW.md's order, *ready* or *waits on the author*; items without one are notes that bind
-them all. The Now screen shows them as cards with their prompt, `#/now/session/<id>` opens one, and
-`agents/sessions.json` serves them. **To change the plan, change NOW.md** — the plan is NOW.md read again, never a
+them all. Each prompt comes as blocks (`sessions.py`'s `blocks()`); the Now screen's **start-prompt editor** loads the
+picked session (`#/now/session/<id>`, or `#/now/session/free` for a prompt in the author's own words), puts the author's
+instruction after *read first*, switches blocks on and off, lets the text be edited by hand, and copies or saves it —
+drafts stay in the browser's storage, never in the repository. `agents/sessions.json` serves the same blocks. **To change the plan, change NOW.md** — the plan is NOW.md read again, never a
 second list. When `python3 scripts/sessions.py` prints something NOW.md did not mean, fix the wording in NOW.md or
 the rule in `sessions.py` (with its selftest case), not the output.
 

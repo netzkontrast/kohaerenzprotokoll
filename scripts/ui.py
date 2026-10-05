@@ -1320,6 +1320,7 @@ D.decisions.forEach((x, i) => rt({ screen: 'process', ptab: 'decisions', pdec: i
 D.principles.forEach((x, i) => rt({ screen: 'process', ptab: 'principles', pprin: i }, 'principle ' + x.id));
 D.compare.forEach((x, i) => rt({ screen: 'process', ptab: 'compare', pcmp: i }, 'record ' + x.k));
 D.sessions.sessions.forEach((x) => rt({ screen: 'now', sess: x.id }, 'session ' + x.id));
+rt({ screen: 'now', sess: 'free' }, 'the free prompt');
 c.novelTabs().forEach((t) => {
   rt({ screen: 'manuscript', mtab: t[0] }, 'workspace tab ' + t[0]);
   c.novelEntries(t[0]).filter((x) => !x.group).forEach((x) => rt({ screen: 'manuscript', mtab: t[0], msel: x.key }, t[0] + ' ' + x.key));

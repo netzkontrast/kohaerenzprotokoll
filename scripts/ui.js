@@ -119,7 +119,7 @@ class Component extends DCLogic {
     const screen = parts[0];
     const at = (list, key, v) => list.findIndex((x) => x[key] === v);
     const st = { screen: screen, q: '' };
-    if (screen === 'now' && parts[1] === 'session' && parts[2]) { if (at(D.sessions.sessions, 'id', parts[2]) >= 0) st.sess = parts[2]; }
+    if (screen === 'now' && parts[1] === 'session' && parts[2]) { if (parts[2] === 'free' || at(D.sessions.sessions, 'id', parts[2]) >= 0) st.sess = parts[2]; }
     else if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) st.page = i; }
     else if (screen === 'conflicts' && parts[1]) { const i = at(D.conflicts, 'id', parts[1]); if (i >= 0) st.conf = i; }
     else if (screen === 'questions' && parts[1]) {
@@ -147,6 +147,10 @@ class Component extends DCLogic {
 
   componentDidMount() {
     if (!this.routable()) return;
+    try {
+      const saved = JSON.parse(window.localStorage.getItem('kp-prompt-drafts') || 'null');
+      if (saved && typeof saved === 'object') this.setState({ pask: saved.pask || {}, pedit: saved.pedit || {}, poff: saved.poff || {} });
+    } catch (err) { /* no storage: start empty */ }
     this._onHash = () => {
       const st = this.unroute(window.location.hash);
       if (st && window.location.hash !== this.route()) { this._fromUrl = true; this.setState(st); }
@@ -161,10 +165,10 @@ class Component extends DCLogic {
 
   fmt(n) { return typeof n === 'number' ? n.toLocaleString('en-US') : String(n); }
 
-  // A session's prompt to the clipboard. A canvas frame may refuse the clipboard; then the prompt
-  // stays open below its card, selectable, and the button says so instead of claiming a copy.
+  // A prompt to the clipboard. A canvas frame may refuse the clipboard; then the button says so
+  // instead of claiming a copy, and the prompt stays in the editor, selectable.
   copy(id, text) {
-    const done = (ok) => this.setState({ copied: ok ? id : 'fail:' + id, sess: id });
+    const done = (ok) => this.setState({ copied: ok ? id : 'fail:' + id });
     try {
       if (typeof navigator !== 'undefined' && navigator.clipboard && navigator.clipboard.writeText) {
         navigator.clipboard.writeText(text).then(() => done(true), () => done(false));
@@ -172,6 +176,53 @@ class Component extends DCLogic {
       }
     } catch (err) { /* fall through */ }
     done(false);
+  }
+
+  // ---- the start-prompt editor on the Now screen
+  // A prompt is its session's blocks (scripts/sessions.py), those switched off left out, the author's own
+  // instruction after the read-first block. Text edited by hand wins until Reset. Drafts are kept in this
+  // browser only (website; a canvas frame keeps them for the visit) — never in the repository.
+  promptSource(id) {
+    const P = this.kp().sessions;
+    return id === 'free' ? P.free : P.sessions.find((x) => x.id === id) || P.free;
+  }
+
+  compose(x, ask, off) {
+    const out = [];
+    x.blocks.forEach((b) => {
+      if (off.indexOf(b[0]) >= 0) return;
+      out.push(b[2]);
+      if (b[0] === 'read' && ask.trim()) out.push('The author\'s instruction for this session:\n' + ask.trim());
+    });
+    return out.join('\n\n');
+  }
+
+  drafts() { const st = this.st(); return { pask: st.pask || {}, pedit: st.pedit || {}, poff: st.poff || {} }; }
+
+  saveDraft(kind, id, value) {
+    const d = this.drafts();
+    const next = Object.assign({}, d[kind]);
+    if (value == null || value === '' || (Array.isArray(value) && !value.length)) delete next[id];
+    else next[id] = value;
+    const patch = { copied: null };
+    patch[kind] = next;
+    this.setState(patch);
+    if (!this.routable()) return;
+    try {
+      const all = Object.assign({}, d, patch);
+      window.localStorage.setItem('kp-prompt-drafts', JSON.stringify({ pask: all.pask, pedit: all.pedit, poff: all.poff }));
+    } catch (err) { /* storage refused: the draft lives for this visit */ }
+  }
+
+  download(name, text) {
+    try {
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(new Blob([text], { type: 'text/markdown;charset=utf-8' }));
+      a.download = name;
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 0);
+    } catch (err) { /* nothing to save to */ }
   }
 
   txt(rs) {
@@ -413,7 +464,7 @@ class Component extends DCLogic {
     const onQKey = (e) => { if (e.key === 'Escape') this.setState({ q: '' }); };
 
     // ------------------------------------------------------------ now
-    const now = { tiles: [], agenda: [], asks: [], log: [], sessions: [], sessSub: '', web: false, l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
+    const now = { tiles: [], agenda: [], asks: [], log: [], sessions: [], sessSub: '', web: false, free: {}, pe: { chips: [] }, tabs: [], tabPrompt: true, tabLog: false, l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
     if (is.now) {
       const total = V('sources.total');
       const landed = V('sources.landed');
@@ -458,22 +509,60 @@ class Component extends DCLogic {
       const canonN = D.docs.filter((d) => d.canon).length;
       now.logSub = (D.docs.length - canonN) + ' before the canon era · ' + canonN + ' from it';
       const plan = D.sessions;
+      const firstReady = plan.sessions.find((x) => x.status === 'ready');
+      const selId = s.sess || (firstReady ? firstReady.id : 'free');
       now.sessions = plan.sessions.map((x) => {
-        const open = s.sess === x.id;
+        const on = selId === x.id;
         const ready = x.status === 'ready';
-        const copied = s.copied === x.id;
-        const failed = s.copied === 'fail:' + x.id;
         return {
           dom: uid + '-sess-' + x.id, n: String(x.n), t: x.title, st: x.status, stBg: ready ? '#E4E9F2' : '#F6E4DC', stFg: ready ? '#2B4C8C' : '#9A2D1A',
-          next: this.runs(x.nruns), open: open, files: x.files.join(' · '), hasFiles: open && x.files.length > 0,
-          prompt: x.prompt, bd: open ? '#C9C0AC' : '#E6E0D2', bg: open ? '#FFFFFF' : 'transparent', exp: open ? 'true' : 'false',
-          toggle: () => this.setState({ sess: open ? null : x.id, copied: null }),
-          copy: () => this.copy(x.id, x.prompt),
-          copyLabel: copied ? 'Copied ✓' : failed ? 'Copy blocked here — select the prompt below' : 'Copy prompt for an agent',
+          next: this.runs(x.nruns), bd: on ? '#2B4C8C' : '#E6E0D2', bg: on ? '#FFFFFF' : 'transparent', cur: on ? 'true' : 'false',
+          pick: () => this.setState({ sess: x.id, ntab: 'prompt', copied: null }),
         };
       });
+      now.free = { bd: selId === 'free' ? '#2B4C8C' : '#E6E0D2', cur: selId === 'free' ? 'true' : 'false', pick: () => this.setState({ sess: 'free', ntab: 'prompt', copied: null }) };
       const readyN = plan.sessions.filter((x) => x.status === 'ready').length;
       now.sessSub = readyN + ' ready · ' + (plan.sessions.length - readyN) + ' wait on the author · ' + plan.notes.length + ' notes bind all';
+      now.tabPrompt = (s.ntab || 'prompt') === 'prompt';
+      now.tabLog = !now.tabPrompt;
+      now.tabs = [['prompt', 'Start prompt'], ['log', 'Reading log']].map((t) => {
+        const on = (s.ntab || 'prompt') === t[0];
+        return { label: t[1], on: on ? 'true' : 'false', bd: on ? '#1C1B18' : 'transparent', fg: on ? '#1C1B18' : '#645F53', go: () => this.setState({ ntab: t[0] }) };
+      });
+      const src = this.promptSource(selId);
+      const d = this.drafts();
+      const ask = d.pask[selId] || '';
+      const off = d.poff[selId] || [];
+      const edited = d.pedit[selId];
+      const composed = this.compose(src, ask, off);
+      const text = edited != null ? edited : composed;
+      const copied = s.copied === 'pe:' + selId;
+      const failedCopy = s.copied === 'fail:pe:' + selId;
+      const fixed = ['head', 'read'];
+      now.pe = {
+        kicker: selId === 'free' ? 'Free prompt · your words, with the rules every session keeps'
+          : 'Session ' + src.n + ' · ' + src.status + ' · from NOW.md § Half-done',
+        title: selId === 'free' ? 'A session you name yourself' : src.title,
+        askId: uid + '-pe-ask', textId: uid + '-pe-text', ask: ask, text: text,
+        askHint: selId === 'free' ? 'What should the session do? In your words — it goes right after “read NOW.md first”.'
+          : 'Anything to add or narrow — „nur das erste Dokument“, a deadline, a question first. Goes before the task.',
+        onAsk: (e) => this.saveDraft('pask', selId, e.target.value),
+        onText: (e) => this.saveDraft('pedit', selId, e.target.value),
+        chips: src.blocks.filter((b) => fixed.indexOf(b[0]) < 0).map((b) => {
+          const isOn = off.indexOf(b[0]) < 0;
+          return {
+            label: b[1], on: isOn ? 'true' : 'false', bg: isOn ? '#2B4C8C' : 'transparent', fg: isOn ? '#FBFAF6' : '#645F53', bd: isOn ? '#2B4C8C' : '#C9C0AC',
+            dis: edited != null, tip: edited != null ? 'Edited by hand — Reset to use the blocks again' : (isOn ? 'Leave this block out' : 'Put this block in'),
+            go: () => this.saveDraft('poff', selId, isOn ? off.concat([b[0]]) : off.filter((k) => k !== b[0])),
+          };
+        }),
+        info: text.length.toLocaleString('en-US') + ' characters · ' + text.split(/\s+/).filter(Boolean).length + ' words' + (edited != null ? ' · edited by hand' : ''),
+        dirty: edited != null || !!ask || off.length > 0, edited: edited != null,
+        reset: () => { this.saveDraft('pedit', selId, null); this.saveDraft('pask', selId, null); this.saveDraft('poff', selId, null); },
+        copy: () => this.copy('pe:' + selId, text),
+        copyLabel: copied ? 'Copied ✓' : failedCopy ? 'Copy blocked here — select the text' : 'Copy prompt',
+        save: () => this.download('start-prompt-' + selId + '.md', text),
+      };
       now.web = this.routable();
       now.selftests = held + ' held · ' + failed + ' failed · ' + (D.selftests.length - held - failed) + ' not run in this container';
       now.stDot = failed ? '#B0341E' : '#2B4C8C';

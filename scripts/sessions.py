@@ -28,6 +28,11 @@ read again on every build: an item that leaves NOW.md leaves the plan.
   The phrase is reported with the status, so the rule can be read against the text.
 - **Files** are backtick spans and markdown links that name a path that exists.
 
+A prompt is a list of blocks (`blocks()`: header, read first, the author's own
+instruction, task, next step, gate, files, standing instructions, notes, rules);
+the app's start-prompt editor switches them on and off, and `free` is the prompt
+for a session the author names in their own words.
+
 The prompt contains NOW.md's own words and paths, no corpus text, so handing it to
 a session sends nothing that has not already left the container.
 """
@@ -136,39 +141,52 @@ def derive(text: str | None = None, root: Path = ROOT) -> dict:
         standing.append({"date": m.group(1), "said": plain(m.group(2))} if m else {"date": "", "said": plain(sentence(item))})
     for s in sessions:
         s["prompt"] = prompt(s, notes, standing)
+        s["blocks"] = blocks(s, notes, standing)
+    free = dict(FREE, blocks=blocks(FREE, notes, standing))
     return {"source": "NOW.md § Half-done — where the next session starts", "sessions": sessions,
-            "notes": notes, "standing": standing}
+            "notes": notes, "standing": standing, "free": free}
 
 
 def quoted(said: str) -> str:
     return said if said[:1] in "„“\"" else f"„{said}“"
 
 
-def prompt(s: dict, notes: list[dict], standing: list[dict]) -> str:
-    """One session's prompt: self-contained, NOW.md's words, nothing from the corpus."""
-    lines = [
-        f"Session for {REPO}: {s['title']}",
-        "",
-        "Read NOW.md, CLAUDE.md and PRINCIPLES.md first; NOW.md wins where this prompt is older than it.",
-        "",
-        "The task, as NOW.md states it (§ Half-done):",
-        plain(s["md"]),
-        "",
-        f"Start with: {s['next'] or '(NOW.md names no next step: read the item and ask)'}",
-    ]
+FREE = {"id": "free", "title": "", "md": "", "next": "", "status": "ready", "because": "", "files": []}
+LABELS = {"head": "Header", "read": "Read first", "ask": "Your instruction", "task": "Task from NOW.md",
+          "next": "Next step", "gate": "Gate", "files": "Files", "standing": "Standing instructions",
+          "notes": "Binding notes", "rules": "Claim and app-refresh"}
+
+
+def blocks(s: dict, notes: list[dict], standing: list[dict], ask: str = "") -> list[list[str]]:
+    """One session's prompt as `[key, label, text]` blocks, in order. The app's editor switches them on and off
+    and puts the author's own instruction (`ask`) in its place; `prompt` joins them all."""
+    title = s["title"] or "a task the author names below"
+    out = [["head", f"Session for {REPO}: {title}"],
+           ["read", "Read NOW.md, CLAUDE.md and PRINCIPLES.md first; NOW.md wins where this prompt is older than it."]]
+    if ask.strip():
+        out.append(["ask", "The author's instruction for this session:\n" + ask.strip()])
+    if s["md"]:
+        out.append(["task", "The task, as NOW.md states it (§ Half-done):\n" + plain(s["md"])])
+        out.append(["next", f"Start with: {s['next'] or '(NOW.md names no next step: read the item and ask)'}"])
     if s["status"] != "ready":
-        lines += ["", f"This item {s['because']} — put the question to the author and do not start what it gates."]
+        out.append(["gate", f"This item {s['because']} — put the question to the author and do not start what it gates."])
     if s["files"]:
-        lines += ["", "Open first: " + ", ".join(s["files"])]
+        out.append(["files", "Open first: " + ", ".join(s["files"])])
     if standing:
-        lines += ["", "The author's standing instructions, newest first (NOW.md):"]
-        lines += [f"- {x['date']} {quoted(x['said'])}" if x["date"] else f"- {x['said']}" for x in standing]
+        out.append(["standing", "\n".join(["The author's standing instructions, newest first (NOW.md):"] +
+                                           [f"- {x['date']} {quoted(x['said'])}" if x["date"] else f"- {x['said']}"
+                                            for x in standing])])
     if notes:
-        lines += ["", "Binding on every session:"] + [f"- {plain(n['md'])}" for n in notes]
-    lines += ["", "Claim the work before starting it: an open pull request naming it under a `Claim` heading.",
-              "Before any pull request: the app-refresh skill (`.agents/skills/app-refresh/SKILL.md`); "
-              "the pre-PR hook refuses a pull request whose app was not rebuilt and checked for this commit."]
-    return "\n".join(lines)
+        out.append(["notes", "\n".join(["Binding on every session:"] + [f"- {plain(n['md'])}" for n in notes])])
+    out.append(["rules", "Claim the work before starting it: an open pull request naming it under a `Claim` heading.\n"
+                         "Before any pull request: the app-refresh skill (`.agents/skills/app-refresh/SKILL.md`); "
+                         "the pre-PR hook refuses a pull request whose app was not rebuilt and checked for this commit."])
+    return [[k, LABELS[k], t] for k, t in out]
+
+
+def prompt(s: dict, notes: list[dict], standing: list[dict], ask: str = "") -> str:
+    """One session's prompt: self-contained, NOW.md's words and the author's, nothing from the corpus."""
+    return "\n\n".join(b[2] for b in blocks(s, notes, standing, ask))
 
 
 # ---------------------------------------------------------------- selftest
@@ -226,6 +244,18 @@ def selftest() -> list[str]:
                   "The branch carries the work", "Claim the work"):
         if words not in p:
             fail.append(f"the prompt lacks {words!r}")
+    ent = s.get("entity-lists", {})
+    keys = [b[0] for b in ent.get("blocks", [])]
+    if keys != ["head", "read", "task", "next", "gate", "standing", "notes", "rules"]:
+        fail.append(f"blocks of a gated session: got {keys}")
+    if "\n\n".join(b[2] for b in ent.get("blocks", [])) != ent.get("prompt"):
+        fail.append("the prompt is not its blocks joined")
+    asked = prompt(ent, plan["notes"], plan["standing"], ask="Nur das erste Dokument.")
+    if "The author's instruction for this session:\nNur das erste Dokument." not in asked or \
+            asked.index("Nur das erste") > asked.index("The task, as NOW.md"):
+        fail.append("the author's instruction: missing, or not before the task")
+    if [b[0] for b in plan["free"]["blocks"]] != ["head", "read", "standing", "notes", "rules"]:
+        fail.append(f"the free prompt's blocks: got {[b[0] for b in plan['free']['blocks']]}")
     if derive("# Now\n")["sessions"]:
         fail.append("a NOW.md without the section yields sessions")
     return fail
@@ -236,7 +266,7 @@ def main(argv: list[str]) -> int:
         fail = selftest()
         for f in fail:
             print(f"  FAILED  {f}")
-        print(f"sessions: {'every rule held' if not fail else str(len(fail)) + ' case(s) failed'} (order, two Next forms, Open, gate, gate as step, files, notes, standing, prompt, empty)")
+        print(f"sessions: {'every rule held' if not fail else str(len(fail)) + ' case(s) failed'} (order, two Next forms, Open, gate, gate as step, files, notes, standing, prompt, blocks, instruction, free, empty)")
         return 1 if fail else 0
     plan = derive()
     if "--json" in argv:
