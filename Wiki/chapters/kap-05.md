@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -94,6 +94,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „sein innerer Tonfall wird warm, anpassungsfähig, fast charmant“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]; „fällt Staub sehr langsam durch einen Lichtstrahl hinter dem Evaluator“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]
 - Encoding A: „OS · SP1 (Being) · Falsehood · Decision (Maskerade)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L176]
 - The seeding table lists for Kap 5 a dust grain: „Staub fällt zu langsam — Kael nimmt es im Augenwinkel wahr“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L142].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Unseen Observer
+
+Title: „The Unseen Observer“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L137]
+Position: Akt I; POV: „POV: Alex.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L145]
+
+- Story: the outline plans „übernimmt der Anteil Alex die Führung, der auf soziale Anpassung programmiert ist“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L143]
+- Story: the outline plans „interagiert er mit dem SIS-Protokoll von AEGIS“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L143]
+- Concepts: „Alex (Alter), SIS-Protokoll, Discursive Logic“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L141]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
