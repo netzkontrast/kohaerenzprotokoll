@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -96,6 +96,15 @@ Title: „The Profile“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md
 Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „B (AEGIS — Profilier-Routine)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]
 
 - Story: the outline places: „ein multipliziert verteiltes Bewusstsein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]; „Aus tautologischer Sicherheit“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]; „Stress-Tests werden vorbereitet“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L204]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Die Stille der Mitte
+
+Title: „Die Stille der Mitte“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L339]
+Position: Akt I; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L347]
+
+- Story: the outline plans „erreicht das System Kael einen Zustand absoluter Präsenz und Ruhe“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L345]
+- Story: the outline plans „Der Ort weist extrem hohe Kohärenz, aber null Entropie auf“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L345]
+- Concepts: „Negentropie, Der Jetzt-Raum“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L343]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
