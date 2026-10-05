@@ -315,3 +315,11 @@ Where it stands in the record's own terms: it does not answer the pairing; it na
 Table 2 repeats the pairing (L229–L232) and, as a reproduction of the plot document, says it rests on reference 1.
 
 The report decides nothing about Q5; it reports four pairs, with Kairos and Sophia sharing KW4, and does not mention an Erasure-Pol.
+
+## 2026-10-05 — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis
+
+**The three-part analysis pairs LogOS with KW1, Cerberus with KW3, Mnemosyne with KW2 and Kairos/Sophia with KW4.**
+
+KW1: „Diese Umgebung ist die Manifestation der Domäne *LogOS*“ ^[romanstruktur-und-philosophische-einleitung.md:L39] KW3: „Dies ist der Übergang zur **Kern-Welt 3 (KW3)**, der Domäne *Cerberus*.“ ^[romanstruktur-und-philosophische-einleitung.md:L49] KW2: „die **Kern-Welt 2 (KW2)**, die Domäne *Mnemosyne*.“ ^[romanstruktur-und-philosophische-einleitung.md:L53] KW4: „in der aufkeimenden **Kern-Welt 4 (KW4)**, der Domäne *Kairos/Sophia*.“ ^[romanstruktur-und-philosophische-einleitung.md:L93] In Part II the three are called Wächter and read as code: „die Wächter der Kernwelten (LogOS, Mnemosyne, Cerberus)“ ^[romanstruktur-und-philosophische-einleitung.md:L150]
+
+In the record's terms the analysis stands with four pairs, Kairos and Sophia sharing KW4; it retells a plot from the concept papers it lists, and says nothing of an Erasure-Pol.
