@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -72,6 +72,15 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Who: „Unter der unerbittlichen Führung von Lex errichtet Kael eine kognitive Festung aus Ratio.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L102]
 - Story: „Sie analysieren die K0-Narbe nicht als metaphysisches Phänomen, sondern als topologischen Defekt im Raum-Zeit-Gefüge.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L102] · „Kael beginnt, sein Verhalten perfekt an die Algorithmen von Logos-Prime anzupassen (BPoF-Protokoll), um nicht erneut ins Visier der Hitze-Löschungen zu geraten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L102]
 - What it establishes: „Die Identifikation mit der emotionslosen Logik wird als einziger Überlebensmechanismus etabliert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L102]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Watcher's Misread“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L170]
+Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „B (SIS-Protokoll)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]
+
+- Story: the outline places: „drei verschiedene Grundfrequenzen über sechs Stunden“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]; „ein Eintrag, der weder in den Genesis-Logs noch im Eingangsstrom war“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]
+- Encoding A: „RS · SP1 (Understanding) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L172]
+- The seeding table lists for Kap 4 a cache anomaly: „Mnemosyne registriert ein Datum, das es nie eingespeist hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L141].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
