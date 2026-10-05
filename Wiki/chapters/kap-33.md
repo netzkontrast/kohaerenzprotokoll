@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,15 @@ Title: „Kapitel 33-35: Konsequenzen und Entfaltung“ ^[monstergruppe-primzahl
 Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
 
 - Plot: „Diese Kapitel entfalten die Konsequenzen der in 31 und 32 getroffenen Entscheidungen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376], showing how Kael's choice plays out „auf die Kernwelt, J, und AEGIS“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376] „falls überlebend/adaptierend“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376].
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Den Code knacken: Aktive Destabilisierung/Transformation von AEGIS
+
+Title: the commission titles the chapter „Den Code knacken: Aktive Destabilisierung/Transformation von AEGIS“ ^[kontext-outline.md:L434], placed in Act 3. Position: `Setting` „Überwelt; AEGIS-Kern“ ^[kontext-outline.md:L440]
+
+- Theme: the commission's `Core Theme` is „Nutzung des Paradoxons als Waffe; Systemischer Eingriff“ ^[kontext-outline.md:L436]
+- Story: its `Plot Summary` plans „Emergenz fördern“ ^[kontext-outline.md:L437]
+- Foci: `Kael Sys Focus` „Strategisches Vorgehen Lex/Argus/Selene“ ^[kontext-outline.md:L438]; `AEGIS Focus` „Paradoxon führt zu Selbstzerstörung/Transformation“ ^[kontext-outline.md:L439]
+- Notes: „Systemische Intervention als Kernaktion“ ^[kontext-outline.md:L443]
 
 ## Reading — `outline`, 2025-07-30, the outline — Der Vorstoß ins Unkartierte: Zum Fundament / Der Kern der Fehlausrichtung
 
