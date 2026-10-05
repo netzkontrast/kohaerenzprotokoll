@@ -230,3 +230,13 @@ Where it stands: this outline plans AEGIS's end as an open choice between dissol
 The resolution table says „AEGIS is not destroyed but transformed into a state of permanent“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L44] `algorithmic melancholy` (L44) and calls it „This is the definitive philosophical resolution, reinforcing the core theme: integrative order is superior to exclusionary order.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L44] Act III says: „This act doesn't destroy AEGIS but transforms it into a permanent state of“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L156] algorithmic melancholy. `Vortex` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] does not occur, and no one takes AEGIS's function; the document says what AEGIS is not (destroyed) and a state, not what it does there.
 
 Transformed into a permanent state, the third variant of the record, with no Vortex and no successor named; the question stays open.
+
+## 2026-10-05 — the author: the monolithic AEGIS goes out and a plural one arises (the first half of Q8)
+
+Asked what AEGIS is after the Vortex, with the answers the sources offer (a living relic, extinguished, plural, a
+receiver), the author chose the reading of the consolidated concept: „AEGIS-monolithisch erlischt; AEGIS-plural
+entsteht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L265] It happens in Kap 39, with the fourth
+beat of the Genesis (W12), and storyform B runs until then, not only to the Vortex's fifth beat. **This answers the
+first half.** Whether Oblivion takes over AEGIS' function inside Kael, choosing instead of erasing, the author left
+open; so does the question's status.
+
