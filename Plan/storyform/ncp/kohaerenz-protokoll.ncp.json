@@ -10,7 +10,7 @@
       },
       {
         "at": "2026-10-05T22:44:00Z",
-        "action": "Proposal-only chapter development from Plan/storyform/development.json: Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–39."
+        "action": "Proposal-only chapter development from Plan/storyform/development.json: Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–40."
       }
     ]
   },
@@ -501,6 +501,20 @@
                 },
                 {
                   "id": "sp_08",
+                  "appreciation": "Main Character Benchmark",
+                  "narrative_function": "Conscious",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Benchmark",
+                  "summary": "Main Character Benchmark: Conscious",
+                  "storytelling": "Schritt 6: die Kette, in der Kaels innere Trägheit das Problem ist. Herkunft: author, 2026-10-05 (step 40): the session's proposal taken — was Kael bewusst weiß — die Spalte „Kael weiß“ der Ereignistabelle, Kapitel für Kapitel; the placement rule is not public, only that it is a type of the class other than the concern is checked.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_09",
                   "appreciation": "Influence Character Domain",
                   "narrative_function": "Universe",
                   "throughline": "Influence Character",
@@ -514,7 +528,7 @@
                   ]
                 },
                 {
-                  "id": "sp_09",
+                  "id": "sp_10",
                   "appreciation": "Influence Character Concern",
                   "narrative_function": "Past",
                   "throughline": "Influence Character",
@@ -528,7 +542,7 @@
                   ]
                 },
                 {
-                  "id": "sp_10",
+                  "id": "sp_11",
                   "appreciation": "Influence Character Issue",
                   "narrative_function": "Prediction",
                   "throughline": "Influence Character",
@@ -542,7 +556,7 @@
                   ]
                 },
                 {
-                  "id": "sp_11",
+                  "id": "sp_12",
                   "appreciation": "Influence Character Problem",
                   "narrative_function": "Change",
                   "throughline": "Influence Character",
@@ -556,7 +570,7 @@
                   ]
                 },
                 {
-                  "id": "sp_12",
+                  "id": "sp_13",
                   "appreciation": "Influence Character Solution",
                   "narrative_function": "Inertia",
                   "throughline": "Influence Character",
@@ -570,7 +584,7 @@
                   ]
                 },
                 {
-                  "id": "sp_13",
+                  "id": "sp_14",
                   "appreciation": "Influence Character Symptom",
                   "narrative_function": "Actuality",
                   "throughline": "Influence Character",
@@ -584,7 +598,7 @@
                   ]
                 },
                 {
-                  "id": "sp_14",
+                  "id": "sp_15",
                   "appreciation": "Influence Character Response",
                   "narrative_function": "Perception",
                   "throughline": "Influence Character",
@@ -598,7 +612,21 @@
                   ]
                 },
                 {
-                  "id": "sp_15",
+                  "id": "sp_16",
+                  "appreciation": "Influence Character Benchmark",
+                  "narrative_function": "Progress",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Benchmark",
+                  "summary": "Influence Character Benchmark: Progress",
+                  "storytelling": "Schritt 9a: Juna trägt Change, das Gegenstück zu Kaels Inertia. Herkunft: author, 2026-10-05 (step 40): the session's proposal taken — wie weit Junas Leben ohne Kael weiterläuft (die Spuren in Kap 17, 25); the placement rule is not public, only that it is a type of the class other than the concern is checked.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_17",
                   "appreciation": "Objective Story Domain",
                   "narrative_function": "Psychology",
                   "throughline": "Objective Story",
@@ -612,7 +640,7 @@
                   ]
                 },
                 {
-                  "id": "sp_16",
+                  "id": "sp_18",
                   "appreciation": "Objective Story Concern",
                   "narrative_function": "Conceptualizing",
                   "throughline": "Objective Story",
@@ -626,7 +654,7 @@
                   ]
                 },
                 {
-                  "id": "sp_17",
+                  "id": "sp_19",
                   "appreciation": "Objective Story Issue",
                   "narrative_function": "State of Being",
                   "throughline": "Objective Story",
@@ -640,7 +668,7 @@
                   ]
                 },
                 {
-                  "id": "sp_18",
+                  "id": "sp_20",
                   "appreciation": "Objective Story Problem",
                   "narrative_function": "Inertia",
                   "throughline": "Objective Story",
@@ -654,7 +682,7 @@
                   ]
                 },
                 {
-                  "id": "sp_19",
+                  "id": "sp_21",
                   "appreciation": "Objective Story Solution",
                   "narrative_function": "Change",
                   "throughline": "Objective Story",
@@ -668,7 +696,7 @@
                   ]
                 },
                 {
-                  "id": "sp_20",
+                  "id": "sp_22",
                   "appreciation": "Objective Story Symptom",
                   "narrative_function": "Knowledge",
                   "throughline": "Objective Story",
@@ -682,7 +710,7 @@
                   ]
                 },
                 {
-                  "id": "sp_21",
+                  "id": "sp_23",
                   "appreciation": "Objective Story Response",
                   "narrative_function": "Thought",
                   "throughline": "Objective Story",
@@ -696,7 +724,21 @@
                   ]
                 },
                 {
-                  "id": "sp_22",
+                  "id": "sp_24",
+                  "appreciation": "Objective Story Benchmark",
+                  "narrative_function": "Being",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Benchmark",
+                  "summary": "Objective Story Benchmark: Being",
+                  "storytelling": "Schritt 8a: Thema und Crucial Element greifen im selben Quad ineinander. Herkunft: author, 2026-10-05 (step 40): the session's proposal taken — die Rollen und die Fassade: wie lange jeder Anteil seine Rolle hält (Kap 2, 5, 9: Wert, Bericht, gelöschter Name); the placement rule is not public, only that it is a type of the class other than the concern is checked.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_25",
                   "appreciation": "Relationship Story Domain",
                   "narrative_function": "Physics",
                   "throughline": "Relationship Story",
@@ -710,7 +752,7 @@
                   ]
                 },
                 {
-                  "id": "sp_23",
+                  "id": "sp_26",
                   "appreciation": "Relationship Story Concern",
                   "narrative_function": "Understanding",
                   "throughline": "Relationship Story",
@@ -724,7 +766,7 @@
                   ]
                 },
                 {
-                  "id": "sp_24",
+                  "id": "sp_27",
                   "appreciation": "Relationship Story Issue",
                   "narrative_function": "Instinct",
                   "throughline": "Relationship Story",
@@ -738,7 +780,7 @@
                   ]
                 },
                 {
-                  "id": "sp_25",
+                  "id": "sp_28",
                   "appreciation": "Relationship Story Problem",
                   "narrative_function": "Ability",
                   "throughline": "Relationship Story",
@@ -752,7 +794,7 @@
                   ]
                 },
                 {
-                  "id": "sp_26",
+                  "id": "sp_29",
                   "appreciation": "Relationship Story Solution",
                   "narrative_function": "Desire",
                   "throughline": "Relationship Story",
@@ -766,7 +808,7 @@
                   ]
                 },
                 {
-                  "id": "sp_27",
+                  "id": "sp_30",
                   "appreciation": "Relationship Story Symptom",
                   "narrative_function": "Thought",
                   "throughline": "Relationship Story",
@@ -780,7 +822,7 @@
                   ]
                 },
                 {
-                  "id": "sp_28",
+                  "id": "sp_31",
                   "appreciation": "Relationship Story Response",
                   "narrative_function": "Knowledge",
                   "throughline": "Relationship Story",
@@ -794,7 +836,21 @@
                   ]
                 },
                 {
-                  "id": "sp_29",
+                  "id": "sp_32",
+                  "appreciation": "Relationship Story Benchmark",
+                  "narrative_function": "Doing",
+                  "throughline": "Relationship Story",
+                  "illustration": "Relationship Story Benchmark",
+                  "summary": "Relationship Story Benchmark: Doing",
+                  "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7). Herkunft: author, 2026-10-05 (step 40): the session's proposal taken — was die Verbindung tut: der Anschluss als Werkzeug, das Klicken, die Präsenz; the placement rule is not public, only that it is a type of the class other than the concern is checked.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_33",
                   "appreciation": "Main Character Pivotal Element",
                   "narrative_function": "Inertia",
                   "throughline": "Main Character",
@@ -808,7 +864,7 @@
                   ]
                 },
                 {
-                  "id": "sp_30",
+                  "id": "sp_34",
                   "appreciation": "Story Goal",
                   "narrative_function": "Conceptualizing",
                   "illustration": "Einen Plan, ein Konzept der Ordnung entwickeln.",
@@ -821,7 +877,7 @@
                   ]
                 },
                 {
-                  "id": "sp_31",
+                  "id": "sp_35",
                   "appreciation": "Story Requirements",
                   "narrative_function": "Learning",
                   "illustration": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
@@ -834,7 +890,7 @@
                   ]
                 },
                 {
-                  "id": "sp_32",
+                  "id": "sp_36",
                   "appreciation": "Story Consequence",
                   "narrative_function": "Past",
                   "illustration": "Die Fragmentierungsnacht wiederholt sich.",
@@ -847,7 +903,7 @@
                   ]
                 },
                 {
-                  "id": "sp_33",
+                  "id": "sp_37",
                   "appreciation": "Story Forewarnings",
                   "narrative_function": "Preconscious",
                   "illustration": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen.",
@@ -860,7 +916,7 @@
                   ]
                 },
                 {
-                  "id": "sp_34",
+                  "id": "sp_38",
                   "appreciation": "Story Costs",
                   "narrative_function": "Being",
                   "illustration": "Kaels funktionierende Fassade zerfällt: Host-Rolle, Alltag, Routinen.",
@@ -873,7 +929,7 @@
                   ]
                 },
                 {
-                  "id": "sp_35",
+                  "id": "sp_39",
                   "appreciation": "Story Dividends",
                   "narrative_function": "Becoming",
                   "illustration": "Kael wird funktional plural; die Anteile werden Verbündete.",
@@ -886,7 +942,7 @@
                   ]
                 },
                 {
-                  "id": "sp_36",
+                  "id": "sp_40",
                   "appreciation": "Story Prerequisites",
                   "narrative_function": "Memory",
                   "illustration": "Ein erstes Erinnerungsfragment, an dem Kael zu lesen beginnen kann.",
@@ -899,7 +955,7 @@
                   ]
                 },
                 {
-                  "id": "sp_37",
+                  "id": "sp_41",
                   "appreciation": "Story Preconditions",
                   "narrative_function": "Present",
                   "illustration": "Kael kann nur in Zeitlücken suchen.",
@@ -1975,6 +2031,20 @@
                 },
                 {
                   "id": "sp_08",
+                  "appreciation": "Main Character Benchmark",
+                  "narrative_function": "Progress",
+                  "throughline": "Main Character",
+                  "illustration": "Main Character Benchmark",
+                  "summary": "Main Character Benchmark: Progress",
+                  "storytelling": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube. Herkunft: author, 2026-10-05 (step 40): the session's proposal taken — die wachsende Instabilität trotz aller Sweeps, als Wert im Log, der fällt — die Bruchkurve; the placement rule is not public, only that it is a type of the class other than the concern is checked.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_09",
                   "appreciation": "Influence Character Domain",
                   "narrative_function": "Mind",
                   "throughline": "Influence Character",
@@ -1988,7 +2058,7 @@
                   ]
                 },
                 {
-                  "id": "sp_09",
+                  "id": "sp_10",
                   "appreciation": "Influence Character Concern",
                   "narrative_function": "Subconscious",
                   "throughline": "Influence Character",
@@ -2002,7 +2072,7 @@
                   ]
                 },
                 {
-                  "id": "sp_10",
+                  "id": "sp_11",
                   "appreciation": "Influence Character Issue",
                   "narrative_function": "Dream",
                   "throughline": "Influence Character",
@@ -2016,7 +2086,7 @@
                   ]
                 },
                 {
-                  "id": "sp_11",
+                  "id": "sp_12",
                   "appreciation": "Influence Character Problem",
                   "narrative_function": "Disbelief",
                   "throughline": "Influence Character",
@@ -2030,7 +2100,7 @@
                   ]
                 },
                 {
-                  "id": "sp_12",
+                  "id": "sp_13",
                   "appreciation": "Influence Character Solution",
                   "narrative_function": "Faith",
                   "throughline": "Influence Character",
@@ -2044,7 +2114,7 @@
                   ]
                 },
                 {
-                  "id": "sp_13",
+                  "id": "sp_14",
                   "appreciation": "Influence Character Symptom",
                   "narrative_function": "Oppose",
                   "throughline": "Influence Character",
@@ -2058,7 +2128,7 @@
                   ]
                 },
                 {
-                  "id": "sp_14",
+                  "id": "sp_15",
                   "appreciation": "Influence Character Response",
                   "narrative_function": "Support",
                   "throughline": "Influence Character",
@@ -2072,7 +2142,21 @@
                   ]
                 },
                 {
-                  "id": "sp_15",
+                  "id": "sp_16",
+                  "appreciation": "Influence Character Benchmark",
+                  "narrative_function": "Memory",
+                  "throughline": "Influence Character",
+                  "illustration": "Influence Character Benchmark",
+                  "summary": "Influence Character Benchmark: Memory",
+                  "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05 (step 40): the session's proposal taken — wie viel Kael erinnert, das AEGIS gelöscht hatte; the placement rule is not public, only that it is a type of the class other than the concern is checked.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_17",
                   "appreciation": "Objective Story Domain",
                   "narrative_function": "Physics",
                   "throughline": "Objective Story",
@@ -2086,7 +2170,7 @@
                   ]
                 },
                 {
-                  "id": "sp_16",
+                  "id": "sp_18",
                   "appreciation": "Objective Story Concern",
                   "narrative_function": "Obtaining",
                   "throughline": "Objective Story",
@@ -2100,7 +2184,7 @@
                   ]
                 },
                 {
-                  "id": "sp_17",
+                  "id": "sp_19",
                   "appreciation": "Objective Story Issue",
                   "narrative_function": "Approach",
                   "throughline": "Objective Story",
@@ -2114,7 +2198,7 @@
                   ]
                 },
                 {
-                  "id": "sp_18",
+                  "id": "sp_20",
                   "appreciation": "Objective Story Problem",
                   "narrative_function": "Feeling",
                   "throughline": "Objective Story",
@@ -2128,7 +2212,7 @@
                   ]
                 },
                 {
-                  "id": "sp_19",
+                  "id": "sp_21",
                   "appreciation": "Objective Story Solution",
                   "narrative_function": "Logic",
                   "throughline": "Objective Story",
@@ -2142,7 +2226,7 @@
                   ]
                 },
                 {
-                  "id": "sp_20",
+                  "id": "sp_22",
                   "appreciation": "Objective Story Symptom",
                   "narrative_function": "Reconsider",
                   "throughline": "Objective Story",
@@ -2156,7 +2240,7 @@
                   ]
                 },
                 {
-                  "id": "sp_21",
+                  "id": "sp_23",
                   "appreciation": "Objective Story Response",
                   "narrative_function": "Consider",
                   "throughline": "Objective Story",
@@ -2170,7 +2254,21 @@
                   ]
                 },
                 {
-                  "id": "sp_22",
+                  "id": "sp_24",
+                  "appreciation": "Objective Story Benchmark",
+                  "narrative_function": "Doing",
+                  "throughline": "Objective Story",
+                  "illustration": "Objective Story Benchmark",
+                  "summary": "Objective Story Benchmark: Doing",
+                  "storytelling": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad. Herkunft: author, 2026-10-05 (step 40): the session's proposal taken — die Sweeps und ihre Verluste, als Zahlen im Log; the placement rule is not public, only that it is a type of the class other than the concern is checked.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_25",
                   "appreciation": "Relationship Story Domain",
                   "narrative_function": "Psychology",
                   "throughline": "Relationship Story",
@@ -2184,7 +2282,7 @@
                   ]
                 },
                 {
-                  "id": "sp_23",
+                  "id": "sp_26",
                   "appreciation": "Relationship Story Concern",
                   "narrative_function": "Becoming",
                   "throughline": "Relationship Story",
@@ -2198,7 +2296,7 @@
                   ]
                 },
                 {
-                  "id": "sp_24",
+                  "id": "sp_27",
                   "appreciation": "Relationship Story Issue",
                   "narrative_function": "Rationalization",
                   "throughline": "Relationship Story",
@@ -2212,7 +2310,7 @@
                   ]
                 },
                 {
-                  "id": "sp_25",
+                  "id": "sp_28",
                   "appreciation": "Relationship Story Problem",
                   "narrative_function": "Feeling",
                   "throughline": "Relationship Story",
@@ -2226,7 +2324,7 @@
                   ]
                 },
                 {
-                  "id": "sp_26",
+                  "id": "sp_29",
                   "appreciation": "Relationship Story Solution",
                   "narrative_function": "Logic",
                   "throughline": "Relationship Story",
@@ -2240,7 +2338,7 @@
                   ]
                 },
                 {
-                  "id": "sp_27",
+                  "id": "sp_30",
                   "appreciation": "Relationship Story Symptom",
                   "narrative_function": "Hinder",
                   "throughline": "Relationship Story",
@@ -2254,7 +2352,7 @@
                   ]
                 },
                 {
-                  "id": "sp_28",
+                  "id": "sp_31",
                   "appreciation": "Relationship Story Response",
                   "narrative_function": "Help",
                   "throughline": "Relationship Story",
@@ -2268,7 +2366,21 @@
                   ]
                 },
                 {
-                  "id": "sp_29",
+                  "id": "sp_32",
+                  "appreciation": "Relationship Story Benchmark",
+                  "narrative_function": "Conceiving",
+                  "throughline": "Relationship Story",
+                  "illustration": "Relationship Story Benchmark",
+                  "summary": "Relationship Story Benchmark: Conceiving",
+                  "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: author, 2026-10-05 (step 40): the session's proposal taken — wie AEGIS Kael umdeutet: von 734 zur Anomalie, zu „unkontrollierbar“; the placement rule is not public, only that it is a type of the class other than the concern is checked.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "sp_33",
                   "appreciation": "Main Character Pivotal Element",
                   "narrative_function": "Logic",
                   "throughline": "Main Character",
@@ -2282,7 +2394,7 @@
                   ]
                 },
                 {
-                  "id": "sp_30",
+                  "id": "sp_34",
                   "appreciation": "Story Goal",
                   "narrative_function": "Obtaining",
                   "illustration": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null.",
@@ -2295,7 +2407,7 @@
                   ]
                 },
                 {
-                  "id": "sp_31",
+                  "id": "sp_35",
                   "appreciation": "Story Requirements",
                   "narrative_function": "Doing",
                   "illustration": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
@@ -2308,7 +2420,7 @@
                   ]
                 },
                 {
-                  "id": "sp_32",
+                  "id": "sp_36",
                   "appreciation": "Story Consequence",
                   "narrative_function": "Becoming",
                   "illustration": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
@@ -2321,7 +2433,7 @@
                   ]
                 },
                 {
-                  "id": "sp_33",
+                  "id": "sp_37",
                   "appreciation": "Story Forewarnings",
                   "narrative_function": "Progress",
                   "illustration": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1).",
@@ -2334,7 +2446,7 @@
                   ]
                 },
                 {
-                  "id": "sp_34",
+                  "id": "sp_38",
                   "appreciation": "Story Costs",
                   "narrative_function": "Memory",
                   "illustration": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
@@ -2347,7 +2459,7 @@
                   ]
                 },
                 {
-                  "id": "sp_35",
+                  "id": "sp_39",
                   "appreciation": "Story Dividends",
                   "narrative_function": "Understanding",
                   "illustration": "AEGIS versteht Kael mit jedem Zug genauer.",
@@ -2360,7 +2472,7 @@
                   ]
                 },
                 {
-                  "id": "sp_36",
+                  "id": "sp_40",
                   "appreciation": "Story Prerequisites",
                   "narrative_function": "Past",
                   "illustration": "AEGIS braucht seine eigenen Aufzeichnungen, um sweepen zu können.",
@@ -2373,7 +2485,7 @@
                   ]
                 },
                 {
-                  "id": "sp_37",
+                  "id": "sp_41",
                   "appreciation": "Story Preconditions",
                   "narrative_function": "Conceiving",
                   "illustration": "AEGIS darf nur im Rahmen des Protokolls löschen (das Trennungsprotokoll als Regel).",
@@ -2674,12 +2786,12 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               },
               {
                 "sequence": 2,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_31"
+                "storypoint_id": "sp_35"
               }
             ]
           },
@@ -2719,7 +2831,7 @@
               {
                 "sequence": 2,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_31"
+                "storypoint_id": "sp_35"
               }
             ]
           },
@@ -2754,7 +2866,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               }
             ]
           },
@@ -2789,7 +2901,7 @@
               {
                 "sequence": 2,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_31"
+                "storypoint_id": "sp_35"
               }
             ]
           },
@@ -2814,7 +2926,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_09"
+                "storypoint_id": "sp_10"
               }
             ]
           },
@@ -2849,7 +2961,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               }
             ]
           },
@@ -2879,12 +2991,12 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               },
               {
                 "sequence": 2,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_31"
+                "storypoint_id": "sp_35"
               }
             ]
           },
@@ -2909,7 +3021,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_23"
+                "storypoint_id": "sp_26"
               }
             ]
           },
@@ -2939,7 +3051,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               }
             ]
           },
@@ -2974,7 +3086,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               }
             ]
           },
@@ -2999,7 +3111,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_23"
+                "storypoint_id": "sp_26"
               }
             ]
           },
@@ -3024,7 +3136,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_09"
+                "storypoint_id": "sp_10"
               }
             ]
           },
@@ -3059,7 +3171,7 @@
               {
                 "sequence": 2,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_31"
+                "storypoint_id": "sp_35"
               }
             ]
           },
@@ -3104,7 +3216,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               },
               {
                 "sequence": 2,
@@ -3144,7 +3256,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               }
             ]
           },
@@ -3174,7 +3286,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               }
             ]
           },
@@ -3204,12 +3316,12 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               },
               {
                 "sequence": 2,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_31"
+                "storypoint_id": "sp_35"
               }
             ]
           },
@@ -3239,7 +3351,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_09"
+                "storypoint_id": "sp_10"
               }
             ]
           },
@@ -3279,7 +3391,7 @@
               {
                 "sequence": 2,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_31"
+                "storypoint_id": "sp_35"
               }
             ]
           },
@@ -3314,7 +3426,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_23"
+                "storypoint_id": "sp_26"
               }
             ]
           },
@@ -3349,7 +3461,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               }
             ]
           },
@@ -3384,7 +3496,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               }
             ]
           },
@@ -3414,12 +3526,12 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               },
               {
                 "sequence": 2,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_31"
+                "storypoint_id": "sp_35"
               }
             ]
           },
@@ -3449,7 +3561,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               }
             ]
           },
@@ -3479,7 +3591,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_23"
+                "storypoint_id": "sp_26"
               }
             ]
           },
@@ -3509,7 +3621,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_09"
+                "storypoint_id": "sp_10"
               }
             ]
           },
@@ -3554,7 +3666,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               },
               {
                 "sequence": 2,
@@ -3613,12 +3725,12 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               },
               {
                 "sequence": 2,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_31"
+                "storypoint_id": "sp_35"
               }
             ]
           },
@@ -3735,7 +3847,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_09"
+                "storypoint_id": "sp_10"
               }
             ]
           },
@@ -3799,7 +3911,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               },
               {
                 "sequence": 2,
@@ -3854,7 +3966,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               },
               {
                 "sequence": 2,
@@ -3972,7 +4084,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_23"
+                "storypoint_id": "sp_26"
               }
             ]
           },
@@ -4017,7 +4129,7 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_34"
+                "storypoint_id": "sp_38"
               },
               {
                 "sequence": 2,

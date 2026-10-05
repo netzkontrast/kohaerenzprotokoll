@@ -208,6 +208,13 @@ with the consequences of each option laid out.
     (`Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md`), the spiral by price, AEGIS' Kap 16 and 22, Kap 26
     as the camps' choice. The author's preferences, open and not canon (step 38): the border to KW2 costs the left hand
     (Silas' trace stays in KW1); the four people stay behind in KW1; Kap 18 shows the night without its cause (W12 open).
+40. **The benchmarks (2026-10-05),** the session's proposals taken, one per throughline. A: OS **Being** (how long each
+    part holds its role), MC **Conscious** (what Kael knows, chapter by chapter), IC **Progress** (how far Juna's life
+    moves on without him), RS **Doing** (what the connection does). B: OS **Doing** (the sweeps and their losses), MC
+    **Progress** (the instability that grows despite every sweep), IC **Memory** (what Kael remembers that AEGIS had
+    deleted), RS **Conceiving** (how AEGIS reconceives Kael). The placement rule is in the licensed DSM and not
+    public; `storyform.py` checks only that a benchmark is a type of its class other than the concern, and writes it
+    into the overview and the NCP.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

@@ -4,7 +4,7 @@
 entwickeln und die Dramatica-/Plot-Skills für Claude optimieren.
 
 **Status:** Vorschläge zur Ausführung, kein neuer Kanon, kein Treatment und keine Manuskriptprosa. Grundlage ist
-Entscheidung 025 bis Schritt 39. Beide Storyforms, Signposts, Besetzung, Weltverteilung und Aktübergänge bleiben.
+Entscheidung 025 bis Schritt 40. Beide Storyforms, Signposts, Besetzung, Weltverteilung und Aktübergänge bleiben.
 `Plan/storyform/development.json` ist der bearbeitbare Vorschlagsbestand; `scripts/storyform.py` schreibt daraus
 die Kapitelentwicklung in `overview.md` und die unterstützten Moment-Felder des NCP. Nicht diese Darstellungen
 getrennt pflegen. NCP bleibt `draft`; jede ergänzte Synopsis nennt ausdrücklich ihren Vorschlagsstatus.
@@ -95,10 +95,11 @@ Tag, um eine Vereinbarung mit Juna einzuhalten. **Gewinn:** Success/Good und Vie
 
 ## Abgleich mit dem parallel fortgeschriebenen PR #169
 
-Der Stand `a4ea6fb7` wurde übernommen: Akt II ist nach Schritt 39 Arbeitsgrundlage; die linke Hand als Preis des
+Der Stand `ae691ee2` wurde übernommen: Akt II ist nach Schritt 39 Arbeitsgrundlage; die linke Hand als Preis des
 KW2-Übergangs bleibt eine offene Vorliebe. Die vier Menschen bleiben in KW1; Kap 18 zeigt die Nacht ohne
 festgelegte Ursache. `ereignis-wissen_akt-1_2026-10-05.md` konkretisiert die drei Löschziele als einen Vorschlag,
-keine neue Entscheidung. Die NCP-Vorschläge verweisen darauf, halten alternative Ausführungen aber offen.
+keine neue Entscheidung. Schritt 40 ergänzt die acht beschlossenen Benchmarks; der Generator und seine
+Prüfungen wurden übernommen. Die NCP-Vorschläge verweisen darauf, halten alternative Ausführungen aber offen.
 
 Der Praxistest der Skills las A–I und prüfte H/I sowie Kap 19/20/24: Handlung wird nicht als Be-er-Verstoß
 behandelt; Beruf und Weltmechanik aus den Entwürfen bleiben unentschieden. Die Bergung führt zur Ortung,

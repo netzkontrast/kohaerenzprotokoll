@@ -27,12 +27,12 @@
 
 **Genre:** Hard-SF / Philosophical Horror / Psychological Thriller
 
-| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |
-|---|---|---|---|---|---|---|
-| MC | Mind | Memory | Suspicion | Inertia → Change | Chaos → Order | Memory → Subconscious → Preconscious → Conscious |
-| IC | Universe | Past | Prediction | Change → Inertia | Actuality → Perception | Past → Progress → Present → Future |
-| OS | Psychology | Conceptualizing | State of Being | Inertia → Change | Knowledge → Thought | Being → Becoming → Conceiving → Conceptualizing |
-| RS | Physics | Understanding | Instinct | Ability → Desire | Thought → Knowledge | Learning → Doing → Obtaining → Understanding |
+| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Benchmark | Akte |
+|---|---|---|---|---|---|---|---|
+| MC | Mind | Memory | Suspicion | Inertia → Change | Chaos → Order | Conscious | Memory → Subconscious → Preconscious → Conscious |
+| IC | Universe | Past | Prediction | Change → Inertia | Actuality → Perception | Progress | Past → Progress → Present → Future |
+| OS | Psychology | Conceptualizing | State of Being | Inertia → Change | Knowledge → Thought | Being | Being → Becoming → Conceiving → Conceptualizing |
+| RS | Physics | Understanding | Instinct | Ability → Desire | Thought → Knowledge | Doing | Learning → Doing → Obtaining → Understanding |
 
 Plot: goal **Conceptualizing** · requirements **Learning** · consequence **Past** · forewarnings **Preconscious** · costs **Being** · dividends **Becoming** · prerequisites **Memory** · preconditions **Present**
 
@@ -48,12 +48,12 @@ Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 
 **Genre:** Hard-SF / Philosophical Horror / Psychological Thriller
 
-| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Akte |
-|---|---|---|---|---|---|---|
-| MC | Universe | Future | Openness | Disbelief → Faith | Reconsideration → Consideration | Past → Present → Progress → Future |
-| IC | Mind | Subconscious | Dream | Disbelief → Faith | Oppose → Support | Conscious → Memory → Preconscious → Subconscious |
-| OS | Physics | Obtaining | Approach | Feeling → Logic | Reconsideration → Consideration | Doing → Learning → Understanding → Obtaining |
-| RS | Psychology | Becoming | Rationalization | Feeling → Logic | Hinder → Help | Being → Conceiving → Conceptualizing → Becoming |
+| Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Benchmark | Akte |
+|---|---|---|---|---|---|---|---|
+| MC | Universe | Future | Openness | Disbelief → Faith | Reconsideration → Consideration | Progress | Past → Present → Progress → Future |
+| IC | Mind | Subconscious | Dream | Disbelief → Faith | Oppose → Support | Memory | Conscious → Memory → Preconscious → Subconscious |
+| OS | Physics | Obtaining | Approach | Feeling → Logic | Reconsideration → Consideration | Doing | Doing → Learning → Understanding → Obtaining |
+| RS | Psychology | Becoming | Rationalization | Feeling → Logic | Hinder → Help | Conceiving | Being → Conceiving → Conceptualizing → Becoming |
 
 Plot: goal **Obtaining** · requirements **Doing** · consequence **Becoming** · forewarnings **Progress** · costs **Memory** · dividends **Understanding** · prerequisites **Past** · preconditions **Conceiving**
 
