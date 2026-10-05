@@ -70,6 +70,21 @@ class Atlas(unittest.TestCase):
     def test_generation_is_deterministic(self):
         self.assertEqual(atlas.render(fixture()),atlas.render(fixture()))
 
+    def test_drift_names_stale_missing_and_orphaned_pages(self):
+        """SPEC.md step 3: `kg.py export --check` fails when Graph/ is not what an export would write."""
+        pages=atlas.render(fixture())
+        with tempfile.TemporaryDirectory() as tmp:
+            d=Path(tmp)
+            for path,content in pages.items():
+                (d/path).parent.mkdir(parents=True,exist_ok=True)
+                (d/path).write_text(content,encoding='utf-8')
+            self.assertEqual(atlas.drift(pages,d),[])
+            (d/'terms/a.md').write_text(pages['terms/a.md']+'edited',encoding='utf-8')
+            (d/'terms/b.md').unlink()
+            (d/'terms/gone.md').write_text(atlas.MARKER+'old',encoding='utf-8')
+            (d/'terms/hand.md').write_text('a page the renderer does not own',encoding='utf-8')
+            self.assertEqual(atlas.drift(pages,d),['stale: terms/a.md','missing: terms/b.md','orphaned: terms/gone.md'])
+
     def test_session_hook_initializes_local_and_remote(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp);(root/'scripts').mkdir()

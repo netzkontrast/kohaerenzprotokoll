@@ -44,6 +44,7 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Dramatica Storyform Synthese & AEGIS-Analyse](../../Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md) | 2026-04-30 | ja | ja |
 | [Guardians und Kern-Welten-Konzept](../../Sources/drive/guardians-und-kern-welten-konzept.md) | 2025-04-17 | ja | ja |
 | [Kapitel-Kompendium_Gather_2026-05-31.md](../../Sources/drive/kapitel-kompendium-gather-2026-05-31-md.md) | 2026-05-30 | ja | ja |
+| [KI-Narrative: Kollaps, Kohärenz, Paradoxie](../../Sources/drive/ki-narrative-kollaps-kohaerenz-paradoxie.md) | 2026-03-01 | ja | ja |
 | [kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [kohaerenz-protokoll_begriffe-und-konzepte_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [Kohaerenz_Protokoll_Charakter_Bibel_2026-05-08.md](../../Sources/drive/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md) | 2026-05-08 | ja | ja |

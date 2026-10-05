@@ -51,8 +51,10 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Duale Storyform-Synthese: Kohärenz Protokoll](../../Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md) | 2026-04-28 | ja | ja |
 | [Editorial Style Dossier: Somatic and Linguistic Implementation of the Kael System](../../Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md) | 2026-05-08 | ja | ja |
 | [Hard-SF-Roman-Outline: DKT-Physik, Cosmic Horror](../../Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md) | 2026-04-08 | ja | ja |
+| [KI-Narrative: Kollaps, Kohärenz, Paradoxie](../../Sources/drive/ki-narrative-kollaps-kohaerenz-paradoxie.md) | 2026-03-01 | ja | ja |
 | [KI-Prompt-Analyse: Hard Problem of Consciousness](../../Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md) | 2026-04-28 | ja | ja |
 | [kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md) | 2026-06-10 | ja | ja |
+| [Kohärenz-Protokoll Audit und Verifizierung](../../Sources/drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | ja | ja |
 | [kohaerenz-protokoll_begriffe-und-konzepte_2026-06-10.md](../../Sources/drive/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md) | 2026-06-10 | ja | ja |
 | [Kohaerenz_Protokoll_Charakter_Bibel_2026-05-08.md](../../Sources/drive/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md) | 2026-05-08 | ja | ja |
 | [kohaerenz_protokoll_konzept_master.md](../../Sources/drive/kohaerenz-protokoll-konzept-master-md.md) | 2026-05-08 | ja | ja |

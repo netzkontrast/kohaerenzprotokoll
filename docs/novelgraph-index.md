@@ -183,7 +183,7 @@ Gelesen, ohne mehr hineinzulegen:
   Treffergröße (13 gegen 18 Zeilen).
 - **`section@v1` gewinnt Zeilen-Recall nur durch Größe**: ein Treffer ist im Mittel 300+ Zeilen und ~6 500 Tokens — als
   Kontext für einen Leser unbrauchbar, als Vektor ein Mittelwert über ein halbes Dokument (vec fällt dort am stärksten ab).
-- **Gegen `ask.py bench` nicht vergleichbar**: dessen Pakete halten bis zu 60 000 Zeichen aus fünf Findern, hier sind es 8 Chunks.
+- **Gegen `ask.py bench` nicht vergleichbar**: dessen Pakete halten bis zu 72 000 Bytes (das ganze Paket, seit SPEC-Schritt 4; vorher 60 000 Zeichen Quellfenster) aus fünf Findern, hier sind es 8 Chunks.
 
 ### Größen
 
@@ -269,3 +269,11 @@ Die statische Bench trennt die Größen nicht. Deshalb hat ein `dspy.RLM`-Agent 
 **`heading@v1` bleibt.** `heading200@v1` liegt bei +0,015 [−0,009, +0,040], `heading800@v1` bei −0,019 [−0,046, +0,006].
 Der Agent erfand Belege, auch einen kompletten Werkzeug-Output samt nicht existierendem Dokument. Die Regel „nur gezeigte
 Refs" hat alle neun verworfen. Kosten 7,67 $, 83 Minuten. Daten, Design und Lesart: `Plan/runs/rlm-chunks-2026-10-01/README.md`.
+
+## 8. Als Finder von `ask` (2026-10-02, SPEC-Schritt 6)
+
+`ask.py` kann den Index als Finder nutzen (`--with novelgraph`, standardmäßig aus): acht `heading@v1`-Chunks je Frage über
+`novelgraph search --batch`, das Modell einmal geladen. Auf den eingefrorenen Fällen bringt das bei gleichem Byte-Budget
++0,016 Dokument- und +0,018 Zeilen-Recall (90 %-Intervalle schließen 0 aus), 32 Gold-Zeilen, die der Standard-Pack
+nicht sendet, 14 davon aus Dokumenten, die nur novelgraph findet; Kosten etwa 10 s je kaltem Aufruf. Ob er
+standardmäßig an ist, entscheidet der Autor: `Plan/runs/novelgraph-finder-2026-10-02/README.md`.

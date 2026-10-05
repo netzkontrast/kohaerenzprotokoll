@@ -37,7 +37,9 @@ Keine dieser Markierungen erklärt die Quellenposition zur verbindlichen Aussage
 | [Guardians und Kern-Welten-Konzept](../../Sources/drive/guardians-und-kern-welten-konzept.md) | 2025-04-17 | ja | ja |
 | [kap0-v1-annotiert.md](../../Sources/drive/kap0-v1-annotiert-md.md) | 2026-05-17 | ja | ja |
 | [Kapitel-Kompendium_Gather_2026-05-31.md](../../Sources/drive/kapitel-kompendium-gather-2026-05-31-md.md) | 2026-05-30 | ja | ja |
+| [KI-Narrative: Kollaps, Kohärenz, Paradoxie](../../Sources/drive/ki-narrative-kollaps-kohaerenz-paradoxie.md) | 2026-03-01 | ja | ja |
 | [Kohärenz Protokoll](../../Sources/drive/kohaerenz-protokoll.md) | 2025-04-27 | ja | ja |
+| [Kohärenz-Protokoll Audit und Verifizierung](../../Sources/drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | ja | ja |
 | [Kohaerenz_Protokoll_Charakter_Bibel_2026-05-08.md](../../Sources/drive/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md) | 2026-05-08 | ja | ja |
 | [kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08.md](../../Sources/drive/kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md) | 2026-05-08 | ja | ja |
 | [kohaerenz_protokoll_konzept_master.md](../../Sources/drive/kohaerenz-protokoll-konzept-master-md.md) | 2026-05-08 | ja | ja |

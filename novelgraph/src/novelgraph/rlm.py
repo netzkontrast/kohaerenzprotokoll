@@ -14,7 +14,7 @@ costs it a read. So the agent's success under each chunker is the measurement th
 - **Output**: `evidence: list[str]`, refs, most important first. Code validates them (`evaluate`): a ref
   the agent was never shown is invalid; the rest are taken in order **until 3 200 tokens of chunk text**
   — the same text budget for every chunker, or a large chunk would win by its size alone.
-- **Score**: per case, the share of the record's gold lines (`ask.bench_cases()`, unchanged) that lie in
+- **Score**: per case, the share of the record's gold lines (the frozen cases, `benchset.cases`) that lie in
   the accepted chunks, and the share of its gold documents. A forced answer (`max_iters` ran out and DSPy
   extracted one from the trajectory) is recorded and **not scored** (`scripts/rlm_ingest.py`'s rule).
 - **Resume and spend**: a run lives in `Plan/runs/<--run>/`; every row carries `run_fp` (`run_fingerprint`: code,
@@ -168,11 +168,13 @@ def program(tools, interpreter_factory=None):
 
 
 def run_fingerprint(methods, model: str, dry_run: bool, case_list: list[dict] | None = None) -> str:
-    """What a row of a run depends on besides its case: this module's code, the model, every limit, the task, the
+    """What a row of a run depends on besides its case: the code of its tools, the model, every limit, the task, the
     `_build/` stamp of each method's index, and the questions and gold of the cases asked. A resume continues
     only rows made under the same fingerprint."""
     import hashlib
-    parts = {"code": hashlib.sha1(Path(__file__).read_bytes()).hexdigest(), "model": "fixture" if dry_run else model,
+    # the agent's tools are this module, the index's search and the repository's query words (SPEC.md step 5)
+    code = b"".join(f.read_bytes() for f in (Path(__file__), Path(search.__file__), ROOT / "scripts" / "askdb.py"))
+    parts = {"code": hashlib.sha1(code).hexdigest(), "model": "fixture" if dry_run else model,
              "limits": [ITERS, SUB_CALLS, OUTPUT_CHARS, BUDGET, MAX_REFS], "task": TASK,
              "index": {m: build.build_stamp(m, store.default_embedder())[0] for m in methods},
              "cases": sorted([c["id"], c["question"], sorted(map(list, c["gold"]))] for c in (case_list or []))}

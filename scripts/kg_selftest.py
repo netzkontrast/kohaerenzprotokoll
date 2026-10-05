@@ -102,6 +102,23 @@ class Integration(unittest.TestCase):
         with self.assertRaises(kg.Refused):
             kg.freshness(self.db, self.root)
 
+    def test_one_freshness_record(self):
+        """SPEC.md step 3: the store keeps its inputs once (askdb's stats.input_hash), and kg.py reads that record.
+        Before, kp_meta held the inputs a second time and kg.py read only that copy: a store whose stats record
+        said stale passed kg.py's check."""
+        import askdb
+        import sqlite3
+        self.assertNotIn("inputs", kg.metadata(self.db))
+        kg.freshness(self.db, self.root)
+        conn = sqlite3.connect(str(self.db))
+        stats = askdb.stats(self.db)
+        conn.execute("UPDATE meta SET value=? WHERE key='stats'", (askdb.compact(dict(stats, input_hash="other")),))
+        conn.commit()
+        conn.close()
+        with self.assertRaises(kg.Refused):
+            kg.freshness(self.db, self.root)
+        self.assertEqual(kg.evidence_rows(self.graph), askdb.evidence_rows(self.graph))
+
     def test_failed_rebuild_leaves_previous_database_intact(self):
         before = self.db.read_bytes()
         with patch("askdb._graphqlite", side_effect=RuntimeError("fixture failure")):
@@ -176,6 +193,10 @@ class Integration(unittest.TestCase):
         self.assertEqual(result["conflicts"], pack["conflicts"])
         self.assertEqual([e["quote"] for e in result["evidence"]], ["kurz"])
         self.assertTrue(result["incomplete"])
+        self.assertEqual(result["status"], "incomplete")
+        whole = kg.bounded_context(dict(pack, evidence=pack["evidence"][1:]), 400)
+        self.assertEqual((whole["status"], whole["incomplete"]), ("complete", False))
+        self.assertEqual(kg.bounded_context(dict(pack, evidence=[]), 400)["status"], "no_evidence")
         with self.assertRaises(kg.Refused):
             kg.bounded_context(pack, 5)
 

@@ -13,7 +13,6 @@ UTF-8 bytes, including JSON metadata, not advertised as an exact token count.
 from __future__ import annotations
 
 import argparse
-import hashlib
 import json
 from pathlib import Path
 import sqlite3
@@ -32,10 +31,6 @@ class Refused(Exception):
 
 def compact(value):
     return json.dumps(value, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
-
-
-def digest(value):
-    return hashlib.sha256(compact(value).encode()).hexdigest()
 
 
 def payload(value):
@@ -65,13 +60,9 @@ def engine(path):
 
 
 def evidence_rows(graph):
-    rows = {}
-    for page, items in sorted(graph["evidence"].items()):
-        for item in items:
-            row = dict(item, page=page)
-            key = "evidence:" + digest(row)
-            rows[key] = dict(row, id=key)
-    return rows
+    """The evidence rows and their ids, as the store keeps them (askdb.py owns them; SPEC.md step 3)."""
+    import askdb
+    return askdb.evidence_rows(graph)
 
 
 def metadata(db):
@@ -83,10 +74,14 @@ def metadata(db):
 
 
 def freshness(db, root=ROOT):
+    """Refuse a stale store. The freshness record is askdb's (`askdb.fresh`), the one the store keeps."""
+    import askdb
+    why = askdb.fresh(db, root)
+    if why:
+        raise Refused(f"stale index: {why}; changed or deleted inputs invalidate stored evidence (kg.py index rebuilds it)")
     meta = metadata(db)
-    current = inputs(root)
-    if meta.get("version") != VERSION or meta.get("inputs") != current:
-        raise Refused("stale index: run kg.py index; changed or deleted inputs invalidate stored evidence")
+    if meta.get("version") != VERSION:
+        raise Refused("stale index: run kg.py index; the graph projection's version changed")
     return meta
 
 
@@ -131,12 +126,11 @@ def read_graph(db):
 
 
 def search(db, query, limit):
-    # Treat user input as literal FTS words; no query syntax is interpolated.
-    import re
-    words = re.findall(r"\w+", query)
-    if not words:
+    # Treat user input as literal FTS words; no query syntax is interpolated (askdb.query_words, SPEC.md step 5).
+    import askdb
+    match = askdb.fts_query(query)
+    if not match:
         return {"evidence": [], "reason": "no search words"}
-    match = " OR ".join('"' + w.replace('"', '""') + '"' for w in words)
     with sqlite3.connect(db) as conn:
         rows = conn.execute("SELECT e.payload, bm25(kp_fts) FROM kp_fts JOIN kp_evidence e "
                             "ON e.id=kp_fts.id WHERE kp_fts MATCH ? ORDER BY bm25(kp_fts), e.id LIMIT ?",
@@ -176,28 +170,33 @@ def around(db, node, hops, limit):
         g.close()
 
 
-def bounded_context(pack, max_bytes):
-    """Keep quotations whole, preserve conflict/question metadata, report omissions."""
-    result = {k: pack[k] for k in ("query", "seeds", "terms", "conflicts", "questions")}
-    result.update(evidence=[], omitted=len(pack["evidence"]), incomplete=True,
-                  no_evidence=not pack["evidence"], max_bytes=max_bytes)
+def bounded_context(found, max_bytes):
+    """Keep quotations whole, preserve conflict/question metadata, report omissions — the pack contract of
+    `pack.py` in JSON: the budget is the UTF-8 bytes of the whole output, `status` one of `pack.STATUSES`."""
+    import pack
+    result = {k: found[k] for k in ("query", "seeds", "terms", "conflicts", "questions")}
+    # the status is reserved at its longest value while quotations are fitted, so the final one never overflows
+    result.update(evidence=[], omitted=len(found["evidence"]), incomplete=True,
+                  no_evidence=not found["evidence"], max_bytes=max_bytes, status="no_evidence")
     # Reserve the final CLI newline as part of the serialized output budget.
-    if len(compact(result).encode()) + 1 > max_bytes:
+    if pack.size(compact(result)) + 1 > max_bytes:
         raise Refused("budget cannot hold conflict/question metadata: increase --max-bytes")
-    seen = set()
-    for row in pack["evidence"]:
+    seen, skipped = set(), []
+    for row in found["evidence"]:
         identity = (row["doc"], row["line"], row["quote"])
         if identity in seen:
             continue
         seen.add(identity)
-        candidate = row
-        trial = {**result, "evidence": result["evidence"] + [candidate], "omitted": result["omitted"] - 1}
-        if len(compact(trial).encode()) + 1 <= max_bytes:
+        trial = {**result, "evidence": result["evidence"] + [row], "omitted": result["omitted"] - 1}
+        if pack.size(compact(trial)) + 1 <= max_bytes:
             result = trial
+        else:
+            skipped.append(row)
     result["incomplete"] = result["omitted"] > 0
     # 'false' has one more byte than 'true'; recheck the final serialized form.
-    if len(compact(result).encode()) + 1 > max_bytes:
+    if pack.size(compact(result)) + 1 > max_bytes:
         result["incomplete"] = True
+    result["status"] = pack.status(result["evidence"], skipped or ([None] if result["incomplete"] else []))
     return result
 
 
@@ -211,6 +210,8 @@ def context(db, query, max_bytes):
         row["id"] = lookup[(row["page"], row["doc"], row["line"], row["quote"], row["section"], row["page_line"])]
     result = bounded_context(pack, max_bytes)
     result["incomplete"] = result["incomplete"] or pack["not_selected"] > 0
+    if result["incomplete"] and result["status"] == "complete":
+        result["status"] = "incomplete"   # the retriever left evidence out before the budget was applied
     return result
 
 
@@ -239,7 +240,8 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--db", type=Path, default=DATABASE, help="derived index; default Plan/derived/ask.db")
     commands = parser.add_subparsers(dest="command", required=True)
-    commands.add_parser("export", help="write a human-readable Markdown graph atlas under Graph/; no import or restore")
+    x = commands.add_parser("export", help="write a human-readable Markdown graph atlas under Graph/; no import or restore")
+    x.add_argument("--check", action="store_true", help="write nothing; fail when Graph/ is not what an export would write")
     commands.add_parser("index", help="rebuild on input change; unchanged input is a no-op")
     commands.add_parser("check", help="fail if absent or stale")
     s = commands.add_parser("search", help="FTS5 over verified evidence")
@@ -262,6 +264,10 @@ def main(argv=None):
             output = index(args.db)
         elif args.command == "export":
             import graph_export
+            if args.check:
+                output = graph_export.check(args.db)
+                print(compact(output))
+                return 0 if output["status"] == "current" else 1
             output = graph_export.export(args.db)
         else:
             meta = freshness(args.db)
@@ -285,4 +291,6 @@ def main(argv=None):
 
 
 if __name__ == "__main__":
+    # graph_export imports `kg`; without this it would get a second module whose Refused this main() cannot catch
+    sys.modules.setdefault("kg", sys.modules["__main__"])
     raise SystemExit(main())
