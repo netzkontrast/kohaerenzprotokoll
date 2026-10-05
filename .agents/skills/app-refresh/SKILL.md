@@ -78,8 +78,13 @@ the rule in `sessions.py` (with its selftest case), not the output.
 
 - **The canvas** — https://claude.ai/artifact/1EyhQkX3MpiRTw3TxjTjYL, private to the author. A data refresh
   sends `project/Main.dc.html` alone (root `Plan/derived/ui/canvas`), so the author's arrangement survives;
-  `canvas.json` and the frames only when the layout changed. Read the artifact first (the Artifact tool's `read`),
-  then publish to its `url`. A session without the Artifact tool says in the pull request that the canvas was not
+  `canvas.json` and the frames only when the layout changed. Read the artifact first (the Artifact tool's `read`,
+  `path: project/Main.dc.html`) and find the commit it shows (`"meta":{"commit":…}`). **Publish only when that commit
+  is an ancestor of HEAD** (`git merge-base --is-ancestor <commit> HEAD`, after `git fetch`): otherwise another
+  session's snapshot is live — several sessions publish to one canvas — and yours would overwrite work this branch
+  does not hold. Leave it, and say so in the pull request; the canvas catches up from `main` after the merge
+  (measured 2026-10-05: a session's snapshot of `e9e262c2`, on no branch this one held, went live minutes before
+  this skill's first run). A session without the Artifact tool says in the pull request that the canvas was not
   published.
 - **The website** — Vercel project `kohaerenzprotokoll` builds every push itself (`vercel.json` runs
   `python3 scripts/web.py`). After pushing, look for the branch's preview deployment and open
