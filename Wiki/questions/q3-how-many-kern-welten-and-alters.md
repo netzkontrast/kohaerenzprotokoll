@@ -443,3 +443,11 @@ Worlds: „The four Kernwelten (Core Worlds) are simulated realities created by 
 Alters: the blueprint says „the existence of eleven identified alters“ ^[ai-assisted-narrative-coherence.md:L431], and in the next section „The following table profiles the most significant alters within“ ^[ai-assisted-narrative-coherence.md:L435] System Kael, with rows for Kael, Lex, Nyx, Kiko, Rhys and Selene. The Kael biography: „The table below profiles the five most significant alters who define Kael's internal landscape and his path toward integration.“ ^[ai-assisted-narrative-coherence.md:L1101] — Kael, Lex, Nyx, Kiko and Selene. The architecture analysis's table, under „Kael's psyche is modeled on the Theory of Tertiary Structural Dissociation (TSDP)“ ^[ai-assisted-narrative-coherence.md:L1749], lists Kael, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Lex, Alex, Rhys and Argus.
 
 It stands with the record's open count: the same compilation says eleven and tabulates fewer in two parts; the record is not changed.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39
+
+**The outline lays out a table of alters in rows, each with an action system, a functional role and a DKT correlate; it speaks of alters, not of Kern-Welten.**
+
+The section on the Kael system says the Struktur-Kanon „spezifiziert ein Profil von 10 funktionalen Anteilen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L41], and the table's columns are „Alter Name“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45], „TSDP-Aktionssystem“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45], „Funktionale Rolle“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45] and „DKT-Korrelat“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45]. The rows (L46–L55) run from Lex to Argus; no row names a Kern-Welt.
+
+Stands as one more table of alters with a one-per-row layout of functional roles; recorded, not applied, and the open question stays open.
