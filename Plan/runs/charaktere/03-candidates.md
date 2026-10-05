@@ -1,0 +1,148 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+---
+
+# Candidates — charaktere
+
+The document is German prose with markdown headings and nested bullets. It has two passes over the same eleven Anteile (L29 to L83, a short roster; L131 to L218, a long profile; L265 to L341, a third table-like profile), a section on AEGIS, one on Juna/V, one on Guardians and Nebencharaktere, and a closing section on prose. It speaks in the first person as `Narrativer Architekt` and addresses the author as „Ihr“. Quotation marks in the document mark both its own coinages and terms it reports from its sources. The surfaces below are written as the lines write them; the bracketed role words are listed as joined forms where the heading joins them.
+
+## world: figures and entities
+
+- Kael
+- Kael (Host)
+- System Kael
+- Selene
+- Selene (Integratorin/Wächterin)
+- Nyx
+- Nyx (Kämpfer)
+- Kiko
+- Kiko (Kind/Angst/Freeze)
+- Lia
+- Isabelle
+- Moros
+- Moros (Kollaps)
+- Alex
+- Alex (Protektor-ANP)
+- Rhys
+- Rhys (Pflegender ANP)
+- Lex
+- Lex (Rationaler ANP)
+- Argus
+- Argus (Beobachter/Kritiker)
+- Nox
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Juna/V
+- Juna
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos & Sophia
+- Guardians
+- Der Archivar / Einheit 734
+- Einheit 734
+- Die Rebellin
+- Das Orakel
+- Der Reflektor
+- Der Versucher
+- Externe Entität
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Nichts Rauschens
+- Potentialmeers
+- Leere
+- Kohärenz Protokoll
+- Paradoxon X
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Genesis-Krise
+- Moonshine-Link
+- ontologischer Exploit
+- Ursprungs-Ichs
+- Cache Kohärenz
+- externalisiertes Täterintrojekt
+- Verfolger (Introjekt)
+- Persecutory Parts
+- Persecutor
+- Anteile
+- Alters
+
+## own terms
+
+- Tertiäre Strukturelle Dissoziation
+- tertiäre strukturelle Dissoziation
+- TSDP
+- TSDP-Typ
+- Anscheinend Normalen Persönlichkeitsanteilen
+- Emotionalen Persönlichkeitsanteilen
+- ANP
+- ANPs
+- EP
+- EPs
+- ISH
+- innere Helferin
+- Innere Helferin (ISH)
+- Torwächter
+- Host
+- Kern-Selbst
+- funktionale Multiplizität
+- Funktionalen Multiplizität
+- ANP-EP Phobien
+- ANP-EP-Phobien
+- ANP-Strategiekonflikte
+- EP-Konfliktdynamiken
+- Ko-Bewusstsein
+- Amnesiebarrieren
+- lost time
+- Subsysteme
+- Schutz-Allianzen
+- AEGIS-konforme Anteile
+- Juna/V-Allianzen
+- inneren Tauziehen
+- Aktionssysteme
+- Switching-Mechanismen & Trigger
+- Funktion & Ursprung
+- Motivation/Angst
+- Trauma-Fokus
+- Kern-Phobien
+- Integrierte Rolle
+- Haltung zur Integration
+- Schlüssel-Phobie(n)
+- Kernrolle/Funktion
+- Beziehung zu AEGIS
+- Gesellschaft von Individuen
+- emergente(n) Handlungsfähigkeit
+- innere Kohärenz
+- offensiven Waffe
+- kybernetische Katastrophe zweiter Ordnung
+- Homonymie
+- Anmerkung des Narrativen Architekten
+- Narrativer Architekt
+- Performanz der Multiplizität
+- Stabilisierung
+- Trauma-Verarbeitung
+- Integration und Rehabilitation
+- Weitere Nebencharaktere
+
+## lens
+
+- Dissoziativen Identitätsstruktur
+- DID
+- IFS-Modell
+- Lügner-Paradoxon
+- Typentheorie
+- Kategorientheorie
+- Prozesskalküle
+- nicht-wohlfundierte Mengenlehre
+- Logik der Formalen Inkonsistenz
+- Quanten-Nichtlokalität
+- Gaslighting
+- parakonsistentes System
+- dialetheische Struktur
+- Contagonist
