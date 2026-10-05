@@ -497,3 +497,20 @@ Stands as eleven Anteile with Nox a twelfth name used once, and four Kernwelten;
 It begins: „elf identifizierten Anteilen Kael, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Alex, Rhys, Lex und Argus“ ^[strukturelle-dissoziation-system-kael-analyse.md:L15]. Teil 2 sorts them: „System Kael mit seinen 4 identifizierten ANPs (Kael, Lex, Alex, Rhys) und 5+ EPs (Nyx, Kiko, Lia, Isabelle, Moros, ggf. Anteile von Selene/Argus)“ ^[strukturelle-dissoziation-system-kael-analyse.md:L196], so Selene and Argus are mixed forms. Tabelle 2 gives each Anteil a type, from „Kael | Primärer ANP (Host)“ ^[strukturelle-dissoziation-system-kael-analyse.md:L232] on. The four Kernwelten are „Co₁, McL, B, Ly“ ^[strukturelle-dissoziation-system-kael-analyse.md:L15] in the report's own symbolic names, taken as inner landscapes; it ties no Kernwelt to one Anteil but lists resonance per world.
 
 Stands as one more count and one more set of Kernwelt names in the record's terms; nothing is settled.
+## 2026-10-05 — the author: thirteen alters (one part of Q3)
+
+Asked *Wie viele Anteile trägt das Buch?* with the two counts the sources give — eleven in the TSDP analysis of
+2025-04-28 (`kael-system-tsdp-analyse-und-profile`, L15) and thirteen in the character bible of 2026-05-08 with Silas and
+Oblivion (`kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, L298) — the author chose **thirteen, as the bible**:
+Kael (host), Lex, Alex, Rhys, Selene, Argus, Nyx (with Isabelle as part of her, decision 025 step 29), Kiko, Lia, Moros,
+Silas, Oblivion. **This answers the alter count only.** How many Kern-Welten there are, and whether a Kern-Welt
+corresponds to an alter, stays open; so does the question's status.
+
+## 2026-10-05 — the author: four Kern-Welten, carrying the acts (the other count of Q3)
+
+Asked *Welche Kernwelt trägt welchen Akt?* with three mappings the sources give, the author chose the one of
+`worldbuilding-konzept-kohaerenzprotokoll-md` (2026-05-08): KW1 Kap 1–13, KW2 Kap 14–22, KW3 Kap 23–28, KW4 Kap 29–39
+with the Vortex — „KW1 dominiert Akt I (Ch1–13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496] — and, on
+W8, separate worlds whose borders cost something (decision 025, step 35). **The count of Kern-Welten is four.** Whether
+a Kern-Welt corresponds to an alter stays open, and so do the names of KW2–KW4 and the Guardians (Q5); the question
+stays open for that one part.

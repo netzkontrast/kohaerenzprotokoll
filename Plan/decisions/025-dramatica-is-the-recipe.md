@@ -50,8 +50,9 @@ with the consequences of each option laid out.
 13. **The plot story points** (WP's candidates, put one at a time with their consequences). B: requirements Doing
     (the sweeps), consequence Becoming (the system becomes entropic — a Stop story, so it is already under way),
     forewarnings Progress (maintenance windows grow denser; the visible clock of the timelock). A: requirements Learning
-    (Kael reads his own history), consequence Past (the night of fragmentation repeats — a Start story, so it only
-    threatens), forewarnings Preconscious (alters break through; time gaps). The chart checks only their level (R8).
+    (Kael reads his own history), consequence Past (the night of fragmentation repeats — written as „a Start story, so it
+    only threatens"; corrected 2026-10-05: since step 16 A is a Stop story, so the consequence is already under way — the
+    night has happened, triggered by the threatened separation, and its repetition threatens; `alters-im-plot.md`), forewarnings Preconscious (alters break through; time gaps). The chart checks only their level (R8).
 14. **Costs and dividends** (proposals of the session; WP has none). B: costs Memory (every sweep eats AEGIS' own
     memory — an opening for Kael's memory in B-IC act II), dividends Understanding (AEGIS learns Kael ever more
     precisely, the outline of 2026-05-18). A: costs Being (Kael's working façade falls apart), dividends Becoming
@@ -133,6 +134,65 @@ with the consequences of each option laid out.
     the 41 chapters as story-level moments whose storybeat references name their narrative — a bridge is one moment
     across A and B. It replaces the two 1.3.0 files. `dsm_version` says what checked it: the 1999 chart in
     `dramatica.py`, not the licensed DSM. Risk accepted: a release candidate may still change before 3.0.0.
+25. **W0, the core (2026-10-05): A — told freely.** Asked with what it means for the scaffold (Juna's 7 IC chapters
+    and the 10 chapters of the Kael–Juna relationship need a Juna who acts because she is there), the author chose that
+    the before, the call and the after become scenes and Juna is a full figure. The rule „Juna nie Subjekt" no longer
+    binds the treatment; Block 4 stays the limit for names, places and biographical detail.
+26. **W9, Juna (2026-10-05): she follows her signposts.** Akt I: remembered scenes before the call, where she speaks and
+    wants (Kap 4, 11, IC·Past); Akt II: her life and the silence go on, in traces (Kap 17, 25, IC·Progress); Akt III: the
+    first direct encounter in the present (Kap 32, IC·Present); the Vortex: their future (Kap 36, 38, IC·Future). C7
+    decided. Open: a POV of her own, and whether she is the original self or a counterpart (J68).
+27. **The driver events at the act transitions (H11, 2026-10-05).** A decides, B acts, at each transition. 13/14: Kael
+    will no longer confirm the deletion of his own line (the connection to Juna stays; others pay) → AEGIS' first
+    erasure wave. 26/27: Kael decides to go to Juna in the present → AEGIS' purge against the connection (Kap 28, Juna in
+    danger). 34/35: after the encounter (Kap 32) Kael lets Juna go and cuts the connection himself — the old silence,
+    this time chosen — → the sweep converges on what is left (Kap 35). The session noted the tension with Change: Kael
+    chooses the old pattern once more, so the turn Inertia → Change falls inside the Vortex (Kap 35, the pivot); the
+    author chose it. In `weave.json`, `transitions`; `storyform.py` refuses a transition without both halves.
+28. **Casting A, the rule for the other six (2026-10-05).** Reason (Control/Logic) and Emotion (Uncontrolled/Feeling)
+    are alters, the poles inside Kael; the Guardian-Archetyp (Help/Conscience), the Contagonist (Hinder/Temptation),
+    the Sidekick (Support/Faith) and the Skeptic (Oppose/Disbelief) are people in Kael's present with wants of their
+    own — the answer to the assessment's diagnosis that nobody in the same room wants anything of him. Who, one at a time.
+29. **Reason and Emotion of A (2026-10-05).** Lex is Reason (Control, Logic: „Logik, Analyse, Intellektualisierung“,
+    Charakter-Bibel L362), Nyx is Emotion (Uncontrolled, Feeling: „Kinetische Gegenreaktion, Aggression“, L542), and
+    **Isabelle is part of Nyx** — the author's own addition. Their quarrel in the bible („Maximaler Konflikt“, L382) is the
+    quarrel of the two archetypes.
+30. **Casting A, the four people (2026-10-05).** Guardian-Archetyp **Mara** (Help, Conscience), Contagonist **Dorn**
+    (Hinder, Temptation), Sidekick **the old woman from the bench** of Kap 1 (Support, Faith), Skeptic **the colleague at
+    the console** (Oppose, Disbelief). All four are inventions of session drafts or new, in no source; their wants are to
+    be built with the author (`character-card-builder`). The author asked whether Juna could be the Sidekick; the session
+    advised against it — she is memory and traces until Kap 32, and an overall-story role needs presence — and the
+    author chose the old woman. All eight archetypes of A are now cast; H9 holds (no player carries both halves of a pair).
+31. **Casting B (2026-10-05): the five Guardians as AEGIS' ensemble** — the mirror of A, whose overall story is carried
+    by Kael's parts. AEGIS is Protagonist and Reason whole (Pursuit, Consideration, Control, Logic), Kael Antagonist and
+    Emotion whole (Avoid, Reconsideration, Uncontrolled, Feeling). Contagonist **Mnemosyne** (Hinder, Temptation — she
+    keeps what AEGIS would close, and tempts with deletion: Charakter-Bibel §3.2–3.3), Guardian-Archetyp **Sophia** (Help,
+    Conscience), Sidekick **LogOS** (Support, Faith), Skeptic **Kairos** (Oppose, Disbelief); **Cerberus** carries no
+    archetype. The last three by their domains, a session proposal the author took. H8 and H9 hold. All archetypes of
+    both storyforms are now cast.
+32. **The alters in the plot (2026-10-05): a working basis, not canon.** From the session's proposal
+    (`Plan/runs/storyform-2026-10-02/alters-im-plot.md`, with the camps of `tsdp-lektuere.md`) the author took all
+    three parts: **three channels** — until Kap 13 a part shows only through the body, the syntax or a trace, never by
+    name; **the Juna arc as a fight of three camps** — search, defence, avoidance, Selene mediating; Kap 26 search wins,
+    Kap 34 defence, Kap 35 Oblivion stops; **the chapter table** from Akt I to the Vortex. `Plan/storyform/anteile.json`
+    holds it; `storyform.py` refuses a part the canon (Q3) does not name, a name before Kap 13, an appearance in AEGIS'
+    first person and a part that never appears, and writes every appearance into the NCP as an `event` storybeat of A.
+    Argus is in no camp: the TSDP analysis sets him analysing beside avoidance (L117), the canon does not — a question.
+33. **The NCP's player bios come from the canon (2026-10-05).** `storyform.py` reads the rows of `Manuscript/kanon.md`
+    for a player whose first name is a row's id (Kael, Juna); every other bio stays „offen“. One source, not a copy; a
+    script reading `Manuscript/` for the first time, and only the table of decisions.
+34. **What the four people want (2026-10-05),** from the session's proposals (the archetype and Plot-Entwurf 1), all
+    four taken: Mara (Guardian) that no one is lost any more, holding Kael by his name; Dorn (Contagonist) that his
+    sister in Sektor 04 does not cook, tempting Kael with deletion; the old woman (Sidekick) to be remembered, believing
+    in Kael before he does; the colleague (Skeptic) to prove Kael's open query a mistake. In `a.json` (`want`), the
+    canon (`Menschen`) and the cards.
+35. **The Kern-Welten carry the acts (2026-10-05):** the act mapping of the worldbuilding concept of 2026-05-08 — KW1
+    Kap 1–13, KW2 14–22, KW3 23–28 across the act border, KW4 29–39 with the Vortex; Kap 0 and 40 the frame. W8 answered
+    A: separate worlds whose borders cost something. In `weave.json` (`worlds`, checked: no gap, no overlap, KW1 all of
+    Akt I) and the NCP moments' `setting`. Four worlds is now the count; the names of KW2–KW4 and the Guardians (Q5)
+    are not decided.
+36. **Argus observes and belongs to no camp (2026-10-05):** he analyses all three and first notices AEGIS' error
+    (Kap 19–20); that he does not choose is his limit. In `anteile.json` (camp `Beobachtung`) and the canon (`Lager`).
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

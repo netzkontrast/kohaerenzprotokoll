@@ -1,7 +1,7 @@
 ---
 name: Mara
 kind: figur
-kanon: []
+kanon: [Menschen, W10-A]
 match: ["Mara"]
 ---
 
@@ -11,7 +11,8 @@ Seilfrau, Kaels Partnerin am Seil. Erfunden in einer Claude-Sitzung (Entwurf I u
 
 ## Kanon
 
-Nichts entschieden.
+- **Funktion** (W10-A): Guardian-Archetyp (Help, Conscience).
+- **Will** (Menschen, 2026-10-05): dass niemand mehr verloren geht; sie hält Kael mit „Wie heißt du?“ beim Namen fest, gegen das Vergessen.
 
 ## Arbeitsstand
 
@@ -20,4 +21,4 @@ Nichts entschieden.
 
 ## Offen
 
-- Gehört die Figur in deinen Roman? Erst dein Ja macht sie zu mehr als einem Vorschlag.
+- Ihre Stelle im Plot über das Wollen hinaus; was aus Plot-Entwurf 1 gilt, ist nicht entschieden.

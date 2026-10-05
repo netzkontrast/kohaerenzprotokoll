@@ -417,7 +417,6 @@
   "4": true
  },
  "open": [
-  "the driver event at each act transition (H11): A a decision, B an action — 13/14, 26/27, 34/35",
   "which chapter content the woven throughlines carry (the treatment)"
  ],
  "provenance": {
@@ -468,6 +467,62 @@
    "38": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L104–L106 (Vortex 100 % bridge; 37 „nur A scheinbar“); session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
    "39": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L104–L106 (Vortex 100 % bridge; 37 „nur A scheinbar“); session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
    "40": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L107 (Coda: Wir-AEGIS-plural, A and B at once); outside the four acts, no signpost"
+  },
+  "transitions": {
+   "13/14": "author, 2026-10-05 (H11, decision 025 step 27)",
+   "26/27": "author, 2026-10-05 (H11, decision 025 step 27)",
+   "34/35": "author, 2026-10-05 (H11, decision 025 step 27)"
+  },
+  "worlds": "author, 2026-10-05 (step 35): the act mapping of worldbuilding-konzept-kohaerenzprotokoll-md (2026-05-08, L496, L539, L582, L624); KW4 also carries the Vortex (Kap 35–36 lie in no span there); the labels are that source's, the names are not decided (Q5); Kap 0 and 40 are the frame, in no world",
+  "world_kind": "author, 2026-10-05 (step 35): W8 answered A"
+ },
+ "transitions": {
+  "13/14": {
+   "A": "Kap 13: Kael entscheidet sich endgültig, die Löschung seiner eigenen Zeile nicht mehr zu bestätigen — der Anschluss, der in keinem Plan steht, bleibt (RÜCKFRAGE offen, für immer). Andere zahlen dafür; er ist jetzt ein Fehler im System.",
+   "B": "Kap 14: AEGIS antwortet mit der ersten Erasure-Welle."
+  },
+  "26/27": {
+   "A": "Kap 26: Kael beschließt, zu Juna zu gehen — sie in der Gegenwart zu suchen; er gibt die Ordnung auf, in der er überlebt hat.",
+   "B": "Kap 28 (AEGIS-Ich): der Purge gegen die Verbindung; Juna gerät in Gefahr."
+  },
+  "34/35": {
+   "A": "Kap 34: Nach der Begegnung (Kap 32) lässt Kael Juna gehen — er trennt die Verbindung selbst, um sie aus dem Schussfeld zu bringen; die alte Stille wiederholt sich, diesmal gewählt. Die Wendung Inertia → Change kommt erst im Vortex (Kap 35, Pivot).",
+   "B": "Kap 35: AEGIS' Sweep konvergiert auf das, was übrig ist."
   }
- }
+ },
+ "worlds": [
+  {
+   "world": "KW1",
+   "label": "Konstrukt-Stadt",
+   "chapters": [
+    1,
+    13
+   ]
+  },
+  {
+   "world": "KW2",
+   "label": "Mnemosyne-Archipel",
+   "chapters": [
+    14,
+    22
+   ]
+  },
+  {
+   "world": "KW3",
+   "label": "Cerberus-Labyrinth",
+   "chapters": [
+    23,
+    28
+   ]
+  },
+  {
+   "world": "KW4",
+   "label": "Möglichkeits-Garten",
+   "chapters": [
+    29,
+    39
+   ]
+  }
+ ],
+ "world_kind": "getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas"
 }

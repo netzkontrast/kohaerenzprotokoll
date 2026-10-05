@@ -1,7 +1,7 @@
 ---
 name: Silas
 kind: figur
-kanon: []
+kanon: [Silas, Lager]
 match: ["Silas"]
 wiki: silas
 ---
@@ -12,7 +12,8 @@ In den Quellen ein Spiegel-Anteil und ein Echo der Bindung. In den Entwürfen nu
 
 ## Kanon
 
-Nichts entschieden.
+- **Silas (2026-10-05):** Er ist die linke Hand in Kap 1, die RÜCKFRAGE drückt und den Anschluss zu Juna schützt.
+- **Lager:** Er gehört zum Lager der Suche.
 
 ## Arbeitsstand
 
