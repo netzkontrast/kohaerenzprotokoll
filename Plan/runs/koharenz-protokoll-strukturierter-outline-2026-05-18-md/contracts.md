@@ -2,12 +2,13 @@
 
 Every HyperExtract contract run on this source, one line per run — written by `scripts/contracts.py` from the run directories beside this file, and checked by `contracts.py --check`. *found nothing* is knowledge about the document (every call answered, the list came back empty); *failed* is not. *candidates* are rows staging admitted, not rows anyone judged right.
 
-4 runs of 4 contracts: 4 yielded; $2.40.
+5 runs of 4 contracts: 5 yielded; $2.40.
 
 | contract | run | model | outcome | rows | candidates | refused | chunks | cost |
 |---|---|---|---|---|---|---|---|---|
 | `CausalLinks` | `causallinks-haiku-2026-09-30` | haiku | yielded | 52 | 40 | 1 ambiguous quote: choose its passage, 2 quote not placed, 9 surface absent from document | — | $0.462 |
 | `ChapterCards` | `chaptercards-sonnet-2026-10-05b` | sonnet | yielded | 144 | 130 | 1 ambiguous quote: choose its passage, 12 chapter is neither on the quoted line nor the heading above it, 1 surface absent from document | 40 | $0.944 |
+| `ChapterCards` | `chaptercards-sonnet-2026-10-05c` |  | yielded | 144 | 142 | 1 ambiguous quote: choose its passage, 1 surface absent from document | — | $0.000 |
 | `TermContrasts` | `termcontrasts-haiku-2026-09-30` | haiku | yielded | 147 | 121 | 9 ambiguous quote: choose its passage, 13 quote not placed, 4 surface absent from document | — | $0.518 |
 | `TermDefinitions` | `termdefinitions-haiku-2026-09-30` | haiku | yielded | 164 | 151 | 10 ambiguous quote: choose its passage, 2 quote not placed | — | $0.473 |
 

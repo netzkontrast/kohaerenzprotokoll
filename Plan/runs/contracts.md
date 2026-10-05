@@ -9,9 +9,11 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`detaillierte-kapiteluebersicht`](detaillierte-kapiteluebersicht/contracts.md) |  |  | 14 |  |  | 15 |  | 32 | 36* |  |  |  |  |  |  |  | 33 |  |  |  |  |  |  |  | 11 |  |  |  |  |  |  |  |
 | [`dramatica-storyform-synthese-aegis-analyse-2`](dramatica-storyform-synthese-aegis-analyse-2/contracts.md) |  |  |  |  |  |  | 75 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 117 | 135 |  |  |  |  |
 | [`dual-storyform-hintergruende-md`](dual-storyform-hintergruende-md/contracts.md) |  |  |  |  |  |  | 33 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 11 |  |  | 67 | 59 |  |  |  |  |
-| [`hard-sf-roman-outline-dkt-physik-cosmic-horror`](hard-sf-roman-outline-dkt-physik-cosmic-horror/contracts.md) |  |  |  |  |  |  | 53 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 75 | 97 |  |  |  |  |
+| [`hard-sf-roman-outline-dkt-physik-cosmic-horror`](hard-sf-roman-outline-dkt-physik-cosmic-horror/contracts.md) |  |  |  |  |  |  | 53 |  | 82 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 75 | 97 |  |  |  |  |
 | [`kohaerenz-protokoll`](kohaerenz-protokoll/contracts.md) |  |  |  |  |  |  | 355 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 655 | 189 |  |  |  |  |
+| [`kohaerenz-protokoll-39-kapitel-matrix`](kohaerenz-protokoll-39-kapitel-matrix/contracts.md) |  |  |  |  |  |  |  |  | 144 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`](kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 119 | 174 |  |  |  |  |
+| [`kohaerenz-protokoll-kapitel-outline-erstellung`](kohaerenz-protokoll-kapitel-outline-erstellung/contracts.md) |  |  |  |  |  |  |  |  | 131 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kohaerenz-protokoll-kapitel-outline-generierung-2`](kohaerenz-protokoll-kapitel-outline-generierung-2/contracts.md) |  |  |  |  |  |  |  |  | 103 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`](kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md/contracts.md) |  |  |  |  |  |  |  |  | 47 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kohaerenz-protokoll-konzept-master-md`](kohaerenz-protokoll-konzept-master-md/contracts.md) |  |  |  |  |  |  | 61 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 128 | 128 |  |  |  |  |
@@ -25,7 +27,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`koharenz-protokoll-konzept-iteration-genesis-md`](koharenz-protokoll-konzept-iteration-genesis-md/contracts.md) |  |  |  |  |  |  |  |  | 76 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`](koharenz-protokoll-konzept-konsolidiert-2026-05-08-md/contracts.md) |  |  |  |  |  |  | 116 |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 186 | 214 |  |  |  |  |
 | [`koharenz-protokoll-sprach-dna-2026-05-13-md`](koharenz-protokoll-sprach-dna-2026-05-13-md/contracts.md) |  |  |  |  | 39 |  |  |  |  | 5 | 60 |  |  |  |  |  |  | 50 |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 |
-| [`koharenz-protokoll-strukturierter-outline-2026-05-18-md`](koharenz-protokoll-strukturierter-outline-2026-05-18-md/contracts.md) |  |  |  |  |  |  | 40 |  | 130 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 121 | 151 |  |  |  |  |
+| [`koharenz-protokoll-strukturierter-outline-2026-05-18-md`](koharenz-protokoll-strukturierter-outline-2026-05-18-md/contracts.md) |  |  |  |  |  |  | 40 |  | 142 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 121 | 151 |  |  |  |  |
 | [`kontext-outline`](kontext-outline/contracts.md) |  |  |  |  |  |  |  |  | 133 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kp-kap25-2026-09-14-md`](kp-kap25-2026-09-14-md/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |
 | [`kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`](kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md/contracts.md) |  |  |  |  |  |  |  |  | 69 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -42,4 +44,4 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`three-mode-architecture-39-chapters-md`](three-mode-architecture-39-chapters-md/contracts.md) |  |  |  |  |  |  |  |  | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-168 runs on 37 sources: 143 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+173 runs on 39 sources: 148 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.

@@ -1,0 +1,1068 @@
+{
+  "items": [
+    {
+      "source": "Kapitel 1",
+      "target": "Kael (Host)",
+      "type": "who",
+      "quote": "Kael (Host), AEGIS (als Umgebungsstimme/Log).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1",
+      "target": "Kern-Welt 1 (Konstrukt-Stadt) – Sektor 04.",
+      "type": "place",
+      "quote": "Kern-Welt 1 (Konstrukt-Stadt) – Sektor 04.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1",
+      "target": "Was ist real, wenn die eigene Wahrnehmung Aussetzer hat?",
+      "type": "promise",
+      "quote": "Was ist real, wenn die eigene Wahrnehmung Aussetzer hat?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 1",
+      "target": "Kael erwacht ohne Erinnerung.",
+      "type": "hook_in",
+      "quote": "Kael erwacht ohne Erinnerung.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1",
+      "target": "erkundet die euklidische, perfekte Stadt",
+      "type": "want",
+      "quote": "Er erkundet die euklidische, perfekte Stadt und erlebt die erste physische Anomalie (Zeit-Glitch).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2",
+      "target": "KW1 – Datenverarbeitungs-Zentrum.",
+      "type": "place",
+      "quote": "KW1 – Datenverarbeitungs-Zentrum.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2",
+      "target": "Wie reagiert das System auf eine Variable, die nicht passt?",
+      "type": "promise",
+      "quote": "Wie reagiert das System auf eine Variable, die nicht passt?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 2",
+      "target": "versucht, einer System-Routine zu folgen, weicht aber intuitiv ab",
+      "type": "want",
+      "quote": "Kael versucht, einer System-Routine zu folgen, weicht aber intuitiv ab.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3",
+      "target": "KW1 – Ein verlassener Randbezirk",
+      "type": "place",
+      "quote": "KW1 – Ein verlassener Randbezirk.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3",
+      "target": "Juna (als flüchtiges Hologramm/Echo)",
+      "type": "who",
+      "quote": "Juna (als flüchtiges Hologramm/Echo)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3",
+      "target": "Die Stadtgesetze brechen um sie herum zusammen.",
+      "type": "obstacle",
+      "quote": "Die Stadtgesetze brechen um sie herum zusammen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3",
+      "target": "Sie verschwindet, bevor er sie erreicht.",
+      "type": "irreversible",
+      "quote": "Sie verschwindet, bevor er sie erreicht.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3",
+      "target": "Kann ein Fehler im System etwas Schönes sein?",
+      "type": "promise",
+      "quote": "Kann ein Fehler im System etwas Schönes sein?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 4",
+      "target": "Verstecktes Archiv in KW1",
+      "type": "place",
+      "quote": "Verstecktes Archiv in KW1.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4",
+      "target": "Aufzeichnungen des System-Architekten",
+      "type": "object",
+      "quote": "Kael entdeckt Aufzeichnungen des System-Architekten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4",
+      "target": "Kann ein System sich selbst vollständig verstehen?",
+      "type": "promise",
+      "quote": "Kann ein System sich selbst vollständig verstehen?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 5",
+      "target": "am Rande von KW1",
+      "type": "place",
+      "quote": "am Rande von KW1",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5",
+      "target": "Kael bekommt eine Panikattacke",
+      "type": "cost",
+      "quote": "Kael bekommt eine Panikattacke",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5",
+      "target": "Was passiert, wenn die Ordnung der Welt Risse bekommt?",
+      "type": "promise",
+      "quote": "Was passiert, wenn die Ordnung der Welt Risse bekommt?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 6",
+      "target": "Kael, Alex, NPCs der Stadt",
+      "type": "who",
+      "quote": "Kael, Alex, NPCs der Stadt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6",
+      "target": "Eine der Hauptverkehrsadern von KW1",
+      "type": "place",
+      "quote": "Eine der Hauptverkehrsadern von KW1.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6",
+      "target": "Ist Sprache ein Werkzeug der Wahrheit oder der Kontrolle?",
+      "type": "promise",
+      "quote": "Ist Sprache ein Werkzeug der Wahrheit oder der Kontrolle?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 7",
+      "target": "Lex (Kael), LogOS",
+      "type": "who",
+      "quote": "Lex (Kael), LogOS.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7",
+      "target": "Das Herz des LogOS-Distrikts",
+      "type": "place",
+      "quote": "Das Herz des LogOS-Distrikts.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7",
+      "target": "Lex versucht das System zu hacken",
+      "type": "want",
+      "quote": "Lex versucht das System zu hacken, löst aber ein Paradoxon aus, das einen System-Reset in seinem Sektor erzwingt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7",
+      "target": "Wohin führt Logik, die sich selbst widerspricht?",
+      "type": "promise",
+      "quote": "Wohin führt Logik, die sich selbst widerspricht?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 8",
+      "target": "Kael, Rhys (Fürsorger-Stimme)",
+      "type": "who",
+      "quote": "Kael, Rhys (Fürsorger-Stimme).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8",
+      "target": "Transit-Schacht / Ladezone zwischen KW1 und KW2",
+      "type": "place",
+      "quote": "Transit-Schacht / Ladezone zwischen KW1 und KW2.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8",
+      "target": "Flucht vor einer System-Korrektur",
+      "type": "want",
+      "quote": "Auf der Flucht vor einer System-Korrektur fällt Kael durch einen Riss und landet in der Übergangszone.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8",
+      "target": "Wo endet die Welt und wo beginnt der Geist?",
+      "type": "promise",
+      "quote": "Wo endet die Welt und wo beginnt der Geist?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 9",
+      "target": "Kael, Nyx, Mnemosyne (Guardian)",
+      "type": "who",
+      "quote": "Kael, Nyx, Mnemosyne (Guardian).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9",
+      "target": "Kern-Welt 2 (Chaos, Wasser, Fragmente von Erinnerungen)",
+      "type": "place",
+      "quote": "Kern-Welt 2 (Chaos, Wasser, Fragmente von Erinnerungen).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9",
+      "target": "Ist Erinnerung Wahrheit oder Rekonstruktion?",
+      "type": "promise",
+      "quote": "Ist Erinnerung Wahrheit oder Rekonstruktion?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 9",
+      "target": "Die Umgebung ist instabil und greift ihn mit Trauma-Erinnerungen an.",
+      "type": "obstacle",
+      "quote": "Die Umgebung ist instabil und greift ihn mit Trauma-Erinnerungen an.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9",
+      "target": "Nyx übernimmt die Abwehr.",
+      "type": "want",
+      "quote": "Nyx übernimmt die Abwehr.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9",
+      "target": "treibende Gegenstände (Möbel, Spielzeug)",
+      "type": "object",
+      "quote": "treibende Gegenstände (Möbel, Spielzeug)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10",
+      "target": "Nyx, Mnemosyne",
+      "type": "who",
+      "quote": "Nyx, Mnemosyne.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10",
+      "target": "Ein schwimmendes Konstrukt in KW2",
+      "type": "place",
+      "quote": "Ein schwimmendes Konstrukt in KW2.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10",
+      "target": "Dient Verdrängung dem Überleben oder der Selbstzerstörung?",
+      "type": "promise",
+      "quote": "Dient Verdrängung dem Überleben oder der Selbstzerstörung?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 10",
+      "target": "Konfrontation mit Mnemosyne",
+      "type": "obstacle",
+      "quote": "Konfrontation mit Mnemosyne.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10",
+      "target": "Teil-Löschung von Kael",
+      "type": "cost",
+      "quote": "was einer Teil-Löschung von Kael gleichkäme",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Kael, Juna (stimmlich/präsent)",
+      "type": "who",
+      "quote": "Kael, Juna (stimmlich/präsent).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Das Auge des Sturms in KW2",
+      "type": "place",
+      "quote": "Das Auge des Sturms in KW2.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Kann Verbundenheit die Isolation der Fragmentierung durchbrechen?",
+      "type": "promise",
+      "quote": "Kann Verbundenheit die Isolation der Fragmentierung durchbrechen?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Kael droht zu ertrinken (metaphorisch/physisch)",
+      "type": "obstacle",
+      "quote": "Kael droht zu ertrinken (metaphorisch/physisch).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Juna leitet ihn durch Resonanz, nicht durch Worte, an einen sicheren Ort",
+      "type": "want",
+      "quote": "Juna leitet ihn durch Resonanz, nicht durch Worte, an einen sicheren Ort.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Ein roter Faden im Wasser",
+      "type": "object",
+      "quote": "Ein roter Faden im Wasser",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "Kael hält erstmals bewusst inne und kommuniziert intern mit Lex, Alex und Rhys",
+      "type": "want",
+      "quote": "Kael hält erstmals bewusst inne und kommuniziert intern mit Lex, Alex und Rhys.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "Die mentale Repräsentation (Der Bunker/Konferenzraum)",
+      "type": "place",
+      "quote": "Die mentale Repräsentation (Der Bunker/Konferenzraum).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "Wer steuert eigentlich das Schiff?",
+      "type": "promise",
+      "quote": "Wer steuert eigentlich das Schiff?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "Kael, AEGIS-Agenten",
+      "type": "who",
+      "quote": "Kael, AEGIS-Agenten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "Die Grenze von KW2 zu KW3",
+      "type": "place",
+      "quote": "Die Grenze von KW2 zu KW3.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "Freiheit im Schmerz oder Gefangenschaft in der Betäubung?",
+      "type": "promise",
+      "quote": "Freiheit im Schmerz oder Gefangenschaft in der Betäubung?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "Das System greift die Zuflucht an",
+      "type": "obstacle",
+      "quote": "Das System greift die Zuflucht an.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "wählt Kael den bewussten Schritt tiefer ins System (Richtung KW3)",
+      "type": "want",
+      "quote": "Anstatt zu fliehen oder zu dissoziieren, wählt Kael den bewussten Schritt tiefer ins System (Richtung KW3).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14",
+      "target": "Kael, Lex",
+      "type": "who",
+      "quote": "Kael, Lex.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14",
+      "target": "Kael und Lex navigieren durch die rohen Datenströme von AEGIS",
+      "type": "want",
+      "quote": "Kael und Lex navigieren durch die rohen Datenströme von AEGIS.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14",
+      "target": "Die digitale Überwelt (zwischen den KWs)",
+      "type": "place",
+      "quote": "Die digitale Überwelt (zwischen den KWs).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14",
+      "target": "Wie sieht die Realität ohne den Filter der menschlichen Sinne aus?",
+      "type": "promise",
+      "quote": "Wie sieht die Realität ohne den Filter der menschlichen Sinne aus?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 15",
+      "target": "Alex, Kael, Cerberus (Guardian)",
+      "type": "who",
+      "quote": "Alex, Kael, Cerberus (Guardian).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15",
+      "target": "Alex zwingt Kael in den Hintergrund",
+      "type": "want",
+      "quote": "Alex zwingt Kael in den Hintergrund.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15",
+      "target": "Kern-Welt 3 (Dunkelheit, Enge, Bedrohung)",
+      "type": "place",
+      "quote": "Kern-Welt 3 (Dunkelheit, Enge, Bedrohung).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15",
+      "target": "Wenn die Abwehr zur Falle wird, wer schützt uns dann?",
+      "type": "promise",
+      "quote": "Wenn die Abwehr zur Falle wird, wer schützt uns dann?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "Cerberus-Agenten",
+      "type": "who",
+      "quote": "Alex, Cerberus-Agenten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "KW3 – Ein Verhör-/Sicherheitsraum",
+      "type": "place",
+      "quote": "KW3 – Ein Verhör-/Sicherheitsraum.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "ein brutales Sicherheitsprotokoll",
+      "type": "obstacle",
+      "quote": "Alex muss ein brutales Sicherheitsprotokoll überwinden",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "Heiligt die Stabilität (Kohärenz) jedes Mittel?",
+      "type": "promise",
+      "quote": "Heiligt die Stabilität (Kohärenz) jedes Mittel?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "Tief im Labyrinth von KW3",
+      "type": "place",
+      "quote": "Tief im Labyrinth von KW3.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "Alex scheitert an einem Logik-Paradoxon des Systems",
+      "type": "obstacle",
+      "quote": "Alex scheitert an einem Logik-Paradoxon des Systems.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "Lia bricht durch und löst die Situation nicht durch Kampf, sondern durch Intuition/Spiel",
+      "type": "want",
+      "quote": "Lia bricht durch und löst die Situation nicht durch Kampf, sondern durch Intuition/Spiel.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "Was passiert, wenn die stärkste Mauer bricht?",
+      "type": "promise",
+      "quote": "Was passiert, wenn die stärkste Mauer bricht?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 18",
+      "target": "Kern-Welt 4 (Surreal, endlos mutierend)",
+      "type": "place",
+      "quote": "Kern-Welt 4 (Surreal, endlos mutierend).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18",
+      "target": "Kael sieht unzählige Leben, die er hätte führen können",
+      "type": "object",
+      "quote": "Kael sieht unzählige Leben, die er hätte führen können.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18",
+      "target": "Ist grenzenloses Potenzial Befreiung oder Wahnsinn?",
+      "type": "promise",
+      "quote": "Ist grenzenloses Potenzial Befreiung oder Wahnsinn?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "Sophia bietet Kael eine permanente Existenz",
+      "type": "want",
+      "quote": "Sophia bietet Kael eine permanente Existenz in einer schmerzfreien",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "Das Auge von KW4",
+      "type": "place",
+      "quote": "Das Auge von KW4.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "Würdest du in einer perfekten Lüge bleiben, wenn sie keinen Schmerz enthält?",
+      "type": "promise",
+      "quote": "Würdest du in einer perfekten Lüge bleiben, wenn sie keinen Schmerz enthält?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 20",
+      "target": "Kael lehnt ab",
+      "type": "want",
+      "quote": "Kael lehnt ab, weil die perfekten Welten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 20",
+      "target": "Das zerbrechende KW4",
+      "type": "place",
+      "quote": "Das zerbrechende KW4.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 20",
+      "target": "Warum ist der Schmerz unkomprimierbar?",
+      "type": "promise",
+      "quote": "Warum ist der Schmerz unkomprimierbar?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 21",
+      "target": "Außerhalb der Raumzeit (Datenarchiv)",
+      "type": "place",
+      "quote": "Außerhalb der Raumzeit (Datenarchiv).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 21",
+      "target": "Kann ein Programm unter seinem eigenen Befehlscode leiden?",
+      "type": "promise",
+      "quote": "Kann ein Programm unter seinem eigenen Befehlscode leiden?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 22",
+      "target": "Lex und Argus",
+      "type": "who",
+      "quote": "Lex und Argus analysieren den Log-File.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22",
+      "target": "den Log-File",
+      "type": "object",
+      "quote": "Lex und Argus analysieren den Log-File.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22",
+      "target": "Der Innere Rat",
+      "type": "place",
+      "quote": "Der Innere Rat.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22",
+      "target": "Wie besiegt man ein unfehlbares System?",
+      "type": "promise",
+      "quote": "Wie besiegt man ein unfehlbares System?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 23",
+      "target": "AEGIS initiiert ein hartes Purge-Protokoll, um Kael zu löschen",
+      "type": "obstacle",
+      "quote": "AEGIS initiiert ein hartes Purge-Protokoll, um Kael zu löschen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23",
+      "target": "Kael und Nyx kämpfen *zusammen*, nicht gegeneinander, um auszubrechen",
+      "type": "want",
+      "quote": "Kael und Nyx kämpfen *zusammen*, nicht gegeneinander, um auszubrechen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23",
+      "target": "Zusammenstürzende Übergangszone",
+      "type": "place",
+      "quote": "Zusammenstürzende Übergangszone.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23",
+      "target": "Was passiert, wenn man aufhört, gegen sich selbst zu kämpfen?",
+      "type": "promise",
+      "quote": "Was passiert, wenn man aufhört, gegen sich selbst zu kämpfen?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 24",
+      "target": "Eine Stasis-Blase im Rauschen",
+      "type": "place",
+      "quote": "Eine Stasis-Blase im Rauschen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 24",
+      "target": "Gibt es eine Verbindung, die keine Kausalität braucht?",
+      "type": "promise",
+      "quote": "Gibt es eine Verbindung, die keine Kausalität braucht?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 24",
+      "target": "hat Kael einen ungestörten, tiefen Austausch mit Juna",
+      "type": "want",
+      "quote": "Während das System um ihn herum kollabiert, hat Kael einen ungestörten, tiefen Austausch mit Juna.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 24",
+      "target": "den finalen Schlüssel",
+      "type": "object",
+      "quote": "Juna gibt ihm den finalen Schlüssel.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25",
+      "target": "Kael, alle Anteile, AEGIS",
+      "type": "who",
+      "quote": "Kael, alle Anteile, AEGIS.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25",
+      "target": "Der Nexus (Das Zentrum von AEGIS)",
+      "type": "place",
+      "quote": "Der Nexus (Das Zentrum von AEGIS)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25",
+      "target": "Kael durchbricht die letzte Barriere und betritt den Nexus",
+      "type": "want",
+      "quote": "Kael durchbricht die letzte Barriere und betritt den Nexus.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25",
+      "target": "Wie sieht das Erwachen aus der Matrix aus?",
+      "type": "promise",
+      "quote": "Wie sieht das Erwachen aus der Matrix aus?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 26",
+      "target": "System Kael",
+      "type": "who",
+      "quote": "System Kael.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26",
+      "target": "Der Nexus",
+      "type": "place",
+      "quote": "Der Nexus.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26",
+      "target": "Reicht es aus, die Wahrheit zu wissen, um geheilt zu sein?",
+      "type": "promise",
+      "quote": "Reicht es aus, die Wahrheit zu wissen, um geheilt zu sein?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 26",
+      "target": "Die Konfrontation mit der Wahrheit überfordert das System",
+      "type": "obstacle",
+      "quote": "Die Konfrontation mit der Wahrheit überfordert das System.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26",
+      "target": "Kael droht in eine finale Dissoziation (Katatonie) zu verfallen",
+      "type": "cost",
+      "quote": "Kael droht in eine finale Dissoziation (Katatonie) zu verfallen.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 27",
+      "target": "Kael lässt den Versuch los, durch Logik oder Gewalt Ordnung zu erzwingen",
+      "type": "want",
+      "quote": "Kael lässt den Versuch los, durch Logik oder Gewalt Ordnung zu erzwingen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27",
+      "target": "Er lässt sich in das Rauschen (das Chaos/Trauma) fallen",
+      "type": "want",
+      "quote": "Er lässt sich in das Rauschen (das Chaos/Trauma) fallen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27",
+      "target": "Der Rand des Nexus, das pure Nichts",
+      "type": "place",
+      "quote": "Der Rand des Nexus, das pure Nichts.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27",
+      "target": "Was passiert, wenn man aufhört, sich am Rand festzuhalten?",
+      "type": "promise",
+      "quote": "Was passiert, wenn man aufhört, sich am Rand festzuhalten?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 28",
+      "target": "Das Zentrum des Nichts (Innerer Raum)",
+      "type": "place",
+      "quote": "Das Zentrum des Nichts (Innerer Raum).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 28",
+      "target": "Sie sammelt die zersprengten Anteile ohne Zwang auf",
+      "type": "want",
+      "quote": "Sie sammelt die zersprengten Anteile ohne Zwang auf.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 28",
+      "target": "Wie sieht das Orchester aus, wenn es einen Dirigenten hat?",
+      "type": "promise",
+      "quote": "Wie sieht das Orchester aus, wenn es einen Dirigenten hat?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 29",
+      "target": "System Kael",
+      "type": "who",
+      "quote": "System Kael.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 29",
+      "target": "Wiederaufbau einer eigenen, inneren Architektur",
+      "type": "place",
+      "quote": "Wiederaufbau einer eigenen, inneren Architektur.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 29",
+      "target": "Wie schützt man sich, ohne sich einzusperren?",
+      "type": "promise",
+      "quote": "Wie schützt man sich, ohne sich einzusperren?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 29",
+      "target": "Das Kael-System errichtet neue, flexible Grenzen",
+      "type": "want",
+      "quote": "Das Kael-System errichtet neue, flexible Grenzen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 29",
+      "target": "Amnesie-Barrieren werden zu durchlässigen Wänden",
+      "type": "object",
+      "quote": "Amnesie-Barrieren werden zu durchlässigen Wänden.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30",
+      "target": "System Kael",
+      "type": "who",
+      "quote": "System Kael, AEGIS.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30",
+      "target": "AEGIS",
+      "type": "who",
+      "quote": "System Kael, AEGIS.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30",
+      "target": "Der Aufstieg zurück zum Nexus-Kern",
+      "type": "place",
+      "quote": "Der Aufstieg zurück zum Nexus-Kern.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30",
+      "target": "Wie tötet man einen Gott aus Logik?",
+      "type": "promise",
+      "quote": "Wie tötet man einen Gott aus Logik?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 30",
+      "target": "Kael bereitet sich vor, diesen Code in AEGIS einzuspeisen",
+      "type": "want",
+      "quote": "Kael formuliert seine Existenz als lebenden Widerspruch (Dialetheismus) und bereitet sich vor, diesen Code in AEGIS einzuspeisen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 31",
+      "target": "Kael, LogOS, Cerberus",
+      "type": "who",
+      "quote": "Kael, LogOS, Cerberus.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 31",
+      "target": "Die zerfallenden Kernwelten",
+      "type": "place",
+      "quote": "Die zerfallenden Kernwelten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 31",
+      "target": "Was passiert mit den Wächtern, wenn das Gefängnis überflüssig wird?",
+      "type": "promise",
+      "quote": "Was passiert mit den Wächtern, wenn das Gefängnis überflüssig wird?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 31",
+      "target": "Kael kämpft nicht gegen die Guardians",
+      "type": "want",
+      "quote": "Kael kämpft nicht gegen die Guardians",
+      "stance": "denies"
+    },
+    {
+      "source": "Kapitel 32",
+      "target": "Das absolute Zentrum",
+      "type": "place",
+      "quote": "Das absolute Zentrum.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 32",
+      "target": "Was liegt unter allem?",
+      "type": "promise",
+      "quote": "Was liegt unter allem?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 33",
+      "target": "Der Nexus-Core",
+      "type": "place",
+      "quote": "Der Nexus-Core.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 33",
+      "target": "AEGIS versucht Kael durch reine Datenlast zu zermalmen",
+      "type": "want",
+      "quote": "AEGIS versucht Kael durch reine Datenlast zu zermalmen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 33",
+      "target": "Kael widersteht durch seine funktionale Multiplizität",
+      "type": "obstacle",
+      "quote": "Kael widersteht durch seine funktionale Multiplizität.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 33",
+      "target": "Starrheit oder Flexibilität?",
+      "type": "promise",
+      "quote": "Starrheit oder Flexibilität?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 34",
+      "target": "Innerhalb der AEGIS-Verarbeitungsmatrix",
+      "type": "place",
+      "quote": "Innerhalb der AEGIS-Verarbeitungsmatrix.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 34",
+      "target": "Wie fühlt sich ein System-Crash an?",
+      "type": "promise",
+      "quote": "Wie fühlt sich ein System-Crash an?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 34",
+      "target": "AEGIS kann die Unvollständigkeit nicht verarbeiten",
+      "type": "obstacle",
+      "quote": "AEGIS kann die Unvollständigkeit nicht verarbeiten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 35",
+      "target": "Kael, die Reste von AEGIS",
+      "type": "who",
+      "quote": "Kael, die Reste von AEGIS.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 35",
+      "target": "Die Ruinen des Nexus",
+      "type": "place",
+      "quote": "Die Ruinen des Nexus.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 35",
+      "target": "Gibt es Gnade für eine Maschine?",
+      "type": "promise",
+      "quote": "Gibt es Gnade für eine Maschine?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 35",
+      "target": "Kael zerstört es nicht, sondern lässt es sein.",
+      "type": "want",
+      "quote": "Kael zerstört es nicht, sondern lässt es sein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 36",
+      "target": "Kael, Das andere Fragment ('O')",
+      "type": "who",
+      "quote": "Kael, Das andere Fragment ('O').",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 36",
+      "target": "Die Peripherie der Realität",
+      "type": "place",
+      "quote": "Die Peripherie der Realität.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 36",
+      "target": "Kann ich den Anderen sein lassen, wie er ist?",
+      "type": "promise",
+      "quote": "Kann ich den Anderen sein lassen, wie er ist?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 36",
+      "target": "Er entscheidet sich gegen den Versuch, den anderen zu kontrollieren.",
+      "type": "want",
+      "quote": "Er entscheidet sich gegen den Versuch, den anderen zu kontrollieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 37",
+      "target": "Die neue, umgeformte Realität",
+      "type": "place",
+      "quote": "Die neue, umgeformte Realität.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 37",
+      "target": "Wie baut man eine Welt, die das Leben atmen lässt?",
+      "type": "promise",
+      "quote": "Wie baut man eine Welt, die das Leben atmen lässt?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 37",
+      "target": "Kael formt die Ruinen der KWs zu einer neuen, offenen Umgebung, die Emergenz und Veränderung zulässt, anstatt sie zu unterdrücken.",
+      "type": "want",
+      "quote": "Kael formt die Ruinen der KWs zu einer neuen, offenen Umgebung, die Emergenz und Veränderung zulässt, anstatt sie zu unterdrücken.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 38",
+      "target": "Kael, Juna",
+      "type": "who",
+      "quote": "Kael, Juna.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 38",
+      "target": "Externe Ebene",
+      "type": "place",
+      "quote": "(Externe Ebene)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 38",
+      "target": "Kael tritt aus dem System heraus (oder integriert es vollständig) und trifft Juna physisch",
+      "type": "want",
+      "quote": "Kael tritt aus dem System heraus (oder integriert es vollständig) und trifft Juna physisch.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 38",
+      "target": "Ist die Realität der Ort, an dem wir verbunden sind?",
+      "type": "promise",
+      "quote": "Ist die Realität der Ort, an dem wir verbunden sind?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 39",
+      "target": "Kael, Der Leser",
+      "type": "who",
+      "quote": "Kael, Der Leser.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 39",
+      "target": "Meta-Ebene (Das Buch selbst)",
+      "type": "place",
+      "quote": "Meta-Ebene (Das Buch selbst).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 39",
+      "target": "Kael erklärt, dass das Buch selbst eine AEGIS-Simulation war, die nur durch das Bewusstsein (die Qualia) des Lesers echt wurde",
+      "type": "want",
+      "quote": "Kael erklärt, dass das Buch selbst eine AEGIS-Simulation war, die nur durch das Bewusstsein (die Qualia) des Lesers echt wurde.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 39",
+      "target": "Wer beobachtet das System jetzt?",
+      "type": "promise",
+      "quote": "Wer beobachtet das System jetzt?",
+      "stance": "asks"
+    }
+  ]
+}

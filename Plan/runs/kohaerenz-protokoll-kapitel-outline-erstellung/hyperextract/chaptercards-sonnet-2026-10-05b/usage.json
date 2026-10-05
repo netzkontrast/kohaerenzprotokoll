@@ -1,0 +1,246 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-outline-erstellung",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "8dba973e4b10e6d71f880b66206d432c4fa7ea68330238b654a0a7cddb2c5a2c",
+  "calls": 45,
+  "failed_calls": 0,
+  "seconds": 418.1,
+  "input_tokens": 200197,
+  "output_tokens": 47783,
+  "cost_usd": 1.0399,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1953,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 2014,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1930,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1856,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1779,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1827,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1672,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1982,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1672,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1602,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1620,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1701,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1612,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 2043,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1894,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1713,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1705,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1685,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1614,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1640,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1881,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1650,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1622,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1621,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 2030,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 1897,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1949,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 2006,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 2026,
+      "ok": true
+    },
+    {
+      "chunk": 29,
+      "characters": 1652,
+      "ok": true
+    },
+    {
+      "chunk": 30,
+      "characters": 1949,
+      "ok": true
+    },
+    {
+      "chunk": 31,
+      "characters": 2014,
+      "ok": true
+    },
+    {
+      "chunk": 32,
+      "characters": 2015,
+      "ok": true
+    },
+    {
+      "chunk": 33,
+      "characters": 2039,
+      "ok": true
+    },
+    {
+      "chunk": 34,
+      "characters": 2005,
+      "ok": true
+    },
+    {
+      "chunk": 35,
+      "characters": 1715,
+      "ok": true
+    },
+    {
+      "chunk": 36,
+      "characters": 1582,
+      "ok": true
+    },
+    {
+      "chunk": 37,
+      "characters": 2043,
+      "ok": true
+    },
+    {
+      "chunk": 38,
+      "characters": 1975,
+      "ok": true
+    },
+    {
+      "chunk": 39,
+      "characters": 2001,
+      "ok": true
+    },
+    {
+      "chunk": 40,
+      "characters": 1722,
+      "ok": true
+    },
+    {
+      "chunk": 41,
+      "characters": 1525,
+      "ok": true
+    },
+    {
+      "chunk": 42,
+      "characters": 1934,
+      "ok": true
+    },
+    {
+      "chunk": 43,
+      "characters": 1717,
+      "ok": true
+    },
+    {
+      "chunk": 44,
+      "characters": 2014,
+      "ok": true
+    }
+  ]
+}
