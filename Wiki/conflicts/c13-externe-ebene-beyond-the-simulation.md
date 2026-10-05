@@ -118,3 +118,11 @@ Stands open in the document's own OFFENE FRAGEN, dated 2026-03-26.
 Kap 17 plans: „Hier offenbart sich Juna in ihrer wahren Form“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] and names her „Externe Ebene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195], the one „das die Gnosis (emotionale Wahrheit) der ursprünglichen Fragmentierung in sich birgt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] Kap 27 sets „Epsilon-Null (Das Potentialmeer jenseits der Simulation)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L276]
 
 Stands as the term written for Juna in Kap 17, with a sea beyond the simulation in Kap 27; recorded, not decided.
+
+## 2026-10-05 — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report
+
+**The research report gives the Externe Ebene as Köln, February 2026, the real world that escapes AEGIS's control, and has Kael wake there.**
+
+The table: „Köln, Februar 2026. Mysteriös, chaotisch, unvorhersehbar“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56], „Entzieht sich der algorithmischen Kontrolle von AEGIS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56], third column „Reale Welt / Basis der KPTBS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56]. Leitfrage 8 (Kap 27/35): „Kael durchbricht die Rendering-Grenzen und erwacht in Köln, Februar 2026“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]; the contrast is between „Der Kontrast zwischen der Simulation und der Realität muss extrem sein“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96].
+
+In the record's terms the report places Köln 2026 as the real world set against the simulation; it names the level `Externe Ebene`, and decides nothing.
