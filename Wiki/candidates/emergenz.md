@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 27
-readings: 27
+sources: 28
+readings: 28
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung"]
 gathered: "2026-09-16"
 ---
 
@@ -72,6 +72,10 @@ The matrix gives emergence two roles: „Erklärung für M's holistische Natur�
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — `Emergenz` as a philosophical hint and a paradox's object
 
 `Emergenz` stands in the prologue as a `Philo Hint`: „Ontologie (Sein/Nichts), Emergenz.“ ^[kontext-outline.md:L71]. Chapter 20 plans the paradox as a failure of control over it: „Kontrolle über Komplexität/Emergenz scheitert prinzipiell“ ^[kontext-outline.md:L293]. The briefing's glossary has no entry for it.
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — emergence as the outcome of rigid control
+
+In the introduction's science field the plan says that „wo rigide Kontrolle zu“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L16] the `Emergenz` of unwanted, unstable states leads. Chapter 20 repeats it in its application field: „AEGIS' Scheitern wurzelt in der Unfähigkeit, Emergenz“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L188] and complexity to handle adequately.
 
 ## Reading — `charaktere`, 2025-07-29, the character concept — Kontrolle vs. Emergenz
 
