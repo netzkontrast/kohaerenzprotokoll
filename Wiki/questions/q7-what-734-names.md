@@ -27,7 +27,7 @@ sentence that says what the Kap-1 console line refers to answers both.
 
 ## What the read sources say
 
-**Kael's designation, the component the Genesis makes.** Every source from 2026-05-07
+**Kael's designation, the component the [[genesis|Genesis]] makes.** Every source from 2026-05-07
 on that names both:
 „Innerhalb der Simulation: Komponente 734, Archivar Klasse II.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125]
 The Alter profiles put the component and the dwelling in one line:
@@ -75,7 +75,7 @@ dwelling. Neither text writes `Komponente`.
   (J101); `T-734` is its source's own sense, never the component (J112).
 - **Not decided:** what a bare `Einheit 734` refers to (J80), and whether the
   sources that give the dwelling and the component one number mean the coincidence.
-  When the component is made — before the Trennungsprotokoll or out of it — is C12's,
+  When the component is made — before the [[trennungsprotokoll|Trennungsprotokoll]] or out of it — is C12's,
   and this page does not touch it.
 
 ## What would answer it
@@ -97,3 +97,11 @@ writes `734` four times.
 Written from what [[komponente-734]], [[kaels-wohneinheit]] and [[kael]] already
 quote; every quotation here stands on one of those pages. No document was read for
 this page.
+
+## 2026-10-05 — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest
+
+**The manifest says Component 734 is a functional component recompiled from the Ursprungs-Ich's processing capacities.**
+
+The original self was „systematically dismembered, its processing capacities repurposed and recompiled into an objective, functional component designated strictly as Component 734“ ^[aegis-persona-and-manifest-generation.md:L17]. The fragments are a separate item: „the traumatized, corrupted data fragments of the antecedent entity“ ^[aegis-persona-and-manifest-generation.md:L45], which legacy files call `Kael`.
+
+Stands as exactly this: a functional component made of the processing capacities, distinct from the fragments called Kael; recorded, not applied.
