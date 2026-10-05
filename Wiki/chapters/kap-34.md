@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -51,6 +51,14 @@ Position: Teil III; setting from the `Schauplatz` field: „AEGIS' Root-Verzeich
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L333]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael erwacht in seiner neuen, kohärenten Form und erlangt Root-Zugriff“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L335] and „Er leitet die Umprogrammierung durch Integration ein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L335]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — the logic-symbol chapter
+
+Title: the logic-symbol title of line 425 (not quoted here); heading „Der Einspeisungs-Schock“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L426]
+Position: Teil III; POV from `Perspektive & Stimme`: „AEGIS (die Stimme bricht, stottert, wird emotional)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L427]; place from `Ort`: „Innerhalb der AEGIS-Verarbeitungsmatrix“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L429]
+
+- Story: the matrix plans „AEGIS kann die Unvollständigkeit nicht verarbeiten“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431]
+- Question: „Wie fühlt sich ein System-Crash an?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L430]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
