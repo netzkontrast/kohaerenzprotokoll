@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -56,6 +56,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht ein Gebiet, das für seine perfekte Ordnung und Vorhersagbarkeit bekannt ist (vielleicht innerhalb von KW1 oder einer stark regulierten Zone).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „kein 'Riss', aber vielleicht eine plötzliche Kaskade kleinerer Systemfehler“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94] · „Der Vorfall wird schnell von AEGIS/Guardians eingedämmt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „Vielleicht findet Kael Restspuren einer größeren 'Aufräumaktion'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Fortress of Fear`, one entry shared with Kap 06–07
+
+Title: „The Fortress of Fear“ ^[ai-assisted-narrative-coherence.md:L1352] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
+Position: the scene outline plans the scene at „1.5 - Cerberus-Labyrinth (KW3), Outer Walls“ ^[ai-assisted-narrative-coherence.md:L1356], POV „Kael (Host, influenced by Alex)“ ^[ai-assisted-narrative-coherence.md:L1357]
+
+- Story (goal): the scene outline plans „To find a safe, defensible space to recover from the emotional overflow of KW2“ ^[ai-assisted-narrative-coherence.md:L1358]
+- Story (conflict): the scene outline plans „tries to contain him within a paradoxical maze“ ^[ai-assisted-narrative-coherence.md:L1359]
+- Turn: `Outcome & Turn` has „Kael is temporarily safe but trapped.“ ^[ai-assisted-narrative-coherence.md:L1367]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The initiation
 
