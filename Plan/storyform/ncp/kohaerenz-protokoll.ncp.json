@@ -7,6 +7,10 @@
       {
         "at": "2026-10-05T00:00:00Z",
         "action": "written by scripts/storyform.py from Plan/storyform/a.json, b.json and weave.json (decision 025); migrated from two NCP 1.3.0 files (step 24)"
+      },
+      {
+        "at": "2026-10-05T22:44:00Z",
+        "action": "Proposal-only chapter development from Plan/storyform/development.json: Codex, 2026-10-06 Europe/Berlin: author asked to extend NCP and canon knowledge and develop a more interesting plot; authorisation to propose and implement planning support, not to settle story choices. Based on the review of all nine Kap-1 drafts and decision 025 steps 23–39."
       }
     ]
   },
@@ -230,7 +234,7 @@
                   "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "summary": "Guardian-Archetyp; im OS: Help, Conscience",
                   "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
-                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the rope woman, invented in a session (Entwurf I, Plot-Entwurf 1), no source. Will: dass niemand mehr verloren geht — seit sie jemanden am Seil verlor; ihr Gewissen ist die Frage „Wie heißt du?“, sie hält Kael beim Namen fest gegen das Vergessen (Herkunft: author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)).",
+                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the rope woman, invented in a session (Entwurf I, Plot-Entwurf 1), no source. Vorläufiger Wunsch — kein Kanon: dass niemand mehr verloren geht — seit sie jemanden am Seil verlor; ihr Gewissen ist die Frage „Wie heißt du?“, sie hält Kael beim Namen fest gegen das Vergessen (Herkunft: author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)).",
                   "motivations": [
                     {
                       "narrative_function": "Help",
@@ -257,7 +261,7 @@
                   "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "summary": "Contagonist; im OS: Hinder, Temptation",
                   "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
-                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the cynic who believes in thermodynamics, invented in a session (Entwurf H, Plot-Entwurf 1), no source; to be carried into the city. Will: dass seine Schwester in Sektor 04 nicht kocht; seine Versuchung: lösch, was dich bremst, die Physik verzeiht nichts — er zieht Kael zum Vergessen, ohne böse zu sein (Herkunft: author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)).",
+                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the cynic who believes in thermodynamics, invented in a session (Entwurf H, Plot-Entwurf 1), no source; to be carried into the city. Vorläufiger Wunsch — kein Kanon: dass seine Schwester in Sektor 04 nicht kocht; seine Versuchung: lösch, was dich bremst, die Physik verzeiht nichts — er zieht Kael zum Vergessen, ohne böse zu sein (Herkunft: author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)).",
                   "motivations": [
                     {
                       "narrative_function": "Hinder",
@@ -284,7 +288,7 @@
                   "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "summary": "Sidekick; im OS: Support, Faith",
                   "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
-                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): the woman Kael saves in Kap 1 (Entwurf G), invented in a session, no source; her want is not yet found. Will: dass sich jemand an sie erinnert; sie glaubt an Kael, bevor er es tut, und kommt wieder, als hätte sie nie gezweifelt (Herkunft: author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)).",
+                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): the woman Kael saves in Kap 1 (Entwurf G), invented in a session, no source; her want is not yet found. Vorläufiger Wunsch — kein Kanon: dass sich jemand an sie erinnert; sie glaubt an Kael, bevor er es tut, und kommt wieder, als hätte sie nie gezweifelt (Herkunft: author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)).",
                   "motivations": [
                     {
                       "narrative_function": "Support",
@@ -311,7 +315,7 @@
                   "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
                   "summary": "Skeptic; im OS: Oppose, Disbelief",
                   "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
-                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): new — holds Kael's open query for a mistake and wants to prove it. Will: beweisen, dass Kaels offene RÜCKFRAGE ein Fehler ist, und so die Ordnung der Konsole schützen — AEGIS' Zweifel in Menschengestalt (Herkunft: author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)).",
+                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): new — holds Kael's open query for a mistake and wants to prove it. Vorläufiger Wunsch — kein Kanon: beweisen, dass Kaels offene RÜCKFRAGE ein Fehler ist, und so die Ordnung der Konsole schützen — AEGIS' Zweifel in Menschengestalt (Herkunft: author, 2026-10-05 (step 34): the session's proposal from the archetype and Plot-Entwurf 1, chosen — provisional, not canon (step 38: no draft becomes canon)).",
                   "motivations": [
                     {
                       "narrative_function": "Oppose",
@@ -1155,7 +1159,7 @@
                   "sequence": 1,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 1: Silas · Spur",
-                  "storytelling": "Die linke Hand drückt RÜCKFRAGE und schützt den Anschluss zu Juna; der abgebrochene Satz. Vorläufige Ausführung aus Entwurf G, kein Gerüst (Schritt 38). Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Die linke Hand drückt RÜCKFRAGE und schützt den Anschluss zu Juna; der abgebrochene Satz. Vorläufige Ausführung aus Entwurf G, kein Gerüst (Schritt 38). Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1171,7 +1175,7 @@
                   "sequence": 2,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 1: Oblivion · Spur",
-                  "storytelling": "Die verlorenen Minuten. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Die verlorenen Minuten. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1187,7 +1191,7 @@
                   "sequence": 3,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 2, 5, 9: Lex · Körper",
-                  "storytelling": "Kälte in den Händen; Ordnung, die sich verdoppelt. Kanal Körper: die Somatik eines Anteils aus der Charakter-Bibel: Lex' eiskalte Hände, Alex' Kiefer, Rhys' fiebrige Hände, Kikos Kleinwerden, Moros' bleierne Glieder. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Kälte in den Händen; Ordnung, die sich verdoppelt. Kanal Körper: die Somatik eines Anteils aus der Charakter-Bibel: Lex' eiskalte Hände, Alex' Kiefer, Rhys' fiebrige Hände, Kikos Kleinwerden, Moros' bleierne Glieder. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1203,7 +1207,7 @@
                   "sequence": 4,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 2, 5, 9: Alex · Körper",
-                  "storytelling": "Der Körper wappnet sich, bevor Kael Gefahr sieht. Kanal Körper: die Somatik eines Anteils aus der Charakter-Bibel: Lex' eiskalte Hände, Alex' Kiefer, Rhys' fiebrige Hände, Kikos Kleinwerden, Moros' bleierne Glieder. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Der Körper wappnet sich, bevor Kael Gefahr sieht. Kanal Körper: die Somatik eines Anteils aus der Charakter-Bibel: Lex' eiskalte Hände, Alex' Kiefer, Rhys' fiebrige Hände, Kikos Kleinwerden, Moros' bleierne Glieder. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1219,7 +1223,7 @@
                   "sequence": 5,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 3: Kiko · Spur",
-                  "storytelling": "Die Zeit stockt; Kael findet sich am Boden eines Korridors. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Die Zeit stockt; Kael findet sich am Boden eines Korridors. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1235,7 +1239,7 @@
                   "sequence": 6,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 8: Rhys · Satzbau",
-                  "storytelling": "Ein „Wir“ im Satz; Fürsorge für einen Fremden, die nicht Kaels ist. Kanal Satzbau: Kaels Prosa kippt in die Syntax eines Anteils: Lex hypotaktisch, Nyx stakkato, Lia bricht ab, Silas korrigiert sich als Echo, Oblivion löscht sich. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Ein „Wir“ im Satz; Fürsorge für einen Fremden, die nicht Kaels ist. Kanal Satzbau: Kaels Prosa kippt in die Syntax eines Anteils: Lex hypotaktisch, Nyx stakkato, Lia bricht ab, Silas korrigiert sich als Echo, Oblivion löscht sich. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1251,7 +1255,7 @@
                   "sequence": 7,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 12: Nyx · Spur",
-                  "storytelling": "Knöchel, die bluten, und eine Wut ohne Erinnerung. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Knöchel, die bluten, und eine Wut ohne Erinnerung. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1267,7 +1271,7 @@
                   "sequence": 8,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 13: Selene · Stimme",
-                  "storytelling": "Kaels Entscheidung, nicht mehr zu bestätigen (13/14); der Schleier fällt, die Stimmen bekommen Namen; Selene zum ersten Mal: „Wenn sie auftaucht, ist es spät.“ Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Kaels Entscheidung, nicht mehr zu bestätigen (13/14); der Schleier fällt, die Stimmen bekommen Namen; Selene zum ersten Mal: „Wenn sie auftaucht, ist es spät.“ Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1283,7 +1287,7 @@
                   "sequence": 9,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 14, 15, 17: Kiko, Lia · Stimme",
-                  "storytelling": "Die erste Erasure-Welle (Zyklus 1): Kiko erstarrt; Lia will Juna halten und wegstoßen — die Trennung im Inneren. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Die erste Erasure-Welle (Zyklus 1): Kiko erstarrt; Lia will Juna halten und wegstoßen — die Trennung im Inneren. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1299,7 +1303,7 @@
                   "sequence": 10,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 18: Oblivion · Stimme",
-                  "storytelling": "Die Genesis-Rückblende ist die Fragmentierungsnacht von innen: Oblivion sieht zum ersten Mal, was er löscht. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Die Genesis-Rückblende ist die Fragmentierungsnacht von innen: Oblivion sieht zum ersten Mal, was er löscht. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1315,7 +1319,7 @@
                   "sequence": 11,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 19, 20: Argus · Stimme",
-                  "storytelling": "Argus bemerkt AEGIS' Fehler als Erster (Zyklus 2). Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Argus bemerkt AEGIS' Fehler als Erster (Zyklus 2). Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1331,7 +1335,7 @@
                   "sequence": 12,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 19, 20: Lex, Nyx · Stimme",
-                  "storytelling": "Lex und Nyx im maximalen Konflikt. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Lex und Nyx im maximalen Konflikt. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1347,7 +1351,7 @@
                   "sequence": 13,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 21: Silas · Stimme",
-                  "storytelling": "„Bin ich echt oder nur ein Echo?“ — die Moonshine-Spur der zehn Jahre. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). „Bin ich echt oder nur ein Echo?“ — die Moonshine-Spur der zehn Jahre. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1363,7 +1367,7 @@
                   "sequence": 14,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 23: Rhys, Moros · Stimme",
-                  "storytelling": "Rhys versucht, Moros zu retten, und scheitert. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Rhys versucht, Moros zu retten, und scheitert. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1379,7 +1383,7 @@
                   "sequence": 15,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 24, 25: Nyx, Isabelle · Spur",
-                  "storytelling": "Kontrolle über Nähe statt Nähe — eine Spur aus den zehn Jahren mit Juna. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Kontrolle über Nähe statt Nähe — eine Spur aus den zehn Jahren mit Juna. Kanal Spur: eine Tat, an die Kael sich nicht erinnert: die linke Hand, eine Lücke, ein erledigter Posten, eine blutige Knöchelhaut. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1395,7 +1399,7 @@
                   "sequence": 16,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 26: Selene, Rhys, Kiko, Lia, Silas · Stimme",
-                  "storytelling": "Die Entscheidung, zu Juna zu gehen (26/27): Die Suche gewinnt; Selene weiß, wer Juna war. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Die Entscheidung, zu Juna zu gehen (26/27): Die Suche gewinnt; Selene weiß, wer Juna war. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1411,7 +1415,7 @@
                   "sequence": 17,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 29: Kiko · Körper",
-                  "storytelling": "Die Angst des Kindes, das letzte Aufflammen vor dem Weg. Kanal Körper: die Somatik eines Anteils aus der Charakter-Bibel: Lex' eiskalte Hände, Alex' Kiefer, Rhys' fiebrige Hände, Kikos Kleinwerden, Moros' bleierne Glieder. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Die Angst des Kindes, das letzte Aufflammen vor dem Weg. Kanal Körper: die Somatik eines Anteils aus der Charakter-Bibel: Lex' eiskalte Hände, Alex' Kiefer, Rhys' fiebrige Hände, Kikos Kleinwerden, Moros' bleierne Glieder. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1427,7 +1431,7 @@
                   "sequence": 18,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 30: Alex · Stimme",
-                  "storytelling": "Alex schützt den Weg zu Juna gegen AEGIS' Purge (Kap 28). Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Alex schützt den Weg zu Juna gegen AEGIS' Purge (Kap 28). Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1443,7 +1447,7 @@
                   "sequence": 19,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 31: Oblivion, Silas · Stimme",
-                  "storytelling": "Oblivion löscht schneller, als Silas empfängt — Landauer-Hitze. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Oblivion löscht schneller, als Silas empfängt — Landauer-Hitze. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1459,7 +1463,7 @@
                   "sequence": 20,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 32: Silas · Stimme",
-                  "storytelling": "Die erste Begegnung mit Juna in der Gegenwart: Silas erkennt sie, bevor Kael es tut. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Die erste Begegnung mit Juna in der Gegenwart: Silas erkennt sie, bevor Kael es tut. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1475,7 +1479,7 @@
                   "sequence": 21,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 34: Lia, Nyx, Alex · Stimme",
-                  "storytelling": "Kael lässt Juna gehen: Lias „Komm her / Geh weg“ entscheidet sich für „Geh“, die Abwehr gewinnt — „Wer mir nah ist, wird verletzt“ als Tat. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Kael lässt Juna gehen: Lias „Komm her / Geh weg“ entscheidet sich für „Geh“, die Abwehr gewinnt — „Wer mir nah ist, wird verletzt“ als Tat. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1491,7 +1495,7 @@
                   "sequence": 22,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 35: Oblivion · Stimme",
-                  "storytelling": "Die Wahl: weiterlöschen oder stehenlassen. Er hört auf, Kaels Amnesie bricht zusammen — der Pivot Inertia → Change. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Die Wahl: weiterlöschen oder stehenlassen. Er hört auf, Kaels Amnesie bricht zusammen — der Pivot Inertia → Change. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1507,7 +1511,7 @@
                   "sequence": 23,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 36: Moros, Selene · Stimme",
-                  "storytelling": "Moros' Drachenkampf; Selene als Architektin. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Moros' Drachenkampf; Selene als Architektin. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1523,7 +1527,7 @@
                   "sequence": 24,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 37: Lex · Stimme",
-                  "storytelling": "Der falsche Friede: die Ordnung kehrt zurück, scheinbar. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Der falsche Friede: die Ordnung kehrt zurück, scheinbar. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -1539,7 +1543,7 @@
                   "sequence": 25,
                   "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 38, 39: Lex, Alex, Rhys, Selene, Argus, Nyx, Isabelle, Kiko, Lia, Moros, Silas, Oblivion · Stimme",
-                  "storytelling": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
                     {
                       "perspective_id": "persp_objective_story"
@@ -2649,10 +2653,10 @@
             "act": 1,
             "order": 0,
             "summary": "Kap 0 · hard-b",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Eine Löschung korrekt abschließen.\nWiderstand: Ein fehlender Datentyp verhindert den sauberen Abschluss.\nHandlung: AEGIS wiederholt eine Prüfung und verliert dabei einen eigenen Logbezug.\nWende: Der Status ist korrekt; die Begründung ist nicht mehr rekonstruierbar.\nPreis: Eine kleine, überprüfbare Erinnerung im System fehlt.\nKaels Wissen: Kael tritt hier nicht als Wissensquelle auf.\nLeserwissen: Der Leser sieht eine Lücke, kennt ihre Ursache nicht.\nFolge: Der ungelöste Posten erreicht Kaels Arbeitsplatz.\nZeit: Vor Kap 1; Abstand offen.\nOffen: Welcher Logbezug fehlt, ohne die Genesis zu erklären?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "offen — der Rahmen, in keiner Kernwelt",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt B Main Character Signpost 1 (Past); B Objective Story Signpost 1 (Doing)",
+            "timing": "Vorschlag, offen: Vor Kap 1; Abstand offen.",
+            "imperatives": "trägt B Main Character Signpost 1 (Past); B Objective Story Signpost 1 (Doing)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welcher Logbezug fehlt, ohne die Genesis zu erklären?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2666,17 +2670,28 @@
                 "storybeat_id": "beat_os_signpost_1"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_34"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_31"
+              }
+            ]
           },
           {
             "id": "moment_kap_01",
             "act": 1,
             "order": 1,
             "summary": "Kap 1 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die Zuweisung auf null bringen.\nWiderstand: Die Hand handelt anders, ein bedrohter Anschluss und eine fremde Löschung bleiben offen.\nHandlung: Kael verlässt die Schicht, um die alte Frau aus dem Löschbereich zu holen; eine erledigte Handlung bleibt ihm fremd.\nWende: Eine Person ist gerettet, ein Lied verschwindet; der eigene Anschluss ist nur aufgeschoben.\nPreis: Schuld gegenüber einem konkreten Menschen; die Null wird verfehlt.\nKaels Wissen: 734 ist seine Wohneinheit; ob der Anschluss seine eigene Zeile bedeutet, weiß er noch nicht.\nLeserwissen: Eine fremd wirkende Tat wird sichtbar; welcher Anteil handelt, bleibt unbenannt.\nFolge: Die Folge des Fensters 06:10 zwingt Kap 2; die korrigierte Drei kehrt wieder.\nZeit: Ein Arbeitstag; 06:10 nur als offene Frist aus G.\nOffen: Anschluss, Wohneinheit und eigene Zeile unterscheiden; individuelle Zeitlücke gegen allgemeine Wartung abgrenzen.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Manuscript/kap-01/entwurf-g-vorkuehlung-2.md; Manuscript/kap-01/entwurf-h-radiator.md; Manuscript/kap-01/entwurf-i-grauzone.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 1 (Memory)",
+            "timing": "Vorschlag, offen: Ein Arbeitstag; 06:10 nur als offene Frist aus G.",
+            "imperatives": "trägt A Main Character Signpost 1 (Memory)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Anschluss, Wohneinheit und eigene Zeile unterscheiden; individuelle Zeitlücke gegen allgemeine Wartung abgrenzen.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2695,17 +2710,28 @@
                 "storybeat_id": "beat_anteil_02"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_02"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_31"
+              }
+            ]
           },
           {
             "id": "moment_kap_02",
             "act": 1,
             "order": 2,
             "summary": "Kap 2 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die Rolle trotz des offenen Postens halten.\nWiderstand: Die Kollegin verlangt den Nachweis vor dem nächsten Fenster.\nHandlung: Kael prüft das Register gegen einen Gegenstand vor Ort; die saubere Erklärung passt nicht zu beiden.\nWende: Der Wert stimmt auf der Konsole, außerhalb bleibt eine Abweichung.\nPreis: Seine Erklärung wird überprüfbar und belastet einen anderen.\nKaels Wissen: Er kennt eine Regelverletzung, noch nicht seine gelöschte Vergangenheit.\nLeserwissen: Der Leser kann zwei widersprechende Belege vergleichen.\nFolge: Kael muss die fehlenden Minuten prüfen, bevor die Kollegin die Spur schließt.\nZeit: Unmittelbar nach Kap 1; das Fristergebnis zeigen.\nOffen: Ist 06:10 vollzogen, offiziell ausgesetzt oder auf einen neuen Posten übertragen? Keine folgenlose Verlängerung.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Objective Story Signpost 1 (Being)",
+            "timing": "Vorschlag, offen: Unmittelbar nach Kap 1; das Fristergebnis zeigen.",
+            "imperatives": "trägt A Objective Story Signpost 1 (Being)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Ist 06:10 vollzogen, offiziell ausgesetzt oder auf einen neuen Posten übertragen? Keine folgenlose Verlängerung.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2724,17 +2750,23 @@
                 "storybeat_id": "beat_anteil_04"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              }
+            ]
           },
           {
             "id": "moment_kap_03",
             "act": 1,
             "order": 3,
             "summary": "Kap 3 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die Lücke im eigenen Register finden.\nWiderstand: Jeder erfolgreiche Abgleich entfernt einen Beleg des fehlenden Schritts.\nHandlung: Kael vermisst den Korridor selbst und entdeckt ein von ihm angelegtes Messzeichen ohne Erinnerung daran.\nWende: Die Messung liefert einen Befund, aber keine eindeutige Urheberschaft.\nPreis: Er kann seinem Arbeitsgedächtnis nicht mehr vollständig vertrauen.\nKaels Wissen: Eine Tat ist nachweisbar, ihr Zeitpunkt und Motiv bleiben offen.\nLeserwissen: Beleg und Schlussfolgerung bleiben unterscheidbar.\nFolge: Eine unvertraute Empfindung öffnet die erinnerte Szene von Kap 4.\nZeit: Nach dem Fristergebnis aus Kap 2; Dauer offen.\nOffen: Welcher Beleg hält die Lücke fest, ohne Amnesie oder Kiko zu erklären?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 1 (Memory)",
+            "timing": "Vorschlag, offen: Nach dem Fristergebnis aus Kap 2; Dauer offen.",
+            "imperatives": "trägt A Main Character Signpost 1 (Memory)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welcher Beleg hält die Lücke fest, ohne Amnesie oder Kiko zu erklären?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2748,17 +2780,28 @@
                 "storybeat_id": "beat_anteil_05"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_02"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_31"
+              }
+            ]
           },
           {
             "id": "moment_kap_04",
             "act": 1,
             "order": 4,
             "summary": "Kap 4 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Juna will in einer erinnerten Szene etwas für sich tun.\nWiderstand: Kael übersetzt ihre Entscheidung sofort in ein Problem, das er für sie lösen möchte.\nHandlung: Juna verfolgt einen eigenen Auftrag und widerspricht einer gut gemeinten Einmischung.\nWende: Ihre Haltung bleibt, aber Kaels Erinnerung bricht vor seiner Antwort ab.\nPreis: Eine konkrete ungehörte Bitte bleibt zurück.\nKaels Wissen: Er erinnert eine handelnde Person, nicht die ganze Beziehung.\nLeserwissen: Der Leser erkennt einen eigenständigen Wunsch; biografische Details bleiben erfunden.\nFolge: Kael versucht in Kap 5 die fehlende Antwort durch perfekte Funktion zu ersetzen.\nZeit: Erinnerung vor dem Anruf, aus der Gegenwart ausgelöst.\nOffen: Welcher eigene Wunsch Junas zeigt sich als Tat? Beruf, Ort und Details nicht aus dem realen Leben übernehmen.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Influence Character Signpost 1 (Past)",
+            "timing": "Vorschlag, offen: Erinnerung vor dem Anruf, aus der Gegenwart ausgelöst.",
+            "imperatives": "trägt A Influence Character Signpost 1 (Past)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welcher eigene Wunsch Junas zeigt sich als Tat? Beruf, Ort und Details nicht aus dem realen Leben übernehmen.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2767,17 +2810,23 @@
                 "storybeat_id": "beat_ic_signpost_1"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_09"
+              }
+            ]
           },
           {
             "id": "moment_kap_05",
             "act": 1,
             "order": 5,
             "summary": "Kap 5 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Den Bericht der Kollegin abwenden.\nWiderstand: Sie hat einen zutreffenden Einwand und verlangt eine Prüfung.\nHandlung: Kael muss einen Ausgleich praktisch vorführen; Lex ordnet, Alex schützt den Körper.\nWende: Die Prüfung gelingt lokal, der Kontrollbericht geht trotzdem weiter.\nPreis: Seine Fassade braucht eine immer größere falsche Erklärung.\nKaels Wissen: Er weiß, dass sie nicht nur neugierig ist; ihre Sorge kann berechtigt sein.\nLeserwissen: Keine reine Schurkin: Ihr Einwand muss aus gezeigten Folgen stammen.\nFolge: Der Bericht löst AEGIS' Prüfung in Kap 6 aus.\nZeit: Vor einem festgelegten Berichtsschluss; konkrete Uhrzeit offen.\nOffen: Was riskiert die Kollegin selbst bei einem ungeprüften Rest? Ihr Want bleibt Vorschlag.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Objective Story Signpost 1 (Being)",
+            "timing": "Vorschlag, offen: Vor einem festgelegten Berichtsschluss; konkrete Uhrzeit offen.",
+            "imperatives": "trägt A Objective Story Signpost 1 (Being)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Was riskiert die Kollegin selbst bei einem ungeprüften Rest? Ihr Want bleibt Vorschlag.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2796,17 +2845,23 @@
                 "storybeat_id": "beat_anteil_04"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              }
+            ]
           },
           {
             "id": "moment_kap_06",
             "act": 1,
             "order": 6,
             "summary": "Kap 6 · hard-b",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Den gemeldeten Fehler schließen.\nWiderstand: Jeder Sweep bestätigt das Ergebnis und zerstört einen Teil der eigenen Prüfhistorie.\nHandlung: AEGIS vergleicht zwei eigene Versionen und hilft einem Sektor durch eine lokale Korrektur.\nWende: Ein Schaden wird verhindert, der fehlende Datentyp bleibt ungelöst.\nPreis: Ein konkreter früherer Prüfentscheid ist nicht mehr zugänglich.\nKaels Wissen: Kael kennt die interne Prüfung nicht; er erlebt später ihre Folgen.\nLeserwissen: AEGIS' Selbstverlust steht als Differenz im Ich-Protokoll, ohne Gesamtauflösung.\nFolge: Die Korrektur verändert den Anschluss, den Kael in Kap 7 prüft.\nZeit: Nach dem Bericht; Sweep-Dauer offen.\nOffen: Welche Hilfe ist real, und welcher Gedächtnisverlust messbar? AEGIS nicht durch Unfähigkeit oder bösen Willen erklären.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt B Main Character Signpost 1 (Past); B Objective Story Signpost 1 (Doing)",
+            "timing": "Vorschlag, offen: Nach dem Bericht; Sweep-Dauer offen.",
+            "imperatives": "trägt B Main Character Signpost 1 (Past); B Objective Story Signpost 1 (Doing)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche Hilfe ist real, und welcher Gedächtnisverlust messbar? AEGIS nicht durch Unfähigkeit oder bösen Willen erklären.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2820,17 +2875,28 @@
                 "storybeat_id": "beat_os_signpost_1"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_34"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_31"
+              }
+            ]
           },
           {
             "id": "moment_kap_07",
             "act": 1,
             "order": 7,
             "summary": "Kap 7 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die veränderte Präsenz am Anschluss prüfen.\nWiderstand: Der Kanal ist instabil; Mara besteht auf einem Rückweg.\nHandlung: Kael folgt einer Spur in einen Schacht, während Mara seine Rückmeldungen zählt.\nWende: Der Kontakt trägt kurz, doch die Rückkehr braucht die Hilfe eines anderen.\nPreis: Kael muss Verlässlichkeit teilen statt allein zu kontrollieren.\nKaels Wissen: Er lernt, wann Präsenz auftritt, nicht wer am anderen Ende ist.\nLeserwissen: Der Kanal zeigt eine Grenze, keine bewiesene Telepathie.\nFolge: Für die nächste Prüfung braucht er Dorns Zugang.\nZeit: Nach Kap 6; Mara setzt eine lokale Rückkehrfrist.\nOffen: Welche Rückmeldung verhindert einen Verlust? Seil und Kanal sind Verfahren aus I, keine bestätigten Weltregeln.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Relationship Story Signpost 1 (Learning)",
+            "timing": "Vorschlag, offen: Nach Kap 6; Mara setzt eine lokale Rückkehrfrist.",
+            "imperatives": "trägt A Relationship Story Signpost 1 (Learning)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche Rückmeldung verhindert einen Verlust? Seil und Kanal sind Verfahren aus I, keine bestätigten Weltregeln.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2839,17 +2905,23 @@
                 "storybeat_id": "beat_rs_signpost_1"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_23"
+              }
+            ]
           },
           {
             "id": "moment_kap_08",
             "act": 1,
             "order": 8,
             "summary": "Kap 8 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Zugang zu den Kühlschächten bekommen.\nWiderstand: Dorn verlangt einen ausgleichenden Eingriff für den Zugang.\nHandlung: Kael nutzt den Zugang, versorgt einen Fremden und findet den geforderten Posten bereits erledigt.\nWende: Die Aufgabe gelingt; sein eigenes Kürzel bestätigt eine Löschung ohne Erinnerung.\nPreis: Eine Hilfe wurde mit einem fremden Schaden bezahlt.\nKaels Wissen: Er kennt die Signatur, nicht den handelnden Anteil.\nLeserwissen: Das fürsorgliche Wir und die problematische Tat müssen beide sichtbar sein.\nFolge: Kap 9 muss diese konkrete Löschung verhindern.\nZeit: Zwischen Zugang und Vollzug des bestätigten Postens.\nOffen: Was ist Dorns nachvollziehbarer Preis? Keine EVA-Welt oder Schwester als Kanon importieren.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 1 (Memory)",
+            "timing": "Vorschlag, offen: Zwischen Zugang und Vollzug des bestätigten Postens.",
+            "imperatives": "trägt A Main Character Signpost 1 (Memory)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Was ist Dorns nachvollziehbarer Preis? Keine EVA-Welt oder Schwester als Kanon importieren.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2863,17 +2935,23 @@
                 "storybeat_id": "beat_anteil_06"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              }
+            ]
           },
           {
             "id": "moment_kap_09",
             "act": 1,
             "order": 9,
             "summary": "Kap 9 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Den bestätigten Vollzug aus Kap 8 verhindern.\nWiderstand: Rollen, Frist und Vorkühlung blockieren jeden regulären Weg.\nHandlung: Kael versucht eine praktische Umleitung und muss einen Menschen um Mithilfe bitten.\nWende: Er gewinnt Zeit, aber der Name wird trotzdem gelöscht.\nPreis: Ein Mensch verliert einen konkret gezeigten Zusammenhang seines Lebens.\nKaels Wissen: Kael kennt die Folgen seiner Signatur, nicht ihre ganze Ursache.\nLeserwissen: Die Handlung ist mehr als ein zweites Konsolengespräch.\nFolge: Er meidet Nähe; die alte Frau sucht sie in Kap 10 trotzdem.\nZeit: Vollzug vor Schichtende; Abstand zu Kap 8 offen.\nOffen: Welcher Verlust lässt sich zeigen, ohne die Person nur zum Opferbeispiel zu machen?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Objective Story Signpost 1 (Being)",
+            "timing": "Vorschlag, offen: Vollzug vor Schichtende; Abstand zu Kap 8 offen.",
+            "imperatives": "trägt A Objective Story Signpost 1 (Being)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welcher Verlust lässt sich zeigen, ohne die Person nur zum Opferbeispiel zu machen?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2892,17 +2970,23 @@
                 "storybeat_id": "beat_anteil_04"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              }
+            ]
           },
           {
             "id": "moment_kap_10",
             "act": 1,
             "order": 10,
             "summary": "Kap 10 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Nähe vermeiden, damit niemand durch ihn verletzt wird.\nWiderstand: Die alte Frau braucht seine Unterstützung für ein eigenes Vorhaben.\nHandlung: Er hilft widerwillig bei einer kleinen konkreten Aufgabe, statt nur eine Erklärung anzuhören.\nWende: Der Kontakt gelingt, das Vertrautheitsgefühl wird stärker.\nPreis: Seine sichere Distanz hält nicht.\nKaels Wissen: Vertrautheit hat einen Gegenstand, noch keinen Namen Juna.\nLeserwissen: Die Frau verfolgt ein Ziel und trägt Faith durch Verhalten.\nFolge: Das Gefühl öffnet eine weitere Erinnerung in Kap 11.\nZeit: Nach dem Verlust von Kap 9; Abstand offen.\nOffen: Welche Aufgabe wäre der Frau auch ohne Kael wichtig? Ihr Wunsch ist nicht beschlossen.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Relationship Story Signpost 1 (Learning)",
+            "timing": "Vorschlag, offen: Nach dem Verlust von Kap 9; Abstand offen.",
+            "imperatives": "trägt A Relationship Story Signpost 1 (Learning)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche Aufgabe wäre der Frau auch ohne Kael wichtig? Ihr Wunsch ist nicht beschlossen.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2911,17 +2995,23 @@
                 "storybeat_id": "beat_rs_signpost_1"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_23"
+              }
+            ]
           },
           {
             "id": "moment_kap_11",
             "act": 1,
             "order": 11,
             "summary": "Kap 11 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die Erinnerung bis an den Rand der Trennung zulassen.\nWiderstand: Kael ersetzt eine Antwort durch ein Schutzangebot.\nHandlung: Juna fordert eine Antwort, die nur er geben kann; die Szene endet vor der Fragmentierungsnacht.\nWende: Er erkennt ein Davor, nicht dessen vollständigen Ausgang.\nPreis: Seine Erklärung, dass nichts verloren sei, trägt nicht mehr.\nKaels Wissen: Er weiß, dass Beziehung und drohende Trennung existierten.\nLeserwissen: Juna handelt; Genesis und Fragmentierungsnacht bleiben nicht gleichgesetzt.\nFolge: Kael sucht in Kap 12 seine eigene Zeile statt einen fremden Fehler.\nZeit: Erinnerte Vergangenheit, nicht Junas erste Begegnung in der Gegenwart.\nOffen: Welche Information bleibt bewusst Kap 18 vorbehalten? W12 nicht entscheiden.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Influence Character Signpost 1 (Past)",
+            "timing": "Vorschlag, offen: Erinnerte Vergangenheit, nicht Junas erste Begegnung in der Gegenwart.",
+            "imperatives": "trägt A Influence Character Signpost 1 (Past)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche Information bleibt bewusst Kap 18 vorbehalten? W12 nicht entscheiden.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2930,17 +3020,23 @@
                 "storybeat_id": "beat_ic_signpost_1"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_09"
+              }
+            ]
           },
           {
             "id": "moment_kap_12",
             "act": 1,
             "order": 12,
             "summary": "Kap 12 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die eigene Zeile finden und den Löschgrund prüfen.\nWiderstand: Zugang ist blockiert; der eigene Eintrag ist bereits bestätigt.\nHandlung: Kael beschafft den Nachweis und findet sein Kürzel unter der bevorstehenden eigenen Löschung.\nWende: Der Nachweis ist echt, die sichere Erklärung scheitert.\nPreis: Die blutigen Knöchel bleiben als Handlungsspur ohne erinnerte Wut.\nKaels Wissen: Erst hier erkennt er den vollständigen Zusammenhang mit seiner eigenen Zeile.\nLeserwissen: Anschluss aus Kap 1 und Person dürfen keine stillschweigende Gleichsetzung bleiben.\nFolge: Kap 13 verlangt seine eigene Antwort auf den bestätigten Posten.\nZeit: Das Fenster muss nachweislich noch vor ihm liegen.\nOffen: Welche neue Information unterscheidet diesen Fund vom Wissen über WE 734 in G?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 1 (Memory)",
+            "timing": "Vorschlag, offen: Das Fenster muss nachweislich noch vor ihm liegen.",
+            "imperatives": "trägt A Main Character Signpost 1 (Memory)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche neue Information unterscheidet diesen Fund vom Wissen über WE 734 in G?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2954,17 +3050,28 @@
                 "storybeat_id": "beat_anteil_07"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_02"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_31"
+              }
+            ]
           },
           {
             "id": "moment_kap_13",
             "act": 1,
             "order": 13,
             "summary": "Kap 13 · bridge · Anker: Vortex-Vorläufer",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die Löschung der eigenen Zeile nicht länger bestätigen.\nWiderstand: Die Verweigerung erhält seine Verbindung, belastet aber andere.\nHandlung: Kael entscheidet bewusst und endgültig; die Stimmen bekommen Namen.\nWende: Die Rückfrage bleibt offen, obwohl er den Preis nun kennt.\nPreis: Er verliert den Schutz seiner Rolle und wird ein Fehler im System.\nKaels Wissen: Er kennt die persönliche Bedeutung der Zeile; Junas Gegenwart ist noch nicht erreichbar.\nLeserwissen: Die Wahl unterscheidet sich von Kap 1 durch Wissen, Urheberschaft und Endgültigkeit.\nFolge: AEGIS antwortet in Kap 14 mit der ersten Erasure-Welle.\nZeit: Beschlossener Übergang 13/14; Kalenderdauer von Akt I offen.\nOffen: Wie ist Kap 1 nur Verschiebung geblieben? Die Entscheidung selbst folgt weave.json.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md; Plan/runs/writing/book/ereignis-wissen_akt-1_2026-10-05.md",
             "setting": "KW1 (Konstrukt-Stadt; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 1 (Memory); A Relationship Story Signpost 1 (Learning); B Influence Character Signpost 1 (Conscious); B Relationship Story Signpost 1 (Being)",
+            "timing": "Vorschlag, offen: Beschlossener Übergang 13/14; Kalenderdauer von Akt I offen.",
+            "imperatives": "trägt A Main Character Signpost 1 (Memory); A Relationship Story Signpost 1 (Learning); B Influence Character Signpost 1 (Conscious); B Relationship Story Signpost 1 (Being)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Wie ist Kap 1 nur Verschiebung geblieben? Die Entscheidung selbst folgt weave.json.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -2993,17 +3100,33 @@
                 "storybeat_id": "beat_anteil_08"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_04"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_05"
+              }
+            ]
           },
           {
             "id": "moment_kap_14",
             "act": 2,
             "order": 14,
             "summary": "Kap 14 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Anschluss und offene Zeile durch die Erasure-Welle bringen.\nWiderstand: Eine Rettung lässt sich innerhalb der Grenzen von KW1 nicht fortsetzen.\nHandlung: Kael wählt einen Weg aus KW1, der einen bisher verfügbaren Zugang endgültig schließt.\nWende: Die Verbindung bleibt, der Rückweg ist verloren.\nPreis: Eine verfügbare Möglichkeit entfällt; Art und Endgültigkeit sind Vorschlag.\nKaels Wissen: Er lernt den Preis der Weltgrenze, nicht ihre letzte Ontologie.\nLeserwissen: Getrennte Welten sind beschlossen; Raumfahrt und geografische Namen nicht.\nFolge: Kap 15 sucht den Weg zurück und findet stattdessen ein Fragment.\nZeit: Nach der Welle; Reisedauer und Mechanismus offen.\nOffen: Welcher Zugang geht verloren? Nicht unbemerkt eine Fähigkeit oder Person löschen. Schritt 39: Die linke Hand als Preis ist die offene Vorliebe des Autors; kein beschlossener Kanon und kein pauschaler Verlust des Anteils Silas.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW2 (Mnemosyne-Archipel; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Objective Story Signpost 2 (Becoming)",
+            "timing": "Vorschlag, offen: Nach der Welle; Reisedauer und Mechanismus offen.",
+            "imperatives": "trägt A Objective Story Signpost 2 (Becoming)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welcher Zugang geht verloren? Nicht unbemerkt eine Fähigkeit oder Person löschen. Schritt 39: Die linke Hand als Preis ist die offene Vorliebe des Autors; kein beschlossener Kanon und kein pauschaler Verlust des Anteils Silas.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3017,17 +3140,23 @@
                 "storybeat_id": "beat_anteil_09"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              }
+            ]
           },
           {
             "id": "moment_kap_15",
             "act": 2,
             "order": 15,
             "summary": "Kap 15 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Zurück nach KW1 finden.\nWiderstand: KW2 ordnet den Weg nach Erinnerung statt vertrauten Routinen.\nHandlung: Kael prüft eine Route an einem Fragment, das ihm vertraut klingt.\nWende: Der Weg führt weiter zu Juna, nicht zurück zur alten Ordnung.\nPreis: Ein Kontrollverfahren funktioniert nicht mehr.\nKaels Wissen: Er erkennt einen Bezug, kann ihn aber nicht sicher zuordnen.\nLeserwissen: Das Verfahren wird gezeigt; die Regeln von KW2 bleiben Vorschläge.\nFolge: Die entdeckte Spur gerät in AEGIS' nächste Prüfung.\nZeit: Nach Grenzübertritt; Dauer offen.\nOffen: Welcher erkennbare Wegmechanismus vermeidet ein abstraktes Erinnerungsarchipel?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW2 (Mnemosyne-Archipel; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 2 (Subconscious)",
+            "timing": "Vorschlag, offen: Nach Grenzübertritt; Dauer offen.",
+            "imperatives": "trägt A Main Character Signpost 2 (Subconscious)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welcher erkennbare Wegmechanismus vermeidet ein abstraktes Erinnerungsarchipel?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3041,17 +3170,23 @@
                 "storybeat_id": "beat_anteil_09"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              }
+            ]
           },
           {
             "id": "moment_kap_16",
             "act": 2,
             "order": 16,
             "summary": "Kap 16 · hard-b",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Kael außerhalb von KW1 orten.\nWiderstand: Mnemosynes Bewahren widerspricht dem Schließen des Falls.\nHandlung: AEGIS setzt einen Checkpoint, der einen Weg sichert und einen anderen verschließt.\nWende: Die Klassifizierung scheitert, obwohl der Weg praktisch gesichert ist.\nPreis: Ein Gefühlswert bleibt ohne passenden Typ und ein eigener Logbezug fehlt.\nKaels Wissen: Kael erlebt nur die zugängliche Tür, nicht die Systemabsicht.\nLeserwissen: Der zweite Riss im Ich wird an einer konkreten Maßnahme sichtbar.\nFolge: Mnemosynes Eingriff öffnet Junas Spur in Kap 17.\nZeit: AEGIS' Prüfzeit, keine festgelegte Reisedauer.\nOffen: Welche Tür ist Hilfe und Hindernis zugleich? Mnemosynes konkrete Macht ist offen.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW2 (Mnemosyne-Archipel; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt B Main Character Signpost 2 (Present); B Objective Story Signpost 2 (Learning)",
+            "timing": "Vorschlag, offen: AEGIS' Prüfzeit, keine festgelegte Reisedauer.",
+            "imperatives": "trägt B Main Character Signpost 2 (Present); B Objective Story Signpost 2 (Learning)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche Tür ist Hilfe und Hindernis zugleich? Mnemosynes konkrete Macht ist offen.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3065,17 +3200,28 @@
                 "storybeat_id": "beat_os_signpost_2"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_34"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_31"
+              }
+            ]
           },
           {
             "id": "moment_kap_17",
             "act": 2,
             "order": 17,
             "summary": "Kap 17 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Junas weiterlaufendes Leben verstehen.\nWiderstand: Die Spur passt nicht zu der Rolle, in der Kael sie erinnert.\nHandlung: Er findet die Folge einer Entscheidung, die Juna ohne seine Zustimmung getroffen hat.\nWende: Die Information ist echt, aber sie fordert keine Rettung durch ihn.\nPreis: Seine beruhigende Vorstellung von einem wartenden Gegenüber zerfällt.\nKaels Wissen: Juna verändert ihr Leben; ihr gesamtes Motiv bleibt unbekannt.\nLeserwissen: Ihre Autonomie wird über Wirkung gezeigt, ohne neue direkte Begegnung.\nFolge: Kael sucht den gelöschten Zusammenhang in Kap 18.\nZeit: Junas Gegenwart läuft unabhängig von Kaels Zeit.\nOffen: Welches eigene Vorhaben zeigt Progress? Keine bloße Nachricht über ihre Trennung.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW2 (Mnemosyne-Archipel; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Influence Character Signpost 2 (Progress)",
+            "timing": "Vorschlag, offen: Junas Gegenwart läuft unabhängig von Kaels Zeit.",
+            "imperatives": "trägt A Influence Character Signpost 2 (Progress)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welches eigene Vorhaben zeigt Progress? Keine bloße Nachricht über ihre Trennung.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3089,17 +3235,23 @@
                 "storybeat_id": "beat_anteil_09"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_09"
+              }
+            ]
           },
           {
             "id": "moment_kap_18",
             "act": 2,
             "order": 18,
             "summary": "Kap 18 · bridge · Anker: Genesis-Flashback",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Ein Fragment der zehn Jahre lesbar machen.\nWiderstand: Oblivions Löschung schützt vor einer Überforderung und zerstört zugleich den benötigten Beleg.\nHandlung: Kael und ein Anteil müssen eine Spur retten, während Oblivion einen Teil davon entfernt.\nWende: Die Fragmentierungsnacht wird erfahrbar; Oblivion zögert, löst das Problem aber noch nicht.\nPreis: Ein benennbarer Teil des Belegs bleibt verloren.\nKaels Wissen: Kael erfährt einen Ausschnitt, nicht die abschließende Genesis-Erklärung.\nLeserwissen: Die Schutzfunktion ist verständlich, ihre Folgen bleiben schädlich.\nFolge: Ein geretteter Rest erlaubt den bewussten Einsatz des Kanals.\nZeit: Flashback innerhalb der Gegenwart; Umfang offen.\nOffen: Was zeigt diese Nacht, solange W12 offen ist? Oblivions Pivot nicht vorziehen.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW2 (Mnemosyne-Archipel; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 2 (Subconscious); B Influence Character Signpost 2 (Memory)",
+            "timing": "Vorschlag, offen: Flashback innerhalb der Gegenwart; Umfang offen.",
+            "imperatives": "trägt A Main Character Signpost 2 (Subconscious); B Influence Character Signpost 2 (Memory)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Was zeigt diese Nacht, solange W12 offen ist? Oblivions Pivot nicht vorziehen.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3118,17 +3270,28 @@
                 "storybeat_id": "beat_anteil_10"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_02"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_31"
+              }
+            ]
           },
           {
             "id": "moment_kap_19",
             "act": 2,
             "order": 19,
             "summary": "Kap 19 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Den Kanal für einen konkreten Weg benutzen.\nWiderstand: Lex und Nyx bevorzugen unvereinbare Verfahren; AEGIS kann jede Nutzung verfolgen.\nHandlung: Die Anteile müssen während einer Bergung entscheiden, ob sie einen unsicheren Hinweis oder ein sicheres Messsignal benutzen.\nWende: Die Bergung gelingt nur gemeinsam, macht aber den Standort sichtbar.\nPreis: Ein geschützter Weg ist nicht mehr nutzbar.\nKaels Wissen: Kael kennt zwei teilweise zutreffende Verfahren, kein eindeutig richtiges Lager.\nLeserwissen: Die innere Debatte verändert Griff, Weg und Werkzeug.\nFolge: AEGIS greift in Kap 20 am verratenen Standort ein.\nZeit: Ein lokales Bergungsfenster; genaue Uhrzeit offen.\nOffen: Was wird geborgen, und welche Fehlannahme hat jedes Lager?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW2 (Mnemosyne-Archipel; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Relationship Story Signpost 2 (Doing)",
+            "timing": "Vorschlag, offen: Ein lokales Bergungsfenster; genaue Uhrzeit offen.",
+            "imperatives": "trägt A Relationship Story Signpost 2 (Doing)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Was wird geborgen, und welche Fehlannahme hat jedes Lager?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3147,17 +3310,23 @@
                 "storybeat_id": "beat_anteil_12"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_23"
+              }
+            ]
           },
           {
             "id": "moment_kap_20",
             "act": 2,
             "order": 20,
             "summary": "Kap 20 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Den Eingriff abwehren und die Gruppe zusammenhalten.\nWiderstand: Argus entdeckt einen echten Widerspruch; niemand kann allein beide Gefahren beherrschen.\nHandlung: Die Anteile müssen zwei Menschen oder zwei Zugänge gleichzeitig schützen; ihre Strategien blockieren einander.\nWende: Eine Sicherung gelingt, die gemeinsame Handlungsfähigkeit bricht auseinander.\nPreis: Ein überprüfbarer Schutz wird aufgegeben.\nKaels Wissen: Argus liefert einen Befund, aber keine Entscheidung für alle.\nLeserwissen: Keine endlose Stimmenkonferenz: Die Uneinigkeit hat eine sichtbare Folge.\nFolge: Silas findet im verbliebenen Zugang das Echo für Kap 21.\nZeit: Unmittelbare Folge der Ortung aus Kap 19.\nOffen: Welcher irreversible Verlust zeigt die Spaltung, ohne eine neue Person zu kanonisieren?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW2 (Mnemosyne-Archipel; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Objective Story Signpost 2 (Becoming)",
+            "timing": "Vorschlag, offen: Unmittelbare Folge der Ortung aus Kap 19.",
+            "imperatives": "trägt A Objective Story Signpost 2 (Becoming)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welcher irreversible Verlust zeigt die Spaltung, ohne eine neue Person zu kanonisieren?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3176,17 +3345,23 @@
                 "storybeat_id": "beat_anteil_12"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              }
+            ]
           },
           {
             "id": "moment_kap_21",
             "act": 2,
             "order": 21,
             "summary": "Kap 21 · bridge · Anker: Genesis-Flashback",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die Verbindung von Echo und gelöschter Geschichte prüfen.\nWiderstand: Ein echtes Erinnerungsfragment könnte auch ein weitergereichtes Echo sein.\nHandlung: Silas vergleicht zwei Spuren, die jeweils einen Teil der Beziehung bewahren.\nWende: Eine Verbindung hält; Gewissheit über ihre Herkunft fehlt.\nPreis: Der Test liefert AEGIS eine neue Möglichkeit zur Klassifizierung.\nKaels Wissen: Kael kann die Spur benutzen, aber Echtheit noch nicht vollständig beweisen.\nLeserwissen: Leser bekommt einen Beleg und eine plausible Gegenlesart.\nFolge: AEGIS handelt in Kap 22 auf Grundlage des Tests.\nZeit: Genesis-Flashback; Stellung zur Nacht bleibt offen.\nOffen: Welche zwei Lesarten verdienen Bestand? W12 und Junas Ontologie nicht heimlich lösen.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW2 (Mnemosyne-Archipel; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Relationship Story Signpost 2 (Doing); B Relationship Story Signpost 2 (Conceiving)",
+            "timing": "Vorschlag, offen: Genesis-Flashback; Stellung zur Nacht bleibt offen.",
+            "imperatives": "trägt A Relationship Story Signpost 2 (Doing); B Relationship Story Signpost 2 (Conceiving)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche zwei Lesarten verdienen Bestand? W12 und Junas Ontologie nicht heimlich lösen.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3205,17 +3380,23 @@
                 "storybeat_id": "beat_anteil_13"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              }
+            ]
           },
           {
             "id": "moment_kap_22",
             "act": 2,
             "order": 22,
             "summary": "Kap 22 · hard-b",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Kael neu klassifizieren und KW2 schließen.\nWiderstand: Ein kurzer Wiedererkennungsblitz passt nicht zur eigenen Prüfhistorie.\nHandlung: AEGIS verschiebt Kael und muss dazu eine eigene Begründung überschreiben.\nWende: KW2 ist geschlossen; das Ich verliert den gerade erkannten Zusammenhang.\nPreis: Die Klassifizierung funktioniert auf Kosten ihres eigenen Gedächtnisses.\nKaels Wissen: Kael verliert den Zugang, kennt AEGIS' Wiedererkennen nicht.\nLeserwissen: Der Blitz verrät nur einen begrenzten Zusammenhang, nicht die Gesamtlösung.\nFolge: Kap 23 beginnt mit dem tatsächlichen Zugangsentzug in KW3.\nZeit: Vor Kap 23; Verschiebungsdauer offen.\nOffen: Was erkennt AEGIS für einen Satz, ohne Kapitel 35 zu erklären?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW2 (Mnemosyne-Archipel; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt B Main Character Signpost 2 (Present); B Objective Story Signpost 2 (Learning)",
+            "timing": "Vorschlag, offen: Vor Kap 23; Verschiebungsdauer offen.",
+            "imperatives": "trägt B Main Character Signpost 2 (Present); B Objective Story Signpost 2 (Learning)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Was erkennt AEGIS für einen Satz, ohne Kapitel 35 zu erklären?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3229,17 +3410,28 @@
                 "storybeat_id": "beat_os_signpost_2"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_34"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_31"
+              }
+            ]
           },
           {
             "id": "moment_kap_23",
             "act": 2,
             "order": 23,
             "summary": "Kap 23 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Unter Wachsamkeit handlungsfähig bleiben.\nWiderstand: Moros' Schwere und die neuen Bedingungen lassen Rhys' Rettungsversuch scheitern.\nHandlung: Rhys versucht einen konkreten Rückweg oder eine Versorgung zu sichern, die Moros nicht nutzen kann.\nWende: Die fürsorgliche Maßnahme reicht nicht; Kael muss ihren Verlust tragen.\nPreis: Eine hilfreiche Strategie verliert ihre bisherige Verlässlichkeit.\nKaels Wissen: Scheitern beweist nicht, dass Fürsorge wertlos ist.\nLeserwissen: Moros bleibt eine Figur mit eigener Schutzlogik statt bloße Last.\nFolge: Kael greift in Kap 24 zur Kontrolle der Verbindung.\nZeit: Nach dem Entzug aus KW2; Dauer offen.\nOffen: Was will Moros bewahren, und warum scheitert genau diese Hilfe?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW3 (Cerberus-Labyrinth; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 2 (Subconscious)",
+            "timing": "Vorschlag, offen: Nach dem Entzug aus KW2; Dauer offen.",
+            "imperatives": "trägt A Main Character Signpost 2 (Subconscious)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Was will Moros bewahren, und warum scheitert genau diese Hilfe?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3253,17 +3445,23 @@
                 "storybeat_id": "beat_anteil_14"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              }
+            ]
           },
           {
             "id": "moment_kap_24",
             "act": 2,
             "order": 24,
             "summary": "Kap 24 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Den Kanal kontrollierbar machen.\nWiderstand: Kontrolle schützt vor dem Zugriff, entfernt aber das, was Verbindung lebendig macht.\nHandlung: Kael filtert den Kanal mit Lex' überprüfbarem Verfahren, während Nyx und Isabelle Nähe abwehren.\nWende: Die Ortung nimmt ab, aber eine Antwort wird nicht mehr wahrgenommen.\nPreis: Sicherheit kostet die Wärme eines konkreten Kontakts.\nKaels Wissen: Kael kennt den Nutzen seines Filters, nicht sämtliche verlorenen Inhalte.\nLeserwissen: Der Verlust ist nicht die Behauptung, dass Logik schlecht sei.\nFolge: Kap 25 braucht einen anderen Weg, Junas Entscheidung zu erfahren.\nZeit: Während einer drohenden Ortung; lokales Zeitfenster offen.\nOffen: Welcher Filter und welche Antwort zeigen Nutzen und Schaden desselben Werkzeugs?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW3 (Cerberus-Labyrinth; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Relationship Story Signpost 2 (Doing)",
+            "timing": "Vorschlag, offen: Während einer drohenden Ortung; lokales Zeitfenster offen.",
+            "imperatives": "trägt A Relationship Story Signpost 2 (Doing)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welcher Filter und welche Antwort zeigen Nutzen und Schaden desselben Werkzeugs?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3277,17 +3475,23 @@
                 "storybeat_id": "beat_anteil_15"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_23"
+              }
+            ]
           },
           {
             "id": "moment_kap_25",
             "act": 2,
             "order": 25,
             "summary": "Kap 25 · hard-a",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Junas Gegenwart ohne den alten Filter verstehen.\nWiderstand: Ihre Entscheidung kann sich seinem Wunsch nach Nähe entziehen.\nHandlung: Kael erschließt eine Spur über eine Handlung Junas, die weder Bitte noch Rettungsauftrag ist.\nWende: Er erkennt eine bevorstehende Veränderung und seine eigene Passivität.\nPreis: Der verbleibende sichere Aufschub verliert seinen Sinn.\nKaels Wissen: Er weiß, dass Juna selbst wählt; er kennt ihre Antwort auf ihn noch nicht.\nLeserwissen: Ihre Entscheidung ist mehr als ein künstlicher Countdown für Kael.\nFolge: Kap 26 fordert seine eigene Wahl, zu ihr zu gehen.\nZeit: Junas eigener Ablauf; kein behauptetes Ultimatum ohne Entscheidung des Autors.\nOffen: Was tut Juna für sich? Ihre Stimme bleibt auch bei nur indirekter Darstellung erkennbar.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW3 (Cerberus-Labyrinth; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Influence Character Signpost 2 (Progress)",
+            "timing": "Vorschlag, offen: Junas eigener Ablauf; kein behauptetes Ultimatum ohne Entscheidung des Autors.",
+            "imperatives": "trägt A Influence Character Signpost 2 (Progress)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Was tut Juna für sich? Ihre Stimme bleibt auch bei nur indirekter Darstellung erkennbar.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3301,17 +3505,23 @@
                 "storybeat_id": "beat_anteil_15"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_09"
+              }
+            ]
           },
           {
             "id": "moment_kap_26",
             "act": 2,
             "order": 26,
             "summary": "Kap 26 · bridge · Anker: Vortex-Vorläufer",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Entscheiden, ob er die sichere Ordnung verlässt.\nWiderstand: Suche, Abwehr und Vermeidung haben jeweils nachvollziehbare Verlustrisiken.\nHandlung: Kael wählt den Weg zu Juna und gibt einen sicheren Rückzugspunkt auf.\nWende: Die Suche gewinnt; die Gegenwart muss nun erreicht werden.\nPreis: Seine bisherige Überlebensordnung ist nicht mehr verfügbar.\nKaels Wissen: Er kennt genügend, um zu wählen, aber weder Erfolg noch Junas Zustimmung.\nLeserwissen: Die Wahl ist keine Vollintegration und keine Liebesgarantie.\nFolge: AEGIS startet in Kap 28 den Purge; Kap 27 zeigt den begonnenen Weg.\nZeit: Beschlossener Übergang 26/27; konkrete Wegdauer offen.\nOffen: Welcher bisher reale Schutz entfällt? Die Entscheidung folgt weave.json.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
             "setting": "KW3 (Cerberus-Labyrinth; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 2 (Subconscious); A Objective Story Signpost 2 (Becoming); B Main Character Signpost 2 (Present); B Influence Character Signpost 2 (Memory)",
+            "timing": "Vorschlag, offen: Beschlossener Übergang 26/27; konkrete Wegdauer offen.",
+            "imperatives": "trägt A Main Character Signpost 2 (Subconscious); A Objective Story Signpost 2 (Becoming); B Main Character Signpost 2 (Present); B Influence Character Signpost 2 (Memory)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welcher bisher reale Schutz entfällt? Die Entscheidung folgt weave.json.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3340,7 +3550,23 @@
                 "storybeat_id": "beat_anteil_16"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_04"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_05"
+              }
+            ]
           },
           {
             "id": "moment_kap_27",
@@ -3366,10 +3592,10 @@
             "act": 3,
             "order": 28,
             "summary": "Kap 28 · hard-b",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die Verbindung durch den Purge schließen.\nWiderstand: Eine erfolgreiche Schutzmaßnahme gefährdet Juna durch denselben Zugriff.\nHandlung: AEGIS berechnet den Eingriff und findet einen belegten Nutzen für andere, den Kaels Verbindung stört.\nWende: Der Zugriff gelingt teilweise; der eigene Riss wächst.\nPreis: AEGIS verliert die Möglichkeit, einen früheren Schutzentscheid zu erinnern.\nKaels Wissen: Kael sieht den Angriff, nicht alle Gründe oder den eigenen Systemverlust.\nLeserwissen: Das System hat einen echten Auftrag und verursacht trotzdem Schaden.\nFolge: Alex muss in Kap 30 den konkreten Zugriff abwehren.\nZeit: Nach Kaels Wegentscheidung; Purge-Dauer offen.\nOffen: Welche Menschen profitieren real? Keine neue moralische Rechtfertigung als Kanon behaupten.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md",
             "setting": "KW3 (Cerberus-Labyrinth; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt B Main Character Signpost 3 (Progress); B Objective Story Signpost 3 (Understanding)",
+            "timing": "Vorschlag, offen: Nach Kaels Wegentscheidung; Purge-Dauer offen.",
+            "imperatives": "trägt B Main Character Signpost 3 (Progress); B Objective Story Signpost 3 (Understanding)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche Menschen profitieren real? Keine neue moralische Rechtfertigung als Kanon behaupten.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3383,7 +3609,18 @@
                 "storybeat_id": "beat_os_signpost_3"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_34"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_31"
+              }
+            ]
           },
           {
             "id": "moment_kap_29",
@@ -3472,10 +3709,10 @@
             "act": 3,
             "order": 32,
             "summary": "Kap 32 · bridge · Anker: Spiegel-Alter-Szene",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Juna in der Gegenwart begegnen.\nWiderstand: Erwartung und Zustimmung sind verschiedene Dinge.\nHandlung: Kael stellt eine konkrete Frage, und Juna verfolgt ihr eigenes Vorhaben statt seine Erinnerung zu bestätigen.\nWende: Die Begegnung ist real; Nähe löst die Trennung nicht automatisch.\nPreis: Ein geliebtes Selbstbild muss aufgegeben werden.\nKaels Wissen: Er weiß jetzt, dass sie da ist; was beide wollen, verlangt Gespräch.\nLeserwissen: Juna ist kein Lösungsobjekt oder Beweisstück für Kaels Ontologie.\nFolge: Die gefährdete Verbindung macht Kap 34s Schutzentscheidung möglich.\nZeit: Erste direkte Begegnung in der Gegenwart, beschlossen durch C7.\nOffen: Welche Antwort zeigt ihre Haltung und wahrt zugleich ihre Freiheit?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md",
             "setting": "KW4 (Möglichkeits-Garten; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Influence Character Signpost 3 (Present); B Influence Character Signpost 3 (Preconscious)",
+            "timing": "Vorschlag, offen: Erste direkte Begegnung in der Gegenwart, beschlossen durch C7.",
+            "imperatives": "trägt A Influence Character Signpost 3 (Present); B Influence Character Signpost 3 (Preconscious)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche Antwort zeigt ihre Haltung und wahrt zugleich ihre Freiheit?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3494,7 +3731,13 @@
                 "storybeat_id": "beat_anteil_20"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_09"
+              }
+            ]
           },
           {
             "id": "moment_kap_33",
@@ -3520,10 +3763,10 @@
             "act": 3,
             "order": 34,
             "summary": "Kap 34 · bridge · Anker: Vortex-Vorläufer",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Juna aus AEGIS' Zugriff bringen.\nWiderstand: Den Kontakt halten würde sie gefährden; ihn kappen wiederholt die alte Stille.\nHandlung: Kael trennt die Verbindung selbst, obwohl sie jetzt eine eigene Stimme hat.\nWende: Der gewählte Schutz wird zur erneuten Abwehr von Nähe.\nPreis: Verlust einer realen Beziehungsmöglichkeit, kein abstrakter Kanalscore.\nKaels Wissen: Er kennt die Wiederholung seines Musters, kann sie noch nicht durchbrechen.\nLeserwissen: Die falsche Lösung ist fürsorglich begründet, nicht plötzlich willkürlich.\nFolge: AEGIS' Sweep konvergiert in Kap 35 auf das Übrige.\nZeit: Beschlossener Übergang 34/35.\nOffen: Wie ist Junas eigener Wille vorher hörbar, ohne ihr einen neuen Kanon-Wunsch zu geben?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md",
             "setting": "KW4 (Möglichkeits-Garten; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 3 (Preconscious); A Objective Story Signpost 3 (Conceiving); B Main Character Signpost 3 (Progress); B Influence Character Signpost 3 (Preconscious)",
+            "timing": "Vorschlag, offen: Beschlossener Übergang 34/35.",
+            "imperatives": "trägt A Main Character Signpost 3 (Preconscious); A Objective Story Signpost 3 (Conceiving); B Main Character Signpost 3 (Progress); B Influence Character Signpost 3 (Preconscious)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Wie ist Junas eigener Wille vorher hörbar, ohne ihr einen neuen Kanon-Wunsch zu geben?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3552,17 +3795,33 @@
                 "storybeat_id": "beat_anteil_21"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_04"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_05"
+              }
+            ]
           },
           {
             "id": "moment_kap_35",
             "act": 4,
             "order": 35,
             "summary": "Kap 35 · bridge · Anker: Vortex selbst",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die Wiederholung der Löschung beenden.\nWiderstand: Oblivion kann akute Überlastung abfangen, aber nur durch erneuten Verlust.\nHandlung: Oblivion lässt die widersprüchlichen Erinnerungen stehen; Selene vermittelt eine begrenzte gemeinsame Handlung.\nWende: Kaels Amnesie bricht auf; AEGIS bleibt bei seiner Ordnung und kollabiert.\nPreis: Kael gewinnt keine Schmerzfreiheit, sondern die Verantwortung für die erhaltene Geschichte.\nKaels Wissen: Er kann Widersprüche tragen, ohne jede Ontologie abschließend zu wissen.\nLeserwissen: Change und funktionale Vielheit werden als Verhalten gezeigt, nicht als Heilungsformel.\nFolge: Die Folgen und der Beziehungswunsch müssen in Kap 36–39 gelebt werden.\nZeit: Beschlossener Vortex-Pivot, Ausführung offen.\nOffen: Was kann das System jetzt gemeinsam tun, das vorher an der Löschentscheidung scheiterte?\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md",
             "setting": "KW4 (Möglichkeits-Garten; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 4 (Conscious); A Objective Story Signpost 4 (Conceptualizing); B Main Character Signpost 4 (Future); B Objective Story Signpost 4 (Obtaining)",
+            "timing": "Vorschlag, offen: Beschlossener Vortex-Pivot, Ausführung offen.",
+            "imperatives": "trägt A Main Character Signpost 4 (Conscious); A Objective Story Signpost 4 (Conceptualizing); B Main Character Signpost 4 (Future); B Objective Story Signpost 4 (Obtaining)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Was kann das System jetzt gemeinsam tun, das vorher an der Löschentscheidung scheiterte?",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3591,7 +3850,23 @@
                 "storybeat_id": "beat_anteil_22"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_04"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_05"
+              }
+            ]
           },
           {
             "id": "moment_kap_36",
@@ -3666,10 +3941,10 @@
             "act": 4,
             "order": 38,
             "summary": "Kap 38 · bridge · Anker: Vortex selbst",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Eine gemeinsame Zukunft verhandeln.\nWiderstand: Verbindung als Fähigkeit ersetzt keine Zustimmung und keinen Wunsch.\nHandlung: Kael und Juna vereinbaren eine begrenzte nächste Handlung, die jeder ablehnen darf.\nWende: Ein geteiltes Vorhaben entsteht ohne Vollständigkeitsversprechen.\nPreis: Beide verzichten auf die Kontrolle der Antwort des anderen.\nKaels Wissen: Kael weiß, was vereinbart wurde, nicht die sichere Zukunft.\nLeserwissen: RS Desire wird in einer gegenseitigen Wahl erfahrbar.\nFolge: Kap 39 zeigt die erste Folge der Vereinbarung statt ein abstraktes Happy End.\nZeit: Nach dem Vortex, innerhalb des vierten Akts.\nOffen: Welcher kleine nächste Schritt zeigt gegenseitiges Wollen? Keine Beziehungsauflösung festlegen.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md",
             "setting": "KW4 (Möglichkeits-Garten; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Relationship Story Signpost 4 (Understanding); A Influence Character Signpost 4 (Future); B Relationship Story Signpost 4 (Becoming)",
+            "timing": "Vorschlag, offen: Nach dem Vortex, innerhalb des vierten Akts.",
+            "imperatives": "trägt A Relationship Story Signpost 4 (Understanding); A Influence Character Signpost 4 (Future); B Relationship Story Signpost 4 (Becoming)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welcher kleine nächste Schritt zeigt gegenseitiges Wollen? Keine Beziehungsauflösung festlegen.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3693,17 +3968,23 @@
                 "storybeat_id": "beat_anteil_25"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_23"
+              }
+            ]
           },
           {
             "id": "moment_kap_39",
             "act": 4,
             "order": 39,
             "summary": "Kap 39 · bridge · Anker: Vortex selbst",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Mit Vielheit einen unvollständigen Tag tragen.\nWiderstand: Ein Rest bleibt und lässt sich nicht durch perfekte Ordnung auflösen.\nHandlung: Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung.\nWende: Die Handlung gelingt trotz Rest, und der Tag ist nicht falsch.\nPreis: Die Sicherheit einer vollständigen Null wird aufgegeben.\nKaels Wissen: Er kennt seinen nächsten Schritt, nicht die endgültige Erklärung jeder Welt.\nLeserwissen: Das Anfangsmotiv wird bezahlt: offener Rest bedeutet jetzt tragfähige Ordnung.\nFolge: Kap 40 kann den Rahmen öffnen, ohne die Leistung der Figuren zurückzunehmen.\nZeit: Ende des vierten Akts; Coda außerhalb der Signposts.\nOffen: Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md",
             "setting": "KW4 (Möglichkeits-Garten; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
-            "timing": "offen — das Treatment",
-            "imperatives": "trägt A Main Character Signpost 4 (Conscious); A Objective Story Signpost 4 (Conceptualizing); B Main Character Signpost 4 (Future); B Influence Character Signpost 4 (Subconscious)",
+            "timing": "Vorschlag, offen: Ende des vierten Akts; Coda außerhalb der Signposts.",
+            "imperatives": "trägt A Main Character Signpost 4 (Conscious); A Objective Story Signpost 4 (Conceptualizing); B Main Character Signpost 4 (Future); B Influence Character Signpost 4 (Subconscious)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -3732,7 +4013,23 @@
                 "storybeat_id": "beat_anteil_25"
               }
             ],
-            "storypoints": []
+            "storypoints": [
+              {
+                "sequence": 1,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_34"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_04"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_05"
+              }
+            ]
           },
           {
             "id": "moment_kap_40",

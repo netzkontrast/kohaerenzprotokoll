@@ -18,7 +18,8 @@ script reads them and writes nothing else into them:
     without a row stays „offen“; nothing is written back;
   * writes `Plan/storyform/overview.md` (generated — never edit it) and `Plan/storyform/ncp/kohaerenz-protokoll.ncp.json`
     (NCP 3.0.0-rc.1, step 24: the core envelope, both narratives in the `dramatica:` payload, the chapters as story
-    moments, the alters' appearances as `event` storybeats of A; status `draft`, nothing undecided is filled in). Validate it with the author's fork:
+    moments, the alters' appearances as `event` storybeats of A; status `draft`). Proposal-only chapter development
+    from `development.json` fills supported Moment fields without changing the structural model or canon. Validate with the author's fork:
     `node tests/validate-file.js` in netzkontrast/narrative-context-protocol.
 
     python3 scripts/storyform.py            # check, compare, write
@@ -177,7 +178,7 @@ def ncp(sf, weave=None, kanon=None):
                         "summary": f"{p['role']}; im OS: {', '.join(nf(e) for e in p['os_elements'])}",
                         "bio": (f"Kanon `{p['name'].split()[0]}` ({row[0]}, Manuscript/kanon.md): {row[1]}" if row else
                                 "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt"),
-                        "storytelling": f"Herkunft: {p['by']}." + (f" Will: {p['want']} (Herkunft: {p['want_by']})." if p.get("want") else ""),
+                        "storytelling": f"Herkunft: {p['by']}." + (f" Vorläufiger Wunsch — kein Kanon: {p['want']} (Herkunft: {p['want_by']})." if p.get("want") else ""),
                         "motivations": [{"narrative_function": nf(e), "illustration": f"{p['name']} trägt {e} im OS.",
                                          "storytelling": f"Herkunft: {p['by']}."} for e in p["os_elements"]],
                         "perspectives": [{"perspective_id": PID[t]} for t in ["OS", *tls]]})
@@ -354,7 +355,75 @@ NCP_VERSION, PROFILE_VERSION = "3.0.0-rc.1", "1.0.0-rc.1"
 NARRATIVE = {"A": "narrative-a", "B": "narrative-b"}
 
 
-def ncp3(forms, weave, anteile=None, kanon=None):
+DEVELOPMENT_FIELDS = {"status", "sources", "goal", "opposition", "action", "turn", "cost", "knowledge", "reader", "next", "timing", "open", "storypoints"}
+DEVELOPMENT_TEXT = ("goal", "opposition", "action", "turn", "cost", "knowledge", "reader", "next", "timing", "open")
+DEVELOPMENT_LABELS = ("Ziel", "Widerstand", "Handlung", "Wende", "Preis", "Kaels Wissen", "Leserwissen", "Folge", "Zeit", "Offen")
+
+
+def load_development():
+    path = HOME / "development.json"
+    return json.loads(path.read_text()) if path.exists() else None
+
+
+def development_audit(dev, weave, forms):
+    """Check provenance and reference integrity; literary strength remains a reader's judgement."""
+    errors = []
+    if not isinstance(dev, dict) or set(dev) != {"status", "provenance", "chapters"}:
+        return ["development: expected status, provenance and chapters"]
+    if dev["status"] != "proposal" or not isinstance(dev["provenance"], str) or not dev["provenance"].strip():
+        errors.append("development: proposal status and provenance required; this input cannot promote canon")
+    if not isinstance(dev["chapters"], dict) or not dev["chapters"]:
+        return errors + ["development: non-empty chapter records required"]
+    appreciations = {sf["storyform"]: {p["appreciation"] for p in ncp(sf)["story"]["narratives"][0]["subtext"]["storypoints"]} for sf in forms}
+    for key, row in dev["chapters"].items():
+        prefix = f"development Kap {key}"
+        if key not in weave["chapters"]:
+            errors.append(f"{prefix}: no woven chapter")
+        if not isinstance(row, dict) or set(row) != DEVELOPMENT_FIELDS:
+            errors.append(f"{prefix}: expected the chapter fields; structural overrides are not allowed")
+            continue
+        if row["status"] != "proposal":
+            errors.append(f"{prefix}: only proposal status allowed")
+        for field in DEVELOPMENT_TEXT:
+            if not isinstance(row[field], str) or not row[field].strip():
+                errors.append(f"{prefix}: empty {field}")
+        if not isinstance(row["sources"], list) or not row["sources"]:
+            errors.append(f"{prefix}: source paths required")
+        else:
+            for source in row["sources"]:
+                if not isinstance(source, str) or Path(source).is_absolute() or ".." in Path(source).parts or not (ROOT / source).is_file():
+                    errors.append(f"{prefix}: missing or invalid source path {source!r}")
+        if not isinstance(row["storypoints"], list):
+            errors.append(f"{prefix}: storypoints must be a list")
+        else:
+            seen = set()
+            for ref in row["storypoints"]:
+                if not isinstance(ref, list) or len(ref) != 2 or not all(isinstance(v, str) for v in ref):
+                    errors.append(f"{prefix}: malformed storypoint reference")
+                elif ref[0] not in appreciations or ref[1] not in appreciations[ref[0]]:
+                    errors.append(f"{prefix}: unknown storypoint {ref!r}")
+                elif tuple(ref) in seen:
+                    errors.append(f"{prefix}: duplicate storypoint {ref!r}")
+                else:
+                    seen.add(tuple(ref))
+    return errors
+
+
+def development_synopsis(row):
+    return "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\n" + "\n".join(
+        f"{label}: {row[field]}" for field, label in zip(DEVELOPMENT_TEXT, DEVELOPMENT_LABELS)) + "\nGrundlage: " + "; ".join(row["sources"])
+
+
+def development_table(dev):
+    lines = ["", "## Kapitelentwicklung (Vorschläge)", "", "Aus `development.json`. Alle Ausführungen sind offen; Struktur und Kanon werden daraus nicht geändert.",
+             "", "| Kap | Ziel | Handlung und Preis | Offene Entscheidung |", "|---|---|---|---|"]
+    for key, row in sorted(dev["chapters"].items(), key=lambda x: int(x[0])):
+        cells = [key, row["goal"], row["action"] + " Preis: " + row["cost"], row["open"]]
+        lines.append("| " + " | ".join(c.replace("|", "\\|").replace("\n", " ") for c in cells) + " |")
+    return lines
+
+
+def ncp3(forms, weave, anteile=None, kanon=None, development=None):
     """One NCP 3.0.0-rc.1 document for the book (decision 025 step 24): the core envelope, and in the `dramatica:`
     payload one story with both narratives and the chapters as story-level moments that reference both; the alters'
     appearances (step 32) as `event` storybeats of A, referenced by the moments of their chapters."""
@@ -365,7 +434,7 @@ def ncp3(forms, weave, anteile=None, kanon=None):
         parts["A"]["narratives"][0]["subtext"]["storybeats"].append({
             "id": bid, "scope": "event", "sequence": i, "appreciation": "Auftritt eines Anteils",
             "summary": f"Kap {', '.join(map(str, ap['chapters']))}: {', '.join(ap['parts'])} · {ap['channel']}",
-            "storytelling": f"{ap['how']} Kanal {ap['channel']}: {anteile['channels'][ap['channel']]}. "
+            "storytelling": f"Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). {ap['how']} Kanal {ap['channel']}: {anteile['channels'][ap['channel']]}. "
                             f"Herkunft: {anteile['provenance']['appearances']}",
             "perspectives": [{"perspective_id": PID["OS"]}, {"perspective_id": PID["MC"]}]})
         for n in ap["chapters"]:
@@ -377,6 +446,7 @@ def ncp3(forms, weave, anteile=None, kanon=None):
         n["storytelling"] = {"overviews": n["storytelling"]["overviews"]}
         narratives.append(n)
     a = forms[0]
+    points = {side: {p["appreciation"]: p["id"] for p in st["narratives"][0]["subtext"]["storypoints"]} for side, st in parts.items()}
     moments = []
     for k in range(41):
         c = weave["chapters"][str(k)]
@@ -397,13 +467,22 @@ def ncp3(forms, weave, anteile=None, kanon=None):
                            for i, (side, sid) in enumerate([(side, f"beat_{t.lower()}_signpost_{act}") for side, t in refs]
                                                            + [("A", b) for b in events.get(k, [])], 1)],
             "storypoints": []})
+    for moment in moments:
+        row = (development or {}).get("chapters", {}).get(str(moment["order"]))
+        if row:
+            moment["synopsis"] = development_synopsis(row)
+            moment["timing"] = "Vorschlag, offen: " + row["timing"]
+            moment["imperatives"] += "\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: " + row["open"]
+            moment["storypoints"] = [{"sequence": i, "narrative_id": NARRATIVE[side], "storypoint_id": points[side][appreciation]}
+                                      for i, (side, appreciation) in enumerate(row["storypoints"], 1)]
     story = {"id": "story_kohaerenz_protokoll", "title": "Kohärenz Protokoll", "logline": a["logline"], "genre": a["genre"],
              "created_at": "2026-10-05T00:00:00Z", "narratives": narratives, "moments": moments}
     return {"ncp_version": NCP_VERSION,
             "document": {"id": "document_kohaerenz_protokoll", "created_at": "2026-10-05T00:00:00Z",
                          "provenance": [{"at": "2026-10-05T00:00:00Z",
                                          "action": "written by scripts/storyform.py from Plan/storyform/a.json, b.json and "
-                                                   "weave.json (decision 025); migrated from two NCP 1.3.0 files (step 24)"}]},
+                                                   "weave.json (decision 025); migrated from two NCP 1.3.0 files (step 24)"}] +
+                                        ([{"at": "2026-10-05T22:44:00Z", "action": "Proposal-only chapter development from Plan/storyform/development.json: " + development["provenance"]}] if development else [])},
             "story": {"id": "story_kohaerenz_protokoll"},
             "profiles": [{"namespace": "dramatica:", "profile_version": PROFILE_VERSION,
                           "schema": f"https://narrativecontextprotocol.com/profiles/dramatica/{PROFILE_VERSION}/profile-schema.json"}],
@@ -497,12 +576,18 @@ def run(check_only=False):
         for n in notes:
             print(f"note  {sf['storyform']}: {n}")
         failed |= bool(errors)
-    weave, anteile, kanon = load_weave(), load_anteile(), kanon_rows()
+    weave, anteile, kanon, development = load_weave(), load_anteile(), kanon_rows(), load_development()
+    if development is None:
+        print("ERROR development: missing Plan/storyform/development.json — restore the tracked proposal input")
+        failed = True
     for e in weave_audit(weave, forms) if weave else []:
         print(f"ERROR weave: {e}")
         failed = True
     for e in anteile_audit(anteile, weave, kanon) if anteile and weave else []:
         print(f"ERROR anteile: {e}")
+        failed = True
+    for e in development_audit(development, weave, forms) if development and weave else []:
+        print(f"ERROR {e}")
         failed = True
     if failed:
         print("refused: nothing written")
@@ -512,8 +597,10 @@ def run(check_only=False):
         text = text.rstrip("\n") + "\n" + "\n".join(weave_table(weave, forms)) + "\n"
     if weave and anteile:
         text = text.rstrip("\n") + "\n" + "\n".join(anteile_table(anteile)) + "\n"
+    if development:
+        text = text.rstrip("\n") + "\n" + "\n".join(development_table(development)) + "\n"
     want = {HOME / "overview.md": text}
-    want[HOME / "ncp" / "kohaerenz-protokoll.ncp.json"] = json.dumps(ncp3(forms, weave, anteile, kanon), ensure_ascii=False, indent=2) + "\n"
+    want[HOME / "ncp" / "kohaerenz-protokoll.ncp.json"] = json.dumps(ncp3(forms, weave, anteile, kanon, development), ensure_ascii=False, indent=2) + "\n"
     stale = [p for p, text in want.items() if not p.exists() or p.read_text() != text]
     if check_only:
         for p in stale:
@@ -611,6 +698,40 @@ def selftest():
             fails.append("Kael's canon row did not become his NCP bio")
     if len({(x["throughline"], x["sequence"]) for x in beats}) != len(beats):
         fails.append("NCP signposts collide")
+    dev = load_development()
+    if dev is None:
+        fails.append("development: tracked proposal input missing")
+    elif weave:
+        forms = load()
+        if development_audit(dev, weave, forms):
+            fails.append("the live development input is refused")
+        for name, edit, expected in [
+            ("canon promotion", lambda d: d["chapters"]["1"].update(status="canon"), "only proposal"),
+            ("unknown chapter", lambda d: d["chapters"].update({"99": d["chapters"]["1"]}), "no woven chapter"),
+            ("missing source", lambda d: d["chapters"]["1"].update(sources=["Plan/nonexistent-source.md"]), "missing or invalid source"),
+            ("unknown storypoint", lambda d: d["chapters"]["1"].update(storypoints=[["A", "Invented Point"]]), "unknown storypoint"),
+            ("structural override", lambda d: d["chapters"]["1"].update(route="hard-b"), "structural overrides"),
+            ("empty knowledge", lambda d: d["chapters"]["1"].update(knowledge=""), "empty knowledge")
+        ]:
+            broken = json.loads(json.dumps(dev))
+            edit(broken)
+            if not any(expected in e for e in development_audit(broken, weave, forms)):
+                fails.append(f"development: {name} accepted")
+        baseline = ncp3(forms, weave, an, kanon)
+        developed = ncp3(forms, weave, an, kanon, dev)
+        bs = baseline["payloads"]["dramatica:"]["storyform"]
+        ds = developed["payloads"]["dramatica:"]["storyform"]
+        if bs["narratives"] != ds["narratives"]:
+            fails.append("development changed the structural narratives")
+        allowed = {"synopsis", "timing", "imperatives", "storypoints"}
+        for before, after in zip(bs["moments"], ds["moments"]):
+            if {k: v for k, v in before.items() if k not in allowed} != {k: v for k, v in after.items() if k not in allowed}:
+                fails.append("development changed a protected moment field")
+            if str(after["order"]) in dev["chapters"] and not after["synopsis"].startswith("ARBEITSVORSCHLAG"):
+                fails.append("development lost a proposal label")
+        point_ids = {(n["id"], p["id"]) for n in ds["narratives"] for p in n["subtext"]["storypoints"]}
+        if {(r["narrative_id"], r["storypoint_id"]) for m in ds["moments"] for r in m["storypoints"]} - point_ids:
+            fails.append("development wrote an unresolved NCP storypoint")
     for f in fails:
         print("FAIL", f)
     print("held" if not fails else f"FAILED ({len(fails)})")
