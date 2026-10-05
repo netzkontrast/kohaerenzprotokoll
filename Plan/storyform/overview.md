@@ -52,6 +52,8 @@ Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 
 **Genre:** Hard-SF / Philosophical Horror / Psychological Thriller
 
+**Die Uhr (timelock):** das Abwärmebudget: AEGIS' thermodynamische Reserve; jeder Sweep verbraucht sie, am Vortex ist sie aufgebraucht (Beat 4, die Landauer-Hitze)
+
 | Strang | Klasse | Concern | Issue | Problem → Solution | Focus → Direction | Benchmark | Akte |
 |---|---|---|---|---|---|---|---|
 | MC | Universe | Future | Openness | Disbelief → Faith | Reconsideration → Consideration | Progress | Past → Present → Progress → Future |
