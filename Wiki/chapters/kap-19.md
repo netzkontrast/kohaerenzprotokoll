@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Patch-Bereitstellung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L266]
 - Story: „Kael versucht, ein in Kapitel 18 entdecktes Schlupfloch oder Exploit erneut zu verwenden, nur um festzustellen, dass es nicht mehr funktioniert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
 - Story: „Kael könnte sogar Zeuge werden, wie AEGIS eine Schwachstelle in Echtzeit 'patcht'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Voice of the Echo: A New Juna-Connection`
+
+Title: „The Voice of the Echo: A New Juna-Connection“ ^[ai-assisted-narrative-coherence.md:L1509] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the scene outline plans the scene at „2.5 - An interface space between KW1 and KW4“ ^[ai-assisted-narrative-coherence.md:L1513], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1514]
+
+- Story (goal): the scene outline plans „To establish a clearer connection with Juna/V, seeking guidance and hope.“ ^[ai-assisted-narrative-coherence.md:L1515]
+- Story (conflict): the scene outline plans „a child alter embodying ambivalent attachment“ ^[ai-assisted-narrative-coherence.md:L1516]
+- Turn: `Outcome & Turn` has „He has a new internal motivation: finding a connection that feels safe for Lia.“ ^[ai-assisted-narrative-coherence.md:L1524]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Amnesia as a safeguard
 
