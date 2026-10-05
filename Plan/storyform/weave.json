@@ -1,0 +1,473 @@
+{
+ "decision": "Plan/decisions/025-dramatica-is-the-recipe.md, step 23",
+ "acts": {
+  "1": [
+   1,
+   13
+  ],
+  "2": [
+   14,
+   26
+  ],
+  "3": [
+   27,
+   34
+  ],
+  "4": [
+   35,
+   39
+  ]
+ },
+ "b_prologue": 0,
+ "bands": {
+  "1-13": 10,
+  "14-26": 25,
+  "27-34": 40,
+  "35-36": 100,
+  "38-39": 100
+ },
+ "band_tolerance": 10,
+ "hard_b": {
+  "0": 1,
+  "1": 1,
+  "2": 2,
+  "3": 1
+ },
+ "anchors": [
+  "Spiegel-Alter-Szene",
+  "Riss-Szene",
+  "Vortex-Vorläufer",
+  "Genesis-Flashback",
+  "Vortex selbst"
+ ],
+ "chapters": {
+  "0": {
+   "route": "hard-b",
+   "A": [],
+   "B": [
+    "MC",
+    "OS"
+   ],
+   "anchor": null
+  },
+  "1": {
+   "route": "hard-a",
+   "A": [
+    "MC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "2": {
+   "route": "hard-a",
+   "A": [
+    "OS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "3": {
+   "route": "hard-a",
+   "A": [
+    "MC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "4": {
+   "route": "hard-a",
+   "A": [
+    "IC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "5": {
+   "route": "hard-a",
+   "A": [
+    "OS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "7": {
+   "route": "hard-a",
+   "A": [
+    "RS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "8": {
+   "route": "hard-a",
+   "A": [
+    "MC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "9": {
+   "route": "hard-a",
+   "A": [
+    "OS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "10": {
+   "route": "hard-a",
+   "A": [
+    "RS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "11": {
+   "route": "hard-a",
+   "A": [
+    "IC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "12": {
+   "route": "hard-a",
+   "A": [
+    "MC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "6": {
+   "route": "hard-b",
+   "A": [],
+   "B": [
+    "MC",
+    "OS"
+   ],
+   "anchor": null
+  },
+  "13": {
+   "route": "bridge",
+   "A": [
+    "MC",
+    "RS"
+   ],
+   "B": [
+    "IC",
+    "RS"
+   ],
+   "anchor": "Vortex-Vorläufer"
+  },
+  "14": {
+   "route": "hard-a",
+   "A": [
+    "OS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "15": {
+   "route": "hard-a",
+   "A": [
+    "MC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "17": {
+   "route": "hard-a",
+   "A": [
+    "IC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "19": {
+   "route": "hard-a",
+   "A": [
+    "RS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "20": {
+   "route": "hard-a",
+   "A": [
+    "OS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "23": {
+   "route": "hard-a",
+   "A": [
+    "MC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "24": {
+   "route": "hard-a",
+   "A": [
+    "RS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "25": {
+   "route": "hard-a",
+   "A": [
+    "IC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "16": {
+   "route": "hard-b",
+   "A": [],
+   "B": [
+    "MC",
+    "OS"
+   ],
+   "anchor": null
+  },
+  "22": {
+   "route": "hard-b",
+   "A": [],
+   "B": [
+    "MC",
+    "OS"
+   ],
+   "anchor": null
+  },
+  "18": {
+   "route": "bridge",
+   "A": [
+    "MC"
+   ],
+   "B": [
+    "IC"
+   ],
+   "anchor": "Genesis-Flashback"
+  },
+  "21": {
+   "route": "bridge",
+   "A": [
+    "RS"
+   ],
+   "B": [
+    "RS"
+   ],
+   "anchor": "Genesis-Flashback"
+  },
+  "26": {
+   "route": "bridge",
+   "A": [
+    "MC",
+    "OS"
+   ],
+   "B": [
+    "MC",
+    "IC"
+   ],
+   "anchor": "Vortex-Vorläufer"
+  },
+  "27": {
+   "route": "hard-a",
+   "A": [
+    "MC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "29": {
+   "route": "hard-a",
+   "A": [
+    "MC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "30": {
+   "route": "hard-a",
+   "A": [
+    "RS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "33": {
+   "route": "hard-a",
+   "A": [
+    "RS"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "28": {
+   "route": "hard-b",
+   "A": [],
+   "B": [
+    "MC",
+    "OS"
+   ],
+   "anchor": null
+  },
+  "31": {
+   "route": "bridge",
+   "A": [
+    "OS"
+   ],
+   "B": [
+    "OS",
+    "RS"
+   ],
+   "anchor": "Spiegel-Alter-Szene"
+  },
+  "32": {
+   "route": "bridge",
+   "A": [
+    "IC"
+   ],
+   "B": [
+    "IC"
+   ],
+   "anchor": "Spiegel-Alter-Szene"
+  },
+  "34": {
+   "route": "bridge",
+   "A": [
+    "MC",
+    "OS"
+   ],
+   "B": [
+    "MC",
+    "IC"
+   ],
+   "anchor": "Vortex-Vorläufer"
+  },
+  "35": {
+   "route": "bridge",
+   "A": [
+    "MC",
+    "OS"
+   ],
+   "B": [
+    "MC",
+    "OS"
+   ],
+   "anchor": "Vortex selbst"
+  },
+  "36": {
+   "route": "bridge",
+   "A": [
+    "IC",
+    "RS"
+   ],
+   "B": [
+    "IC",
+    "RS"
+   ],
+   "anchor": "Vortex selbst"
+  },
+  "37": {
+   "route": "hard-a",
+   "A": [
+    "OS",
+    "MC"
+   ],
+   "B": [],
+   "anchor": null
+  },
+  "38": {
+   "route": "bridge",
+   "A": [
+    "RS",
+    "IC"
+   ],
+   "B": [
+    "RS"
+   ],
+   "anchor": "Vortex selbst"
+  },
+  "39": {
+   "route": "bridge",
+   "A": [
+    "MC",
+    "OS"
+   ],
+   "B": [
+    "MC",
+    "IC"
+   ],
+   "anchor": "Vortex selbst"
+  },
+  "40": {
+   "route": "bridge",
+   "A": [],
+   "B": [],
+   "anchor": "Genesis-Flashback"
+  }
+ },
+ "approved": {
+  "1": true,
+  "2": true,
+  "3": true,
+  "4": true
+ },
+ "open": [
+  "the driver event at each act transition (H11): A a decision, B an action — 13/14, 26/27, 34/35",
+  "which chapter content the woven throughlines carry (the treatment)"
+ ],
+ "provenance": {
+  "bands": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L100–L107 (Bridge-Frequenz per block), counted here as the share of bridge chapters",
+  "hard_b": "author 2026-10-05 (one per act, growing: Kap 0, Akt I one, Akt II two, Akt III one)",
+  "anchors": "the chapter-draft-engine skill (slot16-routing: five bridge anchors), author 2026-10-05",
+  "acts": "a.json/b.json chapters (source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L197)",
+  "b_prologue": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L201 (B's S1 = 0 + 1–13)",
+  "chapters": {
+   "0": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L100 (Genesis-Prolog: „nur B“) and L201 (B's S1 = 0 + 1–13); author 2026-10-05 (W6 C: AEGIS speaks as I)",
+   "1": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "2": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "3": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "4": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "5": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "7": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "8": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "9": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "10": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "11": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "12": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "6": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05); the slot 5–8 from source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L207",
+   "13": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "14": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "15": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "17": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "19": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "20": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "23": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "24": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "25": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "16": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "22": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "18": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "21": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "26": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "27": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "29": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "30": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "33": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "28": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "31": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "32": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "34": "session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "35": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L104–L106 (Vortex 100 % bridge; 37 „nur A scheinbar“); session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "36": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L104–L106 (Vortex 100 % bridge; 37 „nur A scheinbar“); session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "37": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L104–L106 (Vortex 100 % bridge; 37 „nur A scheinbar“); session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "38": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L104–L106 (Vortex 100 % bridge; 37 „nur A scheinbar“); session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "39": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L104–L106 (Vortex 100 % bridge; 37 „nur A scheinbar“); session proposal 2026-10-05 (decision 025 step 23: woven fresh from the storyforms; approved by the author per act, 2026-10-05)",
+   "40": "source kohaerenz-protokoll-storyform-und-outline-2026-06-10-md L107 (Coda: Wir-AEGIS-plural, A and B at once); outside the four acts, no signpost"
+  }
+ }
+}
