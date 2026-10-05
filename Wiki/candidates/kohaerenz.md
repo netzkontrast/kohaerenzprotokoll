@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz"]
 gathered: "2026-09-17"
 ---
 
@@ -32,6 +32,10 @@ And the quantity it is measured by:
 
 The word occurs in both earlier sources — once in one, forty-eight times in the
 other — and neither defined it. A term can be everywhere and mean nothing yet.
+
+## Reading — `einleitung-genesis-der-existenz`, 2025-04-29, the Genesis narrative — coherence as inner order, and as what kills the narrator
+
+True stability, the narrative says, „erfordert tiefere, innere Kohärenz“ ^[einleitung-genesis-der-existenz.md:L114] (L114); AEGIS's essence lay in `innerer Kohärenz` (L141). When the resonance of the Ursprungs-Ich rises, „Die Kohärenzmetriken fielen rapide ab.“ ^[einleitung-genesis-der-existenz.md:L159] The narrator's last line turns the word on itself: „Die Kohärenz, die AEGIS sucht, ist mein Tod.“ ^[einleitung-genesis-der-existenz.md:L197] The paradox of misaligned coherence is named once, in a sentence carrying a writer's remark: „Paradoxon der Fehlausgerichteten Kohärenz“ ^[einleitung-genesis-der-existenz.md:L157].
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Kohärenz as AEGIS's code, and its defence as a paradox
 
