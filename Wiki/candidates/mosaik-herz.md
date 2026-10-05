@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 gathered: "2026-09-24"
 ---
 
@@ -28,6 +28,10 @@ In the synthesis's plot reading (L209, glued `1`), in KW4 Kael begins to talk to
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the Mosaik-Herz in Kap 11
 
 The master blueprint plans in Kap 11 that Kael searches „in gelöschten Speicherbänken nach dem Ursprung von Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144] and recognises „dass er kein singulärer Datenpunkt ist, sondern ein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144] „Mosaik-Herz“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144], the term set in the line's own inner quotation marks.
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Mosaik-Herz as the title of Kap 39 and what Kael injects in Kap 34
+
+Kap 39 is titled „Das Mosaik-Herz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L485] with the heading „Die Letzte Instanz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L486] In Kap 34 the plan has Kael inject his „Mosaik-Herz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431] and glosses it in parentheses: „(seine Qualia, seine unkomprimierbare Existenz)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431]
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — where true K\_1 coherence is placed
 
