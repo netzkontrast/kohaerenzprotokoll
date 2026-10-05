@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -54,6 +54,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Punkte verbinden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L201]
 - Story: „Ausgelöst durch die Ereignisse von Teil 1“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
 - Story: „Etwas betreibt diesen Ort. Etwas Intelligentes.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202] · „Er gibt ihm einen Namen (oder erfährt seinen Namen): AEGIS.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Mnemosyne's Archipelago: In the Flow of Memories`
+
+Title: „Mnemosyne's Archipelago: In the Flow of Memories“ ^[ai-assisted-narrative-coherence.md:L1430] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the scene outline plans the scene at „2.1 - Mnemosyne-Archipel (KW2)“ ^[ai-assisted-narrative-coherence.md:L1434], POV „Kael (with Rhys prominent)“ ^[ai-assisted-narrative-coherence.md:L1435]
+
+- Story (goal): the scene outline plans „To deliberately navigate KW2 and confront a specific traumatic memory fragment“ ^[ai-assisted-narrative-coherence.md:L1436]
+- Story (beat): the scene outline plans „Kael is able to observe the memory without being consumed by it“ ^[ai-assisted-narrative-coherence.md:L1444]
+- Turn: `Outcome & Turn` has „Kael successfully breaks the loop and extracts a key piece of information from the memory.“ ^[ai-assisted-narrative-coherence.md:L1445]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — System initiation
 
