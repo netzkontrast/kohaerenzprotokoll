@@ -383,3 +383,11 @@ Stands as a document that gives four alters, named; it says nothing on the numbe
 The worlds: „etabliert spezifische somatische Mess-Motive für die vier simulierten Kernwelten“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L91], listed at L96–L99 as `KW1: Logos-Prime`, `KW2: Mnemosyne-Archipel`, `KW3: Cerberus-Labyrinth` and `KW4: Kairos-Potentialis`. The parts: „Kael (Host), Lex (Rationalist, Systemadministrator), Isabella (Daten-Spezialistin)“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L84] as ANPs, and „Nyx (Protector/Rage), Kiko (Exile/Vulnerability), Moros“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L85] as EPs; the word `Alters` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#0] does not stand in the pitch, and Juna/V is placed outside the two camps, as the exiled original self (L123).
 
 Stands as four worlds and six named parts in two camps, the pitch's own listing; it states no total of parts and no correspondence between a part and a world.
+
+## 2026-10-05 — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse
+
+**The Plotanalyse gives four simulated Kernwelten, as cited from its User Query, and numbers none of Kael's parts.**
+
+The worlds: „Die vier Kernwelten sind von AEGIS geschaffene, kontrollierte Simulationen, die als Labore zur Analyse von M/Kael dienen“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L119] (L119; also L70). The parts: it names `Alters` without a number (L87), and the Plotanalyse's own IFS reading sorts them as Manager, Firefighter and Exiles, mapping KW1 to KW4 onto types of part: „AEGIS' Kernwelten könnten als Versuch interpretiert werden, diese Teile künstlich zu trennen und zu studieren“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L93] (L93).
+
+Stands as four worlds, parts unnumbered, and a correspondence the report offers only as an interpretation of the IFS model.
