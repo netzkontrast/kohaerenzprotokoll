@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 43
-readings: 41
+sources: 44
+readings: 42
 conflict: C12, C16
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "outline-2"]
 gathered: "2026-09-25"
 ---
 
@@ -44,6 +44,12 @@ Version 3 plans scene 6 to stress the anomaly in 734: the diagnosis systems „r
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — the glossary's single mention of the component
 
 The commission's glossary gives AEGIS's origin in one clause: „Antagonistisches KI-System/Kollektiv; entstanden aus Komponente 734“ ^[kontext-outline.md:L26]. The briefing writes the name once and explains nothing further about the component; the prologue's plan of AEGIS's origin, „AEGIS (oder Vorläufer) entsteht aus Chaos/Angst, sucht Ganzheit“ ^[kontext-outline.md:L66], does not name it.
+
+## Reading — `outline-2`, 2025-05-03, the new-format outline — the prologue's precursor of AEGIS, its fragmentation, and the echo in Chapter 33
+
+The prologue plan names the component as AEGIS's precursor self: „die Entität AEGIS oder ihr Vorläufer-Ich (Komponente 734)“ ^[outline-2.md:L23]. The `kontext-outline` reading on this page records a glossary clause and a prologue line that does not name the component; this document's prologue does. The plan ends in the component's fragmentation: „zur gewaltsamen Fragmentierung von Komponente 734 führt“ ^[outline-2.md:L23], „der Geburtsstunde von System Kael“ ^[outline-2.md:L23]
+
+Chapter 33 plans, among Kael's moves against AEGIS, that he address a remnant, with the question mark in the line: „Komponente 734?“ ^[outline-2.md:L491]
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the Ich-Fragment become Komponente 734 at closure, before the protocol
 
@@ -333,6 +339,7 @@ proposal).
 - `textanalyse-existenz-system-und-leid`, 2025-11-18: the component is made at closure, before the `Kohärenz Protokoll 1.0` (L90–L92, L162 against L244); the document does not write `Trennungsprotokoll`.
 - `optimierte-plotline-genesis-der-existenz`, 2025-04-29: the Ursprungs-Ich is written as „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L180] in parentheses, so the outline names the Ursprungs-Ich and the component together; the component is made in scene 5, before the protocol of scene 9.
 - The Struktur-Kanon places the split-off of 734 inside the architecture, as CORE: „eine Funktion innerhalb der Architektur, nicht außerhalb“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114]
+- The new-format outline plans Komponente 734 as AEGIS's „Vorläufer-Ich“ ^[outline-2.md:L23] whose fragmentation is the birth of System Kael.
 
 ## Open
 
