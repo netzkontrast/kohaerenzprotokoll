@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-kapitel-outline-erstellung
+  lines                1435  (frontmatter ends at 9)
+  body words           9797
+  headings             53   bold-only lines 98
+  table rows           0   code fences 0
+  question marks       2
+  backslash escapes    21
+  typographic marks    249   ascii quotes 172
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    165
+  repeated labels      Eingeführte Konzepte x39, Encoding Storyform B — „Phoenix Collapse" x39, Foreshadowing / Pacing / Reader-Substrate x39, POV x39, Was passiert x39, Worum geht es x39, In welchen Kapiteln verwendet x14, Quelle x14, Quellen-Typ x14, Triangulationsstatus x14, Pivot-Marker x11
+  longest line         756 chars
+

@@ -419,6 +419,10 @@ the author wants them (*Questions for the author*).
   faceless antagonist — AEGIS's units, met in Kap 5 (L245, L278) — while later sources make 734 Kael's component number. Is
   there an AEGIS unit called 734 in the book, or does the number belong to Kael alone (Q7)?
 
+- **Document 78, `kohaerenz-protokoll-kapitel-outline-erstellung`, the dual-storyform outline of 2026-04-30:** Kap 18
+  brings `Silas Oblivion`, Kap 31 has Oblivion wake, and the outline never says whether they are one figure; it also turned
+  the dropped name Nox into Silas, a perpetrator mimic (L1344). Are Silas and Oblivion one alter or two?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*
