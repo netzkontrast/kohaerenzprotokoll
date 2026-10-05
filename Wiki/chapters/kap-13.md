@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,14 @@ Position: Teil I; setting from the `Schauplatz` field: „Übergangszone zwische
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L158]
 - Story: the blueprint plans, in `Plot-Beats`, „Er hört auf, sein Trauma zu vermeiden“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L160] and „AEGIS schaltet von sanfter Panoptikum-Lenkung auf feindliche Eliminierung um“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L160]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Abgrund-Entscheidung
+
+Title: „Die Abgrund-Entscheidung“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L165] — heading „Ende der Passivität“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L166]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (entschlossen, aber fragil)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L167]; place from `Ort`: „Die Grenze von KW2 zu KW3“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L169]
+
+- Story: the matrix plans „Das System greift die Zuflucht an. Anstatt zu fliehen oder zu dissoziieren, wählt Kael den bewussten Schritt tiefer ins System (Richtung KW3)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L171]
+- Question: „Freiheit im Schmerz oder Gefangenschaft in der Betäubung?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L170]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
