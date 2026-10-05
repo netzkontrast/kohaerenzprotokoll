@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -61,6 +61,10 @@ and each is given a different kind of reactivity:
 
 That second sentence is hedged and is design advice; the six-level enumeration
 above is not.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — the Fundament glossed as the deepest level of reality
+
+The briefing does speak of levels of reality. The glossary calls the Fundament „Die postulierte tiefste Realitätsebene unter/hinter AEGIS' Simulation.“ ^[kontext-outline.md:L50], and Chapter 34's foreshadowing field plans „Auflösung des zentralen Mysteriums der Realitätsebene“ ^[kontext-outline.md:L455]. The project paragraph (L18) has „Realität vs. Simulation“ ^[kontext-outline.md:L18] as a theme and `Realitätsebene` in the search for an ultimate one.
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a new level of reality in Kap 39
 
