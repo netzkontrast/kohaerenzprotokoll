@@ -1,0 +1,437 @@
+{
+  "document": "leserzentrierte-roman-outline-generierung-kohaeren",
+  "template": "TermCensus.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "ef5ba9bee1dac1e52a931f75993848f344ccf895003da1ef6c74c869debfa223",
+  "source_sha256": "4a6c3b9c40adf9873dd948a84adbab36f72cf07e0e98ba406433563ce58986d0",
+  "calls": 84,
+  "failed_calls": 1,
+  "seconds": 738.9,
+  "input_tokens": 325642,
+  "output_tokens": 71865,
+  "cost_usd": 1.5789,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1222,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1463,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1029,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1380,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 966,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1494,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1070,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1357,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1118,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1506,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1135,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1591,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1101,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1692,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1272,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1489,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1134,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1631,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1126,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1602,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1168,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1506,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1132,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1764,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 1270,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 1683,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1309,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 1751,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 1215,
+      "ok": true
+    },
+    {
+      "chunk": 29,
+      "characters": 1586,
+      "ok": true
+    },
+    {
+      "chunk": 30,
+      "characters": 1001,
+      "ok": true
+    },
+    {
+      "chunk": 31,
+      "characters": 1527,
+      "ok": true
+    },
+    {
+      "chunk": 32,
+      "characters": 1125,
+      "ok": true
+    },
+    {
+      "chunk": 33,
+      "characters": 1705,
+      "ok": true
+    },
+    {
+      "chunk": 34,
+      "characters": 1252,
+      "ok": true
+    },
+    {
+      "chunk": 35,
+      "characters": 1907,
+      "ok": true
+    },
+    {
+      "chunk": 36,
+      "characters": 1093,
+      "ok": true
+    },
+    {
+      "chunk": 37,
+      "characters": 1562,
+      "ok": true
+    },
+    {
+      "chunk": 38,
+      "characters": 1112,
+      "ok": true
+    },
+    {
+      "chunk": 39,
+      "characters": 1770,
+      "ok": true
+    },
+    {
+      "chunk": 40,
+      "characters": 1139,
+      "ok": true
+    },
+    {
+      "chunk": 41,
+      "characters": 1793,
+      "ok": true
+    },
+    {
+      "chunk": 42,
+      "characters": 1200,
+      "ok": true
+    },
+    {
+      "chunk": 43,
+      "characters": 1494,
+      "ok": true
+    },
+    {
+      "chunk": 44,
+      "characters": 948,
+      "ok": true
+    },
+    {
+      "chunk": 45,
+      "characters": 1572,
+      "ok": true
+    },
+    {
+      "chunk": 46,
+      "characters": 1101,
+      "ok": true
+    },
+    {
+      "chunk": 47,
+      "characters": 1660,
+      "ok": true
+    },
+    {
+      "chunk": 48,
+      "characters": 1087,
+      "ok": true
+    },
+    {
+      "chunk": 49,
+      "characters": 1483,
+      "ok": true
+    },
+    {
+      "chunk": 50,
+      "characters": 1083,
+      "ok": true
+    },
+    {
+      "chunk": 51,
+      "characters": 1735,
+      "ok": true
+    },
+    {
+      "chunk": 52,
+      "characters": 922,
+      "ok": true
+    },
+    {
+      "chunk": 53,
+      "characters": 1654,
+      "ok": true
+    },
+    {
+      "chunk": 54,
+      "characters": 1168,
+      "ok": true
+    },
+    {
+      "chunk": 55,
+      "characters": 1562,
+      "ok": true
+    },
+    {
+      "chunk": 56,
+      "characters": 1105,
+      "ok": true
+    },
+    {
+      "chunk": 57,
+      "characters": 1559,
+      "ok": true
+    },
+    {
+      "chunk": 58,
+      "characters": 1119,
+      "ok": true
+    },
+    {
+      "chunk": 59,
+      "characters": 1700,
+      "ok": true
+    },
+    {
+      "chunk": 60,
+      "characters": 1049,
+      "ok": true
+    },
+    {
+      "chunk": 61,
+      "characters": 1591,
+      "ok": true
+    },
+    {
+      "chunk": 62,
+      "characters": 1182,
+      "ok": true
+    },
+    {
+      "chunk": 63,
+      "characters": 1391,
+      "ok": true
+    },
+    {
+      "chunk": 64,
+      "characters": 998,
+      "ok": true
+    },
+    {
+      "chunk": 65,
+      "characters": 1481,
+      "ok": true
+    },
+    {
+      "chunk": 66,
+      "characters": 1073,
+      "ok": true
+    },
+    {
+      "chunk": 67,
+      "characters": 1509,
+      "ok": true
+    },
+    {
+      "chunk": 68,
+      "characters": 997,
+      "ok": true
+    },
+    {
+      "chunk": 69,
+      "characters": 1593,
+      "ok": true
+    },
+    {
+      "chunk": 70,
+      "characters": 959,
+      "ok": true
+    },
+    {
+      "chunk": 71,
+      "characters": 1492,
+      "ok": true
+    },
+    {
+      "chunk": 72,
+      "characters": 844,
+      "ok": true
+    },
+    {
+      "chunk": 73,
+      "characters": 1341,
+      "ok": true
+    },
+    {
+      "chunk": 74,
+      "characters": 899,
+      "ok": true
+    },
+    {
+      "chunk": 75,
+      "characters": 1406,
+      "ok": true
+    },
+    {
+      "chunk": 76,
+      "characters": 1921,
+      "ok": true
+    },
+    {
+      "chunk": 77,
+      "characters": 950,
+      "ok": true
+    },
+    {
+      "chunk": 78,
+      "characters": 1334,
+      "ok": true
+    },
+    {
+      "chunk": 79,
+      "characters": 1842,
+      "ok": true
+    },
+    {
+      "chunk": 80,
+      "characters": 1961,
+      "ok": true
+    },
+    {
+      "chunk": 81,
+      "characters": 2037,
+      "ok": true
+    },
+    {
+      "chunk": 82,
+      "characters": 566,
+      "ok": true
+    }
+  ],
+  "failed": "candidate lacks nonempty string fields: term, quote, stance"
+}
