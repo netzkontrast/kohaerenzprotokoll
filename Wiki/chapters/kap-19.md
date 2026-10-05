@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -64,6 +64,14 @@ Position: Teil II; setting from the `Schauplatz` field: „in verschiedenen KW-Z
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Lex, Alex, Kiko, Selene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L209]
 - Story: the blueprint plans, in `Plot-Beats`, „Um den aggressiven Überwachungssonden von AEGIS zu entgehen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211] and „hackt Logikfallen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der verführerische Loop
+
+Title: „Der verführerische Loop“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L241] — heading „Sophias Angebot“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L242]
+Position: Teil II; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L243]; place from `Ort`: „Das Auge von KW4“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L245]
+
+- Story: the matrix plans „Sophia bietet Kael eine permanente Existenz in einer schmerzfreien“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L247]
+- Question: „Würdest du in einer perfekten Lüge bleiben, wenn sie keinen Schmerz enthält?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L246]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
