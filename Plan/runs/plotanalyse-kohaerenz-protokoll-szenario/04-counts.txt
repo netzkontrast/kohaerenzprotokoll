@@ -1,0 +1,74 @@
+# counts for 56 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           125 word   126 in   [11, 17, 41, 42, 43, 44]
+                                    1      as AEGIS-System
+  Aegis                             2 word     2 in   [69]
+                                    1      as AEGIS-System
+  Monstergruppe                    13 word    13 in   [17, 40, 80, 88, 101, 125]
+  Kael                             29 word    64 in   [11, 17, 40, 41, 44, 46]  <-- substring
+                                   28      as Kaels
+                                    6      as Kael-Juna-Verbindung
+                                    1      as Kael-Aspekte
+  Juna                              6 word    13 in   [11, 17, 41, 44, 73, 97]  <-- substring
+                                    1      as Juna-Verbindung
+  Kael-Juna-Verbindung              6 word     6 in   [17, 41, 44, 73, 97, 101]
+  K-J-Verbindung                   14 word    14 in   [44, 47, 57, 93, 102, 103]
+  K-J                               8 word    23 in   [41, 44, 47, 53, 57, 59]  <-- substring
+  Kernwelten                       20 word    21 in   [46, 47, 48, 61, 70, 92]
+                                    1      as Kernwelten-Erfahrungen
+  Kernwelt 3                        1 word     1 in   [95]
+  KW1                               1 word     1 in   [93]
+  KW3                               2 word     2 in   [49, 93]
+  Potentialmeer                    13 word    24 in   [51, 52, 55, 58, 69, 105]
+                                   11      as Potentialmeers
+  Kern-Selbst                       7 word     7 in   [47, 93, 103, 130]
+  Rissen                            1 word     1 in   [71]
+  sub-protokollarische              2 word     2 in   [41, 101]
+  Alters                            4 word     4 in   [46, 87, 92, 130]
+  Parias                            6 word     6 in   [40, 49, 87, 95]
+  Moonshine-Modul                   1 word     1 in   [101]
+  Kohärenz durch Abgrenzung         2 word     2 in   [71, 143]
+  Kohärenz durch Integration        3 word     3 in   [40, 71, 143]
+  User Query                       62 word    62 in   [17, 21, 25, 69, 70, 71]
+  Konzept-Plot-Verknüpfungsmatrix    1 word     1 in   [33]
+  Monstrous Moonshine               4 word     4 in   [41, 101, 261]
+  Gödel'sche Unvollständigkeitssätze    1 word     1 in   [42]
+  Parakonsistente Logik             2 word     3 in   [43, 71]
+  Quantenverschränkung              1 word     1 in   [102]
+  Quanten-Nichtlokalität            2 word     2 in   [44, 102]
+  Autopoiesis                      13 word    14 in   [45, 69, 70, 142, 172, 241]
+                                    1      as Autopoiesis-Theorie
+                                    1      as autopoiesis-101-how-living-systems-keep-themselves-alive-and-kicking
+                                    1      as autopoiesis-and-object-oriented-ontology
+  strukturelle Kopplung             1 word     1 in   [45]
+  operationale Geschlossenheit      3 word     3 in   [45, 69, 70]
+  Dissoziative Identitätsstörung    3 word     3 in   [21, 46, 92]
+  DID                               9 word    10 in   [46, 92, 130, 142, 148, 175]
+  Internal Family Systems           2 word     2 in   [47, 93]
+  IFS                               9 word    11 in   [21, 47, 93, 103, 119, 142]
+  Manager                           2 word     3 in   [47, 93]
+                                    1      as Manager-Logik
+  Firefighter                       2 word     2 in   [47, 93]
+  Exiles                            3 word     3 in   [47, 93]
+  Narrative Expositionstherapie     3 word     3 in   [48, 94]
+  NET                              10 word    11 in   [48, 94, 148, 227, 304, 305]
+  Jung'scher Schatten               2 word     2 in   [49, 95]
+  Holismus                         12 word    12 in   [50, 125, 142, 160, 172, 178]
+  Reduktionismus                   12 word    12 in   [50, 125, 142, 160, 178, 235]
+  Potentialität                     7 word     7 in   [51, 109, 113, 115, 142]
+  Aristotelische Potentialität      1 word     1 in   [113]
+  Entropie                          6 word     6 in   [52, 69, 109, 114, 115]
+  Church-Turing-These               1 word     1 in   [73]
+  Schiff des Theseus                1 word     2 in   [54, 130]
+  Emergenz                          3 word     3 in   [55, 115, 125]
+  Bindungsproblem                   2 word     2 in   [56, 136]
+  transpersonalen Psychologie       1 word     1 in   [136]
+  Non-Dualität                      3 word     3 in   [57, 136]
+  Simulationshypothese              2 word     2 in   [61, 119]
+  KI-Alignment                      1 word     2 in   [74]
+                                    1      as KI-Alignment-Problems
+  Epistemologie                     3 word     3 in   [21, 59, 135]
+  Ontologie                         4 word     4 in   [21, 58, 109, 115]

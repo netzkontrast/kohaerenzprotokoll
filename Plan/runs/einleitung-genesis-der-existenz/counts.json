@@ -1,0 +1,512 @@
+{
+  "document": "einleitung-genesis-der-existenz",
+  "drive_id": "1Th-R0KQZgP_WADrOWljDgnj4MdsgUpR0u2Brp_rDNaA",
+  "step": "counts",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 44,
+      "n_including_compounds": 44,
+      "lines": [
+        89,
+        102,
+        106,
+        114,
+        116,
+        118,
+        120,
+        122,
+        124,
+        128,
+        139,
+        141,
+        143,
+        147,
+        149,
+        151,
+        153,
+        155,
+        157,
+        159,
+        161,
+        167,
+        175,
+        179,
+        181,
+        183,
+        185,
+        189,
+        191,
+        197
+      ]
+    },
+    "Überwelt": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        116,
+        120,
+        122,
+        124
+      ]
+    },
+    "Komponente 734": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        100,
+        102,
+        104,
+        108,
+        120,
+        126
+      ]
+    },
+    "Ich-Fragment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        143,
+        155,
+        157,
+        179,
+        185,
+        191
+      ]
+    },
+    "Ursprungs-Ichs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        143,
+        157
+      ]
+    },
+    "minimalen Selbst": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        143,
+        175
+      ]
+    },
+    "minimale Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Grenzwacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        141,
+        151
+      ]
+    },
+    "latenten Echos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        143,
+        167
+      ]
+    },
+    "Herkunfts-Echos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        65
+      ]
+    },
+    "Echo der Einsamkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        104,
+        126
+      ]
+    },
+    "Angst-Vibration": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        51,
+        79,
+        87,
+        95
+      ]
+    },
+    "ontologische Reibung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Selbstverstärkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Vorhersagealgorithmen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        79,
+        93
+      ]
+    },
+    "Partitionierungsalgorithmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Risiko-Assessment-Marker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Binnen-Physik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Nicht-Nicht-Existenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Sensorphalanx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Kohärenzfeld": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Kohärenzmetriken": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        143,
+        159,
+        183
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        161,
+        185,
+        189
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        157
+      ]
+    },
+    "Trennungsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        157
+      ]
+    },
+    "operational geschlossene Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Cluster": {
+      "n": 16,
+      "n_including_compounds": 20,
+      "lines": [
+        55,
+        57,
+        63,
+        65,
+        67,
+        73,
+        75,
+        77,
+        87,
+        89,
+        147,
+        151,
+        167,
+        169,
+        181
+      ]
+    },
+    "Triade": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Entität": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        126,
+        128,
+        141,
+        145,
+        147,
+        151,
+        155,
+        157,
+        159,
+        175
+      ]
+    },
+    "Das Rauschen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        93,
+        128
+      ]
+    },
+    "Herz der Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Erste Kontakte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Der Sog der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Überlebenskampf": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        128
+      ]
+    },
+    "Der große Wandel: Nicht-Sein Verhindern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Komponente 734: Funktion an der Grenze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Die Innere Weite: Simulation als Optimierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Die Stille Wacht: AEGIS vor dem Sturm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "Perturbation aus der Leere: Die Ankunft der Entität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Algorithmischer Schrecken: AEGIS' Paradoxe Interpretation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Resonanzkaskade: Das Erwachen der Echos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "Systemischer Kollaps: Die Auflösung der Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Das Trennungsprotokoll: Fragmentierung als Heilung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Vorwort": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Genesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Dazwischen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Die Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "geshardet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Qualia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        157,
+        169
+      ]
+    },
+    "Parmenides": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Śūnyatā": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "autopoietische": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        157,
+        161,
+        183
+      ]
+    },
+    "epistemologischen Blindheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        157
+      ]
+    },
+    "epistemologische Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "informationstheoretischer Schmetterlingseffekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    }
+  }
+}

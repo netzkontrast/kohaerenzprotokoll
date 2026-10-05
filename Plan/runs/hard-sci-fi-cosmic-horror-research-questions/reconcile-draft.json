@@ -1,0 +1,127 @@
+{
+  "document": "hard-sci-fi-cosmic-horror-research-questions",
+  "drive_id": "1-3kN4oeJkXRAHs0IofGEWMGzEtMiNkkxwvEEH0KnICc",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 149,
+    "decisions": 140,
+    "decided_by_lookup": 98,
+    "needs_judgement": 42
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        187,
+        198,
+        203,
+        205
+      ],
+      "attribution": "",
+      "note": "AEGIS as reported from an analysed Plotanalyse"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        199
+      ],
+      "attribution": "",
+      "note": "Kael's „parts“ as reported"
+    },
+    {
+      "page": "did",
+      "lines": [
+        199
+      ],
+      "attribution": "",
+      "note": "DID as reported from an analysed Plotanalyse"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        119,
+        198
+      ],
+      "attribution": "",
+      "note": "the Gödel move as reported, without the name"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        187,
+        197
+      ],
+      "attribution": "",
+      "note": "Juna only as one end of a connection, as reported"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        187,
+        196,
+        199
+      ],
+      "attribution": "",
+      "note": "Kael as reported from an analysed Plotanalyse"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        197
+      ],
+      "attribution": "",
+      "note": "Monstrous Moonshine as the link's mechanism, as reported"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [],
+      "attribution": "",
+      "note": "the `Potential Sea`, as reported"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 143,
+      "decision": "occurrence",
+      "why": "only inside the title of the analysed document, „Kohärenz Protokoll“ case study (J9, J17); the report never says what coherence is"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 216,
+      "decision": "occurrence",
+      "why": "a heading, „The Ethics of Simulation“, over general questions on simulated horrors and acausal trade (L218); not AEGIS's simulated world"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

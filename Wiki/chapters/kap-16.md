@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -69,6 +69,14 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - What it establishes: „Hier blutet das erste Layer des Origin-Traumas (das Kindheitsbindungstrauma) massiv in die Szenerie.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]
 - Reader's view: „Er projiziert dieses Leid immer noch auf eine fremde Gefangene der Simulation“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]
 - Checklist, Fixpunkt 10, for Kapitel 16 and 24: „Layer 1 (Bindungstrauma), Layer 2 (Fragmentierungsnacht als Twist).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224] · „Kiko offenbart das kindliche Bindungstrauma.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Halting Problem from Inside“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L226]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „B (LogOS)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228]
+
+- Story: the outline places: „erste-Person-Maschine“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228]; „LogOS läuft in eine Schleife“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228]
+- Foreshadowing: „Lia, Isabelle als Cache-Spuren — bevor sie als Alter erscheinen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

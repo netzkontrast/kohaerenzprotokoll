@@ -1,0 +1,128 @@
+## Ziel
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Ziel` ^[optimierte-plotline-genesis-der-existenz.md:#10]
+## Anmerkungen
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Anmerkungen` ^[optimierte-plotline-genesis-der-existenz.md:#10]
+## Beats
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Beats` ^[optimierte-plotline-genesis-der-existenz.md:#10]
+## Annotation
+whole word, case-sensitive     49
+whole word, case-insensitive   49
+including compounds            49
+
+`Annotation` ^[optimierte-plotline-genesis-der-existenz.md:#49]
+## Schwäche adressieren
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Schwäche adressieren` ^[optimierte-plotline-genesis-der-existenz.md:#8]
+## Empfehlung
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Empfehlung` ^[optimierte-plotline-genesis-der-existenz.md:#9]
+## Stärke nutzen
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Stärke nutzen` ^[optimierte-plotline-genesis-der-existenz.md:#3]
+## Kritikpunkt
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kritikpunkt` ^[optimierte-plotline-genesis-der-existenz.md:#1]
+## Szene
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Szene` ^[optimierte-plotline-genesis-der-existenz.md:#10]
+## TEIL
+whole word, case-sensitive     3
+whole word, case-insensitive   6
+including compounds            3
+
+`TEIL` ^[optimierte-plotline-genesis-der-existenz.md:#3]
+## Qualia
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Qualia` ^[optimierte-plotline-genesis-der-existenz.md:#2]
+## Komponente 734
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Komponente 734` ^[optimierte-plotline-genesis-der-existenz.md:#21]
+## Protokoll
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+
+`Protokoll` ^[optimierte-plotline-genesis-der-existenz.md:#2]
+## Protokolls
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Protokolls` ^[optimierte-plotline-genesis-der-existenz.md:#3]
+## Lockdown
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lockdown` ^[optimierte-plotline-genesis-der-existenz.md:#1]
+## Kernwelten
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[optimierte-plotline-genesis-der-existenz.md:#2]
+## Kael
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kael` ^[optimierte-plotline-genesis-der-existenz.md:#3]
+## Genesis
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Genesis` ^[optimierte-plotline-genesis-der-existenz.md:#7]
+## Krise
+whole word, case-sensitive     8
+whole word, case-insensitive   9
+including compounds            8
+
+`Krise` ^[optimierte-plotline-genesis-der-existenz.md:#8]
+## Grenze
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Grenze` ^[optimierte-plotline-genesis-der-existenz.md:#7]
+
+## stance_marker_count 79 = Ziel 10 + Anmerkungen 10 + Beats 10 + Annotation 49 (counts above)
+## "end list" (census says 30)
+$ python3 scripts/read.py optimierte-plotline-genesis-der-existenz --count "end list"
+whole word, case-sensitive     30
+## question marks (profile says 9; census says two of them stand in L56)
+$ grep -o '?' Sources/drive/optimierte-plotline-genesis-der-existenz.md | wc -l
+9

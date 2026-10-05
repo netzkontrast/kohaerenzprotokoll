@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation"]
 gathered: "2026-09-17"
 ---
 
@@ -12,7 +12,7 @@ gathered: "2026-09-17"
 
 **30 occurrences, and never a name.** The document's second protagonist is
 referred to only by this word, introduced in quotation marks — „das Verständnis
-der \"Partnerin\"" ^[L17].
+der \"Partnerin\"" ^[guardians-und-kern-welten-konzept.md:L17].
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -33,15 +33,19 @@ In 5,839 words the document says what she *is* exactly once, in passing, inside
 the field explaining why a Guardian cannot reach it:
 
 > „die wahre Natur und der Ursprung der Partnerin als abgespaltener Seelenkern"
-> ^[L117]
+> ^[guardians-und-kern-welten-konzept.md:L117]
 
 **A split-off soul-core.** Not a loss to be mourned but an existing entity
-requiring reintegration — which is precisely what Mnemosyne cannot see ^[L53].
+requiring reintegration — which is precisely what Mnemosyne cannot see ^[guardians-und-kern-welten-konzept.md:L53].
 
 ### She is what every Guardian is blind to
 
-This is the document's stated purpose ^[L17] and its closing claim ^[L137]. The
+This is the document's stated purpose ^[guardians-und-kern-welten-konzept.md:L17] and its closing claim ^[guardians-und-kern-welten-konzept.md:L137]. The
 five blindnesses are five different failures to perceive one thing.
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Partner, a name from corrupted legacy files
+
+The manifest names the anomaly LogOS cannot process as „the relational entity designated in corrupted legacy files as“ ^[aegis-persona-and-manifest-generation.md:L65] `Partner` (inner marks the manifest's), and gives its qualities as „empathy or intuitive connection“ ^[aegis-persona-and-manifest-generation.md:L65]. The manifest never names her otherwise.
 
 ## Open — and a surface question
 

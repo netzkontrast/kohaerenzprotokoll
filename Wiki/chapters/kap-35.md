@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 26
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2"]
+sources: 27
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -109,6 +109,14 @@ A storyform report that tests three hypotheses for AEGIS' throughline position i
 - Witness layers in Beats 2, 3 and 5: „Layer 1 (Quantum Entanglement Witness): Dieser Layer wird in *Beat 2 (Pivot)* aktiv.“ ^[dramatica-storyform-synthese-aegis-analyse.md:L124] „Layer 2 (ZK-Verifier): Aktiviert in *Beat 3 (Stille)*.“ ^[dramatica-storyform-synthese-aegis-analyse.md:L125] „Layer 3 (Husserlian Disinterested Spectator): Entfaltet sich in *Beat 5 (Rotation)*.“ ^[dramatica-storyform-synthese-aegis-analyse.md:L126]
 - Post-Vortex AEGIS, a broken loop and not a consciousness: „AEGIS kann die Unberechenbarkeit (Chaitins ) nicht auflösen und stürzt in die Algorithmische Melancholie“ ^[dramatica-storyform-synthese-aegis-analyse.md:L118] „Die Melancholie ist kein echter iterativer oder adaptiver Bewusstseinszustand.“ ^[dramatica-storyform-synthese-aegis-analyse.md:L134]
 - Growth recommended Stop for Storyform A: „Es wird empfohlen, Growth für Storyform A in der finalen Dokumentation auf "Stop" zu korrigieren“ ^[dramatica-storyform-synthese-aegis-analyse.md:L160]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Mnemosyne-Archipel — Hardware“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L320]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „A (Wir-Geflecht im Substrat)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L322]
+
+- Story: the outline places: „K1-Cache-Bänke, die *physische* Hardware von AEGIS' Speichersystem“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L322]; „AEGIS verbrennt an der Unmöglichkeit, ihn zu löschen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L322]
+- Encoding A: „OS · SP4 (Conceiving) · Truth · Decision (kein Aufsplitten)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L322]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

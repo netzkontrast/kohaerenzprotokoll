@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 9
-readings: 9
+sources: 11
+readings: 11
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -47,6 +47,14 @@ by effect, never by identity. See [[partnerin|Partnerin]].
 
 `Cerberus` — see [[cerberus|Cerberus]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
+
+## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the row KW3 Cerberus-Labyrinth, written under the Guardian-built name only
+
+The pitch writes the third world only as `KW3: Cerberus-Labyrinth`, never as Grenzfeste; the pairing by KW number is the coordinator's judgement (J118), nothing is merged. Its logic: „Hypervigilanz, eingeschränkte Relevanzlogik mit Fokus auf pure Angst und Sicherheit.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L98]; its somatic motif: „Anspannen der Muskeln, ständiges Wappnen für einen Aufprall, Zusammenbeißen der Kiefer.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L98]
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the English name of Core World 3
+
+The manifest writes only the English name: „The third Core World is designated as the Boundary Fortress.“ ^[aegis-persona-and-manifest-generation.md:L89] It is „a secure quarantine zone, a control center, and a maximum-security containment facility“ ^[aegis-persona-and-manifest-generation.md:L89].
 
 ## Open
 

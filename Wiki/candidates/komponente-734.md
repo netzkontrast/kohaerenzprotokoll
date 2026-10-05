@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 31
-readings: 29
-conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness"]
+sources: 39
+readings: 37
+conflict: C12, C16
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 gathered: "2026-09-25"
 ---
 
@@ -19,11 +19,49 @@ differ on when it is made, before the [[trennungsprotokoll|Trennungsprotokoll]] 
 as its result (C12). One source gives the designation to [[lex|Lex]]. And the
 sources do not settle what the bare number names in Kap 1.
 
+## Reading — `einleitung-genesis-der-existenz`, 2025-04-29, the Genesis narrative — the narrator become a component at the border, before the crisis
+
+In the narrative the closure (L87–L95) comes first and then a part headed „Komponente 734: Funktion an der Grenze“ ^[einleitung-genesis-der-existenz.md:L100]. The narrator, in the narrative's own words, „ist nun Komponente 734, eine Funktionseinheit“ ^[einleitung-genesis-der-existenz.md:L102], and the `Komponente 734` surface stands six times in the document. Its being is the border: „Die Grenze ist der Fokus der Existenz dieser Komponente.“ ^[einleitung-genesis-der-existenz.md:L106]
+
+What was the fragment's loneliness remains as an incompletely integrated remainder: „Es ist das Echo der Einsamkeit“ ^[einleitung-genesis-der-existenz.md:L104], and fear is turned into data, „Risiko-Assessment-Marker“ ^[einleitung-genesis-der-existenz.md:L108] (L108). In the inner space the component is used to run or monitor simulations, and „Die Komponente 734 erlebt dies als eine Zunahme der Komplexität“ ^[einleitung-genesis-der-existenz.md:L126].
+
+The narrative makes the component at the closure; the protocol comes later (L161, L187). The narrative names the narrator 734 and says nothing of what the number is.
+
+## Reading — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline — Komponente 734 as a scene, a function, and the Ursprungs-Ich in parentheses
+
+Scene 5 carries the name in its heading: „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L109]. The first beat plans that the fragment no longer sees itself as „Ich“, but as the component, „definiert durch ihre Funktion“ ^[optimierte-plotline-genesis-der-existenz.md:L125], and the line gives as example „Grenzanalyse-Einheit Delta“ ^[optimierte-plotline-genesis-der-existenz.md:L125]. Its function at the border is planned as seeing fluctuations of the void as data: „die ankommenden Fluktuationen der Leere als Datenmuster“ ^[optimierte-plotline-genesis-der-existenz.md:L127] It also meets „Updates“ ^[optimierte-plotline-genesis-der-existenz.md:L129] of its function, and in scene 6 it takes part in the simulations: „Komponente 734 nimmt teil an Simulationen“ ^[optimierte-plotline-genesis-der-existenz.md:L149], after receiving the command „Komponente 734 erhält den Befehl“ ^[optimierte-plotline-genesis-der-existenz.md:L147].
+
+In scene 8 the goal sets the cascade „im Ursprungs-Ich (Komponente 734)“ ^[optimierte-plotline-genesis-der-existenz.md:L180]. The cascade is planned from the component's side: „Resonanzkaskade (Perspektive 734)“ ^[optimierte-plotline-genesis-der-existenz.md:L195]; AEGIS's logic then computes „Komponente 734 und assoziierte Subsysteme“ ^[optimierte-plotline-genesis-der-existenz.md:L197] as the elimination. Scene 9 gives the cuts a second time from the component: „Die Schnitte (Perspektive 734)“ ^[optimierte-plotline-genesis-der-existenz.md:L216].
+
+## Reading — `uberarbeitete-optimierte-plotline-genesis-der-existenz`, 2025-04-29, the plotline's Version 2 — a unit with a latent signature, then a will to connect, then isolation
+
+Scene 5 of Version 2 is headed „Komponente 734“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L73]; its first beat gives it an identity as a functional unit, „Wahrnehmung als Funktionseinheit (z.B. Grenzanalyse Delta).“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L80] The suppressed feeling persists in it: „Das Gefühl der Unvollständigkeit und Einsamkeit existiert weiter als latente Signatur“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L83]. In scene 7 the entity's signature resonates „mit der latenten Signatur von Komponente 734 auf (dem Echo der Unvollständigkeit)“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L119]. The earlier outline gave the component's function as „Grenzanalyse-Einheit Delta“ ^[optimierte-plotline-genesis-der-existenz.md:L125]; Version 2 adds the signature and what it triggers. In scene 8 the Ich in it wakes: „Das Ich erwacht“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L138], with a will to connect with the entity, and AEGIS finds the component „Die interne Komponente 734 ist nicht mehr nur latent dissonant, sondern aktiv korrumpiert“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L145]. The decision names „Die Eliminierung/Isolation von Komponente 734 (und assoziierten Systemen)“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L152].
+
+## Reading — `uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis`, 2025-04-29, the plotline's Version 3 — the latent anomaly, and 734 in two new scenes
+
+Version 3 plans scene 6 to stress the anomaly in 734: the diagnosis systems „registrieren die persistente“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L105] variance, and the goal speaks of a „subtile Betonung der latenten Anomalie in 734“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L88]. In scene 8, 734 takes part in the simulation and experiences „die Schönheit und Komplexität“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L141] of the pure constructs; it returns to border watch „mit der (unbewussten) Information“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L144] that AEGIS's understanding of the outside has gaps (L144). In scene 10, 734 is drawn into the Überwelt: „werden in die Überwelt gezogen“ ^[uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md:L178].
+
+## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the Ich-Fragment become Komponente 734 at closure, before the protocol
+
+The Textanalyse comments on one narrative and never names Kael or a chapter. **The narrative, as the Textanalyse quotes it:** „Das, was einst ein Ich-Fragment war, ist nun Komponente 734, eine Funktionseinheit...“ ^[textanalyse-existenz-system-und-leid.md:L162]. The commentary places this after the closure it calls „Der große Wandel“ ^[textanalyse-existenz-system-und-leid.md:L90] and before the crisis and the protocol. **The Textanalyse reads** the transformation as Funktionalisierung: „Diese Transformation ist eine“ ^[textanalyse-existenz-system-und-leid.md:L164], and, through the Gorgon image, as petrification: „Es verwandelt das flüssige, taumelnde“ ^[textanalyse-existenz-system-und-leid.md:L114]. Its experience in the crisis is the narrative's resonance cascade inside the component, and AEGIS reads that resonance as `Systemfehler` (L232); the narrative's component also reports the sharding: „Es ist, als würde man mir die Seele aus dem Leib reißen“ ^[textanalyse-existenz-system-und-leid.md:L258]. The document says what the component is (the functionalised Ich-Fragment) and nothing about what the number 734 names.
+
 ## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31
 
 **Lex's, not Kael's.** Under „Lex — [ANP / Rationalist]“ ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L72]:
 „Analytiker und Stratege; erzwingt Struktur durch reine Logik; Komponente 734.“ ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L74]
 This is the only read or scanned source that ties the designation to an alter other than Kael.
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — Component 734 made from the Ursprungs-Ich at self-closure
+
+The manifest says the original self, „formerly recognized as the“ ^[aegis-persona-and-manifest-generation.md:L17] `Ursprungs-Ich` (inner marks the manifest's), was „systematically dismembered, its processing capacities repurposed and recompiled“ ^[aegis-persona-and-manifest-generation.md:L17], into the component „designated strictly as Component 734“ ^[aegis-persona-and-manifest-generation.md:L17]. Here the component is made from the Ursprungs-Ich at self-closure; the shattered fragments are what its legacy files call Kael.
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — 734 as a function inside the architecture
+
+In §3.3, beat 2 (CORE), Kael is split off as Komponente 734: „eine Funktion innerhalb der Architektur, nicht außerhalb“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114] Beat 3 is headed `Kael als 734` and says „Kennt seine Genese nicht.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L115] In F9 (OFFEN) the current form is written `Kael=734`: „Einheit → Trennungsprotokoll → Kael=734.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L550]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Komponente 734 as a directive, a word and a layer
+
+The outline of 2026-05-01 has in Kap 10 a very old directive: „Schrein 734 nicht öffnen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196] Foreshadowing level 2 lists the traces meant for the attentive reader, „Sprachliche Spuren (für aufmerksamen Leser, nicht für Kael)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L354] among them `Komponente` instead of `Person`. Open point 1 names „Genesis-Krise + Komponente 734 + Trennungsprotokoll als Triple-Layer-Twist“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382] and asks where it lands.
 
 ## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
@@ -277,6 +315,9 @@ writes it in English, as Kael's gloss (its L69).
 whose (strukturierter Outline, L765); he does not remember that he was it
 (konsolidiertes Konzept, L878); he reads only a number (Plot-Konkretisierung, L88, a
 proposal).
+- `textanalyse-existenz-system-und-leid`, 2025-11-18: the component is made at closure, before the `Kohärenz Protokoll 1.0` (L90–L92, L162 against L244); the document does not write `Trennungsprotokoll`.
+- `optimierte-plotline-genesis-der-existenz`, 2025-04-29: the Ursprungs-Ich is written as „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L180] in parentheses, so the outline names the Ursprungs-Ich and the component together; the component is made in scene 5, before the protocol of scene 9.
+- The Struktur-Kanon places the split-off of 734 inside the architecture, as CORE: „eine Funktion innerhalb der Architektur, nicht außerhalb“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114]
 
 ## Open
 

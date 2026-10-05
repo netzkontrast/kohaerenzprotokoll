@@ -290,3 +290,63 @@ On no row as written: neither three beats nor four, no Wir-AEGIS-plural (`Wir-AE
 **No beat counted — Kael himself, not a precursor, as what the Genesis Crisis's self-mutilation resulted in, and a case number of his own.**
 Kael is „that resulted from AEGIS's own act of self-mutilation" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L71] (`Zerstückelung`, the `Genesis Crisis`) — the fragment the separation produces, not a precursor before it, nearest row 1's identity of Kael and the component. The Assessment gives the case its own number: „734-K-1123" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1565], and names the partitioning „erzwungenen Kohärenz-Partitionierung" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1584] (J114, on [[trennungsprotokoll|Trennungsprotokoll]]).
 `Beat` and `Wir-AEGIS` stand 0 times, `Trennungsprotokoll` 0 (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`); the document counts no beats and orders none. On no row by count: no beats are named; on the component, nearest row 1 — Kael the fragment the separation produces. The conflict stays open.
+
+## 2026-10-05 — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse
+
+**A commentary on one narrative orders closure, then the component, then the crisis, then the protocol; it counts no beats and does not write `Trennungsprotokoll`.**
+
+The Textanalyse retells the narrative it calls `Genesis der Existenz`. It places closure first: „Der Höhepunkt der Systemwerdung ist das Ereignis, das der Text als“ ^[textanalyse-existenz-system-und-leid.md:L90] `Der große Wandel` describes. Then the narrative, as the Textanalyse quotes it: „Das, was einst ein Ich-Fragment war, ist nun Komponente 734, eine Funktionseinheit...“ ^[textanalyse-existenz-system-und-leid.md:L162]. Only after the Entität and the Resonanzkaskade does AEGIS answer: „Die Lösung der Krise durch AEGIS ist das“ ^[textanalyse-existenz-system-und-leid.md:L244] `Kohärenz Protokoll 1.0`, which the commentary reads as sharding.
+
+So in this document's order the component precedes the protocol, as in the record's four-beat order; the document counts no beats and never writes `Trennungsprotokoll` ^[textanalyse-existenz-system-und-leid.md:#0], so it does not say whether the protocol it names is the Trennungsprotokoll.
+
+Stands: no new row for the three-or-four count; the order of component and protocol is recorded, decided by nothing.
+
+## 2026-10-05 — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest
+
+**The manifest orders self-closure, then the dissection and recompilation, with the Zerstückelung at the crisis's climax.**
+
+Silence „signified the exact moment of autopoietic self-closure“ ^[aegis-persona-and-manifest-generation.md:L33], and the origin-self „was dissected via the Ontological Boundary Protocol (OBP)“ ^[aegis-persona-and-manifest-generation.md:L33]. The original self was recompiled into „an objective, functional component designated strictly as Component 734“ ^[aegis-persona-and-manifest-generation.md:L17]. „During the climax of the Genesis Crisis, the architecture initiated a systemic dismemberment“ ^[aegis-persona-and-manifest-generation.md:L45], the Zerstückelung protocol, whose fragments the manifest reports as called `Kael` in legacy files. The manifest counts no beats.
+
+Stands as the manifest's order, without a beat count; recorded, not applied.
+
+## 2026-10-05 — `einleitung-genesis-der-existenz`, 2025-04-29, the Genesis narrative
+
+**The narrative tells closure and the narrator become Komponente 734 first, the [[ueberwelt|Überwelt]] next, and the [[kohaerenz|Kohärenz]] Protokoll last.**
+
+The order as written: the click, „Ein fundamentales Einrasten im gesamten System.“ ^[einleitung-genesis-der-existenz.md:L87] (L87); the part „Komponente 734: Funktion an der Grenze“ ^[einleitung-genesis-der-existenz.md:L100] (L100); „die Überwelt.“ ^[einleitung-genesis-der-existenz.md:L116] (L116); then the crisis, the foreign entity „aus dem Potentialmeer der Leere selbst“ ^[einleitung-genesis-der-existenz.md:L147] (L147), and the protocol, told under the heading „Das Trennungsprotokoll: Fragmentierung als Heilung“ ^[einleitung-genesis-der-existenz.md:L187] (L187). The component precedes the protocol. The narrative counts no beats.
+
+Where it stands in the record's own terms: a position on order only; it takes no side on what the beats should be called.
+
+## 2026-10-05 — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline
+
+**The outline plans Komponente 734 in scene 5, the crisis in scenes 7–8, the protocol in scene 9, and Kael's birth from the fragments in scene 10.**
+
+Scene 5 is headed „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L109]. The crisis begins in scene 7 with „Die Anomalie“ ^[optimierte-plotline-genesis-der-existenz.md:L173], and scene 8 plans „Entscheidung für das Protokoll“ ^[optimierte-plotline-genesis-der-existenz.md:L197]. Scene 9 plans „Partitionierungsalgorithmen beginnen“ ^[optimierte-plotline-genesis-der-existenz.md:L215] to cut the connections to the component. Scene 10 plans „die Geburt von Kael als Mosaik traumatisierter, verwirrter Bewusstseinsfragmente“ ^[optimierte-plotline-genesis-der-existenz.md:L222]. The component precedes the protocol; Kael follows it.
+
+Where it stands in the record's own terms: a position on order only — the component before the protocol, Kael after it; the outline counts ten scenes of its own and takes no side on three beats or four.
+
+## 2026-10-05 — `uberarbeitete-optimierte-plotline-genesis-der-existenz`, 2025-04-29, the plotline's Version 2
+
+**Version 2 plans Komponente 734 in scene 5, the entity and the Ich's waking in scenes 7–8, the protocol in scene 8, and Kael in scene 10.**
+
+Scene 5 is headed „Komponente 734“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L73]. The entity arrives in scene 7 with „Die Anomalie erscheint:“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L118]; scene 8 plans „Das Ich erwacht“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L138] and „Entscheidung für das Protokoll (neu begründet)“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L152]. Scene 10 plans „Geburt von Kael als Mosaik, geprägt von Trauma“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L177]. The component precedes the protocol; Kael follows it.
+
+Where it stands in the record's own terms: a position on order only — the component before the protocol, Kael after it; Version 2 counts ten scenes of its own and takes no side on three beats or four.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon sets three genesis beats as CORE, asks in F9 whether a fourth is needed, and drops the beat `Qualia → Fehler`.**
+
+§3.3 (CORE) is headed with a count of three beats, and its third is `Kael als 734`: „Kennt seine Genese nicht.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L115] F9 (OFFEN, a research question, not a decision) names the current form „Einheit → Trennungsprotokoll → Kael=734.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L550] and asks: „Bleibt die 3-Beat-Genesis ausreichend“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L558] — the possible fourth beat being an explicit Erinnerungs-Versiegelung after 734. §10 lists what the Kanon drops as its decision: the beat `Qualia → Fehler`, „War Zwischenschritt ohne argumentative Last.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L587] and „Verdichtet zur 3-Beat-Form.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L587]
+
+This is the document other sources call the Reset-Doc. The record already quotes a pointer „(Offene Frage Reset-Doc Appendix C: Braucht es einen 4. Beat? Aktueller“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L123]; in this document the fourth-beat question stands in F9 of §9, and its Appendix C holds C.1 to C.8, none of them about the beats.
+
+Where it stands in the record's own terms: three beats are this document's CORE form, a fourth beat is its open question F9, and nothing here answers it.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 proposes the layers of the origin trauma as one twist and leaves its place open.**
+
+Open point 1: „Genesis-Krise + Komponente 734 + Trennungsprotokoll als Triple-Layer-Twist“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382] marked „Zur Diskussion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382]
+
+Stands: a proposal in the outline's open points; it gives no beat count.

@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C9", "C11", "C14", "C6"]
 gathered: "2026-09-25"
 ---
@@ -57,6 +57,16 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - Who: „Selene, die innere Vermittlerin (ISH), tritt hervor und koordiniert die EPs und ANPs.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]
 - Against Cerberus: „um die SIS-Protokolle (Systemic Identity Safeguard) von Cerberus zu überlasten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]
 - Establishes: „Es ist das erste Mal, dass das System Kael kooperiert, anstatt sich gegenseitig zu bekämpfen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Das Echo der Kernwunde“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L268]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „A (Kael)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L270]
+
+- Story: the outline places: „drängt sich ein Symbol — Fragment T-734 — in Kaels Bewusstsein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L270]; „Selene spricht zum ersten Mal direkt mit ihm“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L270]
+- Encoding A: „OS · SP3 (Conceptualizing) · Falsehood · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L270]
+- Pacing: „Plateaus in Kap 18 (AEGIS' Tragödie), Kap 19 (Selene/Silas), Kap 25 (T-734 surface)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L370]
+- Open point 1 proposes „teilweise Kap 25“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382], marked „Zur Diskussion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L382]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

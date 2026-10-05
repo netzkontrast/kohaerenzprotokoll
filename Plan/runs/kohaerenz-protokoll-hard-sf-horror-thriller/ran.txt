@@ -1,0 +1,24 @@
+**Zeros: none.** Every candidate of the list stands at least once as a whole word. The two ways a candidate was written in this document (with or without the symbol that the export lost) are explained under export damage below.
+
+**Standing alone less often than with compounds — each of the 17 and its lines.** The count with compounds finds a longer word that contains the surface, and every difference below is one of those words; the lines were read.
+
+- `Kohärenz Protokoll` stands as a whole name 10 times and also as the genitive `Kohärenz Protokolls` at L57, L129 and L137.
+- `Kael`: the genitive `Kaels` at L47, L91, L115 and L151.
+- `AEGIS`: `AEGIS-Architektur` at L84 and L123, `AEGIS-Manifest` and `AEGIS-Manifests` at L107 and L109, `AEGIS-Analyse` at L178, and `AEGIS'` at L53; the case-insensitive count also finds `Aegis` twice inside the quoted definition at L109.
+- `Cosmic Horror`: the genitive `Cosmic Horrors` at L115. `Psycho-Thriller`: `Psycho-Thrillers` at L47.
+- `Kernel`: stands alone at L19, L21 and L23 (the title of the theory and its heading). The longer forms are `Kohärenz-Kernel` at L25, `Kollaps-Kernel` at L27, `K-Kernel` in the table header at L83, `Kernels` at L63 and L79, and the forms with the dropped symbol, `-Kernel`.
+- `-Kernel`: stands alone where the export left a space and a hyphen in front of it (L25, L27, L29, and the table cells L84 and L85, which write it with a backslash); the compounds are `Kohärenz-Kernel`, `Kollaps-Kernel`, `K-Kernel` and the genitive `-Kernels` at L63.
+- `-Feld`: `-Feldes` at L27. `Intrusion`: `Intrusionen` at L63. `Risse`: `Rissen` at L115. `Informationsverlust`: `Informationsverlusts` at L27. `Rationalist`: `Rationalisten` at L25. `Dasein`: `Daseins` at L61.
+- `ANP`: stands alone once in the table cell at L84; `ANPs` stands at L25, L47, L63 and twice at L87. `EP`: stands alone once at L85; `EPs` at L27 and twice at L87, and `EPR` at L125 is the ER=EPR conjecture, a different thing that the compound count picks up by its first two letters.
+- `V`: stands alone at L123 and L146 (`Juna/V`, `Juna / V`). The large figure with compounds is every word that merely contains the letter V (`Vielmehr`, `Verständnis`, a Drive id at L2 and so on); it says nothing about the figure.
+- `AEGIS-Manifest`: `AEGIS-Manifests` at L109.
+
+**`- ` lines read as prose and not counted:** one, Lex (Rationalist, Systemadministrator) — a list line that carries a parenthesis; the text writes it in the table cell at L84, and `Lex` itself is counted as its own row.
+
+**Export damage.** The export dropped a symbol in front of `-Kernel` and `-Feld` (L25 to L29, L47, L63, L84, L85) and inside three empty pairs of parentheses (L29 twice, L119 after `Monstergruppe`), where a formula has gone; the list keeps the forms as the lines write them and never supplies the symbol, so the document never writes which letter is meant. Tables are flattened with escaped bold marks (`\*\*`), so the 88 backslash escapes of the profile are escaped asterisks (`\*`), and `\\-Kernel` at L84 and L85 and `\\n` at the end of five reference entries are the same damage. The footnote numbers are glued to the full stops of the body text (`.1`, `.2`, `.7`), and a quotation is checked with such a number stripped; the profile's own count of glued numbers is 9 and the reading did not recount it.
+
+**The four question marks.** Read, not assumed: one stands in the narrative quotation at L63 („Wer bin ich, wenn keine meiner Stützen mehr hält?“) and three stand in the `open?id=` links of the references at L173, L176 and L180. The document poses no question of its own to the reader.
+
+**Voices.** Inside the body the document reports other texts and theories (Jaspers, Heidegger, Lucas and Penrose, Dramatica, Erikson, Frankl) before it applies them; a candidate that stands only in such a report is a borrowed concept, not the novel's own word, so the census does not take a name from a theorist's line as the document's own. The document names its own standing twice and applies neither claim: an „unverrückbare Referenz“ for the author ^[L19] and a „Formalbeweis“ ^[L165] (both quoted in the stance section).
+
+**Names written two ways.** The protagonist is written `System Kael`, `Kael` and, as an inflected form, `Kaels`; the exile is `Juna/V` at L123 and `Juna / V` at L146 and `Juna` alone; the AI is written `AEGIS` in the body and `Aegis` in the quoted definition. The reference list names the document's sources by title (L173 to L181).

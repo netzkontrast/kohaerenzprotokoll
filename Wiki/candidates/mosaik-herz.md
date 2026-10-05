@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 15
-readings: 15
+sources: 17
+readings: 17
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 gathered: "2026-09-24"
 ---
 
@@ -30,6 +30,14 @@ One sentence names it. The document places true coherence there and gives a phas
 The Mosaik-Herz stands in the document's closing section, headed „Synthese: Phase III und das Mosaik-Herz als wahre Zielkohärenz“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L162]. The opening sentence of that section has the story flip and the Gambit „kumulieren in der finalen Umstrukturierung der Systemarchitektur, die im 39-Kapitel-Arc als Phase III“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L164] coded, with `Die Existenzielle Fusion` as the phase's name in the line's own marks. The paradigm of that restructuring: „Das Leitparadigma dieser finalen, post-linearen Integration ist das psychologische und strukturelle Konstrukt des“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L166] `Mosaik-Herzens`, in the line's own marks. The arc is named, not a chapter: `Kapitel` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0] stands only inside the compound `39-Kapitel-Arc`.
 
 What it is: „Das Mosaik-Herz repräsentiert eine neuartige Zielkohärenz, die nicht auf Zwang, algorithmischer Glättung und Homogenität beruht“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L168]. It refuses fusion: „Es verwirft die klassische Idee, dass eine zersplitterte Entität (die 11 Subsysteme von Kaels Persönlichkeit) zu einer einzigen, ununterscheidbaren Kernidentität verschmolzen werden muss“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L168]. What it enables instead: „Stattdessen ermöglicht das Mosaik-Herz den Zustand der“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L170] `Funktionalen Multiplizität`, in the line's own marks.
+
+## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the Mosaik-Herz as the goal in place of a final fusion
+
+The heading is „Transzendenz und das Mosaik-Herz“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L131]. The goal, the pitch says, is not „finale Fusion“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L133], which would be „die einer Auslöschung individueller Traumata gleichkäme“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L133]; Kael forms a `Mosaik-Herz`, „eine emergente Pluralität, die weitaus resilienter ist als die monolithische, zerbrechliche Einheit, die AEGIS erzwingen will“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L133].
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Kap 39
+
+Kap 39 of the outline of 2026-05-01: „Das Mosaik-Herz schlägt“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L338]
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 

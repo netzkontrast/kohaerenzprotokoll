@@ -1,0 +1,191 @@
+{
+  "document": "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
+  "drive_id": "1_nYuB-9lZFjRDBvq2-eKA-sVm1TEaK2wTLtSSu7Ru0g",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 248,
+    "decisions": 258,
+    "decided_by_lookup": 153,
+    "needs_judgement": 105
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        59,
+        61,
+        115,
+        119,
+        127,
+        135,
+        179,
+        199,
+        201
+      ],
+      "attribution": "",
+      "note": "the novel's AEGIS as reported, and AEGIS as a writing assistant's gatekeeper"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        199
+      ],
+      "attribution": "",
+      "note": "a status the assistant's AEGIS falls into"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the DKT as the spec's frame for two computing cores"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        21,
+        59,
+        101,
+        121,
+        154
+      ],
+      "attribution": "",
+      "note": "entropy as the novel's term reported, and as a software measure"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        199
+      ],
+      "attribution": "",
+      "note": "the Gödel Gambit as the case that sends the decision to the human author"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        177,
+        179
+      ],
+      "attribution": "",
+      "note": "four subsystems of a writing assistant called Guardians"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        189
+      ],
+      "attribution": "",
+      "note": "Isabelle as a subsystem of the writing assistant"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        59,
+        61
+      ],
+      "attribution": "",
+      "note": "Kael as reported, and as a symbol for generative models"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Kernel as one of two computing cores"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        21,
+        59,
+        201
+      ],
+      "attribution": "",
+      "note": "coherence as the assistant's enforced order"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kernel as thermodynamic counterforce"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        186
+      ],
+      "attribution": "",
+      "note": "LogOS as a subsystem of the writing assistant"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        187
+      ],
+      "attribution": "",
+      "note": "Oblivion as a deletion subsystem of the writing assistant"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        188,
+        197
+      ],
+      "attribution": "",
+      "note": "Silas as a repair subsystem of the writing assistant"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        163,
+        167,
+        168,
+        173
+      ],
+      "attribution": "",
+      "note": "a software analogue: splitting a failing agent"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 189,
+      "decision": "occurrence",
+      "why": "the PRO framework's `Persona, Requirement, Output` that the subsystem Isabelle checks before a sub-agent starts; a prompt-engineering term, not the novel's personas"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

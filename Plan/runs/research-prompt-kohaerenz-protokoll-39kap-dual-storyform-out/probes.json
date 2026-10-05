@@ -1,0 +1,246 @@
+{
+  "document": "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+  "drive_id": "1WatAbHnlO_wbW8oLdWzM6S6OOjvW7Sh15WuM4d0JyfA",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 90,
+  "backslash_escapes": 408,
+  "typographic_marks": 248,
+  "ascii_quotes": 115,
+  "inflection_families": {
+    "check": [
+      "CHECK",
+      "CHECKLIST",
+      "Check",
+      "Checkpoint",
+      "Checkpoints",
+      "Checks"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktregel",
+      "Konflikts",
+      "Konfliktursache"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforming",
+      "Storyforms",
+      "Storypoint",
+      "Storypoints"
+    ],
+    "block": [
+      "BLOCK",
+      "BLOCKS",
+      "Block",
+      "Blockade",
+      "Blocks"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterarchitektur",
+      "Charakteren",
+      "Charakteristika"
+    ],
+    "metho": [
+      "METHODS",
+      "Method",
+      "Methode",
+      "Methoden",
+      "Methodology"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturieren",
+      "Strukturierte"
+    ],
+    "guard": [
+      "Guard",
+      "Guardian",
+      "Guardians",
+      "Guards"
+    ],
+    "integ": [
+      "INTEGRITY",
+      "Integration",
+      "Integrity",
+      "IntegrityGuardian"
+    ],
+    "itera": [
+      "ITERATION",
+      "Iteration",
+      "Iterationen",
+      "Iterations"
+    ],
+    "leser": [
+      "Leser",
+      "Leserpsychologie",
+      "Lesersog",
+      "Lesersteuerung"
+    ],
+    "phase": [
+      "Phase",
+      "Phasen",
+      "Phasenplan",
+      "Phasenstruktur"
+    ],
+    "refle": [
+      "Reflection",
+      "Reflektion",
+      "Reflektionen",
+      "Reflektions"
+    ],
+    "roman": [
+      "Roman",
+      "Romanautor",
+      "Romanprojekt",
+      "Romans"
+    ],
+    "trian": [
+      "Triangulation",
+      "Triangulations",
+      "Triangulationsstatus",
+      "Trianguliere"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeitsnotizen",
+      "Arbeitstitel"
+    ],
+    "archi": [
+      "Archipel",
+      "Architect",
+      "Architektur"
+    ],
+    "begri": [
+      "Begriff",
+      "Begriffe",
+      "Begriffen"
+    ],
+    "bestä": [
+      "Bestätige",
+      "Bestätigung",
+      "Bestätigungen"
+    ],
+    "const": [
+      "CONSTRAINT",
+      "Constraint",
+      "Constraints"
+    ],
+    "defin": [
+      "Definition",
+      "Definitionen",
+      "Definitionsmismatch"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokumente",
+      "Dokumenten"
+    ],
+    "extra": [
+      "Extraction",
+      "Extrahiere",
+      "Extraktion"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "AUSF",
+      "Ausführung"
+    ],
+    [
+      "Akte",
+      "Akten"
+    ],
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charakteren"
+    ],
+    [
+      "Akte",
+      "Charakteristika"
+    ],
+    [
+      "Akte",
+      "Charakterarchitektur"
+    ],
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Anti",
+      "Antinomie"
+    ],
+    [
+      "Atem",
+      "Restatement"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Bildern"
+    ],
+    [
+      "Eine",
+      "Deine"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Keiner"
+    ],
+    [
+      "Ende",
+      "Endet"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "ÜHRENDE"
+    ],
+    [
+      "Ende",
+      "Verwende"
+    ],
+    [
+      "Erst",
+      "Erste"
+    ]
+  ]
+}

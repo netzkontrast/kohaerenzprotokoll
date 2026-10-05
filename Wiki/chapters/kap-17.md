@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -70,6 +70,14 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - Story: „Kael findet ein Terminal, das scheinbar nicht von AEGIS korrumpiert ist.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144] · „Hier wird die DKT-Physik dargelegt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144]
 - Physics: „Das Universum besteht aus K1 (Kohärenz, atemporal, ordnend, operierend durch Coherons) und K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144]
 - What it establishes: „Kael begreift, dass AEGIS nicht die Ordnung ist, für die es sich ausgibt, sondern eine monströse K0-Maschine“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144] · „durch ihre verzweifelten Kontrollakte (EntropicMgmt) genau die Hitze und Entropie erzeugt, die alles verbrennt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Internal War“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L230]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „A (Wechselnd: Lex, Nyx, kurz Lia, kurz Isabelle)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232]
+
+- Story: the outline places: „Im Mosaik-Innenraum: Streit“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232]; „AEGIS schickt elektrische Feedback-Loops in das Substrat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232]
+- Pacing: „Polyphonie-Bruch in jedem Absatz“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C12", "C10"]
 gathered: "2026-09-25"
 ---
@@ -70,6 +70,22 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 - The knuckles: „Kael betrachtet seine Hände.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L206] · „Die Narben auf seinen Knöcheln sind real, alt und verheilt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L206] (C10) — the plan's Kapitel 1 had them bloody: „Der Glitch zeigt blutige Knöchel.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215]
 - Last image: „Der Riss im Spiegel ist nicht verschwunden, aber er schneidet nicht mehr.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L206]
 - Checklist, Fixpunkt 11: „Resolution = Funktionale Multiplizität: NIE Fusion. Kein Alter wird eliminiert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L225] · „Kael erwacht. Die Alters bleiben als funktionierendes, kooperatives Orchester (funktionale Multiplizität) bestehen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L225]
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — the last image, Kap 1's inverted (CORE, §3.5)
+
+- Structure: „was am Anfang Trennung bedeutete, bedeutet am Ende Verbindung — und umgekehrt.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L135]
+- Storyform accents: Kap 37–39 run in A logic only — „In Kapitel 37–39 ist nur noch A.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L127]
+- Open: which image of Kap 1 returns changed in Kap 39 is F10, a research question; its candidates begin „Kandidaten: Telefon-Stille“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L566]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „Echo der Kohärenz“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L336]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „A (Kael/M + Juna — als kollektives Wir)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L338]
+
+- Story: the outline places: „Die physischen Empfindungen aus Kap 1 kehren exakt zurück“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L338]; „Aber die Bedeutung ist invertiert.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L338]; „Der letzte Satz des Romans spiegelt verbatim den ersten Satz von Kap 1“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L342]
+- Encoding A: „RS · SP4 (Learning) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L342]
+- Ouroboros anchor: „Kap 1 ↔ Kap 39, Bedeutungs-Inversion vollzogen.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L342]
+- Open point 3, a proposal and not a decision: „Kandidaten: *allein → wir, Vakuum → Atmosphäre, sauber → ehrlich.*“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L384]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -72,6 +72,15 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - Sensorik: „Das Sepia weicht einem flimmernden Flutlicht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
 - Who: „Rhys bricht an die Oberfläche und übernimmt die motorische Kontrolle“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
 - Function: „was die Vorbereitung für den kommenden Twist intensiviert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Ghost in the Predictor“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L242]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „B (AEGIS' Vorhersagealgorithmus)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L244]
+
+- Story: the outline places: „Aus der Perspektive eines maschinellen Vorhersagemodells“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L244]; „Kael bewegt sich nach Mustern, die kein modellierbares Optimierungsziel haben“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L244]
+- The chapter's finding concerns „die Kompressibilität“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L244].
+- Foreshadowing: „Chaitin-Resonanz, Vortex-Material“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L244].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

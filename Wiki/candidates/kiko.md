@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 33
-readings: 33
+sources: 36
+readings: 36
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 gathered: "2026-09-24"
 ---
 
@@ -16,6 +16,10 @@ One of the thirteen [[alters|Alters]] — EP, „Freeze / Kind" in its heading ^
 
 The Moonshine-Link carries qualia, the document says, to the receptive Emotional parts: „die empfänglichen Emotionalen Anteile (wie Kiko oder Lia)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L105]. The axis table sorts `Kiko` among the EPs: „Executor-Typen (Nyx, Moros, Kiko, Lyra)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L132].
 
+## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — Kiko among the EPs
+
+The pitch lists Kiko with the EPs in the kernel table: „Nyx (Protector/Rage), Kiko (Exile/Vulnerability), Moros“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L85]; in the kernel section the Emotional parts are „(EPs) von Kael, wie Nyx oder Kiko“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L27].
+
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — one of four modules
 
 The audit names the page's alter only inside the group of four: „The alters— Lex, Nyx, Kiko, and Lia —must be treated as discrete functional modules.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L12] At the climax the group stands again: „When Kael drops the amnesic barriers between Lex, Nyx, Kiko, and Lia, he becomes a mutual-information-dense structure.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L38] It gives no role or trait of its own to any of the four.
@@ -23,6 +27,13 @@ The audit names the page's alter only inside the group of four: „The alters—
 ## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — one of the discrete functional modules the audit lists, and one of the alters Juna differentiates
 
 The audit names `Kiko` among the entities that the Protokoll, it says, does not treat as metaphorically `gebrochene` fragments of a psyche (the line's own marks): „sondern werden strikt als präzise diskrete, funktionale Module behandelt“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L72]. In the witness section it names the same entities again, among the states Juna differentiates: „Alter-Persönlichkeiten (Lex, Nyx, Kiko, Lia)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L162].
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Kiko in Appendix B, Freeze
+Appendix B lists Kiko among the EPs: „Freeze. Kindliche Syntax.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L647] The somatics are „sich klein machen.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L647] (L647).
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — the child's terror from Kap 11, trust in Kap 33
+
+The outline of 2026-05-01 lists Kiko's first covert trace as „Kindterror im Schrein“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L116], in Kap 11, and the first named appearance in Kap 13. Kap 11 gives the voice: „bitte nicht hier nicht hier nicht hier“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L200]. In Kap 21's three versions of the same minute, Kiko's reads „Es war zu schnell, ich konnte nicht atmen, es war heiß, Mama, dann fiel ich.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L253] In Kap 33 „Kiko vertraut“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L310].
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

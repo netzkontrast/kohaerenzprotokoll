@@ -375,3 +375,35 @@ Stands as eleven parts, the document's own count, and four worlds; on the corres
 „Die im System agierenden Entitäten – Lex, Nyx, Kiko und Lia – fungieren nicht als metaphorisch“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L72] `gebrochene` fragments of a psyche (the line's own marks), „sondern werden strikt als präzise diskrete, funktionale Module behandelt“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L72]. The witness section names the four again, as „Alter-Persönlichkeiten (Lex, Nyx, Kiko, Lia)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L162] that Juna differentiates. No fifth is named. The document writes `Alters` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0], `Kernwelt` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0], `Kernwelten` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0] and `Kern-Welt` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0] not at all.
 
 Stands as a document that gives four alters, named; it says nothing on the number of Kern-Welten or on a correspondence.
+
+## 2026-10-05 — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch
+
+**The pitch gives four simulated Kernwelten, KW1 to KW4, and names six parts in two camps, with no count of parts and no pairing of a part to a world.**
+
+The worlds: „etabliert spezifische somatische Mess-Motive für die vier simulierten Kernwelten“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L91], listed at L96–L99 as `KW1: Logos-Prime`, `KW2: Mnemosyne-Archipel`, `KW3: Cerberus-Labyrinth` and `KW4: Kairos-Potentialis`. The parts: „Kael (Host), Lex (Rationalist, Systemadministrator), Isabella (Daten-Spezialistin)“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L84] as ANPs, and „Nyx (Protector/Rage), Kiko (Exile/Vulnerability), Moros“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L85] as EPs; the word `Alters` ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:#0] does not stand in the pitch, and Juna/V is placed outside the two camps, as the exiled original self (L123).
+
+Stands as four worlds and six named parts in two camps, the pitch's own listing; it states no total of parts and no correspondence between a part and a world.
+
+## 2026-10-05 — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse
+
+**The Plotanalyse gives four simulated Kernwelten, as cited from its User Query, and numbers none of Kael's parts.**
+
+The worlds: „Die vier Kernwelten sind von AEGIS geschaffene, kontrollierte Simulationen, die als Labore zur Analyse von M/Kael dienen“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L119] (L119; also L70). The parts: it names `Alters` without a number (L87), and the Plotanalyse's own IFS reading sorts them as Manager, Firefighter and Exiles, mapping KW1 to KW4 onto types of part: „AEGIS' Kernwelten könnten als Versuch interpretiert werden, diese Teile künstlich zu trennen und zu studieren“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L93] (L93).
+
+Stands as four worlds, parts unnumbered, and a correspondence the report offers only as an interpretation of the IFS model.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon sets exactly 13 alters, all in first person, and ties the acts to KW1, KW2–3 and KW4.**
+
+Appendix B: „Exakt 13. Alle in 1. Person POV.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L626] (L626); the list runs L630–L667, and the Kanon marks fifteen names as no longer to be used: „Dekanonisiert (nicht mehr verwenden)“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L675] (L675). The acts: „Akt I (KW1, Kap 1–13)“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L596], „Akt II (KW2–3, Kap 14–26)“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L604], „Akt III (KW4, Kap 27–39)“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L612] (L596, L604, L612). It states no rule that one world is one alter; the 13 and the four worlds KW1 to KW4 are not mapped to each other in these lines.
+
+Where it stands in the record's own terms: a count of alters (13) and a tie of acts to worlds, in the Kanon's appendices; the correspondence stays unanswered by it.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 writes thirteen voices and four world labels in separate places.**
+
+Kap 14: „verteilt es Zielparameter auf 13 Signaturen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220] Kap 17: „er ist eine Stimme unter dreizehn“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232] Kap 33: „dreizehn simultan präsent“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L314] The timeline of Kap 1 to 31 rows the alters one by one (see `alters`). The acts carry the worlds: „Kernwelt KW1“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L156] in Act I, „Kernwelten KW2 + KW3“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L216] in Act II, „Kernwelt KW4 + Fundament“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L282] in Act III.
+
+Stands: both numbers appear, each stated apart; Q3 remains open.

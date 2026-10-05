@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -72,6 +72,15 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - Where: „Kael schlägt hart auf dem Boden des Mnemosyne-Archivs (KW2) auf.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136] · „Er befindet sich in einer gigantischen, endlosen Bibliothek, deren Dimensionen an Piranesis Kerker erinnern.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
 - Sensorik: „Alles ist in schwüles Sepia-Licht getaucht, Staubflocken groß wie Insekten treiben in der heißen Luft.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136] · of the act: „Die Atmosphäre transformiert sich radikal: biologischer Horror, Hitze, Staub, zersetztes Papier und fließende Identitäten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L134]
 - What it establishes: „Es ist das Reich der parakonsistenten Logik (Dialetheismus)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „System Recalibration“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L218]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), the entry opens „POV: B. Was passiert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220]
+
+- Story: the outline places: „AEGIS' Sicht auf den Stress-Test“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220]; „Das System wird zum ersten Mal unsicher“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220]
+- Encoding A: „OS · SP2 (Conceptualizing) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220]
+- Foreshadowing: „AEGIS' Asymmetrie-Hitze (Vortex-Vorbote)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

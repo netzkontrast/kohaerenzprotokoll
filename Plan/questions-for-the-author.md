@@ -12,7 +12,7 @@ are listed on `NOW.md` itself.
 
 ## Part 1 — the novel and its sources
 
-Conflicts C1–C15 are records in `Wiki/conflicts/`, questions Q1–Q9 pages in `Wiki/questions/`; `python3 scripts/relations.py` prints the
+Conflicts C1–C16 are records in `Wiki/conflicts/`, questions Q1–Q9 pages in `Wiki/questions/`; `python3 scripts/relations.py` prints the
 open ones. What follows is what the readings found beside them: differences with no record yet, and questions put to the author.
 
 ### What the newest readings left for the author (2026-09-26 to 2026-09-27)
@@ -343,6 +343,68 @@ the author wants them (*Questions for the author*).
 - **Noticed, no record holds it:** the Inquiry asks what became of the other fragments of AEGIS'
   self-mutilation (L78, on `genesis`); the Assessment's partitioning isolates Juna's resonance from Kael rather
   than splitting AEGIS' Ursprungs-Ich (on `trennungsprotokoll`).
+
+### Raised by the ingest of 2026-10-05 (documents 60 on), one at a time
+
+- **Document 60, `textanalyse-existenz-system-und-leid` (2025-11-18): is `Genesis der Existenz` an earlier Kap 0?** The commentary
+  retells a narrative of that name — Rauschen, clusters, `Der große Wandel`, the Ich-Fragment become Komponente 734, the Überwelt,
+  an Entität, a Resonanzkaskade, AEGIS's `Kohärenz Protokoll 1.0` as sharding — which is the Genesis the wiki's `genesis` page
+  collects, half a year before the canon era. The narrative itself is landed and unread (`einleitung-genesis-der-existenz`, and three
+  plotlines of the same name). Should its texts be read next as the Genesis' earliest version, and does its order — component before
+  protocol — count for C12?
+- **Document 60: is the commentary's alternative a direction you want?** Its conclusion says the text implicitly asks for an existence
+  founded on the *Integration* of the void (Śūnyatā) rather than its *Abwehr* (AEGIS) (L310). No read source states that as the
+  novel's resolution; recorded on `aegis`, decided nowhere.
+- **Document 61, `kohaerenz-protokoll-hard-sf-horror-thriller` (2026-03-29): Isabella or Isabelle, ANP or EP?** The pitch lists
+  `Isabella (Daten-Spezialistin)` among the ANPs, beside Kael and Lex, the part that strips traumatic events of their emotional context
+  (L84, L87); every other read source spells her `Isabelle` and makes her an EP. One figure in two drafts, or two figures? Read onto
+  `isabelle` by J121, decided nowhere.
+- **Document 61: six parts, or more?** The pitch names six parts in two camps — Kael, Lex, Isabella; Nyx, Kiko, Moros — with no total
+  (Q3 holds the eleven and thirteen of other sources). Is the six a sample, or an earlier cast?
+
+- **Document 62, `hard-sci-fi-cosmic-horror-research-questions` (2026-01-02): read the Plotanalyse it reports?** The report's
+  case study makes Kael, in the analysed `Plotanalyse: Kohärenz Protokoll Szenario`, a human avatar of a cosmic entity M — the
+  Monster Group — whose parts are the Monster's subgroups (L187, L196, L199). That analysed document is landed and unread
+  (`plotanalyse-kohaerenz-protokoll-szenario`). Is the entity M, with Kael as its avatar, a line you still want, and should that
+  document be read next?
+
+- **Document 63, `ki-assistent-romanwelt-kohaerenz-und-aegis-spec` (2026-04-27): the writing assistant as AEGIS — research for the
+  novel, or for the tool?** The spec builds a writing assistant whose gatekeeper is AEGIS and whose subsystems are LogOS, Oblivion,
+  Silas and Isabelle (L177–L189) — three of them alters of Kael on the wiki. Its readings are kept on the pages, framed as the
+  spec's. Should documents of this kind (the writing engine's own specs, NCP and Story Mind) be read onto the novel's pages at all,
+  or kept apart — the same question as graph question 6 in `NOW.md`?
+
+- **Document 64, `aegis-persona-and-manifest-generation` (2026-04-27): are Oblivion, Silas and Isabelle alters, or AEGIS's?** The
+  manifest — which names exactly your five Guardians and pairs Kairos and Sophia on the fourth world — makes Oblivion, Silas and
+  Isabelle AEGIS's Hypervisors (L166–L170); the character bible makes them alters of Kael, Oblivion an „AEGIS-Echo“. One figure seen
+  from two sides, or two drafts? And does Component 734 come from the Ursprungs-Ich while Kael is the shattered fragments (L17, L45)?
+
+- **Document 65, `einleitung-genesis-der-existenz` (2025-04-29), the Genesis narrative itself:** its crisis part is headed
+  `Das Trennungsprotokoll` and tells the `Kohärenz Protokoll` (L161, L187, L189). Is the Trennungsprotokoll the act and the Kohärenz
+  Protokoll 1.0 the program it runs, or are they one thing under two names? And the narrator stays nameless — the fragment, then
+  Komponente 734: is that voice the one you want for Kap 0?
+
+- **C16, opened 2026-10-05: whose fragment is Kael?** In April 2025 he is the avatar or fragment of an external entity M (the Monster
+  group made a being) that AEGIS takes apart to analyse; from 2026 he is the remainder of AEGIS's own split self, Komponente 734;
+  one source makes Kael/M the being he becomes in Kap 32. `Wiki/conflicts/c16-kael-origin.md` has the nine rows. Is M still part of
+  the novel — as Kael's origin, as his end, or not at all?
+
+- **Document 68, `uberarbeitete-optimierte-plotline-genesis-der-existenz` (2025-04-29): who is the entity?** Version 2 of the
+  Genesis outline brings an external entity whose signature resonates with what Komponente 734 lacks — „dem Echo der
+  Unvollständigkeit" — indivisible, of contradictory symmetries; Kael is born longing for it (L119, L139, L177). It is never named.
+  Is it M, is it Juna, or one before the other became two (C16)?
+
+- **Document 70, `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, your Struktur-Kanon of 2026-04-30:** it reduces the
+  Guardians to Mnemosyne and one erasing pole (F3, §10), sets Kael's origin inside AEGIS and drops the Monster group (L114, L583),
+  makes Juna the IC of both storyforms (§5), and leaves ten research questions F1–F10 and eight open points C.1–C.8 to settle
+  before encoding. Your decision of 2026-09-24 for five Guardians came after it. Which of its CORE, and which of its
+  recommendations, still hold for you? (The character bible points to its fourth-beat question as „Appendix C"; it stands in F9.)
+
+- **Document 71, `kohaerenz-protokoll-outline-revision-2026-05-01-md`, the outline revision of 2026-05-01:** its even
+  chapters are told from AEGIS's and the Guardians' side, Kap 16 as „erste-Person-Maschine" from inside LogOS (L228) and Kap 28
+  from inside AEGIS (L290) — one day after your Struktur-Kanon wrote „AEGIS und Guardians in 3. Person." (C14). And it keeps
+  every alter unnamed until Kap 13 (L126) while its own timeline names Lex, Alex and Nyx only in Kap 14–15 (L111–L115). Does the
+  system side get a first person, and in which chapter does each alter first carry a name?
 
 ## Part 2 — the pipeline and its tools
 

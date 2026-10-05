@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 31
-readings: 31
+sources: 34
+readings: 34
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 gathered: "2026-09-17"
 ---
 
@@ -40,6 +40,27 @@ Understands Kairos; supplies emotional context to LogOS and Cerberus, who may di
 
 `Die Resonanz-Landschaft` — see that page. The pairing is the document's own organising
 principle: each section is a `Guardian/Welt-Paar`.
+
+## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — Guardian of the Resonance Landscape, who maps the wound as a closed scar
+
+The manifest says the administration of the Resonance Landscape „is delegated to the Guardian subsystem designated as Mnemosyne“ ^[aegis-persona-and-manifest-generation.md:L77], whose domain „encompasses memory, emotion, subjective experience, empathy, and historical data archiving“ ^[aegis-persona-and-manifest-generation.md:L77]; she is „the archivist of the internal world“ ^[aegis-persona-and-manifest-generation.md:L77]. Her limitation: she „identifies the systemic wound but categorizes it as a closed scar rather than an active, ongoing structural breach“ ^[aegis-persona-and-manifest-generation.md:L83].
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Mnemosyne-Archipel as the pivot's setting, and Mnemosyne against one erasing pole
+
+§8.3, a KEEP aspect, names the place: „Mnemosyne-Archipel als Vortex-Setting“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L436] (L436). Its function: „Erinnerung als Schauplatz, nicht als Inhalt.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L438] and the reason: „Hier kann Erasure nicht greifen, weil das Setting selbst gespeicherte K1 ist.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L438] (L438). Appendix A puts the approach in Act III: „Kapitel 27–34: Annäherung an Mnemosyne-Archipel.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L614] (L614).
+
+In F3, tier `OFFEN`, the plot task is „Mnemosyne wird zum Setting für den Klimax.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L494] (L494). The research question sets Mnemosyne as „Erinnerungs-Hüter“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L131] in conflict with one erasing pole, `Cerberus` or `LogOS` (L498); §10 records, as the Kanon's decision, that the Guardian sociopolitics is reduced to Mnemosyne and one erasing pole (L581). The document speaks of the Archipel as a setting and of Mnemosyne as a Guardian; it does not say how the two relate.
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — the curator that refuses, and a pronoun that changes
+
+The outline of 2026-05-01 gives Mnemosyne its own POV in Kap 10: „Mnemosyne arbeitet, wie Mnemosyne arbeitet: er versucht, das Trauma sauber zu archivieren.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196] — „Nicht löschen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196] but curate — and it follows an old directive, „Mnemosyne folgt der Direktive.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196] In Kap 24: „Mnemosyne hat begonnen, das Trauma des Hosts zu archivieren.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266] against LogOS. Kap 26: „sie hat ihren ersten Akt der Selbstverweigerung vollzogen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L274]. Kap 32: „sie sitzt in ihrer Bibliothek und liest, ein einziges Mal, was sie aufbewahrt hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L306]. Kap 35 names the Archipel as „K1-Cache-Bänke“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L322], AEGIS's physical hardware. In Kap 38: „Mnemosyne archiviert wieder — diesmal als Trauerarbeit, nicht als Pflicht.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L334]
+
+The pronoun: Kap 10 writes `er` (the same entry calls it the „Speicher-Wächters“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]); Kap 26 and Kap 32 write `sie`. Kap 24's entry, which the brief also cited, carries no pronoun for Mnemosyne on that line. The outline does not say which it means.
+
+## Where the sources differ
+
+- `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30: Mnemosyne is the one Guardian the Kanon keeps (L581), and the Archipel is the setting of the climax (L494).
+- the outline of 2026-05-01 writes Mnemosyne as `er` in Kap 10 and as `sie` in Kap 26 and Kap 32, without comment
 
 ## Open
 

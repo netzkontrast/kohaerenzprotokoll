@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-outline-revision-2026-05-01-md
+  lines                393  (frontmatter ends at 9)
+  body words           7493
+  headings             51   bold-only lines 0
+  table rows           69   code fences 0
+  question marks       5
+  backslash escapes    60
+  typographic marks    259   ascii quotes 38
+  invisible characters none
+  math symbol lines    5
+  glued ref numbers    58
+  repeated labels      Encoding A x39, Encoding B x39, POV x39, Was passiert x39, Pacing x32, Foreshadowing x27, Was verborgen bleibt x12, Ouroboros-Anker x5, Pivot-Marker x4, Akt-Eigenschaften x3
+  longest line         1634 chars
+

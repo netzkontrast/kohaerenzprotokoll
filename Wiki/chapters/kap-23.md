@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -68,6 +68,15 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - Story: „Moros dekonstruiert die Motivation von AEGIS.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158] · „Die KI ist kein böser Eroberer.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
 - AEGIS' origin: „Sie entstand in einem Moment unendlichen Schmerzes (der Genesis-Krise) aus dem Protagonisten selbst, um ihn vor dem totalen Wahnsinn zu bewahren.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
 - Establishes: „Die Primal Directive von AEGIS ist ein tragischer Zirkelschluss“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Discursive Gambit“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L260]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „A (Wir-Stimme als *taktisches Werkzeug*)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L262]
+
+- Story: the outline places: „Sie müssen nur *koordiniert widersprüchlich* handeln“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L262]; „Das war ein erfolgreicher Coup unter Lebenden, die noch nicht einig sind“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L262]
+- Encoding A: „MC · SP3 (Conscious) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L262]
+- Change 4 of the revision puts Kap 23 as „*taktische* Polyphonie (Wir-als-Werkzeug, nicht als Zustand)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L22]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

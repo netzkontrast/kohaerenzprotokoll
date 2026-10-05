@@ -222,7 +222,7 @@ On no row as stated, the same day as its sibling document above: it argues the M
 
 ## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
 
-**Never `ich` for AEGIS — no chapter of its own, no exception — and, past the Genesis, no chapter gives it an inner view either; only capitalised system text.**
+**Never `ich` for AEGIS — no chapter of its own, no exception — and, past the [[genesis|Genesis]], no chapter gives it an inner view either; only capitalised system text.**
 In the prologue's Genesis the fragment that becomes AEGIS is narrated with an inner view, in the third person, up to the moment it is named: „Die Existenz innerhalb des Systems – AEGIS – ist nun anders." ^[kohaerenz-protokoll.md:L91] Once the chapters begin, AEGIS never again carries a narrated inside: it speaks only as system text, in capitals — „AEGIS PROTOKOLL V1.5 AKTIV." ^[kohaerenz-protokoll.md:L635] and again at L693 — and the narrator otherwise follows [[kael|Kael]].
 `Person`, `Prosa`, `Log`, `Innensicht` and `Hard-B` stand 0 times, and neither `ich` (3) nor `Ich` (33) is ever AEGIS' own — all [[kael|Kael]]'s or the Genesis-fragment's before it is named (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`).
 Nearest rows 1 and 2 — third person, no exception — and closer still to row 5's AEGIS with no inside at all: once AEGIS is named, this document gives it none, where its own Genesis had. No chapter in Kap 5–8 exists in this document's numbering (Kapitel 1–12, 14–23) to carry the lock's exception either way. The conflict stays open.
@@ -232,3 +232,19 @@ Nearest rows 1 and 2 — third person, no exception — and closer still to row 
 **No voice rule: third-person truth is K0's epistemic mode, not a narrated person, and Kael and AEGIS never in verbal dialogue.**
 The two kernel-logics are given a kind of truth each, not a narrated person: K1, Kael's storyform, is „das Primat der Ersten-Person-Wahrheit" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L68]; K0, AEGIS' storyform, „dominiert die Thermodynamik, der irreversible Zeitpfeil, die Dritte-Person-Wahrheit und die reine, kalkulierende Funktion" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L116] — an epistemic mode; the document never assigns AEGIS a grammatical person in prose. And no dialogue crosses between them at all: „Kael und AEGIS kommunizieren an keiner Stelle des Werks durch direkten verbalen Dialog miteinander." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L17]
 `Innensicht`, `Hard-B` and `Prosa` stand 0 times, `Kap` on no line naming Kap 5–8 (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). On no row: it names no chapter, no narrated voice for AEGIS and no first-person exception. The conflict stays open.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon puts AEGIS and the [[guardians|Guardians]] in the third person, without exception.**
+
+Appendix B: „Anzahl: Exakt 13. Alle in 1. Person POV. AEGIS und Guardians in 3. Person. Junas POV: offen.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L626] The line states no exception and no chapter of AEGIS in the first person; Juna's point of view is left open on the same line.
+
+Where it stands in the record's own terms: the document takes the third-person side for AEGIS.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 writes a machine's inside view twice: [[logos|LogOS]] in Kap 16 and AEGIS in Kap 28.**
+
+Kap 16: „Erstmals reflektiert das Erzählen aus dem Algorithmus heraus“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228] Kap 28: „Erstmals reflektiert AEGIS aus der Innenperspektive über sich selbst“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L290]
+
+Stands: the outline of 2026-05-01 writes both and decides nothing.

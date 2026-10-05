@@ -1,0 +1,510 @@
+{
+  "document": "uberarbeitete-optimierte-plotline-genesis-der-existenz",
+  "drive_id": "1z6cYDzS4XoPWHKW6dE36ck0T8rw2isxZG4y-zE_jpeg",
+  "step": "counts",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 36,
+      "n_including_compounds": 36,
+      "lines": [
+        57,
+        59,
+        61,
+        75,
+        83,
+        95,
+        104,
+        109,
+        119,
+        121,
+        125,
+        130,
+        139,
+        140,
+        144,
+        147,
+        151,
+        156,
+        161,
+        170,
+        173,
+        182,
+        194
+      ]
+    },
+    "Komponente 734": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        73,
+        119,
+        120,
+        121,
+        138,
+        145,
+        152
+      ]
+    },
+    "Kael": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        175,
+        177,
+        182,
+        191,
+        194
+      ]
+    },
+    "Entität": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        13,
+        29,
+        61,
+        104,
+        119,
+        120,
+        125,
+        138,
+        139,
+        144,
+        151,
+        170,
+        172,
+        173,
+        177,
+        182,
+        191,
+        192
+      ]
+    },
+    "Ich": {
+      "n": 10,
+      "n_including_compounds": 15,
+      "lines": [
+        13,
+        27,
+        69,
+        104,
+        109,
+        120,
+        125,
+        130,
+        138,
+        139,
+        151,
+        156,
+        161,
+        171
+      ]
+    },
+    "Fragment": {
+      "n": 0,
+      "n_including_compounds": 8,
+      "lines": [
+        21,
+        53,
+        119,
+        156,
+        172,
+        190,
+        191,
+        194
+      ]
+    },
+    "Nichts Rauschens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Rauschen": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        28,
+        41,
+        66,
+        94
+      ]
+    },
+    "Resonanz": {
+      "n": 15,
+      "n_including_compounds": 16,
+      "lines": [
+        29,
+        30,
+        32,
+        41,
+        51,
+        54,
+        68,
+        102,
+        119,
+        120,
+        130,
+        138,
+        151,
+        170,
+        173
+      ]
+    },
+    "Kohärenz": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        27,
+        40,
+        68,
+        97,
+        119,
+        139,
+        144,
+        173,
+        182
+      ]
+    },
+    "Unvollständigkeit": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        29,
+        41,
+        71,
+        83,
+        98,
+        119
+      ]
+    },
+    "fehlendes Stück": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "fehlende Stück": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Echos der Vergangenheit & des Fehlens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Sog der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Cluster": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        46,
+        52,
+        53
+      ]
+    },
+    "Triade": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Der Große Angriff": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Klick": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Ich bin die Abwehr des Nicht-Seins": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Operationale Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Grenzanalyse Delta": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Das unterdrückte Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Echo in der Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "latente Signatur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        98
+      ]
+    },
+    "latenten Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Simulation": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        88,
+        93,
+        95,
+        98
+      ]
+    },
+    "Außenwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Die Anomalie erscheint": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Potenziell kompatibles Kohärenz-Fragment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Das Ich erwacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "ontologisches Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Kohärenzprinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Systemischer Lockdown": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Die Schnitte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        170,
+        171
+      ]
+    },
+    "Zerstückelung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        154,
+        191
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        190,
+        193
+      ]
+    },
+    "Mosaik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        177,
+        194
+      ]
+    },
+    "Subjektivität": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        71,
+        83,
+        98,
+        119,
+        125,
+        138,
+        152,
+        173
+      ]
+    },
+    "Dissonanz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        83,
+        123
+      ]
+    },
+    "Updates": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Balanceakt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        109,
+        130,
+        161
+      ]
+    },
+    "Annotation": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        26,
+        29,
+        41,
+        68,
+        71,
+        83,
+        94,
+        98,
+        119,
+        120,
+        121,
+        138,
+        139,
+        147,
+        151,
+        171,
+        173,
+        191,
+        194
+      ]
+    },
+    "Anmerkungen": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        13,
+        105,
+        126,
+        157,
+        178
+      ]
+    },
+    "Ziel": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        21,
+        26,
+        34,
+        46,
+        61,
+        75,
+        88,
+        104,
+        125,
+        156,
+        170,
+        177
+      ]
+    },
+    "Beats": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        22,
+        35,
+        47,
+        62,
+        76,
+        89,
+        113,
+        134,
+        165,
+        186
+      ]
+    }
+  }
+}

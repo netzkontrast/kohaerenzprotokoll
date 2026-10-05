@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 17
-readings: 17
+sources: 19
+readings: 19
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario"]
 gathered: "2026-09-16"
 ---
 
@@ -64,6 +64,14 @@ word correctly and mean opposite things by it, and what it decides is whether
 `Emergenz` has a settled meaning outside this project, which normally keeps a term
 from drifting. **It did not help here** — the drift is in what the word is applied
 to, not in the word.
+
+## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — emergence as a possible property of the Potentialmeer and the ground of M's holism
+
+The matrix gives emergence two roles: „Erklärung für M's holistische Natur“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L55] (L55), where AEGIS's reductionist approach fails against emergent phenomena. In the Potentialmeer section the Plotanalyse offers it as a possibility, not a position: „könnte eine Eigenschaft des Potentialmeers sein, aus dem Strukturen wie AEGIS und M hervorgehen“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L115]
+
+## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — emergence as a kernel's precondition, and as the manifesto's negation
+
+The pitch says the Kollaps-Kernel is „die unabdingbare Voraussetzung für Bewusstsein und evolutionäre Emergenz“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L29]. AEGIS's manifesto has `Emergenz durch Negation (Axiom 4)`: „Ordnung wird nicht durch einen positiven Schöpfungsakt geschaffen, sondern ist das exklusive Ergebnis der systematischen Eliminierung von Inkohärenz und Widerspruch.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L112] Kael's Mosaik-Herz is „eine emergente Pluralität“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L133].
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
@@ -178,3 +186,7 @@ The Concept Paper gives the integrated alters' cooperation the same word: „Thi
 So five senses in one file: `C3`'s own sense, in English and in a question; a metaphysical principle (the Foundation); Kael's own cultivated end-state; the [[alters]]' cooperative capability; and KW4's world-property.
 
 `Wiki/conflicts/c3-emergenz-origin.md` already holds this document's position, from a different passage (its L798, `began as`, not `emerge`): row 1's side, the struggle against the Nothingness Noise coming before any Kernwelt. L53 uses the verb `emerged` itself for that same origin.
+
+## Where the sources differ
+
+- `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29: the pitch gives AEGIS's origin as „aus demselben gespaltenen Ursprungs-Selbst wie Kael hervorgegangen ist“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L105] in the Genesis-Krise, without the word Emergenz for it.

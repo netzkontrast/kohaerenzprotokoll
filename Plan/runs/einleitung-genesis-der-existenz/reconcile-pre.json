@@ -1,0 +1,490 @@
+{
+  "document": "einleitung-genesis-der-existenz",
+  "step": "reconcile-pre",
+  "at": "2026-10-05",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-05",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 59,
+  "decisions": 63,
+  "same_surface": {},
+  "decided_mechanically": 40,
+  "needs_judgement": 23,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 58
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 25
+      },
+      {
+        "candidate": "Komponente 734",
+        "page": "komponente-734",
+        "readings": 31
+      },
+      {
+        "candidate": "Nichts Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 32
+      },
+      {
+        "candidate": "Trennungsprotokoll",
+        "page": "trennungsprotokoll",
+        "readings": 35
+      },
+      {
+        "candidate": "Genesis",
+        "page": "genesis",
+        "readings": 34
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Ich-Fragment"
+      },
+      {
+        "candidate": "minimalen Selbst"
+      },
+      {
+        "candidate": "minimale Selbst"
+      },
+      {
+        "candidate": "Grenzwacht"
+      },
+      {
+        "candidate": "latenten Echos"
+      },
+      {
+        "candidate": "Herkunfts-Echos"
+      },
+      {
+        "candidate": "Echo der Einsamkeit"
+      },
+      {
+        "candidate": "Angst-Vibration"
+      },
+      {
+        "candidate": "ontologische Reibung"
+      },
+      {
+        "candidate": "Selbstverstärkung"
+      },
+      {
+        "candidate": "Vorhersagealgorithmen"
+      },
+      {
+        "candidate": "Partitionierungsalgorithmen"
+      },
+      {
+        "candidate": "Risiko-Assessment-Marker"
+      },
+      {
+        "candidate": "Binnen-Physik"
+      },
+      {
+        "candidate": "Nicht-Nicht-Existenz"
+      },
+      {
+        "candidate": "Sensorphalanx"
+      },
+      {
+        "candidate": "operationale Geschlossenheit"
+      },
+      {
+        "candidate": "operational geschlossene Logik"
+      },
+      {
+        "candidate": "Cluster"
+      },
+      {
+        "candidate": "Triade"
+      },
+      {
+        "candidate": "Herz der Leere"
+      },
+      {
+        "candidate": "Erste Kontakte"
+      },
+      {
+        "candidate": "Der Sog der Ordnung"
+      },
+      {
+        "candidate": "Überlebenskampf"
+      },
+      {
+        "candidate": "Der große Wandel: Nicht-Sein Verhindern"
+      },
+      {
+        "candidate": "Resonanzkaskade: Das Erwachen der Echos"
+      },
+      {
+        "candidate": "Vorwort"
+      },
+      {
+        "candidate": "Dazwischen"
+      },
+      {
+        "candidate": "geshardet"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "Parmenides"
+      },
+      {
+        "candidate": "Śūnyatā"
+      },
+      {
+        "candidate": "epistemologischen Blindheit"
+      },
+      {
+        "candidate": "informationstheoretischer Schmetterlingseffekt"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  Die Stille Wacht: AEGIS vor dem Sturm",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Algorithmischer Schrecken: AEGIS' Paradoxe Interpretation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Komponente 734  /  Komponente 734: Funktion an der Grenze",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ursprungs-Ich  /  Ursprungs-Ichs",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nichts Rauschen  /  Das Rauschen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz Protokolls",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Trennungsprotokoll  /  Das Trennungsprotokoll: Fragmentierung als Heilung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entität  /  Perturbation aus der Leere: Die Ankunft der Entität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Die Krise  /  epistemologische Krise",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenzfeld",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenzmetriken",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokolls",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Paradoxon der Fehlausgerichteten Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Entität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "diddissoziativeidentitatsstruktur",
+            "page": "did"
+          },
+          {
+            "surface": "dissoziativeidentitatsstruktur",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Das Rauschen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Komponente 734: Funktion an der Grenze",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "komponente734",
+            "page": "komponente-734"
+          }
+        ]
+      },
+      {
+        "candidate": "Die Innere Weite: Simulation als Optimierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "innereweite",
+            "page": "ueberwelt"
+          },
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Die Stille Wacht: AEGIS vor dem Sturm",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Algorithmischer Schrecken: AEGIS' Paradoxe Interpretation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Systemischer Kollaps: Die Auflösung der Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Das Trennungsprotokoll: Fragmentierung als Heilung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "trennungsprotokoll",
+            "page": "trennungsprotokoll"
+          }
+        ]
+      },
+      {
+        "candidate": "autopoietische",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "arsautopoietischereentrysegmentierung",
+            "page": "ars"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 147,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 106,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 114,
+      "already_read": false
+    },
+    {
+      "page": "potentialmeer",
+      "surface": "Potentialmeer",
+      "line": 141,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

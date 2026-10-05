@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      58
+  backslash escapes      60
+  typographic marks      259
+  ascii quotes           38
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemfehler, Systempanik, Systemrauschen, Systems, Systemsicht
+  daten    Datenanalyse, Datenarchitektur, Datenkorruption, Datenpunkte, Datenstrom
+  senso    Sensor, Sensorausfall, Sensoren, Sensorik, Sensorrauschen
+  archi    Archipel, Archipels, Architektur, Architekturanker
+  erzäh    Erzählen, Erzähler, Erzählerstimme, Erzählinstanz
+  masch    Maschine, Maschinell, Maschinen, Maschinenkrieg
+  multi    MULTIPLIZIT, Multi, Multiplizität, Multiplizitäts
+  selbs    Selbstdiagnose, Selbstverletzung, Selbstverweigerung, Selbstwahrnehmung
+  speic    Speicher, Speicherkern, Speichersystem, Speicherung
+  algor    Algorithmic, Algorithmische, Algorithmus
+  anoma    Anomalie, Anomalien, Anomaly
+  antwo    Antwort, Antworten, Antwortlatenzen
+  festu    Festung, Festungs, Festungswände
+  funkt    FUNKTIONALE, Funktion, Funktionale
+  hinte    Hintergrund, Hintergrundprozesse, Hintergrundrauschen
+  hitze    Hitze, Hitzewelle, Hitzewellen
+  inner    Inneren, Innerer, Inneres
+  kernw    Kernwelt, Kernwelten, Kernwunde
+  nicht    NICHT, Nicht, Nichts
+  pflic    Pflicht, Pflichten, Pflichtverletzung
+  profi    Profil, Profile, Profilier
+  reson    Resonant, Resonanz, Resonanzbruch
+  schwe    Schweigen, Schwelle, Schwerelose
+  sekun    Sekunde, Sekunden, Sekundenverluste
+  stadt    Stadt, Stadtarchitektur, Stadtwände
+
+# substring pairs -- never one term, often merged by accident
+  Atem < Atempause
+  Atem < Atempausen
+  Drei < Dreizehn
+  Echo < Echos
+  Eine < Keine
+  Ende < Pendel
+  Ende < Lebenden
+  Ende < Eskalierendes
+  Ende < Akkumulierende
+  Erst < Erste
+  Erst < Erstmals
+  Erst < Verstand
+  Erst < Leerstelle
+  Erst < Verstörung
+  Erst < Understanding
+  Erst < Erzählerstimme
+  Erst < Lesersteuerung
+  Form < Storyform
+  Form < Storyforms
+  Form < Information

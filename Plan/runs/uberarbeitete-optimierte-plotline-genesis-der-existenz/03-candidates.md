@@ -1,0 +1,52 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+- AEGIS
+- Komponente 734
+- Kael
+- Entität
+- Ich
+- Fragment
+- Nichts Rauschens
+- Rauschen
+- Resonanz
+- Kohärenz
+- Unvollständigkeit
+- fehlendes Stück
+- fehlende Stück
+- Echos der Vergangenheit & des Fehlens
+- Sog der Ordnung
+- Cluster
+- Triade
+- Der Große Angriff
+- Klick
+- Ich bin die Abwehr des Nicht-Seins
+- Operationale Schließung
+- Grenzanalyse Delta
+- Das unterdrückte Echo
+- Echo in der Simulation
+- latente Signatur
+- latenten Signatur
+- Überwelt
+- Simulation
+- Außenwelt
+- Die Anomalie erscheint
+- Potenziell kompatibles Kohärenz-Fragment
+- Das Ich erwacht
+- ontologisches Paradoxon
+- Kohärenzprinzip
+- Protokoll
+- Systemischer Lockdown
+- Die Schnitte
+- Zerstückelung
+- Kernwelten
+- Mosaik
+- Subjektivität
+- Dissonanz
+- Updates
+- Balanceakt
+- Annotation
+- Anmerkungen
+- Ziel
+- Beats
+
+Observations. The document is a scene outline (Szenen 1 to 10 in three Teile) with a Ziel, Beats and Annotation under each scene; the Annotation and Anmerkungen lines are a second voice, notes about the beats. Ziel, Beats, Annotation and Anmerkungen are template labels and are listed only because the document repeats them as field labels; Balanceakt heads author notes in scenes 7 to 9. The document writes "fehlendes Stück" in L29 and "fehlende Stück" in L120, so both surfaces are listed. Statuses of AEGIS in quotation marks (L119, L121) are the system's logged states inside the plan. Lens terms: none; no outside framework is named.

@@ -1,0 +1,120 @@
+{
+  "document": "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
+  "drive_id": "1DcXO6z_Hjp_hiMIefaBixrcQWJdSiMwOB2zZrmxX7W0",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 39,
+    "decisions": 40,
+    "decided_by_lookup": 30,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        88,
+        106,
+        125,
+        143,
+        177,
+        181
+      ],
+      "attribution": "",
+      "note": "three inserted scenes show AEGIS's routine, its blind spot and its failing tool"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        17,
+        57,
+        109
+      ],
+      "attribution": "",
+      "note": "13 scenes in three parts, three inserted"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        211
+      ],
+      "attribution": "",
+      "note": "scene 13 as in Version 2"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        88,
+        105,
+        141,
+        144,
+        178
+      ],
+      "attribution": "",
+      "note": "the latent anomaly, and 734 in two new scenes"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        194,
+        196
+      ],
+      "attribution": "",
+      "note": "scene 12 names the act Zerstückelung and writes Protokoll"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        111,
+        142,
+        181
+      ],
+      "attribution": "",
+      "note": "the Überwelt shown limited and failing in two new scenes"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "decision": "reading",
+      "why": "the title names the narrative this Version 3 outline restructures into 13 scenes, from the spark in the Nichts to Kael's birth (L211); read by the sentence"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "`Ich bin` felt as coherence, a passing word of the fragment's first beat; nothing on what coherence is"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,179 @@
+{
+  "document": "optimierte-plotline-genesis-der-existenz",
+  "drive_id": "14RVIXJzM0AIOI23YZjP8l9cuytpE_t4WRTpFNVmVJiM",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; the session read scenes 5–10 (L109–L239) against the note and corrected nothing; readings and entries on C12, C16 and Q7 by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-67/brief.md; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 39,
+    "decisions": 40,
+    "decided_by_lookup": 28,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A revision outline of the Genesis narrative: its candidates are the story's steps the wiki pages (Rauschen, Cluster, the click, Komponente 734, the Überwelt, the protocol, Kael, the Kernwelten) and its own working labels (Ziel, Anmerkungen, Annotation, Schwäche adressieren, Grenzanalyse-Einheit Delta, Interne Kohärenz-Simulation Gamma). Each step went on its page; the labels are the outline's apparatus, and a plan's one-off names open no page.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        83,
+        87,
+        104,
+        147,
+        149,
+        194,
+        196,
+        197,
+        215,
+        218
+      ],
+      "attribution": "",
+      "note": "AEGIS planned as a click, a simulating process, a misdiagnosis and a protocol"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        13,
+        17,
+        35,
+        61,
+        109,
+        131,
+        173,
+        222
+      ],
+      "attribution": "",
+      "note": "the Genesis re-planned in ten scenes and three parts"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        220,
+        222,
+        235,
+        236,
+        239
+      ],
+      "attribution": "",
+      "note": "Kael planned as the mosaic born in the last scene"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        235,
+        238
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as the isolated partitions where the fragments wake"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        109,
+        125,
+        127,
+        129,
+        147,
+        149,
+        180,
+        195,
+        197,
+        216
+      ],
+      "attribution": "",
+      "note": "Komponente 734 as a scene, a function, and the Ursprungs-Ich in parentheses"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        19,
+        34,
+        38,
+        175
+      ],
+      "attribution": "",
+      "note": "the Rauschen as an active force at the opening"
+    },
+    {
+      "page": "residual-echos",
+      "lines": [
+        172,
+        176
+      ],
+      "attribution": "",
+      "note": "the echo of loneliness planned in the component, then amplified"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        197,
+        215,
+        216,
+        217,
+        218
+      ],
+      "attribution": "",
+      "note": "the Protokoll decided, run and marked complete, never named Trennungsprotokoll"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        131,
+        147,
+        149,
+        150,
+        151
+      ],
+      "attribution": "",
+      "note": "the Überwelt as a simulation space planned in scene 6"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C12",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a scene heading containing a term: Szene 5: Komponente 734, Szene 10: Kael - Dämmerung in Scherben), J12 and J16 (a compound is its own token: Kohärenzmetriken, Interne Kohärenz-Simulation Gamma, Ursprungsfragment), J24 and J97 (a plural or case ending is no boundary: Rauschens, Fragmente, Clusters, Protokolls), J69 (a match only after folding: Protokoll / nullpunkt-protokoll, protokoll-v14, entropie-resonanz; Die Anomalie / aegis-metriken; Mosaik / mosaik-herz), J88 (a common noun for a page's referent is placed by the sentence: Fragment, Entität), J114 (a protocol doing what a page's protocol does is placed on that page by the sentence: the outline's Protokoll on trennungsprotokoll)",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "decision": "reading",
+      "why": "the title names the narrative the outline restructures scene by scene (L13) — from the fragment in the Rauschen to Kael's birth from the fragments (L222); read by the sentence, the outline's sequence"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 35,
+      "decision": "occurrence",
+      "why": "`ein plötzliches Aufflackern von Kohärenz` — the fragment's first feeling of `Ich bin`, a passing word; the outline says nothing of what coherence is"
+    }
+  ],
+  "not_promoted": [
+    "Grenzanalyse-Einheit Delta — 734's function, given once as an example (L125); read on komponente-734 and Q7",
+    "Interne Kohärenz-Simulation Gamma — the Überwelt process (L147); read on ueberwelt",
+    "Mosaik — how Kael is born (L222, L239); read on kael, not on mosaik-herz"
+  ],
+  "internal_tension": "none: it plans one sequence; it names the Ursprungs-Ich `Komponente 734` in parentheses once (L180) while the earlier scenes call the same being the fragment",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, PageRank 0.681 over 25 cases — unchanged; no case moved"
+}

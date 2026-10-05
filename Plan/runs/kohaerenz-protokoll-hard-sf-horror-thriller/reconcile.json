@@ -1,0 +1,389 @@
+{
+  "document": "kohaerenz-protokoll-hard-sf-horror-thriller",
+  "drive_id": "1-z-pCGCdBR-Juearziz0vyKkmvavVOCvxQTwC04D9yo",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "census and note by a document-reader subagent (Sonnet), 2026-10-05, from the R5 task; the session's review read ten claims against their lines and corrected none; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-61/brief.md; reconciliation and J121 by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 294,
+    "decisions": 307,
+    "decided_by_lookup": 200,
+    "needs_judgement": 107
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A pitch that names the novel's design in the vocabulary the wiki already pages — DKT, the two kernels, Gödel-Gambit, System Kael and six parts, the four Kernwelten, AEGIS, Juna, the Moonshine-Link, Mosaik-Herz, Algorithmische Melancholie. What has no page is borrowed theory (Landauer, Bekenstein, Hawking, replica wormholes, Jaspers, Heidegger, Erikson, Frankl, IFS, Dramatica's throughlines) or the pitch's own one-off labels (Sensory Rulebook, Frakturierte Untersuchung, Lure Pattern, Specification Gaming, ineffiziente Schönheit); none is defined twice or used by a second read source, so none opens a page.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        25,
+        105,
+        109,
+        111,
+        112,
+        113,
+        115,
+        119,
+        123,
+        125,
+        147,
+        167
+      ],
+      "attribution": "",
+      "note": "AEGIS as the cosmic horror of absolute order, its manifesto, its blind spot and its end"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        167
+      ],
+      "attribution": "",
+      "note": "AEGIS's end, forced into a paraconsistent framework"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        79,
+        87,
+        133
+      ],
+      "attribution": "",
+      "note": "two camps of identities, written as Anteile and Identitäten, never as Alters"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        23,
+        25,
+        27,
+        29,
+        31
+      ],
+      "attribution": "",
+      "note": "the DKT as the ontological heart, two kernels, consciousness at their interface, a war of truth theories"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        29,
+        112,
+        133
+      ],
+      "attribution": "",
+      "note": "emergence as a kernel's precondition, and as the manifesto's negation"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        17,
+        27,
+        45,
+        47,
+        85,
+        109,
+        161
+      ],
+      "attribution": "",
+      "note": "Entropie as thermodynamic and informational, tied to the Kollaps-Kernel, Landauer's heat, AEGIS's data corruption"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        75,
+        105,
+        129
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as the trauma of Kael's dissociation, AEGIS's crystallising and the loss of trust"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        41,
+        161
+      ],
+      "attribution": "",
+      "note": "the Gambit as the climax, Kael as the living paradox for AEGIS, and the fourth wall"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "the row KW3 Cerberus-Labyrinth, written under the Guardian-built name only"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        153
+      ],
+      "attribution": "",
+      "note": "the Guardians only as builders of fractal sectors"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        84,
+        87
+      ],
+      "attribution": "",
+      "note": "Isabella among the ANPs, as data specialist"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        123,
+        125,
+        129,
+        146
+      ],
+      "attribution": "",
+      "note": "Juna/V as the exiled original self, the Impact Character and the carrier of the Moonshine link"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        41,
+        75,
+        84,
+        91,
+        129,
+        133,
+        145,
+        155,
+        169
+      ],
+      "attribution": "",
+      "note": "System Kael as the healing system of integrative order, a tertiary dissociation, and the one who triumphs by addition"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        47,
+        91,
+        96,
+        97,
+        98,
+        99,
+        115,
+        159
+      ],
+      "attribution": "",
+      "note": "four simulated Kernwelten with logic and somatic motifs, named only by the Guardian-built names"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        27,
+        85
+      ],
+      "attribution": "",
+      "note": "Kiko among the EPs"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        25,
+        84
+      ],
+      "attribution": "",
+      "note": "the kernel of reversible computation and the coherence theory of truth"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        31,
+        91,
+        119,
+        169
+      ],
+      "attribution": "",
+      "note": "coherence as an embodied process, AEGIS's mathematical coherence, and coherence by addition"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        27,
+        29,
+        85
+      ],
+      "attribution": "",
+      "note": "the Erasure Field, the Nichts Rauschen and the precondition of consciousness"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        96
+      ],
+      "attribution": "",
+      "note": "the row KW1 Logos-Prime, written under the Guardian-built name only"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        25,
+        84,
+        87
+      ],
+      "attribution": "",
+      "note": "Lex as the ANP rationalist and system administrator"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        99
+      ],
+      "attribution": "",
+      "note": "the row KW4 Kairos-Potentialis, written under the Guardian-built name only"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        123,
+        125,
+        146
+      ],
+      "attribution": "",
+      "note": "the blind spot of AEGIS, non-algorithmic, ER=EPR as analogy"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "Moros, listed without a gloss"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        131,
+        133
+      ],
+      "attribution": "",
+      "note": "the Mosaik-Herz as the goal in place of a final fusion"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        41,
+        133,
+        145,
+        169
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's state and the MC's struggle"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        27,
+        105
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kernel narratively, and what AEGIS shields against"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        27,
+        85
+      ],
+      "attribution": "",
+      "note": "Nyx among the EPs"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "the row KW2 Mnemosyne-Archipel, written under the Guardian-built name only"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        47,
+        96,
+        115,
+        153
+      ],
+      "attribution": "",
+      "note": "Risse as the visible heat of erasure and of AEGIS's corrections"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15,
+        73,
+        75,
+        79,
+        145
+      ],
+      "attribution": "",
+      "note": "TSDP as clinical theory applied as the simulation's law, and as Kael's tertiary dissociation"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        91,
+        153
+      ],
+      "attribution": "",
+      "note": "the simulation AEGIS's Kernwelten sit in, written Simulation, never Überwelt"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [
+    "J121"
+  ],
+  "decided_by_existing_rules": "J9 (a title containing a term: Kohärenz Protokoll, Konzeptdokument und Ontologischer Pitch), J12 and J16 (a compound is its own token: AEGIS-Architektur, AEGIS-Manifest, Zero-Trust-Umgebung), J17 (a quoted work title names the work: `Kohärenz Protokoll` in quotation marks), J19 and J97 (an article or case ending is no boundary: Kaels, funktionalen Multiplizität), J24 and J46 (a plural is no boundary: ANPs, EPs, Verschränkungsinseln), J28 and J32 (a compound is placed by what it names: Paradox der fehlausgerichteten Kohärenz, Kohärenztheorie der Wahrheit, Datenkorruption (Entropie)), J49 (a world name built from a bearer's name is not the bearer: Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis), J60 (an acronym and its expansion: AEGIS / Autonomous Entropic Gatekeeper for Integrity Systems, DKT, TSDP), J69 (a match only after folding: Depersonalisation / personas, Hitze / hitze-polaritaetsregel), J72 (a parenthetical index is part of the label: Kael (Host), Kiko (Exile/Vulnerability), Emergenz durch Negation (Axiom 4)), J88 (a common noun for a page's referent is placed by the sentence: Simulation, Kernel, Glitch), J113 (a slash joining a name to a role names the figure: Juna/V), J118 (a world named by a Guardian-built name and a KW number is read on the paged world of that number)",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 29,
+      "decision": "reading",
+      "why": "the Kollaps-Kernel as the precondition of consciousness and evolutionary emergence (L29), with the manifesto's Emergenz durch Negation (L112) — the pitch's position on where emergence comes from"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "reading",
+      "why": "L11 is the title (J9, an occurrence), but the pitch states what coherence is in its sentences — embodied (L91), the Paradox der fehlausgerichteten Kohärenz (L115), reached only by addition (L169); read by the sentence"
+    }
+  ],
+  "not_promoted": [
+    "Sensory Rulebook — the table of somatic motifs for the four worlds (L91–L99); read on kern-welten and the four world pages",
+    "Frakturierte Untersuchung — the preferred structure (L155); read on kael",
+    "K-J Connection — the Moonshine-Link's other name (L123); read on moonshine-link, no surface from one source",
+    "Isabella — read on isabelle by J121; one source's spelling, no surface",
+    "Lure Pattern, Specification Gaming, Gaslighting — the pitch's thriller vocabulary (L115, L151); read on aegis where they describe it"
+  ],
+  "internal_tension": "none within the document: it states one design. The kernel symbols are lost in the export (L25–L29, L84–L85), so which symbol names which kernel cannot be read from it; the sentences name the kernels in words.",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.531, PageRank 0.689 over 24 cases — unchanged; no case moved"
+}

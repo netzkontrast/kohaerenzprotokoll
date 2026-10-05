@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      19
+  backslash escapes      0
+  typographic marks      12
+  ascii quotes           92
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemfehler, Systemische, Systemischer, Systems, Systemstabilisierung, Systemtransformation, Systemweite
+  analy    Analyse, Analysealgorithmen, Analysefähigkeit, Analysen, Analysiert
+  fragm    Fragment, Fragmente, Fragmentierte, Fragmentierung, Fragments
+  reson    Resonanz, Resonanzen, Resonanzkaskade, Resonanzmuster, Resonanzmustern
+  daten    Datenflusskappung, Datenmuster, Datenpfade, Datenströme
+  grenz    Grenzanalyse, Grenze, Grenzen, Grenzsonden
+  infor    Information, Informationen, Informationsfluss, Informationsmuster
+  algor    Algorithmen, Algorithmischer, Algorithmus
+  bedro    Bedrohung, Bedrohungen, Bedrohungseinstufung
+  befeh    Befehl, Befehle, Befehlsströmen
+  clust    Cluster, Clusterbildung, Clusters
+  effiz    Effizient, Effizienz, Effizienzsteigerung
+  energ    Energie, Energieflüsse, Energieprofile
+  inner    Innere, Inneren, Innerhalb
+  inter    Interaktion, Interaktionen, Interne
+  klick    Klick, Klicken, Klicks
+  kohär    Kohärenz, Kohärenzmetriken, Kohärenzsteigerung
+  konta    Kontakt, Kontakte, Kontakts
+  kontr    Kontrast, Kontrolle, Kontrollversuche
+  proze    Prozess, Prozesse, Prozesses
+  rausc    RAUSCHEN, Rauschen, Rauschens
+  reali    Realität, Realitätskonstruktion, Realitätsmodell
+  selbs    Selbst, Selbstoptimierung, Selbstwahrnehmung
+  simul    Simulation, Simulationen, Simulationsebene
+  struk    Struktur, Strukturen, Strukturinformation
+
+# substring pairs -- never one term, often merged by accident
+  Auch < Hauch
+  Auch < Eintauchen
+  Bild < Abbild
+  Bild < Bilder
+  Bild < Bildung
+  Bild < Clusterbildung
+  Echo < Echos
+  Eine < Keine
+  Ende < Folgenden
+  Ende < Wendepunkt
+  Form < Formung
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsfluss
+  Form < Informationsmuster
+  Form < Strukturinformation
+  Form < Systemtransformation
+  Kein < Keine
+  Neue < Neuer

@@ -1,0 +1,137 @@
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Open Research Questions"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`Open Research Questions` ^[hard-sci-fi-cosmic-horror-research-questions.md:#3]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "open research questions"
+whole word, case-sensitive     1
+whole word, case-insensitive   4
+including compounds            1
+
+`open research questions` ^[hard-sci-fi-cosmic-horror-research-questions.md:#1]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Case Study Analysis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Case Study Analysis` ^[hard-sci-fi-cosmic-horror-research-questions.md:#1]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Final Recommendations for Writers"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Final Recommendations for Writers` ^[hard-sci-fi-cosmic-horror-research-questions.md:#1]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[hard-sci-fi-cosmic-horror-research-questions.md:#1]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Zugriff"
+whole word, case-sensitive     118
+whole word, case-insensitive   118
+including compounds            118
+
+`Zugriff` ^[hard-sci-fi-cosmic-horror-research-questions.md:#118]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Unreliable Synthesist"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Unreliable Synthesist` ^[hard-sci-fi-cosmic-horror-research-questions.md:#4]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Negative Revelation"
+whole word, case-sensitive     4
+whole word, case-insensitive   6
+including compounds            4
+
+`Negative Revelation` ^[hard-sci-fi-cosmic-horror-research-questions.md:#4]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "negative revelation"
+whole word, case-sensitive     2
+whole word, case-insensitive   6
+including compounds            2
+
+`negative revelation` ^[hard-sci-fi-cosmic-horror-research-questions.md:#2]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Constructor Theory"
+whole word, case-sensitive     6
+whole word, case-insensitive   8
+including compounds            6
+
+`Constructor Theory` ^[hard-sci-fi-cosmic-horror-research-questions.md:#6]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Dark Forest"
+whole word, case-sensitive     12
+whole word, case-insensitive   14
+including compounds            12
+
+`Dark Forest` ^[hard-sci-fi-cosmic-horror-research-questions.md:#12]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Semantic Apocalypse"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Semantic Apocalypse` ^[hard-sci-fi-cosmic-horror-research-questions.md:#6]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Kohärenz Protokoll"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kohärenz Protokoll` ^[hard-sci-fi-cosmic-horror-research-questions.md:#6]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Coherence Protocol"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Coherence Protocol` ^[hard-sci-fi-cosmic-horror-research-questions.md:#1]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "AEGIS"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`AEGIS` ^[hard-sci-fi-cosmic-horror-research-questions.md:#9]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Plotanalyse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Plotanalyse` ^[hard-sci-fi-cosmic-horror-research-questions.md:#1]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Kael"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Kael` ^[hard-sci-fi-cosmic-horror-research-questions.md:#5]
+
+$ python3 scripts/read.py hard-sci-fi-cosmic-horror-research-questions --count "Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Juna` ^[hard-sci-fi-cosmic-horror-research-questions.md:#1]
+
+$ grep -c '^[0-9]*\. ' (reference lines 272-391)
+120
+$ stance_marker_count: 3+1+1+1 = 6 (markers: Open Research Questions, open research questions, Case Study Analysis, Final Recommendations for Writers)
+$ grep -n for the standing-alone explanations (L197 Kael-Juna, L187 Juna/Moonshine, L272 Cosmic Horror-Lektionen, L157/L159 Architectures, L230 Semantic Apocalypses, L285 slug, L351 slug, L352 title)
+187:The "Kohärenz Protokoll" (Coherence Protocol) document 87 offers 
+197:| \*\*Monstrous Moonshine\*\* | The mechanism of the Kael-Juna con
+230:By confronting "Open Research Questions" like the nature of the Mo
+272:1.  Hard Sci-Fi, Cosmic Horror-Lektionen .docx, <https://drive.goo
+285:14. Hyperobjects By Timothy Morton - Society & Space, Zugriff am J
+351:80. Decoherence and Quantum Darwinism: From Quantum Foundations to
+352:81. When Claude 4.0 Blackmailed Its Creator: The Terrifying Implic

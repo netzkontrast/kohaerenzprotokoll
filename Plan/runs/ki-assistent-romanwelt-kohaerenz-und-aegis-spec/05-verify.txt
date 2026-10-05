@@ -1,0 +1,409 @@
+# Verification — every number the census and note state, with the command that produced it
+# (read.py --count output pasted; count marks in the files are checked by quotes.py --strict)
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Selektierter Kandidat"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selektierter Kandidat` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "bestätigt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`bestätigt` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "AEGIS Spezifikation"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`AEGIS Spezifikation` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#2]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Autonomous Entropy Gatekeeper for Identity Systems"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Autonomous Entropy Gatekeeper for Identity Systems` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#3]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Das System AEGIS"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`Das System AEGIS` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#5]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Der Gatekeeper"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Der Gatekeeper` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Kohärenz-Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kohärenz-Kernel` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Kollaps-Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kollaps-Kernel` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Harness-in-Harness Paradigma"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Harness-in-Harness Paradigma` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Narrative Context Protocol"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Narrative Context Protocol` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#3]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "NCP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`NCP` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#3]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Memory-as-Action (MemAct) Paradigma"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Memory-as-Action (MemAct) Paradigma` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Expected Free Energy (EFE)"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Expected Free Energy (EFE)` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#2]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Tautologische Autorität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Tautologische Autorität` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Diagnostischer Interaktionsstil"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Diagnostischer Interaktionsstil` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Ich"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ich` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Wir"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Wir` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Unser"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Unser` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Du"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            8
+
+`Du` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Compute-Lock (Kernel Panic)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Compute-Lock (Kernel Panic)` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Emotionale Entität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Emotionale Entität` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Scheinbar Normale Persönlichkeit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Scheinbar Normale Persönlichkeit` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Corrective Wavelet"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Corrective Wavelet` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#2]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Kael"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kael` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#2]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Lia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lia` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Kairos-Potentialis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kairos-Potentialis` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Hard Glitch Cut"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hard Glitch Cut` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Silas"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Silas` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#3]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Isabelle"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Isabelle` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#2]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Guardians` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#2]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Zugriff am April 27, 2026"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Zugriff am April 27, 2026` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#19]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "INV-05"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`INV-05` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Hypothese 1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothese 1` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Hypothese 2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothese 2` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Hypothese 3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothese 3` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "AEGIS-Architektur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Architektur` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "AEGIS-Spezifikation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Spezifikation` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Entropiemessung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Entropiemessung` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#2]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Validierungs-Gates"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Validierungs-Gates` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Line Budgets"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Line Budgets` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "XML-Snapshots"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`XML-Snapshots` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Kohärenz Protokolls"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz Protokolls` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#2]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Identitätssplittings"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Identitätssplittings` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Sub-Agenten-Run"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sub-Agenten-Run` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "traumatischer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`traumatischer` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Free Energy Principles"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Free Energy Principles` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "FEP-Überwachungsmodul"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`FEP-Überwachungsmodul` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "EP-Agenten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EP-Agenten` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#2]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "ANP-Agenten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANP-Agenten` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Story Minds"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Story Minds` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#3]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Dependency-Armut"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dependency-Armut` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Boiled Frog Syndrome"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Boiled Frog Syndrome` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Consistency Risk Score"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Consistency Risk Score` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Hypervisor"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Hypervisor` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#3]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "State Freezing Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`State Freezing Protokoll` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "State-Freezing-Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`State-Freezing-Protokoll` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#2]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Clarifying-Question-Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Clarifying-Question-Protokoll` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Clarifying-Question Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Clarifying-Question Protokoll` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "epistemologische Isolation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`epistemologische Isolation` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "epistemische Isolation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`epistemische Isolation` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Line Budget"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Line Budget` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Line-Budgets"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Line-Budgets` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "deterministische Runtime"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`deterministische Runtime` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Deterministischen Runtime"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Deterministischen Runtime` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+$ python3 scripts/read.py ki-assistent-romanwelt-kohaerenz-und-aegis-spec --count "Guardian (Subsystem)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardian (Subsystem)` ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:#1]
+
+$ python3 (character census of the document: en-dash, curly quotes, Greek/subscript)
+'–' 21
+'“' 2
+'”' 2
+'„' 0
+'—' 0
+Greek/subscript/combining characters: 0
+non-ASCII set: ['Ä', 'Ü', 'ß', 'ä', 'ö', 'ü', '–', '“', '”']
+
+$ grep -n "?" Sources/drive/ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md  (lines of the two question marks)
+216:12. Setting the temperature to zero will make an LLM deterministic? - Sara Zan, Zugrif
+219:15. Why temperature=0,top\_p=1,seed=42 is still not enough to fix the llm's output\!? 
+
+# profile figures stated in the census (34 glued reference numbers, 112 backslash escapes, 120 ASCII quotes, 25 typographic marks, 2 question marks): Plan/runs/ki-assistent-romanwelt-kohaerenz-und-aegis-spec/01-profile.txt
+# word / in counts quoted in the census: Plan/runs/ki-assistent-romanwelt-kohaerenz-und-aegis-spec/04-counts.txt and counts.json (frozen).
+# L-lines named in the census explanations were read with: grep -noE on Sources/drive/ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md for LLM, Entropie, Mind, Gates, RAG, -Agent, Kollaps, -Zustand, -Kernel, EP, Trauma, ANP, Sub-Agenten, Identitätssplitting, FEP, Free Energy Principle, Line Budget, XML-Snapshot, Kohärenz.

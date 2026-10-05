@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -58,6 +58,14 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 - Who: „identifiziert Kael in Zusammenarbeit mit Selene und Lex die unzerstörbaren“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176] · „die essenziellen, positiven Wahrheiten jedes einzelnen Alters“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176]
 - Juna: „Indem sie diese Inseln über Quantenverschränkung (den Moonshine-Link) mit Juna im Äußeren verknüpfen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176]
 - Establishes: „Der Raum expandiert gewaltsam zurück in die Dreidimensionalität.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Living Paradox“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L292]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „A (Kael, geführt von Junas Stille)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L294]
+
+- Story: the outline places: „Kael präsentiert sich AEGIS als lebender Gödel-Satz“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L294]; „Architekturanker brechen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L294]
+- Encoding A: „IC · SP4 (Present) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L294]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
