@@ -133,6 +133,14 @@ with the consequences of each option laid out.
     the 41 chapters as story-level moments whose storybeat references name their narrative — a bridge is one moment
     across A and B. It replaces the two 1.3.0 files. `dsm_version` says what checked it: the 1999 chart in
     `dramatica.py`, not the licensed DSM. Risk accepted: a release candidate may still change before 3.0.0.
+25. **W0, the core (2026-10-05): A — told freely.** Asked with what it means for the scaffold (Juna's 7 IC chapters
+    and the 10 chapters of the Kael–Juna relationship need a Juna who acts because she is there), the author chose that
+    the before, the call and the after become scenes and Juna is a full figure. The rule „Juna nie Subjekt" no longer
+    binds the treatment; Block 4 stays the limit for names, places and biographical detail.
+26. **W9, Juna (2026-10-05): she follows her signposts.** Akt I: remembered scenes before the call, where she speaks and
+    wants (Kap 4, 11, IC·Past); Akt II: her life and the silence go on, in traces (Kap 17, 25, IC·Progress); Akt III: the
+    first direct encounter in the present (Kap 32, IC·Present); the Vortex: their future (Kap 36, 38, IC·Future). C7
+    decided. Open: a POV of her own, and whether she is the original self or a counterpart (J68).
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
