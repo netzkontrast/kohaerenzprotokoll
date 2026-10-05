@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 32
-readings: 32
+sources: 33
+readings: 33
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,10 @@ One of the thirteen [[alters|Alters]] — ANP, „Integrator / ISH" in its headi
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — guardian-integrator, a potential catalyst, labelled ANP-Regulator in Table 1
 
 The report names `Selene (Wächterin/Integratorin)` and says she „Fungiert als potenzieller Katalysator für Heilung“ ^[scifi-roman-mit-ki-schreiben.md:L154] and „Ihre ambivalente Rolle zwischen dem Schutz des Systems durch rigide Blockade von Trauma-Inhalten und ihrem Potenzial für Mitgefühl und Weisheit ist ein zentrales Mysterium und eine Quelle der Hoffnung“ ^[scifi-roman-mit-ki-schreiben.md:L154] Table 1, the plot-document-based matrix, heads her column „Selene (ANP-Regulator)“ ^[scifi-roman-mit-ki-schreiben.md:L160] — both labels are the report's.
+
+## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — among the integrating parts, and ANP-Regulator in Tabelle 1
+
+The roster (glued `1`, reference 1) lists Selene (Regulatorin) under `Sonderformen/Integrierende Anteile`: she „Agiert als innere Wächterin, die das System vor Überflutung schützt“ ^[system-kael-konzeptentwicklung-und-analyse.md:L131] and „repräsentiert das Potenzial zur Integration und Selbstregulation“ ^[system-kael-konzeptentwicklung-und-analyse.md:L131] Tabelle 1 writes the same part as „Selene (ANP-Regulator)“ ^[system-kael-konzeptentwicklung-und-analyse.md:L142] in its header row. The document gives both labels and does not reconcile them.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Selene as the self-aspect leading integration
 
@@ -186,3 +190,4 @@ An English file of about fourteen reports of 2025. The Guide's eight-alter table
 ## Where the sources differ
 
 - `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01: Selene as the Integrator-Agent that buffers a contradiction, „parakonsistente Logik-Gatter“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L123], as the stress test's success case (L123).
+- `system-kael-konzeptentwicklung-und-analyse` (2025-06-24) places Selene among the integrating parts in its roster and labels her „Selene (ANP-Regulator)“ ^[system-kael-konzeptentwicklung-und-analyse.md:L142] in Tabelle 1.
