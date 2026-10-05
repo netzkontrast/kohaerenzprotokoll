@@ -12,6 +12,7 @@ read again on every build: an item that leaves NOW.md leaves the plan.
     python3 scripts/sessions.py                 # the plan, one line per item
     python3 scripts/sessions.py --json          # what the app and the website serve
     python3 scripts/sessions.py --prompt <id>   # the prompt for one session, ready to paste
+    python3 scripts/sessions.py board           # the plan against GitHub: claimed, free, active elsewhere
     python3 scripts/sessions.py selftest        # every rule, handed the case it exists for
 
 ## The rules, all of them written down
@@ -33,6 +34,12 @@ instruction, task, next step, gate, files, standing instructions, notes, rules);
 the app's start-prompt editor switches them on and off, and `free` is the prompt
 for a session the author names in their own words.
 
+**The board** (`board`, and the Now page live in the browser) sets the plan against GitHub's public API: an
+open pull request claims a session by a line `Session: <id>` in its body or title (`CLAIM`), a branch pushed
+within `ACTIVE_HOURS` is active, and active work that claims no planned session is listed apart. Nothing else is
+inferred — a branch named like a session has not claimed it. When GitHub cannot be reached the board says the
+live state is unknown and calls no session free. The session-start hook prints it.
+
 The prompt contains NOW.md's own words and paths, no corpus text, so handing it to
 a session sends nothing that has not already left the container.
 """
@@ -41,6 +48,8 @@ from __future__ import annotations
 
 import json
 import re
+import urllib.request
+from datetime import datetime, timedelta, timezone
 import sys
 import unicodedata
 from pathlib import Path
@@ -52,6 +61,11 @@ STANDING = "The author's standing instructions"
 NEXT = re.compile(r"\*\*(?:Next|Open):\*\*\s*|\*\*Next:\s*|(?<![\w*])Next:\s*")
 WAITS = ("waits on", "only with the author's word", "the author's yes", "until the author", "wait on the yes")
 REPO = "netzkontrast/kohaerenzprotokoll"
+API = f"https://api.github.com/repos/{REPO}"
+PAGE = "https://kohaerenzprotokoll.vercel.app/#/now"
+# A claim is a line in an open pull request's body or title; the board and the Now page read the same pattern.
+CLAIM = r"(?:^|\n)\s*Session:\s*`?([A-Za-z0-9][A-Za-z0-9-]*)`?"
+ACTIVE_HOURS = 24
 
 
 def section(text: str, head: str) -> str:
@@ -143,7 +157,7 @@ def derive(text: str | None = None, root: Path = ROOT) -> dict:
         s["prompt"] = prompt(s, notes, standing)
         s["blocks"] = blocks(s, notes, standing)
     free = dict(FREE, blocks=blocks(FREE, notes, standing))
-    return {"source": "NOW.md § Half-done — where the next session starts", "sessions": sessions,
+    return {"source": "NOW.md § Half-done — where the next session starts", "board": {"claim": CLAIM, "hours": ACTIVE_HOURS, "api": API, "page": PAGE, "repo": REPO}, "sessions": sessions,
             "notes": notes, "standing": standing, "free": free}
 
 
@@ -178,7 +192,10 @@ def blocks(s: dict, notes: list[dict], standing: list[dict], ask: str = "") -> l
                                             for x in standing])])
     if notes:
         out.append(["notes", "\n".join(["Binding on every session:"] + [f"- {plain(n['md'])}" for n in notes])])
-    out.append(["rules", "Claim the work before starting it: an open pull request naming it under a `Claim` heading.\n"
+    sid = s.get("id") or "free"
+    out.append(["rules", "Claim the work before starting it: open a pull request at once, its body under a `## Claim` heading "
+                         f"holding the line `Session: {sid}`" + (" (or an id of your own for a task NOW.md does not name)" if sid == "free" else "")
+                         + f" — the session board reads that line (`python3 scripts/sessions.py board`, and the Now page {PAGE}).\n"
                          "Before any pull request: the app-refresh skill (`.agents/skills/app-refresh/SKILL.md`); "
                          "the pre-PR hook refuses a pull request whose app was not rebuilt and checked for this commit."])
     return [[k, LABELS[k], t] for k, t in out]
@@ -189,7 +206,124 @@ def prompt(s: dict, notes: list[dict], standing: list[dict], ask: str = "") -> s
     return "\n\n".join(b[2] for b in blocks(s, notes, standing, ask))
 
 
+# ---------------------------------------------------------------- the board
+
+def fetch_live(timeout: float = 10.0) -> dict:
+    """Open pull requests and the last day's pushes, from GitHub's public API. Never raises: a failure is
+    returned as `ok: False` with its reason, because a board that cannot see GitHub must not call a session free."""
+    def get(path: str):
+        req = urllib.request.Request(API + path, headers={"Accept": "application/vnd.github+json", "User-Agent": "kp-sessions"})
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return json.load(r)
+    at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    try:
+        pulls = get("/pulls?state=open&per_page=100")
+        activity = get("/activity?per_page=100&time_period=day")
+    except Exception as e:  # noqa: BLE001 — any failure means the live state is unknown, said so
+        return {"ok": False, "error": f"{type(e).__name__}: {e}"[:200], "at": at, "pulls": [], "activity": []}
+    return {"ok": True, "error": "", "at": at,
+            "pulls": [{"number": p["number"], "title": p["title"], "body": p.get("body") or "", "branch": p["head"]["ref"],
+                       "url": p["html_url"], "updated": p["updated_at"]} for p in pulls],
+            "activity": [{"ref": a["ref"], "type": a["activity_type"], "at": a["timestamp"], "sha": a["after"]} for a in activity]}
+
+
+def _ts(iso: str) -> datetime:
+    return datetime.strptime(iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+
+
+def board(plan: dict, live: dict, now: datetime | None = None) -> dict:
+    """The plan against what GitHub shows: which session an open pull request claims (`Session: <id>`), which
+    branches were pushed within ACTIVE_HOURS, and the work that claims no planned session. Infers nothing else:
+    a branch whose name resembles a session is not a claim."""
+    now = now or datetime.now(timezone.utc)
+    pattern = re.compile(CLAIM)
+    branches: dict[str, dict] = {}
+    for a in live.get("activity", []):
+        if a["type"] != "push" or not a["ref"].startswith("refs/heads/") or a["ref"] == "refs/heads/main":
+            continue
+        if now - _ts(a["at"]) > timedelta(hours=ACTIVE_HOURS):
+            continue
+        b = branches.setdefault(a["ref"][len("refs/heads/"):], {"pushes": 0, "last": a["at"], "sha": a["sha"]})
+        b["pushes"] += 1
+        if a["at"] > b["last"]:
+            b["last"], b["sha"] = a["at"], a["sha"]
+    claims = []
+    for p in live.get("pulls", []):
+        ids = [m.lower() for m in pattern.findall(p["title"] + "\n" + p["body"])]
+        b = branches.get(p["branch"])
+        claims.append({"pr": p["number"], "title": p["title"], "url": p["url"], "branch": p["branch"], "ids": ids,
+                       "last": b["last"] if b else p["updated"], "active": bool(b)})
+    planned = {x["id"] for x in plan["sessions"]}
+    rows = []
+    for x in plan["sessions"]:
+        by = [c for c in claims if x["id"] in c["ids"]]
+        state = "unknown" if not live.get("ok") else ("claimed" if by else "free")
+        rows.append({"n": x["n"], "id": x["id"], "title": x["title"], "status": x["status"], "next": x["next"],
+                     "state": state, "by": by})
+    claimed_branches = {c["branch"] for c in claims if set(c["ids"]) & planned}
+    other = []
+    for name, b in sorted(branches.items(), key=lambda kv: kv[1]["last"], reverse=True):
+        if name in claimed_branches:
+            continue
+        pr = next((c for c in claims if c["branch"] == name), None)
+        other.append({"branch": name, "last": b["last"], "pushes": b["pushes"], "sha": b["sha"],
+                      "pr": pr["pr"] if pr else None, "title": pr["title"] if pr else "", "ids": pr["ids"] if pr else []})
+    return {"ok": live.get("ok", False), "error": live.get("error", ""), "at": live.get("at", ""), "rows": rows,
+            "other": other, "claims": claims, "hours": ACTIVE_HOURS}
+
+
+def ago(iso: str, now: datetime | None = None) -> str:
+    m = int(((now or datetime.now(timezone.utc)) - _ts(iso)).total_seconds() // 60)
+    return f"{m} min ago" if m < 90 else f"{m // 60} h ago"
+
+
+def board_text(b: dict, now: datetime | None = None) -> str:
+    head = (f"Session board — NOW.md § Half-done against GitHub at {b['at']} ({len(b['claims'])} open pull requests, "
+            f"{len(b['other']) + len({c['branch'] for r in b['rows'] for c in r['by']})} branches pushed in {b['hours']} h)")
+    if not b["ok"]:
+        head = f"Session board — GitHub not reached ({b['error']}): LIVE STATE UNKNOWN — do not assume a session is free"
+    lines = [head]
+    for r in b["rows"]:
+        if r["by"]:
+            c = r["by"][0]
+            who = f"claimed by #{c['pr']} ({c['branch']}, {'pushed ' + ago(c['last'], now) if c['active'] else 'no push in ' + str(b['hours']) + ' h'})"
+        else:
+            who = {"free": "free", "unknown": "unknown"}[r["state"]]
+        lines.append(f"{r['n']:>2}  {r['status']:<20} {who:<58} {r['id']}")
+    if b["other"]:
+        lines.append(f"Active in the last {b['hours']} h, claiming no planned session:")
+        for o in b["other"]:
+            pr = f"#{o['pr']} „{o['title'][:60]}“" + (f" Session: {', '.join(o['ids'])}" if o["ids"] else "") if o["pr"] else "no pull request"
+            lines.append(f"  {o['branch']} — pushed {ago(o['last'], now)}, {pr}")
+    silent = [o for o in b["other"] if not o["pr"]]
+    if b["ok"] and silent and any(r["state"] == "free" and r["status"] == "ready" for r in b["rows"]):
+        lines.append(f"CAUTION: {len(silent)} branch(es) were pushed in {b['hours']} h with no pull request, so no claim: "
+                     f"{', '.join(o['branch'] for o in silent)}. A session marked free may be running there — look at "
+                     "`git log origin/<branch>` before taking it, and open your claim pull request first.")
+    lines.append(f"Claim before you start: a pull request whose body holds `Session: <id>`. The author's view: {PAGE}")
+    return "\n".join(lines)
+
+
 # ---------------------------------------------------------------- selftest
+
+# One clock and one live state, built for the third session of whatever plan it is given. Shared by this
+# self-test and by `ui.py`'s check that the Now page's JavaScript board answers exactly as `board()` does —
+# two implementations of one rule, held together by one case.
+FIXTURE_NOW = datetime(2026, 10, 5, 20, 0, tzinfo=timezone.utc)
+
+
+def fixture_live(claimed: str) -> dict:
+    return {"ok": True, "at": "2026-10-05T20:00:00Z", "pulls": [
+        {"number": 7, "title": "Ingest", "body": f"## Claim\nSession: `{claimed}`\n", "branch": "claude/ingest", "url": "u7", "updated": "2026-10-05T19:00:00Z"},
+        {"number": 8, "title": "My own task", "body": "Session: board-ui", "branch": "claude/ui", "url": "u8", "updated": "2026-10-05T19:00:00Z"}],
+        "activity": [
+        {"ref": "refs/heads/claude/ingest", "type": "push", "at": "2026-10-05T19:50:00Z", "sha": "a"},
+        {"ref": "refs/heads/claude/ui", "type": "push", "at": "2026-10-05T19:40:00Z", "sha": "b"},
+        {"ref": "refs/heads/claude/storyform", "type": "push", "at": "2026-10-05T19:30:00Z", "sha": "c"},
+        {"ref": "refs/heads/claude/old", "type": "push", "at": "2026-10-03T19:30:00Z", "sha": "d"},
+        {"ref": "refs/heads/claude/merged", "type": "pr_merge", "at": "2026-10-05T19:56:00Z", "sha": "g"},
+        {"ref": "refs/heads/main", "type": "pr_merge", "at": "2026-10-05T19:55:00Z", "sha": "e"}]}
+
 
 FIXTURE = """# Now
 
@@ -256,6 +390,25 @@ def selftest() -> list[str]:
         fail.append("the author's instruction: missing, or not before the task")
     if [b[0] for b in plan["free"]["blocks"]] != ["head", "read", "standing", "notes", "rules"]:
         fail.append(f"the free prompt's blocks: got {[b[0] for b in plan['free']['blocks']]}")
+    if "Session: entity-lists" not in ent.get("prompt", "") or "Session: free" not in "\n".join(b[2] for b in plan["free"]["blocks"]):
+        fail.append("the rules block does not name the claim line `Session: <id>`")
+    now, live = FIXTURE_NOW, fixture_live(plan["sessions"][2]["id"])
+    bd = board(plan, live, now)
+    st = {r["id"]: r for r in bd["rows"]}
+    if st["the-ingest-continues"]["state"] != "claimed" or st["the-ingest-continues"]["by"][0]["pr"] != 7:
+        fail.append(f"a `Session:` line in a pull request body (backticks too) claims its session: got {st['the-ingest-continues']}")
+    if st["the-storyforms-step-by-step"]["state"] != "free":
+        fail.append("a branch whose name resembles a session claimed it — no inference")
+    if [o["branch"] for o in bd["other"]] != ["claude/ui", "claude/storyform"]:
+        fail.append(f"active work outside the plan: want ui, storyform (newest first; old and main left out), got {[o['branch'] for o in bd['other']]}")
+    off = board(plan, {"ok": False, "error": "URLError: no network", "at": "x"}, now)
+    if any(r["state"] != "unknown" for r in off["rows"]) or "LIVE STATE UNKNOWN" not in board_text(off, now):
+        fail.append("GitHub unreachable: a session reported free, or the board did not say the live state is unknown")
+    live_silent = dict(live, activity=live["activity"] + [{"ref": "refs/heads/claude/quiet", "type": "push", "at": "2026-10-05T19:59:00Z", "sha": "f"}])
+    if "CAUTION: 2 branch(es)" not in board_text(board(plan, live_silent, now), now) or "claude/quiet" not in board_text(board(plan, live_silent, now), now):
+        fail.append("an active branch with no pull request beside a free ready session: no caution")
+    if "claimed by #7 (claude/ingest, pushed 10 min ago)" not in board_text(bd, now):
+        fail.append(f"board text: got {board_text(bd, now)!r}")
     if derive("# Now\n")["sessions"]:
         fail.append("a NOW.md without the section yields sessions")
     return fail
@@ -266,9 +419,13 @@ def main(argv: list[str]) -> int:
         fail = selftest()
         for f in fail:
             print(f"  FAILED  {f}")
-        print(f"sessions: {'every rule held' if not fail else str(len(fail)) + ' case(s) failed'} (order, two Next forms, Open, gate, gate as step, files, notes, standing, prompt, blocks, instruction, free, empty)")
+        print(f"sessions: {'every rule held' if not fail else str(len(fail)) + ' case(s) failed'} (order, two Next forms, Open, gate, gate as step, files, notes, standing, prompt, blocks, instruction, free, claim line, board: claim, no inference, other work, offline, caution, text, empty)")
         return 1 if fail else 0
     plan = derive()
+    if argv[:1] == ["board"]:
+        b = board(plan, fetch_live())
+        print(json.dumps(b, ensure_ascii=False, indent=1) if "--json" in argv else board_text(b))
+        return 0
     if "--json" in argv:
         print(json.dumps(plan, ensure_ascii=False, indent=1))
         return 0
