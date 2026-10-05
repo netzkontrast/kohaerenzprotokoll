@@ -132,3 +132,11 @@ Where it stands: this is a plan of an origin from within a split entity, with Ju
 Second answer (L116): „primäre Ursache für Kaels Fragmentierung“ ^[charaktere.md:L116]. Third answer (L349): the crisis leads „zur Emergenz von Kael als Fragment“ ^[charaktere.md:L349] from AEGIS's Ursprungs-Ich.
 
 Stands as an origin of Kael in AEGIS's fragmentation, proposed in a design document; recorded, not applied.
+
+## 2026-10-05 — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28, the TSDP analysis
+
+**The TSDP analysis traces the system to „chronisches, wahrscheinlich frühkindliches interpersonelles Trauma“ ^[strukturelle-dissoziation-system-kael-analyse.md:L526] and treats AEGIS as an outside force.**
+
+The summary says: „System Kael präsentiert sich als hochkomplexes Tertiäres Dissoziatives System“ ^[strukturelle-dissoziation-system-kael-analyse.md:L526] which „durch chronisches, wahrscheinlich frühkindliches interpersonelles Trauma entstanden ist.“ ^[strukturelle-dissoziation-system-kael-analyse.md:L526] AEGIS is not the origin here: its methods „stellen eine externe Bedrohung dar, die jedoch gezielt die internen Schwachstellen und die dissoziative Struktur von System Kael ausnutzt“ ^[strukturelle-dissoziation-system-kael-analyse.md:L100]. The report names no entity M and no fragment story.
+
+Stands outside the record's two tellings: the origin is a trauma history, with AEGIS exploiting a split already there; recorded, not placed.
