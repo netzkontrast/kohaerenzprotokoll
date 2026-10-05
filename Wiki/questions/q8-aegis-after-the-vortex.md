@@ -164,3 +164,11 @@ Stands: AEGIS persists, melancholic, and Oblivion takes over its decision functi
 Anhang C: „AEGIS-Endzustand: Drift zwischen Zerstörung im Kampf und“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1354] (the line goes on with the second state in quotation marks), then „Version: Melancholie verwendet.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1354] Anhang B lists the merger as discarded: „Utopische Verschmelzung (AEGIS als Partner)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1348] Kap 36 has AEGIS „kollabiert leise in die Algorithmische Melancholie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1080] and Kap 37 has it silent: „AEGIS ist stumm, lediglich ein melancholisches Summen erinnert an seine Herrschaft.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1120] Anhang H's finding: „Befund: AEGIS handelt aus Tautologie, was in Melancholie mündet“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1425]
 
 In the record's terms: the outline answers the question with melancholy as its own decision from its canon source, and decides nothing.
+
+## 2026-10-05 — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction
+
+**The reconstruction sets AEGIS's end as no destruction and asks what follows.**
+
+HC-02: „Keine physische Zerstörung.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L144] SC-01: „Kapitel 39 präsentiert ein AEGIS-Log im Post-Quantum-Zustand“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L163]. OQ-04 asks whether the Algorithmische Melancholie means „eine Form ewiger Folter für die KI“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L223], a question.
+
+Stands as Hard Canon and Soft Canon rows plus an open question, dated 2026-03-26; recorded, not applied.
