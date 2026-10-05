@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,14 @@ Position: Teil II; setting from the `Schauplatz` field: „Der Maschinenraum der
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Sophia (Guardian), AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L201]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael entdeckt das dunkelste Geheimnis von AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L203] and „der Guardian der Integration, tritt auf“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L203]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Kairos Potentialis
+
+Title: „Kairos Potentialis“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L229] — heading „Die Welt der Was-wäre-wenn“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L230]
+Position: Teil II; POV from `Perspektive & Stimme`: „Kael (staunend, aber misstrauisch)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L231]; place from `Ort`: „Kern-Welt 4 (Surreal, endlos mutierend)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L233]
+
+- Story: the matrix plans „Kael betritt KW4. Hier testet AEGIS Wahrscheinlichkeiten. Kael sieht unzählige Leben, die er hätte führen können“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L235]
+- Question: „Ist grenzenloses Potenzial Befreiung oder Wahnsinn?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L234]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
