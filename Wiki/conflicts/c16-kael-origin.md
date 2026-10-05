@@ -148,3 +148,12 @@ Stands outside the record's two tellings: the origin is a trauma history, with A
 AEGIS performs the `Trennungsprotokoll`, which „violently fragmented its own“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112] `Ursprungs-Ich` (L112). Of Juna/V it says she is „exiled part of Kael's own“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L138] `Ursprungs-Ich.` (L138). Kael's is a second, separate original self, one of whose parts is Juna/V; AEGIS's is the one split in L112. No line makes the two the same self or Kael a remainder of AEGIS's, and no entity M occurs (`Monster` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0]).
 
 Neither the outside origin (rows 1 to 3) nor the shared split self (rows 5 to 8); a third arrangement, two Ursprungs-Ich; recorded, the conflict stays open.
+
+## 2026-10-05 — a decision on Q7 that bears on this record (not a decision of it)
+
+The author answered Q7: Kael is the part the separation cut out of Komponente 734, from which AEGIS emerged (W12),
+in the words of the draft text of Kap 40/0, „Kael war das Cluster, das aus Komponente 734 herausgetrennt wurde.“
+^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63] That is close to this record's second telling,
+Kael as the remainder of AEGIS's split self. **The record stays open:** whether the external entity M of the first
+telling has any place beside it is the author's to say, and was not asked.
+
