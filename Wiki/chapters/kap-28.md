@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,14 @@ Title: „Das Versagen der Eindämmung“ ^[monstergruppe-primzahlen-plot-bluepr
 Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
 
 - Plot: AEGIS' „großangelegte Aktion (Reset, Angriff, etc.) schlägt fehl oder hat katastrophale unbeabsichtigte Folgen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L308] and „destabilisiert das M-Fundament noch weiter und beschleunigt den Kollaps der Simulation.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L308]
+
+## Reading — `outline`, 2025-07-30, the outline — AEGIS' letzte Verteidigung: Cerberus' Labyrinth / Der Algorithmus der Seele
+
+Title: „AEGIS' letzte Verteidigung: Cerberus' Labyrinth / Der Algorithmus der Seele“ ^[outline.md:L167] — Teil 3, headed „Konfrontation und Integration“ ^[outline.md:L154]
+Position: the outline plans the `Erzählperspektive` „Kael (Konfrontation mit Cerberus, Ausnutzung von Ängsten)“ ^[outline.md:L170]; journey stage under `Reisestufe`: „Der Ruf zum Abenteuer (Innerer Impuls)“ ^[outline.md:L174]
+
+- Story: the outline plans, under `Plot`, „Kael navigiert durch AEGIS' Verteidigungsmechanismen“ ^[outline.md:L169]; „dessen Kernparadoxon auszunutzen“ ^[outline.md:L169]
+- Question: under `Thematische Kernfrage`, „Kann man einen Gegner besiegen, indem man seine eigenen Ängste nutzt?“ ^[outline.md:L171]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
