@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,13 @@ Position: „(Fundamentales Konzept: Symmetrie (Netzwerk/Graph in McL) / Quanten
 - The Guardian questions him: „Woher stammt dieser Zugang, Architekt?“ ^[kohaerenz-protokoll.md:L1244]
 - Confirms and grows curious: „Ihre Analyse der dualen Knotenpunkte war korrekt.“ ^[kohaerenz-protokoll.md:L1258]
 - Impressed, wary: „Beeindruckend, Architekt“ ^[kohaerenz-protokoll.md:L1280]
+
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Garten der flüsternden Pfade
+
+Title: „Der Garten der flüsternden Pfade“ ^[roman-outline-system-kael.md:L188]
+Position: Teil IV, KW4
+
+- Story: „Kael findet sich im Möglichkeits-Garten (E5) wieder.“ ^[roman-outline-system-kael.md:L188] At the Nexus of Whispers the oracle Sibyl gives „kryptische, aber hoffnungsvolle Prophezeiungen“ ^[roman-outline-system-kael.md:L188].
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
