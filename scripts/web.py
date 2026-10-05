@@ -5,7 +5,9 @@ supplies each frame's `./support.js`; a website has to supply it itself. This
 script runs `ui.py`, then copies the frames beside the vendored runtime
 `scripts/web/support.js` into `Plan/derived/web/` — derived, git-ignored, and
 what Vercel serves (`vercel.json`). It changes nothing in the app: the bytes of
-every `.dc.html` are the bytes the canvas gets.
+every `.dc.html` are the bytes the canvas gets. Beside them it serves what `ui.py`
+writes for agents: `llms.txt` at the root and `agents/` (`sessions.json`,
+`index.json`, `state.json`, `data.json`) — the same snapshot, read by a program.
 
     python3 scripts/web.py               # ui.py --no-checks, then assemble Plan/derived/web/
     python3 scripts/web.py --no-build    # assemble from the Plan/derived/ui/ already there
@@ -30,7 +32,8 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CANVAS = ROOT / "Plan" / "derived" / "ui" / "canvas" / "project"
+UI = ROOT / "Plan" / "derived" / "ui"
+CANVAS = UI / "canvas" / "project"
 RUNTIME = ROOT / "scripts" / "web" / "support.js"
 RUNTIME_SHA256 = "454cb23fe5f5b1c4c7cd178795ec6cf3c32047eae4434e975a6104c53183fbd6"
 OUT = ROOT / "Plan" / "derived" / "web"
@@ -49,7 +52,12 @@ def assemble(out: Path = OUT) -> list[str]:
     for f in frames:
         shutil.copyfile(f, out / f.name)
     shutil.copyfile(RUNTIME, out / "support.js")
-    return sorted(p.name for p in out.iterdir())
+    # what an agent reads instead of the screen (`ui.py` writes it beside the canvas)
+    if (UI / "llms.txt").exists():
+        shutil.copyfile(UI / "llms.txt", out / "llms.txt")
+    if (UI / "agents").is_dir():
+        shutil.copytree(UI / "agents", out / "agents")
+    return sorted(p.relative_to(out).as_posix() for p in out.rglob("*") if p.is_file())
 
 
 def main(argv: list[str]) -> int:
@@ -60,7 +68,8 @@ def main(argv: list[str]) -> int:
     written = assemble()
     print(f"web: wrote {OUT.relative_to(ROOT)}/ — {', '.join(written)}")
     if "--check" in argv:
-        missing = [n for n in ("Main.dc.html", "support.js") if n not in written]
+        missing = [n for n in ("Main.dc.html", "support.js", "llms.txt", "agents/sessions.json", "agents/index.json")
+                   if n not in written]
         for n in missing:
             print(f"  DEFECT  {n} missing")
         return 1 if missing else 0

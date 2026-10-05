@@ -89,7 +89,8 @@ class Component extends DCLogic {
     const screen = s.screen || this.props.screen || 'now';
     const e = encodeURIComponent;
     let tail = '';
-    if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s);
+    if (screen === 'now' && s.sess) tail = 'session/' + e(s.sess);
+    else if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s);
     else if (screen === 'conflicts' && s.conf != null) tail = D.conflicts[s.conf].id;
     else if (screen === 'questions' && s.ques != null) tail = s.ques === -1 ? 'agenda' : D.questions[s.ques].id;
     else if (screen === 'corpus' && s.crow != null && s.crow >= 0) tail = e(D.rows[s.crow].slug);
@@ -118,7 +119,8 @@ class Component extends DCLogic {
     const screen = parts[0];
     const at = (list, key, v) => list.findIndex((x) => x[key] === v);
     const st = { screen: screen, q: '' };
-    if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) st.page = i; }
+    if (screen === 'now' && parts[1] === 'session' && parts[2]) { if (parts[2] === 'free' || at(D.sessions.sessions, 'id', parts[2]) >= 0) st.sess = parts[2]; }
+    else if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) st.page = i; }
     else if (screen === 'conflicts' && parts[1]) { const i = at(D.conflicts, 'id', parts[1]); if (i >= 0) st.conf = i; }
     else if (screen === 'questions' && parts[1]) {
       const i = parts[1] === 'agenda' ? -1 : at(D.questions, 'id', parts[1]);
@@ -145,6 +147,10 @@ class Component extends DCLogic {
 
   componentDidMount() {
     if (!this.routable()) return;
+    try {
+      const saved = JSON.parse(window.localStorage.getItem('kp-prompt-drafts') || 'null');
+      if (saved && typeof saved === 'object') this.setState({ pask: saved.pask || {}, pedit: saved.pedit || {}, poff: saved.poff || {} });
+    } catch (err) { /* no storage: start empty */ }
     this._onHash = () => {
       const st = this.unroute(window.location.hash);
       if (st && window.location.hash !== this.route()) { this._fromUrl = true; this.setState(st); }
@@ -158,6 +164,66 @@ class Component extends DCLogic {
   }
 
   fmt(n) { return typeof n === 'number' ? n.toLocaleString('en-US') : String(n); }
+
+  // A prompt to the clipboard. A canvas frame may refuse the clipboard; then the button says so
+  // instead of claiming a copy, and the prompt stays in the editor, selectable.
+  copy(id, text) {
+    const done = (ok) => this.setState({ copied: ok ? id : 'fail:' + id });
+    try {
+      if (typeof navigator !== 'undefined' && navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => done(true), () => done(false));
+        return;
+      }
+    } catch (err) { /* fall through */ }
+    done(false);
+  }
+
+  // ---- the start-prompt editor on the Now screen
+  // A prompt is its session's blocks (scripts/sessions.py), those switched off left out, the author's own
+  // instruction after the read-first block. Text edited by hand wins until Reset. Drafts are kept in this
+  // browser only (website; a canvas frame keeps them for the visit) — never in the repository.
+  promptSource(id) {
+    const P = this.kp().sessions;
+    return id === 'free' ? P.free : P.sessions.find((x) => x.id === id) || P.free;
+  }
+
+  compose(x, ask, off) {
+    const out = [];
+    x.blocks.forEach((b) => {
+      if (off.indexOf(b[0]) >= 0) return;
+      out.push(b[2]);
+      if (b[0] === 'read' && ask.trim()) out.push('The author\'s instruction for this session:\n' + ask.trim());
+    });
+    return out.join('\n\n');
+  }
+
+  drafts() { const st = this.st(); return { pask: st.pask || {}, pedit: st.pedit || {}, poff: st.poff || {} }; }
+
+  saveDraft(kind, id, value) {
+    const d = this.drafts();
+    const next = Object.assign({}, d[kind]);
+    if (value == null || value === '' || (Array.isArray(value) && !value.length)) delete next[id];
+    else next[id] = value;
+    const patch = { copied: null };
+    patch[kind] = next;
+    this.setState(patch);
+    if (!this.routable()) return;
+    try {
+      const all = Object.assign({}, d, patch);
+      window.localStorage.setItem('kp-prompt-drafts', JSON.stringify({ pask: all.pask, pedit: all.pedit, poff: all.poff }));
+    } catch (err) { /* storage refused: the draft lives for this visit */ }
+  }
+
+  download(name, text) {
+    try {
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(new Blob([text], { type: 'text/markdown;charset=utf-8' }));
+      a.download = name;
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 0);
+    } catch (err) { /* nothing to save to */ }
+  }
 
   txt(rs) {
     return (rs || []).map((r) => (typeof r === 'string' ? r : r[0] === 'r' ? '' : r[1])).join('').replace(/\s+/g, ' ').trim();
@@ -398,7 +464,7 @@ class Component extends DCLogic {
     const onQKey = (e) => { if (e.key === 'Escape') this.setState({ q: '' }); };
 
     // ------------------------------------------------------------ now
-    const now = { tiles: [], agenda: [], unsettled: [], log: [], handover: [], l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
+    const now = { tiles: [], agenda: [], asks: [], log: [], sessions: [], sessSub: '', web: false, free: {}, pe: { chips: [] }, tabs: [], tabPrompt: true, tabLog: false, l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
     if (is.now) {
       const total = V('sources.total');
       const landed = V('sources.landed');
@@ -430,7 +496,7 @@ class Component extends DCLogic {
         });
       });
       now.agenda = ag.filter((a) => a.order === 0).concat(ag.filter((a) => a.order === 1));
-      now.unsettled = D.agenda.unsettled.map((u) => ({ runs: this.runs(u) }));
+      now.asks = D.agenda.process.map((u) => ({ runs: this.runs(u) }));
       const mt = Math.max.apply(null, D.docs.map((d) => d.terms).concat([1]));
       const mr = Math.max.apply(null, D.docs.map((d) => d.readings).concat([1]));
       const mc = Math.max.apply(null, D.docs.map((d) => d.conflicts).concat([1]));
@@ -442,7 +508,62 @@ class Component extends DCLogic {
       }));
       const canonN = D.docs.filter((d) => d.canon).length;
       now.logSub = (D.docs.length - canonN) + ' before the canon era · ' + canonN + ' from it';
-      now.handover = D.agenda.handover.map((h) => ({ runs: this.runs(h) }));
+      const plan = D.sessions;
+      const firstReady = plan.sessions.find((x) => x.status === 'ready');
+      const selId = s.sess || (firstReady ? firstReady.id : 'free');
+      now.sessions = plan.sessions.map((x) => {
+        const on = selId === x.id;
+        const ready = x.status === 'ready';
+        return {
+          dom: uid + '-sess-' + x.id, n: String(x.n), t: x.title, st: x.status, stBg: ready ? '#E4E9F2' : '#F6E4DC', stFg: ready ? '#2B4C8C' : '#9A2D1A',
+          next: this.runs(x.nruns), bd: on ? '#2B4C8C' : '#E6E0D2', bg: on ? '#FFFFFF' : 'transparent', cur: on ? 'true' : 'false',
+          pick: () => this.setState({ sess: x.id, ntab: 'prompt', copied: null }),
+        };
+      });
+      now.free = { bd: selId === 'free' ? '#2B4C8C' : '#E6E0D2', cur: selId === 'free' ? 'true' : 'false', pick: () => this.setState({ sess: 'free', ntab: 'prompt', copied: null }) };
+      const readyN = plan.sessions.filter((x) => x.status === 'ready').length;
+      now.sessSub = readyN + ' ready · ' + (plan.sessions.length - readyN) + ' wait on the author · ' + plan.notes.length + ' notes bind all';
+      now.tabPrompt = (s.ntab || 'prompt') === 'prompt';
+      now.tabLog = !now.tabPrompt;
+      now.tabs = [['prompt', 'Start prompt'], ['log', 'Reading log']].map((t) => {
+        const on = (s.ntab || 'prompt') === t[0];
+        return { label: t[1], on: on ? 'true' : 'false', bd: on ? '#1C1B18' : 'transparent', fg: on ? '#1C1B18' : '#645F53', go: () => this.setState({ ntab: t[0] }) };
+      });
+      const src = this.promptSource(selId);
+      const d = this.drafts();
+      const ask = d.pask[selId] || '';
+      const off = d.poff[selId] || [];
+      const edited = d.pedit[selId];
+      const composed = this.compose(src, ask, off);
+      const text = edited != null ? edited : composed;
+      const copied = s.copied === 'pe:' + selId;
+      const failedCopy = s.copied === 'fail:pe:' + selId;
+      const fixed = ['head', 'read'];
+      now.pe = {
+        kicker: selId === 'free' ? 'Free prompt · your words, with the rules every session keeps'
+          : 'Session ' + src.n + ' · ' + src.status + ' · from NOW.md § Half-done',
+        title: selId === 'free' ? 'A session you name yourself' : src.title,
+        askId: uid + '-pe-ask', textId: uid + '-pe-text', ask: ask, text: text,
+        askHint: selId === 'free' ? 'What should the session do? In your words — it goes right after “read NOW.md first”.'
+          : 'Anything to add or narrow — „nur das erste Dokument“, a deadline, a question first. Goes before the task.',
+        onAsk: (e) => this.saveDraft('pask', selId, e.target.value),
+        onText: (e) => this.saveDraft('pedit', selId, e.target.value),
+        chips: src.blocks.filter((b) => fixed.indexOf(b[0]) < 0).map((b) => {
+          const isOn = off.indexOf(b[0]) < 0;
+          return {
+            label: b[1], on: isOn ? 'true' : 'false', bg: isOn ? '#2B4C8C' : 'transparent', fg: isOn ? '#FBFAF6' : '#645F53', bd: isOn ? '#2B4C8C' : '#C9C0AC',
+            dis: edited != null, tip: edited != null ? 'Edited by hand — Reset to use the blocks again' : (isOn ? 'Leave this block out' : 'Put this block in'),
+            go: () => this.saveDraft('poff', selId, isOn ? off.concat([b[0]]) : off.filter((k) => k !== b[0])),
+          };
+        }),
+        info: text.length.toLocaleString('en-US') + ' characters · ' + text.split(/\s+/).filter(Boolean).length + ' words' + (edited != null ? ' · edited by hand' : ''),
+        dirty: edited != null || !!ask || off.length > 0, edited: edited != null,
+        reset: () => { this.saveDraft('pedit', selId, null); this.saveDraft('pask', selId, null); this.saveDraft('poff', selId, null); },
+        copy: () => this.copy('pe:' + selId, text),
+        copyLabel: copied ? 'Copied ✓' : failedCopy ? 'Copy blocked here — select the text' : 'Copy prompt',
+        save: () => this.download('start-prompt-' + selId + '.md', text),
+      };
+      now.web = this.routable();
       now.selftests = held + ' held · ' + failed + ' failed · ' + (D.selftests.length - held - failed) + ' not run in this container';
       now.stDot = failed ? '#B0341E' : '#2B4C8C';
     }
@@ -727,18 +848,18 @@ class Component extends DCLogic {
         const agendaSecs = [];
         if (D.agenda.decided && D.agenda.decided.length) agendaSecs.push([['Decided so far'], -1, '', [['p', D.agenda.decided]]]);
         agendaSecs.push([['The novel — where the sources disagree'], -1, '', [['tb', [[''], ['question'], ['the positions (source, date)']], rowsT, 'lll', 'minmax(0, 0.45fr) minmax(0, 1.5fr) minmax(0, 3fr)']]]);
-        agendaSecs.push([['The novel — what no source settles'], -1, '', [['ul', D.agenda.unsettled]]]);
-        agendaSecs.push([['The process — the author’s call'], -1, '', [['ul', D.agenda.process]]]);
+        if (D.agenda.unsettled.length) agendaSecs.push([['The novel — what no source settles'], -1, '', [['ul', D.agenda.unsettled]]]);
+        agendaSecs.push([['Questions for the author'], -1, '', [['ol', D.agenda.process]]]);
         rd = {
           kicker: 'NOW.md · Questions for the author — noted, not waited on', title: 'Everything waiting on the author', tsz: 40,
           hasSub: true, sub: 'Every open question, with where it came from. The work continues without waiting for the answer; when one arrives it is recorded where the question lives.',
-          chips: [this.chip(rowsT.length + ' open conflicts', 'rubric'), this.chip(D.agenda.unsettled.length + ' unsettled'), this.chip(D.agenda.process.length + ' about the process')],
+          chips: [this.chip(rowsT.length + ' open conflicts', 'rubric'), this.chip(D.agenda.process.length + ' questions in NOW.md')],
           secs: this.secs(null, agendaSecs, uid + '-ag'), maxW: 760, key: 'agenda',
         };
         qr.isAgenda = true;
         qr.decided = this.runs(D.agenda.decided);
         qr.intro = this.runs(D.agenda.intro);
-        qr.counts = rowsT.length + ' conflicts, ' + D.agenda.unsettled.length + ' questions about the novel, ' + D.agenda.process.length + ' about the process';
+        qr.counts = rowsT.length + ' conflicts, ' + D.agenda.process.length + ' questions in NOW.md';
       } else {
         const x = D.questions[sel];
         rd = {
@@ -1113,6 +1234,13 @@ class Component extends DCLogic {
       this._lastRoute = h;
       this._fromUrl = false;
     }
+    // A session opened by its address or its card is brought into view inside the panel.
+    const sess = this.st().sess;
+    if (sess && sess !== this._sessShown && typeof document !== 'undefined') {
+      const el = document.getElementById('kp-' + (this.props.screen || 'main') + '-sess-' + sess);
+      if (el && el.scrollIntoView) el.scrollIntoView({ block: 'nearest' });
+    }
+    this._sessShown = sess;
     if (this._reader && this._rdKey !== this._rdShown) {
       this._reader.scrollTop = 0;
       // Narrow screens scroll the page, not the reader pane (the media query in ui.html): a new
