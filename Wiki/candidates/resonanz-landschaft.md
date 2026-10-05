@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C11
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -55,6 +55,12 @@ The report gives KW2 as „Die fluide Welt der Emotionen und Erinnerungen, über
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — KW2, Mnemosyne's domain, emotional memory and trauma
 
 KW2 is „Domäne von Mnemosyne“ ^[system-kael-konzeptentwicklung-und-analyse.md:L161], the world of emotional memory and trauma, of the child EPs „und ihrer unverarbeiteten Schmerzzustände“ ^[system-kael-konzeptentwicklung-und-analyse.md:L161]; „Ihre fluide, instabile und emotional reaktive Natur“ ^[system-kael-konzeptentwicklung-und-analyse.md:L161] is read as the visualisation of traumatic memory.
+
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — KW2's scene
+
+A light pass: the outline restates `scifi-roman-mit-ki-schreiben`, its only named source (L287), which is already read on this page; this reading holds only what the outline adds, its scene for the world.
+
+The outline makes KW2 „eine fluide, instabile und emotional reaktive“ ^[roman-outline-system-kael.md:L80] trauma landscape, „surreal und melancholisch“ ^[roman-outline-system-kael.md:L80]; its sound is „Echos, Flüstern und unterdrücktem Weinen“ ^[roman-outline-system-kael.md:L82], and the surroundings hold Kael „in schmerzhaften Trauma-Loops gefangen“ ^[roman-outline-system-kael.md:L82].
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the row KW2 Mnemosyne-Archipel, written under the Guardian-built name only
 
