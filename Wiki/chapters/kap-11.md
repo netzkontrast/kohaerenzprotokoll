@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -105,6 +105,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Encoding A: „MC · SP2 (Conscious) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L200]
 - Change 4 gives the chapter as „Kael spürt es kurz, AEGIS misst es als Anomalie“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L22].
 - The pacing section marks it: „Reveal-Spike Kap 11 (Mosaik-Ahnung)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L366].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Das Mosaik des Selbst
+
+Title: „Das Mosaik des Selbst“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L311]
+Position: Akt I; POV: „POV: Kael (mit Einwürfen von Lex und Selene).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L319]
+
+- Story: the outline plans „begreift das System als potenzielles Mosaik“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L317]
+- Story: the outline plans „Funktionale Multiplizität erfordert parakonsistente Logik“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L317]
+- Concepts: „Funktionale Multiplizität, Mosaik-Herz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L315]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
