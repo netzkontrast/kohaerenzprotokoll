@@ -339,3 +339,11 @@ Stands: the outline of 2026-05-01 takes no position on the first appearance as a
 „In Kapitel 33/34 betritt Juna den Raum, wird aber durch absolute Exklusions-Deskription geschrieben.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] The room reacts to „ein plötzliches gravitationsähnliches Zentrum“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93] and „der Text benennt sie nie direkt“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L93]
 
 Stands: one appearance in Kap 33/34, as the report proposes it; it names no later appearance.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline
+
+**The outline lets Juna be present from Kap 4, as an indirect touch, and enters her undescribed in Kap 33.**
+
+The blurb names her without a chapter: „eine stumme, paradoxe Präsenz namens Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L17] The first chapter block that carries her is Kap 4, where Kael receives „die erste indirekte Berührung durch Juna“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L115] The Kap 4 concept line is „Moonshine-Link, Phantom-Resonanz, Juna.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L113] Kap 33 plans her entrance: „Dann betritt Juna den Raum. Sie wird nicht beschrieben.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L976]
+
+In the record's terms: the outline has no scene it calls her first direct appearance; it gives an indirect touch in Kap 4 and an undescribed entrance in Kap 33, and decides nothing.
