@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -51,6 +51,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Die Erzählung wechselt kurz zu einer abstrakten Darstellung von AEGIS' Überwachungsprozess.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42]
 - Story: „'nicht-kritische Abweichungen' oder 'unterschwelliges emotionales Rauschen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42] · „Es wird keine sofortige Aktion ausgelöst, aber die Daten werden protokolliert und korreliert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42]
 - Discussion: „es sieht Syntax, keine Semantik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L43]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The guardians of the threshold
+
+Title: „Die Wächter der Schwelle“ ^[romanstruktur-und-philosophische-einleitung.md:L45]
+Position: Teil I, „Identifikation des“ ^[romanstruktur-und-philosophische-einleitung.md:L45]
+
+- Story: the Guardians are introduced as Managers in IFS terms, parts „deren Aufgabe es ist, das System funktionstüchtig zu halten“ ^[romanstruktur-und-philosophische-einleitung.md:L47]
+- Story: the periphery of KW1 turns into the domain of Cerberus: „Cerberus steht für Abwehrmechanismen, Paranoia und rigide Grenzen.“ ^[romanstruktur-und-philosophische-einleitung.md:L49]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
