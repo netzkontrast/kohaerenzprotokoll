@@ -113,3 +113,11 @@ Stands as exactly this: a functional component made of the processing capacities
 The fragment sees itself as „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L125], „definiert durch ihre Funktion“ ^[optimierte-plotline-genesis-der-existenz.md:L125], and the line gives as example „Grenzanalyse-Einheit Delta“ ^[optimierte-plotline-genesis-der-existenz.md:L125]. Scene 8's goal writes the number after the Ursprungs-Ich: „im Ursprungs-Ich (Komponente 734)“ ^[optimierte-plotline-genesis-der-existenz.md:L180].
 
 Where it stands in the record's own terms: it answers by function and by the parenthesis, never by what the bare number labels in the world; the question stays open.
+
+## 2026-10-05 — `uberarbeitete-optimierte-plotline-genesis-der-existenz`, 2025-04-29, the plotline's Version 2
+
+**Version 2 names Komponente 734 as a functional unit, with an example, and gives it a latent signature.**
+
+Scene 5 is „Komponente 734“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L73], and its first beat gives the identity „Wahrnehmung als Funktionseinheit (z.B. Grenzanalyse Delta).“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L80] The signature is the one the entity resonates with: „mit der latenten Signatur von Komponente 734 auf (dem Echo der Unvollständigkeit)“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L119].
+
+Where it stands in the record's own terms: it answers by function and signature, never by what the bare number labels in the world; the question stays open.
