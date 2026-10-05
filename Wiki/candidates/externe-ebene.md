@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -48,6 +48,12 @@ Kap 3 plans „Setzt den emotionalen Hook und das Mysterium der“ ^[kohaerenz-p
 The report's table of the Kernwelten gives the `Externe Ebene` as „Köln, Februar 2026. Mysteriös, chaotisch, unvorhersehbar“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56] (Karneval is its example), which „Entzieht sich der algorithmischen Kontrolle von AEGIS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56]; its row in the third column reads „Reale Welt / Basis der KPTBS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L56].
 
 In Leitfrage 8 the report proposes, as scene logic, that „Kael durchbricht die Rendering-Grenzen und erwacht in Köln, Februar 2026“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]; the Externe Ebene is „Die Externe Ebene ist zutiefst gleichgültig gegenüber seinem Zustand“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]. The Teil III plot has him there recognise „wo er die schockierende Realität seiner KPTBS und DIS im Kontext der realen Juna erkennt“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L29].
+
+## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Köln as the base reality (W-06) and open question 3
+
+The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
+
+Row W-06, `Externe Ebene (Köln)` (three stars): „Basisrealität, in der Kael physisch mit KPTBS, ADHS und DIS existiert, betreut von Juna.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L83] Open question 3 asks: „Wie genau interagieren Kael und Julia (Juna/V) physisch in der Basisrealität“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L122].
 
 ## Where the sources differ
 
