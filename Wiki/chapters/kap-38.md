@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -46,6 +46,14 @@ Position: Teil III, „Parakonsistenter AEGIS“ ^[romanstruktur-und-philosophis
 
 - Story: „Der Antagonist AEGIS wird transformiert, nicht zerstört.“ ^[romanstruktur-und-philosophische-einleitung.md:L276]
 - Story: „Eine Symbiose aus Ordnung und Entropie“ ^[romanstruktur-und-philosophische-einleitung.md:L276]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die neue Architektur
+
+Title: „Die neue Architektur“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L362]
+Position: Teil III; setting from the `Schauplatz` field: „Kaels innere Welt (Das Ratszimmer)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L364]
+
+- Cast: the `Charaktere/Linsen` field lists „Das System Kael (Lex, Nyx, Kiko, etc.)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L365]
+- Story: the blueprint plans, in `Plot-Beats`, „Ein Blick in Kaels nun vollständig integrierte, funktionale Psyche“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L367] and „Die Alters sitzen gemeinsam an einem Tisch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L367]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
