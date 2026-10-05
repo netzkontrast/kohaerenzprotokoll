@@ -1,0 +1,92 @@
+{
+  "document": "roman-outline-transformation-in-keyword-tags",
+  "drive_id": "10KCBpSEnyWIF3zQ7FfndeOUhsxqKoEICnRqoP8tgI08",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 170,
+    "decisions": 217,
+    "decided_by_lookup": 105,
+    "needs_judgement": 112
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "kael",
+      "lines": [
+        99,
+        309,
+        362,
+        554
+      ],
+      "attribution": "",
+      "note": "Kael as Protagonistin in glossary tags"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C17"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 256,
+      "decision": "reading",
+      "why": "light pass: a tag version of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 39,
+      "decision": "reading",
+      "why": "light pass: a tag version of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 241,
+      "decision": "reading",
+      "why": "light pass: a tag version of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 126,
+      "decision": "reading",
+      "why": "light pass: a tag version of the plan of document 97, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

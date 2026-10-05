@@ -1,0 +1,231 @@
+# counts for 181 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           144 word   181 in   [15, 19, 20, 21, 22, 23]
+                                    9      as AEGIS-Überwelt
+                                    7      as AEGIS-System
+                                    6      as AEGIS-Systems
+                                    4      as AEGIS-Paradoxon
+  Kael                             61 word   169 in   [15, 16, 19, 35, 36, 38]  <-- substring
+                                   42      as Kaels
+                                   32      as Kael-System
+                                   21      as Kael-Systems
+                                   12      as Kael-Integration
+  Echo                              2 word     7 in   [145, 249, 363, 543, 596, 742]  <-- substring
+                                    5      as Echos
+  Kohärenz Protokoll                2 word     5 in   [11, 154, 331, 543, 742]  <-- substring
+  Kael-System                      32 word    53 in   [16, 40, 68, 70, 77, 80]
+                                   21      as Kael-Systems
+  Juna/V                           36 word    36 in   [39, 42, 129, 134, 154, 190]
+  Fundament                        11 word    18 in   [104, 129, 204, 233, 234, 235]
+                                    6      as fundamentalen
+                                    4      as Fundament-Kontakt
+                                    3      as Fundaments
+                                    1      as fundamentaleren
+  Konstrukt-Welt                   15 word    17 in   [58, 191, 264, 405, 406, 410]
+                                    2      as Konstrukt-Welten
+  Konstrukt-Welten                  2 word     2 in   [58, 264]
+  Konstrukt-Stadt                   1 word     1 in   [849]
+  Logos-Prime                       4 word     4 in   [191, 261, 405, 795]
+  Mnemosyne-Archipel                3 word     3 in   [262, 410, 1002]
+  Cerberus-Labyrinth                2 word     2 in   [259, 415]
+  Kairos-Potentialis                3 word     3 in   [260, 263, 417]
+  Resonanz-Landschaft               1 word     1 in   [1000]
+  KW1                              22 word    22 in   [101, 110, 148, 158, 161, 251]
+  KW2                              11 word    11 in   [102, 186, 187, 262, 318, 412]
+  KW3                               9 word     9 in   [78, 105, 119, 133, 209, 259]
+  KW4                              12 word    13 in   [100, 103, 139, 147, 260, 263]
+  Guardian LogOS                    2 word     2 in   [381, 851]
+  Guardian Cerberus                 2 word     2 in   [119, 378]
+  Guardian Mnemosyne                3 word     3 in   [382, 462, 1002]
+  Guardians                         2 word     2 in   [265, 266]
+  LogOS                            14 word    14 in   [135, 253, 381, 406, 435, 436]
+                                    4      as Logos-Prime
+  Mnemosyne                         9 word    15 in   [47, 109, 184, 210, 211, 262]
+                                    3      as Mnemosynes
+                                    3      as Mnemosyne-Archipel
+  Cerberus                          7 word     9 in   [119, 120, 259, 378, 414, 415]
+                                    2      as Cerberus-Labyrinth
+  Kairos                            1 word     4 in   [260, 263, 417, 418]  <-- substring
+                                    3      as Kairos-Potentialis
+  Sophia                            1 word     1 in   [418]
+  Überwelt                          2 word    11 in   [59, 60, 61, 62, 63, 64]  <-- substring
+  Host                              4 word     8 in   [151, 193, 281, 364, 640, 670]
+                                    2      as Host-Anteils
+                                    2      as Host-Anteil
+  Lex                              16 word    18 in   [341, 374, 394, 427, 428, 429]
+  Alex                             15 word    18 in   [16, 68, 69, 70, 277, 341]
+                                    2      as Alex-Anteils
+                                    1      as Alex-Anteil
+  Rhys                             15 word    18 in   [97, 159, 175, 194, 273, 341]
+                                    1      as Rhys-Anteils
+                                    1      as Rhys-Anteil
+  Argus                             2 word     4 in   [98, 99, 452, 456]
+                                    2      as Argus-Anteils
+  Nyx                               2 word     2 in   [16, 492]
+  Kiko                              3 word     4 in   [78, 367, 675, 1002]
+                                    1      as Kiko-Anteil
+  Lia                               0 word     1 in   [676]
+  Moros                             1 word     2 in   [677, 1002]
+                                    1      as Moros-Anteil
+  Selene                            7 word     9 in   [97, 143, 197, 356, 592, 593]
+                                    2      as Selenes
+  Beschützer-Anteil                 3 word     4 in   [68, 85, 583, 903]
+                                    1      as Beschützer-Anteils
+  Fürsorger-Anteil                  1 word     2 in   [616, 952]
+                                    1      as Fürsorger-Anteils
+  Anteile                          18 word    44 in   [44, 77, 80, 95, 96, 97]  <-- substring
+                                   25      as Anteilen
+                                    1      as Anteile-Kommunikation
+  ANP                               7 word    20 in   [83, 84, 164, 174, 175, 176]  <-- substring
+  ANPs                             12 word    12 in   [83, 84, 164, 175, 176, 339]
+  EP                                7 word    24 in   [78, 83, 84, 88, 90, 91]  <-- substring
+  EPs                              14 word    14 in   [78, 83, 84, 164, 174, 175]
+  Apparently Normal Parts           2 word     2 in   [83, 374]
+  Emotional Parts                   5 word     5 in   [83, 174, 175, 385, 674]
+  TSDP                              5 word    14 in   [75, 83, 84, 532, 634, 669]  <-- substring
+                                    7      as TSDP-Theorie
+                                    2      as TSDP-Modell
+  Risse                             3 word     3 in   [206, 505, 575]
+  Riss                              3 word     6 in   [81, 206, 505, 511, 574, 575]
+                                    3      as Risse
+                                    1      as risse
+  Kernparadoxon                    10 word    10 in   [28, 29, 33, 34, 36, 215]
+  Glitches                          3 word     3 in   [39, 252, 795]
+  Prolog                           16 word    17 in   [104, 122, 130, 150, 152, 153]
+                                    1      as Prologs
+  Genesis                           1 word     1 in   [740]
+  Der Glitch im Spiegel             1 word     1 in   [793]
+  Echos in der Konstrukt-Stadt      1 word     1 in   [849]
+  Der Schatten des Beschützers      1 word     1 in   [901]
+  Stimmen der Fürsorge              1 word     1 in   [950]
+  Der Ruf der Resonanz-Landschaft    1 word     1 in   [1000]
+  Glossar                           1 word     1 in   [13]
+  Plot Keywords                     6 word     6 in   [743, 796, 852, 904, 953, 1003]
+  Kael State Tags                   6 word     6 in   [744, 797, 853, 905, 954, 1004]
+  AEGIS State Tags                  6 word     6 in   [745, 798, 854, 906, 955, 1005]
+  Setting Tags                      6 word     6 in   [746, 799, 855, 907, 956, 1006]
+  Core Theme Tags                   6 word     6 in   [747, 800, 856, 908, 957, 1007]
+  Reader Experience Strategy        6 word     6 in   [748, 801, 857, 909, 958, 1008]
+  Konzept-Cluster                   9 word     9 in   [528, 546, 624, 667, 749, 802]
+  Konzept-Handling                  9 word     9 in   [292, 486, 540, 559, 762, 815]
+  Key Beats (Keywords)              5 word     5 in   [780, 836, 888, 937, 987]
+  Key Beat                          4 word     9 in   [122, 404, 543, 569, 780, 836]  <-- substring
+  Narrative Goals Summary Tags      5 word     5 in   [791, 847, 899, 948, 998]
+  Zusammenfassung (Mensch)          6 word     6 in   [742, 795, 851, 903, 952, 1002]
+  Plot Reflection                   0 word     2 in   [565, 600]
+  Research\_Keywords                1 word     1 in   [537]
+  NEU                              46 word    46 in   [388, 766, 767, 768, 769, 770]
+  REF                               2 word     2 in   [388, 828]
+  PROG                              5 word     5 in   [388, 881, 882, 932, 982]
+                                    1      as Progression
+  INNOVATION                        1 word     1 in   [388]
+  Beat                             24 word    29 in   [122, 404, 543, 569, 780, 784]
+                                    5      as Beats
+  Subplots                          7 word     8 in   [351, 387, 623, 757, 810, 866]
+  Foreshadowing                     8 word     9 in   [77, 356, 387, 595, 758, 811]
+                                    1      as Foreshadowing-Elemente
+  Philosophie                       8 word     8 in   [387, 457, 494, 753, 806, 862]
+  Psychologie                       6 word     6 in   [387, 754, 807, 863, 915, 964]
+  Trope                            70 word    72 in   [73, 114, 118, 124, 128, 131]
+  Symbol                           12 word    12 in   [143, 387, 423, 447, 613, 756]
+                                    1      as symbolischer
+  Keyword-/Tag-basiertes Outline    1 word     1 in   [11]
+  aegis\_paradoxon                 21 word    22 in   [26, 27, 28, 29, 30, 31]
+  aegis\_ueberwelt                  8 word     9 in   [58, 59, 60, 61, 62, 63]
+  aegis\_kern                       1 word     2 in   [20, 21]
+                                    1      as aegis\_kernlogik
+  aegis\_kernlogik                  1 word     1 in   [21]
+  aegis\_origin                     3 word     5 in   [25, 150, 743, 784, 791]
+  aegis\_motivation                 2 word     2 in   [24, 785]
+  aegis\_ueberlebensparadoxon       2 word     2 in   [57, 747]
+  aegis\_status\_emergent           1 word     1 in   [52]
+  aegis\_status\_final              1 word     1 in   [53]
+  aegis\_state\_tags                1 word     1 in   [50]
+  fragmentierung\_als\_kontrolle    2 word     2 in   [226, 769]
+  fehlausgerichtete\_kohaerenz      1 word     1 in   [215]
+  kohaerenz\_protokoll\_activation    4 word     4 in   [370, 743, 745, 787]
+  echo\_fragmentation               3 word     3 in   [145, 743, 787]
+  kael\_system\_birth               3 word     3 in   [363, 743, 787]
+  kael\_system\_host                2 word     2 in   [364, 819]
+  kael\_integration                29 word    29 in   [336, 337, 338, 339, 340, 341]
+  funktionale\_multiplizitaet       3 word     5 in   [239, 240, 241, 289, 345]
+  selene\_potenzial                 2 word     2 in   [596, 744]
+  anteil\_alex                      1 word     1 in   [85]
+  anteil\_argus                     1 word     1 in   [86]
+  anteil\_host                      1 word     1 in   [87]
+  anteil\_kiko                      1 word     1 in   [88]
+  anteil\_lex                       1 word     1 in   [89]
+  anteil\_lia                       1 word     1 in   [90]
+  anteil\_moros                     1 word     1 in   [91]
+  anteil\_nyx                       1 word     1 in   [92]
+  anteil\_rhys                      1 word     1 in   [93]
+  anteil\_selene                    1 word     1 in   [94]
+  guardian\_cerberus                1 word     1 in   [259]
+  guardian\_kairos                  1 word     1 in   [260]
+  guardian\_logOS                   2 word     2 in   [261, 876]
+  guardian\_mnemosyne               1 word     1 in   [262]
+  guardian\_sophia                  1 word     1 in   [263]
+  juna\_v                          19 word    23 in   [154, 319, 320, 321, 322, 323]
+  juna\_v\_trigger                  3 word     5 in   [154, 331, 743, 786, 791]
+  fundament\_kontakt                1 word     2 in   [236, 601]
+  kw1\_logos\_prime                 7 word     8 in   [406, 506, 798, 799, 820, 855]
+  kw2\_mnemosyne\_archipel          3 word     4 in   [411, 507, 1005, 1006]
+  kw3\_cerberus\_labyrinth          1 word     2 in   [414, 508]
+  kw4\_kairos\_potentialis          1 word     2 in   [418, 509]
+  kw\_konstrukt\_welt               1 word     1 in   [419]
+  nichts\_rauschen                  3 word     4 in   [488, 510, 746, 784]
+  ort\_nichts\_rauschen             1 word     1 in   [510]
+  externe\_resonanz                 4 word     4 in   [208, 743, 745, 786]
+  chaos\_to\_order                  2 word     2 in   [123, 743]
+  chaos\_geburt                     1 word     1 in   [122]
+  krise\_kontrolle                  1 word     1 in   [404]
+  resonanz\_trigger                 1 word     1 in   [569]
+  protokoll\_fragmentierung         1 word     1 in   [543]
+  gaslighting                       1 word     3 in   [43, 243, 408]  <-- substring
+  panoptismus                       7 word     7 in   [517, 518, 519, 796, 798, 830]
+  unreliable\_narrator              5 word     8 in   [193, 640, 690, 801, 808, 823]
+  glitch\_in\_matrix                3 word     3 in   [250, 808, 822]
+  unsichtbarer\_kaefig              3 word     3 in   [692, 800, 829]
+  anteile\_koordination             1 word     1 in   [97]
+  ko\_bewusstsein                   1 word     1 in   [398]
+  switches                          1 word     1 in   [634]
+  shift                             5 word     5 in   [600, 601, 602, 603, 604]
+  plot\_keywords                    1 word     1 in   [536]
+  konzept\_handling                 1 word     1 in   [388]
+  konzept\_cluster                  1 word     1 in   [387]
+  key\_beats                        1 word     1 in   [366]
+  zusammenfassung\_mensch           1 word     1 in   [733]
+  tag\_basiert                      1 word     1 in   [635]
+  informationsverdichtung\_ki       1 word     1 in   [291]
+  menschliche\_lesbarkeit\_sekundaer    1 word     1 in   [450]
+  struktur\_praegnanz               1 word     1 in   [621]
+  Dysregulation                     2 word     2 in   [952, 991]
+  Ko-Bewusstheit                    1 word     1 in   [295]
+  Gaslighting                       4 word     4 in   [168, 408, 431, 708]
+  Cosmic Horror                     2 word     2 in   [129, 130]
+  Hard SF                           0 word     3 in   [270, 271, 272]  <-- substring
+  Archetyp                          3 word     4 in   [642, 648, 654, 667]
+                                    1      as Archetypen
+  Heldenreise                       4 word     4 in   [131, 275, 641, 654]
+  Kybernetik zweiter Ordnung        1 word     1 in   [224]
+  Panoptismus                       1 word     1 in   [519]
+  Thomas Kuhns                      1 word     1 in   [82]
+  David Humes                       2 word     2 in   [282, 283]
+  Foucault                          1 word     1 in   [517]
+  Niklas Luhmanns                   1 word     1 in   [443]
+  Heinz von Foersters               1 word     1 in   [224]
+  Gödels                            1 word     1 in   [253]
+  Bertrand Russells                 1 word     1 in   [579]
+  Immanuel Kants                    1 word     1 in   [254]
+  Jean-Paul Sartres                 2 word     2 in   [201, 580]
+  Derek Parfits                     1 word     1 in   [524]
+  John Lockes                       1 word     1 in   [434]
+  Karl Poppers                      1 word     1 in   [520]
+  Martin Bubers                     1 word     1 in   [116]
+  Thomas Hobbes'                    1 word     1 in   [277]
+  Emmanuel Levinas'                 1 word     1 in   [426]
+  Aristoteles'                      1 word     1 in   [100]
+  mauvaise foi                      1 word     1 in   [580]

@@ -1,0 +1,14 @@
+# roman-outline-transformation-in-keyword-tags
+  lines                1009  (frontmatter ends at 9)
+  body words           12583
+  headings             8   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       15
+  backslash escapes    1708
+  typographic marks    1   ascii quotes 24
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    18
+  repeated labels      AEGIS State Tags x6, Core Theme Tags x6, Kael State Tags x6, Plot Keywords x6, Reader Experience Strategy x6, Setting Tags x6, Zusammenfassung (Mensch) x6, Key Beats (Keywords) x5, Konzept-Cluster x5, Konzept-Handling x5, Narrative Goals Summary Tags x5
+  longest line         437 chars
+

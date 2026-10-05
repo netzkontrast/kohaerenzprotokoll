@@ -1,0 +1,68 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py roman-outline-transformation-in-keyword-tags --count "NEU"
+whole word, case-sensitive     46
+whole word, case-insensitive   49
+including compounds            46
+
+`NEU` ^[roman-outline-transformation-in-keyword-tags.md:#46]
+
+$ python3 scripts/read.py roman-outline-transformation-in-keyword-tags --count "REF"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`REF` ^[roman-outline-transformation-in-keyword-tags.md:#2]
+
+$ python3 scripts/read.py roman-outline-transformation-in-keyword-tags --count "PROG"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`PROG` ^[roman-outline-transformation-in-keyword-tags.md:#5]
+
+$ python3 scripts/read.py roman-outline-transformation-in-keyword-tags --count "INNOVATION"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`INNOVATION` ^[roman-outline-transformation-in-keyword-tags.md:#1]
+
+$ python3 scripts/read.py roman-outline-transformation-in-keyword-tags --count "Zusammenfassung (Mensch)"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Zusammenfassung (Mensch)` ^[roman-outline-transformation-in-keyword-tags.md:#6]
+
+$ python3 scripts/read.py roman-outline-transformation-in-keyword-tags --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            11
+
+`Überwelt` ^[roman-outline-transformation-in-keyword-tags.md:#2]
+
+$ python3 scripts/read.py roman-outline-transformation-in-keyword-tags --count "Plot Reflection"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Plot Reflection` ^[roman-outline-transformation-in-keyword-tags.md:#0]
+
+$ python3 scripts/read.py roman-outline-transformation-in-keyword-tags --count "Hard SF"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Hard SF` ^[roman-outline-transformation-in-keyword-tags.md:#0]
+
+$ python3 scripts/read.py roman-outline-transformation-in-keyword-tags --count "Lia"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Lia` ^[roman-outline-transformation-in-keyword-tags.md:#0]
+
+stance_marker_count 54 = NEU 46 + REF 2 + PROG 5 + INNOVATION 1 (case-sensitive whole word, from the counts above)
+# profile numbers (01-profile.txt, python3 scripts/capture.py): question marks 15, backslash escapes 1708, glued ref numbers 18, ascii quotes 24
+$ grep -no "[^ ]*[^ ]\{0,30\}?" Sources/drive/roman-outline-transformation-in-keyword-tags.md  -> 15 hits at L143 L180 L208 L590 L742 L906 L919 L955(x2) L993 L1002 L1004(x4)
+$ grep -nP "(?<![\w-])Überwelt(?![\w-])" ... -> L146 L395

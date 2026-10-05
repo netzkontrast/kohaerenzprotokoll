@@ -1,0 +1,293 @@
+{
+  "document": "roman-outline-transformation-in-keyword-tags",
+  "drive_id": "10KCBpSEnyWIF3zQ7FfndeOUhsxqKoEICnRqoP8tgI08",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 18,
+  "backslash_escapes": 1708,
+  "typographic_marks": 1,
+  "ascii_quotes": 24,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalysen",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemmanipulation",
+      "Systemrisse",
+      "Systems",
+      "Systemschwächen",
+      "Systemtheorie",
+      "Systemwissen"
+    ],
+    "kontr": [
+      "Kontroll",
+      "Kontrollarchitektur",
+      "Kontrollbereich",
+      "Kontrolle",
+      "Kontrollen",
+      "Kontrollfähigkeit",
+      "Kontrollmechanismen",
+      "Kontrollmöglichkeiten",
+      "Kontrollregeln",
+      "Kontrollstrategie",
+      "Kontrollumgebung"
+    ],
+    "handl": [
+      "Handling",
+      "Handlung",
+      "Handlungen",
+      "Handlungselement",
+      "Handlungselemente",
+      "Handlungsfähigkeit",
+      "Handlungslinie",
+      "Handlungsmuster",
+      "Handlungsort",
+      "Handlungsweise"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbild",
+      "Selbstdisziplinierung",
+      "Selbstgefährdung",
+      "Selbstprüfung",
+      "Selbstreflexion",
+      "Selbsttäuschung",
+      "Selbstverteidigung",
+      "Selbstwerdung",
+      "Selbstzweifel"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensgeschichte",
+      "Lebenssinn",
+      "Lebensweg",
+      "Lebensweisen",
+      "Lebenswelt"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinssystem",
+      "Bewusstseinszuständen",
+      "Bewusstwerdung"
+    ],
+    "haupt": [
+      "Haupthandlung",
+      "Hauptkonflikt",
+      "Hauptkonflikts",
+      "Hauptmotivation",
+      "Hauptplot",
+      "Hauptziel"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsmuster",
+      "Interdisziplinäres",
+      "Interne",
+      "Interner"
+    ],
+    "verst": [
+      "Verstandes",
+      "Verstehen",
+      "Verstehens",
+      "Verständigung",
+      "Verständnis",
+      "Verständnisses"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charakters"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entscheidungen",
+      "Entscheidungsprozesse",
+      "Entscheidungspunkt",
+      "Entscheidungssituation"
+    ],
+    "gefüh": [
+      "Gefühl",
+      "Gefühle",
+      "Gefühlen",
+      "Gefühls",
+      "Gefühlsfragmenten"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konflikts",
+      "Konflikttreiber"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentialität",
+      "Potenzial",
+      "Potenzials"
+    ],
+    "reali": [
+      "Realisierung",
+      "Realität",
+      "Realitäten",
+      "Realitätsebene",
+      "Realitätswahrnehmung"
+    ],
+    "unter": [
+      "Unterbewusstseins",
+      "Untergang",
+      "Unterscheidung",
+      "Unterstützung",
+      "Untersuchung"
+    ],
+    "verha": [
+      "Verhalten",
+      "Verhaltensmuster",
+      "Verhaltensvorschriften",
+      "Verhaltensweisen",
+      "Verhandlung"
+    ],
+    "zusam": [
+      "Zusammenarbeit",
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenfassung",
+      "Zusammenhang"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "emoti": [
+      "Emotional",
+      "Emotionale",
+      "Emotionen",
+      "Emotionslosigkeit"
+    ],
+    "erken": [
+      "Erkennbarkeit",
+      "Erkenntnis",
+      "Erkenntnisfähigkeit",
+      "Erkenntnisse"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählstruktur",
+      "Erzählung",
+      "Erzählweise"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionsweise"
+    ],
+    "gehei": [
+      "Geheimnis",
+      "Geheimnisse",
+      "Geheimnissen",
+      "Geheimnisses"
+    ],
+    "ident": [
+      "Identifizieren",
+      "Identifizierens",
+      "Identität",
+      "Identitätsstruktur"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Ende",
+      "Enden"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Wendepunkte"
+    ],
+    [
+      "Ende",
+      "Tiefgreifende"
+    ],
+    [
+      "Enge",
+      "Mengenlehre"
+    ],
+    [
+      "Feld",
+      "Vorfeld"
+    ],
+    [
+      "Form",
+      "Format"
+    ],
+    [
+      "Form",
+      "Seinsform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationskodierung"
+    ],
+    [
+      "Held",
+      "Helden"
+    ],
+    [
+      "Held",
+      "Heldenreise"
+    ],
+    [
+      "Hume",
+      "Humes"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernlogik"
+    ]
+  ]
+}
