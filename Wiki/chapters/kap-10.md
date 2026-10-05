@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,14 @@ Position: Teil I, „Der Konflikt um Annahme“ ^[romanstruktur-und-philosophisc
 
 - Story: „Die beginnende Heilung ruft paradoxerweise neuen, heftigen Widerstand hervor.“ ^[romanstruktur-und-philosophische-einleitung.md:L97]
 - Story: „Kael muss als Mediator agieren.“ ^[romanstruktur-und-philosophische-einleitung.md:L99]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die angewandte Harmonie
+
+Title: „Die angewandte Harmonie“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L131]
+Position: Teil I; setting from the `Schauplatz` field: „Kairos-Potentialis (KW4)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L133]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna, Kairos (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L134]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael und Juna teilen einen wortlosen Austausch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L136] and „AEGIS-Protokolle greifen gewaltsam ein, trennen Kael von Juna und reißen ihn zurück in die Sterilität von KW1“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L136]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
