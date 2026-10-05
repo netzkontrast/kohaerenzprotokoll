@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -58,6 +58,14 @@ Position: Teil II, „Dekonstruktion“ ^[romanstruktur-und-philosophische-einle
 
 - Story: „Er erkennt, dass sie keine bewussten Wesen, sondern Subroutinen und Algorithmen von AEGIS sind“ ^[romanstruktur-und-philosophische-einleitung.md:L150]
 - Story: „Es ist eine Phase der Entmystifizierung der eigenen Hölle.“ ^[romanstruktur-und-philosophische-einleitung.md:L152]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Begegnung mit dem Paria
+
+Title: „Die Begegnung mit dem Paria“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L174]
+Position: Teil II; setting from the `Schauplatz` field: „Die Schattenebene von KW2 (Mnemosyne-Archipel)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L176]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Nox (Persecutor/Verfolger), AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L177]
+- Story: the blueprint plans, in `Plot-Beats`, „Unter dem extremen Stress von AEGIS regrediert Kael und fällt in eine traumatische Endlosschleife“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L179] and „Kael erkennt, dass Nox eine fehlgeleitete Schutzfunktion erfüllt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L179]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
