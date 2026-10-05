@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -64,6 +64,14 @@ Position: Teil I, „Der Ruf der Teile“ ^[romanstruktur-und-philosophische-ein
 
 - Story: „Aus der starren Isolation erwächst eine verzweifelte, fast magnetische Sehnsucht nach Ganzheit.“ ^[romanstruktur-und-philosophische-einleitung.md:L91]
 - Story: the place of the assembly is hedged with `vielleicht`: „Das Kapitel beschreibt eine interne Versammlung, vielleicht an einem neu entstehenden“ ^[romanstruktur-und-philosophische-einleitung.md:L93] safe place in KW4
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der verwilderte Garten
+
+Title: „Der verwilderte Garten“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L123]
+Position: Teil I; setting from the `Schauplatz` field: „Kairos-Potentialis (KW4) – Welt des ungeplanten Wachstums“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L125]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna/V (Echo)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L126]
+- Story: the blueprint plans, in `Plot-Beats`, „Kael entflieht dem Therapie-Protokoll durch eine Systemlücke und bricht nach KW4 durch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L128] and „Hier nimmt er Juna/V zum ersten Mal nicht als Hologramm, sondern als reale, externe Präsenz wahr“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L128]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
