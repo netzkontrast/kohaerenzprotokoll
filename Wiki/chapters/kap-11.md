@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -77,6 +77,14 @@ Position: Teil I; setting from the `Schauplatz` field: „Ruinen der gelöschten
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Index, AEGIS-Parser“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L142]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael forscht in gelöschten Speicherbänken nach dem Ursprung von Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144] and „Kael nimmt die Existenz all seiner Alters (die TSDP-Fragmente) erstmals bewusst als Überlebensmechanismus an, anstatt sie zu fürchten“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das zweite Echo
+
+Title: „Das zweite Echo“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L141] — heading „Die Resonanz der Anomalie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L142]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (verzweifelt, suchend)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L143]; place from `Ort`: „Das Auge des Sturms in KW2“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L145]
+
+- Story: the matrix plans „Kael droht zu ertrinken (metaphorisch/physisch). Juna leitet ihn durch Resonanz, nicht durch Worte, an einen sicheren Ort“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L147]
+- Question: „Kann Verbundenheit die Isolation der Fragmentierung durchbrechen?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L146]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
