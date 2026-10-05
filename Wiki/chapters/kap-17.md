@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -87,6 +87,14 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Im Mosaik-Innenraum: Streit“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232]; „AEGIS schickt elektrische Feedback-Loops in das Substrat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232]
 - Pacing: „Polyphonie-Bruch in jedem Absatz“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — AEGIS's Misalignment
+
+Title: „AEGIS's Misalignment“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L495]
+Position: Akt II; POV: „POV: AEGIS (Systemprotokolle).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L503]
+
+- Story: the outline plans „interpretiert die Integration der Alters als Vorboten des absoluten entropischen Kollapses“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L501]
+- Concepts: „Algorithmische Melancholie (Prä-Stadium), Kohärenztheorie der Wahrheit“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L499]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
