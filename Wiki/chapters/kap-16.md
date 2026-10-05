@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,6 +39,14 @@ Position: „Trauma & NET (Mustererkennung) / IFS (Funktion der Vermeidung)“ ^
 - Story: from inside the Bunker of Kapitel 15, Kael recognises the retreat as a recurring survival pattern and meets it with compassion rather than fighting it, „Mitgefühl. Das war das Gefühl, das nun im Zentrum des Selbst aufstieg.“ ^[kohaerenz-protokoll.md:L1692], which lets the Juna-resonance reach him again and leads him to a plan for a resonance-based, not a purely logical or avoidant, protocol, „Er brauchte ein neues Protokoll. Kein rein logisches, kein rein vermeidendes.“ ^[kohaerenz-protokoll.md:L1742]
 - Close: the chapter ends the first cycle, „Der erste Zyklus war fast abgeschlossen. Der Bruch war geschehen. Der Rückfall war erkannt und überwunden.“ ^[kohaerenz-protokoll.md:L1748]
 - Voice: third person on Kael; his inner Anteile (Manager, Kind, Schatten, Selbst) speak in italics.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Archäologie der Seele: Gezielte Erinnerungssuche in
+
+Title: the commission titles the chapter „Die Archäologie der Seele: Gezielte Erinnerungssuche in“ ^[kontext-outline.md:L245], placed in Act 2.
+
+- Theme: the commission's `Core Theme` is „Kampf gegen Mnemosyne; Authentizität vs. Manipulation“ ^[kontext-outline.md:L247]
+- Story: its `Plot Summary` plans „sucht gezielt echte vs. manipulierte Erinnerungen“ ^[kontext-outline.md:L248]
+- Foci: `Kael Sys Focus` „Bewusste Trauma-Verarbeitung/Erinnerungsrekonstruktion“ ^[kontext-outline.md:L249]; `AEGIS Focus` „Mnemosyne verteidigt Domäne“ ^[kontext-outline.md:L250]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
