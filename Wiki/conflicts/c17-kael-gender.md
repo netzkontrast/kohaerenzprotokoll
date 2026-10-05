@@ -54,3 +54,11 @@ Stands as a seventh source of the table: a plan of 2025-05-04 with Kael female (
 Its premise sentence reads „System Kael – einer Protagonistin“ ^[roman-konzept-kohaerenz-protokoll.md:L17], with the identity „deren Identität durch Trauma nach Prinzipien der Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP) fragmentiert ist“ ^[roman-konzept-kohaerenz-protokoll.md:L17]. The word is the document's own; the plan says nothing about why Kael is female, and the possessive forms `Ihre` ^[roman-konzept-kohaerenz-protokoll.md:#1] and `ihre` ^[roman-konzept-kohaerenz-protokoll.md:#4] stand elsewhere in the text (I did not check each for its referent).
 
 Stands as an eighth source of the table: a plan of 2025-05-03 with Kael female, the same day as row 1; recorded, not applied.
+
+## 2026-10-05 — `roman-outline-transformation-in-keyword-tags`, 2025-05-03, the tag outline
+
+**The tag outline, a keyword-tag version of the P+39 plan of 2025-05-03, writes Kael as a Protagonistin in its glossary and gives no reason.**
+
+Its glossary entry for `kael\_system` reads „Die Bezeichnung für die Protagonistin als multiples Bewusstseinssystem“ ^[roman-outline-transformation-in-keyword-tags.md:L362], with `sie` in „Die Erkenntnis von Kael, dass sie aus mehreren verschiedenen Anteilen besteht“ ^[roman-outline-transformation-in-keyword-tags.md:L309] and `ihre` in „Mitgefühl für Kael zu wecken, indem der Leser ihre anfängliche Verwirrung teilt“ ^[roman-outline-transformation-in-keyword-tags.md:L554]. The document says nothing about why Kael is female.
+
+Stands as a ninth source of the table: a plan of 2025-05-03 with Kael female, the same day as row 1; recorded, not applied.
