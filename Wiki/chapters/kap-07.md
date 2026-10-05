@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,13 @@ Position: „(Fundamentales Konzept: Monstrous Moonshine / K-J Verbindung (Bewus
 - Juna's presence, sustained: „Sie war da. Sie war immer da gewesen, hinter der Mauer, im Echo, im goldenen Licht.“ ^[kohaerenz-protokoll.md:L829]
 - The support named: „Die Unterstützung war da.“ ^[kohaerenz-protokoll.md:L847]
 - Kael and M: „Er war ein Fragment von M, verbunden mit Juna durch einen unerklärlichen Link“ ^[kohaerenz-protokoll.md:L853]
+
+## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Glitching Market
+
+Title: „Der Glitching Market“ ^[roman-outline-system-kael.md:L145]
+Position: Teil III, KW3
+
+- Story: fleeing KW2, Kael reaches the Glitching Market, „einen Ort des Misstrauens, des Schwarzhandels mit korrumpierten Informationen und der Paranoia“ ^[roman-outline-system-kael.md:L145].
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
