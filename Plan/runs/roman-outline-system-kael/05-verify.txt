@@ -1,0 +1,103 @@
+$ python3 scripts/read.py roman-outline-system-kael --count "Set the Scene"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Set the Scene` ^[roman-outline-system-kael.md:#4]
+$ python3 scripts/read.py roman-outline-system-kael --count "Plot Progression & Systemic Reaction"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Plot Progression & Systemic Reaction` ^[roman-outline-system-kael.md:#4]
+$ python3 scripts/read.py roman-outline-system-kael --count "Thematische Resonanz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Thematische Resonanz` ^[roman-outline-system-kael.md:#4]
+$ python3 scripts/read.py roman-outline-system-kael --count "möglicherweise"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`möglicherweise` ^[roman-outline-system-kael.md:#2]
+$ python3 scripts/read.py roman-outline-system-kael --count "könnte"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`könnte` ^[roman-outline-system-kael.md:#1]
+$ python3 scripts/read.py roman-outline-system-kael --count "Dr. Thorne"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Dr. Thorne` ^[roman-outline-system-kael.md:#3]
+$ python3 scripts/read.py roman-outline-system-kael --count "Ext. Schnittstelle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ext. Schnittstelle` ^[roman-outline-system-kael.md:#1]
+$ python3 scripts/read.py roman-outline-system-kael --count "Kontrolle vs. Akzeptanz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kontrolle vs. Akzeptanz` ^[roman-outline-system-kael.md:#1]
+$ python3 scripts/read.py roman-outline-system-kael --count "Logik vs. Resonanz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Logik vs. Resonanz` ^[roman-outline-system-kael.md:#1]
+$ python3 scripts/read.py roman-outline-system-kael --count "Fragmentierung vs. Ganzheit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fragmentierung vs. Ganzheit` ^[roman-outline-system-kael.md:#1]
+$ python3 scripts/read.py roman-outline-system-kael --count "DID"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`DID` ^[roman-outline-system-kael.md:#0]
+$ python3 scripts/read.py roman-outline-system-kael --count "Lia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lia` ^[roman-outline-system-kael.md:#1]
+$ python3 scripts/read.py roman-outline-system-kael --count "Wächter"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            11
+
+`Wächter` ^[roman-outline-system-kael.md:#7]
+$ python3 scripts/read.py roman-outline-system-kael --count "Echo/Kiko"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Echo/Kiko` ^[roman-outline-system-kael.md:#1]
+$ python3 scripts/read.py roman-outline-system-kael --count "Guardian Blind Spot"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardian Blind Spot` ^[roman-outline-system-kael.md:#1]
+$ python3 scripts/read.py roman-outline-system-kael --count "Kaels"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`Kaels` ^[roman-outline-system-kael.md:#26]
+$ python3 scripts/profile.py roman-outline-system-kael  (glued ref numbers, backslash escapes, lines)
+  lines                288  (frontmatter ends at 9)
+  headings             24   bold-only lines 0
+  backslash escapes    144
+  math symbol lines    0
+  glued ref numbers    30
+stance_marker_count 12 = 4+4+4
