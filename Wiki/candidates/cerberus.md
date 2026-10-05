@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 36
-readings: 36
+sources: 37
+readings: 37
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline"]
 gathered: "2026-09-17"
 ---
 
@@ -40,6 +40,10 @@ Leans on LogOS' structural data; warns Mnemosyne about „riskant" emotional sta
 
 `Die Grenzfeste` — see that page. The pairing is the document's own organising
 principle: each section is a `Guardian/Welt-Paar`.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — KW3's guardian and the planned confrontations
+
+The glossary pairs Cerberus with the third world: „Verteidigungs-/angstbasierte Welt. Guardian: Cerberus.“ ^[kontext-outline.md:L32] Chapter 9 plans the entry with a confrontation of „Konfrontation mit Fallen, Illusionen, Angriffen, Guardian Cerberus“ ^[kontext-outline.md:L167] and an `AEGIS Focus` of „Cerberus als Verkörperung Angst/Kontrolle“ ^[kontext-outline.md:L169]. Chapter 23 returns to „Cerberus als aktive Verteidigung“ ^[kontext-outline.md:L329], and Chapter 31 plans „Cerberus als letzte Verteidigung“ ^[kontext-outline.md:L418].
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — controls KW3 Grenzfeste and isolates an unknown intrusion
 
