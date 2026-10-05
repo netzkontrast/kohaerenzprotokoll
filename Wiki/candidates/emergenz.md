@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json"]
 gathered: "2026-09-16"
 ---
 
@@ -88,6 +88,10 @@ Kap 37 plans that Kael forms the ruins into a new world „die Emergenz und Ver�
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — emergence as what Kael accepts, in the garden of the Kairos world
 
 In Teil III the report has Kael accept entropy-noise as a necessary source: „der das Entropie-Rauschen als lebensnotwendige Quelle für Emergenz akzeptiert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L29]. In its table KW4 is the „Raum der Emergenz, in dem Wachstum, Intuition und Synthese physikalisch greifbar werden“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L55].
+
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Emergenz in section 2.1 and section 9
+
+The research report (2.1) places `Emergenz` in the Kollaps-Kernel: „Er ist der Ort der Emergenz, der echten Zeitlichkeit und der evolutionären Neuheit.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L31] Section 9 is headed `Synthese: Emergenz und die Metaphysik der Integration`; in 7.1 the solution is „Die Lösung ist die Akzeptanz von emergenter Komplexität und parakonsistenter Logik.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L145]
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — emergence as a kernel's precondition, and as the manifesto's negation
 
