@@ -214,3 +214,11 @@ Stands as a proposal for the answer of transformation, in the outline's own plan
 Chapter 33 plans „System instabil; Kontrollverlust; Paradoxon führt zu Selbstzerstörung/Transformation“ ^[kontext-outline.md:L439]. Chapter 34 plans „Kollaps ermöglicht Zugang“ ^[kontext-outline.md:L450] to the Fundament. Chapter 35 plans „Endgültiger Kollaps/Zerstörung/Transformation“ ^[kontext-outline.md:L462]. Chapter 36's `AEGIS Focus` then asks: „Zustand nach Klimax (Zerstört? Transformiert? Irrelevant?)“ ^[kontext-outline.md:L473]. The outline does not name a Vortex or an Oblivion.
 
 Where it stands: three outcomes are planned together and the state after is left as three questions; nothing in the plan chooses.
+
+## 2026-10-05 — `kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie`, 2025-05-03, the detailed reader-centred outline
+
+**The detailed outline plans two hedged branches for AEGIS in Chapter 29 and makes Chapter 35's three outcomes depend on them; it decides none.**
+
+Chapter 29: „Vielleicht offenbart sich, dass AEGIS nicht nur Kontrolle ausübt“ ^[kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie.md:L518] Chapter 35: „Abhängig von der Entscheidung in Kap. 29“ ^[kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie.md:L620]
+
+Where it stands: this outline plans AEGIS's end as an open choice between dissolution, a new order and integration; it names no Vortex or beat and does not answer the question.
