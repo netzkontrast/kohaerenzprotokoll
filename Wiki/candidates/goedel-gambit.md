@@ -1,10 +1,10 @@
 ---
 term: Gödel-Gambit
 status: candidate
-sources: 27
-readings: 25
+sources: 28
+readings: 26
 conflict: none yet
-ingested: ["kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll-konzept-master-md", "aegis-subplots-kapitelweise-system-exploration-docx", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller"]
+ingested: ["kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll-konzept-master-md", "aegis-subplots-kapitelweise-system-exploration-docx", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "hard-sci-fi-cosmic-horror-research-questions"]
 gathered: "2026-09-25"
 ---
 
@@ -42,6 +42,10 @@ The Gambit is set in the [[ueberwelt|Überwelt]] (L602).
 And it asks whether the Gambit caused anything (asked, not a reading):
 „Was it the direct cause of AEGIS's transformation?" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L95] Or is it,
 per a footnote it quotes, a symptom „retroactively framed as the cause?" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L95]
+
+## Reading — `hard-sci-fi-cosmic-horror-research-questions`, 2026-01-02, the Cosmic-Horror research report — the Gödel move as reported, without the name
+
+This is a report of another document (its reference 87). The report says the analysed Plotanalyse gives Gödel's incompleteness as „The flaw in AEGIS's logic.“ ^[hard-sci-fi-cosmic-horror-research-questions.md:L198]: AEGIS fails because it tries to prove a truth (M) outside its axiomatic system, which leads to its „cognitive instability.“ ^[hard-sci-fi-cosmic-horror-research-questions.md:L119]. The report never writes `Gödel-Gambit` `Gödel-Gambit` ^[hard-sci-fi-cosmic-horror-research-questions.md:#0].
 
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the Narrative Engine's mathematical weapon in Phase III, with Kael a living dialetheia who injects the value B
 
