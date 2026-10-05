@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 12
-readings: 10
+sources: 13
+readings: 11
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"]
 gathered: "2026-09-16"
 ---
 
@@ -59,6 +59,10 @@ System*, *System Integrity Service*, *Simulated Identity Substrate*. **All three
 are guesses and are recorded as guesses**, so that a real expansion can be
 recognised when it arrives. One has: the Hard-SF-Outline writes `Systemic Identity
 Safeguard`, none of the three (its reading below).
+
+## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Zero-Trust in KW3 and the Überwelt
+
+`Zero-Trust` is named three times as a principle of AEGIS. In KW3 the core is „Verstärkt durch AEGIS' Zero-Trust-Prinzipien.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L65] and the laws include „Zero-Trust zwischen Zonen.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L76] In the Überwelt the laws rest on „AEGIS-Protokollen (Zero-Trust, Entropie-Management)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L120].
 
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the Guardian-Interface protocols and the Integrity Guardian
 
