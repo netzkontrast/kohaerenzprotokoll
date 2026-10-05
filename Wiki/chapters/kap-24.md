@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
@@ -70,6 +70,15 @@ A storyform study that rates its own two storyforms and cites a corpus it does n
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — a motif the Kanon drops (§10)
 
 - Dropped, as the Kanon's decision: the motif `Epigenetische Geister` of Kap 24 — „War in keinem PDF stabil verankert. Streichen.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L585]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „LogOS vs Mnemosyne“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L264]
+Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L214]), POV „B (LogOS und Mnemosyne, in Konflikt)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266]
+
+- Story: the outline places: „LogOS versucht, Mnemosynes Routinen zu überschreiben“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266]; „Mnemosyne weigert sich“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266]
+- Encoding A: „IC · SP3 (Progress) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L266]
+- The foreshadowing passage lists Kap 24 among „Drei sich widersprechende Klassifikationen (Kap 6, Kap 16, Kap 24)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
