@@ -240,3 +240,11 @@ The two kernel-logics are given a kind of truth each, not a narrated person: K1,
 Appendix B: „Anzahl: Exakt 13. Alle in 1. Person POV. AEGIS und Guardians in 3. Person. Junas POV: offen.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L626] The line states no exception and no chapter of AEGIS in the first person; Juna's point of view is left open on the same line.
 
 Where it stands in the record's own terms: the document takes the third-person side for AEGIS.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 writes a machine's inside view twice: [[logos|LogOS]] in Kap 16 and AEGIS in Kap 28.**
+
+Kap 16: „Erstmals reflektiert das Erzählen aus dem Algorithmus heraus“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228] Kap 28: „Erstmals reflektiert AEGIS aus der Innenperspektive über sich selbst“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L290]
+
+Stands: the outline of 2026-05-01 writes both and decides nothing.
