@@ -1,0 +1,121 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+The document is an analysis report (an "entwicklungslektorische Analyse") of the novel project, written in the voice of a reviewer who also reports what the project's own working documents say (reference 1, the novel plot, is cited with a glued number 1 after nearly every claim). Terms below are the novel's world as the report names it; the report's borrowed frameworks are under lens. Table cells are Tabelle 1 to 4: a matrix of parts, a world matrix, a character-by-chapter matrix and a locality matrix.
+
+- AEGIS
+- Das Fundament
+- Fundaments
+- Kohärenz Protokoll
+- Genesis der Existenz
+- Funke Struktur
+- Nichts Rauschen
+- Verhinderung des Nicht-Seins
+- Paraiyas
+- Externen Ebene
+- Kael
+- System Kael
+- Juna
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Echo
+- Echo/Kiko
+- Limina
+- Nox
+- Chronos
+- Schattenkind
+- Dr. Thorne
+- Einheit 734
+- Argus
+- Grenzwärter Argus
+- Sibyl
+- Orakel Sibyl
+- Silas
+- Anya
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kern-Welten
+- Kern-Welt
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Garten d. Möglichkeiten
+- Überwelt
+- Risse
+- Entropie
+- Anscheinend Normalen Persönlichkeitsanteilen
+- Emotionalen Persönlichkeitsanteilen
+- ANPs
+- EPs
+- Kern-Anteile
+- Tertiäre Strukturelle Dissoziation
+- TSDP
+- DIS
+- Host
+- Manager
+- Trauma-Halter
+- Integrative Anteile
+- innere Rat
+- Gnostische Maschine
+- Funktionale Antagonisten
+- Externalisierte Psyche
+- Systemkohärenz
+- psychologische Kohärenz
+- fehlausgerichteten Kohärenz
+- Kernprogrammierung
+- blinden Flecken
+- Guardian Blind Spot
+- Kern-Weltmechanik
+- Architekt-Anteil
+- Funke-Anteil
+- Kontrollfassade
+- Threshold Zone
+- Chaos-Zone
+- Glitching Market
+- Nexus of Whispers
+- Entropie-Knotenpunkt
+- AEGIS Hub
+- Spiegelscherben-Korridor
+- Kaels Apartment
+- Erinnerungslandschaft
+- Abgrund d. Ängste
+- Virtuelles Büro Dr. Thorne
+- Informationsarchiv
+- Mnemosyne-Archive
+- Sektor Gamma
+- Zentralplatz Sektor Alpha
+- Sicherer Unterschlupf
+- Innerer Konferenzraum
+- Fluchtroute
+- Datenriss
+- Ego-Tod
+- Phantomschmerz
+- Environmental Storytelling
+
+## lens
+
+- Gnostizismus
+- Demiurg
+- Pleroma
+- Prozessphilosophie
+- Whitehead
+- Kybernetik
+- Homöostase
+- Heldenreise
+- Deus ex Machina
+- Strukturellen Dissoziation

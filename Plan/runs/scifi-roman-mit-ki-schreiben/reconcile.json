@@ -1,0 +1,360 @@
+{
+  "document": "scifi-roman-mit-ki-schreiben",
+  "drive_id": "1j40FHfhMWbwlBp22eeLHji12YH8OnlNHCEkTojGzmnQ",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; then rlm_ingest on Claude under decision 011 as a second, scored list — Sonnet and Opus refused by their safeguards, Haiku answered with no candidate (Plan/runs/scifi-roman-mit-ki-schreiben/lm/rlm-ingest.jsonl), so nothing was scored; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-74/brief.md, and the session's own reading on externe-ebene; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 110,
+    "decisions": 118,
+    "decided_by_lookup": 90,
+    "needs_judgement": 28
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A developmental editor's report: its own words are an analyst's frames (Gnostischer Demiurg, Pleroma, Prozessphilosophie, Kybernetik, Homöostase, the paradox of misaligned coherence) and advice; the plot document it reports names its world in the wiki's terms, plus 2025 figures and places the Struktur-Kanon later dropped (Dr. Thorne, Echo, Limina, Nox, Chronos, Schattenkind, Sibyl, Anya, Glitching Market, Nexus of Whispers). Its readings went onto 33 pages and 4 records; a figure named only in a reproduced table opens no page.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        48,
+        50,
+        62,
+        78,
+        95,
+        97
+      ],
+      "attribution": "",
+      "note": "the Gnostic demiurge, the cybernetic regulator and the paradox of misaligned coherence, as the report reads them"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        90,
+        137
+      ],
+      "attribution": "",
+      "note": "one of the complementary ANP pair with Rhys, and a protective or persecutor part of KW3"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        220
+      ],
+      "attribution": "",
+      "note": "the border warden at an unstable Threshold Zone in Kap 4–6"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        90,
+        198
+      ],
+      "attribution": "",
+      "note": "controls KW3 Grenzfeste and isolates an unknown intrusion"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        78,
+        95,
+        184
+      ],
+      "attribution": "",
+      "note": "deviations from AEGIS's stable state, and Juna as the source of uncontrollable entropy"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        184
+      ],
+      "attribution": "",
+      "note": "a postulated plane beyond the simulation's logic, reached through Juna"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "the prologue named Genesis der Existenz as AEGIS's survival story"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        90,
+        221
+      ],
+      "attribution": "",
+      "note": "KW3, the paranoid world of defence and isolation, and the Ego-Tod of Kap 7–9"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        192,
+        201
+      ],
+      "attribution": "",
+      "note": "five Guardians named, four misreadings listed, and the misreadings as the cause of the Risse"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        121
+      ],
+      "attribution": "",
+      "note": "named in the roster of EPs only"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        184,
+        194,
+        220
+      ],
+      "attribution": "",
+      "note": "everything AEGIS cannot understand; a connection to an Externen Ebene; the Guardians' misreadings of her drive the plot"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        86,
+        93,
+        105,
+        121,
+        135,
+        217
+      ],
+      "attribution": "",
+      "note": "the four Kern-Welten as externalised psyche, the arc from ignorance of multiplicity to acceptance, and TSDP"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        91,
+        199
+      ],
+      "attribution": "",
+      "note": "keeper of KW4 with Sophia; sees only interesting chaos"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        86,
+        93,
+        217,
+        224,
+        234
+      ],
+      "attribution": "",
+      "note": "the four Kern-Welten as externalisations of Kael's inner domains, the KW1-to-KW4 journey, and Table 2"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        89,
+        145
+      ],
+      "attribution": "",
+      "note": "the child part paired with Nyx; among the EPs of KW2"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        88,
+        219
+      ],
+      "attribution": "",
+      "note": "KW1, the world of logic, rules and order ruled by LogOS; Kael's waking there in Kap 1–3"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        136,
+        156,
+        219,
+        244
+      ],
+      "attribution": "",
+      "note": "an ANP and internal antagonist; also the archivist of Kap 1–3"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "named among the integrative parts of KW4"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        88,
+        196
+      ],
+      "attribution": "",
+      "note": "ruler of KW1; registers a logical error and corrects it"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        89,
+        197
+      ],
+      "attribution": "",
+      "note": "overseer of KW2; archives a memory fragment or phantom pain"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        91,
+        222,
+        281
+      ],
+      "attribution": "",
+      "note": "KW4, the world of potential and creativity; the place of Auferstehung in Kap 10–13"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        146
+      ],
+      "attribution": "",
+      "note": "the part called Der Erstarrte, the system's deepest wound"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        135
+      ],
+      "attribution": "",
+      "note": "Kael's journey from ignorance of his Multiplizität to acceptance"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "the hostile, dissolving void of the Genesis prologue"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        145
+      ],
+      "attribution": "",
+      "note": "the fighter part, outward rage over unbearable vulnerability"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        89,
+        220
+      ],
+      "attribution": "",
+      "note": "KW2, the fluid world of emotions and memories, under Mnemosyne"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        91,
+        137,
+        156
+      ],
+      "attribution": "",
+      "note": "the caring ANP, with Alex a pro-social pair; sees a chance for connection"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        78,
+        201
+      ],
+      "attribution": "",
+      "note": "deviations from AEGIS's stable state; the Risse as symptoms of the wrong treatment"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        154,
+        160
+      ],
+      "attribution": "",
+      "note": "guardian-integrator, a potential catalyst, labelled ANP-Regulator in Table 1"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        244,
+        246
+      ],
+      "attribution": "",
+      "note": "integrated in the plot draft; the Glitching Market for the meeting"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        91,
+        192,
+        232
+      ],
+      "attribution": "",
+      "note": "keeper of KW4 with Kairos"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        62,
+        113,
+        117,
+        121,
+        304
+      ],
+      "attribution": "",
+      "note": "the abbreviation read two ways: Theorie der Strukturellen Dissoziation, and Tertiäre Strukturelle Dissoziation"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        222
+      ],
+      "attribution": "",
+      "note": "the chaotic Überwelt of the Guardians in Kap 10–13"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a title containing a term: Analyse des Romanprojekts „Kohärenz Protokoll“), J12 and J16 (a compound is its own token: AEGIS Hub, System Kael, Kaels Apartment, Grenzwärter Argus, Orakel Sibyl, Mnemosyne-Archive, Kern-Weltmechanik, Entropie-Knotenpunkt, Glitching Market, Nexus of Whispers, Systemkohärenz, psychologische Kohärenz, fehlausgerichteten Kohärenz, Genesis der Existenz), J24 and J97 (a plural or case ending is no boundary: Kern-Welten / Kern-Welt, Fundaments), J34 (a slash between two names is a pair: Echo/Kiko), J49 (a world name built from a bearer's name is not the bearer: Mnemosyne-Archive), J69 (a match only after folding: Echo / residual-echos)",
+  "sweep": [],
+  "not_promoted": [
+    "Dr. Thorne, Anya, Sibyl, Limina, Nox, Chronos, Schattenkind — 2025 figures in the plot document's tables (L244–L245, L254) and the report's advice; no page",
+    "Einheit 734 — a recurring faceless antagonist (L245, L278); read on q7-what-734-names",
+    "Gnostischer Demiurg, Pleroma, Homöostase — the report's frames (L50–L78); read on aegis",
+    "the locality codes E0–E6 of Table 4 (L274–L286) — never explained; no page"
+  ],
+  "internal_tension": "TSDP spelled out as „Theorie der Strukturellen Dissoziation“ (L62) and „Tertiäre Strukturelle Dissoziation“ (L117, L121); five Guardians named (L192), four misreadings listed (L196–L199); Selene an integrative part (L154) and `ANP-Regulator` in Table 1 (L160); the disorder `DIS` (L228) and `DID` (L274)",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

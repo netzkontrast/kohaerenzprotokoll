@@ -415,6 +415,10 @@ the author wants them (*Questions for the author*).
   undergoes the Truth-Rotation in Kap 36 (L128), and as the mirror alter who breaks the false calm in Kap 31 (L143), where
   the outline revision of 2026-05-01 also puts him. In which chapter does Oblivion first speak?
 
+- **Document 74, `scifi-roman-mit-ki-schreiben`, the editor's report of 2025-06-24:** it proposes `Einheit 734` as a recurring,
+  faceless antagonist — AEGIS's units, met in Kap 5 (L245, L278) — while later sources make 734 Kael's component number. Is
+  there an AEGIS unit called 734 in the book, or does the number belong to Kael alone (Q7)?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*

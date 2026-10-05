@@ -186,3 +186,8 @@
 {"document": "romanprojekt-kohaerenz-protokoll-analyse", "page": "potentialmeer", "surface": "Potentialmeer", "line": 83, "decision": "reading", "why": "the report's own directive at L83", "at": "2026-10-05"}
 {"document": "romanprojekt-kohaerenz-protokoll-analyse", "page": "risse", "surface": "Glitches", "line": 52, "decision": "reading", "why": "the table's driver-pivot row and ZTEM's heat and Glitches (L52, L114)", "at": "2026-10-05"}
 {"document": "romanprojekt-kohaerenz-protokoll-analyse", "page": "ueberwelt", "surface": "Simulation", "line": 53, "decision": "occurrence", "why": "the table's pre-reset column (L53)", "at": "2026-10-05"}
+{"document": "scifi-roman-mit-ki-schreiben", "page": "emergenz", "surface": "Emergenz", "line": 66, "decision": "occurrence", "why": "the heading `Kontrolle, Emergenz und die Kern-Welten` (L66); the paragraph does not say what emerges", "at": "2026-10-05"}
+{"document": "scifi-roman-mit-ki-schreiben", "page": "genesis", "surface": "Genesis", "line": 48, "decision": "reading", "why": "the prologue Genesis der Existenz as AEGIS's survival story (L48)", "at": "2026-10-05"}
+{"document": "scifi-roman-mit-ki-schreiben", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the document's title (J9)", "at": "2026-10-05"}
+{"document": "scifi-roman-mit-ki-schreiben", "page": "multiplizitaet", "surface": "Multiplizität", "line": 135, "decision": "reading", "why": "Kael's journey from ignorance of his Multiplizität to acceptance (L135)", "at": "2026-10-05"}
+{"document": "scifi-roman-mit-ki-schreiben", "page": "nexus", "surface": "Nexus", "line": 283, "decision": "occurrence", "why": "`Nexus of Whispers`, a locality of Table 4 (L283) (J12)", "at": "2026-10-05"}

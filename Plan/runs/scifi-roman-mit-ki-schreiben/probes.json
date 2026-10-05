@@ -1,0 +1,278 @@
+{
+  "document": "scifi-roman-mit-ki-schreiben",
+  "drive_id": "1j40FHfhMWbwlBp22eeLHji12YH8OnlNHCEkTojGzmnQ",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 60,
+  "backslash_escapes": 40,
+  "typographic_marks": 164,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemausfälle",
+      "Systemblockade",
+      "Systemdynamiken",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemgrenzen",
+      "Systemintegrität",
+      "Systemjargon",
+      "Systemkohärenz",
+      "Systemkollaps",
+      "Systems",
+      "Systemweite"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterarchitektur",
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charakterkonzepten",
+      "Charaktermerkmal",
+      "Charakterprofilen",
+      "Charakterwahrnehmung"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfiguren",
+      "Erinnerungsfragment",
+      "Erinnerungskorruption",
+      "Erinnerungslandschaft",
+      "Erinnerungsresonanz"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabezogene",
+      "Traumafolge",
+      "Traumapsychologie",
+      "Traumas",
+      "Traumata",
+      "Traumatisierungen"
+    ],
+    "archi": [
+      "Architekt",
+      "Architektur",
+      "Archiv",
+      "Archivar",
+      "Archive",
+      "Archivieren"
+    ],
+    "konze": [
+      "Konzentration",
+      "Konzept",
+      "Konzeptdokumente",
+      "Konzeptdokumenten",
+      "Konzepte",
+      "Konzepten"
+    ],
+    "struk": [
+      "STRUKTURELLE",
+      "Struktur",
+      "Strukturanalyse",
+      "Strukturelement",
+      "Strukturelle",
+      "Strukturellen"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionalen",
+      "Emotionalität",
+      "Emotionen"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsmatrix",
+      "Integrationsprozess",
+      "Integrative",
+      "Integratorin"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollfassade",
+      "Kontrollierte",
+      "Kontrollmaßnahmen",
+      "Kontrollverlust"
+    ],
+    "roman": [
+      "Roman",
+      "Romanplot",
+      "Romanprojekt",
+      "Romanprojekts",
+      "Romans"
+    ],
+    "unter": [
+      "Unterdrückung",
+      "Unterschied",
+      "Unterschlupf",
+      "Untersuchung",
+      "Unterwelt"
+    ],
+    "überl": [
+      "Überlebenskampfes",
+      "Überlebensmechanismus",
+      "Überlebensmuster",
+      "Überlebensreaktion",
+      "Überlebensstrategien"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismen",
+      "Abwehrmechanismus",
+      "Abwehrstrategien"
+    ],
+    "allta": [
+      "Alltag",
+      "Alltags",
+      "Alltagsfassade",
+      "Alltagsleben"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionen",
+      "Funktionsweise"
+    ],
+    "gnost": [
+      "Gnosticism",
+      "Gnostische",
+      "Gnostischer",
+      "Gnostizismus"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzfeste",
+      "Grenzwärter"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbogen",
+      "Handlungsebenen"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsprozess",
+      "Heilungsversuche",
+      "Heilungsweg"
+    ],
+    "infor": [
+      "Information",
+      "Informationsarchiv",
+      "Informationsfragment",
+      "Informationssuche"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozessen",
+      "Prozessphilosophie"
+    ],
+    "siche": [
+      "Sicherer",
+      "Sicherheit",
+      "Sicherheitslücke",
+      "Sicherheitslücken"
+    ],
+    "strat": [
+      "Strategie",
+      "Strategiekonflikt",
+      "Strategien",
+      "Strategische"
+    ],
+    "antag": [
+      "Antagonismus",
+      "Antagonist",
+      "Antagonisten"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Ding",
+      "Understanding"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eine",
+      "Verfeinerung"
+    ],
+    [
+      "Ende",
+      "Legende"
+    ],
+    [
+      "Ende",
+      "Fehlende"
+    ],
+    [
+      "Ende",
+      "Entscheidende"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Ausformulierung"
+    ],
+    [
+      "Form",
+      "Informationssuche"
+    ],
+    [
+      "Form",
+      "Informationsarchiv"
+    ],
+    [
+      "Form",
+      "Informationsfragment"
+    ],
+    [
+      "Gott",
+      "Gottes"
+    ],
+    [
+      "Gott",
+      "Schöpfergott"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ]
+  ]
+}

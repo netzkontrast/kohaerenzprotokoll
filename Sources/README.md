@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 72 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 72 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 73 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 73 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -508,7 +508,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Roman-Outline: Leserlebnis und Tiefe](drive/roman-outline-leserlebnis-und-tiefe.md) | 2025-05-03 | 17,065 |  | Personas 2, Emergenz† 26, Kohärenz 61, Risse 24, Überwelt 9 | Bibisco 10, William Gibson 4, Hume 10, Neuromancer 4, Noumena 8 |
 | [Roman-Outline-Transformation in Keyword-Tags](drive/roman-outline-transformation-in-keyword-tags.md) | 2025-05-03 | 12,583 |  | Realitätsebenen 9, LogOS 31, Alex 18, Mnemosyne 22, Rhys 17, Argus 8, Cerberus 11, Selene 17 | juna 19, \*\*Alex\*\ 9, \*\*Rhys\*\ 10, Kael-System 32, kohaerenz 9 |
 | [Tropen, Konzepte für Kohärenz-Protokoll](drive/tropen-konzepte-fuer-kohaerenz-protokoll.md) | 2025-05-04 | 7,242 |  | Realitätsebenen 3, Selene 3, Emergenz† 12, Lex 3, Überwelt 20, Risse 14, TSDP 2, Kael 26 | LQG 5, Instrumental Convergence 8, Orch-OR 5, Brain-Computer Interfaces 3, Loop Quantum Gravity 3 |
-| [Scifi-Roman mit KI schreiben](drive/scifi-roman-mit-ki-schreiben.md) | 2025-06-24 | 5,117 |  | Möglichkeits-Garten 3, Silas 5, Grenzfeste 3, Resonanz-Landschaft 3, Kairos 5, Sophia 4, Argus 4, Rhys 7 | E1 7, Gnosticism 8, AEGIS Hub 2, E0 2, E4 2 |
+| [Scifi-Roman mit KI schreiben](drive/scifi-roman-mit-ki-schreiben.md) | 2025-06-24 | 5,117 | **read** | Möglichkeits-Garten 3, Silas 5, Grenzfeste 3, Resonanz-Landschaft 3, Kairos 5, Sophia 4, Argus 4, Rhys 7 | E1 7, Gnosticism 8, AEGIS Hub 2, E0 2, E4 2 |
 | [Kohärenz Protokoll: Agentive Narrative](drive/kohaerenz-protokoll-agentive-narrative.md) | 2025-07-03 | 7,274 |  | Emergenz† 7, Kohärenz 9, Kael 16, AEGIS 17 | ASP 9, Prompt-Kaskade 7, Redis 16, LLM 35, JSON 9 |
 | [Multidimensionale Narrative Strukturmodelle entwickeln](drive/multidimensionale-narrative-strukturmodelle-entwickeln.md) | 2025-07-03 | 6,901 |  | Personas 13, Nichts-Rauschen 2, TSDP 6, Kern-Welten 6, Emergenz 3, Entropie 3, Überwelt 4, Kohärenz 4 | Jacques Lacan 5, Rhizom 5, Lacan 5, Storyform A 23, Meta-Narrative 9 |
 | [Bewerte Kishōtenketsu als zentrales narrativ](drive/bewerte-kishotenketsu-als-zentrales-narrativ.md) | 2025-07-29 | 1,024 |  | Kishōtenketsu 6, Kael 5, AEGIS 11 | Ketsu 2, Juna/V 3, Synthese 6, Kohärenz-Protokoll 7, Integration 2 |
