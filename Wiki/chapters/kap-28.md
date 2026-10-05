@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,14 @@ A storyform study that rates its own two storyforms and cites a corpus it does n
 
 - Werk-Beleg for Storyform A's MC Resolve Change: „AEGIS' Scheitern an der Irreduzibilität von M in Kapitel 28, was die zwingende Notwendigkeit holistischen Denkens bestätigt.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L102]
 - IC Issue, Storyform A vs. B: „Kap 28: Juna durchbricht AEGIS' Konditionierung instinktiv (Instinct) vs. Juna als Anomalie jenseits messbaren Werts für AEGIS (Worth).“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L213]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Logic Tumor“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L288]
+Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L280]), POV „B (AEGIS — Selbstdiagnose)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L290]
+
+- Story: the outline places: „Es findet seinen eigenen Logik-Tumor“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L290]; „AEGIS *sieht* zum ersten Mal, dass es K0 ist und nicht K1“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L290]
+- Encoding A: „RS · SP4 (Learning) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L290]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
