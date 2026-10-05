@@ -108,3 +108,11 @@ It adds a position to the record's table: Kael as the remainder of AEGIS's own d
 Kap 9: „Die wahre Genesis von Kael als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135] „Komponente 734“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135], „wird angedeutet“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135]. Kap 31: „Die Genesis wird als gemeinsames Trauma von Mensch und Maschine erkannt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L322], in the chapter where Oblivion shows „dass AEGIS selbst traumatisiert ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L319].
 
 Stands as a plan that links Kael's origin to Komponente 734 and to AEGIS's trauma, without telling the origin out; recorded, not applied.
+
+## 2026-10-05 — `outline-2`, 2025-05-03, the new-format outline
+
+**The prologue plans Kael's origin from inside AEGIS: the fragmentation of AEGIS's precursor self, Komponente 734, is the birth of System Kael.**
+
+The prologue paragraph: „die Entität AEGIS oder ihr Vorläufer-Ich (Komponente 734)“ ^[outline-2.md:L23], whose violent fragmentation is „der Geburtsstunde von System Kael.“ ^[outline-2.md:L23] The trigger is an external anomaly, asked with a question mark: „mit einer externen Anomalie (Juna/V?)“ ^[outline-2.md:L23]. The Kael Internal field adds „Traumatischer Ursprung der Fragmentierung etabliert“ ^[outline-2.md:L26].
+
+Where it stands: this is a plan of an origin from within AEGIS's own split self, with Juna/V as trigger and not as Kael's source; it names no entity M.
