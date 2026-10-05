@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -143,6 +143,14 @@ Position: Akt I; POV: „POV: Nyx / Kael.“ ^[kohaerenz-protokoll-kapitel-outli
 - Story: the outline plans „nicht als Feind, sondern als manipulative Kuratorin“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L199]
 - Concepts: „Mnemosyne, EPs (Emotionale Anteile)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L197]
 - Pivot-Marker: „SF-B Tendenz zu Failure, da Mnemosyne die EPs nicht eindämmen kann“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L225]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Der erste Pivot — Überschreiten der Schwelle
+
+Title: „Der erste Pivot — Überschreiten der Schwelle“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L113] — „Akt I: Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L59]; „Pivot-Kapitel“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L115]
+
+- Story: the dual-storyform outline plans „Kael entscheidet sich, die Quarantäne-Zone zu betreten“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L115]
+- Storyforms: `Storyform B` (`MC: Universe/Future`): „Kaels Zukunft innerhalb der stabilen Simulation ist beendet“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L117]; `Storyform A` (`RS: Psychology/Becoming`): „wechselt von einer bloßen Wahrnehmung zu einer aktiven Suche“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L118]
+- Scene and pacing: `Szenen-Keim`: „Ein Tor aus schmelzendem Glas“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L119]; `Pacing`: „Kraftvoll, treibend“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L120]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
