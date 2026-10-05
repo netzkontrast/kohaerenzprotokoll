@@ -161,3 +161,11 @@ It gives AEGIS the MC-B slot by test — „Die erste Hypothese verortet AEGIS i
 **Do-er for AEGIS in B, Be-er for Kael in A — the lock-in's values, in a comparative table and in each storyform's own MC-Quad.**
 „MC Approach | Be-er (Innere Synthese) | Do-er (Externe Löschung) | Ja | "Dance in the Garden" (Kap 13) vs. Die harte Aktivierung von Firewalls und Glitch-Reparaturen." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L193] Storyform A's own MC-Quad gives Kael the same value: „Approach: Be-er — Werk-Beleg: Die zentralen Konfliktlösungen des Romans finden in den psychologischen Innenräumen, den sogenannten „Kernwelten“ (wie Logos-Prime), durch massive Einstellungsänderungen statt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L80] Storyform B's gives AEGIS the other: „Approach: Do-er — Werk-Beleg: AEGIS agiert proaktiv durch die Exekution harter Quarantäne-Maßnahmen, Löschprotokolle und massive physikalische Restriktionen der Umgebung." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L128]
 `Approach` stands on 3 lines, `Do-er` on 2 and `Be-er` on 5, all giving Kael Be-er and AEGIS Do-er (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). The Dramatica lock-in's side, Do-er, with AEGIS named the MC of B throughout the document. The author decides (decision 006).
+
+## 2026-10-05 — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt
+
+**The research prompt gives Storyform B's MC Approach as Be-er, with Linear and Stop (Logic → Feeling), as values set by the client.**
+
+The Storyform B table reads „MC Problem-Solving Style | Linear“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L322], „MC Approach | Be-er“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L323] and „MC Growth | Stop (Logic → Feeling)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L324], and Constraint Block 4 says of its values „Diese Werte sind gegeben, nicht abzuleiten.“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L291] The prompt derives nothing and gives no reasoning for them.
+
+Where it stands in the record's own terms: a given set of values for AEGIS's approach in Storyform B, dated 2026-04-30; this reading decides nothing.

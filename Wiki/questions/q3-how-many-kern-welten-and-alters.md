@@ -407,3 +407,11 @@ Where it stands in the record's own terms: a count of alters (13) and a tie of a
 Kap 14: „verteilt es Zielparameter auf 13 Signaturen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L220] Kap 17: „er ist eine Stimme unter dreizehn“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232] Kap 33: „dreizehn simultan präsent“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L314] The timeline of Kap 1 to 31 rows the alters one by one (see `alters`). The acts carry the worlds: „Kernwelt KW1“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L156] in Act I, „Kernwelten KW2 + KW3“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L216] in Act II, „Kernwelt KW4 + Fundament“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L282] in Act III.
 
 Stands: both numbers appear, each stated apart; Q3 remains open.
+
+## 2026-10-05 — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt
+
+**The research prompt reports a 13-alter system and keeps the world-keyed rulebooks out of its output; it gives no count of Kernwelten.**
+
+It reports the canon trio as defining a „13-Alter-System“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L747]. Constraint Block 3 excludes from the output „Computational Class (KW1=P / KW2=Parakonsistent / KW3=NP-Hard / KW4=Generativ)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L278], and „Somatic Rulebook (KW1=Atem / KW2=Bauch / KW3=Muskel / KW4=Hände)“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L279], both as belonging to a later phase; four worlds appear only inside these excluded lists.
+
+Where it stands in the record's own terms: a reported 13 alters, and four worlds named only in lists the prompt keeps out of its output; this reading decides nothing.

@@ -1,0 +1,273 @@
+{
+  "document": "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+  "drive_id": "1WatAbHnlO_wbW8oLdWzM6S6OOjvW7Sh15WuM4d0JyfA",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 218,
+    "decisions": 218,
+    "decided_by_lookup": 175,
+    "needs_judgement": 43
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        248,
+        291,
+        307,
+        314,
+        319,
+        325,
+        723,
+        745
+      ],
+      "attribution": "",
+      "note": "AEGIS as bearer in two storyforms, and as the canon trio's reported complex"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        348,
+        745
+      ],
+      "attribution": "",
+      "note": "AEGIS's reported fate and the Vortex's fifth beat"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        264,
+        266,
+        747
+      ],
+      "attribution": "",
+      "note": "the reported alter system, and fifteen names declared invalid"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        743
+      ],
+      "attribution": "",
+      "note": "DKT as the reported ontological foundation"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        745
+      ],
+      "attribution": "",
+      "note": "Entropie at the end of the reported AEGIS chain"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        306,
+        745
+      ],
+      "attribution": "",
+      "note": "the reported Genesis-Sequenz and the IC concern Genesis-Krise"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        307,
+        745
+      ],
+      "attribution": "",
+      "note": "a reduced Guardians list, count left to the trio; Guardians as OS bearer"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        305,
+        306,
+        308,
+        326,
+        338,
+        340,
+        746
+      ],
+      "attribution": "",
+      "note": "Juna as IC of Storyform A, and the two places given for the IC of Storyform B"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        293,
+        298,
+        304,
+        326,
+        339
+      ],
+      "attribution": "",
+      "note": "Kael as MC of Storyform A and IC of Storyform B"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        745
+      ],
+      "attribution": "",
+      "note": "the reported Genesis-Sequenz ends in Komponente 734"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        743
+      ],
+      "attribution": "",
+      "note": "the reported territory of K1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        344
+      ],
+      "attribution": "",
+      "note": "the Mnemosyne-Archipel as the Vortex's setting"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        308
+      ],
+      "attribution": "",
+      "note": "the RS of Storyform A"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        293,
+        747
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the reported end goal"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        750
+      ],
+      "attribution": "",
+      "note": "the reported ending"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        743,
+        752
+      ],
+      "attribution": "",
+      "note": "Risse as K0's domain and the mosaic form's footnotes"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        746
+      ],
+      "attribution": "",
+      "note": "Telefon-Stille as an anchor of Juna's effect"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        328,
+        745
+      ],
+      "attribution": "",
+      "note": "the Trennungsprotokoll in the reported Genesis and as Storyform B's OS"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        747
+      ],
+      "attribution": "",
+      "note": "the alter system as TSDP"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        334,
+        342,
+        344,
+        346,
+        348,
+        352,
+        561
+      ],
+      "attribution": "",
+      "note": "the Vortex as five beats set as given, with two chapter ranges"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      35,
+      36,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C8"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 743,
+      "decision": "reading",
+      "why": "the reported ontological foundation, K1 ↔ K0 and the η formula (L743)"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 745,
+      "decision": "reading",
+      "why": "Erasure-Sweeps → Landauer-Hitze → Entropie in the reported AEGIS complex (L745)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the document's title (J9)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 307,
+      "decision": "occurrence",
+      "why": "`Manipulation der Simulation`, the OS throughline's label in Storyform A (L307); no sense of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

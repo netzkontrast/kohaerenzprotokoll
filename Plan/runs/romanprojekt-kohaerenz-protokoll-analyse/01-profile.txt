@@ -1,0 +1,14 @@
+# romanprojekt-kohaerenz-protokoll-analyse
+  lines                144  (frontmatter ends at 9)
+  body words           2929
+  headings             18   bold-only lines 0
+  table rows           10   code fences 0
+  question marks       3
+  backslash escapes    120
+  typographic marks    62   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    19
+  repeated labels      none
+  longest line         1033 chars
+

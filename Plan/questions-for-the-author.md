@@ -406,6 +406,11 @@ the author wants them (*Questions for the author*).
   every alter unnamed until Kap 13 (L126) while its own timeline names Lex, Alex and Nyx only in Kap 14–15 (L111–L115). Does the
   system side get a first person, and in which chapter does each alter first carry a name?
 
+- **Document 72, `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, the research prompt of 2026-04-30:** it seats
+  Kael at Storyform B's Impact-Character position, „als lebende Paradoxie" (L326, L339), and reports your canon trio as giving
+  Juna a Doppel-IC, Storyform B = Mind/Conscious (L746). Who is AEGIS's Impact Character in Storyform B — Kael, Juna, or Juna
+  as she exists inside Kael?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*
