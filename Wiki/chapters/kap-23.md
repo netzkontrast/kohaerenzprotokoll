@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,6 +39,15 @@ Position: „Selbst-Schöpfung / Mosaik-Herz“ ^[kohaerenz-protokoll.md:L2396] 
 - Story: a new assignment, „PROJEKT: SYSTEM-HARMONISIERUNG GAMMA-OMEGA-PRIME.“ ^[kohaerenz-protokoll.md:L2416], supervised directly by „SUPERVISION: DIREKT DURCH PMAS (PREDICTIVE MODELING & ADAPTATION SUBSYSTEM).“ ^[kohaerenz-protokoll.md:L2428]; Kael stops forcing a merger of Co1 and McL logics and instead loosens control to let them self-organise, „Er musste vom Architekten zum Gärtner werden.“ ^[kohaerenz-protokoll.md:L2454]
 - Close: PMAS's own report closes both this task and Kapitel 17's, „Die 36 Stunden liefen ab. Die Kohärenz-Metrik erreichte 99.97%, stabilisierte sich dort in einem dynamischen, atmenden Gleichgewicht.“ ^[kohaerenz-protokoll.md:L2478], „BETREFF: PROJEKT KDSI-GAMMA-7“ ^[kohaerenz-protokoll.md:L2486] — the project Kapitel 17 assigns, timed there at the same 36 hours.
 - Voice: third person on Kael; AEGIS/PMAS speak only in capitalised system text.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Den Wächter überlisten: Strategische Konfrontation in KW
+
+Title: the commission titles the chapter „Den Wächter überlisten: Strategische Konfrontation in KW“ ^[kontext-outline.md:L324], placed in Act 2. Position: `Setting` „Cerberus-Labyrinth“ ^[kontext-outline.md:L330]
+
+- Theme: the commission's `Core Theme` is „Angstbewältigung; Grenzen durchbrechen“ ^[kontext-outline.md:L326]
+- Story: its `Plot Summary` plans „Kael kehrt bewusst nach KW“ ^[kontext-outline.md:L327]
+- Foci: `Kael Sys Focus` „Zusammenarbeit verschiedener Anteile (Alex/Nyx, Lex, Kiko?)“ ^[kontext-outline.md:L328]; `AEGIS Focus` „Cerberus als aktive Verteidigung“ ^[kontext-outline.md:L329]
+- Notes: „Guardians (Konfrontation Cerberus)“ ^[kontext-outline.md:L331]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
