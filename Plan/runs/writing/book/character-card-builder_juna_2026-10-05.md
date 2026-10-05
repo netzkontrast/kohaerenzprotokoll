@@ -77,6 +77,9 @@ heißt jetzt: Kael begegnet der Frau, mit der er seit Jahren lebt, und erkennt s
 - **F15, ihr Widerspruch** — deine eigene Antwort statt „Ja, so“: „Ihr Urvertrauen und ihre moonshine Verbindung“. Was
   dem gegenübersteht, ist noch nicht gesagt (F16).
 
+- **F16, die Gegenseite:** „Sie schweigt trotzdem“ — alles ist ohne Worte klar, und gerade deshalb spricht sie das
+  Entscheidende nie aus; das Urvertrauen ersetzt das Wort. Daraus die Stille im Anruf und das Schweigen heute.
+
 ## Die Karte, so weit
 
 | Feld | Stand |
@@ -85,7 +88,7 @@ heißt jetzt: Kael begegnet der Frau, mit der er seit Jahren lebt, und erkennt s
 | Want | Niemandem wehtun; Kael bewahren; etwas nur für sich (F6). Ihre erste Tat im Buch ist eine Wahl: Sie wählt ihre alte Beziehung (A3); Sprechen hätte diese Beziehung aufs Spiel gesetzt und es „für beide“ sehr schwierig gemacht (A4). |
 | Need | Sich selbst wichtig nehmen; sprechen statt schweigen; die Nähe aushalten; ihn ganz sehen, mit allen Anteilen (F12). Zieht gegen ihr Want (niemandem wehtun, Kael bewahren). |
 | Wound → Lie | Wunde: Sie war früh die, die in ihrer Familie zusammenhielt; ihre eigenen Wünsche störten (F13). Lüge: „Ich bin für die anderen da, nicht für mich.“ (F7). Angst: die Wucht des Gefühls, sich in so viel Nähe zu verlieren (F5). |
-| Contradiction | „Ihr Urvertrauen und ihre moonshine Verbindung“ (F15) — die Gegenseite ist offen (F16). Kandidat aus A3: Sie wählt die alte Beziehung, und das Urvertrauen bleibt unberührt. |
+| Contradiction | Urvertrauen und Moonshine-Verbindung — und sie schweigt trotzdem: weil alles ohne Worte klar ist, spricht sie das Entscheidende nie aus (F15, F16). Need „sprechen statt schweigen“ (F12) zielt genau darauf. |
 | Arc | Zeitlinie (F8, F10): der Anruf → zehn Jahre, die Kael vergessen hat → die beiden sind inzwischen ein Paar → heute droht eine Trennung aus Liebe. Kael erinnert das erst im Lauf der Geschichte; Juna ist zuerst nur Erinnerung. Die Trennung droht aus drei Gründen zugleich (F9). |
 | Voice | Lachen zuerst; Fragen statt Antworten; praktisch, geerdet — das Große zwischen dem Konkreten (F14). |
 | Relationships | Kael: „schon immer bekannt“, „Instant Urvertrauen“, über Zeit hinweg; Momente, „wo einfach Dinge klar waren ohne klar sein zu müssen“ (A2). Vorfreude auf stundenlange Telefonate (A1). |
