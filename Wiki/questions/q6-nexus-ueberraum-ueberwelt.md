@@ -46,7 +46,7 @@ them apart only because none has been read.
 | KW3's second name, `Überwelt-Nexus` | `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30; `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10; `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 165; 410; 221 |
 | the `Überwelt-Nexus` as the setting of Kap 33's Approach-Inmost-Cave beat | `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10 | 175 |
 | KW3, `Überwelt / Nexus`, where the Wächterprogramme reside | `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08 | 437, 439 |
-| a room of [[kael|Kael]] and [[juna|Juna]]'s bond, far from AEGIS' sensors | `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30 | 231 |
+| a room of [[kael|Kael]] and [[juna|Juna]]'s bond, far from [[aegis|AEGIS]]' sensors | `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30 | 231 |
 
 > „Im Überraum manifestiert sich LogOS" ^[guardians-und-kern-welten-konzept.md:L29]
 
@@ -117,3 +117,11 @@ nothing about what the lines say:
 Written from what [[nexus]], [[ueberraum]], [[ueberwelt]], [[kern-welten]] and
 [[verschraenkungs-insel]] already quote; every quotation here stands on one of those
 pages. No document was read for this page.
+
+## 2026-10-05 — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis
+
+**The three-part analysis places the Überwelt as AEGIS's administrative heart that Kael enters from the Kernwelten; it names neither Nexus nor Überraum.**
+
+Part II is headed „Dominante Domäne: Die Überwelt (AEGIS) & Meta-Ebene“ ^[romanstruktur-und-philosophische-einleitung.md:L136] In Kap 28: „Kael verlässt die bekannten Kernwelten und dringt in die **Überwelt** vor, das administrative Herz von AEGIS.“ ^[romanstruktur-und-philosophische-einleitung.md:L234]
+
+In the record's terms the analysis relates the Überwelt to the Kernwelten (entered from them) and relates it to no other name; it decides nothing.
