@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Textur abziehen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L318]
 - Story: „Vielleicht während der in Kapitel 22 verursachten Störung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319] · „das Rendering eines bestimmten Bereichs oder Objekts kurzzeitig zu 'brechen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
 - Story: „Drahtgittermodelle, sich wiederholende Texturkacheln, Codezeilen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Curse of Knowledge: AEGIS's Reaction to Kael's Progress`
+
+Title: „The Curse of Knowledge: AEGIS's Reaction to Kael's Progress“ ^[ai-assisted-narrative-coherence.md:L1535] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: scene 2.6 at „2.6 - A simulated "safe space" within KW1“ ^[ai-assisted-narrative-coherence.md:L1539], POV „Kael (System)“ ^[ai-assisted-narrative-coherence.md:L1540]
+
+- Story (goal): the scene outline plans „To weather AEGIS's direct psychological attack and maintain internal stability.“ ^[ai-assisted-narrative-coherence.md:L1541]
+- Story (beat): the scene outline plans „Isabelle's actions successfully disrupt AEGIS's logical attack script, but at the cost of terrifying other parts of the system.“ ^[ai-assisted-narrative-coherence.md:L1549]
+- Turn: `Outcome & Turn` has „The system survives the attack but is left shaken and aware of the full depth of its trauma.“ ^[ai-assisted-narrative-coherence.md:L1551]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The glitch as freedom
 
