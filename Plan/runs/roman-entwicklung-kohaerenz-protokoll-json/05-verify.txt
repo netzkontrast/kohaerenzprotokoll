@@ -1,0 +1,98 @@
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Signposts"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+`Signposts` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#4]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Domain"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+`Domain` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#4]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Narrativer Modus"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Narrativer Modus` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#3]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Thematischer Fokus"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Thematischer Fokus` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#3]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Progression"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+`Progression` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#3]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Problem / Solution"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Problem / Solution` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#3]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "funktionalen Multiplizität"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+`funktionalen Multiplizität` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#4]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "P-Zeit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`P-Zeit` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#1]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Nexus"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Nexus` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#3]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Kairos / Sophia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Kairos / Sophia` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#1]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Nichts-Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Nichts-Rauschen` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#2]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Nothingness Roaring"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Nothingness Roaring` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#1]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Das Fundament"
+whole word, case-sensitive     2
+whole word, case-insensitive   4
+including compounds            2
+`Das Fundament` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#2]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "The Foundation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`The Foundation` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#1]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            8
+`Kap` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#0]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Kapitel"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            8
+`Kapitel` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#6]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Kapiteln"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Kapiteln` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#2]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "Beat"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Beat` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#0]
+$ python3 scripts/read.py roman-entwicklung-kohaerenz-protokoll-json --count "end list"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+`end list` ^[roman-entwicklung-kohaerenz-protokoll-json.md:#4]
+
+stance_marker_count = Signposts 4 + Domain 4 + Narrativer Modus 3 + Thematischer Fokus 3 + Progression 3 + Problem / Solution 3 = 20
+roster: ANPs L91-L95 (Kael, Lex, Alex, Rhys, Argus) = 5; EPs L101-L105 (Nyx, Kiko, Lia, Isabelle, Moros) = 5; ISH L109 (Selene) = 1; total 11, matching "elf" at L85
