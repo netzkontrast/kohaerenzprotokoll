@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -76,6 +76,10 @@ Title: „Nicht-euklidische Isolation und das Kachelproblem“ ^[roman-konzept-d
 - Where: „Kael bewegt sich durch die Korridore der Stadt zu seinem Arbeitsplatz am Datenknotenpunkt Gamma-7“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]
 - Establishes: „das algorithmische „Kachelproblem““ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]
 - DKT: „Im DKT-Modus bleibt Kael stoisch (K1), doch sein Körper reagiert autonom mit feinem Zittern und Schwindel“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]
+
+## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — Lex and Alex emerge
+
+- Among the foreshadowing strands: „Das sukzessive Auftreten des Analytikers und des Protektors in Kapitel 2“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L123] — Lex and Alex — prepares the reader for the system's inner power struggles.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — a deviation, the city's gaslighting, and Lex breaks through
 
