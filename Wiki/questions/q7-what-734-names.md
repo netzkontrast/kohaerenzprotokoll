@@ -129,3 +129,11 @@ Where it stands in the record's own terms: it answers by function and signature,
 §3.3: „Kael wird als Komponente 734 abgespalten“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114]; the third beat is headed `Kael als 734`, and F9 writes the form as „Einheit → Trennungsprotokoll → Kael=734.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L550]
 
 Where it stands in the record's own terms: it names 734 a component and does not say what the number counts.
+
+## 2026-10-05 — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+**The outline of 2026-05-01 uses 734 for a host, a fragment and a structural marker.**
+
+Kap 2: „Controlled-Fragmentation-Protocol gegen Host \#734“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L164] Kap 25: „Fragment T-734“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L270] Foreshadowing level 3 calls the number among „Strukturelle Markierungen (sichtbar nur retrospektiv)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358]
+
+Stands: three uses, no definition.
