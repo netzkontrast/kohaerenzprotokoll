@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,15 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - Plot: „Angesichts von AEGIS' Angriff erreicht Kael den Höhepunkt seiner Integration.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298] „Seine fragmentierten Alters verschmelzen zu einem kohärenten Ganzen, das im Einklang mit seiner M-Resonanz und der Moonshine-Verbindung steht.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298]
 - Establishes: „Er erreicht die Phase“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298] of „Wissen, dass er weiß.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Sturm beginnt: Direkte Konfrontation mit AEGIS
+
+Title: the commission titles the chapter „Der Sturm beginnt: Direkte Konfrontation mit AEGIS“ ^[kontext-outline.md:L370], placed in Act 3. Position: `Setting` „AEGIS-Überwelt / kritische KW(en) unter Belagerung“ ^[kontext-outline.md:L376]
+
+- Theme: the commission's `Core Theme` is „Anwendung integrierter Fähigkeiten; Erste Phase des Klimax“ ^[kontext-outline.md:L372]
+- Story: its `Plot Summary` plans „AEGIS reagiert mit massiver Verteidigung (Guardians, psychologische Angriffe)“ ^[kontext-outline.md:L373]
+- Foci: `Kael Sys Focus` „Anteile koordiniert (Selene?)“ ^[kontext-outline.md:L374]; `AEGIS Focus` „Massive Verteidigung; Psych. Kriegsführung; Einsatz Guardians“ ^[kontext-outline.md:L375]
+- Notes: „Storming the Castle“ ^[kontext-outline.md:L378]
 
 ## Reading — `outline`, 2025-07-30, the outline — Sturm auf die Überwelt: Der Beginn des Angriffs / Rückkehr zum Nexus
 
