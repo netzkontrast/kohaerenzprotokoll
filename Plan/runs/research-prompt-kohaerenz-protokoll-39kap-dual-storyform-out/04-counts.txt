@@ -1,0 +1,287 @@
+# counts for 218 candidates
+# line numbers are FILE lines, as a citation writes them
+# 3 `- ` line(s) read as prose and not counted: Falsehood vs. Truth · Fact vs. Fantasy · Philip K. Dick
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                4 word     4 in   [15, 36, 146, 364]
+  Konstrukt-Stadt                   2 word     2 in   [743, 860]
+  Mnemosyne-Archipel                2 word     2 in   [344, 860]
+  Sektor 04                         1 word     1 in   [860]
+  Köln 2026                         1 word     1 in   [860]
+  thermische Risse                  1 word     1 in   [860]
+  Glitches                          1 word     1 in   [860]
+  Pixelierung                       1 word     1 in   [860]
+  Architektur als Antagonist        1 word     1 in   [860]
+  Kernwelten                        1 word     1 in   [860]
+  Universal Reboot                  2 word     2 in   [860, 896]
+  Universal Re-Connecting           1 word     1 in   [860]
+  Kael                              8 word     9 in   [293, 298, 308, 326, 329, 339]
+                                    1      as Kaels
+  Juna                             10 word    14 in   [240, 305, 308, 338, 412, 570]
+                                    2      as Juna-Komplex
+                                    1      as Juna-Resonanz
+                                    1      as Juna-Charakteristika
+  AEGIS                            14 word    19 in   [240, 307, 314, 319, 329, 339]
+                                    2      as AEGIS-Komplex
+                                    1      as AEGIS-Erasure-Sweep
+                                    1      as AEGIS-territorium
+                                    1      as AEGIS-internen
+  Guardians                         2 word     3 in   [307, 745, 848]
+                                    1      as Guardians-Liste
+  Lex                               1 word     1 in   [864]
+  Alex                              1 word     1 in   [864]
+  Rhys                              1 word     1 in   [864]
+  Selene                            1 word     1 in   [864]
+  Nyx                               1 word     1 in   [864]
+  Kiko                              1 word     1 in   [864]
+  Lia                               1 word     1 in   [864]
+  Isabelle                          1 word     1 in   [864]
+  Moros                             1 word     1 in   [864]
+  Argus                             1 word     1 in   [864]
+  Silas                             1 word     1 in   [864]
+  Oblivion                          1 word     1 in   [864]
+  ANP                               2 word     2 in   [345, 864]
+  EP                                1 word     4 in   [345, 767, 773, 864]  <-- substring
+  TSDP                              2 word     2 in   [747, 864]
+  13-Alter-System                   1 word     1 in   [747]
+  Alter                             4 word    10 in   [240, 264, 412, 570, 747, 847]  <-- substring
+                                    2      as Alter-Name
+                                    1      as alternativen
+                                    1      as Alter-System
+                                    1      as alternative
+  Funktionale Multiplizität         3 word     3 in   [682, 747, 864]
+  Host                              2 word     2 in   [329, 864]
+  Wir-Geflecht                      1 word     1 in   [864]
+  We-Voice                          1 word     1 in   [864]
+  Polyphonie                        1 word     3 in   [416, 864, 1007]  <-- substring
+                                    2      as Polyphonie-Bruch
+  Komponente 734                    2 word     2 in   [745, 872]
+  Index                             3 word     3 in   [266, 868, 1128]
+  Nox                               3 word     3 in   [266, 868, 1128]
+  Echo                              3 word     3 in   [266, 868, 1128]
+  Flicker                           3 word     3 in   [266, 868, 1128]
+  Limina                            3 word     3 in   [266, 868, 1128]
+  Praetor                           3 word     3 in   [266, 868, 1128]
+  Eos                               3 word     3 in   [266, 868, 1128]
+  Elara                             3 word     3 in   [266, 868, 1128]
+  Aris                              3 word     3 in   [266, 868, 1128]
+  Mina                              3 word     3 in   [266, 868, 1128]
+  Lyra                              3 word     3 in   [266, 868, 1128]
+  Soren                             3 word     3 in   [266, 868, 1128]
+  Tariq                             3 word     3 in   [266, 868, 1128]
+  Nova                              3 word     3 in   [266, 868, 1128]
+  Sentinel                          3 word     3 in   [266, 868, 1128]
+  LogOS                             1 word     1 in   [872]
+  Mnemosyne                         1 word     3 in   [344, 860, 872]  <-- substring
+                                    2      as Mnemosyne-Archipel
+  Cerberus                          1 word     1 in   [872]
+  Kairos                            1 word     1 in   [872]
+  Sophia                            1 word     1 in   [872]
+  Genesis-Krise                     3 word     3 in   [306, 746, 872]
+  Genesis-Sequenz                   2 word     2 in   [745, 896]
+  Algorithmische Melancholie        2 word     2 in   [745, 872]
+  Algorithmischer Melancholie       1 word     1 in   [348]
+  Primal Directive                  1 word     1 in   [872]
+  Trennungsprotokoll                2 word     3 in   [328, 745, 872]
+                                    1      as Trennungsprotokolle
+  Trennungsprotokolle               1 word     1 in   [328]
+  Erasure-Sweeps                    2 word     2 in   [745, 872]
+  Erasure-Sweep                     0 word     3 in   [344, 745, 872]  <-- substring
+                                    2      as Erasure-Sweeps
+  ZTEM                              1 word     1 in   [872]
+  RTSV                              1 word     1 in   [872]
+  BPoF                              1 word     1 in   [872]
+  EIC                               1 word     1 in   [872]
+  IntegrityGuardian                 1 word     1 in   [872]
+  CogFirewall                       1 word     1 in   [872]
+  ConsensusEnf                      1 word     1 in   [872]
+  SIS                               1 word     3 in   [872, 1162, 1206]  <-- substring
+  EntropicMgmt                      1 word     1 in   [872]
+  RIVE                              1 word     1 in   [872]
+  PMAS                              1 word     1 in   [872]
+  SARM                              1 word     1 in   [872]
+  Moonshine-Link                    2 word     2 in   [308, 876]
+  Witness-Funktion                  2 word     2 in   [746, 876]
+  Witness-Moment                    1 word     1 in   [346]
+  Gödel-Eigenschaft                 3 word     3 in   [339, 746, 876]
+  B+C-Superposition                 1 word     1 in   [876]
+  MI-Ghost                          1 word     1 in   [876]
+  Phantom-Resonanz                  2 word     2 in   [746, 876]
+  Telefon-Stille                    2 word     2 in   [746, 876]
+  Mosaik-Herz                       1 word     1 in   [876]
+  Impact Character                  1 word     1 in   [876]
+  Fragmentierungsnacht              1 word     1 in   [876]
+  lebende Paradoxie                 2 word     2 in   [326, 339]
+  Dual-Kernel-Theorie               2 word     2 in   [743, 880]
+  DKT                               2 word     9 in   [240, 280, 372, 743, 850, 880]  <-- substring
+  K0                                4 word     5 in   [314, 743, 745, 850, 880]
+  K1                                4 word     5 in   [293, 743, 745, 850, 880]
+  Coherence-Domain                  1 word     1 in   [743]
+  Collapse-Domain                   1 word     1 in   [743]
+  Coheron                           2 word     2 in   [850, 880]
+  Erason                            2 word     2 in   [850, 880]
+  Landauer-Limit                    2 word     2 in   [850, 880]
+  Landauer-Hitze                    2 word     2 in   [347, 745]
+  Bekenstein-Schranke               2 word     2 in   [850, 880]
+  Hawking-Strahlung                 1 word     1 in   [880]
+  Chaitin-Konstante                 1 word     1 in   [880]
+  Halteproblem                      1 word     1 in   [880]
+  Gödel-Unvollständigkeit           1 word     1 in   [880]
+  Russell-Antinomie                 1 word     1 in   [880]
+  η-Formel                          2 word     2 in   [850, 880]
+  MI(S)                             2 word     2 in   [743, 880]
+  Suppression-Effizienz             1 word     1 in   [743]
+  Strange Attractor                 1 word     1 in   [880]
+  holographisches Prinzip           1 word     1 in   [880]
+  BRST                              1 word     1 in   [880]
+  VOA                               1 word     1 in   [880]
+  Leech-Lattice                     1 word     1 in   [880]
+  Klein-Vierergruppe                1 word     1 in   [880]
+  Klein'sche Vierergruppe           1 word     1 in   [241]
+  Domain-Inversion                  1 word     1 in   [746]
+  Riss-Mandat                       1 word     1 in   [884]
+  Fundament                         2 word     2 in   [743, 884]
+  Gardener's Axiom                  1 word     1 in   [884]
+  Guardian's Dilemma                1 word     1 in   [884]
+  Driver-Pivot                      4 word     5 in   [334, 352, 884, 1004, 1082]
+                                    1      as Driver-Pivot-Markierung
+  Optionlock                        4 word     5 in   [310, 480, 884, 1001, 1154]
+                                    1      as Optionlock-Hinweis
+  Timelock                          4 word     5 in   [331, 480, 884, 1002, 1154]
+                                    1      as Timelock-Hinweis
+  Vortex-Inversion                  2 word     2 in   [336, 884]
+  Storyforming                      1 word     1 in   [884]
+  Vortex                            4 word    15 in   [242, 334, 336, 342, 561, 744]  <-- substring
+                                    2      as Vortex-Beats
+                                    2      as Vortex-Inversion
+                                    2      as Vortex-Beat-Zuordnung
+                                    1      as Vortex-Architektur
+  Convergence                       2 word     2 in   [344, 1004]
+  Pivot                             4 word    23 in   [334, 345, 352, 468, 472, 554]  <-- substring
+                                    3      as Pivot-Marker
+                                    3      as Pivot-Vorschlag
+                                    2      as Pivot-Marker-Block
+                                    2      as Pivots
+  Stille als lebende Dialetheia     2 word     2 in   [346, 1004]
+  Heat-Spike                        2 word     2 in   [347, 1004]
+  Rotation                          2 word     2 in   [348, 1004]
+  Ouroboros                         0 word     7 in   [492, 750, 852, 896, 1005, 1027]  <-- substring
+                                    4      as Ouroboros-Marker
+                                    1      as Ouroboros-Schluss
+                                    1      as Ouroboros-Phänomenologie
+                                    1      as Ouroboros-Ende
+  Ouroboros-Ende                    1 word     1 in   [896]
+  Ouroboros-Schluss                 1 word     1 in   [750]
+  Ouroboros-Marker                  4 word     4 in   [492, 1005, 1027, 1083]
+  Pivot-Marker                      3 word     5 in   [472, 556, 1003, 1025, 1081]
+                                    2      as Pivot-Marker-Block
+  Limit-Marker                      2 word     2 in   [480, 1003]
+  Outcome-Marker                    2 word     2 in   [484, 1003]
+  Driver-Status                     2 word     2 in   [476, 1003]
+  Vortex-Beat-Zuordnung             2 word     2 in   [1026, 1082]
+  Pivot-Kapitel                     2 word     4 in   [468, 554, 1081, 1153]
+                                    1      as Pivot-Kapiteln
+                                    1      as Pivot-Kapitel-Liste
+  IC-Asymmetrie                     1 word     1 in   [336]
+  Interferenz-Engine                1 word     1 in   [340]
+  Storyform A                       6 word     6 in   [146, 293, 338, 420, 746, 1023]
+  Storyform B                       6 word     6 in   [146, 314, 339, 444, 746, 1024]
+  Heuristics of Integration         4 word     4 in   [146, 293, 420, 896]
+  Phoenix Collapse                  4 word     4 in   [146, 314, 444, 896]
+  39-Kapitel-Matrix                 1 word     1 in   [896]
+  Spiegel-Effekt                    1 word     1 in   [896]
+  Köln-Bridge                       1 word     1 in   [896]
+  epistemologische Eskalation       1 word     1 in   [896]
+  Ästhetik der Ohnmacht             3 word     3 in   [744, 896, 1000]
+  Anatomie der Spaltung             3 word     3 in   [744, 896, 1000]
+  Existenzielle Fusion              2 word     2 in   [744, 1000]
+  Computational Class               2 word     2 in   [278, 1126]
+  Somatic Rulebook                  2 word     2 in   [279, 1126]
+  Lesersteuerung                    1 word     1 in   [888]
+  Reader-Substrate                  4 word     8 in   [150, 416, 719, 888, 1007, 1022]
+                                    2      as Reader-Substrate-Mechanismus
+                                    1      as Reader-Substrate-Mechanismen
+                                    1      as Reader-Substrate-Theorie
+  Leerstellen                       2 word     2 in   [719, 888]
+  Foreshadowing-Patterns            1 word     1 in   [888]
+  Fußnoten-System                   1 word     1 in   [888]
+  unreliable narrators              2 word     2 in   [719, 752]
+  Temporal Scrambling               1 word     1 in   [888]
+  Mosaik-Form                       3 word     3 in   [719, 752, 888]
+  Stilbruch-Akte                    1 word     1 in   [888]
+  fraktale Zeitstruktur             2 word     2 in   [719, 888]
+  Egan-Falle                        1 word     1 in   [888]
+  Ted-Chiang-Maßstab                1 word     1 in   [888]
+  Lesersog                          1 word     1 in   [888]
+  Throughline                      14 word    18 in   [174, 242, 265, 298, 305, 307]
+                                    1      as Throughlines
+  Signpost                          4 word     7 in   [174, 428, 452, 1001, 1023, 1024]
+                                    2      as Signpost-Beat
+                                    1      as Signposts
+  Concern                          10 word    10 in   [174, 299, 306, 320, 327, 432]
+  Issue                             8 word     8 in   [174, 300, 321, 436, 460, 1001]
+  Driver                            5 word    19 in   [174, 309, 330, 334, 352, 440]  <-- substring
+                                    5      as Driver-Trigger
+                                    4      as Driver-Pivot
+                                    2      as Driver-Status
+                                    1      as Driver-Pivot-Markierung
+  Limit                             6 word    10 in   [174, 310, 331, 480, 628, 850]
+                                    2      as Limit-Marker
+  Outcome                           5 word     7 in   [174, 311, 332, 484, 1001, 1002]
+                                    2      as Outcome-Marker
+  Judgment                          4 word     4 in   [312, 333, 1001, 1002]
+  Storypoint                        2 word     4 in   [297, 318, 716, 851]
+                                    1      as Storypoints
+  Storypoints                       1 word     2 in   [716, 851]
+  Steadfast                         1 word     1 in   [325]
+  Brücke                            8 word    11 in   [244, 281, 416, 572, 574, 1005]
+                                    1      as Brücken-Beats
+                                    1      as Brücken-Vorschläge
+                                    1      as Brücken-Markierung
+  Vorschlag                         6 word    11 in   [281, 412, 566, 570, 1003, 1006]
+                                    1      as vorschlagen
+  nicht in Quellen                  3 word     3 in   [416, 1007, 1142]
+  Pivot-Vorschlag                   3 word     3 in   [566, 1003, 1081]
+  single-source                     7 word     7 in   [540, 600, 605, 1028, 1103, 1264]
+                                    1      as Single-Source-Befunde
+  Kanon-Trio                       16 word    17 in   [26, 238, 248, 264, 265, 532]
+                                    1      as Kanon-Trios
+  Kanon-Snapshot                    2 word     5 in   [27, 158, 258, 789, 1192]  <-- substring
+                                    3      as Kanon-Snapshot-Datum
+  Kanon-Drift-Check                 4 word     4 in   [24, 935, 946, 1184]
+  Reflection Baseline               4 word     4 in   [25, 182, 781, 1277]
+  Source Triangulation              5 word     5 in   [19, 584, 813, 999, 1281]
+  Contradiction Log                12 word    12 in   [20, 70, 607, 621, 692, 817]
+  What Would Change My Mind         3 word     3 in   [21, 630, 821]
+  Adversarial Query Expansion       7 word     7 in   [22, 88, 122, 659, 809, 1095]
+  M13                               8 word    11 in   [190, 659, 856, 1030, 1085, 1095]
+  Hidden-Items / Schema-Gap Sanity Pass    2 word     2 in   [23, 917]
+  Seed Query Set                    7 word     7 in   [673, 841, 856, 900, 904, 927]
+  Anti-Rationalization Guard        1 word     1 in   [224]
+  Pre-Synthesis Integrity Check     5 word     5 in   [108, 191, 700, 1059, 1285]
+  Restatement Checkpoint            7 word     7 in   [582, 767, 769, 773, 975, 979]
+  Query Expansion Log               6 word     6 in   [688, 1085, 1180, 1236, 1278, 1286]
+  Reflection History                3 word     3 in   [1085, 1228, 1286]
+  Methodology Note                  3 word     3 in   [220, 1085, 1260]
+  Verworfenes Legacy-Material       3 word     3 in   [623, 1085, 1212]
+  Story Architect                   1 word     1 in   [712]
+  Dramatica                         2 word    14 in   [146, 154, 174, 280, 376, 681]  <-- substring
+                                    3      as Dramatica-Termini
+                                    3      as Dramatica-Vokabular
+                                    1      as Dramatica-Storyform-Encoding-Phase
+                                    1      as Dramatica-Storyforms
+  ReAct                             3 word     6 in   [22, 80, 82, 126]
+                                    1      as ReAct-Framework
+                                    1      as ReAct-Zyklus
+                                    1      as ReAct-Wirbelsäule
+  RISEN                             4 word     5 in   [22, 124, 126]
+                                    1      as RISEN-Framework
+  IFS                               0 word     2 in   [682, 718]
+  Iser                              4 word     4 in   [719, 751, 888, 892]
+  Greg Egan                         3 word     3 in   [717, 751, 892]
+  Ted Chiang                        3 word     3 in   [717, 751, 892]
+  Jeff VanderMeer                   2 word     2 in   [751, 892]
+  Heidegger Sein-zum-Tode           1 word     1 in   [892]
+  Wittgenstein Grenzen des Sagbaren    1 word     1 in   [892]
+  Kant Phaenomena/Noumena           1 word     1 in   [892]
