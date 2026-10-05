@@ -1,10 +1,10 @@
 ---
 term: Residual-Echos
 status: candidate
-sources: 7
-readings: 5
+sources: 8
+readings: 6
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md", "textanalyse-existenz-system-und-leid"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md", "textanalyse-existenz-system-und-leid", "einleitung-genesis-der-existenz"]
 gathered: "2026-09-25"
 ---
 
@@ -19,6 +19,10 @@ annotated draft and `koharenz-protokoll-kapitel-0-v2-md` — the second, read on
 Doppel-Klammer Abhandlung, nine days earlier, describes echoes of the
 Ursprungs-Ich in Kap 0 that AEGIS classifies the same way, and it says what they
 are in Kap 40.
+
+## Reading — `einleitung-genesis-der-existenz`, 2025-04-29, the Genesis narrative — echoes of origin that are processed, not erased
+
+The narrator says of the closure: „Die alten Echos der Herkunft“ ^[einleitung-genesis-der-existenz.md:L95] are not erased but processed (L95), and the loneliness stays as a background noise. In `Die Krise` the remains of the Ursprungs-Ich are the „latenten Echos“ ^[einleitung-genesis-der-existenz.md:L143] (L143). The narrative does not write `Residual-Echos` ^[einleitung-genesis-der-existenz.md:#0].
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the echoes of origin, tolerated as function and suppressed as variance
 
