@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 25
-readings: 26
+sources: 26
+readings: 27
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
 gathered: "2026-09-17"
 ---
 
@@ -56,6 +56,10 @@ Kap 27 is titled for a descent into it and plans Kael to dive „in das rohe, ma
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Potentialmeer in Kap 21 as AEGIS's origin
 
 Kap 21 plans a log that explains „Das Kapitel ist ein reiner Log-File, der AEGIS' Entstehung aus dem“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271] „Potentialmeer“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271] „und seine panische Angst vor Entropie erklärt.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Kael as the gardener in the Potentialmeer
+
+The Teil III plot has Kael become a gardener „Anstatt AEGIS zu vernichten, wird Kael zum“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L29] in the Potentialmeer who accepts entropy-noise „als lebensnotwendige Quelle für Emergenz akzeptiert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L29]. Leitfrage 10 proposes the ending: „Der Roman endet nicht mit einem sauberen Sieg, sondern mit einer Meta-Reflexion“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L104], with Kael „Kael pflanzt als“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L104] gardener the seeds without controlling what grows.
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Kap 33
 
