@@ -2,27 +2,27 @@
 
 `python3 scripts/crossdoc.py coverage`: for every term page, the landed documents that write one of its surfaces as a whole word (`corpus.py`, a count), against the documents read onto the page (its `ingested:`). A document that writes a name may say nothing about the thing, so every number here is an upper bound on what reading could add.
 
-**106 pages, 79 documents with a census.** On average a page is read from 105% of the documents that write its names.
+**106 pages, 80 documents with a census.** On average a page is read from 106% of the documents that write its names.
 
 ## The thinnest pages — most unread documents writing their names
 
 | page | write its names | read on it | read, not on it | unread | coverage | the unread, most first |
 |---|---|---|---|---|---|---|
-| `kohaerenz` | 516 | 27 | 4 | 447 | 5% | `roman-outline-leserlebnis-und-tiefe` 127×, `aegis-genesis-krise-prosa-auftrag-2` 71×, `plot-konzepte-kohaerenz-protokoll-generierung` 62× |
-| `aegis` | 492 | 73 | 2 | 417 | 15% | `ai-assisted-narrative-coherence` 411×, `aegis-singularitaet-jenseits-entropiegleichung-2` 342×, `romanarchitektur-kael-aegis-entropie-docx` 232× |
-| `kael` | 481 | 69 | 3 | 410 | 14% | `ai-assisted-narrative-coherence` 436×, `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1` 216×, `leserzentrierte-roman-outline-generierung-kohaeren` 204× |
-| `juna` | 420 | 60 | 3 | 359 | 14% | `juna-resilienz-zyklus-konzeptentwicklung` 102×, `juna-kael-system-analyse-und-rettungsplan-docx` 87×, `junas-liebe-kaels-trauma-aegis-docx` 67× |
-| `risse` | 386 | 55 | 3 | 335 | 14% | `orte-konzept-fuer-kohaerenz-protokoll` 81×, `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1` 66×, `physik-fuer-simulierte-realitaet` 43× |
-| `ueberwelt` | 384 | 34 | 7 | 325 | 9% | `physik-fuer-simulierte-realitaet` 113×, `orte-konzept-fuer-kohaerenz-protokoll` 74×, `holographisches-prinzip-fuer-kohaerenz-protokoll` 54× |
-| `tsdp` | 266 | 42 | 0 | 228 | 16% | `2-kohaerenz-protokoll-konzeptentwicklung` 37×, `roman-konzept-kohaerenz-protokoll` 37×, `kohaerenz-prozess-grundlagen` 37× |
-| `entropie` | 269 | 49 | 1 | 223 | 18% | `emergenz-autonomer-systeme-aegis-forschung` 41×, `aegis-singularitaet-jenseits-entropiegleichung-2` 41×, `umfassendes-lokalitaeten-konzept-fuer-roman` 38× |
-| `lex` | 259 | 45 | 3 | 213 | 17% | `strukturelle-dissoziation-system-kael-analyse` 68×, `tsdp-analyse-kohaerenz-protokoll-charaktere` 66×, `roman-outline-fuer-kohaerenz-protokoll` 63× |
-| `nyx` | 258 | 43 | 4 | 212 | 17% | `tsdp-analyse-kaels-innere-welt` 64×, `strukturelle-dissoziation-system-kael-analyse` 63×, `kael-system-tsdp-analyse-und-profile` 61× |
-| `kiko` | 241 | 42 | 3 | 197 | 17% | `kael-system-tsdp-analyse-und-profile` 49×, `tsdp-analyse-kaels-innere-welt` 46×, `strukturelle-dissoziation-system-kael-analyse` 45× |
-| `emergenz` | 222 | 20 | 0 | 195 | 9% | `emergenz-autonomer-systeme-aegis-forschung` 41×, `interdisziplinaere-recherche-fuer-kohaerenz-protokoll` 39×, `narrativ-existenzieller-kohaerenz-nzt-protokoll` 37× |
-| `multiplizitaet` | 207 | 50 | 2 | 168 | 24% | `romanarchitektur-kael-aegis-entropie-docx` 39×, `roman-blueprint-seelen-kohaerenz-protokoll` 29×, `narrative-loesungen-fuer-romanprojekt` 25× |
+| `kohaerenz` | 516 | 27 | 4 | 446 | 5% | `roman-outline-leserlebnis-und-tiefe` 127×, `aegis-genesis-krise-prosa-auftrag-2` 71×, `plot-konzepte-kohaerenz-protokoll-generierung` 62× |
+| `aegis` | 492 | 74 | 2 | 416 | 15% | `ai-assisted-narrative-coherence` 411×, `aegis-singularitaet-jenseits-entropiegleichung-2` 342×, `romanarchitektur-kael-aegis-entropie-docx` 232× |
+| `kael` | 481 | 70 | 3 | 409 | 15% | `ai-assisted-narrative-coherence` 436×, `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1` 216×, `leserzentrierte-roman-outline-generierung-kohaeren` 204× |
+| `juna` | 420 | 61 | 3 | 358 | 14% | `juna-resilienz-zyklus-konzeptentwicklung` 102×, `juna-kael-system-analyse-und-rettungsplan-docx` 87×, `junas-liebe-kaels-trauma-aegis-docx` 67× |
+| `risse` | 386 | 56 | 3 | 334 | 14% | `orte-konzept-fuer-kohaerenz-protokoll` 81×, `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1` 66×, `physik-fuer-simulierte-realitaet` 43× |
+| `ueberwelt` | 384 | 35 | 7 | 324 | 9% | `physik-fuer-simulierte-realitaet` 113×, `orte-konzept-fuer-kohaerenz-protokoll` 74×, `holographisches-prinzip-fuer-kohaerenz-protokoll` 54× |
+| `tsdp` | 266 | 43 | 0 | 228 | 16% | `2-kohaerenz-protokoll-konzeptentwicklung` 37×, `roman-konzept-kohaerenz-protokoll` 37×, `kohaerenz-prozess-grundlagen` 37× |
+| `entropie` | 269 | 50 | 1 | 222 | 19% | `emergenz-autonomer-systeme-aegis-forschung` 41×, `aegis-singularitaet-jenseits-entropiegleichung-2` 41×, `umfassendes-lokalitaeten-konzept-fuer-roman` 38× |
+| `lex` | 259 | 46 | 3 | 212 | 18% | `strukturelle-dissoziation-system-kael-analyse` 68×, `tsdp-analyse-kohaerenz-protokoll-charaktere` 66×, `roman-outline-fuer-kohaerenz-protokoll` 63× |
+| `nyx` | 258 | 44 | 4 | 211 | 17% | `tsdp-analyse-kaels-innere-welt` 64×, `strukturelle-dissoziation-system-kael-analyse` 63×, `kael-system-tsdp-analyse-und-profile` 61× |
+| `kiko` | 241 | 43 | 3 | 196 | 18% | `kael-system-tsdp-analyse-und-profile` 49×, `tsdp-analyse-kaels-innere-welt` 46×, `strukturelle-dissoziation-system-kael-analyse` 45× |
+| `emergenz` | 222 | 21 | 0 | 194 | 10% | `emergenz-autonomer-systeme-aegis-forschung` 41×, `interdisziplinaere-recherche-fuer-kohaerenz-protokoll` 39×, `narrativ-existenzieller-kohaerenz-nzt-protokoll` 37× |
 | `alters` | 203 | 53 | 1 | 168 | 26% | `charakterkonzepte-fuer-kohaerenz-protokoll` 79×, `kohaerenz-protokoll-konzept` 55×, `kohaerenz-protokoll-plot-blueprint-erstellung` 48× |
-| `guardians` | 208 | 49 | 1 | 163 | 24% | `roman-blueprint-seelen-kohaerenz-protokoll` 105×, `kohaerenz-protokoll-konzept` 85×, `kohaerenz-protokoll-finaler-plot-blueprint` 67× |
+| `multiplizitaet` | 207 | 51 | 2 | 167 | 25% | `romanarchitektur-kael-aegis-entropie-docx` 39×, `roman-blueprint-seelen-kohaerenz-protokoll` 29×, `narrative-loesungen-fuer-romanprojekt` 25× |
+| `guardians` | 208 | 50 | 1 | 162 | 24% | `roman-blueprint-seelen-kohaerenz-protokoll` 105×, `kohaerenz-protokoll-konzept` 85×, `kohaerenz-protokoll-finaler-plot-blueprint` 67× |
 
 ## Open records — unread documents writing the names of two or more of their pages
 
@@ -56,7 +56,6 @@
 
 | document | records | pages of theirs it names |
 |---|---|---|
-| `kohaerenz-protokoll-39-kapitel-matrix` | C10, C15, C16, C3, C4, C5, C6, C9, Q1, Q3, Q4, Q5, Q6, Q7, Q8, Q9 | 27 |
 | `romanprojekt-kohaerenz-protokoll-leitfragen` | C10, C15, C16, C3, C4, C5, C6, Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9 | 25 |
 | `romanprojekt-analyse-kohaerenz-protokoll` | C10, C11, C15, C16, C4, C5, C6, Q1, Q3, Q4, Q5, Q6, Q7, Q8, Q9 | 33 |
 | `ai-assisted-narrative-coherence` | C10, C15, C16, C3, C4, C5, C6, Q1, Q3, Q4, Q5, Q6, Q7, Q8, Q9 | 31 |
@@ -71,3 +70,4 @@
 | `outline-3` | C10, C15, C16, C3, C4, C5, C6, Q1, Q3, Q4, Q5, Q6, Q7, Q8, Q9 | 26 |
 | `charaktere` | C10, C15, C16, C3, C4, C5, C6, Q1, Q3, Q4, Q5, Q6, Q7, Q8, Q9 | 26 |
 | `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch` | C10, C15, C16, C4, C5, C6, Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9 | 26 |
+| `2-kohaerenz-protokoll-konzeptentwicklung` | C10, C15, C16, C3, C4, C5, C6, Q1, Q3, Q4, Q5, Q6, Q7, Q8, Q9 | 25 |
