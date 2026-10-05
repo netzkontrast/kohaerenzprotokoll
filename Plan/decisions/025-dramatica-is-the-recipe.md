@@ -193,6 +193,11 @@ with the consequences of each option laid out.
     are not decided.
 36. **Argus observes and belongs to no camp (2026-10-05):** he analyses all three and first notices AEGIS' error
     (Kap 19–20); that he does not choose is his limit. In `anteile.json` (camp `Beobachtung`) and the canon (`Lager`).
+37. **The scene list of Akt I is the working basis (2026-10-05):** every chapter 0–13 with goal, opposition, turn and
+    seam (`Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md`), the escalation by price in Kap 2, 5, 9,
+    Kap 12 → 13 as the fixed end of the act, and the four people's appearances. In the remembered scenes Juna wants
+    something only for herself (Kap 4), and Kap 11 shows only the edge of the separation; the rest is Kap 18's (canon
+    `Davor`). The four points draft G sets against the sources stand (canon `Kap1-G`).
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
