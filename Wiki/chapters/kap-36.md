@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 31
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 32
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,14 @@ Position: Teil III, „Der Ausbruch“ ^[romanstruktur-und-philosophische-einlei
 
 - Story: „starten einen letzten, automatisierten Angriffsversuch“ ^[romanstruktur-und-philosophische-einleitung.md:L268]
 - Story: „Es ist ein Wettlauf gegen die Löschung, während die Welt neu bootet.“ ^[romanstruktur-und-philosophische-einleitung.md:L268]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die totale Integration
+
+Title: „Die totale Integration“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L346]
+Position: Teil III; setting from the `Schauplatz` field: „Der Singuläre Punkt der Kohärenz (Das Fundament)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L348]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael, Juna, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L349]
+- Story: the blueprint plans, in `Plot-Beats`, „AEGIS stellt Kael die ultimative logische Falle“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L351] and „vereint Kael beide unvereinbaren Wahrheiten physisch in sich“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L351]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — the fourth wall breaks, Wigner's effectiveness of mathematics
 
