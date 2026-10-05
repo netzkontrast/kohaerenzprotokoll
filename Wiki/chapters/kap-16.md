@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -85,6 +85,15 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „erste-Person-Maschine“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228]; „LogOS läuft in eine Schleife“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228]
 - Foreshadowing: „Lia, Isabelle als Cache-Spuren — bevor sie als Alter erscheinen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Discursive Gambit
+
+Title: „The Discursive Gambit“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L467]
+Position: Akt II; POV: „POV: Die Alters (im fließenden Wechsel).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L475]
+
+- Story: the outline plans „Diese gezielte Parakonsistenz überfordert die binäre Logik von AEGIS“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L473]
+- Story: the outline plans „Kael schlüpft durch die engsten Kontrollgatter der Stadt“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L473]
+- Concepts: „Discursive Logic, Parakonsistenz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L471]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
