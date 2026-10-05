@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael führt absichtlich Aktionen durch, von denen er weiß, dass AEGIS sie überwacht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Story: „Er beginnt, eine mentale (oder tatsächliche) Karte des Überwachungsnetzes zu erstellen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Discussion: „Dieser Subplot macht Kael zu einem aktiven Ermittler des Systems.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L216]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Architecture of Control: Analysis of the Overworld`
+
+Title: „The Architecture of Control: Analysis of the Overworld“ ^[ai-assisted-narrative-coherence.md:L1451] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
+Position: the scene outline plans the scene at „2.2 - AEGIS Überwelt (Log Entry)“ ^[ai-assisted-narrative-coherence.md:L1455], POV „AEGIS (Log Format)“ ^[ai-assisted-narrative-coherence.md:L1456]
+
+- Story (conflict): the scene outline plans „His actions are increasingly unpredictable because they are not the product of a single mind“ ^[ai-assisted-narrative-coherence.md:L1458]
+- Story (beat): the scene outline plans „escalate surveillance and deploy“ ^[ai-assisted-narrative-coherence.md:L1465]
+- Turn: `Outcome & Turn` has „The narrative tension escalates as the antagonist begins to actively hunt the protagonist.“ ^[ai-assisted-narrative-coherence.md:L1466]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The architecture of the guardians
 
