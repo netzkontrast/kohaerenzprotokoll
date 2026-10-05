@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -68,6 +68,14 @@ Position: Teil II; setting from the `Schauplatz` field: „Die Randbereiche der 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Juna/V, Selene (Self)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L193]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael findet einen rauschfreien Nexus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] and „Hier offenbart sich Juna in ihrer wahren Form“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Riss im Schild
+
+Title: „Der Riss im Schild“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L217] — heading „Die Überforderung des Wächters“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L218]
+Position: Teil II; POV from `Perspektive & Stimme`: „Alex (bricht zusammen)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L219]; place from `Ort`: „Tief im Labyrinth von KW3“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L221]
+
+- Story: the matrix plans „Alex scheitert an einem Logik-Paradoxon des Systems. Lia bricht durch und löst die Situation nicht durch Kampf, sondern durch Intuition/Spiel“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L223]
+- Question: „Was passiert, wenn die stärkste Mauer bricht?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L222]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
