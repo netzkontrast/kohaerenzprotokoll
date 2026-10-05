@@ -39,6 +39,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`monstergruppe-primzahlen-plot-blueprint`](monstergruppe-primzahlen-plot-blueprint/contracts.md) |  |  |  |  |  |  |  |  | 103 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`outline`](outline/contracts.md) |  |  |  |  |  |  |  |  | 81 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`roman-konzept-dualitaet-kohaerenz-spannung`](roman-konzept-dualitaet-kohaerenz-spannung/contracts.md) |  |  |  |  |  |  |  |  | 84 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [`roman-outline-system-kael`](roman-outline-system-kael/contracts.md) |  |  |  |  |  |  |  |  | 46 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`roman-plot-entwicklung-mit-kohaerenzprotokoll`](roman-plot-entwicklung-mit-kohaerenzprotokoll/contracts.md) |  |  |  |  |  |  |  |  | 130 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`romanstruktur-und-philosophische-einleitung`](romanstruktur-und-philosophische-einleitung/contracts.md) |  |  |  |  |  |  |  |  | 95 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`systemic-architecture-specification-the-coherence-protocol-w`](systemic-architecture-specification-the-coherence-protocol-w/contracts.md) |  |  |  |  |  |  | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 16 | 31 |  |  |  |  |
@@ -48,4 +49,4 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`three-mode-architecture-39-chapters-md`](three-mode-architecture-39-chapters-md/contracts.md) |  |  |  |  |  |  |  |  | 45 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-180 runs on 43 sources: 155 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+181 runs on 44 sources: 156 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
