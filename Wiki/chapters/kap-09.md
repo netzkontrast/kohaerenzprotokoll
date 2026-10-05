@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -98,6 +98,15 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 
 - Story: the outline places: „Kael rennt durch zerfallende Korridore“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L192]; „Vier Minuten verloren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L192]; „Er hat Blut an den Händen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L192]
 - The entry for Kap 31 counts this chapter among those whose seconds were taken: „Er war derjenige, der die Sekunden in Kap 1, 3, 9 gestohlen hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Flight into the Fortress
+
+Title: „Flight into the Fortress“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L255]
+Position: Akt I; POV: „POV: Argus.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L263]
+
+- Story: the outline plans „flieht das System in die labyrinthische Festung der Core World 3“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L261]
+- Story: the outline plans „Kael ist vor AEGIS sicher, aber auch vor sich selbst“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L261]
+- Concepts: „Core World 3 (KW3), Argus (Alter)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L259]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
