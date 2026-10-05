@@ -92,3 +92,5 @@ heißt jetzt: Kael begegnet der Frau, mit der er seit Jahren lebt, und erkennt s
 | Arc | Zeitlinie (F8, F10): der Anruf → zehn Jahre, die Kael vergessen hat → die beiden sind inzwischen ein Paar → heute droht eine Trennung aus Liebe. Kael erinnert das erst im Lauf der Geschichte; Juna ist zuerst nur Erinnerung. Die Trennung droht aus drei Gründen zugleich (F9). |
 | Voice | Lachen zuerst; Fragen statt Antworten; praktisch, geerdet — das Große zwischen dem Konkreten (F14). |
 | Relationships | Kael: „schon immer bekannt“, „Instant Urvertrauen“, über Zeit hinweg; Momente, „wo einfach Dinge klar waren ohne klar sein zu müssen“ (A2). Vorfreude auf stundenlange Telefonate (A1). |
+
+**Abschluss (2026-10-05):** Auf deine Antwort „In den Kanon übernehmen“ steht die Karte in `Manuscript/kanon.md` (id `Juna`). „Steadfast ist richtig“: Juna bleibt die standhafte Einflussfigur von A; ihre Haltung bleibt, ihr Verhalten reift.
