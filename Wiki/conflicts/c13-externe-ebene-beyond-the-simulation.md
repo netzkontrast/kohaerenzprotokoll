@@ -110,3 +110,11 @@ In the record's terms the analysis stands with a level beyond the simulation, in
 OQ-01 asks: „eine reale Person in der Welt außerhalb der Simulation“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L205], an emergent anomaly or a manifestation of Kael's relational essence. It is filed as KRITISCH and a decision is needed before the outlines of Teil II.
 
 Stands open in the document's own OFFENE FRAGEN, dated 2026-03-26.
+
+## 2026-10-05 — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint
+
+**The master blueprint names the Externe Ebene once, as Juna's form in Kap 17, and sets a sea beyond the simulation in Kap 27.**
+
+Kap 17 plans: „Hier offenbart sich Juna in ihrer wahren Form“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] and names her „Externe Ebene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195], the one „das die Gnosis (emotionale Wahrheit) der ursprünglichen Fragmentierung in sich birgt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] Kap 27 sets „Epsilon-Null (Das Potentialmeer jenseits der Simulation)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L276]
+
+Stands as the term written for Juna in Kap 17, with a sea beyond the simulation in Kap 27; recorded, not decided.
