@@ -209,7 +209,7 @@ def overview(forms):
         L += ["", "Plot: " + " · ".join(f"{k} **{v}**" for k, v in plot.items()), "",
               "Besetzung: " + "; ".join(f"{p['name']} — {p['role']}" + (f" ({', '.join(p['os_elements'])})" if p["os_elements"] else "")
                                        for p in sf["players"]),
-              "", "Offen: " + "; ".join(sf["open"])]
+              "", "Offen: " + ("; ".join(sf["open"]) or "—")]
         errors, notes = audit(sf)
         L += ["", "Gegen die Ableitung D1–D7 (`dramatica.py derive`): " + ("stimmt überein." if not notes else
               "; ".join(notes))]

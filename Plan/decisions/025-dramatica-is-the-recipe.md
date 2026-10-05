@@ -148,6 +148,20 @@ with the consequences of each option laid out.
     this time chosen — → the sweep converges on what is left (Kap 35). The session noted the tension with Change: Kael
     chooses the old pattern once more, so the turn Inertia → Change falls inside the Vortex (Kap 35, the pivot); the
     author chose it. In `weave.json`, `transitions`; `storyform.py` refuses a transition without both halves.
+28. **Casting A, the rule for the other six (2026-10-05).** Reason (Control/Logic) and Emotion (Uncontrolled/Feeling)
+    are alters, the poles inside Kael; the Guardian-Archetyp (Help/Conscience), the Contagonist (Hinder/Temptation),
+    the Sidekick (Support/Faith) and the Skeptic (Oppose/Disbelief) are people in Kael's present with wants of their
+    own — the answer to the assessment's diagnosis that nobody in the same room wants anything of him. Who, one at a time.
+29. **Reason and Emotion of A (2026-10-05).** Lex is Reason (Control, Logic: „Logik, Analyse, Intellektualisierung“,
+    Charakter-Bibel L362), Nyx is Emotion (Uncontrolled, Feeling: „Kinetische Gegenreaktion, Aggression“, L542), and
+    **Isabelle is part of Nyx** — the author's own addition. Their quarrel in the bible („Maximaler Konflikt“, L382) is the
+    quarrel of the two archetypes.
+30. **Casting A, the four people (2026-10-05).** Guardian-Archetyp **Mara** (Help, Conscience), Contagonist **Dorn**
+    (Hinder, Temptation), Sidekick **the old woman from the bench** of Kap 1 (Support, Faith), Skeptic **the colleague at
+    the console** (Oppose, Disbelief). All four are inventions of session drafts or new, in no source; their wants are to
+    be built with the author (`character-card-builder`). The author asked whether Juna could be the Sidekick; the session
+    advised against it — she is memory and traces until Kap 32, and an overall-story role needs presence — and the
+    author chose the old woman. All eight archetypes of A are now cast; H9 holds (no player carries both halves of a pair).
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);

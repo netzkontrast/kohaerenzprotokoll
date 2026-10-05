@@ -36,9 +36,9 @@
 
 Plot: goal **Conceptualizing** · requirements **Learning** · consequence **Past** · forewarnings **Preconscious** · costs **Being** · dividends **Becoming** · prerequisites **Memory** · preconditions **Present**
 
-Besetzung: Kael — Main Character (Inertia); Juna — Influence Character (Change); Selene (Alter) — Protagonist (Pursuit, Consideration); Oblivion (Alter) — Antagonist (Avoid, Reconsideration)
+Besetzung: Kael — Main Character (Inertia); Juna — Influence Character (Change); Selene (Alter) — Protagonist (Pursuit, Consideration); Oblivion (Alter) — Antagonist (Avoid, Reconsideration); Lex (Alter) — Reason (Control, Logic); Nyx (Alter) — Emotion (Uncontrolled, Feeling); Mara — Guardian-Archetyp (Help, Conscience); Dorn — Contagonist (Hinder, Temptation); Die alte Frau von der Bank — Sidekick (Support, Faith); Die Kollegin an der Konsole — Skeptic (Oppose, Disbelief)
 
-Offen: the other six archetypes — Guardian-Archetyp, Contagonist, Reason, Emotion, Sidekick, Skeptic (W10 C, via the treatment pilot)
+Offen: —
 
 Gegen die Ableitung D1–D7 (`dramatica.py derive`): stimmt überein.
 

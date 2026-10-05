@@ -127,11 +127,63 @@
     "Reconsideration"
    ],
    "by": "author, casting A-2 (2026-10-05): „Internalisierte Löschlogik“ (Charakter-Bibel L762) — AEGIS inside Kael, the bridge to B"
+  },
+  {
+   "name": "Lex (Alter)",
+   "role": "Reason",
+   "os_elements": [
+    "Control",
+    "Logic"
+   ],
+   "by": "author, casting A-3 (2026-10-05, step 29): „Logik, Analyse, Intellektualisierung“ (Charakter-Bibel L362) — the product of the separation protocol"
+  },
+  {
+   "name": "Nyx (Alter)",
+   "role": "Emotion",
+   "os_elements": [
+    "Uncontrolled",
+    "Feeling"
+   ],
+   "by": "author, casting A-3 (2026-10-05, step 29): „Kinetische Gegenreaktion, Aggression“ (Charakter-Bibel L542); Isabelle is part of Nyx; Lex ↔ Nyx „Maximaler Konflikt“ (L382)"
+  },
+  {
+   "name": "Mara",
+   "role": "Guardian-Archetyp",
+   "os_elements": [
+    "Help",
+    "Conscience"
+   ],
+   "by": "author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the rope woman, invented in a session (Entwurf I, Plot-Entwurf 1), no source"
+  },
+  {
+   "name": "Dorn",
+   "role": "Contagonist",
+   "os_elements": [
+    "Hinder",
+    "Temptation"
+   ],
+   "by": "author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the cynic who believes in thermodynamics, invented in a session (Entwurf H, Plot-Entwurf 1), no source; to be carried into the city"
+  },
+  {
+   "name": "Die alte Frau von der Bank",
+   "role": "Sidekick",
+   "os_elements": [
+    "Support",
+    "Faith"
+   ],
+   "by": "author, casting A-4 (2026-10-05, step 30): the woman Kael saves in Kap 1 (Entwurf G), invented in a session, no source; her want is not yet found"
+  },
+  {
+   "name": "Die Kollegin an der Konsole",
+   "role": "Skeptic",
+   "os_elements": [
+    "Oppose",
+    "Disbelief"
+   ],
+   "by": "author, casting A-4 (2026-10-05, step 30): new — holds Kael's open query for a mistake and wants to prove it"
   }
  ],
- "open": [
-  "the other six archetypes — Guardian-Archetyp, Contagonist, Reason, Emotion, Sidekick, Skeptic (W10 C, via the treatment pilot)"
- ],
+ "open": [],
  "texts": {
   "perspectives": {
    "MC": [

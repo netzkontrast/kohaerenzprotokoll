@@ -167,6 +167,168 @@
                       "perspective_id": "persp_objective_story"
                     }
                   ]
+                },
+                {
+                  "id": "player_lex",
+                  "name": "Lex (Alter)",
+                  "role": "Reason",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Reason; im OS: Control, Logic",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting A-3 (2026-10-05, step 29): „Logik, Analyse, Intellektualisierung“ (Charakter-Bibel L362) — the product of the separation protocol.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Control",
+                      "illustration": "Lex (Alter) trägt Control im OS.",
+                      "storytelling": "Herkunft: author, casting A-3 (2026-10-05, step 29): „Logik, Analyse, Intellektualisierung“ (Charakter-Bibel L362) — the product of the separation protocol."
+                    },
+                    {
+                      "narrative_function": "Logic",
+                      "illustration": "Lex (Alter) trägt Logic im OS.",
+                      "storytelling": "Herkunft: author, casting A-3 (2026-10-05, step 29): „Logik, Analyse, Intellektualisierung“ (Charakter-Bibel L362) — the product of the separation protocol."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_nyx",
+                  "name": "Nyx (Alter)",
+                  "role": "Emotion",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Emotion; im OS: Uncontrolled, Feeling",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting A-3 (2026-10-05, step 29): „Kinetische Gegenreaktion, Aggression“ (Charakter-Bibel L542); Isabelle is part of Nyx; Lex ↔ Nyx „Maximaler Konflikt“ (L382).",
+                  "motivations": [
+                    {
+                      "narrative_function": "Uncontrolled",
+                      "illustration": "Nyx (Alter) trägt Uncontrolled im OS.",
+                      "storytelling": "Herkunft: author, casting A-3 (2026-10-05, step 29): „Kinetische Gegenreaktion, Aggression“ (Charakter-Bibel L542); Isabelle is part of Nyx; Lex ↔ Nyx „Maximaler Konflikt“ (L382)."
+                    },
+                    {
+                      "narrative_function": "Feeling",
+                      "illustration": "Nyx (Alter) trägt Feeling im OS.",
+                      "storytelling": "Herkunft: author, casting A-3 (2026-10-05, step 29): „Kinetische Gegenreaktion, Aggression“ (Charakter-Bibel L542); Isabelle is part of Nyx; Lex ↔ Nyx „Maximaler Konflikt“ (L382)."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_mara",
+                  "name": "Mara",
+                  "role": "Guardian-Archetyp",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Guardian-Archetyp; im OS: Help, Conscience",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the rope woman, invented in a session (Entwurf I, Plot-Entwurf 1), no source.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Help",
+                      "illustration": "Mara trägt Help im OS.",
+                      "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the rope woman, invented in a session (Entwurf I, Plot-Entwurf 1), no source."
+                    },
+                    {
+                      "narrative_function": "Conscience",
+                      "illustration": "Mara trägt Conscience im OS.",
+                      "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the rope woman, invented in a session (Entwurf I, Plot-Entwurf 1), no source."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_dorn",
+                  "name": "Dorn",
+                  "role": "Contagonist",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Contagonist; im OS: Hinder, Temptation",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the cynic who believes in thermodynamics, invented in a session (Entwurf H, Plot-Entwurf 1), no source; to be carried into the city.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Hinder",
+                      "illustration": "Dorn trägt Hinder im OS.",
+                      "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the cynic who believes in thermodynamics, invented in a session (Entwurf H, Plot-Entwurf 1), no source; to be carried into the city."
+                    },
+                    {
+                      "narrative_function": "Temptation",
+                      "illustration": "Dorn trägt Temptation im OS.",
+                      "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): a person in Kael's present; the cynic who believes in thermodynamics, invented in a session (Entwurf H, Plot-Entwurf 1), no source; to be carried into the city."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_die",
+                  "name": "Die alte Frau von der Bank",
+                  "role": "Sidekick",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Sidekick; im OS: Support, Faith",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): the woman Kael saves in Kap 1 (Entwurf G), invented in a session, no source; her want is not yet found.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Support",
+                      "illustration": "Die alte Frau von der Bank trägt Support im OS.",
+                      "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): the woman Kael saves in Kap 1 (Entwurf G), invented in a session, no source; her want is not yet found."
+                    },
+                    {
+                      "narrative_function": "Faith",
+                      "illustration": "Die alte Frau von der Bank trägt Faith im OS.",
+                      "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): the woman Kael saves in Kap 1 (Entwurf G), invented in a session, no source; her want is not yet found."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "player_die",
+                  "name": "Die Kollegin an der Konsole",
+                  "role": "Skeptic",
+                  "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+                  "summary": "Skeptic; im OS: Oppose, Disbelief",
+                  "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                  "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): new — holds Kael's open query for a mistake and wants to prove it.",
+                  "motivations": [
+                    {
+                      "narrative_function": "Oppose",
+                      "illustration": "Die Kollegin an der Konsole trägt Oppose im OS.",
+                      "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): new — holds Kael's open query for a mistake and wants to prove it."
+                    },
+                    {
+                      "narrative_function": "Disbelief",
+                      "illustration": "Die Kollegin an der Konsole trägt Disbelief im OS.",
+                      "storytelling": "Herkunft: author, casting A-4 (2026-10-05, step 30): new — holds Kael's open query for a mistake and wants to prove it."
+                    }
+                  ],
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
                 }
               ],
               "dynamics": [
