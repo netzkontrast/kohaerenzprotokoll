@@ -5,6 +5,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | source | `AliasPairs` | `Analogies` | `Anchors` | `Attributions` | `CardFields` | `CastRoles` | `CausalLinks` | `ChapterBeats` | `ChapterCards` | `DiegeticTerms` | `EntityFacts` | `Knowledge` | `LocationRegistry` | `Locks` | `OpenPoints` | `Pitch` | `Precedence` | `ProseRules` | `Quantities` | `RelationReadings` | `Rules` | `StandingClaims` | `StatedRelations` | `Storypoints` | `StructureBeats` | `TermCensus` | `TermContrasts` | `TermDefinitions` | `TermReadings` | `TermTaxonomy` | `ThemeMotifs` | `Utterances` |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | [`2026-09-14-kap25-vertiefung-md`](2026-09-14-kap25-vertiefung-md/contracts.md) | 8 | ∅ | 7 | 3 | 1 | 2 | 2 | 21 | 6* | 0 | 14 | 1 | n.s. | 1 | 7 | 1 | 2 | 11 | 30 | 85 | 5 | 5 | 19 | 3 | 7 | n.s. | 7 | 11 | 65 | 7 | 2 | 5 |
+| [`aegis-subplots-kapitelweise-system-exploration-docx`](aegis-subplots-kapitelweise-system-exploration-docx/contracts.md) |  |  |  |  |  |  |  |  | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`briefing-core-concepts-of-the-kohaerenz-protokoll-project`](briefing-core-concepts-of-the-kohaerenz-protokoll-project/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ? |  |  |  |  |  | ? |  |  |  |  |  |  |  |  |  |  |
 | [`detaillierte-kapiteluebersicht`](detaillierte-kapiteluebersicht/contracts.md) |  |  | 14 |  |  | 15 |  | 32 | 36* |  |  |  |  |  |  |  | 33 |  |  |  |  |  |  |  | 11 |  |  |  |  |  |  |  |
 | [`dramatica-storyform-synthese-aegis-analyse-2`](dramatica-storyform-synthese-aegis-analyse-2/contracts.md) |  |  |  |  |  |  | 75 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 117 | 135 |  |  |  |  |
@@ -44,4 +45,4 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`three-mode-architecture-39-chapters-md`](three-mode-architecture-39-chapters-md/contracts.md) |  |  |  |  |  |  |  |  | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-173 runs on 39 sources: 148 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+174 runs on 40 sources: 149 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.

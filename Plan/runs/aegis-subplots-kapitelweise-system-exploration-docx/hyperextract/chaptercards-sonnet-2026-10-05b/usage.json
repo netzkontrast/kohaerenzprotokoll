@@ -1,0 +1,651 @@
+{
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "125c5075c6191bb64b689564bc0ad4855d3807f52b7b57e98e65942232b28f7a",
+  "calls": 126,
+  "failed_calls": 0,
+  "seconds": 454.7,
+  "input_tokens": 504999,
+  "output_tokens": 12104,
+  "cost_usd": 1.4726,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 570,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1936,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 673,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 22,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1587,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1298,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 22,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1911,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 584,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 22,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1840,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1427,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 22,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 2039,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 421,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 22,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1487,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1273,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 22,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1666,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1296,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 22,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1751,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1172,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 22,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 1742,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1189,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 1502,
+      "ok": true
+    },
+    {
+      "chunk": 29,
+      "characters": 1364,
+      "ok": true
+    },
+    {
+      "chunk": 30,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 31,
+      "characters": 1997,
+      "ok": true
+    },
+    {
+      "chunk": 32,
+      "characters": 382,
+      "ok": true
+    },
+    {
+      "chunk": 33,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 34,
+      "characters": 1698,
+      "ok": true
+    },
+    {
+      "chunk": 35,
+      "characters": 1346,
+      "ok": true
+    },
+    {
+      "chunk": 36,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 37,
+      "characters": 1589,
+      "ok": true
+    },
+    {
+      "chunk": 38,
+      "characters": 1217,
+      "ok": true
+    },
+    {
+      "chunk": 39,
+      "characters": 138,
+      "ok": true
+    },
+    {
+      "chunk": 40,
+      "characters": 2044,
+      "ok": true
+    },
+    {
+      "chunk": 41,
+      "characters": 378,
+      "ok": true
+    },
+    {
+      "chunk": 42,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 43,
+      "characters": 1481,
+      "ok": true
+    },
+    {
+      "chunk": 44,
+      "characters": 1143,
+      "ok": true
+    },
+    {
+      "chunk": 45,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 46,
+      "characters": 1394,
+      "ok": true
+    },
+    {
+      "chunk": 47,
+      "characters": 1350,
+      "ok": true
+    },
+    {
+      "chunk": 48,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 49,
+      "characters": 1605,
+      "ok": true
+    },
+    {
+      "chunk": 50,
+      "characters": 1364,
+      "ok": true
+    },
+    {
+      "chunk": 51,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 52,
+      "characters": 1526,
+      "ok": true
+    },
+    {
+      "chunk": 53,
+      "characters": 1304,
+      "ok": true
+    },
+    {
+      "chunk": 54,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 55,
+      "characters": 2033,
+      "ok": true
+    },
+    {
+      "chunk": 56,
+      "characters": 433,
+      "ok": true
+    },
+    {
+      "chunk": 57,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 58,
+      "characters": 1586,
+      "ok": true
+    },
+    {
+      "chunk": 59,
+      "characters": 1491,
+      "ok": true
+    },
+    {
+      "chunk": 60,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 61,
+      "characters": 1989,
+      "ok": true
+    },
+    {
+      "chunk": 62,
+      "characters": 1300,
+      "ok": true
+    },
+    {
+      "chunk": 63,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 64,
+      "characters": 1581,
+      "ok": true
+    },
+    {
+      "chunk": 65,
+      "characters": 1384,
+      "ok": true
+    },
+    {
+      "chunk": 66,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 67,
+      "characters": 1546,
+      "ok": true
+    },
+    {
+      "chunk": 68,
+      "characters": 1080,
+      "ok": true
+    },
+    {
+      "chunk": 69,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 70,
+      "characters": 1535,
+      "ok": true
+    },
+    {
+      "chunk": 71,
+      "characters": 1335,
+      "ok": true
+    },
+    {
+      "chunk": 72,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 73,
+      "characters": 1475,
+      "ok": true
+    },
+    {
+      "chunk": 74,
+      "characters": 1370,
+      "ok": true
+    },
+    {
+      "chunk": 75,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 76,
+      "characters": 1946,
+      "ok": true
+    },
+    {
+      "chunk": 77,
+      "characters": 493,
+      "ok": true
+    },
+    {
+      "chunk": 78,
+      "characters": 156,
+      "ok": true
+    },
+    {
+      "chunk": 79,
+      "characters": 1891,
+      "ok": true
+    },
+    {
+      "chunk": 80,
+      "characters": 276,
+      "ok": true
+    },
+    {
+      "chunk": 81,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 82,
+      "characters": 1504,
+      "ok": true
+    },
+    {
+      "chunk": 83,
+      "characters": 1319,
+      "ok": true
+    },
+    {
+      "chunk": 84,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 85,
+      "characters": 1617,
+      "ok": true
+    },
+    {
+      "chunk": 86,
+      "characters": 1078,
+      "ok": true
+    },
+    {
+      "chunk": 87,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 88,
+      "characters": 1864,
+      "ok": true
+    },
+    {
+      "chunk": 89,
+      "characters": 396,
+      "ok": true
+    },
+    {
+      "chunk": 90,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 91,
+      "characters": 1958,
+      "ok": true
+    },
+    {
+      "chunk": 92,
+      "characters": 480,
+      "ok": true
+    },
+    {
+      "chunk": 93,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 94,
+      "characters": 1966,
+      "ok": true
+    },
+    {
+      "chunk": 95,
+      "characters": 405,
+      "ok": true
+    },
+    {
+      "chunk": 96,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 97,
+      "characters": 1904,
+      "ok": true
+    },
+    {
+      "chunk": 98,
+      "characters": 460,
+      "ok": true
+    },
+    {
+      "chunk": 99,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 100,
+      "characters": 1986,
+      "ok": true
+    },
+    {
+      "chunk": 101,
+      "characters": 364,
+      "ok": true
+    },
+    {
+      "chunk": 102,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 103,
+      "characters": 1877,
+      "ok": true
+    },
+    {
+      "chunk": 104,
+      "characters": 367,
+      "ok": true
+    },
+    {
+      "chunk": 105,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 106,
+      "characters": 1801,
+      "ok": true
+    },
+    {
+      "chunk": 107,
+      "characters": 324,
+      "ok": true
+    },
+    {
+      "chunk": 108,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 109,
+      "characters": 1783,
+      "ok": true
+    },
+    {
+      "chunk": 110,
+      "characters": 268,
+      "ok": true
+    },
+    {
+      "chunk": 111,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 112,
+      "characters": 1762,
+      "ok": true
+    },
+    {
+      "chunk": 113,
+      "characters": 299,
+      "ok": true
+    },
+    {
+      "chunk": 114,
+      "characters": 23,
+      "ok": true
+    },
+    {
+      "chunk": 115,
+      "characters": 1335,
+      "ok": true
+    },
+    {
+      "chunk": 116,
+      "characters": 1334,
+      "ok": true
+    },
+    {
+      "chunk": 117,
+      "characters": 599,
+      "ok": true
+    },
+    {
+      "chunk": 118,
+      "characters": 1875,
+      "ok": true
+    },
+    {
+      "chunk": 119,
+      "characters": 1908,
+      "ok": true
+    },
+    {
+      "chunk": 120,
+      "characters": 1916,
+      "ok": true
+    },
+    {
+      "chunk": 121,
+      "characters": 1984,
+      "ok": true
+    },
+    {
+      "chunk": 122,
+      "characters": 1873,
+      "ok": true
+    },
+    {
+      "chunk": 123,
+      "characters": 1991,
+      "ok": true
+    },
+    {
+      "chunk": 124,
+      "characters": 1993,
+      "ok": true
+    },
+    {
+      "chunk": 125,
+      "characters": 1616,
+      "ok": true
+    }
+  ]
+}

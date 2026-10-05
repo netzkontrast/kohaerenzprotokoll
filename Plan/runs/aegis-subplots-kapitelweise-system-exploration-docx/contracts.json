@@ -1,0 +1,33 @@
+{
+ "source": "aegis-subplots-kapitelweise-system-exploration-docx",
+ "runs": [
+  {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 126,
+   "failed_calls": 0,
+   "chunks": 126,
+   "failed_chunks": 0,
+   "cost_usd": 1.4726,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "125c5075c6191bb64b689564bc0ad4855d3807f52b7b57e98e65942232b28f7a",
+   "rows": 12,
+   "candidates": 12,
+   "refused": {},
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "aegis"
+  }
+ ]
+}
