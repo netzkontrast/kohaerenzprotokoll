@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 gathered: "2026-09-25"
 ---
 
@@ -38,6 +38,10 @@ The outline of 2026-05-01 titles Kap 36 `Truth-Rotation` and writes „der Momen
 ## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — the collapse of the system's worldview, and the recognition of K0
 
 In the gaps part (C.1, §3.2): „Nach der Truth-Rotation in Kapitel 36 kollabiert das System-Weltbild.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L69] In the report's directive (§4.1, step 5): „Das System erkennt durch parakonsistente Logik seine K0-Natur.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L85] In §4.4: „Wenn AEGIS in Kap 36 die Truth-Rotation erfährt, erwacht Oblivion“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L128]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — AEGIS's recognition in Kap 36
+
+Kap 36 lists it among its introduced concepts: „Truth-Rotation, Stille als lebende Dialetheia, Algorithmische Melancholie.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1078] Its beat has the rotation happen to AEGIS, which then ends: „erkennt seine K0-Natur, bricht den Löschvorgang ab“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1080]
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
