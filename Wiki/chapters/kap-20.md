@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,14 @@ Position: „Funktionale Multiplizität / Cache Kohärenz (Konflikt)“ ^[kohaer
 - Where: „ORT: LY-SIGMA-1, SEKTOR EMERGENTER STRUKTUREN.“ ^[kohaerenz-protokoll.md:L2092]
 - Story: a new assignment, „PROJEKT: RESONANZ-BRÜCKE LY-BETA-7.“ ^[kohaerenz-protokoll.md:L2090], timed at „ZEITRAHMEN: 48.0 STANDARDSTUNDEN.“ ^[kohaerenz-protokoll.md:L2100] and supervised by „SUPERVISION: MÖGLICHKEITS-WEBER.“ ^[kohaerenz-protokoll.md:L2104]; Kael resolves a Co1/McL cache conflict inside himself and the bridge holds under stress-testing, „Es funktionierte. Die Brücke hielt. Die Kohärenz war stabil.“ ^[kohaerenz-protokoll.md:L2178]
 - Voice: third person on Kael; the system directive in capitals, his own Anteile in italics.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der entlarvte Mechanismus: Das AEGIS-Paradoxon verstehen
+
+Title: the commission titles the chapter „Der entlarvte Mechanismus: Das AEGIS-Paradoxon verstehen“ ^[kontext-outline.md:L290], placed in Act 2.
+
+- Theme: the commission's `Core Theme` is „Fehlausgerichtete Kohärenz“ ^[kontext-outline.md:L51]
+- Story: its `Plot Summary` plans „AEGIS' Kontrolle über Komplexität/Emergenz scheitert prinzipiell“ ^[kontext-outline.md:L293]
+- Foci: `Kael Sys Focus` „Intellektueller Höhepunkt (Lex/Argus)“ ^[kontext-outline.md:L294]; `AEGIS Focus` „Kernparadoxon aufgedeckt“ ^[kontext-outline.md:L295]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
