@@ -411,6 +411,10 @@ the author wants them (*Questions for the author*).
   Juna a Doppel-IC, Storyform B = Mind/Conscious (L746). Who is AEGIS's Impact Character in Storyform B — Kael, Juna, or Juna
   as she exists inside Kael?
 
+- **Document 73, `romanprojekt-kohaerenz-protokoll-analyse`, the Synthese-Report:** it wakes Oblivion twice — when AEGIS
+  undergoes the Truth-Rotation in Kap 36 (L128), and as the mirror alter who breaks the false calm in Kap 31 (L143), where
+  the outline revision of 2026-05-01 also puts him. In which chapter does Oblivion first speak?
+
 ## Part 2 — the pipeline and its tools
 
 ### The process — the author's call, with the detail under *Open decisions*

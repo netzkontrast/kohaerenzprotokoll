@@ -1,6 +1,99 @@
-# Candidates — romanprojekt-kohaerenz-protokoll-analyse
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
 
-Written by hand while reading, **before any counting**. One line per
-candidate, nothing else. This is the only artifact of the run a program
-cannot produce, and the baseline any model gets scored against.
+Read in full, L10 to L144. The document is a German synthesis report in four numbered sections (Konsens, Widersprüche, Lücken, Synthese und Operationalisierung). It names the K0/K1 kernels and the figures only with plain digits, never subscripted. The table at L47 to L54 is written with escaped asterisks and doubled escaped brackets; its reference marks and several bracketed references are empty after export. The arrow in the Pivot item at L84 was lost by the export ("Action  Decision"). Clauses in quotation marks at L19 and L23 name the storyforms and the melancholy as the document's own coinages; the Prä-Reset claims in the table's second column are reported, not the document's own.
 
+- Kohärenz Protokolls
+- Struktur-Kanon
+- Kanon-Hierarchie
+- Dual-Storyform-Interferenz
+- Driver-Pivot
+- Storyform A
+- Storyform B
+- Phoenix Collapse
+- Heuristics of Integration
+- Action-Driver
+- Decision-Driver
+- Klein-Vierer-Gruppen-Inversion
+- Universe-Domain
+- Mind-Domain
+- K0
+- K1
+- Dual-Kernel-Theorie
+- DKT
+- AEGIS
+- Kael
+- Juna
+- K1-Kohärenzwächter
+- K0-Kollaps-Operator
+- Dialetheia
+- Algorithmische Melancholie
+- Influence Character
+- IC-Position
+- Witness-Funktion
+- Konstrukt-Stadt
+- Trauma-Erasure
+- Artistic Pole
+- Aesthetic Pole
+- Temporal Scrambling
+- Mosaik-Strukturen
+- Reader-Substrat
+- Genesis-Symmetrie
+- Ur-Einheit
+- Trennungsprotokoll
+- Komponente 734
+- Mutual Information
+- TSDP
+- Moonshine-Link
+- Wächter-Pantheon
+- Wächter-Dualismus
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Paraiyas
+- Psycho-ontologische Resonanz
+- Receiver of Consciousness
+- Universal Re-Connecting
+- Ouroboros
+- Ouroboros-Inversion
+- Mnemosyne-Archipel
+- Heat-Spike
+- Truth-Rotation
+- Convergence
+- Vortex
+- ZTEM
+- Zero Tolerance Entropic Management
+- SIS
+- Secure Isolation State
+- RIVE
+- Recursive Integrity Verification
+- funktionale Multiplizität
+- Wir-Geflecht
+- Holistic-Approach
+- Telefonstille
+- Negative Space Writing
+- Phantom-Resonanz
+- Selene
+- Lex
+- Nyx
+- Kiko
+- Oblivion
+- Spiegel-Alter
+- Stil 1
+- Falsche Ende
+- Computational Class
+- Ozon
+- Landauer-Limit
+
+## lens
+
+- Dramatica
+- Landauer-Prinzip
+- Gödel-Satz
+- Reader-Response-Theorie
+- Iser-Mechanik
+- Chaitin-Konstante
+- Bekenstein-Schranke
+- Halteproblem
+- Prehension

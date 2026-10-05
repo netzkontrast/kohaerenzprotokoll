@@ -1,0 +1,817 @@
+{
+  "document": "romanprojekt-kohaerenz-protokoll-analyse",
+  "drive_id": "18v17G9Kg0H0O-1qmkB3XzdEH2AzcdR6Y8-XDvNPN8to",
+  "step": "counts",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokolls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Struktur-Kanon": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        43,
+        47,
+        62
+      ]
+    },
+    "Kanon-Hierarchie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Dual-Storyform-Interferenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Driver-Pivot": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        52,
+        79
+      ]
+    },
+    "Storyform A": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        27,
+        35,
+        52,
+        69,
+        84
+      ]
+    },
+    "Storyform B": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        19,
+        27,
+        50,
+        52,
+        79,
+        84
+      ]
+    },
+    "Phoenix Collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Heuristics of Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Action-Driver": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        52
+      ]
+    },
+    "Decision-Driver": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        52,
+        69,
+        84
+      ]
+    },
+    "Klein-Vierer-Gruppen-Inversion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Universe-Domain": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Mind-Domain": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "K0": {
+      "n": 5,
+      "n_including_compounds": 11,
+      "lines": [
+        19,
+        21,
+        23,
+        31,
+        48,
+        62,
+        85,
+        104,
+        139
+      ]
+    },
+    "K1": {
+      "n": 3,
+      "n_including_compounds": 14,
+      "lines": [
+        19,
+        21,
+        23,
+        31,
+        35,
+        48,
+        53,
+        63,
+        81,
+        93,
+        103,
+        120,
+        138
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        29,
+        31
+      ]
+    },
+    "DKT": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        48,
+        54,
+        121
+      ]
+    },
+    "AEGIS": {
+      "n": 38,
+      "n_including_compounds": 40,
+      "lines": [
+        19,
+        21,
+        23,
+        27,
+        31,
+        39,
+        48,
+        49,
+        50,
+        53,
+        65,
+        69,
+        70,
+        71,
+        81,
+        82,
+        83,
+        84,
+        85,
+        91,
+        92,
+        120,
+        128
+      ]
+    },
+    "Kael": {
+      "n": 24,
+      "n_including_compounds": 30,
+      "lines": [
+        19,
+        27,
+        31,
+        39,
+        49,
+        52,
+        53,
+        54,
+        65,
+        70,
+        71,
+        81,
+        82,
+        83,
+        84,
+        91,
+        92,
+        113,
+        120,
+        128,
+        143
+      ]
+    },
+    "Juna": {
+      "n": 17,
+      "n_including_compounds": 26,
+      "lines": [
+        25,
+        27,
+        39,
+        48,
+        49,
+        51,
+        62,
+        71,
+        87,
+        89,
+        91,
+        92,
+        93
+      ]
+    },
+    "K1-Kohärenzwächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "K0-Kollaps-Operator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Dialetheia": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        23,
+        48
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        69,
+        85
+      ]
+    },
+    "Influence Character": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "IC-Position": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Witness-Funktion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        48,
+        51,
+        62
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        65,
+        71,
+        112
+      ]
+    },
+    "Trauma-Erasure": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        120
+      ]
+    },
+    "Artistic Pole": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Aesthetic Pole": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Temporal Scrambling": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        64,
+        120
+      ]
+    },
+    "Mosaik-Strukturen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        63
+      ]
+    },
+    "Reader-Substrat": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        116
+      ]
+    },
+    "Genesis-Symmetrie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Ur-Einheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Trennungsprotokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        70,
+        83
+      ]
+    },
+    "Komponente 734": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        49
+      ]
+    },
+    "Mutual Information": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        91,
+        139
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        39,
+        49,
+        65,
+        83,
+        113
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Wächter-Pantheon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Wächter-Dualismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "LogOS": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        50,
+        91,
+        93,
+        104
+      ]
+    },
+    "Mnemosyne": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        50,
+        81,
+        85,
+        103,
+        143
+      ]
+    },
+    "Cerberus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        50,
+        104
+      ]
+    },
+    "Kairos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50
+      ]
+    },
+    "Sophia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50
+      ]
+    },
+    "Paraiyas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51
+      ]
+    },
+    "Psycho-ontologische Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Receiver of Consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Universal Re-Connecting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Ouroboros": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        53,
+        64,
+        130
+      ]
+    },
+    "Ouroboros-Inversion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81,
+        85
+      ]
+    },
+    "Heat-Spike": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        70,
+        82
+      ]
+    },
+    "Truth-Rotation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        85,
+        128
+      ]
+    },
+    "Convergence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Vortex": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        52,
+        69,
+        77,
+        143
+      ]
+    },
+    "ZTEM": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        114
+      ]
+    },
+    "Zero Tolerance Entropic Management": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        114
+      ]
+    },
+    "SIS": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        113
+      ]
+    },
+    "Secure Isolation State": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        113
+      ]
+    },
+    "RIVE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Recursive Integrity Verification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Wir-Geflecht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Holistic-Approach": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Telefonstille": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        91
+      ]
+    },
+    "Negative Space Writing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Phantom-Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Oblivion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        128,
+        143
+      ]
+    },
+    "Spiegel-Alter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Stil 1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        128,
+        143
+      ]
+    },
+    "Falsche Ende": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        130,
+        143
+      ]
+    },
+    "Computational Class": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Ozon": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        31,
+        82,
+        134,
+        138,
+        139
+      ]
+    },
+    "Landauer-Limit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        114
+      ]
+    },
+    "Dramatica": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        19,
+        27
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        82
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        62
+      ]
+    },
+    "Reader-Response-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Iser-Mechanik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Chaitin-Konstante": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Bekenstein-Schranke": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        54,
+        65,
+        113
+      ]
+    },
+    "Halteproblem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        54,
+        125
+      ]
+    },
+    "Prehension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    }
+  }
+}
