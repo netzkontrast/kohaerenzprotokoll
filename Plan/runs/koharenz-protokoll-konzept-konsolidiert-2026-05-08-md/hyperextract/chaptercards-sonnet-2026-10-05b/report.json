@@ -1,0 +1,1773 @@
+{
+  "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "input_rows": 73,
+  "candidates": 26,
+  "refused": 47,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:68ba735166892c202467e4b4c4b230a3e400c111ea0d176aa9271155acc23534",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0",
+        "target": "Trennungsprotokoll",
+        "type": "object",
+        "quote": "was in Kap 0 als Trennungsprotokoll erscheint",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:08162dd6d64b4e62bc91c6e8153b509e41f505d60d3e7a820bf35d3e32235b50",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Kaels Wir-Geflecht",
+        "type": "who",
+        "quote": "In Kap 39 vollzogen: Kaels Wir-Geflecht übernimmt die Bewahrungsfunktion in pluraler Form",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        74
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:179d71db6cc9f51fb7123ea4aeddce574be95729479b96843c87157ab0e96d01",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "übernimmt die Bewahrungsfunktion in pluraler Form",
+        "type": "want",
+        "quote": "In Kap 39 vollzogen: Kaels Wir-Geflecht übernimmt die Bewahrungsfunktion in pluraler Form",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        74
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:67556f97b51634a6601ada3b67e6baf9fdc59c504b2d2873f1d9e796ecb0f0ae",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap. 35–36",
+        "target": "am Vortex",
+        "type": "place",
+        "quote": "Diese Inversion ist die mechanische Quelle der Truth-Rotation am Vortex (Kap. 35–36).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        138
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cf51aadac8ead728bb2ce42a988f3a3da818ca8d4561676f355120f371f3c10a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap. 35–36",
+        "target": "eine Wahrheit, die es nicht berechnen kann",
+        "type": "object",
+        "quote": "Im Vortex 1 (Kap. 35–36) wird es gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        259
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "eine Wahrheit, die es nicht berechnen kann"
+      ]
+    },
+    {
+      "id": "claim:5e97fab08e379c6d64675a19dd3de474694c41ef53b6c521442496a19e462023",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap. 38–39",
+        "target": "AEGIS-monolithisch erlischt",
+        "type": "irreversible",
+        "quote": "Im Vortex 2 (Kap. 38–39) geschieht die ontologische Wendung: AEGIS-monolithisch erlischt",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        265
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c0c7ace90f949abaecb574fc73d8628577fa8adf5a80bfd9029e9cb2fca020a3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Ihre erste direkte Erscheinung",
+        "type": "who",
+        "quote": "Ihre erste direkte Erscheinung in Kap 38 ist die Klimax dieser Modi",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        327
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:32f2c3849c0a7b65255adcac31d73cc9fe8bc9635710f507eeef3180ec2bcafb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ch1",
+        "target": "Juna-Seed, aber namenlos",
+        "type": "who",
+        "quote": "Juna-Seed seit Ch1, aber namenlos.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        340
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Juna-Seed, aber namenlos"
+      ]
+    },
+    {
+      "id": "claim:2a24132a73dd52c35f34e86d10ffd33175b74932b796715d432e734bbb6c5242",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Wir-AEGIS-plural",
+        "type": "object",
+        "quote": "In Kap 39 wird dieses Wir zur pluralen Bewahrungsform — Wir-AEGIS-plural.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        428
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1cc5e17e3124aae63563c73ea32db6a0d2d15a20ec68c21a0216c3c50c1dc995",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ch14",
+        "target": "Das Archiv der Grenzen",
+        "type": "place",
+        "quote": "Das Archiv der Grenzen (Ch14)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        496
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8849e1dd739364402edabfa7f22f3c4cb2a9cc286ab1a73feb1e01f655a3048a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ch13",
+        "target": "Evaluierungseinheit",
+        "type": "place",
+        "quote": "Evaluierungseinheit (Ch13)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        513
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e0b219bf8eb0ade81cd8357ec62ee46a340d0de6aa5f61309723cbc11d718633",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ch34",
+        "target": "Mosaik-Herz",
+        "type": "place",
+        "quote": "Mosaik-Herz (Ch34, vor Vortex)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        530
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:35dcec2821437557eef870e2bb73ee97f272d8f251d262c3a9e80e1da4d5180d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ch33",
+        "target": "Jenseits-des-Ereignishorizonts-Bereich",
+        "type": "place",
+        "quote": "Jenseits-des-Ereignishorizonts-Bereich (Ch33, Verschränkungs-Insel)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        538
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0680247c75def7c0229e9c3fe5c063a6cbedf28ddb7656853b01ed6a7c3f6c4c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 40",
+        "target": "Junas Resonanz",
+        "type": "who",
+        "quote": "In Kap 40: Junas Resonanz wird vom Trauma-Auslöser zur akzeptierten Werdungs-Bedingung umgedeutet.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        686
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:07478947cc505182b98a600441228292e1dd95cccb6a7abf0389af62a32317a5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Kaels Wir-Form",
+        "type": "who",
+        "quote": "Kaels Wir-Form übernimmt AEGIS' Funktion in Kap 39",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        689
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e55a89b8f17af21d9b143f0640cd456ff109f4a17a219133718385a4bf04514d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 30",
+        "target": "Mentor-Begegnung",
+        "type": "who",
+        "quote": "Kulmination in Kap 30 (Mentor-Begegnung)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        698
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:37abdb3dd22ba80af36bfa56691980c6ebf427d47fc9aeccd2a66e450163cc2d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Junas direkte Erscheinung",
+        "type": "who",
+        "quote": "Synthese in Kap 38 (Junas direkte Erscheinung)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        698
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:69ff3679c61b4f0d3169a5953cf5e675b8acb5b37a2ce9fbce46d2033b91abc8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0",
+        "target": "Ich falle... in unzählige Scherben…",
+        "type": "hook_out",
+        "quote": "Ich falle... in unzählige Scherben…",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        790,
+        960
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:43307b3d4bde79cc443ad024693f43172b6619f8cc41f61d52035a4ff0def5ae",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "Kael erwacht in Kernwelt 1 ohne Erinnerung",
+        "type": "hook_in",
+        "quote": "Kap 1 an — Kael erwacht in Kernwelt 1 ohne Erinnerung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        793
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:53e97fc1a896754fa16ae9ba460563a2f366351c05455d68afb857c2b037c955",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "die Fragmentierung gerade vollzogen wurde",
+        "type": "why_now",
+        "quote": "Kap 1 an — Kael erwacht in Kernwelt 1 ohne Erinnerung, weil die Fragmentierung gerade vollzogen wurde",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        793
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1c81ff308eca7872b478b2e8f49891ec73521c9c569ec3fffef01a0524ce1fbb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "Kael erwacht in Kernwelt 1 ohne Erinnerung",
+        "type": "hook_in",
+        "quote": "schließt nahtlos an Kap 1 an — Kael erwacht in Kernwelt 1 ohne Erinnerung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        793
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:34ad27db0c39f640dc2442dc2461c34a8bca535f170c220417b0e6d25e1fe650",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "die Innere Weite (Überwelt)",
+        "type": "place",
+        "quote": "Kap 1: das sterile Setting der Kernwelt 1 ist die Innere Weite (Überwelt)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        837
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:82e7d2838bc107e3edf0fbd4ac59482cdd144d830d87d64bf289110a803ff998",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 6",
+        "target": "der Cache-Konflikt",
+        "type": "object",
+        "quote": "Kap 6: der Cache-Konflikt ist das Echo der ursprünglichen Resonanz-Kaskade",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        838
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:28fd573dc0522dfd587f33940b7e1b172222c47b22fd86527559d2a2c321667a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 11",
+        "target": "Mosaik-Herz",
+        "type": "object",
+        "quote": "Kap 11: Mosaik-Herz als Vorgriff auf plurale Bewahrung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        841
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3bf43f378851ff041777853a56e5f40a5efa2e7c4d89370916db247554ca3f81",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "das Rauschen kommt",
+        "type": "hook_in",
+        "quote": "das Rauschen kommt — sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        911
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a2556ffca8c826b5f120801bae6563d0e6a4bbb8debe16307c2c761b8afca770",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Junas erste direkte Erscheinung",
+        "type": "who",
+        "quote": "Junas erste direkte Erscheinung — sie ist einfach da, ohne Worte, ohne Anweisung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        913
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c684c480cb62bec68249a72692a0f9514fd6aa38bc2e01492ad484605547ec6d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "das Wir entscheidet, ins Ouroboros zu gehen",
+        "type": "hook_out",
+        "quote": "die Entscheidung — das Wir entscheidet, ins Ouroboros zu gehen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        915
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3bd2f7ce7330425c8429f56976128a9a1970ad843c8f89fa38d028480b73e584",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Ouroboros",
+        "type": "place",
+        "quote": "das Wir entscheidet, ins Ouroboros zu gehen",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        915
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e61c818ef9d91518a3e718468905959c343fc5c1bc491467a179d7cef41f851c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Kael-als-Wir wird neue AEGIS",
+        "type": "who",
+        "quote": "Kael-als-Wir wird neue AEGIS, aber wesensanders",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        923
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8978ed8ef5a8ba774139637d42930d6745fd7196144bb037013461883991952f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Junas Stimme erscheint als Teil des Geflechts oder als Raum, in dem das Geflecht klingt",
+        "type": "who",
+        "quote": "Junas Stimme erscheint als Teil des Geflechts oder als Raum, in dem das Geflecht klingt",
+        "stance": "hedges"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        925
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:748261cc49007acfaae5b189abba1004b6a752b350d07b2df25190c189b777a1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0 — Genesis-Prolog",
+        "target": "Ich falle... in unzählige Scherben…",
+        "type": "hook_out",
+        "quote": "Ich falle... in unzählige Scherben…",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        790,
+        960
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:91bb1b3e6bedfa7ac04e77b07135c3e723f0db37c234fcea3c8cf08b40d266d6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1 — Erwachen in der Konstrukt-Stadt (HR-Stufe 1: Illusion der perfekten Welt)",
+        "target": "Kernwelt 1",
+        "type": "place",
+        "quote": "Kael erwacht in Kernwelt 1, fragmentiert ohne Erinnerung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        962
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:97ef60a1635027d2aee6498eaa85f428af20d8de35d34dd66aab7c14e157e31e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 3 — Bunker-Bau (HR-Stufe 3: Erwachen & Vorbereitung)",
+        "target": "baut mentale Festung",
+        "type": "want",
+        "quote": "Kael (Lex-dominant) baut mentale Festung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        966
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b3a90e9595b895710a9ffe170e92a55d48ccf82af65700a4ca842e7cca86978f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 6 — Echos im Fundament (HR-Stufe 6: Tod einer Einstellung)",
+        "target": "Cache-Konflikt",
+        "type": "obstacle",
+        "quote": "Cache-Konflikt; einseitiger Ansatz scheitert.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        972
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:509d0339381fd6fdbc61a6ba4108c92bf9459ec988dea74878eb22a69ac15688",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 12 — Stille der Mitte",
+        "target": "AEGIS",
+        "type": "who",
+        "quote": "AEGIS scannt diesen Zustand",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        984
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ca3a319b7abd21aca51a7708dedbcb24bd7442e095ee6de9ddd9a4c85d0cfed8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 13 — Tanz im Garten",
+        "target": "AEGIS bereitet Phase-2-Stress-Tests vor",
+        "type": "want",
+        "quote": "AEGIS bereitet Phase-2-Stress-Tests vor",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        986
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6bd4e845873329ff1331fe0626068af4cfbcb99e3dd5992a41ffe29f86987571",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 16",
+        "target": "Flucht in Betäubung",
+        "type": "want",
+        "quote": "Flucht in Betäubung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        992
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:843e8e06451ad56220ba00c3fab7b0c6240d6df3ec8e4f93cd9e2884ba3ba99f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 17",
+        "target": "Aktiv anschauen statt fliehen",
+        "type": "want",
+        "quote": "Aktiv anschauen statt fliehen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        994
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e44202498e43e6f6007e8c0c4e5b5666484f9951816e30caf8511b328e80e913",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 18",
+        "target": "Multi-Welten-Aufgabe scheitert",
+        "type": "obstacle",
+        "quote": "Multi-Welten-Aufgabe scheitert.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        996
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b8214a698d9c22ceea0cde1329aa1e1eee266fed8c584e0a90c126a11b8ba47a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 19",
+        "target": "Systemlüge",
+        "type": "falsehood",
+        "quote": "Systemlüge wird klarer.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        998
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6030c68534a86e1a19147a5f160a500e05985ed7ea39a7e5b8444c8480ec144b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 20",
+        "target": "Erste bewusste Pursuit-Bewegung",
+        "type": "want",
+        "quote": "Erste bewusste Pursuit-Bewegung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1000
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3b4cfb88c71909a02230a8f6be0fab1770771bdb7c2725adc836ef5e50cf7d5f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 22",
+        "target": "Erasure-Kosten sichtbar",
+        "type": "cost",
+        "quote": "Erasure-Kosten sichtbar",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1004
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:84a3237a449025ca4426f4e914f9d10e06072135d626c4e8534c711314ec9385",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 24",
+        "target": "K-J-Verbindung wird zyklisch von AEGIS gestört",
+        "type": "obstacle",
+        "quote": "K-J-Verbindung wird zyklisch von AEGIS gestört.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1008
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4d045b9b3d95ebf9ac1e05fe720100bb4d64bb003b0d1df074a52b5b3e1670b4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 25",
+        "target": "AEGIS bemerkt Kaels neue Klarheit",
+        "type": "obstacle",
+        "quote": "AEGIS bemerkt Kaels neue Klarheit",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1010
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c9ed0c64e97765aa47e813939b368fbb71f871e55e163603d1e921a52ef186e6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 26",
+        "target": "Entscheidung zur Befreiung",
+        "type": "want",
+        "quote": "Entscheidung zur Befreiung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1012
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1339e4ee36e008e0776d8eed0d5c6959d6bed92db1ad2770a804735c81267039",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 26",
+        "target": "Erasure-Vorbereitung eskaliert",
+        "type": "obstacle",
+        "quote": "Erasure-Vorbereitung eskaliert",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1012
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:88e8a5dc62f0e12558ac6a4a9936d132f1e1f387e499a9c66cec753d2adb347e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 27",
+        "target": "AEGIS spürt neue Linearität",
+        "type": "obstacle",
+        "quote": "AEGIS spürt neue Linearität",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1014
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d7c2c8ae32c7a0075d2a897425c77cbf1ba6bcea7fa13e92b029594545b92e2a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 28",
+        "target": "AEGIS droht mit Purge",
+        "type": "obstacle",
+        "quote": "AEGIS droht mit Purge, Juna in Gefahr.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1016
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fd97a8651abcf02de75380d96a9c6bfa6d1c9318feda08bd42e73527f1459105",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 30",
+        "target": "Moonshine als bewusster Kanal",
+        "type": "object",
+        "quote": "Moonshine als bewusster Kanal",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1020
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e5bc59b292aecc0a1d1f47b2987bbd248889e0e525b5a6e9accd78774a360228",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "Kael absorbiert Guardian-Prinzipien gesund",
+        "type": "want",
+        "quote": "Kael absorbiert Guardian-Prinzipien gesund.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1022
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b62e58af90461bf3547e37646a296d6c32965b29bf02abb88bf3c122f6e72f31",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 32",
+        "target": "Spiegel-Alter aktiv (Silas, Oblivion)",
+        "type": "who",
+        "quote": "Polyphoner Kael, Spiegel-Alter aktiv (Silas, Oblivion).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1024
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fe90c49c27dfea34393469ddd5f7202db22077a986e082125772f25ff1f2fbb8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 33",
+        "target": "Vordringen zu AEGIS' Kern",
+        "type": "want",
+        "quote": "Vordringen zu AEGIS' Kern.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1026
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dc60c3693d01c55c7943a6269c8fcc71b89224aaba72ebc579e7d5a0873fd1dd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 34",
+        "target": "Kael (Wir)",
+        "type": "who",
+        "quote": "Kael (Wir) vs. AEGIS (Makro-Log).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1028
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:889b117285b20c67e479a46500be42546e7c1aa15aa3af7b61b5317979aabd7d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 34",
+        "target": "AEGIS (Makro-Log)",
+        "type": "obstacle",
+        "quote": "Kael (Wir) vs. AEGIS (Makro-Log).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1028
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:624557c40420d7a6ef738ebd50f1234e08737dd40d02ea9c357e5e15055cf34e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35",
+        "target": "Einspeisung des paradoxen Selbst",
+        "type": "want",
+        "quote": "Einspeisung des paradoxen Selbst.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1030
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:490857ac7672bec55d8e2dadf1443aa1dd552b035f7ec90d62e63932500c606f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "erlischt monolithisch",
+        "type": "irreversible",
+        "quote": "B: erlischt monolithisch",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1032
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d6924b0235f80bbfd35c0d5123f2575e7150dcd1ae827754ca3ec8f2f7cee73f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 37",
+        "target": "das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0",
+        "type": "object",
+        "quote": "das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1034
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:479c802b6f54c2dca079c1a0d93eb2aaa8ceeef6d14d65c8c1123011b416d2f6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Das Rauschen kommt von allen Seiten.",
+        "type": "hook_in",
+        "quote": "Das Rauschen kommt von allen Seiten.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1036
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:472328608b59590722adca39d2acb38a6321d648e3bb410d58130bfc496dcb39",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Entscheidung zum Ouroboros",
+        "type": "want",
+        "quote": "Entscheidung zum Ouroboros.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1036
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bb481cc3d32ef2a159af64e7f89dae99d326abba9963372528b186da1a003613",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "das Universum kollabiert sichtbar",
+        "type": "obstacle",
+        "quote": "B: das Universum kollabiert sichtbar.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1036
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5e9f4f05b492c1383e3c10b15242406eb840a183421322965fa0dd85a6fea678",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Wir-Geflecht verwandelt sich in Wir-AEGIS-plural",
+        "type": "want",
+        "quote": "Wir-Geflecht verwandelt sich in Wir-AEGIS-plural.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1038
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fe3f864b31fd028db47f1f30424dafa34327170e31ec6493ec9de74fc295150c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "AEGIS-monolithisch erlischt",
+        "type": "irreversible",
+        "quote": "AEGIS-monolithisch erlischt",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        265,
+        643,
+        923,
+        1038
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:de2aad3158ac26acab14578143966546a21dcb2bb960cd6b6a731586f5b2d3b5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "high Cost",
+        "type": "cost",
+        "quote": "A: Outcome=Success/Good with high Cost.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1038
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cbc3f15cad92b228b5a5585186e1de404149965332f50dd1c4a61f262ac929e7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 40 — Geheilte Genesis (Coda)",
+        "target": "der Erzähler",
+        "type": "who",
+        "quote": "Echo des Vorworts: der Erzähler kehrt, jetzt bezeugend.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1040
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2952d71af8ada8161b9a12df647b138c97442f100a4573db9db4b8d7a03ce36c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 40 — Geheilte Genesis (Coda)",
+        "target": "der Schmerz als Preis der Existenz",
+        "type": "cost",
+        "quote": "Echo des Trennungsprotokolls: der Schmerz als Preis der Existenz, akzeptiert.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1040
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c76ffbec65b7d2fa69ea20af53fad156940be50cf2047312181775cb76e06346",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0",
+        "target": "der Moment des großen Wandels",
+        "type": "object",
+        "quote": "der Moment des großen Wandels in Kap 0",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1058
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9d00b3eb279c24c50bae0d16e5725b03a6ba11b0ab41304d02a2e202db5a0869",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 9",
+        "target": "Wir-Bildung",
+        "type": "object",
+        "quote": "dem Moment der Wir-Bildung in Kap 9",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1058
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ce803e60fd4c3c9a83917cea0fa6f77ffbb47f15ec2c76c911690393e2df22aa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 35",
+        "target": "Vortex 1-Einrasten",
+        "type": "object",
+        "quote": "dem Vortex 1-Einrasten in Kap 35",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1058
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6a376ed5717243e1655d4b439f2354689ab305f944e6b75d7e755153e250d29a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "plurale Verwandlung",
+        "type": "object",
+        "quote": "der pluralen Verwandlung in Kap 39",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1058
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "plurale Verwandlung"
+      ]
+    },
+    {
+      "id": "claim:bd20c7b2ae0ae405aafe701d70c377a086183826c098b4eb33c688c4c2e4499f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 37",
+        "target": "beginnende Welt-Auflösung",
+        "type": "object",
+        "quote": "in Kap 37 als beginnende Welt-Auflösung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1056
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:76b5b3a29293e4da94b485b2a736332a032889d30836900c18ebf4de2ef68a45",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kap 31 (Auflösung der Guardians) — Kael nimmt schon AEGIS-Funktionen pluralisiert an",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1094
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a35bacf2a00a0d55359e933dd0e5da2f1dcb2d09c007916722652e4a595fa161",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 37",
+        "target": "trügerischer Sieg",
+        "type": "falsehood",
+        "quote": "trügerischer Sieg, Mikrocues des Rauschens",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1166
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:428da91fc0f63721caead80a5d14c0ef4533b7c2a91627b6fb5449504ed4515b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Juna",
+        "type": "who",
+        "quote": "das Rauschen kommt; Juna ist da",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+      "template": "ChapterCards",
+      "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        1169
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    }
+  ]
+}

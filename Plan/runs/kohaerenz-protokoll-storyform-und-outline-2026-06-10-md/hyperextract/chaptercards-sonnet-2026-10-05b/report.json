@@ -1,0 +1,971 @@
+{
+  "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "input_rows": 40,
+  "candidates": 33,
+  "refused": 7,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:fbe07b16887c2ce31ca3929b5c7f152a007e9b5c52c44c0c246efa33e8647011",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Kael verfasst die Zeile „Das Licht ist schon da, als ich erwache.“ als letzte",
+        "type": "hook_out",
+        "quote": "Kael verfasst sie in Kap 39 als letzte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        127
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael verfasst die Zeile „Das Licht ist schon da, als ich erwache.“ als letzte"
+      ]
+    },
+    {
+      "id": "claim:7db559461ae12bbc1597cafd495bfb72c01560ea9ba76cc371ab65885da2e7a9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Verlust der Privatheit des Wir",
+        "type": "cost",
+        "quote": "Verlust der Privatheit des Wir (innere Polyphonie wird kosmische Bewahrungs-Funktion) — manifest Kap 39",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        185
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6d3c217ab466f466d954984eb8b7c399634c3e216476028a8e61d32c2138c003",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "AEGIS-monolithisch erlischt",
+        "type": "cost",
+        "quote": "AEGIS-monolithisch erlischt — manifest Kap 36",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        185
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e79aa4c3b75652acfd45dd520e5442fa120bb7567f1db7060d7b3fb72ae804c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "pluralen Bewahrungsform",
+        "type": "object",
+        "quote": "In Kap 39 wird dieses Wir zur pluralen Bewahrungsform — **Wir-AEGIS-plural**",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        276
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8279349b978e5a914a37824d2ee8961464e0cf84c51da804893b9735373f591c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "Juna-Seed",
+        "type": "object",
+        "quote": "Juna-Seed seit Kap 1, aber namenlos",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        286
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:58cdd379d02038312be7245cd6be3af55552a1932f26d7754be0c5cacd396c88",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Wärme, Fülle, schließlich direkt",
+        "type": "object",
+        "quote": "Wärme, Fülle, schließlich direkt in Kap 38",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        286
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3b5f5c6541d32d8428bcae0b0dbd989f3f2224d4978912dc42fda5ff98e47cb9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Telefon-Stille",
+        "type": "object",
+        "quote": "Telefon-Stille** (ruht bis Vortex, eingelöst Kap 39)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        286
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bf9fe0d64c142d1fe40d25b8270bf84926ef6b6cb80a9488929e0ccb7ffa1a0c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0",
+        "target": "Ich falle... in unzählige Scherben…",
+        "type": "hook_out",
+        "quote": "Ich falle... in unzählige Scherben…",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        298
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:776396dd11d06472251e8fd8ad4d0226dc88856752ed28ca7c229e8558453216",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.  **Erwachen in der Konstrukt-Stadt**",
+        "target": "Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7",
+        "type": "place",
+        "quote": "Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9719d8c63cc104f72ede35d2c66d1bcea4181f2846eef5dd2fdc85133df97aa5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.  **Erwachen in der Konstrukt-Stadt**",
+        "target": "eine einzige konkrete Falschheit",
+        "type": "falsehood",
+        "quote": "eine einzige konkrete Falschheit",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        58,
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:078e4732a518dde5ff4349b9db3d5542e9914cbd365c240be8c0d61c82fa24ec",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.  **Erwachen in der Konstrukt-Stadt**",
+        "target": "„Das Licht ist schon da, als ich erwache.“",
+        "type": "hook_in",
+        "quote": "Erstsatz „Das Licht ist schon da, als ich erwache.“",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "„Das Licht ist schon da, als ich erwache.“"
+      ]
+    },
+    {
+      "id": "claim:68dcb17b4e19f0e1d566d264a797a7cc6c6f86780ab3743c819aaac5f730c840",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "2.  **Der erste Riss**",
+        "target": "erste Begegnung mit der Systemlüge",
+        "type": "falsehood",
+        "quote": "erste Begegnung mit der Systemlüge",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        307
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e0ef6aaead06c62e5e6c224dbdc2633c135f4dfca3b711d62ded8f5566b3592b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "3.  **Bunker-Bau**",
+        "target": "verdoppelt Kontrolle/Ordnung",
+        "type": "want",
+        "quote": "Kael (Lex-dominant) verdoppelt Kontrolle/Ordnung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        308
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c0166adb229a382fa612cdb1f632bc1a2c1b93eeda8102ad8b1c09d9f9b6b9d8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6.  **Echos im Fundament**",
+        "target": "die einseitige Logik scheitert an einem komplexen Problem",
+        "type": "obstacle",
+        "quote": "6.  **Echos im Fundament** (Tod einer Einstellung) · KW1→KW2-Vorschein · A:MC-Solution (Pursuit erste Andeutung), B:OS (AEGIS' Logik zeigt Schwächen). „Cache-Konflikt“: die einseitige Logik scheitert an einem komplexen Problem",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:506575ac850747e5a535edf28e9b75eab8a742a6a053492bc5feea6442384163",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "12. **Stille der Mitte**",
+        "target": "AEGIS scannt diesen Zustand",
+        "type": "want",
+        "quote": "12. **Stille der Mitte** (Jetzt-Raum) · KW1 · A:MC-Concern, B:OS latent (AEGIS scannt diesen Zustand)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        317
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:da8d800e90dd0b7d53fab1fbbc7aae6661491a4f93321b2e37294dda34846e0e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "13. **Tanz im Garten**",
+        "target": "AEGIS bereitet Phase-2-Stress-Tests vor",
+        "type": "want",
+        "quote": "13. **Tanz im Garten** (neue innere Welt) · KW1→Übergang · A:MC-Concern, B:OS (AEGIS bereitet Phase-2-Stress-Tests vor)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        318
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:919857ce987e21a6ded0500eb6a44c9b1fcf016e3c46ad3799d4c8f118b8fd82",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 14 — Das Archiv der Grenzen",
+        "target": "KW2 betreten",
+        "type": "place",
+        "quote": "Kap 14 — Das Archiv der Grenzen** (Modus-Wechsel / 1. Szene des zyklischen Modus; Teil-IX-Arbeitstitel: *Bruch des Gleichgewichts*): alte Wunden reißen auf; erste Erasure-Welle; Kael erhält Zugang zu AEGIS' technischen Dossiers (Lernarchiv Theta-9); **KW2 betreten",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        339
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:40abf04fe06dca95c89b162e1d959e625778c80e1846950b01c51688f65e1298",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 15 — Turing-Mechanik",
+        "target": "die Stadt als universelle Turingmaschine",
+        "type": "object",
+        "quote": "Kap 15 — Turing-Mechanik** (Zyklus-Funktion: Z1-Trigger): die Stadt als universelle Turingmaschine",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        340
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ead91d57cba5a966132e04eedbe6d798d380a8950f2095af395ec63f0aaf21c5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 20 — Z2-Lyons-Kreativität",
+        "target": "erste bewusste Pursuit-Bewegung",
+        "type": "want",
+        "quote": "Kap 20 — Z2-Lyons-Kreativität:** erste bewusste Pursuit-Bewegung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        345
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:63ea9ac5a4ce12befbc44770a7ff3bd6bf029b1bc00d87cc9eba894daca73dcb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 22",
+        "target": "Erasure-Kosten sichtbar",
+        "type": "cost",
+        "quote": "Kap 22 — Z3-AEGIS-Eskalation + Genesis-Flashback: Komp 734.** Berechenbarkeitsgrenzen; Erasure-Kosten sichtbar",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        347
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:85ae06cc5358e2e6a1014a906f89de608b4f3e63135651ddebc2e968d7187618",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 24",
+        "target": "AEGIS",
+        "type": "obstacle",
+        "quote": "Kap 24 — Telefon-Stille** (wiederkehrendes K-J-Thema): K-J-Verbindung wird zyklisch von AEGIS gestört",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        349
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4eab1aa7c71d3879a5861620f90d68857122fcda38f1a16247aa69c583184384",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 26",
+        "target": "Entscheidung zur Befreiung",
+        "type": "want",
+        "quote": "Kap 26 — Schritt ins Ungewisse:** der Tritt darüber; Entscheidung zur Befreiung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        351
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1e1a284210485180d5d55685aa87211a5542ca6306342c7bbabb3958295a0485",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 26",
+        "target": "Erasure-Vorbereitung eskaliert",
+        "type": "obstacle",
+        "quote": "Kap 26 — Schritt ins Ungewisse:** der Tritt darüber; Entscheidung zur Befreiung; Erasure-Vorbereitung eskaliert",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        351
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:564ac01a734d4343a34ab57fbc44d2fbdf37aaa913b44b820e78a1240d8c7a5f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 28",
+        "target": "Purge-Drohung",
+        "type": "obstacle",
+        "quote": "Kap 28 — AEGIS' Eskalation** (HR 2: Call to Adventure): Purge-Drohung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        360
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:03f394daef8ec080c3ac6361134e1428157986d7666ef24ab4241ddab430828c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 28",
+        "target": "ewige Fragmentierung",
+        "type": "cost",
+        "quote": "Kap 28 — AEGIS' Eskalation** (HR 2: Call to Adventure): Purge-Drohung, Juna in Gefahr; **A-Consequence akut** (ewige Fragmentierung droht)",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        360
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a79e5e2eee6617a4ded89e1aee023a7737f69007cf5b93f68986698666340cbb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 31",
+        "target": "Kael absorbiert Guardian-Prinzipien gesund",
+        "type": "want",
+        "quote": "Kap 31 — Auflösung der Guardians** (HR 5: Crossing the First Threshold): Kael absorbiert Guardian-Prinzipien gesund",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        363
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:46bb698345be3529d9cb32770014d4c3ccad71d9bb59b64662f891a011d3b5af",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 33",
+        "target": "AEGIS' Kern",
+        "type": "place",
+        "quote": "Kap 33 — Approach Inmost Cave** (HR 7): Vordringen zu AEGIS' Kern",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        365
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:71cb4f273b3318d7e20e933f9559b88240aca65ef782dd536faa6eb4894bc855",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 34",
+        "target": "AEGIS (Makro-Log)",
+        "type": "obstacle",
+        "quote": "Kap 34 — Konfrontation: Zwei Arten der Kohärenz** (HR 8: Ordeal-Annäherung): Kael (Wir) vs. AEGIS (Makro-Log)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        366
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2539ba3c976762127a838f32855e3b75da7972ed1ad1e476379e9b74c3e026cc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "AEGIS-monolithisch erlischt",
+        "type": "cost",
+        "quote": "B-Cost: AEGIS-monolithisch erlischt (Kap 36)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        370
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f78d8428f1aca5459af2fb5ca3e65a7cee8208c6fb643bcd585d79c63ab66801",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 37",
+        "target": "falscher Frieden",
+        "type": "falsehood",
+        "quote": "Klassischer Reward-Beat als falscher Frieden.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        386
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fc8d7905fcc152f5f40ba2310056ad36737d859f71148ef0b535ecf330e475ed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "das Rauschen",
+        "type": "obstacle",
+        "quote": "das Rauschen kommt — sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        398
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f43fc4e911b2321cbaecafaad2bac1ac4f7645cb79eb2741542f5405e180088a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Juna",
+        "type": "who",
+        "quote": "Junas erste direkte Erscheinung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        400
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f5443839ddbd2fb812048fbeec42f20cef578a86bde2c01c66b6576e2e770b16",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "plurale Bewahrung als Lösung",
+        "type": "object",
+        "quote": "Wir und Juna teilen die Erkenntnis durch geteilten Raum: plurale Bewahrung als Lösung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        401
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:377d83dec14c2f6599d253bbd25a050449c70dbfcb82ea7cd701dae682073540",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "das Wir entscheidet, ins Ouroboros zu gehen",
+        "type": "want",
+        "quote": "das Wir entscheidet, ins Ouroboros zu gehen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        402
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:03d146d069582ad6bfa89bf2436be01956c42a59c2c783acbb60990369482832",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 38",
+        "target": "Ouroboros",
+        "type": "place",
+        "quote": "das Wir entscheidet, ins Ouroboros zu gehen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        402
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2fa59a4bad0e246925ebebc84e4b33d05191c6b8353491355888f49179f91fae",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39 — Wir-AEGIS",
+        "target": "AEGIS-monolithisch erlischt",
+        "type": "irreversible",
+        "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        412
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fd23d8e28cc9b9ba8f459b570b51da73524d6f8c6f0ef6b0bb6eb447d0ec8c9c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39 — Wir-AEGIS",
+        "target": "als letzten Satz setzt er den gelockten Kap-1-Erstsatz",
+        "type": "hook_out",
+        "quote": "als letzten Satz setzt er den gelockten Kap-1-Erstsatz",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        414
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ba76e7415b9057fa1a11a8fda9bff02dbf6fd00635e866ac005f5b9e65e80aed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 40 — Geheilte Genesis (Coda)",
+        "target": "der Schmerz bleibt, als Preis",
+        "type": "cost",
+        "quote": "der Schmerz bleibt, als Preis, nicht mehr als Tragödie",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        425
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6e417c7b5aa6ade45fc5b3b88455e0314e4359de6a583d52535a76311cb6acbc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0",
+        "target": "Nyx",
+        "type": "who",
+        "quote": "der Faden lebt in **Kap 0 allein** (Knöchel-Eruption, Nyx)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        459
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d9004b7a1708524b817bfce8a9f57aa82b56fb3ac722b50cfc0c39dfd9eb8f77",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap-39",
+        "target": "Kael schreibt",
+        "type": "want",
+        "quote": "Kap-39-Schreib-Moment:** exakte Inszenierung (schreibt Kael buchstäblich?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "ChapterCards",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        491
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

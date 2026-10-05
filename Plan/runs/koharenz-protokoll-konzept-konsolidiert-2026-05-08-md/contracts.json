@@ -32,6 +32,68 @@
    "category": "kernkonzept"
   },
   {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 54,
+   "failed_calls": 0,
+   "chunks": 54,
+   "failed_chunks": 0,
+   "cost_usd": 0.9904,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+   "rows": 73,
+   "candidates": 26,
+   "refused": {
+    "surface absent from document": 3,
+    "joined or shortened quote": 2,
+    "chapter is neither on the quoted line nor the heading above it": 41,
+    "ambiguous quote: choose its passage": 1
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
+   "run": "chaptercards-sonnet-2026-10-05c",
+   "contract": "ChapterCards",
+   "model": "",
+   "date": "2026-10-05",
+   "calls": 0,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+   "rows": 73,
+   "candidates": 65,
+   "refused": {
+    "surface absent from document": 3,
+    "joined or shortened quote": 2,
+    "chapter is neither on the quoted line nor the heading above it": 2,
+    "ambiguous quote: choose its passage": 1
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
    "run": "termcontrasts-haiku-2026-09-30",
    "contract": "TermContrasts",
    "model": "claude-cli/haiku",

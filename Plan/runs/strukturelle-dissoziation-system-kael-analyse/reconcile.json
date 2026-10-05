@@ -1,0 +1,279 @@
+{
+  "document": "strukturelle-dissoziation-system-kael-analyse",
+  "drive_id": "1hsd-aJ4Y8u3X8oVYc_Bq-0NSySXW-wpJcfApBKzalxk",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; read ahead of the queue on the author's word („Ok“, 2026-10-05) after the session had read the document itself and named it the most complete of four TSDP analyses of 2025-04-28; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) in turn from Plan/runs/ingest-95/brief.md; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 105,
+    "decisions": 113,
+    "decided_by_lookup": 86,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research report that applies the theory of structural dissociation to the eleven Anteile: its 69 new surfaces are the theory's vocabulary (ANP, EP, primary/secondary/tertiary structural dissociation, action systems, defence cascade, the six phobias, OSDD-1, IFS), its profile fields, the four early names of the Kernwelten (Co₁, McL, B, Ly) and the eleven earlier names of the Anteile (Michael, Die Wächterin, Shadow, Der Kleine, Isabella, The Lost One, Alexander, Stefan, Data, Beobachter/Kritiker). Its readings went onto 17 pages and 2 records; every earlier name went onto its Anteil's page, none became a page of its own.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        100,
+        102,
+        107,
+        115,
+        116,
+        530
+      ],
+      "attribution": "",
+      "note": "AEGIS as an outside force that exploits the dissociative split"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        113,
+        422,
+        424,
+        425,
+        426
+      ],
+      "attribution": "",
+      "note": "Alex ehem. Alexander, a secondary ANP of the protector type"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        116,
+        196,
+        499,
+        501,
+        503
+      ],
+      "attribution": "",
+      "note": "Argus ehem. Beobachter/Kritiker, an emerging ANP/EP mix"
+    },
+    {
+      "page": "did",
+      "lines": [
+        15,
+        196
+      ],
+      "attribution": "",
+      "note": "DID as the typical home of tertiary dissociation"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        111,
+        372,
+        374,
+        375,
+        376
+      ],
+      "attribution": "",
+      "note": "Isabelle ehem. Isabella, older form / Sexual Alter, an EP"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        122,
+        135,
+        530
+      ],
+      "attribution": "",
+      "note": "Juna/V as a possible counterpole to AEGIS"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        42,
+        246,
+        248,
+        250,
+        526
+      ],
+      "attribution": "",
+      "note": "Kael as primary ANP and host, ehem. Michael"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        60,
+        62,
+        71,
+        80,
+        89,
+        96
+      ],
+      "attribution": "",
+      "note": "four symbolic Kernwelten, named Co₁, McL, B, Ly"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        109,
+        321,
+        323,
+        324,
+        325
+      ],
+      "attribution": "",
+      "note": "Kiko ehem. Der Kleine, a child EP fixed on flight and freeze"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        40,
+        43,
+        248,
+        473,
+        475,
+        476,
+        477
+      ],
+      "attribution": "",
+      "note": "Lex ehem. Data, a second Primärer ANP"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        110,
+        347,
+        349,
+        350,
+        351
+      ],
+      "attribution": "",
+      "note": "Lia ehem. Isabella, younger form, a child EP with ambivalent attachment"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        41,
+        112,
+        397,
+        399,
+        400,
+        401
+      ],
+      "attribution": "",
+      "note": "Moros ehem. The Lost One, an EP fixed on freeze, collapse and submission"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        142,
+        211
+      ],
+      "attribution": "",
+      "note": "integration as `funktionale Multiplizität`, not fusion"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        108,
+        295,
+        297,
+        298,
+        299
+      ],
+      "attribution": "",
+      "note": "Nyx ehem. Shadow, a fight-oriented EP"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        41,
+        447,
+        449,
+        450,
+        451
+      ],
+      "attribution": "",
+      "note": "Rhys ehem. Stefan, a secondary ANP of the carer type"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        142,
+        217,
+        272,
+        274,
+        276
+      ],
+      "attribution": "",
+      "note": "Selene ehem. Die Wächterin, modelled on the IFS Selbst"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15,
+        29,
+        186,
+        194,
+        196,
+        202,
+        215,
+        216,
+        217
+      ],
+      "attribution": "",
+      "note": "TSDP as the frame: ANP and EP, tertiary dissociation, phobias, three phases"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J72 (a parenthetical index is part of the label: Selene (Integration Potential), Argus (Observer)), J12 and J16 (a compound or a qualified label is its own token: System Kael, TSDP Klassifikation, Integrationspotenzial, Phobie vor Integration und Veränderung, Phobie vor unkontrollierbarer Destabilisierung, Integration und Rehabilitation, Resonanz/Trigger), J9 (a title or field label containing a term: Beziehung zu AEGIS, Beziehung zu Juna/V, Stance on Integration & Selene, Kohärenz Protokoll), J34 and J43 (a slash in a name the wiki has: Juna/V), J53 (a shared head noun is not a shared referent: Resonanz against Entropie-Resonanz), J69 (a match only after folding: Depersonalisation / Persona), and Alexander kept apart from Alex as the earlier name the profile gives (L422), recorded on alex",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 89,
+      "decision": "occurrence",
+      "why": "only in the label of the world Ly, „Potentialität/Emergenz“; nothing said of Emergenz itself"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 15,
+      "decision": "reading",
+      "why": "the introduction names the link Juna/V; read on juna with L122 and L135"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    }
+  ],
+  "not_promoted": [
+    "Co₁, McL, B, Ly — the four Kernwelten under the analysis's own symbolic names (L60–L89); recorded on kern-welten and Q3, never mapped onto KW1–KW4",
+    "the earlier names (Michael, Die Wächterin, Shadow, Der Kleine, Isabella, The Lost One, Alexander, Stefan, Data, Beobachter/Kritiker) — each on its Anteil's page",
+    "the TSDP vocabulary (ANP, EP, Primäre/Sekundäre/Tertiäre SD, Aktionssysteme, Defense Cascade, the six phobias) — on tsdp",
+    "Insight 5, Insight 8 — bracketed labels the document never explains"
+  ],
+  "internal_tension": "Kael (L248) and Lex (L475) are both typed „Primärer ANP“; Selene (L274) and Argus (L501) are each typed with two alternatives; eleven Anteile (L15) against four ANPs and five-plus EPs with a hedge (L196); five bracketed `Insight` labels are never explained",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

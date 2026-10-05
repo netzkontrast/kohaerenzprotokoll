@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -77,6 +77,10 @@ Teil 2's section IV names `KW3` `Grenzfeste`, with Cerberus, and describes it: �
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the blueprint, the architecture analysis) — the name of KW3
 
 The architecture analysis pairs the name with the Labyrinth: „KW3 (Grenzfeste/Cerberus-Labyrinth)“ ^[ai-assisted-narrative-coherence.md:L1727]. The blueprint's heading gives the world as „KW3: Cerberus-Labyrinth (The Fortress of Defense)“ ^[ai-assisted-narrative-coherence.md:L477], and the three-act blueprint calls it the `Border Fortress`.
+
+## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — KW3, written Cerberus-Labyrinth / Grenzfeste
+
+The third Core World is written „KW3: Cerberus-Labyrinth / Grenzfeste“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98]. Its principle is „Defense & Hypervigilance (Protectors)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], its sensory signature „Oppressive, militaristic, jarring, monitored“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], and its somatic truth is bracing for impact: „The body as armor, revealing that physical security does not equal psychological safety.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98]
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — KW3, Die Grenzfeste / Cerberus-Labyrinth
 

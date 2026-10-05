@@ -1,0 +1,14 @@
+# the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch
+  lines                167  (frontmatter ends at 9)
+  body words           2961
+  headings             18   bold-only lines 0
+  table rows           34   code fences 0
+  question marks       0
+  backslash escapes    198
+  typographic marks    16   ascii quotes 106
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    2
+  repeated labels      none
+  longest line         706 chars
+

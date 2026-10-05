@@ -1,0 +1,319 @@
+{
+  "items": [
+    {
+      "source": "1",
+      "target": "Kael (Host)",
+      "type": "who",
+      "quote": "1 | Illusion der perfekten Welt — Ordnung als Käfig | Kael (Host)",
+      "stance": "asserts"
+    },
+    {
+      "source": "2",
+      "target": "Kael, mit Lex-Einbruch",
+      "type": "who",
+      "quote": "2 | Verrat / Desillusionierung — der erste Riss | Kael, mit Lex-Einbruch",
+      "stance": "asserts"
+    },
+    {
+      "source": "2",
+      "target": "erste Begegnung mit Systemlüge",
+      "type": "falsehood",
+      "quote": "2 | Verrat / Desillusionierung — der erste Riss | Kael, mit Lex-Einbruch | MC-Issue Falsehood-vs-Truth: erste Begegnung mit Systemlüge",
+      "stance": "asserts"
+    },
+    {
+      "source": "3",
+      "target": "Bunker-Bau",
+      "type": "want",
+      "quote": "3 | Erwachen & Vorbereitung — Identifikation mit dem Männlichen | Kael (Lex-dominant) | MC-Problem Avoidance: Bunker-Bau als ANP-Funktion",
+      "stance": "asserts"
+    },
+    {
+      "source": "8",
+      "target": "Kael, Wächterin",
+      "type": "who",
+      "quote": "8 | Wiedergeburt — Heilung des Männlichen im Inneren | Kael, Wächterin",
+      "stance": "asserts"
+    },
+    {
+      "source": "8",
+      "target": "Kael, Wächterin",
+      "type": "who",
+      "quote": "| 8 | Wiedergeburt — Heilung des Männlichen im Inneren | Kael, Wächterin",
+      "stance": "asserts"
+    },
+    {
+      "source": "9",
+      "target": "Kael (mit innerem Dialog)",
+      "type": "who",
+      "quote": "| 9 | Rückkehr mit neuer Sichtweise — Integration beginnt | Kael (mit innerem Dialog)",
+      "stance": "asserts"
+    },
+    {
+      "source": "10",
+      "target": "Kael (kooperativ-polyphon)",
+      "type": "who",
+      "quote": "| 10 | Erste Anwendung der Integration | Kael (kooperativ-polyphon)",
+      "stance": "asserts"
+    },
+    {
+      "source": "11",
+      "target": "Kael (Wir-Geflecht)",
+      "type": "who",
+      "quote": "| 11 | Akzeptanz der Komplexität — Mosaik-Herz | Kael (Wir-Geflecht)",
+      "stance": "asserts"
+    },
+    {
+      "source": "12",
+      "target": "Kael (gesammelt)",
+      "type": "who",
+      "quote": "| 12 | Stille der Mitte — Jetzt-Raum | Kael (gesammelt)",
+      "stance": "asserts"
+    },
+    {
+      "source": "12",
+      "target": "AEGIS scannt diesen Zustand",
+      "type": "want",
+      "quote": "| 12 | Stille der Mitte — Jetzt-Raum | Kael (gesammelt) | MC-Concern: Präsenz als Stabilität | OS-Physics latent: AEGIS scannt diesen Zustand",
+      "stance": "hedges"
+    },
+    {
+      "source": "13",
+      "target": "Kael (Wir-stabil)",
+      "type": "who",
+      "quote": "| 13 | Tanz im Garten — neue innere Welt | Kael (Wir-stabil)",
+      "stance": "asserts"
+    },
+    {
+      "source": "13",
+      "target": "AEGIS bereitet Phase-2-Stress-Tests vor",
+      "type": "want",
+      "quote": "| 13 | Tanz im Garten — neue innere Welt | Kael (Wir-stabil) | MC-Concern: Innere Praxis etabliert | OS-Physics: AEGIS bereitet Phase-2-Stress-Tests vor",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35–36",
+      "target": "Vortex",
+      "type": "place",
+      "quote": "Der Resolve-Wechsel kommt im Vortex (Kap 35–36).",
+      "stance": "asserts"
+    },
+    {
+      "source": "14",
+      "target": "erste Erasure-Welle gegen Kaels Stabilität",
+      "type": "obstacle",
+      "quote": "14 | Bruch des Gleichgewichts | Kael, kurzer AEGIS-POV möglich | MC-Issue Falsehood-vs-Truth: alte Wunden reißen auf | OS-Physics: erste Erasure-Welle gegen Kaels Stabilität",
+      "stance": "asserts"
+    },
+    {
+      "source": "16",
+      "target": "Flucht in Betäubung",
+      "type": "want",
+      "quote": "16 | Z1-Reaktion — Bunker reaktiv | Kael (Lex+Selene-Dominanz) | MC-Problem: Flucht in Betäubung",
+      "stance": "asserts"
+    },
+    {
+      "source": "17",
+      "target": "aktiv anschauen statt fliehen",
+      "type": "want",
+      "quote": "17 | Z1-Korrektur — Wächterin | Kael (Wir-Geflecht beginnt) | MC-Solution Pursuit \\*Andeutung\\*: aktiv anschauen statt fliehen",
+      "stance": "hedges"
+    },
+    {
+      "source": "18",
+      "target": "Multi-Welten-Aufgabe scheitert",
+      "type": "obstacle",
+      "quote": "18 | Z2-Destabilisierung — Cache-Konflikt | Kael (multi-alter, dyssynchron) | MC-Concern Memory: Multi-Welten-Aufgabe scheitert",
+      "stance": "asserts"
+    },
+    {
+      "source": "22",
+      "target": "Kael",
+      "type": "who",
+      "quote": "22 | Z3-Reaktion — AEGIS-Eskalation | Kael, AEGIS dominant",
+      "stance": "asserts"
+    },
+    {
+      "source": "22",
+      "target": "AEGIS",
+      "type": "who",
+      "quote": "22 | Z3-Reaktion — AEGIS-Eskalation | Kael, AEGIS dominant",
+      "stance": "asserts"
+    },
+    {
+      "source": "23",
+      "target": "Kael",
+      "type": "who",
+      "quote": "23 | Z3-Korrektur — Mosaik als Schöpfung | Kael",
+      "stance": "asserts"
+    },
+    {
+      "source": "24",
+      "target": "Kael",
+      "type": "who",
+      "quote": "24 | Wiederkehrendes K-J-Thema | Kael, Juna-Witness",
+      "stance": "asserts"
+    },
+    {
+      "source": "24",
+      "target": "Juna",
+      "type": "who",
+      "quote": "24 | Wiederkehrendes K-J-Thema | Kael, Juna-Witness",
+      "stance": "asserts"
+    },
+    {
+      "source": "25",
+      "target": "Kael",
+      "type": "who",
+      "quote": "25 | Wendepunkt-Vorbereitung | Kael",
+      "stance": "asserts"
+    },
+    {
+      "source": "26",
+      "target": "Kael",
+      "type": "who",
+      "quote": "26 | Wendepunkt — Entscheidung zur Befreiung | Kael",
+      "stance": "asserts"
+    },
+    {
+      "source": "28",
+      "target": "Erasure-Drohung explizit",
+      "type": "obstacle",
+      "quote": "OS-Physics: Erasure-Drohung explizit",
+      "stance": "asserts"
+    },
+    {
+      "source": "31",
+      "target": "Angriff auf AEGIS",
+      "type": "want",
+      "quote": "Crossing First Threshold — Angriff auf AEGIS",
+      "stance": "asserts"
+    },
+    {
+      "source": "31",
+      "target": "AEGIS' Verteidigung greift",
+      "type": "obstacle",
+      "quote": "OS-Physics: AEGIS' Verteidigung greift",
+      "stance": "asserts"
+    },
+    {
+      "source": "32",
+      "target": "Guardians als Sub-Antagonisten",
+      "type": "obstacle",
+      "quote": "OS-Physics: Guardians als Sub-Antagonisten",
+      "stance": "asserts"
+    },
+    {
+      "source": "33",
+      "target": "Vordringen zu AEGIS' Kern",
+      "type": "want",
+      "quote": "Approach Inmost Cave — Vordringen zu AEGIS' Kern",
+      "stance": "asserts"
+    },
+    {
+      "source": "35",
+      "target": "Einspeisung des paradoxen Selbst",
+      "type": "want",
+      "quote": "Einspeisung des paradoxen Selbst",
+      "stance": "asserts"
+    },
+    {
+      "source": "35",
+      "target": "Einspeisung des paradoxen Selbst",
+      "type": "want",
+      "quote": "35 | \\*\\*Vortex Beat 1–3\\*\\* — Einspeisung des paradoxen Selbst",
+      "stance": "asserts"
+    },
+    {
+      "source": "35",
+      "target": "AEGIS bricht",
+      "type": "obstacle",
+      "quote": "35 | \\*\\*Vortex Beat 1–3\\*\\* — Einspeisung des paradoxen Selbst | Kael (Wir) → AEGIS bricht",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35",
+      "target": "Kael formuliert sein Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung) und tritt damit vor AEGIS",
+      "type": "want",
+      "quote": "Kael formuliert sein Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung) und tritt damit vor AEGIS",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 35",
+      "target": "paradoxe Selbst-Aussage wird in AEGIS' Logik eingespeist",
+      "type": "object",
+      "quote": "paradoxe Selbst-Aussage wird in AEGIS' Logik eingespeist",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 36",
+      "target": "verzögerter B-Action-Stroke wird sichtbar als Wärme-Phänomen",
+      "type": "object",
+      "quote": "verzögerter B-Action-Stroke wird sichtbar als Wärme-Phänomen",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 36",
+      "target": "A bleibt; B wird als gewesen markiert",
+      "type": "irreversible",
+      "quote": "A bleibt; B wird als gewesen markiert",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 13",
+      "target": "Tanz im Garten",
+      "type": "hook_out",
+      "quote": "Kap 13 endet mit etablierter innerer Praxis (Tanz im Garten)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 14",
+      "target": "einem Bruch — externer Faktor oder gezielte AEGIS-Aktion testet die neue Balance",
+      "type": "hook_in",
+      "quote": "Kap 14 öffnet mit einem Bruch — externer Faktor oder gezielte AEGIS-Aktion testet die neue Balance.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 26",
+      "target": "Entschluss zur Befreiung — Kael tritt aus dem Zyklus heraus",
+      "type": "hook_out",
+      "quote": "Kap 26 endet mit dem Entschluss zur Befreiung — Kael tritt aus dem Zyklus heraus.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 36",
+      "target": "A bleibt, B wird als gewesen markiert",
+      "type": "hook_out",
+      "quote": "Kap 36 schließt mit Beat 5 — A bleibt, B wird als gewesen markiert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 37",
+      "target": "einer Welt, in der AEGIS nicht mehr aktiv ist (oder allenfalls als Echo, in Algorithmischer Melancholie)",
+      "type": "hook_in",
+      "quote": "Kap 37 öffnet in einer Welt, in der AEGIS nicht mehr aktiv ist (oder allenfalls als Echo, in Algorithmischer Melancholie).",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 34",
+      "target": "bleibt der Sieg möglich?",
+      "type": "promise",
+      "quote": "Bis Kap 34: bleibt der Sieg möglich?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kap 35–36",
+      "target": "kippt B nach A?",
+      "type": "promise",
+      "quote": "Kap 35–36: kippt B nach A?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kap 37–39",
+      "target": "Triumph oder Sisyphos?",
+      "type": "promise",
+      "quote": "Kap 37–39: Triumph oder Sisyphos?",
+      "stance": "asks"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+# every number the census and note state, with the command that produced it (2026-10-05)
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "wahrscheinlich"
+whole word, case-sensitive     32
+whole word, case-insensitive   43
+including compounds            33
+
+`wahrscheinlich` ^[strukturelle-dissoziation-system-kael-analyse.md:#32]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "könnte"
+whole word, case-sensitive     87
+whole word, case-insensitive   99
+including compounds            99
+
+`könnte` ^[strukturelle-dissoziation-system-kael-analyse.md:#87]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "möglicherweise"
+whole word, case-sensitive     24
+whole word, case-insensitive   29
+including compounds            24
+
+`möglicherweise` ^[strukturelle-dissoziation-system-kael-analyse.md:#24]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "ehem."
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`ehem.` ^[strukturelle-dissoziation-system-kael-analyse.md:#11]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Insight 8"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Insight 8` ^[strukturelle-dissoziation-system-kael-analyse.md:#1]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Insight 5"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Insight 5` ^[strukturelle-dissoziation-system-kael-analyse.md:#4]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Insight"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Insight` ^[strukturelle-dissoziation-system-kael-analyse.md:#5]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "AEGIS"
+whole word, case-sensitive     75
+whole word, case-insensitive   75
+including compounds            75
+
+`AEGIS` ^[strukturelle-dissoziation-system-kael-analyse.md:#75]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Beziehung zu Juna/V"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Beziehung zu Juna/V` ^[strukturelle-dissoziation-system-kael-analyse.md:#14]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "TSDP Klassifikation"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`TSDP Klassifikation` ^[strukturelle-dissoziation-system-kael-analyse.md:#11]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Potenzielle Entwicklung"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Potenzielle Entwicklung` ^[strukturelle-dissoziation-system-kael-analyse.md:#11]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Dissoziative Identitätsstörung"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Dissoziative Identitätsstörung` ^[strukturelle-dissoziation-system-kael-analyse.md:#0]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "DID"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            10
+
+`DID` ^[strukturelle-dissoziation-system-kael-analyse.md:#5]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Aktionssystem"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            30
+
+`Aktionssystem` ^[strukturelle-dissoziation-system-kael-analyse.md:#6]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Pressure Points"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Pressure Points` ^[strukturelle-dissoziation-system-kael-analyse.md:#1]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Emotionalen Persönlichkeitsanteil"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Emotionalen Persönlichkeitsanteil` ^[strukturelle-dissoziation-system-kael-analyse.md:#1]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "funktionale Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`funktionale Multiplizität` ^[strukturelle-dissoziation-system-kael-analyse.md:#2]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Beziehung zu AEGIS"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Beziehung zu AEGIS` ^[strukturelle-dissoziation-system-kael-analyse.md:#11]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Alexander"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alexander` ^[strukturelle-dissoziation-system-kael-analyse.md:#1]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Lias"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Lias` ^[strukturelle-dissoziation-system-kael-analyse.md:#5]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Kaels"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kaels` ^[strukturelle-dissoziation-system-kael-analyse.md:#4]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Selenes"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Selenes` ^[strukturelle-dissoziation-system-kael-analyse.md:#9]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Kikos"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kikos` ^[strukturelle-dissoziation-system-kael-analyse.md:#7]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Isabelles"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Isabelles` ^[strukturelle-dissoziation-system-kael-analyse.md:#6]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Anteilen"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            28
+
+`Anteilen` ^[strukturelle-dissoziation-system-kael-analyse.md:#28]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Aktionssystemen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Aktionssystemen` ^[strukturelle-dissoziation-system-kael-analyse.md:#2]
+
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Integrationsprozess"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Integrationsprozess` ^[strukturelle-dissoziation-system-kael-analyse.md:#9]
+
+stance_marker_count 143 = 32 (wahrscheinlich) + 87 (könnte) + 24 (möglicherweise), case-sensitive whole words, as printed above.
+The list of 105 candidates is the 'candidates:' line of census-draft.md; the 7 hyphenated TSDP forms, the 35 references (L572 to L606), and the lines named in the prose were read from the document:
+$ grep -o -E "TSDP-[A-Za-z]*" Sources/drive/strukturelle-dissoziation-system-kael-analyse.md | sort | uniq -c
+      1 TSDP-Fokus
+      1 TSDP-Forschung
+      1 TSDP-Konzepte
+      1 TSDP-Prinzipien
+      1 TSDP-Rolle
+      1 TSDP-basiert
+      1 TSDP-basierte
+$ python3 scripts/read.py strukturelle-dissoziation-system-kael-analyse --count "Zugriff"
+whole word, case-sensitive     35
+whole word, case-insensitive   35
+including compounds            35
+
+`Zugriff` ^[strukturelle-dissoziation-system-kael-analyse.md:#35]

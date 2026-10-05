@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: C11
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -77,6 +77,10 @@ Teil 2's section IV names `KW2` `Resonanz-Landschaft` and its Mnemosyne, and say
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the blueprint, the architecture analysis) — the name of KW2
 
 The blueprint's heading glosses the world: „KW2: Mnemosyne-Archipel (The Resonance Landscape)“ ^[ai-assisted-narrative-coherence.md:L473]. The architecture analysis writes the German name beside the Archipel in its world table: „KW2 (Resonanz-Landschaft/Mnemosyne-Archipel)“ ^[ai-assisted-narrative-coherence.md:L1726].
+
+## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — KW2, written Mnemosyne-Archipel / Resonanz-Landschaft
+
+The second Core World is written „KW2: Mnemosyne-Archipel / Resonanz-Landschaft“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97]. Its principle is „Trauma & Emotional Memory (EPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97], its sensory signature „Fluid, decaying, resonant, fragmented“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97], and its somatic truth „The body speaking the unfiltered, pre-verbal language of trauma and its true contradictions.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97]
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the row KW2 Mnemosyne-Archipel, written under the Guardian-built name only
 

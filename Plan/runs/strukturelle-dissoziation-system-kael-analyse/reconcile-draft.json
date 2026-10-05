@@ -1,0 +1,276 @@
+{
+  "document": "strukturelle-dissoziation-system-kael-analyse",
+  "drive_id": "1hsd-aJ4Y8u3X8oVYc_Bq-0NSySXW-wpJcfApBKzalxk",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 105,
+    "decisions": 113,
+    "decided_by_lookup": 86,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        100,
+        102,
+        107,
+        115,
+        116,
+        530
+      ],
+      "attribution": "",
+      "note": "AEGIS as an outside force that exploits the dissociative split"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        113,
+        422,
+        424,
+        425,
+        426
+      ],
+      "attribution": "",
+      "note": "Alex ehem. Alexander, a secondary ANP of the protector type"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        116,
+        196,
+        499,
+        501,
+        503
+      ],
+      "attribution": "",
+      "note": "Argus ehem. Beobachter/Kritiker, an emerging ANP/EP mix"
+    },
+    {
+      "page": "did",
+      "lines": [
+        15,
+        196
+      ],
+      "attribution": "",
+      "note": "DID as the typical home of tertiary dissociation"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        111,
+        372,
+        374,
+        375,
+        376
+      ],
+      "attribution": "",
+      "note": "Isabelle ehem. Isabella, older form / Sexual Alter, an EP"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        122,
+        135,
+        530
+      ],
+      "attribution": "",
+      "note": "Juna/V as a possible counterpole to AEGIS"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        42,
+        246,
+        248,
+        250,
+        526
+      ],
+      "attribution": "",
+      "note": "Kael as primary ANP and host, ehem. Michael"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        60,
+        62,
+        71,
+        80,
+        89,
+        96
+      ],
+      "attribution": "",
+      "note": "four symbolic Kernwelten, named Co₁, McL, B, Ly"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        109,
+        321,
+        323,
+        324,
+        325
+      ],
+      "attribution": "",
+      "note": "Kiko ehem. Der Kleine, a child EP fixed on flight and freeze"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        40,
+        43,
+        248,
+        473,
+        475,
+        476,
+        477
+      ],
+      "attribution": "",
+      "note": "Lex ehem. Data, a second Primärer ANP"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        110,
+        347,
+        349,
+        350,
+        351
+      ],
+      "attribution": "",
+      "note": "Lia ehem. Isabella, younger form, a child EP with ambivalent attachment"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        41,
+        112,
+        397,
+        399,
+        400,
+        401
+      ],
+      "attribution": "",
+      "note": "Moros ehem. The Lost One, an EP fixed on freeze, collapse and submission"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        142,
+        211
+      ],
+      "attribution": "",
+      "note": "integration as `funktionale Multiplizität`, not fusion"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        108,
+        295,
+        297,
+        298,
+        299
+      ],
+      "attribution": "",
+      "note": "Nyx ehem. Shadow, a fight-oriented EP"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        41,
+        447,
+        449,
+        450,
+        451
+      ],
+      "attribution": "",
+      "note": "Rhys ehem. Stefan, a secondary ANP of the carer type"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        142,
+        217,
+        272,
+        274,
+        276
+      ],
+      "attribution": "",
+      "note": "Selene ehem. Die Wächterin, modelled on the IFS Selbst"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15,
+        29,
+        186,
+        194,
+        196,
+        202,
+        215,
+        216,
+        217
+      ],
+      "attribution": "",
+      "note": "TSDP as the frame: ANP and EP, tertiary dissociation, phobias, three phases"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 89,
+      "decision": "occurrence",
+      "why": "only in the label of the world Ly, „Potentialität/Emergenz“; nothing said of Emergenz itself"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 15,
+      "decision": "reading",
+      "why": "the introduction names the link Juna/V; read on juna with L122 and L135"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

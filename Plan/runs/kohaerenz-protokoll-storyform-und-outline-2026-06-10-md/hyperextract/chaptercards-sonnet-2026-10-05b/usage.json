@@ -1,0 +1,176 @@
+{
+  "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+  "calls": 31,
+  "failed_calls": 0,
+  "seconds": 259.3,
+  "input_tokens": 136765,
+  "output_tokens": 26024,
+  "cost_usd": 0.6428,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 2040,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1865,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1951,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1936,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1674,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1800,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 708,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1576,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1312,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1085,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 2015,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1205,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1186,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1275,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1573,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1956,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1973,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1106,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1181,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1963,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1312,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 532,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1707,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 779,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 1982,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 1351,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1906,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 1895,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 1788,
+      "ok": true
+    },
+    {
+      "chunk": 29,
+      "characters": 2041,
+      "ok": true
+    },
+    {
+      "chunk": 30,
+      "characters": 1760,
+      "ok": true
+    }
+  ]
+}

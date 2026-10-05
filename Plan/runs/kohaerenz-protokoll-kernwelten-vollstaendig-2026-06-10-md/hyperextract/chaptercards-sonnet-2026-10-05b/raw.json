@@ -1,0 +1,410 @@
+{
+  "items": [
+    {
+      "source": "Kap 33",
+      "target": "Überwelt",
+      "type": "place",
+      "quote": "Überwelt\\*\\* | nicht-physisch; Operationsraum | AEGIS + 2 Guardians | querschnittlich; explizit Kap 33",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "Wohneinheit 734",
+      "type": "place",
+      "quote": "Wohneinheit 734\\*\\* \\\\\\[K\\\\\\] | Kaels Wohnung; minimalistisch, AEGIS-überwacht; erste Anomalien beginnen hier | Kap 1",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "Sektor 04",
+      "type": "place",
+      "quote": "Sektor 04\\*\\* \\\\\\[K\\\\\\] | Grenzbereich; erste Risse als geometrische Inkonsistenzen | Kap 1 (Setting)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 2",
+      "target": "Sektor 04",
+      "type": "place",
+      "quote": "Sektor 04\\*\\* \\\\\\[K\\\\\\] | Grenzbereich; erste Risse als geometrische Inkonsistenzen | Kap 1 (Setting), Kap 2 (erster Riss)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35–36",
+      "target": "Vortex-1-Setting",
+      "type": "place",
+      "quote": "Vortex-1-Setting (Kap 35–36)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 14",
+      "target": "zerfallende Bibliothek mit unendlichen Regalen",
+      "type": "place",
+      "quote": "zerfallende Bibliothek mit unendlichen Regalen; Ort, an dem Kael die technischen Dossiers von AEGIS findet | Kap 14",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 14",
+      "target": "die technischen Dossiers von AEGIS",
+      "type": "object",
+      "quote": "Ort, an dem Kael die technischen Dossiers von AEGIS findet | Kap 14",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35–36",
+      "target": "Vortex-1-Setting",
+      "type": "place",
+      "quote": "Vortex-1-Setting | Kap 35–36",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 13",
+      "target": "wo Personae kollabieren",
+      "type": "place",
+      "quote": "wo Personae kollabieren | Kap 13 (Schleier-Fall)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 34",
+      "target": "Mosaik-Herz",
+      "type": "place",
+      "quote": "Mosaik-Herz\\*\\* \\\\\\[K\\\\\\] | Ort, an dem Kael Juna als Teil seiner selbst akzeptiert; \\*\\*vor Vortex\\*\\* | Kap 34",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 34",
+      "target": "Kael Juna als Teil seiner selbst akzeptiert",
+      "type": "want",
+      "quote": "Ort, an dem Kael Juna als Teil seiner selbst akzeptiert; \\*\\*vor Vortex\\*\\* | Kap 34",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap-29",
+      "target": "Werkstatt der Schöpfung",
+      "type": "place",
+      "quote": "Werkstatt der Schöpfung\\*\\* | Ort der kreativen Betätigung und Manifestation von Ideen | \\\\\\[V\\\\\\] — sinnvoll als Kap-29-Setting",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 33",
+      "target": "Garten der stillen Präsenz",
+      "type": "place",
+      "quote": "Garten der stillen Präsenz\\*\\* \\*(Cross-Reference zur Externen Ebene)\\* | Setting der Juna-Wirkung | Kap 33",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "Verschränkungs-Insel",
+      "type": "place",
+      "quote": "Kap 33** (Verschränkungs-Insel als Setting)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "Setting der direkten Berührung der K₁-Reinform",
+      "type": "place",
+      "quote": "Setting der direkten Berührung der K₁-Reinform | \\*\\*Kap 33\\*\\*",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Juna erscheint",
+      "type": "who",
+      "quote": "in Kap 38 (Juna erscheint)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "spezifischer Ort/Zustand in Köln",
+      "type": "place",
+      "quote": "spezifischer Ort/Zustand in Köln, an dem Junas Verbindung manifest wird; Lock-Detail offen | Kap 38",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "Setting der Juna-Wirkung",
+      "type": "place",
+      "quote": "Setting der Juna-Wirkung; \\*Cross-Reference zu KW4-Nexus\\* | Kap 33",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 7",
+      "target": "erste explizite Resonanz-Manifestation",
+      "type": "object",
+      "quote": "Aktiviert ab Kap 7** (erste explizite Resonanz-Manifestation)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 0",
+      "target": "Genesis (vor allen Welten)",
+      "type": "place",
+      "quote": "Kap 0 | Genesis (vor allen Welten)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 37",
+      "target": "KW4",
+      "type": "place",
+      "quote": "Kap 37 | \\*\\*KW4\\*\\* (trügerisch)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 40",
+      "target": "alle Welten gleichzeitig",
+      "type": "place",
+      "quote": "Kap 40 | \\*\\*alle Welten gleichzeitig\\*\\*",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "Verschränkungs-Insel",
+      "type": "place",
+      "quote": "Explizit als Setting nur **Kap 33** (Verschränkungs-Insel)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "Verschränkungs-Insel",
+      "type": "place",
+      "quote": "Explizit als Setting nur **Kap 33** (Verschränkungs-Insel).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 0",
+      "target": "Genesis (vor allen Welten)",
+      "type": "place",
+      "quote": "\\*\\*Kap 0\\*\\* | Genesis (vor allen Welten)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "KW1 Sektor 04 / Wohneinheit 734 / Transitkorridor Delta-7",
+      "type": "place",
+      "quote": "\\*\\*Kap 1\\*\\* | KW1 Sektor 04 / Wohneinheit 734 / Transitkorridor Delta-7",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 2",
+      "target": "KW1 Datenverarbeitungs-Zentrum / Sektor 04",
+      "type": "place",
+      "quote": "\\*\\*Kap 2\\*\\* | KW1 Datenverarbeitungs-Zentrum / Sektor 04",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 3",
+      "target": "KW1 verlassener Randbezirk",
+      "type": "place",
+      "quote": "\\*\\*Kap 3\\*\\* | KW1 verlassener Randbezirk",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 4",
+      "target": "KW1 verstecktes Archiv",
+      "type": "place",
+      "quote": "\\*\\*Kap 4\\*\\* | KW1 verstecktes Archiv",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 6",
+      "target": "KW1 Cache-Konflikt-Zone",
+      "type": "place",
+      "quote": "\\*\\*Kap 6\\*\\* | KW1 Cache-Konflikt-Zone",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 13",
+      "target": "KW3 Evaluierungseinheit",
+      "type": "place",
+      "quote": "\\*\\*Kap 13\\*\\* | KW3 Evaluierungseinheit",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 14",
+      "target": "KW2 Archiv der Grenzen",
+      "type": "place",
+      "quote": "\\*\\*Kap 14\\*\\* | KW2 Archiv der Grenzen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 14",
+      "target": "AEGIS-Dossiers gefunden",
+      "type": "object",
+      "quote": "\\*\\*Kap 14\\*\\* | KW2 Archiv der Grenzen | Eintritt KW2 | AEGIS-Dossiers gefunden",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 15",
+      "target": "KW2 (innere Welten)",
+      "type": "place",
+      "quote": "Kap 15\\*\\* | KW2 (innere Welten)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 20",
+      "target": "KW2 / Genesis-Flashback",
+      "type": "place",
+      "quote": "Kap 20\\*\\* | KW2 / Genesis-Flashback",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 21",
+      "target": "KW2 Wald des Flüsterns",
+      "type": "place",
+      "quote": "Kap 21\\*\\* | KW2 Wald des Flüsterns",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 22",
+      "target": "KW2 / KW3 Übergangs-Zone",
+      "type": "place",
+      "quote": "Kap 22\\*\\* | KW2 / KW3 Übergangs-Zone",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 23",
+      "target": "KW3 Schleusen / Wachtürme",
+      "type": "place",
+      "quote": "Kap 23\\*\\* | KW3 Schleusen / Wachtürme",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 24",
+      "target": "KW3 Gänge der Paranoia",
+      "type": "place",
+      "quote": "Kap 24\\*\\* | KW3 Gänge der Paranoia",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 26",
+      "target": "KW3 Zitadelle",
+      "type": "place",
+      "quote": "Kap 26\\*\\* | KW3 Zitadelle",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 27",
+      "target": "KW3 → KW4 Schwelle",
+      "type": "place",
+      "quote": "Kap 27\\*\\* | KW3 → KW4 Schwelle",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 29",
+      "target": "KW4 Möglichkeits-Garten Eintritt",
+      "type": "place",
+      "quote": "Kap 29\\*\\* | KW4 Möglichkeits-Garten Eintritt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 30",
+      "target": "KW4 / Externe Ebene Echo",
+      "type": "place",
+      "quote": "Kap 30\\*\\* | KW4 / Externe Ebene Echo",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 34",
+      "target": "KW4 Mosaik-Herz",
+      "type": "place",
+      "quote": "Kap 34\\*\\* | KW4 Mosaik-Herz",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35",
+      "target": "KW2 Mnemosyne-Server-Architektur",
+      "type": "place",
+      "quote": "Kap 35\\*\\* | \\*\\*KW2 Mnemosyne-Server-Architektur",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 34",
+      "target": "KW4 Mosaik-Herz",
+      "type": "place",
+      "quote": "Kap 34\\*\\* | KW4 Mosaik-Herz",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 34",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kap 34\\*\\* | KW4 Mosaik-Herz | Vor Vortex; Form-Motiv | Kael akzeptiert Juna als Teil seiner selbst",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35",
+      "target": "KW2 Mnemosyne-Server-Architektur",
+      "type": "place",
+      "quote": "Kap 35\\*\\* | \\*\\*KW2 Mnemosyne-Server-Architektur",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 36",
+      "target": "KW2 Mnemosyne-Server-Architektur",
+      "type": "place",
+      "quote": "Kap 36\\*\\* | KW2 Mnemosyne-Server-Architektur",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 37",
+      "target": "KW4 (trügerische Pastorale)",
+      "type": "place",
+      "quote": "Kap 37\\*\\* | KW4 (trügerische Pastorale)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Externe Ebene + KW4",
+      "type": "place",
+      "quote": "Kap 38\\*\\* | \\*\\*Externe Ebene + KW4",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "alle Welten simultan",
+      "type": "place",
+      "quote": "Kap 39\\*\\* | \\*\\*alle Welten simultan",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap-35",
+      "target": "Inselgruppe / Server-Halle / Memorialarchitektur / Zirbeldrüse",
+      "type": "place",
+      "quote": "Primäres Bild (Inselgruppe / Server-Halle / Memorialarchitektur / Zirbeldrüse). Lock vor Kap-35-Drafting.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap-38",
+      "target": "Plattenbau? S-Bahn-Station? Telefonzelle?",
+      "type": "place",
+      "quote": "Konkreter Ort (Plattenbau? S-Bahn-Station? Telefonzelle?). Lock vor Kap-38-Drafting.",
+      "stance": "asks"
+    },
+    {
+      "source": "Kap 33",
+      "target": "Überwelt — Schnittstelle zu den Kernwelten",
+      "type": "object",
+      "quote": "Überwelt — Schnittstelle zu den Kernwelten in Kap 33",
+      "stance": "asks"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Kael erreicht Juna direkt",
+      "type": "want",
+      "quote": "Wenn Kael in Kap 38 Juna direkt erreicht, erreicht er die Position des Lesers",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "das Wir-Geflecht sieht alle Welten gleichzeitig",
+      "type": "want",
+      "quote": "Kap-39-Synthese: das Wir-Geflecht sieht alle Welten gleichzeitig",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 40",
+      "target": "schließt den Kreis, indem sie den Leser in die Genesis zurückwirft, mit verändertem Sehen",
+      "type": "hook_out",
+      "quote": "die Coda Kap 40 schließt den Kreis, indem sie den Leser in die Genesis zurückwirft, mit verändertem Sehen",
+      "stance": "asserts"
+    }
+  ]
+}

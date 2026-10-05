@@ -1,0 +1,490 @@
+{
+  "document": "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+  "drive_id": "1ZrUPUbTMClpTJAQMuJibsri_2IJ9UY9FOpd1Y6SWaSQ",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; first in the queue re-ranked after document 95 (crossdoc.py coverage: 15 open records, 27 of their pages); rlm_ingest not run; readings by three wiki-reader subagents (Sonnet) one after the other — pages of AEGIS, Kael, Juna and the physics; the alters and the worlds; the eleven record entries — from Plan/runs/ingest-96/brief.md, which the session wrote after reading the document itself",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 93,
+    "decisions": 100,
+    "decided_by_lookup": 78,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English codex that claims to be „the single, authoritative Project Codex“ (L17): everything it names in the novel's world has a German page — kernels, DKT, Coherons, Genesis, Trennungsprotokoll, Component 734, the four worlds and their guardians, the eleven alters, Juna/V, the Moonshine-Link, algorithmic melancholy, the Gödel-Satz — and its 52 new surfaces are its English philosophy and method vocabulary (Exclusionary/Emergent Order, Protocol Ontology, Corrective Wavelet, ANP-EP Phobia, gnosis/episteme, Paraiyas, three style techniques), placed by the sentence (J100–J102) or not promoted.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        26,
+        27,
+        28,
+        44,
+        111,
+        112,
+        113,
+        156
+      ],
+      "attribution": "",
+      "note": "the tragic antagonist, enforcing Exclusionary Order, fated to algorithmic melancholy"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        119,
+        123,
+        126
+      ],
+      "attribution": "",
+      "note": "its row in the Master Profile of Alters"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        44,
+        156
+      ],
+      "attribution": "",
+      "note": "algorithmic melancholy as AEGIS's resolved fate"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        107,
+        119,
+        123,
+        124
+      ],
+      "attribution": "",
+      "note": "the Master Profile of Alters, a table with a TSDP action system per alter"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        119,
+        123,
+        134
+      ],
+      "attribution": "",
+      "note": "its row in the Master Profile of Alters"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        95,
+        98
+      ],
+      "attribution": "",
+      "note": "Cerberus as the guardian of KW3"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        62
+      ],
+      "attribution": "",
+      "note": "Coherons as the Coherence Kernel's atoms of persistence"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory as the generative engine of the Protocol Ontology"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        26,
+        60,
+        68,
+        113
+      ],
+      "attribution": "",
+      "note": "entropy written two ways: K₀'s principle and what AEGIS eliminates"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        44,
+        112
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as AEGIS's origin and tragic flaw"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        44,
+        156
+      ],
+      "attribution": "",
+      "note": "Kael as a living Gödel-Satz, a truth AEGIS's axioms cannot process"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "KW3, written Cerberus-Labyrinth / Grenzfeste"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        36,
+        46,
+        95,
+        154,
+        156
+      ],
+      "attribution": "",
+      "note": "the Guardian's Dilemma as canonical, and one guardian per Core World"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        119,
+        123,
+        131
+      ],
+      "attribution": "",
+      "note": "its row in the Master Profile of Alters"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        45,
+        136,
+        138,
+        140
+      ],
+      "attribution": "",
+      "note": "Juna/V as transcendent catalyst and exiled part of Kael's Ursprungs-Ich"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        26,
+        27,
+        36,
+        43,
+        45,
+        78,
+        117,
+        124,
+        156
+      ],
+      "attribution": "",
+      "note": "the protagonist as host of a TSDP system, Emergent Order, living Gödel-Satz"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        99
+      ],
+      "attribution": "",
+      "note": "KW4, written Kairos-Potentialis"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        78,
+        91,
+        95,
+        161
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as Psycho-Architectures of Kael's inner landscape, and the Sensory Rulebook"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        119,
+        123,
+        129
+      ],
+      "attribution": "",
+      "note": "its row in the Master Profile of Alters"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        62
+      ],
+      "attribution": "",
+      "note": "the Coherence Kernel (K₁) acting through Coherons and Corrective Wavelets"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "the Collapse Kernel (K₀) as entropy and the motor of complexity"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        112
+      ],
+      "attribution": "",
+      "note": "AEGIS's sublimated I as the designation Component 734"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        96
+      ],
+      "attribution": "",
+      "note": "KW1, written Logos-Prime / Konstrukt-Stadt"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        119,
+        123,
+        125
+      ],
+      "attribution": "",
+      "note": "its row in the Master Profile of Alters"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        119,
+        123,
+        130
+      ],
+      "attribution": "",
+      "note": "its row in the Master Profile of Alters"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        95,
+        96
+      ],
+      "attribution": "",
+      "note": "LogOS, the guardian named under KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        95,
+        97
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the guardian of KW2"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        139,
+        140
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link between Kael and Juna/V, to which AEGIS is blind"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        119,
+        123,
+        132
+      ],
+      "attribution": "",
+      "note": "its row in the Master Profile of Alters"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        43,
+        152,
+        160
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the arc's goal, its first stage and its voice"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        26,
+        68
+      ],
+      "attribution": "",
+      "note": "Nichts Rauschen as the Sea's second name, and Rauschen as AEGIS's misreading"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        119,
+        123,
+        128
+      ],
+      "attribution": "",
+      "note": "its row in the Master Profile of Alters"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        66,
+        68
+      ],
+      "attribution": "",
+      "note": "the Sea of Potentiality, Das Potentialmeer / Nichts Rauschen"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "KW2, written Mnemosyne-Archipel / Resonanz-Landschaft"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        119,
+        123,
+        127
+      ],
+      "attribution": "",
+      "note": "its row in the Master Profile of Alters"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        80,
+        82,
+        86,
+        87,
+        154
+      ],
+      "attribution": "",
+      "note": "the Risse as a four-step causal chain from a TSDP action system, and as Act II's product"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        119,
+        123,
+        133
+      ],
+      "attribution": "",
+      "note": "its row in the Master Profile of Alters"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        99
+      ],
+      "attribution": "",
+      "note": "Sophia only in the slash form Kairos/Sophia, the guardian of KW4"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        112
+      ],
+      "attribution": "",
+      "note": "the Trennungsprotokoll as AEGIS's act of algorithmic dismemberment"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        43,
+        85,
+        87,
+        117,
+        123
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical model of Kael's system and the source of the Riss's properties"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C2",
+    "C3",
+    "C9",
+    "C15",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q7",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J100–J102 (an English name goes to the German page its sentence speaks of: Collapse Kernel, Coherence Kernel, Dual Kernel Theory, Component 734, algorithmic melancholy, living Gödel-Satz, functional multiplicity, entropy — no new page), J9 (the title: Kohärenz Protokoll, Kohärenz), J34 (a slash form is the name: Juna/V, Kairos/Sophia), J49 (a world named for its Guardian: Logos-Prime and LogOS, Mnemosyne-Archipel and Mnemosyne, Cerberus-Labyrinth and Cerberus, Kairos-Potentialis), J56 and J23 (plurals: Coherons, Risse/Riss, Guardians), J12 and J16 (a compound is its own token: System Kael, Nichts Rauschen against Rauschen, Guardian's Dilemma), J69 (Tertiary Structural Dissociation of Personality is the clinical term, not personas); `Autonomous Entropic Gatekeeper` is AEGIS's function by the sentence (L113), not an expansion — recorded on C1",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 119,
+      "decision": "reading",
+      "why": "the „Master Profile of Alters“ heads the eleven-row table L124–L134; read on alters"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 45,
+      "decision": "reading",
+      "why": "`Juna/V` named as an external catalyst giving gnosis; read on juna with L136–L140"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 99,
+      "decision": "reading",
+      "why": "KW4 `Kairos-Potentialis` and its guardian `Kairos/Sophia`; read on kairos"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 99,
+      "decision": "reading",
+      "why": "the slash form `Kairos/Sophia`, KW4's guardian; read on sophia"
+    }
+  ],
+  "not_promoted": [
+    "Protocol Ontology, Corrective Wavelet, correspondence check — the physics vocabulary of §3.0 (L54–L62); read on dkt, kollaps-kernel, kohaerenz-kernel",
+    "Das Fundament / The Foundation — a process, a strange attractor (L70); no page, recorded here",
+    "Ich-Fragmenten, Ursprungs-Ich, algorithmic dismemberment — AEGIS's origin (L112); read on genesis, trennungsprotokoll and C3/C16",
+    "ANP-EP Phobia, Apparently Normal Parts, Emotional Parts, IFS — the clinical frame (L117–L118); read on tsdp",
+    "6 Paraiyas, gnosis, episteme — Juna/V's function (L138–L140); read on juna",
+    "Wächter-Zwiespalt / Guardian's Dilemma — read on guardians (L46, L154)",
+    "Exclusionary Order, Emergent Order, Self-Referential Logic, Integrative Logic, Operational Closure, Correspondence-Based Truth, ontological autarky, Coherence Theory of Truth — the philosophy table (L25–L28, L113); read on aegis and kael",
+    "Polyphonic Prose, Environmental Storytelling, Metafiction & The Reader's Protocol, Canonical Three-Act Structure — form (L150–L162); no chapter numbers, so no chapter page"
+  ],
+  "internal_tension": "entropy in two senses in one document — K₀'s „principle of entropy“, the motor of complexity (L60), and what AEGIS misreads qualia and trauma as and eliminates (L26, L113); recorded on entropie and C2",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

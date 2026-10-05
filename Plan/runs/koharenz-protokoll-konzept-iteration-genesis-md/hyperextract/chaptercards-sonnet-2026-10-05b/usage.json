@@ -1,0 +1,201 @@
+{
+  "document": "koharenz-protokoll-konzept-iteration-genesis-md",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "f81417c6b3fbdda446d07068ba1d6a29121d8dba9fb2afd94d96b8b9e1b7dff2",
+  "calls": 36,
+  "failed_calls": 0,
+  "seconds": 315.6,
+  "input_tokens": 161258,
+  "output_tokens": 31925,
+  "cost_usd": 0.7733,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1635,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1986,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 2005,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1744,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1564,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1972,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 2001,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1860,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1450,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1315,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1936,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1861,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1760,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1399,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1894,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1581,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1796,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1906,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1764,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1906,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 2040,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 2032,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1713,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1995,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 1691,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 1611,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1746,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 1831,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 1780,
+      "ok": true
+    },
+    {
+      "chunk": 29,
+      "characters": 1945,
+      "ok": true
+    },
+    {
+      "chunk": 30,
+      "characters": 1768,
+      "ok": true
+    },
+    {
+      "chunk": 31,
+      "characters": 1985,
+      "ok": true
+    },
+    {
+      "chunk": 32,
+      "characters": 1722,
+      "ok": true
+    },
+    {
+      "chunk": 33,
+      "characters": 1968,
+      "ok": true
+    },
+    {
+      "chunk": 34,
+      "characters": 1995,
+      "ok": true
+    },
+    {
+      "chunk": 35,
+      "characters": 1117,
+      "ok": true
+    }
+  ]
+}

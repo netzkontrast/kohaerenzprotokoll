@@ -148,3 +148,11 @@ Stands: one line, no boundary drawn.
 7.3: „Juna beweist durch den Moonshine-Link nicht-lokale, echte Verbindung.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L172] 7.4, `Der Moonshine-Link`: „Ein tiefenpsychologisches Ringen zwischen Vertrauen und Misstrauen in der Ausbildung echter Bindungen.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L185]
 
 Stands: the report places the link in both the Impact and the Subjective throughline; it draws no boundary (L172, L185).
+
+## 2026-10-05 — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide
+
+**The Moonshine-Link is non-local and sub-protocol, AEGIS is blind to it, and its effects are perceived as uncorrelated noise; no other boundary is drawn.**
+
+Under Juna/V: „is a non-local, sub-protocol connection.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L139] and „AEGIS is ontologically blind to this resonance; its sensors can only perceive its effects as uncorrelated system noise.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L139] Of its effect on Kael the document says „The link provides Kael with“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L140] `gnosis` rather than `episteme` (L140). The document does not say what else crosses, who in Kael's system feels it (`Silas` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] does not occur), or whether it belongs to Kael and Juna/V alone.
+
+A boundary toward AEGIS only: its sensors register effects as noise; recorded, the question stays open.

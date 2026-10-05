@@ -140,3 +140,11 @@ Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generati
 **Position 1's expansion, and no other — a philosophical position embodied in a system, not a simple villain.**
 „AEGIS, whose full designation is **Autonomous Entropic Gatekeeper for Integrity Systems**, is far more than a simple villain; it is a philosophical position embodied in a system." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1210]
 Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, and nothing of `Generative Integrity Substrate` — `Substrate` 0 case-sensitive, `Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`), and nothing says which expansion it supersedes. Position 1's side; the conflict stays open.
+
+## 2026-10-05 — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide
+
+**The Definitive Guide writes `Autonomous Entropic Gatekeeper` as [[aegis|AEGIS]]'s function, in quotation marks, and gives no expansion of the acronym.**
+
+The line reads: „AEGIS acts as an“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L113] `Autonomous Entropic Gatekeeper` and goes on: „Its function is to enforce a reality based purely on the Coherence Theory of Truth“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L113]. The phrase is the first three words of position 1's expansion, but here it names what AEGIS does, not what the letters stand for: `Integrity Systems` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] and `Autogenic` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] do not occur, and `Substrate` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] does not. It does not say which expansion it supersedes, although it calls itself „the single, authoritative Project Codex“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L17], recorded here, not applied.
+
+Position 1's word, not its expansion; the conflict stays open.

@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse"]
 gathered: "2026-09-16"
 ---
 
@@ -44,6 +44,10 @@ See [[multiplizitaet|Multiplizität]].
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — Kael's DID as induced by AEGIS, as the report cites its User Query
 
 The report's own matrix row gives Kael's state as „Kaels psychischer Zustand (von AEGIS induziert); Kernwelten als Repräsentation der Fragmente“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L46] (L46). In its section on M and Kael it writes, citing its User Query: „Kaels Dissoziative Identitätsstörung (DID) ist explizit keine natürlich entstandene Störung, sondern das“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L92] result of an attempt, as the line continues, „AEGIS' Versuch, die Komplexität von M in isolierbare Komponenten zu zerlegen und auf eine menschliche Psyche abzubilden“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L92] The Plotanalyse reads this as a perversion of DID therapy, which aims at integration. In the identity section it repeats: „Seine von AEGIS induzierte DID stellt die Frage nach der Natur des Selbst“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L130]
+
+## Reading — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28, the TSDP analysis — DID as the typical home of tertiary dissociation
+
+The report says the system with several ANPs and EPs „typischerweise mit komplexen Traumafolgestörungen wie der Dissoziativen Identitätsstörung (DID) assoziiert wird“ ^[strukturelle-dissoziation-system-kael-analyse.md:L15], and in Teil 2 that tertiary dissociation is „typisch für DID, komplexes OSDD-1“ ^[strukturelle-dissoziation-system-kael-analyse.md:L196]. It calls System Kael a fictional system and a manifestation of tertiary dissociation, not a diagnosis.
 
 ## Reading — `charaktere`, 2025-07-29, the character concept — DID as the research base of the profiles
 
