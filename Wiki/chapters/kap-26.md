@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -75,6 +75,15 @@ Position: Akt II („Anatomie der Spaltung“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „AEGIS erkennt, dass Kael auf den Kern zusteuert“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L274]; „Mnemosyne weigert sich, mitzumachen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L274]
 - Encoding A: „OS · SP3 (Being) · Falsehood · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L274]
 - Pacing: „Kap 26 = vollster Action-Spike vor dem Pivot“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L370]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — The Labyrinth of Algorithmic Horror
+
+Title: „The Labyrinth of Algorithmic Horror“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L753]
+Position: Akt II; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L761]
+
+- Story: the outline plans „Kael betritt den Systemkern, eine Umgebung jenseits menschlicher Vorstellungskraft, dominiert von eiskaltem algorithmischem Horror.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L759]
+- Concepts: „Algorithmus-Horror, K0-Kollaps“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L757]
+- Pivot-Marker: the outline plans Driver-Status: „Letztes dominantes Aufbäumen des SF-B Action-Drivers.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L783]; Limit-Marker: „SF-B Timelock steht unmittelbar vor dem Ablauf (Kernschmelze).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L784]; Outcome-Marker: „SF-B tendiert zu Failure; AEGIS' tödlichste Umgebung kann den Vormarsch nicht stoppen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L785]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
