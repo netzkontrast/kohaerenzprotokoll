@@ -153,3 +153,11 @@ In the record's terms this is a further use of 734, open: the question what the 
 Kap 2 casts „Unit 734 (Guardian/Regel-Exekutor)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L70] and plans „Unit 734 stoppt Kael für einen Kohärenz-Test“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L72] The document writes `734` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#2] in those two lines only. It does not write an address, a Wohneinheit or a Komponente.
 
 Stands as one more sense of the number, the unit as a guard in Kap 2, recorded and not decided.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39
+
+**The outline uses „Komponente 734“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135] for Kael's true genesis, hinted in Kap 9.**
+
+Kap 9, Storyform A (IC: Universe/Past): „Die wahre Genesis von Kael als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135] „Komponente 734“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135], „wird angedeutet“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135].
+
+Stands as one source that names Komponente 734 as Kael's origin and says nothing of a dwelling; recorded, not applied.
