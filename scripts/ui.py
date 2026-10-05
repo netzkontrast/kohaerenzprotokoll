@@ -1429,6 +1429,33 @@ def check_editor(data: dict, js: str | None = None) -> tuple[list[str], str]:
     return problems, "the session editor's id and NOW.md entry read back by sessions.py, with node"
 
 
+def check_session_ui(data: dict, js: str | None = None, template: str | None = None) -> tuple[list[str], str]:
+    """The real editor and request lifecycle against offline inputs, without browser or GitHub access."""
+    node = shutil.which("node")
+    if not node:
+        return [], "session UI behavior NOT checked: node is not installed"
+    stub = "class DCLogic { constructor() { this.props = {}; this.state = {}; } setState(p) { Object.assign(this.state, p); } }\n"
+    fixture = (ROOT / "scripts" / "ui_session_fixture.js").read_text(encoding="utf-8")
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "sessions.js"
+        path.write_text(stub + data_script(data, js) + "\n" + fixture, encoding="utf-8")
+        proc = subprocess.run([node, str(path)], capture_output=True, text=True, timeout=20)
+    if proc.returncode:
+        return [f"session UI: {(proc.stderr.strip().splitlines() or ['fixture failed'])[-1]}"], "session UI"
+    problems = ["session UI: " + p for p in json.loads(proc.stdout.strip().splitlines()[-1])]
+    class Controls(HTMLParser):
+        def handle_starttag(self, tag, attrs):
+            a = dict(attrs)
+            if a.get("value") in {"{{now.pe.edTitle}}", "{{now.pe.edNext}}", "{{now.pe.edFiles}}", "{{now.pe.ask}}"}:
+                if a.get("disabled") != "{{now.pe.edited}}":
+                    problems.append(f"session UI: {a['value']} accepts changes that manual text ignores")
+            if a.get("onclick") in {"{{now.pe.copy}}", "{{now.pe.save}}"} and a.get("disabled") != "{{now.pe.blocked}}":
+                problems.append("session UI: export control does not show its blocked state")
+    Controls().feed(template if template is not None else TEMPLATE.read_text(encoding="utf-8"))
+    return problems, \
+        "session UI: export guards, manual drafts, forks and board request lifecycle checked offline, with node"
+
+
 def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[str]]:
     """(problems, notes) for what `build` wrote."""
     project = out / "canvas" / "project"
@@ -1456,8 +1483,9 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
     route_problems, route_note = check_routes(data) if not script_problems else ([], "addresses not checked: the syntax failed")
     board_problems, board_note = check_board(data) if not script_problems else ([], "board not compared: the syntax failed")
     editor_problems, editor_note = check_editor(data) if not script_problems else ([], "editor not checked: the syntax failed")
-    return (problems + script_problems + route_problems + board_problems + editor_problems,
-            [note, route_note, board_note, editor_note])
+    session_problems, session_note = check_session_ui(data) if not script_problems else ([], "session UI not checked: the syntax failed")
+    return (problems + script_problems + route_problems + board_problems + editor_problems + session_problems,
+            [note, route_note, board_note, editor_note, session_note])
 
 
 # ---------------------------------------------------------------- selftest
@@ -1520,6 +1548,18 @@ def selftest() -> tuple[list[str], list[str]]:
         if not any("wiki.pages" in p for p in check_data(broken)):
             failures.append("a page missing from the app: not reported against wiki.pages")
         if shutil.which("node"):
+            lost_template = template.replace('disabled="{{now.pe.edited}}"', '', 1)
+            drift, _ = check_session_ui(data, template=lost_template)
+            if not any("accepts changes" in p for p in drift):
+                failures.append(f"manual prompt ignores enabled form fields: not reported — got {drift[:2]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("if (!problem) this.copy", "if (true) this.copy", 1)
+            drift, _ = check_session_ui(data, lost_js)
+            if not any("must not copy" in p for p in drift):
+                failures.append(f"an empty prompt exported: not reported — got {drift[:2]}")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace("< 300000", "< 60000", 1)
+            drift, _ = check_session_ui(data, lost_js)
+            if not any("minute tick" in p for p in drift):
+                failures.append(f"board polling consumes two requests per minute: not reported — got {drift[:2]}")
             broken_js = COMPONENT.read_text(encoding="utf-8").replace("renderVals() {", "renderVals() {{", 1)
             syntax, _ = check_script(data, broken_js)
             if not syntax:
