@@ -194,10 +194,10 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <span style="flex-shrink: 0; margin-top: 1px; padding: 2px 8px; border-radius: 10px; font-size: 11.5px; background: {{a.stBg}}; color: {{a.stFg}};">{{a.st}}</span>
 </button>
 </sc-for>
-<h3 style="margin: 16px 10px 8px; margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">What no source settles</h3>
-<ul style="margin: 0; padding: 0 12px 0 30px; display: flex; flex-direction: column; gap: 9px; font-size: 13.5px; line-height: 1.5;">
-<sc-for list="{{now.unsettled}}" as="u" hint-placeholder-count="4"><li>@RUNS(u.runs)@</li></sc-for>
-</ul>
+<h3 style="margin: 16px 10px 8px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Questions for the author — NOW.md</h3>
+<ol style="margin: 0; padding: 0 12px 0 30px; display: flex; flex-direction: column; gap: 9px; font-size: 13.5px; line-height: 1.5;">
+<sc-for list="{{now.asks}}" as="u" hint-placeholder-count="4"><li>@RUNS(u.runs)@</li></sc-for>
+</ol>
 </div>
 </section>
 <section aria-label="Reading log" style="display: flex; flex-direction: column; min-height: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden;">
@@ -220,12 +220,30 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 </section>
 <section aria-label="Next session" style="display: flex; flex-direction: column; min-height: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden;">
 <div style="display: flex; align-items: baseline; gap: 10px; padding: 14px 18px 12px; border-bottom: 1px solid #E6E0D2;">
-<h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.2; font-weight: 500;">Next session starts here</h2>
-<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">NOW.md</span>
+<h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.2; font-weight: 500;">The next sessions</h2>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">NOW.md § Half-done</span>
 </div>
-<ol style="flex-grow: 1; min-height: 0; overflow-y: auto; margin: 0; padding: 12px 18px 14px 38px; display: flex; flex-direction: column; gap: 10px; font-size: 13px; line-height: 1.5;">
-<sc-for list="{{now.handover}}" as="h" hint-placeholder-count="4"><li>@RUNS(h.runs)@</li></sc-for>
-</ol>
+<p style="margin: 0; padding: 8px 18px 0; font-size: 12px; line-height: 1.45; color: #645F53;">{{now.sessSub}} — in NOW.md's order. Open one for its prompt: self-contained, NOW.md's words, no corpus text.</p>
+<div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 8px 10px 12px; display: flex; flex-direction: column; gap: 6px;">
+<sc-for list="{{now.sessions}}" as="x" hint-placeholder-count="4">
+<div id="{{x.dom}}" style="border: 1px solid {{x.bd}}; border-radius: 8px; background: {{x.bg}};">
+<button type="button" onClick="{{x.toggle}}" aria-expanded="{{x.exp}}" class="kp-hov" style="display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; gap: 8px; align-items: start; width: 100%; padding: 9px 10px 4px; box-sizing: border-box; border: 0; border-radius: 8px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; color: #645F53; padding-top: 1px;">{{x.n}}</span>
+<span style="font-size: 13.5px; line-height: 1.35; font-weight: 500;">{{x.t}}</span>
+<span style="padding: 1px 7px; border-radius: 10px; font-size: 11px; white-space: nowrap; background: {{x.stBg}}; color: {{x.stFg}};">{{x.st}}</span>
+</button>
+<p style="margin: 0; padding: 0 10px 9px 40px; font-size: 12.5px; line-height: 1.45; color: #4A463E;"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; letter-spacing: 0.06em; text-transform: uppercase; color: #645F53;">next · </span>@RUNS(x.next)@</p>
+<sc-if value="{{x.open}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 8px; padding: 0 10px 10px 40px;">
+<sc-if value="{{x.hasFiles}}" hint-placeholder-val="{{ false }}"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; line-height: 1.5; color: #2B4C8C; overflow-wrap: anywhere;">{{x.files}}</span></sc-if>
+<button type="button" onClick="{{x.copy}}" class="kp-hov" style="align-self: flex-start; min-height: 32px; padding: 0 12px; border: 1px solid #2B4C8C; border-radius: 6px; background: #2B4C8C; color: #FBFAF6; cursor: pointer; font-family: inherit; font-size: 12.5px;">{{x.copyLabel}}</button>
+<pre style="margin: 0; max-height: 220px; overflow: auto; padding: 8px 10px; border-radius: 6px; background: #EFEBE1; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; line-height: 1.5; white-space: pre-wrap; user-select: all; color: #3A3730;">{{x.prompt}}</pre>
+</div>
+</sc-if>
+</div>
+</sc-for>
+<sc-if value="{{now.web}}" hint-placeholder-val="{{ false }}"><p style="margin: 6px 4px 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">for agents: <a href="./llms.txt" style="color: #2B4C8C;">llms.txt</a> · <a href="./agents/sessions.json" style="color: #2B4C8C;">sessions.json</a> · <a href="./agents/index.json" style="color: #2B4C8C;">index.json</a></p></sc-if>
+</div>
 <button type="button" onClick="{{goChecks}}" class="kp-hov" style="display: flex; align-items: center; gap: 10px; width: 100%; min-height: 46px; padding: 0 18px; box-sizing: border-box; border: 0; border-top: 1px solid #E6E0D2; background: transparent; cursor: pointer; font-family: inherit; font-size: 12.5px; color: #4A463E; text-align: left;"><span style="width: 7px; height: 7px; flex-shrink: 0; border-radius: 4px; background: {{now.stDot}};"></span><span style="flex-grow: 1;">Self-tests: {{now.selftests}}</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #2B4C8C;">Invariants →</span></button>
 </section>
 </div>

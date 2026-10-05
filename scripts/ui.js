@@ -89,7 +89,8 @@ class Component extends DCLogic {
     const screen = s.screen || this.props.screen || 'now';
     const e = encodeURIComponent;
     let tail = '';
-    if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s);
+    if (screen === 'now' && s.sess) tail = 'session/' + e(s.sess);
+    else if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s);
     else if (screen === 'conflicts' && s.conf != null) tail = D.conflicts[s.conf].id;
     else if (screen === 'questions' && s.ques != null) tail = s.ques === -1 ? 'agenda' : D.questions[s.ques].id;
     else if (screen === 'corpus' && s.crow != null && s.crow >= 0) tail = e(D.rows[s.crow].slug);
@@ -118,7 +119,8 @@ class Component extends DCLogic {
     const screen = parts[0];
     const at = (list, key, v) => list.findIndex((x) => x[key] === v);
     const st = { screen: screen, q: '' };
-    if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) st.page = i; }
+    if (screen === 'now' && parts[1] === 'session' && parts[2]) { if (at(D.sessions.sessions, 'id', parts[2]) >= 0) st.sess = parts[2]; }
+    else if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) st.page = i; }
     else if (screen === 'conflicts' && parts[1]) { const i = at(D.conflicts, 'id', parts[1]); if (i >= 0) st.conf = i; }
     else if (screen === 'questions' && parts[1]) {
       const i = parts[1] === 'agenda' ? -1 : at(D.questions, 'id', parts[1]);
@@ -158,6 +160,19 @@ class Component extends DCLogic {
   }
 
   fmt(n) { return typeof n === 'number' ? n.toLocaleString('en-US') : String(n); }
+
+  // A session's prompt to the clipboard. A canvas frame may refuse the clipboard; then the prompt
+  // stays open below its card, selectable, and the button says so instead of claiming a copy.
+  copy(id, text) {
+    const done = (ok) => this.setState({ copied: ok ? id : 'fail:' + id, sess: id });
+    try {
+      if (typeof navigator !== 'undefined' && navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => done(true), () => done(false));
+        return;
+      }
+    } catch (err) { /* fall through */ }
+    done(false);
+  }
 
   txt(rs) {
     return (rs || []).map((r) => (typeof r === 'string' ? r : r[0] === 'r' ? '' : r[1])).join('').replace(/\s+/g, ' ').trim();
@@ -398,7 +413,7 @@ class Component extends DCLogic {
     const onQKey = (e) => { if (e.key === 'Escape') this.setState({ q: '' }); };
 
     // ------------------------------------------------------------ now
-    const now = { tiles: [], agenda: [], unsettled: [], log: [], handover: [], l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
+    const now = { tiles: [], agenda: [], asks: [], log: [], sessions: [], sessSub: '', web: false, l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
     if (is.now) {
       const total = V('sources.total');
       const landed = V('sources.landed');
@@ -430,7 +445,7 @@ class Component extends DCLogic {
         });
       });
       now.agenda = ag.filter((a) => a.order === 0).concat(ag.filter((a) => a.order === 1));
-      now.unsettled = D.agenda.unsettled.map((u) => ({ runs: this.runs(u) }));
+      now.asks = D.agenda.process.map((u) => ({ runs: this.runs(u) }));
       const mt = Math.max.apply(null, D.docs.map((d) => d.terms).concat([1]));
       const mr = Math.max.apply(null, D.docs.map((d) => d.readings).concat([1]));
       const mc = Math.max.apply(null, D.docs.map((d) => d.conflicts).concat([1]));
@@ -442,7 +457,24 @@ class Component extends DCLogic {
       }));
       const canonN = D.docs.filter((d) => d.canon).length;
       now.logSub = (D.docs.length - canonN) + ' before the canon era · ' + canonN + ' from it';
-      now.handover = D.agenda.handover.map((h) => ({ runs: this.runs(h) }));
+      const plan = D.sessions;
+      now.sessions = plan.sessions.map((x) => {
+        const open = s.sess === x.id;
+        const ready = x.status === 'ready';
+        const copied = s.copied === x.id;
+        const failed = s.copied === 'fail:' + x.id;
+        return {
+          dom: uid + '-sess-' + x.id, n: String(x.n), t: x.title, st: x.status, stBg: ready ? '#E4E9F2' : '#F6E4DC', stFg: ready ? '#2B4C8C' : '#9A2D1A',
+          next: this.runs(x.nruns), open: open, files: x.files.join(' · '), hasFiles: open && x.files.length > 0,
+          prompt: x.prompt, bd: open ? '#C9C0AC' : '#E6E0D2', bg: open ? '#FFFFFF' : 'transparent', exp: open ? 'true' : 'false',
+          toggle: () => this.setState({ sess: open ? null : x.id, copied: null }),
+          copy: () => this.copy(x.id, x.prompt),
+          copyLabel: copied ? 'Copied ✓' : failed ? 'Copy blocked here — select the prompt below' : 'Copy prompt for an agent',
+        };
+      });
+      const readyN = plan.sessions.filter((x) => x.status === 'ready').length;
+      now.sessSub = readyN + ' ready · ' + (plan.sessions.length - readyN) + ' wait on the author · ' + plan.notes.length + ' notes bind all';
+      now.web = this.routable();
       now.selftests = held + ' held · ' + failed + ' failed · ' + (D.selftests.length - held - failed) + ' not run in this container';
       now.stDot = failed ? '#B0341E' : '#2B4C8C';
     }
@@ -727,18 +759,18 @@ class Component extends DCLogic {
         const agendaSecs = [];
         if (D.agenda.decided && D.agenda.decided.length) agendaSecs.push([['Decided so far'], -1, '', [['p', D.agenda.decided]]]);
         agendaSecs.push([['The novel — where the sources disagree'], -1, '', [['tb', [[''], ['question'], ['the positions (source, date)']], rowsT, 'lll', 'minmax(0, 0.45fr) minmax(0, 1.5fr) minmax(0, 3fr)']]]);
-        agendaSecs.push([['The novel — what no source settles'], -1, '', [['ul', D.agenda.unsettled]]]);
-        agendaSecs.push([['The process — the author’s call'], -1, '', [['ul', D.agenda.process]]]);
+        if (D.agenda.unsettled.length) agendaSecs.push([['The novel — what no source settles'], -1, '', [['ul', D.agenda.unsettled]]]);
+        agendaSecs.push([['Questions for the author'], -1, '', [['ol', D.agenda.process]]]);
         rd = {
           kicker: 'NOW.md · Questions for the author — noted, not waited on', title: 'Everything waiting on the author', tsz: 40,
           hasSub: true, sub: 'Every open question, with where it came from. The work continues without waiting for the answer; when one arrives it is recorded where the question lives.',
-          chips: [this.chip(rowsT.length + ' open conflicts', 'rubric'), this.chip(D.agenda.unsettled.length + ' unsettled'), this.chip(D.agenda.process.length + ' about the process')],
+          chips: [this.chip(rowsT.length + ' open conflicts', 'rubric'), this.chip(D.agenda.process.length + ' questions in NOW.md')],
           secs: this.secs(null, agendaSecs, uid + '-ag'), maxW: 760, key: 'agenda',
         };
         qr.isAgenda = true;
         qr.decided = this.runs(D.agenda.decided);
         qr.intro = this.runs(D.agenda.intro);
-        qr.counts = rowsT.length + ' conflicts, ' + D.agenda.unsettled.length + ' questions about the novel, ' + D.agenda.process.length + ' about the process';
+        qr.counts = rowsT.length + ' conflicts, ' + D.agenda.process.length + ' questions in NOW.md';
       } else {
         const x = D.questions[sel];
         rd = {
@@ -1113,6 +1145,13 @@ class Component extends DCLogic {
       this._lastRoute = h;
       this._fromUrl = false;
     }
+    // A session opened by its address or its card is brought into view inside the panel.
+    const sess = this.st().sess;
+    if (sess && sess !== this._sessShown && typeof document !== 'undefined') {
+      const el = document.getElementById('kp-' + (this.props.screen || 'main') + '-sess-' + sess);
+      if (el && el.scrollIntoView) el.scrollIntoView({ block: 'nearest' });
+    }
+    this._sessShown = sess;
     if (this._reader && this._rdKey !== this._rdShown) {
       this._reader.scrollTop = 0;
       // Narrow screens scroll the page, not the reader pane (the media query in ui.html): a new

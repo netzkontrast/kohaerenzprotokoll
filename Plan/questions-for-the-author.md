@@ -415,6 +415,13 @@ the author wants them (*Questions for the author*).
 
 ### The process — the author's call, with the detail under *Open decisions*
 
+- **Planning agent sessions from the website** (2026-10-05, `Plan/concept/agent-sessions_2026-10-05.md`). The app
+  derives the next sessions from NOW.md § Half-done and serves them as `agents/sessions.json`; nothing is scheduled.
+  Three questions: (1) one Claude Code Routine a day that takes the first ready, unclaimed session — or none, or the
+  ingest only (each firing draws on your usage, and it never runs two at once); (2) re-authorising the Vercel connector
+  for the team's scope — it is refused the deployments (403) and the toolbar comments, so no session can open a
+  preview; (3) where the „letzten 5 Empfehlungen" of your message are — none reached the session.
+
 - **`account.py order` passes a `reconcile.json` with no census beside it**; it should not.
   Found when the Jules session's claimed reconciliation of the philosophischer Bericht passed green
   (decision 014). The document is now read and reconciled as document 31, so nothing rides on it
