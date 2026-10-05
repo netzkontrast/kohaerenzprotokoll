@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -119,6 +119,14 @@ Position: Akt II; POV: „POV: Verteiltes Bewusstsein.“ ^[kohaerenz-protokoll-
 
 - Story: the outline plans „Lex trifft in einer Notsituation eine logisch makellose Entscheidung.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L619]
 - Concepts: „Zeitverzögerung, Cache-Kohärenz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L617]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Gegenangriff der EPs
+
+Title: „Gegenangriff der EPs“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L232] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]
+
+- Story: the dual-storyform outline plans „Nyx und Kiko kooperieren erstmals“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L234]
+- Storyforms: `Storyform B` (`MC: Universe/Future`): „Das System verliert die Kontrolle über die räumliche Integrität“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L236]; `Storyform A` (`RS: Psychology/Becoming`): „Die Alters beginnen, ein“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L237]
+- Scene and pacing: `Pacing`: „Actionreich“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L238]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
