@@ -350,3 +350,11 @@ Stands as a manifest in AEGIS's own voice that places the Guardians inside AEGIS
 F3's plot task reads: „AEGIS hat innere Differenzierung.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L494] (L494); the question asks whether Mnemosyne in conflict with one erasing pole can „die innere Spaltung von AEGIS dramatisch zu zeigen“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L498] (L498). Appendix B sets the two together in the third person: „AEGIS und Guardians in 3. Person.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L626] (L626). The Kanon does not say in so many words whether a Guardian is a component, a peer or a replaced design; F3 is tier `OFFEN`.
 
 Where it stands in the record's own terms: a source that ties the Guardians to AEGIS's inner split as a plot function, in an open question; the relation stays open.
+
+## 2026-10-05 — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development
+
+**The concept development plans the Guardians as personifying aspects of AEGIS's control philosophy, and Mnemosyne as AEGIS's agent.**
+
+The subplot list says „Die Guardians personifizieren spezifische Aspekte von AEGIS' Kontrollphilosophie“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L39] and names the aspects (Logik, Emotion, Angst, Potenzial). In Chapter 5 the plan writes „KW2 dient AEGIS als Werkzeug zur Emotionsanalyse und -kontrolle“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L83], and the same line continues „Mnemosyne als dessen Agentin“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L83]. Chapter 9 names „Guardian Cerberus“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110] as acting for AEGIS against Kael, and Chapter 2 plans „Guardian LogOS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61] confronting Lex.
+
+Where it stands in the record's own terms: the plan puts the Guardians on AEGIS's side, as personifications of its philosophy and, for Mnemosyne, as an agent; it names no peer and no replaced design, and it does not say whether they are components; recorded, not applied.
