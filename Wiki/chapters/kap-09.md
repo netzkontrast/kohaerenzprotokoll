@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,14 @@ Position: „(Fundamentales Konzept: Holismus vs. Reduktionismus)“ ^[kohaerenz
 
 - Names the mechanism AEGIS runs on: „die Zerlegung von M in Kael, die Fragmentierung von Kael in Caches“ ^[kohaerenz-protokoll.md:L1019]
 - The parts begin to talk: „Die verschiedenen Anteile kommunizierten, brachten ihre Perspektiven ein, arbeiteten zusammen unter der Führung des Selbst.“ ^[kohaerenz-protokoll.md:L1073] — the text's own name for this, `Wir-Geflecht`, gives the chapter its title.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Mauern der Grenzfeste
+
+Title: the commission titles the chapter „Die Mauern der Grenzfeste“ ^[kontext-outline.md:L164], placed in Act 1.
+
+- Theme: the commission's `Core Theme` is „Erkundung der Abwehrmechanismen“ ^[kontext-outline.md:L166]
+- Story: its `Plot Summary` plans „Konfrontation mit Fallen, Illusionen, Angriffen, Guardian Cerberus“ ^[kontext-outline.md:L167]
+- Foci: `Kael Sys Focus` „Alex/Nyx (Wut/Kampf) aktiv?“ ^[kontext-outline.md:L168]; `AEGIS Focus` „Cerberus als Verkörperung Angst/Kontrolle“ ^[kontext-outline.md:L169]
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Ego-Tod im Abgrund
 
@@ -144,6 +152,14 @@ Position: Akt I; POV: „POV: Argus.“ ^[kohaerenz-protokoll-kapitel-outline-er
 - Story: the outline plans „flieht das System in die labyrinthische Festung der Core World 3“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L261]
 - Story: the outline plans „Kael ist vor AEGIS sicher, aber auch vor sich selbst“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L261]
 - Concepts: „Core World 3 (KW3), Argus (Alter)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L259]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Das Echo von Silas
+
+Title: „Das Echo von Silas“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L130] — „Akt I: Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L59]
+
+- Story: the dual-storyform outline plans „Kael trifft auf Silas, den Archivar“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L132]
+- Storyforms: `Storyform B` (`IC: Mind/Memory`): „Junas Einfluss wird durch Silas’ Erzählungen konkretisiert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L134]; `Storyform A` (`IC: Universe/Past`): „Die wahre Genesis von Kael als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135]
+- Scene and pacing: `Szenen-Keim`: „Ein alter Mann, dessen Körper aus zerfallenden Papierseiten besteht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L136]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

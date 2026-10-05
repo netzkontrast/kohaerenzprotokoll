@@ -1,0 +1,14 @@
+# leserzentrierte-roman-outline-generierung-kohaeren
+  lines                524  (frontmatter ends at 9)
+  body words           13907
+  headings             2   bold-only lines 34
+  table rows           0   code fences 0
+  question marks       118
+  backslash escapes    130
+  typographic marks    183   ascii quotes 46
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    50
+  repeated labels      Core Theme x40, Genre/Trope x40, Kael Internal x40, Philosophy x40, Reader Psychology Note x40, Setting x40, Subplots x40, AEGIS Focus x37
+  longest line         5823 chars
+

@@ -1,0 +1,94 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+The document is a German briefing for an outline task (Projekt Kontext, Basis-Glossar) followed by a chapter-by-chapter outline in English field labels over German content. Terms are written as the document writes them; KW1 to KW4 are written with digits, and the glossary writes them as `KW1 (Logos-Prime)`. Chapter titles are not listed. The philosophers and the tropes under Philo Hint and Trope Note are lens material, listed below the lens heading for the philosophers and thinkers only.
+
+- Kohärenz Protokoll
+- System Kael
+- Kael
+- AEGIS
+- Komponente 734
+- KW
+- Konstrukt-Welt
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Guardians
+- Guardian
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Anteile
+- Kael System
+- ANP
+- Apparently Normal Part
+- EP
+- Emotional Part
+- Host (Kael)
+- Host
+- Lex
+- Alex
+- Rhys
+- Argus
+- Nyx
+- Selene
+- Kiko
+- Lia
+- Moros
+- Juna/V
+- Juna
+- Fundament
+- Überwelt
+- Paradox (AEGIS)
+- Fehlausgerichtete Kohärenz
+- Fehlausgerichteten Kohärenz
+- Kernparadoxon
+- TSDP
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- Echo
+- Genesis
+- Nichts Rauschen
+- Inneres Konferenzzimmer
+- Task Force
+- Riss
+- Glitches
+- Phobien
+- Switches
+- Ko-Bewusstsein
+- funktionale Multiplizität
+- funktionaler Multiplizität
+- Externe Ebene
+- Meta-Beobachter
+- Drei-Akt-Struktur
+- Innere Reise
+- Meta-Analyse
+- Äußere Konfrontation
+
+## lens
+
+- Heroine's Journey
+- Hero's Journey
+- Zweite-Ordnung-Kybernetik
+- Panoptismus
+- Hume
+- Kant
+- Hobbes
+- Sartre
+- Buber
+- Kuhn
+- Locke
+- Parfit
+- von Foerster
+- Luhmann
+- Levinas
+- Russell
+- Gödel
+- Popper
+- Aristoteles
+- Qualia

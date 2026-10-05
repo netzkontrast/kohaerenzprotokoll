@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      16
+  ascii quotes           4
+
+# inflection families -- one term, several surfaces
+  daten    Datenfluss, Datenkorruption, Datenmanipulation, Datenpakete, Datenstrukturen, Datenströme, Datenvisualisierung
+  kontr    Kontrast, Kontrastierend, Kontrollanspruch, Kontrollbedürfnis, Kontrolle, Kontrollzentrum
+  infor    Informationsdichte, Informationsfehler, Informationsfluss, Informationsomnipräsenz, Informationsverarbeitung
+  emoti    Emotion, Emotionale, Emotionen, Emotionslosigkeit
+  antei    Anteil, Anteile, Anteilen
+  grenz    Grenzen, Grenzfeste, Grenzkontrolle
+  inten    Intensiv, Intensive, Intention
+  proto    Protokoll, Protokollen, Protokollfehler
+  siche    Sicherheit, Sicherheitsmechanismen, Sicherheitsrisiko
+  überw    Überwachungsfehler, Überwelt, Überwindung
+  alarm    Alarmbereitschaft, Alarme
+  ambiv    Ambivalent, Ambivalenz
+  bedro    Bedrohlich, Bedrohung
+  bekle    Beklemmend, Beklemmung
+  ebene    Ebene, Ebenen
+  erinn    Erinnerung, Erinnerungen
+  extre    Extrem, Extreme
+  fehle    Fehler, Fehlern
+  funkt    Funktionale, Funktionen
+  gener    Generatives, Generell
+  hinde    Hindernis, Hindernissen
+  integ    Integration, Integrationspotenzial
+  klick    Klicken, Klicks
+  konze    Konzept, Konzeptueller
+  licht    Licht, Lichtstrukturen
+
+# substring pairs -- never one term, often merged by accident
+  Eine < Keine
+  Form < Informationsfluss
+  Form < Informationsdichte
+  Form < Informationsfehler
+  Form < Informationsomnipräsenz
+  Form < Informationsverarbeitung
+  Kael < Kaels
+  Raum < Trauma
+  Sinn < Sinnsuche
+  Sinn < Sinnfindung
+  Welt < Welten
+  Welt < Überwelt
+  Welt < Weltenkonzept
+  Ebene < Ebenen
+  Ebene < Realitätsebenen
+  Licht < Lichtstrukturen
+  Logik < Unlogik
+  Nicht < Nichtlokalität
+  Suche < Sinnsuche
+  Anteil < Anteile

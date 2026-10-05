@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      44
+  backslash escapes      80
+  typographic marks      34
+  ascii quotes           32
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systeme, Systemfehler, Systemfehlers, Systemgrenzen, Systeminstabilität, Systemische, Systemischer, Systemisches, Systemlegitimität, Systems, Systemtheorie, Systemweite, Systemwissen
+  kontr    Kontrolle, Kontrollmechanismen, Kontrollmethode, Kontrollobjekt, Kontrollverlust, Kontrollversuch, Kontrollversuche, Kontrollwunsch, Kontrollzentrum
+  emoti    Emotion, Emotional, Emotionale, Emotionalität, Emotionen, Emotions, Emotionsanalyse
+  erinn    Erinnerung, Erinnerungen, Erinnerungsfragmente, Erinnerungsfragmenten, Erinnerungsmanipulation, Erinnerungsrekonstruktion, Erinnerungssuche
+  bewus    Bewusste, Bewusstheit, Bewusstsein, Bewusstseins, Bewusstseinszentrum, Bewusstwerdung
+  inter    Interaktion, Interface, Internal, Interne, Interner, Intervention
+  reali    Reality, Realität, Realitäts, Realitätsebene, Realitätsfragen, Realitätsnatur
+  erken    Erkennen, Erkenntnis, Erkenntnisse, Erkenntnissen, Erkenntnistheorie
+  leben    Leben, Lebens, Lebensform, Lebenskunst, Lebensweg
+  moral    Moral, Moralbewusstsein, Moralische, Moralisches, Moralphilosophie
+  poten    Potentialis, Potentialität, Potenzial, Potenziell, Potenzielle
+  strat    Strategie, Strategien, Strategiewechsel, Strategische, Strategisches
+  verte    Verteidiger, Verteidigung, Verteidigungs, Verteidigungsebene, Verteidigungslinien
+  wider    Widerspruch, Widerspruchs, Widersprüche, Widersprüchliche, Widerstand
+  analy    Analyse, Analysis, Analytiker, Analytischer
+  exter    Externe, Externen, Externer, Externes
+  ident    Identifikation, Identifiziert, Identität, Identitätskrise
+  konta    Kontakt, Kontaktquelle, Kontakts, Kontaktversuch
+  myste    Mysterien, Mysterium, Mysteriums, Mystery
+  parad    Paradox, Paradoxien, Paradoxon, Paradoxons
+  philo    Philo, Philosophie, Philosophische, Philosophischer
+  psych    Psych, Psychological, Psychologie, Psychologischem
+  simul    Simulation, Simulationen, Simulationstheorie, Simulationsumgebung
+  überw    Überwachung, Überwelt, Überwindung, Überwältigende
+  abweh    Abwehr, Abwehrkräfte, Abwehrmechanismen
+
+# substring pairs -- never one term, often merged by accident
+  Alte < Verhalten
+  Alte < Gestalters
+  Code < Codes
+  Core < Score
+  Echo < Echos
+  Ende < Ordnenden
+  Ende < Wendepunkt
+  Ende < Transzendenz
+  Ende < Entscheidende
+  Ende < Tieferliegende
+  Ende < Überwältigende
+  Fall < Fallen
+  Fall < Falling
+  Hero < Heroine
+  Hint < Hintergrund
+  Hint < Hinterfragen
+  Info < Infos
+  Info < Information
+  Info < Schlüsselinfo
+  Kael < Kaels

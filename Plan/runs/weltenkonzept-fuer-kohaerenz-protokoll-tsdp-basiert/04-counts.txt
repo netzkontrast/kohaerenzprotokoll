@@ -1,0 +1,71 @@
+# counts for 54 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                2 word     2 in   [11, 13]
+  TSDP                              0 word     2 in   [11, 13]
+                                    1      as TSDP-basiert
+                                    1      as TSDP-basierte
+  System Kael                       1 word     1 in   [13]
+  Welten                            2 word     5 in   [11, 13, 17, 99]  <-- substring
+                                    1      as Weltenkonzept
+  Kern-Welten                       2 word     2 in   [17]
+  KW1                               2 word     3 in   [17, 19, 55]
+  KW2                               4 word     4 in   [33, 41, 77, 99]
+  KW3                               2 word     2 in   [63, 99]
+  KW4                               2 word     2 in   [77, 85]
+  Überwelt                          2 word     2 in   [17, 107]
+  Externe Ebene                     1 word     1 in   [131]
+  AEGIS                            13 word    16 in   [17, 21, 32, 54, 65, 98]
+                                    1      as AEGIS-Protokollen
+                                    1      as AEGIS-Logik
+                                    1      as AEGIS-Sinn
+  Juna/V                            4 word     4 in   [17, 121, 131, 150]
+  Juna                              5 word     5 in   [17, 121, 131, 133, 150]
+  universal reboot                  1 word     1 in   [17]
+  Risse                             8 word     8 in   [17, 33, 55, 77, 99, 121]
+  Konstrukt-Stadt                   1 word     1 in   [19]
+  LogOS                             2 word     2 in   [19, 32]
+  Resonanz-Landschaft               1 word     1 in   [41]
+  Mnemosyne                         2 word     2 in   [41, 54]
+  Grenzfeste                        1 word     1 in   [63]
+  Cerberus                          2 word     2 in   [63, 76]
+  Möglichkeits-Garten               1 word     1 in   [85]
+  Kairos/Sophia                     1 word     1 in   [85]
+  Kairos                            2 word     2 in   [85, 98]
+  Sophia                            2 word     2 in   [85, 98]
+  Bunker                            1 word     1 in   [65]
+  Zero-Trust                        2 word     3 in   [65, 76, 120]
+                                    1      as Zero-Trust-Prinzipien
+  Entropie-Management               2 word     2 in   [109, 120]
+  Entropie                          2 word     4 in   [109, 120, 144]
+                                    2      as Entropie-Management
+  Ankerpunkte                       1 word     1 in   [145]
+  Fundament                         1 word     1 in   [121]
+                                    1      as fundamentale
+                                    1      as fundamental
+  Roman-Lokalitäten                 2 word     2 in   [13, 145]
+  Anteile                           5 word    12 in   [34, 56, 78, 82, 100, 104]  <-- substring
+                                    7      as Anteilen
+  ANP                               0 word     5 in   [21, 38, 60, 61]  <-- substring
+  EPs                               4 word     4 in   [39, 60, 83, 126]
+  ANP-Host                          1 word     1 in   [38]
+  ANP-Rationalist                   1 word     1 in   [38]
+  ANP-Pfleger                       1 word     1 in   [60]
+  Protektor                         2 word     2 in   [61, 82]
+  Lex                               6 word     6 in   [38, 61, 82, 105, 127, 152]
+  Kael                              9 word    15 in   [13, 17, 21, 38, 43, 61]
+                                    6      as Kaels
+  Kiko                              5 word     5 in   [39, 60, 83, 105, 151]
+  Lia                               5 word     5 in   [39, 60, 83, 104, 151]
+  Nyx                               5 word     5 in   [39, 60, 82, 105, 152]
+  Rhys                              5 word     5 in   [39, 60, 83, 104, 151]
+  Moros                             4 word     4 in   [39, 60, 83, 105]
+  Selene                            5 word     5 in   [39, 61, 82, 104, 151]
+  Argus                             3 word     3 in   [39, 104, 129]
+  Isabelle                          2 word     2 in   [60, 82]
+  Alex                              4 word     4 in   [61, 82, 105, 152]
+  Trauma-Landschaft                 1 word     1 in   [43]
+  Löcher                            1 word     1 in   [55]
+  Zero-Trust-Prinzipien             1 word     1 in   [65]

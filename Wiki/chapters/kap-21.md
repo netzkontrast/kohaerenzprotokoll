@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -39,6 +39,15 @@ Position: „Ontologie (Simulation) / Potentialmeer (Nähe)“ ^[kohaerenz-proto
 - Where: still Ly-Sigma-1, at the Resonanz-Brücke built in Kapitel 20.
 - Story: Kael tunes the bridge to probe what lies beyond it, detecting a „nicht-algorithmische Quelle“ ^[kohaerenz-protokoll.md:L2214] behind Epsilon-Null's noise; AEGIS classifies the resulting information as a threat, „WARNUNG: UNIDENTIFIZIERTE HOCHKOMPLEXE INFORMATIONSMUSTER DETEKTIERT IN KWS-CO1-MCL-BETA7.“ ^[kohaerenz-protokoll.md:L2238] and tries to seal the sector; Kael pushes through it and concludes „Er erkannte, dass AEGIS' Kontrolle nicht absolut war.“ ^[kohaerenz-protokoll.md:L2264], „Er hatte das Potentialmeer berührt.“ ^[kohaerenz-protokoll.md:L2266]
 - Voice: third person on Kael; AEGIS in system capitals, the Möglichkeits-Weber warns him in dialogue.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Preis der Wahrheit: Interne Konflikte bei der Integration neuen Wissens
+
+Title: the commission titles the chapter „Der Preis der Wahrheit: Interne Konflikte bei der Integration neuen Wissens“ ^[kontext-outline.md:L302], placed in Act 2. Position: `Setting` „Interner mentaler Raum“ ^[kontext-outline.md:L308]
+
+- Theme: the commission's `Core Theme` is „Angst vor Veränderung vs. Hoffnung“ ^[kontext-outline.md:L304]
+- Story: its `Plot Summary` plans „Stößt auf Widerstand bei Anteilen (Angst? Kontrollwunsch? Misstrauen?)“ ^[kontext-outline.md:L305]
+- Foci: `Kael Sys Focus` „Selene/Rhys als Integrationsförderer“ ^[kontext-outline.md:L306]; `AEGIS Focus` „Beobachtet interne Dissonanz, versucht Nutzung“ ^[kontext-outline.md:L307]
+- Notes: „The Reluctant Hero (Anteile)“ ^[kontext-outline.md:L311]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -119,6 +128,14 @@ Position: Akt II; POV: „POV: Verteiltes Bewusstsein.“ ^[kohaerenz-protokoll-
 
 - Story: the outline plans „Lex trifft in einer Notsituation eine logisch makellose Entscheidung.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L619]
 - Concepts: „Zeitverzögerung, Cache-Kohärenz“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L617]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Gegenangriff der EPs
+
+Title: „Gegenangriff der EPs“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L232] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]
+
+- Story: the dual-storyform outline plans „Nyx und Kiko kooperieren erstmals“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L234]
+- Storyforms: `Storyform B` (`MC: Universe/Future`): „Das System verliert die Kontrolle über die räumliche Integrität“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L236]; `Storyform A` (`RS: Psychology/Becoming`): „Die Alters beginnen, ein“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L237]
+- Scene and pacing: `Pacing`: „Actionreich“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L238]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

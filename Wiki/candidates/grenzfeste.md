@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 17
-readings: 17
+sources: 19
+readings: 19
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -47,6 +47,14 @@ by effect, never by identity. See [[partnerin|Partnerin]].
 
 `Cerberus` — see [[cerberus|Cerberus]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
+
+## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — section 3: KW3 with Guardian Cerberus
+
+Section 3 is headed „Grenzfeste (Guardian: Cerberus)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L63]. Its core: „Repräsentiert Kaels Abwehrmechanismen, Paranoia, Angst, Kontrollbedürfnis, Grenzen und Isolation.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L65] The atmosphere is „Beklemmend, paranoid, angespannt, bedrohlich, isolierend.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L72]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — a chapter title, not a glossary entry
+
+The commission's glossary names the third world `Cerberus-Labyrinth`; `Grenzfeste` stands in the title of Chapter 9, „Die Mauern der Grenzfeste“ ^[kontext-outline.md:L164], whose core theme is „Erkundung der Abwehrmechanismen“ ^[kontext-outline.md:L166]. The briefing does not equate the two names.
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — KW3, the paranoid world of defence and isolation, and the Ego-Tod of Kap 7–9
 

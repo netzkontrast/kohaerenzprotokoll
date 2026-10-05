@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 15
-readings: 14
+sources: 16
+readings: 15
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
 gathered: "2026-09-25"
 ---
 
@@ -52,6 +52,9 @@ F1 (OFFEN) lists it among „Bisherige Kandidaten“ ^[kohaerenz-protokoll-struk
 ## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — Juna as the Chaitin constant of the novel
 
 In §4.2 the report states: „Juna ist die Chaitin-Konstante des Romans“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L89] and ties it to the directive that her Gödel property „darf nicht verbalisiert, sie muss strukturell spürbar werden.“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L89]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — Kap 15 as the discovery of irreducible randomness
+Kap 15 is titled `Die Chaitin-Konstante`; it plans „Entdeckung der irreduziblen Zufälligkeit im Quellcode“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L185], with the formula symbol lost in the export. Its Storyform A line reads „Juna manifestiert sich als diese Zufälligkeit“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L188].
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

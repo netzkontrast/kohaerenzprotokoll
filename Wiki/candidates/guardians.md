@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 53
-readings: 53
+sources: 58
+readings: 58
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "outline-2", "leserzentrierte-roman-outline-generierung-kohaeren"]
 gathered: "2026-09-16"
 ---
 
@@ -31,6 +31,20 @@ substring and nothing else.
 
 This is recorded on the page because it is the kind of thing that gets merged by
 accident exactly once, and then stays merged.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — the glossary's five Guardians over four worlds
+
+The commission's glossary has the entry „AEGIS-Entitäten, die die KWs verwalten/kontrollieren“ ^[kontext-outline.md:L48], and names five in brackets: `LogOS`, `Mnemosyne`, `Cerberus`, `Kairos`, `Sophia`. The world entries pair them: the first world is „Sterile, logikbasierte Welt“ ^[kontext-outline.md:L30], the third „Verteidigungs-/angstbasierte Welt“ ^[kontext-outline.md:L32], and the fourth has two, „Kreativitäts-/potenzialbasierte Welt. Guardians: Kairos & Sophia“ ^[kontext-outline.md:L33] — read as the briefing writes it: four worlds, five names.
+
+The outline then uses them as `Subplot Focus` fields, for example Chapter 9's `AEGIS Focus` plans „Cerberus als Verkörperung Angst/Kontrolle“ ^[kontext-outline.md:L169], and Chapter 27 plans for the assault „Einsatz Guardians“ ^[kontext-outline.md:L375]. Chapter 17 plans for the fourth world „Kairos/Sophia als ambivalente Wächter“ ^[kontext-outline.md:L261].
+
+## Reading — `outline-2`, 2025-05-03, the new-format outline — the guardian met in each world, and the dual Kairos and Sophia
+
+The new-format outline names a guardian per world in its chapter paragraphs. Chapter 2 plans a confrontation with „Guardian LogOS oder eine Regel-Instanz“ ^[outline-2.md:L53] in the first world; Chapter 5, in the second, has „Mnemosyne (Guardian von KW“ ^[outline-2.md:L95] beginning to influence Kael (the `KW` number is lost to the export); Chapter 9 plans the third world with „Angst (Guardian Cerberus)“ ^[outline-2.md:L151]. Chapter 17 plans the fourth world with dual guardians: „Interaktion mit dualen Guardians Kairos (Potenzial/Chaos) & Sophia (Weisheit/Struktur).“ ^[outline-2.md:L265] Its AEGIS Focus line calls them „Kairos/Sophia als ambivalente Wächter.“ ^[outline-2.md:L269]
+
+## Reading — `leserzentrierte-roman-outline-generierung-kohaeren`, 2025-05-03, the reader-centred outline — the guardian met in each world, and the dual Kairos and Sophia
+
+The reader-centred outline names a guardian per world in its chapter paragraphs, as the `outline-2` reading on this page records. The first world brings „einem Wächter (Guardian LogOS)“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L43] or a rule instance. In the second, „Mnemosyne, die Wächterin der Erinnerungen“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L93] may use Kael's emotional flood against her. The third, on Kael's return in Chapter 23, has Kael confront „den Wächter Cerberus und die damit verbundenen“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L304] fear and defence mechanisms. The fourth world has „mit den dualen Wächtern dieser Welt“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L230], Kairos and Sophia.
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — five Guardians named, four misreadings listed, and the misreadings as the cause of the Risse
 
@@ -61,6 +75,12 @@ The master blueprint uses the singular `Guardian` as a label in the cast fields:
 The matrix labels some bearers in its Charaktere lines: „Kael, Nyx, Mnemosyne (Guardian).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L120] in Kap 9, „Alex, Kael, Cerberus (Guardian).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L196] in Kap 15, „Kael, Kairos & Sophia (Guardians).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L232] in Kap 18. Kap 31 is titled „Die Auflösung der Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L389] and plans „Kael kämpft nicht gegen die Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L395] with the function „Auflösung der Sub-Antagonisten durch Integration.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L396]
 
 Recorded as a plan, not applied.
+
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — section 6.2: four sub-algorithmic Wächter, each with a world
+
+The research report (section 6.2, `Die Wächter-Instanzen (Guardians)`) says „AEGIS delegiert seine exekutive Kontrolle an vier sub-algorithmische Wächter“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L128] each one „jeweils eine philosophische oder epistemologische Grenze innerhalb der Überwelt repräsentieren“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L128]. It lists them with a world each: `LogOS` for KW1, `Mnemosyne` for KW2 („Wächterin der Identität und Erinnerung (KW2).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L131]), `Cerberus` for KW3 („Wächter des defensiven Bedrohungsmanagements (KW3).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L132]) and „Wächterin der Potenzialität (KW4).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L133] for `Kairos / Sophia`.
+
+In the table of levels they reside in the Überwelt: „Hier residieren die Wächter-Instanzen (Guardians) von AEGIS und lenken die Simulation.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L78] In Akt II, in the Nexus: „Hier tritt er in tiefgreifende philosophische Diskurse mit den Guardians.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211]
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — HC-10 autonomy and SC-04's roster
 
@@ -104,6 +124,9 @@ The outline reports its Guardians count as a decision about drift. Anhang C: „
 
 Anhang H, the audit after Akt II, reports the finding that the Guardians act only mechanically: „Befund: Sie agieren ausschließlich als autopoietische Automaten“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1424] The line that states what would revise the structure is the outline's own pre-commitment, not a source's text.
 
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — two guardian encounters in Act I and II
+Kap 12 plans „Begegnung mit dem Guardian LogOS“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L156], who offers Kael deletion of all anomalies. Kap 24 plans „Begegnung mit einem Guardian, der den Lösch-Sweep verweigert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L258]; the line adds „Er erkennt die Sinnlosigkeit der totalen Kohärenz“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L258].
+
 ## Where the sources differ
 
 - `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27: four named Guardians as subsystems of a writing assistant, each with a software status — a spec's use of the names, not a count of the novel's Guardians.
@@ -114,6 +137,8 @@ Anhang H, the audit after Akt II, reports the finding that the Guardians act onl
 - The outline plans two Wächter, LogOS and Mnemosyne, and reports five Wächter as legacy drift it did not use (Anhang C).
 - The reconstruction sets the guardians' autonomy as HC-10 and their roster as Soft Canon SC-04, dated 2026-03-26.
 - The methodology report writes the KW1 guardian as „the Guardian of KW1 (Logik)“ ^[ai-assisted-narrative-coherence.md:L801]; the scene outline names it `LogOS` (see the page `logos`).
+- the research report counts four Wächter, each paired with one of KW1–KW4, residing in the Überwelt (L128–L133, L78)
+- The reader-centred outline plans a guardian per world, the fourth world's pair given as „den dualen Wächtern dieser Welt“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L230].
 
 ## Open
 

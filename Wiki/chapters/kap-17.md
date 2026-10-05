@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,14 @@ Position: „Funktionale Multiplizität / Cache Kohärenz (Konflikt)“ ^[kohaer
 - Where: AEGIS transfers Kael to „MCL-SIGMA-3, KOORDINATIONS-HUB ZETA.“ ^[kohaerenz-protokoll.md:L1774]
 - Story: a new assignment, „PROJEKT: KOOPERATIVE DATENSTROM-INTEGRATION (KDSI-GAMMA-7)“ ^[kohaerenz-protokoll.md:L1772], leading a team of three units toward a shared protocol, „AUFGABE: LEITUNG EINES KOOPERATIVEN TEAMS (EINHEITEN 734-ALPHA, 888-BETA, 101-GAMMA)“ ^[kohaerenz-protokoll.md:L1778], timed at „ZEITRAHMEN: 36.0 STANDARDSTUNDEN.“ ^[kohaerenz-protokoll.md:L1782] — its closing report Kapitel 23 names again.
 - Voice: third person on Kael; the system directive in capitals, the three units in dialogue, his own Anteile in italics.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Garten der Möglichkeiten: Erkundung von
+
+Title: the commission titles the chapter „Der Garten der Möglichkeiten: Erkundung von“ ^[kontext-outline.md:L256], placed in Act 2.
+
+- Theme: the commission's `Core Theme` is „Kreativität vs. Chaos; Potenzial für Veränderung“ ^[kontext-outline.md:L258]
+- Story: its `Plot Summary` plans „Weniger rigide Kontrolle, aber chaotischer“ ^[kontext-outline.md:L259]
+- Foci: `Kael Sys Focus` „Aktivierung kreativer Anteile?“ ^[kontext-outline.md:L260]; `AEGIS Focus` „Kairos/Sophia als ambivalente Wächter“ ^[kontext-outline.md:L261]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -120,6 +128,14 @@ Position: Akt II; POV: „POV: AEGIS (Systemprotokolle).“ ^[kohaerenz-protokol
 
 - Story: the outline plans „interpretiert die Integration der Alters als Vorboten des absoluten entropischen Kollapses“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L501]
 - Concepts: „Algorithmische Melancholie (Prä-Stadium), Kohärenztheorie der Wahrheit“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L499]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Der Mnemosyne-Verrat
+
+Title: „Der Mnemosyne-Verrat“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L199] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]
+
+- Story: the dual-storyform outline plans „Mnemosyne verzerrt Kaels Erinnerungen an Juna“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L201]
+- Storyforms: `Storyform B` (`IC: Mind/Conscious`): „Juna muss gegen diese falsche Repräsentation ankämpfen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L203]; `Storyform A` (`IC: Universe/Past`): „Sie bleibt die unveränderliche Witness-Funktion im Hintergrund“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L204]
+- Scene and pacing: `Szenen-Keim`: „Ein Spiegelkabinett“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L205]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

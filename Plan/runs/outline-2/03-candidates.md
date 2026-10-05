@@ -1,0 +1,105 @@
+---
+slug: outline-2
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+---
+
+# Candidates — outline-2
+
+The document is a chapter-by-chapter outline (Prolog, Kapitel 1 to 39, three acts) in German with English genre tropes. Each chapter carries seven labelled fields. The labels repeat per chapter and are template, not terms; they are listed once each because they head every passage. The KW numbers are written with plain digits (KW1 to KW4), never subscripted. Names followed by a question mark in the text (Nyx, Kiko, Lia, Moros, Selene, Argus) are the outline's own open guesses. Several names are written only in the field text and defined nowhere (Komponente 734, Fundament, Juna/V).
+
+- AEGIS
+- Komponente 734
+- Nichts Rauschen
+- Echo
+- Juna/V
+- Kohärenz Protokoll
+- System Kael
+- Kael
+- Host
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Überwelt
+- Meta-Ebene
+- Fundament
+- Externe Ebene
+- Externen Ebene
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Moros
+- Selene
+- Argus
+- Meta-Beobachter
+- LogOS
+- Guardian LogOS
+- Mnemosyne
+- Cerberus
+- Guardian Cerberus
+- Kairos
+- Sophia
+- Guardians
+- ANPs
+- EPs
+- Fehlausgerichtete Kohärenz
+- Kernparadoxon
+- AEGIS Paradoxon
+- Kael Integration
+- funktionale Multiplizität
+- funktionaler Multiplizität
+- Multiplizität
+- Ko-Bewusstsein
+- Phobien
+- Switches
+- TSDP
+- Inneres Konferenzzimmer
+- Glitches
+- Riss
+- Task Force
+- Gaslighting
+- Panoptismus
+- Kerntrauma
+- Genesis
+- Vorläufer-Ich
+- Ursprungs-Ich
+- Zweite-Ordnung-Kybernetik
+- Heroine's Journey
+- Hero's Journey
+- Plot Point
+- Core Theme
+- Kael Internal
+- AEGIS Focus
+- Setting
+- Subplots
+- Philosophy
+- Genre/Trope
+- Juna/V Focus
+- Fundament Focus
+
+## lens
+
+- Hume
+- Kant
+- Hobbes
+- Sartre
+- Buber
+- Kuhn
+- Locke
+- Parfit
+- Bostrom
+- Levinas
+- Russell
+- Gödel
+- Nietzsche
+- Popper
+- Luhmann
+- von Foerster
+- Aristoteles

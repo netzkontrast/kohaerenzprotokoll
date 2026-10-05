@@ -1,0 +1,33 @@
+{
+ "source": "leserzentrierte-roman-outline-generierung-kohaeren",
+ "runs": [
+  {
+   "run": "termcensus-sonnet-2026-10-05",
+   "contract": "TermCensus",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 84,
+   "failed_calls": 1,
+   "chunks": 83,
+   "failed_chunks": 0,
+   "cost_usd": 1.5789,
+   "template_sha256": "ef5ba9bee1dac1e52a931f75993848f344ccf895003da1ef6c74c869debfa223",
+   "source_sha256": "4a6c3b9c40adf9873dd948a84adbab36f72cf07e0e98ba406433563ce58986d0",
+   "rows": 397,
+   "candidates": 0,
+   "refused": {},
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "not staged",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  }
+ ]
+}

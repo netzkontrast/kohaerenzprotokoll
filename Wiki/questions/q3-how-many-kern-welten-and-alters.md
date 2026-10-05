@@ -443,3 +443,41 @@ Worlds: „The four Kernwelten (Core Worlds) are simulated realities created by 
 Alters: the blueprint says „the existence of eleven identified alters“ ^[ai-assisted-narrative-coherence.md:L431], and in the next section „The following table profiles the most significant alters within“ ^[ai-assisted-narrative-coherence.md:L435] System Kael, with rows for Kael, Lex, Nyx, Kiko, Rhys and Selene. The Kael biography: „The table below profiles the five most significant alters who define Kael's internal landscape and his path toward integration.“ ^[ai-assisted-narrative-coherence.md:L1101] — Kael, Lex, Nyx, Kiko and Selene. The architecture analysis's table, under „Kael's psyche is modeled on the Theory of Tertiary Structural Dissociation (TSDP)“ ^[ai-assisted-narrative-coherence.md:L1749], lists Kael, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Lex, Alex, Rhys and Argus.
 
 It stands with the record's open count: the same compilation says eleven and tabulates fewer in two parts; the record is not changed.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39
+
+**The outline lays out a table of alters in rows, each with an action system, a functional role and a DKT correlate; it speaks of alters, not of Kern-Welten.**
+
+The section on the Kael system says the Struktur-Kanon „spezifiziert ein Profil von 10 funktionalen Anteilen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L41], and the table's columns are „Alter Name“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45], „TSDP-Aktionssystem“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45], „Funktionale Rolle“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45] and „DKT-Korrelat“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L45]. The rows (L46–L55) run from Lex to Argus; no row names a Kern-Welt.
+
+Stands as one more table of alters with a one-per-row layout of functional roles; recorded, not applied, and the open question stays open.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report
+
+**The research report counts four Kernwelten, with the Überwelt and the [[externe-ebene|Externe Ebene]] as further levels, and eleven alters.**
+
+It says „streng in vier Kernwelten (KW1 bis KW4) sowie externe Meta-Schichten unterteilt“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L67]; its table lists the Überwelt and the Externe Ebene after them. For the alters: „Das System besteht aus elf hochspezialisierten Anteilen (Alters), die in ständigen, phobischen Vermeidungszyklen voneinander isoliert operieren.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L85]
+
+Stands: four Kernwelten plus two levels, and eleven alters, recorded as this report's counts (L67, L85).
+
+## 2026-10-05 — `kontext-outline`, 2025-05-03, the outline commission
+
+**The commission briefs four worlds and a list of Anteile in which Nyx is marked open.**
+
+The glossary lists four worlds, the fourth as „Kreativitäts-/potenzialbasierte Welt. Guardians: Kairos & Sophia.“ ^[kontext-outline.md:L33] The Anteile are „Verschiedene Ich-Zustände innerhalb von System Kael“ ^[kontext-outline.md:L34], with the Host and Lex, Alex, Rhys, Argus, Nyx and Selene as ANPs and Kiko, Lia and Moros under the EPs. Nyx is the one marked open: „Aggressiver/kämpferischer Anteil (?)“ ^[kontext-outline.md:L43]. Selene is hedged: „Potenziell integrierter/koordinierender Anteil am Ende“ ^[kontext-outline.md:L44]. The briefing does not say one world corresponds to one Anteil.
+
+Where it stands: four worlds are listed and the correspondence is not addressed; the Anteile list carries its own question mark at Nyx.
+
+## 2026-10-05 — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept
+
+**Four Kern-Welten.**
+The overview: „vier Kern-Welten (KW1-4), die Aspekte von Kaels Psyche repräsentieren“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17]; besides them, „eine digitale Überwelt, die Domäne von AEGIS“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17] and „eine externe Ebene, verbunden mit Juna/V“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17].
+Four Kern-Welten, with two further levels beside them; the number of alters is not given here, and the question stays open.
+
+## 2026-10-05 — `leserzentrierte-roman-outline-generierung-kohaeren`, 2025-05-03, the reader-centred outline
+
+**The outline plans a fourth world and groups the Anteile of Chapter 7 as ANPs and EPs.**
+
+Chapter 17 brings Kael „in eine neue, bisher unbekannte Konstrukt-Welt“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L230], and Chapter 7 names the groups: „Apparently Normal Parts (ANPs: Kael/Host, Lex, Alex, Rhys)“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L106] against „Emotional Parts (EPs: Kiko, Lia, Moros)“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L106]. The outline does not say that one world corresponds to one Anteil.
+
+Where it stands: four worlds are planned and the ANP and EP groups are listed for that chapter; the correspondence is not addressed.

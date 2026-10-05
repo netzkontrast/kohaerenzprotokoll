@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,15 @@ Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“, Ende ^[monstergrup
 
 - Plot: „AEGIS initiiert seine gewählte Endspiel-Strategie“ ^[monstergruppe-primzahlen-plot-blueprint.md:L284] — a reset, a weapon, or a direct confrontation and erasure.
 - Establishes: „Der Konflikt eskaliert zur direkten Konfrontation; Kael muss reagieren.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L284]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Ruhe vor dem Sturm: Finale Integration und Planung
+
+Title: the commission titles the chapter „Die Ruhe vor dem Sturm: Finale Integration und Planung“ ^[kontext-outline.md:L357], placed in Act 2. Position: `Setting` „Sicherer interner Raum / KW“ ^[kontext-outline.md:L363]
+
+- Theme: the commission's `Core Theme` is „Konsolidierung der Kräfte; Entschlossenheit zur Konfrontation“ ^[kontext-outline.md:L359]
+- Story: its `Plot Summary` plans „Anteile kooperieren unter Selene?“ ^[kontext-outline.md:L360]
+- Foci: `Kael Sys Focus` „Selene als Koordinatorin?“ ^[kontext-outline.md:L361]; `AEGIS Focus` „Bereitet finale Verteidigung/Angriff vor; evtl. Täuschung“ ^[kontext-outline.md:L362]
+- Notes: „Höhepunkt funktionale Multiplizität“ ^[kontext-outline.md:L364]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -113,6 +122,14 @@ Position: Akt II; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-er
 - Story: the outline plans „Kael betritt den Systemkern, eine Umgebung jenseits menschlicher Vorstellungskraft, dominiert von eiskaltem algorithmischem Horror.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L759]
 - Concepts: „Algorithmus-Horror, K0-Kollaps“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L757]
 - Pivot-Marker: the outline plans Driver-Status: „Letztes dominantes Aufbäumen des SF-B Action-Drivers.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L783]; Limit-Marker: „SF-B Timelock steht unmittelbar vor dem Ablauf (Kernschmelze).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L784]; Outcome-Marker: „SF-B tendiert zu Failure; AEGIS' tödlichste Umgebung kann den Vormarsch nicht stoppen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L785]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Der Abgrund — Die dunkle Nacht
+
+Title: „Der Abgrund — Die dunkle Nacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L272] — „Akt II: Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L171]; „Pivot-Kapitel“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L274]
+
+- Story: the dual-storyform outline plans „AEGIS startet das SIS-Protokoll (Secure Isolation State)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L274]
+- Storyforms: `Storyform B` (`MC: Universe/Future`): „Die Vernichtung scheint unvermeidlich“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L276]; `Storyform A` (`RS: Psychology/Becoming`): „Juna ist die einzige verbleibende Verbindung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L277]
+- Scene and pacing: `Szenen-Keim`: „Ein schwarzer Raum ohne Wände“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L278]; `Pacing`: „Langsam, depressiv“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L279]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

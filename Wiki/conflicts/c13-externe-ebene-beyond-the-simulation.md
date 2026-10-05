@@ -144,3 +144,17 @@ It stands as a base-reality reading under the name `Externe Ebene (Köln)`, with
 The concept document, section 4.1: „Juna/V is a transcendent entity from the“ ^[ai-assisted-narrative-coherence.md:L601] Externe Ebene, „a realm outside AEGIS's simulated reality and its capacity for understanding“ ^[ai-assisted-narrative-coherence.md:L601]. The architecture analysis, section 3.2, separates it from the Überwelt: the Externe Ebene is „in contrast, is a mysterious reality that exists beyond AEGIS's direct control and is intrinsically linked to the entity known as Juna/V“ ^[ai-assisted-narrative-coherence.md:L1732].
 
 The concept document's words are „a realm outside AEGIS's simulated reality and its capacity for understanding“ ^[ai-assisted-narrative-coherence.md:L601]; this is a new position for the record's table, on the side of a level beyond what AEGIS simulates, and the record is not changed.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report
+
+**The research report places the Externe Ebene as the physical reality of Köln, Februar 2026, reached by a break-through; it uses `Externe Ebene`, not `Basisrealität`.**
+
+Table row: „in der Kael als traumatisierter Patient mit KPTBS, ADHS und DIS existiert, betreut von seiner Partnerin Juna.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L79] In Akt III: „Kael bricht in die Externe Ebene durch und“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L217] wakes there. The report does not say the level is outside or inside the simulation; it reports that „Die allmächtige KI AEGIS war niemals eine externe Maschine“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L217].
+
+Stands: a seventh row beyond/not-outside is not decided; the report's wording `durchbricht` is recorded, undecided.
+
+## 2026-10-05 — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept
+
+**A reality outside AEGIS's control, nature unknown.**
+Section 6: „Realität außerhalb von AEGIS' Kontrolle; verbunden mit Juna; Natur unbekannt, aber im Kontrast zur Simulation“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L133]. Its laws: „Unbekannt; basieren nicht auf AEGIS-Logik; potenziell auf Empathie, Bewusstsein, Resonanz, Nichtlokalität.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L144]
+It places the Externe Ebene beyond the simulation, hedged with `potenziell`; the conflict stays open.

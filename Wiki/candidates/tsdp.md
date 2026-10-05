@@ -1,10 +1,10 @@
 ---
 term: TSDP
 status: candidate
-sources: 47
-readings: 46
+sources: 53
+readings: 52
 conflict: none yet
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "outline-2", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "leserzentrierte-roman-outline-generierung-kohaeren"]
 gathered: "2026-09-25"
 ---
 
@@ -18,6 +18,22 @@ the tertiary case, several of each.** The [[did|DID]] page has where the sources
 TSDP against DID, and the [[alters|Alters]] page has the roster and the count. This
 page has the model: what it is, what holds it, and how the sources map it onto the
 novel's other structures.
+
+## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — the title and introduction: a TSDP-based structure of System Kael
+
+The title carries `TSDP-basiert`; the introduction says the document „integriert die Erkenntnisse über die TSDP-basierte Struktur von System Kael“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L13], and describes „die verschiedenen Realitätsebenen“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L13] of the novel. The text does not itself explain TSDP.
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — the glossary entry and the project context
+
+The glossary entry reads: „Theorie der Strukturellen Dissoziation der Persönlichkeit“ ^[kontext-outline.md:L52], with a parenthesis that it serves as a psychological model for Kael's inner life, in particular the ANP/EP structure and phobias. The project context grounds the protagonist in it: „basierend auf TSDP-Prinzipien“ ^[kontext-outline.md:L18]. Chapter 7 is themed „Interne Barrieren und die Angst voreinander (TSDP-Dynamiken)“ ^[kontext-outline.md:L144].
+
+## Reading — `outline-2`, 2025-05-03, the new-format outline — `TSDP` inside one Core Theme, not expanded
+
+`TSDP` stands in this outline only inside a Core Theme: „Interne Barrieren und die Angst voreinander (TSDP-Dynamiken)“ ^[outline-2.md:L125]. The abbreviation is not expanded in this document.
+
+## Reading — `leserzentrierte-roman-outline-generierung-kohaeren`, 2025-05-03, the reader-centred outline — TSDP named as the mechanic of the ANPs' defence
+
+Chapter 7 plans the ANPs' panic against the EPs: they „reagieren mit panischer Abwehr auf die Emotional Parts (EPs: Kiko, Lia, Moros)“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L106] – „eine Kernmechanik von TSDP“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L106]. The `outline-2` reading on this page has `TSDP` only inside a Core Theme and not expanded; here the abbreviation is expanded in the same line as „Theorie der Strukturellen Dissoziation der Persönlichkeit“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L106], and named as the source of the mechanic.
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the abbreviation read two ways: Theorie der Strukturellen Dissoziation, and Tertiäre Strukturelle Dissoziation
 
@@ -80,6 +96,10 @@ For the opening it draws a consequence: Kael, „der als Anscheinend Normaler Pe
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — TSDP as the model of Kael's consciousness and its externalisation
 
 The report opens its reading of the archive with the theory of structural dissociation: „tiefgreifende psychologische Realität der Theorie der strukturellen Dissoziation (TSDP)“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L17]. Its psychological axis says „Die Bewusstseinsarchitektur des Protagonisten ist streng nach den Mechanismen der TSDP modelliert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L37]. In Teil II „Hier wird die TSDP vollständig externalisiert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L28]. Leitfrage 2 moves from internal conflict to system glitches: „Der Übergang von Kaels internem psychologischen Konflikt (TSDP) zu externen System-Glitches“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L72].
+
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — TSDP as the clinical frame of System Kael
+
+The research report names Kael as one who suffers „das an einer Tertiären Strukturellen Dissoziation der Persönlichkeit (TSDP) leidet“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L17] (section 1). Section 5 is headed `Architektur der Tertiären Strukturellen Dissoziation (TSDP)`, and it says Kael's identity fragmented „gemäß den klinischen Kriterien der Tertiären Strukturellen Dissoziation der Persönlichkeit“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L83]
 
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the theory as the source code of character dynamics, Moros as AEGIS' result and not the splintering's cause, and a topology table
 
@@ -160,6 +180,9 @@ Part 1.6: „Kael erlebt diese Genesis auf biographischer Ebene als TSDP (Dissoz
 ## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — a concept of Kap 2, and a mapping the run's reflection wants specified
 
 The dual-storyform outline lists `TSDP` among the concepts of Kap 2: „Controlled Fragmentation Protocol (CFP), LogOS, TSDP.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L57] The outline's appendices speak of it as a source of the run: Anhang D, Q4, wants „Noch spezifischere Dramatica-Mappings (Issues/Problems) für TSDP-Zustände ausarbeiten“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1380] and Anhang E logs the query „Query: TSDP somatic memory processing“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1401] The outline's text in these lines does not define `TSDP`.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — Kael as a TSDP system
+The outline conceives Kael as a system „mit Tertiärer Strukturaler Dissoziation der Persönlichkeit (TSDP)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L41], and calls the dissociation not a pathology but the architecture that hides traumatic data packets from AEGIS's deletion routines. Its alter table has the column `TSDP-Aktionssystem` (L45). Act II is introduced as one in which „die TSDP-Systemik und die Entropie-Gesetze erforscht werden“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L173].
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

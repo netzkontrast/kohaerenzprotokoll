@@ -1,0 +1,148 @@
+# counts for 115 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             67 word    79 in   [21, 25, 30, 39, 41, 65]
+                                   12      as Kaels
+  Juna                             26 word    32 in   [17, 31, 37, 48, 81, 83]
+                                    2      as Junas
+                                    1      as Juna-Resonanz
+                                    1      as Juna-Anomalie
+                                    1      as Juna-Phänomenologie
+  AEGIS                            42 word    45 in   [17, 21, 25, 37, 41, 61]
+                                    1      as AEGIS-Sicherheitsroutine
+                                    1      as AEGIS-Knotenpunkte
+                                    1      as AEGIS-Signale
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [17]
+  Konstrukt-Stadt                   5 word     5 in   [17, 61, 168, 225, 370]
+  Sektor 0                          1 word     1 in   [65]
+  Quarantäne-Zone                   2 word     2 in   [115, 140]
+  Mnemosyne-Archipel                3 word     3 in   [122, 325, 357]
+  Speicher-Nexus                    1 word     1 in   [124]
+  Mnemosyne                         1 word     6 in   [122, 199, 201, 303, 325, 357]  <-- substring
+                                    3      as Mnemosyne-Archipel
+                                    1      as Mnemosyne-Verrat
+                                    1      as Mnemosyne-Zentrum
+  Silas                             5 word     5 in   [130, 132, 134, 148]
+  LogOS                             3 word     3 in   [154, 156, 250]
+  Guardian                          2 word     2 in   [156, 258]
+  Oblivion                          2 word     3 in   [41, 317, 319]
+                                    1      as Oblivions
+  Nexus                             1 word     2 in   [124, 175]
+  Vortex                            5 word     8 in   [285, 333, 335, 341, 349, 389]
+                                    2      as Vortex-Architektur
+                                    1      as Vortex-Pivot
+  Mnemosyne-Zentrum                 1 word     1 in   [303]
+  Hardware-Speicherzentrum          1 word     1 in   [327]
+  Risse                             5 word     5 in   [17, 109, 227, 234, 295]
+  Komponente 734                    1 word     1 in   [135]
+  Lex                               5 word     5 in   [46, 107, 110, 193, 195]
+  Alex                              1 word     1 in   [47]
+  Rhys                              1 word     1 in   [48]
+  Nyx                               4 word     4 in   [49, 146, 148, 234]
+  Kiko                              3 word     3 in   [50, 94, 234]
+  Lia                               1 word     1 in   [51]
+  Isabelle                          1 word     1 in   [52]
+  Moros                             2 word     2 in   [53, 143]
+  Selene                            1 word     1 in   [54]
+  Argus                             1 word     1 in   [55]
+  Alters                            7 word     8 in   [41, 148, 158, 237, 274, 298]
+  EPs                               1 word     1 in   [232]
+  Wir                               6 word     8 in   [17, 57, 77, 237, 293, 327]
+  Funktionale Multiplizität         1 word     1 in   [57]
+  TSDP                              1 word     3 in   [41, 45, 173]  <-- substring
+                                    1      as TSDP-Aktionssystem
+                                    1      as TSDP-Systemik
+  Tertiärer Strukturaler Dissoziation der Persönlichkeit    1 word     1 in   [41]
+  Trojaner                          2 word     2 in   [41, 319]
+  RIVE                              1 word     1 in   [179]
+  SIS-Protokoll                     1 word     1 in   [274]
+  Secure Isolation State            1 word     1 in   [274]
+  ZTEM-Protokoll                    1 word     1 in   [335]
+  Trennungsprotokoll                1 word     1 in   [266]
+  Erasure-Sweep                     1 word     1 in   [327]
+  Lösch-Sweeps                      1 word     1 in   [151]
+  Ouroboros-Marker                  1 word     1 in   [393]
+  Vortex-Architektur                2 word     2 in   [335, 391]
+  Algorithmische Melancholie        2 word     2 in   [37, 256]
+  Dual-Kernel-Theorie (DKT)         1 word     1 in   [17]
+  Kohärenz-Kernel                   2 word     2 in   [17]
+  Kollaps-Kernel                    2 word     2 in   [17]
+  Struktur-Kanon-Reset              1 word     1 in   [13]
+  Struktur-Kanon                    1 word     2 in   [13, 41]
+                                    1      as Struktur-Kanon-Reset
+  Universal Reboot                  1 word     1 in   [63]
+  Kausale Horizonte                 1 word     1 in   [72]
+  Szenen-Keim                      25 word    25 in   [69, 78, 87, 95, 111, 119]
+  Pivot-Kapitel                    14 word    14 in   [115, 164, 177, 225, 274, 287]
+  Anker-Modus                       1 word     1 in   [87]
+  Ozon                              3 word     6 in   [65, 95, 381, 383, 393]
+                                    1      as Ozon-Rauschen
+                                    1      as Ozons
+                                    1      as Ozon-Geruch
+  Ozon-Geruch                       1 word     1 in   [393]
+  Witness-Funktion                  3 word     3 in   [37, 204, 242]
+  Double-IC-Position                1 word     1 in   [37]
+  Moonshine Link                    1 word     1 in   [33]
+  Moonshine-Link                    1 word     1 in   [306]
+  System Interference               1 word     1 in   [33]
+  Truth-Rotation                    1 word     1 in   [349]
+  We-Voice                          1 word     1 in   [399]
+  Temporal Scrambling               1 word     1 in   [397]
+  Reader-Substrat                   1 word     1 in   [395]
+  Zielkohärenz                      3 word     3 in   [365, 395, 399]
+  Negentropie                       1 word     1 in   [367]
+  Alltagsfassade (ANP)              1 word     1 in   [47]
+  Buffer-Schicht                    1 word     1 in   [47]
+  Hitze                            10 word    10 in   [21, 91, 211, 217, 314, 335]
+  thermische Risse                  0 word     0 in   []
+  Storyform A                      43 word    43 in   [13, 25, 29, 68, 77, 86]
+  Storyform B                      39 word    39 in   [13, 25, 29, 67, 76, 85]
+  Heuristics of Integration         4 word     4 in   [13, 25, 29, 32]
+  Phoenix Collapse                  4 word     4 in   [13, 25, 29, 32]
+  Dual-Storyform                    1 word     3 in   [11, 23, 409]  <-- substring
+                                    1      as Dual-Storyform-Encoding
+                                    1      as Dual-Storyform-Symmetrie
+  Main Character (MC)               1 word     1 in   [30]
+  Influence Character (IC)          1 word     1 in   [31]
+  Objective Story (OS)              1 word     1 in   [32]
+  Relationship Story (RS)           1 word     1 in   [33]
+  Throughline                       0 word     1 in   [37]
+                                    1      as Throughlines
+  Action-Driver                     2 word     2 in   [25, 351]
+  Decision-Driver                   2 word     2 in   [25, 351]
+  Optionlock                        1 word     1 in   [34]
+  Timelock                          1 word     1 in   [34]
+  Pacing                           23 word    23 in   [61, 70, 103, 120, 152, 169]
+  Midpoint                          1 word     1 in   [223]
+  Point of No Return                1 word     1 in   [115]
+  Landauer-Prinzip                  3 word     3 in   [19, 406]
+  Landauer-Limits                   1 word     1 in   [91]
+  Bekenstein-Schranke               2 word     2 in   [21, 140]
+  Kleinsche Vierergruppe            1 word     1 in   [37]
+  Gödel-Satz                        2 word     2 in   [37, 343]
+  Gödels Unvollständigkeitssatz     1 word     1 in   [107]
+  Halteproblem                      3 word     4 in   [53, 79, 191, 193]
+                                    1      as Halteproblem-Symptom
+  universelle Turingmaschine        1 word     1 in   [79]
+  Chaitin-Konstante                 1 word     1 in   [183]
+  Hawking-Strahlung                 1 word     1 in   [185]
+  Dialetheismus                     1 word     1 in   [225]
+  Parakonsistente Gambit            1 word     1 in   [223]
+  Wittgensteins Grenze              1 word     1 in   [105]
+  Sein zum Tode                     1 word     1 in   [287]
+  Harte Problem des Bewusstseins    1 word     1 in   [209]
+  Iser-Mechanik                     1 word     1 in   [397]
+  thermodynamisches Substrat        1 word     1 in   [397]
+  Qualia                            1 word     1 in   [207]
+  Parataxe                          1 word     1 in   [399]
+  Mutual Information                1 word     1 in   [266]
+  Turingmaschine                    2 word     2 in   [79, 177]
+  Gaslighting                       1 word     1 in   [250]
+  Bewusstsein                       3 word     5 in   [68, 85, 185, 209, 321]
+                                    2      as Bewusstseins
+  Entropie                          6 word     9 in   [13, 17, 53, 57, 173, 283]
+                                    1      as Entropie-Fixierung
+                                    1      as Entropie-Gesetze
+                                    1      as Entropie-Löschung

@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 29
-readings: 29
+sources: 32
+readings: 32
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"]
 gathered: "2026-09-17"
 ---
 
@@ -41,6 +41,14 @@ Complementary to Sophia — „er liefert die Funken, sie sorgt für die Integra
 `Der Möglichkeits-Garten` — see that page. The pairing is the document's own organising
 principle: each section is a `Guardian/Welt-Paar`.
 
+## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Kairos in KW4, tied to time
+
+Kairos is named with Sophia in the heading of section 4 and in its laws: „Potenziale sind zeitabhängig (Kairos)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L98].
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — KW4's guardian pair and Chapter 17
+
+The glossary gives the fourth world two guardians: „Kreativitäts-/potenzialbasierte Welt. Guardians: Kairos & Sophia.“ ^[kontext-outline.md:L33] Chapter 17 plans the first meeting: „Interaktion mit dualen Guardians Kairos & Sophia“ ^[kontext-outline.md:L259], and the `AEGIS Focus` calls them „Kairos/Sophia als ambivalente Wächter“ ^[kontext-outline.md:L261].
+
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — keeper of KW4 with Sophia; sees only interesting chaos
 
 The report gives the plot document's KW4 as „gehütet von Kairos und Sophia“ ^[scifi-roman-mit-ki-schreiben.md:L91] In its list of misreadings, `Kairos` (Potenzial) sees only „interessantes Chaos“ ^[scifi-roman-mit-ki-schreiben.md:L199] — „eine Chance für neue Muster, ohne die dahinterliegende Notwendigkeit für Integration zu erkennen“ ^[scifi-roman-mit-ki-schreiben.md:L199]
@@ -72,6 +80,10 @@ Kap 18 is titled „Kairos Potentialis“ ^[kohaerenz-protokoll-39-kapitel-matri
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Kairos as the oracle of the tropes and part of KW4
 
 The report's table has KW4 as „Kairos/Sophia“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L55]'s world, the „Garten der Potentialität“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L55]. In Leitfrage 9 (Kap. 20–26) it proposes that „werden klassische Sci-Fi-Tropes etabliert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L100], among them an oracle's cryptic prophecy tied to Kairos, until Kael notices that „Der Bruchpunkt wird erreicht, wenn Kael erkennt, dass die Prophezeiung Syntax-Fehler enthält“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L100].
+
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — `Kairos / Sophia` as Wächterin of KW4
+
+The research report (6.2) names the fourth Wächter with a slash: „Kairos / Sophia“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L133] — „Wächterin der Potenzialität (KW4).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L133] Its table names KW4 `Kairos-Potentialis` (`Garden of Possibility`): „Der Ort der Kreativität, Synthese und finalen Heilung.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L77]
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — KW4 and SC-04's guardian
 

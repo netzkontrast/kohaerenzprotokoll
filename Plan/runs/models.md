@@ -86,7 +86,7 @@ Every contract run by model and by the category of its source — written by `sc
 | `StructureBeats` | plot-outline | haiku | 1 (0) | 0 | 11 | 0.0090 | 12 | 12 (100%) |
 | `StructureBeats` | plot-outline | sonnet | 1 (0) | 0 | 7 | 0.0221 | 0 | — |
 | `StructureBeats` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0527 | 0 | — |
-| `TermCensus` | plot-outline | sonnet | 1 (0) | 0 | 0 | — | 0 | — |
+| `TermCensus` | plot-outline | sonnet | 2 (0) | 0 | 0 | — | 0 | — |
 | `TermCensus` | theorie-logik | sonnet | 1 (0) | 0 | 0 | — | 0 | — |
 | `TermContrasts` | charaktere | haiku | 1 (0) | 0 | 14 | 0.0053 | 0 | — |
 | `TermContrasts` | kernkonzept | haiku | 6 (0) | 0 | 1245 | 0.0038 | 9 | 5 (56%) |

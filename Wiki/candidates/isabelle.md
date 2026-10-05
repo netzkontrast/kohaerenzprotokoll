@@ -1,16 +1,20 @@
 ---
 term: Isabelle
 status: candidate
-sources: 36
-readings: 36
+sources: 39
+readings: 39
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"]
 gathered: "2026-09-24"
 ---
 
 # Isabelle
 
 One of the thirteen [[alters|Alters]] — EP, „Sexualisiert / Fight-via-Control" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L647].
+
+## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Isabelle in KW2 and KW3
+
+The world concept names Isabelle twice. In KW2 (Resonanz-Landschaft), the primary domain of the EPs: „Isabelle (Trauma-spezifisch)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L60]. In KW3 (Grenzfeste) the hedged proposal reads: „potenziell Nyx (Verteidigung) und Isabelle (Grenzkontrolle)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L82].
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — named in the roster of EPs only
 
@@ -34,6 +38,10 @@ In scene 2.7 (Chapter 25) Selene's council acknowledges each part's positive int
 
 In Kap 10 the three-part analysis names „aggressive Beschützer wie Nyx, Isabell oder Kontroll-Anteile“ ^[romanstruktur-und-philosophische-einleitung.md:L97] The spelling `Isabell` is the document's.
 
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Isabelle as sexualised EP
+
+The research report (5.2) describes `Isabelle` as „Entstanden zur Bewältigung von sexualisiertem Trauma durch Dominanz und Kontrolle.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L104] It adds: „Ihre Existenz wird vom restlichen System zutiefst gefürchtet.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L104] In Akt II the report has AEGIS trigger her: „triggert das System Isabelle“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211]
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — Isabella among the ANPs, as data specialist
 
 The pitch writes `Isabella`, not `Isabelle`, and puts her in the ANP row: „Isabella (Daten-Spezialistin)“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L84], and says that „Isabella traumatischen Ereignissen den emotionalen Kontext entzieht“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L87] and turns them into sterile files.
@@ -52,6 +60,9 @@ Appendix B lists Isabelle among the EPs: „Sexualisiert. Somatik: offen.“ ^[k
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — a hypersensitive trace in Kap 16, named in Kap 17
 
 The outline of 2026-05-01 places Isabelle first in Kap 16's machine POV, where LogOS meets her „als hypersensitive sensorische Trace“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L228], and in the timeline in Kap 17 (covert trace and first named appearance both). In Kap 17 she is the voice nobody called: „ich kann uns alle schützen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L232]. In Kap 33 „Isabelle kontrolliert nicht mehr“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L310] — she opens herself.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — one row of the alter table
+In its alter table (L44–L55, columns `Alter Name`, `TSDP-Aktionssystem`, `Funktionale Rolle`, `DKT-Korrelat`; the export lost the symbol in some cells) Isabelle has the action system „Kreativität“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L52], the role „Ästhetische Brücke“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L52] and the DKT correlate „Möglichkeiten-Vektor“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L52].
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

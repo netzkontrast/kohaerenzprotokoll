@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -39,6 +39,14 @@ Position: „(Fundamentales Konzept: Cache Kohärenz (Konflikt) / Parakonsistent
 - Somatic marker: „Kalter Schweiß brach auf seiner Stirn aus, obwohl die Umgebungstemperatur konstant war.“ ^[kohaerenz-protokoll.md:L761]
 - Collapse: „Die Aufgabe war gescheitert.“ ^[kohaerenz-protokoll.md:L783]
 - Juna at the break: „In diesem Moment des absoluten Zusammenbruchs, als alle mentalen Firewalls versagten, als die Mauer zur isolierten Resonanz zerbarst, spürte er es wieder.“ ^[kohaerenz-protokoll.md:L777]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Fragmente der Vergangenheit
+
+Title: the commission titles the chapter „Fragmente der Vergangenheit“ ^[kontext-outline.md:L131], placed in Act 1.
+
+- Theme: the commission's `Core Theme` is „Erste Begegnung mit traumatischen Echos“ ^[kontext-outline.md:L133]
+- Story: its `Plot Summary` plans „ANPs werden von Emotionen überflutet“ ^[kontext-outline.md:L134]
+- Foci: `Kael Sys Focus` „EP-Intrusionen; Überflutung ANPs“ ^[kontext-outline.md:L135]; `AEGIS Focus` „Mnemosyne aktiv (Emotions-/Erinnerungsmanipulation)“ ^[kontext-outline.md:L136]
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Begegnung mit Echo
 
@@ -135,6 +143,14 @@ Position: Akt I; POV: „POV: Nyx.“ ^[kohaerenz-protokoll-kapitel-outline-erst
 - Story: the outline plans „wird Kaels Bewusstsein zwangsweise in Core World 2 transferiert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L171]
 - Story: the outline plans „bricht an die Oberfläche und flieht durch den zerfallenden Code“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L171]
 - Concepts: „ZTEM-Protokoll, Nyx (Alter), Core World 2 (Resonanzlandschaft)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L169]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Wittgensteins Grenze
+
+Title: „Wittgensteins Grenze“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L105] — „Akt I: Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L59]
+
+- Story: the dual-storyform outline plans „Lex (analytischer Alter) übernimmt die Kontrolle“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L107]
+- Storyforms: `Storyform B` (`MC: Universe/Progress`): „Die Risse in der Simulation weiten sich aus“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L109]; `Storyform A` (`MC: Mind/Conscious`): „Lex erkennt, dass die Logik der Stadt ein Gefängnis ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L110]
+- Scene and pacing: `Szenen-Keim`: „Eine Bibliothek ohne Bücher“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L111]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

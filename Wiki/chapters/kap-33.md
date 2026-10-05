@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,15 @@ Title: „Kapitel 33-35: Konsequenzen und Entfaltung“ ^[monstergruppe-primzahl
 Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
 
 - Plot: „Diese Kapitel entfalten die Konsequenzen der in 31 und 32 getroffenen Entscheidungen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376], showing how Kael's choice plays out „auf die Kernwelt, J, und AEGIS“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376] „falls überlebend/adaptierend“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376].
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Den Code knacken: Aktive Destabilisierung/Transformation von AEGIS
+
+Title: the commission titles the chapter „Den Code knacken: Aktive Destabilisierung/Transformation von AEGIS“ ^[kontext-outline.md:L434], placed in Act 3. Position: `Setting` „Überwelt; AEGIS-Kern“ ^[kontext-outline.md:L440]
+
+- Theme: the commission's `Core Theme` is „Nutzung des Paradoxons als Waffe; Systemischer Eingriff“ ^[kontext-outline.md:L436]
+- Story: its `Plot Summary` plans „Emergenz fördern“ ^[kontext-outline.md:L437]
+- Foci: `Kael Sys Focus` „Strategisches Vorgehen Lex/Argus/Selene“ ^[kontext-outline.md:L438]; `AEGIS Focus` „Paradoxon führt zu Selbstzerstörung/Transformation“ ^[kontext-outline.md:L439]
+- Notes: „Systemische Intervention als Kernaktion“ ^[kontext-outline.md:L443]
 
 ## Reading — `outline`, 2025-07-30, the outline — Der Vorstoß ins Unkartierte: Zum Fundament / Der Kern der Fehlausrichtung
 
@@ -131,6 +140,14 @@ Position: Akt III; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-e
 - Story: the outline plans „Kael tritt an den Rand der verfallenden Stadt und blickt auf das Potentialmeer hinaus.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L976]
 - Concepts: „Potentialmeer, Negative Space Writing“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L974]
 - Pivot-Marker: the outline plans Driver-Status: „Decision (SF-A) regiert.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1000]; Limit-Marker: „Optionlock (SF-A) – es bleibt nur der finale Schritt.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1001]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Der Showdown im Vortex (I)
+
+Title: „Der Showdown im Vortex (I)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L333] — „Akt III: Die existenzielle Fusion (Kapitel 27–39)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L281]; „Pivot-Kapitel“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L335]
+
+- Story: the dual-storyform outline plans „AEGIS versucht, Kael durch das ZTEM-Protokoll physisch zu vernichten“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L335]
+- Storyforms: `Storyform B` (`RS: Physics/Doing`): „Der finale Kampf gegen die Entropie-Löschung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L337]; `Storyform A` (`RS: Psychology/Conceptualizing`): „Juna manifestiert sich als die kühle Mitte des Sturms“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L338]
+- Scene and pacing: `Pacing`: „Maximales Pacing“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L339]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

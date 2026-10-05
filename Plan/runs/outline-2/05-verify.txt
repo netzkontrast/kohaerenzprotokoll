@@ -1,0 +1,68 @@
+$ read.py outline-2 --count "Chapter"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Chapter` ^[outline-2.md:#40]
+$ read.py outline-2 --count "Act"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            11
+
+`Act` ^[outline-2.md:#4]
+$ read.py outline-2 --count "Neues Format"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Neues Format` ^[outline-2.md:#1]
+$ read.py outline-2 --count "Core Theme"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Core Theme` ^[outline-2.md:#40]
+$ read.py outline-2 --count "AEGIS Focus"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            37
+
+`AEGIS Focus` ^[outline-2.md:#37]
+$ read.py outline-2 --count "Juna/V Focus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna/V Focus` ^[outline-2.md:#2]
+$ read.py outline-2 --count "Fundament Focus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fundament Focus` ^[outline-2.md:#1]
+$ read.py outline-2 --count "TSDP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`TSDP` ^[outline-2.md:#0]
+$ read.py outline-2 --count "Plot Point"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Plot Point` ^[outline-2.md:#2]
+$ read.py outline-2 --count "Kohärenz Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll` ^[outline-2.md:#1]
+$ grep -c "?" Sources/drive/outline-2.md
+86
+$ grep -n "Plot Point" Sources/drive/outline-2.md | cut -c1-40
+215:  - **Genre/Trope:** Wendepunkt (Plot Point 1); Crossing
+399:  - **Genre/Trope:** Wendepunkt (Plot Point 2); Lock and
+$ grep -c "^\\\\\[.*\\\\\]$"
+40
+stance_marker_count 41 = Neues Format 1 + Chapter 40

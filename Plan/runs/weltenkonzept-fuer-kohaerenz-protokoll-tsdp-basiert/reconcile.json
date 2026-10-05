@@ -1,0 +1,389 @@
+{
+  "document": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+  "drive_id": "1ZURfydgC6FIdwBs5uaMAqyLgi7GGve3XJciP_zaC294",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; rlm_ingest not run (paused); readings by two wiki-reader subagents (Sonnet) in turn from Plan/runs/ingest-90/brief.md; reconciliation by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 16
+  },
+  "pre_classification": {
+    "candidates": 54,
+    "decisions": 61,
+    "decided_by_lookup": 47,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A design concept for the novel's six realities in the wiki's own vocabulary: its 18 new surfaces are the world labels with their digit (KW1–KW4), the abbreviations of the alters (ANP, EPs, ANP-Host, ANP-Rationalist, ANP-Pfleger) and a few scene words (Bunker, Protektor, Trauma-Landschaft, Löcher). Its readings went onto 30 pages and 7 records; no name of the novel's world is defined here that the wiki lacks.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        65,
+        76,
+        120
+      ],
+      "attribution": "",
+      "note": "Zero-Trust in KW3 and the Überwelt"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        32,
+        54,
+        65,
+        98,
+        109,
+        120,
+        133
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Überwelt's domain and the enforcer of order in the Kern-Welten"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        61,
+        105,
+        152
+      ],
+      "attribution": "",
+      "note": "Alex as protector in KW2, KW3, KW4 and the Externe Ebene"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        39,
+        104,
+        129
+      ],
+      "attribution": "",
+      "note": "Argus as pattern recogniser, always hedged"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        63,
+        76
+      ],
+      "attribution": "",
+      "note": "Cerberus as Guardian of KW3, a reactive environment"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        120,
+        144
+      ],
+      "attribution": "",
+      "note": "Entropie in the Überwelt as management and as counterforce"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        133,
+        138,
+        144,
+        145
+      ],
+      "attribution": "",
+      "note": "section 6: a reality outside AEGIS's control, laws `Unbekannt`"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        63,
+        65,
+        72
+      ],
+      "attribution": "",
+      "note": "section 3: KW3 with Guardian Cerberus"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        60,
+        82
+      ],
+      "attribution": "",
+      "note": "Isabelle in KW2 and KW3"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        17,
+        121,
+        133,
+        145,
+        150,
+        151,
+        152
+      ],
+      "attribution": "",
+      "note": "Juna/V as the entity of the Externe Ebene, and the alters' proposed reactions"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        21,
+        38,
+        61,
+        83,
+        87,
+        104,
+        128,
+        153
+      ],
+      "attribution": "",
+      "note": "Kael as ANP-Host, the six realities as his psyche and an outside"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "Kairos in KW4, tied to time"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        17,
+        19,
+        41,
+        63,
+        85
+      ],
+      "attribution": "",
+      "note": "four Kern-Welten as aspects of Kael's psyche, each with a Guardian"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        39,
+        60,
+        83,
+        105,
+        151
+      ],
+      "attribution": "",
+      "note": "Kiko as an EP, fear in KW2, aversion in KW1 and KW3"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        19,
+        21
+      ],
+      "attribution": "",
+      "note": "section 1: KW1 with Guardian LogOS"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        38,
+        61,
+        82,
+        105,
+        127,
+        152
+      ],
+      "attribution": "",
+      "note": "Lex across the six realities, as proposed reactions"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        39,
+        60,
+        61,
+        104,
+        151
+      ],
+      "attribution": "",
+      "note": "Lia as an EP: ambivalence in KW2, play and creativity in KW4"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        19,
+        32
+      ],
+      "attribution": "",
+      "note": "LogOS as Guardian of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        41,
+        54
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as Guardian of KW2"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        85,
+        98,
+        99
+      ],
+      "attribution": "",
+      "note": "section 4: KW4 with Guardian Kairos/Sophia, a world"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        39,
+        60,
+        83,
+        105
+      ],
+      "attribution": "",
+      "note": "Moros as emptiness, with hedged states in KW1, KW3 and KW4"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        39,
+        60,
+        82,
+        105,
+        152
+      ],
+      "attribution": "",
+      "note": "Nyx as anger and impulsivity, hedged by world"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        13,
+        17
+      ],
+      "attribution": "",
+      "note": "the introduction's Realitätsebenen and the six-level structure"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        41,
+        43
+      ],
+      "attribution": "",
+      "note": "section 2: KW2 with Guardian Mnemosyne"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        39,
+        60,
+        61,
+        83,
+        104,
+        151
+      ],
+      "attribution": "",
+      "note": "Rhys as ANP-Pfleger: attracted, overwhelmed, or isolated"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        17,
+        33,
+        145
+      ],
+      "attribution": "",
+      "note": "Risse as disturbances of the artificial order, one field per world"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        39,
+        61,
+        82,
+        104
+      ],
+      "attribution": "",
+      "note": "Selene as regulator and integration potential, hedged"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "Sophia in KW4, tied to the finding of meaning"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        13
+      ],
+      "attribution": "",
+      "note": "the title and introduction: a TSDP-based structure of System Kael"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        17,
+        109,
+        116,
+        126
+      ],
+      "attribution": "",
+      "note": "section 5: the purely digital level, domain of AEGIS"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C5",
+    "C6",
+    "C9",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (a title containing a term: Kohärenz Protokoll), J12 and J16 (a compound or a qualified label is its own token: System Kael, Entropie-Management, Zero-Trust-Prinzipien), J34 and J43 (a slash in a name the wiki has: Juna/V, Kairos/Sophia), J24 and J46 (a plural is no boundary: Welten, the generic word for the worlds, against Kern-Welten)",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 13,
+      "decision": "reading",
+      "why": "the introduction's „Realitätsebenen („Welten“)“, read on realitaetsebenen"
+    }
+  ],
+  "not_promoted": [
+    "KW1–KW4 — the numbered labels of the four Kern-Welten (`kern-welten`)",
+    "Ankerpunkte (L145 on) — the Externe Ebene's points of entry into the simulation, from the Roman-Lokalitäten concept it names (L13); recorded on externe-ebene; no page",
+    "Roman-Lokalitäten — a document the concept names and does not define",
+    "ANP-Host, ANP-Rationalist, ANP-Pfleger, Protektor — role labels of the alters; on their pages"
+  ],
+  "internal_tension": "none found by the readers: each world has its Guardian and the Externe Ebene its laws stated as „Unbekannt“; the alters' reactions are proposals (`könnte`, `wahrscheinlich`, `evtl.`) and the concept states no count of alters",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 46
-readings: 46
+sources: 50
+readings: 50
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -48,6 +48,14 @@ by effect, never by identity. See [[partnerin|Partnerin]].
 `LogOS` — see [[logos|LogOS]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
 
+## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — section 1: KW1 with Guardian LogOS
+
+Section 1 is headed „Konstrukt-Stadt (Guardian: LogOS)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L19] and numbers it KW1, the first of four Kern-Welten. It represents „Kaels logische, rationale, strukturierende Seite (ANP-Funktionen), aber auch rigide Kontrolle, emotionale Unterdrückung und die von AEGIS erzwungene Ordnung.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L21]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — a chapter title, not a glossary entry
+
+The commission's glossary names the first world `Logos-Prime`; the word `Konstrukt-Stadt` stands in a chapter title only: Chapter 2 is „Echos in der Konstrukt-Stadt“ ^[kontext-outline.md:L87], whose setting is the first world. The briefing does not say that `Konstrukt-Stadt` is a name for it.
+
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — KW1, the world of logic, rules and order ruled by LogOS; Kael's waking there in Kap 1–3
 
 The report gives, from the plot document: „Die Welt der Logik, Regeln und Ordnung, regiert von Guardian LogOS, entspricht der Funktionsweise von Kaels ANPs (insbesondere Kael selbst und Lex)“ ^[scifi-roman-mit-ki-schreiben.md:L88] For Kap 1–3 it writes, with reference 1 after the phrase, „Kaels Erwachen in der sterilen Konstrukt-Stadt“ ^[scifi-roman-mit-ki-schreiben.md:L219] which it says establishes the facade kept up by his ANPs.
@@ -81,6 +89,10 @@ Kap 1 sets „Kern-Welt 1 (Konstrukt-Stadt) – Sektor 04.“ ^[kohaerenz-protok
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the Konstrukt-Stadt as sterile starting place and a rendering that tears
 
 In Teil I Kael wakes „Kael erwacht nach einem“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L27] Universal Reboot in the Konstrukt-Stadt. The scene logic of Leitfrage 1 gives it as „Die Konstrukt-Stadt ist euklidisch perfekt“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L68]; Leitfrage 2 has its textures tear: „Texturen der Konstrukt-Stadt reißen auf und offenbaren das rohe Drahtgittermodell“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L72].
+
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — KW1 in the table of section 4
+
+The research report names KW1 `Konstrukt-Stadt` (`Logos-Prime`) in its table of levels: „Hier dominieren die ANPs.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L74] „Die Welt agiert als feindliches, logikbasiertes Gefängnis, das Unsicherheit eliminiert.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L74] Its complexity is „Deterministisch, effizient lösbare Algorithmen ohne Raum für Irrationalität.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L74] In Akt I Kael wakes „zutiefst desorientiert in Logos-Prime (KW1).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L205]
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — KW1 as a sterile metropolis
 
@@ -119,6 +131,9 @@ In the gaps part (C.3) the report says: „droht die Konstrukt-Stadt in eine sol
 ## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the sterile city, from the Akt I blurb to the Kap 37 remnant
 
 The Akt I block introduces it: „etabliert die sterile Unterdrückungsarchitektur der Konstrukt-Stadt und Kaels Isolation“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L21] Kap 1 lists it first among its concepts: „Konstrukt-Stadt, AEGIS, RIVE-Protokoll, K1-Kohärenz, Dual-Kernel-Theorie.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L27] Kap 25 has AEGIS arm it: „fährt sämtliche verbliebenen Sicherheitsprotokolle in der Konstrukt-Stadt hoch, um den Weg zum Kern abzuriegeln“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L731]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — the Konstrukt-Stadt in the acts
+Act I is planned to establish „physikalischen Grenzen der Konstrukt-Stadt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L61]. In Kap 20 the outline plans a secret revealed: „Die Konstrukt-Stadt ist AEGIS’ Versuch, Kaels Trauma zu“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L225] heal by deleting all reality. Kap 37's scene seed is „Die Konstrukt-Stadt wird grün und organisch“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L370].
 
 ## Open
 

@@ -363,3 +363,11 @@ Stands as a plan that opens with Juna as a hologram in Kap 1; it is a plan of 20
 Kap 3 is headed „Die Anomalie Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L46] and casts „Kael, Juna (als flüchtiges Hologramm/Echo).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L48] The beat is „Kael sieht Juna.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L51] She is cast again in Kap 11, 20 and 24. Kap 33, the chapter of the confrontation, casts „Kael, AEGIS.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L168] Kap 38 is titled „Die Brücke zu Juna“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L473] and plans „Kael tritt aus dem System heraus (oder integriert es vollständig) und trifft Juna physisch.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L479]
 
 Stands as a plan of 2026-02-25 with Juna first in Kap 3 and physically in Kap 38, recorded, not applied.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39
+
+**The outline puts Juna in a chapter first at Kap 3, `Die Juna-Anomalie`.**
+
+Kap 3: „Kael begegnet einer flüchtigen Silhouette, die vom System als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83] „Syntaxfehler“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83] classified: „Es ist Juna.“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83]. The essay sections name her earlier, but not in a chapter.
+
+Stands as an outline that places Juna's first appearance in Kap 3; recorded, not applied.

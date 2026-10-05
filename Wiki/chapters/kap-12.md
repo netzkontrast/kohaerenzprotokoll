@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -42,6 +42,14 @@ Position: „(Fundamentales Konzept: Gegenwart/Präsenz (Jetzt-Raum) / Innerer F
 - What AEGIS cannot reach: „Er hatte einen inneren Raum entdeckt, einen Ort der Präsenz und des Selbst, den AEGIS nicht erreichen konnte.“ ^[kohaerenz-protokoll.md:L1442]
 - Identity: „Er war Kael/M.“ ^[kohaerenz-protokoll.md:L1430]
 - Close: „Er war Kael, der Architekt seines eigenen Mosaik-Herzens, bereit, im Jetzt-Raum zu leben und zu handeln, egal welche Stürme das System entfesseln würde.“ ^[kohaerenz-protokoll.md:L1456]
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Frage nach dem Selbst
+
+Title: the commission titles the chapter „Die Frage nach dem Selbst“ ^[kontext-outline.md:L198], placed in Act 1.
+
+- Theme: the commission's `Core Theme` is „Philosophische Zweifel an Identität und Realität“ ^[kontext-outline.md:L200]
+- Story: its `Plot Summary` plans „existenzieller Krise: Wer bin ich? Ist das echt? Sinn?“ ^[kontext-outline.md:L201]
+- Foci: `Kael Sys Focus` „Systemweite Verunsicherung“ ^[kontext-outline.md:L202]; `AEGIS Focus` „Könnte versuchen, Zweifel zu zerstreuen (Manipulation)“ ^[kontext-outline.md:L203]
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Innere Rat
 
@@ -138,6 +146,14 @@ Position: Akt I; POV: „POV: Kael.“ ^[kohaerenz-protokoll-kapitel-outline-ers
 - Story: the outline plans „erreicht das System Kael einen Zustand absoluter Präsenz und Ruhe“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L345]
 - Story: the outline plans „Der Ort weist extrem hohe Kohärenz, aber null Entropie auf“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L345]
 - Concepts: „Negentropie, Der Jetzt-Raum“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L343]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline — Die kalte Melancholie des LogOS
+
+Title: „Die kalte Melancholie des LogOS“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L154] — „Akt I: Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L59]
+
+- Story: the dual-storyform outline plans „Begegnung mit dem Guardian LogOS“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L156]
+- Storyforms: `Storyform B` (`RS: Physics/Doing`): „AEGIS versucht, die Verbindung zwischen den Alters zu kappen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L158]; `Storyform A` (`RS: Psychology/Conceptualizing`): „ein ontologischer Selbstmord wäre“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L159]
+- Scene and pacing: `Szenen-Keim`: „Ein thronähnliches Interface“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L160]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

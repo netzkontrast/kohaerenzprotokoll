@@ -1,0 +1,79 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+The whole body (file lines 10 to 524) was read with line numbers. The document is an outline of a prologue and 39 chapters, each chapter a prose paragraph under the label Handlung followed by eight repeated labels (Core Theme, Kael Internal, AEGIS Focus, Setting, Subplots, Philosophy, Genre/Trope, Reader Psychology Note). The labels are template fields and are not listed as terms. Philosophers and tropes named under the Philosophy and Genre/Trope labels are lens material of the outline's own method and are left off except the few the outline applies to the world. Acts are headed Act Prologue, Act 1 to Act 3 with a journey name each. A reference list of 39 web pages ends the file and is not listed. The short forms KW1 to KW4 are used in the settings, the long form Konstrukt-Welt only in Chapters 1 and 5. The document writes the name AEGIS with an apostrophe-s genitive (AEGIS') throughout.
+
+- Nichts Rauschen
+- Komponente 734
+- AEGIS
+- Echo
+- Kohärenz Protokoll
+- Kael
+- Selene
+- Juna/V
+- Fehlausgerichtete Kohärenz
+- Fehlausgerichteten Kohärenz
+- Kernparadoxon
+- Überlebensparadoxon
+- Fundament
+- Überwelt
+- Konstrukt-Welt 1
+- Logos-Prime
+- KW1
+- Konstrukt-Welt 2
+- Mnemosyne-Archipel
+- KW2
+- KW3
+- Cerberus-Labyrinth
+- KW4
+- Kairos-Potentialis
+- Lex
+- Alex
+- Rhys
+- Argus
+- Kiko
+- Lia
+- Moros
+- Nyx
+- Guardian LogOS
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Guardians
+- Host
+- Apparently Normal Parts
+- Emotional Parts
+- ANPs
+- EPs
+- TSDP
+- Glitches
+- Riss
+- Meta-Beobachter
+- Inneres Refugium
+- Inneres Konferenzzimmer
+- Inneres Hauptquartier
+- Sicherer Ort
+- Ko-Bewusstsein
+- funktionaler Multiplizität
+- Funktionale Multiplizität
+- Switches
+- Fronting
+- Archäologie der Seele
+- Externen Ebene
+- Kael Integration
+- AEGIS Paradoxon
+- Wendepunkt
+- Kernprozessor
+- Quellcode-Matrix
+- Bewusstseinszentrum
+- Task Force
+- Schutz-Cluster
+
+## lens
+
+- Gaslighting
+- Panoptismus
+- Zweite-Ordnung-Kybernetik
+- Heroine's Journey
+- Hero's Journey

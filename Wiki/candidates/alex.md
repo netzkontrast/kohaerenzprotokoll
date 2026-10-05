@@ -1,16 +1,24 @@
 ---
 term: Alex
 status: candidate
-sources: 37
-readings: 37
+sources: 41
+readings: 41
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"]
 gathered: "2026-09-24"
 ---
 
 # Alex
 
 One of the thirteen [[alters|Alters]] — ANP, „Protektor" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L396].
+
+## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Alex as protector in KW2, KW3, KW4 and the Externe Ebene
+
+The world concept names Alex with the label `Protektor`. KW3 (Grenzfeste) is the domain of parts focused on protection: „Alex (Protektor)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L61]. In KW2 the concept hedges: „Alex (Protektor) ist hier wahrscheinlich in ständiger Alarmbereitschaft“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L61]. In KW4 Alex is among the controlling parts: „Alex (sieht unkontrollierbare Gefahr)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L105]. In the Externe Ebene the concept expects a distrustful reaction, with a question mark: „Alex (Sicherheitsrisiko?)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L152].
+
+## Reading — `kontext-outline`, 2025-05-03, the outline commission — the glossary gloss and the plan for Chapter 3
+
+The glossary gives the briefing's gloss: „Beschützer-Anteil.“ ^[kontext-outline.md:L40] Chapter 3 plans the figure's first appearance: „Alex aktiv“ ^[kontext-outline.md:L102], with „Erster ANP-Konflikt (Lex vs. Alex)“ ^[kontext-outline.md:L102].
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — one of the complementary ANP pair with Rhys, and a protective or persecutor part of KW3
 
@@ -42,6 +50,10 @@ Kap 17 plans his failure: „Alex scheitert an einem Logik-Paradoxon des Systems
 
 A plan in a fixed grid of nine fields; recorded, not applied.
 
+## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Alex as Protektor-ANP
+
+The research report (5.1) describes `Alex` as „Der strategische Krisenmanager.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L93] It adds that he protects the system „oft in Kooperation mit Lex und Nyx“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L93] In the subjective-story throughline (7.4) it names „Nyx' und Alex' hypervigilante Verteidigungsmechanismen“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L187] as an inhibitor.
+
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — the protector among the alters
 
 The reconstruction lists the third primary alter as „Der Wächter (Alex)“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L82], described as „Ein robuster Protektor, der das fragile interne System vor Überwältigung abschirmt“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L82]. SC-06 lists him in the same form, `Wächter (Alex)`.
@@ -62,6 +74,9 @@ The outline of 2026-05-01 plans Alex as a mode before it is a name. Its alter ti
 ## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the Alter of social adaptation, planned for Kap 5; the generic label dropped
 
 The dual-storyform outline lists the concepts of Kap 5 as „Alex (Alter), SIS-Protokoll, Discursive Logic.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L141] and plans the beat in these words: „übernimmt der Anteil Alex die Führung, der auf soziale Anpassung programmiert ist“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L143] The outline's Anhang B, its list of discarded legacy material, says of a generic count of Alters that „das System verwendet ausschließlich die kanonisch definierten Namen“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1349] — a decision of the outline, which names `Alex` among the Namen it keeps.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — one row of the alter table
+In its alter table (L44–L55, columns `Alter Name`, `TSDP-Aktionssystem`, `Funktionale Rolle`, `DKT-Korrelat`; the export lost the symbol in some cells) Alex has the action system „Soziale Interaktion“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L47], the role „Alltagsfassade (ANP)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L47] and the DKT correlate „Buffer-Schicht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L47].
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

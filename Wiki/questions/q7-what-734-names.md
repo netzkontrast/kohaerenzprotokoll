@@ -153,3 +153,35 @@ In the record's terms this is a further use of 734, open: the question what the 
 Kap 2 casts „Unit 734 (Guardian/Regel-Exekutor)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L70] and plans „Unit 734 stoppt Kael für einen Kohärenz-Test“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L72] The document writes `734` ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:#2] in those two lines only. It does not write an address, a Wohneinheit or a Komponente.
 
 Stands as one more sense of the number, the unit as a guard in Kap 2, recorded and not decided.
+
+## 2026-10-05 — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39
+
+**The outline uses „Komponente 734“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135] for Kael's true genesis, hinted in Kap 9.**
+
+Kap 9, Storyform A (IC: Universe/Past): „Die wahre Genesis von Kael als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135] „Komponente 734“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135], „wird angedeutet“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135].
+
+Stands as one source that names Komponente 734 as Kael's origin and says nothing of a dwelling; recorded, not applied.
+
+## 2026-10-05 — `kontext-outline`, 2025-05-03, the outline commission
+
+**The commission's glossary writes the component once, as AEGIS's origin, and says nothing of Wohneinheit 734.**
+
+The glossary has AEGIS as „Antagonistisches KI-System/Kollektiv; entstanden aus Komponente 734“ ^[kontext-outline.md:L26]. The prologue's plan of the origin does not name it: „AEGIS (oder Vorläufer) entsteht aus Chaos/Angst, sucht Ganzheit“ ^[kontext-outline.md:L66].
+
+Where it stands: Komponente 734 is AEGIS's origin in this briefing; it is not Kael's designation here, and the question of what the number labels is untouched.
+
+## 2026-10-05 — `outline-2`, 2025-05-03, the new-format outline
+
+**The new-format outline's prologue names Komponente 734 as AEGIS's precursor self and its fragmentation as the birth of System Kael; it says nothing of Wohneinheit 734.**
+
+The prologue plan: „die Entität AEGIS oder ihr Vorläufer-Ich (Komponente 734)“ ^[outline-2.md:L23], and the protocol leads to the „zur gewaltsamen Fragmentierung von Komponente 734 führt“ ^[outline-2.md:L23], „der Geburtsstunde von System Kael“ ^[outline-2.md:L23]
+
+Where it stands: in this outline the number labels a component, AEGIS's precursor and the thing broken at Kael's birth; what it labels elsewhere in the world is not touched.
+
+## 2026-10-05 — `leserzentrierte-roman-outline-generierung-kohaeren`, 2025-05-03, the reader-centred outline
+
+**The reader-centred outline's prologue names Komponente 734 as a pre-conscious entity that struggles for emergence; it says nothing of Wohneinheit 734.**
+
+The prologue plan: „ringt eine prä-bewusste Entität, Komponente 734, um Emergenz“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L15], later fragmented „zur gewaltsamen Fragmentierung von Komponente 734 führt“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L15]
+
+Where it stands: in this outline the number labels a component, an entity before consciousness; what it labels elsewhere in the world is not touched.

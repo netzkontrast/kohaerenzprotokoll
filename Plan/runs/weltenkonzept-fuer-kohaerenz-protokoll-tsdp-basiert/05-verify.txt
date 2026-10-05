@@ -1,0 +1,106 @@
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "evtl."
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`evtl.` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#4]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "könnte"
+whole word, case-sensitive     8
+whole word, case-insensitive   10
+including compounds            9
+
+`könnte` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#8]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "wahrscheinlich"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`wahrscheinlich` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#3]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "potenziell"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            8
+
+`potenziell` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#6]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "möglicherweise"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`möglicherweise` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#1]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "Konzeptueller Kern"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Konzeptueller Kern` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#6]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "Risse"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Risse` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#8]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fundament` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#1]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "Juna/V"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna/V` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#4]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "Juna"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Juna` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#5]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "TSDP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`TSDP` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#0]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "ANP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            5
+
+`ANP` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#0]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "ANPs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANPs` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#1]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "Anteilen"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Anteilen` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#7]
+
+$ python3 scripts/read.py weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert --count "Kaels"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kaels` ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:#6]
+
+stance_marker_count 24 = evtl. 4 + könnte 10 (case-insensitive) + wahrscheinlich 3 + potenziell 6 + möglicherweise 1

@@ -1,0 +1,508 @@
+{
+  "document": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+  "drive_id": "1ZURfydgC6FIdwBs5uaMAqyLgi7GGve3XJciP_zaC294",
+  "step": "counts",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        13
+      ]
+    },
+    "TSDP": {
+      "n": 0,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        13
+      ]
+    },
+    "System Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Welten": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        13,
+        17,
+        99
+      ]
+    },
+    "Kern-Welten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17
+      ]
+    },
+    "KW1": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        19,
+        55
+      ]
+    },
+    "KW2": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        33,
+        41,
+        77,
+        99
+      ]
+    },
+    "KW3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        99
+      ]
+    },
+    "KW4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        85
+      ]
+    },
+    "Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        107
+      ]
+    },
+    "Externe Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "AEGIS": {
+      "n": 13,
+      "n_including_compounds": 16,
+      "lines": [
+        17,
+        21,
+        32,
+        54,
+        65,
+        98,
+        107,
+        109,
+        120,
+        128,
+        133,
+        144,
+        145,
+        155
+      ]
+    },
+    "Juna/V": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        121,
+        131,
+        150
+      ]
+    },
+    "Juna": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        121,
+        131,
+        133,
+        150
+      ]
+    },
+    "universal reboot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Risse": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        17,
+        33,
+        55,
+        77,
+        99,
+        121,
+        144,
+        145
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "LogOS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        32
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Mnemosyne": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        54
+      ]
+    },
+    "Grenzfeste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Cerberus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        76
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Kairos/Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Kairos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85,
+        98
+      ]
+    },
+    "Sophia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85,
+        98
+      ]
+    },
+    "Bunker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Zero-Trust": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        65,
+        76,
+        120
+      ]
+    },
+    "Entropie-Management": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        109,
+        120
+      ]
+    },
+    "Entropie": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        109,
+        120,
+        144
+      ]
+    },
+    "Ankerpunkte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Roman-Lokalitäten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        145
+      ]
+    },
+    "Anteile": {
+      "n": 5,
+      "n_including_compounds": 12,
+      "lines": [
+        34,
+        56,
+        78,
+        82,
+        100,
+        104,
+        105,
+        122,
+        126,
+        146,
+        150,
+        155
+      ]
+    },
+    "ANP": {
+      "n": 0,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        38,
+        60,
+        61
+      ]
+    },
+    "EPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        39,
+        60,
+        83,
+        126
+      ]
+    },
+    "ANP-Host": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "ANP-Rationalist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "ANP-Pfleger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Protektor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        82
+      ]
+    },
+    "Lex": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        38,
+        61,
+        82,
+        105,
+        127,
+        152
+      ]
+    },
+    "Kael": {
+      "n": 9,
+      "n_including_compounds": 15,
+      "lines": [
+        13,
+        17,
+        21,
+        38,
+        43,
+        61,
+        65,
+        77,
+        83,
+        87,
+        98,
+        104,
+        128,
+        153,
+        155
+      ]
+    },
+    "Kiko": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        39,
+        60,
+        83,
+        105,
+        151
+      ]
+    },
+    "Lia": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        39,
+        60,
+        83,
+        104,
+        151
+      ]
+    },
+    "Nyx": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        39,
+        60,
+        82,
+        105,
+        152
+      ]
+    },
+    "Rhys": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        39,
+        60,
+        83,
+        104,
+        151
+      ]
+    },
+    "Moros": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        39,
+        60,
+        83,
+        105
+      ]
+    },
+    "Selene": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        39,
+        61,
+        82,
+        104,
+        151
+      ]
+    },
+    "Argus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        104,
+        129
+      ]
+    },
+    "Isabelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        82
+      ]
+    },
+    "Alex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        82,
+        105,
+        152
+      ]
+    },
+    "Trauma-Landschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Löcher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Zero-Trust-Prinzipien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    }
+  }
+}
