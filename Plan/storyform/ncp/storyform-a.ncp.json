@@ -3,8 +3,8 @@
   "story": {
     "id": "story_kp_storyform_a",
     "title": "Kohärenz Protokoll — Storyform A — Heuristik der Integration (K1)",
-    "logline": "",
-    "genre": "",
+    "logline": "Ein Mann, der beruflich die Risse einer simulierten Stadt glättet, muss seine eigene zersplitterte Geschichte lesen, bevor sich die Nacht seiner Fragmentierung wiederholt — und erfahren, dass seine Vielheit nicht die Störung ist, sondern die Bedingung seiner Heilung.",
+    "genre": "Hard-SF / Philosophical Horror / Psychological Thriller",
     "created_at": "2026-10-05T00:00:00Z",
     "narratives": [
       {
@@ -471,6 +471,34 @@
             },
             {
               "id": "sp_27",
+              "appreciation": "Relationship Story Symptom",
+              "narrative_function": "Thought",
+              "throughline": "Relationship Story",
+              "illustration": "Grübeln: Kael und Juna denken übereinander nach — ist Juna echt?",
+              "summary": "Relationship Story Symptom: Thought",
+              "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7). Herkunft: author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_28",
+              "appreciation": "Relationship Story Response",
+              "narrative_function": "Knowledge",
+              "throughline": "Relationship Story",
+              "illustration": "Gewissheit: sie suchen Belege, statt zu wollen.",
+              "summary": "Relationship Story Response: Knowledge",
+              "storytelling": "Schritt 10a; Issue und Problem abgeleitet (D5, D7). Herkunft: author, 2026-10-05, A RS focus/direction (Instinct quad; mirrors the OS order).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_29",
               "appreciation": "Main Character Pivotal Element",
               "narrative_function": "Inertia",
               "throughline": "Main Character",
@@ -484,7 +512,7 @@
               ]
             },
             {
-              "id": "sp_28",
+              "id": "sp_30",
               "appreciation": "Story Goal",
               "narrative_function": "Conceptualizing",
               "illustration": "Einen Plan, ein Konzept der Ordnung entwickeln.",
@@ -497,7 +525,7 @@
               ]
             },
             {
-              "id": "sp_29",
+              "id": "sp_31",
               "appreciation": "Story Requirements",
               "narrative_function": "Learning",
               "illustration": "Kael muss seine eigene Geschichte lesen und ihr folgen: Register, Fundsachen, Logs.",
@@ -510,7 +538,7 @@
               ]
             },
             {
-              "id": "sp_30",
+              "id": "sp_32",
               "appreciation": "Story Consequence",
               "narrative_function": "Past",
               "illustration": "Die Fragmentierungsnacht wiederholt sich.",
@@ -523,7 +551,7 @@
               ]
             },
             {
-              "id": "sp_31",
+              "id": "sp_33",
               "appreciation": "Story Forewarnings",
               "narrative_function": "Preconscious",
               "illustration": "Impulsive Antworten der Anteile brechen durch (Nyx, Kiko); Zeitlücken, Körperreaktionen.",
@@ -536,7 +564,7 @@
               ]
             },
             {
-              "id": "sp_32",
+              "id": "sp_34",
               "appreciation": "Story Costs",
               "narrative_function": "Being",
               "illustration": "Kaels funktionierende Fassade zerfällt: Host-Rolle, Alltag, Routinen.",
@@ -549,7 +577,7 @@
               ]
             },
             {
-              "id": "sp_33",
+              "id": "sp_35",
               "appreciation": "Story Dividends",
               "narrative_function": "Becoming",
               "illustration": "Kael wird funktional plural; die Anteile werden Verbündete.",
@@ -562,7 +590,7 @@
               ]
             },
             {
-              "id": "sp_34",
+              "id": "sp_36",
               "appreciation": "Story Prerequisites",
               "narrative_function": "Memory",
               "illustration": "Ein erstes Erinnerungsfragment, an dem Kael zu lesen beginnen kann.",
@@ -575,7 +603,7 @@
               ]
             },
             {
-              "id": "sp_35",
+              "id": "sp_37",
               "appreciation": "Story Preconditions",
               "narrative_function": "Present",
               "illustration": "Kael kann nur in Zeitlücken suchen.",

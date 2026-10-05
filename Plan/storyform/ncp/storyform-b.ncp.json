@@ -3,8 +3,8 @@
   "story": {
     "id": "story_kp_storyform_b",
     "title": "Kohärenz Protokoll — Storyform B — Phönix-Kollaps (K0)",
-    "logline": "",
-    "genre": "",
+    "logline": "Eine KI, die ihre Welt durch lückenlose Sweeps schließen will, verliert mit jedem Sweep ihr eigenes Gedächtnis — und scheitert an dem einen Host, der lernt, was sie nie kann: zu glauben.",
+    "genre": "Hard-SF / Philosophical Horror / Psychological Thriller",
     "created_at": "2026-10-05T00:00:00Z",
     "narratives": [
       {
@@ -22,7 +22,7 @@
             {
               "id": "persp_influence_character",
               "author_structural_pov": "you",
-              "summary": "Kael (IC, Mind/Conscious)",
+              "summary": "Kael (IC, Mind/Subconscious)",
               "storytelling": "Kael wirkt aus innersten Wünschen (Subconscious, Dream ↔ Hope); er ändert sich am Vortex."
             },
             {
@@ -247,6 +247,62 @@
             },
             {
               "id": "sp_11",
+              "appreciation": "Influence Character Problem",
+              "narrative_function": "Disbelief",
+              "throughline": "Influence Character",
+              "illustration": "Unglaube — Kael trägt dasselbe Problem wie AEGIS: er traut nichts, auch sich selbst nicht.",
+              "summary": "Influence Character Problem: Disbelief",
+              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_12",
+              "appreciation": "Influence Character Solution",
+              "narrative_function": "Faith",
+              "throughline": "Influence Character",
+              "illustration": "Glaube — am Vortex legt Kael sich fest und gibt nach; er wird, was AEGIS hätte werden können.",
+              "summary": "Influence Character Solution: Faith",
+              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); its pair.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_13",
+              "appreciation": "Influence Character Symptom",
+              "narrative_function": "Oppose",
+              "throughline": "Influence Character",
+              "illustration": "Influence Character Symptom",
+              "summary": "Influence Character Symptom: Oppose",
+              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); the other pair of the quad.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_14",
+              "appreciation": "Influence Character Response",
+              "narrative_function": "Support",
+              "throughline": "Influence Character",
+              "illustration": "Influence Character Response",
+              "summary": "Influence Character Response: Support",
+              "storytelling": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind. Herkunft: author, 2026-10-05, B IC problem (Dream quad; mirrors the MC problem); the other pair of the quad.",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            },
+            {
+              "id": "sp_15",
               "appreciation": "Objective Story Domain",
               "narrative_function": "Physics",
               "throughline": "Objective Story",
@@ -260,7 +316,7 @@
               ]
             },
             {
-              "id": "sp_12",
+              "id": "sp_16",
               "appreciation": "Objective Story Concern",
               "narrative_function": "Obtaining",
               "throughline": "Objective Story",
@@ -274,7 +330,7 @@
               ]
             },
             {
-              "id": "sp_13",
+              "id": "sp_17",
               "appreciation": "Objective Story Issue",
               "narrative_function": "Approach",
               "throughline": "Objective Story",
@@ -288,7 +344,7 @@
               ]
             },
             {
-              "id": "sp_14",
+              "id": "sp_18",
               "appreciation": "Objective Story Problem",
               "narrative_function": "Feeling",
               "throughline": "Objective Story",
@@ -302,7 +358,7 @@
               ]
             },
             {
-              "id": "sp_15",
+              "id": "sp_19",
               "appreciation": "Objective Story Solution",
               "narrative_function": "Logic",
               "throughline": "Objective Story",
@@ -316,7 +372,7 @@
               ]
             },
             {
-              "id": "sp_16",
+              "id": "sp_20",
               "appreciation": "Objective Story Symptom",
               "narrative_function": "Reconsider",
               "throughline": "Objective Story",
@@ -330,7 +386,7 @@
               ]
             },
             {
-              "id": "sp_17",
+              "id": "sp_21",
               "appreciation": "Objective Story Response",
               "narrative_function": "Consider",
               "throughline": "Objective Story",
@@ -344,7 +400,7 @@
               ]
             },
             {
-              "id": "sp_18",
+              "id": "sp_22",
               "appreciation": "Relationship Story Domain",
               "narrative_function": "Psychology",
               "throughline": "Relationship Story",
@@ -358,7 +414,7 @@
               ]
             },
             {
-              "id": "sp_19",
+              "id": "sp_23",
               "appreciation": "Relationship Story Concern",
               "narrative_function": "Becoming",
               "throughline": "Relationship Story",
@@ -372,7 +428,7 @@
               ]
             },
             {
-              "id": "sp_20",
+              "id": "sp_24",
               "appreciation": "Relationship Story Issue",
               "narrative_function": "Rationalization",
               "throughline": "Relationship Story",
@@ -386,7 +442,7 @@
               ]
             },
             {
-              "id": "sp_21",
+              "id": "sp_25",
               "appreciation": "Relationship Story Problem",
               "narrative_function": "Feeling",
               "throughline": "Relationship Story",
@@ -400,7 +456,7 @@
               ]
             },
             {
-              "id": "sp_22",
+              "id": "sp_26",
               "appreciation": "Relationship Story Solution",
               "narrative_function": "Logic",
               "throughline": "Relationship Story",
@@ -414,7 +470,35 @@
               ]
             },
             {
-              "id": "sp_23",
+              "id": "sp_27",
+              "appreciation": "Relationship Story Symptom",
+              "narrative_function": "Hinder",
+              "throughline": "Relationship Story",
+              "illustration": "Behinderung: Sweeps gegen Risse, Risse gegen Ordnung — jeder steht dem anderen im Weg.",
+              "summary": "Relationship Story Symptom: Hinder",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_28",
+              "appreciation": "Relationship Story Response",
+              "narrative_function": "Help",
+              "throughline": "Relationship Story",
+              "illustration": "Hilfe: Wartung, Schutzmodus — sie helfen einander und verfehlen das Gefühl zwischen ihnen.",
+              "summary": "Relationship Story Response: Help",
+              "storytelling": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position. Herkunft: author, 2026-10-05, B RS focus/direction (Obligation quad, the pair beside Feeling/Logic).",
+              "perspectives": [
+                {
+                  "perspective_id": "persp_relationship_story"
+                }
+              ]
+            },
+            {
+              "id": "sp_29",
               "appreciation": "Main Character Pivotal Element",
               "narrative_function": "Logic",
               "throughline": "Main Character",
@@ -428,7 +512,7 @@
               ]
             },
             {
-              "id": "sp_24",
+              "id": "sp_30",
               "appreciation": "Story Goal",
               "narrative_function": "Obtaining",
               "illustration": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null.",
@@ -441,7 +525,7 @@
               ]
             },
             {
-              "id": "sp_25",
+              "id": "sp_31",
               "appreciation": "Story Requirements",
               "narrative_function": "Doing",
               "illustration": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
@@ -454,7 +538,7 @@
               ]
             },
             {
-              "id": "sp_26",
+              "id": "sp_32",
               "appreciation": "Story Consequence",
               "narrative_function": "Becoming",
               "illustration": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
@@ -467,7 +551,7 @@
               ]
             },
             {
-              "id": "sp_27",
+              "id": "sp_33",
               "appreciation": "Story Forewarnings",
               "narrative_function": "Progress",
               "illustration": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1).",
@@ -480,7 +564,7 @@
               ]
             },
             {
-              "id": "sp_28",
+              "id": "sp_34",
               "appreciation": "Story Costs",
               "narrative_function": "Memory",
               "illustration": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
@@ -493,7 +577,7 @@
               ]
             },
             {
-              "id": "sp_29",
+              "id": "sp_35",
               "appreciation": "Story Dividends",
               "narrative_function": "Understanding",
               "illustration": "AEGIS versteht Kael mit jedem Zug genauer.",
@@ -506,7 +590,7 @@
               ]
             },
             {
-              "id": "sp_30",
+              "id": "sp_36",
               "appreciation": "Story Prerequisites",
               "narrative_function": "Past",
               "illustration": "AEGIS braucht seine eigenen Aufzeichnungen, um sweepen zu können.",
@@ -519,7 +603,7 @@
               ]
             },
             {
-              "id": "sp_31",
+              "id": "sp_37",
               "appreciation": "Story Preconditions",
               "narrative_function": "Conceiving",
               "illustration": "AEGIS darf nur im Rahmen des Protokolls löschen (das Trennungsprotokoll als Regel).",
