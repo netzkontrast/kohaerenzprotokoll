@@ -50,3 +50,37 @@ denn es bekämpft die eigene Heilung.
 - In den Kanon? Nur mit deinem Ja.
 - Was das AEGIS-Ich wissen darf (C14).
 - Ob die Genesis und die Fragmentierungsnacht ein Ereignis sind (W12; die Genesis-Lektüre, Frage 1).
+
+## Runde 2 (2026-10-05): wie AEGIS klingt
+
+Auftrag: „Lass uns weiter darüber diskutieren wie aegis klingt“. Die Pole kommen aus der Sprach-DNA
+(`koharenz-protokoll-sprach-dna-2026-05-13-md.md`, L37). Dort steht: „3. Person personal, nie ‚ich‘“, keine Metapher, kein
+moralisches Vokabular, keine Empfindung, kein Witz, Juna „nie als Subjekt — nur als Wirkung“, und die Stimme „Bricht nur
+einmal, im Vortex-Beat 5“. Der Gegenpol ist deine Wahl in Runde 1 und C14.
+
+- **S1, das Ich:** **Das Ich ist der Riss.** AEGIS protokolliert nominal, ohne Subjekt, etwa „Maßnahme: Re-Containment
+  eskaliert.“ Das Wort „ich“ rutscht hinein, zuerst einmal, dann öfter. So passen C14 und die Regel der Quelle
+  zusammen: Das Ich selbst ist der Fehler.
+- **S2, die Bruchkurve:** **ein Riss je Kapitel, wachsend.**
+  - Kap 0 fällt ins Protokoll.
+  - Kap 6 hat einen Riss.
+  - Kap 16 hat zwei.
+  - Kap 22 bringt den Blitz „Komp 734“ (Genesis-Cluster).
+  - Kap 28 ist der Purge mit Rissen überall.
+  - Kap 35 stottert die Stimme, in Kap 36 erlischt sie.
+  - Gegen die Quelle, die nur einen Bruch kennt: Hier entscheidet deine Wahl.
+- **S3, was eindringt:** drei Dinge.
+  - **ein Gefühlswort**, als Wert ohne Typ, etwa „Schmerz“, „fehlt“, „warm“. Das ist die Lüge „Schmerz ist
+    Inkohärenz“ als Symptom.
+  - **Zahlen, die nicht stimmen**, AEGIS' eigener Fehler, der aussieht wie Kaels.
+  - **Schleifen und Wiederholung**, ein Stottern lange vor Kap 35.
+  - **Nicht gewählt:** die Metapher. Die Regel der Quelle hält hier.
+- **S4, Juna:** **nur als Vektor**, etwa `JUNA_VEKTOR [AXIOMVERLETZUNG]`. Für Kael ist sie eine volle Figur (W0), für
+  AEGIS eine Anomalie, und der Kontrast trägt.
+
+**Status:** Arbeitsstand, kein Kanon, wie Runde 1. Offen bleibt, was das AEGIS-Ich wissen darf (C14).
+
+### Was das für die Übungen heißt
+
+Daraus lässt sich eine Übung in `psychic-distance` oder `prose-rhythm` bauen: ein Absatz in AEGIS' Register mit
+genau einem Riss. Du schreibst, ich lese als kalter Leser.
