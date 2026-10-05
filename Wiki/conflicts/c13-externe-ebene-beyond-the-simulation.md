@@ -86,3 +86,11 @@ It writes the `Externe Ebene` side's name in English and the worldbuilding conce
 **Neither row — the text names the very question this record holds and leaves it open, in English, without Köln 2026 or `Basisrealität`.**
 Juna/V comes from an „External Level" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L25], and „The text deliberately avoids a clear definition." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L27] Its own candidates are a higher dimension of reality, „a different layer of the simulation that AEGIS is unaware of" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L27], or the real world breaking through into the artificial one — the last of which is the row-1 side (beyond the simulation), stated as a live possibility rather than a position taken.
 `Köln`, `Cologne` and `Basisrealität` stand 0 times (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`), so this speaks to the External Level Juna/V is from rather than naming Köln 2026 itself. On neither row: the document states the question C13 asks rather than answering it. The conflict stays open.
+
+## 2026-10-05 — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report
+
+**The editor's report gives Juna a connection to a postulated Externen Ebene that lies beyond the simulation's logic.**
+
+The sentence, which ends in reference 1 and so reports the plot document: „authentische Verbindung, nicht-quantifizierbare Emotionen und eine Verbindung zu einer postulierten“ ^[scifi-roman-mit-ki-schreiben.md:L184] „Externen Ebene“ ^[scifi-roman-mit-ki-schreiben.md:L184], which in the same sentence is placed beyond the logic of the simulation.
+
+In the record's terms the report stands with a level reported beyond the simulation's logic; it says nothing of whether the level is outside the simulation, and decides nothing.
