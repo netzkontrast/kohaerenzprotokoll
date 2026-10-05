@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -70,6 +70,14 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Juna: „In einem Moment extremer Erschöpfung greift der Moonshine-Link erneut.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120] · „Juna übermittelt keine Worte, sondern eine topologische Koordinate, tief verborgen in Kernwelt 2.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
 - Physics: „Die Übertragung ist ein reines ER=EPR-Phänomen; der Raum um Kael stülpt sich kurzzeitig nach innen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
 - What it establishes: „aber sie zwingt Kael, die schützende Logik von Lex aufzugeben und in die Unvorhersehbarkeit hinabzusteigen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
+
+## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
+
+Title: „The Curator“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L194]
+Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L154]), POV „B (Mnemosyne)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]
+
+- Story: the outline places: „aus der Sicht des Speicher-Wächters“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]; „er versucht, das Trauma sauber zu archivieren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]; „Cache-Kohärenz wahren“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L196]
+- Foreshadowing level 3 lists „Die Zahl 734 (Kap 2, Kap 10, Kap 25)“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L358].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
