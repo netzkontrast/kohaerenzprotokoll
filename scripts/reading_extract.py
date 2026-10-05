@@ -56,7 +56,9 @@ def stands(doc: Document, name: str) -> bool:
 # line that ends in a colon unless it opens with a chapter label (`**Kap 38:**` heads its beats in
 # koharenz-protokoll-konzept-iteration-genesis-md) — a field label such as `**Encoding Storyform A — „…":**` with its values beneath
 # (kohaerenz-protokoll-kapitel-outline-erstellung, 2026-10-05: 22 cards refused while it counted as one).
-HEADING = re.compile(r"^\s*(#{1,6}\s|\*\*(?:(?:Kap(?:itel)?\.?|Chapter)\s*\d+.*|[^*].*(?<![:：]))\*\*\s*$|(?:Kap(?:itel)?\.?|Chapter)\s*\d+\b.{0,80}$)")
+# One list item is a heading: an item that is nothing but a bold chapter label, its scenes nested beneath
+# (`1.  **Chapter 14: Mnemosyne's Archipelago …**` in ai-assisted-narrative-coherence, 2026-10-05).
+HEADING = re.compile(r"^\s*(#{1,6}\s|\*\*(?:(?:Kap(?:itel)?\.?|Chapter)\s*\d+.*|[^*].*(?<![:：]))\*\*\s*$|(?:Kap(?:itel)?\.?|Chapter)\s*\d+\b.{0,80}$|(?:\d+\.|[-*])\s+\*\*(?:Kap(?:itel)?\.?|Chapter)\s*\d+[^*]*\*\*\s*$)")
 
 
 def heading_scoped(template: Path) -> bool:
@@ -318,6 +320,8 @@ def selftest() -> int:
         checks.append(("a bold field label ending in a colon is not a heading", not HEADING.match('**Encoding Storyform A — „Heuristics":**')))
         checks.append(("a bold line alone is still a heading", bool(HEADING.match("**Kapitel 3 — A Fissure**"))))
         checks.append(("a bold chapter label ending in a colon is a heading", bool(HEADING.match("**Kap 38:**"))))
+        checks.append(("a list item that is only a bold chapter label is a heading", bool(HEADING.match("1.  **Chapter 14: Mnemosyne's Archipelago**"))))
+        checks.append(("a list item with a bold label and text after it is not", not HEADING.match("- **Kap 3:** Kael erwacht.")))
         labelled = "### Kapitel 3 — X\n\n**Encoding Storyform A:**\n\n  - Driver: Lex entscheidet.\n### Kapitel 4 — Y\n"
         ltext = p / "labelled.md"; ltext.write_text("---\ntitle: Labelled\n---\n" + labelled, encoding="utf-8")
         ldoc = Document("labelled", "labelled", "2026-10-05", "md", "", ltext, labelled, 4)
