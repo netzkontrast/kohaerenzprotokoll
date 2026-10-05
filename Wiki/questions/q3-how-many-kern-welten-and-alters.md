@@ -391,3 +391,11 @@ Stands as four worlds and six named parts in two camps, the pitch's own listing;
 The worlds: „Die vier Kernwelten sind von AEGIS geschaffene, kontrollierte Simulationen, die als Labore zur Analyse von M/Kael dienen“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L119] (L119; also L70). The parts: it names `Alters` without a number (L87), and the Plotanalyse's own IFS reading sorts them as Manager, Firefighter and Exiles, mapping KW1 to KW4 onto types of part: „AEGIS' Kernwelten könnten als Versuch interpretiert werden, diese Teile künstlich zu trennen und zu studieren“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L93] (L93).
 
 Stands as four worlds, parts unnumbered, and a correspondence the report offers only as an interpretation of the IFS model.
+
+## 2026-10-05 — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon
+
+**The Struktur-Kanon sets exactly 13 alters, all in first person, and ties the acts to KW1, KW2–3 and KW4.**
+
+Appendix B: „Exakt 13. Alle in 1. Person POV.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L626] (L626); the list runs L630–L667, and the Kanon marks fifteen names as no longer to be used: „Dekanonisiert (nicht mehr verwenden)“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L675] (L675). The acts: „Akt I (KW1, Kap 1–13)“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L596], „Akt II (KW2–3, Kap 14–26)“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L604], „Akt III (KW4, Kap 27–39)“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L612] (L596, L604, L612). It states no rule that one world is one alter; the 13 and the four worlds KW1 to KW4 are not mapped to each other in these lines.
+
+Where it stands in the record's own terms: a count of alters (13) and a tie of acts to worlds, in the Kanon's appendices; the correspondence stays unanswered by it.
