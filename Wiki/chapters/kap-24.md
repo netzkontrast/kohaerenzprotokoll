@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 18
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+sources: 19
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
 records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
@@ -45,6 +45,14 @@ Position: Teil II, „Geist ist Code“ ^[romanstruktur-und-philosophische-einle
 
 - Story: „Ein Gedanke ist ein Befehl. Ein Gefühl ist ein Algorithmus.“ ^[romanstruktur-und-philosophische-einleitung.md:L202]
 - Story: „Er kann Empathie, Trauer oder Hoffnung als Virus in den Kerncode einschleusen.“ ^[romanstruktur-und-philosophische-einleitung.md:L204]
+
+## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Übergriff
+
+Title: „Der Übergriff“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L246]
+Position: Teil II; setting from the `Schauplatz` field: „Kaels interner Gedankenraum“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L248]
+
+- Cast: the `Charaktere/Linsen` field lists „Kael (alle Alters), AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L249]
+- Story: the blueprint plans, in `Plot-Beats`, „Aus Verzweiflung durchbricht AEGIS die Avatar-Ebene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L251] and „Ein brutaler Krieg um die narrative Vorherrschaft im eigenen Verstand beginnt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L251]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
