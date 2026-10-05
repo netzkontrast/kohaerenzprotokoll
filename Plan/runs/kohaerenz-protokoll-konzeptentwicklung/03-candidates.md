@@ -1,0 +1,90 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+## world
+- Kohärenz Protokoll
+- P+39
+- System Kael
+- Kael
+- AEGIS
+- Fehlausgerichteten Kohärenz
+- Fehlausgerichtete Kohärenz
+- AEGIS Paradoxon
+- Kernparadoxon
+- Kernparadoxons
+- Konstrukt-Welten
+- KW1
+- KW2
+- KW3
+- KW4
+- KWs
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Überwelt
+- Fundament
+- Juna/V
+- Echo
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Schwellenhüter
+- Host
+- Lex
+- Alex
+- Rhys
+- Argus
+- Selene
+- Kiko
+- Lia
+- Moros
+- Nyx
+- ANPs
+- EPs
+- Apparently Normal Parts
+- Emotional Parts
+- Glitches
+- Risse
+- Riss
+- Nichts Rauschen
+- Inneres Konferenzzimmer
+- funktionaler Multiplizität
+- funktionale Multiplizität
+- Achillesferse
+- Prolog
+- Kael Integration
+- Kael Integration (TSDP)
+- Juna/V & Fundament
+
+## lens
+- TSDP
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- Simulation Hypothesis
+- Realitätskonstruktion
+- Zweite-Ordnung-Kybernetik
+- Autopoiesis
+- operative Schließung
+- AI Alignment
+- Persönliche Identität
+- Panoptismus
+- Gaslighting
+- Unreliable Narrator
+- Cosmic Horror
+- Heroine's Journey
+- Threshold Guardian
+- Locke
+- Hume
+- Parfit
+- Bostrom
+- Gödel
+- Sartre
+- Luhmann
+- Maturana/Varela
+- Kuhn
+- Levinas
+- Popper
+
+The document is a chapter-by-chapter concept plan (Teil 1 overview, Teil 2 one block per chapter Prolog to Ch39, each with „Central Conceptual Focus", „Wie/Was", „Wirkung", „Research & Concept Application" and „Recherche-Keywords"). Those four repeated labels are template fields, not terms. The footnote numbers are glued to words and the numbered Referenzen list (L524 to L579) is a list of web sources; cited works are left out. The backticked empty pairs in the body are export damage where a reference was dropped. Part names (Lex, Alex, Rhys, Argus, Selene, Kiko, Lia, Moros, Nyx) appear with question marks as proposals in the plan, so some stand only inside questions. The document writes KW1 to KW4 and Ch1 to Ch39 with plain digits; Kap-style forms do not occur. Trope names in the Recherche-Keywords lines (Hope Spot Trope and the like) are left out as ordinary genre vocabulary.

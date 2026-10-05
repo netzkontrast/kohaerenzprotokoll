@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 96 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 96 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 97 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 97 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -366,7 +366,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [2 „Kohärenz Protokoll" Konzeptentwicklung](drive/2-kohaerenz-protokoll-konzeptentwicklung.md) | 2025-05-03 | 9,762 | **read** | Argus 12, Alex 16, Cerberus 13, Rhys 15, Mnemosyne 14, LogOS 12, Selene 11, TSDP 47 | Cosmicism 4, Second-order_cybernetics 10, OSDD 5, SOC 2, Simulation_hypothesis 9 |
 | [Kohärenz Protokoll: Gesamtkonzept-Entwicklung](drive/kohaerenz-protokoll-gesamtkonzept-entwicklung.md) | 2025-05-04 | 7,400 |  | Argus 15, Cerberus 16, Mnemosyne 18, Realitätsebenen 4, Alex 8, LogOS 11, Rhys 9, Selene 10 | Schwellenhüter 3, Camus 4, Levinas 4, AEGIS-Paradoxon 7, Existentialism 5 |
 | [Kohärenz Protokoll: Inkubation X](drive/kohaerenz-protokoll-inkubation-x.md) | 2025-05-04 | 7,652 |  | Nichts-Rauschen 3, Emergenz† 9, TSDP 3, Überwelt 25, Risse 20, Kohärenz 19, Kael 33, AEGIS 79 | Bran 18, GNW 6, BCI 7, Brain-Computer Interfaces 6, Wurmloch 9 |
-| ["Kohärenz Protokoll" Konzeptentwicklung](drive/kohaerenz-protokoll-konzeptentwicklung.md) | 2025-05-04 | 8,724 |  | Argus 13, Alex 13, Cerberus 9, Mnemosyne 14, Selene 14, Rhys 12, Guardians 16, Sophia 4 | Parfit 12, Locke 10, Hume 8, Simulation_hypothesis 9, Zweite-Ordnung-Kybernetik 3 |
+| ["Kohärenz Protokoll" Konzeptentwicklung](drive/kohaerenz-protokoll-konzeptentwicklung.md) | 2025-05-04 | 8,724 | **read** | Argus 13, Alex 13, Cerberus 9, Mnemosyne 14, Selene 14, Rhys 12, Guardians 16, Sophia 4 | Parfit 12, Locke 10, Hume 8, Simulation_hypothesis 9, Zweite-Ordnung-Kybernetik 3 |
 | [Kohärenz Prozess](drive/kohaerenz-prozess.md) | 2025-05-05 | 8,071 |  | Partnerin 11, Moros 10, Multiplizität 6, TSDP 18, Selene 4, Alex 3, Argus 2, DID 2 | Album 28, PCT 5, Agency-System 6, Complex PTSD 6, Polyvagal-Theorie 3 |
 | [: Kohärenz Prozess Grundlagen](drive/kohaerenz-prozess-grundlagen.md) | 2025-05-05 | 7,506 |  | Partnerin 12, Alex 14, Selene 16, Rhys 13, Moros 8, Isabelle 3, TSDP 40, Lia 3 | PCT 24, Album 36, Polyvagal 6, Agency-System 10, Netzwerktheorie 9 |
 | [Kohärenz Protokoll: Analyse und Synthese](drive/kohaerenz-protokoll-analyse-und-synthese.md) | 2025-07-29 | 5,828 |  | Gödel-Gambit 3, Multiplizität 6, Moonshine-Link 4, Algorithmische Melancholie 2, Lex 5, Nichts-Rauschen 2, Nyx 4, Kiko 3 | Ergodic 13, Verstärkungslernen 4, Strange Attractors 6, Deleuze 4, Nonlocality 4 |

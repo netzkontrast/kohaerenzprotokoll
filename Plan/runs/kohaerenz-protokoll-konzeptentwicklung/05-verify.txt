@@ -1,0 +1,164 @@
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Central Conceptual Focus"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Central Conceptual Focus` ^[kohaerenz-protokoll-konzeptentwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Narrative & Reader Psychology Strategy"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Narrative & Reader Psychology Strategy` ^[kohaerenz-protokoll-konzeptentwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Wie/Was"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Wie/Was` ^[kohaerenz-protokoll-konzeptentwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Wirkung"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Wirkung` ^[kohaerenz-protokoll-konzeptentwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Research & Concept Application"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Research & Concept Application` ^[kohaerenz-protokoll-konzeptentwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Recherche-Keywords"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Recherche-Keywords` ^[kohaerenz-protokoll-konzeptentwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Gesamter Inhalt dieses Abschnitts"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Gesamter Inhalt dieses Abschnitts` ^[kohaerenz-protokoll-konzeptentwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Zugriff am Mai 4, 2025"
+whole word, case-sensitive     56
+whole word, case-insensitive   56
+including compounds            56
+
+`Zugriff am Mai 4, 2025` ^[kohaerenz-protokoll-konzeptentwicklung.md:#56]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Chapter"
+whole word, case-sensitive     41
+whole word, case-insensitive   41
+including compounds            41
+
+`Chapter` ^[kohaerenz-protokoll-konzeptentwicklung.md:#41]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "?"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            82
+
+`?` ^[kohaerenz-protokoll-konzeptentwicklung.md:#8]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Echo"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`Echo` ^[kohaerenz-protokoll-konzeptentwicklung.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Echos"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Echos` ^[kohaerenz-protokoll-konzeptentwicklung.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Lens"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Lens` ^[kohaerenz-protokoll-konzeptentwicklung.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Fehlausgerichteten Kohärenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Fehlausgerichteten Kohärenz` ^[kohaerenz-protokoll-konzeptentwicklung.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Fehlausgerichtete Kohärenz` ^[kohaerenz-protokoll-konzeptentwicklung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "AEGIS Paradoxon"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`AEGIS Paradoxon` ^[kohaerenz-protokoll-konzeptentwicklung.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Paradoxon"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            29
+
+`Paradoxon` ^[kohaerenz-protokoll-konzeptentwicklung.md:#18]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Kael Integration"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Kael Integration` ^[kohaerenz-protokoll-konzeptentwicklung.md:#25]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Selene"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Selene` ^[kohaerenz-protokoll-konzeptentwicklung.md:#14]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Guardians"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Guardians` ^[kohaerenz-protokoll-konzeptentwicklung.md:#16]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Überwelt"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Überwelt` ^[kohaerenz-protokoll-konzeptentwicklung.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Juna/V"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            38
+
+`Juna/V` ^[kohaerenz-protokoll-konzeptentwicklung.md:#36]
+
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptentwicklung --count "Fundament"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            21
+
+`Fundament` ^[kohaerenz-protokoll-konzeptentwicklung.md:#16]
+
+# 6 template fields x 40 = 240 (stance_marker_count)
+$ python3 scripts/profile.py kohaerenz-protokoll-konzeptentwicklung (426 backslash escapes, 91 glued, 82 question marks, 62 ascii quotes)
+$ grep -n '?' Sources/drive/kohaerenz-protokoll-konzeptentwicklung.md  -> lines incl. 525 536 551 556 576 577 (reference titles)

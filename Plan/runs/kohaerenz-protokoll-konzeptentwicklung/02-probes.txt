@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      91
+  backslash escapes      426
+  typographic marks      12
+  ascii quotes           62
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEMS, System, Systemanalyse, Systemdynamiken, Systeme, Systemen, Systemfehler, Systemic, Systeminstabilität, Systemische, Systemkollapses, Systemlogik, Systems, Systemstruktur, Systemtheorie
+  kontr    Kontrast, Kontrolle, Kontrollmechanismen, Kontrollobjekt, Kontrollstrategie, Kontrollsystem, Kontrollverlusts, Kontrollversuch, Kontrollversuche
+  psych    Psych, Psychological, Psychologie, Psychologischem, Psychologischer, Psychologisches, Psychology, Psychotraumatologie
+  reali    Realism, Realistische, Reality, Realität, Realitäten, Realitätsebene, Realitätskonstruktion, Realitätszweifel
+  ident    Identification, Identifikation, Identity, Identität, Identitätsfragen, Identitätskrise, Identitätstheorien
+  intro    Intro, Introduction, Introspection, Introspective, Introspektion, Introspektiver, Introspektives
+  poten    Potential, Potentialis, Potentiality, Potentialität, Potenzial, Potenzials, Potenzielle
+  selbs    Selbst, Selbstbeobachtung, Selbstorganisation, Selbsttäuschung, Selbstverteidigung, Selbstzerstörung, Selbstzweifel
+  emoti    Emotion, Emotional, Emotionale, Emotionalität, Emotionen, Emotionsanalyse
+  disso    Dissociation, Dissonance, Dissonanz, Dissoziation, Dissoziationsforschung
+  erken    Erkennen, Erkenntnis, Erkenntnisse, Erkenntnistheoretische, Erkenntnistheorie
+  exist    Existential, Existentialism, Existentialismus, Existenz, Existenzielle
+  inter    Interaktion, Interesse, Internal, Interne, Intervention
+  parad    Paradigm, Paradox, Paradoxien, Paradoxon, Paradoxons
+  perso    Personal, PersonalIdentity, Personality, Personifizieren, Persons
+  philo    Philosophical, Philosophie, Philosophische, Philosophischer, Philosophy
+  strat    Strategic, Strategie, Strategien, Strategische, Strategy
+  überl    Überleben, Überlebenskampf, Überlebensstrategien, Überlegenheit, Überlisten
+  überw    Überwachung, Überwelt, Überwinden, Überwindung, Überwältigung
+  abweh    Abwehr, Abwehrhaltung, Abwehrmechanismen, Abwehrsystems
+  angst    Angst, Angstbewältigung, Angstbewältigungsstrategien, Angstkonfrontation
+  archi    Archipel, Architecture, Architektur, Archive
+  bewus    Bewusste, Bewusstsein, Bewusstseins, Bewusstwerdung
+  conce    Concept, Concepts, Conceptual, Concernment
+  dialo    Dialog, Dialoge, Dialogphilosophie, Dialogue
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Akteur
+  Akte < Charakter
+  Akte < Charaktere
+  Böse < Bösen
+  Care < Career
+  Care < Caregiver
+  Core < Score
+  Dies < Diese
+  Dies < Dieses
+  Down < Breakdown
+  Earn < Learning
+  Eine < Erscheinen
+  Eine < Meilensteine
+  Ende < Wende
+  Ende < Wendepunkt
+  Ende < Einleitendes
+  Ende < Transzendenz
+  Ende < Entscheidende
+  Ende < Transcendence
+  Evil < Devil

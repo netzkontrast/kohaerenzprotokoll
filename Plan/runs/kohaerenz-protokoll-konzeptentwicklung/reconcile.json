@@ -1,0 +1,127 @@
+{
+  "document": "kohaerenz-protokoll-konzeptentwicklung",
+  "drive_id": "1icDtMmuqKf7-xoIllTpFJlnV3ERaEMGPA7_4ZQ4z2F8",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; third in the queue re-ranked after document 95; read then as a light pass, being the condensed rework of document 97 of the day before; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-98/brief.md, on the pages where it differs",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 83,
+    "decisions": 94,
+    "decided_by_lookup": 62,
+    "needs_judgement": 32
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: the condensed rework of document 97 — the same premise, chapter titles and fields, each chapter at most 220 words — whose 39 new surfaces are the same method vocabulary, borrowed concepts and philosophers (Locke, Hume, Parfit, Bostrom, Luhmann, Maturana/Varela, Kuhn, Levinas, Popper); nothing names a thing of the novel's world that has no page.",
+  "new_readings": [
+    {
+      "page": "juna",
+      "lines": [
+        34,
+        61,
+        193,
+        283,
+        287
+      ],
+      "attribution": "",
+      "note": "Juna/V from Chapter 11, with question marks kept"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        35
+      ],
+      "attribution": "",
+      "note": "Kael written female again, and the Heroine's Journey"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C7",
+    "C16",
+    "C17"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "as for document 97 — J9 (the title), J12 and J16 (compounds with their own sense: Fehlausgerichtete Kohärenz, AEGIS Paradoxon, Kernparadoxon, System Kael, Kael Integration, Juna/V & Fundament), J34 (Juna/V), J49 (worlds named for their Guardians), J56 and J23 (plurals and inflections: Risse/Riss, Kernparadoxons, funktionaler Multiplizität); `Echo` is the original whole, not the residual echoes; `Simulation Hypothesis` and `Gödel` borrowed, not pages",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 12,
+      "decision": "reading",
+      "why": "light pass: the next day's condensed rework of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 289,
+      "decision": "reading",
+      "why": "light pass: the next day's condensed rework of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "externe-ebene",
+      "surface": "Externe Ebene",
+      "line": 508,
+      "decision": "reading",
+      "why": "light pass: the next day's condensed rework of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 55,
+      "decision": "reading",
+      "why": "light pass: the next day's condensed rework of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "grenzfeste",
+      "surface": "Grenzfeste",
+      "line": 161,
+      "decision": "reading",
+      "why": "light pass: the next day's condensed rework of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 13,
+      "decision": "reading",
+      "why": "`Juna/V`; read on juna with L34, L61, L193"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 13,
+      "decision": "reading",
+      "why": "light pass: the next day's condensed rework of document 97, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "everything document 97 left unpromoted, again — its role labels, TSDP vocabulary, Fundament and borrowed concepts (see reconciliation 97)",
+    "Schwellenhüter, the plan's word for the Guardians (L33) — beside guardians, not read in this light pass",
+    "Inneres Konferenzzimmer, Achillesferse — trope and plan labels"
+  ],
+  "internal_tension": "none read; the chapter blocks keep document 97's hedges",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

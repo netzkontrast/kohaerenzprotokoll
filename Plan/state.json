@@ -11,15 +11,15 @@
       "how": "`## Reading` sections across the chapter pages, one per document per chapter"
     },
     "documents.reconciled": {
-      "value": 96,
+      "value": 97,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 96,
+      "value": 97,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 96,
+      "value": 97,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -39,19 +39,19 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 6485,
+      "value": 6489,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 12984,
+      "value": 12993,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 12984,
+      "value": 12993,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 227,
+      "value": 228,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
@@ -107,7 +107,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 31101,
+      "value": 31159,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -183,7 +183,7 @@
       "how": "landed files that do not open with the eight lines of provenance"
     },
     "sweep.decided": {
-      "value": 343,
+      "value": 351,
       "how": "sweep hits recorded in Plan/runs/sweep.jsonl as a reading or an occurrence"
     },
     "sweep.open": {
@@ -191,7 +191,7 @@
       "how": "sweep hits in read documents that no reading and no ledger row settles \u2014 decision 012"
     },
     "sweep.readings": {
-      "value": 217,
+      "value": 224,
       "how": "of those, readings the lookup had missed, now on their pages"
     },
     "trainset.fold_baseline_pct": {
@@ -199,7 +199,7 @@
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 98,
+      "value": 99,
       "how": "candidate lists scripts/gold.py rules gold (decision 009)"
     },
     "trainset.surface_pairs": {
