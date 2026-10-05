@@ -1,7 +1,7 @@
 {
  "at": "2026-10-05",
  "pages": 106,
- "read_documents": 90,
+ "read_documents": 92,
  "per_page": {
   "aegis-metriken": {
    "named_in": 1,
@@ -42,10 +42,10 @@
   },
   "aegis": {
    "named_in": 492,
-   "read_on": 84,
+   "read_on": 86,
    "read_not_on": 2,
-   "unread": 406,
-   "coverage": 0.171,
+   "unread": 404,
+   "coverage": 0.175,
    "unread_top": [
     [
      "aegis-singularitaet-jenseits-entropiegleichung-2",
@@ -72,8 +72,8 @@
   "alex": {
    "named_in": 157,
    "read_on": 41,
-   "read_not_on": 5,
-   "unread": 110,
+   "read_not_on": 7,
+   "unread": 108,
    "coverage": 0.261,
    "unread_top": [
     [
@@ -192,8 +192,8 @@
   "argus": {
    "named_in": 127,
    "read_on": 41,
-   "read_not_on": 3,
-   "unread": 84,
+   "read_not_on": 5,
+   "unread": 82,
    "coverage": 0.323,
    "unread_top": [
     [
@@ -279,8 +279,8 @@
   "cerberus": {
    "named_in": 150,
    "read_on": 38,
-   "read_not_on": 5,
-   "unread": 110,
+   "read_not_on": 7,
+   "unread": 108,
    "coverage": 0.253,
    "unread_top": [
     [
@@ -428,7 +428,7 @@
    "named_in": 222,
    "read_on": 26,
    "read_not_on": 0,
-   "unread": 187,
+   "unread": 185,
    "coverage": 0.117,
    "unread_top": [
     [
@@ -486,7 +486,7 @@
    "named_in": 269,
    "read_on": 57,
    "read_not_on": 1,
-   "unread": 214,
+   "unread": 212,
    "coverage": 0.212,
    "unread_top": [
     [
@@ -556,8 +556,8 @@
   "externe-ebene": {
    "named_in": 74,
    "read_on": 28,
-   "read_not_on": 3,
-   "unread": 52,
+   "read_not_on": 4,
+   "unread": 51,
    "coverage": 0.378,
    "unread_top": [
     [
@@ -609,8 +609,8 @@
   "genesis": {
    "named_in": 146,
    "read_on": 55,
-   "read_not_on": 1,
-   "unread": 103,
+   "read_not_on": 3,
+   "unread": 101,
    "coverage": 0.377,
    "unread_top": [
     [
@@ -668,7 +668,7 @@
    "named_in": 69,
    "read_on": 19,
    "read_not_on": 0,
-   "unread": 52,
+   "unread": 50,
    "coverage": 0.275,
    "unread_top": [
     [
@@ -725,8 +725,8 @@
   "guardians": {
    "named_in": 208,
    "read_on": 58,
-   "read_not_on": 1,
-   "unread": 155,
+   "read_not_on": 3,
+   "unread": 153,
    "coverage": 0.279,
    "unread_top": [
     [
@@ -790,10 +790,10 @@
   },
   "juna": {
    "named_in": 420,
-   "read_on": 71,
+   "read_on": 73,
    "read_not_on": 3,
-   "unread": 348,
-   "coverage": 0.169,
+   "unread": 346,
+   "coverage": 0.174,
    "unread_top": [
     [
      "juna-resilienz-zyklus-konzeptentwicklung",
@@ -861,8 +861,8 @@
   "kael": {
    "named_in": 481,
    "read_on": 79,
-   "read_not_on": 4,
-   "unread": 399,
+   "read_not_on": 6,
+   "unread": 397,
    "coverage": 0.164,
    "unread_top": [
     [
@@ -874,16 +874,16 @@
      172
     ],
     [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     169
-    ],
-    [
      "kohaerenz-protokoll-scene-by-scene-outline",
      167
     ],
     [
      "romanplot-kohaerenz-protokoll-entwicklung",
      161
+    ],
+    [
+     "kohaerenz-protokoll-plot-blueprint-erstellung",
+     158
     ]
    ]
   },
@@ -919,8 +919,8 @@
   "kairos": {
    "named_in": 130,
    "read_on": 32,
-   "read_not_on": 6,
-   "unread": 94,
+   "read_not_on": 8,
+   "unread": 92,
    "coverage": 0.246,
    "unread_top": [
     [
@@ -977,8 +977,8 @@
   "kiko": {
    "named_in": 241,
    "read_on": 51,
-   "read_not_on": 5,
-   "unread": 186,
+   "read_not_on": 7,
+   "unread": 184,
    "coverage": 0.212,
    "unread_top": [
     [
@@ -1082,7 +1082,7 @@
    "named_in": 516,
    "read_on": 27,
    "read_not_on": 4,
-   "unread": 436,
+   "unread": 434,
    "coverage": 0.052,
    "unread_top": [
     [
@@ -1117,10 +1117,10 @@
   },
   "komponente-734": {
    "named_in": 54,
-   "read_on": 45,
-   "read_not_on": 0,
-   "unread": 25,
-   "coverage": 0.833,
+   "read_on": 46,
+   "read_not_on": 1,
+   "unread": 23,
+   "coverage": 0.852,
    "unread_top": [
     [
      "genesis-ein-implementierungsleitfaden-prosa-version",
@@ -1147,8 +1147,8 @@
   "konstrukt-stadt": {
    "named_in": 134,
    "read_on": 50,
-   "read_not_on": 0,
-   "unread": 93,
+   "read_not_on": 1,
+   "unread": 92,
    "coverage": 0.373,
    "unread_top": [
     [
@@ -1184,8 +1184,8 @@
   "lex": {
    "named_in": 259,
    "read_on": 54,
-   "read_not_on": 5,
-   "unread": 202,
+   "read_not_on": 7,
+   "unread": 200,
    "coverage": 0.208,
    "unread_top": [
     [
@@ -1213,8 +1213,8 @@
   "lia": {
    "named_in": 141,
    "read_on": 45,
-   "read_not_on": 6,
-   "unread": 91,
+   "read_not_on": 8,
+   "unread": 89,
    "coverage": 0.319,
    "unread_top": [
     [
@@ -1242,8 +1242,8 @@
   "logos": {
    "named_in": 170,
    "read_on": 43,
-   "read_not_on": 5,
-   "unread": 124,
+   "read_not_on": 7,
+   "unread": 122,
    "coverage": 0.253,
    "unread_top": [
     [
@@ -1279,20 +1279,12 @@
   "mnemosyne": {
    "named_in": 174,
    "read_on": 51,
-   "read_not_on": 4,
-   "unread": 121,
+   "read_not_on": 6,
+   "unread": 119,
    "coverage": 0.293,
    "unread_top": [
     [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     20
-    ],
-    [
      "kohaerenz-protokoll-plot-blueprint-erstellung",
-     19
-    ],
-    [
-     "outline-3",
      19
     ],
     [
@@ -1302,6 +1294,14 @@
     [
      "kohaerenz-protokoll-konzeptentwicklung",
      15
+    ],
+    [
+     "digitale-uberwelt",
+     14
+    ],
+    [
+     "2-kohaerenz-protokoll-konzeptentwicklung",
+     14
     ]
    ]
   },
@@ -1366,8 +1366,8 @@
   "moros": {
    "named_in": 161,
    "read_on": 43,
-   "read_not_on": 6,
-   "unread": 113,
+   "read_not_on": 8,
+   "unread": 111,
    "coverage": 0.267,
    "unread_top": [
     [
@@ -1424,8 +1424,8 @@
   "multiplizitaet": {
    "named_in": 207,
    "read_on": 58,
-   "read_not_on": 4,
-   "unread": 158,
+   "read_not_on": 6,
+   "unread": 156,
    "coverage": 0.28,
    "unread_top": [
     [
@@ -1548,8 +1548,8 @@
   "nyx": {
    "named_in": 258,
    "read_on": 52,
-   "read_not_on": 6,
-   "unread": 201,
+   "read_not_on": 8,
+   "unread": 199,
    "coverage": 0.202,
    "unread_top": [
     [
@@ -1753,7 +1753,7 @@
    "named_in": 94,
    "read_on": 10,
    "read_not_on": 0,
-   "unread": 79,
+   "unread": 78,
    "coverage": 0.106,
    "unread_top": [
     [
@@ -1790,7 +1790,7 @@
    "named_in": 61,
    "read_on": 22,
    "read_not_on": 0,
-   "unread": 47,
+   "unread": 45,
    "coverage": 0.361,
    "unread_top": [
     [
@@ -1818,8 +1818,8 @@
   "rhys": {
    "named_in": 171,
    "read_on": 38,
-   "read_not_on": 6,
-   "unread": 128,
+   "read_not_on": 8,
+   "unread": 126,
    "coverage": 0.222,
    "unread_top": [
     [
@@ -1847,8 +1847,8 @@
   "risse": {
    "named_in": 386,
    "read_on": 64,
-   "read_not_on": 5,
-   "unread": 324,
+   "read_not_on": 7,
+   "unread": 322,
    "coverage": 0.166,
    "unread_top": [
     [
@@ -1921,8 +1921,8 @@
   "selene": {
    "named_in": 180,
    "read_on": 46,
-   "read_not_on": 5,
-   "unread": 130,
+   "read_not_on": 7,
+   "unread": 128,
    "coverage": 0.256,
    "unread_top": [
     [
@@ -1987,8 +1987,8 @@
   "sophia": {
    "named_in": 118,
    "read_on": 30,
-   "read_not_on": 6,
-   "unread": 82,
+   "read_not_on": 8,
+   "unread": 80,
    "coverage": 0.254,
    "unread_top": [
     [
@@ -2115,8 +2115,8 @@
   "tsdp": {
    "named_in": 266,
    "read_on": 53,
-   "read_not_on": 0,
-   "unread": 220,
+   "read_not_on": 1,
+   "unread": 219,
    "coverage": 0.199,
    "unread_top": [
     [
@@ -2173,8 +2173,8 @@
   "ueberwelt": {
    "named_in": 384,
    "read_on": 42,
-   "read_not_on": 9,
-   "unread": 314,
+   "read_not_on": 11,
+   "unread": 312,
    "coverage": 0.109,
    "unread_top": [
     [
@@ -2817,22 +2817,6 @@
      ]
     ],
     [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     [
-      "aegis",
-      "kael",
-      "komponente-734"
-     ]
-    ],
-    [
-     "outline-3",
-     [
-      "aegis",
-      "kael",
-      "komponente-734"
-     ]
-    ],
-    [
      "narrative-blueprint-the-coherence-protocol",
      [
       "aegis",
@@ -2862,6 +2846,22 @@
       "aegis",
       "kael",
       "trennungsprotokoll"
+     ]
+    ],
+    [
+     "prosaversion-von-genesis-erstellen",
+     [
+      "aegis",
+      "kael",
+      "komponente-734"
+     ]
+    ],
+    [
+     "genesis-logik-krise-zerstueckelung",
+     [
+      "aegis",
+      "kael",
+      "komponente-734"
      ]
     ]
    ]
@@ -4083,29 +4083,6 @@
      ]
     ],
     [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     [
-      "aegis",
-      "alex",
-      "argus",
-      "cerberus",
-      "externe-ebene",
-      "grenzfeste",
-      "guardians",
-      "juna",
-      "kael",
-      "kiko",
-      "konstrukt-stadt",
-      "logos",
-      "mnemosyne",
-      "moros",
-      "resonanz-landschaft",
-      "rhys",
-      "selene",
-      "ueberwelt"
-     ]
-    ],
-    [
      "lokalitaeten-konzept-fuer-roman-simulation",
      [
       "aegis",
@@ -4210,28 +4187,6 @@
       "mnemosyne",
       "moros",
       "realitaetsebenen",
-      "rhys",
-      "selene",
-      "ueberwelt"
-     ]
-    ],
-    [
-     "outline-3",
-     [
-      "aegis",
-      "alex",
-      "argus",
-      "cerberus",
-      "grenzfeste",
-      "guardians",
-      "juna",
-      "kael",
-      "kiko",
-      "logos",
-      "mnemosyne",
-      "moros",
-      "realitaetsebenen",
-      "resonanz-landschaft",
       "rhys",
       "selene",
       "ueberwelt"
@@ -4368,6 +4323,50 @@
       "selene",
       "ueberwelt"
      ]
+    ],
+    [
+     "kohaerenz-protokoll-narrative-architektur-2",
+     [
+      "aegis",
+      "alex",
+      "argus",
+      "cerberus",
+      "grenzfeste",
+      "juna",
+      "kael",
+      "kiko",
+      "konstrukt-stadt",
+      "logos",
+      "mnemosyne",
+      "moeglichkeits-garten",
+      "moros",
+      "resonanz-landschaft",
+      "rhys",
+      "selene",
+      "ueberwelt"
+     ]
+    ],
+    [
+     "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
+     [
+      "aegis",
+      "alex",
+      "alters",
+      "argus",
+      "cerberus",
+      "externe-ebene",
+      "grenzfeste",
+      "guardians",
+      "juna",
+      "kael",
+      "kiko",
+      "konstrukt-stadt",
+      "logos",
+      "mnemosyne",
+      "resonanz-landschaft",
+      "rhys",
+      "ueberwelt"
+     ]
     ]
    ]
   },
@@ -4428,32 +4427,6 @@
     ],
     [
      "roman-outline-1-13-fuer-kohaerenz-protokoll",
-     [
-      "aegis",
-      "alex",
-      "genesis",
-      "grenzfeste",
-      "guardians",
-      "kael",
-      "mnemosyne",
-      "selene"
-     ]
-    ],
-    [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     [
-      "aegis",
-      "alex",
-      "genesis",
-      "grenzfeste",
-      "guardians",
-      "kael",
-      "mnemosyne",
-      "selene"
-     ]
-    ],
-    [
-     "outline-3",
      [
       "aegis",
       "alex",
@@ -4580,6 +4553,30 @@
       "kael",
       "mnemosyne",
       "selene"
+     ]
+    ],
+    [
+     "aegis-genesis-crisis-self-definition",
+     [
+      "aegis",
+      "genesis",
+      "grenzfeste",
+      "guardians",
+      "kael",
+      "mnemosyne",
+      "personas"
+     ]
+    ],
+    [
+     "lokalitaeten-konzept-fuer-roman-simulation",
+     [
+      "aegis",
+      "alters",
+      "grenzfeste",
+      "guardians",
+      "kael",
+      "mnemosyne",
+      "personas"
      ]
     ]
    ]
@@ -5159,26 +5156,6 @@
      ]
     ],
     [
-     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-     [
-      "aegis",
-      "genesis",
-      "kael",
-      "komponente-734",
-      "lex"
-     ]
-    ],
-    [
-     "outline-3",
-     [
-      "aegis",
-      "genesis",
-      "kael",
-      "komponente-734",
-      "lex"
-     ]
-    ],
-    [
      "narrative-blueprint-the-coherence-protocol",
      [
       "aegis",
@@ -5275,6 +5252,24 @@
       "genesis",
       "kael",
       "lex",
+      "trennungsprotokoll"
+     ]
+    ],
+    [
+     "aegis",
+     [
+      "aegis",
+      "genesis",
+      "kael",
+      "komponente-734"
+     ]
+    ],
+    [
+     "aegis-genesis-crisis-self-definition",
+     [
+      "aegis",
+      "genesis",
+      "kael",
       "trennungsprotokoll"
      ]
     ]
@@ -5621,48 +5616,6 @@
  },
  "reading_queue": [
   {
-   "document": "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
-   "records": [
-    "C10",
-    "C15",
-    "C16",
-    "C3",
-    "C4",
-    "C5",
-    "C6",
-    "Q1",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 27
-  },
-  {
-   "document": "outline-3",
-   "records": [
-    "C10",
-    "C15",
-    "C16",
-    "C3",
-    "C4",
-    "C5",
-    "C6",
-    "Q1",
-    "Q3",
-    "Q4",
-    "Q5",
-    "Q6",
-    "Q7",
-    "Q8",
-    "Q9"
-   ],
-   "pages": 27
-  },
-  {
    "document": "charaktere",
    "records": [
     "C10",
@@ -5916,6 +5869,48 @@
   },
   {
    "document": "concept-paper-the-architectural-foundations-of-kohaerenz-pro",
+   "records": [
+    "C10",
+    "C15",
+    "C16",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 23
+  },
+  {
+   "document": "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte",
+   "records": [
+    "C10",
+    "C15",
+    "C16",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+   ],
+   "pages": 23
+  },
+  {
+   "document": "the-coherence-protocol-a-definitive-guide-to-narrative-archi",
    "records": [
     "C10",
     "C15",
