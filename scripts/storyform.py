@@ -98,7 +98,7 @@ def audit(sf):
     return errors, bad + diff
 
 
-def ncp(sf):
+def ncp(sf, weave=None):
     k, tx = sf["storyform"].lower(), sf["texts"]
     src = f"Entscheidung des Autors ({sf['decision']})"
     persp = [{"id": PID[t], "author_structural_pov": tx["perspectives"][t][0], "summary": tx["perspectives"][t][1],
@@ -145,13 +145,43 @@ def ncp(sf):
                           "summary": tx["signposts"].get(f"{t}.{typ}", tx["signposts"].get(typ, typ)),
                           "storytelling": f"{sf['chapters'][str(i)]}. Herkunft: {prov[f'{t}.signposts']}; nicht berechnet.",
                           "perspectives": [{"perspective_id": PID[t]}]})
+    OPEN = "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)"
+    players = []
+    for p in sf["players"]:
+        pid = "player_" + "".join(ch for ch in p["name"].split()[0].lower() if ch.isalnum())
+        tls = [t for t, word in (("MC", "Main Character"), ("IC", "Influence Character")) if word in p["role"]]
+        players.append({"id": pid, "name": p["name"], "role": p["role"], "visual": OPEN, "audio": OPEN,
+                        "summary": f"{p['role']}; im OS: {', '.join(nf(e) for e in p['os_elements'])}",
+                        "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+                        "storytelling": f"Herkunft: {p['by']}.",
+                        "motivations": [{"narrative_function": nf(e), "illustration": f"{p['name']} trägt {e} im OS.",
+                                         "storytelling": f"Herkunft: {p['by']}."} for e in p["os_elements"]],
+                        "perspectives": [{"perspective_id": PID[t]} for t in ["OS", *tls]]})
+    overviews = [{"id": f"overview_{k}_{label.lower()}", "label": label, "summary": sf[key],
+                  "storytelling": f"Herkunft: {prov[key]}."}
+                 for label, key in (("Logline", "logline"), ("Genre", "genre")) if sf.get(key)]
+    moments = []
+    side = sf["storyform"]
+    for n in range(41):
+        c = (weave or {}).get("chapters", {}).get(str(n))
+        if not c or not c[side]:
+            continue
+        a = act_of(weave, n) or 1
+        moments.append({"id": f"moment_kap_{n:02d}", "act": a, "order": n,
+                        "summary": f"Kap {n} · {c['route']}" + (f" · Anker: {c['anchor']}" if c["anchor"] else ""),
+                        "synopsis": OPEN, "setting": OPEN, "timing": OPEN,
+                        "imperatives": "trägt " + ", ".join(f"{TL[t]} Signpost {a} ({sf[t]['signposts'][a - 1]})"
+                                                            for t in c[side]),
+                        "audience_experiential_pov": "first_person_central",
+                        "storybeats": [{"sequence": i, "storybeat_id": f"beat_{t.lower()}_signpost_{a}"}
+                                       for i, t in enumerate(c[side], 1)]})
     return {"schema_version": "1.3.0", "story": {
         "id": f"story_kp_storyform_{k}", "title": "Kohärenz Protokoll — " + sf["title"], "logline": sf.get("logline", ""), "genre": sf.get("genre", ""),
         "created_at": "2026-10-05T00:00:00Z",
         "narratives": [{"id": f"narrative-{k}", "title": sf["title"], "status": "draft",
-                        "subtext": {"perspectives": persp, "players": [], "dynamics": dyn, "storypoints": sps,
+                        "subtext": {"perspectives": persp, "players": players, "dynamics": dyn, "storypoints": sps,
                                     "storybeats": beats},
-                        "storytelling": {"overviews": [], "moments": []}}]}}
+                        "storytelling": {"overviews": overviews, "moments": moments}}]}}
 
 
 def overview(forms):
@@ -294,7 +324,7 @@ def run(check_only=False):
         text = text.rstrip("\n") + "\n" + "\n".join(weave_table(weave, forms)) + "\n"
     want = {HOME / "overview.md": text}
     for sf in forms:
-        want[HOME / "ncp" / f"storyform-{sf['storyform'].lower()}.ncp.json"] = json.dumps(ncp(sf), ensure_ascii=False, indent=2) + "\n"
+        want[HOME / "ncp" / f"storyform-{sf['storyform'].lower()}.ncp.json"] = json.dumps(ncp(sf, weave), ensure_ascii=False, indent=2) + "\n"
     stale = [p for p, text in want.items() if not p.exists() or p.read_text() != text]
     if check_only:
         for p in stale:
@@ -347,8 +377,13 @@ def selftest():
             edit(w)
             if not any(want in e for e in weave_audit(w, forms)):
                 fails.append(f"{name} was accepted")
-    doc = ncp(good)
+    doc = ncp(good, weave)
     beats = doc["story"]["narratives"][0]["subtext"]["storybeats"]
+    moments = doc["story"]["narratives"][0]["storytelling"]["moments"]
+    if weave and not moments:
+        fails.append("the weave wrote no NCP moment")
+    if {r["storybeat_id"] for m in moments for r in m["storybeats"]} - {b["id"] for b in beats}:
+        fails.append("an NCP moment names a storybeat that does not exist")
     if len({(x["throughline"], x["sequence"]) for x in beats}) != len(beats):
         fails.append("NCP signposts collide")
     for f in fails:

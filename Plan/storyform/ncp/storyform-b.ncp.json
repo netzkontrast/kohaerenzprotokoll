@@ -38,7 +38,58 @@
               "storytelling": "Die Beziehung verändert, was beide sind (Becoming); ihr Problem ist dasselbe wie das des OS: Feeling."
             }
           ],
-          "players": [],
+          "players": [
+            {
+              "id": "player_aegis",
+              "name": "AEGIS",
+              "role": "Main Character, Protagonist",
+              "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "summary": "Main Character, Protagonist; im OS: Logic",
+              "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+              "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function.",
+              "motivations": [
+                {
+                  "narrative_function": "Logic",
+                  "illustration": "AEGIS trägt Logic im OS.",
+                  "storytelling": "Herkunft: author, casting 3; Logic = crucial element (step 3b), the Reason function."
+                }
+              ],
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                },
+                {
+                  "perspective_id": "persp_main_character"
+                }
+              ]
+            },
+            {
+              "id": "player_kael",
+              "name": "Kael",
+              "role": "Influence Character, Antagonist",
+              "visual": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "audio": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "summary": "Influence Character, Antagonist; im OS: Feeling",
+              "bio": "offen — die Figurenkarte in Manuscript/figuren/, sobald der Autor sie bestätigt",
+              "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function.",
+              "motivations": [
+                {
+                  "narrative_function": "Feeling",
+                  "illustration": "Kael trägt Feeling im OS.",
+                  "storytelling": "Herkunft: author, casting 3; H8: the pair partner of Logic, the Emotion function."
+                }
+              ],
+              "perspectives": [
+                {
+                  "perspective_id": "persp_objective_story"
+                },
+                {
+                  "perspective_id": "persp_influence_character"
+                }
+              ]
+            }
+          ],
           "dynamics": [
             {
               "id": "dyn_story_driver",
@@ -860,8 +911,342 @@
           ]
         },
         "storytelling": {
-          "overviews": [],
-          "moments": []
+          "overviews": [
+            {
+              "id": "overview_b_logline",
+              "label": "Logline",
+              "summary": "Eine KI, die ihre Welt durch lückenlose Sweeps schließen will, verliert mit jedem Sweep ihr eigenes Gedächtnis — und scheitert an dem einen Host, der lernt, was sie nie kann: zu glauben.",
+              "storytelling": "Herkunft: author, 2026-10-05, logline (session draft from goal, consequence, costs and outcome)."
+            },
+            {
+              "id": "overview_b_genre",
+              "label": "Genre",
+              "summary": "Hard-SF / Philosophical Horror / Psychological Thriller",
+              "storytelling": "Herkunft: author, 2026-10-05, genre (as koharenz-protokoll-konzept-konsolidiert-2026-05-08-md L2 and kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L719)."
+            }
+          ],
+          "moments": [
+            {
+              "id": "moment_kap_00",
+              "act": 1,
+              "order": 0,
+              "summary": "Kap 0 · hard-b",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Main Character Signpost 1 (Past), Objective Story Signpost 1 (Doing)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_mc_signpost_1"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_os_signpost_1"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_06",
+              "act": 1,
+              "order": 6,
+              "summary": "Kap 6 · hard-b",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Main Character Signpost 1 (Past), Objective Story Signpost 1 (Doing)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_mc_signpost_1"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_os_signpost_1"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_13",
+              "act": 1,
+              "order": 13,
+              "summary": "Kap 13 · bridge · Anker: Vortex-Vorläufer",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Influence Character Signpost 1 (Conscious), Relationship Story Signpost 1 (Being)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_ic_signpost_1"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_rs_signpost_1"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_16",
+              "act": 2,
+              "order": 16,
+              "summary": "Kap 16 · hard-b",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Main Character Signpost 2 (Present), Objective Story Signpost 2 (Learning)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_mc_signpost_2"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_os_signpost_2"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_18",
+              "act": 2,
+              "order": 18,
+              "summary": "Kap 18 · bridge · Anker: Genesis-Flashback",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Influence Character Signpost 2 (Memory)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_ic_signpost_2"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_21",
+              "act": 2,
+              "order": 21,
+              "summary": "Kap 21 · bridge · Anker: Genesis-Flashback",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Relationship Story Signpost 2 (Conceiving)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_rs_signpost_2"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_22",
+              "act": 2,
+              "order": 22,
+              "summary": "Kap 22 · hard-b",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Main Character Signpost 2 (Present), Objective Story Signpost 2 (Learning)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_mc_signpost_2"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_os_signpost_2"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_26",
+              "act": 2,
+              "order": 26,
+              "summary": "Kap 26 · bridge · Anker: Vortex-Vorläufer",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Main Character Signpost 2 (Present), Influence Character Signpost 2 (Memory)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_mc_signpost_2"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_ic_signpost_2"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_28",
+              "act": 3,
+              "order": 28,
+              "summary": "Kap 28 · hard-b",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Main Character Signpost 3 (Progress), Objective Story Signpost 3 (Understanding)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_mc_signpost_3"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_os_signpost_3"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_31",
+              "act": 3,
+              "order": 31,
+              "summary": "Kap 31 · bridge · Anker: Spiegel-Alter-Szene",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Objective Story Signpost 3 (Understanding), Relationship Story Signpost 3 (Conceptualizing)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_os_signpost_3"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_rs_signpost_3"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_32",
+              "act": 3,
+              "order": 32,
+              "summary": "Kap 32 · bridge · Anker: Spiegel-Alter-Szene",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Influence Character Signpost 3 (Preconscious)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_ic_signpost_3"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_34",
+              "act": 3,
+              "order": 34,
+              "summary": "Kap 34 · bridge · Anker: Vortex-Vorläufer",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Main Character Signpost 3 (Progress), Influence Character Signpost 3 (Preconscious)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_mc_signpost_3"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_ic_signpost_3"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_35",
+              "act": 4,
+              "order": 35,
+              "summary": "Kap 35 · bridge · Anker: Vortex selbst",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Main Character Signpost 4 (Future), Objective Story Signpost 4 (Obtaining)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_mc_signpost_4"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_os_signpost_4"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_36",
+              "act": 4,
+              "order": 36,
+              "summary": "Kap 36 · bridge · Anker: Vortex selbst",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Influence Character Signpost 4 (Subconscious), Relationship Story Signpost 4 (Becoming)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_ic_signpost_4"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_rs_signpost_4"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_38",
+              "act": 4,
+              "order": 38,
+              "summary": "Kap 38 · bridge · Anker: Vortex selbst",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Relationship Story Signpost 4 (Becoming)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_rs_signpost_4"
+                }
+              ]
+            },
+            {
+              "id": "moment_kap_39",
+              "act": 4,
+              "order": 39,
+              "summary": "Kap 39 · bridge · Anker: Vortex selbst",
+              "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "setting": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "timing": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+              "imperatives": "trägt Main Character Signpost 4 (Future), Influence Character Signpost 4 (Subconscious)",
+              "audience_experiential_pov": "first_person_central",
+              "storybeats": [
+                {
+                  "sequence": 1,
+                  "storybeat_id": "beat_mc_signpost_4"
+                },
+                {
+                  "sequence": 2,
+                  "storybeat_id": "beat_ic_signpost_4"
+                }
+              ]
+            }
+          ]
         }
       }
     ]
