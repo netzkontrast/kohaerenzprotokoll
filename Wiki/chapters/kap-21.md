@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael erhält Zugang (vielleicht durch eine Guardian-Interaktion, einen tiefen Riss oder das Finden eines Kernsystemprotokolls)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
 - Story: „'emotionale Volatilität', 'Netzwerkkonnektivitätsdichte'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
 - Story: „Kael erkennt, dass AEGIS aktiv versucht, menschenähnliche Züge zu minimieren, die es nicht kontrollieren oder verstehen kann.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Die Rückkopplung
+
+Title: „Kybernetische Rückkopplung“ ^[romanstruktur-und-philosophische-einleitung.md:L184]
+Position: Teil II, „Der Schöpfer im System“ ^[romanstruktur-und-philosophische-einleitung.md:L184]
+
+- Story: „Kael bemerkt, dass seine Gedanken und emotionalen Zustände die Realität der Simulation physisch verändern.“ ^[romanstruktur-und-philosophische-einleitung.md:L186]
+- Story: „Er realisiert, dass er nicht mehr nur Bewohner, sondern Co-Autor der Simulation ist.“ ^[romanstruktur-und-philosophische-einleitung.md:L188]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
