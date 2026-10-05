@@ -1,0 +1,222 @@
+{
+ "storyform": "B",
+ "title": "Storyform B — Phönix-Kollaps (K0)",
+ "decision": "Plan/decisions/025-dramatica-is-the-recipe.md",
+ "premise": "Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung — und Liebe ist die Ordnung, die Vielheit trägt.",
+ "chapters": {
+  "1": "Akt I, Kap 1–13",
+  "2": "Akt II, Kap 14–26",
+  "3": "Akt III, Kap 27–34",
+  "4": "Vortex, Kap 35–39"
+ },
+ "classes": {
+  "MC": "Universe",
+  "IC": "Mind",
+  "OS": "Physics",
+  "RS": "Psychology"
+ },
+ "dynamics": {
+  "story_driver": "action",
+  "story_outcome": "failure",
+  "story_judgment": "bad",
+  "story_limit": "timelock",
+  "problem_solving_style": "linear",
+  "main_character_resolve": "steadfast",
+  "main_character_growth": "stop",
+  "main_character_approach": "do_er",
+  "influence_character_resolve": "change"
+ },
+ "MC": {
+  "concern": "Future",
+  "issue": "Openness",
+  "problem": "Disbelief",
+  "solution": "Faith",
+  "focus": "Reconsideration",
+  "direction": "Consideration",
+  "signposts": [
+   "Past",
+   "Present",
+   "Progress",
+   "Future"
+  ]
+ },
+ "IC": {
+  "concern": "Subconscious",
+  "issue": "Dream",
+  "signposts": [
+   "Conscious",
+   "Memory",
+   "Preconscious",
+   "Subconscious"
+  ]
+ },
+ "OS": {
+  "concern": "Obtaining",
+  "problem": "Feeling",
+  "solution": "Logic",
+  "issue": "Approach",
+  "signposts": [
+   "Doing",
+   "Learning",
+   "Understanding",
+   "Obtaining"
+  ],
+  "focus": "Reconsideration",
+  "direction": "Consideration"
+ },
+ "RS": {
+  "concern": "Becoming",
+  "issue": "Rationalization",
+  "problem": "Feeling",
+  "solution": "Logic",
+  "signposts": [
+   "Being",
+   "Conceiving",
+   "Conceptualizing",
+   "Becoming"
+  ]
+ },
+ "plot": {
+  "requirements": "Doing",
+  "consequence": "Becoming",
+  "forewarnings": "Progress",
+  "costs": "Memory",
+  "dividends": "Understanding",
+  "prerequisites": "Past",
+  "preconditions": "Conceiving"
+ },
+ "players": [
+  {
+   "name": "AEGIS",
+   "role": "Main Character, Protagonist",
+   "os_elements": [
+    "Logic"
+   ],
+   "by": "author, casting 3; Logic = crucial element (step 3b), the Reason function"
+  },
+  {
+   "name": "Kael",
+   "role": "Influence Character, Antagonist",
+   "os_elements": [
+    "Feeling"
+   ],
+   "by": "author, casting 3; H8: the pair partner of Logic, the Emotion function"
+  }
+ ],
+ "open": [
+  "IC problem element (not derived by D1–D7)",
+  "the other archetypes (W10)",
+  "logline, genre"
+ ],
+ "texts": {
+  "perspectives": {
+   "MC": [
+    "i",
+    "AEGIS (MC, Universe)",
+    "AEGIS' Linie: Future, Openness ↔ Delay, Disbelief, nie Faith. Strukturelle Sicht, keine Ich-Prosa (W6)."
+   ],
+   "IC": [
+    "you",
+    "Kael (IC, Mind/Conscious)",
+    "Kael wirkt aus innersten Wünschen (Subconscious, Dream ↔ Hope); er ändert sich am Vortex."
+   ],
+   "OS": [
+    "they",
+    "Kybernetischer Krieg: Sweeps, Guardian-Operationen (Physics)",
+    "Ziel Obtaining; der Kampf um Approach ↔ Attitude."
+   ],
+   "RS": [
+    "we",
+    "Kael und AEGIS: Host und System (Psychology)",
+    "Die Beziehung verändert, was beide sind (Becoming); ihr Problem ist dasselbe wie das des OS: Feeling."
+   ]
+  },
+  "why": {
+   "MC": "Abgeleitet aus den 12 Antworten (engine-rules.md, D4): Steadfast teilt Focus/Direction mit dem OS. Disbelief ist Zero-Trust als Unglaube.",
+   "IC": "Abgeleitet (D3/D4): die Gegenfigur sitzt über dem Problem der Hauptfigur (Disbelief) in Mind.",
+   "OS": "Schritt 3b/8b: Logic ist die Lösung; Thema und Crucial Element im selben Quad.",
+   "RS": "Abgeleitet (D5–D7): Outcome Failure → RS-Problem = OS-Problem; Concern und Issue nach Quad-Position."
+  },
+  "illustrations": {
+   "MC Problem": "AEGIS glaubt nichts, was nicht bewiesen ist — Unglaube als Betriebsprinzip (Zero-Trust).",
+   "MC Solution": "Glaube — die Lösung, die AEGIS nie ergreift.",
+   "MC Issue": "Offenheit gegen Aufschub: AEGIS hält die Zukunft offen, indem es jede Entscheidung vertagt.",
+   "IC Issue": "Traum gegen Hoffnung: Kael wirkt aus dem, was er sich wünscht, nicht aus dem, was er erwartet.",
+   "OS Issue": "Die Methode gegen die Haltung: rechtfertigt das Vorgehen die Haltung?",
+   "RS Issue": "Rationalisierung gegen Verpflichtung: Host und System begründen, was sie einander schulden.",
+   "RS Problem": "Gefühl — dasselbe, was AEGIS im OS ausschließen will, steht zwischen Host und System.",
+   "RS Solution": "Logik.",
+   "OS Problem": "Gefühle, Risse, Entropie — was die Ordnung stört.",
+   "OS Solution": "Logic: AEGIS hält am Richtigen fest, und die Welt scheitert trotzdem.",
+   "Story Goal": "Lückenlose Geschlossenheit erlangen: alle offenen Posten auf null."
+  },
+  "plot": {
+   "requirements": "Die Sweeps müssen ausgeführt werden; jeder ist ein sichtbarer Schritt aufs Ziel.",
+   "consequence": "Das System wird, was es verhindern wollte: entropisch (Formel-Inversion).",
+   "forewarnings": "Wartungsfenster werden dichter, der Takt unregelmäßig; die Schlange steigt ab Kap 26 (F1).",
+   "costs": "Jeder Sweep frisst AEGIS' eigenes Gedächtnis; Erasure-Logs überschreiben sich.",
+   "dividends": "AEGIS versteht Kael mit jedem Zug genauer.",
+   "prerequisites": "AEGIS braucht seine eigenen Aufzeichnungen, um sweepen zu können.",
+   "preconditions": "AEGIS darf nur im Rahmen des Protokolls löschen (das Trennungsprotokoll als Regel)."
+  },
+  "signposts": {
+   "Doing": "Sweeps laufen, Verluste sind im Gang.",
+   "Learning": "Anomalien erkunden.",
+   "Understanding": "Das Muster begreifen.",
+   "Obtaining": "Letzter Sweep; das Ziel scheitert.",
+   "Past": "Genesis-Trauma verdrängt; Erasure-Logs.",
+   "Present": "Sweeps, Kontrollprotokoll.",
+   "Progress": "Countdown; die Architektur degradiert sichtbar.",
+   "Future": "Ende der Operativität; Phoenix-Collapse.",
+   "Conscious": "Kael, der unfixbare Bug.",
+   "Memory": "Kaels Erinnerung als Druck auf AEGIS.",
+   "Preconscious": "Reflexhafte Eskalation.",
+   "Subconscious": "Wieder-Verbinden; Kael gibt nach.",
+   "Being": "Rollen: Wächter und Host.",
+   "Conceiving": "AEGIS formuliert Kael als unkontrollierbar um.",
+   "Conceptualizing": "Pläne gegeneinander.",
+   "Becoming": "Kaels Wandel, die Vortex-Inversion."
+  }
+ },
+ "provenance": {
+  "classes": "author, step 2 (model of the status report 2026-05-07)",
+  "dynamics.story_driver": "source (report 2026-05-07), kept in step 2",
+  "dynamics.story_outcome": "source, step 2",
+  "dynamics.story_judgment": "source, step 2",
+  "dynamics.story_limit": "source, step 2",
+  "dynamics.problem_solving_style": "source, step 2",
+  "dynamics.main_character_resolve": "source, step 2",
+  "dynamics.main_character_growth": "source, step 2",
+  "dynamics.main_character_approach": "author step 3a (C8: Do-er)",
+  "dynamics.influence_character_resolve": "derived, rule R6",
+  "MC.concern": "derived D4, author step 16",
+  "MC.issue": "derived D4, author step 16",
+  "MC.problem": "derived D4, author step 16",
+  "MC.solution": "derived D4, author step 16",
+  "MC.focus": "derived D4 (shares the OS pair) in the author's OS order",
+  "MC.direction": "derived D4",
+  "MC.signposts": "author step 12 (as 2026-06-10 and 2026-05-18)",
+  "IC.concern": "derived D3/D4, author step 16",
+  "IC.issue": "derived D3/D4, author step 16",
+  "IC.signposts": "author step 12 (S1/S2 from 2026-06-10)",
+  "OS.concern": "session, step 8 (the only Physics type holding Logic)",
+  "OS.issue": "author step 8b",
+  "OS.problem": "pair of the solution",
+  "OS.solution": "author step 3b: crucial element Logic is the solution",
+  "OS.focus": "author, fine structure 2",
+  "OS.direction": "author, fine structure 2",
+  "OS.signposts": "author step 11 (S1/S2 as the outline 2026-05-18)",
+  "RS.concern": "derived D6, author step 16",
+  "RS.issue": "derived D7, author step 16",
+  "RS.problem": "derived D5, author step 16",
+  "RS.solution": "derived D5, author step 16",
+  "RS.signposts": "author step 12 (S1/S2 from the outline 2026-05-18)",
+  "plot.requirements": "author step 13 (WP candidate)",
+  "plot.consequence": "author step 13 (WP candidate)",
+  "plot.forewarnings": "author step 13 (WP candidate)",
+  "plot.costs": "author step 14 (session proposal)",
+  "plot.dividends": "author step 14 (session proposal)",
+  "plot.prerequisites": "author, fine structure 2b",
+  "plot.preconditions": "author, fine structure 2b"
+ }
+}

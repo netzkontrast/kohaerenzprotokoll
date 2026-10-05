@@ -2,7 +2,7 @@
 id: C8
 subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
-status: open
+status: decided — Do-er, by the author, 2026-10-02
 first_seen: "2026-09-24"
 sources: 18
 pages: ["aegis"]
@@ -10,7 +10,7 @@ pages: ["aegis"]
 
 # C8 — Be-er or Do-er
 
-**Append-only.** This record decides nothing.
+**Append-only.** This record decides nothing; the author decided it on 2026-10-02 (section below).
 
 | # | Approach, Storyform B ([[aegis|AEGIS]]) | source | line |
 |--:|---|---|--:|
@@ -161,6 +161,17 @@ It gives AEGIS the MC-B slot by test — „Die erste Hypothese verortet AEGIS i
 **Do-er for AEGIS in B, Be-er for Kael in A — the lock-in's values, in a comparative table and in each storyform's own MC-Quad.**
 „MC Approach | Be-er (Innere Synthese) | Do-er (Externe Löschung) | Ja | "Dance in the Garden" (Kap 13) vs. Die harte Aktivierung von Firewalls und Glitch-Reparaturen." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L193] Storyform A's own MC-Quad gives Kael the same value: „Approach: Be-er — Werk-Beleg: Die zentralen Konfliktlösungen des Romans finden in den psychologischen Innenräumen, den sogenannten „Kernwelten“ (wie Logos-Prime), durch massive Einstellungsänderungen statt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L80] Storyform B's gives AEGIS the other: „Approach: Do-er — Werk-Beleg: AEGIS agiert proaktiv durch die Exekution harter Quarantäne-Maßnahmen, Löschprotokolle und massive physikalische Restriktionen der Umgebung." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L128]
 `Approach` stands on 3 lines, `Do-er` on 2 and `Be-er` on 5, all giving Kael Be-er and AEGIS Do-er (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). The Dramatica lock-in's side, Do-er, with AEGIS named the MC of B throughout the document. The author decides (decision 006).
+
+## 2026-10-02 — decided by the author: Do-er
+
+Asked *Wie löst AEGIS als MC von B seine Probleme?*, with the consequences laid out (Do-er: B carries the visible
+action chain and mirrors [[kael|Kael]]'s Be-er in A; Be-er: B turns inward and the action must come from the OS),
+the author answered **Do-er**, within the model of the status report of 2026-05-07 (decision 025).
+
+**What this decides:** AEGIS' MC Approach in Storyform B. The Be-er reading of the Charakter-Bibel stays on this
+record as what that document said, dated, and is no longer the arrangement.
+
+**What it does not decide:** how AEGIS' perspective is told in prose (W6, C14); structural POV is not prose POV.
 
 ## 2026-10-05 — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt
 
