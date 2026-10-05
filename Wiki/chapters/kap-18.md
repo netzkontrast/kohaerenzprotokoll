@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Das Schlupfloch-Verzeichnis“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L253]
 - Story: „eine Regel, die von LogOS in KW1 streng durchgesetzt wird, von Cerberus in KW3 leicht anders oder weniger rigoros interpretiert wird“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
 - Story: „eine mentale (oder versteckte physische/digitale) Liste dieser kleineren Exploits und Inkonsistenzen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
+
+## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Cosmic horror
+
+Title: „Kosmischer Horror“ ^[romanstruktur-und-philosophische-einleitung.md:L166]
+Position: Teil II, „Die Gleichgültigkeit des Algorithmus“ ^[romanstruktur-und-philosophische-einleitung.md:L166]
+
+- Story: the insight comes hedged: „In einem Moment tiefer Einsicht (vielleicht durch einen Hack in den Kerncode)“ ^[romanstruktur-und-philosophische-einleitung.md:L168]
+- Story: AEGIS is „ein kalter, indifferenter Optimierungsalgorithmus“ ^[romanstruktur-und-philosophische-einleitung.md:L168]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
