@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 19
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 20
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -74,6 +74,14 @@ Position: Teil I; setting from the `Schauplatz` field: „Die Nahtstelle zwische
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Rhys (Caretaker)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L86]
 - Story: the blueprint plans, in `Plot-Beats`, „AEGIS stuft Kaels psychologische Intrusion (ein aufkommender Flashback) fehlerhaft als Datenkorruption ein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L88] and „tritt hervor, um Kael vor dem emotionalen Aufprall in einer nebligen, feuchten Landschaft zu dämpfen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L88]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die unentscheidbare Zone
+
+Title: „Die unentscheidbare Zone“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L57] — heading „Gödels Architekt“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L58]
+Position: Teil I; POV from `Perspektive & Stimme`: „AEGIS (Log-Eintrag) & Kael (Lex-dominant)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L59]; place from `Ort`: „Verstecktes Archiv in KW1“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L61]
+
+- Story: the matrix plans „Kael entdeckt Aufzeichnungen des System-Architekten“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L63]
+- Question: „Kann ein System sich selbst vollständig verstehen?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L62]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
