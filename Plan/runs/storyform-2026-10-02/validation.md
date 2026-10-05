@@ -37,3 +37,12 @@
 1. **Players und Alters.** `02-characters.md`, L79: „If more than one Overall Story Character is placed into a single player, the player will appear to have multiple personalities. This is clearly seen in the dual characters contained in player, Dr. Jekyll & Mr. Hyde, or the many personalities of Sybil." Kaels Alters können also **eigene OS-Figuren in einem Player** sein, jede mit eigenen Elementen. Für W10 heißt das: die Besetzung kann Archetyp-Funktionen auf Alters verteilen, und H9 gilt dann je Alter, nicht für den Player Kael.
 2. **AP-11, Storyform zu früh verriegelt.** Der Skill rät, die Element-Ebene erst beim Schreiben festzulegen. W1 = A (Rezept) hat sich bewusst anders entschieden; B als Kontrolle ist genau der Punkt, an dem Elemente wieder geändert werden dürfen. Das ist hier vermerkt, nicht neu entschieden.
 3. **Doppel-Storyform.** Der Skill beschreibt *eine* Grand Argument Story je Storyform; zwei vollständige Storyforms in einem Buch kennt er nicht. Jede Storyform ist für sich gültig; wie die beiden ein Argument ergeben, ist S1 — die Prämisse.
+
+## Nachtrag: die Prämisse (Entscheidung 024, Schritt 0)
+
+**„Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung."** S1 ist damit erfüllt.
+
+**S8, gegen die Storyform gelesen:**
+- A stützt sie: Dividende Becoming (funktional plural), Kael gibt Inertia auf, Triumph.
+- B stützt sie im Ergebnis: AEGIS' Ziel ist Geschlossenheit (Obtaining), es scheitert, Tragedy; die Kosten (Memory) zeigen, dass Schließen das eigene Gedächtnis frisst.
+- **Eine Spannung, zur Kenntnis des Autors:** In Schritt 3b ist *Logic die Lösung* von Bs äußerer Handlung — AEGIS hält am Richtigen fest. Die Prämisse sagt aber, Geschlossenheit sei falsch. Beides passt, wenn Logic als Mittel recht hat und AEGIS' *Ziel* (Geschlossenheit) und sein *Problem* (Test ohne Trust) es zu Fall bringen: Das Buch sagte dann, nicht die Logik scheitert, sondern ihre Verwendung zum Ausschluss. Wird die Spannung im Treatment als Widerspruch spürbar, ist 3b die Stelle, an der man nachsteuert (Logic als Problem statt Lösung).

@@ -63,6 +63,10 @@ with the consequences of each option laid out.
     Order, A-IC Actuality → Perception, A-OS Knowledge → Thought, A-RS Self-Aware → Aware (the author's own choice
     against the proposal); B-MC Unending → Ending („alle Posten auf null"), B-IC Reaction → Proaction, B-OS
     Reconsideration → Consideration, B-RS Expectation → Determination. With this `dramatica.check` reports no open slot.
+0. **The premise** (Step 0 of the dramatica-theory skill, asked after the validation found it missing):
+   **„Vielheit ist keine Störung der Ordnung, sondern ihre Bedingung."** A argues it (Kael becomes functionally plural,
+   Triumph); B argues it from the other side (AEGIS seeks closure and collapses, Tragedy). Chosen over „Wandel statt
+   Ordnung" and „Kohärenz braucht Vertrauen".
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10), logline and genre;
