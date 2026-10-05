@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -96,6 +96,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Kaels Arbeitsstation /
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, LogOS (System-Wächter), Lex“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L78]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael analysiert Datenströme und entdeckt ein inkompressibles, organisches Datenpaket“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L80] and „Kael nimmt erstmals den Geruch von nasser Erde wahr“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L80]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — Kael's order to eliminate Nova Ardent in Kapitel 3
+
+- under Leitfrage 1 the report, citing its source 10, writes „In Kapitel 3 erhält Kael, in seiner Rolle als Elite-Cybersoldat der Aegis Coalition, den Befehl“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L25] to eliminate Nova Ardent, a Data-Runnerin; its table names her „Zielperson in Kapitel 3, Data-Runnerin, Repräsentation von Wahrheit.“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L35]
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das flüchtige Echo
 
