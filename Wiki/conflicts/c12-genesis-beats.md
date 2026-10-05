@@ -2,7 +2,7 @@
 id: C12
 subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
-status: open
+status: decided — four beats, the fourth (Wir-AEGIS-plural) completed in Kap 39, by the author, 2026-10-05 (W12)
 first_seen: "2026-09-24"
 sources: 30
 pages: ["trennungsprotokoll"]
@@ -366,3 +366,15 @@ Stands: three beats, as the report states them in part 1; it names no fourth.
 It titles the opening of Kap 40/0 „Text: Genesis (Reprise & Neuinterpretation)“ ^[romanstruktur-und-philosophische-einleitung.md:L290] and tells: „wird nicht aus Bosheit aktiviert, sondern als physikalische Notwendigkeit.“ ^[romanstruktur-und-philosophische-einleitung.md:L296] The cycle restarts: „Kael öffnet die Augen. Er steht in KW1. Er weiß nicht, wer er ist.“ ^[romanstruktur-und-philosophische-einleitung.md:L306] and „Das Ende ist der Anfang.“ ^[romanstruktur-und-philosophische-einleitung.md:L310]
 
 In the record's terms the analysis counts no beats; it gives only the Trennungsprotokoll's place at the end of the cycle, and decides nothing.
+
+## 2026-10-05 — decided by the author: four beats, the fourth in Kap 39
+
+Asked through [W12](../../Plan/weichen/w12-genesis.md) with the counts the sources give, three beats in the reset
+document of 2026-04-30 and four in the drafting handbook of 2026-06-10, the author chose **four**: „Einheit → Cluster →
+Trennungsprotokoll → Wir-AEGIS-plural“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174], the fourth
+completed only in Kap 39. In the same answer the Genesis and Kael's fragmentation night are **one event on two
+levels**, and AEGIS emerged from Komponente 734 (Q7).
+
+**What this decides:** the number and order of the beats. Kap 0 carries three of them without giving the fourth
+away; Kap 40 echoes them. The three-beat count stays on this record as what the reset document said, dated.
+
