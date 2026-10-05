@@ -321,6 +321,7 @@ def fixture_live(claimed: str) -> dict:
         {"ref": "refs/heads/claude/ui", "type": "push", "at": "2026-10-05T19:40:00Z", "sha": "b"},
         {"ref": "refs/heads/claude/storyform", "type": "push", "at": "2026-10-05T19:30:00Z", "sha": "c"},
         {"ref": "refs/heads/claude/old", "type": "push", "at": "2026-10-03T19:30:00Z", "sha": "d"},
+        {"ref": "refs/heads/claude/merged", "type": "pr_merge", "at": "2026-10-05T19:56:00Z", "sha": "g"},
         {"ref": "refs/heads/main", "type": "pr_merge", "at": "2026-10-05T19:55:00Z", "sha": "e"}]}
 
 
