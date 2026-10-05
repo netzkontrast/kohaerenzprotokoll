@@ -43,6 +43,7 @@ Every contract run by model and by the category of its source — written by `sc
 | `ChapterCards` | plot-outline | sonnet | 7 (0) | 1 | 563 | 0.0070 | 0 | — |
 | `ChapterCards` | storyform | sonnet | 1 (0) | 0 | 33 | 0.0195 | 0 | — |
 | `ChapterCards` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0472 | 0 | — |
+| `ChapterCards` | worldbuilding | sonnet | 1 (0) | 0 | 47 | 0.0141 | 0 | — |
 | `DiegeticTerms` | charaktere | haiku | 1 (0) | 0 | 5 | 0.0267 | 5 | 1 (20%) |
 | `DiegeticTerms` | plot-outline | sonnet | 1 (0) | 0 | 0 | — | 0 | — |
 | `DiegeticTerms` | theorie-logik | sonnet | 1 (0) | 0 | 1 | 0.0515 | 0 | — |
