@@ -1,0 +1,564 @@
+{
+  "items": [
+    {
+      "source": "Kap 5",
+      "target": "der falsche Erfolg",
+      "type": "falsehood",
+      "quote": "Beförderung Kap 5, der falsche Erfolg",
+      "stance": "asserts"
+    },
+    {
+      "source": "2 — Das Gegenregister",
+      "target": "ein zweites, privates Protokoll zu führen",
+      "type": "want",
+      "quote": "Kael beginnt — ohne es je zu begründen, die Amnesie wird nie erwähnt \\[K\\] — ein zweites, privates Protokoll zu führen",
+      "stance": "asserts"
+    },
+    {
+      "source": "3 — Fundsachen aus einer Stadt ohne Namen",
+      "target": "sammelt die Fundsachen in einer Kiste",
+      "type": "want",
+      "quote": "Kael sammelt die Fundsachen in einer Kiste",
+      "stance": "asserts"
+    },
+    {
+      "source": "3 — Fundsachen aus einer Stadt ohne Namen",
+      "target": "der erste Verlust, der wehtut",
+      "type": "cost",
+      "quote": "die Kiste wird in Akt II Ziel eines Wartungsfensters (Idee 5): der erste Verlust, der wehtut",
+      "stance": "asserts"
+    },
+    {
+      "source": "11",
+      "target": "Mosaik-Ordnung der Kiste",
+      "type": "object",
+      "quote": "11 (Mosaik-Ordnung der Kiste)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 7",
+      "target": "spricht zum ersten Mal hinein",
+      "type": "want",
+      "quote": "In Kap 7 spricht er zum ersten Mal hinein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "6 — Das fehlgeleitete Ticket",
+      "target": "Ein Wartungs-Ticket wird an Kaels Kennung fehlgeroutet",
+      "type": "object",
+      "quote": "Ein Wartungs-Ticket wird an Kaels Kennung fehlgeroutet und gibt ihm Lese-Rechte auf das Lernarchiv Theta-9",
+      "stance": "asserts"
+    },
+    {
+      "source": "6 — Das fehlgeleitete Ticket",
+      "target": "Lernarchiv Theta-9",
+      "type": "place",
+      "quote": "Ein Wartungs-Ticket wird an Kaels Kennung fehlgeroutet und gibt ihm Lese-Rechte auf das Lernarchiv Theta-9",
+      "stance": "asserts"
+    },
+    {
+      "source": "6 — Das fehlgeleitete Ticket",
+      "target": "Er meldet den Fehler nicht",
+      "type": "want",
+      "quote": "Er meldet den Fehler nicht",
+      "stance": "asserts"
+    },
+    {
+      "source": "6 — Das fehlgeleitete Ticket",
+      "target": "AEGIS registriert die Anomalie als „Selbstdiagnose des Systems“",
+      "type": "falsehood",
+      "quote": "AEGIS registriert die Anomalie als „Selbstdiagnose des Systems“",
+      "stance": "asserts"
+    },
+    {
+      "source": "7 — Oblivions Hand",
+      "target": "Oblivion löscht Kaels Beweise schneller, als er sie sammelt",
+      "type": "obstacle",
+      "quote": "Oblivion löscht Kaels Beweise schneller, als er sie sammelt",
+      "stance": "asserts"
+    },
+    {
+      "source": "7 — Oblivions Hand",
+      "target": "ein einziger Eintrag unangetastet im Register",
+      "type": "object",
+      "quote": "eines Morgens steht ein einziger Eintrag unangetastet im Register",
+      "stance": "asserts"
+    },
+    {
+      "source": "7 — Oblivions Hand",
+      "target": "das Gegenregister",
+      "type": "object",
+      "quote": "Berichte eingereicht, Sequenzen bestätigt, das Gegenregister geleert, die Kiste umgeräumt",
+      "stance": "asserts"
+    },
+    {
+      "source": "8 — Der Mann, der entgegenkommt",
+      "target": "Transitkorridor Delta-7",
+      "type": "place",
+      "quote": "ein Pendler im Transitkorridor Delta-7",
+      "stance": "asserts"
+    },
+    {
+      "source": "8 — Der Mann, der entgegenkommt",
+      "target": "minimal wärmer",
+      "type": "object",
+      "quote": "Wo er stand, ist es minimal wärmer",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap-22",
+      "target": "Aktenfund",
+      "type": "object",
+      "quote": "Kap-22-Reveal \\[K, Genesis-Flashback Komp 734\\] als Aktenfund",
+      "stance": "asserts"
+    },
+    {
+      "source": "33",
+      "target": "das Original-Dokument",
+      "type": "object",
+      "quote": "33 (am Kern: das Original-Dokument)",
+      "stance": "asserts"
+    },
+    {
+      "source": "11 — Zwei Geschenke",
+      "target": "öffnet das vollständige Archiv",
+      "type": "want",
+      "quote": "Mnemosyne** öffnet das vollständige Archiv",
+      "stance": "asserts"
+    },
+    {
+      "source": "11 — Zwei Geschenke",
+      "target": "die Löschung der eigenen Akte",
+      "type": "want",
+      "quote": "Erasure-Pol** bietet das Gegenteil — die Löschung der eigenen Akte",
+      "stance": "asserts"
+    },
+    {
+      "source": "11 — Zwei Geschenke",
+      "target": "absorbiert beide Prinzipien, indem er beide ablehnt und beide behält",
+      "type": "want",
+      "quote": "Kael absorbiert beide Prinzipien, indem er beide ablehnt und beide behält",
+      "stance": "asserts"
+    },
+    {
+      "source": "12 — Eine Löschung, von innen",
+      "target": "führt eine Routine-Konsolidierung durch",
+      "type": "want",
+      "quote": "AEGIS führt eine Routine-Konsolidierung durch",
+      "stance": "asserts"
+    },
+    {
+      "source": "12 — Eine Löschung, von innen",
+      "target": "ein Restwert, den keine Kategorie aufnimmt",
+      "type": "object",
+      "quote": "Am Ende der Operation bleibt ein Restwert, den keine Kategorie aufnimmt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "12 — Eine Löschung, von innen",
+      "target": "klassifiziert ihn als Rundungsfehler und legt eine Ausnahme an",
+      "type": "want",
+      "quote": "AEGIS klassifiziert ihn als Rundungsfehler und legt eine Ausnahme an.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "schreibt den letzten Bericht von Hand zu Ende",
+      "type": "want",
+      "quote": "bis Kap 39: Kael schreibt den letzten Bericht von Hand zu Ende",
+      "stance": "asserts"
+    },
+    {
+      "source": "27",
+      "target": "Autoren-Feder",
+      "type": "object",
+      "quote": "27 (Autoren-Feder",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "*bestätigt*, dass die Welt stimmt",
+      "type": "want",
+      "quote": "Kael *bestätigt*, dass die Welt stimmt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "*bezeugt*, dass die Welt ist",
+      "type": "want",
+      "quote": "Kael *bezeugt*, dass die Welt ist.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 8",
+      "target": "erst lesen ohne Auftrag",
+      "type": "want",
+      "quote": "erst lesen ohne Auftrag (Kap 8)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 20",
+      "target": "kopieren vor dem Klick",
+      "type": "want",
+      "quote": "dann kopieren vor dem Klick (Kap 20)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 23",
+      "target": "den eigenen Bestand anlegen",
+      "type": "want",
+      "quote": "dann den eigenen Bestand anlegen (Kap 23)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35",
+      "target": "den Antrag auf sich selbst halten statt bedienen",
+      "type": "want",
+      "quote": "schließlich den Antrag auf sich selbst \\*halten\\* statt bedienen (Kap 35)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 36",
+      "target": "Der Apparat verliert sein Zentrum",
+      "type": "cost",
+      "quote": "Der Apparat verliert sein Zentrum (Kap 36)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "wird kosmische Funktion",
+      "type": "cost",
+      "quote": "Das Gegenregister — die private Buchführung des Wir — wird kosmische Funktion (Kap 39)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "Sequenz-Prüfung",
+      "type": "object",
+      "quote": "Stufe 1 Sequenz-Prüfung (Kap 1, v0.3)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 5",
+      "target": "Bestandspflege",
+      "type": "object",
+      "quote": "Stufe 2 Bestandspflege (Kap 5: ältere Bestände, mehr Kontext pro Datensatz",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 5",
+      "target": "gefährlichere Arbeit, als Auszeichnung verpackt",
+      "type": "falsehood",
+      "quote": "Kap 5: ältere Bestände, mehr Kontext pro Datensatz — gefährlichere Arbeit, als Auszeichnung verpackt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 4",
+      "target": "Regel-Exekutor",
+      "type": "who",
+      "quote": "Ein Regel-Exekutor \\[S\\] taucht erst im Audit (Kap 4) auf",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35",
+      "target": "der letzte verbleibende Eintrag",
+      "type": "object",
+      "quote": "In Kap 35 ist er der letzte verbleibende Eintrag.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "ohne Zahl",
+      "type": "object",
+      "quote": "In Kap 38 ist sie ohne Zahl.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 6",
+      "target": "der erste nicht ausgeführte Ausgleich",
+      "type": "object",
+      "quote": "der erste nicht ausgeführte Ausgleich (Kap 6)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "Abweichung 114, der Sprung auf 251",
+      "type": "object",
+      "quote": "Abweichung 114, der Sprung auf 251",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 2",
+      "target": "eine in Kap 1 ausgeglichene Abweichung kehrt wieder",
+      "type": "object",
+      "quote": "eine in Kap 1 ausgeglichene Abweichung kehrt wieder",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 2",
+      "target": "Das System nimmt die zweite Markierung kommentarlos.",
+      "type": "obstacle",
+      "quote": "Das System nimmt die zweite Markierung kommentarlos.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 2",
+      "target": "abends findet er den Wert in seinem Entwurfsordner notiert",
+      "type": "object",
+      "quote": "abends findet er den Wert in seinem Entwurfsordner notiert",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 3",
+      "target": "Das Gegenregister beginnt",
+      "type": "want",
+      "quote": "Das Gegenregister beginnt (Idee 2)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 3",
+      "target": "auf dem Heimweg im Transitkorridor",
+      "type": "place",
+      "quote": "auf dem Heimweg im Transitkorridor",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 4",
+      "target": "Kaels Bestätigungslatenz ist um Millisekunden gestiegen",
+      "type": "object",
+      "quote": "Kaels Bestätigungslatenz ist um Millisekunden gestiegen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 4",
+      "target": "korrumpierte Textdateien = Zuweisungen, deren Inhalt beim Öffnen zerfällt",
+      "type": "object",
+      "quote": "korrumpierte Textdateien \\[K\\] = Zuweisungen, deren Inhalt beim Öffnen zerfällt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 5",
+      "target": "die Beförderung als falscher Erfolg",
+      "type": "falsehood",
+      "quote": "die Beförderung als falscher Erfolg",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 5",
+      "target": "Erste Stufe-2-Zuweisung: ein Bestand mit Kontext",
+      "type": "object",
+      "quote": "Erste Stufe-2-Zuweisung: ein Bestand mit Kontext",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 5",
+      "target": "Kael spürt zum ersten Mal das Gewicht eines Datensatzes, bevor er klickt",
+      "type": "want",
+      "quote": "Kael spürt zum ersten Mal das Gewicht eines Datensatzes, bevor er klickt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 6",
+      "target": "zwei Zuweisungen widersprechen sich",
+      "type": "object",
+      "quote": "Kap 6**: Der Doppel-Antrag — zwei Zuweisungen widersprechen sich",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 8",
+      "target": "Kael bleibt nach Dienstschluss und liest ausgeglichene Bestände",
+      "type": "want",
+      "quote": "Kap 8**: Nach Dienstschluss bleibt Kael und liest ausgeglichene Bestände",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 9",
+      "target": "Arbeitsteilung an der Konsole",
+      "type": "object",
+      "quote": "Kap 9**: Arbeitsteilung an der Konsole",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 10",
+      "target": "Kael hält einen Datensatz, ohne zu klicken",
+      "type": "want",
+      "quote": "Kap 10**: Moonshine am Arbeitsplatz: Kael hält einen Datensatz, ohne zu klicken",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 11",
+      "target": "Kael ordnet seine gelesenen Bestände neu",
+      "type": "want",
+      "quote": "Kap 11**: Die Ordnung des Verworfenen — Kael ordnet seine gelesenen Bestände neu",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 13",
+      "target": "Kael dreht die Konsole um drei Grad",
+      "type": "want",
+      "quote": "Kap 13**: Kael dreht die Konsole um drei Grad.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 14",
+      "target": "Das fehlgeleitete Ticket",
+      "type": "object",
+      "quote": "Kap 14**: Das fehlgeleitete Ticket",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 13",
+      "target": "Kael dreht die Konsole um drei Grad.",
+      "type": "want",
+      "quote": "Kap 13**: Kael dreht die Konsole um drei Grad.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 14",
+      "target": "Das fehlgeleitete Ticket",
+      "type": "object",
+      "quote": "Kap 14**: Das fehlgeleitete Ticket (Idee 6)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 15",
+      "target": "das Halteproblem-Dossier",
+      "type": "object",
+      "quote": "Kap 15**: Lektüre I — das Halteproblem-Dossier",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 16",
+      "target": "das Komplexitäts-Budget",
+      "type": "object",
+      "quote": "Kap 16**: Lektüre II — das Komplexitäts-Budget",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 17",
+      "target": "Rendering vs. Prozess-Kern",
+      "type": "object",
+      "quote": "Kap 17**: Lektüre III — Rendering vs. Prozess-Kern",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 18",
+      "target": "Der unbedienbare Datensatz erscheint",
+      "type": "object",
+      "quote": "Kap 18**: Der unbedienbare Datensatz erscheint (§3, Datentyp leer).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 20",
+      "target": "Kael bestätigt einen Selbst-Bestand, nachdem er ihn kopiert hat",
+      "type": "falsehood",
+      "quote": "Kap 20**: Die erste Fälschung — Kael bestätigt einen Selbst-Bestand, *nachdem* er ihn kopiert hat.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 22",
+      "target": "Seriennummer 734",
+      "type": "object",
+      "quote": "Kap 22**: Seriennummer 734 (Idee 10)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 23",
+      "target": "Kael legt den ersten Datensatz an, den die Welt nicht zugewiesen hat",
+      "type": "want",
+      "quote": "Kap 23**: Der eigene Bestand — Kael legt den ersten Datensatz an, den die Welt nicht zugewiesen hat",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 24",
+      "target": "Kael verteilt das Register auf die inneren Stimmen",
+      "type": "want",
+      "quote": "Kap 24**: Wartung der Leitung (Idee 4) und Angriff auf den Bestand: Kael verteilt das Register auf die inneren Stimmen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 25",
+      "target": "Kael bestätigt nichts mehr",
+      "type": "want",
+      "quote": "Kap 25**: Die Niederlegung — Kael bestätigt nichts mehr.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 26",
+      "target": "Der Apparat reklassifiziert",
+      "type": "obstacle",
+      "quote": "Kap 26**: Der Apparat reklassifiziert",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 27",
+      "target": "Kael schreibt seinen ersten Bericht, den niemand angefordert hat",
+      "type": "want",
+      "quote": "Kap 27**: Die Autoren-Feder \\[K\\] — das Delikt wird Absicht: Kael schreibt seinen ersten Bericht, den niemand angefordert hat",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 30",
+      "target": "Junas Kanal",
+      "type": "object",
+      "quote": "Kap 30**: Junas Kanal",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 31",
+      "target": "Zwei Geschenke",
+      "type": "object",
+      "quote": "Kap 31**: Zwei Geschenke (Idee 11)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 31",
+      "target": "Kael unterschreibt keines und verlässt den Raum mit beiden Prinzipien",
+      "type": "want",
+      "quote": "Kael unterschreibt keines und verlässt den Raum mit beiden Prinzipien",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 32",
+      "target": "in der Schlange erscheinen Bestände mit Kaels Signatur, die er nie angelegt hat",
+      "type": "falsehood",
+      "quote": "Kap 32**: Der Wahrheits-Test \\[K\\] — in der Schlange erscheinen Bestände mit Kaels Signatur, die er nie angelegt hat",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "die Wurzel der Schlange — die erste Zuweisung des Universums, das Original",
+      "type": "object",
+      "quote": "Kap 33**: Am Kern: die Wurzel der Schlange — die erste Zuweisung des Universums, das Original",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 34",
+      "target": "AEGIS' Makro-Log listet Kael als offenen Posten",
+      "type": "obstacle",
+      "quote": "Kap 34**: Konfrontation \\[K\\]: AEGIS' Makro-Log listet Kael als offenen Posten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35 (Beats 1–3)",
+      "target": "Kael nimmt die Hand von der Konsole",
+      "type": "want",
+      "quote": "Kael nimmt die Hand von der Konsole",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 37",
+      "target": "Kael baut einen sanften Apparat",
+      "type": "want",
+      "quote": "Kap 37**: Der Gärtner als Sachbearbeiter — Kael baut einen sanften Apparat",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 38",
+      "target": "Das Rauschen kommt als unendliche Zuweisung",
+      "type": "obstacle",
+      "quote": "Kap 38**: Das Rauschen kommt als unendliche Zuweisung",
+      "stance": "asserts"
+    }
+  ]
+}

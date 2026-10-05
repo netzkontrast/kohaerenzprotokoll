@@ -1,0 +1,146 @@
+{
+  "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "b62c286c8704eaf44024fcf6b8c13bce61977facc1e97120fe403f8c91096f81",
+  "calls": 25,
+  "failed_calls": 0,
+  "seconds": 295.3,
+  "input_tokens": 112478,
+  "output_tokens": 33534,
+  "cost_usd": 0.6526,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1710,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1713,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 2014,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1843,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1089,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1980,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1716,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1961,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1969,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1716,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1544,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1646,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 2027,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 2029,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1651,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1909,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1975,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 2013,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1921,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1911,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1648,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1988,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1483,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1532,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 969,
+      "ok": true
+    }
+  ]
+}

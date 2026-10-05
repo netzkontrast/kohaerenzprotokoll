@@ -24,6 +24,7 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`koharenz-protokoll-strukturierter-outline-2026-05-18-md`](koharenz-protokoll-strukturierter-outline-2026-05-18-md/contracts.md) |  |  |  |  |  |  | 40 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 121 | 151 |  |  |  |  |
 | [`kontext-outline`](kontext-outline/contracts.md) |  |  |  |  |  |  |  |  | 133 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`kp-kap25-2026-09-14-md`](kp-kap25-2026-09-14-md/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |
+| [`kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`](kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md/contracts.md) |  |  |  |  |  |  |  |  | 69 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [`leserzentrierte-roman-outline-generierung-kohaeren`](leserzentrierte-roman-outline-generierung-kohaeren/contracts.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | n.s. |  |  |  |  |  |  |
 | [`mining-report-kohaerenz-protokoll-narrative-building-blocks`](mining-report-kohaerenz-protokoll-narrative-building-blocks/contracts.md) |  |  |  |  |  |  | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 25 | 51 |  |  |  |  |
 | [`roman-plot-entwicklung-mit-kohaerenzprotokoll`](roman-plot-entwicklung-mit-kohaerenzprotokoll/contracts.md) |  |  |  |  |  |  |  |  | 130 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -34,4 +35,4 @@ Which HyperExtract contract has run on which source, and what came of it — wri
 | [`the-coherence-protocol-the-hidden-rules-that-hold-reality-to`](the-coherence-protocol-the-hidden-rules-that-hold-reality-to/contracts.md) |  | 15 |  |  |  |  |  |  |  |  |  |  |  | ? |  |  |  |  | ? |  | 16 |  |  |  |  |  |  |  |  |  |  |  |
 | [`worldbuilding-konzept-kohaerenzprotokoll-md`](worldbuilding-konzept-kohaerenzprotokoll-md/contracts.md) |  |  |  |  |  |  | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 | 153 |  |  |  |  |
 
-156 runs on 29 sources: 131 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
+157 runs on 30 sources: 132 yielded, 4 refused, 11 found nothing, 4 not staged, 6 unverified.
