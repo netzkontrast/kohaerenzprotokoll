@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence"]
 gathered: "2026-09-16"
 ---
 
@@ -68,6 +68,10 @@ to, not in the word.
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — emergence as a possible property of the Potentialmeer and the ground of M's holism
 
 The matrix gives emergence two roles: „Erklärung für M's holistische Natur“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L55] (L55), where AEGIS's reductionist approach fails against emergent phenomena. In the Potentialmeer section the Plotanalyse offers it as a possibility, not a position: „könnte eine Eigenschaft des Potentialmeers sein, aus dem Strukturen wie AEGIS und M hervorgehen“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L115]
+
+## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the strategy paper, the architecture analysis) — Emergenz durch Negation explained as AEGIS's method
+
+The strategy paper's table gives it as AEGIS's method, with its gloss: „(Emergence by Negation). It is a coherence of alienation.“ ^[ai-assisted-narrative-coherence.md:L1175] The architecture analysis lists it among AEGIS's philosophical principles with an explanation: „Defines its existence by what it is“ ^[ai-assisted-narrative-coherence.md:L1773] not, that is incoherent chaos, and elsewhere „Its very existence is defined negatively, through an iterative process of eliminating incoherence—an“ ^[ai-assisted-narrative-coherence.md:L1702] `Emergenz durch Negation`.
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — emergence in Kap 10 and Kap 21
 
