@@ -20,7 +20,7 @@
       "reader": "Der Leser sieht eine Lücke, kennt ihre Ursache nicht.",
       "next": "Der ungelöste Posten erreicht Kaels Arbeitsplatz.",
       "timing": "Vor Kap 1; Abstand offen.",
-      "open": "Welcher Logbezug fehlt, ohne die Genesis zu erklären?",
+      "open": "Welcher Logbezug fehlt? Kap 0 erzählt die Genesis aus AEGIS' Sicht (W12, Entscheidung 025 Schritt 42): drei der vier Schritte, ohne den vierten zu verraten.",
       "storypoints": [
         [
           "B",
@@ -49,7 +49,7 @@
       "action": "Kael verlässt die Schicht, um die alte Frau aus dem Löschbereich zu holen; eine erledigte Handlung bleibt ihm fremd.",
       "turn": "Eine Person ist gerettet, ein Lied verschwindet; der eigene Anschluss ist nur aufgeschoben.",
       "cost": "Schuld gegenüber einem konkreten Menschen; die Null wird verfehlt.",
-      "knowledge": "734 ist seine Wohneinheit; ob der Anschluss seine eigene Zeile bedeutet, weiß er noch nicht.",
+      "knowledge": "Entwurf G zeigt 734 als seine Wohneinheit — eine Option aus G, kein Planfakt: Kaels Verhältnis zu 734 ist offen (Q7), AEGIS stammt aus 734 (W12). Ob der Anschluss seine eigene Zeile bedeutet, weiß er noch nicht.",
       "reader": "Eine fremd wirkende Tat wird sichtbar; welcher Anteil handelt, bleibt unbenannt.",
       "next": "Die Folge des Fensters 06:10 zwingt Kap 2; die korrigierte Drei kehrt wieder.",
       "timing": "Ein Arbeitstag; 06:10 nur als offene Frist aus G.",
@@ -322,10 +322,10 @@
       "turn": "Er erkennt ein Davor, nicht dessen vollständigen Ausgang.",
       "cost": "Seine Erklärung, dass nichts verloren sei, trägt nicht mehr.",
       "knowledge": "Er weiß, dass Beziehung und drohende Trennung existierten.",
-      "reader": "Juna handelt; Genesis und Fragmentierungsnacht bleiben nicht gleichgesetzt.",
+      "reader": "Juna handelt. Genesis und Fragmentierungsnacht sind ein Ereignis auf zwei Ebenen (W12, Entscheidung 025 Schritt 42); Kap 11 zeigt davon nur den Rand.",
       "next": "Kael sucht in Kap 12 seine eigene Zeile statt einen fremden Fehler.",
       "timing": "Erinnerte Vergangenheit, nicht Junas erste Begegnung in der Gegenwart.",
-      "open": "Welche Information bleibt bewusst Kap 18 vorbehalten? W12 nicht entscheiden.",
+      "open": "Welche Information bleibt bewusst Kap 18 vorbehalten?",
       "storypoints": [
         [
           "A",
@@ -351,7 +351,7 @@
       "reader": "Anschluss aus Kap 1 und Person dürfen keine stillschweigende Gleichsetzung bleiben.",
       "next": "Kap 13 verlangt seine eigene Antwort auf den bestätigten Posten.",
       "timing": "Das Fenster muss nachweislich noch vor ihm liegen.",
-      "open": "Welche neue Information unterscheidet diesen Fund vom Wissen über WE 734 in G?",
+      "open": "Welche neue Information unterscheidet diesen Fund? Das Wissen über WE 734 ist eine Option aus Entwurf G; Kaels Verhältnis zu 734 ist offen (Q7), AEGIS stammt aus 734 (W12).",
       "storypoints": [
         [
           "A",
@@ -518,7 +518,7 @@
       "reader": "Die Schutzfunktion ist verständlich, ihre Folgen bleiben schädlich.",
       "next": "Ein geretteter Rest erlaubt den bewussten Einsatz des Kanals.",
       "timing": "Flashback innerhalb der Gegenwart; Umfang offen.",
-      "open": "Was zeigt diese Nacht, solange W12 offen ist? Oblivions Pivot nicht vorziehen.",
+      "open": "Was zeigt die Nacht ohne ihre Ursache (Schritt 39)? Sie ist dasselbe Ereignis wie die Genesis (W12, Entscheidung 025 Schritt 42); die kosmische Ebene schimmert nur. Oblivions Pivot nicht vorziehen.",
       "storypoints": [
         [
           "A",
@@ -596,8 +596,8 @@
       "knowledge": "Kael kann die Spur benutzen, aber Echtheit noch nicht vollständig beweisen.",
       "reader": "Leser bekommt einen Beleg und eine plausible Gegenlesart.",
       "next": "AEGIS handelt in Kap 22 auf Grundlage des Tests.",
-      "timing": "Genesis-Flashback; Stellung zur Nacht bleibt offen.",
-      "open": "Welche zwei Lesarten verdienen Bestand? W12 und Junas Ontologie nicht heimlich lösen.",
+      "timing": "Genesis-Flashback: das Trennungsprotokoll, dasselbe Ereignis wie die Nacht (W12, Entscheidung 025 Schritt 42).",
+      "open": "Welche zwei Lesarten verdienen Bestand? Junas Ontologie nicht heimlich lösen.",
       "storypoints": [
         [
           "A",
@@ -895,10 +895,10 @@
       "turn": "Die Handlung gelingt trotz Rest, und der Tag ist nicht falsch.",
       "cost": "Die Sicherheit einer vollständigen Null wird aufgegeben.",
       "knowledge": "Er kennt seinen nächsten Schritt, nicht die endgültige Erklärung jeder Welt.",
-      "reader": "Das Anfangsmotiv wird bezahlt: offener Rest bedeutet jetzt tragfähige Ordnung.",
+      "reader": "Das Anfangsmotiv wird bezahlt: offener Rest bedeutet jetzt tragfähige Ordnung. Hier wird der vierte Schritt der Genesis vollzogen, Wir-AEGIS-plural (W12, Entscheidung 025 Schritt 42).",
       "next": "Kap 40 kann den Rahmen öffnen, ohne die Leistung der Figuren zurückzunehmen.",
       "timing": "Ende des vierten Akts; Coda außerhalb der Signposts.",
-      "open": "Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden.",
+      "open": "Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden. Wie Storyform B hier endet, hängt an Q8.",
       "storypoints": [
         [
           "A",
