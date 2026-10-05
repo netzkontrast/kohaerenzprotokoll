@@ -355,3 +355,11 @@ It adds the two names of the KW1 Guardian (`Logik` in the methodology report, `L
 „Wächter der Logik. Er bewacht die axiomatischen Grenzen (KW1) und scheitert ultimativ an Gödels Unvollständigkeitssatz.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L130] „Wächter des defensiven Bedrohungsmanagements (KW3).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L132] In the table: „Hier residieren die Wächter-Instanzen (Guardians) von AEGIS und lenken die Simulation.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L78]
 
 Stands: pairing by world, with residence in the Überwelt (L78, L130–L133).
+
+## 2026-10-05 — `kontext-outline`, 2025-05-03, the outline commission
+
+**The commission briefs a pairing: each of the first three worlds has one Guardian, the fourth two.**
+
+The commission's glossary lists the worlds with one guardian each, and the fourth with two: „Sterile, logikbasierte Welt. Guardian: LogOS.“ ^[kontext-outline.md:L30] „Chaotische, emotions-/erinnerungsbasierte Welt. Guardian: Mnemosyne.“ ^[kontext-outline.md:L31] „Verteidigungs-/angstbasierte Welt. Guardian: Cerberus.“ ^[kontext-outline.md:L32] „Kreativitäts-/potenzialbasierte Welt. Guardians: Kairos & Sophia.“ ^[kontext-outline.md:L33] The collective entry names the five: „AEGIS-Entitäten, die die KWs verwalten/kontrollieren“ ^[kontext-outline.md:L48]. The glossary is a basis for the author to refine, so this is the briefing's gloss.
+
+Where it stands: the pairing is briefed for an author to refine, not decided; the Erasure-Pol is not named.
