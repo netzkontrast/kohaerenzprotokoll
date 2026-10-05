@@ -1,0 +1,227 @@
+{
+  "document": "romanprojekt-kohaerenz-protokoll-analyse",
+  "drive_id": "18v17G9Kg0H0O-1qmkB3XzdEH2AzcdR6Y8-XDvNPN8to",
+  "step": "probes",
+  "at": "2026-10-05",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 19,
+  "backslash_escapes": 120,
+  "typographic_marks": 62,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systematik",
+      "Systemfehler",
+      "Systemik",
+      "Systems",
+      "Systemstabilität"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpakete",
+      "Datenträger",
+      "Datenverschiebung",
+      "Datenvolumens"
+    ],
+    "archi": [
+      "Archipel",
+      "Architektur",
+      "Architekturthese",
+      "Archiv"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungs",
+      "Erinnerungsdatei"
+    ],
+    "axiom": [
+      "Axiom",
+      "Axiomatik",
+      "Axiomensystem"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "entit": [
+      "Entität",
+      "Entitäten",
+      "Entitäts"
+    ],
+    "erzäh": [
+      "Erzählarchitektur",
+      "Erzähler",
+      "Erzählung"
+    ],
+    "gleic": [
+      "Gleichgewichts",
+      "Gleichung",
+      "Gleichzeitig"
+    ],
+    "infor": [
+      "Information",
+      "Informationsdichte",
+      "Informationslimit"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapiteln",
+      "Kapitels"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenztheorie",
+      "Kohärenzwächter"
+    ],
+    "konse": [
+      "Konsens",
+      "Konsenses",
+      "Konsequenz"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstrukt",
+      "Konstruktionsmechanismen"
+    ],
+    "kontr": [
+      "Kontradiktions",
+      "Kontroll",
+      "Kontrolle"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeptueller"
+    ],
+    "leser": [
+      "Leser",
+      "Lesers",
+      "Leserätsel"
+    ],
+    "opera": [
+      "Operationalisierung",
+      "Operationen",
+      "Operator"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "selbs": [
+      "Selbstmodell",
+      "Selbstoffenbarung",
+      "Selbstreferenz"
+    ],
+    "speic": [
+      "Speicher",
+      "Speichermanagement",
+      "Speichersubstrat"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturen",
+      "Strukturschluss"
+    ],
+    "trenn": [
+      "Trennung",
+      "Trennungsaktes",
+      "Trennungsprotokoll"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widerstand"
+    ],
+    "algor": [
+      "Algorithmische",
+      "Algorithmischen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Trennungsaktes"
+    ],
+    [
+      "Bild",
+      "Weltbild"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Dualismus"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Hard",
+      "Hardware"
+    ],
+    [
+      "Hier",
+      "Hierarchie"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kein",
+      "Keine"
+    ],
+    [
+      "Lese",
+      "Leser"
+    ],
+    [
+      "Lese",
+      "Lesers"
+    ],
+    [
+      "Lese",
+      "Leserätsel"
+    ],
+    [
+      "Lese",
+      "Leseerfahrung"
+    ],
+    [
+      "Lore",
+      "Lores"
+    ]
+  ]
+}
