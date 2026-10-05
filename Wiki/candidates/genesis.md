@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 36
-readings: 35
+sources: 37
+readings: 36
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz"]
 gathered: "2026-09-24"
 ---
 
@@ -19,6 +19,10 @@ and unmerged.
 A narrative text in four parts, headed „Vorwort“ ^[einleitung-genesis-der-existenz.md:L13], then „Genesis“ ^[einleitung-genesis-der-existenz.md:L29], `Dazwischen` and `Die Krise`. The order the text itself tells, by its sub-headings, with lines: the preface on the Nichts (L15–L27); `Das Rauschen` and `Herz der Leere`, the fragment in the void (L31–L39); `Erste Kontakte`, clusters that mostly fall apart (L49); `Der Sog der Ordnung`, a larger cluster with its own motor (L61); `Überlebenskampf` (L71); the click and AEGIS's principle (L85–L93); the fragment become Komponente 734 (L100); the inner space, the Überwelt (L112–L124); `Dazwischen` (L133–L135); the crisis: the foreign entity (L145–L147), the misread resonance (L153–L157), the protocol (L161) and the fragmentation of the Ursprungs-Ich (L187–L197). The narrator is first person in the Genesis part and at L165–L175 and L193–L197; `Die Krise` otherwise reports in the past tense (L137 on).
 
 The preface opens on the word `Nichts`, which resists thought (L15). The narrator then is the noise itself: „Ich bin dieses Rauschen, oder es droht mich zu verschlingen.“ ^[einleitung-genesis-der-existenz.md:L33]
+
+## Reading — `optimierte-plotline-genesis-der-existenz`, 2025-04-29, the optimised Genesis plotline — the Genesis re-planned in ten scenes and three parts
+
+The outline gives the order of its scenes with the names it gives them. It opens with „Der Funke im Nichts“ ^[optimierte-plotline-genesis-der-existenz.md:L17], in which the beat „Minimales Selbst“ ^[optimierte-plotline-genesis-der-existenz.md:L35] sets a flicker of coherence in the Rauschen; it plans clusters in scene 3, „Der Keim der Ordnung“ ^[optimierte-plotline-genesis-der-existenz.md:L61], and AEGIS's click in scene 4. Scene 5 is „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L109] and scene 6 „Die Überwelt“ ^[optimierte-plotline-genesis-der-existenz.md:L131]. Part 3 begins with the anomaly: „Plötzlich registrieren Grenzsonden (inkl. Komponente 734) eine Signatur, die allen bekannten Parametern widerspricht.“ ^[optimierte-plotline-genesis-der-existenz.md:L173] Scene 8 plans the cascade and the decision for the protocol, scene 9 the cuts, and scene 10 „die Geburt von Kael als Mosaik traumatisierter, verwirrter Bewusstseinsfragmente“ ^[optimierte-plotline-genesis-der-existenz.md:L222]. The outline's own scene numbers run from 1 to 10; it presents itself as a restructuring of the narrative, „berücksichtigt die Kritikpunkte“ ^[optimierte-plotline-genesis-der-existenz.md:L13].
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the commentary's step-by-step retelling of a narrative it calls `Genesis der Existenz`
 
@@ -94,6 +98,10 @@ Kap 39: „Genesis 4. Beat vollzogen." ^[koharenz-protokoll-strukturierter-outli
 
 C12: this outline holds both orders and counts a fourth, two weeks before the
 Kapitel-Kompendium does the same.
+
+## Where the sources differ
+
+- `optimierte-plotline-genesis-der-existenz`, 2025-04-29: a ten-scene outline in which Komponente 734 (scene 5, L109) precedes the protocol (scene 8, L197) and Kael follows it (scene 10, L222).
 
 ## Open
 
