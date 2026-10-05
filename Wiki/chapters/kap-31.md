@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -62,6 +62,10 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 - Oblivion: „Oblivion verkörpert den massiven Drang zu dissoziieren, um zu überleben.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L182] · „Kael erkennt, dass dieser Anteil ihn als Kind vor dem Tod bewahrt hat.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L182]
 - Story: „Anstatt Oblivion zu bekämpfen, umarmt Kael ihn.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L182]
 - Establishes: „wodurch Oblivion seine feindliche Macht verliert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L182]
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — breaks the false ending, as a proposal (OFFEN, Appendix C.6)
+
+- Plot beats, as a proposal: „Kapitel 31 zerbricht es.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L742]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
