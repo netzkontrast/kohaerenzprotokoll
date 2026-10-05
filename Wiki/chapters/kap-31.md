@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -58,6 +58,14 @@ Position: Teil III; setting from the `Schauplatz` field: „Die Logik-Schleifen 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, Cerberus, Lex, Nyx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L309]
 - Story: the blueprint plans, in `Plot-Beats`, „LogOS und Cerberus attackieren Kael in einer koordinierten Phalanx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L311] and „Diese interne Harmonie überlastet die binären Wächter“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L311]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Auflösung der Guardians
+
+Title: „Die Auflösung der Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L389] — heading „Die Assimilation“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L390]
+Position: Teil III; POV from `Perspektive & Stimme`: „Polyphon (Kael konfrontiert)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L391]; place from `Ort`: „Die zerfallenden Kernwelten“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L393]
+
+- Story: the matrix plans „Kael kämpft nicht gegen die Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L395]
+- Question: „Was passiert mit den Wächtern, wenn das Gefängnis überflüssig wird?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L394]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
