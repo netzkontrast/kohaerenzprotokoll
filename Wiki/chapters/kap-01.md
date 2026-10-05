@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 27
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 28
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -79,6 +79,14 @@ Position: Teil I; setting from the `Schauplatz` field: „Logos-Prime (KW1) – 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael (Host/ANP), Juna (Hologramm), AEGIS-Protokolle“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L62]
 - Story: the blueprint plans, in `Plot-Beats`, „Während des formalen Check-ins mit dem Juna-Hologramm erlebt Kael eine unerklärliche Trauer-Intrusion“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L64] and „Kael rationalisiert dies weg“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L64]
+
+## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Erwachen-Zyklus
+
+Title: „Der Erwachen-Zyklus“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L21] — heading „Welterkundung in der sterilen Leere“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L22]
+Position: Teil I; POV from `Perspektive & Stimme`: „Kael (Host) / Unzuverlässig, abgehackt, sensorisch überlastet, verwirrt“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L23]; place from `Ort`: „Kern-Welt 1 (Konstrukt-Stadt) – Sektor 04“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L25]
+
+- Story: the matrix plans „Kael erwacht ohne Erinnerung. Er erkundet die euklidische, perfekte Stadt und erlebt die erste physische Anomalie (Zeit-Glitch)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L27]
+- Question: „Was ist real, wenn die eigene Wahrnehmung Aussetzer hat?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L26]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
