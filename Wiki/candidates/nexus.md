@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen"]
 gathered: "2026-09-17"
 ---
 
@@ -44,6 +44,10 @@ The master blueprint plans for Kap 17: „Kael findet einen rauschfreien Nexus.�
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Nexus in Kap 25, 27, 30 and 33
 
 Kap 25 sets the place „Der Nexus (Das Zentrum von AEGIS).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L317] and plans „Kael durchbricht die letzte Barriere und betritt den Nexus.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L319] Kap 27 is set at „Der Rand des Nexus, das pure Nichts.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L345] Kap 30 at „Der Aufstieg zurück zum Nexus-Kern.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L381] and Kap 33 at „Der Nexus-Core.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L417]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Kael ascending into the Nexus, glossed as the Überwelt
+
+The Teil II plot has Kael turn from victim to investigator, name AEGIS and „steigt in den Nexus (die Überwelt) auf“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L28]. The report gives the Nexus only there, glossed in its own parenthesis as the Überwelt.
 
 ## Open
 
