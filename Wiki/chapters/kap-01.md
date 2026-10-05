@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 21
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -95,6 +95,10 @@ Position: Akt I („Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-outline-revi
 - Encoding A: „MC · SP1 (Memory) · Falsehood-vs-Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L160]
 - The revision's change 3 seeds Juna from Kap 1: „ein Wort, das aus dem Nichts auftaucht“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L21].
 - Open point 3, a proposal and not a decision, asks of Kap 1 and Kap 39: „Welches einzige Wort kippt die Bedeutung des ersten/letzten Satzes?“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L384]
+
+## Reading — `research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out`, 2026-04-30, the research prompt — a template that asks for the Ouroboros marker
+
+- Position: the prompt asks the executing AI for an Ouroboros marker on Kap 1 and Kap 39 together — „Welche Phänomenologie kehrt am Ende invertiert zurück?“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L492] — and lists „Kapitel 1 und 39 mit Ouroboros-Marker“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L1083] among the output's checks. It names no image itself; the reported ending is „Ouroboros-Schluss“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L750].
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
