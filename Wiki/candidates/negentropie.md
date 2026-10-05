@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 6
-readings: 5
+sources: 7
+readings: 6
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung"]
 gathered: "2026-09-16"
 ---
 
@@ -88,3 +88,7 @@ the project's uncertainty into its position.
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — islands around Kael/M
 
 Kap 37 of the outline of 2026-05-01: „Inseln der Negentropie entstehen um ihn“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L330] — around `Kael/M`, glossed as practice.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — a zero-entropy enclave in Kap 12 and islands of order in Kap 37
+
+Kap 12 lists it among its concepts: „Negentropie, Der Jetzt-Raum.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L343] The beat has AEGIS scan the enclave and find „Der Ort weist extrem hohe Kohärenz, aber null Entropie auf.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L345] In Kap 37 the plan has order grow around Kael: „entstehen um ihn herum Inseln der Negentropie“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1120] The run's own reflection in Anhang D says the pairing with Embodiment structures chapters 10 to 13: „überhaupt erst sinnvoll strukturiert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1377]
