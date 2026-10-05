@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 37
-readings: 35
+sources: 38
+readings: 36
 conflict: C12, C16
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md"]
 gathered: "2026-09-25"
 ---
 
@@ -54,6 +54,10 @@ This is the only read or scanned source that ties the designation to an alter ot
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — Component 734 made from the Ursprungs-Ich at self-closure
 
 The manifest says the original self, „formerly recognized as the“ ^[aegis-persona-and-manifest-generation.md:L17] `Ursprungs-Ich` (inner marks the manifest's), was „systematically dismembered, its processing capacities repurposed and recompiled“ ^[aegis-persona-and-manifest-generation.md:L17], into the component „designated strictly as Component 734“ ^[aegis-persona-and-manifest-generation.md:L17]. Here the component is made from the Ursprungs-Ich at self-closure; the shattered fragments are what its legacy files call Kael.
+
+## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — 734 as a function inside the architecture
+
+In §3.3, beat 2 (CORE), Kael is split off as Komponente 734: „eine Funktion innerhalb der Architektur, nicht außerhalb“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114] Beat 3 is headed `Kael als 734` and says „Kennt seine Genese nicht.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L115] In F9 (OFFEN) the current form is written `Kael=734`: „Einheit → Trennungsprotokoll → Kael=734.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L550]
 
 ## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
@@ -309,6 +313,7 @@ whose (strukturierter Outline, L765); he does not remember that he was it
 proposal).
 - `textanalyse-existenz-system-und-leid`, 2025-11-18: the component is made at closure, before the `Kohärenz Protokoll 1.0` (L90–L92, L162 against L244); the document does not write `Trennungsprotokoll`.
 - `optimierte-plotline-genesis-der-existenz`, 2025-04-29: the Ursprungs-Ich is written as „Komponente 734“ ^[optimierte-plotline-genesis-der-existenz.md:L180] in parentheses, so the outline names the Ursprungs-Ich and the component together; the component is made in scene 5, before the protocol of scene 9.
+- The Struktur-Kanon places the split-off of 734 inside the architecture, as CORE: „eine Funktion innerhalb der Architektur, nicht außerhalb“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L114]
 
 ## Open
 
