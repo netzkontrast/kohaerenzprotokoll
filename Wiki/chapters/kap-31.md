@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -75,6 +75,11 @@ Position: Akt III („Existenzielle Fusion“ ^[kohaerenz-protokoll-outline-revi
 - Story: the outline places: „Er war derjenige, der die Sekunden in Kap 1, 3, 9 gestohlen hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302]; „Steh auf.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302]
 - Encoding A: „MC · SP4 (Subconscious) · Truth · Decision“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302]
 - Foreshadowing: „Oblivion's Wahl wird in Kap 36 final.“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L302]
+
+## Reading — `romanprojekt-kohaerenz-protokoll-analyse`, 2026-04-30, the Synthese-Report — Oblivion breaks the false calm
+
+- The false ending: in Kap 30 „fällt die Erzählung in eine scheinbare Harmonie“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143] — no glitches, no heat; „Kael glaubt, Integration erreicht zu haben“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143].
+- In Kap 31 the mirror alter Oblivion breaks „diese falsche Ruhe auf“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143], which forces „den letzten Marsch in den Mnemosyne-Vortex“ ^[romanprojekt-kohaerenz-protokoll-analyse.md:L143] (Kap 35). The syntax grid wakes Oblivion at the Truth-Rotation in Kap 36 instead (L128); the report states both.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
