@@ -636,3 +636,11 @@ Stands as a document of 2025-07-29 that gives the two names as inner parts, outs
 The entity appendix lists `LogOS` as „Guardian KW“ ^[deconstructing-reality-s-architecture.md:L312], `Mnemosyne` as „Guardian KW“ ^[deconstructing-reality-s-architecture.md:L313], `Cerberus` as „Guardian KW“ ^[deconstructing-reality-s-architecture.md:L314] and `Kairos` as „Guardian KW“ ^[deconstructing-reality-s-architecture.md:L315]; the export dropped the digits, and the pairing follows the table's order (KW1 to KW4).
 
 Stands as a four-guardian, one-per-world arrangement in the guide's report; recorded, not applied, and no relation to the count in the record is decided here.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept names five Guardians and four worlds, each world with its Guardian, Kairos and Sophia sharing the fourth.**
+
+The count: „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[kohaerenz-protokoll-2.md:L66]. The pairing, line by line: „Konstrukt-Stadt (LogOS)“ ^[kohaerenz-protokoll-2.md:L75], „Resonanz-Landschaft (Mnemosyne)“ ^[kohaerenz-protokoll-2.md:L76], „Grenzfeste (Cerberus)“ ^[kohaerenz-protokoll-2.md:L77], „Möglichkeits-Garten (Kairos/Sophia)“ ^[kohaerenz-protokoll-2.md:L78]. The worlds „Sie werden von den entsprechenden Guardians überwacht“ ^[kohaerenz-protokoll-2.md:L71].
+
+Stands with the five-Guardian, four-pair position of the record; recorded, not applied, and the record's own status is not changed here.
