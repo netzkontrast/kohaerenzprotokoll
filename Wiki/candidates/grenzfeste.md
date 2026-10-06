@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 42
-readings: 42
+sources: 43
+readings: 43
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-narrativer-bauplan", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-narrativer-bauplan", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kohaerenz-protokoll-2"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -47,6 +47,10 @@ by effect, never by identity. See [[partnerin|Partnerin]].
 
 `Cerberus` — see [[cerberus|Cerberus]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
+
+## Reading — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept — Grenzfeste as Cerberus's world of protection
+
+„Grenzfeste (Cerberus)“ ^[kohaerenz-protokoll-2.md:L77]: „Ebene der Schutzmechanismen, protektive Anteile, Paranoia, Kontrolle, Vermeidung (Bunker)“ ^[kohaerenz-protokoll-2.md:L77]. The hypothetical alter tied to it: „Protektiv, paranoid, kontrollierend, misstrauisch (verbunden mit Grenzfeste)“ ^[kohaerenz-protokoll-2.md:L59].
 
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — KW3 as an oppressive world of distrust, externalising Kael's defences, under Cerberus
 
