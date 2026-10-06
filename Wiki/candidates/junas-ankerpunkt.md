@@ -1,10 +1,10 @@
 ---
 term: Junas Ankerpunkt
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "welt", "roman-lokalitaeten-konzept-und-ausarbeitung-2"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "welt", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -48,6 +48,10 @@ develop it. See [[risse]], [[externe-ebene]].
 ## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept — the seventh key place, shown in KW4, KW1 and KW3
 
 The seventh key place is headed „Manifestation in einer Kern-Welt (z.B. KW4)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L258], after the name Juna's Ankerpunkt in the document's straight quotes. It is a place or object that serves „als direkte Manifestation oder Verbindungspunkt zur Externen Ebene und zu Juna dient“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L260], and it is, in the concept's words, „Es ist ein Symbol der Hoffnung, der Andersartigkeit und des externen Einflusses“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L260]. Examples are given per world, KW4 first („In KW4 (Möglichkeits-Garten):“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L265] a plant), KW1 (a small organic flaw) and KW3 (an unexplained safe zone). For the plot: „Juna könnte durch diesen Ankerpunkt kommunizieren, erscheinen oder Kael mit Energie oder Informationen versorgen.“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L272] Conditional throughout.
+
+## Reading — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles — profile 28, Junas Ankerpunkt / Symbolort
+
+Profile 28 is placed „KW4 (Möglichkeits-Garten) (oder potenziell auch in anderen KW)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L517]. It is „Ein spezifischer Ort oder ein wiederkehrendes Motiv in KW4 (oder anderen Ebenen), das eine starke Verbindung zu Juna hat.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L518] The design field proposes „Wenn in KW4, könnte es ein Ort unerwarteter Ruhe, Stabilität oder natürlicher Schönheit sein“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L519], and the rules say „Der Ort scheint außerhalb von AEGIS' direkter Kontrolle zu liegen.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L521] The name `Ankerpunkt` stands in the profile in inner quotes.
 
 ## Reading — `welt`, 2025-07-29, the Welt blueprint — a specific place where her connection becomes manifest
 
