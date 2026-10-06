@@ -259,3 +259,11 @@ Stands as one more account of Kael's origin in a report of 2025-11-03; recorded,
 It writes of the `Genesis-Krise` as „the foundational epistemological trauma of the original unified self“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L37]; in it the original self „encountered an unclassifiable entity“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L37] and misread its own qualia as data corruption (L37). It says Juna/V „has been synthesized into a dual-state“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L41], one state being the exiled `Ursprungs-Ich` of Kael (L41). Of Kael himself: „the specific nature of“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L63] his `Original Trauma` is written `UNKLAR` (L63), and the roadmap plans to script it (L102).
 
 Stands as a report of 2026-03-26 that declares the original self's split and Juna/V as Kael's exiled self while marking Kael's own origin `UNKLAR`; recorded, nothing decided, and the record's rows are not changed.
+
+## 2026-10-06 — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture
+
+**The character architecture asks about Kael's origin as an avatar of an original entity M, and answers nothing.**
+
+In its section of latent tensions, under the heading of M's nature, it writes: „Die Frage nach der ursprünglichen Entität“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L318] M, „deren Avatar Kael ist“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L318], carries considerable potential. It asks how M's nature bears on the fragmentation: „Wie beeinflusst M's Natur Kaels Fragmentierung, sein Potenzial und AEGIS' Interesse an ihm“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L318], and whether there is a link to the Potentialmeer: „Gibt es eine Verbindung zum Potentialmeer“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L318]. The profile of the host had already named „unbekannten Implikationen seiner Herkunft“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L35] among Kael's fears.
+
+Stands as a new row beside the record's origins: the architecture takes M as given in the question, an entity whose avatar Kael would be, and leaves the matter open; recorded, not applied.
