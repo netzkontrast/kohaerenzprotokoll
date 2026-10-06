@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik"]
 gathered: "2026-09-17"
 ---
 
@@ -51,6 +51,10 @@ Kap 35 is titled „Das Fundament als Spiegel: Auflösung der Paradoxien / Die W
 
 The Leitfragen report (an analyst's review) names Juna as the `Partnerin` in its account of the Guardians: the blind spot of LogOS and Mnemosyne toward her is „tief in ihrer jeweiligen Erkenntnistheorie verwurzelt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]. It reports that, as the line has it, LogOS errs „da Juna nicht in logische Operatoren passt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103] and that Mnemosyne reads her presence as a past scar: „Mnemosyne die aktuelle Präsenz der Partnerin als bloße vergangene Narbe fehldeutet“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]. This is the report's account of other documents.
 
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — Partnerin as Juna in the blind-spot column
+
+The report's table of the Kern-Welten heads a column „bezüglich Juna (Partnerin)“ ^[romananalyse-kohaerenz-plot-kritik.md:L55], so Partnerin is given there as Juna. In the rows the guardians' failures are written about the `Partnerin`; for LogOS: „Kann die Partnerin logisch nicht erfassen“ ^[romananalyse-kohaerenz-plot-kritik.md:L56]. The report uses the word `Partnerin` ^[romananalyse-kohaerenz-plot-kritik.md:#3] times, all in that table.
+
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the real Juna as Kael's overloaded partner in Köln
 
 Leitfrage 8 gives, as its aim for the next session, „Die exakten emotionalen Beats, wenn Kael realisiert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96] this: „dass Juna keine Anomalie, sondern seine reale, überlastete Partnerin ist“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96]. It is a question the report puts for a later session, and the line ends in reference 1.
@@ -62,6 +66,10 @@ The research report names the relation in the table row for the Externe Ebene (L
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Partner, a name from corrupted legacy files
 
 The manifest names the anomaly LogOS cannot process as „the relational entity designated in corrupted legacy files as“ ^[aegis-persona-and-manifest-generation.md:L65] `Partner` (inner marks the manifest's), and gives its qualities as „empathy or intuitive connection“ ^[aegis-persona-and-manifest-generation.md:L65]. The manifest never names her otherwise.
+
+## Where the sources differ
+
+- The report of 2026-02-23 writes Partnerin in parentheses after Juna, so it links the two surfaces.
 
 ## Open — and a surface question
 
