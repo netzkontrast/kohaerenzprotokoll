@@ -1,0 +1,148 @@
+{
+  "document": "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte",
+  "drive_id": "1Eq7QMqvMHNwSTZHMaRJ9uUgJG4KhJeUZBHlz6awWpXE",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; read from the queue re-ranked after document 101; a light pass, being lists compiled from the plan of document 97; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-108/brief.md, on kiko, lia, nyx and selene",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 118,
+    "decisions": 127,
+    "decided_by_lookup": 92,
+    "needs_judgement": 35
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: lists whose new surfaces are trope names, subplot labels and discipline concepts compiled from the concept documents of document 97's plan; nothing names a thing of the novel's world that has no page.",
+  "new_readings": [
+    {
+      "page": "kiko",
+      "lines": [
+        13,
+        102
+      ],
+      "attribution": "",
+      "note": "files Kiko under one trope"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        13,
+        102
+      ],
+      "attribution": "",
+      "note": "files Lia under one trope"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        13,
+        103
+      ],
+      "attribution": "",
+      "note": "files Nyx under one trope"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        13,
+        104,
+        136,
+        148,
+        170
+      ],
+      "attribution": "",
+      "note": "Selene as mentor, as subplot, as Selbst"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title), J12 and J16 (compounds: AEGIS-Überwelt, Fundament-Kontakt, Zweite-Ordnung-Kybernetik), J23 and J56 (inflections: Kaels, Anteilen, Fundaments), J34 (Juna/V, Kairos/Sophia), J100–J102 (English trope names placed by the sentence)",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 191,
+      "decision": "reading",
+      "why": "light pass: a list entry of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 206,
+      "decision": "reading",
+      "why": "light pass: a list entry of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "externe-ebene",
+      "surface": "Externe Ebene",
+      "line": 138,
+      "decision": "reading",
+      "why": "light pass: a list entry of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 28,
+      "decision": "reading",
+      "why": "light pass: a list entry of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 139,
+      "decision": "reading",
+      "why": "light pass: a list entry of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 140,
+      "decision": "reading",
+      "why": "light pass: a list entry of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 45,
+      "decision": "occurrence",
+      "why": "the trope `Glitch in the Matrix`, a list entry"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 139,
+      "decision": "reading",
+      "why": "light pass: a list entry of the plan of document 97, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "the trope names (L19–L126) — list entries, each with its attribution; on the figure pages where they name a part",
+    "the five explicit and three implicit subplots (L128–L150) — the plan of document 97, see reconciliation 97",
+    "the concepts by discipline (L150–L259) — borrowed concepts; no page"
+  ],
+  "internal_tension": "none; its doubtful attributions carry a trailing question mark",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

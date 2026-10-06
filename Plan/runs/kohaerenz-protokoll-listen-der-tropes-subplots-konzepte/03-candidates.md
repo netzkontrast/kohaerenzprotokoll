@@ -1,0 +1,127 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is three flat lists (tropes, subplots, concepts) with no definitions. Tropes are written as English name / German name; the joined form and the German name are listed for the ones that carry a world application in parentheses. The concept lists name theories and thinkers as lens, listed under the lens heading. Kael, AEGIS and the other figures appear only in parentheses or in the subplot descriptions.
+
+## world
+- Kohärenz Protokoll
+- Kael
+- AEGIS
+- Juna/V
+- Lex
+- Argus
+- Selene
+- Alex
+- Rhys
+- Kiko
+- Lia
+- Nyx
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Kernwelten
+- KW2
+- KW3
+- Überwelt
+- AEGIS-Überwelt
+- Fundament
+- Anteile
+- ANPs
+- EPs
+- Fehlausgerichtete Kohärenz
+- Kernparadoxons
+- Funktionale Multiplizität
+- Ko-Bewusstsein
+- Amnestische Barrieren
+- Phobien zwischen Anteilen
+- Intrusionen
+- Ursprungstrauma
+- Haupt-Subplots (Explizit genannt)
+- Implizite / Thematische Subplots
+- Kaels Weg zur Funktionalen Multiplizität
+- Lex' (und Argus') Systemanalyse & AEGIS' Paradoxon
+- Das Mysterium Juna/V & die Externe Ebene
+- Der Konflikt mit den Guardians
+- Die Suche nach dem Fundament
+- Die Entwicklung von Selene
+- Die Tragödie von AEGIS
+- Die Beziehung zwischen den Kernwelten und Kaels Psyche
+
+## tropes
+- Hero's Journey / Heldenreise
+- Heroine's Journey / Heldinnenreise
+- Unreliable Narrator / Unzuverlässiger Erzähler
+- Origin Story / Ursprungsgeschichte
+- Mystery Box / Mysterium
+- Rules Lawyer / Regelanwalt
+- Logic Bomb / Logikbombe
+- Glitch in the Matrix / Fehler in der Matrix
+- Simulated Reality / Simulierte Realität
+- Cyberspace / Virtueller Raum
+- First Contact / Erstkontakt
+- What Measure Is a Non-Human? / Was ist das Maß eines Nicht-Menschen?
+- Gaslighting / Gaslighting
+- Identity Crisis / Identitätskrise
+- Claustrophobia / Klaustrophobie
+- Facing Your Demons / Sich seinen Dämonen stellen
+- Journey to the Center of the Mind / Reise ins Zentrum des Geistes
+- Eldritch Location / Unheimlicher Ort
+- Eldritch Abomination / Unbegreifliches Wesen
+- The Watcher / Der Beobachter
+- Reality Subtext / Realitäts-Subtext
+- Touching the Void / Die Leere berühren
+- Internal Conference Room / Innerer Konferenzraum
+- Civil War Within / Innerer Bürgerkrieg
+- Switching Hour / Wechsel der Anteile
+- The Body Keeps the Score / Der Körper erinnert sich
+- False Memory / Falsche Erinnerung
+- The Protector / Der Beschützer
+- The Caregiver / Der Fürsorger
+- The Analyst / Der Analytiker
+- The Inner Child / Das innere Kind
+- The Warrior / Der Krieger
+- The Mentor / Der Mentor
+- Threshold Guardian / Schwellenhüter
+- Shapeshifter / Gestaltwandler
+- Tragic Villain / Tragischer Bösewicht
+- Redemption Arc / Erlösungsbogen
+- Utopia/Dystopia / Utopie/Dystopie
+- Dunkle Nacht der Seele
+- Golem-Legende / Frankenstein-Motiv
+
+## lens
+- Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP)
+- TSDP
+- Dissoziative Identitätsstörung (DID)
+- DID
+- Andere Spezifizierte Dissoziative Störung (OSDD)
+- OSDD
+- Internal Family Systems (IFS)
+- IFS
+- Komplexe Posttraumatische Belastungsstörung (C-PTSD)
+- Logotherapie
+- Narrative Identitätstheorie
+- Autopoiesis
+- Zweite-Ordnung-Kybernetik
+- Kybernetik
+- Simulationstheorie
+- Rahmenproblem (Frame Problem) in KI
+- Holographisches Prinzip
+- Quantenschaum
+- Dekohärenz
+- Informationsparadoxon Schwarzer Löcher
+- Symmetriebrechung
+- Messproblem
+- Theodizee-Problem
+- Neoplatonismus
+- Gnosis
+- Pleroma
+- Demiurg
+- Panopticon
+- Chinesisches Zimmer
+- Ontologischer Schock
+- Unio Mystica
+- Śūnyatā
+- Urchaos
+- Schöpfungsmythen

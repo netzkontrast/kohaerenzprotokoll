@@ -1,0 +1,92 @@
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "möglich"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`möglich` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#2]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "modifiziert"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`modifiziert` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#3]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "potenziell"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`potenziell` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#2]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "Explizit genannt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Explizit genannt` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#1]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "Implizite"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Implizite` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#1]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "identifiziert oder vorgeschlagen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`identifiziert oder vorgeschlagen` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#1]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "AEGIS"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            21
+
+`AEGIS` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#20]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "Selene"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Selene` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#4]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "Juna/V"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Juna/V` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#7]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "Fundament"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Fundament` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#5]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "Kernwelten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernwelten` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#3]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "KW"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`KW` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#0]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "Definition"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Definition` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#0]
+$ read.py kohaerenz-protokoll-listen-der-tropes-subplots-konzepte --count "definiert"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`definiert` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#0]
+$ sed -n 1,127p Sources/drive/kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md | grep -n "?)"   # lines of the trope lists ending a parenthesis with ?
+76:   - Eldritch Location / Unheimlicher Ort (Überwelt, KW2, KW3, Fundame
+77:   - Eldritch Abomination / Unbegreifliches Wesen (AEGIS?, Juna/V?, Fun
+97:   - False Memory / Falsche Erinnerung (durch Mnemosyne?)
+104:   - The Mentor / Der Mentor (Selene?, Juna/V?)
+107:   - Tragic Villain / Tragischer Bösewicht (AEGIS?)
+108:   - Redemption Arc / Erlösungsbogen (potenziell für Anteile oder AEG
+$ stance_marker_count = möglich 2 + modifiziert 3 + potenziell 2 + Explizit genannt 1 + Implizite 1 + identifiziert oder vorgeschlagen 1 = 10

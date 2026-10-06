@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      4
+  ascii quotes           4
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systemanalyse, Systeme, Systemgrenzen, Systemkosten, Systemphilosophie, Systems, Systemtheorie
+  ident    Identifizierung, Identity, Identität, Identitätskrise, Identitätsstörung, Identitätstheorie
+  kontr    Kontrolle, Kontrollmechanismen, Kontrollproblem, Kontrollsysteme, Kontrollsystemen, Kontrollverlust
+  psych    Psyche, Psychiatrie, Psychological, Psychologie, Psychologisch, Psychologischer
+  infor    Information, Informationsbasierte, Informationsparadoxon, Informationstheoretisch, Informationsverlust
+  reali    Reality, Realität, Realitäts, Realitätsebene, Realitätsmodell
+  simul    Simulated, Simulation, Simulationsnatur, Simulationstheorie, Simulierte
+  funkt    Funktion, Funktionale, Funktionalen, Funktionalismus
+  motiv    Motiv, Motivationen, Motive, Motiviert
+  parad    Paradieses, Paradox, Paradoxien, Paradoxon
+  amnes    Amnesia, Amnesie, Amnestische
+  analy    Analyse, Analyst, Analytiker
+  chara    Character, Charakter, Charakterentwicklung
+  disso    Dissociative, Dissoziation, Dissoziative
+  emoti    Emotion, Emotional, Emotionale
+  exist    Existential, Existentialismus, Existenzielle
+  frank    Frankenstein, Frankfurter, Frankl
+  funda    Fundament, Fundamentale, Fundaments
+  inner    Inner, Inneren, Innerer
+  konze    Konzeptdokumenten, Konzepte, Konzeptionelle
+  multi    Multiple, Multiplizität, Multiversum
+  natur    Natur, Nature, Naturkonstanten
+  nicht    Nicht, Nichtlokalität, Nichts
+  quant    Quantenschaum, Quantenunbestimmtheit, Quantenverschränkung
+  urspr    Ursprung, Ursprungsgeschichte, Ursprungstrauma
+
+# substring pairs -- never one term, often merged by accident
+  Alte < Zeitalter
+  Bomb < Logikbombe
+  Ende < Legende
+  Ende < Suchender
+  Ende < Rückblende
+  Free < Freedom
+  Hero < Heroine
+  Kael < Kaels
+  Plot < Subplots
+  Raum < Trauma
+  Raum < Konferenzraum
+  Raum < Bindungstrauma
+  Raum < Ursprungstrauma
+  Raum < Posttraumatische
+  Raum < Entwicklungstrauma
+  Raum < Traumaverarbeitung
+  Sich < Absichten
+  Sinn < Sinnfindung
+  Sinn < Sinnlosigkeit
+  Tell < Intelligenz
