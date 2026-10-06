@@ -457,3 +457,11 @@ Where it stands: a worlds-to-Guardians assignment of four rows in a proposal, th
 Theme 15 (a theme, not a chapter) gives its concept as `Kernwelt 1` with `LogOS` in brackets, and says LogOS stands for „die Tyrannei der reinen Symmetrie“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L218]. Theme 19 gives `Kernwelt 3` with `Cerberus` in brackets, and reads Cerberus as the externalisation of „misstrauischen Beschützer-Anteil (Alex)“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L238]. Theme 23 gives only „Konzept: Kernwelt“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L257], the digit 4 being glued to the word. It names no guardian for any of them, and nothing of Kairos, Sophia, Mnemosyne or an Erasure-Pol.
 
 Stands: unanswered; the themes exegesis pairs two worlds with a name in brackets and leaves the third without one, and changes neither the five Guardians nor the four worlds.
+
+## 2026-10-06 — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline
+
+**The scene outline names a Guardian in three of the four worlds and one unnumbered Guardian, Unit 734; the architecture analysis's world table has no Guardian column.**
+
+The scene outline plans LogOS in KW1 („system protocols overseen by the Guardian LogOS“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L65]), Mnemosyne in KW2 („a manipulative archivist of memory“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L80]) and Cerberus in KW3 („a monstrous entity that enforces boundaries“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L102]). It plans no Guardian for KW4 in its scene lines; its table of worlds writes the double names „Möglichkeits-Garten/Kairos-Potentialis“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L466] and „Grenzfeste/Cerberus-Labyrinth“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L465]. A further Guardian stands outside the worlds, at the coherence check: „A Guardian, designated Unit 734, detains him for a“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L42]. Chapter 22's title is „The Splintering of the Guardians: A System Fractures“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L270].
+
+Stands: three Guardians placed in three worlds and a numbered Guardian without a world, in a plan; the document says nothing of a fifth Guardian, and the pairing is not decided.
