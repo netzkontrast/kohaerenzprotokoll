@@ -1,0 +1,391 @@
+{
+  "document": "roman-refactoring-kohaerenz-und-charakterentwicklung",
+  "drive_id": "1smMGBTWAarYWuqTEmq84BkAyZf8dXrGfjbqfqptf8WA",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; sixth in the queue re-ranked after document 121; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) on disjoint pages, from Plan/runs/ingest-128/brief.md; seven chapter readings written by the session (Plan/runs/ingest-128-kap/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 96,
+    "decisions": 96,
+    "decided_by_lookup": 81,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An assistant's refactoring plan whose own new surfaces are its physics and maths metaphors per part, borrowed philosophy (Slingshot-Argument, Grenzsituation, Sein zum Tode, Ayin), Page-Wootters, Russellsche Trümmer and Cache-Inkohärenz; everything it says of the novel's world went on existing pages and records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        29,
+        39,
+        104,
+        114,
+        126
+      ],
+      "attribution": "",
+      "note": "AEGIS as the embodiment of the correspondence theory, defeated in Akt III"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "Alex typed as a secondary ANP, crisis manager, in an assistant's plan"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        62
+      ],
+      "attribution": "",
+      "note": "Argus as emerging ANP/EP, meta-cognition, in an assistant's plan"
+    },
+    {
+      "page": "did",
+      "lines": [
+        15,
+        37
+      ],
+      "attribution": "",
+      "note": "the plan's dissoziative Identitätsstruktur for Kael"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the Dual-Kernel-Theorie as the narrative's definition"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        116
+      ],
+      "attribution": "",
+      "note": "time as an emergent phenomenon, the Page-Wootters mechanism"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        31,
+        120
+      ],
+      "attribution": "",
+      "note": "entropy as the break-in Juna marks; the Nichts-Rauschen"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "Kael's trauma rooted in the Genesis-Krise of AEGIS"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "the Guardians as personified algorithms"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "Isabelle as the sexualised EP, in an assistant's plan"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        31,
+        84,
+        104,
+        106
+      ],
+      "attribution": "",
+      "note": "Juna as the Kollaps-Kernel's representative; Kapitel 3, Kapitel 26, entanglement"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        39,
+        41,
+        52,
+        66,
+        122
+      ],
+      "attribution": "",
+      "note": "Kael as host and as a system of eleven parts, in an assistant's plan"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "Kiko as the freeze/fear EP, in an assistant's plan"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        27,
+        29
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Kernel in the conflict constituting the DKT"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        27,
+        31
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kernel and Juna as its representative"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as hostile environment in Akt I"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "Lex typed as a rational ANP, in an assistant's plan"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "Lia as the ambivalence EP, in an assistant's plan"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        92,
+        94
+      ],
+      "attribution": "",
+      "note": "LogOS, guardian of logic, and the slingshot argument"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "Mnemosyne confronting Kael with the illusion of a singular ego, Kapitel 18"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        56
+      ],
+      "attribution": "",
+      "note": "Moros as the collapse EP, in an assistant's plan"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        108,
+        126
+      ],
+      "attribution": "",
+      "note": "the Mosaik-Herz as Akt III's resolution without fusion"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        64,
+        66,
+        126
+      ],
+      "attribution": "",
+      "note": "functional multiplicity against fusion, in an assistant's plan"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "the Nexus in a parenthesis after the Überwelt"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        80,
+        120
+      ],
+      "attribution": "",
+      "note": "the Nichts-Rauschen explained by the Landauer principle, accepted in Akt III"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        54
+      ],
+      "attribution": "",
+      "note": "Nyx as the fight-reaction EP, in an assistant's plan"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        60,
+        126
+      ],
+      "attribution": "",
+      "note": "Rhys typed as a secondary ANP, a harmoniser, in an assistant's plan"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "Rhys healing the Risse in the Konstrukt-Stadt"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        53,
+        106
+      ],
+      "attribution": "",
+      "note": "Selene as Integratorin and the entanglement, in an assistant's plan"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        39,
+        51,
+        132
+      ],
+      "attribution": "",
+      "note": "TSDP as Kael's clinical frame and the matrix column, in an assistant's plan"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "the Überwelt equated with the Nexus at the start of Akt II"
+    },
+    {
+      "page": "verschraenkungs-insel",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "Selene establishing an entanglement island for Kael and Juna"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      3,
+      8,
+      14,
+      18,
+      26,
+      27
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C7"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title and the protocol's name), J60 (the AEGIS expansion, read on aegis), J12 and J16 (compounds with their own sense: Genesis-Krise — read on genesis — Cache-Inkohärenz, Kohärenztheorie, TSDP-Typ, TSDP-Traumastruktur, Wächter-Algorithmen, Kollaps-Kernels), J23 and J56 (inflections: Verschränkungs-Inseln, Kaels, Junas)",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "dissoziative Identitätsstruktur",
+      "line": 15,
+      "decision": "reading",
+      "why": "Kael conceived as a system with a dissociative identity structure — a reading on the page"
+    },
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 27,
+      "decision": "reading",
+      "why": "the theory the plan builds on — a reading on the page"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 112,
+      "decision": "reading",
+      "why": "time as emergent, the plan's report of Page-Wootters — a reading on the page"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 31,
+      "decision": "reading",
+      "why": "the Kollaps-Kernel's breaking-in of entropy — a reading on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 60,
+      "decision": "reading",
+      "why": "Rhys healing the Risse — a reading on the page"
+    },
+    {
+      "page": "verschraenkungs-insel",
+      "surface": "Verschränkungs-Insel",
+      "line": 106,
+      "decision": "reading",
+      "why": "Selene's entanglement island for Kael and Juna — a reading on the page"
+    }
+  ],
+  "not_promoted": [
+    "the repository and knowledge-graph paragraphs (L19–L23) — the assistant's account of a code base",
+    "the physics metaphor per part (L52–L62) — on each part's page as the plan's proposal",
+    "Slingshot-Argument, Korrespondenz- and Kohärenztheorie, Grenzsituation, Sein zum Tode, Ayin, polyphone Narration, External Awakening — borrowed or the plan's own",
+    "Russellsche Trümmer (Kapitel 8) — on kap-08",
+    "Cache-Inkohärenz — twice, undefined"
+  ],
+  "internal_tension": "none found within the document",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
