@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 34
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur"]
+sources: 35
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -121,6 +121,10 @@ Position: the scene outline plans the scene at „1.5 - Cerberus-Labyrinth (KW3)
 ## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Chapters 6–7, The Fortress of Fear
 
 - The scene outline plans Chapter 6 within Chapters 6–7, „The Fortress of Fear“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L90], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
+
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Deceptive Facade
+
+- The plot framework titles Chapter 6 „The Deceptive Facade“ ^[plot-generation-framework-for-the-coherence-protocol.md:L242]. It commissions: „Show a period of apparent calm that AEGIS logs as a success, creating dramatic irony for the reader by foreshadowing the“ ^[plot-generation-framework-for-the-coherence-protocol.md:L242] — a plan, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The initiation
 

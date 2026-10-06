@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 33
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur"]
+sources: 34
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -123,6 +123,10 @@ Position: the scene outline plans the scene at „1.5 - Cerberus-Labyrinth (KW3)
 ## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Chapters 6–7, The Fortress of Fear
 
 - The scene outline plans Chapter 7 within Chapters 6–7, „The Fortress of Fear“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L90], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
+
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Unseen Connection
+
+- The plot framework titles Chapter 7 „The Unseen Connection“ ^[plot-generation-framework-for-the-coherence-protocol.md:L243]. It commissions: „During a crisis, show Kael experiencing an intuitive *gnosis* that helps him succeed, establishing the Moonshine-Link as a real plot device and a source“ ^[plot-generation-framework-for-the-coherence-protocol.md:L243] — a plan, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Death of the old identity
 
