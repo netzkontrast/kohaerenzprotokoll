@@ -324,3 +324,11 @@ Where it stands: one characterisation in a status report, giving no boundary of 
 On what crosses: „transmitting subjective data (feelings, resonance) rather than algorithmic data packets“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L166]. On the boundary toward AEGIS: „a fundamental blind spot in AEGIS's panopticon, invisible to its sensors until it is too late“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L166]. The brief names Juna/V as the other end, „a connection between Kael and an external entity, Juna/V“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L162]; it does not say who in Kael's system can feel the link.
 
 Stands as a boundary toward AEGIS and a statement of what crosses; recorded, the question stays open.
+
+## 2026-10-06 — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture
+
+**The character architecture lets two [[personas]], Kai and [[rhys|Rhys]], feel the Moonshine-Link, and asks whether the link carries costs.**
+
+In the conflict map: „Diese Personas können den“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L232] link, „spüren oder mit ihm interagieren“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L232]. In section 5.1 it asks, and does not answer: „Oder birgt diese externe Resonanz, die AEGIS nicht versteht und bekämpft, auch eigene Risiken oder Kosten“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L316], and „Könnte die Verbindung Forderungen an Kael stellen“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L316].
+
+Stands as a row on who can feel the link and whether it is purely healing; the architecture does not say where the link ends, and decides nothing of the record.
