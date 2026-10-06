@@ -1,0 +1,148 @@
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Rätselmechanik"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Rätselmechanik` ^[kohaerenz-protokoll-narrative-architektur-2.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Narratives Szenario"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Narratives Szenario` ^[kohaerenz-protokoll-narrative-architektur-2.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Die NP-schwere Herausforderung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Die NP-schwere Herausforderung` ^[kohaerenz-protokoll-narrative-architektur-2.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Guardians"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Guardians` ^[kohaerenz-protokoll-narrative-architektur-2.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Guardian"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Guardian` ^[kohaerenz-protokoll-narrative-architektur-2.md:#7]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Moonshine"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Moonshine` ^[kohaerenz-protokoll-narrative-architektur-2.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Moonshine-Verbindung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Verbindung` ^[kohaerenz-protokoll-narrative-architektur-2.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Specification Gaming"
+whole word, case-sensitive     2
+whole word, case-insensitive   5
+including compounds            2
+
+`Specification Gaming` ^[kohaerenz-protokoll-narrative-architektur-2.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Perverse Instantiation"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`Perverse Instantiation` ^[kohaerenz-protokoll-narrative-architektur-2.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Information Hazard"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Information Hazard` ^[kohaerenz-protokoll-narrative-architektur-2.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "ANPs"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`ANPs` ^[kohaerenz-protokoll-narrative-architektur-2.md:#8]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "EPs"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`EPs` ^[kohaerenz-protokoll-narrative-architektur-2.md:#9]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "funktionale Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`funktionale Multiplizität` ^[kohaerenz-protokoll-narrative-architektur-2.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Paradoxon X"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Paradoxon X` ^[kohaerenz-protokoll-narrative-architektur-2.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "KW1"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KW1` ^[kohaerenz-protokoll-narrative-architektur-2.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "KW2"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KW2` ^[kohaerenz-protokoll-narrative-architektur-2.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "KW3"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KW3` ^[kohaerenz-protokoll-narrative-architektur-2.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "KW4"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KW4` ^[kohaerenz-protokoll-narrative-architektur-2.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Riss"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            6
+
+`Riss` ^[kohaerenz-protokoll-narrative-architektur-2.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "Prehension_"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Prehension_` ^[kohaerenz-protokoll-narrative-architektur-2.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur-2 --count "rules\_lawyer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`rules\_lawyer` ^[kohaerenz-protokoll-narrative-architektur-2.md:#1]
+
+stance_marker_count 10 = Rätselmechanik 4 + Narratives Szenario 4 + Die NP-schwere Herausforderung 2

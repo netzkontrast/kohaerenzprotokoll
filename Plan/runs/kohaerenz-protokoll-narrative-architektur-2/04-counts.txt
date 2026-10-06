@@ -1,0 +1,122 @@
+# counts for 102 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            54 word    54 in   [18, 22, 30, 32, 34, 42]
+  Kael                             26 word    53 in   [32, 34, 49, 50, 52, 56]  <-- substring
+                                   23      as Kaels
+                                    2      as Kael-Juna-Verbindung
+  Juna                              8 word    19 in   [49, 56, 62, 64, 68, 138]  <-- substring
+                                    6      as Juna-Verbindung
+                                    2      as Juna-Kael-Verbindung
+                                    1      as Junas
+  Juna/V                            1 word     2 in   [138, 142]
+                                    1      as Juna/V-Verbindung
+  Lex                               4 word     4 in   [90, 134, 265]
+  Rhys                              1 word     1 in   [90]
+  Alex                              1 word     1 in   [90]
+  Argus                             1 word     1 in   [90]
+  Nyx                               3 word     3 in   [91, 95, 134]
+  Kiko                              3 word     4 in   [91, 97, 134, 276]
+                                    1      as Kikos
+  Lia                               2 word     2 in   [91, 96]
+  Isabelle                          2 word     2 in   [91, 98]
+  Moros                             1 word     1 in   [91]
+  Selene                            2 word     3 in   [106, 112, 114]
+                                    1      as Selenes
+  LogOS                             5 word     5 in   [34, 263, 265, 266, 310]
+  Mnemosyne                         3 word     3 in   [274, 276, 311]
+  Cerberus                          5 word     5 in   [284, 287, 312]
+  Kairos/Sophia                     2 word     2 in   [295, 313]
+  Guardian                          7 word     7 in   [34, 263, 274, 284, 295, 297]
+  KW1                               2 word     2 in   [259, 310]
+  KW2                               2 word     2 in   [270, 311]
+  KW3                               2 word     2 in   [280, 312]
+  KW4                               2 word     2 in   [291, 313]
+  Kernwelten                        4 word     4 in   [236, 255, 301, 380]
+  Konstrukt-Stadt                   2 word     2 in   [259, 310]
+  Resonanz-Landschaft               2 word     2 in   [270, 311]
+  Grenzfeste                        3 word     3 in   [280, 287, 312]
+  Möglichkeits-Garten               2 word     2 in   [291, 313]
+  Wald der Echos                    1 word     1 in   [276]
+  Kael-Juna-Verbindung              2 word     2 in   [56, 62]
+  Juna-Verbindung                   6 word     8 in   [56, 62, 64, 68, 181, 187]
+  Moonshine-Verbindung              1 word     1 in   [142]
+  ontologischer Exploit             1 word     1 in   [142]
+  Paradoxon X                       2 word     2 in   [177, 181]
+  Riss                              2 word     6 in   [68, 266, 297, 309, 336, 347]  <-- substring
+                                    2      as Risse
+                                    1      as Rissen
+                                    1      as Risses
+  Rissen                            1 word     1 in   [68]
+  Das Fundament                     7 word     7 in   [195, 212, 216, 222, 226, 230]
+  Die Leere                         4 word     4 in   [195, 205, 206, 207]
+  Nichts Rauschen                   1 word     1 in   [203]
+  offener Entropieraum              1 word     1 in   [203]
+  Manifest der Handlungsfähigkeit    2 word     2 in   [110, 363]
+  funktionale Multiplizität         2 word     2 in   [110, 232]
+  ANPs                              8 word     8 in   [84, 90, 102, 114, 115]
+  EPs                               9 word     9 in   [84, 90, 91, 102, 114, 115]
+  RTSV                              2 word     2 in   [34, 52]
+  Systemkohärenz                    2 word     2 in   [48, 52]
+  Kohärenz Protokoll                3 word     3 in   [13, 373, 383]
+  Zero-Trust-Architektur (ZTA)      1 word     1 in   [34]
+  operationale Geschlossenheit      1 word     1 in   [32]
+  Specification Gaming              2 word     2 in   [38, 42]
+  Perverse Instantiation            4 word     4 in   [38, 44, 49, 394]
+  Information Hazard                1 word     1 in   [66]
+  Gödel-Satz                        2 word     2 in   [62, 181]
+  Gödel-Sätze                       1 word     1 in   [60]
+  Das Gödel-Gambit                  1 word     1 in   [56]
+  Rätselmechanik                    4 word     4 in   [264, 275, 285, 296]
+  NP-schweres Rätsel                1 word     1 in   [265]
+  Problem der booleschen Erfüllbarkeit (SAT)    1 word     1 in   [265]
+  Problems des Handlungsreisenden (TSP)    1 word     1 in   [286]
+  Exploitation-vs.-Exploration-Dilemma    1 word     1 in   [297]
+  Parakonsistente Logik (FDE)       1 word     1 in   [311]
+  Relevanzlogik                     1 word     1 in   [312]
+  Gittereffekte (Lattice Effects)    1 word     1 in   [351]
+  LI-Verletzung (Lorentz-Invarianz-Verletzung)    1 word     1 in   [352]
+  Kaskade kognitiver Dissonanz      1 word     1 in   [183]
+  Rechnerische Blockade             1 word     1 in   [184]
+  Rekursive Fehlerschleife          1 word     1 in   [185]
+  Narrative Design-Matrix der Kernwelten    1 word     1 in   [301]
+  Instabile Erzählung               1 word     1 in   [335]
+  Typografische Fragmentierung      1 word     1 in   [336]
+  Polyphone Erzählung               1 word     1 in   [337]
+  Embrace the Paradox               1 word     1 in   [377]
+  Weaponize Complexity              1 word     1 in   [380]
+  Paradigmenwechsel                 1 word     1 in   [230]
+  Trauma-Zeit                       1 word     1 in   [91]
+  Abwärtskausalität                 1 word     1 in   [158]
+  Forscher                          1 word     1 in   [329]
+  Magier                            1 word     1 in   [329]
+  Strukturellen Dissoziation der Persönlichkeit    2 word     2 in   [76, 84]
+  TSDP                              3 word     3 in   [76, 80, 84]
+  Anscheinend Normale Anteile       1 word     1 in   [84]
+  Emotionale Anteile                1 word     1 in   [84]
+  polyphonen Romans                 2 word     2 in   [76, 124]
+  dialogische Wahrheit              1 word     1 in   [126]
+  Bewusstseinsstrom                 2 word     2 in   [133, 365]
+  Prehension                       17 word    18 in   [146, 152, 154, 155, 156, 158]
+                                    1      as Prehension_
+  physische Prehension              2 word     2 in   [155, 158]
+  konzeptuelle Prehension           2 word     2 in   [155]
+  positive Prehension               1 word     1 in   [156]
+  negative Prehension               2 word     2 in   [156]
+  Resonance Complexity Theory (RCT)    1 word     1 in   [168]
+  Attraktor                         1 word     3 in   [170, 173]  <-- substring
+                                    1      as Attraktoren
+                                    1      as Attraktors
+  Holographische Kompression        1 word     1 in   [171]
+  Wellengeometrie                   1 word     1 in   [171]
+  NP-vollständig                    3 word     4 in   [250, 280, 287, 312]
+                                    1      as NP-vollständigen
+  Jenseits von NP                   3 word     3 in   [251, 270, 311]
+  Qualia                            4 word     4 in   [251, 270, 276, 311]
+  Paraiyas                          1 word     1 in   [216]
+  Presentification                  1 word     1 in   [115]
+  Simulationshypothese              2 word     2 in   [321, 345]
+  Deus ex Machina                   1 word     1 in   [230]
+  dialetheischen Natur              1 word     1 in   [222]
