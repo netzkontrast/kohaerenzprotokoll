@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -62,6 +62,15 @@ Title: „Der Ruf der Tiefe“ ^[roman-outline-system-kael.md:L100]
 Position: Teil II, KW2
 
 - Story: „Ein starker Impuls der Juna-Verbindung destabilisiert Kaels Realität in KW1 vollständig.“ ^[roman-outline-system-kael.md:L100]
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.2, „Das Ufer im Nebel / Der Fehler in der Logik“ ^[finales-kausales-plot-geruest.md:L37] (Kapitel 3–4)
+
+The beat sheet places Kapitel 4 in Beat 1.2; the beat spans Kapitel 3 to 4.
+
+- Beat: the heading titles it „Das Ufer im Nebel / Der Fehler in der Logik“ ^[finales-kausales-plot-geruest.md:L37]
+- Event: the beat sheet's `Beschreibung` says „Kael erlebt eine sich verändernde Realität“ ^[finales-kausales-plot-geruest.md:L39] „behindert aktiv sein Verständnis“ ^[finales-kausales-plot-geruest.md:L39]
+- Cause: the `Kausale Verknüpfung` says „liegt in seiner TSDP-basierten Fragmentierung begründet“ ^[finales-kausales-plot-geruest.md:L40]
+- Throughlines: the OS or MC line says „genau die Probleme verursachen, die sie zu verhindern suchen“ ^[finales-kausales-plot-geruest.md:L45]
 
 ## Reading — `outline`, 2025-07-30, the outline — Echoes aus dem See der Tränen
 

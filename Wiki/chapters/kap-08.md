@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -62,6 +62,15 @@ Title: „Die Mauern der Logik“ ^[roman-outline-system-kael.md:L147]
 Position: Teil III, KW3
 
 - Story: Kael fails again and again „an den paradoxen und sich ständig ändernden Sicherheitsvorkehrungen“ ^[roman-outline-system-kael.md:L147] of Cerberus; every attempt „wird vom System als feindlicher Angriff gewertet“ ^[roman-outline-system-kael.md:L147].
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.4, „Die widersprüchlichen Karten / Kael begegnet Lex“ ^[finales-kausales-plot-geruest.md:L63] (Kapitel 7–9)
+
+The beat sheet places Kapitel 8 in Beat 1.4; the beat spans Kapitel 7 to 9.
+
+- Beat: the heading titles it „Die widersprüchlichen Karten / Kael begegnet Lex“ ^[finales-kausales-plot-geruest.md:L63]
+- Event: the beat sheet's `Beschreibung` says „Kael begegnet Lex, einem rationalen ANP“ ^[finales-kausales-plot-geruest.md:L65]
+- Cause: the `Kausale Verknüpfung` says „externalisiert sofort Kaels inneren Konflikt“ ^[finales-kausales-plot-geruest.md:L66]
+- Throughlines: the OS or MC line says „und zeigen dessen Auswirkungen auf Entitäten innerhalb seines Systems“ ^[finales-kausales-plot-geruest.md:L71]
 
 ## Reading — `outline`, 2025-07-30, the outline — Gaslighting durch das System
 

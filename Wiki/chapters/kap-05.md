@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -61,6 +61,15 @@ Title: „Die Schwelle und der Wächter“ ^[roman-outline-system-kael.md:L102]
 Position: Teil II, KW2
 
 - Story: at the border Kael meets „den Grenzwärter“ ^[roman-outline-system-kael.md:L102] Argus, „eine Manifestation seines metakognitiven, perfektionistischen Anteils“ ^[roman-outline-system-kael.md:L102], and falls through into the Resonanz-Landschaft.
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.3, „Die Mauern der Wachsamkeit / AEGIS' Kontrollmechanismen“ ^[finales-kausales-plot-geruest.md:L50] (Kapitel 5–6)
+
+The beat sheet places Kapitel 5 in Beat 1.3; the beat spans Kapitel 5 to 6.
+
+- Beat: the heading titles it „Die Mauern der Wachsamkeit / AEGIS' Kontrollmechanismen“ ^[finales-kausales-plot-geruest.md:L50]
+- Event: the beat sheet's `Beschreibung` says „AEGIS' allgegenwärtige Kontrolle wird etabliert“ ^[finales-kausales-plot-geruest.md:L52]
+- Cause: the `Kausale Verknüpfung` says „treibt seine starre Kontrolle an“ ^[finales-kausales-plot-geruest.md:L53]
+- Throughlines: the OS or MC line says „Festigt AEGIS als den Antagonisten der“ ^[finales-kausales-plot-geruest.md:L58]
 
 ## Reading — `outline`, 2025-07-30, the outline — Die Jagd in den Datenströmen
 

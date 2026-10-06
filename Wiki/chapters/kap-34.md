@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
 records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,15 @@ Focus: `Ontologische Enthüllung (oder Verwirrung)`, „Die Konfrontation mit de
 
 - Story: „Vermeidung einer einfachen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L285]
 - Concept: „ohne sie zwangsläufig zu bestätigen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L286] (concept tag: `Simulation Hypothesis`, `Cosmic Horror`)
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 3.3, „Das Herz des Systems: Der logische Kollaps“ ^[finales-kausales-plot-geruest.md:L188] (Kapitel 33–35)
+
+The beat sheet places Kapitel 34 in Beat 3.3; the beat spans Kapitel 33 to 35.
+
+- Beat: the heading titles it „Das Herz des Systems: Der logische Kollaps“ ^[finales-kausales-plot-geruest.md:L188]
+- Event: the beat sheet's `Beschreibung` says „Kael dringt in das“ ^[finales-kausales-plot-geruest.md:L190]
+- Cause: the `Kausale Verknüpfung` says „dessen Selbstzerstörung oder erzwungene Transformation auszulösen“ ^[finales-kausales-plot-geruest.md:L191]
+- Throughlines: the OS or MC line says „Kael demonstriert seine volle“ ^[finales-kausales-plot-geruest.md:L197]
 
 ## Reading — `outline`, 2025-07-30, the outline — Blick in den Abgrund/Ursprung: Erster klarer Kontakt mit dem Fundament / Das Fundament – Die Leere ist nicht leer
 

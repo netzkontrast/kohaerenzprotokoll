@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
+sources: 22
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -55,6 +55,15 @@ Focus: `Enthüllung des Kernfehlers`, „das zentrale Paradoxon, das sein Scheit
 
 - Story: „Ein intellektueller Höhepunkt in Akt 2“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L187]
 - Concept: „Das Verständnis dieses Kernfehlers macht AEGIS' Verhalten (teilweise) vorhersagbar“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L188] (concept tag: `Paradox of Control` and `AI Alignment Paradoxes`)
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 2.2, „Intervention der Guardians & Kaels Verwirrung“ ^[finales-kausales-plot-geruest.md:L119] (Kapitel 18–21)
+
+The beat sheet places Kapitel 20 in Beat 2.2; the beat spans Kapitel 18 to 21.
+
+- Beat: the heading titles it „Intervention der Guardians & Kaels Verwirrung“ ^[finales-kausales-plot-geruest.md:L119]
+- Event: the beat sheet's `Beschreibung` says „setzen AEGIS' fehlerhafte Protokolle aktiv durch“ ^[finales-kausales-plot-geruest.md:L121]
+- Cause: the `Kausale Verknüpfung` says „hindern sie daran, Kael wirklich zu verstehen, was zu kontraproduktiven Interventionen führt“ ^[finales-kausales-plot-geruest.md:L122]
+- Throughlines: the OS or MC line says „um ihre wahrgenommene Ordnung aufrechtzuerhalten“ ^[finales-kausales-plot-geruest.md:L127]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

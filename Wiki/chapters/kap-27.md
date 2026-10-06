@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -46,6 +46,15 @@ Focus: `Angewandte Integration`, „Der Beginn der finalen Konfrontation“ ^[2-
 - Story: „AEGIS reagiert mit voller Kraft“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L236]
 - Concept: „Test der erreichten“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L237] (concept tag: `Kael Integration`)
 - Act: „Beginn von Akt“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L236]
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 3.1, „Reise durch Kernwelten & Erste Erfolge“ ^[finales-kausales-plot-geruest.md:L162] (Kapitel 27–29)
+
+The beat sheet places Kapitel 27 in Beat 3.1; the beat spans Kapitel 27 to 29.
+
+- Beat: the heading titles it „Reise durch Kernwelten & Erste Erfolge“ ^[finales-kausales-plot-geruest.md:L162]
+- Event: the beat sheet's `Beschreibung` says „besucht erneut die Kernwelten“ ^[finales-kausales-plot-geruest.md:L164]
+- Cause: the `Kausale Verknüpfung` says „führt direkt zu einer Phase konzentrierter Selbst-Arbeit“ ^[finales-kausales-plot-geruest.md:L165]
+- Throughlines: the OS or MC line says „Kael macht aktiv Fortschritte in Richtung“ ^[finales-kausales-plot-geruest.md:L171]
 
 ## Reading — `outline`, 2025-07-30, the outline — Sturm auf die Überwelt: Der Beginn des Angriffs / Rückkehr zum Nexus
 

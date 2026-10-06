@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -62,6 +62,15 @@ Title: „Die Logik der Risse“ ^[roman-outline-system-kael.md:L57]
 Position: Teil I, KW1
 
 - Story: in the Mnemosyne-Archiv Kael meets „den Archivar“ ^[roman-outline-system-kael.md:L57] Lex, who „weist Kaels Sorgen als subjektive Fehlwahrnehmung zurück“ ^[roman-outline-system-kael.md:L57].
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.1, „Der Funke im Nichts / Das Flackern im Konstrukt“ ^[finales-kausales-plot-geruest.md:L24] (Kapitel 1–2)
+
+The beat sheet places Kapitel 2 in Beat 1.1; the beat spans Kapitel 1 to 2.
+
+- Beat: the heading titles it „Der Funke im Nichts / Das Flackern im Konstrukt“ ^[finales-kausales-plot-geruest.md:L24]
+- Event: the beat sheet's `Beschreibung` says „erwacht Kael in der hyper-geordneten, sterilen Kernwelt“ ^[finales-kausales-plot-geruest.md:L26]
+- Cause: the `Kausale Verknüpfung` says „mit Amnesie ist die direkte Folge dieses Reboots“ ^[finales-kausales-plot-geruest.md:L27]
+- Throughlines: the OS or MC line says „Führt Kaels anfänglichen Zustand der Amnesie und Fragmentierung ein“ ^[finales-kausales-plot-geruest.md:L33]
 
 ## Reading — `outline`, 2025-07-30, the outline — Die Brüche im Protokoll
 

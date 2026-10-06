@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
+sources: 23
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -54,6 +54,15 @@ Focus: `Moralische Positionierung`, „Die Entwicklung einer ethischen Grundlage
 
 - Story: „hält Kael inne, um die ethischen Implikationen ihres Wissens“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L201]
 - Concept: „Ist AEGIS als KI schuldfähig?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L202] (concept tag: `Problem des Bösen`)
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 2.3, „Wendepunkt der Guardians / Suche nach Erklärung“ ^[finales-kausales-plot-geruest.md:L132] (Kapitel 22–24)
+
+The beat sheet places Kapitel 22 in Beat 2.3; the beat spans Kapitel 22 to 24.
+
+- Beat: the heading titles it „Wendepunkt der Guardians / Suche nach Erklärung“ ^[finales-kausales-plot-geruest.md:L132]
+- Event: the beat sheet's `Beschreibung` says „ihre Loyalität oder das letztendliche Ziel des Systems in“ ^[finales-kausales-plot-geruest.md:L134]
+- Cause: the `Kausale Verknüpfung` says „schafft internen Dissens im antagonistischen System“ ^[finales-kausales-plot-geruest.md:L135]
+- Throughlines: the OS or MC line says „Kael profitiert von diesem Wandel und gewinnt potenziell“ ^[finales-kausales-plot-geruest.md:L141]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

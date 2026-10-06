@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -62,6 +62,15 @@ Title: „Der Garten der flüsternden Pfade“ ^[roman-outline-system-kael.md:L1
 Position: Teil IV, KW4
 
 - Story: „Kael findet sich im Möglichkeits-Garten (E5) wieder.“ ^[roman-outline-system-kael.md:L188] At the Nexus of Whispers the oracle Sibyl gives „kryptische, aber hoffnungsvolle Prophezeiungen“ ^[roman-outline-system-kael.md:L188].
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.5, „Der blockierte Funke / Die Suche nach dem Nexus“ ^[finales-kausales-plot-geruest.md:L76] (Kapitel 10–12)
+
+The beat sheet places Kapitel 10 in Beat 1.5; the beat spans Kapitel 10 to 12.
+
+- Beat: the heading titles it „Der blockierte Funke / Die Suche nach dem Nexus“ ^[finales-kausales-plot-geruest.md:L76]
+- Event: the beat sheet's `Beschreibung` says „führt dazu, dass AEGIS versucht, diese Verbindungen zu blockieren“ ^[finales-kausales-plot-geruest.md:L78] „Kael kämpft mit tieferen Aspekten seines Traumas“ ^[finales-kausales-plot-geruest.md:L78]
+- Cause: the `Kausale Verknüpfung` says „treibt die Unterdrückung von Kaels integrativen Bemühungen an“ ^[finales-kausales-plot-geruest.md:L79]
+- Throughlines: the OS or MC line says „bei dem seine Bemühungen, die Ordnung aufrechtzuerhalten, aktiv Instabilität verursachen oder die Heilung blockieren“ ^[finales-kausales-plot-geruest.md:L84]
 
 ## Reading — `outline`, 2025-07-30, the outline — Die Wächter an der Schwelle
 
