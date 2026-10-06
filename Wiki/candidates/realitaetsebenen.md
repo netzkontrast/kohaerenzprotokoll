@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -61,6 +61,10 @@ and each is given a different kind of reactivity:
 
 That second sentence is hedged and is design advice; the six-level enumeration
 above is not.
+
+## Reading — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept — six Realitätsebenen, four of them Kern-Welten
+
+Chapter II of the locations concept opens: „Dieses Kapitel detailliert die sechs fundamentalen Realitätsebenen des Romans“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L179]. Its table covers only the Kern-Welten: „Die Tabelle fasst die Kern-Welten zusammen“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L191]; the Überwelt and the Externe Ebene follow as separate descriptions. A craft rule states a consequence: „Jede der sechs Realitätsebenen muss ihren eigenen, kohärenten Regeln folgen“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L21].
 
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — the introduction's Realitätsebenen and the six-level structure
 
