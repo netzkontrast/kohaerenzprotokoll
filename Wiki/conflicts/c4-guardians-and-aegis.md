@@ -398,3 +398,11 @@ Stands as a report of other documents plus a recommendation, recorded, not appli
 On Julia: her link to Michael is „für das AEGIS-System und die Guardians unsichtbar/unverständlich“ ^[kohaerenz-protokoll-2.md:L65]. On the Externe Ebene: „Sie ist für AEGIS/Guardians unzugänglich und unverständlich.“ ^[kohaerenz-protokoll-2.md:L83] The Teil 3 sketch says „Erkenntnis: Julia/Externe Ebene ist der Schlüssel, unsichtbar für AEGIS.“ ^[kohaerenz-protokoll-2.md:L122]
 
 Stands: a row for the record's positions (AEGIS and the Guardians named together); it neither composes nor separates the two bearers.
+
+## 2026-10-06 — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief
+
+**The design brief directs that the [[moonshine-link|Moonshine-Link]] be a blind spot in AEGIS's panopticon; it names the Guardians only in its glossary and gives them no blind spot.**
+
+On the AEGIS side the brief codifies: „the Moonshine-Link is a fundamental blind spot in AEGIS's panopticon, invisible to its sensors until it is too late“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L166]. The glossary lists four Guardians, for example „Cerberus,Guardian KW3,Defense System,Zero-Trust / Paranoia.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L215], with no word on what any of them cannot perceive.
+
+Stands as a position for the first bearer, AEGIS, in the record's own terms; recorded, not applied, and nothing is decided here.
