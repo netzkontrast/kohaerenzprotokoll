@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 29
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "romanplot-kohaerenz-protokoll-teil-1"]
+sources: 30
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -93,6 +93,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Die Erzählung wechselt kurz zu einer abstrakten Darstellung von AEGIS' Überwachungsprozess.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42]
 - Story: „'nicht-kritische Abweichungen' oder 'unterschwelliges emotionales Rauschen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42] · „Es wird keine sofortige Aktion ausgelöst, aber die Daten werden protokolliert und korreliert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42]
 - Discussion: „es sieht Syntax, keine Semantik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L43]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Act I, its opening scenes unnumbered
+
+- The scene outline gives no line of its own to Chapter 2; it falls within „Fragmentation and First Echoes“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L17], whose opening scenes (1.1–1.3, the awakening in Logos-Prime, the coherence check, the anomaly in the data stream) carry no chapter number.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The guardians of the threshold
 
