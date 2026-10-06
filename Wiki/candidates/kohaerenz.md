@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 30
-readings: 30
+sources: 31
+readings: 31
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romananalyse-kohaerenz-plot-kritik", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romananalyse-kohaerenz-plot-kritik", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu"]
 gathered: "2026-09-17"
 ---
 
@@ -44,6 +44,12 @@ True stability, the narrative says, „erfordert tiefere, innere Kohärenz“ ^[
 ## Reading — `uberarbeitete-optimierte-plotline-genesis-der-existenz`, 2025-04-29, the plotline's Version 2 — the entity as a threat to the principle, coherence restored by AEGIS's definition
 
 Version 2 plans in scene 8 that „Die externe Entität ist keine Ergänzung, sondern ein ontologisches Paradoxon“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L144], which in the same line threatens AEGIS's `Kohärenzprinzip` ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:#1]. In scene 9, after the cuts, „Kohärenz (nach AEGIS' Definition) ist wiederhergestellt.“ ^[uberarbeitete-optimierte-plotline-genesis-der-existenz.md:L173]
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — two coherences colliding, imposed against negotiated
+
+The outline names the novel's driving force as the collision of two definitions of coherence. AEGIS's is „Die Auferlegung einer rigiden, logischen und extern verifizierbaren Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L26], marked by a `Paradoxon der Fehlausgerichteten Kohärenz` of its own, „dem tragischen Versuch eines fehlerhaften Schöpfers“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L26]. Kael's is „Das Erreichen einer authentischen, innerlich verhandelten und dynamischen Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L27].
+
+The plan lets the first fail in Kapitel 22: „Das Ergebnis ist keine Kohärenz, sondern ein katastrophaler Systemabsturz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L213]. The planned epilog, titled „Epilog - Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L279], has AEGIS's last log entry define coherence „nicht als einen Zustand perfekter Ordnung“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L284], and its Ketsu line closes „Er hat wahre Kohärenz erreicht“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L293].
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Kohärenz as AEGIS's code, and its defence as a paradox
 
