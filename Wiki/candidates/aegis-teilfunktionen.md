@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 14
-readings: 12
+sources: 15
+readings: 13
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps"]
 gathered: "2026-09-16"
 ---
 
@@ -75,6 +75,10 @@ The plot analysis reports, with reference 3, the means by which „AEGIS versuch
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the Zero-Trust principle in the Cerberus row of the table
 
 The report's table of the Kernwelten gives KW3 `Cerberus` as a fortress of defence and paranoia whose „Architektur basiert auf Zero-Trust-Prinzipien, algorithmische Feindseligkeit“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L54]. It names `Zero-Trust` only there, as a principle of that world's architecture, and attaches it to no AEGIS function.
+
+## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — `Zero-Trust` as AEGIS' monitoring paradigm
+
+The architecture report's trace 1 says „AEGIS überwacht den Context Object unter Verwendung klassischer Logik“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L139] and a `Zero-Trust` security paradigm, so that every contradiction is identified and eliminated. It names `Zero-Trust` in this one place and lists no sub-functions of AEGIS.
 
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — a Zero-Trust security paradigm of AEGIS, named in passing
 
