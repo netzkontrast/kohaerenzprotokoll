@@ -93,3 +93,16 @@ W3/W6 begrenzen den Zugang, W9/W12 die Herkunftswahrheit, W10 die Stimmen.
 - Kein DKT-Fachwort im Text.
 
 **Frage an dich:** Wann fällt Junas Name zum ersten Mal: Kap 4, Kap 11 oder erst Kap 17?
+
+## Nachtrag 2026-10-06: aus der Wissenstabelle
+
+`Plan/runs/storyform-2026-10-06/wissenstabelle.md` hat drei Lücken gefunden, die hierher gehören.
+
+- **Junas Name auf Kaels Seite (Lücke 3).** Kap 10 nennt die Präsenz noch „ohne Namen Juna“. Kap 15 setzt aber voraus,
+  dass Kael weiß, wie Juna klingt. Dazwischen nennt kein Kapitel ihm den Namen. Die Empfehlung oben, Kap 11, schließt
+  diese Lücke. Kap 4 käme zu früh, Kap 17 zu spät für Kap 15.
+- **734 (Lücken 1 und 2):** Das steht jetzt in W30.
+- **Das Wort „Trennungsprotokoll“ (Lücke 5).** Das Wort gehört AEGIS und der Genesis. Kap 21 ist nach
+  `development.json` der Genesis-Flashback, und nach W12 ist die Nacht dasselbe Ereignis. Offen ist, ob Kael oder Silas
+  im Text je dieses Wort haben oder nur die Nacht. **Empfehlung:** Auf Kaels Seite fällt das Wort nie. Nur AEGIS'
+  Kapitel und Kap 40 benutzen es.

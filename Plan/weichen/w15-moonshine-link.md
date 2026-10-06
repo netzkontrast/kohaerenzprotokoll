@@ -91,3 +91,19 @@ Die Kapitel setzen schon „Benutzung macht ortbar“ und „Filtern kostet Wär
 - **AEGIS:** sieht die Benutzung, nicht den Inhalt.
 
 **Frage an dich:** Nimmst du diese drei Regeln als Grundlage für W15?
+
+## Nachtrag 2026-10-06: aus der Wissenstabelle und der Spurenkonkordanz
+
+- **Der Anschluss verlässt KW1** (`Plan/runs/storyform-2026-10-06/wissenstabelle.md`, Lücke 6).
+  - **Das Gerät:** Der Anschluss ist ein Gerät neben der Tür von WE 0418, und WE 0418 liegt in Sektor 04 (Entwurf J).
+  - **Die Welle:** Kap 14 löscht Sektor 04, und trotzdem bringt Kael den Anschluss durch die Welle. Ab Kap 18 heißt er
+    Kanal.
+  - **Die Lücke:** Kein Kapitel zeigt, wann aus dem Gerät eine Verbindung wird, die Kael mitnimmt.
+  - **Vorschlag:** Kap 14 ist dieser Moment. Das Gerät wird gelöscht, und die Verbindung bleibt. So erfährt Kael, dass
+    der Anschluss nie das Gerät war.
+- **Die Regel wird früher gebraucht, als sie entschieden ist.** Kap 19 setzt „Benutzung macht ortbar“ voraus, Kap 24
+  „Filtern kostet Wärme“. Spätestens vor Kap 19 muss W15 stehen.
+- **Der Hörer in den Entwürfen** (`Plan/runs/storyform-2026-10-06/spuren-konkordanz.md`). Der Knöchelschmerz „zeigt“
+  durch den Hörer. Damit setzen J und Entwurf A von Kap 2 vielleicht schon eine Regel: Der Kanal überträgt Körper.
+  Gewollt?
+- **An W22 gekoppelt:** Wenn AEGIS Juna nur über den Kanal erreicht, ist W15 die Regel, an der Akt III hängt.
