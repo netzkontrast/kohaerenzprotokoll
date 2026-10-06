@@ -497,3 +497,11 @@ Stands as another position on the pairing: four worlds, four Guardian labels, th
 For Kernwelt 1: „Guardian LogOS wird als Verkörperung der rigiden Systemlogik von KW1 eingeführt.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L162] For Kernwelt 2: „Der Wächter von KW2, Guardian Mnemosyne, wird aktiv.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L343] For Kernwelt 3: „die Domäne der Angst, der Verteidigung und des Wächters Cerberus“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L611] and „Guardian Cerberus wird eingeführt, der die Schwelle zur tieferen Wahrheit oder Integration bewacht und die Angst selbst verkörpert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L624]
 
 Stands on the side of one Guardian per world for the three worlds the outline reaches; recorded, not resolved.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots pairs LogOS, Mnemosyne and Cerberus with the three Kernwelten and plans the Guardians' domains in the Überwelt.**
+
+Pairing: „LogOS (Guardian KW1)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28], „Mnemosyne (Guardian KW2)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L31], „Cerberus (Guardian KW3)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L29]. Placement, in Kapitel 15: „Die Guardians werden in ihren Domänen in der Überwelt verortet“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L46].
+
+Stands as the pairing of three Guardians to three Kernwelten with the domains set in the Überwelt, dated 2025-05-02; recorded, not applied.
