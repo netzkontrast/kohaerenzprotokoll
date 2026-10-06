@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      18
+  backslash escapes      99
+  typographic marks      28
+  ascii quotes           60
+
+# inflection families -- one term, several surfaces
+  opera    Operates, Operating, Operational, Operators
+  class    Class, Classical, Classification
+  compu    Computation, Computational, Compute
+  fragm    Fragment, Fragmentation, Fragments
+  inter    Interdisciplinary, Interpretation, Intervention
+  invar    INVARIANT, Invariance, Invariant
+  logic    Logic, Logical, Logics
+  topol    Topological, Topologically, Topology
+  agent    Agent, Agentic
+  archi    Archipel, Architecture
+  assis    Assisted, Assistent
+  batch    BATCH, Batch
+  compl    COMPLETE, Complete
+  compo    Component, Compounding
+  conse    Consequence, Consequently
+  contr    Contradiction, Contradictions
+  corre    Corrective, Correspondence
+  defin    Defines, Definition
+  desig    Design, Designation
+  disso    Dissonance, Dissonanz
+  elimi    Elimination, Eliminator
+  emerg    Emergence, Emergent
+  execu    Execution, Executive
+  explo    Explorative, Explosion
+  forma    Formal, Format
+
+# substring pairs -- never one term, often merged by accident
+  Data < Metadata
+  Free < Freezing
+  Hard < Hardware
+  Part < Parts
+  Part < Partitioning
+  Spec < Specification
+  Tier < Frontiers
+  Agent < Agentic
+  BATCH < Batch
+  Class < Classical
+  Class < Classification
+  Hyper < Hypervisor
+  LogOS < Logos
+  Logic < Logics
+  Logic < Logical
+  Logic < Ontological
+  Logic < Topological
+  Logic < Topologically
+  Logic < Epistemological
+  Order < Ordered

@@ -1,0 +1,14 @@
+# aegis-manifest-genesis-krise-reboot
+  lines                263  (frontmatter ends at 9)
+  body words           5421
+  headings             22   bold-only lines 0
+  table rows           19   code fences 0
+  question marks       8
+  backslash escapes    99
+  typographic marks    28   ascii quotes 60
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    18
+  repeated labels      none
+  longest line         1205 chars
+

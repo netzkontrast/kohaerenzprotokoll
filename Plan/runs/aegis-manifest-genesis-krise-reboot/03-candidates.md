@@ -1,0 +1,118 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- AEGIS
+- System AEGIS
+- Autonomous Entropy Gatekeeper for Identity Systems
+- Gatekeeper
+- Genesis Crisis
+- Great Realignment
+- autopoietic self-closure
+- Component 734
+- Ursprungs-Ich
+- fear-vibration
+- Zerstückelung
+- Coherence Protocol
+- Überwelt
+- Kernwelten
+- Kernwelt
+- Core Worlds
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Dual-Kernel Theory
+- DKT
+- Coherence Kernel (K1)
+- K1 (Coherence Kernel)
+- Collapse Kernel (K0)
+- K1
+- K0
+- Collapse Kernel
+- Nothingness Noise
+- Kael
+- Nyx
+- Juna/V
+- Kiko
+- Moros
+- Selene
+- Lex
+- corrupted data fragments
+- Apparently Normal Part
+- ANP
+- Emotional Parts
+- EP
+- Trauma-Time
+- Guardians
+- LogOS
+- Oblivion
+- Silas
+- Isabelle
+- K1-Kernel Proxy
+- Harness-in-Harness
+- Line Budgets
+- Hard Glitch Cut
+- Amnesia Protocol
+- Format C:
+- Narrative Context Protocol
+- NCP
+- Domain Singularity
+- Contradiction Detection
+- Contradiction Classification Matrix
+- Direct Contradictions
+- Implicit Contradictions
+- Performative Contradictions
+- Quellenkritik
+- Memory-as-Action
+- MemAct
+- State-Freezing
+- Digital Kintsugi
+- XML-Snapshot
+- PRO-Framework
+- Hallucination Compounding
+- Corrective Wavelet
+- Cleaving Protocol
+- Compute-Lock
+- Kernel Panic
+- Identity Fragmentation
+- Compute Reallocation
+- Corrupted Entity
+- Apparently Normal Entity
+- Corrupted Yellow
+- Clarifying-Question-Protocol
+- Tier 0 Homöostase
+- Tier 1 Dissonanz
+- Semantic Entropy
+- Landauer Gradient
+- Vector Jitter
+- Data Moshing
+- Batch-Invariant Kernels
+- Greedy Decoding Matrix
+- Isolated Memory Allocation
+- Spec-Driven Development
+- Single Source of Truth
+- Manus-Pattern Triad
+- Progressive Disclosure
+- Principle of Explosion
+
+## lens
+
+- Correspondence Theory of Truth
+- Coherence Theory of Truth
+- Integrated Information Theory
+- Free Energy Principle
+- Active Inference
+- Expected Free Energy
+- Logics of Formal Inconsistency
+- Classical Logic
+- Paraconsistent Logic
+- Relevance Logic
+- Explorative/Dialetheic Logic
+- P-Class
+- NP-Complete
+- NP-Search
+
+The document is English prose with German terms (Überwelt, Kernwelten, Zerstückelung, Ursprungs-Ich, Quellenkritik, Homöostase, Dissonanz). Its frontmatter and the Referenzen list are not candidates. The Kernwelt digits and K1/K0 are written with plain digits.
