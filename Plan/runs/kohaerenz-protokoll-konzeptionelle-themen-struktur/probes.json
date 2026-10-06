@@ -1,0 +1,254 @@
+{
+  "document": "kohaerenz-protokoll-konzeptionelle-themen-struktur",
+  "drive_id": "1auXjKTMTulpVfh5QPKLZcPk5hpiaVgHUgK1qr9Tj_BU",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 10,
+  "backslash_escapes": 172,
+  "typographic_marks": 213,
+  "ascii_quotes": 2,
+  "inflection_families": {
+    "gravi": [
+      "Gravitation",
+      "Gravitational",
+      "Gravitationsarchitektur",
+      "Gravitationserzählung",
+      "Gravitationsfilter",
+      "Gravitationsgradienten",
+      "Gravitationslinseneffekt",
+      "Gravitationszone",
+      "Gravitonen",
+      "Gravity"
+    ],
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemarchitektur",
+      "Systeme",
+      "Systemik",
+      "Systemregeln",
+      "Systemtheorie",
+      "Systemzustände"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsauslöschung",
+      "Informationsblindheit",
+      "Informationserhaltung",
+      "Informationstheorie",
+      "Informationsverarbeitung"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabehandlung",
+      "Traumapsychologie",
+      "Traumas",
+      "Traumatisches",
+      "Traumaverarbeitung"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativen",
+      "Narrativer",
+      "Narrativs"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokollen",
+      "Protokolls"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychodynamik",
+      "Psychologie",
+      "Psychologischer",
+      "Psychology"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbewusstsein",
+      "Selbstheilung",
+      "Selbstwahrnehmung",
+      "Selbstzweifel"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropische",
+      "Entropischen"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "physi": [
+      "Physics",
+      "Physik",
+      "Physikalisch",
+      "Physikalisches"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturellen",
+      "Strukturen",
+      "Strukturmetapher"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheitsdualität",
+      "Wahrheitskonflikts",
+      "Wahrheitstheorien"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widerstands"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "daten": [
+      "Datenmengen",
+      "Datenpunkt",
+      "Datensatzes"
+    ],
+    "diale": [
+      "Dialetheische",
+      "Dialetheischen",
+      "Dialetheismus"
+    ],
+    "dimen": [
+      "Dimension",
+      "Dimensionen",
+      "Dimensions"
+    ],
+    "erken": [
+      "Erkennen",
+      "Erkenntnis",
+      "Erkenntnistheorie"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalen"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegenstück",
+      "Gegenwart"
+    ],
+    "geist": [
+      "Geist",
+      "Geistes",
+      "Geisteszustand"
+    ],
+    "korre": [
+      "Korrekturen",
+      "Korrespondenz",
+      "Korrespondenztheorie"
+    ],
+    "leben": [
+      "Leben",
+      "Lebenden",
+      "Lebens"
+    ],
+    "phase": [
+      "Phase",
+      "Phasen",
+      "Phasenübergang"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Dual",
+      "Wahrheitsdualität"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Form",
+      "Informationsblindheit"
+    ],
+    [
+      "Form",
+      "Informationserhaltung"
+    ],
+    [
+      "Form",
+      "Informationsauslöschung"
+    ],
+    [
+      "Form",
+      "Informationsverarbeitung"
+    ],
+    [
+      "Hier",
+      "Hierarchie"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kerne"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernkonflikt"
+    ]
+  ]
+}

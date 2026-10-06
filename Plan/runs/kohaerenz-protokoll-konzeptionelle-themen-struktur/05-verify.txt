@@ -1,0 +1,172 @@
+$ read.py --count "Konzept"
+whole word, case-sensitive     41
+whole word, case-insensitive   41
+including compounds            42
+
+`Konzept` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#41]
+$ read.py --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#1]
+$ read.py --count "Dramatica"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Dramatica` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#0]
+$ read.py --count "Kaels"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kaels` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#6]
+$ read.py --count "Kohärenz Protokolls"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz Protokolls` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#2]
+$ read.py --count "Hyper-Autopoiesis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hyper-Autopoiesis` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#1]
+$ read.py --count "Dramatica-Mapping"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dramatica-Mapping` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#1]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kapitel` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#6]
+$ read.py --count "Themen"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Themen` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#6]
+$ read.py --count "Kernwelt 1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelt 1` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#1]
+$ read.py --count "Kernwelt 2"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt 2` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#0]
+$ read.py --count "Kernwelt 3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelt 3` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#1]
+$ read.py --count "Kernwelt 4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelt 4` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#1]
+$ read.py --count "Kernwelten"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelten` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#0]
+$ read.py --count "K₁"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K₁` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#0]
+$ read.py --count "K₀"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K₀` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#0]
+$ read.py --count "Dreiteilung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dreiteilung` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#1]
+$ read.py --count "Dual Kernel Theory"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dual Kernel Theory` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#1]
+$ read.py --count "K\_1"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`K\_1` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#6]
+$ read.py --count "K\_0"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`K\_0` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#10]
+$ read.py --count "Paradoxon X"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Paradoxon X` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#2]
+$ read.py --count "Lex"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Lex` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#4]
+$ read.py --count "Rhys"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Rhys` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#3]
+$ read.py --count "Kiko"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kiko` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#2]
+$ read.py --count "Nyx"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nyx` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#3]
+$ read.py --count "Moros"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Moros` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#3]
+$ read.py --count "Alex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alex` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#1]
+$ read.py --count "NCP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`NCP` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#2]
+$ grep -c "^  - \*\*Konzept:\*\*"
+39
+$ grep -c ? (profile says 9 question marks)
+9

@@ -1,0 +1,120 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is a German exegesis report (Exegese) over 39 numbered conceptual themes, with references to five other documents at the end. Its theme headings are numbered lines such as "1. TSDP: ..." which contain commas or periods and are therefore not listed as candidates; their concept words are listed instead. Subscripts are written with escapes in the export (K\_1), listed as written. Sample voice: none; the document is expository throughout, one passage per theme labelled Konzept, Insight, Physik, Systemtheorie and similar.
+
+- Kohärenz Protokoll
+- Protokoll-Ontologie
+- Dual Kernel Theory
+- Duale Kernel
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- K\_1
+- K\_0
+- Coherons
+- Corrective Wavelets
+- Overhead
+- AEGIS
+- Kael
+- System Kael
+- Juna/V
+- Juna
+- Paradoxon der fehlausgerichteten Kohärenz
+- Paradoxon X
+- Genesis-Krise
+- Trennungsprotokoll
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie der Wahrheit
+- Das Fundament
+- Fundament
+- Kernwelt
+- LogOS
+- Cerberus
+- Lex
+- Rhys
+- Kiko
+- Nyx
+- Moros
+- Alex
+- ANPs
+- ANP
+- Apparently Normal Parts
+- Apparently Normal Part
+- EPs
+- Emotional Parts
+- Riss
+- Coherence Protocol
+- Entropie
+- Negentropie
+- Entropic Bleed
+- Entropische Desintegration
+- Funktionale Multiplizität
+- Dual Awareness
+- Slaving Principle
+- Hierarchie-Problem
+- Gravitationsarchitektur
+- Gravitationsgradienten
+- Ergosphäre
+- Photonensphäre
+- Ereignishorizont
+- Singularität
+- Schwarzen Loch
+- Brane
+- Bulk
+- Wurmloch
+- Monster-Gruppe
+- Living Gödel-Satz
+- Lebenden Gödel-Satz
+- Algorithmische Melancholie
+- Parakonsistente Gambit
+- Dialetheischen Geist
+- Gärtner
+- Gardener's Choice
+- War for Healing
+- Hyper-Autopoiesis
+- System-Dirigenten
+- Narrativen Systemik
+- Narrative Kontext Protokoll
+- NCP
+- Geführten Abruf
+- Morphic Resonance
+- Parataxis
+- Hypotaxis
+- Mosaik von 39 miteinander verbundenen Kurzgeschichten
+- Gravitationsfilter
+- Technischen Natürlichkeit
+- Epistemische Blindheit
+- Selbst
+- Manager
+- Exilanten
+- Firefighter
+- Strukturellen Kopplung
+- Operational Closure
+- Positive Feedback Loops
+
+## lens
+
+- TSDP
+- Strukturellen Dissoziation der Persönlichkeit
+- IFS
+- Dramatica
+- Luhmann
+- Autopoiesis
+- Dialetheismus
+- Entropischen Gravitation
+- Brane-Kosmologie
+- Akkretionsscheibe
+- Zeitdilatation
+- Synergetik
+- Hysterese
+- ER=EPR
+- Holographisches Prinzip
+- Strange Loop
+- Brain in a Vat
+- Satz vom ausgeschlossenen Dritten
+- Ex falso quodlibet
+- Mythos des Sisyphos
+- Apollinisch
+- Dionysisch
+- Hofstadters
+- Verlindes
+- PTG
