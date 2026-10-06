@@ -358,3 +358,11 @@ Where it stands in the record's own terms: a source that ties the Guardians to A
 The subplot list says „Die Guardians personifizieren spezifische Aspekte von AEGIS' Kontrollphilosophie“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L39] and names the aspects (Logik, Emotion, Angst, Potenzial). In Chapter 5 the plan writes „KW2 dient AEGIS als Werkzeug zur Emotionsanalyse und -kontrolle“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L83], and the same line continues „Mnemosyne als dessen Agentin“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L83]. Chapter 9 names „Guardian Cerberus“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110] as acting for AEGIS against Kael, and Chapter 2 plans „Guardian LogOS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61] confronting Lex.
 
 Where it stands in the record's own terms: the plan puts the Guardians on AEGIS's side, as personifications of its philosophy and, for Mnemosyne, as an agent; it names no peer and no replaced design, and it does not say whether they are components; recorded, not applied.
+
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet writes the Guardians as AEGIS' Systemagenten enforcing its protocols, and lets some doubt its goal.**
+
+In Kapitel 18-21 it writes that the Guardians „setzen AEGIS' fehlerhafte Protokolle aktiv durch“ ^[finales-kausales-plot-geruest.md:L121], acting as „Systemagenten“ ^[finales-kausales-plot-geruest.md:L121]; in Kapitel 14-17 AEGIS analyses Kael „wo er von AEGIS und seinen Guardians (LogOS, Mnemosyne, Cerberus, Kairos/Sophia)“ ^[finales-kausales-plot-geruest.md:L108]. In Kapitel 22-24 some of them doubt: „Einige Guardians beginnen, ein“ ^[finales-kausales-plot-geruest.md:L134] paradox to observe, and the paradox „wird selbst für seine Agenten unbestreitbar und schafft internen Dissens im antagonistischen System“ ^[finales-kausales-plot-geruest.md:L135]. The beat sheet writes them as agents inside AEGIS' antagonistic system; whether they are components, peers or a replaced design, it does not say.
+
+Where it stands in the record's own terms: the Guardians on AEGIS' side as agents, with a doubt that grows inside the system; recorded, not applied, and the relation stays open.
