@@ -196,3 +196,11 @@ Stands as a statement of what the link is, between Kael and Juna/V; recorded, an
 Section III opens with „die Verbindung zwischen Kael und Juna/V“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L142], called „Moonshine-Verbindung“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L142] and made to work as an exploit against AEGIS. Applying Whitehead, it calls the connection „direkte physische Prehension“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L158], a „Abwärtskausalität“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L158]; AEGIS can register only „anomale Datenspitzen“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L158], not the connection. It argues „Das Scheitern von AEGIS ist garantiert“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L187].
 
 The plan states a boundary by mechanism, not by place or distance.
+
+## 2026-10-06 — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report
+
+**In trace 2 the architecture report has Juna, or „Der Spieler (oder das System Juna/V)“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L148], use the Moonshine-Link; it carries no classical logic packets, only resonances.**
+
+The report says the link „überträgt keine klassischen Logik-Pakete“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L149] and that its data reach the EPs Kiko and Lia: „Der Input erreicht die empfänglichen EPs“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L151]. It does not say whether the link is exclusive to a pair.
+
+Stands as one more statement on Q9's questions of what crosses and whose it is; the question stays open.
