@@ -181,3 +181,11 @@ Stands as one more placement with an or, hedged by `oft` at its first use; the q
 In both passes: „Die Überwelt ist die Meta-Ebene von AEGIS“ ^[welt.md:L68], „ihr Kontrollzentrum und ihre Code-Ebene“ ^[welt.md:L117], not directly experienced like the Kernwelten. In KW4 (second pass): `Nexus-Interface Garten` (in straight quotation marks), „ist ein spezifischer Ort hier“ ^[welt.md:L111]. The blueprint does not place that garden in the Überwelt and does not say how it relates to the Überwelt.
 
 Stands as the Überwelt placed with AEGIS and a Nexus-Interface Garten placed in KW4; recorded, the question stays open.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots calls the Überwelt the stage of meta-analysis and final confrontation, and writes it as the Digitale Überwelt with a hedge.**
+
+„Die Überwelt ist der Schauplatz der Meta-Analyse und der finalen Konfrontation“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L81]. Kapitel 15 plans the analysis „möglicherweise in der Digitalen Überwelt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L46].
+
+Stands as a use of the name Überwelt for the meta-analysis stage, dated 2025-05-02; recorded, not applied.
