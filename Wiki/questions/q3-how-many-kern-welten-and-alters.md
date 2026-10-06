@@ -714,3 +714,11 @@ Stands as one more count of worlds and alters, dated 2025-10-15, not resolving t
 Its roster rows run from „ANP (Host)“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L34] for Kael to „ANP/EP-Mix“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L44] for Argus, with the types „EP (Child)“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L39] and „EP (Collapse)“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L42] between. Its table names four worlds: „Logos-Prime“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L83], „Mnemosyne-Archipel“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L84], „Cerberus-Labyrinth“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L85] and „Kairos-Potentialis“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L86].
 
 Stands as this document's claimed roster and world list, recorded and not applied.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto declares four Kernwelten and assigns fragments by type, not one per world; it states no count of parts.**
+
+It speaks as AEGIS: the Gatekeeper „has instantiated four specialized, operationally isolated simulation environments designated as the Kernwelten (Core Worlds)“ ^[aegis-manifest-genesis-krise-reboot.md:L69]. The fragments are named in one sentence — „other anomalies designated as Nyx, Juna/V, Kiko, Moros, Selene, and Lex“ ^[aegis-manifest-genesis-krise-reboot.md:L67] beside Kael — and the table assigns them by type: „ANP Fragments (Lex, Kael-Logic)“ ^[aegis-manifest-genesis-krise-reboot.md:L100] to KW1, „EP Fragments (Kiko, Moros)“ ^[aegis-manifest-genesis-krise-reboot.md:L101] to KW2, „Defensive Fragments (Nyx)“ ^[aegis-manifest-genesis-krise-reboot.md:L102] to KW3 and „Emergent Anomalies (Selene, Juna/V)“ ^[aegis-manifest-genesis-krise-reboot.md:L103] to KW4.
+
+Where it stands in the record's own terms: four worlds, a type per world, no one-part-per-world pairing; recorded as AEGIS's classification, not decided.
