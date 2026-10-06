@@ -235,3 +235,11 @@ Stands beside the record's origin told through a split self (rows 5 to 7), as th
 It says: „ist Kaels DID keine inhärente Eigenschaft seiner M-Avatar-Natur“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L221], and names the K-J connection as possibly linked to the origin island in the Potentialmeer, „die mit einer Entität oder einem Prinzip namens“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L181] Julia is associated. It gives no origin of Kael beyond the Kohärenz-Inseln, „die als Ursprung der Essenzen von Kael und Julia postuliert werden“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L19].
 
 Stands beside the record's rows for 2025-04, as an analysis of Kael's fragmentation by AEGIS; recorded, nothing decided, and the record's rows are not changed.
+
+## 2026-10-06 — `narrative-blueprint-the-coherence-protocol`, 2025-10-15, the blueprint
+
+**The blueprint, a plan of 2025-10-15, writes the other being 'O', connected to Kael, two ways in two of its parts.**
+
+Its first part, in the ending, has Kael find 'O', „another being, deeply connected to him“ ^[narrative-blueprint-the-coherence-protocol.md:L153], and the same passage calls 'O' traumatized and fragmented differently. Its beat sheet (third part) writes 'O' as „the other half of his original self“ ^[narrative-blueprint-the-coherence-protocol.md:L407], who in the same line may be integrated, differently fragmented, or completely unaware. The first part says another being; the beat sheet says half of his original self. The blueprint does not say whether these are one account.
+
+Stands as one more plan, dated 2025-10-15, that gives Kael a counterpart rather than an origin; recorded, not settling C16.
