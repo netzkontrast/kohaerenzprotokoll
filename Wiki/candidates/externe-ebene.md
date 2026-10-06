@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 32
-readings: 32
+sources: 33
+readings: 33
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt"]
 gathered: "2026-09-17"
 ---
 
@@ -44,6 +44,12 @@ Chapter 19 says of the Juna/V contact: „Die Natur der externen Ebene bleibt un
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — a postulated plane beyond the simulation's logic, reached through Juna
 
 The editor's report gives, as the plot document's (reference 1 ends the sentence), Juna's „Verbindung zu einer postulierten“ ^[scifi-roman-mit-ki-schreiben.md:L184] `Externen Ebene`, written „Externen Ebene“ ^[scifi-roman-mit-ki-schreiben.md:L184], which „die jenseits der Logik der Simulation“ ^[scifi-roman-mit-ki-schreiben.md:L184] lies. It says nothing else of the plane: not what it is, nor who stands there.
+
+## Reading — `welt`, 2025-07-29, the Welt blueprint — a mysterious level tied to Juna/V, outside AEGIS's direct control, with its nature left open
+
+The Welt blueprint profiles the Externe Ebene in both passes. First pass (L73–L78): „Eine mysteriöse Realitätsebene, verbunden mit Juna/V“ ^[welt.md:L75], one „die außerhalb von AEGIS' direkter Kontrolle liegt“ ^[welt.md:L75]. It acts as `Moonshine-Link` and offers „der eine alternative Kohärenz auf Basis von Resonanz und Empathie bietet“ ^[welt.md:L75]. The level „könnte explizit ein alternatives Ordnungsprinzip verkörpern“ ^[welt.md:L75] — a hedge — and its aesthetic is likewise hedged („Könnte als warm, organisch, chaotisch und intuitiv dargestellt werden“ ^[welt.md:L76]). On its rules the first pass writes, again hedged, that it „basiert sie möglicherweise auf den Prinzipien der Quanten-Nichtlokalität und Verschränkung“ ^[welt.md:L77], which would let it overcome AEGIS's Boundary Protocols and its Zero-Trust architecture (L77).
+
+Second pass (L124–L130), under the heading „Die Externe Ebene: Das Unbekannte Jenseits der Simulation“ ^[welt.md:L124]: „Die Externe Ebene ist eine Quelle der Verbindung und Hoffnung“ ^[welt.md:L128]. It „könnte eine andere Form von Realität“ ^[welt.md:L128] represent, or „eine gesunde innere Welt repräsentieren“ ^[welt.md:L128]; the line adds that this world existed before the fragmentation. The narrative function: „Die Natur dieser Ebene ist ein offenes Rätsel“ ^[welt.md:L130], to be cleared up in the course of the story.
 
 ## Reading — `outline`, 2025-07-30, the outline — the Externe Ebene as the place of Juna/V's message
 
@@ -102,6 +108,7 @@ Row W-06, `Externe Ebene (Köln)` (three stars): „Basisrealität, in der Kael 
 - the research report places the Externe Ebene as the physical reality of a patient in Köln, Februar 2026 (L79), reached by a break-through in Akt III (L217); it does not use `Basisrealität`
 - The plot analysis places the Externe Ebene outside AEGIS's formal system, as a proposal grounded in Gödel.
 - The report of 2026-02-23 asks whether the Externe Ebene is the therapists' real world or a further simulation level, and gives no answer.
+- `welt` (2025-07-29) keeps the Externe Ebene a hedged open question: „eine andere Form von Realität“ ^[welt.md:L128] or an inner world from before the fragmentation, outside AEGIS's direct control.
 
 ## Open
 
