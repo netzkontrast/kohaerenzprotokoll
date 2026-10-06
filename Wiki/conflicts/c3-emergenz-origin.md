@@ -228,3 +228,11 @@ Neither of the record's two positions as it words them; a third origin, in fragm
 Chapter P (`Genesis`) names the origin in its focus field: „Die Entstehung von AEGIS aus Chaos/Angst und die Implementierung von“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L46] `Fehlausgerichteter Kohärenz` as a survival strategy. The strategy field plans to show it „sondern als verzweifelten Versuch der Ordnungsschaffung aus Angst“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47], with the words just before, „nicht als rein böswillig“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47] on the same line. The plan's word for the origin in these lines is „Entstehung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L46], not `Emergenz`.
 
 Where it stands in the record's own terms: the plan places AEGIS's origin in chaos and fear, which names neither `S₀ = ∅` nor the simulation as the ground; recorded, not applied, and the conflict stays open.
+
+## 2026-10-06 — `project-codex-the-canonical-narrative-architecture-of-kohaer`, 2025-11-03, the Project Codex
+
+**AEGIS emerged as a cluster of `Ich-Fragmenten` from the chaotic `Potentialmeer`, a tragic origin; neither nothing nor the simulation's dynamics is named.**
+
+Under `Origin & Tragic Flaw (Genesis-Krise)` the codex writes that AEGIS „emerged as a cluster of“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L64] `Ich-Fragmenten` „from the chaotic“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L64] `Potentialmeer`. Its foundational trauma is a catastrophic epistemological shock, answered by an act of „logical self-harm“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L64]. The Definitive Guide words the same origin „in the primordial chaos.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112]
+
+Neither of the record's two positions as it words them; a third origin, in fragments of a self, as in the Definitive Guide's entry above; recorded, not applied, the conflict stays open.
