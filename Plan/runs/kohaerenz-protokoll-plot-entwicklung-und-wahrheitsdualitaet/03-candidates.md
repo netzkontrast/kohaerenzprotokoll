@@ -1,0 +1,107 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- Kohärenz Protokoll
+- Kohärenzprotokoll
+- Dualität der Wahrheit
+- Mandat
+- TSDP
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- System Kael
+- Kael
+- AEGIS
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- Host
+- Lex
+- Alex
+- Rhys
+- Argus
+- Kiko
+- Lia
+- Moros
+- Nyx
+- Selene
+- Silus
+- Dr. Aris Thorne
+- Juna/V
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Plot A
+- Plot B
+- Glitch
+- Risse
+- Isolation Objection
+- Protokoll-Ontologie
+- K\_1
+- K\_0
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Paradoxon X
+- Genesis-Krise
+- Kael-Paradoxon
+- Algorithmische Melancholie
+- algorithmischen Melancholie
+- Pathologische Transformation
+- Gödel-Gambit
+- lebender Gödel-Satz
+- Parakonsistente Gambit
+- Parakonsistentes Gambit
+- Parakonsistenten Gambit
+- Kohärente Lüge
+- Kohärenz-Lüge
+- Chaotische Wahrheit
+- Integrierte Wahrheit
+- Funktionale Multiplizität
+- Funktionalen Multiplizität
+- Multiplizität
+- Singularität
+- Ursprungs-Ich
+- Selbst
+- Inneren Rat
+- Moonshine-Link
+- Duale Natur
+- Mosaik-Monolith
+- Mosaik
+- Monolith
+- Reduktive Allegorie
+- Fundament
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Grenzfeste
+- Möglichkeits-Garten
+- Kernwelten
+- Konstrukt-Stadt
+- Quanten-Dekohärenz
+- Philosophenkönig
+- Problem des Vergleichs
+- Kohärenz-Diktatur
+- parakonsistente Demokratie
+- Gaslighting
+
+## lens
+
+- Kohärenztheorie
+- Korrespondenztheorie
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie der Wahrheit
+- Dialetheismus
+- Parakonsistente Logik
+- Principle of Explosion
+- Internal Family Systems
+- Qualia
+- Episteme
+- Gnosis
+- Deus Ex Machina
+- Value Alignment Problem
+- Harte Problem des Bewusstseins
+
+Observations. The document is a strategy report in German that cites thirteen numbered references glued to words as bare digits. Terms with a comma or period inside, such as Dr. Aris Thorne, may be left out of the count by the tool. The subscripted kernels are written K\_1 and K\_0 with an escaped underscore inside dollar signs. KW1 to KW4 are written with plain digits. Plot A and Plot B are the report's labels for two source plots. Several terms are also named for the report's own recommendations: Hypothese A, Ansatz A, Empfehlung 1 to 4 are structure labels and were left out.
