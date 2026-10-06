@@ -316,3 +316,11 @@ It gives the link a nature (non-local, acausal) and a pair (Kael and Juna/V); it
 It writes of the dialogue between Kael and Juna/V (L93): „non-local sub-protocol exchanges that AEGIS perceives only as“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L93] uncorrelated noise.
 
 Where it stands: one characterisation in a status report, giving no boundary of the link; the record's open question is not answered by it.
+
+## 2026-10-06 — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief
+
+**The design brief describes the link as carrying subjective data rather than data packets, and as invisible to AEGIS's sensors.**
+
+On what crosses: „transmitting subjective data (feelings, resonance) rather than algorithmic data packets“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L166]. On the boundary toward AEGIS: „a fundamental blind spot in AEGIS's panopticon, invisible to its sensors until it is too late“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L166]. The brief names Juna/V as the other end, „a connection between Kael and an external entity, Juna/V“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L162]; it does not say who in Kael's system can feel the link.
+
+Stands as a boundary toward AEGIS and a statement of what crosses; recorded, the question stays open.
