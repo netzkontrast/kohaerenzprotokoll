@@ -433,3 +433,11 @@ Stands as one proposed pairing per world, with KW4's cell shared; recorded, no p
 Its table (L56–L59) reads the blind spots: LogOS „Betrachtet Emotionen als Rauschen.“ ^[romananalyse-kohaerenz-plot-kritik.md:L56], Mnemosyne „Verwechselt die Partnerin mit einer abgeschlossenen Narbe oder einem vergangenen Verlust“ ^[romananalyse-kohaerenz-plot-kritik.md:L57], Cerberus „als feindliche Intrusion, die es zu neutralisieren gilt“ ^[romananalyse-kohaerenz-plot-kritik.md:L58], and in KW4 Kairos „sieht nur das Chaos und Potenzial, verfehlt aber die Notwendigkeit spezifischer Reintegration“ ^[romananalyse-kohaerenz-plot-kritik.md:L59], while Sophia „sucht Integration durch die Eliminierung von Differenzen, nicht durch Synthese“ ^[romananalyse-kohaerenz-plot-kritik.md:L59]. The report summarises these as functions of a DID allegory (reference 3), not as a proposal.
 
 Stands as one pairing per world with KW4's cell shared, in a report of 2026-02-23; recorded, no pairing applied, and the question's status is not changed.
+
+## 2026-10-06 — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium
+
+**The compendium pairs LogOS with KW1, Mnemosyne with KW2 and Cerberus with KW3, and names no Guardian for a fourth world.**
+
+Each pairing is given as a block of `Der Guardian` and `Die Kern-Welt` (L95–L113): LogOS, „Die Personifikation von Logik und Systemarchitektur“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L96], with the Konstrukt-Stadt; Mnemosyne, „Empathisch, aber in der Vergangenheit gefangen“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L104], with the Resonanz-Landschaft; Cerberus, „Das paranoide Immunsystem der Simulation“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L112], with the Grenzfeste. Its closing instruction speaks of „den Nebenfiguren und Guardians“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L176] in the respective Kern-Welten. The Möglichkeits-Garten has no Guardian in this document, `Kairos` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#0] and `Sophia` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#0] do not stand in it, and neither does `Erasure` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#0].
+
+Where it stands: three Guardian and world pairs; recorded, the question stays open.
