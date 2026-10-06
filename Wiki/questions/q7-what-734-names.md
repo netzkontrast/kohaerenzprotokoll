@@ -242,3 +242,11 @@ his designation, both — stays open, and so does the question's status for that
 The profile of KW1 writes the name field as „Einheit 734 /“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L19] with `Lex` as a „potenzieller Spitzname durch Kael“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L19]. It makes this bearer a construct under LogOS, „Wahrscheinlich eine spezialisierte Subroutine oder ein niederer Agent unter der Kontrolle von LogOS“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L21], and says it „Besitzt kein menschliches Selbstbewusstsein“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L21]. The document does not say what the number labels in the world, and names neither Komponente 734 nor Kael's dwelling.
 
 Where it stands: a new bearer of 734 in a proposal, recorded before the author's answers and changing neither the question nor its status.
+
+## 2026-10-06 — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline
+
+**The scene outline plans `Unit 734` as a Guardian who detains Kael for a coherence check in Scene 1.2, and says nothing of what the number labels.**
+
+Scene 1.2 (Logos-Prime, Transit Corridor, L37–L52): „A Guardian, designated Unit 734, detains him for a“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L42] `random coherence check`. The unit stops Kael, „its voice clinical and impersonal, its presence an embodiment of AEGIS's oppressive control“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L45], and registers his emotional noise „as an anomaly and escalates its protocol, demanding clarification with increased scrutiny“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L49]. The number: `734` ^[kohaerenz-protokoll-scene-by-scene-outline.md:#3].
+
+Stands as a new bearer of 734 in a plan of 2025-10-15, a Guardian, recorded before the author's answers and changing neither the question nor its status.
