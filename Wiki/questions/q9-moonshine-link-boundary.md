@@ -276,3 +276,11 @@ Stands as a statement of the boundary from AEGIS's side, dated 2025-10-15; recor
 Under its report of earlier sources (`Bisherige Konzeption`) the link is „nicht-lokale, sub-protokolläre Verbindung“ ^[kohaerenz-protokoll-master-integration-md.md:L197], and for AEGIS „ontologisch unsichtbar“ ^[kohaerenz-protokoll-master-integration-md.md:L198]. Its own section, „Der Moonshine-Link (Delivery-System)“ ^[kohaerenz-protokoll-master-integration-md.md:L300], says it „Operiert auf nicht-lokaler Resonanz“ ^[kohaerenz-protokoll-master-integration-md.md:L303] and that it carries `subjektive` data, feelings and resonance, instead of algorithmic ones (L304). The sensors are calibrated for algorithmic data (L305), and as DKT physics „DKT-Physik: Der Link operiert“ ^[kohaerenz-protokoll-master-integration-md.md:L306] beneath the Coheron network (L306). It places the link in Juna's section (L197) and says nothing there of who else can feel it or whether it is exclusive to Kael and Juna.
 
 Stands: the document states a mechanism and an invisibility to AEGIS; the boundary of the question, what crosses and who feels it, is not taken up by it.
+
+## 2026-10-06 — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary
+
+**The concept summary describes the Moonshine-Link as a non-local resonance invisible to AEGIS, based on quantum entanglement and Prehension.**
+
+It writes „Die Juna/V-Verbindung (Moonshine-Link)“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L31] as an ontological exploit „basierend auf“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L31] Quantenverschränkung and Whitehead's Prehension, and „Diese nicht-lokale Resonanz ist für AEGIS unsichtbar.“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L31] It names no boundary of the link.
+
+Stands as one more statement of the link's invisibility to AEGIS, dated 2025-07-30; recorded, not applied.
