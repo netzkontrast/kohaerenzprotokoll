@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      81
+  backslash escapes      230
+  typographic marks      112
+  ascii quotes           104
+
+# inflection families -- one term, several surfaces
+  inter    Interdiction, Interdisciplinary, Interferenz, Interferenzmuster, Internal, Interpretation
+  archi    ARCHITECTURE, Architecture, Architektur, Archiving, Archivist
+  ontol    Ontological, Ontologie, Ontologies, Ontologischer, Ontology
+  opera    Operational, Operationalization, Operationally, Operative, Operator
+  story    STORYFORM, Story, Storyform, Storyforming, Storyforms
+  syste    Systeme, Systemic, Systemprotokolle, Systemprotokollen, Systems
+  unive    Universe, University, Universität, Universum, Universums
+  inver    INVERSION, Inversion, Inversionstest, Inverted
+  konst    Konstante, Konstanz, Konstrukt, Konstrukts
+  mecha    Mechanics, Mechanismen, Mechanisms, Mechanismus
+  mosai    Mosaic, Mosaik, Mosaikscherben, Mosaikstruktur
+  theor    Theorie, Theorien, Theories, Theory
+  algor    Algorithmic, Algorithmically, Algorithmische
+  conce    Concept, Conceptualizing, Concern
+  diale    Dialetheie, Dialetheism, Dialetheismus
+  entro    Entropie, Entropiemaschine, Entropy
+  infor    Information, Informationen, Informationserhalt
+  integ    INTEGRATION, Integration, Integrity
+  multi    Multi, Multiplicity, Multiplizität
+  narra    Narrative, Narratological, Narratologisch
+  parad    Paradigma, Paradox, Paradoxien
+  poten    Potential, Potentiality, Potentialität
+  proje    Project, Projection, Projektion
+  proto    Protocol, Protokoll, Protokolle
+  speci    Specific, Specification, Specified
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  Dies < Diese
+  Dies < Dieser
+  Dual < Duale
+  Dual < Dualitäts
+  Form < Formen
+  Form < Conformal
+  Form < STORYFORM
+  Form < Storyform
+  Form < Storyforms
+  Form < Information
+  Form < Storyforming
+  Form < Informationen
+  Form < Informationserhalt
+  Gate < Gates
+  Herz < Herzen
+  IRIS < OSIRIS
+  Juna < Junas
+  Kael < Kaels
+  Kern < Kernel

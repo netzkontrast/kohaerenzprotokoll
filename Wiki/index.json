@@ -215,10 +215,11 @@
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 138,
-      "readings": 138,
+      "sources": 139,
+      "readings": 139,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -370,10 +371,11 @@
         "kohaerenz-protokoll-kapitel-outline-generierung",
         "roman-plot-entwicklung-und-kohaerenz-analyse",
         "kohaerenz-protokoll-master-integration-md",
-        "detaillierte-kapiteluebersicht"
+        "detaillierte-kapiteluebersicht",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 55,
-      "readings": 55,
+      "sources": 56,
+      "readings": 56,
       "conflict": "none"
     },
     "alters": {
@@ -467,10 +469,11 @@
         "kohaerenz-protokoll-narrativer-bauplan",
         "narrative-blueprint-the-coherence-protocol",
         "kohaerenz-protokoll-master-integration-md",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 85,
-      "readings": 84,
+      "sources": 86,
+      "readings": 85,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -802,10 +805,11 @@
         "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
         "romanprojekt-kohaerenz-protokoll-analyse",
         "kohaerenz-protokoll-kapitel-outline-generierung-2",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 17,
-      "readings": 16,
+      "sources": 18,
+      "readings": 17,
       "conflict": "none yet"
     },
     "coheron": {
@@ -977,10 +981,11 @@
         "aegis-manifest-genesis-krise-reboot",
         "projektplanung-fuer-kohaerenz-protokoll",
         "kohaerenz-protokoll-master-integration-md",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 48,
-      "readings": 48,
+      "sources": 49,
+      "readings": 49,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -1202,10 +1207,11 @@
         "digitale-uberwelt-konzept-und-gestaltung",
         "kohaerenz-protokoll-plotideen-extraktion",
         "aegis-logik-und-erzaehlstruktur",
-        "kohaerenz-protokoll-master-integration-md"
+        "kohaerenz-protokoll-master-integration-md",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 89,
-      "readings": 89,
+      "sources": 90,
+      "readings": 90,
       "conflict": "C2"
     },
     "erason": {
@@ -1967,10 +1973,11 @@
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 127,
-      "readings": 127,
+      "sources": 128,
+      "readings": 128,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2174,10 +2181,11 @@
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 139,
-      "readings": 140,
+      "sources": 140,
+      "readings": 141,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2507,10 +2515,11 @@
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 92,
-      "readings": 92,
+      "sources": 93,
+      "readings": 93,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -2585,10 +2594,11 @@
         "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet",
         "ki-roman-architektur-kohaerenz-und-kollaps",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
-        "kohaerenz-protokoll-master-integration-md"
+        "kohaerenz-protokoll-master-integration-md",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 35,
-      "readings": 35,
+      "sources": 36,
+      "readings": 36,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -2694,10 +2704,11 @@
         "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet",
         "ki-roman-architektur-kohaerenz-und-kollaps",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
-        "kohaerenz-protokoll-master-integration-md"
+        "kohaerenz-protokoll-master-integration-md",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 34,
-      "readings": 34,
+      "sources": 35,
+      "readings": 35,
       "conflict": "none"
     },
     "komponente-734": {
@@ -2848,10 +2859,11 @@
         "digitale-uberwelt-konzept-und-gestaltung",
         "kohaerenz-protokoll-plotideen-extraktion",
         "kohaerenz-protokoll-narrativer-bauplan",
-        "detaillierte-kapiteluebersicht"
+        "detaillierte-kapiteluebersicht",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 76,
-      "readings": 76,
+      "sources": 77,
+      "readings": 77,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -3004,10 +3016,11 @@
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 95,
-      "readings": 95,
+      "sources": 96,
+      "readings": 96,
       "conflict": "none"
     },
     "lia": {
@@ -3469,10 +3482,11 @@
         "kohaerenz-protokoll-master-integration-md",
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 80,
-      "readings": 80,
+      "sources": 81,
+      "readings": 81,
       "conflict": "none"
     },
     "moros": {
@@ -3557,10 +3571,11 @@
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 76,
-      "readings": 76,
+      "sources": 77,
+      "readings": 77,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -3597,10 +3612,11 @@
         "romananalyse-kohaerenz-plot-kritik",
         "roman-outline-stilmittel-perspektiven-umsetzung",
         "ki-roman-architektur-kohaerenz-und-kollaps",
-        "roman-refactoring-kohaerenz-und-charakterentwicklung"
+        "roman-refactoring-kohaerenz-und-charakterentwicklung",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 29,
+      "readings": 29,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -3701,10 +3717,11 @@
         "aegis-logik-und-erzaehlstruktur",
         "kohaerenz-protokoll-master-integration-md",
         "detaillierte-kapiteluebersicht",
-        "kuerze-rechercheauftrag-die-architektur-der-seel"
+        "kuerze-rechercheauftrag-die-architektur-der-seel",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 91,
-      "readings": 91,
+      "sources": 92,
+      "readings": 92,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -3849,10 +3866,11 @@
         "narrative-blueprint-the-coherence-protocol",
         "kohaerenz-protokoll-master-integration-md",
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 74,
-      "readings": 74,
+      "sources": 75,
+      "readings": 75,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -3967,10 +3985,11 @@
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 93,
-      "readings": 93,
+      "sources": 94,
+      "readings": 94,
       "conflict": "C10"
     },
     "oblivion": {
@@ -4539,10 +4558,11 @@
         "narrative-blueprint-the-coherence-protocol",
         "kohaerenz-protokoll-master-integration-md",
         "detaillierte-kapiteluebersicht",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 106,
-      "readings": 106,
+      "sources": 107,
+      "readings": 107,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -4681,10 +4701,11 @@
         "narrative-blueprint-the-coherence-protocol",
         "kohaerenz-protokoll-master-integration-md",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 81,
-      "readings": 81,
+      "sources": 82,
+      "readings": 82,
       "conflict": "none"
     },
     "silas": {
@@ -4749,10 +4770,11 @@
         "charakterkonzepte-fuer-kohaerenz-protokoll",
         "aegis-genesis-crisis-self-definition",
         "kohaerenz-protokoll-plotideen-generierung",
-        "kohaerenz-protokoll-plotideen-extraktion"
+        "kohaerenz-protokoll-plotideen-extraktion",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 56,
-      "readings": 56,
+      "sources": 57,
+      "readings": 57,
       "conflict": "C11"
     },
     "snk": {
@@ -4994,10 +5016,11 @@
         "kohaerenz-protokoll-konzeptionelle-themen-struktur",
         "kohaerenz-protokoll-kapitel-outline-generierung",
         "projektplanung-fuer-kohaerenz-protokoll",
-        "aegis-genesis-crisis-self-definition"
+        "aegis-genesis-crisis-self-definition",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 52,
-      "readings": 52,
+      "sources": 53,
+      "readings": 53,
       "conflict": "C12, C16"
     },
     "truth-rotation": {
@@ -5030,10 +5053,11 @@
         "romanprojekt-kohaerenz-protokoll-analyse",
         "kohaerenz-protokoll-kapitel-outline-erstellung",
         "kohaerenz-protokoll-kapitel-outline-generierung-2",
-        "kohaerenz-protokoll-kapitel-outline-generierung"
+        "kohaerenz-protokoll-kapitel-outline-generierung",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 25,
+      "readings": 25,
       "conflict": "none yet"
     },
     "tsdp": {
@@ -5132,10 +5156,11 @@
         "kohaerenz-protokoll-master-integration-md",
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 90,
-      "readings": 89,
+      "sources": 91,
+      "readings": 90,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -5340,10 +5365,11 @@
         "romanprojekt-kohaerenz-protokoll-analyse",
         "kohaerenz-protokoll-kapitel-outline-erstellung",
         "kohaerenz-protokoll-kapitel-outline-generierung-2",
-        "kohaerenz-protokoll-kapitel-outline-generierung"
+        "kohaerenz-protokoll-kapitel-outline-generierung",
+        "kohaerenz-protokoll-architecture-synthesis"
       ],
-      "sources": 36,
-      "readings": 36,
+      "sources": 37,
+      "readings": 37,
       "conflict": "C7, C11, C14"
     },
     "ztv": {
