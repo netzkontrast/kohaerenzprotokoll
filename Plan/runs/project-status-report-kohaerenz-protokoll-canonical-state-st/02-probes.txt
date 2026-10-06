@@ -1,0 +1,45 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      2
+  typographic marks      26
+  ascii quotes           88
+
+# inflection families -- one term, several surfaces
+  integ    Integrate, Integrated, Integration, Integrative, Integrator
+  defin    Define, Defined, Defining
+  opera    Operational, Operationalize, Operationalizing
+  ambiv    Ambivalence, Ambivalent
+  canon    Canon, Canonical
+  coher    Coherence, Coherons
+  contr    Contradiction, Contradictions
+  corre    Corrective, Correspondence
+  origi    Origin, Original
+  proto    Protocol, Protokoll
+  resol    Resolution, Resolving
+  scene    Scene, Scenes
+  syste    System, Systems
+  trans    Transcripts, Transformation
+  trigg    Trigger, Triggers
+  wavel    Wavelet, Wavelets
+
+# substring pairs -- never one term, often merged by accident
+  Hero < Heroine
+  Hero < Coherons
+  List < Rationalist
+  Path < Pathway
+  Riss < Risse
+  Canon < Canonical
+  Scene < Scenes
+  Define < Defined
+  Origin < Original
+  Script < Transcripts
+  System < Systems
+  Thesis < Hypothesis
+  Trigger < Triggers
+  Wavelet < Wavelets
+  Coherence < Decoherence
+  Integrate < Integrated
+  Operational < Operationalize
+  Operational < Operationalizing
+  Contradiction < Contradictions

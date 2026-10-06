@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 164 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 164 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 165 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 165 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -294,7 +294,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Comprehensive Systemic, Architectural, and Psychological Context Analysis](drive/comprehensive-systemic-architectural-and-psychological-conte.md) | 2026-03-04 | 3,282 |  | DID 2, Entropie† 2, Kael 7 | Universal Novel Operating System 2, Claude 11, Context Rot 3, NovelOS 3, Gemini-CLI 2 |
 | [Kohärenz Protokoll: Projekt-Rekonstruktion](drive/kohaerenz-protokoll-projekt-rekonstruktion.md) | 2026-03-26 | 4,889 | **read** | Silas 7, Argus 11, Oblivion 4, Dual-Kernel-Theorie 8, Alex 5, Kollaps-Kernel 2, Rhys 5, Moros 4 | NovelOS 5, Gemini 6, Context Rot 3, Panoptikum 3, Schwarzschild-Protokoll 2 |
 | [Project Status Report: Kohärenz Protokoll — Canon & Systemic State](drive/project-status-report-kohaerenz-protokoll-canon-systemic-sta.md) | 2026-03-26 | 1,277 |  | Trennungsprotokoll† 4, Oblivion 2, Silas 2, Genesis 2, Moros 2, Juna 3, Nyx 2, Lex 2 | Gödel-sentence 3, Erasure 2, functional multiplicity 2, Junas 2, Kohärenz-Protokoll 4 |
-| [Project Status Report: Kohärenz Protokoll — Canonical State & Structural Analysis](drive/project-status-report-kohaerenz-protokoll-canonical-state-st.md) | 2026-03-26 | 1,562 |  | Oblivion 3, Silas 3, Lia 3, Rhys 4, Gödel-Gambit 2, Isabelle 2, Moros 3, Argus 2 | Genesis-Event 2, Child EP 2, Action Systems 2, decoherence 2, functional multiplicity 6 |
+| [Project Status Report: Kohärenz Protokoll — Canonical State & Structural Analysis](drive/project-status-report-kohaerenz-protokoll-canonical-state-st.md) | 2026-03-26 | 1,562 | **read** | Oblivion 3, Silas 3, Lia 3, Rhys 4, Gödel-Gambit 2, Isabelle 2, Moros 3, Argus 2 | Genesis-Event 2, Child EP 2, Action Systems 2, decoherence 2, functional multiplicity 6 |
 | [Konsolidierung des Hard Canon Protokolls](drive/konsolidierung-des-hard-canon-protokolls.md) | 2026-03-31 | 718 |  | Oblivion 2, Silas 2, Dual-Kernel-Theorie 3, Moros 2, Rhys 2, Nichts-Rauschen 2, Alters 4, Juna 6 | Claude 3, Basisrealität 2, Agent 2, System Kael 2, Bewusstsein 2 |
 | [Kohärenz-Protokoll Audit und Verifizierung](drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | 5,793 | **read** | Dual-Kernel-Theorie† 15, Truth-Rotation† 2, Mnemosyne 3, Moonshine-Link 3, Lia 2, TSDP 9, Juna 11, Multiplizität 3 | Transinformation 12, Zero-Knowledge Proofs 10, Giannakopoulos 15, Bill 6, Norton 4 |
 | [Technical Audit & Research Mandate: The Kohärenz-Protokoll Framework](drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md) | 2026-04-29 | 1,266 | **read** | Dual-Kernel-Theorie† 3, Moonshine-Link 3, Lia 2, TSDP 3, Kiko 2, Juna 3, Nyx 2, Alters 2 | Chaitin 2, Vortex-Inversion 2, VOA 3, Mutual Information 4, Leech-Lattice 2 |
