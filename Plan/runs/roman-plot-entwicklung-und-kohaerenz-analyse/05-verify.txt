@@ -1,0 +1,49 @@
+$ python3 scripts/read.py roman-plot-entwicklung-und-kohaerenz-analyse --count "Rechercheplan"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Rechercheplan` ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:#2]
+$ python3 scripts/read.py roman-plot-entwicklung-und-kohaerenz-analyse --count "Relevanz für"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Relevanz für` ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:#10]
+$ python3 scripts/read.py roman-plot-entwicklung-und-kohaerenz-analyse --count "Primärquellen"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Primärquellen` ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:#13]
+$ python3 scripts/read.py roman-plot-entwicklung-und-kohaerenz-analyse --count "Leech-Gitters"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Leech-Gitters` ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:#2]
+$ python3 scripts/read.py roman-plot-entwicklung-und-kohaerenz-analyse --count "Leech-Lattice"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Leech-Lattice` ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:#1]
+$ python3 scripts/read.py roman-plot-entwicklung-und-kohaerenz-analyse --count "Architekt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            14
+
+`Architekt` ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:#3]
+$ python3 scripts/read.py roman-plot-entwicklung-und-kohaerenz-analyse --count "Architektur"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Architektur` ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:#8]
+$ python3 scripts/read.py roman-plot-entwicklung-und-kohaerenz-analyse --count "ground truth"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`ground truth` ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:#0]
+stance_marker_count 25 = 2 + 10 + 13
