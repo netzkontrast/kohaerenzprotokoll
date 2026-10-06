@@ -300,3 +300,11 @@ Stands: the guide gives a pair, Kael and Juna, and what crosses as feeling and r
 Appendix D proposes: „The connection transmits no classical signal“ ^[kohaerenz-protokoll-architecture-synthesis.md:L169], respecting the no-signaling theorem, and AEGIS, a classical system, is, in its words, „it is topologically blind to the conformal symmetry of the Moonshine-Link“ ^[kohaerenz-protokoll-architecture-synthesis.md:L169]. It places the link between Juna and Kael: „The connection between Juna and Kael operates completely outside“ ^[kohaerenz-protokoll-architecture-synthesis.md:L165] AEGIS's surveillance network.
 
 It gives the link a boundary of what it carries (no classical signal) and a pair (Juna and Kael); the question stays open in the record's own terms.
+
+## 2026-10-06 — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal
+
+**The prototype proposal reports, from its outline, a link between Kael and Juna/V that is non-local and acausal, and that AEGIS's classical logic does not reach.**
+
+Reporting its outline: the link „ist nicht-lokal und akausal, basierend auf Konzepten wie Quantenverschränkung und prozessphilosophischer Resonanz“ ^[romanidee-als-interaktiver-prototyp.md:L70]. AEGIS defines the physics of its worlds „durch klassische, kausale und binäre Logik“ ^[romanidee-als-interaktiver-prototyp.md:L74], and the link „führt jedoch eine fundamental andere, nicht-lokale und akausale“ ^[romanidee-als-interaktiver-prototyp.md:L74] physics in. The proposal's own gloss: „ist somit keine Superkraft, sondern die Fähigkeit, nach diesen alternativen, kontraintuitiven Regeln zu agieren“ ^[romanidee-als-interaktiver-prototyp.md:L74].
+
+It gives the link a nature (non-local, acausal) and a pair (Kael and Juna/V); it does not say who else can feel it, so the question stays open in the record's own terms.
