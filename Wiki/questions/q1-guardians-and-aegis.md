@@ -366,3 +366,11 @@ Where it stands in the record's own terms: the plan puts the Guardians on AEGIS'
 In Kapitel 18-21 it writes that the Guardians „setzen AEGIS' fehlerhafte Protokolle aktiv durch“ ^[finales-kausales-plot-geruest.md:L121], acting as „Systemagenten“ ^[finales-kausales-plot-geruest.md:L121]; in Kapitel 14-17 AEGIS analyses Kael „wo er von AEGIS und seinen Guardians (LogOS, Mnemosyne, Cerberus, Kairos/Sophia)“ ^[finales-kausales-plot-geruest.md:L108]. In Kapitel 22-24 some of them doubt: „Einige Guardians beginnen, ein“ ^[finales-kausales-plot-geruest.md:L134] paradox to observe, and the paradox „wird selbst für seine Agenten unbestreitbar und schafft internen Dissens im antagonistischen System“ ^[finales-kausales-plot-geruest.md:L135]. The beat sheet writes them as agents inside AEGIS' antagonistic system; whether they are components, peers or a replaced design, it does not say.
 
 Where it stands in the record's own terms: the Guardians on AEGIS' side as agents, with a doubt that grows inside the system; recorded, not applied, and the relation stays open.
+
+## 2026-10-06 — `welt`, 2025-07-29, the Welt blueprint
+
+**The Welt blueprint writes the Guardians as localised processes or fields in the AEGIS-Protokoll, and each Kernwelt as coupled to an AEGIS-Guardian.**
+
+Each Kernwelt is „an eine spezifische psychologische Domäne Kaels“ ^[welt.md:L88] and „einen AEGIS-Guardian gekoppelt“ ^[welt.md:L88] (second pass, L88). The closing paragraph says what the Guardians are: „lokalisierte, dynamische Prozesse oder Felder“ ^[welt.md:L158], and that their existence is their function „innerhalb des AEGIS-Protokolls“ ^[welt.md:L158]; „Sie sind keine anthropomorphen Avatare“ ^[welt.md:L158]. The Überwelt is their stage: „der primäre operative Schauplatz für die Guardians“ ^[welt.md:L122].
+
+Stands as the Guardians being AEGIS's own, tied to its protocol and coupled one to each world; recorded, the question stays open.
