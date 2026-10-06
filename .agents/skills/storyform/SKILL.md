@@ -54,6 +54,14 @@ python3 scripts/check_skills.py         # after a repository skill changes
 - **note:** a value disagrees with the reconstructed derivation. Record both and
   their consequences as a question; a note is neither an author decision nor an
   official DSM ruling.
+- **The treatment's storypoints lines are generated.** `storyform.py` rewrites the
+  `- *Storypoints:*` line under each `### Kap N` of `Manuscript/plot/treatment.md`'s
+  2b sections from `development.json`, values included (decision 025 step 47); never
+  edit that line by hand — change the chapter's references and regenerate. The event
+  bullets above it are never touched.
+- A **note** that a concern sits in an act whose signpost is another type points at a
+  reference the act rhythm (step 44) would replace; replace it only as the author's
+  rhythm says, never to silence the note.
 - Use the author's NCP 3 fork's `node tests/validate-file.js <file>` when installed;
   name whether that schema check ran. A successful generator check does not prove
   scene quality or acceptance of a proposal.

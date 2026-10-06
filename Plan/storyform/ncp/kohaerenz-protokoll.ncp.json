@@ -4009,7 +4009,17 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_12"
+                "storypoint_id": "sp_13"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_14"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_18"
               }
             ]
           },
@@ -4044,30 +4054,35 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_02"
+                "storypoint_id": "sp_03"
               },
               {
                 "sequence": 2,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_39"
+                "storypoint_id": "sp_04"
               },
               {
                 "sequence": 3,
-                "narrative_id": "narrative-b",
-                "storypoint_id": "sp_13"
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_39"
               },
               {
                 "sequence": 4,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_14"
+                "storypoint_id": "sp_13"
               },
               {
                 "sequence": 5,
                 "narrative_id": "narrative-b",
-                "storypoint_id": "sp_18"
+                "storypoint_id": "sp_14"
               },
               {
                 "sequence": 6,
+                "narrative_id": "narrative-b",
+                "storypoint_id": "sp_18"
+              },
+              {
+                "sequence": 7,
                 "narrative_id": "narrative-a",
                 "storypoint_id": "sp_47"
               }
@@ -4104,7 +4119,17 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_30"
+                "storypoint_id": "sp_31"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_32"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_36"
               }
             ]
           },
@@ -4324,7 +4349,12 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_30"
+                "storypoint_id": "sp_31"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_32"
               }
             ]
           },
@@ -4354,7 +4384,12 @@
               {
                 "sequence": 1,
                 "narrative_id": "narrative-a",
-                "storypoint_id": "sp_12"
+                "storypoint_id": "sp_13"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storypoint_id": "sp_14"
               }
             ]
           },

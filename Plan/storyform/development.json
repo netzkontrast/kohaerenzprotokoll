@@ -642,7 +642,15 @@
       "storypoints": [
         [
           "A",
-          "Influence Character Concern"
+          "Influence Character Issue"
+        ],
+        [
+          "A",
+          "Influence Character Problem"
+        ],
+        [
+          "A",
+          "Influence Character Benchmark"
         ]
       ]
     },
@@ -669,7 +677,11 @@
       "storypoints": [
         [
           "A",
-          "Main Character Concern"
+          "Main Character Issue"
+        ],
+        [
+          "A",
+          "Main Character Problem"
         ],
         [
           "A",
@@ -715,7 +727,15 @@
       "storypoints": [
         [
           "A",
-          "Relationship Story Concern"
+          "Relationship Story Issue"
+        ],
+        [
+          "A",
+          "Relationship Story Problem"
+        ],
+        [
+          "A",
+          "Relationship Story Benchmark"
         ]
       ]
     },
@@ -893,7 +913,11 @@
       "storypoints": [
         [
           "A",
-          "Relationship Story Concern"
+          "Relationship Story Issue"
+        ],
+        [
+          "A",
+          "Relationship Story Problem"
         ]
       ]
     },
@@ -919,7 +943,11 @@
       "storypoints": [
         [
           "A",
-          "Influence Character Concern"
+          "Influence Character Issue"
+        ],
+        [
+          "A",
+          "Influence Character Problem"
         ]
       ]
     },

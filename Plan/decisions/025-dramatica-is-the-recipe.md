@@ -270,6 +270,12 @@ with the consequences of each option laid out.
     cut out of Komponente 734** (`Wiki/questions/q7-what-734-names.md`); AEGIS and Kael share one origin. What the
     number labels in Kael's daily world stays open.
 
+    *Applied 2026-10-06, no new choice:* `storyform.py` now writes each treatment paragraph's storypoints line from
+    `development.json`. Writing them showed Kap 17, 18, 19, 24 and 25 still referencing their throughline's concern,
+    left from #170's execution before the act rhythm existed; as step 46 did for Kap 32, they now carry the act
+    rhythm's issue and problem (and the benchmark in Kap 17 and 19, the throughline's first chapter of Akt II), and the
+    script notes any concern referenced in an act whose signpost is another type.
+
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
 the signpost order and the element choices are to be checked against the treatment (W1: B as the check).

@@ -21,6 +21,10 @@ script reads them and writes nothing else into them:
     moments, the alters' appearances as `event` storybeats of A; status `draft`). Proposal-only chapter development
     from `development.json` fills supported Moment fields without changing the structural model or canon. Validate with the author's fork:
     `node tests/validate-file.js` in netzkontrast/narrative-context-protocol.
+  * rewrites one line per paragraph of the treatment's 2b sections (`Manuscript/plot/treatment.md`): the
+    `- *Storypoints:*` line under `### Kap N`, derived from that chapter's `development.json` references with their
+    values (decision 025 step 47), so the treatment and the NCP name the same storypoints. Nothing else in the
+    treatment is touched; a paragraph for a chapter the weave lacks is refused.
 
     python3 scripts/storyform.py            # check, compare, write
     python3 scripts/storyform.py --check    # exit 1 if anything is refused or a written file is stale
@@ -512,8 +516,9 @@ def fill_storypoints(dev, weave):
     return added
 
 
-def development_notes(dev, weave):
-    """Woven throughlines a chapter's proposal never references — a gap to look at, not an error."""
+def development_notes(dev, weave, forms=None):
+    """Woven throughlines a chapter's proposal never references, and a concern referenced in an act whose signpost
+    is another type — gaps to look at, not errors."""
     notes = []
     for key, row in (dev or {}).get("chapters", {}).items():
         c = weave["chapters"].get(key)
@@ -524,6 +529,13 @@ def development_notes(dev, weave):
             for t in c[side]:
                 if not any(r[0] == side and r[1].startswith(TL[t]) for r in refs):
                     notes.append(f"Kap {key}: {side}-{t} is woven but no {TL[t]} point is referenced")
+        act = act_of(weave, int(key))
+        for side, name in refs:
+            line = ABBR.get(name[:-len(" Concern")]) if name.endswith(" Concern") else None
+            sf = (forms or {}).get(side)
+            if line and act and sf and "Concern" not in ACT_RHYTHM[act] and sf[line]["signposts"][act - 1] != sf[line]["concern"]:
+                notes.append(f"Kap {key}: {side}-{line} Concern {sf[line]['concern']} in {ACTS[act - 1]}, whose signpost is "
+                             f"{sf[line]['signposts'][act - 1]} — the act rhythm (step 44) proposes {ACT_RHYTHM[act]}")
     return notes
 
 
@@ -539,6 +551,88 @@ def development_table(dev):
         cells = [key, row["goal"], row["action"] + " Preis: " + row["cost"], row["open"]]
         lines.append("| " + " | ".join(c.replace("|", "\\|").replace("\n", " ") for c in cells) + " |")
     return lines
+
+
+TREATMENT = ROOT / "Manuscript" / "plot" / "treatment.md"
+ABBR = {v: k for k, v in TL.items()}
+PART_FIELD = {"Concern": "concern", "Issue": "issue", "Problem": "problem", "Solution": "solution",
+              "Symptom": "focus", "Response": "direction", "Benchmark": "benchmark",
+              "Unique Ability": "unique_ability", "Critical Flaw": "critical_flaw"}
+STORYPOINTS_LINE = "- *Storypoints:*"
+
+
+def storypoint_label(sf, appreciation):
+    """`A-MC Concern Memory`, `A Story Costs Being`, `A Catalyst Threat`: a reference with its value, for a reader."""
+    side = sf["storyform"]
+    if appreciation in STORY_WIDE:
+        kind = appreciation.split()[-1]
+        return f"{side} {kind} {sf['story'][kind.lower()]}"
+    for field, name in PLOT.items():
+        if appreciation == name:
+            value = sf["plot"].get(field)
+            return f"{side} {name}" + (f" {value}" if value else "")
+    for line, name in TL.items():
+        if appreciation.startswith(name + " "):
+            part = appreciation[len(name) + 1:]
+            value = sf[line].get(PART_FIELD.get(part, ""))
+            return f"{side}-{line} {part}" + (f" {value}" if isinstance(value, str) else "")
+    return f"{side} {appreciation}"
+
+
+def treatment_storypoints_line(forms, row, key):
+    """The one line under a treatment paragraph that names its storypoints (decision 025 step 47), derived from
+    `development.json` so the treatment and the NCP cannot drift apart. Wrapped at 118 characters."""
+    by = {sf["storyform"]: sf for sf in forms}
+    refs = (row or {}).get("storypoints") or []
+    labels = [storypoint_label(by[s], a) for s, a in refs] or ["keine"]
+    labels = [x + "," for x in labels[:-1]] + [labels[-1] + f" [D {key}]."]
+    lines, cur = [], STORYPOINTS_LINE
+    for x in labels:
+        if len(cur) + 1 + len(x) > 118:
+            lines.append(cur)
+            cur = "  " + x
+        else:
+            cur += " " + x
+    return lines + [cur]
+
+
+def treatment_sync(text, forms, dev, weave):
+    """Return (new text, errors): every `### Kap N` paragraph of the treatment's 2b sections gets its storypoints
+    line rewritten from `development.json`, placed after the paragraph's last bullet. Only that line is touched;
+    the events are prose a person approves, never generated."""
+    out, errors, seen, kap, in_2b = [], [], set(), None, False
+
+    def close():
+        tail = []
+        while out and out[-1] == "":
+            tail.append(out.pop())
+        if kap not in weave["chapters"]:
+            errors.append(f"treatment Kap {kap}: no woven chapter")
+        out.extend(treatment_storypoints_line(forms, dev["chapters"].get(kap), kap) + tail)
+
+    lines, i = text.split("\n"), 0
+    while i < len(lines):
+        line = lines[i]
+        if kap is not None and (line.startswith("#") or line.strip() == "---"):
+            close()
+            kap = None
+        if line.startswith("## "):
+            in_2b = line.startswith("## 2b")
+        if in_2b and line.startswith("### Kap "):
+            kap = line[len("### Kap "):].split()[0]
+            if kap in seen:
+                errors.append(f"treatment Kap {kap}: paragraph twice")
+            seen.add(kap)
+        elif kap is not None and line.startswith(STORYPOINTS_LINE):
+            i += 1
+            while i < len(lines) and lines[i].startswith("  "):
+                i += 1
+            continue
+        out.append(line)
+        i += 1
+    if kap is not None:
+        close()
+    return "\n".join(out), errors
 
 
 def ncp3(forms, weave, anteile=None, kanon=None, development=None, journeys=None):
@@ -720,9 +814,15 @@ def run(check_only=False):
     for e in journeys_audit(journeys, forms, weave) if journeys and weave else []:
         print(f"ERROR {e}")
         failed = True
-    gaps = development_notes(development, weave) if development and weave else []
-    if gaps:
-        print(f"note  development: {len(gaps)} woven throughlines no proposal references, e.g. {gaps[0]}")
+    treatment = None
+    if development and weave and TREATMENT.exists():
+        treatment, errors = treatment_sync(TREATMENT.read_text(), forms, development, weave)
+        for e in errors:
+            print(f"ERROR {e}")
+            failed = True
+    gaps = development_notes(development, weave, {sf["storyform"]: sf for sf in forms}) if development and weave else []
+    for g in gaps:
+        print(f"note  development: {g}")
     if failed:
         print("refused: nothing written")
         return 1
@@ -743,6 +843,8 @@ def run(check_only=False):
         text = text.rstrip("\n") + "\n" + "\n".join(development_table(development)) + "\n"
     want = {HOME / "overview.md": text}
     want[HOME / "ncp" / "kohaerenz-protokoll.ncp.json"] = json.dumps(ncp3(forms, weave, anteile, kanon, development, journeys), ensure_ascii=False, indent=2) + "\n"
+    if treatment is not None:
+        want[TREATMENT] = treatment
     stale = [p for p, text in want.items() if not p.exists() or p.read_text() != text]
     if check_only:
         for p in stale:
@@ -914,6 +1016,27 @@ def selftest():
         point_ids = {(n["id"], p["id"]) for n in ds["narratives"] for p in n["subtext"]["storypoints"]}
         if {(r["narrative_id"], r["storypoint_id"]) for m in ds["moments"] for r in m["storypoints"]} - point_ids:
             fails.append("development wrote an unresolved NCP storypoint")
+    forms, dev, weave = load(), load_development(), load_weave()
+    sample = "## 2b — Akt I\n\n### Kap 1 — x\n- Ereignis.\n- *Storypoints:* A-MC Concern Falsch [D 1].\n\n### Kap 2 — y\n- Ereignis.\n\n---\n"
+    synced, errs = treatment_sync(sample, forms, dev, weave)
+    want1 = "\n".join(treatment_storypoints_line(forms, dev["chapters"]["1"], "1"))
+    if errs or want1 not in synced or "Falsch" in synced:
+        fails.append("treatment: a stale storypoints line was kept")
+    if "\n".join(treatment_storypoints_line(forms, dev["chapters"]["2"], "2")) not in synced:
+        fails.append("treatment: a paragraph without a storypoints line got none")
+    if synced.count("- Ereignis.") != 2 or treatment_sync(synced, forms, dev, weave)[0] != synced:
+        fails.append("treatment: the events were touched, or the sync is not idempotent")
+    if not any("no woven chapter" in e for e in treatment_sync("## 2b\n### Kap 99 — z\n- x\n", forms, dev, weave)[1]):
+        fails.append("treatment: a paragraph for an unwoven chapter was accepted")
+    if not any("twice" in e for e in treatment_sync("## 2b\n### Kap 1\n- x\n### Kap 1\n- y\n", forms, dev, weave)[1]):
+        fails.append("treatment: a chapter twice was accepted")
+    if storypoint_label(forms[0], "Objective Story Catalyst") != "A Catalyst Threat" or \
+            storypoint_label(forms[1], "Main Character Unique Ability") != "B-MC Unique Ability Control":
+        fails.append("treatment: a storypoint label lost its value")
+    stray = json.loads(json.dumps(dev))
+    stray["chapters"]["17"]["storypoints"] = [["A", "Influence Character Concern"]]
+    if not any("Kap 17: A-IC Concern" in n for n in development_notes(stray, weave, {sf["storyform"]: sf for sf in forms})):
+        fails.append("development: a concern outside its act's rhythm went unnoticed")
     for f in fails:
         print("FAIL", f)
     print("held" if not fails else f"FAILED ({len(fails)})")
