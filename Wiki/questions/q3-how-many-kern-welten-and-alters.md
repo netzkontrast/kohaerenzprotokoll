@@ -784,3 +784,11 @@ Stands: the guide reports its own count as the documentation's and reads the wor
 It writes „Kael, having integrated his 11 entities (including Lex, Nyx, Kiko, and Moros)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L73], and the German counterpart „Kael, der seine 11 Entitäten integriert hat“ ^[kohaerenz-protokoll-architecture-synthesis.md:L75]. Beat 1 sorts them: „the ANPs like Lex and Vesper, and the EPs like Nyx, Kiko, and Moros“ ^[kohaerenz-protokoll-architecture-synthesis.md:L187]. The audit log reports Silas and Vesper in the same group: „Kael’s 11 internal entities include specific roles like the“ ^[kohaerenz-protokoll-architecture-synthesis.md:L221] Archivist and Executive.
 
 It adds a count of 11 and names for it, and nothing on the number of Kern-Welten or on one world per alter: the question stays open in the record's own terms.
+
+## 2026-10-06 — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal
+
+**The prototype proposal reports, from its outline, eleven parts and six Realitätsebenen, four of them Kernwelten; it asks nothing about a correspondence.**
+
+Reporting its outline, it writes „Das System besteht aus elf detailliert ausgearbeiteten Anteilen (Alters)“ ^[romanidee-als-interaktiver-prototyp.md:L44], and for the worlds „Die sechs identifizierten Realitätsebenen“ ^[romanidee-als-interaktiver-prototyp.md:L84], of which four are Kernwelten, KW1 to KW4, with the Überwelt of AEGIS and „die Externe Ebene von Juna/V“ ^[romanidee-als-interaktiver-prototyp.md:L84] making six. For the game it plans a variable for „Der aktuelle Einflussgrad jedes der elf Anteile“ ^[romanidee-als-interaktiver-prototyp.md:L125] and one stability value for each of the four Kernwelten.
+
+It adds a count of eleven and a count of four and six, and says nothing on one world per part: the question stays open in the record's own terms.
