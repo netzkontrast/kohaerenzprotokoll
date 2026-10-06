@@ -577,3 +577,11 @@ Where it stands: three Guardians over three worlds, KW4 without one, as a synthe
 LogOS is „the fundamental operating system of reality within the Überwelt and KW1“ ^[aegis-manifest-genesis-krise-reboot.md:L113]. Silas has „specific oversight extending into the volatile domain of KW4“ ^[aegis-manifest-genesis-krise-reboot.md:L125]. The four worlds are described in 5.1–5.4 and in the table (L99–L103) by logic and target fragments, and the Guardians in 6.1–6.4; the sections for KW2 and KW3 do not name a Guardian, and the Guardians' own sections name only the two ties above.
 
 Stands: two Guardian-to-world ties in AEGIS's voice, a full pairing not given; nothing decided.
+
+## 2026-10-06 — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts
+
+**The character concepts pair LogOS with the Konstrukt-Stadt, Mnemosyne with the Resonanz-Landschaft, Cerberus with the Grenzfeste, Kairos with the Möglichkeiten-Garten and Sophia with the Überwelt, with a question mark.**
+
+The pairs are the profile headings: „LogOS (Zugeordnet: Konstrukt-Stadt)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L155], „Mnemosyne (Zugeordnet: Resonanz-Landschaft)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L165], „Cerberus (Zugeordnet: Grenzfeste)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L175], „Kairos (Zugeordnet: Möglichkeiten-Garten)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L185] and „Sophia (Zugeordnet: Überwelt / Integration?)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L195]. The question mark is the paper's, on Sophia's station. Four of the five worlds named are the four Kern-Welten and each has its own Guardian; Sophia is on the Überwelt, so the paper does not make two Guardians share a world: „Jeder Guardian ist fest an eine Kern-Welt“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L207] (L207).
+
+Stands as a fifth-Guardian-on-the-Überwelt pairing with a question mark, dated 2025-04-18; recorded, not applied.
