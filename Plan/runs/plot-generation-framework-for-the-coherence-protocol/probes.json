@@ -1,0 +1,147 @@
+{
+  "document": "plot-generation-framework-for-the-coherence-protocol",
+  "drive_id": "1Yt2MRvp2q2D2XBUGj9pX19gTAy_Cl32i9tBJOIK5Glc",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 101,
+  "backslash_escapes": 0,
+  "typographic_marks": 16,
+  "ascii_quotes": 142,
+  "inflection_families": {
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrator"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorems",
+      "Theoretic"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "analy": [
+      "Analysis",
+      "Analyst"
+    ],
+    "chapt": [
+      "Chapter",
+      "Chapters"
+    ],
+    "const": [
+      "Constructed",
+      "Constructionism"
+    ],
+    "conta": [
+      "Contact",
+      "Containment"
+    ],
+    "drama": [
+      "Dramatic",
+      "Dramatize"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmented"
+    ],
+    "garde": [
+      "Garden",
+      "Gardener"
+    ],
+    "inter": [
+      "Interconnected",
+      "Internal"
+    ],
+    "manag": [
+      "Manager",
+      "Managers"
+    ],
+    "narra": [
+      "Narrative",
+      "Narrator"
+    ],
+    "poten": [
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "rebel": [
+      "Rebel",
+      "Rebellion"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Meta",
+      "Metacognitive"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Rebel",
+      "Rebellion"
+    ],
+    [
+      "Garden",
+      "Gardener"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "System",
+      "Subsystem"
+    ],
+    [
+      "Chapter",
+      "Chapters"
+    ],
+    [
+      "Manager",
+      "Managers"
+    ],
+    [
+      "Theorem",
+      "Theorems"
+    ],
+    [
+      "Fragment",
+      "Fragmented"
+    ]
+  ]
+}

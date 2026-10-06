@@ -1,0 +1,137 @@
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Core Concept"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+`Core Concept` ^[plot-generation-framework-for-the-coherence-protocol.md:#39]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Assigned POV"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+`Assigned POV` ^[plot-generation-framework-for-the-coherence-protocol.md:#39]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Summary"
+whole word, case-sensitive     39
+whole word, case-insensitive   40
+including compounds            39
+`Summary` ^[plot-generation-framework-for-the-coherence-protocol.md:#39]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "AEGIS"
+whole word, case-sensitive     58
+whole word, case-insensitive   60
+including compounds            59
+`AEGIS` ^[plot-generation-framework-for-the-coherence-protocol.md:#58]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Moonshine-Link"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+`Moonshine-Link` ^[plot-generation-framework-for-the-coherence-protocol.md:#6]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Kernwelt"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+`Kernwelt` ^[plot-generation-framework-for-the-coherence-protocol.md:#16]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Component 734"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Component 734` ^[plot-generation-framework-for-the-coherence-protocol.md:#3]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Genesis-Krise"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Genesis-Krise` ^[plot-generation-framework-for-the-coherence-protocol.md:#3]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Juna/V"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+`Juna/V` ^[plot-generation-framework-for-the-coherence-protocol.md:#7]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Potentialmeer"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Potentialmeer` ^[plot-generation-framework-for-the-coherence-protocol.md:#3]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Gödel-Satz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Gödel-Satz` ^[plot-generation-framework-for-the-coherence-protocol.md:#2]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "The Gardener"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+`The Gardener` ^[plot-generation-framework-for-the-coherence-protocol.md:#5]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "gnosis"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`gnosis` ^[plot-generation-framework-for-the-coherence-protocol.md:#3]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Heroine's Journey"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Heroine's Journey` ^[plot-generation-framework-for-the-coherence-protocol.md:#3]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Hero's Journey"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+`Hero's Journey` ^[plot-generation-framework-for-the-coherence-protocol.md:#3]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Negative Feedback Loop"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Negative Feedback Loop` ^[plot-generation-framework-for-the-coherence-protocol.md:#1]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Qualia-space"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+`Qualia-space` ^[plot-generation-framework-for-the-coherence-protocol.md:#1]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Julia"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Julia` ^[plot-generation-framework-for-the-coherence-protocol.md:#0]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Nexus"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Nexus` ^[plot-generation-framework-for-the-coherence-protocol.md:#0]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Kapitel` ^[plot-generation-framework-for-the-coherence-protocol.md:#0]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`canon` ^[plot-generation-framework-for-the-coherence-protocol.md:#0]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "lens"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`lens` ^[plot-generation-framework-for-the-coherence-protocol.md:#0]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`guardians` ^[plot-generation-framework-for-the-coherence-protocol.md:#1]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Guardian"
+whole word, case-sensitive     28
+whole word, case-insensitive   29
+including compounds            28
+`Guardian` ^[plot-generation-framework-for-the-coherence-protocol.md:#28]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "EP"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            15
+`EP` ^[plot-generation-framework-for-the-coherence-protocol.md:#8]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Manager"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+`Manager` ^[plot-generation-framework-for-the-coherence-protocol.md:#2]
+$ python3 scripts/read.py plot-generation-framework-for-the-coherence-protocol --count "Riss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+`Riss` ^[plot-generation-framework-for-the-coherence-protocol.md:#1]
+# stance_marker_count 117 = Core Concept 39 + Assigned POV 39 + Summary 39 (counts above)
+216:      - **Assigned POV:** 

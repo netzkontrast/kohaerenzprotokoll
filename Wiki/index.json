@@ -53,10 +53,11 @@
         "ki-roman-architektur-kohaerenz-und-kollaps",
         "lokalitaeten-konzept-fuer-roman-simulation",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 18,
-      "readings": 16,
+      "sources": 19,
+      "readings": 17,
       "conflict": "none"
     },
     "aegis": {
@@ -183,10 +184,11 @@
         "lokalitaeten-konzept-fuer-roman-simulation",
         "subplot-entwicklung-fuer-romanstruktur",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 114,
-      "readings": 114,
+      "sources": 115,
+      "readings": 115,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -259,10 +261,11 @@
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
         "subplot-entwicklung-fuer-romanstruktur",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 64,
-      "readings": 64,
+      "sources": 65,
+      "readings": 65,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -520,10 +523,11 @@
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
         "subplot-entwicklung-fuer-romanstruktur",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 61,
+      "readings": 61,
       "conflict": "none"
     },
     "ars": {
@@ -683,10 +687,11 @@
         "roman-outline-1-13-fuer-kohaerenz-protokoll",
         "subplot-entwicklung-fuer-romanstruktur",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 64,
-      "readings": 64,
+      "sources": 65,
+      "readings": 65,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -1328,10 +1333,11 @@
         "romananalyse-kohaerenz-plot-kritik",
         "roman-outline-stilmittel-perspektiven-umsetzung",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 63,
-      "readings": 62,
+      "sources": 64,
+      "readings": 63,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -1650,10 +1656,11 @@
         "ki-roman-architektur-kohaerenz-und-kollaps",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
-        "subplot-entwicklung-fuer-romanstruktur"
+        "subplot-entwicklung-fuer-romanstruktur",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 52,
-      "readings": 52,
+      "sources": 53,
+      "readings": 53,
       "conflict": "C15"
     },
     "juna": {
@@ -1766,10 +1773,11 @@
         "roman-outline-1-13-fuer-kohaerenz-protokoll",
         "subplot-entwicklung-fuer-romanstruktur",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 103,
-      "readings": 103,
+      "sources": 104,
+      "readings": 104,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1948,10 +1956,11 @@
         "lokalitaeten-konzept-fuer-roman-simulation",
         "subplot-entwicklung-fuer-romanstruktur",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 115,
-      "readings": 116,
+      "sources": 116,
+      "readings": 117,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2043,10 +2052,11 @@
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
         "lokalitaeten-konzept-fuer-roman-simulation",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 52,
-      "readings": 52,
+      "sources": 53,
+      "readings": 53,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -2140,10 +2150,11 @@
         "roman-outline-1-13-fuer-kohaerenz-protokoll",
         "subplot-entwicklung-fuer-romanstruktur",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 84,
-      "readings": 83,
+      "sources": 85,
+      "readings": 84,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -2226,10 +2237,11 @@
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
         "roman-outline-1-13-fuer-kohaerenz-protokoll",
         "subplot-entwicklung-fuer-romanstruktur",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 74,
-      "readings": 74,
+      "sources": 75,
+      "readings": 75,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -2679,10 +2691,11 @@
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
         "subplot-entwicklung-fuer-romanstruktur",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 78,
-      "readings": 78,
+      "sources": 79,
+      "readings": 79,
       "conflict": "none"
     },
     "lia": {
@@ -2758,10 +2771,11 @@
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
         "roman-outline-1-13-fuer-kohaerenz-protokoll",
-        "subplot-entwicklung-fuer-romanstruktur"
+        "subplot-entwicklung-fuer-romanstruktur",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 67,
-      "readings": 67,
+      "sources": 68,
+      "readings": 68,
       "conflict": "C15"
     },
     "logos": {
@@ -2837,10 +2851,11 @@
         "lokalitaeten-konzept-fuer-roman-simulation",
         "subplot-entwicklung-fuer-romanstruktur",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 67,
-      "readings": 67,
+      "sources": 68,
+      "readings": 68,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -2942,10 +2957,11 @@
         "lokalitaeten-konzept-fuer-roman-simulation",
         "subplot-entwicklung-fuer-romanstruktur",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 75,
-      "readings": 75,
+      "sources": 76,
+      "readings": 76,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -3079,10 +3095,11 @@
         "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet",
         "ki-roman-architektur-kohaerenz-und-kollaps",
         "kohaerenz-protokoll-kapitel-outline-generierung",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 67,
-      "readings": 67,
+      "sources": 68,
+      "readings": 68,
       "conflict": "none"
     },
     "moros": {
@@ -3153,10 +3170,11 @@
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
         "roman-outline-1-13-fuer-kohaerenz-protokoll",
-        "subplot-entwicklung-fuer-romanstruktur"
+        "subplot-entwicklung-fuer-romanstruktur",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 62,
-      "readings": 62,
+      "sources": 63,
+      "readings": 63,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -3420,10 +3438,11 @@
         "ki-roman-architektur-kohaerenz-und-kollaps",
         "roman-outline-fuer-kohaerenz-protokoll",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 62,
-      "readings": 62,
+      "sources": 63,
+      "readings": 63,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -3521,10 +3540,11 @@
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
         "roman-outline-1-13-fuer-kohaerenz-protokoll",
         "subplot-entwicklung-fuer-romanstruktur",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 76,
-      "readings": 76,
+      "sources": 77,
+      "readings": 77,
       "conflict": "C10"
     },
     "oblivion": {
@@ -3742,10 +3762,11 @@
         "project-codex-the-canonical-narrative-architecture-of-kohaer",
         "plot-analyse-und-romanentwicklung",
         "welt",
-        "kohaerenz-protokoll-scene-by-scene-outline"
+        "kohaerenz-protokoll-scene-by-scene-outline",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 36,
-      "readings": 37,
+      "sources": 37,
+      "readings": 38,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -3931,10 +3952,11 @@
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
         "subplot-entwicklung-fuer-romanstruktur",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 61,
+      "readings": 61,
       "conflict": "none"
     },
     "risse": {
@@ -4033,10 +4055,11 @@
         "lokalitaeten-konzept-fuer-roman-simulation",
         "subplot-entwicklung-fuer-romanstruktur",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 88,
-      "readings": 88,
+      "sources": 89,
+      "readings": 89,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -4163,10 +4186,11 @@
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
         "roman-outline-1-13-fuer-kohaerenz-protokoll",
         "subplot-entwicklung-fuer-romanstruktur",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 69,
-      "readings": 69,
+      "sources": 70,
+      "readings": 70,
       "conflict": "none"
     },
     "silas": {
@@ -4299,10 +4323,11 @@
         "lokalitaeten-konzept-fuer-roman-simulation",
         "subplot-entwicklung-fuer-romanstruktur",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 50,
-      "readings": 50,
+      "sources": 51,
+      "readings": 51,
       "conflict": "C4, C6"
     },
     "system-monitor": {
@@ -4576,10 +4601,11 @@
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
         "roman-outline-1-13-fuer-kohaerenz-protokoll",
         "subplot-entwicklung-fuer-romanstruktur",
-        "an-ontological-and-systemic-overview-of-the-coherence-protoc"
+        "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 74,
-      "readings": 73,
+      "sources": 75,
+      "readings": 74,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -4660,10 +4686,11 @@
         "lokalitaeten-konzept-fuer-roman-simulation",
         "subplot-entwicklung-fuer-romanstruktur",
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
-        "roman-lokalitaeten-konzept-und-ausarbeitung-2"
+        "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+        "plot-generation-framework-for-the-coherence-protocol"
       ],
-      "sources": 57,
-      "readings": 57,
+      "sources": 58,
+      "readings": 58,
       "conflict": "none yet"
     },
     "vergessener-schrein": {

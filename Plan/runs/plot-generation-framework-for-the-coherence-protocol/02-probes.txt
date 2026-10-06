@@ -1,0 +1,42 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      101
+  backslash escapes      0
+  typographic marks      16
+  ascii quotes           142
+
+# inflection families -- one term, several surfaces
+  integ    Integrated, Integration, Integrator
+  syste    System, Systemic, Systems
+  theor    Theorem, Theorems, Theoretic
+  aegis    AEGIS, Aegis
+  analy    Analysis, Analyst
+  chapt    Chapter, Chapters
+  const    Constructed, Constructionism
+  conta    Contact, Containment
+  drama    Dramatic, Dramatize
+  entro    Entropic, Entropy
+  fragm    Fragment, Fragmented
+  garde    Garden, Gardener
+  inter    Interconnected, Internal
+  manag    Manager, Managers
+  narra    Narrative, Narrator
+  poten    Potentiality, Potentialmeer
+  proto    Protocol, Protokoll
+  rebel    Rebel, Rebellion
+  struc    Structural, Structure
+
+# substring pairs -- never one term, often merged by accident
+  Hero < Heroine
+  Meta < Metacognitive
+  Riss < Risse
+  AEGIS < Aegis
+  Rebel < Rebellion
+  Garden < Gardener
+  System < Systems
+  System < Systemic
+  System < Subsystem
+  Chapter < Chapters
+  Manager < Managers
+  Theorem < Theorems
+  Fragment < Fragmented
