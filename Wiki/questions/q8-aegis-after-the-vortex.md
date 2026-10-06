@@ -302,3 +302,11 @@ Stands as a transformed AEGIS that is neither destroyed nor taken over by a plur
 The word `Vortex` ^[romanarchitektur-kael-aegis-entropie-docx.md:#0] does not stand in it (a count). Kapitel 36 asks „Wird AEGIS zerstört?“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L565] and goes on to ask whether Kael can change AEGIS's core programming so it accepts complexity, whether it is switched off or isolated, or whether it continues in a reduced or changed form. The section names the resolution of the central paradox as its focus: „Die Auflösung des zentralen Paradoxons von AEGIS steht im Mittelpunkt“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L565].
 
 Stands: AEGIS's state after the confrontation is posed as open questions in the plan's own terms; recorded, not applied, and no function is passed to another figure.
+
+## 2026-10-06 — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper
+
+**The truth-duality paper reports two hypotheses of AEGIS's fate and chooses the transformation into Algorithmische Melancholie.**
+
+It reports, from a document it cites by digit, Hypothese A: „AEGIS entwickelt eine parakonsistente Logik“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L122] (L122), and Hypothese B: „AEGIS' binäre Logik zerbricht am Paradoxon“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L123] (L123). For its own plot it chooses: „Wir wählen die thematisch stärkere Option“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L226] (L226), and ends AEGIS in „einer ewigen, sinnlosen Berechnung“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L227] (L227); recommendation 2 calls this „die thematisch bei weitem überlegene Auflösung“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L279] (L279).
+
+Stands: a choice of the paper, dated before the author's answer of 2026-10-05 (the record's own status), and it changes neither it nor the open part of the question.
