@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -81,6 +81,10 @@ Third answer, section VI (L393): the characters' perceptions are challenged by �
 ## Reading — `welt`, 2025-07-29, the Welt blueprint — six levels in the question, seven named with a Fundament in the second pass
 
 The question that opens the document asks for „Wie können die sechs Realitätsebenen“ ^[welt.md:L26] — the four Kernwelten, the Überwelt and the Externe Ebene — to be conceived as distinct environments, and the answer announces „Hier ist der detaillierte Bauplan der sechs Realitätsebenen“ ^[welt.md:L32]. The first pass (L34–L78) profiles those six. The second pass counts further: it lists „die vier Kernwelten (KW1-4), die Überwelt, die Externe Ebene und das Potentialmeer“ ^[welt.md:L84], „unterlegt von einem mysteriösen Fundament“ ^[welt.md:L84], and later gives the Fundament its own section: „Das Fundament ist die postulierte tiefste Realitätsebene“ ^[welt.md:L142], „unter oder hinter AEGIS' Simulation“ ^[welt.md:L142]. The text does not itself revise the number six; the Potentialmeer and the Fundament appear as sections of the second pass (L132–L146).
+
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — a deeper Realitätsebene sought beneath AEGIS's simulation
+
+The architecture plan proposes one Realitätsebene beneath the simulation, not several. Its table gives Kapitel 29 the theme „Die Jagd nach einer tieferen, konsistenten Realitätsebene“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L45]. The Kapitel 29 section calls the Fundament „hypothetischen, tieferen, stabileren Realitätsebene“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L467], „unterhalb oder jenseits von AEGIS' Simulation“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L467], and asks whether reaching it would be a return to the real world, a level where AEGIS's paradoxes dissolve, or a way to create a new reality of one's own. Kapitel 22 asks „Ist alles eine Simulation, die von AEGIS gesteuert wird?“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L365].
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a new level of reality in Kap 39
 
