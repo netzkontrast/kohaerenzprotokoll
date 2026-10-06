@@ -260,3 +260,11 @@ Where it stands: under Q9's first way of asking (what crosses), the log says the
 It writes: „Die Verbindung zwischen Kael und Juna ist kein Kommunikationskanal, der überwacht oder blockiert werden kann“ ^[aegis-logik-und-erzaehlstruktur.md:L183], a „nicht-lokale Korrelation von Zuständen“ ^[aegis-logik-und-erzaehlstruktur.md:L183]. The letter says it bypasses the Zero-Trust Execution Model and the Encrypted Intent Channels: „Die Verbindung ist kein Protokoll, das überprüft werden kann“ ^[aegis-logik-und-erzaehlstruktur.md:L189]. It speaks to the boundary of what AEGIS can reach, not to what the link carries or who else feels it.
 
 Stands as a proposed boundary toward AEGIS from an outside physical model; recorded, the question stays open.
+
+## 2026-10-06 — `narrative-blueprint-the-coherence-protocol`, 2025-10-15, the blueprint
+
+**The blueprint's lexicon calls the Moonshine-Link non-local and acausal and invisible to AEGIS's logic, and gives no further boundary.**
+
+The lexicon (third part): „It is a non-local, acausal bond based on resonance, empathy, and interconnection.“ ^[narrative-blueprint-the-coherence-protocol.md:L314] and „structurally invisible to AEGIS's logic“ ^[narrative-blueprint-the-coherence-protocol.md:L314]. The first part's heading is „The Juna/V-Link (Moonshine-Link): The Non-Local Advantage“ ^[narrative-blueprint-the-coherence-protocol.md:L105]; in its scene a feeling reaches Kael from Juna and AEGIS's models cannot classify it (L107). The lexicon names the bond as Kael's and Juna/V's; the blueprint does not say who else may feel it or what it can carry.
+
+Stands as a statement of the boundary from AEGIS's side, dated 2025-10-15; recorded, not settling Q9.
