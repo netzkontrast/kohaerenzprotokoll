@@ -1,10 +1,10 @@
 ---
 term: Vergessener Schrein
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline", "welt"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline", "welt", "roman-lokalitaeten-konzept-und-ausarbeitung-2"]
 aliases: ["Vergessener Schrein (Trauma-Lokus)", "Trauma-Lokus"]
 gathered: "2026-09-17"
 ---
@@ -40,6 +40,10 @@ spiegelt die dissoziierte Natur der Erinnerung wider." ^[roman-lokalitaeten-konz
 
 That sentence is hedged (`vielleicht`) and is the only per-level account of what
 a Riss looks like anywhere read so far. See [[risse]].
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept — the place of the core trauma in KW2
+
+The second key place is headed „Ort des Kern-Traumas (KW2)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L223], after the name in the document's straight quotes. Its purpose: the „Manifestation eines zentralen, tief verdrängten traumatischen Ereignisses“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L225]. Its design: „Der Schrein ist eine stark verzerrte, albtraumhafte und symbolisch aufgeladene Version eines realen Ortes“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L226]. For the plot, „Kael muss diesen Ort aufsuchen“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L228] and face it.
 
 ## Reading — `welt`, 2025-07-29, the Welt blueprint — a cave, one possible element of KW2
 
