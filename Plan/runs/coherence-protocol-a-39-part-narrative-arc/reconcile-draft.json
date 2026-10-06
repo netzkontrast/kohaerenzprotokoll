@@ -1,0 +1,246 @@
+{
+  "document": "coherence-protocol-a-39-part-narrative-arc",
+  "drive_id": "1IytgYhGdzgdRreHQ0Tr7DBoUYf6osxw0k2N-dpOwA_8",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 76,
+    "decisions": 77,
+    "decided_by_lookup": 65,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        41,
+        45,
+        46,
+        48,
+        66,
+        68,
+        71
+      ],
+      "attribution": "",
+      "note": "AEGIS as the autopoietic AI, its core paradox, and its quiet end"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        44,
+        45,
+        54,
+        75
+      ],
+      "attribution": "",
+      "note": "alters as a society, then as speakers, then at peace"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        29
+      ],
+      "attribution": "",
+      "note": "the Guardian of defence and paranoia in Story 9 of an outline"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        31,
+        51,
+        70
+      ],
+      "attribution": "",
+      "note": "contradictory interference and aimless loops in an outline"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        24,
+        48,
+        67,
+        73
+      ],
+      "attribution": "",
+      "note": "Juna first as a wave of emotion, then as guide"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        21,
+        41,
+        65,
+        67,
+        73
+      ],
+      "attribution": "",
+      "note": "Kael as a TSDP-structured psyche, reboot to Gardener"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        30,
+        51
+      ],
+      "attribution": "",
+      "note": "Kairos beside Sophia in KW4, and against LogOS, in an outline"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "Kiko as fear in the polyphonic prose"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        43,
+        44,
+        52
+      ],
+      "attribution": "",
+      "note": "Lex as the logical ANP who guides the analysis"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        22,
+        26,
+        51,
+        70
+      ],
+      "attribution": "",
+      "note": "Guardian of KW1, shattered and set against Kairos in an outline"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the Guardian of KW2 in Story 7 of an outline"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        19,
+        24,
+        48,
+        73
+      ],
+      "attribution": "",
+      "note": "the link first as a pulse, then a stable channel, then a guide to 'O'"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        44,
+        52
+      ],
+      "attribution": "",
+      "note": "Nyx as the impulsive Firefighter and the decisive action in the prose"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        71
+      ],
+      "attribution": "",
+      "note": "Story 33 faces the Potentialmeer as the Gardener in an outline"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        23,
+        26,
+        46
+      ],
+      "attribution": "",
+      "note": "Risse in KW1 and from AEGIS's corrections, in an outline"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "Selene as the integrator who guides a Persecutor's change"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "Sophia (wisdom) beside Kairos in KW4 in an outline"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        13,
+        19,
+        29,
+        44
+      ],
+      "attribution": "",
+      "note": "TSDP as the frame of Part I and of the alters' society"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "Story 13 enters the Überwelt as AEGIS's domain in an outline"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C7",
+    "C14",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 44,
+      "decision": "reading",
+      "why": "Story 15, The Society of Alters, read on alters"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

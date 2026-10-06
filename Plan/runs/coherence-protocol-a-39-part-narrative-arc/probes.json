@@ -1,0 +1,125 @@
+{
+  "document": "coherence-protocol-a-39-part-narrative-arc",
+  "drive_id": "1IytgYhGdzgdRreHQ0Tr7DBoUYf6osxw0k2N-dpOwA_8",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 46,
+  "backslash_escapes": 0,
+  "typographic_marks": 20,
+  "ascii_quotes": 104,
+  "inflection_families": {
+    "fragm": [
+      "Fragment",
+      "Fragmentation",
+      "Fragmented"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissonant"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional"
+    ],
+    "garde": [
+      "Garden",
+      "Gardener"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "inter": [
+      "Interference",
+      "Internal"
+    ],
+    "logic": [
+      "Logic",
+      "Logics"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "narra": [
+      "Narrative",
+      "Narrator"
+    ],
+    "overw": [
+      "Overwhelmed",
+      "Overworld"
+    ],
+    "possi": [
+      "Possibilities",
+      "Possibility"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonant"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "World",
+      "Overworld"
+    ],
+    [
+      "Garden",
+      "Gardener"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Emotion",
+      "Emotional"
+    ],
+    [
+      "Fragment",
+      "Fragmented"
+    ],
+    [
+      "Fragment",
+      "Fragmentation"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ]
+  ]
+}
