@@ -1,0 +1,84 @@
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "könnte"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            21
+
+`könnte` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#17]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "könnten"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`könnten` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#4]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "möglicherweise"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`möglicherweise` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#9]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "EPs"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`EPs` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#3]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "EP-Intrusionen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`EP-Intrusionen` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "TSDP-Dynamiken"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP-Dynamiken` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "ANP-Kontrolle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANP-Kontrolle` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "Juna/V"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            17
+
+`Juna/V` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#16]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "Mysterium"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mysterium` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "Unbegreiflichen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Unbegreiflichen` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "Subplot"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            44
+
+`Subplot` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#36]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "Kap."
+whole word, case-sensitive     136
+whole word, case-insensitive   136
+including compounds            136
+
+`Kap.` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#136]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "Bewachtseins"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Bewachtseins` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ read.py explizites-subplot-konzept-fuer-kohaerenz-protokoll --count "Hauptplot"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hauptplot` ^[explizites-subplot-konzept-fuer-kohaerenz-protokoll.md:#1]
