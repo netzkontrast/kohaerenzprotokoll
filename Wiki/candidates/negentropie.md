@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 9
-readings: 8
+sources: 10
+readings: 9
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest"]
 gathered: "2026-09-16"
 ---
 
@@ -54,6 +54,10 @@ option anticipated: **neither, because [[aegis|AEGIS]] cannot see it at all.** S
 
 The marker matters: `[User Query]` means the project supplied this, and the
 research reasoned from it rather than concluding it.
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — AEGIS' Negentropie-Fehlinterpretation
+
+The beat sheet writes `Negentropie` only in a compound, once. In the causal link of Kapitel 10-12, AEGIS' reading of Kael's adaptive behaviour as `Entropie` is „eine Schlüsselmanifestation seiner“ ^[finales-kausales-plot-geruest.md:L79] „Negentropie-Fehlinterpretation“ ^[finales-kausales-plot-geruest.md:L79]. The beat sheet does not say what the correct reading would be.
 
 ## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Psychological Exposé — the misreading named as AEGIS' central flaw
 
