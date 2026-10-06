@@ -447,3 +447,11 @@ Stands as a plan for a first contact in Kap 9, dated 2026-02-23; recorded, not a
 Story 4 (The Resonant Intrusion): „Kael experiences his first encounter with Juna“ ^[coherence-protocol-a-39-part-narrative-arc.md:L24], and „This is not a physical meeting but a subtle, unexplained wave of emotion“ ^[coherence-protocol-a-39-part-narrative-arc.md:L24]. The outline numbers stories, not chapters, and gives no Kap for it.
 
 Stands as an outline's first encounter by emotion, dated 2025-11-03; recorded, not applied, and it does not touch the decision of 2026-10-05.
+
+## 2026-10-06 — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure
+
+**The dual structure plans Juna as an external human person in Kapitel 3, with a meeting arranged in the same chapter, not in Akt III.**
+
+The outline gives Kapitel 3 the title `Juna`. In it AEGIS „überwacht Kaels Interaktion mit einer externen menschlichen Person, Juna“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L94], and the Ki pass of the chapter has „ein geplantes, strukturiertes Treffen mit Juna“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L100]. It is a design, and the planned chapter is not one as written; the document plans a meeting in the first act.
+
+Stands, in the record's own terms, as a planned meeting with Juna in Kapitel 3: recorded, not applied, and no resolution is made here.
