@@ -1,0 +1,14 @@
+{
+  "status": "proposal",
+  "provenance": "Entscheidung 025, Schritt 48 (2026-10-06): der Autor wählte „eine Zahl in jedem AEGIS-Kapitel“ und Beat 4, die Landauer-Hitze, in Kap 35. Die Werte selbst sind der Vorschlag der Sitzung: sinkend, mit dem größten Sprung beim Purge (Kap 28), aufgebraucht in Kap 35.",
+  "unit": "Prozent der thermodynamischen Reserve",
+  "exhausted_at": 35,
+  "readings": {
+    "0": 71,
+    "6": 64,
+    "16": 47,
+    "22": 31,
+    "28": 9,
+    "35": 0
+  }
+}
