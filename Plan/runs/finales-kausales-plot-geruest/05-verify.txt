@@ -1,0 +1,65 @@
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Beschreibung"
+`Beschreibung` ^[finales-kausales-plot-geruest.md:#15]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Kausale Verknüpfung"
+`Kausale Verknüpfung` ^[finales-kausales-plot-geruest.md:#15]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Dramatica Throughline Function"
+`Dramatica Throughline Function` ^[finales-kausales-plot-geruest.md:#15]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Beat Sheet"
+`Beat Sheet` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Paradoxon X"
+`Paradoxon X` ^[finales-kausales-plot-geruest.md:#5]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Guardians"
+`Guardians` ^[finales-kausales-plot-geruest.md:#11]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "funktionale Multiplizität"
+`funktionale Multiplizität` ^[finales-kausales-plot-geruest.md:#5]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Das Fundament"
+`Das Fundament` ^[finales-kausales-plot-geruest.md:#3]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Moonshine-Link"
+`Moonshine-Link` ^[finales-kausales-plot-geruest.md:#6]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Nexus"
+`Nexus` ^[finales-kausales-plot-geruest.md:#4]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Überwelt"
+`Überwelt` ^[finales-kausales-plot-geruest.md:#2]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "könnte"
+`könnte` ^[finales-kausales-plot-geruest.md:#7]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "möglicherweise"
+`möglicherweise` ^[finales-kausales-plot-geruest.md:#3]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "EP"
+`EP` ^[finales-kausales-plot-geruest.md:#0]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "EPs"
+`EPs` ^[finales-kausales-plot-geruest.md:#3]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "TSDP"
+`TSDP` ^[finales-kausales-plot-geruest.md:#0]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "TSDP-basierten"
+`TSDP-basierten` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "ANPs"
+`ANPs` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "ANP-EP"
+`ANP-EP` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "ANP-Funktionalität"
+`ANP-Funktionalität` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Kaels"
+`Kaels` ^[finales-kausales-plot-geruest.md:#44]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Junas"
+`Junas` ^[finales-kausales-plot-geruest.md:#19]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Kael-Juna"
+`Kael-Juna` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Selenes"
+`Selenes` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Mnemosynes"
+`Mnemosynes` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Rissen"
+`Rissen` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "KW1-4"
+`KW1-4` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "AEGIS-Kernbereiche"
+`AEGIS-Kernbereiche` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "Fixed Attitude-Domäne"
+`Fixed Attitude-Domäne` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "AKT II"
+`AKT II` ^[finales-kausales-plot-geruest.md:#1]
+$ python3 scripts/read.py finales-kausales-plot-geruest --count "AKT III"
+`AKT III` ^[finales-kausales-plot-geruest.md:#1]
+stance_marker_count: Beschreibung 15 + Kausale Verknüpfung 15 + Dramatica Throughline Function 15 = 45
+profile (capture.py): backslash escapes 5, glued ref numbers 35, ascii quotes 554, typographic marks 2, repeated labels x15 each
+beats: 15 headings (Beat 1.1 to 3.5), L24 to L214: 6+4+5

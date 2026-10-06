@@ -155,10 +155,11 @@
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 91,
-      "readings": 91,
+      "sources": 92,
+      "readings": 92,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -213,10 +214,11 @@
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-konzept-kohaerenz-protokoll"
+        "roman-konzept-kohaerenz-protokoll",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 46,
-      "readings": 46,
+      "sources": 47,
+      "readings": 47,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -447,10 +449,11 @@
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-konzept-kohaerenz-protokoll"
+        "roman-konzept-kohaerenz-protokoll",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 46,
-      "readings": 46,
+      "sources": 47,
+      "readings": 47,
       "conflict": "none"
     },
     "ars": {
@@ -511,10 +514,11 @@
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "roman-konzept-dualitaet-kohaerenz-spannung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "C4"
     },
     "cache-kohaerenz": {
@@ -530,10 +534,11 @@
         "kohaerenz-protokoll",
         "kohaerenz-protokoll-outline-revision-2026-05-01-md",
         "kohaerenz-protokoll-kapitel-outline-erstellung",
-        "charaktere"
+        "charaktere",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "cerberus": {
@@ -584,10 +589,11 @@
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 42,
-      "readings": 42,
+      "sources": 43,
+      "readings": 43,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -828,10 +834,11 @@
         "roman-entwicklung-kohaerenz-protokoll-json",
         "kontext-outline",
         "charaktere",
-        "2-kohaerenz-protokoll-konzeptentwicklung"
+        "2-kohaerenz-protokoll-konzeptentwicklung",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 29,
+      "readings": 29,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -942,10 +949,11 @@
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 61,
-      "readings": 61,
+      "sources": 62,
+      "readings": 62,
       "conflict": "C2"
     },
     "erason": {
@@ -1172,10 +1180,11 @@
         "outline-2",
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
-        "2-kohaerenz-protokoll-konzeptentwicklung"
+        "2-kohaerenz-protokoll-konzeptentwicklung",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 58,
-      "readings": 57,
+      "sources": 59,
+      "readings": 58,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -1347,10 +1356,11 @@
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 62,
-      "readings": 62,
+      "sources": 63,
+      "readings": 63,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -1446,10 +1456,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
-        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"
+        "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 42,
-      "readings": 42,
+      "sources": 43,
+      "readings": 43,
       "conflict": "C15"
     },
     "juna": {
@@ -1538,10 +1549,11 @@
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 79,
-      "readings": 79,
+      "sources": 80,
+      "readings": 80,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1691,10 +1703,11 @@
         "roman-konzept-kohaerenz-protokoll",
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "roman-outline-transformation-in-keyword-tags",
-        "kohaerenz-protokoll-gesamtkonzept-entwicklung"
+        "kohaerenz-protokoll-gesamtkonzept-entwicklung",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 88,
-      "readings": 88,
+      "sources": 89,
+      "readings": 89,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -1768,10 +1781,11 @@
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 36,
-      "readings": 36,
+      "sources": 37,
+      "readings": 37,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -1844,10 +1858,11 @@
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 63,
-      "readings": 62,
+      "sources": 64,
+      "readings": 63,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -1912,10 +1927,11 @@
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-konzept-kohaerenz-protokoll"
+        "roman-konzept-kohaerenz-protokoll",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 56,
-      "readings": 56,
+      "sources": 57,
+      "readings": 57,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -2313,10 +2329,11 @@
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-konzept-kohaerenz-protokoll"
+        "roman-konzept-kohaerenz-protokoll",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 59,
-      "readings": 59,
+      "sources": 60,
+      "readings": 60,
       "conflict": "none"
     },
     "lia": {
@@ -2376,10 +2393,11 @@
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "roman-konzept-kohaerenz-protokoll",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 51,
-      "readings": 51,
+      "sources": 52,
+      "readings": 52,
       "conflict": "C15"
     },
     "logos": {
@@ -2435,10 +2453,11 @@
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 47,
-      "readings": 47,
+      "sources": 48,
+      "readings": 48,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -2520,10 +2539,11 @@
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 55,
-      "readings": 55,
+      "sources": 56,
+      "readings": 56,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -2636,10 +2656,11 @@
         "roman-entwicklung-kohaerenz-protokoll-json",
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 58,
-      "readings": 58,
+      "sources": 59,
+      "readings": 59,
       "conflict": "none"
     },
     "moros": {
@@ -2696,10 +2717,11 @@
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-konzept-kohaerenz-protokoll"
+        "roman-konzept-kohaerenz-protokoll",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 48,
-      "readings": 48,
+      "sources": 49,
+      "readings": 49,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -2806,10 +2828,11 @@
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
-        "2-kohaerenz-protokoll-konzeptentwicklung"
+        "2-kohaerenz-protokoll-konzeptentwicklung",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 62,
-      "readings": 62,
+      "sources": 63,
+      "readings": 63,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -2827,10 +2850,11 @@
         "kohaerenz-protokoll-outline-revision-2026-05-01-md",
         "kohaerenz-protokoll-kapitel-outline-erstellung",
         "ai-assisted-narrative-coherence",
-        "kohaerenz-protokoll-kapitel-outline-generierung-2"
+        "kohaerenz-protokoll-kapitel-outline-generierung-2",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 9,
-      "readings": 8,
+      "sources": 10,
+      "readings": 9,
       "conflict": "none yet"
     },
     "nexus": {
@@ -2857,10 +2881,11 @@
         "outline",
         "kohaerenz-protokoll-kapitel-outline-generierung-2",
         "roman-entwicklung-kohaerenz-protokoll-json",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 19,
+      "readings": 19,
       "conflict": "none"
     },
     "nichts-rauschen": {
@@ -2921,10 +2946,11 @@
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 51,
-      "readings": 51,
+      "sources": 52,
+      "readings": 52,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -3003,10 +3029,11 @@
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-konzept-kohaerenz-protokoll"
+        "roman-konzept-kohaerenz-protokoll",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 57,
-      "readings": 57,
+      "sources": 58,
+      "readings": 58,
       "conflict": "C10"
     },
     "oblivion": {
@@ -3363,10 +3390,11 @@
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-konzept-kohaerenz-protokoll"
+        "roman-konzept-kohaerenz-protokoll",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 43,
-      "readings": 43,
+      "sources": 44,
+      "readings": 44,
       "conflict": "none"
     },
     "risse": {
@@ -3444,10 +3472,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 67,
-      "readings": 67,
+      "sources": 68,
+      "readings": 68,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -3555,10 +3584,11 @@
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-konzept-kohaerenz-protokoll"
+        "roman-konzept-kohaerenz-protokoll",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 51,
-      "readings": 51,
+      "sources": 52,
+      "readings": 52,
       "conflict": "none"
     },
     "silas": {
@@ -3666,10 +3696,11 @@
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 34,
-      "readings": 34,
+      "sources": 35,
+      "readings": 35,
       "conflict": "C4, C6"
     },
     "system-monitor": {
@@ -3923,10 +3954,11 @@
         "strukturelle-dissoziation-system-kael-analyse",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 58,
-      "readings": 57,
+      "sources": 59,
+      "readings": 58,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -3993,10 +4025,11 @@
         "roman-entwicklung-kohaerenz-protokoll-json",
         "kontext-outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
-        "2-kohaerenz-protokoll-konzeptentwicklung"
+        "2-kohaerenz-protokoll-konzeptentwicklung",
+        "finales-kausales-plot-geruest"
       ],
-      "sources": 43,
-      "readings": 43,
+      "sources": 44,
+      "readings": 44,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
