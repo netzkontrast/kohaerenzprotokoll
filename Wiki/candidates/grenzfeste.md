@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -90,6 +90,10 @@ The architecture analysis pairs the name with the Labyrinth: „KW3 (Grenzfeste/
 
 The third Core World is written „KW3: Cerberus-Labyrinth / Grenzfeste“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98]. Its principle is „Defense & Hypervigilance (Protectors)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], its sensory signature „Oppressive, militaristic, jarring, monitored“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], and its somatic truth is bracing for impact: „The body as armor, revealing that physical security does not equal psychological safety.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98]
 
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — row 3, Cerberus and Nox on the same premises
+
+**Proposes.** Row 3 of the table (L72) names Cerberus as guardian, Firefighter / Protectors as category, Praetor, Nox and Oblivion as Alters, and the function „Abwehr von überwältigendem Trauma“ ^[plot-analyse-und-romanentwicklung.md:L72]. Its `Inkonsistenz-Warnung` finds that „Cerberus und Nox operieren auf denselben fehlgeleiteten Prämissen“ ^[plot-analyse-und-romanentwicklung.md:L75], and proposes that when Kael is moved „Wenn Kael in die Grenzfeste (Beta-Rho-5) versetzt wird“ ^[plot-analyse-und-romanentwicklung.md:L75], Nox be amplified by the world's architecture. The assistant reports the Nox description from the author's concept (reference 8); the synergy is its own proposal.
+
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the third Kernwelt: B, protectors, Cerberus
 
 The Leitfragen report (an analyst's review) gives, as its account of other documents, one table row for the Grenzfeste: „Grenzfeste (B)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94], with „Protektoren, Paranoia, Abwehr“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94], the Guardian Cerberus, the paradigm „Baby-Monster-Gruppe, Nicht-linearität“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94], and a transition marked as open: „Überwindung der Zero-Trust-Firewall“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94]. Cerberus is named with it again as „Cerberus (Grenzfeste)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105].
@@ -105,6 +109,10 @@ The pitch writes the third world only as `KW3: Cerberus-Labyrinth`, never as Gre
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the English name of Core World 3
 
 The manifest writes only the English name: „The third Core World is designated as the Boundary Fortress.“ ^[aegis-persona-and-manifest-generation.md:L89] It is „a secure quarantine zone, a control center, and a maximum-security containment facility“ ^[aegis-persona-and-manifest-generation.md:L89].
+
+## Where the sources differ
+
+- The plot analysis proposes the Grenzfeste (`Beta-Rho-5`) as the world of Cerberus, where Cerberus and Nox share premises; a proposal, not a chapter's fact.
 
 ## Open
 
