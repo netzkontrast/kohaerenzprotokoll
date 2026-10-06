@@ -156,3 +156,11 @@ Stands: the report places the link in both the Impact and the Subjective through
 Under Juna/V: „is a non-local, sub-protocol connection.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L139] and „AEGIS is ontologically blind to this resonance; its sensors can only perceive its effects as uncorrelated system noise.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L139] Of its effect on Kael the document says „The link provides Kael with“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L140] `gnosis` rather than `episteme` (L140). The document does not say what else crosses, who in Kael's system feels it (`Silas` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] does not occur), or whether it belongs to Kael and Juna/V alone.
 
 A boundary toward AEGIS only: its sensors register effects as noise; recorded, the question stays open.
+
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet has AEGIS block or distort the Moonshine-Link at its boundary protocols, and writes it as not containable by formal logic.**
+
+In Kapitel 10-12 the IC line says the link „wird von AEGIS aktiv blockiert oder verzerrt“ ^[finales-kausales-plot-geruest.md:L86], which underlines the boundary protocols of the system and „und seine Unfähigkeit, mit nicht-lokalen Phänomenen umzugehen“ ^[finales-kausales-plot-geruest.md:L86]. In Kapitel 33-35 Juna/V plays a final, decisive action, and the line writes of her: „der von formaler Logik nicht eingedämmt werden kann“ ^[finales-kausales-plot-geruest.md:L198]. The beat sheet draws a boundary toward AEGIS only; it says nothing here of who in Kael's system can feel the link.
+
+Stands as a boundary toward AEGIS, once blocking and once beyond containment by formal logic; recorded, the question stays open.
