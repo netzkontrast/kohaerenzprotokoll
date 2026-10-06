@@ -211,3 +211,11 @@ telling has any place beside it is the author's to say, and was not asked.
 Story 35 (The Other Fragment, 'O'): „Guided by Juna's Moonshine-Link, Kael follows the dissonant resonance to another being“ ^[coherence-protocol-a-39-part-narrative-arc.md:L73]. The synopsis offers three possibilities for 'O', whole and healed, differently fragmented, or unaware of the shared origin; it says nothing of entity M or of AEGIS's split self.
 
 Stands as a third telling of a fragment, dated 2025-11-03, recorded without choosing; the record stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis
+
+**The plot-idea synthesis analyses Kael as an avatar of a Monstergruppe-inspired structure, a Kohärenz-Insel from the [[potentialmeer|Potentialmeer]], with his DID induced by AEGIS.**
+
+„ein Avatar einer Struktur, die von der Monstergruppe (M) inspiriert ist“ ^[kohaerenz-protokoll-plotideen-generierung.md:L172] and, in the Potentialmeer section, Kohärenz-Inseln „welche als Ursprung von Kaels Essenz angedeutet werden“ ^[kohaerenz-protokoll-plotideen-generierung.md:L19]. His DID: „die durch AEGIS' Analyseversuche induziert wurde“ ^[kohaerenz-protokoll-plotideen-generierung.md:L172]. It states this as analysis of the concept, not as canon.
+
+Stands on the external side of the record's origins, with the DID as AEGIS's doing; recorded, nothing decided.
