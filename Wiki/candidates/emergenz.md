@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 29
-readings: 29
+sources: 30
+readings: 30
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romananalyse-kohaerenz-plot-kritik"]
 gathered: "2026-09-16"
 ---
 
@@ -96,6 +96,10 @@ The strategy paper's table gives it as AEGIS's method, with its gloss: „(Emerg
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — emergence in Kap 10 and Kap 21
 
 The master blueprint plans emergence at two points. In Kap 10, Kairos „beobachtet diese Emergenz fasziniert, muss sie jedoch gemäß seiner Programmierung an AEGIS melden“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L136] In Kap 21, Kael breaks the loop by „(emergente) Handlung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L227] that AEGIS' probability matrix cannot hold; the document writes the adjective in parentheses.
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — Kael from architect to gardener of emergence
+
+In its summary of Teil 2 the report says that Kael refuses AEGIS's order and uses Juna's resonance to produce an „organische Harmonie“ ^[romananalyse-kohaerenz-plot-kritik.md:L99]. It continues: „Er wandelt sich vom“ ^[romananalyse-kohaerenz-plot-kritik.md:L99] `Architekten` of the system's logic to the `Gärtner` of `Emergenz`. This is the report's summary of the manuscript (its reference 9).
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Emergenz in Kap 37, as what the new world allows
 
@@ -230,3 +234,4 @@ So five senses in one file: `C3`'s own sense, in English and in a question; a me
 ## Where the sources differ
 
 - `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29: the pitch gives AEGIS's origin as „aus demselben gespaltenen Ursprungs-Selbst wie Kael hervorgegangen ist“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L105] in the Genesis-Krise, without the word Emergenz for it.
+- The report of 2026-02-23 summarises Teil 2 as Kael turning from architect to gardener of emergence.
