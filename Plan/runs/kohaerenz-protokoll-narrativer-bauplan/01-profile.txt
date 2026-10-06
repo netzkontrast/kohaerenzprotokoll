@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-narrativer-bauplan
+  lines                338  (frontmatter ends at 9)
+  body words           6555
+  headings             20   bold-only lines 2
+  table rows           6   code fences 0
+  question marks       11
+  backslash escapes    34
+  typographic marks    40   ascii quotes 178
+  invisible characters U+FEFFx2
+  math symbol lines    0
+  glued ref numbers    100
+  repeated labels      none
+  longest line         1666 chars
+
