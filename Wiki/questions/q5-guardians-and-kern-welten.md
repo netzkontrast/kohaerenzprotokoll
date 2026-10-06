@@ -489,3 +489,11 @@ Stands: a proposal of 2025-11-18 with four world-Wächter pairs and Kairos/Sophi
 It gives KW1 „LogOS (Architekt)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L263], KW2 the name Mnemosyne (L274), KW3 the name Cerberus (L284) and KW4 „Kairos/Sophia (Sucher)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L295]. The table repeats them under the column „Guardian“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L309], with „Kairos/Sophia“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L313] as one cell. The recommendation on L380 speaks of „der jeweiligen Wächter-KIs“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L380].
 
 Stands as another position on the pairing: four worlds, four Guardian labels, the fourth shared by two names.
+
+## 2026-10-06 — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline
+
+**The detailed outline plans one Guardian per world, three named.**
+
+For Kernwelt 1: „Guardian LogOS wird als Verkörperung der rigiden Systemlogik von KW1 eingeführt.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L162] For Kernwelt 2: „Der Wächter von KW2, Guardian Mnemosyne, wird aktiv.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L343] For Kernwelt 3: „die Domäne der Angst, der Verteidigung und des Wächters Cerberus“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L611] and „Guardian Cerberus wird eingeführt, der die Schwelle zur tieferen Wahrheit oder Integration bewacht und die Angst selbst verkörpert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L624]
+
+Stands on the side of one Guardian per world for the three worlds the outline reaches; recorded, not resolved.
