@@ -488,3 +488,11 @@ Stands as a count of five with three pairings, dated 2025-05-02; recorded, not a
 The plan's fourth arc names „(LogOS, Mnemosyne, Cerberus, Kairos & Sophia) als spezialisierte, nicht-anthropomorphe Agenten von AEGIS“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L22], with „Domänen (KW1-4, Überwelt)“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L22]. It places LogOS and Cerberus: „Einführung von LogOS (KW1) und Cerberus (KW3) als Agenten von AEGIS' Kontrolle und Abwehr“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L123]; Mnemosyne: „Einführung von Mnemosyne (KW2) und Konfrontation mit ihrer Rolle bei der Verwaltung von Erinnerungen/Emotionen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L124]; and the pair: „Einführung von Kairos & Sophia (KW4) und Interaktion mit ihrer Rolle bei der Steuerung von Potenzial“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L134].
 
 Stands with position 1's pairing (five named Guardians, four worlds, Kairos and Sophia sharing one); recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept
+
+**The locations concept names five Guardians and sets four of the worlds each under a Guardian label, Kairos and Sophia sharing the fourth.**
+
+Its table gives the first world „LogOS / Index, Architekt, (Praetor, Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L186] and the fourth „Kairos/Sophia / Eos, Index, Silas, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L189]; the second and third worlds are headed „Resonanz-Landschaft (Mnemosyne)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L204] and „Grenzfeste (Cerberus)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L215]. The fourth heading is „Möglichkeits-Garten (Kairos/Sophia)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L226]. In the Überwelt it lists the five together: „(LogOS, Mnemosyne, Cerberus, Kairos, Sophia – vielleicht als Avatare oder lokalisierte Systemfunktionen)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L246], hedged with `vielleicht`.
+
+Stands as five named Guardians over four worlds with a shared fourth, as a concept dated 2025-04-18; recorded, not applied, and the record's rows are not changed.
