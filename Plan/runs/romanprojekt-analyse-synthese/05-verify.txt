@@ -1,0 +1,69 @@
+$ python3 scripts/read.py romanprojekt-analyse-synthese --count "Konsens-Punkte"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konsens-Punkte` ^[romanprojekt-analyse-synthese.md:#1]
+
+$ python3 scripts/read.py romanprojekt-analyse-synthese --count "Widersprüche und deren Auflösung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Widersprüche und deren Auflösung` ^[romanprojekt-analyse-synthese.md:#1]
+
+$ python3 scripts/read.py romanprojekt-analyse-synthese --count "Identifizierte Lücken"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Identifizierte Lücken` ^[romanprojekt-analyse-synthese.md:#1]
+
+$ python3 scripts/read.py romanprojekt-analyse-synthese --count "verbindlicher Bauplan"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`verbindlicher Bauplan` ^[romanprojekt-analyse-synthese.md:#1]
+
+$ python3 scripts/read.py romanprojekt-analyse-synthese --count "semantische Firewall"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`semantische Firewall` ^[romanprojekt-analyse-synthese.md:#0]
+
+$ python3 scripts/read.py romanprojekt-analyse-synthese --count "semantischen Firewall"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`semantischen Firewall` ^[romanprojekt-analyse-synthese.md:#1]
+
+$ python3 scripts/read.py romanprojekt-analyse-synthese --count "Kapitel"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            16
+
+`Kapitel` ^[romanprojekt-analyse-synthese.md:#15]
+
+$ python3 scripts/read.py romanprojekt-analyse-synthese --count "Kapitel 3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            5
+
+`Kapitel 3` ^[romanprojekt-analyse-synthese.md:#1]
+
+$ python3 scripts/read.py romanprojekt-analyse-synthese --count "Driver-Pivot"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Driver-Pivot` ^[romanprojekt-analyse-synthese.md:#1]
+
+stance_marker_count 4 = 1+1+1+1 (the four counts above)
+profile numbers (15 glued ref numbers, 34 escapes) from 01-profile.txt:
+  backslash escapes    34
+  glued ref numbers    15
+`AEGIS-Protokolle` ^[romanprojekt-analyse-synthese.md:#1]
+`Deletion Guardian` ^[romanprojekt-analyse-synthese.md:#1]
