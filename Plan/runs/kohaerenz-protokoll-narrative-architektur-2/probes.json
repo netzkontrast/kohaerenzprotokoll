@@ -1,0 +1,271 @@
+{
+  "document": "kohaerenz-protokoll-narrative-architektur-2",
+  "drive_id": "1qnj0QAR2a8cokpibBr4l5jXdbCzSYEGcB7enMmGr-Sc",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 87,
+  "backslash_escapes": 71,
+  "typographic_marks": 24,
+  "ascii_quotes": 212,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemausfällen",
+      "Systeme",
+      "Systemkohärenz",
+      "Systemplan",
+      "Systemprotokollen",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interference",
+      "Interferenzmustern",
+      "Internal",
+      "International",
+      "Interne",
+      "Interpretations",
+      "Interpretieren"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählstimme",
+      "Erzählstruktur",
+      "Erzähltechniken",
+      "Erzählung",
+      "Erzählweise"
+    ],
+    "explo": [
+      "Exploit",
+      "Exploitation",
+      "Exploration",
+      "Explorative",
+      "Exploring",
+      "Explosion"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmenwechsel",
+      "Paradox",
+      "Paradoxa",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonant",
+      "Resonanz",
+      "Resonanzmuster",
+      "Resonanzmusters",
+      "Resonanztheorie"
+    ],
+    "disso": [
+      "Dissociated",
+      "Dissociation",
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziation"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionaler",
+      "Emotionen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbogen",
+      "Handlungsfähigkeit",
+      "Handlungsreisenden"
+    ],
+    "kompl": [
+      "Komplex",
+      "Komplexität",
+      "Komplexitätsklasse",
+      "Komplexitätsklassen",
+      "Komplexitätstheorie"
+    ],
+    "probl": [
+      "Problem",
+      "Probleme",
+      "Problemen",
+      "Problemlösung",
+      "Problems"
+    ],
+    "subje": [
+      "Subjekt",
+      "Subjekte",
+      "Subjektiv",
+      "Subjektive",
+      "Subjektivität"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorems",
+      "Theoretic",
+      "Theorie",
+      "Theory"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analysis",
+      "Analytics"
+    ],
+    "archi": [
+      "Architecture",
+      "Architekt",
+      "Architektur",
+      "Archive"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungsanalyse",
+      "Bedrohungsfokus",
+      "Bedrohungsvektor"
+    ],
+    "besch": [
+      "Beschleuniger",
+      "Beschreibung",
+      "Beschreibungen",
+      "Beschwichtigung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpaketen",
+      "Datenpunkte",
+      "Datenspitzen"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlermodi",
+      "Fehlern",
+      "Fehlerschleife"
+    ],
+    "funda": [
+      "Fundament",
+      "Fundamentalism",
+      "Fundamentality",
+      "Fundaments"
+    ],
+    "grund": [
+      "Grund",
+      "Grundlage",
+      "Grundlagen",
+      "Grundprämisse"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konflikts"
+    ],
+    "lösun": [
+      "Lösung",
+      "Lösungen",
+      "Lösungsraum",
+      "Lösungsweg"
+    ],
+    "manif": [
+      "Manifest",
+      "Manifestation",
+      "Manifestationen",
+      "Manifests"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modellierung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Böse",
+      "Bösen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eine",
+      "Bewusstseine"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Dependent"
+    ],
+    [
+      "Ende",
+      "Dutzenden"
+    ],
+    [
+      "Ende",
+      "Tausenden"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Handlungsreisenden"
+    ],
+    [
+      "Feld",
+      "Hossenfelder"
+    ],
+    [
+      "Form",
+      "Perform"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ]
+  ]
+}

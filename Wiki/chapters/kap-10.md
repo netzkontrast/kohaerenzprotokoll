@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
+sources: 28
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -21,6 +21,10 @@ novel follows is the author's call. All chapters side by side:
 Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
 
 Das Kapitel steht in Akt I, in der Heldinnenreise innen auf ihrer ersten Erweiterungsstufe, Erste Anwendung der Integration, laut der strukturierten Outline im Ki als Vertiefung, und in der Plot-Konkretisierung im Block Der zögernde Angestellte; in Storyform A trägt es die RS-Physics, Moonshine als Werkzeug, laut dem Kapitel-Kompendium das Requirement Moonshine-Bewusstsein. Kael gebraucht die Verbindung zu Juna zum ersten Mal als Werkzeug, Moonshine als Quanten-Nichtlokalität: laut der strukturierten Outline löst er ein Problem, indem er Lex' Analyse mit der intuitiven Verbindung kombiniert, laut der Plot-Konkretisierung hält er am Arbeitsplatz einen Datensatz, ohne zu klicken, und an einem Ort der Stadt wird es wärmer. Die Welt ist laut Kernwelten vollständig KW1, mit der Wohneinheit 734 als Anker und Mnemosyne als Echo, laut Kapitel-Kompendium und Storyform-Outline KW1 mit einem McL- oder Moonshine-Vorschein, laut der Konzept-Iteration die McL-Welt. Die AEGIS-Subplots lassen Kael stattdessen den Ort des früheren Risses neu besuchen, zusammengeflickt, mit Narbengewebe und Wartungsdrohnen. Die strukturierte Outline lässt die Zahl 734 somatisch wiederkehren, Juna nur durch Wirkung und Silas als latente Resonanz erscheinen und in Storyform B mit dem MC-Signpost Present die Erasure-Sweeps hörbar werden, wo das konsolidierte Konzept B latent hält; bis hierher wird die Multiplizität nicht ausgesprochen, und laut der Plot-Konkretisierung kartiert Kael ab jetzt die Wärmestellen der Stadt.
+
+## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — the road back, beginning integration in KW4
+
+- The Teil-1 plot proposes Kapitel 10, `Rebirth` (L220), as the road back, beginning integration in KW4: „Kael erkundet KW4, geleitet von Intuition“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L225]. It hedges, and adds perhaps the meeting with `Anya`, the muse or trickster (L225).
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
@@ -90,6 +94,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „seltsame Restartefakte oder 'Narbengewebe' im Gewebe der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „spezialisierte 'Wartungsdrohnen' oder Guardian-Subroutinen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Discussion: „AEGIS' Reparaturen möglicherweise nicht perfekt sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L147]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Der Tanz der Anteile
+
+- The architecture plan sets Kapitel 10 in Teil 1 as the archetypal phase „Der Tanz der Anteile“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L26], with the core theme „Erste bewusste Versuche der Ko-Präsenz und Kooperation“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L26] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L187.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Glimpse of Potential`, one entry shared with Kap 09–10
 
 Title: „Glimpse of Potential“ ^[ai-assisted-narrative-coherence.md:L1386] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
@@ -98,6 +106,10 @@ Position: the scene outline plans the scene at „1.7 - Kairos-Potentialis (KW4)
 - Story (goal): the scene outline plans „To escape a containment protocol initiated by Cerberus in KW3.“ ^[ai-assisted-narrative-coherence.md:L1392]
 - Story (conflict): the scene outline plans „a place of chaotic, untamed growth and emergent possibility“ ^[ai-assisted-narrative-coherence.md:L1393]
 - Turn: `Outcome & Turn` has „Kael now has tangible proof of an alternative to“ ^[ai-assisted-narrative-coherence.md:L1402]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Chapters 9–10, Glimpse of Potential
+
+- The scene outline plans Chapter 10 within Chapters 9–10, „Glimpse of Potential“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L124], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Healing the wound
 

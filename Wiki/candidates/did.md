@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 28
-readings: 28
+sources: 30
+readings: 30
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1"]
 gathered: "2026-09-16"
 ---
 
@@ -40,6 +40,10 @@ This is asked, not answered, and it is the hinge of the whole reading: if the tw
 cannot be told apart, [[aegis|AEGIS]] classifying DID as entropy is not obviously an error.
 
 See [[multiplizitaet|Multiplizität]].
+
+## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — DID as a proposed symptom arc: lost time, intrusion, switch, a clarity about it
+
+The Teil-1 plot proposes DID symptoms growing through Part 1. The first: Kael „verliert Zeit“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L84]. Later „Er erlebt möglicherweise eine stärkere DID-Intrusion“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L132], and „Die DID-Symptome werden deutlicher“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L138]. Under threat a switch might follow: „Dies zeigt, wie extremer Stress spezialisierte, defensive Teile seines DID-Systems auslöst“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L179]. In KW4 the rebirth is „vom bloßen Erleben von DID-Symptomen zur aktiven Auseinandersetzung mit seiner inneren Multiplizität“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L232], and Kael has „Er hat einen Durchbruchmoment der Klarheit über seine DID und die Natur der Simulation“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L244]. The plot also writes the condition as DIS in places, e.g. the heading „DIS-Darstellung“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L308].
 
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — Kael's DID as induced by AEGIS, as the report cites its User Query
 
@@ -80,6 +84,10 @@ The Leitfragen report names the clinical picture once, in its opening: because t
 ## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — the work as an allegory of DID
 
 The report's opening verdict, which it makes „mit absoluter Sicherheit“ ^[romananalyse-kohaerenz-plot-kritik.md:L15], is that the work is „eine weitreichende, technologische Allegorie auf die Dissoziative Identitätsstörung (DID)“ ^[romananalyse-kohaerenz-plot-kritik.md:L15] projected onto a simulated reality run by an AI. That is the report's reading of the manuscript and its concept documents (its reference 1), stated as its own conclusion about the core.
+
+## Reading — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium — the Kern-Welten as the externalisation of Kael's DID
+
+The drafting compendium of 2026-02-23 states, with reference 2 glued on (`Charakterkonzepte für Kohärenz Protokoll`), the construction principle of the Kern-Welten as the „Externalisierung von Kaels Dissoziativer Identitätsstörung (DID)“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L81], and in the triad of entropies that AEGIS reads „Kaels Dissoziative Identitätsstörung“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L27] as informational chaos to be erased. From this it instructs the author to see every setting and minor figure as an IFS part. Its introduction names the psychological character structures, „insbesondere der Dissoziativen Identitätsstörung“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L15], as one basis of its analysis.
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Compositional Anomaly as AEGIS's first term
 

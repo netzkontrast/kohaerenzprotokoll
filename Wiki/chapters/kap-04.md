@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 27
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung"]
+sources: 30
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -21,6 +21,10 @@ novel follows is the author's call. All chapters side by side:
 Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
 
 In den Pforten der Verurteilung wird Kaels neue, einseitig logische Identität an Scham, Zweifel und logischen Grenzen geprüft: laut strukturierter Outline in logischen Fallen in KW1, laut Plot-Konkretisierung in einem Audit seiner gestiegenen Bestätigungslatenz, dessen Prüf-Dialog ein Regel-Exekutor als Stimme der Konsole in Direktiven-Sprache führt, laut Konzept-Iteration Genesis im Fund von Aufzeichnungen des System-Architekten Dr. Jian Li, Kaels eigenen Entstehungsdokumenten. Laut Kernwelten vollständig spielt es in einem versteckten Archiv von KW1, laut Konzept-Master-Bericht an einem Riss zu KW2, an dem Kaels Beobachten die Simulation kollabieren lässt; laut AEGIS-Subplots bemerkt Kael Anzeichen von Systeminstabilität, die AEGIS als Entropie oder Fehler einordnet. Laut strukturierter Outline erfasst AEGIS' System eine Anomalie, die es nicht klassifizieren kann, Kael als Bug, und seine kalten Logik-Klicks wirken zwischen korrumpierten Textdateien und veralteten Interfaces wie Echos des Trennungsprotokolls. In der Heldinnenreise ist es die Stufe der Prüfungen, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit dem MC-Issue in Storyform A und in Storyform B latent einer ersten Bug-Spur in IC-Mind/Conscious, die das Kapitel-Kompendium schon dem Erwachen als IC-Signpost gibt. Kapitel-Kompendium und Storyform-Outline nennen den Gödel-Vorschein, die Grenzen des Regelsystems, und die Storyform-Outline verlangt, das Kapitel zu verdichten.
+
+## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — descent into KW2 and the meeting with Echo
+
+- The Teil-1 plot proposes Kapitel 4, `Descent` (L109), as descent into KW2 and the meeting with Echo: „Kael erkundet die fluide, traumgleiche Resonanz-Landschaft“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L114]. It hedges, and adds Echo, the lost child, as a shadow mentor (L120), Juna as anchor (L122), Mnemosyne's passive presence (L123).
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
@@ -91,6 +95,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Diagnose- oder niedrigstufige Eindämmungsprotokolle“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Discussion: „sein innerer Zustand destabilisiert nun aktiv das System“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L69]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Stimmen der Fürsorge
+
+- The architecture plan sets Kapitel 4 in Teil 1 as the archetypal phase „Stimmen der Fürsorge“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L20], with the core theme „Der Versuch der internen Vermittlung“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L20] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L103.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The First Journey into Memory`, one entry shared with Kap 04–05
 
 Title: „The First Journey into Memory“ ^[ai-assisted-narrative-coherence.md:L1335] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
@@ -99,6 +107,10 @@ Position: the scene outline plans the scene at „1.4 - Mnemosyne-Archipel (KW2)
 - Story (conflict): the scene outline plans „an overwhelming sensory assault“ ^[ai-assisted-narrative-coherence.md:L1342]
 - Story (beat): the scene outline plans „and pushes through, falling from the sterile data-scape of KW1“ ^[ai-assisted-narrative-coherence.md:L1345]
 - Turn: `Outcome & Turn` has „Kael escapes the loop and retreats from KW2, terrified“ ^[ai-assisted-narrative-coherence.md:L1350]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Chapters 4–5, The First Journey into Memory
+
+- The scene outline plans Chapter 4 within Chapters 4–5, „The First Journey into Memory“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L73], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The encounter with the shadow
 

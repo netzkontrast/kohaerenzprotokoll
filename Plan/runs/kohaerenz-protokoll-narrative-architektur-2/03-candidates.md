@@ -1,0 +1,111 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is an English-and-German research essay in German prose, a narrative system plan for "Kohärenz Protokoll", with an 82-entry reference list at the end. Its world terms are listed first, then its own working terms, then the borrowed concepts under the lens heading. Kernwelt codes appear as KW1 to KW4 in bold, and the table repeats them. The plain-digit forms are listed as the document writes them. The reference list is not mined for candidates.
+
+## world
+- AEGIS
+- Kael
+- Juna
+- Juna/V
+- Lex
+- Rhys
+- Alex
+- Argus
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Guardian
+- KW1
+- KW2
+- KW3
+- KW4
+- Kernwelten
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Wald der Echos
+- Kael-Juna-Verbindung
+- Juna-Verbindung
+- Moonshine-Verbindung
+- ontologischer Exploit
+- Paradoxon X
+- Riss
+- Rissen
+- Das Fundament
+- Die Leere
+- Nichts Rauschen
+- offener Entropieraum
+- Manifest der Handlungsfähigkeit
+- funktionale Multiplizität
+- ANPs
+- EPs
+- RTSV
+- Systemkohärenz
+- Kohärenz Protokoll
+
+## own terms
+- Zero-Trust-Architektur (ZTA)
+- operationale Geschlossenheit
+- Specification Gaming
+- Perverse Instantiation
+- Information Hazard
+- Gödel-Satz
+- Gödel-Sätze
+- Das Gödel-Gambit
+- Rätselmechanik
+- NP-schweres Rätsel
+- Problem der booleschen Erfüllbarkeit (SAT)
+- Problems des Handlungsreisenden (TSP)
+- Exploitation-vs.-Exploration-Dilemma
+- Parakonsistente Logik (FDE)
+- Relevanzlogik
+- Gittereffekte (Lattice Effects)
+- LI-Verletzung (Lorentz-Invarianz-Verletzung)
+- Kaskade kognitiver Dissonanz
+- Rechnerische Blockade
+- Rekursive Fehlerschleife
+- Narrative Design-Matrix der Kernwelten
+- Instabile Erzählung
+- Typografische Fragmentierung
+- Polyphone Erzählung
+- Embrace the Paradox
+- Weaponize Complexity
+- Paradigmenwechsel
+- Trauma-Zeit
+- Abwärtskausalität
+- Forscher
+- Magier
+
+## lens
+- Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- Anscheinend Normale Anteile
+- Emotionale Anteile
+- polyphonen Romans
+- dialogische Wahrheit
+- Bewusstseinsstrom
+- Prehension
+- physische Prehension
+- konzeptuelle Prehension
+- positive Prehension
+- negative Prehension
+- Resonance Complexity Theory (RCT)
+- Attraktor
+- Holographische Kompression
+- Wellengeometrie
+- NP-vollständig
+- Jenseits von NP
+- Qualia
+- Paraiyas
+- Presentification
+- Simulationshypothese
+- Deus ex Machina
+- dialetheischen Natur

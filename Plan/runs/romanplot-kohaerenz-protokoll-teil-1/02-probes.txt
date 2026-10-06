@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      42
+  backslash escapes      188
+  typographic marks      232
+  ascii quotes           12
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanomalie, Systemausfälle, Systembeschränkungen, Systemdynamik, Systemdynamiken, Systemen, Systemfehler, Systeminkonsistenzen, Systeminstabilität, Systemkern, Systemkollapses, Systemkontrolle, Systemkritik, Systemlogik, Systems, Systemsicht, Systemverschiebung, Systemwartungs, Systemweite
+  erinn    Erinnerung, Erinnerungen, Erinnerungsflut, Erinnerungsfragment, Erinnerungsfragmente, Erinnerungskomplexes, Erinnerungskorruption, Erinnerungsresonanz, Erinnerungszone
+  siche    Sicherheit, Sicherheitsausfälle, Sicherheitsdrohnen, Sicherheitslücken, Sicherheitsmaßnahmen, Sicherheitsprotokolle, Sicherheitsstruktur, Sicherheitsteam, Sicherheitsverletzungen
+  kontr    Kontrast, Kontrolle, Kontrollfassade, Kontrollinstanzen, Kontrollmechanismen, Kontrollpunkten, Kontrollraum, Kontrollverlust
+  inter    Interaktion, Interaktionspunkte, Interferenz, Intern, Internes, Intervention, Interventionen
+  antei    Anteil, Anteile, Anteilen, Anteils, Anteilwechsel, Anteilwechsels
+  daten    Daten, Datenarchive, Datenintegrität, Datenlücken, Datenpaket, Datenströmen
+  reali    Realisation, Realität, Realitäts, Realitätsbruch, Realitätsschicht, Realitätszweifeln
+  symbo    Symbol, Symbole, Symbolen, Symbolik, Symbolischer, Symbols
+  durch    Durch, Durchbruch, Durchbruchmoment, Durchbrüchen, Durchsickern
+  emoti    Emotion, Emotionale, Emotionaler, Emotionen, Emotionslosigkeit
+  grenz    Grenzbegegnung, Grenzdurchbrüche, Grenze, Grenzen, Grenzfeste
+  wider    Widerhall, Widerspruch, Widersprüche, Widerstand, Widerstandsfähigkeit
+  überw    Überwachung, Überwachungs, Überwachungssysteme, Überwelt, Überwältigt
+  archi    Architekt, Architekten, Architektur, Archivar
+  bewus    Bewusste, Bewusstsein, Bewusstseins, Bewusstseinsebene
+  ersch    Erscheint, Erscheinung, Erscheinungsbild, Erschöpfung
+  regel    Regel, Regeleinhaltung, Regeln, Regelsätzen
+  schni    Schnitte, Schnitten, Schnittstelle, Schnittstellen
+  selbs    Selbst, Selbstakzeptanz, Selbstbewusstsein, Selbsterkenntnis
+  traum    Trauma, Traumas, Traumata, Traumgleiche
+  unter    Unterbewusstsein, Untergräbt, Unterschied, Unterstützung
+  alarm    Alarm, Alarme, Alarmton
+  aspek    Aspekt, Aspekte, Aspekten
+  bedro    Bedrohung, Bedrohungsanalyse, Bedrohungsbewertung
+
+# substring pairs -- never one term, often merged by accident
+  Auge < Augen
+  Bild < Bilder
+  Bild < Gesamtbild
+  Bild < Schlussbild
+  Bild < Spiegelbilder
+  Bild < Erscheinungsbild
+  Code < Codes
+  Dies < Diese
+  Dies < Dieser
+  Echo < Echos
+  Ecke < Flecken
+  Eine < Einen
+  Eine < Keine
+  Eine < Seine
+  Eine < Weinen
+  Eine < Kleiner
+  Ende < Tendenz
+  Ende < Wütende
+  Ende < Fehlende
+  Ende < Suchenden

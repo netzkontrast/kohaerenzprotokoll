@@ -282,7 +282,7 @@ A blueprint offering every beat as a possibility. „Möglicherweise gibt es Wä
 
 ## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
 
-**A sixth bearer — `Wächterin` as an unnamed ally beside Juna's light, not one of the four Guardians and not Juna herself.**
+**A sixth bearer — `Wächterin` as an unnamed ally beside [[juna|Juna]]'s light, not one of the four Guardians and not Juna herself.**
 „Die Wächterin, das Licht von Juna, die Weisheit des Selbst – sie waren nun seine Verbündeten" ^[kohaerenz-protokoll.md:L987] — a list of three, `Wächterin` set beside „das Licht von Juna" ^[kohaerenz-protokoll.md:L987] rather than in apposition to it; who or what she is the text does not say. `Guardian` is the document's own word for the four supervisors — „des Guardians dieser Welt" ^[kohaerenz-protokoll.md:L1638] — never `Wächter`; `Wächter` stands once, in this feminine form and this one use (`Plan/runs/kohaerenz-protokoll/05-verify.txt`). J20 holds: the sentence decides, and here it does not decide who she is.
 
 ## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
@@ -290,3 +290,13 @@ A blueprint offering every beat as a possibility. „Möglicherweise gibt es Wä
 **Two more bearers, both [[alters|Alters]], the pattern this record already holds: `Wächter an der Grenze` for [[alex|Alex]], `Wächterin` for Selene's earlier stage.**
 Alex's Kernfunktion: „Aktiver Schutz des Systems, Krisenmanagement, Wächter an der Grenze." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L95] — bearer 2's shape, a Persona-like role-name for a protector Alter rather than a Guardian, LogOS, [[aegis|AEGIS]] or [[kael|Kael]]. Selene's arc: „Wandelt sich von einer starren Wächterin (Blockade) zur Architektin innerer Harmonie (Mediation)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L150] — a stage she leaves.
 `Guardian` stands 0 times, `Guardians` once — „Die Guardians:" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L304] — under [[aegis|AEGIS]]' own heading, the class this record's bearer 3 (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify.txt`). Two more jobs for the word, both Alters'; J20 holds.
+
+## 2026-10-06 — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot
+
+**The Teil-1 plot has two bearers of the Wächter: a part of Kael, and the proposed [[silas|Silas]] as Skeptiker/Torwächter of KW3.**
+
+The part: the matrix row of KW3 reads „Wächter-Anteil / Abwehr / Paranoia / Isolation“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L301], and in Kap 7 „Dieser Anteil ist paranoid, defensiv, potenziell aggressiv“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L179]; Kael may switch into it, „erlebt Kael möglicherweise einen Switch“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L179]. In Kap 6 the plot says that KW3 „externalisiert Kaels innere Abwehrmechanismen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L156].
+
+The figure: Silas is the proposed skeptic and gatekeeper of KW3, and his origin is open: „Könnte ein anderer simulierter Bewohner sein, der in KW3 gefangen ist“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L37], or a projection of Kael's own `Wächter` part, or „eine subtile Sonde von Cerberus“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L37]. The plot holds the two apart: Silas is a figure in the world, the `Wächter` a part of Kael that he may only mirror.
+
+Where it stands: two bearers proposed in one document, a part of Kael and a skeptic figure, neither a Guardian; recorded without choosing among the question's bearers.

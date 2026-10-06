@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      60
+  backslash escapes      16
+  typographic marks      43
+  ascii quotes           284
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Archipelago, Architecture, Architectures, Architekturen
+  poten    Potential, Potentialis, Potentialmeer, Potentials
+  emerg    Emergent, Emergenz, Emerges
+  exter    External, Externally, Externe
+  funct    Function, Functional, Functioning
+  integ    Integration, Integrative, Integrity
+  simul    Simulated, Simulation, Simultaneously
+  struc    Structural, Structure, Structured
+  analy    Analysis, Analytical
+  chapt    Chapter, Chapters
+  compl    Complex, Complexity
+  conce    Concept, Concepts
+  defen    Defense, Defenses
+  defin    Defines, Definition
+  disso    Dissociation, Dissoziation
+  drive    Driven, Drives
+  emoti    Emotion, Emotional
+  entro    Entropic, Entropie
+  explo    Explores, Explosion
+  forma    Formal, Format
+  found    Foundation, Foundational
+  fragm    Fragmentation, Fragmentierung
+  garde    Garden, Gardener
+  guard    Guardian, Guardians
+  inter    Internal, Internally
+
+# substring pairs -- never one term, often merged by accident
+  Echo < Echos
+  Echo < Echoes
+  Here < Coherence
+  Hero < Heroine
+  Once < Concept
+  Once < Concepts
+  Part < Parts
+  Part < Apartment
+  Show < Shows
+  Tell < Storytelling
+  With < Within
+  LogOS < Logos
+  Logic < Logics
+  Logic < Ontological
+  Logic < Psychological
+  Nicht < Nichts
+  Scene < Scenes
+  World < Worlds
+  World < Overworld
+  Forces < Reinforces

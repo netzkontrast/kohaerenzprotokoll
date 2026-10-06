@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      55
+  backslash escapes      205
+  typographic marks      11
+  ascii quotes           250
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systematisierung, Systeme, Systemfehler, Systemic, Systeminstabilität, Systemlogik, Systems, Systemstabilität
+  entwi    Entwicklung, Entwicklungen, Entwicklungsdokumente, Entwicklungspapier, Entwicklungsprozess, Entwicklungsstadien
+  haupt    Hauptkapitel, Hauptplot, Hauptplots, Hauptrisiko, Haupttypen
+  kontr    Kontradiktion, Kontradiktionen, Kontrast, Kontrolle, Kontrollverlust
+  roman    Roman, Romane, Romanprojekt, Romans, Romanwelt
+  funkt    Funktion, Funktionale, Funktionalen, Funktionalität
+  integ    Integration, Integrator, Integrierte, Integrity
+  kohär    Kohärente, Kohärenz, Kohärenzprotokoll, Kohärenztheorie
+  philo    Philosophenkönig, Philosophie, Philosophische, Philosophisches
+  schlü    Schlüssel, Schlüsselelement, Schlüsselfrage, Schlüssigkeit
+  strat    Strategic, Strategie, Strategiepapier, Strategische
+  thema    Thema, Thematic, Thematisch, Thematische
+  wahrh    Wahrheit, Wahrheiten, Wahrheitstheorie, Wahrheitstheorien
+  wider    Widerspruch, Widerspruchs, Widersprüche, Widerstands
+  zusam    Zusammenbrechen, Zusammenbruch, Zusammenbruchs, Zusammenfassung
+  analy    Analyse, Analysegrundlage, Analysis
+  archi    Archipel, Architecture, Architektur
+  emoti    Emotion, Emotional, Emotionen
+  epist    Episteme, Epistemologische, Epistemologischer
+  konfl    Konflikt, Konfliktmotor, Konflikts
+  konsi    Konsiste, Konsistent, Konsistenz
+  korre    Korrekturstrategie, Korrespondenz, Korrespondenztheorie
+  parak    Parakonsistente, Parakonsistenten, Parakonsistentes
+  physi    Physik, Physiker, Physische
+  proto    Protocol, Protokoll, Protokolls
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dual < Duale
+  Dual < Dualität
+  Dual < Dualities
+  Eine < Reine
+  Eine < Seine
+  Eins < Einsicht
+  Eins < Einsätze
+  Eins < Bewusstseins
+  Eins < Übereinstimmung
+  Ende < Tendenz
+  Ende < Suchende
+  Ende < Folgenden
+  Ende < Wendepunkt
+  Ende < Auslösendes
+  Ende < Transzendenz
+  Fakt < Fakten
+  Form < Formulierung
+  Form < Transformation

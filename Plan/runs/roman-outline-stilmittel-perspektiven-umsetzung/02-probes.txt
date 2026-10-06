@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      32
+  backslash escapes      24
+  typographic marks      71
+  ascii quotes           8
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systemgefahr, Systemgesetze, Systemkonforme, Systemlogik, Systems, Systemterminologie
+  archi    ARCHITECTURE, Architect, Architectural, Architecture, Architectures, Architektur, Architekturen
+  narra    NARRATIVE, Narrativ, Narrative, Narrativer, Narratives, Narratologisches
+  daten    Daten, Datenfehler, Datenpunkte, Datensatz, Datenströme
+  disso    Dissonanz, Dissoziation, Dissoziative, Dissoziativen, Dissoziativer
+  kontr    Kontrast, Kontrolle, Kontrolleurin, Kontrollmatrix, Kontrollzwang
+  chara    Charakter, Charakterbögen, Charakterkonzepte, Charakterstrukturen
+  infor    Information, Informationskapazität, Informationstheoretische, Informationsträger
+  story    STORY, Story, StoryAndDiscourseNarrativeStructureInFictionAndFilm, Storytelling
+  welte    Welten, Weltenbau, Weltenbauen, Welterkundung
+  antei    Anteil, Anteile, Anteils
+  firef    Firefighter, Firefightern, Firefighters
+  grenz    Grenze, Grenzen, Grenzfeste
+  integ    Integrate, Integration, Integrity
+  konst    Konstrukt, Konstrukte, Konstruktionsprinzip
+  manag    Manager, Managern, Managers
+  minim    Minimalism, Minimalistisch, Minimierung
+  norma    Normal, Normale, Normalität
+  perso    Person, Personalperspektive, Personifikation
+  psych    Psyche, Psychologie, Psychologische
+  quali    Qualia, Qualitative, Qualität
+  struk    Struktur, Strukturen, Strukturierung
+  traum    Trauma, Traumaintegration, Traumata
+  alter    Alter, Alters
+  analy    Analyse, Analytiker
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieses
+  Dies < Studies
+  Echo < Echos
+  Eine < Seine
+  Eins < Einsatz
+  Eins < Seinsfunkens
+  Film < StoryAndDiscourseNarrativeStructureInFictionAndFilm
+  Form < Information
+  Form < Formlosigkeit
+  Form < Systemkonforme
+  Form < Ausformulierung
+  Form < Informationsträger
+  Form < Informationskapazität
+  Form < Informationstheoretische
+  Form < Ausformulierungsleitfaden
+  GAME < Game
+  Hand < Handlungsbögen
+  Hand < Handlungsempfehlungen
+  Hard < Richard

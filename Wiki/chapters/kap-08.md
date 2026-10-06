@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 27
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
+sources: 30
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -21,6 +21,10 @@ novel follows is the author's call. All chapters side by side:
 Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
 
 Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe Wiedergeburt, der Heilung des Männlichen im Inneren, laut der strukturierten Outline im Ki als Vertiefung, in KW1; die Plot-Konkretisierung legt es in ihre Blöcke Die andere Seite des Schalters und Der zögernde Angestellte. Kael beginnt Mitgefühl zu fassen: laut der strukturierten Outline mit seinen logisch-kontrollierenden Anteilen Lex und Alex, laut der Plot-Konkretisierung mit dem Apparat, wenn er nach Dienstschluss bleibt und ausgeglichene Bestände liest, nicht um zu retten, sondern um anzusehen; die AEGIS-Subplots lassen ihn stattdessen eine traumatische Erinnerung abrufen, die verschwommen oder gedämpft ist, vielleicht weil ein Guardian wie Mnemosyne seine Gedanken umlenkt. Laut der strukturierten Outline tritt die Wächterin-Funktion als Selene erstmals auf und vermittelt, ohne zu kämpfen; die Plot-Konkretisierung kennt die Wächterin nur als Stufe. Mehrere Quellen setzen hier die erste Andeutung einer Wir-Stimme und die erste interne Lüftung des Schleiers ohne Klartext, im Licht, das durch Architektur fällt. In Storyform A trägt das Kapitel den MC-Issue, Mitgefühl mit Schutz-Funktionen, in Storyform B beginnt die RS-Psychology sichtbar zu werden; die Plot-Konkretisierung sieht hier die erste Pursuit-Vorform, die das konsolidierte Konzept früher ansetzt, und zählt das Kapitel zu den möglichen Orten des Hard-B-Kapitels.
+
+## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — the ordeal, the lowest point
+
+- The Teil-1 plot proposes Kapitel 8, `All is Lost` (L183), as the ordeal, the lowest point: „ist am Tiefpunkt, möglicherweise gefangen oder gejagt“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L188]. It hedges, and adds rampant Risse, Silas's possible end, Juna's absence and a Cerberus escalation (L194–L198).
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
@@ -90,6 +94,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „nicht vergessen, aber vielleicht 'verschwommen', 'korrumpiert' oder emotional 'gedämpft'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „vielleicht interveniert ein Guardian wie Mnemosyne subtil, um Kaels Gedanken umzulenken“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120] · „Kael könnte 'Lücken' oder Inkonsistenzen in seiner eigenen Erzählung finden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Die Logik des Gaslichts
+
+- The architecture plan sets Kapitel 8 in Teil 1 as the archetypal phase „Die Logik des Gaslichts“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L24], with the core theme „AEGIS' subtile Manipulation der Wahrnehmung“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L24] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L159.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Gaslighting Protocol`
 
 Title: „Gaslighting Protocol“ ^[ai-assisted-narrative-coherence.md:L1369] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
@@ -98,6 +106,10 @@ Position: the scene outline plans the scene at „1.6 - Logos-Prime (KW1)“ ^[a
 - Story (goal): the scene outline plans „To seek help and answers from a perceived authority figure within the system.“ ^[ai-assisted-narrative-coherence.md:L1375]
 - Story (conflict): the scene outline plans „Thorne's objective is to gaslight Kael“ ^[ai-assisted-narrative-coherence.md:L1376]
 - Turn: `Outcome & Turn` has „His trust in the system is irrevocably broken.“ ^[ai-assisted-narrative-coherence.md:L1384]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — Gaslighting Protocol
+
+- The scene outline plans Chapter 8 as „Gaslighting Protocol“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L107], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Descent to the goddess
 

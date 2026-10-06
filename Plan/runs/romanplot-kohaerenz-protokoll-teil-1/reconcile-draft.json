@@ -1,0 +1,317 @@
+{
+  "document": "romanplot-kohaerenz-protokoll-teil-1",
+  "drive_id": "12j189QUubzRYohV9e_wPVtgCTApovVEbNmWQTd8-Ipc",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 98,
+    "decisions": 106,
+    "decided_by_lookup": 81,
+    "needs_judgement": 25
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        103,
+        104,
+        198,
+        214,
+        263,
+        270,
+        271
+      ],
+      "attribution": "",
+      "note": "AEGIS misreads Kael's integration as a threat"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        37,
+        160,
+        161,
+        178,
+        271,
+        301
+      ],
+      "attribution": "",
+      "note": "the Guardian of KW3, surveillance that treats connection as a threat"
+    },
+    {
+      "page": "did",
+      "lines": [
+        84,
+        132,
+        138,
+        179,
+        232,
+        244,
+        308
+      ],
+      "attribution": "",
+      "note": "DID as a proposed symptom arc: lost time, intrusion, switch, a clarity about it"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        263,
+        270,
+        358
+      ],
+      "attribution": "",
+      "note": "Entropie as AEGIS's reading of Kael's integrated state, a proposed tragic irony"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        151,
+        156,
+        194,
+        301
+      ],
+      "attribution": "",
+      "note": "KW3 as an oppressive world of distrust, externalising Kael's defences, under Cerberus"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        251,
+        271,
+        281,
+        304
+      ],
+      "attribution": "",
+      "note": "Guardians as the operative domain's powers and systemic blind spots"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        69,
+        122,
+        160,
+        197,
+        253,
+        299
+      ],
+      "attribution": "",
+      "note": "Juna as an irrational warmth, an anchor, contraband and an absence"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        60,
+        69,
+        102,
+        138,
+        139,
+        179,
+        252,
+        281,
+        358
+      ],
+      "attribution": "",
+      "note": "Kael through Part 1, with his inner parts named by role"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        45,
+        207,
+        214,
+        302
+      ],
+      "attribution": "",
+      "note": "a possible intervener in KW3/KW4 and the Guardian beside Sophia"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        15,
+        51,
+        263,
+        281,
+        299,
+        300,
+        301,
+        302,
+        304
+      ],
+      "attribution": "",
+      "note": "the four worlds as a proposed, not strictly linear sequence tied to Guardians and parts of Kael"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        21,
+        60,
+        299
+      ],
+      "attribution": "",
+      "note": "KW1 as the hyper-logical first world, accepted as normal, with the Architekt part as its psychic side"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        19,
+        21,
+        22,
+        67
+      ],
+      "attribution": "",
+      "note": "the proposed Archivar of KW1, a construct under LogOS"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        21,
+        104,
+        271,
+        299
+      ],
+      "attribution": "",
+      "note": "the Guardian of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        30,
+        123,
+        142,
+        271,
+        300
+      ],
+      "attribution": "",
+      "note": "the Guardian of KW2, a passive empathic presence that cannot heal trauma"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        215,
+        225,
+        302
+      ],
+      "attribution": "",
+      "note": "KW4 as a symbolic world of potential, guided by intuition, tied to the Funke part"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        244,
+        252,
+        270,
+        347
+      ],
+      "attribution": "",
+      "note": "Multiplizität as a fragile, accepted reality rather than a cure"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        87,
+        114,
+        300
+      ],
+      "attribution": "",
+      "note": "KW2 as a fluid, emotion-driven world tied to the Kind/Echo part and to Mnemosyne"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        68,
+        83,
+        103,
+        178,
+        194,
+        263,
+        300,
+        356
+      ],
+      "attribution": "",
+      "note": "a proposed escalation of the Risse from a glitch to a system-wide collapse"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        35,
+        36,
+        37,
+        38,
+        157,
+        188,
+        195
+      ],
+      "attribution": "",
+      "note": "the proposed Skeptiker/Torwächter of KW3, a possible projection of Kael's defences"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        207,
+        214,
+        254,
+        302
+      ],
+      "attribution": "",
+      "note": "a possible balancer in Kap 9 and an observer in Kap 11"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        243,
+        272,
+        280,
+        281,
+        358
+      ],
+      "attribution": "",
+      "note": "the Überwelt as the unstable Guardian domain Kael enters at the end of Part 1"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q4",
+    "Q5",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

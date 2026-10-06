@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet
+  lines                351  (frontmatter ends at 9)
+  body words           4294
+  headings             18   bold-only lines 14
+  table rows           32   code fences 0
+  question marks       22
+  backslash escapes    205
+  typographic marks    11   ascii quotes 250
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    55
+  repeated labels      Analyse x4, Antwort des Romans x4, Begründung x4, Empfehlung x4
+  longest line         888 chars
+

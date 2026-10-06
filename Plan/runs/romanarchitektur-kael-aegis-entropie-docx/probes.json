@@ -1,0 +1,330 @@
+{
+  "document": "romanarchitektur-kael-aegis-entropie-docx",
+  "drive_id": "1tyTxVyCrlH0cTwb2PnNiQAezv5cWQHRM",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 52,
+  "backslash_escapes": 0,
+  "typographic_marks": 45,
+  "ascii_quotes": 246,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systematische",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemfehlern",
+      "Systeminstabilität",
+      "Systemlogik",
+      "Systemneustart",
+      "Systemprotokolle",
+      "Systemregeln",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheoretisch",
+      "Systemumgebung"
+    ],
+    "kontr": [
+      "Kontrapunkt",
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollmaßnahmen",
+      "Kontrollmechanismen",
+      "Kontrollnetzwerke",
+      "Kontrollsystem",
+      "Kontrollsysteme",
+      "Kontrollverlust",
+      "Kontrollzentrale"
+    ],
+    "wider": [
+      "Widerlegung",
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchlichkeit",
+      "Widerstand",
+      "Widerstands",
+      "Widerstandsfähigkeit",
+      "Widerstände",
+      "Widerständen",
+      "Widerwillen"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitäten",
+      "Realitätsdefinition",
+      "Realitätsebene",
+      "Realitätsmodelle",
+      "Realitätssteuerung",
+      "Realitätsverzerrungen",
+      "Realitätswahrnehmung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanalyse",
+      "Datenanalysen",
+      "Datenbank",
+      "Datenfragmente",
+      "Datennetzwerk",
+      "Datensammler",
+      "Datenströme"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbogen",
+      "Handlungsfähigkeit",
+      "Handlungsstrang",
+      "Handlungstreibern",
+      "Handlungsweise",
+      "Handlungsziel"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identifikationen",
+      "Identity",
+      "Identität",
+      "Identitätsanteile",
+      "Identitätsdiffusion",
+      "Identitätskrise",
+      "Identitätsverlust"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzanteile",
+      "Schutzfunktion",
+      "Schutzfähigkeiten",
+      "Schutzinstinkt",
+      "Schutzmechanismen",
+      "Schutzmechanismus",
+      "Schutzwälle"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltung",
+      "Selbstkontrolle",
+      "Selbstorganisation",
+      "Selbstreflexion",
+      "Selbstvalidierung",
+      "Selbstverbesserung",
+      "Selbstzweifel"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseine",
+      "Bewusstseins",
+      "Bewusstseinskern",
+      "Bewusstseinszustand"
+    ],
+    "durch": [
+      "Durch",
+      "Durcharbeiten",
+      "Durchbrechen",
+      "Durchbruch",
+      "Durchbrüche",
+      "Durchqueren",
+      "Durchsetzungsvermögen"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsarchitektur",
+      "Informationsfeld",
+      "Informationsmuster",
+      "Informationssphäre",
+      "Informationsströme"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstehen",
+      "Verstehens",
+      "Verständigung",
+      "Verständnis",
+      "Verständnisses",
+      "Verstärkt"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungsarchitekturen",
+      "Verteidigungsmechanismen",
+      "Verteidigungsmuster",
+      "Verteidigungsprotokolle",
+      "Verteidigungsstrategien",
+      "Verteidigungssystem"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterarc",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charakterschwäche"
+    ],
+    "erzäh": [
+      "Erzählabschnitts",
+      "Erzähler",
+      "Erzählperspektive",
+      "Erzählstimme",
+      "Erzähltechniken",
+      "Erzählung"
+    ],
+    "gegen": [
+      "Gegenargumente",
+      "Gegenentwurf",
+      "Gegenmaßnahmen",
+      "Gegenoffensive",
+      "Gegenteil",
+      "Gegenwart"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsprozesses",
+      "Heilungsreise",
+      "Heilungsweg",
+      "Heilungsziel",
+      "Heilungsziels"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationserfahrung",
+      "Integrationsfigur",
+      "Integrieren",
+      "Integrity",
+      "Integrität"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Internal",
+      "Interne",
+      "Interpretation",
+      "Interpretationsfähigkeiten"
+    ],
+    "kommu": [
+      "Kommunikation",
+      "Kommunikationsprotokollen",
+      "Kommunikationsversuche",
+      "Kommunikationswege",
+      "Kommunikationswegen",
+      "Kommunikator"
+    ],
+    "zusam": [
+      "Zusammenarbeit",
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenhalt",
+      "Zusammenhalts",
+      "Zusammenspiel"
+    ],
+    "angri": [
+      "Angriff",
+      "Angriffe",
+      "Angriffen",
+      "Angriffs",
+      "Angriffsvektoren"
+    ],
+    "besch": [
+      "Beschaffenheit",
+      "Beschreibung",
+      "Beschreibungen",
+      "Beschützer",
+      "Beschützers"
+    ],
+    "debat": [
+      "Debate",
+      "Debatte",
+      "Debatten",
+      "Debattenarena",
+      "Debattenszene"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Alle",
+      "Parallel"
+    ],
+    [
+      "Alle",
+      "Logikfallen"
+    ],
+    [
+      "Alle",
+      "Fallenstellen"
+    ],
+    [
+      "Alte",
+      "Inhalte"
+    ],
+    [
+      "Alte",
+      "Inhalten"
+    ],
+    [
+      "Alte",
+      "Verhalten"
+    ],
+    [
+      "Alte",
+      "Verhaltensweisen"
+    ],
+    [
+      "Alte",
+      "Vermeidungsverhalten"
+    ],
+    [
+      "Back",
+      "Flashbacks"
+    ],
+    [
+      "Back",
+      "Feedbackschleifen"
+    ],
+    [
+      "Böse",
+      "Bösewichts"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bewusstseine"
+    ],
+    [
+      "Eine",
+      "Meilensteine"
+    ],
+    [
+      "Ende",
+      "Fühlende"
+    ]
+  ]
+}

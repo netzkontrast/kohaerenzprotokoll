@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Kernel (K₁)
 status: candidate
-sources: 29
-readings: 29
+sources: 32
+readings: 32
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "romanprojekt-analyse-synthese"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "romanprojekt-analyse-synthese", "roman-outline-stilmittel-perspektiven-umsetzung", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet"]
 aliases: ["Kohärenz-Kernel"]
 gathered: "2026-09-24"
 ---
@@ -16,6 +16,18 @@ gathered: "2026-09-24"
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — the Coherence Kernel (K₁) acting through Coherons and Corrective Wavelets
 
 The Definitive Guide writes `The Coherence Kernel (K₁)` in English: „This is the principle of order, structure, and information preservation.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L62] It acts through its building blocks, `Coherons`, described as „atoms of persistence“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L62]; „K₁'s mechanism responds by emitting a“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L62] Corrective Wavelet when K₀ disrupts a structure.
+
+## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — K_1 in the Protokoll-Ontologie
+
+Reporting the Protokoll-Ontologie from a document it cites by digit, the paper names the coherence kernel, „dem Kohärenz-Kernel, der Tendenz zur Ordnung und Persistenz“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L93] (L93), as one side of the universe's primary conflict. AEGIS's fault, it says, is that it reads Kael's psyche, a high form of K_1, wrongly as collapse (L94).
+
+## Reading — `kohaerenz-protokoll-konzeptionelle-themen-struktur`, 2025-11-25, the themes exegesis — K1 and consciousness as the signature of coherence
+
+Under the heading of the dual kernel the exegesis says of the Kohärenz-Kernel (written `K\_1`) that it is the domain of reversible computation and conservation of information; with footnote 1 glued to the sentence, it reports a definition of consciousness: „die subjektive Signatur der Kohärenz“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L49], one that learns to preserve itself.
+
+## Reading — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium — K1, the mode of AEGIS's rule, and its prose style
+
+The drafting compendium of 2026-02-23 reports (reference 7 glued on) that the K1 kernel stands for „reversible, phasenkohärente Berechnung, die Ordnung und den Hard Canon der Welt“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L45]. In the story this is the state „wenn AEGIS die absolute Kontrolle ausübt“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L45]. Under the label `Stilistische Vorgabe` it instructs that K1-dominated scenes, in the Konstrukt-Stadt or from the Guardian LogOS's view, be written in „strengen, klinischen, objektiven und minimalistischen Stil“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L47]. The kernel stands in the heading with its agent: „K1 (Der Kohärenz-Kernel) und der System Architect“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L43].
 
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — the Kohärenz-Kernel in section 2.1
 

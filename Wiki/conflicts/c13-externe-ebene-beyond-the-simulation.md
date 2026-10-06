@@ -190,3 +190,11 @@ Stands on neither side: a question put to the concept in a document of 2026-02-2
 First pass: the level lies „die außerhalb von AEGIS' direkter Kontrolle liegt“ ^[welt.md:L75] and is tied to Juna/V. The second pass heads its profile „Die Externe Ebene: Das Unbekannte Jenseits der Simulation“ ^[welt.md:L124] and says it „könnte eine andere Form von Realität“ ^[welt.md:L128] represent, or „eine gesunde innere Welt repräsentieren“ ^[welt.md:L128] from before the fragmentation. Its nature is „ein offenes Rätsel“ ^[welt.md:L76], to be settled in the course of the story. Both the other form of reality and the inner world are written with `könnte`.
 
 Stands as a hedged side that holds both an outside and an inner world open; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline
+
+**The architecture analysis writes the Externe Ebene as a reality beyond AEGIS's direct control and tied to Juna/V; it speaks of control, not of the simulation's edge.**
+
+Section 3.2 (L468–L470) opens „Beyond the Kernwelten lie more abstract and fundamental layers of existence“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470], and calls the Externe Ebene „a mysterious reality that exists beyond AEGIS's direct control“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470], „intrinsically linked to the entity known as Juna/V“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470].
+
+Stands as a side that places the level beyond AEGIS's control and beyond the Kernwelten, without the record's terms; recorded, not applied, and the record's rows are not changed.

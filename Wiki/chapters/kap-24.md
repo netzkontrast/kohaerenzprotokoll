@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
@@ -63,6 +63,10 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael versucht, eine genuinely empathische oder subjektive Reaktion von AEGIS oder einem hochrangigen Guardian hervorzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
 - Story: „Kael kommt zu dem Schluss, dass AEGIS simuliert, aber nicht fühlt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Die Sprache der Entropie
+
+- The architecture plan sets Kapitel 24 in Teil 2 as the archetypal phase „Die Sprache der Entropie“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L40], with the core theme „Verstehen, was AEGIS wirklich bekämpft“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L40] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L387.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Strategies of Madness: Moros Emerges`
 
 Title: „Strategies of Madness: Moros Emerges“ ^[ai-assisted-narrative-coherence.md:L1553] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
@@ -71,6 +75,10 @@ Position: the chapter has no scene fields in the outline; its prose says „The 
 - Story (beat): the scene outline plans „AEGIS's attack succeeds in pushing the system to its breaking point.“ ^[ai-assisted-narrative-coherence.md:L1555]
 - Story (beat): the scene outline plans „Kael is plunged into a state of catatonic despair.“ ^[ai-assisted-narrative-coherence.md:L1555]
 - Turn: the scene outline plans „This is the ultimate test for their newfound integration.“ ^[ai-assisted-narrative-coherence.md:L1555]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — Moros Emerges
+
+- The scene outline plans Chapter 24 as „Moros Emerges“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L291], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The end of dualism
 

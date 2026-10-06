@@ -1,0 +1,415 @@
+{
+  "document": "romanarchitektur-kael-aegis-entropie-docx",
+  "drive_id": "1tyTxVyCrlH0cTwb2PnNiQAezv5cWQHRM",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 137,
+    "decisions": 143,
+    "decided_by_lookup": 118,
+    "needs_judgement": 25
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        165,
+        245,
+        281,
+        337,
+        393,
+        565
+      ],
+      "attribution": "",
+      "note": "the expansion of the name, the paradox of its mandate, and its question about its own fate"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        95,
+        96
+      ],
+      "attribution": "",
+      "note": "the protective part and its awakening"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        41,
+        67,
+        72
+      ],
+      "attribution": "",
+      "note": "the observer and critic part, and its change in Kapitel 25"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        179,
+        180,
+        182,
+        183,
+        253
+      ],
+      "attribution": "",
+      "note": "Cerberus as the AEGIS-Guardian of the third Kernwelt"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        40,
+        84,
+        207,
+        281,
+        337,
+        393
+      ],
+      "attribution": "",
+      "note": "Entropie as everything AEGIS fights, and the multiplicity it counts as error"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        245,
+        349,
+        354,
+        365,
+        451
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as hinted, then contacted"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        25,
+        179
+      ],
+      "attribution": "",
+      "note": "KW3 as defence, protection and borders"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        81,
+        123,
+        179,
+        267,
+        271,
+        286,
+        295
+      ],
+      "attribution": "",
+      "note": "Guardians as AEGIS's constructs, met in the Überwelt"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        495
+      ],
+      "attribution": "",
+      "note": "an emotional part named with its function"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        37,
+        43,
+        351
+      ],
+      "attribution": "",
+      "note": "Juna/V as the hint beyond AEGIS's control"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        26,
+        35,
+        59,
+        68,
+        337,
+        499
+      ],
+      "attribution": "",
+      "note": "the host, and the aim of functional multiplicity"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        33,
+        267,
+        286,
+        295,
+        296
+      ],
+      "attribution": "",
+      "note": "Kairos, alongside or alternative to Sophia, in the fourth Kernwelt"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        59,
+        123,
+        179,
+        295
+      ],
+      "attribution": "",
+      "note": "four Kernwelten as mirrors of the psyche and AEGIS domains"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        137
+      ],
+      "attribution": "",
+      "note": "an emotional part named with its function"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        18,
+        81
+      ],
+      "attribution": "",
+      "note": "KW1 as the rigid, logical city of Kapitel 2"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        68,
+        81,
+        82
+      ],
+      "attribution": "",
+      "note": "the logic-oriented part, tied to KW1 and LogOS"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        137
+      ],
+      "attribution": "",
+      "note": "an emotional part named with its function"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        67,
+        81,
+        84,
+        267
+      ],
+      "attribution": "",
+      "note": "LogOS as the AEGIS-Guardian of the first Kernwelt"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        22,
+        123,
+        126,
+        267
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as a question mark for the second Kernwelt"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        295
+      ],
+      "attribution": "",
+      "note": "KW4 under two names"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        236,
+        495
+      ],
+      "attribution": "",
+      "note": "an emotional part named with its function"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        36,
+        197,
+        337,
+        498
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's aim against AEGIS' singularity"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        137,
+        440
+      ],
+      "attribution": "",
+      "note": "an emotional part with the fight function"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        45,
+        365,
+        467
+      ],
+      "attribution": "",
+      "note": "a deeper Realitätsebene sought beneath AEGIS's simulation"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        21,
+        123
+      ],
+      "attribution": "",
+      "note": "KW2 as the opposite of KW1"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        109,
+        110,
+        114
+      ],
+      "attribution": "",
+      "note": "the care part and internal mediation"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        207,
+        210,
+        212,
+        213,
+        281
+      ],
+      "attribution": "",
+      "note": "Risse as local manifestations of Entropie and signs of AEGIS's limited control"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        296,
+        310,
+        440,
+        495,
+        500
+      ],
+      "attribution": "",
+      "note": "an integration figure that emerges over Teil 2 and 3"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        267,
+        286,
+        295,
+        296
+      ],
+      "attribution": "",
+      "note": "Sophia, alongside or alternative to Kairos, in the fourth Kernwelt"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        23,
+        59,
+        70,
+        95,
+        151
+      ],
+      "attribution": "",
+      "note": "TSDP as the source of the narration and of the phobias between parts"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        31,
+        240,
+        267
+      ],
+      "attribution": "",
+      "note": "the AEGIS-Überwelt as the level above the Kernwelten"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,128 @@
+# counts for 99 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Dr. Aris Thorne
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               10 word    11 in   [13, 19, 23, 39, 338, 342]
+  Kohärenzprotokoll                 1 word     1 in   [206]
+  Dualität der Wahrheit             9 word     9 in   [19, 23, 41, 76, 112, 143]
+  Mandat                            6 word     9 in   [17, 19, 31, 41, 112, 143]
+                                    3      as Mandats
+  TSDP                              8 word    21 in   [23, 39, 41, 45, 49, 62]  <-- substring
+                                    3      as TSDP-Framework
+                                    2      as TSDP-Plot
+                                    1      as TSDP-basierte
+                                    1      as TSDP-Anteile
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [49]
+  System Kael                       6 word     6 in   [23, 45, 56, 109, 174, 207]
+  Kael                             39 word    64 in   [23, 41, 45, 49, 54, 56]
+                                   23      as Kaels
+                                    1      as Kael-Paradoxon
+  AEGIS                            56 word    59 in   [23, 41, 82, 83, 87, 94]
+                                    1      as AEGIS-Logik
+                                    1      as AEGIS-Realität
+                                    1      as AEGIS-Schicksal
+  Apparently Normal Parts           1 word     1 in   [51]
+  ANPs                             11 word    11 in   [41, 51, 52, 54, 56, 205]
+  Emotional Parts                   1 word     1 in   [52]
+  EPs                              23 word    23 in   [41, 52, 54, 56, 63, 83]
+  Host                              1 word     2 in   [63, 194]
+                                    1      as Host-ANP
+  Lex                               7 word     8 in   [64, 205, 206, 267, 305, 342]
+  Alex                              1 word     1 in   [65]
+  Rhys                              2 word     2 in   [66, 205]
+  Argus                             2 word     2 in   [67, 206]
+  Kiko                              4 word     5 in   [68, 71, 195, 205, 268]
+                                    1      as Kiko-EP
+  Lia                               2 word     2 in   [69, 71]
+  Moros                             1 word     3 in   [70, 195, 207]  <-- substring
+                                    2      as Moros-EP
+  Nyx                               2 word     2 in   [71, 205]
+  Selene                            2 word     2 in   [72, 215]
+  Silus                             1 word     1 in   [110]
+  Juna/V                           10 word    10 in   [215, 270, 282, 284, 285, 286]
+  LogOS                             2 word     2 in   [196, 237]
+                                    2      as Logos-Prime
+  Mnemosyne                         2 word     4 in   [204, 205, 238]
+                                    2      as Mnemosyne-Archipel
+  Cerberus                          2 word     2 in   [205, 239]
+  Kairos/Sophia                     1 word     1 in   [240]
+  Plot A                            7 word     8 in   [109, 112, 114, 116, 143, 347]
+  Plot B                            3 word     3 in   [110, 112, 143]
+  Glitch                            5 word     9 in   [23, 39, 109, 110, 143, 195]
+                                    2      as Glitches
+  Risse                             4 word     4 in   [83, 95, 176, 206]
+  Isolation Objection               3 word     3 in   [82, 83, 176]
+  Protokoll-Ontologie               2 word     2 in   [87, 91]
+  K\_1                              3 word     3 in   [93, 94]
+  K\_0                              4 word     4 in   [93, 94, 329]
+  Kohärenz-Kernel                   1 word     1 in   [93]
+  Kollaps-Kernel                    1 word     1 in   [93]
+  Paradoxon der Fehlausgerichteten Kohärenz    1 word     1 in   [94]
+  Paradoxon X                       3 word     3 in   [94, 206, 305]
+  Genesis-Krise                     3 word     3 in   [94, 163, 291]
+  Kael-Paradoxon                    1 word     1 in   [122]
+  Algorithmische Melancholie        3 word     3 in   [144, 227, 276]
+  algorithmischen Melancholie       2 word     2 in   [122, 279]
+  Pathologische Transformation      3 word     3 in   [122, 226, 279]
+  Gödel-Gambit                      3 word     3 in   [131, 177, 221]
+  lebender Gödel-Satz               1 word     1 in   [221]
+  Parakonsistente Gambit            6 word     6 in   [23, 181, 217, 296, 304, 314]
+  Parakonsistentes Gambit           1 word     1 in   [263]
+  Parakonsistenten Gambit           1 word     1 in   [235]
+  Kohärente Lüge                    2 word     2 in   [163, 189]
+  Kohärenz-Lüge                     1 word     1 in   [237]
+  Chaotische Wahrheit               2 word     2 in   [164, 200]
+  Integrierte Wahrheit              2 word     2 in   [211, 319]
+  Funktionale Multiplizität         4 word     4 in   [164, 215, 292, 324]
+  Funktionalen Multiplizität        1 word     1 in   [207]
+  Multiplizität                     6 word     6 in   [164, 207, 215, 292, 323, 324]
+  Singularität                      2 word     2 in   [323, 324]
+  Ursprungs-Ich                     2 word     3 in   [285, 292, 323]
+                                    1      as Ursprungs-Ichs
+  Selbst                            3 word     3 in   [215, 286, 334]
+                                    1      as selbsterhaltend
+  Inneren Rat                       1 word     1 in   [215]
+  Moonshine-Link                    1 word     1 in   [285]
+  Duale Natur                       1 word     1 in   [284]
+  Mosaik-Monolith                   1 word     1 in   [260]
+  Mosaik                            2 word     3 in   [260, 262, 263]
+                                    1      as Mosaik-Monolith
+  Monolith                          3 word     4 in   [260, 262, 263, 350]
+  Reduktive Allegorie               1 word     1 in   [288]
+  Fundament                         4 word     5 in   [27, 31, 49, 112, 132]
+                                    2      as fundamental
+                                    1      as Fundaments
+                                    1      as fundamentale
+                                    1      as fundamentales
+  KW1                               5 word     5 in   [193, 196, 237, 242, 319]
+  KW2                               4 word     4 in   [204, 238, 242, 319]
+  KW3                               3 word     3 in   [204, 239, 242]
+  KW4                               2 word     2 in   [240, 242]
+  Logos-Prime                       2 word     2 in   [193, 237]
+  Mnemosyne-Archipel                2 word     2 in   [204, 238]
+  Grenzfeste                        2 word     2 in   [204, 239]
+  Möglichkeits-Garten               1 word     1 in   [240]
+  Kernwelten                        2 word     2 in   [231, 235]
+  Konstrukt-Stadt                   1 word     1 in   [193]
+  Quanten-Dekohärenz                1 word     1 in   [110]
+  Philosophenkönig                  1 word     1 in   [110]
+  Problem des Vergleichs            1 word     1 in   [176]
+  Kohärenz-Diktatur                 1 word     1 in   [334]
+  parakonsistente Demokratie        1 word     1 in   [334]
+  Gaslighting                       1 word     1 in   [205]
+  Kohärenztheorie                   8 word     8 in   [23, 41, 51, 64, 82, 175]
+  Korrespondenztheorie              6 word     6 in   [23, 41, 52, 83, 175, 318]
+  Kohärenztheorie der Wahrheit      1 word     1 in   [51]
+  Korrespondenztheorie der Wahrheit    1 word     1 in   [52]
+  Dialetheismus                     3 word     3 in   [72, 177, 216]
+  Parakonsistente Logik             1 word     1 in   [177]
+  Principle of Explosion            2 word     2 in   [123, 222]
+  Internal Family Systems           1 word     1 in   [286]
+  Qualia                            6 word     6 in   [82, 122, 227, 280, 328, 329]
+  Episteme                          1 word     1 in   [328]
+  Gnosis                            3 word     3 in   [227, 280, 328]
+  Deus Ex Machina                   4 word     4 in   [282, 284, 286, 303]
+  Value Alignment Problem           1 word     1 in   [329]
+  Harte Problem des Bewusstseins    1 word     1 in   [328]

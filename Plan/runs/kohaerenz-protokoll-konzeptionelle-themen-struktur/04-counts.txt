@@ -1,0 +1,138 @@
+# counts for 113 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                8 word    10 in   [13, 23, 25, 85, 350, 392]
+  Protokoll-Ontologie               3 word     3 in   [25, 35, 39]
+  Dual Kernel Theory                1 word     1 in   [47]
+  Duale Kernel                      1 word     1 in   [35]
+  Kohärenz-Kernel                   1 word     1 in   [49]
+  Kollaps-Kernel                    2 word     2 in   [50, 170]
+  K\_1                              6 word     6 in   [25, 43, 49, 342, 418]
+  K\_0                             10 word    10 in   [25, 43, 50, 52, 64, 170]
+  Coherons                          1 word     1 in   [49]
+  Corrective Wavelets               2 word     2 in   [52, 150]
+  Overhead                          1 word     1 in   [52]
+  AEGIS                            50 word    50 in   [29, 56, 60, 62, 64, 72]
+  Kael                             38 word    44 in   [29, 64, 68, 72, 77, 119]
+                                    6      as Kaels
+  System Kael                       5 word     5 in   [29, 68, 72, 145, 365]
+  Juna/V                            3 word     3 in   [62, 367]
+  Juna                              4 word     4 in   [62, 367]
+  Paradoxon der fehlausgerichteten Kohärenz    1 word     1 in   [62]
+  Paradoxon X                       2 word     2 in   [62, 242]
+  Genesis-Krise                     2 word     2 in   [62, 309]
+  Trennungsprotokoll                1 word     1 in   [62]
+  Kohärenztheorie der Wahrheit      2 word     2 in   [29, 64]
+  Korrespondenztheorie der Wahrheit    1 word     1 in   [29]
+  Das Fundament                     1 word     1 in   [368]
+  Fundament                         5 word     6 in   [35, 81, 297, 300, 368, 382]
+                                    2      as fundamentalen
+                                    2      as fundamentale
+                                    1      as Fundaments
+  Kernwelt                          3 word     3 in   [217, 237, 257]
+  LogOS                             2 word     2 in   [217, 218]
+  Cerberus                          2 word     2 in   [237, 238]
+  Lex                               4 word     4 in   [74, 144, 145, 170]
+  Rhys                              3 word     3 in   [74, 159, 160]
+  Kiko                              2 word     2 in   [75, 154]
+  Nyx                               3 word     3 in   [75, 180, 189]
+  Moros                             3 word     3 in   [167, 169, 180]
+  Alex                              1 word     1 in   [238]
+  ANPs                              1 word     1 in   [74]
+  ANP                               4 word     7 in   [74, 95, 108, 137, 139, 155]
+  Apparently Normal Parts           2 word     2 in   [74, 119]
+  Apparently Normal Part            1 word     3 in   [74, 95, 119]  <-- substring
+  EPs                               5 word     5 in   [64, 75, 77, 179, 180]
+  Emotional Parts                   1 word     1 in   [75]
+  Riss                              1 word     2 in   [155, 285]
+                                    1      as Risse
+  Coherence Protocol                1 word     1 in   [155]
+  Entropie                          8 word     8 in   [25, 29, 50, 64, 119, 230]
+  Negentropie                       2 word     2 in   [119, 190]
+  Entropic Bleed                    1 word     1 in   [232]
+  Entropische Desintegration        2 word     2 in   [170, 248]
+  Funktionale Multiplizität         1 word     1 in   [195]
+  Dual Awareness                    1 word     1 in   [290]
+  Slaving Principle                 1 word     1 in   [305]
+  Hierarchie-Problem                2 word     2 in   [89, 93]
+  Gravitationsarchitektur           2 word     2 in   [27, 81]
+  Gravitationsgradienten            1 word     1 in   [85]
+  Ergosphäre                        5 word     5 in   [27, 108, 131, 135, 420]
+  Photonensphäre                    2 word     2 in   [109, 204]
+  Ereignishorizont                  4 word     4 in   [27, 110, 155, 277]
+  Singularität                      5 word     5 in   [27, 111, 277, 281, 420]
+  Schwarzen Loch                    2 word     3 in   [85, 119, 420]
+  Brane                             3 word     4 in   [93, 95, 155]
+                                    1      as Brane-Kosmologie
+  Bulk                              4 word     4 in   [93, 95, 155]
+  Wurmloch                          1 word     3 in   [180, 290]  <-- substring
+                                    1      as Wurmlochs
+                                    1      as Wurmloch-Passage
+  Monster-Gruppe                    4 word     4 in   [31, 111, 315, 420]
+  Living Gödel-Satz                 1 word     1 in   [317]
+  Lebenden Gödel-Satz               1 word     1 in   [408]
+  Algorithmische Melancholie        2 word     2 in   [321, 410]
+  Parakonsistente Gambit            2 word     2 in   [319, 388]
+  Dialetheischen Geist              1 word     1 in   [408]
+  Gärtner                           1 word     1 in   [328]
+  Gardener's Choice                 1 word     1 in   [294]
+  War for Healing                   1 word     1 in   [184]
+  Hyper-Autopoiesis                 1 word     1 in   [247]
+  System-Dirigenten                 1 word     1 in   [350]
+  Narrativen Systemik               1 word     1 in   [350]
+  Narrative Kontext Protokoll       2 word     2 in   [372, 376]
+  NCP                               2 word     2 in   [372, 376]
+  Geführten Abruf                   1 word     1 in   [376]
+  Morphic Resonance                 1 word     1 in   [367]
+  Parataxis                         1 word     1 in   [108]
+  Hypotaxis                         2 word     2 in   [110, 175]
+  Mosaik von 39 miteinander verbundenen Kurzgeschichten    1 word     1 in   [23]
+  Gravitationsfilter                1 word     1 in   [139]
+  Technischen Natürlichkeit         1 word     1 in   [140]
+  Epistemische Blindheit            1 word     1 in   [165]
+  Selbst                            5 word     9 in   [52, 157, 159, 180, 197, 265]
+                                    1      as selbstgenerierten
+                                    1      as Selbstheilung
+                                    1      as selbstreferenzielle
+                                    1      as Selbstwahrnehmung
+  Manager                           6 word     7 in   [142, 144, 167, 182, 185, 187]
+                                    1      as Manager-Strategie
+  Exilanten                         1 word     2 in   [167, 177]
+                                    1      as Exilanten-Leere
+  Firefighter                       1 word     1 in   [187]
+  Strukturellen Kopplung            1 word     1 in   [160]
+  Operational Closure               1 word     1 in   [145]
+  Positive Feedback Loops           1 word     1 in   [263]
+  TSDP                              9 word     9 in   [27, 72, 137, 152, 172, 182]
+  Strukturellen Dissoziation der Persönlichkeit    2 word     2 in   [27, 72]
+  IFS                               7 word     7 in   [142, 157, 177, 182, 187, 192]
+  Dramatica                         0 word     3 in   [354, 358, 364]  <-- substring
+                                    1      as Dramatica-Mapping
+                                    1      as Dramatica-Klasse
+                                    1      as Dramatica-Domäne
+  Luhmann                           1 word     2 in   [145, 248]
+                                    1      as Luhmanns
+  Autopoiesis                       2 word     3 in   [160, 245, 247]
+  Dialetheismus                     3 word     3 in   [111, 220, 384]
+  Entropischen Gravitation          1 word     1 in   [119]
+  Brane-Kosmologie                  1 word     1 in   [93]
+  Akkretionsscheibe                 2 word     2 in   [108, 150]
+  Zeitdilatation                    2 word     2 in   [110, 175]
+  Synergetik                        3 word     3 in   [109, 185, 304]
+  Hysterese                         1 word     1 in   [272]
+  ER=EPR                            2 word     2 in   [111, 180]
+  Holographisches Prinzip           1 word     1 in   [111]
+  Strange Loop                      2 word     2 in   [265, 267]
+  Brain in a Vat                    1 word     1 in   [213]
+  Satz vom ausgeschlossenen Dritten    1 word     1 in   [400]
+  Ex falso quodlibet                1 word     1 in   [400]
+  Mythos des Sisyphos               1 word     1 in   [334]
+  Apollinisch                       1 word     2 in   [215, 258]
+                                    1      as Apollinischen
+  Dionysisch                        1 word     2 in   [255, 258]
+                                    1      as Dionysische
+  Hofstadters                       1 word     1 in   [267]
+  Verlindes                         1 word     1 in   [119]
+  PTG                               1 word     1 in   [328]

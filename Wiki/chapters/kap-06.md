@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 27
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung"]
+sources: 30
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -21,6 +21,10 @@ novel follows is the author's call. All chapters side by side:
 Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
 
 In den Echos im Fundament scheitert Kaels einseitiger Logik-Ansatz im Cache-Konflikt an einem komplexen Problem: laut Plot-Konkretisierung verlangt das System in einem Doppel-Antrag beide sich widersprechenden Ausführungen, Kael kann nicht beide klicken, und seine Hand stoppt ungewollt, durch Nyx, als erster nicht ausgeführter Ausgleich, ein Arbeitsunfall; laut AEGIS-Subplots bricht in einem Gebiet perfekter Ordnung eine Kaskade kleiner Systemfehler aus, die AEGIS und die Guardians schnell eindämmen. Erste polyphone Einbrüche folgen: laut strukturierter Outline werden die Stilcodes anderer Alters hier voll sichtbar, Rhys-Wärme, Alex-Imperativ, Nyx-Stakkato, laut konsolidiertem Konzept erst später, laut Kernwelten vollständig erst in Akt II, das die Cache-Konflikt-Zone von KW1 als erste polyphone Bridge nennt, während Kapitel-Kompendium und Storyform-Outline einen Vorschein auf KW2 geben. Die Landauer-Sensorik ist laut Konzept-Iteration Genesis, konsolidiertem Konzept, strukturierter Outline und Drei-Modi-Spezifikation Hitzeschlieren und Landauer-Wärme, laut Storyform-Outline und Plot-Konkretisierung nach dem Polaritäts-Lock kaltes Ozon. In der Heldinnenreise ist es der Tod einer Einstellung, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit der ersten Andeutung der MC-Solution Pursuit in Storyform A und OS-Physics in Storyform B, in der AEGIS' Logik Schwächen zeigt; laut Plot-Konkretisierung liegt es im Fenster des Hard-B-Kapitels. Konzept-Iteration Genesis, konsolidiertes Konzept, strukturierte Outline, Kapitel-Kompendium und Storyform-Outline lesen den Cache-Konflikt als Echo der ursprünglichen Resonanzkaskade der Genesis, das Kapitel-Kompendium dazu als parakonsistente Logik.
+
+## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — trials, allies and enemies, entering KW3
+
+- The Teil-1 plot proposes Kapitel 6, `Eye of the Storm` (L146), as trials, allies and enemies, entering KW3: „Kael betritt die beklemmende Grenzfeste“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L151]. It hedges, and adds the meeting with `Silas`, the skeptic (L157), Juna as contraband (L160), Cerberus's cold presence (L161).
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
@@ -89,6 +93,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „kein 'Riss', aber vielleicht eine plötzliche Kaskade kleinerer Systemfehler“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94] · „Der Vorfall wird schnell von AEGIS/Guardians eingedämmt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „Vielleicht findet Kael Restspuren einer größeren 'Aufräumaktion'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Fragmente der Vergangenheit
+
+- The architecture plan sets Kapitel 6 in Teil 1 as the archetypal phase „Fragmente der Vergangenheit“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L22], with the core theme „Erste Begegnung mit traumatischen Echos“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L22] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L131.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Fortress of Fear`, one entry shared with Kap 06–07
 
 Title: „The Fortress of Fear“ ^[ai-assisted-narrative-coherence.md:L1352] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
@@ -97,6 +105,10 @@ Position: the scene outline plans the scene at „1.5 - Cerberus-Labyrinth (KW3)
 - Story (goal): the scene outline plans „To find a safe, defensible space to recover from the emotional overflow of KW2“ ^[ai-assisted-narrative-coherence.md:L1358]
 - Story (conflict): the scene outline plans „tries to contain him within a paradoxical maze“ ^[ai-assisted-narrative-coherence.md:L1359]
 - Turn: `Outcome & Turn` has „Kael is temporarily safe but trapped.“ ^[ai-assisted-narrative-coherence.md:L1367]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Chapters 6–7, The Fortress of Fear
+
+- The scene outline plans Chapter 6 within Chapters 6–7, „The Fortress of Fear“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L90], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The initiation
 

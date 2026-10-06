@@ -604,3 +604,47 @@ Stands as one more document listing the Anteile by world, dated 2025-07-29; the 
 Its roster, introduced by „The following entities are key components of System Kael“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11], lists `Kael`, `Lex`, `Isabella`, `Alex`, `The Sentinel`, `Nyx`, `Kiko`, `Silas`, `Vesper` and `Caspian/Sloane` as one row, each with a role. Its Kernwelten table begins „KW1: Logos-Prime / Konstrukt-Stadt“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11] and ends with „KW4: Kairos-Potentialis“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L13].
 
 Stands as an answer of 2026-01-02 that predates the author's answers; its own claim, recorded, changing neither.
+
+## 2026-10-06 — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium
+
+**The compendium reports three Kern-Welten seated by IFS role, with Alters assigned to each, and names a Möglichkeits-Garten and Ly-Welt only in its phase layout.**
+
+It reports each world with its Alters: KW1 „Limina (Gatekeeper), Index (Analytiker), Eos (Kontrolleurin)“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L95], KW2 „Echo (verängstigtes Kind), Oblivion (im Freeze-Zustand eingefrorener Trauma-Halter), Silas (Caretaker)“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L103] and KW3 „Nox (Persecutor/Verfolger, der das System durch Härte“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L111] protects, with Praetor beside him. Several Alters stand in each world, so the correspondence is by IFS role, not one world to one Alter. It reports Juna as the Self „Im Zentrum des IFS-Modells“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L117]. A fourth world has no number or role: the Möglichkeits-Garten appears as the place of the Gärtner (L165) and the Ly-Welt as chaos Kael must face (L164). The document is a drafting guide dated before the author's answers; it does not say whether three is all.
+
+Where it stands: three IFS-seated worlds with several Alters each, a fourth place unseated; recorded, the question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline
+
+**The architecture analysis counts four Kernwelten and gives eleven alter rows, with no one-to-one pairing between them.**
+
+On the worlds, the architecture analysis says: „The four Kernwelten are simulated realities created by AEGIS to manage and analyze Kael's fragmented psyche.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L458] The table beneath lists KW1 to KW4 with a psychological domain each (L462–L466), and the lexicon repeats „The four simulated realities (KW1-4) created by AEGIS to analyze and control Kael.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L569]
+
+On the alters, its table lists, in order, Kael (Host), Selene, Nyx, Kiko, Lia, Isabelle, Moros, Lex, Alex, Rhys and Argus: 11 rows (L492–L502), the first typed „Primary ANP“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L492] and the last „Emergent ANP“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L502]. The scene outline plans scenes in which several alters act in one world, such as Alex and Nyx in the fortress world: „Here, the protector alters Alex and Nyx are dominant, viewing everything with suspicion.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L97]
+
+Stands: four worlds and eleven alter rows, both as the document writes them; the table does not pair a world with an alter, and nothing here decides the question.
+
+## 2026-10-06 — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan
+
+**The architecture plan names its parts by function and sets four Kernwelten, without stating a count of alters or a rule that one world is one part.**
+
+For the parts it writes in Kapitel 1 of Kael as „Kael (Host)“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L68], with „Argus (Beobachter/Kritiker)“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L67] and „Der logikorientierte Anteil Lex“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L68]. Kapitel 3 and 4 add the protector Alex and the care part Rhys (L95, L109). Kapitel 6 names the Emotional Parts with functions: „Kiko [Angst/Freeze]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L137], „Nyx [Kampf]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L137] and „Lia [Ambivalenz]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L137]. Kapitel 31 names „Moros [Kollaps]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L495] and „Isabelle [Kontrolle]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L495], and Kapitel 18 lists Nyx, Kiko, Lia, Isabelle and Moros together (L310). A further figure only emerges: „die aufkommende Selene/Selbst-Figur“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L310].
+
+For the worlds the Gesamtfokus of Teil 1 says „Die Kernwelten werden als Spiegel der inneren Psyche und gleichzeitig als Domänen von AEGIS eingeführt“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L59], and the chapters number KW1 to KW4: Konstrukt-Stadt (Kapitel 2), Resonanz-Landschaft (Kapitel 5), Grenzfeste (Kapitel 9), Möglichkeits-Garten (Kapitel 17). The plan pairs worlds with Guardians (LogOS, Mnemosyne with a question mark, Cerberus, Kairos und/oder Sophia), not with parts.
+
+Stands: the plan's roster is ten named parts plus the emerging Selene/Selbst figure, and four worlds; it states neither that four is all, nor a correspondence of world to part, so the question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper
+
+**The truth-duality paper's Table 1 lists the host Kael and nine named parts, five ANPs and four EPs, and writes four Kernwelten; it does not set a world against a part.**
+
+Its table (L63–L72) names, beside the host, the ANPs Lex, Alex, Rhys, Argus and Selene, whose type it marks „ANP (Integrator?)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L72], and the EPs Kiko, Lia, Moros and Nyx. Of the worlds it writes: „Die vier Kernwelten (KWs)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L235], each tied to a truth position and an act, not to a part. In Act 2, Kael is „ANPs wie dem logischen Lex und dem fürsorglichen Rhys“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L205] meeting the EPs.
+
+Stands: a table of 2025-11-18 with named parts and four Kernwelten, which predates the author's answers (thirteen alters; four Kern-Welten) and changes neither; the correspondence of worlds and parts stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan
+
+**The system plan applies TSDP to name four ANPs, five EPs and Selene as internal therapist, and designs four Kernwelten.**
+
+The ANPs are „ANPs (Lex, Rhys, Alex, Argus)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L90] and the EPs „EPs (Nyx, Kiko, Lia, Isabelle, Moros)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L91]. Of Selene it says „Selene agiert als interne Therapeutin“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L112]. The worlds are KW1 to KW4, in the section „Entwürfe für die Rätsel der Kernwelten“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L255].
+
+Stands as one more listing of the alters (nine named, plus Selene) and four worlds.

@@ -1,0 +1,614 @@
+{
+  "document": "romanplot-kohaerenz-protokoll-teil-1",
+  "step": "reconcile-pre",
+  "at": "2026-10-06",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-06",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 98,
+  "decisions": 106,
+  "same_surface": {},
+  "decided_mechanically": 81,
+  "needs_judgement": 25,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 100
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 86
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 64
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 45
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 53
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 61
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 49
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 42
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 39
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 98
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 68
+      },
+      {
+        "candidate": "Kern-Welten",
+        "page": "kern-welten",
+        "readings": 68
+      },
+      {
+        "candidate": "Kern-Welt",
+        "page": "kern-welten",
+        "readings": 68
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 58
+      },
+      {
+        "candidate": "Resonanz-Landschaft",
+        "page": "resonanz-landschaft",
+        "readings": 29
+      },
+      {
+        "candidate": "Grenzfeste",
+        "page": "grenzfeste",
+        "readings": 27
+      },
+      {
+        "candidate": "Möglichkeits-Garten",
+        "page": "moeglichkeits-garten",
+        "readings": 37
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 46
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 73
+      },
+      {
+        "candidate": "Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 68
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 29
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 67
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Einheit 734"
+      },
+      {
+        "candidate": "Archivar"
+      },
+      {
+        "candidate": "Das Verlorene Kind"
+      },
+      {
+        "candidate": "Verlorenes Kind"
+      },
+      {
+        "candidate": "Verlorenen Kindes"
+      },
+      {
+        "candidate": "Anya"
+      },
+      {
+        "candidate": "Muse/Trickster"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "Externen Ebene"
+      },
+      {
+        "candidate": "Funke"
+      },
+      {
+        "candidate": "Switch"
+      },
+      {
+        "candidate": "Co-Bewusstsein"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "Ego-Tod"
+      },
+      {
+        "candidate": "Feuerprobe"
+      },
+      {
+        "candidate": "Elixier"
+      },
+      {
+        "candidate": "Meister zweier Welten"
+      },
+      {
+        "candidate": "Freedom to live"
+      },
+      {
+        "candidate": "Unsere Welt"
+      },
+      {
+        "candidate": "Auge des Sturms"
+      },
+      {
+        "candidate": "Bunker"
+      },
+      {
+        "candidate": "Mosaik-Metapher"
+      },
+      {
+        "candidate": "Puppenspielers"
+      },
+      {
+        "candidate": "Säuberungs"
+      },
+      {
+        "candidate": "Systemwartungs"
+      },
+      {
+        "candidate": "Schnittstelle für Mentale Gesundheit"
+      },
+      {
+        "candidate": "Wellness-Modul"
+      },
+      {
+        "candidate": "Schatten-Mentor"
+      },
+      {
+        "candidate": "Reboot"
+      },
+      {
+        "candidate": "Uncanny Valley"
+      },
+      {
+        "candidate": "Heldinnenreise-Stufe"
+      },
+      {
+        "candidate": "Song-Thema"
+      },
+      {
+        "candidate": "Schlüsselszenen & Entwicklungen"
+      },
+      {
+        "candidate": "Plot-Zusammenfassung"
+      },
+      {
+        "candidate": "Plot-Rolle"
+      },
+      {
+        "candidate": "Name/Bezeichnung"
+      },
+      {
+        "candidate": "Funktion/Herkunft"
+      },
+      {
+        "candidate": "Atmosphäre & Sensorik"
+      },
+      {
+        "candidate": "Pacing & Spannung"
+      },
+      {
+        "candidate": "DIS-Darstellung"
+      },
+      {
+        "candidate": "Metaphern-Einsatz"
+      },
+      {
+        "candidate": "Dialog-Beispiel"
+      },
+      {
+        "candidate": "Perfect World"
+      },
+      {
+        "candidate": "Betrayal"
+      },
+      {
+        "candidate": "Awakened"
+      },
+      {
+        "candidate": "Descent"
+      },
+      {
+        "candidate": "Gates of Judgement"
+      },
+      {
+        "candidate": "Eye of the Storm"
+      },
+      {
+        "candidate": "Death"
+      },
+      {
+        "candidate": "All is Lost"
+      },
+      {
+        "candidate": "Rescue"
+      },
+      {
+        "candidate": "Rebirth"
+      },
+      {
+        "candidate": "Moment of Truth"
+      },
+      {
+        "candidate": "Our World"
+      },
+      {
+        "candidate": "Kernthese"
+      },
+      {
+        "candidate": "Kausalschleife"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Juna  /  Juna-Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Juna-Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Kind/Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Skeptiker/Torwächter  /  Wächter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardians  /  Guardian",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Guardian-Paradoxon",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Guardian Blind Spot",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Kern-Welt / Guardian / Psyche Matrix",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welten  /  Kern-Welt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welt  /  Primäre Kern-Welt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welt  /  Kern-Welt / Guardian / Psyche Matrix",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welt  /  Kern-Weltmechanik",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Riss",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Riss  /  Sicherheitslücken-Riss",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anteile  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anteil  /  Anteilwechsel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Guardian",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          },
+          {
+            "surface": "integrityguardian",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna-Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Architekt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyneserverarchitektur",
+            "page": "mnemosyne-server-architektur"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Primäre Kern-Welt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Kern-Welt / Guardian / Psyche Matrix",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Kern-Weltmechanik",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 36,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

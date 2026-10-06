@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-narrative-architektur-2
+  lines                469  (frontmatter ends at 9)
+  body words           7090
+  headings             27   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       10
+  backslash escapes    71
+  typographic marks    24   ascii quotes 212
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    87
+  repeated labels      Guardian x4, Rätselmechanik x4
+  longest line         1016 chars
+

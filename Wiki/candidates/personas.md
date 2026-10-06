@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -36,6 +36,10 @@ Each Kern-Welt names the Persona that primarily experiences it:
 are referenced as an external framework already known, and are used to describe
 a Guardian's *epistemology*, not a Persona. Seven occurrences, never defined
 here.
+
+## Reading — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan — the Personas as AEGIS's isolated data caches
+
+The one place the system plan writes `Personas` is in its account of Perverse Instantiation: AEGIS fragments the original self into „isolierte Daten-Caches (Kaels Personas)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L49] to contain incoherence. The Personas are therefore the result of AEGIS's logical solution, which reaches stability and destroys the subject it should protect.
 
 ## Open
 

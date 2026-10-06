@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 36
-readings: 36
+sources: 42
+readings: 42
 conflict: C5, C11
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -59,6 +59,10 @@ and `Nexus-Vorstufe` is a *role*, not the `Nexus` itself (J15).
 `Kairos & Sophia` — see [[kairos|Kairos]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
 
+## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — KW4 as a symbolic world of potential, guided by intuition, tied to the Funke part
+
+The Teil-1 plot proposes that Kael is pulled from the collapsing third world into „den lebendigen, chaotischen, symbolischen Möglichkeits-Garten“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L215], a shift „zu einem Raum des Potenzials und der Transformation“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L215]. There he explores, „geleitet von Intuition und der symbolischen Sprache der Welt“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L225]. The matrix pairs it with Kairos and Sophia and the part „Funke-Anteil / Kreativität / Intuition / Potenzial“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L302], mechanic „Symbolik/Potenzial/Metamorphose“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L302].
+
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — section 4: KW4 with Guardian Kairos/Sophia, a world
 
 Section 4 is headed „Möglichkeits-Garten (Guardian: Kairos/Sophia)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L85], numbered KW4 among the four Kern-Welten. It treats it as a world with its own laws: „Umgebung reagiert stark auf Kaels Intention/Kreativität (hochgradig reaktive Umgebung)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L98], and with its own Risse: „Verbindungen zu anderen Welten werden instabil (Eindringen von Angst aus KW3, Emotionen aus KW2).“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L99]
@@ -85,13 +89,29 @@ The outline's KW4 has no fixed architecture but a „prozesshaft und sich ständ
 
 The Welt blueprint profiles `Kairos-Potentialis / Möglichkeits-Garten` as the fourth Kernwelt, in both passes. First pass (L61): „Die Domäne von Lia (Kind-EP, Ambivalenz), Rhys (Pflegender ANP) und Selene (das Selbst)“ ^[welt.md:L61], with a figure that „verkörpert Potenzialität, Emergenz und Kreativität“ ^[welt.md:L61]. Second pass: a place in it, the `Nexus-Interface Garten`, „ist ein spezifischer Ort hier, der eine tiefere Verbindung zu Informationen und Potenzialen ermöglicht“ ^[welt.md:L111] (L111); the world „dient als Metapher für Kaels Geist und sein Potenzial zur Integration“ ^[welt.md:L113] (L113).
 
+## Reading — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan — KW4, an NP-search world of exploration
+
+The system plan designs KW4 as „Möglichkeits-Garten (NP-Suche - Exploration)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L291], with „Kairos/Sophia (Sucher)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L295] as Guardian. The aim is not a single puzzle but to find one unique state among exponentially many alternatives. It proposes: „Der Garten ist ein fraktales Labyrinth von Entscheidungen“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L297]; wrong paths „lässt Möglichkeiten verkümmern und sterben“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L297], which the table calls „Destruktives Chaos/Symbolischer Zerfall“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L313].
+
 ## Reading — `outline`, 2025-07-30, the outline — Möglichkeits-Garten as KW4's name; the garden title of Kap 9
 
 Teil 2's section IV names `KW4` `Möglichkeits-Garten`: „Diese Welt der Potentialität und Kreativität bietet einen Hoffnungsschimmer und kann von Juna beeinflusst sein.“ ^[outline.md:L133] (L133). Kap 9 is titled „Der Garten der Möglichkeiten“ ^[outline.md:L64] (L64).
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — KW4 under two names
+
+Kapitel 17 (Die Gärten des Potenzials) of the architecture plan proposes „der Möglichkeits-Garten oder Potenzial-Garten“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L295] for the fourth world, KW4, and sets that it represents „Wachstum, Kreativität, Zukunftsmöglichkeiten“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L295] but vielleicht also AEGIS' manipulation of potential. It pairs the Guardians Kairos und/oder Sophia with it.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the blueprint, the architecture analysis, the critique) — the name of KW4
 
 The architecture analysis pairs the name with Kairos-Potentialis: „KW4 (Möglichkeits-Garten/Kairos-Potentialis)“ ^[ai-assisted-narrative-coherence.md:L1728]. The blueprint's heading glosses the same world in English: „KW4: Kairos-Potentialis (The Garden of Potential)“ ^[ai-assisted-narrative-coherence.md:L481]; the critique calls it a `Possibility Garden`.
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — KW4's double name, and the oracle chapter
+
+The architecture analysis's table writes the fourth world as „Möglichkeits-Garten/Kairos-Potentialis“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L466], with the domain „Potential, Creativity, Intuition“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L466]. The scene outline uses only the Kairos-Potentialis form, and Chapter 18 is titled „The Oracle in KW4: Creativity and Potentials“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L244].
+
+## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — KW4 as the world of synthesis, Act 3
+
+In the truth-duality paper's list of worlds, KW4 `Möglichkeits-Garten` is the world of synthesis „(Kreativität, Integration).“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L240] with the Wächter Kairos/Sophia, set at „(Akt 3, Vorbereitung)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L240]. Reaching it completes Kael's route: he must master the other worlds „um die Synthese (KW4/Integration) zu erreichen.“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L242]
 
 ## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — row 4 and the Moonshine metaphor
 
@@ -104,6 +124,10 @@ The Leitfragen report (an analyst's review) lists, as its account of other docum
 ## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — KW4, fluid and emergent, the place of potential healing
 
 The report's table gives KW4, the `Möglichkeits-Garten`, the guardians `Kairos & Sophia`, the aesthetics „Fließend, dynamisch, emergent.“ ^[romananalyse-kohaerenz-plot-kritik.md:L59] and „Wachstum und Zufall dominieren“ ^[romananalyse-kohaerenz-plot-kritik.md:L59], and calls it „Der Ort potenzieller Heilung und Integration.“ ^[romananalyse-kohaerenz-plot-kritik.md:L59]
+
+## Reading — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium — the Gärtner of the Möglichkeits-Garten
+
+In the compendium's phase layout, the Falling Action has Kael acting as „Gärtner“ in the Möglichkeits-Garten; he creates space for self-organised harmony instead of forcing structure: „Raum für selbstorganisierte Harmonie schafft“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L165]. The Climax before it asks him to face „dem Chaos der Ly-Welt“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L164]. The compendium gives the Möglichkeits-Garten no IFS role, Guardian or number.
 
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — Kernwelt 4 named Kairos-Potentialis and the Garten, where technology and organic entropy fuse
 

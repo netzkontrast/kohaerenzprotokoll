@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 37
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
+sources: 39
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C12", "C10"]
 gathered: "2026-09-25"
 ---
@@ -73,6 +73,10 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „vielleicht als eine Art Hausmeister des Kernsystems“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531] · „Kael und dieses Rest-AEGIS erkennen sich gegenseitig an“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531]
 - Story: „Kael übernimmt vielleicht eine neue Rolle als eine Art Moderator oder Wächter dieser neuen, fragilen Ordnung.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Der emergente Horizont
+
+- The architecture plan sets Kapitel 39 in Teil 3 as the archetypal phase „Der emergente Horizont“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L55], with the core theme „Eine neue Realität weben“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L55] — a plan, written in the conditional, not the chapter as written. The export ends in Kapitel 38; Kapitel 39 has only its table row.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Gardener`
 
 Title: „The Gardener“ ^[ai-assisted-narrative-coherence.md:L1653] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
@@ -81,6 +85,10 @@ Position: scene 3.5 at „3.5 - The New Reality“ ^[ai-assisted-narrative-coher
 - Story (goal): the scene outline plans „To begin his new life and accept his new role.“ ^[ai-assisted-narrative-coherence.md:L1659]
 - Story (beat): the scene outline plans „Kael makes his final, heroic choice: to do nothing.“ ^[ai-assisted-narrative-coherence.md:L1667]
 - Turn: `Outcome & Turn` has „Kael accepts his new, complex existence.“ ^[ai-assisted-narrative-coherence.md:L1668]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — The Gardener
+
+- The scene outline plans Chapter 39 as „The Gardener“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L391], in Act III: The Confrontation and the New Reality — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Freedom to live
 

@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 27
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
+sources: 30
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -21,6 +21,10 @@ novel follows is the author's call. All chapters side by side:
 Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
 
 Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe Rückkehr mit neuer Sichtweise, in der die Integration beginnt, laut der strukturierten Outline im Ki als Vertiefung, in KW1, und in der Plot-Konkretisierung im Block Der zögernde Angestellte; Kaels Anteile kooperieren zum ersten Mal, und mehrere Quellen setzen hier den frühesten Ort, an dem ein Wir-Geflecht entstehen darf. Wie bewusst das geschieht, sagen die Quellen verschieden: laut der strukturierten Outline spürt Kael sich erstmals als mehrere, in einer ersten expliziten Wir-Stimme-Szene mit Lex, Rhys, Selene und Alex, ohne dass das Wort Alters fällt; laut der Storyform-Outline ist es eine bewusste innere Kooperation; laut der Plot-Konkretisierung eine Arbeitsteilung an der Konsole, die sich für Kael wie ein guter Tag anfühlt und nicht wie ein Wir. Die AEGIS-Subplots lassen AEGIS fast sofort auf eine solche Verbindung reagieren, vielleicht durch Cerberus, sodass Kaels Heilung vom System aktiv bekämpft wird. In Storyform A trägt das Kapitel laut dem konsolidierten Konzept den MC-Concern, Logik und Intuition verbinden sich, laut dem Kapitel-Kompendium das Requirement, Wir-Bildung beginnt, während Storyform B latent bleibt; als Genesis-Echo ist die Wir-Bildung die Wieder-Annäherung an die Reinform über plurale Form, und jede Wir-Stimme-Szene ab hier zielt auf das Ende des Romans.
+
+## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — the reward, escape from KW3 into KW4
+
+- The Teil-1 plot proposes Kapitel 9, `Rescue` (L202), as the reward, escape from KW3 into KW4: „Angesichts der Vernichtung erlebt Kael eine unerwartete Intervention“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L207]. It hedges, and adds perhaps the „Funke“ part, the Risse, or an intervention of Kairos or Sophia (L207).
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
@@ -89,6 +93,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „wenn Kael eine zaghafte Verbindung zu einer externen Anomalie (Vorläufer von Juna/V) herstellt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L133]
 - Discussion: „Kaels Heilungsprozess wird vom System aktiv bekämpft“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L134]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Die Mauern der Grenzfeste
+
+- The architecture plan sets Kapitel 9 in Teil 1 as the archetypal phase „Die Mauern der Grenzfeste“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L25], with the core theme „Erkundung der Abwehrmechanismen“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L25] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L173.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Glimpse of Potential`, one entry shared with Kap 09–10
 
 Title: „Glimpse of Potential“ ^[ai-assisted-narrative-coherence.md:L1386] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
@@ -97,6 +105,10 @@ Position: the scene outline plans the scene at „1.7 - Kairos-Potentialis (KW4)
 - Story (goal): the scene outline plans „To escape a containment protocol initiated by Cerberus in KW3.“ ^[ai-assisted-narrative-coherence.md:L1392]
 - Story (conflict): the scene outline plans „a place of chaotic, untamed growth and emergent possibility“ ^[ai-assisted-narrative-coherence.md:L1393]
 - Turn: `Outcome & Turn` has „Kael now has tangible proof of an alternative to“ ^[ai-assisted-narrative-coherence.md:L1402]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Chapters 9–10, Glimpse of Potential
+
+- The scene outline plans Chapter 9 within Chapters 9–10, „Glimpse of Potential“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L124], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Longing for reconnection
 

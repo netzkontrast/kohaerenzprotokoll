@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 51
-readings: 51
+sources: 56
+readings: 56
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "welt", "kohaerenz-protokoll-the-official-master-story-guide"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "welt", "kohaerenz-protokoll-the-official-master-story-guide", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2"]
 gathered: "2026-09-24"
 ---
 
@@ -58,9 +58,17 @@ Beat 3.1 (Kapitel 27–29) names Alex only in one list, as an ANP among Kael's c
 
 The Welt blueprint gives KW3 to two Anteile in the first pass (L54): „die Domäne von Alex (Protektor-ANP) und Nyx (Kampf-EP)“ ^[welt.md:L54].
 
+## Reading — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan — Alex as one of four ANPs
+
+The system plan names Alex in the list of ANPs: „Diese Anteile sind für das Funktionieren im Alltag zuständig“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L90]. It gives the group one motivation, „Ihre primäre Motivation ist die Vermeidung von Trauma-Triggern“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L90], and one subjective result, „emotionaler Taubheit, Amnesie, Depersonalisation und einem chronischen Gefühl der Leere“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L90]. Only the group is described on L90; the line sets Alex in the parenthesis with Lex, Rhys, Alex and Argus.
+
 ## Reading — `outline`, 2025-07-30, the outline — Alex in the list of ANPs
 
 The outline plans Alex once, in Teil 2 (L116), among the ANPs of the first point of its section on inner cooperation: „Kaels Anteile (ANPs wie Lex, Rhys, Alex und EPs wie Nyx, Kiko, Moros, Isabelle, Lia, Argus) entwickeln ihre Kooperation weiter“ ^[outline.md:L116] (L116). It lists Lex, Rhys and Alex as ANPs and Nyx, Kiko, Moros, Isabelle, Lia and Argus as EPs, and says nothing further of Alex.
+
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — the protective part and its awakening
+
+The architecture plan sets the awakening of Alex in Kapitel 3 (Der Schatten des Beschützers): „Einführung des Beschützer-Anteils Alex“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L95]. It proposes that this part „übernimmt die Kontrolle oder tritt als starker Einfluss auf“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L96] to protect Kael (Host) or other vulnerable parts, which könnte conflict with Lex or with Kael. It also casts him as embodying the fight reaction of the traumatised system (L99), and as one who vielleicht breaks rules or hacks systems in KW1 (L99).
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline and the architecture analysis of the English compilation — Alex as protector in two scenes of Act I, and a row of the eleven-row table
 
@@ -68,9 +76,23 @@ Alex appears only in the later parts of the compilation: in the scene outline (L
 
 The architecture analysis (L1671 on) gives Alex a row in its alter table, typed „Secondary ANP“ ^[ai-assisted-narrative-coherence.md:L1762] and described as „The calculated protector and crisis manager“ ^[ai-assisted-narrative-coherence.md:L1762].
 
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — the protector and crisis manager
+
+The scene outline places Alex in the coherence check, where the alter „assesses the Guardian as a high-level threat“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L50], and later makes him the leader in the fortress world: „The alter Alex takes the lead, assessing threats and seeking fortifications.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L101]
+
+The architecture analysis's table types him „Secondary ANP“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L500] and writes: „The calculated protector and crisis manager“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L500], set against Nyx's reactive aggression.
+
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — its row in the Master Profile of Alters
 
 In the Definitive Guide's „Master Profile of Alters“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L119], the row of `Alex` gives: type „ANP (Protector)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L126]; TSDP action system „Protection, Defense (in crises)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L126]; core motivation and fear „Protect vulnerable parts; Fear of helplessness.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L126]; central conflicts and relationships „Loyal to the weak; Potential conflict with Kael/Lex over risk-taking.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L126]. The table is the guide's own, in English with the German column head „Anteil (Alter)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L123]; this is what the row says and nothing is added from other documents.
+
+## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — Alex in Table 1
+
+In Table 1 of the truth-duality paper, Alex is an ANP with the function „Schutz, Abwehr, Hypervigilanz“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L65]; the paper pairs the part with „Pragmatische Korrespondenz (Fokus auf Bedrohung)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L65], which makes this ANP, unlike Lex, a correspondence-side part in its scheme.
+
+## Reading — `kohaerenz-protokoll-konzeptionelle-themen-struktur`, 2025-11-25, the themes exegesis — Alex as Kael's suspicious protector part
+
+Theme 19 (a theme, not a chapter) reads Cerberus as the externalisation of „misstrauischen Beschützer-Anteil (Alex)“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L238].
 
 ## Reading — `kohaerenz-protokoll-the-official-master-story-guide`, 2026-01-02, the Master Story Guide — Alex as the Shield
 

@@ -1,0 +1,14 @@
+# roman-outline-stilmittel-perspektiven-umsetzung
+  lines                215  (frontmatter ends at 9)
+  body words           3162
+  headings             27   bold-only lines 0
+  table rows           5   code fences 0
+  question marks       4
+  backslash escapes    24
+  typographic marks    71   ascii quotes 8
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    32
+  repeated labels      Der Guardian x3, Die Kern-Welt x3, Zugehörige Alters x3
+  longest line         909 chars
+

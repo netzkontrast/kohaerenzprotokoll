@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 37
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik"]
+sources: 41
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -21,6 +21,10 @@ novel follows is the author's call. All chapters side by side:
 Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
 
 Kael, der Host, erwacht in der Konstrukt-Stadt von KW1, fragmentiert und ohne Erinnerung, in einem steril geordneten Alltag zwischen Wohnung, Datenknoten und Transitkorridor; laut strukturierter Outline lebt er als Komp 734 in einer Wohneinheit anderer Nummer, laut Kernwelten vollständig und Kapitel-Kompendium ist Wohneinheit 734 selbst seine Wohnung. Laut AEGIS-Subplots wagt er eine kleine Abweichung von seiner Routine und wird von der Umgebung sanft zur Norm zurückgeführt, laut Plot-Konkretisierung bestätigt er, dass die Welt stimmt, während eine Abweichung und ein Sprung in seinen Werten auftauchen; Kapitel-Kompendium und Storyform-Outline locken den Erstsatz, das Licht sei schon da, als er erwache, keine AEGIS-Stimme, kaltes Ozon ohne Wärme und eine Amnesie, die nie erwähnt wird, und die strukturierte Outline lässt Juna als Wort ohne Referent anklingen. In der Heldinnenreise ist es die Illusion der perfekten Welt, Ordnung als Käfig, laut strukturierter Outline in der Ki-Vertiefung am Beginn von Akt I, und laut Kapitel-Kompendium und Storyform-Outline öffnet es die Ouroboros-Klammer, in der der Erstsatz am Ende der letzte ist, den Kael schreibt. Storyform A trägt das MC-Concern Memory als Erinnerungslosigkeit, laut Kapitel-Kompendium als latenten ersten Signpost; Storyform B ist laut Konzept-Iteration Genesis und Drei-Modi-Spezifikation OS-Physics als AEGIS-Architektur im Umgebungs-Log, laut strukturierter Outline latent als Umgebung, laut Kapitel-Kompendium der IC-Signpost mit Kael als unfixbarem Bug. Der Leser erkennt im sterilen Setting die Innere Weite aus der Genesis, Kael nicht.
+
+## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — the familiar world, waking after the reboot in KW1
+
+- The Teil-1 plot proposes Kapitel 1, `Perfect World` (L55), as the familiar world, waking after the reboot in KW1: „Kael erwacht nach dem Reboot, desorientiert“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L60]. It hedges, and adds its first scenes: the first meeting with `Lex`, a small Riss, a `Juna-Echo` of illogical warmth (L67–L69).
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
@@ -94,6 +98,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Es erfolgt keine direkte Bestrafung, aber subtile Umgebungshinweise“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29] · „führen Kael sanft zur 'Norm' zurück. Kael könnte diese Ereignisse als bloße Seltsamkeiten abtun.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29]
 - Discussion: „Dieser Subplot führt AEGIS' Kontrolle subtil ein, ohne das System direkt zu offenbaren.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L30]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Der Glitch im Spiegel
+
+- The architecture plan sets Kapitel 1 in Teil 1 as the archetypal phase „Der Glitch im Spiegel“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L17], with the core theme „Der unsichtbare Käfig“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L17] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L61.
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Act I, its opening scenes unnumbered
+
+- The scene outline gives no line of its own to Chapter 1; it falls within „Fragmentation and First Echoes“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L17], whose opening scenes (1.1–1.3, the awakening in Logos-Prime, the coherence check, the anomaly in the data stream) carry no chapter number.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The deceptive order
 
 Title: „Die trügerische Ordnung“ ^[romanstruktur-und-philosophische-einleitung.md:L37]
@@ -126,6 +138,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Logos-Prime (KW1) – 
 
 - The publisher's report summarises the first chapter as „Welterkundung Konstrukt-Stadt“ ^[romananalyse-kohaerenz-plot-kritik.md:L129] in „einen stark distanzierten, minimalistischen Erzählstil“ ^[romananalyse-kohaerenz-plot-kritik.md:L129], and criticises that Kael is there „extrem reaktiv und passiv“ ^[romananalyse-kohaerenz-plot-kritik.md:L141].
 - It recommends keeping the start: „Das Erwachen nach dem Reboot in der Konstrukt-Stadt“ ^[romananalyse-kohaerenz-plot-kritik.md:L152] is the correct starting point,, and the first Glitch is to come much earlier — the report's recommendation, not the chapter's content.
+
+## Reading — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium — Architectural Storytelling and the Uncanny Valley instructed for the first chapter
+
+- The drafting compendium instructs that „Die Ausformulierung der Konstrukt-Stadt im ersten Kapitel“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L123] requires the targeted use of `Architectural Storytelling` and `Uncanny Valley` effects, so that AEGIS's dominance is felt without exposition — an instruction, not the chapter's content.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Erwachen-Zyklus
 

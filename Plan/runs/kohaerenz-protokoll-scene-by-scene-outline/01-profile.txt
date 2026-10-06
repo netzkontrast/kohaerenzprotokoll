@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-scene-by-scene-outline
+  lines                574  (frontmatter ends at 9)
+  body words           9842
+  headings             31   bold-only lines 1
+  table rows           35   code fences 0
+  question marks       0
+  backslash escapes    16
+  typographic marks    43   ascii quotes 284
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    60
+  repeated labels      none
+  longest line         899 chars
+

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      10
+  backslash escapes      172
+  typographic marks      213
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  gravi    Gravitation, Gravitational, Gravitationsarchitektur, Gravitationserzählung, Gravitationsfilter, Gravitationsgradienten, Gravitationslinseneffekt, Gravitationszone, Gravitonen, Gravity
+  syste    System, Systemabsturz, Systemarchitektur, Systeme, Systemik, Systemregeln, Systemtheorie, Systemzustände
+  infor    Information, Informationen, Informationsauslöschung, Informationsblindheit, Informationserhaltung, Informationstheorie, Informationsverarbeitung
+  traum    Trauma, Traumabehandlung, Traumapsychologie, Traumas, Traumatisches, Traumaverarbeitung
+  narra    Narrativ, Narrative, Narrativen, Narrativer, Narrativs
+  proto    Protocol, Protokoll, Protokolle, Protokollen, Protokolls
+  psych    Psyche, Psychodynamik, Psychologie, Psychologischer, Psychology
+  selbs    Selbst, Selbstbewusstsein, Selbstheilung, Selbstwahrnehmung, Selbstzweifel
+  entro    Entropic, Entropie, Entropische, Entropischen
+  parad    Paradox, Paradoxien, Paradoxon, Paradoxons
+  physi    Physics, Physik, Physikalisch, Physikalisches
+  struk    Struktur, Strukturellen, Strukturen, Strukturmetapher
+  wahrh    Wahrheit, Wahrheitsdualität, Wahrheitskonflikts, Wahrheitstheorien
+  wider    Widerspruch, Widersprüche, Widersprüchen, Widerstands
+  antei    Anteil, Anteile, Anteilen
+  daten    Datenmengen, Datenpunkt, Datensatzes
+  diale    Dialetheische, Dialetheischen, Dialetheismus
+  dimen    Dimension, Dimensionen, Dimensions
+  erken    Erkennen, Erkenntnis, Erkenntnistheorie
+  funkt    Funktion, Funktionale, Funktionalen
+  gegen    Gegensatz, Gegenstück, Gegenwart
+  geist    Geist, Geistes, Geisteszustand
+  korre    Korrekturen, Korrespondenz, Korrespondenztheorie
+  leben    Leben, Lebenden, Lebens
+  phase    Phase, Phasen, Phasenübergang
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dual < Duale
+  Dual < Dualität
+  Dual < Wahrheitsdualität
+  Eine < Seine
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Informationstheorie
+  Form < Informationsblindheit
+  Form < Informationserhaltung
+  Form < Informationsauslöschung
+  Form < Informationsverarbeitung
+  Hier < Hierarchie
+  Kael < Kaels
+  Kern < Kerne
+  Kern < Kernel
+  Kern < Kernwelt
+  Kern < Kernkonflikt

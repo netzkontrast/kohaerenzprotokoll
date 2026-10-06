@@ -1,0 +1,65 @@
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Blueprint Connection"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Scene Goal"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Outcome & Turn"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Key Events / Beats"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Subsequent Beats"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Functional Multiplicity"
+whole word, case-sensitive     6
+whole word, case-insensitive   14
+including compounds            6
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Entropie"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Wave of Impossibility"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Genesis Crisis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Echo-Intrusion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Lexicon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "KW1-4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Logos-Prime"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            6
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "LogOS-Prime"
+whole word, case-sensitive     1
+whole word, case-insensitive   7
+including compounds            1
+$ read.py kohaerenz-protokoll-scene-by-scene-outline --count "Juna-Connection"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+stance_marker_count = 20+20+20+20+2 = 82

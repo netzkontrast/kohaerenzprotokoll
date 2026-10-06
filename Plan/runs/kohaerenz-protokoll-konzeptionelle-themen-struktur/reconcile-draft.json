@@ -1,0 +1,235 @@
+{
+  "document": "kohaerenz-protokoll-konzeptionelle-themen-struktur",
+  "drive_id": "1auXjKTMTulpVfh5QPKLZcPk5hpiaVgHUgK1qr9Tj_BU",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 112,
+    "decisions": 112,
+    "decided_by_lookup": 98,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        60,
+        62,
+        64,
+        295,
+        310,
+        320,
+        410
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic, autopoietic antagonist, pruned and not deleted"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        238
+      ],
+      "attribution": "",
+      "note": "Alex as Kael's suspicious protector part"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        321,
+        410
+      ],
+      "attribution": "",
+      "note": "AEGIS's effect at the climax"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        237,
+        238
+      ],
+      "attribution": "",
+      "note": "Cerberus as theme 19's Kernwelt"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        50,
+        230,
+        232
+      ],
+      "attribution": "",
+      "note": "entropy as K0's principle and AEGIS's label for truth"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        367
+      ],
+      "attribution": "",
+      "note": "Juna/V in the AEGIS passage and the subsystem table"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        72,
+        77,
+        295,
+        320,
+        330,
+        334,
+        408
+      ],
+      "attribution": "",
+      "note": "Kael as the physical counterpart of AEGIS, organised by TSDP"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        257,
+        258
+      ],
+      "attribution": "",
+      "note": "three Kernwelt themes, no Kernwelt 2"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        75,
+        154
+      ],
+      "attribution": "",
+      "note": "Kiko as an EP of fear"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        49
+      ],
+      "attribution": "",
+      "note": "K1 and consciousness as the signature of coherence"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        50
+      ],
+      "attribution": "",
+      "note": "K0 as entropy, erosion and evolutionary filter"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        145,
+        170
+      ],
+      "attribution": "",
+      "note": "Lex as an ANP and the manager of operational closure"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        218
+      ],
+      "attribution": "",
+      "note": "LogOS as theme 15's Kernwelt"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        169,
+        170,
+        180
+      ],
+      "attribution": "",
+      "note": "Moros as the breakthrough of grief and emptiness"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        194,
+        195
+      ],
+      "attribution": "",
+      "note": "theme 12 aims at functional multiplicity, not fusion"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        119,
+        190
+      ],
+      "attribution": "",
+      "note": "negentropy as the counter to the pull of the black hole, and anger as energy"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        75,
+        180,
+        189
+      ],
+      "attribution": "",
+      "note": "Nyx as an EP of anger and protector"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        74,
+        159
+      ],
+      "attribution": "",
+      "note": "Rhys as an ANP of empathy"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        62
+      ],
+      "attribution": "",
+      "note": "the protocol by which AEGIS fragmented itself"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        27,
+        72,
+        74,
+        75
+      ],
+      "attribution": "",
+      "note": "TSDP as the organising theory of Kael's psyche and of the theme sequence"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q5",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

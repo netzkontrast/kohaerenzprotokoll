@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-konzeptionelle-themen-struktur
+  lines                431  (frontmatter ends at 9)
+  body words           3732
+  headings             22   bold-only lines 39
+  table rows           14   code fences 0
+  question marks       9
+  backslash escapes    172
+  typographic marks    213   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    10
+  repeated labels      Konzept x39, Physik x3
+  longest line         814 chars
+

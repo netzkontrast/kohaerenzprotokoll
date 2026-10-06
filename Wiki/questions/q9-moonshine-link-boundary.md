@@ -180,3 +180,19 @@ A boundary toward AEGIS, and a damage by Act II's cycles; recorded, the question
 First pass: the Externe Ebene is „Eine mysteriöse Realitätsebene, verbunden mit Juna/V“ ^[welt.md:L75], acts as `Moonshine-Link` and offers „eine alternative Kohärenz auf Basis von Resonanz und Empathie“ ^[welt.md:L75]. As a „nicht-lokale, sub-protokollarische Verbindung“ ^[welt.md:L77] it rests „möglicherweise auf den Prinzipien der Quanten-Nichtlokalität und Verschränkung“ ^[welt.md:L77]; the line adds that this would let it overcome the Boundary Protocols (OBP) and the Zero-Trust architecture. The claim is hedged by `möglicherweise`, the following clause is not.
 
 Stands as a boundary toward AEGIS stated as a capacity of the Externe Ebene; recorded, the question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline
+
+**The scene outline's architecture analysis writes the Moonshine-Link as a bond AEGIS cannot perceive; it states no boundary.**
+
+Section 4.3 (L521): Kael's connection to Juna/V „is a non-local and acausal bond that AEGIS's logic cannot perceive or model“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L521]. The lexicon (L570): „The metaphor for the non-local, acausal, and deeply resonant connection between Kael and Juna/V, which is invisible and incomprehensible to AEGIS's logic“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L570]. The two lines name the link's two ends as Kael and Juna/V.
+
+Stands as a statement of what the link is, between Kael and Juna/V; recorded, and the question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan
+
+**The system plan names the connection once `Moonshine-Verbindung`, and argues that, as a Whitehead Prehension, it lies beyond what AEGIS's firewalls can reach.**
+
+Section III opens with „die Verbindung zwischen Kael und Juna/V“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L142], called „Moonshine-Verbindung“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L142] and made to work as an exploit against AEGIS. Applying Whitehead, it calls the connection „direkte physische Prehension“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L158], a „Abwärtskausalität“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L158]; AEGIS can register only „anomale Datenspitzen“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L158], not the connection. It argues „Das Scheitern von AEGIS ist garantiert“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L187].
+
+The plan states a boundary by mechanism, not by place or distance.

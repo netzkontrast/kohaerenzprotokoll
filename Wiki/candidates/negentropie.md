@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 11
-readings: 10
+sources: 12
+readings: 11
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur"]
 gathered: "2026-09-16"
 ---
 
@@ -82,6 +82,10 @@ The three-act blueprint (Act I, the antagonist's gaze) says what the misreading 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Negentropie as the order the minimal being holds against Rauschen
 
 The Textanalyse, a commentary on one narrative, reads the narrative's „minimale Sein“ ^[textanalyse-existenz-system-und-leid.md:L52] as an attempt „lokale Negentropie (Ordnung) gegen die universelle Entropie (Rauschen) aufrechtzuerhalten“ ^[textanalyse-existenz-system-und-leid.md:L52], and adds that this is a struggle „das Wesen des Lebens selbst beschreibt“ ^[textanalyse-existenz-system-und-leid.md:L52], naming Schrödinger. The reading is the commentary's own and borrows a physical sense; the narrative is quoted only for the „Widerstand gegen diesen Druck“ ^[textanalyse-existenz-system-und-leid.md:L52].
+
+## Reading — `kohaerenz-protokoll-konzeptionelle-themen-struktur`, 2025-11-25, the themes exegesis — negentropy as the counter to the pull of the black hole, and anger as energy
+
+The exegesis writes that the system (Kael/AEGIS) must, against the `Schwarzen Loch` of trauma, create „eine Zone negativer Entropie (Negentropie)“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L119] — a hectic order of information; the sentence is the project's integration of Verlinde's entropic gravitation (L119). In theme 11 it reads anger so: „Wut wird als Energie (Negentropie) erkannt“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L190], needed to prevent total collapse of K0 in the past (L190).
 
 ## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — Storyform A's outcome, new order patterns replacing AEGIS' toxic structure
 

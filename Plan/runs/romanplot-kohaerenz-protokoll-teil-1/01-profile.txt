@@ -1,0 +1,14 @@
+# romanplot-kohaerenz-protokoll-teil-1
+  lines                359  (frontmatter ends at 9)
+  body words           6963
+  headings             15   bold-only lines 13
+  table rows           7   code fences 0
+  question marks       14
+  backslash escapes    188
+  typographic marks    232   ascii quotes 12
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    42
+  repeated labels      Primäre Kern-Welt x17, Heldinnenreise-Stufe x13, Plot-Zusammenfassung x13, Schlüsselszenen & Entwicklungen x13, Song-Thema x13, Atmosphäre & Sensorik x5, DIS-Darstellung x5, Metaphern-Einsatz x5, Pacing & Spannung x5, Beschreibung x4, Funktion/Herkunft x4, Name/Bezeichnung x4, Plot-Rolle x4
+  longest line         943 chars
+

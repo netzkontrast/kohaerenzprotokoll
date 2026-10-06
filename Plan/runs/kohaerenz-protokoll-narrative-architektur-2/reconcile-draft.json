@@ -1,0 +1,354 @@
+{
+  "document": "kohaerenz-protokoll-narrative-architektur-2",
+  "drive_id": "1qnj0QAR2a8cokpibBr4l5jXdbCzSYEGcB7enMmGr-Sc",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 102,
+    "decisions": 109,
+    "decided_by_lookup": 82,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        32,
+        34,
+        42,
+        49,
+        62,
+        66,
+        68,
+        187
+      ],
+      "attribution": "",
+      "note": "AEGIS's failure argued as autopoietic closure and a Gödelian limit, ending in „keine des Bösen“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L68]"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "Alex as one of four ANPs"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "Argus as one of four ANPs"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        287,
+        312
+      ],
+      "attribution": "",
+      "note": "Cerberus as Guardian of KW3, forced to a heuristic"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        203,
+        208
+      ],
+      "attribution": "",
+      "note": "entropy as what the Leere breaks into the simulation"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        56,
+        62,
+        64
+      ],
+      "attribution": "",
+      "note": "a section headed „Das Gödel-Gambit“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L56]"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        280,
+        285,
+        286,
+        287
+      ],
+      "attribution": "",
+      "note": "KW3, an NP-complete world of heuristic security"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "Isabelle as the submit and attachment-cry part among the EPs"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        62,
+        64,
+        142,
+        158,
+        187
+      ],
+      "attribution": "",
+      "note": "the Kael–Juna connection as Gödel sentence and as a Whitehead Prehension"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        76,
+        84,
+        102,
+        110,
+        134,
+        363
+      ],
+      "attribution": "",
+      "note": "Kael as the system TSDP is applied to, its aim and its meaning"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        295,
+        297,
+        313
+      ],
+      "attribution": "",
+      "note": "Kairos named in the shared Guardian label of KW4"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        240,
+        255,
+        305,
+        310,
+        311,
+        312,
+        313,
+        380
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as P/NP puzzle levels, with a design matrix"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        97,
+        134,
+        276
+      ],
+      "attribution": "",
+      "note": "Kiko as the freeze part among the EPs"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        68,
+        259,
+        264,
+        266
+      ],
+      "attribution": "",
+      "note": "KW1, a P world with a disguised NP-hard puzzle"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        90,
+        134,
+        265
+      ],
+      "attribution": "",
+      "note": "Lex as an ANP, and as the one set against LogOS in KW1"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        91,
+        96
+      ],
+      "attribution": "",
+      "note": "Lia as the flight part among the EPs"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        263,
+        266,
+        310
+      ],
+      "attribution": "",
+      "note": "LogOS as Guardian of KW1, bound to P logic"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        276,
+        311
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as Guardian of KW2, unable to process qualia"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        291,
+        295,
+        297,
+        313
+      ],
+      "attribution": "",
+      "note": "KW4, an NP-search world of exploration"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "Moros named among the EPs"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        110,
+        134,
+        232,
+        363
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the therapeutic aim, and as narrative voice"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        203,
+        205,
+        206
+      ],
+      "attribution": "",
+      "note": "the Leere defined as `Nichts Rauschen`, to be shown by effect"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        91,
+        95,
+        134
+      ],
+      "attribution": "",
+      "note": "Nyx as the fight part among the EPs"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        49
+      ],
+      "attribution": "",
+      "note": "the Personas as AEGIS's isolated data caches"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        270,
+        275,
+        276,
+        311
+      ],
+      "attribution": "",
+      "note": "KW2, a world beyond NP built on qualia"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "Rhys as one of four ANPs"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        68,
+        208,
+        266,
+        297,
+        347
+      ],
+      "attribution": "",
+      "note": "the Risse as AEGIS's cascade of failures, as puzzle consequences and as proofs of a simulation"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        106,
+        112,
+        114,
+        116
+      ],
+      "attribution": "",
+      "note": "Selene as internal therapist, with a phase model"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        295,
+        297,
+        313
+      ],
+      "attribution": "",
+      "note": "Sophia named in the shared Guardian label of KW4"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        76,
+        84
+      ],
+      "attribution": "",
+      "note": "TSDP as the blueprint of Kael's parts"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

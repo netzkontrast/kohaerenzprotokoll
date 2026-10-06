@@ -210,6 +210,14 @@ In the Genesis-Krise AEGIS fragments its own `Ursprungs-Ich`, and the line ends:
 
 734 as AEGIS's own designation, not Kael's and not a dwelling; recorded, the question stays open.
 
+## 2026-10-06 — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium
+
+**At AEGIS's autopoietic click the compendium has `Komponente 734` replace the pronoun Ich; it does not say what the number labels.**
+
+For the Genesis switch the compendium instructs: „An diesem exakten Punkt muss der Erzählstil schlagartig wechseln.“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L77] The pronoun is replaced by `das System` or `Komponente 734` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1], with a glued reference 5 (`Kohärenz Protokoll`), and fear is recoded as risk-assessment markers. The line is an instruction for the style of the Genesis and places the number at the point where AEGIS's self-definition closes; the line does not name Kael or a dwelling (`Wohneinheit` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#0]).
+
+734 as the stand-in for AEGIS's I at the switch, in a drafting instruction; recorded, the question stays open.
+
 ## 2026-10-05 — the author, through W12: AEGIS emerged from Komponente 734
 
 Asked who is what after the separation, with three readings the sources give (Kael is 734, Kael grows out of 734,
@@ -221,9 +229,24 @@ is, stays open, and so does the question's status.
 ## 2026-10-05 — the author: Kael is the part cut out of Komponente 734
 
 Asked how Kael stands to 734, now that AEGIS emerged from it (W12), with three answers (the part the separation
-cut out of 734, the dwelling's number only, open until the Vortex), the author chose the first, the reading of the
+cut out of 734, the dwelling's number only, open until the [[vortex|Vortex]]), the author chose the first, the reading of the
 draft text of Kap 40/0: „Kael war das Cluster, das aus Komponente 734 herausgetrennt wurde.“
 ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63] **AEGIS and Kael share one origin: AEGIS emerged
 from 734, Kael is what the separation cut out of it.** What the number labels in Kael's daily world — his dwelling,
 his designation, both — stays open, and so does the question's status for that part.
 
+## 2026-10-06 — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot
+
+**The Teil-1 plot proposes `Einheit 734` as the designation of a side character, the construct Lex, the Archivar of KW1.**
+
+The profile of KW1 writes the name field as „Einheit 734 /“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L19] with `Lex` as a „potenzieller Spitzname durch Kael“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L19]. It makes this bearer a construct under LogOS, „Wahrscheinlich eine spezialisierte Subroutine oder ein niederer Agent unter der Kontrolle von LogOS“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L21], and says it „Besitzt kein menschliches Selbstbewusstsein“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L21]. The document does not say what the number labels in the world, and names neither Komponente 734 nor Kael's dwelling.
+
+Where it stands: a new bearer of 734 in a proposal, recorded before the author's answers and changing neither the question nor its status.
+
+## 2026-10-06 — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline
+
+**The scene outline plans `Unit 734` as a Guardian who detains Kael for a coherence check in Scene 1.2, and says nothing of what the number labels.**
+
+Scene 1.2 (Logos-Prime, Transit Corridor, L37–L52): „A Guardian, designated Unit 734, detains him for a“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L42] `random coherence check`. The unit stops Kael, „its voice clinical and impersonal, its presence an embodiment of AEGIS's oppressive control“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L45], and registers his emotional noise „as an anomaly and escalates its protocol, demanding clarification with increased scrutiny“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L49]. The number: `734` ^[kohaerenz-protokoll-scene-by-scene-outline.md:#3].
+
+Stands as a new bearer of 734 in a plan of 2025-10-15, a Guardian, recorded before the author's answers and changing neither the question nor its status.

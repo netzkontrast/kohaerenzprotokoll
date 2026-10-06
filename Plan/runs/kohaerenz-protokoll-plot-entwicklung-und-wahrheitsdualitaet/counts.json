@@ -1,0 +1,1007 @@
+{
+  "document": "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet",
+  "drive_id": "17s1kcos1_eu_b6RvGMr_gd_0enMLbmUHZwI0n_hXsrI",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Dr. Aris Thorne"
+  ],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        13,
+        19,
+        23,
+        39,
+        338,
+        342,
+        345,
+        346,
+        347,
+        348,
+        350
+      ]
+    },
+    "Kohärenzprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "Dualität der Wahrheit": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        19,
+        23,
+        41,
+        76,
+        112,
+        143,
+        149,
+        153
+      ]
+    },
+    "Mandat": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        19,
+        31,
+        41,
+        112,
+        143,
+        153,
+        250
+      ]
+    },
+    "TSDP": {
+      "n": 8,
+      "n_including_compounds": 21,
+      "lines": [
+        23,
+        39,
+        41,
+        45,
+        49,
+        62,
+        109,
+        112,
+        116,
+        143,
+        185,
+        189,
+        200,
+        211,
+        286,
+        333
+      ]
+    },
+    "Theorie der Strukturellen Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "System Kael": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        45,
+        56,
+        109,
+        174,
+        207
+      ]
+    },
+    "Kael": {
+      "n": 39,
+      "n_including_compounds": 64,
+      "lines": [
+        23,
+        41,
+        45,
+        49,
+        54,
+        56,
+        63,
+        83,
+        94,
+        109,
+        112,
+        122,
+        131,
+        132,
+        143,
+        145,
+        163,
+        164,
+        174,
+        175,
+        177,
+        194,
+        195,
+        196,
+        205,
+        206,
+        207,
+        215,
+        216,
+        217,
+        221,
+        226,
+        227,
+        242,
+        262,
+        263,
+        269,
+        280,
+        284,
+        285,
+        286,
+        290,
+        292,
+        303,
+        304,
+        306,
+        318,
+        319,
+        323,
+        324,
+        329,
+        334
+      ]
+    },
+    "AEGIS": {
+      "n": 56,
+      "n_including_compounds": 59,
+      "lines": [
+        23,
+        41,
+        82,
+        83,
+        87,
+        94,
+        95,
+        109,
+        112,
+        118,
+        122,
+        123,
+        131,
+        132,
+        144,
+        163,
+        164,
+        174,
+        175,
+        176,
+        177,
+        193,
+        194,
+        196,
+        205,
+        206,
+        207,
+        217,
+        221,
+        222,
+        226,
+        227,
+        269,
+        280,
+        288,
+        291,
+        292,
+        304,
+        305,
+        306,
+        318,
+        323,
+        324,
+        328,
+        329,
+        334
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "ANPs": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        41,
+        51,
+        52,
+        54,
+        56,
+        205,
+        206,
+        207,
+        216,
+        237
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "EPs": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        41,
+        52,
+        54,
+        56,
+        63,
+        83,
+        109,
+        163,
+        164,
+        175,
+        176,
+        196,
+        204,
+        205,
+        206,
+        207,
+        216,
+        238,
+        305,
+        334
+      ]
+    },
+    "Host": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        194
+      ]
+    },
+    "Lex": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        64,
+        205,
+        206,
+        267,
+        305,
+        342
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        66,
+        205
+      ]
+    },
+    "Argus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        206
+      ]
+    },
+    "Kiko": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        68,
+        71,
+        195,
+        205,
+        268
+      ]
+    },
+    "Lia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        71
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        70,
+        195,
+        207
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        205
+      ]
+    },
+    "Selene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        215
+      ]
+    },
+    "Silus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Juna/V": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        215,
+        270,
+        282,
+        284,
+        285,
+        286,
+        303,
+        334
+      ]
+    },
+    "LogOS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        196,
+        237
+      ]
+    },
+    "Mnemosyne": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        204,
+        205,
+        238
+      ]
+    },
+    "Cerberus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        205,
+        239
+      ]
+    },
+    "Kairos/Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        240
+      ]
+    },
+    "Plot A": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        109,
+        112,
+        114,
+        116,
+        143,
+        347
+      ]
+    },
+    "Plot B": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        110,
+        112,
+        143
+      ]
+    },
+    "Glitch": {
+      "n": 5,
+      "n_including_compounds": 9,
+      "lines": [
+        23,
+        39,
+        109,
+        110,
+        143,
+        195,
+        340,
+        341
+      ]
+    },
+    "Risse": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        83,
+        95,
+        176,
+        206
+      ]
+    },
+    "Isolation Objection": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        82,
+        83,
+        176
+      ]
+    },
+    "Protokoll-Ontologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        91
+      ]
+    },
+    "K\\_1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        93,
+        94
+      ]
+    },
+    "K\\_0": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        93,
+        94,
+        329
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Paradoxon X": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        94,
+        206,
+        305
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        94,
+        163,
+        291
+      ]
+    },
+    "Kael-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        144,
+        227,
+        276
+      ]
+    },
+    "algorithmischen Melancholie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        279
+      ]
+    },
+    "Pathologische Transformation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        122,
+        226,
+        279
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        131,
+        177,
+        221
+      ]
+    },
+    "lebender Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Parakonsistente Gambit": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        181,
+        217,
+        296,
+        304,
+        314
+      ]
+    },
+    "Parakonsistentes Gambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "Parakonsistenten Gambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Kohärente Lüge": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        163,
+        189
+      ]
+    },
+    "Kohärenz-Lüge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Chaotische Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        164,
+        200
+      ]
+    },
+    "Integrierte Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        211,
+        319
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        164,
+        215,
+        292,
+        324
+      ]
+    },
+    "Funktionalen Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        207
+      ]
+    },
+    "Multiplizität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        164,
+        207,
+        215,
+        292,
+        323,
+        324
+      ]
+    },
+    "Singularität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        323,
+        324
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        285,
+        292,
+        323
+      ]
+    },
+    "Selbst": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        215,
+        286,
+        334
+      ]
+    },
+    "Inneren Rat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        285
+      ]
+    },
+    "Duale Natur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        284
+      ]
+    },
+    "Mosaik-Monolith": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        260
+      ]
+    },
+    "Mosaik": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        260,
+        262,
+        263
+      ]
+    },
+    "Monolith": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        260,
+        262,
+        263,
+        350
+      ]
+    },
+    "Reduktive Allegorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        288
+      ]
+    },
+    "Fundament": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        27,
+        31,
+        49,
+        112,
+        132
+      ]
+    },
+    "KW1": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        193,
+        196,
+        237,
+        242,
+        319
+      ]
+    },
+    "KW2": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        204,
+        238,
+        242,
+        319
+      ]
+    },
+    "KW3": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        204,
+        239,
+        242
+      ]
+    },
+    "KW4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        240,
+        242
+      ]
+    },
+    "Logos-Prime": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        193,
+        237
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        204,
+        238
+      ]
+    },
+    "Grenzfeste": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        204,
+        239
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        240
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        231,
+        235
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Quanten-Dekohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Philosophenkönig": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Problem des Vergleichs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Kohärenz-Diktatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        334
+      ]
+    },
+    "parakonsistente Demokratie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        334
+      ]
+    },
+    "Gaslighting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        23,
+        41,
+        51,
+        64,
+        82,
+        175,
+        193,
+        318
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        41,
+        52,
+        83,
+        175,
+        318
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Korrespondenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Dialetheismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        177,
+        216
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        123,
+        222
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        286
+      ]
+    },
+    "Qualia": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        82,
+        122,
+        227,
+        280,
+        328,
+        329
+      ]
+    },
+    "Episteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        328
+      ]
+    },
+    "Gnosis": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        227,
+        280,
+        328
+      ]
+    },
+    "Deus Ex Machina": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        282,
+        284,
+        286,
+        303
+      ]
+    },
+    "Value Alignment Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        329
+      ]
+    },
+    "Harte Problem des Bewusstseins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        328
+      ]
+    }
+  }
+}

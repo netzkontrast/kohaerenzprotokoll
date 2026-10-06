@@ -1,0 +1,100 @@
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Empfehlung"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            19
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Analyse"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            17
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Begründung"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Antwort des Romans"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Dualität der Wahrheit"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "K\_1"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "K\_0"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Algorithmische Melancholie"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "KW1"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "KW2"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "KW3"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "KW4"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Kohärenz Protokoll"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Guardian"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Wächter"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Dr. Aris Thorne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Kaels"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "Glitches"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet --count "fundamental"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+stance_marker_count 13+13+5+4 = 35
+profile: 205 backslash escapes, 55 glued ref numbers, 22 question marks (01-profile.txt)
+$ grep -n '?' Sources/drive/kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md | wc -l   (lines with ? : 72,303-306,316,321,326,331 = 9, and 13 reference URLs = 22 lines? see below)
+72 303 304 305 306 316 321 326 331 338 339 340 341 342 343 344 345 346 347 348 349 350 
+census: 99 candidates; Part 3.1 lines L254-L306; 13 references L338-L350; four Part 3.2 questions L316,L321,L326,L331; nine parts beside Host: Lex Alex Rhys Argus Selene Kiko Lia Moros Nyx (L64-L72)

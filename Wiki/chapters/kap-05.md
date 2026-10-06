@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung"]
+sources: 29
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -21,6 +21,10 @@ novel follows is the author's call. All chapters side by side:
 Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
 
 Im Auge des Sturms erzielt Kael, lex-dominant, einen falschen Erfolg, eine trügerische Stabilität auf nicht integrierter Basis, spiegelglatt und sensorisch flach: laut Plot-Konkretisierung die Beförderung in die Bestandspflege, gefährlichere Arbeit als Auszeichnung verpackt, in der er zum ersten Mal das Gewicht eines Datensatzes spürt, bevor er klickt, laut Konzept-Iteration Genesis ein analytischer Erfolg in der McLaughlin-Welt, laut strukturierter Outline ein Erfolg im Übergang von KW1 zum KW2-Rand, mit ersten Schatten von Rhys als Wärme, die Kael nicht versteht. Kapitel-Kompendium und Kernwelten vollständig lassen es in KW1 spielen, diese in justierter Pseudo-Stabilität; laut AEGIS-Subplots trifft Kael in einem simulierten Café eine Wahl, dessen Lichter sich zu perfekt an seinen Blick anpassen, und fühlt sich antizipiert oder verwaltet. In der Heldinnenreise ist es das Auge des Sturms, der falsche Erfolg, laut strukturierter Outline in der Ki-Vertiefung von Akt I, und laut Konzept-Iteration Genesis wiederholt die Bestätigung der Isolationsstrategie den Algorithmus des großen Wandels. Storyform A trägt das MC-Concern Memory, laut strukturierter Outline die Stabilität als Erinnerungs-Substitut; Storyform B ist laut Konzept-Iteration Genesis, konsolidiertem Konzept und Drei-Modi-Spezifikation latent, laut Kernwelten vollständig ist das Kapitel Kandidat für das Hard-B-Kapitel mit AEGIS-Innensicht, in dessen Fenster es laut Plot-Konkretisierung liegt. Die Storyform-Outline verlangt, das Kapitel zu verdichten.
+
+## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — crossing the threshold in KW2
+
+- The Teil-1 plot proposes Kapitel 5, `Gates of Judgement` (L127), as crossing the threshold in KW2: „Kael steht vor direkten Herausforderungen in KW2“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L132]. It hedges, and adds a trauma zone, a DID intrusion and a conscious decision to seek answers (L137–L139), the edge of KW2 towards KW3 (L142).
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
@@ -89,6 +93,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael könnte ein vages Gefühl haben, antizipiert oder verwaltet zu werden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Discussion: „Die Umgebung selbst wird Teil des Kontroll- und Überwachungsapparates“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L82]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Der Ruf der Resonanz-Landschaft
+
+- The architecture plan sets Kapitel 5 in Teil 1 as the archetypal phase „Der Ruf der Resonanz-Landschaft“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L21], with the core theme „Konfrontation mit unterdrückter Emotionalität“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L21] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L117.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The First Journey into Memory`, one entry shared with Kap 04–05
 
 Title: „The First Journey into Memory“ ^[ai-assisted-narrative-coherence.md:L1335] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
@@ -97,6 +105,10 @@ Position: the scene outline plans the scene at „1.4 - Mnemosyne-Archipel (KW2)
 - Story (conflict): the scene outline plans „an overwhelming sensory assault“ ^[ai-assisted-narrative-coherence.md:L1342]
 - Story (beat): the scene outline plans „and pushes through, falling from the sterile data-scape of KW1“ ^[ai-assisted-narrative-coherence.md:L1345]
 - Turn: `Outcome & Turn` has „Kael escapes the loop and retreats from KW2, terrified“ ^[ai-assisted-narrative-coherence.md:L1350]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Chapters 4–5, The First Journey into Memory
+
+- The scene outline plans Chapter 5 within Chapters 4–5, „The First Journey into Memory“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L73], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The illusion of strength
 

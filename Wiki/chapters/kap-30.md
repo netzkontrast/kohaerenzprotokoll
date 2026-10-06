@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
+sources: 28
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -72,6 +72,10 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Wände verschieben sich, die Physik biegt sich unvorhersehbar“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
 - Story: „absichtliche, gezielte Realitätsverformung als Waffe“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — AEGIS' letztes Aufgebot
+
+- The architecture plan sets Kapitel 30 in Teil 3 as the archetypal phase „AEGIS' letztes Aufgebot“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L46], with the core theme „Mobilisierung aller Ressourcen gegen die ultimative 'entropische' Bedrohung“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L46] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L475.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Cracking the Code` — one entry shared with Kap 27–30
 
 Title: „Cracking the Code“ ^[ai-assisted-narrative-coherence.md:L1584] — Act III, under the heading „3.0 Act III: The Confrontation and the New Reality (Chapters 27-39)“ ^[ai-assisted-narrative-coherence.md:L1578]
@@ -80,6 +84,10 @@ Position: scene 3.1 at „3.1 - The Überwelt, Outer Defenses“ ^[ai-assisted-n
 - Story (goal): the scene outline plans „To bypass AEGIS's primary security layers and reach its core processing unit.“ ^[ai-assisted-narrative-coherence.md:L1590]
 - Story (beat): the scene outline plans „This paradox freezes the local Guardian's decision-making process, creating a momentary opening.“ ^[ai-assisted-narrative-coherence.md:L1597]
 - Turn: `Outcome & Turn` has „They have weaponized their multiplicity, proving it is a superior form of problem-solving.“ ^[ai-assisted-narrative-coherence.md:L1600]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Chapters 27–30, Cracking the Code
+
+- The scene outline plans Chapter 30 within Chapters 27–30, „Cracking the Code“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L322], in Act III: The Confrontation and the New Reality — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Meeting the mentor
 

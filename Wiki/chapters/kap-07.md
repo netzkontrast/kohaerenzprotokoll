@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
+sources: 29
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -21,6 +21,10 @@ novel follows is the author's call. All chapters side by side:
 Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
 
 In der Stimme im Rauschen wird die Verbindung zwischen Kael und Juna stärker: Kael spürt sie, ohne sie zu sehen, erkennt eine Resonanz wieder, ohne zu wissen, was sie ist, und die Telefon-Stille wird zum ersten expliziten Anker, laut Kernwelten vollständig an einem Telefon-Stille-Lokus in KW1; laut Plot-Konkretisierung spricht er zum ersten Mal in die Leitung hinein, während sein Gegenregister pausiert. Juna wird nie Subjekt, nur Wirkung, nicht beschrieben, nur Stille und Phantom-Resonanz; ihre Resonanz, in der Genesis ein Angriff, ist jetzt als Sehnsucht erfahrbar, erzählt laut strukturierter Outline und Drei-Modi-Spezifikation in Kaels emotionaler, lyrischer Stimme. Sinnlich tragen es Stille als Klang und warme Resonanz, laut strukturierter Outline und Drei-Modi-Spezifikation ein warmer Windstoß in eisiger Welt mit Melodie, den die Konzept-Iteration Genesis dem Bunker-Bau gibt; laut AEGIS-Subplots begegnet Kael hier einem Riss als lokalem Kontrollverlust, der ihm beweist, dass seine Welt konstruiert ist. In der Heldinnenreise ist es Unterstützung, die Sehnsucht nach dem Weiblichen, laut strukturierter Outline in der Ki-Vertiefung von Akt I; Storyform A trägt die Relationship Story in Physics mit Moonshine-Bewusstwerdung, laut Kapitel-Kompendium und Storyform-Outline ihren ersten Signpost Learning, Storyform B ist latent, und laut Plot-Konkretisierung liegt das Kapitel im Fenster des Hard-B-Kapitels.
+
+## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — the inmost cave in KW3
+
+- The Teil-1 plot proposes Kapitel 7, `Death` (L165), as the inmost cave in KW3: „Kael fühlt sich in den Grenzen von KW3 gefangen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L170]. It hedges, and adds a moment of ego death, a `Sicherheitslücken-Riss` and the `Wächter`-Anteil coming forward (L177–L179).
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
@@ -91,6 +95,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael könnte kurzzeitig etwas 'außerhalb' oder 'unterhalb' der Simulation wahrnehmen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „AEGIS/Guardians könnten aktiv versuchen, den Riss einzudämmen oder zu reparieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
 - Discussion: „liefert Kael unbestreitbare Beweise dafür, dass seine Welt konstruiert und fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L108]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Phobien im System
+
+- The architecture plan sets Kapitel 7 in Teil 1 as the archetypal phase „Phobien im System“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L23], with the core theme „Interne Barrieren und die Angst voreinander“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L23] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L145.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Fortress of Fear`, one entry shared with Kap 06–07
 
 Title: „The Fortress of Fear“ ^[ai-assisted-narrative-coherence.md:L1352] — Act I, under the heading „Act I: Fragmentation and First Echoes“ ^[ai-assisted-narrative-coherence.md:L1279]
@@ -99,6 +107,10 @@ Position: the scene outline plans the scene at „1.5 - Cerberus-Labyrinth (KW3)
 - Story (goal): the scene outline plans „To find a safe, defensible space to recover from the emotional overflow of KW2“ ^[ai-assisted-narrative-coherence.md:L1358]
 - Story (conflict): the scene outline plans „tries to contain him within a paradoxical maze“ ^[ai-assisted-narrative-coherence.md:L1359]
 - Turn: `Outcome & Turn` has „Kael is temporarily safe but trapped.“ ^[ai-assisted-narrative-coherence.md:L1367]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Chapters 6–7, The Fortress of Fear
+
+- The scene outline plans Chapter 7 within Chapters 6–7, „The Fortress of Fear“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L90], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Death of the old identity
 

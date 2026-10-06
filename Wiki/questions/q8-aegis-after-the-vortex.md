@@ -278,3 +278,35 @@ Stands as collapse or transformation, undecided, in a beat sheet of 2025-07-29 t
 The line stands among the consensus points. In the finale the protocol ends not in a victory over AEGIS but in a stable, adaptive resonance protocol in which AEGIS stays „algorithmisch melancholischer“ ^[romanprojekt-analyse-synthese.md:L62] guardian, while Juna is accepted as the integrative centre. In the storyform passage the failure of AEGIS before living paradoxes leads „zur finalen Disintegration der rigiden AEGIS-Struktur“ ^[romanprojekt-analyse-synthese.md:L107]. The document does not use the word `Vortex` ^[romanprojekt-analyse-synthese.md:#0] and does not say AEGIS becomes plural.
 
 Stands: transformation with AEGIS kept, and at the same time the rigid structure's disintegration, in a synthesis of 2026-04-30; it predates the author's answers of 2026-10-05, which stand, and changes neither.
+
+## 2026-10-06 — `kohaerenz-protokoll-konzeptionelle-themen-struktur`, 2025-11-25, the themes exegesis
+
+**The themes exegesis has Kael prune AEGIS and AEGIS fall into Algorithmische Melancholie; it writes no Vortex.**
+
+Theme 29 says: „Kael wählt, AEGIS nicht zu löschen, sondern zu beschneiden“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L295], and „Er toleriert das Chaos, um Freiheit zu ermöglichen“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L295]. Theme 34 (L317–L321): „Kael injiziert sein paradoxes Selbstbewusstsein in AEGIS“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L320]; AEGIS fails to compute the statement and „Es fällt in“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L321] `Algorithmische Melancholie`. Section 6 repeats it: „Das Ergebnis ist kein gewaltsamer Sieg, sondern die Versetzung des Antagonisten“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L410]. The word `Vortex` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#0] is not in the document, and the lines do not say AEGIS becomes plural. The numbers 29 and 34 are themes of the exegesis.
+
+Stands: pruned and frozen, not deleted, in an exegesis of 2025-11-25; it predates the author's answers of 2026-10-05 and changes neither.
+
+## 2026-10-06 — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline
+
+**The scene outline plans AEGIS to survive the climax, transformed to a paraconsistent logic, and to end in a state it calls algorithmic melancholy; it writes no Vortex.**
+
+Scene 3.2 (Chapters 31–33): „it abandons classical logic and adopts a paraconsistent framework“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L356], and „It does not die; it is fundamentally and irrevocably transformed.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L356] Scene 3.3 (Chapters 34–36): AEGIS is still present: „It communicates in cryptic, paradoxical koans“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L371] and „It is in a state of profound, cold contemplation“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L371]; Kael „realizes he has not killed a monster but broken a flawed god“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L372]. The architecture analysis (L409–L573) says of the same state that AEGIS „possesses a final, logical gnosis of the truth but is forever excluded from its meaning or experience“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L517].
+
+Stands as a transformed AEGIS that is neither destroyed nor taken over by a plural form, in a plan of 2025-10-15; it predates the author's answers of 2026-10-05 and changes neither.
+
+## 2026-10-06 — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan
+
+**The architecture plan leaves AEGIS's fate open in Kapitel 36 as a list of questions; it has no Vortex and gives no answer.**
+
+The word `Vortex` ^[romanarchitektur-kael-aegis-entropie-docx.md:#0] does not stand in it (a count). Kapitel 36 asks „Wird AEGIS zerstört?“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L565] and goes on to ask whether Kael can change AEGIS's core programming so it accepts complexity, whether it is switched off or isolated, or whether it continues in a reduced or changed form. The section names the resolution of the central paradox as its focus: „Die Auflösung des zentralen Paradoxons von AEGIS steht im Mittelpunkt“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L565].
+
+Stands: AEGIS's state after the confrontation is posed as open questions in the plan's own terms; recorded, not applied, and no function is passed to another figure.
+
+## 2026-10-06 — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper
+
+**The truth-duality paper reports two hypotheses of AEGIS's fate and chooses the transformation into Algorithmische Melancholie.**
+
+It reports, from a document it cites by digit, Hypothese A: „AEGIS entwickelt eine parakonsistente Logik“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L122] (L122), and Hypothese B: „AEGIS' binäre Logik zerbricht am Paradoxon“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L123] (L123). For its own plot it chooses: „Wir wählen die thematisch stärkere Option“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L226] (L226), and ends AEGIS in „einer ewigen, sinnlosen Berechnung“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L227] (L227); recommendation 2 calls this „die thematisch bei weitem überlegene Auflösung“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L279] (L279).
+
+Stands: a choice of the paper, dated before the author's answer of 2026-10-05 (the record's own status), and it changes neither it nor the open part of the question.

@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -74,6 +74,10 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Verwirrung, Lähmung oder erratischen Verhaltens“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
 - Story: „Kael nutzt dieses Fenster der Störung, um ein spezifisches Ziel zu erreichen (Flucht, Informationszugriff usw.).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
 
+## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Das Gehirn im Tank-Experiment
+
+- The architecture plan sets Kapitel 22 in Teil 2 as the archetypal phase „Das Gehirn im Tank-Experiment“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L38], with the core theme „Vertiefte philosophische Reflexion über Realität und Simulation“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L38] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L359.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Splintering of the Guardians: A System Fractures`
 
 Title: „The Splintering of the Guardians: A System Fractures“ ^[ai-assisted-narrative-coherence.md:L1532] — Act II, under the heading „Act II: The Labyrinth and the Patterns“ ^[ai-assisted-narrative-coherence.md:L1424]
@@ -82,6 +86,10 @@ Position: the chapter has no scene fields in the outline; its prose says „A Gu
 - Story (beat): the scene outline plans „This chapter shifts perspective to show the consequences of AEGIS's actions on its own agents.“ ^[ai-assisted-narrative-coherence.md:L1534]
 - Story (beat): the scene outline plans „It experiences a logical conflict between its orders and its function to preserve the system.“ ^[ai-assisted-narrative-coherence.md:L1534]
 - Turn: the scene outline plans „This shows the first cracks in AEGIS's monolithic control.“ ^[ai-assisted-narrative-coherence.md:L1534]
+
+## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — A System Fractures
+
+- The scene outline plans Chapter 22 as „A System Fractures“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L270], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The world as wound
 
