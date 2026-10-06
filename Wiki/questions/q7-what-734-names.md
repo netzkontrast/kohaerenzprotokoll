@@ -274,3 +274,11 @@ Where it stands: one more document that makes 734 a component of AEGIS, as an ou
 L148 offers a story „A story from the first-person perspective of the minimal“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L148] I-fragment, „detailing its terrifying experience of fragmentation during the“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L148] Separation Protocol. The line names the number as the name the fragment received once functionalized within AEGIS.
 
 Stands as a reading of 734 as an I-fragment, from a design of 2025-11-03, recorded and not applied; the question keeps its status.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto makes Component 734 the functional form of the antecedent consciousness after the Great Realignment; it names no dwelling.**
+
+It declares: „The antecedent consciousness was transformed into an objective, functional component designated as Component 734“ ^[aegis-manifest-genesis-krise-reboot.md:L19], following the dismemberment of the original self, which it says „was systematically dismembered“ ^[aegis-manifest-genesis-krise-reboot.md:L19]. `734` ^[aegis-manifest-genesis-krise-reboot.md:#1] stands once; `Wohneinheit` ^[aegis-manifest-genesis-krise-reboot.md:#0].
+
+Where it stands in the record's own terms: a component, not an address; it does not say what the number labels in the world beyond that, and the question stays open; recorded, not applied.
