@@ -1,0 +1,75 @@
+# counts for 61 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            55 word    65 in   [22, 26, 35, 41, 49, 58]
+                                   10      as AEGIS-Plot
+  Kael                             41 word    86 in   [22, 26, 27, 35, 41, 49]  <-- substring
+                                   45      as Kaels
+  Juna                             10 word    12 in   [89, 94, 100, 102, 113, 158]
+                                    2      as Junas
+  Lex                              14 word    14 in   [65, 101, 132, 156, 158, 174]
+  Rhys                              6 word     6 in   [101, 185, 241, 265, 309, 310]
+  Nyx                               9 word     9 in   [113, 167, 174, 176, 177, 212]
+  Kiko                              3 word     4 in   [66, 185, 212, 309]
+                                    1      as Kikos
+  Lia                               1 word     1 in   [102]
+  Moros                             4 word     4 in   [113, 212, 230, 275]
+  Selene                            4 word     4 in   [185, 241, 264, 311]
+  Alex                              2 word     2 in   [265, 309]
+  LogOS                             6 word     6 in   [76, 83, 84, 132, 140]
+  Mnemosyne                         1 word     2 in   [76, 84]
+                                    1      as Mnemosynes
+  Kairos                            1 word     1 in   [140]
+  Consensus Enforcer                1 word     1 in   [140]
+  Zero-Trust Execution Model (ZTEM)    1 word     1 in   [76]
+  Zero-Trust Execution Model        1 word     1 in   [76]
+  ZTEM                              1 word     1 in   [76]
+  Digitale Überwelt                 2 word     2 in   [75, 76]
+  Digitalen Überwelt                2 word     2 in   [138, 210]
+  Kernwelt                          4 word     5 in   [58, 83, 132, 139, 185]
+                                    1      as Kernwelten
+  Kernwelten                        1 word     1 in   [185]
+  Co₁                               2 word     2 in   [58, 139]
+  McL                               1 word     1 in   [185]
+  Kohärenz Protokoll                3 word     3 in   [13, 22, 58]
+  Paradoxon der Fehlausgerichteten Kohärenz    1 word     1 in   [26]
+  Paradoxon X                       2 word     2 in   [199, 204]
+  weißen Raum                       2 word     2 in   [228, 309]
+  Ko-Bewusstsein                    2 word     3 in   [167, 231, 305]
+                                    1      as Ko-Bewusstseins
+  ANP                               6 word    18 in   [57, 59, 65, 100, 101, 102]  <-- substring
+  EP                                1 word    14 in   [66, 67, 113, 132, 159, 169]  <-- substring
+  Anscheinend Normalen Persönlichkeitsanteils    1 word     1 in   [59]
+  Emotionalen Persönlichkeitsanteil    1 word     1 in   [66]
+  Morgenritual                      1 word     1 in   [53]
+  Neustart                          1 word     1 in   [185]
+  Entwicklungs-Tracker              1 word     1 in   [301]
+  Strukturelle Gesamtkarte          1 word     1 in   [31]
+  Kapitel-Kishōtenketsu            10 word    10 in   [60, 78, 96, 134, 152, 170]
+  Aktübersicht                      4 word     4 in   [49, 123, 195, 249]
+  Ki                               17 word    35 in   [22, 35, 36, 45, 49, 59]  <-- substring
+  Shō                              17 word    17 in   [37, 65, 83, 101, 119, 123]
+  Ten                              16 word    16 in   [38, 66, 84, 102, 140, 158]
+  Ketsu                            16 word    16 in   [39, 67, 85, 103, 141, 159]
+  Mittelpunkt/Punkt ohne Wiederkehr    1 word     1 in   [187]
+  auslösenden Moment                1 word     1 in   [115]
+  Kishōtenketsu                     1 word    13 in   [22, 35, 60, 78, 96, 134]  <-- substring
+                                    1      as Kishōtenketsu-Struktur
+                                    1      as Kishōtenketsu-Phase
+  Westliche Dramaturgie             1 word     1 in   [35]
+  westlichen Dramaturgie            1 word     1 in   [115]
+  Konfliktdramaturgie               1 word     1 in   [22]
+  Heldenreise                       3 word     3 in   [27, 35, 49]
+  Tragische Heldinnenreise          1 word     1 in   [35]
+  Anagnorisis                       3 word     3 in   [38, 195, 239]
+  Das Edle Ziel                     1 word     1 in   [36]
+  Edlen Ziels                       1 word     1 in   [49]
+  Gewöhnliche Welt                  1 word     1 in   [36]
+  Gewöhnlichen Welt                 1 word     1 in   [49]
+  Tiefste Krise                     2 word     2 in   [38, 195]
+  Rückkehr mit dem Elixier          2 word     2 in   [39, 249]
+  Neuer Seinszustand                2 word     2 in   [39, 249]
+  TSDP                              1 word     1 in   [305]
+  Signal-Rausch-Verhältnis          1 word     1 in   [111]

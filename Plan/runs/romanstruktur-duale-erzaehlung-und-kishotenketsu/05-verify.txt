@@ -1,0 +1,127 @@
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Aktübersicht"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Aktübersicht` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#4]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Kapitel-Kishōtenketsu"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kapitel-Kishōtenketsu` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#10]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Paradoxon X"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Paradoxon X` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#2]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Co1"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Co1` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#0]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Wir-Perspektive"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Wir-Perspektive` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#0]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Kishōtenketsu"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            13
+
+`Kishōtenketsu` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#1]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Heldenreise"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Heldenreise` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#3]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Paradoxon"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Paradoxon` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#4]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "TSDP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#1]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Alex"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Alex` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#2]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Lia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lia` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#1]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "ANPs"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`ANPs` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#4]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "EPs"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`EPs` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#9]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "ANP"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            18
+
+`ANP` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#6]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "EP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            14
+
+`EP` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#1]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Kaels"
+whole word, case-sensitive     45
+whole word, case-insensitive   45
+including compounds            45
+
+`Kaels` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#45]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Kikos"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kikos` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#1]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Kishōtenketsu-Struktur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kishōtenketsu-Struktur` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#1]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Kishōtenketsu-Phase"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kishōtenketsu-Phase` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#1]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Consensus Enforcer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Consensus Enforcer` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#1]
+$ python3 scripts/read.py romanstruktur-duale-erzaehlung-und-kishotenketsu --count "Mnemosyne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Mnemosyne` ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:#1]
+$ nine named Anteile: Kael Lex Rhys Nyx Kiko Moros Selene Alex Lia (each counted in 04-counts.txt, all >=1); stance_marker_count 14 = Aktübersicht 4 + Kapitel-Kishōtenketsu 10
