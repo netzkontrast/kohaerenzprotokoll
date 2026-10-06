@@ -588,3 +588,11 @@ Stands as the document's own count beside its own list, dated before the author'
 It summarises Kael's system as one that „in zehn distinkte Anteile (Alters) zersplittert ist“ ^[romananalyse-kohaerenz-plot-kritik.md:L17], and its Alters table (L80–L89) names `Kael`, `Limina`, `Index`, `Nox`, `Praetor`, `Eos`, `Echo`, `Oblivion`, `Flicker` and `Silas`. Its Kern-Welten table (L56–L59) names KW1 to KW4 with their Guardians; the Alters are not set against the worlds, though `Praetor` „Löst Konflikte mit der Umwelt und Cerberus aus.“ ^[romananalyse-kohaerenz-plot-kritik.md:L84]
 
 Where it stands in the record's own terms: ten Alters and four Kern-Welten in a report of 2026-02-23, before the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten carrying the acts), which stand; whether a Kern-Welt corresponds to an alter stays open.
+
+## 2026-10-06 — `welt`, 2025-07-29, the Welt blueprint
+
+**The Welt blueprint writes four Kernwelten, each the domain of one to three named Anteile, and does not set world and alter one to one.**
+
+It opens with „Die vier Kernwelten sind von AEGIS geschaffene“ ^[welt.md:L36] simulations. By world (first pass): KW1 is „die Domäne von Lex, Kaels rationalem ANP“ ^[welt.md:L40]; KW2 „die Domäne der EPs (Emotionale Persönlichkeitsanteile)“ ^[welt.md:L47]; KW3 „die Domäne von Alex (Protektor-ANP) und Nyx (Kampf-EP)“ ^[welt.md:L54]; KW4 „Die Domäne von Lia (Kind-EP, Ambivalenz), Rhys (Pflegender ANP) und Selene (das Selbst)“ ^[welt.md:L61]. The second pass repeats the four worlds (L90–L113) and names Lex again for KW1 (L92).
+
+Stands as one more document listing the Anteile by world, dated 2025-07-29; the question stays open and neither the author's answers nor the record's table change.
